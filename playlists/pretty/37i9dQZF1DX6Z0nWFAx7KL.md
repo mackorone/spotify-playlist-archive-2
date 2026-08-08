@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > easy breezy music ☀️☺️
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,112 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,101 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 38 | [Crazy](https://open.spotify.com/track/4JZ6Elf98LpgS4zgK4vGqT) | [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [Arthur](https://open.spotify.com/artist/79N6rjBT1it5T9yDObqFF3), [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU) | [Crazy](https://open.spotify.com/album/2gfGTqZZLEmn9ATxYef7Xa) | 2:18 |
 | 39 | [Who I Am](https://open.spotify.com/track/68xhZFDatrsgFByOoYY7GO) | [Alber\-K](https://open.spotify.com/artist/2BtgaIaWWqtnaK4AIGphVH), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD) | [Who I Am](https://open.spotify.com/album/5YWV2NWTHemfJwn25QEteH) | 2:49 |
 | 40 | [It's Alright \- Original Mix](https://open.spotify.com/track/3ABPEz0ASeocrzXOHZix5D) | [Marc Brauner](https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf) | [Radiant EP](https://open.spotify.com/album/43ZuCqtg7zu8dhpvZTJVf2) | 4:49 |
-| 41 | [Somebody Knows](https://open.spotify.com/track/6ggn3nOmgJSGnA4FlGQVRc) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Somebody Knows](https://open.spotify.com/album/4fUdu5HvnHpYHPYonFVox5) | 3:48 |
-| 42 | [Anywhere](https://open.spotify.com/track/400oVcUSO7uYqGSj8KjN8g) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v), [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR) | [Anywhere](https://open.spotify.com/album/21ptT4ISYfDiAXfRmBtp9w) | 2:23 |
-| 43 | [Need A Break](https://open.spotify.com/track/0est3WrsDX02oU8CumrLpz) | [MAKS \(FR\)](https://open.spotify.com/artist/0C3AuNGBY39ioSTA79TzMz) | [Need A Break](https://open.spotify.com/album/3ayu0iDvhYm0QEP7G2tO2j) | 2:27 |
+| 41 | [Need A Break](https://open.spotify.com/track/0est3WrsDX02oU8CumrLpz) | [MAKS \(FR\)](https://open.spotify.com/artist/0C3AuNGBY39ioSTA79TzMz) | [Need A Break](https://open.spotify.com/album/3ayu0iDvhYm0QEP7G2tO2j) | 2:27 |
+| 42 | [Somebody Knows](https://open.spotify.com/track/6ggn3nOmgJSGnA4FlGQVRc) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Somebody Knows](https://open.spotify.com/album/4fUdu5HvnHpYHPYonFVox5) | 3:48 |
+| 43 | [Anywhere](https://open.spotify.com/track/400oVcUSO7uYqGSj8KjN8g) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v), [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR) | [Anywhere](https://open.spotify.com/album/21ptT4ISYfDiAXfRmBtp9w) | 2:23 |
 | 44 | [Real Love](https://open.spotify.com/track/3uXUraey5i1oKa3yYnOTia) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO), [BRØØKS](https://open.spotify.com/artist/0Z7MGTcXrzh7KrTpWLrHvq) | [Real Love](https://open.spotify.com/album/38siYOqyNabvKqGmmermGx) | 2:31 |
 | 45 | [Living At The Sea](https://open.spotify.com/track/5LI1FAgKgyU8vmziFY9XhX) | [Made Of Marble](https://open.spotify.com/artist/3nkiEsorNbO1gdtibcPUdW), [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Living At The Sea](https://open.spotify.com/album/04IUqDkRPLFBpE9vKqOzxE) | 2:32 |
 | 46 | [You Have To Have A Goal](https://open.spotify.com/track/1C7Vnu1mLDXALJyDwGOW1E) | [Sébastien Lintz](https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z) | [You Have To Have A Goal](https://open.spotify.com/album/5lOT9PhbKreAqABpYg8mVX) | 2:13 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 59 | [Used To Love](https://open.spotify.com/track/6MLmmZchetJCwxsefFtSnl) | [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD), [Sunflower](https://open.spotify.com/artist/7o5NxGi8B81v8YfSO6LK5w) | [Used To Love](https://open.spotify.com/album/0FDjTnAxUsE0qfcrEAoArb) | 2:13 |
 | 60 | [Someday](https://open.spotify.com/track/3YyyrX4LkrEVTm5rFX3PBG) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1) | [Someday](https://open.spotify.com/album/4qxBwTSqsUTIy0NnThwvcE) | 2:24 |
 
-Snapshot ID: `AAAAABtWArWOd9+xm2TeVnS42Fkh4ggf`
+Snapshot ID: `AAAAAP15+OgACMPY9Swn/Yw171lianYo`

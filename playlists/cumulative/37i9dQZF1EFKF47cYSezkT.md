@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Ecz8iMyWXmkltPEABUHyO">Sophia Brenan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-98 songs - 4 hr 44 min
+99 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Not Forever](https://open.spotify.com/track/79vrFGr0QHTgV4hvLELx0X) | [Iilysh Retallick](https://open.spotify.com/artist/6iCyXopvbv85uT2ltUaGOW) | [Not Forever](https://open.spotify.com/album/19Dq8eAOPsLFMcxCaZLO04) | 3:14 | 2025-10-12 |  |
 | [One Eye Open](https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [One Eye Open](https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck) | 3:32 | 2024-10-27 |  |
 | [Paradise](https://open.spotify.com/track/0tbAUZAHXDemjIRZoKtWiD) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V), [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Paradise](https://open.spotify.com/album/4ixCpPB7DbIoThOljd0xHo) | 3:17 | 2026-07-30 |  |
-| [Proof](https://open.spotify.com/track/405gNtjLCgRcqod42hooqR) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Proof](https://open.spotify.com/album/3vvhITB6TM8jcF4bYXVXfv) | 2:46 | 2026-07-01 |  |
+| [Proof](https://open.spotify.com/track/1RpDQeE8kXFIrvoRzlWi5G) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Isn't it sweeter?](https://open.spotify.com/album/2krUDWgXUjP9FXeqXX3XtZ) | 2:46 | 2026-08-07 |  |
+| [Proof](https://open.spotify.com/track/405gNtjLCgRcqod42hooqR) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Proof](https://open.spotify.com/album/3vvhITB6TM8jcF4bYXVXfv) | 2:46 | 2026-07-01 | 2026-08-08 |
 | [Red](https://open.spotify.com/track/2yZDl0edy9OfH2a8W9ynbK) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT) | [Red](https://open.spotify.com/album/5NSzBQyB8v5YpVeePihtP2) | 3:26 | 2024-01-29 |  |
 | [Sacrifice](https://open.spotify.com/track/7ohIVwjfkygpO1Nr3L2Utl) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a) | [Sacrifice](https://open.spotify.com/album/0CvatjEeK2b1YHWWxfJC9U) | 3:17 | 2025-04-20 |  |
 | [Same but Different](https://open.spotify.com/track/6ZPx9CMaYu9fcnySnjZ1lp) | [Jess Spink](https://open.spotify.com/artist/1tgraTEgO9OYhLUUdpn7Jz) | [Where It Goes from Here](https://open.spotify.com/album/3ZCThraJoc53sC1SVEpMIt) | 3:33 | 2024-01-29 |  |

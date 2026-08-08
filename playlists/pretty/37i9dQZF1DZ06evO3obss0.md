@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3obss0.md) - [plain]
 
 > This is RAYE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,865 likes - 43 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,921 likes - 43 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3obss0.md) - [plain]
 | 24 | [All Dressed Up](https://open.spotify.com/track/1HIwkl1QwoGeJZ8nJYE25e) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Euphoric Sad Songs](https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB) | 4:02 |
 | 25 | [I Know You're Hurting.](https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 6:17 |
 | 26 | [Grandma Calls The Boy Bad News \- From F1® The Movie](https://open.spotify.com/track/5VWBztPOLe4D00pV01lXcF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Grandma Calls The Boy Bad News \(From F1® The Movie\)](https://open.spotify.com/album/2yH6KW9z9oDdAJ8b8wcEfI) | 3:26 |
-| 27 | [Perfect Day \- featuring RAYE](https://open.spotify.com/track/2c9sIf5jLjqItQovMOZxqe) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [To Love Somebody](https://open.spotify.com/album/5mjfq6PQcF4RIDw9X30Zm1) | 4:01 |
+| 27 | [Genesis, pt\. ii](https://open.spotify.com/track/1qvgsMTiNL4WwUnQ9yMz2m) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/7hYLel5p7npCbhAbkaGqvW) | 3:28 |
 | 28 | [Regardless](https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Euphoric Sad Songs](https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB) | 3:17 |
-| 29 | [Genesis, pt\. ii](https://open.spotify.com/track/1qvgsMTiNL4WwUnQ9yMz2m) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/7hYLel5p7npCbhAbkaGqvW) | 3:28 |
+| 29 | [Perfect Day \- featuring RAYE](https://open.spotify.com/track/2c9sIf5jLjqItQovMOZxqe) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [To Love Somebody](https://open.spotify.com/album/5mjfq6PQcF4RIDw9X30Zm1) | 4:01 |
 | 30 | [Natalie Don't](https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Natalie Don’t](https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP) | 3:14 |
 | 31 | [Better Things \- RAYE Remix](https://open.spotify.com/track/1RDMPArAraZJ5gW8Qvsucz) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Better Things \(RAYE Remix\)](https://open.spotify.com/album/6eoXsMVCy9smgDaR9RkHMw) | 3:25 |
 | 32 | [Moi](https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Moi](https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw) | 2:54 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3obss0.md) - [plain]
 | 42 | [All Of My Love](https://open.spotify.com/track/1fuOQttSZc7ztlH42OK8VC) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Young Adz](https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga) | [All Of My Love](https://open.spotify.com/album/3MZrIHZmBFXkHT898Y1XgQ) | 3:16 |
 | 43 | [Make It to Heaven \(with Raye\)](https://open.spotify.com/track/5dS2dvXVPe7AR6UwBpnomW) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Make It To Heaven \(with Raye\)](https://open.spotify.com/album/3YgpLKWG2xfjEe8vVfcn13) | 2:52 |
 
-Snapshot ID: `anJ9AAAAAADeI6+ssorX519VnETbzYG8`
+Snapshot ID: `anPOgAAAAAAuDl08u2dSx7IfHhEhD69K`

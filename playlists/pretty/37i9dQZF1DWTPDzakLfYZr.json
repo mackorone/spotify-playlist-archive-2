@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los grandes temas del Pop Urbano, eso es Popet\u00f3n! Foto: Manuel Turizo.",
-  "num_followers": 626587,
+  "num_followers": 626568,
   "original_name": "Popet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEfwdB7I14WUGXuAIAmEEzSCqNkB",
+  "snapshot_id": "AAAAAHvmZ/iAUaC8vUm5APjFoIGL5Jg8",
   "tracks": [
     {
       "added_at": "2026-04-10 04:59:29",
@@ -23,6 +23,26 @@
       "duration_ms": 161285,
       "name": "Te hacen falta dos",
       "url": "https://open.spotify.com/track/3Oohz3N32glZTOz0nuxGMD"
+    },
+    {
+      "added_at": "2026-08-07 04:59:18",
+      "album": {
+        "name": "Tal Vez Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/51elj8SNea5ht8B7Cd7l5N"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 208465,
+      "name": "Tal Vez Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/7yoTLJ4DdQ62CtTEIMJuRM"
     },
     {
       "added_at": "2026-05-01 04:59:46",

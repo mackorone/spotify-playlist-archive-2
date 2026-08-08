@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,330 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,342 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 49 | [Mi Pia\. Din Gutt.](https://open.spotify.com/track/1jdOvBR6D91doFRheJ3SfF) | [Ola Bremnes](https://open.spotify.com/artist/2YUcEURAjhrNV7wxBBfq7E) | [Livstegn](https://open.spotify.com/album/1wXz7GJWTvjQpn9CliOvcb) | 2:18 |
 | 50 | [Håp](https://open.spotify.com/track/0eVz2IPvC2FrIOHMQbi01j) | [Jo Nesbø](https://open.spotify.com/artist/1KcYLo3wUtAqUsLfhZ5iA4) | [Historien om et band](https://open.spotify.com/album/2NIUZrmE3Wchk32sQHed1e) | 5:36 |
 
-Snapshot ID: `AAAAAFwK8ati4bz+wR9uZJOXMnDpmvXq`
+Snapshot ID: `AAAAAHtRmJbv1xc4aU13Gg3mYrVN4UW5`

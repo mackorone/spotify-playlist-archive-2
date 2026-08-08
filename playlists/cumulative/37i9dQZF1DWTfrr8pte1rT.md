@@ -4,7 +4,7 @@
 
 > Rock with a drop\. Cover: Madeon \\m/
 
-557 songs - 1 day 7 hr 18 min
+558 songs - 1 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Bad Blood \- Weird Genius Remix](https://open.spotify.com/track/1ztPHFuEadFj9SdFPsD1HQ) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ) | [Bad Blood \(Weird Genius Remix\)](https://open.spotify.com/album/2YsuUjmQ2ycwqIh6tWmsV4) | 3:17 | 2024-09-20 |  |
 | [Bad Luck](https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Kiz Keyz](https://open.spotify.com/artist/7GAnVRGrOJIUhOQKEehgFS) | [Bad Luck](https://open.spotify.com/album/3VjDetfhWUDHNNSawdk81Q) | 2:51 | 2022-08-26 | 2023-12-30 |
 | [Bad Man \- Kordhell Remix](https://open.spotify.com/track/3iebfHmYMs8dUcAC5qSQ8Y) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Bad Man \(Kordhell Remix\)](https://open.spotify.com/album/5Wba2K5Jx1RopwbFp07GRE) | 2:33 | 2023-02-24 | 2023-08-19 |
+| [Badland Bandits](https://open.spotify.com/track/4yAYXJ4Xq47szb3p6q4wdl) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5), [Stehreo](https://open.spotify.com/artist/6qhjbzRuF6DGatHeFiDAS9) | [Badland Bandits](https://open.spotify.com/album/5M32ufmTZqvJ3O056Yu8Fh) | 4:21 | 2026-08-07 |  |
 | [BANDIT](https://open.spotify.com/track/1fAuOuvbZiQS9tOiTgB9Hf) | [Benda](https://open.spotify.com/artist/0md3NIXueJZSFZ82HMu26M), [Phvge](https://open.spotify.com/artist/75SYxpsFl3pR4GLXkzrCul) | [BANDITS](https://open.spotify.com/album/5aOnHMnFJ8KNdztwaWsVco) | 2:42 | 2024-07-26 | 2024-12-04 |
 | [Baptize \- Sullivan King Remix](https://open.spotify.com/track/2BapJncaYH9qOeNizjXv2Q) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Baptize \(Sullivan King Remix\)](https://open.spotify.com/album/5uQbdtWsZJNZwD7MUFYwYj) | 4:10 | 2023-04-28 | 2024-04-06 |
 | [Baptize \- Sullivan King Remix](https://open.spotify.com/track/48JuHnroG6NcNMVGcFFVRw) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Baptize \(Sullivan King Remix\)](https://open.spotify.com/album/170AbiVPb4OIprabzweN14) | 4:10 | 2022-06-10 | 2023-05-07 |
@@ -70,7 +71,7 @@
 | [Bruises](https://open.spotify.com/track/59OZiGqFfWmry6o9pTx8i8) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Bruises \(Destinations\)](https://open.spotify.com/album/03JxDRu3gVW98sAknhq8dq) | 3:40 | 2021-12-10 | 2022-04-02 |
 | [Brunt](https://open.spotify.com/track/1fA1cnKRdkKGgFuJCLRYRJ) | [PhaseOne](https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk), [Nosphere](https://open.spotify.com/artist/12QTVK7jpRYgbe4iDYu9Td) | [Brunt](https://open.spotify.com/album/6pWc7yOiEZrX70oggD4pmb) | 3:25 | 2023-12-15 | 2025-04-05 |
 | [Bulls On Parade](https://open.spotify.com/track/4PtONawB6HCSMlOwogcSO1) | [Know Good](https://open.spotify.com/artist/4iogDJBJ2BO2jl8OkPrfpx), [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Bulls On Parade](https://open.spotify.com/album/5evME0KeRdCDEUpU4Hk1Ai) | 3:19 | 2025-01-31 |  |
-| [Buried Beneath You](https://open.spotify.com/track/0s21wy24ori9qnxzNBIHJd) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [Buried Beneath You](https://open.spotify.com/album/6V5Mgo4liTdgLpcEzRlUHU) | 3:31 | 2024-03-08 |  |
+| [Buried Beneath You](https://open.spotify.com/track/0s21wy24ori9qnxzNBIHJd) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [Buried Beneath You](https://open.spotify.com/album/6V5Mgo4liTdgLpcEzRlUHU) | 3:31 | 2024-03-08 | 2026-08-08 |
 | [BURNING BRIDGES](https://open.spotify.com/track/7LfdxdFpUZUFHSWCsKpJsb) | [Josh Lambert](https://open.spotify.com/artist/3KOYBzBNdAbppX8MCcVxSO) | [BURNING BRIDGES](https://open.spotify.com/album/6swXE33BI9gGeVj0you0Xz) | 2:59 | 2025-06-28 |  |
 | [BURNING RUBBER](https://open.spotify.com/track/2zhW4Hb4JuQugffpsuVwKz) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [I WANT BLOOD / i want love](https://open.spotify.com/album/4z172SKyhMOorillZtbIIZ) | 2:13 | 2024-04-05 | 2024-04-19 |
 | [BURNING RUBBER](https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [BURNING RUBBER](https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e) | 2:13 | 2021-12-10 | 2024-04-20 |

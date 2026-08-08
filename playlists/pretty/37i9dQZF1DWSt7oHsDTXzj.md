@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,605 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,594 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 56 | [Dance Again](https://open.spotify.com/track/2nczx4CnQaE6a9WpfQpYxY) | [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY) | [Dance Again](https://open.spotify.com/album/5Neaw5nr7xDUXk3s6sC1X3) | 3:41 |
 | 57 | [Angel in the Snow \(from "Oh\. What\. Fun."\)](https://open.spotify.com/track/4PCW2aCVCGcyYPVI0JLp05) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Oh\. What\. Fun.](https://open.spotify.com/artist/5VYSkRVd4ZrQo12YhB3t7S) | [Angel in the Snow \(from "Oh\. What\. Fun."\)](https://open.spotify.com/album/7MPeLiCCYvdWWDaMlQBMwJ) | 2:44 |
 | 58 | [Christmas Must Be Tonight](https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 3:47 |
-| 59 | [Christmas Special](https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Christmas Special](https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl) | 3:08 |
-| 60 | [Christmas \(Baby Please Come Home\) \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/5PZYjlwLznLOjHXIHJpyHa) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Christmas \(Baby Please Come Home\) \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/album/7L7nmx23fd3TOd2DlqvZGF) | 3:23 |
+| 59 | [Christmas \(Baby Please Come Home\) \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/5PZYjlwLznLOjHXIHJpyHa) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Christmas \(Baby Please Come Home\) \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/album/7L7nmx23fd3TOd2DlqvZGF) | 3:23 |
+| 60 | [Christmas Special](https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Christmas Special](https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl) | 3:08 |
 | 61 | [White Winter Hymnal](https://open.spotify.com/track/4NCBDTOYQmBmXXQEs3pUDB) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [White Winter Hymnal](https://open.spotify.com/album/5jBXk71cVw1kRlyaQ1kbO5) | 2:14 |
 | 62 | [Andalucia](https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:32 |
 | 63 | [Christmas Starts Tonight \- live from a restaurant in downtown Los Angeles](https://open.spotify.com/track/24JI1h4cMin4s5VlrWIQ2K) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Christmas \(live from a restaurant in downtown Los Angeles\)](https://open.spotify.com/album/3OqogtGMOvcbCm2hCbBjpg) | 3:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 74 | [Frosty The Snowman](https://open.spotify.com/track/5lrziVtAiX5olTaTmmSNGq) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Elizabeth Fraser](https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx), [Simon Raymonde](https://open.spotify.com/artist/31eiHDLnkVg1fEezZihdfQ) | [Lullabies To Violaine \- Volume 2](https://open.spotify.com/album/6yrVgxDtLcJT6fiLHz4rLh) | 2:55 |
 | 75 | [Blue Christmas](https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [A Christmas Album](https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1) | 2:19 |
 
-Snapshot ID: `AAAAAIoogB6qKpMOadSuWtevhpCWXxqt`
+Snapshot ID: `AAAAALMPTF2l6cYkJ0HaEnAYqnWtrA67`

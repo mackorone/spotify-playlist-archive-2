@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 
 > Las nuevas vibras del rock en español\. Cover: Viniloversus
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,301 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,272 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 5 | [Dando vueltas](https://open.spotify.com/track/1vTEUsNu9TqL5DBNHf7j5b) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dando vueltas](https://open.spotify.com/album/6Oaupt2r7rUsDlF8YlPfmv) | 2:56 |
 | 6 | [Películas De Acción](https://open.spotify.com/track/5ReNrZRqNxwL7mQzPu1mKh) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Películas De Acción](https://open.spotify.com/album/0jXVUEzaxq6gCoBaqZZpZk) | 3:33 |
 | 7 | [El ataque de las chicas cocodrilo](https://open.spotify.com/track/4dy99PdH0CM3dbNUwJRoDw) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [El ataque de las chicas cocodrilo](https://open.spotify.com/album/5VrsIoeYTTupAlat4oNpak) | 2:37 |
-| 8 | [Nuestros mundos no obedecen a tus mapas](https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Greta Garbo](https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn) | 3:35 |
+| 8 | [Jaula de Oro](https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Jaula de Oro](https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv) | 3:58 |
 | 9 | [Algo Me Dice](https://open.spotify.com/track/78q1JXZIlanqIhzvBotVfM) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Algo Me Dice](https://open.spotify.com/album/4jQdqasrV1LvDcTs2Nln6v) | 4:17 |
-| 10 | [Jaula de Oro](https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Jaula de Oro](https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv) | 3:58 |
+| 10 | [Nuestros mundos no obedecen a tus mapas](https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Greta Garbo](https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn) | 3:35 |
 | 11 | [Mi nena](https://open.spotify.com/track/2VdSwHCNfiQKK9ZUaPNRSN) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR) | [Mi nena](https://open.spotify.com/album/0y0uxUtH57bWINrULxDZdu) | 2:44 |
 | 12 | [Problema Cabrón](https://open.spotify.com/track/1X5R4v1EqNgJeKaHRCIoFs) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Problema Cabrón](https://open.spotify.com/album/6JJ0dHtZQWNZP2kDd7j4Dv) | 3:36 |
 | 13 | [Corazón de pollo](https://open.spotify.com/track/2AmBHtF9A6mvsVz7QNRbB1) | [Estamos Perdidos](https://open.spotify.com/artist/3XSDbgXhPHMMAMAG8uj7YP) | [Corazón de pollo](https://open.spotify.com/album/3cZOTSFXraZaRyhXVLePDS) | 3:23 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 31 | [Ya No Te Vuelvo a Ver](https://open.spotify.com/track/0TJJcJEw9e92KKNqtPQC8W) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Salida](https://open.spotify.com/album/4x1aupptvUpAsxmjtzCz23) | 4:16 |
 | 32 | [Todo Se Detiene Aquí](https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Escombros](https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61) | 3:48 |
 | 33 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 |
-| 34 | [¿Qué Hora Es Allá?](https://open.spotify.com/track/2tQeoo0c6jTGqRIgzEFyqh) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Nuestro Año](https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES) | 2:51 |
-| 35 | [Tú Ya No Dices Nada](https://open.spotify.com/track/453J04Y7iitrBquFXDKql1) | [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi), [Manola](https://open.spotify.com/artist/5BbO0itGowbSxRpMb5uopK) | [Tú Ya No Dices Nada](https://open.spotify.com/album/5JKmZzEuM6FzRy12D5Br7n) | 3:35 |
+| 34 | [Tú Ya No Dices Nada](https://open.spotify.com/track/453J04Y7iitrBquFXDKql1) | [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi), [Manola](https://open.spotify.com/artist/5BbO0itGowbSxRpMb5uopK) | [Tú Ya No Dices Nada](https://open.spotify.com/album/5JKmZzEuM6FzRy12D5Br7n) | 3:35 |
+| 35 | [¿Qué Hora Es Allá?](https://open.spotify.com/track/2tQeoo0c6jTGqRIgzEFyqh) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Nuestro Año](https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES) | 2:51 |
 | 36 | [¿Quién Te Hizo Tanto Daño?](https://open.spotify.com/track/1SGOV1sHJHLLPyXoGe3fNq) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [WIPLASH](https://open.spotify.com/album/4p5UD2hEyjQ2GGuHbSKTDf) | 3:06 |
 | 37 | [Lo Mejor](https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Lo Mejor](https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL) | 4:10 |
 | 38 | [En El Aire](https://open.spotify.com/track/4OWEhp5U22R6rDBM9Y6Q4j) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [En El Aire](https://open.spotify.com/album/36j4M30i172PFNQSiBNfv6) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8yQ1nTMCfh.md) - [plain]
 | 49 | [Quédate un Momento](https://open.spotify.com/track/4wP3CULcMp6YIWJnEw4SVA) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Quédate un Momento](https://open.spotify.com/album/5kbmefnSNwoRa6H8fGe4C1) | 3:03 |
 | 50 | [Imitándote](https://open.spotify.com/track/3DyTHxOyaqFyVma3LUJYMn) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Imitándote](https://open.spotify.com/album/1vIOTSqcNOHM6OEhcGpfsf) | 2:54 |
 
-Snapshot ID: `AAAAALVk7TIqayn+vLFiWxab6kFOruzs`
+Snapshot ID: `AAAAALUCp06oDv5kEp2yP/dxJRYtYFHW`

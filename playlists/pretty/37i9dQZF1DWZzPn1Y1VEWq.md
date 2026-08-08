@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZzPn1Y1VEWq.md) - [plain]
 
 > 100 canciones de la época nostálgica más reciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,414 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,447 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZzPn1Y1VEWq.md) - [plain]
 | 8 | [El Bombón](https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Un Sentimiento](https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI) | 3:23 |
 | 9 | [Algo Contigo](https://open.spotify.com/track/4zsDA31stWMtLveU61hejd) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Vicentico](https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo) | 3:38 |
 | 10 | [Una Nueva Noche Fría](https://open.spotify.com/track/39KmBOGkD1ztCbVeo2uspA) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Presión](https://open.spotify.com/album/3Pr88tREtqKF9srgl21jGT) | 4:37 |
-| 11 | [Fuego](https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:21 |
+| 11 | [Lago en el Cielo](https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 5:08 |
 | 12 | [Putita](https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Infame](https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn) | 3:45 |
-| 13 | [Lago en el Cielo](https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 5:08 |
+| 13 | [Fuego](https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:21 |
 | 14 | [Arde la Ciudad](https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Viaje](https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i) | 4:12 |
 | 15 | [Para No Verte Más](https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM) | [La Mosca](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Visperas De Carnaval](https://open.spotify.com/album/4vIw5XspQuPt04VHX5oK5W) | 3:11 |
 | 16 | [Campanas en la Noche](https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Armando Camaleón](https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP) | 3:57 |
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZzPn1Y1VEWq.md) - [plain]
 | 31 | [Los Calientes](https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 4:37 |
 | 32 | [Reyes de la Noche](https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Toro Rojo](https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO) | 4:10 |
 | 33 | [Sabrosón](https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8) | 2:54 |
-| 34 | [Spaghetti del Rock](https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 3:32 |
-| 35 | [Magia Veneno](https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 3:58 |
-| 36 | [Veneno](https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 4:08 |
-| 37 | [Juntos a la Par](https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Buscando un Amor](https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw) | 2:41 |
+| 34 | [Magia Veneno](https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 3:58 |
+| 35 | [Spaghetti del Rock](https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 3:32 |
+| 36 | [Juntos a la Par](https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Buscando un Amor](https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw) | 2:41 |
+| 37 | [Veneno](https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 4:08 |
 | 38 | [Loco Un Poco](https://open.spotify.com/track/7dmdwwxTx9aoUsfXbRHIoQ) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Turfshow](https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7) | 3:27 |
 | 39 | [Descontrolado](https://open.spotify.com/track/3KDClBkoakbdF0pSdF2PP7) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vicio](https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS) | 2:54 |
 | 40 | [Deja De Llorar](https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Sigo Por El Objetivo](https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx) | 2:26 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZzPn1Y1VEWq.md) - [plain]
 | 68 | [Mirá Como Está La Vagancia](https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Sin Remedio](https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT) | 4:59 |
 | 69 | [No Se Llama Amor](https://open.spotify.com/track/7q6HXszBhfxTPHWOxw8ehb) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:07 |
 | 70 | [Duraznito](https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Discografía Completa Vol.1](https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP) | 5:08 |
-| 71 | [Amores Como el Nuestro](https://open.spotify.com/track/0D5AiwyGN6UdrGNThCQgC3) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Corazon de Papel \(Edicion Especial Remasterizada\)](https://open.spotify.com/album/3cAjRkxhlPdzmK7jhPT2XU) | 3:16 |
-| 72 | [Basta de Llamarme Así](https://open.spotify.com/track/2uHzhOP2cyjkWR52u7Z6O0) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [La Luz Del Ritmo](https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574) | 4:14 |
+| 71 | [Basta de Llamarme Así](https://open.spotify.com/track/2uHzhOP2cyjkWR52u7Z6O0) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [La Luz Del Ritmo](https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574) | 4:14 |
+| 72 | [Amores Como el Nuestro](https://open.spotify.com/track/0D5AiwyGN6UdrGNThCQgC3) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Corazon de Papel \(Edicion Especial Remasterizada\)](https://open.spotify.com/album/3cAjRkxhlPdzmK7jhPT2XU) | 3:16 |
 | 73 | [Western](https://open.spotify.com/track/2UVXBlqRLUJD60L3unaMyS) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Antihumano](https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz) | 4:08 |
 | 74 | [Viviré por Siempre](https://open.spotify.com/track/5SDPJjP3G1U2ipKcDwvqv8) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Sigue Tu Camino](https://open.spotify.com/album/0RvMRxxQUVQp2jb3CIbg5g) | 4:32 |
 | 75 | [Que No Me Pierda](https://open.spotify.com/track/1hddbV736FaAFxMho50n75) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Un Mundo Diferente](https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf) | 5:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZzPn1Y1VEWq.md) - [plain]
 | 99 | [Eso Vive](https://open.spotify.com/track/6JMUqW6dwWduaPPqGCkcgk) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [Cuentos Decapitados](https://open.spotify.com/album/4agUniovdijNcGf3blcYQM) | 3:01 |
 | 100 | [Revoloteando](https://open.spotify.com/track/0Vuh6a1lDHMLYG4NBOnsHi) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Hormigas](https://open.spotify.com/album/1sIA6YTTCHQ50lQTBregzD) | 3:56 |
 
-Snapshot ID: `AAAAAHX6mebI48cDEuiX7xbSvNldV78W`
+Snapshot ID: `AAAAACXMwUs9otAc1DtszHKUkDttLz2k`

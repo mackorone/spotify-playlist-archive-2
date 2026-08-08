@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Gowry Lekshmi",
-  "num_followers": 41575,
+  "num_followers": 41578,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAj9Rno9Elzwti6CAcYiPvVOd1ZD",
+  "snapshot_id": "AAAAABa03UQbSzyZ1urfOjyFrYBjrwvW",
   "tracks": [
     {
       "added_at": "2026-06-24 11:39:34",
@@ -145,6 +145,26 @@
       "url": "https://open.spotify.com/track/0Am7wCieAFwFsmFTmS3rJ7"
     },
     {
+      "added_at": "2026-08-07 10:43:41",
+      "album": {
+        "name": "Ruhani",
+        "url": "https://open.spotify.com/album/6AbmjhcOTUzoXx9iMi9FUF"
+      },
+      "artists": [
+        {
+          "name": "Nazeeb Billu",
+          "url": "https://open.spotify.com/artist/7qKOPvmYkqaCrl8pddYJnk"
+        },
+        {
+          "name": "Fathima Jahaan",
+          "url": "https://open.spotify.com/artist/2iqMauzUdnUyiCOUeOFYD6"
+        }
+      ],
+      "duration_ms": 242659,
+      "name": "Ruhani",
+      "url": "https://open.spotify.com/track/0TMOKvYLDqVx2TCMREEkjd"
+    },
+    {
       "added_at": "2026-06-11 23:33:10",
       "album": {
         "name": "Kaamini",
@@ -211,6 +231,26 @@
       "duration_ms": 217100,
       "name": "Nattamthiri",
       "url": "https://open.spotify.com/track/08EvZ9JF4jwBfqiu9i4750"
+    },
+    {
+      "added_at": "2026-08-07 10:50:03",
+      "album": {
+        "name": "Aaro Aaro",
+        "url": "https://open.spotify.com/album/0qcGoideMC6uIzLtpKH4y6"
+      },
+      "artists": [
+        {
+          "name": "Afzal Yusuff",
+          "url": "https://open.spotify.com/artist/5aLx8IMz29yKNh4WFnogsm"
+        },
+        {
+          "name": "Sayanora Philip",
+          "url": "https://open.spotify.com/artist/7D7Y6jWgmCYV9UuXGjFWrx"
+        }
+      ],
+      "duration_ms": 372873,
+      "name": "Aaro Aaro",
+      "url": "https://open.spotify.com/track/0C53p6FoBDGm0CooRH08Z3"
     },
     {
       "added_at": "2026-08-04 10:52:30",
@@ -311,6 +351,22 @@
       "duration_ms": 192775,
       "name": "Kannoram Kaadhalaay (From \"Manohari\")",
       "url": "https://open.spotify.com/track/0HWMdwIKMwGVjliNAF1igH"
+    },
+    {
+      "added_at": "2026-08-07 10:48:31",
+      "album": {
+        "name": "KADHALI",
+        "url": "https://open.spotify.com/album/3rhaJxJpfcWqAX47UBwM49"
+      },
+      "artists": [
+        {
+          "name": "Ayraan",
+          "url": "https://open.spotify.com/artist/7lXhEJq3n8vGK4M9VJKS29"
+        }
+      ],
+      "duration_ms": 189365,
+      "name": "KADHALI",
+      "url": "https://open.spotify.com/track/00PU1aSEtHYVPMyHAI0kmX"
     },
     {
       "added_at": "2026-07-10 14:56:20",

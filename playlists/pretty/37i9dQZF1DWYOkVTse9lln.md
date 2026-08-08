@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOkVTse9lln.md) - [plain]
 
 > Saca la estrella que llevas dentro ⭐️🎤
 
-[Spotify](https://open.spotify.com/user/spotify) - 747,589 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 747,600 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOkVTse9lln.md) - [plain]
 | 8 | [La Gozadera \(feat\. Marc Anthony\)](https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Visualízate](https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT) | 3:23 |
 | 9 | [Es Por Ti](https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 4:10 |
 | 10 | [Vivir Mi Vida](https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 4:12 |
-| 11 | [Clavado en Un Bar](https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 5:10 |
+| 11 | [Colgando en tus manos \(con Marta Sánchez\)](https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [De mi puño y letra \- Edicion Coleccionista](https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs) | 3:52 |
 | 12 | [La Incondicional](https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 4:17 |
-| 13 | [Colgando en tus manos \(con Marta Sánchez\)](https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [De mi puño y letra \- Edicion Coleccionista](https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs) | 3:52 |
+| 13 | [Clavado en Un Bar](https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 5:10 |
 | 14 | [Abrázame Muy Fuerte](https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Abrázame Muy Fuerte](https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU) | 3:59 |
 | 15 | [La flaca](https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp) | 4:21 |
 | 16 | [Flaca](https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 4:37 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOkVTse9lln.md) - [plain]
 | 68 | [Dejaría Todo](https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado a Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:44 |
 | 69 | [Ya Lo Veía Venir](https://open.spotify.com/track/55TzaicixkSM6XT23JvIZA) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg) | [Queremos Rock](https://open.spotify.com/album/2795kGAwtxyI3kQ7pTkRUW) | 3:44 |
 | 70 | [Qué Precio Tiene el Cielo \- Salsa Version](https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sigo Siendo Yo](https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ) | 5:02 |
-| 71 | [El Niágara en Bicicleta](https://open.spotify.com/track/7pV8mSDgSPbSMFw9ZP1XXR) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ni Es Lo Mismo Ni Es Igual](https://open.spotify.com/album/0RWsJiIvRxAbmzfSTJsabn) | 4:25 |
-| 72 | [Qué Vida la Mía](https://open.spotify.com/track/0M6KY0x5u65ybXHZ3IAega) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Reik](https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS) | 2:51 |
+| 71 | [Qué Vida la Mía](https://open.spotify.com/track/0M6KY0x5u65ybXHZ3IAega) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Reik](https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS) | 2:51 |
+| 72 | [El Niágara en Bicicleta](https://open.spotify.com/track/7pV8mSDgSPbSMFw9ZP1XXR) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ni Es Lo Mismo Ni Es Igual](https://open.spotify.com/album/0RWsJiIvRxAbmzfSTJsabn) | 4:25 |
 | 73 | [La bikina \- En vivo](https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Vivo](https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo) | 2:59 |
 | 74 | [Tutu](https://open.spotify.com/track/1Ol5LmdNDNpFu1oNwfgkux) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:59 |
 | 75 | [Ojos Marrones](https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Ojos Marrones](https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63) | 3:18 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOkVTse9lln.md) - [plain]
 | 87 | [Mi Persona Favorita](https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Otra Vida](https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi) | 3:10 |
 | 88 | [Rosas](https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [París](https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8) | 3:57 |
 | 89 | [Te regalo](https://open.spotify.com/track/0fmgOwkb9AwgzXhYVSZRDs) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Baute](https://open.spotify.com/album/6IPD0w0Nlo5JE0A54GQEMp) | 2:49 |
-| 90 | [Lloviendo Estrellas](https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:16 |
-| 91 | [Tocando Fondo](https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Aerosoul](https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG) | 4:06 |
+| 90 | [Tocando Fondo](https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Aerosoul](https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG) | 4:06 |
+| 91 | [Lloviendo Estrellas](https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:16 |
 | 92 | [Ser O Parecer](https://open.spotify.com/track/5sgvzXoYFCr5F5tUZdAA20) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Celestial](https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw) | 3:31 |
 | 93 | [Un Año](https://open.spotify.com/track/5BDP2tky8oMQJPS33frKVp) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Un Año](https://open.spotify.com/album/4Vtx3PxyOfBUBuEYAIocsP) | 2:44 |
 | 94 | [Na Na Na \(Dulce Niña\)](https://open.spotify.com/track/3o3eHNNF5HDU3I0Jg25SGD) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL) | [Lo Mejor De...](https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOkVTse9lln.md) - [plain]
 | 99 | [De Música Ligera \- Remasterizado 2007](https://open.spotify.com/track/0Ruvs5IxqkGqQVWCO2oRpw) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Me Verás Volver \(Hits & Más\)](https://open.spotify.com/album/0IkprxBZTCQhSry1AsDxcb) | 3:33 |
 | 100 | [Ven Conmigo \(Solamente Tú\)](https://open.spotify.com/track/2PYJnUWEPPP8C6b79UiwIl) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 3:10 |
 
-Snapshot ID: `AAAAAF+Ri7XkXtjHqHz4BWt7kUKV2CPS`
+Snapshot ID: `AAAAAH9b2WgSYuCTchw1icM8vF/yN0SM`

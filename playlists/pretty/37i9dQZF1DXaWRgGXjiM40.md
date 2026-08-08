@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,771 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,763 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 37 | [Mulher Maravilha \- Ao Vivo](https://open.spotify.com/track/2cbMXc0P5s271VwZOUk1Gb) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo \| Deluxe\)](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 2:37 |
 | 38 | [Pega Esse Carro \- Ao Vivo](https://open.spotify.com/track/7HY7YlBwdZMTh69E1gkYm3) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Energia \(Ao Vivo\)](https://open.spotify.com/album/0CPz0EKECvXACXt3IdYN4Y) | 2:45 |
 | 39 | [Neon \- Spotify Sessions](https://open.spotify.com/track/6k2IgWmtJ0I3CtiKdEqSqe) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Ana Castela \- Spotify Sessions](https://open.spotify.com/album/6pHZSdvQhTIP1APJWFUN6Q) | 3:44 |
-| 40 | [Deixa Eu Te Amar \- Ao Vivo](https://open.spotify.com/track/1OYJlZVDrTsA6EJzf78fQp) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Eu E Você De Novo \(Ao Vivo\)](https://open.spotify.com/album/4eQySBYcXPvtkYXkbsGpin) | 3:21 |
-| 41 | [Tô Com Moral No Céu! \- Ao Vivo](https://open.spotify.com/track/0uwaiApk6k7k9POyFjTKeR) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Intensamente Hoje!](https://open.spotify.com/album/537cWg3a0Fn9zmPllBPMGh) | 2:50 |
-| 42 | [Dia, Lugar e Hora](https://open.spotify.com/track/4404ixp3ApDtyRwje7Kgu4) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [1977](https://open.spotify.com/album/4QianJs5Ls4mxwcT7gDBww) | 4:11 |
+| 40 | [Tô Com Moral No Céu! \- Ao Vivo](https://open.spotify.com/track/0uwaiApk6k7k9POyFjTKeR) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Intensamente Hoje!](https://open.spotify.com/album/537cWg3a0Fn9zmPllBPMGh) | 2:50 |
+| 41 | [Dia, Lugar e Hora](https://open.spotify.com/track/4404ixp3ApDtyRwje7Kgu4) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [1977](https://open.spotify.com/album/4QianJs5Ls4mxwcT7gDBww) | 4:11 |
+| 42 | [Deixa Eu Te Amar \- Ao Vivo](https://open.spotify.com/track/1OYJlZVDrTsA6EJzf78fQp) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Eu E Você De Novo \(Ao Vivo\)](https://open.spotify.com/album/4eQySBYcXPvtkYXkbsGpin) | 3:21 |
 | 43 | [Ferida Curada](https://open.spotify.com/track/1U3tv41tFRgOfbytpuYQrR) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Ferida Curada](https://open.spotify.com/album/4S428p1Dl0B5QShuR6FBMu) | 2:39 |
-| 44 | [S de Saudade](https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL) | [Luíza & Maurílio](https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [S de Saudade](https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL) | 2:54 |
-| 45 | [Minha Vontade](https://open.spotify.com/track/4eWHMq1DmBtj0XLv3rFySv) | [Fred & Gustavo](https://open.spotify.com/artist/23e9hgUNNlZWv6E0nxf8fA) | [Eu Tô Com Você](https://open.spotify.com/album/4IBu2k4e62hJSGCLB562Gk) | 3:09 |
-| 46 | [Mágica \- Live](https://open.spotify.com/track/5cN5ZOVcYBl4Lnq50Zeqsx) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Tem Moda Pra Tudo \(Ao Vivo\)](https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs) | 2:41 |
+| 44 | [Minha Vontade](https://open.spotify.com/track/4eWHMq1DmBtj0XLv3rFySv) | [Fred & Gustavo](https://open.spotify.com/artist/23e9hgUNNlZWv6E0nxf8fA) | [Eu Tô Com Você](https://open.spotify.com/album/4IBu2k4e62hJSGCLB562Gk) | 3:09 |
+| 45 | [Mágica \- Live](https://open.spotify.com/track/5cN5ZOVcYBl4Lnq50Zeqsx) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Tem Moda Pra Tudo \(Ao Vivo\)](https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs) | 2:41 |
+| 46 | [S de Saudade](https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL) | [Luíza & Maurílio](https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [S de Saudade](https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL) | 2:54 |
 | 47 | [Vira Homem](https://open.spotify.com/track/0GrEqRHf5FioT1hOB8PBxZ) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Vira Homem](https://open.spotify.com/album/4ZvjMAz7i4pfWLKIbGE45z) | 3:16 |
 | 48 | [Moça do Espelho \- Acústico](https://open.spotify.com/track/2nMLXtXdcp2BkwPoZzse3C) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Zé Neto & Cristiano \- Acústico](https://open.spotify.com/album/6uthdLP8MEYrgIVCcyAANN) | 2:32 |
-| 49 | [Com ou Sem Mim \- Ao Vivo](https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Com ou Sem Mim \(Ao Vivo\)](https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r) | 3:21 |
-| 50 | [Quem Melhor Do Que Nós Dois \- Ao Vivo](https://open.spotify.com/track/1ZnxpXqr38wtDVW2xgNXNZ) | [Hugo Henrique](https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Sonho \- Ao Vivo](https://open.spotify.com/album/324to6aHDVGAatV6pHuVP2) | 3:05 |
+| 49 | [Quem Melhor Do Que Nós Dois \- Ao Vivo](https://open.spotify.com/track/1ZnxpXqr38wtDVW2xgNXNZ) | [Hugo Henrique](https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Sonho \- Ao Vivo](https://open.spotify.com/album/324to6aHDVGAatV6pHuVP2) | 3:05 |
+| 50 | [Com ou Sem Mim \- Ao Vivo](https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Com ou Sem Mim \(Ao Vivo\)](https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r) | 3:21 |
 
-Snapshot ID: `AAAAAH4X0rgUhl037ttxn7cQKmQJ4+ae`
+Snapshot ID: `AAAAALtL/rWvq3oxUldxy7911h+lDbgS`

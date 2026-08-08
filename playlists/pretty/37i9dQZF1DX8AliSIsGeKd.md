@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Amelie Lens,  Angèle
 
-[Spotify](https://open.spotify.com/user/spotify) - 754,011 likes - 90 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 754,112 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,12 +15,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 5 | [Ciento](https://open.spotify.com/track/16JMPzCnNHKY5CDgckZifG) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Ciento](https://open.spotify.com/album/63gQLaUxJun7LPD6CtF0On) | 3:33 |
 | 6 | [Motion](https://open.spotify.com/track/4dohD0kIEdfRb7YYgvqhZv) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [Humans Musik](https://open.spotify.com/artist/3huzrC7mZ7tINmFf1g1hO0) | [Motion](https://open.spotify.com/album/3tcqdgyVL78VrhycMzrlsq) | 2:47 |
 | 7 | [Automatik](https://open.spotify.com/track/3GgdKgAUM68EJj8dsjPPsN) | [Moonbootica](https://open.spotify.com/artist/1YkHCcMgZ6fTQMeEQyYKTf) | [Automatik](https://open.spotify.com/album/0WBq5rqpd0he6YNun3ZaBp) | 4:34 |
-| 8 | [Track 3](https://open.spotify.com/track/1AF9gqUhT9jyOHDzDUTZMc) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [LIFE](https://open.spotify.com/album/0vL3Vv27UfbRVLL7B9j1ab) | 0:00 |
+| 8 | [this is the moment \(cuerpo\)](https://open.spotify.com/track/1AF9gqUhT9jyOHDzDUTZMc) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [LIFE](https://open.spotify.com/album/0vL3Vv27UfbRVLL7B9j1ab) | 3:52 |
 | 9 | [Logic \(Atric Remix\)](https://open.spotify.com/track/3jIlUwCAEo9VCMbo3U9tBt) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Atric](https://open.spotify.com/artist/5JGnzT3iv4izDNPbH8cUj3) | [Logic \(Atric Remix\)](https://open.spotify.com/album/2WmEUyuqIWN7K6k9r9ZKJZ) | 5:01 |
 | 10 | [Novaa](https://open.spotify.com/track/1DMx8RgbU9cykUxlpgOrIN) | [Moeaike](https://open.spotify.com/artist/1dq8CEUSNTPN81up2lVwnm), [SOMMERS \(UK\)](https://open.spotify.com/artist/6cmL8CNoQQKRMGHpuSqXcv) | [Novaa](https://open.spotify.com/album/2yc41QH5qIH92kcLLK3iTb) | 4:19 |
 | 11 | [Excuse Me](https://open.spotify.com/track/59FmKJvwkAIpb9VrClRdzo) | [miirabelle](https://open.spotify.com/artist/2sZWQPBglKu7CxaZ6tJSYG) | [Excuse Me](https://open.spotify.com/album/2O0gY2JJT36CSBQGk1R4cO) | 3:24 |
 | 12 | [Pacha](https://open.spotify.com/track/5QuiMSE8sWvGQ60RxUSvET) | [ZARO](https://open.spotify.com/artist/5cJZAC1qGuGBqk1kAKvQCk) | [Pacha](https://open.spotify.com/album/2joZfgKqZxeLLC6WPsjGmT) | 3:20 |
-| 13 | [Track 1](https://open.spotify.com/track/7dGiRNwZUp7vjY7vpmNAG5) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [Questions EP](https://open.spotify.com/album/0UJ8YgL13eqTKUeDvIhqqQ) | 0:00 |
+| 13 | [Questions](https://open.spotify.com/track/7dGiRNwZUp7vjY7vpmNAG5) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Piem](https://open.spotify.com/artist/08st4VKj9jjZJ5eKzAOHq8), [SLM](https://open.spotify.com/artist/7CEy8XnNrNtDipTl5aYt9T) | [Questions EP](https://open.spotify.com/album/0UJ8YgL13eqTKUeDvIhqqQ) | 3:16 |
 | 14 | [Luv 4 U](https://open.spotify.com/track/1w9E8Hdf1x6iCej4PzUApO) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [SEIZMIC](https://open.spotify.com/artist/1si2uKDwgQfiJgetv2kHUd) | [Luv 4 U EP](https://open.spotify.com/album/1SqYOcBrrSReQAqfaCOyPH) | 5:27 |
 | 15 | [Acid Mind](https://open.spotify.com/track/2IWlH0cIY6VY8AP1gzpg8m) | [Romain Say](https://open.spotify.com/artist/0laG6AXKYHGmj3gmZCO827) | [Acid Mind](https://open.spotify.com/album/2tFcvJolgr6qYeqGKiaieB) | 3:49 |
 | 16 | [UNDRGRND \- Edit](https://open.spotify.com/track/216V38ORULt96aVme8eGnf) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN), [Blake Light](https://open.spotify.com/artist/3Eg3uKwUyxwvM57CW2skbr) | [UNDRGRND \(Edit\)](https://open.spotify.com/album/7AuzUFELZ9WgVnbYCleC6r) | 3:19 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [020](https://open.spotify.com/track/3VreTTXCzoWXLVQl6UtLQ1) | [The Palindromes](https://open.spotify.com/artist/2LvjOOoYGlukiA0fFTBXZ2) | [020](https://open.spotify.com/album/30WL5faDYTA09Y5JbUMEva) | 2:16 |
 | 90 | [What da Funk \- German Brigante Remix](https://open.spotify.com/track/2sJALKQ60UKUYnWbxapVrY) | [Deniz Tekin \(TR\)](https://open.spotify.com/artist/7mGMubVX0NGSiKHdnw4clu), [Aliot](https://open.spotify.com/artist/0fwRN0FvddmSkK5x3iDFSg), [German Brigante](https://open.spotify.com/artist/2h7fN6KOZVgWQ39sYK0jJm) | [What da Funk \(German Brigante Remix\)](https://open.spotify.com/album/52Zs7M3SMGg4YlbvfgJh9a) | 5:08 |
 
-Snapshot ID: `AAAAAEujcnkGBIXxGIvboqOSNe4DxOrB`
+Snapshot ID: `AAAAABlgZ03TEfVJznIiwFIaNylVm1+P`

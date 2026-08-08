@@ -295,6 +295,28 @@
     },
     {
       "album": {
+        "name": "Hey-O We Want to Play-O",
+        "url": "https://open.spotify.com/album/0qpMLbnB8NNiIiadzzGoho"
+      },
+      "artists": [
+        {
+          "name": "Caitie's Classroom",
+          "url": "https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo"
+        },
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133882,
+      "name": "Hey-O We Want to Play-O",
+      "url": "https://open.spotify.com/track/67pLLZLC17d8xo9RsFSXVM"
+    },
+    {
+      "album": {
         "name": "Animals On The Farm And More Lah-Lah Sing And Dance Songs",
         "url": "https://open.spotify.com/album/4D4jgeLd74Zrec9MJPRWVI"
       },

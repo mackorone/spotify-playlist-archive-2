@@ -603,6 +603,28 @@
     },
     {
       "album": {
+        "name": "Always on Your Side",
+        "url": "https://open.spotify.com/album/04qmxEtttzyhoSzWWe5Kb0"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208680,
+      "name": "Always on Your Side",
+      "url": "https://open.spotify.com/track/6jJTpzMquQLVuUkM2vVEIF"
+    },
+    {
+      "album": {
         "name": "AMAZING",
         "url": "https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe"
       },
@@ -7035,6 +7057,24 @@
     },
     {
       "album": {
+        "name": "it takes a lifetime - day 58",
+        "url": "https://open.spotify.com/album/4RAM3Suzg7KdpXyk9xRyq7"
+      },
+      "artists": [
+        {
+          "name": "Ethan French",
+          "url": "https://open.spotify.com/artist/03Y8hH60ObeKNFsDcum6Uu"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100760,
+      "name": "it takes a lifetime - day 58",
+      "url": "https://open.spotify.com/track/6jSvTTldpJf0N3qNMQKZBu"
+    },
+    {
+      "album": {
         "name": "It's Been a Little Heavy Lately",
         "url": "https://open.spotify.com/album/6pemgHNxTnz4vRNNMLQCAe"
       },
@@ -13154,7 +13194,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 187438,
       "name": "The Art Of Letting Go",
       "url": "https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F"
@@ -13806,7 +13846,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 219250,
       "name": "Tryna Be Cool",
       "url": "https://open.spotify.com/track/6FxVw99inxzrYEjXGCTS9P"

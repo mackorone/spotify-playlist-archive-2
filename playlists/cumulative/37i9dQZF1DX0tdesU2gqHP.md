@@ -4,7 +4,7 @@
 
 > The best videos from the world of pop! Cover: Slayyyter
 
-183 songs - 9 hr 51 min
+185 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [des fleurs x stromae](https://open.spotify.com/track/0lNSoCSUfvKSmjm8B7rZYI) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [des fleurs x stromae](https://open.spotify.com/album/76JZ5dHWdZx91LHr4ztqsB) | 2:52 | 2026-06-30 |  |
 | [Die On This Hill](https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng) | 3:37 | 2026-02-23 |  |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2025-12-09 | 2026-06-06 |
+| [Don’t Leave Me on the Dance Floor](https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Don’t Leave Me on the Dance Floor](https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI) | 3:12 | 2026-08-07 |  |
 | [Don’t Make Me Love U](https://open.spotify.com/track/5RCxs4hI3l01zASQkClUnm) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Don’t Make Me Love U](https://open.spotify.com/album/5QQH6wCepwybR1tvROlfKy) | 3:25 | 2026-03-31 | 2026-07-20 |
 | [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 | 2026-05-01 | 2026-08-01 |
 | [drop dead \- taken that eurostar to france](https://open.spotify.com/track/7J4hbjjfYbBvGF2nQLksUs) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead \(taken that eurostar to france video\)](https://open.spotify.com/album/6yWUYijJvHyjvcw43abyWD) | 3:57 | 2026-04-20 | 2026-05-02 |
@@ -185,6 +186,7 @@
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-12-09 | 2026-04-07 |
 | [Vodka Cranberry](https://open.spotify.com/track/6qGVKjUodwfWPg4ZzZiA6S) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Wishbone](https://open.spotify.com/album/6xg3zSgRcJDnPagx8cmXeA) | 4:05 | 2025-12-09 | 2026-05-02 |
 | [Watch It Burn](https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Watch It Burn](https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP) | 2:55 | 2026-06-26 |  |
+| [WAYF BOYS DO](https://open.spotify.com/track/0GFdPboDW6A91IfLDVrY3R) | [WAYF BOYS](https://open.spotify.com/artist/1jTKZZY2LPLQxovKq7vIFC) | [WAYF BOYS DO](https://open.spotify.com/album/32mQSWQGzN0SbLuWHt4u4s) | 2:46 | 2026-08-07 |  |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 | 2025-12-09 |  |
 | [WHAT ELSE?](https://open.spotify.com/track/3h2OSS7nnFnEuZ57F2BmVF) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [WHAT ELSE?](https://open.spotify.com/album/7gFZKtpOHMIvkVhXSJ9z7f) | 2:20 | 2026-07-19 |  |
 | [What Was That](https://open.spotify.com/track/7hGCCQkdyF1MX6uk339uBS) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:29 | 2025-12-09 | 2026-01-21 |

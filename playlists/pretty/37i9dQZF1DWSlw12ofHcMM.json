@@ -1,12 +1,12 @@
 {
   "description": "bold tracks, serious swagger.",
-  "num_followers": 1364004,
+  "num_followers": 1363982,
   "original_name": "Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHAL6Dygwl+pKS33/zffPBdCMyU+",
+  "snapshot_id": "AAAAAElEOmIxzUgnrw9m3MP1yWC9vCnP",
   "tracks": [
     {
       "added_at": "2024-08-23 15:39:31",
@@ -823,18 +823,18 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Le Fou",
-        "url": "https://open.spotify.com/album/63EFCjfsEZqsXfK0PBKqu7"
+        "name": "Sugar Cane Sessions",
+        "url": "https://open.spotify.com/album/7aeXHOQbK5fBT58INAtCz0"
       },
       "artists": [
         {
-          "name": "Devan DuBois",
-          "url": "https://open.spotify.com/artist/7mFPzPaMTA7CHdNAWuAUIx"
+          "name": "KaiL Baxley",
+          "url": "https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx"
         }
       ],
-      "duration_ms": 194817,
-      "name": "Long Live",
-      "url": "https://open.spotify.com/track/5EEa9SITrIRlpj5yFn72iO"
+      "duration_ms": 172055,
+      "name": "Boy Got It Bad (Live with the Charleston City Choir)",
+      "url": "https://open.spotify.com/track/2tu4dVYXtD9D0hUMEHidp9"
     }
   ],
   "unique_name": "Swagger",

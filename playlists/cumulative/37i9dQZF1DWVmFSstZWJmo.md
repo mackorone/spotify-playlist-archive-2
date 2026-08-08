@@ -4,7 +4,7 @@
 
 > Fcukers on the cover bby
 
-292 songs - 17 hr 59 min
+294 songs - 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Animal](https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Miike Snow](https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi) | 4:23 | 2022-11-10 | 2025-04-27 |
 | [Apply Some Pressure](https://open.spotify.com/track/19503qDaxgCdPL2BhJngij) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [A Certain Trigger](https://open.spotify.com/album/5AMY7GZtT4hz0h4O7OBUz4) | 3:20 | 2022-11-10 | 2023-02-02 |
 | [Apply Some Pressure](https://open.spotify.com/track/1GBBhEVBjf1JOulr4ndhip) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [A Certain Trigger](https://open.spotify.com/album/1aDrIJ6Nn3Po2U40QlNdop) | 3:20 | 2023-03-03 | 2024-04-19 |
-| [ARE U OK](https://open.spotify.com/track/06vzV7ce5wetdKDnIGHA7L) | [Salt Queen](https://open.spotify.com/artist/0eMKS0LUJzsisvUXONfgXN) | [ARE U OK](https://open.spotify.com/album/3qLqvJorJBH5zn8eTlJIHe) | 4:57 | 2026-04-03 |  |
+| [ARE U OK](https://open.spotify.com/track/06vzV7ce5wetdKDnIGHA7L) | [Salt Queen](https://open.spotify.com/artist/0eMKS0LUJzsisvUXONfgXN) | [ARE U OK](https://open.spotify.com/album/3qLqvJorJBH5zn8eTlJIHe) | 4:57 | 2026-04-03 | 2026-08-08 |
 | [Aux Romanticiser](https://open.spotify.com/track/58mbHzbxSRXmhkRAdvYvFS) | [The Itch](https://open.spotify.com/artist/64Db5ZXKSHKOKC7h1brQck) | [Aux Romanticiser](https://open.spotify.com/album/532yLPbM08MOlMR4bPIksS) | 5:41 | 2026-01-30 |  |
 | [Back in Your Head](https://open.spotify.com/track/2Pdo1VvYDB9FqeuNx8D1FW) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [The Con](https://open.spotify.com/album/4QjGIZZqvNrdkgw4LZKLZK) | 3:00 | 2023-09-05 |  |
 | [Bad Romance \- Skrillex Remix](https://open.spotify.com/track/3ipLg66ktOi3Ag0p26ZBbp) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Bad Romance Remixes](https://open.spotify.com/album/4d8Ltw4bT71vjo052hlzhY) | 4:23 | 2023-04-14 | 2023-04-27 |
@@ -49,7 +49,7 @@
 | [Club 20](https://open.spotify.com/track/7wkctx2Jea5OyKXUyUC6xe) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [Club 20](https://open.spotify.com/album/3P2CgypNUCjskPdRd4J0OQ) | 2:41 | 2025-07-25 |  |
 | [Courtship Dating](https://open.spotify.com/track/1mOsMKTGAoayrYBnvIdBkk) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 3:30 | 2023-05-17 | 2023-09-06 |
 | [Cousins](https://open.spotify.com/track/0vxGpG3QTbioUTAToBAuBl) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Contra](https://open.spotify.com/album/0H8cHlbp6eieUUOLmv4FzJ) | 2:25 | 2023-09-05 | 2024-04-19 |
-| [Cousins](https://open.spotify.com/track/4tFOkEWNXiheSDnURpmGTp) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Contra](https://open.spotify.com/album/2zcMgU6PAlLUDQMqZcxxUU) | 2:25 | 2023-09-05 |  |
+| [Cousins](https://open.spotify.com/track/4tFOkEWNXiheSDnURpmGTp) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Contra](https://open.spotify.com/album/2zcMgU6PAlLUDQMqZcxxUU) | 2:25 | 2023-09-05 | 2026-08-08 |
 | [Crimewave](https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi) | 4:18 | 2023-09-05 | 2024-04-19 |
 | [Crimewave](https://open.spotify.com/track/3TjliM0xQ3fkza0RpINRrq) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:18 | 2022-11-10 |  |
 | [Crystal Breath](https://open.spotify.com/track/4YLuySkJBHaMvPtdntLH87) | [Kim Deal](https://open.spotify.com/artist/4JzQKxgdLmyqbplHxVL8xY) | [Crystal Breath](https://open.spotify.com/album/1CCdbTlll95A1LYyBQyq9S) | 3:27 | 2024-08-30 | 2024-11-27 |
@@ -177,7 +177,7 @@
 | [Mujeres Unidas](https://open.spotify.com/track/44SWB3l9YVJyYAIk2vvbZE) | [Soltera](https://open.spotify.com/artist/5hQc6i1QccCvRafrAxR8do), [Sonido Sex](https://open.spotify.com/artist/6ximajflym2CSoL7aawUjR) | [Mujeres Unidas](https://open.spotify.com/album/3mNJQYlxSly7ZbWpHiDdgt) | 2:56 | 2026-03-06 |  |
 | [Music Is My Hot, Hot Sex](https://open.spotify.com/track/5GpV1FvwKtSD1u6UcyiYXW) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD) | 3:07 | 2023-09-05 | 2025-07-26 |
 | [My Dick](https://open.spotify.com/track/2tN2Kvzm2ITh1jnMKjjWBZ) | [Mickey Avalon](https://open.spotify.com/artist/546WiMGysEqWZTzP8hJvB2) | [Mickey Avalon](https://open.spotify.com/album/3UG9rC8sFazZjbzCsS4tWV) | 3:00 | 2023-09-05 |  |
-| [My Girl](https://open.spotify.com/track/4jnzloLGQNJy7sYjabVSaZ) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Girl](https://open.spotify.com/album/5sFj47dMyRaQo3sVoElik2) | 2:45 | 2024-08-30 |  |
+| [My Girl](https://open.spotify.com/track/4jnzloLGQNJy7sYjabVSaZ) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Girl](https://open.spotify.com/album/5sFj47dMyRaQo3sVoElik2) | 2:45 | 2024-08-30 | 2026-08-08 |
 | [My Girls](https://open.spotify.com/track/2gE0khQ948RYQOeTgCUL2a) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Merriweather Post Pavilion](https://open.spotify.com/album/5O9OXl9zAWMJTzawofxuan) | 5:40 | 2022-11-10 | 2023-09-27 |
 | [My Girls](https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Merriweather Post Pavilion](https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq) | 5:40 | 2023-09-05 | 2024-04-19 |
 | [Neverland](https://open.spotify.com/track/0ONbiyqCsjVSjrrZJISZIY) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Silent Shout](https://open.spotify.com/album/6rdNbdV3T4muFFFSjGdOj9) | 3:38 | 2023-04-14 | 2023-04-27 |
@@ -219,6 +219,7 @@
 | [Punching Down](https://open.spotify.com/track/7EUgUNXbhgsPXaCr51uYta) | [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Ooh Rap I Ya](https://open.spotify.com/album/2kvz9frUn3LUK83imD2BQS) | 3:27 | 2023-09-05 | 2024-05-22 |
 | [Pursuit Of Happiness \- Extended Steve Aoki Remix](https://open.spotify.com/track/5PX4uS1LqlWEPL69phPVQQ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Pursuit Of Happiness \[Extended Steve Aoki Remix \(Explicit\)\]](https://open.spotify.com/album/38MFjDPIDJFfLF7IVpe1rv) | 6:13 | 2023-04-14 |  |
 | [Rawnald Gregory Erickson the Second](https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 2:53 | 2022-11-10 |  |
+| [Read My Lips](https://open.spotify.com/track/27yzgKLVz9UZ40aPpFSdTu) | [aka Vinnie](https://open.spotify.com/artist/6UnSeTHLUTc13ReMW40rJe) | [Read My Lips](https://open.spotify.com/album/0DkRtOUeRlLA5Hi5JrAiVU) | 3:18 | 2026-08-07 |  |
 | [Ready For The Floor](https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Made In The Dark](https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ) | 3:54 | 2022-11-10 |  |
 | [Reaper](https://open.spotify.com/track/2Dcoe4qkCmTnP4d0AhQsI2) | [atlgrandma](https://open.spotify.com/artist/359MsXnylhLWcIP444SEAu) | [Reaper](https://open.spotify.com/album/1Eil13j3qq08iSHzDRvvb8) | 2:40 | 2025-07-25 | 2025-11-08 |
 | [Remember Me](https://open.spotify.com/track/2gd00D6APhLate8i83azYd) | [Suzy Clue](https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK) | [Remember Me](https://open.spotify.com/album/7EL0UXeIM8xTYwf4FhA8o8) | 4:11 | 2023-12-04 | 2025-03-26 |
@@ -226,6 +227,7 @@
 | [Reptilia](https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:39 | 2022-11-10 |  |
 | [Rich Girls](https://open.spotify.com/track/58F6iKkYdIccktJ8i8BuQQ) | [The Virgins](https://open.spotify.com/artist/6RNuLHIAlLt1FQHm03oEru) | [The Virgins](https://open.spotify.com/album/2u24W1w4uHRgPUka8xhIvj) | 3:00 | 2023-05-17 |  |
 | [Rill Rill](https://open.spotify.com/track/0Z7b5GlC70FAES1YduhhqQ) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [Treats](https://open.spotify.com/album/3dEgxewsJAZ6s2nVUieNA5) | 3:49 | 2023-01-10 | 2024-04-19 |
+| [rockstar](https://open.spotify.com/track/58hxnWxcd21upu3864JX8P) | [Romeo Has A Gun](https://open.spotify.com/artist/229hIWTYgfF2OQxd7UqifF) | [rockstar](https://open.spotify.com/album/5YcoWm7QkA3DfPOy3Vh32Y) | 2:45 | 2026-08-07 |  |
 | [Romantic Rights \- Erol Alkan's Love from Below Re\-Edit](https://open.spotify.com/track/5a0tGlatEgcfoOmDFg0moo) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [Romance Bloody Romance](https://open.spotify.com/album/42hKf3qzo84IsuSAjT6xJq) | 6:20 | 2023-04-14 | 2023-04-27 |
 | [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 | 2023-12-04 |  |
 | [Root Canal](https://open.spotify.com/track/2ZApMdEJTXJ97h6bRw4ZvL) | [Mother Cell](https://open.spotify.com/artist/3risBr1IVWlfdA4TIFMPBc) | [Powerhouse](https://open.spotify.com/album/26LcXJfjgtI5JHj2AJplln) | 3:42 | 2023-04-14 | 2023-04-27 |

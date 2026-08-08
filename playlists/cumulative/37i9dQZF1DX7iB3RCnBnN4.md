@@ -4,7 +4,7 @@
 
 > Celebrating all the songs with over a Billion streams on Spotify\. Cover: Rihanna
 
-1,446 songs - 3 day 16 hr 3 min
+1,447 songs - 3 day 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -688,6 +688,7 @@
 | [Let Her Go](https://open.spotify.com/track/1KxwZYyzWNyZSRyErj2ojT) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights](https://open.spotify.com/album/52ukyDfkPmF4X6EcSYVfVJ) | 4:12 | 2021-07-21 | 2026-06-04 |
 | [Let It Go](https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 4:20 | 2022-10-13 |  |
 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:43 | 2026-04-24 |  |
+| [Let It Happen](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 7:47 | 2026-08-07 |  |
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:57 | 2025-12-29 |  |
 | [Let Me Down Slowly](https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 2:49 | 2022-04-11 |  |
 | [Let Me Go \(with Alesso, Florida Georgia Line & watt\)](https://open.spotify.com/track/5Gu0PDLN4YJeW75PpBSg9p) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc) | [Let Me Go \(with Alesso, Florida Georgia Line & watt\)](https://open.spotify.com/album/3ggBBGRhkDVAu7pQRXRPXO) | 2:54 | 2023-04-28 |  |

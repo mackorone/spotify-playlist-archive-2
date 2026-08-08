@@ -4,7 +4,7 @@
 
 > the glorious sounds of Jazz House, from Montreal, Lagos, Bogotá, & beyond 🌎 featuring KALLITECHNIS
 
-264 songs - 16 hr 33 min
+266 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,9 @@
 | [A Deeper Life](https://open.spotify.com/track/2BeFVOi5hh545rnHTmDmPF) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Isaac Aesili](https://open.spotify.com/artist/3zEfsUok55Gll9L0YN2YOE) | [A Deeper Life](https://open.spotify.com/album/5XyoQf6GrQHZgLkRMXfF5F) | 8:04 | 2025-05-09 |  |
 | [A Way Out](https://open.spotify.com/track/1GcUuxtC564k9GqIEjgS0S) | [Moomin](https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s) | [A Way Out](https://open.spotify.com/album/7D4OA9mOyyFUQJTdHOiWlH) | 5:00 | 2025-03-14 | 2025-05-24 |
 | [Acidjazzacid](https://open.spotify.com/track/5HTwniqm9szfs9Cib1p1cF) | [Milan93](https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg) | [Acidjazzacid](https://open.spotify.com/album/3EUyOXYHvggj5xkFoss5A6) | 2:08 | 2025-03-07 | 2025-08-02 |
+| [Acropolis](https://open.spotify.com/track/2hpVQBayFqLoNKO6XKnDGn) | [gabriel](https://open.spotify.com/artist/0Hm7cDeuRoPAqqRfnHYpu2) | [Acropolis](https://open.spotify.com/album/33UdAsiRpjwn3UdauMrT0n) | 2:54 | 2026-08-07 |  |
 | [All Over](https://open.spotify.com/track/3J5cXnEVsVLcQCE5ImlXhg) | [DAWSON](https://open.spotify.com/artist/5cC8kBz37XOqvQ1uuptA02), [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Lewis McCallum](https://open.spotify.com/artist/74XBgs2YjpaF1kYSYE5xQn) | [All Over](https://open.spotify.com/album/390p2gSBx7nYnneguRlwn9) | 5:00 | 2026-06-19 |  |
+| [Always Lovin](https://open.spotify.com/track/0Pvh7YW6yVwNWn8pFXk8SZ) | [Bienk](https://open.spotify.com/artist/5knpBDWYqKF6j0pWtM2txp) | [Always Lovin](https://open.spotify.com/album/3cFKjcFAu2te0pSOmfPXag) | 3:28 | 2026-08-07 |  |
 | [As If](https://open.spotify.com/track/3QiPB7sjCdwBFbI24ewr5s) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [As If](https://open.spotify.com/album/70l9yOwA3Hrycu1Ls3Zp8k) | 2:23 | 2025-02-21 | 2025-11-22 |
 | [as the world turns](https://open.spotify.com/track/2AXSrt5iuhT4iPb6piVIp1) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs) | [as the world turns](https://open.spotify.com/album/3byD2sN44BAjh9PDe6uhP6) | 4:52 | 2026-05-01 |  |
 | [at first](https://open.spotify.com/track/6ySPRb4en9GqyBJSNgxHDn) | [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs), [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [at first](https://open.spotify.com/album/7xtmLluiM3xIaAGY3fBXe0) | 2:31 | 2025-02-21 | 2025-10-25 |
@@ -126,7 +128,7 @@
 | [Jazz Piece 2](https://open.spotify.com/track/3fOyW8hSiOpCaXmQP4zpQH) | [DJ Aakmael](https://open.spotify.com/artist/4i2Ey9xknZmz8QQXtLzAN7) | [Jus' Tracks](https://open.spotify.com/album/2fRww4IqAwrNEEyt5P6ww8) | 7:00 | 2025-02-21 | 2025-12-06 |
 | [Jazzy Cigarette](https://open.spotify.com/track/0DsbijUjURPgkffxhfkrfJ) | [Copenhagen untd.](https://open.spotify.com/artist/4kOHVYMZUnNasTU8eKJpme) | [Jazzy Cigarette](https://open.spotify.com/album/3zpdIwaPyjtBnIukIPddzZ) | 2:39 | 2025-02-21 | 2026-04-25 |
 | [Jealous Girl](https://open.spotify.com/track/1Thix6BaqobCQATYE7LRln) | [DJ burgerhead](https://open.spotify.com/artist/7tkCO3Cc3NEhjZ3T3PM6ar) | [Jealous Girl](https://open.spotify.com/album/2FbWwQP2riAzTktIulJrSv) | 4:00 | 2025-03-07 | 2025-09-06 |
-| [JFK Jr.](https://open.spotify.com/track/6QAlmU7YPm15JdZ8NJ9jFx) | [Ralph Felix](https://open.spotify.com/artist/3i8emYvhsa8PmLH4zTAvjV) | [JFK Jr.](https://open.spotify.com/album/2dwetLc3hbfApdDKMfWAKE) | 3:03 | 2026-05-15 |  |
+| [JFK Jr.](https://open.spotify.com/track/6QAlmU7YPm15JdZ8NJ9jFx) | [Ralph Felix](https://open.spotify.com/artist/3i8emYvhsa8PmLH4zTAvjV) | [JFK Jr.](https://open.spotify.com/album/2dwetLc3hbfApdDKMfWAKE) | 3:03 | 2026-05-15 | 2026-08-08 |
 | [joycelyn's dance](https://open.spotify.com/track/3z0JwddAR5GASTxnKExIw1) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [open this wall](https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA) | 3:18 | 2025-02-21 | 2025-06-28 |
 | [Keep It Real](https://open.spotify.com/track/4YpCTAZRpNmW1EHLVrq4ur) | [Loure](https://open.spotify.com/artist/0oj4QK4zH3lghS2Oa418zZ) | [Westside Movements](https://open.spotify.com/album/07aLEJ68A2wz9em0AwnuS2) | 6:54 | 2025-02-21 | 2025-05-17 |
 | [Keep On](https://open.spotify.com/track/6hnAC8BVOSAstUNeQxWHOP) | [Yasin Hazim](https://open.spotify.com/artist/1zQG3HG2ikVmCzRetpDS5k) | [09 Years of Feedasoul](https://open.spotify.com/album/1whE3ytDygH57l0nvfHeS8) | 5:44 | 2025-08-01 | 2026-07-11 |
@@ -157,7 +159,7 @@
 | [Midnight Drift](https://open.spotify.com/track/7vIPXFvCLD1atpPnnaTjkh) | [būgs](https://open.spotify.com/artist/2xzpAVZRcuDvvjqSX1ejDT), [philocalie](https://open.spotify.com/artist/2xSEBQojyWTfoZ637ZjiZm) | [Midnight Drift](https://open.spotify.com/album/11QbMV3YybZOXbjR51cBq7) | 3:17 | 2025-12-05 | 2026-03-28 |
 | [Midnight in Manhattan](https://open.spotify.com/track/1p7uy7X1LPAtX7b0bWAQx4) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC) | [Midnight in Manhattan](https://open.spotify.com/album/0Wo9oJJIg1cmqgnmhbIG6P) | 2:34 | 2026-07-17 |  |
 | [Mirage](https://open.spotify.com/track/4hLI1F3ChsMivSIW8lwNvR) | [Aguava](https://open.spotify.com/artist/2va26iLf6XkexHsCnKWOid) | [Mirage](https://open.spotify.com/album/39HbPcEk6VkoDkeDhZFBnb) | 3:11 | 2025-09-26 | 2026-01-17 |
-| [Missing u](https://open.spotify.com/track/773lfCbUHbFc0WsCJftePE) | [Mack Walker](https://open.spotify.com/artist/1pdJH1yIymKtEcpperdsEx), [Jordan Burnett](https://open.spotify.com/artist/6imbNsJzMgJ3fNSnqKSu7e) | [Missing u](https://open.spotify.com/album/6ji1bD57jNSy4rb68YdhW0) | 1:48 | 2025-08-29 |  |
+| [Missing u](https://open.spotify.com/track/773lfCbUHbFc0WsCJftePE) | [Mack Walker](https://open.spotify.com/artist/1pdJH1yIymKtEcpperdsEx), [Jordan Burnett](https://open.spotify.com/artist/6imbNsJzMgJ3fNSnqKSu7e) | [Missing u](https://open.spotify.com/album/6ji1bD57jNSy4rb68YdhW0) | 1:48 | 2025-08-29 | 2026-08-08 |
 | [Moments](https://open.spotify.com/track/48FkCtZNNpTYshKMM358YL) | [Jimmy Q](https://open.spotify.com/artist/7xALZJA4uqi1224A9Bd7GA), [Zac Colwell](https://open.spotify.com/artist/7BmfdJB28dqduFA30V5BjL) | [Moments](https://open.spotify.com/album/0DORzhj4y3sk5rTfQMIKjS) | 3:13 | 2025-12-19 | 2026-05-16 |
 | [Mon Coeur](https://open.spotify.com/track/0PAaJeO1U7Q4OgJk7Wx1j3) | [Sajmoonn](https://open.spotify.com/artist/7Jui0pv7zs0Pmbfaqx2Sjh), [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [Mon Coeur](https://open.spotify.com/album/3btmLGVI2AlqPtwoeBEt6K) | 4:34 | 2025-02-21 | 2025-10-18 |
 | [Moons](https://open.spotify.com/track/32U32r15CzLGLUs4Qmy101) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [Moons](https://open.spotify.com/album/2W1h6iQcIQdbu596onLosj) | 2:25 | 2025-10-14 | 2026-03-28 |

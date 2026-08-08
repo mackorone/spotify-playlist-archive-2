@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 
 > Punjabi aa gaye oye!
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,262 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,317 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 | 20 | [Laembadgini](https://open.spotify.com/track/5zKWrXbY0EU8ZComTwfnk6) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Laembadgini](https://open.spotify.com/album/1GNGRwlZYpVr2Itn1D9jK1) | 3:06 |
 | 21 | [Lak 28 Kudi Da](https://open.spotify.com/track/43ptYENIQJfqMWdCtyGFk8) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Lak 28 Kudi Da](https://open.spotify.com/album/526HxFaDf5l1T0C5QBoT7B) | 3:32 |
 | 22 | [Truck](https://open.spotify.com/track/3GUpX7xIjE4Z3tYjKK3oY7) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2) | [Back to Basics](https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d) | 3:29 |
-| 23 | [Radio](https://open.spotify.com/track/1mYjwd7fhieNlsrjiFyOr0) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2) | [Back to Basics](https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d) | 4:04 |
-| 24 | [Poh Di Raat](https://open.spotify.com/track/6kqTzI4FCVdot2cVP1Zcqe) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tee L](https://open.spotify.com/artist/6TsJMutd2Oq9jQRdlFeGUv) | [Back to Basics](https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d) | 3:44 |
+| 23 | [Poh Di Raat](https://open.spotify.com/track/6kqTzI4FCVdot2cVP1Zcqe) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tee L](https://open.spotify.com/artist/6TsJMutd2Oq9jQRdlFeGUv) | [Back to Basics](https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d) | 3:44 |
+| 24 | [Radio](https://open.spotify.com/track/1mYjwd7fhieNlsrjiFyOr0) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2) | [Back to Basics](https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d) | 4:04 |
 | 25 | [Kharku](https://open.spotify.com/track/1xzxjqnT7mZb2Sh4HaG5tc) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2) | [Back to Basics](https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d) | 3:37 |
 | 26 | [Pat Doon Chugti Ni](https://open.spotify.com/track/4XDcAT42H83pKPGLoYjGZ9) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Nisha Bano](https://open.spotify.com/artist/49094fCmcy4SfKYaOtSkOr) | [Amar Singh Chamkila \- Live Recorded](https://open.spotify.com/album/1Fjio02TgzmjzqXcVX5EmK) | 1:57 |
 | 27 | [Pagal](https://open.spotify.com/track/7ibx4iOyi6UrLHv6rUe90d) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Pagal](https://open.spotify.com/album/2izEI6sWL3zcSRzakTAPfI) | 4:43 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 | 41 | [El Sueño \(feat\. Tru\-Skool\)](https://open.spotify.com/track/4xxLLbEcA3mMwpzvBWjVTR) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2) | [El Sueño \(feat\. Tru\-Skool\)](https://open.spotify.com/album/0O6WVv0kgaPZdKTMap1DhY) | 3:54 |
 | 42 | [Taare](https://open.spotify.com/track/2Xr84waT2lRMqjdkjmTYfW) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:23 |
 | 43 | [Cry Later](https://open.spotify.com/track/72ztIrIf22Mf9hDqr8xaYo) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:28 |
-| 44 | [Cali](https://open.spotify.com/track/2OXUK0Lwgv5Y9M5m8bI9Af) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:38 |
-| 45 | [Ghost](https://open.spotify.com/track/5VlQvNMpZF3wXrXLfr89Xa) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:45 |
+| 44 | [Ghost](https://open.spotify.com/track/5VlQvNMpZF3wXrXLfr89Xa) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:45 |
+| 45 | [Cali](https://open.spotify.com/track/2OXUK0Lwgv5Y9M5m8bI9Af) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:38 |
 | 46 | [Saanvle \(feat\. Raj Ranjodh\)](https://open.spotify.com/track/7EP2pUtxJeEEqN0V7hLjNg) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Saanvle \(feat\. Raj Ranjodh\)](https://open.spotify.com/album/4bU263ULrrVYSP2J7Vp97X) | 3:28 |
 | 47 | [Habit](https://open.spotify.com/track/0v1T9sMeFbaanQ3o2PBcYK) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:03 |
 | 48 | [What Ve](https://open.spotify.com/track/6Pxq8WosWicxmEqp9BFZ2s) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [What Ve](https://open.spotify.com/album/5uR3tuzwfgecmNPsCfxeUi) | 3:08 |
 | 49 | [Kehkashan](https://open.spotify.com/track/2NTtfjk6ShR9uQcKJh1yX9) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:00 |
 | 50 | [Whatcha Doin'](https://open.spotify.com/track/3O4pPBep2Rzn6KS2iqdrin) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:17 |
 
-Snapshot ID: `AAAAAIhFqLAo3RptOQrFAZsYqC/b1nTl`
+Snapshot ID: `AAAAAEykTRV/ooFeWoiObO0rBrNDoVpI`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,262,137 likes - 80 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,261,992 likes - 80 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 60 | [Canada](https://open.spotify.com/track/7z5riBToXE2PBrdiAxQMdX) | [Laura Alden](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [Canada](https://open.spotify.com/album/0zcyks6yhT0hcLkq0bejgV) | 3:10 |
 | 61 | [HEADPHONES](https://open.spotify.com/track/0DZdO8klTXwwiCgHRlTiqx) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [HEADPHONES](https://open.spotify.com/album/38k0yC1M2tFqhodt0nMKu2) | 3:16 |
 | 62 | [Baghdad](https://open.spotify.com/track/7rOXvlA2T7jDETJ107zZW0) | [Flo Perlin](https://open.spotify.com/artist/2M9I6kX9POMfrxPfePZh05) | [Baghdad](https://open.spotify.com/album/4Dz25Hgxa02gqv0D6ZTbqk) | 3:26 |
-| 63 | [Timeless](https://open.spotify.com/track/3AZ3iDuNNkxIKYZJiFzYvc) | [Rosie H Sullivan](https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je) | [Timeless](https://open.spotify.com/album/0FpJ9wlktoKInqfSpgBSjf) | 4:33 |
-| 64 | [You Are The Morning](https://open.spotify.com/track/6nOPbOoujiGPWI8HUDaNq1) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:13 |
+| 63 | [You Are The Morning](https://open.spotify.com/track/6nOPbOoujiGPWI8HUDaNq1) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:13 |
+| 64 | [Timeless](https://open.spotify.com/track/3AZ3iDuNNkxIKYZJiFzYvc) | [Rosie H Sullivan](https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je) | [Timeless](https://open.spotify.com/album/0FpJ9wlktoKInqfSpgBSjf) | 4:33 |
 | 65 | [The Old Parade](https://open.spotify.com/track/43oqobywDZTvS53P9VNFl3) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [The Old Parade](https://open.spotify.com/album/1hgxMPc8eLOaXCYsQ9vRvq) | 3:20 |
 | 66 | [Mansion](https://open.spotify.com/track/0dPrl278qhdSTxnIy4qsB3) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Anger](https://open.spotify.com/album/4inkmCqix6rQcYAvPta2ZR) | 3:31 |
 | 67 | [Brian Cox](https://open.spotify.com/track/0LbtMgKgt5gCN74xpaYNo0) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Brian Cox](https://open.spotify.com/album/6pNS3kSG0HdxMpjOJ1aQho) | 2:56 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 71 | [Blame The Moon](https://open.spotify.com/track/5Fg3lWZoVA0XOgLZpjNWW4) | [Alice Shone](https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ) | [Blame The Moon](https://open.spotify.com/album/4Efec8NPLJPMIDGZohypx2) | 2:43 |
 | 72 | [afraid](https://open.spotify.com/track/7hfQPhDkRaJDb0kUrxkBTs) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u), [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [afraid](https://open.spotify.com/album/2nIkRl4p0GBYkLoV2z2AxD) | 3:00 |
 | 73 | [Pinetrees](https://open.spotify.com/track/6VmKRiq18SDfzCfV2nXOSs) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Pinetrees](https://open.spotify.com/album/2hXdszF3JmErfOInSMV3hQ) | 3:24 |
-| 74 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 |
-| 75 | [Nostalgia](https://open.spotify.com/track/3D0IdhT2IFbXNOYaT67Ng5) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [Nostalgia](https://open.spotify.com/album/4S4Hg7TfDfGheMAjgOoLJX) | 4:01 |
+| 74 | [Nostalgia](https://open.spotify.com/track/3D0IdhT2IFbXNOYaT67Ng5) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [Nostalgia](https://open.spotify.com/album/4S4Hg7TfDfGheMAjgOoLJX) | 4:01 |
+| 75 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 |
 | 76 | [Homesick](https://open.spotify.com/track/7d0kDcSMb4gITAYL5Os52M) | [Dwara](https://open.spotify.com/artist/1tXP3SuS8FuVbJDejcrcmG), [Khotton](https://open.spotify.com/artist/3nJV4WKGZ6rh9LqpdwCOnS) | [Homesick](https://open.spotify.com/album/5SfwE6ByYqjZLv2SwWLgFf) | 3:53 |
-| 77 | [One Last Song](https://open.spotify.com/track/3Rviv1akOeg6RhUNvy1RBR) | [Laura Alden](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [One Last Song](https://open.spotify.com/album/2Ax8c96I3uP49OmJVcgSBl) | 3:29 |
-| 78 | [Forever For Now](https://open.spotify.com/track/36wyK4BQLsL2wy3gWCgz4F) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Joshua](https://open.spotify.com/album/07POYRnUQ5sXuJEAy1x8hQ) | 4:13 |
-| 79 | [Let Your Love Run Cold](https://open.spotify.com/track/4lDviyx50ZMALSovCHFo61) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Let Your Love Run Cold](https://open.spotify.com/album/02qqL9B8uYPcrA7yCmMjdS) | 3:43 |
-| 80 | [Twin](https://open.spotify.com/track/17MuSO2Pp6sZ3Dnrc4BTxu) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Twin](https://open.spotify.com/album/5TyFSfaDYsFcXBlofHXNiq) | 5:17 |
+| 77 | [Forever For Now](https://open.spotify.com/track/36wyK4BQLsL2wy3gWCgz4F) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Joshua](https://open.spotify.com/album/07POYRnUQ5sXuJEAy1x8hQ) | 4:13 |
+| 78 | [Let Your Love Run Cold](https://open.spotify.com/track/4lDviyx50ZMALSovCHFo61) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Let Your Love Run Cold](https://open.spotify.com/album/02qqL9B8uYPcrA7yCmMjdS) | 3:43 |
+| 79 | [One Last Song](https://open.spotify.com/track/3Rviv1akOeg6RhUNvy1RBR) | [Laura Alden](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [One Last Song](https://open.spotify.com/album/2Ax8c96I3uP49OmJVcgSBl) | 3:29 |
+| 80 | [Half of Mine](https://open.spotify.com/track/0jk9fGjCcebNf4TfrJBMl0) | [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx), [Tarian](https://open.spotify.com/artist/7h5vyR4LxVT0UZLBMcT59P) | [Half of Mine](https://open.spotify.com/album/5vn826N8Fxt4E0DKvEnwX6) | 2:58 |
 
-Snapshot ID: `AAAAAHmletIDAWxisR+wuslfPez5M/wn`
+Snapshot ID: `AAAAAGBkkcIxxIegby778PyuxjFR2AgB`

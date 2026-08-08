@@ -681,6 +681,24 @@
     },
     {
       "album": {
+        "name": "The Country Lullaby Album",
+        "url": "https://open.spotify.com/album/27DYiBlhpVhbqTl4X56mLv"
+      },
+      "artists": [
+        {
+          "name": "Fred Mollin",
+          "url": "https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189686,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/2T19CMS17EdI1Ryq4e4S5i"
+    },
+    {
+      "album": {
         "name": "Joep Beving: Etude",
         "url": "https://open.spotify.com/album/1dS6tP3LX5ANZPKwVXKJ5J"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,585 likes - 1,119 songs - 2 day 22 hr 25 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,586 likes - 1,134 songs - 2 day 23 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1127,5 +1127,20 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 1117 | [Not Good Looking](https://open.spotify.com/track/18nzCaK563NXqbAISp4Ugc) | [RamShackle](https://open.spotify.com/artist/0io5dV4KEggh6b7TR1EOPV) | [Not Good Looking](https://open.spotify.com/album/4vfFHUGpEigDldRb9SuhRo) | 3:34 |
 | 1118 | [Sechzehn ∞](https://open.spotify.com/track/1LUJwLn9sqGjO7n1ddGn14) | [Salomon](https://open.spotify.com/artist/4YKj15D8O9RCkEZ1mhA9tn) | [Sechzehn ∞](https://open.spotify.com/album/4Riqr5rLUZpvzgztN2nZFt) | 3:21 |
 | 1119 | [station to station](https://open.spotify.com/track/5IkE5yTdvCp8uQEG1cfKJr) | [DEBRISON](https://open.spotify.com/artist/1OiEOVUeoLaYfajrtLLHlw) | [station to station](https://open.spotify.com/album/3wKFIqTF9YtkNhoQ8LvamN) | 5:12 |
+| 1120 | [Something More](https://open.spotify.com/track/0KMHRjvXCXXCSqmG7KRPYi) | [Left to Nothing](https://open.spotify.com/artist/6xYZFCMIOhJSXQApvZIusH) | [Stolen Futures](https://open.spotify.com/album/78gZrHyZCJMW2MqY9PVT0b) | 2:59 |
+| 1121 | [WALKED AWAY](https://open.spotify.com/track/63wjlGnKFIs6gSsi6A4YQe) | [DOUG ROCKS](https://open.spotify.com/artist/2SYkdo95tZe0avloQNzGSV) | [WALKED AWAY](https://open.spotify.com/album/10hDvZc0SX3UzazmLlxWGv) | 4:07 |
+| 1122 | [Storm Eagle Mega Man X \- Vocal Version](https://open.spotify.com/track/30aMlpQGSDWnawvY92wYqz) | [Vocal Game Orchestra](https://open.spotify.com/artist/4LvoFWmhUT7CNWjppMoaUK) | [Storm Eagle Mega Man X \(Vocal Version\)](https://open.spotify.com/album/77yJFokFaziSRolDk1OtoX) | 2:52 |
+| 1123 | [Your Favorite Monster](https://open.spotify.com/track/2iXK0b3yo9dc0KkjCi5PcR) | [Master Dy](https://open.spotify.com/artist/3lfScZWl1nVVmsYciBXKBu) | [Your Favorite Monster](https://open.spotify.com/album/2jcIYhV9TaVaC9qy7PXWcW) | 3:28 |
+| 1124 | [Diabolical](https://open.spotify.com/track/4nX3pfoEzXKD5uc3Pmz9oR) | [The Birch](https://open.spotify.com/artist/0f1yccwMizgOv0fVWIRo83) | [Alveola mercy](https://open.spotify.com/album/2YusK6zvA2Fdn1cbYE83Y8) | 5:02 |
+| 1125 | [Rewind and Repeat](https://open.spotify.com/track/6ZIbT7at3VICfVxb3X1IBf) | [For What You Burn](https://open.spotify.com/artist/4QvZTSqwTEZ0YQZuOPOKI6) | [Rewind and Repeat](https://open.spotify.com/album/1TgDqL4p4FMXirRrjFCc5B) | 4:31 |
+| 1126 | [Delusions](https://open.spotify.com/track/3IZXcNHFM9hZdEtTf4Rk0h) | [Ekyutri](https://open.spotify.com/artist/6qLIhTp6H5sMDVuCWS4WVf) | [Delusions](https://open.spotify.com/album/4crSIPxl3NdnIZWZNhGuIj) | 3:08 |
+| 1127 | [Surrender](https://open.spotify.com/track/46TWHCkANxgZP8B4KDmKTr) | [Ascrail](https://open.spotify.com/artist/1041Yy0Ao1YWSBj0gD1hHG) | [Surrender](https://open.spotify.com/album/4qOOJTcaKHxdJnbo1nOLrd) | 4:06 |
+| 1128 | [Why Don't They Care?](https://open.spotify.com/track/3ELagxXujPMf9EV4zk3UDy) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Why Don't They Care?](https://open.spotify.com/album/1YZl8kT4SpwcMVxuCrJKCM) | 3:04 |
+| 1129 | [Promised Land](https://open.spotify.com/track/4MJBEn5RH96iSVjLefnvVD) | [Deaf Mother](https://open.spotify.com/artist/6QtfSjixl1I5KMlMKldZjt) | [Promised Land](https://open.spotify.com/album/5uZWKIJJJlHGH1yRywLA5M) | 3:47 |
+| 1130 | [Bull Market](https://open.spotify.com/track/1Hl5RFIwIICzI7CqqqRPHN) | [fabiano matiolla](https://open.spotify.com/artist/1gSEoElmqiR2xGnMtTTqes) | [Bull Market](https://open.spotify.com/album/0tOh6x0vBtlYVIAePUSz5b) | 4:50 |
+| 1131 | [Blood Oath](https://open.spotify.com/track/6ve8hdN10ZfcvM0EoDOqx0) | [Ekyutri](https://open.spotify.com/artist/6qLIhTp6H5sMDVuCWS4WVf) | [Blood Oath](https://open.spotify.com/album/2OJ46zf4XlkwxGCFmoH6Id) | 2:37 |
+| 1132 | [Screw Your HOA!](https://open.spotify.com/track/1nZIjiP2leeZ7eQ1lk0sIZ) | [S/ash66](https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68) | [Too Broke For Money](https://open.spotify.com/album/1kb6C7OYXgbehQhJ9sOZOo) | 1:38 |
+| 1133 | [Weird Kid](https://open.spotify.com/track/28P1Zn2MA2Af5L0MIa8fQx) | [Mr.Moss](https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT) | [Weird Kid](https://open.spotify.com/album/3J1FrMBOBnoDjin6Xg0JIi) | 2:25 |
+| 1134 | [Owtlary](https://open.spotify.com/track/0iZwZNdZlO6TYCD1qkO0s1) | [Rubber Block](https://open.spotify.com/artist/45JwohjuGbElTpuk8Kqjuk) | [Psychosomatic](https://open.spotify.com/album/0eDV5oAQ1vJtTpxYp3hEkf) | 5:52 |
 
-Snapshot ID: `AAAEiW5rBcgvjfcSjyI0lsY+Dgq6IkHk`
+Snapshot ID: `AAAEmDdBWiBEkn2hleaofeRobyBgMjA4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: kurayamisaka
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,709 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,724 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 59 | [Chapter](https://open.spotify.com/track/2Foy22FGZWsM7pr8zGatbw) | [NELKE](https://open.spotify.com/artist/0hLfZOfwBDMejvKITJksrG) | [Chapter](https://open.spotify.com/album/3eSd7qjQ6HSi8rebCfUAdT) | 3:26 |
 | 60 | [友達がいました](https://open.spotify.com/track/6mnkyC0iA2j5E0d1xBNo06) | [Trooper Salute](https://open.spotify.com/artist/7mPU5YS06Msig34yoAHBHL) | [友達がいました](https://open.spotify.com/album/7MxIjhS7vO37Tf8NAfxBWq) | 8:06 |
 
-Snapshot ID: `AAAAACNsUoCvJfGEQAZWd5Uq0/GWKFDM`
+Snapshot ID: `AAAAAPXPzXPm3T70muXQNGkFoNqa/ji7`

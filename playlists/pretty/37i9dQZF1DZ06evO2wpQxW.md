@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wpQxW.md) - [plain]
 
 > This is Calibre 50\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,079 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,104 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wpQxW.md) - [plain]
 | 12 | [Contigo](https://open.spotify.com/track/3imJHohXBxDGovFRQ75dUt) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt) | 3:30 |
 | 13 | [El Tierno Se Fue](https://open.spotify.com/track/3RqnWbtQpoeoU7EpS5H7VS) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [De Sinaloa Para El Mundo](https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39) | 4:19 |
 | 14 | [Culiacán Vs\. Mazatlán](https://open.spotify.com/track/6TlCQBVenVdJWJknrVeCYr) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Renovar O Morir](https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A) | 2:49 |
-| 15 | [Ni Que Estuvieras Tan Buena](https://open.spotify.com/track/3ElOgE8UIHSCqQu1L4FBco) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [La Recompensa](https://open.spotify.com/album/5YMCgTdT06cMlFlznzO2fo) | 2:18 |
+| 15 | [Mi Sorpresa Fuiste Tú](https://open.spotify.com/track/59S2kAfdUxi6k2Si8Vi0f3) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Mitad Y Mitad](https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R) | 3:49 |
 | 16 | [Tus Latidos](https://open.spotify.com/track/6rov2Cu3KFynohtdBOKQsW) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/67FKNGl2Yujo7UFeDNajHt) | 2:53 |
-| 17 | [Mi Sorpresa Fuiste Tú](https://open.spotify.com/track/59S2kAfdUxi6k2Si8Vi0f3) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Mitad Y Mitad](https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R) | 3:49 |
+| 17 | [Ni Que Estuvieras Tan Buena](https://open.spotify.com/track/3ElOgE8UIHSCqQu1L4FBco) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [La Recompensa](https://open.spotify.com/album/5YMCgTdT06cMlFlznzO2fo) | 2:18 |
 | 18 | [Chalito](https://open.spotify.com/track/6Lb8ikDcpKjF3yx2AnlwzG) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 2:20 |
 | 19 | [Préstamela A Mí](https://open.spotify.com/track/53ZeTI1ypKdYGlWRv0bG2S) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/18NZvh16Lj0HIhv0YgaSsZ) | 3:33 |
 | 20 | [Corrido De Juanito](https://open.spotify.com/track/0ehx1p1HMn7NMKisZaO9oL) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 4:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wpQxW.md) - [plain]
 | 49 | [Amor Limosnero](https://open.spotify.com/track/2wvjJBGMwgZRvUT80KN8WX) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/18NZvh16Lj0HIhv0YgaSsZ) | 3:59 |
 | 50 | [Me Enamoré Solo](https://open.spotify.com/track/1p8ktN7uVGq04LIYYyveRQ) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Me Enamoré Solo](https://open.spotify.com/album/4QuqWX0Gniy5l01FwZVxO1) | 3:05 |
 
-Snapshot ID: `anJ9AAAAAACr7euOa6+sNpDMuVRx3wRm`
+Snapshot ID: `anPOgAAAAAClPF3kuvL0VJ0J6ejrB0Rn`

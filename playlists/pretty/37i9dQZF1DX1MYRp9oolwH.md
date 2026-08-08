@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Srinivasa Mangapuram
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,262 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,272 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Konchem Konchem \(From "Nenu Ready"\)](https://open.spotify.com/track/3WbWDPCnl0lJCBlyHfe12H) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu), [Saraswati Putra Ramajogayya Sastry](https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk) | [Konchem Konchem \(From "Nenu Ready"\)](https://open.spotify.com/album/0ac2ye152ESXFQRqRQdd49) | 3:28 |
 | 50 | [Gunde Pelipothondhe \(From "Srinivasa Mangapuram"\)](https://open.spotify.com/track/73QwMDg9kAApQRlKjStXYN) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Chandra Bose](https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK) | [Gunde Pelipothondhe \(From "Srinivasa Mangapuram"\)](https://open.spotify.com/album/5ux9GCYq6TGhg4kIf1m3JK) | 3:35 |
 
-Snapshot ID: `AAAAACMj8TvVKiHl/jq9FyH8fgYwYZSu`
+Snapshot ID: `AAAAAJfVnDoiyQ66OEW6/i75pQr8WfJT`

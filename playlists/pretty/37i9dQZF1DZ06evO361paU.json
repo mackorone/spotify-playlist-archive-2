@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 298511,
+  "num_followers": 298524,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAADrFHkHhXdF5rE8ppe2IxQP",
+  "snapshot_id": "anPOgAAAAABUEmXKznR9scLrb9y109Wg",
   "tracks": [
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lenny",
+        "url": "https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 280973,
+      "name": "Believe In Me",
+      "url": "https://open.spotify.com/track/7aJjhQlplwtUS7emsLIEWC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "highway robbery (feat. Lenny Kravitz)",
         "url": "https://open.spotify.com/album/5x9833iDvciVUJZ9ml5HZv"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 208786,
       "name": "highway robbery (feat. Lenny Kravitz)",
       "url": "https://open.spotify.com/track/4iuyHLFblqYFi3REOrMkMP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lenny",
-        "url": "https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 280973,
-      "name": "Believe In Me",
-      "url": "https://open.spotify.com/track/7aJjhQlplwtUS7emsLIEWC"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Electric Light",
-        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 327378,
-      "name": "TK421",
-      "url": "https://open.spotify.com/track/2HxMUqKPh1uJ3a1TkOSFSG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lenny",
         "url": "https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 217533,
       "name": "Dig In",
       "url": "https://open.spotify.com/track/0mBmE1IzBpbhfwEU4nd4ew"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Electric Light",
+        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 327378,
+      "name": "TK421",
+      "url": "https://open.spotify.com/track/2HxMUqKPh1uJ3a1TkOSFSG"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Are You Gonna Go My Way",
-        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
+        "name": "Mama Said (Deluxe)",
+        "url": "https://open.spotify.com/album/2in7TjOFOuw5upPjUGB2jh"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 293466,
-      "name": "Eleutheria",
-      "url": "https://open.spotify.com/track/7datu36O7lY60kKBOan48U"
+      "duration_ms": 289880,
+      "name": "What Goes Around Comes Around - 2012 Remaster/Explicit",
+      "url": "https://open.spotify.com/track/3pyjJrvYubl5klFaLTCLQg"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mama Said (Deluxe)",
-        "url": "https://open.spotify.com/album/2in7TjOFOuw5upPjUGB2jh"
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 289880,
-      "name": "What Goes Around Comes Around - 2012 Remaster/Explicit",
-      "url": "https://open.spotify.com/track/3pyjJrvYubl5klFaLTCLQg"
+      "duration_ms": 293466,
+      "name": "Eleutheria",
+      "url": "https://open.spotify.com/track/7datu36O7lY60kKBOan48U"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
       "duration_ms": 268786,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/51fEz8VT1OlCYjU8ItAgQg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Are You Gonna Go My Way",
-        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 238226,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/4TmBle7wip2pjeScZPJftc"
     },
     {
       "added_at": null,
@@ -775,6 +759,22 @@
       "duration_ms": 290826,
       "name": "Black Velveteen",
       "url": "https://open.spotify.com/track/7ptNdKLu4PHKcma1zCAQLW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 238226,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/4TmBle7wip2pjeScZPJftc"
     },
     {
       "added_at": null,

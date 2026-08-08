@@ -4,7 +4,7 @@
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Ella Langley.
 
-624 songs - 1 day 10 hr 28 min
+625 songs - 1 day 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [American Dream](https://open.spotify.com/track/2ZJ1UdxjI9wyfwoJXrePGd) | [Jac Ross](https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr) | [American Dream](https://open.spotify.com/album/5LVY6KcUgJv12duo8n21BC) | 3:13 | 2025-06-13 | 2026-02-21 |
 | [American Romance](https://open.spotify.com/track/6vS3l6JjTOp8LOZfDcKWDX) | [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9) | [American Romance](https://open.spotify.com/album/2rBZC5I5tXgWH2a4mE3L2h) | 4:04 | 2025-06-20 | 2026-03-28 |
 | [American Son](https://open.spotify.com/track/0v3F6RV8nLTGPFnZfV7KsW) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [American Son](https://open.spotify.com/album/47zGI80MnyO7qSmFwxgvta) | 2:50 | 2024-06-21 | 2024-08-24 |
-| [Another Man's Tears](https://open.spotify.com/track/5UkiqdWIGSR5nzF6jwzseG) | [Jac Ross](https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr) | [Another Man's Tears](https://open.spotify.com/album/4E7gmm3XCuSclr43xEHcK6) | 3:09 | 2025-10-17 |  |
+| [Another Man's Tears](https://open.spotify.com/track/5UkiqdWIGSR5nzF6jwzseG) | [Jac Ross](https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr) | [Another Man's Tears](https://open.spotify.com/album/4E7gmm3XCuSclr43xEHcK6) | 3:09 | 2025-10-17 | 2026-08-08 |
 | [Are You Ready For The Country?](https://open.spotify.com/track/3jZzApNztg82KEYll1Y3iu) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Last Leaf On The Tree](https://open.spotify.com/album/6eMDYYqusiE28W797x0ArK) | 3:46 | 2024-11-01 | 2025-03-15 |
 | [As You Are](https://open.spotify.com/track/4DXs4CjeQ91Abx1xReQ3cC) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [As You Are](https://open.spotify.com/album/0LCxYgE6QltpzkxhVXOPez) | 4:06 | 2024-02-23 | 2024-07-03 |
 | [Ashes](https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Ashes](https://open.spotify.com/album/5xGzRgDJ8Vxwpp6GqDTGGg) | 3:03 | 2025-06-27 |  |
@@ -157,7 +157,7 @@
 | [Dead to Me](https://open.spotify.com/track/1BEbsfZy3yzSnm5mzfz2lK) | [Hayden Blount](https://open.spotify.com/artist/3lMuNq4oBlVIMBJcpAuT4j) | [Dead to Me](https://open.spotify.com/album/4cLjSdE290TlMlDYhM6O2s) | 3:50 | 2025-06-27 | 2026-03-28 |
 | [Deceiver](https://open.spotify.com/track/3v2jic6BJXxD9tZBRXQVjT) | [Jared Redden](https://open.spotify.com/artist/57X85IMhk8Vdd0LG5slHDg) | [The Deceiver](https://open.spotify.com/album/4JQ4DRdtqL8aVBBo67XyPw) | 2:26 | 2025-01-31 | 2025-03-22 |
 | [Deep End](https://open.spotify.com/track/4RMAychsFn713EQEFUvxUc) | [Presley Haile](https://open.spotify.com/artist/7ns8HLT4c0KMeGqbk24CiH) | [Deep End](https://open.spotify.com/album/4rDKraNVHZYGTsqh93DNSa) | 3:25 | 2025-10-17 |  |
-| [Deep Swimming](https://open.spotify.com/track/5DZ30YqFTpuPjsyF2oKf2c) | [Jay Buchanan](https://open.spotify.com/artist/4yxxlbLkkrnChV7826Cxv7) | [Weapons of Beauty](https://open.spotify.com/album/7v1JoKe98icEWCTqFT1ipJ) | 4:22 | 2026-02-06 |  |
+| [Deep Swimming](https://open.spotify.com/track/5DZ30YqFTpuPjsyF2oKf2c) | [Jay Buchanan](https://open.spotify.com/artist/4yxxlbLkkrnChV7826Cxv7) | [Weapons of Beauty](https://open.spotify.com/album/7v1JoKe98icEWCTqFT1ipJ) | 4:22 | 2026-02-06 | 2026-08-08 |
 | [Delusional](https://open.spotify.com/track/7GbAoPW5CoWdKqqmJH0gbe) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [SIGNS](https://open.spotify.com/album/3RTgcNaADInA1Fp4Nzb4MO) | 2:51 | 2024-05-31 | 2024-08-10 |
 | [Depression & Obsession](https://open.spotify.com/track/38623VdBTunZrY1IFpFLh8) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 2:29 | 2024-07-19 | 2024-12-14 |
 | [DESERVE YOU](https://open.spotify.com/track/3lpuOZo3btK6Q2hWGDNo2K) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [DESERVE YOU](https://open.spotify.com/album/6sIezuXguhUtSiFiFN8yc9) | 2:48 | 2024-08-23 | 2024-10-05 |
@@ -316,8 +316,9 @@
 | [It Won't Be Long](https://open.spotify.com/track/4L7H1toyQvfKJWNlD0RfHt) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [It Won't Be Long](https://open.spotify.com/album/1JXyyQl8aPFi9rAXwOF7pv) | 3:17 | 2025-01-17 | 2025-04-12 |
 | [I’m Not Him](https://open.spotify.com/track/3zvkHlQ914KKxYUxoh41an) | [Tyler Nance](https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z) | [I’m Not Him](https://open.spotify.com/album/5jZ66cvpYoGaQ64ffNJNZA) | 2:55 | 2025-05-02 | 2025-06-21 |
 | [Jack & Jill Daniel's](https://open.spotify.com/track/30leMI4jjws5W5fEZi4xde) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Jack & Jill Daniel's](https://open.spotify.com/album/5nGxwyuhD6vuC5uPVzPtm5) | 2:43 | 2025-09-05 | 2025-11-08 |
+| [Jaded \(feat\. Ella Langley\)](https://open.spotify.com/track/0VV38e61NaGvYAko5HoHm0) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Jaded \(feat\. Ella Langley\)](https://open.spotify.com/album/7t1WO4ZSi2mDzvYWFPBfka) | 3:05 | 2026-08-07 |  |
 | [Jessica, Jezebel](https://open.spotify.com/track/4AkuVJWRhimUDI176m9pyE) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Jessica, Jezebel](https://open.spotify.com/album/4mVjw6YwvS9B5eoGCyLzGY) | 3:21 | 2025-09-26 | 2025-10-18 |
-| [Jesus, Momma, Country Radio](https://open.spotify.com/track/2MN308Z97up5fJy2hV5osh) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Jesus, Momma, Country Radio](https://open.spotify.com/album/0QBZvl8WU0wGlArE42UNjk) | 2:33 | 2025-08-15 |  |
+| [Jesus, Momma, Country Radio](https://open.spotify.com/track/2MN308Z97up5fJy2hV5osh) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Jesus, Momma, Country Radio](https://open.spotify.com/album/0QBZvl8WU0wGlArE42UNjk) | 2:33 | 2025-08-15 | 2026-08-08 |
 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:41 | 2023-11-03 | 2023-12-09 |
 | [Junk Drawer](https://open.spotify.com/track/0B4qgQpj7GRkboMMFyfrzi) | [Cole Phillips](https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy) | [Junk Drawer](https://open.spotify.com/album/6BzTxyTaPZyzUk5BM5heGk) | 3:14 | 2025-02-21 | 2025-04-05 |
 | [Just The Same](https://open.spotify.com/track/6PAkQjnygwuTV7iDmPtK82) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [This Ol' Way](https://open.spotify.com/album/27cg3junq7poQIJoWeiSDu) | 3:49 | 2025-07-11 | 2026-03-28 |
@@ -499,7 +500,7 @@
 | [Sorry..\. I Meant Tonight \- Bonus](https://open.spotify.com/track/0Sdy5NYNWx4ZZBU89MIu2m) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq) | 3:33 | 2026-02-27 |  |
 | [Southeast Oklahoma Pines](https://open.spotify.com/track/3vz0BqYh2UyLd8dOHLc861) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Southeast Oklahoma Pines](https://open.spotify.com/album/2zgewP1FAgRxn3oKs5UEQA) | 3:51 | 2023-12-01 | 2024-05-11 |
 | [Southern Lover \(Miss Kentucky\)](https://open.spotify.com/track/1SJjE5AsnmqIkQ3qXDoKzE) | [Hayden Blount](https://open.spotify.com/artist/3lMuNq4oBlVIMBJcpAuT4j) | [Southern Lover \(Miss Kentucky\)](https://open.spotify.com/album/3hWPUJKf0nJSjBUdACsjGT) | 3:45 | 2025-10-17 | 2026-02-21 |
-| [Space](https://open.spotify.com/track/3Y5JcHHwKF0G7Clh8Rptbp) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB) | [Space](https://open.spotify.com/album/4FnK8TM1LUx1XDN2ovElWM) | 2:43 | 2025-09-02 |  |
+| [Space](https://open.spotify.com/track/3Y5JcHHwKF0G7Clh8Rptbp) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB) | [Space](https://open.spotify.com/album/4FnK8TM1LUx1XDN2ovElWM) | 2:43 | 2025-09-02 | 2026-08-08 |
 | [Space in My Heart](https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Space in My Heart](https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9) | 2:58 | 2024-02-23 | 2024-07-03 |
 | [Speed of Light](https://open.spotify.com/track/2aVFzBzcEmkkK8UW1HgRMF) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Speed of Light](https://open.spotify.com/album/7iYdhcIVeCALmHZDB8mdR5) | 3:07 | 2026-03-27 |  |
 | [Spin the Block](https://open.spotify.com/track/0m2Ekl3KKiBvtRbbIWleEz) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Spin the Block](https://open.spotify.com/album/0LsePMxxlwcaDQgNc0m6N6) | 2:46 | 2025-06-27 | 2026-02-21 |

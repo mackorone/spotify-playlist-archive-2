@@ -1,29 +1,13 @@
 {
   "description": "Get ready to party met deze ultieme DANCE Party Mix Playlist!",
-  "num_followers": 50111,
+  "num_followers": 50104,
   "original_name": "DANCE Party Mix | House Party",
   "owner": {
     "name": "Digster Nederland",
     "url": "https://open.spotify.com/user/digsternl"
   },
-  "snapshot_id": "AAA+sTPFS4Ad+I1ruo6hndCc7rGJ9mEv",
+  "snapshot_id": "AAA+uaVQ+LLCoWlXQP8mu43a3Q+/Dvih",
   "tracks": [
-    {
-      "added_at": "2026-07-27 14:14:05",
-      "album": {
-        "name": "Door Het Oog Van De Nacht",
-        "url": "https://open.spotify.com/album/7BRsfyW9ugAffAfhAo3yim"
-      },
-      "artists": [
-        {
-          "name": "Flaire",
-          "url": "https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH"
-        }
-      ],
-      "duration_ms": 174179,
-      "name": "Door Het Oog Van De Nacht",
-      "url": "https://open.spotify.com/track/0uWmcPc7Ie30nyNrsHnTjR"
-    },
     {
       "added_at": "2026-07-27 14:14:21",
       "album": {
@@ -139,6 +123,22 @@
     {
       "added_at": "2026-07-27 14:14:05",
       "album": {
+        "name": "Door Het Oog Van De Nacht",
+        "url": "https://open.spotify.com/album/7BRsfyW9ugAffAfhAo3yim"
+      },
+      "artists": [
+        {
+          "name": "Flaire",
+          "url": "https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH"
+        }
+      ],
+      "duration_ms": 174179,
+      "name": "Door Het Oog Van De Nacht",
+      "url": "https://open.spotify.com/track/0uWmcPc7Ie30nyNrsHnTjR"
+    },
+    {
+      "added_at": "2026-07-27 14:14:05",
+      "album": {
         "name": "Go",
         "url": "https://open.spotify.com/album/2zmxQmCbyMKEflSyHLim0C"
       },
@@ -191,6 +191,22 @@
       "duration_ms": 162755,
       "name": "Rumors",
       "url": "https://open.spotify.com/track/4AHW7Q2TGKwfndbbQvjXmF"
+    },
+    {
+      "added_at": "2026-08-07 09:31:20",
+      "album": {
+        "name": "Wendo",
+        "url": "https://open.spotify.com/album/1JaPWmGF9oT4CLS6XbeKMf"
+      },
+      "artists": [
+        {
+          "name": "Sonan",
+          "url": "https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb"
+        }
+      ],
+      "duration_ms": 181743,
+      "name": "Wendo",
+      "url": "https://open.spotify.com/track/1VfedtroIqHdCFk8uovKm8"
     },
     {
       "added_at": "2026-07-27 14:14:05",
@@ -791,6 +807,22 @@
       "duration_ms": 138200,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/4aZM99V0pPCxOpHd092oZI"
+    },
+    {
+      "added_at": "2026-08-07 09:33:37",
+      "album": {
+        "name": "Music Sounds",
+        "url": "https://open.spotify.com/album/0CzI8SUmd570thVYe4KYJc"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 159551,
+      "name": "Music Sounds",
+      "url": "https://open.spotify.com/track/3OLpCe3H6oGcEsvEjNDXHm"
     },
     {
       "added_at": "2026-07-27 14:14:05",
@@ -2131,26 +2163,6 @@
       "duration_ms": 144000,
       "name": "Electric High",
       "url": "https://open.spotify.com/track/1MEiXJK91I7by4os5CxKpH"
-    },
-    {
-      "added_at": "2026-07-27 14:14:05",
-      "album": {
-        "name": "Okay",
-        "url": "https://open.spotify.com/album/30YJMJIXvMbS7cEc51kE0h"
-      },
-      "artists": [
-        {
-          "name": "JONI",
-          "url": "https://open.spotify.com/artist/0Yg1QOck4SWkHWHTtlNGLS"
-        },
-        {
-          "name": "Niels Zuiderhoek",
-          "url": "https://open.spotify.com/artist/49W5oCV16Ilhs7lxYNtSrq"
-        }
-      ],
-      "duration_ms": 174986,
-      "name": "Okay - NLS Remix",
-      "url": "https://open.spotify.com/track/2CRjQBN348ZpCjPYgaPfft"
     },
     {
       "added_at": "2026-07-27 14:14:05",

@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 64619,
+  "num_followers": 64622,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAABbicl4bJvJBA1YJazHT/Pt",
+  "snapshot_id": "anPOgAAAAAC4WliSkKY+HrFWsT+S5utx",
   "tracks": [
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoy Me Estoy Comiendo La Ciudad (En Vivo)",
-        "url": "https://open.spotify.com/album/4B2ByHupResD9l0PlPL7cb"
+        "name": "El Fabi",
+        "url": "https://open.spotify.com/album/6mbT8deP7lDf9PWxlibXic"
       },
       "artists": [
         {
@@ -712,13 +712,13 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         },
         {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
         }
       ],
-      "duration_ms": 234922,
-      "name": "Hoy Me Estoy Comiendo la Ciudad - En Vivo",
-      "url": "https://open.spotify.com/track/1lZWOA1c0YzqUvvmBpcc1s"
+      "duration_ms": 160746,
+      "name": "El Fabi",
+      "url": "https://open.spotify.com/track/31ErKBwXb8AAtg1ia8mr90"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Fabi",
-        "url": "https://open.spotify.com/album/6mbT8deP7lDf9PWxlibXic"
+        "name": "Hoy Me Estoy Comiendo La Ciudad (En Vivo)",
+        "url": "https://open.spotify.com/album/4B2ByHupResD9l0PlPL7cb"
       },
       "artists": [
         {
@@ -748,13 +748,13 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         },
         {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
         }
       ],
-      "duration_ms": 160746,
-      "name": "El Fabi",
-      "url": "https://open.spotify.com/track/31ErKBwXb8AAtg1ia8mr90"
+      "duration_ms": 234922,
+      "name": "Hoy Me Estoy Comiendo la Ciudad - En Vivo",
+      "url": "https://open.spotify.com/track/1lZWOA1c0YzqUvvmBpcc1s"
     },
     {
       "added_at": null,

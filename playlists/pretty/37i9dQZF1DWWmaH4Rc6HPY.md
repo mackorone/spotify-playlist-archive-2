@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Rock para cantar en todos lados! Azul de Viena en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,192 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,200 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 62 | [Contradicción](https://open.spotify.com/track/2vCQG5PSjoJnfFnij0TdAc) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [Contradicción](https://open.spotify.com/album/6rtsrC8IQb9s0kbuL7lr7y) | 4:56 |
 | 63 | [Nadie](https://open.spotify.com/track/2Dsf9be24UFTl9dcdKeBb5) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [La vida de Nadie](https://open.spotify.com/album/3zzUdNCdGCDobDktA3v6yi) | 2:47 |
 | 64 | [Sed de Acción](https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 3:30 |
-| 65 | [Despertar](https://open.spotify.com/track/2aTs1lbZNw5srnF7208xFs) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Despertar](https://open.spotify.com/album/48XWVSy5sgaBwxUSAAkRk4) | 3:35 |
-| 66 | [EN LO TOTAL](https://open.spotify.com/track/3y48Sa22j19xNtlnUMX9CR) | [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi) | [EN LO TOTAL](https://open.spotify.com/album/6YyvXPie5Mvhl9LnLez2ix) | 3:55 |
-| 67 | [Quisiera Ser Como Tú](https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 3:50 |
+| 65 | [Quisiera Ser Como Tú](https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 3:50 |
+| 66 | [Despertar](https://open.spotify.com/track/2aTs1lbZNw5srnF7208xFs) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Despertar](https://open.spotify.com/album/48XWVSy5sgaBwxUSAAkRk4) | 3:35 |
+| 67 | [EN LO TOTAL](https://open.spotify.com/track/3y48Sa22j19xNtlnUMX9CR) | [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi) | [EN LO TOTAL](https://open.spotify.com/album/6YyvXPie5Mvhl9LnLez2ix) | 3:55 |
 | 68 | [MARIPOSA TECKNICOLOR](https://open.spotify.com/track/6ZlQ4IpYvyUzfry3TdbSiA) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [MARIPOSA TECKNICOLOR](https://open.spotify.com/album/61goUJQEQm9DNsRUNfmOU6) | 3:00 |
 | 69 | [Bruma](https://open.spotify.com/track/6sz1RiK5ltgQQxSsrRzVy4) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Bruma](https://open.spotify.com/album/1x0vn8Q88as4Ct8UcKNIe7) | 3:21 |
 | 70 | [Aeropuerto](https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Aeropuerto](https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn) | 3:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 74 | [Quito](https://open.spotify.com/track/5I7HzntcnFHekSHJNrngcn) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [Quito](https://open.spotify.com/album/3R4TPnl5iUd2lXL8zMO4pY) | 2:59 |
 | 75 | [El Méndigo Día Del Padre](https://open.spotify.com/track/6KwKCsC05vg2RbhF5rVmc3) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw), [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [El Méndigo Día Del Padre](https://open.spotify.com/album/5h5eVaiuXPxfUfxgFOPuE9) | 4:26 |
 
-Snapshot ID: `AAAAAL/W7enU08vdSlJMlmyxWJTaZRRt`
+Snapshot ID: `AAAAALXBJW/b+iJeQXirasJuEP79V3Nx`

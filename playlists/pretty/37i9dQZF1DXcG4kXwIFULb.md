@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,548 likes - 100 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,611 likes - 100 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 21 | [Come to Me](https://open.spotify.com/track/2ir9cmvZIpFYxaeMTa76DS) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:55 |
 | 22 | [La femme d'argent](https://open.spotify.com/track/6tEaLXZlN8b71vWV1SSsRf) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a) | 7:06 |
 | 23 | [Numb](https://open.spotify.com/track/7lR743VxfubUw5m9dpnR9x) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 3:55 |
-| 24 | [Big Calm](https://open.spotify.com/track/3vGhQoG6IalBCxkEr6Aw6v) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Big Calm](https://open.spotify.com/album/1ILnMWNKUXzcXug4Tq2JRP) | 6:01 |
-| 25 | [Moon](https://open.spotify.com/track/6QLp8WLQlkqSd9l5fEt36R) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Mickey Mouse Operation](https://open.spotify.com/album/2ULdmAtiIIn5xok5YCVGpk) | 3:47 |
+| 24 | [Moon](https://open.spotify.com/track/6QLp8WLQlkqSd9l5fEt36R) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Mickey Mouse Operation](https://open.spotify.com/album/2ULdmAtiIIn5xok5YCVGpk) | 3:47 |
+| 25 | [Big Calm](https://open.spotify.com/track/3vGhQoG6IalBCxkEr6Aw6v) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Big Calm](https://open.spotify.com/album/1ILnMWNKUXzcXug4Tq2JRP) | 6:01 |
 | 26 | [Sofa Rockers \- Richard Dorfmeister Remix](https://open.spotify.com/track/6dfDcCymuavZngy46rSGMC) | [Sofa Surfers](https://open.spotify.com/artist/0pNP0TPeyffi8QbE8U5D1X) | [Constructions](https://open.spotify.com/album/4Pe29bnChgivrOBbRsxLk3) | 5:08 |
 | 27 | [Malemolencia](https://open.spotify.com/track/3voQ4FSnDNKEKuBNeJjAR5) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN) | 2:54 |
 | 28 | [Koop Island Blues](https://open.spotify.com/track/75sAWnVBYaaYs1mWbB05Qg) | [Koop](https://open.spotify.com/artist/7wyBxBXLVLaiF2jxHCpvTe), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Koop Islands](https://open.spotify.com/album/7utDnqKdc3HiSx54MSaGSc) | 4:32 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 38 | [Nothing Can Stop Us](https://open.spotify.com/track/3izKffzHXSwXdhtJ9DasZU) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Foxbase Alpha](https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3) | 4:21 |
 | 39 | [Rodney Yates](https://open.spotify.com/track/7g7Pauld8mf8CNpdzad7FW) | [David Holmes](https://open.spotify.com/artist/10kGEgP8MxhlfeA2tMinsL) | [Let's Get Killed](https://open.spotify.com/album/5CVZGhLQA0ndG1tV1G3se1) | 6:24 |
 | 40 | [Nova](https://open.spotify.com/track/0lcfJc4pG6xnNmrUlZ9232) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Permutation](https://open.spotify.com/album/7jxs0XY2yJS36PZCjUv4Hp) | 4:42 |
-| 41 | [Relaxin' with cherry](https://open.spotify.com/track/4OJBmFzo7i8Qa38ExrxwE8) | [Kid Loco](https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL) | [A Grand Love Story](https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS) | 5:28 |
-| 42 | [Cold Water Music](https://open.spotify.com/track/4aY26H8RJQ6zcvovm85GVg) | [Aim](https://open.spotify.com/artist/1ILwJ5zliBLMsRARQJjOMp) | [Cold Water Music](https://open.spotify.com/album/6N5ST7D8lhiW1I5YfPDE5R) | 5:44 |
+| 41 | [Cold Water Music](https://open.spotify.com/track/4aY26H8RJQ6zcvovm85GVg) | [Aim](https://open.spotify.com/artist/1ILwJ5zliBLMsRARQJjOMp) | [Cold Water Music](https://open.spotify.com/album/6N5ST7D8lhiW1I5YfPDE5R) | 5:44 |
+| 42 | [Relaxin' with cherry](https://open.spotify.com/track/4OJBmFzo7i8Qa38ExrxwE8) | [Kid Loco](https://open.spotify.com/artist/1ViF5mdcW7pEn7md71YjOL) | [A Grand Love Story](https://open.spotify.com/album/6R1VyRo1cFv2JDC1diCkPS) | 5:28 |
 | 43 | [Magic Love \- Radio Edit](https://open.spotify.com/track/01K42inuuCqOB731ugiQAd) | [Bent](https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa) | [Magic Love \(Remixes\)](https://open.spotify.com/album/21KrsFEPYoXmJRIj0UNtnq) | 3:22 |
 | 44 | [High Noon](https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [G\-Stoned](https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN) | 6:26 |
 | 45 | [Don't Look Back](https://open.spotify.com/track/6T1DyqY15fNj7F5FK4r5VR) | [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF), [Angela McCluskey](https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x) | [Angel Milk](https://open.spotify.com/album/4YjO6XT3uuRvY9PGWPli7E) | 3:50 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 88 | [Yes Baby Yes](https://open.spotify.com/track/2NxIOFFrMxjeiPogqIkno1) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP) | [Come Touch The Sun](https://open.spotify.com/album/2Fg1t2tyOSGWkVYHlFfXVf) | 5:00 |
 | 89 | [End of Our Days](https://open.spotify.com/track/2svCcgLek1pQNvQL3lX0tw) | [Archive](https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk) | [Restriction](https://open.spotify.com/album/4mrIYPt2Yaakgx0YDdZEIi) | 4:52 |
 | 90 | [Sign](https://open.spotify.com/track/5YNMjGLMY3JvuCFd9FLdcc) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND) | [Cold Krush Cuts](https://open.spotify.com/album/2pIjSXfVTFQsoSGKrtqF8B) | 6:14 |
-| 91 | [Nights Introlude](https://open.spotify.com/track/3SpXpcG603AqfxhJ6l4uzk) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm) | 4:40 |
-| 92 | [At the River](https://open.spotify.com/track/1r1TplBm6N6ZQ1Ftt2qelG) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Vertigo](https://open.spotify.com/album/0h6tPnAiO6Rp4aCAlA87jo) | 6:33 |
-| 93 | [Playground Love \(with Gordon Tracks\)](https://open.spotify.com/track/4mJ2jiw5WZgT1PIAEc7P5P) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Gordon Tracks](https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6) | [Twentyears](https://open.spotify.com/album/2g3LU2ye0fuDVgz7ThzeKY) | 3:32 |
-| 94 | [Ocean Beat](https://open.spotify.com/track/5smUyJcGZB0FhJWUDhre7T) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Suzuki](https://open.spotify.com/album/36ogL93DPRBSrAKjenPLwe) | 4:32 |
+| 91 | [At the River](https://open.spotify.com/track/1r1TplBm6N6ZQ1Ftt2qelG) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Vertigo](https://open.spotify.com/album/0h6tPnAiO6Rp4aCAlA87jo) | 6:33 |
+| 92 | [Playground Love \(with Gordon Tracks\)](https://open.spotify.com/track/4mJ2jiw5WZgT1PIAEc7P5P) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Gordon Tracks](https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6) | [Twentyears](https://open.spotify.com/album/2g3LU2ye0fuDVgz7ThzeKY) | 3:32 |
+| 93 | [Ocean Beat](https://open.spotify.com/track/5smUyJcGZB0FhJWUDhre7T) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Suzuki](https://open.spotify.com/album/36ogL93DPRBSrAKjenPLwe) | 4:32 |
+| 94 | [Flip Ya Lid](https://open.spotify.com/track/5ftamIDoDRpEvlZinDuNNW) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [In A Space Outta Sound](https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf) | 5:24 |
 | 95 | [A Zed And Two L's](https://open.spotify.com/track/0zaNoKovmrdck2PeLdGpeQ) | [Fila Brazillia](https://open.spotify.com/artist/2wss0kNi7zdZTrxnCFxSQW) | [Maim That Tune](https://open.spotify.com/album/1UruvVOmEgsZ8WNv8IxiQF) | 9:26 |
-| 96 | [Flip Ya Lid](https://open.spotify.com/track/5ftamIDoDRpEvlZinDuNNW) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [In A Space Outta Sound](https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf) | 5:24 |
+| 96 | [I Don't Know What I Can Save You From \- Röyksopp Remix](https://open.spotify.com/track/4xEPVHiIpSVXrQYfMViux3) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Versus](https://open.spotify.com/album/2KtW863zWF7TCoaSgRRNKX) | 4:12 |
 | 97 | [Climbing Up the Walls \(Zero 7 Mix\)](https://open.spotify.com/track/7GKz0H7kpekx07I5WCMDGJ) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Karma Police](https://open.spotify.com/album/2CldtvVMJMGeQueLcdujQD) | 5:19 |
-| 98 | [I Don't Know What I Can Save You From \- Röyksopp Remix](https://open.spotify.com/track/4xEPVHiIpSVXrQYfMViux3) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Versus](https://open.spotify.com/album/2KtW863zWF7TCoaSgRRNKX) | 4:12 |
-| 99 | [Simple Science \- 12" Version](https://open.spotify.com/track/1OQ3DVHPX1cXU4uUOvrKPH) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Danny Pratt](https://open.spotify.com/artist/4UpaWG799gLccPzyPozzpo) | [Simple Science EP](https://open.spotify.com/album/5DEFRRPdUj1kwNAq9RERHi) | 7:43 |
-| 100 | [The Cosmic Game](https://open.spotify.com/track/3tg1p03BlubeFZbCLzmNwF) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [The Cosmic Game](https://open.spotify.com/album/3x31ejKrrjJWXGd6ftaSNu) | 2:19 |
+| 98 | [Simple Science \- 12" Version](https://open.spotify.com/track/1OQ3DVHPX1cXU4uUOvrKPH) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Danny Pratt](https://open.spotify.com/artist/4UpaWG799gLccPzyPozzpo) | [Simple Science EP](https://open.spotify.com/album/5DEFRRPdUj1kwNAq9RERHi) | 7:43 |
+| 99 | [The Cosmic Game](https://open.spotify.com/track/3tg1p03BlubeFZbCLzmNwF) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [The Cosmic Game](https://open.spotify.com/album/3x31ejKrrjJWXGd6ftaSNu) | 2:19 |
+| 100 | [Dust](https://open.spotify.com/track/16gvjuZGmibA3348jWdjKV) | [HÆLOS](https://open.spotify.com/artist/132sZpCaM8ie6byAEcOcRs) | [Full Circle](https://open.spotify.com/album/3kE0d3eZX1EjoWMeHQTvXQ) | 4:38 |
 
-Snapshot ID: `AAAAANkO/XmDST5UZIk0FkSt1+GKpwsV`
+Snapshot ID: `AAAAAFrOCDh2syCeaZnk3YhBUPEqcE/r`

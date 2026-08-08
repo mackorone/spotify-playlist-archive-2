@@ -4113,6 +4113,28 @@
     },
     {
       "album": {
+        "name": "Saving Jesus",
+        "url": "https://open.spotify.com/album/7cOv0Xce93bcsujrxmjBTX"
+      },
+      "artists": [
+        {
+          "name": "Micah Christopher",
+          "url": "https://open.spotify.com/artist/2gWY1lOSS4k3qW2AaBwHIi"
+        },
+        {
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234758,
+      "name": "Saving Jesus",
+      "url": "https://open.spotify.com/track/6iQvJ9xfEBdvnrIGyYF6dQ"
+    },
+    {
+      "album": {
         "name": "Not That Fancy",
         "url": "https://open.spotify.com/album/2WS0EdG1NL1TkGT7ahnXYZ"
       },

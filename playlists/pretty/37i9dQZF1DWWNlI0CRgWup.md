@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : Alma Rechtman
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,700 likes - 74 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,694 likes - 74 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 73 | [Tourne Tourne](https://open.spotify.com/track/0RAYTKZxMhS5nWbPP2Ojuz) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [CARDIO DRAME](https://open.spotify.com/album/0t4I2vTPNL4IKMXCVNSCvY) | 2:29 |
 | 74 | [L’heure bleue](https://open.spotify.com/track/04ic5De5mCJS8iqVlrRrpQ) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Histoire d’un masque](https://open.spotify.com/album/5ejWWUcecAbiW4abPX6DOh) | 2:16 |
 
-Snapshot ID: `AAAAAP0yQBmEBo+wRpsWGrfr4XxisfqC`
+Snapshot ID: `AAAAAFk81B774zve6Hf1ZcbynPFYgw9S`

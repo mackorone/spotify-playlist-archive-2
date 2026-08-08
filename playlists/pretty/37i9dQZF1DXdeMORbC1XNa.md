@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 
 > A perfect link up to soundtrack your day\. Cover: Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,637 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,636 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 22 | [Dopamine](https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Dopamine](https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz) | 2:51 |
 | 23 | [VA LOIN](https://open.spotify.com/track/4y4vmSwPS2nj5Q3CmBWEsX) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [JOŸA](https://open.spotify.com/album/0SJBBBjB3kZwMpHCPw5v4O) | 3:41 |
 | 24 | [TOO HOT](https://open.spotify.com/track/3YAHhZcpdZHpr6sXleNTIH) | [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD) | [TOO HOT](https://open.spotify.com/album/5c7lWpyYn8xKBPnnDAv59V) | 2:24 |
-| 25 | [Formation](https://open.spotify.com/track/687RJSOAS8xDed1hoFxum1) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Formation](https://open.spotify.com/album/3kVrx9gltuUKLXgAToVjWx) | 2:36 |
+| 25 | [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F) | 2:54 |
 | 26 | [Escaladizzy](https://open.spotify.com/track/78lEwmE6xpWtwHhS8D9Fw2) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [WAVE$TAR](https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ) | [Escaladizzy](https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k) | 2:44 |
-| 27 | [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F) | 2:54 |
+| 27 | [Formation](https://open.spotify.com/track/687RJSOAS8xDed1hoFxum1) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Formation](https://open.spotify.com/album/3kVrx9gltuUKLXgAToVjWx) | 2:36 |
 | 28 | [Boasty](https://open.spotify.com/track/5QNkPqJgBEVWp8cOvYnudA) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Boasty](https://open.spotify.com/album/42n8NMDi7al7lkUgcb2hEY) | 3:14 |
 | 29 | [Muhammad Ali \(Can't Relate\)](https://open.spotify.com/track/6FXRZs4H5N8YytItv9OMVo) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Muhammad Ali \(Can't Relate\)](https://open.spotify.com/album/5xK7SCijmxllxKrLCiQSVp) | 2:39 |
 | 30 | [All Ova](https://open.spotify.com/track/2bWbdWDaMidmc5HH1CVK26) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [cjthechemist](https://open.spotify.com/artist/6RDY4LRYno0UwPMHsxOKAe) | [All Ova](https://open.spotify.com/album/7xI7n70CruBpMwrekWFHhG) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 49 | [NEW TINGZ](https://open.spotify.com/track/4Pl2d8rQHO8hnFZR3RO244) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey) | [THE IMPACT \(Deluxe\): PGLA Edition](https://open.spotify.com/album/3EUplPSI0pgkirQtANGobF) | 2:39 |
 | 50 | [Goddess \(with Shenseea\)](https://open.spotify.com/track/2MXENlJ3KwDUA8MrChbkFV) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Goddess](https://open.spotify.com/album/2a7Q14xrExK8sz4PPQ3rpT) | 3:26 |
 
-Snapshot ID: `AAAAAFPLrzslOwlb8q+kjtVP727DhcUI`
+Snapshot ID: `AAAAAP/DlNILTeCzG8qMcdKRHELokwBl`

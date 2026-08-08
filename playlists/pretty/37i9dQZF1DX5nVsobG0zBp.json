@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: LON3R JOHNY",
-  "num_followers": 86417,
+  "num_followers": 86427,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM84IBiMSu1Uu8S2FEUoAW0Fo46C",
+  "snapshot_id": "AAAAAF8tt3arvGZ5sierIfb66aWg2k30",
   "tracks": [
     {
       "added_at": "2026-06-12 15:13:25",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-06-12 15:13:25",
       "album": {
-        "name": "do.mar",
-        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 162162,
-      "name": "Senti Tanto",
-      "url": "https://open.spotify.com/track/4VAybjMGGmc3ihxbMHQ5PM"
-    },
-    {
-      "added_at": "2026-06-12 15:13:25",
-      "album": {
         "name": "MDID",
         "url": "https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 312506,
       "name": "JAMANTAH",
       "url": "https://open.spotify.com/track/6iP058p5l6mKsWqSEgGPhD"
+    },
+    {
+      "added_at": "2026-06-12 15:13:25",
+      "album": {
+        "name": "do.mar",
+        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 162162,
+      "name": "Senti Tanto",
+      "url": "https://open.spotify.com/track/4VAybjMGGmc3ihxbMHQ5PM"
     },
     {
       "added_at": "2026-06-12 15:13:25",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-06-12 15:13:25",
       "album": {
+        "name": "You Are Forgiven",
+        "url": "https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 175204,
+      "name": "Teu Eternamente",
+      "url": "https://open.spotify.com/track/3klZEB3gNmhKoOTqwVH92G"
+    },
+    {
+      "added_at": "2026-06-12 15:13:25",
+      "album": {
         "name": "Oskey",
         "url": "https://open.spotify.com/album/2zKEKLIN2tT7d887qrR4Ex"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 198095,
       "name": "Oskey",
       "url": "https://open.spotify.com/track/2lN7q4luqmYcwHqRwy0Sod"
-    },
-    {
-      "added_at": "2026-06-12 15:13:25",
-      "album": {
-        "name": "You Are Forgiven",
-        "url": "https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 222642,
-      "name": "S\u00f3 Queria Sorrir",
-      "url": "https://open.spotify.com/track/5oGOwG8FhaKQyXrruJKkk6"
     },
     {
       "added_at": "2026-06-12 15:13:25",

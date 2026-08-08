@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 
 > Don’t Sweat It!
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,291 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,284 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 22 | [Push It](https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 2:34 |
 | 23 | [TANZNEID](https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [TANZNEID](https://open.spotify.com/album/3Tmtkjz1J1wnhNkUAzXi2F) | 3:05 |
 | 24 | [Angel Of Death](https://open.spotify.com/track/5ohfpKB5tt275f4Y4lQ9F7) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood \(Expanded\)](https://open.spotify.com/album/5v5BfkxWDAKTkzrXl3H0mU) | 4:51 |
-| 25 | [Primo Victoria](https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Primo Victoria \(Re\-Armed\)](https://open.spotify.com/album/0XUH04WpLqnB0Q7Hep3aR0) | 4:10 |
-| 26 | [Awaken](https://open.spotify.com/track/7hr0WyhqQxrK3SQ9ZQxjTu) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Awaken](https://open.spotify.com/album/1vmuokjeEWukuNChZWHC5Y) | 3:38 |
+| 25 | [Awaken](https://open.spotify.com/track/7hr0WyhqQxrK3SQ9ZQxjTu) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Awaken](https://open.spotify.com/album/1vmuokjeEWukuNChZWHC5Y) | 3:38 |
+| 26 | [Primo Victoria](https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Primo Victoria \(Re\-Armed\)](https://open.spotify.com/album/0XUH04WpLqnB0Q7Hep3aR0) | 4:10 |
 | 27 | [RATATATA](https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [RATATATA](https://open.spotify.com/album/4DccXktGbSRsgUoBvH8EN7) | 3:36 |
 | 28 | [The House of Wolves](https://open.spotify.com/track/7hntkdvG3jWdFKm7pGCCzd) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:25 |
 | 29 | [can u see me in the dark?](https://open.spotify.com/track/7pugmRsHRy1fnug9NqH5cA) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [can u see me in the dark?](https://open.spotify.com/album/7mrNcgAQuzS3XF3db20WIe) | 3:58 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 79 | [666 \- World Divided](https://open.spotify.com/track/2OsCkXO8524Qxwe1pR3eAb) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [666 \- World Divided](https://open.spotify.com/album/0hCa6eoUtwiit26t5dNpeY) | 4:44 |
 | 80 | [Keep It In The Family](https://open.spotify.com/track/6S3oeZ5RKR8Tl9DTPAjGLt) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Persistence Of Time \(30th Anniversary Remaster\)](https://open.spotify.com/album/4WZ1C5yYQ5mekCAw7zDPWA) | 7:08 |
 | 81 | [Hit The Floor](https://open.spotify.com/track/0UYJv76bj5U3QRghS8wL9e) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/42QVkdlfEk9uaG0NboeKpq) | 3:30 |
-| 82 | [Smothered](https://open.spotify.com/track/2wdjEAsK64EUPmNIIH6MWt) | [Spineshank](https://open.spotify.com/artist/6fmbbxNvgHkglIakp1Wrv4) | [Self\-Destructive Pattern](https://open.spotify.com/album/0rMyQJKxkqIOy9p5u4iV5w) | 3:10 |
-| 83 | [Biggest & the Best](https://open.spotify.com/track/51XrhhPlt1smLatJgcBrUb) | [Clawfinger](https://open.spotify.com/artist/1xE3snzm12GBK259IqEFlY) | [Clawfinger](https://open.spotify.com/album/2UcbjA0yIRk3OR5H7GKnGf) | 3:51 |
+| 82 | [Biggest & the Best](https://open.spotify.com/track/51XrhhPlt1smLatJgcBrUb) | [Clawfinger](https://open.spotify.com/artist/1xE3snzm12GBK259IqEFlY) | [Clawfinger](https://open.spotify.com/album/2UcbjA0yIRk3OR5H7GKnGf) | 3:51 |
+| 83 | [Smothered](https://open.spotify.com/track/2wdjEAsK64EUPmNIIH6MWt) | [Spineshank](https://open.spotify.com/artist/6fmbbxNvgHkglIakp1Wrv4) | [Self\-Destructive Pattern](https://open.spotify.com/album/0rMyQJKxkqIOy9p5u4iV5w) | 3:10 |
 | 84 | [Creature](https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Creature](https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi) | 3:45 |
 | 85 | [Obsolete](https://open.spotify.com/track/4d8iN5Re3A6UOYVxZAbJ7v) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Obsolete](https://open.spotify.com/album/2hiPqMWbwko9fxKd1JWUI1) | 4:25 |
 | 86 | [Dante](https://open.spotify.com/track/6jjx1KvWK4OAzD0JimzHiY) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Dante](https://open.spotify.com/album/5BC58VTUf4aaoGVkjhtx9U) | 5:46 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 92 | [Under and Over It](https://open.spotify.com/track/3CBoWhq9cd7WGQZ9EDQVnn) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Standard\)](https://open.spotify.com/album/18bHWmCOOKsAQSHdfFQ0WI) | 3:38 |
 | 93 | [Night of the Witch](https://open.spotify.com/track/3orHIz1YV1bmUHsi2fze48) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Titans of Creation](https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK) | 6:32 |
 | 94 | [CMFT Must Be Stopped \(feat\. Tech N9ne and Kid Bookie\)](https://open.spotify.com/track/6fGw5N35sPLcmyN5T3XRv7) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV) | [Black Eyes Blue / CMFT Must Be Stopped \(feat\. Tech N9ne and Kid Bookie\)](https://open.spotify.com/album/6cflFZCSRgkhzBUguQrsJy) | 5:14 |
-| 95 | [Black Hole](https://open.spotify.com/track/3rjgOeWUEth90mFVR82WtG) | [Betraying The Martyrs](https://open.spotify.com/artist/4tEWLl4loWFLgs25trNnro) | [Black Hole](https://open.spotify.com/album/6lhq5amVK8LmVJmF8DUNuB) | 3:51 |
-| 96 | [backfire](https://open.spotify.com/track/2Tt5CzJzz53tVCicnDwh2a) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [backfire](https://open.spotify.com/album/2KqvKZtVLgLolUw2AMMWB6) | 2:00 |
+| 95 | [backfire](https://open.spotify.com/track/2Tt5CzJzz53tVCicnDwh2a) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [backfire](https://open.spotify.com/album/2KqvKZtVLgLolUw2AMMWB6) | 2:00 |
+| 96 | [Black Hole](https://open.spotify.com/track/3rjgOeWUEth90mFVR82WtG) | [Betraying The Martyrs](https://open.spotify.com/artist/4tEWLl4loWFLgs25trNnro) | [Black Hole](https://open.spotify.com/album/6lhq5amVK8LmVJmF8DUNuB) | 3:51 |
 | 97 | [Necessary Evil](https://open.spotify.com/track/1TOMPmDRkQ9WBiYDZtcF98) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Necessary Evil](https://open.spotify.com/album/7aWBxSYIWpbsu3Ztl8QxmV) | 2:56 |
 | 98 | [You Never Listen](https://open.spotify.com/track/4e35IvdO5AoCUNFUur99T5) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Unstable](https://open.spotify.com/album/5CeWYs97NFdLiydGVFBtFz) | 3:20 |
 | 99 | [Death Diviner](https://open.spotify.com/track/4zx54sa1AiERlvrFyLMXtJ) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Death Diviner](https://open.spotify.com/album/2vMRAb3qY0ilWVSfLeBEDH) | 5:05 |
 | 100 | [Handshake with Hell](https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Handshake with Hell](https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV) | 5:38 |
 
-Snapshot ID: `AAAAABA9wO6sGlEEmDTPpBl1hmjutv1x`
+Snapshot ID: `AAAAAI34Qznlkh/1q//NX0Maao+ao5F3`

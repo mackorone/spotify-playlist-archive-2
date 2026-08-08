@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 130,037 likes - 221 songs - 9 hr 32 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 130,323 likes - 222 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -229,5 +229,6 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 219 | [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 |
 | 220 | [Put It On Me](https://open.spotify.com/track/0pVUmZGwePqv5u2VrzngzF) | [Lavender Shore](https://open.spotify.com/artist/2s8rz2Ode8wGoAWIUBdoSB) | [Put It On Me](https://open.spotify.com/album/35m6Fv1Xt7mwraEHGxtAsU) | 3:05 |
 | 221 | [Happiness Is So Sad](https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happiness Is So Sad](https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW) | 3:52 |
+| 222 | [Rhythm Of Your Soul](https://open.spotify.com/track/7Bh2Tzazp8kI7hPL7wAl5x) | [Calm Springs](https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb), [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX) | [Rhythm Of Your Soul](https://open.spotify.com/album/0mJh6w67LcfuW43TBdDR14) | 2:29 |
 
-Snapshot ID: `AABU7Ux5q70urK1OZCUHIVljVnP/vcdD`
+Snapshot ID: `AABU7kGqqKZQC/nuuNf1mpPtMMlxIOL3`

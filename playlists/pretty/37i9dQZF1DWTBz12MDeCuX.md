@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: ADÉLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,321 likes - 99 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,280 likes - 99 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 3 | [Ain't In LA](https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Ain't In LA](https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s) | 3:04 |
 | 4 | [zehnvonzehn](https://open.spotify.com/track/1a4RUUKHH1xkDq0hbuWKhw) | [franz1](https://open.spotify.com/artist/0puAw4gZrgsGHsRUfcC4kp) | [zehnvonzehn](https://open.spotify.com/album/7lgtjrF9mDIMZkkX2KRdd4) | 2:00 |
 | 5 | [Verliebt, verlobt](https://open.spotify.com/track/4rxIVcKytYM9F94QpJbg9D) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Verliebt, verlobt](https://open.spotify.com/album/4Xzu42KnpBYXJvmga6SlyA) | 2:29 |
-| 6 | [Peeptoe](https://open.spotify.com/track/2thpa4k75FoOASuYQoyzWn) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [Peeptoe](https://open.spotify.com/album/1bsGXgHqWNNN7b9jZ3bUII) | 2:28 |
+| 6 | [Peeptoe](https://open.spotify.com/track/2thpa4k75FoOASuYQoyzWn) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC) | [Peeptoe](https://open.spotify.com/album/1bsGXgHqWNNN7b9jZ3bUII) | 2:28 |
 | 7 | [Movin' To The Sun](https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Imael Angel](https://open.spotify.com/artist/17yREPqyU875WJnX9U082A), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Movin' To The Sun](https://open.spotify.com/album/7sCzauzbInQn7NEsvTAtqq) | 2:22 |
 | 8 | [Für immer](https://open.spotify.com/track/5lfrv9rNFHIfdF0IWNWg5U) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Für immer](https://open.spotify.com/album/1gRjCkne7aC5q2GQ7UE5qN) | 2:12 |
 | 9 | [done done done](https://open.spotify.com/track/4pGMZRqLZtqrQe4ehY4lCQ) | [Ordinary Kid](https://open.spotify.com/artist/5VT2f9Mtql9jsOPrLefzP9) | [done done done](https://open.spotify.com/album/6QGYexIgJpVXPpDlkqFrX7) | 1:56 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 98 | [marie](https://open.spotify.com/track/5Qzigqughy9Wi40tdMATo5) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [marie](https://open.spotify.com/album/6FhxvQfSYvQn1pQVExw0i4) | 3:08 |
 | 99 | [Soda Zitron](https://open.spotify.com/track/7FytLKznuhvK7yHtCxZaP7) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Soda Zitron](https://open.spotify.com/album/6xLhRYX5YJN8LGFNeJ1GYC) | 2:57 |
 
-Snapshot ID: `AAAAAP3wsAELiJwkiNy3/V682DCBNfmm`
+Snapshot ID: `AAAAAP6JGEfXps54kzy57SOwDEqGzp0v`

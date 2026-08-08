@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. R\u00d8Z en portada ",
+  "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Alejandro Sanz y Eden Mu\u00f1oz,  en portada ",
   "name": "Top M\u00e9xico",
   "tracks": [
     {
@@ -2738,6 +2738,28 @@
       "duration_ms": 158875,
       "name": "Ando Sad",
       "url": "https://open.spotify.com/track/2kkXtrMcusksHbshFn8kPf"
+    },
+    {
+      "album": {
+        "name": "Andromeda",
+        "url": "https://open.spotify.com/album/5HbdBdN9DLLhzFor0lK7YR"
+      },
+      "artists": [
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        },
+        {
+          "name": "Bicho Alcaraz",
+          "url": "https://open.spotify.com/artist/49MiZFMAt1j5JNgxpYEaJe"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135652,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/7ivfeI1loBTruF2nDSu5UP"
     },
     {
       "album": {
@@ -7723,6 +7745,24 @@
     },
     {
       "album": {
+        "name": "CRITIC\u00d3N",
+        "url": "https://open.spotify.com/album/553rifH1VEpd2h2L9ntQVS"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131642,
+      "name": "CRITIC\u00d3N",
+      "url": "https://open.spotify.com/track/4joe8hhA3EPA7pZH5nLyu5"
+    },
+    {
+      "album": {
         "name": "Cruella",
         "url": "https://open.spotify.com/album/6d5YfXScfWlziWGQgu1RRs"
       },
@@ -8738,7 +8778,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 202426,
       "name": "De ti me enamor\u00e9",
       "url": "https://open.spotify.com/track/3FWD1jZwNuEk7SJOt1R8MV"
@@ -13638,7 +13678,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 166000,
       "name": "Frostix",
       "url": "https://open.spotify.com/track/7jT6oOwJvLJ1zQZm76sh4F"
@@ -13812,7 +13852,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 151455,
       "name": "Fuertes Declaraciones",
       "url": "https://open.spotify.com/track/0LM3ZWJoMBd4r5cRaDhxp2"
@@ -15941,6 +15981,24 @@
     },
     {
       "album": {
+        "name": "KTV",
+        "url": "https://open.spotify.com/album/7dWyDXoSko0pj8EFfciaH3"
+      },
+      "artists": [
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205215,
+      "name": "KTV",
+      "url": "https://open.spotify.com/track/7xCcX9Iyb3IbY6t5LfV15W"
+    },
+    {
+      "album": {
         "name": "LA 10",
         "url": "https://open.spotify.com/album/7D66cibho44I2EGafCV6Ep"
       },
@@ -16734,6 +16792,24 @@
       "duration_ms": 178500,
       "name": "la estrella que quer\u00eda brillar",
       "url": "https://open.spotify.com/track/2gTOLXAJl7RqVJwFvlQWQU"
+    },
+    {
+      "album": {
+        "name": "NO 3S UN 3RROR",
+        "url": "https://open.spotify.com/album/2o07994JJSeGpcRhUKoBOf"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207377,
+      "name": "La Fama",
+      "url": "https://open.spotify.com/track/3eZNWGX9RyJimcR2TJB0Mp"
     },
     {
       "album": {
@@ -18669,6 +18745,28 @@
     },
     {
       "album": {
+        "name": "VIGENTE",
+        "url": "https://open.spotify.com/album/5DAgbaRJwSxH1EiTAa0JRx"
+      },
+      "artists": [
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200125,
+      "name": "Lo Que Por Ti Yo Siento",
+      "url": "https://open.spotify.com/track/2ZPxOkXzHTULbQk5qv4B9s"
+    },
+    {
+      "album": {
         "name": "Lo Que Se Dice Amor",
         "url": "https://open.spotify.com/album/4Ok20KmkESQQ0rRvpciMbI"
       },
@@ -19384,7 +19482,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 178200,
       "name": "Lun\u00e1tico",
       "url": "https://open.spotify.com/track/39ygkwmco9bC9czuEmOAC0"
@@ -20016,6 +20114,32 @@
       "duration_ms": 185870,
       "name": "Mar y Tierra",
       "url": "https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1"
+    },
+    {
+      "album": {
+        "name": "MARCIANO (I Turned Into A Martian)",
+        "url": "https://open.spotify.com/album/5DBd3SbjCPRn6q2Y5Y9ouQ"
+      },
+      "artists": [
+        {
+          "name": "Somos Frijoleros",
+          "url": "https://open.spotify.com/artist/3hwTer72EBFaWBn0eGrjwy"
+        },
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Big Sempa",
+          "url": "https://open.spotify.com/artist/5aroBdSzO56ovglkIfI9Uf"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189633,
+      "name": "MARCIANO (I Turned Into A Martian)",
+      "url": "https://open.spotify.com/track/0WjhJ6m3JlgGUrMTwdAjZx"
     },
     {
       "album": {
@@ -22742,7 +22866,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 187474,
       "name": "M\u00e9xico Sigue De Pie",
       "url": "https://open.spotify.com/track/2QyKexTBME3MrkkWgL84Sf"
@@ -23176,7 +23300,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 193390,
       "name": "Necesito Un Amor",
       "url": "https://open.spotify.com/track/1PC2LIpR9aJdcYpxqGelTk"
@@ -25328,7 +25452,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 132923,
       "name": "Otra Cosa",
       "url": "https://open.spotify.com/track/1CZE56TyhNwIffdDr4GyCC"
@@ -27018,6 +27142,28 @@
       "duration_ms": 158894,
       "name": "Piketona (with Kim Loaiza)",
       "url": "https://open.spotify.com/track/0MBbWL85frwcC7hKCQm4r7"
+    },
+    {
+      "album": {
+        "name": "Pilas Plebes",
+        "url": "https://open.spotify.com/album/0yW0gFVJxCjQCdnslnDb3L"
+      },
+      "artists": [
+        {
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        },
+        {
+          "name": "Grupo Selectivo",
+          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180535,
+      "name": "Pilas Plebes",
+      "url": "https://open.spotify.com/track/04wix3MYN5kru11iMQZGER"
     },
     {
       "album": {
@@ -30438,7 +30584,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 216521,
       "name": "SEX",
       "url": "https://open.spotify.com/track/5kiWvJgAZGQkJBjC74892V"
@@ -31918,6 +32064,24 @@
       "duration_ms": 122624,
       "name": "sue\u00f1a lindo, coraz\u00f3n",
       "url": "https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx"
+    },
+    {
+      "album": {
+        "name": "SUPERESTRELLA",
+        "url": "https://open.spotify.com/album/31bTbGhBUXIHosoC1BAbyA"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "SUPERESTRELLA",
+      "url": "https://open.spotify.com/track/06W6nXdcPEMCv4VD1g89Rt"
     },
     {
       "album": {
@@ -34738,7 +34902,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 187591,
       "name": "T\u00fa, mi bb",
       "url": "https://open.spotify.com/track/2GuNMjF2VUeUUgtx6CZzYf"
@@ -36107,6 +36271,24 @@
     },
     {
       "album": {
+        "name": "VITILIGO",
+        "url": "https://open.spotify.com/album/6tAmC0KN2CYiDze4QJNqUp"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169098,
+      "name": "VITILIGO",
+      "url": "https://open.spotify.com/track/7zXvJEtNkm9MusMANz8qd0"
+    },
+    {
+      "album": {
         "name": "VIVA M\u00c9XICO",
         "url": "https://open.spotify.com/album/4Gp4XjYDMPh6chsHcm0chk"
       },
@@ -36650,7 +36832,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 159178,
       "name": "WhyWhyWhy",
       "url": "https://open.spotify.com/track/4MALb9gMN1MekUShLQZQFM"
@@ -37482,6 +37664,28 @@
       "duration_ms": 210133,
       "name": "YNTQ",
       "url": "https://open.spotify.com/track/1s8p6rstKDtvUTRpyep42L"
+    },
+    {
+      "album": {
+        "name": "Yo Era Poes\u00eda",
+        "url": "https://open.spotify.com/album/18ssoZ7EPMn7mLqV0bW2j5"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194923,
+      "name": "Yo Era Poes\u00eda",
+      "url": "https://open.spotify.com/track/75icZs6N7GzEAY7FNL8fZV"
     },
     {
       "album": {

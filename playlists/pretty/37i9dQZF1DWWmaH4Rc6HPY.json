@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Azul de Viena en portada.",
-  "num_followers": 39192,
+  "num_followers": 39200,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL/W7enU08vdSlJMlmyxWJTaZRRt",
+  "snapshot_id": "AAAAALXBJW/b+iJeQXirasJuEP79V3Nx",
   "tracks": [
     {
       "added_at": "2026-07-03 06:00:12",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-07-03 06:00:12",
       "album": {
+        "name": "Alta Fidelidad",
+        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 230097,
+      "name": "Quisiera Ser Como T\u00fa",
+      "url": "https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f"
+    },
+    {
+      "added_at": "2026-07-03 06:00:12",
+      "album": {
         "name": "Despertar",
         "url": "https://open.spotify.com/album/48XWVSy5sgaBwxUSAAkRk4"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 235141,
       "name": "EN LO TOTAL",
       "url": "https://open.spotify.com/track/3y48Sa22j19xNtlnUMX9CR"
-    },
-    {
-      "added_at": "2026-07-03 06:00:12",
-      "album": {
-        "name": "Alta Fidelidad",
-        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 230097,
-      "name": "Quisiera Ser Como T\u00fa",
-      "url": "https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f"
     },
     {
       "added_at": "2026-07-03 06:00:12",

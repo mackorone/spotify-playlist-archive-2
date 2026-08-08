@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > Get in the holiday spirit with these festive essentials ✨❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,714 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,708 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 38 | [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 |
 | 39 | [Blue Christmas](https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 2:10 |
 | 40 | [Single On The 25th](https://open.spotify.com/track/3hTSUqyG6ntAYXjgYOjS16) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Single On The 25th](https://open.spotify.com/album/3dQ9PkqMkvgcjvEnKWEL3n) | 2:41 |
-| 41 | [A Holly Jolly Christmas](https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR) | 2:15 |
-| 42 | [Santa, Can’t You Hear Me](https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 4:02 |
+| 41 | [Santa, Can’t You Hear Me](https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 4:02 |
+| 42 | [A Holly Jolly Christmas](https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR) | 2:15 |
 | 43 | [My Only Wish \(This Year\)](https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [My Only Wish \(This Year\)](https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL) | 4:15 |
 | 44 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/46pF1zFimM582ss1PrMy68) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:50 |
 | 45 | [Make It To Christmas](https://open.spotify.com/track/2VVbkcGQTRsnK2FYPqx5DK) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Together For The Holidays](https://open.spotify.com/album/0aWP95Ex1gAuaoN9T9S6p5) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [\*snow in berlin\*](https://open.spotify.com/track/6MgDPVjjEloarAofqPE4we) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [\*snow in berlin\*](https://open.spotify.com/album/7K3Ig78OIzZBNlvFdtzAfk) | 2:39 |
 | 100 | [Merry Christmas Baby](https://open.spotify.com/track/6zM6jd0UXIPazvyU1tivdv) | [Zach McPhee](https://open.spotify.com/artist/41Rl91W4wP74bD4vRoMWrN) | [Holidays Are Here / Merry Christmas Baby](https://open.spotify.com/album/69igKKumVMT9Xt56ZzXkDN) | 3:29 |
 
-Snapshot ID: `AAAAALp+CrBKD6ROSPoW43gjCNyNm73b`
+Snapshot ID: `AAAAAFluh+xd5NG5zGujHhL5iocRfgQk`

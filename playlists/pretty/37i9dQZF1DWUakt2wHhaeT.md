@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 
 > The best songs from the new shows and the buzziest hits\. Cover: Original Broadway Cast of The Lost Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,879 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,892 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 | 49 | [Disco Ball](https://open.spotify.com/track/0MZGMlpQiV2sMaQ9stJf7w) | [Jo Foster](https://open.spotify.com/artist/17R4ymbMur8StPF1rwzD6K), [Leesa Tulley](https://open.spotify.com/artist/680Llo7QXDCRj8yGGpTE7U), [Original Cast of Why Am I So Single?](https://open.spotify.com/artist/3DwNP78t78BAZzzH4mvVmr) | [Why Am I So Single? \(Original London Cast Recording\)](https://open.spotify.com/album/4sKZ9RoA6KcP9u6PVuiIH7) | 6:55 |
 | 50 | [Man Of The House](https://open.spotify.com/track/3aIvJqEB3SN3aNvOfOo3CS) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3) | [Man Of The House](https://open.spotify.com/album/38shyLCy0GkloXIDQsiAxu) | 2:53 |
 
-Snapshot ID: `AAAAAGfSS8GONJdaVMaV8xxLKLy7LA1o`
+Snapshot ID: `AAAAAFbOWAxVerXkFUfYT+MePSTonV5M`

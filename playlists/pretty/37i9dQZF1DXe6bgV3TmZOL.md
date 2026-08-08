@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,497,277 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,497,228 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 38 | [Eye Of The Storm](https://open.spotify.com/track/6bdtZqgRGJzN2Rb7alYCeZ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Eye Of The Storm](https://open.spotify.com/album/6U8HnZ70DQygqtvm98RAxp) | 3:15 |
 | 39 | [The Heart from Your Hate](https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 4:03 |
 | 40 | [Jambi](https://open.spotify.com/track/2gbPu2QNqhnnqtfK3yyeZ0) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [10,000 Days](https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk) | 7:28 |
-| 41 | [RATATATA](https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [RATATATA](https://open.spotify.com/album/4DccXktGbSRsgUoBvH8EN7) | 3:36 |
-| 42 | [Gold Cobra](https://open.spotify.com/track/2PDdjoIa7fHriNPkqu055e) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Gold Cobra \(Deluxe\)](https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI) | 3:53 |
+| 41 | [Gold Cobra](https://open.spotify.com/track/2PDdjoIa7fHriNPkqu055e) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Gold Cobra \(Deluxe\)](https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI) | 3:53 |
+| 42 | [RATATATA](https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [RATATATA](https://open.spotify.com/album/4DccXktGbSRsgUoBvH8EN7) | 3:36 |
 | 43 | [Gimme That Boom](https://open.spotify.com/track/5aZ9mfnT8jp3ZdrMQaF76j) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Smile](https://open.spotify.com/album/7bS1WGyOPaE03hEBzwyZHm) | 3:13 |
 | 44 | [Jekyll and Hyde](https://open.spotify.com/track/6efSwlK3LOlWOeKK9xlUKF) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ) | 3:26 |
 | 45 | [Angel Wings](https://open.spotify.com/track/156gjKaMoJgvTRhhD2w5qp) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [Angel Wings](https://open.spotify.com/album/4iWYLfamJp7XGKbmUWam1H) | 3:52 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 92 | [Throne Of Want](https://open.spotify.com/track/3Hrdh8vuUbeCK6bFkd4HZX) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Throne Of Want](https://open.spotify.com/album/0xt9zIEWpL563lgwEgFE0x) | 5:53 |
 | 93 | [Drag Me](https://open.spotify.com/track/459NVRkYEftpuwkmSH1U1H) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Drag Me](https://open.spotify.com/album/51cx1iKhj118oEWzs5QlKj) | 3:06 |
 | 94 | [Halo](https://open.spotify.com/track/1QixTwDZCcfBzA7QMyont0) | [Soil](https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP) | [Scars \(Expanded Edition\)](https://open.spotify.com/album/2XLiRCMRy5WuuF373tKBZ8) | 3:15 |
-| 95 | [Torn in Two](https://open.spotify.com/track/3IiMnjK7S2PlsPVMuAH7rU) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Ember](https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr) | 4:17 |
-| 96 | [4 Words \(To Choke Upon\)](https://open.spotify.com/track/6wxLzoQOePEa1hZjVJsIh8) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/42QVkdlfEk9uaG0NboeKpq) | 3:43 |
+| 95 | [4 Words \(To Choke Upon\)](https://open.spotify.com/track/6wxLzoQOePEa1hZjVJsIh8) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/42QVkdlfEk9uaG0NboeKpq) | 3:43 |
+| 96 | [Torn in Two](https://open.spotify.com/track/3IiMnjK7S2PlsPVMuAH7rU) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Ember](https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr) | 4:17 |
 | 97 | [Blunt Force Blues](https://open.spotify.com/track/2k5xRkoaO5NGKzDY1mmbS3) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Into Oblivion](https://open.spotify.com/album/5aI0bwD4XS3UGMP4Kx4wNl) | 4:11 |
 | 98 | [Behemoth](https://open.spotify.com/track/15s8i5mWdtOlkxy3iYdLHE) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Season of Surrender](https://open.spotify.com/album/0mVE3llKm6n3I41bbwjIus) | 3:39 |
 | 99 | [Villainous \(feat\. Maria Brink of In This Moment\)](https://open.spotify.com/track/4K3A9ENMtrBvugyyyYMC7X) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c), [Maria Brink](https://open.spotify.com/artist/6W8xq7TXME3WXP7c7LMWBR), [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Villainous \(feat\. Maria Brink of In This Moment\)](https://open.spotify.com/album/2C6hSIWrn02t1nznm0LDbv) | 2:56 |
 | 100 | [Revenant](https://open.spotify.com/track/7Lt57VWFV2MRbn9fzY0kp9) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd), [NOWHERE2RUN](https://open.spotify.com/artist/3ARwlqMR3e96RXdxpAhx4s) | [Revenant](https://open.spotify.com/album/7Cb7gWgJmePlHHhO7WAyKH) | 3:31 |
 
-Snapshot ID: `AAAAAJTeoPuvhL9j5IyYZ/w8qm2VsI4/`
+Snapshot ID: `AAAAAFzf8XBHmS+tlQXFvILAvG8fzcnS`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 ### [afro&b ](https://open.spotify.com/playlist/37i9dQZF1DWU4DdJqbjPl5)
 
-> Intersection of R&B and afrobeats\. Cover:  Nasty C
+> Intersection of R&B and afrobeats\. Cover:  Nasty C & Tellaman
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,063 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,074 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 27 | [After Hours](https://open.spotify.com/track/3is6Q8mrAvLC1gF2TFnYDq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Shana / After Hours](https://open.spotify.com/album/0cQk9my70QfKEYMJuAr9UQ) | 2:32 |
 | 28 | [Lost & Found](https://open.spotify.com/track/7mlMJdmG49vYGTEH8CCpvm) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Never Thought I Could \(Part 1\)](https://open.spotify.com/album/0euzHteEKLaGh5q1yVyGQS) | 2:35 |
 | 29 | [Sundown](https://open.spotify.com/track/6WZUaInW72Zy9r5Ar2E5yo) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Sundown](https://open.spotify.com/album/1A62RiJIqKfd5lVBtfOxGo) | 2:40 |
-| 30 | [Track 1](https://open.spotify.com/track/5Ahzftt1kLGb1daMiLOk8e) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA) | [What Does It Take to Bloom?](https://open.spotify.com/album/54ST4y3yA1Is8hXRhDpH2o) | 0:00 |
+| 30 | [Throw Something](https://open.spotify.com/track/5Ahzftt1kLGb1daMiLOk8e) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA) | [What Does It Take to Bloom?](https://open.spotify.com/album/54ST4y3yA1Is8hXRhDpH2o) | 5:07 |
 | 31 | [golibe](https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [catharsis](https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S) | 2:42 |
 | 32 | [Colours](https://open.spotify.com/track/5gD66CA3zM0JzVnnH0E8o9) | [ru.](https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt) | [SILK](https://open.spotify.com/album/3MFhVFS624uJf1jj9oTeLo) | 2:28 |
 | 33 | [Confession](https://open.spotify.com/track/0Z1NN59C1dt9NSpSR4xwMC) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Confession](https://open.spotify.com/album/75yZELVuJuLN67uBEYxn6y) | 2:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 74 | [Greedy](https://open.spotify.com/track/5cAMVFzVl7GqwZSrZkShoE) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Greedy](https://open.spotify.com/album/5o0ihDGjIdUQIafvtiDek1) | 2:45 |
 | 75 | [Speak Up](https://open.spotify.com/track/45974CiXdsg3UK6cvgmbOv) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Before The Morning Light](https://open.spotify.com/album/2ReT5MpfcBcllICauo5NNr) | 3:13 |
 
-Snapshot ID: `AAAAAMr28bxudZcqqcH1TaKwHZYhfbV5`
+Snapshot ID: `AAAAADWjvTtVQwCsPZLzMRnQ3zUu3t4Y`

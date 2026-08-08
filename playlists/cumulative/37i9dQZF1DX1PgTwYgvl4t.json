@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Adura",
+        "url": "https://open.spotify.com/album/2DRtJkxM2DjQ7GeeaKTF3y"
+      },
+      "artists": [
+        {
+          "name": "Oluwajenyo",
+          "url": "https://open.spotify.com/artist/5VMLcHJIvePoeIJlsCdPtC"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408000,
+      "name": "Adura",
+      "url": "https://open.spotify.com/track/1MdzECwninBrvwnVKNl96Q"
+    },
+    {
+      "album": {
         "name": "Generation Intimacy (Live)",
         "url": "https://open.spotify.com/album/3yS1fOC8YNbzfoB7WVSeOQ"
       },

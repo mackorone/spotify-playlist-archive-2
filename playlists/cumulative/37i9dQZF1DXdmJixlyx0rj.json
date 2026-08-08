@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-06",
-  "description": "New & best K-Electronic music is here. (Cover: Kimmy gone)",
+  "description": "New & best K-Electronic music is here. (Cover: Winter Back)",
   "name": "Electronii[K]",
   "tracks": [
     {
@@ -370,6 +370,24 @@
       "duration_ms": 172400,
       "name": "After LIKE - Holiday Remix",
       "url": "https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX"
+    },
+    {
+      "album": {
+        "name": "Headphone Beats 2025-2026",
+        "url": "https://open.spotify.com/album/6F0H5yZIw2liTOAG0xLtn6"
+      },
+      "artists": [
+        {
+          "name": "Winter Back",
+          "url": "https://open.spotify.com/artist/7obj6hnqThkyQFP9Sq07Pk"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229565,
+      "name": "AGN",
+      "url": "https://open.spotify.com/track/5MBhe5QslR8w8s1IGANiyt"
     },
     {
       "album": {
@@ -4460,7 +4478,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 271818,
       "name": "NOW HERE",
       "url": "https://open.spotify.com/track/6dsFCeO89AwO6lB53BqS5C"

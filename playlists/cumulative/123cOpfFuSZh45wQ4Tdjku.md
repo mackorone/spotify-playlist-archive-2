@@ -4,7 +4,7 @@
 
 > mostly furry
 
-491 songs - 23 hr 53 min
+493 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [calling for me](https://open.spotify.com/track/0Lw1s61I2yeWo1m8JKcGVz) | [Rebzyyx](https://open.spotify.com/artist/6FfFBKjNgYYhHBiot04z1I) | [calling for me](https://open.spotify.com/album/1ml5QYCSD3DQ2cejb6Yanj) | 1:35 | 2026-07-17 |  |
 | [Candlelight](https://open.spotify.com/track/4rYjeNrjGCXRLpMcLmFZOY) | [Bardic](https://open.spotify.com/artist/5G4QNDP33DfiOnwft13JtB) | [Candlelight](https://open.spotify.com/album/2XvwA3Qv4G9Rx58TZUlhHz) | 2:48 | 2023-12-07 |  |
 | [Cat Chase](https://open.spotify.com/track/042ImWHeDEIWwx9ZEBQSF6) | [Shizi 噬子](https://open.spotify.com/artist/0rGRA8bnrb5gVFY9XWLlIp) | [Changed Original Soundtrack](https://open.spotify.com/album/1FoC5vc9DKuuz3kfUOQq8R) | 0:19 | 2024-12-24 |  |
+| [Catdelions IIS](https://open.spotify.com/track/6TROIvKbmnmfIZhuN2v3Vj) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh), [Artifyber](https://open.spotify.com/artist/41B16M5LFJKcwUW3L75PVh) | [Catdelions IIS](https://open.spotify.com/album/1QX1Z2oES9tANgs5iE5sq6) | 2:52 | 2026-08-07 |  |
 | [Cats In Pink](https://open.spotify.com/track/1aseoGehQTvL6vnOqfAmTr) | [Studi01](https://open.spotify.com/artist/6JahkHwKoCgQsAc2wxYKy3), [CrescentIsCat](https://open.spotify.com/artist/2INmFI2oKynS6EbQED1AAd) | [Our Summer Dreams](https://open.spotify.com/album/1lBRF308MyR8tggVA9Qw6M) | 2:39 | 2026-08-05 |  |
 | [Cats In Pink \- Instrumental](https://open.spotify.com/track/5t65YJh85Km3kAPNh5CD2b) | [Studi01](https://open.spotify.com/artist/6JahkHwKoCgQsAc2wxYKy3), [CrescentIsCat](https://open.spotify.com/artist/2INmFI2oKynS6EbQED1AAd) | [Our Summer Dreams](https://open.spotify.com/album/1lBRF308MyR8tggVA9Qw6M) | 2:39 | 2026-08-05 |  |
 | [CHANGED](https://open.spotify.com/track/4zd9ODrv8sfgGprCVhER4j) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy), [sharkbarksss](https://open.spotify.com/artist/7wrGMUFl9bK7T4st7GG1wS) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 3:13 | 2025-02-24 | 2026-07-27 |
@@ -452,6 +453,7 @@
 | [Too Much](https://open.spotify.com/track/2Bcae2aIiGSw36Nbr4wxpx) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Wag My Tail](https://open.spotify.com/album/2sBXtD2bY1FaiXTzIft4qB) | 2:57 | 2024-05-15 |  |
 | [Top 10 Things to Do Before You Die](https://open.spotify.com/track/7tKvP8aMFoNyMFjx4qPxbz) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Top 10 Things to Do Before You Die](https://open.spotify.com/album/4o785NJ3ScmVQ4K3NM0Rnh) | 2:40 | 2024-07-04 |  |
 | [Top 10 Things to Do Before You Die \- Instrumental](https://open.spotify.com/track/3gtyVvblRBUb88jd45gF7B) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Top 10 Things to Do Before You Die](https://open.spotify.com/album/4o785NJ3ScmVQ4K3NM0Rnh) | 2:40 | 2024-07-19 |  |
+| [Touch](https://open.spotify.com/track/7mXoq6rgDd05b618ZELgqY) | [Rei Caffie](https://open.spotify.com/artist/3v5StcEvA3mtQ7HJVfmQqa) | [Touch](https://open.spotify.com/album/6SbAFH4KW09gm0incbJjMX) | 4:04 | 2026-08-07 |  |
 | [Tough Winters](https://open.spotify.com/track/61BnD8er42c9NVaBFv0q2X) | [Arctica The Fox](https://open.spotify.com/artist/5QyUSrN5677lRfROJSu7z8) | [Dreamscape](https://open.spotify.com/album/4pEPXJ41scirEpDmSp6Gnt) | 3:41 | 2025-04-24 |  |
 | [Trash Talkin'](https://open.spotify.com/track/3kBzzYNNR5T6QRQD7FN6ST) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq), [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Trash Talkin'](https://open.spotify.com/album/2eW2mOSWttJQ6of9FhEd26) | 3:43 | 2024-07-09 |  |
 | [turn tail](https://open.spotify.com/track/0ZF8y0kcVWFts8QqL4cZDA) | [sharkbarksss](https://open.spotify.com/artist/7wrGMUFl9bK7T4st7GG1wS), [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [set fire to the world](https://open.spotify.com/album/4g4nM95APkdGw3EzqOyLEK) | 3:58 | 2025-03-28 |  |

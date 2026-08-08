@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 42199,
+  "num_followers": 42208,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAAGVa8ke9SoX3+DJFF/3nIY",
+  "snapshot_id": "anPOgAAAAABCoaskS3TyP6/8jZpmwbHC",
   "tracks": [
     {
       "added_at": null,
@@ -475,26 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bailemos en la Sala",
-        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "Una Noche M\u00e1s",
-      "url": "https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00edstica",
         "url": "https://open.spotify.com/album/4RVFmSzGSl92AyptQdhOub"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 232693,
       "name": "M\u00edstica",
       "url": "https://open.spotify.com/track/4YMPFghULbeUXAB4HvXqhy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bailemos en la Sala",
+        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8"
     },
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cr\u00f3nica De Un Desamor Anunciado",
-        "url": "https://open.spotify.com/album/69gpv2EqSR3nIV9bdqmicQ"
-      },
-      "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 200981,
-      "name": "Me Haces Mal",
-      "url": "https://open.spotify.com/track/2hCSYP7BoWsDgnu4NwmPdC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Secretos",
         "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 186853,
       "name": "Noches De Verano",
       "url": "https://open.spotify.com/track/6V3rv3WLYQCta6jadsslm0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cr\u00f3nica De Un Desamor Anunciado",
+        "url": "https://open.spotify.com/album/69gpv2EqSR3nIV9bdqmicQ"
+      },
+      "artists": [
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 200981,
+      "name": "Me Haces Mal",
+      "url": "https://open.spotify.com/track/2hCSYP7BoWsDgnu4NwmPdC"
     },
     {
       "added_at": null,

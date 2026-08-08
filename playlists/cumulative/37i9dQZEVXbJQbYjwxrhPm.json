@@ -1298,7 +1298,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 195866,
       "name": "Bez chuvstva",
       "url": "https://open.spotify.com/track/33F5ZZ9LV9gF3Vc3u8NfwD"
@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -4081,6 +4081,24 @@
     },
     {
       "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
+    },
+    {
+      "album": {
         "name": "Havana",
         "url": "https://open.spotify.com/album/4Fp1TGVc2iUXRqNN1cExmC"
       },
@@ -4830,7 +4848,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 174829,
       "name": "Iskam ot teb",
       "url": "https://open.spotify.com/track/2duH4aHmawCOPCayHzlLae"
@@ -4968,7 +4986,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/0Vcss0GZ1rbNI7QQPfXeg4"
@@ -5012,7 +5030,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
@@ -5118,7 +5136,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 237209,
       "name": "JOHN CENA",
       "url": "https://open.spotify.com/track/3XMcyRsCLVAWdIqKrSvS8Z"
@@ -5586,6 +5604,24 @@
       "duration_ms": 212253,
       "name": "Like Crazy (English Version)",
       "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
+    },
+    {
+      "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167333,
+      "name": "like i do",
+      "url": "https://open.spotify.com/track/3d1oTMjtfVySbAYQp3v4MU"
     },
     {
       "album": {
@@ -6720,7 +6756,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 246099,
       "name": "Ne se iztrivash",
       "url": "https://open.spotify.com/track/0eFXnAmevM77kRInrvf3G1"
@@ -6970,7 +7006,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 220868,
       "name": "Notarialno zaveren",
       "url": "https://open.spotify.com/track/0rzlD9CNQ5XIGD58r799Ov"
@@ -7333,6 +7369,36 @@
     },
     {
       "album": {
+        "name": "OT STAROTO",
+        "url": "https://open.spotify.com/album/4ZDkJGTTGh9v4g4IvjW62V"
+      },
+      "artists": [
+        {
+          "name": "Bandata Na Ruba",
+          "url": "https://open.spotify.com/artist/12fCNCkYtNfyBZ3zjFGri8"
+        },
+        {
+          "name": "MOMO RECORDS",
+          "url": "https://open.spotify.com/artist/5f1C9EB4G4MrxxmWmZP5Wo"
+        },
+        {
+          "name": "Garjoka",
+          "url": "https://open.spotify.com/artist/2HB7K5UdSuYXmdxsPkK8Tm"
+        },
+        {
+          "name": "Dim4ou",
+          "url": "https://open.spotify.com/artist/6URykZzv72st8HDMcJNrsV"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "OT STAROTO",
+      "url": "https://open.spotify.com/track/1uY6bR9vlVn1ZlAlK0FoEm"
+    },
+    {
+      "album": {
         "name": "OTKACHALKI",
         "url": "https://open.spotify.com/album/0wxBkakmoiGcrGov64qJZO"
       },
@@ -7616,6 +7682,24 @@
       "duration_ms": 183038,
       "name": "PESTO",
       "url": "https://open.spotify.com/track/7mRn3tKOqtjrRAKgkSTDtx"
+    },
+    {
+      "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184248,
+      "name": "petal",
+      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
     },
     {
       "album": {
@@ -8286,7 +8370,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 223698,
       "name": "Rezhim Neprilichna",
       "url": "https://open.spotify.com/track/1BDsCVdpvuR5qku8n8LUqG"
@@ -9830,7 +9914,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 182000,
       "name": "Tintiri Mintiri",
       "url": "https://open.spotify.com/track/6QcUO5ViDICTY2HMQPFpmV"
@@ -11516,7 +11600,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 248000,
       "name": "\u0413\u0440\u0435\u0448\u043d\u0438\u0446\u0438",
       "url": "https://open.spotify.com/track/6W2jsJG6MPPJ6xTWcNEeHr"
@@ -11706,7 +11790,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 205102,
       "name": "\u0414\u0438\u0441\u043a\u043e\u0442\u0435\u043a\u0430",
       "url": "https://open.spotify.com/track/7DLnkcz4EU04ghpTIQcEqL"
@@ -12848,7 +12932,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 203624,
       "name": "\u041c\u043e\u0435\u0442\u043e \u0441\u043b\u0430\u0431\u043e \u043c\u044f\u0441\u0442\u043e",
       "url": "https://open.spotify.com/track/46YeHpvSWbG2pHRlMcC5Rp"
@@ -12866,7 +12950,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 241960,
       "name": "\u041c\u043e\u043c\u0447\u0435 \u0431\u0435\u0437 \u0441\u044a\u0440\u0446\u0435",
       "url": "https://open.spotify.com/track/751kslplg7iAx3bD98pZgs"
@@ -13671,6 +13755,28 @@
     },
     {
       "album": {
+        "name": "\u041f\u0440\u043e\u0441\u0442\u043e \u0428\u043e\u0443",
+        "url": "https://open.spotify.com/album/1DNetXaI6zrLukWP94xrFs"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/2yMeOkg2tXwXn9HroG3EhL"
+        },
+        {
+          "name": "Silver",
+          "url": "https://open.spotify.com/artist/2EhA2fhljRYu84j8ugZvwU"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189285,
+      "name": "\u041f\u0440\u043e\u0441\u0442\u043e \u0428\u043e\u0443",
+      "url": "https://open.spotify.com/track/35CkOCdXZ6mx4QRHuI6C9O"
+    },
+    {
+      "album": {
         "name": "Turbulence",
         "url": "https://open.spotify.com/album/2HJHlusCd0Gd9VXLhtvAjy"
       },
@@ -13838,7 +13944,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 191666,
       "name": "\u0420\u043e\u0437\u043e\u0432\u0438\u0442\u0435 \u043e\u0447\u0438\u043b\u0430",
       "url": "https://open.spotify.com/track/4rTcYzlAsuNwzbd1NnwK4w"
@@ -14130,6 +14236,28 @@
       "duration_ms": 151304,
       "name": "\u0422\u0430\u0440\u0438\u043a\u0430\u0442",
       "url": "https://open.spotify.com/track/2hSloAMRlwf37vFG8xeLM4"
+    },
+    {
+      "album": {
+        "name": "\u0422\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0430",
+        "url": "https://open.spotify.com/album/755S8whjIIVPC1sdLnE08T"
+      },
+      "artists": [
+        {
+          "name": "Ivayla",
+          "url": "https://open.spotify.com/artist/29Hsg37sCbjeeCdDA0HIgt"
+        },
+        {
+          "name": "Diona",
+          "url": "https://open.spotify.com/artist/5OyVwBuWRLl5npoif9l5sJ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199680,
+      "name": "\u0422\u0435\u043c\u043f\u0435\u0440\u0430\u0442\u0443\u0440\u0430",
+      "url": "https://open.spotify.com/track/2YL0n6M28RzmcUadbBZevV"
     },
     {
       "album": {
@@ -14458,7 +14586,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 214285,
       "name": "\u0425\u0432\u0430\u0449\u0430\u043c\u0435 \u0431\u0430\u0441",
       "url": "https://open.spotify.com/track/6WTMZB0lrYzULDWUPmvAsb"

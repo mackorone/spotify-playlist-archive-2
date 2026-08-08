@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MB9zAGi61h.md) - [plain]
 
 > Close Mic, Muted Strings, Loud Hammers
 
-[Spotify](https://open.spotify.com/user/spotify) - 420 likes - 69 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 448 likes - 79 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,25 +57,35 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MB9zAGi61h.md) - [plain]
 | 47 | [Patterns](https://open.spotify.com/track/6z0UhDZtA0Ln2hHhgLg6Ah) | [Eric D\. Lawrence](https://open.spotify.com/artist/7cr6fHoqPq2UXVPrmylXQg) | [Patterns](https://open.spotify.com/album/4bDXWDR2mxOE5XCKSRPrYU) | 2:30 |
 | 48 | [Asterium](https://open.spotify.com/track/34wJdKrvz1WaxKFLNAodKn) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Asterium](https://open.spotify.com/album/3Tp2ArnnsUkK6FI4eHTR0K) | 2:50 |
 | 49 | [Sail Away](https://open.spotify.com/track/44BFfYMUdKogtMSJJZAhvk) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Sail Away](https://open.spotify.com/album/52H4dLx4r4FowOjCJ83v3h) | 2:19 |
-| 50 | [Soft Meadow](https://open.spotify.com/track/2MMbGRkF1Ua0EVUrMQ1rIr) | [Ludovic Agnes](https://open.spotify.com/artist/4l07zQkuiR10PftXNbieYZ) | [Soft Meadow](https://open.spotify.com/album/3udAa6iIZO6GyRBEdEodVr) | 2:16 |
-| 51 | [Hearth](https://open.spotify.com/track/7uk8WqCTD93lYCEKohkMIu) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K), [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Hearth](https://open.spotify.com/album/6Ku23VDzyckQn6aoyZJdYj) | 2:05 |
-| 52 | [Bloom Later](https://open.spotify.com/track/0IoJYjMhJhOiwXqnkkBWoJ) | [Aron E\. Ross](https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4) | [Bloom Later](https://open.spotify.com/album/4UugupuV93QB32rdUWZciN) | 3:00 |
-| 53 | [Aconite](https://open.spotify.com/track/4rozXsuwZGj35WCAOp9CJy) | [The Piano Herbarium](https://open.spotify.com/artist/0QiOtbuT3B1A7Xa5gaKhfW) | [Aconite](https://open.spotify.com/album/5FOPIbIL5vouLumn792r6M) | 2:33 |
-| 54 | [A Slow Goodbye](https://open.spotify.com/track/3f3PczuKvYPitGz1iZZDQO) | [Evan Scudo](https://open.spotify.com/artist/52YRLeGKgHrZwxxXqfIJ8w) | [A Slow Goodbye](https://open.spotify.com/album/1wnBJnRNTpeMydL0P4YKKc) | 2:17 |
-| 55 | [Garden Beneath the Waves](https://open.spotify.com/track/4qBXeJ5rrp5uYO7wMGhRtU) | [forever day](https://open.spotify.com/artist/2xZ6v1AA2KEKLIYafq7a0a) | [Garden Beneath the Waves](https://open.spotify.com/album/3UFPXjWB7d5PyGnksw1nB2) | 2:19 |
-| 56 | [Présence](https://open.spotify.com/track/6j5lyjbpxbSvkcD5jhX6rk) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Présence](https://open.spotify.com/album/06LRjkAlOZFoPL7JaMw5JK) | 2:26 |
-| 57 | [A Sea Made of Glass](https://open.spotify.com/track/0BTOYmOt70UD16I7bf0UHc) | [Elian Morel](https://open.spotify.com/artist/1ipmhTUevpHeyRQPbrugqC) | [A Sea Made of Glass](https://open.spotify.com/album/0otUhYOg74Mvz55HZX4bHa) | 2:12 |
-| 58 | [It Goes On](https://open.spotify.com/track/6nV6Uj6Mh0nWSGaVCaqcms) | [Noreve](https://open.spotify.com/artist/6bn4pbd1Z3aPJGELTJHYd0) | [It Goes On](https://open.spotify.com/album/6pw6WtTINiZsvVZoyM1txB) | 2:26 |
-| 59 | [Iron Horizon](https://open.spotify.com/track/0PBaJQAHVxfaJ6mRJnwVm4) | [Last Octave](https://open.spotify.com/artist/2bODZoFMtMG0yF5PBL1bRh) | [Iron Horizon](https://open.spotify.com/album/4pc47s8nYBVG2xHoKJYo3D) | 2:12 |
-| 60 | [Morning Haze](https://open.spotify.com/track/1ISShfUqApLvaZKiYNkjhB) | [Lina Emsen](https://open.spotify.com/artist/1zwP5uOqLuMBII0dRnkBqX) | [Morning Haze](https://open.spotify.com/album/1AkqgUZjc1UcyMdTVMtlfX) | 2:22 |
-| 61 | [Respire](https://open.spotify.com/track/4ESdZyH4qHj61dZvNO50Hh) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Respire](https://open.spotify.com/album/0nFg9YJrlSNFOwFkmSvWdW) | 2:47 |
-| 62 | [Still here](https://open.spotify.com/track/7fEU3GxXppkdMdMNMirYc8) | [Liam Sorrell](https://open.spotify.com/artist/7oxpMg7b1GHRDeST0Q3OPd) | [Still here](https://open.spotify.com/album/44bEu6SriItrBYfAdgSgB2) | 2:39 |
-| 63 | [Through It All](https://open.spotify.com/track/6xSNZtpN8OhzabYXKqHI7i) | [Dunham Froebel](https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT) | [Through It All](https://open.spotify.com/album/4RF3O2mvPaB5Te5GGeJQpZ) | 3:17 |
-| 64 | [Westmoor Park](https://open.spotify.com/track/4sVJY7cS2xrVXZgLtv78GA) | [R\. Coxwell](https://open.spotify.com/artist/7jNyI8cwWANZyQKpBp4ua9) | [Westmoor Park](https://open.spotify.com/album/3eaatGS30oceabBwpkbSnF) | 1:56 |
-| 65 | [A Small Flower](https://open.spotify.com/track/6yG4I8OfcocLKt1dwlpJgG) | [Into the Harmonies](https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h) | [A Small Flower](https://open.spotify.com/album/0HXqSdI9b1D2hdfqDYx67s) | 2:27 |
-| 66 | [Wallflower](https://open.spotify.com/track/1LOBr57oFOqCuepGRjQvWK) | [Følgesvend](https://open.spotify.com/artist/3HFQhWHwDYkmK1x7WkKO78) | [Wallflower](https://open.spotify.com/album/0NZ9QKR2dpL5TTwoimI6zS) | 2:17 |
-| 67 | [A Better Day](https://open.spotify.com/track/5PVXc3N3QhQNwL7jOddPyz) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [A Better Day](https://open.spotify.com/album/4ICVyuttW92PA6FVLTvSP5) | 2:47 |
-| 68 | [Timing](https://open.spotify.com/track/3FprG4ou1vtAdvQO2ZeiLr) | [Affinity88](https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw) | [Timing](https://open.spotify.com/album/7dWIQZAvUFp0VCVdsIyzOr) | 2:10 |
-| 69 | [Beyond The Mist](https://open.spotify.com/track/1BbMa127Sb16ts9KpqUWKF) | [Max Swan](https://open.spotify.com/artist/2d1JYQW1AqWDJYigDlLLPj) | [Beyond The Mist](https://open.spotify.com/album/1a0PezFzlD8Xz4p0BZr5sq) | 3:07 |
+| 50 | [Before It Hurts](https://open.spotify.com/track/7hPp55WuMnbLDfRpwYkpYN) | [Mattia Vlad Morleo](https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE) | [Before It Hurts](https://open.spotify.com/album/3pU8mqByPXNgWHRnV873fm) | 1:29 |
+| 51 | [Soft Meadow](https://open.spotify.com/track/2MMbGRkF1Ua0EVUrMQ1rIr) | [Ludovic Agnes](https://open.spotify.com/artist/4l07zQkuiR10PftXNbieYZ) | [Soft Meadow](https://open.spotify.com/album/3udAa6iIZO6GyRBEdEodVr) | 2:16 |
+| 52 | [Hearth](https://open.spotify.com/track/7uk8WqCTD93lYCEKohkMIu) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K), [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Hearth](https://open.spotify.com/album/6Ku23VDzyckQn6aoyZJdYj) | 2:05 |
+| 53 | [Bloom Later](https://open.spotify.com/track/0IoJYjMhJhOiwXqnkkBWoJ) | [Aron E\. Ross](https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4) | [Bloom Later](https://open.spotify.com/album/4UugupuV93QB32rdUWZciN) | 3:00 |
+| 54 | [Aconite](https://open.spotify.com/track/4rozXsuwZGj35WCAOp9CJy) | [The Piano Herbarium](https://open.spotify.com/artist/0QiOtbuT3B1A7Xa5gaKhfW) | [Aconite](https://open.spotify.com/album/5FOPIbIL5vouLumn792r6M) | 2:33 |
+| 55 | [Portsmouth Forage](https://open.spotify.com/track/3kZmCo5LRPT29iUnBwhG93) | [Mano E Mano](https://open.spotify.com/artist/6ZTtCGJlH0694XxyTFbPZ9) | [Portsmouth Forage](https://open.spotify.com/album/0cXFFXoDVz9ZkiXSNlb2Mf) | 1:57 |
+| 56 | [A Slow Goodbye](https://open.spotify.com/track/3f3PczuKvYPitGz1iZZDQO) | [Evan Scudo](https://open.spotify.com/artist/52YRLeGKgHrZwxxXqfIJ8w) | [A Slow Goodbye](https://open.spotify.com/album/1wnBJnRNTpeMydL0P4YKKc) | 2:17 |
+| 57 | [Présence](https://open.spotify.com/track/6j5lyjbpxbSvkcD5jhX6rk) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Présence](https://open.spotify.com/album/06LRjkAlOZFoPL7JaMw5JK) | 2:26 |
+| 58 | [A Sea Made of Glass](https://open.spotify.com/track/0BTOYmOt70UD16I7bf0UHc) | [Elian Morel](https://open.spotify.com/artist/1ipmhTUevpHeyRQPbrugqC) | [A Sea Made of Glass](https://open.spotify.com/album/0otUhYOg74Mvz55HZX4bHa) | 2:12 |
+| 59 | [Sunside](https://open.spotify.com/track/1YjZyU94YBTuLgBp1Df86F) | [Syrene](https://open.spotify.com/artist/6Q9ePrzgGlI5DW95Xskv4p) | [Sunside](https://open.spotify.com/album/0ODokPId0OyxADfWzouGgL) | 2:28 |
+| 60 | [It Goes On](https://open.spotify.com/track/6nV6Uj6Mh0nWSGaVCaqcms) | [Noreve](https://open.spotify.com/artist/6bn4pbd1Z3aPJGELTJHYd0) | [It Goes On](https://open.spotify.com/album/6pw6WtTINiZsvVZoyM1txB) | 2:26 |
+| 61 | [Iron Horizon](https://open.spotify.com/track/0PBaJQAHVxfaJ6mRJnwVm4) | [Last Octave](https://open.spotify.com/artist/2bODZoFMtMG0yF5PBL1bRh) | [Iron Horizon](https://open.spotify.com/album/4pc47s8nYBVG2xHoKJYo3D) | 2:12 |
+| 62 | [Morning Haze](https://open.spotify.com/track/1ISShfUqApLvaZKiYNkjhB) | [Lina Emsen](https://open.spotify.com/artist/1zwP5uOqLuMBII0dRnkBqX) | [Morning Haze](https://open.spotify.com/album/1AkqgUZjc1UcyMdTVMtlfX) | 2:22 |
+| 63 | [Respire](https://open.spotify.com/track/4ESdZyH4qHj61dZvNO50Hh) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Respire](https://open.spotify.com/album/0nFg9YJrlSNFOwFkmSvWdW) | 2:47 |
+| 64 | [In My Hands](https://open.spotify.com/track/5Oopx6vHp520tfFT0re0iq) | [Julian North](https://open.spotify.com/artist/4fzhFLI71Hrc3ONAwaiK4a) | [In My Hands](https://open.spotify.com/album/4cGgXKblTBpFCUWj1KSMix) | 2:06 |
+| 65 | [Still here](https://open.spotify.com/track/7fEU3GxXppkdMdMNMirYc8) | [Liam Sorrell](https://open.spotify.com/artist/7oxpMg7b1GHRDeST0Q3OPd) | [Still here](https://open.spotify.com/album/44bEu6SriItrBYfAdgSgB2) | 2:39 |
+| 66 | [Through It All](https://open.spotify.com/track/6xSNZtpN8OhzabYXKqHI7i) | [Dunham Froebel](https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT) | [Through It All](https://open.spotify.com/album/4RF3O2mvPaB5Te5GGeJQpZ) | 3:17 |
+| 67 | [Westmoor Park](https://open.spotify.com/track/4sVJY7cS2xrVXZgLtv78GA) | [R\. Coxwell](https://open.spotify.com/artist/7jNyI8cwWANZyQKpBp4ua9) | [Westmoor Park](https://open.spotify.com/album/3eaatGS30oceabBwpkbSnF) | 1:56 |
+| 68 | [A Small Flower](https://open.spotify.com/track/6yG4I8OfcocLKt1dwlpJgG) | [Into the Harmonies](https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h) | [A Small Flower](https://open.spotify.com/album/0HXqSdI9b1D2hdfqDYx67s) | 2:27 |
+| 69 | [Moonbeams Surrender](https://open.spotify.com/track/37wqS4GzPzkCRpHZESj8xM) | [Zale Foster](https://open.spotify.com/artist/27JTZNNeGNDXRnzNH8w4On) | [Moonbeams Surrender](https://open.spotify.com/album/1TCp1W9GjA1GVKcdTVyqXM) | 2:12 |
+| 70 | [Wallflower](https://open.spotify.com/track/1LOBr57oFOqCuepGRjQvWK) | [Følgesvend](https://open.spotify.com/artist/3HFQhWHwDYkmK1x7WkKO78) | [Wallflower](https://open.spotify.com/album/0NZ9QKR2dpL5TTwoimI6zS) | 2:17 |
+| 71 | [A Better Day](https://open.spotify.com/track/5PVXc3N3QhQNwL7jOddPyz) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [A Better Day](https://open.spotify.com/album/4ICVyuttW92PA6FVLTvSP5) | 2:47 |
+| 72 | [Timing](https://open.spotify.com/track/3FprG4ou1vtAdvQO2ZeiLr) | [Affinity88](https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw) | [Timing](https://open.spotify.com/album/7dWIQZAvUFp0VCVdsIyzOr) | 2:10 |
+| 73 | [Beyond The Mist](https://open.spotify.com/track/1BbMa127Sb16ts9KpqUWKF) | [Max Swan](https://open.spotify.com/artist/2d1JYQW1AqWDJYigDlLLPj) | [Beyond The Mist](https://open.spotify.com/album/1a0PezFzlD8Xz4p0BZr5sq) | 3:07 |
+| 74 | [Chalford](https://open.spotify.com/track/6CbJQ7uTJjW3RjXBG9sU0o) | [Quentin Noire](https://open.spotify.com/artist/1FXZ3lnXGrC1N5WGYOzmRm) | [Chalford](https://open.spotify.com/album/4QeoYBpW1fA9D9DwxIm06j) | 2:59 |
+| 75 | [If Only Briefly](https://open.spotify.com/track/5eRsZ4TqauBUcHz04FTCZd) | [Aurelio Li](https://open.spotify.com/artist/4TO9hcCQfJDVBofrM5ra12) | [If Only Briefly](https://open.spotify.com/album/3PbYdzUubS5rNZ8T9QR0tA) | 2:22 |
+| 76 | [Sincere](https://open.spotify.com/track/4GDvopkoUYaXkjJWfEZTul) | [Miriam Juno](https://open.spotify.com/artist/1W4zQyEDpirI3RZbQbhUTw) | [Sincere](https://open.spotify.com/album/1PDggbII89GrULGkfmmcko) | 2:19 |
+| 77 | [Between Seasons](https://open.spotify.com/track/4XPUL6dYh97Yl7mFsU7qch) | [Affinity88](https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw) | [Between Seasons](https://open.spotify.com/album/5gbsDOTG5sXs1nPGBPgMaH) | 2:28 |
+| 78 | [Reminisce](https://open.spotify.com/track/6JAgrPR2SsSQbMKQLKU3Li) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Reminisce](https://open.spotify.com/album/00I4uPtckukweP7GVOqZsk) | 2:31 |
+| 79 | [Le Silence](https://open.spotify.com/track/3UQoMxRBowlYY6Bkp5zskI) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Le Silence](https://open.spotify.com/album/1UtTt0MEqC4FM43PCtDDpe) | 2:10 |
 
-Snapshot ID: `AAAAALzplTCkfSnJ15Zofjzss1TGRCdh`
+Snapshot ID: `AAAAAHBoh/IycrzqkC2D4QaGIoElYV/H`

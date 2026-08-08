@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Factor de Cambio",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: ECCOS",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -952,6 +952,28 @@
       "duration_ms": 185142,
       "name": "ALABALE",
       "url": "https://open.spotify.com/track/5OC1b8xqnl0eFO4eDeOHUQ"
+    },
+    {
+      "album": {
+        "name": "ECCLESIA",
+        "url": "https://open.spotify.com/album/3jbCOlJqFGHCkijruOGLL8"
+      },
+      "artists": [
+        {
+          "name": "ECCOS",
+          "url": "https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l"
+        },
+        {
+          "name": "Joel Rocco",
+          "url": "https://open.spotify.com/artist/7sjNSERyTcSvuDsLk9xwpe"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235624,
+      "name": "Alabar\u00e9",
+      "url": "https://open.spotify.com/track/5gQPOUhf5yRBEutGWAfkFc"
     },
     {
       "album": {
@@ -12021,6 +12043,36 @@
     },
     {
       "album": {
+        "name": "Americas II",
+        "url": "https://open.spotify.com/album/50ImgTNce8B7IzggYXv58u"
+      },
+      "artists": [
+        {
+          "name": "Som Do Reino",
+          "url": "https://open.spotify.com/artist/4Bei91U4XakJsOUQVxH2Cq"
+        },
+        {
+          "name": "TOMATULUGAR",
+          "url": "https://open.spotify.com/artist/44RfC7kgNNz6s2MD3gJqXX"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        },
+        {
+          "name": "Nick Gaggero",
+          "url": "https://open.spotify.com/artist/1xsQ2zLHCOGgc5bWaYTk0S"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 951870,
+      "name": "M\u00edrenlo",
+      "url": "https://open.spotify.com/track/3nKxuviTc7NV6Sz1UqL9ch"
+    },
+    {
+      "album": {
         "name": "M\u00fasika",
         "url": "https://open.spotify.com/album/61CNQTOiHdHdQm2usALv5m"
       },
@@ -12288,7 +12340,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 323712,
       "name": "NCB 20A",
       "url": "https://open.spotify.com/track/2eHa6JvvteLRCrYgX4drOv"
@@ -13228,7 +13280,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 286541,
       "name": "Ojos De Amor",
       "url": "https://open.spotify.com/track/1ZnZdvzE1RGno1JxtbuedT"
@@ -13944,7 +13996,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 154601,
       "name": "PQ LLORAR?",
       "url": "https://open.spotify.com/track/22sVxak5DVIYOHRNruwF8s"
@@ -15994,6 +16046,24 @@
       "duration_ms": 136500,
       "name": "Sin Metales",
       "url": "https://open.spotify.com/track/1l1ozrLODpJvx2mcoNpGHU"
+    },
+    {
+      "album": {
+        "name": "Sin Reflectores",
+        "url": "https://open.spotify.com/album/7KNND33R7oWRhCr9fRHDpT"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Deliser",
+          "url": "https://open.spotify.com/artist/43e6Co88ZgWpwzeMEaFI97"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285915,
+      "name": "Sin Reflectores",
+      "url": "https://open.spotify.com/track/2MEep18MblsiDHN2Gjad4c"
     },
     {
       "album": {

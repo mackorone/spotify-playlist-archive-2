@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 
 > Grandes hinos da música brasileira para animar sua pista de dança!
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,701 likes - 57 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,710 likes - 57 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 | 2 | [Ouvi Dizer](https://open.spotify.com/track/1qCLx3nX25NuhfPjM5E1qV) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J) | 3:30 |
 | 3 | [Lança Perfume](https://open.spotify.com/track/0rAX31FT5w3ZQbQMUSkxy8) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Hits](https://open.spotify.com/album/7i4l4zXrbUuK3sL3K99J27) | 2:07 |
 | 4 | [Apesar De Você](https://open.spotify.com/track/2GAFZG9Z7UGS1iMm4Idrnr) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t), [MPB4](https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM), [Quarteto Em Cy](https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O) | [Chico Buarque](https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR) | 3:55 |
-| 5 | [Oh! Chuva](https://open.spotify.com/track/5RkPULKkPpFKkS5BnvK1t6) | [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Essa É Pra Vocês](https://open.spotify.com/album/03pJz5LVFVNSGNHBVREUL0) | 3:48 |
-| 6 | [Réu Confesso](https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1973](https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK) | 3:37 |
+| 5 | [Réu Confesso](https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia 1973](https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK) | 3:37 |
+| 6 | [Oh! Chuva](https://open.spotify.com/track/5RkPULKkPpFKkS5BnvK1t6) | [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Essa É Pra Vocês](https://open.spotify.com/album/03pJz5LVFVNSGNHBVREUL0) | 3:48 |
 | 7 | [Palco](https://open.spotify.com/track/2wL88cvKXUOfHuYVd62hji) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Luar](https://open.spotify.com/album/3qoUU8sm4eBT5POFHQSl5L) | 4:26 |
 | 8 | [Toda Forma de Amor](https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Toda Forma De Amor](https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ) | 3:45 |
 | 9 | [BRABA](https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRABA](https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4) | 2:09 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 | 21 | [Tropicana \(Morena Tropicana\)](https://open.spotify.com/track/54BLy0zSiBUOINjOwMC3M2) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [20 Grandes Sucessos De Alceu Valença](https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9) | 3:51 |
 | 22 | [Amor de Que](https://open.spotify.com/track/29caulxU0jxucdVIyhSJTc) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111 1](https://open.spotify.com/album/3HpTJ9jpgwzzn7S8AUwlb9) | 2:37 |
 | 23 | [Kilario](https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Di Melo](https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F) | 2:47 |
-| 24 | [Canta Canta, Minha Gente](https://open.spotify.com/track/0NLIFSZxPzQhCwnkn5PJYs) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Série Acervo \- Martinho Da Vila](https://open.spotify.com/album/62yCZN0N8WWNMSDNiaAWAk) | 2:32 |
-| 25 | [Invocada \(Participação especial de Léo Santana\) \- Ao vivo](https://open.spotify.com/track/4k20Ie47EcWtS4wMBn8w8S) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Hello mundo \(Ao vivo\)](https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw) | 2:37 |
+| 24 | [Invocada \(Participação especial de Léo Santana\) \- Ao vivo](https://open.spotify.com/track/4k20Ie47EcWtS4wMBn8w8S) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Hello mundo \(Ao vivo\)](https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw) | 2:37 |
+| 25 | [Canta Canta, Minha Gente](https://open.spotify.com/track/0NLIFSZxPzQhCwnkn5PJYs) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Série Acervo \- Martinho Da Vila](https://open.spotify.com/album/62yCZN0N8WWNMSDNiaAWAk) | 2:32 |
 | 26 | [Timoneiro](https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Bebadosamba](https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf) | 3:25 |
 | 27 | [Ovelha Negra](https://open.spotify.com/track/5xpumjGGcdWvqWxYVrd7jI) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Fruto Proibido](https://open.spotify.com/album/48SnM2iORxlYTyCefwJZvs) | 5:38 |
 | 28 | [Partido alto](https://open.spotify.com/track/6y5s9BzDRNWNVgJFeAjOld) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [E aí?](https://open.spotify.com/album/10MHbEofOuI7ELkawl8bSz) | 4:17 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 | 30 | [Jorge Maravilha](https://open.spotify.com/track/6K022fAYR1Q2BQwKfugUi3) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Umas E Outras](https://open.spotify.com/album/5OVtTHYvp9qti3AOyjWoVG) | 3:40 |
 | 31 | [Velha Roupa Colorida](https://open.spotify.com/track/7aQWuNqheTpisZfM0gP2oG) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Falso Brilhante](https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET) | 4:14 |
 | 32 | [O Mar Serenou](https://open.spotify.com/track/1N10tJPyQ70QcMLxhobSbJ) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Conto de Areia](https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt) | 2:58 |
-| 33 | [Vou Festejar \- Ao Vivo](https://open.spotify.com/track/3v6nNd7zI8EPlHflsy2UtC) | [Samba De Raiz](https://open.spotify.com/artist/0EtwDFzbxPxghUdhwfo9R4) | [Samba de Raiz \- Ao Vivo](https://open.spotify.com/album/6T58aKZn3iMSizSYaF2pTc) | 3:15 |
-| 34 | [Na Cadência Do Samba](https://open.spotify.com/track/11gIxacOHnCVPL0dZ3xOnC) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Vamos Pro Mundo](https://open.spotify.com/album/1g7A2Bmagu0IelCeIYDF2k) | 3:29 |
+| 33 | [Na Cadência Do Samba](https://open.spotify.com/track/11gIxacOHnCVPL0dZ3xOnC) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Vamos Pro Mundo](https://open.spotify.com/album/1g7A2Bmagu0IelCeIYDF2k) | 3:29 |
+| 34 | [Vou Festejar \- Ao Vivo](https://open.spotify.com/track/3v6nNd7zI8EPlHflsy2UtC) | [Samba De Raiz](https://open.spotify.com/artist/0EtwDFzbxPxghUdhwfo9R4) | [Samba de Raiz \- Ao Vivo](https://open.spotify.com/album/6T58aKZn3iMSizSYaF2pTc) | 3:15 |
 | 35 | [Trem Das Onze](https://open.spotify.com/track/5JSNcb3MwTxkDH4mrYKnHG) | [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Para Sempre](https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF) | 3:05 |
 | 36 | [Lindo Lago Do Amor](https://open.spotify.com/track/2zvTzaa6cOB8YQ8x3GUndf) | [Gonzaguinha](https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe) | [Bis \(Dois CDs\)](https://open.spotify.com/album/4aqhBQ04DpXEy9PKRKHvrq) | 4:09 |
 | 37 | [Canto Das Três Raças](https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Retratos](https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX) | 4:21 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 | 39 | [Frevo Mulher \- Ao Vivo](https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A), [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [O Grande Encontro 20 Anos: Alceu, Elba e Geraldo \(Ao Vivo\)](https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC) | 5:06 |
 | 40 | [À Francesa](https://open.spotify.com/track/3dRU9xurI1QoVDs9FUHenD) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Marina Rock Lima](https://open.spotify.com/album/4qpHcaQHNLmPS2sM93TekF) | 4:08 |
 | 41 | [O Sol Nascerá \(A Sorrir\)](https://open.spotify.com/track/4M2j1X47FwMozJrnJHnYNm) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 1:37 |
-| 42 | [Taxi Lunar](https://open.spotify.com/track/1WT480kAYr5E5FpwtAtm6a) | [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [Bicho De 7 Cabeças](https://open.spotify.com/album/3peuD9hEjWl5kGv0cqBhcG) | 3:32 |
-| 43 | [O Canto da Cidade](https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [O Canto da Cidade](https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl) | 3:24 |
+| 42 | [O Canto da Cidade](https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [O Canto da Cidade](https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl) | 3:24 |
+| 43 | [Taxi Lunar](https://open.spotify.com/track/1WT480kAYr5E5FpwtAtm6a) | [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [Bicho De 7 Cabeças](https://open.spotify.com/album/3peuD9hEjWl5kGv0cqBhcG) | 3:32 |
 | 44 | [Eu Vou Fazer Você Voar](https://open.spotify.com/track/2RzuiQcbRYMK4HlnhzSmDF) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [Eu Vou Fazer Você Voar](https://open.spotify.com/album/0nPbgnOviIflX7LUqqlREF) | 3:36 |
 | 45 | [O Feijão de Dona Neném](https://open.spotify.com/track/5G74LW4IB7XUaOzpH0VpEz) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Um dos Poetas do Samba](https://open.spotify.com/album/5tQPQGa137XeVTd3vYn1No) | 3:21 |
 | 46 | [Olho por Olho](https://open.spotify.com/track/6P71LmKrWTwnGBe4BYK5IG) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Nos Botequins Da Vida](https://open.spotify.com/album/5jrnGYZ7bHuFqOG2GusH50) | 3:10 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 | 56 | [Carcará](https://open.spotify.com/track/5E4xOrXaLsApvCSqleHT46) | [Joao Do Vale](https://open.spotify.com/artist/3TE6ZGjhmTVpLZrn9hvfBX), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [João do Vale](https://open.spotify.com/album/6tA5JMhnFRvDkanKAuPsCV) | 2:18 |
 | 57 | [Quando o povo entra na dança](https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Sentimento Brasileiro](https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP) | 2:51 |
 
-Snapshot ID: `AAAAAM+uHXvmsc46kl9U9hzwRgFTNkCU`
+Snapshot ID: `AAAAACekKo5onGrhxVpnD7QrZicr6emy`

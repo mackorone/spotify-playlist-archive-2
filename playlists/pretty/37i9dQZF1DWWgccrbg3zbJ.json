@@ -1,12 +1,12 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 628455,
+  "num_followers": 628830,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB08epy5MWNxx7UtZGETI9bwnlpr",
+  "snapshot_id": "AAAAANNVPNHIZToWmksZKUUblyeWn2C3",
   "tracks": [
     {
       "added_at": "2026-05-15 08:18:34",
@@ -419,18 +419,18 @@
     {
       "added_at": "2026-05-15 08:18:34",
       "album": {
-        "name": "A Bossa de Cauby Peixoto",
-        "url": "https://open.spotify.com/album/5UQ4lXVHLjPV1u6KoyAkFg"
+        "name": "Jo\u00e3o Voz E Viol\u00e3o",
+        "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
       },
       "artists": [
         {
-          "name": "Cauby Peixoto",
-          "url": "https://open.spotify.com/artist/1j081CNX8swtqfQCXGUc4v"
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 157333,
-      "name": "At\u00e9 Quem Sabe",
-      "url": "https://open.spotify.com/track/2rdVCNThL8kxzsRzusmt5t"
+      "duration_ms": 154240,
+      "name": "Eu Vim Da Bahia",
+      "url": "https://open.spotify.com/track/3YyKhjarSxJWuO44trAVdr"
     },
     {
       "added_at": "2026-05-15 08:18:34",
@@ -451,18 +451,18 @@
     {
       "added_at": "2026-05-15 08:18:34",
       "album": {
-        "name": "Plays and Sings Bossa Nova",
-        "url": "https://open.spotify.com/album/44zM914NmvslUJaJW2msNc"
+        "name": "A Bossa de Cauby Peixoto",
+        "url": "https://open.spotify.com/album/5UQ4lXVHLjPV1u6KoyAkFg"
       },
       "artists": [
         {
-          "name": "Luiz Bonf\u00e1",
-          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+          "name": "Cauby Peixoto",
+          "url": "https://open.spotify.com/artist/1j081CNX8swtqfQCXGUc4v"
         }
       ],
-      "duration_ms": 139600,
-      "name": "Sambalamento",
-      "url": "https://open.spotify.com/track/4fJrqBOXrJ9QwaqJ9UsptN"
+      "duration_ms": 157333,
+      "name": "At\u00e9 Quem Sabe",
+      "url": "https://open.spotify.com/track/2rdVCNThL8kxzsRzusmt5t"
     },
     {
       "added_at": "2026-05-15 08:18:34",
@@ -483,8 +483,40 @@
     {
       "added_at": "2026-05-15 08:18:34",
       "album": {
-        "name": "Jo\u00e3o Voz E Viol\u00e3o",
-        "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
+        "name": "Plays and Sings Bossa Nova",
+        "url": "https://open.spotify.com/album/44zM914NmvslUJaJW2msNc"
+      },
+      "artists": [
+        {
+          "name": "Luiz Bonf\u00e1",
+          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+        }
+      ],
+      "duration_ms": 139600,
+      "name": "Sambalamento",
+      "url": "https://open.spotify.com/track/4fJrqBOXrJ9QwaqJ9UsptN"
+    },
+    {
+      "added_at": "2026-05-15 08:18:34",
+      "album": {
+        "name": "Ultimate Guitar Classics 1951-1961",
+        "url": "https://open.spotify.com/album/0d03HJwweHFZRzvqzCrito"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/2A4lgjtLtpM5gnYxMvgM5Y"
+        }
+      ],
+      "duration_ms": 118040,
+      "name": "Desafinado",
+      "url": "https://open.spotify.com/track/2GW4RDBkjLWUDjumnHB3K1"
+    },
+    {
+      "added_at": "2026-05-15 08:18:34",
+      "album": {
+        "name": "Summer Samba! - Jo\u00e3o Gilberto",
+        "url": "https://open.spotify.com/album/4pUsMoa4fayB4dCGpNrVLc"
       },
       "artists": [
         {
@@ -492,9 +524,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 154240,
-      "name": "Eu Vim Da Bahia",
-      "url": "https://open.spotify.com/track/3YyKhjarSxJWuO44trAVdr"
+      "duration_ms": 136066,
+      "name": "De Conversa Em Conversa",
+      "url": "https://open.spotify.com/track/61hcUAElBx2rcOCoaldQNj"
     },
     {
       "added_at": "2026-05-15 08:18:34",
@@ -511,6 +543,22 @@
       "duration_ms": 112744,
       "name": "Adriana",
       "url": "https://open.spotify.com/track/07jiARShTjI2U7p9vay1df"
+    },
+    {
+      "added_at": "2026-05-15 08:18:34",
+      "album": {
+        "name": "Stone Flower (CTI Records 40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dsmGxE74ufKZgSFpEMxel"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "Tereza My Love",
+      "url": "https://open.spotify.com/track/5m4TzaOXvk1biOR3LdObVt"
     },
     {
       "added_at": "2026-05-15 08:18:34",
@@ -539,6 +587,38 @@
     {
       "added_at": "2026-05-15 08:18:34",
       "album": {
+        "name": "H\u00f4-B\u00e1-L\u00e1-L\u00e1",
+        "url": "https://open.spotify.com/album/2yHz1xJFHbJzhBitif1HJp"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/2A4lgjtLtpM5gnYxMvgM5Y"
+        }
+      ],
+      "duration_ms": 124682,
+      "name": "Rosa Morena",
+      "url": "https://open.spotify.com/track/2a9RgLSgbfIQwEiwCltTSK"
+    },
+    {
+      "added_at": "2026-05-15 08:18:34",
+      "album": {
+        "name": "Brazil 2",
+        "url": "https://open.spotify.com/album/4cUSNzcj0flfzz7BUlnSAT"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "Ela e Carioca",
+      "url": "https://open.spotify.com/track/6zPpAkAQQ4GDvUEtd4wiG7"
+    },
+    {
+      "added_at": "2026-05-15 08:18:34",
+      "album": {
         "name": "A Bossa De Caetano",
         "url": "https://open.spotify.com/album/4PVqfWHbgxXs9IElHBCMFy"
       },
@@ -555,38 +635,6 @@
       "duration_ms": 308906,
       "name": "Desde Que O Samba E Samba",
       "url": "https://open.spotify.com/track/1SL9baz3WrN29MAkeyvaHn"
-    },
-    {
-      "added_at": "2026-05-15 08:18:34",
-      "album": {
-        "name": "Stone Flower (CTI Records 40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2dsmGxE74ufKZgSFpEMxel"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "Tereza My Love",
-      "url": "https://open.spotify.com/track/5m4TzaOXvk1biOR3LdObVt"
-    },
-    {
-      "added_at": "2026-05-15 08:18:34",
-      "album": {
-        "name": "Ultimate Guitar Classics 1951-1961",
-        "url": "https://open.spotify.com/album/0d03HJwweHFZRzvqzCrito"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/2A4lgjtLtpM5gnYxMvgM5Y"
-        }
-      ],
-      "duration_ms": 118040,
-      "name": "Desafinado",
-      "url": "https://open.spotify.com/track/2GW4RDBkjLWUDjumnHB3K1"
     },
     {
       "added_at": "2026-05-15 08:18:34",
@@ -631,18 +679,18 @@
     {
       "added_at": "2026-05-15 08:18:34",
       "album": {
-        "name": "A Bossa De Caetano",
-        "url": "https://open.spotify.com/album/4PVqfWHbgxXs9IElHBCMFy"
+        "name": "Chega de Saudade (42 Original Tracks)",
+        "url": "https://open.spotify.com/album/3pWt2byZuo2KDF8wac8JXR"
       },
       "artists": [
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/2A4lgjtLtpM5gnYxMvgM5Y"
         }
       ],
-      "duration_ms": 187626,
-      "name": "Samba De Verao",
-      "url": "https://open.spotify.com/track/18jzP0rBaHJ2gjVhZ5OvKn"
+      "duration_ms": 121573,
+      "name": "Chega de Saudade",
+      "url": "https://open.spotify.com/track/0QhoniumuDQIQY46aIebRq"
     },
     {
       "added_at": "2026-05-15 08:18:34",
@@ -663,6 +711,22 @@
       "duration_ms": 194573,
       "name": "The Girl From Ipanema",
       "url": "https://open.spotify.com/track/3QczGFzPU2pr54vcRn90at"
+    },
+    {
+      "added_at": "2026-05-15 08:18:34",
+      "album": {
+        "name": "A Bossa De Caetano",
+        "url": "https://open.spotify.com/album/4PVqfWHbgxXs9IElHBCMFy"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 187626,
+      "name": "Samba De Verao",
+      "url": "https://open.spotify.com/track/18jzP0rBaHJ2gjVhZ5OvKn"
     },
     {
       "added_at": "2026-05-15 08:18:34",
@@ -707,6 +771,22 @@
       "duration_ms": 410186,
       "name": "Samba Da Ben\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2dA7eKXUzw1Ndc78kKRefH"
+    },
+    {
+      "added_at": "2026-05-15 08:18:34",
+      "album": {
+        "name": "Bossa Nova Essentials",
+        "url": "https://open.spotify.com/album/2hVlKPHcnN1xpdnIQOfTfi"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/2A4lgjtLtpM5gnYxMvgM5Y"
+        }
+      ],
+      "duration_ms": 122866,
+      "name": "O pato",
+      "url": "https://open.spotify.com/track/6u6E9DZgzyyo1oFofn7zIs"
     },
     {
       "added_at": "2026-05-15 08:18:34",
@@ -955,8 +1035,8 @@
     {
       "added_at": "2026-05-15 08:18:34",
       "album": {
-        "name": "H\u00f4-B\u00e1-L\u00e1-L\u00e1",
-        "url": "https://open.spotify.com/album/2yHz1xJFHbJzhBitif1HJp"
+        "name": "Ultimate Guitar Classics 1951-1961",
+        "url": "https://open.spotify.com/album/0d03HJwweHFZRzvqzCrito"
       },
       "artists": [
         {
@@ -964,9 +1044,9 @@
           "url": "https://open.spotify.com/artist/2A4lgjtLtpM5gnYxMvgM5Y"
         }
       ],
-      "duration_ms": 124682,
-      "name": "Rosa Morena",
-      "url": "https://open.spotify.com/track/2a9RgLSgbfIQwEiwCltTSK"
+      "duration_ms": 107120,
+      "name": "Medita\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4XUjJAMQ0sYoyOQJZf2AS0"
     },
     {
       "added_at": "2026-05-15 08:18:34",
@@ -987,6 +1067,22 @@
     {
       "added_at": "2026-05-15 08:18:34",
       "album": {
+        "name": "20 Grandes Sucessos De Joao Gilberto",
+        "url": "https://open.spotify.com/album/62NHXk7QVJwXA2mfUFO49h"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 184826,
+      "name": "Sorriu Para Mim",
+      "url": "https://open.spotify.com/track/0x3svf6lgzCE0AUh8Dqk3D"
+    },
+    {
+      "added_at": "2026-05-15 08:18:34",
+      "album": {
         "name": "The Sound Of Love",
         "url": "https://open.spotify.com/album/3KYK6KPU7EFjCsrt5cvsXC"
       },
@@ -999,26 +1095,6 @@
       "duration_ms": 203733,
       "name": "Meu Mundo Caiu",
       "url": "https://open.spotify.com/track/4XWgUf9Hke6SekbfxEhdGG"
-    },
-    {
-      "added_at": "2026-05-15 08:18:34",
-      "album": {
-        "name": "Tom Jobim E Amigos",
-        "url": "https://open.spotify.com/album/6uWgXMtKNMmlic7qqzGF0M"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        },
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "\u00c1guas De Mar\u00e7o",
-      "url": "https://open.spotify.com/track/1zKgDX6cFrdPkNF5Z04snQ"
     },
     {
       "added_at": "2026-05-15 08:18:34",
@@ -1047,18 +1123,22 @@
     {
       "added_at": "2026-05-15 08:18:34",
       "album": {
-        "name": "Chega de Saudade (42 Original Tracks)",
-        "url": "https://open.spotify.com/album/3pWt2byZuo2KDF8wac8JXR"
+        "name": "Tom Jobim E Amigos",
+        "url": "https://open.spotify.com/album/6uWgXMtKNMmlic7qqzGF0M"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/2A4lgjtLtpM5gnYxMvgM5Y"
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        },
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
         }
       ],
-      "duration_ms": 121573,
-      "name": "Chega de Saudade",
-      "url": "https://open.spotify.com/track/0QhoniumuDQIQY46aIebRq"
+      "duration_ms": 212400,
+      "name": "\u00c1guas De Mar\u00e7o",
+      "url": "https://open.spotify.com/track/1zKgDX6cFrdPkNF5Z04snQ"
     },
     {
       "added_at": "2026-05-15 08:18:34",
@@ -1079,42 +1159,6 @@
     {
       "added_at": "2026-05-15 08:18:34",
       "album": {
-        "name": "O Amor, o Sorriso e a Flor",
-        "url": "https://open.spotify.com/album/5OaElNWVFpJLxvu0aBfVS2"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 87666,
-      "name": "Doralice",
-      "url": "https://open.spotify.com/track/1Hy8rhQjCQtscISAE6GmVP"
-    },
-    {
-      "added_at": "2026-05-15 08:18:34",
-      "album": {
-        "name": "Elis & Tom",
-        "url": "https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        },
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "duration_ms": 159506,
-      "name": "Triste",
-      "url": "https://open.spotify.com/track/0w4ufcWQwpRuLjOS1dpxu7"
-    },
-    {
-      "added_at": "2026-05-15 08:18:34",
-      "album": {
         "name": "In Tokyo",
         "url": "https://open.spotify.com/album/4V81DhwAOf9L0M20rbWZDn"
       },
@@ -1127,6 +1171,22 @@
       "duration_ms": 361106,
       "name": "Pra Que Discutir Com Madame? - Live",
       "url": "https://open.spotify.com/track/13VTZ3mO1X6tYFvAwn61aB"
+    },
+    {
+      "added_at": "2026-05-15 08:18:34",
+      "album": {
+        "name": "O Amor, o Sorriso e a Flor",
+        "url": "https://open.spotify.com/album/5OaElNWVFpJLxvu0aBfVS2"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 87666,
+      "name": "Doralice",
+      "url": "https://open.spotify.com/track/1Hy8rhQjCQtscISAE6GmVP"
     },
     {
       "added_at": "2026-05-15 08:18:34",
@@ -1147,22 +1207,6 @@
       "duration_ms": 320520,
       "name": "Dindi - Live",
       "url": "https://open.spotify.com/track/3ZlYRldUJNor2B8ETwhT2I"
-    },
-    {
-      "added_at": "2026-05-15 08:18:34",
-      "album": {
-        "name": "20 Grandes Sucessos De Joao Gilberto",
-        "url": "https://open.spotify.com/album/62NHXk7QVJwXA2mfUFO49h"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 184826,
-      "name": "Sorriu Para Mim",
-      "url": "https://open.spotify.com/track/0x3svf6lgzCE0AUh8Dqk3D"
     },
     {
       "added_at": "2026-05-15 08:18:34",
@@ -1203,66 +1247,22 @@
     {
       "added_at": "2026-05-15 08:18:34",
       "album": {
-        "name": "Ultimate Guitar Classics 1951-1961",
-        "url": "https://open.spotify.com/album/0d03HJwweHFZRzvqzCrito"
+        "name": "Elis & Tom",
+        "url": "https://open.spotify.com/album/1xusjxfHer7CzdlQwjuZWx"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/2A4lgjtLtpM5gnYxMvgM5Y"
-        }
-      ],
-      "duration_ms": 107120,
-      "name": "Medita\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4XUjJAMQ0sYoyOQJZf2AS0"
-    },
-    {
-      "added_at": "2026-05-15 08:18:34",
-      "album": {
-        "name": "Brazil 2",
-        "url": "https://open.spotify.com/album/4cUSNzcj0flfzz7BUlnSAT"
-      },
-      "artists": [
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        },
         {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
         }
       ],
-      "duration_ms": 184840,
-      "name": "Ela e Carioca",
-      "url": "https://open.spotify.com/track/6zPpAkAQQ4GDvUEtd4wiG7"
-    },
-    {
-      "added_at": "2026-05-15 08:18:34",
-      "album": {
-        "name": "Bossa Nova Essentials",
-        "url": "https://open.spotify.com/album/2hVlKPHcnN1xpdnIQOfTfi"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/2A4lgjtLtpM5gnYxMvgM5Y"
-        }
-      ],
-      "duration_ms": 122866,
-      "name": "O pato",
-      "url": "https://open.spotify.com/track/6u6E9DZgzyyo1oFofn7zIs"
-    },
-    {
-      "added_at": "2026-05-15 08:18:34",
-      "album": {
-        "name": "Summer Samba! - Jo\u00e3o Gilberto",
-        "url": "https://open.spotify.com/album/4pUsMoa4fayB4dCGpNrVLc"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 136066,
-      "name": "De Conversa Em Conversa",
-      "url": "https://open.spotify.com/track/61hcUAElBx2rcOCoaldQNj"
+      "duration_ms": 159506,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/0w4ufcWQwpRuLjOS1dpxu7"
     },
     {
       "added_at": "2026-05-15 08:18:34",

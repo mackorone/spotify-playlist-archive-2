@@ -4,7 +4,7 @@
 
 > 
 
-3,175 songs - 6 day 19 hr 28 min
+3,176 songs - 6 day 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -752,6 +752,7 @@
 | [DR34M$](https://open.spotify.com/track/55EPegD9KficI9lrBqqnwG) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [DR34M$](https://open.spotify.com/album/10M4qb2LIWkOk2dZWWo6os) | 2:36 | 2024-07-11 |  |
 | [DR\_GS](https://open.spotify.com/track/214QUdTBBRQS3yBxkyjVRJ) | [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8) | [FUCK GEARBOX EP](https://open.spotify.com/album/0QUeEnJBfyk3c3BjJc04WV) | 2:00 | 2024-08-11 |  |
 | [Dragonball](https://open.spotify.com/track/1oEsMsV7qFz7VEGCbQpVtt) | [D\-Ceptor](https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L), [Gregor Le Dahl](https://open.spotify.com/artist/4md0Mvy3YEhabnP9fv7Omm) | [Happy Meets Core](https://open.spotify.com/album/47JS6qb7Iv36JbdGp7AEAV) | 3:26 | 2025-09-08 |  |
+| [DRAMA!](https://open.spotify.com/track/0Rvut0gVpry8wvPjvJxwMl) | [Xelerate](https://open.spotify.com/artist/0gPwvAURbtqpxkdMWh3iko), [Krause](https://open.spotify.com/artist/6P4IBgSaCo8hhyP7IeTsSa) | [DRAMA!](https://open.spotify.com/album/0WBiOqZAD2LfP5C2AWGJbu) | 2:21 | 2026-08-07 |  |
 | [Dream](https://open.spotify.com/track/4UmUmJqQK3tPUEX3gEbIPF) | [Serzo](https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6) | [Dream](https://open.spotify.com/album/5umZsTreEdNKVhEHLncTGy) | 2:55 | 2024-09-20 |  |
 | [Dream \- Radio Edit](https://open.spotify.com/track/3IXcb2qb7vzw7jKXNCvjvD) | [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk), [Billx](https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB) | [Dream \(Radio Edit\)](https://open.spotify.com/album/44EzHdklZrj2cXIVa9RY4O) | 3:20 | 2024-11-03 |  |
 | [Dream Girl 2025](https://open.spotify.com/track/1fWKpE1xcfkh4Y9fxa3Iix) | [Dj Skyebox](https://open.spotify.com/artist/7u30ToRqptqpBuCr1Ab2Rh), [RiggL3](https://open.spotify.com/artist/4yPGJ87iuJ2VLN6MeZN2Hp), [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [Dream Girl 2025](https://open.spotify.com/album/5zliXELyaDe3niGP513lOF) | 3:20 | 2025-04-18 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e23\u0e27\u0e21\u0e17\u0e38\u0e01\u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e32\u0e01\u0e25\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: JENNIE",
+  "description": "\u0e23\u0e27\u0e21\u0e17\u0e38\u0e01\u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e32\u0e01\u0e25\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: FLO",
   "name": "\u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c \u0e2d\u0e34\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c Inner Inter",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 217069,
       "name": "4 Seasons",
       "url": "https://open.spotify.com/track/2IGJRTV2O1ICf6V0Y2Ku8v"
@@ -2018,7 +2018,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 151438,
       "name": "Camera",
       "url": "https://open.spotify.com/track/1C95XJLGL9xyMlsES1uVDQ"
@@ -2562,6 +2562,24 @@
       "duration_ms": 224136,
       "name": "Cry For Me",
       "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI"
+    },
+    {
+      "album": {
+        "name": "THERAPY AT THE CLUB",
+        "url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159700,
+      "name": "Cry Ugly",
+      "url": "https://open.spotify.com/track/61p1mfca6giD6MP75hEu5m"
     },
     {
       "album": {
@@ -3124,6 +3142,24 @@
       "duration_ms": 210048,
       "name": "Don't Say That",
       "url": "https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Leave Me on the Dance Floor",
+        "url": "https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192520,
+      "name": "Don\u2019t Leave Me on the Dance Floor",
+      "url": "https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3"
     },
     {
       "album": {
@@ -5167,6 +5203,24 @@
     },
     {
       "album": {
+        "name": "Chuck Timely & The Hourglass",
+        "url": "https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261427,
+      "name": "Harmony",
+      "url": "https://open.spotify.com/track/57a0usyQgVXthMoFZotx85"
+    },
+    {
+      "album": {
         "name": "hate that i made you love me",
         "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
       },
@@ -6150,7 +6204,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 197032,
       "name": "i deserve better.",
       "url": "https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P"
@@ -6486,6 +6540,24 @@
       "duration_ms": 207380,
       "name": "Imaginary Playerz",
       "url": "https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt"
+    },
+    {
+      "album": {
+        "name": "Blue Island",
+        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "In & Out",
+      "url": "https://open.spotify.com/track/6KLLoGHAIYPfNYfRo4U1Ql"
     },
     {
       "album": {
@@ -7870,7 +7942,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 204763,
       "name": "loving you is",
       "url": "https://open.spotify.com/track/7KbwHZgHU3aBGbAVQ7mbzM"
@@ -9240,7 +9312,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 212534,
       "name": "Oh Mother",
       "url": "https://open.spotify.com/track/75XBJLey4l5zwRIAk3LAWl"
@@ -10381,6 +10453,24 @@
     },
     {
       "album": {
+        "name": "Ravers",
+        "url": "https://open.spotify.com/album/4jLIjmfkRz1jIZinv6BtFU"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206272,
+      "name": "Ravers",
+      "url": "https://open.spotify.com/track/5oVbId7tF4pAwQYN9t4v0B"
+    },
+    {
+      "album": {
         "name": ".",
         "url": "https://open.spotify.com/album/0kjnLvCvaGwRDJ53kvdqi9"
       },
@@ -10410,7 +10500,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 128000,
       "name": "Remedied",
       "url": "https://open.spotify.com/track/3tu3WIgcHYck8A7csEKyUM"
@@ -10484,6 +10574,24 @@
       "duration_ms": 235705,
       "name": "Reputation (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"
+    },
+    {
+      "album": {
+        "name": "RESCUER",
+        "url": "https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199166,
+      "name": "RESCUER",
+      "url": "https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye"
     },
     {
       "album": {
@@ -12029,6 +12137,28 @@
     },
     {
       "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220600,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF"
+    },
+    {
+      "album": {
         "name": "Still Bad",
         "url": "https://open.spotify.com/album/3DwhFPQWTCMMTbllQrAIpL"
       },
@@ -12700,7 +12830,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 193350,
       "name": "Talk To Me, Zara",
       "url": "https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk"
@@ -12900,7 +13030,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 176876,
       "name": "THAT GIRL",
       "url": "https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF"
@@ -14582,6 +14712,24 @@
       "duration_ms": 145398,
       "name": "When Did You Get Hot?",
       "url": "https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl"
+    },
+    {
+      "album": {
+        "name": "When He\u2019s Gone",
+        "url": "https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186360,
+      "name": "When He\u2019s Gone",
+      "url": "https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz"
     },
     {
       "album": {

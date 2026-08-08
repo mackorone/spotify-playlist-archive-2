@@ -61405,6 +61405,24 @@
     },
     {
       "album": {
+        "name": "THIS & THAT",
+        "url": "https://open.spotify.com/album/0VDVnZhY399q6sIrdyjZWj"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "This & That",
+      "url": "https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP"
+    },
+    {
+      "album": {
         "name": "This is the Killer Speaking",
         "url": "https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn"
       },

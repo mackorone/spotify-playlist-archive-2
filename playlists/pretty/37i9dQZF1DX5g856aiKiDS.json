@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 518709,
+  "num_followers": 518716,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANijBi3M/6a0xxjsQkBiKCOc37xO",
+  "snapshot_id": "AAAAANQLXIh577RxPxJEyAVJcDui5UtU",
   "tracks": [
     {
       "added_at": "2026-07-22 05:58:48",
@@ -499,26 +499,6 @@
     {
       "added_at": "2026-07-03 07:19:50",
       "album": {
-        "name": "Dear.J",
-        "url": "https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Dear.J (Feat. Jay Park)",
-      "url": "https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi"
-    },
-    {
-      "added_at": "2026-07-03 07:19:50",
-      "album": {
         "name": "ZZZ",
         "url": "https://open.spotify.com/album/3jXVfwnqhI1wBwC2U416Ya"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 202342,
       "name": "\uba4b\uc9c0\uac8c \uc778\uc0ac\ud558\ub294 \ubc95 (Hello Tutorial) (Feat. \uc2ac\uae30 (SEULGI) of Red Velvet)",
       "url": "https://open.spotify.com/track/36UcoqH2P24RtSGbLKLK3w"
+    },
+    {
+      "added_at": "2026-07-03 07:19:50",
+      "album": {
+        "name": "Dear.J",
+        "url": "https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Dear.J (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi"
     },
     {
       "added_at": "2026-07-03 07:19:50",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-07-03 07:19:50",
       "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "I'm Fine",
+      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
+    },
+    {
+      "added_at": "2026-07-03 07:19:50",
+      "album": {
         "name": "Lovey Dovey",
         "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 219093,
       "name": "Lovey Dovey (Feat. meenoi)",
       "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
-    },
-    {
-      "added_at": "2026-07-03 07:19:50",
-      "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "I'm Fine",
-      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
     },
     {
       "added_at": "2026-07-03 07:19:50",
@@ -735,26 +735,6 @@
     {
       "added_at": "2026-07-03 07:19:50",
       "album": {
-        "name": "doodle",
-        "url": "https://open.spotify.com/album/4ASTYYT0psxkyK3Y52oWfV"
-      },
-      "artists": [
-        {
-          "name": "punchnello",
-          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
-        },
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 187480,
-      "name": "doodle (Feat. Yerin Baek) (Prod. by WOOGIE)",
-      "url": "https://open.spotify.com/track/4WiZMFJos3BUHSieP9cHTM"
-    },
-    {
-      "added_at": "2026-07-03 07:19:50",
-      "album": {
         "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 202173,
       "name": "Luv Luv Luv",
       "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
+    },
+    {
+      "added_at": "2026-07-03 07:19:50",
+      "album": {
+        "name": "doodle",
+        "url": "https://open.spotify.com/album/4ASTYYT0psxkyK3Y52oWfV"
+      },
+      "artists": [
+        {
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        },
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 187480,
+      "name": "doodle (Feat. Yerin Baek) (Prod. by WOOGIE)",
+      "url": "https://open.spotify.com/track/4WiZMFJos3BUHSieP9cHTM"
     },
     {
       "added_at": "2026-07-03 07:19:50",

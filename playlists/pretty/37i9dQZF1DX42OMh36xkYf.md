@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con BALTHVS en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,234 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,241 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 | 50 | [Teresa](https://open.spotify.com/track/4cgEbCOaaN0nzhAZvJinb8) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Teresa](https://open.spotify.com/album/2g4WfH84dp88AXNqaY9jaw) | 3:34 |
 | 51 | [tiempo pasa](https://open.spotify.com/track/4q0E9LdUvQdNR2bSm3kkIV) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV) | [VERANO SAUDADE](https://open.spotify.com/album/4NiMrAqxTakrdJi0DNGwFd) | 3:34 |
 
-Snapshot ID: `AAAAABDuu697m9X/MY5O6NI/7hntf2IT`
+Snapshot ID: `AAAAAMdYCxdfkAnhQ1JgADY7uYdjHJpu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Breaking Beattz, ENNE
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,177,656 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,177,535 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 6 | [Let It Drop](https://open.spotify.com/track/570GfmaPCjck0y8IbLmgBn) | [Gabe](https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu), [FatSync](https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U) | [Let It Drop](https://open.spotify.com/album/5fisNLHDre4GmMi2a1AbSS) | 2:40 |
 | 7 | [Follower](https://open.spotify.com/track/6a0ZPLfCfFMf62JVrlnBW2) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj), [Buogo](https://open.spotify.com/artist/5qrsD24E1W2h3LrmvuVu2q) | [Follower](https://open.spotify.com/album/5pqKQdkbhAzNH1VJvzO5t1) | 2:45 |
 | 8 | [VEINS](https://open.spotify.com/track/4VMtE52J98ZoF6tLIHNjJ8) | [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx) | [OVERDRIVE](https://open.spotify.com/album/5042fATwMi4Ca0KRWRpS2A) | 3:45 |
-| 9 | [Viver o Momento \(Feat Emi\)](https://open.spotify.com/track/4EIENQhnAZXROEjfcRqAYW) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [ALL GOOD](https://open.spotify.com/artist/5qwY84ciZLx403sJ6Mra5M) | [Viver o Momento \(Feat Emi\)](https://open.spotify.com/album/4ZlibaPKGHEcjNNIdrJWa6) | 2:20 |
+| 9 | [Viver o Momento \(Feat\. Emi\)](https://open.spotify.com/track/4EIENQhnAZXROEjfcRqAYW) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [ALL GOOD](https://open.spotify.com/artist/5qwY84ciZLx403sJ6Mra5M) | [Viver o Momento \(Feat\. Emi\)](https://open.spotify.com/album/4ZlibaPKGHEcjNNIdrJWa6) | 2:20 |
 | 10 | [Overdrive](https://open.spotify.com/track/2DhLh8MFQLFXiH9rm1Y5Ix) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Overdrive](https://open.spotify.com/album/0a9NVhsLXeEXZlK20zHhzB) | 3:01 |
 | 11 | [Louboutin](https://open.spotify.com/track/4gB2PHBDWqjZV2ynWLqME8) | [bradeazy](https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Louboutin](https://open.spotify.com/album/0JDfPxytFUdxY4swdIHYgI) | 3:11 |
 | 12 | [Vai](https://open.spotify.com/track/5oZm10kAc0uymv7WVqHHwy) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf) | [Vai](https://open.spotify.com/album/2liWJGDubop7rgLY1RrflM) | 2:32 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 79 | [Belong](https://open.spotify.com/track/6blPhUuaJYCg38wUvUjSxB) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Belong](https://open.spotify.com/album/72EZQPxBJuuPJrE1Y84jqZ) | 3:07 |
 | 80 | [Tira a Roupa](https://open.spotify.com/track/5DubE3xyHVLBWsj1fioWpV) | [Mc Jajau](https://open.spotify.com/artist/3xJ3stRn1VTzH0EgGmF4hm), [Sourake](https://open.spotify.com/artist/2dkUO7orPMosap7iOINUte) | [Tira a Roupa](https://open.spotify.com/album/6ItvqzeikfkddhiKOKHfGf) | 3:36 |
 
-Snapshot ID: `AAAAAIq12cBq1J8qe8RK1Y/CuG8VtWta`
+Snapshot ID: `AAAAALLQYOnj31SKqx/9byqFWJ+cz7ws`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 
 > put it on and let it play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,251,820 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,251,767 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 68 | [Real Thing](https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Real Thing](https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv) | 3:25 |
 | 69 | [Call On Me](https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Call On Me](https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu) | 2:49 |
 | 70 | [Lonely Fight](https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Lonely Fight](https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW) | 3:49 |
-| 71 | [Phantom](https://open.spotify.com/track/5A6xiYvuRA76qdjr5fjjGw) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Guitar](https://open.spotify.com/album/2T7O7QJnesN3l3iPX1NAZY) | 1:50 |
-| 72 | [My Fun](https://open.spotify.com/track/306xT15GTuDs3NyopIANrh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [My Fun](https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob) | 2:42 |
+| 71 | [My Fun](https://open.spotify.com/track/306xT15GTuDs3NyopIANrh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [My Fun](https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob) | 2:42 |
+| 72 | [Phantom](https://open.spotify.com/track/5A6xiYvuRA76qdjr5fjjGw) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Guitar](https://open.spotify.com/album/2T7O7QJnesN3l3iPX1NAZY) | 1:50 |
 | 73 | [You Don't Know The Shape I'm In](https://open.spotify.com/track/1ZBQPkEYHOv3LfgU6v0h0S) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:36 |
 | 74 | [Magic Number \(魔法数字\)](https://open.spotify.com/track/6pB4kJ4eRa0sJMUtplqekk) | [Chinese American Bear](https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh) | [Wah!!!](https://open.spotify.com/album/1q1Cf1A3LYKZv9q6B0YTQv) | 3:51 |
 | 75 | [Baby!](https://open.spotify.com/track/6Qgy3ikLFnJsJ7xHL0mayF) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 3:40 |
@@ -91,22 +91,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 81 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 |
 | 82 | [Yellow Eyes](https://open.spotify.com/track/4l3MfSQrxCWfUYUyE2sMy6) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Jean](https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY) | 2:42 |
 | 83 | [Separator](https://open.spotify.com/track/2fV57qob1dYMJKEfTwHOt1) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The King Of Limbs](https://open.spotify.com/album/3P17levwUPzmFfLYdAK3A7) | 5:19 |
-| 84 | [special](https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [special](https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj) | 2:18 |
-| 85 | [Earthstar](https://open.spotify.com/track/0SC0WzJk80snenOopsPzvM) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 4:03 |
+| 84 | [Earthstar](https://open.spotify.com/track/0SC0WzJk80snenOopsPzvM) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 4:03 |
+| 85 | [special](https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [special](https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj) | 2:18 |
 | 86 | [I.L.T.S.](https://open.spotify.com/track/12TB5WLNviUpqLglb8yTXX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [10](https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve) | 3:29 |
 | 87 | [Just A Western \- Boy Harsher Remix](https://open.spotify.com/track/27824hvVGxllQecjb1dqDg) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA), [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Just A Western \(Boy Harsher Remix\)](https://open.spotify.com/album/77DNkESTu7pZbZjWq3RD9e) | 4:01 |
 | 88 | [Second Sleep](https://open.spotify.com/track/47N21fn8V8IN392MGlicT5) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Second Sleep / Star Eyes](https://open.spotify.com/album/3EdUtcidzDOrmwRn31dfuU) | 4:48 |
 | 89 | [wasted time](https://open.spotify.com/track/6G2LHkJYG4P7HpdMTydvRS) | [proderics](https://open.spotify.com/artist/3VsmiWWtAHSrkgF2forgVI), [melodybloom](https://open.spotify.com/artist/09SHUPzM4RIiUSkQ8stabk) | [wasted time](https://open.spotify.com/album/47SJHB4GCosjpXegm8clQJ) | 2:13 |
-| 90 | [Anticipate](https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Anticipate](https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1) | 3:09 |
-| 91 | [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 |
-| 92 | [Losing Focus](https://open.spotify.com/track/1dfs70eiZmlIo88oDCjodF) | [EXUM](https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0) | [In Russia\. A is a 9](https://open.spotify.com/album/2puthl2ughnGeS7jor8GJU) | 3:29 |
-| 93 | [蓋なしの彼](https://open.spotify.com/track/7MzKmI0Ep4dFRfTeQ9RtpZ) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [Sway](https://open.spotify.com/album/1JNUJFzL4rVRcCD9EhezeH) | 3:50 |
-| 94 | [Afterlife](https://open.spotify.com/track/53NgnwT6xCOxEuVmIBDFpy) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Headlights](https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ) | 3:30 |
-| 95 | [think twice](https://open.spotify.com/track/3K8Dlk2IdXvb3kPDpf8zbU) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [think twice](https://open.spotify.com/album/5ZCaadoasMxcPFsMWeHlye) | 5:27 |
+| 90 | [think twice](https://open.spotify.com/track/3K8Dlk2IdXvb3kPDpf8zbU) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [think twice](https://open.spotify.com/album/5ZCaadoasMxcPFsMWeHlye) | 5:27 |
+| 91 | [Anticipate](https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Anticipate](https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1) | 3:09 |
+| 92 | [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 |
+| 93 | [Losing Focus](https://open.spotify.com/track/1dfs70eiZmlIo88oDCjodF) | [EXUM](https://open.spotify.com/artist/5KJX1Zh0zfHcbwSCk5cPk0) | [In Russia\. A is a 9](https://open.spotify.com/album/2puthl2ughnGeS7jor8GJU) | 3:29 |
+| 94 | [蓋なしの彼](https://open.spotify.com/track/7MzKmI0Ep4dFRfTeQ9RtpZ) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [Sway](https://open.spotify.com/album/1JNUJFzL4rVRcCD9EhezeH) | 3:50 |
+| 95 | [Afterlife](https://open.spotify.com/track/53NgnwT6xCOxEuVmIBDFpy) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Headlights](https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ) | 3:30 |
 | 96 | [Petals](https://open.spotify.com/track/03wsGqokGoNDJNEkkwoaQ3) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Mark William Lewis](https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y) | 2:53 |
 | 97 | [Doc Whiler](https://open.spotify.com/track/2xkib9MAHlGtxJRhIesSAX) | [Alex Banin](https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz) | [Since Winona](https://open.spotify.com/album/7D9vZwRiwIzwEXHzsVutdK) | 2:29 |
 | 98 | [Pale Blue Eyes](https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Pale Blue Eyes](https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D) | 3:09 |
 | 99 | [Caroline](https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Slow Burn](https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb) | 4:06 |
 | 100 | [Besties](https://open.spotify.com/track/4U9ZjqhaGF9wl56899E4sW) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Forever Howlong](https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t) | 3:36 |
 
-Snapshot ID: `AAAAAHZy02N6lM7i/24OIemBVYQx7uG/`
+Snapshot ID: `AAAAAEmfpKp4Ob0krojK1OcIaAUwf/X1`

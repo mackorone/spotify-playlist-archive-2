@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 481700,
+  "num_followers": 481734,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO+e8AbW05tao1LPRtkwIbVfetLq",
+  "snapshot_id": "AAAAAP7rg4kldlaOmp26lbUwtXEHl+GS",
   "tracks": [
     {
       "added_at": "2026-05-08 09:59:25",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Evening Star",
-        "url": "https://open.spotify.com/album/096g5y9CPefSvUd9EhzL65"
-      },
-      "artists": [
-        {
-          "name": "Ron Adelaar",
-          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
-        }
-      ],
-      "duration_ms": 128724,
-      "name": "Evening Star",
-      "url": "https://open.spotify.com/track/5HbLcDxxjtJ0800p6RjoeH"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "Under",
         "url": "https://open.spotify.com/album/0tVEjAfGFPBdtvql2BUHKs"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 159000,
       "name": "Turn",
       "url": "https://open.spotify.com/track/0y7I045qDUH1carkgTB2UG"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Evening Star",
+        "url": "https://open.spotify.com/album/096g5y9CPefSvUd9EhzL65"
+      },
+      "artists": [
+        {
+          "name": "Ron Adelaar",
+          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
+        }
+      ],
+      "duration_ms": 128724,
+      "name": "Evening Star",
+      "url": "https://open.spotify.com/track/5HbLcDxxjtJ0800p6RjoeH"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Come close",
-        "url": "https://open.spotify.com/album/27r1Al7Uf7dtsd4zNCqXb6"
-      },
-      "artists": [
-        {
-          "name": "Korey Banks",
-          "url": "https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Come close",
-      "url": "https://open.spotify.com/track/3ANR14gcrMm6asGMNVhivt"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "To New Beginnings",
         "url": "https://open.spotify.com/album/6NCZQQodsLFgqxVJ5jTbui"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 129250,
       "name": "To New Beginnings",
       "url": "https://open.spotify.com/track/7IrrIzxSk3OO48hW6dpEus"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Come close",
+        "url": "https://open.spotify.com/album/27r1Al7Uf7dtsd4zNCqXb6"
+      },
+      "artists": [
+        {
+          "name": "Korey Banks",
+          "url": "https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "Come close",
+      "url": "https://open.spotify.com/track/3ANR14gcrMm6asGMNVhivt"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Winter Unflorished",
-        "url": "https://open.spotify.com/album/1meKAKWKJYjC4TzeGvgxA8"
-      },
-      "artists": [
-        {
-          "name": "James DiResta",
-          "url": "https://open.spotify.com/artist/3eV4rEEDa28eEDqtKAz99w"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Juniper",
-      "url": "https://open.spotify.com/track/1glbxURPMi2PpcD4AmufxL"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "Tales of an Oak",
         "url": "https://open.spotify.com/album/1kXMFkrXkNYwkldSswlJpb"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 120935,
       "name": "Tales of an Oak",
       "url": "https://open.spotify.com/track/5bCmrU1C14AFNulJ5qMNEw"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Winter Unflorished",
+        "url": "https://open.spotify.com/album/1meKAKWKJYjC4TzeGvgxA8"
+      },
+      "artists": [
+        {
+          "name": "James DiResta",
+          "url": "https://open.spotify.com/artist/3eV4rEEDa28eEDqtKAz99w"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Juniper",
+      "url": "https://open.spotify.com/track/1glbxURPMi2PpcD4AmufxL"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Lisser",
-        "url": "https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8"
-      },
-      "artists": [
-        {
-          "name": "Miran",
-          "url": "https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q"
-        }
-      ],
-      "duration_ms": 125041,
-      "name": "Lisser",
-      "url": "https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "V\u010deraj",
         "url": "https://open.spotify.com/album/5gR375qQkGA51v1fB4euT9"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 125500,
       "name": "V\u010deraj",
       "url": "https://open.spotify.com/track/6o71Foef4Jf2LMFnHuvQo4"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Lisser",
+        "url": "https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8"
+      },
+      "artists": [
+        {
+          "name": "Miran",
+          "url": "https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q"
+        }
+      ],
+      "duration_ms": 125041,
+      "name": "Lisser",
+      "url": "https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld"
     },
     {
       "added_at": "2026-05-08 09:59:25",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-05-08 09:59:25",
       "album": {
-        "name": "Luce",
-        "url": "https://open.spotify.com/album/00EHlFdUT07StJKAk4al8H"
-      },
-      "artists": [
-        {
-          "name": "Nascondiglio",
-          "url": "https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK"
-        }
-      ],
-      "duration_ms": 130403,
-      "name": "Luce",
-      "url": "https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1"
-    },
-    {
-      "added_at": "2026-05-08 09:59:25",
-      "album": {
         "name": "Passeggiata Serale",
         "url": "https://open.spotify.com/album/7HJ5djt5vdO9xH8B9XJKNS"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 132930,
       "name": "Passeggiata Serale",
       "url": "https://open.spotify.com/track/6cq7PaFrHOyOVzNyFBTCoX"
+    },
+    {
+      "added_at": "2026-05-08 09:59:25",
+      "album": {
+        "name": "Luce",
+        "url": "https://open.spotify.com/album/00EHlFdUT07StJKAk4al8H"
+      },
+      "artists": [
+        {
+          "name": "Nascondiglio",
+          "url": "https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK"
+        }
+      ],
+      "duration_ms": 130403,
+      "name": "Luce",
+      "url": "https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1"
     },
     {
       "added_at": "2026-05-08 09:59:25",

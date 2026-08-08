@@ -1,12 +1,12 @@
 {
   "description": "we choose the bear",
-  "num_followers": 854378,
+  "num_followers": 854846,
   "original_name": "crash out",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAS9jbuBDCl2l7yBwvz7OX2qL2rh",
+  "snapshot_id": "AAAAAOTseYEsJ7LrRT4Z5eC7Xp1lsu0i",
   "tracks": [
     {
       "added_at": "2026-02-12 20:32:44",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2026-02-12 20:32:44",
       "album": {
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 344692,
+      "name": "I Know The End",
+      "url": "https://open.spotify.com/track/0pJW1Xw3aY4Eh6k5iuBkfI"
+    },
+    {
+      "added_at": "2026-02-12 20:32:44",
+      "album": {
         "name": "Dark Sky Paradise",
         "url": "https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 284386,
       "name": "I Don't Fuck With You",
       "url": "https://open.spotify.com/track/7FYH5AW3bVfZHJIQpq3UOA"
-    },
-    {
-      "added_at": "2026-02-12 20:32:44",
-      "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 344692,
-      "name": "I Know The End",
-      "url": "https://open.spotify.com/track/0pJW1Xw3aY4Eh6k5iuBkfI"
     },
     {
       "added_at": "2026-02-12 20:32:44",

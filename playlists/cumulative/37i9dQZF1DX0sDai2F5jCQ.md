@@ -4,7 +4,7 @@
 
 > Your shortcut to the best new Hip Hop\. Cover: Lil Baby
 
-895 songs - 1 day 19 hr 5 min
+896 songs - 1 day 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -723,6 +723,7 @@
 | [Sorrys & Ferraris](https://open.spotify.com/track/0tCqfQ0MHZBYvsZ169ZnUM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Sorrys & Ferraris](https://open.spotify.com/album/3FwxCY9GJsTQjFPZ8NeRfT) | 2:47 | 2024-02-15 | 2024-05-03 |
 | [SOUTH OF FRANCE \- REMIX](https://open.spotify.com/track/2C11qhXSCvVzGogwOTP6aZ) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SOUTH OF FRANCE \(REMIX\)](https://open.spotify.com/album/4owFc3Y0ot577RaREh58FR) | 3:03 | 2024-11-07 | 2025-03-21 |
 | [SOUTHSIDE DILLA](https://open.spotify.com/track/4ypmJ7f8TGY4cZzYn3YVyP) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [SOUTHSIDE DILLA](https://open.spotify.com/album/0GfTdUYEfSFuJ3Stc3LZQl) | 2:09 | 2023-10-12 | 2024-02-16 |
+| [SPAZZZ](https://open.spotify.com/track/2gTKgf5amk8BvHY5VSd9GS) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [SPAZZZ](https://open.spotify.com/album/6F0OQcX9dLeQwFQ5NLpTNK) | 3:16 | 2026-08-07 |  |
 | [SPINNIN](https://open.spotify.com/track/6V6RQJ85Xx7ebMGamKv4X3) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [SPINNIN](https://open.spotify.com/album/1WaI5fFcXcClzvxJETzCk1) | 2:41 | 2024-11-14 | 2025-01-17 |
 | [Spinnin \(feat\. Nemzzz\) \- Segway Remix](https://open.spotify.com/track/5H7JrQsT47tMwNFiPLSnEi) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Segway](https://open.spotify.com/artist/7emE9DFe8qmCjk4Od7Ruak) | [SPINNIN \(Segway Remix\)](https://open.spotify.com/album/30fTwlAHWOXQD3xjykulWu) | 2:42 | 2025-01-09 | 2025-07-18 |
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-09-22 | 2024-01-05 |

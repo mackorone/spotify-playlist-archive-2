@@ -4,7 +4,7 @@
 
 > Where jazz meets classical, and classical meets jazz.
 
-157 songs - 12 hr 45 min
+158 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Libra](https://open.spotify.com/track/2dEimLdpOJLBDPHJqSTWvy) | [Aaron Diehl](https://open.spotify.com/artist/2FnwobtceU4Gt0REt02z2W), [The Knights](https://open.spotify.com/artist/3pZzcGCvhNTv3yoWmrXGNm) | [Zodiac Suite](https://open.spotify.com/album/6xMuaOboivwaqgRZnJ6DYg) | 3:54 | 2023-09-29 |  |
 | [Marzamemi](https://open.spotify.com/track/5ziXsLz1pXCBbvdzUvlNRx) | [Michel Bisceglia](https://open.spotify.com/artist/5wKMe0NPv5nsl5dYRnCkiC), [Marc Lehan](https://open.spotify.com/artist/0QMgOp0gF1fxA5egCXg96G), [Werner Lauscher](https://open.spotify.com/artist/2C1BWNF1DxuGqLifFqyh4U) | [Marzamemi](https://open.spotify.com/album/3DAQwOi0le2C5l9RgbCiry) | 6:15 | 2023-02-03 |  |
 | [Mazurka No\. 1](https://open.spotify.com/track/0smHgnEPwiaUbeITveQEcg) | [European Jazz Trio](https://open.spotify.com/artist/4LTaFNJmsKqNvxGVhOVBXI) | [Classics](https://open.spotify.com/album/2Jsl2o6t5fxE90CTunCX91) | 4:14 | 2021-12-02 |  |
+| [Memorable Stories](https://open.spotify.com/track/1TDQL3Y4rQhQvBdNH2YP0Q) | [Kjetil Mulelid](https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy) | [Piano, Unfolding](https://open.spotify.com/album/04cqGQgC7bi2IZVLTrRrSj) | 3:55 | 2026-08-07 |  |
 | [Monk's Mood](https://open.spotify.com/track/1k2iHRgO44gs0q86FKbl8K) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN), [Kristin Lee](https://open.spotify.com/artist/52BaQ1gjSLQ7tFKGsWU17N), [Jeremy Ajani Jordan](https://open.spotify.com/artist/1cV3QHppPqrQUiFAjUtgvi) | [MONK: Monk's Mood](https://open.spotify.com/album/5m2I8DfAqBNBKR1mSoDGef) | 5:09 | 2024-11-15 |  |
 | [MONTREUX PALACE](https://open.spotify.com/track/1eeW0hCupU2nC63gPbWJpJ) | [Ferdi](https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [TAKE 01](https://open.spotify.com/album/0wsjLI8ESlTLN9k53M5YmA) | 2:42 | 2024-12-13 |  |
 | [Moonlight Sonata](https://open.spotify.com/track/0yERcLFHXV0kbdZZktZMqZ) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Classical Jazz: Swingin' Jazz Interpretations of the Classics](https://open.spotify.com/album/5eiHbQCWmPTa9IqO8A3Xsn) | 6:45 | 2022-07-07 | 2024-04-19 |

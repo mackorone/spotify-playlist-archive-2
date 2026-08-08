@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOWNF37qPshiPHsnYGHLYH2uwamj",
+  "snapshot_id": "AAAAAO/RZZErM8yxFTSLLri3JgchGmvZ",
   "tracks": [
     {
       "added_at": "2022-04-13 07:42:19",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-04-13 07:42:19",
       "album": {
-        "name": "Your tender heart hurts me (From \"soundtrack#1\" [Original Soundtrack])",
-        "url": "https://open.spotify.com/album/0nYKIodS7tmti2YiFUlRS5"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 220400,
-      "name": "Your tender heart hurts me - Instrumental",
-      "url": "https://open.spotify.com/track/6Dbk8sNFxJDAVdvNBAvYkZ"
-    },
-    {
-      "added_at": "2022-04-13 07:42:19",
-      "album": {
         "name": "Love Love Love (From \"soundtrack#1\" [Original Soundtrack])",
         "url": "https://open.spotify.com/album/6b0RI9sLF9braqpMYCVQwm"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 196680,
       "name": "Love Love Love - Instrumental",
       "url": "https://open.spotify.com/track/0WbkukjmHQ3Y0PClLU1fAP"
+    },
+    {
+      "added_at": "2022-04-13 07:42:19",
+      "album": {
+        "name": "Your tender heart hurts me (From \"soundtrack#1\" [Original Soundtrack])",
+        "url": "https://open.spotify.com/album/0nYKIodS7tmti2YiFUlRS5"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 220400,
+      "name": "Your tender heart hurts me - Instrumental",
+      "url": "https://open.spotify.com/track/6Dbk8sNFxJDAVdvNBAvYkZ"
     },
     {
       "added_at": "2022-04-13 07:42:19",

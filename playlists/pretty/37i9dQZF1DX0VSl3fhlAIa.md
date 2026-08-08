@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 
 > Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,008 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,032 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 | 34 | [the Sound of Carnival](https://open.spotify.com/track/31d4AsUA23WddpidqaWsVh) | [Toshinobu Kubota](https://open.spotify.com/artist/45JvI0rkPkFFL14Cj0eput) | [As One](https://open.spotify.com/album/0g0RRKsclwRPg2rCjfbFIS) | 4:43 |
 | 35 | [Shake \- \(Original\)](https://open.spotify.com/track/2i2dlGChzEtkAOB5RSP8gd) | [Double](https://open.spotify.com/artist/17R4EPcqqyTa84kesDmNGq) | [Crystal](https://open.spotify.com/album/3QFHFLCxtePvkDaObgDCgc) | 5:31 |
 | 36 | [FAKE](https://open.spotify.com/track/3PUfI9Tprsqla2pk5moQqL) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [Namie Amuro](https://open.spotify.com/artist/4BmWSGKG6HiYvLuJvZ9afa) | [FAKE feat． 安室奈美恵](https://open.spotify.com/album/7sy3It4biBMzVzmZdlgK9U) | 4:15 |
-| 37 | [緩りらら](https://open.spotify.com/track/6riSc8FTUeqwFvClmN6M73) | [笠原瑠斗](https://open.spotify.com/artist/7r93kNe7B9HyEXuLvbjXIr) | [緩りらら](https://open.spotify.com/album/1CJAwiWiBFKgxbkxNhHzLv) | 4:00 |
-| 38 | [Slow brew morning](https://open.spotify.com/track/3cTHSRJq34IYP3uadM3UGb) | [佐久間龍星](https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm) | [Slow brew morning](https://open.spotify.com/album/6HfItavipVgNp1zCSbpBrv) | 2:42 |
+| 37 | [Slow brew morning](https://open.spotify.com/track/3cTHSRJq34IYP3uadM3UGb) | [佐久間龍星](https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm) | [Slow brew morning](https://open.spotify.com/album/6HfItavipVgNp1zCSbpBrv) | 2:42 |
+| 38 | [緩りらら](https://open.spotify.com/track/6riSc8FTUeqwFvClmN6M73) | [笠原瑠斗](https://open.spotify.com/artist/7r93kNe7B9HyEXuLvbjXIr) | [緩りらら](https://open.spotify.com/album/1CJAwiWiBFKgxbkxNhHzLv) | 4:00 |
 | 39 | [14](https://open.spotify.com/track/4J7SimjJzZWLM6XFhsWNT3) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Born Again](https://open.spotify.com/album/3SPLOZJ6DtS8CsRDx8tDVc) | 3:21 |
 | 40 | [Changes](https://open.spotify.com/track/7FkCColdGXYdkLZf7HbjK5) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Changes](https://open.spotify.com/album/5qHPDhMOkATOEzV2JSG20B) | 4:24 |
 | 41 | [B & C](https://open.spotify.com/track/7zzJVfJqdB2mjNCXRyNCvT) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Movin' on without you](https://open.spotify.com/album/5WjRwt4fHDlU9EzxhowFkS) | 4:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 | 49 | [BED \(DOUBLES\)](https://open.spotify.com/track/5AhAbUiIlGP6Cp4Lq6rigR) | [Double](https://open.spotify.com/artist/17R4EPcqqyTa84kesDmNGq) | [Crystal](https://open.spotify.com/album/3QFHFLCxtePvkDaObgDCgc) | 5:21 |
 | 50 | [Burn](https://open.spotify.com/track/2QQDuGzMpNX0hfMCZLqXGP) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [NICO](https://open.spotify.com/album/7hEUaGpVKEw5HA5XLCVj2U) | 2:49 |
 
-Snapshot ID: `AAAAAJnmTIK593+MjVgrXWqJ4NB72vey`
+Snapshot ID: `AAAAAJcWtU9qv2GSiqfYys5TfRq319qp`

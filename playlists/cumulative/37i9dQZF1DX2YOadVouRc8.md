@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-807 songs - 1 day 14 hr 59 min
+808 songs - 1 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,7 +519,7 @@
 | [Osu Riddim](https://open.spotify.com/track/6ERFpGobKqOTMruIRXx280) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Sounds of My World \(Deluxe\)](https://open.spotify.com/album/3enpMKYHm54sPooLM6heYY) | 4:36 | 2022-08-12 | 2023-03-18 |
 | [Outside](https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Outside](https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY) | 3:25 | 2023-09-09 | 2023-09-29 |
 | [Outside](https://open.spotify.com/track/5UjqwNltfuqLYxeJNE6SVb) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih) | [Outside](https://open.spotify.com/album/4xNpDdlEFDGElKTwIW5fBA) | 2:56 | 2025-01-31 | 2025-07-05 |
-| [Ouu wee \(brown\)](https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Ouu wee \(brown\)](https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl) | 2:46 | 2024-09-30 |  |
+| [Ouu wee \(brown\)](https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Ouu wee \(brown\)](https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl) | 2:46 | 2024-09-30 | 2026-08-08 |
 | [Over](https://open.spotify.com/track/1gMaklshAS3EUz2uhqfx8H) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [In Her Thoughts](https://open.spotify.com/album/7eXEtX7iQ1oJ9Ngs7xYMkx) | 3:13 | 2024-06-21 | 2024-07-06 |
 | [OVER U](https://open.spotify.com/track/3NuOLmaGz1MPCFFmX6zdef) | [OOSHA](https://open.spotify.com/artist/6OhHuHGJe5YfFNsaoIAWZm) | [OVER U](https://open.spotify.com/album/0MiAhc6LyVv2S85AMHlYPm) | 2:36 | 2023-11-24 | 2023-12-02 |
 | [Painless Melody](https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Painless Melody](https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2) | 3:05 | 2024-10-12 | 2026-03-20 |
@@ -703,6 +703,7 @@
 | [Tested, Approved & Trusted](https://open.spotify.com/track/05A6mr7C2bP7uPrEQrj9qk) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/51r39Gm18d7yIS3PC1QD8B) | 3:40 | 2023-10-20 | 2024-04-19 |
 | [Tested, Approved & Trusted](https://open.spotify.com/track/6Z7X86HZWODk0KPVmOsCKR) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH) | 3:40 | 2024-04-19 | 2024-11-22 |
 | [Thang For You \(feat\. NoCap\)](https://open.spotify.com/track/39fKVWP7D9qAmkM8qjRQoC) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Been One](https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa) | 4:19 | 2023-08-03 | 2023-10-27 |
+| [THAT GIRL!](https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [THAT GIRL!](https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d) | 2:12 | 2026-08-07 |  |
 | [That's Alright](https://open.spotify.com/track/2mJ1Ll9RgQt6k51gg4Ed0k) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [That's Alright](https://open.spotify.com/album/3qCmnvvPTCS7YjQ8c21BhJ) | 3:52 | 2022-07-28 | 2023-12-15 |
 | [THE PLEASURE PRINCIPLE](https://open.spotify.com/track/2Mi6xZwRYDe9RLVpeFtpgX) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r) | [ULTRALIGHT](https://open.spotify.com/album/555u9I3MowqYOghGFSAR7U) | 4:08 | 2023-04-20 | 2023-05-05 |
 | [Things Fall in Place](https://open.spotify.com/track/4RT366Y6r8XCbPUfAz0MpA) | [MiDi KwaKwa](https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Things Fall in Place](https://open.spotify.com/album/2IyQg1ciZnyD6LMoYOea8Q) | 3:49 | 2022-08-12 | 2022-11-04 |

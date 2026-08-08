@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume! August ambassador: <a href=\"spotify:artist:2sGGaKKex7GgNlH1DRXZSa\">Inez</a>",
-  "num_followers": 14348,
+  "num_followers": 14357,
   "original_name": "EQUAL Benelux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPV6ZR0t6aJHTbH5MJ4zi+oO31xn",
+  "snapshot_id": "AAAAAJZcrdOjZVOUlTVYqYXyYNU3nx1Z",
   "tracks": [
     {
       "added_at": "2026-08-04 22:00:19",
@@ -167,22 +167,6 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "Ik Wou Dat Ik Jou Was",
-        "url": "https://open.spotify.com/album/75uyPFs1xFcE11CviRMV7S"
-      },
-      "artists": [
-        {
-          "name": "Froukje",
-          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
-        }
-      ],
-      "duration_ms": 167266,
-      "name": "Ik Wou Dat Ik Jou Was",
-      "url": "https://open.spotify.com/track/1zsJSTm6wlqdRMRl4dbvGg"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
         "name": "Call For Change",
         "url": "https://open.spotify.com/album/0iVuaj5BrkdvcgTUsDaQXw"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 209590,
       "name": "Call for Change",
       "url": "https://open.spotify.com/track/4oLrikt1RciSZOSttW7Z65"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
+        "name": "Ik Wou Dat Ik Jou Was",
+        "url": "https://open.spotify.com/album/75uyPFs1xFcE11CviRMV7S"
+      },
+      "artists": [
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        }
+      ],
+      "duration_ms": 167266,
+      "name": "Ik Wou Dat Ik Jou Was",
+      "url": "https://open.spotify.com/track/1zsJSTm6wlqdRMRl4dbvGg"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -287,6 +287,22 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
+        "name": "Oh My God!",
+        "url": "https://open.spotify.com/album/6gXekwtfJOL3UeP7poBJSs"
+      },
+      "artists": [
+        {
+          "name": "ROND\u00c9",
+          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
+        }
+      ],
+      "duration_ms": 171114,
+      "name": "Oh My God!",
+      "url": "https://open.spotify.com/track/75vYTe8ZVGXSBP2lf6464G"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/0eaSt2o3LGF2Tq2Qf3n6Vg"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 135600,
       "name": "Azul",
       "url": "https://open.spotify.com/track/1RVDBgkhBgn3GxVTt8FNMV"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
-        "name": "Oh My God!",
-        "url": "https://open.spotify.com/album/6gXekwtfJOL3UeP7poBJSs"
-      },
-      "artists": [
-        {
-          "name": "ROND\u00c9",
-          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
-        }
-      ],
-      "duration_ms": 171114,
-      "name": "Oh My God!",
-      "url": "https://open.spotify.com/track/75vYTe8ZVGXSBP2lf6464G"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "Ik Red Me Wel!",
-        "url": "https://open.spotify.com/album/3atu19R7DPog7y5meKTjnr"
-      },
-      "artists": [
-        {
-          "name": "Charelle",
-          "url": "https://open.spotify.com/artist/4Jipfp3lXzbLWtJrzVPJqG"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Ik Red Me Wel!",
-      "url": "https://open.spotify.com/track/0pC5LjrwyFE54NWd6tSnx2"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
         "name": "Girls Who Like Girls",
         "url": "https://open.spotify.com/album/7iEKXRe2DGyAPk9dbFz66P"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 158232,
       "name": "Girls Who Like Girls",
       "url": "https://open.spotify.com/track/0fvct6cWXX1X1h8CNgLfNz"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
+        "name": "Ik Red Me Wel!",
+        "url": "https://open.spotify.com/album/3atu19R7DPog7y5meKTjnr"
+      },
+      "artists": [
+        {
+          "name": "Charelle",
+          "url": "https://open.spotify.com/artist/4Jipfp3lXzbLWtJrzVPJqG"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Ik Red Me Wel!",
+      "url": "https://open.spotify.com/track/0pC5LjrwyFE54NWd6tSnx2"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/00wO5edPzxpaDAgQY37RoQ"
+      },
+      "artists": [
+        {
+          "name": "SABRI",
+          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
+        }
+      ],
+      "duration_ms": 173904,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1RXW31o9gvK3bBvIcreHFF"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
         "name": "The Guy Bangs",
         "url": "https://open.spotify.com/album/3tdVX17x8s67uIZxxIZQ0T"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 238659,
       "name": "The Guy Bangs",
       "url": "https://open.spotify.com/track/4gLZNTqgvZ9Om5mpUGISFc"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
-        "name": "Caracol",
-        "url": "https://open.spotify.com/album/2Kie6xh7kO8piNoLYIepz8"
-      },
-      "artists": [
-        {
-          "name": "Alina Pozi",
-          "url": "https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY"
-        }
-      ],
-      "duration_ms": 177049,
-      "name": "Caracol",
-      "url": "https://open.spotify.com/track/0OoVX3AdicKdF7DSbITI3Q"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -695,50 +695,18 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/00wO5edPzxpaDAgQY37RoQ"
+        "name": "Caracol",
+        "url": "https://open.spotify.com/album/2Kie6xh7kO8piNoLYIepz8"
       },
       "artists": [
         {
-          "name": "SABRI",
-          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
+          "name": "Alina Pozi",
+          "url": "https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY"
         }
       ],
-      "duration_ms": 173904,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/1RXW31o9gvK3bBvIcreHFF"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
-        "name": "Back voor je needs",
-        "url": "https://open.spotify.com/album/5BdDqKGlJrCmuQP4LohGJD"
-      },
-      "artists": [
-        {
-          "name": "NOELL3",
-          "url": "https://open.spotify.com/artist/2MCk3BEEbEX4OAdyHjuqdB"
-        }
-      ],
-      "duration_ms": 112447,
-      "name": "Back voor je needs",
-      "url": "https://open.spotify.com/track/6x2Wbp92mZPqCrt6ZQ0ELi"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
-        "name": "The Gardener",
-        "url": "https://open.spotify.com/album/3wbp4Nw28ud1SHHTUURh8E"
-      },
-      "artists": [
-        {
-          "name": "Jessy Yasmeen",
-          "url": "https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ"
-        }
-      ],
-      "duration_ms": 148970,
-      "name": "The Gardener",
-      "url": "https://open.spotify.com/track/2HpdHFOZqPaxmgbXnwnyCt"
+      "duration_ms": 177049,
+      "name": "Caracol",
+      "url": "https://open.spotify.com/track/0OoVX3AdicKdF7DSbITI3Q"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -775,6 +743,70 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
+        "name": "Back voor je needs",
+        "url": "https://open.spotify.com/album/5BdDqKGlJrCmuQP4LohGJD"
+      },
+      "artists": [
+        {
+          "name": "NOELL3",
+          "url": "https://open.spotify.com/artist/2MCk3BEEbEX4OAdyHjuqdB"
+        }
+      ],
+      "duration_ms": 112447,
+      "name": "Back voor je needs",
+      "url": "https://open.spotify.com/track/6x2Wbp92mZPqCrt6ZQ0ELi"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
+        "name": "The Gardener",
+        "url": "https://open.spotify.com/album/3wbp4Nw28ud1SHHTUURh8E"
+      },
+      "artists": [
+        {
+          "name": "Jessy Yasmeen",
+          "url": "https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ"
+        }
+      ],
+      "duration_ms": 148970,
+      "name": "The Gardener",
+      "url": "https://open.spotify.com/track/2HpdHFOZqPaxmgbXnwnyCt"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
+        "name": "Que Rico",
+        "url": "https://open.spotify.com/album/7JCceKJ3VULoYeqQkhrcng"
+      },
+      "artists": [
+        {
+          "name": "Luna & Lenthe",
+          "url": "https://open.spotify.com/artist/5QNRJW51rDBkAOmrWlXLVg"
+        }
+      ],
+      "duration_ms": 218536,
+      "name": "Que Rico",
+      "url": "https://open.spotify.com/track/5EquLMxMnBX2hSS9SyDooO"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
+        "name": "Love Me (Soul Card Never Declines)",
+        "url": "https://open.spotify.com/album/4zNLKcm2F1Wwazx7QKj2nR"
+      },
+      "artists": [
+        {
+          "name": "Romy Dya",
+          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
+        }
+      ],
+      "duration_ms": 169224,
+      "name": "Love Me (Soul Card Never Declines)",
+      "url": "https://open.spotify.com/track/6d4JIch090xEhhxPfk1Slt"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
         "name": "Fast Paced Society",
         "url": "https://open.spotify.com/album/5R3nVOD8ENM6WTNflnyF8P"
       },
@@ -807,22 +839,6 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "Que Rico",
-        "url": "https://open.spotify.com/album/7JCceKJ3VULoYeqQkhrcng"
-      },
-      "artists": [
-        {
-          "name": "Luna & Lenthe",
-          "url": "https://open.spotify.com/artist/5QNRJW51rDBkAOmrWlXLVg"
-        }
-      ],
-      "duration_ms": 218536,
-      "name": "Que Rico",
-      "url": "https://open.spotify.com/track/5EquLMxMnBX2hSS9SyDooO"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
         "name": "Perception",
         "url": "https://open.spotify.com/album/2lDANQGfYfXQoY44oeLOSC"
       },
@@ -839,34 +855,18 @@
     {
       "added_at": "2026-08-04 22:00:19",
       "album": {
-        "name": "Love Me (Soul Card Never Declines)",
-        "url": "https://open.spotify.com/album/4zNLKcm2F1Wwazx7QKj2nR"
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/2OBeqEMIFo2oqwwa2JxCI5"
       },
       "artists": [
         {
-          "name": "Romy Dya",
-          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
+          "name": "J.A.D.E",
+          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
         }
       ],
-      "duration_ms": 169224,
-      "name": "Love Me (Soul Card Never Declines)",
-      "url": "https://open.spotify.com/track/6d4JIch090xEhhxPfk1Slt"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
-        "name": "Metamorfose",
-        "url": "https://open.spotify.com/album/4G8iMtkUqayoKTSecl9GJL"
-      },
-      "artists": [
-        {
-          "name": "Teddy Fee",
-          "url": "https://open.spotify.com/artist/2iYrOmgElzuk50QIRtJ0qc"
-        }
-      ],
-      "duration_ms": 168927,
-      "name": "Metamorfose",
-      "url": "https://open.spotify.com/track/3OdKVzO9nvHTDG5U1pL0T5"
+      "duration_ms": 139974,
+      "name": "stupid",
+      "url": "https://open.spotify.com/track/54bMZHRBLp5fEVFMVSYWj0"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -883,6 +883,22 @@
       "duration_ms": 147118,
       "name": "July",
       "url": "https://open.spotify.com/track/4lKk4P7C9aZlgpPE6LNS4J"
+    },
+    {
+      "added_at": "2026-08-04 22:00:19",
+      "album": {
+        "name": "Metamorfose",
+        "url": "https://open.spotify.com/album/4G8iMtkUqayoKTSecl9GJL"
+      },
+      "artists": [
+        {
+          "name": "Teddy Fee",
+          "url": "https://open.spotify.com/artist/2iYrOmgElzuk50QIRtJ0qc"
+        }
+      ],
+      "duration_ms": 168927,
+      "name": "Metamorfose",
+      "url": "https://open.spotify.com/track/3OdKVzO9nvHTDG5U1pL0T5"
     },
     {
       "added_at": "2026-08-04 22:00:19",
@@ -915,22 +931,6 @@
       "duration_ms": 181198,
       "name": "Sad & Horny",
       "url": "https://open.spotify.com/track/0qvxyEcaB9LFWpHDt0sLZe"
-    },
-    {
-      "added_at": "2026-08-04 22:00:19",
-      "album": {
-        "name": "AURORA",
-        "url": "https://open.spotify.com/album/2OBeqEMIFo2oqwwa2JxCI5"
-      },
-      "artists": [
-        {
-          "name": "J.A.D.E",
-          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
-        }
-      ],
-      "duration_ms": 139974,
-      "name": "stupid",
-      "url": "https://open.spotify.com/track/54bMZHRBLp5fEVFMVSYWj0"
     },
     {
       "added_at": "2026-08-04 22:00:19",

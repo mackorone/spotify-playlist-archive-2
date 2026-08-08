@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "Curi\u00f3 Curi\u00f3",
+        "url": "https://open.spotify.com/album/6h6tgc1Z4RGqMYeV4O7KT1"
+      },
+      "artists": [
+        {
+          "name": "Curi\u00f3 Curi\u00f3",
+          "url": "https://open.spotify.com/artist/1P0sVOquxHdvSDKpUnHl0a"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168965,
+      "name": "A Cor do Meu Sonho",
+      "url": "https://open.spotify.com/track/5P9I9o4jtb0zTmptpQRhDH"
+    },
+    {
+      "album": {
         "name": "Taha Mu",
         "url": "https://open.spotify.com/album/33LMA5C2w8ljiZ6o3HbDob"
       },
@@ -2941,6 +2959,28 @@
     },
     {
       "album": {
+        "name": "Coco Okayo",
+        "url": "https://open.spotify.com/album/2n4CMQEiwvmGPqpEcweCXc"
+      },
+      "artists": [
+        {
+          "name": "Thandii",
+          "url": "https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M"
+        },
+        {
+          "name": "Regalado",
+          "url": "https://open.spotify.com/artist/7vfsuBmwVTxAEqDXYqZGyH"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265346,
+      "name": "Coco Okayo",
+      "url": "https://open.spotify.com/track/32xt4DJF5fs1Bnw28gOVl8"
+    },
+    {
+      "album": {
         "name": "Consider It Done",
         "url": "https://open.spotify.com/album/4eRgGGaoaIFT4x9JymYsH3"
       },
@@ -4842,7 +4882,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 326986,
       "name": "Entardecer",
       "url": "https://open.spotify.com/track/2E3J6m0Q4uyKC2eMVonWfC"
@@ -5522,6 +5562,24 @@
       "duration_ms": 190282,
       "name": "Fly High",
       "url": "https://open.spotify.com/track/4QCU3gXVbr3gtqY54RzTqu"
+    },
+    {
+      "album": {
+        "name": "Club Teal, Vol. 2",
+        "url": "https://open.spotify.com/album/1sEunaZ90fZ5HD1t01kN1z"
+      },
+      "artists": [
+        {
+          "name": "Puffie",
+          "url": "https://open.spotify.com/artist/20hIEDS29GBxsvYWa6pr18"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166504,
+      "name": "Foli Tribe",
+      "url": "https://open.spotify.com/track/6Zy6LmBD87FxntHlwZn5gU"
     },
     {
       "album": {
@@ -9514,7 +9572,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 168837,
       "name": "Magnolia Tree",
       "url": "https://open.spotify.com/track/3rQWK48enFpN2cAWtrU813"
@@ -11144,7 +11202,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 383765,
       "name": "Nen Lambo",
       "url": "https://open.spotify.com/track/6zWn8wLNdQnn80WJWV6TaO"

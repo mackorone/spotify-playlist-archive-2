@@ -2,9 +2,9 @@
 
 ### [Dark and Furious](https://open.spotify.com/playlist/37i9dQZF1DXdMp10y0r6l2)
 
-> AAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHH\. Beartooth en portada
+> AAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHH\. Vondré en portada
 
-603 songs - 1 day 23 hr 10 min
+606 songs - 1 day 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Death\-Hymn](https://open.spotify.com/track/6VvP4iaiOoOO9abWWchroR) | [The Third And The Mortal](https://open.spotify.com/artist/5F2cvw82M3XSEI1SkJR2Oc) | [Tears Laid in Earth](https://open.spotify.com/album/6wXKSA8rdDp55Xqfi9iH6M) | 8:24 | 2025-08-28 | 2025-09-27 |
 | [Debonaire](https://open.spotify.com/track/0eEJrthp6PcMd33xs2NLrc) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Felons and Revolutionaries](https://open.spotify.com/album/70qlX6W0tE04QAwKQuv1db) | 2:32 | 2024-10-22 | 2025-07-30 |
 | [Deep Tracts of Hell](https://open.spotify.com/track/6vRb0kIqO32EQhr1PDULvM) | [Aura Noir](https://open.spotify.com/artist/4S2qftLTvdEFvIPPTYmeg6) | [Deep Tracts of Hell](https://open.spotify.com/album/6FlEhy0Vo4oH19iBVR36KH) | 1:56 | 2024-08-20 | 2024-10-22 |
+| [Dehumanized](https://open.spotify.com/track/51dD8Lkie7e2ITDsB1y4Ui) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Dehumanized](https://open.spotify.com/album/3EtyZfsxMwbL7xyWAh5xPi) | 4:28 | 2026-08-07 |  |
 | [Deliver Us From Evil](https://open.spotify.com/track/4xr3Pxc0E2zHxUVRcLn5oI) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [The God Machine](https://open.spotify.com/album/4aoy2NnmDpWvjWi9taOHYe) | 5:21 | 2023-09-22 | 2024-01-26 |
 | [Demon Fire](https://open.spotify.com/track/6jtUOVRO4p09Z7E35ERRL7) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:30 | 2024-05-24 | 2024-08-20 |
 | [Derelict](https://open.spotify.com/track/6ZH7GuUJR9kr04rbVF8w6B) | [Matalobos](https://open.spotify.com/artist/17ljH1H0YKjh1EYDuvJZDB) | [Arte Macabro](https://open.spotify.com/album/5JWFjdOwa3g6BtYy9wHgv5) | 7:30 | 2024-08-20 | 2024-10-22 |
@@ -369,6 +370,7 @@
 | [Panic Attack](https://open.spotify.com/track/1yEz9RflAoVrjAbCLnEI35) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Panic Attack](https://open.spotify.com/album/02DtysqFzSbWAfptGA7mec) | 5:25 | 2023-10-23 | 2024-01-26 |
 | [Passing Through A Screen Door](https://open.spotify.com/track/0i4nHa7wLCX11M7yIp7iTJ) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [The Greatest Generation](https://open.spotify.com/album/1X3Jx7Bm2D4atIHXomiSCE) | 3:35 | 2025-07-29 | 2026-01-24 |
 | [Pathological](https://open.spotify.com/track/7DiI4CimFRrUjKy7UHviUe) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Pathological](https://open.spotify.com/album/4jQ1h7ngbl0iQbHt1xrKw2) | 2:53 | 2025-10-24 | 2026-03-28 |
+| [Patito Feo](https://open.spotify.com/track/0gcP9NuauYDnzE85BOBbCd) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Patito Feo](https://open.spotify.com/album/45IPQiM0fxJAxskPj19AFg) | 2:34 | 2026-08-07 |  |
 | [Pena Sobre Pena](https://open.spotify.com/track/3owo41ylkKRbPhtYGvwMhe) | [Viva Belgrado](https://open.spotify.com/artist/37gLE2S4JxurgPNf1sx6HK) | [Pena Sobre Pena](https://open.spotify.com/album/1k8RUmxkZwd0Xj3iSCowKM) | 4:36 | 2025-07-29 |  |
 | [Perfect](https://open.spotify.com/track/0wLaEfGPXpXURXghzCwrjt) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Perfect](https://open.spotify.com/album/3h8RA15b63tsafK0v2c0UC) | 1:22 | 2025-07-29 |  |
 | [Perfect Strangers](https://open.spotify.com/track/2JhJOPGvtqMpj5RQC8cIYf) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 5:28 | 2024-01-25 | 2024-08-20 |
@@ -390,6 +392,7 @@
 | [Pure Ecstasy](https://open.spotify.com/track/3IoUXFzfbzbi1XIfosP0AP) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Pure Ecstasy](https://open.spotify.com/album/7LaRPSnFbhbbDVAPf6ewX3) | 3:05 | 2026-05-27 |  |
 | [Putrid Angels Ritual](https://open.spotify.com/track/6dJgBHIF22OQh1FvvCpGRC) | [Vulcano](https://open.spotify.com/artist/7qfrFvOUlXFc8Xzhn8I1p7) | [Stone Orange](https://open.spotify.com/album/3wPt30rdfVoejHwRKcjBfd) | 2:33 | 2023-09-22 | 2024-01-26 |
 | [Pyromancer](https://open.spotify.com/track/5bbC1LhM6s7F8vOIOJsRIc) | [XO Armor](https://open.spotify.com/artist/2jfrVIbE3LSzjfGzf1XLDp), [Isolate.exe](https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI) | [Pyromancer](https://open.spotify.com/album/4UP1kv8WF83HXEsQMWoYDg) | 2:36 | 2025-12-12 | 2026-05-28 |
+| [Quema Los Recuerdos](https://open.spotify.com/track/6HEA8aeNZeAuh0jqOwFkkT) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Metales Pesados](https://open.spotify.com/album/70uJ6Bd2dJIEaB6VJCFgSN) | 2:14 | 2026-08-07 |  |
 | [Quietly](https://open.spotify.com/track/5xJ4YmHmdnHRqaGEgEspP3) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Quietly](https://open.spotify.com/album/5MNXkq3isaPZCyLnf0LC94) | 3:22 | 2026-01-23 |  |
 | [R.I.P\. \(feat\. Skylar Grey\)](https://open.spotify.com/track/4t2iBQXTof6BoWCIxkgFF1) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [R.I.P\. \(feat\. Skylar Grey\)](https://open.spotify.com/album/2BdQsMhZDuxilUo1mG12OK) | 4:00 | 2026-06-19 |  |
 | [Radix Malorum](https://open.spotify.com/track/0VZAhuEaRQbBUOpYJU9I0Y) | [Gorgoroth](https://open.spotify.com/artist/1Dt7cfRzxM8qPVa82jX9y5) | [Instinctus Bestialis](https://open.spotify.com/album/4LS73b8Jxgi2vdeYvPv2u1) | 3:13 | 2024-08-20 | 2024-10-22 |

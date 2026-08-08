@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 
 > Create the new vibe by mixing in the retro sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,491 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,499 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 | 28 | [More Than Friends](https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [More Than Friends](https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M) | 2:20 |
 | 29 | [All Night Long](https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [All Night Long](https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7) | 2:58 |
 | 30 | [Not So Bad \(feat\. Emie\)](https://open.spotify.com/track/1XFHbzTikXks9CsMq4v8Q3) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [Not So Bad \(feat\. Emie\)](https://open.spotify.com/album/3MWQeRDPrBYvDLYIpILm9I) | 2:33 |
-| 31 | [I Was Made](https://open.spotify.com/track/0ieEZjHQO5eq9Uad7opItK) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Le Pedre](https://open.spotify.com/artist/2nwk9rtXu9sJ4sh8LLyDUE) | [I Was Made](https://open.spotify.com/album/3zHqo2ygJlcfOyzxLyLevV) | 2:35 |
-| 32 | [Make Your Move](https://open.spotify.com/track/4cuJbDiraxt9AsEeevmFuQ) | [Anton Powers](https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc), [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF) | [Make Your Move](https://open.spotify.com/album/0MuTtOd6C9QlO1iWiIlXgq) | 2:48 |
+| 31 | [Make Your Move](https://open.spotify.com/track/4cuJbDiraxt9AsEeevmFuQ) | [Anton Powers](https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc), [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF) | [Make Your Move](https://open.spotify.com/album/0MuTtOd6C9QlO1iWiIlXgq) | 2:48 |
+| 32 | [I Was Made](https://open.spotify.com/track/0ieEZjHQO5eq9Uad7opItK) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Le Pedre](https://open.spotify.com/artist/2nwk9rtXu9sJ4sh8LLyDUE) | [I Was Made](https://open.spotify.com/album/3zHqo2ygJlcfOyzxLyLevV) | 2:35 |
 | 33 | [True](https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [True](https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo) | 2:05 |
 | 34 | [Cool](https://open.spotify.com/track/2ToIksTPpJ4csKPEOdUEyM) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Roy English](https://open.spotify.com/artist/1m42JiZ7Rv8D7Lc7FTSWAR) | [Forever](https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw) | 3:41 |
 | 35 | [Work With My Love](https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Work With My Love](https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ) | 2:30 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafD1g5rer7q.md) - [plain]
 | 47 | [Astronomia \- Never Go Home](https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz) | [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia \(Never Go Home\)](https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq) | 2:37 |
 | 48 | [Find The Way](https://open.spotify.com/track/0f7ROOquhmSpNgbBeWh0hn) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Find The Way](https://open.spotify.com/album/11pq24uahxvbUMhXhmRdcN) | 3:57 |
 | 49 | [Say You Do \(feat\. DJ Fresh\)](https://open.spotify.com/track/74jDFju8j3sX1yQJeLdJ6O) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn), [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:22 |
-| 50 | [Thank You \[Not So Bad\]](https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Thank You \[Not So Bad\]](https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK) | 3:17 |
+| 50 | [Hear Me Tonight](https://open.spotify.com/track/0v8OKUrqZGoEbgEUXScRSQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [THRDL!FE](https://open.spotify.com/artist/04O00MEN0lHEKWTwRjb1nS) | [Hear Me Tonight](https://open.spotify.com/album/2kJHrTUZ21XbtKO9fEFzhG) | 3:08 |
 
-Snapshot ID: `AAAAACMKyYypFLpiPxiqjepAbNHy8Pot`
+Snapshot ID: `AAAAAJ5R6IP2GbRkRWLIOuWzYQb2K3qT`

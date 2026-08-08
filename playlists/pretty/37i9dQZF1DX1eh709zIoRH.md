@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1eh709zIoRH.md) - [plain]
 
 > Certified hits\. Cover: Ceebo
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,904 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,913 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1eh709zIoRH.md) - [plain]
 | 24 | [Escape](https://open.spotify.com/track/43nqv4QZLdroszZ03wKCCh) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Escape](https://open.spotify.com/album/7htW5qv2yBt0dH7be0zMbc) | 2:08 |
 | 25 | [Never Lose Me \(feat\. SZA & Cardi B\)](https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:45 |
 | 26 | [Get It Sexyy](https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Get It Sexyy](https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw) | 2:28 |
-| 27 | [Yo Bunny](https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z), [Ugly Andz.](https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW) | [Yo Bunny](https://open.spotify.com/album/4uRk8WbxccxtdvbzLkjZN2) | 1:50 |
-| 28 | [Victory Lap Five](https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Victory Lap](https://open.spotify.com/album/1I9H3LIuf4zobz8RcUBIif) | 5:44 |
+| 27 | [Victory Lap Five](https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Victory Lap](https://open.spotify.com/album/1I9H3LIuf4zobz8RcUBIif) | 5:44 |
+| 28 | [Yo Bunny](https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z), [Ugly Andz.](https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW) | [Yo Bunny](https://open.spotify.com/album/4uRk8WbxccxtdvbzLkjZN2) | 1:50 |
 | 29 | [BANDIT](https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Bandit](https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC) | 2:27 |
 | 30 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 |
 | 31 | [Grey](https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq) | [Yung Filly](https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa) | [Grey](https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu) | 2:49 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1eh709zIoRH.md) - [plain]
 | 75 | [Eagle](https://open.spotify.com/track/4kPQ9NQTg6rqZNJ0t3lDaI) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [Eagle](https://open.spotify.com/album/5jHbKzYrq90fFJFiKhpOE3) | 4:57 |
 | 76 | [Suns Out](https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Suns Out](https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy) | 2:31 |
 | 77 | [Cloud 9](https://open.spotify.com/track/2PunFfwQmub6lKMmLe0H3w) | [JS x YD](https://open.spotify.com/artist/6DtDZIxHODPr4sZTNLQbL7) | [Underrated](https://open.spotify.com/album/6SznjJElCCQwtgjIC4AuLx) | 3:08 |
-| 78 | [We Won](https://open.spotify.com/track/0rLGYykaXj89TBOXq6Aief) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [We Won](https://open.spotify.com/album/55nxNL1bRIIN6oHM2Jb5c7) | 2:46 |
-| 79 | [Rock Bottom](https://open.spotify.com/track/6zJi62orFGAdxyqiYIt2L7) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9) | [Rock Bottom](https://open.spotify.com/album/3zMteQdj1SgctkfEoFKPKN) | 1:40 |
+| 78 | [Rock Bottom](https://open.spotify.com/track/6zJi62orFGAdxyqiYIt2L7) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9) | [Rock Bottom](https://open.spotify.com/album/3zMteQdj1SgctkfEoFKPKN) | 1:40 |
+| 79 | [We Won](https://open.spotify.com/track/0rLGYykaXj89TBOXq6Aief) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [We Won](https://open.spotify.com/album/55nxNL1bRIIN6oHM2Jb5c7) | 2:46 |
 | 80 | [Ololufe \(feat\. Wande Coal\)](https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 3:30 |
 
-Snapshot ID: `AAAAAITSA1doucQdGP6kO1y/bNYDJdMF`
+Snapshot ID: `AAAAAFN31XfYwYl2TEiZeK1t6qV6Tqj8`

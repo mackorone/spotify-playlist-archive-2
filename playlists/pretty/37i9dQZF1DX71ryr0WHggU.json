@@ -1,12 +1,12 @@
 {
   "description": "Let's go out out \ud83e\udea9",
-  "num_followers": 85165,
+  "num_followers": 85190,
   "original_name": "Out Out",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAICnFCuQepe1M/A7eCpWyuIqgL1o",
+  "snapshot_id": "AAAAAM7Z643q38LABxrqOCuvlRMXcz9o",
   "tracks": [
     {
       "added_at": "2024-06-29 01:56:48",
@@ -1383,18 +1383,22 @@
     {
       "added_at": "2024-06-29 01:56:48",
       "album": {
-        "name": "Gotta Tell You",
-        "url": "https://open.spotify.com/album/5hrhGEdZrxOjBe32cfIuwc"
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX"
       },
       "artists": [
         {
-          "name": "Samantha Mumba",
-          "url": "https://open.spotify.com/artist/7L12TqJ0fbwtFljTbwfwRI"
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
         }
       ],
-      "duration_ms": 200160,
-      "name": "Gotta Tell You",
-      "url": "https://open.spotify.com/track/1rj0XawWJNisX7SGYexowJ"
+      "duration_ms": 164693,
+      "name": "Praising You - feat. Fatboy Slim",
+      "url": "https://open.spotify.com/track/1M8U7UHu9rhwumTu8IrqeD"
     }
   ],
   "unique_name": "Out Out",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Celebrating the power of amazing female pop artists. Cover: Olivia Rodrigo",
+  "description": "Celebrating the power of amazing female pop artists. Cover: Slayyyter",
   "name": "Women of Pop",
   "tracks": [
     {
@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "Ain't In LA",
+        "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184927,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
+    },
+    {
+      "album": {
         "name": "Alarm",
         "url": "https://open.spotify.com/album/2Z3HQO6NL3812mnNj7htXv"
       },
@@ -741,6 +759,24 @@
     },
     {
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158494,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -752,7 +788,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-05",
+      "date_removed": null,
       "duration_ms": 200690,
       "name": "Anti-Hero",
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
@@ -1620,6 +1656,24 @@
       "duration_ms": 162585,
       "name": "Boys",
       "url": "https://open.spotify.com/track/5o4yGlG0PfeVUa6ClIyOxq"
+    },
+    {
+      "album": {
+        "name": "brand new chanel$",
+        "url": "https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238505,
+      "name": "brand new chanel$",
+      "url": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2"
     },
     {
       "album": {
@@ -8606,7 +8660,7 @@
       ],
       "date_added": "2020-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 179867,
       "name": "Play Date",
       "url": "https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA"
@@ -10066,7 +10120,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 215160,
       "name": "So What",
       "url": "https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt"
@@ -10490,6 +10544,24 @@
       "duration_ms": 207333,
       "name": "Strongest",
       "url": "https://open.spotify.com/track/7FIcIjKaQJpy0vWWFZMZGH"
+    },
+    {
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209680,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
     },
     {
       "album": {
@@ -11068,7 +11140,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
@@ -11912,7 +11984,7 @@
       ],
       "date_added": "2021-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 279506,
       "name": "Waterfalls",
       "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
@@ -12560,7 +12632,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 258411,
       "name": "You're So Vain",
       "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"

@@ -1,12 +1,12 @@
 {
   "description": "This is Asake. The essential tracks, all in one playlist.",
-  "num_followers": 83472,
+  "num_followers": 83570,
   "original_name": "This Is Asake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAD3LXcffglP5tmIu2nofMec",
+  "snapshot_id": "anPOgAAAAAAwitQYCKlynMjZyiw1eSWn",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,26 @@
       "duration_ms": 171999,
       "name": "Bad Boy - Live in London",
       "url": "https://open.spotify.com/track/7cVfyaApAStNeOqArVln4c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THAT GIRL!",
+        "url": "https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 132817,
+      "name": "THAT GIRL!",
+      "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"
     },
     {
       "added_at": null,
@@ -111,18 +131,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Work Of Art",
-        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
+        "name": "Eja Meja (feat. Asake)",
+        "url": "https://open.spotify.com/album/7BSNh9DOcw3giOwnBAv3qA"
       },
       "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
         {
           "name": "Asake",
           "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 182142,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/0Q1bMs3xLQiDEeaneehdxv"
+      "duration_ms": 158108,
+      "name": "Eja Meja (feat. Asake)",
+      "url": "https://open.spotify.com/track/5Ca1fyuX04EKHCc8Cnb791"
     },
     {
       "added_at": null,
@@ -143,6 +167,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Work Of Art",
+        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 182142,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/0Q1bMs3xLQiDEeaneehdxv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jogodo",
         "url": "https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx"
       },
@@ -159,26 +199,6 @@
       "duration_ms": 188861,
       "name": "Jogodo",
       "url": "https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eja Meja (feat. Asake)",
-        "url": "https://open.spotify.com/album/7BSNh9DOcw3giOwnBAv3qA"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 158108,
-      "name": "Eja Meja (feat. Asake)",
-      "url": "https://open.spotify.com/track/5Ca1fyuX04EKHCc8Cnb791"
     },
     {
       "added_at": null,
@@ -739,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost In Melody (Deluxe)",
-        "url": "https://open.spotify.com/album/6A6bRf5FGdvsCp1U1d4H9m"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 185083,
-      "name": "Blessings (with Asake) - Remix",
-      "url": "https://open.spotify.com/track/2FX0YSnyAJ8jxvysMiSp9P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stubborn",
         "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
       },
@@ -775,6 +775,26 @@
       "duration_ms": 176333,
       "name": "Stubborn",
       "url": "https://open.spotify.com/track/6LTnqcYe8dq4QC5Lh7vneM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost In Melody (Deluxe)",
+        "url": "https://open.spotify.com/album/6A6bRf5FGdvsCp1U1d4H9m"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 185083,
+      "name": "Blessings (with Asake) - Remix",
+      "url": "https://open.spotify.com/track/2FX0YSnyAJ8jxvysMiSp9P"
     },
     {
       "added_at": null,

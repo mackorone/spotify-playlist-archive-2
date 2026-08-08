@@ -1,12 +1,12 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Andr\u00e9 e Felipe",
-  "num_followers": 114117,
+  "num_followers": 114137,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD561Doivt0jxEZODnEnR5OvjipN",
+  "snapshot_id": "AAAAABJhO5KRabOxfTlqAi4gW+2IZiUY",
   "tracks": [
     {
       "added_at": "2026-07-02 21:48:45",
@@ -255,6 +255,22 @@
     {
       "added_at": "2026-07-02 21:48:45",
       "album": {
+        "name": "Viola e Adora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l"
+      },
+      "artists": [
+        {
+          "name": "Lucas Roque e Gabriel",
+          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
+        }
+      ],
+      "duration_ms": 158250,
+      "name": "O Crente e a Palmeira",
+      "url": "https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ"
+    },
+    {
+      "added_at": "2026-07-02 21:48:45",
+      "album": {
         "name": "Deus Ouviu (Ao Vivo)",
         "url": "https://open.spotify.com/album/2QrGXyQn83lcGEmuHWmgXb"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 262854,
       "name": "Deus Ouviu (Ao Vivo)",
       "url": "https://open.spotify.com/track/5iJsUblS3HGFWMfOK6nrHf"
-    },
-    {
-      "added_at": "2026-07-02 21:48:45",
-      "album": {
-        "name": "Viola e Adora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l"
-      },
-      "artists": [
-        {
-          "name": "Lucas Roque e Gabriel",
-          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
-        }
-      ],
-      "duration_ms": 158250,
-      "name": "O Crente e a Palmeira",
-      "url": "https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ"
     },
     {
       "added_at": "2026-07-02 21:48:45",
@@ -631,26 +631,6 @@
     {
       "added_at": "2026-07-02 21:48:45",
       "album": {
-        "name": "Bachata (Edi\u00e7\u00e3o Hist\u00f3rica)",
-        "url": "https://open.spotify.com/album/5b9IHZfxjdXpLPjVW2kb6o"
-      },
-      "artists": [
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        },
-        {
-          "name": "Maximus Records",
-          "url": "https://open.spotify.com/artist/1bFepcvSYELb5Oz656krWR"
-        }
-      ],
-      "duration_ms": 242882,
-      "name": "Que Ven\u00e7a o Amor",
-      "url": "https://open.spotify.com/track/5sF78pP6esVqbBuPErwTbs"
-    },
-    {
-      "added_at": "2026-07-02 21:48:45",
-      "album": {
         "name": "O Noivo Vem (Ao Vivo)",
         "url": "https://open.spotify.com/album/5hb5Y7fmdNVzXXlz7y5rT4"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 295946,
       "name": "O Noivo Vem (Ao Vivo)",
       "url": "https://open.spotify.com/track/7eLK9s5mQT7QW62lID0fol"
+    },
+    {
+      "added_at": "2026-07-02 21:48:45",
+      "album": {
+        "name": "N\u00e3o Saia do Meu Lado",
+        "url": "https://open.spotify.com/album/0pnp12WSBG4PP1DhFWVoQq"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        },
+        {
+          "name": "Matriz Music",
+          "url": "https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu"
+        }
+      ],
+      "duration_ms": 216127,
+      "name": "N\u00e3o Saia do Meu Lado",
+      "url": "https://open.spotify.com/track/5mi0KvTGzuMvPbm16vY9su"
     },
     {
       "added_at": "2026-07-02 21:48:45",
@@ -723,26 +723,6 @@
     {
       "added_at": "2026-07-02 21:48:45",
       "album": {
-        "name": "N\u00e3o Saia do Meu Lado",
-        "url": "https://open.spotify.com/album/0pnp12WSBG4PP1DhFWVoQq"
-      },
-      "artists": [
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        },
-        {
-          "name": "Matriz Music",
-          "url": "https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu"
-        }
-      ],
-      "duration_ms": 216127,
-      "name": "N\u00e3o Saia do Meu Lado",
-      "url": "https://open.spotify.com/track/5mi0KvTGzuMvPbm16vY9su"
-    },
-    {
-      "added_at": "2026-07-02 21:48:45",
-      "album": {
         "name": "Guerreiro Adorador",
         "url": "https://open.spotify.com/album/4jRfEXevgeiyxCjXGZ6zz9"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 352085,
       "name": "Guerreiro Adorador",
       "url": "https://open.spotify.com/track/5DdPOo1lK5TBndXG24HFfw"
+    },
+    {
+      "added_at": "2026-07-02 21:48:45",
+      "album": {
+        "name": "Vou Embora pro C\u00e9u",
+        "url": "https://open.spotify.com/album/4ue7L5hUazkm9EW3s1Hg2S"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        },
+        {
+          "name": "Matriz Music",
+          "url": "https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu"
+        }
+      ],
+      "duration_ms": 214786,
+      "name": "Vou Embora pro C\u00e9u",
+      "url": "https://open.spotify.com/track/3RMyqFuPXQo9HusA1q9Stl"
     },
     {
       "added_at": "2026-07-02 21:48:45",
@@ -923,8 +923,8 @@
     {
       "added_at": "2026-07-02 21:48:45",
       "album": {
-        "name": "Vou Embora pro C\u00e9u",
-        "url": "https://open.spotify.com/album/4ue7L5hUazkm9EW3s1Hg2S"
+        "name": "Bachata (Edi\u00e7\u00e3o Hist\u00f3rica)",
+        "url": "https://open.spotify.com/album/5b9IHZfxjdXpLPjVW2kb6o"
       },
       "artists": [
         {
@@ -932,13 +932,13 @@
           "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
         },
         {
-          "name": "Matriz Music",
-          "url": "https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu"
+          "name": "Maximus Records",
+          "url": "https://open.spotify.com/artist/1bFepcvSYELb5Oz656krWR"
         }
       ],
-      "duration_ms": 214786,
-      "name": "Vou Embora pro C\u00e9u",
-      "url": "https://open.spotify.com/track/3RMyqFuPXQo9HusA1q9Stl"
+      "duration_ms": 242882,
+      "name": "Que Ven\u00e7a o Amor",
+      "url": "https://open.spotify.com/track/5sF78pP6esVqbBuPErwTbs"
     },
     {
       "added_at": "2026-07-02 21:48:45",

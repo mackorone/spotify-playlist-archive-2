@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: wave to earth \(South Korea\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,778 likes - 99 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,788 likes - 99 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 74 | [not again](https://open.spotify.com/track/6rc3jNCyKM37uZxCKTTKON) | [mindfreakk!](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [not again](https://open.spotify.com/album/6aUTe5jRMNsCzONsSQSVLI) | 4:24 |
 | 75 | [Sparkle Blue](https://open.spotify.com/track/2AsYTLSa51fTnWTNegQbCd) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [BLUE HOURS](https://open.spotify.com/album/1wzAwMstc8mW3z1vkU1P1O) | 3:03 |
 | 76 | [ฟื้น \(Athithan\)](https://open.spotify.com/track/1syUFw0njvgnZEVUTkBvkR) | [Yellow Fang](https://open.spotify.com/artist/7aB8dPCY3CPCjnRFGrFi2u) | [ฟื้น \(Athithan\)](https://open.spotify.com/album/7AgYS5giG9z7COFKnuJefN) | 5:37 |
-| 77 | [Guitar Love？](https://open.spotify.com/track/42q84QHqEGoq3oTiTsTYIX) | [张醒婵](https://open.spotify.com/artist/5xQexMQeKic0fm65lvL8m3) | [手接我的回旋镖](https://open.spotify.com/album/3fAMddiPHl2VeO7lmvyJmN) | 4:37 |
+| 77 | [Guitar Loves?](https://open.spotify.com/track/42q84QHqEGoq3oTiTsTYIX) | [张醒婵](https://open.spotify.com/artist/5xQexMQeKic0fm65lvL8m3) | [手接我的回旋镖](https://open.spotify.com/album/3fAMddiPHl2VeO7lmvyJmN) | 4:37 |
 | 78 | [Kisah Kita](https://open.spotify.com/track/5K4JXyx3NhHG8lwYOhQXrH) | [DUKES](https://open.spotify.com/artist/1KhiHfllvx27hGdOK6kPER) | [Irama Budak Bermimpi](https://open.spotify.com/album/5GzvS7yIhWT3Qb6DTfr5F0) | 4:06 |
 | 79 | [Super Lonely](https://open.spotify.com/track/0ZZwEXN1e5B8pgaZj7AZoJ) | [Tosh Kugai](https://open.spotify.com/artist/126cRjPdUieqrzqLywzzdE) | [Super Lonely](https://open.spotify.com/album/7DFGgAZB98njLmWIOfMIev) | 2:48 |
 | 80 | [Teristimewa](https://open.spotify.com/track/0w4sZJdgLGREQ9lXkMKZri) | [MASDO](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Teristimewa](https://open.spotify.com/album/2RD3ormsY5ptqb6VnDFklV) | 3:48 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 98 | [Waterlemon](https://open.spotify.com/track/55RNTXmUL7I9o0GTH3kMrR) | [Imhavingabadday.](https://open.spotify.com/artist/4ACnqbQTbfsHBV5XPVFjdM) | [Waterlemon](https://open.spotify.com/album/7HQ25yE3MsTRpIeadyMdR8) | 3:06 |
 | 99 | [slowly](https://open.spotify.com/track/0PJ5G0o5g6rvsgEgJ0QQe5) | [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [slowly](https://open.spotify.com/album/5pEsXaw4mCw5IgQLsjTkNg) | 3:50 |
 
-Snapshot ID: `AAAAABmvigXvO5MTpCkMJX9R5xnAlsda`
+Snapshot ID: `AAAAAOfLV4vmqZIEMzopg6n9R0DVZ8pG`

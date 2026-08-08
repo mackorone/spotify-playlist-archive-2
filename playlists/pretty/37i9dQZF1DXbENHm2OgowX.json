@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 356029,
+  "num_followers": 356210,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGE7HtMVxM1dXiek6cSN9qbZEtWy",
+  "snapshot_id": "AAAAAEC/QGp8t80RgSc+TUQEjeeG5xz6",
   "tracks": [
     {
       "added_at": "2026-06-12 14:06:48",
@@ -659,26 +659,6 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
-        "name": "Rainy morning",
-        "url": "https://open.spotify.com/album/47EnexXCVKmACoZbvxxonH"
-      },
-      "artists": [
-        {
-          "name": "arancina",
-          "url": "https://open.spotify.com/artist/5YdVyeU1XSouFk8VBSfLAO"
-        },
-        {
-          "name": "I'm flying",
-          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
-        }
-      ],
-      "duration_ms": 115500,
-      "name": "Rainy morning",
-      "url": "https://open.spotify.com/track/4EY1jouYJXT7Tm0fSWRUvJ"
-    },
-    {
-      "added_at": "2026-06-12 14:06:48",
-      "album": {
         "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
         "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
       },
@@ -695,18 +675,22 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm"
+        "name": "Rainy morning",
+        "url": "https://open.spotify.com/album/47EnexXCVKmACoZbvxxonH"
       },
       "artists": [
         {
-          "name": "Ekin Fil",
-          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
+          "name": "arancina",
+          "url": "https://open.spotify.com/artist/5YdVyeU1XSouFk8VBSfLAO"
+        },
+        {
+          "name": "I'm flying",
+          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
         }
       ],
-      "duration_ms": 289592,
-      "name": "Still Numbers",
-      "url": "https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq"
+      "duration_ms": 115500,
+      "name": "Rainy morning",
+      "url": "https://open.spotify.com/track/4EY1jouYJXT7Tm0fSWRUvJ"
     },
     {
       "added_at": "2026-06-12 14:06:48",
@@ -735,6 +719,22 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm"
+      },
+      "artists": [
+        {
+          "name": "Ekin Fil",
+          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
+        }
+      ],
+      "duration_ms": 289592,
+      "name": "Still Numbers",
+      "url": "https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq"
+    },
+    {
+      "added_at": "2026-06-12 14:06:48",
+      "album": {
         "name": "Gazing Back At Earth",
         "url": "https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA"
       },
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
-        "name": "fly high",
-        "url": "https://open.spotify.com/album/7g2YMNuWZaOxXLffXGa2v3"
-      },
-      "artists": [
-        {
-          "name": "ambit.",
-          "url": "https://open.spotify.com/artist/1OXRInYKrZWZ3z6f099iaB"
-        }
-      ],
-      "duration_ms": 107056,
-      "name": "fly high",
-      "url": "https://open.spotify.com/track/2MZ5LDS1QzKIEWhkUPiyvp"
-    },
-    {
-      "added_at": "2026-06-12 14:06:48",
-      "album": {
         "name": "Green Wall",
         "url": "https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 122000,
       "name": "Waiting for Your Train",
       "url": "https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R"
+    },
+    {
+      "added_at": "2026-06-12 14:06:48",
+      "album": {
+        "name": "fly high",
+        "url": "https://open.spotify.com/album/7g2YMNuWZaOxXLffXGa2v3"
+      },
+      "artists": [
+        {
+          "name": "ambit.",
+          "url": "https://open.spotify.com/artist/1OXRInYKrZWZ3z6f099iaB"
+        }
+      ],
+      "duration_ms": 107056,
+      "name": "fly high",
+      "url": "https://open.spotify.com/track/2MZ5LDS1QzKIEWhkUPiyvp"
     },
     {
       "added_at": "2026-06-12 14:06:48",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
-        "name": "where is life?",
-        "url": "https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP"
-      },
-      "artists": [
-        {
-          "name": "Sibewest",
-          "url": "https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs"
-        }
-      ],
-      "duration_ms": 127384,
-      "name": "where is life?",
-      "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"
-    },
-    {
-      "added_at": "2026-06-12 14:06:48",
-      "album": {
         "name": "The Beautiful World",
         "url": "https://open.spotify.com/album/2mYF47xMK4YdDipgj88DSD"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 178858,
       "name": "Stray",
       "url": "https://open.spotify.com/track/2qJ1lpSOeAsbHr5WP86KtF"
+    },
+    {
+      "added_at": "2026-06-12 14:06:48",
+      "album": {
+        "name": "where is life?",
+        "url": "https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP"
+      },
+      "artists": [
+        {
+          "name": "Sibewest",
+          "url": "https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs"
+        }
+      ],
+      "duration_ms": 127384,
+      "name": "where is life?",
+      "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"
     },
     {
       "added_at": "2026-06-12 14:06:48",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
-        "name": "Take My Hand",
-        "url": "https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I"
-      },
-      "artists": [
-        {
-          "name": "Luke Taylor",
-          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
-        }
-      ],
-      "duration_ms": 159972,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
-    },
-    {
-      "added_at": "2026-06-12 14:06:48",
-      "album": {
         "name": "Too Much Love",
         "url": "https://open.spotify.com/album/2UGOkuaFlOoIeGxLEN298U"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 133591,
       "name": "Too Much Love",
       "url": "https://open.spotify.com/track/27bJg4uzTXoqMS1Udjacni"
+    },
+    {
+      "added_at": "2026-06-12 14:06:48",
+      "album": {
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I"
+      },
+      "artists": [
+        {
+          "name": "Luke Taylor",
+          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
+        }
+      ],
+      "duration_ms": 159972,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
     },
     {
       "added_at": "2026-06-12 14:06:48",

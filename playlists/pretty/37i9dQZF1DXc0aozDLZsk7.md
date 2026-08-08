@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 
 > Relax\. Abbandonati alla musica e ritrova la tua tranquillità.
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,792 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,796 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 | 36 | [Like Strangers Do](https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Like Strangers Do](https://open.spotify.com/album/3fFTDPRQZRpbH5pgqvepFZ) | 2:40 |
 | 37 | [Dear August](https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Dear August](https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj) | 3:20 |
 | 38 | [The One](https://open.spotify.com/track/0My8NPmENHrN5W7OfgZnZJ) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Coming Up for Air \(Expanded Edition\)](https://open.spotify.com/album/3IJ5RDbQeiWIf7Fo601JwE) | 3:52 |
-| 39 | [Green & Gold](https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK) | 4:38 |
+| 39 | [If You Ever Wanna Be In Love \- James Bay Spotify Session 2015](https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [James Bay Spotify Session 2015](https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf) | 3:56 |
 | 40 | [Sunflower](https://open.spotify.com/track/5Tm0nxA2TSJ96s3AU0acIv) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Make It Poetic](https://open.spotify.com/album/0YI2pqlXEO0UJ2Gi8uMwB0) | 3:23 |
-| 41 | [If You Ever Wanna Be In Love \- James Bay Spotify Session 2015](https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [James Bay Spotify Session 2015](https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf) | 3:56 |
+| 41 | [Green & Gold](https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK) | 4:38 |
 | 42 | [Decimal](https://open.spotify.com/track/6eusWfAal7mOOLr0XFLkiY) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 2:58 |
 | 43 | [Cannonball](https://open.spotify.com/track/0knqVSsgD7C8yu5yNmQFbA) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La) | 5:10 |
 | 44 | [Saw You In A Dream](https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Saw You In A Dream](https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk) | 3:28 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 | 64 | [The Breach](https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [The Breach EP](https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR) | 4:13 |
 | 65 | [Grey](https://open.spotify.com/track/2J4DpqJCIuuM9WjtWHbjvd) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [The Good Times and The Bad Ones](https://open.spotify.com/album/0cVSrL39wn0PkBm9PFf6G2) | 4:37 |
 | 66 | [Baby](https://open.spotify.com/track/17XvbAd3K1GOjWy5uQvK2U) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [What Will We Be \(Standard\)](https://open.spotify.com/album/0TrxxY9oApTHWo8QZv8MbI) | 3:05 |
-| 67 | [Is It Just Me? \(feat\. JP Cooper\)](https://open.spotify.com/track/754zNJgoWQaGETFzSYVlmC) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Is It Just Me?](https://open.spotify.com/album/3DgJhCabZjQ3zMcw0E8zWX) | 3:23 |
-| 68 | [Emily](https://open.spotify.com/track/7qGzlqZnl6j8qccvV70PhL) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Emily](https://open.spotify.com/album/4eUkjbFmGRPNuFZ8v4ytJo) | 3:23 |
+| 67 | [Emily](https://open.spotify.com/track/7qGzlqZnl6j8qccvV70PhL) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Emily](https://open.spotify.com/album/4eUkjbFmGRPNuFZ8v4ytJo) | 3:23 |
+| 68 | [Is It Just Me? \(feat\. JP Cooper\)](https://open.spotify.com/track/754zNJgoWQaGETFzSYVlmC) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Is It Just Me?](https://open.spotify.com/album/3DgJhCabZjQ3zMcw0E8zWX) | 3:23 |
 | 69 | [Hurt Somebody \(With Julia Michaels\)](https://open.spotify.com/track/7vA2Y79Q4bBqdzBCfHeGEe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Hurt Somebody](https://open.spotify.com/album/1TMA2dKLdsJZ8u1iikE6Ow) | 2:48 |
 | 70 | [If Ever \(with Jack Johnson & Ben Harper\)](https://open.spotify.com/track/5CeXAfGpk9baITQvV0feoG) | [Paula Fuga](https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [If Ever](https://open.spotify.com/album/0hWhMuCu6vFSHTJNH3BqqC) | 3:35 |
 | 71 | [Somebody](https://open.spotify.com/track/2p2PyJXXzOzpaP2HEEKYsE) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality \(Complete Edition\)](https://open.spotify.com/album/40OV4pw1Vvzrvo2yOTl5AF) | 2:49 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0aozDLZsk7.md) - [plain]
 | 79 | [Home](https://open.spotify.com/track/2fDVMNQmFuMORDD3dP7GkN) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:53 |
 | 80 | [Verónica](https://open.spotify.com/track/3ppKzJJeiveJtB03kuk43D) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [Tristán, Ahora Con Reloj](https://open.spotify.com/album/7oDxt14IyAbiLAxlCMLHEe) | 2:53 |
 
-Snapshot ID: `AAAAAJbHlUg8zSVvvRRuZh0ump3zKNrx`
+Snapshot ID: `AAAAAEdKWyXwlBIAe/WauBiBEl0lgC+1`

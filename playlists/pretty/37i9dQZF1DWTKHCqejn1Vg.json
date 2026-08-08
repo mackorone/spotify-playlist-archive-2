@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 34693,
+  "num_followers": 34691,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPij6hBVrv8HTOB+XkRe9Ro3dPa9",
+  "snapshot_id": "AAAAAIlkwRnChKHGB6ckNpudqKdQzQ6B",
   "tracks": [
     {
       "added_at": "2026-06-29 08:23:18",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-06-29 08:23:18",
       "album": {
+        "name": "OVERDRIVE",
+        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
+      },
+      "artists": [
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "duration_ms": 184266,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/1RQqbSlookHZBgm5Cf3Sg4"
+    },
+    {
+      "added_at": "2026-06-29 08:23:18",
+      "album": {
         "name": "B side",
         "url": "https://open.spotify.com/album/7sEUUITszL8AQptgMEUrkz"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 197750,
       "name": "Flicker (Feat. Car, the garden)",
       "url": "https://open.spotify.com/track/1llrs3s4loOC4eMaV1yc1x"
-    },
-    {
-      "added_at": "2026-06-29 08:23:18",
-      "album": {
-        "name": "OVERDRIVE",
-        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
-      },
-      "artists": [
-        {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
-        }
-      ],
-      "duration_ms": 184266,
-      "name": "Habit",
-      "url": "https://open.spotify.com/track/1RQqbSlookHZBgm5Cf3Sg4"
     },
     {
       "added_at": "2026-06-29 08:23:18",

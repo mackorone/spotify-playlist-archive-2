@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 112394,
       "name": "DON'T WAKE ME UP",
       "url": "https://open.spotify.com/track/6gidcNjsWDr8Wt0unARiv1"
@@ -1210,7 +1210,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 123636,
       "name": "DOROTHY",
       "url": "https://open.spotify.com/track/2AcmAP5GSR5Zg2uRoW9Xzx"
@@ -2029,6 +2029,24 @@
     },
     {
       "album": {
+        "name": "Keep Up",
+        "url": "https://open.spotify.com/album/3NzDCbjZaErLctPH77vbaV"
+      },
+      "artists": [
+        {
+          "name": "Travy",
+          "url": "https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "Keep Up",
+      "url": "https://open.spotify.com/track/1W7NwoNXkeQHtPNykbXwaP"
+    },
+    {
+      "album": {
         "name": "KEHLANI (REMIX) [feat. Kehlani]",
         "url": "https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ"
       },
@@ -2182,7 +2200,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 195753,
       "name": "Light It Up",
       "url": "https://open.spotify.com/track/43mrbXwYPHFmj4Eg0PTDhA"
@@ -2448,7 +2466,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 152275,
       "name": "mohneymarch",
       "url": "https://open.spotify.com/track/0boOfS4UedlQZ7GB7xke3a"
@@ -2510,7 +2528,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 305240,
       "name": "Mount Rushmore (feat. Kano & Wretch 32)",
       "url": "https://open.spotify.com/track/39aFGcwsZSn4zjKepcBXE0"
@@ -2922,6 +2940,46 @@
       "duration_ms": 138165,
       "name": "Point To Prove",
       "url": "https://open.spotify.com/track/33aOtS134ourFh9cLtx0rs"
+    },
+    {
+      "album": {
+        "name": "PRESSURE",
+        "url": "https://open.spotify.com/album/5rdwzI9gxT5QsDkGHJtwv4"
+      },
+      "artists": [
+        {
+          "name": "K-Trap",
+          "url": "https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136533,
+      "name": "PRESSURE",
+      "url": "https://open.spotify.com/track/6aRUdMoZ5iNZrisubVw0SC"
+    },
+    {
+      "album": {
+        "name": "PRINCE OF THE SCENE",
+        "url": "https://open.spotify.com/album/0Eqp6A7oVC3upNYMGsu26e"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116073,
+      "name": "PRINCE OF THE SCENE",
+      "url": "https://open.spotify.com/track/7LyhTlyFkFJdGkpBoENPX6"
     },
     {
       "album": {
@@ -3644,6 +3702,24 @@
       "duration_ms": 203571,
       "name": "Tshwala Bam (feat. S.N.E)",
       "url": "https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41"
+    },
+    {
+      "album": {
+        "name": "Turnt To A Target",
+        "url": "https://open.spotify.com/album/38nVQrUylnvcwOZIK9epvr"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184109,
+      "name": "Turnt To A Target",
+      "url": "https://open.spotify.com/track/4hPfHFjl9GDxR3uvpZ7DMh"
     },
     {
       "album": {

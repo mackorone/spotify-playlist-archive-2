@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 55150,
+  "num_followers": 55156,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAAqIPBwgDSgSved+YyXmFU6",
+  "snapshot_id": "anPOgAAAAABYPXHz3PeeTEXEMZrR+caL",
   "tracks": [
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 260533,
-      "name": "Paths That Cross",
-      "url": "https://open.spotify.com/track/7du504gsgnBEdLP08tdEmp"
+      "duration_ms": 327026,
+      "name": "The Jackson Song",
+      "url": "https://open.spotify.com/track/5VQgrcLsb4C712tVEa3rm9"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 327026,
-      "name": "The Jackson Song",
-      "url": "https://open.spotify.com/track/5VQgrcLsb4C712tVEa3rm9"
+      "duration_ms": 260533,
+      "name": "Paths That Cross",
+      "url": "https://open.spotify.com/track/7du504gsgnBEdLP08tdEmp"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 340050,
-      "name": "Seneca",
-      "url": "https://open.spotify.com/track/5ZbsRAI0L22x5wV9sjvT1m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "These Are The Words (From \"Pope Francis: A Man of His Word\")",
         "url": "https://open.spotify.com/album/2fXB301xeX4kcuMd4lD5x6"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 265293,
       "name": "These Are The Words - From \"Pope Francis: A Man of His Word\"",
       "url": "https://open.spotify.com/track/4VA2oV0FfcpaAowScXnR18"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 340050,
+      "name": "Seneca",
+      "url": "https://open.spotify.com/track/5ZbsRAI0L22x5wV9sjvT1m"
     },
     {
       "added_at": null,

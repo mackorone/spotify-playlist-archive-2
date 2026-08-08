@@ -150,7 +150,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 157695,
       "name": "As\u00ed las Cosas",
       "url": "https://open.spotify.com/track/526NOmILzrs7f47mHXDrFm"
@@ -1266,6 +1266,28 @@
       "duration_ms": 196666,
       "name": "Seguramente",
       "url": "https://open.spotify.com/track/21QPEewQy6P4l6mY0OE1fL"
+    },
+    {
+      "album": {
+        "name": "Tiempo Al Tiempo",
+        "url": "https://open.spotify.com/album/6dxc0QAX01BMhq85AQvI2J"
+      },
+      "artists": [
+        {
+          "name": "Fede Figueroa",
+          "url": "https://open.spotify.com/artist/72EKkr04awG6qLW30R5VGU"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178224,
+      "name": "Sin Detalles",
+      "url": "https://open.spotify.com/track/24yCeL5tfe11BgbIRSxbOw"
     },
     {
       "album": {

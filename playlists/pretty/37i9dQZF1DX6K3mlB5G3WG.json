@@ -1,13 +1,29 @@
 {
   "description": "Stray Kids in cover + le migliori nuove uscite \ud83c\uddee\ud83c\uddf9 e \ud83c\udf0e!\n",
-  "num_followers": 65346,
+  "num_followers": 65357,
   "original_name": "Novit\u00e0 Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABbvjUbvLsrEtHTt0eEPJOLX8xQR",
+  "snapshot_id": "AAAAANCmfqvhKdImSDusl9xaPeHqNOtb",
   "tracks": [
+    {
+      "added_at": "2026-08-06 22:02:23",
+      "album": {
+        "name": "THIS & THAT",
+        "url": "https://open.spotify.com/album/0VDVnZhY399q6sIrdyjZWj"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "This & That",
+      "url": "https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP"
+    },
     {
       "added_at": "2026-08-06 22:02:23",
       "album": {

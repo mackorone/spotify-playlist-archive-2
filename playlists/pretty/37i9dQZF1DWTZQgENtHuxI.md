@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 
 > Sortez les pantalons pattes d‘eph et les chemises en satin !
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,906 likes - 50 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,907 likes - 50 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 | 49 | [Dancing Queen](https://open.spotify.com/track/01iyCAUm8EvOFqVWYJ3dVX) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/79ZX48114T8NH36MnOTtl7) | 3:50 |
 | 50 | [Stayin' Alive \- Remastered Version](https://open.spotify.com/track/3LmpQiFNgFCnvAnhhvKUyI) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Number Ones](https://open.spotify.com/album/79F4jBcsI4qg66Xax1u4U8) | 4:45 |
 
-Snapshot ID: `AAAAAK9gwxNM8njIr0LvSRJrmKuCnD2Q`
+Snapshot ID: `AAAAAFHRXO+2cT/rnLx6/F7XueTBNjY1`

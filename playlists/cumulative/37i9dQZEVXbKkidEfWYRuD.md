@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-2,271 songs - 4 day 10 hr 12 min
+2,273 songs - 4 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [5IVE](https://open.spotify.com/track/2kLmAwQCBSlvtcptioAoTv) | [LOVV66](https://open.spotify.com/artist/5A9NWhs9ydYZPGgvcWI8Ms) | [5IVE](https://open.spotify.com/album/4YOwEVRxXTTnq5taJ3fT7J) | 2:23 | 2023-01-08 | 2023-02-18 |
 | [6AM в Будапеште](https://open.spotify.com/track/6cicFqh6IvNOc4FGXChnFB) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [6AM в Будапеште](https://open.spotify.com/album/1HL8rCyocGXRmHPE796Gqb) | 3:06 | 2023-04-15 | 2023-04-23 |
 | [6AM в Будапеште](https://open.spotify.com/track/788Sc88rcCe1GWVZ3ofJKQ) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [Cкучаю, Но Работаю](https://open.spotify.com/album/1jfgIZ6NpbIMApVH5qq7um) | 3:06 | 2023-04-22 | 2023-04-24 |
+| [747](https://open.spotify.com/track/0fOk5gmlKmhKEmSWpI6Cc0) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [747](https://open.spotify.com/album/3J3ITSVDv3uw2gdOB2EtRR) | 2:53 | 2026-08-07 |  |
 | [8 диво](https://open.spotify.com/track/2gmg8hpkqJD1gCvxpPRANx) | [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW) | [8 диво](https://open.spotify.com/album/4YKMi0o3WJ0QUEbMbmBZo0) | 2:49 | 2026-02-21 | 2026-02-23 |
 | [8 миля](https://open.spotify.com/track/67llqAFIyR6d6JMjDImDyU) | [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt), [VILLIAN](https://open.spotify.com/artist/4UsmVGTdKwCWC0B86P6N7L) | [8 миля](https://open.spotify.com/album/3YnW0b8cZDhpCoBi0uI0Y6) | 1:55 | 2026-02-23 |  |
 | [99 Problems](https://open.spotify.com/track/0r9fpWPI6z3V3YZXIiVaNC) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu) | 2:39 | 2021-10-23 | 2022-07-22 |
@@ -1545,7 +1546,7 @@
 | [Жовті квіти](https://open.spotify.com/track/2r6cHg9JyC40mZge3JsSMP) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y), [OSTY](https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0) | [Інтимна лірика](https://open.spotify.com/album/1vLEmVLP1GiDm4m0uQXWfG) | 2:59 | 2025-06-02 | 2025-06-04 |
 | [Жорики](https://open.spotify.com/track/3nhKaqLzFkGDkAEfb3XvZT) | [SODA LUV](https://open.spotify.com/artist/3TikHXhctY4FUIMlkl0tzR) | [Жорики](https://open.spotify.com/album/7efz6ZjPNulYuEZAnpsClZ) | 2:36 | 2022-01-29 | 2022-02-05 |
 | [журавли](https://open.spotify.com/track/7i7f7hw0n83iNcD9OhCFsB) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB), [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [журавли](https://open.spotify.com/album/5n6NwlDO5PkAwoFHBgWnRf) | 2:42 | 2024-08-31 | 2024-09-04 |
-| [З якого ти поверху неба?](https://open.spotify.com/track/7JZs5hNCz4be2sJxaLIy5l) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [YARMAK](https://open.spotify.com/artist/0oHyOQzDKjW5JVf347hue4) | [АРХЕТИПИ](https://open.spotify.com/album/5Kru1f3VVwSz8LRI9ubVjj) | 3:16 | 2025-05-09 |  |
+| [З якого ти поверху неба?](https://open.spotify.com/track/7JZs5hNCz4be2sJxaLIy5l) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [YARMAK](https://open.spotify.com/artist/0oHyOQzDKjW5JVf347hue4) | [АРХЕТИПИ](https://open.spotify.com/album/5Kru1f3VVwSz8LRI9ubVjj) | 3:16 | 2025-05-09 | 2026-08-08 |
 | [За всех](https://open.spotify.com/track/7uJlcGDXjx8Ha6t8kWFlxf) | [MACAN](https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU) | [За всех](https://open.spotify.com/album/6iKw2kpxfdP9j0jn6Q3D7f) | 1:44 | 2022-02-08 | 2022-02-27 |
 | [ЗА ДЕНЬГИ ДА](https://open.spotify.com/track/1mAed61HkjfjJc5evljpNs) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [ЗА ДЕНЬГИ ДА](https://open.spotify.com/album/0DQpVAxO6BwRLfiaeQt6QE) | 1:59 | 2022-11-27 | 2022-12-20 |
 | [ЗА ДЕНЬГИ ДА](https://open.spotify.com/track/4PGzoH4hL1vORGOTxHdWjB) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [POPSTAR](https://open.spotify.com/album/33QIdvBtMb6tH4XmRBjPLj) | 1:59 | 2022-12-17 | 2023-04-12 |
@@ -1588,6 +1589,7 @@
 | [Знайди мене](https://open.spotify.com/track/1GUQJU4M76atFmI5Yu9I8i) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Бережи мене](https://open.spotify.com/album/1ayGglzj3DtVKaSeRaJTsB) | 2:30 | 2024-09-21 | 2025-11-08 |
 | [Знайди мене](https://open.spotify.com/track/2xmQMKTjiOdkdGVgqDzezo) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Бережи мене](https://open.spotify.com/album/7re2czLU735n5zlY6uGRBb) | 2:30 | 2023-10-13 | 2024-09-22 |
 | [Знайди мене \- KAVA Remix](https://open.spotify.com/track/4RhA4AQeBc29toklGPMJUk) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y), [KAVA](https://open.spotify.com/artist/3TPf0u6jcGKKpzYn0A57ye) | [Знайди мене \(KAVA Remix\)](https://open.spotify.com/album/4TFNfO3cTkY7Ajgzf4cyZM) | 2:18 | 2023-10-20 | 2023-12-26 |
+| [ЗНАК](https://open.spotify.com/track/2O9gTMtQz4mSnn0z58o5x5) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW), [Дора](https://open.spotify.com/artist/2eiThpX5zH6LFmqP2HY1hL) | [ЗНАК](https://open.spotify.com/album/4RHWbcsl6dns8FMcElOEGg) | 3:36 | 2026-08-07 |  |
 | [Зоопарк](https://open.spotify.com/track/777TceiGuC1kjvAiVAHvTo) | [10AGE](https://open.spotify.com/artist/0iWCupAJreesWuLo9wkpXt) | [Зоопарк](https://open.spotify.com/album/7boVn0Y3wxQDfmxQFO6FXG) | 3:00 | 2021-09-19 | 2021-10-23 |
 | [Зорi](https://open.spotify.com/track/7mXxcF1nFQvcvANuYwdrv2) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842) | [HOTIN](https://open.spotify.com/album/6onAeeUeEiXf2sReUGAThp) | 3:20 | 2022-03-27 | 2022-08-05 |
 | [ЗППП](https://open.spotify.com/track/4mOL5V2LZzDhAxmsHvjZzv) | [CUPSIZE](https://open.spotify.com/artist/6piaRBSk79hfoHINy7DMGO) | [заставь меня плакать](https://open.spotify.com/album/30cAXP9iph7hbTDn0pvNy2) | 2:29 | 2026-05-30 | 2026-06-19 |
@@ -1691,7 +1693,7 @@
 | [Любознательность](https://open.spotify.com/track/4I181LTcSG1VMpCyk21HDn) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [Брутто](https://open.spotify.com/artist/3R1s7ru91QkN2uPJ8Uc9fU) | [FREERIO 2](https://open.spotify.com/album/4Bxc3xz4eRLzZBfluYRfiP) | 2:32 | 2022-04-30 | 2022-05-02 |
 | [Люди](https://open.spotify.com/track/3mMPorZSb7rycKSyo0lLuB) | [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS), [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Люди](https://open.spotify.com/album/4lotV3AnFcxXXwgteNSLfs) | 2:49 | 2023-02-28 | 2024-03-19 |
 | [Люди](https://open.spotify.com/track/3rpi29kD9YUDwXz1yhjS7Q) | [Дайте танк \(!\)](https://open.spotify.com/artist/6iQqWcDg92kre5ykFLwqD8) | [Человеко\-часы](https://open.spotify.com/album/2ON29bewzeXTHezQ4j8xTy) | 2:42 | 2025-04-03 | 2025-04-05 |
-| [Людина для мене](https://open.spotify.com/track/62vzgg6Lx13JHk5Lzlhuln) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Людина для мене](https://open.spotify.com/album/4JK6ynAd87SklnVH1P6YpE) | 4:27 | 2026-05-23 |  |
+| [Людина для мене](https://open.spotify.com/track/62vzgg6Lx13JHk5Lzlhuln) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Людина для мене](https://open.spotify.com/album/4JK6ynAd87SklnVH1P6YpE) | 4:27 | 2026-05-23 | 2026-08-08 |
 | [Людині потрібна людина](https://open.spotify.com/track/0yarSq407oVFB43L28qYz7) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [ЛПЛ](https://open.spotify.com/album/5UTtAoS25OMBpvzlS9moaI) | 2:20 | 2025-07-12 | 2025-07-14 |
 | [Лёд](https://open.spotify.com/track/7D8k995g6jdie4NF1E7Tpu) | [WENARO](https://open.spotify.com/artist/4MbzUyEgKb5gSYXojwG7u5), [LXNER](https://open.spotify.com/artist/0u32PEQJMO9ufiSInHtKXt) | [Лёд](https://open.spotify.com/album/3MHgUaAo7Gjdzhn3Obmbit) | 2:32 | 2021-09-03 | 2022-07-24 |
 | [Магазин](https://open.spotify.com/track/0cxKqzCYTNND97CQOBWtha) | [YUNGWAY](https://open.spotify.com/artist/69S11q66dsnK9gQUQo68IZ), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [Excalibur](https://open.spotify.com/album/33rtyAHvVG2lU8ZFKVK5Mv) | 1:49 | 2023-04-13 | 2023-04-15 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/31KmCnNeB0z9GdgtqlLDlH">Kid Harpoon</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-167 songs - 9 hr 54 min
+168 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Are You Listening Yet?](https://open.spotify.com/track/7s7v5EoNLD6TwDu4Nw51Oy) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:12 | 2026-05-19 |  |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2026-05-19 |  |
 | [Babylon](https://open.spotify.com/track/3VW42XrGdzQ8HLpJKLkZkZ) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh) | [Me 4 U](https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL) | 3:23 | 2026-05-19 |  |
+| [Back from Beyond](https://open.spotify.com/track/4S9hqUcn1R1WFtIAiPy6ID) | [Kid Harpoon](https://open.spotify.com/artist/0raU17YI2OXuenDM7N7gfh) | [Once](https://open.spotify.com/album/2EsDLIabBTzC4IdNU07KAa) | 3:17 | 2026-08-07 |  |
 | [Back Packing](https://open.spotify.com/track/1xivpvUfpVCO4FmO0awdxb) | [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1) | [In Your Hands \(Deluxe Edition\)](https://open.spotify.com/album/1LMMAiUqFPsHi4MnU90xb1) | 3:34 | 2026-05-19 |  |
 | [Bass Like Home](https://open.spotify.com/track/0uBfeMjBTyW8vkbD9hIhXI) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Bass Like Home](https://open.spotify.com/album/3s3tamxSLF51wIrWrYKb5V) | 3:59 | 2026-05-19 |  |
 | [Be Cool](https://open.spotify.com/track/13WcpETaTUAFDyhVvvXdDa) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 2:57 | 2026-05-19 |  |

@@ -132,7 +132,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 422974,
       "name": "1900 Washy",
       "url": "https://open.spotify.com/track/7dIrd347NR8f51JEM3gokY"
@@ -11914,7 +11914,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 295157,
       "name": "Habibi Howa",
       "url": "https://open.spotify.com/track/3rWC89eFiYAC5enhaRLZ5X"
@@ -15002,6 +15002,24 @@
       "duration_ms": 320030,
       "name": "K.",
       "url": "https://open.spotify.com/track/1FWsomP9StpCcXNWmJk8Cl"
+    },
+    {
+      "album": {
+        "name": "Seif Nabil Collection",
+        "url": "https://open.spotify.com/album/0W4ISaGgVDmzYf7VqqV0ba"
+      },
+      "artists": [
+        {
+          "name": "Saif Nabeel",
+          "url": "https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373812,
+      "name": "Kabl Yomen",
+      "url": "https://open.spotify.com/track/3v0d50lcF262Mj08I77LBR"
     },
     {
       "album": {
@@ -20304,6 +20322,28 @@
       "duration_ms": 195950,
       "name": "N95",
       "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
+    },
+    {
+      "album": {
+        "name": "Nano",
+        "url": "https://open.spotify.com/album/3fv8OyR9optht1R8q7ReFk"
+      },
+      "artists": [
+        {
+          "name": "TUL8TE",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        },
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216806,
+      "name": "Nano",
+      "url": "https://open.spotify.com/track/6yrZoKcoa7EIx7e7uCCmPW"
     },
     {
       "album": {
@@ -30064,7 +30104,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 277707,
       "name": "TQBL Kol",
       "url": "https://open.spotify.com/track/7b4B5ACH9ZxnDnUVi2USqV"
@@ -37918,7 +37958,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 348003,
       "name": "\u0648\u064a\u0646 \u0635\u0631\u062a\u064a",
       "url": "https://open.spotify.com/track/0ywKzyhWxFQWGiQyjDBQFw"

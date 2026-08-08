@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,106 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,123 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 36 | [Star Witness](https://open.spotify.com/track/17fWdcSAhLc6559youmLap) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 5:16 |
 | 37 | [Conversation With The Devil](https://open.spotify.com/track/2nww8CKg1BqCh6Eyr6sr6m) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Crusades Of The Restless Knights](https://open.spotify.com/album/1WyEuAoHbMBPvyr7bi3EgU) | 4:54 |
 | 38 | [New Madrid](https://open.spotify.com/track/4Ssgx7QJr0fzabt4D4JZ1b) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [Anodyne](https://open.spotify.com/album/5DQRAlGAFTpHsXGEg5zw9V) | 3:31 |
-| 39 | [New Orleans](https://open.spotify.com/track/30DrekKEh1G4jBkQlEfKQl) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Palomino](https://open.spotify.com/album/4a1gvrakHL6eEm4P86AUiR) | 3:31 |
-| 40 | [Traveling Alone](https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Traveling Alone](https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R) | 4:44 |
+| 39 | [Traveling Alone](https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Traveling Alone](https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R) | 4:44 |
+| 40 | [New Orleans](https://open.spotify.com/track/30DrekKEh1G4jBkQlEfKQl) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Palomino](https://open.spotify.com/album/4a1gvrakHL6eEm4P86AUiR) | 3:31 |
 | 41 | [Save It For A Rainy Day](https://open.spotify.com/track/6IZIEhCq9crPjl2jGUvELS) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Rainy Day Music](https://open.spotify.com/album/3vI8vpQDeh7NaNEY1AilPm) | 3:07 |
 | 42 | [It's Not You, It's Me](https://open.spotify.com/track/3bWvZ3YluJBtHgCP7c0tBv) | [The Little Willies](https://open.spotify.com/artist/4MWopTgyvixq0tNiFrVg0l) | [The Little Willies](https://open.spotify.com/album/5G864T3Gd0LlUEQdw0iZiw) | 2:43 |
 | 43 | [Everything Is Free](https://open.spotify.com/track/4hOGvEXmiu9LQcQSRM5dvn) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Time \(The Revelator\)](https://open.spotify.com/album/5q1V1otgRVF39cZY2RQab8) | 4:47 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 65 | [Drown](https://open.spotify.com/track/0pudWyp5g98c7jAYYp7MUL) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Trace](https://open.spotify.com/album/5secpXfB8n8zeDiA0l60K6) | 3:21 |
 | 66 | [Tennessee Song](https://open.spotify.com/track/3g9j6JMBhbrEiY65PEmkv5) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/1RV9pacIcXvkUiAD0EjTdL) | 4:40 |
 | 67 | [Keep the Home Fires Burnin'](https://open.spotify.com/track/7gwmLVgGZ43UxpvnKAcZJz) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Sidelong](https://open.spotify.com/album/6b5MHLkj051eiAt1NgBLe3) | 3:03 |
-| 68 | [The Beauty Way](https://open.spotify.com/track/5plZsXyfMyDP5bvDIGrqOz) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Delirium Tremolos](https://open.spotify.com/album/3CQA3UGZ7hj4HbTnGpEGf9) | 3:29 |
-| 69 | [Brady](https://open.spotify.com/track/42FrunKt2Ad5bDW2fVrRIj) | [Backyard Tire Fire](https://open.spotify.com/artist/3OvUCYn1LXlIffYy9HSxT0) | [Good to Be](https://open.spotify.com/album/3g1s5N9mNDd8ZV2GlOJ8NX) | 4:06 |
+| 68 | [Brady](https://open.spotify.com/track/42FrunKt2Ad5bDW2fVrRIj) | [Backyard Tire Fire](https://open.spotify.com/artist/3OvUCYn1LXlIffYy9HSxT0) | [Good to Be](https://open.spotify.com/album/3g1s5N9mNDd8ZV2GlOJ8NX) | 4:06 |
+| 69 | [The Beauty Way](https://open.spotify.com/track/5plZsXyfMyDP5bvDIGrqOz) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Delirium Tremolos](https://open.spotify.com/album/3CQA3UGZ7hj4HbTnGpEGf9) | 3:29 |
 | 70 | [Too Lazy To Work, Too Nervous To Steal](https://open.spotify.com/track/0kkBKoElWdLJKlEHt4nM58) | [BR549](https://open.spotify.com/artist/6h72WuqMdodzUIZGS0YEyU) | [This Is BR549](https://open.spotify.com/album/4E1URWpVQFzwRlCokb2mc0) | 3:53 |
 | 71 | [The El](https://open.spotify.com/track/6C0SXBkORzmP9elNb2gMcu) | [Rhett Miller](https://open.spotify.com/artist/0wNZd1CMOsFZ0TiBhlqjD5) | [The Instigator](https://open.spotify.com/album/0Pup5rX8QvSNgSBLX7Vu69) | 3:09 |
 | 72 | [Two Hearts Down](https://open.spotify.com/track/18i8x1wiccOX6XiHrauIDn) | [The Black Lillies](https://open.spotify.com/artist/06Y4yJmsrlzPrwIG46ce7X) | [100 Miles of Wreckage](https://open.spotify.com/album/6dSZmYZTOVUgrsHUMUIChX) | 3:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 74 | [Post to Wire](https://open.spotify.com/track/2vwOmgQGX1abLc6dDqyRry) | [Richmond Fontaine](https://open.spotify.com/artist/2zTCLiQ8OUIWEyV6eZWzFy) | [Post to Wire](https://open.spotify.com/album/1IQSQJop8pMbbWozvZsMbc) | 2:13 |
 | 75 | [Officer Down](https://open.spotify.com/track/2hS1eS0RAg5b9VzRPSPK6J) | [Carolyn Mark](https://open.spotify.com/artist/5LEbX3AeiknZxV5zOIFhCH), [NQ Arbuckle](https://open.spotify.com/artist/0UXWUsqoGhYC4sCiEe7tEk) | [Let's Just Stay Here](https://open.spotify.com/album/610I6r165R7zGCI2rFlQc7) | 3:57 |
 
-Snapshot ID: `AAAAAABslg28EMSnXabfO4mQYVarU4mq`
+Snapshot ID: `AAAAANSHyDkQ5Ol8YDU+1FylnqyH/AAZ`

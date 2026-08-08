@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ziVCJnEm59.md) - [plain]
 
 > Curl up in your favorite spot with some sweet, mellow tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,017,328 likes - 146 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,017,170 likes - 146 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ziVCJnEm59.md) - [plain]
 | 145 | [Fly \- Acoustic](https://open.spotify.com/track/2YVK7RkwslK62gTCWboDPM) | [Meadowlark](https://open.spotify.com/artist/3M8Mq1n1l1TRnTUw2MRSCs) | [Dual](https://open.spotify.com/album/4vCwbb8M7HVTPGrDGsTYh4) | 3:31 |
 | 146 | [Only Children](https://open.spotify.com/track/6BzU6BMqMd4qelkWTjLwKy) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Reunions](https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz) | 3:57 |
 
-Snapshot ID: `AAAAAFPF4CYu+c82gVqzEDW/v4dPxL9Y`
+Snapshot ID: `AAAAAHIy3453LHvoCN/80YSbjvOORlQN`

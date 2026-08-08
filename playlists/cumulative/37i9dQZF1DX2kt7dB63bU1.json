@@ -7994,7 +7994,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 349228,
       "name": "In The Still Of The Night",
       "url": "https://open.spotify.com/track/2EsvJgqybdGiwFdViEvPgr"
@@ -8108,6 +8108,36 @@
       "duration_ms": 258900,
       "name": "Inside and Out",
       "url": "https://open.spotify.com/track/590wQwgPHKRMOppPGNGmVR"
+    },
+    {
+      "album": {
+        "name": "Burgundy",
+        "url": "https://open.spotify.com/album/73qeUetzmmmf5F7qTR9SkC"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        },
+        {
+          "name": "Dezron Douglas",
+          "url": "https://open.spotify.com/artist/3HtyiTNRFO5HOPU5Cj3at7"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205403,
+      "name": "Inspira",
+      "url": "https://open.spotify.com/track/3BFnET4W8krQ33HwokfpBj"
     },
     {
       "album": {
@@ -12842,7 +12872,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 183978,
       "name": "Pour for the Hour",
       "url": "https://open.spotify.com/track/46G8UvNyqy1YKlUxYxltIL"
@@ -13154,7 +13184,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 213707,
       "name": "Release me",
       "url": "https://open.spotify.com/track/3OQS20U3O3UEgRdF2SqffP"
@@ -13194,6 +13224,28 @@
       "duration_ms": 206595,
       "name": "Retro Kind of Love",
       "url": "https://open.spotify.com/track/0ccnF7JHBUewZYWNXrut2y"
+    },
+    {
+      "album": {
+        "name": "You Irritate Me So",
+        "url": "https://open.spotify.com/album/5NUwxTLDOtxWKjxd43BiAi"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Mark Limacher",
+          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154160,
+      "name": "Ridin' High",
+      "url": "https://open.spotify.com/track/5QViSSo6i1Org1TGMn5szj"
     },
     {
       "album": {
@@ -14929,6 +14981,24 @@
     },
     {
       "album": {
+        "name": "Strange Things Lovers Do",
+        "url": "https://open.spotify.com/album/1nPtdjdOQcZupwKIEFQtTZ"
+      },
+      "artists": [
+        {
+          "name": "Tom Petrone",
+          "url": "https://open.spotify.com/artist/76Y7Pfxut1SGgIEF4RWDsb"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218578,
+      "name": "Strange Things Lovers Do",
+      "url": "https://open.spotify.com/track/0FAyBwp6WWv4BAu8JJyquh"
+    },
+    {
+      "album": {
         "name": "Streets Of Philadelphia",
         "url": "https://open.spotify.com/album/1aU3vWkTS7Ej9VEtueevrV"
       },
@@ -16062,7 +16132,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 307567,
       "name": "The Music That Makes Me Dance",
       "url": "https://open.spotify.com/track/2Z84D8TYmtA126ofIvQDtn"
@@ -16926,6 +16996,24 @@
       "duration_ms": 350080,
       "name": "Throw It Away",
       "url": "https://open.spotify.com/track/3q3465HnvKxYFyideAjCoE"
+    },
+    {
+      "album": {
+        "name": "What Does It Take to Bloom?",
+        "url": "https://open.spotify.com/album/54ST4y3yA1Is8hXRhDpH2o"
+      },
+      "artists": [
+        {
+          "name": "Somi",
+          "url": "https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307660,
+      "name": "Throw Something",
+      "url": "https://open.spotify.com/track/5Ahzftt1kLGb1daMiLOk8e"
     },
     {
       "album": {
@@ -18511,6 +18599,24 @@
     },
     {
       "album": {
+        "name": "Where is It Written?",
+        "url": "https://open.spotify.com/album/7kSsU12ybpCmhNb6pXR5uh"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365626,
+      "name": "Where is It Written?",
+      "url": "https://open.spotify.com/track/5ts8DaYwiFI13Pk7KIoiwW"
+    },
+    {
+      "album": {
         "name": "Where Is My Mind?",
         "url": "https://open.spotify.com/album/5mCKRevIS8lw1NtSqBJjZT"
       },
@@ -18562,7 +18668,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 203300,
       "name": "Where or When",
       "url": "https://open.spotify.com/track/4gJXJkd0zFFanZL2w0RsMB"

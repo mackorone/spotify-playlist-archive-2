@@ -1,13 +1,45 @@
 {
-  "description": "The hottest 50. Cover: Ariana Grande",
-  "num_followers": 33972055,
+  "description": "The hottest 50. Cover: Olivia Rodrigo",
+  "num_followers": 33968908,
   "original_name": "Today\u2019s Top Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACI04rOhT95G8rQ1WTj8WpiKWE66",
+  "snapshot_id": "AAAAAMc0HDXPsVAlfyEkzpZ8LKhoYAJK",
   "tracks": [
+    {
+      "added_at": "2026-06-12 04:01:39",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
+    },
+    {
+      "added_at": "2026-04-03 04:03:12",
+      "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Earrings",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
+    },
     {
       "added_at": "2026-07-31 04:01:08",
       "album": {
@@ -45,22 +77,6 @@
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
-      "added_at": "2026-06-12 04:01:39",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "stupid song",
-      "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
-    },
-    {
       "added_at": "2026-07-24 04:01:53",
       "album": {
         "name": "Animal",
@@ -75,38 +91,6 @@
       "duration_ms": 158494,
       "name": "Animal",
       "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
-    },
-    {
-      "added_at": "2026-04-03 04:03:12",
-      "album": {
-        "name": "Sweet Boy",
-        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Earrings",
-      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
-    },
-    {
-      "added_at": "2025-11-28 05:00:23",
-      "album": {
-        "name": "Choosin' Texas",
-        "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 232226,
-      "name": "Choosin' Texas",
-      "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
     },
     {
       "added_at": "2026-03-13 04:00:55",
@@ -125,20 +109,20 @@
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
-      "added_at": "2026-04-03 04:03:12",
+      "added_at": "2025-11-28 05:00:23",
       "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+        "name": "Choosin' Texas",
+        "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
       },
       "artists": [
         {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
         }
       ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+      "duration_ms": 232226,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
     },
     {
       "added_at": "2025-08-22 04:01:28",
@@ -155,6 +139,22 @@
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "added_at": "2026-04-03 04:03:12",
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
       "added_at": "2026-05-29 04:02:20",
@@ -205,22 +205,6 @@
       "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
     },
     {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
-        "name": "The Romantic",
-        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 204068,
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
-    },
-    {
       "added_at": "2026-04-17 04:03:31",
       "album": {
         "name": "drop dead",
@@ -235,6 +219,38 @@
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
+    },
+    {
+      "added_at": "2026-02-06 05:00:40",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    {
+      "added_at": "2025-10-03 04:00:55",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
     },
     {
       "added_at": "2026-03-06 05:00:25",
@@ -257,22 +273,6 @@
       "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
     },
     {
-      "added_at": "2025-10-03 04:00:55",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
-    },
-    {
       "added_at": "2026-05-08 04:04:27",
       "album": {
         "name": "Talk To You (ft. 54 Ultra)",
@@ -293,20 +293,20 @@
       "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
     },
     {
-      "added_at": "2026-02-06 05:00:40",
+      "added_at": "2026-07-31 04:01:08",
       "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+        "name": "Ain't In LA",
+        "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
         }
       ],
-      "duration_ms": 237117,
-      "name": "DtMF",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+      "duration_ms": 184927,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
     },
     {
       "added_at": "2025-09-26 04:00:25",
@@ -325,26 +325,6 @@
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
-      "added_at": "2026-02-20 05:00:30",
-      "album": {
-        "name": "Dracula (Remix)",
-        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 209720,
-      "name": "Dracula - JENNIE Remix",
-      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
-    },
-    {
       "added_at": "2025-07-11 04:00:32",
       "album": {
         "name": "SWAG",
@@ -361,20 +341,20 @@
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
     },
     {
-      "added_at": "2026-07-17 04:01:03",
+      "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "Daughter from Hell",
-        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 248164,
-      "name": "Good Reason",
-      "url": "https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ"
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
     },
     {
       "added_at": "2025-10-31 04:00:40",
@@ -453,6 +433,22 @@
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
     },
     {
+      "added_at": "2026-07-24 04:01:53",
+      "album": {
+        "name": "bloodstream",
+        "url": "https://open.spotify.com/album/4rndAJfXwOHMEPpMT8rn7Q"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Grace",
+          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
+        }
+      ],
+      "duration_ms": 177428,
+      "name": "bloodstream",
+      "url": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO"
+    },
+    {
       "added_at": "2026-06-05 04:01:28",
       "album": {
         "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
@@ -467,6 +463,22 @@
       "duration_ms": 178186,
       "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
       "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
+    },
+    {
+      "added_at": "2026-01-09 05:00:47",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "added_at": "2026-04-24 04:02:55",
@@ -501,52 +513,20 @@
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
     },
     {
-      "added_at": "2026-01-09 05:00:47",
+      "added_at": "2026-08-07 04:02:23",
       "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
       },
       "artists": [
         {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2026-07-24 04:01:53",
-      "album": {
-        "name": "Camera",
-        "url": "https://open.spotify.com/album/2P5WYw7vAwb5jeFPIU1lMc"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 151438,
-      "name": "Camera",
-      "url": "https://open.spotify.com/track/1C95XJLGL9xyMlsES1uVDQ"
-    },
-    {
-      "added_at": "2026-07-31 04:01:08",
-      "album": {
-        "name": "Ain't In LA",
-        "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 184927,
-      "name": "Ain't In LA",
-      "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
     },
     {
       "added_at": "2026-01-09 05:00:47",
@@ -581,38 +561,6 @@
       "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
     },
     {
-      "added_at": "2026-07-24 04:01:53",
-      "album": {
-        "name": "bloodstream",
-        "url": "https://open.spotify.com/album/4rndAJfXwOHMEPpMT8rn7Q"
-      },
-      "artists": [
-        {
-          "name": "Alyssa Grace",
-          "url": "https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K"
-        }
-      ],
-      "duration_ms": 177428,
-      "name": "bloodstream",
-      "url": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO"
-    },
-    {
-      "added_at": "2026-01-09 05:00:47",
-      "album": {
-        "name": "I Just Might",
-        "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 212973,
-      "name": "I Just Might",
-      "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
-    },
-    {
       "added_at": "2026-06-12 04:01:39",
       "album": {
         "name": "The Great Divide: The Last Of The Bugs",
@@ -627,6 +575,26 @@
       "duration_ms": 286967,
       "name": "Orbiter",
       "url": "https://open.spotify.com/track/4W6yulge3h7FSy0zGFrNKs"
+    },
+    {
+      "added_at": "2026-08-07 04:02:23",
+      "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 220600,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF"
     },
     {
       "added_at": "2026-07-31 04:01:08",
@@ -661,22 +629,6 @@
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
     },
     {
-      "added_at": "2026-03-06 05:00:25",
-      "album": {
-        "name": "Kiss All The Time. Disco, Occasionally.",
-        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "American Girls",
-      "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
-    },
-    {
       "added_at": "2026-02-06 05:00:40",
       "album": {
         "name": "Homewrecker",
@@ -693,6 +645,38 @@
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
     },
     {
+      "added_at": "2026-03-06 05:00:25",
+      "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "American Girls",
+      "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
+    },
+    {
+      "added_at": "2026-01-09 05:00:47",
+      "album": {
+        "name": "I Just Might",
+        "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 212973,
+      "name": "I Just Might",
+      "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
+    },
+    {
       "added_at": "2026-07-24 04:01:53",
       "album": {
         "name": "CUARTO AZUL",
@@ -707,6 +691,22 @@
       "duration_ms": 183529,
       "name": "SUPERESTRELLA",
       "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
+    },
+    {
+      "added_at": "2026-08-07 04:02:23",
+      "album": {
+        "name": "Oh yeah?",
+        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 170584,
+      "name": "oh yeah?",
+      "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8"
     },
     {
       "added_at": "2026-02-20 05:00:30",
@@ -741,22 +741,6 @@
       "url": "https://open.spotify.com/track/05CjWFAcAlY6O9po6Qwakk"
     },
     {
-      "added_at": "2026-07-10 04:02:13",
-      "album": {
-        "name": "MORNING DEW (DONK)",
-        "url": "https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 243896,
-      "name": "MORNING DEW (DONK)",
-      "url": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT"
-    },
-    {
       "added_at": "2026-05-01 04:03:54",
       "album": {
         "name": "NOBLE",
@@ -771,6 +755,22 @@
       "duration_ms": 185806,
       "name": "NOBLE",
       "url": "https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw"
+    },
+    {
+      "added_at": "2026-07-10 04:02:13",
+      "album": {
+        "name": "MORNING DEW (DONK)",
+        "url": "https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 243896,
+      "name": "MORNING DEW (DONK)",
+      "url": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT"
     },
     {
       "added_at": "2025-03-14 04:00:26",

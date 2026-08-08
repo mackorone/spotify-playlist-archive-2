@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Curated by human Spotify editors.
 
-655 songs - 2 day 5 hr 33 min
+656 songs - 2 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,7 +427,7 @@
 | [Over the Domes](https://open.spotify.com/track/4pgv2SAaz2v5l61lWeD7Zu) | [Abul Mogard](https://open.spotify.com/artist/4bNteCe0Beu161GmkB8Rq7), [Rafael Anton Irisarri](https://open.spotify.com/artist/6AdRO941ZEDh4GHcCUdEs4) | [Where Light Pauses in the Silence of the Sun](https://open.spotify.com/album/6uPTahdCFQ4Zq2DM9oC4i2) | 8:27 | 2026-07-06 |  |
 | [Pain Tolerance \- Kyle McEvoy & wowflower Remix](https://open.spotify.com/track/5MNZcXlFKjpw1COq8vvAu9) | [Heathered Pearls](https://open.spotify.com/artist/1o949goAYc4vD4IqN0zhVV), [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU) | [Cast Remixes Part III](https://open.spotify.com/album/2wlWbYB5GDccm5H2BDHZ5t) | 2:12 | 2022-01-23 | 2025-02-15 |
 | [Pale Blue Dot](https://open.spotify.com/track/3XdZ6UZGEDXvqAbbCMzzQ7) | [Casually Here](https://open.spotify.com/artist/6Uzy6y5KKy3F4G5NdKeiUd) | [Pale Blue Dot](https://open.spotify.com/album/6SG5pCBqro08A8gBpX5rv2) | 4:25 | 2022-01-14 | 2023-08-12 |
-| [Pantone 6](https://open.spotify.com/track/3BVxAb1gnSngigiot6knQk) | [To Rococo Rot](https://open.spotify.com/artist/0DRlmNJq133uYhzXxJfF3a) | [Pantone 6](https://open.spotify.com/album/2cy2Mkinu3Vx4zOas06CN8) | 4:01 | 2025-05-12 |  |
+| [Pantone 6](https://open.spotify.com/track/3BVxAb1gnSngigiot6knQk) | [To Rococo Rot](https://open.spotify.com/artist/0DRlmNJq133uYhzXxJfF3a) | [Pantone 6](https://open.spotify.com/album/2cy2Mkinu3Vx4zOas06CN8) | 4:01 | 2025-05-12 | 2026-08-08 |
 | [Para](https://open.spotify.com/track/3kEcokUxa1y9SNOCKROuar) | [Helm](https://open.spotify.com/artist/4vgGgW0EX7CeEU7WZzhbsx) | [Axis](https://open.spotify.com/album/6Cj93dwyOUJI6M9clLmQHF) | 5:41 | 2022-01-07 | 2023-05-05 |
 | [Paravents](https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy) | [John Roberts](https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6) | [Wrecked Exotic](https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz) | 4:50 | 2022-02-18 | 2022-03-04 |
 | [Part 1](https://open.spotify.com/track/1rjpUQAtezTwQkJRdP80I9) | [Charbel Haber](https://open.spotify.com/artist/2Y32ogtkRSeb6rD3Lc1uWe), [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W), [Sary Moussa](https://open.spotify.com/artist/4LbEZkjJyK79C3e14SsEPJ) | [Part 1](https://open.spotify.com/album/1LqFZnAHmoay7Nx5xZXErO) | 8:06 | 2025-06-20 | 2026-04-25 |
@@ -565,6 +565,7 @@
 | [The Edges](https://open.spotify.com/track/2x4K92FhxeJAmTiptxMijO) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Our Hands Against the Dusk](https://open.spotify.com/album/0m89bXpdmBFJzyIA4j6ZWH) | 5:07 | 2021-12-26 | 2023-04-30 |
 | [The Edges](https://open.spotify.com/track/6TFOEo0xcW0GhpVrubea9k) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Our Hands Against the Dusk](https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9) | 5:07 | 2023-04-21 | 2023-08-12 |
 | [The Eternal Thrill](https://open.spotify.com/track/27Spm7S2VdLGaVxgaM50Cu) | [Eric Hilton](https://open.spotify.com/artist/4tgBpjW0GVvKqP7uY2OHYB) | [The Eternal Thrill](https://open.spotify.com/album/6UdEjN9OMrdz9DlEzU5U3n) | 7:17 | 2024-06-04 | 2026-06-13 |
+| [The Field Of Reality](https://open.spotify.com/track/6uFDEeeTpY8G08MyagOHcf) | [Steve Rachmad](https://open.spotify.com/artist/4BmzfIGmnyaxu1REssIgPp) | [Light And Time](https://open.spotify.com/album/0kfKQpEqNNhJJrvEgM4oJs) | 3:58 | 2026-08-07 |  |
 | [The Gulf of Valencia](https://open.spotify.com/track/4LVANIDqdIe0HzoVg816OG) | [Vanity Productions](https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI) | [Sub Rosa](https://open.spotify.com/album/3ytpF5fIboDCwEAZUjGeDs) | 4:36 | 2021-12-26 | 2023-02-27 |
 | [The Hole](https://open.spotify.com/track/1q1ne8Zr1GuiVafFHD4YEe) | [Annihilation Of Self](https://open.spotify.com/artist/5DaYScQGBRXnrpi9WubEQR) | [The Nauts Log \(Chapter 1\-4\)](https://open.spotify.com/album/15iBdhwM1FXf8sIRXlv6Rl) | 9:00 | 2022-01-14 | 2023-08-12 |
 | [The Killing Of Wild Animals](https://open.spotify.com/track/1dm03UsG1jXMwmKFTE403i) | [Carlos Metta](https://open.spotify.com/artist/5igkVL3BEbBPfvcDXFgJgB), [Fernando Esteban](https://open.spotify.com/artist/0ViWQo9bhm8NeoiAqpPurg) | [Teresa /// Fortuna](https://open.spotify.com/album/7ae5Zd4cWlEJs1UFM7e40n) | 6:33 | 2021-12-26 | 2023-05-02 |

@@ -25146,7 +25146,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 216873,
       "name": "Mutsuna",
       "url": "https://open.spotify.com/track/1AZk3XywowE0xQvHOVU6NB"
@@ -27494,7 +27494,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 204923,
       "name": "OPA OPA",
       "url": "https://open.spotify.com/track/7Lnx7UuA0rf3o8G0VtZzP5"
@@ -39467,6 +39467,24 @@
     },
     {
       "album": {
+        "name": "Tvoeto Ferrari",
+        "url": "https://open.spotify.com/album/4yL468OQqlKeW6K33wYm6V"
+      },
+      "artists": [
+        {
+          "name": "Yanitsa",
+          "url": "https://open.spotify.com/artist/3a4iT4FdFp6x0IqVTl47vR"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194482,
+      "name": "Tvoeto Ferrari",
+      "url": "https://open.spotify.com/track/0sZSqiNyD2nx3OnTMwuLEI"
+    },
+    {
+      "album": {
         "name": "SAUCE KID 4",
         "url": "https://open.spotify.com/album/4x3QcWrWwD5hCpnGRJNXSE"
       },
@@ -44708,7 +44726,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 205102,
       "name": "\u0414\u0438\u0441\u043a\u043e\u0442\u0435\u043a\u0430",
       "url": "https://open.spotify.com/track/7DLnkcz4EU04ghpTIQcEqL"
@@ -44994,7 +45012,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 248159,
       "name": "\u0414\u044a\u043d\u043e\u0442\u043e \u043a\u043e\u043f\u0430\u0439",
       "url": "https://open.spotify.com/track/1HNT2gc2dDu9uymszz1ITN"
@@ -47192,7 +47210,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 203624,
       "name": "\u041c\u043e\u0435\u0442\u043e \u0441\u043b\u0430\u0431\u043e \u043c\u044f\u0441\u0442\u043e",
       "url": "https://open.spotify.com/track/46YeHpvSWbG2pHRlMcC5Rp"
@@ -49366,7 +49384,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-02",
+      "date_removed": null,
       "duration_ms": 189285,
       "name": "\u041f\u0440\u043e\u0441\u0442\u043e \u0428\u043e\u0443",
       "url": "https://open.spotify.com/track/35CkOCdXZ6mx4QRHuI6C9O"
@@ -49424,7 +49442,7 @@
       ],
       "date_added": "2026-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-06",
+      "date_removed": null,
       "duration_ms": 233333,
       "name": "\u041f\u0443\u043c\u0430",
       "url": "https://open.spotify.com/track/5t4Id0Pqn9VkLJqq0Kso0i"
@@ -49744,7 +49762,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 230275,
       "name": "\u0420\u043e\u043a\u043b\u044f\u0442\u0430 \u0442\u0438 \u043f\u0430\u0434\u0430",
       "url": "https://open.spotify.com/track/4SAkhbT3gRgT0vMhxQnwtT"
@@ -50702,7 +50720,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 170487,
       "name": "\u0422\u0440\u0430\u0444\u0438\u043a",
       "url": "https://open.spotify.com/track/1Upth6DB6AHg3tWFQ3gnpX"

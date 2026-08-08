@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Luke Tyler Shelton",
-  "num_followers": 427112,
+  "num_followers": 427145,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFEDyCg89vgXoKCfGMorR43XSv5f",
+  "snapshot_id": "AAAAAAzv7HmRphdwxnsHb21jQlSzkHkI",
   "tracks": [
     {
       "added_at": "2026-07-31 04:01:24",
@@ -195,22 +195,6 @@
     {
       "added_at": "2026-07-31 04:01:24",
       "album": {
-        "name": "someone to you",
-        "url": "https://open.spotify.com/album/4WcXbD9aj2KAajoRnHK20p"
-      },
-      "artists": [
-        {
-          "name": "Macy Todd",
-          "url": "https://open.spotify.com/artist/36LLquZpLrRaGaMRivV2CD"
-        }
-      ],
-      "duration_ms": 199091,
-      "name": "someone to you",
-      "url": "https://open.spotify.com/track/7uk0hE1Wa4QaFHzEbLPhwt"
-    },
-    {
-      "added_at": "2026-07-31 04:01:24",
-      "album": {
         "name": "No Tengo Valor",
         "url": "https://open.spotify.com/album/7JvcNuFQT1h2e2IcyQUXhL"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 182750,
       "name": "No Tengo Valor",
       "url": "https://open.spotify.com/track/16Eou1I5su9dxDKCYAVkmH"
+    },
+    {
+      "added_at": "2026-07-31 04:01:24",
+      "album": {
+        "name": "someone to you",
+        "url": "https://open.spotify.com/album/4WcXbD9aj2KAajoRnHK20p"
+      },
+      "artists": [
+        {
+          "name": "Macy Todd",
+          "url": "https://open.spotify.com/artist/36LLquZpLrRaGaMRivV2CD"
+        }
+      ],
+      "duration_ms": 199091,
+      "name": "someone to you",
+      "url": "https://open.spotify.com/track/7uk0hE1Wa4QaFHzEbLPhwt"
     },
     {
       "added_at": "2026-07-31 04:01:24",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-07-31 04:01:24",
       "album": {
+        "name": "Lonely Girl",
+        "url": "https://open.spotify.com/album/6gKOvK6vpMO33AtX0XdsGv"
+      },
+      "artists": [
+        {
+          "name": "Lamont Landers",
+          "url": "https://open.spotify.com/artist/3avnA23xLmCYfnsivruOgq"
+        }
+      ],
+      "duration_ms": 177064,
+      "name": "Lonely Girl",
+      "url": "https://open.spotify.com/track/3XMf0EMpPQUjINX6KR5ZjI"
+    },
+    {
+      "added_at": "2026-07-31 04:01:24",
+      "album": {
         "name": "Act I",
         "url": "https://open.spotify.com/album/7tJwgD3IbrgdlNNfv2nE1R"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 192463,
       "name": "Stay",
       "url": "https://open.spotify.com/track/353A1eattWX5QjVnE5yd5X"
-    },
-    {
-      "added_at": "2026-07-31 04:01:24",
-      "album": {
-        "name": "Delilah",
-        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 169120,
-      "name": "Quit You",
-      "url": "https://open.spotify.com/track/5OCiyq7gAZ88nY1iWFf4Ke"
     },
     {
       "added_at": "2026-07-31 04:01:24",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-07-31 04:01:24",
       "album": {
+        "name": "Delilah",
+        "url": "https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 169120,
+      "name": "Quit You",
+      "url": "https://open.spotify.com/track/5OCiyq7gAZ88nY1iWFf4Ke"
+    },
+    {
+      "added_at": "2026-07-31 04:01:24",
+      "album": {
         "name": "Every Night",
         "url": "https://open.spotify.com/album/6V2QX2Hckiqbcuq9F97NZS"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 174735,
       "name": "Every Night",
       "url": "https://open.spotify.com/track/5BrN8NTopdMoVuidy7jFRo"
-    },
-    {
-      "added_at": "2026-07-31 04:01:24",
-      "album": {
-        "name": "Lonely Girl",
-        "url": "https://open.spotify.com/album/6gKOvK6vpMO33AtX0XdsGv"
-      },
-      "artists": [
-        {
-          "name": "Lamont Landers",
-          "url": "https://open.spotify.com/artist/3avnA23xLmCYfnsivruOgq"
-        }
-      ],
-      "duration_ms": 177064,
-      "name": "Lonely Girl",
-      "url": "https://open.spotify.com/track/3XMf0EMpPQUjINX6KR5ZjI"
     },
     {
       "added_at": "2026-07-31 04:01:24",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-07-31 04:01:24",
       "album": {
-        "name": "Cosmos",
-        "url": "https://open.spotify.com/album/41l2ycLtJCAM4yogQXjBfS"
-      },
-      "artists": [
-        {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Will I Ever Know",
-      "url": "https://open.spotify.com/track/0mh8G6ZSyKa7v6TqMHgcKD"
-    },
-    {
-      "added_at": "2026-07-31 04:01:24",
-      "album": {
         "name": "The Very Last Day",
         "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 180013,
       "name": "The Very Last Day",
       "url": "https://open.spotify.com/track/76Fc9ApTagfE0DFLFdnMj1"
+    },
+    {
+      "added_at": "2026-07-31 04:01:24",
+      "album": {
+        "name": "Cosmos",
+        "url": "https://open.spotify.com/album/41l2ycLtJCAM4yogQXjBfS"
+      },
+      "artists": [
+        {
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+        }
+      ],
+      "duration_ms": 219880,
+      "name": "Will I Ever Know",
+      "url": "https://open.spotify.com/track/0mh8G6ZSyKa7v6TqMHgcKD"
     },
     {
       "added_at": "2026-07-31 04:01:24",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-07-31 04:01:24",
       "album": {
-        "name": "Hey Mama",
-        "url": "https://open.spotify.com/album/1E8uKGrYVGpNb7cGRg62ma"
-      },
-      "artists": [
-        {
-          "name": "Great Caesar",
-          "url": "https://open.spotify.com/artist/4R2xkQL6chRRTgUQ1Xgaf1"
-        }
-      ],
-      "duration_ms": 193386,
-      "name": "Hey Mama",
-      "url": "https://open.spotify.com/track/5KlVIOeSrcVTZoasODK3W5"
-    },
-    {
-      "added_at": "2026-07-31 04:01:24",
-      "album": {
         "name": "Stay Right Here",
         "url": "https://open.spotify.com/album/5fSnsS6vf9eovM8R3nvKNn"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 249560,
       "name": "Stay Right Here",
       "url": "https://open.spotify.com/track/0jQTagUb62PG7IcaFdR4s7"
+    },
+    {
+      "added_at": "2026-07-31 04:01:24",
+      "album": {
+        "name": "Hey Mama",
+        "url": "https://open.spotify.com/album/1E8uKGrYVGpNb7cGRg62ma"
+      },
+      "artists": [
+        {
+          "name": "Great Caesar",
+          "url": "https://open.spotify.com/artist/4R2xkQL6chRRTgUQ1Xgaf1"
+        }
+      ],
+      "duration_ms": 193386,
+      "name": "Hey Mama",
+      "url": "https://open.spotify.com/track/5KlVIOeSrcVTZoasODK3W5"
     },
     {
       "added_at": "2026-07-31 04:01:24",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2026-07-31 04:01:24",
       "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/6Vc3oyDDnxLzT3iB4F40Eh"
+      },
+      "artists": [
+        {
+          "name": "Balto",
+          "url": "https://open.spotify.com/artist/0WG7UI4czXYUBCjTzLxnPx"
+        }
+      ],
+      "duration_ms": 193066,
+      "name": "Lost on the Young",
+      "url": "https://open.spotify.com/track/2Hl45Cf4m4CX0a4slkR2qU"
+    },
+    {
+      "added_at": "2026-07-31 04:01:24",
+      "album": {
         "name": "Here You Come Again (with Max Abrams)",
         "url": "https://open.spotify.com/album/71a6eZrAINJtg9PXcp7cWb"
       },
@@ -1563,18 +1579,18 @@
     {
       "added_at": "2026-07-31 04:01:24",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/6Vc3oyDDnxLzT3iB4F40Eh"
+        "name": "Cheap Champagne",
+        "url": "https://open.spotify.com/album/1ZXj47ZiDPJMlO7uyhlQ05"
       },
       "artists": [
         {
-          "name": "Balto",
-          "url": "https://open.spotify.com/artist/0WG7UI4czXYUBCjTzLxnPx"
+          "name": "Wild Child",
+          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
         }
       ],
-      "duration_ms": 193066,
-      "name": "Lost on the Young",
-      "url": "https://open.spotify.com/track/2Hl45Cf4m4CX0a4slkR2qU"
+      "duration_ms": 233159,
+      "name": "Cheap Champagne",
+      "url": "https://open.spotify.com/track/6kd0JbGLweEJi7wpsAkSyw"
     },
     {
       "added_at": "2026-07-31 04:01:24",
@@ -1611,18 +1627,18 @@
     {
       "added_at": "2026-07-31 04:01:24",
       "album": {
-        "name": "Cheap Champagne",
-        "url": "https://open.spotify.com/album/1ZXj47ZiDPJMlO7uyhlQ05"
+        "name": "Blown Away",
+        "url": "https://open.spotify.com/album/2gKCl4Xw662KFd1VjSRjgM"
       },
       "artists": [
         {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
+          "name": "Ben Goldsmith",
+          "url": "https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8"
         }
       ],
-      "duration_ms": 233159,
-      "name": "Cheap Champagne",
-      "url": "https://open.spotify.com/track/6kd0JbGLweEJi7wpsAkSyw"
+      "duration_ms": 194064,
+      "name": "Blown Away",
+      "url": "https://open.spotify.com/track/7mHBL0aq8D9DLGchZWMG48"
     },
     {
       "added_at": "2026-07-31 04:01:24",
@@ -1639,22 +1655,6 @@
       "duration_ms": 212293,
       "name": "Got Soul",
       "url": "https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN"
-    },
-    {
-      "added_at": "2026-07-31 04:01:24",
-      "album": {
-        "name": "Blown Away",
-        "url": "https://open.spotify.com/album/2gKCl4Xw662KFd1VjSRjgM"
-      },
-      "artists": [
-        {
-          "name": "Ben Goldsmith",
-          "url": "https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8"
-        }
-      ],
-      "duration_ms": 194064,
-      "name": "Blown Away",
-      "url": "https://open.spotify.com/track/7mHBL0aq8D9DLGchZWMG48"
     }
   ],
   "unique_name": "the new retro",

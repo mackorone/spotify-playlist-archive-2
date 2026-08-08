@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/3vWayw42WNrZX1NdMZBSgZ.md) - cumulative - [plain](/playlists/plain/3vWayw42WNrZX1NdMZBSgZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/3vWayw42WNrZX1NdMZBSgZ)
 
-### [Pop Latin Hits 2026](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
+### [LATIN POP HITS 2026 \- Éxitos del Pop Latino](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
 
-> The perfect mix of the latest pop hits! Follow this playlist to enjoy Shakira, Alejandro Sanz, TINI, Camilo, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Mon Laferte
+> The perfect mix of current Latin Pop hits! Enjoy Shakira, TINI, Camilo, Milo J, Emilia, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Alejandro Sanz, Eden Muñoz
 
-1,022 songs - 2 day 6 hr 23 min
+1,023 songs - 2 day 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,8 @@
 | [Cómo Poder Olvidar \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cómo Poder Olvidar \(Spotify Sad Sierreño Holiday Singles\)](https://open.spotify.com/album/6EFtZfZJD8VVkstXVy2J2M) | 3:36 | 2022-11-17 | 2023-05-26 |
 | [Cúrame](https://open.spotify.com/track/3PwRuzdphgedcWVUOVYJ7I) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 2:44 | 2022-02-02 | 2023-05-26 |
 | [D Pic](https://open.spotify.com/track/6bbajYIBOhfzx6fppjqSZq) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [D Pic](https://open.spotify.com/album/4gCkkrljRoMKWydXymbY6n) | 2:24 | 2022-10-21 | 2023-05-26 |
-| [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 | 2026-05-15 |  |
+| [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 | 2026-05-15 | 2026-08-08 |
+| [Dai Dai \- Spanish Version](https://open.spotify.com/track/4FgqM9iu6uY5vJavkDrP6W) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/0Q01cgQeoWTETkOvpoeng9) | 3:42 | 2026-08-07 |  |
 | [Dame Break](https://open.spotify.com/track/7LVyfGaXMOu4bsLdluFFLc) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Dame Break](https://open.spotify.com/album/6bMIvydO8SPINO43xbqiJF) | 3:31 | 2022-07-07 | 2023-05-26 |
 | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg) | 3:00 | 2023-03-29 | 2023-06-01 |
 | [Dancing in the Moonlight](https://open.spotify.com/track/3H0MZWoFs9THnbYbjFkeHn) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [ETERNO](https://open.spotify.com/album/2QIiq3VZhg6GNB2JGdU7tm) | 2:40 | 2025-05-21 | 2025-11-22 |
@@ -260,7 +261,7 @@
 | [Desesperados](https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:44 | 2023-10-11 | 2025-09-12 |
 | [Deseándote](https://open.spotify.com/track/5Vs8sN2nybAETsTF8crpYD) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Deseándote](https://open.spotify.com/album/3YQ4tM0jt6aKIn2JN1P99u) | 3:03 | 2023-03-31 | 2023-06-01 |
 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2023-10-11 | 2025-09-12 |
-| [Después de ti](https://open.spotify.com/track/6PbhFQkpQjoojWo2b6Ghoi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Greg Gonzalez](https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU) | [Después de ti](https://open.spotify.com/album/2jNfHpGR3OkcVqNucroI92) | 4:35 | 2026-04-24 |  |
+| [Después de ti](https://open.spotify.com/track/6PbhFQkpQjoojWo2b6Ghoi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Greg Gonzalez](https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU) | [Después de ti](https://open.spotify.com/album/2jNfHpGR3OkcVqNucroI92) | 4:28 | 2026-04-24 |  |
 | [Desvelado](https://open.spotify.com/track/3YmjSVBCe6jXOUT0DQxy34) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Desvelado](https://open.spotify.com/album/3mAEZ4e27b2iFwnjY8enqt) | 3:30 | 2023-03-10 | 2023-06-01 |
 | [Devuélveme a Mi Chica](https://open.spotify.com/track/7sl70g1z4UCKl28PdAG5na) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [David Summers](https://open.spotify.com/artist/38DCnAQ5QAcMW9TSnsgYGt) | [Thalia's Mixtape](https://open.spotify.com/album/6otH0ogeIDBJ3UgpjIpxVf) | 3:22 | 2023-04-28 | 2023-06-02 |
 | [Devuélveme un Te Amo](https://open.spotify.com/track/7675g48jV60eUhEjpLelB9) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Lado A Lado B](https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n) | 3:45 | 2023-02-23 | 2023-06-02 |

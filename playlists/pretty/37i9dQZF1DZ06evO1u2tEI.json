@@ -1,12 +1,12 @@
 {
   "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
-  "num_followers": 88491,
+  "num_followers": 88514,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAAudVqDT0E+AlxLZL1hlS8j",
+  "snapshot_id": "anPOgAAAAADL3WXnv+PAgYmBIuLMxli4",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 181293,
-      "name": "Speed Trials",
-      "url": "https://open.spotify.com/track/05lmqBrKGLHAmqsADEuU9a"
+      "duration_ms": 223400,
+      "name": "Alameda",
+      "url": "https://open.spotify.com/track/7hg9DGPDztq8fjIr2YweZb"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 223400,
-      "name": "Alameda",
-      "url": "https://open.spotify.com/track/7hg9DGPDztq8fjIr2YweZb"
+      "duration_ms": 181293,
+      "name": "Speed Trials",
+      "url": "https://open.spotify.com/track/05lmqBrKGLHAmqsADEuU9a"
     },
     {
       "added_at": null,
@@ -475,18 +475,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "From a Basement on the Hill",
-        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
+        "name": "Heaven Adores You Soundtrack",
+        "url": "https://open.spotify.com/album/7Ilu6VpX49cnTkgklQpz4M"
       },
       "artists": [
+        {
+          "name": "Heatmiser",
+          "url": "https://open.spotify.com/artist/59IPo3F7aZifhZtHnoGHbo"
+        },
         {
           "name": "Elliott Smith",
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 207733,
-      "name": "The Last Hour",
-      "url": "https://open.spotify.com/track/4w3lNFu4Vwkq2nW1mofie6"
+      "duration_ms": 300520,
+      "name": "Christian Brothers",
+      "url": "https://open.spotify.com/track/1QUXSToImDkW7CUzJwRrWQ"
     },
     {
       "added_at": null,
@@ -539,22 +543,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heaven Adores You Soundtrack",
-        "url": "https://open.spotify.com/album/7Ilu6VpX49cnTkgklQpz4M"
+        "name": "From a Basement on the Hill",
+        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
       },
       "artists": [
-        {
-          "name": "Heatmiser",
-          "url": "https://open.spotify.com/artist/59IPo3F7aZifhZtHnoGHbo"
-        },
         {
           "name": "Elliott Smith",
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 300520,
-      "name": "Christian Brothers",
-      "url": "https://open.spotify.com/track/1QUXSToImDkW7CUzJwRrWQ"
+      "duration_ms": 207733,
+      "name": "The Last Hour",
+      "url": "https://open.spotify.com/track/4w3lNFu4Vwkq2nW1mofie6"
     },
     {
       "added_at": null,

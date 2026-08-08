@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels in Canada\. Updates every month\. Cover: SUUNCAAT, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,915 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,910 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 39 | [Talize](https://open.spotify.com/track/5o26K29Ya1GpaEmuPTwlig) | [Ankur Sinha](https://open.spotify.com/artist/7mjhgSwusziNyc30mt5fYV) | [Talize](https://open.spotify.com/album/0xSqYo2rZKTnyklWSdGys0) | 2:28 |
 | 40 | [SCARLETT](https://open.spotify.com/track/6RqAZigVDormUUONy6TaGO) | [Young Rose](https://open.spotify.com/artist/283dFjy8kbjkA5cDRMkI4C), [Saint Kay](https://open.spotify.com/artist/5qBWcMz68QPfZpPA11SwF4) | [SCARLETT](https://open.spotify.com/album/5A75qRzyCzcjX2T2JNtw5E) | 2:09 |
 
-Snapshot ID: `AAAAAIaGiDnNxQ06VgFlrb+lM+l6u5eJ`
+Snapshot ID: `AAAAAFIxNYUHsdyM0t4dPkd8Bm4uUGIG`

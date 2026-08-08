@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 
 > This is Junior H\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 961,511 likes - 47 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 961,620 likes - 47 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 | 13 | [El Azul](https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [El Azul](https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB) | 3:07 |
 | 14 | [PIÉNSALO](https://open.spotify.com/track/4ZOkfHC38nxSeSqzGE5HFr) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 4:00 |
 | 15 | [EN ALTAVOZ](https://open.spotify.com/track/7GRBoiZ3aXbjIn4rML7GQE) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Comienzo](https://open.spotify.com/album/6Zk9W9Ab3CnhttW5nBOUnY) | 2:46 |
-| 16 | [Fin de Semana](https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Fin de Semana](https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy) | 3:44 |
-| 17 | [LADY GAGA](https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:32 |
+| 16 | [LADY GAGA](https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:32 |
+| 17 | [Fin de Semana](https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Fin de Semana](https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy) | 3:44 |
 | 18 | [TRES BOTELLAS](https://open.spotify.com/track/2CshODtf7iwe3pKlPmEWF5) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 2:42 |
 | 19 | [EN DONDE E$TA$](https://open.spotify.com/track/7oNzbhpMl27JJXo9GaCChN) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gael Valenzuela](https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar) | [DEPR</3$$ED MFKZ](https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos) | 3:10 |
 | 20 | [COLOGNE](https://open.spotify.com/track/1ULnQ2yn5LeQX4LrROm1RD) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 3:45 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 | 46 | [TUS BESOX](https://open.spotify.com/track/6hxsXcuaPbHmIR8DsZJCyr) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 4:00 |
 | 47 | [Seca Tus Lagrimas](https://open.spotify.com/track/54JxxJ2KW8nCeb6ZnroLA0) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Corazon Tumbado](https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc) | 1:56 |
 
-Snapshot ID: `anJ9AAAAAABQLNwsBI1IGtZCTXESvjge`
+Snapshot ID: `anPOgAAAAACglxY3XWGNC6IIgFInBg61`

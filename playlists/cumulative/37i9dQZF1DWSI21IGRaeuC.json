@@ -1736,7 +1736,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 164769,
       "name": "Be Rich",
       "url": "https://open.spotify.com/track/0ab30Uj0bWUhmYONhH46yc"
@@ -2932,7 +2932,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 149552,
       "name": "Burnin' (2026 Remix)",
       "url": "https://open.spotify.com/track/7LWHF6fHELXfQ4Z45BZdSN"
@@ -4548,7 +4548,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 172153,
       "name": "Deep House Pumpin'",
       "url": "https://open.spotify.com/track/7q7qRayofPCxLoeUZ4Ng7p"
@@ -4881,6 +4881,24 @@
     },
     {
       "album": {
+        "name": "Dirty",
+        "url": "https://open.spotify.com/album/4GQLK3RXAj3ofHOtlvbm3H"
+      },
+      "artists": [
+        {
+          "name": "Jake Antonio",
+          "url": "https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282461,
+      "name": "Dirty",
+      "url": "https://open.spotify.com/track/70KprS1QCWIkd9nnFTxaMb"
+    },
+    {
+      "album": {
         "name": "Dirty Rave",
         "url": "https://open.spotify.com/album/2N6mqyMKtvaQujnOfgyRsg"
       },
@@ -4958,6 +4976,24 @@
       "duration_ms": 215076,
       "name": "Disco Trip",
       "url": "https://open.spotify.com/track/0lVQP0FIJhruy3yXiuH7vu"
+    },
+    {
+      "album": {
+        "name": "Distant Star System",
+        "url": "https://open.spotify.com/album/4B2aiAekp1VQDuazBYtUlE"
+      },
+      "artists": [
+        {
+          "name": "Danny Snowden",
+          "url": "https://open.spotify.com/artist/4x8tHM8IhkjWRTUD4k8cGB"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236363,
+      "name": "Distant Star System",
+      "url": "https://open.spotify.com/track/5k61XaunANvUpPYwCKSB6J"
     },
     {
       "album": {
@@ -11644,7 +11680,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 170909,
       "name": "Like That (feat. DJ Dre)",
       "url": "https://open.spotify.com/track/55LA3TJnSWxefo2arVfXHJ"
@@ -12282,7 +12318,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 212021,
       "name": "Madness",
       "url": "https://open.spotify.com/track/33jEV1SbyTihlHJQZ1WhXW"
@@ -15965,6 +16001,32 @@
     },
     {
       "album": {
+        "name": "Pumpin (Robbie Doherty Remix)",
+        "url": "https://open.spotify.com/album/0pwEhzuMwkadGXLd7ZFEeK"
+      },
+      "artists": [
+        {
+          "name": "Partiboi69",
+          "url": "https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL"
+        },
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        },
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330000,
+      "name": "Pumpin - Robbie Doherty Remix",
+      "url": "https://open.spotify.com/track/5UHWWKPPfPhMnq2qub3Fwh"
+    },
+    {
+      "album": {
         "name": "Pumpin Jumpin",
         "url": "https://open.spotify.com/album/0WyIwrLoLBoS30ES2bgnXF"
       },
@@ -16904,7 +16966,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 174626,
       "name": "Rock The House",
       "url": "https://open.spotify.com/track/1GcTbiohctL5vneV8PQYt6"
@@ -18454,6 +18516,24 @@
       "duration_ms": 289752,
       "name": "Small Things",
       "url": "https://open.spotify.com/track/11fsAfyLE6m6j1Zay5hpvF"
+    },
+    {
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/1JePnDGDirpRQNpFNo42bm"
+      },
+      "artists": [
+        {
+          "name": "Capron",
+          "url": "https://open.spotify.com/artist/49avcGZMMES2LbSHKis5Kz"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Smash",
+      "url": "https://open.spotify.com/track/00mii3fmq53QiHirhoEIhy"
     },
     {
       "album": {
@@ -21851,6 +21931,28 @@
     },
     {
       "album": {
+        "name": "Undercover",
+        "url": "https://open.spotify.com/album/4hF6z492pZBQiQbLDlQnqe"
+      },
+      "artists": [
+        {
+          "name": "Rello",
+          "url": "https://open.spotify.com/artist/23v0zhecqk3FLUfvMrWy48"
+        },
+        {
+          "name": "RAJE",
+          "url": "https://open.spotify.com/artist/2dPCWh9rFrw0MyUSr3sEyQ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217275,
+      "name": "Undercover",
+      "url": "https://open.spotify.com/track/7MOF1fI0XQ14QXZpgmafi1"
+    },
+    {
+      "album": {
         "name": "Underground",
         "url": "https://open.spotify.com/album/2iD1EdXhptNcoRIzlSVZyo"
       },
@@ -22629,6 +22731,28 @@
     },
     {
       "album": {
+        "name": "Weight Of House EP",
+        "url": "https://open.spotify.com/album/2T5JMu4xowzmPKNZziutH5"
+      },
+      "artists": [
+        {
+          "name": "ANATTA",
+          "url": "https://open.spotify.com/artist/5YhPaiXN8biK8is4uCvcJ6"
+        },
+        {
+          "name": "Jacob Kaye",
+          "url": "https://open.spotify.com/artist/4kuJ6eUf8CMvLUCm2F2bv1"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134767,
+      "name": "Weight of House",
+      "url": "https://open.spotify.com/track/5yPZbV61vFlV8WqPps3Q2p"
+    },
+    {
+      "album": {
         "name": "Won't Stop (Don't) - EP",
         "url": "https://open.spotify.com/album/01JyRXCJqCSxv11m2dawWj"
       },
@@ -23333,6 +23457,28 @@
     },
     {
       "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/2EFpDJUOx5fb4kZp8X0gtn"
+      },
+      "artists": [
+        {
+          "name": "Mike Morrisey",
+          "url": "https://open.spotify.com/artist/72doet86yLQNNgEX0kA7gM"
+        },
+        {
+          "name": "BLND (UK)",
+          "url": "https://open.spotify.com/artist/3XFLYgrTmf3SGyDlXeBKEA"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150204,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/611R0EsLJLrZzjNZYQ06C0"
+    },
+    {
+      "album": {
         "name": "Yalla Habibi",
         "url": "https://open.spotify.com/album/2Ug29UHBsikpysJlpSZS2s"
       },
@@ -23520,7 +23666,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 179162,
       "name": "You Decide",
       "url": "https://open.spotify.com/track/1OKngv6psn4G12xsAbw4Rp"

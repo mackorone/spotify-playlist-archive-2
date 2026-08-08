@@ -1,12 +1,12 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 232522,
+  "num_followers": 232581,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADHRjGjhWgoQxYMiMY243PKLS3W5",
+  "snapshot_id": "AAAAADKKoORz5Z/87jHZCLP+IxbPOC3U",
   "tracks": [
     {
       "added_at": "2024-07-12 18:46:41",
@@ -371,26 +371,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Super Jon-Z (Residente Challenge)",
-        "url": "https://open.spotify.com/album/1BgkC6yXnfmAhJdnCwE7vs"
-      },
-      "artists": [
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "Duran The Coach",
-          "url": "https://open.spotify.com/artist/3pdwvqKNXC6mz3b0KpfUvA"
-        }
-      ],
-      "duration_ms": 487011,
-      "name": "Super Jon-Z (Residente Challenge)",
-      "url": "https://open.spotify.com/track/2LzpOIEFP862EHojyakCS6"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Apocalypshit",
         "url": "https://open.spotify.com/album/2Kd0lXsX8jlXwnoRrAnRiQ"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 482926,
       "name": "Cypher",
       "url": "https://open.spotify.com/track/0M8HCM6ztBgsF150J7oCBt"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Super Jon-Z (Residente Challenge)",
+        "url": "https://open.spotify.com/album/1BgkC6yXnfmAhJdnCwE7vs"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Duran The Coach",
+          "url": "https://open.spotify.com/artist/3pdwvqKNXC6mz3b0KpfUvA"
+        }
+      ],
+      "duration_ms": 487011,
+      "name": "Super Jon-Z (Residente Challenge)",
+      "url": "https://open.spotify.com/track/2LzpOIEFP862EHojyakCS6"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
-        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 178533,
-      "name": "Dr. Dedoverde (Dr. Greenthumb) - Spanish Version",
-      "url": "https://open.spotify.com/track/27ccZxdrx3VbCTUXI433OO"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Mejor Que El Silencio",
         "url": "https://open.spotify.com/album/2Sp85NL3kFL3paJQcWg529"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 253333,
       "name": "El Idioma De Los Dioses",
       "url": "https://open.spotify.com/track/0Qb4S8BHqevwscp4rfvQZq"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
+        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 178533,
+      "name": "Dr. Dedoverde (Dr. Greenthumb) - Spanish Version",
+      "url": "https://open.spotify.com/track/27ccZxdrx3VbCTUXI433OO"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Malamarismo",
-        "url": "https://open.spotify.com/album/1Ev82MNV0FUz9X4kN2ZTCa"
-      },
-      "artists": [
-        {
-          "name": "Mala Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
-        }
-      ],
-      "duration_ms": 223666,
-      "name": "Por La Noche",
-      "url": "https://open.spotify.com/track/29sEnpw1KVfOIyMI8sSTse"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Verdugo",
         "url": "https://open.spotify.com/album/3kXUPuwSmjQiyCgPIDeZW1"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Lo Necesario",
-        "url": "https://open.spotify.com/album/2mIPkXzjjJvU8aYLqMfReY"
+        "name": "Malamarismo",
+        "url": "https://open.spotify.com/album/1Ev82MNV0FUz9X4kN2ZTCa"
       },
       "artists": [
         {
-          "name": "Apache",
-          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+          "name": "Mala Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
         }
       ],
-      "duration_ms": 193330,
-      "name": "Pasame la Yesca",
-      "url": "https://open.spotify.com/track/36ZITjKAlyKUE6EnvXsL8W"
+      "duration_ms": 223666,
+      "name": "Por La Noche",
+      "url": "https://open.spotify.com/track/29sEnpw1KVfOIyMI8sSTse"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Lo Necesario",
+        "url": "https://open.spotify.com/album/2mIPkXzjjJvU8aYLqMfReY"
+      },
+      "artists": [
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "duration_ms": 193330,
+      "name": "Pasame la Yesca",
+      "url": "https://open.spotify.com/track/36ZITjKAlyKUE6EnvXsL8W"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Vieja Guardia",
         "url": "https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN"
       },
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Inksanidad",
-        "url": "https://open.spotify.com/album/2amPdwaDwP9ftLGv0RNfIJ"
-      },
-      "artists": [
-        {
-          "name": "T-Killa",
-          "url": "https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl"
-        }
-      ],
-      "duration_ms": 219158,
-      "name": "Suena",
-      "url": "https://open.spotify.com/track/4HqvCLdcpiJtzxR82gH3qE"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Verdugo",
         "url": "https://open.spotify.com/album/3kXUPuwSmjQiyCgPIDeZW1"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 224651,
       "name": "Tratos Con el Diablo",
       "url": "https://open.spotify.com/track/3dtbEL58G2yATa9GlVD2Th"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Inksanidad",
+        "url": "https://open.spotify.com/album/2amPdwaDwP9ftLGv0RNfIJ"
+      },
+      "artists": [
+        {
+          "name": "T-Killa",
+          "url": "https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl"
+        }
+      ],
+      "duration_ms": 219158,
+      "name": "Suena",
+      "url": "https://open.spotify.com/track/4HqvCLdcpiJtzxR82gH3qE"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Nunca Vemos Nada",
+        "url": "https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "El Mito de la Caverna",
+      "url": "https://open.spotify.com/track/0NiWrLr9wR2VkGXKKzhgQL"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "No Tengo Nada",
         "url": "https://open.spotify.com/album/7FtIIzaOyejGnp3DIpSo90"
       },
@@ -1439,34 +1455,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Nunca Vemos Nada",
-        "url": "https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv"
+        "name": "Dale Gas",
+        "url": "https://open.spotify.com/album/3IzttvD3sVv5xZOQWuxpl7"
       },
       "artists": [
         {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "El Mito de la Caverna",
-      "url": "https://open.spotify.com/track/0NiWrLr9wR2VkGXKKzhgQL"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Alma Coraz\u00f3n Y Vida",
-        "url": "https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE"
-      },
-      "artists": [
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
         {
-          "name": "Norick",
-          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         }
       ],
-      "duration_ms": 200800,
-      "name": "Me\u00f1iques",
-      "url": "https://open.spotify.com/track/1WL1tQMLFYL1abzN5U3Bl2"
+      "duration_ms": 212495,
+      "name": "Dale Gas",
+      "url": "https://open.spotify.com/track/2f71lbjmfueEmrxPTHk11Z"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1487,22 +1491,18 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Dale Gas",
-        "url": "https://open.spotify.com/album/3IzttvD3sVv5xZOQWuxpl7"
+        "name": "Alma Coraz\u00f3n Y Vida",
+        "url": "https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE"
       },
       "artists": [
         {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          "name": "Norick",
+          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
         }
       ],
-      "duration_ms": 212495,
-      "name": "Dale Gas",
-      "url": "https://open.spotify.com/track/2f71lbjmfueEmrxPTHk11Z"
+      "duration_ms": 200800,
+      "name": "Me\u00f1iques",
+      "url": "https://open.spotify.com/track/1WL1tQMLFYL1abzN5U3Bl2"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Ocho Lunas",
-        "url": "https://open.spotify.com/album/1RXTzclIwzHy9x0q5y9uLw"
-      },
-      "artists": [
-        {
-          "name": "Gona",
-          "url": "https://open.spotify.com/artist/3yrN2y3XifdxgoTVMiTpDB"
-        }
-      ],
-      "duration_ms": 326593,
-      "name": "Hasta las 3 de la Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/3fWUR3Klzp36JZwIi5DUy8"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Tempo \u00c9xitos",
         "url": "https://open.spotify.com/album/1HI1kTUhjj0RgxtrZ0VCWb"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 169786,
       "name": "Balas",
       "url": "https://open.spotify.com/track/61udLtunSv95Gu89jiWUWf"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Ocho Lunas",
+        "url": "https://open.spotify.com/album/1RXTzclIwzHy9x0q5y9uLw"
+      },
+      "artists": [
+        {
+          "name": "Gona",
+          "url": "https://open.spotify.com/artist/3yrN2y3XifdxgoTVMiTpDB"
+        }
+      ],
+      "duration_ms": 326593,
+      "name": "Hasta las 3 de la Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/3fWUR3Klzp36JZwIi5DUy8"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1751,6 +1751,42 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Guerra de Karteles",
+        "url": "https://open.spotify.com/album/0Xr47uP6U1Wwrxh8YaDpc7"
+      },
+      "artists": [
+        {
+          "name": "Kartel De Las Calles",
+          "url": "https://open.spotify.com/artist/35ljVFZsrwKC0Euug5l1Va"
+        },
+        {
+          "name": "Mafya Azteca",
+          "url": "https://open.spotify.com/artist/6XB5fDagWasaSGvn52xHYe"
+        }
+      ],
+      "duration_ms": 357400,
+      "name": "Las Armas las Karga el Dyablo",
+      "url": "https://open.spotify.com/track/7aaD2Uo5E7zP2TwTwpDbjC"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Versus",
+        "url": "https://open.spotify.com/album/2DYgWkKDJHW6U3wXtULQ0g"
+      },
+      "artists": [
+        {
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+        }
+      ],
+      "duration_ms": 313826,
+      "name": "Expedici\u00f3n Al Klama Hama",
+      "url": "https://open.spotify.com/track/0iLy9clhTrnBVYkLntoh5p"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Retrospecci\u00f3n Mixtape, Vol. 1",
         "url": "https://open.spotify.com/album/1aniMf0ypLhf8aonlyNBEm"
       },
@@ -1775,42 +1811,6 @@
       "duration_ms": 137197,
       "name": "Viejos Habitantes",
       "url": "https://open.spotify.com/track/6f55wLyPhb1OwaNd0pXRmm"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Versus",
-        "url": "https://open.spotify.com/album/2DYgWkKDJHW6U3wXtULQ0g"
-      },
-      "artists": [
-        {
-          "name": "Illya Kuryaki & The Valderramas",
-          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
-        }
-      ],
-      "duration_ms": 313826,
-      "name": "Expedici\u00f3n Al Klama Hama",
-      "url": "https://open.spotify.com/track/0iLy9clhTrnBVYkLntoh5p"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Guerra de Karteles",
-        "url": "https://open.spotify.com/album/0Xr47uP6U1Wwrxh8YaDpc7"
-      },
-      "artists": [
-        {
-          "name": "Kartel De Las Calles",
-          "url": "https://open.spotify.com/artist/35ljVFZsrwKC0Euug5l1Va"
-        },
-        {
-          "name": "Mafya Azteca",
-          "url": "https://open.spotify.com/artist/6XB5fDagWasaSGvn52xHYe"
-        }
-      ],
-      "duration_ms": 357400,
-      "name": "Las Armas las Karga el Dyablo",
-      "url": "https://open.spotify.com/track/7aaD2Uo5E7zP2TwTwpDbjC"
     },
     {
       "added_at": "2024-07-12 18:46:41",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhQ5d3I6DeF.md) - [plain]
 
 > Upbeat pop bangers to keep you going
 
-[Spotify](https://open.spotify.com/user/spotify) - 633,304 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,409 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhQ5d3I6DeF.md) - [plain]
 | 40 | [Rush](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 2:36 |
 | 41 | [This Is What You Came For](https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [This Is What You Came For](https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt) | 3:41 |
 | 42 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 |
-| 43 | [Bangaranga](https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26) | [DARA](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) | [Bangaranga](https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8) | 2:57 |
-| 44 | [Guess featuring billie eilish](https://open.spotify.com/track/0IsIY8pfu1yaGkPUD7pkDx) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:23 |
+| 43 | [Guess featuring billie eilish](https://open.spotify.com/track/0IsIY8pfu1yaGkPUD7pkDx) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:23 |
+| 44 | [Bangaranga](https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26) | [DARA](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) | [Bangaranga](https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8) | 2:57 |
 | 45 | [Summertime Sadness \(Lana Del Rey Vs\. Cedric Gervais\) \- Cedric Gervais Remix](https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [Summertime Sadness \(Lana Del Rey Vs\. Cedric Gervais\) \[Cedric Gervais Remix\]](https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv) | 3:34 |
 | 46 | [How Deep Is Your Love](https://open.spotify.com/track/22mek4IiqubGD9ctzxc69s) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [How Deep Is Your Love](https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm) | 3:32 |
 | 47 | [King](https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/0bWYlK9rRmIB68icHx9PNR) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhQ5d3I6DeF.md) - [plain]
 | 49 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 |
 | 50 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:02 |
 
-Snapshot ID: `AAAAABe0qyFvvkRV7OJH7ihQDJO1Hn6s`
+Snapshot ID: `AAAAAIUyRi2A/kys+n3D0TEaby3vLunv`

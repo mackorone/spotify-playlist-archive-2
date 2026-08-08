@@ -4,7 +4,7 @@
 
 > Najlepsza świeża polska alternatywa\. Cover: Wiktor Waligóra, Lor
 
-1,787 songs - 4 day 4 hr 54 min
+1,788 songs - 4 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1117,6 +1117,7 @@
 | [Pocałunki w deszczu](https://open.spotify.com/track/70UV5au28BP1cQFGtc3vJB) | [Ralph Kaminski](https://open.spotify.com/artist/7l1IUcuGTEXMuD1aN3wFqw) | [GÓRA](https://open.spotify.com/album/1oCStTjWQxQ16bI76Pm8bQ) | 2:50 | 2026-03-19 | 2026-06-06 |
 | [Pochwała codzienności](https://open.spotify.com/track/6P80hDRQgg1jOHrKLhYuYE) | [Barbara Wrońska](https://open.spotify.com/artist/5TuXFLDQxzMWVqBtMEON60) | [Pochwała codzienności](https://open.spotify.com/album/65LUWcR8iQ5pmIW5gW6pL7) | 3:04 | 2026-06-25 | 2026-07-31 |
 | [Poczekam na Ciebie](https://open.spotify.com/track/4L32dWnSkWqYfDMpKgTUzH) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7) | [Poczekam na Ciebie](https://open.spotify.com/album/4FSlx7wrgsn6a6PTJWgmdp) | 3:48 | 2026-05-28 | 2026-07-03 |
+| [Poczekał](https://open.spotify.com/track/0bqpsSIM5UKnWrqQZ36u7e) | [Odet](https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl) | [Poczekał](https://open.spotify.com/album/5hPeiqfWsxqUf6T0FzCrOE) | 3:00 | 2026-08-07 |  |
 | [Pod czerwonym niebem](https://open.spotify.com/track/349clT98MDhB64wAqsP8co) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Pod czerwonym niebem](https://open.spotify.com/album/0o6ZJZEbk0FzH5RiQ0qJ6w) | 3:36 | 2024-06-27 | 2024-07-19 |
 | [pod kinem ars](https://open.spotify.com/track/34OjdDC2suHiBcou6MvCJ2) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [pod kinem ars/kraków](https://open.spotify.com/album/4fFszLQ6PT9KjKAX22VKmP) | 2:39 | 2025-05-08 | 2025-08-22 |
 | [Pod palmą](https://open.spotify.com/track/6vVyS9N3OMgLkD9vyXAeZX) | [Rubens](https://open.spotify.com/artist/0f53X3udWEWIhMbmuWdxo7) | [Pod palmą](https://open.spotify.com/album/6a1uTLnv1MLnjdm43RzVGI) | 4:21 | 2026-05-07 |  |

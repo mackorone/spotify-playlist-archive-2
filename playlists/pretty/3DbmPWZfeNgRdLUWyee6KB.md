@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,330 likes - 149 songs - 8 hr 33 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,332 likes - 151 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,5 +157,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 147 | [desperado!](https://open.spotify.com/track/0DEp4tJ30Zxjs06PoHiDp4) | [Win Bailin](https://open.spotify.com/artist/5VUoqI50dOdHPGza8ly2P8) | [desperado!](https://open.spotify.com/album/04tNuiHouI3Jd6BfTp8DMs) | 2:14 |
 | 148 | [Shower Song](https://open.spotify.com/track/67QhgrmrS3L4KOWkLYHeAt) | [LOOSER](https://open.spotify.com/artist/74MOUfrsLMzoBLl5ssKkGk) | [Shower Song](https://open.spotify.com/album/01SI7DXpqEsb3DiSIrUjJD) | 3:13 |
 | 149 | [Turn Your Back](https://open.spotify.com/track/1aq9czg1w6yRRgL4BILJkh) | [Phoeno](https://open.spotify.com/artist/5KnD9mAsf1y1TYEqpeew7B) | [Turn Your Back](https://open.spotify.com/album/58EX7IB2QgulpvTu6TAZrO) | 3:24 |
+| 150 | [Crazy World](https://open.spotify.com/track/7G3VUYp3LMoPK4TjFrB3hC) | [Laissez\-Faire](https://open.spotify.com/artist/1dVCkAqFc2L7EpFr95V1L8) | [Crazy World](https://open.spotify.com/album/2FxtjPkAPOyxHD89s6Mgvk) | 4:05 |
+| 151 | [Ciego](https://open.spotify.com/track/15apmAe5SqNBGzG0FXrrqj) | [Julian Kancepolski](https://open.spotify.com/artist/6DDqxjhbPR5KUwZ6TomVYE) | [Estantes](https://open.spotify.com/album/4NUa8r6wjIix0KCQZpvQtn) | 2:28 |
 
-Snapshot ID: `AAAWqnvIjOKEiXd5f1ZQCkaWz1zadgw4`
+Snapshot ID: `AAAWrNNyJN91znWDKq6aYFZ0patAS7cd`

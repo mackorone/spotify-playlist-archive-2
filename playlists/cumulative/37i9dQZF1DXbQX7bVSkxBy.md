@@ -4,7 +4,7 @@
 
 > Raise a voice and testify the goodness of God\.  Cover: Joepraize
 
-589 songs - 1 day 22 hr 26 min
+589 songs - 1 day 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [B'Ola \- Honour](https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [B'Ola \(Honour\)](https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM) | 5:24 | 2023-05-26 | 2024-11-30 |
 | [Baba](https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Baba](https://open.spotify.com/album/6gVypj6pUdBwercL6Jxtlp) | 3:31 | 2024-04-12 | 2024-05-05 |
 | [Baba Oh](https://open.spotify.com/track/7kOezDLrt87YbPZfgv7qub) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa), [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Fearless \(Deluxe Edition\)](https://open.spotify.com/album/2VZ2wxXREyzvLSGDdQtDsD) | 5:23 | 2023-04-07 | 2023-05-26 |
+| [Baba Siyabonga](https://open.spotify.com/track/3P5iI9ugl1d0P5muGcT3Q8) | [Umlazi Gospel Choir The Original](https://open.spotify.com/artist/0V7olBRdnevHisGlCmbz02) | [BABA SIYABONGA](https://open.spotify.com/album/6yH43drdOZTVRNgLvmWfyZ) | 7:02 | 2026-08-07 |  |
 | [Be Lifted](https://open.spotify.com/track/12omLhLOOs0t72m57I1a47) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Be Lifted](https://open.spotify.com/album/3l8jlweNAVDvELMaia4zd9) | 8:25 | 2024-03-29 | 2024-04-05 |
 | [Benefit](https://open.spotify.com/track/36sznNt2BniOB8BWYpWYmP) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Benefit](https://open.spotify.com/album/67V2Bol3ar6ZqB5PXL7MQ8) | 6:59 | 2025-10-17 | 2026-03-13 |
 | [Beyond me \- Live at Yalic, Abuja](https://open.spotify.com/track/14ZcU8XXyH3tyzG5IKATnG) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [Beyond me \(Live at Yalic, Abuja\)](https://open.spotify.com/album/6MCsoe8mI0KatCIXP4GcL9) | 9:58 | 2024-03-29 | 2024-04-05 |
@@ -517,7 +518,6 @@
 | [TOBECHUKWU](https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [TOBECHUKWU](https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr) | 8:07 | 2024-03-29 | 2024-04-05 |
 | [Too Faithful](https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:10 | 2023-04-07 | 2024-04-19 |
 | [Too Faithful](https://open.spotify.com/track/4VAX2Vu5fpGYxgUqfcFiNX) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/0c86R9zB5csfesL1jn7E0s) | 6:10 | 2023-12-15 | 2025-10-17 |
-| [Track 1](https://open.spotify.com/track/3P5iI9ugl1d0P5muGcT3Q8) | [Umlazi Gospel Choir The Original](https://open.spotify.com/artist/0V7olBRdnevHisGlCmbz02) | [BABA SIYABONGA](https://open.spotify.com/album/6yH43drdOZTVRNgLvmWfyZ) | 0:00 | 2026-08-07 |  |
 | [True Love](https://open.spotify.com/track/64g7yZSdEEU5EctgNSXoat) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Glochi](https://open.spotify.com/artist/5wk6FnZZR14Wg9eRzrSobY), [Jayclassic](https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp) | [True Love](https://open.spotify.com/album/0fysW24DQvmfDWN1WFxpNE) | 2:30 | 2024-02-08 | 2024-02-16 |
 | [Trust in you](https://open.spotify.com/track/5YVZxtAYdDmNlAzhjIBG8i) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [Trust in you](https://open.spotify.com/album/2Zp9tuWF33iwX9o6stxu1w) | 2:21 | 2025-09-26 | 2025-10-17 |
 | [Trusted](https://open.spotify.com/track/2PRebsAfb6LBVYLr5mKMlt) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Trusted](https://open.spotify.com/album/7cZ7nXWQsrE2VoFXErZWVN) | 3:04 | 2024-01-19 | 2024-02-16 |

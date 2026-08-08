@@ -1,12 +1,12 @@
 {
   "description": "This is MYA. The essential tracks, all in one playlist.",
-  "num_followers": 44052,
+  "num_followers": 44054,
   "original_name": "This Is MYA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAAQcTugyRSMVaTuZJoc+o8V",
+  "snapshot_id": "anPOgAAAAACSRMTw5gmMOtRwE/Ws9NzQ",
   "tracks": [
     {
       "added_at": null,
@@ -443,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuiste M\u00eda",
-        "url": "https://open.spotify.com/album/3GRdrDwDPTg8jNjejST5ZW"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 224098,
-      "name": "Fuiste M\u00eda",
-      "url": "https://open.spotify.com/track/1Nf60AnYxFl1xvZo12FZOV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BLANCO Y NEGRO",
         "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 170020,
       "name": "BLANCO Y NEGRO",
       "url": "https://open.spotify.com/track/0JOlK42EFo4ulGEQQzAPVC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuiste M\u00eda",
+        "url": "https://open.spotify.com/album/3GRdrDwDPTg8jNjejST5ZW"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 224098,
+      "name": "Fuiste M\u00eda",
+      "url": "https://open.spotify.com/track/1Nf60AnYxFl1xvZo12FZOV"
     },
     {
       "added_at": null,

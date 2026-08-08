@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack to those long nights over dinner",
-  "num_followers": 2031832,
+  "num_followers": 2031834,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOmv2Giv6aUT7p1peTqxKFtquD/o",
+  "snapshot_id": "AAAAAC2dF4pHwGHFWcDKXOA6NYDv6bNg",
   "tracks": [
     {
       "added_at": "2026-02-23 16:34:18",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-02-23 16:34:18",
       "album": {
+        "name": "Seal",
+        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "Kiss from a Rose",
+      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
+    },
+    {
+      "added_at": "2026-02-23 16:34:18",
+      "album": {
         "name": "Making Mirrors",
         "url": "https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 244973,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV"
-    },
-    {
-      "added_at": "2026-02-23 16:34:18",
-      "album": {
-        "name": "Seal",
-        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "Kiss from a Rose",
-      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
     },
     {
       "added_at": "2026-02-23 16:34:18",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-02-23 16:34:18",
       "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 223120,
-      "name": "Jackie and Wilson",
-      "url": "https://open.spotify.com/track/4JpazKcfOhbwqZrsYhzHee"
-    },
-    {
-      "added_at": "2026-02-23 16:34:18",
-      "album": {
         "name": "Blood Bank",
         "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 160093,
       "name": "Beach Baby",
       "url": "https://open.spotify.com/track/2LXtyj95dK56ENS1QLt4IB"
+    },
+    {
+      "added_at": "2026-02-23 16:34:18",
+      "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 223120,
+      "name": "Jackie and Wilson",
+      "url": "https://open.spotify.com/track/4JpazKcfOhbwqZrsYhzHee"
     },
     {
       "added_at": "2026-02-23 16:34:18",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-02-23 16:34:18",
       "album": {
-        "name": "Stay Alive (From The Secret Life Of Walter Mitty)",
-        "url": "https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 266906,
-      "name": "Stay Alive - From \"The Secret Life of Walter Mitty\" Soundtrack",
-      "url": "https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv"
-    },
-    {
-      "added_at": "2026-02-23 16:34:18",
-      "album": {
         "name": "July (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
+    },
+    {
+      "added_at": "2026-02-23 16:34:18",
+      "album": {
+        "name": "Stay Alive (From The Secret Life Of Walter Mitty)",
+        "url": "https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 266906,
+      "name": "Stay Alive - From \"The Secret Life of Walter Mitty\" Soundtrack",
+      "url": "https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv"
     },
     {
       "added_at": "2026-02-23 16:34:18",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-02-23 16:34:18",
       "album": {
-        "name": "Small Talk",
-        "url": "https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0"
-      },
-      "artists": [
-        {
-          "name": "Hope Winter",
-          "url": "https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6"
-        }
-      ],
-      "duration_ms": 188870,
-      "name": "Small Talk",
-      "url": "https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D"
-    },
-    {
-      "added_at": "2026-02-23 16:34:18",
-      "album": {
         "name": "No Rain, No Flowers",
         "url": "https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 173301,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/5Bu3CmkflxDAx5ps1BI8HI"
+    },
+    {
+      "added_at": "2026-02-23 16:34:18",
+      "album": {
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0"
+      },
+      "artists": [
+        {
+          "name": "Hope Winter",
+          "url": "https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6"
+        }
+      ],
+      "duration_ms": 188870,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D"
     }
   ],
   "unique_name": "Dinner with Friends",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdNhlZLjJXz.md) - [plain]
 
 > She's actually kinda famous\. Welcome to Slayyyter summer
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,704 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,706 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [DANCE...](https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 4:47 |
-| 2 | [PARTIES IN LA](https://open.spotify.com/track/7ilxKzPgTaF5P8N8BBlKFW) | [XKYLAR](https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq) | [PARTIES IN LA](https://open.spotify.com/album/67DRtDC05EXXlanrnThwvw) | 2:28 |
-| 3 | [CUNT\-MIX](https://open.spotify.com/track/7FvCdEvPP16gNmCFtFakPC) | [Maleigh Zan](https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG), [Infinite Coles](https://open.spotify.com/artist/1OUKcUMWgpiUgctbvFS5PZ), [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545), [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [CUNT\-MIX](https://open.spotify.com/album/7rlSWWxzDl8MByaBWpjp6s) | 3:58 |
-| 4 | [CUT THE LINE \(feat\. DJ ADHD & Nikki Nair\)](https://open.spotify.com/track/3Fxebmm6QwVVS1HsuqyeqN) | [deBasement](https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [CUT THE LINE \(feat\. DJ ADHD & Nikki Nair\)](https://open.spotify.com/album/0Q3Qz11aspOYa9oUbVKQLH) | 4:41 |
+| 2 | [CUNT\-MIX](https://open.spotify.com/track/7FvCdEvPP16gNmCFtFakPC) | [Maleigh Zan](https://open.spotify.com/artist/5RsL9iCp9pZFA6Kw7qqYAG), [Infinite Coles](https://open.spotify.com/artist/1OUKcUMWgpiUgctbvFS5PZ), [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545), [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [CUNT\-MIX](https://open.spotify.com/album/7rlSWWxzDl8MByaBWpjp6s) | 3:58 |
+| 3 | [Ain't In LA](https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Ain't In LA](https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s) | 3:04 |
+| 4 | [PARTIES IN LA](https://open.spotify.com/track/7ilxKzPgTaF5P8N8BBlKFW) | [XKYLAR](https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq) | [PARTIES IN LA](https://open.spotify.com/album/67DRtDC05EXXlanrnThwvw) | 2:28 |
 | 5 | [I look sh!t \(and i‘m fine with it\)](https://open.spotify.com/track/2OlWj3MnKCEOELsZ1uM4Mb) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [I look sh!t \(and i‘m fine with it\)](https://open.spotify.com/album/1ilK1JaxDsGVD3oHnOUxdg) | 2:23 |
 | 6 | [ATTENTION!](https://open.spotify.com/track/3roiUw3YFNlKE3u8qMmVmw) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [ATTENTION!](https://open.spotify.com/album/0pS9ssUJeUKdOD3hTrRhUM) | 3:28 |
 | 7 | [Midnight Sun](https://open.spotify.com/track/43L9D7gxs7EluuJcd5ALWr) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun \(Bundle\)](https://open.spotify.com/album/601jO1tp8mHigKBy04WjqR) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdNhlZLjJXz.md) - [plain]
 | 99 | [Good For You](https://open.spotify.com/track/578Eooad7oUyn4stovZiPg) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Revival \(Deluxe\)](https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz) | 3:41 |
 | 100 | [Into You](https://open.spotify.com/track/76FZM38RC8XaAjJ77CVTNe) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7) | 4:04 |
 
-Snapshot ID: `AAAAACEJsnWWCJ8BEbH6orDLY+4uqSS5`
+Snapshot ID: `AAAAALkvyUSTEaUk7a/FJyxKkI/oyxvJ`

@@ -4,7 +4,7 @@
 
 > Du Congo, au monde 🌍 avec Tonton Jungeli.
 
-782 songs - 1 day 19 hr 48 min
+783 songs - 1 day 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [100 Pas](https://open.spotify.com/track/1CgxZZtNdoDI3MZkDFtecn) | [Frank'emcy](https://open.spotify.com/artist/1U08mG4rKbGFB6kLMg1J0G), [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [100 Pas](https://open.spotify.com/album/6zQbsSlWHgeJBk0UVp1akz) | 2:31 | 2025-02-21 | 2025-05-17 |
 | [100TIMENTS](https://open.spotify.com/track/2gtmeOF8dyOss6uzNZjXmR) | [REA](https://open.spotify.com/artist/3WmCagv2mdu1DAXPi6qKnJ) | [100TIMENTS](https://open.spotify.com/album/6rbuXRd3gBgYLv4bgyRFlA) | 2:00 | 2025-11-28 | 2026-02-14 |
 | [10h30\. Le Soleil Donne](https://open.spotify.com/track/1BQ1XGyL1s6iXlkbafsDYK) | [Badi](https://open.spotify.com/artist/1NyPuswLVpGQYtybS22vKr), [MPLI](https://open.spotify.com/artist/30ABSMFhYN2HZHLdSt4D2w) | [MOYI](https://open.spotify.com/album/1WJXqSZBf4OLQ9gqdPp2HZ) | 3:46 | 2023-04-14 | 2023-04-29 |
+| [20 MILLIONS](https://open.spotify.com/track/5kxSwTQQLutunmQINplAPt) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [20 MILLIONS](https://open.spotify.com/album/6QtLNqAjNXxIP5Fo0vJBHV) | 2:33 | 2026-08-07 |  |
 | [207](https://open.spotify.com/track/6EgqrmhXNRv4v5tLdiDvde) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [René Soso Pembe](https://open.spotify.com/artist/4VbRAkOhCxEkuNK4EeVFIM) | [207](https://open.spotify.com/album/5ZGzNUDy8PA9qIa3bYrHMG) | 8:30 | 2024-07-26 | 2025-10-25 |
 | [25 G](https://open.spotify.com/track/7udslQ5whyH3BrDvk0Fj1j) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [25 G](https://open.spotify.com/album/7cFIpmcYcJWnGGPa5Z6ZhP) | 4:10 | 2023-06-09 | 2023-07-01 |
 | [2LOVE](https://open.spotify.com/track/23ID5AM06gtQXpiSWDFDRU) | [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [2LOVE](https://open.spotify.com/album/49cxG8i9nLPpeL99vgxu00) | 2:36 | 2025-12-19 | 2026-07-11 |
@@ -240,7 +241,7 @@
 | [Eloko Oyo](https://open.spotify.com/track/2nOxzPAtTsUBmzShpGbpfj) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Tokooos](https://open.spotify.com/album/6IeIf8IVQfLGaYSckKPPsN) | 4:46 | 2022-06-30 | 2022-08-06 |
 | [EMBOMBO](https://open.spotify.com/track/0Ew4d2rU87GFcGl11mYIam) | [Fabregas le Métis Noir](https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X) | [EMBOMBO](https://open.spotify.com/album/2qKZL9aY8l21zXkjIAVqPz) | 4:55 | 2024-07-26 | 2024-12-14 |
 | [Embêtée](https://open.spotify.com/track/6ROfu4XzhHBmaxYqjCr8rY) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Embêtée](https://open.spotify.com/album/6Z7mJy4VsmuIFFOejFzXNs) | 1:52 | 2026-06-12 |  |
-| [EN DÉTENTE](https://open.spotify.com/track/1kpFPU0Im1rlmKuwHkuF4n) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [EN DÉTENTE](https://open.spotify.com/album/7K0ntLxmPQ88ImN9n3aQ8H) | 2:24 | 2026-07-10 |  |
+| [EN DÉTENTE](https://open.spotify.com/track/1kpFPU0Im1rlmKuwHkuF4n) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [EN DÉTENTE](https://open.spotify.com/album/7K0ntLxmPQ88ImN9n3aQ8H) | 2:24 | 2026-07-10 | 2026-08-08 |
 | [ENCORE](https://open.spotify.com/track/2x9HB7pnBoOd876fwH0ukU) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [ENCORE](https://open.spotify.com/album/022Ky25HgtR8oMa8mzrCSD) | 2:20 | 2025-07-11 | 2026-06-19 |
 | [ENERGY](https://open.spotify.com/track/5K2MNMBLGtWgSVHPu4fegX) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [ENERGY](https://open.spotify.com/album/21BzfHKJb7lE0tNJG08rS9) | 2:13 | 2024-10-11 | 2024-10-26 |
 | [Epayi na biso \(feat\. C2B\)](https://open.spotify.com/track/7zsehFgn9Qziqlh0jBE3CX) | [Paterne Maestro](https://open.spotify.com/artist/77I75BZlpcoggeiSxUUp7r), [C2B](https://open.spotify.com/artist/6zUcMw2Cj20JpCj4XoPqp9) | [Epayi na biso \(feat\. C2B\)](https://open.spotify.com/album/6lm1HFd3rlSGBNbiSEtZeB) | 3:08 | 2025-12-19 | 2026-02-21 |

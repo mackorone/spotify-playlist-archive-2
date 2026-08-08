@@ -4,7 +4,7 @@
 
 > Pop Anglo para acompañar tus mejores momentos\. Foto: Charli xcx
 
-318 songs - 17 hr 35 min
+320 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-11-21 |  |
 | [Love Me Now \(feat\. Zoe Wees\)](https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Love Me Now \(feat\. Zoe Wees\)](https://open.spotify.com/album/0GzKBZSFdg6H5ZlYJ6RgCo) | 3:15 | 2023-03-10 | 2023-05-13 |
 | [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 | 2024-02-23 | 2024-08-03 |
+| [Love Sensation](https://open.spotify.com/track/2SWjfo04JhmUv4IfHomXka) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Love Sensation](https://open.spotify.com/album/4b0rAUWZJA6s3RQC3zIguc) | 3:48 | 2026-08-07 |  |
 | [LOVE SONG](https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:52 | 2025-09-12 | 2025-10-04 |
 | [Love Story \(Taylor’s Version\)](https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Love Story \(Taylor’s Version\)](https://open.spotify.com/album/4j2syEjl3h1To8KbRgvmJn) | 3:55 | 2023-03-10 | 2023-03-25 |
 | [Love Story \(Taylor’s Version\)](https://open.spotify.com/track/6YvqWjhGD8mB5QXcbcUKtx) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:55 | 2023-03-24 | 2023-05-27 |
@@ -263,6 +264,7 @@
 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 | 2026-02-06 |  |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:21 | 2023-03-10 | 2024-04-19 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 | 2024-03-08 |  |
+| [Still](https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:40 | 2026-08-07 |  |
 | [Stormy Weather](https://open.spotify.com/track/2GJ8aSnidsI7oMHuG6idE2) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [When You See Yourself](https://open.spotify.com/album/5mi6IbVDNVKpOO702ejPn6) | 3:42 | 2023-03-10 | 2023-08-05 |
 | [Strong Enough](https://open.spotify.com/track/0HBCZOU4I3yzJj9K3vkcpg) | [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48) | [Strong Enough](https://open.spotify.com/album/26V0T72pbj1xDy1CWoOxGf) | 2:47 | 2023-04-07 | 2023-08-12 |
 | [stupid song](https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:29 | 2026-06-12 |  |

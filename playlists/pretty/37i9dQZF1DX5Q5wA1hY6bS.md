@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 
 > the best things in life can't be contained.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,327,117 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,326,969 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 99 | [Man Made by Delusion](https://open.spotify.com/track/5MfrKMzZ2eU9FTiLjgMKmy) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [5am Paradise](https://open.spotify.com/album/68bhX8AcCObSmY57ogdl4J) | 3:24 |
 | 100 | [Love Gone Wrong](https://open.spotify.com/track/4x3c8AbiCt9HV9E4rXsseZ) | [Lula Wiles](https://open.spotify.com/artist/71gZrMk44x3W6NGg5OUJHY) | [What Will We Do](https://open.spotify.com/album/3sEu90OiFEw1J1MZFvae7X) | 3:56 |
 
-Snapshot ID: `AAAAABZae+jFmrJBHnHzbiQhrwdiaCZE`
+Snapshot ID: `AAAAAI8COCLQPqHhK/NST9zvb+SFHaeX`

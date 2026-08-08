@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,541,885 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,541,856 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 99 | [ナンセンスナンセンス](https://open.spotify.com/track/1jGaAEq1siWBT18msX0zfJ) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [ナンセンスナンセンス](https://open.spotify.com/album/6iS55LaBQjNaUmqdEZhls4) | 2:34 |
 | 100 | [今日の日はさようなら \(ハチワレver.\)](https://open.spotify.com/track/7gSGM3nvGQyIcc8Dixendy) | [ハチワレ（CV.田中誠人）](https://open.spotify.com/artist/22WLGArDVTIq1DKE6ScSP5), [トクマルシューゴ](https://open.spotify.com/artist/5RlVG4o01rX3mnfSyApsZQ) | [『映画ちいかわ 人魚の島のひみつ』オリジナル・サウンドトラック Part1](https://open.spotify.com/album/7xx5V6cnXjC9CNcpbdBQpm) | 1:11 |
 
-Snapshot ID: `AAAAAD+NQ1P3kvSy/4N5N1QrFbnGgCWy`
+Snapshot ID: `AAAAAHCxdQpHgQ3YijhUpSSOSELo1wGU`

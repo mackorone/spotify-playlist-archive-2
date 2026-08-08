@@ -4,7 +4,7 @@
 
 > Feeling dramatic? All eyes on you\. Cover: Mollie Elizabeth
 
-601 songs - 1 day 8 hr 40 min
+603 songs - 1 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Getting Older](https://open.spotify.com/track/6C0Fgf5EoL9fKBIZM1ekDG) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [High Drama](https://open.spotify.com/album/4y5hDajuXPBoqceqFMOfNH) | 4:24 | 2023-02-24 | 2023-03-08 |
 | [Ghost of Chicago](https://open.spotify.com/track/4whpHwKr9rH2MTFzXk7mkW) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Ghost of Chicago](https://open.spotify.com/album/72PNMowKsDq60TGmr8o8sU) | 3:07 | 2023-04-18 | 2024-04-27 |
 | [Girl Who Cried Wolf](https://open.spotify.com/track/5HNGDqthELv0TBWhLXuIiv) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Girl Who Cried Wolf](https://open.spotify.com/album/0YPqIZEUYb7h7y7U0v3Bf4) | 3:26 | 2026-06-09 |  |
-| [Give A Little](https://open.spotify.com/track/3m4sLkrfjpobclYxcLBMei) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Give A Little](https://open.spotify.com/album/4PM2t0JoZrpWfjtg8OKXYi) | 2:55 | 2026-03-13 |  |
+| [Give A Little](https://open.spotify.com/track/3m4sLkrfjpobclYxcLBMei) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Give A Little](https://open.spotify.com/album/4PM2t0JoZrpWfjtg8OKXYi) | 2:55 | 2026-03-13 | 2026-08-08 |
 | [Gladiators](https://open.spotify.com/track/6gW8KYLy55ZnszeO2TUIpu) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Gladiators](https://open.spotify.com/album/5AahV6122wJai6DmlVxHaM) | 3:37 | 2024-04-05 | 2024-04-24 |
 | [God Save the Dream](https://open.spotify.com/track/13mm25FYuZw1ih9cvFhXvH) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [The Drama](https://open.spotify.com/album/2c1QPvyMmQADYp9qB5Aslv) | 3:16 | 2024-10-04 | 2025-01-11 |
 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 | 2024-12-18 | 2025-10-25 |
@@ -422,6 +422,7 @@
 | [Pity Party](https://open.spotify.com/track/5D4pxNBwIXBDaFYWFfia0r) | [Lydia Night](https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l) | [Pity Party](https://open.spotify.com/album/7kUXbGwQwpbgQV9obq7yGd) | 3:17 | 2025-04-04 | 2025-08-23 |
 | [play pretenses](https://open.spotify.com/track/3Ocg0Q8hekO5O8xIbNJS3Y) | [LeGrand](https://open.spotify.com/artist/4gOUlzoljp2awye30QKLJL) | [play pretenses](https://open.spotify.com/album/55rXo1YEHY71sI2DaNF5r7) | 2:39 | 2023-09-22 | 2024-03-02 |
 | [Poconos](https://open.spotify.com/track/3Sqb167kZ1XoEApxbbrDby) | [Katie Lynne Sharbaugh](https://open.spotify.com/artist/7ufoDy3DR2gEi68WTyUGcu) | [Poconos](https://open.spotify.com/album/0Ghvwl9D5OPrUFpqy5mCB1) | 2:54 | 2026-04-20 | 2026-06-27 |
+| [Porcelain](https://open.spotify.com/track/4uiWXurzJvxA3yL1CvJTqo) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Porcelain](https://open.spotify.com/album/11mxTxpDaTQUINE52Ar98c) | 3:22 | 2026-08-07 |  |
 | [Pre\-Raphaelite](https://open.spotify.com/track/29c7ide0e4bt5a0csdPOPU) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Pre\-Raphaelite](https://open.spotify.com/album/4ecmqq3oqOh1y1qS7sn8px) | 4:22 | 2026-07-24 |  |
 | [prom](https://open.spotify.com/track/1EtWJJbvPfmNsVDGOhTtSG) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [prom](https://open.spotify.com/album/3hsaSidYs7NWEn0c2ncIDA) | 3:20 | 2022-05-17 | 2022-08-06 |
 | [Prom Queen](https://open.spotify.com/track/2WEAKylXBPr9PJNANBSTDG) | [Molly Kate Kestner](https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf) | [Prom Queen](https://open.spotify.com/album/6sEMWS70V7jsFnEP76XDmc) | 3:46 | 2024-10-04 | 2025-09-13 |
@@ -600,10 +601,11 @@
 | [Wine Red](https://open.spotify.com/track/7puGwAJbm1hhbSkKVrvrdT) | [The Hush Sound](https://open.spotify.com/artist/1RCoE2Dq19lePKhPzt9vM5) | [Like Vines](https://open.spotify.com/album/2ViqUaFAwiL0ILIr7eexgl) | 2:34 | 2022-05-17 | 2022-12-10 |
 | [Wires Crossed](https://open.spotify.com/track/0dI23ZVQTJq9wlx8Wm3nre) | [Dom Fera](https://open.spotify.com/artist/2qmjAtWVjMPWHHDdWilU6a) | [Wires Crossed](https://open.spotify.com/album/0wDqCohxL8ao0ilO0XUykz) | 3:02 | 2024-01-05 | 2024-01-23 |
 | [Wishing For Wounds](https://open.spotify.com/track/0Gc6TtPtWmq47Y8psEDFxD) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Wishing For Wounds](https://open.spotify.com/album/6t730CtJHxx2ykmDTwvZfy) | 4:19 | 2025-10-31 | 2026-06-27 |
-| [Woe Is Me](https://open.spotify.com/track/7ru96z0mnGp61wlgaSg4dC) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Woe Is Me](https://open.spotify.com/album/1MSkrcKqmJE2uUB9V9ooqM) | 2:52 | 2026-05-15 |  |
+| [Woe Is Me](https://open.spotify.com/track/7ru96z0mnGp61wlgaSg4dC) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Woe Is Me](https://open.spotify.com/album/1MSkrcKqmJE2uUB9V9ooqM) | 2:52 | 2026-05-15 | 2026-08-08 |
 | [World Burn](https://open.spotify.com/track/12t8ncJH9PC4P9SxvEEySH) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Cast of Mean Girls](https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 3:35 | 2024-01-26 | 2024-05-25 |
 | [World Burn](https://open.spotify.com/track/3iISGrl3JKqPQ4GLqPjVkt) | [Taylor Louderman](https://open.spotify.com/artist/1f0vGTFXE64SLuypBV8zB0), [Original Broadway Cast of Mean Girls](https://open.spotify.com/artist/6B1foTh2pK3K4MKQzYaKRu) | [Mean Girls \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf) | 3:23 | 2022-06-03 | 2022-06-11 |
 | [YDH](https://open.spotify.com/track/1binvmf6h0SUuvcWkQDYsr) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [YDH](https://open.spotify.com/album/3zPoIGOVUpW7dWlHWI3YTw) | 3:17 | 2026-02-20 |  |
+| [You Are Never Gone From Me](https://open.spotify.com/track/3X4aqjMeBDw4ISXy3M3Xtw) | [Morgana](https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d) | [You Are Never Gone From Me](https://open.spotify.com/album/7czHkHTQJ2toJgow0V0zdQ) | 3:32 | 2026-08-07 |  |
 | [You are what you fear in me.](https://open.spotify.com/track/1I6sx82iLyF7iCD5CaeFBR) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [You are what you fear in me.](https://open.spotify.com/album/0AGfakFPdkGpiHBehGWcRh) | 2:24 | 2024-12-13 | 2025-09-13 |
 | [You Don't Know Me \(feat\. Regina Spektor\)](https://open.spotify.com/track/1rihwqlxLr1kL7zg5193FF) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu), [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Way To Normal](https://open.spotify.com/album/3V8q5Mi44jT2wvKyaMVM3x) | 3:09 | 2022-05-17 | 2022-12-10 |
 | [You Killed The Music](https://open.spotify.com/track/2Km8hIwZJWq7migmM1dZzy) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [You Killed The Music](https://open.spotify.com/album/4ygQDkkZoggfIDXxOb1VJW) | 3:06 | 2025-02-21 | 2025-12-13 |

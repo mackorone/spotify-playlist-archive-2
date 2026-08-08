@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women who open up the pit\. Cover: Amy Lee of Evanescence, Poppy & Courtney LaPlante of Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,381 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,476 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 60 | [The Day Of...](https://open.spotify.com/track/5BaDnS9olEIZSXZNdgraMs) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Yesterwynde](https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o) | 4:33 |
 | 61 | [Bottom of a Bottle](https://open.spotify.com/track/5z7dtFHg2AxZmaowYc03FV) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Eye For An Eye...](https://open.spotify.com/album/4YALSsEWKPN1n1y5CqxEmD) | 3:19 |
 | 62 | [Battle Ready](https://open.spotify.com/track/7J9tkRgN26YmIHXl4fnVlp) | [Otep](https://open.spotify.com/artist/6iswhpc2w6na3lS1vehFXF) | [Sevas Tra](https://open.spotify.com/album/1vQRctOyiOZlxElJNOWjdA) | 4:21 |
-| 63 | [WEAPON](https://open.spotify.com/track/0PAQ2onMF2K69b2IYtK8yX) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Somewhere In Between](https://open.spotify.com/album/5KJPUWvsYR8QKCITHAY9zG) | 2:27 |
-| 64 | [The Rabbit Of The Moon](https://open.spotify.com/track/2Zca3T3JmEk28lMu17h4jS) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Lunaris](https://open.spotify.com/album/0CN6BqPhX3iEUHewxIRHQe) | 3:51 |
+| 63 | [The Rabbit Of The Moon](https://open.spotify.com/track/2Zca3T3JmEk28lMu17h4jS) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Lunaris](https://open.spotify.com/album/0CN6BqPhX3iEUHewxIRHQe) | 3:51 |
+| 64 | [WEAPON](https://open.spotify.com/track/0PAQ2onMF2K69b2IYtK8yX) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Somewhere In Between](https://open.spotify.com/album/5KJPUWvsYR8QKCITHAY9zG) | 2:27 |
 | 65 | [Mortal](https://open.spotify.com/track/43eCVp68xqlin5DFHKahIE) | [Daedric](https://open.spotify.com/artist/7bPZIHM9End5CqPcCrOqBf) | [Mortal](https://open.spotify.com/album/3JNEooM1MrfXDs7pxkdYZF) | 2:56 |
 | 66 | [Orphan Soul](https://open.spotify.com/track/17yKsz2dbVEMuIt3M5OcxL) | [Infected Rain](https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY) | [86](https://open.spotify.com/album/5TIa1cNM3wXt1eLNIGuS4w) | 4:48 |
 | 67 | [Blood Pigs](https://open.spotify.com/track/5t4raLj2HuARdxKoDefT57) | [Otep](https://open.spotify.com/artist/6iswhpc2w6na3lS1vehFXF) | [Sevas Tra](https://open.spotify.com/album/1vQRctOyiOZlxElJNOWjdA) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 99 | [Breathe You In](https://open.spotify.com/track/680R0ratdk9o2M6nko18GG) | [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Breathe You In](https://open.spotify.com/album/4tEKPkZKnt44d7hRQHLBfc) | 3:40 |
 | 100 | [Fallen Angel](https://open.spotify.com/track/21uc6y1U0VojXe4MN1A5YO) | [Lucifer](https://open.spotify.com/artist/4fqjeVEalB6iB3BhKu5HwZ) | [Lucifer V](https://open.spotify.com/album/25AfzUCFletNF8W67nZdWu) | 3:09 |
 
-Snapshot ID: `AAAAAJWwkAGjcvKpeYfDrK7xlBVUc5Tb`
+Snapshot ID: `AAAAALf1LN/uBEuUnHD6NI0d9xOcoto1`

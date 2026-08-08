@@ -1,12 +1,12 @@
 {
   "description": "take the road less traveled ",
-  "num_followers": 43176,
+  "num_followers": 43181,
   "original_name": "Americana Drive ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKkpZnkBA5iAauFrLeW5hUICrr2e",
+  "snapshot_id": "AAAAAFfVoeV7ecs59PwumdxJCX7ujvCW",
   "tracks": [
     {
       "added_at": "2026-06-05 20:49:32",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-06-05 20:49:32",
       "album": {
-        "name": "Copperhead Road",
-        "url": "https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 269920,
-      "name": "Copperhead Road",
-      "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
-    },
-    {
-      "added_at": "2026-06-05 20:49:32",
-      "album": {
         "name": "Western Swing & Waltzes and Other Punchy Songs",
         "url": "https://open.spotify.com/album/2YpWqM7XcDt45IQWYL6Y0t"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 192626,
       "name": "Cowpoke",
       "url": "https://open.spotify.com/track/0QJKUh0ga2ubfuVs8DM7bq"
+    },
+    {
+      "added_at": "2026-06-05 20:49:32",
+      "album": {
+        "name": "Copperhead Road",
+        "url": "https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 269920,
+      "name": "Copperhead Road",
+      "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
     },
     {
       "added_at": "2026-06-05 20:49:32",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-06-05 20:49:32",
       "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 174322,
-      "name": "Same Old Song",
-      "url": "https://open.spotify.com/track/1iNzOvQkAeXDeVIni76Yb2"
-    },
-    {
-      "added_at": "2026-06-05 20:49:32",
-      "album": {
         "name": "The Man from Waco",
         "url": "https://open.spotify.com/album/2CegSVMbZ18cUUUBAhpesV"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 225026,
       "name": "The Man from Waco",
       "url": "https://open.spotify.com/track/76AM6t1aDE12g7cjzEexER"
+    },
+    {
+      "added_at": "2026-06-05 20:49:32",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 174322,
+      "name": "Same Old Song",
+      "url": "https://open.spotify.com/track/1iNzOvQkAeXDeVIni76Yb2"
     },
     {
       "added_at": "2026-06-05 20:49:32",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-06-05 20:49:32",
       "album": {
-        "name": "Edges Run",
-        "url": "https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 212853,
-      "name": "People Change",
-      "url": "https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3"
-    },
-    {
-      "added_at": "2026-06-05 20:49:32",
-      "album": {
         "name": "$10 Cowboy",
         "url": "https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 215744,
       "name": "$10 Cowboy",
       "url": "https://open.spotify.com/track/77tSuH7nEYx2IWJm9TboDX"
+    },
+    {
+      "added_at": "2026-06-05 20:49:32",
+      "album": {
+        "name": "Edges Run",
+        "url": "https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 212853,
+      "name": "People Change",
+      "url": "https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3"
     },
     {
       "added_at": "2026-06-05 20:49:32",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-06-05 20:49:32",
       "album": {
-        "name": "Goodbye California",
-        "url": "https://open.spotify.com/album/0IF4AHoc5Vx4TtE03JhyFN"
-      },
-      "artists": [
-        {
-          "name": "Rose Betts",
-          "url": "https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i"
-        }
-      ],
-      "duration_ms": 163010,
-      "name": "Goodbye California",
-      "url": "https://open.spotify.com/track/5KMRa1o2QZBRB5zAUDgjjY"
-    },
-    {
-      "added_at": "2026-06-05 20:49:32",
-      "album": {
         "name": "Dragon New Warm Mountain I Believe In You",
         "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 334802,
       "name": "Spud Infinity",
       "url": "https://open.spotify.com/track/3Q6VfeIZ1bTjWiNe2Or4LQ"
+    },
+    {
+      "added_at": "2026-06-05 20:49:32",
+      "album": {
+        "name": "Goodbye California",
+        "url": "https://open.spotify.com/album/0IF4AHoc5Vx4TtE03JhyFN"
+      },
+      "artists": [
+        {
+          "name": "Rose Betts",
+          "url": "https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i"
+        }
+      ],
+      "duration_ms": 163010,
+      "name": "Goodbye California",
+      "url": "https://open.spotify.com/track/5KMRa1o2QZBRB5zAUDgjjY"
     },
     {
       "added_at": "2026-06-05 20:49:32",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2026-06-05 20:49:32",
       "album": {
+        "name": "White River",
+        "url": "https://open.spotify.com/album/5Wp66bG3fq5gLxcT8T9doG"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 213888,
+      "name": "White River",
+      "url": "https://open.spotify.com/track/7aPheHQPhcxNxohoVAtB7Q"
+    },
+    {
+      "added_at": "2026-06-05 20:49:32",
+      "album": {
         "name": "Loretta",
         "url": "https://open.spotify.com/album/14eHpLl1n8q8OwO44unjE9"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 148522,
       "name": "Loretta",
       "url": "https://open.spotify.com/track/7se1SwflQspTPATjG5xV5X"
-    },
-    {
-      "added_at": "2026-06-05 20:49:32",
-      "album": {
-        "name": "White River",
-        "url": "https://open.spotify.com/album/5Wp66bG3fq5gLxcT8T9doG"
-      },
-      "artists": [
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 213888,
-      "name": "White River",
-      "url": "https://open.spotify.com/track/7aPheHQPhcxNxohoVAtB7Q"
     },
     {
       "added_at": "2026-06-05 20:49:32",

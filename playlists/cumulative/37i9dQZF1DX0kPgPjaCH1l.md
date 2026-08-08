@@ -4,7 +4,7 @@
 
 > Baba God, run am 🙏\. <br/>Cover:  Llona
 
-171 songs - 8 hr 0 min
+172 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Bad Vibes](https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g) | 2:48 | 2025-06-20 | 2026-01-15 |
 | [Bag of Vibes](https://open.spotify.com/track/5zHdXMi4oTkowQvBaKuftu) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Kaizen](https://open.spotify.com/album/7oxgkgER8SwORZr7Yejlmu) | 2:51 | 2025-11-07 | 2026-01-15 |
 | [Beamer](https://open.spotify.com/track/4Agz7lwqwW1HMlcPpkH8Tn) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Beamer](https://open.spotify.com/album/6SVWihTBSwloSOnNvf9H7q) | 2:46 | 2025-06-20 | 2026-05-01 |
-| [Better Days](https://open.spotify.com/track/1KRjAOPqmQtP6fwTKxH0zR) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Better Days](https://open.spotify.com/album/0VOSbhA13PMQSo4MuLXSDn) | 2:32 | 2025-09-05 |  |
+| [Better Days](https://open.spotify.com/track/1KRjAOPqmQtP6fwTKxH0zR) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Better Days](https://open.spotify.com/album/0VOSbhA13PMQSo4MuLXSDn) | 2:32 | 2025-09-05 | 2026-08-08 |
 | [Billionaires Club](https://open.spotify.com/track/65cRt4uGMzo51AzXqptVsX) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 3:46 | 2025-06-20 |  |
 | [Blessed](https://open.spotify.com/track/11FkAWh7OlvM4hFkSipQSw) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m) | [Blessed](https://open.spotify.com/album/3Pmjc2jXyrcN8TfzvkGddQ) | 3:49 | 2025-07-04 | 2025-08-29 |
 | [Blessing](https://open.spotify.com/track/0aJa1qkgXRI4CrrRsTekTG) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Blessed](https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst) | 2:27 | 2025-06-20 |  |
@@ -49,7 +49,7 @@
 | [Dantata](https://open.spotify.com/track/0BZIcREt4wKs79qsYTEurB) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Dantata](https://open.spotify.com/album/4CiLFSo97AWLil7T3dg8JR) | 2:55 | 2026-06-25 |  |
 | [Dead Flowers](https://open.spotify.com/track/3GWRi1nidQuwXcoP3zB7u9) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Dead Flowers](https://open.spotify.com/album/5UnD4luhw0cDGhPvQabsnJ) | 3:01 | 2025-07-25 | 2026-01-15 |
 | [Dealer](https://open.spotify.com/track/5Wxkvvb6pLky16pwq4gBI3) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Dealer](https://open.spotify.com/album/3RShBBcnQmqfmBJgmfz3or) | 3:00 | 2025-06-20 |  |
-| [Dear God](https://open.spotify.com/track/6N93363KAGUQFviDFAmuhz) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Dear God](https://open.spotify.com/album/3WlgPk9gJBgxb8NrsZXUnv) | 3:46 | 2026-06-12 | 2026-07-31 |
+| [Dear God](https://open.spotify.com/track/6N93363KAGUQFviDFAmuhz) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Dear God](https://open.spotify.com/album/3WlgPk9gJBgxb8NrsZXUnv) | 3:46 | 2026-06-12 |  |
 | [Dis Year](https://open.spotify.com/track/2GISypJDFw5aGA3t2ydTmG) | [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Dis Year](https://open.spotify.com/album/1mFajKbOGTphsgYXWqI6xk) | 2:35 | 2026-01-30 | 2026-03-17 |
 | [Do Better](https://open.spotify.com/track/4aeLgBOtKtYC9UNMfaqtwD) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Do Better](https://open.spotify.com/album/1HhTifDRrTEGVBkpMZQj2u) | 2:42 | 2025-11-07 |  |
 | [Doha](https://open.spotify.com/track/5hphSVebVxTpDfrk09W0hS) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Loseyi Professor](https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4) | 2:44 | 2025-06-20 |  |
@@ -137,6 +137,7 @@
 | [Prayer Request II](https://open.spotify.com/track/5hwr611SqLRgG68fc7sxUt) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [jahmiel](https://open.spotify.com/artist/1pcKqVZ7T90mJ2rKo9XWYV), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Prayer Request II](https://open.spotify.com/album/4qwP9cnMh0yYshFmZxybfQ) | 3:11 | 2026-03-06 | 2026-04-11 |
 | [Pressure](https://open.spotify.com/track/2cTU9raZgRNam8zvSVP6ei) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj), [Gbolar Mighty](https://open.spotify.com/artist/1louJ7Ivcfifv1Fm1abrkp) | [Pressure](https://open.spotify.com/album/75tnsxQug4p92qj2Zv5xbb) | 2:46 | 2025-06-20 |  |
 | [Pressure, Pt.2](https://open.spotify.com/track/57i2zCUPJCGaLwH2cPsimu) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj), [Reehaa](https://open.spotify.com/artist/3uEftX1neotPP4BkfvFJHC) | [Pressure, Pt.2](https://open.spotify.com/album/7JGxxRfF3lQVfP8nrpkUUC) | 2:44 | 2025-06-20 | 2026-02-27 |
+| [Que Sera Sera](https://open.spotify.com/track/0Zvvcg4ECVQlMW7bKuXw1v) | [boyBlandi](https://open.spotify.com/artist/6glaqL5S7Uw6gZ8Xn1dbaF), [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp) | [Que Sera Sera/Mercy](https://open.spotify.com/album/0b6wpP1XLYxvB3GlwsE2a6) | 2:30 | 2026-08-07 |  |
 | [Realize](https://open.spotify.com/track/37xumKXReRyER0jlfM3iVL) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Trench Kid \(Deluxe Edition\)](https://open.spotify.com/album/3Uj9cMWx6MjmIuXIK0NHl2) | 2:55 | 2025-06-20 |  |
 | [Realness](https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Prince of the Street](https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW) | 2:13 | 2025-06-27 |  |
 | [Remember](https://open.spotify.com/track/0Q1bMs3xLQiDEeaneehdxv) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 3:02 | 2025-06-20 | 2026-01-15 |
@@ -158,7 +159,7 @@
 | [Suru](https://open.spotify.com/track/347Lf3F7lGmiKXBPNE3GdA) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 2:18 | 2025-10-10 | 2026-01-15 |
 | [Thankful](https://open.spotify.com/track/4hm34en9vhwHwHsOTHrHzM) | [Evado](https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Promise Land](https://open.spotify.com/album/0CKK7uPuk1wpASaq123WXV) | 4:12 | 2026-04-03 | 2026-08-07 |
 | [That Guy](https://open.spotify.com/track/2fnO0WWQC44sjKwk1Ey68o) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Resan](https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd) | 3:18 | 2025-06-20 |  |
-| [THERAPY SESSION](https://open.spotify.com/track/6V25a6msBFeOLjIynVhWgx) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [G.O.A.T](https://open.spotify.com/album/6vNtI8WqFszCyAQhGlShtF) | 2:43 | 2025-06-20 |  |
+| [THERAPY SESSION](https://open.spotify.com/track/6V25a6msBFeOLjIynVhWgx) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [G.O.A.T](https://open.spotify.com/album/6vNtI8WqFszCyAQhGlShtF) | 2:43 | 2025-06-20 | 2026-08-08 |
 | [Till Thy Kingdom Come](https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Till Thy Kingdom Come](https://open.spotify.com/album/56YDR9C7cXLdmqOZE3X2RO) | 2:29 | 2025-06-20 | 2026-07-17 |
 | [TIME](https://open.spotify.com/track/4ilVnBX3jLEEdkRwRWEA4A) | [Shine TTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [TIME](https://open.spotify.com/album/1U6WUqfS0r6nqlqWcwZ9vI) | 2:19 | 2025-06-20 | 2025-09-22 |
 | [To Be A Man](https://open.spotify.com/track/6whWtO0zIA5LUUGSGhojRu) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [To Be A Man](https://open.spotify.com/album/2UbSWalA3La9vUpvzlvtbu) | 2:49 | 2025-08-29 |  |

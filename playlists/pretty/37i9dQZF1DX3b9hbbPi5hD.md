@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3b9hbbPi5hD.md) - [plain]
 
 > Tarantino not only produces great movies, he produces great soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 990,893 likes - 52 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 991,046 likes - 52 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3b9hbbPi5hD.md) - [plain]
 | 51 | [Cat People \(Putting Out The Fire\)](https://open.spotify.com/track/6HXvGhmrsMEZ9AxD1Vjejz) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Quentin Tarantino's Inglourious Basterds \(Motion Picture Soundtrack\)](https://open.spotify.com/album/4bjjJu3euJ6tVIeobbhwRO) | 4:10 |
 | 52 | [Winged](https://open.spotify.com/track/5WRPV0uLJz0tVUqHb79f3X) | [James Russo](https://open.spotify.com/artist/2Gp78IIBNqoiSUlPGP67P4) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 0:08 |
 
-Snapshot ID: `AAAAAEkMtQ9J+n81D/y4l1mzG7qcEFpI`
+Snapshot ID: `AAAAAHsGE2Yxn4T76O6l68h9/cRXZwu4`

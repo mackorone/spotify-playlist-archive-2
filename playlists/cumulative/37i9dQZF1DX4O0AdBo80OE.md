@@ -2,9 +2,9 @@
 
 ### [Rap Latte ](https://open.spotify.com/playlist/37i9dQZF1DX4O0AdBo80OE)
 
-> Suaaaaaaave 📸 Tino El Pingüino
+> Suaaaaaaave 📸 LNG/SHT y José Madero
 
-406 songs - 22 hr 7 min
+407 songs - 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [Me Jodiste Pa 100Pre](https://open.spotify.com/track/7q7aNouSQX6UY1yAE8Ma3O) | [Rmarck](https://open.spotify.com/artist/5dKuB4lPxtsPQz2351kd6r), [044](https://open.spotify.com/artist/59kR0D9MZ98PfPeD9EBaJp) | [Dios Bendiga el Plug](https://open.spotify.com/album/75KknYV6uzEmQkaK08vpaw) | 1:22 | 2025-12-19 | 2026-02-21 |
 | [Me trae loco](https://open.spotify.com/track/61RA6u9ooSW5Wpm5kdQQ0f) | [Cráneo](https://open.spotify.com/artist/05aVtfDzBvg9eVu9MAZPGD), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Cranesito y Robotín](https://open.spotify.com/album/3WGFe29ltEHQfEkXCRORXD) | 2:22 | 2024-08-09 | 2025-05-10 |
 | [Menta](https://open.spotify.com/track/4T1qPAjWETNKODV57IulPl) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Menta](https://open.spotify.com/album/44uTgxAh3bq2uPhyjyOWPC) | 3:08 | 2024-11-08 | 2025-12-13 |
-| [METALLICA](https://open.spotify.com/track/4XeqABCbUqyznqTgB8Ckzj) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [El Plugg 2](https://open.spotify.com/album/71zTvjTLSXaNb97Xitozwg) | 3:48 | 2025-12-19 |  |
+| [METALLICA](https://open.spotify.com/track/4XeqABCbUqyznqTgB8Ckzj) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [El Plugg 2](https://open.spotify.com/album/71zTvjTLSXaNb97Xitozwg) | 3:48 | 2025-12-19 | 2026-08-08 |
 | [Mextasis](https://open.spotify.com/track/7hUGy5dnyRVXzHOv9LoZB9) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [El Morroeste](https://open.spotify.com/album/1FaFnc7lRcUSy2fk8DSHNe) | 3:16 | 2023-05-26 | 2025-12-20 |
 | [Mi Amor Favorito](https://open.spotify.com/track/0Qcqyz5zed6yaEdCaOrArS) | [Nacho Gomez](https://open.spotify.com/artist/274FrDcsRaAvc0Tq5b46Ie), [Cheo Gallego](https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo), [Palma Productions](https://open.spotify.com/artist/63U1CcF3rb3rTtWx6SY5em) | [Mi Amor Favorito](https://open.spotify.com/album/2yElwJhLjFBCa58iiu5UEg) | 2:55 | 2026-03-06 | 2026-05-09 |
 | [Mi Droga](https://open.spotify.com/track/57PRlxNDKEUXrjAjaSPZY6) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Mi Droga](https://open.spotify.com/album/3u3vhBrQQ5DyoSEimofGW1) | 2:55 | 2025-11-21 | 2025-12-20 |
@@ -290,6 +290,7 @@
 | [Piel Mojada](https://open.spotify.com/track/4s2U1sZa2lc86U4QSc4CGs) | [Cóndor](https://open.spotify.com/artist/0m3ZXE3FvbUCLDkwECsXKK) | [Piel Mojada](https://open.spotify.com/album/7DYKxvnlHU8qu7km8qy8Rp) | 3:40 | 2023-05-26 | 2023-10-21 |
 | [Planes](https://open.spotify.com/track/4AHKo5ioRcbW262wrtV5FI) | [Agorazein](https://open.spotify.com/artist/7s6ca8qq2BOyKb5FRkKupP), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Siempre](https://open.spotify.com/album/6sBvS9enYvrf2JVTFg6f7B) | 2:57 | 2025-12-19 | 2026-04-25 |
 | [Planes](https://open.spotify.com/track/7lOEANaBcoI1yXoxG3xq2f) | [Club13](https://open.spotify.com/artist/0zD4ymsniw6Z1QoNOo0u3H), [Litxs](https://open.spotify.com/artist/6cbxrojNkxvEOoTMK9g7qd), [Viian](https://open.spotify.com/artist/19sd6xOLy3esT4IZoYa9Rn), [J TRIPP](https://open.spotify.com/artist/0KajvYVuT23gd66zShAELt) | [Planes](https://open.spotify.com/album/57mDvVMB4Z9iZoJ6RlZXKW) | 3:00 | 2025-12-19 | 2026-04-25 |
+| [Plática de hormigas Pt\. 1 & 2](https://open.spotify.com/track/0I8oJeaMsXCodBElgMYWeE) | [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2), [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Plática de hormigas Pt\. 1 & 2](https://open.spotify.com/album/2x66pPFSmvgAFpPBGJJOtM) | 5:23 | 2026-08-07 |  |
 | [Policías y Ladrones](https://open.spotify.com/track/2hiDJDoyHIcHlcKcFZKgeQ) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Policías y Ladrones](https://open.spotify.com/album/5sKDMyH54Fv9thk4NGHpdj) | 3:41 | 2023-06-16 | 2025-12-20 |
 | [Polos Opuestos](https://open.spotify.com/track/0xoTYvHVwTwWqPKthhJe1S) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Polos Opuestos](https://open.spotify.com/album/4GMF9CjlJMg2H76nOfjMS5) | 4:23 | 2024-07-26 | 2024-08-24 |
 | [Ponte en Mi Lugar](https://open.spotify.com/track/2fpGFJKJlpMPMRVqU1olyV) | [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1), [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Ponte en Mi Lugar](https://open.spotify.com/album/4uwXTB8SVFcBTXvfRcY5Pp) | 3:12 | 2024-04-19 | 2025-12-20 |

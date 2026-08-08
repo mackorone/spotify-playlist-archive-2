@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The world's biggest dance & electronic hits. Cover: Ninajirachi and Porter Robinson",
+  "description": "The world's biggest dance & electronic hits. Cover: Marlon Hoffstadt and Rose Gray",
   "name": "mint",
   "tracks": [
     {
@@ -854,6 +854,24 @@
       "duration_ms": 177524,
       "name": "Afraid To Feel",
       "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
+    },
+    {
+      "album": {
+        "name": "Pure Devotion",
+        "url": "https://open.spotify.com/album/0DS9OxHBt693YOs3TDira2"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195285,
+      "name": "After The Rain",
+      "url": "https://open.spotify.com/track/0rclr5nd7iwF4rJTYRLlJq"
     },
     {
       "album": {
@@ -4411,6 +4429,24 @@
     },
     {
       "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/42nNaIlInYzrmhucRo5WG1"
+      },
+      "artists": [
+        {
+          "name": "Omar+",
+          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177240,
+      "name": "Can't Slow Down",
+      "url": "https://open.spotify.com/track/2PKGJK3Kldd4DHJNzSFWJD"
+    },
+    {
+      "album": {
         "name": "Can't Stop Loving You",
         "url": "https://open.spotify.com/album/0B6h2urIr10tKp0Vzh02UX"
       },
@@ -6065,6 +6101,24 @@
     },
     {
       "album": {
+        "name": "Dance Dance Dance!",
+        "url": "https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217797,
+      "name": "Dance Dance Dance!",
+      "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
+    },
+    {
+      "album": {
         "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
         "url": "https://open.spotify.com/album/4tdjof8Q9w84L19SH3gY2K"
       },
@@ -7702,7 +7756,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 236249,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/4F1J5Y890NaaTUOumYzYUX"
@@ -7724,7 +7778,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 233794,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/2OthEiwV03Y4uMCEix6oZ5"
@@ -17372,7 +17426,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 271835,
       "name": "Lockup",
       "url": "https://open.spotify.com/track/0iONV7wVA3odk4r4MuQO7w"
@@ -17848,6 +17902,28 @@
       "duration_ms": 198480,
       "name": "Love Brand New",
       "url": "https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG"
+    },
+    {
+      "album": {
+        "name": "I Don't Think I Can Stop",
+        "url": "https://open.spotify.com/album/0620dMBIpjeI61scHdp9w2"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Kuuda",
+          "url": "https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218333,
+      "name": "Love Forever (feat. Kuuda)",
+      "url": "https://open.spotify.com/track/1TnejgU7YqwYrWRu2ZFxRU"
     },
     {
       "album": {
@@ -18560,7 +18636,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 130090,
       "name": "Makina Time",
       "url": "https://open.spotify.com/track/4jSrN7kXdQUmbVxJe5x6Xg"
@@ -19550,7 +19626,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 182109,
       "name": "Morning Coffee",
       "url": "https://open.spotify.com/track/0U62uEAcEBfWab5CyQLaEg"
@@ -19974,6 +20050,28 @@
       "duration_ms": 151874,
       "name": "My City (feat. Katy Tiz)",
       "url": "https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm"
+    },
+    {
+      "album": {
+        "name": "Das Ist Daddy",
+        "url": "https://open.spotify.com/album/2YebmkQzLA10QYQc6GOMM6"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169053,
+      "name": "My Darlin'",
+      "url": "https://open.spotify.com/track/3YCPMgglyGmlBAgIHE8KJw"
     },
     {
       "album": {
@@ -22270,7 +22368,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 204737,
       "name": "Out of My Mind",
       "url": "https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw"
@@ -24572,7 +24670,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 157840,
       "name": "Return To Bhibo",
       "url": "https://open.spotify.com/track/0b04O4aNqXhiUtHJcb6bcm"
@@ -25022,6 +25120,28 @@
       "duration_ms": 210625,
       "name": "Rumpta",
       "url": "https://open.spotify.com/track/2Rvi0CiuXzYyYRd3i9wxqM"
+    },
+    {
+      "album": {
+        "name": "run",
+        "url": "https://open.spotify.com/album/0rbA7c9RUVkHiNWMJ04Usk"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        },
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262297,
+      "name": "run",
+      "url": "https://open.spotify.com/track/1aUbgHRbxhm5lMpyM6Pyeb"
     },
     {
       "album": {
@@ -26276,7 +26396,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 147269,
       "name": "Shine",
       "url": "https://open.spotify.com/track/5VhHd1NH4lxUGddilFQBmY"
@@ -30385,6 +30505,24 @@
     },
     {
       "album": {
+        "name": "LIFE",
+        "url": "https://open.spotify.com/album/0vL3Vv27UfbRVLL7B9j1ab"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232306,
+      "name": "this is the moment (cuerpo)",
+      "url": "https://open.spotify.com/track/1AF9gqUhT9jyOHDzDUTZMc"
+    },
+    {
+      "album": {
         "name": "This Is The Sound",
         "url": "https://open.spotify.com/album/5UrapwkD5cCjELtr6hcr3u"
       },
@@ -32766,6 +32904,32 @@
       "duration_ms": 202375,
       "name": "When She Dance",
       "url": "https://open.spotify.com/track/0mNYHqs5BovsfV5jQ4Ysb8"
+    },
+    {
+      "album": {
+        "name": "When The Light Breaks",
+        "url": "https://open.spotify.com/album/1TUAfWl3NJj9yG1Bv9LwvA"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Heather Sommer",
+          "url": "https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213554,
+      "name": "When The Light Breaks",
+      "url": "https://open.spotify.com/track/5rPj0HY2HsT8qneZQL0jJk"
     },
     {
       "album": {

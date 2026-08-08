@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 
 > Racikan akustik dalam secangkir kopi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,959 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,932 likes - 75 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 23 | [Membasuh](https://open.spotify.com/track/3CBxVM0zGj41BQtE6m7gwb) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12), [Rara Sekar](https://open.spotify.com/artist/6mJII5SJlWEYnf7DY4Uywl) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 6:13 |
 | 24 | [Sorai](https://open.spotify.com/track/3ymuBMTviroWLuf1jMsMVf) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Sorai](https://open.spotify.com/album/60YDoJUMHjkYtZnPztRvZ1) | 4:38 |
 | 25 | [Apa Mungkin](https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Apa Mungkin](https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31) | 3:58 |
-| 26 | [Usik](https://open.spotify.com/track/5GgRntbjr23OK9MMST02di) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Riuh](https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5) | 5:11 |
-| 27 | [Cinta Dan Rahasia](https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 4:22 |
+| 26 | [Cinta Dan Rahasia](https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 4:22 |
+| 27 | [Usik](https://open.spotify.com/track/5GgRntbjr23OK9MMST02di) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Riuh](https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5) | 5:11 |
 | 28 | [Hitam Putih](https://open.spotify.com/track/0O6g2QFUhuLqRzGqhyzrIu) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Lelaku](https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1) | 4:11 |
 | 29 | [Kekal](https://open.spotify.com/track/04IXeEjiQ4kdS7JJF9pjxT) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Untuk Dunia, Cinta, dan Kotornya](https://open.spotify.com/album/5hpq1LSLCuC7cifjXAM5bf) | 4:40 |
 | 30 | [Kau Rumahku](https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO) | 4:35 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 42 | [Tuhan Sebut Sia\-Sia](https://open.spotify.com/track/5qZRyl3QDa1PbNXuYfBCEP) | [Amigdala](https://open.spotify.com/artist/40wi3VPurw0e4t3Yggo2Fk) | [Tuhan Sebut Sia\-Sia](https://open.spotify.com/album/4Fo0gJruvAGDIY9j6e4BVJ) | 5:17 |
 | 43 | [Cahaya](https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:15 |
 | 44 | [Seamin Tak Seiman](https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Seamin Tak Seiman](https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m) | 3:36 |
-| 45 | [Terlintas](https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:55 |
-| 46 | [Sesuatu Di Jogja](https://open.spotify.com/track/0MAIxtXWimwhAAQOST9jp7) | [Adhitia Sofyan](https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR) | [8 Tahun](https://open.spotify.com/album/32SLZ72En7DvxafTDhdk28) | 4:47 |
+| 45 | [Sesuatu Di Jogja](https://open.spotify.com/track/0MAIxtXWimwhAAQOST9jp7) | [Adhitia Sofyan](https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR) | [8 Tahun](https://open.spotify.com/album/32SLZ72En7DvxafTDhdk28) | 4:47 |
+| 46 | [Terlintas](https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:55 |
 | 47 | [Bimbang](https://open.spotify.com/track/4aG1OTkWookWM4UdkaV4Iy) | [Melly Goeslaw](https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W) | [Ada Apa Dengan Cinta? \(Original Soundtrack\)](https://open.spotify.com/album/0CXcKhEEmqlMXPS5iPErte) | 3:38 |
 | 48 | [Bercinta Lewat Kata \- From "Jatuh Cinta Seperti di Film\-Film"](https://open.spotify.com/track/7wlfGt5NkpPT6nRC6yCr7u) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Bercinta Lewat Kata \(From "Jatuh Cinta Seperti di Film\-Film"\)](https://open.spotify.com/album/2uqiUX7WQx2Yj4TcBy6UHd) | 2:49 |
 | 49 | [Saktenane \- Acoustic Version](https://open.spotify.com/track/04smuF7vPy6v2PQSdigGYV) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO), [Destya Eka](https://open.spotify.com/artist/3hAh6rSElYkDlnIAE9E1M2) | [Saktenane \(Acoustic Version\)](https://open.spotify.com/album/23USEM1MKRCLJKVXJtr6qr) | 5:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 74 | [Kembalikanku](https://open.spotify.com/track/1BU4UEHkYl54eOwCfdWGa5) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [semua, semua.](https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49) | 3:21 |
 | 75 | [Galih & Ratna \(From "Galih & Ratna"\)](https://open.spotify.com/track/4s7A3Fd0Sw9HmHkDzSeG2F) | [GAC \(Gamaliél Audrey Cantika\)](https://open.spotify.com/artist/3YYdJZO7kX8nwDzN3YJzdW) | [Galih & Ratna \(From "Galih & Ratna"\)](https://open.spotify.com/album/6ecF1hIoV21v0hie4icsxl) | 3:03 |
 
-Snapshot ID: `AAAAAKPM6JbTI0wJfqlz7jsKfH74HpjE`
+Snapshot ID: `AAAAAISf9p9CYx1y0fCX7Y2C0xCEoAzp`

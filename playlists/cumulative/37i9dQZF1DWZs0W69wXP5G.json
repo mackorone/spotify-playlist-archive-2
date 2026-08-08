@@ -3244,7 +3244,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 170528,
       "name": "Not My Fault (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M"
@@ -5342,6 +5342,24 @@
       "duration_ms": 202977,
       "name": "Where Do I Go From You? (with Josh Groban) - from the musical, Beba's Mambo",
       "url": "https://open.spotify.com/track/4DeOSZwYtLqRDA07gJCPib"
+    },
+    {
+      "album": {
+        "name": "Where Is Love?",
+        "url": "https://open.spotify.com/album/5nOdF4PzttIS2NUWXxQT8Y"
+      },
+      "artists": [
+        {
+          "name": "Shanay Holmes",
+          "url": "https://open.spotify.com/artist/4nDXEHmwAWygvY288ku3Xl"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208773,
+      "name": "Where Is Love?",
+      "url": "https://open.spotify.com/track/4HXDLcFe8OQAoYhblmmegO"
     },
     {
       "album": {

@@ -1047,6 +1047,28 @@
     },
     {
       "album": {
+        "name": "ASHOUFEK TANY",
+        "url": "https://open.spotify.com/album/7dON93Ih6jJchbNYmMaACq"
+      },
+      "artists": [
+        {
+          "name": "TAG",
+          "url": "https://open.spotify.com/artist/5zLTKFtt1a3Ndt9p9i6Em2"
+        },
+        {
+          "name": "HatemBas",
+          "url": "https://open.spotify.com/artist/5kapqwWcLC1LL2xjaxEwJU"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173863,
+      "name": "ASHOUFEK TANY",
+      "url": "https://open.spotify.com/track/7A4fyvqztBPYJ3YYfiXWJe"
+    },
+    {
+      "album": {
         "name": "Meaddy El Nas",
         "url": "https://open.spotify.com/album/1mrzsRg8FgZKlB0LQl0IAr"
       },

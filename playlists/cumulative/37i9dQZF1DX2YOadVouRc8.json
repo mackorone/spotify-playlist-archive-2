@@ -10686,7 +10686,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 166285,
       "name": "Ouu wee (brown)",
       "url": "https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi"
@@ -14552,6 +14552,28 @@
       "duration_ms": 259545,
       "name": "Thang For You (feat. NoCap)",
       "url": "https://open.spotify.com/track/39fKVWP7D9qAmkM8qjRQoC"
+    },
+    {
+      "album": {
+        "name": "THAT GIRL!",
+        "url": "https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132817,
+      "name": "THAT GIRL!",
+      "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"
     },
     {
       "album": {

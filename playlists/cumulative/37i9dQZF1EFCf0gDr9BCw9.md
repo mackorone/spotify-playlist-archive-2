@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-257 songs - 19 hr 13 min
+258 songs - 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Fantastic Rhythm](https://open.spotify.com/track/2XJwPVsQ7iDLDopNIbhtUs) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Mellomjul jazz 2022](https://open.spotify.com/album/7iSNn22fdETlTFyC5ikyAv) | 2:35 | 2022-11-19 | 2022-11-21 |
 | [Fantastic Rhythm](https://open.spotify.com/track/7ANqRzBkL37YYzqrvO18Tg) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [Lush Life](https://open.spotify.com/album/06bL3slLObxuzHxNO8CDyQ) | 2:35 | 2022-09-08 |  |
 | [Feet On The Beat](https://open.spotify.com/track/3XBAY99bnSNts24sAPWHMA) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 3:36 | 2022-09-08 |  |
+| [Fiddler on the Diddle](https://open.spotify.com/track/5uyPg6RKpcogkXhf9GqI51) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Concert In The Virgin Islands](https://open.spotify.com/album/4toQQBpDcDpwGG7XWuZhBZ) | 3:11 | 2026-08-07 |  |
 | [Finale \(Peace on Earth\) \- From "Lady and the Tramp"/Soundtrack Version](https://open.spotify.com/track/5dCKkEykQP1VyFBDn6jBkk) | [Disney Studio Chorus](https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW) | [Lady and the Tramp](https://open.spotify.com/album/5lUCB0rKp3TTIongCN7gvk) | 0:31 | 2022-09-08 |  |
 | [Flame Indigo](https://open.spotify.com/track/6CeZy1DpklSJtAiDLJDRUs) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 4:34 | 2022-09-08 |  |
 | [Fol\-de\-Rol\-Rol](https://open.spotify.com/track/6tlP53If003USpWDe0yy2d) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 2:35 | 2022-09-08 |  |

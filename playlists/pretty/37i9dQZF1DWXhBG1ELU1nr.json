@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de hits pra te acompanhar no home office.",
-  "num_followers": 232152,
+  "num_followers": 232137,
   "original_name": "Trabalhando de Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPuc90T6VNqO1HG9BM3piIA5PC1D",
+  "snapshot_id": "AAAAAArB8L39uWZS7G1M0gf6s75y2H5K",
   "tracks": [
     {
       "added_at": "2024-02-27 20:15:05",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "1979 - Remastered 2012",
-      "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Duran Duran",
         "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 340200,
       "name": "Ordinary World",
       "url": "https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "1979 - Remastered 2012",
+      "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Slowhand 35th Anniversary (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "Wonderful Tonight",
-      "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "New Jersey (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 346586,
       "name": "I'll Be There For You",
       "url": "https://open.spotify.com/track/07HqIg8BnB1lJElnw2ZiSR"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Slowhand 35th Anniversary (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "Wonderful Tonight",
+      "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 274706,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Best Of Chris Isaak",
         "url": "https://open.spotify.com/album/4aS233D1sBxySxC1dKVtup"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 286880,
       "name": "Wicked Game - Remastered",
       "url": "https://open.spotify.com/track/5l91KHr9uF8wdSdtRoZba8"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 274706,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Abbey Road (Remastered)",
-        "url": "https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 185733,
-      "name": "Here Comes The Sun - Remastered",
-      "url": "https://open.spotify.com/track/45yEy5WJywhJ3sDI28ajTm"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Unplugged (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 289026,
       "name": "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
       "url": "https://open.spotify.com/track/3BEZCNZSmVv30vsMNSOCri"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "Here Comes The Sun - Remastered",
+      "url": "https://open.spotify.com/track/45yEy5WJywhJ3sDI28ajTm"
     },
     {
       "added_at": "2024-02-27 20:15:05",

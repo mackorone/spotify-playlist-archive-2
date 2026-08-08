@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 
 > This is Def Leppard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,285 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,306 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 | 43 | [Paper Sun](https://open.spotify.com/track/6Ap9ZlHD4EGNcpiOwX9wGc) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Euphoria](https://open.spotify.com/album/7EAgGLOZoYNm5P5rF5IjV2) | 5:27 |
 | 44 | [I Wanna Touch U](https://open.spotify.com/track/3P0dOhy7Vz9KIub2Ay1b2x) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize](https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw) | 3:37 |
 | 45 | [Rejoice](https://open.spotify.com/track/4v8i2jaEKMJyEmlgIEPOZ0) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Rejoice](https://open.spotify.com/album/6hkkdM53ygDdIQtCTxoMPi) | 4:20 |
-| 46 | [All I Want Is Everything](https://open.spotify.com/track/4AxFwURtLHp0P65wO8glIV) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Slang \(Deluxe Edition\)](https://open.spotify.com/album/3LpT9dg2VmGmWd57TNKxl7) | 5:20 |
-| 47 | [Kick](https://open.spotify.com/track/0sVq4exSBXyXP86svk8JBV) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Diamond Star Halos](https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K) | 3:42 |
+| 46 | [Kick](https://open.spotify.com/track/0sVq4exSBXyXP86svk8JBV) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Diamond Star Halos](https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K) | 3:42 |
+| 47 | [All I Want Is Everything](https://open.spotify.com/track/4AxFwURtLHp0P65wO8glIV) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Slang \(Deluxe Edition\)](https://open.spotify.com/album/3LpT9dg2VmGmWd57TNKxl7) | 5:20 |
 | 48 | [Tear It Down](https://open.spotify.com/track/3pH9Vu1LNBXMUptZbmipFF) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 3:37 |
 | 49 | [Now](https://open.spotify.com/track/71sHC5AHCow7uIka7RWztY) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [X](https://open.spotify.com/album/3if8cfZD6MuAc5UmwBd6By) | 4:00 |
 | 50 | [Dangerous](https://open.spotify.com/track/5RdVA7oxXNG08TIPAJrDic) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Def Leppard](https://open.spotify.com/album/68zsPqS53fVtv9jUU2GZPz) | 3:26 |
 
-Snapshot ID: `anJ9AAAAAACbwWkj/ZjVwkV9Jd00EoK0`
+Snapshot ID: `anPOgAAAAAAXeRudjVXt/NSIFC61uFsd`

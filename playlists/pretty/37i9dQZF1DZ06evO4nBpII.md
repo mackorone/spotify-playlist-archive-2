@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 
 > This is Green Day\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,162,182 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,162,214 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 | 19 | [Whatsername](https://open.spotify.com/track/6CVWD0WRqwbR4HsiKHk1j3) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 4:17 |
 | 20 | [Longview](https://open.spotify.com/track/3LRJbFT9rKoKv4aW7PuBJC) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:53 |
 | 21 | [Waiting](https://open.spotify.com/track/390SemxFYgPZ3FfGVqiIqt) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 3:12 |
-| 22 | [I'm Never Gonna R.I.P.](https://open.spotify.com/track/30A5B0l4yBknR1UPYZIEU0) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [I'm Never Gonna R.I.P.](https://open.spotify.com/album/3pN3jdL5rj6mf6AqkjR3aD) | 2:04 |
-| 23 | [Dilemma](https://open.spotify.com/track/4NrGMEm5SvvpJ9Tk1Rq3cP) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:17 |
+| 22 | [Dilemma](https://open.spotify.com/track/4NrGMEm5SvvpJ9Tk1Rq3cP) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:17 |
+| 23 | [I'm Never Gonna R.I.P.](https://open.spotify.com/track/30A5B0l4yBknR1UPYZIEU0) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [I'm Never Gonna R.I.P.](https://open.spotify.com/album/3pN3jdL5rj6mf6AqkjR3aD) | 2:04 |
 | 24 | [Burnout](https://open.spotify.com/track/7dVDWf0wud70V4PgYfKnaG) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 2:07 |
 | 25 | [Warning](https://open.spotify.com/track/0ue0gFLwvXd8qZIPg35Qiu) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 3:41 |
-| 26 | [Give Me Novacaine / She's a Rebel](https://open.spotify.com/track/11I3KKHv7g2pXiuqRDabRA) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 5:26 |
-| 27 | [One Eyed Bastard](https://open.spotify.com/track/3DFEPRUIPY1jszRZR5jHNu) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 2:52 |
+| 26 | [One Eyed Bastard](https://open.spotify.com/track/3DFEPRUIPY1jszRZR5jHNu) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 2:52 |
+| 27 | [Give Me Novacaine / She's a Rebel](https://open.spotify.com/track/11I3KKHv7g2pXiuqRDabRA) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 5:26 |
 | 28 | [Nice Guys Finish Last](https://open.spotify.com/track/0EonrvTzzNScmk7QT4L3dw) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:48 |
 | 29 | [Give Me Novacaine](https://open.spotify.com/track/1usftPV8tzkWQmjwofR2ke) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug) | 3:26 |
 | 30 | [Revolution Radio](https://open.spotify.com/track/3oqYMRKQcwyNmFn1VD2ukD) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 | 49 | [Suzie Chapstick](https://open.spotify.com/track/3SzRlYb9HkQvZhlgotZA8w) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:16 |
 | 50 | [Walking Contradiction](https://open.spotify.com/track/5Mhe8G8RHdQWR30lStPvO5) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Insomniac](https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d) | 2:31 |
 
-Snapshot ID: `anJ9AAAAAABFEVmk3Hw6LVEGZT//UeZT`
+Snapshot ID: `anPOgAAAAAB+M2jAVeIa98wtAzLpcL5p`

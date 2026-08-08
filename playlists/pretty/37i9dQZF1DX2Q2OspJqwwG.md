@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,324 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,337 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 63 | [SHAKE IT TO THE MAX \(FLY\) \- REMIX](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt) | [SHAKE IT TO THE MAX \(FLY\) \(REMIX\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 |
 | 64 | [Back Home](https://open.spotify.com/track/40oYjPdjvFBCZH1Smsk46H) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [ADL](https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3) | 3:13 |
 | 65 | [GIRLS](https://open.spotify.com/track/6WhwHYd38f4ZB2CefpDgLo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/5FYre0OdHLE1MnJ1bHTx1f) | 2:32 |
-| 66 | [Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:33 |
-| 67 | [Y Que Fue?](https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [EMDP \(The Last Album\)](https://open.spotify.com/album/2G4T745eynlKnJdhDj3bAB) | 2:43 |
+| 66 | [Y Que Fue?](https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [EMDP \(The Last Album\)](https://open.spotify.com/album/2G4T745eynlKnJdhDj3bAB) | 2:43 |
+| 67 | [Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:33 |
 | 68 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 |
 | 69 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
 | 70 | [Legendary Lovers](https://open.spotify.com/track/0pOZYYEJawmTAPtkzYKSa2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:44 |
@@ -85,15 +85,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 75 | [DANCE...](https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 4:47 |
 | 76 | [Bangaranga](https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26) | [DARA](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) | [Bangaranga](https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8) | 2:57 |
 | 77 | [Turn The Lights Off \- Radio Edit](https://open.spotify.com/track/7apywiCuMzvSZIa0SKeH99) | [Kato](https://open.spotify.com/artist/1udruffum7CorOphFUMB9A), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [Turn The Lights Off](https://open.spotify.com/album/4Xo7jcwuvnxDQoYq9N1yA6) | 2:58 |
-| 78 | [Snow in Skyami](https://open.spotify.com/track/2nGzxt4Ww10tUoyDdkNqWq) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Real Me](https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY) | 2:42 |
-| 79 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |
+| 78 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |
+| 79 | [Snow in Skyami](https://open.spotify.com/track/2nGzxt4Ww10tUoyDdkNqWq) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Real Me](https://open.spotify.com/album/0pFlE0rc68RS8f3UHzioQY) | 2:42 |
 | 80 | [You Stole The Show](https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [You Stole The Show](https://open.spotify.com/album/1K7SMm8IvVx0hT40q1tfTh) | 3:27 |
 | 81 | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q) | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n) | 3:40 |
 | 82 | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/track/0XOynYFi9hQfIXKnTct9A7) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 5:01 |
 | 83 | [The One That Got Away](https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 |
 | 84 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 |
-| 85 | [do i clench my fists?](https://open.spotify.com/track/08QUYTMO6gZDCKQFTCXBbz) | [ridgeclub](https://open.spotify.com/artist/4MT74NV1GnOKWtwpEVRRu1) | [do i clench my fists?](https://open.spotify.com/album/0fjrtU0uPBqg10AMHhKYSX) | 2:33 |
-| 86 | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc) | 3:01 |
+| 85 | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc) | 3:01 |
+| 86 | [do i clench my fists?](https://open.spotify.com/track/08QUYTMO6gZDCKQFTCXBbz) | [ridgeclub](https://open.spotify.com/artist/4MT74NV1GnOKWtwpEVRRu1) | [do i clench my fists?](https://open.spotify.com/album/0fjrtU0uPBqg10AMHhKYSX) | 2:33 |
 | 87 | [Gut Genug \(mit Blumengarten & Shirin David\)](https://open.spotify.com/track/1FsURdV1P2M3VCKdbTsZak) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [KITSCHKRIEG ZWEI](https://open.spotify.com/album/778QaCfUiirKHFrXJuJGIL) | 3:08 |
 | 88 | [Caliente](https://open.spotify.com/track/26Z2FQ9KFswyX2x7LxhQKs) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Party Never Ends, Part 1 \(Deluxe Edition\)](https://open.spotify.com/album/45WWiybURSpC7tslSxGnrf) | 3:21 |
 | 89 | [Wait For You](https://open.spotify.com/track/17Pg7WwDCaK5FlFshdcKD7) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Wait For You](https://open.spotify.com/album/5FJQ5Pwf2shqBVHqlcdh9K) | 2:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 99 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 |
 | 100 | [Dame Un Grrr](https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4) | [Dame Un Grrr](https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65) | 2:13 |
 
-Snapshot ID: `AAAAAOVBON+t8f5W7nk3I0h1EFNf3i4j`
+Snapshot ID: `AAAAALzzHSbnJQYyC+VFw2aDpd/mM82D`

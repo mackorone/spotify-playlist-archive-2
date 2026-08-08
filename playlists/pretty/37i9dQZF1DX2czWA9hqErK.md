@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 
 > Soft edges and slow motion moments 🪴
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,314,568 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,314,474 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 34 | [Hymn To Virgil](https://open.spotify.com/track/4jpfGq3JVDTH81jxITUlDu) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unending](https://open.spotify.com/album/4goifiXK2L1XEEMeUwmbxG) | 3:22 |
 | 35 | [Where Were You](https://open.spotify.com/track/0cxALQcd48GTLTnSAUw25U) | [Vicky Sometani](https://open.spotify.com/artist/29uVFPS7wo6RBGzewIc6pt) | [Where Were You](https://open.spotify.com/album/5qbZtAhc1eF1mdImrJlKIs) | 3:25 |
 | 36 | [Need You Now](https://open.spotify.com/track/32eaSGv3EUiBtQYeI31tig) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [December](https://open.spotify.com/album/3YEP83sxNbOfRmnXfxFpFW) | 2:28 |
-| 37 | [5 More Minutes](https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [I Know What I Want](https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va) | 3:50 |
-| 38 | [Frances](https://open.spotify.com/track/1aWgq6UfTHralw5xL1Drs0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:52 |
+| 37 | [Frances](https://open.spotify.com/track/1aWgq6UfTHralw5xL1Drs0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:52 |
+| 38 | [5 More Minutes](https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [I Know What I Want](https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va) | 3:50 |
 | 39 | [Andromeda](https://open.spotify.com/track/5Br4bQG5MwYZTKpFfiw4no) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:15 |
 | 40 | [Anyone In Love](https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Anyone In Love](https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G) | 3:06 |
 | 41 | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U) | 4:07 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 45 | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/album/74xb3RB0NFdpxogUMihIlb) | 3:51 |
 | 46 | [1:5](https://open.spotify.com/track/4KkXlAj7HIXcKNquwVty43) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [1:5](https://open.spotify.com/album/2x618fYTKtUfUXMtFmznqu) | 3:57 |
 | 47 | [Oranges](https://open.spotify.com/track/3LDNkwKmcU6OvbZE3kNL6l) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Headlights](https://open.spotify.com/album/6txHM80BKWlp4UdqLpWXRZ) | 2:52 |
-| 48 | [Reach Out And Kiss Me](https://open.spotify.com/track/59Qv0E4uhUEdJIElLFiN8N) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Reach Out And Kiss Me](https://open.spotify.com/album/1QWOmlkjOJFF7f39IAsRUX) | 3:30 |
-| 49 | [This Must Be Love](https://open.spotify.com/track/1c7LMtPdhpiGO9ZddQBycK) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [This Must Be Love](https://open.spotify.com/album/61SlbP9mxTiEp36mM0Rfsw) | 2:47 |
+| 48 | [This Must Be Love](https://open.spotify.com/track/1c7LMtPdhpiGO9ZddQBycK) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [This Must Be Love](https://open.spotify.com/album/61SlbP9mxTiEp36mM0Rfsw) | 2:47 |
+| 49 | [Reach Out And Kiss Me](https://open.spotify.com/track/59Qv0E4uhUEdJIElLFiN8N) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Reach Out And Kiss Me](https://open.spotify.com/album/1QWOmlkjOJFF7f39IAsRUX) | 3:30 |
 | 50 | [Ama said](https://open.spotify.com/track/29BR9FPwLRYH7UiXpN3D34) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [it's like I never left](https://open.spotify.com/album/0qaGB6BxRJBvwwYSg6mI56) | 2:55 |
 | 51 | [Begin Again](https://open.spotify.com/track/2bJmEp5pi0XnQDeEiikmhz) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu) | [Begin Again](https://open.spotify.com/album/5kCV7lHlpgAYi3KJdL0ydU) | 3:05 |
 | 52 | [I Can’t Believe We Never Went Out Dancing](https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [I Can’t Believe We Never Went Out Dancing](https://open.spotify.com/album/1MenqIX29GExcRwMxEqkhE) | 3:44 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 72 | [backwards loving](https://open.spotify.com/track/0YXpXUlsDBIbHZMIrSyHym) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [backwards loving](https://open.spotify.com/album/0zUmHIH9PEE2SICrIppPe4) | 3:52 |
 | 73 | [Hope](https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time](https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z) | 4:39 |
 | 74 | [Lucky](https://open.spotify.com/track/4FsxBPxqq3pN5UkpqMz6js) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Lucky](https://open.spotify.com/album/1JEUHMVkly5YTMeNgz46Js) | 2:28 |
-| 75 | [One Door Closes \(feat\. Breland\)](https://open.spotify.com/track/6ExcHgzbMNJEBqnBtaMko6) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [One Door Closes \(feat\. Breland\)](https://open.spotify.com/album/5AOYmjNyAFYXsceGhAB6Dr) | 3:07 |
-| 76 | [Too Many Times](https://open.spotify.com/track/10lAFDVD2Hg61RHyJmOy7U) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Call Them And Tell Them You Love Them](https://open.spotify.com/album/0sjLc36LTNXuLs4YQus8FD) | 3:11 |
+| 75 | [Too Many Times](https://open.spotify.com/track/10lAFDVD2Hg61RHyJmOy7U) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Call Them And Tell Them You Love Them](https://open.spotify.com/album/0sjLc36LTNXuLs4YQus8FD) | 3:11 |
+| 76 | [One Door Closes \(feat\. Breland\)](https://open.spotify.com/track/6ExcHgzbMNJEBqnBtaMko6) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [One Door Closes \(feat\. Breland\)](https://open.spotify.com/album/5AOYmjNyAFYXsceGhAB6Dr) | 3:07 |
 | 77 | [I Know A Place \- Acoustic](https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U: One Year On](https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX) | 4:51 |
 | 78 | [To Be Loved](https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Beautifully Ordinary](https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8) | 5:04 |
 | 79 | [Horses](https://open.spotify.com/track/3l9qqtfWLOkFvvLB570maZ) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/50zspfq3s6XeqRF25SL6IK) | 3:32 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 91 | [Someone That's Better](https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Someone That's Better](https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8) | 2:13 |
 | 92 | [HEADPHONES](https://open.spotify.com/track/0DZdO8klTXwwiCgHRlTiqx) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [HEADPHONES](https://open.spotify.com/album/38k0yC1M2tFqhodt0nMKu2) | 3:16 |
 | 93 | [Scary Movie](https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Chloe Qisha](https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM) | 2:44 |
-| 94 | [steal my soul](https://open.spotify.com/track/0GCatw5uBoK6elQCmIrriS) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [steal my soul](https://open.spotify.com/album/7lf7nq3pmpPMEutyzQ4NVH) | 2:21 |
-| 95 | [Live First, Love Later](https://open.spotify.com/track/3VpG43w5Cfmw7rLAfS2Ovx) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Panorama](https://open.spotify.com/album/4ujXwurXPasKhBGQteD07z) | 2:35 |
+| 94 | [Live First, Love Later](https://open.spotify.com/track/3VpG43w5Cfmw7rLAfS2Ovx) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Panorama](https://open.spotify.com/album/4ujXwurXPasKhBGQteD07z) | 2:35 |
+| 95 | [steal my soul](https://open.spotify.com/track/0GCatw5uBoK6elQCmIrriS) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [steal my soul](https://open.spotify.com/album/7lf7nq3pmpPMEutyzQ4NVH) | 2:21 |
 | 96 | [Mine](https://open.spotify.com/track/7Mrm4nzcPAiYMQK3iewCRY) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 3:08 |
-| 97 | [Portland](https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Portland](https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf) | 2:52 |
-| 98 | [Still Run \(feat\. Starchild & The New Romantic\)](https://open.spotify.com/track/6oQr3o6tXx7ESYG2sHpNMl) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Starchild & The New Romantic](https://open.spotify.com/artist/3JZZpDHgo1WxBrxuleA3Ab) | [Still Run](https://open.spotify.com/album/3avxMSC0AsjtdARQXC7tjF) | 3:36 |
+| 97 | [Still Run \(feat\. Starchild & The New Romantic\)](https://open.spotify.com/track/6oQr3o6tXx7ESYG2sHpNMl) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Starchild & The New Romantic](https://open.spotify.com/artist/3JZZpDHgo1WxBrxuleA3Ab) | [Still Run](https://open.spotify.com/album/3avxMSC0AsjtdARQXC7tjF) | 3:36 |
+| 98 | [Portland](https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Portland](https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf) | 2:52 |
 | 99 | [Enough](https://open.spotify.com/track/7xGfUFdnjjkKjNaIzicum6) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Enough](https://open.spotify.com/album/2chEGfaMozvHc1GJuFF2Wg) | 3:51 |
 | 100 | [Miles](https://open.spotify.com/track/4eI0cTeYray8jcBxlFjl2z) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Miles](https://open.spotify.com/album/5NTwzn0gyfspqs0CgRXAnK) | 2:35 |
 
-Snapshot ID: `AAAAAKbvrR/qG5eHjhVY6lSPdCbDbnTg`
+Snapshot ID: `AAAAAFuzh8SN3LvqRjDryPIUrP4oEbyE`

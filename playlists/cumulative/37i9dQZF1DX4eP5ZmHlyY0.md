@@ -2,9 +2,9 @@
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: CORTIS & Juicy J
+> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: Stray Kids
 
-1,069 songs - 2 day 9 hr 56 min
+1,071 songs - 2 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [BANG!](https://open.spotify.com/track/5GhMwDsrBKBN56PgVXYCA6) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [BANG!](https://open.spotify.com/album/6FgXRc5VEzawOjf3EWWYqB) | 3:22 | 2024-04-02 | 2024-06-05 |
 | [BANG!!](https://open.spotify.com/track/5wHQmGFml0oDSqv7Q4nixp) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [BANG!!](https://open.spotify.com/album/5vkSBmbkFqg9ByvMe0o4Zu) | 3:24 | 2026-05-04 | 2026-05-25 |
 | [BANQUET BANG](https://open.spotify.com/track/151HCBi3kmWRVSpSKo0fdX) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [BANQUET BANG](https://open.spotify.com/album/6JG34ilizU0ZNXAK2z7ehB) | 3:23 | 2026-02-01 | 2026-03-24 |
-| [Battle Ground \(Korean Version\)](https://open.spotify.com/track/6CoD4TwVhN69X49qHtp8bD) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY 2026 Pt.1](https://open.spotify.com/album/3lGjISBaDtPMM1rooDDmyZ) | 3:31 | 2026-08-01 |  |
+| [Battle Ground \(Korean Version\)](https://open.spotify.com/track/6CoD4TwVhN69X49qHtp8bD) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY 2026 Pt.1](https://open.spotify.com/album/3lGjISBaDtPMM1rooDDmyZ) | 3:31 | 2026-08-01 | 2026-08-08 |
 | [BBUU!](https://open.spotify.com/track/5aVJRrcywxt8dtjkgihKsF) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [PLBBUU](https://open.spotify.com/album/4Cl8PGyGfzPPa2y76nEYAU) | 2:52 | 2025-11-09 | 2026-01-15 |
 | [Be brave!](https://open.spotify.com/track/6kFeAaicIz6Z3w3mwuPbu4) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Be brave!](https://open.spotify.com/album/7eMyEWqVqpX6Bjeh9PBP8l) | 3:24 | 2025-05-12 | 2025-08-19 |
 | [BE CLASSIC](https://open.spotify.com/track/6qactUdK4Lql5d31ow4669) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [BE CLASSIC](https://open.spotify.com/album/4hjnuvQELOGNFix32suzo9) | 2:39 | 2025-03-24 | 2025-09-26 |
@@ -710,6 +710,7 @@
 | [Running Wild](https://open.spotify.com/track/4p7DTkyrKqT98xlIwYYfXz) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy](https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt) | 2:31 | 2025-03-06 | 2025-03-24 |
 | [SADISTIC](https://open.spotify.com/track/11umzbLG97P5FTncGcjUhl) | [JASP.ER](https://open.spotify.com/artist/1wBe2nbEVc01LGBk4YCxER) | [SADISTIC](https://open.spotify.com/album/7BBhwoonSRzWEohQIcHDkY) | 3:04 | 2025-03-06 | 2025-09-14 |
 | [Sailing](https://open.spotify.com/track/0Tjfd3zPoTpPo7FwR21DC2) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Sailing](https://open.spotify.com/album/1hzne4NVJBLxSD78Flnzww) | 3:06 | 2024-11-05 | 2024-12-25 |
+| [SAKURA](https://open.spotify.com/track/2AKVMux9oWObX2xbr7FHNU) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [SAKURA](https://open.spotify.com/album/7aHdo6NaGvifTKui2VsiWN) | 2:45 | 2026-08-07 |  |
 | [Salvia](https://open.spotify.com/track/0bcTxNXi8c0IUY0PhNYItd) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Sarracenia / Salvia](https://open.spotify.com/album/4KO4Ul7zk5Rz2itJ5KKtyl) | 3:26 | 2023-11-23 | 2023-12-20 |
 | [Same Key](https://open.spotify.com/track/6bl0lwuf0okN1QKOer1m2n) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Same Key](https://open.spotify.com/album/13QLqadsR7ld5XzrTslUFY) | 4:03 | 2024-10-01 | 2024-10-23 |
 | [Same Sky](https://open.spotify.com/track/0FAUYnNFMlHteLJ11r5Ix8) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Same Sky](https://open.spotify.com/album/6aQ2GvMtXtrVACouE8pba7) | 3:04 | 2026-02-26 | 2026-03-18 |
@@ -834,6 +835,7 @@
 | [The Voice](https://open.spotify.com/track/0LvtYkJSXFdZLXAKrQjpdu) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Banquet](https://open.spotify.com/album/3wXNjLWGdqtKReMLjhat8H) | 3:15 | 2026-04-06 | 2026-06-23 |
 | [Theater](https://open.spotify.com/track/5obcTVBYLhSTTBuuttwq24) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [Theater](https://open.spotify.com/album/5IF6EOV0aewiwlFUFaTuRe) | 3:20 | 2025-12-22 | 2026-03-24 |
 | [Theater](https://open.spotify.com/track/6iltt0n1DkQ0AtCcwxXNZJ) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [STARRING](https://open.spotify.com/album/32NZKUbT5ls5kYZy1j6yAM) | 3:20 | 2026-05-18 | 2026-07-22 |
+| [This & That](https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THIS & THAT](https://open.spotify.com/album/0VDVnZhY399q6sIrdyjZWj) | 3:05 | 2026-08-07 |  |
 | [Through The RAIN](https://open.spotify.com/track/2RNTFkOSBa5ejqg2dqbbw8) | [J SOUL BROTHERS III](https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD) | [Through The RAIN](https://open.spotify.com/album/4ImE76haoB9wTnnM2EwwU4) | 3:26 | 2026-02-26 | 2026-05-20 |
 | [THUNDER](https://open.spotify.com/track/0qkYuCno3SoU8vxkCdx0iJ) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5th Album 'HAPPY BURSTDAY'](https://open.spotify.com/album/0xlyof8BowaJtYPsxWYmkN) | 2:44 | 2025-05-26 | 2026-02-25 |
 | [Tick\-Tack](https://open.spotify.com/track/3BNpzwhcHzHbn2c0Ymmzib) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Tick\-Tack](https://open.spotify.com/album/0QL5RbXpEomD15jDSbTkr5) | 2:49 | 2025-04-08 | 2025-05-07 |
@@ -911,7 +913,7 @@
 | [What's DXTEEN](https://open.spotify.com/track/5EaRDHfG3BwWPpaJngsSxA) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [What's DXTEEN](https://open.spotify.com/album/2F94M5u9WLf3FFLRxMt02S) | 3:50 | 2025-12-23 | 2026-01-15 |
 | [What's Happenin’](https://open.spotify.com/track/6WcrcBClXnuv0mbMOH3AQX) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [What's Happenin'](https://open.spotify.com/album/03cXSOYkS5BuH5lMThfFxB) | 3:26 | 2025-02-04 | 2025-03-07 |
 | [What's Up!!](https://open.spotify.com/track/1eZbYaAWiiT3yAc7hLCs56) | [BOYZTERIOS from BATTLE BOYS](https://open.spotify.com/artist/2fIiRTTSE31r4KqEn9RD2t) | [What's Up!!](https://open.spotify.com/album/1A8ruIVzJfdvwYfW8jzm7c) | 4:01 | 2024-07-30 | 2024-09-04 |
-| [WHATCHA DOIN](https://open.spotify.com/track/0jIdJN8ZjQNVLmikkg0mnF) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WHATCHA DOIN](https://open.spotify.com/album/5bUWg5P0OFvGtGT0ePJsEb) | 3:22 | 2026-07-23 |  |
+| [WHATCHA DOIN](https://open.spotify.com/track/0jIdJN8ZjQNVLmikkg0mnF) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WHATCHA DOIN](https://open.spotify.com/album/5bUWg5P0OFvGtGT0ePJsEb) | 3:22 | 2026-07-23 | 2026-08-08 |
 | [Whatcha Gonna Do](https://open.spotify.com/track/7xW477Puc2lltQKKYbihrw) | [IVVY](https://open.spotify.com/artist/2vt1pSDdswpATBUN6lPMre) | [Whatcha Gonna Do](https://open.spotify.com/album/4CHSQQXvYFdtNgiN5gsLsL) | 3:38 | 2023-11-28 | 2024-01-10 |
 | [Whatever Happens](https://open.spotify.com/track/43gyzi5Iyfaz6OqzxhJhkK) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Whatever Happens](https://open.spotify.com/album/07x7srlQ4mrF6rGSs9yPdd) | 3:09 | 2024-04-02 | 2024-06-19 |
 | [WHEE!](https://open.spotify.com/track/3UCnEKnght7sSlycogaSak) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Interview X](https://open.spotify.com/album/4TmQo5XPRgVleYrisal8n2) | 2:49 | 2025-03-09 | 2025-08-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 
 > Every song that's Trending NOW from Malayalam! <br/>Cover: ARJN, KDS, FIFTY4, Shreya Ghoshal
 
-[Spotify](https://open.spotify.com/user/spotify) - 715,341 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 715,777 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 | 49 | [Munthirichar](https://open.spotify.com/track/0133cEuPQ9SQcqHqjgFtbS) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW) | [Munthirichar](https://open.spotify.com/album/1J9txM3rhZhexF42weUMWJ) | 3:54 |
 | 50 | [Kondal Vedan Song \(From "Kondal"\)](https://open.spotify.com/track/0FhmVYnbnWocY6mOgjeMlz) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Kondal Vedan Song \(From "Kondal"\)](https://open.spotify.com/album/2QofMPxSLCWnxlKpDWVOeV) | 4:07 |
 
-Snapshot ID: `AAAAAA8/o/QS41DUmRRDLpnwhhsSkdOg`
+Snapshot ID: `AAAAAAO2QcrNgbTcC+eSE0oyxXVmNl8J`

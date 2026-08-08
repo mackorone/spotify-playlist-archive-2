@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Cam Keddy
+> Discover your new favourite artists from UK&IE\. Cover: Abbie Gordon
 
-367 songs - 19 hr 39 min
+368 songs - 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Leave](https://open.spotify.com/track/6XxLyQcf5medRSvuMo2B50) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Autonomy EP](https://open.spotify.com/album/4WvieX96tzcCZlGI8CEDdW) | 2:57 | 2022-02-18 |  |
 | [Leave](https://open.spotify.com/track/0Z375dvneNK9D6Bc5JnjhF) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Leave](https://open.spotify.com/album/2zwQsQOUckjqeOZ8Id2hVL) | 3:22 | 2024-01-19 | 2024-04-19 |
 | [Leave](https://open.spotify.com/track/1Kl3kOLzU3ONc5bTEuO7rj) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Leave](https://open.spotify.com/album/4oI3CE0TNkmbQQqZdHR2zh) | 3:22 | 2024-01-19 |  |
+| [Let It Die](https://open.spotify.com/track/4DsFw6tYSCof1P6DZ32Clk) | [Abbie Gordon](https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy) | [Let It Die](https://open.spotify.com/album/6Uel6cr5Fpp6WSlQDkbsxJ) | 3:32 | 2026-08-07 |  |
 | [Life Of The Party](https://open.spotify.com/track/3pWAykbBhuG4Qxp3aQiKpq) | [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [Life Of The Party](https://open.spotify.com/album/2SOY7ASK4wU3ecJTPBTT44) | 2:42 | 2025-08-21 |  |
 | [Light Over There](https://open.spotify.com/track/3WToaJeNig1j8gOFJMbjch) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [Light Over There](https://open.spotify.com/album/7j8sSYoqPEZ1HSwMHLnr6n) | 4:06 | 2026-07-23 |  |
 | [Like You Are For Me](https://open.spotify.com/track/46kq5YIZR735eci0ZerNly) | [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [Like You Are For Me](https://open.spotify.com/album/4KD1vLTfYjEEa6QbI1pnsd) | 3:28 | 2025-03-14 |  |

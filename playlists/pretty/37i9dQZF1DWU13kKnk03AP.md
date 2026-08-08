@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU13kKnk03AP.md) - [plain]
 
 > Pump it up with these current jams!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,197,778 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,197,770 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU13kKnk03AP.md) - [plain]
 | 38 | [MOTION \(feat\. Juicy J\)](https://open.spotify.com/track/15EbINtnOI4c2jPXXskywy) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [MOTION \(feat\. Juicy J\)](https://open.spotify.com/album/7hkn5DHPOpLwrlUpxAbbnp) | 2:37 |
 | 39 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |
 | 40 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 |
-| 41 | [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 |
-| 42 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 |
+| 41 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 |
+| 42 | [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 |
 | 43 | [Game Time](https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Game Time \(FIFA World Cup 2026™\)](https://open.spotify.com/album/2IrLgCHorjIvyYuZXiMY2e) | 3:26 |
 | 44 | [HAPPY](https://open.spotify.com/track/3ZEno9fORwMA1HPecdLi0R) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY) | 4:02 |
 | 45 | [Bloodline](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU13kKnk03AP.md) - [plain]
 | 62 | [Cover Me In Sunshine](https://open.spotify.com/track/6Tio0ZoDeSQnI7EBAqWer2) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Willow Sage Hart](https://open.spotify.com/artist/0gAILSEru1PKMwP0tAqNLS) | [Cover Me In Sunshine](https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI) | 2:21 |
 | 63 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 |
 | 64 | [More Than A Feeling](https://open.spotify.com/track/1AgcC6Xyhp5gw0BnedjCJh) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [More Than A Feeling](https://open.spotify.com/album/1uJzTlXwEwWwo30TWER0ms) | 2:47 |
-| 65 | [Awake Tonight](https://open.spotify.com/track/4Vdes3GjtIqdFskoWbVYnP) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Awake Tonight](https://open.spotify.com/album/2JVYUljpOqknjBvxeSIFB0) | 3:10 |
-| 66 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 |
+| 65 | [Medusa](https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Medusa](https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ) | 2:37 |
+| 66 | [Awake Tonight](https://open.spotify.com/track/4Vdes3GjtIqdFskoWbVYnP) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Awake Tonight](https://open.spotify.com/album/2JVYUljpOqknjBvxeSIFB0) | 3:10 |
 | 67 | [round and round](https://open.spotify.com/track/4uW97EdIlhNzUS5QUltXMH) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [round and round](https://open.spotify.com/album/7fNSHWi4EJ3RHygITurjog) | 2:47 |
 | 68 | [Now Or Never](https://open.spotify.com/track/5hG7MlKPCqUgtdwROUbBRS) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Now Or Never](https://open.spotify.com/album/4ObwiIpULEzwOPrtLSd7xA) | 2:28 |
 | 69 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU13kKnk03AP.md) - [plain]
 | 99 | [Steal The Show \- From "Elemental"](https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Steal The Show \(From "Elemental"\)](https://open.spotify.com/album/1rMI4GKDwtz8Ok0e7jbE4l) | 3:11 |
 | 100 | [Show Starts Now](https://open.spotify.com/track/38wC3l1TdRF8ApuItxTnQ3) | [Savannah Bananas](https://open.spotify.com/artist/00ynWX32K6wbeuljTQI2FW), [Derek Klena](https://open.spotify.com/artist/60AQf9DIGAbGpewI33bayw) | [Show Starts Now](https://open.spotify.com/album/47mip4CjJFoZtNlevbkEWR) | 3:06 |
 
-Snapshot ID: `AAAAAFwc07CP6wS+Q8dPgsjTaYwGubmu`
+Snapshot ID: `AAAAAGfMO2Dmv+TELQoyeTdBWgSM0MO+`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > All the sunny surf rock you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,409 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,397 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 58 | [Right or Wrong](https://open.spotify.com/track/3iblchfWSkursOZywc1MyH) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Right or Wrong](https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK) | 3:27 |
 | 59 | [Recycle](https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI) | [loren north](https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr) | [Recycle](https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2) | 3:24 |
 | 60 | [MOVING ON](https://open.spotify.com/track/52gV8gK6iG1QXBbAZmrskz) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [MOVING ON](https://open.spotify.com/album/2PaJHZzyi7UZJBX57mdbMW) | 4:08 |
-| 61 | [Naga Damai](https://open.spotify.com/track/67JfEpAFRL9ODmfh0LI1Yf) | [Cocobolo](https://open.spotify.com/artist/2KL4LWA8Ed7B5SscFbaLsu) | [Naga Damai](https://open.spotify.com/album/1eEyJyPSx9PLnkm6K9qyBo) | 3:37 |
-| 62 | [Bangkok](https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ) | [Alaaska](https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK) | [Bangkok](https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv) | 3:35 |
+| 61 | [Bangkok](https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ) | [Alaaska](https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK) | [Bangkok](https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv) | 3:35 |
+| 62 | [Naga Damai](https://open.spotify.com/track/67JfEpAFRL9ODmfh0LI1Yf) | [Cocobolo](https://open.spotify.com/artist/2KL4LWA8Ed7B5SscFbaLsu) | [Naga Damai](https://open.spotify.com/album/1eEyJyPSx9PLnkm6K9qyBo) | 3:37 |
 | 63 | [Walk To The One You Love](https://open.spotify.com/track/3EaiU22oIVojTzAjq3ZkKY) | [Twin Peaks](https://open.spotify.com/artist/1xD85sp0kecIVuMwUHShxs) | [Down In Heaven](https://open.spotify.com/album/5FfhKbBs5wilm53muL9kT5) | 3:33 |
 | 64 | [Sharks](https://open.spotify.com/track/1Q5izvlLFm6gQZyaxJHEHy) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [Sharks](https://open.spotify.com/album/3Ux3tqe169UnBo1a7gREiL) | 3:41 |
 | 65 | [Pacific Ocean](https://open.spotify.com/track/49MVg5q2nvlPjnK93dqalV) | [GRMLN](https://open.spotify.com/artist/3RE9lrTTbnp2GUwHrGS40f) | [Pacific Ocean](https://open.spotify.com/album/5kG4wRE6BuhP582mtt5a25) | 2:33 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 67 | [LCD](https://open.spotify.com/track/2uR01tcAXfzD99eaKQJvBT) | [Ghost Care](https://open.spotify.com/artist/5kbK7MXSEO00Bw9AVTmXdy) | [LCD](https://open.spotify.com/album/7JiblL6oSzGZfiTAin8t4Y) | 3:31 |
 | 68 | [Lara](https://open.spotify.com/track/0ufK29CoMI8H6aWV7BXXbl) | [Blanco Tranco](https://open.spotify.com/artist/4YGf4vtFvFBhfkjKNiLoJH) | [Lara](https://open.spotify.com/album/0Y2mQu3eGq3dry8Ko9A74Q) | 3:05 |
 | 69 | [Floating By](https://open.spotify.com/track/1GecdBfUVVohc8wdSaHvtg) | [Dawson James](https://open.spotify.com/artist/07SRAC48eP073ob1v7iEuL) | [Floating By](https://open.spotify.com/album/1yYbgy37ZesTj0feuFkzJT) | 2:40 |
-| 70 | [Hideaway](https://open.spotify.com/track/6MoD2aTX0Yc2YjHjG7CxXf) | [Sunsick Daisy](https://open.spotify.com/artist/2lm7q6k1zAICmhLjKLCRo1) | [Hideaway](https://open.spotify.com/album/5vM64OxKlY55VcAfFEJEra) | 3:06 |
-| 71 | [Tommy Bahama](https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9) | [Sebimor](https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH) | [Tommy Bahama](https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW) | 3:49 |
+| 70 | [Tommy Bahama](https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9) | [Sebimor](https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH) | [Tommy Bahama](https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW) | 3:49 |
+| 71 | [Hideaway](https://open.spotify.com/track/6MoD2aTX0Yc2YjHjG7CxXf) | [Sunsick Daisy](https://open.spotify.com/artist/2lm7q6k1zAICmhLjKLCRo1) | [Hideaway](https://open.spotify.com/album/5vM64OxKlY55VcAfFEJEra) | 3:06 |
 | 72 | [Keep on](https://open.spotify.com/track/2xmAT9gY7qZJlEStkbwT9j) | [Lavalove](https://open.spotify.com/artist/3rqzavMb2twmjVAqvDyqq9) | [Love Sick](https://open.spotify.com/album/5PjKhLXDH9qKWcAv4Y8GqK) | 3:07 |
 | 73 | [The Beach](https://open.spotify.com/track/46EDkHBHvcrbvb6sCjGCwF) | [Warbaby](https://open.spotify.com/artist/5l7abo4Er8M2z34HTCczEK) | [The Beach](https://open.spotify.com/album/6G5mImkruaSprUxjInD0jY) | 3:15 |
 | 74 | [Malibu Sunset](https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi) | [The Travelers](https://open.spotify.com/artist/6vayW66astvaRgv4llGBff) | [Malibu Sunset b/w Hang On](https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol) | 2:08 |
 | 75 | [Postcode Lover](https://open.spotify.com/track/7CRxgl5YJ2mkhM1Nyq6s8d) | [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [Postcode Lover](https://open.spotify.com/album/6lg0c3lhHOYHnJREaycKre) | 2:45 |
 
-Snapshot ID: `AAAAAM/8Q1iwjyZNizkzBtq7uudDQc51`
+Snapshot ID: `AAAAAHCxekmynnuArnNNGPdJeOhJWfUP`

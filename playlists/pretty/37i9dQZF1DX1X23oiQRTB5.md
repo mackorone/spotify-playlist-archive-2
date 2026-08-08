@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Leto au top de la première playlist de rap français.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,445,500 likes - 40 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,445,317 likes - 40 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [Mandat de dépôt](https://open.spotify.com/track/1CGRRKN4SgR4z1JiaL5Sz8) | [Lagui](https://open.spotify.com/artist/3TP2Ucsow6rW1s24aq9gb4), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [En Croix](https://open.spotify.com/album/2W1UqRYHgB4vEG4dEdtbhv) | 2:27 |
 | 40 | [Charbon & Diamant](https://open.spotify.com/track/5oG155kA2TGH7ZghnnB6XG) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Charbon & Diamant](https://open.spotify.com/album/2Ihpl1sHO4bsbeOhqGPqTy) | 2:39 |
 
-Snapshot ID: `AAAAADC5c0XQmPCPwX0SOa58t6cUsWTq`
+Snapshot ID: `AAAAAGbRKYb3zhSyaIG6vNp1psqvssFF`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLMw3ry7d7k.md) - [plain]
 
 > The latest and greatest! Revive los éxitos latinos de los últimos meses.
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,864 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,903 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLMw3ry7d7k.md) - [plain]
 | 34 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:26 |
 | 35 | [Tú Con Él](https://open.spotify.com/track/2eQFYGegTZaObk2kuBz83Z) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 4:49 |
 | 36 | [Corazón](https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:43 |
-| 37 | [Después de ti](https://open.spotify.com/track/6PbhFQkpQjoojWo2b6Ghoi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Greg Gonzalez](https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU) | [Después de ti](https://open.spotify.com/album/2jNfHpGR3OkcVqNucroI92) | 4:35 |
+| 37 | [Después de ti](https://open.spotify.com/track/6PbhFQkpQjoojWo2b6Ghoi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Greg Gonzalez](https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU) | [Después de ti](https://open.spotify.com/album/2jNfHpGR3OkcVqNucroI92) | 4:28 |
 | 38 | [TUCHAT](https://open.spotify.com/track/3bAAv8knmzFpYQsLFoK6de) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [TUCHAT](https://open.spotify.com/album/3ZltFv8UTH4QZ5GUSKESwe) | 3:41 |
 | 39 | [La Plena \- W Sound 05](https://open.spotify.com/track/6xOEgzkMSZJKz6qtCJsQL5) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Plena \(W Sound 05\)](https://open.spotify.com/album/6mCCkmAs0Q3RNFD8dp2Pw8) | 2:30 |
 | 40 | [Lokita Por Mí](https://open.spotify.com/track/2aG4AXf3TUtlmk4s9BLYDi) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Better Late Than Never](https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t) | 3:59 |
@@ -75,15 +75,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLMw3ry7d7k.md) - [plain]
 | 65 | [Me Mareo](https://open.spotify.com/track/0F1svfSx95E3qDBySn719G) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [Me Mareo](https://open.spotify.com/album/4aS33VYowVrUJTMd8c5OXc) | 2:48 |
 | 66 | [WASSUP](https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [WASSUP](https://open.spotify.com/album/0vKAvn3uWijgBplDXSLSkM) | 2:42 |
 | 67 | [FOREVER TU GANTEL](https://open.spotify.com/track/5XE2dc5tz7tbufWCPFUo5c) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [FOREVER TU GANTEL](https://open.spotify.com/album/2CmgcsyoQeFW6yj6eFTwdA) | 3:46 |
-| 68 | [la culpa \(track 11\)](https://open.spotify.com/track/24XwHoTZKMFVwdIMGyEz39) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/18Fki3SqVPkAlPosQoQe5L) | 2:45 |
-| 69 | [sobelove](https://open.spotify.com/track/4GZOxR1IuvoRiUz0gpmASl) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [sobelove](https://open.spotify.com/album/3RkTny4UF5dEHzCsExXeOO) | 2:11 |
+| 68 | [sobelove](https://open.spotify.com/track/4GZOxR1IuvoRiUz0gpmASl) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [sobelove](https://open.spotify.com/album/3RkTny4UF5dEHzCsExXeOO) | 2:11 |
+| 69 | [la culpa \(track 11\)](https://open.spotify.com/track/24XwHoTZKMFVwdIMGyEz39) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/18Fki3SqVPkAlPosQoQe5L) | 2:45 |
 | 70 | [Más Que Tú](https://open.spotify.com/track/6TzgG83Mj85lfnkWTuyO8O) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Más Que Tú](https://open.spotify.com/album/4SQs6PQwQFanCdSfF0CUd9) | 3:17 |
 | 71 | [Por un Pendejo no se llora](https://open.spotify.com/track/4VPl3WGYKxQG8EVis7uLDt) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Por un Pendejo no se llora](https://open.spotify.com/album/2EruLTvow64kevFfTRKP6f) | 2:31 |
 | 72 | [Me Prometí](https://open.spotify.com/track/5uXL0CN1mQxHJSJRHN44Od) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Me Prometí](https://open.spotify.com/album/3uitW0pQMa3sZi80pjMNU4) | 2:51 |
-| 73 | [NUBES](https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [NUBES](https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF) | 4:31 |
-| 74 | [frente al mar](https://open.spotify.com/track/60u6hcpH5Qm1M3xESdNBrB) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [frente al mar](https://open.spotify.com/album/0Wf0E2diHQJRdkPR12BcXs) | 2:45 |
-| 75 | [Inglés En Miami](https://open.spotify.com/track/2mnqIjaciToIErlxJDFNle) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Inglés En Miami](https://open.spotify.com/album/54AxuqzahblZRbRhUz5VOB) | 3:22 |
-| 76 | [Gil](https://open.spotify.com/track/0IwaT6XbMoouFqkMIQcAR0) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Gil](https://open.spotify.com/album/45nnD1nvsgMumMNrsQ2LUw) | 3:53 |
+| 73 | [frente al mar](https://open.spotify.com/track/60u6hcpH5Qm1M3xESdNBrB) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [frente al mar](https://open.spotify.com/album/0Wf0E2diHQJRdkPR12BcXs) | 2:45 |
+| 74 | [NUBES](https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [NUBES](https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF) | 4:31 |
+| 75 | [Gil](https://open.spotify.com/track/0IwaT6XbMoouFqkMIQcAR0) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Gil](https://open.spotify.com/album/45nnD1nvsgMumMNrsQ2LUw) | 3:53 |
+| 76 | [Inglés En Miami](https://open.spotify.com/track/2mnqIjaciToIErlxJDFNle) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Inglés En Miami](https://open.spotify.com/album/54AxuqzahblZRbRhUz5VOB) | 3:22 |
 | 77 | [LLEVA AL SOL](https://open.spotify.com/track/47zVKSB29KsEjcBPBrFSTB) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [love love FLAKK](https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be) | 1:59 |
 | 78 | [TRANKAITO](https://open.spotify.com/track/3MHWnw2doUPj2ILmsyRhhN) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [EL GREEN PRINT: La Saga \(Disc 1\) — FEID VS FERXXO](https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa) | 2:42 |
 | 79 | [Qué Pasaría...](https://open.spotify.com/track/0OxKf18dUo2G5dFOQYCvBN) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Qué Pasaría...](https://open.spotify.com/album/0uuqkIU29zH9mpChddc5Tn) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLMw3ry7d7k.md) - [plain]
 | 99 | [SE LO JURO MOR](https://open.spotify.com/track/3AoF1Fd8rWPBTIfGkcxdQM) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SE LO JURO MOR](https://open.spotify.com/album/2MY3id8pkDEBtF9lomDQHr) | 2:50 |
 | 100 | [Buenos Días](https://open.spotify.com/track/4mc8byHXW8rmZT5L5jwYG5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Buenos Días](https://open.spotify.com/album/0VI9CUYMmXVlCGhHJ4bgN2) | 2:39 |
 
-Snapshot ID: `AAAAAIcQAm+wWZQnh1fnBOSLqZQk+27f`
+Snapshot ID: `AAAAAA95lmDIwcg1WfTmgAdr3d3yZdDW`

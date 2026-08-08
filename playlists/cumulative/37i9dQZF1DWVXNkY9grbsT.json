@@ -8158,7 +8158,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 241930,
       "name": "Pantone 6",
       "url": "https://open.spotify.com/track/3BVxAb1gnSngigiot6knQk"
@@ -10856,6 +10856,24 @@
       "duration_ms": 437622,
       "name": "The Eternal Thrill",
       "url": "https://open.spotify.com/track/27Spm7S2VdLGaVxgaM50Cu"
+    },
+    {
+      "album": {
+        "name": "Light And Time",
+        "url": "https://open.spotify.com/album/0kfKQpEqNNhJJrvEgM4oJs"
+      },
+      "artists": [
+        {
+          "name": "Steve Rachmad",
+          "url": "https://open.spotify.com/artist/4BmzfIGmnyaxu1REssIgPp"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238128,
+      "name": "The Field Of Reality",
+      "url": "https://open.spotify.com/track/6uFDEeeTpY8G08MyagOHcf"
     },
     {
       "album": {

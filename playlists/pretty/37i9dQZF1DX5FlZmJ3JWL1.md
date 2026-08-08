@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 772,433 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,413 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 31 | [tell you straight \- Sped Up](https://open.spotify.com/track/4zWWGFmM2LhtnMAVrTmYBg) | [Strn.](https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH), [ALEXYS](https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT) | [tell you straight \(Speed Garage\)](https://open.spotify.com/album/7k9LXSIhJe0FDIPZJh1VGn) | 1:34 |
 | 32 | [Wicked Game](https://open.spotify.com/track/6AJAzlq5ujQWCzzwpeGEZA) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Wicked Game](https://open.spotify.com/album/6h4GwAgi9ePUFoEvN7LBrx) | 2:55 |
 | 33 | [Crusade \- Club Edit](https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ) | 2:59 |
-| 34 | [My Favourite Game](https://open.spotify.com/track/1O28S9MYZONNh5PNG1bYeC) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA) | [My Favourite Game](https://open.spotify.com/album/6gBdKuFAJKsuV42mWX6309) | 3:23 |
-| 35 | [All of the Lights](https://open.spotify.com/track/0hSU77xrJln8H28BKrSx4R) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M) | [All of the Lights](https://open.spotify.com/album/69PbEmFXdjV6D5icCoDU3F) | 2:00 |
+| 34 | [All of the Lights](https://open.spotify.com/track/0hSU77xrJln8H28BKrSx4R) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M) | [All of the Lights](https://open.spotify.com/album/69PbEmFXdjV6D5icCoDU3F) | 2:00 |
+| 35 | [My Favourite Game](https://open.spotify.com/track/1O28S9MYZONNh5PNG1bYeC) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA) | [My Favourite Game](https://open.spotify.com/album/6gBdKuFAJKsuV42mWX6309) | 3:23 |
 | 36 | [Blah Blah Blah](https://open.spotify.com/track/6jeQXCVFBVAKHiTMsKbXj1) | [R2](https://open.spotify.com/artist/3xhbIC0yb4Q7J6MWOiXxUa) | [Blah Blah Blah](https://open.spotify.com/album/79F4pbwzCRq38AF5feQziU) | 1:40 |
 | 37 | [Mask Off](https://open.spotify.com/track/7AFAB7RL8PXHrSf4uY10Z6) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Mask Off](https://open.spotify.com/album/6GXGKsaFs8Hnr8X6viTIEa) | 2:35 |
 | 38 | [Freak \(Tricky Disco\)](https://open.spotify.com/track/6955Aq4HnJ6dP3jvcptwCM) | [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI), [TRIIIPL3 INC.](https://open.spotify.com/artist/1m91WjQ6nEC5k3F1HC51sP), [Discotronic](https://open.spotify.com/artist/4zboeZtcUwsTEhl2YDCLr4) | [Freak \(Tricky Disco\)](https://open.spotify.com/album/0HJh7Y7CtV8N9fnsT3gWWu) | 2:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 49 | [Mirrors](https://open.spotify.com/track/5qlUx9z0dElbbWFP8VRz4p) | [Valexus](https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1) | [Mirrors](https://open.spotify.com/album/5kHtzdMxZ2ubNUktPtHRV1) | 2:07 |
 | 50 | [call me back](https://open.spotify.com/track/5oBuuXTgVVLuIYaJlELm0f) | [Ordinary Kid](https://open.spotify.com/artist/5VT2f9Mtql9jsOPrLefzP9) | [call me back](https://open.spotify.com/album/22koXUTCFwgnWoeJSFizT1) | 1:54 |
 
-Snapshot ID: `AAAAAID7aoK6WP+BI5m9mcDH/CXMxBaC`
+Snapshot ID: `AAAAAORAvp8MFGr+j4022jOFira1YDly`

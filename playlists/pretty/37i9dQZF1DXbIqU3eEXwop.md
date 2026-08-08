@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIqU3eEXwop.md) - [plain]
 
 > Que des hits pour la meilleure vos soirées estivales.
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,709 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,705 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIqU3eEXwop.md) - [plain]
 | 49 | [Emorio](https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Emorio](https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9) | 2:43 |
 | 50 | [Don't Call Me Up](https://open.spotify.com/track/5Xc9L411IGVexidbaF7CHG) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [High Expectations](https://open.spotify.com/album/2X7koaJ4bojj8zMqacqIhW) | 2:58 |
 
-Snapshot ID: `AAAAAGDQX9KqWUTLH8Wm1CgzTkakqE/o`
+Snapshot ID: `AAAAANTvSAFT+OJiX5OgbbWwJqQ5eT93`

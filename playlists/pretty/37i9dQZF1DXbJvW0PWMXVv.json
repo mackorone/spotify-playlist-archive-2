@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG8uRMT81cDeR9RpyJKUIlfsLdYk",
+  "snapshot_id": "AAAAAI37U2knVrPu4hXuSmN/xmz8UoO2",
   "tracks": [
     {
       "added_at": "2025-09-17 15:00:09",
@@ -671,6 +671,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "big buraco",
+        "url": "https://open.spotify.com/album/7nFKPgj0vGWz0KMTVynIGN"
+      },
+      "artists": [
+        {
+          "name": "Jadsa",
+          "url": "https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj"
+        }
+      ],
+      "duration_ms": 180185,
+      "name": "sol na pele",
+      "url": "https://open.spotify.com/track/5DsCl1RVwYK5hgBBDLwlKq"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "Do Velho Testamento",
         "url": "https://open.spotify.com/album/48XG3OIWFse7bJXCaOIaRF"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 147826,
       "name": "Volta",
       "url": "https://open.spotify.com/track/7oK2RJCk2cr3lBASlOg3eK"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "big buraco",
-        "url": "https://open.spotify.com/album/7nFKPgj0vGWz0KMTVynIGN"
-      },
-      "artists": [
-        {
-          "name": "Jadsa",
-          "url": "https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj"
-        }
-      ],
-      "duration_ms": 180185,
-      "name": "sol na pele",
-      "url": "https://open.spotify.com/track/5DsCl1RVwYK5hgBBDLwlKq"
     },
     {
       "added_at": "2025-09-17 15:00:09",

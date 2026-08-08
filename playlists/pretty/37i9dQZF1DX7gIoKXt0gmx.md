@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 
 > All the vibes\. All the feels\. 🫠 🙄
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,719,493 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,719,353 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 99 | [Need U Bad](https://open.spotify.com/track/7FwTn0LZZunjRl9Edp57sl) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Fearless](https://open.spotify.com/album/6YW49fCw3Ig7ZWRKCgP4hv) | 4:17 |
 | 100 | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/track/3GzE07URgK3QD6MgWgorvy) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [act right](https://open.spotify.com/album/4YVaV9ViXndugkvyBOBGxX) | 3:15 |
 
-Snapshot ID: `AAAAAKLLeB72WTAzixCtgVKneBc9BvlY`
+Snapshot ID: `AAAAAMA0/nJwdxOWPSt5ZNdLMtrdMbX4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24BqQE.md) - [plain]
 
 > This is BNXN\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,815 likes - 48 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,848 likes - 48 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24BqQE.md) - [plain]
 | 26 | [GBESUNMO](https://open.spotify.com/track/4erCeMYq7wsuiKTpBF69hH) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [KING COAL](https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr) | 3:08 |
 | 27 | [Fi Kan We Kan](https://open.spotify.com/track/61N5fgHj3IPReRcULtXmDI) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 2:39 |
 | 28 | [Sweet Tea \(Aduke\)](https://open.spotify.com/track/7eo9YPXQqZjB1DxYAnvHqy) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 2:29 |
-| 29 | [Feeling](https://open.spotify.com/track/1z567QCaLLuRE7ZxQS5oYS) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Feeling](https://open.spotify.com/album/3JtqyAW9kr3vMKWyHlo6wD) | 3:44 |
-| 30 | [Lenu \- Remix](https://open.spotify.com/track/51trdVTGB18HFEsb8dEzq1) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Lenu \(Remix\)](https://open.spotify.com/album/0XPpgvyG25SbLEcKvAMinb) | 3:33 |
+| 29 | [Lenu \- Remix](https://open.spotify.com/track/51trdVTGB18HFEsb8dEzq1) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Lenu \(Remix\)](https://open.spotify.com/album/0XPpgvyG25SbLEcKvAMinb) | 3:33 |
+| 30 | [Feeling](https://open.spotify.com/track/1z567QCaLLuRE7ZxQS5oYS) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Feeling](https://open.spotify.com/album/3JtqyAW9kr3vMKWyHlo6wD) | 3:44 |
 | 31 | [Oshimiri](https://open.spotify.com/track/2i5PqDEsME85JezRrq6BJy) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Prince of the Street](https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW) | 2:05 |
 | 32 | [Bad Since '97](https://open.spotify.com/track/5t5oLw5209yleTnJSqM097) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:14 |
 | 33 | [Best Of Me](https://open.spotify.com/track/3Z19t8pNaAHqlLmz2LuwNa) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:51 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24BqQE.md) - [plain]
 | 47 | [Party Monster](https://open.spotify.com/track/6XQ3ver8HQA5voTiXDk0xG) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 2:55 |
 | 48 | [Kenkele](https://open.spotify.com/track/0mb1o4mFhrcPHivtlVNCGD) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 3:34 |
 
-Snapshot ID: `anJ9AAAAAAAR6mkfkhtlBbqiXWULQNuz`
+Snapshot ID: `anPOgAAAAACnwarNuV/xV0QzXV3huUbm`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAABW50DIs/zxmusG71RPjyj",
+  "snapshot_id": "anPOgAAAAABiMa+7OlLd3N2GOX57Um4/",
   "tracks": [
     {
       "added_at": null,
@@ -83,18 +83,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Boy Who Cried Freedom",
-        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
+        "name": "Blame",
+        "url": "https://open.spotify.com/album/7ni2gVOM9o6KhFzyeVpy2p"
       },
       "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        },
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 209752,
-      "name": "Unholy War",
-      "url": "https://open.spotify.com/track/4PjZsEf8bCIVyf4VXd57wS"
+      "duration_ms": 251527,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/6pQUQdaZacg722q6sg6fPR"
     },
     {
       "added_at": null,
@@ -115,6 +119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Boy Who Cried Freedom",
+        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 209752,
+      "name": "Unholy War",
+      "url": "https://open.spotify.com/track/4PjZsEf8bCIVyf4VXd57wS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For My Friends",
         "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
       },
@@ -127,26 +147,6 @@
       "duration_ms": 290115,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/11svo7PkpgWFqw16XdwRor"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blame",
-        "url": "https://open.spotify.com/album/7ni2gVOM9o6KhFzyeVpy2p"
-      },
-      "artists": [
-        {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 251527,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/6pQUQdaZacg722q6sg6fPR"
     },
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Village",
-        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        },
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 250826,
-      "name": "Be Good To Me (feat. Seinabo Sey)",
-      "url": "https://open.spotify.com/track/7juealXfkel1kLInjvY4W8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Monologue",
         "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 240266,
       "name": "Won't Turn Back",
       "url": "https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 250826,
+      "name": "Be Good To Me (feat. Seinabo Sey)",
+      "url": "https://open.spotify.com/track/7juealXfkel1kLInjvY4W8"
     },
     {
       "added_at": null,
@@ -887,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lies About The War",
-        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
       },
       "artists": [
         {
@@ -896,9 +896,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 191613,
-      "name": "Parachute",
-      "url": "https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn"
+      "duration_ms": 293244,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/6FwlaG3vag0IHp8McdVY0C"
     },
     {
       "added_at": null,

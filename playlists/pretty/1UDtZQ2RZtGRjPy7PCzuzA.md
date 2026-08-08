@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > life too short love the one you got
 
-[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,138 songs - 2 day 16 hr 37 min
+[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,148 songs - 2 day 17 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1146,5 +1146,15 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1136 | [Satanist](https://open.spotify.com/track/4QEsxFZRA3RnjQAPYS3UXa) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:50 |
 | 1137 | [Revolution 0](https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:17 |
 | 1138 | [FMT](https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 3:28 |
+| 1139 | [She's A Rainbow](https://open.spotify.com/track/6KOtheMY0KN4s9TrQHr9It) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [She's A Rainbow / Dandelion / We Love You](https://open.spotify.com/album/0ZVb7BLZuvx9ZZebd9i3lu) | 4:13 |
+| 1140 | [Two Roads](https://open.spotify.com/track/70mQOpzNZzO7FJvjmMWbY7) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 4:11 |
+| 1141 | [Long Lonely Road](https://open.spotify.com/track/4l0bi7g9dOp1L3QDBbCTjk) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:56 |
+| 1142 | [Two Hearts](https://open.spotify.com/track/5oUk1qXeCE355VLhp5Q49E) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:53 |
+| 1143 | [Endless Tree](https://open.spotify.com/track/4mYAxNUCvuUqAQj5Qh3Poq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 3:53 |
+| 1144 | [Wanna Be on Your Mind](https://open.spotify.com/track/1i9zKDcPdW7xPq8Kgte0t0) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' against a Stone](https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z) | 3:58 |
+| 1145 | [You And I \- Moon And Stars / Acoustic](https://open.spotify.com/track/6eEchTSWRTQtAzzeEPtOpr) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers \(Deluxe Edition\)](https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL) | 3:20 |
+| 1146 | [Into My Arms](https://open.spotify.com/track/5UpRKWaVwwLQMH7ME6Pxr0) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 4:10 |
+| 1147 | [Summer's End](https://open.spotify.com/track/1GOcYcVoojwz4FH1aD8ZKP) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Broken Hearts & Dirty Windows: Songs of John Prine, Vol\. 2](https://open.spotify.com/album/1zeu2tjunNLjS6rWNWCZ70) | 3:29 |
+| 1148 | [Pushin' against a Stone](https://open.spotify.com/track/0BikvdxnBECsZwa5avyplB) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' against a Stone](https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z) | 5:14 |
 
-Snapshot ID: `AAALatEjiwApjAzJyoxEKOeLkomy2zc7`
+Snapshot ID: `AAALdAd0ogJgNHzfHPaPnrhhMGvfaCXa`

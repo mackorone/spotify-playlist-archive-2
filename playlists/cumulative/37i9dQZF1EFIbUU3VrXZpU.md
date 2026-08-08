@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZdaKEG7LCXZGLiHuZuJgZ">Missy Elliott</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-441 songs - 1 day 4 hr 22 min
+442 songs - 1 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Best Friends \(feat\. Aaliyah\)](https://open.spotify.com/track/0hq4njfuLWfjlfinVFCXhA) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 4:07 | 2023-12-30 |  |
 | [Bet She Can't](https://open.spotify.com/track/38qx9A1WF7aM004YydQUkr) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 4:07 | 2023-12-30 |  |
 | [Betcha She Don't Love You](https://open.spotify.com/track/2VZzXJX14IZOmdXN2MuH9j) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Get Loose](https://open.spotify.com/album/67OkPxOp2elK66KdSwIyse) | 4:58 | 2023-12-30 |  |
+| [BITCH](https://open.spotify.com/track/5Ob6j3t91qixhs7Fhzs0to) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 2:43 | 2026-08-07 |  |
 | [Bite Our Style \(Interlude\)](https://open.spotify.com/track/6y1HxKKNY5iNqie88XiWl4) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 0:43 | 2023-12-30 |  |
 | [Black Panther](https://open.spotify.com/track/6u5ABizn3h4viCcg2AD7Cl) | [Lady Leshurr](https://open.spotify.com/artist/1Bk2KyFVMN5PeyVyDIiLqF) | [Black Panther](https://open.spotify.com/album/48trKY0QNU4d9YtmxMd3Mp) | 2:42 | 2023-12-30 |  |
 | [Blow My High \(Members Only\)](https://open.spotify.com/track/1FRF0NHXBW4ecdulGkTzJY) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | 3:35 | 2023-12-30 |  |

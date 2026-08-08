@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 
 > Drilling through Naij\. Cover: Aguero Banks
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,533 likes - 59 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,579 likes - 59 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 | 58 | [NO APOLOGIES](https://open.spotify.com/track/7LxjavMU1YVyYPPBsjs3Zc) | [KIING LU](https://open.spotify.com/artist/4C7iRcWxuDWQ62JUuSll1k), [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [MILITANT MINDSET](https://open.spotify.com/album/6ieLnbH2PWN2DPyLHWJPbk) | 3:14 |
 | 59 | [Country Dey Hot](https://open.spotify.com/track/5gOF6qWSwHuF0gfQkiZONM) | [Reeplay](https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB) | [Country Dey Hot](https://open.spotify.com/album/1A0lvkvRxKpnb7Gu2bvZ9b) | 1:50 |
 
-Snapshot ID: `AAAAANttP1u+s0vOHPnk6G1bjz/kOpMK`
+Snapshot ID: `AAAAAMXngvDXjTNmcAlX6ZPKwhyNHlrV`

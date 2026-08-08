@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9NTMXOEmdE.md) - [plain]
 
 > The happiest hits to boost your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,803 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,751 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9NTMXOEmdE.md) - [plain]
 | 43 | [breathin](https://open.spotify.com/track/4OafepJy2teCjYJbvFE60J) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:18 |
 | 44 | [Please Me](https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Please Me](https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso) | 3:20 |
 | 45 | [Super Far](https://open.spotify.com/track/15ahYSiHAIMxAnujlXVtta) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [LANY](https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK) | 3:23 |
-| 46 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 |
-| 47 | [What Lovers Do \(feat\. SZA\)](https://open.spotify.com/track/0GxQ1A5L9xnMOytbP6eKBG) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 3:19 |
+| 46 | [What Lovers Do \(feat\. SZA\)](https://open.spotify.com/track/0GxQ1A5L9xnMOytbP6eKBG) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 3:19 |
+| 47 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 |
 | 48 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 |
 | 49 | [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 |
 | 50 | [Solo \(feat\. Demi Lovato\)](https://open.spotify.com/track/6kPJZM97LwdG9QIsT7khp6) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Solo \(feat\. Demi Lovato\)](https://open.spotify.com/album/1q7a5wZeti0neU2jDn8Dz3) | 3:42 |
 
-Snapshot ID: `AAAAAKVUJs5d7OwTvA3rSpzY01CNxKYI`
+Snapshot ID: `AAAAAN4tjW1Y0UWKXIwaSjFWt38ZaGLi`

@@ -1,13 +1,29 @@
 {
   "description": "A new take on a classic sound. Cover: Dabeull",
-  "num_followers": 162850,
+  "num_followers": 162913,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANcFTDnGcVxvlaN5EL+McTaF17bT",
+  "snapshot_id": "AAAAAL0QgBvDxZgUuKyQ9GkJQbnzCxy1",
   "tracks": [
+    {
+      "added_at": "2026-08-07 04:01:00",
+      "album": {
+        "name": "PLAYERS",
+        "url": "https://open.spotify.com/album/77brCaMA3oyKTiY8Uqstri"
+      },
+      "artists": [
+        {
+          "name": "RC AVENUE",
+          "url": "https://open.spotify.com/artist/72l1FxPT1pEy9kuGz2UC1w"
+        }
+      ],
+      "duration_ms": 204342,
+      "name": "PLAYERS",
+      "url": "https://open.spotify.com/track/5biCqWMVgvKUEqtieZ3Oku"
+    },
     {
       "added_at": "2026-06-26 04:01:32",
       "album": {
@@ -223,22 +239,6 @@
       "duration_ms": 224908,
       "name": "Dance the Night Away",
       "url": "https://open.spotify.com/track/5DAQBmH7JUYdtKPy56al3s"
-    },
-    {
-      "added_at": "2026-03-20 04:00:31",
-      "album": {
-        "name": "GOT IT ALL",
-        "url": "https://open.spotify.com/album/0mz1vnveYp8YhC8WDQHBZM"
-      },
-      "artists": [
-        {
-          "name": "RC AVENUE",
-          "url": "https://open.spotify.com/artist/72l1FxPT1pEy9kuGz2UC1w"
-        }
-      ],
-      "duration_ms": 194512,
-      "name": "GOT IT ALL",
-      "url": "https://open.spotify.com/track/04NxyzEcsCQ8VATYup0kqG"
     },
     {
       "added_at": "2026-03-27 04:00:09",
@@ -876,8 +876,8 @@
       },
       "artists": [
         {
-          "name": "Maryon King",
-          "url": "https://open.spotify.com/artist/7AtbuRokFnPshEZ6muoDWV"
+          "name": "HEARTBREAK DEPARTMENT",
+          "url": "https://open.spotify.com/artist/79PIWwEwLzfQ1f7yA1HB2H"
         }
       ],
       "duration_ms": 168762,

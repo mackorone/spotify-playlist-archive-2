@@ -1,12 +1,12 @@
 {
   "description": "Grab your coffee and ease into the day with this light blend.",
-  "num_followers": 418814,
+  "num_followers": 418928,
   "original_name": "Morning Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB2MxzvjF3BHxxN2heqfSMvCBFXD",
+  "snapshot_id": "AAAAACxhIV/Gl3yJWONStqfT7K0RDJSr",
   "tracks": [
     {
       "added_at": "2026-05-22 15:00:53",
@@ -547,18 +547,22 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d"
+        "name": "Dear August",
+        "url": "https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj"
       },
       "artists": [
         {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+          "name": "PJ Harding",
+          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
+        },
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
         }
       ],
-      "duration_ms": 222400,
-      "name": "This Too Shall Last",
-      "url": "https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4"
+      "duration_ms": 200940,
+      "name": "Dear August",
+      "url": "https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -579,22 +583,18 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Dear August",
-        "url": "https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj"
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d"
       },
       "artists": [
         {
-          "name": "PJ Harding",
-          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
-        },
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
         }
       ],
-      "duration_ms": 200940,
-      "name": "Dear August",
-      "url": "https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn"
+      "duration_ms": 222400,
+      "name": "This Too Shall Last",
+      "url": "https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Say My Name - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Born and Raised",
         "url": "https://open.spotify.com/album/6S0BIiWtnqU0PtumXMpin0"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 147960,
       "name": "Love Is A Verb",
       "url": "https://open.spotify.com/track/03XjpGGdsIPouALXem2Cku"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Say My Name - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Fondness, Etc.",
-        "url": "https://open.spotify.com/album/3VgLs6trnvDp0Sqe9KLLiF"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 175746,
-      "name": "No Place to Be",
-      "url": "https://open.spotify.com/track/5iDSDrBVBExohwfB4RVLHJ"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Waiting (Demo)",
         "url": "https://open.spotify.com/album/1wncWM9JUHEyyo83zellqP"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 101475,
       "name": "Waiting - Demo",
       "url": "https://open.spotify.com/track/6sqjaO9q52sNKJ8S4x53DD"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Fondness, Etc.",
+        "url": "https://open.spotify.com/album/3VgLs6trnvDp0Sqe9KLLiF"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 175746,
+      "name": "No Place to Be",
+      "url": "https://open.spotify.com/track/5iDSDrBVBExohwfB4RVLHJ"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/3MIjWNHQ3UcbwtJorLNeJU"
-      },
-      "artists": [
-        {
-          "name": "George Taylor",
-          "url": "https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5"
-        }
-      ],
-      "duration_ms": 262853,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/1qRjGm49sjk0NntgZMdDzn"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Iridesce / Famous",
         "url": "https://open.spotify.com/album/5nioohlHYXy7BwGbX4hfpg"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 233760,
       "name": "Famous",
       "url": "https://open.spotify.com/track/3qbToOWJKKc0HtruELjlE1"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/3MIjWNHQ3UcbwtJorLNeJU"
+      },
+      "artists": [
+        {
+          "name": "George Taylor",
+          "url": "https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5"
+        }
+      ],
+      "duration_ms": 262853,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/1qRjGm49sjk0NntgZMdDzn"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/5wyhyzvoRACvYCIyYr9vQM"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 245520,
-      "name": "Beg, Steal, Borrow",
-      "url": "https://open.spotify.com/track/3E2HVdCQW0R53CcHVtHTa8"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Early Morning Coffee Cups",
         "url": "https://open.spotify.com/album/31ijpN3FryTPMy3RYdsjsw"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 199853,
       "name": "Early Morning Coffee Cups",
       "url": "https://open.spotify.com/track/04TvtzVrd7FufnY5KJLXzO"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/5wyhyzvoRACvYCIyYr9vQM"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 245520,
+      "name": "Beg, Steal, Borrow",
+      "url": "https://open.spotify.com/track/3E2HVdCQW0R53CcHVtHTa8"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 168798,
-      "name": "I'll Be There For You - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Don't Fade",
         "url": "https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 190252,
       "name": "Don't Fade - Single Version",
       "url": "https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 168798,
+      "name": "I'll Be There For You - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Heartbreak Hits",
-        "url": "https://open.spotify.com/album/04QktcTXcS9qQTp7Q22Z3I"
-      },
-      "artists": [
-        {
-          "name": "Theo Katzman",
-          "url": "https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya"
-        }
-      ],
-      "duration_ms": 221508,
-      "name": "Good to Be Alone",
-      "url": "https://open.spotify.com/track/2P8kBO7P0SppnEX8gVN3up"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "October Sky",
         "url": "https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 195065,
       "name": "October Sky",
       "url": "https://open.spotify.com/track/4dGuN04mLIr6EgFkrBe5Vl"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Heartbreak Hits",
+        "url": "https://open.spotify.com/album/04QktcTXcS9qQTp7Q22Z3I"
+      },
+      "artists": [
+        {
+          "name": "Theo Katzman",
+          "url": "https://open.spotify.com/artist/2a4lU7F8toqKpb5v6Ftqya"
+        }
+      ],
+      "duration_ms": 221508,
+      "name": "Good to Be Alone",
+      "url": "https://open.spotify.com/track/2P8kBO7P0SppnEX8gVN3up"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Say I Love You",
-        "url": "https://open.spotify.com/album/52bFxlr4uEKLIIfOagpyHx"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 245180,
-      "name": "Say I Love You",
-      "url": "https://open.spotify.com/track/78CV9sLbLTKoneJXDW3q8u"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Summer Somewhere",
         "url": "https://open.spotify.com/album/7tFFrfykBAkvVW4VX638U3"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 183413,
       "name": "Summer Somewhere",
       "url": "https://open.spotify.com/track/0O6t5iea0DrY9mDmohS94t"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Say I Love You",
+        "url": "https://open.spotify.com/album/52bFxlr4uEKLIIfOagpyHx"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "duration_ms": 245180,
+      "name": "Say I Love You",
+      "url": "https://open.spotify.com/track/78CV9sLbLTKoneJXDW3q8u"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2623,22 +2623,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Moments",
-        "url": "https://open.spotify.com/album/1woKCA8dTokL647kKXySq6"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 200127,
-      "name": "The Open Road",
-      "url": "https://open.spotify.com/track/1Zc2f37KUAPwLEywMMHnbX"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Last Time",
         "url": "https://open.spotify.com/album/3E9bLoDvWxhJiBQ7Y71Asn"
       },
@@ -2651,6 +2635,22 @@
       "duration_ms": 193972,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/5ctQUn7CnXhw5IN3ipcPUt"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/1woKCA8dTokL647kKXySq6"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 200127,
+      "name": "The Open Road",
+      "url": "https://open.spotify.com/track/1Zc2f37KUAPwLEywMMHnbX"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2767,22 +2767,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Equus Asinus",
-        "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 166027,
-      "name": "Unlike Anything",
-      "url": "https://open.spotify.com/track/5r7wJLf1cKlIzio4e0xfje"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Into The Mystery",
         "url": "https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF"
       },
@@ -2799,18 +2783,18 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Ocean Eyes (Acoustic)",
-        "url": "https://open.spotify.com/album/1CeJ6aLT0stviKNx2dZOYj"
+        "name": "Equus Asinus",
+        "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
       },
       "artists": [
         {
-          "name": "SVRCINA",
-          "url": "https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Ocean Eyes (Acoustic)",
-      "url": "https://open.spotify.com/track/1mKAKzJuIZWz3M0nbVDfmD"
+      "duration_ms": 166027,
+      "name": "Unlike Anything",
+      "url": "https://open.spotify.com/track/5r7wJLf1cKlIzio4e0xfje"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -2827,6 +2811,22 @@
       "duration_ms": 195314,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/1fSj1wldqrtSdZvTrvBZkq"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Ocean Eyes (Acoustic)",
+        "url": "https://open.spotify.com/album/1CeJ6aLT0stviKNx2dZOYj"
+      },
+      "artists": [
+        {
+          "name": "SVRCINA",
+          "url": "https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Ocean Eyes (Acoustic)",
+      "url": "https://open.spotify.com/track/1mKAKzJuIZWz3M0nbVDfmD"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -3031,22 +3031,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Fool For Waiting",
-        "url": "https://open.spotify.com/album/1PA2kEj3hK95dBfkzCPxdl"
-      },
-      "artists": [
-        {
-          "name": "Dan Mangan",
-          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "Fool For Waiting",
-      "url": "https://open.spotify.com/track/2ISrBfPX4YBkwiMgvdbV4V"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Hen's Teeth",
         "url": "https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN"
       },
@@ -3059,6 +3043,22 @@
       "duration_ms": 253575,
       "name": "Roses",
       "url": "https://open.spotify.com/track/62s52tM1aHavlhEi57R4ob"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Fool For Waiting",
+        "url": "https://open.spotify.com/album/1PA2kEj3hK95dBfkzCPxdl"
+      },
+      "artists": [
+        {
+          "name": "Dan Mangan",
+          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Fool For Waiting",
+      "url": "https://open.spotify.com/track/2ISrBfPX4YBkwiMgvdbV4V"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -3099,22 +3099,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Sedona (The Voice Performance)",
-        "url": "https://open.spotify.com/album/1XJWCFvDApRcTaxQvRdPZ0"
-      },
-      "artists": [
-        {
-          "name": "Thunderstorm Artis",
-          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
-        }
-      ],
-      "duration_ms": 205726,
-      "name": "Sedona - The Voice Performance",
-      "url": "https://open.spotify.com/track/63NCB9nUsL8acHNk51klHy"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Face The Feeling",
         "url": "https://open.spotify.com/album/0nbOE96i0mvngykkXaQew0"
       },
@@ -3131,18 +3115,18 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "Golden Chain",
-        "url": "https://open.spotify.com/album/14PUEVnypcneI7OHA9yGly"
+        "name": "Sedona (The Voice Performance)",
+        "url": "https://open.spotify.com/album/1XJWCFvDApRcTaxQvRdPZ0"
       },
       "artists": [
         {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+          "name": "Thunderstorm Artis",
+          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
         }
       ],
-      "duration_ms": 169480,
-      "name": "Golden Chain",
-      "url": "https://open.spotify.com/track/0yOsYFyMpjwPtmWLGxYGQz"
+      "duration_ms": 205726,
+      "name": "Sedona - The Voice Performance",
+      "url": "https://open.spotify.com/track/63NCB9nUsL8acHNk51klHy"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -3159,6 +3143,22 @@
       "duration_ms": 265726,
       "name": "Speaking of You",
       "url": "https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "Golden Chain",
+        "url": "https://open.spotify.com/album/14PUEVnypcneI7OHA9yGly"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 169480,
+      "name": "Golden Chain",
+      "url": "https://open.spotify.com/track/0yOsYFyMpjwPtmWLGxYGQz"
     },
     {
       "added_at": "2026-05-22 15:00:53",
@@ -3259,22 +3259,6 @@
     {
       "added_at": "2026-05-22 15:00:53",
       "album": {
-        "name": "I Don't Wanna Dance (Piano Version)",
-        "url": "https://open.spotify.com/album/18rblVvDEpB7th3zIx23X5"
-      },
-      "artists": [
-        {
-          "name": "Ellysse Mason",
-          "url": "https://open.spotify.com/artist/1lXWojioTTf8G8tOOxP9XN"
-        }
-      ],
-      "duration_ms": 255272,
-      "name": "I Don't Wanna Dance - Piano Version",
-      "url": "https://open.spotify.com/track/4BXcGFt1btBUsOYzERvlG6"
-    },
-    {
-      "added_at": "2026-05-22 15:00:53",
-      "album": {
         "name": "Hold On For Dear Life",
         "url": "https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4"
       },
@@ -3291,6 +3275,22 @@
       "duration_ms": 227117,
       "name": "Hold On For Dear Life",
       "url": "https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1"
+    },
+    {
+      "added_at": "2026-05-22 15:00:53",
+      "album": {
+        "name": "I Don't Wanna Dance (Piano Version)",
+        "url": "https://open.spotify.com/album/18rblVvDEpB7th3zIx23X5"
+      },
+      "artists": [
+        {
+          "name": "Ellysse Mason",
+          "url": "https://open.spotify.com/artist/1lXWojioTTf8G8tOOxP9XN"
+        }
+      ],
+      "duration_ms": 255272,
+      "name": "I Don't Wanna Dance - Piano Version",
+      "url": "https://open.spotify.com/track/4BXcGFt1btBUsOYzERvlG6"
     },
     {
       "added_at": "2026-05-22 15:00:53",

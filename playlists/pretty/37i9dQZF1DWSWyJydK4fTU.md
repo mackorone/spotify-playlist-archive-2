@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 
 > darf man so ?? \(in den tag starten, kurz leben leben, bisschen pause machen\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,140 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,083 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 9 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 |
 | 10 | [Die On This Hill](https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng) | 3:37 |
 | 11 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 |
-| 12 | [Bed on Fire](https://open.spotify.com/track/01IJ2feBkPtQgQi68nx9nl) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Dream Ride](https://open.spotify.com/album/0jLgfhtSr2LTdQFWfi4VB0) | 3:33 |
-| 13 | [High Hopes 3000](https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [High Hopes 3000](https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu) | 4:05 |
+| 12 | [High Hopes 3000](https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [High Hopes 3000](https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu) | 4:05 |
+| 13 | [Bed on Fire](https://open.spotify.com/track/01IJ2feBkPtQgQi68nx9nl) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Dream Ride](https://open.spotify.com/album/0jLgfhtSr2LTdQFWfi4VB0) | 3:33 |
 | 14 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |
 | 15 | [Material Lover](https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 2:58 |
 | 16 | [American Cars](https://open.spotify.com/track/3WRgRy12YW4I9mjodKXWwy) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:32 |
@@ -47,13 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 37 | [NOBLE](https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/0g2so560PUSwl895vWwaQK) | 3:05 |
 | 38 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 |
 | 39 | [Virtuoso](https://open.spotify.com/track/2RtNoFR37ieZtxShQ5BSSI) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Sweet Fortune](https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S) | 3:41 |
-| 40 | [Niemand ist wie du](https://open.spotify.com/track/5pUHH09wavdCzEEQaFxx5Y) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Niemand ist wie du](https://open.spotify.com/album/10Vaf4MwKnRAmFAZCcBice) | 2:23 |
-| 41 | [Divine Feelings](https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Divine Feelings](https://open.spotify.com/album/0Bi6tt4GSzpMiUjbA9ph8S) | 3:28 |
-| 42 | [Memo](https://open.spotify.com/track/74ULkLG9L8FiqL8PyxbsFG) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Memo](https://open.spotify.com/album/0AEULDFYipP4rXzgSQyz1H) | 3:11 |
+| 40 | [Memo](https://open.spotify.com/track/74ULkLG9L8FiqL8PyxbsFG) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Memo](https://open.spotify.com/album/0AEULDFYipP4rXzgSQyz1H) | 3:11 |
+| 41 | [Niemand ist wie du](https://open.spotify.com/track/5pUHH09wavdCzEEQaFxx5Y) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Niemand ist wie du](https://open.spotify.com/album/10Vaf4MwKnRAmFAZCcBice) | 2:23 |
+| 42 | [Divine Feelings](https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Divine Feelings](https://open.spotify.com/album/0Bi6tt4GSzpMiUjbA9ph8S) | 3:28 |
 | 43 | [Ein Lied](https://open.spotify.com/track/2nrsfJSYFVmBXe9hc3q3lM) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Ein Lied](https://open.spotify.com/album/60xB6sJ3lZJZBgRdyRzZmO) | 2:31 |
 | 44 | [Too Busy Missing You](https://open.spotify.com/track/1H2kXCdkoYqLjS0iKbWryR) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw) | [Too Busy Missing You](https://open.spotify.com/album/1VybD1PFxWJkD80YiM3NfU) | 3:25 |
-| 45 | [4 Life](https://open.spotify.com/track/34RhKiUQ5JBU4MIVCwMcBG) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Sommerregen EP](https://open.spotify.com/album/5dMr2rimlo62V5xRFOC4o4) | 1:56 |
-| 46 | [Adore Ya](https://open.spotify.com/track/0Jl7f00nog4z31Cw2xYZqP) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Adore Ya](https://open.spotify.com/album/07A4mrRO0mi4K9A2fmDugX) | 3:32 |
+| 45 | [Adore Ya](https://open.spotify.com/track/0Jl7f00nog4z31Cw2xYZqP) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Adore Ya](https://open.spotify.com/album/07A4mrRO0mi4K9A2fmDugX) | 3:32 |
+| 46 | [4 Life](https://open.spotify.com/track/34RhKiUQ5JBU4MIVCwMcBG) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Sommerregen EP](https://open.spotify.com/album/5dMr2rimlo62V5xRFOC4o4) | 1:56 |
 | 47 | [delusional](https://open.spotify.com/track/4EcqURZAO2BcXdsYlIEEwE) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [delusional](https://open.spotify.com/album/5wxHqxlRDLteLRJ4IgT0Jy) | 3:26 |
 | 48 | [Want It Back](https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Want It Back](https://open.spotify.com/album/3jh1KUiU35jTHmQqtUuy55) | 3:27 |
 | 49 | [If You Wanna Be Adored](https://open.spotify.com/track/2oJ1bW7VBsDxjbwrDANVFV) | [Eva Rose](https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z) | [If You Wanna Be Adored](https://open.spotify.com/album/2lq3LPLXCnANwEPXkJyvyz) | 2:25 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 59 | [pull me out](https://open.spotify.com/track/0JEV4lg8RqwkLQCqWl5aWC) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP), [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [4 songs](https://open.spotify.com/album/3I3n7l0MBqm17NREZdGGCU) | 3:04 |
 | 60 | [Voyage](https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Voyage](https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm) | 2:59 |
 
-Snapshot ID: `AAAAAMJ3vkDAQ3mYiX2CEEWkNZNieuA6`
+Snapshot ID: `AAAAAB19iaxkBbg7Lyhoxs7BwyyTJYQ6`

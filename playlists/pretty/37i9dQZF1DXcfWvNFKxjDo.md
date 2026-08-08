@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Funk Tribu
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,164 likes - 78 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,319 likes - 78 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 3](https://open.spotify.com/track/1AF9gqUhT9jyOHDzDUTZMc) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [LIFE](https://open.spotify.com/album/0vL3Vv27UfbRVLL7B9j1ab) | 0:00 |
+| 1 | [this is the moment \(cuerpo\)](https://open.spotify.com/track/1AF9gqUhT9jyOHDzDUTZMc) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [LIFE](https://open.spotify.com/album/0vL3Vv27UfbRVLL7B9j1ab) | 3:52 |
 | 2 | [7 Days](https://open.spotify.com/track/7Dukh87qwI5c0IB1UEAp73) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [7 Days](https://open.spotify.com/album/6GmRL1IwZjDeVxZJBwf8Oq) | 3:27 |
 | 3 | [run](https://open.spotify.com/track/1aUbgHRbxhm5lMpyM6Pyeb) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [run](https://open.spotify.com/album/0rbA7c9RUVkHiNWMJ04Usk) | 4:22 |
 | 4 | [You're The One](https://open.spotify.com/track/5VlLwgVrofjbAMXK0L8HtI) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Das Ist Daddy](https://open.spotify.com/album/2YebmkQzLA10QYQc6GOMM6) | 3:07 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 43 | [Swipe Up](https://open.spotify.com/track/6CHM7JJJvajTczGLgZAyzE) | [KaaCee](https://open.spotify.com/artist/5yYwA7jmFlU01EKoLfeNpV), [JOL](https://open.spotify.com/artist/3O1MHXls9zzYomHPGogV16) | [Swipe Up](https://open.spotify.com/album/6RgcXAMccUgRqE2nPOP7Xs) | 2:32 |
 | 44 | [Bésala Mucho](https://open.spotify.com/track/2MYCuBzahZPmZFd0nfMz2z) | [Tamara Flores](https://open.spotify.com/artist/1n1ShmhkecqcWxNexfFbuN), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Bésala Mucho](https://open.spotify.com/album/0MY1915W2VBlRsZCRVsZyr) | 2:47 |
 | 45 | [Dopamine \(feat\. Syon\)](https://open.spotify.com/track/0L5NrZix3lpPTA7HUCH0bY) | [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4), [AUGUSTE](https://open.spotify.com/artist/4iS5S3n4kI5QvnYV2dNziq), [MESSINA.](https://open.spotify.com/artist/3eK2MnfhA0jYlXwtVZbpzV), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Dopamine \(feat\. Syon\)](https://open.spotify.com/album/0uVgSjkJ6Xz9XbT6nquvxM) | 2:44 |
-| 46 | [More Than Words](https://open.spotify.com/track/29DX49zz48qvEJ19YPj7iy) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Maurice](https://open.spotify.com/artist/5U8z7YZPfu66haFS221lgE) | [More Than Words](https://open.spotify.com/album/79gxCaMcMFORaWOtChL0ao) | 3:14 |
+| 46 | [More Than Words](https://open.spotify.com/track/29DX49zz48qvEJ19YPj7iy) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Maurice](https://open.spotify.com/artist/71ISd9r7s72oVofsujmIiu) | [More Than Words](https://open.spotify.com/album/79gxCaMcMFORaWOtChL0ao) | 3:14 |
 | 47 | [My Love](https://open.spotify.com/track/3a7EvmWvaUIQ1LS2kRbRNL) | [TMW](https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V) | [My Love](https://open.spotify.com/album/5nDzj0XplqYi4smQkkuOgX) | 2:31 |
 | 48 | [wtf](https://open.spotify.com/track/6gIa3OeVEeQckMJi1AIrQS) | [Ochok](https://open.spotify.com/artist/2KQMohuyZZYmlwb4y4AsdX), [ALDO](https://open.spotify.com/artist/0k1xYFTSxbqiFV8aDjs4xN), [4Step](https://open.spotify.com/artist/0ljKrYse0cGvo7IF9oENDn) | [wtf](https://open.spotify.com/album/2ooJBFsbnJjBzUoQOWyjt1) | 2:55 |
 | 49 | [I Feel So Good](https://open.spotify.com/track/3KhevGc8G7zjXwdI5sHmfn) | [NIVEK](https://open.spotify.com/artist/4LW7ATTlh6btuM3AvT1Ejp) | [I Feel So Good](https://open.spotify.com/album/2sal84QIQXNUpONhJENt5x) | 2:29 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 77 | [Regenbögen](https://open.spotify.com/track/3I3dFpuOGqzsjuWdfuUjbQ) | [Gestört aber GeiL](https://open.spotify.com/artist/7KAGJwWQQui8b0uqwXRkSr), [wylhem](https://open.spotify.com/artist/5rRyC53HYyWwWChzlbIgbS) | [Regenbögen](https://open.spotify.com/album/1CNYYblblcdZDnqINJoBZ6) | 2:26 |
 | 78 | [1967](https://open.spotify.com/track/6303ClRgeMjbAp3vFXYUP5) | [DJ DRECKISCH](https://open.spotify.com/artist/29pghx4OZDZ45mcQLjdxUl), [NSLZ](https://open.spotify.com/artist/6jOvaPYH1SCOGCM1um3RaU), [Ennoia](https://open.spotify.com/artist/4w5cYbyqRYgHfGfsV0J1T8) | [1967](https://open.spotify.com/album/1IJm9HBbiPvY4SG5YtkvjM) | 2:34 |
 
-Snapshot ID: `AAAAABPd3+UzTs8QqtNWIaSr56MYpwtp`
+Snapshot ID: `AAAAAE9un1EjiS7wKArCNhS8naQ6Ynm0`

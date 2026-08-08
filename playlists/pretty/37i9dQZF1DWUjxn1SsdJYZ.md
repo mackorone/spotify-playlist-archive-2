@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Jonny Chopps
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,980 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,991 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 99 | [Last Laugh](https://open.spotify.com/track/0irGuN2NqZ0E8BCutnfMKO) | [Kerser](https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7) | [Last Laugh](https://open.spotify.com/album/3yCjtfPnNTBSuamHb1Zf8A) | 3:27 |
 | 100 | [Last Week](https://open.spotify.com/track/6gAebIN55aRWbTF6q1DRMX) | [Lavez](https://open.spotify.com/artist/34XFmmLOHraER0bnb7APK2) | [Last Week](https://open.spotify.com/album/4r0JRgjpJZz8uKepyTdOq1) | 3:02 |
 
-Snapshot ID: `AAAAACvdV0qDC9Qra5qdUzwgH7yOMyLk`
+Snapshot ID: `AAAAAHyXWcse56Bq5NqiqhJhucwk9kPq`

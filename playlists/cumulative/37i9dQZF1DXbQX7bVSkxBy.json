@@ -891,6 +891,24 @@
     },
     {
       "album": {
+        "name": "BABA SIYABONGA",
+        "url": "https://open.spotify.com/album/6yH43drdOZTVRNgLvmWfyZ"
+      },
+      "artists": [
+        {
+          "name": "Umlazi Gospel Choir The Original",
+          "url": "https://open.spotify.com/artist/0V7olBRdnevHisGlCmbz02"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422352,
+      "name": "Baba Siyabonga",
+      "url": "https://open.spotify.com/track/3P5iI9ugl1d0P5muGcT3Q8"
+    },
+    {
+      "album": {
         "name": "Be Lifted",
         "url": "https://open.spotify.com/album/3l8jlweNAVDvELMaia4zd9"
       },
@@ -10504,24 +10522,6 @@
       "duration_ms": 370964,
       "name": "Too Faithful",
       "url": "https://open.spotify.com/track/4VAX2Vu5fpGYxgUqfcFiNX"
-    },
-    {
-      "album": {
-        "name": "BABA SIYABONGA",
-        "url": "https://open.spotify.com/album/6yH43drdOZTVRNgLvmWfyZ"
-      },
-      "artists": [
-        {
-          "name": "Umlazi Gospel Choir The Original",
-          "url": "https://open.spotify.com/artist/0V7olBRdnevHisGlCmbz02"
-        }
-      ],
-      "date_added": "2026-08-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/3P5iI9ugl1d0P5muGcT3Q8"
     },
     {
       "album": {

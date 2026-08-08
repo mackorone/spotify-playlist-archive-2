@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,575,498 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,575,269 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 68 | [Roll](https://open.spotify.com/track/0nXQJBEDzMLVaMOvtXGYSX) | [Ethan Parker](https://open.spotify.com/artist/6M7eKplcEZB8f87r2FMo3l) | [Roll](https://open.spotify.com/album/3zaxYdzgmoxxps2lC8sfOH) | 3:25 |
 | 69 | [I'm so in Love with You \(feat\. Seth Avett\)](https://open.spotify.com/track/1uGwCbelG6h8hdcCPFSN1Z) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc), [Seth Avett](https://open.spotify.com/artist/6XCZ1uSV9jKMOlqck0ubQW) | [The War Inside \(Deluxe Edition\)](https://open.spotify.com/album/6NFJbFjFfRGHYGxlGNecYy) | 3:46 |
 | 70 | [How We Used to Love](https://open.spotify.com/track/6XkChVvxj0Cakfae17NaK3) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [The Lingering](https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S) | 3:03 |
-| 71 | [I'm Ready](https://open.spotify.com/track/1RPmeICY33v1lLiq6Gqj1r) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Here Goes Nothing!](https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt) | 3:14 |
-| 72 | [I Can't Keep from Loving You](https://open.spotify.com/track/3Ww0uch4dwJm70ltCT9pJ2) | [Andrew James](https://open.spotify.com/artist/6xX1Zl1ebx9oUiIr8iK5HU) | [Shoreline](https://open.spotify.com/album/1sGcdhKt79CBvPDcpD4phz) | 4:12 |
+| 71 | [I Can't Keep from Loving You](https://open.spotify.com/track/3Ww0uch4dwJm70ltCT9pJ2) | [Andrew James](https://open.spotify.com/artist/6xX1Zl1ebx9oUiIr8iK5HU) | [Shoreline](https://open.spotify.com/album/1sGcdhKt79CBvPDcpD4phz) | 4:12 |
+| 72 | [I'm Ready](https://open.spotify.com/track/1RPmeICY33v1lLiq6Gqj1r) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Here Goes Nothing!](https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt) | 3:14 |
 | 73 | [The Girl I Haven't Met](https://open.spotify.com/track/6EaTwxekBZbk9SuKmmqQzm) | [Nate Richert](https://open.spotify.com/artist/6ldgbkFgkKxOTa5caCyUDl) | [Halogen Moon](https://open.spotify.com/album/5PkIwmxoxW1qDDw18qjrS2) | 2:59 |
 | 74 | [Please Don't Change Your Mind](https://open.spotify.com/track/5qFG8i1wsPsPgGdqwPfQJQ) | [Lizzie No](https://open.spotify.com/artist/68MHAPLIwh1JcUqfhb2MWn) | [Hard Won](https://open.spotify.com/album/3S36fR57klmwmODtORET8C) | 3:37 |
 | 75 | [Wondrous Love](https://open.spotify.com/track/1XxBNS8YE8bSpzXjXYpQCY) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Watchhouse](https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK) | 2:35 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 82 | [Who Saved Who](https://open.spotify.com/track/3xQMRlwBgqvYWJX8TsOOgq) | [Mindy Smith](https://open.spotify.com/artist/4QGC11o7gQR7MBEJ5cUMSv), [Matthew Perryman Jones](https://open.spotify.com/artist/68524z8sd176IRenNb1Fjy) | [Who Saved Who](https://open.spotify.com/album/50Ddcp9wVHb6ZRNkJ5WbbX) | 4:05 |
 | 83 | [So Sweet](https://open.spotify.com/track/5dFkDkyoBw6RXV51zfdvE6) | [Trash Panda](https://open.spotify.com/artist/5D9DTI3Knr64lYa3zDCpB7) | [PANDAMONIUM!](https://open.spotify.com/album/4NyZbFQFYDehtNGYEVwnsU) | 3:24 |
 | 84 | [In Love a Little While](https://open.spotify.com/track/5BRdAEkolAiHyodHeVE3OF) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [In Love a Little While](https://open.spotify.com/album/5YalgymSO85RdwEpntw0jk) | 2:52 |
-| 85 | [From This Valley \- Acoustic](https://open.spotify.com/track/5UcW2Su74svT2gYHBv57fO) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Bare Bones EP](https://open.spotify.com/album/0EIZbhrZvPpSoR0JnqvjWn) | 3:29 |
-| 86 | [Love Is Blind](https://open.spotify.com/track/66gYCVuAKeIlVgTbAmAbWq) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Love Is Blind](https://open.spotify.com/album/7ajyVPfdzn9WgosdGUnWHw) | 3:53 |
+| 85 | [Love Is Blind](https://open.spotify.com/track/66gYCVuAKeIlVgTbAmAbWq) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Love Is Blind](https://open.spotify.com/album/7ajyVPfdzn9WgosdGUnWHw) | 3:53 |
+| 86 | [From This Valley \- Acoustic](https://open.spotify.com/track/5UcW2Su74svT2gYHBv57fO) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Bare Bones EP](https://open.spotify.com/album/0EIZbhrZvPpSoR0JnqvjWn) | 3:29 |
 | 87 | [After Dark](https://open.spotify.com/track/039NLDI1UZZlXtLB0Kog6W) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [After Dark](https://open.spotify.com/album/6ruIiJQxN1oHeJKq24M4Rn) | 4:08 |
 | 88 | [Little Birds](https://open.spotify.com/track/3ePJFt2th9XXwaGFUmn2pr) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:25 |
 | 89 | [Love You the Most](https://open.spotify.com/track/6I0b7U4mlURIEL7uiIxjhj) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Love You the Most](https://open.spotify.com/album/4pbTZ28exY6GZ6x3Hm5psZ) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 99 | [Tape 03](https://open.spotify.com/track/2ZO1Y1Bbot1jrdPApAyCV2) | [Monica Heldal](https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0) | [Boy From The North \(ADA / USA\)](https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH) | 4:40 |
 | 100 | [When the Sun Comes Up](https://open.spotify.com/track/1xijgB270GQezhBIDmlCz8) | [All Our Exes Live in Texas](https://open.spotify.com/artist/5Ul7YrRYtvl8da6i7Ziakt) | [When We Fall](https://open.spotify.com/album/5mhoyzo8SnB09QVeJtiwlm) | 3:55 |
 
-Snapshot ID: `AAAAAB2wzag/lmbhwAuDMEVYTATI++Aj`
+Snapshot ID: `AAAAAH1enuC0b8eNRlrqv+LGQBVTewcz`

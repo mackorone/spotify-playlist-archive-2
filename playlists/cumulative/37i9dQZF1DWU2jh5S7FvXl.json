@@ -942,6 +942,32 @@
     {
       "album": {
         "name": "Be The One",
+        "url": "https://open.spotify.com/album/4qnDtActtsWu2i8VH9wkmE"
+      },
+      "artists": [
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205975,
+      "name": "Be The One",
+      "url": "https://open.spotify.com/track/4gDKviRLkpZowZhcnRPqqE"
+    },
+    {
+      "album": {
+        "name": "Be The One",
         "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
       },
       "artists": [
@@ -978,6 +1004,28 @@
       "duration_ms": 187086,
       "name": "Beautiful People",
       "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
+    },
+    {
+      "album": {
+        "name": "Beautiful Places",
+        "url": "https://open.spotify.com/album/5VazojcPIKmubxUoM69WLi"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Brieanna Grace",
+          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "Beautiful Places",
+      "url": "https://open.spotify.com/track/3RteXOutkxVPSEP5syRAgo"
     },
     {
       "album": {
@@ -2464,7 +2512,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 169159,
       "name": "Dior (feat. Chrystal)",
       "url": "https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ"
@@ -3673,6 +3721,32 @@
     },
     {
       "album": {
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/3CzmngQynWM7xY9HlNm8Xx"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Tristan Henry",
+          "url": "https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181411,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/263Ecah3YA4hVZHxR2Ex9p"
+    },
+    {
+      "album": {
         "name": "Good Love",
         "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
       },
@@ -3776,6 +3850,28 @@
       "duration_ms": 174794,
       "name": "Hallucination",
       "url": "https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu"
+    },
+    {
+      "album": {
+        "name": "Happiness Is So Sad",
+        "url": "https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232835,
+      "name": "Happiness Is So Sad",
+      "url": "https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD"
     },
     {
       "album": {
@@ -5014,7 +5110,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 198805,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE"
@@ -5298,7 +5394,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 153442,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
@@ -6799,6 +6895,32 @@
     },
     {
       "album": {
+        "name": "Movin' To The Sun",
+        "url": "https://open.spotify.com/album/7sCzauzbInQn7NEsvTAtqq"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Imael Angel",
+          "url": "https://open.spotify.com/artist/17yREPqyU875WJnX9U082A"
+        },
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142200,
+      "name": "Movin' To The Sun",
+      "url": "https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2"
+    },
+    {
+      "album": {
         "name": "SURRENDER",
         "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
       },
@@ -7936,7 +8058,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 181875,
       "name": "Push To Start (feat. No/Me)",
       "url": "https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R"
@@ -8452,7 +8574,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 172500,
       "name": "Rule The World (Everybody)",
       "url": "https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6"
@@ -8834,7 +8956,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 179016,
       "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
       "url": "https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u"
@@ -9092,6 +9214,28 @@
       "duration_ms": 228021,
       "name": "Siento Mi Destino",
       "url": "https://open.spotify.com/track/3pSfCBzoBZzQJVQUl3U06s"
+    },
+    {
+      "album": {
+        "name": "Silver Lines (feat. Emily Warren)",
+        "url": "https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Emily Warren",
+          "url": "https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201296,
+      "name": "Silver Lines (feat. Emily Warren)",
+      "url": "https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU"
     },
     {
       "album": {
@@ -10388,7 +10532,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 140000,
       "name": "Thank You (Not So Bad)",
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
@@ -10546,7 +10690,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 153449,
       "name": "The Feeling",
       "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
@@ -11765,6 +11909,28 @@
     },
     {
       "album": {
+        "name": "Wo, man (Edit)",
+        "url": "https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "Wo, man - Edit",
+      "url": "https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS"
+    },
+    {
+      "album": {
         "name": "Woke Up Late (Sam Feldt Remix)",
         "url": "https://open.spotify.com/album/7l7qbsJMfxuAci9hS0Gftr"
       },
@@ -11810,6 +11976,32 @@
       "duration_ms": 142677,
       "name": "Words (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
+    },
+    {
+      "album": {
+        "name": "World Away",
+        "url": "https://open.spotify.com/album/6k2I7QkXRPlWzylh7UsFIx"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187686,
+      "name": "World Away",
+      "url": "https://open.spotify.com/track/3GfBcRN3VaIa52Q6MsavH0"
     },
     {
       "album": {

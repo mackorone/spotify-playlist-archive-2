@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Los \u00e9xitos del pop latino, con Aria Vega en portada.",
+  "description": "Los \u00e9xitos del pop latino, con benny blanco, Selena Gomez & Becky G en portada.",
   "name": "La Lista Pop",
   "tracks": [
     {
@@ -636,7 +636,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 249124,
       "name": "A Pesar De Ti y De Mi",
       "url": "https://open.spotify.com/track/5jFzAOGNiSYCsINuBVoKWJ"
@@ -906,6 +906,28 @@
       "duration_ms": 157838,
       "name": "Ahi",
       "url": "https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0"
+    },
+    {
+      "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176568,
+      "name": "Ah\u00ed",
+      "url": "https://open.spotify.com/track/6DoUDG1GJrJf6eGQLUBBnm"
     },
     {
       "album": {
@@ -1566,6 +1588,32 @@
       "duration_ms": 172095,
       "name": "ASI ES LA VIDA",
       "url": "https://open.spotify.com/track/0Me3GyNuLOa1YTIxhJPyCn"
+    },
+    {
+      "album": {
+        "name": "As\u00ed",
+        "url": "https://open.spotify.com/album/7HAGBrolfsdX5RVRNl5SdQ"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194727,
+      "name": "As\u00ed",
+      "url": "https://open.spotify.com/track/5EJiR3xJitCvsVoCf0oDKC"
     },
     {
       "album": {
@@ -4521,7 +4569,7 @@
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 275898,
+      "duration_ms": 268996,
       "name": "Despu\u00e9s de ti",
       "url": "https://open.spotify.com/track/6PbhFQkpQjoojWo2b6Ghoi"
     },
@@ -7174,7 +7222,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 136007,
       "name": "HAPPY \ud83e\udebd",
       "url": "https://open.spotify.com/track/74NleWyPaoZupD3jYAayOt"
@@ -7846,7 +7894,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 122703,
       "name": "Joven y Salvaje (with Bb trickz)",
       "url": "https://open.spotify.com/track/2NyVUkfya4KZDw5qd4qWeZ"
@@ -12536,7 +12584,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 174154,
       "name": "Otro Cumplea\u00f1os",
       "url": "https://open.spotify.com/track/6NtUqkWvw9oemFVi2q7dKz"
@@ -12904,7 +12952,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 165135,
       "name": "PATRONA",
       "url": "https://open.spotify.com/track/7y7NzMaaeT78ljVFGOALzU"
@@ -14058,6 +14106,24 @@
       "duration_ms": 161030,
       "name": "Regalito",
       "url": "https://open.spotify.com/track/0cQtGUyt8edxSRLHGxSGOK"
+    },
+    {
+      "album": {
+        "name": "REINA (KRIMINAL)",
+        "url": "https://open.spotify.com/album/7eblPvGdDiHG1vHdtc7pys"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164515,
+      "name": "REINA (KRIMINAL)",
+      "url": "https://open.spotify.com/track/6YCdfQNDpfvY9D9JHc9VmR"
     },
     {
       "album": {
@@ -15507,6 +15573,28 @@
     },
     {
       "album": {
+        "name": "Tal Vez Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/51elj8SNea5ht8B7Cd7l5N"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208465,
+      "name": "Tal Vez Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/7yoTLJ4DdQ62CtTEIMJuRM"
+    },
+    {
+      "album": {
         "name": "El Amor En Los Tiempos Del Perreo",
         "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
       },
@@ -15736,6 +15824,32 @@
       "duration_ms": 232306,
       "name": "Te Mata",
       "url": "https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v"
+    },
+    {
+      "album": {
+        "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
+        "url": "https://open.spotify.com/album/0vJ7dYMRW2KFtO8rdbfm3h"
+      },
+      "artists": [
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150944,
+      "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
+      "url": "https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355"
     },
     {
       "album": {
@@ -16914,7 +17028,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 152500,
       "name": "Una A La Vez",
       "url": "https://open.spotify.com/track/6MakvfCAr1VvnivfWl5FTg"
@@ -17395,6 +17509,24 @@
     },
     {
       "album": {
+        "name": "verano en la ciudad",
+        "url": "https://open.spotify.com/album/7esCAic9KXNGprLkyCSMDR"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212727,
+      "name": "verano en la ciudad",
+      "url": "https://open.spotify.com/track/2WzXAEN2FvbwjAi7NEOUeo"
+    },
+    {
+      "album": {
         "name": "VETIVER Y AMARETTO",
         "url": "https://open.spotify.com/album/5UBa39i3hSE6VIgGijeWvs"
       },
@@ -17672,7 +17804,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 227413,
       "name": "Volver a Ti",
       "url": "https://open.spotify.com/track/5m3zoNUv4WO35cfzjbLGK9"
@@ -17898,6 +18030,28 @@
       "duration_ms": 196636,
       "name": "Ya Ni Se",
       "url": "https://open.spotify.com/track/4ABGOCwOysdL74tz812KTc"
+    },
+    {
+      "album": {
+        "name": "Yo Era Poes\u00eda",
+        "url": "https://open.spotify.com/album/18ssoZ7EPMn7mLqV0bW2j5"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194923,
+      "name": "Yo Era Poes\u00eda",
+      "url": "https://open.spotify.com/track/75icZs6N7GzEAY7FNL8fZV"
     },
     {
       "album": {

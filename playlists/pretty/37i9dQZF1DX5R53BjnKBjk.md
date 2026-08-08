@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: Iuna Falcão
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,047 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,054 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 49 | [é nosso tudo o que eu olho](https://open.spotify.com/track/2axsP72hEj31eKyZKASma4) | [Killa Bi](https://open.spotify.com/artist/0fvXYAyHJ26i3CxGo2HSX2), [SOMOS](https://open.spotify.com/artist/4RirWYVQPhtDNNwW5hmhuP), [Paulo DK](https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE), [Cravinhos](https://open.spotify.com/artist/6I2ktHKztVQQSfqrtjEz7a) | [é nosso tudo o que eu olho](https://open.spotify.com/album/0zHiKioOJjkb3sOyNi3oIL) | 3:38 |
 | 50 | [Amapiano](https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil) | [JOTTA R](https://open.spotify.com/artist/6m4DLE0Z8CKnI7UQx62BbS), [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq) | [Amapiano](https://open.spotify.com/album/1O3n8W9MEOE5whPw9Ay4Cm) | 2:19 |
 
-Snapshot ID: `AAAAAO6bzQNp0ul2qDLVlMpsrUSFdUK8`
+Snapshot ID: `AAAAADK73zoyF/apimoIOd6yAG4eGndG`

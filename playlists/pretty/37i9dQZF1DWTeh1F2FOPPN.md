@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTeh1F2FOPPN.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/quintab/">Quinta Brunson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,786 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,816 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTeh1F2FOPPN.md) - [plain]
 | 49 | [Table for One](https://open.spotify.com/track/6claa4I908IodZZkvZMvuf) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Table for One](https://open.spotify.com/album/4becwqhy3EirbJwxjDYjwq) | 6:34 |
 | 50 | [Stranger \(feat\. Saba & Jarreau Vandal\)](https://open.spotify.com/track/1b7TYKwABkacRzPqSErH9u) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Stranger \(feat\. Saba & Jarreau Vandal\)](https://open.spotify.com/album/5gEWaVbQBsHwZGt1vBUWBV) | 3:39 |
 
-Snapshot ID: `AAAAAFJwg/lIRUGuKBYZv6po3KBmdFNx`
+Snapshot ID: `AAAAAGtaYZqlWyEZJ94PRaY8SF7Wpp88`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Canada's best dance hits, featuring Swedish House Mafia",
+  "description": "Canada's best dance hits, featuring Jacques Greene",
   "name": "mint Canada",
   "tracks": [
     {
@@ -534,7 +534,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 143750,
       "name": "6IXSIDE",
       "url": "https://open.spotify.com/track/7mTqte91ND3ETnfLdUPfkD"
@@ -1046,6 +1046,24 @@
       "duration_ms": 167731,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/3qa60ubSTZWvjqWUzCqluX"
+    },
+    {
+      "album": {
+        "name": "Pure Devotion",
+        "url": "https://open.spotify.com/album/0DS9OxHBt693YOs3TDira2"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195285,
+      "name": "After The Rain",
+      "url": "https://open.spotify.com/track/0rclr5nd7iwF4rJTYRLlJq"
     },
     {
       "album": {
@@ -6826,7 +6844,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 262170,
       "name": "Comes and Goes",
       "url": "https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r"
@@ -20509,6 +20527,24 @@
     },
     {
       "album": {
+        "name": "Low Life",
+        "url": "https://open.spotify.com/album/5NaLtWA6WYPU9p3pZTIB2v"
+      },
+      "artists": [
+        {
+          "name": "Cult Member",
+          "url": "https://open.spotify.com/artist/1pR1W2iWfLwtMK776UeIcF"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175946,
+      "name": "just drifting",
+      "url": "https://open.spotify.com/track/76oN9d3SJHX2kHEVT0Mx9B"
+    },
+    {
+      "album": {
         "name": "Just Let Go",
         "url": "https://open.spotify.com/album/4Y7bEqHShseBW6bxnOMfJe"
       },
@@ -23725,6 +23761,28 @@
     },
     {
       "album": {
+        "name": "I Don't Think I Can Stop",
+        "url": "https://open.spotify.com/album/0620dMBIpjeI61scHdp9w2"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Kuuda",
+          "url": "https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218333,
+      "name": "Love Forever (feat. Kuuda)",
+      "url": "https://open.spotify.com/track/1TnejgU7YqwYrWRu2ZFxRU"
+    },
+    {
+      "album": {
         "name": "Love On You (feat. Griff Clawson)",
         "url": "https://open.spotify.com/album/7hijxy3rso2MSNyHf0K5kj"
       },
@@ -26108,7 +26166,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 178124,
       "name": "Move Shake",
       "url": "https://open.spotify.com/track/3zJ3HnuFWvYGNeVxafs4mu"
@@ -26284,6 +26342,28 @@
       "duration_ms": 151874,
       "name": "My City (feat. Katy Tiz)",
       "url": "https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm"
+    },
+    {
+      "album": {
+        "name": "Das Ist Daddy",
+        "url": "https://open.spotify.com/album/2YebmkQzLA10QYQc6GOMM6"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169053,
+      "name": "My Darlin'",
+      "url": "https://open.spotify.com/track/3YCPMgglyGmlBAgIHE8KJw"
     },
     {
       "album": {
@@ -30851,6 +30931,24 @@
     },
     {
       "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/5Lky1XVHKdH2PQYkSKrNOH"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227924,
+      "name": "Presence",
+      "url": "https://open.spotify.com/track/3dqG9I5mbntF3FaNJ8HCV9"
+    },
+    {
+      "album": {
         "name": "all my exes live in brooklyn",
         "url": "https://open.spotify.com/album/7ogj05xh3Hjh5A6cwtQXK9"
       },
@@ -32972,10 +33070,32 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 210625,
       "name": "Rumpta",
       "url": "https://open.spotify.com/track/2Rvi0CiuXzYyYRd3i9wxqM"
+    },
+    {
+      "album": {
+        "name": "run",
+        "url": "https://open.spotify.com/album/0rbA7c9RUVkHiNWMJ04Usk"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        },
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262297,
+      "name": "run",
+      "url": "https://open.spotify.com/track/1aUbgHRbxhm5lMpyM6Pyeb"
     },
     {
       "album": {
@@ -34698,7 +34818,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 240000,
       "name": "Shake That",
       "url": "https://open.spotify.com/track/2b1IJlThmesGpdTLvIAxon"
@@ -43171,6 +43291,24 @@
     },
     {
       "album": {
+        "name": "We Not Tired",
+        "url": "https://open.spotify.com/album/3DsheIzz2QBqCBs1pftrvG"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172921,
+      "name": "We Not Tired",
+      "url": "https://open.spotify.com/track/76eRWUypaYjpJMhpHNtJJH"
+    },
+    {
+      "album": {
         "name": "We Own the Night",
         "url": "https://open.spotify.com/album/6J9wrP3el3vWEjvajhvswN"
       },
@@ -43768,7 +43906,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 195727,
       "name": "Whatever Turns You On",
       "url": "https://open.spotify.com/track/7cvWEBFsf7JvEQf7RzATSk"
@@ -43904,6 +44042,32 @@
       "duration_ms": 202375,
       "name": "When She Dance",
       "url": "https://open.spotify.com/track/0mNYHqs5BovsfV5jQ4Ysb8"
+    },
+    {
+      "album": {
+        "name": "When The Light Breaks",
+        "url": "https://open.spotify.com/album/1TUAfWl3NJj9yG1Bv9LwvA"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Heather Sommer",
+          "url": "https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213554,
+      "name": "When The Light Breaks",
+      "url": "https://open.spotify.com/track/5rPj0HY2HsT8qneZQL0jJk"
     },
     {
       "album": {
@@ -44902,7 +45066,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 158769,
       "name": "Work It",
       "url": "https://open.spotify.com/track/3xcgtqFTfz0KX3JiOvooJM"
@@ -46018,7 +46182,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 176274,
       "name": "Zone (feat. Poppy Baskcomb)",
       "url": "https://open.spotify.com/track/0opSDloCLZOuKbO968zLH5"

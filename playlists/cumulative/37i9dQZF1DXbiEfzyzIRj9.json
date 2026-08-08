@@ -35849,6 +35849,28 @@
     },
     {
       "album": {
+        "name": "SESSIONS COLLECTION VOL.4 / Side-C",
+        "url": "https://open.spotify.com/album/2ANmbwwbrXJXb98ibaJTtY"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Community Radio",
+          "url": "https://open.spotify.com/artist/07CaXB3DGJ32RvPWqFsmig"
+        },
+        {
+          "name": "Yess",
+          "url": "https://open.spotify.com/artist/2NMw711wBhPg9fuxYpPLwq"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173767,
+      "name": "Rubber",
+      "url": "https://open.spotify.com/track/6j0wJFtuFSpMI5psWv4lmu"
+    },
+    {
+      "album": {
         "name": "Rubbing",
         "url": "https://open.spotify.com/album/4vZ3vbhSoEf4dtQpcX3yf7"
       },
@@ -43151,6 +43173,24 @@
     },
     {
       "album": {
+        "name": "LIFE",
+        "url": "https://open.spotify.com/album/0vL3Vv27UfbRVLL7B9j1ab"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232306,
+      "name": "this is the moment (cuerpo)",
+      "url": "https://open.spotify.com/track/1AF9gqUhT9jyOHDzDUTZMc"
+    },
+    {
+      "album": {
         "name": "This Rhythm (feat. RAHH)",
         "url": "https://open.spotify.com/album/6byZV4u6nwuuGLFY3TaMzh"
       },
@@ -44072,24 +44112,6 @@
       "duration_ms": 222000,
       "name": "TR Smooth",
       "url": "https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD"
-    },
-    {
-      "album": {
-        "name": "LIFE",
-        "url": "https://open.spotify.com/album/0vL3Vv27UfbRVLL7B9j1ab"
-      },
-      "artists": [
-        {
-          "name": "Funk Tribu",
-          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
-        }
-      ],
-      "date_added": "2026-08-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/1AF9gqUhT9jyOHDzDUTZMc"
     },
     {
       "album": {

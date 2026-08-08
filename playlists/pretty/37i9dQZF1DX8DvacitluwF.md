@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: FLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,416 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,427 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,22 +30,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 20 | [Barii](https://open.spotify.com/track/2PvlquQapPjpRd2vfhEmVm) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [I Can See](https://open.spotify.com/album/1rMOXraKzL6qY0Ig1KOMvX) | 4:12 |
 | 21 | [Gimme Dat \(feat\. Wizkid\)](https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Gimme Dat](https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V) | 3:45 |
 | 22 | [Remedied](https://open.spotify.com/track/0kjt7clFnD75MjoN4mhdcj) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Remedied](https://open.spotify.com/album/67RWFlHcVBOYAWMduwIGwV) | 2:08 |
-| 23 | [DEEPER](https://open.spotify.com/track/4JeD0FGslDsMeeahEGZa2L) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 2:52 |
-| 24 | [Burning Blue](https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Burning Blue](https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg) | 3:25 |
+| 23 | [Coming Home \(feat\. Jorja Smith\)](https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [For A Good Time...](https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa) | 3:42 |
+| 24 | [DEEPER](https://open.spotify.com/track/4JeD0FGslDsMeeahEGZa2L) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 2:52 |
 | 25 | [IT'S OKAY](https://open.spotify.com/track/4P0qRl7ePBk2JkvvgmYLeN) | [Intalekt](https://open.spotify.com/artist/0DyatUnzbcULupeMCfqumy), [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [IT'S OKAY](https://open.spotify.com/album/4tLlYRYxOw1i50pChoby8w) | 3:21 |
-| 26 | [Coming Home \(feat\. Jorja Smith\)](https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [For A Good Time...](https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa) | 3:42 |
+| 26 | [Burning Blue](https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Burning Blue](https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg) | 3:25 |
 | 27 | [FOOL ME ONCE \(feat\. Leon Thomas\)](https://open.spotify.com/track/1cfQL9PukFheShxHQ1vlIK) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [BELOVED: ACT II](https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9) | 3:18 |
-| 28 | [Little Things](https://open.spotify.com/track/2HA4tNLIXY1dGvDVCLeslk) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [3](https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq) | 2:52 |
-| 29 | [Free Fall \(feat\. J\. Cole\)](https://open.spotify.com/track/3cuUZnjDwk4cUJCFinYbAC) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 3:12 |
+| 28 | [Blame U](https://open.spotify.com/track/7lNFaTHV5IH8xaSXPqllOn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa) | 2:49 |
+| 29 | [Little Things](https://open.spotify.com/track/2HA4tNLIXY1dGvDVCLeslk) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [3](https://open.spotify.com/album/19TUU6Y9OEYm8W1zBYakWq) | 2:52 |
 | 30 | [SPEECHLESS](https://open.spotify.com/track/3M7uz13jTfGb7RNttRApta) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [LOVE AGAIN](https://open.spotify.com/album/7HOUHt4q0cUR4R8x0j6F1G) | 2:42 |
-| 31 | [Blame U](https://open.spotify.com/track/7lNFaTHV5IH8xaSXPqllOn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa) | 2:49 |
+| 31 | [Free Fall \(feat\. J\. Cole\)](https://open.spotify.com/track/3cuUZnjDwk4cUJCFinYbAC) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 3:12 |
 | 32 | [have to.](https://open.spotify.com/track/7GApeoo08HHJ70980XyPZz) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Icon](https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q) | 3:27 |
-| 33 | [Might Just](https://open.spotify.com/track/16qnkRmdN75LgttNSXIxAa) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Do You Still Love Me?](https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX) | 3:43 |
-| 34 | [Love](https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:56 |
-| 35 | [Big Daddy](https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:46 |
-| 36 | [Nights In The Sun \(feat\. Wizkid\)](https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:50 |
-| 37 | [NEED IT](https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:39 |
-| 38 | [Heart Of A Woman](https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Heart Of A Woman](https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh) | 2:51 |
+| 33 | [Nights In The Sun \(feat\. Wizkid\)](https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:50 |
+| 34 | [Might Just](https://open.spotify.com/track/16qnkRmdN75LgttNSXIxAa) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Do You Still Love Me?](https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX) | 3:43 |
+| 35 | [Love](https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:56 |
+| 36 | [Big Daddy](https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:46 |
+| 37 | [Heart Of A Woman](https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Heart Of A Woman](https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh) | 2:51 |
+| 38 | [NEED IT](https://open.spotify.com/track/5NZWHlQy5PKxQ1DcQ9EFbL) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:39 |
 | 39 | [I CAN TELL](https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:15 |
 | 40 | [Lady](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 3:03 |
 | 41 | [Sweet Nuthins \(feat\. Leon Thomas\)](https://open.spotify.com/track/1mwWTCmOKSlAaHJWj0or4N) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Kehlani](https://open.spotify.com/album/5KS0QmxwUmSPsolg9VaSAU) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 49 | [May 10th](https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN) | [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [May 10th](https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0) | 2:46 |
 | 50 | [Dream Girl](https://open.spotify.com/track/2u4kXBTxGIJ3D9t6ZyxCO4) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Dream Girl](https://open.spotify.com/album/0MMfJjVlZwqd4lonLqFq6i) | 2:32 |
 
-Snapshot ID: `AAAAAHzK6NQLDSqPuPgOya3Rus+0mH0j`
+Snapshot ID: `AAAAAEbbVmDIhoUijb5KR0wnGeoJNFAC`

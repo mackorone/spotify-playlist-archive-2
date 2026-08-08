@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 
 > The biggest songs in Latin America in 2018\. Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,130 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,182 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 | 49 | [EL BAÑO](https://open.spotify.com/track/2vvdTrdryjsl8DmPIMDWZU) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [EL BAÑO](https://open.spotify.com/album/5phDwq3mKZdLiFxyRpgcCV) | 3:34 |
 | 50 | [Vuelve](https://open.spotify.com/track/3wGRfBDRNQb0nFDFrUPvq6) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [FANTASÍA](https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31) | 3:45 |
 
-Snapshot ID: `AAAAAMDtyvILFx/sA00We7LJJKMhYRp3`
+Snapshot ID: `AAAAADyV9msbUxrto1WzI5ncI7mH0PCZ`

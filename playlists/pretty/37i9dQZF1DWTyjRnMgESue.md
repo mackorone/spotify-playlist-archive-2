@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Tyler Ballgame
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,591 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,607 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,14 +53,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 43 | [Feeling Fine](https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Feeling Fine](https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx) | 2:48 |
 | 44 | [David's Brother](https://open.spotify.com/track/7HIIgAScOr8ywjvJiraobh) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Dream](https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi) | 3:37 |
 | 45 | [Want Me](https://open.spotify.com/track/4jM8r5G6yNfLbhf3kPm2s9) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Want Me](https://open.spotify.com/album/0p2KyEFZmeOiHUWbDmpABJ) | 3:33 |
-| 46 | [Walking Through The Water](https://open.spotify.com/track/4eZ5yY3JOU2yD2GA7u7afs) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Walking Through The Water](https://open.spotify.com/album/0ItIepNO0BfrtzARhUcqfB) | 5:01 |
+| 46 | [I Saw The Mountains](https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Saw The Mountains](https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK) | 4:24 |
 | 47 | [Burn Me](https://open.spotify.com/track/3diMgXk3RxGChNwsAVqyIL) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp), [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Burn Me](https://open.spotify.com/album/0100hgq4IwkxrCmldWPgYj) | 3:34 |
-| 48 | [I Saw The Mountains](https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Saw The Mountains](https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK) | 4:24 |
+| 48 | [Walking Through The Water](https://open.spotify.com/track/4eZ5yY3JOU2yD2GA7u7afs) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Walking Through The Water](https://open.spotify.com/album/0ItIepNO0BfrtzARhUcqfB) | 5:01 |
 | 49 | [The Hudson](https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Hudson](https://open.spotify.com/album/1zBM2rgDcwNt063jGHwMMt) | 3:36 |
 | 50 | [Don't Let Me Go](https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Let Me Go](https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o) | 4:52 |
 | 51 | [5 More Minutes](https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [I Know What I Want](https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va) | 3:50 |
-| 52 | [Wait Up \(feat\. I'm With Her\)](https://open.spotify.com/track/4bKT1G7Q6kInM0idAtnP3p) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Hen's Teeth](https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN) | 3:45 |
-| 53 | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U) | 4:07 |
+| 52 | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U) | 4:07 |
+| 53 | [Wait Up \(feat\. I'm With Her\)](https://open.spotify.com/track/4bKT1G7Q6kInM0idAtnP3p) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Hen's Teeth](https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN) | 3:45 |
 | 54 | [Mountain](https://open.spotify.com/track/1xQKkR7bFenmihMnOgoFgC) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 3:59 |
 | 55 | [Never Notice](https://open.spotify.com/track/6BhMpYkmpy00MYwDCN9ZZh) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Never Notice](https://open.spotify.com/album/6oJBrLiT1DwzeDmGcpeIGE) | 3:58 |
 | 56 | [Palomino \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/6OsVtmvOG3m3SZuXZHGpvz) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Palomino \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/2EyPD0EkMu9yo0y5GHnJl7) | 3:10 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 82 | [KISSING](https://open.spotify.com/track/4RSkew0j4MPCAq7WfVfi8P) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Daisy](https://open.spotify.com/album/5l746yNWWESUlLuveqla2p) | 2:40 |
 | 83 | [Like The Rain](https://open.spotify.com/track/0qBoobvEvFNnbCzvgtHjM8) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Love Again](https://open.spotify.com/album/55GVOmy6g6oRXIuUklMxnS) | 3:07 |
 | 84 | [Poison In My Well](https://open.spotify.com/track/5sTW2d86vNwfiJ2VNjUsrq) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Poison In My Well](https://open.spotify.com/album/1lQPaWzjstwG1X3hWZb11A) | 3:08 |
-| 85 | [You and Me Time \(feat\. Sheryl Crow\)](https://open.spotify.com/track/4v0bYGAGo7GjTDQeoaSsp7) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [You and Me Time](https://open.spotify.com/album/0m6wO7RR5ugYzk0wZW5ori) | 3:45 |
-| 86 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 |
+| 85 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 |
+| 86 | [You and Me Time \(feat\. Sheryl Crow\)](https://open.spotify.com/track/4v0bYGAGo7GjTDQeoaSsp7) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [You and Me Time](https://open.spotify.com/album/0m6wO7RR5ugYzk0wZW5ori) | 3:45 |
 | 87 | [tell me something](https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [tell me something](https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn) | 3:57 |
 | 88 | [happy ending](https://open.spotify.com/track/2xSoj3qiRpbTd2ku7pvMvd) | [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [happy ending](https://open.spotify.com/album/2wqktjryHxu6i4Mof6tWtL) | 2:37 |
 | 89 | [Nothing Comes Easy](https://open.spotify.com/track/1DTsVhtb0tUaYncdT5yT6W) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Nothing Comes Easy](https://open.spotify.com/album/4uPXWqH0hBzxT5u67PxLHy) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 99 | [golden boy](https://open.spotify.com/track/03dP8ZaoX9ftHDDGJqDmeP) | [Sidney](https://open.spotify.com/artist/4nlincxLK6HxbApSH1MCR8) | [golden boy](https://open.spotify.com/album/2Y8kR25oTu2nlNQWoOzbsW) | 3:14 |
 | 100 | [Wild One](https://open.spotify.com/track/1ez4a2Zt26EJWcIoKaXO67) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Wild One](https://open.spotify.com/album/6uQPitAnucKcatIRufA7om) | 2:22 |
 
-Snapshot ID: `AAAAAD4jWqAsc4JSKy0FW0lBca9FyaHd`
+Snapshot ID: `AAAAAKtz5Yafwj3YcGBEXyPG/EsU10ub`

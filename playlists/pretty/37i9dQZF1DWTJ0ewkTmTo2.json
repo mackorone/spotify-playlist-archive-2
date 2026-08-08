@@ -1,12 +1,12 @@
 {
   "description": "Get ready to sing your hearts out with these family friendly road trip classics.",
-  "num_followers": 751242,
+  "num_followers": 751342,
   "original_name": "Family Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAENVCgSzf89yK/bVCooqUOd+KCeO",
+  "snapshot_id": "AAAAAMhDcHyc8ulmyStWzvzcKaaqaqWy",
   "tracks": [
     {
       "added_at": "2024-05-29 18:39:32",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-05-29 18:39:32",
       "album": {
-        "name": "Madman Across The Water",
-        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 377093,
-      "name": "Tiny Dancer",
-      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
-    },
-    {
-      "added_at": "2024-05-29 18:39:32",
-      "album": {
         "name": "Make It Big",
         "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 231333,
       "name": "Wake Me Up Before You Go-Go",
       "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
+    },
+    {
+      "added_at": "2024-05-29 18:39:32",
+      "album": {
+        "name": "Madman Across The Water",
+        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 377093,
+      "name": "Tiny Dancer",
+      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
     },
     {
       "added_at": "2024-05-29 18:39:32",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-05-29 18:39:32",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Since U Been Gone",
-      "url": "https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd"
-    },
-    {
-      "added_at": "2024-05-29 18:39:32",
-      "album": {
         "name": "Pocket Full Of Kryptonite (Anniversary Edition)",
         "url": "https://open.spotify.com/album/3jx5C8Z66FwdjNkqsSDBQh"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 256946,
       "name": "Two Princes",
       "url": "https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw"
+    },
+    {
+      "added_at": "2024-05-29 18:39:32",
+      "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Since U Been Gone",
+      "url": "https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd"
     },
     {
       "added_at": "2024-05-29 18:39:32",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-05-29 18:39:32",
       "album": {
-        "name": "I Can See Clearly Now",
-        "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
-      },
-      "artists": [
-        {
-          "name": "Johnny Nash",
-          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
-        }
-      ],
-      "duration_ms": 164733,
-      "name": "I Can See Clearly Now - Edit",
-      "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
-    },
-    {
-      "added_at": "2024-05-29 18:39:32",
-      "album": {
         "name": "Permission to Land",
         "url": "https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 216453,
       "name": "I Believe in a Thing Called Love",
       "url": "https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA"
+    },
+    {
+      "added_at": "2024-05-29 18:39:32",
+      "album": {
+        "name": "I Can See Clearly Now",
+        "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
+      },
+      "artists": [
+        {
+          "name": "Johnny Nash",
+          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
+        }
+      ],
+      "duration_ms": 164733,
+      "name": "I Can See Clearly Now - Edit",
+      "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
     },
     {
       "added_at": "2024-05-29 18:39:32",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-05-29 18:39:32",
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 271560,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV"
-    },
-    {
-      "added_at": "2024-05-29 18:39:32",
-      "album": {
         "name": "The Breakfast Club",
         "url": "https://open.spotify.com/album/2yrEJ5xNvTdEEFuTtcku9M"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 260866,
       "name": "Don't You (Forget About Me)",
       "url": "https://open.spotify.com/track/6yEAAIEHu4GcUFptg5W9kI"
+    },
+    {
+      "added_at": "2024-05-29 18:39:32",
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 271560,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV"
     },
     {
       "added_at": "2024-05-29 18:39:32",

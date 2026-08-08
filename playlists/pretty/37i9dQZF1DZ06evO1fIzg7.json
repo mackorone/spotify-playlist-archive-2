@@ -1,12 +1,12 @@
 {
   "description": "This is Sophie Ellis-Bextor. The essential tracks, all in one playlist.",
-  "num_followers": 21043,
+  "num_followers": 21045,
   "original_name": "This Is Sophie Ellis-Bextor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAChMVspYk+fRsnSNDLmjz1m",
+  "snapshot_id": "anPOgAAAAABZ/T8EbbLEG3Al/4jBjDeo",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perimenopop",
-        "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 243008,
-      "name": "Relentless Love",
-      "url": "https://open.spotify.com/track/24REwt3hGvBJVsUrWEMYJo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stay On Me",
         "url": "https://open.spotify.com/album/3070rfYDNRp8Ij3DkfJGzC"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 187557,
       "name": "Stay On Me",
       "url": "https://open.spotify.com/track/6h7cY2Dgk4JGGzFSIutPYC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perimenopop",
+        "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 243008,
+      "name": "Relentless Love",
+      "url": "https://open.spotify.com/track/24REwt3hGvBJVsUrWEMYJo"
     },
     {
       "added_at": null,
@@ -407,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perimenopop",
-        "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
       },
       "artists": [
         {
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 211719,
-      "name": "Dolce Vita",
-      "url": "https://open.spotify.com/track/46g5hMEcalsXMw8SEtvo39"
+      "duration_ms": 268213,
+      "name": "Young Blood",
+      "url": "https://open.spotify.com/track/26wfj0NDkkO2NIx1jPplPA"
     },
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
+        "name": "Make a Scene",
+        "url": "https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 268213,
-      "name": "Young Blood",
-      "url": "https://open.spotify.com/track/26wfj0NDkkO2NIx1jPplPA"
+      "duration_ms": 211812,
+      "name": "Off & On",
+      "url": "https://open.spotify.com/track/4nGknlKl2vIymvVOs7TOBZ"
     },
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Make a Scene",
-        "url": "https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0"
+        "name": "Perimenopop",
+        "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 211812,
-      "name": "Off & On",
-      "url": "https://open.spotify.com/track/4nGknlKl2vIymvVOs7TOBZ"
+      "duration_ms": 211719,
+      "name": "Dolce Vita",
+      "url": "https://open.spotify.com/track/46g5hMEcalsXMw8SEtvo39"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perimenopop",
-        "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 248001,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/3njpFdnqVB3reyo7gDMHhw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HANA",
         "url": "https://open.spotify.com/album/2oypv23kc2pJaykM2VCcZb"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 243613,
       "name": "Lost in the Sunshine",
       "url": "https://open.spotify.com/track/3RaNrjfoe9NADcR7MgG6NQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perimenopop",
+        "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 248001,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/3njpFdnqVB3reyo7gDMHhw"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perimenopop",
-        "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 211153,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/41doB53wKeOejTrzWvvUeH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Read My Lips (Deluxe Version)",
         "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 265186,
       "name": "Is It Any Wonder",
       "url": "https://open.spotify.com/track/1gbDVb8GzhAL7TOZ5HeLeU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perimenopop",
+        "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 211153,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/41doB53wKeOejTrzWvvUeH"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perimenopop",
-        "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 203999,
-      "name": "Layers",
-      "url": "https://open.spotify.com/track/5D3gVhO3DZDZbvAZ2F9Mnl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wanderlust",
         "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perimenopop",
+        "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 203999,
+      "name": "Layers",
+      "url": "https://open.spotify.com/track/5D3gVhO3DZDZbvAZ2F9Mnl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Songs from the Kitchen Disco: Sophie Ellis-Bextor's Greatest Hits",
         "url": "https://open.spotify.com/album/3BVWvOqPRrA7YuNkzCi9Xe"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 253866,
       "name": "Do You Remember the First Time? - Live",
       "url": "https://open.spotify.com/track/1K3tMyvX5uU0bVi8KSC4TH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Familia",
-        "url": "https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 261093,
-      "name": "Wild Forever",
-      "url": "https://open.spotify.com/track/4KeQNNKhy2M5CZSydwzg60"
     },
     {
       "added_at": null,
@@ -739,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Familia",
+        "url": "https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 261093,
+      "name": "Wild Forever",
+      "url": "https://open.spotify.com/track/4KeQNNKhy2M5CZSydwzg60"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Read My Lips (Deluxe Version)",
         "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
       },
@@ -751,22 +751,6 @@
       "duration_ms": 203520,
       "name": "Lover",
       "url": "https://open.spotify.com/track/4pritr0818VLaaJTvTCjfj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 234160,
-      "name": "The Deer & the Wolf",
-      "url": "https://open.spotify.com/track/5OuAK2wFMADQMQkqj5nVSE"
     },
     {
       "added_at": null,
@@ -787,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Make a Scene",
-        "url": "https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0"
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
       },
       "artists": [
         {
@@ -796,9 +780,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 273915,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/4LNRBwnx53haxMj2rF0BWr"
+      "duration_ms": 234160,
+      "name": "The Deer & the Wolf",
+      "url": "https://open.spotify.com/track/5OuAK2wFMADQMQkqj5nVSE"
     },
     {
       "added_at": null,
@@ -819,6 +803,22 @@
       "duration_ms": 210528,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/0nzVN0Ln1nnN5eSSUSmztb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Make a Scene",
+        "url": "https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 273915,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/4LNRBwnx53haxMj2rF0BWr"
     },
     {
       "added_at": null,

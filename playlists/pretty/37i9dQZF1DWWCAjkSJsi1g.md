@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 
 > The biggest old school anthems from your favourite nightclub spots!
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,877 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,873 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 | 7 | [Hate It Or Love It](https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:26 |
 | 8 | [Me & U](https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT) | [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Cassie \(U.S\. Version\)](https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu) | 3:12 |
 | 9 | [Say My Name](https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:31 |
-| 10 | [Return of the Mack](https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9) | [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9) | [Return of the Mack](https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV) | 3:33 |
-| 11 | [My Boo](https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:43 |
+| 10 | [My Boo](https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:43 |
+| 11 | [Return of the Mack](https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9) | [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9) | [Return of the Mack](https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV) | 3:33 |
 | 12 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 |
 | 13 | [Whatever You Like](https://open.spotify.com/track/1IAzD1muglOxOcPbUHs70R) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Paper Trail](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC) | 4:09 |
 | 14 | [Cry Me a River](https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 | 99 | [Scandalous \- U.S\. Radio Edit](https://open.spotify.com/track/3stnrhzN0lzZFskbaZ5sEw) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn) | [Mis\-Teeq](https://open.spotify.com/album/7fw8rAhWi3UWw92jgemhbZ) | 3:58 |
 | 100 | [Dip It Low](https://open.spotify.com/track/3CldFq28sCroIcmc42pRmZ) | [Christina Milian](https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw) | [Girls' Night Out](https://open.spotify.com/album/25akGACCyuW80OnWrv8kjJ) | 3:16 |
 
-Snapshot ID: `AAAAAMSMskHVeS0fo10CjEW8tep6JXXE`
+Snapshot ID: `AAAAAJgbK8UeG42XxpsKYJ0pBxzuMr6S`

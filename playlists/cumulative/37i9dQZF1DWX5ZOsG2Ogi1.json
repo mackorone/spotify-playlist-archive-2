@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "\u00a1Perreo del bueno! twerk that \ud83c\udf51 Cover: Yandel, Luis R Conriquez, El Bogueto & Gaby Music",
+  "description": "\u00a1Perreo del bueno! twerk that \ud83c\udf51 Cover: Ozuna, Omar Courtz",
   "name": "Puro Perreo",
   "tracks": [
     {
@@ -883,6 +883,24 @@
     },
     {
       "album": {
+        "name": "AIRE",
+        "url": "https://open.spotify.com/album/5X1QJwRKRpyteu2TsPiLJx"
+      },
+      "artists": [
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141180,
+      "name": "AIRE",
+      "url": "https://open.spotify.com/track/6nloIaklTZd2Sbpk4laaeJ"
+    },
+    {
+      "album": {
         "name": "PLAYA SATURNO",
         "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
       },
@@ -1298,6 +1316,32 @@
       "duration_ms": 172774,
       "name": "ANDO",
       "url": "https://open.spotify.com/track/6hwGwCfCwHoSJQw7AYPEQu"
+    },
+    {
+      "album": {
+        "name": "DIABLO SANTO 2",
+        "url": "https://open.spotify.com/album/3HYMzWiVuq3BX102OH6VhY"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        },
+        {
+          "name": "DONNER",
+          "url": "https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206621,
+      "name": "Anestesia",
+      "url": "https://open.spotify.com/track/0eIORudF8TZvkZO3yWhRW4"
     },
     {
       "album": {
@@ -3148,6 +3192,24 @@
       "duration_ms": 184053,
       "name": "Carita De Cereal (feat. Smi beat)",
       "url": "https://open.spotify.com/track/0dffJMYSncm5MnwxGbB7QW"
+    },
+    {
+      "album": {
+        "name": "Mi Carpe Diem",
+        "url": "https://open.spotify.com/album/5xNpY6LGUqNbluWuLJRNSl"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173694,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/0aLgqklsBNnVValSEGssbz"
     },
     {
       "album": {
@@ -9472,7 +9534,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 194680,
       "name": "GUAYA",
       "url": "https://open.spotify.com/track/75hHR4TZqvB22EY0ntZfk1"
@@ -14873,6 +14935,32 @@
     },
     {
       "album": {
+        "name": "NO ME GUILLO v2",
+        "url": "https://open.spotify.com/album/0cYF1DJpl1oizxiRmBYuZJ"
+      },
+      "artists": [
+        {
+          "name": "ANMI",
+          "url": "https://open.spotify.com/artist/0V6FSnhjLqpJpS6srrNiRg"
+        },
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        },
+        {
+          "name": "Kabasaki",
+          "url": "https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195109,
+      "name": "NO ME GUILLO v2",
+      "url": "https://open.spotify.com/track/0vHJupzsREkNskbkuSiwF1"
+    },
+    {
+      "album": {
         "name": "NO PARE",
         "url": "https://open.spotify.com/album/7Cox5cc0YmFSLTMElICoW8"
       },
@@ -17572,7 +17660,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 183673,
       "name": "PONTE LOKITA",
       "url": "https://open.spotify.com/track/0Lahr7sUDdtYnX3n3KobR6"
@@ -18654,7 +18742,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 221346,
       "name": "Quiero Verte",
       "url": "https://open.spotify.com/track/58BUlorkbBEPLOmTZkXKr7"
@@ -23398,7 +23486,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 180894,
       "name": "Una Aventura",
       "url": "https://open.spotify.com/track/6P5OklKnFLlyc5sZiQwCrA"
@@ -24775,6 +24863,28 @@
     },
     {
       "album": {
+        "name": "ZIZI",
+        "url": "https://open.spotify.com/album/4f0YTBqSbvM1iJpuY9r3yQ"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242840,
+      "name": "ZIZI",
+      "url": "https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX"
+    },
+    {
+      "album": {
         "name": "Zona",
         "url": "https://open.spotify.com/album/5mRlWuw2hyef5f7DHwwXfK"
       },
@@ -24860,7 +24970,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 172997,
       "name": "\u00bfSER\u00c1 EL ALCOHOL?",
       "url": "https://open.spotify.com/track/3468olNnNSGtr7HOH2gpDD"

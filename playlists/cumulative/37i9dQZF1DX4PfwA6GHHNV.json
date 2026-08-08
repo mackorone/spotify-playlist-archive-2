@@ -2624,7 +2624,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 216621,
       "name": "ILY",
       "url": "https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0"
@@ -3714,7 +3714,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 197081,
       "name": "M\u00e1s Que T\u00fa",
       "url": "https://open.spotify.com/track/6TzgG83Mj85lfnkWTuyO8O"
@@ -4551,6 +4551,28 @@
     },
     {
       "album": {
+        "name": "R.U. (Raw & Unfiltered) Vol.1",
+        "url": "https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200314,
+      "name": "Private Chef (feat. MC Morena)",
+      "url": "https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt"
+    },
+    {
+      "album": {
         "name": "Profundamente",
         "url": "https://open.spotify.com/album/16QOVNFEKIzl4qnoRd2A7o"
       },
@@ -5302,6 +5324,32 @@
       "duration_ms": 245841,
       "name": "Segredo",
       "url": "https://open.spotify.com/track/0PjmCUmfHEwlXp6LjdmNmA"
+    },
+    {
+      "album": {
+        "name": "Sem nada",
+        "url": "https://open.spotify.com/album/5x0K9eHmy0ZSVj1nej5zyF"
+      },
+      "artists": [
+        {
+          "name": "Devasto Prod",
+          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
+        },
+        {
+          "name": "Junior Lord",
+          "url": "https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP"
+        },
+        {
+          "name": "Marvvila",
+          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156038,
+      "name": "Sem nada",
+      "url": "https://open.spotify.com/track/6ZlTGWsNYigSj5LTCK3Uy4"
     },
     {
       "album": {

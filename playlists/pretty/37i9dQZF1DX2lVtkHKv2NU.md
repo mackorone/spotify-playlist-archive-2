@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 
 > me gustas mucho\. <3 I've got a crush on you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,557 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,587 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 | 55 | [Amapolas](https://open.spotify.com/track/0z5yLgBmAtaylDYrgwzlpH) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Amapolas](https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY) | 3:25 |
 | 56 | [Malas Decisiones](https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:19 |
 | 57 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 |
-| 58 | [El vino de tu boca](https://open.spotify.com/track/3EmjfGS6Qf5PwFhFlYsCc0) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El vino de tu boca](https://open.spotify.com/album/1OtgzBjIfr4RmvtkBI4tEP) | 2:49 |
-| 59 | [00:00](https://open.spotify.com/track/7l4cSfrED7RrtT0t5CSOzv) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt) | 3:35 |
+| 58 | [00:00](https://open.spotify.com/track/7l4cSfrED7RrtT0t5CSOzv) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt) | 3:35 |
+| 59 | [El vino de tu boca](https://open.spotify.com/track/3EmjfGS6Qf5PwFhFlYsCc0) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El vino de tu boca](https://open.spotify.com/album/1OtgzBjIfr4RmvtkBI4tEP) | 2:49 |
 | 60 | [Te Regalo](https://open.spotify.com/track/2318Aoqig6HS9YkHGlAm8T) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [J Abecia](https://open.spotify.com/artist/2EaASUee9MEeEnMXGwnSOC) | [Te Regalo](https://open.spotify.com/album/0k43xjg0bI0CcNOA1agoxO) | 2:27 |
 | 61 | [Tu Misterioso Alguien](https://open.spotify.com/track/4ksf1UdqNc9pU8R4ZZrgdY) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [El Templo del Pop, Vol\. 2](https://open.spotify.com/album/7hfkdtulZht6MCFAvvXEGl) | 4:04 |
 | 62 | [Ojos Marrones](https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Ojos Marrones](https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 | 99 | [ÁNGEL](https://open.spotify.com/track/4JtKlgBLKHtRTqixKHrrw8) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [ÁNGEL](https://open.spotify.com/album/2iiR2powAnVyARFx7deWZT) | 3:04 |
 | 100 | [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 |
 
-Snapshot ID: `AAAAAJwmS/IH7pU0lS9vCowGaxPDXUio`
+Snapshot ID: `AAAAAIEhDXGjuRzCUIkFUo2BKhhW1Fgd`

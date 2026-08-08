@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,376 likes - 102 songs - 15 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,435 likes - 102 songs - 15 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 101 | [We Worship You](https://open.spotify.com/track/37ewmOinmfco7aCr3bve3r) | [Mera Owili](https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV), [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M) | [We Worship You](https://open.spotify.com/album/761nroFet61Jlnvs5FAx8c) | 8:17 |
 | 102 | [My Favourite Place \- Live](https://open.spotify.com/track/0C7VdwBxawVjwQesLcH1nJ) | [Fiyin Adeniyi](https://open.spotify.com/artist/7b4BZkj7cS5gokEOCrNuN0), [Jo Deep](https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o) | [My Favourite Place \(Live\)](https://open.spotify.com/album/3j770PFutPMLVlmRsUeenZ) | 12:23 |
 
-Snapshot ID: `AAAAAHRoya9BZL/nIESGZIKiQWgEMQ1L`
+Snapshot ID: `AAAAAIf+/W0ZYWKjCTGyxyjLH8nyqWqt`

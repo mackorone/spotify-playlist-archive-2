@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/36di6g7Y2kPVJAqOoKl7QS?si=WFKSTC4oSD-oTy7edA3fQA\"> King Kaka</a> ",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy?si=d5686c33ac9c47be\"> Breeder LW</a> ",
   "name": "254 Flow",
   "tracks": [
     {
@@ -210,6 +210,24 @@
       "duration_ms": 168975,
       "name": "6 PM",
       "url": "https://open.spotify.com/track/1oLZAlIjrddE4BK6qt6Tni"
+    },
+    {
+      "album": {
+        "name": "60 Sec Madness",
+        "url": "https://open.spotify.com/album/6UfJT7FglUXho7KN8HWMrm"
+      },
+      "artists": [
+        {
+          "name": "Moti the NRG",
+          "url": "https://open.spotify.com/artist/6sDVFYZNKm4ptJrKaJo2CI"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64665,
+      "name": "60 Sec Madness",
+      "url": "https://open.spotify.com/track/4ozz7evyEMBf53i0Sjy1yH"
     },
     {
       "album": {
@@ -1010,7 +1028,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 159310,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/7BMTIZNWTqSYgAXetxgWYU"
@@ -1094,6 +1112,24 @@
       "duration_ms": 143331,
       "name": "BOY",
       "url": "https://open.spotify.com/track/28uZA4SvGSxKt1kvmlAMjP"
+    },
+    {
+      "album": {
+        "name": "Bread Winner",
+        "url": "https://open.spotify.com/album/2eLtVEpbRLNCOvMS1aA4xU"
+      },
+      "artists": [
+        {
+          "name": "Breeder LW",
+          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192941,
+      "name": "Bread Winner",
+      "url": "https://open.spotify.com/track/7Kvz63ZGAsCzMEPoETR4ii"
     },
     {
       "album": {
@@ -7862,7 +7898,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 168000,
       "name": "Rich or Broke",
       "url": "https://open.spotify.com/track/751af64Wdw2dNzBXd1nSpQ"
@@ -8518,7 +8554,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 131129,
       "name": "Sick Style",
       "url": "https://open.spotify.com/track/2xnazUkpbUbQ5hhddzDpE4"
@@ -9663,6 +9699,28 @@
     },
     {
       "album": {
+        "name": "THE DOG IN ME",
+        "url": "https://open.spotify.com/album/7lcyqNhwnxVM95NNMdNgOA"
+      },
+      "artists": [
+        {
+          "name": "Lowki the Great",
+          "url": "https://open.spotify.com/artist/5X1vMMsEMwlsiSXBICi8QO"
+        },
+        {
+          "name": "Cosign Black",
+          "url": "https://open.spotify.com/artist/4nxqNYiBaijuEs9xjwEFrz"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231863,
+      "name": "THE DOG IN ME",
+      "url": "https://open.spotify.com/track/0uooMwltbA3HbaaT9fpso8"
+    },
+    {
+      "album": {
         "name": "The Food Chain",
         "url": "https://open.spotify.com/album/1FO2g78Sw5ivqS39CILH3T"
       },
@@ -9916,7 +9974,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 97586,
       "name": "TIP",
       "url": "https://open.spotify.com/track/27lfg11DPSNc1OOaeFia9W"
@@ -9978,6 +10036,24 @@
       "duration_ms": 132685,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/0KeypJHo1vNcEUR5cQSBHz"
+    },
+    {
+      "album": {
+        "name": "Top4",
+        "url": "https://open.spotify.com/album/6kU9wnfFBCyFoFYw8UggBB"
+      },
+      "artists": [
+        {
+          "name": "Scar Mkadinali",
+          "url": "https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Top4",
+      "url": "https://open.spotify.com/track/16MWdr10dqiEpa1ce0GvJO"
     },
     {
       "album": {

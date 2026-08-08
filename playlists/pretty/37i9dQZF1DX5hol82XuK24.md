@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,512 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,521 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 13 | [The Place Where He Inserted the Blade](https://open.spotify.com/track/3k2kIiJqUiIP49iUcOLpWT) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 7:13 |
 | 14 | [You Want It Darker](https://open.spotify.com/track/5zb7npjQqoJ7Kcpq4yD9qn) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [You Want It Darker](https://open.spotify.com/album/3jeTB3j3QmUs8SPIVleHtU) | 4:44 |
 | 15 | [Cry](https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:16 |
-| 16 | [Gloom](https://open.spotify.com/track/6L8JVXMBLDZeyhBKr0lrj8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:00 |
-| 17 | [Halloween](https://open.spotify.com/track/2GDxR0ZGYqDQUElSQxBiNS) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:31 |
+| 16 | [Halloween](https://open.spotify.com/track/2GDxR0ZGYqDQUElSQxBiNS) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:31 |
+| 17 | [Gloom](https://open.spotify.com/track/6L8JVXMBLDZeyhBKr0lrj8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:00 |
 | 18 | [Sisters of the Moon \- 2015 Remaster](https://open.spotify.com/track/7Gjj6NxSsVwXfOXUjvjCXv) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(Deluxe Edition\)](https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn) | 4:43 |
 | 19 | [Silk](https://open.spotify.com/track/5VWtavZNYlK6m6MQY6YRg1) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU) | 4:03 |
 | 20 | [Radio Towers](https://open.spotify.com/track/2SUDMF8bzAYZZduDUfY59p) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Willoughby Tucker, I'll Always Love You](https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm) | 5:12 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 24 | [I Love Me After You](https://open.spotify.com/track/55Y5p2XyPaYBPGtzj1f9fE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:48 |
 | 25 | [Willoughby's Interlude](https://open.spotify.com/track/3ugwznRhQxaUD8C5R8AhoG) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Willoughby Tucker, I'll Always Love You](https://open.spotify.com/album/3iSPMfhw4P30tFrROrbkFm) | 7:27 |
 | 26 | [Night Time](https://open.spotify.com/track/0ibXYHIS1vPqpkm1LoIWZR) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 3:36 |
-| 27 | [I'm Always Here](https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [Hurting](https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT) | 3:20 |
-| 28 | [Horseness Is The Whatness](https://open.spotify.com/track/0kwMhCBpF1vlTTip2oqVs8) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:07 |
+| 27 | [Horseness Is The Whatness](https://open.spotify.com/track/0kwMhCBpF1vlTTip2oqVs8) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:07 |
+| 28 | [I'm Always Here](https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [Hurting](https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT) | 3:20 |
 | 29 | [Famous Last Words \(An Ode to Eaters\)](https://open.spotify.com/track/7bpfZYrS4dQKxiuj6QiRaX) | [1017 ALYX 9SM](https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Famous Last Words \(An Ode to Eaters\)](https://open.spotify.com/album/47mfwMreABCnlLm7EEtHsB) | 3:22 |
 | 30 | [Drink Deep](https://open.spotify.com/track/21sDgrgghtQMdUGsCqGVXI) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 3:51 |
 | 31 | [Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 2:53 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 33 | [Dancing and Blood](https://open.spotify.com/track/23r92m2ABmBYCjQ55hncxY) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Double Negative](https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P) | 6:22 |
 | 34 | [mary magdalene](https://open.spotify.com/track/77tQQM8iEswfiSVLbTrFPX) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 5:21 |
 | 35 | [Come 2 Me](https://open.spotify.com/track/1QtFsnrZWSAXdQPS7yjvk1) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [Voulez\-Vous](https://open.spotify.com/album/55g6d5fjLBIJK8g27aqSSI) | 2:38 |
-| 36 | [Dead Girls](https://open.spotify.com/track/2sVltS0DdwGGRphHfDtV3j) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Hazards](https://open.spotify.com/album/6JkLfqjyQrRAmhCE6J9QTy) | 3:19 |
-| 37 | [My Body's a Zombie For You](https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Dead Man's Bones](https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr) | 4:30 |
+| 36 | [My Body's a Zombie For You](https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Dead Man's Bones](https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr) | 4:30 |
+| 37 | [Dead Girls](https://open.spotify.com/track/2sVltS0DdwGGRphHfDtV3j) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Hazards](https://open.spotify.com/album/6JkLfqjyQrRAmhCE6J9QTy) | 3:19 |
 | 38 | [Undress](https://open.spotify.com/track/3vHTp0PSVjgnqocdLHCk19) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:59 |
 | 39 | [Spit It Out](https://open.spotify.com/track/44la56EZdE2fw9r963o5E2) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spit It Out](https://open.spotify.com/album/7C2M8DsO12eRUsFBtzeqkS) | 3:07 |
 | 40 | [Empty Stomach Space Cadet](https://open.spotify.com/track/3iMc9mplMBY32uAWGRbtWU) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/36tUlc8fGxaUTv4cLmC9UJ) | 2:07 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 59 | [Tastes Good With The Money](https://open.spotify.com/track/2PVIlhwBem76mLR9qentnl) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4) | [Serfs Up!](https://open.spotify.com/album/3rCHThZSo7zO5dmmsPjTtQ) | 5:42 |
 | 60 | [My Cosmos Is Mine](https://open.spotify.com/track/4KsArIpW1fuKW6ULDI44lx) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [My Cosmos Is Mine](https://open.spotify.com/album/2fpREMvhSct6c0Y52VRbiv) | 5:16 |
 | 61 | [Turn Off The Noise](https://open.spotify.com/track/633HJNBMLx1CJ2h6fmtMce) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Piggy](https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z) | 4:24 |
-| 62 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 |
-| 63 | [teeth](https://open.spotify.com/track/5RVajwoNIYW0zPt8PqS71y) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this old house](https://open.spotify.com/album/1QWJ3ijFhCMroSOOAR61Qf) | 5:04 |
+| 62 | [teeth](https://open.spotify.com/track/5RVajwoNIYW0zPt8PqS71y) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this old house](https://open.spotify.com/album/1QWJ3ijFhCMroSOOAR61Qf) | 5:04 |
+| 63 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 |
 | 64 | [Horror Scene \(feat\. aldn\)](https://open.spotify.com/track/4xaQIoPckzCcFQ2e4W7gqR) | [Xowie Jones](https://open.spotify.com/artist/0ZlBHRn2ZsHc1FESUa43ij), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [Horror Scene \(feat\. aldn\)](https://open.spotify.com/album/5HHUqHd5DFN8wjAdarGnvX) | 1:59 |
 | 65 | [Dancing with Ghosts](https://open.spotify.com/track/2vXq4DzEwtxMyc5WLOg6EY) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Dancing with Ghosts](https://open.spotify.com/album/1yLAAVq1QqUKEhKJKkHjdl) | 4:59 |
 | 66 | [Exposed to Some Light](https://open.spotify.com/track/6nduEbD1djbA05rXx36hPX) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Exposed to Some Light](https://open.spotify.com/album/4A5Yee0Ah4mNsML5rHhZbH) | 3:59 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 82 | [Exhaust / Surroundings](https://open.spotify.com/track/1ZxkEYMc2koZHb62qmUBzW) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Toner](https://open.spotify.com/album/1Ut15hcUKgPHMWtUDrbBGq) | 5:40 |
 | 83 | [My Evil](https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:24 |
 | 84 | [Brkn](https://open.spotify.com/track/0kt17oiymmdO5hl4FpVKpu) | [VOID](https://open.spotify.com/artist/4EaGV53TWbseFZafYathL1) | [Brkn](https://open.spotify.com/album/2MMpWxHFQXkCoglx8bHX6G) | 2:59 |
-| 85 | [Abandon](https://open.spotify.com/track/2I4HGGLdZsy3LqQn9ndsty) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [All That Is Over](https://open.spotify.com/album/0oqLmxhxIu8moVRQZLfsYQ) | 2:40 |
-| 86 | [Spinning Wheel](https://open.spotify.com/track/35AFp3kz5PoMNU0TQGFwEz) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Spinning Wheel](https://open.spotify.com/album/6vef9mkcfhLjq8tUnujtrA) | 3:25 |
+| 85 | [Spinning Wheel](https://open.spotify.com/track/35AFp3kz5PoMNU0TQGFwEz) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Spinning Wheel](https://open.spotify.com/album/6vef9mkcfhLjq8tUnujtrA) | 3:25 |
+| 86 | [Abandon](https://open.spotify.com/track/2I4HGGLdZsy3LqQn9ndsty) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [All That Is Over](https://open.spotify.com/album/0oqLmxhxIu8moVRQZLfsYQ) | 2:40 |
 | 87 | [Whole Lotta Nothing](https://open.spotify.com/track/2fJ8qVt2jxBzbJevlnIEvw) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Whole Lotta Nothing](https://open.spotify.com/album/2pZjqwc0vAhUBINnTmHrd3) | 4:47 |
 | 88 | [Wicked Animal](https://open.spotify.com/track/3OU685WYjjsCh8PJ39KU73) | [Amandla Stenberg](https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck), [Bobbi Salvör Menuez](https://open.spotify.com/artist/1AJGOgliKuczd24lJOh33J) | [Wicked Animal](https://open.spotify.com/album/3gTAR3ksapRN0d01BRYr9i) | 4:44 |
 | 89 | [Ecstasy Homosexuality \- Radio Edit](https://open.spotify.com/track/2MUzZxKqu81eIkaGUeEBz1) | [The Irrepressibles](https://open.spotify.com/artist/1v5bOzXbhrQ57qSvRwGA6s) | [Ecstasy Homosexuality](https://open.spotify.com/album/0BeMgSYDSzivSONx0du1Jz) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 99 | [Take Me Down \- Nourished by Time Version](https://open.spotify.com/track/3biDGDnL1hdlXTHgLP3s4m) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Take Me Down \(Nourished by Time Version\)](https://open.spotify.com/album/3IixjGRUGeSJtzsA92Ybbr) | 4:03 |
 | 100 | [Little Vampire](https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Head of the Love Club](https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST) | 2:55 |
 
-Snapshot ID: `AAAAAPMlrwNnnTcadREVOVUeyBejhX82`
+Snapshot ID: `AAAAABUPGTRDNZ7Q2Jak/TGD/H+4Oapk`

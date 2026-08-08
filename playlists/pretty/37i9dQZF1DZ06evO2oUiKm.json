@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAAWgXuwjxx9MpXkK9OYiDk+",
+  "snapshot_id": "anPOgAAAAADMH+crYgUXrbk6rSI275eP",
   "tracks": [
     {
       "added_at": null,
@@ -579,18 +579,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everytime You Go Away (From the Documentary \u201cJohn Candy: I Like Me\")",
-        "url": "https://open.spotify.com/album/1WdHwykRftuLBoD4LlzOBg"
+        "name": "Wicked: One Wonderful Night (Live) \u2013 The Soundtrack",
+        "url": "https://open.spotify.com/album/39ixJY2rOByyed4OmCmAe2"
       },
       "artists": [
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 308948,
-      "name": "Everytime You Go Away - From the Documentary \u201cJohn Candy: I Like Me\"",
-      "url": "https://open.spotify.com/track/2m32Fp49p0F3ojwUJ295WC"
+      "duration_ms": 262449,
+      "name": "What Is This Feeling? / Dear Old Shiz - Live from the Dolby Theatre",
+      "url": "https://open.spotify.com/track/1FyZp6tp9oA3KFl9RJvYHR"
     },
     {
       "added_at": null,
@@ -627,22 +631,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wicked: One Wonderful Night (Live) \u2013 The Soundtrack",
-        "url": "https://open.spotify.com/album/39ixJY2rOByyed4OmCmAe2"
+        "name": "Everytime You Go Away (From the Documentary \u201cJohn Candy: I Like Me\")",
+        "url": "https://open.spotify.com/album/1WdHwykRftuLBoD4LlzOBg"
       },
       "artists": [
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 262449,
-      "name": "What Is This Feeling? / Dear Old Shiz - Live from the Dolby Theatre",
-      "url": "https://open.spotify.com/track/1FyZp6tp9oA3KFl9RJvYHR"
+      "duration_ms": 308948,
+      "name": "Everytime You Go Away - From the Documentary \u201cJohn Candy: I Like Me\"",
+      "url": "https://open.spotify.com/track/2m32Fp49p0F3ojwUJ295WC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 183973,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Worst Of Me",
+      "url": "https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB"
     },
     {
       "added_at": null,
@@ -667,38 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Forgive You",
-        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Worst Of Me",
-      "url": "https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 183973,
-      "name": "This Old Heart Of Mine (Is Weak For You)",
-      "url": "https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Color Purple (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
       },
@@ -719,42 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If I Only Had A Brain",
-        "url": "https://open.spotify.com/album/6WbJIiI28ywruLL8J6q1AI"
-      },
-      "artists": [
-        {
-          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
-          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
-        },
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 190026,
-      "name": "If I Only Had A Brain",
-      "url": "https://open.spotify.com/track/1LE5di076Adc2XD45R90gJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Forgive You",
-        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 317650,
-      "name": "Brick By Brick",
-      "url": "https://open.spotify.com/track/7GCqcEKkKh0UscZHU3NoDF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
       },
@@ -771,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
       },
       "artists": [
         {
@@ -780,9 +744,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 232896,
-      "name": "Glowing Up",
-      "url": "https://open.spotify.com/track/5aeUHbWlVXp0TZ0L1tuKsc"
+      "duration_ms": 317650,
+      "name": "Brick By Brick",
+      "url": "https://open.spotify.com/track/7GCqcEKkKh0UscZHU3NoDF"
     },
     {
       "added_at": null,
@@ -807,22 +771,6 @@
       "duration_ms": 247997,
       "name": "When You Believe",
       "url": "https://open.spotify.com/track/3j4uq0VAGJcrsouND9kSe4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Forgive You",
-        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 181696,
-      "name": "How I Could Fall",
-      "url": "https://open.spotify.com/track/4vVUwDdVE0v3FqHy4Aya5Y"
     },
     {
       "added_at": null,
@@ -863,22 +811,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Freedom - EP",
-        "url": "https://open.spotify.com/album/32z9IUjENPdO1FZlgN0t8J"
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
       },
       "artists": [
         {
-          "name": "Anthony Ramos",
-          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 181696,
+      "name": "How I Could Fall",
+      "url": "https://open.spotify.com/track/4vVUwDdVE0v3FqHy4Aya5Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If I Only Had A Brain",
+        "url": "https://open.spotify.com/album/6WbJIiI28ywruLL8J6q1AI"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
         },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 229053,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/6oFsUGtEpV7qZGyYpQGtJe"
+      "duration_ms": 190026,
+      "name": "If I Only Had A Brain",
+      "url": "https://open.spotify.com/track/1LE5di076Adc2XD45R90gJ"
     },
     {
       "added_at": null,
@@ -895,6 +859,42 @@
       "duration_ms": 157966,
       "name": "Si Pudiera Leer Tus Sue\u00f1os",
       "url": "https://open.spotify.com/track/1ZPFEGzfCOQP8qaEhRVNKm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ch. 1 Vs. 1",
+        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 232896,
+      "name": "Glowing Up",
+      "url": "https://open.spotify.com/track/5aeUHbWlVXp0TZ0L1tuKsc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Freedom - EP",
+        "url": "https://open.spotify.com/album/32z9IUjENPdO1FZlgN0t8J"
+      },
+      "artists": [
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 229053,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/6oFsUGtEpV7qZGyYpQGtJe"
     },
     {
       "added_at": null,
@@ -931,6 +931,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ch. 1 Vs. 1",
+        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 220972,
+      "name": "A Window",
+      "url": "https://open.spotify.com/track/188okkDkaxhuwQyNOiqr07"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ocean In The Desert",
         "url": "https://open.spotify.com/album/07nZoKl1t2TWlXhTuN0GsR"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 224643,
       "name": "Ocean In The Desert",
       "url": "https://open.spotify.com/track/5CWX9Qi9qXCM0GufMVTwGT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 220972,
-      "name": "A Window",
-      "url": "https://open.spotify.com/track/188okkDkaxhuwQyNOiqr07"
     }
   ],
   "unique_name": "This Is Cynthia Erivo",

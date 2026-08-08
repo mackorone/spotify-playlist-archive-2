@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5  featuring SLUGZ",
+  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5  featuring Deathpact",
   "name": "Dubstep Don",
   "tracks": [
     {
@@ -954,7 +954,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 195200,
       "name": "ALL GOOD",
       "url": "https://open.spotify.com/track/1aNGUKAjlhR0IZprDvCmE2"
@@ -2051,6 +2051,24 @@
     },
     {
       "album": {
+        "name": "FROM DARKNESS, COMES LIGHT",
+        "url": "https://open.spotify.com/album/1EgMZxkVnf51SVEo5r5Kg0"
+      },
+      "artists": [
+        {
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139166,
+      "name": "BAD LINE",
+      "url": "https://open.spotify.com/track/4U8Cb7HJSR0VmsR8icbcHW"
+    },
+    {
+      "album": {
         "name": "BAD MOFO",
         "url": "https://open.spotify.com/album/0wI74ce9eDJi0S7NXEeCJS"
       },
@@ -2615,6 +2633,24 @@
     },
     {
       "album": {
+        "name": "BE URS",
+        "url": "https://open.spotify.com/album/7KUuZTM4vSUZNXlGeZZ9BK"
+      },
+      "artists": [
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177775,
+      "name": "BE URS",
+      "url": "https://open.spotify.com/track/2ySuwNs2HL3YtpeP2P753p"
+    },
+    {
+      "album": {
         "name": "LEAVING THE WORLD BEHIND",
         "url": "https://open.spotify.com/album/7tJEB5mI2gBZXQ44w3TbYY"
       },
@@ -3060,7 +3096,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 144000,
       "name": "Bing Bong",
       "url": "https://open.spotify.com/track/3yyM82APRc7v9P2jp4zjLE"
@@ -3122,6 +3158,24 @@
       "duration_ms": 216666,
       "name": "Black And Blue",
       "url": "https://open.spotify.com/track/2P0Zjj0EtelNoF1yoP1RhT"
+    },
+    {
+      "album": {
+        "name": "BLACK FLASH",
+        "url": "https://open.spotify.com/album/60wdjRsduv6rMcQp2OFbCu"
+      },
+      "artists": [
+        {
+          "name": "Felmax",
+          "url": "https://open.spotify.com/artist/3oLY5NvzasiNds27QLs9Pa"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "BLACK FLASH",
+      "url": "https://open.spotify.com/track/42PsJv3rptP0CewrgcUq8Z"
     },
     {
       "album": {
@@ -6037,6 +6091,28 @@
     },
     {
       "album": {
+        "name": "Combat Mode",
+        "url": "https://open.spotify.com/album/5Ar0jl6rrQZgEtzNYEkQhz"
+      },
+      "artists": [
+        {
+          "name": "Mushroom Cloud",
+          "url": "https://open.spotify.com/artist/0QHeQhSkpyogo7XNLYx7PU"
+        },
+        {
+          "name": "MontyCler",
+          "url": "https://open.spotify.com/artist/58pVdkxx4UZqPrNAWDdOEw"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "Combat Mode",
+      "url": "https://open.spotify.com/track/0K2T3h3Ng4gnBwoS7JfiPF"
+    },
+    {
+      "album": {
         "name": "Computah",
         "url": "https://open.spotify.com/album/7M3gNOkxKn5ra9Kwxc9Cx1"
       },
@@ -6354,7 +6430,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 214372,
       "name": "CRASH OUT",
       "url": "https://open.spotify.com/track/37SWlw7MnjwthyjTJZKGoy"
@@ -6624,7 +6700,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 171428,
       "name": "D4B",
       "url": "https://open.spotify.com/track/6DSHXVpYslRrFXAOqYaGtM"
@@ -7200,7 +7276,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 219428,
       "name": "DEATHTOUCH",
       "url": "https://open.spotify.com/track/4UvgKnOOtVAH9Q8CwPNj2q"
@@ -9202,7 +9278,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 253714,
       "name": "Echo Chamber",
       "url": "https://open.spotify.com/track/7sJ4ue5uhSaXnNlmBWOyuv"
@@ -10706,7 +10782,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 294857,
       "name": "Fire Linking Curse",
       "url": "https://open.spotify.com/track/2WAjBoUbqzIBES1l2DfmW1"
@@ -11633,6 +11709,28 @@
     },
     {
       "album": {
+        "name": "Fux With Us (feat. TiaCorine)",
+        "url": "https://open.spotify.com/album/3hxSPaPvkCnM6qgm9ld1HR"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163537,
+      "name": "Fux With Us (feat. TiaCorine)",
+      "url": "https://open.spotify.com/track/0dMhvueZHZdHfJN99uMzcb"
+    },
+    {
+      "album": {
         "name": "fuze",
         "url": "https://open.spotify.com/album/4VDKQrc3Pmzz2jAIK9Ndj2"
       },
@@ -11746,7 +11844,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 144214,
       "name": "GAME OVER",
       "url": "https://open.spotify.com/track/7AXFLGN486Pb4mrlGYLNqM"
@@ -13212,15 +13310,11 @@
         {
           "name": "GHENGAR",
           "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
-        },
-        {
-          "name": "Ghastly",
-          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
         }
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 185379,
       "name": "HELP MEEEE!!!",
       "url": "https://open.spotify.com/track/4G9fu12liktH8F1RArNvVz"
@@ -13818,7 +13912,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 221815,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/3C9yejnBmRsD8WHidi4HlL"
@@ -16623,6 +16717,24 @@
     },
     {
       "album": {
+        "name": "Liar Liar",
+        "url": "https://open.spotify.com/album/0pQcVTRF1lzAO6wEmg4cPT"
+      },
+      "artists": [
+        {
+          "name": "Caspa",
+          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Liar Liar",
+      "url": "https://open.spotify.com/track/6SVCXwrkRFlynpDucO2pBY"
+    },
+    {
+      "album": {
         "name": "Light In The Dark (Cyclops Remix)",
         "url": "https://open.spotify.com/album/2NKpPc1aAmB1lHyMdbBC9l"
       },
@@ -17514,7 +17626,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 247904,
       "name": "March of the Machine",
       "url": "https://open.spotify.com/track/2ZhSXdApy452LqJFf7aEwz"
@@ -18744,7 +18856,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 185142,
       "name": "Nekro",
       "url": "https://open.spotify.com/track/48YnJLdCqFsk5M9tebdiLE"
@@ -19880,7 +19992,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 198400,
       "name": "OH NO",
       "url": "https://open.spotify.com/track/123IXt9lJvd2YPEaa0Gfov"
@@ -21074,6 +21186,32 @@
       "duration_ms": 211862,
       "name": "Pit of the Maw",
       "url": "https://open.spotify.com/track/2alDalhotF1t7ldnToc0Ec"
+    },
+    {
+      "album": {
+        "name": "PLANET VOYD (SVDDEN DEATH Remix)",
+        "url": "https://open.spotify.com/album/6pe5TlIY2mhV8XzrnKqWzk"
+      },
+      "artists": [
+        {
+          "name": "Subfiltronik",
+          "url": "https://open.spotify.com/artist/0dhmF9jx0dXyQKkxmb768p"
+        },
+        {
+          "name": "Bommer",
+          "url": "https://open.spotify.com/artist/1SmcVs1Kj8P4OT2D8uIiMx"
+        },
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "PLANET VOYD - SVDDEN DEATH Remix",
+      "url": "https://open.spotify.com/track/56lMugeyLfD3BsnzXzNfG0"
     },
     {
       "album": {
@@ -23721,6 +23859,28 @@
     },
     {
       "album": {
+        "name": "ROT",
+        "url": "https://open.spotify.com/album/2HXBv441PymewSAc7PtsYm"
+      },
+      "artists": [
+        {
+          "name": "Emorfik",
+          "url": "https://open.spotify.com/artist/34bGTqa9HJUnf14IOHt6pc"
+        },
+        {
+          "name": "HEXXA",
+          "url": "https://open.spotify.com/artist/5YaMlt0yXNu3EsmtEUcxZa"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "ROT",
+      "url": "https://open.spotify.com/track/2YjzlKc3ACjWP6c2y1X5l1"
+    },
+    {
+      "album": {
         "name": "Royal Blood",
         "url": "https://open.spotify.com/album/7MucxnzoVlbYHceEqtXkQu"
       },
@@ -24377,6 +24537,24 @@
     },
     {
       "album": {
+        "name": "rebelworld",
+        "url": "https://open.spotify.com/album/5kOToKIKJNTyxADfhCmsiQ"
+      },
+      "artists": [
+        {
+          "name": "VRG",
+          "url": "https://open.spotify.com/artist/56hXYTbEGYdTwI2zjMMcVh"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "seethrough",
+      "url": "https://open.spotify.com/track/1bTgFgJqJbeIf90oY4N9L2"
+    },
+    {
+      "album": {
         "name": "VAMPIRE WEAPON: MIDNIGHT",
         "url": "https://open.spotify.com/album/0RgGfU50FirKB8Du60MTA1"
       },
@@ -24528,6 +24706,24 @@
       "duration_ms": 166285,
       "name": "set me free",
       "url": "https://open.spotify.com/track/5mAQRfPhcawxAwSVcVJOP8"
+    },
+    {
+      "album": {
+        "name": "SEVER THE BLOODLINE, PT. 1",
+        "url": "https://open.spotify.com/album/1Xp46PdPttHzFOq0dhV18j"
+      },
+      "artists": [
+        {
+          "name": "SISTO",
+          "url": "https://open.spotify.com/artist/2M1fROBYTycpAcvsi2zkPJ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253714,
+      "name": "SEVER THE BLOODLINE",
+      "url": "https://open.spotify.com/track/13pF1gpGvXGpjeteauhaPb"
     },
     {
       "album": {
@@ -27263,6 +27459,28 @@
     },
     {
       "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/43RbSseg8UTZ9Ypy8NwHxp"
+      },
+      "artists": [
+        {
+          "name": "Sully",
+          "url": "https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK"
+        },
+        {
+          "name": "Jiqui",
+          "url": "https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176571,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/72cOiHaGs0N7JSHcJiMzi7"
+    },
+    {
+      "album": {
         "name": "Sweet Memories",
         "url": "https://open.spotify.com/album/0s4PnIwk5HR5z4SWMsDqYO"
       },
@@ -27526,7 +27744,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 115200,
       "name": "TACTICAL NUKE",
       "url": "https://open.spotify.com/track/6T66lWaSyt2ueTQ0dWFhBl"
@@ -29015,6 +29233,24 @@
     },
     {
       "album": {
+        "name": "Throw It Up",
+        "url": "https://open.spotify.com/album/32yCWDKsr3wEDexXr6dPZB"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201069,
+      "name": "Throw It Up",
+      "url": "https://open.spotify.com/track/0fLLrfJ4sikNitD6sDg2ne"
+    },
+    {
+      "album": {
         "name": "INFINITE PORTALS",
         "url": "https://open.spotify.com/album/3Ty8uV8M15lueLmF0B1HZT"
       },
@@ -30436,7 +30672,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 200000,
       "name": "Valley Of Violence - Borgore Remix",
       "url": "https://open.spotify.com/track/7b1HBFEWhCtlNnlr2Y4jIV"
@@ -31498,6 +31734,28 @@
       "duration_ms": 147142,
       "name": "WHATCHU KNO ABOUT ME",
       "url": "https://open.spotify.com/track/3kQfFZxiflV6YemCqw6f6X"
+    },
+    {
+      "album": {
+        "name": "WHATEVER HAPPENED TO DUBSTEP",
+        "url": "https://open.spotify.com/album/4D9Yp6XGuC6RO6xwWn58qd"
+      },
+      "artists": [
+        {
+          "name": "BARELY ALIVE",
+          "url": "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
+        },
+        {
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "WHATEVER HAPPENED TO DUBSTEP",
+      "url": "https://open.spotify.com/track/2emabNibRllH5L6CvwX8tP"
     },
     {
       "album": {

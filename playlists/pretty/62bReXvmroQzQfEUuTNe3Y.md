@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 
 > Chill tracks to vibe or relax to in 2026\. Updated weekly!
 
-[selected.](https://open.spotify.com/user/selectedbase) - 2,002,683 likes - 188 songs - 9 hr 28 min
+[selected.](https://open.spotify.com/user/selectedbase) - 2,003,383 likes - 188 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,4 +197,4 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 | 187 | [Caught in a Dream](https://open.spotify.com/track/2aahxM4jGWFWgMzmHpelAR) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na) | [Caught in a Dream](https://open.spotify.com/album/7mGJVmWc4oVS9LUwGVO20x) | 2:45 |
 | 188 | [Figure It Out](https://open.spotify.com/track/65cJdhZ0Kk4yqwGnk72QES) | [Zak Joshua](https://open.spotify.com/artist/2dKZypJTEFmqwehvMnIsWM) | [Figure It Out](https://open.spotify.com/album/5cbVzYvgN4AQRRzp7280Ee) | 3:12 |
 
-Snapshot ID: `AAARTgo/+dJXUlwELXFgoy/OrNc/bpEk`
+Snapshot ID: `AAARUOdMx07CmvPTutPaYK4IeOf0s7tL`

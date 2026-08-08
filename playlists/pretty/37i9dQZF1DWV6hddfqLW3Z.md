@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,364 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,350 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 66 | [A Morte de um Deus de Sal](https://open.spotify.com/track/3tHHQAgaaiV9XvogI00MBy) | [BeBossa](https://open.spotify.com/artist/2DTavIw1X532MxFRMCOgH2), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Matias Correa](https://open.spotify.com/artist/6Sa9JYx0h5j4i8PhAcd5mX), [Marcelo Saboya](https://open.spotify.com/artist/3wZh426oV0fV3qDr2QpfWR), [Zeca Rodrigues](https://open.spotify.com/artist/6q39rdJq2YtJzdgsgG1qfW), [Tom Andrade](https://open.spotify.com/artist/0r1BywD2QhdoQLtr06zPtq) | [A Morte de um Deus de Sal](https://open.spotify.com/album/019T33OgzsIGyamxapvv6V) | 3:23 |
 | 67 | [Infinito em nós](https://open.spotify.com/track/6k6PhENdLggOmmaXkmucTT) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [AFIM](https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7) | 4:10 |
 | 68 | [Abrigo](https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Abrigo](https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E) | 3:43 |
-| 69 | [Amuleto](https://open.spotify.com/track/5JEVbp6mX3umfQePbnN3sE) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Amuleto](https://open.spotify.com/album/4HvVCCgm8aIdaDryqCjMCn) | 3:27 |
-| 70 | [Azul](https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:56 |
+| 69 | [Azul](https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:56 |
+| 70 | [Amuleto](https://open.spotify.com/track/5JEVbp6mX3umfQePbnN3sE) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Amuleto](https://open.spotify.com/album/4HvVCCgm8aIdaDryqCjMCn) | 3:27 |
 
-Snapshot ID: `AAAAALIU5d+R2Xq6wnPt/cRcokWMf/fk`
+Snapshot ID: `AAAAANQmB8TeUQm6WDuZAoq4YMAvPSQs`

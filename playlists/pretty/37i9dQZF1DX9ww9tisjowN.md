@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: King Gnu
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,354 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,409 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [Nannmonee](https://open.spotify.com/track/3XNnq2oo1zmHDseKZKaYEF) | [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [Nannmonee](https://open.spotify.com/album/1VgCfL80E3Guto10xfO83R) | 2:51 |
 | 75 | [LIVING DEAD DINER GIRLS \-HALLOWEEN\-](https://open.spotify.com/track/08Hty7Sm9hIExaAXcQRtdl) | [Tommy heavenly6](https://open.spotify.com/artist/6ClPIi6VMHv2Q3OZ4R17wV), [奥田俊作](https://open.spotify.com/artist/5zR7laF6TkPmDm0sp9hAF7) | [LIVING DEAD DINER GIRLS \-HALLOWEEN\-](https://open.spotify.com/album/1xDOSn5NnyPWD0kVQlCbFX) | 5:53 |
 
-Snapshot ID: `AAAAAKLNjIDcplcpv8L/XXmU81gRyBVT`
+Snapshot ID: `AAAAACZUQLp5CCsHHcRqrIrNFIYr8RFA`

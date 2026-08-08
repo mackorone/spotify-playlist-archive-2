@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 124815,
+  "num_followers": 124840,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIt9xxeZ4AdiUUNe+BLiiA3ZQ50n",
+  "snapshot_id": "AAAAAEW5YfOgTNlUTyDFKWDtgSKCLH4v",
   "tracks": [
     {
       "added_at": "2024-03-25 16:58:35",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "Yankee Hotel Foxtrot",
-        "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Jesus, Etc.",
-      "url": "https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/4B7O0E5V0ntVTz41tCfPdF"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 219226,
       "name": "9 Crimes",
       "url": "https://open.spotify.com/track/08YEGpKt2LHJ0URCXKHEie"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "Yankee Hotel Foxtrot",
+        "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Jesus, Etc.",
+      "url": "https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "Sky Blue Sky",
-        "url": "https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 357160,
-      "name": "Impossible Germany",
-      "url": "https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 286653,
       "name": "The Blower's Daughter",
       "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "Sky Blue Sky",
+        "url": "https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 357160,
+      "name": "Impossible Germany",
+      "url": "https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "Yankee Hotel Foxtrot",
-        "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 418200,
-      "name": "I Am Trying to Break Your Heart",
-      "url": "https://open.spotify.com/track/3HWxpLKnTlz6jE3Vi5dTF2"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "Middle Cyclone",
         "url": "https://open.spotify.com/album/3gMzehYCxYMrW6pYlcThWJ"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 199226,
       "name": "This Tornado Loves You",
       "url": "https://open.spotify.com/track/5FRmsiVS8ybJHQCV0fjuI1"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "Yankee Hotel Foxtrot",
+        "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 418200,
+      "name": "I Am Trying to Break Your Heart",
+      "url": "https://open.spotify.com/track/3HWxpLKnTlz6jE3Vi5dTF2"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "Upper Air",
-        "url": "https://open.spotify.com/album/6j7VkUjGahbmwgPchYezpZ"
-      },
-      "artists": [
-        {
-          "name": "Bowerbirds",
-          "url": "https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Northern Lights",
-      "url": "https://open.spotify.com/track/4r9PnuIGOJOZ6UofWyMdow"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "When the Devil's Loose",
         "url": "https://open.spotify.com/album/3mUX3hUieJOQxmaJLWTuwq"
       },
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "When We Were Small",
-        "url": "https://open.spotify.com/album/5ldZ6r1WahI5BB2MdXF43x"
+        "name": "Upper Air",
+        "url": "https://open.spotify.com/album/6j7VkUjGahbmwgPchYezpZ"
       },
       "artists": [
         {
-          "name": "Rosie Thomas",
-          "url": "https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr"
+          "name": "Bowerbirds",
+          "url": "https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m"
         }
       ],
-      "duration_ms": 190800,
-      "name": "2 Dollar Shoes",
-      "url": "https://open.spotify.com/track/6cpH4I4eWPsWyusvMbpDHY"
+      "duration_ms": 174000,
+      "name": "Northern Lights",
+      "url": "https://open.spotify.com/track/4r9PnuIGOJOZ6UofWyMdow"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -1071,6 +1055,22 @@
       "duration_ms": 244653,
       "name": "Hutterite Mile",
       "url": "https://open.spotify.com/track/6p80ag5QuK3b609DMpD7AM"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "When We Were Small",
+        "url": "https://open.spotify.com/album/5ldZ6r1WahI5BB2MdXF43x"
+      },
+      "artists": [
+        {
+          "name": "Rosie Thomas",
+          "url": "https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "2 Dollar Shoes",
+      "url": "https://open.spotify.com/track/6cpH4I4eWPsWyusvMbpDHY"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 246973,
-      "name": "Little Lion Man",
-      "url": "https://open.spotify.com/track/6JnufVNLIO5F5Lk4sEVLeI"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "A Ways Away",
         "url": "https://open.spotify.com/album/1XZjhJx02YRz8z2EMqKaXw"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 215400,
       "name": "A New Binding",
       "url": "https://open.spotify.com/track/4aWYj1nxzJfRldPr6U9QO8"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 246973,
+      "name": "Little Lion Man",
+      "url": "https://open.spotify.com/track/6JnufVNLIO5F5Lk4sEVLeI"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 217986,
-      "name": "The Cave",
-      "url": "https://open.spotify.com/track/7IxVWmdabNVhfLBV3JD0nJ"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 241546,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/5aGkIyzLVYGuLIHkxpNAFF"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 217986,
+      "name": "The Cave",
+      "url": "https://open.spotify.com/track/7IxVWmdabNVhfLBV3JD0nJ"
     },
     {
       "added_at": "2024-03-25 16:58:35",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
-        "name": "Civilian",
-        "url": "https://open.spotify.com/album/2IWn2PFFPhYexWP8fBDNp9"
-      },
-      "artists": [
-        {
-          "name": "Wye Oak",
-          "url": "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
-        }
-      ],
-      "duration_ms": 220917,
-      "name": "Civilian",
-      "url": "https://open.spotify.com/track/7630alXL5HfQAHQhBam5pJ"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
         "name": "Time (The Revelator)",
         "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 288000,
       "name": "Everything Is Free",
       "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
+        "name": "Civilian",
+        "url": "https://open.spotify.com/album/2IWn2PFFPhYexWP8fBDNp9"
+      },
+      "artists": [
+        {
+          "name": "Wye Oak",
+          "url": "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
+        }
+      ],
+      "duration_ms": 220917,
+      "name": "Civilian",
+      "url": "https://open.spotify.com/track/7630alXL5HfQAHQhBam5pJ"
     },
     {
       "added_at": "2024-03-25 16:58:35",

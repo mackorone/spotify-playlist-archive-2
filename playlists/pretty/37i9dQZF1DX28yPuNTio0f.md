@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28yPuNTio0f.md) - [plain]
 
 > The sound of Summer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,001 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,993 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28yPuNTio0f.md) - [plain]
 | 59 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 |
 | 60 | [Somedays](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Somedays](https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK) | 3:27 |
 
-Snapshot ID: `AAAAANLjkEYO/8cUu2xeyHFWQ4TUSkaj`
+Snapshot ID: `AAAAAIFWT4111A4Jc23NyxCzp4YxWftO`

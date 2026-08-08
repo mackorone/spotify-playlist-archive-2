@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-03",
-  "description": "AAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHH. Beartooth en portada",
+  "description": "AAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHH. Vondr\u00e9 en portada",
   "name": "Dark and Furious",
   "tracks": [
     {
@@ -2380,6 +2380,24 @@
       "duration_ms": 116853,
       "name": "Deep Tracts of Hell",
       "url": "https://open.spotify.com/track/6vRb0kIqO32EQhr1PDULvM"
+    },
+    {
+      "album": {
+        "name": "Dehumanized",
+        "url": "https://open.spotify.com/album/3EtyZfsxMwbL7xyWAh5xPi"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268181,
+      "name": "Dehumanized",
+      "url": "https://open.spotify.com/track/51dD8Lkie7e2ITDsB1y4Ui"
     },
     {
       "album": {
@@ -6611,6 +6629,24 @@
     },
     {
       "album": {
+        "name": "Patito Feo",
+        "url": "https://open.spotify.com/album/45IPQiM0fxJAxskPj19AFg"
+      },
+      "artists": [
+        {
+          "name": "Vondr\u00e9",
+          "url": "https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154715,
+      "name": "Patito Feo",
+      "url": "https://open.spotify.com/track/0gcP9NuauYDnzE85BOBbCd"
+    },
+    {
+      "album": {
         "name": "Pena Sobre Pena",
         "url": "https://open.spotify.com/album/1k8RUmxkZwd0Xj3iSCowKM"
       },
@@ -6998,6 +7034,24 @@
       "duration_ms": 156666,
       "name": "Pyromancer",
       "url": "https://open.spotify.com/track/5bbC1LhM6s7F8vOIOJsRIc"
+    },
+    {
+      "album": {
+        "name": "Metales Pesados",
+        "url": "https://open.spotify.com/album/70uJ6Bd2dJIEaB6VJCFgSN"
+      },
+      "artists": [
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Quema Los Recuerdos",
+      "url": "https://open.spotify.com/track/6HEA8aeNZeAuh0jqOwFkkT"
     },
     {
       "album": {

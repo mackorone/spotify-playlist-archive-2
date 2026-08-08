@@ -4,7 +4,7 @@
 
 > ➡️ ➡️ ➡️ gute Laune.
 
-307 songs - 15 hr 2 min
+308 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Bella Napoli](https://open.spotify.com/track/1W14FFFgsM0m6DUt3Tf6NP) | [Roy Bianco & Die Abbrunzati Boys](https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz) | [Mille Grazie](https://open.spotify.com/album/6vQyF8fixVpBo93bThDEQD) | 3:55 | 2024-10-18 | 2026-06-17 |
 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2023-07-21 |  |
 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-03-27 |  |
-| [Best Day Of My Life](https://open.spotify.com/track/0Dho96aJIZ5LJZXyPllbWA) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/08QA1LIBYfgH1j3yfnjY1O) | 3:14 | 2025-02-27 |  |
+| [Best Day Of My Life](https://open.spotify.com/track/0Dho96aJIZ5LJZXyPllbWA) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/08QA1LIBYfgH1j3yfnjY1O) | 3:14 | 2025-02-27 | 2026-08-08 |
 | [Better Me](https://open.spotify.com/track/7JStcVqmZ7NbI76tRerzaB) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Better Me](https://open.spotify.com/album/5IYf8D3VoKSaFcDJm6o9qL) | 2:46 | 2023-09-26 | 2023-10-21 |
 | [Blah Blah Blah](https://open.spotify.com/track/6jeQXCVFBVAKHiTMsKbXj1) | [R2](https://open.spotify.com/artist/3xhbIC0yb4Q7J6MWOiXxUa) | [Blah Blah Blah](https://open.spotify.com/album/79F4pbwzCRq38AF5feQziU) | 1:40 | 2026-05-21 |  |
 | [Blindside](https://open.spotify.com/track/5BPy4CFuroB7vFbZ6M9vES) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Blindside](https://open.spotify.com/album/1RvvpYObiXki55iPrP8EVQ) | 3:31 | 2023-11-10 | 2023-12-27 |
@@ -186,6 +186,7 @@
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2024-03-06 |  |
 | [Lose Myself](https://open.spotify.com/track/0e5K24g47Xze7bR6eftsHT) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Lose Myself / I Wanna](https://open.spotify.com/album/5pLDXKmvchaKPLdI93TAjH) | 2:46 | 2026-06-18 | 2026-07-17 |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-02-21 |  |
+| [Love Sensation \- Afterhours Radio Edit](https://open.spotify.com/track/6mqNeI1TJomhLrDzY66uQw) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Love Sensation](https://open.spotify.com/album/4b0rAUWZJA6s3RQC3zIguc) | 3:35 | 2026-08-07 |  |
 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 | 2026-01-09 |  |
 | [Magic Moment \(feat\. Chris de Sarandy\)](https://open.spotify.com/track/7A1eqPiX6pS3g1nJ8M49UT) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Chris de Sarandy](https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X) | [Magic Moment \(feat\. Chris de Sarandy\)](https://open.spotify.com/album/1AuHca0GpQIDkoAthtwzo9) | 2:25 | 2024-06-17 | 2025-02-23 |
 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-04-16 | 2024-05-23 |

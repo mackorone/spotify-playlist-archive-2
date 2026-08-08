@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 74163,
+  "num_followers": 74172,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAB9DRrx27rPL82Aj1A/FKCJ",
+  "snapshot_id": "anPOgAAAAAA/UY+gOTIO+GxJZtyjXwEC",
   "tracks": [
     {
       "added_at": null,
@@ -339,26 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Un Mal Amor",
-        "url": "https://open.spotify.com/album/01twnCwIBQr3rXrZZ7wqwU"
-      },
-      "artists": [
-        {
-          "name": "Mariana Seoane",
-          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 193998,
-      "name": "Por Un Mal Amor",
-      "url": "https://open.spotify.com/track/4JGg4fltXFr17DmZWAtEv2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Volviera A Nacer",
         "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 224333,
       "name": "Si Volviera A Nacer",
       "url": "https://open.spotify.com/track/6K7J8BsFt49NA2Hx35RI4v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Un Mal Amor",
+        "url": "https://open.spotify.com/album/01twnCwIBQr3rXrZZ7wqwU"
+      },
+      "artists": [
+        {
+          "name": "Mariana Seoane",
+          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 193998,
+      "name": "Por Un Mal Amor",
+      "url": "https://open.spotify.com/track/4JGg4fltXFr17DmZWAtEv2"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Blood (Una Sangre)",
-        "url": "https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 237933,
-      "name": "Cielo Rojo",
-      "url": "https://open.spotify.com/track/7DZ8PrFCOtxR1VSFqKm2HT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa' que Sientas Lo Que Siento",
         "url": "https://open.spotify.com/album/5zStXpEXkdFiKGVu0AR1Q3"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 190893,
       "name": "No Me Amenaces (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/3wjHY9iOulWhaLmEfJNUTk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Blood (Una Sangre)",
+        "url": "https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 237933,
+      "name": "Cielo Rojo",
+      "url": "https://open.spotify.com/track/7DZ8PrFCOtxR1VSFqKm2HT"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Alma De Lila Downs",
+        "url": "https://open.spotify.com/album/78cEKu2fMM5fo0TAsBHcRT"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "Naila",
+      "url": "https://open.spotify.com/track/3doaeUZd2v2BbYTJLYUytI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Marcha de la Vida",
         "url": "https://open.spotify.com/album/7cdhRB4dbNZJMn1OafvISD"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 269133,
       "name": "Calaveras",
       "url": "https://open.spotify.com/track/6PO6PjA5zvQ9gCAFjDAG8D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Alma De Lila Downs",
-        "url": "https://open.spotify.com/album/78cEKu2fMM5fo0TAsBHcRT"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "Naila",
-      "url": "https://open.spotify.com/track/3doaeUZd2v2BbYTJLYUytI"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cambias Mi Mundo",
-        "url": "https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 283484,
-      "name": "La Pochota",
-      "url": "https://open.spotify.com/track/6qIESe8iP3TuFCeVSBADjQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En El \u00daltimo Trago",
         "url": "https://open.spotify.com/album/54zPJXpQnBrIHKSfWY4cF6"
       },
@@ -795,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cambias Mi Mundo",
+        "url": "https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 283484,
+      "name": "La Pochota",
+      "url": "https://open.spotify.com/track/6qIESe8iP3TuFCeVSBADjQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Frida (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1VU7NezUvswRnFjNM0M5li"
       },
@@ -811,26 +811,6 @@
       "duration_ms": 140493,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/1W88VFG7s2ufqQWW0b1xA8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cambias Mi Mundo",
-        "url": "https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        }
-      ],
-      "duration_ms": 248628,
-      "name": "Amo-Te",
-      "url": "https://open.spotify.com/track/0AabcViZoMbsqugFY9Fo34"
     },
     {
       "added_at": null,
@@ -871,6 +851,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cambias Mi Mundo",
+        "url": "https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        }
+      ],
+      "duration_ms": 248628,
+      "name": "Amo-Te",
+      "url": "https://open.spotify.com/track/0AabcViZoMbsqugFY9Fo34"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Balas y Chocolate",
         "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
       },
@@ -883,22 +883,6 @@
       "duration_ms": 210506,
       "name": "Balas y Chocolate",
       "url": "https://open.spotify.com/track/4uBUbb8FO5PSXBEcGy9TTG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cambias Mi Mundo",
-        "url": "https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 256655,
-      "name": "La Pesca",
-      "url": "https://open.spotify.com/track/3SggDme3YbOnNDesbeZRMH"
     },
     {
       "added_at": null,
@@ -943,22 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La S\u00e1nchez",
-        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 185923,
-      "name": "Conjuro",
-      "url": "https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cambias Mi Mundo",
         "url": "https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06"
       },
@@ -975,6 +943,22 @@
       "duration_ms": 226013,
       "name": "El Jard\u00edn del Placer",
       "url": "https://open.spotify.com/track/2fqClf29qnE9n2zHp9lNc5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La S\u00e1nchez",
+        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 185923,
+      "name": "Conjuro",
+      "url": "https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN"
     },
     {
       "added_at": null,
@@ -1015,6 +999,22 @@
       "duration_ms": 187186,
       "name": "El Relampago",
       "url": "https://open.spotify.com/track/0x5CGLK5BTGAbn8CZqwidU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cambias Mi Mundo",
+        "url": "https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 256655,
+      "name": "La Pesca",
+      "url": "https://open.spotify.com/track/3SggDme3YbOnNDesbeZRMH"
     }
   ],
   "unique_name": "This Is Lila Downs",

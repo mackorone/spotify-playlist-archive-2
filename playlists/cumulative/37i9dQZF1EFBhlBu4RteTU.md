@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2TvuFmg5Ep8sodlGHVo1DI">Daniel Nigro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-200 songs - 11 hr 48 min
+202 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Door](https://open.spotify.com/track/5YIVVzQcJG7pFhyNo0Ytlh) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 5:22 | 2026-06-10 |  |
 | [Dreamer](https://open.spotify.com/track/7asFG5jEyzbl3sYRHIpRyg) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:01 | 2026-06-10 |  |
 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 | 2026-06-10 |  |
+| [drop dead](https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY) | 3:44 | 2026-08-07 |  |
 | [Dust](https://open.spotify.com/track/0gp6wPoPamLLwYup5Rimba) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7), [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [After The Landslide](https://open.spotify.com/album/3KYIEsx3p2h8mtxWBXdVEG) | 3:18 | 2026-06-10 |  |
 | [Everything Affects Me Now](https://open.spotify.com/track/1N4NHsiQgRJ2rgiBTmW89l) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Wherever I Go, I Want To Leave](https://open.spotify.com/album/4blsuHsL3FdV5hwoKAk7nS) | 2:55 | 2026-06-10 |  |
 | [Expectations](https://open.spotify.com/track/0szn6KlDyizhkoPL62782A) | [Lo Moon](https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg) | [A Modern Life](https://open.spotify.com/album/7pvyFbfqAn806uiltQVpqt) | 3:50 | 2026-06-10 |  |
@@ -165,6 +166,7 @@
 | [teenage dream](https://open.spotify.com/track/7fesNTgTEMEH0ye8MOgEDY) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:42 | 2026-06-10 |  |
 | [That’s So Funny](https://open.spotify.com/track/58GzB1Ag0nyo2kjuGgmLax) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:49 | 2026-06-10 |  |
 | [The City](https://open.spotify.com/track/7C7W7eWJj5UEGhNtBMmJ0k) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [LETTERS: VOL\. 1](https://open.spotify.com/album/7M0VWIMZXsm2RKtHYHHkaQ) | 4:10 | 2026-06-10 |  |
+| [the cure](https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 4:57 | 2026-08-07 |  |
 | [The Day I Died](https://open.spotify.com/track/5tMnXgdL5Cpq3m197gXAoT) | [Alex Winston](https://open.spotify.com/artist/3REwdws53wUuid8AatTTMh) | [The Day I Died EP](https://open.spotify.com/album/4WwfZJzGAqUSriiqSnIfZT) | 3:31 | 2026-06-10 |  |
 | [The Deer or the Hunter](https://open.spotify.com/track/08P5TOypbpQP1rbQlMyRpQ) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [EP No\. 1](https://open.spotify.com/album/3mWJLnK2IBsZF10S9sjJVO) | 3:37 | 2026-06-10 |  |
 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2026-06-10 |  |

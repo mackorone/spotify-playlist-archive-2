@@ -1,12 +1,12 @@
 {
   "description": "The ultimate chilled soundtrack to bring your day to a close.",
-  "num_followers": 680116,
+  "num_followers": 680340,
   "original_name": "Ibiza Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOKAFHl5uTUgqXXEkt2Y1uE1fOvA",
+  "snapshot_id": "AAAAAD04XXOq6Y9fXyKgZgnENAdHAPVc",
   "tracks": [
     {
       "added_at": "2026-07-23 15:30:48",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-07-23 15:30:48",
       "album": {
-        "name": "Sisters and Brothers",
-        "url": "https://open.spotify.com/album/1L6XROA4tB3v2Vxe4pfhyN"
-      },
-      "artists": [
-        {
-          "name": "TMPLE",
-          "url": "https://open.spotify.com/artist/1cVyy9YlIG2TVbohGYiYS8"
-        }
-      ],
-      "duration_ms": 247781,
-      "name": "Sisters and Brothers",
-      "url": "https://open.spotify.com/track/56SDusGcG8YbuZp3DPLfx9"
-    },
-    {
-      "added_at": "2026-07-23 15:30:48",
-      "album": {
         "name": "Most Perfect People (Are Mostly Not Perfect)",
         "url": "https://open.spotify.com/album/6K7WuxpOo0zujnk4lJ23SY"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 185806,
       "name": "Most Perfect People (Are Mostly Not Perfect)",
       "url": "https://open.spotify.com/track/6xTyX0WLjYpm5iZP1DJwvS"
+    },
+    {
+      "added_at": "2026-07-23 15:30:48",
+      "album": {
+        "name": "Sisters and Brothers",
+        "url": "https://open.spotify.com/album/1L6XROA4tB3v2Vxe4pfhyN"
+      },
+      "artists": [
+        {
+          "name": "TMPLE",
+          "url": "https://open.spotify.com/artist/1cVyy9YlIG2TVbohGYiYS8"
+        }
+      ],
+      "duration_ms": 247781,
+      "name": "Sisters and Brothers",
+      "url": "https://open.spotify.com/track/56SDusGcG8YbuZp3DPLfx9"
     },
     {
       "added_at": "2026-07-23 15:30:48",

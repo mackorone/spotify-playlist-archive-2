@@ -1,13 +1,29 @@
 {
   "description": "\u00a1Estos son los hits de la electr\u00f3nica en el 2026!",
-  "num_followers": 752690,
+  "num_followers": 752752,
   "original_name": "Electr\u00f3nica & Dance Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJKzoy7t4M+Ry1JV5auw/V7cJ9fU",
+  "snapshot_id": "AAAAAMYFLai5C3SUZ6xiXlnUiivgCrnW",
   "tracks": [
+    {
+      "added_at": "2026-08-07 04:59:15",
+      "album": {
+        "name": "LIFE",
+        "url": "https://open.spotify.com/album/0vL3Vv27UfbRVLL7B9j1ab"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "duration_ms": 232306,
+      "name": "this is the moment (cuerpo)",
+      "url": "https://open.spotify.com/track/1AF9gqUhT9jyOHDzDUTZMc"
+    },
     {
       "added_at": "2026-02-27 04:59:16",
       "album": {
@@ -51,6 +67,26 @@
       "duration_ms": 286243,
       "name": "Read My Lips",
       "url": "https://open.spotify.com/track/7b6MZDwKVjewryWMS2mFvA"
+    },
+    {
+      "added_at": "2026-08-07 04:59:15",
+      "album": {
+        "name": "9 months & 50 hours",
+        "url": "https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 238050,
+      "name": "Alvafro",
+      "url": "https://open.spotify.com/track/5PE1xJ7cIpJbVqqrKtQxJJ"
     },
     {
       "added_at": "2026-02-27 04:59:16",

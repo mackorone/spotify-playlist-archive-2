@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 
 > This is Mastodon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,919 likes - 49 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,933 likes - 49 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 | 44 | [The Sparrow](https://open.spotify.com/track/68LvFcDLqo1cejJi9oVVOV) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter \(Deluxe\)](https://open.spotify.com/album/7lObP1GanG65wToWzufQtq) | 5:30 |
 | 45 | [North Side Star](https://open.spotify.com/track/5BLSVhMrtqVBjKREM6rY1z) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Cold Dark Place](https://open.spotify.com/album/6uSD9SU0j8xgQAIxzPg0Fv) | 6:10 |
 | 46 | [Stairway to Heaven](https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Stairway to Nick John](https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e) | 8:05 |
-| 47 | [Stargasm](https://open.spotify.com/track/5QMcwznMFieF1zUUElE5TR) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter](https://open.spotify.com/album/1PadLnQYelMqqSlPbSEWZ1) | 4:39 |
-| 48 | [March of the Fire Ants](https://open.spotify.com/track/1KcVOoLXfpbadmBz0HkJ1r) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Remission](https://open.spotify.com/album/1aQZecM7d2R3SvPs2HNNIA) | 4:25 |
+| 47 | [March of the Fire Ants](https://open.spotify.com/track/1KcVOoLXfpbadmBz0HkJ1r) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Remission](https://open.spotify.com/album/1aQZecM7d2R3SvPs2HNNIA) | 4:25 |
+| 48 | [Stargasm](https://open.spotify.com/track/5QMcwznMFieF1zUUElE5TR) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter](https://open.spotify.com/album/1PadLnQYelMqqSlPbSEWZ1) | 4:39 |
 | 49 | [Black Tongue](https://open.spotify.com/track/0KdjtHI5Acg6SMoomxQaCb) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter](https://open.spotify.com/album/1PadLnQYelMqqSlPbSEWZ1) | 3:27 |
 
-Snapshot ID: `anJ9AAAAAAAvjoFQuxTCPcJmmKrODROc`
+Snapshot ID: `anPOgAAAAABKOQQcdXQGX66aqqmn3NdU`

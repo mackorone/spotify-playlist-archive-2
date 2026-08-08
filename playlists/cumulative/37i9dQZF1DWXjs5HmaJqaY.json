@@ -994,7 +994,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 301500,
       "name": "Busy Ants - Olympe Remix",
       "url": "https://open.spotify.com/track/0Ec9enRBb3T7PxWKBx1AgP"
@@ -2866,7 +2866,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 387555,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/041C78qqcmlvop1hGYtqGP"
@@ -4756,6 +4756,28 @@
       "duration_ms": 383698,
       "name": "Moulin Rouge",
       "url": "https://open.spotify.com/track/3HVuI6V6SO1kycXAPF4Ti6"
+    },
+    {
+      "album": {
+        "name": "Move Again",
+        "url": "https://open.spotify.com/album/3cKjQnF7iweIYfXDRvzoJS"
+      },
+      "artists": [
+        {
+          "name": "NELL",
+          "url": "https://open.spotify.com/artist/7Mzvd0tgZVSMABUtfT849M"
+        },
+        {
+          "name": "Tarania",
+          "url": "https://open.spotify.com/artist/2Bx8ng6VxOmUIr18SpPwQD"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159152,
+      "name": "Move Again",
+      "url": "https://open.spotify.com/track/6o4e7JQqiOYKiueHpHuir1"
     },
     {
       "album": {

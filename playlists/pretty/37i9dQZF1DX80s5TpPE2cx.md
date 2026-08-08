@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 
 > The songs that defined Nigeria's Alté era\. Cover: Amaarae
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,129 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,136 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 31 | [Pull Up](https://open.spotify.com/track/4cobcXNVYowm5a8gdfCsiz) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Santi](https://open.spotify.com/artist/4B0NjjLmANzqttcCrw9VeF) | [Everything Pretty](https://open.spotify.com/album/5C0aXCJzr9tBP7iWvuWBGs) | 3:22 |
 | 32 | [SARO](https://open.spotify.com/track/6PnGYVp7RwB5m3qMoD7ldp) | [Jinmi Abduls](https://open.spotify.com/artist/22t8cDfMqrZPXSgepZNY4W) | [SARO](https://open.spotify.com/album/1JdN8S4EfHgISO3mx9medU) | 3:02 |
 | 33 | [All Night](https://open.spotify.com/track/25uJVYALP00tDoPMUzquV7) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [All Night](https://open.spotify.com/album/2B6i1KEFu7lM0zkOB8eMX9) | 2:41 |
-| 34 | [Sweet Life](https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Sweet Life](https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO) | 3:06 |
-| 35 | [Desire \(feat\. Funbi & Tay Iwar\)](https://open.spotify.com/track/1MJJ9lXWKHjRdWxSk3BpTo) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Higo](https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0), [Funbi](https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Desire \(feat\. Funbi & Tay Iwar\)](https://open.spotify.com/album/4MHuKMcLChLqDdbLtwlmqm) | 4:05 |
+| 34 | [Desire \(feat\. Funbi & Tay Iwar\)](https://open.spotify.com/track/1MJJ9lXWKHjRdWxSk3BpTo) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Higo](https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0), [Funbi](https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Desire \(feat\. Funbi & Tay Iwar\)](https://open.spotify.com/album/4MHuKMcLChLqDdbLtwlmqm) | 4:05 |
+| 35 | [Sweet Life](https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Sweet Life](https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO) | 3:06 |
 | 36 | [MONICA](https://open.spotify.com/track/0GWX9HNUu2qZT16FAoBENM) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [GEMINI](https://open.spotify.com/album/6Vj6WP5MosdtM023SqTAul) | 3:51 |
 | 37 | [After Six](https://open.spotify.com/track/7F6qYyok4jAAabN9mDIVig) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tomi Agape](https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd), [Santi](https://open.spotify.com/artist/4TksvAnPyPpUidSjaJQJL6) | [Leap of Faith](https://open.spotify.com/album/3uLsdCbIIo6hGgbsCmZOzl) | 3:51 |
 | 38 | [Confess](https://open.spotify.com/track/39SPbq7NgY7ZzKQUf1G0sr) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [MASTA](https://open.spotify.com/album/2iP4ZuUASwpZUVW0IMYIIw) | 2:40 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 44 | [Broken Promises](https://open.spotify.com/track/0Pt9qTpPhwNV8qmbYWYv4V) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Summer Breeze](https://open.spotify.com/album/2YZpIbvbQ8XSJbak4KeocR) | 3:11 |
 | 45 | [LEANING](https://open.spotify.com/track/0WGjqLXOGnMWXG1fI40k6q) | [Joeyturks](https://open.spotify.com/artist/6MGNEVLKS1wNO16bYvHwvL), [boistory](https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc) | [LEANING](https://open.spotify.com/album/1JKwY9rq8E5f5eARL2JQXO) | 2:33 |
 | 46 | [Maame Water](https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Maame Water](https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS) | 2:59 |
-| 47 | [MINISKIRT](https://open.spotify.com/track/7FPWS5kOCG1aLxsbQ9RmU0) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL), [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [MINISKIRT](https://open.spotify.com/album/3OgE1xXu2rY3uXj3MWJxIo) | 2:04 |
-| 48 | [Operation](https://open.spotify.com/track/3OQdtUt44IXKDeU1NDUy6e) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [WINNY](https://open.spotify.com/album/4MeI2R28SeauCi3fhQmcG5) | 3:17 |
+| 47 | [Operation](https://open.spotify.com/track/3OQdtUt44IXKDeU1NDUy6e) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [WINNY](https://open.spotify.com/album/4MeI2R28SeauCi3fhQmcG5) | 3:17 |
+| 48 | [MINISKIRT](https://open.spotify.com/track/7FPWS5kOCG1aLxsbQ9RmU0) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL), [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [MINISKIRT](https://open.spotify.com/album/3OgE1xXu2rY3uXj3MWJxIo) | 2:04 |
 | 49 | [Wuse II](https://open.spotify.com/track/41yLugtcD4QVDjtPHrAgR1) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Wuse II \(feat\. Odunsi\)](https://open.spotify.com/album/1DOkkzuEmitZrcmMX6ukkg) | 4:29 |
 | 50 | [China Designer](https://open.spotify.com/track/67OocI3BccxEbDwPoJGwk0) | [WANI](https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt) | [Lagos City Vice](https://open.spotify.com/album/4ogJSCLn5r8ShZZdAnlBj5) | 2:52 |
 | 51 | [Freaky](https://open.spotify.com/track/4l4GKn42jsZItX8FDdTet4) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Freaky](https://open.spotify.com/album/6Pu1lSXtiqJ06JbfpR9x8h) | 3:57 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80s5TpPE2cx.md) - [plain]
 | 59 | [TheBox](https://open.spotify.com/track/55R9jXpjIkCPMiYzbOzkAV) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Passport](https://open.spotify.com/album/5pQXeCuA6l4kmhWzh4lsig) | 3:55 |
 | 60 | [Coconut Lips](https://open.spotify.com/track/1IZJ3PvtyeRGmWDyH7IJfV) | [GMK](https://open.spotify.com/artist/7dz7BZ952Sbbmww6Y7ix1G), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR) | [Coconut Lips](https://open.spotify.com/album/6MsvVk2Ts2wITEcov3Zz5Q) | 3:35 |
 
-Snapshot ID: `AAAAACeNiQPcW7m7Sjyr/QfvMZ+aWQBp`
+Snapshot ID: `AAAAAJPDqcUB5SU1hHZGpCYVv31c4hP8`

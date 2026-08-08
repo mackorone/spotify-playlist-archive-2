@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 
 > La fiesta se enciende con cumbia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,290 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,316 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 89 | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND) | 7:08 |
 | 90 | [Una Copita Más](https://open.spotify.com/track/1ak6zgnVOvIJD55he7nwzg) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Onda Nueva](https://open.spotify.com/album/55KEMrdQ5yKqanjD9OyX3T) | 4:30 |
 | 91 | [La Cumbia De Los Trapos](https://open.spotify.com/track/3hFYJSfGQgEOXfMAHL30Tl) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [20 Grandes Exitos](https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj) | 4:11 |
-| 92 | [Solo por Ella / Ya Te Olvide \- Mujer](https://open.spotify.com/track/3I9THaUgfGOZh21DxuvJEx) | [Grupo Alegria](https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg) | [La Fiesta](https://open.spotify.com/album/5A55xJHGGZqrwiXvSF47iM) | 7:01 |
-| 93 | [Loca](https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Plato Único Bailable](https://open.spotify.com/album/14cao29REfwt7L3liH4hQh) | 3:08 |
+| 92 | [Romance Ilegal](https://open.spotify.com/track/1hIO3CXZoRqO2457LOCAJt) | [Grupo Hechizo Chile](https://open.spotify.com/artist/0vPUBMfIYujmPFD1OwdfTM) | [Grandes Exitos](https://open.spotify.com/album/3Sgf6BKnsUYi1NhceV8Xgf) | 3:12 |
+| 93 | [Solo por Ella / Ya Te Olvide \- Mujer](https://open.spotify.com/track/3I9THaUgfGOZh21DxuvJEx) | [Grupo Alegria](https://open.spotify.com/artist/5j0zxJF926wIDiCXMmJGkg) | [La Fiesta](https://open.spotify.com/album/5A55xJHGGZqrwiXvSF47iM) | 7:01 |
 | 94 | [Otro Día Más](https://open.spotify.com/track/0ccUrj1mliFnR8R8VxCmKO) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK) | [Otro Día Más](https://open.spotify.com/album/4cNI3cWCuif3oiew8cI8ye) | 3:22 |
 | 95 | [Haciendo el Amor](https://open.spotify.com/track/5lIWfnNZSSm4BA5xggmwVY) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Quiéreme](https://open.spotify.com/album/4M0d3bxdMp3u48eEpbxPoU) | 3:44 |
-| 96 | [Algún Día Volverás](https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Algún Día Volverás](https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i) | 4:13 |
-| 97 | [La Santa Diabla](https://open.spotify.com/track/4FeUB6lhoT0Z3e43IHD4F8) | [Peregrinos del Amor](https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM) | [Sueño Su Boca](https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr) | 5:56 |
-| 98 | [Adiós Amor](https://open.spotify.com/track/367069JY6QWPaCJM21OVBC) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Adiós Amor](https://open.spotify.com/album/14am71BKAcj6UvGOIXoo6e) | 4:19 |
+| 96 | [Loca](https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Plato Único Bailable](https://open.spotify.com/album/14cao29REfwt7L3liH4hQh) | 3:08 |
+| 97 | [Algún Día Volverás](https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Algún Día Volverás](https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i) | 4:13 |
+| 98 | [La Santa Diabla](https://open.spotify.com/track/4FeUB6lhoT0Z3e43IHD4F8) | [Peregrinos del Amor](https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM) | [Sueño Su Boca](https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr) | 5:56 |
 | 99 | [Como la Flor](https://open.spotify.com/track/52yp1caEYyP1w9qFINypd1) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Como la Flor](https://open.spotify.com/album/0sFQOhf7QVnWlQzkOnyTyp) | 3:03 |
 | 100 | [Acercate MI Amor](https://open.spotify.com/track/0drMB4P0bjoRrSQTKKlpkx) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Onda Tropical](https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu) | 4:15 |
 
-Snapshot ID: `AAAAAOMLkJ+D4VSeJgTjRFfg/K9bRLV5`
+Snapshot ID: `AAAAAM4be/ePbWFS/IzHKRls/9wykklh`

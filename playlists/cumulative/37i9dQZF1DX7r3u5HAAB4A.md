@@ -2,9 +2,9 @@
 
 ### [Fever](https://open.spotify.com/playlist/37i9dQZF1DX7r3u5HAAB4A)
 
-> A melting pot of Caribbean culture\. Cover: Buju Banton
+> A melting pot of Caribbean culture\. Cover: Original Koffee
 
-362 songs - 17 hr 45 min
+364 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Pretty Crew](https://open.spotify.com/track/3prnPj3VfcbdaFevDS5SRC) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Disaster Music](https://open.spotify.com/artist/4U03r7jd8c2PLo2LpIErrR) | [Pretty Crew](https://open.spotify.com/album/17zxJcwYuRxciXE6VsGHB3) | 3:06 | 2025-08-01 |  |
 | [Pretty Dolly](https://open.spotify.com/track/2j5bvRhftjtpup4epaJCdC) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Pretty Dolly](https://open.spotify.com/album/3UhEh7jggM1XTpsXRvggUP) | 2:48 | 2025-11-07 | 2026-04-18 |
 | [Pretty Girl](https://open.spotify.com/track/35oaZI1g9cQ221iiKuzeEh) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Pretty Girl](https://open.spotify.com/album/6ZELdkfkHUyTbVQU8J4sNb) | 3:16 | 2025-05-16 | 2025-06-07 |
+| [Private Chef \(feat\. MC Morena\)](https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX) | [R.U\. \(Raw & Unfiltered\) Vol.1](https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE) | 3:20 | 2026-08-07 |  |
 | [Protocol](https://open.spotify.com/track/0o5lWtD85zCURUU1bXj7mQ) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh), [1stClass](https://open.spotify.com/artist/2Ij4d78H8hZnKFSqX1gAwp) | [Protocol](https://open.spotify.com/album/6fFf508XCDkYrYVU8gZGLD) | 3:19 | 2024-12-06 |  |
 | [Prove Them Wrong \(feat\. 450\)](https://open.spotify.com/track/1bvafna1PdpFWzEFpcaqfc) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL) | [Prove Them Wrong](https://open.spotify.com/album/4wq0ynVCbHno5QJFuAR1yZ) | 3:27 | 2025-05-23 | 2025-06-21 |
 | [Puni Police](https://open.spotify.com/track/1CpxwBZITPEAlKQHVwVHWy) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [Puni Police](https://open.spotify.com/album/4YHREA1du2lfRzGtmtrW09) | 2:44 | 2025-01-31 | 2025-03-01 |
@@ -298,6 +299,7 @@
 | [Str8 Vybz](https://open.spotify.com/track/2IkaY20NsArTchrbGCmc6g) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Str8 Vybz](https://open.spotify.com/album/0KoWIs2inu6HLYuwGshLsq) | 2:18 | 2025-01-17 | 2025-02-01 |
 | [Stripper Style](https://open.spotify.com/track/0k5COCf4gpojVqifPM1I2y) | [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s), [Jazzwad](https://open.spotify.com/artist/4nEEsPXHPBp67IYOsrEwNF) | [Stripper Style](https://open.spotify.com/album/1ySnmqnNbuL7opF16s3iEw) | 2:07 | 2025-12-12 |  |
 | [STRUGGLE \(feat\. Buju Banton & Jaz Karis\)](https://open.spotify.com/track/6OuxDBhLkZNPgpUlFdMfuu) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [ÈKÓ GROOVE](https://open.spotify.com/album/2F8tF7YFS8ZJCJ57x9Xi8z) | 4:22 | 2025-08-29 |  |
+| [SUMMER FRUITS \(NA NA\)](https://open.spotify.com/track/4RDnbivXejcWXW4Urdwsla) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [SUMMER FRUITS \(NA NA\)](https://open.spotify.com/album/3HA0DrSHzmKNQwCSaWSXkm) | 2:26 | 2026-08-07 |  |
 | [Sun Up](https://open.spotify.com/track/3ZKhXv0aaljAtRiNSmeeQ1) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Sun Up / Hilly Fields](https://open.spotify.com/album/7sXsYf2LZtjYhvv9oB0eHc) | 2:36 | 2026-07-24 |  |
 | [Survivor](https://open.spotify.com/track/7EHdJHByG2AJXVSbJ5QeO4) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Kkrytical](https://open.spotify.com/artist/6eN8BCIBKE4evQw4WVWca9) | [Survivor](https://open.spotify.com/album/6r03S0gKN3PGqYrBThOlT6) | 3:14 | 2025-09-05 | 2026-04-18 |
 | [Sweat \(Part II\)](https://open.spotify.com/track/0GjbPnBfzwJo72FoheuAs9) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Sweat \(Part II\)](https://open.spotify.com/album/2bG3STvDHy9pIxZWN86BtA) | 3:50 | 2024-09-27 |  |

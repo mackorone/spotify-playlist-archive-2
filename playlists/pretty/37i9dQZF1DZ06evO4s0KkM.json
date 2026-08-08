@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 127117,
+  "num_followers": 127131,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAAb4ycsxRZFETV5KSQKnfBp",
+  "snapshot_id": "anPOgAAAAAD5LhXqlNGLpack14nCu35W",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Warrior's Code",
-        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 161026,
-      "name": "The Auld Triangle",
-      "url": "https://open.spotify.com/track/0waMJXxhuGuyTt8epERx7m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
       },
@@ -555,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Warrior's Code",
+        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 161026,
+      "name": "The Auld Triangle",
+      "url": "https://open.spotify.com/track/0waMJXxhuGuyTt8epERx7m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Do Or Die",
         "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
       },
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 109134,
-      "name": "Cadence To Arms",
-      "url": "https://open.spotify.com/track/5YHOnqIrjhRy5ThzFRWONC"
+      "duration_ms": 139152,
+      "name": "Finnegan's Wake",
+      "url": "https://open.spotify.com/track/5L7nmlaU9TO3PZ8b7cVNqE"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Meanest of Times (Limited Edition)",
-        "url": "https://open.spotify.com/album/4tqRdOGCDOT38iLFojyyuX"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 196693,
-      "name": "God Willing",
-      "url": "https://open.spotify.com/track/6amL7Sov9asiwtCWN3gj8p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
       },
@@ -619,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Meanest of Times (Limited Edition)",
+        "url": "https://open.spotify.com/album/4tqRdOGCDOT38iLFojyyuX"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 196693,
+      "name": "God Willing",
+      "url": "https://open.spotify.com/track/6amL7Sov9asiwtCWN3gj8p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Do Or Die",
         "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
       },
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 139152,
-      "name": "Finnegan's Wake",
-      "url": "https://open.spotify.com/track/5L7nmlaU9TO3PZ8b7cVNqE"
+      "duration_ms": 109134,
+      "name": "Cadence To Arms",
+      "url": "https://open.spotify.com/track/5YHOnqIrjhRy5ThzFRWONC"
     },
     {
       "added_at": null,

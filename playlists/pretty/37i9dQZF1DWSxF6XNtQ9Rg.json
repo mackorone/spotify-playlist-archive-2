@@ -1,12 +1,12 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
-  "num_followers": 253207,
+  "num_followers": 253244,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHZ/78YbD+sqqsqiwv44uSrWpYmS",
+  "snapshot_id": "AAAAALfgt6j76GLBOZt5f39XI5Ixo5yh",
   "tracks": [
     {
       "added_at": "2026-04-23 21:32:47",
@@ -511,38 +511,6 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "LA BELLAVITA",
-        "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
-      },
-      "artists": [
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        }
-      ],
-      "duration_ms": 176996,
-      "name": "FW/SS25 (Freestyle)",
-      "url": "https://open.spotify.com/track/1mErhpOIVgy2JPLO7KlI60"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 208813,
-      "name": "Uno squillo",
-      "url": "https://open.spotify.com/track/7zivIUyCw9MmYftdcayXnN"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
         "name": "VERA BADDIE",
         "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
       },
@@ -563,18 +531,34 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "IL CORAGGIO DEI BAMBINI",
-        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
+        "name": "20",
+        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
       },
       "artists": [
         {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         }
       ],
-      "duration_ms": 172615,
-      "name": "COME VUOI",
-      "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
+      "duration_ms": 208813,
+      "name": "Uno squillo",
+      "url": "https://open.spotify.com/track/7zivIUyCw9MmYftdcayXnN"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
+        "name": "LA BELLAVITA",
+        "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "duration_ms": 176996,
+      "name": "FW/SS25 (Freestyle)",
+      "url": "https://open.spotify.com/track/1mErhpOIVgy2JPLO7KlI60"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -599,22 +583,18 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "ASPETTANDO LA BELLA VITA",
-        "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
+        "name": "IL CORAGGIO DEI BAMBINI",
+        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
       },
       "artists": [
         {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
         }
       ],
-      "duration_ms": 189015,
-      "name": "ANELLI E COLLANE (feat. ANNA)",
-      "url": "https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b"
+      "duration_ms": 172615,
+      "name": "COME VUOI",
+      "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -655,22 +635,22 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "VERA BADDIE",
-        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+        "name": "ASPETTANDO LA BELLA VITA",
+        "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
       },
       "artists": [
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
           "name": "Artie 5ive",
           "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
         }
       ],
-      "duration_ms": 191999,
-      "name": "I LOVE IT (feat. Artie 5ive)",
-      "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
+      "duration_ms": 189015,
+      "name": "ANELLI E COLLANE (feat. ANNA)",
+      "url": "https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -711,6 +691,26 @@
       "duration_ms": 212284,
       "name": "Lei (feat. Ben\u00e9)",
       "url": "https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "duration_ms": 191999,
+      "name": "I LOVE IT (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
+        "name": "Suicidol",
+        "url": "https://open.spotify.com/album/2eLcG0rEYCIvG9yKdE18e6"
+      },
+      "artists": [
+        {
+          "name": "Nitro",
+          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
+        }
+      ],
+      "duration_ms": 349560,
+      "name": "Pleasantville",
+      "url": "https://open.spotify.com/track/4T7nI6RllPyFPXJtIAtC7l"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
         "name": "La Divina Commedia",
         "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 137098,
       "name": "Hoe (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/3VtGh8xE9qRsFyY2Uj1WG3"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
-        "name": "Suicidol",
-        "url": "https://open.spotify.com/album/2eLcG0rEYCIvG9yKdE18e6"
-      },
-      "artists": [
-        {
-          "name": "Nitro",
-          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
-        }
-      ],
-      "duration_ms": 349560,
-      "name": "Pleasantville",
-      "url": "https://open.spotify.com/track/4T7nI6RllPyFPXJtIAtC7l"
     },
     {
       "added_at": "2026-04-23 21:32:47",

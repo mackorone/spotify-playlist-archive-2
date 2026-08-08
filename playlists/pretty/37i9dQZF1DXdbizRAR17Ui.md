@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,914 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,921 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,15 +26,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 16 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 |
 | 17 | [All I Need](https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [All I Need](https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng) | 3:47 |
 | 18 | [Dream Night](https://open.spotify.com/track/2DewmibGFWxakcxvVyf2Tv) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Dream Night](https://open.spotify.com/album/1sggIBo9jEoQFrX4ApjCD3) | 4:27 |
-| 19 | [Casableu](https://open.spotify.com/track/62Og36IHCGO6MqmxUqU58B) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [Casableu](https://open.spotify.com/album/0lAe8AD0yI2r0o5ibNXvgk) | 3:38 |
+| 19 | [Keep On](https://open.spotify.com/track/7fZTnNUEZSWecuu1iYlobG) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Keep On / Operation](https://open.spotify.com/album/51pDBwHrfZ62Dq8XVjgXFF) | 4:08 |
 | 20 | [Felt That Way](https://open.spotify.com/track/2z3dytnjRzPsv48UO7BqHP) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Felt That Way](https://open.spotify.com/album/7ygOO7ANWftT4cDj6iPjzB) | 3:35 |
-| 21 | [Keep On](https://open.spotify.com/track/7fZTnNUEZSWecuu1iYlobG) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Keep On / Operation](https://open.spotify.com/album/51pDBwHrfZ62Dq8XVjgXFF) | 4:08 |
+| 21 | [Casableu](https://open.spotify.com/track/62Og36IHCGO6MqmxUqU58B) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [Casableu](https://open.spotify.com/album/0lAe8AD0yI2r0o5ibNXvgk) | 3:38 |
 | 22 | [Lovestruck](https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Lovestruck](https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H) | 3:30 |
 | 23 | [Now She Knows](https://open.spotify.com/track/7nW7leLofx8DTpJ4LYayRi) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Smiling Through The Pain](https://open.spotify.com/album/3NSorfw3sEKFsOj2BUExcW) | 3:30 |
-| 24 | [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 |
-| 25 | [Ghost in My Stereo](https://open.spotify.com/track/1pnwKkZHdeF7Us2bF4z1Xv) | [MIND](https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Ghost in My Stereo](https://open.spotify.com/album/4huE8eEgu0utGRx3h0oWWN) | 1:58 |
+| 24 | [Elm](https://open.spotify.com/track/0wgC8RFkVlCV082J6E2Lfe) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Elm](https://open.spotify.com/album/25t2b2lJcV28ZwmZo75ENB) | 3:47 |
+| 25 | [Romance](https://open.spotify.com/track/2uAo2AItW7yJFPBhcyfOhi) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Romance](https://open.spotify.com/album/3ojz3uQI6fpYmHj3xBWSW3) | 4:16 |
 | 26 | [Ocean Steppin'](https://open.spotify.com/track/1MlGcV91pwGj59IVAhuFT7) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Ocean Steppin'](https://open.spotify.com/album/5kDpOmWdd6GwNZ7yiKm8jE) | 2:50 |
-| 27 | [Elm](https://open.spotify.com/track/0wgC8RFkVlCV082J6E2Lfe) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Elm](https://open.spotify.com/album/25t2b2lJcV28ZwmZo75ENB) | 3:47 |
+| 27 | [Ghost in My Stereo](https://open.spotify.com/track/1pnwKkZHdeF7Us2bF4z1Xv) | [MIND](https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Ghost in My Stereo](https://open.spotify.com/album/4huE8eEgu0utGRx3h0oWWN) | 1:58 |
 | 28 | [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 |
 | 29 | [True](https://open.spotify.com/track/21SUW6VqiPSwSumXMPYQtz) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [True](https://open.spotify.com/album/4DZW1POsJE6ge80HXUfsfs) | 3:56 |
 | 30 | [PIKI](https://open.spotify.com/track/55ZZAOtvWkHrEFX10Zg0lP) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [PIKI](https://open.spotify.com/album/0Evi337rRbs0degCcRoTqQ) | 4:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 49 | [Disappear](https://open.spotify.com/track/7muw4i3FYHY384ia8YLCH5) | [Jon Gurd](https://open.spotify.com/artist/2Nd5J1iedlzuNp32YYNuAl), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [Disappear](https://open.spotify.com/album/01wgXyTT4TlJVpGxCZgBsy) | 3:58 |
 | 50 | [U](https://open.spotify.com/track/02N9mCw2pOMe1P6ZLY3KAG) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [U](https://open.spotify.com/album/39wBeQQiYOqNcPssaBMk1V) | 3:38 |
 
-Snapshot ID: `AAAAANt6+kX0sRhr1rj3FvqO/ap3LeFe`
+Snapshot ID: `AAAAAC1QTJau28K+UGWy6X0111/2UqZx`

@@ -4,7 +4,7 @@
 
 > Pop for neon streets, rainy windows, and everything you still feel after dark.
 
-879 songs - 2 day 1 hr 18 min
+880 songs - 2 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Borderline](https://open.spotify.com/track/164QjgWOxnSZYHQghRKeC0) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Borderline](https://open.spotify.com/album/71bAwRaSVv4NIHmY61UutA) | 3:13 | 2023-02-10 | 2025-03-29 |
 | [Bourgeoisieses](https://open.spotify.com/track/056bKm6W5j9QodOftRznUV) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:31 | 2024-04-19 | 2024-08-31 |
 | [Boys Don't Cry](https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Boys Don't Cry](https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV) | 2:15 | 2022-01-28 | 2022-03-18 |
+| [brand new chanel$](https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [brand new chanel$](https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg) | 3:58 | 2026-08-07 |  |
 | [Break My Heart](https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:41 | 2021-07-17 | 2021-09-16 |
 | [break up with your girlfriend, i'm bored](https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:10 | 2021-06-19 | 2021-07-10 |
 | [Breathe](https://open.spotify.com/track/5IcYNaZuJdwX6edlQkNCI6) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ) | [Breathe](https://open.spotify.com/album/0LMqMuEwlwH98g8KXaJUZG) | 3:07 | 2023-03-31 | 2023-04-29 |

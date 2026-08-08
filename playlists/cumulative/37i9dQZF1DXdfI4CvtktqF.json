@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-05-02",
-  "description": "\u0e1f\u0e31\u0e07\u0e41\u0e25\u0e30\u0e14\u0e39\u0e40\u0e2d\u0e47\u0e21\u0e27\u0e35\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22 \u0e14\u0e39\u0e40\u0e2d\u0e47\u0e21\u0e27\u0e35\u0e44\u0e14\u0e49\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e1c\u0e39\u0e49\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19\u0e41\u0e1a\u0e1a\u0e1e\u0e23\u0e35\u0e40\u0e21\u0e35\u0e48\u0e22\u0e21. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: JUNG",
+  "description": "\u0e1f\u0e31\u0e07\u0e41\u0e25\u0e30\u0e14\u0e39\u0e40\u0e2d\u0e47\u0e21\u0e27\u0e35\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e2e\u0e34\u0e15\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22 \u0e14\u0e39\u0e40\u0e2d\u0e47\u0e21\u0e27\u0e35\u0e44\u0e14\u0e49\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e1c\u0e39\u0e49\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19\u0e41\u0e1a\u0e1a\u0e1e\u0e23\u0e35\u0e40\u0e21\u0e35\u0e48\u0e22\u0e21. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19:  JOEY PHUWASIT",
   "name": "\u0e09\u0e31\u0e19\u0e14\u0e39\u0e40\u0e2d\u0e47\u0e21\u0e27\u0e35\u0e44\u0e17\u0e22",
   "tracks": [
     {
@@ -190,7 +190,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 227066,
       "name": "Neon",
       "url": "https://open.spotify.com/track/4vRmticnTF2Vwb1ICXX7NG"
@@ -248,7 +248,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 225410,
       "name": "Proud",
       "url": "https://open.spotify.com/track/2MuJCv3nCgHYlgOrAvCAT6"
@@ -288,6 +288,24 @@
       "duration_ms": 209210,
       "name": "Sunset In Pattaya",
       "url": "https://open.spotify.com/track/3xAsJQO4g5ZBUL6U6k5CzW"
+    },
+    {
+      "album": {
+        "name": "TORNADO",
+        "url": "https://open.spotify.com/album/2FH6fYeqSyaoxAgpr0SKkb"
+      },
+      "artists": [
+        {
+          "name": "VVV",
+          "url": "https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220615,
+      "name": "TORNADO",
+      "url": "https://open.spotify.com/track/20CQtY1LK30SX1UJltoTBF"
     },
     {
       "album": {
@@ -360,10 +378,32 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 250962,
       "name": "\u0e01\u0e25\u0e31\u0e1a\u0e44\u0e1b\u0e43\u0e0a\u0e49\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e41\u0e1a\u0e1a\u0e40\u0e14\u0e34\u0e21",
       "url": "https://open.spotify.com/track/0e4DnxHb7xjCqEPYv91v6t"
+    },
+    {
+      "album": {
+        "name": "\u0e02\u0e36\u0e49\u0e19\u0e43\u0e08 (3am call)",
+        "url": "https://open.spotify.com/album/60Pa5g1ZpmDiIFDXnuulUy"
+      },
+      "artists": [
+        {
+          "name": "Mirrr",
+          "url": "https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7"
+        },
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261785,
+      "name": "\u0e02\u0e36\u0e49\u0e19\u0e43\u0e08 (3am call)",
+      "url": "https://open.spotify.com/track/36OWvhv70Cu3LGC92N79qs"
     },
     {
       "album": {
@@ -747,6 +787,24 @@
     },
     {
       "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27\u0e41\u0e25\u0e49\u0e27\u0e42\u0e27\u0e49\u0e22",
+        "url": "https://open.spotify.com/album/2KDfXhJNr2E5V1ckYFLS3G"
+      },
+      "artists": [
+        {
+          "name": "JOEY PHUWASIT",
+          "url": "https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203714,
+      "name": "\u0e23\u0e31\u0e01\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27\u0e41\u0e25\u0e49\u0e27\u0e42\u0e27\u0e49\u0e22",
+      "url": "https://open.spotify.com/track/0yCXxEPf1wiPn8ZgP96gbR"
+    },
+    {
+      "album": {
         "name": "Yours Ever",
         "url": "https://open.spotify.com/album/2rPsANvNDIfkd6NWHl1bDn"
       },
@@ -961,6 +1019,28 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e02\u0e2d\u0e07\u0e04\u0e33\u0e27\u0e48\u0e32\u0e23\u0e31\u0e01",
+        "url": "https://open.spotify.com/album/5GV7Z9IvIaP0iBO7aCDQbU"
+      },
+      "artists": [
+        {
+          "name": "Wan Thanakrit",
+          "url": "https://open.spotify.com/artist/4IYocudwewhFDpAErwolWM"
+        },
+        {
+          "name": "MARCKRIS OF BUS",
+          "url": "https://open.spotify.com/artist/26fU8Bg2Yq7XwvZiuzIwnM"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192236,
+      "name": "\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e02\u0e2d\u0e07\u0e04\u0e33\u0e27\u0e48\u0e32\u0e23\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/1fdZwRR7WFgIWsUis4OKNi"
+    },
+    {
+      "album": {
         "name": "\u0e41\u0e01\u0e49\u0e1a\u0e19",
         "url": "https://open.spotify.com/album/5fBqn3HW1usEd3Cl5Y5lq8"
       },
@@ -1012,7 +1092,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 222000,
       "name": "\u0e42\u0e25\u0e01\u0e17\u0e31\u0e49\u0e07\u0e43\u0e1a",
       "url": "https://open.spotify.com/track/0L5mkLRkk05Mfz4Tk0zU70"

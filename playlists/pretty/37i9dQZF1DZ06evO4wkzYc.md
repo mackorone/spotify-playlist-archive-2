@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 
 > This is Edicion Especial\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,933 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,994 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,18 +19,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 9 | [Sin Pagar Renta](https://open.spotify.com/track/0kbUYmoU2KatRvhh3m5W65) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Sin Pagar Renta](https://open.spotify.com/album/2QoQgEfF8ktaAohV5BOYR9) | 3:22 |
 | 10 | [Mingo](https://open.spotify.com/track/3uPXS3Ww3XrcD8Qv3ZzqUR) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mingo](https://open.spotify.com/album/4mfXgQxvWFc6rGBVJU40Eq) | 3:08 |
 | 11 | [La Fea](https://open.spotify.com/track/6qRDRRc6ySs99VGB1KTNsf) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Fea](https://open.spotify.com/album/3n6DUly3Kcoc99f8qM9jxf) | 4:05 |
-| 12 | [Quédate Conmigo](https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:13 |
-| 13 | [El AV](https://open.spotify.com/track/2xykX6DxmbuYF9ZF7lWK1U) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:31 |
-| 14 | [El Pocho 43](https://open.spotify.com/track/3dh0r1yRhQK48Dy11gAYzw) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Pocho 43](https://open.spotify.com/album/5Xh2F18vrwX7NozpAT1rAN) | 3:47 |
+| 12 | [El Pocho 43](https://open.spotify.com/track/3dh0r1yRhQK48Dy11gAYzw) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Pocho 43](https://open.spotify.com/album/5Xh2F18vrwX7NozpAT1rAN) | 3:47 |
+| 13 | [Quédate Conmigo](https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:13 |
+| 14 | [El AV](https://open.spotify.com/track/2xykX6DxmbuYF9ZF7lWK1U) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:31 |
 | 15 | [Perfecta](https://open.spotify.com/track/0wnSZFhtJPNPXUDCDcgwVb) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/5QO74wVxf1sYdJQUP8pmZR) | 3:34 |
 | 16 | [Zutano](https://open.spotify.com/track/1WBa4tWL35yvqCO42c2C1J) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Zutano](https://open.spotify.com/album/7JeL0u9W8PscUQKS4V0vtj) | 3:01 |
-| 17 | [Sobre Mis Pies](https://open.spotify.com/track/4mnveTVKzkbkT23GBDfRnj) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 3:48 |
-| 18 | [El Chavo \- En Vivo](https://open.spotify.com/track/2a32phUtGsF1uve2EuY3Sx) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Chavo \(En Vivo\)](https://open.spotify.com/album/29TI3P1Nqqhy9bn9zSMwAn) | 4:04 |
+| 17 | [El Chavo \- En Vivo](https://open.spotify.com/track/2a32phUtGsF1uve2EuY3Sx) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Chavo \(En Vivo\)](https://open.spotify.com/album/29TI3P1Nqqhy9bn9zSMwAn) | 4:04 |
+| 18 | [Sobre Mis Pies](https://open.spotify.com/track/4mnveTVKzkbkT23GBDfRnj) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 3:48 |
 | 19 | [El Mago](https://open.spotify.com/track/4wsDPCHzxThEqCx4iYPAIO) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:57 |
 | 20 | [Chorumbo](https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Chorumbo](https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh) | 3:20 |
 | 21 | [El Cuadros \(Live\)](https://open.spotify.com/track/53dI1nKPKxtMmS7jwQe3Z2) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Cuadros \(Live\)](https://open.spotify.com/album/4KupvBAM1H8vyTn8jDnBlg) | 4:07 |
-| 22 | [El Nini](https://open.spotify.com/track/2U1NhCp8wc2m4kYZSBeYl4) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Nini](https://open.spotify.com/album/4t9ykJcRqh40msncpBbLF0) | 4:31 |
-| 23 | [Culpables](https://open.spotify.com/track/2XoKzEPIDorxowyezrPPyv) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Culpables](https://open.spotify.com/album/1w4MR0JOdHYw7QMWhJTuqQ) | 4:12 |
+| 22 | [Culpables](https://open.spotify.com/track/2XoKzEPIDorxowyezrPPyv) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Culpables](https://open.spotify.com/album/1w4MR0JOdHYw7QMWhJTuqQ) | 4:12 |
+| 23 | [El Nini](https://open.spotify.com/track/2U1NhCp8wc2m4kYZSBeYl4) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Nini](https://open.spotify.com/album/4t9ykJcRqh40msncpBbLF0) | 4:31 |
 | 24 | [Todo Cambio](https://open.spotify.com/track/2rj48vMh429g2zDvTOtXbQ) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/5QO74wVxf1sYdJQUP8pmZR) | 4:45 |
 | 25 | [Delante De Mi](https://open.spotify.com/track/54WpanwL6bIMbK92QJ6QpH) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:02 |
 | 26 | [Mario Portillo](https://open.spotify.com/track/6i6AvLCXwu6QMAg20eDOjc) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:16 |
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 30 | [Mi Amor Por Ti \(En Vivo\)](https://open.spotify.com/track/4s2fRub8kyh1hD2m8xZ9cv) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mi Amor Por Ti \(En Vivo\)](https://open.spotify.com/album/1948hF6tu8CHLjz7RbTA0H) | 3:59 |
 | 31 | [El Del Ice \(Live\)](https://open.spotify.com/track/2vZp1YjSsiKqQv2pgWfZ1o) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Del Ice \(Live\)](https://open.spotify.com/album/5QReoPrXR4ND1cgFg7q9b3) | 3:36 |
 | 32 | [Don \(En Vivo\)](https://open.spotify.com/track/3Zwq6Ih1Ojjrgx9rhkakp0) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Don \(En Vivo\)](https://open.spotify.com/album/7vhzZZ4h4s2wxPkatBqgWD) | 3:30 |
-| 33 | [Jimmy Neutron](https://open.spotify.com/track/01P0P9xzhkQ3Mzs2QMzrjr) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:15 |
-| 34 | [Hoy Ya Me Voy](https://open.spotify.com/track/4o5jGJPVE7bDeidcEM1qYv) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Hoy Ya Me Voy](https://open.spotify.com/album/0llMwofoz2YhJP9H4hORhh) | 4:20 |
-| 35 | [Primer Tiempo](https://open.spotify.com/track/0FEniDA74LuWEScdiQRmpI) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Primer Tiempo](https://open.spotify.com/album/0A4OediUQq2lXiFq0OB7gX) | 3:32 |
-| 36 | [No Me Quiero Enamorar](https://open.spotify.com/track/2Ja6U7PQLuaGxIcJJFXl7r) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [No Me Quiero Enamorar](https://open.spotify.com/album/7jn9Kcmsj8wkXhXEzbBjMb) | 2:39 |
+| 33 | [Hoy Ya Me Voy](https://open.spotify.com/track/4o5jGJPVE7bDeidcEM1qYv) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Hoy Ya Me Voy](https://open.spotify.com/album/0llMwofoz2YhJP9H4hORhh) | 4:20 |
+| 34 | [Jimmy Neutron](https://open.spotify.com/track/01P0P9xzhkQ3Mzs2QMzrjr) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:15 |
+| 35 | [No Me Quiero Enamorar](https://open.spotify.com/track/2Ja6U7PQLuaGxIcJJFXl7r) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [No Me Quiero Enamorar](https://open.spotify.com/album/7jn9Kcmsj8wkXhXEzbBjMb) | 2:39 |
+| 36 | [Primer Tiempo](https://open.spotify.com/track/0FEniDA74LuWEScdiQRmpI) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Primer Tiempo](https://open.spotify.com/album/0A4OediUQq2lXiFq0OB7gX) | 3:32 |
 | 37 | [La Pareja Ideal \- Live](https://open.spotify.com/track/1wWES4gBRXepkDUUHXTXCo) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Pareja Ideal \(Live\)](https://open.spotify.com/album/3UyAKODzCcOKDUjlNhfHZY) | 4:09 |
 | 38 | [Luna](https://open.spotify.com/track/2Na64BFiR2dNfvqbFdhixX) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 3:34 |
 | 39 | [Que Lloro](https://open.spotify.com/track/7BqDHVGw4tlgv86QXrEaiJ) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Que Lloro](https://open.spotify.com/album/2gKxbvUws8depMnbZld0P8) | 4:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 49 | [Amarte](https://open.spotify.com/track/6YSaa2DOow4nMXj6zPiDqt) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/5QO74wVxf1sYdJQUP8pmZR) | 2:40 |
 | 50 | [Gracias](https://open.spotify.com/track/1pBoAagFm4bc2Thz3OspOg) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Gracias](https://open.spotify.com/album/1sJUoP1CZBV6O5Ee19W6mE) | 4:25 |
 
-Snapshot ID: `anJ9AAAAAAAMJlhn5eON9k2VWxvkYe5K`
+Snapshot ID: `anPOgAAAAADaJXI4isfL5EllTO8GB1ZW`

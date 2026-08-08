@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 
 > for when you're leaning into that bad day feeling
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,925,513 likes - 150 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,925,332 likes - 150 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 | 32 | [Arcade](https://open.spotify.com/track/1J14CdDAvBTE1AJYUOwl6C) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Track By Track\)](https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF) | 3:05 |
 | 33 | [Like I Want You](https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 4:20 |
 | 34 | [I Fall Apart](https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:43 |
-| 35 | [EVERYTHING HALLELUJAH](https://open.spotify.com/track/5AwNJ5mr7mHyIhlKnQICEJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 4:08 |
-| 36 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 |
+| 35 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 |
+| 36 | [EVERYTHING HALLELUJAH](https://open.spotify.com/track/5AwNJ5mr7mHyIhlKnQICEJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 4:08 |
 | 37 | [i hate u, i love u \(feat\. olivia o'brien\)](https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [us](https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf) | 4:11 |
 | 38 | [Dancing With Your Ghost](https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Dancing With Your Ghost](https://open.spotify.com/album/3I677CWVoiOsbMxOQzjShB) | 3:17 |
 | 39 | [The Climb](https://open.spotify.com/track/5x5JM1BSB6vollcIzDocqT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives \(International Version\)](https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz) | 3:54 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 | 149 | [The Love You Left Behind](https://open.spotify.com/track/60wa5J6SkXtBXHySQ3PoNB) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [The Love You Left Behind](https://open.spotify.com/album/0UFUk1X0rVy6ZeySz0RrH6) | 3:14 |
 | 150 | [War To Love](https://open.spotify.com/track/2WY1WmPZN1Kxh216rdMwu0) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [War To Love](https://open.spotify.com/album/1B98ap9KlAntA62R4c1rJM) | 3:46 |
 
-Snapshot ID: `AAAAAMgxXImoaCYjhj3Tg8TqI0kE1CgJ`
+Snapshot ID: `AAAAAPey74qvgnFYJ44ljrMzVR0TEv00`

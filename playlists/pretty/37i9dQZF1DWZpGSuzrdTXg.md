@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 
 > Rustig aan doen op zondag met deze zachte popliedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,639 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,612 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 | 99 | [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 |
 | 100 | [Open Hearts \- Acoustic](https://open.spotify.com/track/7nozTCp1Zp3zCgg7oXfWLB) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Open Hearts \(Acoustic\)](https://open.spotify.com/album/5Mf8DXVCe7LFM11oWcZLKp) | 3:45 |
 
-Snapshot ID: `AAAAANs8U4ApkAx5xp0aENP7lNA4GIjW`
+Snapshot ID: `AAAAAJJZlrqm4PFe31ZNqQpV4mO10xH1`

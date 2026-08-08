@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbSJXtfvbQw.md) - [plain]
 
 > The biggest songs in Latin America in 2016\. Cover: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,705 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,735 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbSJXtfvbQw.md) - [plain]
 | 16 | [Safari](https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [Energía](https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf) | 3:25 |
 | 17 | [Ya Me Enteré](https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Des/Amor](https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj) | 3:24 |
 | 18 | [Soy Peor](https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Soy Peor](https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF) | 4:17 |
-| 19 | [Sofia](https://open.spotify.com/track/5vj59ONIVbyhcrI8ZSwoRo) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Eterno Agosto](https://open.spotify.com/album/5jJXDZo4k8z4eMWB9ZxjDX) | 3:30 |
-| 20 | [Un Polvo \(feat\. Bad Bunny, Arcángel, Ñengo Flow & De La Ghetto\)](https://open.spotify.com/track/01vHGJRvJ6EZW9KO8NtZpi) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Un Polvo \(feat\. Bad Bunny, Arcángel, Ñengo Flow & De La Ghetto\)](https://open.spotify.com/album/4TxYVUplaWuhJrVmW1O5Zt) | 5:06 |
+| 19 | [Un Polvo \(feat\. Bad Bunny, Arcángel, Ñengo Flow & De La Ghetto\)](https://open.spotify.com/track/01vHGJRvJ6EZW9KO8NtZpi) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Un Polvo \(feat\. Bad Bunny, Arcángel, Ñengo Flow & De La Ghetto\)](https://open.spotify.com/album/4TxYVUplaWuhJrVmW1O5Zt) | 5:06 |
+| 20 | [Sofia](https://open.spotify.com/track/5vj59ONIVbyhcrI8ZSwoRo) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Eterno Agosto](https://open.spotify.com/album/5jJXDZo4k8z4eMWB9ZxjDX) | 3:30 |
 | 21 | [Sigo Extrañándote](https://open.spotify.com/track/0k23rRi1B8ZHrKtzECGoyk) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Energía](https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf) | 3:21 |
 | 22 | [Me Llamas \(feat\. Maluma\) \- Remix](https://open.spotify.com/track/5hEM0JchdVzQ5PwvSfITeX) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Juan Luis Londoño Arias "Maluma"](https://open.spotify.com/artist/3DYDViKP5r8OuydfJ7XxnS) | [Me Llamas \(feat\. Maluma\) \[Remix\]](https://open.spotify.com/album/2mqj8lMnZRYR5hapcNVpRq) | 3:30 |
 | 23 | [Aprender A Quererte](https://open.spotify.com/track/3zNcn4BaVfKORyx3uDfruW) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobre El Amor Y Sus Efectos Secundarios](https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbSJXtfvbQw.md) - [plain]
 | 49 | [Un Amor de Verdad](https://open.spotify.com/track/4Z3wNhlam0BHHnK1lZmPRU) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Des/Amor](https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj) | 3:32 |
 | 50 | [Embriágame \(feat\. Don Omar\) \- Remix](https://open.spotify.com/track/1WOJTQfNUEkLlsinPP95VM) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Motivan2](https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb) | 3:50 |
 
-Snapshot ID: `AAAAAFzzvcwyANBxDRda6Te+mmiplqti`
+Snapshot ID: `AAAAAPrkOMQR7l3RHzZaotkUQQKqC1nu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Обкладинка: ТУЧА
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,040 likes - 45 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,043 likes - 45 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 44 | [Величаю](https://open.spotify.com/track/5HoAnAaMD7nqO8dDSxu0BW) | [TALICE](https://open.spotify.com/artist/6mzMq9r0bo1LYtnDJYip2l) | [Величаю](https://open.spotify.com/album/5BkkIeee9Nq5Smv1denhGJ) | 3:25 |
 | 45 | [До мети](https://open.spotify.com/track/7FYJH2McJQuWSMwZQ2u8AW) | [Анастасія Димид](https://open.spotify.com/artist/0kc8LiywsbS4vTNCNRy7TC) | [До мети](https://open.spotify.com/album/5kmWBrG4R7Bz7yOXYPzeGw) | 4:02 |
 
-Snapshot ID: `AAAAAFZYEWorlkmQEuqLzkFuhjTBsXwL`
+Snapshot ID: `AAAAALLcGCsagI+3QZTtrHm4lWZeegRx`

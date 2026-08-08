@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 
 > Mit dieser Playlist hört die Party nie auf!
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,455 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,483 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 | 44 | [Wir sind zuhause](https://open.spotify.com/track/2Cb4gy45Yh8dzKjq896vyw) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [Maxwell](https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC) | [Wir sind zuhause](https://open.spotify.com/album/74dlaREzXTWf5mHExvriK3) | 3:15 |
 | 45 | [3er](https://open.spotify.com/track/27djNuigXbNE4OJ5R5NEa5) | [Frenzy](https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd) | [3er](https://open.spotify.com/album/1PXEOT5riEAAlgm8L4QTtG) | 2:24 |
 | 46 | [Verdammt Ich lieb' dich](https://open.spotify.com/track/2XEwnFyQhDBHq6rFEaAOQj) | [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [Déjà Vu \- Das Beste Von Matthias Reim](https://open.spotify.com/album/7vK2CPL2kkQlpV58o1o96f) | 3:37 |
-| 47 | [VAMOS](https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF) | [VAMOS](https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO) | 2:29 |
-| 48 | [ALDI](https://open.spotify.com/track/3eK5kbG3fY07qyNAgNBtv0) | [Rumbombe](https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG), [Marc Eggers](https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf), [bozi](https://open.spotify.com/artist/3qmdhCda5tK3CPIJDdblKU) | [ALDI](https://open.spotify.com/album/2wwqzUmTfouQC2lw9lPvl3) | 2:20 |
+| 47 | [ALDI](https://open.spotify.com/track/3eK5kbG3fY07qyNAgNBtv0) | [Rumbombe](https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG), [Marc Eggers](https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf), [bozi](https://open.spotify.com/artist/3qmdhCda5tK3CPIJDdblKU) | [ALDI](https://open.spotify.com/album/2wwqzUmTfouQC2lw9lPvl3) | 2:20 |
+| 48 | [VAMOS](https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF) | [VAMOS](https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO) | 2:29 |
 | 49 | [Helikopter 117 \(Mach' den Hub Hub Hub\)](https://open.spotify.com/track/1pMsWnQCaLQvL3O0vaMp5H) | [Tobee](https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r) | [Helikopter 117 \(Mach' den Hub Hub Hub\)](https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3) | 4:06 |
 | 50 | [Sweet Caroline \- Party Remix](https://open.spotify.com/track/3HTgmcqR7nYtD7EmJ4hOLi) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Sweet Caroline \(Party Remix\)](https://open.spotify.com/album/78jbUvstAhkEUAwzuiKr93) | 3:26 |
 | 51 | [Sonne, Mond & Playa](https://open.spotify.com/track/7oRZfHSzFuMGVe8w3O8dqP) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [Sonne, Mond & Playa](https://open.spotify.com/album/1Scsty54EnmXNOuwXlfAQM) | 3:08 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 | 59 | [Hurra die Gams](https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV) | [Matty Valentino](https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h) | [Hurra die Gams](https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y) | 3:24 |
 | 60 | [Die Nacht von Freitag auf Montag](https://open.spotify.com/track/0NjLgGCwHAE0KhVTALxdCb) | [Peter Wackel](https://open.spotify.com/artist/2AkhLtPZf3dPJZRrXqBqXb) | [Die Nacht von Freitag auf Montag](https://open.spotify.com/album/7BxwSFUIIiDmHqZv6pdtt6) | 2:58 |
 | 61 | [Keine Freunde bleiben \(feat\. Mia Julia\)](https://open.spotify.com/track/0EULWVqXc1O6SLccguCoTH) | [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Keine Freunde bleiben \(feat\. Mia Julia\)](https://open.spotify.com/album/56QPDNJ6Ziz8RGvwOPSOvE) | 2:45 |
-| 62 | [A Mann für Amore \- Single Mix](https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Von Herzen](https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC) | 3:52 |
-| 63 | [WOW!](https://open.spotify.com/track/4xfEcpw3EcHWX3IEEhG5ua) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [Marc Eggers](https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf) | [WOW!](https://open.spotify.com/album/2M6KtlSMelRaIBneRuXeZg) | 1:59 |
+| 62 | [WOW!](https://open.spotify.com/track/4xfEcpw3EcHWX3IEEhG5ua) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [Marc Eggers](https://open.spotify.com/artist/7jJXsd4MyYxs06qwrs5Wtf) | [WOW!](https://open.spotify.com/album/2M6KtlSMelRaIBneRuXeZg) | 1:59 |
+| 63 | [A Mann für Amore \- Single Mix](https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Von Herzen](https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC) | 3:52 |
 | 64 | [10 von 10](https://open.spotify.com/track/37xCUommA4coyrL4d8Vylf) | [Julian Benz](https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp) | [10 von 10](https://open.spotify.com/album/51rg3umrp0IXNtrI77zEd9) | 2:14 |
 | 65 | [Layla](https://open.spotify.com/track/3ujiq7yK4Uan5z4876fHLK) | [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ) | [Layla](https://open.spotify.com/album/6CL5pcCUiPeuKmI9U630l4) | 3:05 |
 | 66 | [Hey Macarena!](https://open.spotify.com/track/2NAn1J4RbC8Ure2F1hByXK) | [Pietro Basile](https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc) | [Hey Macarena!](https://open.spotify.com/album/5lfbj6pyyZwTUeFWfu0OW9) | 2:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 | 79 | [Mozart \(Ciao Niveau\)](https://open.spotify.com/track/2izhQz92OLdlp2KxNwwu4O) | [Tobee](https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r) | [Mozart \(Ciao Niveau\)](https://open.spotify.com/album/7jODSZ4ensMN1GqU19pifB) | 2:52 |
 | 80 | [Nachbarn](https://open.spotify.com/track/1aBi2cwSWOaYz0kC0P27ok) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Nachbarn](https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea) | 3:01 |
 
-Snapshot ID: `AAAAAIHaK9m87g8wOQ1uAy0ahp4kb0/+`
+Snapshot ID: `AAAAAA/EuUBH8lTNMW4yNCdmmo8GW9kC`

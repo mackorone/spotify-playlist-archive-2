@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > The perfect mixtape for an anime fight scene\. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,332,765 likes - 75 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,332,824 likes - 75 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 74 | [SMOKE SZN](https://open.spotify.com/track/0mRkCzt6l4eZV4HXTHB02Y) | [PACKGOD](https://open.spotify.com/artist/4olRuzpHiCD9gG9B4QHEnr), [AVGOTDRIP](https://open.spotify.com/artist/7igrDEryu1H8kwrg2jMP06), [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc) | [SMOKE SZN](https://open.spotify.com/album/2AWHfH57Lykf4pcaiQuRsF) | 2:41 |
 | 75 | [Heart Attack](https://open.spotify.com/track/3nSEvbi2v1z1QATbznIvTT) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo), [Musicality](https://open.spotify.com/artist/3jbwoqhl1GhkvC5rNBvHH3) | [Heart Attack](https://open.spotify.com/album/45zTQIoXr2QXHDM9DFgs9L) | 1:38 |
 
-Snapshot ID: `AAAAAEN1iWR9QPwMeT9CDd2HIEoYNrwg`
+Snapshot ID: `AAAAAPVA8I4KihkTwAiAqAGx9Td4m/9O`

@@ -1,12 +1,12 @@
 {
   "description": "\u6b4c\u8a5e\u3092\u898b\u306a\u304c\u3089\u3001\u30d2\u30c3\u30c8\u66f2\u3092\u6b4c\u3044\u5c3d\u304f\u305d\u3046 \uff01",
-  "num_followers": 201694,
+  "num_followers": 201712,
   "original_name": "\u6b4c\u3046\u30dd\u30c3\u30d7\u30d2\u30c3\u30c4 - Sing-Along -",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIzN5h84rTiUV+3nYqB0wSLK++ik",
+  "snapshot_id": "AAAAAGTt3qandxIfXENdMzPG93x5xG+l",
   "tracks": [
     {
       "added_at": "2026-08-05 09:44:18",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-08-05 09:44:18",
       "album": {
-        "name": "\u602a\u7363",
-        "url": "https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT"
-      },
-      "artists": [
-        {
-          "name": "sakanaction",
-          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
-        }
-      ],
-      "duration_ms": 252722,
-      "name": "\u602a\u7363",
-      "url": "https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC"
-    },
-    {
-      "added_at": "2026-08-05 09:44:18",
-      "album": {
         "name": "\u9752\u6625\u306e\u30a8\u30ad\u30b5\u30a4\u30c8\u30e1\u30f3\u30c8",
         "url": "https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 235240,
       "name": "\u611b\u3092\u4f1d\u3048\u305f\u3044\u3060\u3068\u304b",
       "url": "https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO"
+    },
+    {
+      "added_at": "2026-08-05 09:44:18",
+      "album": {
+        "name": "\u602a\u7363",
+        "url": "https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT"
+      },
+      "artists": [
+        {
+          "name": "sakanaction",
+          "url": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq"
+        }
+      ],
+      "duration_ms": 252722,
+      "name": "\u602a\u7363",
+      "url": "https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC"
     },
     {
       "added_at": "2026-08-05 09:44:18",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-08-05 09:44:18",
       "album": {
-        "name": "Takin' It Back",
-        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 134256,
-      "name": "Made You Look",
-      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
-    },
-    {
-      "added_at": "2026-08-05 09:44:18",
-      "album": {
         "name": "\u77ac\u9593\u7684\u30b7\u30c3\u30af\u30b9\u30bb\u30f3\u30b9",
         "url": "https://open.spotify.com/album/7fIqmc4GIaueaiAoDifAaA"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 306626,
       "name": "\u30de\u30ea\u30fc\u30b4\u30fc\u30eb\u30c9",
       "url": "https://open.spotify.com/track/2cKiHG16JBiqHdi7Llq0r7"
+    },
+    {
+      "added_at": "2026-08-05 09:44:18",
+      "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 134256,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
       "added_at": "2026-08-05 09:44:18",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-08-05 09:44:18",
       "album": {
-        "name": "\u30a2\u30a4\u30c9\u30eb",
-        "url": "https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 213233,
-      "name": "\u30a2\u30a4\u30c9\u30eb",
-      "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
-    },
-    {
-      "added_at": "2026-08-05 09:44:18",
-      "album": {
         "name": "\u9752\u6625\u306e\u30a8\u30ad\u30b5\u30a4\u30c8\u30e1\u30f3\u30c8",
         "url": "https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 246306,
       "name": "\u541b\u306f\u30ed\u30c3\u30af\u3092\u8074\u304b\u306a\u3044",
       "url": "https://open.spotify.com/track/59eluCMn0XbOWqeWQ91FTM"
+    },
+    {
+      "added_at": "2026-08-05 09:44:18",
+      "album": {
+        "name": "\u30a2\u30a4\u30c9\u30eb",
+        "url": "https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 213233,
+      "name": "\u30a2\u30a4\u30c9\u30eb",
+      "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
     },
     {
       "added_at": "2026-08-05 09:44:18",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-08-05 09:44:18",
       "album": {
-        "name": "\u4e00\u9014",
-        "url": "https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 190606,
-      "name": "\u4e00\u9014",
-      "url": "https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK"
-    },
-    {
-      "added_at": "2026-08-05 09:44:18",
-      "album": {
         "name": "\u9006\u8f38\u5165 \u301c\u822a\u7a7a\u5c40\u301c",
         "url": "https://open.spotify.com/album/4IyZbkR6R4oIcuckwSrJQj"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 192680,
       "name": "\u8584\u3089\u6c37\u5fc3\u4e2d",
       "url": "https://open.spotify.com/track/1DxOabtnI3W4ouECc6AdyT"
+    },
+    {
+      "added_at": "2026-08-05 09:44:18",
+      "album": {
+        "name": "\u4e00\u9014",
+        "url": "https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "duration_ms": 190606,
+      "name": "\u4e00\u9014",
+      "url": "https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK"
     },
     {
       "added_at": "2026-08-05 09:44:18",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-08-05 09:44:18",
       "album": {
-        "name": "Bad Girl",
-        "url": "https://open.spotify.com/album/3v96qe3pw2Jz8xw0BrNXAH"
-      },
-      "artists": [
-        {
-          "name": "HANA",
-          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
-        }
-      ],
-      "duration_ms": 214045,
-      "name": "Bad Girl",
-      "url": "https://open.spotify.com/track/2bLQ0HMyuUWI7uPRzCy5Lo"
-    },
-    {
-      "added_at": "2026-08-05 09:44:18",
-      "album": {
         "name": "\u7121\u7f6a\u30e2\u30e9\u30c8\u30ea\u30a2\u30e0",
         "url": "https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 307833,
       "name": "\u30d7\u30e9\u30cd\u30bf\u30ea\u30a6\u30e0",
       "url": "https://open.spotify.com/track/3zfyzbHuqcT2AAffAyLm02"
+    },
+    {
+      "added_at": "2026-08-05 09:44:18",
+      "album": {
+        "name": "Bad Girl",
+        "url": "https://open.spotify.com/album/3v96qe3pw2Jz8xw0BrNXAH"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "duration_ms": 214045,
+      "name": "Bad Girl",
+      "url": "https://open.spotify.com/track/2bLQ0HMyuUWI7uPRzCy5Lo"
     },
     {
       "added_at": "2026-08-05 09:44:18",

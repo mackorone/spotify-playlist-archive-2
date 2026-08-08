@@ -1,12 +1,12 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 138027,
+  "num_followers": 138053,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFVSplbSUSlXxCcx7o9FK9jId9Ay",
+  "snapshot_id": "AAAAAOttAJQZXeKw7GS3JU16YXcxyXQj",
   "tracks": [
     {
       "added_at": "2024-06-02 21:23:10",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "A Joyful Noise",
-        "url": "https://open.spotify.com/album/6AKGyIfiwcptAUUzLDB0Gd"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 211819,
-      "name": "Move in the Right Direction",
-      "url": "https://open.spotify.com/track/4hjfOnzzrrrDAGt286htU6"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "About U",
         "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 272806,
       "name": "I Know A Place",
       "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "A Joyful Noise",
+        "url": "https://open.spotify.com/album/6AKGyIfiwcptAUUzLDB0Gd"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 211819,
+      "name": "Move in the Right Direction",
+      "url": "https://open.spotify.com/track/4hjfOnzzrrrDAGt286htU6"
     },
     {
       "added_at": "2024-06-02 21:23:10",

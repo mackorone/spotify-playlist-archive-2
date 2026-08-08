@@ -1,12 +1,12 @@
 {
   "description": "A smooth nostalgia trip through the 80s.",
-  "num_followers": 363914,
+  "num_followers": 363933,
   "original_name": "Unwind 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL7Grdej8ItTCfXKAVXzD7G4i8jp",
+  "snapshot_id": "AAAAACABtvGBr6xP+gKNZ9+IbspeEsb/",
   "tracks": [
     {
       "added_at": "2024-08-05 06:19:03",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-08-05 06:19:03",
       "album": {
-        "name": "Picture Book (Expanded Version)",
-        "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
-      },
-      "artists": [
-        {
-          "name": "Simply Red",
-          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
-        }
-      ],
-      "duration_ms": 269840,
-      "name": "Holding Back the Years - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
-    },
-    {
-      "added_at": "2024-08-05 06:19:03",
-      "album": {
         "name": "True - The Digital E.P.",
         "url": "https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 329146,
       "name": "True - Single Edit",
       "url": "https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1"
+    },
+    {
+      "added_at": "2024-08-05 06:19:03",
+      "album": {
+        "name": "Picture Book (Expanded Version)",
+        "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
+      },
+      "artists": [
+        {
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
+        }
+      ],
+      "duration_ms": 269840,
+      "name": "Holding Back the Years - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
     },
     {
       "added_at": "2024-08-05 06:19:03",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-08-05 06:19:03",
       "album": {
-        "name": "A New Flame (Expanded Version)",
-        "url": "https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew"
-      },
-      "artists": [
-        {
-          "name": "Simply Red",
-          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "If You Don't Know Me by Now - 2008 Remaster",
-      "url": "https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg"
-    },
-    {
-      "added_at": "2024-08-05 06:19:03",
-      "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/243jhZJtyIZtEkrD6vhRLn"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 297847,
       "name": "The Way It Is",
       "url": "https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t"
+    },
+    {
+      "added_at": "2024-08-05 06:19:03",
+      "album": {
+        "name": "A New Flame (Expanded Version)",
+        "url": "https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew"
+      },
+      "artists": [
+        {
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "If You Don't Know Me by Now - 2008 Remaster",
+      "url": "https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg"
     },
     {
       "added_at": "2024-08-05 06:19:03",

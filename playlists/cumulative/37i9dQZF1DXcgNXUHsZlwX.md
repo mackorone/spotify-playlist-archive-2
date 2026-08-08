@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-632 songs - 1 day 13 hr 31 min
+633 songs - 1 day 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Demain ça ira](https://open.spotify.com/track/4W0jV4o6RnyfAuvME4vrdE) | [Mahéja](https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Demain ça ira](https://open.spotify.com/album/4NlzyfHNqjy6oAFz0cMXdU) | 2:43 | 2025-10-24 |  |
 | [Derrière le bruit](https://open.spotify.com/track/124cRsjCieRBFKiwr0yPqV) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Hiboux](https://open.spotify.com/album/4D7WHshT3h2wZngM9x4AzQ) | 4:05 | 2022-07-08 | 2024-04-19 |
 | [Derrière le bruit](https://open.spotify.com/track/4sF6AeNfYOEbTOWuhfix7a) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Hiboux](https://open.spotify.com/album/3ihWY5VoXaOgTtPI2RBRU3) | 4:05 | 2021-01-03\* | 2022-07-29 |
-| [Des histoires qui ne seront jamais finies](https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu) | [Stéphanie Boulay](https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0) | [Ce que je te donne ne disparaît pas](https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ) | 3:46 | 2021-01-15 | 2026-07-25 |
+| [Des histoires qui ne seront jamais finies](https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu) | [Stéphanie Boulay](https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0) | [Ce que je te donne ne disparaît pas](https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ) | 3:46 | 2021-01-15 |  |
 | [Deux cœurs vagabonds](https://open.spotify.com/track/6wmSCqAYA4gO9jziPV2SRC) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Deux cœurs vagabonds](https://open.spotify.com/album/7ClSLWsd75Z35uuTmRNWJa) | 4:19 | 2022-01-28 | 2022-04-13 |
 | [Diapason](https://open.spotify.com/track/4J9BGcZInwo34jQz7OoZ6R) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [Diapason](https://open.spotify.com/album/6rl0ZMWPSni69nx5kheicc) | 2:26 | 2021-01-30 | 2022-07-27 |
 | [Did Life Work Out for You?](https://open.spotify.com/track/16pDdqp376bpBsBFAZqb0R) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [A Week in Nashville](https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1) | 3:19 | 2024-05-17 |  |
@@ -246,7 +246,7 @@
 | [Je t'aime \- take 2](https://open.spotify.com/track/2vpKRYwOB0bri9HP3oe2zH) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Je t'aime \(take 2\)](https://open.spotify.com/album/0Ol7EUSY7zEgLX59Zb1pOe) | 5:31 | 2026-06-05 |  |
 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 | 2021-06-23 | 2022-01-08 |
 | [Je vais te faire danser](https://open.spotify.com/track/4jOmWOr64qpeLx00Q1RCac) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Je vais te faire danser](https://open.spotify.com/album/3gOUfR7gIsMaKQHaMWVGjd) | 3:11 | 2022-09-09 | 2026-05-02 |
-| [JVTPM](https://open.spotify.com/track/0MLcOFQ1tFQwXuJZTO03O4) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Portrait de l'invisible](https://open.spotify.com/album/71PkjAcz0cvoAMtcMTwgfG) | 3:50 | 2026-07-03 |  |
+| [JVTPM](https://open.spotify.com/track/0MLcOFQ1tFQwXuJZTO03O4) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Portrait de l'invisible](https://open.spotify.com/album/71PkjAcz0cvoAMtcMTwgfG) | 3:50 | 2026-07-03 | 2026-08-08 |
 | [Kenny U\-Pull](https://open.spotify.com/track/0n7Zu9yVuPqMYz4oJU25z1) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [PISSENLIT](https://open.spotify.com/album/3MxL97tOzerdtCi366hhZe) | 1:24 | 2021-12-17 | 2022-07-22 |
 | [Kil](https://open.spotify.com/track/2jSkD2rXLAEca1yPY7yRaD) | [Kahtolin](https://open.spotify.com/artist/6dq3Mq1XLJjQbczbsyoQSd) | [Kil](https://open.spotify.com/album/1mHMRc2dTJ3xG7qNMxNk9K) | 4:04 | 2021-11-14 | 2025-10-20 |
 | [Kindergarten Heart](https://open.spotify.com/track/2GH4jJMwqftLSj09POboHO) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Kindergarten Heart](https://open.spotify.com/album/7HJS2A7JWTfHu4arcFcvmC) | 2:57 | 2024-03-08 | 2025-02-08 |
@@ -494,7 +494,7 @@
 | [Rosier\-douleur](https://open.spotify.com/track/7iGASYouVLuiMggmfEB8MM) | [Jean Leloup](https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd) | [L'étrange pays](https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp) | 2:18 | 2021-01-15 |  |
 | [Rue de l'ours \- version du dimanche](https://open.spotify.com/track/67q2II41CAGAn3XAeE3qpa) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Rue de l'ours](https://open.spotify.com/album/77bSNDdVvlZALzMY2LKpsH) | 2:22 | 2021-06-13 | 2021-09-11 |
 | [Régate](https://open.spotify.com/track/4BBLpqkp9eVQS2Ra5MdI6u) | [Mathieu David Gagnon](https://open.spotify.com/artist/4cGEOcEeLrZdOBxVMugZyR), [Flore Laurentienne](https://open.spotify.com/artist/05ElmDRcpwbAIRmLqRw1Bv) | [Régate](https://open.spotify.com/album/0yoKESYqc1kYjvQULklAUk) | 4:44 | 2026-01-30 |  |
-| [Rénos](https://open.spotify.com/track/4aCcNZIdgxiv3Wcykgb9gU) | [Kèthe Magané](https://open.spotify.com/artist/2xRd9oXpHOXzrED7JnyEZL) | [Rénos](https://open.spotify.com/album/2KtAOHXR5FajC5tDu0iH7t) | 2:58 | 2026-07-03 |  |
+| [Rénos](https://open.spotify.com/track/4aCcNZIdgxiv3Wcykgb9gU) | [Kèthe Magané](https://open.spotify.com/artist/2xRd9oXpHOXzrED7JnyEZL) | [Rénos](https://open.spotify.com/album/2KtAOHXR5FajC5tDu0iH7t) | 2:58 | 2026-07-03 | 2026-08-08 |
 | [Rêve américain](https://open.spotify.com/track/24QonUF5uozUXhAnU8UA9B) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Rêve américain](https://open.spotify.com/album/3sdQCZN0xkMIFa8Baokdj0) | 3:37 | 2026-05-01 | 2026-06-14 |
 | [S'il te plaît, fais\-moi danser](https://open.spotify.com/track/0y1UQYcAeo7YS1haA7pTCy) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Treize chansons démodées pour ceux qui ont le cœur abîmé](https://open.spotify.com/album/20xnLUc9BHbjhXi2uVbxrx) | 2:46 | 2026-01-30 | 2026-05-16 |
 | [Sagesse](https://open.spotify.com/track/6Lg74NbMBkG8mezUTNomyq) | [Patrick Prévost](https://open.spotify.com/artist/0dcJ5ddhY1kBbYM0990Wrf) | [Feu de shed](https://open.spotify.com/album/6Ro82MDllRMgOUMKihEtVf) | 4:04 | 2021-01-03\* | 2022-07-28 |
@@ -639,6 +639,7 @@
 | [Écoute ma belle](https://open.spotify.com/track/4LTKSuFur0BIYhKRKUf5Eu) | [BronKo](https://open.spotify.com/artist/2JTDfR1rOVr8DO2EEO0SRs) | [Accroche\-toi](https://open.spotify.com/album/0xfoWauBjCYxWkaK8bIhk0) | 4:00 | 2021-01-15 | 2021-10-03 |
 | [Élégie](https://open.spotify.com/track/5C8JUfpCwJQRrDRQhs1opi) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Il n'y a rien que je ne suis pas](https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S) | 3:18 | 2023-10-20 | 2023-11-11 |
 | [Éthanol](https://open.spotify.com/track/22gFa2IL8z4I6TnSoyGeNe) | [Charlie Juste](https://open.spotify.com/artist/7BoaqqGTdMqAjwzHf3U7Pd) | [Velours et Acide](https://open.spotify.com/album/4WIAf9PKlvUfI0DoSD2Mjy) | 3:35 | 2025-11-14 |  |
+| [Été à Montréal](https://open.spotify.com/track/3fG437ZqIWMFgPZjysVdxe) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Été à Montréal](https://open.spotify.com/album/65XouOCdpWdWj78nnB4BV4) | 5:27 | 2026-08-07 |  |
 | [Île fossiles](https://open.spotify.com/track/3fF9nkIFsjEIhm0477iE4v) | [Makenzie](https://open.spotify.com/artist/13tbVKy5Kmvj8dvBIEzIdS) | [Mousses Mémoires](https://open.spotify.com/album/4Jzwiv01wtaFmZHRJrOCJ9) | 3:40 | 2024-06-07 | 2024-06-29 |
 
 \*This playlist was first scraped on 2021-01-03. Prior content cannot be recovered.

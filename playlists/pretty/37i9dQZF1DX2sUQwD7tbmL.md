@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 
 > The best indie rock vibes — classic and current.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,302,121 likes - 150 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,302,068 likes - 150 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 24 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 |
 | 25 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 |
 | 26 | [Shake It Out](https://open.spotify.com/track/4lY95OMGb9WxP6IYut64ir) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Deluxe Edition\)](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 4:37 |
-| 27 | [Ghostride](https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 2:06 |
-| 28 | [Mama's Boy](https://open.spotify.com/track/65leXqfkdViSssEVN23uYL) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mama's Boy](https://open.spotify.com/album/6dgC3pUWlaKFLbm1sIQxGA) | 2:35 |
+| 27 | [Mama's Boy](https://open.spotify.com/track/65leXqfkdViSssEVN23uYL) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mama's Boy](https://open.spotify.com/album/6dgC3pUWlaKFLbm1sIQxGA) | 2:35 |
+| 28 | [Ghostride](https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 2:06 |
 | 29 | [Kyoto](https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:04 |
 | 30 | [Banquet](https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:16 |
 | 31 | [Metamodernity](https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Metamodernity](https://open.spotify.com/album/1lgZZELIZZwafQJDycr47q) | 2:42 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 90 | [Then It All Goes Away](https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:03 |
 | 91 | [Superbloomer](https://open.spotify.com/track/6HqdxpWOasNjyjLFVXCB6x) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Superbloomer](https://open.spotify.com/album/43M8szELX9et29YildxYbP) | 4:37 |
 | 92 | [Next Exit](https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Next Exit](https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H) | 3:21 |
-| 93 | [Funky Galileo](https://open.spotify.com/track/0TAHhMjG17P5pzlSm1sgSl) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Funky Galileo](https://open.spotify.com/album/4FpWPCgvF7mSQpDZGZgwSU) | 4:06 |
-| 94 | [Showtime](https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [Showtime](https://open.spotify.com/album/3KuRm7unewgWVJkruzxwAA) | 4:40 |
+| 93 | [Showtime](https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [Showtime](https://open.spotify.com/album/3KuRm7unewgWVJkruzxwAA) | 4:40 |
+| 94 | [Funky Galileo](https://open.spotify.com/track/0TAHhMjG17P5pzlSm1sgSl) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Funky Galileo](https://open.spotify.com/album/4FpWPCgvF7mSQpDZGZgwSU) | 4:06 |
 | 95 | [Stella Brown](https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Stella Brown](https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc) | 3:07 |
 | 96 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 |
 | 97 | [Over You](https://open.spotify.com/track/1y1EwXHdAIyt23LJs96bhH) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [No Place Like Home](https://open.spotify.com/album/2GGqnsXKyCzNzlRql3QusN) | 2:26 |
@@ -137,8 +137,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 127 | [palmtreedays\_1644.wav](https://open.spotify.com/track/0kB6xwKamm2Fogar9frsAy) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [palmtreedays\_1644.wav](https://open.spotify.com/album/2T0C483fPDytj1MQWkFa3T) | 4:08 |
 | 128 | [I'm in Love](https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [I'm in Love](https://open.spotify.com/album/19QjNvVQ9PQA5h3jemnLeH) | 3:16 |
 | 129 | [Dead](https://open.spotify.com/track/2LaHq6oy3DYrsmreXlmlwx) | [Quarters](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Into The Rift](https://open.spotify.com/album/7ulrW1c9ERpGyadIqYwu8Y) | 3:39 |
-| 130 | [What's In My Head](https://open.spotify.com/track/5xu1GzyT4hYPDfb57unbeW) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [The Pit \(Bonus Track Version\)](https://open.spotify.com/album/4xUcuRAy6gGtHCfLbOK7sP) | 3:07 |
-| 131 | [Just Before The Morning](https://open.spotify.com/track/0bu0to8kgrXDzWklgZ3BuQ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Time Will Wait For No One](https://open.spotify.com/album/26sOnKsHrZqqo9agigUH4y) | 3:34 |
+| 130 | [Just Before The Morning](https://open.spotify.com/track/0bu0to8kgrXDzWklgZ3BuQ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Time Will Wait For No One](https://open.spotify.com/album/26sOnKsHrZqqo9agigUH4y) | 3:34 |
+| 131 | [What's In My Head](https://open.spotify.com/track/5xu1GzyT4hYPDfb57unbeW) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [The Pit \(Bonus Track Version\)](https://open.spotify.com/album/4xUcuRAy6gGtHCfLbOK7sP) | 3:07 |
 | 132 | [Vickie](https://open.spotify.com/track/57U1PB3FAleLul5wMj5dEZ) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Vickie](https://open.spotify.com/album/526tAZMztvUDsuiSs4Z7Ml) | 3:43 |
 | 133 | [Sure Enough](https://open.spotify.com/track/2ioGdTGwGqyeIJwwADffh0) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Sure Enough](https://open.spotify.com/album/6KE6jdNEjsGzjkQEp2GX3n) | 2:51 |
 | 134 | [Weird](https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [Weird](https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk) | 3:36 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 149 | [Hello](https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Hello, All!](https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4) | 3:23 |
 | 150 | [Back To The Start](https://open.spotify.com/track/3rf2zzhaqAu5Rx4n14YqiU) | [Cary Brothers](https://open.spotify.com/artist/21R50WhyQI5HxWOTr6MyY1) | [Back To The Start](https://open.spotify.com/album/5c09bkL58RiNSPUwKJnlj4) | 3:28 |
 
-Snapshot ID: `AAAAAGtteL5m6wbbhLIZSe5HIMdWgvxo`
+Snapshot ID: `AAAAAEj/G+UwLIbRiEWCe0HbGs2rONGw`

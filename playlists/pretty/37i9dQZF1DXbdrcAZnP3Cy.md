@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 
 > Your favorite Mexican anthems to get the party started!
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,988 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,038 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 44 | [Cahuates, Pistaches](https://open.spotify.com/track/4MzglbfmgFrjfmyEaoKNmD) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Cahuates, Pistaches](https://open.spotify.com/album/6Wia37tqLhyIwKJMJdsRfy) | 2:57 |
 | 45 | [Tragos Amargos](https://open.spotify.com/track/7ENNmSQQajwKTPX0m7ejYA) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Cruzando Fronteras](https://open.spotify.com/album/4gNEQSuUGtz13sLf11vchI) | 2:44 |
 | 46 | [La Dieta](https://open.spotify.com/track/4WIKeVqB17mcYrWE5NWWoN) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 2:44 |
-| 47 | [Sshh!!](https://open.spotify.com/track/6FuPWuTNlltDIM26lPycVF) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL) | [Lo Mejor De...](https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2) | 3:50 |
-| 48 | [El Camaleón](https://open.spotify.com/track/3a6TQVSXm6zCQzNhTVO2Mo) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Camaleón](https://open.spotify.com/album/6w20flSfh4CyLpQALjOape) | 3:06 |
+| 47 | [El Camaleón](https://open.spotify.com/track/3a6TQVSXm6zCQzNhTVO2Mo) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Camaleón](https://open.spotify.com/album/6w20flSfh4CyLpQALjOape) | 3:06 |
+| 48 | [Sshh!!](https://open.spotify.com/track/6FuPWuTNlltDIM26lPycVF) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL) | [Lo Mejor De...](https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2) | 3:50 |
 | 49 | [La Del Moño Colorado](https://open.spotify.com/track/4fkCG6ZvZ4oFHnNJQmD0lE) | [Los Pedernales](https://open.spotify.com/artist/2t9iBcBG9KoBeOZHevRzsc) | [La Del Moño Colorado](https://open.spotify.com/album/6I8NtD0YFtJn6osq3YPadR) | 5:00 |
 | 50 | [Cómo Te Voy A Olvidar](https://open.spotify.com/track/6ltYnjVswCQtRdxmRjCG35) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew) | 4:27 |
 | 51 | [Oye Mujer](https://open.spotify.com/track/5aLELbBB0Pa7TlGJJyBJo9) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Oye Mujer](https://open.spotify.com/album/61g9r3DhCVt25gpz2FD1DD) | 4:12 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 75 | [El Colesterol](https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP) | [Fito Olivares Y La Pura Sabrosura](https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o) | [30 Exitos Inolvidables](https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA) | 2:26 |
 | 76 | [Un Fin en Culiacán](https://open.spotify.com/track/2NRFCNwTDT4uReqyyQrovU) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Un Fin en Culiacán](https://open.spotify.com/album/4x9Oz3RqyQfDslpHrLBXBl) | 2:34 |
 | 77 | [Amor Prohibido](https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:52 |
-| 78 | [Tiene Espinas El Rosal](https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 3:57 |
-| 79 | [En Tu Perra Vida](https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Tu Perra Vida](https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp) | 3:58 |
+| 78 | [En Tu Perra Vida](https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Tu Perra Vida](https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp) | 3:58 |
+| 79 | [Tiene Espinas El Rosal](https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 3:57 |
 | 80 | [Juana La Cubana](https://open.spotify.com/track/1cdpDAE7LHSHviJ73SGuGS) | [Fito Olivares Y La Pura Sabrosura](https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o) | [Exitos Inolvidables](https://open.spotify.com/album/1vmEJQwpLyDznLxVsr1WCv) | 3:10 |
 | 81 | [Arrempujala Arremangala](https://open.spotify.com/track/00xWJo63OSXjWyihycznbe) | [Los Karkik's](https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg) | [Arrempujala Arremangala](https://open.spotify.com/album/7o3jw1zUej7NicDM4pNbzM) | 3:17 |
 | 82 | [La Boda Del Huitlacoche \- Live](https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con Los Honorables \(Live\)](https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 99 | [El Muchacho Alegre](https://open.spotify.com/track/1vWFjySESZSYWZ8GCwGGWt) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Muchacho Alegre](https://open.spotify.com/album/7lgWY3Kx4zTv1fgv0qaRCx) | 2:36 |
 | 100 | [Juana La Cubana](https://open.spotify.com/track/7Eo1JOdPvYYZqveKzXh8pN) | [Fito Olivares Y La Pura Sabrosura](https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o) | [Grandes Exitos "Reinas Y Brujas"](https://open.spotify.com/album/5PMBXQeWRQgGBXfzSaYNIn) | 3:10 |
 
-Snapshot ID: `AAAAANx0wa8ZPupzoj4BgrUMAqIxEL8W`
+Snapshot ID: `AAAAAF380WXpN46lgbB0qPHU3w92JsXY`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 
 > Si tocan a una respondemos todas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,354 likes - 65 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,359 likes - 65 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 32 | [Mujeres](https://open.spotify.com/track/34bvJEceDRCHVQDyPd7sa2) | [Banda Femenil Regional "Mujeres del Viento Florido"](https://open.spotify.com/artist/1x4v8vs04mwdQwKy74mQBd) | [Mujeres](https://open.spotify.com/album/2umjf37Z9va9M5JSgEPR5V) | 3:15 |
 | 33 | [Señorita Revolución](https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Señorita Revolución](https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm) | 2:38 |
 | 34 | [La Manada](https://open.spotify.com/track/42xqEQYMvIfW4DBHFWGGve) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [La Manada](https://open.spotify.com/album/39eY6IRUOQufdaCqAzOejK) | 2:44 |
-| 35 | [Bruja](https://open.spotify.com/track/01XccHu8pc3IIdCyT6lGl4) | [Jueves](https://open.spotify.com/artist/0QgjobhNIK7xjezjEl1giw), [Adryana Marroquín](https://open.spotify.com/artist/4ksR4M4XHakLLh7YaTE7zh), [Fernanda Elío](https://open.spotify.com/artist/3fWL42NNnFgoXDTgVfWVrK), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI), [Lúa Jenn](https://open.spotify.com/artist/7IxAfATN571mFtoyZHwCgE), [Michelle Anzo](https://open.spotify.com/artist/7fF7CiFel3ggkgm1tDIgvb), [Tyna Ros](https://open.spotify.com/artist/0UISs14imd71l4ruoL2XPT), [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV) | [Bruja](https://open.spotify.com/album/1qeYxt5kg2nX9Bw3Qic8jj) | 2:33 |
-| 36 | [Amiga](https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Amiga](https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x) | 2:37 |
+| 35 | [Amiga](https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Amiga](https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x) | 2:37 |
+| 36 | [Bruja](https://open.spotify.com/track/01XccHu8pc3IIdCyT6lGl4) | [Jueves](https://open.spotify.com/artist/0QgjobhNIK7xjezjEl1giw), [Adryana Marroquín](https://open.spotify.com/artist/4ksR4M4XHakLLh7YaTE7zh), [Fernanda Elío](https://open.spotify.com/artist/3fWL42NNnFgoXDTgVfWVrK), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI), [Lúa Jenn](https://open.spotify.com/artist/7IxAfATN571mFtoyZHwCgE), [Michelle Anzo](https://open.spotify.com/artist/7fF7CiFel3ggkgm1tDIgvb), [Tyna Ros](https://open.spotify.com/artist/0UISs14imd71l4ruoL2XPT), [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV) | [Bruja](https://open.spotify.com/album/1qeYxt5kg2nX9Bw3Qic8jj) | 2:33 |
 | 37 | [Femrevolución](https://open.spotify.com/track/3UwupHJgHZk39iE50dR5Zt) | [Lucrecia Aguirre](https://open.spotify.com/artist/4ZUaicOmq3Ywk2VvL4ggbD) | [Femrevolución](https://open.spotify.com/album/2jeoUKyTm20LffOarIjLIM) | 3:14 |
 | 38 | [Ni Una Mas](https://open.spotify.com/track/6kY8v7VDzPWIy1alEDQGM8) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Ni Una Mas](https://open.spotify.com/album/12pHDcyqzSNsZgQJDRiZ3W) | 2:41 |
 | 39 | [Otra Humanidad](https://open.spotify.com/track/3eVZky3RqaMnVXZAXeCvws) | [Marta](https://open.spotify.com/artist/6gqr3AeZrJMU7J2alQlN8Q) | [Marta](https://open.spotify.com/album/0iH9r1Rzfa961VMQx9gFsR) | 3:27 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 64 | [Sororidad](https://open.spotify.com/track/5pdF3LbEvRBiLFSfCjMlmP) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2) | [Autogestión y Resistencia](https://open.spotify.com/album/78MBva8XZUxvaeHANhYG7W) | 3:40 |
 | 65 | [Quememos el Reino](https://open.spotify.com/track/6Q34FSF6Y1VMYC6oGx2R8G) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Quememos el Reino](https://open.spotify.com/album/3L4Ud38y1Kf5cUjlKbAvAR) | 4:27 |
 
-Snapshot ID: `AAAAAB2GqvD0GHcJQM4tvbKdiO+H9DMD`
+Snapshot ID: `AAAAADJorouIXo9koW3Blf97jl6BRl8K`

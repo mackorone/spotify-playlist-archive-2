@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAAEgJ7hQNskSWp0hqL+Bx+f",
+  "snapshot_id": "anPOgAAAAAAEceuWD98LRZQO/bAwgSC2",
   "tracks": [
     {
       "added_at": null,
@@ -68,7 +68,7 @@
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         },
         {
-          "name": "ALI Prod.",
+          "name": "AL1 Producer",
           "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
         }
       ],
@@ -119,8 +119,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Honesty",
-        "url": "https://open.spotify.com/album/1T8KlnyoPrbDgv01kVSFHB"
+        "name": "Qu\u00e9 Mentira Tan Perfecta",
+        "url": "https://open.spotify.com/album/1TldCO3Zg4Y5WhueVcV85Y"
       },
       "artists": [
         {
@@ -134,7 +134,7 @@
       ],
       "duration_ms": 169000,
       "name": "Qu\u00e9 Mentira Tan Perfecta",
-      "url": "https://open.spotify.com/track/1ebEUeKjLYA6R2icUcrDVt"
+      "url": "https://open.spotify.com/track/5JANca2cKP0GEUH0YORHAN"
     },
     {
       "added_at": null,
@@ -148,7 +148,7 @@
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         },
         {
-          "name": "ALI Prod.",
+          "name": "AL1 Producer",
           "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
         }
       ],
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rap Conciencia",
-        "url": "https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 226840,
-      "name": "Pasaporte Colombiano",
-      "url": "https://open.spotify.com/track/6pnaNZn44tnO71640OEEB8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Orgullo Rolo",
         "url": "https://open.spotify.com/album/14FDrpL3A4iOvG3o4W7p9G"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 225130,
       "name": "Orgullo Rolo",
       "url": "https://open.spotify.com/track/43L9Q1jIDLzeaL1J8klKgI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rap Conciencia",
+        "url": "https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 226840,
+      "name": "Pasaporte Colombiano",
+      "url": "https://open.spotify.com/track/6pnaNZn44tnO71640OEEB8"
     },
     {
       "added_at": null,
@@ -292,33 +292,13 @@
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         },
         {
-          "name": "ALI Prod.",
+          "name": "AL1 Producer",
           "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
         }
       ],
       "duration_ms": 205293,
       "name": "Yo Me Identifico",
       "url": "https://open.spotify.com/track/25fyXzQ48jehni3yxFT2mt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Manjit",
-        "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "T-Chord",
-          "url": "https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW"
-        }
-      ],
-      "duration_ms": 170501,
-      "name": "Buen Viaje",
-      "url": "https://open.spotify.com/track/4yKTuSizI3B6Rkd2CF0fAE"
     },
     {
       "added_at": null,
@@ -351,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ginger Shots",
-        "url": "https://open.spotify.com/album/74uFn1HnCmmtC1c7kH0IfT"
+        "name": "Manjit",
+        "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
       },
       "artists": [
         {
@@ -360,37 +340,13 @@
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         },
         {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "DJ Babu",
-          "url": "https://open.spotify.com/artist/7LSCBbEAuCqQqE0MGszyKl"
+          "name": "T-Chord",
+          "url": "https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Ginger Shots",
-      "url": "https://open.spotify.com/track/2jIc7fnJJym9vHvDxDIA3M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Palabras del Alma",
-        "url": "https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "ALI Prod.",
-          "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
-        }
-      ],
-      "duration_ms": 193760,
-      "name": "Hoy Quiero Confesarles",
-      "url": "https://open.spotify.com/track/3FKYwSwP5G8SDRUqCeozMJ"
+      "duration_ms": 170501,
+      "name": "Buen Viaje",
+      "url": "https://open.spotify.com/track/4yKTuSizI3B6Rkd2CF0fAE"
     },
     {
       "added_at": null,
@@ -459,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manjit",
-        "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
+        "name": "Palabras del Alma",
+        "url": "https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV"
       },
       "artists": [
         {
@@ -468,13 +424,37 @@
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         },
         {
-          "name": "T-Chord",
-          "url": "https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW"
+          "name": "AL1 Producer",
+          "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
         }
       ],
-      "duration_ms": 201804,
-      "name": "Uno",
-      "url": "https://open.spotify.com/track/61EDQPLruQ9gKRNLTndsGi"
+      "duration_ms": 193760,
+      "name": "Hoy Quiero Confesarles",
+      "url": "https://open.spotify.com/track/3FKYwSwP5G8SDRUqCeozMJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ginger Shots",
+        "url": "https://open.spotify.com/album/74uFn1HnCmmtC1c7kH0IfT"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "DJ Babu",
+          "url": "https://open.spotify.com/artist/7LSCBbEAuCqQqE0MGszyKl"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Ginger Shots",
+      "url": "https://open.spotify.com/track/2jIc7fnJJym9vHvDxDIA3M"
     },
     {
       "added_at": null,
@@ -503,6 +483,26 @@
       "duration_ms": 206165,
       "name": "En los Brazos de Morfeo",
       "url": "https://open.spotify.com/track/4OJ7fRdpcFMKW3sxaCZ22h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Manjit",
+        "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "T-Chord",
+          "url": "https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW"
+        }
+      ],
+      "duration_ms": 201804,
+      "name": "Uno",
+      "url": "https://open.spotify.com/track/61EDQPLruQ9gKRNLTndsGi"
     },
     {
       "added_at": null,
@@ -880,7 +880,7 @@
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         },
         {
-          "name": "ALI Prod.",
+          "name": "AL1 Producer",
           "url": "https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu"
         }
       ],
@@ -915,22 +915,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/6pNVucax5EH9Nf90F6qqBq"
+        "name": "Ya fue",
+        "url": "https://open.spotify.com/album/0WCw63aOrUIGTPcstGvm9g"
       },
       "artists": [
         {
-          "name": "La Etnnia",
-          "url": "https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H"
-        },
-        {
           "name": "Ali Aka Mind",
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Dj J.L.P",
+          "url": "https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij"
         }
       ],
-      "duration_ms": 265898,
-      "name": "Sue\u00f1os Sepultados",
-      "url": "https://open.spotify.com/track/3deoRtMWD5a0EGuArmzCds"
+      "duration_ms": 184651,
+      "name": "Ya fue",
+      "url": "https://open.spotify.com/track/2DqDBdfLbgWOCcSPBQrEuR"
     },
     {
       "added_at": null,
@@ -991,6 +991,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/6pNVucax5EH9Nf90F6qqBq"
+      },
+      "artists": [
+        {
+          "name": "La Etnnia",
+          "url": "https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H"
+        },
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 265898,
+      "name": "Sue\u00f1os Sepultados",
+      "url": "https://open.spotify.com/track/3deoRtMWD5a0EGuArmzCds"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emancipaci\u00f3n",
         "url": "https://open.spotify.com/album/3IggidKSJedptBQMM88Tz5"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 234056,
       "name": "Emancipaci\u00f3n",
       "url": "https://open.spotify.com/track/2zfhbG3kCZdsQpwmVCnDhb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya fue",
-        "url": "https://open.spotify.com/album/0WCw63aOrUIGTPcstGvm9g"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Dj J.L.P",
-          "url": "https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij"
-        }
-      ],
-      "duration_ms": 184651,
-      "name": "Ya fue",
-      "url": "https://open.spotify.com/track/2DqDBdfLbgWOCcSPBQrEuR"
     },
     {
       "added_at": null,
@@ -1075,22 +1075,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rap Conciencia",
-        "url": "https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Rap Conciencia",
-      "url": "https://open.spotify.com/track/1oJd8YPikS1ELTWzxxaA9y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todo El Tiempo",
         "url": "https://open.spotify.com/album/7m4shGjRscqyAN8SiOmfBv"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 153088,
       "name": "Todo El Tiempo",
       "url": "https://open.spotify.com/track/3dZRc9MeHmcj7CAHtDL4oP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rap Conciencia",
+        "url": "https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Rap Conciencia",
+      "url": "https://open.spotify.com/track/1oJd8YPikS1ELTWzxxaA9y"
     },
     {
       "added_at": null,

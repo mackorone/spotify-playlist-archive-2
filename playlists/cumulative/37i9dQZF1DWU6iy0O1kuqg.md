@@ -2,9 +2,9 @@
 
 ### [Norteño\-Banda](https://open.spotify.com/playlist/37i9dQZF1DWU6iy0O1kuqg)
 
-> ¡Lo mejor de dos mundos! Qué retumbe la tuba y arremangue el acordeón\. Clave Especial y Los Parras en portada.
+> ¡Lo mejor de dos mundos! Qué retumbe la tuba y arremangue el acordeón\. Calibre 50 en portada.
 
-75 songs - 4 hr 8 min
+76 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [La Ultima Sombra](https://open.spotify.com/track/6Z5k18VPZu4b1IaIQmbecn) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ni Hoy Ni Manana](https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL) | 3:57 | 2023-02-24 |  |
 | [Levantando Polvadera](https://open.spotify.com/track/4rQyZTWAh23M9fndTO0TWG) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Levantando Polvadera \(Versión Deluxe\)](https://open.spotify.com/album/69YTjXSiMwojeJytLOHhW6) | 3:05 | 2023-02-24 |  |
 | [Me Gustas Mucho](https://open.spotify.com/track/3l2IN6sBGjNBO0WL8UOsNH) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Me Gustas Mucho](https://open.spotify.com/album/0VWQifu9sjPwdxyFnVQPeg) | 3:04 | 2023-02-24 |  |
+| [Mi Problema](https://open.spotify.com/track/7rPsUk73ECuvuliteIS5LE) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Mi Problema](https://open.spotify.com/album/4R8EESNE81YaF6xBamLsjW) | 2:54 | 2026-08-07 |  |
 | [No Eres Tu Ahora Soy Yo](https://open.spotify.com/track/2id1k05l5qxinSNil4mfdM) | [Tito Torbellino](https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ) | [20 Canciones Banda y Norteno](https://open.spotify.com/album/7gct4wYWnkGa4lm44P8Lgt) | 2:36 | 2023-02-24 | 2024-04-19 |
 | [No Eres Tu Ahora Soy Yo](https://open.spotify.com/track/755mDnwiqFcX1OOATeglOC) | [Tito Torbellino](https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ) | [20 Canciones Banda y Norteno](https://open.spotify.com/album/6zFlPbgZKZFN5t40RMg065) | 2:36 | 2023-12-01 |  |
 | [Ojos Verdes](https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 3:57 | 2023-02-24 |  |
@@ -59,7 +60,7 @@
 | [Popurri Boleros Cadetes \- En Vivo](https://open.spotify.com/track/5Lia7C8L7kLH0xQOwOY8pG) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [En Vivo Desde la Paz](https://open.spotify.com/album/2lytKS4AnSzjNUD00xzA6f) | 7:38 | 2023-02-24 | 2024-04-19 |
 | [Popurri Boleros Cadetes \- En Vivo](https://open.spotify.com/track/7LJKlA3EIT2UmMujVquf5S) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [En Vivo Desde la Paz](https://open.spotify.com/album/0b6lw7RY7naWJ42VJfmbtN) | 7:38 | 2023-02-24 | 2026-04-18 |
 | [Por La Baja Navegamos](https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [La Loteria](https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W) | 2:56 | 2023-02-24 |  |
-| [Pudiste Pero No Quisiste](https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 | 2023-12-01 |  |
+| [Pudiste Pero No Quisiste](https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 | 2023-12-01 | 2026-08-08 |
 | [Que Sea](https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Que Sea](https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR) | 2:50 | 2023-02-24 | 2026-04-18 |
 | [Retiro Lo Dicho](https://open.spotify.com/track/5YKwBEWnjGEI0lyb9TlMa4) | [La Estructura](https://open.spotify.com/artist/3NKAZv5HQxhNZfDl3VIQpF) | [Retiro Lo Dicho](https://open.spotify.com/album/2FZkqzYkOasSqBMUz5KI8s) | 2:56 | 2023-02-24 | 2023-12-02 |
 | [San Juditas](https://open.spotify.com/track/0e4XsSHI3vC0Oh5aAVKq01) | [Tito Torbellino](https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ) | [20 Corridos \- Corridos Reales No Payasadas](https://open.spotify.com/album/6TRRZdFmspMalRvacjvGV0) | 2:45 | 2023-12-01 |  |

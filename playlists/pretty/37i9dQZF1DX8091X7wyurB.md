@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 
 > Praise and Worship the Almighty God with the best songs\. A mix of both African and International songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,301 likes - 80 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,392 likes - 80 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 52 | [Eze Abata](https://open.spotify.com/track/1aQZLDDr7jzMNbU4pzv92M) | [Amb\. Sis\. Chinyere Udoma](https://open.spotify.com/artist/4IWeky4mkNYQ8mdYq8rqp6) | [Eze Abata](https://open.spotify.com/album/6FzzVeo6Mz3MNTOMu5fy1a) | 8:16 |
 | 53 | [What A Beautiful Name \- Live](https://open.spotify.com/track/4EiKZxDgW0sbT8BZ9Gl6dC) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [let there be light.](https://open.spotify.com/album/5afUmwQPcIv6g6Yi5DW7VB) | 5:43 |
 | 54 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 |
-| 55 | [Iba](https://open.spotify.com/track/0EWnPlQCVV2fTp0EGvLnjY) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Dasola Akinbule](https://open.spotify.com/artist/5HCuA4YozzSyHhEPmbYoy6) | [Iba](https://open.spotify.com/album/3bdmsRx4jXf9I2w4x5lY3d) | 10:25 |
-| 56 | [I Know A Name \(with Cece Winans\)](https://open.spotify.com/track/1r8WQfbxvLiyxBjY1jgKIW) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [King Of Hearts](https://open.spotify.com/album/39sqUPX1iGhkoubpTi9ORw) | 5:39 |
+| 55 | [I Know A Name \(with Cece Winans\)](https://open.spotify.com/track/1r8WQfbxvLiyxBjY1jgKIW) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [King Of Hearts](https://open.spotify.com/album/39sqUPX1iGhkoubpTi9ORw) | 5:39 |
+| 56 | [Iba](https://open.spotify.com/track/0EWnPlQCVV2fTp0EGvLnjY) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Dasola Akinbule](https://open.spotify.com/artist/5HCuA4YozzSyHhEPmbYoy6) | [Iba](https://open.spotify.com/album/3bdmsRx4jXf9I2w4x5lY3d) | 10:25 |
 | 57 | [No Longer Bound \(I'm Free\)](https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [No Longer Bound \(I'm Free\)](https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP) | 2:55 |
 | 58 | [Defe Defe](https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 6:46 |
 | 59 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 79 | [Kulungile Baba](https://open.spotify.com/track/1lVle6qDY5DRMiJFgHyd3i) | [S'fiso Ncwane](https://open.spotify.com/artist/3S8kh2omzAwuqU2wac2xES) | [Kulungile Baba](https://open.spotify.com/album/7iZJDcW68iks6zXB6x14Mb) | 4:44 |
 | 80 | [Chinedum](https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:40 |
 
-Snapshot ID: `AAAAAGnDfwOgnXOTi4fHL2pKzRD0YY+e`
+Snapshot ID: `AAAAAIKRUjE8xWtCLXzkAj1dwHhaZX45`

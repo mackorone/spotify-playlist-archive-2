@@ -4,7 +4,7 @@
 
 > Piano music for fall vibes and autumnal moods.
 
-548 songs - 23 hr 50 min
+549 songs - 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Herz gebrochen](https://open.spotify.com/track/2x6qK1oorFfWjIZ9bRf1MZ) | [Frida Frisk](https://open.spotify.com/artist/7xLTHxwZlyswxyMpdZzI8C) | [Herz gebrochen](https://open.spotify.com/album/6MMQUxAJVvAbp1Vi3Rx2oL) | 2:14 | 2023-03-10 | 2025-08-13 |
 | [Highland](https://open.spotify.com/track/3LfTQeunHVYq4yatmvkuuC) | [Max Swan](https://open.spotify.com/artist/2d1JYQW1AqWDJYigDlLLPj) | [Highland](https://open.spotify.com/album/26aPY0RbEgpgaf8zMpPTHA) | 2:47 | 2025-07-07 |  |
 | [Higo](https://open.spotify.com/track/4oBfjodJjWjJmYgDlZp7PV) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Higo](https://open.spotify.com/album/4fgRDKhFP0XVWAYXgGdsH0) | 2:54 | 2023-03-10 | 2025-11-06 |
+| [Hippeastrum](https://open.spotify.com/track/2KURSE23ccOoBJK5D1pG1n) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [Hippeastrum](https://open.spotify.com/album/2OFrdeX7NQqBI5usv8FpK6) | 2:13 | 2026-08-07 |  |
 | [Holding On To A Dream](https://open.spotify.com/track/3JckG2zBLn2DMyaB7kInQ1) | [Tedosio](https://open.spotify.com/artist/3El5MgGZoJYZvUhnn9O94A) | [Holding On To A Dream](https://open.spotify.com/album/7xWCR5yrTl5TquNUxPEnq4) | 2:23 | 2023-03-10 | 2024-03-26 |
 | [Homage](https://open.spotify.com/track/5imJAvlEBQf9OWjogd3VEm) | [Inside Lands](https://open.spotify.com/artist/7fQumDmow1qrPuRXqMHUa7) | [Homage](https://open.spotify.com/album/0U0hTrIvfgJCB59rb8sApb) | 2:43 | 2023-03-10 | 2025-08-13 |
 | [Home](https://open.spotify.com/track/05Q8uBYvjswv0o6tleaVai) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Home](https://open.spotify.com/album/42kPAPri8I3wQyc42KZ9ok) | 3:25 | 2023-03-10 |  |

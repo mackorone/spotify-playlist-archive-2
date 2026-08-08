@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 
 > The IDs that got us here\. \#Spotify20
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,062 likes - 95 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,063 likes - 95 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 | 64 | [Higher Ground](https://open.spotify.com/track/3PRPiS8XO5BDwtBePgAlVM) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns) | [TNGHT](https://open.spotify.com/album/3YryuS3uTm7wogdtqaAb6A) | 3:19 |
 | 65 | [Counting \- Sammy Virji Remix](https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Counting \(Sammy Virji Remix\)](https://open.spotify.com/album/2xgQT3uMk4sAalIAEsVG8n) | 3:34 |
 | 66 | [Wololo \(feat\. Mampintsha\)](https://open.spotify.com/track/0gkhHVkv7DXEl45Kz9Wc02) | [Babes Wodumo](https://open.spotify.com/artist/3jfVtv9mWfW0c5b3Fx440e), [Mampintsha](https://open.spotify.com/artist/2XyZibBnLI6ciT5J5ynkUK) | [Gqom Queen, Vol\. 1](https://open.spotify.com/album/559VwCubqkBKyHnX9jNFCW) | 6:30 |
-| 67 | [Not So Much](https://open.spotify.com/track/12OGDOFXnFjglpMNlUXw7r) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Holy Love](https://open.spotify.com/album/05BFW14n8oRIelRWgVZoF5) | 4:06 |
-| 68 | [U](https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Time Spent Away From U](https://open.spotify.com/album/5DlpzmONGJYLOUBcHvjfSM) | 6:08 |
+| 67 | [U](https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Time Spent Away From U](https://open.spotify.com/album/5DlpzmONGJYLOUBcHvjfSM) | 6:08 |
+| 68 | [Not So Much](https://open.spotify.com/track/12OGDOFXnFjglpMNlUXw7r) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Holy Love](https://open.spotify.com/album/05BFW14n8oRIelRWgVZoF5) | 4:06 |
 | 69 | [Bigger Than Prince \- Hot Since 82 Remix](https://open.spotify.com/track/3PW35Q7BLZ4xoHgCRxUZ4f) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [The Chapters of Green Velvet](https://open.spotify.com/album/1hn0CRNZw1u16Jd2Vvopt4) | 6:34 |
 | 70 | [The Shit Baby](https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI), [D Taylor](https://open.spotify.com/artist/5T3UHLFXGCs6i2EmnYMo5I) | [Thank You for Letting Me Be Myself](https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi) | 6:53 |
 | 71 | [The Trouble With Us](https://open.spotify.com/track/3R4YGabTbQOCI2QQFOoExz) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [Marcus Marr](https://open.spotify.com/artist/6l5dAUNRhHnRSPPmRJSKQr) | [Work](https://open.spotify.com/album/4yEYyherxD08uFcJqn7gDP) | 3:42 |
@@ -96,12 +96,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 | 86 | [Pura](https://open.spotify.com/track/4h0ahxYxMcgg6rmwVTr9AA) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [Pura](https://open.spotify.com/album/2WsUR9vWIndOnjKXvYcu3c) | 2:51 |
 | 87 | [Give it to Me](https://open.spotify.com/track/1Wp6y19X585x9sujeZFCJ4) | [Sally C](https://open.spotify.com/artist/3AkVHCDEo2WuaVtMglFfN8) | [Big Saldo's Chunker 002](https://open.spotify.com/album/7vCrMkN3vcD2SWfmZd3fYH) | 7:09 |
 | 88 | [Downtown](https://open.spotify.com/track/405f1q97DyJHd8txdOF3Ch) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Annette Bowen](https://open.spotify.com/artist/2aUKSEUEhrKaW6vkQnrXq6), [Nikki\-O](https://open.spotify.com/artist/1cVdPPKt04x4LIFGW4rUnL) | [Downtown](https://open.spotify.com/album/0WqEqArdcYA0W8xoOAbeTs) | 3:55 |
-| 89 | [We Give Thee Honor](https://open.spotify.com/track/4SFl7RUrwIz7KZORnRuLB8) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [We Give Thee Honor / Makes Me Wanna](https://open.spotify.com/album/2DINiJB1lCng3gMZO15dL4) | 3:11 |
-| 90 | [Looney](https://open.spotify.com/track/5RBuQi41kgJO9qDdcMLof7) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Looney Talks](https://open.spotify.com/album/1ijBvXjoA3te20e27FfVGF) | 6:00 |
+| 89 | [Looney](https://open.spotify.com/track/5RBuQi41kgJO9qDdcMLof7) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Looney Talks](https://open.spotify.com/album/1ijBvXjoA3te20e27FfVGF) | 6:00 |
+| 90 | [We Give Thee Honor](https://open.spotify.com/track/4SFl7RUrwIz7KZORnRuLB8) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [We Give Thee Honor / Makes Me Wanna](https://open.spotify.com/album/2DINiJB1lCng3gMZO15dL4) | 3:11 |
 | 91 | [Archangel](https://open.spotify.com/track/6evpAJCR5GeeHDGgv3aXb3) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1C30LhZB9I48LdpVCRRYvq) | 4:00 |
 | 92 | [raingurl](https://open.spotify.com/track/4gRAniZdYF2zVrDUsNC9tU) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [raingurl](https://open.spotify.com/album/3YtDhWqQOTOT6XD2DQHpBr) | 3:57 |
 | 93 | [Let It Go \(with Marc E\. Bassy\)](https://open.spotify.com/track/3TvNcBtucVO8flCgst1ESc) | [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Let It Go \(with Marc E\. Bassy\)](https://open.spotify.com/album/3yAuFFA0zd9J0sJi3JGpvt) | 3:24 |
 | 94 | [When A Fire Starts To Burn](https://open.spotify.com/track/7cyUppcNj7ojpzPlB0CPW9) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Settle](https://open.spotify.com/album/1ZFGRj11NnZHos8DUbbpF1) | 4:43 |
 | 95 | [Beg \- Hot Since 82 Future Mix](https://open.spotify.com/track/4RjnbnZ6xGHDYFbywiiQ3I) | [Yousef](https://open.spotify.com/artist/6qIx4vKCCV9aW1CvTR3GES), [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Beg](https://open.spotify.com/album/00Pe7GWhQLFpqv6Ir1zW86) | 6:50 |
 
-Snapshot ID: `AAAAAGk011nnLq1la45DLZUx6O816hu9`
+Snapshot ID: `AAAAALMnhw7Z7AVrHXhZbuk698wZ3Xu/`

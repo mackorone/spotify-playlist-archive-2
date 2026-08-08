@@ -4,7 +4,7 @@
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-370 songs - 21 hr 28 min
+371 songs - 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Lo Mismo Que A Mí](https://open.spotify.com/track/6sIvFhsKL8by5feYLeqawQ) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Lo Mismo Que A Mí](https://open.spotify.com/album/3lbQBPriMFQ07NUhMbYZO6) | 3:06 | 2024-10-11 |  |
 | [Lo Que Me Duele / Y Que Pasó](https://open.spotify.com/track/7vL8ZEvLOXXW9SiL9ulZRZ) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Lo Que Me Duele / Y Que Pasó](https://open.spotify.com/album/3CtG7vSvFhZqFPryWeuZ0N) | 4:44 | 2024-03-22 | 2026-02-25 |
 | [Loquita \- Remix](https://open.spotify.com/track/2N0hVk2Ant8751xPZUjCV2) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Los Turros](https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Cristian Di Marco](https://open.spotify.com/artist/1NtRGHzfJ8H7dENIXu1tdk) | [Loquita \(Remix\)](https://open.spotify.com/album/0jhYJp2HjjXL4Qr30p8THp) | 3:31 | 2024-06-07 |  |
-| [Los Infieles](https://open.spotify.com/track/60N0Hb2yL4daYW4u3Ijw4I) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Y la cumbia se baila así...](https://open.spotify.com/album/1C4JGlucUtnJGEBj7I9BQN) | 3:18 | 2024-04-19 |  |
+| [Los Infieles](https://open.spotify.com/track/60N0Hb2yL4daYW4u3Ijw4I) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Y la cumbia se baila así...](https://open.spotify.com/album/1C4JGlucUtnJGEBj7I9BQN) | 3:18 | 2024-04-19 | 2026-08-08 |
 | [Los Vagos](https://open.spotify.com/track/7t4XvCLzTHA6IksAEPjeVT) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [Los Vagos](https://open.spotify.com/album/2qqxELPkyx4l9X492OrD7A) | 2:15 | 2024-10-25 | 2025-11-21 |
 | [Manos de Tijera](https://open.spotify.com/track/703pazG4eZUZHohBBgs4SM) | [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR) | [Manos de Tijera](https://open.spotify.com/album/0E3sJKvxHzRNwTovcf3seP) | 5:41 | 2023-09-26 | 2025-12-04 |
 | [Maravillosa Esta Noche](https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Maravillosa Esta Noche](https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb) | 4:02 | 2025-10-24 |  |
@@ -328,6 +328,7 @@
 | [Te Tengo que Olvidar](https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7) | [Los Del Maranaho](https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs) | [20 Grandes Exitos](https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n) | 3:13 | 2025-11-20 |  |
 | [Te Vas a Arrepentir](https://open.spotify.com/track/5XjusjnRecmB48YdD9BEIJ) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Los Más Queridos](https://open.spotify.com/album/6I4Hfrp7oGAXRmPjcfCAW4) | 3:23 | 2023-05-05 | 2024-04-19 |
 | [Te Vi](https://open.spotify.com/track/0Czh7yRIgkTJfM9Ju4QY88) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ) | [Sueño Cumplido](https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz) | 3:10 | 2023-05-18 |  |
+| [Te vi](https://open.spotify.com/track/02gRSpvCv9BjnTxirDeFcX) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Te vi](https://open.spotify.com/album/4koSwd9nFH8Ai8edKqYeFS) | 2:38 | 2026-08-07 |  |
 | [Te Voy a Amar](https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70) | [Los Cadiz](https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig) | [Imparables](https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag) | 3:20 | 2023-05-05 |  |
 | [Tengo la Primicia](https://open.spotify.com/track/26UQr9glXkYsjeFBog6UPj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Eres](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 2:58 | 2024-04-19 |  |
 | [Toma Que Toma](https://open.spotify.com/track/6yyMCHaI791nDwTuUv3F6J) | [Las Culisueltas](https://open.spotify.com/artist/6GfDEGpIgzDdxCBpNCF4Np) | [Toma Que Toma](https://open.spotify.com/album/6fkih0rIXP26FGe3Ool6MX) | 3:11 | 2025-06-27 | 2025-07-05 |

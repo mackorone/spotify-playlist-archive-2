@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 
 > Sapphic songs that defined your music taste as "yearning."
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,592,491 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,592,571 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 | 58 | [I Know](https://open.spotify.com/track/0uhYgQQ6WX9rCONnum7Fmw) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 4:55 |
 | 59 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 |
 | 60 | [Kokomo, IN](https://open.spotify.com/track/0O4sIQ728ugLlwBVaxF8UM) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:38 |
-| 61 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 |
-| 62 | [End Of The World](https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 3:54 |
+| 61 | [End Of The World](https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 3:54 |
+| 62 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 |
 | 63 | [Visions of Gideon](https://open.spotify.com/track/5c9qm0bMYawSyRNUTmUMs5) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Call Me by Your Name \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/531pUFZ1BbEhfXDxitF8TU) | 4:07 |
 | 64 | [Sea of Love](https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Covers Record](https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND) | 2:19 |
 | 65 | [Tommy's Party](https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 6:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 | 74 | [Come Down Soon](https://open.spotify.com/track/6rEcXviYlZCEx01m1z7qZv) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 3:44 |
 | 75 | [Best Guess](https://open.spotify.com/track/2u6VEZjUu5P3GVfUMDIIbu) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 4:00 |
 
-Snapshot ID: `AAAAAAP0Fazd0nnXCpz/kUKRj5SD2WEO`
+Snapshot ID: `AAAAAB27FipJMxFDNUMK8CVXk0VISR6F`

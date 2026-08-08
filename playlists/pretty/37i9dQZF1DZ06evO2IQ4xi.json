@@ -1,12 +1,12 @@
 {
   "description": "This is Doechii. The essential tracks, all in one playlist.",
-  "num_followers": 107451,
+  "num_followers": 107468,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAACksK/sEtbCqwF4Wz09B+PC",
+  "snapshot_id": "anPOgAAAAAB7F5gtcQAFDseceYNk6vJg",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oh The Places You\u2019ll Go",
+        "url": "https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 275526,
+      "name": "Yucky Blucky Fruitcake",
+      "url": "https://open.spotify.com/track/1j3SdMJfeRJXycCp50boYE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "143",
         "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 198461,
       "name": "I'M HIS, HE'S MINE (feat. Doechii)",
       "url": "https://open.spotify.com/track/7EIPVo13rl0uwKbjubMnc7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oh The Places You\u2019ll Go",
-        "url": "https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 275526,
-      "name": "Yucky Blucky Fruitcake",
-      "url": "https://open.spotify.com/track/1j3SdMJfeRJXycCp50boYE"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coven Music Session, Vol. 1",
-        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 58801,
-      "name": "60 Seconds",
-      "url": "https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EGYPT (Remix)",
         "url": "https://open.spotify.com/album/3XC0hyQcq2vsrpGXZKtGs2"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 165643,
       "name": "EGYPT - Remix",
       "url": "https://open.spotify.com/track/61b65LQ9rxhcMtDEusHPZL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coven Music Session, Vol. 1",
+        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 58801,
+      "name": "60 Seconds",
+      "url": "https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte"
     },
     {
       "added_at": null,

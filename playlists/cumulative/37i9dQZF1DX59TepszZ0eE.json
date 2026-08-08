@@ -5004,6 +5004,24 @@
     {
       "album": {
         "name": "Ngiyabonga",
+        "url": "https://open.spotify.com/album/7lgHRNpZbmmYHL6qnM0Kw3"
+      },
+      "artists": [
+        {
+          "name": "Sipho Makhabane",
+          "url": "https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278719,
+      "name": "Ngiyabonga",
+      "url": "https://open.spotify.com/track/7z1CeYr4VpiyJ9r5HXtcSe"
+    },
+    {
+      "album": {
+        "name": "Ngiyabonga",
         "url": "https://open.spotify.com/album/7CYoNDGaHw0sN1xWVpifbO"
       },
       "artists": [
@@ -7064,24 +7082,6 @@
       "duration_ms": 349691,
       "name": "To The Deep",
       "url": "https://open.spotify.com/track/5r9q9MzeexXef7visJl9LL"
-    },
-    {
-      "album": {
-        "name": "Ngiyabonga",
-        "url": "https://open.spotify.com/album/7lgHRNpZbmmYHL6qnM0Kw3"
-      },
-      "artists": [
-        {
-          "name": "Sipho Makhabane",
-          "url": "https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2"
-        }
-      ],
-      "date_added": "2026-08-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/7z1CeYr4VpiyJ9r5HXtcSe"
     },
     {
       "album": {

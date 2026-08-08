@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 
 > Discover the multifaceted creativity of the Black queer community\. Cover: Durand Bernarr
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,808 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,816 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 45 | [Honey](https://open.spotify.com/track/5QTdOvIF2ehBMZpSIIGzIo) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Honey](https://open.spotify.com/album/2D37uNhXgherfImusGBKTx) | 3:19 |
 | 46 | [Too Good](https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:41 |
 | 47 | [do what i say](https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [do what i say](https://open.spotify.com/album/7pIJAfTKAZ0YoLhdjTwM1E) | 3:08 |
-| 48 | [Needs](https://open.spotify.com/track/6sg284TefDkBpFh0317Agp) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [BB/ANG3L](https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM) | 2:26 |
-| 49 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 |
+| 48 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 |
+| 49 | [Needs](https://open.spotify.com/track/6sg284TefDkBpFh0317Agp) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [BB/ANG3L](https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM) | 2:26 |
 | 50 | [Clothes Off \(feat\. kwn\)](https://open.spotify.com/track/1sNYvKAc4xMIb7FURYo04r) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [While We Wait 2](https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA) | 3:49 |
 | 51 | [BAD BITCHES](https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [LOVE ON DIGITAL](https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K) | 3:45 |
 | 52 | [Sl\*t Him Out](https://open.spotify.com/track/03AgMO71u7FXf2SV32oP76) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [What's Love / Sl\*t Him Out](https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9) | 2:52 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 54 | [Valentina](https://open.spotify.com/track/2ax9yh9o3eJWbJZbF8tDvj) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Valentina](https://open.spotify.com/album/3ZzOPT9jEn4oXC2IY5ZP1p) | 2:08 |
 | 55 | [Not So Sweet](https://open.spotify.com/track/36MdkPZVMopxPWK3MXsE70) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [Not So Sweet](https://open.spotify.com/album/6Zr7GLxnNwy9vVod25bpux) | 3:55 |
 | 56 | [Overqualified](https://open.spotify.com/track/3lHwn0uVcDUXusIKOoBVHp) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 5:18 |
-| 57 | [say im ur luv](https://open.spotify.com/track/0Bs3Lwzs8y9BzKUgvFXPUx) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Forest in the City](https://open.spotify.com/album/7ijzh3hVmlwWRxuJGPSoeR) | 2:31 |
-| 58 | [Touch Me \(feat\. Kehlani\) \- Remix](https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Touch Me \(feat\. Kehlani\) \[Remix\]](https://open.spotify.com/album/4ICez0IybCtHZbAXl5ENWJ) | 3:07 |
+| 57 | [Touch Me \(feat\. Kehlani\) \- Remix](https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Touch Me \(feat\. Kehlani\) \[Remix\]](https://open.spotify.com/album/4ICez0IybCtHZbAXl5ENWJ) | 3:07 |
+| 58 | [say im ur luv](https://open.spotify.com/track/0Bs3Lwzs8y9BzKUgvFXPUx) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Forest in the City](https://open.spotify.com/album/7ijzh3hVmlwWRxuJGPSoeR) | 2:31 |
 | 59 | [Break Me Off](https://open.spotify.com/track/01nqAnr8UmgLjgKSjhLGLF) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Break Me Off](https://open.spotify.com/album/6dQRJLvQNiDEOdH7rri6NS) | 2:54 |
 | 60 | [The Returner](https://open.spotify.com/track/4jYZSSA45xDLnQvIUConFB) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Returner](https://open.spotify.com/album/2rzetXorcdU2BH86aoqHmw) | 3:50 |
 | 61 | [Lgbt](https://open.spotify.com/track/0lsw4q8Jei7gEoV7kFe3DS) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Audacious](https://open.spotify.com/album/0Gg0Pn44Sh7FYtBDzgc5CF) | 2:41 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 68 | [Go To Hell](https://open.spotify.com/track/55oEeRm8eGPqQODbj4iE6q) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [Go To Hell](https://open.spotify.com/album/1WtrlQC3TsKAOTlWjxVdkt) | 3:28 |
 | 69 | [LEAN ON MY BODY](https://open.spotify.com/track/5kN2mbOgVpwSskBzh8Cndz) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Days Before Dreamboy](https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R) | 3:25 |
 | 70 | [Only Have Eyes 42](https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:50 |
-| 71 | [Bounce](https://open.spotify.com/track/2umdZeVXVU5JZCThIq8r6K) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Bounce](https://open.spotify.com/album/2YAtJ3wrDFaLE8rNJaRncW) | 2:26 |
-| 72 | [Grrrl Like](https://open.spotify.com/track/4EZGpYmEN1m5erWvnVsa8a) | [Dope Saint Jude](https://open.spotify.com/artist/47e6jtFUUl53YpTpvzOOMN) | [Grrrl Like](https://open.spotify.com/album/5kqRjRGnmafy2tv229uHsp) | 2:51 |
+| 71 | [Grrrl Like](https://open.spotify.com/track/4EZGpYmEN1m5erWvnVsa8a) | [Dope Saint Jude](https://open.spotify.com/artist/47e6jtFUUl53YpTpvzOOMN) | [Grrrl Like](https://open.spotify.com/album/5kqRjRGnmafy2tv229uHsp) | 2:51 |
+| 72 | [Bounce](https://open.spotify.com/track/2umdZeVXVU5JZCThIq8r6K) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Bounce](https://open.spotify.com/album/2YAtJ3wrDFaLE8rNJaRncW) | 2:26 |
 | 73 | [Try](https://open.spotify.com/track/6ryhqQIMGqBoS3cQQymXrf) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Try](https://open.spotify.com/album/4LUvxjd3yTeXkwRIAubsqX) | 1:53 |
 | 74 | [P.B.S.](https://open.spotify.com/track/0BEdIL6VdG2h8MRGLBoY5d) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [LOVE ON DIGITAL](https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K) | 2:24 |
 | 75 | [The Rush \(feat\. Nia Long & Amaarae\)](https://open.spotify.com/track/7yLA0kPEYxI4ZEYuBwFecQ) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Nia Long](https://open.spotify.com/artist/6BM4RlXELVhbs7U0H1OlnH) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:43 |
 
-Snapshot ID: `AAAAAJhvityUdjP05F0nxI6L5OyI65s2`
+Snapshot ID: `AAAAACkdipD4A2KusTPDwtGj1/giunPc`

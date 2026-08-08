@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/31KmCnNeB0z9GdgtqlLDlH">Kid Harpoon</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,676 likes - 167 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,676 likes - 168 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,5 +175,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 | 165 | [Danger](https://open.spotify.com/track/0TZY2ECfsNYWFWK22do61V) | [Junior Empire](https://open.spotify.com/artist/6LSFdAZPBAOrdeFleGfz6s) | [Junior Empire](https://open.spotify.com/album/5CiWOvmooHOacCSCLCAqPi) | 3:42 |
 | 166 | [Devil In Me](https://open.spotify.com/track/1MwATqhm2jKz0uTOnlu6yf) | [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [Devil In Me](https://open.spotify.com/album/2Gpx4ORjlth9IgGMnKDZhJ) | 3:19 |
 | 167 | [Absent](https://open.spotify.com/track/7KqyvSXcastVzKIcqMCwF3) | [Denai Moore](https://open.spotify.com/artist/4bS7w1U8P3Zuaa5jmj3mvN) | [Elsewhere](https://open.spotify.com/album/4hjsM5a2HmoIFILWbfSmgE) | 3:38 |
+| 168 | [Back from Beyond](https://open.spotify.com/track/4S9hqUcn1R1WFtIAiPy6ID) | [Kid Harpoon](https://open.spotify.com/artist/0raU17YI2OXuenDM7N7gfh) | [Once](https://open.spotify.com/album/2EsDLIabBTzC4IdNU07KAa) | 3:17 |
 
-Snapshot ID: `AcY40gAAAAAH0tEO7RxBZsPTKPHBStUV`
+Snapshot ID: `AcY+GAAAAABIpGkU804sS1FhpjEIPl1D`

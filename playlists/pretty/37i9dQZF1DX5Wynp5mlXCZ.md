@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Українські та світові артисти в добірці найцікавіших поп треків\. Обкладинка: Golubenko
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,227 likes - 70 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,248 likes - 70 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,18 +43,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 33 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
 | 34 | [The Time Of My Life](https://open.spotify.com/track/08JkZRttDnq5SkZ9vCPSjJ) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [The Time Of My Life](https://open.spotify.com/album/5QFHiTkr2OHLAPRWvaD0Hw) | 3:35 |
 | 35 | [Potential](https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Potential](https://open.spotify.com/album/0qqZfp0bh8BpzRZ5jwBLY5) | 4:02 |
-| 36 | [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wink Wink](https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA) | 2:02 |
-| 37 | [brand new chanel$](https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [brand new chanel$](https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg) | 3:58 |
+| 36 | [brand new chanel$](https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [brand new chanel$](https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg) | 3:58 |
+| 37 | [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wink Wink](https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA) | 2:02 |
 | 38 | [i deserve better.](https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:17 |
 | 39 | [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 |
 | 40 | [Mr Electric Blue](https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 3:10 |
-| 41 | [Camera](https://open.spotify.com/track/1C95XJLGL9xyMlsES1uVDQ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Camera](https://open.spotify.com/album/2P5WYw7vAwb5jeFPIU1lMc) | 2:31 |
-| 42 | [Break Up in Reverse](https://open.spotify.com/track/6XdycV0dqSLTk6oZmKVTL6) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Break Up in Reverse](https://open.spotify.com/album/1fvk2zesgMji3Izn69EiBg) | 3:25 |
+| 41 | [Break Up in Reverse](https://open.spotify.com/track/6XdycV0dqSLTk6oZmKVTL6) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Break Up in Reverse](https://open.spotify.com/album/1fvk2zesgMji3Izn69EiBg) | 3:25 |
+| 42 | [Camera](https://open.spotify.com/track/1C95XJLGL9xyMlsES1uVDQ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Camera](https://open.spotify.com/album/2P5WYw7vAwb5jeFPIU1lMc) | 2:31 |
 | 43 | [Eurosummer \- Girls Trip](https://open.spotify.com/track/53fyIvbeN7rfLK1GIZNLDL) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf) | 2:50 |
 | 44 | [Shape of a Woman](https://open.spotify.com/track/6aFsbhzye4yfT25ohmhOQY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 3:29 |
 | 45 | [Talk To Me, Zara](https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Talk To Me, Zara](https://open.spotify.com/album/5geHXgOaOjbB15V5Yx1bqM) | 3:13 |
-| 46 | [Hummer](https://open.spotify.com/track/1GfEpihzfbV6HFt21JA1dz) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hummer](https://open.spotify.com/album/0EdUCo0oxkBCpNK5EM1hfs) | 6:01 |
-| 47 | [Mr\. Know It All](https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/2WFulOVpYFDYBQ4GtoClfz) | 3:18 |
+| 46 | [Mr\. Know It All](https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/2WFulOVpYFDYBQ4GtoClfz) | 3:18 |
+| 47 | [Hummer](https://open.spotify.com/track/1GfEpihzfbV6HFt21JA1dz) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hummer](https://open.spotify.com/album/0EdUCo0oxkBCpNK5EM1hfs) | 6:01 |
 | 48 | [My Guy](https://open.spotify.com/track/3n6ytjkbhypwQsRMreKjyT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [My Guy](https://open.spotify.com/album/0x6tr75ApACgiGnraluC8t) | 3:50 |
 | 49 | [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 |
 | 50 | [I Know You're Hurting.](https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 6:17 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 61 | [Headphones On](https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Headphones On](https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn) | 4:00 |
 | 62 | [Не Пʼяна \- Закохана \- за участі ансамблю «Кралиця»](https://open.spotify.com/track/0stBh1b8Oyi7gW3MdQQSGs) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV) | [Не Пʼяна \- Закохана \(за участі ансамблю «Кралиця»\)](https://open.spotify.com/album/2Y0mXdZdGWGWrKSdLWmPJ2) | 3:43 |
 | 63 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 |
-| 64 | [Repeat It](https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Repeat It](https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11) | 3:11 |
-| 65 | [Walk of Fame \(feat\. Brittany Howard\) \- Edit](https://open.spotify.com/track/22tmzHt5QJ2sMKJefaqkjn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Walk of Fame \(feat\. Brittany Howard\) \[Edit\]](https://open.spotify.com/album/1vnLbFcRPUR6q9vkFuJY26) | 3:37 |
+| 64 | [Walk of Fame \(feat\. Brittany Howard\) \- Edit](https://open.spotify.com/track/22tmzHt5QJ2sMKJefaqkjn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Walk of Fame \(feat\. Brittany Howard\) \[Edit\]](https://open.spotify.com/album/1vnLbFcRPUR6q9vkFuJY26) | 3:37 |
+| 65 | [Repeat It](https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Repeat It](https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11) | 3:11 |
 | 66 | [I Feel So Free](https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I Feel So Free](https://open.spotify.com/album/1BpCZSS9KQ3Dd2eb8ADt1y) | 4:59 |
 | 67 | [Nightingale Lane.](https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Nightingale Lane.](https://open.spotify.com/album/22FLublraJkicHyrK2egu0) | 5:02 |
 | 68 | [спокуслива](https://open.spotify.com/track/68KvH33avv12vQopmu3EdG) | [Nikow](https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe) | [спокуслива](https://open.spotify.com/album/2ylnLPDS2p7uuX4bJg1wFT) | 2:22 |
 | 69 | [A Little More](https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Little More](https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X) | 3:12 |
 | 70 | [Не ходи](https://open.spotify.com/track/0faPtEAgPqDfCtLDzwhujs) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV), [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS) | [Не ходи](https://open.spotify.com/album/3LYf26FM7A3VyzNHdWWpXv) | 2:40 |
 
-Snapshot ID: `AAAAADR4ne0fC2+WezwDHhOZRRuWKnv5`
+Snapshot ID: `AAAAAOgzlYz3RQcHpxW1bsVj6us6C6XZ`

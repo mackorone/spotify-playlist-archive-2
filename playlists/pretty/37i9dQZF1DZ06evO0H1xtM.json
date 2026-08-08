@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 377926,
+  "num_followers": 377989,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAABL+TjYAw4QTh38bbX5Zei4",
+  "snapshot_id": "anPOgAAAAAAGxqkapFeKs5h520TpxYFD",
   "tracks": [
     {
       "added_at": null,
@@ -683,38 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esos Ojitos",
-        "url": "https://open.spotify.com/album/4Ymc0wMm0jrkgJVt7ebQxw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 170938,
-      "name": "Esos Ojitos",
-      "url": "https://open.spotify.com/track/5VfKJd6b8szMMxi5h2b9YV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Catafixia",
-        "url": "https://open.spotify.com/album/4nbbbprIlA9GDUDqlc59CH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 153182,
-      "name": "La Plebada del 09",
-      "url": "https://open.spotify.com/track/1dafTXbbbK0wSsji6VbPJJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BLING BLING",
         "url": "https://open.spotify.com/album/451wD2M8BdRq8SAruNb8c4"
       },
@@ -735,6 +703,38 @@
       "duration_ms": 163057,
       "name": "BLING BLING",
       "url": "https://open.spotify.com/track/3ZsaMkZP7MPxIUcepUW9mS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Catafixia",
+        "url": "https://open.spotify.com/album/4nbbbprIlA9GDUDqlc59CH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 153182,
+      "name": "La Plebada del 09",
+      "url": "https://open.spotify.com/track/1dafTXbbbK0wSsji6VbPJJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esos Ojitos",
+        "url": "https://open.spotify.com/album/4Ymc0wMm0jrkgJVt7ebQxw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 170938,
+      "name": "Esos Ojitos",
+      "url": "https://open.spotify.com/track/5VfKJd6b8szMMxi5h2b9YV"
     },
     {
       "added_at": null,

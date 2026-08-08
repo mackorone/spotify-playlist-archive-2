@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kqwHC.md) - [plain]
 
 > This is Foo Fighters\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,111,674 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,111,869 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,11 +47,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kqwHC.md) - [plain]
 | 37 | [If You Only Knew](https://open.spotify.com/track/4sCttVI6WhAQSuNyJWM3QW) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Your Favorite Toy](https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ) | 4:00 |
 | 38 | [Stacked Actors](https://open.spotify.com/track/1vziI0NCJKrqKiG94COHBa) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 4:16 |
 | 39 | [Dear Rosemary](https://open.spotify.com/track/6HeFCUg1F1v0bnE3JFTlxz) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Wasting Light](https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m) | 4:25 |
-| 40 | [Waiting On A War](https://open.spotify.com/track/4tA8lpQoWkMRWOZ29HbR86) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:13 |
+| 40 | [No Son Of Mine](https://open.spotify.com/track/3jSRg3DPkvNX74Kx28PQnH) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 3:28 |
 | 41 | [Nothing At All](https://open.spotify.com/track/0csL34JYEsHmFBAZ1fgf8G) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:27 |
 | 42 | [Walking After You](https://open.spotify.com/track/7pS2OVdIWviLpz5GOtJLzz) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 5:03 |
 | 43 | [Come Alive](https://open.spotify.com/track/4P4s2KHOw0uISbLI3zkHtD) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 5:10 |
-| 44 | [No Son Of Mine](https://open.spotify.com/track/3jSRg3DPkvNX74Kx28PQnH) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 3:28 |
+| 44 | [Waiting On A War](https://open.spotify.com/track/4tA8lpQoWkMRWOZ29HbR86) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Medicine At Midnight](https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc) | 4:13 |
 | 45 | [Rescued](https://open.spotify.com/track/3nDstVXtr6xbCZKs5Ka2rZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 4:18 |
 | 46 | [Low](https://open.spotify.com/track/3j8ja2Hq824OaRqIENJPTH) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 4:28 |
 | 47 | [Next Year](https://open.spotify.com/track/1WwWjG2FGbBK6IkBBTknao) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 4:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kqwHC.md) - [plain]
 | 49 | [Today's Song](https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Today's Song](https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct) | 3:14 |
 | 50 | [Virginia Moon](https://open.spotify.com/track/2Ei5auE9kCmwKB2JZtKPKO) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 3:48 |
 
-Snapshot ID: `anJ9AAAAAABxz5v6Jlow7WhYDJrKChFa`
+Snapshot ID: `anPOgAAAAAAzMheY0sfROaFVAVAu+IVN`

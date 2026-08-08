@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 
 > Sabah al khair, start your day with extra cardamom and mellow tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,293 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,329 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 12 | [Ya Rayah](https://open.spotify.com/track/7ogJ1jO41fzk8iwlyxNZoK) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV) | [Tekitoi?](https://open.spotify.com/album/1uxmHOG4H7ZiXd6lhXnytU) | 6:13 |
 | 13 | [ميدلي فضل شاكر](https://open.spotify.com/track/3OEVbHugLofLLdQgEpJUZy) | [Nadine Tayseer](https://open.spotify.com/artist/04ZAMGEzdHuE3gTbB3n3yp) | [ميدلي فضل شاكر](https://open.spotify.com/album/3pBS7Adj6jJUOz5t1aoxjZ) | 3:39 |
 | 14 | [Lamma Bada Yatathana](https://open.spotify.com/track/3BhgD8Kun1fXSW1KYTfnEO) | [Lena Chamamyan](https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc) | [The Collection](https://open.spotify.com/album/2fJ49tfoV8bE0XEQ7eQXq3) | 4:01 |
-| 15 | [Khayal](https://open.spotify.com/track/2CWsTZRHy24PwrtQSPfXCn) | [Kazdoura](https://open.spotify.com/artist/7zm6lF98wKwyohB2zFetum) | [Ghoyoum](https://open.spotify.com/album/1ClZnjc27poFIrvyGscC0y) | 3:26 |
-| 16 | [A Vava Inouva](https://open.spotify.com/track/06eEMrvlkBmLLaezDSDcEl) | [Idir](https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc) | [A Vava Inouva](https://open.spotify.com/album/6DrAbBZLRSPeRjVgxlB1q1) | 4:26 |
+| 15 | [A Vava Inouva](https://open.spotify.com/track/06eEMrvlkBmLLaezDSDcEl) | [Idir](https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc) | [A Vava Inouva](https://open.spotify.com/album/6DrAbBZLRSPeRjVgxlB1q1) | 4:26 |
+| 16 | [Khayal](https://open.spotify.com/track/2CWsTZRHy24PwrtQSPfXCn) | [Kazdoura](https://open.spotify.com/artist/7zm6lF98wKwyohB2zFetum) | [Ghoyoum](https://open.spotify.com/album/1ClZnjc27poFIrvyGscC0y) | 3:26 |
 | 17 | [Al Bostah](https://open.spotify.com/track/6GzuaEPTnBhfvZtDeeHzTl) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Legend \- The Best Of Fairuz](https://open.spotify.com/album/7MrdWIvdobTf6MqVD3yILM) | 8:54 |
 | 18 | [Kel El Qasayed](https://open.spotify.com/track/0Eomiq1hNIfh86AGK8LW85) | [Marwan Khoury](https://open.spotify.com/artist/6e6VucoDJD6bmJPlnO7AkN) | [Kel El Qasayed](https://open.spotify.com/album/3uQtUJXjmLNHU0NwfxogKu) | 4:01 |
 | 19 | [Al Bint El Chalabeya](https://open.spotify.com/track/2OxygAH92guaY9kliJboul) | [Dorsaf Hamdani](https://open.spotify.com/artist/4U5Hsr79OtYv01I4hOqruF) | [Dorsaf Hamdani chante Barbara & Fairouz](https://open.spotify.com/album/1GDQ89kQyz1755fry29kVm) | 3:06 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 63 | [Denia Dour](https://open.spotify.com/track/6BLSn19vlhGLwoQWmPaDUc) | [Ÿuma](https://open.spotify.com/artist/1sOql4GlcQ2dlpwtXv8P3v) | [Denia Dour](https://open.spotify.com/album/7i0pjCbQ3amgxYoawJCx5o) | 5:30 |
 | 64 | [thank you, goodnight](https://open.spotify.com/track/20RGgoxcZDyV7A3QftVmC1) | [fulana](https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe), [Input/Output](https://open.spotify.com/artist/0w3WSSamJcgfrVKiXfYphM) | [ground:from](https://open.spotify.com/album/1LymeeHyg8sG6IUR2Olt4k) | 3:22 |
 | 65 | [Ya Ashikata Al Wardi](https://open.spotify.com/track/6gkq5hlwu8ZVK6JUUcLgkI) | [Samer Doumet](https://open.spotify.com/artist/7hlPAEf48Y2eLA4Oax6u47) | [Ya Ashikata Al Wardi](https://open.spotify.com/album/19UIdLolCgvbCkZrSsofqc) | 1:52 |
-| 66 | [Badi Nsafer](https://open.spotify.com/track/2YQIEg63oy29RPK9JxjK1w) | [JOHANNA MORKOS](https://open.spotify.com/artist/3FH2g6XjDpSbPJaiNmto22) | [Badi Nsafer](https://open.spotify.com/album/3rWkdN3EccK10416tX7RgX) | 3:44 |
-| 67 | [قل للمليحة](https://open.spotify.com/track/4NAdNTSdk7RIWDmpOgbaXV) | [Badr Rami](https://open.spotify.com/artist/4NuqxOwvo7JvpI2jwzZDeB) | [قل للمليحة](https://open.spotify.com/album/1pi3jFZkvEZuZ75C4PEoym) | 12:52 |
+| 66 | [قل للمليحة](https://open.spotify.com/track/4NAdNTSdk7RIWDmpOgbaXV) | [Badr Rami](https://open.spotify.com/artist/4NuqxOwvo7JvpI2jwzZDeB) | [قل للمليحة](https://open.spotify.com/album/1pi3jFZkvEZuZ75C4PEoym) | 12:52 |
+| 67 | [Badi Nsafer](https://open.spotify.com/track/2YQIEg63oy29RPK9JxjK1w) | [JOHANNA MORKOS](https://open.spotify.com/artist/3FH2g6XjDpSbPJaiNmto22) | [Badi Nsafer](https://open.spotify.com/album/3rWkdN3EccK10416tX7RgX) | 3:44 |
 | 68 | [Despite the Flop](https://open.spotify.com/track/4qAloJqPLVtUoWYiZnEWS3) | [Faraj Suleiman](https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu) | [Second Verse](https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4) | 2:51 |
 | 69 | [Ana Bakhaf Min El Commitment](https://open.spotify.com/track/5DJLUHviIEbqG1uXaoNzaq) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [El Makina](https://open.spotify.com/album/2EIhDyhOzFspLD2nSj79XK) | 4:20 |
 | 70 | [El Dal'ona](https://open.spotify.com/track/3ImUnIXIkbP00e25eyBSGP) | [Assi El Hallani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [Mahlana Sawa Sawa](https://open.spotify.com/album/6kJqfhhmJhHJKor3FqlHsi) | 11:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 74 | [Bala Wala Shi](https://open.spotify.com/track/7b89zrIr9DsWQVVKeqU3v9) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Bala Wala Shi](https://open.spotify.com/album/0Y9Z6GwBnBoY4C3KvU9Ayx) | 2:46 |
 | 75 | [Yawman ma](https://open.spotify.com/track/1KNxarQdfPFdwFWYD9Puyc) | [Julia Boutros](https://open.spotify.com/artist/1MBqKgaBet9mU8vI0hqj6c), [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu), [Harout Fazlian](https://open.spotify.com/artist/2mRHsZWJr2xQzUVNDcGaJK) | [Yawman ma](https://open.spotify.com/album/2CvvFo64rpMpmO99c7buS1) | 3:22 |
 
-Snapshot ID: `AAAAAA+zgWLsTt7jBFDMqAkMeJHLHepr`
+Snapshot ID: `AAAAAFpPwEDbOibH6SqFhcgkeKvKI8t3`

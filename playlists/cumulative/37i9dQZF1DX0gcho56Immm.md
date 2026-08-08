@@ -2,9 +2,9 @@
 
 ### [Cph+](https://open.spotify.com/playlist/37i9dQZF1DX0gcho56Immm)
 
-> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: daisy
+> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: True Blue
 
-313 songs - 18 hr 7 min
+316 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Kokiri](https://open.spotify.com/track/0nCkxEw2KadeAPrkqdwTKB) | [Lust For Youth](https://open.spotify.com/artist/18x7cMASHAS2NJ4kcLJa1u), [Croatian Amor](https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig) | [Kokiri](https://open.spotify.com/album/1eLzhDC1eCVfMbvO1ietaE) | 4:37 | 2025-03-13 | 2025-11-15 |
 | [L.O.V.E](https://open.spotify.com/track/2tscMbvEl8Zur5gyYwf7bC) | [Soho Rezanejad](https://open.spotify.com/artist/5gEoe0kGMZJytho1bf9PfE) | [L.O.V.E](https://open.spotify.com/album/0w55PPsZ6PnKpFDkWsBRma) | 4:04 | 2025-03-13 | 2025-08-09 |
 | [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 | 2026-05-22 |  |
+| [lao wai](https://open.spotify.com/track/1Kz4kdsoG9XqZReNL3RWZ4) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h), [Shushu](https://open.spotify.com/artist/1UNqLt4phNW6lI5mPSL52P) | [lao wai](https://open.spotify.com/album/4gaBhPu0VextnFP4Y86xsC) | 2:31 | 2026-08-07 |  |
 | [Lay down](https://open.spotify.com/track/3gNKevE17xyH9yh7t3kyFO) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Lay down](https://open.spotify.com/album/0F3oUVTkjXhdv4quHL7vYP) | 4:16 | 2025-05-01 |  |
 | [Let It Go](https://open.spotify.com/track/1awTFbIlHiDAviFFW3hJ7m) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY) | [Crossfade](https://open.spotify.com/album/3rfUDup9i149Ge1ZGoqUlb) | 2:27 | 2026-02-06 |  |
 | [Letters](https://open.spotify.com/track/0B6xHxWg4g7C9174Cx1d0m) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/7h3MMJMKzY03w8VVYgrYWr) | 2:26 | 2025-03-13 |  |
@@ -217,6 +218,7 @@
 | [Portal](https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Portal](https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR) | 2:23 | 2025-09-05 | 2026-05-01 |
 | [Postinternetfame](https://open.spotify.com/track/1EiHTft00amQg7z5TX2lLh) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Postinternetfame / Self Tape](https://open.spotify.com/album/34pUJjYymPU7jioThphtiR) | 2:21 | 2026-03-26 | 2026-04-24 |
 | [Projections \- Colle Remix](https://open.spotify.com/track/1DmvR4odW4niugUweTiw8q) | [Maria Somerville](https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd), [Colle](https://open.spotify.com/artist/1Ntmc8ccjS54sdx3ZVqqPI) | [Projections \(Colle Remix\)](https://open.spotify.com/album/2aDOh93pOT8VkThc8UGn07) | 4:29 | 2025-11-14 | 2026-03-20 |
+| [Proof Shes Picked Her Poison](https://open.spotify.com/track/4Lz7BSQtqLFX1witSjvOJ0) | [True Blue](https://open.spotify.com/artist/43c8bw6Z0PmKc7zJoMnfdW) | [Fountain Edits](https://open.spotify.com/album/47YCO51avOV38XM0KmmEKg) | 4:51 | 2026-08-07 |  |
 | [Push & Pull](https://open.spotify.com/track/5GQ6CEB6IXh4fUj8FTpRWi) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [Push & Pull](https://open.spotify.com/album/5PoFJ3cIu2DeUPTHE3UAkZ) | 3:19 | 2025-11-07 | 2026-04-24 |
 | [Qw4nt0hmW3b](https://open.spotify.com/track/33hWWAHK22EVzZ7Lyry51z) | [Discovery Zone](https://open.spotify.com/artist/4Q3A7ukbHFR5xThu9hZDZt), [E/T](https://open.spotify.com/artist/546bJduW9d8xAi9Wc3nWC9) | [Supernatural](https://open.spotify.com/album/17n8tO0Sm5ahYvvVqONHBr) | 6:51 | 2025-07-11 | 2026-03-07 |
 | [Rare](https://open.spotify.com/track/0mMlGjmEiT1og3pzGseIO9) | [Maria BC](https://open.spotify.com/artist/1GRdVyqsikMsJrvHskjwry) | [Marathon](https://open.spotify.com/album/6DygEWTpUZOaQWSugKs4mk) | 3:20 | 2026-03-06 |  |
@@ -257,6 +259,7 @@
 | [Spring summer](https://open.spotify.com/track/3qRLkEF8PHAvXp6eudfzQ4) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Spring summer](https://open.spotify.com/album/1SznGl13WRMVE8GUT7cvS4) | 2:08 | 2026-04-23 |  |
 | [Star](https://open.spotify.com/track/1rB4MaZhxbxuaIqvbs9nLc) | [Good Sad Happy Bad](https://open.spotify.com/artist/3FPFQDA4cYbvO3O7O5rVWr) | [Shades](https://open.spotify.com/album/4AyXcaqnBjy2J5kHCRLzEA) | 2:32 | 2025-04-10 | 2026-03-07 |
 | [Stardust](https://open.spotify.com/track/6IxRRIh4IcRL5bspf2uP8g) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Facing Atlas](https://open.spotify.com/album/3gfEp3bCySjOJ1vCIFINCi) | 6:46 | 2025-09-23 | 2026-05-01 |
+| [starfish](https://open.spotify.com/track/1L3hnWBGenO7NCIo2Z074b) | [muuk](https://open.spotify.com/artist/6HU6b9SDmYJOiFmQHZqU2F) | [starfish](https://open.spotify.com/album/3l9Xo8VqJIBoICXpLC16D0) | 3:06 | 2026-08-07 |  |
 | [Stay](https://open.spotify.com/track/01hSEJ4ymUJzj1jpgXkfGx) | [Raisa K](https://open.spotify.com/artist/11H2kC5a9Jk0IJ0gPUrZl9), [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX) | [Stay](https://open.spotify.com/album/0cFmJ71HYR4QUFmg2XLLEi) | 4:05 | 2025-03-13 | 2025-08-09 |
 | [Stew](https://open.spotify.com/track/1bDwvHbDgtCvr2TcZIpQyn) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [Stew](https://open.spotify.com/album/2Rwca3mHmAeP6fEkbXCVHO) | 5:44 | 2026-06-26 |  |
 | [Still Above](https://open.spotify.com/track/01jtoPWy6B49NfXtI51JIq) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Seventeen](https://open.spotify.com/album/2veKfKqnyMmbREK1N4GvTz) | 2:28 | 2025-08-08 |  |

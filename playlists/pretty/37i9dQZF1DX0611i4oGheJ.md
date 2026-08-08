@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 
 > Sweet gems to help you slow down and savor your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,513 likes - 125 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,595 likes - 125 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,10 +84,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 74 | [Let No Grief](https://open.spotify.com/track/3R2sknZVO963iQknjhDwru) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Blind and Brave](https://open.spotify.com/album/1c2Ner1dwYAXfPSar0LN90) | 4:34 |
 | 75 | [Morning](https://open.spotify.com/track/3Gsuq6GGXfKB9AwNwL87NJ) | [William Wild](https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor) | [Steady Now](https://open.spotify.com/album/1QMXHfs6Gccs4rq6PxoqiY) | 4:22 |
 | 76 | [Same Old Eyes](https://open.spotify.com/track/0x2xErt1R95NpZPNjccGnu) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Twenty\-Twenty](https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO) | 4:01 |
-| 77 | [strip mall](https://open.spotify.com/track/4CgagfLY8EbXVCT69EY9tA) | [Jake Minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [strip mall](https://open.spotify.com/album/6T6OnNPadTtsyslDCXpUYp) | 2:33 |
-| 78 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
-| 79 | [Nostalgia](https://open.spotify.com/track/5TnodoKN3XEi80i2ZeCh1y) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [Nostalgia](https://open.spotify.com/album/2LhcszZRrPCmJZqhsTdI6S) | 3:49 |
-| 80 | [Tomorrow](https://open.spotify.com/track/1EeGzOrz5d8S2Q5p7OORun) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Tomorrow](https://open.spotify.com/album/15tYnqIqZrwaQbLYQozlRY) | 4:07 |
+| 77 | [Tomorrow](https://open.spotify.com/track/1EeGzOrz5d8S2Q5p7OORun) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Tomorrow](https://open.spotify.com/album/15tYnqIqZrwaQbLYQozlRY) | 4:07 |
+| 78 | [Nostalgia](https://open.spotify.com/track/5TnodoKN3XEi80i2ZeCh1y) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [Nostalgia](https://open.spotify.com/album/2LhcszZRrPCmJZqhsTdI6S) | 3:49 |
+| 79 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
+| 80 | [strip mall](https://open.spotify.com/track/4CgagfLY8EbXVCT69EY9tA) | [Jake Minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [strip mall](https://open.spotify.com/album/6T6OnNPadTtsyslDCXpUYp) | 2:33 |
 | 81 | [The Friary](https://open.spotify.com/track/4ma6fuBfPGNWbAev6w5GdV) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | [Cobwebs](https://open.spotify.com/album/1LcnviaqzuzuuHkDVnIMXa) | 4:10 |
 | 82 | [Never Meant](https://open.spotify.com/track/59MRYnrFHsMMYlAIOnWOij) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Never Meant](https://open.spotify.com/album/1vEVu7cCHpvCWeOdzaje94) | 3:19 |
 | 83 | [How \(ft\. Brandi Carlile\)](https://open.spotify.com/track/4da4p7RgqK9AjtVh4sEEHc) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [\(self\-titled\)](https://open.spotify.com/album/19g08PLwSFleJyXjAIugDI) | 3:44 |
@@ -99,22 +99,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 89 | [Darling](https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Darling](https://open.spotify.com/album/0UK2D5JonE1BKF04uxYH4k) | 3:30 |
 | 90 | [Silicone Heart](https://open.spotify.com/track/18YdjxKgfyjcaIKRrfpndh) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Silicone Heart](https://open.spotify.com/album/2NbquPo8J4VCEqkrDyV9KR) | 3:13 |
 | 91 | [Unveiled](https://open.spotify.com/track/1JGsfgp6yMzTqTQvDTtXos) | [Loah](https://open.spotify.com/artist/3smkUIA0gfguE46oluw954) | [This Heart](https://open.spotify.com/album/3oo1XkjyxFrqGmwcwiS7hF) | 4:12 |
-| 92 | [Snowpath](https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Snowpath](https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT) | 2:13 |
-| 93 | [Half Alive](https://open.spotify.com/track/4iL0LJgt27lSqpNS6AQsiN) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Half Alive](https://open.spotify.com/album/7HF75RmgHlbDQqZjwmtiIb) | 3:03 |
+| 92 | [Half Alive](https://open.spotify.com/track/4iL0LJgt27lSqpNS6AQsiN) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Half Alive](https://open.spotify.com/album/7HF75RmgHlbDQqZjwmtiIb) | 3:03 |
+| 93 | [Snowpath](https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Snowpath](https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT) | 2:13 |
 | 94 | [I'll Be Gone](https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [The Only Ones](https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh) | 2:24 |
 | 95 | [No Place Like You](https://open.spotify.com/track/2ZcVl0rG4CFi7KHNeUxvFa) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 2:55 |
 | 96 | [Baby You're Lying](https://open.spotify.com/track/3vCH4YzLnacmiOnWSEUkDK) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 3:22 |
-| 97 | [Radio Silence](https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Radio Silence](https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe) | 3:42 |
-| 98 | [Mending Song](https://open.spotify.com/track/0YxQPmvo2NupJHW8QHEDNL) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Mending Song](https://open.spotify.com/album/0cETfActVxeesqjmLW1Wwn) | 3:49 |
+| 97 | [Mending Song](https://open.spotify.com/track/0YxQPmvo2NupJHW8QHEDNL) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Mending Song](https://open.spotify.com/album/0cETfActVxeesqjmLW1Wwn) | 3:49 |
+| 98 | [Radio Silence](https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Radio Silence](https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe) | 3:42 |
 | 99 | [i leave early](https://open.spotify.com/track/3v6a2Q4iClZE8a2Qv5g60r) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [i leave early](https://open.spotify.com/album/6WM1ihagtD7rboK5Ycy1lX) | 3:13 |
 | 100 | [Lullaby](https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Lullaby](https://open.spotify.com/album/2PT518qif2NTxvgizAObme) | 3:35 |
 | 101 | [Spirit Cold](https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 3:42 |
 | 102 | [Golden](https://open.spotify.com/track/77EOVfDhyUX5nSzzc4ZEGX) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Good Woman](https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR) | 5:13 |
 | 103 | [A Running Start](https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [A Running Start](https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG) | 4:21 |
 | 104 | [God](https://open.spotify.com/track/7hzkt0Vdmqo1xAADVseb3y) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [God](https://open.spotify.com/album/3li9CStMM1QmEd5A35ImP7) | 3:32 |
-| 105 | [Sorrow](https://open.spotify.com/track/7K1isQ76aI5TG5RziWpKCM) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Sorrow](https://open.spotify.com/album/5UWayfTfIPcFAmZvpz2yJp) | 3:55 |
+| 105 | [Such Love Does](https://open.spotify.com/track/47gFlybCCArb5b4VHbJhh0) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Such Love Does](https://open.spotify.com/album/7qNbPyJsIY98uut0qke5PY) | 3:20 |
 | 106 | [Horse to Water](https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 4:04 |
-| 107 | [Such Love Does](https://open.spotify.com/track/47gFlybCCArb5b4VHbJhh0) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Such Love Does](https://open.spotify.com/album/7qNbPyJsIY98uut0qke5PY) | 3:20 |
+| 107 | [Sorrow](https://open.spotify.com/track/7K1isQ76aI5TG5RziWpKCM) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Sorrow](https://open.spotify.com/album/5UWayfTfIPcFAmZvpz2yJp) | 3:55 |
 | 108 | [A Month Or Two](https://open.spotify.com/track/5jZ58MSH3B5fEciHveMDx4) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [How Did It Seem To You?](https://open.spotify.com/album/7JJ4Iz9RUdXMzaakBCnlwA) | 3:11 |
 | 109 | [Fallout](https://open.spotify.com/track/359hAVmBw0503I81ATOcaJ) | [Jesse Jo Stark](https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0) | [Fallout](https://open.spotify.com/album/1moTvG9SmxZ59rYEpitQ64) | 3:51 |
 | 110 | [River](https://open.spotify.com/track/62h7AycdIWjq6uYWC0LBht) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Patty Griffin](https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0) | 5:23 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 120 | [I Only See the Moon](https://open.spotify.com/track/37Fhfv4v0beY9Q57Hfg5Dp) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [I Only See the Moon](https://open.spotify.com/album/7tXYHXjFDzAtPIZoIoX2W6) | 2:57 |
 | 121 | [No Fooling Me](https://open.spotify.com/track/0GEdMvgn1eLGBQeoDeSyPs) | [Ward Thomas](https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw) | [Restless Minds](https://open.spotify.com/album/5wIJ5KSFs23rMjn3JDoTR7) | 2:46 |
 | 122 | [Collateral](https://open.spotify.com/track/0WwBPTz2wuv3A8qLIklg6y) | [Daulton Hopkins](https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS) | [Collateral](https://open.spotify.com/album/4rDtkcswamhTIK6xOEgbWF) | 2:59 |
-| 123 | [Gown](https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Blurrr](https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D) | 3:15 |
-| 124 | [Another Lover](https://open.spotify.com/track/2UqOQ7Qvsutio7H29qn9Je) | [mary rose](https://open.spotify.com/artist/2xm9vvaxfhOaVQtDZP1z5d) | [Another Lover](https://open.spotify.com/album/3LIcHKcJvRF61TWPkvFABh) | 4:13 |
+| 123 | [Another Lover](https://open.spotify.com/track/2UqOQ7Qvsutio7H29qn9Je) | [mary rose](https://open.spotify.com/artist/2xm9vvaxfhOaVQtDZP1z5d) | [Another Lover](https://open.spotify.com/album/3LIcHKcJvRF61TWPkvFABh) | 4:13 |
+| 124 | [Gown](https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Blurrr](https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D) | 3:15 |
 | 125 | [Reliance](https://open.spotify.com/track/2rNlmDqduDNkj8W9D1O7KM) | [Amy Jay](https://open.spotify.com/artist/7ztk56WZhRA5oIiMaNYuh3) | [Reliance](https://open.spotify.com/album/2tTLL49vo53UoDXLcDjPgS) | 3:39 |
 
-Snapshot ID: `AAAAAPotl4R4Kwm1a5mMsUYzVqKdVU36`
+Snapshot ID: `AAAAAGt3ho+btdDd0jCMfhLbD4DRCN2I`

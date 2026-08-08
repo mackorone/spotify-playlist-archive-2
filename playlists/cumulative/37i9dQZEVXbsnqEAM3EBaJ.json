@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "Verbolgen",
+        "url": "https://open.spotify.com/album/6IEquRfKwia4FwISJbCIrT"
+      },
+      "artists": [
+        {
+          "name": "Hulder",
+          "url": "https://open.spotify.com/artist/65vrcJ67suxLePeEhUtLLo"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360986,
+      "name": "...And We Shall Sing",
+      "url": "https://open.spotify.com/track/0a8HyNMvaH2LAnLS5QJo6f"
+    },
+    {
+      "album": {
         "name": "ECHOES",
         "url": "https://open.spotify.com/album/6BLQi8FQxIX3bfeowXYQkp"
       },
@@ -910,6 +928,28 @@
       "duration_ms": 136297,
       "name": "51st State",
       "url": "https://open.spotify.com/track/2jat9vx2P0tfqWpPD5knDB"
+    },
+    {
+      "album": {
+        "name": "\"Landscapes\": A Classical Soundtrack",
+        "url": "https://open.spotify.com/album/04NrCNfsyfCzeo7VdjwUx1"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Pavel Kolesnikov",
+          "url": "https://open.spotify.com/artist/0NzCpFJbPBZOQylvKJ25AJ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80266,
+      "name": "6 Morceaux, Op. 19: IV. Nocturne - Excerpt",
+      "url": "https://open.spotify.com/track/05YxGXrE9UkNDDk2PdMrca"
     },
     {
       "album": {
@@ -2346,6 +2386,24 @@
       "duration_ms": 125217,
       "name": "Abyss (from \"Kaiju No. 8\") - En Espa\u00f1ol",
       "url": "https://open.spotify.com/track/1LiaQp6X9vnE7U17zeZUFA"
+    },
+    {
+      "album": {
+        "name": "Abyssal Plain",
+        "url": "https://open.spotify.com/album/4Ocr8onHhvl2ebHOV4OIdz"
+      },
+      "artists": [
+        {
+          "name": "Fen",
+          "url": "https://open.spotify.com/artist/1MlFNDlH2naWutA9C0nNVB"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336186,
+      "name": "Abyssal Plain",
+      "url": "https://open.spotify.com/track/2zwHm3AU4dGF9R3gNdcPDT"
     },
     {
       "album": {
@@ -6738,7 +6796,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 387000,
       "name": "Ballade No. 3 in A-Flat Major, Op. 47",
       "url": "https://open.spotify.com/track/2K4uSsZFHaQsY77k4BvD2A"
@@ -10068,6 +10126,24 @@
       "duration_ms": 195320,
       "name": "C'mon And Love Me - Live In Davenport, Iowa - RKO Orpheum Theatre - July 20, 1975 - Show 2",
       "url": "https://open.spotify.com/track/5ekQmxStA0MsmqfgsJA2sQ"
+    },
+    {
+      "album": {
+        "name": "C.E.O.",
+        "url": "https://open.spotify.com/album/02x4x22HOnv0j9Zk1FJpeY"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174253,
+      "name": "C.E.O.",
+      "url": "https://open.spotify.com/track/6ZsVaTDPoRFCX9evH3x1U7"
     },
     {
       "album": {
@@ -17440,6 +17516,24 @@
       "duration_ms": 225040,
       "name": "Echoes of Tomorrow",
       "url": "https://open.spotify.com/track/5jdL3PSXjNig8TJRwytFil"
+    },
+    {
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/5TzEx6S8Byxbdqcb1tYJbE"
+      },
+      "artists": [
+        {
+          "name": "Xandria",
+          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316306,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/7JPFeaxmkGC0ufr0ZT6Mu2"
     },
     {
       "album": {
@@ -25575,6 +25669,24 @@
     },
     {
       "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/5ij6nHEmee3k91DYwRrgZL"
+      },
+      "artists": [
+        {
+          "name": "Love Spirals Downwards",
+          "url": "https://open.spotify.com/artist/2REmfbf3d1N9lOuULAYihA"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216750,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/53hVLjywRQWIknU543hRly"
+    },
+    {
+      "album": {
         "name": "Haunted House",
         "url": "https://open.spotify.com/album/1D4o2u5em0y5oUJEPV4iy5"
       },
@@ -29001,6 +29113,24 @@
     },
     {
       "album": {
+        "name": "Bag of Holding",
+        "url": "https://open.spotify.com/album/5qun8E4utITs5XmRypLi4Q"
+      },
+      "artists": [
+        {
+          "name": "Funeral Diner",
+          "url": "https://open.spotify.com/artist/1jrFpzxw0c4MAAC0suBH9Q"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346840,
+      "name": "I Was the Sword",
+      "url": "https://open.spotify.com/track/0qazxP5gIyWm77OeKaRSii"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/19iU0Zz3hNQwWCSjJaR5LI"
       },
@@ -30184,7 +30314,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 96000,
       "name": "Imprint Of The Un-Saved - 2026 Remastered",
       "url": "https://open.spotify.com/track/7Gww8wudLBZ1BRiGO4EawT"
@@ -30264,7 +30394,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 429106,
       "name": "In Blood and in Earth",
       "url": "https://open.spotify.com/track/5IOt1talW67e6d7c5jrdo3"
@@ -36472,7 +36602,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 236295,
       "name": "Livin' In A World Without You (feat. The Rasmus)",
       "url": "https://open.spotify.com/track/3slzozJrq6HmNLbslDP7H4"
@@ -37720,6 +37850,28 @@
       "duration_ms": 460573,
       "name": "Love To Love - 2024 Remaster",
       "url": "https://open.spotify.com/track/24PTESdfQkBEtfPLQjEt5o"
+    },
+    {
+      "album": {
+        "name": "DESMOND CHILD ROCKS THE PARTHENON: THE LIVE CONCERT ALBUM",
+        "url": "https://open.spotify.com/album/746YdO0w9Oocz9za5y2vAx"
+      },
+      "artists": [
+        {
+          "name": "Desmond Child",
+          "url": "https://open.spotify.com/artist/7KgW65389e5w4xWzaVOuCg"
+        },
+        {
+          "name": "The Rasmus",
+          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280757,
+      "name": "Love Will Keep Us Alive (feat. The Rasmus)",
+      "url": "https://open.spotify.com/track/0mo4vZVZDFs1IuDhu4cRaP"
     },
     {
       "album": {
@@ -41351,6 +41503,28 @@
     },
     {
       "album": {
+        "name": "My War (From \"Shingeki no Kyojin: The Final Season\")",
+        "url": "https://open.spotify.com/album/4lHUKbymDkFDpODJaEw8pq"
+      },
+      "artists": [
+        {
+          "name": "Fugasa",
+          "url": "https://open.spotify.com/artist/0PeBQYy6IcqGOh8OLV0YqG"
+        },
+        {
+          "name": "Iris ~Pamela Calvo~",
+          "url": "https://open.spotify.com/artist/6qWXcGYNEAmUxFWLA5uFwM"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275520,
+      "name": "My War (From \"Shingeki no Kyojin: The Final Season\")",
+      "url": "https://open.spotify.com/track/7bjukoYM5LMSwUoTkUzi4i"
+    },
+    {
+      "album": {
         "name": "Attack Phase (Live Los Angeles '84)",
         "url": "https://open.spotify.com/album/2MkLcXpAaiTCW6Uas7bpCN"
       },
@@ -42725,6 +42899,28 @@
     },
     {
       "album": {
+        "name": "Pers\u00e9fone",
+        "url": "https://open.spotify.com/album/4Z5wv5OrvU0xPnk9kfquyf"
+      },
+      "artists": [
+        {
+          "name": "Destripando la Historia",
+          "url": "https://open.spotify.com/artist/2YMMZXPBFWM9aFUL4fzRTn"
+        },
+        {
+          "name": "Laura Pastor",
+          "url": "https://open.spotify.com/artist/2GKPiXtBAiFpd4Xtd71HZM"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206869,
+      "name": "No es tan malo",
+      "url": "https://open.spotify.com/track/3vGg3bINNhCzQOcvGpFJHx"
+    },
+    {
+      "album": {
         "name": "Me Permito Sentir",
         "url": "https://open.spotify.com/album/7KuTQuLMhec9sj3RE3w89E"
       },
@@ -43158,6 +43354,28 @@
       "duration_ms": 295978,
       "name": "NOCTURNE (2026)",
       "url": "https://open.spotify.com/track/6lN7iI76jWyeP9uhgDd4G3"
+    },
+    {
+      "album": {
+        "name": "Lunaris",
+        "url": "https://open.spotify.com/album/1SxpR5PUJS2tjgjbKq3drA"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Bruce Liu",
+          "url": "https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384613,
+      "name": "Nocturne No. 8 in D-Flat Major, Op. 27 No. 2",
+      "url": "https://open.spotify.com/track/4tr7NeQYGvvGGyxjhh5QyX"
     },
     {
       "album": {
@@ -46803,6 +47021,28 @@
     },
     {
       "album": {
+        "name": "Lunaris",
+        "url": "https://open.spotify.com/album/1SxpR5PUJS2tjgjbKq3drA"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Bruce Liu",
+          "url": "https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377333,
+      "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight Sonata\": I. Adagio sostenuto",
+      "url": "https://open.spotify.com/track/3ngCAkW4XORa778yfrP2GV"
+    },
+    {
+      "album": {
         "name": "Beethoven: Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight Sonata\": III. Presto agitato",
         "url": "https://open.spotify.com/album/5NqDBX3Rp7933cKPGwTmEZ"
       },
@@ -50423,6 +50663,24 @@
     },
     {
       "album": {
+        "name": "Side",
+        "url": "https://open.spotify.com/album/441rOxvd0v0aRJdyCLn8aH"
+      },
+      "artists": [
+        {
+          "name": "Human Tetris",
+          "url": "https://open.spotify.com/artist/3wIDY01itbfdsQpMsyRZVG"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421333,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/3ZXfxyxl4vMIUSg4CjgkhA"
+    },
+    {
+      "album": {
         "name": "Rewind Forward",
         "url": "https://open.spotify.com/album/1Zh2y0Dry9SZPYyboCysN6"
       },
@@ -53326,10 +53584,40 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 300785,
       "name": "Serenity (FSOE973) - Ciaran McAuley, EL\u00cf Remix",
       "url": "https://open.spotify.com/track/2ottPhNRMYlTHFmL3rzF3I"
+    },
+    {
+      "album": {
+        "name": "Serenity (Ciaran McAuley pres. Eli Remix)",
+        "url": "https://open.spotify.com/album/0YCBIXFDuSOzRMnfu7A461"
+      },
+      "artists": [
+        {
+          "name": "Ciaran McAuley",
+          "url": "https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi"
+        },
+        {
+          "name": "Azam Ali",
+          "url": "https://open.spotify.com/artist/5FjTtbpfWj8SBN3SGjkY0W"
+        },
+        {
+          "name": "Jeff Rona",
+          "url": "https://open.spotify.com/artist/7EVrVA4VnT3DGeyIZjWLRZ"
+        },
+        {
+          "name": "Eli",
+          "url": "https://open.spotify.com/artist/4FuLRxyXzv6w73J8FnWxig"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406000,
+      "name": "Serenity - Ciaran McAuley, EL\u00cf Extended Remix",
+      "url": "https://open.spotify.com/track/4vXBVJG5tOl3q7AdsMNOEo"
     },
     {
       "album": {
@@ -58297,6 +58585,24 @@
     },
     {
       "album": {
+        "name": "Velvet Summer - Summer Mini Album",
+        "url": "https://open.spotify.com/album/0AzIvsw9Pq9De3vYFA01Rr"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168466,
+      "name": "Surfin' Boy",
+      "url": "https://open.spotify.com/track/3caqaSvtldUKLY5Fd5msk2"
+    },
+    {
+      "album": {
         "name": "50 Calm & Soft Sounds for Sleep and Relaxation",
         "url": "https://open.spotify.com/album/77QWwKnteewHRdoTlB8OIY"
       },
@@ -58664,7 +58970,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 94040,
       "name": "Swan Lake, Op. 20, TH 12, Act I: No. 5c, Pas de deux: Valse",
       "url": "https://open.spotify.com/track/7M2v8hqPZK5dSSZBxvTSFx"
@@ -67933,6 +68239,24 @@
     },
     {
       "album": {
+        "name": "Destroy Erase Improve: 30th Anniversary Edition (2026 Remastered)",
+        "url": "https://open.spotify.com/album/5QCnX24XWBDYs6ftNrMv5O"
+      },
+      "artists": [
+        {
+          "name": "Meshuggah",
+          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305026,
+      "name": "Vanished - 2026 Remastered",
+      "url": "https://open.spotify.com/track/6LaD6Smfi09oXcOiXHsvcv"
+    },
+    {
+      "album": {
         "name": "Vapor",
         "url": "https://open.spotify.com/album/1PD0j0wcGaOLHzKu9Gim9e"
       },
@@ -67970,6 +68294,24 @@
       "duration_ms": 54800,
       "name": "Variations on a Theme of Corelli, Op. 42: Theme. Andante",
       "url": "https://open.spotify.com/track/2J3WtVMp6HnsyCredUu06n"
+    },
+    {
+      "album": {
+        "name": "Vyraj",
+        "url": "https://open.spotify.com/album/26SJBKDcb92tw0eCRt8pV0"
+      },
+      "artists": [
+        {
+          "name": "Dymna Lotva",
+          "url": "https://open.spotify.com/artist/61PwJzYfSOG5zImuIuoEHT"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420500,
+      "name": "Veha",
+      "url": "https://open.spotify.com/track/1bUS3mpCdYooZy3whov58j"
     },
     {
       "album": {
@@ -72056,6 +72398,24 @@
       "duration_ms": 294106,
       "name": "Wonder of it All",
       "url": "https://open.spotify.com/track/5Pl4mplIYh6NG27jbXfnX2"
+    },
+    {
+      "album": {
+        "name": "World Peace",
+        "url": "https://open.spotify.com/album/2vzNhIF8eHFgcxorKf5vp0"
+      },
+      "artists": [
+        {
+          "name": "Cro-Mags",
+          "url": "https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133002,
+      "name": "World Peace",
+      "url": "https://open.spotify.com/track/2CMsmyqYOdhDCDvrDxJAdc"
     },
     {
       "album": {

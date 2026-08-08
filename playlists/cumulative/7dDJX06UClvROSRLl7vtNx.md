@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,435 songs - 2 day 13 hr 49 min
+1,436 songs - 2 day 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1009,6 +1009,7 @@
 | [Rewind](https://open.spotify.com/track/54dPp5NHuopOQkICmLY0EP) | [Riesling](https://open.spotify.com/artist/3GxT7ZybNZXWlMR1eopmx9), [Roet](https://open.spotify.com/artist/3WMxxfaDFdQBmomHW2yGoY) | [Rewind](https://open.spotify.com/album/0Shqam9G1B7RX8rNvqbgIH) | 1:58 | 2023-12-27 | 2024-05-13 |
 | [Rhythm is a dancer](https://open.spotify.com/track/0TtU2vUe0nXP5KjmfN62Yk) | [Oceanside](https://open.spotify.com/artist/5QCwRUSPkHc6uD78wTCcXR), [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu) | [Rhythm is a dancer](https://open.spotify.com/album/2aJ44oJhui8ihE7TFGbiGQ) | 2:03 | 2023-11-05 | 2024-05-06 |
 | [Rhythm of the Night](https://open.spotify.com/track/47y2rLNfG6XiC1FBtiG9QF) | [Sherman de Vries](https://open.spotify.com/artist/0PZ5NAziJDDcjnpMvkmMYA), [Navaro](https://open.spotify.com/artist/1NTpb0EU5OWNdUqtWEdnSW), [Dani Vidi](https://open.spotify.com/artist/1273CkIB0lP8EWV7OoqiKc) | [Rhythm of the Night](https://open.spotify.com/album/4zyM71mlTcnfiriTQ1lNjY) | 2:42 | 2023-09-22 | 2024-02-03 |
+| [Rhythm Of Your Soul](https://open.spotify.com/track/7Bh2Tzazp8kI7hPL7wAl5x) | [Calm Springs](https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb), [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX) | [Rhythm Of Your Soul](https://open.spotify.com/album/0mJh6w67LcfuW43TBdDR14) | 2:29 | 2026-08-07 |  |
 | [Ride Away](https://open.spotify.com/track/2afOvmjmmiXSq46NiRRShq) | [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS), [Poul](https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj), [Lacey](https://open.spotify.com/artist/0jrXDZPbZ53MWEkAR5Gghz), [one more cig](https://open.spotify.com/artist/58xxhAwEQi1Gx6XxU5Nqm5) | [Ride Away](https://open.spotify.com/album/3HWEN0QkWyZT4oyiqsJUVx) | 2:08 | 2026-03-08 | 2026-04-13 |
 | [Right For You](https://open.spotify.com/track/6U7N9Avvc1ZHt1ffuSN5cI) | [SHKHR](https://open.spotify.com/artist/1ZEJTNLYcquv69asSb1G13), [Josiah Nichols](https://open.spotify.com/artist/0lRQLoQrjE7zLSlLoh1uk3) | [Right For You](https://open.spotify.com/album/1yaaYXn2E44MKqNfIj5Xsn) | 2:30 | 2024-08-16 | 2025-01-13 |
 | [Right Now](https://open.spotify.com/track/1xJWrQnsGxAHXOh4sfhdDF) | [Polar Notes](https://open.spotify.com/artist/7rgyMpZgczDhkLWiykajQb), [Mentum](https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3) | [Right Now](https://open.spotify.com/album/2L2qys4FPo9aVQFSdNkvrQ) | 2:53 | 2023-09-22 | 2024-06-17 |

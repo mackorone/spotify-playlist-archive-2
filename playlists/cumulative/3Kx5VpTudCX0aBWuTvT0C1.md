@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-188 songs - 10 hr 56 min
+192 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bangkok Jam](https://open.spotify.com/track/3bt6ASkwDUQOcIrQf4ufFS) | [John Taratsas](https://open.spotify.com/artist/4VkfNtbWEZMiOMm4NjNPnf) | [Bangkok Jam](https://open.spotify.com/album/2lldcVHNQyPzeWFrNZo0Oq) | 3:05 | 2025-10-29 | 2025-12-09 |
 | [Bara](https://open.spotify.com/track/50hb6zxmJMxrfavhe0fyn7) | [Merah](https://open.spotify.com/artist/0SqG39qV2HtVNgtjKSKGXQ) | [Utara](https://open.spotify.com/album/2Ds4iV3LPSya4zyVBHqhcn) | 3:49 | 2026-06-18 |  |
 | [Be the Star That You Are](https://open.spotify.com/track/48hhpEl3Q2f4sL4kMsHC8R) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Be the Star That You Are](https://open.spotify.com/album/1QcGdYC268jeVW185uD1L0) | 3:09 | 2026-05-29 |  |
+| [Beautiful Life](https://open.spotify.com/track/2oFFeEDTPRCUeDYEgvPCip) | [The Last Good Feeling](https://open.spotify.com/artist/6rI83ChWVND3pfcnYRV5B6) | [Beautiful Life](https://open.spotify.com/album/2YfXHWwI9zohX6W0Ulbld0) | 3:10 | 2026-08-07 |  |
 | [Best Year Yet](https://open.spotify.com/track/1n5JaW6gdAtdRgS2jnKSye) | [Bowes](https://open.spotify.com/artist/4ttD6HkDmlpH7D8SQqwtbT) | [Best Year Yet](https://open.spotify.com/album/2dwFoNDZQy25pn9iRmyPpq) | 4:18 | 2026-06-03 |  |
 | [Blodwyn](https://open.spotify.com/track/5UFmMdHSFqbWXQJoAbppSm) | [Moss Meredith](https://open.spotify.com/artist/3DL8xk1UlC6kPkrlbTHA56) | [Blodwyn](https://open.spotify.com/album/6UUxFXo46hihB0aOxV5kPq) | 3:20 | 2026-07-07 |  |
 | [Blood In My Margarita](https://open.spotify.com/track/7FnAZu16iYNzn1WrRbYFbp) | [Idle Hive](https://open.spotify.com/artist/3bQIHJpzSqqXQJBhX3xW0K) | [Blood In My Margarita](https://open.spotify.com/album/6edO6esJBfjew89feH2UL8) | 3:47 | 2026-06-29 |  |
@@ -45,6 +46,7 @@
 | [Cold](https://open.spotify.com/track/6mZP2DP0b0iI2HYrPduDaE) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Cold](https://open.spotify.com/album/0kK3HC6RY9nFjnWeQtiy2k) | 2:53 | 2025-11-17 | 2026-03-15 |
 | [Coming Back](https://open.spotify.com/track/7uY20MCgghAw2HWWRNcbJ4) | [Jarju Binks](https://open.spotify.com/artist/0o0t0KdWN2YcpOB7tcvxqp) | [Coming Back](https://open.spotify.com/album/3JPaEVNlWEsFXyacsjkJxK) | 3:38 | 2025-10-31 | 2025-12-09 |
 | [Coming Stars](https://open.spotify.com/track/7EsFMWgc1EVf6NUepID6gd) | [Tony Rocha](https://open.spotify.com/artist/5IAqjbY4kei33bE9LUX6Sm) | [Coming Stars](https://open.spotify.com/album/5nRfA7DrRB7FEYswNXIUMy) | 3:10 | 2025-11-27 | 2026-06-14 |
+| [Como deve ser](https://open.spotify.com/track/6Kto9r484xrMQZ74XRJfBc) | [Roger Silva](https://open.spotify.com/artist/6HCBhMjKey19C9YvNx5RaP) | [Como deve ser](https://open.spotify.com/album/7tAH2UnXN5GWdR3mOiVm3b) | 3:09 | 2026-08-07 |  |
 | [como la luna](https://open.spotify.com/track/50zdQV83gf1guuk6bBBUDJ) | [young llop.mp3](https://open.spotify.com/artist/1alG0IPqW3stdy2R7Sc7bK) | [como la luna](https://open.spotify.com/album/2vvmzqz0afaGSA1kSHons0) | 1:44 | 2026-06-18 |  |
 | [Connect](https://open.spotify.com/track/5Ejd0C0OhTz57clPS2di36) | [Reverliee](https://open.spotify.com/artist/6BXRuObx1vqtPtEobUTqQx) | [Connect](https://open.spotify.com/album/5eQ7ZAG3nBgxd319KEdSKs) | 3:32 | 2025-11-03 | 2025-12-09 |
 | [Cool Beans](https://open.spotify.com/track/0oiXqI9221znTkKHYpTL4d) | [Lovechild](https://open.spotify.com/artist/63joINATp7Ko83hV2D3UtU) | [Cool Beans](https://open.spotify.com/album/5ZGn1aZsdn2CwVNic1kXD6) | 3:53 | 2026-06-18 |  |
@@ -119,6 +121,7 @@
 | [Not Real](https://open.spotify.com/track/2h0rNNxfeN6n18zEhb1uOA) | [FAIA LYN](https://open.spotify.com/artist/0PIi7hsIDjKPYH66SOko0H) | [Not Real](https://open.spotify.com/album/4kGbXFHPB46aYEtQTJ22HD) | 3:17 | 2025-12-12 | 2026-06-14 |
 | [Not Supposed to Let You Know](https://open.spotify.com/track/7nOehwhib8wpPrvt4ZFF2f) | [Going Big](https://open.spotify.com/artist/17zEnHkf1boWQ8Ll9yhysp) | [Not Supposed to Let You Know](https://open.spotify.com/album/3X5OMgdsTqKqo0ZZ4RO98k) | 3:41 | 2025-11-28 | 2026-06-14 |
 | [NOV\. 7TH](https://open.spotify.com/track/5CfQglqzFQs8Lh4XFkB8Jz) | [BLACKPUNK!](https://open.spotify.com/artist/433Ag1dK5zyWGEe1T58RgZ), [Travie Austin](https://open.spotify.com/artist/059jVWIqXVJvAskIuJyScN), [Mr\. Starbeast](https://open.spotify.com/artist/2g5awxfkf1XlvYsNBjATI8) | [NOV\. 7TH](https://open.spotify.com/album/7vM9Lwq37Xqjbz01xW2Gii) | 3:17 | 2025-11-11 | 2026-03-15 |
+| [Odyssey](https://open.spotify.com/track/1gcMBn4OwoXv2idejjCCNp) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa) | [Odyssey](https://open.spotify.com/album/59hsbFL5sW2u3NaqlsElv3) | 3:56 | 2026-08-07 |  |
 | [One Of These Days \- remastered 2025](https://open.spotify.com/track/7h6DCnqTJ9vrdM37KTbgWl) | [Gerhardt](https://open.spotify.com/artist/3bTrjrXSZ9XiJQ6DWVwkui), [Alakazam](https://open.spotify.com/artist/0lzWfn3p4ETAIyw6qPxeCM) | [Into The Ballroom](https://open.spotify.com/album/5gjOyZSfhCGDrMj52xobDU) | 2:41 | 2025-11-13 | 2026-03-15 |
 | [One Roof Band](https://open.spotify.com/track/33MX2mqv9J1IJhNSXDMxzx) | [Ashton McKinley](https://open.spotify.com/artist/2Fo0a4n5BfuG5cbm1P6nAy), [Jack McKinley](https://open.spotify.com/artist/5pV0bg4PE7KriPKMOlU1JH) | [One Roof Band](https://open.spotify.com/album/0chLuhom9W02NOMEaepQaJ) | 3:44 | 2025-11-06 | 2025-12-09 |
 | [Out Of Mind](https://open.spotify.com/track/1OFweranXJz823BH5fZYVI) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Out Of Mind](https://open.spotify.com/album/2Rklcp8oIxKCK8duJuWHG4) | 2:32 | 2025-11-07 | 2025-12-09 |
@@ -126,6 +129,7 @@
 | [Parted](https://open.spotify.com/track/20ZFPWqmQDEQB0zt48B92n) | [Angelic Bipolar](https://open.spotify.com/artist/2u0uX0s7XYniiI9VY3rTfe) | [Horrible Parallel](https://open.spotify.com/album/1zUgcsZrPvrjbgvg8zJPk7) | 3:43 | 2025-11-01 | 2025-12-09 |
 | [Perro insensible](https://open.spotify.com/track/61sja73d8He0LLeEFtznED) | [Pandino](https://open.spotify.com/artist/0uOaofBqG9uFHU7ksh6huW) | [Soñando Despierto](https://open.spotify.com/album/5MjbVM1gA4q3ioxHxCCdcc) | 3:07 | 2025-11-27 | 2026-06-14 |
 | [Polaroid](https://open.spotify.com/track/3MiHgdxNBYMNAmna2i6Mvl) | [Maldimarte](https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD) | [Polaroid](https://open.spotify.com/album/0cAdWCQ0QQmj3dJy0jZH94) | 2:39 | 2026-06-18 |  |
+| [Popcorn and Candyfloss](https://open.spotify.com/track/0MJhDoHPuvOs3hDD2Ilr89) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Popcorn and Candyfloss](https://open.spotify.com/album/6WHzuoWP8SOb0v3FFBqWjD) | 4:58 | 2026-08-07 |  |
 | [Pressure](https://open.spotify.com/track/3UvIypxD8ObioUD8gtNkEW) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:15 | 2026-01-06 |  |
 | [Punto Cero](https://open.spotify.com/track/1I21Ts3OdQHSF82lz1VyFv) | [Valira](https://open.spotify.com/artist/7xzBMbJO4ooYoW2mJxX09u) | [Punto Cero](https://open.spotify.com/album/6SxhGvhfo2FBsGjZgNgvrO) | 3:41 | 2026-01-10 |  |
 | [Rainy day date](https://open.spotify.com/track/66P6BcQvNxWady9qp6dvRo) | [Ks/Marys](https://open.spotify.com/artist/5sAakdhIYQPe1oUd4Yk70z) | [Rainy day date](https://open.spotify.com/album/5dd7Yqt9ctcheVlVtHUAgd) | 4:24 | 2025-11-16 | 2026-03-15 |

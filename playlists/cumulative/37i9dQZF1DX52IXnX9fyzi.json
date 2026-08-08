@@ -3613,6 +3613,24 @@
     },
     {
       "album": {
+        "name": "Heather",
+        "url": "https://open.spotify.com/album/34rNjPWv9BJiWvqFXkiNKQ"
+      },
+      "artists": [
+        {
+          "name": "Celestial Aria",
+          "url": "https://open.spotify.com/artist/3qpSThwNv7Jdfo1FLFaRKr"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211032,
+      "name": "Heather",
+      "url": "https://open.spotify.com/track/5TeE1E52WeSDEsuE9jTWsQ"
+    },
+    {
+      "album": {
         "name": "Held between moments",
         "url": "https://open.spotify.com/album/5AYiyEIkW7p31Gn7xx6QQc"
       },
@@ -6152,6 +6170,24 @@
       "duration_ms": 135080,
       "name": "Now That You're Gone",
       "url": "https://open.spotify.com/track/4yfqgvcwevluJTGZ8odPYC"
+    },
+    {
+      "album": {
+        "name": "nowhere else",
+        "url": "https://open.spotify.com/album/0VvkldNa25Ucx31S9SkP3l"
+      },
+      "artists": [
+        {
+          "name": "\u00e9mil caron",
+          "url": "https://open.spotify.com/artist/3CIclunycRScwkcMOLYh2d"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157525,
+      "name": "nowhere else",
+      "url": "https://open.spotify.com/track/73Uy9DIK3gFyn2pWWZbLYp"
     },
     {
       "album": {
@@ -8866,6 +8902,24 @@
       "duration_ms": 129817,
       "name": "The Still",
       "url": "https://open.spotify.com/track/17C3G5g7bBxxRAe6XVWxHA"
+    },
+    {
+      "album": {
+        "name": "The Vital Spark",
+        "url": "https://open.spotify.com/album/447pD8DdZkAdw2pkn1KGWa"
+      },
+      "artists": [
+        {
+          "name": "Rombos Aran",
+          "url": "https://open.spotify.com/artist/5urp8Oh8Gq6I7H53TgRjpi"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147566,
+      "name": "The Vital Spark",
+      "url": "https://open.spotify.com/track/2ZFSfom84PrXCMokNB4MfU"
     },
     {
       "album": {

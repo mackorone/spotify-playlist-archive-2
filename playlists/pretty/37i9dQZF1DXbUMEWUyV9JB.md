@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 
 > ¡Muévete al ritmo de las Cumbias! <br/>Cover: Mariangela
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,835 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,837 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 46 | [Corazón Enamorado](https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Corazón Enamorado](https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P) | 5:00 |
 | 47 | [Cuando Nadie Ve](https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Cuando Nadie Ve](https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV) | 3:52 |
 | 48 | [Ámame](https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [Clásicas De La Cumbia Andina](https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z) | 3:58 |
-| 49 | [AMOR \- Remix](https://open.spotify.com/track/16KUzRCczhBzuaa2DkgFN2) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [AMOR \(Remix\)](https://open.spotify.com/album/4QTWMcbaCU5HeaB1vMR3IR) | 3:20 |
-| 50 | [Donde Estas?](https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5) | [Alcalde La Sonora](https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ) | [Donde Estas?](https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX) | 4:50 |
+| 49 | [Donde Estas?](https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5) | [Alcalde La Sonora](https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ) | [Donde Estas?](https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX) | 4:50 |
+| 50 | [AMOR \- Remix](https://open.spotify.com/track/16KUzRCczhBzuaa2DkgFN2) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [AMOR \(Remix\)](https://open.spotify.com/album/4QTWMcbaCU5HeaB1vMR3IR) | 3:20 |
 | 51 | [Borracho Enamorado](https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Borracho Enamorado](https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK) | 2:32 |
 | 52 | [Felicítalo](https://open.spotify.com/track/34nGrSL3eyH5KOg7AQEAjd) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Felicítalo](https://open.spotify.com/album/1yuJDBp4QY5KFIXBQfyZW7) | 3:06 |
 | 53 | [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 70 | [Princesa Talibana](https://open.spotify.com/track/0f0czUFLxXOPGj91ib5L2X) | [Super Grupo G](https://open.spotify.com/artist/40vlmUq8Zn9LIYysuGL8Z7) | [Gran Encuentro](https://open.spotify.com/album/0vIKDr74lkdvjJwHjvcP9L) | 3:16 |
 | 71 | [BACCARAT](https://open.spotify.com/track/4c3nS9PxDBRj7u9nLEYPpl) | [Linea Personal](https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [BACCARAT](https://open.spotify.com/album/6wj2LMLRq13TAQHizN5PDG) | 2:37 |
 | 72 | [No Hay Vida Sin Ti](https://open.spotify.com/track/0CYzZfNba4URRVtqqVew0Z) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [No Hay Vida Sin Ti](https://open.spotify.com/album/5ZemNHNWfvjoE3sgZGnQVZ) | 4:07 |
-| 73 | [Por las Mañanas \- En Vivo](https://open.spotify.com/track/1mC0IjF8C77C819QVzPNQf) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT) | 3:08 |
-| 74 | [Cumbia En La Playa](https://open.spotify.com/track/4USKfftLX85UCuwuV5DLUT) | [INSPIRACION COLOMBIANA](https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA) | [Quienes Somos](https://open.spotify.com/album/3A20APioynHFJaz8sItaP1) | 5:45 |
+| 73 | [Cumbia En La Playa](https://open.spotify.com/track/4USKfftLX85UCuwuV5DLUT) | [INSPIRACION COLOMBIANA](https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA) | [Quienes Somos](https://open.spotify.com/album/3A20APioynHFJaz8sItaP1) | 5:45 |
+| 74 | [Por las Mañanas \- En Vivo](https://open.spotify.com/track/1mC0IjF8C77C819QVzPNQf) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT) | 3:08 |
 | 75 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/0NK3UhMD7kNwOfuoL0jk8R) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1), [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/5Dso9GcL2HzHbt5s35t5vs) | 4:55 |
 | 76 | [FERNANDITO](https://open.spotify.com/track/4ZaFsXbTTSMyszBp70I6KW) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [FERNANDITO](https://open.spotify.com/album/7LVRFI3cZTRI2nbY6vEanX) | 2:11 |
 | 77 | [Las Palmitas del Ecuador](https://open.spotify.com/track/6xUqaIld9T5BlqkhVD6C3C) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [Por Encima de Todos](https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG) | 5:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 99 | [Terco Corazón](https://open.spotify.com/track/5ATLHoLB01iMuBBVIzMa53) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Terco Corazón](https://open.spotify.com/album/3RdbWyTpvb5RH22RXcEqo8) | 2:47 |
 | 100 | [Adoro](https://open.spotify.com/track/10DXxZz4pj3Y3kNrutKbB8) | [Costumbre](https://open.spotify.com/artist/4GeHKoBHS3bHLGBUDEi90N), [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Adoro](https://open.spotify.com/album/5j4gCXvNTkOlYblzmA7eYR) | 3:30 |
 
-Snapshot ID: `AAAAAJYheRUOoqEZHMLcQfO9xi3uEaAB`
+Snapshot ID: `AAAAABquaM7fpo4p37/71GluCUBaHKs5`

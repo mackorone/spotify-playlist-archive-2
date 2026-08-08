@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dread Mar I.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,179 likes - 89 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,187 likes - 89 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 45 | [Consentimiento](https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Mamita Peyote](https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H) | 4:31 |
 | 46 | [Andei Só](https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Andei Só](https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd) | 5:57 |
 | 47 | [The Lady in Red](https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [The Lady in Red](https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd) | 3:45 |
-| 48 | [One Drop](https://open.spotify.com/track/6ygWwUSHRVDbja6zpfMFNG) | [KLUB](https://open.spotify.com/artist/11NwV46MotnomZqyYxE2uY), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [One Drop](https://open.spotify.com/album/4guVvB3rBVdTjwb58DZfeh) | 3:58 |
-| 49 | [Hasta Que Me Olvides](https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Hasta Que Me Olvides](https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j) | 4:15 |
+| 48 | [Hasta Que Me Olvides](https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Hasta Que Me Olvides](https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j) | 4:15 |
+| 49 | [One Drop](https://open.spotify.com/track/6ygWwUSHRVDbja6zpfMFNG) | [KLUB](https://open.spotify.com/artist/11NwV46MotnomZqyYxE2uY), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [One Drop](https://open.spotify.com/album/4guVvB3rBVdTjwb58DZfeh) | 3:58 |
 | 50 | [La Tierra del Desencanto](https://open.spotify.com/track/2ySXNfWahYbD6Y2s33watc) | [BlackDali](https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B), [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [La Tierra del Desencanto](https://open.spotify.com/album/76rP6tPR6Jo8gjodM4teJn) | 4:09 |
 | 51 | [Vuela Alto](https://open.spotify.com/track/3k1c9kbmwpOcZGThO2grO7) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Vuela Alto](https://open.spotify.com/album/4mMY9nRV4r91O5yt3j7i44) | 3:47 |
 | 52 | [Tan Distante](https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Aguas Frescas De Jamaica](https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX) | 4:38 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 78 | [De Tanto Caminar](https://open.spotify.com/track/3YYxrPjEt5r9BPWvvdYFae) | [Delfines de Etiopia](https://open.spotify.com/artist/3XhuCg7NlHiT3zafRVZdc9) | [Momento Tiempo](https://open.spotify.com/album/0ydi3g7gS5nXOfc1BHAkd1) | 4:19 |
 | 79 | [La Naturaleza](https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY) | [Planta & Canta](https://open.spotify.com/artist/2yW6FW6bMFIEtPJgYK4UQ0), [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [La Naturaleza](https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE) | 4:14 |
 | 80 | [Dimelo Ayer](https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc) | [Coral](https://open.spotify.com/artist/0G8H711x1d7iYx6JIhMMQq), [Cucho Parisi](https://open.spotify.com/artist/1uuzWNBMb1W3xA1eP3VGHm) | [Dimelo Ayer](https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1) | 2:39 |
-| 81 | [Cool and Calm](https://open.spotify.com/track/4b99UsjZul6cpWAHRfAqnq) | [Tiano Bless](https://open.spotify.com/artist/35B3K7HUycrePapFhO8X5v) | [Cool and Calm](https://open.spotify.com/album/1SrHyPTxUtvtrVd2vHJ24U) | 2:58 |
-| 82 | [Arriba](https://open.spotify.com/track/4fuHpNw6f7LtUWdKAkaHhS) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Arriba](https://open.spotify.com/album/6Zqog9Lev55brNFT25qM4L) | 3:42 |
+| 81 | [Arriba](https://open.spotify.com/track/4fuHpNw6f7LtUWdKAkaHhS) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Arriba](https://open.spotify.com/album/6Zqog9Lev55brNFT25qM4L) | 3:42 |
+| 82 | [Cool and Calm](https://open.spotify.com/track/4b99UsjZul6cpWAHRfAqnq) | [Tiano Bless](https://open.spotify.com/artist/35B3K7HUycrePapFhO8X5v) | [Cool and Calm](https://open.spotify.com/album/1SrHyPTxUtvtrVd2vHJ24U) | 2:58 |
 | 83 | [Buena Suerte](https://open.spotify.com/track/4dr6LUn5QQyBAYuFzJSZfU) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Humo](https://open.spotify.com/album/7fnXhIC06cyvU9ZOP6BaBE) | 3:59 |
 | 84 | [Casita](https://open.spotify.com/track/3MrOYjTjWASMbTmefUukCz) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1) | [Casita](https://open.spotify.com/album/0DMSNN9pV9J7oeDsG4Ry2n) | 3:25 |
 | 85 | [Bebamos de las Copas Lindas](https://open.spotify.com/track/0stjjSmOBJfmBvVL8qd7jy) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Bebamos de las Copas Lindas](https://open.spotify.com/album/1Cn8QXjbDdiDEJst9nmWqV) | 3:27 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 88 | [Al Final](https://open.spotify.com/track/0pc8uz5erBUl2LEgBQuVg0) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [Mentiras Lado B](https://open.spotify.com/album/5WLuDZiaytqLtMQwqQ09Rv) | 2:48 |
 | 89 | [Agua Nueva](https://open.spotify.com/track/0SNOtKlYtfNzv0fg0gdBCh) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [Agua Nueva](https://open.spotify.com/album/5LztDzrA8CF02H92LddtOl) | 3:42 |
 
-Snapshot ID: `AAAAAOK9O7bdF48P7bwBRLN6rMe9az6z`
+Snapshot ID: `AAAAAHXYaQ4KYQO2seepZydLdiwgw11W`

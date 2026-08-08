@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYL0r9y5K9qt.md) - [plain]
 
 > time to strike a couple of poses\. cover: i\-dle
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,213 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,167 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYL0r9y5K9qt.md) - [plain]
 | 23 | [Vivarium](https://open.spotify.com/track/0HKYeAArIodGWKWwaQieJL) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Vivarium](https://open.spotify.com/album/3oyndt1RMCFGQLnZMYPmML) | 4:03 |
 | 24 | [Bad Girl](https://open.spotify.com/track/2bLQ0HMyuUWI7uPRzCy5Lo) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Bad Girl](https://open.spotify.com/album/3v96qe3pw2Jz8xw0BrNXAH) | 3:34 |
 | 25 | [Toki Yo Tomare](https://open.spotify.com/track/6VedlO2MtaEjAITax6vQyg) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Toki Yo Tomare](https://open.spotify.com/album/34XoGWHnpRwZZieuoUN6sP) | 3:08 |
-| 26 | [ATTITUDE](https://open.spotify.com/track/6QIY4JAyzPH6UuFsyndaPs) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [ATTITUDE](https://open.spotify.com/album/39wwc39ALeKhi3LP1xerOw) | 3:05 |
-| 27 | [Blush](https://open.spotify.com/track/1yhQJwdcU0HAwAKZdRURfM) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Signals](https://open.spotify.com/album/7EKQ3Mw77tsyP4Ymaa5hlM) | 3:15 |
+| 26 | [Blush](https://open.spotify.com/track/1yhQJwdcU0HAwAKZdRURfM) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Signals](https://open.spotify.com/album/7EKQ3Mw77tsyP4Ymaa5hlM) | 3:15 |
+| 27 | [ATTITUDE](https://open.spotify.com/track/6QIY4JAyzPH6UuFsyndaPs) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [ATTITUDE](https://open.spotify.com/album/39wwc39ALeKhi3LP1xerOw) | 3:05 |
 | 28 | [MAGIC](https://open.spotify.com/track/6hsBxoVdj9mg9m4tHlYE5K) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [MAGIC](https://open.spotify.com/album/2wzfAqKAR8tXWovPNbjqLM) | 2:52 |
 | 29 | [ALL IN](https://open.spotify.com/track/6lOUOvcscCHUofusbjbYV2) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [HANA](https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg) | 2:32 |
 | 30 | [RUDE!](https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/4teVVZHVxs4FgjPhT3lUKz) | 3:20 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYL0r9y5K9qt.md) - [plain]
 | 34 | [WE GO UP](https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9) | 3:06 |
 | 35 | [NON STOP](https://open.spotify.com/track/6U2jlLB3zyqpUiHwCfxcyA) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [NON STOP](https://open.spotify.com/album/204nfufsRpeYrfkr0L0Z8B) | 2:53 |
 | 36 | [THIS IS FOR](https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 2:11 |
-| 37 | [So Cute](https://open.spotify.com/track/0M5sCYya9sa2LOz551IBeI) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [So Cute](https://open.spotify.com/album/2pdrozDMXT6gnXBbKGeMfI) | 3:35 |
-| 38 | [I Choose You](https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy) | [SEQUENCE 01.5 \(dreaming of the 2nd 1st impact \- consequences of fate redux\)](https://open.spotify.com/album/214SKpjQqkpcPYnBbSspCb) | 2:49 |
+| 37 | [I Choose You](https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy) | [SEQUENCE 01.5 \(dreaming of the 2nd 1st impact \- consequences of fate redux\)](https://open.spotify.com/album/214SKpjQqkpcPYnBbSspCb) | 2:49 |
+| 38 | [So Cute](https://open.spotify.com/track/0M5sCYya9sa2LOz551IBeI) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [So Cute](https://open.spotify.com/album/2pdrozDMXT6gnXBbKGeMfI) | 3:35 |
 | 39 | [Bubee](https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Bubee](https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr) | 3:02 |
 | 40 | [BAD LOVE](https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [BAD LOVE](https://open.spotify.com/album/6RQjez6K5zXMCxw70oDGwB) | 3:05 |
 | 41 | [Rich Man](https://open.spotify.com/track/1sUjTLLCJzcxC15GUBrOlg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/7FxdJyW8SaXRMR9d7pdDv2) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYL0r9y5K9qt.md) - [plain]
 | 49 | [MEXE](https://open.spotify.com/track/43x4drok2kDJqm9dgRr685) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [MEXE](https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX) | 2:26 |
 | 50 | [Honey Honey](https://open.spotify.com/track/282XNtIdfDh0NupdD8zBzp) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Unang Kilig / Honey Honey](https://open.spotify.com/album/3KDnE33OQ0tkI2qtvoVA0r) | 2:38 |
 
-Snapshot ID: `AAAAABIC03X9S2LJnouxL4bFbbn4Q82F`
+Snapshot ID: `AAAAAALivJ7JfYoJ4OT/ma6SwemmHjj6`

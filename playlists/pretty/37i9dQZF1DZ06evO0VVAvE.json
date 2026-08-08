@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 11696,
+  "num_followers": 11706,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAACHptJ/W/HPBP3/9uuCPrGr",
+  "snapshot_id": "anPOgAAAAACOu034FC1cejVTsy2jZpZX",
   "tracks": [
     {
       "added_at": null,
@@ -739,6 +739,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dangerous Wavy Baby",
+        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 127560,
+      "name": "Looku Looku",
+      "url": "https://open.spotify.com/track/4A87TvnOZEL6GPapkVxQv5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jogo (Smoke Up)",
         "url": "https://open.spotify.com/album/3HndRgBEhbGXfbG0H2wBjr"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 169195,
       "name": "Jogo (Smoke Up)",
       "url": "https://open.spotify.com/track/3VxCbXh5pCsSviROdexcOJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dangerous Wavy Baby",
-        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 127560,
-      "name": "Looku Looku",
-      "url": "https://open.spotify.com/track/4A87TvnOZEL6GPapkVxQv5"
     },
     {
       "added_at": null,

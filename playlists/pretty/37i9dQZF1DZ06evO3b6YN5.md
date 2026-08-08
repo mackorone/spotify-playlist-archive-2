@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3b6YN5.md) - [plain]
 
 > This is Little Jesus\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,236 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,241 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,18 +21,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3b6YN5.md) - [plain]
 | 11 | [Punk](https://open.spotify.com/track/3toKX6oQaoHqy9o193sAiA) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [EL SUR](https://open.spotify.com/album/1QkkXJxjQIOXBjPSxvz7N8) | 3:13 |
 | 12 | [Un Plan Espectacular](https://open.spotify.com/track/3m604iEEnJrXDRBPXhzTL7) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 3:25 |
 | 13 | [Copa del Mundo](https://open.spotify.com/track/63pqKVbcr55rwQ8QZ0NyQJ) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Copa del Mundo](https://open.spotify.com/album/1SU5CtGk3nZPssEAXHRDXr) | 4:25 |
-| 14 | [Parada del Bus](https://open.spotify.com/track/5y7canQKRa5VpBBx2QnC6j) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Amor Compartido](https://open.spotify.com/album/5iNKAEiXpsvzu1Q9NyoVSy) | 2:39 |
-| 15 | [La Historia Sin Fin](https://open.spotify.com/track/6dEN7xu4YO1WmHP0J2Of5a) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 3:55 |
+| 14 | [La Historia Sin Fin](https://open.spotify.com/track/6dEN7xu4YO1WmHP0J2Of5a) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 3:55 |
+| 15 | [Parada del Bus](https://open.spotify.com/track/5y7canQKRa5VpBBx2QnC6j) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Amor Compartido](https://open.spotify.com/album/5iNKAEiXpsvzu1Q9NyoVSy) | 2:39 |
 | 16 | [Químicos](https://open.spotify.com/track/0XSN5gjS49IiIzNejxMUlz) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:26 |
 | 17 | [Norte \- Bonus](https://open.spotify.com/track/0q78AOChXaZc2esoLmhSiW) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte \(Japanese Version\)](https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo) | 5:03 |
 | 18 | [Rey Del Glam](https://open.spotify.com/track/0SeIoEjhexEvtCxkQ0rQn1) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Rey Del Glam](https://open.spotify.com/album/5woIUUe3VHDtI8L054tejM) | 4:08 |
 | 19 | [Los Años Maravillosos](https://open.spotify.com/track/1996GjeJ5X2eekrXatFiYF) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 4:23 |
 | 20 | [Berlín](https://open.spotify.com/track/4z55q1ocJQOiSwkFQAdUFO) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:45 |
-| 21 | [Fuego Fuego Fuego Fuego](https://open.spotify.com/track/2JRfXtlt2jx1kilhfm0OJx) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 4:13 |
+| 21 | [El Show Debe Continuar](https://open.spotify.com/track/6iLSUEdHyRZmsWPzLJLBRj) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 4:14 |
 | 22 | [Mi Droga Favorita](https://open.spotify.com/track/0xVdc0ZjwBJRP3AY4ytaBP) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 2:55 |
 | 23 | [Golden Choice](https://open.spotify.com/track/2EfDz9cgsVfwM1AcDWsSyN) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 3:48 |
 | 24 | [Pesadilla](https://open.spotify.com/track/2jRdBWjexlkEjQNjl6huoM) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:55 |
-| 25 | [El Show Debe Continuar](https://open.spotify.com/track/6iLSUEdHyRZmsWPzLJLBRj) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 4:14 |
+| 25 | [Fuego Fuego Fuego Fuego](https://open.spotify.com/track/2JRfXtlt2jx1kilhfm0OJx) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [El Show Debe Continuar](https://open.spotify.com/album/2hAufwA5GwxAcZ6mQkgQai) | 4:13 |
 | 26 | [Qué Hacemos](https://open.spotify.com/track/7DBRvlHX8PiPm3jm3K8UQD) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [EV+](https://open.spotify.com/album/1tlDSVwY9Ss6XegiLmB7tJ) | 4:43 |
 | 27 | [Volver al Futuro](https://open.spotify.com/track/44Odnyqirhbo2mOGlUd2GZ) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 4:36 |
 | 28 | [Nuevo México](https://open.spotify.com/track/0PBHDqIm5rrlC4iln6pWsY) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 3:35 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3b6YN5.md) - [plain]
 | 46 | [Jóvenes \- Bonus](https://open.spotify.com/track/1Del9GKHyafG0uliX83jY2) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte \(Japanese Version\)](https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo) | 4:21 |
 | 47 | [Fútbol Rock](https://open.spotify.com/track/1jfxfNyqMb9vtI7vX42pUR) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Radio Kono](https://open.spotify.com/album/172XfCgIw7Xo1oVZCV22gG) | 4:13 |
 | 48 | [Hermoso](https://open.spotify.com/track/5PLzR95zxVYpOlpWKtaygC) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Hermoso](https://open.spotify.com/album/3sv2FSWLRDPt9xM2yw78aA) | 3:27 |
-| 49 | [Video Club Amores](https://open.spotify.com/track/0KgiNELjv8XGVU7vnR2Mcm) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Video Club Amores](https://open.spotify.com/album/31tvW54Y2gBxdjJ7Gw8lNX) | 3:17 |
-| 50 | [llorandoenelclub\_100625\_v2](https://open.spotify.com/track/4a122VZ6nteagEdv1pVwGV) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [llorandoenelclub\_100625\_v2](https://open.spotify.com/album/73FHDk1GU3EhTYlFCM2qDU) | 2:28 |
+| 49 | [llorandoenelclub\_100625\_v2](https://open.spotify.com/track/4a122VZ6nteagEdv1pVwGV) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [llorandoenelclub\_100625\_v2](https://open.spotify.com/album/73FHDk1GU3EhTYlFCM2qDU) | 2:28 |
+| 50 | [Video Club Amores](https://open.spotify.com/track/0KgiNELjv8XGVU7vnR2Mcm) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Video Club Amores](https://open.spotify.com/album/31tvW54Y2gBxdjJ7Gw8lNX) | 3:17 |
 
-Snapshot ID: `anJ9AAAAAAAmjDOdpvRKFZdpZiaHCxQL`
+Snapshot ID: `anPOgAAAAADYeoSUwh6Px1YvAl5KayBx`

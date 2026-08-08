@@ -1,12 +1,12 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe",
-  "num_followers": 456797,
+  "num_followers": 456869,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACNNBmxcIjC9TT1piIaHI7IVv7Fi",
+  "snapshot_id": "AAAAAJRUgd/vvZcj7XbCIuYELV4cXKZr",
   "tracks": [
     {
       "added_at": "2026-03-13 19:07:31",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Los Reyes De Los Sonidos",
-        "url": "https://open.spotify.com/album/2iJqJTne30V8xi4X0AqUP6"
-      },
-      "artists": [
-        {
-          "name": "Grupo So\u00f1ador",
-          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
-        }
-      ],
-      "duration_ms": 216613,
-      "name": "El Paso Del Gigante",
-      "url": "https://open.spotify.com/track/5SW0bSJXKMukbh8FCcplA6"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "Acarey Ya Lleg\u00f3",
         "url": "https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 300773,
       "name": "Eres Mi Sue\u00f1o",
       "url": "https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "Los Reyes De Los Sonidos",
+        "url": "https://open.spotify.com/album/2iJqJTne30V8xi4X0AqUP6"
+      },
+      "artists": [
+        {
+          "name": "Grupo So\u00f1ador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+        }
+      ],
+      "duration_ms": 216613,
+      "name": "El Paso Del Gigante",
+      "url": "https://open.spotify.com/track/5SW0bSJXKMukbh8FCcplA6"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -679,26 +679,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Cuando No Estas Conmigo",
-        "url": "https://open.spotify.com/album/0rpNenvRSpG0ILgEFZSvym"
-      },
-      "artists": [
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Su Majestad La Brissa",
-          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
-        }
-      ],
-      "duration_ms": 201367,
-      "name": "Cuando No Estas Conmigo",
-      "url": "https://open.spotify.com/track/70jP2lO4kyktgLKQjE62Ak"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "30 Aniversario",
         "url": "https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 259466,
       "name": "Que nadie sepa mi sufrir (Amor de mis amores)",
       "url": "https://open.spotify.com/track/6azC9WCgqehMj2tHoaa10b"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "Cuando No Estas Conmigo",
+        "url": "https://open.spotify.com/album/0rpNenvRSpG0ILgEFZSvym"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Su Majestad La Brissa",
+          "url": "https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L"
+        }
+      ],
+      "duration_ms": 201367,
+      "name": "Cuando No Estas Conmigo",
+      "url": "https://open.spotify.com/track/70jP2lO4kyktgLKQjE62Ak"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "20th Anniversary Series",
+        "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
+      },
+      "artists": [
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Un Millon de Rosas",
+      "url": "https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "Los Del Garrote",
         "url": "https://open.spotify.com/album/4dlaQcldX1rZfJGxTj75KX"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 232411,
       "name": "Mala Mujer",
       "url": "https://open.spotify.com/track/7JNn2rhwOntQHy8Yvbu5d5"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "20th Anniversary Series",
-        "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
-      },
-      "artists": [
-        {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Un Millon de Rosas",
-      "url": "https://open.spotify.com/track/1idB3b2IIfal1DPwOuDQwo"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Tequendama de Oro, Vol. 4",
-        "url": "https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku"
-      },
-      "artists": [
-        {
-          "name": "Los Lideres",
-          "url": "https://open.spotify.com/artist/42FkXaqeCMzkbTCZC52TFn"
-        }
-      ],
-      "duration_ms": 180671,
-      "name": "Pedacito de Mi Vida",
-      "url": "https://open.spotify.com/track/4sCP5KRUAM03QrgCXF5cCo"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "pa' vailar pegaditos",
         "url": "https://open.spotify.com/album/5A6eiuYp1i4CawjhrRX6MW"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 130666,
       "name": "pa' vailar pegaditos",
       "url": "https://open.spotify.com/track/5FU6M9qGz18iFL9ZfG6vq0"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "Tequendama de Oro, Vol. 4",
+        "url": "https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku"
+      },
+      "artists": [
+        {
+          "name": "Los Lideres",
+          "url": "https://open.spotify.com/artist/42FkXaqeCMzkbTCZC52TFn"
+        }
+      ],
+      "duration_ms": 180671,
+      "name": "Pedacito de Mi Vida",
+      "url": "https://open.spotify.com/track/4sCP5KRUAM03QrgCXF5cCo"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "Guacharaca Reina de la Cumbia (La Reina Guacharaca)",
+        "url": "https://open.spotify.com/album/50qtvREMDY7yOPfXDBrOoa"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Xique y su Ritmo Bakan",
+          "url": "https://open.spotify.com/artist/12zXlDtb5GrmHKk9qgkuQ4"
+        }
+      ],
+      "duration_ms": 250958,
+      "name": "Guacharaca Reina de la Cumbia - La Reina Guacharaca",
+      "url": "https://open.spotify.com/track/2ZvYQaFP7zTAObZwkAkE9N"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "Greatest Cumbia Classics Of Colombia, Vol. 2",
         "url": "https://open.spotify.com/album/3trKivETlD5qX29DhLNOa9"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 226600,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/13xVmEV4G5jh8zDIFTZeIy"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Guacharaca Reina de la Cumbia (La Reina Guacharaca)",
-        "url": "https://open.spotify.com/album/50qtvREMDY7yOPfXDBrOoa"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Xique y su Ritmo Bakan",
-          "url": "https://open.spotify.com/artist/12zXlDtb5GrmHKk9qgkuQ4"
-        }
-      ],
-      "duration_ms": 250958,
-      "name": "Guacharaca Reina de la Cumbia - La Reina Guacharaca",
-      "url": "https://open.spotify.com/track/2ZvYQaFP7zTAObZwkAkE9N"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1991,6 +1991,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "Para Que Negarlo",
+        "url": "https://open.spotify.com/album/0Uc5cugAlb1vUcg4V5dyXT"
+      },
+      "artists": [
+        {
+          "name": "Carlos D'Castro",
+          "url": "https://open.spotify.com/artist/0GhPz9EJN7w5QcZRc54NeE"
+        }
+      ],
+      "duration_ms": 263079,
+      "name": "Y Si Te Quedas, Que?",
+      "url": "https://open.spotify.com/track/3NXOGjWzw2itxXcIqZOzvH"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "Ciclos",
         "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
       },
@@ -2019,22 +2035,6 @@
       "duration_ms": 364466,
       "name": "Un Monton De Estrellas",
       "url": "https://open.spotify.com/track/6aRaqc6pTMrm530rf7uL0S"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Para Que Negarlo",
-        "url": "https://open.spotify.com/album/0Uc5cugAlb1vUcg4V5dyXT"
-      },
-      "artists": [
-        {
-          "name": "Carlos D'Castro",
-          "url": "https://open.spotify.com/artist/0GhPz9EJN7w5QcZRc54NeE"
-        }
-      ],
-      "duration_ms": 263079,
-      "name": "Y Si Te Quedas, Que?",
-      "url": "https://open.spotify.com/track/3NXOGjWzw2itxXcIqZOzvH"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Grupo Ca\u00f1averal, Vol. III",
-        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 237960,
-      "name": "Tiene Espinas El Rosal",
-      "url": "https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "En Tu Perra Vida",
         "url": "https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 238677,
       "name": "En Tu Perra Vida",
       "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "Grupo Ca\u00f1averal, Vol. III",
+        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 237960,
+      "name": "Tiene Espinas El Rosal",
+      "url": "https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -2139,18 +2139,18 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Borrachera Con Los Honorables (Live)",
-        "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
+        "name": "Dinamitazos Tropicales de Siempre",
+        "url": "https://open.spotify.com/album/2qBPvlvZqAqZ7oiGJYTpko"
       },
       "artists": [
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
         }
       ],
-      "duration_ms": 188416,
-      "name": "La Boda Del Huitlacoche - Live",
-      "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
+      "duration_ms": 189954,
+      "name": "Oye",
+      "url": "https://open.spotify.com/track/11r0RQ89XTJOkbZCnFYdqG"
     }
   ],
   "unique_name": "Fiesta de Barrio",

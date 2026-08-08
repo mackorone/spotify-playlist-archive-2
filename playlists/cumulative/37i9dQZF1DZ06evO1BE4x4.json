@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Violent Soho (Australia Version)",
+        "url": "https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182866,
+      "name": "Slippery Tongue",
+      "url": "https://open.spotify.com/track/6asCL7Mii0tK9xInsyrz8L"
+    },
+    {
+      "album": {
         "name": "Everything Is A-OK",
         "url": "https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Ocean. The essential tracks, all in one playlist.",
-  "num_followers": 336060,
+  "num_followers": 336143,
   "original_name": "This Is Danny Ocean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAADRI8NdJMl55lHfLlBt/pFG",
+  "snapshot_id": "anPOgAAAAACTSZOddx8l/qympQrt2B57",
   "tracks": [
     {
       "added_at": null,
@@ -459,6 +459,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amapolas (Remix)",
+        "url": "https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 267338,
+      "name": "Amapolas - Remix",
+      "url": "https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Caramel",
         "url": "https://open.spotify.com/album/2zoELihgdzNwMCftYhosAI"
       },
@@ -491,22 +511,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amapolas (Remix)",
-        "url": "https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U"
+        "name": "Llego (FIFA World Cup 2026\u2122)",
+        "url": "https://open.spotify.com/album/1JgwpOf45JaiwHpViQcyde"
       },
       "artists": [
         {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         },
         {
           "name": "Danny Ocean",
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
         }
       ],
-      "duration_ms": 267338,
-      "name": "Amapolas - Remix",
-      "url": "https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc"
+      "duration_ms": 192527,
+      "name": "Llego",
+      "url": "https://open.spotify.com/track/0I1cHghDEtreiO6tRrh2wm"
     },
     {
       "added_at": null,
@@ -551,30 +575,6 @@
       "duration_ms": 188132,
       "name": "ENTR\u00c9GAME",
       "url": "https://open.spotify.com/track/3rkzQE7dyRH6UlbFgoqbWf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Llego (FIFA World Cup 2026\u2122)",
-        "url": "https://open.spotify.com/album/1JgwpOf45JaiwHpViQcyde"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "FIFA Sound",
-          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
-        }
-      ],
-      "duration_ms": 192527,
-      "name": "Llego",
-      "url": "https://open.spotify.com/track/0I1cHghDEtreiO6tRrh2wm"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "babylona blue",
-        "url": "https://open.spotify.com/album/6Q4c6DexERmNLUyDeTj738"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 112694,
-      "name": "Por qu\u00e9 dudas de mi?",
-      "url": "https://open.spotify.com/track/6VEWNOA9aKe2ZtOfk7HeDA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "saman\u00e1",
         "url": "https://open.spotify.com/album/1WlUsQsnYw5aANItfBxFRR"
       },
@@ -679,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "babylona blue",
+        "url": "https://open.spotify.com/album/6Q4c6DexERmNLUyDeTj738"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 112694,
+      "name": "Por qu\u00e9 dudas de mi?",
+      "url": "https://open.spotify.com/track/6VEWNOA9aKe2ZtOfk7HeDA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CUARTO AZUL",
         "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
       },
@@ -695,6 +695,26 @@
       "duration_ms": 202713,
       "name": "HOY ES TU CUMPLEA\u00d1OS",
       "url": "https://open.spotify.com/track/4gQUdvZbxu7G9G7NlREw21"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Insomnio",
+        "url": "https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 185546,
+      "name": "Bailarina",
+      "url": "https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh"
     },
     {
       "added_at": null,
@@ -735,26 +755,6 @@
       "duration_ms": 170670,
       "name": "Real time love",
       "url": "https://open.spotify.com/track/4zAzvr7CwU5En0McHy2H5B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Insomnio",
-        "url": "https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 185546,
-      "name": "Bailarina",
-      "url": "https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,292 likes - 69 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,300 likes - 69 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 68 | [Infinito Amor](https://open.spotify.com/track/3x8ZWtrehlt4W1us1hhFzq) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL) | [Infinito Amor](https://open.spotify.com/album/3kDwHwOF0WcZ7bUS6Rcrdv) | 4:03 |
 | 69 | [Coragem](https://open.spotify.com/track/1RUoOYWFB0ofFixpupBK4K) | [Netto](https://open.spotify.com/artist/5awlcFnDX9Dst9FAu5zgFP) | [Coragem](https://open.spotify.com/album/3kGyXvpJx1IrYx9HwjlO3G) | 4:25 |
 
-Snapshot ID: `AAAAAHos8p73oDHkzqVhZF0GSDuPUn6W`
+Snapshot ID: `AAAAAK7UIRw/VIVGuPUAdJnegzZpN0cW`

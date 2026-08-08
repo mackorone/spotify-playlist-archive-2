@@ -1,12 +1,12 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 27186,
+  "num_followers": 27184,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKtOkcClpFuzTEc2yxP8OTCFz6VN",
+  "snapshot_id": "AAAAADSHIm05ApEJC5JySuQOgiVuNX/K",
   "tracks": [
     {
       "added_at": "2025-10-23 13:55:51",
@@ -1353,22 +1353,6 @@
       "url": "https://open.spotify.com/track/3fY7C8e4gZ5RfcN4GB2yDJ"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "SCOPE",
-        "url": "https://open.spotify.com/album/4argo68WyfT6dGHp2ETKpm"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 294604,
-      "name": "\u3084\u3055\u3057\u3044\u821e\u8e0f\u4f1a",
-      "url": "https://open.spotify.com/track/1DSxhNf742bhxJzfhDuygH"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "BIBLE",
@@ -1383,6 +1367,22 @@
       "duration_ms": 280093,
       "name": "\u771f\u51ac\u306e\u604b\u4eba\u305f\u3061",
       "url": "https://open.spotify.com/track/05mB4qDx7CR2c88s0YsNs5"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "SCOPE",
+        "url": "https://open.spotify.com/album/4argo68WyfT6dGHp2ETKpm"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 294604,
+      "name": "\u3084\u3055\u3057\u3044\u821e\u8e0f\u4f1a",
+      "url": "https://open.spotify.com/track/1DSxhNf742bhxJzfhDuygH"
     },
     {
       "added_at": "2025-03-11 22:40:18",

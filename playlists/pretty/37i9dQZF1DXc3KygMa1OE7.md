@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KygMa1OE7.md) - [plain]
 
 > The most unforgettable love songs from the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,613,405 likes - 75 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,613,413 likes - 75 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KygMa1OE7.md) - [plain]
 | 35 | [Straight From The Heart](https://open.spotify.com/track/5eaK7PLGwyDXmHfTdWZZuE) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Cuts Like A Knife](https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7) | 3:31 |
 | 36 | [What A Feeling](https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What A Feeling](https://open.spotify.com/album/7C65CLdoGCQZ739kfYVcwY) | 4:04 |
 | 37 | [Hello](https://open.spotify.com/track/6HMvJcdw6qLsyV1b5x29sa) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T) | 4:06 |
-| 38 | [I Just Can't Stop Loving You \(feat\. Siedah Garrett\) \- 2012 Remaster](https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Siedah Garrett](https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:13 |
-| 39 | [Easy Lover](https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf) | [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Chinese Wall](https://open.spotify.com/album/1F6HoOK69lMDIb3ujvwlTX) | 5:04 |
+| 38 | [Easy Lover](https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf) | [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Chinese Wall](https://open.spotify.com/album/1F6HoOK69lMDIb3ujvwlTX) | 5:04 |
+| 39 | [I Just Can't Stop Loving You \(feat\. Siedah Garrett\) \- 2012 Remaster](https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Siedah Garrett](https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:13 |
 | 40 | [What's Love Got to Do with It](https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It?](https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o) | 3:46 |
 | 41 | [Eternal Flame](https://open.spotify.com/track/5MoDQWMDMaAGDEiWsJfeCi) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC), [Susanna Hoffs](https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL) | [The Essential Bangles](https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf) | 3:58 |
 | 42 | [Lost in Your Eyes](https://open.spotify.com/track/6PMDILZiYo4YzMBbE0dGK9) | [Debbie Gibson](https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp) | [Electric Youth](https://open.spotify.com/album/5PnwSSRbLcCLpNMe2LFhOC) | 3:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KygMa1OE7.md) - [plain]
 | 74 | [Listen To Your Heart](https://open.spotify.com/track/78TnMTAFmWUWWCgNXR7D3K) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(2009 Version\)](https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9) | 5:28 |
 | 75 | [All Night Long \(All Night\) \- Single Version](https://open.spotify.com/track/5a9BgulCg84pm4kgwGGArI) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [The Definitive Collection](https://open.spotify.com/album/2Rd1gDdcoKvdtwKRwFk3SF) | 4:20 |
 
-Snapshot ID: `AAAAAH+EesyuYbk/PEs+ZTTk+zaXeUAm`
+Snapshot ID: `AAAAAAQmXIQrqQQKOA7gJA4RSUnXu9mr`

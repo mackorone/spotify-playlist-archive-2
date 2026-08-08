@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2komXu.md) - [plain]
 
 > This is Ayra Starr\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,756 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,793 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2komXu.md) - [plain]
 | 42 | [come close \(feat\. Ayra Starr\)](https://open.spotify.com/track/2u5dBIBam2FTwYsgsptJyj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:24 |
 | 43 | [Away](https://open.spotify.com/track/47eAURQmsBK5e5cliaObFm) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Ayra Starr](https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc) | 2:49 |
 | 44 | [PINACOLADA REMIX \(feat\. Beéle, Ayra Starr, 6LACK\)](https://open.spotify.com/track/7qNZLFVB86qiyRT9xFg0f4) | [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [PINACOLADA REMIX \(feat\. Beéle, Ayra Starr, 6LACK\)](https://open.spotify.com/album/12CsRgdLnx2J6Da2mS4JyN) | 3:31 |
-| 45 | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT) | 2:17 |
-| 46 | [PINACOLADA](https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF) | [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [PINACOLADA](https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE) | 2:57 |
+| 45 | [PINACOLADA](https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF) | [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [PINACOLADA](https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE) | 2:57 |
+| 46 | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT) | 2:17 |
 | 47 | [Take It To The Top \(Becky G & Ayra Starr\)](https://open.spotify.com/track/4mKUfMSg0geJFVscFdaMcQ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE / DELUXE EDITION\)](https://open.spotify.com/album/0rqRGFgE4o8kf6VM18jakx) | 2:05 |
 | 48 | [Aye Kan \(Are You Coming Back?\) \[feat\. Ayra Starr\]](https://open.spotify.com/track/25jdAC3wA5yiwKkGD1n7t2) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Aye Kan \(Are You Coming Back?\) \[feat\. Ayra Starr\]](https://open.spotify.com/album/6qg58bqEAREvTlAo0ytie9) | 3:04 |
 | 49 | [My Love \(feat\. Ayra Starr\)](https://open.spotify.com/track/2XOJCFJ6Wig25fnEjxtSsR) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Love \(feat\. Ayra Starr\)](https://open.spotify.com/album/6uIz2uaQPu5UjOUm5d8dIm) | 2:56 |
 | 50 | [My Baby \(feat\. Ayra Starr\)](https://open.spotify.com/track/3riCAuMBWoWzNdfToamrue) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Alusa Why Are You Topless?](https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm) | 3:10 |
 
-Snapshot ID: `anJ9AAAAAAD7kpdrn3iU2cIJ2pl+hyh0`
+Snapshot ID: `anPOgAAAAABYvy9YlbQy9wMngPOiHIPS`

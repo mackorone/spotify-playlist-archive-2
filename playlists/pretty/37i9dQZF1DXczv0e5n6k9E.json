@@ -1,12 +1,12 @@
 {
   "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Bossikan",
-  "num_followers": 73415,
+  "num_followers": 73448,
   "original_name": "Hot Greek Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEqB68ei7HLbrOfI44mcDC5u/PJ6",
+  "snapshot_id": "AAAAAAPv8FmUHuGcU8UsV6D/qYblMzFu",
   "tracks": [
     {
       "added_at": "2026-08-06 21:00:47",
@@ -67,6 +67,34 @@
       "duration_ms": 151578,
       "name": "MENTALITE",
       "url": "https://open.spotify.com/track/7Hu9gyVn9kQShhBMHvxLBm"
+    },
+    {
+      "added_at": "2026-08-06 21:00:47",
+      "album": {
+        "name": "VERSACE",
+        "url": "https://open.spotify.com/album/1uP4wBPulejvSucBlYl8Sv"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "Echo",
+          "url": "https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "VERSACE",
+      "url": "https://open.spotify.com/track/77Ncp4dEk7bVbDTpTwfj6I"
     },
     {
       "added_at": "2026-08-06 21:00:47",
@@ -454,6 +482,10 @@
         {
           "name": "Merko",
           "url": "https://open.spotify.com/artist/3NBuryo6MsorZpU4VRpHOJ"
+        },
+        {
+          "name": "Spize",
+          "url": "https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm"
         }
       ],
       "duration_ms": 110837,

@@ -1,12 +1,12 @@
 {
   "description": "Ideale muziek voor de werkdag ",
-  "num_followers": 87701,
+  "num_followers": 87694,
   "original_name": "Werkdag FM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIuxO1pV+wOhQkPSYtVpAgyndPz8",
+  "snapshot_id": "AAAAABPOo0y+jd3s0OC1wDfpEgEdQote",
   "tracks": [
     {
       "added_at": "2026-07-17 14:00:08",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-07-17 14:00:08",
       "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 187306,
-      "name": "Last Train Home",
-      "url": "https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX"
-    },
-    {
-      "added_at": "2026-07-17 14:00:08",
-      "album": {
         "name": "Little Voice",
         "url": "https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 233021,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L"
+    },
+    {
+      "added_at": "2026-07-17 14:00:08",
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "Last Train Home",
+      "url": "https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX"
     },
     {
       "added_at": "2026-07-17 14:00:08",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-07-17 14:00:08",
       "album": {
-        "name": "Fix What You Didn't Break",
-        "url": "https://open.spotify.com/album/7d0hS6Qa9gXEjwlbsJbaEr"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 201555,
-      "name": "Fix What You Didn't Break",
-      "url": "https://open.spotify.com/track/0GJ8peTqHq9pu5Yf2vHjjX"
-    },
-    {
-      "added_at": "2026-07-17 14:00:08",
-      "album": {
         "name": "HOW DOES IT FEEL?",
         "url": "https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 137689,
       "name": "HOW DOES IT FEEL?",
       "url": "https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i"
+    },
+    {
+      "added_at": "2026-07-17 14:00:08",
+      "album": {
+        "name": "Fix What You Didn't Break",
+        "url": "https://open.spotify.com/album/7d0hS6Qa9gXEjwlbsJbaEr"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 201555,
+      "name": "Fix What You Didn't Break",
+      "url": "https://open.spotify.com/track/0GJ8peTqHq9pu5Yf2vHjjX"
     },
     {
       "added_at": "2026-07-17 14:00:08",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-07-17 14:00:08",
       "album": {
-        "name": "My Lucky Day",
-        "url": "https://open.spotify.com/album/78wgkYYTT235IBZYo7iZ2u"
-      },
-      "artists": [
-        {
-          "name": "Milow",
-          "url": "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
-        }
-      ],
-      "duration_ms": 160058,
-      "name": "My Lucky Day",
-      "url": "https://open.spotify.com/track/32Tzk2ucF5fgljunf6aP4L"
-    },
-    {
-      "added_at": "2026-07-17 14:00:08",
-      "album": {
         "name": "Be More",
         "url": "https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 231684,
       "name": "Be More",
       "url": "https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53"
+    },
+    {
+      "added_at": "2026-07-17 14:00:08",
+      "album": {
+        "name": "My Lucky Day",
+        "url": "https://open.spotify.com/album/78wgkYYTT235IBZYo7iZ2u"
+      },
+      "artists": [
+        {
+          "name": "Milow",
+          "url": "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
+        }
+      ],
+      "duration_ms": 160058,
+      "name": "My Lucky Day",
+      "url": "https://open.spotify.com/track/32Tzk2ucF5fgljunf6aP4L"
     },
     {
       "added_at": "2026-07-17 14:00:08",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-07-17 14:00:08",
       "album": {
-        "name": "The Awakening",
-        "url": "https://open.spotify.com/album/7poZ9Yjx1nBxpTrUAm7feN"
-      },
-      "artists": [
-        {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
-        }
-      ],
-      "duration_ms": 203557,
-      "name": "Slave To The Music",
-      "url": "https://open.spotify.com/track/5IZznaqrDUgDWXYcjBxgCV"
-    },
-    {
-      "added_at": "2026-07-17 14:00:08",
-      "album": {
         "name": "Nightfalls",
         "url": "https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 220892,
       "name": "Nightfalls",
       "url": "https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq"
+    },
+    {
+      "added_at": "2026-07-17 14:00:08",
+      "album": {
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/7poZ9Yjx1nBxpTrUAm7feN"
+      },
+      "artists": [
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        }
+      ],
+      "duration_ms": 203557,
+      "name": "Slave To The Music",
+      "url": "https://open.spotify.com/track/5IZznaqrDUgDWXYcjBxgCV"
     },
     {
       "added_at": "2026-07-17 14:00:08",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2026-07-17 14:00:08",
       "album": {
-        "name": "MY CITY",
-        "url": "https://open.spotify.com/album/2CFqRjQTbvFvaV5M6VXbUt"
-      },
-      "artists": [
-        {
-          "name": "Ty Darling",
-          "url": "https://open.spotify.com/artist/2EZ6sQxeNZGklwhOXjIYz8"
-        }
-      ],
-      "duration_ms": 189349,
-      "name": "MY CITY",
-      "url": "https://open.spotify.com/track/3XqEeUvPdYHtU8U3tYqcse"
-    },
-    {
-      "added_at": "2026-07-17 14:00:08",
-      "album": {
         "name": "Once In A Lifetime",
         "url": "https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 117000,
       "name": "Once In A Lifetime",
       "url": "https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru"
+    },
+    {
+      "added_at": "2026-07-17 14:00:08",
+      "album": {
+        "name": "MY CITY",
+        "url": "https://open.spotify.com/album/2CFqRjQTbvFvaV5M6VXbUt"
+      },
+      "artists": [
+        {
+          "name": "Ty Darling",
+          "url": "https://open.spotify.com/artist/2EZ6sQxeNZGklwhOXjIYz8"
+        }
+      ],
+      "duration_ms": 189349,
+      "name": "MY CITY",
+      "url": "https://open.spotify.com/track/3XqEeUvPdYHtU8U3tYqcse"
     },
     {
       "added_at": "2026-07-17 14:00:08",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2026-07-17 14:00:08",
       "album": {
-        "name": "Breaking Away (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4JwM6rGlSRICnJk0NRgK9o"
-      },
-      "artists": [
-        {
-          "name": "Lisa Lois",
-          "url": "https://open.spotify.com/artist/1dGsUN9Hwx78H6MdDquxLL"
-        }
-      ],
-      "duration_ms": 216533,
-      "name": "Silhouette",
-      "url": "https://open.spotify.com/track/3tn88WWmoGXnFelINCXRRw"
-    },
-    {
-      "added_at": "2026-07-17 14:00:08",
-      "album": {
         "name": "White Noise",
         "url": "https://open.spotify.com/album/5OCYn7QlVlbhTR85jsLb1R"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 171752,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/67q6hY7zzDqgFtBGd4SWZB"
+    },
+    {
+      "added_at": "2026-07-17 14:00:08",
+      "album": {
+        "name": "Breaking Away (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4JwM6rGlSRICnJk0NRgK9o"
+      },
+      "artists": [
+        {
+          "name": "Lisa Lois",
+          "url": "https://open.spotify.com/artist/1dGsUN9Hwx78H6MdDquxLL"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/3tn88WWmoGXnFelINCXRRw"
     },
     {
       "added_at": "2026-07-17 14:00:08",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2026-07-17 14:00:08",
       "album": {
-        "name": "Salt Moon City",
-        "url": "https://open.spotify.com/album/3llOStWz8Dr8dO4bC0SpNs"
-      },
-      "artists": [
-        {
-          "name": "Iskander Moon",
-          "url": "https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0"
-        }
-      ],
-      "duration_ms": 243680,
-      "name": "Buried in Beverly Hills",
-      "url": "https://open.spotify.com/track/2kBDE8s0flZwnonaQ5A2Ef"
-    },
-    {
-      "added_at": "2026-07-17 14:00:08",
-      "album": {
         "name": "New Tattoo",
         "url": "https://open.spotify.com/album/4sJ9FkL8ibug35Bd45V9dh"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 211583,
       "name": "New Tattoo",
       "url": "https://open.spotify.com/track/2i57J7yZmaYn48ilF9QeBH"
+    },
+    {
+      "added_at": "2026-07-17 14:00:08",
+      "album": {
+        "name": "Salt Moon City",
+        "url": "https://open.spotify.com/album/3llOStWz8Dr8dO4bC0SpNs"
+      },
+      "artists": [
+        {
+          "name": "Iskander Moon",
+          "url": "https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0"
+        }
+      ],
+      "duration_ms": 243680,
+      "name": "Buried in Beverly Hills",
+      "url": "https://open.spotify.com/track/2kBDE8s0flZwnonaQ5A2Ef"
     },
     {
       "added_at": "2026-07-17 14:00:08",
@@ -2347,6 +2347,22 @@
     {
       "added_at": "2026-07-17 14:00:08",
       "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/5WZbBRS9f7IXaGFSoDXa7S"
+      },
+      "artists": [
+        {
+          "name": "Jack and the Weatherman",
+          "url": "https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ"
+        }
+      ],
+      "duration_ms": 151200,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/2Ge2inARTv0tXh2CxozJCu"
+    },
+    {
+      "added_at": "2026-07-17 14:00:08",
+      "album": {
         "name": "Quarter Life Crisis",
         "url": "https://open.spotify.com/album/4sfC2BT8zecnW2Lh9rDml1"
       },
@@ -2363,22 +2379,6 @@
       "duration_ms": 235667,
       "name": "Feel At Home",
       "url": "https://open.spotify.com/track/4rjPdgGdaLyuQfOzV79v9h"
-    },
-    {
-      "added_at": "2026-07-17 14:00:08",
-      "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/5WZbBRS9f7IXaGFSoDXa7S"
-      },
-      "artists": [
-        {
-          "name": "Jack and the Weatherman",
-          "url": "https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ"
-        }
-      ],
-      "duration_ms": 151200,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/2Ge2inARTv0tXh2CxozJCu"
     },
     {
       "added_at": "2026-07-17 14:00:08",
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2026-07-17 14:00:08",
       "album": {
-        "name": "Dark Before The Dawn",
-        "url": "https://open.spotify.com/album/5IDysKWEasAmRL0GtLQaLb"
-      },
-      "artists": [
-        {
-          "name": "Son Mieux",
-          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
-        }
-      ],
-      "duration_ms": 215584,
-      "name": "Dark Before The Dawn",
-      "url": "https://open.spotify.com/track/7p1zQqPlC3gju243x8BTYZ"
-    },
-    {
-      "added_at": "2026-07-17 14:00:08",
-      "album": {
         "name": "Heavy",
         "url": "https://open.spotify.com/album/0BvwpL6wdl6FacJayiN1GK"
       },
@@ -2463,18 +2447,18 @@
     {
       "added_at": "2026-07-17 14:00:08",
       "album": {
-        "name": "Y O U",
-        "url": "https://open.spotify.com/album/0zbcEWMDwjdf2jCGYTxdUr"
+        "name": "Dark Before The Dawn",
+        "url": "https://open.spotify.com/album/5IDysKWEasAmRL0GtLQaLb"
       },
       "artists": [
         {
-          "name": "Tangarine",
-          "url": "https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659"
+          "name": "Son Mieux",
+          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
         }
       ],
-      "duration_ms": 221643,
-      "name": "Here With You - Acoustic",
-      "url": "https://open.spotify.com/track/5LebGpYKQvTVM8PrMIrF99"
+      "duration_ms": 215584,
+      "name": "Dark Before The Dawn",
+      "url": "https://open.spotify.com/track/7p1zQqPlC3gju243x8BTYZ"
     },
     {
       "added_at": "2026-07-17 14:00:08",
@@ -2491,6 +2475,22 @@
       "duration_ms": 209213,
       "name": "The Healing",
       "url": "https://open.spotify.com/track/71NRgNmHbukGD3bXxN5Xyx"
+    },
+    {
+      "added_at": "2026-07-17 14:00:08",
+      "album": {
+        "name": "Y O U",
+        "url": "https://open.spotify.com/album/0zbcEWMDwjdf2jCGYTxdUr"
+      },
+      "artists": [
+        {
+          "name": "Tangarine",
+          "url": "https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659"
+        }
+      ],
+      "duration_ms": 221643,
+      "name": "Here With You - Acoustic",
+      "url": "https://open.spotify.com/track/5LebGpYKQvTVM8PrMIrF99"
     },
     {
       "added_at": "2026-07-17 14:00:08",
@@ -2543,22 +2543,6 @@
     {
       "added_at": "2026-07-17 14:00:08",
       "album": {
-        "name": "Follow",
-        "url": "https://open.spotify.com/album/2bgUfyfDGDgn1lcchgFOTZ"
-      },
-      "artists": [
-        {
-          "name": "Janieck",
-          "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
-        }
-      ],
-      "duration_ms": 152195,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/1JoM3HEBn0cNTi8bNSyqTb"
-    },
-    {
-      "added_at": "2026-07-17 14:00:08",
-      "album": {
         "name": "Lift You Up",
         "url": "https://open.spotify.com/album/0VpQQARdV5LQijcfgFIoLX"
       },
@@ -2571,6 +2555,22 @@
       "duration_ms": 181649,
       "name": "Lift You Up",
       "url": "https://open.spotify.com/track/7Gu7NjUmWPvX5I35WolbIQ"
+    },
+    {
+      "added_at": "2026-07-17 14:00:08",
+      "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/2bgUfyfDGDgn1lcchgFOTZ"
+      },
+      "artists": [
+        {
+          "name": "Janieck",
+          "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
+        }
+      ],
+      "duration_ms": 152195,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/1JoM3HEBn0cNTi8bNSyqTb"
     },
     {
       "added_at": "2026-07-17 14:00:08",
@@ -2767,22 +2767,6 @@
     {
       "added_at": "2026-07-17 14:00:08",
       "album": {
-        "name": "Javelin",
-        "url": "https://open.spotify.com/album/7nd9mJWgsV8oPY35Dq57eX"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 225017,
-      "name": "Javelin",
-      "url": "https://open.spotify.com/track/0CyWgKe5ZQ1BVN5Lyp2Z3C"
-    },
-    {
-      "added_at": "2026-07-17 14:00:08",
-      "album": {
         "name": "Ghosts",
         "url": "https://open.spotify.com/album/2PWoBl1aTMVU93FZDQKF8S"
       },
@@ -2819,6 +2803,22 @@
       "duration_ms": 192724,
       "name": "This Is What It Feels Like - John Ewbank Classical Remix",
       "url": "https://open.spotify.com/track/1MTHcjq2LmrQDYDuLentyu"
+    },
+    {
+      "added_at": "2026-07-17 14:00:08",
+      "album": {
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/7nd9mJWgsV8oPY35Dq57eX"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 225017,
+      "name": "Javelin",
+      "url": "https://open.spotify.com/track/0CyWgKe5ZQ1BVN5Lyp2Z3C"
     },
     {
       "added_at": "2026-07-17 14:00:08",
@@ -2923,22 +2923,6 @@
     {
       "added_at": "2026-07-17 14:00:08",
       "album": {
-        "name": "It Takes Two",
-        "url": "https://open.spotify.com/album/3Pk1kEQQYAc88SZMZfOifu"
-      },
-      "artists": [
-        {
-          "name": "Martin Jasper",
-          "url": "https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ"
-        }
-      ],
-      "duration_ms": 158803,
-      "name": "It Takes Two",
-      "url": "https://open.spotify.com/track/1nuc2zALgFmviSthCk4BZx"
-    },
-    {
-      "added_at": "2026-07-17 14:00:08",
-      "album": {
         "name": "Happy in Hindsight",
         "url": "https://open.spotify.com/album/4mbTJzPO8Y5RwlOLGiZLQs"
       },
@@ -2951,6 +2935,22 @@
       "duration_ms": 213161,
       "name": "Happy in Hindsight",
       "url": "https://open.spotify.com/track/5TTI3j2PFfhjQ9LQT7Xllx"
+    },
+    {
+      "added_at": "2026-07-17 14:00:08",
+      "album": {
+        "name": "It Takes Two",
+        "url": "https://open.spotify.com/album/3Pk1kEQQYAc88SZMZfOifu"
+      },
+      "artists": [
+        {
+          "name": "Martin Jasper",
+          "url": "https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ"
+        }
+      ],
+      "duration_ms": 158803,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/1nuc2zALgFmviSthCk4BZx"
     },
     {
       "added_at": "2026-07-17 14:00:08",
@@ -2971,22 +2971,6 @@
     {
       "added_at": "2026-07-17 14:00:08",
       "album": {
-        "name": "Meet You In The Middle",
-        "url": "https://open.spotify.com/album/2UWD7JfYUKklHrdaVN5xGV"
-      },
-      "artists": [
-        {
-          "name": "Orange Skyline",
-          "url": "https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx"
-        }
-      ],
-      "duration_ms": 210760,
-      "name": "Meet You In The Middle",
-      "url": "https://open.spotify.com/track/7KNfqyUKqkIkhHV4Xo5g6K"
-    },
-    {
-      "added_at": "2026-07-17 14:00:08",
-      "album": {
         "name": "Lovestruck Puzzles",
         "url": "https://open.spotify.com/album/5CYzxWpyxi1vePhH4Jlq6h"
       },
@@ -3003,6 +2987,22 @@
       "duration_ms": 210283,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/1VsltuFeMjASOFW8lIvmcr"
+    },
+    {
+      "added_at": "2026-07-17 14:00:08",
+      "album": {
+        "name": "Meet You In The Middle",
+        "url": "https://open.spotify.com/album/2UWD7JfYUKklHrdaVN5xGV"
+      },
+      "artists": [
+        {
+          "name": "Orange Skyline",
+          "url": "https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx"
+        }
+      ],
+      "duration_ms": 210760,
+      "name": "Meet You In The Middle",
+      "url": "https://open.spotify.com/track/7KNfqyUKqkIkhHV4Xo5g6K"
     },
     {
       "added_at": "2026-07-17 14:00:08",
@@ -3063,26 +3063,6 @@
     {
       "added_at": "2026-07-17 14:00:08",
       "album": {
-        "name": "Take A Chance (Acoustic)",
-        "url": "https://open.spotify.com/album/6tNEMqxSwtcGDMcQX9wEIf"
-      },
-      "artists": [
-        {
-          "name": "SERA",
-          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
-        },
-        {
-          "name": "Alexander Oscar",
-          "url": "https://open.spotify.com/artist/7ypOZKaKGrCf3V6pOuaXiM"
-        }
-      ],
-      "duration_ms": 166585,
-      "name": "Take A Chance - Acoustic",
-      "url": "https://open.spotify.com/track/7maJDADttwHBFlcuTzf2s9"
-    },
-    {
-      "added_at": "2026-07-17 14:00:08",
-      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/1JsBybdsBJvct13iVujNb3"
       },
@@ -3115,6 +3095,26 @@
     {
       "added_at": "2026-07-17 14:00:08",
       "album": {
+        "name": "Take A Chance (Acoustic)",
+        "url": "https://open.spotify.com/album/6tNEMqxSwtcGDMcQX9wEIf"
+      },
+      "artists": [
+        {
+          "name": "SERA",
+          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
+        },
+        {
+          "name": "Alexander Oscar",
+          "url": "https://open.spotify.com/artist/7ypOZKaKGrCf3V6pOuaXiM"
+        }
+      ],
+      "duration_ms": 166585,
+      "name": "Take A Chance - Acoustic",
+      "url": "https://open.spotify.com/track/7maJDADttwHBFlcuTzf2s9"
+    },
+    {
+      "added_at": "2026-07-17 14:00:08",
+      "album": {
         "name": "Icarus & The Sun",
         "url": "https://open.spotify.com/album/7hhml09yFIN79J7iL9uPba"
       },
@@ -3131,22 +3131,6 @@
     {
       "added_at": "2026-07-17 14:00:08",
       "album": {
-        "name": "Happy New Year",
-        "url": "https://open.spotify.com/album/6GhuV1ZwCgUvirFMZalAAO"
-      },
-      "artists": [
-        {
-          "name": "Blair Davie",
-          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "Happy New Year",
-      "url": "https://open.spotify.com/track/0HOsCK1j8qOB8WCSmPD1m7"
-    },
-    {
-      "added_at": "2026-07-17 14:00:08",
-      "album": {
         "name": "Can't Love",
         "url": "https://open.spotify.com/album/3Qx7wu5jT1IKEG0SGE6Qsl"
       },
@@ -3159,6 +3143,22 @@
       "duration_ms": 173040,
       "name": "Can't Love",
       "url": "https://open.spotify.com/track/2UZhtIE0dBdPAPzBHzdkwF"
+    },
+    {
+      "added_at": "2026-07-17 14:00:08",
+      "album": {
+        "name": "Happy New Year",
+        "url": "https://open.spotify.com/album/6GhuV1ZwCgUvirFMZalAAO"
+      },
+      "artists": [
+        {
+          "name": "Blair Davie",
+          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "Happy New Year",
+      "url": "https://open.spotify.com/track/0HOsCK1j8qOB8WCSmPD1m7"
     },
     {
       "added_at": "2026-07-17 14:00:08",
@@ -3231,22 +3231,6 @@
     {
       "added_at": "2026-07-17 14:00:08",
       "album": {
-        "name": "Can't Take You Home",
-        "url": "https://open.spotify.com/album/7ircwf7LABt7ds3vhYbgO4"
-      },
-      "artists": [
-        {
-          "name": "Denzel Chain",
-          "url": "https://open.spotify.com/artist/1OcgVkMH2tgrwIjhrsCqT0"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "Can't Take You Home",
-      "url": "https://open.spotify.com/track/2ghd71Bobpq07hQ7PU9AB4"
-    },
-    {
-      "added_at": "2026-07-17 14:00:08",
-      "album": {
         "name": "Where Do We Go From Here",
         "url": "https://open.spotify.com/album/2AfiQt1k6KTVtrWKgLHWYH"
       },
@@ -3263,6 +3247,22 @@
     {
       "added_at": "2026-07-17 14:00:08",
       "album": {
+        "name": "Can't Take You Home",
+        "url": "https://open.spotify.com/album/7ircwf7LABt7ds3vhYbgO4"
+      },
+      "artists": [
+        {
+          "name": "Denzel Chain",
+          "url": "https://open.spotify.com/artist/1OcgVkMH2tgrwIjhrsCqT0"
+        }
+      ],
+      "duration_ms": 181935,
+      "name": "Can't Take You Home",
+      "url": "https://open.spotify.com/track/2ghd71Bobpq07hQ7PU9AB4"
+    },
+    {
+      "added_at": "2026-07-17 14:00:08",
+      "album": {
         "name": "Pennies From Heaven",
         "url": "https://open.spotify.com/album/0FJpIBzbo2EQGGCqUFQMx2"
       },
@@ -3275,6 +3275,22 @@
       "duration_ms": 255000,
       "name": "Pennies From Heaven",
       "url": "https://open.spotify.com/track/3lctgxC0qiFwW20NCQn8Oe"
+    },
+    {
+      "added_at": "2026-07-17 14:00:08",
+      "album": {
+        "name": "Beauty Is A Mess",
+        "url": "https://open.spotify.com/album/56G0aPRr7G9paEbEGFlola"
+      },
+      "artists": [
+        {
+          "name": "Haris",
+          "url": "https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki"
+        }
+      ],
+      "duration_ms": 184360,
+      "name": "Fall Apart",
+      "url": "https://open.spotify.com/track/31iIDD0Np4zBqnk5xVXSgf"
     },
     {
       "added_at": "2026-07-17 14:00:08",
@@ -3311,18 +3327,18 @@
     {
       "added_at": "2026-07-17 14:00:08",
       "album": {
-        "name": "Beauty Is A Mess",
-        "url": "https://open.spotify.com/album/56G0aPRr7G9paEbEGFlola"
+        "name": "I Don't Deserve It",
+        "url": "https://open.spotify.com/album/1DHgLR9HwTeITN8oNL96Q8"
       },
       "artists": [
         {
-          "name": "Haris",
-          "url": "https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki"
+          "name": "Ruben Hein",
+          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
         }
       ],
-      "duration_ms": 184360,
-      "name": "Fall Apart",
-      "url": "https://open.spotify.com/track/31iIDD0Np4zBqnk5xVXSgf"
+      "duration_ms": 226198,
+      "name": "I Don't Deserve It",
+      "url": "https://open.spotify.com/track/0aA8UQmAlCSLXj8tm8iDKb"
     },
     {
       "added_at": "2026-07-17 14:00:08",
@@ -3339,22 +3355,6 @@
       "duration_ms": 180859,
       "name": "DON.T - Acoustic",
       "url": "https://open.spotify.com/track/0QPLRjYAirGsBwWGXDAh1i"
-    },
-    {
-      "added_at": "2026-07-17 14:00:08",
-      "album": {
-        "name": "I Don't Deserve It",
-        "url": "https://open.spotify.com/album/1DHgLR9HwTeITN8oNL96Q8"
-      },
-      "artists": [
-        {
-          "name": "Ruben Hein",
-          "url": "https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS"
-        }
-      ],
-      "duration_ms": 226198,
-      "name": "I Don't Deserve It",
-      "url": "https://open.spotify.com/track/0aA8UQmAlCSLXj8tm8iDKb"
     },
     {
       "added_at": "2026-07-17 14:00:08",
@@ -3471,22 +3471,6 @@
     {
       "added_at": "2026-07-17 14:00:08",
       "album": {
-        "name": "Lay Your Weapons Down (Acoustic)",
-        "url": "https://open.spotify.com/album/71nqwuPOUHmVNcrjjkRx9m"
-      },
-      "artists": [
-        {
-          "name": "Ilse DeLange",
-          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
-        }
-      ],
-      "duration_ms": 205108,
-      "name": "Lay Your Weapons Down - Acoustic",
-      "url": "https://open.spotify.com/track/4b2kDKZCGdWEVrWTwC4uUv"
-    },
-    {
-      "added_at": "2026-07-17 14:00:08",
-      "album": {
         "name": "Ghost Of Me",
         "url": "https://open.spotify.com/album/4N4vgV1soaj7LbakmNfwvB"
       },
@@ -3499,6 +3483,22 @@
       "duration_ms": 184390,
       "name": "Ghost Of Me",
       "url": "https://open.spotify.com/track/2xmsvPkZ67YgQ4p2ABrnzT"
+    },
+    {
+      "added_at": "2026-07-17 14:00:08",
+      "album": {
+        "name": "Lay Your Weapons Down (Acoustic)",
+        "url": "https://open.spotify.com/album/71nqwuPOUHmVNcrjjkRx9m"
+      },
+      "artists": [
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+        }
+      ],
+      "duration_ms": 205108,
+      "name": "Lay Your Weapons Down - Acoustic",
+      "url": "https://open.spotify.com/track/4b2kDKZCGdWEVrWTwC4uUv"
     },
     {
       "added_at": "2026-07-17 14:00:08",
@@ -3519,22 +3519,6 @@
     {
       "added_at": "2026-07-17 14:00:08",
       "album": {
-        "name": "so i let you (15th of june - evening)",
-        "url": "https://open.spotify.com/album/6H7NrgGon7JOhxetGKAf4h"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 199401,
-      "name": "so i let you (15th of june - evening)",
-      "url": "https://open.spotify.com/track/5nzBuGyaWp25j5Ioy82PHL"
-    },
-    {
-      "added_at": "2026-07-17 14:00:08",
-      "album": {
         "name": "Till The River Runs Dry",
         "url": "https://open.spotify.com/album/429yX7wyM4aDx5PDsEiLYZ"
       },
@@ -3547,6 +3531,22 @@
       "duration_ms": 168000,
       "name": "Till The River Runs Dry",
       "url": "https://open.spotify.com/track/1LRm0dAdk7IEuQDXDs9pIG"
+    },
+    {
+      "added_at": "2026-07-17 14:00:08",
+      "album": {
+        "name": "so i let you (15th of june - evening)",
+        "url": "https://open.spotify.com/album/6H7NrgGon7JOhxetGKAf4h"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 199401,
+      "name": "so i let you (15th of june - evening)",
+      "url": "https://open.spotify.com/track/5nzBuGyaWp25j5Ioy82PHL"
     },
     {
       "added_at": "2026-07-17 14:00:08",
@@ -3599,22 +3599,6 @@
     {
       "added_at": "2026-07-17 14:00:08",
       "album": {
-        "name": "Bobbie's Song",
-        "url": "https://open.spotify.com/album/6canaf9tWSYr7bhrCzQemP"
-      },
-      "artists": [
-        {
-          "name": "Dion Cooper",
-          "url": "https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj"
-        }
-      ],
-      "duration_ms": 145017,
-      "name": "Bobbie's Song",
-      "url": "https://open.spotify.com/track/07DydynEAQfvBrOOIuHNcz"
-    },
-    {
-      "added_at": "2026-07-17 14:00:08",
-      "album": {
         "name": "FRIENDS IN DENVER",
         "url": "https://open.spotify.com/album/6sDqMla3CKnloHyQZ0a8Do"
       },
@@ -3631,18 +3615,18 @@
     {
       "added_at": "2026-07-17 14:00:08",
       "album": {
-        "name": "How To Stop It",
-        "url": "https://open.spotify.com/album/1x880PZgDNpeG3M67BmCpX"
+        "name": "Bobbie's Song",
+        "url": "https://open.spotify.com/album/6canaf9tWSYr7bhrCzQemP"
       },
       "artists": [
         {
-          "name": "Janieck",
-          "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
+          "name": "Dion Cooper",
+          "url": "https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj"
         }
       ],
-      "duration_ms": 164117,
-      "name": "How To Stop It",
-      "url": "https://open.spotify.com/track/1C1zYsvtEw9nROGnQL40wh"
+      "duration_ms": 145017,
+      "name": "Bobbie's Song",
+      "url": "https://open.spotify.com/track/07DydynEAQfvBrOOIuHNcz"
     },
     {
       "added_at": "2026-07-17 14:00:08",
@@ -3659,6 +3643,22 @@
       "duration_ms": 223792,
       "name": "Beach House - Acoustic",
       "url": "https://open.spotify.com/track/3glDKUTH8sQ1Cwlh0OY1OC"
+    },
+    {
+      "added_at": "2026-07-17 14:00:08",
+      "album": {
+        "name": "How To Stop It",
+        "url": "https://open.spotify.com/album/1x880PZgDNpeG3M67BmCpX"
+      },
+      "artists": [
+        {
+          "name": "Janieck",
+          "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
+        }
+      ],
+      "duration_ms": 164117,
+      "name": "How To Stop It",
+      "url": "https://open.spotify.com/track/1C1zYsvtEw9nROGnQL40wh"
     },
     {
       "added_at": "2026-07-17 14:00:08",

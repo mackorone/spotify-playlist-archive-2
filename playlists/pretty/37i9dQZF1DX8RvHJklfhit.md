@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 
 > Your favorite Latin Indie classics\. Cover: Mon Laferte
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,711 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,756 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 27 | [Fuimos Amor](https://open.spotify.com/track/6wkPUUWrRhBUFAqC5UCcG4) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 4:09 |
 | 28 | [Brillo Mio](https://open.spotify.com/track/7eCDfoEl8UGeWqcpRO5lgz) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bálsamo](https://open.spotify.com/album/7av9VVRYT6rgVRshaVDEPQ) | 3:16 |
 | 29 | [Yours](https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yours](https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9) | 3:40 |
-| 30 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
-| 31 | [Bailar Contigo](https://open.spotify.com/track/4hi9OTFKomNUlAIhp1fmap) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:38 |
+| 30 | [Bailar Contigo](https://open.spotify.com/track/4hi9OTFKomNUlAIhp1fmap) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 3:38 |
+| 31 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
 | 32 | [¿Qué Tiene?](https://open.spotify.com/track/1n39WXv58zOCFVLnGlVJNg) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 2:57 |
 | 33 | [Quiero Que Me Llames](https://open.spotify.com/track/7jcXQXxo0lvpwg2twqJpqc) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Cabildo y Juramento](https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn) | 4:18 |
 | 34 | [Palmar](https://open.spotify.com/track/1INtYY3PE2RP7NrhHOsBaz) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Fruta \(Vol\. II\)](https://open.spotify.com/album/1CKiIYZCELUISFQOsKt2DP) | 3:13 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 39 | [Agüitaecoco](https://open.spotify.com/track/2uKYlHL8AVryiFPeQLQQLR) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs) | 3:19 |
 | 40 | [Un Bossa +](https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Un Bossa +](https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o) | 1:26 |
 | 41 | [Vienen A Verme \(From "El Chapo" Soundtrack\) \- Theme from "El Chapo"](https://open.spotify.com/track/1VIi0H6f7MwjMjormmGTEi) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [El Chapo \(Original Television Soundtrack\)](https://open.spotify.com/album/7GHA2839oq3I7avhBdwSV6) | 3:20 |
-| 42 | [Cycles of Existential Rhyme](https://open.spotify.com/track/6rpi77GqamZNoltbZ5ksdi) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Cycles of Existential Rhyme](https://open.spotify.com/album/5Jm8y8nnjMIUrsxZ6KjFe3) | 4:15 |
-| 43 | [Acicálame](https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Correspondencia](https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa) | 3:22 |
+| 42 | [Acicálame](https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Correspondencia](https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa) | 3:22 |
+| 43 | [Cycles of Existential Rhyme](https://open.spotify.com/track/6rpi77GqamZNoltbZ5ksdi) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Cycles of Existential Rhyme](https://open.spotify.com/album/5Jm8y8nnjMIUrsxZ6KjFe3) | 4:15 |
 | 44 | [Baila](https://open.spotify.com/track/0kIPoNlimbRPn16NfQ7ggt) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:42 |
 | 45 | [Ciclo](https://open.spotify.com/track/131pRjxiSb3iaZavjVutiQ) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs) | 2:52 |
 | 46 | [Ta Que Tiembla](https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Regresa](https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp) | 2:48 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 68 | [La Vida Mejor](https://open.spotify.com/track/4dkjZa9RAkz1RKZAAxQnUD) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Será](https://open.spotify.com/album/3pmsaPjaLVhM7In7eZKEre) | 4:17 |
 | 69 | [Play Your Game](https://open.spotify.com/track/24mEoCYvDhCaM3ovAFefY0) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [La Santa Cecilia](https://open.spotify.com/album/2t2xn54ccuUkLdCHg7OgXo) | 3:03 |
 | 70 | [Shining in the Dark](https://open.spotify.com/track/7sfvCOHJZfFKN5wOlSrvKc) | [Cienfue](https://open.spotify.com/artist/0hPQfsafhd7umQTz29DCiT) | [Shining in the Dark](https://open.spotify.com/album/0CEE0SoxO27KEQL88m0PS6) | 4:20 |
-| 71 | [Si Tú Estás Bien](https://open.spotify.com/track/11PYNHm1VmLN1w6N7AdWyV) | [Tita](https://open.spotify.com/artist/5VUc3B1hoBWWwodjRD8JHp) | [Si Tú Estás Bien](https://open.spotify.com/album/1rNRGzcojz5SXlmCLCDJSa) | 4:23 |
-| 72 | [Lejos \(feat\. Coco Santos\)](https://open.spotify.com/track/672t21hOO34Xvv6oMLvzPN) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Coco Santos](https://open.spotify.com/artist/1RE9sQKBfhkaeNVSJ0q6Sg) | [Adiós](https://open.spotify.com/album/0Q387CN0LUiJentAMwkSLA) | 2:46 |
+| 71 | [Lejos \(feat\. Coco Santos\)](https://open.spotify.com/track/672t21hOO34Xvv6oMLvzPN) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Coco Santos](https://open.spotify.com/artist/1RE9sQKBfhkaeNVSJ0q6Sg) | [Adiós](https://open.spotify.com/album/0Q387CN0LUiJentAMwkSLA) | 2:46 |
+| 72 | [Si Tú Estás Bien](https://open.spotify.com/track/11PYNHm1VmLN1w6N7AdWyV) | [Tita](https://open.spotify.com/artist/5VUc3B1hoBWWwodjRD8JHp) | [Si Tú Estás Bien](https://open.spotify.com/album/1rNRGzcojz5SXlmCLCDJSa) | 4:23 |
 | 73 | [Drooling](https://open.spotify.com/track/4vqpYgp1FrpyeGleZ1ljhQ) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Drooling](https://open.spotify.com/album/61OtLPiuJrgdCM2pYlqVzu) | 3:39 |
 | 74 | [The Feel](https://open.spotify.com/track/3ibKHCLcR8yChARBe32WKy) | [Las Robertas](https://open.spotify.com/artist/6tUZG2qdEyTuJDkTM7WCGp) | [The Feel](https://open.spotify.com/album/2hT9ig4B0tTVDvuyQAKZvJ) | 3:00 |
 | 75 | [Colors](https://open.spotify.com/track/4S86HrFNj1b7vL0oY4QGao) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Canta](https://open.spotify.com/album/3RoPVCstBakWHHls5HEoKp) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 99 | [Grecia](https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Grecia](https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S) | 3:20 |
 | 100 | [1977](https://open.spotify.com/track/6DEfT3ck2WORjZJn6Xyt39) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [1977](https://open.spotify.com/album/57jzsyG5Huh4Jrb0rkDu5S) | 3:24 |
 
-Snapshot ID: `AAAAAA/9kPWo4IKLtTZQuUbO/dncTEc/`
+Snapshot ID: `AAAAAPb4652l2PP3rz6MggRj3R275ycW`

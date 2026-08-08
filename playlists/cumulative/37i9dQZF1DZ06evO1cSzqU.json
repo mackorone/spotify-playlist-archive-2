@@ -52,10 +52,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 297733,
       "name": "Always Somewhere",
       "url": "https://open.spotify.com/track/6Ok4D4w117mSi9OP8tmrpg"
+    },
+    {
+      "album": {
+        "name": "Lovedrive",
+        "url": "https://open.spotify.com/album/3Kd2XJF2ObCCLEhWOYMBHt"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297520,
+      "name": "Always Somewhere (2015 - Remaster)",
+      "url": "https://open.spotify.com/track/6RG9WyeGTkM1xwI2gzUhbH"
     },
     {
       "album": {
@@ -1654,7 +1672,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-04",
+      "date_removed": null,
       "duration_ms": 230226,
       "name": "When The Smoke Is Going Down",
       "url": "https://open.spotify.com/track/1Cc1kD0xeMXZpdUinsH1mP"
@@ -1672,7 +1690,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 231986,
       "name": "When the Smoke Is Going Down - 2015 - Remaster",
       "url": "https://open.spotify.com/track/4USzbSnPuhnR0b2CUiHwyF"

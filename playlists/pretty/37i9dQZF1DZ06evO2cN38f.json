@@ -1,12 +1,12 @@
 {
   "description": "This is Rochelle Jordan. The essential tracks, all in one playlist.",
-  "num_followers": 1676,
+  "num_followers": 1678,
   "original_name": "This Is Rochelle Jordan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAADM22heMbjt+AaxEVeBT9ip",
+  "snapshot_id": "anPOgAAAAAAeIpdqagdy7xzG4d2BDef6",
   "tracks": [
     {
       "added_at": null,
@@ -187,42 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What You Done",
-        "url": "https://open.spotify.com/album/7n1VuZeAEIHwTSFDGlr7vF"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        },
-        {
-          "name": "Keys N Krates",
-          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
-        }
-      ],
-      "duration_ms": 174048,
-      "name": "What You Done",
-      "url": "https://open.spotify.com/track/6IlUok8RCbK7IxNWurTv8p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Through The Wall",
-        "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 223921,
-      "name": "Ladida",
-      "url": "https://open.spotify.com/track/53v5RuuAux3F8anCHDNwXI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Nightlife",
         "url": "https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x"
       },
@@ -243,6 +207,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Through The Wall",
+        "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 223921,
+      "name": "Ladida",
+      "url": "https://open.spotify.com/track/53v5RuuAux3F8anCHDNwXI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What You Done",
+        "url": "https://open.spotify.com/album/7n1VuZeAEIHwTSFDGlr7vF"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        },
+        {
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+        }
+      ],
+      "duration_ms": 174048,
+      "name": "What You Done",
+      "url": "https://open.spotify.com/track/6IlUok8RCbK7IxNWurTv8p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Play With The Changes",
         "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
       },
@@ -255,38 +255,6 @@
       "duration_ms": 233422,
       "name": "Love You Good",
       "url": "https://open.spotify.com/track/78UZHyUlhP71OhATPMFqZo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Origins",
-        "url": "https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 221153,
-      "name": "Feel the Same Way",
-      "url": "https://open.spotify.com/track/41maLNLFSpT2bJDLkZlpSU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Through The Wall",
-        "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 246095,
-      "name": "Bite The Bait",
-      "url": "https://open.spotify.com/track/6pcXJ39XevPFNqXuUDClsf"
     },
     {
       "added_at": null,
@@ -307,6 +275,38 @@
       "duration_ms": 197216,
       "name": "Private Eye",
       "url": "https://open.spotify.com/track/3p9hpCzQhH2oz8KO9fZyhD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Through The Wall",
+        "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 246095,
+      "name": "Bite The Bait",
+      "url": "https://open.spotify.com/track/6pcXJ39XevPFNqXuUDClsf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Origins",
+        "url": "https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 221153,
+      "name": "Feel the Same Way",
+      "url": "https://open.spotify.com/track/41maLNLFSpT2bJDLkZlpSU"
     },
     {
       "added_at": null,

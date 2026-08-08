@@ -4,7 +4,7 @@
 
 > This is Los Cadetes De Linares\. The essential tracks, all in one playlist.
 
-126 songs - 6 hr 9 min
+127 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [Una Flor Para Mi Madre](https://open.spotify.com/track/4X1i2059LF9nzr6ojOQJ8U) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Homenaje A Las Madres](https://open.spotify.com/album/5wMmOWgWRTOyexSe2LvAEl) | 2:23 | 2024-07-15 |  |
 | [Una Lagrima y Un Recuerdo](https://open.spotify.com/track/32wLxgQY6227VTkhZQaBor) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 2:49 | 2022-06-01 | 2026-07-11 |
 | [Una Lágrima y Un Recuerdo](https://open.spotify.com/track/1MeNluJL3QMoCuyaMUIpww) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Una Lágrima y Un Recuerdo](https://open.spotify.com/album/4sVexY8ZoDmnqZEDo2yVl3) | 2:47 | 2026-07-11 |  |
-| [Una Pagina Mas](https://open.spotify.com/track/0PaJt0W8xP4VpnVBMWvOvI) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 2:39 | 2022-06-01 |  |
+| [Una Pagina Mas](https://open.spotify.com/track/0PaJt0W8xP4VpnVBMWvOvI) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 2:39 | 2022-06-01 | 2026-08-08 |
+| [Una Página Más](https://open.spotify.com/track/1cCJjLOxsy1qrKfAVF7rM3) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Los Auténticos](https://open.spotify.com/album/5thl5PvQuIr1UIF1q8HEwo) | 2:41 | 2026-08-08 |  |
 | [Ven a Buscarme](https://open.spotify.com/track/366vc0v9AUlaaptDDst1xn) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [El Chubasco](https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1) | 2:20 | 2022-06-01 | 2026-07-22 |
 | [Vivo Preso](https://open.spotify.com/track/5GvG3KhHyz0VsqCCjh3Iny) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:35 | 2022-07-10 | 2022-09-21 |
 

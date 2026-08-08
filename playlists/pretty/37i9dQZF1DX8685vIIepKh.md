@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 
 > La playlist survitaminée !
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,745 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,850 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 | 22 | [Rude Boy](https://open.spotify.com/track/60jzFy6Nn4M0iD1d94oteF) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Rated R](https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2) | 3:42 |
 | 23 | [Hot N Cold](https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ) | 3:40 |
 | 24 | [Mr\. Saxobeat \- Radio Edit](https://open.spotify.com/track/3LWDPEXEaLBRGNLbdcbwBR) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Saxobeats](https://open.spotify.com/album/5K3ZT6CPpaPXanq1lKyRuL) | 3:15 |
-| 25 | [Daddy Yankee: Bzrp Music Sessions, Vol\. 0/66](https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Daddy Yankee: Bzrp Music Sessions, Vol\. 0/66](https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t) | 2:31 |
+| 25 | [Destination Calabria \- Radio Edit](https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Destination Calabria](https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8) | 3:43 |
 | 26 | [How Deep Is Your Love](https://open.spotify.com/track/4slBllHFZYlpg3IjeX5CBl) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [96 Months](https://open.spotify.com/album/1CfqWSAyfmYzHU9ktHxUqd) | 3:32 |
-| 27 | [Destination Calabria \- Radio Edit](https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Destination Calabria](https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8) | 3:43 |
+| 27 | [Daddy Yankee: Bzrp Music Sessions, Vol\. 0/66](https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Daddy Yankee: Bzrp Music Sessions, Vol\. 0/66](https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t) | 2:31 |
 | 28 | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 3:37 |
 | 29 | [Turn The Lights Off \- Radio Edit](https://open.spotify.com/track/7apywiCuMzvSZIa0SKeH99) | [Kato](https://open.spotify.com/artist/1udruffum7CorOphFUMB9A), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [Turn The Lights Off](https://open.spotify.com/album/4Xo7jcwuvnxDQoYq9N1yA6) | 2:58 |
 | 30 | [SPA](https://open.spotify.com/track/5UpupDvr2w93ccnEmmhS5q) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [SPA](https://open.spotify.com/album/7DthnLIimaB9bJH6ABmbvd) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 | 49 | [Azizam](https://open.spotify.com/track/5AJnWnJ8A1x9fyVoXdOGmC) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/54GTNKRi7egKeaLHNwtKWd) | 3:29 |
 | 50 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G) | 2:36 |
 
-Snapshot ID: `AAAAAFUg2I5H8c/e0CqfXBb0DxKNa93z`
+Snapshot ID: `AAAAAMDcX9kzEolRESwyowPBVKnG1BrA`

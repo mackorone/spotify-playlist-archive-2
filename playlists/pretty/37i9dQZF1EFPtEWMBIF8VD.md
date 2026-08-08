@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPtEWMBIF8VD.md) - [plain]
 | 19 | [SOMETHING MORE](https://open.spotify.com/track/1QD5FRoUo6gcxAzq7bg2ae) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [SOMETHING MORE](https://open.spotify.com/album/5QRERCg5VMNxhV2V2OISah) | 2:43 |
 | 20 | [The Chase](https://open.spotify.com/track/6GAX5G5kNxvCfOkkBWl6Gn) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [333](https://open.spotify.com/album/7zP5gW9QuwC9nKTIPk2CjD) | 3:11 |
 | 21 | [No Audience](https://open.spotify.com/track/4neKoZZ53RPyeUyKqH8WSm) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/7oxvUjBnPYJAuBFMrTwNTw) | 2:48 |
-| 22 | [In My Bag](https://open.spotify.com/track/5piuDkdLw3VUtRZi33hidn) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [IRL \(Deluxe\)](https://open.spotify.com/album/76G7P45A56sBfsNXj2yZyD) | 3:49 |
-| 23 | [OMG](https://open.spotify.com/track/29Jeg15T0emRfj4AXBbcvu) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb) | 2:13 |
+| 22 | [OMG](https://open.spotify.com/track/29Jeg15T0emRfj4AXBbcvu) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb) | 2:13 |
+| 23 | [In My Bag](https://open.spotify.com/track/5piuDkdLw3VUtRZi33hidn) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [IRL \(Deluxe\)](https://open.spotify.com/album/76G7P45A56sBfsNXj2yZyD) | 3:49 |
 | 24 | [On + On \(with Justine Skye\)](https://open.spotify.com/track/157TL0eU2bppVrCKnll6zR) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Breathwork](https://open.spotify.com/album/72GuMt9GOvytS3yxco7qQ0) | 2:49 |
 | 25 | [Little Bit Of Fun \(feat\. Anne\-Marie\)](https://open.spotify.com/track/685UR8iHr3uxUlWHHszzuy) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [All Over The Place \(Deluxe\)](https://open.spotify.com/album/1abtkG6wRFf0S2dg2XmgTe) | 2:38 |
 | 26 | [333](https://open.spotify.com/track/0phc7JQXWEFd49VE0M81oR) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [333](https://open.spotify.com/album/7zP5gW9QuwC9nKTIPk2CjD) | 3:01 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPtEWMBIF8VD.md) - [plain]
 | 54 | [Evolution](https://open.spotify.com/track/4CYY2tnLIZbULH7338WKk0) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [Evolution](https://open.spotify.com/album/6wFWz9PjdvA0V6JSiyVDAe) | 3:15 |
 | 55 | [Are you even real](https://open.spotify.com/track/4VpHBRvZAbqTLNcQDN8yyD) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Babies Go Teddy Swims](https://open.spotify.com/album/192QslwmJb0HL7Pr1Cztsp) | 2:26 |
 
-Snapshot ID: `AcY4yAAAAAAJpVsZ5zsh6HipgHKov6Dj`
+Snapshot ID: `AcY+SgAAAACluAQ7/wLrfdGYrJ72HApw`

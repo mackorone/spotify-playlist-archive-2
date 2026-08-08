@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 
 > Le meilleur des années 80 en 80 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 857,960 likes - 80 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 857,967 likes - 80 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 | 26 | [Voyage voyage](https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c) | [Desireless](https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2) | [François](https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q) | 4:26 |
 | 27 | [Need You Tonight](https://open.spotify.com/track/3h04eZTnmFLRMjZajbrp2R) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick \(Remastered 2011\)](https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu) | 3:01 |
 | 28 | [Video Killed The Radio Star](https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX) | [The Buggles](https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal) | [The Age Of Plastic](https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ) | 4:12 |
-| 29 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 3:34 |
-| 30 | [Relax \(Come Fighting\)](https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Welcome To The Pleasuredome](https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m) | 3:56 |
+| 29 | [Relax \(Come Fighting\)](https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [Welcome To The Pleasuredome](https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m) | 3:56 |
+| 30 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 3:34 |
 | 31 | [La Bamba](https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [La Bamba / Charlena](https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ) | 2:54 |
 | 32 | [Purple Rain \- 7" Single Edit; 2017 Remaster](https://open.spotify.com/track/3FnP3j1TyiTwbJb5AR2ynT) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain \(Deluxe Expanded Edition\)](https://open.spotify.com/album/12DmuRtZNTx84ELHKD3VGL) | 4:05 |
 | 33 | [Conga!](https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F), [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Primitive Love](https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M) | 4:14 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 | 61 | [Ella, elle l'a](https://open.spotify.com/track/3XM3TD08DSAzl84yasWP1x) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Évidemment](https://open.spotify.com/album/4zvdx4wNv0IZiQmVKIODRN) | 4:51 |
 | 62 | [You Got It](https://open.spotify.com/track/0RteYQqW1AOq3JNL0yMWYt) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [The Essential Roy Orbison](https://open.spotify.com/album/48CvRZSBT0FbOHKLFfHy0n) | 3:31 |
 | 63 | [Au bout de mes rêves](https://open.spotify.com/track/6QSwxzWUeF0w4N7qRxonbb) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [Quand la musique est bonne](https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ) | 3:54 |
-| 64 | [Ça \(c'est vraiment toi\) \- Remasterisé en 2015](https://open.spotify.com/track/7p5Na4GvFzP6M7i1ti2YRJ) | [Téléphone](https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK) | [Dure limite \(Remasterisé en 2015\)](https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf) | 4:28 |
-| 65 | [Macumba](https://open.spotify.com/track/6tgOsCso6nMCRg5EtgixZ2) | [Jean\-Pierre Mader](https://open.spotify.com/artist/0d7c7amZ8BhgmJ55z7foVI) | [Macumba](https://open.spotify.com/album/3eCBdjnw41nMqz89Kno8H8) | 3:39 |
+| 64 | [Macumba](https://open.spotify.com/track/6tgOsCso6nMCRg5EtgixZ2) | [Jean\-Pierre Mader](https://open.spotify.com/artist/0d7c7amZ8BhgmJ55z7foVI) | [Macumba](https://open.spotify.com/album/3eCBdjnw41nMqz89Kno8H8) | 3:39 |
+| 65 | [Ça \(c'est vraiment toi\) \- Remasterisé en 2015](https://open.spotify.com/track/7p5Na4GvFzP6M7i1ti2YRJ) | [Téléphone](https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK) | [Dure limite \(Remasterisé en 2015\)](https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf) | 4:28 |
 | 66 | [Le coup de folie](https://open.spotify.com/track/7nWMVmzfodNQ5Ezj29yJ3S) | [Thierry Pastor](https://open.spotify.com/artist/2pwVe1rARBwb9VVjcL8XpH) | [Le coup de folie](https://open.spotify.com/album/1PzNZnVIDlvl4GDtCb6E3K) | 3:37 |
 | 67 | [Girls Just Want to Have Fun](https://open.spotify.com/track/459EpH5UZgE6fMNPMLOgMF) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [True Colors: The Best Of Cyndi Lauper](https://open.spotify.com/album/3ob0XVPoKBjrOjg0mf3zN3) | 3:56 |
 | 68 | [Last Night a D.J\. Saved My Life](https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X) | [Indeep](https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h) | [The Collection](https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1) | 5:41 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl7MndYYxge.md) - [plain]
 | 79 | [Lessons In Love](https://open.spotify.com/track/4Y51P1v7Lgbfgx1sahHJAW) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [Running In The Family \(Deluxe Edition\)](https://open.spotify.com/album/1IzEAfHmMeUiX3X5ertSdL) | 4:06 |
 | 80 | [Harden My Heart](https://open.spotify.com/track/0qa47H0UtlOFq9TLSVrv9R) | [Quarterflash](https://open.spotify.com/artist/3VJakY5Yw5phAOF4Bada5v) | [MacGruber](https://open.spotify.com/album/0ZacOBwzregRuuOf6Bn7Zp) | 3:52 |
 
-Snapshot ID: `AAAAAN0H1V6/ERbQs6IfnIKX5qHdwJEl`
+Snapshot ID: `AAAAAGeINQQcwycCm0Mc+Q8YRFBCOX5m`

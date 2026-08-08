@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,351 likes - 150 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,421 likes - 150 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 21 | [I Wanna Get Next To You](https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [Car Wash](https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz) | 3:58 |
 | 22 | [Baby, I'm Yours](https://open.spotify.com/track/6ldnKaF2UYpOtmpOAOwlQe) | [Barbara Lewis](https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq) | [Baby, I'm Yours](https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN) | 2:28 |
 | 23 | [Gimme Little Sign](https://open.spotify.com/track/1h4XVjt26ZCDKmeEoHxT07) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Oogum Boogum](https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf) | 2:21 |
-| 24 | [Suavecito](https://open.spotify.com/track/5QoFWpXoaUyT44VmR98wLl) | [Malo](https://open.spotify.com/artist/2vmTJisPQCD5ThbxbFehAB) | [Malo](https://open.spotify.com/album/0idohj8jELOTtI3sUdGWUo) | 6:35 |
-| 25 | [Yes, I'm Ready](https://open.spotify.com/track/2gZpW5pTZkimGG98loFSl2) | [Barbara Mason](https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ) | [Yes I'm Ready](https://open.spotify.com/album/7ujKaJ1E5N76H4y9hyhTdj) | 3:04 |
+| 24 | [Yes, I'm Ready](https://open.spotify.com/track/2gZpW5pTZkimGG98loFSl2) | [Barbara Mason](https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ) | [Yes I'm Ready](https://open.spotify.com/album/7ujKaJ1E5N76H4y9hyhTdj) | 3:04 |
+| 25 | [Suavecito](https://open.spotify.com/track/5QoFWpXoaUyT44VmR98wLl) | [Malo](https://open.spotify.com/artist/2vmTJisPQCD5ThbxbFehAB) | [Malo](https://open.spotify.com/album/0idohj8jELOTtI3sUdGWUo) | 6:35 |
 | 26 | [Whatcha See Is Whatcha Get](https://open.spotify.com/track/5lYpHO6ZO4Shys3GD8rav6) | [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [The Very Best Of The Dramatics](https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7) | 3:34 |
 | 27 | [Try Me](https://open.spotify.com/track/44AgaeLQCnvk3PPHIaDeDk) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 2:31 |
 | 28 | [Natural High](https://open.spotify.com/track/7aKrysuyZvDnU3JwnlO3dd) | [Bloodstone](https://open.spotify.com/artist/7z1zaOeWiHpl4SD2N9ZBgk) | [Natural High](https://open.spotify.com/album/4kjf1C8Xpqr2e7pTDwblG2) | 4:00 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 33 | [Baby You Got It](https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Baby You Got It](https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N) | 2:08 |
 | 34 | [Always and Forever](https://open.spotify.com/track/3w0pyHgJJW9JN0cJxmi33Z) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Too Hot to Handle \(Expanded Edition\)](https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8) | 6:17 |
 | 35 | [I'm Your Puppet](https://open.spotify.com/track/5z71EfouOWMI4HHZHEjnkr) | [James & Bobby Purify](https://open.spotify.com/artist/1qO2mRQM4zbksO586oM0W7) | [James & Bobby Purify](https://open.spotify.com/album/7B9SrtNRzt2yyxww4URgMK) | 3:01 |
-| 36 | [Love...Can Be So Wonderful](https://open.spotify.com/track/2lRD5UGnUCaon5g5cHbkCC) | [The Temprees](https://open.spotify.com/artist/3RTmjg2aicwP3HFZP760BU) | [The Best Of The Temprees](https://open.spotify.com/album/2TZV6MtoBCNoZnOhcEG1FG) | 4:21 |
-| 37 | [The Agony And The Ecstasy](https://open.spotify.com/track/5tJtbMylDCdtsQf4R02qer) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [A Quiet Storm](https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ) | 4:49 |
+| 36 | [The Agony And The Ecstasy](https://open.spotify.com/track/5tJtbMylDCdtsQf4R02qer) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [A Quiet Storm](https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ) | 4:49 |
+| 37 | [Love...Can Be So Wonderful](https://open.spotify.com/track/2lRD5UGnUCaon5g5cHbkCC) | [The Temprees](https://open.spotify.com/artist/3RTmjg2aicwP3HFZP760BU) | [The Best Of The Temprees](https://open.spotify.com/album/2TZV6MtoBCNoZnOhcEG1FG) | 4:21 |
 | 38 | [Float On \- Single Version](https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR) | [The Floaters](https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS) | [The ABC's Of Soul, Vol\. 3 \(Classics From The ABC Records Catalog 1975\-1979\)](https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n) | 4:15 |
 | 39 | [I Want to Be Your Man](https://open.spotify.com/track/3C6xVHlZ8Z7cAzt63xdxH3) | [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 4:09 |
 | 40 | [Thin Line Between Love and Hate](https://open.spotify.com/track/6uDRZi9MOTtkuNUHMfREib) | [The Persuaders](https://open.spotify.com/artist/6PhJqhvF42CZ42NUmxIKLB) | [Thin Line Between Love & Hate: Golden Classics](https://open.spotify.com/album/7HjAR4jDMTMfq82XLngp98) | 3:27 |
@@ -136,15 +136,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 126 | [Reasons](https://open.spotify.com/track/55xs0ctzl8u3OY9KLmnyu2) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Greatest Hits](https://open.spotify.com/album/339IjdizH8YIpwOUbUWGjl) | 4:58 |
 | 127 | [Always and Forever \- Edit](https://open.spotify.com/track/0fKDnkXdfJwk0DEW9W83VY) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Heatwave's Greatest Hits](https://open.spotify.com/album/3eZkKm4IbRjyHqbdLm7qDr) | 4:47 |
 | 128 | [One Summer Night](https://open.spotify.com/track/5GEsOz5Pbln0j2RcmBGLa4) | [The Danleers](https://open.spotify.com/artist/1W0oUYvRe6jjI2SuaiigFv) | [Presenting The Danleers](https://open.spotify.com/album/2wkPlFZWjudOYq89zuFX9R) | 2:13 |
-| 129 | [Nobody's Clown](https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV) | [Los Yesterdays](https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq) | [Nobody's Clown](https://open.spotify.com/album/7mrdqSpq1zbwIFRUWosuFQ) | 3:29 |
-| 130 | [I Love You for All Seasons](https://open.spotify.com/track/03DQO1cC5RzTWRxJLzJCgy) | [The Fuzz](https://open.spotify.com/artist/052NpRSiz4SQTsFnvwMP6t) | [Sisters of Soul; the Sweeter Voices of Soul](https://open.spotify.com/album/6VRBMd2t0mc6Kmsc0Cw86l) | 3:04 |
-| 131 | [La Vida Es Fría](https://open.spotify.com/track/4r3XQQZyf8p30M8fFkZJDa) | [Jason Joshua](https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn) | [La Vida Es Fría](https://open.spotify.com/album/6DdM7MRFC9G9BAGANWKQvp) | 3:22 |
-| 132 | [Seems Like](https://open.spotify.com/track/6766HkoEEO355KEzrJNU2T) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS) | [Seems Like](https://open.spotify.com/album/3IaDaFiGolUI09rcE8q5m8) | 3:14 |
-| 133 | [Dedicated To The One I Love](https://open.spotify.com/track/36f5xtZ2CXIc1WOirnnD3j) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Tonight's The Night](https://open.spotify.com/album/6mWE1yQJVHa6JnDCLjz1Mk) | 2:00 |
+| 129 | [I Love You for All Seasons](https://open.spotify.com/track/03DQO1cC5RzTWRxJLzJCgy) | [The Fuzz](https://open.spotify.com/artist/052NpRSiz4SQTsFnvwMP6t) | [Sisters of Soul; the Sweeter Voices of Soul](https://open.spotify.com/album/6VRBMd2t0mc6Kmsc0Cw86l) | 3:04 |
+| 130 | [Nobody's Clown](https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV) | [Los Yesterdays](https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq) | [Nobody's Clown](https://open.spotify.com/album/7mrdqSpq1zbwIFRUWosuFQ) | 3:29 |
+| 131 | [Between the Sheets](https://open.spotify.com/track/53HL9X1ZFXUvN8OS7HsHCX) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between The Sheets](https://open.spotify.com/album/3c6YALUwfrJ1wIW5pWjpUc) | 5:38 |
+| 132 | [La Vida Es Fría](https://open.spotify.com/track/4r3XQQZyf8p30M8fFkZJDa) | [Jason Joshua](https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn) | [La Vida Es Fría](https://open.spotify.com/album/6DdM7MRFC9G9BAGANWKQvp) | 3:22 |
+| 133 | [Seems Like](https://open.spotify.com/track/6766HkoEEO355KEzrJNU2T) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS) | [Seems Like](https://open.spotify.com/album/3IaDaFiGolUI09rcE8q5m8) | 3:14 |
 | 134 | [Darling Baby](https://open.spotify.com/track/51qGBOwgoMkjoSQtsUiEmf) | [The Elgins](https://open.spotify.com/artist/0CMVsLgjlp9Tk02TikMAQK) | [The Complete Motown Singles, Volume 5: 1965](https://open.spotify.com/album/2KCZeZkFeasjUWc8CylCpb) | 2:35 |
-| 135 | [Together](https://open.spotify.com/track/1DXxj6IzzomGSh22arlw5T) | [Tierra](https://open.spotify.com/artist/2tfiUsmHWz3xi3BSBpyz6A) | [City Nights](https://open.spotify.com/album/7hBNC7rTcDhlAO2HrFhhB6) | 4:25 |
-| 136 | [You've Really Got A Hold On Me](https://open.spotify.com/track/2tpOcRwFsv51JxUJmbtVOm) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [The Definitive Collection](https://open.spotify.com/album/2Wbsn92Jn7DRKQFu7HOzuo) | 3:14 |
-| 137 | [Between the Sheets](https://open.spotify.com/track/53HL9X1ZFXUvN8OS7HsHCX) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between The Sheets](https://open.spotify.com/album/3c6YALUwfrJ1wIW5pWjpUc) | 5:38 |
+| 135 | [Dedicated To The One I Love](https://open.spotify.com/track/36f5xtZ2CXIc1WOirnnD3j) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Tonight's The Night](https://open.spotify.com/album/6mWE1yQJVHa6JnDCLjz1Mk) | 2:00 |
+| 136 | [Together](https://open.spotify.com/track/1DXxj6IzzomGSh22arlw5T) | [Tierra](https://open.spotify.com/artist/2tfiUsmHWz3xi3BSBpyz6A) | [City Nights](https://open.spotify.com/album/7hBNC7rTcDhlAO2HrFhhB6) | 4:25 |
+| 137 | [You've Really Got A Hold On Me](https://open.spotify.com/track/2tpOcRwFsv51JxUJmbtVOm) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [The Definitive Collection](https://open.spotify.com/album/2Wbsn92Jn7DRKQFu7HOzuo) | 3:14 |
 | 138 | [Tired Of Being Alone](https://open.spotify.com/track/6d9rNfRFOQ0XmsUwJ8C5J0) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Greatest Hits](https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO) | 2:43 |
 | 139 | [Just My Imagination \(Running Away With Me\)](https://open.spotify.com/track/3gbwcu7E9ACpJsLm7vEpuN) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Dead Presidents Volume II / Music From The Motion Picture](https://open.spotify.com/album/52Us0gT9wf2yGMNlwTATGB) | 3:53 |
 | 140 | [Please Mr\. Postman](https://open.spotify.com/track/2Hz74hdth1lpe1kbTsk60L) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Motown: The Complete No\. 1's](https://open.spotify.com/album/0iv3gV69jA1YY2H0UTy9yF) | 2:29 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 149 | [Smile Now, Cry Later](https://open.spotify.com/track/0e7q3Hd0K1CypBz5R1p2iz) | [Sunny & The Sunliners](https://open.spotify.com/artist/7vsHbcgOIbaeMqv3GvvHdO) | [Mr\. Brown Eyed Soul](https://open.spotify.com/album/6vTJGd8uvZ1nGw6DuMsS2H) | 1:59 |
 | 150 | [Betcha By Golly, Wow](https://open.spotify.com/track/7KvkB61JnNKsCUDOMrqVcJ) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [The Best Of The Stylistics](https://open.spotify.com/album/1rt8wY3v7jjrB9eLBlLCq0) | 3:18 |
 
-Snapshot ID: `AAAAAPkWNxfy3TE2EBIryXKvnDQYw+EE`
+Snapshot ID: `AAAAALOEK+uUeZ9FZEET7ylbI8wl/RQC`

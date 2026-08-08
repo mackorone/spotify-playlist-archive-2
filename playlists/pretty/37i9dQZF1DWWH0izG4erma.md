@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country music that rocks\. Cover: Chris Stapleton
 
-[Spotify](https://open.spotify.com/user/spotify) - 672,013 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 672,108 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 99 | [Back in the Bottle](https://open.spotify.com/track/2wcCdp73IiOnFlQxPnmIMF) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [From Me](https://open.spotify.com/album/4xLZVz9xvzTqlfj3oFXgsZ) | 2:50 |
 | 100 | [I Need You \(feat\. Ashley Monroe\)](https://open.spotify.com/track/4U7VPsgV5C3cz28kdWAT8u) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [All of Your Stones](https://open.spotify.com/album/3Cv9M3aOY2sU7DMfq5QbMy) | 7:09 |
 
-Snapshot ID: `AAAAAKNHcdwdbiFxn9ZI0cM/moQe2HAI`
+Snapshot ID: `AAAAAFvaJ2oFK3Bd3MS36VV4GYRQtdfd`

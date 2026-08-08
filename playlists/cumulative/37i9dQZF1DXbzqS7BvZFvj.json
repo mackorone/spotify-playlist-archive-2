@@ -3523,6 +3523,24 @@
     },
     {
       "album": {
+        "name": "Benz Truck Pt. 2",
+        "url": "https://open.spotify.com/album/4ZpjEHPet3Osu8J8wsLUjL"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120333,
+      "name": "Benz Truck Pt. 2",
+      "url": "https://open.spotify.com/track/6WZsUXp0fCB4OLWRFxjbpc"
+    },
+    {
+      "album": {
         "name": "Best For Me",
         "url": "https://open.spotify.com/album/5XhWXulYKeVMBHXLxGZN44"
       },
@@ -5642,7 +5660,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 121239,
       "name": "Bussin",
       "url": "https://open.spotify.com/track/3z6sboPUNI2a01dB1EsepW"
@@ -5924,7 +5942,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 151160,
       "name": "Calling My Line",
       "url": "https://open.spotify.com/track/08aFoOhHs04Qp7PiSRQD1I"
@@ -7432,6 +7450,32 @@
       "duration_ms": 204387,
       "name": "Cut U Off",
       "url": "https://open.spotify.com/track/2YIIpDEKJv6OUc7u9tVT7I"
+    },
+    {
+      "album": {
+        "name": "Dragon's Breath",
+        "url": "https://open.spotify.com/album/4YBEbDFrRJQPGD8tUiYGFZ"
+      },
+      "artists": [
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        },
+        {
+          "name": "CZARFACE",
+          "url": "https://open.spotify.com/artist/4John8fJ3LKqFho0pselVr"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Czariana Grande",
+      "url": "https://open.spotify.com/track/6O1ktnjyhyTelvublN5wHy"
     },
     {
       "album": {
@@ -11418,7 +11462,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 149776,
       "name": "Game On (ft. JT)",
       "url": "https://open.spotify.com/track/7EI4Scb5kZkSeympsOtP9h"
@@ -16224,7 +16268,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 170915,
       "name": "JETSKI (FRIKI)",
       "url": "https://open.spotify.com/track/1bz58ig0f6mpl7S79KhvvM"
@@ -16919,6 +16963,32 @@
     },
     {
       "album": {
+        "name": "Knee Deep",
+        "url": "https://open.spotify.com/album/3M3xtc8lTcz5DleTHgLVzE"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "George Clinton",
+          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188208,
+      "name": "Knee Deep",
+      "url": "https://open.spotify.com/track/2AoTIIbQ4LjAFKIn8gziRm"
+    },
+    {
+      "album": {
         "name": "Yours Truly",
         "url": "https://open.spotify.com/album/5U4ZWKgrnmAdWNyLBG7DAU"
       },
@@ -17040,6 +17110,24 @@
       "duration_ms": 153782,
       "name": "KYLE KORVER",
       "url": "https://open.spotify.com/track/7ovlafUvG2A2oYiH5HU6Gq"
+    },
+    {
+      "album": {
+        "name": "L.I.V.S.",
+        "url": "https://open.spotify.com/album/3q5vd1ThAm2XrvKwJMTTAT"
+      },
+      "artists": [
+        {
+          "name": "NORIKIYO",
+          "url": "https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195786,
+      "name": "L.I.V.S.",
+      "url": "https://open.spotify.com/track/5dnVk8IL27hW6EXeDPu41g"
     },
     {
       "album": {
@@ -18681,6 +18769,24 @@
     },
     {
       "album": {
+        "name": "Love is a Dog from Hell .",
+        "url": "https://open.spotify.com/album/3jl6pFX25FF50m9Ghe8NZP"
+      },
+      "artists": [
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144166,
+      "name": "Love is a Dog from Hell .",
+      "url": "https://open.spotify.com/track/6FTBFONYDv1QUOVVtbUB7b"
+    },
+    {
+      "album": {
         "name": "In Silly We Trust",
         "url": "https://open.spotify.com/album/1BuAXWfCXHeQVRDYiUDCUg"
       },
@@ -19616,7 +19722,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 208245,
       "name": "Me and You",
       "url": "https://open.spotify.com/track/4hcPnIycz4lbgxa7F6YvyS"
@@ -20488,7 +20594,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 200477,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/2fQpJcpE7EoVLVi7qoRcwQ"
@@ -22965,6 +23071,40 @@
     },
     {
       "album": {
+        "name": "Summer 26",
+        "url": "https://open.spotify.com/album/1JhVD3vcTRBpE5Fw2W6GUs"
+      },
+      "artists": [
+        {
+          "name": "Compton Av",
+          "url": "https://open.spotify.com/artist/4ifWa8uYjvbxB4ouf9XbW5"
+        },
+        {
+          "name": "Steelz",
+          "url": "https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM"
+        },
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
+        {
+          "name": "Natalie Nunn",
+          "url": "https://open.spotify.com/artist/2I8embWRZZ0LSLvEIqx6wU"
+        },
+        {
+          "name": "Mariahlynn",
+          "url": "https://open.spotify.com/artist/4jk4lxjwNCDVIwHyCrUmlk"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196571,
+      "name": "Oh U Nasty (feat. Lola Brooke, Natalie Nunn & Mariahlynn)",
+      "url": "https://open.spotify.com/track/6Ooy9C7mGDTof2CvRaQoB7"
+    },
+    {
+      "album": {
         "name": "BUSINESS IS BUSINESS",
         "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
       },
@@ -23988,7 +24128,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 143105,
       "name": "Packed Up",
       "url": "https://open.spotify.com/track/0FUyZIiieOrOiiIAuGHVVS"
@@ -24174,7 +24314,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 92655,
       "name": "PARLAY",
       "url": "https://open.spotify.com/track/2CWP5h36QBRfDQPYl3K9uA"
@@ -26643,6 +26783,28 @@
     },
     {
       "album": {
+        "name": "rappers suck.",
+        "url": "https://open.spotify.com/album/1KHqbsSe89bLcJ85l27w5r"
+      },
+      "artists": [
+        {
+          "name": "Cletus Strap",
+          "url": "https://open.spotify.com/artist/00vh4ZUVEvrbagTVh7gf15"
+        },
+        {
+          "name": "VIP Skylark",
+          "url": "https://open.spotify.com/artist/7D13NdvVZ2NIqwKDZuJJJO"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141554,
+      "name": "risk it - feat. VIP SKYLARK",
+      "url": "https://open.spotify.com/track/3kD6yup5WxTFLCXjcCUThM"
+    },
+    {
+      "album": {
         "name": "Risk Taker",
         "url": "https://open.spotify.com/album/0eX3oKIfRjTb0gjAOysT0E"
       },
@@ -28119,6 +28281,24 @@
     },
     {
       "album": {
+        "name": "BANGER BOY",
+        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146165,
+      "name": "SHEGE",
+      "url": "https://open.spotify.com/track/7kf67G87lsYqfnooZB913F"
+    },
+    {
+      "album": {
         "name": "SHEITE",
         "url": "https://open.spotify.com/album/5Wzz3KhZ1OxupxCpwdtJIP"
       },
@@ -28270,7 +28450,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 140168,
       "name": "shootin",
       "url": "https://open.spotify.com/track/7jF5xbNm34tuuKu4ELGnnh"
@@ -28436,6 +28616,28 @@
       "duration_ms": 143120,
       "name": "SHUT UP (feat. Big Sean)",
       "url": "https://open.spotify.com/track/3qfvE0wc0N6Rhu8pnW6Tss"
+    },
+    {
+      "album": {
+        "name": "SIAMESE",
+        "url": "https://open.spotify.com/album/6V0iAgInzIVk51GNixUq79"
+      },
+      "artists": [
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172318,
+      "name": "SIAMESE",
+      "url": "https://open.spotify.com/track/4e0cE9EvNY4CPJxkdGVada"
     },
     {
       "album": {
@@ -28889,6 +29091,32 @@
     },
     {
       "album": {
+        "name": "Slow Down (with Travie McCoy)",
+        "url": "https://open.spotify.com/album/2hJKIlMsgRrdURiEdslZUc"
+      },
+      "artists": [
+        {
+          "name": "Demrick",
+          "url": "https://open.spotify.com/artist/3hEgzEeaZ0hb3UXx1U1JRR"
+        },
+        {
+          "name": "Scoop Deville",
+          "url": "https://open.spotify.com/artist/0LJri3xvwsHWKErcNKnZxg"
+        },
+        {
+          "name": "Travie McCoy",
+          "url": "https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Slow Down (with Travie McCoy)",
+      "url": "https://open.spotify.com/track/2v9KXEbpe8ahOk8CaPU4MI"
+    },
+    {
+      "album": {
         "name": "SLOW IT DOWN",
         "url": "https://open.spotify.com/album/4SR1TtPLuJwKtCjoAOLSeN"
       },
@@ -28930,7 +29158,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 134000,
       "name": "Slow It Down (feat. TopOppGen)",
       "url": "https://open.spotify.com/track/7LnlbONsnt0j1xhln4577r"

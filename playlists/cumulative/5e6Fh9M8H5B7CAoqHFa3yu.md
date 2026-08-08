@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,450 songs - 6 day 0 hr 15 min
+2,451 songs - 6 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -788,6 +788,7 @@
 | [Gaultier](https://open.spotify.com/track/5vBWbJdN1xKGbVK2QbA1CA) | [Ego Semper](https://open.spotify.com/artist/2cu7ObYlLsf3yTDHDniIiH) | [Gaultier](https://open.spotify.com/album/4sC9W1suc1UrMw76nE2Q65) | 2:26 | 2024-06-05 |  |
 | [Gayatri Dub](https://open.spotify.com/track/62GbdANS3wVk8Lp0gadFDq) | [Munay Ki Dub](https://open.spotify.com/artist/2AhLMWSB5ljBDOSpz1RvzE) | [Groove Of Meditation](https://open.spotify.com/album/08YRGkqUUqKxOmijsGj271) | 4:49 | 2024-03-25 |  |
 | [Gdzieś...](https://open.spotify.com/track/30ELVY2B6ybG3vlVp3rACF) | [Dzidzius i gwiazdy](https://open.spotify.com/artist/2Ug6OoWjv6bisPajn9UoN5) | [Gdzieś...](https://open.spotify.com/album/08TIHvUFF58wZjR216oXAW) | 4:43 | 2026-06-19 |  |
+| [Genesi Floreale](https://open.spotify.com/track/0WDMdyAwu69j25S7BGj36i) | [Mishu Cerri](https://open.spotify.com/artist/2Az66PYe7XDPUqUTgSrmfq) | [Genesi Floreale](https://open.spotify.com/album/6ZbiL3FEMWxGp1R74rAkMT) | 3:40 | 2026-08-07 |  |
 | [Get Off My Back \- Dub Siren Remix](https://open.spotify.com/track/0NEhcmIv1ksgWbbochtfcx) | [Dub Siren](https://open.spotify.com/artist/2938cUChrEuOWujh69t53H), [The Business](https://open.spotify.com/artist/337PhiZQ4YBA5ZiQxO6QhZ) | [Dub Down To Business](https://open.spotify.com/album/2D4LJ3tcxpUUi5lH7Sek4B) | 4:44 | 2024-04-26 |  |
 | [Get Up in Dub](https://open.spotify.com/track/2yUBJrG4aXnDCKl0LhUCCq) | [SKG's Dub Alliance](https://open.spotify.com/artist/365wSWP9t8ZeajkKU5Phdt) | [Reggae Sunjam](https://open.spotify.com/album/6kYiNLr72LY5Wdz98ArSi2) | 4:37 | 2024-03-23 |  |
 | [ghost frequency](https://open.spotify.com/track/0MFfZWo3WuV686NbKdohBq) | [skyry](https://open.spotify.com/artist/10oPnykLQTYRMjFNNES9wk) | [ghost frequency](https://open.spotify.com/album/7IBMiasG7vEW9pcsYA3T4D) | 3:01 | 2026-04-23 |  |

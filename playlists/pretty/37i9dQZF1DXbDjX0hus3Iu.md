@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 
 > The early pioneers and current favorites in Southern Rock\. Cover: Lynyrd Skynyrd
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,712 likes - 100 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,741 likes - 100 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 35 | [Champagne Jam](https://open.spotify.com/track/79uswZ7pqbHIqERDFqBDjS) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [Champagne Jam](https://open.spotify.com/album/73BvB7c3P28ZAGtng7IMCt) | 4:33 |
 | 36 | [Don't Misunderstand Me](https://open.spotify.com/track/7uODrkf1XnlIGMyUSCLbLU) | [Rossington Collins Band](https://open.spotify.com/artist/22vadBKWnw6sLJPML2MdKi) | [20th Century Masters: The Millennium Collection: Best Of The Rossington Collins Band](https://open.spotify.com/album/5x7R9IRVTa2Yb1IT14vNoH) | 3:56 |
 | 37 | [The South's Gonna Do It Again](https://open.spotify.com/track/7HRqpMkcCVVhmKme8bScvl) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [A Decade Of Hits](https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc) | 3:57 |
-| 38 | [Feats Don't Fail Me Now](https://open.spotify.com/track/63WY1u5pDf6Nk5Z7xqmn9f) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Feats Don't Fail Me Now](https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD) | 2:27 |
-| 39 | [Gator Country](https://open.spotify.com/track/2o6cfQNwM9njeMjhC2muaY) | [Molly Hatchet](https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10) | [Molly Hatchet](https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3) | 6:16 |
+| 38 | [Gator Country](https://open.spotify.com/track/2o6cfQNwM9njeMjhC2muaY) | [Molly Hatchet](https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10) | [Molly Hatchet](https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3) | 6:16 |
+| 39 | [Feats Don't Fail Me Now](https://open.spotify.com/track/63WY1u5pDf6Nk5Z7xqmn9f) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S) | [Feats Don't Fail Me Now](https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD) | 2:27 |
 | 40 | [Crazy](https://open.spotify.com/track/0F4sQ4O7wIHfw6kp1e4Sfi) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Right On Time](https://open.spotify.com/album/0HEuFHATf4xNesfim5EwMr) | 3:34 |
 | 41 | [Third Rate Romance \- Remastered](https://open.spotify.com/track/1oRvLqwJowH9JU0uO1iVzA) | [Amazing Rhythm Aces](https://open.spotify.com/artist/5wpS6LUdQYMoAreKITVtrH) | [Stacked Deck \(Remastered\)](https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9) | 3:21 |
 | 42 | [Climb to Safety](https://open.spotify.com/track/2tKvbXiqQM7aYhbpEWLbTf) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf) | [Til the Medicine Takes](https://open.spotify.com/album/2JaUecwsXmm2x9eLfVLu7Z) | 4:41 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 63 | [Warrior](https://open.spotify.com/track/4M2we5cIRbXIIz5iCb7qQe) | [The Bean Pickers Union](https://open.spotify.com/artist/7c6Pn7mGHXd4M6Xyrg8UHT) | [Potlatch](https://open.spotify.com/album/2eKxdmLv9lVT0cLDfWknLq) | 4:40 |
 | 64 | [Two Wheels](https://open.spotify.com/track/0CXtf9Z4VcSm9m9owHKYAA) | [Alligator Stew](https://open.spotify.com/artist/5eNaslJRIj0hjcFVdHjdWk) | [Alligator Stew](https://open.spotify.com/album/374dOT1I1hPxjzi4glBh0M) | 4:00 |
 | 65 | [Sweet Southern Wind](https://open.spotify.com/track/2Jg514bdH9PplDlrkbRuQI) | [Holman Autry Band](https://open.spotify.com/artist/1mj0Bx3zjqB06NfM0qKlRq) | [Sweet Southern Wind](https://open.spotify.com/album/71f9IDLMhdIrIZPzbTtKnw) | 4:17 |
-| 66 | [Thorn And A Wild Rose](https://open.spotify.com/track/547dyoV9eT7pPO8QbiexoI) | [The Gregg Allman Band](https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw) | [Just Before The Bullets Fly](https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ) | 4:12 |
-| 67 | [Miss Understanding](https://open.spotify.com/track/4sfYUnIVr30sro1cyg2Xsc) | [Grinderswitch](https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz) | [Ghost Train from Georgia](https://open.spotify.com/album/3CzO7hK3zGqFozpM84ZPMD) | 5:55 |
+| 66 | [Miss Understanding](https://open.spotify.com/track/4sfYUnIVr30sro1cyg2Xsc) | [Grinderswitch](https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz) | [Ghost Train from Georgia](https://open.spotify.com/album/3CzO7hK3zGqFozpM84ZPMD) | 5:55 |
+| 67 | [Thorn And A Wild Rose](https://open.spotify.com/track/547dyoV9eT7pPO8QbiexoI) | [The Gregg Allman Band](https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw) | [Just Before The Bullets Fly](https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ) | 4:12 |
 | 68 | [Southern Comfort](https://open.spotify.com/track/1TLlIe8ipNVx5pfkZPAbvM) | [Jimmie Van Zant Band](https://open.spotify.com/artist/3UaCfTAPqSeGFYQU9WS83C) | [Southern Comfort](https://open.spotify.com/album/06n91VSG9qfkTY9znysZ3A) | 5:23 |
 | 69 | [Time To Roll](https://open.spotify.com/track/4k4xeOTxpb6mkufYSSxfZp) | [The Dickey Betts Band](https://open.spotify.com/artist/27xGA3Cv8vhbzRPWPH7xHP), [Dickey Betts](https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7) | [Pattern Disruptive](https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq) | 4:58 |
 | 70 | [Coming Home](https://open.spotify.com/track/4krouRlYhs1Yz5oxRF4Qji) | [Johnny Van Zant Band](https://open.spotify.com/artist/4o5uAhLUzPR3JpKnx25lrR) | [The Johnny Van Zant Collection](https://open.spotify.com/album/3nBExAerr88StQ0lN8YWMe) | 4:05 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 80 | [Party in the Parking Lot](https://open.spotify.com/track/5QhdEo73fM2wIFKbXvOkDd) | [Johnny Van Zant](https://open.spotify.com/artist/1oLVItT6UETI2EYrGlxSt1) | [Brickyard Road](https://open.spotify.com/album/7wsoPFu2KaBpVgUvgHBjER) | 5:08 |
 | 81 | [Gimme, Gimme, Gimme](https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Train, Train](https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I) | 4:04 |
 | 82 | [Fire In The Kitchen](https://open.spotify.com/track/2OXVvNEILOCFxEHEElOHTb) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h) | [Live At The Moody Theater](https://open.spotify.com/album/7fBc5Ge5u6lxKBxqaaU8y8) | 7:06 |
-| 83 | [RISE OF THE REBEL](https://open.spotify.com/track/2O1YOP4DFhpJ1kl3wjccSl) | [Amberson\-Baggett Band](https://open.spotify.com/artist/28VBsKYqZDUpbzduPgfudH) | [You Are Here](https://open.spotify.com/album/3xdpCCvy9cuWspTsouLwb7) | 4:12 |
-| 84 | [Don't Know Where I'm Bound](https://open.spotify.com/track/5NKXLHZDXSpEf3u3IEfVKQ) | [Ghost Riders](https://open.spotify.com/artist/7LUw9i1NIAXmEwSEQiGVug) | [Back to Rock](https://open.spotify.com/album/5lptGM32Mq08q4P0SBXEH7) | 4:07 |
+| 83 | [Don't Know Where I'm Bound](https://open.spotify.com/track/5NKXLHZDXSpEf3u3IEfVKQ) | [Ghost Riders](https://open.spotify.com/artist/7LUw9i1NIAXmEwSEQiGVug) | [Back to Rock](https://open.spotify.com/album/5lptGM32Mq08q4P0SBXEH7) | 4:07 |
+| 84 | [RISE OF THE REBEL](https://open.spotify.com/track/2O1YOP4DFhpJ1kl3wjccSl) | [Amberson\-Baggett Band](https://open.spotify.com/artist/28VBsKYqZDUpbzduPgfudH) | [You Are Here](https://open.spotify.com/album/3xdpCCvy9cuWspTsouLwb7) | 4:12 |
 | 85 | [Can't You See](https://open.spotify.com/track/4fUU9WKxEgJXyrZJsUA2iP) | [The Marshall Tucker Band](https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd) | [The Marshall Tucker Band](https://open.spotify.com/album/1w7JOjdpfTBz4rvhWQDWJz) | 6:05 |
 | 86 | [Ramblin' Man](https://open.spotify.com/track/2Q7LpkYrS0PBpoq3iCqypa) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Brothers And Sisters \(Deluxe Edition\)](https://open.spotify.com/album/1n9rbMLUmrXBBBJffS7pDj) | 4:48 |
 | 87 | [Keep Your Hands to Yourself](https://open.spotify.com/track/4MgGdPmbySSVLUPBxzQ7mx) | [The Georgia Satellites](https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A) | [Rhino Hi\-Five: The Georgia Satellites](https://open.spotify.com/album/2V1agf5NiLNSziJTRSTDcS) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 99 | [Duane's Tune](https://open.spotify.com/track/3ZJ2fqZgjunv0RbEBeAowU) | [Dickey Betts](https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7) | [Dickey Betts Band: Live At The Lone Star Roadhouse](https://open.spotify.com/album/1vlb9RE7vvuZ2zo65pzTny) | 6:36 |
 | 100 | [Heard It in a Love Song](https://open.spotify.com/track/3T3aWHBbX85hqRPsd8vhJB) | [The Marshall Tucker Band](https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd) | [Where a Country Boy Belongs](https://open.spotify.com/album/0rP1zFi6WyUG9TxKmGknG1) | 4:55 |
 
-Snapshot ID: `AAAAADoicqognJo96Y42MYwJQS6mby4U`
+Snapshot ID: `AAAAAOUbEvpS0NF+u9XKaUOe/s6Xpe0Q`

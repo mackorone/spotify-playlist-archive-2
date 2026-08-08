@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,512 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,604 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 27 | [Want It All](https://open.spotify.com/track/0tHvVjzxytG1BzfAJTJPtX) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All](https://open.spotify.com/album/6ggFYFT8Jiq3qw43SqYHQj) | 3:52 |
 | 28 | [Only You \(with Burna Boy\)](https://open.spotify.com/track/0nn0Z1o1WI01pB7oEPiJeE) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 4:46 |
 | 29 | [Anybody](https://open.spotify.com/track/7iCSfoLBuenTKZoWIgqY9Q) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs) | 3:08 |
-| 30 | [Sungba \(feat\. Burna Boy\) \- Remix](https://open.spotify.com/track/4k4pdUWX8632g7yByxC3rS) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 3:30 |
-| 31 | [Giza \(feat\. Seyi Vibez\)](https://open.spotify.com/track/0UdBaetogSoEIO7fSD1334) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [I Told Them...](https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH) | 2:59 |
+| 30 | [Giza \(feat\. Seyi Vibez\)](https://open.spotify.com/track/0UdBaetogSoEIO7fSD1334) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [I Told Them...](https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH) | 2:59 |
+| 31 | [Sungba \(feat\. Burna Boy\) \- Remix](https://open.spotify.com/track/4k4pdUWX8632g7yByxC3rS) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 3:30 |
 | 32 | [My Oasis \(feat\. Burna Boy\)](https://open.spotify.com/track/1F2K8y7e7STRGCySkEpBtT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 2:59 |
 | 33 | [Wetin Man Go Do](https://open.spotify.com/track/6NnJHQwkeU20eZ5GVbXxw4) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs) | 3:08 |
 | 34 | [Lenu \- Remix](https://open.spotify.com/track/51trdVTGB18HFEsb8dEzq1) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Lenu \(Remix\)](https://open.spotify.com/album/0XPpgvyG25SbLEcKvAMinb) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 49 | [On Form](https://open.spotify.com/track/2vocGs3C0oElZiVwZSQZPg) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH) | 3:43 |
 | 50 | [Teary Eyes \(feat\. Burna Boy\)](https://open.spotify.com/track/68uqUS5wIIZgSbnWwNEH9Q) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Slime Cry](https://open.spotify.com/album/36zFjOhkJXdudJMUiEqroA) | 2:45 |
 
-Snapshot ID: `anJ9AAAAAADKTfmTSX4MKnJZkM6JSlZi`
+Snapshot ID: `anPOgAAAAAACuyf1tmwA4xS99ltLhQNY`

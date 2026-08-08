@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 
 > ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Jessi Uribe, Eden Muñoz
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,191 likes - 87 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,219 likes - 87 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 | 3 | [En Manos Ajenas](https://open.spotify.com/track/2dI7d5VHT2xkHZMfHpX8e2) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC), [Grupo Exterminador](https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn) | [En Manos Ajenas](https://open.spotify.com/album/1grKmKBL3YQrsruRAWs02m) | 3:07 |
 | 4 | [¿QUÉ PASÓ AYER?](https://open.spotify.com/track/4J8gD56x9ze8pFXPz5NvWG) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [¿QUÉ PASÓ AYER?](https://open.spotify.com/album/3S76tPQflMK1QhzZBZNw1t) | 2:25 |
 | 5 | [Infidelidad](https://open.spotify.com/track/21TwmbukrZe8iJ6rwwZdoA) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Despecho a 2 Voces](https://open.spotify.com/album/65OKqVsg03YaIul5cSlvDY) | 2:33 |
-| 6 | [Vovió el Dolor](https://open.spotify.com/track/2SV9OTkT0LZGCrGFY7cr1f) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [A Su Gusto](https://open.spotify.com/album/2vAJSOQt8Fa6yOSYqQcXQS) | 4:32 |
+| 6 | [Volvió el Dolor](https://open.spotify.com/track/2SV9OTkT0LZGCrGFY7cr1f) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [A Su Gusto](https://open.spotify.com/album/2vAJSOQt8Fa6yOSYqQcXQS) | 4:32 |
 | 7 | [Contentoso](https://open.spotify.com/track/2Pm3YD2PlePljgdzgBRr1h) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Contentoso](https://open.spotify.com/album/2F96HODzvQI22dMNKLiEG6) | 2:49 |
 | 8 | [Te Supero](https://open.spotify.com/track/7yKPXRcVR31OMVjTWJOywD) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Supero](https://open.spotify.com/album/7xhjy2cYttFE5b9M6sAdZL) | 2:57 |
 | 9 | [Con el corazón](https://open.spotify.com/track/1xTWu5aArww0QtXqX2ScBI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Con el corazón](https://open.spotify.com/album/0HBt7W6GF6XZujwyxNCoT1) | 3:09 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 | 86 | [El Último No](https://open.spotify.com/track/72iaGfH2eadMiQqseAJ8G4) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [El Último No](https://open.spotify.com/album/1r6z23zwQ719W2vxbnvawD) | 3:13 |
 | 87 | [Señora](https://open.spotify.com/track/5tY5SZELFkC8VTlHAp9HPx) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 3:58 |
 
-Snapshot ID: `AAAAAO2An+Zb5dnpHEzld55TV+ppgYbf`
+Snapshot ID: `AAAAACl0MWjRscNpQAEXfPJ36fvJIgJp`

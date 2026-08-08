@@ -1,12 +1,12 @@
 {
   "description": "This is Labrinth. The essential tracks, all in one playlist.",
-  "num_followers": 157679,
+  "num_followers": 157685,
   "original_name": "This Is Labrinth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAADr4VJmC8VSAUMuM6BCn8ZR",
+  "snapshot_id": "anPOgAAAAADQLELrmKgzmAJAqc2UOMhE",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COSMIC OPERA ACT II",
-        "url": "https://open.spotify.com/album/6sTGPeQccQvmDiOIxJLZyD"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 168266,
-      "name": "THE LIVING",
-      "url": "https://open.spotify.com/track/3gIavfUyAj6UxVyreaoJCp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
         "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 175826,
       "name": "No New Friends (feat. Sia, Diplo, and Labrinth)",
       "url": "https://open.spotify.com/track/6Dma0t0hOe6Bd6u5YRKF3n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COSMIC OPERA ACT II",
+        "url": "https://open.spotify.com/album/6sTGPeQccQvmDiOIxJLZyD"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 168266,
+      "name": "THE LIVING",
+      "url": "https://open.spotify.com/track/3gIavfUyAj6UxVyreaoJCp"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHUT YOUR DAMN 95.7892",
-        "url": "https://open.spotify.com/album/2BMDpo4X23IpQDqQYCBhDY"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 184034,
-      "name": "SHUT YOUR DAMN 95.7892",
-      "url": "https://open.spotify.com/track/3lCQOU4BWvyWhoNAKGoO6l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Silverlines - prod. Labrinth",
         "url": "https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 197542,
       "name": "Silverlines - prod. Labrinth",
       "url": "https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHUT YOUR DAMN 95.7892",
+        "url": "https://open.spotify.com/album/2BMDpo4X23IpQDqQYCBhDY"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 184034,
+      "name": "SHUT YOUR DAMN 95.7892",
+      "url": "https://open.spotify.com/track/3lCQOU4BWvyWhoNAKGoO6l"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COSMIC OPERA ACT II",
-        "url": "https://open.spotify.com/album/6sTGPeQccQvmDiOIxJLZyD"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 148185,
-      "name": "WHEN YOU WALK IN",
-      "url": "https://open.spotify.com/track/11S7IRv6Zg29ChhhGZPuCg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Euphoria (Original Score from the HBO Series)",
         "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 153890,
       "name": "Nate Growing Up (From \"Euphoria: Season 1\" Soundtrack)",
       "url": "https://open.spotify.com/track/4iddJAOsc6U0hJ3krSJAKn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COSMIC OPERA ACT II",
+        "url": "https://open.spotify.com/album/6sTGPeQccQvmDiOIxJLZyD"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 188497,
+      "name": "PROSTITUTE",
+      "url": "https://open.spotify.com/track/0y3wCiRJ5g5EDSN2WX4f8W"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COSMIC OPERA ACT II",
-        "url": "https://open.spotify.com/album/6sTGPeQccQvmDiOIxJLZyD"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 188497,
-      "name": "PROSTITUTE",
-      "url": "https://open.spotify.com/track/0y3wCiRJ5g5EDSN2WX4f8W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ends & Begins",
         "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 150222,
       "name": "Power Couple",
       "url": "https://open.spotify.com/track/2RpcvZ3VEGaXXufRTYe8TQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COSMIC OPERA ACT II",
+        "url": "https://open.spotify.com/album/6sTGPeQccQvmDiOIxJLZyD"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 148185,
+      "name": "WHEN YOU WALK IN",
+      "url": "https://open.spotify.com/track/11S7IRv6Zg29ChhhGZPuCg"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COSMIC OPERA ACT II",
-        "url": "https://open.spotify.com/album/6sTGPeQccQvmDiOIxJLZyD"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 156986,
-      "name": "BOUNCY CASTLES & TRAMPOLINES",
-      "url": "https://open.spotify.com/track/0YBCo9cHtzZ78eL6knwdQb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Euphoria (Original Score from the HBO Series)",
         "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 171049,
       "name": "WTF Are We Talking For (From \"Euphoria: Season 1\" Soundtrack)",
       "url": "https://open.spotify.com/track/096eU6V7NOWbfgIz7r153d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COSMIC OPERA ACT II",
+        "url": "https://open.spotify.com/album/6sTGPeQccQvmDiOIxJLZyD"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 156986,
+      "name": "BOUNCY CASTLES & TRAMPOLINES",
+      "url": "https://open.spotify.com/track/0YBCo9cHtzZ78eL6knwdQb"
     },
     {
       "added_at": null,
@@ -719,6 +719,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Music Is the Weapon (Reloaded)",
+        "url": "https://open.spotify.com/album/76zSNlOGCAxTln5yG4pfih"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 199168,
+      "name": "Titans",
+      "url": "https://open.spotify.com/track/1YHeCzS5L9xs76eOpAS6WU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yeh I Fuckin' Did It (From \"Euphoria\" An HBO Original Series)",
         "url": "https://open.spotify.com/album/16IQ46wzzPmSNvxjO7ndvO"
       },
@@ -747,34 +775,6 @@
       "duration_ms": 156239,
       "name": "FOLLOW THE LEADER",
       "url": "https://open.spotify.com/track/4C2wSfTiRkEBGxVTq5V7sV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music Is the Weapon (Reloaded)",
-        "url": "https://open.spotify.com/album/76zSNlOGCAxTln5yG4pfih"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 199168,
-      "name": "Titans",
-      "url": "https://open.spotify.com/track/1YHeCzS5L9xs76eOpAS6WU"
     },
     {
       "added_at": null,
@@ -815,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Kitchen (Score from the Netflix Film)",
+        "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "Alex Baranowski",
+          "url": "https://open.spotify.com/artist/25ZtHjSjM5LJckzidujhoQ"
+        }
+      ],
+      "duration_ms": 102603,
+      "name": "Accepted By The Crew",
+      "url": "https://open.spotify.com/track/20pJfe2XnmhYQWlKUlamHh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
         "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
       },
@@ -847,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Imagination & the Misfit Kid",
+        "url": "https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 140750,
+      "name": "Like A Movie",
+      "url": "https://open.spotify.com/track/1VnN9uzaSsw2kA6JOWpMUE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Kitchen (Score from the Netflix Film)",
         "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
       },
@@ -859,22 +895,6 @@
       "duration_ms": 53353,
       "name": "What Would You Want Me To Be",
       "url": "https://open.spotify.com/track/5qdma4cGhLzg5fkX57dnmH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electronic Earth (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "Let the Sun Shine",
-      "url": "https://open.spotify.com/track/7nRAK7blAQt94WRDI3EciA"
     },
     {
       "added_at": null,
@@ -903,8 +923,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imagination & the Misfit Kid",
-        "url": "https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0"
+        "name": "Electronic Earth (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI"
       },
       "artists": [
         {
@@ -912,29 +932,9 @@
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 140750,
-      "name": "Like A Movie",
-      "url": "https://open.spotify.com/track/1VnN9uzaSsw2kA6JOWpMUE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Kitchen (Score from the Netflix Film)",
-        "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
-          "name": "Alex Baranowski",
-          "url": "https://open.spotify.com/artist/25ZtHjSjM5LJckzidujhoQ"
-        }
-      ],
-      "duration_ms": 102603,
-      "name": "Accepted By The Crew",
-      "url": "https://open.spotify.com/track/20pJfe2XnmhYQWlKUlamHh"
+      "duration_ms": 179800,
+      "name": "Let the Sun Shine",
+      "url": "https://open.spotify.com/track/7nRAK7blAQt94WRDI3EciA"
     },
     {
       "added_at": null,

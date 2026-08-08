@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine (\u273f\u25e0\u203f\u25e0)",
-  "num_followers": 433413,
+  "num_followers": 433351,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAURzWv6u7ly8O2IZH0jjaTWUhNw",
+  "snapshot_id": "AAAAAB1Yi0MIDj9rGDmiqgLSTnrpWXIu",
   "tracks": [
     {
       "added_at": "2026-05-11 20:38:16",
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
+        "name": "D\u00edas Negros",
+        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
+      },
+      "artists": [
+        {
+          "name": "Chango Menas",
+          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
+        }
+      ],
+      "duration_ms": 182320,
+      "name": "D\u00edas Negros",
+      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
         "name": "Ya no nos hablamos",
         "url": "https://open.spotify.com/album/2POquPZMJWFB1SocRQGW9A"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 215807,
       "name": "Ya no nos hablamos",
       "url": "https://open.spotify.com/track/3KjIRxUv81zmSqiphtRxGp"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
-        "name": "D\u00edas Negros",
-        "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
-      },
-      "artists": [
-        {
-          "name": "Chango Menas",
-          "url": "https://open.spotify.com/artist/02JOH3JikydGzqOEI7WzA9"
-        }
-      ],
-      "duration_ms": 182320,
-      "name": "D\u00edas Negros",
-      "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
     },
     {
       "added_at": "2026-05-11 20:38:16",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
-        "name": "quisiera",
-        "url": "https://open.spotify.com/album/7AHG9x2e3h4zjBdjAzuwPs"
-      },
-      "artists": [
-        {
-          "name": "Sparklmami",
-          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
-        }
-      ],
-      "duration_ms": 254218,
-      "name": "quisiera",
-      "url": "https://open.spotify.com/track/2cxlVp4E32261uVRRJS8Fk"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
         "name": "Eso Que Me Das",
         "url": "https://open.spotify.com/album/0WQ1ixBjLMPw4uK0vZnIh3"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 227658,
       "name": "Eso Que Me Das",
       "url": "https://open.spotify.com/track/76Xv0phxmn6MyCxY3K00Wa"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
+        "name": "quisiera",
+        "url": "https://open.spotify.com/album/7AHG9x2e3h4zjBdjAzuwPs"
+      },
+      "artists": [
+        {
+          "name": "Sparklmami",
+          "url": "https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0"
+        }
+      ],
+      "duration_ms": 254218,
+      "name": "quisiera",
+      "url": "https://open.spotify.com/track/2cxlVp4E32261uVRRJS8Fk"
     },
     {
       "added_at": "2026-05-11 20:38:16",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
-        "name": "Pelo Negro",
-        "url": "https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD"
-      },
-      "artists": [
-        {
-          "name": "Jos Canela",
-          "url": "https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie"
-        }
-      ],
-      "duration_ms": 192340,
-      "name": "Pelo Negro",
-      "url": "https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
         "name": "Mi vida en llamas (feat. Buscabulla)",
         "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 288625,
       "name": "Mi vida en llamas (feat. Buscabulla)",
       "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
+        "name": "Pelo Negro",
+        "url": "https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD"
+      },
+      "artists": [
+        {
+          "name": "Jos Canela",
+          "url": "https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie"
+        }
+      ],
+      "duration_ms": 192340,
+      "name": "Pelo Negro",
+      "url": "https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g"
     },
     {
       "added_at": "2026-05-11 20:38:16",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
-        "name": "qu\u00e9 bueno!",
-        "url": "https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7"
-      },
-      "artists": [
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        }
-      ],
-      "duration_ms": 157394,
-      "name": "qu\u00e9 bueno!",
-      "url": "https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/056KBSR2KBMankHXTbizsL"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 175470,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/3wwHxBjK4Y1IohNUVgwX31"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
+        "name": "qu\u00e9 bueno!",
+        "url": "https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "duration_ms": 157394,
+      "name": "qu\u00e9 bueno!",
+      "url": "https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt"
     },
     {
       "added_at": "2026-05-11 20:38:16",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
-        "name": "M\u00fasica para verse bien",
-        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 318058,
-      "name": "Esta canci\u00f3n",
-      "url": "https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
         "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
         "url": "https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 167753,
       "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
       "url": "https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
+        "name": "M\u00fasica para verse bien",
+        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 318058,
+      "name": "Esta canci\u00f3n",
+      "url": "https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f"
     },
     {
       "added_at": "2026-05-11 20:38:16",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
-        "name": "ANIM4LES",
-        "url": "https://open.spotify.com/album/2h48DpjjNc111ug7zH2aXl"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 115568,
-      "name": "Sos Todo Lo Que Est\u00e1 Bien",
-      "url": "https://open.spotify.com/track/4pL01X6Og8L9kJRTB65Hsz"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
         "name": "Trebol",
         "url": "https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 226393,
       "name": "Trebol",
       "url": "https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
+        "name": "ANIM4LES",
+        "url": "https://open.spotify.com/album/2h48DpjjNc111ug7zH2aXl"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 115568,
+      "name": "Sos Todo Lo Que Est\u00e1 Bien",
+      "url": "https://open.spotify.com/track/4pL01X6Og8L9kJRTB65Hsz"
     },
     {
       "added_at": "2026-05-11 20:38:16",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2026-05-11 20:38:16",
       "album": {
-        "name": "Idiota",
-        "url": "https://open.spotify.com/album/4w9m7etPUcQyjE7Seax7G9"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 208240,
-      "name": "Idiota",
-      "url": "https://open.spotify.com/track/20htY6OJxsHAsWDMzpm4xC"
-    },
-    {
-      "added_at": "2026-05-11 20:38:16",
-      "album": {
         "name": "Fuma",
         "url": "https://open.spotify.com/album/4hZ5N4HR23RStTtFKzvktM"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 199200,
       "name": "Fuma",
       "url": "https://open.spotify.com/track/256iSpPtbeB473PZ9gtlsL"
+    },
+    {
+      "added_at": "2026-05-11 20:38:16",
+      "album": {
+        "name": "Idiota",
+        "url": "https://open.spotify.com/album/4w9m7etPUcQyjE7Seax7G9"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 208240,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/20htY6OJxsHAsWDMzpm4xC"
     },
     {
       "added_at": "2026-05-11 20:38:16",

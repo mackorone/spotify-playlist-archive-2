@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 
 > Our editors' picks of the best <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">Fresh Finds</a>  tracks around the world this year\. Cover: The Belair Lip Bombs
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,156 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,153 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 45 | [Perfect](https://open.spotify.com/track/1ZE95YrQTRP8zqMNWhySjP) | [Ochaè](https://open.spotify.com/artist/3BQA6DkdnDx5Gd07dFgFeI) | [Perfect](https://open.spotify.com/album/5m1g4NScg6USxohPQIYpz2) | 3:25 |
 | 46 | [The Actor](https://open.spotify.com/track/4LtcR3gIVqoNDTf1KyTxdu) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Now Would Be A Good Time](https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y) | 2:50 |
 | 47 | [You Could Hate Me](https://open.spotify.com/track/4FW012Xh3vSGRmw4rpGLAR) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Object Permanence \(Deluxe Edition\)](https://open.spotify.com/album/2wupSocGm47JxOKTZtStrw) | 4:11 |
-| 48 | [Yeh Duniya Jala Do](https://open.spotify.com/track/15Z1xuTPQjErBcsaFpunGg) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [Yeh Duniya Jala Do](https://open.spotify.com/album/6PUDZpIB7D6WrRMI8DufL6) | 3:50 |
-| 49 | [Woman Lake](https://open.spotify.com/track/13jIYWdJqaXqON3URRS6Q3) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Goodbyehouse](https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu) | 2:44 |
+| 48 | [Woman Lake](https://open.spotify.com/track/13jIYWdJqaXqON3URRS6Q3) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Goodbyehouse](https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu) | 2:44 |
+| 49 | [Yeh Duniya Jala Do](https://open.spotify.com/track/15Z1xuTPQjErBcsaFpunGg) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [Yeh Duniya Jala Do](https://open.spotify.com/album/6PUDZpIB7D6WrRMI8DufL6) | 3:50 |
 | 50 | [Racing Mount Pleasant](https://open.spotify.com/track/1O4YoWMQys8jrSfCuDZQit) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv) | 5:15 |
 | 51 | [All I Really Want](https://open.spotify.com/track/0EQL9rp9Y1a8j7MfEmq62Q) | [Yes Boone](https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5) | [All I Really Want](https://open.spotify.com/album/25d7TamaIpa6Z10bX0a8Lu) | 3:13 |
 | 52 | [coming around](https://open.spotify.com/track/2aNCgj2Px3flyBD5kqS2WJ) | [fliss](https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX) | [coming around](https://open.spotify.com/album/0oIJvYf11xCllbEOuS1Suq) | 3:42 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 55 | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE), [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/album/5xbuVE2oApu5EVIbJhLpEc) | 2:59 |
 | 56 | [After All This Time](https://open.spotify.com/track/6R6cldyeIPH1pBGrSUYBJ8) | [Van Buren](https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl) | [After All This Time](https://open.spotify.com/album/5DCcYRli3V8rdF0gn5BSz2) | 3:38 |
 | 57 | [you're such a good girl?](https://open.spotify.com/track/4ipDXHc66uOSZ1igOKvOvC) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR) | [you're such a good girl?](https://open.spotify.com/album/6GdJmhqYSSqBuee6DsyjND) | 2:47 |
-| 58 | [CRUISING TO SELF SOOTHE](https://open.spotify.com/track/3QEDCbKlBdzEaMmdKUJJvu) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [CRUISING TO SELF SOOTHE](https://open.spotify.com/album/5Goqek0wxqpC9DRTJJnjkK) | 2:32 |
-| 59 | [See You Around](https://open.spotify.com/track/0i0g60BEOSriL0mJJu7N3S) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [See You Around](https://open.spotify.com/album/0FiO5yMTGOmBNJfbyIgIAf) | 4:02 |
-| 60 | [I CHOSE YOU](https://open.spotify.com/track/1PjO51wQ3ZdzaLorG3M7M1) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [CONCUBANIA](https://open.spotify.com/album/74AFDI4K9GYRixO4areLml) | 3:44 |
+| 58 | [See You Around](https://open.spotify.com/track/0i0g60BEOSriL0mJJu7N3S) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [See You Around](https://open.spotify.com/album/0FiO5yMTGOmBNJfbyIgIAf) | 4:02 |
+| 59 | [I CHOSE YOU](https://open.spotify.com/track/1PjO51wQ3ZdzaLorG3M7M1) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [CONCUBANIA](https://open.spotify.com/album/74AFDI4K9GYRixO4areLml) | 3:44 |
+| 60 | [CRUISING TO SELF SOOTHE](https://open.spotify.com/track/3QEDCbKlBdzEaMmdKUJJvu) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [CRUISING TO SELF SOOTHE](https://open.spotify.com/album/5Goqek0wxqpC9DRTJJnjkK) | 2:32 |
 | 61 | [Sibeeria](https://open.spotify.com/track/7f7hbdmYKry7GJHLLw0my9) | [doggone](https://open.spotify.com/artist/2VNWt6p905PprUPc78Mfzt) | [Sibeeria](https://open.spotify.com/album/16oynJh4jhy9XX1G2963zT) | 2:51 |
 | 62 | [O’ Kay Tamis](https://open.spotify.com/track/1s1nPYN5ryw0OHejNO0eAV) | [It All Started In May](https://open.spotify.com/artist/1qWLxocXl9bpeqejuQ8zJX) | [O’ Kay Tamis](https://open.spotify.com/album/5TKMkaDXaNA84CswvnKokE) | 3:03 |
 | 63 | [Nkosi's Fantasia](https://open.spotify.com/track/0imRQRfzB7MW7zruc0RbLZ) | [Miki Ikhifa](https://open.spotify.com/artist/1U99EbW3KOGlztHeHqSjfo), [Nubalix](https://open.spotify.com/artist/6VdWeYimGqEwBMc0PQ1E5A) | [Nkosi's Fantasia: Chapter One](https://open.spotify.com/album/3dyG11vpxbE57LPrqfJZ7v) | 4:16 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 68 | [The Sun Song \(Precious Energy\)](https://open.spotify.com/track/3vmDjZ9fq7iRzJWPvzAN7K) | [Tyreek McDole](https://open.spotify.com/artist/4CaP7lMH3pQeY7YboZJu7T), [Logan Butler](https://open.spotify.com/artist/7A57mikbdnFdDUWj0jEs6U), [Rodney Whitaker](https://open.spotify.com/artist/462arlCFMH9CgHpDXJLLgv) | [Open Up Your Senses](https://open.spotify.com/album/2QsIPiMux0wUjBpYyToako) | 4:15 |
 | 69 | [BLIND](https://open.spotify.com/track/2OmnzMLTn0mx6iXrp4VBjz) | [EJ Ross](https://open.spotify.com/artist/3yZJfp37SK7V6yHh3oAGoB), [Jay Versace](https://open.spotify.com/artist/0FBoLKOReQgeA0Oe2pcDF5) | [BLIND](https://open.spotify.com/album/5MBqQGtqtrh3Vrw1aVA4ZB) | 3:02 |
 | 70 | [QUAY VỀ](https://open.spotify.com/track/5iHWbMNn1nmJFS9UpkfOCS) | [EREN](https://open.spotify.com/artist/1CmpPe389rlcewV0pAmxyq), [Bbynascar](https://open.spotify.com/artist/70xqUA23Q0PdxUOMqUCkqR), [Taki](https://open.spotify.com/artist/5Gwp3UAgzZ1v9UjuZJOst2) | [DEJA VU](https://open.spotify.com/album/6BVlsEO0l2upeO4fukXxvf) | 3:03 |
-| 71 | [BADASS](https://open.spotify.com/track/3xYk4ZSzHGS6lw5hBg0xKm) | [GENBLUE幻藍小熊](https://open.spotify.com/artist/73QQqobizk6EGabqlA5GKz) | [MIRROR](https://open.spotify.com/album/7II69468wP63QJ5ZevVFCP) | 2:55 |
-| 72 | [Nazarein Utaarun](https://open.spotify.com/track/2LcWtSGdbQ4QIpMoQGF8Yl) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Nazarein Utaarun](https://open.spotify.com/album/1CpcmGBZC6EVjmsXXGNSJw) | 2:29 |
-| 73 | [Good Time](https://open.spotify.com/track/4jCaZ9hfqm1CQRvshbvhTU) | [From Dave](https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6), [SUMMERGIRL](https://open.spotify.com/artist/6BtRULhGOoSfhbuf9esr27) | [Good Time](https://open.spotify.com/album/6YytS1n0RZNIXE6kgRRSP8) | 3:05 |
-| 74 | [when you leave](https://open.spotify.com/track/6P9eHLKr7YYniDhFAF3AGy) | [woody](https://open.spotify.com/artist/1MOlxrTqAReNKA5a5uFvC4) | [highs, lows & stargazing](https://open.spotify.com/album/6KdB8rhp7GZNSXf19ovSIM) | 3:12 |
+| 71 | [Nazarein Utaarun](https://open.spotify.com/track/2LcWtSGdbQ4QIpMoQGF8Yl) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Nazarein Utaarun](https://open.spotify.com/album/1CpcmGBZC6EVjmsXXGNSJw) | 2:29 |
+| 72 | [BADASS](https://open.spotify.com/track/3xYk4ZSzHGS6lw5hBg0xKm) | [GENBLUE幻藍小熊](https://open.spotify.com/artist/73QQqobizk6EGabqlA5GKz) | [MIRROR](https://open.spotify.com/album/7II69468wP63QJ5ZevVFCP) | 2:55 |
+| 73 | [when you leave](https://open.spotify.com/track/6P9eHLKr7YYniDhFAF3AGy) | [woody](https://open.spotify.com/artist/1MOlxrTqAReNKA5a5uFvC4) | [highs, lows & stargazing](https://open.spotify.com/album/6KdB8rhp7GZNSXf19ovSIM) | 3:12 |
+| 74 | [Good Time](https://open.spotify.com/track/4jCaZ9hfqm1CQRvshbvhTU) | [From Dave](https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6), [SUMMERGIRL](https://open.spotify.com/artist/6BtRULhGOoSfhbuf9esr27) | [Good Time](https://open.spotify.com/album/6YytS1n0RZNIXE6kgRRSP8) | 3:05 |
 | 75 | [Say Ciao](https://open.spotify.com/track/2gDCKgrPUXLfNTtwNbmE8T) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7) | [Romantica](https://open.spotify.com/album/5XCjEt4FxEgvC8qSwQShcc) | 2:57 |
 
-Snapshot ID: `AAAAALHtKgmb/XUgCNuqWP9RsJsGPJSi`
+Snapshot ID: `AAAAAH85/QVQnsP9SjXrnesN2ErEXwFf`

@@ -1,33 +1,13 @@
 {
   "description": "This is Spice Girls. The essential tracks, all in one playlist.",
-  "num_followers": 302822,
+  "num_followers": 302833,
   "original_name": "This Is Spice Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAACnfiqJaqODXk8pq3ccVtyS",
+  "snapshot_id": "anPOgAAAAACqM8hLwEBXpAg/5HE7/hHv",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wannabe",
-        "url": "https://open.spotify.com/album/6K7wWAptt1WpVpgzGqC3j3"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        },
-        {
-          "name": "Junior Vasquez",
-          "url": "https://open.spotify.com/artist/6X4LvL2xVwf3B6WuQ0YAhm"
-        }
-      ],
-      "duration_ms": 173533,
-      "name": "Wannabe - Junior Vasquez 7\u201d Single Edit",
-      "url": "https://open.spotify.com/track/1IP7MLQg59OX39xk8ouSua"
-    },
     {
       "added_at": null,
       "album": {

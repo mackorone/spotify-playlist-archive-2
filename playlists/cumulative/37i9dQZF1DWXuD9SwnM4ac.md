@@ -4,7 +4,7 @@
 
 > All the new indie tracks worth knowing about\. Cover: Way Dynamic
 
-1,698 songs - 4 day 2 hr 11 min
+1,698 songs - 4 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1361,6 +1361,7 @@
 | [Spring summer](https://open.spotify.com/track/3qRLkEF8PHAvXp6eudfzQ4) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Spring summer](https://open.spotify.com/album/1SznGl13WRMVE8GUT7cvS4) | 2:08 | 2026-04-24 | 2026-06-19 |
 | [Srs Ice](https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK) | 3:34 | 2026-03-05 | 2026-03-27 |
 | [SS26](https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SS26](https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze) | 2:47 | 2026-05-21 | 2026-07-17 |
+| [Stairways](https://open.spotify.com/track/4RfRFx4cbOk1CdaQKyeEJn) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Wabi Sabi](https://open.spotify.com/album/2NpZ3Px3zT9ifmVbeREscf) | 3:09 | 2026-08-06 |  |
 | [STAMPEDE](https://open.spotify.com/track/6gxGg4j7i3Ba7F2x0yi8br) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STAMPEDE](https://open.spotify.com/album/7A2scjvl1X6PS9TBZ6BzFj) | 3:09 | 2026-02-19 | 2026-04-17 |
 | [STANK ROSE](https://open.spotify.com/track/3UgGcXBLByVMxC1SDZwcLO) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [STANK ROSE](https://open.spotify.com/album/07aNXc0N6OAAV4Y54QlMqE) | 3:06 | 2024-06-27 | 2024-07-19 |
 | [Star](https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Star](https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF) | 3:25 | 2026-03-12 | 2026-05-01 |
@@ -1554,7 +1555,6 @@
 | [Touching and Talking](https://open.spotify.com/track/6gHoCgosSQzDgZngAAIbmk) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Touching and Talking](https://open.spotify.com/album/63nBX7FKEB6e9j5NyFu2yF) | 3:16 | 2024-07-11 | 2024-08-09 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2025-11-14 |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-28 | 2026-07-10 |
-| [Track 5](https://open.spotify.com/track/4RfRFx4cbOk1CdaQKyeEJn) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Wabi Sabi](https://open.spotify.com/album/2NpZ3Px3zT9ifmVbeREscf) | 0:00 | 2026-08-06 |  |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-26 | 2026-05-22 |
 | [Tractor Beams](https://open.spotify.com/track/5F8SZeipQ3cEN2gZ8BxSpO) | [Tutara Peak](https://open.spotify.com/artist/6GqQziMdX3FNMhEx9zd3NX), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Tractor Beams](https://open.spotify.com/album/43DvYfPb4cbuQr2wnBhdh9) | 3:18 | 2024-08-01 | 2024-09-06 |
 | [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 | 2025-05-22 | 2025-07-25 |

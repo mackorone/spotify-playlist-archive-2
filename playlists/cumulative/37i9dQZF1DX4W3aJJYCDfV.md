@@ -4,7 +4,7 @@
 
 > Brand new music from FLO, ROLE MODEL, Sam Smith, Overmono and more!
 
-23,034 songs - 51 day 23 hr 29 min
+23,034 songs - 51 day 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8634,7 +8634,7 @@
 | [Heaven Knows You're Lonely](https://open.spotify.com/track/5G3Qxt22dINouyLfdfvz9e) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [Heaven Knows You're Lonely](https://open.spotify.com/album/2Y98tVyg7r3FWdbEHXpI1B) | 3:01 | 2026-06-18 | 2026-06-26 |
 | [Heaven On Your Mind](https://open.spotify.com/track/6CfTOBRp1sgG8xY97RsUWS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dan Tyminski](https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8) | [Heaven On Your Mind](https://open.spotify.com/album/1oPqsnINC8uvqs1MfxZNez) | 3:44 | 2026-05-21 | 2026-05-29 |
 | [Heaven Or Hell](https://open.spotify.com/track/7zF3KNGz44bjX9WMneSvWr) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Heaven or Hell](https://open.spotify.com/album/2hSBelgvz5Wi4anXg9M7KP) | 2:31 | 2024-02-09 | 2024-02-16 |
-| [Heaven Or Hell](https://open.spotify.com/track/21TnRdF00nrfWZvNrIIPM3) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [9PM](https://open.spotify.com/album/2zShexyWcmIH0BNvtqGnjw) | 2:43 | 2026-08-06 |  |
+| [Heaven Or Hell](https://open.spotify.com/track/21TnRdF00nrfWZvNrIIPM3) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Reggie](https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X) | [9PM](https://open.spotify.com/album/2zShexyWcmIH0BNvtqGnjw) | 2:43 | 2026-08-06 |  |
 | [Heaven or Not](https://open.spotify.com/track/6B8ZQyILzGTzJZ2BE8ydcF) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Heaven or Not](https://open.spotify.com/album/57vgi9GXqxBvyLmlTQeeUk) | 2:31 | 2024-04-04 | 2024-04-12 |
 | [Heaven Sent](https://open.spotify.com/track/3cgtyJ90zisgeBou5wMkFw) | [Ten Tonnes](https://open.spotify.com/artist/4hfrzKkUsrb3Cz209SKxbo) | [Heaven Sent](https://open.spotify.com/album/0d8JjN0d48xDmp9AfSBVof) | 2:37 | 2025-02-07 | 2025-02-14 |
 | [Heaven Sent](https://open.spotify.com/track/1J37Hqast78Ts78RLXYEYg) | [VLURE](https://open.spotify.com/artist/0Ev1tqYsfzq2eF5qqXhkYm) | [Heaven Sent](https://open.spotify.com/album/5CLW7gvvfjLvW8JuDVHfoP) | 3:38 | 2023-11-17 | 2023-11-24 |
@@ -8783,6 +8783,7 @@
 | [Hey!](https://open.spotify.com/track/2VWR1x9sYw28qu5xSZvhcq) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Hey!](https://open.spotify.com/album/4ZZhvcSIjaiD17Zb6wb3zB) | 3:45 | 2025-07-24 | 2025-08-01 |
 | [Hey, Gay Boy](https://open.spotify.com/track/2vuAmGq8Wkidh5LaaGHgmV) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [Hey, Gay Boy](https://open.spotify.com/album/12Gp5fwnjKISUXjxj3tuJX) | 3:46 | 2024-05-30 | 2024-06-07 |
 | [HEYA](https://open.spotify.com/track/1jXkl4Jv3iiX0Maj77witN) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/5IEMUcisVV23gFbC471rTy) | 3:09 | 2024-05-02 | 2024-05-10 |
+| [heyyy](https://open.spotify.com/track/1nmodCSw2Iny0LJcvbFq78) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0), [Natalie Red](https://open.spotify.com/artist/38EW5PoQXJSd0tRuhmMbFL), [Ruby Bell](https://open.spotify.com/artist/3V8Eb1ys7e90m3eXLIWRSO) | [Goodbye 2012!](https://open.spotify.com/album/3tQeF8yT6b0WYUUZG8KTyi) | 3:02 | 2026-08-06 |  |
 | [Hi & Bye](https://open.spotify.com/track/5gJIue3f58TO6RHRxEAIgJ) | [V'ghn](https://open.spotify.com/artist/4vJ5CUGTaAXPBNzT8dVWCG), [MSK MUSIK](https://open.spotify.com/artist/4aTixGagm92W36uvmXVhxo) | [Hi & Bye](https://open.spotify.com/album/1r6F0umKEM8d10C8L4Sa3y) | 4:07 | 2025-06-19 | 2025-06-27 |
 | [Hi Chaos](https://open.spotify.com/track/2MOej3BIsG1SlxXWWmgzGc) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [The Bad Fire](https://open.spotify.com/album/474vVLzrq9sxOGpQMPHIPq) | 5:24 | 2025-01-24 | 2025-01-31 |
 | [hi from me](https://open.spotify.com/track/60XzwYT67TQNhF5Bhu2sQR) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer \(deluxe\)](https://open.spotify.com/album/2HnvB9ilRvh2hpoFesS5fl) | 1:42 | 2026-07-09 | 2026-07-17 |
@@ -20769,7 +20770,6 @@
 | [TR Smooth](https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [L'Ecstasy](https://open.spotify.com/album/5gHsDs3ofg8qejWBcIGtJv) | 3:42 | 2023-12-01 | 2023-12-08 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-06-26 | 2025-07-04 |
 | [Tracing Lines](https://open.spotify.com/track/3HD4vh1AGcy0ub2OMfzPJL) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Tracing Lines](https://open.spotify.com/album/7EdSp9CD44UYEzHTbWiWBD) | 4:06 | 2025-09-18 | 2025-09-26 |
-| [Track 9](https://open.spotify.com/track/1nmodCSw2Iny0LJcvbFq78) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0) | [Goodbye 2012!](https://open.spotify.com/album/3tQeF8yT6b0WYUUZG8KTyi) | 0:00 | 2026-08-06 |  |
 | [Track and Field](https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Track and Field](https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA) | 3:15 | 2026-04-16 | 2026-04-24 |
 | [Tracksuit](https://open.spotify.com/track/0QXNgg60Ck504AdrheBAox) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Tracksuit](https://open.spotify.com/album/0DMYE3JEGsx1qllM7ZjjMH) | 2:30 | 2026-05-07 | 2026-05-15 |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-27 | 2026-04-03 |

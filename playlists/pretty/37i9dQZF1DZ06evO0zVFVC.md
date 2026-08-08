@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zVFVC.md) - [plain]
 
 > This is Parkway Drive\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,183 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,197 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zVFVC.md) - [plain]
 | 32 | [Feed Them to the Pigs](https://open.spotify.com/track/7eGhm9Bc3TKfaOQXC9fU1d) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons](https://open.spotify.com/album/3ai6BXPXSV9AKm1XaqZcP4) | 2:35 |
 | 33 | [Schattenboxen](https://open.spotify.com/track/0fP3R18uL3KgJabqm5Crja) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo), [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [Viva The Underdogs](https://open.spotify.com/album/5wLd53vzbBM0TIa0NmwxGb) | 3:50 |
 | 34 | [Gimme a D](https://open.spotify.com/track/74bY6zZfIDJxz5OhQzZU7D) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing with a Smile](https://open.spotify.com/album/6BSLK8OMPCTbUldpzsYnml) | 3:31 |
-| 35 | [Home Is For The Heartless](https://open.spotify.com/track/2mvi7qtDNLuh25oOcHVEOk) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 4:08 |
+| 35 | [The Siren's Song](https://open.spotify.com/track/6EhCOo20iD7JSvMP7fty7n) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:04 |
 | 36 | [Moments in Oblivion](https://open.spotify.com/track/2XqHqiETEwPa9XBPVHa300) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons](https://open.spotify.com/album/3ai6BXPXSV9AKm1XaqZcP4) | 1:43 |
-| 37 | [The Siren's Song](https://open.spotify.com/track/6EhCOo20iD7JSvMP7fty7n) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:04 |
+| 37 | [Home Is For The Heartless](https://open.spotify.com/track/2mvi7qtDNLuh25oOcHVEOk) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 4:08 |
 | 38 | [Blackout](https://open.spotify.com/track/5RJWDvwgWbaGxgsm4aZyPf) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing with a Smile](https://open.spotify.com/album/6BSLK8OMPCTbUldpzsYnml) | 2:43 |
 | 39 | [Destroyer](https://open.spotify.com/track/19STBV8KgQ5TqoYbio5Ewm) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire](https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D) | 4:47 |
-| 40 | [Wreckage](https://open.spotify.com/track/0gMREA9nAh1RD7TZ6WmQA5) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 3:21 |
-| 41 | [Begin](https://open.spotify.com/track/4gMATGsDAvB69GtBhPWrME) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons](https://open.spotify.com/album/3ai6BXPXSV9AKm1XaqZcP4) | 0:48 |
+| 40 | [Begin](https://open.spotify.com/track/4gMATGsDAvB69GtBhPWrME) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Horizons](https://open.spotify.com/album/3ai6BXPXSV9AKm1XaqZcP4) | 0:48 |
+| 41 | [Wreckage](https://open.spotify.com/track/0gMREA9nAh1RD7TZ6WmQA5) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 3:21 |
 | 42 | [The River](https://open.spotify.com/track/4yVgz6jQy3rshd2OJoyLuY) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 5:27 |
 | 43 | [Writings on the Wall](https://open.spotify.com/track/4gkl7JKIBa2aM18Vm6tfAp) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire](https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D) | 4:23 |
-| 44 | [Unrest](https://open.spotify.com/track/79e7Mpm2SLGmlxpGgjoWKr) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 2:19 |
-| 45 | [Dead Man's Chest](https://open.spotify.com/track/3fMvYJwGFEOKLi7EMrY8MW) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo), [No Apologies](https://open.spotify.com/artist/4puLBE4XPuXZBpF6lZmcxt) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:21 |
+| 44 | [Dead Man's Chest](https://open.spotify.com/track/3fMvYJwGFEOKLi7EMrY8MW) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo), [No Apologies](https://open.spotify.com/artist/4puLBE4XPuXZBpF6lZmcxt) | [Horizons \(Deluxe Edition\)](https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM) | 3:21 |
+| 45 | [Unrest](https://open.spotify.com/track/79e7Mpm2SLGmlxpGgjoWKr) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Deep Blue](https://open.spotify.com/album/3sj64vlMjeymCV05otr8FA) | 2:19 |
 | 46 | [Devil's Calling](https://open.spotify.com/track/3ysvcWkYJfyA51ieNhiKA8) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire \(Deluxe Edition\)](https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr) | 3:26 |
 | 47 | [Swing](https://open.spotify.com/track/7EuOA3u04bWOvNw6RZQZy7) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 3:31 |
 | 48 | [Into the Dark](https://open.spotify.com/track/46ZYSOvGGQRFC5cbEHUNKi) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire \(Deluxe Edition\)](https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr) | 3:30 |
 | 49 | [Dream Run](https://open.spotify.com/track/5TeolAk3EbSPxafusAbL3S) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 4:08 |
 | 50 | [Old Ghost / New Regrets](https://open.spotify.com/track/0sSweTCEPskCfVx1hmiGiw) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Atlas](https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP) | 2:49 |
 
-Snapshot ID: `anJ9AAAAAACMqz4C8MEoQPYvVimSUONd`
+Snapshot ID: `anPOgAAAAADHy95nctAZjuRSHZYvQ4pz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WzB1Rs2vkz.md) - [plain]
 
 > Musiquita sabrosa que te hace bailar el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,760 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,799 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WzB1Rs2vkz.md) - [plain]
 | 60 | [Tu Me Quemas](https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 4:59 |
 | 61 | [Ambulancia](https://open.spotify.com/track/5OPte07J5hRK1pTn0f7ldr) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 3:32 |
 | 62 | [La Mejor De Todas](https://open.spotify.com/track/5vTIuHaFWnKLB28oLaRClm) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Quiero Ser Tu Amor](https://open.spotify.com/album/7vSqNkK9usdG1GEkxUuA16) | 3:39 |
-| 63 | [ROMÁNTICA](https://open.spotify.com/track/0sbtnge2Ao6yk4ypmTmOGb) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [ROMÁNTICA](https://open.spotify.com/album/06RVDKvYTLFWIwED9Kv24M) | 3:51 |
-| 64 | [Binikini](https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Binikini](https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj) | 3:03 |
+| 63 | [Binikini](https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Binikini](https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj) | 3:03 |
+| 64 | [ROMÁNTICA](https://open.spotify.com/track/0sbtnge2Ao6yk4ypmTmOGb) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [ROMÁNTICA](https://open.spotify.com/album/06RVDKvYTLFWIwED9Kv24M) | 3:51 |
 | 65 | [No Vas a Encontrar](https://open.spotify.com/track/1GGpgUDxD5bjEq0OSEDTvc) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN), [R.K.M.](https://open.spotify.com/artist/1g9s0VQvScNH2eh7JCbzUu) | [No Vas a Encontrar](https://open.spotify.com/album/7LEOqYU7W9dFTLwq7xoBd0) | 3:12 |
 | 66 | [Princesa](https://open.spotify.com/track/5ABUWUrqYGMXbF8qCZ5zF9) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Dosis De Amor](https://open.spotify.com/album/7hE53AMbrz2Td4f86WxbGV) | 3:25 |
 | 67 | [Arroyito](https://open.spotify.com/track/5gRcvozPg8roCPDrd1VBQS) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Gratitud](https://open.spotify.com/album/7enkpVoHsPr8ry7GSoZHi9) | 3:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WzB1Rs2vkz.md) - [plain]
 | 74 | [DJ Bachata](https://open.spotify.com/track/5UDHsuQFqklYGe6qzWGU3y) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Radio Güira](https://open.spotify.com/album/3gMqG4ClTg0tjJGBCVx9UH) | 3:29 |
 | 75 | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/track/1RzNRKntEk0KiQE4NFBKmc) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Cosas de la Peda \(feat\. Gabito Ballesteros\)](https://open.spotify.com/album/6w2nSB1vjClXyhZZ59tmKS) | 2:41 |
 
-Snapshot ID: `AAAAAObz7vT4nD1SjBJkJByByO19xhsI`
+Snapshot ID: `AAAAAMFjZvyIlJ79GTLhxj7lp6aGt/0E`

@@ -4,7 +4,7 @@
 
 > Sit back &amp; relax to this peaceful list of restful classics\. Perfect for sleep, study, anti anxiety and anti stress &amp; mindfulness.
 
-95 songs - 5 hr 2 min
+96 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Homecoming](https://open.spotify.com/track/0hTVXCfiA5kF0FJqI92aRP) | [Winterbach](https://open.spotify.com/artist/4txfREMKg4jM1dEtQytJaL) | [Homecoming](https://open.spotify.com/album/3DsJ43Ukihfk6zc2pIIinF) | 2:44 | 2025-10-16 |  |
 | [Howard: Casino](https://open.spotify.com/track/2qNQbTeOisl3z7M9Qkn9vG) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf), [Shani Diluka](https://open.spotify.com/artist/3QFnDCL9APB7hCVnSb0a73) | [Howard: Casino](https://open.spotify.com/album/0vPwaok09E0x6Y6FFAMOpG) | 2:41 | 2025-10-16 |  |
 | [I Wanted to Leave](https://open.spotify.com/track/2Tq3fayHpjP2nOZlBEjt3N) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [You Knew It Was Me](https://open.spotify.com/album/4vjD743S9q9qAgKFtXWJ3a) | 3:23 | 2025-10-16 |  |
+| [I Will Always Love You](https://open.spotify.com/track/2T19CMS17EdI1Ryq4e4S5i) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [The Country Lullaby Album](https://open.spotify.com/album/27DYiBlhpVhbqTl4X56mLv) | 3:09 | 2026-08-07 |  |
 | [Joep Beving: Etude](https://open.spotify.com/track/6wovdUcRwvVGe9gNuKjrcW) | [Dalal](https://open.spotify.com/artist/1ZNA8vzdCn3mKSUSPkCkRJ) | [Joep Beving: Etude](https://open.spotify.com/album/1dS6tP3LX5ANZPKwVXKJ5J) | 4:03 | 2025-10-16 |  |
 | [Karin's Waltz](https://open.spotify.com/track/4q05G5FQBU7qovLEytLPVW) | [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf) | [Burn All My Letters \(Music For The Motion Picture\)](https://open.spotify.com/album/4s74o7LCNdEwByMWGM5XAH) | 1:10 | 2025-10-16 |  |
 | [La Bella](https://open.spotify.com/track/0Y9XVfhxyHcIN5tOo4InBD) | [Moayad Aljabal](https://open.spotify.com/artist/2yIj6bZPIqv5WIYjD5vWZm) | [La Bella](https://open.spotify.com/album/2rNUt1Olcq5w5lWzRBmXN2) | 2:00 | 2026-07-02 |  |

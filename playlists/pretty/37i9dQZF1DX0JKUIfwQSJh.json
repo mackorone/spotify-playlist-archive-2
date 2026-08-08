@@ -1,12 +1,12 @@
 {
   "description": "Rewind and unwind with sirens of the seventies and eighties.",
-  "num_followers": 967939,
+  "num_followers": 967956,
   "original_name": "70s & 80s Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACnt5KGHyduJrzHZG1posiQTQfLG",
+  "snapshot_id": "AAAAACv99EZQzKygScdQq6yQWu4hsUWg",
   "tracks": [
     {
       "added_at": "2024-08-23 14:56:31",
@@ -875,18 +875,18 @@
     {
       "added_at": "2024-08-23 14:56:31",
       "album": {
-        "name": "Pink Moon",
-        "url": "https://open.spotify.com/album/7KyvfoQhqlNLPNb98yY0pf"
+        "name": "You Don't Mess Around With Jim",
+        "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
       },
       "artists": [
         {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
         }
       ],
-      "duration_ms": 123333,
-      "name": "Pink Moon",
-      "url": "https://open.spotify.com/track/16qzGrIMWoxerw2gnW0zuv"
+      "duration_ms": 170759,
+      "name": "Walkin' Back to Georgia",
+      "url": "https://open.spotify.com/track/51ueZKM83MTRv9rgiDfI6Y"
     },
     {
       "added_at": "2024-08-23 14:56:31",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-08-23 14:56:31",
       "album": {
+        "name": "Pink Moon",
+        "url": "https://open.spotify.com/album/7KyvfoQhqlNLPNb98yY0pf"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 123333,
+      "name": "Pink Moon",
+      "url": "https://open.spotify.com/track/16qzGrIMWoxerw2gnW0zuv"
+    },
+    {
+      "added_at": "2024-08-23 14:56:31",
+      "album": {
         "name": "Vanilla Sky (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/5BTAqof8FIlVhXa1JsclU7"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 262600,
       "name": "Solsbury Hill",
       "url": "https://open.spotify.com/track/4tIhDBT9YgxR38EJ7kXN2F"
-    },
-    {
-      "added_at": "2024-08-23 14:56:31",
-      "album": {
-        "name": "You Don't Mess Around With Jim",
-        "url": "https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 170759,
-      "name": "Walkin' Back to Georgia",
-      "url": "https://open.spotify.com/track/51ueZKM83MTRv9rgiDfI6Y"
     },
     {
       "added_at": "2024-08-23 14:56:31",

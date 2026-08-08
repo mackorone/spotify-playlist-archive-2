@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > ค้นพบศิลปินรุ่นใหม่ที่น่าจับตามองปี 2026 ที่นี่เลย! ปก: JayQ
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,860 likes - 34 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,866 likes - 34 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 28 | [Crv](https://open.spotify.com/track/4L2DOfgRpdSF0Qs5WNsaIh) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [Tsunami](https://open.spotify.com/album/7N0xlZESMn9AhX7zzX5tgu) | 3:39 |
 | 29 | [ABUM](https://open.spotify.com/track/4fua2kyOh4I2wQGjuLtSYc) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6) | [ABUM](https://open.spotify.com/album/2rPwuobO3nwliWwrw3IK8F) | 3:32 |
 | 30 | [ผิดจังหวะ \(Off Beat\)](https://open.spotify.com/track/0iLTFTrTcXlIO9EjSgPCGl) | [the ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [ผิดจังหวะ \(Off Beat\)](https://open.spotify.com/album/1y9QFEwGrVNeni6D8XXgJS) | 2:54 |
-| 31 | [จับกุม \(JUB KUM\)](https://open.spotify.com/track/3r4H68mQ7kFORbqnSL151b) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [จับกุม \(JUB KUM\)](https://open.spotify.com/album/4qCctbbJBvQxMayG7409eD) | 3:32 |
-| 32 | [TORNADO](https://open.spotify.com/track/20CQtY1LK30SX1UJltoTBF) | [VVV](https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF) | [TORNADO](https://open.spotify.com/album/2FH6fYeqSyaoxAgpr0SKkb) | 3:40 |
+| 31 | [TORNADO](https://open.spotify.com/track/20CQtY1LK30SX1UJltoTBF) | [VVV](https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF) | [TORNADO](https://open.spotify.com/album/2FH6fYeqSyaoxAgpr0SKkb) | 3:40 |
+| 32 | [จับกุม \(JUB KUM\)](https://open.spotify.com/track/3r4H68mQ7kFORbqnSL151b) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [จับกุม \(JUB KUM\)](https://open.spotify.com/album/4qCctbbJBvQxMayG7409eD) | 3:32 |
 | 33 | [Roo Gun](https://open.spotify.com/track/68v61y5TQzhK6cbUZQ7E3K) | [WAV](https://open.spotify.com/artist/1LDsGA1kCkVtQj2lk5KVOf) | [Tsunami](https://open.spotify.com/album/7N0xlZESMn9AhX7zzX5tgu) | 4:15 |
 | 34 | [ThaiKids](https://open.spotify.com/track/4GlV2xjoki70itp4GMFPgo) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6) | [ThaiKids](https://open.spotify.com/album/7bRV2jXhlJVxHGdA4h7pIy) | 3:18 |
 
-Snapshot ID: `AAAAADmPlc7czOILETfKFQ18YSKYk2Jv`
+Snapshot ID: `AAAAAAk+bW2R4svuuq5F+u34UIh9kULD`

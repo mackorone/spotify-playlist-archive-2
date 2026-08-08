@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,553 likes - 125 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,546 likes - 125 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 38 | [All I Want For Christmas \(Is My Two Front Teeth\)](https://open.spotify.com/track/4xXMJbzVQSCyprr4PG5sBj) | [Nat King Cole Trio](https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ) | [Christmas Classics](https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY) | 2:31 |
 | 39 | [Tis the season](https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Tis the season](https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC) | 3:34 |
 | 40 | [Embraced by White](https://open.spotify.com/track/1vdUu2zoWVijUqmPu2dVV4) | [Smooth Heisters](https://open.spotify.com/artist/0wng90OL4CECFslp36CVSf) | [Embraced by White](https://open.spotify.com/album/329EHbBqemJFz5CKXt6IDp) | 2:25 |
-| 41 | [God Rest Ye, Merry Gentlemen](https://open.spotify.com/track/4uTqFlXMoLOn8qbc50Ib5d) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [God Rest Ye, Merry Gentlemen](https://open.spotify.com/album/4YL35s4guMbT7Sfn696Rny) | 2:00 |
-| 42 | [The Boar's Head Carol](https://open.spotify.com/track/76MGFBv1q0lxsEE6p1Is7t) | [Trio Serena](https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z) | [The Boar's Head Carol](https://open.spotify.com/album/6KMnu9pR2hmYwBP3kDClYb) | 3:19 |
+| 41 | [The Boar's Head Carol](https://open.spotify.com/track/76MGFBv1q0lxsEE6p1Is7t) | [Trio Serena](https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z) | [The Boar's Head Carol](https://open.spotify.com/album/6KMnu9pR2hmYwBP3kDClYb) | 3:19 |
+| 42 | [God Rest Ye, Merry Gentlemen](https://open.spotify.com/track/4uTqFlXMoLOn8qbc50Ib5d) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [God Rest Ye, Merry Gentlemen](https://open.spotify.com/album/4YL35s4guMbT7Sfn696Rny) | 2:00 |
 | 43 | [Bells Of The Season](https://open.spotify.com/track/2ua7VXHPJ1WDYenHa3tTHk) | [Voluntary Dreamers](https://open.spotify.com/artist/42xc9e1Cs3WxkcZ517zNMD) | [Bells of the Season](https://open.spotify.com/album/0f6vnxZ1sYzWJTNz98JPGV) | 2:19 |
 | 44 | [O Holy Night](https://open.spotify.com/track/7HuuaSBXERQWt396J4fxuC) | [Whitby Snell](https://open.spotify.com/artist/3OTOWvIOtIuWDCLStPVCKi) | [O Holy Night](https://open.spotify.com/album/47cnEsOj15N4yVqUg8xq2B) | 4:17 |
 | 45 | [The Night Before Christmas](https://open.spotify.com/track/4aFHfT8vtA7DCamwvh1Rad) | [Greenwich Quartet](https://open.spotify.com/artist/0WfKXLxFT8BbognJ98vMlh) | [The Night Before Christmas](https://open.spotify.com/album/17h2pP4o8KoCOoFpS4IDy7) | 3:38 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 57 | [Ave Maria](https://open.spotify.com/track/4Ed2ZWI33fojtD1FRhVk29) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [That Christmas Feel](https://open.spotify.com/album/1eRIaiBeErayP8Cfve02kJ) | 3:54 |
 | 58 | [Dance of the Sugar Plum Fairy](https://open.spotify.com/track/7h4Ayplz18fKgoPUIWfaJd) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Frosty The Snowman](https://open.spotify.com/album/008Ifp6NdPVfUafKcraamu) | 1:54 |
 | 59 | [Suzy Snowflake](https://open.spotify.com/track/6pu1VBzYfldEBx09o5wEZt) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Suzy Snowflake](https://open.spotify.com/album/7xvbVPATdE2HbNWaSKmwki) | 2:48 |
-| 60 | [Misteltoe](https://open.spotify.com/track/6SJKiadklwqj969ihsTL06) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Misteltoe](https://open.spotify.com/album/6oVj4hoU09YwTQDLmo1e7K) | 2:22 |
-| 61 | [The North Pole Express](https://open.spotify.com/track/1WpxDIN7ccKey5xJm5wTen) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [The North Pole Express](https://open.spotify.com/album/1NbfF4vlT8Eq9rhi78B9S2) | 2:50 |
+| 60 | [The North Pole Express](https://open.spotify.com/track/1WpxDIN7ccKey5xJm5wTen) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [The North Pole Express](https://open.spotify.com/album/1NbfF4vlT8Eq9rhi78B9S2) | 2:50 |
+| 61 | [Misteltoe](https://open.spotify.com/track/6SJKiadklwqj969ihsTL06) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Misteltoe](https://open.spotify.com/album/6oVj4hoU09YwTQDLmo1e7K) | 2:22 |
 | 62 | [Give love on christmas day](https://open.spotify.com/track/0dSzcKjA1PWamU3iokaKBc) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Give love on christmas day](https://open.spotify.com/album/5JcVL1T06yF9q8CoEsGBM4) | 3:21 |
 | 63 | [Snow](https://open.spotify.com/track/3XTSSKo4x9g2Q3K3UyUOui) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc), [Danny Kaye](https://open.spotify.com/artist/4r6DXcqtllstKwEx3ndKMj), [Trudy Stevens](https://open.spotify.com/artist/6Z83RqW2D8bbsxvzhiIcUX) | [Selections From Irving Berlin's White Christmas](https://open.spotify.com/album/5rG6Ih8hHqJ6MX6ml5QiOl) | 2:43 |
 | 64 | [Do you hear what I hear](https://open.spotify.com/track/6vjR177b1q4PVztpoOssHM) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Do you hear what I hear](https://open.spotify.com/album/0SXTCFp6pNWWHv3OgZl4w5) | 2:08 |
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 67 | [When You Wish Upon a Star](https://open.spotify.com/track/3W5YtcTpzuf8lwMJ3lUpeq) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [When You Wish Upon a Star](https://open.spotify.com/album/7kQaJ4QC9MrLkwgzDz4yfI) | 2:47 |
 | 68 | [Grandma Got Run Over By A Reindeer](https://open.spotify.com/track/6YlfwPv17X9gr6K22dR3QY) | [Luke Marantz Trio](https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo) | [Silver Bells](https://open.spotify.com/album/5hTWeCX4XFKNB34Ch6W6oq) | 3:20 |
 | 69 | [Little Drummer Boy](https://open.spotify.com/track/4YKOgDDwKW2lrbwrvqFcVI) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Little Drummer Boy](https://open.spotify.com/album/2LheEqGdlCtcbCTvPZOQtG) | 3:00 |
-| 70 | [O Come All Ye Faithful](https://open.spotify.com/track/6ayK59JrXwTFNIO4l8YeHr) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Deck the Halls](https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop) | 2:40 |
-| 71 | [Away In a Manger](https://open.spotify.com/track/2GRvpoXLoxOiu88ME6YX6y) | [Tannenbaum Trio](https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn) | [Away In a Manger](https://open.spotify.com/album/0zMvwS3xk4yzILsWST0dZ5) | 1:09 |
-| 72 | [The Christmas Song](https://open.spotify.com/track/6XXMs8hRg0KSvopUMSOqzh) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [A Joyful Holiday](https://open.spotify.com/album/2VEsXkmIycyL3VL2vvbneU) | 3:26 |
+| 70 | [The Christmas Song](https://open.spotify.com/track/6XXMs8hRg0KSvopUMSOqzh) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [A Joyful Holiday](https://open.spotify.com/album/2VEsXkmIycyL3VL2vvbneU) | 3:26 |
+| 71 | [O Come All Ye Faithful](https://open.spotify.com/track/6ayK59JrXwTFNIO4l8YeHr) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Deck the Halls](https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop) | 2:40 |
+| 72 | [Away In a Manger](https://open.spotify.com/track/2GRvpoXLoxOiu88ME6YX6y) | [Tannenbaum Trio](https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn) | [Away In a Manger](https://open.spotify.com/album/0zMvwS3xk4yzILsWST0dZ5) | 1:09 |
 | 73 | [The Secret Of Christmas](https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:45 |
 | 74 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/5JfaOWtjZp3blXwvExWtjl) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Trio 64](https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv) | 4:24 |
 | 75 | [Merry Christmas, Darling](https://open.spotify.com/track/2vKFpLFbcnOXNpWGvQibqE) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Merry Christmas, Darling](https://open.spotify.com/album/3E5JNzJzArNy4krXW8xHxd) | 3:54 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 124 | [Last Christmas](https://open.spotify.com/track/2E55IaqlqMsF0NxU7oIIpC) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Jingle Bells](https://open.spotify.com/album/4MC3Lul2Dm1ooAtGVARP0a) | 3:45 |
 | 125 | [I'll Be Home for Christmas](https://open.spotify.com/track/4zRFZPjthYPd5TjBzRPKqg) | [Joel Frahm](https://open.spotify.com/artist/78tGlRBjLrulJ8xqoZw83M), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM) | [I'll Be Home for Christmas](https://open.spotify.com/album/3S8AHWOeNgnRpy7IOdOmWI) | 4:53 |
 
-Snapshot ID: `AAAAALfQzcYsukT9+4y3Qq3wBo3CQmV+`
+Snapshot ID: `AAAAABSuJGD4dxhf/cpBBORtHVIg33ZQ`

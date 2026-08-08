@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 
 > Keep your night easy and light with this acoustic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,115,580 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,115,456 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 25 | [Cool Girl](https://open.spotify.com/track/51ZW0OUvhcO0uyXR3E68bh) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Build A Problem](https://open.spotify.com/album/2oMbQ7W1QddUdasTYrJdzE) | 3:19 |
 | 26 | [Still I Wait](https://open.spotify.com/track/2PxnTu2sRwHWEU40frBGCo) | [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [Still I Wait](https://open.spotify.com/album/6FWJCsTKkSXcnf4LjwVdUi) | 3:49 |
 | 27 | [Bare](https://open.spotify.com/track/0hEUr7PprXg3ia1nl5kEaQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 3:54 |
-| 28 | [The Dream Song](https://open.spotify.com/track/4VzC9UCasqtH2lMsYNyLbF) | [Nathan Reich](https://open.spotify.com/artist/3kyJ9Dtcfsww8eXKdmLvtf) | [All Night Pharmacy](https://open.spotify.com/album/7rnzB9PcNqoE3A0JrYXh3s) | 4:15 |
-| 29 | [love \(aint always so good\)](https://open.spotify.com/track/7lY3juj1MLv4gjpRxkj27Z) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [the death of you & i \- EP](https://open.spotify.com/album/611A5mdzrmqo8cL5B2zFor) | 3:44 |
+| 28 | [love \(aint always so good\)](https://open.spotify.com/track/7lY3juj1MLv4gjpRxkj27Z) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [the death of you & i \- EP](https://open.spotify.com/album/611A5mdzrmqo8cL5B2zFor) | 3:44 |
+| 29 | [The Dream Song](https://open.spotify.com/track/4VzC9UCasqtH2lMsYNyLbF) | [Nathan Reich](https://open.spotify.com/artist/3kyJ9Dtcfsww8eXKdmLvtf) | [All Night Pharmacy](https://open.spotify.com/album/7rnzB9PcNqoE3A0JrYXh3s) | 4:15 |
 | 30 | [Ether Garden](https://open.spotify.com/track/6WsgELUOvr9rf3XWolZYjc) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Gloria Duplex](https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b) | 2:47 |
 | 31 | [Blue Heron](https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 4:28 |
 | 32 | [La Lune](https://open.spotify.com/track/36DcfX0BSdwNHPqsBPQ1AH) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [La Lune](https://open.spotify.com/album/1q07FQXhMgTtjMqOHXycAA) | 3:05 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 56 | [Ballroom](https://open.spotify.com/track/5cJukjG0TQDW3sfW5d7NO2) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Mary Glenn](https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR) | 4:06 |
 | 57 | [Some Kind of Heaven](https://open.spotify.com/track/2lObD7vBRT6ZjyORWDIzLD) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Some Kind of Heaven](https://open.spotify.com/album/6XeaMbpgFQXOvE0QtQOIhH) | 5:10 |
 | 58 | [The Wolves \(Reprise\)](https://open.spotify.com/track/4o9p6bikPh105sEZLM3OzK) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [The Breach EP](https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR) | 4:30 |
-| 59 | [The Last Time I Saw Adrianne](https://open.spotify.com/track/3wmyO7epB7HGP2HOsAWtPW) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:36 |
-| 60 | [I Wish I Knew](https://open.spotify.com/track/4s0mvp3ewGOiPt4Ie8wGBt) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [I Wish I Knew](https://open.spotify.com/album/55MEStsCnRChtFW0bCnz1N) | 3:49 |
-| 61 | [Smoke \- Acoustic](https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer \(Deluxe Version\)](https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y) | 2:32 |
+| 59 | [Smoke \- Acoustic](https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer \(Deluxe Version\)](https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y) | 2:32 |
+| 60 | [The Last Time I Saw Adrianne](https://open.spotify.com/track/3wmyO7epB7HGP2HOsAWtPW) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:36 |
+| 61 | [I Wish I Knew](https://open.spotify.com/track/4s0mvp3ewGOiPt4Ie8wGBt) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [I Wish I Knew](https://open.spotify.com/album/55MEStsCnRChtFW0bCnz1N) | 3:49 |
 | 62 | [Millionaire](https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Granny Music](https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q) | 3:34 |
 | 63 | [The First Time](https://open.spotify.com/track/1KYTFMhgTad8OGgmjkU6rn) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 2:40 |
 | 64 | [I Can’t Hide](https://open.spotify.com/track/56wQ8oN1RxGkTDw1lV7RSM) | [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Waiting](https://open.spotify.com/album/42PYcXkN5YS40eOmFFU2XW) | 2:57 |
@@ -85,15 +85,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 75 | [Bad Dream](https://open.spotify.com/track/2pqKEd7Lbz6EcySnBnGRsA) | [Azure Ray](https://open.spotify.com/artist/70UZ254VvtSUmrfqPOkUQZ) | [Bad Dream](https://open.spotify.com/album/2Kbf7AqWqqAAol13mXAjJD) | 4:10 |
 | 76 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 |
 | 77 | [Nice and Quiet](https://open.spotify.com/track/6FJYO7Oh2DaA1Tl6J0nv5O) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Bedouine](https://open.spotify.com/album/48LoTRKcLWxQiDVCPUhW05) | 3:51 |
-| 78 | [Winter Song](https://open.spotify.com/track/01NSrsQkOZ3PgRcGLGrOT5) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF) | 2:43 |
-| 79 | [I Will Be Blessed](https://open.spotify.com/track/6cBUCs1geaG9q6HQPzRyL0) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/1HWi1cL1VGLCiIYGfvHJmG) | 5:31 |
+| 78 | [I Will Be Blessed](https://open.spotify.com/track/6cBUCs1geaG9q6HQPzRyL0) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/1HWi1cL1VGLCiIYGfvHJmG) | 5:31 |
+| 79 | [Winter Song](https://open.spotify.com/track/01NSrsQkOZ3PgRcGLGrOT5) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF) | 2:43 |
 | 80 | [Re: Stacks](https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 6:41 |
 | 81 | [Nothing Arrived \- Live from Spotify London](https://open.spotify.com/track/4JKHACLkotsxdKNF9vJYOS) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Spotify Sessions](https://open.spotify.com/album/378rFsWTa7DZ8nZVHSaA18) | 3:39 |
 | 82 | [Naked As We Came](https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days](https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt) | 2:32 |
 | 83 | [symbol](https://open.spotify.com/track/7f3xVpWfp3FPursBSrIEMJ) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/5W6TxvIqACEfnxm0VgPhv7) | 3:49 |
 | 84 | [Before the Sun](https://open.spotify.com/track/5g54tKWuCOrHmLppzxzQrt) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Before the Sun](https://open.spotify.com/album/4tCs31ECl6vTX2t5hVOeN2) | 2:48 |
-| 85 | [The Rhine](https://open.spotify.com/track/0gaQPwSznFAihn0xInJUxR) | [Corey Kilgannon](https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk) | [She Is Blue Sky, I'm the Gray](https://open.spotify.com/album/77Gum1zJBVkI3IvVYgaM6X) | 3:30 |
-| 86 | [Bobby](https://open.spotify.com/track/4Zwaww34UGavdW9NSuleck) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lice](https://open.spotify.com/album/5Vcf5ekQ91AngcNKkdMNvL) | 3:23 |
+| 85 | [Bobby](https://open.spotify.com/track/4Zwaww34UGavdW9NSuleck) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lice](https://open.spotify.com/album/5Vcf5ekQ91AngcNKkdMNvL) | 3:23 |
+| 86 | [The Rhine](https://open.spotify.com/track/0gaQPwSznFAihn0xInJUxR) | [Corey Kilgannon](https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk) | [She Is Blue Sky, I'm the Gray](https://open.spotify.com/album/77Gum1zJBVkI3IvVYgaM6X) | 3:30 |
 | 87 | [And You Evade Him/Born in the Blood](https://open.spotify.com/track/3QPb4YCMslM3omndws57Cr) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [And You Evade Him / Born in the Blood](https://open.spotify.com/album/6oHSZUOpJDThDiHdLQbskr) | 4:57 |
 | 88 | [Wake Me](https://open.spotify.com/track/6pOiBHK2mMiSNnPsYNGsEc) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3) | [Folding Leaves](https://open.spotify.com/album/10BngwMbchdQ5W3LN4tFuk) | 5:31 |
 | 89 | [I Knew This Would Be Love](https://open.spotify.com/track/6r44uyKRo3jKFRkThTZBXu) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Fire Escape](https://open.spotify.com/album/0bY6NsCY29oavs7TUmKUvD) | 3:30 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 91 | [Motion Sickness \(Demo \- Bonus Track\)](https://open.spotify.com/track/2JxSX1MtCIAxHGlas7ysJs) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/1p16WxrdVBNIAAxbpZMWJR) | 4:24 |
 | 92 | [All Is Well](https://open.spotify.com/track/77vpyfnzo1ROWQERRRe21h) | [Austin Basham](https://open.spotify.com/artist/3Dd1WVQvZUgyi9XEqOIPhA) | [All Is Well](https://open.spotify.com/album/2p28pzBcrJHjxCBgWV9Exa) | 4:16 |
 | 93 | [Fortune \- Acoustic](https://open.spotify.com/track/5UcsxVPmXd974EkMtowmNV) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Acoustic Sessions](https://open.spotify.com/album/3A3SmcC6PqwOyELYxwqUkK) | 3:48 |
-| 94 | [Top to Toe](https://open.spotify.com/track/1I6hI9D2b1UXZUGoP8ixM0) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Top to Toe](https://open.spotify.com/album/0QdnZNP2WTEGrmKSyMZ6d1) | 3:36 |
-| 95 | [Slow It Down](https://open.spotify.com/track/2bpwl9L3XJxGajMI1KP6sf) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/3q66dhU09HpzTl1bxqsVJ5) | 5:07 |
-| 96 | [Anchor](https://open.spotify.com/track/6x6XKEUcCJGUACD4Xh7KuP) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Anchor](https://open.spotify.com/album/7FTALPLhRQiMuMyaSd1M5d) | 4:16 |
+| 94 | [Slow It Down](https://open.spotify.com/track/2bpwl9L3XJxGajMI1KP6sf) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/3q66dhU09HpzTl1bxqsVJ5) | 5:07 |
+| 95 | [Anchor](https://open.spotify.com/track/6x6XKEUcCJGUACD4Xh7KuP) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Anchor](https://open.spotify.com/album/7FTALPLhRQiMuMyaSd1M5d) | 4:16 |
+| 96 | [Top to Toe](https://open.spotify.com/track/1I6hI9D2b1UXZUGoP8ixM0) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Top to Toe](https://open.spotify.com/album/0QdnZNP2WTEGrmKSyMZ6d1) | 3:36 |
 | 97 | [Nocturne](https://open.spotify.com/track/1rAoMvrhI0Ozalbow7Lu6F) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Nocturne](https://open.spotify.com/album/4Vp0P2uTyyuzZvEyWE2m5e) | 4:28 |
 | 98 | [Poison & Wine](https://open.spotify.com/track/3wsZYuHJrk3lssa7V7jvye) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:39 |
 | 99 | [Even The Darkness Has Arms](https://open.spotify.com/track/1NCAKlp1bFHYbSSDQxfbJ1) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Sleeping Operator](https://open.spotify.com/album/3heNYqE1CUM8WlJGm6UPEj) | 3:50 |
 | 100 | [Sinking Ship](https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Sinking Ship / Back & Forth](https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt) | 4:07 |
 
-Snapshot ID: `AAAAAHYECJh8QeveCaoQnGCy/beJ3u+t`
+Snapshot ID: `AAAAAPpTayzURB3zA2HcMcORJzUEgIuC`

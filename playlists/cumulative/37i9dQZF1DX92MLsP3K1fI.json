@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s fresh! Banda MS en portada \u2728",
+  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s fresh! Mando en portada \u2728",
   "name": "Oye Pop",
   "tracks": [
     {
@@ -3630,7 +3630,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 160312,
       "name": "Drogada de Emociones",
       "url": "https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM"
@@ -4140,7 +4140,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 191892,
       "name": "El Vuelo",
       "url": "https://open.spotify.com/track/48d79eyEINBLKtnV3iBqLJ"
@@ -4236,6 +4236,24 @@
       "duration_ms": 226015,
       "name": "En El Alma",
       "url": "https://open.spotify.com/track/68EoXsE22L4KIq6hYqsOOb"
+    },
+    {
+      "album": {
+        "name": "Enemigo",
+        "url": "https://open.spotify.com/album/7AyrV9hmpUJA692CP1ZPOv"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196187,
+      "name": "Enemigo",
+      "url": "https://open.spotify.com/track/3CxK9DkWqTgtw6bCEcMMVU"
     },
     {
       "album": {
@@ -5845,6 +5863,24 @@
     },
     {
       "album": {
+        "name": "La Espina",
+        "url": "https://open.spotify.com/album/1PxKetu6nc5xn1XtktKOLf"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206662,
+      "name": "La Espina",
+      "url": "https://open.spotify.com/track/0707sTVDEe4EjiNOlz9gO4"
+    },
+    {
+      "album": {
         "name": "LA FOTO",
         "url": "https://open.spotify.com/album/7Hm5bpCKmGmuWwoIcQTCFb"
       },
@@ -6434,6 +6470,46 @@
       "duration_ms": 157575,
       "name": "lo que no pas\u00f3...",
       "url": "https://open.spotify.com/track/10LrAs1T7PLpg82xnxYOzD"
+    },
+    {
+      "album": {
+        "name": "VIGENTE",
+        "url": "https://open.spotify.com/album/5DAgbaRJwSxH1EiTAa0JRx"
+      },
+      "artists": [
+        {
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200125,
+      "name": "Lo Que Por Ti Yo Siento",
+      "url": "https://open.spotify.com/track/2ZPxOkXzHTULbQk5qv4B9s"
+    },
+    {
+      "album": {
+        "name": "LOCA",
+        "url": "https://open.spotify.com/album/2YRaBiBevqYiEjndR3dImN"
+      },
+      "artists": [
+        {
+          "name": "Meri Deal",
+          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157731,
+      "name": "LOCA",
+      "url": "https://open.spotify.com/track/6lJ5XkrK7Nde5P0vd0C5Bj"
     },
     {
       "album": {
@@ -7445,6 +7521,24 @@
     },
     {
       "album": {
+        "name": "Miel",
+        "url": "https://open.spotify.com/album/620p7J6mOz0T0ifzA5jhWN"
+      },
+      "artists": [
+        {
+          "name": "Mando",
+          "url": "https://open.spotify.com/artist/5je9bD2UleIqUBGMNnFyPc"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148094,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/21X8nlKWavnpTzGQoaj667"
+    },
+    {
+      "album": {
         "name": "PERFECTO",
         "url": "https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW"
       },
@@ -7714,7 +7808,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 182564,
       "name": "Motorizado (dime as\u00ed)",
       "url": "https://open.spotify.com/track/4PupcpDxPP34zS2J2y2quX"
@@ -9922,7 +10016,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 142684,
       "name": "Qu\u00e9date Conmigo",
       "url": "https://open.spotify.com/track/0g1sVcIBtO4JHVultHI3RI"
@@ -9980,6 +10074,24 @@
       "duration_ms": 152823,
       "name": "ROCKSTAR",
       "url": "https://open.spotify.com/track/2cmtrnmQcChmE0Pb4cmO0L"
+    },
+    {
+      "album": {
+        "name": "Romantiqueo",
+        "url": "https://open.spotify.com/album/4Y0BamVM6wBrjj1LPwHlLz"
+      },
+      "artists": [
+        {
+          "name": "Pambo",
+          "url": "https://open.spotify.com/artist/6ck4dwtkuGXEJEfWekkx8P"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186805,
+      "name": "Romantiqueo",
+      "url": "https://open.spotify.com/track/3wc0VpeQhWsk9cgLDrlG1C"
     },
     {
       "album": {
@@ -11392,7 +11504,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 155609,
       "name": "Te Am\u00e9 +",
       "url": "https://open.spotify.com/track/6afTXhyxiBpokGmbeCtWCO"
@@ -12032,7 +12144,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 181309,
       "name": "TU CEL PARA ABAJO",
       "url": "https://open.spotify.com/track/0u2jJ5SkdIXYJkTPMdYIT4"

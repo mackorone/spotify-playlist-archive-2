@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 
 > All the winning songs from the annual event celebrating Hollywood's brightest stars.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,305 likes - 53 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,299 likes - 53 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 28 | [Ripples in the Sand](https://open.spotify.com/track/1gqCO3x2MO4KbQfN9pGUlH) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Dune \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/56k8ay5oE5apR61WIeE4wQ) | 5:14 |
 | 29 | [Man Or Muppet](https://open.spotify.com/track/1JyG5yuwpN0VIi4wbqvDfB) | [Jason Segel](https://open.spotify.com/artist/2eaAoOUNWD4RNjmU7Slqi6), [Walter](https://open.spotify.com/artist/5l3UmzjFGoGXxOwJJhfm2D) | [The Muppets \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mahHDhPnuYMbo3sXOEW50) | 2:57 |
 | 30 | [Gravity](https://open.spotify.com/track/2mFea4DOhY3iShay4BQ0se) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 4:35 |
-| 31 | [Al otro lado del río](https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Al otro lado del rio](https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi) | 3:14 |
-| 32 | [Bathroom Dance](https://open.spotify.com/track/4WiqPbWvLbv317E8fB4SJC) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 2:08 |
+| 31 | [Bathroom Dance](https://open.spotify.com/track/4WiqPbWvLbv317E8fB4SJC) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 2:08 |
+| 32 | [Al otro lado del río](https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Al otro lado del rio](https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi) | 3:14 |
 | 33 | [Under the Stars](https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 3:45 |
-| 34 | [Things Have Changed \- Single Version](https://open.spotify.com/track/5KOi77ameCimkAdw0DMNoy) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Side Tracks](https://open.spotify.com/album/6hQZ17lLlz3upoUPX9nBDY) | 5:07 |
-| 35 | [Wakanda](https://open.spotify.com/track/2mjbf9ZvCoYqTi0RZ2FTUJ) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf) | [Black Panther \(Original Score\)](https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK) | 2:20 |
+| 34 | [Wakanda](https://open.spotify.com/track/2mjbf9ZvCoYqTi0RZ2FTUJ) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf) | [Black Panther \(Original Score\)](https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK) | 2:20 |
+| 35 | [Things Have Changed \- Single Version](https://open.spotify.com/track/5KOi77ameCimkAdw0DMNoy) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Side Tracks](https://open.spotify.com/album/6hQZ17lLlz3upoUPX9nBDY) | 5:07 |
 | 36 | [The Portrait \- From "Titanic" Soundtrack](https://open.spotify.com/track/0yIM3MDx8UTwueyoZJobsb) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [Titanic: Original Motion Picture Soundtrack \- Collector's Anniversary Edition](https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs) | 4:43 |
 | 37 | [Colors of the Wind \- From "Pocahontas"](https://open.spotify.com/track/2rnX4QWY4Wc1TCAZ0wK6yP) | [Judy Kuhn](https://open.spotify.com/artist/7tHd518aPjJYUgyv9bidBz) | [Songs and Story: Pocahontas](https://open.spotify.com/album/6uCMCobTioiSEnMgUle7uj) | 3:32 |
 | 38 | [\(I'm Gonna\) Love Me Again](https://open.spotify.com/track/1q8lLOgfciaGLwXCvOpH6w) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Taron Egerton](https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD) | [Rocketman \(Music From The Motion Picture\)](https://open.spotify.com/album/16iIPsnAjGZea8TeOCzeN8) | 4:10 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cW2nLJVrZg.md) - [plain]
 | 52 | [The Weary Kind \(Theme from Crazy Heart\)](https://open.spotify.com/track/4RNWtg4RBgomLc5evNQCsi) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Crazy Heart: Original Motion Picture Soundtrack \(Deluxe Edition\)](https://open.spotify.com/album/37dvCriHpMVzbmJGmNqLGz) | 4:18 |
 | 53 | [Williams: E.T\. \- Flying Theme](https://open.spotify.com/track/6resX7nabqQ0msLufgxBy7) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [John Williams \- Star Wars and Beyond](https://open.spotify.com/album/6YffFzDclLJoaHMD7NX5Uj) | 3:45 |
 
-Snapshot ID: `AAAAALB8NMqa0Ey4Oxp77wrFwkz0GJI5`
+Snapshot ID: `AAAAANtTZVkg6PSfjQ7NBfrBOWPGH0K7`

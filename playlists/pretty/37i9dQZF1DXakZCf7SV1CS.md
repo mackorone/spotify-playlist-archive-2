@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,133 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,152 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 8 | [claws](https://open.spotify.com/track/7Dexi5Z2IowCkHrnzlWysc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:29 |
 | 9 | [spy?](https://open.spotify.com/track/0QsZ3W21xNvnUnUMbiAY4z) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 2:33 |
 | 10 | [Mine](https://open.spotify.com/track/18uOcUO5mNEYHHigeXPgQM) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Mine](https://open.spotify.com/album/3SQr5VHmYRkAGGMTCBbbnP) | 2:39 |
-| 11 | [VYZEE](https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [VYZEE](https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe) | 3:22 |
-| 12 | [hand crushed by a mallet](https://open.spotify.com/track/7CUkeiG7QtB7tPU9f8SANS) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:06 |
+| 11 | [hand crushed by a mallet](https://open.spotify.com/track/7CUkeiG7QtB7tPU9f8SANS) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:06 |
+| 12 | [VYZEE](https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [VYZEE](https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe) | 3:22 |
 | 13 | [astrid](https://open.spotify.com/track/3SpRtNO7GKWaFyWydXArvn) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [cypress grove](https://open.spotify.com/album/0cF9M8eWDJfgbf0XtyrTL9) | 1:41 |
 | 14 | [When I Rule the World](https://open.spotify.com/track/7nu0Lc0jJltztDxsGeoPiG) | [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6) | [When I Rule the World](https://open.spotify.com/album/2yqtOR8q6lSbLQp7Bka74v) | 3:05 |
 | 15 | [fantasize](https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [fantasize](https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 99 | [Sorry Bro \(I Love You\)](https://open.spotify.com/track/5mcQEEsF7qB67sxzoVJvhC) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [My Agenda](https://open.spotify.com/album/2QFXjy3u6Bl6ctdK9FS9eF) | 1:27 |
 | 100 | [istillmissu](https://open.spotify.com/track/1CaNhBI6BSvuit0Wv2GI3c) | [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc) | [istillmissu](https://open.spotify.com/album/7azXfougJlzX392ac1Mxha) | 2:57 |
 
-Snapshot ID: `AAAAAIrU37pwIR+D/kL+jGWB5f4gImv5`
+Snapshot ID: `AAAAAABF99pO0gpB/RCMa2mbKlhlHRUe`

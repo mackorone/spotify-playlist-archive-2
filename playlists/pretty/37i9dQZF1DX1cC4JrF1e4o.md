@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cC4JrF1e4o.md) - [plain]
 
 > Timeless and smooth\. Here are your favorite crooners\. Cover: Nat King Cole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,433 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,528 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cC4JrF1e4o.md) - [plain]
 | 49 | [Feeling Good](https://open.spotify.com/track/6pY1AWqj42B5pngwtgyTJ4) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D) | [The Sammy Davis Jr\. Show with Special Guests Stars Frank Sinatra and Dean Martin](https://open.spotify.com/album/4pBkKEwLMmRQAHLYEDAaZB) | 3:03 |
 | 50 | [If I Had You](https://open.spotify.com/track/79nMHWTfds6KJu5zWQbQ4n) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers](https://open.spotify.com/album/7qK1Ds1huhA9XyVZBx9kkx) | 3:50 |
 
-Snapshot ID: `AAAAANs5G+vdzJ2basj2o8VJbZMxgyZn`
+Snapshot ID: `AAAAAMVzbcSy3wMYiisCyg9bjl6TiMdy`

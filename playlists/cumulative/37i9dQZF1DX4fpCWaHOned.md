@@ -4,7 +4,7 @@
 
 > Sabrina Carpenter\. Period.
 
-611 songs - 1 day 9 hr 20 min
+612 songs - 1 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [7 rings](https://open.spotify.com/track/14msK75pk3pA33pzPVNtBF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [7 rings](https://open.spotify.com/album/03D36t8ODrA8ATvoTStU9P) | 2:58 | 2019-07-29\* | 2021-10-13 |
 | [A Sky Full of Stars](https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:27 | 2019-10-25 | 2019-10-26 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-04-15 | 2023-02-04 |
+| [Ain't In LA](https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Ain't In LA](https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s) | 3:04 | 2026-08-07 |  |
 | [Ain't My Fault](https://open.spotify.com/track/4nA0biSjtvOL41Hd9MBXqR) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Ain't My Fault](https://open.spotify.com/album/1w0fs0y7Kb83F6ZmPpTDIB) | 3:44 | 2019-08-26 | 2019-08-27 |
 | [Ain't Shit](https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:54 | 2021-07-10 | 2021-10-16 |
 | [ALIEN SUPERSTAR](https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:35 | 2022-07-29 | 2022-09-27 |
@@ -60,7 +61,7 @@
 | [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 | 2023-01-05 | 2023-04-01 |
 | [Blow Out My Candle](https://open.spotify.com/track/1cK0KFqlnTQC6oqPh3CXt2) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Blow Out My Candle](https://open.spotify.com/album/2bc0REgbhglGuJH3Mt4hmk) | 2:59 | 2022-06-03 | 2022-07-29 |
 | [Body Of Water](https://open.spotify.com/track/3t3nRJMR8dvWySXrgGUpyD) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Pop?](https://open.spotify.com/album/36IWTKTouQV9aExZzuG6sP) | 3:08 | 2021-12-10 | 2022-01-08 |
-| [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 | 2025-02-07 |  |
+| [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 | 2025-02-07 | 2026-08-08 |
 | [Born This Way](https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:20 | 2023-02-03 | 2023-09-30 |
 | [Born This Way](https://open.spotify.com/track/6wAdqKcL7uESrsekjLTKod) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way](https://open.spotify.com/album/6brEmLzLxjAOB0KcXdT7ye) | 4:20 | 2019-08-26 | 2022-04-21 |
 | [Boss Bitch](https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Boss Bitch](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc) | 2:14 | 2022-03-25 |  |

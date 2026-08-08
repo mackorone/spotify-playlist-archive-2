@@ -4,7 +4,7 @@
 
 > Relaxe com hinos acústicos\. Foto: Fernandinho
 
-171 songs - 12 hr 41 min
+172 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Minha Força](https://open.spotify.com/track/6jvr1b5DlWhl5zcxjBPVnm) | [Jay Santana](https://open.spotify.com/artist/5u3U0XJCLzRu1x7ohiO3do), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Minha Força](https://open.spotify.com/album/6dP0Tgs1NVNEAIP2a45OGB) | 4:11 | 2024-06-28 | 2024-08-24 |
 | [Misericórdia És](https://open.spotify.com/track/5AKt5pJIlou7XCZvWH1hGV) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Misericórdia És](https://open.spotify.com/album/03LxqclfFIJNh2fmPdqWCG) | 2:34 | 2023-02-03 | 2023-03-25 |
 | [Muda os Planos \- Ao Vivo](https://open.spotify.com/track/6IMGV8bFVfP8SARKRnWDfs) | [Ventania](https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Nalú](https://open.spotify.com/artist/0YaxG7PCq40nc8tKcMkrgx) | [Muda os Planos \(Ao Vivo\)](https://open.spotify.com/album/3sAkhNWVeIjO8GWWc8YFSk) | 4:50 | 2022-09-02 |  |
+| [Mística \(Agora\)](https://open.spotify.com/track/4xshn2BR775ekAjODe6EfG) | [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR) | [Mística \(Agora\)](https://open.spotify.com/album/64Y7YKpoorYdOOUaHBub4g) | 5:14 | 2026-08-07 |  |
 | [Na Casa](https://open.spotify.com/track/4ogfIbc7uyb6M2btL5VJXj) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Na Casa](https://open.spotify.com/album/3CXvWLGCOKSVO8qI6dDqMN) | 3:11 | 2022-09-02 | 2022-11-26 |
 | [Nada vai me separar \(Acústico\)](https://open.spotify.com/track/3lvW6YlRwTIhRkrFsqpXyD) | [Thamires Garcia](https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w) | [Nada vai me separar \(Acústico\)](https://open.spotify.com/album/2LEQUVyuNA0EveW6JSeIGw) | 4:38 | 2023-10-20 | 2024-04-19 |
 | [Nada vai me separar \- Acústico](https://open.spotify.com/track/3Gx2PliooXRtT5Budt9Oc0) | [Thamires Garcia](https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w) | [Nada vai me separar \(Acústico\)](https://open.spotify.com/album/0OnNop3rDPF1YGjO94Okju) | 4:38 | 2023-09-25 |  |
@@ -168,7 +169,7 @@
 | [Teu Amor Por Mim](https://open.spotify.com/track/6uDKN3fyXi2zu0ZNapjtkz) | [Igor Roque](https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8) | [Teu Amor Por Mim](https://open.spotify.com/album/4NXpbo0APYOP2Q8waVCdtK) | 3:05 | 2024-07-19 |  |
 | [Teus Sonhos \- Acústico](https://open.spotify.com/track/5nzYFnyJ8E8l8NPzWGrc4u) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Série Acústica Com Fernandinho, Vol\. 2 \(Acústico\)](https://open.spotify.com/album/6auA8qJDI0OqKehNzbWc6q) | 4:25 | 2022-09-02 |  |
 | [Tomou o Meu Lugar](https://open.spotify.com/track/4m27IBRu2hbprZK1iTtvgc) | [Novo Tempo](https://open.spotify.com/artist/4hSwClI41RKuFb46itnL5e), [Alisson Melo](https://open.spotify.com/artist/0KXjceqW1OcoZhMJ3kSN3d), [Jeferson Pillar](https://open.spotify.com/artist/4vqAhxv4WcsEcTv34ABpcZ) | [Tomou o Meu Lugar](https://open.spotify.com/album/2FaHAoJgaGXFF5Z6fOlTLZ) | 6:50 | 2022-09-02 | 2023-02-04 |
-| [Troco](https://open.spotify.com/track/0eC7kRIfqQdJfh8A07PUwv) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Troco](https://open.spotify.com/album/0iXI8HqnYqnKJpfe6EpRcA) | 4:00 | 2023-08-18 |  |
+| [Troco](https://open.spotify.com/track/0eC7kRIfqQdJfh8A07PUwv) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Troco](https://open.spotify.com/album/0iXI8HqnYqnKJpfe6EpRcA) | 4:00 | 2023-08-18 | 2026-08-08 |
 | [Tuas Águas \- Acústico](https://open.spotify.com/track/7yJwYawfVF1zgWMSafKy0d) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ) | [Tuas Águas \(Acústico\)](https://open.spotify.com/album/7oLCOJrKBLzIZXa0amcQ0t) | 4:59 | 2022-09-02 |  |
 | [Tá Chorando Por Quê?](https://open.spotify.com/track/5NsIWuO8yute6RHF3Ij7cE) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Luã Freitas](https://open.spotify.com/artist/4UMGppJsc6C4FcmmSle7hY) | [Tá Chorando Por Quê?](https://open.spotify.com/album/7eZ3qo42FAWFHue9UkuHv5) | 3:34 | 2022-09-02 | 2024-08-17 |
 | [Tá Tudo Bem \- Ao Vivo](https://open.spotify.com/track/4lzbIdD7vHpWMs0SLIC2pa) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Tá Tudo Bem \(Ao Vivo\)](https://open.spotify.com/album/6z2cMD2LWQgWA0C5YRVqXu) | 4:02 | 2024-04-26 |  |

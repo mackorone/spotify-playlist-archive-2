@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,750 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,754 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 31 | [Higher](https://open.spotify.com/track/0f8Xy3OX3eW75Z6jFJiko3) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 3:11 |
 | 32 | [Prayer Request II](https://open.spotify.com/track/5hwr611SqLRgG68fc7sxUt) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [jahmiel](https://open.spotify.com/artist/1pcKqVZ7T90mJ2rKo9XWYV), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Prayer Request II](https://open.spotify.com/album/4qwP9cnMh0yYshFmZxybfQ) | 3:11 |
 | 33 | [Magbe \(feat\. Patoranking\)](https://open.spotify.com/track/2eMMRo8tqHXxnFBl9cbqK7) | [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Alagbe](https://open.spotify.com/album/5rTOCA3AYjkVc01JULfZhn) | 2:53 |
-| 34 | [Wait Refix](https://open.spotify.com/track/62NcIDnYukwleoEHIJYvdL) | [Solidstar](https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [W.E.E.D.](https://open.spotify.com/album/5HXfLb3qCRLpkDiRAHWTrY) | 4:41 |
-| 35 | [Something Nice](https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Something Nice](https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv) | 3:29 |
+| 34 | [Something Nice](https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Something Nice](https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv) | 3:29 |
+| 35 | [Wait Refix](https://open.spotify.com/track/62NcIDnYukwleoEHIJYvdL) | [Solidstar](https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [W.E.E.D.](https://open.spotify.com/album/5HXfLb3qCRLpkDiRAHWTrY) | 4:41 |
 | 36 | [Spiritual \(feat\. Kuami Eugene & Patoranking\)](https://open.spotify.com/track/20v09gzHogJdM5a3GLpR4p) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [The Golden Boy](https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX) | 3:37 |
 | 37 | [Yo Body](https://open.spotify.com/track/7gw2JZuedwF7jQEaoG8vPP) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Three](https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K) | 3:09 |
 | 38 | [Rudi \(feat\. Patoranking\)](https://open.spotify.com/track/5UTUhxdfkdIxXoXSJzOeUO) | [Rich Mavoko](https://open.spotify.com/artist/0KajUilOQQilNNtReM67Kp), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Rudi \(feat\. Patoranking\)](https://open.spotify.com/album/7GBbTkIxylA9vWLPJkBNDt) | 3:39 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 45 | [Sober \(Soo Bad\)](https://open.spotify.com/track/1oXiXYq3yaWcMZueIwglk8) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Sober \(Soo Bad\)](https://open.spotify.com/album/2OGRwWN158HOar0I9g2lzU) | 3:40 |
 | 46 | [Halé Halé](https://open.spotify.com/track/5iplDHszJoCNrY3AoYbjQH) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [God Over Everything](https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R) | 3:28 |
 | 47 | [Daniella Whine](https://open.spotify.com/track/70iRqEVEdQsvP3mzHdJSbG) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Daniella Whine \- single](https://open.spotify.com/album/2KPrCbHxw6FjOnX9N7bFyR) | 4:04 |
-| 48 | [No Jonze](https://open.spotify.com/track/1SCdGgPJpO3r4e92NhqG6g) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [No Jonze](https://open.spotify.com/album/6xKQhBvfudkxhTYwXCQAob) | 2:37 |
-| 49 | [Players](https://open.spotify.com/track/4rxPLU1Xvz61CUOckR6utg) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [A.W.A.M.](https://open.spotify.com/album/26Q4esPJ7U0noOyhSCxb1S) | 3:39 |
+| 48 | [Players](https://open.spotify.com/track/4rxPLU1Xvz61CUOckR6utg) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [A.W.A.M.](https://open.spotify.com/album/26Q4esPJ7U0noOyhSCxb1S) | 3:39 |
+| 49 | [No Jonze](https://open.spotify.com/track/1SCdGgPJpO3r4e92NhqG6g) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [No Jonze](https://open.spotify.com/album/6xKQhBvfudkxhTYwXCQAob) | 2:37 |
 | 50 | [Control Me](https://open.spotify.com/track/7wx6ccroZbXnrfH4zTbCpv) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 2:55 |
 
-Snapshot ID: `anJ9AAAAAADWbADP4GOuUHhR+xyUdvBs`
+Snapshot ID: `anPOgAAAAAB3U3TejR7/2NSsXmoHs4FD`

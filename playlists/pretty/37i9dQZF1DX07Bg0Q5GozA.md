@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Solomun, Inéz
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,338 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,312 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [1000 Ways](https://open.spotify.com/track/7HohY6Vgz1aoZfgKB6iL1J) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [A Love For Strangers](https://open.spotify.com/album/2TU0EWGL5Xj54K2254HToc) | 4:04 |
 | 75 | [U Can't Come Home](https://open.spotify.com/track/6cB7xUxRQgx1k9WwvRNoPr) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [TS Graye](https://open.spotify.com/artist/5qB8VZFvQcnDIrsj4jBMU9) | [U Can’t Come Home](https://open.spotify.com/album/6L71fSWcS2PbjB6B9slBqO) | 3:16 |
 
-Snapshot ID: `AAAAAOPeS6xl7pXfuETmPdZMBKnwtocS`
+Snapshot ID: `AAAAAHQF4rmg5e6AAj9ZW8wHxa0jBE8w`

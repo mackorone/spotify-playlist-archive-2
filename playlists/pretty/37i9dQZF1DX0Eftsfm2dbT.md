@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopの最新注目曲をまとめてチェック cover: Kamui \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,039 likes - 101 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,087 likes - 101 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 100 | [MICHAEL KORS \(feat\. Sad Kid Yaz\)](https://open.spotify.com/track/3D6j8lWfYdw91qnzebntk8) | [Worldwide Skippa](https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z), [Sad Kid Yaz](https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs) | [MICHAEL KORS \(feat\. Sad Kid Yaz\)](https://open.spotify.com/album/4QPjie1HER1q9TcFrOYcOg) | 3:05 |
 | 101 | [アンモナイト](https://open.spotify.com/track/1tcc9n8NVMnNtk9Jo8H4BJ) | [SUSHIBOYS](https://open.spotify.com/artist/7FFaFas6TD1PhMtJ1xel8J) | [アンモナイト](https://open.spotify.com/album/2vdAlVS6EwpC5OqVJXFdCb) | 2:45 |
 
-Snapshot ID: `AAAAAINnn8kBaRTMZlkKdyCG5drYOSd5`
+Snapshot ID: `AAAAACbIk9LR/eWMmhn6ahYMtSa0ofzj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 
 > Classic Country from the Legends of the 1940's\. Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Ernest Tubb
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,456 likes - 70 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,458 likes - 70 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 48 | [Divorce Me C.O.D.](https://open.spotify.com/track/1G2h2cFriv1KMHZ1rmfWnt) | [Merle Travis](https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q) | [The Merle Travis Story](https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0) | 2:15 |
 | 49 | [Tumbling Tumbleweeds](https://open.spotify.com/track/29IohmaYFMxVuHTUfBnDg3) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [My Favorite Country Songs](https://open.spotify.com/album/1W83zQvCTECzjAVi0byoUU) | 3:05 |
 | 50 | [My Window Faces the South](https://open.spotify.com/track/4SAvq8Fem0hqUlkP0dxXQ1) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [Classic Western Swing](https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX) | 2:08 |
-| 51 | [My Poncho Pony](https://open.spotify.com/track/6fd9C9eLf763fgUmAM7fu5) | [Patsy Montana](https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG) | [Presenting Patsy Montana](https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41) | 2:54 |
-| 52 | [Candy Kisses](https://open.spotify.com/track/4JJ1gdFvZVlnLW9QTKOaeO) | [George Morgan](https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ) | [The Columbia Singles Collection \(1949\-1964\)](https://open.spotify.com/album/482S22hQgNU0XOkZNODICb) | 2:52 |
+| 51 | [Candy Kisses](https://open.spotify.com/track/4JJ1gdFvZVlnLW9QTKOaeO) | [George Morgan](https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ) | [The Columbia Singles Collection \(1949\-1964\)](https://open.spotify.com/album/482S22hQgNU0XOkZNODICb) | 2:52 |
+| 52 | [My Poncho Pony](https://open.spotify.com/track/6fd9C9eLf763fgUmAM7fu5) | [Patsy Montana](https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG) | [Presenting Patsy Montana](https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41) | 2:54 |
 | 53 | [Slow Poke](https://open.spotify.com/track/0h45YvcNfRRpf5D34vVgOr) | [Pee Wee King & His Golden West Cowboys](https://open.spotify.com/artist/3iywlJzFl8iYgp3112qt31) | [Nippers 50's\-Vol.1](https://open.spotify.com/album/1qtqjUCRgbkkxWkbOKchJq) | 3:00 |
 | 54 | [Heavy Traffic Ahead](https://open.spotify.com/track/3cRYM2V4teCLpVoF0pmrNr) | [Bill Monroe](https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H) | [Columbia Historic Edition](https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l) | 2:51 |
 | 55 | [You Two\-Timed Me One Time Too Often](https://open.spotify.com/track/57nxoqxbSS7iWoLuBBIOQu) | [Tex Ritter](https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G) | [Capitol Collectors Series](https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV) | 2:41 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 69 | [Move It On Over](https://open.spotify.com/track/5tQwMi9LK7kkS9GgkF35nJ) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [The Complete Hank Williams](https://open.spotify.com/album/6tQ1p5gjEujiZGAK10pY1f) | 2:43 |
 | 70 | [Sioux city sue](https://open.spotify.com/track/0qHMIiiuMFcZD5UaxyUBzv) | [Hoosier Hot Shots](https://open.spotify.com/artist/48DbQNUj1qitHuw2cLgNph) | [Everybody Stomp \- Rag Time](https://open.spotify.com/album/5sERGlazXrWducJ81Ro3nL) | 2:52 |
 
-Snapshot ID: `AAAAAPVxxXSVUcQS+IVXp6NbrCpVfzHV`
+Snapshot ID: `AAAAAInbgt6JIapzITXJwlbdE/0fSlgx`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB9M/KX9xHBwM+SQ18lluLkGmVTi",
+  "snapshot_id": "AAAAAK/eBH6P+/sVUmqHmF/VpKqKxG4u",
   "tracks": [
     {
       "added_at": "2025-01-14 15:45:22",
@@ -399,18 +399,18 @@
     {
       "added_at": "2025-01-14 15:45:22",
       "album": {
-        "name": "What a Wonderful Dream!!",
-        "url": "https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1"
+        "name": "Second Sparkle",
+        "url": "https://open.spotify.com/album/174XCy9uPbeni6paFwenJP"
       },
       "artists": [
         {
-          "name": "\u5d50 \u5343\u7802\u90fd (CV.\u5cac \u306a\u3053)",
-          "url": "https://open.spotify.com/artist/44iPyW0GCQm1Qk5e5UPT8H"
+          "name": "\u5e73\u5b89\u540d\u3059\u307f\u308c (CV.\u30da\u30a4\u30c8\u30f3\u5c1a\u672a)",
+          "url": "https://open.spotify.com/artist/6LHaUvM2Rg2ct1FyJZAUKn"
         }
       ],
-      "duration_ms": 215952,
-      "name": "Flyer's High",
-      "url": "https://open.spotify.com/track/48ytoosfx8XQFWBRsWOXSS"
+      "duration_ms": 248290,
+      "name": "Starry Prayer",
+      "url": "https://open.spotify.com/track/7cGH6rmdQga1CpehVY8HwS"
     },
     {
       "added_at": "2025-01-14 15:45:22",
@@ -459,6 +459,22 @@
       "duration_ms": 270579,
       "name": "\u6c34\u8272\u306eSunday",
       "url": "https://open.spotify.com/track/3t3UHk7f0u6q6ZIl7i4UJg"
+    },
+    {
+      "added_at": "2025-01-14 15:45:22",
+      "album": {
+        "name": "What a Wonderful Dream!!",
+        "url": "https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1"
+      },
+      "artists": [
+        {
+          "name": "\u5d50 \u5343\u7802\u90fd (CV.\u5cac \u306a\u3053)",
+          "url": "https://open.spotify.com/artist/44iPyW0GCQm1Qk5e5UPT8H"
+        }
+      ],
+      "duration_ms": 215952,
+      "name": "Flyer's High",
+      "url": "https://open.spotify.com/track/48ytoosfx8XQFWBRsWOXSS"
     },
     {
       "added_at": "2025-01-14 15:45:22",
@@ -588,13 +604,13 @@
       },
       "artists": [
         {
-          "name": "\u7c73\u5973\u30e1\u30a4 (CV.\u85ae\u5cf6\u6731\u97f3)",
-          "url": "https://open.spotify.com/artist/7kcbAeii9YxDGxRqBFIyrU"
+          "name": "\u82e5\u83dc\u56db\u5b63 (CV.\u5927\u718a\u548c\u594f)",
+          "url": "https://open.spotify.com/artist/5dQJ5gnjrA2MQEmPRzvt4O"
         }
       ],
-      "duration_ms": 217505,
-      "name": "\u30d1\u30ec\u30fc\u30c9\u306f\u3044\u3064\u3082 - \u7c73\u5973\u30e1\u30a4 Ver.",
-      "url": "https://open.spotify.com/track/3dnba4vbNNqYf6Y6arfiup"
+      "duration_ms": 218497,
+      "name": "\u30d1\u30ec\u30fc\u30c9\u306f\u3044\u3064\u3082 - \u82e5\u83dc\u56db\u5b63 Ver.",
+      "url": "https://open.spotify.com/track/6U3718dDUjqpbWzkW0NxQF"
     },
     {
       "added_at": "2025-01-14 15:45:22",
@@ -604,13 +620,13 @@
       },
       "artists": [
         {
-          "name": "\u82e5\u83dc\u56db\u5b63 (CV.\u5927\u718a\u548c\u594f)",
-          "url": "https://open.spotify.com/artist/5dQJ5gnjrA2MQEmPRzvt4O"
+          "name": "\u7c73\u5973\u30e1\u30a4 (CV.\u85ae\u5cf6\u6731\u97f3)",
+          "url": "https://open.spotify.com/artist/7kcbAeii9YxDGxRqBFIyrU"
         }
       ],
-      "duration_ms": 218497,
-      "name": "\u30d1\u30ec\u30fc\u30c9\u306f\u3044\u3064\u3082 - \u82e5\u83dc\u56db\u5b63 Ver.",
-      "url": "https://open.spotify.com/track/6U3718dDUjqpbWzkW0NxQF"
+      "duration_ms": 217505,
+      "name": "\u30d1\u30ec\u30fc\u30c9\u306f\u3044\u3064\u3082 - \u7c73\u5973\u30e1\u30a4 Ver.",
+      "url": "https://open.spotify.com/track/3dnba4vbNNqYf6Y6arfiup"
     },
     {
       "added_at": "2025-01-14 15:45:22",
@@ -636,13 +652,13 @@
       },
       "artists": [
         {
-          "name": "\u8449\u6708 \u604b (CV.\u9752\u5c71\u306a\u304e\u3055)",
-          "url": "https://open.spotify.com/artist/0VWeMWIDKNxCARCogBoyyD"
+          "name": "\u5510 \u53ef\u53ef (CV.Liyuu)",
+          "url": "https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI"
         }
       ],
-      "duration_ms": 211968,
-      "name": "\u8ff7\u5bae\u8b83\u6b4c - \u8449\u6708 \u604b Ver.",
-      "url": "https://open.spotify.com/track/47KDLm74BUrouKPQLr8bhi"
+      "duration_ms": 155878,
+      "name": "\u30a8\u30f3\u30c9\u30ec\u30b9\u30b5\u30fc\u30ad\u30c3\u30c8 - \u5510 \u53ef\u53ef Ver.",
+      "url": "https://open.spotify.com/track/5v8NI6etnhsmj6MmzkbBpm"
     },
     {
       "added_at": "2025-01-14 15:45:22",
@@ -652,13 +668,13 @@
       },
       "artists": [
         {
-          "name": "\u5510 \u53ef\u53ef (CV.Liyuu)",
-          "url": "https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI"
+          "name": "\u8449\u6708 \u604b (CV.\u9752\u5c71\u306a\u304e\u3055)",
+          "url": "https://open.spotify.com/artist/0VWeMWIDKNxCARCogBoyyD"
         }
       ],
-      "duration_ms": 155878,
-      "name": "\u30a8\u30f3\u30c9\u30ec\u30b9\u30b5\u30fc\u30ad\u30c3\u30c8 - \u5510 \u53ef\u53ef Ver.",
-      "url": "https://open.spotify.com/track/5v8NI6etnhsmj6MmzkbBpm"
+      "duration_ms": 211968,
+      "name": "\u8ff7\u5bae\u8b83\u6b4c - \u8449\u6708 \u604b Ver.",
+      "url": "https://open.spotify.com/track/47KDLm74BUrouKPQLr8bhi"
     },
     {
       "added_at": "2025-01-14 15:45:22",
@@ -771,22 +787,6 @@
       "duration_ms": 215277,
       "name": "\u541b\u3092\u60f3\u3046\u82b1\u306b\u306a\u308b",
       "url": "https://open.spotify.com/track/1FVbpHeODljyh4ppzVimHr"
-    },
-    {
-      "added_at": "2025-01-14 15:45:22",
-      "album": {
-        "name": "Second Sparkle",
-        "url": "https://open.spotify.com/album/174XCy9uPbeni6paFwenJP"
-      },
-      "artists": [
-        {
-          "name": "\u5e73\u5b89\u540d\u3059\u307f\u308c (CV.\u30da\u30a4\u30c8\u30f3\u5c1a\u672a)",
-          "url": "https://open.spotify.com/artist/6LHaUvM2Rg2ct1FyJZAUKn"
-        }
-      ],
-      "duration_ms": 248290,
-      "name": "Starry Prayer",
-      "url": "https://open.spotify.com/track/7cGH6rmdQga1CpehVY8HwS"
     },
     {
       "added_at": "2025-01-14 15:45:22",

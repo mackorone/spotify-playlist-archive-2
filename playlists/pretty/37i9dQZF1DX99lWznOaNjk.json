@@ -1,13 +1,109 @@
 {
   "description": "Today's biggest and most exciting videos. Music videos available only on Premium.",
-  "num_followers": 24830,
+  "num_followers": 24988,
   "original_name": "Today's Top Videos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANjoeonQoSC8GdslGOuXNigM4Qgb",
+  "snapshot_id": "AAAAAHJUW7xvrfW0gEL/LlzJDkOTOxJU",
   "tracks": [
+    {
+      "added_at": "2026-08-07 20:20:04",
+      "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 184248,
+      "name": "petal",
+      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
+    },
+    {
+      "added_at": "2026-08-07 20:20:04",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 158494,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
+    },
+    {
+      "added_at": "2026-08-07 20:20:04",
+      "album": {
+        "name": "Less than a Lover",
+        "url": "https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 145680,
+      "name": "Less than a Lover",
+      "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
+    },
+    {
+      "added_at": "2026-08-07 20:20:04",
+      "album": {
+        "name": "Ain't In LA",
+        "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 184927,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
+    },
+    {
+      "added_at": "2026-06-10 01:33:51",
+      "album": {
+        "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
+        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
+      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
+    },
+    {
+      "added_at": "2026-07-21 23:55:43",
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 189898,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
+    },
     {
       "added_at": "2026-06-27 14:23:37",
       "album": {
@@ -77,36 +173,20 @@
       "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     },
     {
-      "added_at": "2026-06-10 01:33:51",
+      "added_at": "2026-08-07 20:20:04",
       "album": {
-        "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
-        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
         }
       ],
-      "duration_ms": 178186,
-      "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
-      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
-    },
-    {
-      "added_at": "2026-07-21 23:55:43",
-      "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 189898,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
       "added_at": "2026-06-10 01:33:51",
@@ -297,22 +377,6 @@
       "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
     },
     {
-      "added_at": "2026-05-15 23:36:22",
-      "album": {
-        "name": "Hit the Wall",
-        "url": "https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 194376,
-      "name": "Hit the Wall",
-      "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
-    },
-    {
       "added_at": "2026-04-28 18:00:39",
       "album": {
         "name": "The Visitor",
@@ -365,22 +429,6 @@
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
-      "added_at": "2026-03-09 16:57:17",
-      "album": {
-        "name": "Kiss All The Time. Disco, Occasionally.",
-        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "American Girls",
-      "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
-    },
-    {
       "added_at": "2026-04-03 19:49:35",
       "album": {
         "name": "Choosin' Texas",
@@ -413,26 +461,6 @@
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
-      "added_at": "2026-02-20 01:04:45",
-      "album": {
-        "name": "The Boy Who Played the Harp",
-        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 219743,
-      "name": "Raindance (feat. Tems)",
-      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
-    },
-    {
       "added_at": "2026-06-10 01:33:51",
       "album": {
         "name": "The Life of a Showgirl",
@@ -463,38 +491,6 @@
       "duration_ms": 197142,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
-    },
-    {
-      "added_at": "2026-04-03 19:49:35",
-      "album": {
-        "name": "Manchild",
-        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 213645,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
-    },
-    {
-      "added_at": "2026-02-06 13:01:20",
-      "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "So Easy (To Fall In Love)",
-      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
     },
     {
       "added_at": "2026-02-06 13:01:20",

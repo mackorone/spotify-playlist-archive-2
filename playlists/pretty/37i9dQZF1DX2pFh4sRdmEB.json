@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de M\u00fasica Mexicana de ayer y hoy para acompa\u00f1arte en la troca.",
-  "num_followers": 590210,
+  "num_followers": 590276,
   "original_name": "La Troca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF98/8xKcaE7Lf+TdWvLhD0Zet6x",
+  "snapshot_id": "AAAAACKX0dNZDiDYaoHvbvW2TK1OhAjb",
   "tracks": [
     {
       "added_at": "2026-07-17 06:45:14",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-07-17 06:45:14",
       "album": {
-        "name": "LOS MENSAJES DE WHATSAPP",
-        "url": "https://open.spotify.com/album/5LoyP8npqd0X2iSiAjFM1A"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 199848,
-      "name": "LOS MENSAJES DE WHATSAPP",
-      "url": "https://open.spotify.com/track/4KMB2zLUtiQAnEFclWnjND"
-    },
-    {
-      "added_at": "2026-07-17 06:45:14",
-      "album": {
         "name": "Algo De Mi",
         "url": "https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 236453,
       "name": "Algo De M\u00ed",
       "url": "https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl"
+    },
+    {
+      "added_at": "2026-07-17 06:45:14",
+      "album": {
+        "name": "AMARTE ME HIZO ODIARTE",
+        "url": "https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 215945,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/0dJ8BG6MjGBX2RwJbJOVGV"
     },
     {
       "added_at": "2026-07-17 06:45:14",
@@ -835,18 +835,18 @@
     {
       "added_at": "2026-07-17 06:45:14",
       "album": {
-        "name": "AMARTE ME HIZO ODIARTE",
-        "url": "https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H"
+        "name": "LOS MENSAJES DE WHATSAPP",
+        "url": "https://open.spotify.com/album/5LoyP8npqd0X2iSiAjFM1A"
       },
       "artists": [
         {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 215945,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/0dJ8BG6MjGBX2RwJbJOVGV"
+      "duration_ms": 199848,
+      "name": "LOS MENSAJES DE WHATSAPP",
+      "url": "https://open.spotify.com/track/4KMB2zLUtiQAnEFclWnjND"
     },
     {
       "added_at": "2026-07-17 06:45:14",
@@ -955,26 +955,6 @@
     {
       "added_at": "2026-07-17 06:45:14",
       "album": {
-        "name": "Mi Vida En Un Cigarro 2",
-        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 135611,
-      "name": "Los Botones Azules",
-      "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
-    },
-    {
-      "added_at": "2026-07-17 06:45:14",
-      "album": {
         "name": "Qu\u00e9 Fuimos (En Vivo)",
         "url": "https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 230034,
       "name": "Qu\u00e9 Fuimos (En Vivo)",
       "url": "https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K"
+    },
+    {
+      "added_at": "2026-07-17 06:45:14",
+      "album": {
+        "name": "Mi Vida En Un Cigarro 2",
+        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 135611,
+      "name": "Los Botones Azules",
+      "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
     },
     {
       "added_at": "2026-07-17 06:45:14",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2026-07-17 06:45:14",
       "album": {
-        "name": "7 DIAS",
-        "url": "https://open.spotify.com/album/5BoeqKVMi7D4S6U38rWjS4"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 180688,
-      "name": "7 DIAS",
-      "url": "https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7"
-    },
-    {
-      "added_at": "2026-07-17 06:45:14",
-      "album": {
         "name": "Di Que Si",
         "url": "https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e"
       },
@@ -1055,18 +1035,22 @@
     {
       "added_at": "2026-07-17 06:45:14",
       "album": {
-        "name": "Como Duele El Amor",
-        "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
+        "name": "7 DIAS",
+        "url": "https://open.spotify.com/album/5BoeqKVMi7D4S6U38rWjS4"
       },
       "artists": [
         {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         }
       ],
-      "duration_ms": 173088,
-      "name": "No Regreses",
-      "url": "https://open.spotify.com/track/6UiEpvKXPmLzi7UDMGzxeK"
+      "duration_ms": 180688,
+      "name": "7 DIAS",
+      "url": "https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7"
     },
     {
       "added_at": "2026-07-17 06:45:14",
@@ -1095,6 +1079,22 @@
     {
       "added_at": "2026-07-17 06:45:14",
       "album": {
+        "name": "Como Duele El Amor",
+        "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 173088,
+      "name": "No Regreses",
+      "url": "https://open.spotify.com/track/6UiEpvKXPmLzi7UDMGzxeK"
+    },
+    {
+      "added_at": "2026-07-17 06:45:14",
+      "album": {
         "name": "La Sinverg\u00fcenza",
         "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
       },
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-07-17 06:45:14",
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
-    },
-    {
-      "added_at": "2026-07-17 06:45:14",
-      "album": {
         "name": "Corleone",
         "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2026-07-17 06:45:14",
       "album": {
-        "name": "Chale",
-        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 170744,
-      "name": "Chale",
-      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
     },
     {
       "added_at": "2026-07-17 06:45:14",
@@ -1179,6 +1163,22 @@
       "duration_ms": 226816,
       "name": "Amigos? No.",
       "url": "https://open.spotify.com/track/7hNgSEQ4Ho7kWBA2rKpDd9"
+    },
+    {
+      "added_at": "2026-07-17 06:45:14",
+      "album": {
+        "name": "Chale",
+        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 170744,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
     },
     {
       "added_at": "2026-07-17 06:45:14",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-07-17 06:45:14",
       "album": {
-        "name": "Al Derecho Y Al Reverso",
-        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 173586,
-      "name": "Eres Ese Algo",
-      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
-    },
-    {
-      "added_at": "2026-07-17 06:45:14",
-      "album": {
         "name": "Apaga El Cel",
         "url": "https://open.spotify.com/album/5Isy5T3w9NjggarK5RxrQZ"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 170832,
       "name": "Apaga El Cel",
       "url": "https://open.spotify.com/track/1sXr6moCwVxwKEgSPxhVvF"
+    },
+    {
+      "added_at": "2026-07-17 06:45:14",
+      "album": {
+        "name": "Al Derecho Y Al Reverso",
+        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Eres Ese Algo",
+      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
     },
     {
       "added_at": "2026-07-17 06:45:14",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2026-07-17 06:45:14",
       "album": {
-        "name": "Puerta Abierta, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 142064,
-      "name": "Cabr\u00f3n y Vago - En Vivo",
-      "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
-    },
-    {
-      "added_at": "2026-07-17 06:45:14",
-      "album": {
         "name": "Porque Te Vas",
         "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
       },
@@ -1431,18 +1411,22 @@
     {
       "added_at": "2026-07-17 06:45:14",
       "album": {
-        "name": "Se Muri\u00f3 De Amor",
-        "url": "https://open.spotify.com/album/2gi2cskfEKHfBfMcVtNRgX"
+        "name": "Puerta Abierta, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
       },
       "artists": [
         {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 145500,
-      "name": "Se Muri\u00f3 De Amor",
-      "url": "https://open.spotify.com/track/5s7yT8TOeW3F2hskLFpUON"
+      "duration_ms": 142064,
+      "name": "Cabr\u00f3n y Vago - En Vivo",
+      "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
     },
     {
       "added_at": "2026-07-17 06:45:14",
@@ -1459,6 +1443,22 @@
       "duration_ms": 203493,
       "name": "Solo Un Dia (Ahora Te Amo)",
       "url": "https://open.spotify.com/track/51RcAoNIqe0G3284yxT8G0"
+    },
+    {
+      "added_at": "2026-07-17 06:45:14",
+      "album": {
+        "name": "Se Muri\u00f3 De Amor",
+        "url": "https://open.spotify.com/album/2gi2cskfEKHfBfMcVtNRgX"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "Se Muri\u00f3 De Amor",
+      "url": "https://open.spotify.com/track/5s7yT8TOeW3F2hskLFpUON"
     },
     {
       "added_at": "2026-07-17 06:45:14",
@@ -1791,22 +1791,18 @@
     {
       "added_at": "2026-07-17 06:45:14",
       "album": {
-        "name": "MALEDUCADO",
-        "url": "https://open.spotify.com/album/6lUUo7CpyEPN5zKUDJ1hmM"
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 159548,
-      "name": "MALEDUCADO",
-      "url": "https://open.spotify.com/track/0VktYX8a8tvlPa3epPNCka"
+      "duration_ms": 122096,
+      "name": "Como Quieras Quiero",
+      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
     }
   ],
   "unique_name": "La Troca",

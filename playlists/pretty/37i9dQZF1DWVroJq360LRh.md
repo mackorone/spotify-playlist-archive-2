@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVroJq360LRh.md) - [plain]
 
 > Acoustic covers to accompany your pilates session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,668 likes - 58 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,698 likes - 58 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVroJq360LRh.md) - [plain]
 | 57 | [Landslide](https://open.spotify.com/track/7uy3S1s88VGFJeKRW5Q60r) | [Cattle & Cane](https://open.spotify.com/artist/6a1PrMzNmhNE8HrO8burHc) | [& Covers](https://open.spotify.com/album/6VtuhzqA2GKC9JJz9egSyN) | 3:38 |
 | 58 | [No One's Gonna Love You](https://open.spotify.com/track/0cQmxIOVXnwTDBeT6tCwpV) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [No One's Gonna Love You](https://open.spotify.com/album/20dnZ3BrNrsHnkTyHb6MW7) | 4:00 |
 
-Snapshot ID: `AAAAAIZQhwmRhNhxDF5QsOof840xpPy8`
+Snapshot ID: `AAAAAM9NVd3u1Q/guQyJrLdE/84XN5jC`

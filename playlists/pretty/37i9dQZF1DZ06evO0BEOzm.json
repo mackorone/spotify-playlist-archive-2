@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
-  "num_followers": 312411,
+  "num_followers": 312434,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAABwKEcCr2eh0SztM+Kzo9iu",
+  "snapshot_id": "anPOgAAAAADgtS/t21yK4dad2vkLNkw7",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Suga",
+        "url": "https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 155497,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Motion Party (Remix)",
         "url": "https://open.spotify.com/album/4zMIJXXO6hA9UgJXlb6zvQ"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 156200,
       "name": "Motion Party (Remix)",
       "url": "https://open.spotify.com/track/6ZSDvXbaeuGeCwiPJCfOwG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Suga",
-        "url": "https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 155497,
-      "name": "Savage",
-      "url": "https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MEGAN: ACT II",
+        "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 95199,
+      "name": "He Think I Love Him",
+      "url": "https://open.spotify.com/track/1BllxkhLaC2xvKNLSEZIKL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alter Ego",
         "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 165395,
       "name": "Rapunzel (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/03qZDQKRYZdjhKsQ5G5H0t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MEGAN: ACT II",
-        "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 95199,
-      "name": "He Think I Love Him",
-      "url": "https://open.spotify.com/track/1BllxkhLaC2xvKNLSEZIKL"
     },
     {
       "added_at": null,

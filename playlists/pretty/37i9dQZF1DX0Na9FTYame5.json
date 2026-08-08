@@ -1,12 +1,12 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Mucco",
-  "num_followers": 571150,
+  "num_followers": 571084,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC6OnENcBANtvsWZCn3XJuK+fY3x",
+  "snapshot_id": "AAAAALMFgBL24ZsMcGNPyYzkNf5uHll2",
   "tracks": [
     {
       "added_at": "2026-07-27 14:44:47",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-07-27 14:44:47",
       "album": {
-        "name": "Auf jeden Blick",
-        "url": "https://open.spotify.com/album/4XiGCtxEjXexk1neyhNTLm"
-      },
-      "artists": [
-        {
-          "name": "CIVO",
-          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
-        }
-      ],
-      "duration_ms": 129048,
-      "name": "Auf jeden Blick",
-      "url": "https://open.spotify.com/track/2KKkqUuYfHkGsrXQAauCkG"
-    },
-    {
-      "added_at": "2026-07-27 14:44:47",
-      "album": {
         "name": "Mann vom Fach",
         "url": "https://open.spotify.com/album/0xIUY0nx09yGVjg2gZbbBF"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 160813,
       "name": "Mann vom Fach",
       "url": "https://open.spotify.com/track/6sEoli2139kRG8Q7LfpHEY"
+    },
+    {
+      "added_at": "2026-07-27 14:44:47",
+      "album": {
+        "name": "Auf jeden Blick",
+        "url": "https://open.spotify.com/album/4XiGCtxEjXexk1neyhNTLm"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        }
+      ],
+      "duration_ms": 129048,
+      "name": "Auf jeden Blick",
+      "url": "https://open.spotify.com/track/2KKkqUuYfHkGsrXQAauCkG"
     },
     {
       "added_at": "2026-07-27 14:44:47",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-07-27 14:44:47",
       "album": {
+        "name": "Alle Risse heilen",
+        "url": "https://open.spotify.com/album/6R9KVt9WZlG4GogbmYShTk"
+      },
+      "artists": [
+        {
+          "name": "Olson",
+          "url": "https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI"
+        }
+      ],
+      "duration_ms": 150640,
+      "name": "Alle Risse heilen",
+      "url": "https://open.spotify.com/track/3Q3Infgim4rgSUslJojSED"
+    },
+    {
+      "added_at": "2026-07-27 14:44:47",
+      "album": {
         "name": "TIEFPUNKT",
         "url": "https://open.spotify.com/album/5ePq52Y4bcPnNpe0P3j5RM"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 188500,
       "name": "TIEFPUNKT",
       "url": "https://open.spotify.com/track/58O70zSrgckp8Kli3kSqXn"
-    },
-    {
-      "added_at": "2026-07-27 14:44:47",
-      "album": {
-        "name": "Alle Risse heilen",
-        "url": "https://open.spotify.com/album/6R9KVt9WZlG4GogbmYShTk"
-      },
-      "artists": [
-        {
-          "name": "Olson",
-          "url": "https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI"
-        }
-      ],
-      "duration_ms": 150640,
-      "name": "Alle Risse heilen",
-      "url": "https://open.spotify.com/track/3Q3Infgim4rgSUslJojSED"
     },
     {
       "added_at": "2026-07-27 14:44:47",
@@ -879,18 +879,22 @@
     {
       "added_at": "2026-07-27 14:44:47",
       "album": {
-        "name": "Meilen",
-        "url": "https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0"
+        "name": "3 Sekunden (feat. Paula Hartmann)",
+        "url": "https://open.spotify.com/album/4o5l3VvshxJMSCuCgOhBpS"
       },
       "artists": [
         {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+          "name": "C\u00c9LINE",
+          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
+        },
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
         }
       ],
-      "duration_ms": 139920,
-      "name": "Meilen",
-      "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
+      "duration_ms": 166942,
+      "name": "3 Sekunden (feat. Paula Hartmann)",
+      "url": "https://open.spotify.com/track/7fTJOA7DSGp5LNua6OdMIF"
     },
     {
       "added_at": "2026-07-27 14:44:47",
@@ -935,22 +939,18 @@
     {
       "added_at": "2026-07-27 14:44:47",
       "album": {
-        "name": "3 Sekunden (feat. Paula Hartmann)",
-        "url": "https://open.spotify.com/album/4o5l3VvshxJMSCuCgOhBpS"
+        "name": "Meilen",
+        "url": "https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0"
       },
       "artists": [
         {
-          "name": "C\u00c9LINE",
-          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
-        },
-        {
-          "name": "Paula Hartmann",
-          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
         }
       ],
-      "duration_ms": 166942,
-      "name": "3 Sekunden (feat. Paula Hartmann)",
-      "url": "https://open.spotify.com/track/7fTJOA7DSGp5LNua6OdMIF"
+      "duration_ms": 139920,
+      "name": "Meilen",
+      "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
     },
     {
       "added_at": "2026-07-27 14:44:47",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2026-07-27 14:44:47",
       "album": {
-        "name": "Ich lieb mich, ich lieb mich nicht",
-        "url": "https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf"
+        "name": "Liebe ist ein Dieb",
+        "url": "https://open.spotify.com/album/0YF2mwA3MHC6McbmPCIhxW"
       },
       "artists": [
         {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
         }
       ],
-      "duration_ms": 123818,
-      "name": "Malediven",
-      "url": "https://open.spotify.com/track/5WBTdhkXW8REDxEERqtUOY"
+      "duration_ms": 191640,
+      "name": "Liebe ist ein Dieb",
+      "url": "https://open.spotify.com/track/01LYfVauZ0LlK5gok0HdTO"
     },
     {
       "added_at": "2026-07-27 14:44:47",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2026-07-27 14:44:47",
       "album": {
-        "name": "Liebe ist ein Dieb",
-        "url": "https://open.spotify.com/album/0YF2mwA3MHC6McbmPCIhxW"
+        "name": "Ich lieb mich, ich lieb mich nicht",
+        "url": "https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf"
       },
       "artists": [
         {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
         }
       ],
-      "duration_ms": 191640,
-      "name": "Liebe ist ein Dieb",
-      "url": "https://open.spotify.com/track/01LYfVauZ0LlK5gok0HdTO"
+      "duration_ms": 123818,
+      "name": "Malediven",
+      "url": "https://open.spotify.com/track/5WBTdhkXW8REDxEERqtUOY"
     },
     {
       "added_at": "2026-07-27 14:44:47",
@@ -1135,38 +1135,6 @@
     {
       "added_at": "2026-07-27 14:44:47",
       "album": {
-        "name": "Weg hier raus",
-        "url": "https://open.spotify.com/album/5V4Ohz7rQcxC6e7CbnQ6rM"
-      },
-      "artists": [
-        {
-          "name": "Apsilon",
-          "url": "https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm"
-        }
-      ],
-      "duration_ms": 179032,
-      "name": "Weg hier raus",
-      "url": "https://open.spotify.com/track/0cSyRUIjVZh1sUIGBhWdWp"
-    },
-    {
-      "added_at": "2026-07-27 14:44:47",
-      "album": {
-        "name": "nur f\u00fcr dich",
-        "url": "https://open.spotify.com/album/2AD0WLaFPO5ZPS8fq2MjYT"
-      },
-      "artists": [
-        {
-          "name": "IBRA",
-          "url": "https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "nur f\u00fcr dich",
-      "url": "https://open.spotify.com/track/30taITFSL0X3dTL1UePK5a"
-    },
-    {
-      "added_at": "2026-07-27 14:44:47",
-      "album": {
         "name": "Erkl\u00e4re mir die Liebe",
         "url": "https://open.spotify.com/album/54vtpKW0Li3YhiNi8ev1XX"
       },
@@ -1207,6 +1175,38 @@
     {
       "added_at": "2026-07-27 14:44:47",
       "album": {
+        "name": "nur f\u00fcr dich",
+        "url": "https://open.spotify.com/album/2AD0WLaFPO5ZPS8fq2MjYT"
+      },
+      "artists": [
+        {
+          "name": "IBRA",
+          "url": "https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "nur f\u00fcr dich",
+      "url": "https://open.spotify.com/track/30taITFSL0X3dTL1UePK5a"
+    },
+    {
+      "added_at": "2026-07-27 14:44:47",
+      "album": {
+        "name": "Weg hier raus",
+        "url": "https://open.spotify.com/album/5V4Ohz7rQcxC6e7CbnQ6rM"
+      },
+      "artists": [
+        {
+          "name": "Apsilon",
+          "url": "https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm"
+        }
+      ],
+      "duration_ms": 179032,
+      "name": "Weg hier raus",
+      "url": "https://open.spotify.com/track/0cSyRUIjVZh1sUIGBhWdWp"
+    },
+    {
+      "added_at": "2026-07-27 14:44:47",
+      "album": {
         "name": "Was du nicht siehst (feat. ela.)",
         "url": "https://open.spotify.com/album/38Zz6O369v6562TJTnnEv8"
       },
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-07-27 14:44:47",
       "album": {
-        "name": "Sommerm\u00e4rchen",
-        "url": "https://open.spotify.com/album/1iS2vChBjjWnrFyWMyO4g9"
-      },
-      "artists": [
-        {
-          "name": "Apsilon",
-          "url": "https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm"
-        }
-      ],
-      "duration_ms": 209986,
-      "name": "Sommerm\u00e4rchen",
-      "url": "https://open.spotify.com/track/4YQ9ruzYt6MIw3Y4yN36Fp"
-    },
-    {
-      "added_at": "2026-07-27 14:44:47",
-      "album": {
         "name": "Ich hass dich",
         "url": "https://open.spotify.com/album/5Jv2VE7PyyoDR8G1qUV5Uw"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 192964,
       "name": "Ich hass dich",
       "url": "https://open.spotify.com/track/5CGPOGyyF3XvyQwyqlJH0P"
+    },
+    {
+      "added_at": "2026-07-27 14:44:47",
+      "album": {
+        "name": "Was war das",
+        "url": "https://open.spotify.com/album/6UbwfuixJigc1oxGWowRGn"
+      },
+      "artists": [
+        {
+          "name": "Olson",
+          "url": "https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI"
+        }
+      ],
+      "duration_ms": 160448,
+      "name": "Was war das",
+      "url": "https://open.spotify.com/track/0j9stlpfmon31bZfoD5PpF"
     },
     {
       "added_at": "2026-07-27 14:44:47",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2026-07-27 14:44:47",
       "album": {
-        "name": "Was war das",
-        "url": "https://open.spotify.com/album/6UbwfuixJigc1oxGWowRGn"
+        "name": "Sommerm\u00e4rchen",
+        "url": "https://open.spotify.com/album/1iS2vChBjjWnrFyWMyO4g9"
       },
       "artists": [
         {
-          "name": "Olson",
-          "url": "https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI"
+          "name": "Apsilon",
+          "url": "https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm"
         }
       ],
-      "duration_ms": 160448,
-      "name": "Was war das",
-      "url": "https://open.spotify.com/track/0j9stlpfmon31bZfoD5PpF"
+      "duration_ms": 209986,
+      "name": "Sommerm\u00e4rchen",
+      "url": "https://open.spotify.com/track/4YQ9ruzYt6MIw3Y4yN36Fp"
     },
     {
       "added_at": "2026-07-27 14:44:47",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-07-27 14:44:47",
       "album": {
-        "name": "Dunya",
-        "url": "https://open.spotify.com/album/3mezg6HiQGDdMHcRFylrDz"
-      },
-      "artists": [
-        {
-          "name": "Aymen",
-          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
-        }
-      ],
-      "duration_ms": 174745,
-      "name": "Dunya",
-      "url": "https://open.spotify.com/track/68xgjHBnky2pp6joybU9rO"
-    },
-    {
-      "added_at": "2026-07-27 14:44:47",
-      "album": {
         "name": "Wer liebt dich jetzt ?",
         "url": "https://open.spotify.com/album/1m7MCqOuh9Xf9SCrmRIXPp"
       },
@@ -1623,18 +1607,18 @@
     {
       "added_at": "2026-07-27 14:44:47",
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/6hD65M1bwRJEZAqVj09RnR"
+        "name": "Dunya",
+        "url": "https://open.spotify.com/album/3mezg6HiQGDdMHcRFylrDz"
       },
       "artists": [
         {
-          "name": "Paves 16",
-          "url": "https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM"
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
         }
       ],
-      "duration_ms": 166000,
-      "name": "1989",
-      "url": "https://open.spotify.com/track/5avl9WY8ArOGVvN4R2uUUs"
+      "duration_ms": 174745,
+      "name": "Dunya",
+      "url": "https://open.spotify.com/track/68xgjHBnky2pp6joybU9rO"
     },
     {
       "added_at": "2026-07-27 14:44:47",
@@ -1651,6 +1635,22 @@
       "duration_ms": 154601,
       "name": "Mein Type",
       "url": "https://open.spotify.com/track/6SOxRyOgCHD8K0tskkrs9M"
+    },
+    {
+      "added_at": "2026-07-27 14:44:47",
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/6hD65M1bwRJEZAqVj09RnR"
+      },
+      "artists": [
+        {
+          "name": "Paves 16",
+          "url": "https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "1989",
+      "url": "https://open.spotify.com/track/5avl9WY8ArOGVvN4R2uUUs"
     },
     {
       "added_at": "2026-07-27 14:44:47",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2026-07-27 14:44:47",
       "album": {
+        "name": "Nie wieder sehen",
+        "url": "https://open.spotify.com/album/74nmPMbAbjYQDEtwtHF5ZY"
+      },
+      "artists": [
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        }
+      ],
+      "duration_ms": 161212,
+      "name": "Nie wieder sehen",
+      "url": "https://open.spotify.com/track/1t1VvjY7al80AdEoAQ3kPN"
+    },
+    {
+      "added_at": "2026-07-27 14:44:47",
+      "album": {
         "name": "Therapie",
         "url": "https://open.spotify.com/album/33zy8DA1rCHiRbfF5VnmOW"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 195692,
       "name": "Therapie",
       "url": "https://open.spotify.com/track/4DmkCxj5WLnT3LQDG0MUY0"
-    },
-    {
-      "added_at": "2026-07-27 14:44:47",
-      "album": {
-        "name": "Nie wieder sehen",
-        "url": "https://open.spotify.com/album/74nmPMbAbjYQDEtwtHF5ZY"
-      },
-      "artists": [
-        {
-          "name": "Juju",
-          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
-        }
-      ],
-      "duration_ms": 161212,
-      "name": "Nie wieder sehen",
-      "url": "https://open.spotify.com/track/1t1VvjY7al80AdEoAQ3kPN"
     },
     {
       "added_at": "2026-07-27 14:44:47",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2026-07-27 14:44:47",
       "album": {
-        "name": "Bladerunner",
-        "url": "https://open.spotify.com/album/60fRRwprifz4WrxAX400un"
-      },
-      "artists": [
-        {
-          "name": "RIN",
-          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "Bladerunner",
-      "url": "https://open.spotify.com/track/1jtgDmvuWo93vPUy41Pg8e"
-    },
-    {
-      "added_at": "2026-07-27 14:44:47",
-      "album": {
         "name": "Keine Helden",
         "url": "https://open.spotify.com/album/11AkC0fCpMYZ6Ef4NK0wHK"
       },
@@ -1831,22 +1815,6 @@
     {
       "added_at": "2026-07-27 14:44:47",
       "album": {
-        "name": "PECH",
-        "url": "https://open.spotify.com/album/50MPz6SA53Eh8LTArkGMiK"
-      },
-      "artists": [
-        {
-          "name": "Levin Liam",
-          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
-        }
-      ],
-      "duration_ms": 139012,
-      "name": "Ohne Dach",
-      "url": "https://open.spotify.com/track/63ke3IbMyy7v69fRC6DUdk"
-    },
-    {
-      "added_at": "2026-07-27 14:44:47",
-      "album": {
         "name": "Elbe",
         "url": "https://open.spotify.com/album/49fAdOAW2qhJWhpDayFcKg"
       },
@@ -1859,6 +1827,38 @@
       "duration_ms": 195653,
       "name": "Elbe",
       "url": "https://open.spotify.com/track/2kvJnNMqnimkCZUUWjOINy"
+    },
+    {
+      "added_at": "2026-07-27 14:44:47",
+      "album": {
+        "name": "MOST VALUABLE PLAYA",
+        "url": "https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "duration_ms": 149752,
+      "name": "Leben",
+      "url": "https://open.spotify.com/track/4vPdRUiMn1LpVGfpoa6TiH"
+    },
+    {
+      "added_at": "2026-07-27 14:44:47",
+      "album": {
+        "name": "PECH",
+        "url": "https://open.spotify.com/album/50MPz6SA53Eh8LTArkGMiK"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "duration_ms": 139012,
+      "name": "Ohne Dach",
+      "url": "https://open.spotify.com/track/63ke3IbMyy7v69fRC6DUdk"
     }
   ],
   "unique_name": "Rap in deep",

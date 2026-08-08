@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 387103,
+  "num_followers": 387114,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGJjmwo6TMTvqjOHCDUNjMFtgy6G",
+  "snapshot_id": "AAAAALvwwADQB9VIahysWJ87kpvC6VmZ",
   "tracks": [
     {
       "added_at": "2026-02-17 04:47:51",
@@ -911,18 +911,18 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "The Very Best of\u2026",
-        "url": "https://open.spotify.com/album/6MiwWDa3FIyIS71Ety7vAE"
+        "name": "The Essential Jim Ed Brown And The Browns (feat. Jim Ed Brown)",
+        "url": "https://open.spotify.com/album/7IsKfmOaFBk2o6XZQPGwyh"
       },
       "artists": [
         {
-          "name": "Roger Miller",
-          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
+          "name": "Jim Ed Brown",
+          "url": "https://open.spotify.com/artist/6XBkny92syvAWxlIX8CZAM"
         }
       ],
-      "duration_ms": 123360,
-      "name": "Chug-A-Lug",
-      "url": "https://open.spotify.com/track/3vMwtAfDNM8dDBWMvS78pn"
+      "duration_ms": 140306,
+      "name": "Pop a Top",
+      "url": "https://open.spotify.com/track/73AgVwYUEPn9kB0a97b4LW"
     },
     {
       "added_at": "2026-02-17 04:47:51",
@@ -943,18 +943,18 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "The Essential Jim Ed Brown And The Browns (feat. Jim Ed Brown)",
-        "url": "https://open.spotify.com/album/7IsKfmOaFBk2o6XZQPGwyh"
+        "name": "The Very Best of\u2026",
+        "url": "https://open.spotify.com/album/6MiwWDa3FIyIS71Ety7vAE"
       },
       "artists": [
         {
-          "name": "Jim Ed Brown",
-          "url": "https://open.spotify.com/artist/6XBkny92syvAWxlIX8CZAM"
+          "name": "Roger Miller",
+          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
         }
       ],
-      "duration_ms": 140306,
-      "name": "Pop a Top",
-      "url": "https://open.spotify.com/track/73AgVwYUEPn9kB0a97b4LW"
+      "duration_ms": 123360,
+      "name": "Chug-A-Lug",
+      "url": "https://open.spotify.com/track/3vMwtAfDNM8dDBWMvS78pn"
     },
     {
       "added_at": "2026-02-17 04:47:51",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "(Margie's At) The Lincoln Park Inn",
-        "url": "https://open.spotify.com/album/2sIBp3FcO6tNjcgFVIxaFM"
-      },
-      "artists": [
-        {
-          "name": "Bobby Bare",
-          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "(Margie's At) The Lincoln Park Inn",
-      "url": "https://open.spotify.com/track/0srp0yXqH0Axym0z7wLUQy"
-    },
-    {
-      "added_at": "2026-02-17 04:47:51",
-      "album": {
         "name": "The Essential Chet Atkins",
         "url": "https://open.spotify.com/album/0lKXTFKRUH3eyflNhlSlQZ"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 123240,
       "name": "Yakety Axe",
       "url": "https://open.spotify.com/track/0Lo5YM7ZvIcUnbvnqLMUre"
+    },
+    {
+      "added_at": "2026-02-17 04:47:51",
+      "album": {
+        "name": "(Margie's At) The Lincoln Park Inn",
+        "url": "https://open.spotify.com/album/2sIBp3FcO6tNjcgFVIxaFM"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bare",
+          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
+        }
+      ],
+      "duration_ms": 198733,
+      "name": "(Margie's At) The Lincoln Park Inn",
+      "url": "https://open.spotify.com/track/0srp0yXqH0Axym0z7wLUQy"
     },
     {
       "added_at": "2026-02-17 04:47:51",

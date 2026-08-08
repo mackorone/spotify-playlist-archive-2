@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3itwlKYlqmb.md) - [plain]
 
 > De está sierra a la otra sierra se divisa <br/>San José\. En portada: Los Alegres de la Sierra
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,845 likes - 98 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,861 likes - 98 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3itwlKYlqmb.md) - [plain]
 | 97 | [La Trenzuda](https://open.spotify.com/track/5g3RWpqF5ybIpD5bqUV7bw) | [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP) | [10th Aniversario](https://open.spotify.com/album/0b8vJPWc9niOiz67AZ7o9w) | 3:55 |
 | 98 | [El Novillo Despuntado](https://open.spotify.com/track/1jJcgP1MQXPwlffS9jk4v6) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Los Ciclones del Arroyo](https://open.spotify.com/artist/474014H20e2LqUwdWaaVLO) | [Puro Che Rios Oiga](https://open.spotify.com/album/0RpKcuhlypb45ragJxcPDD) | 3:58 |
 
-Snapshot ID: `AAAAAD5iKwy5C/8hl19psrpqjonZB2+X`
+Snapshot ID: `AAAAAOqU6j86fU7tl9OmGGblVGzISDNu`

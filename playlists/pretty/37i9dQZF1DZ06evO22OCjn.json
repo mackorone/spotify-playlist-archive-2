@@ -1,12 +1,12 @@
 {
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
-  "num_followers": 345512,
+  "num_followers": 345604,
   "original_name": "This Is Burna Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAADKTfmTSX4MKnJZkM6JSlZi",
+  "snapshot_id": "anPOgAAAAAACuyf1tmwA4xS99ltLhQNY",
   "tracks": [
     {
       "added_at": null,
@@ -543,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Money With The Vibe",
-        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Sungba (feat. Burna Boy) - Remix",
-      "url": "https://open.spotify.com/track/4k4pdUWX8632g7yByxC3rS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Told Them...",
         "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 179485,
       "name": "Giza (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/0UdBaetogSoEIO7fSD1334"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Sungba (feat. Burna Boy) - Remix",
+      "url": "https://open.spotify.com/track/4k4pdUWX8632g7yByxC3rS"
     },
     {
       "added_at": null,

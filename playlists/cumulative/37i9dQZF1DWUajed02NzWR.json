@@ -925,6 +925,28 @@
     },
     {
       "album": {
+        "name": "\"Bullumba\" Landestoy: El vals de Santo Domingo",
+        "url": "https://open.spotify.com/album/3Fjn4Fxksko3Z9cfab5GjT"
+      },
+      "artists": [
+        {
+          "name": "Rafael Bullumba Landestoy",
+          "url": "https://open.spotify.com/artist/2fVUMaZOVWh4mGWhs6kf6J"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256013,
+      "name": "El vals de Santo Domingo",
+      "url": "https://open.spotify.com/track/6ACq3A0ykW79PU8CRdxqnm"
+    },
+    {
+      "album": {
         "name": "Midsummer",
         "url": "https://open.spotify.com/album/5k3ebhH3W5Sp9VyHYzC0uQ"
       },
@@ -2582,6 +2604,32 @@
       "duration_ms": 308517,
       "name": "Symphony in D Major, AJR I:17: III. Menuetto. Allegro vivace",
       "url": "https://open.spotify.com/track/1akC0W2XLdbpFtXGpBmU55"
+    },
+    {
+      "album": {
+        "name": "Schwindl: Symphonies, Op. 10",
+        "url": "https://open.spotify.com/album/1EgHskRPkc2XjZA0Q70UCC"
+      },
+      "artists": [
+        {
+          "name": "Friedrich Schwindl",
+          "url": "https://open.spotify.com/artist/2jIrnFujRgsRpL1rmAsXR9"
+        },
+        {
+          "name": "L'Arte del mondo",
+          "url": "https://open.spotify.com/artist/6MW9AS1ZyDr6gnCBeaTeQY"
+        },
+        {
+          "name": "Werner Ehrhardt",
+          "url": "https://open.spotify.com/artist/4WXwM0GBirDxTJA6zngdfz"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Symphony in E-Flat Major, Op. 10 No. 3: II. Andante",
+      "url": "https://open.spotify.com/track/4K566ExmNqQNUTOhsrN7yI"
     },
     {
       "album": {

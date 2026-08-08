@@ -1,12 +1,12 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1868976,
+  "num_followers": 1868896,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAELQgpzV/8p0uflVSne//zOgMcv9",
+  "snapshot_id": "AAAAAMx5vI+8Do2YlNrK0sfcjleDH5hx",
   "tracks": [
     {
       "added_at": "2026-06-05 20:48:48",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Mountain Girl",
-        "url": "https://open.spotify.com/album/7Gn4ahcxSuY4q0hE3dLkHu"
-      },
-      "artists": [
-        {
-          "name": "Josiah and the Bonnevilles",
-          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
-        }
-      ],
-      "duration_ms": 162925,
-      "name": "Mountain Girl",
-      "url": "https://open.spotify.com/track/4trN0qlOUFzoNOYs7ezZNf"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Light Upon the Lake",
         "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 242093,
       "name": "Golden Days",
       "url": "https://open.spotify.com/track/7midhUSAQfwD3aFwQrLZYc"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Mountain Girl",
+        "url": "https://open.spotify.com/album/7Gn4ahcxSuY4q0hE3dLkHu"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "duration_ms": 162925,
+      "name": "Mountain Girl",
+      "url": "https://open.spotify.com/track/4trN0qlOUFzoNOYs7ezZNf"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Strangers No More",
-        "url": "https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        }
-      ],
-      "duration_ms": 264146,
-      "name": "On a Roll",
-      "url": "https://open.spotify.com/track/34L5OwGhNUKJOG7fgR4ain"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4"
       },
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Saratoga",
-        "url": "https://open.spotify.com/album/1r1Hx0CJ97rPzAEIPFCZTr"
+        "name": "Strangers No More",
+        "url": "https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV"
       },
       "artists": [
         {
-          "name": "Oliver Hazard",
-          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
         }
       ],
-      "duration_ms": 230533,
-      "name": "Saratoga",
-      "url": "https://open.spotify.com/track/1XQRxNO0sBbSG8NZXFFbo8"
+      "duration_ms": 264146,
+      "name": "On a Roll",
+      "url": "https://open.spotify.com/track/34L5OwGhNUKJOG7fgR4ain"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1127,8 +1111,24 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "in defense of my own happiness (complete)",
-        "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
+        "name": "Saratoga",
+        "url": "https://open.spotify.com/album/1r1Hx0CJ97rPzAEIPFCZTr"
+      },
+      "artists": [
+        {
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Saratoga",
+      "url": "https://open.spotify.com/track/1XQRxNO0sBbSG8NZXFFbo8"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "OBSERVATIONS FROM A CROWDED ROOM",
+        "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
       },
       "artists": [
         {
@@ -1136,9 +1136,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 186786,
-      "name": "if you got a problem",
-      "url": "https://open.spotify.com/track/5811AoaSuIRKBy7X438LsJ"
+      "duration_ms": 189859,
+      "name": "I\u2019D MISS THE BIRDS",
+      "url": "https://open.spotify.com/track/2FVEApwIvd5154zX8m7Rx1"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1207,8 +1207,8 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "OBSERVATIONS FROM A CROWDED ROOM",
-        "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
+        "name": "in defense of my own happiness (complete)",
+        "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
       },
       "artists": [
         {
@@ -1216,9 +1216,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 189859,
-      "name": "I\u2019D MISS THE BIRDS",
-      "url": "https://open.spotify.com/track/2FVEApwIvd5154zX8m7Rx1"
+      "duration_ms": 186786,
+      "name": "if you got a problem",
+      "url": "https://open.spotify.com/track/5811AoaSuIRKBy7X438LsJ"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Early in the Morning (Special Edition)",
-        "url": "https://open.spotify.com/album/33HjgKPNuu4pYcTzAShz2i"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 219952,
-      "name": "Sparrow and the Wolf",
-      "url": "https://open.spotify.com/track/3SB5JGFnQxB4P8Gh46wMzy"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Oncoming Clouds",
         "url": "https://open.spotify.com/album/6G9nFGCkm389KVfnwRBWux"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 207069,
       "name": "Easy, Love",
       "url": "https://open.spotify.com/track/6m2cCJT4K54P5nLfRLyJud"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Early in the Morning (Special Edition)",
+        "url": "https://open.spotify.com/album/33HjgKPNuu4pYcTzAShz2i"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 219952,
+      "name": "Sparrow and the Wolf",
+      "url": "https://open.spotify.com/track/3SB5JGFnQxB4P8Gh46wMzy"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Soap",
-        "url": "https://open.spotify.com/album/1KYYQCuxfGl7gV9KpXBWRv"
-      },
-      "artists": [
-        {
-          "name": "The Oh Hellos",
-          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
-        }
-      ],
-      "duration_ms": 214820,
-      "name": "Soap",
-      "url": "https://open.spotify.com/track/3MNCE9NHhCLIuCcL5f2G7q"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Headlights / Summer Bird",
         "url": "https://open.spotify.com/album/5WYIv1ZwE96LLXlDDwBSvQ"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 191980,
       "name": "Summer Bird",
       "url": "https://open.spotify.com/track/5K5R7SYPJB81a6pMhkzNbi"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Soap",
+        "url": "https://open.spotify.com/album/1KYYQCuxfGl7gV9KpXBWRv"
+      },
+      "artists": [
+        {
+          "name": "The Oh Hellos",
+          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
+        }
+      ],
+      "duration_ms": 214820,
+      "name": "Soap",
+      "url": "https://open.spotify.com/track/3MNCE9NHhCLIuCcL5f2G7q"
     },
     {
       "added_at": "2026-06-05 20:48:48",

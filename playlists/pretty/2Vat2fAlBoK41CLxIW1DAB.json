@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 1585,
+  "num_followers": 1586,
   "original_name": "Rock Square",
   "owner": {
     "name": "Nitro Square",
     "url": "https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a"
   },
-  "snapshot_id": "AAAEiW5rBcgvjfcSjyI0lsY+Dgq6IkHk",
+  "snapshot_id": "AAAEmDdBWiBEkn2hleaofeRobyBgMjA4",
   "tracks": [
     {
       "added_at": "2024-11-02 09:43:21",
@@ -18463,6 +18463,246 @@
       "duration_ms": 312222,
       "name": "station to station",
       "url": "https://open.spotify.com/track/5IkE5yTdvCp8uQEG1cfKJr"
+    },
+    {
+      "added_at": "2026-08-07 16:19:54",
+      "album": {
+        "name": "Stolen Futures",
+        "url": "https://open.spotify.com/album/78gZrHyZCJMW2MqY9PVT0b"
+      },
+      "artists": [
+        {
+          "name": "Left to Nothing",
+          "url": "https://open.spotify.com/artist/6xYZFCMIOhJSXQApvZIusH"
+        }
+      ],
+      "duration_ms": 179705,
+      "name": "Something More",
+      "url": "https://open.spotify.com/track/0KMHRjvXCXXCSqmG7KRPYi"
+    },
+    {
+      "added_at": "2026-08-07 16:19:55",
+      "album": {
+        "name": "WALKED AWAY",
+        "url": "https://open.spotify.com/album/10hDvZc0SX3UzazmLlxWGv"
+      },
+      "artists": [
+        {
+          "name": "DOUG ROCKS",
+          "url": "https://open.spotify.com/artist/2SYkdo95tZe0avloQNzGSV"
+        }
+      ],
+      "duration_ms": 247075,
+      "name": "WALKED AWAY",
+      "url": "https://open.spotify.com/track/63wjlGnKFIs6gSsi6A4YQe"
+    },
+    {
+      "added_at": "2026-08-07 16:22:58",
+      "album": {
+        "name": "Storm Eagle Mega Man X (Vocal Version)",
+        "url": "https://open.spotify.com/album/77yJFokFaziSRolDk1OtoX"
+      },
+      "artists": [
+        {
+          "name": "Vocal Game Orchestra",
+          "url": "https://open.spotify.com/artist/4LvoFWmhUT7CNWjppMoaUK"
+        }
+      ],
+      "duration_ms": 172381,
+      "name": "Storm Eagle Mega Man X - Vocal Version",
+      "url": "https://open.spotify.com/track/30aMlpQGSDWnawvY92wYqz"
+    },
+    {
+      "added_at": "2026-08-07 16:22:59",
+      "album": {
+        "name": "Your Favorite Monster",
+        "url": "https://open.spotify.com/album/2jcIYhV9TaVaC9qy7PXWcW"
+      },
+      "artists": [
+        {
+          "name": "Master Dy",
+          "url": "https://open.spotify.com/artist/3lfScZWl1nVVmsYciBXKBu"
+        }
+      ],
+      "duration_ms": 208511,
+      "name": "Your Favorite Monster",
+      "url": "https://open.spotify.com/track/2iXK0b3yo9dc0KkjCi5PcR"
+    },
+    {
+      "added_at": "2026-08-07 16:22:59",
+      "album": {
+        "name": "Alveola mercy",
+        "url": "https://open.spotify.com/album/2YusK6zvA2Fdn1cbYE83Y8"
+      },
+      "artists": [
+        {
+          "name": "The Birch",
+          "url": "https://open.spotify.com/artist/0f1yccwMizgOv0fVWIRo83"
+        }
+      ],
+      "duration_ms": 302342,
+      "name": "Diabolical",
+      "url": "https://open.spotify.com/track/4nX3pfoEzXKD5uc3Pmz9oR"
+    },
+    {
+      "added_at": "2026-08-07 16:23:00",
+      "album": {
+        "name": "Rewind and Repeat",
+        "url": "https://open.spotify.com/album/1TgDqL4p4FMXirRrjFCc5B"
+      },
+      "artists": [
+        {
+          "name": "For What You Burn",
+          "url": "https://open.spotify.com/artist/4QvZTSqwTEZ0YQZuOPOKI6"
+        }
+      ],
+      "duration_ms": 271707,
+      "name": "Rewind and Repeat",
+      "url": "https://open.spotify.com/track/6ZIbT7at3VICfVxb3X1IBf"
+    },
+    {
+      "added_at": "2026-08-07 16:23:01",
+      "album": {
+        "name": "Delusions",
+        "url": "https://open.spotify.com/album/4crSIPxl3NdnIZWZNhGuIj"
+      },
+      "artists": [
+        {
+          "name": "Ekyutri",
+          "url": "https://open.spotify.com/artist/6qLIhTp6H5sMDVuCWS4WVf"
+        }
+      ],
+      "duration_ms": 188812,
+      "name": "Delusions",
+      "url": "https://open.spotify.com/track/3IZXcNHFM9hZdEtTf4Rk0h"
+    },
+    {
+      "added_at": "2026-08-07 16:23:01",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/4qOOJTcaKHxdJnbo1nOLrd"
+      },
+      "artists": [
+        {
+          "name": "Ascrail",
+          "url": "https://open.spotify.com/artist/1041Yy0Ao1YWSBj0gD1hHG"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/46TWHCkANxgZP8B4KDmKTr"
+    },
+    {
+      "added_at": "2026-08-07 16:23:01",
+      "album": {
+        "name": "Why Don't They Care?",
+        "url": "https://open.spotify.com/album/1YZl8kT4SpwcMVxuCrJKCM"
+      },
+      "artists": [
+        {
+          "name": "David Bluefield",
+          "url": "https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0"
+        }
+      ],
+      "duration_ms": 184575,
+      "name": "Why Don't They Care?",
+      "url": "https://open.spotify.com/track/3ELagxXujPMf9EV4zk3UDy"
+    },
+    {
+      "added_at": "2026-08-07 16:23:02",
+      "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/5uZWKIJJJlHGH1yRywLA5M"
+      },
+      "artists": [
+        {
+          "name": "Deaf Mother",
+          "url": "https://open.spotify.com/artist/6QtfSjixl1I5KMlMKldZjt"
+        }
+      ],
+      "duration_ms": 227381,
+      "name": "Promised Land",
+      "url": "https://open.spotify.com/track/4MJBEn5RH96iSVjLefnvVD"
+    },
+    {
+      "added_at": "2026-08-07 16:23:02",
+      "album": {
+        "name": "Bull Market",
+        "url": "https://open.spotify.com/album/0tOh6x0vBtlYVIAePUSz5b"
+      },
+      "artists": [
+        {
+          "name": "fabiano matiolla",
+          "url": "https://open.spotify.com/artist/1gSEoElmqiR2xGnMtTTqes"
+        }
+      ],
+      "duration_ms": 290000,
+      "name": "Bull Market",
+      "url": "https://open.spotify.com/track/1Hl5RFIwIICzI7CqqqRPHN"
+    },
+    {
+      "added_at": "2026-08-07 16:23:03",
+      "album": {
+        "name": "Blood Oath",
+        "url": "https://open.spotify.com/album/2OJ46zf4XlkwxGCFmoH6Id"
+      },
+      "artists": [
+        {
+          "name": "Ekyutri",
+          "url": "https://open.spotify.com/artist/6qLIhTp6H5sMDVuCWS4WVf"
+        }
+      ],
+      "duration_ms": 157398,
+      "name": "Blood Oath",
+      "url": "https://open.spotify.com/track/6ve8hdN10ZfcvM0EoDOqx0"
+    },
+    {
+      "added_at": "2026-08-07 16:23:03",
+      "album": {
+        "name": "Too Broke For Money",
+        "url": "https://open.spotify.com/album/1kb6C7OYXgbehQhJ9sOZOo"
+      },
+      "artists": [
+        {
+          "name": "S/ash66",
+          "url": "https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68"
+        }
+      ],
+      "duration_ms": 98279,
+      "name": "Screw Your HOA!",
+      "url": "https://open.spotify.com/track/1nZIjiP2leeZ7eQ1lk0sIZ"
+    },
+    {
+      "added_at": "2026-08-07 16:23:03",
+      "album": {
+        "name": "Weird Kid",
+        "url": "https://open.spotify.com/album/3J1FrMBOBnoDjin6Xg0JIi"
+      },
+      "artists": [
+        {
+          "name": "Mr.Moss",
+          "url": "https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT"
+        }
+      ],
+      "duration_ms": 145408,
+      "name": "Weird Kid",
+      "url": "https://open.spotify.com/track/28P1Zn2MA2Af5L0MIa8fQx"
+    },
+    {
+      "added_at": "2026-08-07 16:23:04",
+      "album": {
+        "name": "Psychosomatic",
+        "url": "https://open.spotify.com/album/0eDV5oAQ1vJtTpxYp3hEkf"
+      },
+      "artists": [
+        {
+          "name": "Rubber Block",
+          "url": "https://open.spotify.com/artist/45JwohjuGbElTpuk8Kqjuk"
+        }
+      ],
+      "duration_ms": 352978,
+      "name": "Owtlary",
+      "url": "https://open.spotify.com/track/0iZwZNdZlO6TYCD1qkO0s1"
     }
   ],
   "unique_name": "Rock Square",

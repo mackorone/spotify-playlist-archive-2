@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gS5vh05dnc.md) - [plain]
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,166 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,163 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gS5vh05dnc.md) - [plain]
 | 36 | [Supalonely](https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [STELLA & STEVE](https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8) | 3:43 |
 | 37 | [If I Can't Have You](https://open.spotify.com/track/6LsAAHotRLMOHfCsSfYCsz) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [If I Can't Have You](https://open.spotify.com/album/1J2BrRxtQjVUa7X9Ne99xD) | 3:10 |
 | 38 | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Better Place \(From TROLLS Band Together\)](https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8) | 3:36 |
-| 39 | [Priceless \(feat\. LISA\)](https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Priceless \(feat\. LISA\)](https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ) | 2:43 |
-| 40 | [Know Your Worth](https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Know Your Worth](https://open.spotify.com/album/0uLz2ygHQAtLknyGasJOr5) | 3:01 |
+| 39 | [Know Your Worth](https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Know Your Worth](https://open.spotify.com/album/0uLz2ygHQAtLknyGasJOr5) | 3:01 |
+| 40 | [Priceless \(feat\. LISA\)](https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Priceless \(feat\. LISA\)](https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ) | 2:43 |
 | 41 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 |
 | 42 | [I'm Not Here To Make Friends](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:49 |
 | 43 | [Summer Baby](https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:41 |
-| 44 | [Genius](https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:35 |
-| 45 | [Outta My Head \(with John Mayer\)](https://open.spotify.com/track/09oZ9eXQ2fo6YDrPzJqAoP) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 2:57 |
+| 44 | [Outta My Head \(with John Mayer\)](https://open.spotify.com/track/09oZ9eXQ2fo6YDrPzJqAoP) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 2:57 |
+| 45 | [Genius](https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:35 |
 | 46 | [Never Gonna Not Dance Again](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Never Gonna Not Dance Again](https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR) | 3:45 |
 | 47 | [New Man](https://open.spotify.com/track/5HDPtsnyb3maFmPL8LLUTG) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:09 |
 | 48 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gS5vh05dnc.md) - [plain]
 | 74 | [Sweet Tooth](https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [FLAMES](https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF) | 3:00 |
 | 75 | [Hold Back The River](https://open.spotify.com/track/7tmtOEDxPN7CWaQWBsG1DY) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 3:58 |
 
-Snapshot ID: `AAAAAH8EWN9Myb9+GRs4B52HGviY0q+3`
+Snapshot ID: `AAAAAPDvwtk3wLt78NmIriL2PxakRrxp`

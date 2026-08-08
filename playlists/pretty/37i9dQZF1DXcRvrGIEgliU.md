@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 
 > Celebrating 10 years of <a href="https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg">independent artist discovery</a>\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,837 likes - 150 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,858 likes - 150 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 | 49 | [KEHLANI](https://open.spotify.com/track/3bWEONUAlVrGAB4NqQiT2R) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [A Jaguar's Dream](https://open.spotify.com/album/3gO7CwBn2Q4ujc1vRsRQ8j) | 2:02 |
 | 50 | [Crush](https://open.spotify.com/track/0nsIevK1SeDfZzDOi6Si75) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/013WXRAOja0kZ6gnlTCwJ5) | 3:24 |
 | 51 | [Freakin' Out On the Interstate](https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Freakin' Out On The Interstate \(Acoustic Version \[Live\]\)](https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl) | 4:11 |
-| 52 | [Go Fuck Yourself](https://open.spotify.com/track/4NZrZgrRoR4GwR7flWOXRI) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [First Steps](https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc) | 2:09 |
-| 53 | [Small Change](https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Small Change](https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp) | 2:45 |
-| 54 | [deep in it](https://open.spotify.com/track/6IoDmKMOqGMYwny9MjQ6dg) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141), [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [deep in it](https://open.spotify.com/album/5cAUJnj0TsAgnLdbEFj4iq) | 2:34 |
+| 52 | [deep in it](https://open.spotify.com/track/6IoDmKMOqGMYwny9MjQ6dg) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141), [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [deep in it](https://open.spotify.com/album/5cAUJnj0TsAgnLdbEFj4iq) | 2:34 |
+| 53 | [Go Fuck Yourself](https://open.spotify.com/track/4NZrZgrRoR4GwR7flWOXRI) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [First Steps](https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc) | 2:09 |
+| 54 | [Small Change](https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Small Change](https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp) | 2:45 |
 | 55 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 |
 | 56 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 |
 | 57 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 | 87 | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/track/6azvhyagGek75gi0pLyl30) | [Olew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/album/67zICJlL1ZcLe7aCWXLsSF) | 4:38 |
 | 88 | [Tangled dreams](https://open.spotify.com/track/5PCoCu7jl8FJTm6rKAmFDZ) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Tangled dreams](https://open.spotify.com/album/0KqPbrTMjCC8Hu4BKUM2LG) | 4:22 |
 | 89 | [Off My Mind](https://open.spotify.com/track/7n6QMW76A5qgfn0Mb4aL7i) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Emily Can't Sing](https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ) | 3:33 |
-| 90 | [Blue Tequila](https://open.spotify.com/track/4MRXbWH2BzuUZcoabj6HRh) | [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [Blue Tequila](https://open.spotify.com/album/5ULNoQyv8SWz0qA8zz0AKU) | 3:22 |
-| 91 | [Lỡ Say Bye Là Bye](https://open.spotify.com/track/0d6dbFvKczX1Us3J7TsMMv) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9), [Lemese](https://open.spotify.com/artist/0DL9VpY3UsZWQyDOO5Ej2o) | [Lỡ Say Bye Là Bye](https://open.spotify.com/album/3BKiAnPnm2Xn2cWB2uWeE0) | 3:34 |
+| 90 | [Lỡ Say Bye Là Bye](https://open.spotify.com/track/0d6dbFvKczX1Us3J7TsMMv) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9), [Lemese](https://open.spotify.com/artist/0DL9VpY3UsZWQyDOO5Ej2o) | [Lỡ Say Bye Là Bye](https://open.spotify.com/album/3BKiAnPnm2Xn2cWB2uWeE0) | 3:34 |
+| 91 | [Blue Tequila](https://open.spotify.com/track/4MRXbWH2BzuUZcoabj6HRh) | [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [Blue Tequila](https://open.spotify.com/album/5ULNoQyv8SWz0qA8zz0AKU) | 3:22 |
 | 92 | [Blue](https://open.spotify.com/track/5XOmmOQZFpzeHnWcsFAEiX) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Blue](https://open.spotify.com/album/6yO5bLMCpNJAlIjkL59KE6) | 3:18 |
 | 93 | [Late to the Party](https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late to the Party](https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR) | 2:57 |
 | 94 | [zarcillos de plata](https://open.spotify.com/track/2Wvs8qJJKrKGB6uZGMTDZB) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Bodhiria](https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq) | 3:18 |
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 | 114 | [GASLIGHT](https://open.spotify.com/track/7IybpxLp5E4Hs1jKbPNSKx) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GASLIGHT](https://open.spotify.com/album/3xhS4dVY0ActRZO8tE0cGh) | 3:17 |
 | 115 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 |
 | 116 | [Just Drive](https://open.spotify.com/track/6JSH36hKFusIabTu1egYO5) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Just Drive](https://open.spotify.com/album/0qI3s1Bbvq8En1KWpJ4qVy) | 2:27 |
-| 117 | [Sweet \(feat\. Landon Sears\)](https://open.spotify.com/track/3IPBftcOHWxzLFyH5svvnY) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp), [Landon Sears](https://open.spotify.com/artist/3IKbh0wq6dhJduifP0yPi3) | [Twenties](https://open.spotify.com/album/4PMJ1YwlsWRJYCxr1S8LX9) | 3:46 |
-| 118 | [False Direction](https://open.spotify.com/track/110PnrQX9AJIt3HNJtjPgt) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 4:37 |
+| 117 | [False Direction](https://open.spotify.com/track/110PnrQX9AJIt3HNJtjPgt) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk) | 4:37 |
+| 118 | [Sweet \(feat\. Landon Sears\)](https://open.spotify.com/track/3IPBftcOHWxzLFyH5svvnY) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp), [Landon Sears](https://open.spotify.com/artist/3IKbh0wq6dhJduifP0yPi3) | [Twenties](https://open.spotify.com/album/4PMJ1YwlsWRJYCxr1S8LX9) | 3:46 |
 | 119 | [high school boy](https://open.spotify.com/track/6Aj3Ff2lIXBZF3KxfQkUH2) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:54 |
 | 120 | [Closer](https://open.spotify.com/track/7aGSmvVvSjrpLlklaWSvG3) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Closer](https://open.spotify.com/album/1iDDVV1s6Qa6oDAEOrc4WL) | 3:27 |
 | 121 | [Afterglow](https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:18 |
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 | 146 | [Koszulka](https://open.spotify.com/track/58GULPDRRkVUMm2AKaBEMm) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Koszulka](https://open.spotify.com/album/0GY7Jpt1L0C891A5WdgUPe) | 4:12 |
 | 147 | [Lotto](https://open.spotify.com/track/5F8zXCNHA4Xzoqi3NR9kUK) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [34Corine](https://open.spotify.com/album/652rsvEfjS9L8RD2gEqJhL) | 2:27 |
 | 148 | [Some Day I Will](https://open.spotify.com/track/1gXzaTjAxXs0wbGPm7MTQu) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [hawi](https://open.spotify.com/artist/26IMKo1iEaPH2g8UlfW1DG) | [Some Day I Will](https://open.spotify.com/album/7kDOOZMDmpwsaDIFG9PGEC) | 3:25 |
-| 149 | [Daughter Of The Sun](https://open.spotify.com/track/07x5IGHde3C9DdVGojqG5B) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Daughter Of The Sun](https://open.spotify.com/album/2vyy1M855VK7gP1yQF6AbS) | 3:57 |
-| 150 | [Pound Town](https://open.spotify.com/track/26cQkxTmCeXaKoOLnIMR26) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Pound Town \- EP](https://open.spotify.com/album/5aHCR84N5N62EPKhxQh1Bi) | 2:09 |
+| 149 | [EXCITED!](https://open.spotify.com/track/3qE98sHohjBGmohgKOSK01) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [COLORWAY](https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy) | 1:37 |
+| 150 | [Daughter Of The Sun](https://open.spotify.com/track/07x5IGHde3C9DdVGojqG5B) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Daughter Of The Sun](https://open.spotify.com/album/2vyy1M855VK7gP1yQF6AbS) | 3:57 |
 
-Snapshot ID: `AAAAALlCnFDDSfRU/LA9c0Bo1MyPgfdK`
+Snapshot ID: `AAAAAETwrFyd0hOBkTL0KX8QlgzzOuE1`

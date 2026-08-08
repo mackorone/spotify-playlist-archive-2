@@ -1,12 +1,12 @@
 {
   "description": "This is KAROL G. The essential tracks, all in one playlist.",
-  "num_followers": 1442633,
+  "num_followers": 1442945,
   "original_name": "This Is KAROL G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAC13DTFmA1v1CxUAck7PvBD",
+  "snapshot_id": "anPOgAAAAABU8yl0qHEAoYo7N9L9MlxI",
   "tracks": [
     {
       "added_at": null,
@@ -102,11 +102,15 @@
         {
           "name": "KAROL G",
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 207626,
-      "name": "PROVENZA",
-      "url": "https://open.spotify.com/track/3HqcNJdZ2seoGxhn0wVNDK"
+      "duration_ms": 197933,
+      "name": "TQG",
+      "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
     },
     {
       "added_at": null,
@@ -170,15 +174,11 @@
         {
           "name": "KAROL G",
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         }
       ],
-      "duration_ms": 197933,
-      "name": "TQG",
-      "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
+      "duration_ms": 207626,
+      "name": "PROVENZA",
+      "url": "https://open.spotify.com/track/3HqcNJdZ2seoGxhn0wVNDK"
     },
     {
       "added_at": null,
@@ -272,7 +272,7 @@
           "url": "https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU"
         }
       ],
-      "duration_ms": 275898,
+      "duration_ms": 268996,
       "name": "Despu\u00e9s de ti",
       "url": "https://open.spotify.com/track/6PbhFQkpQjoojWo2b6Ghoi"
     },
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/12nlJpvrOd7tTOaCxB1UeR"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 198906,
+      "name": "A Ella",
+      "url": "https://open.spotify.com/track/1pkMzGqBBS10nDiiYrNGGJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OCEAN",
         "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
       },
@@ -527,18 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/12nlJpvrOd7tTOaCxB1UeR"
+        "name": "Don't Be Shy",
+        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
       },
       "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
         {
           "name": "KAROL G",
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 198906,
-      "name": "A Ella",
-      "url": "https://open.spotify.com/track/1pkMzGqBBS10nDiiYrNGGJ"
+      "duration_ms": 140500,
+      "name": "Don't Be Shy",
+      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
     },
     {
       "added_at": null,
@@ -559,26 +579,6 @@
       "duration_ms": 200960,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don't Be Shy",
-        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "Don't Be Shy",
-      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 1650,
+  "num_followers": 1653,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAASuw9lBtYnmvvEFLOdBwaXM0CEQa2j",
+  "snapshot_id": "AAASwpo5709XDiKIQKknQXHOiC7R7FUq",
   "tracks": [
     {
       "added_at": "2026-07-14 13:59:29",
@@ -175,6 +175,38 @@
       "duration_ms": 185777,
       "name": "Can't Get You Out of My Head - Audio Pulleys Remix",
       "url": "https://open.spotify.com/track/0TizK9mGVoFiRebj7JP3AP"
+    },
+    {
+      "added_at": "2026-08-07 15:07:54",
+      "album": {
+        "name": "Feeling Fine",
+        "url": "https://open.spotify.com/album/69gxDk3RmebgKifV2T0q1v"
+      },
+      "artists": [
+        {
+          "name": "Lost Fire",
+          "url": "https://open.spotify.com/artist/4lbOe7bfk0TATIgtiNQOzh"
+        }
+      ],
+      "duration_ms": 104621,
+      "name": "Feeling Fine",
+      "url": "https://open.spotify.com/track/7Ddu6z6olJSifdY5gTI3B3"
+    },
+    {
+      "added_at": "2026-08-07 15:00:48",
+      "album": {
+        "name": "Made an Album",
+        "url": "https://open.spotify.com/album/4Vku1OHcKTG7uzELgzjdDW"
+      },
+      "artists": [
+        {
+          "name": "Max Rauch",
+          "url": "https://open.spotify.com/artist/75ZAROPVCZeQCFKwraCWKN"
+        }
+      ],
+      "duration_ms": 198315,
+      "name": "Despite the Outcome",
+      "url": "https://open.spotify.com/track/3o61ISs4qBMzfjAnn6w0GJ"
     },
     {
       "added_at": "2026-08-05 13:01:25",
@@ -5411,6 +5443,86 @@
       "duration_ms": 155229,
       "name": "Blame",
       "url": "https://open.spotify.com/track/1pBQ8RbM3wSYcdv273TwrE"
+    },
+    {
+      "added_at": "2026-08-07 13:53:38",
+      "album": {
+        "name": "Delirium",
+        "url": "https://open.spotify.com/album/6Geo6lAPXfRnOc6UVt4MrL"
+      },
+      "artists": [
+        {
+          "name": "Jonny Amoral",
+          "url": "https://open.spotify.com/artist/6NwioT96GnLXqYSS814noa"
+        }
+      ],
+      "duration_ms": 157437,
+      "name": "Pull the Trigger",
+      "url": "https://open.spotify.com/track/1iQIsHQL0EM8VVwwuRcfPk"
+    },
+    {
+      "added_at": "2026-08-07 13:53:28",
+      "album": {
+        "name": "Bad Moon Rising (Suburban Sessions)",
+        "url": "https://open.spotify.com/album/0VVeJeNzRfABK9I842dej4"
+      },
+      "artists": [
+        {
+          "name": "According To Jack",
+          "url": "https://open.spotify.com/artist/1JVc2ZCDndA1nBgc0nLNSs"
+        }
+      ],
+      "duration_ms": 117106,
+      "name": "Bad Moon Rising - Suburban Sessions",
+      "url": "https://open.spotify.com/track/7DrEIWrFe1FgoF6PHL1MJ6"
+    },
+    {
+      "added_at": "2026-08-07 13:37:06",
+      "album": {
+        "name": "Breaking My Pride",
+        "url": "https://open.spotify.com/album/36Ffv71Q1uYXSvDmZzH3tq"
+      },
+      "artists": [
+        {
+          "name": "Good Fortune",
+          "url": "https://open.spotify.com/artist/5JlD0ywGbSXPatgnstoLIY"
+        }
+      ],
+      "duration_ms": 169371,
+      "name": "Breaking My Pride",
+      "url": "https://open.spotify.com/track/3CGNumEYGFbjr3wDygGu3d"
+    },
+    {
+      "added_at": "2026-08-07 13:36:51",
+      "album": {
+        "name": "Delirium",
+        "url": "https://open.spotify.com/album/6Geo6lAPXfRnOc6UVt4MrL"
+      },
+      "artists": [
+        {
+          "name": "Jonny Amoral",
+          "url": "https://open.spotify.com/artist/6NwioT96GnLXqYSS814noa"
+        }
+      ],
+      "duration_ms": 128936,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/4hELxfCdhxUTrH9An2FxDF"
+    },
+    {
+      "added_at": "2026-08-07 14:33:41",
+      "album": {
+        "name": "Citylights",
+        "url": "https://open.spotify.com/album/1Po5D9atLpAMiGiPnHRJOt"
+      },
+      "artists": [
+        {
+          "name": "Adil Diamond",
+          "url": "https://open.spotify.com/artist/7disYdg5mq01jUjwC90S5Z"
+        }
+      ],
+      "duration_ms": 152942,
+      "name": "Citylights",
+      "url": "https://open.spotify.com/track/2cQPzcs1gAyoS2OuwU2zYY"
     }
   ],
   "unique_name": "Spotify Radio",

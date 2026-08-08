@@ -1,12 +1,12 @@
 {
   "description": "Relive the good ol' days with these 60s and 70s classics.",
-  "num_followers": 683604,
+  "num_followers": 683602,
   "original_name": "Happy Days",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADT919FtGsDUVysrmcoOeCOTTEGz",
+  "snapshot_id": "AAAAAHr1KbUbHB08u1pqZj+9tDc5vBd8",
   "tracks": [
     {
       "added_at": "2025-02-10 18:28:49",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-02-10 18:28:49",
       "album": {
-        "name": "The Very Best Of \"The Archies\"",
-        "url": "https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi"
-      },
-      "artists": [
-        {
-          "name": "The Archies",
-          "url": "https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh"
-        }
-      ],
-      "duration_ms": 167186,
-      "name": "Sugar, Sugar",
-      "url": "https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF"
-    },
-    {
-      "added_at": "2025-02-10 18:28:49",
-      "album": {
         "name": "Do You Love Me (Now That I Can Dance)",
         "url": "https://open.spotify.com/album/0lsPVVIQ2e9CzDZCTtQB89"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 172946,
       "name": "Do You Love Me - Mono Single",
       "url": "https://open.spotify.com/track/0Omt3rVppHIlYFXNL1VWgL"
+    },
+    {
+      "added_at": "2025-02-10 18:28:49",
+      "album": {
+        "name": "The Very Best Of \"The Archies\"",
+        "url": "https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi"
+      },
+      "artists": [
+        {
+          "name": "The Archies",
+          "url": "https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh"
+        }
+      ],
+      "duration_ms": 167186,
+      "name": "Sugar, Sugar",
+      "url": "https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF"
     },
     {
       "added_at": "2025-02-10 18:28:49",

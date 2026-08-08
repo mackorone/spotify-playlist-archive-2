@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Reynaldos de la Sierra en cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,420 likes - 125 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,413 likes - 125 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,12 +78,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 68 | [Como En Los Viejos Tiempos](https://open.spotify.com/track/4GBRHjkc0OBRtzZBdO1BVq) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como En Los Viejos Tiempos](https://open.spotify.com/album/0L42ly7nUhlU7B70Dsuv2P) | 4:05 |
 | 69 | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh) | 2:44 |
 | 70 | [A Puro Dolor](https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [A Puro Dolor](https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a) | 2:48 |
-| 71 | [OOTD](https://open.spotify.com/track/2MN6yVBtbTvATWMuNI0SQW) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [OOTD](https://open.spotify.com/album/0WZ69bniYLrMAzOsHlAFmU) | 2:49 |
-| 72 | [Te Deseo Lo Mejor](https://open.spotify.com/track/5ZyUe1pOBYblWLN2E3xJXu) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Te Deseo Lo Mejor](https://open.spotify.com/album/3TJYqNwsxy6on2wKnQSOUc) | 2:20 |
+| 71 | [Te Deseo Lo Mejor](https://open.spotify.com/track/5ZyUe1pOBYblWLN2E3xJXu) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Te Deseo Lo Mejor](https://open.spotify.com/album/3TJYqNwsxy6on2wKnQSOUc) | 2:20 |
+| 72 | [OOTD](https://open.spotify.com/track/2MN6yVBtbTvATWMuNI0SQW) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [OOTD](https://open.spotify.com/album/0WZ69bniYLrMAzOsHlAFmU) | 2:49 |
 | 73 | [Si Me Ven](https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Si Me Ven](https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r) | 2:54 |
 | 74 | [Coleccionando Heridas](https://open.spotify.com/track/3A6JavykTX0AKvePIwxzaA) | [Tony García](https://open.spotify.com/artist/1NxRZcV0D66HCRfWrjjLja), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Coleccionando Heridas](https://open.spotify.com/album/49FioVijez4ufouOFO0GOu) | 3:52 |
-| 75 | [Aqui Voy](https://open.spotify.com/track/5kJRw7qC03YRRAUo6An5AO) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Aqui Voy](https://open.spotify.com/album/6tQC4IL4LPhYP2iXvgCt6F) | 4:02 |
-| 76 | [Mi Morenita](https://open.spotify.com/track/4Xly6Wx7KtcJc739Y4myOt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [JPL](https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd) | [Mi Morenita](https://open.spotify.com/album/1TFykciPJZ54BYl8iZybM1) | 2:29 |
+| 75 | [Mi Morenita](https://open.spotify.com/track/4Xly6Wx7KtcJc739Y4myOt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [JPL](https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd) | [Mi Morenita](https://open.spotify.com/album/1TFykciPJZ54BYl8iZybM1) | 2:29 |
+| 76 | [Aqui Voy](https://open.spotify.com/track/5kJRw7qC03YRRAUo6An5AO) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Aqui Voy](https://open.spotify.com/album/6tQC4IL4LPhYP2iXvgCt6F) | 4:02 |
 | 77 | [Modo DND](https://open.spotify.com/track/1TEKUj8c5iyRNUUxo9SdSD) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Modo DND](https://open.spotify.com/album/0HkgYr2M6KeK2dWgIJE6AC) | 3:40 |
 | 78 | [PLAYBOY](https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Sin Rumbo](https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi) | 3:23 |
 | 79 | [Cuando Tú Me Miras](https://open.spotify.com/track/5kItv0UayV5g4Xs9FMshDR) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 2:35 |
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 103 | [Hoy la Vi Con Él \- En Vivo](https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Hoy la Vi Con Él \(En Vivo\)](https://open.spotify.com/album/4RTwqsdd8FztLzycvZ05BX) | 3:43 |
 | 104 | [Uno mas Uno Igual a Zero](https://open.spotify.com/track/3TrePR8cFXMlMvlLD9lapD) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Uno Mas Uno Igual A Zero](https://open.spotify.com/album/4Kn4jPceGT1pgHDjMk9WQL) | 2:39 |
 | 105 | [Ahora Estoy Mejor](https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ahora Estoy Mejor](https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF) | 4:34 |
-| 106 | [Mi Deber](https://open.spotify.com/track/5w5VxYwS2G9uffuQjY29XN) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Mi Deber](https://open.spotify.com/album/2ILdDtamjfh4OMDhlRbjwk) | 2:50 |
-| 107 | [Si Estuviera el Güero](https://open.spotify.com/track/2llTfNMuotrHlU6ZtOaYUb) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Si Estuviera el Güero](https://open.spotify.com/album/1nlJJxuK9NlGUVwOCvLkee) | 4:05 |
+| 106 | [Si Estuviera el Güero](https://open.spotify.com/track/2llTfNMuotrHlU6ZtOaYUb) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Si Estuviera el Güero](https://open.spotify.com/album/1nlJJxuK9NlGUVwOCvLkee) | 4:05 |
+| 107 | [Mi Deber](https://open.spotify.com/track/5w5VxYwS2G9uffuQjY29XN) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Mi Deber](https://open.spotify.com/album/2ILdDtamjfh4OMDhlRbjwk) | 2:50 |
 | 108 | [Buenas Rachas](https://open.spotify.com/track/3Tsa2DGBB3HkNk27J7nsnI) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Buenas Rachas](https://open.spotify.com/album/18pfoIprtoyL7UZ0r5aJ2e) | 2:33 |
 | 109 | [Perro Abandonado](https://open.spotify.com/track/2Xibft7dpTSCS9EQk5mQs0) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Perro Abandonado](https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI) | 3:31 |
 | 110 | [Pal Amor Soy Malo](https://open.spotify.com/track/7gwKQ5sNGRFZ70o0SK5DTR) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Pal Amor Soy Malo](https://open.spotify.com/album/2oyTXMoyxT2C35oiFrmGbC) | 2:36 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 124 | [Casi Algo](https://open.spotify.com/track/2InFGvJZvQjiGZixFFvvj1) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Casi Algo](https://open.spotify.com/album/1Tk99mHlULtaxKGSjkrgEA) | 3:33 |
 | 125 | [Don Nadie](https://open.spotify.com/track/5BhW3x0tZWGSwCPzjwVA1Q) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j) | [Don Nadie](https://open.spotify.com/album/2dGgRCiflxlEnLXADfuD0A) | 3:11 |
 
-Snapshot ID: `AAAAAEvIgXko0pWbuw3Bq/pcPM8mpTgz`
+Snapshot ID: `AAAAAIgUiySVxs57SJVkGS8hQ409lGjI`

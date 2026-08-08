@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4CGLgiKls.md) - [plain]
 
 > Se viene el partido, la previa es con música!
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,986 likes - 65 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,931 likes - 65 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4CGLgiKls.md) - [plain]
 | 23 | [Amor de Vago](https://open.spotify.com/track/5MKbWaXeSQSmzmo7gPQha1) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Malandro](https://open.spotify.com/artist/6Gsh7oJoJ5EQUuQk0EhfWL) | [Amor de Vago](https://open.spotify.com/album/7dIwIFhUC8xNF0bICvgMX2) | 3:08 |
 | 24 | [Persiana Americana \- Remasterizado 2007](https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Signos \(Remastered\)](https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi) | 4:52 |
 | 25 | [Por Mil Noches](https://open.spotify.com/track/5vHWh24GAsXJ7tnIu8v7UN) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Libertad](https://open.spotify.com/album/7GqNN5mgkE38TFBjU8vKCd) | 4:43 |
-| 26 | [Para La Gilada \- Remix](https://open.spotify.com/track/7oRXN6etpQGWG2yAnQFzVB) | [Meta Guacha](https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Para La Gilada \(Remix\)](https://open.spotify.com/album/27r4d2S6tSMdRxkou6ZCyU) | 2:56 |
-| 27 | [Tu Carcel \- En Vivo](https://open.spotify.com/track/1lAFWiaVhJhvQ5Gtzp6vSu) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [En Vivo](https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9) | 4:02 |
+| 26 | [Tu Carcel \- En Vivo](https://open.spotify.com/track/1lAFWiaVhJhvQ5Gtzp6vSu) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [En Vivo](https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9) | 4:02 |
+| 27 | [Para La Gilada \- Remix](https://open.spotify.com/track/7oRXN6etpQGWG2yAnQFzVB) | [Meta Guacha](https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Para La Gilada \(Remix\)](https://open.spotify.com/album/27r4d2S6tSMdRxkou6ZCyU) | 2:56 |
 | 28 | [Soy Favela](https://open.spotify.com/track/3TfRpsYPQSXqqramSoWlNg) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Soy Favela](https://open.spotify.com/album/1S3ANUh7napknhM3pqConG) | 2:46 |
 | 29 | [Como Eran Las Cosas](https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 4:00 |
 | 30 | [Pensamientos](https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 3:53 |
@@ -45,14 +45,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4CGLgiKls.md) - [plain]
 | 35 | [Irresponsables](https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Infame](https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn) | 2:36 |
 | 36 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 |
 | 37 | [Un Ángel para Tu Soledad](https://open.spotify.com/track/6kUopck7LHVadAjAFcXiTj) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Lobo Suelto](https://open.spotify.com/album/1cvN5QA28nC5QYpjoksMGe) | 3:51 |
-| 38 | [Corazón Sin Cara \- En Vivo](https://open.spotify.com/track/2f9AllMPPxD0aulDlYZ4M5) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Corazón Sin Cara \(En Vivo\)](https://open.spotify.com/album/0pSEhHOwpHOzWvFynaLNcR) | 2:39 |
-| 39 | [Obsesionario en La Mayor](https://open.spotify.com/track/5EGVGkRRJ2udpRnVGpx8LM) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Obsesionario](https://open.spotify.com/album/34xv7nHn0WPSBABH4L3okX) | 4:26 |
-| 40 | [Tan Lejos](https://open.spotify.com/track/44m9PAUZYeOEGeaTYh6NAl) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Juan Casanova](https://open.spotify.com/artist/6AvKcjNtR1AYU8wN72MvNK) | [El Camino Más Largo](https://open.spotify.com/album/1uepX7Q6C8lSh2kR96DmtX) | 4:58 |
+| 38 | [Obsesionario en La Mayor](https://open.spotify.com/track/5EGVGkRRJ2udpRnVGpx8LM) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Obsesionario](https://open.spotify.com/album/34xv7nHn0WPSBABH4L3okX) | 4:26 |
+| 39 | [Tan Lejos](https://open.spotify.com/track/44m9PAUZYeOEGeaTYh6NAl) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Juan Casanova](https://open.spotify.com/artist/6AvKcjNtR1AYU8wN72MvNK) | [El Camino Más Largo](https://open.spotify.com/album/1uepX7Q6C8lSh2kR96DmtX) | 4:58 |
+| 40 | [Corazón Sin Cara \- En Vivo](https://open.spotify.com/track/2f9AllMPPxD0aulDlYZ4M5) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Corazón Sin Cara \(En Vivo\)](https://open.spotify.com/album/0pSEhHOwpHOzWvFynaLNcR) | 2:39 |
 | 41 | [Creo](https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Señales](https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy) | 4:49 |
 | 42 | [No Se Va](https://open.spotify.com/track/1Zh6HllrXT0Khrwk2j3TrZ) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [No Se Va](https://open.spotify.com/album/2slgi6IwbZ0frfvquBmEPv) | 3:35 |
-| 43 | [La Cuarta Estrella \(Versión Hinchada\)](https://open.spotify.com/track/1QPjHLJWBXvE5Ymck4wtfW) | [PALMITO](https://open.spotify.com/artist/4dNjHVtAnfP7CSXm0VJu8v) | [La Cuarta Estrella \(Versión Hinchada\)](https://open.spotify.com/album/3u1Qtnb3qTJmnRxCxxUtNi) | 2:15 |
-| 44 | [Pasos Al Costado](https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:16 |
-| 45 | [Nunca quise](https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:20 |
+| 43 | [Pasos Al Costado](https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:16 |
+| 44 | [Nunca quise](https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:20 |
+| 45 | [La Cuarta Estrella \(Versión Hinchada\)](https://open.spotify.com/track/1QPjHLJWBXvE5Ymck4wtfW) | [PALMITO](https://open.spotify.com/artist/4dNjHVtAnfP7CSXm0VJu8v) | [La Cuarta Estrella \(Versión Hinchada\)](https://open.spotify.com/album/3u1Qtnb3qTJmnRxCxxUtNi) | 2:15 |
 | 46 | [Un Poco de Amor Francés](https://open.spotify.com/track/14rcLGX83RpsORAIzC4U4g) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [La Mosca y la Sopa](https://open.spotify.com/album/1JZBc7tWO3m3ryyToiLTdj) | 3:26 |
 | 47 | [Siguiendo la Luna \- Remasterizado 2008](https://open.spotify.com/track/1orgfjGJoycODSItcGVatE) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El León](https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H) | 4:51 |
 | 48 | [Pupilas Lejanas](https://open.spotify.com/track/4k3K6Ke6KfAWb7zyQWrTEA) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Mystic Love](https://open.spotify.com/album/3yUzbMVyjAV7oU7G42rPUa) | 3:55 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4CGLgiKls.md) - [plain]
 | 64 | [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 |
 | 65 | [El Fantasma](https://open.spotify.com/track/0N361WhEqVunVl5ZBkfd70) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [GUAU!](https://open.spotify.com/album/1b0s5a9iIWIH5nEpzWSjHG) | 3:57 |
 
-Snapshot ID: `AAAAAAfx8AFRIngHVao7iI3CxiuqOhHk`
+Snapshot ID: `AAAAAAmEgwAArCBjZCxnGEplVN6PXeF+`

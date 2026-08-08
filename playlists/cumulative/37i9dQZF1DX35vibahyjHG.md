@@ -4,7 +4,7 @@
 
 > African women at full volume <br/>Cover: <a href="https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA?si=fEvOcYs0QCWksz\_4n\_cyVQ">Somi</a>
 
-673 songs - 1 day 13 hr 35 min
+673 songs - 1 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -589,6 +589,7 @@
 | [this!](https://open.spotify.com/track/2Cerrfi8MbeJLW07itVbr4) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [roses are red, tears are blue — A Fountain Baby Extended Play](https://open.spotify.com/album/5PG3V76DdkOmlZT7RyrvPU) | 3:04 | 2025-10-08 | 2025-12-04 |
 | [Thobela](https://open.spotify.com/track/2nbIOACMsrzwJRffLmysWa) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Farm Julia](https://open.spotify.com/album/1rredyCC7vDRBE3wxb153V) | 4:50 | 2026-05-06 | 2026-08-07 |
 | [Thokoza](https://open.spotify.com/track/30sDS4E23SZCd95dhXlGlU) | [Sam Deep](https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9) | [Thokoza](https://open.spotify.com/album/2JDTorcc8J7HJS7POONsKd) | 6:22 | 2024-03-06 | 2024-04-04 |
+| [Throw Something](https://open.spotify.com/track/5Ahzftt1kLGb1daMiLOk8e) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA) | [What Does It Take to Bloom?](https://open.spotify.com/album/54ST4y3yA1Is8hXRhDpH2o) | 5:07 | 2026-08-06 |  |
 | [Thunderstorm In Surulere \- A COLORS SHOW](https://open.spotify.com/track/2kJsAjvUCXdsq4NKU27eOj) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Thunderstorm In Surulere \- A COLORS SHOW](https://open.spotify.com/album/2upZ5fvsaWPT2LHb7d9IJJ) | 3:02 | 2022-02-02 | 2022-03-08 |
 | [Tick](https://open.spotify.com/track/4Kt1FWWpVEubzcyPiGBOKL) | [ReaDaSoul](https://open.spotify.com/artist/5sDXjDRUzbS3ZWAroXJ2w9), [Sfarzo Rtee](https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj), [Josiah De Disciple](https://open.spotify.com/artist/0Es1TBdBiQPIdwQWLJelte), [Lash T](https://open.spotify.com/artist/5UrNvnWzl5h7RFOxSUVpkp) | [Tick](https://open.spotify.com/album/1VZK3iiI2b2eyyvHNl2ikD) | 7:00 | 2024-03-06 | 2024-04-04 |
 | [TLC \(No Love Lost\)](https://open.spotify.com/track/5v1EjsI6L0bqR4DKZE5CuR) | [Aurie](https://open.spotify.com/artist/0mdtCl5QYMb1p4y24HJQi8) | [S'tori](https://open.spotify.com/album/4FxOsz3mcWnGN54Bjftq3e) | 3:45 | 2025-07-02 | 2025-07-12 |
@@ -601,7 +602,6 @@
 | [Tornado](https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Tornado](https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U) | 2:54 | 2026-07-10 |  |
 | [Toss It](https://open.spotify.com/track/6bOCT1tRZEq8c3F5JrGaWL) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [Lisha G](https://open.spotify.com/artist/5nwxAowdUQSK1tuyVHD5lJ), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Toss It](https://open.spotify.com/album/3yQlKR9h9RrvUpfLVsLGIR) | 3:32 | 2026-04-01 | 2026-05-06 |
 | [Touch Your Soul \(feat\. Merlyn Wood\)](https://open.spotify.com/track/4PRdVFLaAPWXJvIVwKnLqa) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [Merlyn Wood](https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y) | [Touch Your Soul / Love & Rage](https://open.spotify.com/album/7dDuLnLlmPVTMHx0Quxefj) | 3:09 | 2023-04-05 | 2023-05-04 |
-| [Track 1](https://open.spotify.com/track/5Ahzftt1kLGb1daMiLOk8e) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA) | [What Does It Take to Bloom?](https://open.spotify.com/album/54ST4y3yA1Is8hXRhDpH2o) | 0:00 | 2026-08-06 |  |
 | [TREASURE](https://open.spotify.com/track/3arRudOsaktr2TIHIBrrPW) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [TREASURE](https://open.spotify.com/album/496b5N0z6i4Z2il9yd1qnT) | 2:12 | 2026-07-10 |  |
 | [Tribal Love](https://open.spotify.com/track/0L7aZE2uLmrhG4h0xlboqE) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [4PLAY](https://open.spotify.com/album/565GXl4uD52IKCtX4Vo4nU) | 2:26 | 2026-08-06 |  |
 | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/track/7bhyLtr2FFiL9Psq42UNiw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/album/4FdZWXrvbPEXhWuyCZaF5Q) | 2:28 | 2022-11-02 | 2022-12-01 |

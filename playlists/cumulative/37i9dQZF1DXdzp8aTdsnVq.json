@@ -107,6 +107,24 @@
     },
     {
       "album": {
+        "name": "A Mi Tierra",
+        "url": "https://open.spotify.com/album/6GECy1dVAcB6J1uGjMnn03"
+      },
+      "artists": [
+        {
+          "name": "Adriana Lucia",
+          "url": "https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205325,
+      "name": "A Mi Tierra",
+      "url": "https://open.spotify.com/track/5YdfRELV93WXtfJ0W0bnM5"
+    },
+    {
+      "album": {
         "name": "A Tu Ladito",
         "url": "https://open.spotify.com/album/4OeWJEnv1nbzxEh59hj2qz"
       },
@@ -2616,7 +2634,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 167500,
       "name": "Merenguito",
       "url": "https://open.spotify.com/track/2vKS8OvHJeMgRJft3JrKaD"
@@ -3480,7 +3498,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 236506,
       "name": "Reg\u00e1lame una Noche",
       "url": "https://open.spotify.com/track/7nuhIriqmo87iVEfVkc58T"
@@ -3648,7 +3666,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 210626,
       "name": "Sigo Siendo el Pap\u00e1",
       "url": "https://open.spotify.com/track/7byzvi04FBDvcELhvqnhbV"

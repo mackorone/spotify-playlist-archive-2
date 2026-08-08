@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/43eWkIiNDbimyD35iong1G.md) - [plain]
 
 > Your perfect 2026 Wedding Reception Playlist! ✨ Romantic ceremony ballads, joyful reception anthems, and timeless first dance songs\. Featuring Ed Sheeran, Bruno Mars, John Legend, Taylor Swift, Adele, and more! Updated Weekly! ❤️ Save for your special day.
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 203,194 likes - 151 songs - 9 hr 7 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 203,272 likes - 151 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/43eWkIiNDbimyD35iong1G.md) - [plain]
 | 150 | [Locked Out of Heaven](https://open.spotify.com/track/096akzdwi93mbRPxAQrgjF) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 3:53 |
 | 151 | [You've Got The Love](https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 2:48 |
 
-Snapshot ID: `AAAEu3/QzJsFAClrn43oiAiJUt+e7vVy`
+Snapshot ID: `AAAEvdD9IrIQgOWqEc3UBOJIJApjW7FE`

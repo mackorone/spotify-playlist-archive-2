@@ -1,12 +1,12 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 733887,
+  "num_followers": 733872,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB9dXsxv8AMUwnRX7oSnu/zv3GlH",
+  "snapshot_id": "AAAAAAC6z0/L0TgGaOM42za60UiOUCNc",
   "tracks": [
     {
       "added_at": "2026-07-24 04:02:24",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-07-24 04:02:24",
       "album": {
-        "name": "Girl Going Nowhere",
-        "url": "https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU"
-      },
-      "artists": [
-        {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
-        }
-      ],
-      "duration_ms": 207066,
-      "name": "Girl Goin' Nowhere",
-      "url": "https://open.spotify.com/track/2lyEpuvVOnNGzV5c89Vnpf"
-    },
-    {
-      "added_at": "2026-07-24 04:02:24",
-      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 225146,
       "name": "Wait Up For Me",
       "url": "https://open.spotify.com/track/1pLbS57mLE8iG4njSQIAtX"
+    },
+    {
+      "added_at": "2026-07-24 04:02:24",
+      "album": {
+        "name": "Girl Going Nowhere",
+        "url": "https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "duration_ms": 207066,
+      "name": "Girl Goin' Nowhere",
+      "url": "https://open.spotify.com/track/2lyEpuvVOnNGzV5c89Vnpf"
     },
     {
       "added_at": "2026-07-24 04:02:24",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-07-24 04:02:24",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 156386,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao"
-    },
-    {
-      "added_at": "2026-07-24 04:02:24",
-      "album": {
         "name": "Dance With You (Acoustic)",
         "url": "https://open.spotify.com/album/3XqasHAHTOSZkFUtX4frj0"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 190235,
       "name": "Dance With You - Acoustic",
       "url": "https://open.spotify.com/track/4Hr2ypEKFXox6oxw9dTkSS"
+    },
+    {
+      "added_at": "2026-07-24 04:02:24",
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "duration_ms": 156386,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao"
     },
     {
       "added_at": "2026-07-24 04:02:24",
@@ -935,18 +935,18 @@
     {
       "added_at": "2026-07-24 04:02:24",
       "album": {
-        "name": "Miles Away",
-        "url": "https://open.spotify.com/album/5TdJYg0fQ7IvBxFqwtChfv"
+        "name": "KING",
+        "url": "https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj"
       },
       "artists": [
         {
-          "name": "Krysta Nick",
-          "url": "https://open.spotify.com/artist/3hld0M8pAutQUblD6tI1ol"
+          "name": "Tucker Beathard",
+          "url": "https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/0QnOPRxrCRLeRUEJKqecaG"
+      "duration_ms": 205840,
+      "name": "20/10 TN",
+      "url": "https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV"
     },
     {
       "added_at": "2026-07-24 04:02:24",
@@ -967,18 +967,18 @@
     {
       "added_at": "2026-07-24 04:02:24",
       "album": {
-        "name": "KING",
-        "url": "https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj"
+        "name": "Miles Away",
+        "url": "https://open.spotify.com/album/5TdJYg0fQ7IvBxFqwtChfv"
       },
       "artists": [
         {
-          "name": "Tucker Beathard",
-          "url": "https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk"
+          "name": "Krysta Nick",
+          "url": "https://open.spotify.com/artist/3hld0M8pAutQUblD6tI1ol"
         }
       ],
-      "duration_ms": 205840,
-      "name": "20/10 TN",
-      "url": "https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV"
+      "duration_ms": 220000,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/0QnOPRxrCRLeRUEJKqecaG"
     },
     {
       "added_at": "2026-07-24 04:02:24",

@@ -4,7 +4,7 @@
 
 > IBZ szn\. Cover: BLOND:ISH
 
-1,391 songs - 3 day 23 hr 37 min
+1,391 songs - 3 day 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -976,6 +976,7 @@
 | [Que Calor, Que Calor](https://open.spotify.com/track/7x3EL6oSsGBoNjBRvwCAvU) | [MESTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Que Calor, Que Calor](https://open.spotify.com/album/30PS8JTib0xrnYojz7SDXU) | 3:19 | 2026-02-19 | 2026-05-15 |
 | [Que Pasa](https://open.spotify.com/track/77dOT1YEIqTjBRYKYPRtBI) | [Charlie Roennez](https://open.spotify.com/artist/6pSJIr64WeGHbSKyQIHBgd) | [Que Pasa](https://open.spotify.com/album/2DapXtElvqNWQJ2xpQaDy8) | 2:28 | 2024-06-20 | 2025-08-01 |
 | [Que Pasa](https://open.spotify.com/track/4XwHUW9PAPHIYOW8bXEaSK) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR) | [Que Pasa](https://open.spotify.com/album/7ppvKpJGdfqeqkhM5lP6ur) | 7:19 | 2023-09-28 | 2025-01-10 |
+| [Questions](https://open.spotify.com/track/7dGiRNwZUp7vjY7vpmNAG5) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Piem](https://open.spotify.com/artist/08st4VKj9jjZJ5eKzAOHq8), [SLM](https://open.spotify.com/artist/7CEy8XnNrNtDipTl5aYt9T) | [Questions EP](https://open.spotify.com/album/0UJ8YgL13eqTKUeDvIhqqQ) | 3:16 | 2026-08-06 |  |
 | [Quiero Mas](https://open.spotify.com/track/2ogaLLYpu8IMAohymwG4Ju) | [ABEL](https://open.spotify.com/artist/2EsYY7ZHoWaQgPFwWgbyMe), [Maria Nocheydia](https://open.spotify.com/artist/5dPZS0kwzN4hS7GLtaL0cc) | [Trouble](https://open.spotify.com/album/7j4j3UPchKJwFn60HTCcEh) | 3:19 | 2026-05-14 |  |
 | [Ras In France](https://open.spotify.com/track/3qcwqE8ZrkoK2zvDPVczMn) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Ras In France](https://open.spotify.com/album/42qxRpwtMaIUnT7qFa6DHt) | 3:00 | 2024-04-04 | 2024-06-21 |
 | [Rather Die](https://open.spotify.com/track/22s4gALYjR7Nsm4YNaDlcy) | [Soho Disco](https://open.spotify.com/artist/4QUOWaXZAU66Kgr3ynuYUy) | [Rather Die](https://open.spotify.com/album/0DPJ26Z99gvqqEfgrqYcTF) | 3:37 | 2024-06-20 | 2024-07-27 |
@@ -1249,7 +1250,6 @@
 | [Topdown](https://open.spotify.com/track/56dDonzTxrZKWuVDqUOYGd) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Channel Tres](https://open.spotify.com/album/4pbf36fsCW0oe7myRLZEtz) | 3:50 | 2024-04-18 | 2025-01-10 |
 | [Topdown](https://open.spotify.com/track/6KflfPD0qIbbB1PQyAHla5) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Channel Tres](https://open.spotify.com/album/01Vvrmisrvr1YOIGRn4brG) | 3:50 | 2023-04-13 | 2024-04-19 |
 | [Tough Love \- Hunter/Game Remix](https://open.spotify.com/track/0pWSyACzINkKD5cR1GTTGW) | [Sailor & I](https://open.spotify.com/artist/2RZbJDQz3gwJppZzfbuxTx), [Hunter/Game](https://open.spotify.com/artist/2EpNqFMVXOEGaliyKnZzDt) | [Tough Love \(Hunter/Game Remix\)](https://open.spotify.com/album/0FmOUDv2kmle909MbgVhw0) | 5:05 | 2025-04-17 | 2026-05-15 |
-| [Track 1](https://open.spotify.com/track/7dGiRNwZUp7vjY7vpmNAG5) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [Questions EP](https://open.spotify.com/album/0UJ8YgL13eqTKUeDvIhqqQ) | 0:00 | 2026-08-06 |  |
 | [Track With The Organ](https://open.spotify.com/track/7lysSENrRlBL6kjFfmyTZR) | [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj) | [Track With The Organ](https://open.spotify.com/album/03NrClkwCuRCHhWmtXqYDy) | 2:12 | 2026-02-26 | 2026-05-15 |
 | [Tranquilao](https://open.spotify.com/track/55JldO2wWzdj87gNz351ZH) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Tranquilao](https://open.spotify.com/album/20SFmEkOhcF3IwYYTOO0mS) | 3:00 | 2023-10-12 | 2025-01-10 |
 | [Translator \- Sparrow & Barbossa Remix](https://open.spotify.com/track/7yUHRTN4EjSyXz3WPiy4as) | [Kino Todo](https://open.spotify.com/artist/2kzHzn9DTankt1OfK1U8ol), [Sima Noon](https://open.spotify.com/artist/2DMdTMjbXXHnlhsnJ9UJyz), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx) | [Translator \(Sparrow & Barbossa Remix\)](https://open.spotify.com/album/1rktUHduRNE1EemdaCX2Mn) | 5:31 | 2024-06-20 | 2025-08-01 |

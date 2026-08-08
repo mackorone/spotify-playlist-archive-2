@@ -1,12 +1,12 @@
 {
   "description": "Sei nella tua running era e stai preparando a tua prossima mezza maratona \ud83c\udfc3\ud83c\udffb",
-  "num_followers": 136637,
+  "num_followers": 136665,
   "original_name": "Hit Per Correre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIaycx8W76v9IRZyUTrcuZUwIIcR",
+  "snapshot_id": "AAAAAGhrLqyASkAkk7axt4G7VpkXrg3z",
   "tracks": [
     {
       "added_at": "2026-07-30 23:00:21",
@@ -319,6 +319,22 @@
     {
       "added_at": "2026-07-30 23:00:21",
       "album": {
+        "name": "Push Up (Main Edit)",
+        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "duration_ms": 139300,
+      "name": "Push Up - Main Edit",
+      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
+    },
+    {
+      "added_at": "2026-07-30 23:00:21",
+      "album": {
         "name": "Pursuit Of Happiness [Extended Steve Aoki Remix (Explicit)]",
         "url": "https://open.spotify.com/album/38MFjDPIDJFfLF7IVpe1rv"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 373626,
       "name": "Pursuit Of Happiness - Extended Steve Aoki Remix",
       "url": "https://open.spotify.com/track/5PX4uS1LqlWEPL69phPVQQ"
-    },
-    {
-      "added_at": "2026-07-30 23:00:21",
-      "album": {
-        "name": "Push Up (Main Edit)",
-        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
-      },
-      "artists": [
-        {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
-        }
-      ],
-      "duration_ms": 139300,
-      "name": "Push Up - Main Edit",
-      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
     },
     {
       "added_at": "2026-07-30 23:00:21",
@@ -599,26 +599,6 @@
     {
       "added_at": "2026-07-30 23:00:21",
       "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2026-07-30 23:00:21",
-      "album": {
         "name": "WannaCry",
         "url": "https://open.spotify.com/album/7FLJw9LUKwmtGREi55tWfJ"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 219367,
       "name": "WannaCry",
       "url": "https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi"
+    },
+    {
+      "added_at": "2026-07-30 23:00:21",
+      "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
       "added_at": "2026-07-30 23:00:21",
@@ -699,26 +699,6 @@
     {
       "added_at": "2026-07-30 23:00:21",
       "album": {
-        "name": "Don't Be Shy",
-        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "Don't Be Shy",
-      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
-    },
-    {
-      "added_at": "2026-07-30 23:00:21",
-      "album": {
         "name": "Desire (with Sam Smith)",
         "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 179161,
       "name": "Desire (with Sam Smith)",
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
+    },
+    {
+      "added_at": "2026-07-30 23:00:21",
+      "album": {
+        "name": "Don't Be Shy",
+        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "Don't Be Shy",
+      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
     },
     {
       "added_at": "2026-07-30 23:00:21",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-07-30 23:00:21",
       "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 153526,
+      "name": "Club classics",
+      "url": "https://open.spotify.com/track/0CySZwyRJ0vyUqtSjM9i2k"
+    },
+    {
+      "added_at": "2026-07-30 23:00:21",
+      "album": {
         "name": "REACT",
         "url": "https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 201145,
       "name": "REACT",
       "url": "https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi"
-    },
-    {
-      "added_at": "2026-07-30 23:00:21",
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 153526,
-      "name": "Club classics",
-      "url": "https://open.spotify.com/track/0CySZwyRJ0vyUqtSjM9i2k"
     },
     {
       "added_at": "2026-07-30 23:00:21",
@@ -939,26 +939,6 @@
     {
       "added_at": "2026-07-30 23:00:21",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 176766,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
-    },
-    {
-      "added_at": "2026-07-30 23:00:21",
-      "album": {
         "name": "Pepas (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/5Auj1vFNdvZDtyV0rqfVIQ"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 223384,
       "name": "Pepas - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/1bFgMkoazsyZGSflpCzYm6"
+    },
+    {
+      "added_at": "2026-07-30 23:00:21",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 176766,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
     },
     {
       "added_at": "2026-07-30 23:00:21",
@@ -1619,30 +1619,6 @@
     {
       "added_at": "2026-07-30 23:00:21",
       "album": {
-        "name": "Head Shoulders Knees & Toes (feat. Norma Jean Martine)",
-        "url": "https://open.spotify.com/album/1MZ3ZQqAV3wFjHjaOe6KFz"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Quarterhead",
-          "url": "https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY"
-        },
-        {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
-        }
-      ],
-      "duration_ms": 156960,
-      "name": "Head Shoulders Knees & Toes (feat. Norma Jean Martine)",
-      "url": "https://open.spotify.com/track/6i7zAdNhzUN2k1HcrBxPHG"
-    },
-    {
-      "added_at": "2026-07-30 23:00:21",
-      "album": {
         "name": "LA NOCHE",
         "url": "https://open.spotify.com/album/3iBDg8qZiUWJy0kiZHI3Cv"
       },
@@ -1663,6 +1639,30 @@
       "duration_ms": 212244,
       "name": "LA NOCHE",
       "url": "https://open.spotify.com/track/5vu69csqeUJheoQWPd2MoM"
+    },
+    {
+      "added_at": "2026-07-30 23:00:21",
+      "album": {
+        "name": "Head Shoulders Knees & Toes (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/1MZ3ZQqAV3wFjHjaOe6KFz"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Quarterhead",
+          "url": "https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "duration_ms": 156960,
+      "name": "Head Shoulders Knees & Toes (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/6i7zAdNhzUN2k1HcrBxPHG"
     },
     {
       "added_at": "2026-07-30 23:00:21",

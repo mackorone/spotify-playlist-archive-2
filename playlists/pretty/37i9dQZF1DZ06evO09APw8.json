@@ -1,12 +1,12 @@
 {
   "description": "This is Leon Thomas. The essential tracks, all in one playlist.",
-  "num_followers": 24440,
+  "num_followers": 24466,
   "original_name": "This Is Leon Thomas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAABGi9Ma5WLx0GQOqxLZxFIM",
+  "snapshot_id": "anPOgAAAAACyHjJFDd0DPIWRYYei2j+f",
   "tracks": [
     {
       "added_at": null,
@@ -206,15 +206,11 @@
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
         }
       ],
-      "duration_ms": 226254,
-      "name": "LUCID DREAMS (feat. Masego)",
-      "url": "https://open.spotify.com/track/6Px7oJcPvMWLhwRHmao0Fe"
+      "duration_ms": 201567,
+      "name": "VIBES DON'T LIE",
+      "url": "https://open.spotify.com/track/1WwrfoGe0K33z1tVI6mevJ"
     },
     {
       "added_at": null,
@@ -251,42 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Friends Again",
-        "url": "https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu"
-      },
-      "artists": [
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 218122,
-      "name": "Friends Again",
-      "url": "https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 201567,
-      "name": "VIBES DON'T LIE",
-      "url": "https://open.spotify.com/track/1WwrfoGe0K33z1tVI6mevJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kehlani",
         "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
       },
@@ -303,6 +263,46 @@
       "duration_ms": 162514,
       "name": "Sweet Nuthins (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/6Q1biSMDWjVrtpcZNeAd5A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 226254,
+      "name": "LUCID DREAMS (feat. Masego)",
+      "url": "https://open.spotify.com/track/6Px7oJcPvMWLhwRHmao0Fe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Friends Again",
+        "url": "https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 218122,
+      "name": "Friends Again",
+      "url": "https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0"
     },
     {
       "added_at": null,
@@ -455,26 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Set In Stone",
-        "url": "https://open.spotify.com/album/0lTp4t1VtrtxiFyNwy8MfB"
-      },
-      "artists": [
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 226942,
-      "name": "Remarkable Hussle",
-      "url": "https://open.spotify.com/track/32mzcN3gDjsTow89hs5SmR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PHOLKS",
         "url": "https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 198158,
       "name": "Lone Wolf (feat. 4batz)",
       "url": "https://open.spotify.com/track/5fcmrNQySUNbFn3n3ktu1n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Set In Stone",
+        "url": "https://open.spotify.com/album/0lTp4t1VtrtxiFyNwy8MfB"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 226942,
+      "name": "Remarkable Hussle",
+      "url": "https://open.spotify.com/track/32mzcN3gDjsTow89hs5SmR"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MUTT Deluxe: HEEL",
+        "url": "https://open.spotify.com/album/5mgaCfIZBK6BCg018gDXfL"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 235888,
+      "name": "HEEL",
+      "url": "https://open.spotify.com/track/5JG9zYkmhPnc6X8nyO3Bv1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deeper",
         "url": "https://open.spotify.com/album/3lcEjL8STyQO8JipxsnIqP"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 288159,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/3hpuSKYKfjDPopXtU0OnWI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MUTT Deluxe: HEEL",
-        "url": "https://open.spotify.com/album/5mgaCfIZBK6BCg018gDXfL"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 235888,
-      "name": "HEEL",
-      "url": "https://open.spotify.com/track/5JG9zYkmhPnc6X8nyO3Bv1"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Could Be Worse",
-        "url": "https://open.spotify.com/album/5aqP6FmBBfO01EOa0nSbh9"
-      },
-      "artists": [
-        {
-          "name": "Bizzy Crook",
-          "url": "https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 140892,
-      "name": "Could Be Worse",
-      "url": "https://open.spotify.com/track/2nvlYOCCCAsaCdY1kx5cGs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FRANCIS",
         "url": "https://open.spotify.com/album/4tIEFaeXJpNVw53d4AJwBs"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 230936,
       "name": "dangerous game",
       "url": "https://open.spotify.com/track/1Qq1TDdMo7UjRP6nlSog2q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Could Be Worse",
+        "url": "https://open.spotify.com/album/5aqP6FmBBfO01EOa0nSbh9"
+      },
+      "artists": [
+        {
+          "name": "Bizzy Crook",
+          "url": "https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 140892,
+      "name": "Could Be Worse",
+      "url": "https://open.spotify.com/track/2nvlYOCCCAsaCdY1kx5cGs"
     },
     {
       "added_at": null,

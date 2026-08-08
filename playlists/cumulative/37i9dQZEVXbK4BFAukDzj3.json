@@ -447,6 +447,24 @@
     },
     {
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158494,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
+    },
+    {
+      "album": {
         "name": "Long Way Down (Deluxe)",
         "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
       },
@@ -642,7 +660,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -2100,7 +2118,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-21",
+      "date_removed": null,
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
@@ -2570,7 +2588,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 143265,
       "name": "Ewa Safi",
       "url": "https://open.spotify.com/track/3PZ5mxb19denUmoHHpMipx"
@@ -3273,6 +3291,24 @@
     },
     {
       "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
+    },
+    {
+      "album": {
         "name": "OMG YES",
         "url": "https://open.spotify.com/album/5KibFCQ6DTeayb6N11EUSc"
       },
@@ -3406,7 +3442,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 220360,
       "name": "Hips Don't Lie (feat. Wyclef Jean)",
       "url": "https://open.spotify.com/track/3d0WouFnFmr0K3kjeza3fF"
@@ -4168,7 +4204,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/0Vcss0GZ1rbNI7QQPfXeg4"
@@ -4190,7 +4226,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
@@ -4478,10 +4514,28 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 161075,
       "name": "Kingdom of Fear",
       "url": "https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W"
+    },
+    {
+      "album": {
+        "name": "The Hard Way (Complete Edition)",
+        "url": "https://open.spotify.com/album/29cQMYmvacopwkV567Ocbl"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161075,
+      "name": "Kingdom of Fear",
+      "url": "https://open.spotify.com/track/7LWcUluagGJ1Zt0oG9KlmD"
     },
     {
       "album": {
@@ -6127,6 +6181,24 @@
     },
     {
       "album": {
+        "name": "On 2nite",
+        "url": "https://open.spotify.com/album/46NWiHTOxSLHBGJIT6J73N"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158848,
+      "name": "On 2nite",
+      "url": "https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr"
+    },
+    {
+      "album": {
         "name": "The Romantic",
         "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
       },
@@ -6192,7 +6264,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -6292,6 +6364,24 @@
       "duration_ms": 279962,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/7qbqG0UWOdpsYE2G6ckXSb"
+    },
+    {
+      "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184248,
+      "name": "petal",
+      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
     },
     {
       "album": {
@@ -7398,7 +7488,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 123573,
       "name": "Stupid (Move It)",
       "url": "https://open.spotify.com/track/6kfsiJ3wSS97qM0oQxey2n"
@@ -9366,6 +9456,24 @@
     {
       "album": {
         "name": "Zwoele Zomernachten",
+        "url": "https://open.spotify.com/album/7E835zbKECtCXNKrKhLRVo"
+      },
+      "artists": [
+        {
+          "name": "Rutger van Barneveld",
+          "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195454,
+      "name": "Zwoele Zomernachten",
+      "url": "https://open.spotify.com/track/6JVKEpB8VQmt1LYRxNmdK0"
+    },
+    {
+      "album": {
+        "name": "Zwoele Zomernachten",
         "url": "https://open.spotify.com/album/1tosO6LN7sy2lKJ0Hx4dmT"
       },
       "artists": [
@@ -9376,7 +9484,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 195454,
       "name": "Zwoele Zomernachten",
       "url": "https://open.spotify.com/track/6gtGFybqydN4OMfy8M6M4b"

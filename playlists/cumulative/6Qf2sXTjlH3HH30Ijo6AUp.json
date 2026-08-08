@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 222161,
       "name": "Bring Your Love",
       "url": "https://open.spotify.com/track/4VozGoqMUNSIn4CT3T1y2c"
@@ -4830,6 +4830,24 @@
       "duration_ms": 162093,
       "name": "Natural",
       "url": "https://open.spotify.com/track/4Jlo0XmE2MeNcep7aRc5LC"
+    },
+    {
+      "album": {
+        "name": "Voices Unheard",
+        "url": "https://open.spotify.com/album/048Da8fZU273Alslmxcfi9"
+      },
+      "artists": [
+        {
+          "name": "JAYLER",
+          "url": "https://open.spotify.com/artist/2cqlQm5f8HXjQ7LCMVsZ7f"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200364,
+      "name": "Need Your Love",
+      "url": "https://open.spotify.com/track/6OfqavhjPgNg8oCtxJFcaM"
     },
     {
       "album": {

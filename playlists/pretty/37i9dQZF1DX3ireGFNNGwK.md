@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ireGFNNGwK.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR?si=e2FUz5BnTgq8O3GDh6zbxA">Hybrid Minds</a>' favorite tracks\. Updated regularly\. Curated by Hybrid Minds\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,119 likes - 51 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,126 likes - 51 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ireGFNNGwK.md) - [plain]
 | 50 | [Youth](https://open.spotify.com/track/5LaMfLeTKJPvX3EmyHxI8W) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [The Wild Youth EP](https://open.spotify.com/album/5ulBhwiazCORb2YO8s2dXr) | 4:11 |
 | 51 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
 
-Snapshot ID: `AAAAANno+uqxSwZ/tFmXRpVexhkeEOlo`
+Snapshot ID: `AAAAAAvKhQFE4IkOu3ewizRyO8BtlkH6`

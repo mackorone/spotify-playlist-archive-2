@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 
 > Luke Combs and Country hits that will have you singing every word.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,044 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,038 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 40 | [I'm A Little Crazy](https://open.spotify.com/track/7igCS2ZsfV7bvxuhF4XgiQ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I'm A Little Crazy](https://open.spotify.com/album/2X9QdcBHMkoj4ekbZa3QId) | 3:19 |
 | 41 | [4×4×U](https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [4×4×U](https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD) | 3:59 |
 | 42 | [After All The Bars Are Closed](https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [After All The Bars Are Closed](https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA) | 3:11 |
-| 43 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/1SviOIgEA8sEPVgYEdCpnh) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6WWmYtlj6smtLFnfUf0Xny) | 2:51 |
-| 44 | [23](https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [23](https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl) | 3:48 |
+| 43 | [23](https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [23](https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl) | 3:48 |
+| 44 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/1SviOIgEA8sEPVgYEdCpnh) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6WWmYtlj6smtLFnfUf0Xny) | 2:51 |
 | 45 | [Chevrolet \(feat\. Jelly Roll\)](https://open.spotify.com/track/7FKAVg9SA7QYLxdVRLnKjd) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Killed The Cowboy](https://open.spotify.com/album/7qOcM822LYEaTksCBUImpb) | 3:04 |
 | 46 | [Ain't Doin' Jack](https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Ain't Doin' Jack](https://open.spotify.com/album/1URccwrkhVDXNb8uowWWhk) | 2:40 |
 | 47 | [Love You Again](https://open.spotify.com/track/1cAupeTLZyhhtfmRc4qaYy) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Love You Again](https://open.spotify.com/album/08J0usmnyEIpNH9GEtTk5p) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 99 | [Fires Don't Start Themselves](https://open.spotify.com/track/07NRJ7TdZHv6x6oN5ag3HV) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Carolyn's Boy](https://open.spotify.com/album/475EaXHvy2e2QvNXkt6twf) | 3:46 |
 | 100 | [Take Her Home](https://open.spotify.com/track/0Jagf5iAYYiWAs0BEoWbWZ) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Take Her Home](https://open.spotify.com/album/0be6zO5PTMEctXmGMb7R75) | 3:02 |
 
-Snapshot ID: `AAAAAMtGQJogm8Q2Gaggb8NbFlHxbeqB`
+Snapshot ID: `AAAAAIuKBOSKmkefCKPWZvhCPXS/hBNK`

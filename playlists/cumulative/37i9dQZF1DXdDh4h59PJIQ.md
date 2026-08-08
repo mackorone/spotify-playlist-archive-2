@@ -4,7 +4,7 @@
 
 > ¡Estos son los hits de la electrónica en el 2026!
 
-421 songs - 21 hr 1 min
+423 songs - 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Alive](https://open.spotify.com/track/3ijMfK5xwJTDdeyJp72mPM) | [PAX](https://open.spotify.com/artist/3NYySx3H1V7zHemD9hmsQv), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Alive](https://open.spotify.com/album/7BnjJ7fmbHiehY8WjwoKs9) | 3:50 | 2021-10-22 | 2022-07-29 |
 | [Alone](https://open.spotify.com/track/2y0W59c6wUGIJ6astaUNcQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [ALOTT](https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3), [Apophis](https://open.spotify.com/artist/6Sz3s1OLPiCr3cniHuCSoK) | [Alone](https://open.spotify.com/album/5ZJDxWchW5jtfDJlnj9CKC) | 3:20 | 2021-10-22 | 2023-11-18 |
 | [Alors On Danse \(feat\. Stromae\)](https://open.spotify.com/track/19eIZmuXlBmLTha1lPHef7) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Alors On Danse \(feat\. Stromae\)](https://open.spotify.com/album/1hOCJ4eNjtYKIH9ZmNGc8p) | 2:48 | 2021-10-22 |  |
+| [Alvafro](https://open.spotify.com/track/5PE1xJ7cIpJbVqqrKtQxJJ) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [9 months & 50 hours](https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA) | 3:58 | 2026-08-07 |  |
 | [Amiga Mía](https://open.spotify.com/track/3PAb3SSA1zP388eqKXKNsV) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [MORVN](https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f) | [Amiga Mía](https://open.spotify.com/album/1ZhjvXP3Frzxshp4OVKUvE) | 3:40 | 2022-08-09 |  |
 | [Amiga Mía](https://open.spotify.com/track/43MiajolGm27GGDdiOZYAV) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [MORVN](https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f) | [Amiga Mía](https://open.spotify.com/album/5SUXi807kDKZ4KTKeUnOxU) | 3:40 | 2023-11-16 | 2024-04-19 |
 | [Another Life \(feat\. Alida\)](https://open.spotify.com/track/0NWVFwJxCMjBdTOCePlQdl) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Another Life \(feat\. Alida\)](https://open.spotify.com/album/1nRhHxZcQ3a5c23LdVTn7N) | 3:32 | 2021-10-22 | 2022-02-23 |
@@ -388,6 +389,7 @@
 | [The Way I Love You](https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA) | 3:23 | 2025-05-21 |  |
 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 | 2024-08-13 | 2025-05-22 |
 | [Think Of Me](https://open.spotify.com/track/3RvkuiK2x5BlSQWYqTYjIS) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [Think Of Me](https://open.spotify.com/album/6CjFvd1Oj0cljGm226jCvH) | 2:50 | 2025-05-21 |  |
+| [this is the moment \(cuerpo\)](https://open.spotify.com/track/1AF9gqUhT9jyOHDzDUTZMc) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [LIFE](https://open.spotify.com/album/0vL3Vv27UfbRVLL7B9j1ab) | 3:52 | 2026-08-07 |  |
 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 | 2021-10-22 |  |
 | [Tokyo](https://open.spotify.com/track/4obMuJXFa9APNiFtlQHFBh) | [Dwin](https://open.spotify.com/artist/00OLN5o0Ba1W6KkjRi5jWd), [Kush Kush](https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf) | [Tokyo](https://open.spotify.com/album/3vTD4MwDGe43XjKk0eNCNg) | 2:12 | 2021-10-22 | 2022-03-12 |
 | [Too Much \(feat\. Usher\)](https://open.spotify.com/track/39umHdGKfpnjY4TFtnoQ51) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Too Much \(feat\. Usher\)](https://open.spotify.com/album/6lObxQq82f6xitLI8xZQyz) | 2:45 | 2021-10-22 | 2022-08-10 |

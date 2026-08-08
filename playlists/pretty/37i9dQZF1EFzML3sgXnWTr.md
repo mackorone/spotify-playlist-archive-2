@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 35 | [Buon Vento](https://open.spotify.com/track/5vdmfjy5CVrV0xYEcO2f4Q) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Buon Vento](https://open.spotify.com/album/06ge45XUS63W0ENu9QjjQN) | 2:55 |
 | 36 | [NIENTE DI MALE](https://open.spotify.com/track/5GrGU0oH8iGkPIdEAjXdGb) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [G](https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG) | 3:37 |
 | 37 | [Acquamarina](https://open.spotify.com/track/72ApGbsK8zJOGHmMPYgWcw) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Acquamarina](https://open.spotify.com/album/07IlwQXYFgHJOtwAOkRy20) | 3:19 |
-| 38 | [Ancora in due](https://open.spotify.com/track/70rhDfMyFQBSshpXUovMEh) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Il cielo contromano](https://open.spotify.com/album/3yPQgxO1KYgLhjsViwdqzt) | 3:02 |
-| 39 | [Non sono io](https://open.spotify.com/track/56G2D39tC1YMt6H6htjsSI) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Nostalgia](https://open.spotify.com/album/0jHdKUHCpkeGvNiHzzWiM1) | 2:52 |
+| 38 | [Non sono io](https://open.spotify.com/track/56G2D39tC1YMt6H6htjsSI) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Nostalgia](https://open.spotify.com/album/0jHdKUHCpkeGvNiHzzWiM1) | 2:52 |
+| 39 | [Ancora in due](https://open.spotify.com/track/70rhDfMyFQBSshpXUovMEh) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Il cielo contromano](https://open.spotify.com/album/3yPQgxO1KYgLhjsViwdqzt) | 3:02 |
 | 40 | [CON\(TORTA\)...](https://open.spotify.com/track/1DJZ3oXntTxMIeqQKodeX0) | [Enula](https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR) | [Con\(torta\)](https://open.spotify.com/album/4XTcBZhbAcDSLO8blO4RBd) | 3:16 |
 | 41 | [Guardare giù](https://open.spotify.com/track/0nZzbRLYgvdkQB6EKjWfAL) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Guardare giù](https://open.spotify.com/album/7sjHSwxgGeW1VhT8mBKluB) | 2:48 |
 | 42 | [Avion](https://open.spotify.com/track/2RjEVSy0X1X9LMOeke924W) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Avion](https://open.spotify.com/album/6Ft2AKbiVmJiRYGIzS1I9y) | 3:13 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 100 | [Rewind](https://open.spotify.com/track/34NY3jw9ipQYyBa1xVTRmK) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [REWIND](https://open.spotify.com/album/1NbBp6motkuIDeTTdRk0B5) | 3:04 |
 | 101 | [Non cambia mai](https://open.spotify.com/track/4huAaH4Q2zf6pj6dhiCqOn) | [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Voglio la gonna](https://open.spotify.com/album/3NNCpZojXm9nasubGE0JTr) | 3:10 |
 
-Snapshot ID: `AcY48AAAAADq58T0yqB7VdfOMFWwKQs/`
+Snapshot ID: `AcY+IgAAAACUj6rHfknskyNQ2n4GpGkX`

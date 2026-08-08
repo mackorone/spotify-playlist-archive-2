@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,873 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,844 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 | 57 | [The One \(feat\. Jocelyn Brown\)](https://open.spotify.com/track/4fErrQvOX1LPDIPFDFI4eM) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [The One \(feat\. Jocelyn Brown\)](https://open.spotify.com/album/5rlbbiPN65rv6IjLjVmtHg) | 3:02 |
 | 58 | [Bittersweet Goodbye](https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Bittersweet Goodbye](https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh) | 2:46 |
 | 59 | [Conceited \- What The Fuck](https://open.spotify.com/track/1Q0pG9JMCGpJ6uyFC9GvkZ) | [BEAUMONT](https://open.spotify.com/artist/2WqpiFf7QEVviSgnMrzalX), [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [Conceited \(What The Fuck\)](https://open.spotify.com/album/0OnIWNEf4e67017mDy2uoM) | 2:36 |
-| 60 | [Wasted Youth](https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Wasted Youth](https://open.spotify.com/album/7BXCwPeAm4m1KFabsvCTuy) | 2:27 |
-| 61 | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R) | 2:44 |
+| 60 | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [DNA \(Loving You\) \[feat\. Hannah Boleyn\]](https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R) | 2:44 |
+| 61 | [Wasted Youth](https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Wasted Youth](https://open.spotify.com/album/7BXCwPeAm4m1KFabsvCTuy) | 2:27 |
 | 62 | [Angel of Mine](https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Angel of Mine](https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf) | 2:42 |
 | 63 | [Afters](https://open.spotify.com/track/3zBgyblLVca62srEQa1RPC) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [Gravagerz](https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc) | [Afters](https://open.spotify.com/album/1ijY6TU6pZ8AtvwnWnLip1) | 2:04 |
 | 64 | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o) | 2:50 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 | 87 | [Talk About](https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [DJ Craig Gorman](https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400) | [Talk About](https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV) | 2:41 |
 | 88 | [0800 HEAVEN](https://open.spotify.com/track/2Vewxhl9sD0IhO9Az4qLS5) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/1E3veDntN7jiBB0zRdUN2Q) | 2:39 |
 | 89 | [Tell Me Something Good](https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Tell Me Something Good](https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4) | 4:09 |
-| 90 | [Birds In The Sky](https://open.spotify.com/track/50SxWFCvmZCYcpKWPZECES) | [NewEra](https://open.spotify.com/artist/4QLa9DWZEpFrBhNG5UWXF1) | [Birds In The Sky](https://open.spotify.com/album/10jQ0FuAzsrFs37I6CTP7X) | 2:13 |
-| 91 | [Divine](https://open.spotify.com/track/0u5aRUEwlWhtO32VASKoLi) | [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT) | [Divine](https://open.spotify.com/album/7fWa9fmjRjDskIAgwYzyCI) | 2:43 |
+| 90 | [Divine](https://open.spotify.com/track/0u5aRUEwlWhtO32VASKoLi) | [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT) | [Divine](https://open.spotify.com/album/7fWa9fmjRjDskIAgwYzyCI) | 2:43 |
+| 91 | [Birds In The Sky](https://open.spotify.com/track/50SxWFCvmZCYcpKWPZECES) | [NewEra](https://open.spotify.com/artist/4QLa9DWZEpFrBhNG5UWXF1) | [Birds In The Sky](https://open.spotify.com/album/10jQ0FuAzsrFs37I6CTP7X) | 2:13 |
 | 92 | [Don’t Forget My Love](https://open.spotify.com/track/1kpTK8SWlA1lGkorVaxp3S) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Don’t Forget My Love](https://open.spotify.com/album/2fS4BCNwqZTg5koNXK2BC8) | 3:19 |
 | 93 | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J) | [Flex \(UK\)](https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs) | 2:48 |
 | 94 | [LEVELS](https://open.spotify.com/track/55DwjFdPowTjzvukCzJEho) | [FUZION](https://open.spotify.com/artist/6Onz7lRkfK9vCyZDEKoFmB) | [LEVELS](https://open.spotify.com/album/6NY5wQbp6jqj4zODypYID9) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 | 99 | [If Your Girl](https://open.spotify.com/track/17CXft3kDo4QNrO491EFOv) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ), [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm) | [If Your Girl](https://open.spotify.com/album/1N29DkWu39gZjMsU19Kn9k) | 3:50 |
 | 100 | [Push The Tempo](https://open.spotify.com/track/2dkUsfpsB0c394cmFe18Ih) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Push The Tempo](https://open.spotify.com/album/0XfYZGlEQ7KNK8Pcuqh9AN) | 2:41 |
 
-Snapshot ID: `AAAAANeRnRvN+GKzIYDhSxTMPkrW2j/X`
+Snapshot ID: `AAAAAOoMrhq1rPCh7yDSW+grCQ4tKlMD`

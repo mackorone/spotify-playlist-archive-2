@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 264649,
+  "num_followers": 264653,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAABXaD7cB1hD4phv+piKFs/p",
+  "snapshot_id": "anPOgAAAAACrfIXCKqFqsXEyBkJUiyJN",
   "tracks": [
     {
       "added_at": null,
@@ -515,6 +515,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "QUE LOUCURA (Remix)",
+        "url": "https://open.spotify.com/album/6sFBaXx0Qe52YIYnpuXX4T"
+      },
+      "artists": [
+        {
+          "name": "DJ EXE",
+          "url": "https://open.spotify.com/artist/6MK5Z7OjpkcN6OFe6nh8pi"
+        },
+        {
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 176073,
+      "name": "QUE LOUCURA - Remix",
+      "url": "https://open.spotify.com/track/1t3FVvjWVqvOI59M7CzqOi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "recadin no espelho",
         "url": "https://open.spotify.com/album/6KKAWpqYTZ9ptx7Eq4VpmT"
       },
@@ -687,34 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "QUE LOUCURA (Remix)",
-        "url": "https://open.spotify.com/album/6sFBaXx0Qe52YIYnpuXX4T"
-      },
-      "artists": [
-        {
-          "name": "DJ EXE",
-          "url": "https://open.spotify.com/artist/6MK5Z7OjpkcN6OFe6nh8pi"
-        },
-        {
-          "name": "CACAU CHUU",
-          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 176073,
-      "name": "QUE LOUCURA - Remix",
-      "url": "https://open.spotify.com/track/1t3FVvjWVqvOI59M7CzqOi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seu Desejo (Ao Vivo)",
         "url": "https://open.spotify.com/album/7CbL0bPlUb8LciWM8AaZzd"
       },
@@ -731,6 +731,26 @@
       "duration_ms": 168131,
       "name": "Seu Desejo - Ao Vivo",
       "url": "https://open.spotify.com/track/1u2eH3YKbVOINQiau9cT4B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/1ZhOLwc5e3v4k70MbpFtYt"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 155798,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/25gD4PQjxCLnwIY2n23aEl"
     },
     {
       "added_at": null,
@@ -763,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/1ZhOLwc5e3v4k70MbpFtYt"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 155798,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/25gD4PQjxCLnwIY2n23aEl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Itamambuca",
         "url": "https://open.spotify.com/album/2XbRcRLf7lrYOFBaHG8pDb"
       },
@@ -799,22 +799,6 @@
       "duration_ms": 243793,
       "name": "Itamambuca",
       "url": "https://open.spotify.com/track/2TWc1VLLfbDx9kaxPDx0vl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CACHORRINHAS",
-        "url": "https://open.spotify.com/album/290wcRNv42S3KICKFYmTu6"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 134936,
-      "name": "CACHORRINHAS",
-      "url": "https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion"
     },
     {
       "added_at": null,
@@ -839,22 +823,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor In Studio",
-        "url": "https://open.spotify.com/album/7AqYvzwdaHSq4731qi61Tt"
+        "name": "CACHORRINHAS",
+        "url": "https://open.spotify.com/album/290wcRNv42S3KICKFYmTu6"
       },
       "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        },
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 240000,
-      "name": "P\u00f3s Voc\u00ea",
-      "url": "https://open.spotify.com/track/1mHe9kYpOPxNsdE3Wu0FWW"
+      "duration_ms": 134936,
+      "name": "CACHORRINHAS",
+      "url": "https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion"
     },
     {
       "added_at": null,
@@ -875,6 +855,26 @@
       "duration_ms": 152358,
       "name": "MAMA.CITA (hasta la vista)",
       "url": "https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor In Studio",
+        "url": "https://open.spotify.com/album/7AqYvzwdaHSq4731qi61Tt"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "P\u00f3s Voc\u00ea",
+      "url": "https://open.spotify.com/track/1mHe9kYpOPxNsdE3Wu0FWW"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1Pk7rcCDQIzm46M7Z50xDh">Taylor Swift</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,158 likes - 226 songs - 14 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,156 likes - 226 songs - 14 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 | 101 | [The Life of a Showgirl \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 4:01 |
 | 102 | [Say Don't Go \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 4:39 |
 | 103 | [ivy](https://open.spotify.com/track/19CSr8rwW05VJL2F91KFNK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 4:20 |
-| 104 | [Christmas Tree Farm](https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Christmas Tree Farm](https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF) | 3:48 |
-| 105 | [Mine \(Taylor's Version\)](https://open.spotify.com/track/7G0gBu6nLdhFDPRLc0HdDG) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 3:51 |
+| 104 | [Mine \(Taylor's Version\)](https://open.spotify.com/track/7G0gBu6nLdhFDPRLc0HdDG) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 3:51 |
+| 105 | [Christmas Tree Farm](https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Christmas Tree Farm](https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF) | 3:48 |
 | 106 | [The Prophecy](https://open.spotify.com/track/18WFFUIsewmA8g31KAeo3e) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:09 |
 | 107 | [Out Of The Woods \(Taylor's Version\)](https://open.spotify.com/track/045ZeOHPIzhxxsm8bq5kyE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:55 |
 | 108 | [mad woman](https://open.spotify.com/track/2QDyYdZyhlP2fp79KZX8Bi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:57 |
@@ -184,8 +184,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 | 174 | [Foolish One \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4s8BIKx4Zh6ryAEz8RTlaU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 5:11 |
 | 175 | [Only The Young \- Featured in Miss Americana](https://open.spotify.com/track/2slqvGLwzZZYsT4K4Y1GBC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Only The Young \(Featured in Miss Americana\)](https://open.spotify.com/album/5LGsh3kexUfi3qkIIxb8vK) | 2:37 |
 | 176 | [thanK you aIMee](https://open.spotify.com/track/7ogK4lJDVDMU6A6vYR5rvD) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:23 |
-| 177 | [Sad Beautiful Tragic \(Taylor's Version\)](https://open.spotify.com/track/73qMN9bXy7MSPwwGfH3wQr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:44 |
-| 178 | [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |
+| 177 | [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |
+| 178 | [Sad Beautiful Tragic \(Taylor's Version\)](https://open.spotify.com/track/73qMN9bXy7MSPwwGfH3wQr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:44 |
 | 179 | [I Look in People's Windows](https://open.spotify.com/track/1Zai5UJ2di3qEuR2HeT2s8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 2:11 |
 | 180 | [Fifteen \(Taylor’s Version\)](https://open.spotify.com/track/2nqio0SfWg6gh2eCtfuMa5) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:54 |
 | 181 | [You All Over Me \(feat\. Maren Morris\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4CHpVfAhuxNJ3ibExe6kxO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:40 |
@@ -235,4 +235,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 | 225 | [Beautiful Ghosts \(Victoria’s Song\) \- From The Motion Picture Soundtrack "Cats"](https://open.spotify.com/track/1EBBNQDbxG6jfdiGTeWPdT) | [Francesca Hayward](https://open.spotify.com/artist/73jlloXDUzlTRHOcO9JhIg) | [Cats: Highlights From The Motion Picture Soundtrack](https://open.spotify.com/album/3OjtXmDVcfHAjJOS3xBoYU) | 2:50 |
 | 226 | [Dark Blue Tennessee](https://open.spotify.com/track/09CEIc9goZeeqRYwz6GYFD) | [outplay](https://open.spotify.com/artist/2vUjgOHdDaeftRG27IxxNq) | [Dark Blue Tennessee](https://open.spotify.com/album/5Am8oboqYxIQiEYU5tcSDz) | 3:17 |
 
-Snapshot ID: `AcY43AAAAADcD5ysiWmCYvFgYLFpbzZI`
+Snapshot ID: `AcY+NgAAAADWkwSn2FGPsDd7FseMKXRJ`

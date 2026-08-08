@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 293,929 likes - 116 songs - 6 hr 6 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 293,910 likes - 116 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

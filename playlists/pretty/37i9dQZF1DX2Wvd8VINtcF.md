@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Zoumer & Chicks On Speed✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,656 likes - 273 songs - 14 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,771 likes - 273 songs - 14 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -282,4 +282,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 272 | [last man standing – lauren’s version](https://open.spotify.com/track/0VgwfJanW8QjhJ7f0EdFsA) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [last man standing – lauren’s version](https://open.spotify.com/album/0jS3L39Cq4qz8dJApN2Eb5) | 3:35 |
 | 273 | [peach](https://open.spotify.com/track/1lBi4AcyxeJyoe8Qhx4Hye) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [peach](https://open.spotify.com/album/6ea02No4KgESvZYXEp1RVH) | 2:19 |
 
-Snapshot ID: `AAAAAD5psYnbxO5Yfll2mZmUIqtU9mFt`
+Snapshot ID: `AAAAAAcT95urSyE5eK+Q3WKigVxpY1fa`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 
 > Emotional and powerful \- let your feelings out with these rock power ballads\. Cover: Tina Turner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,238,884 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,238,954 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,13 +62,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 52 | [Don't Treat Me Bad \(2024 Remaster\)](https://open.spotify.com/track/4lbhQdbiTpNP7GowZG8KsM) | [Firehouse](https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I) | [Firehouse \(2024 Remaster\)](https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T) | 3:55 |
 | 53 | [The Search Is Over](https://open.spotify.com/track/1M3xrSPzPcKkCnXGHFPKaw) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Vital Signs](https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD) | 4:12 |
 | 54 | [Hysteria \- Remastered 2017](https://open.spotify.com/track/6EzSduIPnAmO3o41HY5V9d) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 5:54 |
-| 55 | [Come Again](https://open.spotify.com/track/6Hfvn9qguufsmHp0uk3y3r) | [Damn Yankees](https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq) | [Damn Yankees](https://open.spotify.com/album/2GSZ2kruaBmA5hR9xngeBX) | 5:39 |
-| 56 | [When I'm With You](https://open.spotify.com/track/3RJof5CojqlbgZ5adHw50O) | [Sheriff](https://open.spotify.com/artist/5jllns7VtBfhF3AyjvZP8d) | [Sheriff](https://open.spotify.com/album/23sISo3WqoIysj2AHHem3V) | 3:58 |
+| 55 | [When I'm With You](https://open.spotify.com/track/3RJof5CojqlbgZ5adHw50O) | [Sheriff](https://open.spotify.com/artist/5jllns7VtBfhF3AyjvZP8d) | [Sheriff](https://open.spotify.com/album/23sISo3WqoIysj2AHHem3V) | 3:58 |
+| 56 | [Come Again](https://open.spotify.com/track/6Hfvn9qguufsmHp0uk3y3r) | [Damn Yankees](https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq) | [Damn Yankees](https://open.spotify.com/album/2GSZ2kruaBmA5hR9xngeBX) | 5:39 |
 | 57 | [What You Give](https://open.spotify.com/track/6XKLX2SOAdS0ZDQK2PbZKn) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [Psychotic Supper](https://open.spotify.com/album/0JHYpUoXnAHGdd6rE9nrLY) | 7:15 |
 | 58 | [Turn the Lights Back On](https://open.spotify.com/track/1KTemUlHzS0SvVtTjY1NTw) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Turn the Lights Back On](https://open.spotify.com/album/4csPGLYTb7kt85U377UCuC) | 3:58 |
 | 59 | [If You Needed Somebody](https://open.spotify.com/track/6GaFUMG9opnMytdc0lwnQw) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Holy Water](https://open.spotify.com/album/30ts0TMRhxu4usurOw99cE) | 4:21 |
-| 60 | [Where You Goin' Now](https://open.spotify.com/track/3jaRUUaJUvS57h1DyVzUUX) | [Damn Yankees](https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq) | [Don't Tread](https://open.spotify.com/album/6UyUf2nDnmV2CR36zgThs8) | 4:39 |
-| 61 | [I'll Be There For You](https://open.spotify.com/track/67YIAxlMlfSNmbnt83zGKh) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [New Jersey](https://open.spotify.com/album/7CNtnpBoG1lsUBWwpnJjwv) | 5:46 |
+| 60 | [I'll Be There For You](https://open.spotify.com/track/67YIAxlMlfSNmbnt83zGKh) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [New Jersey](https://open.spotify.com/album/7CNtnpBoG1lsUBWwpnJjwv) | 5:46 |
+| 61 | [Where You Goin' Now](https://open.spotify.com/track/3jaRUUaJUvS57h1DyVzUUX) | [Damn Yankees](https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq) | [Don't Tread](https://open.spotify.com/album/6UyUf2nDnmV2CR36zgThs8) | 4:39 |
 | 62 | [Sometimes She Cries](https://open.spotify.com/track/0m5RdyFFcOKhut3sGkeWHG) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 4:43 |
 | 63 | [Empty Rooms](https://open.spotify.com/track/21hvIW7umCAu3dWab4MYR1) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Run For Cover](https://open.spotify.com/album/5L7OArC51NP8i6EswjugZI) | 4:17 |
 | 64 | [Open Your Heart](https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Wings Of Tomorrow](https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx) | 4:06 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 96 | [Woman](https://open.spotify.com/track/7m3sxdDtVDitSxPywPi8H8) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Under Cover](https://open.spotify.com/album/5yIXVMM70ay1mQ5kCWpidF) | 3:45 |
 | 97 | [Broken Heart](https://open.spotify.com/track/7FfE0EoQSsliADYgdxFChG) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Fight To Survive](https://open.spotify.com/album/3KUCeF1n3PSIfhOZ9tUdlC) | 3:31 |
 | 98 | [When I Find Love](https://open.spotify.com/track/5jFJ4uD1C5IKc1zmLmp0TO) | [XYZ](https://open.spotify.com/artist/7M26B2dpKVQ30MPUYvzWXk) | [Hungry](https://open.spotify.com/album/6ehiAquVebqoHhN4VXTEQ1) | 4:17 |
-| 99 | [When the Smoke Is Going Down \- MTV Unplugged](https://open.spotify.com/track/4H8pOSgzSBkoZmjgZ0fOlf) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [MTV Unplugged](https://open.spotify.com/album/7HUFiEGHoty4bhJetqJa3h) | 3:45 |
-| 100 | [I Still Think About You](https://open.spotify.com/track/6lptBl2N4TFnMMcYlJ3os5) | [Danger Danger](https://open.spotify.com/artist/1VaIDrxow5xfLmB9R26JVZ) | [Live and Nude](https://open.spotify.com/album/2jbAmXbxUWqXsgfWPNC8Jr) | 5:22 |
+| 99 | [I Still Think About You](https://open.spotify.com/track/6lptBl2N4TFnMMcYlJ3os5) | [Danger Danger](https://open.spotify.com/artist/1VaIDrxow5xfLmB9R26JVZ) | [Live and Nude](https://open.spotify.com/album/2jbAmXbxUWqXsgfWPNC8Jr) | 5:22 |
+| 100 | [When the Smoke Is Going Down \- MTV Unplugged](https://open.spotify.com/track/4H8pOSgzSBkoZmjgZ0fOlf) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [MTV Unplugged](https://open.spotify.com/album/7HUFiEGHoty4bhJetqJa3h) | 3:45 |
 
-Snapshot ID: `AAAAAEssa0SC9vGy+z5Jgnru/a7vx0hw`
+Snapshot ID: `AAAAAM2clg30z4VCFZpiqtP9R75m5lBA`

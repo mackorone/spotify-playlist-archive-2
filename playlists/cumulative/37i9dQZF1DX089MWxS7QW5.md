@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: siso & ALICE U\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: DAWN \(던\)\)
 
-663 songs - 1 day 11 hr 27 min
+664 songs - 1 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -534,7 +534,7 @@
 | [Strawberries & Champagne \(feat\. Deondre\)](https://open.spotify.com/track/1VrzguZvL5CBRuzr9ULZJJ) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Deondre](https://open.spotify.com/artist/4uoKLZ5dHkP1NLHRudbQFw) | [Strawberries & Champagne](https://open.spotify.com/album/6M54yPP7DutuqTj7n3Bch0) | 3:08 | 2025-10-22 | 2026-05-15 |
 | [Strike](https://open.spotify.com/track/0Djk0AVUiqZX4Y8txXwcNF) | [HANYE](https://open.spotify.com/artist/76Qu3bKsPh71Tzt5Sj2DQL) | [Strike](https://open.spotify.com/album/1z1oGlLPH3tg6F2plDuF6t) | 4:24 | 2022-12-13 | 2023-04-28 |
 | [Stuck in](https://open.spotify.com/track/4sgjUKUuEAIPbKAvRny0fN) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [Stuck in](https://open.spotify.com/album/6QG23BFWlIJxcweb1nU0Rv) | 3:34 | 2023-01-18 | 2023-08-18 |
-| [Stuck in My Head](https://open.spotify.com/track/0oQWm8tjM9RT194in5CMe4) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [In My Head](https://open.spotify.com/album/30ZqZCE8cENooyfKImZUCi) | 2:33 | 2026-03-20 |  |
+| [Stuck in My Head](https://open.spotify.com/track/0oQWm8tjM9RT194in5CMe4) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [In My Head](https://open.spotify.com/album/30ZqZCE8cENooyfKImZUCi) | 2:33 | 2026-03-20 | 2026-08-08 |
 | [Stupid \(feat\. Ashley Alisha & J.O.Y\)](https://open.spotify.com/track/1XuzCsFFgxgv2v21pmFZia) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Autumn Night](https://open.spotify.com/album/6OS1NCPPhr5GgQKBXipGCs) | 2:56 | 2023-10-27 | 2024-03-16 |
 | [SUDA](https://open.spotify.com/track/3t6ljynTF1LLr8NVKCjrlS) | [MORE](https://open.spotify.com/artist/3sG5lKhIKPneoceflZon1C) | [SUDA](https://open.spotify.com/album/7m98itIoQ6Ptgk5JJC4Ic5) | 3:03 | 2024-06-23 | 2024-09-14 |
 | [SUGAR RUSH \(feat\. jikamarie\)](https://open.spotify.com/track/71Jy7O3wyWjr3qcsO9wJfs) | [SEUNGHOO](https://open.spotify.com/artist/1bf9ZQrjTNV4yITb8KK9aB), [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [SUGAR RUSH \(feat\. jikamarie\)](https://open.spotify.com/album/6L69iX0GdMReaB2K9FIt6q) | 2:13 | 2026-01-22 | 2026-06-25 |
@@ -590,6 +590,7 @@
 | [Tonight](https://open.spotify.com/track/6z3MFmth66YuneBbyzVFGJ) | [Jung Yup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Tonight \(Single Edition 4\)](https://open.spotify.com/album/4NfZyYetKI0lgIDXTCs6mL) | 3:50 | 2022-05-28 | 2022-06-21 |
 | [TONIGHT](https://open.spotify.com/track/2Y3U65MS3B7srxAVR7tBSm) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [VINYARD](https://open.spotify.com/album/5fhKtZk3goKK4iTa7Nn3Gm) | 3:27 | 2024-10-14 | 2025-03-13 |
 | [Tonite](https://open.spotify.com/track/1RQ5RNrzQ5BD3X8idn8KOQ) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [Tonite](https://open.spotify.com/album/60TEBgKHLlYS86WTewsbuZ) | 3:09 | 2023-04-17 | 2023-10-06 |
+| [Too Much](https://open.spotify.com/track/3ZMibEvGGGgBC9diuWS7hA) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F) | [Too Much](https://open.spotify.com/album/439Uk5AQ2A9SQxvB5CHL4l) | 3:09 | 2026-08-07 |  |
 | [Too slow](https://open.spotify.com/track/2ByfcUe3hEZDtPILSJG78x) | [Aiowell](https://open.spotify.com/artist/36I2SDkhk3uQ7JlFV47XGu) | [Too slow](https://open.spotify.com/album/6LHo1IYVIJ45AKP0YKdXgg) | 3:24 | 2025-08-05 | 2026-01-23 |
 | [Treasure](https://open.spotify.com/track/3iAFryjJkdXe8UpcSOSN6w) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Come Back Home](https://open.spotify.com/album/0itIaXewMbaWbViMKNstF9) | 2:15 | 2022-11-22 | 2023-03-28 |
 | [typing](https://open.spotify.com/track/0nfupRtfOEtb4UZaOHw9q5) | [COII](https://open.spotify.com/artist/0BTfN6kDzEjeCciCrb9Prv) | [typing](https://open.spotify.com/album/5bwIY9p0ZK09F0rcryHUff) | 2:57 | 2026-02-23 | 2026-07-08 |

@@ -2393,6 +2393,50 @@
     },
     {
       "album": {
+        "name": "Symphony For The Future",
+        "url": "https://open.spotify.com/album/5i3981xpQoZfAXJ9e7A3Tk"
+      },
+      "artists": [
+        {
+          "name": "Justus R\u00fcmenapp",
+          "url": "https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl"
+        },
+        {
+          "name": "Deutsches Filmorchester Babelsberg",
+          "url": "https://open.spotify.com/artist/3gGJa6qH96mfOdii1Wzuir"
+        },
+        {
+          "name": "Christian K\u00f6hler",
+          "url": "https://open.spotify.com/artist/1LYDB5598OdjPdE0VhPF0J"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120887,
+      "name": "Symphony Of Hope",
+      "url": "https://open.spotify.com/track/0etV3t51OsHQbcAz0RpcXK"
+    },
+    {
+      "album": {
+        "name": "Tabhair dom do l\u00e1mh (Arr. Becker)",
+        "url": "https://open.spotify.com/album/2hiFhkBUfaLxyGu38JdzWN"
+      },
+      "artists": [
+        {
+          "name": "Jess Gillam",
+          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220480,
+      "name": "Tabhair dom do l\u00e1mh (Arr. Becker)",
+      "url": "https://open.spotify.com/track/6lgmA6SPsvDTh1G8bJlYL0"
+    },
+    {
+      "album": {
         "name": "Tchaikovsky",
         "url": "https://open.spotify.com/album/438o4UfLaxtqzrtZ0H0eKp"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-03-14",
-  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: daisy",
+  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: True Blue",
   "name": "Cph+",
   "tracks": [
     {
@@ -2981,6 +2981,28 @@
     },
     {
       "album": {
+        "name": "lao wai",
+        "url": "https://open.spotify.com/album/4gaBhPu0VextnFP4Y86xsC"
+      },
+      "artists": [
+        {
+          "name": "Helena Gao",
+          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
+        },
+        {
+          "name": "Shushu",
+          "url": "https://open.spotify.com/artist/1UNqLt4phNW6lI5mPSL52P"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151607,
+      "name": "lao wai",
+      "url": "https://open.spotify.com/track/1Kz4kdsoG9XqZReNL3RWZ4"
+    },
+    {
+      "album": {
         "name": "Lay down",
         "url": "https://open.spotify.com/album/0F3oUVTkjXhdv4quHL7vYP"
       },
@@ -3995,6 +4017,24 @@
     },
     {
       "album": {
+        "name": "Fountain Edits",
+        "url": "https://open.spotify.com/album/47YCO51avOV38XM0KmmEKg"
+      },
+      "artists": [
+        {
+          "name": "True Blue",
+          "url": "https://open.spotify.com/artist/43c8bw6Z0PmKc7zJoMnfdW"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291034,
+      "name": "Proof Shes Picked Her Poison",
+      "url": "https://open.spotify.com/track/4Lz7BSQtqLFX1witSjvOJ0"
+    },
+    {
+      "album": {
         "name": "Push & Pull",
         "url": "https://open.spotify.com/album/5PoFJ3cIu2DeUPTHE3UAkZ"
       },
@@ -4752,6 +4792,24 @@
       "duration_ms": 406093,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/6IxRRIh4IcRL5bspf2uP8g"
+    },
+    {
+      "album": {
+        "name": "starfish",
+        "url": "https://open.spotify.com/album/3l9Xo8VqJIBoICXpLC16D0"
+      },
+      "artists": [
+        {
+          "name": "muuk",
+          "url": "https://open.spotify.com/artist/6HU6b9SDmYJOiFmQHZqU2F"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186415,
+      "name": "starfish",
+      "url": "https://open.spotify.com/track/1L3hnWBGenO7NCIo2Z074b"
     },
     {
       "album": {

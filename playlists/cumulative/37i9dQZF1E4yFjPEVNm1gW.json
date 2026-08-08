@@ -1307,6 +1307,24 @@
     },
     {
       "album": {
+        "name": "dookie",
+        "url": "https://open.spotify.com/album/2mrDKY2bOnxJASxQfrh9XX"
+      },
+      "artists": [
+        {
+          "name": "rseskii",
+          "url": "https://open.spotify.com/artist/4KndFRSXIzFVbypa6yKCWh"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175055,
+      "name": "dookie",
+      "url": "https://open.spotify.com/track/1AomQIauqXD5c6jpI18l8v"
+    },
+    {
+      "album": {
         "name": "Double Trouble",
         "url": "https://open.spotify.com/album/5Mqq72DjK0WOPaa9mTheuJ"
       },
@@ -1672,7 +1690,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 229738,
       "name": "Fire in my heart",
       "url": "https://open.spotify.com/track/5XZN4J4EQeNYfxWBb9kBog"
@@ -2026,7 +2044,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 111428,
       "name": "Hardy Boyz (feat. Bloodhound Lil Jeff)",
       "url": "https://open.spotify.com/track/3MIAujDDxkigmJfwHbFRyN"
@@ -2792,7 +2810,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 136680,
       "name": "Level",
       "url": "https://open.spotify.com/track/4C9vjLjLbMdoMEtcCSoJ6K"
@@ -3398,7 +3416,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 114216,
       "name": "nine",
       "url": "https://open.spotify.com/track/5yCYHKE6erkEF3M0eaBfBc"
@@ -5634,7 +5652,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 140326,
       "name": "Won't Change",
       "url": "https://open.spotify.com/track/0xdMI51U6FoTqKRPYLH96w"

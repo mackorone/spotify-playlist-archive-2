@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "The latest in world music. From the continent, to the islands with Buju Banton.",
+  "description": "The latest in world music. From the continent, to the islands with Rema.",
   "name": "Crxss Current",
   "tracks": [
     {
@@ -6674,6 +6674,28 @@
       "duration_ms": 153346,
       "name": "City Boys",
       "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
+    },
+    {
+      "album": {
+        "name": "CLAAT!",
+        "url": "https://open.spotify.com/album/2z5uWC3opc7gYMq5Zhpigx"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174150,
+      "name": "CLAAT!",
+      "url": "https://open.spotify.com/track/4j59HrdkksgGMgiazCejg6"
     },
     {
       "album": {
@@ -14634,7 +14656,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 140740,
       "name": "I Know",
       "url": "https://open.spotify.com/track/2Sjd6y194CAH1ASS1X2qib"
@@ -22614,7 +22636,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 152800,
       "name": "Oh Boy",
       "url": "https://open.spotify.com/track/6QEasLmBDLRYmEtM6wHdWg"
@@ -30943,6 +30965,24 @@
     },
     {
       "album": {
+        "name": "TEA",
+        "url": "https://open.spotify.com/album/6Vn8pesphnIfwl0oDnW4lj"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "TEA",
+      "url": "https://open.spotify.com/track/1qObCJRmQydvmwO6Z0BMbK"
+    },
+    {
+      "album": {
         "name": "TECHNICIAN",
         "url": "https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK"
       },
@@ -31160,7 +31200,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 138795,
       "name": "Tell em Again (Riddim)",
       "url": "https://open.spotify.com/track/52rslmJZ0RBnAHtvMvMVPg"
@@ -31438,6 +31478,28 @@
       "duration_ms": 176876,
       "name": "THAT GIRL",
       "url": "https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF"
+    },
+    {
+      "album": {
+        "name": "THAT GIRL!",
+        "url": "https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132817,
+      "name": "THAT GIRL!",
+      "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"
     },
     {
       "album": {

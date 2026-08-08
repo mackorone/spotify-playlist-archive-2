@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: AMARILLO VERANO.
 
-910 songs - 1 day 22 hr 52 min
+911 songs - 1 day 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -832,6 +832,7 @@
 | [TRABAJAR EN VERANO](https://open.spotify.com/track/6lTJGk4VIeMViR74OiCzsT) | [HORROCRUX](https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW) | [AMARILLO VERANO](https://open.spotify.com/album/2HLAjP0WXLbYbWCFF03TZP) | 2:40 | 2025-08-07 | 2025-10-31 |
 | [TRAGEDIA](https://open.spotify.com/track/1FnRaQDk3s7RkWBXKmnuLv) | [Marta Sango](https://open.spotify.com/artist/4rVronLhqEXcfu8CjCmLQv) | [TRAGEDIA](https://open.spotify.com/album/6zTRAEX6goxJb5wXBqoSLO) | 2:30 | 2026-07-09 | 2026-07-17 |
 | [Tres Otoños \(feat\. alberto.vela\)](https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf) | [Colectivo Panamera](https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw), [alberto.vela](https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok) | [Tres Otoños \(feat\. alberto.vela\)](https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB) | 3:51 | 2024-06-27 | 2025-03-28 |
+| [triste](https://open.spotify.com/track/1VIj71VpDty5a0LmQJ3gU9) | [Hugo Serrano](https://open.spotify.com/artist/2CdZKr2ePuktdkB8BZwrWj) | [triste](https://open.spotify.com/album/1wh8LOaXsBAJ53rJrprljr) | 2:13 | 2026-08-06 |  |
 | [Trámite](https://open.spotify.com/track/4AnbZ70nxY05G30ZRqdXLZ) | [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Trámite](https://open.spotify.com/album/6as7JjgjSDm2R44zkMYsOR) | 3:08 | 2025-04-10 | 2025-04-18 |
 | [Tu Buen Chaval](https://open.spotify.com/track/3co2WqpeIhiQI21jz2l2qm) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [Nuevos Lemas](https://open.spotify.com/album/0f4weFEnA91MfjYF61UfOU) | 2:25 | 2024-06-27 | 2024-11-15 |
 | [Tu Cama](https://open.spotify.com/track/6d703PKCsvMKo71Jv0QcE9) | [Ben Yart](https://open.spotify.com/artist/1Emea6iLt1X27HTatnL7oV), [Mr\. Worth](https://open.spotify.com/artist/1W0J1H8phUbT5iAD1CrI0U) | [Tu Cama](https://open.spotify.com/album/3YT0cyVNWIjXmLrgH7nZbj) | 2:34 | 2026-06-18 | 2026-07-03 |

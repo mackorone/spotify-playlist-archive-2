@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 
 > This is Emilia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,242 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,224 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 | 34 | [cuatro veinte](https://open.spotify.com/track/3ushwCdjpWNdSnZgRFU6Oc) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:13 |
 | 35 | [DAMN GIRL](https://open.spotify.com/track/6WxhGNMIfCQBSWAYU4pupc) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [KUSTOM](https://open.spotify.com/album/4kXaM6fo4q2hK6b6Sra4qp) | 3:21 |
 | 36 | [Facts.mp3](https://open.spotify.com/track/2QWV6LlwgXF0ZIcg4VxkUh) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:10 |
-| 37 | [pasarella 👠](https://open.spotify.com/track/67vjKw6LVD5wewFuoC1215) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [pasarella 👠](https://open.spotify.com/album/0DVus7APZKK2eIUkjkt0Md) | 2:42 |
-| 38 | [rápido lento](https://open.spotify.com/track/4xv2A022v5A8nyewDkYOkQ) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [rápido lento](https://open.spotify.com/album/7wrDNMoSx249yOV0xFdRzn) | 3:33 |
+| 37 | [rápido lento](https://open.spotify.com/track/4xv2A022v5A8nyewDkYOkQ) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [rápido lento](https://open.spotify.com/album/7wrDNMoSx249yOV0xFdRzn) | 3:33 |
+| 38 | [pasarella 👠](https://open.spotify.com/track/67vjKw6LVD5wewFuoC1215) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [pasarella 👠](https://open.spotify.com/album/0DVus7APZKK2eIUkjkt0Md) | 2:42 |
 | 39 | [Vestido Rojo](https://open.spotify.com/track/6kyllwQMZPwCgCJiJd0eWX) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Vestido Rojo](https://open.spotify.com/album/0IVjdhsXZAeaBHaiZkkcMn) | 2:33 |
 | 40 | [cielo en la mente](https://open.spotify.com/track/0Q1NGtkEts8tjIC4eSWiya) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:49 |
 | 41 | [perfectas](https://open.spotify.com/track/2Syg7oH4lJ2yG2pE7QCcIv) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [perfectas](https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 | 49 | [supersexi](https://open.spotify.com/track/5MPHZfPu9hsXDPEqGjUgec) | [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [supersexi](https://open.spotify.com/album/7Cgt2NuDUMwCWcSuKONwHI) | 3:06 |
 | 50 | [beautiful 💄](https://open.spotify.com/track/4oJUtlGzMWmyURfJsCwO3z) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [perfectas](https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl) | 2:23 |
 
-Snapshot ID: `anJ9AAAAAABFTfkFHDnGcUSfx1m0fgBz`
+Snapshot ID: `anPOgAAAAADcjRkaRXE9bB7paqpaICyG`

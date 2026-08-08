@@ -340,7 +340,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 161375,
       "name": "Absentia",
       "url": "https://open.spotify.com/track/1HK9bUeaIXx3lZv1nWayyR"
@@ -920,6 +920,24 @@
       "duration_ms": 181802,
       "name": "Anima I",
       "url": "https://open.spotify.com/track/2oDMesExAJ06YS6prXYydx"
+    },
+    {
+      "album": {
+        "name": "Antennaria",
+        "url": "https://open.spotify.com/album/5KBbSf0AHYNCEkdQqrOxwr"
+      },
+      "artists": [
+        {
+          "name": "Les Moray",
+          "url": "https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162343,
+      "name": "Antennaria",
+      "url": "https://open.spotify.com/track/3G5xTlW7pv6eZjkBMwDZJ7"
     },
     {
       "album": {
@@ -3170,7 +3188,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 147449,
       "name": "Dove",
       "url": "https://open.spotify.com/track/5r14ZWcqv5vEplSjakKrI6"
@@ -5461,6 +5479,24 @@
     },
     {
       "album": {
+        "name": "Held by Night",
+        "url": "https://open.spotify.com/album/3VaChJADW9C3ou8aKpJhGV"
+      },
+      "artists": [
+        {
+          "name": "Matt van Stern",
+          "url": "https://open.spotify.com/artist/6R18bmvwvBLIz0r9XsIOza"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201025,
+      "name": "Held by Night",
+      "url": "https://open.spotify.com/track/2BWBCi2l0SYWNMrHVI9cbr"
+    },
+    {
+      "album": {
         "name": "Helgoland",
         "url": "https://open.spotify.com/album/7kdR3MtQBnZNb6ECrR1i6g"
       },
@@ -6030,7 +6066,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 146182,
       "name": "I Will Be Back",
       "url": "https://open.spotify.com/track/4LoPLsX1lY7jWCYl2DHqVJ"
@@ -11546,7 +11582,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 129666,
       "name": "Sentimental Value",
       "url": "https://open.spotify.com/track/42WMpnohvYYVqQkQ3qY57N"
@@ -12893,6 +12929,24 @@
     },
     {
       "album": {
+        "name": "Still Days",
+        "url": "https://open.spotify.com/album/6TB1qZqoIecQmgVcVuslkF"
+      },
+      "artists": [
+        {
+          "name": "Rudy Bloom",
+          "url": "https://open.spotify.com/artist/6kw1TTFYSs8rMUKWOm7kTI"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155972,
+      "name": "Still Days",
+      "url": "https://open.spotify.com/track/59dopHPBRXr60bPStvg1UA"
+    },
+    {
+      "album": {
         "name": "Still Dreaming of You",
         "url": "https://open.spotify.com/album/7tZTHyu9KKLnKNK4D1GRLq"
       },
@@ -13977,6 +14031,24 @@
     },
     {
       "album": {
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/6FEpWESh4HnQPHjDUibAtp"
+      },
+      "artists": [
+        {
+          "name": "Abel Laloux",
+          "url": "https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150958,
+      "name": "The Story",
+      "url": "https://open.spotify.com/track/0juwixmXJVEL4pH2oHFqfw"
+    },
+    {
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/7lUBViasfvFfPgJvxTuXnC"
       },
@@ -14964,6 +15036,24 @@
       "duration_ms": 160066,
       "name": "Until the End",
       "url": "https://open.spotify.com/track/7heAWVeCRuprbkAJwMtN7E"
+    },
+    {
+      "album": {
+        "name": "Until We Meet Again",
+        "url": "https://open.spotify.com/album/18omKiKxm18mAfMTpUJgS6"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Arag\u00f3n",
+          "url": "https://open.spotify.com/artist/683KE92SAUqlhIstBnBBXd"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176700,
+      "name": "Until We Meet Again",
+      "url": "https://open.spotify.com/track/1Xzs5vYf0zfA9V1OkhkDIJ"
     },
     {
       "album": {

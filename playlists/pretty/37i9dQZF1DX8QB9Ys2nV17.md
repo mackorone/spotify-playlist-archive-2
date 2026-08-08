@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,473 likes - 70 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,508 likes - 70 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 26 | [Lodi](https://open.spotify.com/track/4dEgvYbysxyVEdn6oSupuy) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg), [Sam Morrow](https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs) | [Change in the Weather: Janiva Magness Sings John Fogerty](https://open.spotify.com/album/18GO2VNtW7TBm0X4Qk0uJ5) | 3:50 |
 | 27 | [Geechee Woman](https://open.spotify.com/track/7KC0ebVIUOAlmCw83iWOYY) | [Shakura S'Aida](https://open.spotify.com/artist/1k7Twp5a4e1lULiRJy6BXw) | [Time...](https://open.spotify.com/album/66RPa84dHj7eHBG0f5MLsQ) | 4:37 |
 | 28 | [Woman](https://open.spotify.com/track/5yAGJ1mWBFihXhvOJ4VYU8) | [Wiyaala](https://open.spotify.com/artist/0Ttf480Uumk6ylOAokG2h7) | [Woman](https://open.spotify.com/album/3HWjeQxqdhEPVyoKgGYse2) | 4:28 |
-| 29 | [No Riders](https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh) | [Shannon Curfman](https://open.spotify.com/artist/2sn2g4lNGlsAoJm15MOM7x) | [Loud Guitars, Big Suspicions](https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp) | 3:29 |
-| 30 | [If You See Him](https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3) | [Kyla Brox](https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42) | [Throw Away Your Blues](https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe) | 4:58 |
+| 29 | [If You See Him](https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3) | [Kyla Brox](https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42) | [Throw Away Your Blues](https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe) | 4:58 |
+| 30 | [No Riders](https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh) | [Shannon Curfman](https://open.spotify.com/artist/2sn2g4lNGlsAoJm15MOM7x) | [Loud Guitars, Big Suspicions](https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp) | 3:29 |
 | 31 | [You Ain't My Dog No More](https://open.spotify.com/track/054MF2HfHcqygtR0ikyOPq) | [Eliza Neals](https://open.spotify.com/artist/48XgWMevIvFi72xQFN2qqb) | [10,000 Feet Below](https://open.spotify.com/album/6qGoljg8VssC15xzOsr0C5) | 4:24 |
 | 32 | [Healing Creek](https://open.spotify.com/track/4AsrwPkPDdpzjjdr2SDykN) | [Talibah Safiya](https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS) | [Healing Creek](https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6) | 3:11 |
 | 33 | [If Trouble Was Money](https://open.spotify.com/track/5C7R3FWg4eG04eAdmu5XNv) | [Sena Ehrhardt](https://open.spotify.com/artist/4I2MGRZw35d0HkoOad38tg) | [Live My Life](https://open.spotify.com/album/7iK2ce3jz7brShoDM4I9Dp) | 5:49 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 37 | [Blood Red Blues](https://open.spotify.com/track/6tUaoQubP95G9YseowN2Fc) | [Cee Cee James](https://open.spotify.com/artist/6Y21yqal00z7As840atRpD) | [Blood Red Blues](https://open.spotify.com/album/6AmwjavjuaLjqA9II7pLDO) | 3:54 |
 | 38 | [Stay with Me](https://open.spotify.com/track/3ZFwoOTjcVzVOcFM08NsjG) | [Laurie Morvan](https://open.spotify.com/artist/2ONUJ0UH3CbpcWMzIFiveG) | [Gravity](https://open.spotify.com/album/398jxHU1B54yCJGOq4Iiyb) | 4:29 |
 | 39 | [Hard Times, Bad Decisions](https://open.spotify.com/track/3Y7UdjWcTTYUwzJlhQb1nU) | [Lisa Mann](https://open.spotify.com/artist/119v7X6k46bE5xgwuWawbt) | [Hard Times, Bad Decisions](https://open.spotify.com/album/4woumpJLb24RBzibZkh3OB) | 4:31 |
-| 40 | [Earthshaker](https://open.spotify.com/track/55JA2ADUmJvPdIWpyqHTaJ) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB) | [Rise](https://open.spotify.com/album/0pC44Owu9L5cki0FGk9KuG) | 4:07 |
-| 41 | [Love's Truly Blind](https://open.spotify.com/track/6Sm45PLFiplvxlQuLnMUMC) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Texas Hold 'Em](https://open.spotify.com/album/2fUmLqaNyVUIRuIqUFFHui) | 3:27 |
+| 40 | [Love's Truly Blind](https://open.spotify.com/track/6Sm45PLFiplvxlQuLnMUMC) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Texas Hold 'Em](https://open.spotify.com/album/2fUmLqaNyVUIRuIqUFFHui) | 3:27 |
+| 41 | [Earthshaker](https://open.spotify.com/track/55JA2ADUmJvPdIWpyqHTaJ) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB) | [Rise](https://open.spotify.com/album/0pC44Owu9L5cki0FGk9KuG) | 4:07 |
 | 42 | [You Need Love](https://open.spotify.com/track/4I5G1RoD0LbJ8q5VG5YdIs) | [Candye Kane](https://open.spotify.com/artist/70svT4F0xhbyQ5lQx6UE4b), [Stephen Hodges](https://open.spotify.com/artist/1dEhcM1DuKdrIb3iudblIp) | [Superhero](https://open.spotify.com/album/3aEHMc4YNu1XKfFqboal8C) | 4:06 |
 | 43 | [That's All Right](https://open.spotify.com/track/6mnNzspvGs07xahHtjKShp) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [That's All Right](https://open.spotify.com/album/2asRe9Gst5dPh1OPwdHg2R) | 2:59 |
 | 44 | [Ain't Gonna Hush](https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw) | [Saffire\-The Uppity Blues Women](https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E) | [Ain't Gonna Hush!](https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4) | 2:18 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 69 | [Life Of The Party](https://open.spotify.com/track/6wILqRslB1r6SWtEj4senP) | [Debbie Davies](https://open.spotify.com/artist/21OcU2kzq3Oqkl8XxsEli7) | [Love Spin](https://open.spotify.com/album/5wSnSMk4dLaP00nRpIZrfp) | 3:51 |
 | 70 | [They Never Pay Me](https://open.spotify.com/track/4I7exgZnKPQeLgzRAsx77r) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Tug of War](https://open.spotify.com/album/2rc0kuRCruGFP5osvkZp2S) | 3:33 |
 
-Snapshot ID: `AAAAAEiOfx/uOCa3G5hlrhhrwr4lZ32X`
+Snapshot ID: `AAAAAMimvT1o6IvZrEiU5K9wvycdJSrt`

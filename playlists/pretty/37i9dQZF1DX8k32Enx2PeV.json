@@ -1,29 +1,13 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 17057,
+  "num_followers": 17069,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJGHW71TWAWYF5rQtFrjHtmjkYuY",
+  "snapshot_id": "AAAAALb53UcxfTE7mRxWAxxdGyQkLqru",
   "tracks": [
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
-        "name": "A M\u00ed",
-        "url": "https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "A M\u00ed",
-      "url": "https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa"
-    },
     {
       "added_at": "2026-07-24 04:49:13",
       "album": {
@@ -43,22 +27,18 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Gidi 2 Caracas (La M\u00fasica)",
-        "url": "https://open.spotify.com/album/2wXcuMCVdvsHaAje0TgNph"
+        "name": "A M\u00ed",
+        "url": "https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO"
       },
       "artists": [
         {
-          "name": "Daramola",
-          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
-        },
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 165833,
-      "name": "Gidi 2 Caracas - La M\u00fasica",
-      "url": "https://open.spotify.com/track/3KDNjufpaTpwTiR9zAxDbY"
+      "duration_ms": 209680,
+      "name": "A M\u00ed",
+      "url": "https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -81,22 +61,6 @@
       "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
     },
     {
-      "added_at": "2026-07-31 04:59:22",
-      "album": {
-        "name": "REINA (KRIMINAL)",
-        "url": "https://open.spotify.com/album/7eblPvGdDiHG1vHdtc7pys"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 164515,
-      "name": "REINA (KRIMINAL)",
-      "url": "https://open.spotify.com/track/6YCdfQNDpfvY9D9JHc9VmR"
-    },
-    {
       "added_at": "2026-06-19 04:59:04",
       "album": {
         "name": "Imag\u00ednate",
@@ -117,20 +81,20 @@
       "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
     },
     {
-      "added_at": "2026-06-19 04:59:04",
+      "added_at": "2026-07-31 04:59:22",
       "album": {
-        "name": "POR SI MA\u00d1ANA NO ESTOY",
-        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
+        "name": "REINA (KRIMINAL)",
+        "url": "https://open.spotify.com/album/7eblPvGdDiHG1vHdtc7pys"
       },
       "artists": [
         {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
         }
       ],
-      "duration_ms": 195146,
-      "name": "KOKO",
-      "url": "https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb"
+      "duration_ms": 164515,
+      "name": "REINA (KRIMINAL)",
+      "url": "https://open.spotify.com/track/6YCdfQNDpfvY9D9JHc9VmR"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -151,6 +115,38 @@
       "duration_ms": 171813,
       "name": "QUE HACES",
       "url": "https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "POR SI MA\u00d1ANA NO ESTOY",
+        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 195146,
+      "name": "KOKO",
+      "url": "https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "AY MAMA (mi tibur\u00f3n)",
+        "url": "https://open.spotify.com/album/4RafoSfihhy0heXBjcKjaa"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 138380,
+      "name": "AY MAMA (mi tibur\u00f3n)",
+      "url": "https://open.spotify.com/track/7yHZ66udwjeUafGohI7T46"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -179,18 +175,18 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "AY MAMA (mi tibur\u00f3n)",
-        "url": "https://open.spotify.com/album/4RafoSfihhy0heXBjcKjaa"
+        "name": "Bendito Verano",
+        "url": "https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s"
       },
       "artists": [
         {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
         }
       ],
-      "duration_ms": 138380,
-      "name": "AY MAMA (mi tibur\u00f3n)",
-      "url": "https://open.spotify.com/track/7yHZ66udwjeUafGohI7T46"
+      "duration_ms": 176285,
+      "name": "ALMA",
+      "url": "https://open.spotify.com/track/3DNPOTO44kCKUV9RkYU77G"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -207,22 +203,6 @@
       "duration_ms": 159333,
       "name": "Se Vienen Cositas",
       "url": "https://open.spotify.com/track/7ulDhf05iMrq4IFWNbTrbI"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
-        "name": "Bendito Verano",
-        "url": "https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 176285,
-      "name": "ALMA",
-      "url": "https://open.spotify.com/track/3DNPOTO44kCKUV9RkYU77G"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -267,22 +247,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Beso a Beso",
-        "url": "https://open.spotify.com/album/3ltYEasCkX4XZJxBScFNln"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        }
-      ],
-      "duration_ms": 137969,
-      "name": "Beso a Beso",
-      "url": "https://open.spotify.com/track/1hih4xsBd6rHYETs8wI79C"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "ILY",
         "url": "https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW"
       },
@@ -299,6 +263,42 @@
       "duration_ms": 216621,
       "name": "ILY",
       "url": "https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Beso a Beso",
+        "url": "https://open.spotify.com/album/3ltYEasCkX4XZJxBScFNln"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "duration_ms": 137969,
+      "name": "Beso a Beso",
+      "url": "https://open.spotify.com/track/1hih4xsBd6rHYETs8wI79C"
+    },
+    {
+      "added_at": "2026-08-07 04:59:14",
+      "album": {
+        "name": "Jamaica (wiki, wiki)",
+        "url": "https://open.spotify.com/album/15Zeo9YDc9qgiwxp2ibb8L"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "duration_ms": 134693,
+      "name": "Jamaica (wiki, wiki)",
+      "url": "https://open.spotify.com/track/01g26vJTOuRKL4y3S8Myxb"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Entre Luca Y Juan Mej\u00eda",
-        "url": "https://open.spotify.com/album/2i1R5n8KVFsa2iKe4KKz7Z"
-      },
-      "artists": [
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        }
-      ],
-      "duration_ms": 227013,
-      "name": "Entre Luca Y Juan Mej\u00eda",
-      "url": "https://open.spotify.com/track/1FFwPJxL60iQPSmXK81t6q"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "El AchanTAdo",
         "url": "https://open.spotify.com/album/1T8WIYEepKDl4j27kdZIox"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 225750,
       "name": "El AchanTAdo",
       "url": "https://open.spotify.com/track/3fr52NaaVxb2UxPNxDtaQx"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Entre Luca Y Juan Mej\u00eda",
+        "url": "https://open.spotify.com/album/2i1R5n8KVFsa2iKe4KKz7Z"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 227013,
+      "name": "Entre Luca Y Juan Mej\u00eda",
+      "url": "https://open.spotify.com/track/1FFwPJxL60iQPSmXK81t6q"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "EMDDMV",
-        "url": "https://open.spotify.com/album/6ziWmkk7khSe5U5QstUNtV"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "EMDDMV",
-      "url": "https://open.spotify.com/track/7iR2INATAqjNsevyTqojre"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "Deja",
         "url": "https://open.spotify.com/album/5znLnc0oe8wA9On08nv8gd"
       },
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
+        "name": "B\u00faho",
+        "url": "https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX"
+      },
+      "artists": [
+        {
+          "name": "Mr. Bleat",
+          "url": "https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb"
+        }
+      ],
+      "duration_ms": 300338,
+      "name": "B\u00faho",
+      "url": "https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
         "name": "Pailas Parcera",
         "url": "https://open.spotify.com/album/4dDvlsfbXQ8Gf1bOzlGCNH"
       },
@@ -1103,22 +1103,6 @@
       "duration_ms": 188936,
       "name": "Pailas Parcera",
       "url": "https://open.spotify.com/track/7wadGShHx40m4EJGObdjyj"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
-        "name": "B\u00faho",
-        "url": "https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX"
-      },
-      "artists": [
-        {
-          "name": "Mr. Bleat",
-          "url": "https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb"
-        }
-      ],
-      "duration_ms": 300338,
-      "name": "B\u00faho",
-      "url": "https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1181,26 +1165,6 @@
       "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
     },
     {
-      "added_at": "2026-06-26 04:59:12",
-      "album": {
-        "name": "Can't Stand It",
-        "url": "https://open.spotify.com/album/6R3JaYcX61TTOFsTyRFaKY"
-      },
-      "artists": [
-        {
-          "name": "Lil Keren",
-          "url": "https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt"
-        },
-        {
-          "name": "DanDizzy",
-          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": "Can't Stand It",
-      "url": "https://open.spotify.com/track/7y1fHpznXIbT3JEe1PpYkp"
-    },
-    {
       "added_at": "2026-06-19 04:59:04",
       "album": {
         "name": "Saltas Por M\u00ed",
@@ -1219,6 +1183,26 @@
       "duration_ms": 160000,
       "name": "Saltas Por M\u00ed",
       "url": "https://open.spotify.com/track/4sDMrCZp5s9U2RcQkc5KY2"
+    },
+    {
+      "added_at": "2026-06-26 04:59:12",
+      "album": {
+        "name": "Can't Stand It",
+        "url": "https://open.spotify.com/album/6R3JaYcX61TTOFsTyRFaKY"
+      },
+      "artists": [
+        {
+          "name": "Lil Keren",
+          "url": "https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt"
+        },
+        {
+          "name": "DanDizzy",
+          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": "Can't Stand It",
+      "url": "https://open.spotify.com/track/7y1fHpznXIbT3JEe1PpYkp"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
+        "name": "Milanoche",
+        "url": "https://open.spotify.com/album/6XkOMebYPG1wpdHNtnAqlp"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 168282,
+      "name": "Milanoche",
+      "url": "https://open.spotify.com/track/22wu7UZqhnHJbAvqqD0GUO"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
         "name": "Baby Prime",
         "url": "https://open.spotify.com/album/3KtYriNAr8k2slfPNfCYXg"
       },
@@ -1423,22 +1423,6 @@
       "duration_ms": 133186,
       "name": "Baby Prime",
       "url": "https://open.spotify.com/track/0wM3i3lZSv8pv8ffQobB7q"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
-        "name": "Milanoche",
-        "url": "https://open.spotify.com/album/6XkOMebYPG1wpdHNtnAqlp"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 168282,
-      "name": "Milanoche",
-      "url": "https://open.spotify.com/track/22wu7UZqhnHJbAvqqD0GUO"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1667,22 +1651,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Los Playa Vol. 1",
-        "url": "https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq"
-      },
-      "artists": [
-        {
-          "name": "El General Villamil",
-          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
-        }
-      ],
-      "duration_ms": 217366,
-      "name": "Loco Playa",
-      "url": "https://open.spotify.com/track/3xLMxECVQRoP91T0XJHgtw"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
         "url": "https://open.spotify.com/album/12DZ25npZ3OCG49siRWV9l"
       },
@@ -1699,6 +1667,22 @@
       "duration_ms": 171818,
       "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
       "url": "https://open.spotify.com/track/35pUfmbGcHh24mEcHJnPGp"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Los Playa Vol. 1",
+        "url": "https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq"
+      },
+      "artists": [
+        {
+          "name": "El General Villamil",
+          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
+        }
+      ],
+      "duration_ms": 217366,
+      "name": "Loco Playa",
+      "url": "https://open.spotify.com/track/3xLMxECVQRoP91T0XJHgtw"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1975,22 +1959,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Corolla 94",
-        "url": "https://open.spotify.com/album/6tbVFYIDmco4NiEMxWEYsp"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 201176,
-      "name": "Corolla 94",
-      "url": "https://open.spotify.com/track/1HUzDAJRiiyk35cSnPXPUG"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "NINA",
         "url": "https://open.spotify.com/album/4K6tYEEDctTzhjXwCXLCXv"
       },
@@ -2007,6 +1975,22 @@
       "duration_ms": 299000,
       "name": "NINA",
       "url": "https://open.spotify.com/track/75D6ddFBgFvobY7niIcGSv"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Corolla 94",
+        "url": "https://open.spotify.com/album/6tbVFYIDmco4NiEMxWEYsp"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 201176,
+      "name": "Corolla 94",
+      "url": "https://open.spotify.com/track/1HUzDAJRiiyk35cSnPXPUG"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -2043,6 +2027,22 @@
       "duration_ms": 211891,
       "name": "Tierra de Promesas (Sierra Nevada)",
       "url": "https://open.spotify.com/track/3ev9a5BsLouEwswQ9IOXtC"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Quiz\u00e1s (La Historia de Nosotros)",
+        "url": "https://open.spotify.com/album/6iS5SVopMVmHe6fXFniSB7"
+      },
+      "artists": [
+        {
+          "name": "Alex Eugenio",
+          "url": "https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR"
+        }
+      ],
+      "duration_ms": 203761,
+      "name": "Quiz\u00e1s (La Historia de Nosotros)",
+      "url": "https://open.spotify.com/track/3cSwcIKkVTuLIKGzmqgK2A"
     }
   ],
   "unique_name": "Palmera",

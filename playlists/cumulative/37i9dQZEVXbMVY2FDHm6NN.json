@@ -609,6 +609,24 @@
     },
     {
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158494,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
+    },
+    {
+      "album": {
         "name": "Happy - :') (Remixes)",
         "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
       },
@@ -2198,7 +2216,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -2684,7 +2702,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 180716,
       "name": "Don\u2019t Say You Love Me",
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
@@ -4313,6 +4331,24 @@
     },
     {
       "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
+    },
+    {
+      "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
       },
@@ -4422,7 +4458,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 180000,
       "name": "Heavy Serenade",
       "url": "https://open.spotify.com/track/1Sjs93mMgi9bX06FFU9Mcv"
@@ -5580,6 +5616,24 @@
       "duration_ms": 185920,
       "name": "Killin\u2019 Me Good",
       "url": "https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7"
+    },
+    {
+      "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219584,
+      "name": "kiss me",
+      "url": "https://open.spotify.com/track/0lok0VDJn0zRvHLBCITSSw"
     },
     {
       "album": {
@@ -6813,6 +6867,28 @@
     },
     {
       "album": {
+        "name": "MOTION (feat. Juicy J)",
+        "url": "https://open.spotify.com/album/7hkn5DHPOpLwrlUpxAbbnp"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157306,
+      "name": "MOTION (feat. Juicy J)",
+      "url": "https://open.spotify.com/track/15EbINtnOI4c2jPXXskywy"
+    },
+    {
+      "album": {
         "name": "Motto",
         "url": "https://open.spotify.com/album/4wDsCQv9qslV6MmlcWuCe9"
       },
@@ -7584,6 +7660,24 @@
       "duration_ms": 159080,
       "name": "Perfect Night",
       "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
+    },
+    {
+      "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184248,
+      "name": "petal",
+      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
     },
     {
       "album": {
@@ -10248,7 +10342,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
@@ -13538,7 +13632,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 245405,
       "name": "\u5982\u679c\u6211\u5f88\u5e73\u5eb8",
       "url": "https://open.spotify.com/track/0o0yzV24yRsgFE1xstBeeV"
@@ -13867,6 +13961,28 @@
     },
     {
       "album": {
+        "name": "BAD IDEA",
+        "url": "https://open.spotify.com/album/2DOpZAVuMfTjrW7OnPGOhr"
+      },
+      "artists": [
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        },
+        {
+          "name": "mac ova seas",
+          "url": "https://open.spotify.com/artist/1a3bTQmBNmgiY3U7sMh9pf"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197386,
+      "name": "\u5de6\u8f49\u71c8 (1000 Times+1)",
+      "url": "https://open.spotify.com/track/6KX7sIYgW6bk2hwlcYm6fO"
+    },
+    {
+      "album": {
         "name": "\u5de6\u908a\u7684\u4eba",
         "url": "https://open.spotify.com/album/4J9l1jwAMA1M6rQ1qb2MVq"
       },
@@ -13932,7 +14048,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 279923,
       "name": "\u5e78\u798f\u5728\u6b4c\u5531 - \u96fb\u5f71\u300a\u967d\u5149\u5973\u5b50\u5408\u5531\u5718\u300b\u5e78\u798f\u7248\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/3VHi5bCUek6XdiDmqqrirs"
@@ -14602,7 +14718,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 289604,
       "name": "\u6162\u51b7",
       "url": "https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW"
@@ -16406,6 +16522,24 @@
       "duration_ms": 285546,
       "name": "\u7d66\u6211\u4e00\u500b\u7406\u7531\u5fd8\u8a18",
       "url": "https://open.spotify.com/track/2DcmVSLAg0ZzfOQxDshZHY"
+    },
+    {
+      "album": {
+        "name": "\u865b\u83ef\u7684\u5922\u60f3\u662f\u4e00\u652f\u5200",
+        "url": "https://open.spotify.com/album/7MHsN476ET6hCo5gtdrZcT"
+      },
+      "artists": [
+        {
+          "name": "\u9ec3\u5947\u658c",
+          "url": "https://open.spotify.com/artist/7td0pZH6CpEX2f36bU1H2D"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252458,
+      "name": "\u7dbf\u7dbf\u7121\u7d55\u671f",
+      "url": "https://open.spotify.com/track/2s00UudzwUn1i16mO3zjVw"
     },
     {
       "album": {

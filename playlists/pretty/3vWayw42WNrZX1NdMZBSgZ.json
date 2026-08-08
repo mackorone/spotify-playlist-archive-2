@@ -1,12 +1,12 @@
 {
-  "description": "The perfect mix of the latest pop hits! Follow this playlist to enjoy Shakira, Alejandro Sanz, TINI, Camilo, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Mon Laferte",
-  "num_followers": 51476,
-  "original_name": "Pop Latin Hits 2026",
+  "description": "The perfect mix of current Latin Pop hits! Enjoy Shakira, TINI, Camilo, Milo J, Emilia, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Alejandro Sanz, Eden Mu\u00f1oz",
+  "num_followers": 51463,
+  "original_name": "LATIN POP HITS 2026 - \u00c9xitos del Pop Latino",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAAVSe9BOT3AoPts2e5qSaaZBDlsaJ96",
+  "snapshot_id": "AAAVThPY8ip/THYMr0cpoqGntnMKSr3T",
   "tracks": [
     {
       "added_at": "2026-08-07 01:23:55",
@@ -63,6 +63,26 @@
       "duration_ms": 183529,
       "name": "SUPERESTRELLA",
       "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
+    },
+    {
+      "added_at": "2026-08-07 13:55:52",
+      "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/0Q01cgQeoWTETkOvpoeng9"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 222222,
+      "name": "Dai Dai - Spanish Version",
+      "url": "https://open.spotify.com/track/4FgqM9iu6uY5vJavkDrP6W"
     },
     {
       "added_at": "2026-08-07 02:32:59",
@@ -275,26 +295,6 @@
       "duration_ms": 192111,
       "name": "LA VILLA",
       "url": "https://open.spotify.com/track/6YkGw5op7PeyP2gmMMMrfJ"
-    },
-    {
-      "added_at": "2026-05-15 00:42:00",
-      "album": {
-        "name": "Dai Dai",
-        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Dai Dai",
-      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
       "added_at": "2026-04-24 15:13:45",
@@ -1100,7 +1100,7 @@
           "url": "https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU"
         }
       ],
-      "duration_ms": 275898,
+      "duration_ms": 268996,
       "name": "Despu\u00e9s de ti",
       "url": "https://open.spotify.com/track/6PbhFQkpQjoojWo2b6Ghoi"
     },
@@ -2061,6 +2061,6 @@
       "url": "https://open.spotify.com/track/1BSB5vq75OxagxoJbjnnjs"
     }
   ],
-  "unique_name": "Pop Latin Hits 2026",
+  "unique_name": "LATIN POP HITS 2026 - \u00c9xitos del Pop Latino",
   "url": "https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ"
 }

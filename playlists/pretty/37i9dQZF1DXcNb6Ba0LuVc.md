@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats to brighten your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,654 likes - 115 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,686 likes - 115 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 114 | [Like Water](https://open.spotify.com/track/6H1OU7JVRSNaZXrVU6JQnt) | [Herr Kaschke](https://open.spotify.com/artist/2dGqSVZSyxJpLWtWRkm7Ba) | [Like Water](https://open.spotify.com/album/3vruSZimL0mCbGfQcGaAfz) | 2:21 |
 | 115 | [Weightless](https://open.spotify.com/track/1X6Y4v1seN9P8uUj2VAwMr) | [Carlile G.](https://open.spotify.com/artist/1sFHTftk8Uv66yflP78Wi7) | [Weightless](https://open.spotify.com/album/4cnTvUTgOTDIbiLh4eBwxK) | 2:34 |
 
-Snapshot ID: `AAAAAN2KQ/DFNh9h4jvDoo0t5CSVcHR2`
+Snapshot ID: `AAAAACco/m6nMhGULOnHAYLE+9Z2o8dV`

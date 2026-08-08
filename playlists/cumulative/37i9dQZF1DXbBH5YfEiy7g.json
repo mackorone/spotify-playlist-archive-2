@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "BABA SIYABONGA",
+        "url": "https://open.spotify.com/album/6yH43drdOZTVRNgLvmWfyZ"
+      },
+      "artists": [
+        {
+          "name": "Umlazi Gospel Choir The Original",
+          "url": "https://open.spotify.com/artist/0V7olBRdnevHisGlCmbz02"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422352,
+      "name": "Baba Siyabonga",
+      "url": "https://open.spotify.com/track/3P5iI9ugl1d0P5muGcT3Q8"
+    },
+    {
+      "album": {
         "name": "Bagijime",
         "url": "https://open.spotify.com/album/1T7lHdJX27NfZ2CGiPwCoq"
       },
@@ -2825,6 +2843,24 @@
     },
     {
       "album": {
+        "name": "Ngiyabonga",
+        "url": "https://open.spotify.com/album/7lgHRNpZbmmYHL6qnM0Kw3"
+      },
+      "artists": [
+        {
+          "name": "Sipho Makhabane",
+          "url": "https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278719,
+      "name": "Ngiyabonga",
+      "url": "https://open.spotify.com/track/7z1CeYr4VpiyJ9r5HXtcSe"
+    },
+    {
+      "album": {
         "name": "Ngiyamazi Umhlengi Wam (Live At Cedarwoods of Sandton, 2023)",
         "url": "https://open.spotify.com/album/3746LVUDdq2j4dzJAyZVbG"
       },
@@ -3815,42 +3851,6 @@
     },
     {
       "album": {
-        "name": "Ngiyabonga",
-        "url": "https://open.spotify.com/album/7lgHRNpZbmmYHL6qnM0Kw3"
-      },
-      "artists": [
-        {
-          "name": "Sipho Makhabane",
-          "url": "https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2"
-        }
-      ],
-      "date_added": "2026-08-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/7z1CeYr4VpiyJ9r5HXtcSe"
-    },
-    {
-      "album": {
-        "name": "BABA SIYABONGA",
-        "url": "https://open.spotify.com/album/6yH43drdOZTVRNgLvmWfyZ"
-      },
-      "artists": [
-        {
-          "name": "Umlazi Gospel Choir The Original",
-          "url": "https://open.spotify.com/artist/0V7olBRdnevHisGlCmbz02"
-        }
-      ],
-      "date_added": "2026-08-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/3P5iI9ugl1d0P5muGcT3Q8"
-    },
-    {
-      "album": {
         "name": "In Season",
         "url": "https://open.spotify.com/album/1yax3wDYJRlKUgOZhDGJZZ"
       },
@@ -4606,6 +4606,24 @@
       "duration_ms": 374887,
       "name": "Uyinqaba Yethu",
       "url": "https://open.spotify.com/track/5QWMo0RPTNFmTMAcmiXHQ3"
+    },
+    {
+      "album": {
+        "name": "Uzube Nami Moyongcwele",
+        "url": "https://open.spotify.com/album/3D5ZTJi5aSulC1crs3YVOp"
+      },
+      "artists": [
+        {
+          "name": "Inqola Yevangeli Gospel Choir",
+          "url": "https://open.spotify.com/artist/0vgDCac0p7wWnXsgIzDBON"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300329,
+      "name": "Uzube Nami Moyongcwele",
+      "url": "https://open.spotify.com/track/0K6QYs5rY29RORQwX2Boye"
     },
     {
       "album": {

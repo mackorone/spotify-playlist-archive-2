@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:0e13gEkNu4bA0spwGoN2BB">Mariyam</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,192 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,189 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 49 | [The Moment](https://open.spotify.com/track/5jpSNQkBsF8mXaCgJFeto3) | [babyhats](https://open.spotify.com/artist/5cqRWXSEk4JOG5hUhQpgON) | [The Moment](https://open.spotify.com/album/4f7XxKi1YKl5ha4yAH48Ke) | 5:41 |
 | 50 | [Len](https://open.spotify.com/track/1GRKlmFW1t7ROA7UTZ6sUf) | [Jakub Wysmułek](https://open.spotify.com/artist/1iIcrcgUgQwx2yzqwAwAIK) | [Len](https://open.spotify.com/album/3JsfuP7Oul1Sblvubzjgwj) | 3:10 |
 
-Snapshot ID: `AAAAAKmbDEPXVgucQlwG5NjELsNbzUU6`
+Snapshot ID: `AAAAANlBZuNwqsxyAGE6IMjSVCC/e3Z8`

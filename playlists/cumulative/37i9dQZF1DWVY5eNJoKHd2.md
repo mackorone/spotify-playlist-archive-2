@@ -4,7 +4,7 @@
 
 > songs that make you feel like you're levitating
 
-530 songs - 1 day 8 hr 29 min
+532 songs - 1 day 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 | 2023-08-11 | 2026-02-14 |
 | [affection](https://open.spotify.com/track/4LyIHEDbAWDeKV0JbVZae9) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [we just need some time together](https://open.spotify.com/album/4Pr42qDjwPOxMxB9aJBDPG) | 3:55 | 2024-01-09 | 2024-07-12 |
 | [Afraid of the Dark](https://open.spotify.com/track/6iuaN8P73TOrTo4MCFpIc8) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Afraid of the Dark](https://open.spotify.com/album/5pI0rlg5RIFp9rnxkMM2b3) | 3:47 | 2023-04-14 | 2023-04-21 |
+| [After The Rain](https://open.spotify.com/track/0rclr5nd7iwF4rJTYRLlJq) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Pure Devotion](https://open.spotify.com/album/0DS9OxHBt693YOs3TDira2) | 3:15 | 2026-08-07 |  |
 | [Again?](https://open.spotify.com/track/6curW2n7DOSwwff4UjELPH) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Again?](https://open.spotify.com/album/4J3BlmFLY8OSr5Gbxx0Nyj) | 2:52 | 2023-09-22 | 2023-09-30 |
 | [Alchemy \(Living Is Not For The Heart\)](https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Again, for the first time](https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd) | 3:39 | 2025-11-07 | 2026-07-16 |
 | [Alesis](https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 3:18 | 2025-02-21 | 2026-04-17 |
@@ -72,6 +73,7 @@
 | [Boy with Blurry Eyes](https://open.spotify.com/track/26KwmM2Q99rYos2pdqDA5b) | [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj) | [Boy with Blurry Eyes](https://open.spotify.com/album/0LCBTv9ejahjUKpBVSYrru) | 2:45 | 2024-03-08 | 2024-03-16 |
 | [Boyhood](https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Boyhood](https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n) | 3:09 | 2023-03-24 | 2023-04-24 |
 | [Brakelights](https://open.spotify.com/track/5bJ3cuvn0fMdSV8tkJVpNY) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Brakelights](https://open.spotify.com/album/5eKr93YptXrXBHGHG9VuLd) | 2:48 | 2021-12-16 | 2022-04-20 |
+| [brand new chanel$](https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [brand new chanel$](https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg) | 3:58 | 2026-08-07 |  |
 | [Breathe](https://open.spotify.com/track/3C8UJfdBUmmNyYbaMlCyfQ) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Love Language](https://open.spotify.com/album/6FkUnwT6WUxtMPPm4mJpPA) | 3:07 | 2021-12-16 | 2022-04-13 |
 | [Breathe \(In the Air\)](https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 2:49 | 2023-05-24 |  |
 | [Breathe Deeper](https://open.spotify.com/track/3LbZIhU0smEU5SUnxod4j4) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 6:12 | 2022-05-18 | 2023-05-02 |
@@ -313,7 +315,7 @@
 | [New Romance](https://open.spotify.com/track/5ZhBx7W9rigl2vuRdT27rq) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/4uGklcCyzOko2IOYtMzUNg) | 4:12 | 2021-12-16 | 2022-07-02 |
 | [Nights](https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 5:07 | 2021-12-16 | 2023-11-11 |
 | [NIGHTS LIKE THIS PT 2](https://open.spotify.com/track/57G4kEAuP7muC8UzZXtcVi) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:46 | 2024-08-14 | 2026-05-13 |
-| [No Audience](https://open.spotify.com/track/5YIhyQTdOcuwn0VMeVwvAp) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [No Audience](https://open.spotify.com/album/0Jv292eM7KSnohNy5Yvt7t) | 2:53 | 2025-11-21 |  |
+| [No Audience](https://open.spotify.com/track/5YIhyQTdOcuwn0VMeVwvAp) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [No Audience](https://open.spotify.com/album/0Jv292eM7KSnohNy5Yvt7t) | 2:53 | 2025-11-21 | 2026-08-08 |
 | [No Child Left Behind](https://open.spotify.com/track/6ynrKyFuLEVeSk6QiJsYhB) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda \(Deluxe\)](https://open.spotify.com/album/2Wiyo7LzdeBCsVZiRA6vVZ) | 2:58 | 2021-12-16 | 2022-05-06 |
 | [No One Dies From Love](https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [No One Dies From Love](https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv) | 3:06 | 2022-05-06 | 2022-10-18 |
 | [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 | 2024-05-03 | 2024-11-30 |
@@ -376,7 +378,7 @@
 | [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 | 2022-07-28 | 2024-04-19 |
 | [Ring of Fire \(from the Netflix Film "Damsel"\)](https://open.spotify.com/track/1bAwVRqd28dUD5ha8M0l67) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Ring of Fire \(from the Netflix Film "Damsel"\)](https://open.spotify.com/album/1dYYvoY4Wx7WvxFF5ntYm7) | 3:13 | 2024-03-08 | 2024-03-16 |
 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 | 2021-12-16 | 2023-12-06 |
-| [ROCCO](https://open.spotify.com/track/1QAulqNUI1RBfBco1PxqXv) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [ROCCO / TENTACION](https://open.spotify.com/album/3rr98x5OTi71bp9NAfHZaS) | 3:06 | 2026-02-13 |  |
+| [ROCCO](https://open.spotify.com/track/1QAulqNUI1RBfBco1PxqXv) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [ROCCO / TENTACION](https://open.spotify.com/album/3rr98x5OTi71bp9NAfHZaS) | 3:06 | 2026-02-13 | 2026-08-08 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2023-01-03 | 2024-05-04 |
 | [Rose Colored Lenses](https://open.spotify.com/track/3wH4eUkJ1rL5xTU8PZZyOy) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:43 | 2023-03-10 | 2023-05-20 |
 | [Runaway](https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 9:07 | 2021-12-16 | 2024-06-15 |

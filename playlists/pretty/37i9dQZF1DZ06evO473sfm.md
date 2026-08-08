@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 
 > This is Grupo Frontera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,371 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,602 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 | 16 | [No Capea](https://open.spotify.com/track/3IcaWsnVb6NOsjtcuedsM8) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Capea](https://open.spotify.com/album/3fsVOb8vnAjEaxfuh5Kqdd) | 3:14 |
 | 17 | [Bebe Dame](https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 4:31 |
 | 18 | [EN ALTAVOZ](https://open.spotify.com/track/7GRBoiZ3aXbjIn4rML7GQE) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Comienzo](https://open.spotify.com/album/6Zk9W9Ab3CnhttW5nBOUnY) | 2:46 |
-| 19 | [DE LUNES A LUNES](https://open.spotify.com/track/4IIdIBVQEXwpE6MlLkHeBm) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [201](https://open.spotify.com/album/3w4tn0BuFHNjiqGMevGaz9) | 3:08 |
-| 20 | [ALV](https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 3:44 |
+| 19 | [ALV](https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 3:44 |
+| 20 | [DE LUNES A LUNES](https://open.spotify.com/track/4IIdIBVQEXwpE6MlLkHeBm) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [201](https://open.spotify.com/album/3w4tn0BuFHNjiqGMevGaz9) | 3:08 |
 | 21 | [Modo Difícil](https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Modo Difícil](https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI) | 3:21 |
 | 22 | [TULUM](https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:29 |
 | 23 | [Frágil](https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Frágil](https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 | 49 | [Salma Hayek](https://open.spotify.com/track/1EXL9Cqd1qSMZLAJUypiio) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Salma Hayek](https://open.spotify.com/album/4OgnTebVodg2B46sOgk3qu) | 3:43 |
 | 50 | [BESES ASI](https://open.spotify.com/track/3fKYOapkQ1pTmHqqFHByUG) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [ETERNO](https://open.spotify.com/album/6yNzRHzjoxFZ4rpgvCudT7) | 3:03 |
 
-Snapshot ID: `anJ9AAAAAAAJx3IHRIfX1bCJv+vzJUct`
+Snapshot ID: `anPOgAAAAABiXS0FEOEcS+md24YcUjRk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,033 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,036 likes - 60 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 18 | [Baby Did A Bad Bad Thing \- Remastered](https://open.spotify.com/track/7ohJuvtlKjKKaimEcvWfh1) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Best Of Chris Isaak](https://open.spotify.com/album/4aS233D1sBxySxC1dKVtup) | 2:56 |
 | 19 | [Goodbye Forever](https://open.spotify.com/track/24gCP3VKeK8aOdc01EBkVZ) | [Francine](https://open.spotify.com/artist/0SpWiyzKW4wSmiHlgZJywY) | [The Playmate](https://open.spotify.com/album/3p6EXaC1FsqKhCiMZ0poCb) | 3:54 |
 | 20 | [Rather Be Alone](https://open.spotify.com/track/5zAjGORs9r1VGXv9rrgCPw) | [The Rhythm Shakers](https://open.spotify.com/artist/6mlUdYWiqDyrAVDHwddCkQ) | [Voodoo](https://open.spotify.com/album/15AyjB0TYLriPym8G87vLI) | 2:24 |
-| 21 | [Hello Mary Lou](https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Legacy](https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0) | 2:18 |
-| 22 | [Everybody's Movin'](https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt) | [Glen Glenn](https://open.spotify.com/artist/4HA1v7Kj8foWKczaOUbxQx) | [Glen Rocks](https://open.spotify.com/album/7lm2w3HxZcXE1V2tvscmBv) | 2:42 |
+| 21 | [Everybody's Movin'](https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt) | [Glen Glenn](https://open.spotify.com/artist/4HA1v7Kj8foWKczaOUbxQx) | [Glen Rocks](https://open.spotify.com/album/7lm2w3HxZcXE1V2tvscmBv) | 2:42 |
+| 22 | [Hello Mary Lou](https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Legacy](https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0) | 2:18 |
 | 23 | [You Belong to Me](https://open.spotify.com/track/1yZj1ACstOv0jRgFuKolxI) | [John Lindberg Trio](https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO) | [Straight from the Heart](https://open.spotify.com/album/2krRyJn2KAXcknNdDV6ask) | 2:18 |
 | 24 | [Best Friend's Girlfriend](https://open.spotify.com/track/47xbYXGlRgknlC4wPPOaoW) | [John Lindberg Trio](https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO) | [Best Friend's Girlfriend](https://open.spotify.com/album/7IMnrpb9gjWG5dRIh0c05C) | 3:09 |
 | 25 | [Depression](https://open.spotify.com/track/28vMuX0gRJMeIhGaW0cQPn) | [The Hillbilly Moon Explosion](https://open.spotify.com/artist/2osRW41mzIig6TuqQeNsJR) | [With Monsters and Gods](https://open.spotify.com/album/5ejGluFtTbkWyVTRY7LU5z) | 2:08 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 39 | [Jungle Rock](https://open.spotify.com/track/6dA1oRPKhfAm1hHO6sKrGy) | [Hank Mizell](https://open.spotify.com/artist/3RGF93b8Qtz77GLJBgdBH6) | [Windy City Bop \- Chicago Rockabilly 1945\-1958](https://open.spotify.com/album/1cqS5uzgVFJLhGuP7G089N) | 2:46 |
 | 40 | [Keep On Loving Me Baby \- The original live recordings](https://open.spotify.com/track/6sQjLATFOYyHE61ZW0xBkE) | [Bluebirds](https://open.spotify.com/artist/2tSCSRIiOya3O652PDmu3S) | [You Take My Blues Away \(The original live recordings\)](https://open.spotify.com/album/5OEyHOsTdKftIsSbzKl8Ci) | 3:38 |
 | 41 | [My Little Sister Gotta Motorbike](https://open.spotify.com/track/3jdD1a7GJXh3Q9pMYxLagY) | [Crazy Cavan](https://open.spotify.com/artist/1GpRTQRruGUoxhRYV0RtEv), [The Rhythm Rockers](https://open.spotify.com/artist/2vUb000rRvIR0OySDVJSat) | [Our Own Way Of Rockin'](https://open.spotify.com/album/3Tig4FmFOmfxWrwwQhN1DO) | 2:45 |
-| 42 | [Far Too Far Away](https://open.spotify.com/track/26LN2TRg48VT6qKVo5O7Wt) | [Cat Lee King & His Cocks](https://open.spotify.com/artist/0TW61xr4ymSp2KxgiBXRJT) | [Cock Tales](https://open.spotify.com/album/0R9uSz4xu1Vxqpxp5sK52O) | 2:37 |
-| 43 | [Rockabilly Rebel](https://open.spotify.com/track/2x8crqLADWUdP27pFsF8JT) | [Hillbilly Hellcats](https://open.spotify.com/artist/11m1eWZOcuGHyNnE2m32SB) | [Our Brand](https://open.spotify.com/album/2x4X3CEv2XmPvNBVd309pz) | 2:29 |
+| 42 | [Rockabilly Rebel](https://open.spotify.com/track/2x8crqLADWUdP27pFsF8JT) | [Hillbilly Hellcats](https://open.spotify.com/artist/11m1eWZOcuGHyNnE2m32SB) | [Our Brand](https://open.spotify.com/album/2x4X3CEv2XmPvNBVd309pz) | 2:29 |
+| 43 | [Far Too Far Away](https://open.spotify.com/track/26LN2TRg48VT6qKVo5O7Wt) | [Cat Lee King & His Cocks](https://open.spotify.com/artist/0TW61xr4ymSp2KxgiBXRJT) | [Cock Tales](https://open.spotify.com/album/0R9uSz4xu1Vxqpxp5sK52O) | 2:37 |
 | 44 | [Drinking Wine Spo\-Dee\-O\-Dee \- Single Version](https://open.spotify.com/track/2kfSF4imGkVpJXR4MSKccm) | [Johnny Burnette & The Rock 'N' Roll Trio](https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58) | [Tear It Up: The Complete Legedary Coral Recordings](https://open.spotify.com/album/5EEZg4wJpSRVqRi1nxwKL6) | 2:12 |
 | 45 | [Love You To Death](https://open.spotify.com/track/2Ibsm42tOiFzlMIKyDsAQc) | [Screamin' Sins](https://open.spotify.com/artist/5TbvUklHVsA9ckRCb9WhQO), [Jen Blackwood](https://open.spotify.com/artist/6GInh8N8tyz8W1ebQR7wQ1) | [Love You To Death](https://open.spotify.com/album/1SuhxLmkkd8B2ePP5PkWaD) | 3:04 |
 | 46 | [Musta Notta Gotta Lotta](https://open.spotify.com/track/0MJiECmrhQvEggBvVfBSOj) | [Joe Ely](https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT) | [Musta Notta Gotta Lotta](https://open.spotify.com/album/0Og633EW0zPdlclAXI9TJg) | 2:35 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 59 | [Hot Rod Roadeo](https://open.spotify.com/track/5cWKBOUUemcjynxC5hS7yP) | [The Go Getters](https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq) | [Hot Rod Roadeo](https://open.spotify.com/album/3HMxOidYsEt6ayuiJALN0k) | 2:02 |
 | 60 | [Graceland](https://open.spotify.com/track/6uvs2pw75LSJjH5tCvpyGR) | [Charlie Sexton](https://open.spotify.com/artist/132XHXfIbAJi5jQKmH986p) | [True Romance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5RyWJx6ASGDuaEwVe0aWvG) | 3:25 |
 
-Snapshot ID: `AAAAADpwqoW5oVO94gLTycjKd+yRweEJ`
+Snapshot ID: `AAAAAAunvwsfuBbERX5obG0EocSzgkzc`

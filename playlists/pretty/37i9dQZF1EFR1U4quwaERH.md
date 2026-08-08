@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B0BPkmlJbG5tsDwTUUcBq">Blush</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199 likes - 103 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 198 likes - 103 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 55 | [Skeletons](https://open.spotify.com/track/5xlw9nAcMfmGNl26HbClOD) | [BluPrint](https://open.spotify.com/artist/3ufrJzxv3ezPKyauNpxPaZ) | [BluPrint](https://open.spotify.com/album/2WCYdF2ttKW61kTrQwvg64) | 3:45 |
 | 56 | [Sugar Free](https://open.spotify.com/track/6lnF4ddb8jtxuUuR0inTql) | [RIRI](https://open.spotify.com/artist/2UmhByzSum8X2lQZ7pWvWp) | [NEO](https://open.spotify.com/album/2glfQqfWGiPntmwsEyGAIE) | 2:47 |
 | 57 | [Undefeated](https://open.spotify.com/track/0HY3TAkkSFpPie38DG8wiB) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S) | [Undefeated](https://open.spotify.com/album/342jT3kHiTgpV7CWV4ja9k) | 2:54 |
-| 58 | [Time](https://open.spotify.com/track/60dpMYZvPWD9tqbMthIZcV) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [DIRTY BLONDE](https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG) | 2:47 |
-| 59 | [Was It Ever Love](https://open.spotify.com/track/2dUWA1UqoapADqbnUkdhRJ) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:14 |
+| 58 | [Was It Ever Love](https://open.spotify.com/track/2dUWA1UqoapADqbnUkdhRJ) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:14 |
+| 59 | [Time](https://open.spotify.com/track/60dpMYZvPWD9tqbMthIZcV) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [DIRTY BLONDE](https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG) | 2:47 |
 | 60 | [Me & You](https://open.spotify.com/track/5DrTqSTve2iaCSWuyyJZ4y) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Yazz](https://open.spotify.com/artist/1K8bWL1GnTW0b51YZOEANS), [Rhyon Brown](https://open.spotify.com/artist/5jwCDGKUT2wrfp8yAu8Qob) | [Empire \(Season 6, Born to Love You\) \[Music from the TV Series\]](https://open.spotify.com/album/3soKDu1ZCsRvNNPHzNyzli) | 2:29 |
 | 61 | [Growing Pains](https://open.spotify.com/track/4vmJnDCxNiT1tRycUwwEuT) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 2:41 |
 | 62 | [Want Love](https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Want Love](https://open.spotify.com/album/4Vuu72qzPAzs6gIBio67hf) | 3:20 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 102 | [WADE](https://open.spotify.com/track/4oZRhm2x62qN6prKI3S4fO) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw) | [AWAKENING](https://open.spotify.com/album/4xblTWNkBQJQQF9l5p9suu) | 2:46 |
 | 103 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
 
-Snapshot ID: `AcY43AAAAAAwfr28cVUBXDJySRUQY7TG`
+Snapshot ID: `AcY+NgAAAABNM8obZzEyf4fZWOyDQUU6`

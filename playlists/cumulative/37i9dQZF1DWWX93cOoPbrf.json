@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de los corridones. Natanael Cano en portada.",
+  "description": "Lo m\u00e1s fresco de los corridones. Grupo Exclusivo en portada.",
   "name": "Corridos 2026",
   "tracks": [
     {
@@ -3638,7 +3638,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 176106,
       "name": "Blue Label",
       "url": "https://open.spotify.com/track/6s0eQ3Qu012386r7mvKAyC"
@@ -9131,6 +9131,24 @@
     },
     {
       "album": {
+        "name": "El Borrador",
+        "url": "https://open.spotify.com/album/746H77jV8mf5Y5kbYZTV7T"
+      },
+      "artists": [
+        {
+          "name": "Grupo Exclusivo",
+          "url": "https://open.spotify.com/artist/2boZJJBos06QI6Iyj7KD9k"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246698,
+      "name": "El Borrador",
+      "url": "https://open.spotify.com/track/2AJqKLmN29kUSnjO0qUhhD"
+    },
+    {
+      "album": {
         "name": "El Borre",
         "url": "https://open.spotify.com/album/2IPoriM5ZN0devfwGxx5J7"
       },
@@ -9386,6 +9404,28 @@
       "duration_ms": 228187,
       "name": "El Cachorro",
       "url": "https://open.spotify.com/track/3GroAuRPDi6jUF8LVa3OBn"
+    },
+    {
+      "album": {
+        "name": "El Caguamillo",
+        "url": "https://open.spotify.com/album/1Lsk54vHCJZFIzb0wsH0Em"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Alta Gama",
+          "url": "https://open.spotify.com/artist/1ZOQjTwtC0tXWf4FqCKA3m"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191085,
+      "name": "El Caguamillo",
+      "url": "https://open.spotify.com/track/5iTCPbNS7QcfJzG8VToyMi"
     },
     {
       "album": {
@@ -13625,6 +13665,24 @@
     },
     {
       "album": {
+        "name": "El Mismo Sue\u00f1o",
+        "url": "https://open.spotify.com/album/612miafVZZQIRNuqHUpDL3"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158410,
+      "name": "El Mismo Sue\u00f1o",
+      "url": "https://open.spotify.com/track/1rFes8iRSog0C2jj2CnZK8"
+    },
+    {
+      "album": {
         "name": "El Mochomo (Live)",
         "url": "https://open.spotify.com/album/3xGn4cLF44Yx2B9ujTCy3H"
       },
@@ -16606,7 +16664,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 143031,
       "name": "En La Monta\u00f1a",
       "url": "https://open.spotify.com/track/3Yv8rH6g6OElRW8dLyLN9q"
@@ -17108,7 +17166,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 187178,
       "name": "Entre Ranchos",
       "url": "https://open.spotify.com/track/3KnLCs9QhSlhex5tbvOk3y"
@@ -18146,7 +18204,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 197857,
       "name": "Forjate Mi Copiloto",
       "url": "https://open.spotify.com/track/65IpPFWTB1I3WCIGhynlwD"
@@ -18278,6 +18336,24 @@
       "duration_ms": 194240,
       "name": "Fresas de la Capital - Remix",
       "url": "https://open.spotify.com/track/0YL4V7R077SARGTtJkBFLj"
+    },
+    {
+      "album": {
+        "name": "Fresh Club",
+        "url": "https://open.spotify.com/album/6cQ6KSK1YAoNYnhyGtMJcg"
+      },
+      "artists": [
+        {
+          "name": "Antonin Padilla",
+          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Fresh Club",
+      "url": "https://open.spotify.com/track/6pfVH6G1jvGyxtTCmlr85P"
     },
     {
       "album": {
@@ -23264,7 +23340,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 146474,
       "name": "La Soluci\u00f3n",
       "url": "https://open.spotify.com/track/7My7ANjRIKAcoavRGchP25"
@@ -23282,7 +23358,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 192168,
       "name": "La Sombra Del Se\u00f1or",
       "url": "https://open.spotify.com/track/724dIJhrcAv5vOtQuDsm4w"
@@ -25038,6 +25114,24 @@
       "duration_ms": 205525,
       "name": "Los Cheetos",
       "url": "https://open.spotify.com/track/4uPbjb2byXsOAh2a1KaaAU"
+    },
+    {
+      "album": {
+        "name": "Los Chiquinarcos",
+        "url": "https://open.spotify.com/album/09e4huPCFelwqiU5iKVTkl"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184113,
+      "name": "Los Chiquinarcos",
+      "url": "https://open.spotify.com/track/3hmQyfHL9Bg19bWs0eqMT1"
     },
     {
       "album": {
@@ -30986,6 +31080,28 @@
       "duration_ms": 147981,
       "name": "Pika Pika",
       "url": "https://open.spotify.com/track/5LHPcY9yd0hWVFIW4yfOCJ"
+    },
+    {
+      "album": {
+        "name": "Pilas Plebes",
+        "url": "https://open.spotify.com/album/0yW0gFVJxCjQCdnslnDb3L"
+      },
+      "artists": [
+        {
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        },
+        {
+          "name": "Grupo Selectivo",
+          "url": "https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180535,
+      "name": "Pilas Plebes",
+      "url": "https://open.spotify.com/track/04wix3MYN5kru11iMQZGER"
     },
     {
       "album": {

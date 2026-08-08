@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3092\u7279\u96c6\u3002Featuring Japanese Singer-Songwriters. Cover: milet",
-  "num_followers": 65608,
+  "num_followers": 65629,
   "original_name": "\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc Singer-Songwriter Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGMhsLuruv+vFS0o9SkN9S/fEzm/",
+  "snapshot_id": "AAAAAEgPSZyJqRVmeNKS3QaVUKMyiq13",
   "tracks": [
     {
       "added_at": "2026-08-04 15:00:31",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-08-04 15:00:31",
       "album": {
-        "name": "\u30af\u30e9\u30a6\u30f3\u65b0\u8eca\u3067\u8cb7\u3063\u3066\u3042\u3052\u308b",
-        "url": "https://open.spotify.com/album/79IX9gKiY14TsuQ7UldJoS"
-      },
-      "artists": [
-        {
-          "name": "amazarashi",
-          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
-        }
-      ],
-      "duration_ms": 347409,
-      "name": "\u30af\u30e9\u30a6\u30f3\u65b0\u8eca\u3067\u8cb7\u3063\u3066\u3042\u3052\u308b",
-      "url": "https://open.spotify.com/track/3TZhfwTNDdyFpBlkodbsMx"
-    },
-    {
-      "added_at": "2026-08-04 15:00:31",
-      "album": {
         "name": "INSIDE",
         "url": "https://open.spotify.com/album/4ND5fiPqq9Qm93GK9lGTZr"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 221259,
       "name": "INSIDE",
       "url": "https://open.spotify.com/track/2ZZGr9MSx1WMcawXj4SxLQ"
+    },
+    {
+      "added_at": "2026-08-04 15:00:31",
+      "album": {
+        "name": "\u30af\u30e9\u30a6\u30f3\u65b0\u8eca\u3067\u8cb7\u3063\u3066\u3042\u3052\u308b",
+        "url": "https://open.spotify.com/album/79IX9gKiY14TsuQ7UldJoS"
+      },
+      "artists": [
+        {
+          "name": "amazarashi",
+          "url": "https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao"
+        }
+      ],
+      "duration_ms": 347409,
+      "name": "\u30af\u30e9\u30a6\u30f3\u65b0\u8eca\u3067\u8cb7\u3063\u3066\u3042\u3052\u308b",
+      "url": "https://open.spotify.com/track/3TZhfwTNDdyFpBlkodbsMx"
     },
     {
       "added_at": "2026-08-04 15:00:31",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-08-04 15:00:31",
       "album": {
-        "name": "omoi",
-        "url": "https://open.spotify.com/album/1aXN5KsfSOEe08Tm3Wg0w8"
-      },
-      "artists": [
-        {
-          "name": "\u97f3\u7530 \u96c5\u5247",
-          "url": "https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo"
-        }
-      ],
-      "duration_ms": 189295,
-      "name": "omoi",
-      "url": "https://open.spotify.com/track/6kB44jxqus1x3P587VRTEb"
-    },
-    {
-      "added_at": "2026-08-04 15:00:31",
-      "album": {
         "name": "Clover",
         "url": "https://open.spotify.com/album/5eMSxw5F43b9x6J9NCzoc2"
       },
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2026-08-04 15:00:31",
       "album": {
+        "name": "omoi",
+        "url": "https://open.spotify.com/album/1aXN5KsfSOEe08Tm3Wg0w8"
+      },
+      "artists": [
+        {
+          "name": "\u97f3\u7530 \u96c5\u5247",
+          "url": "https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo"
+        }
+      ],
+      "duration_ms": 189295,
+      "name": "omoi",
+      "url": "https://open.spotify.com/track/6kB44jxqus1x3P587VRTEb"
+    },
+    {
+      "added_at": "2026-08-04 15:00:31",
+      "album": {
         "name": "\u30a4\u30af\u30b8\u30ca\u30b7",
         "url": "https://open.spotify.com/album/3o7fMvUbIBPcXLR7EK0xzL"
       },
@@ -1307,6 +1307,22 @@
       "duration_ms": 244781,
       "name": "\u30a4\u30af\u30b8\u30ca\u30b7",
       "url": "https://open.spotify.com/track/4jeG0pnEjEFIphK0oLnGaW"
+    },
+    {
+      "added_at": "2026-08-04 15:00:31",
+      "album": {
+        "name": "satellite",
+        "url": "https://open.spotify.com/album/4Zd4IpKqdyWaG3UAn5fTGh"
+      },
+      "artists": [
+        {
+          "name": "kakizaki yuta",
+          "url": "https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "satellite",
+      "url": "https://open.spotify.com/track/6f2vyljUjS6mUT0EaKLW3X"
     },
     {
       "added_at": "2026-08-04 15:00:31",
@@ -1339,22 +1355,6 @@
       "duration_ms": 197433,
       "name": "\u30ec\u30f3\u30ba",
       "url": "https://open.spotify.com/track/71HguLdW670hpDJR9f5l8K"
-    },
-    {
-      "added_at": "2026-08-04 15:00:31",
-      "album": {
-        "name": "satellite",
-        "url": "https://open.spotify.com/album/4Zd4IpKqdyWaG3UAn5fTGh"
-      },
-      "artists": [
-        {
-          "name": "kakizaki yuta",
-          "url": "https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "satellite",
-      "url": "https://open.spotify.com/track/6f2vyljUjS6mUT0EaKLW3X"
     },
     {
       "added_at": "2026-08-04 15:00:31",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-08-04 15:00:31",
       "album": {
-        "name": "\u604b\u306e\u3064\u3065\u304d",
-        "url": "https://open.spotify.com/album/6xFWcfVwaQYihZD6uT6lpr"
-      },
-      "artists": [
-        {
-          "name": "\u821f\u6d25\u771f\u7fd4",
-          "url": "https://open.spotify.com/artist/01O1K2of8wkNZJhWRlRFcT"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "\u604b\u306e\u3064\u3065\u304d",
-      "url": "https://open.spotify.com/track/3KCFS9OPt7r0u0vGdBZYHQ"
-    },
-    {
-      "added_at": "2026-08-04 15:00:31",
-      "album": {
         "name": "TIRED",
         "url": "https://open.spotify.com/album/1oOmZ1DNZjZcMFbXgIGIjP"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2026-08-04 15:00:31",
       "album": {
-        "name": "Dreamers",
-        "url": "https://open.spotify.com/album/5UCZC1Rm7amPipQREylCXK"
+        "name": "\u604b\u306e\u3064\u3065\u304d",
+        "url": "https://open.spotify.com/album/6xFWcfVwaQYihZD6uT6lpr"
       },
       "artists": [
         {
-          "name": "HIRAIDAI",
-          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+          "name": "\u821f\u6d25\u771f\u7fd4",
+          "url": "https://open.spotify.com/artist/01O1K2of8wkNZJhWRlRFcT"
         }
       ],
-      "duration_ms": 195230,
-      "name": "Dreamers",
-      "url": "https://open.spotify.com/track/0TbCl2LrSNOmQFpFaAgGaV"
+      "duration_ms": 232666,
+      "name": "\u604b\u306e\u3064\u3065\u304d",
+      "url": "https://open.spotify.com/track/3KCFS9OPt7r0u0vGdBZYHQ"
     },
     {
       "added_at": "2026-08-04 15:00:31",
@@ -1459,6 +1443,38 @@
       "duration_ms": 266160,
       "name": "Loved One",
       "url": "https://open.spotify.com/track/1JRGF0P4QeavZUxH86M1q0"
+    },
+    {
+      "added_at": "2026-08-04 15:00:31",
+      "album": {
+        "name": "Dreamers",
+        "url": "https://open.spotify.com/album/5UCZC1Rm7amPipQREylCXK"
+      },
+      "artists": [
+        {
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+        }
+      ],
+      "duration_ms": 195230,
+      "name": "Dreamers",
+      "url": "https://open.spotify.com/track/0TbCl2LrSNOmQFpFaAgGaV"
+    },
+    {
+      "added_at": "2026-08-04 15:00:31",
+      "album": {
+        "name": "Hearts Glow",
+        "url": "https://open.spotify.com/album/6o6MRc2BqslSwFVu3kdewI"
+      },
+      "artists": [
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+        }
+      ],
+      "duration_ms": 234679,
+      "name": "Hearts Glow",
+      "url": "https://open.spotify.com/track/0Wp9lawwW8ezR1sQhABCSg"
     },
     {
       "added_at": "2026-08-04 15:00:31",
@@ -1495,34 +1511,22 @@
     {
       "added_at": "2026-08-04 15:00:31",
       "album": {
-        "name": "Hearts Glow",
-        "url": "https://open.spotify.com/album/6o6MRc2BqslSwFVu3kdewI"
+        "name": "Those days -\u7ae5\u795e\uff5e\u5929\u306e\u5b50\u5b88\u5504\uff5e-",
+        "url": "https://open.spotify.com/album/5BR30mdzqjNa3a9nvDz7T5"
       },
       "artists": [
         {
-          "name": "Hana Hope",
-          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
-        }
-      ],
-      "duration_ms": 234679,
-      "name": "Hearts Glow",
-      "url": "https://open.spotify.com/track/0Wp9lawwW8ezR1sQhABCSg"
-    },
-    {
-      "added_at": "2026-08-04 15:00:31",
-      "album": {
-        "name": "\u4e71\u6c17",
-        "url": "https://open.spotify.com/album/2CW8vP5hLBcFNJgPmg3Dn3"
-      },
-      "artists": [
+          "name": "\u4f50\u4e45\u9593\u9f8d\u661f",
+          "url": "https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm"
+        },
         {
-          "name": "\u308c\u3093",
-          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
+          "name": "OZworld",
+          "url": "https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO"
         }
       ],
-      "duration_ms": 221559,
-      "name": "\u4e71\u6c17",
-      "url": "https://open.spotify.com/track/45pAexUCqZePSDy6HFNIAH"
+      "duration_ms": 222916,
+      "name": "Those days -\u7ae5\u795e\uff5e\u5929\u306e\u5b50\u5b88\u5504\uff5e-",
+      "url": "https://open.spotify.com/track/3DsdQCQzWl6K6Fjwx6aSwe"
     },
     {
       "added_at": "2026-08-04 15:00:31",
@@ -1543,6 +1547,22 @@
       "duration_ms": 206291,
       "name": "Hangover",
       "url": "https://open.spotify.com/track/7bhxfSyIU6iToIx7eJT5Tt"
+    },
+    {
+      "added_at": "2026-08-04 15:00:31",
+      "album": {
+        "name": "\u4e71\u6c17",
+        "url": "https://open.spotify.com/album/2CW8vP5hLBcFNJgPmg3Dn3"
+      },
+      "artists": [
+        {
+          "name": "\u308c\u3093",
+          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
+        }
+      ],
+      "duration_ms": 221559,
+      "name": "\u4e71\u6c17",
+      "url": "https://open.spotify.com/track/45pAexUCqZePSDy6HFNIAH"
     },
     {
       "added_at": "2026-08-04 15:00:31",
@@ -1607,26 +1627,6 @@
       "duration_ms": 290323,
       "name": "\u529b\u8aac",
       "url": "https://open.spotify.com/track/34GAppVIvEO2e6RIEUFMAI"
-    },
-    {
-      "added_at": "2026-08-04 15:00:31",
-      "album": {
-        "name": "Those days -\u7ae5\u795e\uff5e\u5929\u306e\u5b50\u5b88\u5504\uff5e-",
-        "url": "https://open.spotify.com/album/5BR30mdzqjNa3a9nvDz7T5"
-      },
-      "artists": [
-        {
-          "name": "\u4f50\u4e45\u9593\u9f8d\u661f",
-          "url": "https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm"
-        },
-        {
-          "name": "OZworld",
-          "url": "https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO"
-        }
-      ],
-      "duration_ms": 222916,
-      "name": "Those days -\u7ae5\u795e\uff5e\u5929\u306e\u5b50\u5b88\u5504\uff5e-",
-      "url": "https://open.spotify.com/track/3DsdQCQzWl6K6Fjwx6aSwe"
     },
     {
       "added_at": "2026-08-04 15:00:31",

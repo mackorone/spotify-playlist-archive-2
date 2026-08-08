@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 319623,
+  "num_followers": 319624,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJDCjAmzTM/WwUQG63ZVl7OV880B",
+  "snapshot_id": "AAAAAOjlQ44hDROwmbS1Htu1F/NjPWr3",
   "tracks": [
     {
       "added_at": "2026-05-22 03:01:24",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-05-22 03:01:24",
       "album": {
+        "name": "Paga pra Ver",
+        "url": "https://open.spotify.com/album/0fonDUXSKIm4rFSH3lCST8"
+      },
+      "artists": [
+        {
+          "name": "Barretin",
+          "url": "https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw"
+        }
+      ],
+      "duration_ms": 132571,
+      "name": "Paga pra Ver",
+      "url": "https://open.spotify.com/track/5DwKnpHXGRpoGjkw4f3cVD"
+    },
+    {
+      "added_at": "2026-05-22 03:01:24",
+      "album": {
         "name": "Beija-Fruta (O Sexo)",
         "url": "https://open.spotify.com/album/1F8q1m1rRbWEi0cvSoNpih"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 273523,
       "name": "Beija-Fruta (O Sexo)",
       "url": "https://open.spotify.com/track/30D1XeU3BrcXqL6uPO0CjP"
-    },
-    {
-      "added_at": "2026-05-22 03:01:24",
-      "album": {
-        "name": "Paga pra Ver",
-        "url": "https://open.spotify.com/album/0fonDUXSKIm4rFSH3lCST8"
-      },
-      "artists": [
-        {
-          "name": "Barretin",
-          "url": "https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw"
-        }
-      ],
-      "duration_ms": 132571,
-      "name": "Paga pra Ver",
-      "url": "https://open.spotify.com/track/5DwKnpHXGRpoGjkw4f3cVD"
     },
     {
       "added_at": "2026-05-22 03:01:24",

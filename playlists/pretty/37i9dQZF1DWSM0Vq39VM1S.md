@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 
 > C'est parti pour une bonne journée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,074 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,056 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 24 | [Some Birds Don't Fly](https://open.spotify.com/track/3zUh0LEFrPjlnKUm3krD8C) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Some Birds Don't Fly](https://open.spotify.com/album/28GN4GapBzVeGu3fcYOTRo) | 3:26 |
 | 25 | [Sit Back Baby](https://open.spotify.com/track/3uJHRqJcli8SMnZx1M2KXD) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Sit Back Baby](https://open.spotify.com/album/049xHwMikU5vc99m0Xo5Z1) | 3:54 |
 | 26 | [It's Not Just Me, It's Everybody](https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:16 |
-| 27 | [End of Time](https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [End of Time](https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q) | 3:46 |
-| 28 | [Rent California](https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Rent California](https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV) | 4:03 |
+| 27 | [Rent California](https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Rent California](https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV) | 4:03 |
+| 28 | [End of Time](https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [End of Time](https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q) | 3:46 |
 | 29 | [Wait Up \(feat\. I'm With Her\)](https://open.spotify.com/track/4bKT1G7Q6kInM0idAtnP3p) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Hen's Teeth](https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN) | 3:45 |
 | 30 | [Dreamin'](https://open.spotify.com/track/05RVHlafuc1NMa2ci1GS0U) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Ridin' \(Deluxe\)](https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p) | 3:53 |
 | 31 | [LEAN ON MY LOVE \(feat\. Andra Day\)](https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [BIG MONEY](https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3) | 4:11 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 41 | [Welcome to the Mood](https://open.spotify.com/track/1zaVcXWNLLL4sgLg8q9uvD) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood / Sundown](https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk) | 2:15 |
 | 42 | [Old Man](https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Old Man](https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5) | 3:27 |
 | 43 | [Small Mercies](https://open.spotify.com/track/5dOIyahZY3ZmzoidvVbELF) | [Jonathan Jeremiah](https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU) | [Horsepower For The Streets \(Deluxe Version\)](https://open.spotify.com/album/7b2eQ7mqxXZDq5GqF6agfP) | 3:41 |
-| 44 | [Against The Current](https://open.spotify.com/track/2p1ifc7yOpZDgBUZd6WpsQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Against The Current](https://open.spotify.com/album/680Q8QjaLVuXs6MO9xLVJY) | 3:36 |
-| 45 | [Disarray](https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Disarray](https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW) | 5:10 |
+| 44 | [Disarray](https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Disarray](https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW) | 5:10 |
+| 45 | [Against The Current](https://open.spotify.com/track/2p1ifc7yOpZDgBUZd6WpsQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Against The Current](https://open.spotify.com/album/680Q8QjaLVuXs6MO9xLVJY) | 3:36 |
 | 46 | [Grateful For](https://open.spotify.com/track/5cE0uS4VSGwOGYc1K6joDH) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Grateful For](https://open.spotify.com/album/78y8zxdtwe1dIuMkPED0Wc) | 3:39 |
 | 47 | [Coming Home](https://open.spotify.com/track/4XMjBid32yY7UsphrpJevX) | [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg) | [Coming Home](https://open.spotify.com/album/39JRixi3qOjhXvEWjvigfT) | 3:38 |
 | 48 | [My Whole Life](https://open.spotify.com/track/34GAk6onUPTSyOsISSQY3L) | [Octave Lissner](https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7) | [Learning to Live](https://open.spotify.com/album/74g5xcLgklxM0bu3UxBCCs) | 3:05 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 57 | [Give Me That Feeling](https://open.spotify.com/track/1TttmYJbJ5SfbmA06qJ8kZ) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/7Cq7tNfVMckpwGX4llhsVN) | 4:14 |
 | 58 | [Home](https://open.spotify.com/track/3ibjwFminiiudfT76RkuvU) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Home](https://open.spotify.com/album/4KDnylxQXJbcBTbMzc9E3Q) | 2:17 |
 | 59 | [Pretender](https://open.spotify.com/track/2YBAasP4UclvPt5HyuYlYD) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Pretender](https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC) | 2:26 |
-| 60 | [Souls x Mates](https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo) | [Dandi Noxx](https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz) | [Souls x Mates](https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA) | 3:51 |
+| 60 | [How Much Does It Take To Shift It All](https://open.spotify.com/track/0TgQDtN4IGHpUdAl97rXww) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [How Much Does It Take To Shift It All](https://open.spotify.com/album/4Mttw5x47ye4BjX9zrVdKv) | 2:33 |
 
-Snapshot ID: `AAAAAPKdsUN9zThgKxqvc46POL07dGkc`
+Snapshot ID: `AAAAAFxOkqgcVWMJDy9cxDZuZNoHBE50`

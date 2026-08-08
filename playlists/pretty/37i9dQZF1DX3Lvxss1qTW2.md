@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: Zaylevelten
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,290 likes - 80 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,347 likes - 80 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 18 | [Stars Misaligned II](https://open.spotify.com/track/0awbfWjQjaoogyh2VzUw9u) | [Shiloh Yodellé](https://open.spotify.com/artist/3jVOOhEKCtuDzhB8w1iLkH), [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA), [Abefe](https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl) | [Stars Misaligned II](https://open.spotify.com/album/25PT7y0EZbv1qdfctSmvzc) | 2:50 |
 | 19 | [Story](https://open.spotify.com/track/5pCYN4QDiiJjo8lNCGv1IQ) | [LYRXX](https://open.spotify.com/artist/6IP3yCr9AOjbbB3CdXq06G) | [Story](https://open.spotify.com/album/5xDNrHL8n0B20mDrJFXJkQ) | 2:38 |
 | 20 | [Look At Me \(with Fridayy\)](https://open.spotify.com/track/6Belt1VDE3OAvb4JWcn8nf) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [On The Road](https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa) | 3:24 |
-| 21 | [2MAGARITAS \(with Blaqbonez & Noon Dave\)](https://open.spotify.com/track/0P5Ufp4vpPYecwrXomOKdP) | [Chocolate City](https://open.spotify.com/artist/3Ub0Cq3b0cXfIUoWP7Swnv), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm) | [2MAGARITAS \(with Blaqbonez & Noon Dave\)](https://open.spotify.com/album/4S0vrhEN2GxjfVVVQR78IB) | 2:53 |
+| 21 | [2 MAGARITA \(with Blaqbonez & Noon Dave\)](https://open.spotify.com/track/0P5Ufp4vpPYecwrXomOKdP) | [Chocolate City](https://open.spotify.com/artist/3Ub0Cq3b0cXfIUoWP7Swnv), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm) | [2 MAGARITA \(with Blaqbonez & Noon Dave\)](https://open.spotify.com/album/4S0vrhEN2GxjfVVVQR78IB) | 2:47 |
 | 22 | [JET](https://open.spotify.com/track/57hvQIucaegfjRMdPzIcRr) | [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB), [Chech](https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [JET](https://open.spotify.com/album/0A2ZAlxeTaZdnSuyzBZGZW) | 2:55 |
 | 23 | [BB Lifestyle](https://open.spotify.com/track/2U6SxKaCtqPV3ppj2EBb2T) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [SSSoundGawd](https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw) | [BB Lifestyle](https://open.spotify.com/album/5aItozVOGdDVUIYXpyvZxE) | 3:08 |
 | 24 | [Money \(feat\. Scottyolorin\)](https://open.spotify.com/track/5xHTQE15LbvdqtfNdBTIqF) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq), [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx) | [Money \(feat\. Scottyolorin\)](https://open.spotify.com/album/19LOy9jhWSbcmKU50Ql196) | 2:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 79 | [Yeye Talk](https://open.spotify.com/track/1DEl9eFVBBRD9YuICnJ4QE) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH), [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta) | [Yeye Talk](https://open.spotify.com/album/0FaWSXVGY8ZDsJgHyyk6Ug) | 2:05 |
 | 80 | [By Now](https://open.spotify.com/track/4hDJudkT1bs6e7USICB6WJ) | [Evado](https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [By Now](https://open.spotify.com/album/5Pd5gF3Icv4G5zj22bhPVT) | 3:31 |
 
-Snapshot ID: `AAAAAKQkmJXTmtOrjDTIRs0Y4kCnroue`
+Snapshot ID: `AAAAACGwxu8I/GboH6UYHt5Mef1TmfRF`

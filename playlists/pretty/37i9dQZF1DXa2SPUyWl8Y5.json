@@ -1,12 +1,12 @@
 {
   "description": "Focus with melodic house and techno. ",
-  "num_followers": 564475,
+  "num_followers": 564503,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHQ8IMJ+c8YHv+FXGk+WJx5U5ERs",
+  "snapshot_id": "AAAAAGCOPoaAXRMpEAZNXp5/SkfZVErD",
   "tracks": [
     {
       "added_at": "2026-06-11 06:56:41",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
+        "name": "Wadi Dana",
+        "url": "https://open.spotify.com/album/45NYhmGO76k8GWRpxYSJQN"
+      },
+      "artists": [
+        {
+          "name": "Corren Cavini",
+          "url": "https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Wadi Dana",
+      "url": "https://open.spotify.com/track/6Fv8RI7hYPvddWOcsTs2HW"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 316000,
       "name": "Deep in My Mind - Original Mix",
       "url": "https://open.spotify.com/track/3Pu3lg462AIaqWt3BEji1O"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
-        "name": "Wadi Dana",
-        "url": "https://open.spotify.com/album/45NYhmGO76k8GWRpxYSJQN"
-      },
-      "artists": [
-        {
-          "name": "Corren Cavini",
-          "url": "https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Wadi Dana",
-      "url": "https://open.spotify.com/track/6Fv8RI7hYPvddWOcsTs2HW"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Unfold Voices EP",
-        "url": "https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T"
-      },
-      "artists": [
-        {
-          "name": "JAMIIE",
-          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
-        }
-      ],
-      "duration_ms": 391577,
-      "name": "Unfold Me",
-      "url": "https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "Meertraum",
         "url": "https://open.spotify.com/album/6Dcg0G9DKa2rVl1kIjMpv1"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 394418,
       "name": "Meertraum",
       "url": "https://open.spotify.com/track/3J2Emoq0BdKHQQZVJdViUY"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "Unfold Voices EP",
+        "url": "https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T"
+      },
+      "artists": [
+        {
+          "name": "JAMIIE",
+          "url": "https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF"
+        }
+      ],
+      "duration_ms": 391577,
+      "name": "Unfold Me",
+      "url": "https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
+        "name": "The Duty",
+        "url": "https://open.spotify.com/album/5wkFYvOqJVrdW92n31wFwS"
+      },
+      "artists": [
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "duration_ms": 194610,
+      "name": "The Duty",
+      "url": "https://open.spotify.com/track/6VGCWLkUxy4OrK4Lb5YwUI"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
         "name": "Cliff (Einmusik Remix)",
         "url": "https://open.spotify.com/album/1Y2UePUXE1qCL4DlxeO9Zy"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "The Duty",
-        "url": "https://open.spotify.com/album/5wkFYvOqJVrdW92n31wFwS"
-      },
-      "artists": [
-        {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
-        }
-      ],
-      "duration_ms": 194610,
-      "name": "The Duty",
-      "url": "https://open.spotify.com/track/6VGCWLkUxy4OrK4Lb5YwUI"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "Equinox",
         "url": "https://open.spotify.com/album/7CT47odhAVQwfzTBp0cGln"
       },
@@ -831,18 +831,18 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Thrust",
-        "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
+        "name": "Landing in Halifax",
+        "url": "https://open.spotify.com/album/79DbNRg47wmpCmtoJrByH1"
       },
       "artists": [
         {
-          "name": "Green Lake Project",
-          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
+          "name": "Passenger 10",
+          "url": "https://open.spotify.com/artist/1Rmh4YOuttbNyVthCkTokT"
         }
       ],
-      "duration_ms": 389092,
-      "name": "Aldebaran",
-      "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
+      "duration_ms": 249120,
+      "name": "Landing in Halifax",
+      "url": "https://open.spotify.com/track/3CLUfqZpiTv3EO2eAS5nll"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -863,18 +863,18 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Landing in Halifax",
-        "url": "https://open.spotify.com/album/79DbNRg47wmpCmtoJrByH1"
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
       },
       "artists": [
         {
-          "name": "Passenger 10",
-          "url": "https://open.spotify.com/artist/1Rmh4YOuttbNyVthCkTokT"
+          "name": "Green Lake Project",
+          "url": "https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz"
         }
       ],
-      "duration_ms": 249120,
-      "name": "Landing in Halifax",
-      "url": "https://open.spotify.com/track/3CLUfqZpiTv3EO2eAS5nll"
+      "duration_ms": 389092,
+      "name": "Aldebaran",
+      "url": "https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/1KTNoba0EoQRVl1rLOv71a"
-      },
-      "artists": [
-        {
-          "name": "Haddadi Von Engst",
-          "url": "https://open.spotify.com/artist/5Hg5DBnnqGjRx8ylws0xy5"
-        }
-      ],
-      "duration_ms": 308000,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/5nTULNIZFwN3e4g05lb6fF"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "Lu | Sal Amander | Tesseract",
         "url": "https://open.spotify.com/album/6ONMieARnYppdv9PZJ5ugm"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 397377,
       "name": "Tesseract",
       "url": "https://open.spotify.com/track/5qn2rZD76ZBusD5WqMtVOM"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/1KTNoba0EoQRVl1rLOv71a"
+      },
+      "artists": [
+        {
+          "name": "Haddadi Von Engst",
+          "url": "https://open.spotify.com/artist/5Hg5DBnnqGjRx8ylws0xy5"
+        }
+      ],
+      "duration_ms": 308000,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/5nTULNIZFwN3e4g05lb6fF"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -1027,22 +1027,18 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Hailstorm (Ann Clue Remix)",
-        "url": "https://open.spotify.com/album/54LvPkBHCUXjuKIfFC3e76"
+        "name": "Revolt",
+        "url": "https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT"
       },
       "artists": [
         {
           "name": "Theydream",
           "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
-        },
-        {
-          "name": "Ann Clue",
-          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
         }
       ],
-      "duration_ms": 382486,
-      "name": "Hailstorm - Ann Clue Remix",
-      "url": "https://open.spotify.com/track/4INsV87wHXViqJRAmbOo8t"
+      "duration_ms": 284187,
+      "name": "Revolt",
+      "url": "https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -1115,18 +1111,22 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Revolt",
-        "url": "https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT"
+        "name": "Hailstorm (Ann Clue Remix)",
+        "url": "https://open.spotify.com/album/54LvPkBHCUXjuKIfFC3e76"
       },
       "artists": [
         {
           "name": "Theydream",
           "url": "https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v"
+        },
+        {
+          "name": "Ann Clue",
+          "url": "https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong"
         }
       ],
-      "duration_ms": 284187,
-      "name": "Revolt",
-      "url": "https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R"
+      "duration_ms": 382486,
+      "name": "Hailstorm - Ann Clue Remix",
+      "url": "https://open.spotify.com/track/4INsV87wHXViqJRAmbOo8t"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
+        "name": "Night",
+        "url": "https://open.spotify.com/album/3gBbhTYRUfKkdN68v3nnBX"
+      },
+      "artists": [
+        {
+          "name": "AKZENTH",
+          "url": "https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Night",
+      "url": "https://open.spotify.com/track/253xpyhXIk9zrOveyC1i0D"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
         "name": "Vibrations",
         "url": "https://open.spotify.com/album/47lVs3yxAMXVmHn8P6O3I5"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 403709,
       "name": "Dark Future",
       "url": "https://open.spotify.com/track/5pogItD4GCGPkMR3SlLd1R"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
-        "name": "Night",
-        "url": "https://open.spotify.com/album/3gBbhTYRUfKkdN68v3nnBX"
-      },
-      "artists": [
-        {
-          "name": "AKZENTH",
-          "url": "https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Night",
-      "url": "https://open.spotify.com/track/253xpyhXIk9zrOveyC1i0D"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Moon",
-        "url": "https://open.spotify.com/album/4vf8n9s8hML7rpuJDzMMxe"
-      },
-      "artists": [
-        {
-          "name": "Calaido",
-          "url": "https://open.spotify.com/artist/3Jdpz53fJbxtqUlOZxA7SD"
-        }
-      ],
-      "duration_ms": 232342,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/7zBudMw6yvQNnhB2cf18tX"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "The Mood",
         "url": "https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 210731,
       "name": "The Mood",
       "url": "https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/4vf8n9s8hML7rpuJDzMMxe"
+      },
+      "artists": [
+        {
+          "name": "Calaido",
+          "url": "https://open.spotify.com/artist/3Jdpz53fJbxtqUlOZxA7SD"
+        }
+      ],
+      "duration_ms": 232342,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/7zBudMw6yvQNnhB2cf18tX"
     },
     {
       "added_at": "2026-06-11 06:56:41",

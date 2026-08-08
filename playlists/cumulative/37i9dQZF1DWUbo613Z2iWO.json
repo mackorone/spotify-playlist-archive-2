@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: Josh Levi",
+  "description": "R&B of the moment by the artists of the future. Cover: Noah Guy",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -11392,7 +11392,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 149720,
       "name": "Firestorm",
       "url": "https://open.spotify.com/track/5Oqa07elZ6N9dd9YL28gNU"
@@ -12966,7 +12966,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 208000,
       "name": "Go To Hell",
       "url": "https://open.spotify.com/track/55oEeRm8eGPqQODbj4iE6q"
@@ -13342,6 +13342,24 @@
       "duration_ms": 201592,
       "name": "Goofy",
       "url": "https://open.spotify.com/track/1A5hxo3hCF6FxBunEoKWcS"
+    },
+    {
+      "album": {
+        "name": "Got You",
+        "url": "https://open.spotify.com/album/5JTDmoExrvACCEeP1me28m"
+      },
+      "artists": [
+        {
+          "name": "Noah Guy",
+          "url": "https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210989,
+      "name": "Got You",
+      "url": "https://open.spotify.com/track/6gBV04aaYCPgTYyzCWL4XO"
     },
     {
       "album": {
@@ -22476,7 +22494,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 121728,
       "name": "Nobody Nobody",
       "url": "https://open.spotify.com/track/7gyZG8D3U8kYFqvju6QFU1"
@@ -22690,7 +22708,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 186285,
       "name": "NOTHING IS REAL",
       "url": "https://open.spotify.com/track/24TSN5Uo9nyALzxWCJPuSe"
@@ -26099,6 +26117,24 @@
     },
     {
       "album": {
+        "name": "Catch n' Release",
+        "url": "https://open.spotify.com/album/7xyEdU4cfiwBoiNu6GvIEJ"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167287,
+      "name": "Red Wine Holiday",
+      "url": "https://open.spotify.com/track/7xRM7xmbUsTROH08OoxsEs"
+    },
+    {
+      "album": {
         "name": "Reflection Station",
         "url": "https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk"
       },
@@ -28182,6 +28218,24 @@
       "duration_ms": 162500,
       "name": "Signs",
       "url": "https://open.spotify.com/track/2OY1FPx3DtP1EejTyIMG1f"
+    },
+    {
+      "album": {
+        "name": "DO YOU SEE ME?",
+        "url": "https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173103,
+      "name": "silly boy",
+      "url": "https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P"
     },
     {
       "album": {
@@ -35028,6 +35082,28 @@
       "duration_ms": 205229,
       "name": "Why (Spare Me Tears)",
       "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
+    },
+    {
+      "album": {
+        "name": "from me to me",
+        "url": "https://open.spotify.com/album/0PbyLn7tTbHifvJFzi74rd"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9onie Barbot",
+          "url": "https://open.spotify.com/artist/3FtbcwEbxflXP8nItuw2rA"
+        },
+        {
+          "name": "ESTA.",
+          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137368,
+      "name": "why can't u n i b friends?",
+      "url": "https://open.spotify.com/track/6YA9DzD0YRCofMauyAgStz"
     },
     {
       "album": {

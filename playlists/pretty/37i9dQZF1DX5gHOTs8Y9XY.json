@@ -1,12 +1,12 @@
 {
   "description": "A beginners introduction to the beauty of Jazz. Cover: Chet Baker",
-  "num_followers": 21631,
+  "num_followers": 21702,
   "original_name": "Jazz for Beginners",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIZakSLMMxNjaDnX8rvcN5YREghE",
+  "snapshot_id": "AAAAAPDU8N5ryXDARz1pSUhhHB7Eom2D",
   "tracks": [
     {
       "added_at": "2024-07-17 12:31:26",
@@ -147,6 +147,22 @@
     {
       "added_at": "2024-07-17 12:31:26",
       "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/30QD4VRP9yEneOh0eGTrtJ"
+    },
+    {
+      "added_at": "2024-07-17 12:31:26",
+      "album": {
         "name": "John Coltrane And Johnny Hartman",
         "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 295240,
       "name": "My One And Only Love",
       "url": "https://open.spotify.com/track/0uPkCpuoERqrkBL06Art50"
-    },
-    {
-      "added_at": "2024-07-17 12:31:26",
-      "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 207600,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/30QD4VRP9yEneOh0eGTrtJ"
     },
     {
       "added_at": "2024-07-17 12:31:26",
@@ -235,6 +235,22 @@
     {
       "added_at": "2024-07-17 12:31:26",
       "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 207826,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D"
+    },
+    {
+      "added_at": "2024-07-17 12:31:26",
+      "album": {
         "name": "Kind Of Blue (Legacy Edition)",
         "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 562640,
       "name": "So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
       "url": "https://open.spotify.com/track/4vLYewWIvqHfKtJDk8c8tq"
-    },
-    {
-      "added_at": "2024-07-17 12:31:26",
-      "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 207826,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D"
     },
     {
       "added_at": "2024-07-17 12:31:26",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-07-17 12:31:26",
       "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 173533,
+      "name": "Nature Boy",
+      "url": "https://open.spotify.com/track/2WMyu5IYgxEuCd6xgFgJrl"
+    },
+    {
+      "added_at": "2024-07-17 12:31:26",
+      "album": {
         "name": "Let It All Out",
         "url": "https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 181440,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD"
-    },
-    {
-      "added_at": "2024-07-17 12:31:26",
-      "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 173533,
-      "name": "Nature Boy",
-      "url": "https://open.spotify.com/track/2WMyu5IYgxEuCd6xgFgJrl"
     },
     {
       "added_at": "2024-07-17 12:31:26",
@@ -579,8 +579,8 @@
     {
       "added_at": "2024-07-17 12:31:26",
       "album": {
-        "name": "September In The Rain",
-        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
+        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
+        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 129333,
-      "name": "September In The Rain",
-      "url": "https://open.spotify.com/track/2csA2nDUNR5TfQEn1I7nt4"
+      "duration_ms": 167493,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5"
     },
     {
       "added_at": "2024-07-17 12:31:26",
@@ -679,8 +679,8 @@
     {
       "added_at": "2024-07-17 12:31:26",
       "album": {
-        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
-        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
+        "name": "September In The Rain",
+        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 167493,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5"
+      "duration_ms": 129333,
+      "name": "September In The Rain",
+      "url": "https://open.spotify.com/track/2csA2nDUNR5TfQEn1I7nt4"
     },
     {
       "added_at": "2024-07-17 12:31:26",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-07-17 12:31:26",
       "album": {
-        "name": "B. G. In Hi Fi",
-        "url": "https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct"
-      },
-      "artists": [
-        {
-          "name": "Benny Goodman",
-          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
-        }
-      ],
-      "duration_ms": 195533,
-      "name": "Stompin At The Savoy",
-      "url": "https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g"
-    },
-    {
-      "added_at": "2024-07-17 12:31:26",
-      "album": {
         "name": "Kind Of Blue",
         "url": "https://open.spotify.com/album/1weenld61qoidwYuZ1GESA"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 588410,
       "name": "Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)",
       "url": "https://open.spotify.com/track/3NvYPUNu6nwQgN31UnoDbn"
+    },
+    {
+      "added_at": "2024-07-17 12:31:26",
+      "album": {
+        "name": "B. G. In Hi Fi",
+        "url": "https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct"
+      },
+      "artists": [
+        {
+          "name": "Benny Goodman",
+          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
+        }
+      ],
+      "duration_ms": 195533,
+      "name": "Stompin At The Savoy",
+      "url": "https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g"
     },
     {
       "added_at": "2024-07-17 12:31:26",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-07-17 12:31:26",
       "album": {
-        "name": "Sarah Vaughan",
-        "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 240866,
-      "name": "Lullaby Of Birdland",
-      "url": "https://open.spotify.com/track/5z161QQZMgQxSILnv3QoJk"
-    },
-    {
-      "added_at": "2024-07-17 12:31:26",
-      "album": {
         "name": "'Round About Midnight",
         "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 355333,
       "name": "'Round Midnight (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/5vb7At47uO0yPGfmYnAHuw"
+    },
+    {
+      "added_at": "2024-07-17 12:31:26",
+      "album": {
+        "name": "Sarah Vaughan",
+        "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Lullaby Of Birdland",
+      "url": "https://open.spotify.com/track/5z161QQZMgQxSILnv3QoJk"
     },
     {
       "added_at": "2024-07-17 12:31:26",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-07-17 12:31:26",
       "album": {
+        "name": "Jazz Profile: Cannonball Adderley",
+        "url": "https://open.spotify.com/album/5JpHin9lKOyizuJhKxaHWp"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 313200,
+      "name": "Mercy, Mercy, Mercy",
+      "url": "https://open.spotify.com/track/6NF8MZ2trxckVBr82pyyPt"
+    },
+    {
+      "added_at": "2024-07-17 12:31:26",
+      "album": {
         "name": "Sarah Vaughan",
         "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 291173,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/5m3XMzewNg9EADweC7j7Nn"
-    },
-    {
-      "added_at": "2024-07-17 12:31:26",
-      "album": {
-        "name": "Jazz Profile: Cannonball Adderley",
-        "url": "https://open.spotify.com/album/5JpHin9lKOyizuJhKxaHWp"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 313200,
-      "name": "Mercy, Mercy, Mercy",
-      "url": "https://open.spotify.com/track/6NF8MZ2trxckVBr82pyyPt"
     },
     {
       "added_at": "2024-07-17 12:31:26",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-07-17 12:31:26",
       "album": {
-        "name": "Page One",
-        "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
-      },
-      "artists": [
-        {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
-        }
-      ],
-      "duration_ms": 482440,
-      "name": "Blue Bossa - Remastered",
-      "url": "https://open.spotify.com/track/6qqK0oeBRapZn8f9hJJENw"
-    },
-    {
-      "added_at": "2024-07-17 12:31:26",
-      "album": {
         "name": "Soul Station",
         "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
       },
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2024-07-17 12:31:26",
       "album": {
+        "name": "Page One",
+        "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "duration_ms": 482440,
+      "name": "Blue Bossa - Remastered",
+      "url": "https://open.spotify.com/track/6qqK0oeBRapZn8f9hJJENw"
+    },
+    {
+      "added_at": "2024-07-17 12:31:26",
+      "album": {
         "name": "Great Ladies Of Song / Spotlight On Peggy Lee",
         "url": "https://open.spotify.com/album/0MX57ntrC0wpRZpTOXhWEF"
       },
@@ -1071,6 +1071,22 @@
       "duration_ms": 202506,
       "name": "Fever",
       "url": "https://open.spotify.com/track/6eCsRg7OBi1zT2CEKKyoXN"
+    },
+    {
+      "added_at": "2024-07-17 12:31:26",
+      "album": {
+        "name": "Greatest Performances Original Recordings",
+        "url": "https://open.spotify.com/album/0HnXnEBr9Whc6Go4Bw0km6"
+      },
+      "artists": [
+        {
+          "name": "Judy Garland",
+          "url": "https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf"
+        }
+      ],
+      "duration_ms": 167466,
+      "name": "Over The Rainbow",
+      "url": "https://open.spotify.com/track/3wAIcORchxdSkWv6v5AkaU"
     },
     {
       "added_at": "2024-07-17 12:31:26",
@@ -1119,22 +1135,6 @@
       "duration_ms": 406266,
       "name": "St. Thomas",
       "url": "https://open.spotify.com/track/0zQE77yszbyv61M4NboU2u"
-    },
-    {
-      "added_at": "2024-07-17 12:31:26",
-      "album": {
-        "name": "Greatest Performances Original Recordings",
-        "url": "https://open.spotify.com/album/0HnXnEBr9Whc6Go4Bw0km6"
-      },
-      "artists": [
-        {
-          "name": "Judy Garland",
-          "url": "https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf"
-        }
-      ],
-      "duration_ms": 167466,
-      "name": "Over The Rainbow",
-      "url": "https://open.spotify.com/track/3wAIcORchxdSkWv6v5AkaU"
     },
     {
       "added_at": "2024-07-17 12:31:26",

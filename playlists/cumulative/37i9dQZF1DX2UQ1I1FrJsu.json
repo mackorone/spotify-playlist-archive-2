@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "22 Durnham Dew",
+        "url": "https://open.spotify.com/album/3eZ0xeHq1CMzaxxQXQi5Nd"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199005,
+      "name": "22 Durnham Dew",
+      "url": "https://open.spotify.com/track/7FIdb3RznfvfDgGPY8b4ab"
+    },
+    {
+      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
       },
@@ -410,7 +428,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 358064,
       "name": "Be Honest",
       "url": "https://open.spotify.com/track/3NpJgGsYYpzhRdTmLnhJTk"
@@ -1379,6 +1397,24 @@
     },
     {
       "album": {
+        "name": "Evening",
+        "url": "https://open.spotify.com/album/6VGzzotsO8fOEUFujMORad"
+      },
+      "artists": [
+        {
+          "name": "Grey Oakes",
+          "url": "https://open.spotify.com/artist/2su9PLwnsCwRW2tCYSVaNg"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164738,
+      "name": "Evening",
+      "url": "https://open.spotify.com/track/5VZPJnHTXhk02E2wu5K4Ey"
+    },
+    {
+      "album": {
         "name": "Rising Son",
         "url": "https://open.spotify.com/album/7GDnn7XSLCIjZkBkw0SMZd"
       },
@@ -1416,6 +1452,24 @@
       "duration_ms": 258626,
       "name": "F*ck My Life Up Again",
       "url": "https://open.spotify.com/track/4L9VTwdne2g1k8aBsgT9Zv"
+    },
+    {
+      "album": {
+        "name": "Wish We Had More Time",
+        "url": "https://open.spotify.com/album/2bKwPlKPfe2bVs1hMHLF0W"
+      },
+      "artists": [
+        {
+          "name": "Osas",
+          "url": "https://open.spotify.com/artist/4psqSKodkpuB8kIbbVl5GQ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221333,
+      "name": "Feels Like Home (Away)",
+      "url": "https://open.spotify.com/track/3BvdzMZg3CqljSsv4vZaok"
     },
     {
       "album": {
@@ -2770,7 +2824,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 363791,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/3yDV0PzSV2okw1w9jno0me"
@@ -3880,7 +3934,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 304838,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/0ecKLqDfhBU9BIrSfo97w6"

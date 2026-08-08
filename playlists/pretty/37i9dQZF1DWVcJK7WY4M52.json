@@ -1,12 +1,12 @@
 {
   "description": "From the decade that brought us Britney, Spice Girls, Coolio and so many more!",
-  "num_followers": 583623,
+  "num_followers": 584182,
   "original_name": "90s Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ8lmA+Y0hGH4mC9wt9r4PuxxLBu",
+  "snapshot_id": "AAAAAE+DPWHisIbF2PX1ezprTT5QTrvE",
   "tracks": [
     {
       "added_at": "2024-07-12 19:27:29",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
-        "name": "Mack Daddy",
-        "url": "https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP"
-      },
-      "artists": [
-        {
-          "name": "Sir Mix-A-Lot",
-          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
-        }
-      ],
-      "duration_ms": 262826,
-      "name": "Baby Got Back",
-      "url": "https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl"
-    },
-    {
-      "added_at": "2024-07-12 19:27:29",
-      "album": {
         "name": "Love Always",
         "url": "https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 331240,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg"
+    },
+    {
+      "added_at": "2024-07-12 19:27:29",
+      "album": {
+        "name": "Mack Daddy",
+        "url": "https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP"
+      },
+      "artists": [
+        {
+          "name": "Sir Mix-A-Lot",
+          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
+        }
+      ],
+      "duration_ms": 262826,
+      "name": "Baby Got Back",
+      "url": "https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl"
     },
     {
       "added_at": "2024-07-12 19:27:29",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-07-12 19:27:29",
       "album": {
-        "name": "It's About Time",
-        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 291906,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/71EHOyEOhNx1SzTebRRyng"
-    },
-    {
-      "added_at": "2024-07-12 19:27:29",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 281066,
       "name": "One Sweet Day",
       "url": "https://open.spotify.com/track/7ySbfLwdCwl1EM0zNCJZ38"
+    },
+    {
+      "added_at": "2024-07-12 19:27:29",
+      "album": {
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 291906,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/71EHOyEOhNx1SzTebRRyng"
     },
     {
       "added_at": "2024-07-12 19:27:29",

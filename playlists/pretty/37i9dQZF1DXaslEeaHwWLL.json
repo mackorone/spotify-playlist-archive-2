@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2017. Cover: Daddy Yankee & Luis Fonsi",
-  "num_followers": 91346,
+  "num_followers": 91381,
   "original_name": "Latin Hits 2017",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADLKhK9zRp9TpKacsY3rmLnoql71",
+  "snapshot_id": "AAAAABjMvvwlEPbCA3vCtarDjuPE47pZ",
   "tracks": [
     {
       "added_at": "2024-07-13 01:15:47",
@@ -571,18 +571,22 @@
     {
       "added_at": "2024-07-13 01:15:47",
       "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         }
       ],
-      "duration_ms": 226800,
-      "name": "S\u00edguelo Bailando",
-      "url": "https://open.spotify.com/track/5Y9fnynLlIvqtM710MHzfz"
+      "duration_ms": 221026,
+      "name": "Si T\u00fa La Ves (feat. Wisin)",
+      "url": "https://open.spotify.com/track/4yN6xPLopmTLvc27pO9LIE"
     },
     {
       "added_at": "2024-07-13 01:15:47",
@@ -635,22 +639,18 @@
     {
       "added_at": "2024-07-13 01:15:47",
       "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
       },
       "artists": [
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 221026,
-      "name": "Si T\u00fa La Ves (feat. Wisin)",
-      "url": "https://open.spotify.com/track/4yN6xPLopmTLvc27pO9LIE"
+      "duration_ms": 226800,
+      "name": "S\u00edguelo Bailando",
+      "url": "https://open.spotify.com/track/5Y9fnynLlIvqtM710MHzfz"
     },
     {
       "added_at": "2024-07-13 01:15:47",

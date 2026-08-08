@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 
 > गाँव\-घर की शादियों का असली संगीत 'भोजपुरी विवाह गीत'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,565 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,564 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 30 | [Aaja Balam Leke Doli](https://open.spotify.com/track/6sUq0TupQApUTQySwfBWR2) | [Kalpana Patowary](https://open.spotify.com/artist/1RMmK2dEtVEbhSV7qvSXJ1) | [Mahua Tapke Chunariya Mein](https://open.spotify.com/album/2VWRUMn67nilfhkyIu02nQ) | 7:29 |
 | 31 | [Shubh Vivah](https://open.spotify.com/track/4P0iD4tryb0xaRJR9GKZDQ) | [Neelkamal Singh](https://open.spotify.com/artist/2pywmTkxO0H1CY8ZXSJTSC), [Amrita Dixit](https://open.spotify.com/artist/2u9ayLxzYVTazdBQmotAXH), [Antra Singh Priyanka](https://open.spotify.com/artist/1ddZZOn4qZRdqnmLuzPcKd) | [Shubh Vivah](https://open.spotify.com/album/42FFkrYRo42VtNFN1ClXEA) | 12:58 |
 | 32 | [Aaiye Swagat Barat Mein Sarkaar Raur \(From "Pyar Karela Himmat Chaahi"\)](https://open.spotify.com/track/2GeGEtoM8FlXTS5G1fuMU0) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Indu Sonali](https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho) | [Bhojpuri Vivah Geet](https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV) | 4:53 |
-| 33 | [Baliya Baraat Jaai \(From "Nirhua Rikshawala"\)](https://open.spotify.com/track/0BygvN78MZMLGIBwJBrZmD) | [Rajnish Mishra](https://open.spotify.com/artist/6CwN1T7GObQ3G0mZJzuLwO), [Rajesh Jha](https://open.spotify.com/artist/51rEFvnRaw5mZbcKg5T8zj) | [Bhojpuri Vivah Geet](https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV) | 4:31 |
-| 34 | [Banno Ke Hardi Lagaav Re \(From "Ho Gayini Diwana Tohra Pyar Mein"\)](https://open.spotify.com/track/3VpNZCtxUFbIPkkAQ38oo0) | [Deepa Narayan Jha](https://open.spotify.com/artist/6SzXWOTikoakLyVORKpugx), [Khushboo Jain](https://open.spotify.com/artist/2M8ZZEQdxPXHTee5xxkC3M), [Supriya Joshi](https://open.spotify.com/artist/5DoEZi8HmGHT8FcBP2zpsB) | [Bhojpuri Vivah Geet](https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV) | 4:38 |
+| 33 | [Banno Ke Hardi Lagaav Re \(From "Ho Gayini Diwana Tohra Pyar Mein"\)](https://open.spotify.com/track/3VpNZCtxUFbIPkkAQ38oo0) | [Deepa Narayan Jha](https://open.spotify.com/artist/6SzXWOTikoakLyVORKpugx), [Khushboo Jain](https://open.spotify.com/artist/2M8ZZEQdxPXHTee5xxkC3M), [Supriya Joshi](https://open.spotify.com/artist/5DoEZi8HmGHT8FcBP2zpsB) | [Bhojpuri Vivah Geet](https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV) | 4:38 |
+| 34 | [Baliya Baraat Jaai \(From "Nirhua Rikshawala"\)](https://open.spotify.com/track/0BygvN78MZMLGIBwJBrZmD) | [Rajnish Mishra](https://open.spotify.com/artist/6CwN1T7GObQ3G0mZJzuLwO), [Rajesh Jha](https://open.spotify.com/artist/51rEFvnRaw5mZbcKg5T8zj) | [Bhojpuri Vivah Geet](https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV) | 4:31 |
 | 35 | [BIYAH WALI GAARI 4](https://open.spotify.com/track/0JQoXV8FpAoEk3y76Ijtd5) | [Surabhi Kashyap](https://open.spotify.com/artist/225iy0vV4QNRhPFVhiMCDm), [Stuti Sinha](https://open.spotify.com/artist/3wEyqO1YSZgsVq8GZGbLjI), [Nikita Rai](https://open.spotify.com/artist/2QfXJZBwgrkWDaiQ9bI89k) | [BIYAH WALI GAARI 4](https://open.spotify.com/album/0T6JdIksx9g5fBmdfs6n0j) | 2:57 |
 | 36 | [Angna Ke Namwa Haswala Ho](https://open.spotify.com/track/5J7zaSnySIRsjE1msEFuSw) | [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1), [Ananyya Singhh](https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA) | [Angna Ke Namwa Haswala Ho](https://open.spotify.com/album/3GflOnKP9A3g4y0HRjU7jL) | 3:12 |
 | 37 | [CHALNI KE CHALAL DULHA](https://open.spotify.com/track/0iDQnB8DpnYxIYWqFf91bF) | [Soni Choudhary Jha](https://open.spotify.com/artist/2j2fBasWl9E4SRsvAWbT8d), [Nikhil Mahadev Jha](https://open.spotify.com/artist/6TJ7A6sHeJcOiZBltd9Bbo) | [CHALNI KE CHALAL DULHA](https://open.spotify.com/album/6RxeSlE552Lce1IyBU3ALw) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 49 | [Hare\-Hare Hare Dada](https://open.spotify.com/track/1atl5wZPYRVqYotOzmiWiL) | [Devi](https://open.spotify.com/artist/5w9vr3Fiv8Up0KCOz6fgAk) | [Mangal Geet](https://open.spotify.com/album/5LRXr1pKz4moRJ8bH6afmh) | 6:44 |
 | 50 | [Kothwa Upar Baba \(Wedding Song\)](https://open.spotify.com/track/11w8nTWqAWIZ33GvWyYklB) | [Khushi Kakkar](https://open.spotify.com/artist/0BJNNzQGYD82tPvp5ziJiu) | [Kothwa Upar Baba \(Wedding Song\)](https://open.spotify.com/album/7is37iX44ubPEy8hqwmEfq) | 2:20 |
 
-Snapshot ID: `AAAAAMNpuhdtC3+q3QRfCE3SG/xFNb4V`
+Snapshot ID: `AAAAAIMhNY7512z4C5NnP5ghbja3bGmA`

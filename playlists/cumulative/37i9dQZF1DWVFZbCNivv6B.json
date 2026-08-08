@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Cypress Hill en la tarima. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Dani Zepoll en la tarima. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -1597,6 +1597,28 @@
     },
     {
       "album": {
+        "name": "Andromeda",
+        "url": "https://open.spotify.com/album/5HbdBdN9DLLhzFor0lK7YR"
+      },
+      "artists": [
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        },
+        {
+          "name": "Bicho Alcaraz",
+          "url": "https://open.spotify.com/artist/49MiZFMAt1j5JNgxpYEaJe"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135652,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/7ivfeI1loBTruF2nDSu5UP"
+    },
+    {
+      "album": {
         "name": "Rich Vagos Mixtape, Vol. 2 (Deluxe)",
         "url": "https://open.spotify.com/album/6dGmu0l1TMcAZVC13XX1LN"
       },
@@ -2590,6 +2612,24 @@
       "duration_ms": 214869,
       "name": "Berserk",
       "url": "https://open.spotify.com/track/3aZU3naLSdJeDw5ggdgG2r"
+    },
+    {
+      "album": {
+        "name": "BICHY",
+        "url": "https://open.spotify.com/album/1Dm9Zs8qcqzyEp5kv86v3o"
+      },
+      "artists": [
+        {
+          "name": "Dani Zepoll",
+          "url": "https://open.spotify.com/artist/7qSndaaeBidtsEORMCQGkM"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "BICHY",
+      "url": "https://open.spotify.com/track/2mfoBp17aA9btfrZ6d17Jq"
     },
     {
       "album": {
@@ -4398,7 +4438,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 217674,
       "name": "CON ACTITUD",
       "url": "https://open.spotify.com/track/3kaSVdVUtfPrg9DE9D8eSi"
@@ -8899,6 +8939,32 @@
     },
     {
       "album": {
+        "name": "Habito",
+        "url": "https://open.spotify.com/album/78P5zEf8u7ccZTWR2cPmfl"
+      },
+      "artists": [
+        {
+          "name": "Capo",
+          "url": "https://open.spotify.com/artist/5gDp77vDBzGgId5KVS3ycs"
+        },
+        {
+          "name": "Dee",
+          "url": "https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk"
+        },
+        {
+          "name": "The Phronetic",
+          "url": "https://open.spotify.com/artist/5eT2QrOMAyULipOMCj3fav"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134550,
+      "name": "Habito",
+      "url": "https://open.spotify.com/track/0MIofyxRQOPbWndFnYe5c3"
+    },
+    {
+      "album": {
         "name": "HeadShot",
         "url": "https://open.spotify.com/album/2EQ6303SlciWxRLRWsd72v"
       },
@@ -11518,7 +11584,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 217600,
       "name": "Los Juanos",
       "url": "https://open.spotify.com/track/1bpZPzPHSqAVqMjWiM8ipw"
@@ -14331,6 +14397,32 @@
     },
     {
       "album": {
+        "name": "OHTANI",
+        "url": "https://open.spotify.com/album/7ExFxflggUbB3q9mDpuk7Y"
+      },
+      "artists": [
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        },
+        {
+          "name": "Baez Dembow",
+          "url": "https://open.spotify.com/artist/0PBOPCrg6Jj613xsVtZFKn"
+        },
+        {
+          "name": "Alonso Ramirez",
+          "url": "https://open.spotify.com/artist/5dODk3eFdVvLX4rN8JAC2o"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192989,
+      "name": "OHTANI",
+      "url": "https://open.spotify.com/track/2e7HPYIymKD7GWkQb0JHuK"
+    },
+    {
+      "album": {
         "name": "Ojos Rojos",
         "url": "https://open.spotify.com/album/2pFjYdQXmaFAG5LznUpgkI"
       },
@@ -15492,7 +15584,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 224415,
       "name": "Por Mi",
       "url": "https://open.spotify.com/track/0cZd0PADmxvwy54HBogrB1"
@@ -16988,7 +17080,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 206509,
       "name": "Rosas y Espinas",
       "url": "https://open.spotify.com/track/43LePI1GAUgTnbYeCyumui"

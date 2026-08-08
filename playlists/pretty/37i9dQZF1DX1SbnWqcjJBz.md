@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 
 > this should have been her espresso<br/><br/>See also: <a href="spotify:playlist:37i9dQZF1DX7YE2tQ4q86h">OBSESSED</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,027 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,053 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 54 | [Break the Rules](https://open.spotify.com/track/38tKqQuqodiUYOsw6HWyeQ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Break the Rules](https://open.spotify.com/album/6xgUHOu8WA2mEtJqYDQrjs) | 3:23 |
 | 55 | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5) | 4:11 |
 | 56 | [Holler](https://open.spotify.com/track/1NwDWbpg9dPH12xBd2ibrv) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Forever](https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh) | 4:15 |
-| 57 | [Move in the Right Direction](https://open.spotify.com/track/4hjfOnzzrrrDAGt286htU6) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [A Joyful Noise](https://open.spotify.com/album/6AKGyIfiwcptAUUzLDB0Gd) | 3:31 |
-| 58 | [I Know A Place](https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:32 |
+| 57 | [I Know A Place](https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:32 |
+| 58 | [Move in the Right Direction](https://open.spotify.com/track/4hjfOnzzrrrDAGt286htU6) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [A Joyful Noise](https://open.spotify.com/album/6AKGyIfiwcptAUUzLDB0Gd) | 3:31 |
 | 59 | [Lowlife](https://open.spotify.com/track/5efvxYn0J1q8iuIZBqpDD7) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Bubblebath](https://open.spotify.com/album/1LXJcgThDI0rAJRBkRk07s) | 3:25 |
 | 60 | [Nothing in This World](https://open.spotify.com/track/4XRGwyAARL21fesc6BvliF) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Paris \(U.S\. Standard Version\)](https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs) | 3:09 |
 | 61 | [I’m Ready \(with Demi Lovato\)](https://open.spotify.com/track/1fipvP2zmef6vN2IwXfJhY) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [I’m Ready \(with Demi Lovato\)](https://open.spotify.com/album/44msshHeN6irJ1md7GVSlU) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 99 | [Tony the Beat](https://open.spotify.com/track/6QxQz4h8vdcVb9NZq2x8RO) | [The Sounds](https://open.spotify.com/artist/0W2XAE5AnBWqcGNhfupEOU) | [Dying to Say This to You \(Premium Download Version\)](https://open.spotify.com/album/2wMzDXOaSQnRJQ3PcuTSGG) | 3:12 |
 | 100 | [Somebody To Love](https://open.spotify.com/track/1fPp89nbZQiRar1f3a8lPe) | [Leighton Meester](https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn), [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Somebody To Love](https://open.spotify.com/album/1eb3ioGBDBkLiIWPFYzMK9) | 3:32 |
 
-Snapshot ID: `AAAAAFVSplbSUSlXxCcx7o9FK9jId9Ay`
+Snapshot ID: `AAAAAOttAJQZXeKw7GS3JU16YXcxyXQj`

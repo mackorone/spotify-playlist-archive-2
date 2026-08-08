@@ -4,7 +4,7 @@
 
 > New and local indie noise\. Cover: Le Shiv
 
-1,059 songs - 2 day 11 hr 22 min
+1,059 songs - 2 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -861,6 +861,7 @@
 | [Spiders](https://open.spotify.com/track/4MMzfqnOGo4DzG3HQtGfBy) | [Trophy Wyfe](https://open.spotify.com/artist/6wIZ4daFx49ebqoHMkYlfm) | [Spiders](https://open.spotify.com/album/3FLxl7898LKcbZlnpQIsLz) | 4:16 | 2026-06-25 |  |
 | [Springboard](https://open.spotify.com/track/2gpZ0p7s4m5ECDrEwGQKH4) | [Will Baker](https://open.spotify.com/artist/3TbzuYnLfzpxBRp8WRuFdY) | [Springboard](https://open.spotify.com/album/4ZKYwVRHxEsUVYpZsRJZQ7) | 3:55 | 2025-05-29 | 2025-08-22 |
 | [Squeeze Down](https://open.spotify.com/track/2PduPaP3h1NEvZoI0LcIHP) | [Mini Skirt](https://open.spotify.com/artist/5wKtvUJOtdIcDgIc68WpOv) | [Squeeze Down](https://open.spotify.com/album/31tSVDf3il4MdNbNT3hDws) | 3:03 | 2025-10-16 | 2026-02-06 |
+| [Stairways](https://open.spotify.com/track/4RfRFx4cbOk1CdaQKyeEJn) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Wabi Sabi](https://open.spotify.com/album/2NpZ3Px3zT9ifmVbeREscf) | 3:09 | 2026-08-06 |  |
 | [STAMPEDE](https://open.spotify.com/track/6gxGg4j7i3Ba7F2x0yi8br) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STAMPEDE](https://open.spotify.com/album/7A2scjvl1X6PS9TBZ6BzFj) | 3:09 | 2026-02-19 | 2026-05-08 |
 | [Star Child](https://open.spotify.com/track/1WxWi7a1JfrLnJPxhYHgbp) | [The Smith Street Band](https://open.spotify.com/artist/6DW1Yqi5B34jRtn9hPLvFp) | [Star Child](https://open.spotify.com/album/2FHZFt9MXy4rtuBbmiwotd) | 3:06 | 2025-08-07 | 2025-09-19 |
 | [Starting Again](https://open.spotify.com/track/73CMheW41mjLXnloRZFvg3) | [The Cheaks](https://open.spotify.com/artist/2Tj3pxV14jBuAAieDPfVtc) | [Starting Again](https://open.spotify.com/album/5yCin0F62IJ132GdzTcCpC) | 3:45 | 2024-09-26 | 2024-11-08 |
@@ -978,7 +979,6 @@
 | [Torn to Shreds](https://open.spotify.com/track/12sDyBT4yMSYmfDvB77k8l) | [Mac The Knife](https://open.spotify.com/artist/3EH6Un3g3K7KwvfOVygIMb) | [Torn to Shreds](https://open.spotify.com/album/7hUuaCaHXmmZuoPui5WLmN) | 3:38 | 2025-05-01 | 2025-06-27 |
 | [Tough Love](https://open.spotify.com/track/69ySxELQeIw557VWfbAwq9) | [Bugs](https://open.spotify.com/artist/6kjbCSFaHOo2deId1wSaeL) | [Tough Love](https://open.spotify.com/album/3cGv3kPBB8ye4hKAra1MSL) | 3:25 | 2026-07-30 |  |
 | [Toyota Camry](https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Toyota Camry](https://open.spotify.com/album/1iabNMrVo9EZjQdWvJkwHB) | 3:10 | 2025-08-07 | 2025-10-17 |
-| [Track 5](https://open.spotify.com/track/4RfRFx4cbOk1CdaQKyeEJn) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Wabi Sabi](https://open.spotify.com/album/2NpZ3Px3zT9ifmVbeREscf) | 0:00 | 2026-08-06 |  |
 | [Train Of Thought](https://open.spotify.com/track/6GaPDdfzlU3xgOvqkXGs4H) | [Camino Gold](https://open.spotify.com/artist/4VbbF8VGwTH0Erx5PYg3Hi) | [Train Of Thought](https://open.spotify.com/album/0N4ORxBPHET947R4bRXa00) | 3:29 | 2024-07-25 | 2024-09-20 |
 | [Trapezoid](https://open.spotify.com/track/58no1ulZZDdRcXm2oPTVM3) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [Trapezoid](https://open.spotify.com/album/1ZXxB14E1TYIESUR6Dvxsb) | 2:30 | 2026-07-30 |  |
 | [Tricky](https://open.spotify.com/track/2647HRwRxWV8GXDCVYeYyr) | [Floodlights](https://open.spotify.com/artist/5gQvIK95LKrgtgkBPlH3XI) | [Tricky](https://open.spotify.com/album/3N7n0230jkmS4A9OZF9qIX) | 3:22 | 2025-10-16 | 2026-01-23 |

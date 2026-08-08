@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: Jonny Mahoro
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,060 likes - 90 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 646,003 likes - 90 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 89 | [glücklich](https://open.spotify.com/track/1H5F1aqOOboClv43xKY8Sz) | [IL CIVETTO](https://open.spotify.com/artist/337iYuRKw6oyOfxsxRuR0o), [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [glücklich](https://open.spotify.com/album/1JKmzuHjUnuLPrH0G7Br5g) | 3:00 |
 | 90 | [zähl die tage](https://open.spotify.com/track/5ffzHtIJ8RmWHzPjViNW9d) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [es ist okay, dass du fühlst](https://open.spotify.com/album/78Ck6zxHmG4I07KDPj1LTn) | 2:58 |
 
-Snapshot ID: `AAAAAPBqQQEY6CzTw97l5T37Vo05rXl9`
+Snapshot ID: `AAAAAKag41rAaiGAJIJeFNNxkCyyfBbH`

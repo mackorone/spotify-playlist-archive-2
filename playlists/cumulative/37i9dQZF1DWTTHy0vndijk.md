@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: fromis\_9 \(프로미스나인\)\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: Red Velvet\) \(상큼하고 발랄, 청순한 아이돌의 세계에 빠져보세요!\)
 
-557 songs - 1 day 6 hr 15 min
+559 songs - 1 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [AURORA](https://open.spotify.com/track/41GURJxjE5urzLnrw2O2sI) | [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ) | [cignature 3rd EP Album ‘My Little Aurora’](https://open.spotify.com/album/0Bhl5VhnxFho8slGxiBgZK) | 3:26 | 2023-01-17 | 2023-02-15 |
 | [Aya](https://open.spotify.com/track/6ExdEzXXhZpoNMl5p1BD7z) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz 2nd Album Repackage \(Now, We\)](https://open.spotify.com/album/78NxvXVrMKH7s3CZqSQOcK) | 3:34 | 2022-02-14 | 2022-04-19 |
 | [B.B.B.Boo](https://open.spotify.com/track/7AoZUPWvjhcI5Gzke4eF0U) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [HAPPY MOMENT](https://open.spotify.com/album/4nnyYQGOKRU090FK7sfunL) | 3:35 | 2022-04-04 | 2022-04-18 |
-| [BAAM](https://open.spotify.com/track/4Is1b37KJY9XVCgzp81FBW) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Fun to The World](https://open.spotify.com/album/75dkh8s39e7txjNe9cODH3) | 3:28 | 2022-03-29 |  |
+| [BAAM](https://open.spotify.com/track/4Is1b37KJY9XVCgzp81FBW) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Fun to The World](https://open.spotify.com/album/75dkh8s39e7txjNe9cODH3) | 3:28 | 2022-03-29 | 2026-08-08 |
 | [Baby Baby](https://open.spotify.com/track/69VFSkc7Eca09fnUxSL5nw) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [BABYBABY](https://open.spotify.com/album/1xbVi5T6nMgrfmjHhjjVIu) | 3:11 | 2021-11-29 | 2022-06-13 |
 | [Baby Flower](https://open.spotify.com/track/1ET5lou3teBMA3a5cYeYzN) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<LOVE&POP> pt.1](https://open.spotify.com/album/35aVpvg3oTNbG8N3cL7B1Z) | 3:08 | 2026-06-02 |  |
 | [Babyface](https://open.spotify.com/track/5UMIyID7WDBkOpGizVulol) | [ODD YOUTH](https://open.spotify.com/artist/6SG8IvJiwNEHdiubaCUFTi) | [ODD YOUTH 2nd Single \[Babyface\]](https://open.spotify.com/album/37l9884n6H8JzEokUFQOsz) | 2:48 | 2026-03-16 | 2026-07-22 |
@@ -345,6 +345,7 @@
 | [OOH\-AHH하게 Like OOH\-AHH](https://open.spotify.com/track/41r0BLWVIdo7CaKowcUDgM) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THE STORY BEGINS](https://open.spotify.com/album/3uLLMZwXdtGAD3BAB12jUM) | 3:35 | 2021-11-29 | 2022-07-29 |
 | [Oops, My Bad](https://open.spotify.com/track/5sTNd7d05oLLJatfB4CP4N) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Oops, My Bad \(From "Operation: True Love"\)](https://open.spotify.com/album/6H37HHyq1ytiLGWgIisBSZ) | 2:26 | 2025-12-03 | 2026-01-24 |
 | [OOPSY](https://open.spotify.com/track/7wujrLH728xxtvLRejTdV8) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [Weki Meki 3rd Mini Album \[HIDE and SEEK\]](https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3) | 3:14 | 2022-01-04 | 2022-07-28 |
+| [Orchestra](https://open.spotify.com/track/5otUuJ8uKaFWPdqEfzZNhl) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Velvet Summer \- Summer Mini Album](https://open.spotify.com/album/0AzIvsw9Pq9De3vYFA01Rr) | 2:57 | 2026-08-07 |  |
 | [Panorama](https://open.spotify.com/track/0CnpSTdL9l5vQM4YnzXtyo) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [One\-reeler / Act IV](https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK) | 3:42 | 2021-11-29 |  |
 | [Paradise](https://open.spotify.com/track/4IT5FuLhPEFlGfaApivmZi) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/0fWGwOtbOLZfG6ZIBQRpAv) | 3:28 | 2021-11-29 | 2022-07-23 |
 | [Party O'Clock](https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [A Midsummer NMIXX’s Dream](https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke) | 3:03 | 2023-07-11 | 2024-04-19 |
@@ -423,7 +424,7 @@
 | [Sky Walking](https://open.spotify.com/track/537GKqf0UdlbI2aYOglmct) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Sky Walking](https://open.spotify.com/album/4fVtHcVAgLbRV3YphyyZBz) | 4:12 | 2025-09-03 | 2025-11-11 |
 | [Smart](https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:46 | 2024-04-04 |  |
 | [SMARTPHONE](https://open.spotify.com/track/3660VWl7PCUsXhZlakn0KY) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [SMARTPHONE](https://open.spotify.com/album/0lbUf1aVf8xmveSuspuNW0) | 3:18 | 2022-08-03 | 2023-08-15 |
-| [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-01-17 |  |
+| [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 | 2022-01-17 | 2026-08-08 |
 | [Smooth Sailing](https://open.spotify.com/track/0eBKVjyBWAEpxZn6q5QdS0) | [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ) | [4th EP Album 'Us in the Summer'](https://open.spotify.com/album/3VQXrqt21tT3CEetwBqWLb) | 3:36 | 2023-08-30 | 2023-10-12 |
 | [SNAPSHOT](https://open.spotify.com/track/4KLaauSZqxvJdakttvM0zQ) | [Jessica](https://open.spotify.com/artist/7jPVuaaHLs4QVSuN561jZt) | [Jessica & Krystal \- US Road Trip \(Original Soundtrack, Pt\. 2\)](https://open.spotify.com/album/5dlu2im51A1k7XbiuR8Xki) | 3:10 | 2021-11-29 | 2022-07-20 |
 | [Sooo LUCKY](https://open.spotify.com/track/1wA1P29wRxxk9UxhgxxCsm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:22 | 2021-11-29 | 2022-07-27 |
@@ -459,6 +460,7 @@
 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 | 2024-06-21 |  |
 | [Supersonic](https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Supersonic](https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi) | 2:54 | 2024-08-12 |  |
 | [SUPERWOMAN](https://open.spotify.com/track/4NZZdFybgGq1Xwx4wq2BdB) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [The 1st Mini Album 'WE UNIS'](https://open.spotify.com/album/3pix2U5QbFUSwOeF1M9Eim) | 3:08 | 2024-03-28 | 2025-01-10 |
+| [Surfin' Boy](https://open.spotify.com/track/3caqaSvtldUKLY5Fd5msk2) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Velvet Summer \- Summer Mini Album](https://open.spotify.com/album/0AzIvsw9Pq9De3vYFA01Rr) | 2:48 | 2026-08-07 |  |
 | [Sweet & Sour](https://open.spotify.com/track/2XtHZDeNTUvOEsnHAI8HGo) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [Absolute Value of Romance OST Part 2](https://open.spotify.com/album/6wOkUWVosU5aIi7NZqfU08) | 3:24 | 2026-05-04 | 2026-05-13 |
 | [Sweet Dream](https://open.spotify.com/track/0DNTNFa6zMDfjqpQFdcb3q) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Sugar Man2, Pt\. 18](https://open.spotify.com/album/3PnkmcRY6t79MKlpEy0tQ2) | 3:41 | 2021-11-29 | 2022-07-24 |
 | [Sweet Heart](https://open.spotify.com/track/7epNwgPw8FrM1zZBWLOplG) | [OH MY GIRL BANHANA](https://open.spotify.com/artist/0X1f2U9bxiC3DhKA8OcvgG) | [Clean With Passion For Now, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/5TEhGv56KAw3ad8mhHcrAF) | 3:41 | 2022-01-04 | 2022-07-20 |

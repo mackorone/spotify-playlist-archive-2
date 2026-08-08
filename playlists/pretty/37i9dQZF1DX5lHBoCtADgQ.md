@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Surinder Kaur
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,407 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,426 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 21 | [Wanga Satrangiyan](https://open.spotify.com/track/5cYxayct1FIWABUGxZTrrW) | [Harbhajan Mann](https://open.spotify.com/artist/6NhiWVGtq25QmacOUbTXKf), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Wanga Satrangiyan](https://open.spotify.com/album/4Q9YmHhaGHPhyaSuNipCzI) | 3:26 |
 | 22 | [Heere Heere](https://open.spotify.com/track/2stPaiSWbATmVxci9KFxzq) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx) | [Heere Heere](https://open.spotify.com/album/3XVXeXlPM2nTGIcdo7YFz2) | 3:21 |
 | 23 | [Kale Rang Da Paranda \- Folk Recreation](https://open.spotify.com/track/039Oq1RHJnoD0kwq91qjha) | [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Kale Rang Da Paranda \(Folk Recreation\)](https://open.spotify.com/album/5YkV1sIY7bgXJGLhiXtTUb) | 3:22 |
-| 24 | [Challa Mera Jee Dhola](https://open.spotify.com/track/5eFYClAF0m6zOjH9JeCByt) | [Annie Ahluwalia](https://open.spotify.com/artist/05K8h7cidaFrQ33vhu6IZ0) | [Challa Mera Jee Dhola](https://open.spotify.com/album/684ZR78vU7xTzpX8Rpad8j) | 3:38 |
-| 25 | [Jaggo](https://open.spotify.com/track/3dDMUe2iYu4ZbXCfrnTSIW) | [Manpreet Akhtar](https://open.spotify.com/artist/1CwUuNEwAVFy1v7499k1b6), [Simerjit Kumar](https://open.spotify.com/artist/2EsBXiOTeqKfrr4Le5f1tH), [Rani Randip](https://open.spotify.com/artist/28uWZQnbjKMIuB7lb68sx6) | [Haani](https://open.spotify.com/album/08EO8tk0m8op720sdfinOQ) | 8:48 |
-| 26 | [Jaago Aaiya](https://open.spotify.com/track/1hZxlzNO0gl0rl300qF7ta) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Monewala](https://open.spotify.com/artist/5gwaAQzgAG2J6tg85lWEEe) | [Jaago Aaiya](https://open.spotify.com/album/16frN5B43EYTDx3qby507S) | 4:13 |
-| 27 | [Suhe Ve Cheere Waliya Chill Flip](https://open.spotify.com/track/5Sx2TlFNMbIyzyFmIX7LJU) | [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW), [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Prakash Kaur](https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh) | [Suhe Ve Cheere Waliya Chill Flip](https://open.spotify.com/album/5l0fLlwvB0trfAhLW9oJPY) | 2:27 |
+| 24 | [Jaggo](https://open.spotify.com/track/3dDMUe2iYu4ZbXCfrnTSIW) | [Manpreet Akhtar](https://open.spotify.com/artist/1CwUuNEwAVFy1v7499k1b6), [Simerjit Kumar](https://open.spotify.com/artist/2EsBXiOTeqKfrr4Le5f1tH), [Rani Randip](https://open.spotify.com/artist/28uWZQnbjKMIuB7lb68sx6) | [Haani](https://open.spotify.com/album/08EO8tk0m8op720sdfinOQ) | 8:48 |
+| 25 | [Challa Mera Jee Dhola](https://open.spotify.com/track/5eFYClAF0m6zOjH9JeCByt) | [Annie Ahluwalia](https://open.spotify.com/artist/05K8h7cidaFrQ33vhu6IZ0) | [Challa Mera Jee Dhola](https://open.spotify.com/album/684ZR78vU7xTzpX8Rpad8j) | 3:38 |
+| 26 | [Suhe Ve Cheere Waliya Chill Flip](https://open.spotify.com/track/5Sx2TlFNMbIyzyFmIX7LJU) | [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW), [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Prakash Kaur](https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh) | [Suhe Ve Cheere Waliya Chill Flip](https://open.spotify.com/album/5l0fLlwvB0trfAhLW9oJPY) | 2:27 |
+| 27 | [Jaago Aaiya](https://open.spotify.com/track/1hZxlzNO0gl0rl300qF7ta) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Monewala](https://open.spotify.com/artist/5gwaAQzgAG2J6tg85lWEEe) | [Jaago Aaiya](https://open.spotify.com/album/16frN5B43EYTDx3qby507S) | 4:13 |
 | 28 | [Latthe Di Chadar \- Mahiya](https://open.spotify.com/track/4hvesFus234aJFjiExrWmY) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Punjabi Lok Rang](https://open.spotify.com/album/23QaJYPtM3mYvxyGPYXEBG) | 3:02 |
 | 29 | [Suhe Ve Cheere Waliya](https://open.spotify.com/track/6ewedOp4bawjafS1lsIPam) | [NAVNEET KAUR](https://open.spotify.com/artist/0pVcOoM3HxoF8dWLo2RXc5) | [Suhe Ve Cheere Waliya](https://open.spotify.com/album/3P5YAxuCPE1WRZ8oXiM0Ln) | 3:13 |
 | 30 | [Din Shagna](https://open.spotify.com/track/3iw0rSfoKgCoNfaLP6DkFX) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Din Shagna](https://open.spotify.com/album/3YbTvThi4MjObPbXaRwFgm) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 49 | [Challa X Chan Kithan Guzari](https://open.spotify.com/track/2hWNpP7C7mvLTloxpQM9Dw) | [Waqar Khan](https://open.spotify.com/artist/1SNuHi2OFtW7XggF1NbeV9), [Kabul Bukhari](https://open.spotify.com/artist/14KvoiphLvP8UmalvMqT49) | [Challa X Chan Kithan Guzari](https://open.spotify.com/album/34bbYQoSZGbmrSSebFPXxy) | 5:20 |
 | 50 | [Kala Shah Kala \- Original](https://open.spotify.com/track/3pBEKZBDGtiwvLURVaAbeO) | [Jasbir Kaur](https://open.spotify.com/artist/2aqqAXlGOXV2WdUxbl4uju) | [Virsa Volume 2](https://open.spotify.com/album/6KP8Y0FU1zfhz5cPMuGjIj) | 2:55 |
 
-Snapshot ID: `AAAAAFZAu3JF0/DV4SPmYxlSzJHi6aGW`
+Snapshot ID: `AAAAAJN2BkUhZANUIs9n9Msi0wsYQV6Z`

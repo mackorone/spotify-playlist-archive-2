@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3?si=jG5MXQYQSyW7WpBXiv\_qew>Omega Khunou</a>"
 
-479 songs - 2 day 2 hr 56 min
+479 songs - 2 day 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Ngiphe Baba Izindlebe](https://open.spotify.com/track/7BEN78AfaIw5d7BXPanX9s) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Ngiphe Baba Izindlebe](https://open.spotify.com/album/6GstVqXZsRARDQqwYgftj2) | 7:24 | 2023-08-25 | 2024-02-02 |
 | [Ngisize ngisize Nkosi Yami](https://open.spotify.com/track/1EtlmAlMg6V3Cb4gklkovA) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Ngisize ngisize Nkosi Yami](https://open.spotify.com/album/061BwSXuzM3j9KU96O24tO) | 7:54 | 2023-09-01 | 2023-09-15 |
 | [Ngithol’ uMhlobo \(Live\)](https://open.spotify.com/track/2Uzyf7cUYKJdkYaDGYvmgn) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [Spirit Of Praise, Vol\. 9 \(Live\)](https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv) | 8:33 | 2023-09-15 | 2024-02-02 |
+| [Ngiyabonga](https://open.spotify.com/track/7z1CeYr4VpiyJ9r5HXtcSe) | [Sipho Makhabane](https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2) | [Ngiyabonga](https://open.spotify.com/album/7lgHRNpZbmmYHL6qnM0Kw3) | 4:38 | 2026-08-07 |  |
 | [Ngiyabonga](https://open.spotify.com/track/6j43az6IM4hsG1E3TBfsqw) | [Yvonne May](https://open.spotify.com/artist/6FnWz9MXHE2aZifYc5G0lQ) | [Ngiyabonga](https://open.spotify.com/album/7CYoNDGaHw0sN1xWVpifbO) | 3:37 | 2025-06-13 | 2025-07-18 |
 | [Ngiyamazi Umhlengi Wami \- Live At Cedarwoods of Sandton, 2023](https://open.spotify.com/track/2kUmCaHL6wXqq9CgTpqCBG) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Ngiyamazi Umhlengi Wam \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/3746LVUDdq2j4dzJAyZVbG) | 3:59 | 2024-02-23 |  |
 | [Ngiyazi uMhlengi Wami \(Deluxe\) \- Live](https://open.spotify.com/track/7kZjl6ZYdTgZ8rJ0a7a1RM) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Ngiyazi uMhlengi Wami \(Deluxe\) \[Live\]](https://open.spotify.com/album/58a7JZmLzeiZIppnzF2ziJ) | 9:21 | 2023-12-08 | 2024-08-16 |
@@ -361,7 +362,6 @@
 | [THULA WAZI \(NGIKHONA\)](https://open.spotify.com/track/3GyMUxLbwqjIJqvLIZeTgq) | [Dan Shaw](https://open.spotify.com/artist/06OQzkbFY8XHvXYcrcLFkV) | [THULA WAZI \(NGIKHONA\)](https://open.spotify.com/album/5c4L1xAb2FZE2xVQQOS0tv) | 3:55 | 2024-04-19 | 2024-08-23 |
 | [Thulungakhali](https://open.spotify.com/track/0bPE6VOWoQ69OpmCtPek8M) | [Ikhona](https://open.spotify.com/artist/56tDpXsWbtHowCzQxqurvW), [Betusile](https://open.spotify.com/artist/6xJ0Ui6xanSrQyadnCOpFU) | [Thulungakhali](https://open.spotify.com/album/4ttNmn9gKQm0m7jjadtyLE) | 5:46 | 2020-12-10 |  |
 | [To The Deep](https://open.spotify.com/track/5r9q9MzeexXef7visJl9LL) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [To The Deep](https://open.spotify.com/album/7J71uUsQrCrUY2rPo28z33) | 5:49 | 2025-09-19 | 2025-11-21 |
-| [Track 1](https://open.spotify.com/track/7z1CeYr4VpiyJ9r5HXtcSe) | [Sipho Makhabane](https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2) | [Ngiyabonga](https://open.spotify.com/album/7lgHRNpZbmmYHL6qnM0Kw3) | 0:00 | 2026-08-07 |  |
 | [Tshanda Tshau Yehova \- Live](https://open.spotify.com/track/4G7dubWC6XmwMrnLVt7WRT) | [ROFHIWA MANYAGA](https://open.spotify.com/artist/6hYQnls4RShBxrh47cd6i5) | [IssaYearEndFunction](https://open.spotify.com/album/4rMh1SylOQvME1lYNsQwQP) | 4:31 | 2025-04-18 | 2025-05-30 |
 | [Tshepo Ya Lefatshe](https://open.spotify.com/track/0r9SsIPTibFOQ6r6tPfcte) | [Lebo Elle Tisane](https://open.spotify.com/artist/5OjmAYpmIb99cv5HC7Rwkt) | [In Season](https://open.spotify.com/album/1yax3wDYJRlKUgOZhDGJZZ) | 5:07 | 2025-10-10 | 2025-10-31 |
 | [Ubonakalise \- Live at State Theatre Pretoria](https://open.spotify.com/track/49YNFxhVD9AcUSQbXSAPC6) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe) | [Heart Of Worship Vol\. 2](https://open.spotify.com/album/78bKt7eOSzSbXlotysuYEw) | 9:43 | 2026-03-06 | 2026-05-15 |

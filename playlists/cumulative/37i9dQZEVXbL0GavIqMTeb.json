@@ -2513,6 +2513,32 @@
     },
     {
       "album": {
+        "name": "ANTE LOS 20",
+        "url": "https://open.spotify.com/album/6SeRzhmhpvWliemVB1hCrx"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Drakomafia",
+          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
+        },
+        {
+          "name": "Piero 47",
+          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "ANTE LOS 20",
+      "url": "https://open.spotify.com/track/5NPPbZVu9jBopufHq7NaHL"
+    },
+    {
+      "album": {
         "name": "Antes de Perderte",
         "url": "https://open.spotify.com/album/1l6jE76o3QeZOXPt6G5Je7"
       },
@@ -6150,7 +6176,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-02",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Comando Estelar",
       "url": "https://open.spotify.com/track/4j5ZSTHkXQbV0c8EassD0N"
@@ -10264,7 +10290,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/5qE8PzKYJhbl0gnLwJSASu"
@@ -10308,7 +10334,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 239293,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp"
@@ -12762,7 +12788,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 181277,
       "name": "Fuga",
       "url": "https://open.spotify.com/track/1nsSptqJG7xzP6vDgeoJ41"
@@ -19291,6 +19317,24 @@
     },
     {
       "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144286,
+      "name": "MATADORA",
+      "url": "https://open.spotify.com/track/04d5HlcQX6zH5MMqffXOon"
+    },
+    {
+      "album": {
         "name": "MATADORA",
         "url": "https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW"
       },
@@ -19302,7 +19346,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 144650,
       "name": "MATADORA",
       "url": "https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx"
@@ -22850,7 +22894,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 181649,
       "name": "NORMAL",
       "url": "https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5"

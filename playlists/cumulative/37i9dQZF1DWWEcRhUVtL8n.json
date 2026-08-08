@@ -9177,6 +9177,24 @@
     },
     {
       "album": {
+        "name": "Crush On You",
+        "url": "https://open.spotify.com/album/3GHaB9uuOC97efCTFZnEhP"
+      },
+      "artists": [
+        {
+          "name": "cikho",
+          "url": "https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Crush On You",
+      "url": "https://open.spotify.com/track/1DbYXCbGZe3xR8N1nVdhgH"
+    },
+    {
+      "album": {
         "name": "Crutch",
         "url": "https://open.spotify.com/album/1jWZ7cC58wnlEfuknDCwoq"
       },
@@ -29236,7 +29254,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 199333,
       "name": "Nothing's Accidental",
       "url": "https://open.spotify.com/track/3kY3wfC4Z6hzYxLS3mb0EH"

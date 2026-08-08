@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-159 songs - 7 hr 59 min
+160 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Quiere Llorar Y No Puede](https://open.spotify.com/track/0EeuFATWTnLaF2OOXrTaSI) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Evolución](https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be) | 2:43 | 2025-06-14 |  |
 | [Qué Caray](https://open.spotify.com/track/4jhxOkCsnIkJJd7KhYWzA7) | [César Navarro](https://open.spotify.com/artist/072Txba915k6CIHd6hoC5G) | [El Malo Del Cuento](https://open.spotify.com/album/3pexMzHFquZjuNaXVzPD0g) | 2:59 | 2025-03-09 |  |
 | [Qué Caray](https://open.spotify.com/track/1j6Lcd5PAnofiBTRFpOaoF) | [César Navarro](https://open.spotify.com/artist/072Txba915k6CIHd6hoC5G) | [Qué Caray](https://open.spotify.com/album/610F8o3nDMsr5X1PRyxU9Y) | 2:59 | 2024-03-12 | 2025-03-10 |
+| [SAFO](https://open.spotify.com/track/4jgooOoVjQkuB2WAj232SL) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Medio Borracho](https://open.spotify.com/album/3uI0TKhL3Yq5YRvCR1UCyc) | 2:44 | 2026-08-07 |  |
 | [Salud Por Eso](https://open.spotify.com/track/4MMmoLigDQsZ8EEd4ulzO8) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2), [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 2:59 | 2024-03-17 |  |
 | [Salud Por Eso](https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2), [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Salud Por Eso](https://open.spotify.com/album/5rhp0Kg67gEvo7qsq3saFR) | 2:59 | 2022-09-16 | 2024-03-18 |
 | [Se Acabo \(En Vivo\)](https://open.spotify.com/track/24vt4anpML9sAVe3NatToV) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 3:50 | 2025-01-09 | 2025-04-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 
 > Creadores que necesitas tener en el RADAR\. En la portada: <a href="spotify:show:629ovTrIOVUyoyv4L2dyqR">Los Tripl3ts </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,033 likes - 9 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,034 likes - 9 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,4 +18,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 | 8 | [27 \- ESPAÑA CAMPEONA, ARGENTINA EN LÁGRIMAS y más brete mundialero](https://open.spotify.com/episode/18sRe51RuqUXxf1tLbcXEh) | [Desmenucemos la Data](https://open.spotify.com/show/4NGoEpjwtJL5N6QhJhzEUV) | [Desmenucemos la Data](https://open.spotify.com/album/4NGoEpjwtJL5N6QhJhzEUV) | 52:41 |
 | 9 | [ 26 \- ¿POR QUÉ TODOS HABLAN DE LA AFA Y DEL ICE?](https://open.spotify.com/episode/0mpFlIGQfzzw25yZ459gEa) | [Desmenucemos la Data](https://open.spotify.com/show/4NGoEpjwtJL5N6QhJhzEUV) | [Desmenucemos la Data](https://open.spotify.com/album/4NGoEpjwtJL5N6QhJhzEUV) | 1:19:01 |
 
-Snapshot ID: `AAAAAI/AV/FtT9MpiBZDf6WKH2wYw2mV`
+Snapshot ID: `AAAAAJM8DFff3Hd/szTE7pzTH+935V7f`

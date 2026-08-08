@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > a experimental mix of rock, punk, alt & indie\. Cover: YHWH Nailgun
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,382 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,375 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 38 | [Taxes](https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Taxes](https://open.spotify.com/album/7uY2QygHF2ZNHbb0lxRadE) | 3:17 |
 | 39 | [Hit My Head All Day](https://open.spotify.com/track/0quJpknjZo8gMmwzMhiHb3) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Secret Love](https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4) | 6:03 |
 | 40 | [Riding](https://open.spotify.com/track/2kfrzSpyxTuipgYPqtvwda) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [Florida Water Blues](https://open.spotify.com/album/2Gyxm1N8hGyBgVdApmpm4I) | 3:53 |
-| 41 | [Life Signs](https://open.spotify.com/track/63JK811l2UcpiyDvYFCQX5) | [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [It's a Beautiful Place](https://open.spotify.com/album/3qbvg9xDwbPYF16L4SAN4d) | 4:32 |
-| 42 | [Saoirse](https://open.spotify.com/track/3g0xd9m1MxKRiIC2Xw4998) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Pain to Power](https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj) | 5:13 |
+| 41 | [Saoirse](https://open.spotify.com/track/3g0xd9m1MxKRiIC2Xw4998) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Pain to Power](https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj) | 5:13 |
+| 42 | [Life Signs](https://open.spotify.com/track/63JK811l2UcpiyDvYFCQX5) | [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [It's a Beautiful Place](https://open.spotify.com/album/3qbvg9xDwbPYF16L4SAN4d) | 4:32 |
 | 43 | [Man Made of Meat](https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Man Made of Meat](https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo) | 3:09 |
 | 44 | [U Should Not Be Doing That](https://open.spotify.com/track/3gq0rDxpS9e6sbO72PBWbn) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/5UODUkH4PCuG6HNCjDo5VS) | 3:26 |
 | 45 | [Man with Hands and Ankles Bound](https://open.spotify.com/track/2JoqNFdzlNjkLryxXDii1b) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [No One Was Driving The Car](https://open.spotify.com/album/5OUlsu7mgYMtKykXbbwvnN) | 3:18 |
@@ -58,14 +58,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 48 | [The Scythe](https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW) | 4:45 |
 | 49 | [i wait, i sink](https://open.spotify.com/track/0mvaPr8EQmx46H6han0xwN) | [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [i wait, i sink](https://open.spotify.com/album/7caD1nvFAGlDkltnoJHh1o) | 2:46 |
 | 50 | [We Don't Care About That](https://open.spotify.com/track/6TtqsRfr3UTY53Gj3CbMYL) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [On the Intricate Inner Workings of the System](https://open.spotify.com/album/6HKuDmYKRsA43eYFgPYtGH) | 4:26 |
-| 51 | [Projector](https://open.spotify.com/track/4s5FQ8gbOiCnbALMHya3O0) | [Wine Lips](https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM) | [Projector](https://open.spotify.com/album/08bII3U0CLuAa1C7SRLpMA) | 1:33 |
-| 52 | [Numerology](https://open.spotify.com/track/6Lb75cFoDZRiE75muDdEep) | [My New Band Believe](https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O) | [Numerology](https://open.spotify.com/album/4ImkOlXMswzRT69SPcFhD0) | 4:18 |
+| 51 | [Numerology](https://open.spotify.com/track/6Lb75cFoDZRiE75muDdEep) | [My New Band Believe](https://open.spotify.com/artist/5bPSCPf8wOY03ENKd6Aw9O) | [Numerology](https://open.spotify.com/album/4ImkOlXMswzRT69SPcFhD0) | 4:18 |
+| 52 | [Projector](https://open.spotify.com/track/4s5FQ8gbOiCnbALMHya3O0) | [Wine Lips](https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM) | [Projector](https://open.spotify.com/album/08bII3U0CLuAa1C7SRLpMA) | 1:33 |
 | 53 | [Van Goes](https://open.spotify.com/track/7ko2jLqvIxDaKWySopq4cP) | [Being Dead](https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8) | [EELS](https://open.spotify.com/album/2gQOY7nW9BsZjdztVloaFT) | 3:33 |
 | 54 | [Pretty Girls](https://open.spotify.com/track/1qjdgDgapvORPzzB45Qi1F) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Real Deal](https://open.spotify.com/album/20QRMueqfMw1nHWOfXZGOL) | 3:54 |
 | 55 | [Accent](https://open.spotify.com/track/65YABV9CvIoqKEUwZfUmMk) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Accent](https://open.spotify.com/album/6tiLEfNAiONMQHnjQLPXYT) | 3:57 |
-| 56 | [Lily Of The Valley](https://open.spotify.com/track/569PU1VDhtz4dngaUwvUaC) | [Poison Ruïn](https://open.spotify.com/artist/0WHVA5E3ZEY5mxGkMYqPuB) | [Hymns From The Hills](https://open.spotify.com/album/4dZNUFOxYuI95VGMIMZ90Q) | 3:34 |
-| 57 | [Saturday Sun](https://open.spotify.com/track/3irsYddwo18WmLYSiUvc8J) | [Sharp Pins](https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN) | [Saturday Sun](https://open.spotify.com/album/0Sjukr6AlTbsXNfdb7E8f7) | 3:54 |
-| 58 | [Prevail](https://open.spotify.com/track/2aqDOaADfiXz2wDwHsIbRD) | [Mouth Ulcers](https://open.spotify.com/artist/7ohGcioscyT39FJjvkivt5) | [Prevail](https://open.spotify.com/album/66nOHdu9ODND2IXC328U40) | 3:14 |
+| 56 | [Prevail](https://open.spotify.com/track/2aqDOaADfiXz2wDwHsIbRD) | [Mouth Ulcers](https://open.spotify.com/artist/7ohGcioscyT39FJjvkivt5) | [Prevail](https://open.spotify.com/album/66nOHdu9ODND2IXC328U40) | 3:14 |
+| 57 | [Lily Of The Valley](https://open.spotify.com/track/569PU1VDhtz4dngaUwvUaC) | [Poison Ruïn](https://open.spotify.com/artist/0WHVA5E3ZEY5mxGkMYqPuB) | [Hymns From The Hills](https://open.spotify.com/album/4dZNUFOxYuI95VGMIMZ90Q) | 3:34 |
+| 58 | [Saturday Sun](https://open.spotify.com/track/3irsYddwo18WmLYSiUvc8J) | [Sharp Pins](https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN) | [Saturday Sun](https://open.spotify.com/album/0Sjukr6AlTbsXNfdb7E8f7) | 3:54 |
 | 59 | [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 |
 | 60 | [Girth](https://open.spotify.com/track/1puL7uMJb02F8Hq6a4qpcD) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Girth](https://open.spotify.com/album/7fUqP6t74BMOj1UnMTjfga) | 3:03 |
 | 61 | [Who's Gonna Love You Now?](https://open.spotify.com/track/0XIgD3e9WPUaB05vAnVLGr) | [The Tubs](https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9) | [Who's Gonna Love You Now?](https://open.spotify.com/album/4BRjgaVv4DlEWOZrMHbMWW) | 2:55 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 67 | [Drag](https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Drag](https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ) | 2:49 |
 | 68 | [GUTS](https://open.spotify.com/track/4RjDr8lV9QTdsYTeBKc9Pq) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [GUTS](https://open.spotify.com/album/3EnqXvVQeRaxsBEQf15U7z) | 3:21 |
 | 69 | [I Can’t Imagine \(Why You Feel This Way\)](https://open.spotify.com/track/7vReZ7BfPWdIvZjHlFdJw5) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Sharon Van Etten & The Attachment Theory](https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F) | 3:06 |
-| 70 | [Ember](https://open.spotify.com/track/7jdLVBEhoDxGKdhfBEulzY) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Ember](https://open.spotify.com/album/7v39mio0wBEBfW44yf39bE) | 3:25 |
-| 71 | [One More Trip Around The Sun](https://open.spotify.com/track/61VJXbD4Ea3KTumwwLgnTQ) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [One More Trip Around The Sun](https://open.spotify.com/album/3YHaBBysxFf17TymibDhhh) | 4:32 |
+| 70 | [One More Trip Around The Sun](https://open.spotify.com/track/61VJXbD4Ea3KTumwwLgnTQ) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [One More Trip Around The Sun](https://open.spotify.com/album/3YHaBBysxFf17TymibDhhh) | 4:32 |
+| 71 | [Ember](https://open.spotify.com/track/7jdLVBEhoDxGKdhfBEulzY) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Ember](https://open.spotify.com/album/7v39mio0wBEBfW44yf39bE) | 3:25 |
 | 72 | [Building 650](https://open.spotify.com/track/6JrtUQ97SQqVoMW5bWFd7I) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Cowards](https://open.spotify.com/album/2PXkyoHGhPBTdumrGSh8Ta) | 3:51 |
 | 73 | [Rolling By](https://open.spotify.com/track/6rLuJ0UjBbi4xYwvUtYP0B) | [Antenna](https://open.spotify.com/artist/602NI1Pvl6SbFdDJXXqL4f) | [Rolling By](https://open.spotify.com/album/6iv1lLZhgmiVlvgea0i53c) | 3:02 |
 | 74 | [Deep Clay](https://open.spotify.com/track/0BsFIzlsXRmseeQ44iHATK) | [Pile](https://open.spotify.com/artist/44pUNjqg4mExLyFHnB3Bqf) | [Sunshine and Balance Beams](https://open.spotify.com/album/0mlgaAp88EcwGbKfiq7xo4) | 4:13 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 79 | [Good Enough](https://open.spotify.com/track/1B1By24uRkI2EH3UNrcBK8) | [Ultra Lights](https://open.spotify.com/artist/6T7xnpZAOPf4XwrYZclzTA) | [Good Enough](https://open.spotify.com/album/1V3sZlCa2uP1npYlh83fLJ) | 2:07 |
 | 80 | [Echoes](https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Echoes](https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt) | 3:41 |
 | 81 | [Body Meat](https://open.spotify.com/track/2FRsz2oqynIBu2FBk8M3FJ) | [Prostitute](https://open.spotify.com/artist/7fY4LrglQCCiDGUpz4ts47) | [Attempted Martyr](https://open.spotify.com/album/5rllu0aAZBaCZsllQTzYTm) | 3:47 |
-| 82 | [Everything I Wanted](https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Everything I Wanted](https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2) | 4:18 |
-| 83 | [Fundraiser](https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Fundraiser](https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID) | 3:39 |
-| 84 | [Cherry Picker](https://open.spotify.com/track/1as1UY6mD5pM7W6dAGADNe) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Cherry Picker](https://open.spotify.com/album/3Rf4fvEkIrthJoknt3RjFF) | 3:00 |
+| 82 | [Cherry Picker](https://open.spotify.com/track/1as1UY6mD5pM7W6dAGADNe) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Cherry Picker](https://open.spotify.com/album/3Rf4fvEkIrthJoknt3RjFF) | 3:00 |
+| 83 | [Everything I Wanted](https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Everything I Wanted](https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2) | 4:18 |
+| 84 | [Fundraiser](https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Fundraiser](https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID) | 3:39 |
 | 85 | [Out Of My Head](https://open.spotify.com/track/3GfF24z5aHM8idyueXywno) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Out Of My Head](https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1) | 3:10 |
 | 86 | [POST EMPIRE](https://open.spotify.com/track/505e1WJcfyORbth99IeXY8) | [Kim Gordon](https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx) | [PLAY ME](https://open.spotify.com/album/04tCM2W8CvOXQBy4bBHlXk) | 2:26 |
 | 87 | [After Party](https://open.spotify.com/track/7BknNkgT0Bvkx6awnyj16Z) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Cutthroat](https://open.spotify.com/album/3Wm7UlvuhjWq4kiUBOqZeE) | 3:09 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 97 | [Hedgesitting](https://open.spotify.com/track/6qSL9W78L6viJxBA2eetYY) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Hedgesitting](https://open.spotify.com/album/2E0JTOwCfuhmk6JIcwy6cW) | 4:46 |
 | 98 | [Won't Wait](https://open.spotify.com/track/3Z2Lc5LcPEd0tLisckRUxl) | [Makthaverskan](https://open.spotify.com/artist/57MIstrTi3Sw9J9yJybN0E) | [Glass and Bones](https://open.spotify.com/album/2TBOgMEKprOm6aJ8sKKp0O) | 3:47 |
 | 99 | [O, My Love](https://open.spotify.com/track/24V9Sex1uEv1pB76hk7rgb) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [O, My Love](https://open.spotify.com/album/5h45GEmLWL10Jm2djRMHbD) | 2:58 |
-| 100 | [I'm The Outside](https://open.spotify.com/track/1XxA7zS7wcoVzp8yFUjicO) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [I'm The Outside](https://open.spotify.com/album/65eZKE0ZK7RKBkPwwAQ5nS) | 1:51 |
+| 100 | [Weights & Measures](https://open.spotify.com/track/6EbLcYLQiOuljqOc9Jq79t) | [Ulrika Spacek](https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu) | [EXPO](https://open.spotify.com/album/6LLi2GeMAcPyUvwWxS2Gy7) | 3:59 |
 
-Snapshot ID: `AAAAAJbg1g+ck1LD/x+CD5aoAL9Vr6bp`
+Snapshot ID: `AAAAAHJLbvcZ2T1UQ3adACQFNqCXBw+6`

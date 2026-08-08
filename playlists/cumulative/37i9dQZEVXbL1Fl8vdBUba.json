@@ -2604,7 +2604,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 140461,
       "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
       "url": "https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ"
@@ -4178,7 +4178,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 187076,
       "name": "EXCESOS",
       "url": "https://open.spotify.com/track/6UtWwuheJr5LLDeVypPNx7"
@@ -4982,7 +4982,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 188887,
       "name": "Hasta Aqu\u00ed Llegu\u00e9",
       "url": "https://open.spotify.com/track/0Qe2g06yzLBuuSvVmFiweP"
@@ -5594,7 +5594,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -6799,6 +6799,24 @@
     },
     {
       "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144286,
+      "name": "MATADORA",
+      "url": "https://open.spotify.com/track/04d5HlcQX6zH5MMqffXOon"
+    },
+    {
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -7692,6 +7710,24 @@
       "duration_ms": 187368,
       "name": "NI X EL PUTXS",
       "url": "https://open.spotify.com/track/1KL5rlmHCcyqkoGHjsle8v"
+    },
+    {
+      "album": {
+        "name": "No Contesta",
+        "url": "https://open.spotify.com/album/6STk1GRosV2vXiO2hIoW9B"
+      },
+      "artists": [
+        {
+          "name": "Ele A El Dominio",
+          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189821,
+      "name": "No Contesta",
+      "url": "https://open.spotify.com/track/2QB2S8wIrOwI7PoaNkS3dS"
     },
     {
       "album": {
@@ -10970,7 +11006,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 183529,
       "name": "SUPERESTRELLA",
       "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
@@ -11788,7 +11824,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 165738,
       "name": "UNA BABY EN SANTIAGO",
       "url": "https://open.spotify.com/track/0sLYR3myPmuIKRzDdeQta0"

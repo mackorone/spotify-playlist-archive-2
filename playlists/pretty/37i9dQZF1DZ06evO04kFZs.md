@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04kFZs.md) - [plain]
 
 > This is Pop Smoke\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,047 likes - 46 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,059 likes - 46 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04kFZs.md) - [plain]
 | 11 | [Woo Baby](https://open.spotify.com/track/28s2lmL37j0SrdD07oRAuR) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Faith](https://open.spotify.com/album/33H34WJU0h0QqGFZvMZqfE) | 2:36 |
 | 12 | [Get Back](https://open.spotify.com/track/2r5gtqo25eRhk4bCwUMbDF) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo 2 \(Deluxe\)](https://open.spotify.com/album/2SbCbfsxJMQz8ygrfNiA7H) | 1:48 |
 | 13 | [Paranoia](https://open.spotify.com/track/7ffGuDhX7yzW5AA1oERvrr) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/3Xp4gYT4TT35MitP4T11Xt) | 3:32 |
-| 14 | [The Woo](https://open.spotify.com/track/0Xyapgw7NB8xf5ZvRQbwV6) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/6u3vDhwJ2HXHShH5kD00qL) | 3:21 |
+| 14 | [Got It On Me](https://open.spotify.com/track/5v75PO9JK0vCQ1stmq6hSc) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/6u3vDhwJ2HXHShH5kD00qL) | 2:44 |
 | 15 | [Hawk Em](https://open.spotify.com/track/3Rjx5mVXkYskoWTJMEO2JQ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/3PL3Of7YmQ76TzbQPrHC50) | 1:58 |
 | 16 | [Mannequin](https://open.spotify.com/track/68MJydPlnZ3dEemNjbtHOK) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Meet The Woo 2 \(Deluxe\)](https://open.spotify.com/album/2SbCbfsxJMQz8ygrfNiA7H) | 2:40 |
 | 17 | [Hotel Lobby](https://open.spotify.com/track/3t6D3tZXVIuy8SwT7Pcc6N) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/6CPPV9JBLRKEM0O13A3WdU) | 2:31 |
-| 18 | [Got It On Me](https://open.spotify.com/track/5v75PO9JK0vCQ1stmq6hSc) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/6u3vDhwJ2HXHShH5kD00qL) | 2:44 |
+| 18 | [The Woo](https://open.spotify.com/track/0Xyapgw7NB8xf5ZvRQbwV6) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/6u3vDhwJ2HXHShH5kD00qL) | 3:21 |
 | 19 | [PTSD](https://open.spotify.com/track/0aPsDo50fno6jpCU3lKmX5) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/3PL3Of7YmQ76TzbQPrHC50) | 3:19 |
 | 20 | [War](https://open.spotify.com/track/2lScGbg0R262A73sTqNoAo) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Meet The Woo 2 \(Deluxe\)](https://open.spotify.com/album/2SbCbfsxJMQz8ygrfNiA7H) | 3:41 |
 | 21 | [Merci Beaucoup](https://open.spotify.com/track/2cqJZzBrsFBtA0Qs6fj3z7) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/33H34WJU0h0QqGFZvMZqfE) | 2:55 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04kFZs.md) - [plain]
 | 45 | [She Feelin Nice](https://open.spotify.com/track/2xK83yJoJob1HLJ6brDtef) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/3Xp4gYT4TT35MitP4T11Xt) | 2:35 |
 | 46 | [More Time](https://open.spotify.com/track/5QA4kqSHJJc4oZggCB5aYS) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/33H34WJU0h0QqGFZvMZqfE) | 2:00 |
 
-Snapshot ID: `anJ9AAAAAAATmHRapS5YCOluziTBIpzc`
+Snapshot ID: `anPOgAAAAADJQ5osz4IqWYW76JVkQgjR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 
 > The perfect soundtrack to those long nights over dinner
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,031,832 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,031,834 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 21 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
 | 22 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
 | 23 | [If You Leave Me Now](https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago X](https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P) | 3:55 |
-| 24 | [Somebody That I Used To Know](https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna) | 4:04 |
-| 25 | [Kiss from a Rose](https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Seal](https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1) | 4:48 |
+| 24 | [Kiss from a Rose](https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Seal](https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1) | 4:48 |
+| 25 | [Somebody That I Used To Know](https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna) | 4:04 |
 | 26 | [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 |
 | 27 | [On Melancholy Hill](https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:53 |
 | 28 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 |
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 51 | [Slow Burn](https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:06 |
 | 52 | [Last Request](https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:40 |
 | 53 | [Add Up My Love](https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:25 |
-| 54 | [Jackie and Wilson](https://open.spotify.com/track/4JpazKcfOhbwqZrsYhzHee) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:43 |
-| 55 | [Beach Baby](https://open.spotify.com/track/2LXtyj95dK56ENS1QLt4IB) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob) | 2:40 |
+| 54 | [Beach Baby](https://open.spotify.com/track/2LXtyj95dK56ENS1QLt4IB) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob) | 2:40 |
+| 55 | [Jackie and Wilson](https://open.spotify.com/track/4JpazKcfOhbwqZrsYhzHee) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:43 |
 | 56 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 |
-| 57 | [Stay Alive \- From "The Secret Life of Walter Mitty" Soundtrack](https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Stay Alive \(From The Secret Life Of Walter Mitty\)](https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs) | 4:26 |
-| 58 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 |
+| 57 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 |
+| 58 | [Stay Alive \- From "The Secret Life of Walter Mitty" Soundtrack](https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Stay Alive \(From The Secret Life Of Walter Mitty\)](https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs) | 4:26 |
 | 59 | [Agitations tropicales](https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Odyssée \- EP](https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA) | 4:08 |
 | 60 | [Only Love](https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:09 |
 | 61 | [Unhinged](https://open.spotify.com/track/5hvyS23Ya468Sp4VeL48U5) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Unhinged](https://open.spotify.com/album/3NQxrzLOQvUi82RbGIMgIA) | 3:04 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 96 | [Time Will Tell](https://open.spotify.com/track/6twIIS0vl9LyMlUIPgt9Jl) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Time Will Tell](https://open.spotify.com/album/2OqCEpFpC8qq2vZq9k8fLh) | 3:44 |
 | 97 | [California Dreamin' \- Spotify Singles](https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:53 |
 | 98 | [Too Easy](https://open.spotify.com/track/2rd71ftUIsxIw2C4g9V3ea) | [tig3r lewis](https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN) | [Too Easy](https://open.spotify.com/album/07JL2wkVnd1xDXI9ZRygQx) | 4:14 |
-| 99 | [Small Talk](https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [Small Talk](https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0) | 3:08 |
-| 100 | [All My Life](https://open.spotify.com/track/5Bu3CmkflxDAx5ps1BI8HI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4) | 2:53 |
+| 99 | [All My Life](https://open.spotify.com/track/5Bu3CmkflxDAx5ps1BI8HI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4) | 2:53 |
+| 100 | [Small Talk](https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [Small Talk](https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0) | 3:08 |
 
-Snapshot ID: `AAAAAOmv2Giv6aUT7p1peTqxKFtquD/o`
+Snapshot ID: `AAAAAC2dF4pHwGHFWcDKXOA6NYDv6bNg`

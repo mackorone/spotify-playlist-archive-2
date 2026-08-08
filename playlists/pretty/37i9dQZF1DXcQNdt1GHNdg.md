@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 
 > Pump up your adrenaline with Cheema Y & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,822 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,865 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 | 49 | [Strong Enough](https://open.spotify.com/track/6C4zDUv7NpDxmvyakCGnKf) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Yaari Ghuman](https://open.spotify.com/artist/1joJsPgNOvnSwUlCKwst3N) | [Strong Enough](https://open.spotify.com/album/6sxRh5LkG9gk3cAnaaZjT6) | 3:10 |
 | 50 | [RYDE OR DIE](https://open.spotify.com/track/7Gc2WlXhHEzYrlGl77tYag) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [A KID FROM GURDASPUR](https://open.spotify.com/album/6MBBnnY5Kacck7ATbIVTcJ) | 2:15 |
 
-Snapshot ID: `AAAAAM2jVj+lVboMBR+g5Zg3Gg+Xy0Mh`
+Snapshot ID: `AAAAAC4Idh3CVoETZYl6rBF+UftQTX7L`

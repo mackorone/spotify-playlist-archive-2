@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 
 > 행복하고 신나는 음악들과 함께 갓생을 시작해보세요! 출퇴근 길에 들으시면 더욱 좋습니다\. \(Kickstart your day with high\-energy vibes, the ultimate soundtrack for your hustle and commute.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,057 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,043 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 | 15 | [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 |
 | 16 | [LEMONADE](https://open.spotify.com/track/2oR7jPvWPC08Su4KYmKR3O) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [LEMONADE \- The 2nd Album](https://open.spotify.com/album/2233LC6uuoi67lGcO2OaBm) | 3:07 |
 | 17 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 |
-| 18 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 3:08 |
-| 19 | [Lemon Tang](https://open.spotify.com/track/0NGFAcYQVHCIdQea2qSs1I) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Lemon Tang \- The 2nd Mini Album](https://open.spotify.com/album/39xlBHb1gQvMVqRZLjaTjI) | 2:43 |
+| 18 | [Lemon Tang](https://open.spotify.com/track/0NGFAcYQVHCIdQea2qSs1I) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Lemon Tang \- The 2nd Mini Album](https://open.spotify.com/album/39xlBHb1gQvMVqRZLjaTjI) | 2:43 |
+| 19 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 3:08 |
 | 20 | [Moonwalkin'](https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [SHOT CALLERS](https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR) | 3:28 |
 | 21 | [What You Want](https://open.spotify.com/track/3rAcN3CLeSrkhIZN8PHbwb) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [What You Want](https://open.spotify.com/album/6HQEHkwhLmwN0VTJSWgOgE) | 3:14 |
 | 22 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 | 49 | [Really Like You](https://open.spotify.com/track/3entdIWiOuQfcXIkJEABsV) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:17 |
 | 50 | [Deja Vu](https://open.spotify.com/track/1pBUzZE9PoKLoPxo6QxsG6) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Dearest](https://open.spotify.com/album/2oXZPVj5JczGoUR82tc28h) | 3:04 |
 
-Snapshot ID: `AAAAABX7kBHyHqYeYqjhyxZFdqeHV8Qr`
+Snapshot ID: `AAAAAL/ylxqCUGUg0zSLvVSL7oXHj2AJ`

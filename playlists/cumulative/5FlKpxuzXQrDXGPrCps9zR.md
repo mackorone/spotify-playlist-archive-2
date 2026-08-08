@@ -4,7 +4,7 @@
 
 > 
 
-188 songs - 9 hr 55 min
+190 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Silver Jubilee](https://open.spotify.com/track/5KjJYrM3UXmvhqtQntrsJM) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Who's the Clown?](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP) | 2:58 | 2026-07-08 | 2026-07-27 |
 | [Siren sounds \(bonus\)](https://open.spotify.com/track/181yGUB8xEh4LfK8KhC4Wa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb) | 3:03 | 2025-04-01 | 2025-10-05 |
 | [Sleepwalker](https://open.spotify.com/track/1pFuoLQ9iRbPv7a0LQvhEJ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:10 | 2026-05-23 | 2026-06-22 |
+| [Slow Dancin'](https://open.spotify.com/track/647YdG7a4EkucGiyDkfBRY) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Slow Dancin'](https://open.spotify.com/album/53sKCJTcX1AnTBqU9XUCD8) | 2:04 | 2026-08-07 |  |
 | [Snow Angel](https://open.spotify.com/track/6skUuqrKMQIjjo75hWGAvQ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:35 | 2025-12-07 | 2025-12-11 |
 | [So Am I](https://open.spotify.com/track/2Xnv3GntqbBH1juvUYSpHG) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 3:03 | 2025-11-01 | 2025-12-28 |
 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2026-02-26 | 2026-05-04 |
@@ -172,6 +173,7 @@
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2025-11-10 | 2025-12-15 |
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-02 | 2026-01-28 |
 | [The Vow](https://open.spotify.com/track/59DtKdVcqOpvxoBGTXDz4j) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Extended Edition\)](https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl) | 3:32 | 2025-09-14 | 2025-11-23 |
+| [Thinking 'bout You](https://open.spotify.com/track/6pxf2SRlRfBwnQKcUZCm2s) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Thinking 'bout You](https://open.spotify.com/album/6k4bQKHw4hU7spl0fobR63) | 2:20 | 2026-08-07 |  |
 | [TIT FOR TAT](https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TIT FOR TAT](https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz) | 2:57 | 2025-10-04 | 2025-12-15 |
 | [Toy With Me](https://open.spotify.com/track/2Eq390T7NpfucDvN7G8RIt) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me](https://open.spotify.com/album/6bkBdwYNeBqqLVF72acs0H) | 2:14 | 2026-04-25 | 2026-07-08 |
 | [Traitor \(Roles Reversed\)](https://open.spotify.com/track/69gC4UlxaDlNopZ0uBCuIj) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/5jcUel1E0hvk7kay5f3eh1) | 3:27 | 2026-07-18 |  |

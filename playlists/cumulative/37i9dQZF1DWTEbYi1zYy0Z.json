@@ -612,7 +612,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 250506,
       "name": "As It Stands",
       "url": "https://open.spotify.com/track/5GupsSpPccdnagZTTAfPTQ"
@@ -7281,6 +7281,28 @@
     },
     {
       "album": {
+        "name": "Pillow Talk",
+        "url": "https://open.spotify.com/album/1QCoPwgKVLjzkGVBasJny8"
+      },
+      "artists": [
+        {
+          "name": "Rob Zinn",
+          "url": "https://open.spotify.com/artist/6I8oFZvFlvaEXz6ZYhEB65"
+        },
+        {
+          "name": "Paul Brown",
+          "url": "https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242780,
+      "name": "Pillow Talk",
+      "url": "https://open.spotify.com/track/6nT4wcEsp6nAKEDVtiyIOp"
+    },
+    {
+      "album": {
         "name": "A Midnight Rendezvous",
         "url": "https://open.spotify.com/album/3up7BY3W1z8pMNipUQOl7x"
       },
@@ -7855,6 +7877,28 @@
     },
     {
       "album": {
+        "name": "Say What You See",
+        "url": "https://open.spotify.com/album/4pYSUeXqL7QoXMKVmMEUzn"
+      },
+      "artists": [
+        {
+          "name": "Oli Silk",
+          "url": "https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE"
+        },
+        {
+          "name": "Evan Taylor",
+          "url": "https://open.spotify.com/artist/25uEY8hKswY86ulJ0tGCkx"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253306,
+      "name": "Say What You See",
+      "url": "https://open.spotify.com/track/0jPENAe4iLWp2HayHOZnod"
+    },
+    {
+      "album": {
         "name": "Say You Will",
         "url": "https://open.spotify.com/album/6ecDlIabqvgoTIn90WUBYa"
       },
@@ -8384,7 +8428,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 179494,
       "name": "Solag",
       "url": "https://open.spotify.com/track/6NR43oOqDquzfkAVdldWJ7"

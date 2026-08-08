@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 
 > De playlist voor het zomergevoel van 2026!
 
-[Spotify](https://open.spotify.com/user/spotify) - 685,573 likes - 110 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 685,839 likes - 110 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 | 109 | [Opalite](https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:55 |
 | 110 | [Gone Gone Gone](https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Gone Gone Gone](https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz) | 3:18 |
 
-Snapshot ID: `AAAAAFuLE1hKfMEl6wlwO3TSmQIFiEf9`
+Snapshot ID: `AAAAABu5a0C3yaCEKhTRvm08NU5w6OVx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 
 > viral, trend ve yükselenler\.  Kapak: Ati242
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,637 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,871 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 38 | [Seninle Başlar](https://open.spotify.com/track/5lJtI1uJPDrv2x6vhCmml0) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Seninle Başlar](https://open.spotify.com/album/0ZsZilQ9p3sThUWyZiMLZl) | 2:31 |
 | 39 | [Kırmızı](https://open.spotify.com/track/58Y5BrcGgDUd5RWApT1lV9) | [Ayla Çelik](https://open.spotify.com/artist/3Z7GwK4hUEczTklLsVedcx) | [Kırmızı](https://open.spotify.com/album/3wk2gK2cnkhfqMqydtqdf9) | 3:25 |
 | 40 | [Kutupta Yaz Gibi](https://open.spotify.com/track/28wSrbbf6vnix8F6vcHGFZ) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Karışık Kaset 2](https://open.spotify.com/album/22dJRNVTVUfGQzbMCNMuJq) | 2:18 |
-| 41 | [Geri Ver](https://open.spotify.com/track/6fCS2Zg9OKiWh51TbFFWXG) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Geri Ver](https://open.spotify.com/album/5mFTXf9dPQ6cTxbt7nuHpw) | 2:49 |
-| 42 | [Makina](https://open.spotify.com/track/22yZy5Pa6HAgqsa90Mcof4) | [Emir](https://open.spotify.com/artist/052U3i0lM0CeCkJRrES8XK) | [Ateşten Bi Rüzgar](https://open.spotify.com/album/60BEVIsHpsdfQeCDiALdba) | 3:25 |
+| 41 | [Makina](https://open.spotify.com/track/22yZy5Pa6HAgqsa90Mcof4) | [Emir](https://open.spotify.com/artist/052U3i0lM0CeCkJRrES8XK) | [Ateşten Bi Rüzgar](https://open.spotify.com/album/60BEVIsHpsdfQeCDiALdba) | 3:25 |
+| 42 | [Geri Ver](https://open.spotify.com/track/6fCS2Zg9OKiWh51TbFFWXG) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Geri Ver](https://open.spotify.com/album/5mFTXf9dPQ6cTxbt7nuHpw) | 2:49 |
 | 43 | [Şarkılar Sokaklara Ait](https://open.spotify.com/track/2HjJTdEdEApv1QrKcMXKqo) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Şarkılar Sokaklara Ait](https://open.spotify.com/album/34hptGPWx0q7xhZ4AXJPzg) | 2:55 |
 | 44 | [Vursunlar \- Roman Version](https://open.spotify.com/track/0WlBjF1DLEw8jg3i8nPm5N) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P), [Gökhan Namlı](https://open.spotify.com/artist/5bwgqxjC9Gh77Re63SHKxc) | [ROMANESA](https://open.spotify.com/album/2o1RxIqShrINHYIbWDWfny) | 2:37 |
 | 45 | [Üzülmedim Ki](https://open.spotify.com/track/3wWFO3qZzgMGLEF1G33ClH) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Üzülmedim Ki](https://open.spotify.com/album/74zx4om0d3Yzeaq1KgmbIF) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 49 | [Noldu Böyle](https://open.spotify.com/track/0Yhn2lIPjySylxMkmHuBIW) | [Asil Gök](https://open.spotify.com/artist/0d43Fqs68Oboh6XXo4ztgn) | [Noldu Böyle](https://open.spotify.com/album/3LG4klpFuFGNyYl0RytLtU) | 2:20 |
 | 50 | [Adı İntikamdı \- Mustafa Sandal Saygı 1](https://open.spotify.com/track/7nbo62zsKUJb8VESKqsk9i) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Mustafa Sandal Saygı 1](https://open.spotify.com/album/1yXAegiicPvKSc3vgy6kqq) | 3:32 |
 
-Snapshot ID: `AAAAAArtm4DlbNxrLpudD6Dp6f2I8P95`
+Snapshot ID: `AAAAAMrYfIhHKAMMTdBG0fRF9FwLP+qv`

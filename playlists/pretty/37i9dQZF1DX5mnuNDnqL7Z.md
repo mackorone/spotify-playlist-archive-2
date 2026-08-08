@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mnuNDnqL7Z.md) - [plain]
 
 > Who run the world? Cover: no na
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,761 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,770 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mnuNDnqL7Z.md) - [plain]
 | 99 | [Worth It](https://open.spotify.com/track/7MRoIVZ0QuVy3xDu9Z6Thu) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [RAGE](https://open.spotify.com/album/5oxMfD3pBDCVsRKjpgVXTb) | 3:23 |
 | 100 | [Tweak](https://open.spotify.com/track/3BuaksAZoXoIr8NoxAsIOO) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [Tweak](https://open.spotify.com/album/0VeiKxNxcCRrzgNHuhyMXu) | 2:28 |
 
-Snapshot ID: `AAAAADhctkmUIkszfFFk7C9CnfKEInKj`
+Snapshot ID: `AAAAAGQ8UCGFakANVjxYlS9/naePB0jT`

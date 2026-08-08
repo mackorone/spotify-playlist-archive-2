@@ -1,12 +1,12 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. ",
-  "num_followers": 195087,
+  "num_followers": 195093,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJOUl9ogt/UxTVclH8w8vmt5HWde",
+  "snapshot_id": "AAAAAIgR73v8whEVgOSwtVBmOGLQfLuh",
   "tracks": [
     {
       "added_at": "2026-08-06 22:00:24",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-08-06 22:00:24",
       "album": {
-        "name": "Leva f\u00f6r alltid (Sveriges officiella VM-l\u00e5t 2026)",
-        "url": "https://open.spotify.com/album/4eBwT9tto4VD3x0wvI4hCg"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 202640,
-      "name": "Leva f\u00f6r alltid - Sveriges officiella VM-l\u00e5t 2026",
-      "url": "https://open.spotify.com/track/29LodsetZFyeTG00AJUoJz"
-    },
-    {
-      "added_at": "2026-08-06 22:00:24",
-      "album": {
         "name": "D\u00f6den ut",
         "url": "https://open.spotify.com/album/5GiH51ivtO7V5v7cqvsWdJ"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 219642,
       "name": "D\u00f6den ut",
       "url": "https://open.spotify.com/track/7ELcAhaKTQc95IiXS2A742"
+    },
+    {
+      "added_at": "2026-08-06 22:00:24",
+      "album": {
+        "name": "Leva f\u00f6r alltid (Sveriges officiella VM-l\u00e5t 2026)",
+        "url": "https://open.spotify.com/album/4eBwT9tto4VD3x0wvI4hCg"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 202640,
+      "name": "Leva f\u00f6r alltid - Sveriges officiella VM-l\u00e5t 2026",
+      "url": "https://open.spotify.com/track/29LodsetZFyeTG00AJUoJz"
     },
     {
       "added_at": "2026-08-06 22:00:24",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-08-06 22:00:24",
       "album": {
-        "name": "Framtiden som aldrig blev av",
-        "url": "https://open.spotify.com/album/2ydJbEdyPq7pPoJhBUcHC0"
-      },
-      "artists": [
-        {
-          "name": "Joakim Berg",
-          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
-        }
-      ],
-      "duration_ms": 226466,
-      "name": "Land",
-      "url": "https://open.spotify.com/track/2qf4HEGKdkQzrUK0jAgxnV"
-    },
-    {
-      "added_at": "2026-08-06 22:00:24",
-      "album": {
         "name": "Eyes Don't Lie",
         "url": "https://open.spotify.com/album/1xsEi04labtfeYTv7D6uAZ"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 148000,
       "name": "Man",
       "url": "https://open.spotify.com/track/0SBv4vF1SfMJHnzSmaElVh"
+    },
+    {
+      "added_at": "2026-08-06 22:00:24",
+      "album": {
+        "name": "Framtiden som aldrig blev av",
+        "url": "https://open.spotify.com/album/2ydJbEdyPq7pPoJhBUcHC0"
+      },
+      "artists": [
+        {
+          "name": "Joakim Berg",
+          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+        }
+      ],
+      "duration_ms": 226466,
+      "name": "Land",
+      "url": "https://open.spotify.com/track/2qf4HEGKdkQzrUK0jAgxnV"
     },
     {
       "added_at": "2026-08-06 22:00:24",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-08-06 22:00:24",
       "album": {
-        "name": "Midsommarregn",
-        "url": "https://open.spotify.com/album/4lsbgqoNTEO987jBWDAh8w"
-      },
-      "artists": [
-        {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
-        }
-      ],
-      "duration_ms": 191304,
-      "name": "Midsommarregn",
-      "url": "https://open.spotify.com/track/43IOnIz4jMrU6qjPgiTtVL"
-    },
-    {
-      "added_at": "2026-08-06 22:00:24",
-      "album": {
         "name": "Rakt i kaklet",
         "url": "https://open.spotify.com/album/63xIwF9Pt9Vd2IjhplezFU"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 179517,
       "name": "Rakt i kaklet",
       "url": "https://open.spotify.com/track/3CJ6cEV4Z3YaNarSa4pOpp"
+    },
+    {
+      "added_at": "2026-08-06 22:00:24",
+      "album": {
+        "name": "Midsommarregn",
+        "url": "https://open.spotify.com/album/4lsbgqoNTEO987jBWDAh8w"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "duration_ms": 191304,
+      "name": "Midsommarregn",
+      "url": "https://open.spotify.com/track/43IOnIz4jMrU6qjPgiTtVL"
     },
     {
       "added_at": "2026-08-06 22:00:24",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-08-06 22:00:24",
       "album": {
+        "name": "Ju Mer Dom Spottar",
+        "url": "https://open.spotify.com/album/24AvUXtwmM8TqNMRVYPnw8"
+      },
+      "artists": [
+        {
+          "name": "emoemy",
+          "url": "https://open.spotify.com/artist/6kOYIk57Dcel1IrTxYNP9i"
+        }
+      ],
+      "duration_ms": 175578,
+      "name": "Ju Mer Dom Spottar",
+      "url": "https://open.spotify.com/track/6COVBu4T7r9eeTUU9ptVsN"
+    },
+    {
+      "added_at": "2026-08-06 22:00:24",
+      "album": {
         "name": "Den b\u00e4sta tiden v\u00e4ntar p\u00e5 dig",
         "url": "https://open.spotify.com/album/4yJdG4tO1FbNtwCuslGTQ5"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 156724,
       "name": "Fantiserar",
       "url": "https://open.spotify.com/track/6Iacj2942oCDNmDrcr51nu"
-    },
-    {
-      "added_at": "2026-08-06 22:00:24",
-      "album": {
-        "name": "Ju Mer Dom Spottar",
-        "url": "https://open.spotify.com/album/24AvUXtwmM8TqNMRVYPnw8"
-      },
-      "artists": [
-        {
-          "name": "emoemy",
-          "url": "https://open.spotify.com/artist/6kOYIk57Dcel1IrTxYNP9i"
-        }
-      ],
-      "duration_ms": 175578,
-      "name": "Ju Mer Dom Spottar",
-      "url": "https://open.spotify.com/track/6COVBu4T7r9eeTUU9ptVsN"
     },
     {
       "added_at": "2026-08-06 22:00:24",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-08-06 22:00:24",
       "album": {
+        "name": "Musik f\u00f6r alla",
+        "url": "https://open.spotify.com/album/5yuu4qCXp8PieAJgGAQKUz"
+      },
+      "artists": [
+        {
+          "name": "Terra ",
+          "url": "https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Musik f\u00f6r alla",
+      "url": "https://open.spotify.com/track/1JBeE1pa5KUDXeQETRStSe"
+    },
+    {
+      "added_at": "2026-08-06 22:00:24",
+      "album": {
         "name": "Higher Calling",
         "url": "https://open.spotify.com/album/6GfIlRYwl488VlI6eekvtx"
       },
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2026-08-06 22:00:24",
       "album": {
-        "name": "Musik f\u00f6r alla",
-        "url": "https://open.spotify.com/album/5yuu4qCXp8PieAJgGAQKUz"
-      },
-      "artists": [
-        {
-          "name": "Terra ",
-          "url": "https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Musik f\u00f6r alla",
-      "url": "https://open.spotify.com/track/1JBeE1pa5KUDXeQETRStSe"
-    },
-    {
-      "added_at": "2026-08-06 22:00:24",
-      "album": {
         "name": "Det h\u00f6gsta ljud jag h\u00f6rt",
         "url": "https://open.spotify.com/album/3WYtGbzsy5rUpYKf7u9tlY"
       },
@@ -1103,22 +1103,6 @@
       "duration_ms": 190013,
       "name": "Pappa kommer inte hem",
       "url": "https://open.spotify.com/track/5r2KPAo67ayJ5CyDH6uhql"
-    },
-    {
-      "added_at": "2026-08-06 22:00:24",
-      "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/085BCn8A8f0RIVLiKvsJ3A"
-      },
-      "artists": [
-        {
-          "name": "Tove Styrke",
-          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
-        }
-      ],
-      "duration_ms": 214778,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/7hKd8osKVrmehhIx1FP6Lz"
     },
     {
       "added_at": "2026-08-06 22:00:24",
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2026-08-06 22:00:24",
       "album": {
-        "name": "Kyss mig",
-        "url": "https://open.spotify.com/album/3a8qdAft2SHaVtj5Z2Bx3b"
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/085BCn8A8f0RIVLiKvsJ3A"
       },
       "artists": [
         {
-          "name": "JULIETT",
-          "url": "https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH"
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
         }
       ],
-      "duration_ms": 182464,
-      "name": "Kyss mig",
-      "url": "https://open.spotify.com/track/5d2CjJmYY7wzHosBe0HUo1"
+      "duration_ms": 214778,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/7hKd8osKVrmehhIx1FP6Lz"
     },
     {
       "added_at": "2026-08-06 22:00:24",
@@ -1171,6 +1155,38 @@
       "duration_ms": 171040,
       "name": "Bara du \u00e4r d\u00e4r (feat. Von Disco)",
       "url": "https://open.spotify.com/track/3No7Damf9LQeDkxQwW7NmM"
+    },
+    {
+      "added_at": "2026-08-06 22:00:24",
+      "album": {
+        "name": "Kyss mig",
+        "url": "https://open.spotify.com/album/3a8qdAft2SHaVtj5Z2Bx3b"
+      },
+      "artists": [
+        {
+          "name": "JULIETT",
+          "url": "https://open.spotify.com/artist/2bF6WnPOya736x0kgmfjrH"
+        }
+      ],
+      "duration_ms": 182464,
+      "name": "Kyss mig",
+      "url": "https://open.spotify.com/track/5d2CjJmYY7wzHosBe0HUo1"
+    },
+    {
+      "added_at": "2026-08-06 22:00:24",
+      "album": {
+        "name": "embraced for a second as we die",
+        "url": "https://open.spotify.com/album/7t2DD9XyYaWoCGnaIWuprt"
+      },
+      "artists": [
+        {
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+        }
+      ],
+      "duration_ms": 217560,
+      "name": "groby",
+      "url": "https://open.spotify.com/track/1MdhtHbpepgG5b88ZPWX0s"
     },
     {
       "added_at": "2026-08-06 22:00:24",
@@ -1203,22 +1219,6 @@
       "duration_ms": 181948,
       "name": "Sp\u00f6ken",
       "url": "https://open.spotify.com/track/71eGRVXsrdEdGScvbz13gK"
-    },
-    {
-      "added_at": "2026-08-06 22:00:24",
-      "album": {
-        "name": "embraced for a second as we die",
-        "url": "https://open.spotify.com/album/7t2DD9XyYaWoCGnaIWuprt"
-      },
-      "artists": [
-        {
-          "name": "Amanda Bergman",
-          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
-        }
-      ],
-      "duration_ms": 217560,
-      "name": "groby",
-      "url": "https://open.spotify.com/track/1MdhtHbpepgG5b88ZPWX0s"
     },
     {
       "added_at": "2026-08-06 22:00:24",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-08-06 22:00:24",
       "album": {
-        "name": "Happy Now",
-        "url": "https://open.spotify.com/album/2QTQJB2vF5vtpHoWgzQwQP"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 162317,
-      "name": "Happy Now",
-      "url": "https://open.spotify.com/track/0XRf5KvljGef9eVvuT14yx"
-    },
-    {
-      "added_at": "2026-08-06 22:00:24",
-      "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/2elYWaFUqlA9QmNP1xygoG"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 176300,
       "name": "Woman",
       "url": "https://open.spotify.com/track/2TFtcHGIGIvMOmyZgDoKR0"
+    },
+    {
+      "added_at": "2026-08-06 22:00:24",
+      "album": {
+        "name": "Happy Now",
+        "url": "https://open.spotify.com/album/2QTQJB2vF5vtpHoWgzQwQP"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 162317,
+      "name": "Happy Now",
+      "url": "https://open.spotify.com/track/0XRf5KvljGef9eVvuT14yx"
     },
     {
       "added_at": "2026-08-06 22:00:24",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-08-06 22:00:24",
       "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/6c91028rOTzQnHvmYgK6I4"
-      },
-      "artists": [
-        {
-          "name": "Olga Myko",
-          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
-        }
-      ],
-      "duration_ms": 195018,
-      "name": "TV",
-      "url": "https://open.spotify.com/track/6RLMAUSoJP0GZZAnnLrTlX"
-    },
-    {
-      "added_at": "2026-08-06 22:00:24",
-      "album": {
         "name": "Himlen \u00e4r oskyldigt bl\u00e5",
         "url": "https://open.spotify.com/album/2YeDXQKCSMPg9H1j244Wwl"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 262644,
       "name": "Himlen \u00e4r oskyldigt bl\u00e5",
       "url": "https://open.spotify.com/track/1hYwe6tTSED5oiZoUaH0b6"
+    },
+    {
+      "added_at": "2026-08-06 22:00:24",
+      "album": {
+        "name": "TV",
+        "url": "https://open.spotify.com/album/6c91028rOTzQnHvmYgK6I4"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "duration_ms": 195018,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/6RLMAUSoJP0GZZAnnLrTlX"
     },
     {
       "added_at": "2026-08-06 22:00:24",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2026-08-06 22:00:24",
       "album": {
+        "name": "For Your Eyes Only",
+        "url": "https://open.spotify.com/album/56Z4S9aA0fSNtcz3TIEMhX"
+      },
+      "artists": [
+        {
+          "name": "Astral Weeks",
+          "url": "https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3"
+        }
+      ],
+      "duration_ms": 177464,
+      "name": "For Your Eyes Only",
+      "url": "https://open.spotify.com/track/7uYLYKdG6hY688nDXDUnlq"
+    },
+    {
+      "added_at": "2026-08-06 22:00:24",
+      "album": {
         "name": "H\u00f6gsbo Riviera",
         "url": "https://open.spotify.com/album/2aBTX786uODU6398tiT9F9"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 265452,
       "name": "H\u00e4nder",
       "url": "https://open.spotify.com/track/4YqxiA5nPFNevQQ72Y5D9d"
-    },
-    {
-      "added_at": "2026-08-06 22:00:24",
-      "album": {
-        "name": "ett minne i taget",
-        "url": "https://open.spotify.com/album/5r46KvNGLqpJ2YNPuEvUW7"
-      },
-      "artists": [
-        {
-          "name": "Hanna Ferm",
-          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
-        }
-      ],
-      "duration_ms": 186402,
-      "name": "n\u00e4ra n\u00e5t s\u00e5 bra",
-      "url": "https://open.spotify.com/track/314slNVWu8k7xw773zLLIu"
     },
     {
       "added_at": "2026-08-06 22:00:24",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2026-08-06 22:00:24",
       "album": {
-        "name": "For Your Eyes Only",
-        "url": "https://open.spotify.com/album/56Z4S9aA0fSNtcz3TIEMhX"
+        "name": "ett minne i taget",
+        "url": "https://open.spotify.com/album/5r46KvNGLqpJ2YNPuEvUW7"
       },
       "artists": [
         {
-          "name": "Astral Weeks",
-          "url": "https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3"
+          "name": "Hanna Ferm",
+          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
         }
       ],
-      "duration_ms": 177464,
-      "name": "For Your Eyes Only",
-      "url": "https://open.spotify.com/track/7uYLYKdG6hY688nDXDUnlq"
+      "duration_ms": 186402,
+      "name": "n\u00e4ra n\u00e5t s\u00e5 bra",
+      "url": "https://open.spotify.com/track/314slNVWu8k7xw773zLLIu"
     },
     {
       "added_at": "2026-08-06 22:00:24",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-08-06 22:00:24",
       "album": {
-        "name": "Satan var en \u00e4ngel",
-        "url": "https://open.spotify.com/album/0ADxyy1l1b43inf1fDCd4t"
-      },
-      "artists": [
-        {
-          "name": "noll2",
-          "url": "https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR"
-        }
-      ],
-      "duration_ms": 178958,
-      "name": "Satan var en \u00e4ngel",
-      "url": "https://open.spotify.com/track/1ps4CnpPnbZ45WUY3ZT59X"
-    },
-    {
-      "added_at": "2026-08-06 22:00:24",
-      "album": {
         "name": "27000",
         "url": "https://open.spotify.com/album/4LyKFOCRcEpU9NQ7124XME"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 180072,
       "name": "27000",
       "url": "https://open.spotify.com/track/7r4ZIpRRYg0yMQOGigY1Rh"
+    },
+    {
+      "added_at": "2026-08-06 22:00:24",
+      "album": {
+        "name": "Satan var en \u00e4ngel",
+        "url": "https://open.spotify.com/album/0ADxyy1l1b43inf1fDCd4t"
+      },
+      "artists": [
+        {
+          "name": "noll2",
+          "url": "https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR"
+        }
+      ],
+      "duration_ms": 178958,
+      "name": "Satan var en \u00e4ngel",
+      "url": "https://open.spotify.com/track/1ps4CnpPnbZ45WUY3ZT59X"
     },
     {
       "added_at": "2026-08-06 22:00:24",

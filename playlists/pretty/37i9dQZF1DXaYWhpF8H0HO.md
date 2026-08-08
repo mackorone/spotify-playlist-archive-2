@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Lukas Will
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,719 likes - 94 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,733 likes - 94 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 5](https://open.spotify.com/track/3l0Jjl2aSgzsMObFEDhbTN) | [Lukas Will](https://open.spotify.com/artist/2CY8nVYLln1sjeOcpp4hC7) | [the best i left behind](https://open.spotify.com/album/7eMW7C6Brs4HyLfzE8mJrk) | 0:00 |
+| 1 | [the best i left behind](https://open.spotify.com/track/3l0Jjl2aSgzsMObFEDhbTN) | [Lukas Will](https://open.spotify.com/artist/2CY8nVYLln1sjeOcpp4hC7) | [the best i left behind](https://open.spotify.com/album/7eMW7C6Brs4HyLfzE8mJrk) | 3:32 |
 | 2 | [Moonlight](https://open.spotify.com/track/269MiEVU1Dyc6eUQU1PuiS) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Moonlight](https://open.spotify.com/album/3phWkXWHf65cK8vFh3jqMe) | 5:10 |
-| 3 | ["obsessed"](https://open.spotify.com/track/0JdCGnIfvQWWm1SkMx3KfT) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | ["obsessed"](https://open.spotify.com/album/3hQ1Y0qo7qLFVeF7gDkVbH) | 2:50 |
+| 3 | [obsessed](https://open.spotify.com/track/0JdCGnIfvQWWm1SkMx3KfT) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [obsessed](https://open.spotify.com/album/3hQ1Y0qo7qLFVeF7gDkVbH) | 2:50 |
 | 4 | [Wishing Bad](https://open.spotify.com/track/5gzK8TrJlzsc0tWK6cXjUp) | [amae](https://open.spotify.com/artist/3Epw8ZocMsviip7i4qHFxa), [Emmann Yapp](https://open.spotify.com/artist/6q9rXmn6NuUWE4nnaqoCzi) | [Wishing Bad](https://open.spotify.com/album/3v1OGfdhWAiLTMAjxVi0XH) | 2:54 |
 | 5 | [Mockingbird](https://open.spotify.com/track/7j6wCnpHT798vsPWQHouQK) | [Gabriella Ekaputri](https://open.spotify.com/artist/73lAkOBolLeP9ZBirROJui) | [Mockingbird](https://open.spotify.com/album/0TTVax81uLp8duKXYjGdwe) | 3:16 |
 | 6 | [WHEN THE HOLIDAY ENDS](https://open.spotify.com/track/6XaXYV0PYsyfV4CWtesfdX) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [WHEN THE HOLIDAY ENDS](https://open.spotify.com/album/1pIv34xqSRrsrSuXhXWsbn) | 3:25 |
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 8 | [Forevermine](https://open.spotify.com/track/0jLrKtnBL9lzcWA5M0tO9A) | [Allan Andersn](https://open.spotify.com/artist/4zcXAnIxQ6UDXSu8qDZbsk), [Rimar](https://open.spotify.com/artist/5P8zPeJpGvHclaIk8nKoGx) | [Forevermine](https://open.spotify.com/album/7yGzAyT2Rs0JK0HiNFuUqX) | 4:19 |
 | 9 | [Building](https://open.spotify.com/track/3KeW6p83GJwuNUfegAGH1m) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Building](https://open.spotify.com/album/6TziaCeqD9bpWb2GlyULmW) | 3:58 |
 | 10 | [Don't](https://open.spotify.com/track/42S9Rc1AolKbJK2TIWk0Ez) | [Soulfood](https://open.spotify.com/artist/4pPPCYQD20lPFRNBH8f5Eo), [Jascha Ririhena](https://open.spotify.com/artist/1k6MajoWOgLgeZQLFs40Li) | [Jangan](https://open.spotify.com/album/26LTDa5V2stOLtl1BCSbP9) | 3:00 |
-| 11 | [GIMME A MINUTE](https://open.spotify.com/track/5VDv5g24IXbSY96LIsAKzk) | [Kid JD](https://open.spotify.com/artist/0Ax8zT8qDMtFidjrEGUYld), [GunZ](https://open.spotify.com/artist/65SmvNI1XTRajUXXzJd96Z) | [GODFIDENCE](https://open.spotify.com/album/050M1V5t6ZXiuEUjg6Q9fj) | 3:37 |
+| 11 | [GIMME A MINUTE](https://open.spotify.com/track/5VDv5g24IXbSY96LIsAKzk) | [Kid JD](https://open.spotify.com/artist/0Ax8zT8qDMtFidjrEGUYld), [GunZ](https://open.spotify.com/artist/1TU6sLpWMQEHUhIgFJVVVl) | [GODFIDENCE](https://open.spotify.com/album/050M1V5t6ZXiuEUjg6Q9fj) | 3:37 |
 | 12 | [honk!](https://open.spotify.com/track/462r5jEYbiNo6sqwCcRqhU) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [honk!](https://open.spotify.com/album/5PHqwsXzGYEwCia6TeT8Oc) | 2:15 |
 | 13 | [Don't You Dare Touch My Kerupuk](https://open.spotify.com/track/1KsBkw5IczLePdkVnzg7HU) | [Adhitia Sofyan](https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR) | [Don't You Dare Touch My Kerupuk](https://open.spotify.com/album/1VuEjrUcSt1Mjk6kNrzdHP) | 3:52 |
 | 14 | [Coffee In The Morning](https://open.spotify.com/track/0EWcs9ucQzTfNS9fL3u7nS) | [BLINGOUTKID](https://open.spotify.com/artist/0pvy9ziaOLKxLQvyB4WGeN) | [Coffee In The Morning](https://open.spotify.com/album/5loHuYqp8tlA0IGbNUPbQf) | 3:00 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 93 | [Almost Home Again](https://open.spotify.com/track/6L0KxnMl27Nb4MY2UumMRb) | [Reischa Alana](https://open.spotify.com/artist/4d99g47Up9gZ0TJiFiLbqJ) | [Almost Home Again](https://open.spotify.com/album/5tvyyjREnZSKpT7JrVc8QU) | 3:03 |
 | 94 | [WHAT U WANT](https://open.spotify.com/track/3eSwtFQuAz2PcfHVZCIIyL) | [Weda Mauve](https://open.spotify.com/artist/1Gug2KeUuhhVUW8WTIYIH6) | [WHAT U WANT](https://open.spotify.com/album/10KM8rJzZR3CdlbNzNNEUD) | 5:40 |
 
-Snapshot ID: `AAAAAIyiGHKKE1hSbsIvSbaSBYgc3GuK`
+Snapshot ID: `AAAAAEHSz8iF0eJbTacJ6xT7t6MHvs81`

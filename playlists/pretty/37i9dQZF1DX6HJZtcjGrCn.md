@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HJZtcjGrCn.md) - [plain]
 
 > Música independente\. A tua alternativa ao mainstream\. Foto: Jasmim
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,979 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,050 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HJZtcjGrCn.md) - [plain]
 | 28 | [Daughter from Hell](https://open.spotify.com/track/7yogqG9VriSe2gE9RKZKwG) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell](https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5) | 4:04 |
 | 29 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |
 | 30 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 |
-| 31 | [The Wave](https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [The Wave](https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj) | 3:22 |
+| 31 | [Neverender](https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 4:26 |
 | 32 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 |
-| 33 | [Neverender](https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 4:26 |
+| 33 | [The Wave](https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [The Wave](https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj) | 3:22 |
 | 34 | [i wish i knew how to quit you](https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:52 |
 | 35 | [At The Beach, In Every Life](https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:57 |
 | 36 | [Porch Light](https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Porch Light](https://open.spotify.com/album/2E1WqaMb2UoM3ivJyJT03q) | 4:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HJZtcjGrCn.md) - [plain]
 | 79 | [The Banjo Song](https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [The Banjo Song](https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn) | 3:49 |
 | 80 | [2SIDED](https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [2SIDED](https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL) | 2:57 |
 
-Snapshot ID: `AAAAAHJgw8D2QnYSCXXx3ds82Wxz71+E`
+Snapshot ID: `AAAAAAGeW8ccmr/rO1txJicaEP//x6OW`

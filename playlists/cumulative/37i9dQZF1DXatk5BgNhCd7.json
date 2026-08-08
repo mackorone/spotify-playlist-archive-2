@@ -24595,6 +24595,24 @@
     },
     {
       "album": {
+        "name": "DIME",
+        "url": "https://open.spotify.com/album/2Tty0z01nuQrhoP1XZqQnt"
+      },
+      "artists": [
+        {
+          "name": "Tony El Golden Boy",
+          "url": "https://open.spotify.com/artist/4wxWSbH2lE1GDEtaBvykBM"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145718,
+      "name": "DIME",
+      "url": "https://open.spotify.com/track/7KiJaKT4wpK5WzDVtZODPL"
+    },
+    {
+      "album": {
         "name": "Dime",
         "url": "https://open.spotify.com/album/3soqGyMTZnPvgaXvb2oIJn"
       },

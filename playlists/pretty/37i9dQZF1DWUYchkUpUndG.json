@@ -1,12 +1,12 @@
 {
-  "description": "Discover new christian and gospel music. Cover: Diana Hamilton",
-  "num_followers": 61712,
+  "description": "Discover new christian and gospel music. Cover: Prinx Emmanuel",
+  "num_followers": 62215,
   "original_name": "Fresh Gospel Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA+KBTIs34jeHRgh2ze3bcvxR+Em",
+  "snapshot_id": "AAAAAKCWmvmbnMQLpj15YhtWy3mSuKTW",
   "tracks": [
     {
       "added_at": "2026-08-07 00:01:07",
@@ -224,8 +224,8 @@
           "url": "https://open.spotify.com/artist/0V7olBRdnevHisGlCmbz02"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 422352,
+      "name": "Baba Siyabonga",
       "url": "https://open.spotify.com/track/3P5iI9ugl1d0P5muGcT3Q8"
     },
     {
@@ -336,8 +336,8 @@
           "url": "https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 278719,
+      "name": "Ngiyabonga",
       "url": "https://open.spotify.com/track/7z1CeYr4VpiyJ9r5HXtcSe"
     },
     {
@@ -973,6 +973,22 @@
       "url": "https://open.spotify.com/track/2sYVE06OwheVmmOxh3QYZV"
     },
     {
+      "added_at": "2026-08-07 00:01:07",
+      "album": {
+        "name": "Worship medley, Metamor4sis 2026 (Live)",
+        "url": "https://open.spotify.com/album/7eo0HEl0jI9DFxvu8EvUgB"
+      },
+      "artists": [
+        {
+          "name": "TEHGAH",
+          "url": "https://open.spotify.com/artist/4scHETu7kmTovJLCQq8Rla"
+        }
+      ],
+      "duration_ms": 1190568,
+      "name": "Worship medley, Metamor4sis 2026 (Live)",
+      "url": "https://open.spotify.com/track/0UtNS4UMhFfEvp7MjQ1niu"
+    },
+    {
       "added_at": "2026-07-31 00:01:28",
       "album": {
         "name": "Oh The Love (Live)",
@@ -1173,6 +1189,22 @@
       "url": "https://open.spotify.com/track/7ArJZp3hh9Hudq3lWxq7AP"
     },
     {
+      "added_at": "2026-08-07 00:01:07",
+      "album": {
+        "name": "One Touch",
+        "url": "https://open.spotify.com/album/0aCehsq2FMWrBFy30UoNSF"
+      },
+      "artists": [
+        {
+          "name": "Minstrel John Leke",
+          "url": "https://open.spotify.com/artist/4Y9c0hrqtHikpZFb7lif8o"
+        }
+      ],
+      "duration_ms": 125248,
+      "name": "One Touch",
+      "url": "https://open.spotify.com/track/7LRE9XbTrjK69iK0ylO6gX"
+    },
+    {
       "added_at": "2026-07-31 00:01:28",
       "album": {
         "name": "SABI (Live)",
@@ -1289,6 +1321,22 @@
       "url": "https://open.spotify.com/track/6ph0AT53pNrQa3hldrBpZW"
     },
     {
+      "added_at": "2026-08-07 00:01:07",
+      "album": {
+        "name": "Adura",
+        "url": "https://open.spotify.com/album/2DRtJkxM2DjQ7GeeaKTF3y"
+      },
+      "artists": [
+        {
+          "name": "Oluwajenyo",
+          "url": "https://open.spotify.com/artist/5VMLcHJIvePoeIJlsCdPtC"
+        }
+      ],
+      "duration_ms": 408000,
+      "name": "Adura",
+      "url": "https://open.spotify.com/track/1MdzECwninBrvwnVKNl96Q"
+    },
+    {
       "added_at": "2026-07-31 00:01:28",
       "album": {
         "name": "Hot Makossa African Praise (Live)",
@@ -1307,6 +1355,22 @@
       "duration_ms": 1481743,
       "name": "Hot Makossa African Praise - Live",
       "url": "https://open.spotify.com/track/41GinAeFhvteZYozztCgDk"
+    },
+    {
+      "added_at": "2026-08-07 00:01:07",
+      "album": {
+        "name": "Uzube Nami Moyongcwele",
+        "url": "https://open.spotify.com/album/3D5ZTJi5aSulC1crs3YVOp"
+      },
+      "artists": [
+        {
+          "name": "Inqola Yevangeli Gospel Choir",
+          "url": "https://open.spotify.com/artist/0vgDCac0p7wWnXsgIzDBON"
+        }
+      ],
+      "duration_ms": 300329,
+      "name": "Uzube Nami Moyongcwele",
+      "url": "https://open.spotify.com/track/0K6QYs5rY29RORQwX2Boye"
     },
     {
       "added_at": "2026-08-07 00:01:07",

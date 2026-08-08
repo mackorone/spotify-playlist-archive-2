@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: CKay
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,035,304 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,035,477 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Chanel \(feat\. Asake\)](https://open.spotify.com/track/6JVQBlA628faJmvQbeyBHT) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Chanel \(feat\. Asake\)](https://open.spotify.com/album/3ctssLn3Uq8WPudSkMrzWT) | 2:30 |
 | 50 | [Paparazzi](https://open.spotify.com/track/662kXym3EfWBhRvevjYv3g) | [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [Pajel](https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Paparazzi](https://open.spotify.com/album/6vubUxTvzpnhLVGIrLnhoN) | 3:00 |
 
-Snapshot ID: `AAAAAIGe5M7XwenLmI+RH1PyU7JTj5RJ`
+Snapshot ID: `AAAAACBm08u7Q6KZbbVPeyJkcCscp4Pv`

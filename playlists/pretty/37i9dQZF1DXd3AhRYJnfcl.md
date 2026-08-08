@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: مروان بابلو
+> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: شيرين
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,709 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,825 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Shoft Kalam](https://open.spotify.com/track/2HtFhMMHqwdobOT1DQC0Iu) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [HatemBas](https://open.spotify.com/artist/5kapqwWcLC1LL2xjaxEwJU) | [Shoft Kalam](https://open.spotify.com/album/1swHEm5aUSHiK5tGm8ToHX) | 3:29 |
-| 2 | [Getlak](https://open.spotify.com/track/2wBWtiIjpbKjIZGHHi00WY) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Habeitek](https://open.spotify.com/album/7FFkwNEUU5r3NlNSXNCmjH) | 3:56 |
-| 3 | [Msh Fare2ly](https://open.spotify.com/track/1ioPKsnpJvlHtqwENYKL3m) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Merayt El Hob](https://open.spotify.com/album/1yMgg1hKgdEGV7J1Hyt4RN) | 3:44 |
-| 4 | [Garee2a Awy \- A COLORS SHOW](https://open.spotify.com/track/4rf1NRUuO9jRXdRSvsYpHC) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Garee2a Awy \- A COLORS SHOW](https://open.spotify.com/album/7MtphxcCsFNj5S9FY6H4d5) | 2:38 |
-| 5 | [Estanna,](https://open.spotify.com/track/1SIUMgwbaOVdSi5CZ4zOc6) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [Fares Sokar](https://open.spotify.com/artist/748zEAbda3IIsAkIxN62Hw) | [Chokran,](https://open.spotify.com/album/5j43YfTSj3bqyGRcNvw9tB) | 3:32 |
-| 6 | [عمك و عم عمك](https://open.spotify.com/track/0LjbqLUkHL1YxVlKygcZZ9) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [عمك و عم عمك](https://open.spotify.com/album/3ZxFsT3Mo9Aj5sPCpMk4P2) | 3:02 |
-| 7 | [Nano](https://open.spotify.com/track/6yrZoKcoa7EIx7e7uCCmPW) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Nano](https://open.spotify.com/album/3fv8OyR9optht1R8q7ReFk) | 3:36 |
-| 8 | [تباعاً تباعاً](https://open.spotify.com/track/6AT7ehtlpgwBUKIbtAOcOh) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [تباعاً تباعاً](https://open.spotify.com/album/66i3Me0IlH2RVj0QMPrChu) | 4:06 |
+| 1 | [تباعاً تباعاً](https://open.spotify.com/track/6AT7ehtlpgwBUKIbtAOcOh) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [تباعاً تباعاً](https://open.spotify.com/album/66i3Me0IlH2RVj0QMPrChu) | 4:06 |
+| 2 | [Shoft Kalam](https://open.spotify.com/track/2HtFhMMHqwdobOT1DQC0Iu) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [HatemBas](https://open.spotify.com/artist/5kapqwWcLC1LL2xjaxEwJU) | [Shoft Kalam](https://open.spotify.com/album/1swHEm5aUSHiK5tGm8ToHX) | 3:29 |
+| 3 | [Getlak](https://open.spotify.com/track/2wBWtiIjpbKjIZGHHi00WY) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Habeitek](https://open.spotify.com/album/7FFkwNEUU5r3NlNSXNCmjH) | 3:56 |
+| 4 | [Msh Fare2ly](https://open.spotify.com/track/1ioPKsnpJvlHtqwENYKL3m) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Merayt El Hob](https://open.spotify.com/album/1yMgg1hKgdEGV7J1Hyt4RN) | 3:44 |
+| 5 | [Garee2a Awy \- A COLORS SHOW](https://open.spotify.com/track/4rf1NRUuO9jRXdRSvsYpHC) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Garee2a Awy \- A COLORS SHOW](https://open.spotify.com/album/7MtphxcCsFNj5S9FY6H4d5) | 2:38 |
+| 6 | [Estanna,](https://open.spotify.com/track/1SIUMgwbaOVdSi5CZ4zOc6) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [Fares Sokar](https://open.spotify.com/artist/748zEAbda3IIsAkIxN62Hw) | [Chokran,](https://open.spotify.com/album/5j43YfTSj3bqyGRcNvw9tB) | 3:32 |
+| 7 | [عمك و عم عمك](https://open.spotify.com/track/0LjbqLUkHL1YxVlKygcZZ9) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [عمك و عم عمك](https://open.spotify.com/album/3ZxFsT3Mo9Aj5sPCpMk4P2) | 3:02 |
+| 8 | [Nano](https://open.spotify.com/track/6yrZoKcoa7EIx7e7uCCmPW) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Nano](https://open.spotify.com/album/3fv8OyR9optht1R8q7ReFk) | 3:36 |
 | 9 | [لو تعرف](https://open.spotify.com/track/77ZOB2eqNN47xcnNQ08Fws) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [القمر](https://open.spotify.com/album/5RdwG4WQd1R7t6gABF6v2b) | 3:23 |
 | 10 | [Tayeh Fel Amaken](https://open.spotify.com/track/3DWEmKglQcWrxnABIUd36d) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Tayeh Fel Amaken](https://open.spotify.com/album/3jagFWx4p0C3rav6lkHZ32) | 3:49 |
 | 11 | [Eta'akhar Etabna](https://open.spotify.com/track/3r0dbLJAcfplxwmj2ehI7t) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Habeitek](https://open.spotify.com/album/7FFkwNEUU5r3NlNSXNCmjH) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 49 | [Ahla Rasma](https://open.spotify.com/track/4TOTz0WysSu9eI40QT2vZp) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Ahla Rasma](https://open.spotify.com/album/5CziKAAQ10z1hfzr8VfnBO) | 3:36 |
 | 50 | [لا أبالي](https://open.spotify.com/track/61GQ8j8SU63HhNGlGuLg8X) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [لا أبالي](https://open.spotify.com/album/5GXQ90huKrqo2SNjDpJcAz) | 2:54 |
 
-Snapshot ID: `AAAAANxi/esMGCrdIhrJne0MkH0iHtAv`
+Snapshot ID: `AAAAABTrB7UvWORpS2PqT9x7U34+C1qJ`

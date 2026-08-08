@@ -1,12 +1,12 @@
 {
   "description": "Sweet songs for sunny days. ",
-  "num_followers": 1643537,
+  "num_followers": 1643360,
   "original_name": "Summer Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH9LB7QJN+/tYMSi1eJKFXK8jE1u",
+  "snapshot_id": "AAAAABJ+fhpKOlhq9z55JpmkWv7wMhRw",
   "tracks": [
     {
       "added_at": "2026-07-09 23:27:48",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Scott Street",
-      "url": "https://open.spotify.com/track/0jqFM7E9z1PLYtPVCuFwAi"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "Blindfaller",
         "url": "https://open.spotify.com/album/2Ww7LYiKIxQUhLyiXtlppZ"
       },
@@ -1195,6 +1179,38 @@
       "duration_ms": 329893,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/6VfY0sgS4j4JpFQH8kk4XA"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Jockeys of Love",
+        "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "duration_ms": 256629,
+      "name": "Sunday Funday",
+      "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Scott Street",
+      "url": "https://open.spotify.com/track/0jqFM7E9z1PLYtPVCuFwAi"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -1227,22 +1243,6 @@
       "duration_ms": 196279,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/4trAC02hAH0E6u55iHok0u"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
-        "name": "Jockeys of Love",
-        "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
-      },
-      "artists": [
-        {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
-        }
-      ],
-      "duration_ms": 256629,
-      "name": "Sunday Funday",
-      "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
     }
   ],
   "unique_name": "Summer Acoustic",

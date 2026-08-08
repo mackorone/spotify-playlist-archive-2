@@ -4,7 +4,7 @@
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-122 songs - 5 hr 54 min
+123 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [EL QUE LA MUEVE](https://open.spotify.com/track/4a5YwKIrdNsNeiJXsS4yJE) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Ya No Se Llevan Serenatas \(Deluxe\)](https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO) | 2:27 | 2025-10-27 | 2026-02-04 |
 | [El Que Me Cerró la Puerta](https://open.spotify.com/track/1t4U0iirg1JtCJQnRdHuY5) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [El Que Me Cerró la Puerta](https://open.spotify.com/album/0RxCvHCUdi49gwWg83eIcq) | 3:02 | 2024-06-16 | 2024-10-02 |
 | [El Que Me Cerró la Puerta](https://open.spotify.com/track/3meYy69YC7gKmHgTJGq7Q4) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 3:02 | 2024-10-02 | 2025-12-14 |
-| [El Ranchero](https://open.spotify.com/track/4UxemidpNmPXjC7CaycnFs) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 3:55 | 2025-02-04 |  |
+| [El Ranchero](https://open.spotify.com/track/4UxemidpNmPXjC7CaycnFs) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 3:55 | 2025-02-04 | 2026-08-08 |
 | [El Ranchero](https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [El Ranchero](https://open.spotify.com/album/1gMHDCpvHESeXVamqZyaEn) | 3:55 | 2024-03-02 | 2025-02-04 |
 | [El Sapo](https://open.spotify.com/track/00t4yVNqkKf9FLFsCPmTjT) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [100% Corridos Verdes](https://open.spotify.com/album/2MHgqohl0QpnsFLEViC7Q4) | 3:10 | 2026-06-21 |  |
 | [El Sapo \(En Vivo\)](https://open.spotify.com/track/2zW9p9utfRxWoT4usDt8jq) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [100% Corridos Verdes \(En Vivo\)](https://open.spotify.com/album/6wC84ki9uLVWAijIijE02r) | 3:10 | 2025-01-25 | 2025-03-30 |
@@ -128,6 +128,7 @@
 | [Vida Peligrosa \(feat\. Arsenal Efectivo & Omar Ruiz\)](https://open.spotify.com/track/7k7r1GvHZQ06n7fFFLrxCn) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:52 | 2024-01-29 |  |
 | [Vida Peligrosa El Solecito \(En Vivo\)](https://open.spotify.com/track/3dTeCvgPkIvQPP9U4RqrMd) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Legado 7 En Vivo Desde OK Corral](https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP) | 3:01 | 2024-11-19 |  |
 | [Voy A Llegar](https://open.spotify.com/track/2j7IRsBja2cG0wP4gehyVw) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [Voy A Llegar](https://open.spotify.com/album/4MRY4so8usWw44veoMuaM1) | 2:42 | 2024-11-25 | 2025-07-18 |
+| [WACHA](https://open.spotify.com/track/4Pi7Vixpb3L3AVQScwp6uH) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [LEGENDARIO](https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p) | 1:59 | 2026-08-08 |  |
 | [Yo](https://open.spotify.com/track/5rZl5rUeKfkP6MNXfezGYw) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [4\-20\-20](https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD) | 2:04 | 2024-01-29 |  |
 | [Yoni El Maldito](https://open.spotify.com/track/5e8HhHGg48DqrQfjzDPchq) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Un Chamaco Sin Futuro](https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI) | 3:01 | 2024-03-06 | 2024-06-06 |
 

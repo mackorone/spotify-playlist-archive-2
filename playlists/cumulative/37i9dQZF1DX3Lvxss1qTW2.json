@@ -125,6 +125,32 @@
     },
     {
       "album": {
+        "name": "2 MAGARITA (with Blaqbonez & Noon Dave)",
+        "url": "https://open.spotify.com/album/4S0vrhEN2GxjfVVVQR78IB"
+      },
+      "artists": [
+        {
+          "name": "Chocolate City",
+          "url": "https://open.spotify.com/artist/3Ub0Cq3b0cXfIUoWP7Swnv"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Noon Dave",
+          "url": "https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "2 MAGARITA (with Blaqbonez & Noon Dave)",
+      "url": "https://open.spotify.com/track/0P5Ufp4vpPYecwrXomOKdP"
+    },
+    {
+      "album": {
         "name": "20 Degrees",
         "url": "https://open.spotify.com/album/12Vyfh3oSpTNPgdMNNQs1x"
       },
@@ -184,32 +210,6 @@
       "duration_ms": 223689,
       "name": "2:02PM IN LONDON (FREESTYLE)",
       "url": "https://open.spotify.com/track/7fkCiUlTXr6AAHXXtrIRd4"
-    },
-    {
-      "album": {
-        "name": "2MAGARITAS (with Blaqbonez & Noon Dave)",
-        "url": "https://open.spotify.com/album/4S0vrhEN2GxjfVVVQR78IB"
-      },
-      "artists": [
-        {
-          "name": "Chocolate City",
-          "url": "https://open.spotify.com/artist/3Ub0Cq3b0cXfIUoWP7Swnv"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Noon Dave",
-          "url": "https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm"
-        }
-      ],
-      "date_added": "2026-08-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173142,
-      "name": "2MAGARITAS (with Blaqbonez & Noon Dave)",
-      "url": "https://open.spotify.com/track/0P5Ufp4vpPYecwrXomOKdP"
     },
     {
       "album": {

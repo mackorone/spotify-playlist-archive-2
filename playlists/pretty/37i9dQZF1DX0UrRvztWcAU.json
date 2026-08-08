@@ -1,12 +1,12 @@
 {
   "description": "Set the mood of your day with these happy songs.",
-  "num_followers": 1565335,
+  "num_followers": 1565345,
   "original_name": "Wake Up Happy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKn4URuNYbXf6KxtuA+Vrj7peLx0",
+  "snapshot_id": "AAAAAII87LndcjNq8fBxLvDJtJbwnoX/",
   "tracks": [
     {
       "added_at": "2024-07-12 06:06:06",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 267266,
+      "name": "Rock Your Body",
+      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
         "name": "Save Me, San Francisco (Golden Gate Edition)",
         "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 208666,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
-        "name": "Justified",
-        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 267266,
-      "name": "Rock Your Body",
-      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/6SKwQghsR8AISlxhcwyA9R"
     },
     {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
-        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148485,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
-    },
-    {
       "added_at": "2025-05-09 04:00:24",
       "album": {
         "name": "No Strings Attached",
@@ -811,6 +795,22 @@
       "duration_ms": 200400,
       "name": "Bye Bye Bye",
       "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 184841,
-      "name": "HOT TO GO!",
-      "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "Bombs Away",
         "url": "https://open.spotify.com/album/0ecUmBX4469DFW5iWkuHia"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 218227,
       "name": "Geronimo",
       "url": "https://open.spotify.com/track/0qt5f5EL92o8Snzopsv0en"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 184841,
+      "name": "HOT TO GO!",
+      "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Waking Up",
-        "url": "https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 253306,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "Coast To Coast (Expanded Edition)",
         "url": "https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 232826,
       "name": "When You're Looking Like That - Single Remix",
       "url": "https://open.spotify.com/track/5t3oszlshIPTzpAwcCMqgw"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "Waking Up",
+        "url": "https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 253306,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "RUNAWAY",
-        "url": "https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 143264,
-      "name": "RUNAWAY",
-      "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "Lasting Lover",
         "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 218358,
       "name": "Lasting Lover",
       "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "RUNAWAY",
+        "url": "https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 143264,
+      "name": "RUNAWAY",
+      "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
     },
     {
       "added_at": "2024-07-12 06:06:06",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2024-07-12 06:06:06",
       "album": {
-        "name": "Red (Taylor's Version)",
-        "url": "https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 230960,
-      "name": "22 (Taylor's Version)",
-      "url": "https://open.spotify.com/track/2T9WeqSMJJb8YBDHPYGU4p"
-    },
-    {
-      "added_at": "2024-07-12 06:06:06",
-      "album": {
         "name": "Hold My Hand",
         "url": "https://open.spotify.com/album/6uZYkBePCdUP1LltEt9Qin"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 227343,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/1i1rNVtxbE7rdFfpHuNq2j"
+    },
+    {
+      "added_at": "2024-07-12 06:06:06",
+      "album": {
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 230960,
+      "name": "22 (Taylor's Version)",
+      "url": "https://open.spotify.com/track/2T9WeqSMJJb8YBDHPYGU4p"
     },
     {
       "added_at": "2024-07-12 06:06:06",

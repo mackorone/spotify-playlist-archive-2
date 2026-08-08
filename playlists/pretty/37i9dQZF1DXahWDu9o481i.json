@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: MILLENNIUM PARADE",
-  "num_followers": 109388,
+  "num_followers": 110396,
   "original_name": "Editors' Picks: Best Songs of July",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACdI6v8ENdZDzk7H3iBASb7dmFYp",
+  "snapshot_id": "AAAAALCCMzHMg6Low2lFV8h37gDIP+Gl",
   "tracks": [
     {
       "added_at": "2026-08-03 13:46:27",
@@ -453,6 +453,26 @@
       "url": "https://open.spotify.com/track/6iXIvHGsLMJ89TuW1S9E3C"
     },
     {
+      "added_at": "2026-08-03 18:04:25",
+      "album": {
+        "name": "Overthink (feat. Elmiene)",
+        "url": "https://open.spotify.com/album/6eAsTdKN52xg1GVY7cS6zJ"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 207082,
+      "name": "Overthink (feat. Elmiene)",
+      "url": "https://open.spotify.com/track/1MOz16OdpnPYn9gneKxAio"
+    },
+    {
       "added_at": "2026-08-03 13:46:27",
       "album": {
         "name": "SE LLEG\u00d3 EL VERANO",
@@ -517,26 +537,6 @@
       "url": "https://open.spotify.com/track/6TSbyVtg9vgSiJEHct8wOF"
     },
     {
-      "added_at": "2026-08-03 18:04:25",
-      "album": {
-        "name": "Overthink (feat. Elmiene)",
-        "url": "https://open.spotify.com/album/6eAsTdKN52xg1GVY7cS6zJ"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 207082,
-      "name": "Overthink (feat. Elmiene)",
-      "url": "https://open.spotify.com/track/1MOz16OdpnPYn9gneKxAio"
-    },
-    {
       "added_at": "2026-08-03 13:46:27",
       "album": {
         "name": "BESITO",
@@ -551,6 +551,22 @@
       "duration_ms": 179720,
       "name": "BESITO",
       "url": "https://open.spotify.com/track/389oMzXEijK20cCw6pFfYl"
+    },
+    {
+      "added_at": "2026-08-03 13:46:27",
+      "album": {
+        "name": "Lovesweet",
+        "url": "https://open.spotify.com/album/6N28jc2uCBf2mswIramLRa"
+      },
+      "artists": [
+        {
+          "name": "girlsweetvoiced",
+          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
+        }
+      ],
+      "duration_ms": 194149,
+      "name": "Cranberry",
+      "url": "https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O"
     },
     {
       "added_at": "2026-08-03 13:46:27",
@@ -611,38 +627,18 @@
     {
       "added_at": "2026-08-03 13:46:27",
       "album": {
-        "name": "Lovesweet",
-        "url": "https://open.spotify.com/album/6N28jc2uCBf2mswIramLRa"
+        "name": "PEYOTE",
+        "url": "https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl"
       },
       "artists": [
         {
-          "name": "girlsweetvoiced",
-          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
         }
       ],
-      "duration_ms": 194149,
-      "name": "Cranberry",
-      "url": "https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O"
-    },
-    {
-      "added_at": "2026-08-03 13:46:27",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/07uewP6C55i9uDV9B2kdoy"
-      },
-      "artists": [
-        {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
-        },
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 189677,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/0OgIjOcARxnYgm5iL5P6AA"
+      "duration_ms": 187438,
+      "name": "The Art Of Letting Go",
+      "url": "https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F"
     },
     {
       "added_at": "2026-08-03 13:46:27",
@@ -667,18 +663,22 @@
     {
       "added_at": "2026-08-03 13:46:27",
       "album": {
-        "name": "PEYOTE",
-        "url": "https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/07uewP6C55i9uDV9B2kdoy"
       },
       "artists": [
         {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        },
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
         }
       ],
-      "duration_ms": 187438,
-      "name": "The Art Of Letting Go",
-      "url": "https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F"
+      "duration_ms": 189677,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/0OgIjOcARxnYgm5iL5P6AA"
     },
     {
       "added_at": "2026-08-03 13:46:27",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-08-03 13:46:27",
       "album": {
-        "name": "Q: From Where Do Our Primal Instincts Originate? A: MTV!",
-        "url": "https://open.spotify.com/album/5TIQ4cukqmnsi2hzVhwlO0"
-      },
-      "artists": [
-        {
-          "name": "Portraits Of Tracy",
-          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
-        }
-      ],
-      "duration_ms": 234840,
-      "name": "Royal Courts (Great Misfortune)",
-      "url": "https://open.spotify.com/track/2dnaSoyIqAulyklbaj8d9d"
-    },
-    {
-      "added_at": "2026-08-03 13:46:27",
-      "album": {
         "name": "Indu",
         "url": "https://open.spotify.com/album/1EwHY1T5loMqsJh1XOU4x2"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 261651,
       "name": "Indu",
       "url": "https://open.spotify.com/track/6cZ3PHOCMsI9ZPyDhmZk7Q"
+    },
+    {
+      "added_at": "2026-08-03 13:46:27",
+      "album": {
+        "name": "Q: From Where Do Our Primal Instincts Originate? A: MTV!",
+        "url": "https://open.spotify.com/album/5TIQ4cukqmnsi2hzVhwlO0"
+      },
+      "artists": [
+        {
+          "name": "Portraits Of Tracy",
+          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
+        }
+      ],
+      "duration_ms": 234840,
+      "name": "Royal Courts (Great Misfortune)",
+      "url": "https://open.spotify.com/track/2dnaSoyIqAulyklbaj8d9d"
     },
     {
       "added_at": "2026-08-03 13:46:27",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-08-03 13:46:27",
       "album": {
-        "name": "Darken The Doorway",
-        "url": "https://open.spotify.com/album/2z69e6OBVlCzSnZXBwQ4K8"
-      },
-      "artists": [
-        {
-          "name": "Franni Cash",
-          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
-        }
-      ],
-      "duration_ms": 149994,
-      "name": "Darken The Doorway",
-      "url": "https://open.spotify.com/track/55jJqk7yaFYSTRZRqhUaqC"
-    },
-    {
-      "added_at": "2026-08-03 13:46:27",
-      "album": {
         "name": "its not about me!",
         "url": "https://open.spotify.com/album/3EcqQco9MASQejGgqBGGAu"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 171392,
       "name": "its not about me!",
       "url": "https://open.spotify.com/track/02UI5paChJe2PHsi0nikly"
+    },
+    {
+      "added_at": "2026-08-03 13:46:27",
+      "album": {
+        "name": "Darken The Doorway",
+        "url": "https://open.spotify.com/album/2z69e6OBVlCzSnZXBwQ4K8"
+      },
+      "artists": [
+        {
+          "name": "Franni Cash",
+          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
+        }
+      ],
+      "duration_ms": 149994,
+      "name": "Darken The Doorway",
+      "url": "https://open.spotify.com/track/55jJqk7yaFYSTRZRqhUaqC"
     },
     {
       "added_at": "2026-08-03 13:46:27",

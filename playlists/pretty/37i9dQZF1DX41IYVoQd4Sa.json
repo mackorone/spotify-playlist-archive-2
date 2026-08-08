@@ -1,12 +1,12 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e2\u05dc\u05de\u05d4 \u05d2\u05d5\u05d1",
-  "num_followers": 34222,
+  "num_followers": 34233,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAjelh73xCkm3lrkqPOjtZSTNWLO",
+  "snapshot_id": "AAAAAIHmCh7ruCU20CSvmGfe6x/YO2Uu",
   "tracks": [
     {
       "added_at": "2026-08-06 21:00:39",
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-08-06 21:00:39",
       "album": {
+        "name": "\u05db\u05d9\u05e9\u05d5\u05e3 \u05e0\u05d2\u05d3\u05d9",
+        "url": "https://open.spotify.com/album/4pxQv2EYfilzFqDLRpIMMu"
+      },
+      "artists": [
+        {
+          "name": "Monica Sex",
+          "url": "https://open.spotify.com/artist/0xd6DVkSrfCs0C01t85gbj"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "\u05db\u05d9\u05e9\u05d5\u05e3 \u05e0\u05d2\u05d3\u05d9",
+      "url": "https://open.spotify.com/track/6rr6Cdu2KyP3ZbXz6Vpvim"
+    },
+    {
+      "added_at": "2026-08-06 21:00:39",
+      "album": {
         "name": "African Coast",
         "url": "https://open.spotify.com/album/0YTazTE52ZIaUKT4wCd8na"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 182638,
       "name": "African Coast",
       "url": "https://open.spotify.com/track/4AI3JPhTdvyOyiptRTxIqh"
-    },
-    {
-      "added_at": "2026-08-06 21:00:39",
-      "album": {
-        "name": "\u05db\u05d9\u05e9\u05d5\u05e3 \u05e0\u05d2\u05d3\u05d9",
-        "url": "https://open.spotify.com/album/4pxQv2EYfilzFqDLRpIMMu"
-      },
-      "artists": [
-        {
-          "name": "Monica Sex",
-          "url": "https://open.spotify.com/artist/0xd6DVkSrfCs0C01t85gbj"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "\u05db\u05d9\u05e9\u05d5\u05e3 \u05e0\u05d2\u05d3\u05d9",
-      "url": "https://open.spotify.com/track/6rr6Cdu2KyP3ZbXz6Vpvim"
     },
     {
       "added_at": "2026-08-06 21:00:39",
@@ -787,18 +787,18 @@
     {
       "added_at": "2026-08-06 21:00:39",
       "album": {
-        "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9"
+        "name": "\u05d0\u05dd \u05e0\u05d5\u05ea\u05e8\u05e0\u05d5 \u05e0\u05d0\u05d4\u05d1",
+        "url": "https://open.spotify.com/album/6hDdDyAq7IKjtyvQhcbbnC"
       },
       "artists": [
         {
-          "name": "\u05d9\u05d5\u05e9\u05d9",
-          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+          "name": "Dana Berger",
+          "url": "https://open.spotify.com/artist/7Ajb0nIvHDMuwppUJouvFH"
         }
       ],
-      "duration_ms": 197045,
-      "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn"
+      "duration_ms": 213000,
+      "name": "\u05d0\u05dd \u05e0\u05d5\u05ea\u05e8\u05e0\u05d5 \u05e0\u05d0\u05d4\u05d1",
+      "url": "https://open.spotify.com/track/5qTc8bd77U6gGOVnV8ztLG"
     },
     {
       "added_at": "2026-08-06 21:00:39",
@@ -815,6 +815,22 @@
       "duration_ms": 206000,
       "name": "\u05d7\u05e1\u05e8 \u05d0\u05d5\u05e0\u05d9\u05dd",
       "url": "https://open.spotify.com/track/4EitUmWkTVNl38N5PRsrwv"
+    },
+    {
+      "added_at": "2026-08-06 21:00:39",
+      "album": {
+        "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05d5\u05e9\u05d9",
+          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+        }
+      ],
+      "duration_ms": 197045,
+      "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn"
     },
     {
       "added_at": "2026-08-06 21:00:39",
@@ -855,38 +871,18 @@
     {
       "added_at": "2026-08-06 21:00:39",
       "album": {
-        "name": "\u05d0\u05dd \u05e0\u05d5\u05ea\u05e8\u05e0\u05d5 \u05e0\u05d0\u05d4\u05d1",
-        "url": "https://open.spotify.com/album/6hDdDyAq7IKjtyvQhcbbnC"
+        "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
+        "url": "https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni"
       },
       "artists": [
         {
-          "name": "Dana Berger",
-          "url": "https://open.spotify.com/artist/7Ajb0nIvHDMuwppUJouvFH"
+          "name": "Berry Sakharof",
+          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
         }
       ],
-      "duration_ms": 213000,
-      "name": "\u05d0\u05dd \u05e0\u05d5\u05ea\u05e8\u05e0\u05d5 \u05e0\u05d0\u05d4\u05d1",
-      "url": "https://open.spotify.com/track/5qTc8bd77U6gGOVnV8ztLG"
-    },
-    {
-      "added_at": "2026-08-06 21:00:39",
-      "album": {
-        "name": "\u05d6\u05d4 \u05dc\u05d6\u05d4",
-        "url": "https://open.spotify.com/album/7LizDZVPbKTa4PLc7QQJbm"
-      },
-      "artists": [
-        {
-          "name": "Yoni Rechter",
-          "url": "https://open.spotify.com/artist/05YG290otZjn1UMHXjEqxh"
-        },
-        {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
-        }
-      ],
-      "duration_ms": 222325,
-      "name": "\u05d6\u05d4 \u05dc\u05d6\u05d4",
-      "url": "https://open.spotify.com/track/2LBujQB6VtcFuR172QYYUF"
+      "duration_ms": 231000,
+      "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
+      "url": "https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

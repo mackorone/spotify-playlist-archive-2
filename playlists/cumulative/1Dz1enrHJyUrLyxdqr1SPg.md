@@ -4,7 +4,7 @@
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-138 songs - 8 hr 5 min
+139 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [ONE VOICE](https://open.spotify.com/track/5qpj2NFlejTVQ05LK8MQCG) | [Dawn Emily](https://open.spotify.com/artist/2vhuofEhK6zUceJnwojmdT) | [ONE VOICE](https://open.spotify.com/album/59T7sWy45fcqDHkNDYkpgH) | 3:46 | 2025-11-16 |  |
 | [OnePianoSong](https://open.spotify.com/track/2BrkX8FGFTwUgm0oUSOPPa) | [Denyx](https://open.spotify.com/artist/25GZGaXnKxMtkgzNM9l6rW) | [OnePianoSong](https://open.spotify.com/album/2lqRyTbyOWZ1VjM4Asc9uk) | 2:59 | 2024-06-24 |  |
 | [Only on the Dance Floor](https://open.spotify.com/track/59mtmWhtgl7l7YS5jpQoJt) | [MoonDreams Music](https://open.spotify.com/artist/2kqkSGHlIwUek8tVkfUB1N) | [Only on the Dance Floor](https://open.spotify.com/album/1boRT34yoSTHFO0i3YuqdE) | 3:59 | 2023-10-13 |  |
-| [Only on the Dance Floor \- Phoenix Lord Remix \- Extended Mix](https://open.spotify.com/track/5hCMPYvos9CIy3YaqpAZoc) | [MoonDreams Music](https://open.spotify.com/artist/2kqkSGHlIwUek8tVkfUB1N), [Phoenix Lord](https://open.spotify.com/artist/7t2PIR1ijQPCyTyRAtTzWQ) | [Only on the Dance Floor \(Phoenix Lord Remix \- Extended Mix\)](https://open.spotify.com/album/442fYhv7p04cSnPtEZGK9I) | 4:34 | 2024-12-20 |  |
+| [Only on the Dance Floor \- Phoenix Lord Remix \- Extended Mix](https://open.spotify.com/track/5hCMPYvos9CIy3YaqpAZoc) | [MoonDreams Music](https://open.spotify.com/artist/2kqkSGHlIwUek8tVkfUB1N), [Phoenix Lord](https://open.spotify.com/artist/7t2PIR1ijQPCyTyRAtTzWQ) | [Only on the Dance Floor \(Phoenix Lord Remix \- Extended Mix\)](https://open.spotify.com/album/442fYhv7p04cSnPtEZGK9I) | 4:34 | 2024-12-20 | 2026-08-08 |
 | [Our Father](https://open.spotify.com/track/5Vd8tLiD2K06PRKA18eDSp) | [Paul Vens & Friends](https://open.spotify.com/artist/3aNDsN9Nkl1l0dPHCSY3d0) | [Our Father](https://open.spotify.com/album/6ENFdnIuXTVCuIT5JhO9a0) | 3:24 | 2025-03-01 |  |
 | [Pale Shelter](https://open.spotify.com/track/1RLzufJY0HcUCJvyHcOk8V) | [Mal Fantome](https://open.spotify.com/artist/2bc1lfZRNtQD0kKa0wo49Y) | [OK UK](https://open.spotify.com/album/0GEnQQPbmgngYDDxvEz2CM) | 4:12 | 2025-11-06 | 2025-11-24 |
 | [Rainbows](https://open.spotify.com/track/099QNnhccADj016aDyFnfK) | [Rose Finn](https://open.spotify.com/artist/355cfiXBdAFLcLr2ZVWtUz), [Tom Tyson](https://open.spotify.com/artist/1W81LzWQZwPBjjH8uSGmVV) | [Rainbows](https://open.spotify.com/album/2SE9JJtLa3MXV9q0IyctMf) | 3:41 | 2025-08-20 |  |
@@ -104,6 +104,7 @@
 | [Soar High](https://open.spotify.com/track/683skjqtsQnJKx7d5B9X3i) | [ENILSounds](https://open.spotify.com/artist/4OzICHv6oK0sL7gco6JibF) | [Soar High](https://open.spotify.com/album/1dppt1AlfbCtbkWCAdC0S8) | 4:59 | 2023-10-13 |  |
 | [Soar High \- Instrumental](https://open.spotify.com/track/1MIVXFOEyS4vQJdzeeKCpt) | [ENILSounds](https://open.spotify.com/artist/4OzICHv6oK0sL7gco6JibF) | [Soar High \(Instrumental\)](https://open.spotify.com/album/7gQfgBORDDMGA1qavRS3PO) | 4:59 | 2023-10-19 |  |
 | [Somewhere In Time](https://open.spotify.com/track/0FgZoNMZP1Q1fj1M71cMDb) | [Igor Lisul](https://open.spotify.com/artist/3de5NTioEw6SOdFLIQ0HLa) | [Wasted Years](https://open.spotify.com/album/3hFFq8P4RWlra9C8u2umVm) | 2:56 | 2025-06-15 |  |
+| [Soul Flower](https://open.spotify.com/track/7yhFEiJYlJwC0nAgpZvLPe) | [Mojo Flows](https://open.spotify.com/artist/3fpD5vtZUbFpcP8yhA42gZ), [Awon](https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf) | [Soul Flower](https://open.spotify.com/album/32llxqKo294oatISYV8rzu) | 2:53 | 2026-08-07 |  |
 | [Soulful Voices](https://open.spotify.com/track/1ona7GxXxe6QQbbiqXSjf7) | [Sebastian McQueen](https://open.spotify.com/artist/35DV0SZfNbQyrILm1UYHzP) | [Soulful Voices](https://open.spotify.com/album/1qwVe0uGm8SW1j0YHI92lK) | 3:50 | 2025-12-16 | 2026-02-02 |
 | [Spring flow](https://open.spotify.com/track/6bfDxRfn9l0SakKPBu5nEq) | [Tropicalmonroe](https://open.spotify.com/artist/74W4kN8GOt7Gg2fOhXyhTJ) | [Spring flow](https://open.spotify.com/album/6YHSQHMf0xOBDgQK0pOl5c) | 2:33 | 2025-03-16 | 2025-12-17 |
 | [Street Politics](https://open.spotify.com/track/6ytt2PFbLNgXyepsWB5V6R) | [Forwardman](https://open.spotify.com/artist/4biSHaP7pPMoeLLlVluXLR) | [Stranded Future Soho Fugitive](https://open.spotify.com/album/0xaATkbGSU84aL8zvRW2Mm) | 3:22 | 2024-06-24 |  |

@@ -4,7 +4,7 @@
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: AO Cubo, 2metro, Nesk Only, Brunno Ramos
 
-525 songs - 1 day 3 hr 15 min
+526 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Coroa Da Vida](https://open.spotify.com/track/41PoX50ZYi7mP4bs5TQ5wC) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [O Plano](https://open.spotify.com/album/5EKddscQOerugFYyBWvuMe) | 3:51 | 2026-05-08 |  |
 | [CQC](https://open.spotify.com/track/4JkzJn1FnabMbGAmlQ3A4Y) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [CQC](https://open.spotify.com/album/7L9uEDiFsqSZGB2F5KBynC) | 3:01 | 2022-03-22 | 2023-12-09 |
 | [Crises](https://open.spotify.com/track/3vuXb0bz3HKp2Iey3vOpaX) | [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Urban Music](https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY) | [Crises](https://open.spotify.com/album/27V8oYBFDgEtNN8Gaqukfe) | 2:24 | 2023-10-20 |  |
-| [Cristo E Mais Nada](https://open.spotify.com/track/78LdRsvfvQ43WScLolnhD9) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Cristo E Mais Nada](https://open.spotify.com/album/1S7DxfhcxZncCq7SKqm9iQ) | 4:51 | 2025-06-02 |  |
+| [Cristo E Mais Nada](https://open.spotify.com/track/78LdRsvfvQ43WScLolnhD9) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Cristo E Mais Nada](https://open.spotify.com/album/1S7DxfhcxZncCq7SKqm9iQ) | 4:51 | 2025-06-02 | 2026-08-08 |
 | [Cristo Faz a Wave](https://open.spotify.com/track/4ULVDlXFFMSBwpNcLQ9fzz) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [MATXS](https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y) | [Cristo Faz a Wave](https://open.spotify.com/album/2HHraXPwYlN1vabl4zfnSv) | 3:00 | 2023-09-01 |  |
 | [CRISTO FAZ A WAVE](https://open.spotify.com/track/7qA4ovLWETJrwMXOAa7X00) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [MATXS](https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y) | [CRISTO FAZ A WAVE](https://open.spotify.com/album/3cnklZJoW7feW3nF9pZYWL) | 3:00 | 2023-09-15 | 2024-04-19 |
 | [Cristo Mudou Minha História](https://open.spotify.com/track/76rss0xwWugwKZucjvxHMD) | [Noventa](https://open.spotify.com/artist/3yECzJfU6iMdOknE2zPCFK), [Vk Mac](https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs) | [Cristo Mudou Minha História](https://open.spotify.com/album/2kKd9MHczEkkLOwOBm68TS) | 2:49 | 2024-05-10 | 2024-07-13 |
@@ -234,6 +234,7 @@
 | [Iluminado](https://open.spotify.com/track/1y1CYkm1NQ8porSxBVK4B1) | [CP no Beat](https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW), [Crissy](https://open.spotify.com/artist/2k1ggJ7C5gZvEKOyfjgduC), [Xandrê](https://open.spotify.com/artist/7v3aW9XzyzamnU6DAC6vE6), [Blessbls](https://open.spotify.com/artist/3ZgYOtWHGSmkJuq503UMtN) | [Iluminado](https://open.spotify.com/album/3abfGJFzmLauIG9MMgKVCj) | 3:32 | 2023-12-22 | 2024-03-02 |
 | [Iluminado$: Luz e Sal](https://open.spotify.com/track/4os8XnbX6uB4TMao2LCtIn) | [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV), [Diego Ddl](https://open.spotify.com/artist/5hB4mr0SPo58rqZejiZ9u5) | [Iluminado$: Luz e Sal](https://open.spotify.com/album/4Ei5Vefy8Lm2iH2TZB6mXc) | 2:56 | 2023-02-25 | 2023-03-18 |
 | [Imersum](https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS) | [Imersum](https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ) | 2:50 | 2022-03-22 | 2023-09-02 |
+| [Imperativo Categórico](https://open.spotify.com/track/31xZhLtxYgefEUXVYKnkj4) | [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI) | [Imperativo Categórico](https://open.spotify.com/album/0kIoZLAk1sAyDCoQl7mpM0) | 2:34 | 2026-08-07 |  |
 | [Imperfeito](https://open.spotify.com/track/6FYy3jpDumHEYTiEk7zF2S) | [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00) | [Imperfeito](https://open.spotify.com/album/3AoNZ1WIUMA7tlZomjZciU) | 3:06 | 2025-12-19 | 2026-05-08 |
 | [Impostor](https://open.spotify.com/track/3G4WJPxXdI7EB4UR3H3OZV) | [Christian Beaver](https://open.spotify.com/artist/2CyK0BBUAT5zi2ITLK5xPB), [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV) | [Impostor](https://open.spotify.com/album/5O81T9io3EMHKyUSt2pYTC) | 2:29 | 2022-03-22 | 2022-08-20 |
 | [Inabalável](https://open.spotify.com/track/1eLzqT8D2bwtfVEBWsoFTj) | [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00) | [Inabalável](https://open.spotify.com/album/60GyXDIQsLsCm0n7mLOHHT) | 2:42 | 2025-04-28 |  |

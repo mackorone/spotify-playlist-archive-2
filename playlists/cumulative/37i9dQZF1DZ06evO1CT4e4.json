@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 624893,
       "name": "Kanon Pokajanen: Gebet nach dem Kanon",
       "url": "https://open.spotify.com/track/1Z5rNo6MKfGMetUfLgsij0"
@@ -1542,6 +1542,28 @@
       "duration_ms": 449386,
       "name": "Littlemore Tractus",
       "url": "https://open.spotify.com/track/5O2hS75kNiRorTT6o6PrmP"
+    },
+    {
+      "album": {
+        "name": "Summa",
+        "url": "https://open.spotify.com/album/2BsayudJ3kdDFhsxUsT0Hh"
+      },
+      "artists": [
+        {
+          "name": "Cello Octet Amsterdam",
+          "url": "https://open.spotify.com/artist/114TP69VjPUQpzdkNXEMrS"
+        },
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86124,
+      "name": "Missa Brevis - Sanctus",
+      "url": "https://open.spotify.com/track/3iUFTyDSMFumFUbyyfKsAB"
     },
     {
       "album": {

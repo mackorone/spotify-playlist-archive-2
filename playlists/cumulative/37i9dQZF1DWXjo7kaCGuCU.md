@@ -4,7 +4,7 @@
 
 > R&B from around the world
 
-109 songs - 6 hr 7 min
+110 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Boy in the Matrix](https://open.spotify.com/track/6wZcPL2h8uFXXiSgxA2hSM) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Boy in the Matrix](https://open.spotify.com/album/60uMtz6oKaUg9aYpPy3AOL) | 2:47 | 2026-05-12 |  |
 | [Break](https://open.spotify.com/track/1LtKgnc7y3jW4bkkYozDDc) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [Break](https://open.spotify.com/album/701nJOG1dAwQ0VYSGk3zbt) | 2:10 | 2026-05-12 |  |
 | [Can't Leave Alone \(feat\. Avenoir & Maz B\)](https://open.spotify.com/track/3bGfuGWywg85koHG8nturm) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu), [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb), [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH), [86](https://open.spotify.com/artist/2o89WDAOoTqUO7AA9hvh1Q) | ['02](https://open.spotify.com/album/4G1Bike7xA2biArlI5WNzO) | 3:33 | 2026-05-12 |  |
-| [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 | 2026-05-12 |  |
+| [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 | 2026-05-12 | 2026-08-08 |
 | [Cardio](https://open.spotify.com/track/5Hjw83KgaBg0WGjG77ZOD7) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Chronosick](https://open.spotify.com/album/758TBtA1Agn07O0qNfmXia) | 2:37 | 2026-05-12 |  |
 | [CHAMPAGNE CHERRY](https://open.spotify.com/track/5ZQqPXn56H7CLDpqIb1jDl) | [DAKEEZ](https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu), [Afios](https://open.spotify.com/artist/72JdiplJRSQimk2zqHnBUZ) | [ONEIRA](https://open.spotify.com/album/0UA6mnToII4FSukIY7bLMe) | 2:49 | 2026-05-12 |  |
 | [Citadelle](https://open.spotify.com/track/1oOuVGKCjRYyyAZHfKy1yp) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Citadelle](https://open.spotify.com/album/3Sxw8ahHnHwdWSCYIol8md) | 2:45 | 2026-05-12 |  |
@@ -42,6 +42,7 @@
 | [Comme je l'aime](https://open.spotify.com/track/4gZthDLQ1GCHobT6ZapPd2) | [Nilusi](https://open.spotify.com/artist/4rxpqnO7FmykFDtCe5YIhf) | [Lettre à l'Univers](https://open.spotify.com/album/01wqFQmJuBRCDLAP3gvJxm) | 3:23 | 2026-05-12 |  |
 | [Como Es Que Se Hace](https://open.spotify.com/track/2L1lCDnKE9WcnTEre5QKCP) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Como Es Que Se Hace](https://open.spotify.com/album/0HvCpNq9SOzytIHAMIGgl8) | 3:25 | 2026-05-12 |  |
 | [Company](https://open.spotify.com/track/0BPKZETsuOOHB7UHFDEGzk) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Company](https://open.spotify.com/album/16US5VNFARXZp8J4DjPHvT) | 3:39 | 2026-05-12 |  |
+| [Cry Ugly](https://open.spotify.com/track/61p1mfca6giD6MP75hEu5m) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [THERAPY AT THE CLUB](https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf) | 2:39 | 2026-08-07 |  |
 | [DameLove \(feat\. Cuco\)](https://open.spotify.com/track/2ALEhWrcpAdOC7YYJBQIre) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:46 | 2026-05-12 |  |
 | [Day One](https://open.spotify.com/track/6wldZLtGqvQ8vUiy11FtTt) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Day One](https://open.spotify.com/album/4jg8dWycV6IFL8kEUKVoCw) | 2:27 | 2026-05-12 |  |
 | [Decile \- Remix](https://open.spotify.com/track/6vSUJ3N18GyGxxFOjeSF36) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [B.A.E.Z](https://open.spotify.com/album/3SAySuvjZwtjRF5gkHpkML) | 2:57 | 2026-05-12 | 2026-07-25 |

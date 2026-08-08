@@ -1,13 +1,29 @@
 {
-  "description": "New music from FLO, Ernie Zakri, Red Velvet, \u8521\u6069\u96e8 Priscilla Abby, Layla Sania, Vanessa Reynauld, and more!",
-  "num_followers": 75028,
+  "description": "New music from FLO, Ernie Zakri, Stray Kids, Red Velvet, \u8521\u6069\u96e8 Priscilla Abby, Layla Sania, Vanessa Reynauld, and more!",
+  "num_followers": 75144,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD3eWQF2QYop4zCF/VsrLe4KjE3B",
+  "snapshot_id": "AAAAAGOIPyeZp7cQYT+Yb/McPxitHSbg",
   "tracks": [
+    {
+      "added_at": "2026-08-07 04:01:09",
+      "album": {
+        "name": "THIS & THAT",
+        "url": "https://open.spotify.com/album/46TYlDjLrEsOLFgxfxNiUy"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "This & That",
+      "url": "https://open.spotify.com/track/7AN7dJCtHqbL7f76QGyraa"
+    },
     {
       "added_at": "2026-08-06 16:00:36",
       "album": {
@@ -55,6 +71,26 @@
       "duration_ms": 198719,
       "name": "Sejambak Bunga",
       "url": "https://open.spotify.com/track/4CYGBC1ElT0ZiL0tDa4DSJ"
+    },
+    {
+      "added_at": "2026-08-07 04:01:09",
+      "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 220600,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF"
     },
     {
       "added_at": "2026-08-06 16:00:36",
@@ -355,6 +391,22 @@
       "duration_ms": 135000,
       "name": "FLIRTY",
       "url": "https://open.spotify.com/track/1V0U6NEryn8VzQFTLwX0dk"
+    },
+    {
+      "added_at": "2026-08-07 04:01:09",
+      "album": {
+        "name": "bad pieces",
+        "url": "https://open.spotify.com/album/3vyo8Ev3o6olStojgqpS6U"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 191910,
+      "name": "courage",
+      "url": "https://open.spotify.com/track/1GxXymBkVQJtSPZhiyl2wZ"
     },
     {
       "added_at": "2026-08-06 16:00:36",
@@ -979,6 +1031,22 @@
       "duration_ms": 203234,
       "name": "2002",
       "url": "https://open.spotify.com/track/68Djj6rG9XWVK9NB8LnLU1"
+    },
+    {
+      "added_at": "2026-08-07 04:01:09",
+      "album": {
+        "name": "<Hyper-Ego>",
+        "url": "https://open.spotify.com/album/4WNAVLZjqWurf55QfdHldD"
+      },
+      "artists": [
+        {
+          "name": "ARTMS",
+          "url": "https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Blue Blood",
+      "url": "https://open.spotify.com/track/4rbJwK22VEJd4uQLTCUXn1"
     },
     {
       "added_at": "2026-08-06 16:00:36",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-09",
-  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Mosmo y Maximo Grado en portada \ud83c\udf39",
+  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Justin Morales en portada \ud83c\udf39",
   "name": "La Miscel\u00e1nea",
   "tracks": [
     {
@@ -936,6 +936,24 @@
       "duration_ms": 180874,
       "name": "Brillas - En Vivo",
       "url": "https://open.spotify.com/track/6qUSjUbKpRiaxizCVYEKII"
+    },
+    {
+      "album": {
+        "name": "Buchanans",
+        "url": "https://open.spotify.com/album/3scizdgROa6VlPaQJpSETV"
+      },
+      "artists": [
+        {
+          "name": "Justin Morales",
+          "url": "https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157526,
+      "name": "Buchanans",
+      "url": "https://open.spotify.com/track/3nHciQqhpYkxE0ehBPIl0F"
     },
     {
       "album": {
@@ -2817,6 +2835,24 @@
     },
     {
       "album": {
+        "name": "Feliz No Aniversario",
+        "url": "https://open.spotify.com/album/0tt8WflXhlj2zogQsyG4XZ"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178999,
+      "name": "Feliz No Aniversario",
+      "url": "https://open.spotify.com/track/0rFHlRmZMTOLAzmkfoTlXN"
+    },
+    {
+      "album": {
         "name": "FIRST LOVE",
         "url": "https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0"
       },
@@ -3344,6 +3380,28 @@
       "duration_ms": 140586,
       "name": "Jordan Fly",
       "url": "https://open.spotify.com/track/46E20RV1VLUJqidEfXP1UM"
+    },
+    {
+      "album": {
+        "name": "Juanita Flor de Walamo",
+        "url": "https://open.spotify.com/album/2kw3F4FlZIRUTRuPLYTGiR"
+      },
+      "artists": [
+        {
+          "name": "Edwin Garcia",
+          "url": "https://open.spotify.com/artist/53kZNnikATba328qm2oHyF"
+        },
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195065,
+      "name": "Juanita Flor de Walamo",
+      "url": "https://open.spotify.com/track/0tCiR8wXSWgLzsOme4Zos4"
     },
     {
       "album": {
@@ -4598,6 +4656,24 @@
       "duration_ms": 182647,
       "name": "Mata Problema",
       "url": "https://open.spotify.com/track/77y9hQmtoYCvZ7Z0XmMxax"
+    },
+    {
+      "album": {
+        "name": "MAYDAY",
+        "url": "https://open.spotify.com/album/3CzFEoSPC9MDTwaQZR2ap3"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218106,
+      "name": "MAYDAY",
+      "url": "https://open.spotify.com/track/5tpoc6yo7yjxQEnAOPbs0B"
     },
     {
       "album": {
@@ -8472,6 +8548,28 @@
       "duration_ms": 221578,
       "name": "YA VALI\u00d3",
       "url": "https://open.spotify.com/track/6qWCZ3lMArAj37bWeeX4tf"
+    },
+    {
+      "album": {
+        "name": "Yo Era Poes\u00eda",
+        "url": "https://open.spotify.com/album/18ssoZ7EPMn7mLqV0bW2j5"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194923,
+      "name": "Yo Era Poes\u00eda",
+      "url": "https://open.spotify.com/track/75icZs6N7GzEAY7FNL8fZV"
     },
     {
       "album": {

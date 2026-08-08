@@ -361,6 +361,24 @@
     },
     {
       "album": {
+        "name": "Agindo Diferente (Ao Vivo)",
+        "url": "https://open.spotify.com/album/54yBgdjOqnR1f1TEHo1vdx"
+      },
+      "artists": [
+        {
+          "name": "Eli\u00e3 Oliveira",
+          "url": "https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323188,
+      "name": "Agindo Diferente - Ao Vivo",
+      "url": "https://open.spotify.com/track/514iKhGRzeO2zNogmHMgoY"
+    },
+    {
+      "album": {
         "name": "Aguenta Firme",
         "url": "https://open.spotify.com/album/1BZzOyKEOWRvtkePWXcYYr"
       },
@@ -2580,7 +2598,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 289313,
       "name": "Jo\u00e3o 20 + pra Sempre - Ao Vivo",
       "url": "https://open.spotify.com/track/1S9fKs0sAdZPlL8ViOARnS"
@@ -2598,7 +2616,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 279104,
       "name": "Jo\u00e3o Viu / Al\u00e9m do Rio Azul - Ao Vivo",
       "url": "https://open.spotify.com/track/2w6BUVGMztDT0vGdRFzhkD"
@@ -2968,6 +2986,28 @@
       "duration_ms": 292275,
       "name": "Mulheres de F\u00e9",
       "url": "https://open.spotify.com/track/5H3fUs5bt81ka7i8dZWQbx"
+    },
+    {
+      "album": {
+        "name": "Na Face de Deus",
+        "url": "https://open.spotify.com/album/4SqyF7EMwS0LEzX8MJv2jy"
+      },
+      "artists": [
+        {
+          "name": "Vanderl\u00e9ia Moura",
+          "url": "https://open.spotify.com/artist/67dsr5fU0B1Vn3isdmfmcC"
+        },
+        {
+          "name": "Matriz Music",
+          "url": "https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259159,
+      "name": "Na Face de Deus",
+      "url": "https://open.spotify.com/track/5gEqIlsNrfEFIXWu6lqaak"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax \ud83c\udfb7 Los de la Marka en portada \ud83d\udcf8",
+  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax \ud83c\udfb7 La Fiera de Ojinaga en portada \ud83d\udcf8",
   "name": "Norte\u00f1o Sax",
   "tracks": [
     {
@@ -450,7 +450,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 167399,
       "name": "AMOR SORPRESA",
       "url": "https://open.spotify.com/track/35lJyMjmBeBAY5zBuwwHI7"
@@ -807,6 +807,24 @@
     },
     {
       "album": {
+        "name": "Besos Pendientes",
+        "url": "https://open.spotify.com/album/3UiJZvZHh5VNDX8HM5C0oJ"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132746,
+      "name": "Besos Pendientes",
+      "url": "https://open.spotify.com/track/0mxWQ2nVDq7m2QrKLewLIe"
+    },
+    {
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/5OCwrv3QDZ49BpNnhVDu49"
       },
@@ -938,6 +956,28 @@
       "duration_ms": 173013,
       "name": "B\u00fascame",
       "url": "https://open.spotify.com/track/2vM3jK9t1YqdydOgS3T1b4"
+    },
+    {
+      "album": {
+        "name": "C Termin\u00f3",
+        "url": "https://open.spotify.com/album/2UhgCdMYRs9oVLvZCsXl8d"
+      },
+      "artists": [
+        {
+          "name": "La Alianza Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw"
+        },
+        {
+          "name": "Pacto Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/1zuU3rF6Dd7I1Sx2084Dyg"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179818,
+      "name": "C Termin\u00f3",
+      "url": "https://open.spotify.com/track/0qg6Mqy41vfvIvhkEdk7pq"
     },
     {
       "album": {
@@ -1252,7 +1292,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 191123,
       "name": "Como Se Supone",
       "url": "https://open.spotify.com/track/3HzNIyT39VtoK2ZBqsxH4A"
@@ -1546,7 +1586,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 142695,
       "name": "CUANDO PIENSO EN TI",
       "url": "https://open.spotify.com/track/5o5Mu6L1oTCAhyt1jeXjX7"
@@ -1586,6 +1626,28 @@
       "duration_ms": 220479,
       "name": "Cuando Te Acuerdes De Mi",
       "url": "https://open.spotify.com/track/7kP3Wdr3c9vVDItVaEB2Gf"
+    },
+    {
+      "album": {
+        "name": "Cuando te vi",
+        "url": "https://open.spotify.com/album/5H36rBeI86dn9t7I5aIIfV"
+      },
+      "artists": [
+        {
+          "name": "Kecura Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/4gPjpt6yKXmK9Ljiog1zaY"
+        },
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Cuando te vi",
+      "url": "https://open.spotify.com/track/6SYo6CYaZrzqKiimPr7ycb"
     },
     {
       "album": {
@@ -1925,6 +1987,24 @@
     },
     {
       "album": {
+        "name": "Ebrio De Amor",
+        "url": "https://open.spotify.com/album/5XLBMSCBIDChGKAxoZ5xKc"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193384,
+      "name": "Ebrio De Amor",
+      "url": "https://open.spotify.com/track/5apDeTBCcehivjDcK3iQ3a"
+    },
+    {
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/58x41YRex4WzbE9zvzfaU5"
       },
@@ -2066,7 +2146,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 162718,
       "name": "El Amor De Mis D\u00edas",
       "url": "https://open.spotify.com/track/1llIfS2tjg70ndfKmRE78b"
@@ -2619,6 +2699,24 @@
     },
     {
       "album": {
+        "name": "Esperando Flores",
+        "url": "https://open.spotify.com/album/0rKoJ5JOtn6XbTnEqkUYgh"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Nuevo Amanecer",
+          "url": "https://open.spotify.com/artist/5PYRJEcuO4GwG3LEiowJQc"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165205,
+      "name": "Esperando Flores",
+      "url": "https://open.spotify.com/track/022h7hOPwZGR0t16o01Xfo"
+    },
+    {
+      "album": {
         "name": "Esta Es Tu Cancion",
         "url": "https://open.spotify.com/album/4WMijqBebnHz9meDSvmrAR"
       },
@@ -2648,7 +2746,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 225314,
       "name": "Estoy Aqu\u00ed",
       "url": "https://open.spotify.com/track/02ETb44PXYJdTqoD9I5CRa"
@@ -2970,7 +3068,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 185120,
       "name": "Houston",
       "url": "https://open.spotify.com/track/4S57fDL71xvyp7Yafqmi1i"
@@ -3251,6 +3349,24 @@
     },
     {
       "album": {
+        "name": "La canci\u00f3n del beso \u00e1rabe",
+        "url": "https://open.spotify.com/album/4Arh677rigGTB6abyuUZFZ"
+      },
+      "artists": [
+        {
+          "name": "Los Rugar",
+          "url": "https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176111,
+      "name": "La canci\u00f3n del beso \u00e1rabe",
+      "url": "https://open.spotify.com/track/0ukSGcOsxjKKvK5afPFgQ1"
+    },
+    {
+      "album": {
         "name": "La Charola",
         "url": "https://open.spotify.com/album/21VKO3zVJdHA6zob8irZtr"
       },
@@ -3262,7 +3378,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 201333,
       "name": "La Charola",
       "url": "https://open.spotify.com/track/4P1e0dWh3XE3kZlkPtRHMA"
@@ -3932,7 +4048,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 154610,
       "name": "Lo Que Nunca Ser\u00e1",
       "url": "https://open.spotify.com/track/19E1TxQmNeyzsnsP2BOamR"
@@ -4412,7 +4528,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 326474,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/1ZWzrHBS2C1QWzs0VuVgw0"
@@ -4706,7 +4822,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 164400,
       "name": "NADIE",
       "url": "https://open.spotify.com/track/3PvmAmHCoCQvTZNtFsBemj"
@@ -5632,7 +5748,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 180280,
       "name": "Prov\u00f3came (En Vivo 45 Aniversario)",
       "url": "https://open.spotify.com/track/2JHJxI7O6s0uxajxWBkXLU"
@@ -6012,7 +6128,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 153885,
       "name": "Se Rindi\u00f3 El Amor",
       "url": "https://open.spotify.com/track/4ZJs70EwkQqgEHUFq4vjtM"
@@ -6034,7 +6150,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 161178,
       "name": "Se Te Da",
       "url": "https://open.spotify.com/track/2EZcmJy5JuKVlQJhHk4TRo"
@@ -6404,7 +6520,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 163136,
       "name": "Solo Quer\u00eda Decirte Que Te Amo",
       "url": "https://open.spotify.com/track/1qb2MyyscTL8aJmWOMlf3l"
@@ -6422,7 +6538,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 213829,
       "name": "Son de Amoltepec",
       "url": "https://open.spotify.com/track/7euW909xyl6oL8fXgGg0Bz"
@@ -6574,7 +6690,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 158848,
       "name": "Te Esperar\u00e9",
       "url": "https://open.spotify.com/track/5t1jwKd8l2Cu45iLVgkWyD"
@@ -7204,7 +7320,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 173933,
       "name": "Ven, Te Invito",
       "url": "https://open.spotify.com/track/56uPZjcQ3GzKP9ZnpO5n47"
@@ -7425,6 +7541,28 @@
     },
     {
       "album": {
+        "name": "WORDS",
+        "url": "https://open.spotify.com/album/7gYR6qRJpTxP8Vvz5NIuDn"
+      },
+      "artists": [
+        {
+          "name": "\u00cdMPETU DE GRANDES",
+          "url": "https://open.spotify.com/artist/4hSKx2S9RjmxyzsfVtDsSl"
+        },
+        {
+          "name": "Estrategia Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/4vIk33tlQ0uZrRguQxhwcO"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218496,
+      "name": "WORDS",
+      "url": "https://open.spotify.com/track/6OR6Vuiuu9Ty40wOMsCxzO"
+    },
+    {
+      "album": {
         "name": "Olv\u00eddala",
         "url": "https://open.spotify.com/album/6055KSpuhGP02JmbUIYRsh"
       },
@@ -7526,7 +7664,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 192170,
       "name": "Ya Acab\u00f3",
       "url": "https://open.spotify.com/track/07O9tKJuQxx8w5Sqowc9dM"
@@ -7668,6 +7806,24 @@
       "duration_ms": 159707,
       "name": "ZOMBIE",
       "url": "https://open.spotify.com/track/1WtZlFw2PcWFD0h1NoTS3i"
+    },
+    {
+      "album": {
+        "name": "\u00bfC\u00f3mo Le Voy A Hacer?",
+        "url": "https://open.spotify.com/album/2Ocm32SZQ12fPpocNoIKyZ"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177032,
+      "name": "\u00bfC\u00f3mo Le Voy A Hacer?",
+      "url": "https://open.spotify.com/track/1wseArVMD9H4NU3dl2RxJs"
     },
     {
       "album": {

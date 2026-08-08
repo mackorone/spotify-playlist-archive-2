@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 
 > lo mejor nunca se sube
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,386,196 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,386,149 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 | 49 | [REAL GANGSTA LOVE](https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 2:25 |
 | 50 | [Amor](https://open.spotify.com/track/0hkoQgoqic1qQtxPOudmrx) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Memorias <3](https://open.spotify.com/album/7I35dC3g7n1Uv7h1Yn7EXA) | 3:22 |
 
-Snapshot ID: `AAAAABWWZGfjs2Syo46Lt91SRl63jM8x`
+Snapshot ID: `AAAAAFPuduwuctAcLHpKYUAu/FwPYbOi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,778 likes - 48 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,834 likes - 48 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 47 | [La borrachera](https://open.spotify.com/track/6j9DqgqLwLFSEmK4gWs7NY) | [Pupy y Los Que Son Son](https://open.spotify.com/artist/69rb3HVHXHjBhiJbAmLjZH) | [Pupy y Los que Son Son Best Of](https://open.spotify.com/album/0l0CJFqNupdBgwV8m9xLwi) | 5:41 |
 | 48 | [Olvida Que Te Olvide](https://open.spotify.com/track/7f9kaG29f9CfyIwHpNJGOH) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [Olvida Que Te Olvide](https://open.spotify.com/album/6EwixuIBcRFYSZPoxeS0ng) | 3:46 |
 
-Snapshot ID: `AAAAAJywTgFtGp4L/F4CDAX7/JadRSh4`
+Snapshot ID: `AAAAAKx3jzDsky0GCtUpu664CMHEPGEG`

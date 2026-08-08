@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:2QhdFVWTX2oEpTJjYm8iv0">Ania Wyszkoni</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,737 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,752 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [Seen It Land](https://open.spotify.com/track/3yRrZfp1rYEOq4a95cAfyj) | [Rosa Vertov](https://open.spotify.com/artist/1jkVkjpQ7WpH3MIT3IESUf) | [Seen It Land](https://open.spotify.com/album/5UslOtiNVzKKhmZus67qK8) | 5:01 |
 | 50 | [Zostawiam](https://open.spotify.com/track/5NwuChRS3XXxxCj9Agc1zU) | [Weronika Juszczak](https://open.spotify.com/artist/2nMfo5WgsomaC0Zhnjk5jS) | [Zostawiam](https://open.spotify.com/album/5jbshjYelXWW1pEpHyrcal) | 2:46 |
 
-Snapshot ID: `AAAAAEodnv/t3dlDQxlRqdaoDwsYxR0V`
+Snapshot ID: `AAAAAA/fx3JnexJkIHlbOU57lyTb8ZZk`

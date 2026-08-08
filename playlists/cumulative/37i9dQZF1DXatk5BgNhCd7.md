@@ -4,7 +4,7 @@
 
 > Todo lo nuevo de música tropical 📸  Dyango & Damas Gratis
 
-5,028 songs - 12 day 2 hr 17 min
+5,029 songs - 12 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1203,6 +1203,7 @@
 | [Dile que la Quiero](https://open.spotify.com/track/5JDqJuslheYIOnDCBFE336) | [EL GAME](https://open.spotify.com/artist/5HC5cz4KUbZT2X3aQ6xO6q), [Forest](https://open.spotify.com/artist/2j6Up11EpEUKQ5yIfFXhdU), [Killua97](https://open.spotify.com/artist/404oLEm20rXDCHi61f6uvg) | [Dile que la Quiero](https://open.spotify.com/album/3rQVlHeBR0hQ3M0EV1eBqY) | 3:14 | 2025-04-25 | 2025-05-17 |
 | [Dime](https://open.spotify.com/track/0ORE17PtdnEqZalEbseGXQ) | [Grupo Caneo](https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z) | [Dime](https://open.spotify.com/album/1xxrbkmVG3XpcmPGqG7L3L) | 4:40 | 2026-05-22 |  |
 | [Dime](https://open.spotify.com/track/6NuyWrCUmOsoI7QY2ctvtD) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Dime](https://open.spotify.com/album/1N3cFEsXs9SKnnW4YE0Ks5) | 2:59 | 2024-12-06 | 2024-12-21 |
+| [DIME](https://open.spotify.com/track/7KiJaKT4wpK5WzDVtZODPL) | [Tony El Golden Boy](https://open.spotify.com/artist/4wxWSbH2lE1GDEtaBvykBM) | [DIME](https://open.spotify.com/album/2Tty0z01nuQrhoP1XZqQnt) | 2:25 | 2026-08-07 |  |
 | [Dime](https://open.spotify.com/track/1ad3jaETpG3XnhWAZe86Yv) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1), [Agrupación los Seniors la Nueva Potencia](https://open.spotify.com/artist/1yM6BcnkFybfKxi9pfg5Zb) | [Dime](https://open.spotify.com/album/3soqGyMTZnPvgaXvb2oIJn) | 4:04 | 2024-07-26 | 2024-08-03 |
 | [Dime \- Toy Selectah Cumbia Remix](https://open.spotify.com/track/5CrIhnbLia8Fqqr4d8UEi1) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Toy Selectah](https://open.spotify.com/artist/6iruqoplIhH7VmvMQV1wDM) | [Dime \(Toy Selectah Cumbia Remix\)](https://open.spotify.com/album/69ZTclRzkCfvGrSsSohSEA) | 3:25 | 2024-06-07 | 2024-06-22 |
 | [Dime Cómo Se Siente](https://open.spotify.com/track/3EJ6TrlfKKiP1PMZhjuT2r) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Dime Cómo Se Siente](https://open.spotify.com/album/4wMRyvWczYmzYRBU6cacKJ) | 2:40 | 2023-10-06 | 2023-10-16 |

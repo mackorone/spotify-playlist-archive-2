@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 
 > County's best like you've never heard before\. Cover: Riley Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,404 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,401 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 79 | [Hands On The Wheel \(Feat\. Particle Kid\) \(Recorded at Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/1c0PPeV09JNqhLsM4mC7Mx) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Particle Kid](https://open.spotify.com/artist/5dwBB4lz6Gmuo8v7cgaFli) | [Spotify Singles](https://open.spotify.com/album/1WTJCdZuGWrQcLJdv2jeVu) | 4:17 |
 | 80 | [Smalltown Boy \- Spotify Singles](https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Smalltown Boy \(Spotify Singles\)](https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL) | 5:17 |
 
-Snapshot ID: `AAAAAGe8bR2SZmz4wwe6YXzct3CY5bVf`
+Snapshot ID: `AAAAABKWtnv5/j1nO2EzN9md3ryg7jSu`

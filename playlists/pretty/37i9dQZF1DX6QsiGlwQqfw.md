@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 
 > Instrumentals from the North Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,583 likes - 48 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,591 likes - 48 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 | 47 | [Destiny \(Raag Hameer\)](https://open.spotify.com/track/5U6GvipM7SHVBBwuwquVAk) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Source Code](https://open.spotify.com/album/1SrVH7RjPaypnRRtihURmo) | 18:41 |
 | 48 | [Ahir Bhairav](https://open.spotify.com/track/3JLewKQMn2Xo9MPTFOTyFC) | [Pandit Brij Bhushan Kabra, Pandit Hariprasad Chaurasia & Pandit Shivkumar Sharma](https://open.spotify.com/artist/6MqnhMsiafcPAePqc1e22r) | [Rough Guide to Indian Classical Music](https://open.spotify.com/album/3hqdUUtLEQmxorRMI5hE0l) | 6:14 |
 
-Snapshot ID: `AAAAAPNQ4bohW8YqPoA7zkWcglBxgdvh`
+Snapshot ID: `AAAAAMXd5cN/nP2PlQp37kLABEJVuZC5`

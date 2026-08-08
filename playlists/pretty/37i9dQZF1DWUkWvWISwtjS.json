@@ -1,12 +1,12 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 425497,
+  "num_followers": 425401,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADBRJEEb7L5C9+zlGgDpttkqJxmy",
+  "snapshot_id": "AAAAADdfoVOmcjb4ffDZDDW01GkFEVki",
   "tracks": [
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Uma Hist\u00f3ria de Sucesso (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3uVTCtPfywIOAodrHWeRuV"
+        "name": "Z\u00e9 da Reca\u00edda",
+        "url": "https://open.spotify.com/album/6GpuBgy6WQZhWrnCsBeMma"
       },
       "artists": [
         {
-          "name": "Gian & Giovani",
-          "url": "https://open.spotify.com/artist/7tt5q9c2cUFczKNK5pEbZb"
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
         }
       ],
-      "duration_ms": 324693,
-      "name": "Nem Dormindo Consigo Te Esquecer - Ao Vivo",
-      "url": "https://open.spotify.com/track/0vZ3wHAmzRceAHLYb6Lc66"
+      "duration_ms": 168458,
+      "name": "Z\u00e9 da Reca\u00edda",
+      "url": "https://open.spotify.com/track/4iGwWeV7XVIWO9Yy5QExOr"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Z\u00e9 da Reca\u00edda",
-        "url": "https://open.spotify.com/album/6GpuBgy6WQZhWrnCsBeMma"
+        "name": "Uma Hist\u00f3ria de Sucesso (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3uVTCtPfywIOAodrHWeRuV"
       },
       "artists": [
         {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+          "name": "Gian & Giovani",
+          "url": "https://open.spotify.com/artist/7tt5q9c2cUFczKNK5pEbZb"
         }
       ],
-      "duration_ms": 168458,
-      "name": "Z\u00e9 da Reca\u00edda",
-      "url": "https://open.spotify.com/track/4iGwWeV7XVIWO9Yy5QExOr"
+      "duration_ms": 324693,
+      "name": "Nem Dormindo Consigo Te Esquecer - Ao Vivo",
+      "url": "https://open.spotify.com/track/0vZ3wHAmzRceAHLYb6Lc66"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Compartilhando M\u00e1goa",
-        "url": "https://open.spotify.com/album/1MUtaCm5QQgf1vDx846Sji"
-      },
-      "artists": [
-        {
-          "name": "George Henrique & Rodrigo",
-          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
-        },
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 170038,
-      "name": "Compartilhando M\u00e1goa",
-      "url": "https://open.spotify.com/track/3M6QJpWhM9NPcBwxTRKLlH"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Das Rep\u00fablicas Para O Brasil (Ao Vivo Em Goi\u00e2nia / 2019)",
         "url": "https://open.spotify.com/album/7m3G0HZwZSYyqNEvUkHihB"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 146424,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/6N46P4y6dlnrtAWWCaHu7O"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Compartilhando M\u00e1goa",
+        "url": "https://open.spotify.com/album/1MUtaCm5QQgf1vDx846Sji"
+      },
+      "artists": [
+        {
+          "name": "George Henrique & Rodrigo",
+          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 170038,
+      "name": "Compartilhando M\u00e1goa",
+      "url": "https://open.spotify.com/track/3M6QJpWhM9NPcBwxTRKLlH"
     },
     {
       "added_at": "2026-01-16 03:03:24",

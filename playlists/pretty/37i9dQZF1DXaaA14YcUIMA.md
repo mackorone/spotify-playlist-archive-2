@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 
 > Anda pa'lante galopante con los grandes del género romántico\. Los Temerarios en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 671,622 likes - 125 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 671,760 likes - 125 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 18 | [Como La Flor](https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:06 |
 | 19 | [Voy a pintar un corazón](https://open.spotify.com/track/5viiB7rsZZ6WZaWMHjTWSG) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Vivencias](https://open.spotify.com/album/56mu4xH2JACoVGZhr3f6KZ) | 3:28 |
 | 20 | [Quiéreme](https://open.spotify.com/track/6o9ODcGxMPFZDjdS7z3VpN) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Quiereme](https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6) | 4:07 |
-| 21 | [Oro](https://open.spotify.com/track/1sLQ6BFucWwgT8yaAFSpAx) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje y Tierno](https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati) | 3:10 |
+| 21 | [La Loca](https://open.spotify.com/track/7mpz4Drmu692aPo4qsaHTC) | [Los Fugitivos](https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq) | [Vanidosa](https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs) | 4:14 |
 | 22 | [Mi Vida Eres Tú](https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Mi Vida Eres Tú](https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE) | 4:10 |
-| 23 | [La Loca](https://open.spotify.com/track/7mpz4Drmu692aPo4qsaHTC) | [Los Fugitivos](https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq) | [Vanidosa](https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs) | 4:14 |
+| 23 | [Oro](https://open.spotify.com/track/1sLQ6BFucWwgT8yaAFSpAx) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje y Tierno](https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati) | 3:10 |
 | 24 | [Deja Una Rosa En Tu Balcón](https://open.spotify.com/track/1InGWsgNYr5cYTE4JWqGqu) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Hasta La Eternidad \(Clásicos Digitalizados\)](https://open.spotify.com/album/6f3szSu0uNGBOmcW01a6ZN) | 3:59 |
 | 25 | [Yo Te Necesito](https://open.spotify.com/track/7yMWuJ6JOZ8Joo5gQrNaYA) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Yo Te Necesito](https://open.spotify.com/album/3hEe5rX51oJiXS3Lv9Yeiz) | 2:58 |
 | 26 | [Enamorado De Un Fantasma](https://open.spotify.com/track/47zLjYjuaWunbmMrn6jLLj) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Enamorado De Un Fantasma](https://open.spotify.com/album/4XX1NXGCEwomxl6cYRcW2d) | 4:29 |
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 108 | [Morena](https://open.spotify.com/track/2Ex6KBFe5oIelTpbAiPm64) | [Felinos](https://open.spotify.com/artist/0QE0OwxiJZ9i51N8zIS1Yy) | [Morena](https://open.spotify.com/album/523QDgDypNcjORHyfCuxdH) | 3:46 |
 | 109 | [No Me Queda Más](https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 3:20 |
 | 110 | [Te Ví Con El](https://open.spotify.com/track/1BoUHrabgfNoIJ3Wk4iwsg) | [Mandingo](https://open.spotify.com/artist/4KPkl90SSF2y1VYNt7dmba) | [Gran Encuentro](https://open.spotify.com/album/1p41U3s9oAlf4nrbafLMcB) | 2:37 |
-| 111 | [El Taxista](https://open.spotify.com/track/6vsxXwgCpGppUKFSDOildp) | [Los Dinnosaurios](https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz) | [Inolvidables](https://open.spotify.com/album/7ARafZyz3I2D7aI2DsTF5P) | 3:44 |
-| 112 | [En Realidad](https://open.spotify.com/track/3BQTmcsZ9DNNJ1qkEraTBm) | [Grupo Abracadabra](https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O) | [Te Quiero Todavía](https://open.spotify.com/album/0ExehBI8RodvaibxLOlkXK) | 3:41 |
+| 111 | [En Realidad](https://open.spotify.com/track/3BQTmcsZ9DNNJ1qkEraTBm) | [Grupo Abracadabra](https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O) | [Te Quiero Todavía](https://open.spotify.com/album/0ExehBI8RodvaibxLOlkXK) | 3:41 |
+| 112 | [El Taxista](https://open.spotify.com/track/6vsxXwgCpGppUKFSDOildp) | [Los Dinnosaurios](https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz) | [Inolvidables](https://open.spotify.com/album/7ARafZyz3I2D7aI2DsTF5P) | 3:44 |
 | 113 | [Hola Como Estas](https://open.spotify.com/track/04iLS6kaGO7lrFGMI2C0fa) | [Grupo Pegasso](https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv) | [Amor Vendido, Vol\. 4](https://open.spotify.com/album/7JJG7BywhJnVF9vMHKIk8T) | 3:24 |
 | 114 | [Fotos Y Recuerdos](https://open.spotify.com/track/0kQOWm8vYnQEb2gVWITaAA) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:37 |
 | 115 | [Nuestra Canción](https://open.spotify.com/track/5o4hMBr9ovkytff8TBHreg) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [Tesoros De Coleccion](https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda) | 3:23 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 124 | [Morena De 15 Años](https://open.spotify.com/track/0ZTOUnF9SYd4fjnPMwLRpK) | [Felinos](https://open.spotify.com/artist/0QE0OwxiJZ9i51N8zIS1Yy) | [15 Exitos \- Felinos](https://open.spotify.com/album/1WINkjIcYmvV3TGG3ezQfd) | 2:42 |
 | 125 | [Me Duele Estar Solo](https://open.spotify.com/track/1zEGq2ScBI7ecxAKh7K0Qt) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [Tesoros De Coleccion](https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda) | 3:27 |
 
-Snapshot ID: `AAAAAHHzfoh3vrx0kuSYEiK9hLqeMMBm`
+Snapshot ID: `AAAAABaIgYwX+bkj5TYHdfqB7cy34AfW`

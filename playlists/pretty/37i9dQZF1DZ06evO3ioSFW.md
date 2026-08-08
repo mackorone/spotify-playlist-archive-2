@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 
 > This is Yuridia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,486 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,551 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ioSFW.md) - [plain]
 | 42 | [A Dónde Va el Amor](https://open.spotify.com/track/4IXOuSEG9SHehdBRwEdezg) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:44 |
 | 43 | [Dime \- En Vivo Desde la Plaza de Toros la México](https://open.spotify.com/track/3qLOy8BOZKF68TYNLJ8SAu) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Monumental \(En Vivo Desde la Plaza de Toros la México\)](https://open.spotify.com/album/6JeSToKtEW7j3lgLWQXNmE) | 2:54 |
 | 44 | [Como Yo Te Amo](https://open.spotify.com/track/7H561OZAeONWEskedqaDQa) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 3:54 |
-| 45 | [Pensando Positivo](https://open.spotify.com/track/7c8y7v1RLIn4YvEjSFcTwq) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pensando Positivo](https://open.spotify.com/album/58iuRein03jS4ByY5s8OE1) | 3:13 |
+| 45 | [Con Toda Libertad](https://open.spotify.com/track/2J2PshVOxoKEk8XZzmVnwc) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Valiente](https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199) | 2:41 |
 | 46 | [Enamorada y Herida](https://open.spotify.com/track/6HfYJQt9WHhfXKJT8bGdBM) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:43 |
-| 47 | [Con Toda Libertad](https://open.spotify.com/track/2J2PshVOxoKEk8XZzmVnwc) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Valiente](https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199) | 2:41 |
+| 47 | [Pensando Positivo](https://open.spotify.com/track/7c8y7v1RLIn4YvEjSFcTwq) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pensando Positivo](https://open.spotify.com/album/58iuRein03jS4ByY5s8OE1) | 3:13 |
 | 48 | [Déjame Volver Contigo](https://open.spotify.com/track/1OMYZ5Qs0ih6cufVsAU5Ls) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 3:56 |
-| 49 | [Quererte a Ti](https://open.spotify.com/track/477GG0JLBi1bINyJRj0qOO) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:45 |
-| 50 | [Viento y Cielo Alcanzar](https://open.spotify.com/track/7xP1PzRNG24qpTWdtin1Gb) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Valiente](https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199) | 2:33 |
+| 49 | [Viento y Cielo Alcanzar](https://open.spotify.com/track/7xP1PzRNG24qpTWdtin1Gb) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Valiente](https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199) | 2:33 |
+| 50 | [Quererte a Ti](https://open.spotify.com/track/477GG0JLBi1bINyJRj0qOO) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Para Mí](https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0) | 3:45 |
 
-Snapshot ID: `anJ9AAAAAABtuk2du+DH1M53dLdXXwao`
+Snapshot ID: `anPOgAAAAAC564v3yjIt0wwP0rzcnR9p`

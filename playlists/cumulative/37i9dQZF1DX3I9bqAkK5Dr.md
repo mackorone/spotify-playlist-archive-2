@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Damini Bhatla
 
-566 songs - 1 day 9 hr 43 min
+567 songs - 1 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,7 +301,7 @@
 | [Namma Raa Nesthama](https://open.spotify.com/track/3sAzCBUjCfW5b3sPvFY6Uw) | [Mithun Eshwar](https://open.spotify.com/artist/65kwHSDhFp1Umu9Vd1pQVv) | [Namma Raa Nesthama](https://open.spotify.com/album/7rmKWAVqfU3H5CoDx9657n) | 4:55 | 2024-07-29 | 2025-10-24 |
 | [Nanna](https://open.spotify.com/track/3sg1o6wwTvZ8osPnMyHNNw) | [Shravan Bharadwaj](https://open.spotify.com/artist/3T0lUjLJ29ApjVCaVxdLfx), [Maruthi Ashok Anand](https://open.spotify.com/artist/5RE6YIiuve68BsLoRJFN1R) | [Nanna](https://open.spotify.com/album/4mDRYVIXxUcFSL2B0UdCSJ) | 4:48 | 2024-03-26 | 2024-07-31 |
 | [Nanna](https://open.spotify.com/track/7kXi71MJ5Xja1zlIN5PzhZ) | [Thiru Vakkalanka](https://open.spotify.com/artist/1Jfep509KGV0j7lfzENtWk), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Rakesh Venkatapuram](https://open.spotify.com/artist/0ySVAlgEEqvaixvNc4uLHR), [Srirag Vadlakonda](https://open.spotify.com/artist/345nU7mkTHfA5mnCYnsain) | [Nanna](https://open.spotify.com/album/3eL5FMWu5bZe9DsWXamVWd) | 3:22 | 2024-11-25 | 2025-01-30 |
-| [Nannaku Prematho](https://open.spotify.com/track/5gR88oHWOemgAwBEu7YiA6) | [DEVARO](https://open.spotify.com/artist/29mbv9F0bBnk9lkyr9oPoc) | [Nannaku Prematho](https://open.spotify.com/album/0dks3GZ7eh35WT6Z8ySc3B) | 3:33 | 2026-01-30 |  |
+| [Nannaku Prematho](https://open.spotify.com/track/5gR88oHWOemgAwBEu7YiA6) | [DEVARO](https://open.spotify.com/artist/29mbv9F0bBnk9lkyr9oPoc) | [Nannaku Prematho](https://open.spotify.com/album/0dks3GZ7eh35WT6Z8ySc3B) | 3:33 | 2026-01-30 | 2026-08-08 |
 | [Nannu Nenu](https://open.spotify.com/track/79jQYJOIkBZN1FNjRuhXhg) | [Eknaath](https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU) | [Nannu Nenu](https://open.spotify.com/album/1hULEoHM0juEpDFyXJqpf5) | 4:12 | 2025-10-13 | 2026-03-06 |
 | [Nanu Kalchesave](https://open.spotify.com/track/31tVd72hvyazi3YM3RPa4m) | [Rahul Sathu](https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3) | [Nanu Kalchesave](https://open.spotify.com/album/1WBJy6c9vvTefmDmsf3Af0) | 1:43 | 2023-01-16 | 2023-10-05 |
 | [Ne Kothaga](https://open.spotify.com/track/6gJY0TyLzecMHR4GHFHkCe) | [MS Rudra Kiran](https://open.spotify.com/artist/2TzLHm7rUooeTi6NIfbjm0), [Mounica Modali](https://open.spotify.com/artist/5iiqvn3toWXbNadpveiBeC), [Sudheshna Mokkapati](https://open.spotify.com/artist/6H0LSanfaEsTyNcs1pa1Pe), [Anirudh Sandilya](https://open.spotify.com/artist/0F4yayMRBTrHXljPrHYjFY) | [Ne Kothaga](https://open.spotify.com/album/5dnbnY8P63B9GGwqFyNsfU) | 3:06 | 2024-03-05 | 2024-10-11 |
@@ -534,6 +534,7 @@
 | [Unnale Nee Kosam](https://open.spotify.com/track/22qSRZ72otdpb4OZGe3W4k) | [Kanha Mohanty](https://open.spotify.com/artist/3TpKuzt672JdZX9B0NvA0D), [Nikki George](https://open.spotify.com/artist/1cprnGfYrfsnaBT2A6QMr4) | [Unnale Nee Kosam](https://open.spotify.com/album/6zodQWOGxCMYKOiYhMuhYv) | 3:40 | 2023-11-20 | 2025-10-04 |
 | [Uppenalaa](https://open.spotify.com/track/7GsAQSPJeEi7FZJPaoigQL) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Vijaya Chandra](https://open.spotify.com/artist/2jztukyvmWwLoIS6HTCm0m), [Sandeep Kumar](https://open.spotify.com/artist/3LnFpfYe0DlcxsqVw0vJBW) | [Uppenalaa](https://open.spotify.com/album/6bKqGiOW7CS6hwURDklOQD) | 1:32 | 2023-05-27 | 2023-07-04 |
 | [Vagalaadi \- Telugu](https://open.spotify.com/track/1QnZLUZCtHp4eyxPg6ZuPl) | [Nitish John](https://open.spotify.com/artist/6LctAOI9qvl3ix1PRfzbSF), [Shreya Krish](https://open.spotify.com/artist/1wVstRtBPtkRsQ1zusLfW0) | [Vagalaadi \- Telugu](https://open.spotify.com/album/77rACM8DWRdUmGTmj3yN3G) | 4:52 | 2026-02-06 |  |
+| [Vama](https://open.spotify.com/track/4J6bdFMvKZZMWpq2JlMtzI) | [Eknaath](https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU) | [Vama](https://open.spotify.com/album/4sU3Hi2qeHG46T0QeZTTtW) | 3:18 | 2026-08-07 |  |
 | [Varama](https://open.spotify.com/track/30IpmKZtv3k6hIwPjqVqy2) | [Tarun Donipati](https://open.spotify.com/artist/5qH5z0A355cf42Z0dhw6NI), [Agni](https://open.spotify.com/artist/5DlIzO1VXAbP1Ruzi8ui5F), [Sripragna Vellanki](https://open.spotify.com/artist/5m65xIlHvGuJJWa5iXYExp) | [Varama](https://open.spotify.com/album/2VcRqSdwkaFKNB1gCbQd3J) | 3:50 | 2025-01-20 | 2026-01-24 |
 | [Varnana](https://open.spotify.com/track/6EEopdWEiFtrQhOW33bRva) | [Iravu](https://open.spotify.com/artist/32gGumlFxS3I49LH5cNcrH), [Sarvari](https://open.spotify.com/artist/5uvwgTsZIeirSSpIIMvYFS), [Sravani Charugundla](https://open.spotify.com/artist/3E2FmsMjf2E9T9Nbav7VN2) | [Varnana](https://open.spotify.com/album/3lmW5UAWiXw2gMe2dMXLm1) | 1:49 | 2023-12-27 | 2024-04-26 |
 | [Vasanthakaalam](https://open.spotify.com/track/4uG8FKVfBaZ7AqK7z3gmEu) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Vasanthakaalam](https://open.spotify.com/album/05wa7qBhZKhOU1hEqUILeY) | 3:15 | 2026-01-23 | 2026-08-01 |

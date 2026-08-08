@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33hbTZ.md) - [plain]
 
 > This is Victor Thompson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,076 likes - 45 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,077 likes - 45 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33hbTZ.md) - [plain]
 | 44 | [Halle](https://open.spotify.com/track/3b8q3iDLUUTEzkexbVgkxy) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 2:49 |
 | 45 | [Nkosi](https://open.spotify.com/track/6q7FFADahpKakWjXGVBxco) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:02 |
 
-Snapshot ID: `anJ9AAAAAACzyI76WfrkjoqBMiQvnqQO`
+Snapshot ID: `anPOgAAAAADTpQd5659l4K+LsC+4tXCq`

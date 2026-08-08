@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 
 > 2026 yazının şarkıları\. Kapak: Hadise
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,989 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,110 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 | 18 | [Kalpsiz Bir Serseri \- Live](https://open.spotify.com/track/5PdcxLk48vWQqMeY4qqdsZ) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Kalpsiz Bir Serseri \(Live\)](https://open.spotify.com/album/3R7BUFaIAw3RPuf6eybWHB) | 3:44 |
 | 19 | [TAMPONTAMPONA](https://open.spotify.com/track/0OhrOm2AfOkav7tjWSMjEf) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [TAMPONTAMPONA](https://open.spotify.com/album/5flqeedURwamU6B8An5lAb) | 3:16 |
 | 20 | [SEVMEYİ DENEMEDİN](https://open.spotify.com/track/3ff93VTp2DBbNnDEsAW8Cm) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [OBSESIF](https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic) | 2:52 |
-| 21 | [YIN YANG](https://open.spotify.com/track/3e0XM5ARlFVbWLfdR7zZvp) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [YIN YANG](https://open.spotify.com/album/5zTpynQLSJo8yiG5U8rJXn) | 3:00 |
+| 21 | [Diva](https://open.spotify.com/track/2LNuau7YQkCajkG38uql0V) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Diva](https://open.spotify.com/album/63f5i1UUGrTPlWeavOC1Uu) | 2:07 |
 | 22 | [Yaşanacaksa](https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 2:46 |
 | 23 | [Gidişat](https://open.spotify.com/track/150HZ4cTAOygzxwIezXxp6) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Gidişat](https://open.spotify.com/album/67EvM60fproAJUULEJFEbR) | 3:45 |
-| 24 | [Diva](https://open.spotify.com/track/2LNuau7YQkCajkG38uql0V) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Diva](https://open.spotify.com/album/63f5i1UUGrTPlWeavOC1Uu) | 2:07 |
+| 24 | [YIN YANG](https://open.spotify.com/track/3e0XM5ARlFVbWLfdR7zZvp) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [YIN YANG](https://open.spotify.com/album/5zTpynQLSJo8yiG5U8rJXn) | 3:00 |
 | 25 | [Güm Güm \(Serhat Karadağ Remix\) \(feat\. Onurr\)](https://open.spotify.com/track/3IgB5XnUKnrcKto3tsNcKI) | [Ayse Hatun Onal](https://open.spotify.com/artist/25yeRs08qswXKKtq0HYTMS), [Onurr](https://open.spotify.com/artist/3I3kGrPbyHSER6DIxsbsac), [Serhat Karadag](https://open.spotify.com/artist/5lnel6i9CbZEYoWSyiYnEk) | [Güm Güm \(Serhat Karadağ Remix\) \(feat\. Onurr\)](https://open.spotify.com/album/5t4zxaoJRFxNBnzXQeSWIO) | 3:47 |
 | 26 | [Başa Bela](https://open.spotify.com/track/0onzYPfM09MY31tUkb0xgj) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Başa Bela](https://open.spotify.com/album/2c8n5PoruLqgaGQYmACWe8) | 2:34 |
 | 27 | [git](https://open.spotify.com/track/1RwVkonL4anIGeNZo0OPp1) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Virtüöz](https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1396r8cYxSL.md) - [plain]
 | 49 | [Snap](https://open.spotify.com/track/4EsRpVBBKiqOZ67DJj0QHF) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Snap](https://open.spotify.com/album/4PJ5Iewz7PoUCRe7QKGHRq) | 2:29 |
 | 50 | [KTS](https://open.spotify.com/track/0T9wqk6MpJWBMEAyyQGVAK) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [KTS](https://open.spotify.com/album/5FHUBFUyPhl9guiqM5z1DR) | 2:26 |
 
-Snapshot ID: `AAAAAFfXMoGiCYLARfY18Y5RaeIfv1IT`
+Snapshot ID: `AAAAAIVgYSQUogKSH21n6JmZjTO9MQsl`

@@ -4,7 +4,7 @@
 
 > This is Alfredo Olivas\. The essential tracks, all in one playlist.
 
-89 songs - 5 hr 12 min
+90 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Asignatura Pendiente](https://open.spotify.com/track/3ert62mMe5oHSnYCjOV8S0) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | ["V1V0"](https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht) | 4:05 | 2025-05-10 | 2026-02-01 |
 | [Asignatura Pendiente](https://open.spotify.com/track/1uvfOengybr6fzRxecMsuJ) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Asignatura Pendiente](https://open.spotify.com/album/3kMQSQJN1D9ABXcSsgJ2vK) | 4:05 | 2024-02-10 | 2025-04-26 |
 | [Así Es Esto](https://open.spotify.com/track/2VEGCGMsMoPIqnocO2pE0q) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 3:41 | 2023-08-08 |  |
-| [Así las Cosas](https://open.spotify.com/track/526NOmILzrs7f47mHXDrFm) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Redención](https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko) | 2:37 | 2025-05-13 |  |
+| [Así las Cosas](https://open.spotify.com/track/526NOmILzrs7f47mHXDrFm) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Redención](https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko) | 2:37 | 2025-05-13 | 2026-08-08 |
 | [Así Se Usa En Los Ranchos](https://open.spotify.com/track/0LP83DVouCnJ9w1j2TZN8a) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | ["V1V0"](https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht) | 3:26 | 2025-03-06 | 2025-03-30 |
 | [Autorízame](https://open.spotify.com/track/6T2y5WeZ71xB2N5OcvVkBI) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Patroncito](https://open.spotify.com/album/0tIyKS6ftGdNvonIhxXI7h) | 3:04 | 2023-08-08 |  |
 | [Autorízame](https://open.spotify.com/track/73ru3QGQcVC3Az72bSaP0C) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [THE BEST OF](https://open.spotify.com/album/6AGQnGYk0tZZs0RJxHHTyi) | 3:04 | 2024-05-02 | 2024-09-09 |
@@ -74,6 +74,7 @@
 | [Recuerdos en Común](https://open.spotify.com/track/1OTu4EnkuDeqXc737rTPkf) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Recuerdos en Común](https://open.spotify.com/album/7AQjCCvBckdQQ1OJ3zv9iT) | 3:34 | 2026-07-26 |  |
 | [Se Vienen Días Tristes](https://open.spotify.com/track/4wDqICPvF45vx9utsNg4FB) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [¿Quién + Como Yo?](https://open.spotify.com/album/0k8MDpK0kbBXTb5DcLhded) | 2:39 | 2025-05-25 |  |
 | [Seguramente](https://open.spotify.com/track/21QPEewQy6P4l6mY0OE1fL) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [La Rueda De La Fortuna](https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd) | 3:16 | 2023-08-08 |  |
+| [Sin Detalles](https://open.spotify.com/track/24yCeL5tfe11BgbIRSxbOw) | [Fede Figueroa](https://open.spotify.com/artist/72EKkr04awG6qLW30R5VGU), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Tiempo Al Tiempo](https://open.spotify.com/album/6dxc0QAX01BMhq85AQvI2J) | 2:58 | 2026-08-08 |  |
 | [Sin Explicaciones](https://open.spotify.com/track/3MjFu8fCCH2gSUxc9IVOdA) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 2:52 | 2023-08-08 | 2025-10-10 |
 | [Soy El Alto Mando](https://open.spotify.com/track/4rNxnOlHB3DiG6wvFhZnxu) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Patroncito](https://open.spotify.com/album/0tIyKS6ftGdNvonIhxXI7h) | 2:28 | 2023-08-08 | 2024-05-02 |
 | [Soy Lo Que Ves](https://open.spotify.com/track/3Kl7sIgzMYQvxZxjEV9sC0) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Soy Lo Que Ves](https://open.spotify.com/album/77yCHIWHHK6KeQynu3NbJ5) | 3:40 | 2023-08-08 | 2025-03-13 |

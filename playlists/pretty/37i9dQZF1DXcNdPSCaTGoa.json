@@ -1,12 +1,12 @@
 {
   "description": "Celebrating South Africa's most beloved hits. Cover: J'Something",
-  "num_followers": 5351,
+  "num_followers": 5396,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJdRrV/fSmaC0AmTRqGpWWPK3NvC",
+  "snapshot_id": "AAAAABiyjnMCa6aUB00ccB8LDMQCgXFV",
   "tracks": [
     {
       "added_at": "2026-04-24 07:22:05",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
+        "name": "Another Universe",
+        "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
+      },
+      "artists": [
+        {
+          "name": "Arno Carstens",
+          "url": "https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Another Universe",
+      "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
         "name": "Legends",
         "url": "https://open.spotify.com/album/0kiATdsriTo3fErLWa1rBp"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 372000,
       "name": "Ingoma",
       "url": "https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
-        "name": "Another Universe",
-        "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
-      },
-      "artists": [
-        {
-          "name": "Arno Carstens",
-          "url": "https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE"
-        }
-      ],
-      "duration_ms": 214960,
-      "name": "Another Universe",
-      "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
     },
     {
       "added_at": "2026-04-24 07:22:05",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-04-24 07:22:05",
       "album": {
+        "name": "Ultimate Zoid",
+        "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
+      },
+      "artists": [
+        {
+          "name": "Karen Zoid",
+          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Afrikaners Is Plesierig",
+      "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
+    },
+    {
+      "added_at": "2026-04-24 07:22:05",
+      "album": {
         "name": "Heads and Tales",
         "url": "https://open.spotify.com/album/0H1DKASzcSdPOSrXc8Ovx6"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 296680,
       "name": "Tot Die Son Uitkom",
       "url": "https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD"
-    },
-    {
-      "added_at": "2026-04-24 07:22:05",
-      "album": {
-        "name": "Ultimate Zoid",
-        "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
-      },
-      "artists": [
-        {
-          "name": "Karen Zoid",
-          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "Afrikaners Is Plesierig",
-      "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
     },
     {
       "added_at": "2026-04-24 07:22:05",

@@ -1,28 +1,32 @@
 {
-  "description": "Fino y elegante como Karol G.",
-  "num_followers": 222522,
+  "description": "Fino y elegante como Ryan Castro y Feid. ",
+  "num_followers": 222531,
   "original_name": "FINO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABlW3zdmLbMUy2xZscKN7FwBEUQ7",
+  "snapshot_id": "AAAAADhw0726bKVs5Ua7wL4/dE5lmsuM",
   "tracks": [
     {
-      "added_at": "2026-07-31 04:59:17",
+      "added_at": "2026-08-07 04:59:13",
       "album": {
-        "name": "MATADORA",
-        "url": "https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW"
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/0pfzeRGfexQROcWybyxDt6"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 144650,
-      "name": "MATADORA",
-      "url": "https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx"
+      "duration_ms": 156631,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/06cC0Txd5AoUEX2otETGcs"
     },
     {
       "added_at": "2026-06-18 18:58:57",
@@ -47,6 +51,62 @@
     {
       "added_at": "2026-07-31 04:59:17",
       "album": {
+        "name": "AZABACHE",
+        "url": "https://open.spotify.com/album/60WhEnhgPildtHh7fvtLIQ"
+      },
+      "artists": [
+        {
+          "name": "Crudo Means Raw",
+          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 182555,
+      "name": "AZABACHE",
+      "url": "https://open.spotify.com/track/2Gh6Ctajbej0QhracpJ4Al"
+    },
+    {
+      "added_at": "2026-08-04 22:54:02",
+      "album": {
+        "name": "La Mam\u00e1 de Dora",
+        "url": "https://open.spotify.com/album/4KXwIGjfaImTnLAQMn5jAS"
+      },
+      "artists": [
+        {
+          "name": "GeezyDee",
+          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
+        },
+        {
+          "name": "Bravvs",
+          "url": "https://open.spotify.com/artist/2EstnBv92UlKvEoCLSPOOh"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "La Mam\u00e1 de Dora",
+      "url": "https://open.spotify.com/track/33TYe1fkcybaqnIV0fKlPh"
+    },
+    {
+      "added_at": "2026-07-31 04:59:17",
+      "album": {
+        "name": "MATADORA",
+        "url": "https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 144650,
+      "name": "MATADORA",
+      "url": "https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx"
+    },
+    {
+      "added_at": "2026-07-31 04:59:17",
+      "album": {
         "name": "WASA WASA (El Party Pendiente con Spotify)",
         "url": "https://open.spotify.com/album/3BBEYtt02pys1VsgQXk9pG"
       },
@@ -59,6 +119,30 @@
       "duration_ms": 152810,
       "name": "WASA WASA - El Party Pendiente con Spotify",
       "url": "https://open.spotify.com/track/6XbvK6wsNMblG8wYlFMSxZ"
+    },
+    {
+      "added_at": "2026-08-07 04:59:13",
+      "album": {
+        "name": "Mano al piso remix",
+        "url": "https://open.spotify.com/album/7HlnR44j7zO6jhDjAzMWIp"
+      },
+      "artists": [
+        {
+          "name": "TURY",
+          "url": "https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs"
+        },
+        {
+          "name": "Jombriel",
+          "url": "https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv"
+        },
+        {
+          "name": "J\u00f8tta",
+          "url": "https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3"
+        }
+      ],
+      "duration_ms": 184106,
+      "name": "Mano al piso remix",
+      "url": "https://open.spotify.com/track/4CibTBydFDLzQKyg6Vtr23"
     },
     {
       "added_at": "2026-06-26 04:59:10",
@@ -241,46 +325,6 @@
       "url": "https://open.spotify.com/track/0dpV9WOqhZJqoFQDD9d9Eu"
     },
     {
-      "added_at": "2026-08-04 22:54:02",
-      "album": {
-        "name": "La Mam\u00e1 de Dora",
-        "url": "https://open.spotify.com/album/4KXwIGjfaImTnLAQMn5jAS"
-      },
-      "artists": [
-        {
-          "name": "GeezyDee",
-          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
-        },
-        {
-          "name": "Bravvs",
-          "url": "https://open.spotify.com/artist/2EstnBv92UlKvEoCLSPOOh"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "La Mam\u00e1 de Dora",
-      "url": "https://open.spotify.com/track/33TYe1fkcybaqnIV0fKlPh"
-    },
-    {
-      "added_at": "2026-07-31 04:59:17",
-      "album": {
-        "name": "AZABACHE",
-        "url": "https://open.spotify.com/album/60WhEnhgPildtHh7fvtLIQ"
-      },
-      "artists": [
-        {
-          "name": "Crudo Means Raw",
-          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 182555,
-      "name": "AZABACHE",
-      "url": "https://open.spotify.com/track/2Gh6Ctajbej0QhracpJ4Al"
-    },
-    {
       "added_at": "2026-07-03 04:59:22",
       "album": {
         "name": "De Momento",
@@ -451,22 +495,6 @@
     {
       "added_at": "2026-06-18 18:58:57",
       "album": {
-        "name": "LUXURY",
-        "url": "https://open.spotify.com/album/71eu7HW0xiX1CsPOjfTkfk"
-      },
-      "artists": [
-        {
-          "name": "Pirlo",
-          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
-        }
-      ],
-      "duration_ms": 166206,
-      "name": "LUXURY",
-      "url": "https://open.spotify.com/track/0Ss0QjKvNnuPDR5popsXcP"
-    },
-    {
-      "added_at": "2026-06-18 18:58:57",
-      "album": {
         "name": "MI EX",
         "url": "https://open.spotify.com/album/4qQzvBTaaFB3ZGPZzG8TFv"
       },
@@ -499,26 +527,6 @@
       "duration_ms": 130148,
       "name": "BOMB\u00d3N",
       "url": "https://open.spotify.com/track/0FBOPrPkQaLBEwtdCOdXiX"
-    },
-    {
-      "added_at": "2026-06-18 18:58:57",
-      "album": {
-        "name": "FAN\u00c1TICO",
-        "url": "https://open.spotify.com/album/5i1q6psK3WZa28SOSqeZ8z"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        }
-      ],
-      "duration_ms": 235102,
-      "name": "FAN\u00c1TICO",
-      "url": "https://open.spotify.com/track/0e3d2UZRjtvviXWWMRYGQo"
     },
     {
       "added_at": "2026-06-18 18:58:57",
@@ -763,30 +771,6 @@
       "duration_ms": 158036,
       "name": "no tiene sentido",
       "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
-    },
-    {
-      "added_at": "2026-06-18 18:58:57",
-      "album": {
-        "name": "COMO OREO",
-        "url": "https://open.spotify.com/album/1N253WjALuV1kB61N0GeLd"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 195261,
-      "name": "COMO OREO",
-      "url": "https://open.spotify.com/track/7sRXb5IgYWwVv1DaavHSNs"
     },
     {
       "added_at": "2026-06-18 18:58:57",

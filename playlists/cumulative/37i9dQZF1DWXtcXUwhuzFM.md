@@ -4,7 +4,7 @@
 
 > Uutta musaa tarjoilevat Diogi, Dw, Vilma Alina.\. ja moni muu  🎶
 
-12,157 songs - 26 day 18 hr 57 min
+12,159 songs - 26 day 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9587,6 +9587,7 @@
 | [STIGA](https://open.spotify.com/track/1if02LUZWasGRz2L5jQHw9) | [keiju](https://open.spotify.com/artist/78Q5OnbgoyHMj5aHlGljK5) | [STIGA](https://open.spotify.com/album/6qjmZc2pmwOem99WW2YZ9n) | 2:50 | 2026-04-02 | 2026-04-10 |
 | [Stiigerihai](https://open.spotify.com/track/6MPPUuAmlrMYfotZZmGbcC) | [STIG](https://open.spotify.com/artist/6TKvvwslcx2bKwiX2aBxbd) | [Stiigerihai](https://open.spotify.com/album/0C27iYyPp8qoy9W7dgmCC8) | 2:35 | 2026-04-23 | 2026-05-01 |
 | [Still](https://open.spotify.com/track/0jn84z9FPgbEMxc56znQyh) | [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [Still](https://open.spotify.com/album/2Xs4ibfIHQXLhYMJtZ688E) | 3:16 | 2025-08-21 | 2025-08-30 |
+| [Still](https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:40 | 2026-08-07 |  |
 | [STILL \(feat\. Ab\-Soul & Rapsody\)](https://open.spotify.com/track/5TLjEHlPV8jpxQTVTmQYY3) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [STILL \(feat\. Ab\-Soul & Rapsody\)](https://open.spotify.com/album/3N3vA5recDthv6aBGfnTEb) | 3:26 | 2025-08-29 | 2025-09-06 |
 | [Still \- 2024 Remaster](https://open.spotify.com/track/30Ze1poTHMNiQuMWRlBt0O) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Forever Fan](https://open.spotify.com/album/3ry3lBNIuuTFMwHLLRm57z) | 6:15 | 2024-09-19 | 2024-09-27 |
 | [still around](https://open.spotify.com/track/2Qe9pxPgnUBZMRDvonR0hK) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [still around](https://open.spotify.com/album/590XAhSjXQGT8BfHCOaZGp) | 3:37 | 2024-08-01 | 2024-08-09 |
@@ -10459,6 +10460,7 @@
 | [THINKING ABOUT YOU](https://open.spotify.com/track/5L8sLMsxXNwj8DbamUjs7c) | [EUROCLUB](https://open.spotify.com/artist/0O4Hy2bjefsM76Enm55XkR) | [EUROCLUB](https://open.spotify.com/album/3dErNe80z63631S7obJfB5) | 2:51 | 2025-11-27 | 2025-12-05 |
 | [Thinking About You \(feat\. Arkey\)](https://open.spotify.com/track/1DwY5BtXvfysoSv37frTER) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Arkey](https://open.spotify.com/artist/1fJWJg5SkXjmFhnT4wf5QH) | [Thinking About You \(feat\. Arkey\)](https://open.spotify.com/album/0wucRfhZNVV29wCeusc9gr) | 3:16 | 2025-12-11 | 2025-12-19 |
 | [Third Eye Candy](https://open.spotify.com/track/6Ye1PYMubATErPBwxmKvSm) | [VoodooV](https://open.spotify.com/artist/6zlAZi3ZAlc3bs7srxb0yT) | [Third Eye Candy](https://open.spotify.com/album/4jO9frV0UIQQIjmeHKnBgg) | 3:58 | 2025-07-24 | 2025-08-01 |
+| [This & That](https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THIS & THAT](https://open.spotify.com/album/0VDVnZhY399q6sIrdyjZWj) | 3:05 | 2026-08-07 |  |
 | [THIS IS FOR](https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 2:11 | 2025-07-11 | 2025-07-18 |
 | [This Is Gonna Hurt](https://open.spotify.com/track/1wjnSSxjRAhbkO1qTSkDQw) | [Crybabyamy](https://open.spotify.com/artist/6dHqmYlpk4oGwRwSxGmc6e) | [This Is Gonna Hurt](https://open.spotify.com/album/7yCTuWwomhPUKfrIzHJ50A) | 3:36 | 2025-10-30 | 2025-11-07 |
 | [This is Real \(Disappear\)](https://open.spotify.com/track/3z8BNqNO2H8vlu5gnb2vAO) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [This is Real \(Disappear\)](https://open.spotify.com/album/4maE8TUee3j02PYXDhvxM9) | 4:57 | 2026-03-05 | 2026-03-13 |

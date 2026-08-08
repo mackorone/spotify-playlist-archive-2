@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOXDRN0iLDA.md) - [plain]
 
 > soft ambient + bird song for spring study sessions 🦜🌿 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,633 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,641 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOXDRN0iLDA.md) - [plain]
 | 74 | [we are free](https://open.spotify.com/track/4c0cHlYLujTqIQUGVOhBED) | [Lore](https://open.spotify.com/artist/5iAmH8roFlCIzK73jFSV5G), [Runaway Horses](https://open.spotify.com/artist/1lHNqvzVo8By9u0C0pLwlh) | [we are free](https://open.spotify.com/album/0rk8lxab2AXcs5zgwvcM1W) | 2:52 |
 | 75 | [Weightless](https://open.spotify.com/track/6vs3zn3RZXdnehXKsXhDmJ) | [Graphity](https://open.spotify.com/artist/4BFOUasxzvjSS6N2zvp4Zd), [Halo Healing](https://open.spotify.com/artist/5gvolaoSHOe7HqTPkdVoNk), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [A Shared Pulse](https://open.spotify.com/album/3zRf7QZeQV2QWFb7kUZP6F) | 2:48 |
 
-Snapshot ID: `AAAAAL7nsd26BU8dEynk9tvME7FnCsyr`
+Snapshot ID: `AAAAACNT96OJzzrC+ThQa1sl9eweA3aE`

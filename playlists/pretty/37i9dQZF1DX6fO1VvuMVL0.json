@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 158255,
+  "num_followers": 158297,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHlw3WE/a3LsgBU4pvmV5UNov4CN",
+  "snapshot_id": "AAAAALtTPphV6dUa2+sE3LJX4DG4HB1l",
   "tracks": [
     {
       "added_at": "2024-07-08 07:01:17",
@@ -155,6 +155,22 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
+        "name": "In Person",
+        "url": "https://open.spotify.com/album/3aq7Ksf1WJgawkDn362L07"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi",
+          "url": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV"
+        }
+      ],
+      "duration_ms": 353600,
+      "name": "On Green Dolphin Street",
+      "url": "https://open.spotify.com/track/7LjmOCCTbi0sIofmYzo9vK"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
         "name": "Hamp & Getz",
         "url": "https://open.spotify.com/album/7oa9WZyBnEHR8o0vjRWI7o"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 407800,
       "name": "Louise",
       "url": "https://open.spotify.com/track/4z1E9GltZHciLum0ybby9h"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
-        "name": "In Person",
-        "url": "https://open.spotify.com/album/3aq7Ksf1WJgawkDn362L07"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi",
-          "url": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV"
-        }
-      ],
-      "duration_ms": 353600,
-      "name": "On Green Dolphin Street",
-      "url": "https://open.spotify.com/track/7LjmOCCTbi0sIofmYzo9vK"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
+        "name": "Chet Baker Sextet",
+        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "I'm Glad There Is You - Remaster/2004",
+      "url": "https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 324773,
       "name": "Topsy",
       "url": "https://open.spotify.com/track/6NjhIcleyiyUmkuLcNhVek"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
-        "name": "Chet Baker Sextet",
-        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 194546,
-      "name": "I'm Glad There Is You - Remaster/2004",
-      "url": "https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy"
     },
     {
       "added_at": "2024-07-08 07:01:17",

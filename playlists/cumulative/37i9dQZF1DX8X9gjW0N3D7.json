@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: A Girl Named Sue",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Hansom \u0112li ",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -2543,6 +2543,24 @@
     },
     {
       "album": {
+        "name": "Les amours de seconde main",
+        "url": "https://open.spotify.com/album/3Hesk7w0WcahDmMjpTybob"
+      },
+      "artists": [
+        {
+          "name": "JF Pauz\u00e9",
+          "url": "https://open.spotify.com/artist/39KOW7xbNWdI7SBMcXlo9d"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283543,
+      "name": "Emm\u00eal\u00e9 dans ses ch'veux",
+      "url": "https://open.spotify.com/track/5jwqiVZBqEsNCup6rcx9rU"
+    },
+    {
+      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/6UtBF8mZYbiL0lhmHvl13u"
       },
@@ -3438,6 +3456,24 @@
       "duration_ms": 237840,
       "name": "Idiot",
       "url": "https://open.spotify.com/track/6CnnCExCfjAZcjmVWSv8fL"
+    },
+    {
+      "album": {
+        "name": "If Time '26",
+        "url": "https://open.spotify.com/album/0iCNkmgtnmryJH1R59l3U6"
+      },
+      "artists": [
+        {
+          "name": "Hansom \u0112li",
+          "url": "https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192466,
+      "name": "If Time \u201926",
+      "url": "https://open.spotify.com/track/4akzkJlxy9FDpa5axng9CE"
     },
     {
       "album": {
@@ -4380,7 +4416,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 204444,
       "name": "L'avalanche",
       "url": "https://open.spotify.com/track/4epe5Hl4QCVyuPMMuV1qbi"
@@ -6861,6 +6897,24 @@
     },
     {
       "album": {
+        "name": "Oh, My Lanta!",
+        "url": "https://open.spotify.com/album/5YI9qlHooRZbiEZfJi8fsM"
+      },
+      "artists": [
+        {
+          "name": "Theo Day",
+          "url": "https://open.spotify.com/artist/7kInTAGydeTIPx9JwrSApc"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174709,
+      "name": "Oh, My Lanta!",
+      "url": "https://open.spotify.com/track/0dthKlUKUhIUN0YHluFXs7"
+    },
+    {
+      "album": {
         "name": "tout me quitte / tout vient \u00e0 moi",
         "url": "https://open.spotify.com/album/6NzSqNUhcdFuOYlqgGVZJn"
       },
@@ -7876,7 +7930,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 202821,
       "name": "Quel tourment !",
       "url": "https://open.spotify.com/track/5TTrU6eheAdQYyHSL7dnR7"
@@ -8042,7 +8096,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 236551,
       "name": "Rebound",
       "url": "https://open.spotify.com/track/2NU1A3X5QujCGbAPdknQds"

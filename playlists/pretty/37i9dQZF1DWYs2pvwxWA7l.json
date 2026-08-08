@@ -1,12 +1,12 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover: Darkoo & Asake",
-  "num_followers": 650157,
+  "num_followers": 650295,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEOA7fXb3lGECywmKI3LniOP1fHM",
+  "snapshot_id": "AAAAAP36XGdjowjoOZ+pOv+hxdqFAA4K",
   "tracks": [
     {
       "added_at": "2026-08-07 00:01:21",
@@ -31,8 +31,8 @@
     {
       "added_at": "2026-08-07 00:01:21",
       "album": {
-        "name": "Back Outside",
-        "url": "https://open.spotify.com/album/267RcozdqaQbY90DqurUBZ"
+        "name": "Eja Meja (feat. Asake)",
+        "url": "https://open.spotify.com/album/7BSNh9DOcw3giOwnBAv3qA"
       },
       "artists": [
         {
@@ -40,13 +40,13 @@
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         },
         {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 211090,
-      "name": "Back Outside",
-      "url": "https://open.spotify.com/track/5WTj1jVzufTuSzFMyjy60M"
+      "duration_ms": 158108,
+      "name": "Eja Meja (feat. Asake)",
+      "url": "https://open.spotify.com/track/5Ca1fyuX04EKHCc8Cnb791"
     },
     {
       "added_at": "2026-08-07 00:01:21",
@@ -119,8 +119,8 @@
     {
       "added_at": "2026-08-07 00:01:21",
       "album": {
-        "name": "Eja Meja (feat. Asake)",
-        "url": "https://open.spotify.com/album/7BSNh9DOcw3giOwnBAv3qA"
+        "name": "Back Outside",
+        "url": "https://open.spotify.com/album/267RcozdqaQbY90DqurUBZ"
       },
       "artists": [
         {
@@ -128,13 +128,13 @@
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         },
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
         }
       ],
-      "duration_ms": 158108,
-      "name": "Eja Meja (feat. Asake)",
-      "url": "https://open.spotify.com/track/5Ca1fyuX04EKHCc8Cnb791"
+      "duration_ms": 211090,
+      "name": "Back Outside",
+      "url": "https://open.spotify.com/track/5WTj1jVzufTuSzFMyjy60M"
     },
     {
       "added_at": "2026-08-07 00:01:21",
@@ -279,6 +279,22 @@
     {
       "added_at": "2026-08-07 00:01:21",
       "album": {
+        "name": "Business",
+        "url": "https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 146490,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/16TR0AiDrZRV9TFOXBcSE9"
+    },
+    {
+      "added_at": "2026-08-07 00:01:21",
+      "album": {
         "name": "Gimme Dat Ting",
         "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 243755,
       "name": "Gimme Dat Ting (with NO11)",
       "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
-    },
-    {
-      "added_at": "2026-08-07 00:01:21",
-      "album": {
-        "name": "Business",
-        "url": "https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 146490,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/16TR0AiDrZRV9TFOXBcSE9"
     },
     {
       "added_at": "2026-08-07 00:01:21",
@@ -375,62 +375,6 @@
     {
       "added_at": "2026-08-07 00:01:21",
       "album": {
-        "name": "Oriad\u00e9",
-        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 150147,
-      "name": "Tell Everybody (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/23tywY9NLMzeejiRxMU4GY"
-    },
-    {
-      "added_at": "2026-08-07 00:01:21",
-      "album": {
-        "name": "GTA",
-        "url": "https://open.spotify.com/album/5U7HlyYuQLT3gE5RNVQTzN"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 155441,
-      "name": "GTA",
-      "url": "https://open.spotify.com/track/0xirG2M5QtFIzgkJCgpOnc"
-    },
-    {
-      "added_at": "2026-08-07 00:01:21",
-      "album": {
-        "name": "Juice & Liquor",
-        "url": "https://open.spotify.com/album/5MlDvYvYASREJcq5nJN0OZ"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 177087,
-      "name": "Juice & Liquor",
-      "url": "https://open.spotify.com/track/4isHpjM4xVhRI74vGjUm4R"
-    },
-    {
-      "added_at": "2026-08-07 00:01:21",
-      "album": {
         "name": "One Condition",
         "url": "https://open.spotify.com/album/4SUUObOcjEt3MtDwKReCCD"
       },
@@ -455,22 +399,58 @@
     {
       "added_at": "2026-08-07 00:01:21",
       "album": {
-        "name": "WORSHIP",
-        "url": "https://open.spotify.com/album/5VYH03sAzxNYEb3MZWOeWi"
+        "name": "GTA",
+        "url": "https://open.spotify.com/album/5U7HlyYuQLT3gE5RNVQTzN"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 163055,
-      "name": "WORSHIP",
-      "url": "https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO"
+      "duration_ms": 155441,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/0xirG2M5QtFIzgkJCgpOnc"
+    },
+    {
+      "added_at": "2026-08-07 00:01:21",
+      "album": {
+        "name": "Oriad\u00e9",
+        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 150147,
+      "name": "Tell Everybody (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/23tywY9NLMzeejiRxMU4GY"
+    },
+    {
+      "added_at": "2026-08-07 00:01:21",
+      "album": {
+        "name": "Juice & Liquor",
+        "url": "https://open.spotify.com/album/5MlDvYvYASREJcq5nJN0OZ"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 177087,
+      "name": "Juice & Liquor",
+      "url": "https://open.spotify.com/track/4isHpjM4xVhRI74vGjUm4R"
     },
     {
       "added_at": "2026-08-07 00:01:21",
@@ -495,6 +475,46 @@
       "duration_ms": 184437,
       "name": "ANGELS",
       "url": "https://open.spotify.com/track/6aQ3TBrTQ2mLzecfMpM3Og"
+    },
+    {
+      "added_at": "2026-08-07 00:01:21",
+      "album": {
+        "name": "STATE OF MIND",
+        "url": "https://open.spotify.com/album/5qTP3Akjr05OV0ZdSH7Mcx"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 192227,
+      "name": "STATE OF MIND",
+      "url": "https://open.spotify.com/track/6jHxHUv9jF1ss5NAkG6JPo"
+    },
+    {
+      "added_at": "2026-08-07 00:01:21",
+      "album": {
+        "name": "WORSHIP",
+        "url": "https://open.spotify.com/album/5VYH03sAzxNYEb3MZWOeWi"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 163055,
+      "name": "WORSHIP",
+      "url": "https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO"
     },
     {
       "added_at": "2026-08-07 00:01:21",
@@ -539,26 +559,6 @@
       "duration_ms": 170823,
       "name": "Hello",
       "url": "https://open.spotify.com/track/7LLy7WIoYCyE0HwZ5ph7C6"
-    },
-    {
-      "added_at": "2026-08-07 00:01:21",
-      "album": {
-        "name": "STATE OF MIND",
-        "url": "https://open.spotify.com/album/5qTP3Akjr05OV0ZdSH7Mcx"
-      },
-      "artists": [
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 192227,
-      "name": "STATE OF MIND",
-      "url": "https://open.spotify.com/track/6jHxHUv9jF1ss5NAkG6JPo"
     },
     {
       "added_at": "2026-08-07 00:01:21",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-08-07 00:01:21",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 137631,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
-    },
-    {
-      "added_at": "2026-08-07 00:01:21",
-      "album": {
         "name": "Very Soon",
         "url": "https://open.spotify.com/album/51Q7voQ9tecAT8150iglFc"
       },
@@ -1027,22 +1011,18 @@
     {
       "added_at": "2026-08-07 00:01:21",
       "album": {
-        "name": "Lomo Lomo",
-        "url": "https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
       },
       "artists": [
         {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 175130,
-      "name": "Lomo Lomo",
-      "url": "https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S"
+      "duration_ms": 137631,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
     },
     {
       "added_at": "2026-08-07 00:01:21",
@@ -1067,22 +1047,6 @@
     {
       "added_at": "2026-08-07 00:01:21",
       "album": {
-        "name": "TZA",
-        "url": "https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 153941,
-      "name": "Sooner",
-      "url": "https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y"
-    },
-    {
-      "added_at": "2026-08-07 00:01:21",
-      "album": {
         "name": "Run Away (OMALICHA)",
         "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
       },
@@ -1099,6 +1063,42 @@
       "duration_ms": 176200,
       "name": "Run Away (OMALICHA)",
       "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
+    },
+    {
+      "added_at": "2026-08-07 00:01:21",
+      "album": {
+        "name": "Lomo Lomo",
+        "url": "https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 175130,
+      "name": "Lomo Lomo",
+      "url": "https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S"
+    },
+    {
+      "added_at": "2026-08-07 00:01:21",
+      "album": {
+        "name": "TZA",
+        "url": "https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 153941,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y"
     },
     {
       "added_at": "2026-08-07 00:01:21",

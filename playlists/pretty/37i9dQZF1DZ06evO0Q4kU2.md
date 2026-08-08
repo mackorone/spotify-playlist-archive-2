@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q4kU2.md) - [plain]
 
 > This is Gabríel Ólafs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,550 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,551 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q4kU2.md) - [plain]
 | 49 | [Melodia Suite: Absent Minded \- Orchestral Works Version](https://open.spotify.com/track/7pJjeik5R9sbD3yrYIwfZl) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Reykjavík Orkestra](https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU), [Viktor Orri Árnason](https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1) | [Orchestral Works](https://open.spotify.com/album/6fJIhLghRJNCVWbmRWObn3) | 4:58 |
 | 50 | [Vortex](https://open.spotify.com/track/5qoHDfPRYh5K6scKLkm7xh) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar](https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9) | 3:52 |
 
-Snapshot ID: `anJ9AAAAAADAPjxfWad9qiXMttGP0pSL`
+Snapshot ID: `anPOgAAAAAD20KalpRt8kh7rqiXPXMlB`

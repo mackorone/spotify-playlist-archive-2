@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Bien Argento \ud83d\udcf8 Homer El Mero Mero",
+  "description": "Bien Argento \ud83d\udcf8 Bardero$",
   "name": "Hip Hop Argento",
   "tracks": [
     {
@@ -272,6 +272,28 @@
       "duration_ms": 138342,
       "name": "90's",
       "url": "https://open.spotify.com/track/2joekpIeB4D30yg6P12RF5"
+    },
+    {
+      "album": {
+        "name": "90bpm",
+        "url": "https://open.spotify.com/album/0aW3cLKPkio6KDXk4xL76J"
+      },
+      "artists": [
+        {
+          "name": "Deyco",
+          "url": "https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp"
+        },
+        {
+          "name": "Bruno Camm\u00e1",
+          "url": "https://open.spotify.com/artist/6TMLl5HJtRsq3RcU932WJE"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155772,
+      "name": "90bpm",
+      "url": "https://open.spotify.com/track/08TI3RlRnCoHDJ3TKjhKVw"
     },
     {
       "album": {
@@ -1488,7 +1510,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 240000,
       "name": "Calle y Desamor",
       "url": "https://open.spotify.com/track/3L0GdRkYgdzOjyltnjuW0Z"
@@ -1544,7 +1566,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 188751,
       "name": "Cambiaron Las Cosas",
       "url": "https://open.spotify.com/track/3rBGk2iShKhDnWdyDO7hFK"
@@ -1788,7 +1810,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 145008,
       "name": "CAUSALIDAD",
       "url": "https://open.spotify.com/track/2OHV8ExjIHLsgwfWWNAOPo"
@@ -3479,6 +3501,28 @@
     },
     {
       "album": {
+        "name": "ESTO NO ES PARA SIEMPRE",
+        "url": "https://open.spotify.com/album/57Q6AjsHYtXbJOzVOFfZpm"
+      },
+      "artists": [
+        {
+          "name": "Oney1",
+          "url": "https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt"
+        },
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181894,
+      "name": "ESTO NO ES PARA SIEMPRE",
+      "url": "https://open.spotify.com/track/2N6JSlWIe7JVf4YwjMJjnZ"
+    },
+    {
+      "album": {
         "name": "Estoy fuera - Freestyle",
         "url": "https://open.spotify.com/album/6V2frckzXN5aURiPlcWljL"
       },
@@ -4335,6 +4379,24 @@
     },
     {
       "album": {
+        "name": "GRAVEDAD DE BUENOS AIRES",
+        "url": "https://open.spotify.com/album/3CtToi37L7BZL3omkXjtt1"
+      },
+      "artists": [
+        {
+          "name": "ACRU",
+          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231016,
+      "name": "GRAVEDAD DE BUENOS AIRES",
+      "url": "https://open.spotify.com/track/223wMDUpl18BhffYN5dlcL"
+    },
+    {
+      "album": {
         "name": "Hasta que se desarme",
         "url": "https://open.spotify.com/album/29lAK0wIkl31fzkZMkRu7h"
       },
@@ -4354,7 +4416,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 155425,
       "name": "Hasta que se desarme",
       "url": "https://open.spotify.com/track/15VvnKB4Y0aOUU6DC0ub35"
@@ -4794,7 +4856,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 148468,
       "name": "INCONTABLE",
       "url": "https://open.spotify.com/track/5KYv2fIbvBRzaQTeJOeo5A"
@@ -5444,7 +5506,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 255000,
       "name": "LO CUMPL\u00cd",
       "url": "https://open.spotify.com/track/43G5Us3tMUSS2lov3HVTsZ"
@@ -5536,10 +5598,36 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 290508,
       "name": "Los Beatles",
       "url": "https://open.spotify.com/track/1cmH8UDWWKIYuKi0QpkePI"
+    },
+    {
+      "album": {
+        "name": "Los Due\u00f1os Del Juego",
+        "url": "https://open.spotify.com/album/650bXXwlMiSlzBetEftSSN"
+      },
+      "artists": [
+        {
+          "name": "Bardero$",
+          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113818,
+      "name": "Los Due\u00f1os Del Juego",
+      "url": "https://open.spotify.com/track/36u7WoFgbenOCmCP4Tztun"
     },
     {
       "album": {
@@ -6208,7 +6296,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 196750,
       "name": "melodia drumless",
       "url": "https://open.spotify.com/track/4htyv1WeJj43JkTWgu2LbX"
@@ -6376,6 +6464,28 @@
       "duration_ms": 147562,
       "name": "Modelo",
       "url": "https://open.spotify.com/track/3kpYDvfKVwjEwyl515tR7G"
+    },
+    {
+      "album": {
+        "name": "Modelo De Calle",
+        "url": "https://open.spotify.com/album/6CrzkdlPmPOMNc6nBBVRqm"
+      },
+      "artists": [
+        {
+          "name": "Sabor Americano",
+          "url": "https://open.spotify.com/artist/14OUQXeNEchUmECBMYvVoE"
+        },
+        {
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145183,
+      "name": "Modelo De Calle",
+      "url": "https://open.spotify.com/track/3XEceJJwlF7r88bp85b5WV"
     },
     {
       "album": {
@@ -6606,6 +6716,46 @@
       "duration_ms": 175500,
       "name": "NEGRAZO",
       "url": "https://open.spotify.com/track/4Ur6nJfWrcpK4nejuuK2Mn"
+    },
+    {
+      "album": {
+        "name": "nena es increible",
+        "url": "https://open.spotify.com/album/32esvK2VB6wG0262BdcJ11"
+      },
+      "artists": [
+        {
+          "name": "Eme Sarav",
+          "url": "https://open.spotify.com/artist/0QH2EQUeL4yhzlFC9XXjC2"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141687,
+      "name": "nena es increible",
+      "url": "https://open.spotify.com/track/7l0ThY5UaxY4CeZWPUvEFJ"
+    },
+    {
+      "album": {
+        "name": "BELLEZA DEL ALMA",
+        "url": "https://open.spotify.com/album/03U9Njhp8g1sblUPNX45Di"
+      },
+      "artists": [
+        {
+          "name": "sin1rostro",
+          "url": "https://open.spotify.com/artist/5d5rASnyRPeheVxkp3MT4A"
+        },
+        {
+          "name": "Cero problema",
+          "url": "https://open.spotify.com/artist/1zzcdtenOxSOHyIn4Kujto"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123035,
+      "name": "NMQQTS",
+      "url": "https://open.spotify.com/track/2lIpKXYCXH0KGVrOp1V6c8"
     },
     {
       "album": {
@@ -6954,6 +7104,28 @@
       "duration_ms": 144644,
       "name": "Otro Color",
       "url": "https://open.spotify.com/track/4UG9b7rz7OhhfRVyvqavDi"
+    },
+    {
+      "album": {
+        "name": "Con las Botas Puestas",
+        "url": "https://open.spotify.com/album/5LyOdi58cAVmCE5POYr7on"
+      },
+      "artists": [
+        {
+          "name": "Marcianos Crew",
+          "url": "https://open.spotify.com/artist/0Hkx0YcHHxDRRbH9WsSW0I"
+        },
+        {
+          "name": "Catnapp",
+          "url": "https://open.spotify.com/artist/6Lb9xXmK6C44Gt084kmY6B"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229102,
+      "name": "Ouuhhh",
+      "url": "https://open.spotify.com/track/6Kp1TOyYzXdgmPhUcVtAT6"
     },
     {
       "album": {
@@ -8491,6 +8663,28 @@
     },
     {
       "album": {
+        "name": "Serafines 808",
+        "url": "https://open.spotify.com/album/7ywXq36ywGsi4xzx73bslf"
+      },
+      "artists": [
+        {
+          "name": "Doly Flackko",
+          "url": "https://open.spotify.com/artist/6Mo5LUenVqXbaxeWw91lAH"
+        },
+        {
+          "name": "Emirsito",
+          "url": "https://open.spotify.com/artist/7h4m4bjcwfXV0zPRRNUaiB"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120007,
+      "name": "Serafines 808",
+      "url": "https://open.spotify.com/track/19nLkkE3bg1aQJp9rQUYZ0"
+    },
+    {
+      "album": {
         "name": "L'Ultimo Sabor",
         "url": "https://open.spotify.com/album/0DgQpJ53qzch9xGh1ucxpl"
       },
@@ -8506,7 +8700,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 177306,
       "name": "Seru Giran",
       "url": "https://open.spotify.com/track/2AYN4YWIQwwIITZ1Y16oCX"
@@ -9167,6 +9361,28 @@
     },
     {
       "album": {
+        "name": "TENER M\u00c1S",
+        "url": "https://open.spotify.com/album/70L07mv5HfYiucGgBWWudW"
+      },
+      "artists": [
+        {
+          "name": "sin1rostro",
+          "url": "https://open.spotify.com/artist/5d5rASnyRPeheVxkp3MT4A"
+        },
+        {
+          "name": "Lowner",
+          "url": "https://open.spotify.com/artist/7Abt9ALHeplHC992g6r4Im"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154955,
+      "name": "TENER M\u00c1S",
+      "url": "https://open.spotify.com/track/6pNWfuK6OgQPEwKDLvXecZ"
+    },
+    {
+      "album": {
         "name": "Tengo Sed",
         "url": "https://open.spotify.com/album/1qBiq07wvvO6W8fsuoz2UE"
       },
@@ -9560,7 +9776,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 132561,
       "name": "Turromantico",
       "url": "https://open.spotify.com/track/3RGoKDsfRntpLs5kjypgyR"

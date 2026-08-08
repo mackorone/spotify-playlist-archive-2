@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: Ruzzi
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,370 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,331 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 63 | [Voy en Auto](https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Voy en Auto](https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu) | 2:58 |
 | 64 | [Otros Ritmos](https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Otros Ritmos](https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc) | 3:42 |
 | 65 | [Si es contigo si](https://open.spotify.com/track/3e4v184cFsZZdy9gEk9S6f) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Si es contigo si](https://open.spotify.com/album/3GzUwScv8d3UskxWWj6480) | 2:26 |
-| 66 | [He Venido al Mar \- short mix](https://open.spotify.com/track/5IYgKrYcxbCzM2PQCtA7X8) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [He Venido al Mar](https://open.spotify.com/album/1qv5Iknhk3yL2GYS8AWsI4) | 5:40 |
-| 67 | [Clonazepamela](https://open.spotify.com/track/0m2HMCgaTuCKIn1iJqFWW4) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Clonazepamela](https://open.spotify.com/album/2oaC1GdSFnaSIWXiIJbdB4) | 2:10 |
+| 66 | [Clonazepamela](https://open.spotify.com/track/0m2HMCgaTuCKIn1iJqFWW4) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Clonazepamela](https://open.spotify.com/album/2oaC1GdSFnaSIWXiIJbdB4) | 2:10 |
+| 67 | [He Venido al Mar \- short mix](https://open.spotify.com/track/5IYgKrYcxbCzM2PQCtA7X8) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [He Venido al Mar](https://open.spotify.com/album/1qv5Iknhk3yL2GYS8AWsI4) | 5:40 |
 | 68 | [nada mejor](https://open.spotify.com/track/3kWuBlBpeKyaZzlGxVHG2e) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [nada mejor](https://open.spotify.com/album/4fe8cH92WZmb9rQVyy3aEK) | 3:17 |
 | 69 | [Multicolor](https://open.spotify.com/track/5ltWXcgwXQTlEYAufeo5g6) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Multicolor](https://open.spotify.com/album/6f1t2zPTfzFJ8CEbzOsqxF) | 3:40 |
 | 70 | [Ya No Es Lo Mismo](https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Ya No Es Lo Mismo](https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG) | 3:49 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 72 | [Ven Vamos](https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Ven Vamos](https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG) | 3:23 |
 | 73 | [Prada](https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Kick](https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL) | 2:43 |
 | 74 | [Bailemos en la Sala](https://open.spotify.com/track/570Ct7gYSSC3bXiNkSFryX) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 4:04 |
-| 75 | [Soy Asi](https://open.spotify.com/track/7qYCZTW9lkTYqvmat6S3RJ) | [Kevin Fret](https://open.spotify.com/artist/2qljieCcALPZhtxYzQVLDM) | [Soy Asi](https://open.spotify.com/album/6LKhRfBpI3Osjue9OgxWUl) | 3:52 |
-| 76 | [Sentirme Amante](https://open.spotify.com/track/4XZxkvm2ZLGwVwD1KlxFev) | [DANI RIDE](https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6) | [Drama Pop](https://open.spotify.com/album/6R4OZmoA8oEf2E2fyeUfkR) | 3:26 |
+| 75 | [Sentirme Amante](https://open.spotify.com/track/4XZxkvm2ZLGwVwD1KlxFev) | [DANI RIDE](https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6) | [Drama Pop](https://open.spotify.com/album/6R4OZmoA8oEf2E2fyeUfkR) | 3:26 |
+| 76 | [Soy Asi](https://open.spotify.com/track/7qYCZTW9lkTYqvmat6S3RJ) | [Kevin Fret](https://open.spotify.com/artist/2qljieCcALPZhtxYzQVLDM) | [Soy Asi](https://open.spotify.com/album/6LKhRfBpI3Osjue9OgxWUl) | 3:52 |
 | 77 | [Unx de nosotrxs \(feat\. Javiera Mena\)](https://open.spotify.com/track/7yVGw6fxhYPOLsD9BPWXnA) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Uno de nosotros \(feat\. Javiera Mena\)](https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3) | 4:09 |
 | 78 | [Canciones de Amor](https://open.spotify.com/track/1RjmeNxL0KNM0KTH8aySAO) | [Lesbiandrama](https://open.spotify.com/artist/0LZwj8XbxIwTjaDX478RXl), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Canciones de Amor](https://open.spotify.com/album/1xyRm4Ti9USkm9sVTwVfXU) | 3:14 |
 | 79 | [t hice gay :$](https://open.spotify.com/track/1DUN1BbGpJGOKx0EuD9wHt) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [t hice gay :$](https://open.spotify.com/album/4dt3wCNCFuyW05pymEXyF9) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 99 | [Don't Let Me Go](https://open.spotify.com/track/4bCZHjTRVlWOxoOIcz4sx4) | [Nikky Bourbon](https://open.spotify.com/artist/7akxqX9dq5DIqO0VwHo1jL), [Stylolive](https://open.spotify.com/artist/3EaujiKlOBEK1KK6fUa3rJ) | [Don't Let Me Go](https://open.spotify.com/album/2k3GiqtqWr8OG20dliRc8a) | 3:15 |
 | 100 | [corazoncito](https://open.spotify.com/track/3QwaKUFPO3CNJcTiWk0kfk) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [corazoncito](https://open.spotify.com/album/5YYkBqPFlaJidU80jXYD9i) | 2:58 |
 
-Snapshot ID: `AAAAAJ81OAHhMqgGmdOAR39Ipeg7G6oR`
+Snapshot ID: `AAAAAE/DFvZNZHEK8gwXOhP7d8HT8mcf`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yAm6Q.md) - [plain]
 
 > This is PJ Harvey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,558 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,565 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yAm6Q.md) - [plain]
 | 38 | [Let England Shake](https://open.spotify.com/track/6DST3HT8zF8WpNmg9tHuaa) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Let England Shake](https://open.spotify.com/album/2JfiVMvVhdueC48EmskS7t) | 3:09 |
 | 39 | [Dress](https://open.spotify.com/track/6pRWjTvrRM8vmf3LE9akXc) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Dry](https://open.spotify.com/album/0sOkhl9Sgep1t9v0wx8ffg) | 3:18 |
 | 40 | [Red Right Hand](https://open.spotify.com/track/0iZ4UE5OZyQwSzTTm6yIW0) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [B\-Sides, Demos & Rarities](https://open.spotify.com/album/1MHs4v5JaQAN9gDJW8Emkr) | 2:52 |
-| 41 | [Shame](https://open.spotify.com/track/3xUQfzyrHerNnSt3eUsprb) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Uh Huh Her](https://open.spotify.com/album/0ivvCuMKTQYeeZphq2k3oQ) | 2:31 |
+| 41 | [Missed](https://open.spotify.com/track/2tVMNPTbICJLm80kJP95aJ) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 4:25 |
 | 42 | [The Words That Maketh Murder](https://open.spotify.com/track/64EePXuDYpMZMvaTT7k8vi) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Let England Shake](https://open.spotify.com/album/2JfiVMvVhdueC48EmskS7t) | 3:45 |
-| 43 | [Missed](https://open.spotify.com/track/2tVMNPTbICJLm80kJP95aJ) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 4:25 |
+| 43 | [Shame](https://open.spotify.com/track/3xUQfzyrHerNnSt3eUsprb) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Uh Huh Her](https://open.spotify.com/album/0ivvCuMKTQYeeZphq2k3oQ) | 2:31 |
 | 44 | [The Mistery of Love](https://open.spotify.com/track/631jwAiEhwJO3aXpzHQx6X) | [Marianne Faithfull](https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Before the Poison](https://open.spotify.com/album/2d6SyohTVmBFfAVkE4Bzyu) | 3:51 |
-| 45 | [Sheela\-na\-gig](https://open.spotify.com/track/4WTNdb4ivbpoFuEMrykehP) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Dry](https://open.spotify.com/album/0sOkhl9Sgep1t9v0wx8ffg) | 3:12 |
-| 46 | [The Community Of Hope](https://open.spotify.com/track/1rHlc3clkZmCryFhGoRRXB) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [The Hope Six Demolition Project](https://open.spotify.com/album/1Un5JM2tnlI7I9GBgylutb) | 2:23 |
-| 47 | [Rub 'Til It Bleeds](https://open.spotify.com/track/2nZdhNwhvoaUIDqPG9rtz1) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 5:03 |
+| 45 | [Rub 'Til It Bleeds](https://open.spotify.com/track/2nZdhNwhvoaUIDqPG9rtz1) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 5:03 |
+| 46 | [Sheela\-na\-gig](https://open.spotify.com/track/4WTNdb4ivbpoFuEMrykehP) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Dry](https://open.spotify.com/album/0sOkhl9Sgep1t9v0wx8ffg) | 3:12 |
+| 47 | [The Community Of Hope](https://open.spotify.com/track/1rHlc3clkZmCryFhGoRRXB) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [The Hope Six Demolition Project](https://open.spotify.com/album/1Un5JM2tnlI7I9GBgylutb) | 2:23 |
 | 48 | [Prayer at the Gate](https://open.spotify.com/track/4ns5kqEVO7gospHYFeqlGz) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/3Fx9t2cVbxwd01JjbDatgg) | 4:14 |
 | 49 | [The Letter](https://open.spotify.com/track/2ZJ28OVvI4RDb6ZwxOOCOw) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Uh Huh Her](https://open.spotify.com/album/0ivvCuMKTQYeeZphq2k3oQ) | 3:19 |
-| 50 | [The Wheel](https://open.spotify.com/track/5RcKZnXma5ZZq8PWFsn06v) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [The Hope Six Demolition Project](https://open.spotify.com/album/1Un5JM2tnlI7I9GBgylutb) | 5:38 |
+| 50 | [Yuri\-G](https://open.spotify.com/track/72W93VrqRaDiyn3FushDXO) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 3:28 |
 
-Snapshot ID: `anJ9AAAAAAC+hoJdSXeyofqcT1jZTWpF`
+Snapshot ID: `anPOgAAAAADgoCIqUuyaRvUa9CKpFDtq`

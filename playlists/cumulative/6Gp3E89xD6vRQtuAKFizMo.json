@@ -427,6 +427,28 @@
     },
     {
       "album": {
+        "name": "AREA",
+        "url": "https://open.spotify.com/album/4h1r0SbjYdIPwNAGbe5bxj"
+      },
+      "artists": [
+        {
+          "name": "Bok Nero",
+          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
+        },
+        {
+          "name": "herd.",
+          "url": "https://open.spotify.com/artist/6SjZUnw89ZT8czspx9cCwS"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150447,
+      "name": "AREA",
+      "url": "https://open.spotify.com/track/05V7BAZ1pEI5452r3wPgGP"
+    },
+    {
+      "album": {
         "name": "Arm's Length",
         "url": "https://open.spotify.com/album/58ZUH38WuyiN1M0di6D4lL"
       },

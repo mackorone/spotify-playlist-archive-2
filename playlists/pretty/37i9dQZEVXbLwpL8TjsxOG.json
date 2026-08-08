@@ -1,31 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Hong Kong.",
-  "num_followers": 116553,
+  "num_followers": 116555,
   "original_name": "Top 50 - Hong Kong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mgf9UAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Mgk+aAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-08-06 16:00:40",
-      "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
-      },
-      "artists": [
-        {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
-        }
-      ],
-      "duration_ms": 180716,
-      "name": "Don\u2019t Say You Love Me",
-      "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
-    },
-    {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
       "album": {
         "name": "COMPOSITION",
         "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
@@ -41,7 +25,7 @@
       "url": "https://open.spotify.com/track/7yi7r8GxBX82iwVet5VBG5"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
       "album": {
         "name": "COMPOSITION",
         "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
@@ -57,7 +41,7 @@
       "url": "https://open.spotify.com/track/4vGg44GdCw3X8i8r01XJH0"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
       "album": {
         "name": "\u6700\u5f8c\u4e00\u500b\u964d\u843d\u5098",
         "url": "https://open.spotify.com/album/0dprxNMkU4LUdKBtCDhl1E"
@@ -73,23 +57,7 @@
       "url": "https://open.spotify.com/track/7Kv4G8a0IbFSbFy1D9s21H"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
-      "album": {
-        "name": "Helicopter",
-        "url": "https://open.spotify.com/album/3OqptSJEjyO5PAeRjd1x8s"
-      },
-      "artists": [
-        {
-          "name": "Anson Lo \u76e7\u701a\u9706",
-          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
-        }
-      ],
-      "duration_ms": 210320,
-      "name": "Helicopter",
-      "url": "https://open.spotify.com/track/4zWeX8ESpCEUiNVRz9D4xi"
-    },
-    {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
       "album": {
         "name": "Boulder",
         "url": "https://open.spotify.com/album/2qNlrdHeou8zY3ZCuAvsLO"
@@ -105,7 +73,7 @@
       "url": "https://open.spotify.com/track/2ziD1w2ZBLPHMmkhSHkayG"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
       "album": {
         "name": "COMPOSITION",
         "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
@@ -121,7 +89,23 @@
       "url": "https://open.spotify.com/track/687XL0vOW03rpY24lpAoTT"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
+      "album": {
+        "name": "Helicopter",
+        "url": "https://open.spotify.com/album/3OqptSJEjyO5PAeRjd1x8s"
+      },
+      "artists": [
+        {
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+        }
+      ],
+      "duration_ms": 210320,
+      "name": "Helicopter",
+      "url": "https://open.spotify.com/track/4zWeX8ESpCEUiNVRz9D4xi"
+    },
+    {
+      "added_at": "2026-08-07 15:34:19",
       "album": {
         "name": "COMPOSITION",
         "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
@@ -137,7 +121,7 @@
       "url": "https://open.spotify.com/track/1OoVtwFdwCHgu65joPlp4a"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
       "album": {
         "name": "Charisma",
         "url": "https://open.spotify.com/album/6hQVnVXXlrl3VkFGnhudQU"
@@ -153,7 +137,7 @@
       "url": "https://open.spotify.com/track/5aJmkkGitk4ZLWshLcdDPg"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
       "album": {
         "name": "\u672c\u547d",
         "url": "https://open.spotify.com/album/6mV5ykEWIa1L8kd9xJmevp"
@@ -169,7 +153,7 @@
       "url": "https://open.spotify.com/track/1DSqBa9qCrbTUwVYJFUPba"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
       "album": {
         "name": "Less than a Lover",
         "url": "https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn"
@@ -185,23 +169,7 @@
       "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
-      "album": {
-        "name": "Happy - :') (Remixes)",
-        "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
-      },
-      "artists": [
-        {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
-        }
-      ],
-      "duration_ms": 151646,
-      "name": "Running Wild",
-      "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
-    },
-    {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
       "album": {
         "name": "THE PROT\u00c9G\u00c9",
         "url": "https://open.spotify.com/album/6dTACv6BmB8pPh7vXhnp2X"
@@ -217,7 +185,7 @@
       "url": "https://open.spotify.com/track/56KAZ7TDmxSHw1L5gNvESi"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
       "album": {
         "name": "\u7537\u4eba\u600e\u53ef\u4ee5",
         "url": "https://open.spotify.com/album/7L7mQJGSbFFu9HEwHiQ1os"
@@ -233,7 +201,23 @@
       "url": "https://open.spotify.com/track/7M0ZCvE0HcikCJUy4cTsAF"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 180716,
+      "name": "Don\u2019t Say You Love Me",
+      "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
+    },
+    {
+      "added_at": "2026-08-07 15:34:19",
       "album": {
         "name": "petal",
         "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
@@ -249,27 +233,7 @@
       "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
-      "album": {
-        "name": "Winter Ahead (with PARK HYO SHIN)",
-        "url": "https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        },
-        {
-          "name": "Park Hyo Shin",
-          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
-        }
-      ],
-      "duration_ms": 234895,
-      "name": "Winter Ahead (with PARK HYO SHIN)",
-      "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
-    },
-    {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
       "album": {
         "name": "Sweet & Sour",
         "url": "https://open.spotify.com/album/6QBosNPYOQdUwK4ZAOH9fE"
@@ -285,7 +249,7 @@
       "url": "https://open.spotify.com/track/3SRtsmJwnR6rFnRauWV6ne"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
       "album": {
         "name": "\u65cb\u8f49\u6728\u99ac",
         "url": "https://open.spotify.com/album/0QYP20KqKGrDyMYqkrTBhx"
@@ -305,7 +269,27 @@
       "url": "https://open.spotify.com/track/5YOyplpxGqOuxDr0BlQI0u"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
+      "album": {
+        "name": "Winter Ahead (with PARK HYO SHIN)",
+        "url": "https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        },
+        {
+          "name": "Park Hyo Shin",
+          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
+        }
+      ],
+      "duration_ms": 234895,
+      "name": "Winter Ahead (with PARK HYO SHIN)",
+      "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
+    },
+    {
+      "added_at": "2026-08-07 15:34:19",
       "album": {
         "name": "petal",
         "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
@@ -321,39 +305,39 @@
       "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
       "album": {
-        "name": "\u653e\u68c4\u7684\u754c\u9650",
-        "url": "https://open.spotify.com/album/3RAevkXe0xuObe3O7Ip7Ng"
+        "name": "Movin' On",
+        "url": "https://open.spotify.com/album/7nHF8Dnh6gK9vnwXvpNcnp"
       },
       "artists": [
         {
-          "name": "Hins Cheung",
-          "url": "https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK"
+          "name": "Shiga Lin",
+          "url": "https://open.spotify.com/artist/5Uw3hCC51pNjdsD2MOs72K"
         }
       ],
-      "duration_ms": 217000,
-      "name": "\u653e\u68c4\u7684\u754c\u9650",
-      "url": "https://open.spotify.com/track/2yjdWLdNVckOHnR3DZNZM3"
+      "duration_ms": 261571,
+      "name": "\u5230\u6b64\u70ba\u6b62",
+      "url": "https://open.spotify.com/track/0hKkGlDhaef5OPrXfc8Idx"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
+        "name": "\u9072\u7720\u5291",
+        "url": "https://open.spotify.com/album/2kbXtzCCdtfuln5SVoiyn2"
       },
       "artists": [
         {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
         }
       ],
-      "duration_ms": 158494,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
+      "duration_ms": 193310,
+      "name": "\u9072\u7720\u5291",
+      "url": "https://open.spotify.com/track/73NteZIJck8x3flUCCQoGq"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
       "album": {
         "name": "\u4ed9\u5973\u5ea7\u4e8b\u6545",
         "url": "https://open.spotify.com/album/2jT9Zm7eVah3zKxH4VA0xO"
@@ -373,23 +357,39 @@
       "url": "https://open.spotify.com/track/7vf2wD61Wilmv43CeAtyDq"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
       "album": {
-        "name": "\u9072\u7720\u5291",
-        "url": "https://open.spotify.com/album/2kbXtzCCdtfuln5SVoiyn2"
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
       },
       "artists": [
         {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
         }
       ],
-      "duration_ms": 193310,
-      "name": "\u9072\u7720\u5291",
-      "url": "https://open.spotify.com/track/73NteZIJck8x3flUCCQoGq"
+      "duration_ms": 158494,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
+      "album": {
+        "name": "\u653e\u68c4\u7684\u754c\u9650",
+        "url": "https://open.spotify.com/album/3RAevkXe0xuObe3O7Ip7Ng"
+      },
+      "artists": [
+        {
+          "name": "Hins Cheung",
+          "url": "https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "\u653e\u68c4\u7684\u754c\u9650",
+      "url": "https://open.spotify.com/track/2yjdWLdNVckOHnR3DZNZM3"
+    },
+    {
+      "added_at": "2026-08-07 15:34:19",
       "album": {
         "name": "Kingdom",
         "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
@@ -405,39 +405,7 @@
       "url": "https://open.spotify.com/track/39ExV9Bb9I07obU2GEvebh"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
-      "album": {
-        "name": "\u5074\u7530",
-        "url": "https://open.spotify.com/album/5Hk2Nep8JUWkvk1cPX9qC8"
-      },
-      "artists": [
-        {
-          "name": "Justin Lo",
-          "url": "https://open.spotify.com/artist/3lva01D3HtmlEKjuxAZ7bC"
-        }
-      ],
-      "duration_ms": 217013,
-      "name": "\u547d\u786c",
-      "url": "https://open.spotify.com/track/331aol4yMUVA93MsVBZV9R"
-    },
-    {
-      "added_at": "2026-08-06 16:00:40",
-      "album": {
-        "name": "THE PROT\u00c9G\u00c9",
-        "url": "https://open.spotify.com/album/6dTACv6BmB8pPh7vXhnp2X"
-      },
-      "artists": [
-        {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
-        }
-      ],
-      "duration_ms": 222668,
-      "name": "\u7dca\u6025\u806f\u7d61\u4eba",
-      "url": "https://open.spotify.com/track/3qejxDQ65H8Wz5y0GsUgsN"
-    },
-    {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
       "album": {
         "name": "\u6c92\u6709\u7fc5\u8180\u7684\u5929\u4f7f",
         "url": "https://open.spotify.com/album/4HRDWKteX0ldGpdvT0RePu"
@@ -457,7 +425,87 @@
       "url": "https://open.spotify.com/track/4JgANNfSO7liTvGAUHJwOP"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
+      "album": {
+        "name": "\u5074\u7530",
+        "url": "https://open.spotify.com/album/5Hk2Nep8JUWkvk1cPX9qC8"
+      },
+      "artists": [
+        {
+          "name": "Justin Lo",
+          "url": "https://open.spotify.com/artist/3lva01D3HtmlEKjuxAZ7bC"
+        }
+      ],
+      "duration_ms": 217013,
+      "name": "\u547d\u786c",
+      "url": "https://open.spotify.com/track/331aol4yMUVA93MsVBZV9R"
+    },
+    {
+      "added_at": "2026-08-07 15:34:19",
+      "album": {
+        "name": "THE PROT\u00c9G\u00c9",
+        "url": "https://open.spotify.com/album/6dTACv6BmB8pPh7vXhnp2X"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "duration_ms": 222668,
+      "name": "\u7dca\u6025\u806f\u7d61\u4eba",
+      "url": "https://open.spotify.com/track/3qejxDQ65H8Wz5y0GsUgsN"
+    },
+    {
+      "added_at": "2026-08-07 15:34:19",
+      "album": {
+        "name": "\u90a3\u62b9\u67d4\u5149\uff0c\u540d\u70ba\u4f60",
+        "url": "https://open.spotify.com/album/7p77bTvrCRlwEg5yaqDf6l"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "duration_ms": 186206,
+      "name": "\u90a3\u62b9\u67d4\u5149\uff0c\u540d\u70ba\u4f60",
+      "url": "https://open.spotify.com/track/1Sk8a6wvXN26PfQh9BBScf"
+    },
+    {
+      "added_at": "2026-08-07 15:34:19",
+      "album": {
+        "name": "\u7121\u57a2",
+        "url": "https://open.spotify.com/album/0dGQXVGa3gH712ZF8TtVOE"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "duration_ms": 209631,
+      "name": "\u7121\u57a2",
+      "url": "https://open.spotify.com/track/4kIQyOQZiJibQ88UJsrVxi"
+    },
+    {
+      "added_at": "2026-08-07 15:34:19",
+      "album": {
+        "name": "\u8a18\u61b6\u68c9",
+        "url": "https://open.spotify.com/album/6uWrUpmYlVSBmJ6RkCW4QE"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "duration_ms": 273390,
+      "name": "\u8a18\u61b6\u68c9",
+      "url": "https://open.spotify.com/track/1ZrnCyms7CBYsCvkkVIkt8"
+    },
+    {
+      "added_at": "2026-08-07 15:34:19",
       "album": {
         "name": "FB\u611b\u4e0d\u5b8c",
         "url": "https://open.spotify.com/album/36RLX27ALeHuc0hG2apfF2"
@@ -477,39 +525,7 @@
       "url": "https://open.spotify.com/track/4Quwh4FUE0N9APHnIsLUul"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
-      "album": {
-        "name": "\u90a3\u62b9\u67d4\u5149\uff0c\u540d\u70ba\u4f60",
-        "url": "https://open.spotify.com/album/7p77bTvrCRlwEg5yaqDf6l"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
-        }
-      ],
-      "duration_ms": 186206,
-      "name": "\u90a3\u62b9\u67d4\u5149\uff0c\u540d\u70ba\u4f60",
-      "url": "https://open.spotify.com/track/1Sk8a6wvXN26PfQh9BBScf"
-    },
-    {
-      "added_at": "2026-08-06 16:00:40",
-      "album": {
-        "name": "\u7121\u57a2",
-        "url": "https://open.spotify.com/album/0dGQXVGa3gH712ZF8TtVOE"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
-        }
-      ],
-      "duration_ms": 209631,
-      "name": "\u7121\u57a2",
-      "url": "https://open.spotify.com/track/4kIQyOQZiJibQ88UJsrVxi"
-    },
-    {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
       "album": {
         "name": "\u9748\u9b42\u76f8\u9858",
         "url": "https://open.spotify.com/album/4elnFkhszyQrZU3bvfzt68"
@@ -525,7 +541,7 @@
       "url": "https://open.spotify.com/track/38F7uzj36i8dXS9lwDjJQF"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
       "album": {
         "name": "This is MC",
         "url": "https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx"
@@ -541,39 +557,23 @@
       "url": "https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
       "album": {
-        "name": "\u8a18\u61b6\u68c9",
-        "url": "https://open.spotify.com/album/6uWrUpmYlVSBmJ6RkCW4QE"
+        "name": "COMPOSITION",
+        "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
       },
       "artists": [
         {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
         }
       ],
-      "duration_ms": 273390,
-      "name": "\u8a18\u61b6\u68c9",
-      "url": "https://open.spotify.com/track/1ZrnCyms7CBYsCvkkVIkt8"
+      "duration_ms": 227542,
+      "name": "\u6d41\u6d6a\u661f\u7403",
+      "url": "https://open.spotify.com/track/7rJDyMalhenvCV4uwxL1fl"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
-      "album": {
-        "name": "Movin' On",
-        "url": "https://open.spotify.com/album/7nHF8Dnh6gK9vnwXvpNcnp"
-      },
-      "artists": [
-        {
-          "name": "Shiga Lin",
-          "url": "https://open.spotify.com/artist/5Uw3hCC51pNjdsD2MOs72K"
-        }
-      ],
-      "duration_ms": 261571,
-      "name": "\u5230\u6b64\u70ba\u6b62",
-      "url": "https://open.spotify.com/track/0hKkGlDhaef5OPrXfc8Idx"
-    },
-    {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
       "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
@@ -593,23 +593,7 @@
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
-      "album": {
-        "name": "COMPOSITION",
-        "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
-      },
-      "artists": [
-        {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
-        }
-      ],
-      "duration_ms": 227542,
-      "name": "\u6d41\u6d6a\u661f\u7403",
-      "url": "https://open.spotify.com/track/7rJDyMalhenvCV4uwxL1fl"
-    },
-    {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
       "album": {
         "name": "\u73bb\u7483",
         "url": "https://open.spotify.com/album/1MCcGh977wVc1i7h4qXoPy"
@@ -625,7 +609,7 @@
       "url": "https://open.spotify.com/track/4lZVYNSHy3bKN1pqTxw9Zl"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
       "album": {
         "name": "COMPOSITION",
         "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
@@ -641,103 +625,7 @@
       "url": "https://open.spotify.com/track/6PKraUz7pKyBqyeI2B7A0y"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
-      "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 159007,
-      "name": "SWIM",
-      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
-    },
-    {
-      "added_at": "2026-08-06 16:00:40",
-      "album": {
-        "name": "Kingdom",
-        "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
-      },
-      "artists": [
-        {
-          "name": "Anson Lo \u76e7\u701a\u9706",
-          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
-        }
-      ],
-      "duration_ms": 178241,
-      "name": "Rude Boy",
-      "url": "https://open.spotify.com/track/0QVZGqjKyP0rQveBZsCdEm"
-    },
-    {
-      "added_at": "2026-08-06 16:00:40",
-      "album": {
-        "name": "\u2f24\u6578\u64da\u4ee5\u70ba\u6211\u9084\u611b\u4f60",
-        "url": "https://open.spotify.com/album/2aRAPyR9Dij9r9bOKuwFC3"
-      },
-      "artists": [
-        {
-          "name": "Zpecial",
-          "url": "https://open.spotify.com/artist/56Ac1JJiopOrWDuRIb330x"
-        }
-      ],
-      "duration_ms": 236574,
-      "name": "\u2f24\u6578\u64da\u4ee5\u70ba\u6211\u9084\u611b\u4f60",
-      "url": "https://open.spotify.com/track/3rmuXslHhKytFULrHMlXCX"
-    },
-    {
-      "added_at": "2026-08-06 16:00:40",
-      "album": {
-        "name": "LEMONADE - The 2nd Album",
-        "url": "https://open.spotify.com/album/1GjT1mri5wvJAYZ3rnZamk"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "LEMONADE",
-      "url": "https://open.spotify.com/track/6vjt2smGK75oc9r2OGFfgp"
-    },
-    {
-      "added_at": "2026-08-06 16:00:40",
-      "album": {
-        "name": "COMPOSITION",
-        "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
-      },
-      "artists": [
-        {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
-        }
-      ],
-      "duration_ms": 182588,
-      "name": "\u767d\u679c",
-      "url": "https://open.spotify.com/track/7rDG7qFA42Zx6oan6hua2q"
-    },
-    {
-      "added_at": "2026-08-06 16:00:40",
-      "album": {
-        "name": "Inner l Child",
-        "url": "https://open.spotify.com/album/1acqgOtA58NJJsMi7315ds"
-      },
-      "artists": [
-        {
-          "name": "Kaho Hung",
-          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
-        }
-      ],
-      "duration_ms": 219385,
-      "name": "\u9ed1\u73bb\u7483",
-      "url": "https://open.spotify.com/track/65TyCkIJtF8hDF599vCXwe"
-    },
-    {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
       "album": {
         "name": "Let go",
         "url": "https://open.spotify.com/album/22lJ0X3uJ53RhyaeeGzwOO"
@@ -753,7 +641,87 @@
       "url": "https://open.spotify.com/track/0VKdwugDTY088b1J84QH3e"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
+      "album": {
+        "name": "LEMONADE - The 2nd Album (NINGNING Special Version)",
+        "url": "https://open.spotify.com/album/437o5FFGCf3CszTjO3wVAi"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/1Hv8KIKhK6Dz02ROKT63lV"
+    },
+    {
+      "added_at": "2026-08-07 15:34:19",
+      "album": {
+        "name": "Kingdom",
+        "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
+      },
+      "artists": [
+        {
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+        }
+      ],
+      "duration_ms": 178241,
+      "name": "Rude Boy",
+      "url": "https://open.spotify.com/track/0QVZGqjKyP0rQveBZsCdEm"
+    },
+    {
+      "added_at": "2026-08-07 15:34:19",
+      "album": {
+        "name": "COMPOSITION",
+        "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "duration_ms": 182588,
+      "name": "\u767d\u679c",
+      "url": "https://open.spotify.com/track/7rDG7qFA42Zx6oan6hua2q"
+    },
+    {
+      "added_at": "2026-08-07 15:34:19",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 159007,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
+    },
+    {
+      "added_at": "2026-08-07 15:34:19",
+      "album": {
+        "name": "\u2f24\u6578\u64da\u4ee5\u70ba\u6211\u9084\u611b\u4f60",
+        "url": "https://open.spotify.com/album/2aRAPyR9Dij9r9bOKuwFC3"
+      },
+      "artists": [
+        {
+          "name": "Zpecial",
+          "url": "https://open.spotify.com/artist/56Ac1JJiopOrWDuRIb330x"
+        }
+      ],
+      "duration_ms": 236574,
+      "name": "\u2f24\u6578\u64da\u4ee5\u70ba\u6211\u9084\u611b\u4f60",
+      "url": "https://open.spotify.com/track/3rmuXslHhKytFULrHMlXCX"
+    },
+    {
+      "added_at": "2026-08-07 15:34:19",
       "album": {
         "name": "This is MC",
         "url": "https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx"
@@ -769,23 +737,39 @@
       "url": "https://open.spotify.com/track/3x2hKSUf8O8IqI1shmxGnp"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
       "album": {
-        "name": "Kingdom",
-        "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
+        "name": "Stat UP",
+        "url": "https://open.spotify.com/album/1fFP9aBmo9sSVQXQK5wTqd"
       },
       "artists": [
         {
-          "name": "Anson Lo \u76e7\u701a\u9706",
-          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+          "name": "Wilfred Lau",
+          "url": "https://open.spotify.com/artist/6Vfc2kpU520XHaSRDRdNCG"
         }
       ],
-      "duration_ms": 221791,
-      "name": "\u6211\u7684\u652f\u6301\u578b\u4f34\u4fb6",
-      "url": "https://open.spotify.com/track/5y3pmjOQvxW5TT5JuLyZRh"
+      "duration_ms": 205933,
+      "name": "\u601d\u89ba\u5931\u8abf",
+      "url": "https://open.spotify.com/track/3H9gYJcdtqeUiM8WX8YrZz"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
+      "album": {
+        "name": "Inner l Child",
+        "url": "https://open.spotify.com/album/1acqgOtA58NJJsMi7315ds"
+      },
+      "artists": [
+        {
+          "name": "Kaho Hung",
+          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
+        }
+      ],
+      "duration_ms": 219385,
+      "name": "\u9ed1\u73bb\u7483",
+      "url": "https://open.spotify.com/track/65TyCkIJtF8hDF599vCXwe"
+    },
+    {
+      "added_at": "2026-08-07 15:34:19",
       "album": {
         "name": "Kingdom",
         "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
@@ -801,36 +785,60 @@
       "url": "https://open.spotify.com/track/2Q66ChjPr3wNvE1DvybiKf"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
       "album": {
-        "name": "No Protection",
-        "url": "https://open.spotify.com/album/4U2vBvv8vEqVb8MG1s9tON"
+        "name": "ICONIC BY MISTAKE",
+        "url": "https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam"
       },
       "artists": [
         {
-          "name": "Justin Lo",
-          "url": "https://open.spotify.com/artist/3lva01D3HtmlEKjuxAZ7bC"
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        },
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
         }
       ],
-      "duration_ms": 249266,
-      "name": "\u7f8e\u9e97\u4e4b\u6700",
-      "url": "https://open.spotify.com/track/0Iz6uTneQ9aVAAEveG3ORL"
+      "duration_ms": 177982,
+      "name": "ICONIC BY MISTAKE",
+      "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
     },
     {
-      "added_at": "2026-08-06 16:00:40",
+      "added_at": "2026-08-07 15:34:19",
       "album": {
-        "name": "Stat UP",
-        "url": "https://open.spotify.com/album/1fFP9aBmo9sSVQXQK5wTqd"
+        "name": "Once Said",
+        "url": "https://open.spotify.com/album/4vEDEmoJl6C9gMSArAz7EQ"
       },
       "artists": [
         {
-          "name": "Wilfred Lau",
-          "url": "https://open.spotify.com/artist/6Vfc2kpU520XHaSRDRdNCG"
+          "name": "Shiga Lin",
+          "url": "https://open.spotify.com/artist/5Uw3hCC51pNjdsD2MOs72K"
         }
       ],
-      "duration_ms": 205933,
-      "name": "\u601d\u89ba\u5931\u8abf",
-      "url": "https://open.spotify.com/track/3H9gYJcdtqeUiM8WX8YrZz"
+      "duration_ms": 251387,
+      "name": "\u53ea\u8981\u548c\u4f60\u5728\u4e00\u8d77",
+      "url": "https://open.spotify.com/track/6BnnESswToNUBdif5h9aGP"
+    },
+    {
+      "added_at": "2026-08-07 15:34:19",
+      "album": {
+        "name": "Sweet & Sour",
+        "url": "https://open.spotify.com/album/6QBosNPYOQdUwK4ZAOH9fE"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "duration_ms": 273437,
+      "name": "\u6771\u90aa",
+      "url": "https://open.spotify.com/track/4Yr6otFebxk170q2TbpEbS"
     }
   ],
   "unique_name": "Top 50 - Hong Kong",

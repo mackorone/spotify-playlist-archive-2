@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,219 likes - 279 songs - 13 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,221 likes - 279 songs - 13 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 90 | [FLORIDA FLOW](https://open.spotify.com/track/0n0WCuHUS2n4iZrKmUUzbH) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [JACKBOYS 2](https://open.spotify.com/album/5GBAHu7EH8HWX5tBCjL0SA) | 5:28 |
 | 91 | [DomeShuffle](https://open.spotify.com/track/6PnyMfUwWslSSnup9ug9BO) | [STMG DemGuyz](https://open.spotify.com/artist/0jieytrsm8GJJGwTTCAkkq) | [DomeShuffle](https://open.spotify.com/album/36ZiA6JeMcdcuc1uKfrO7m) | 3:54 |
 | 92 | [AUTOMATIC](https://open.spotify.com/track/2TqfASuL5JRds7bJX01PdZ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [ZUU](https://open.spotify.com/album/6PkSBdx19zarn4ae1D08gA) | 3:02 |
-| 93 | [Hottest in the City](https://open.spotify.com/track/22Fwimjd0oaL06eU7Aura4) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Hottest in the City](https://open.spotify.com/album/7nP87PXdPv4oPYKWRc5x1z) | 3:03 |
-| 94 | [SoIcyBoyz 3 \(feat\. Gucci Mane, Pooh Shiesty, Foogiano & Tay Keith\)](https://open.spotify.com/track/72ziZoo6V8N1TpusTXXJGO) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Big Grim Reaper](https://open.spotify.com/album/3p89sh1IV385sHS85PHe8w) | 3:24 |
+| 93 | [SoIcyBoyz 3 \(feat\. Gucci Mane, Pooh Shiesty, Foogiano & Tay Keith\)](https://open.spotify.com/track/72ziZoo6V8N1TpusTXXJGO) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Big Grim Reaper](https://open.spotify.com/album/3p89sh1IV385sHS85PHe8w) | 3:24 |
+| 94 | [Hottest in the City](https://open.spotify.com/track/22Fwimjd0oaL06eU7Aura4) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Hottest in the City](https://open.spotify.com/album/7nP87PXdPv4oPYKWRc5x1z) | 3:03 |
 | 95 | [SHINE](https://open.spotify.com/track/1yHdfeCpeKPmSzQdfqHtq8) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [QUAVO HUNCHO](https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1) | 2:43 |
 | 96 | [Anti\-Hero \(feat\. Lil Tecca\)](https://open.spotify.com/track/5HZ5NjyJVMaboBgG6uQMpK) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Sorry 4 The Wait](https://open.spotify.com/album/6MVsBi4m5eAzfjb6C3JKwp) | 3:12 |
 | 97 | [Gang Gang](https://open.spotify.com/track/3FJRvlunxuqpLzekp4YGgc) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [2 Federal](https://open.spotify.com/album/5Wc8IknW6BeXOpoH3jB6hn) | 3:12 |
@@ -160,8 +160,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 150 | [Super Fake](https://open.spotify.com/track/364XsAmsQMhorJeuk4NulV) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [2 Heartless](https://open.spotify.com/album/1XQnW746HBsLJAgZUW9Kyu) | 2:12 |
 | 151 | [No Filter](https://open.spotify.com/track/4kGKvPLGQXn4X8gWm35cSn) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [43VA HEARTLESS](https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f) | 2:50 |
 | 152 | [They Madd](https://open.spotify.com/track/4q3q8GiRSa1rKBCdwwsSHc) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [RESET](https://open.spotify.com/album/547DJFUYOl2SBYJbo2jZX1) | 3:09 |
-| 153 | [Rush Hour](https://open.spotify.com/track/1Gs1Jd3UXixFgZ3NncoiYQ) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Bet On Me](https://open.spotify.com/album/6TFMgR0C4F4ql0OkXSf9Fh) | 2:01 |
-| 154 | [FACE DOWN](https://open.spotify.com/track/2LVWUtmRJR7vVrbmKovmbB) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PROJECT X](https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc) | 2:20 |
+| 153 | [FACE DOWN](https://open.spotify.com/track/2LVWUtmRJR7vVrbmKovmbB) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PROJECT X](https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc) | 2:20 |
+| 154 | [Rush Hour](https://open.spotify.com/track/1Gs1Jd3UXixFgZ3NncoiYQ) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Bet On Me](https://open.spotify.com/album/6TFMgR0C4F4ql0OkXSf9Fh) | 2:01 |
 | 155 | [Ya Bih](https://open.spotify.com/track/1sKn4AQNdddMINS7I0A6Tl) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [CM10: Free Game](https://open.spotify.com/album/5IX0jXUhnaOyc7uqJi5DCT) | 2:37 |
 | 156 | [TaKe oNe](https://open.spotify.com/track/1r1CbOrfAaiYQiDfk7lssT) | [Co Cash](https://open.spotify.com/artist/0d0wL41ZqFutUwco4uO1dH), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Foolhardy](https://open.spotify.com/album/0uXgNssRMoB2clRboMKeM8) | 2:22 |
 | 157 | [Not Too Many](https://open.spotify.com/track/6lU7MhNXxqqAMH2pa9MJDX) | [Flipp Dinero](https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp) | [LOVE FOR GUALA](https://open.spotify.com/album/3zMEkZNzS5yJDcnqPhIk10) | 2:56 |
@@ -288,4 +288,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 278 | [That's Him](https://open.spotify.com/track/4eQFDkbkOwMEMpxzby8vxg) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:45 |
 | 279 | [Set Trip](https://open.spotify.com/track/4K0VtxxPpiQ1BJ4EUK803r) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Illuminati](https://open.spotify.com/album/2EtFM5N9CfL29S56ZK1LhK) | 2:25 |
 
-Snapshot ID: `AcY48AAAAADclHOTYAb/UBd5SkTgZ5fe`
+Snapshot ID: `AcY+GAAAAADcandThLV1wKw0bXW0Mpmr`

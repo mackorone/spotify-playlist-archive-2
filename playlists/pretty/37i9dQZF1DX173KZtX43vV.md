@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Original Koffee
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,347 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,358 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 49 | [Gone](https://open.spotify.com/track/4nHI5vymajDW7wuZ3XNCeS) | [Noaah](https://open.spotify.com/artist/3Og0HlgdW9l89ref8rY5DX) | [Gone](https://open.spotify.com/album/43p1z665FrDYIG892BkfsO) | 2:36 |
 | 50 | [Ready Or Not](https://open.spotify.com/track/40ARQVvriWGmf0DndDMCrR) | [Jimmy](https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo) | [Ready Or Not](https://open.spotify.com/album/1LqMtYuxATiSkMptSauXmM) | 2:11 |
 
-Snapshot ID: `AAAAAEwgZnzqWv0d0f9EuIgNHAgGhQt/`
+Snapshot ID: `AAAAADs8/WCg40IJCUc5QjZZlPSxLfZs`

@@ -1,12 +1,12 @@
 {
   "description": "a little indie, a little pop, soda featuring Will Linley",
-  "num_followers": 229184,
+  "num_followers": 229172,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAVlmwyYzj74qxbMocyaHH44mH87",
+  "snapshot_id": "AAAAABPX0sxT6xR2IWudL92wA4fLbhcK",
   "tracks": [
     {
       "added_at": "2026-07-24 04:02:41",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/5cjaXus6h65tKqjFf2ULU7"
     },
     {
+      "added_at": "2026-08-07 04:24:23",
+      "album": {
+        "name": "That's a Year",
+        "url": "https://open.spotify.com/album/6U7cekaGWJ3dSMaWaXaNfA"
+      },
+      "artists": [
+        {
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+        }
+      ],
+      "duration_ms": 159171,
+      "name": "That's a Year",
+      "url": "https://open.spotify.com/track/0kZM3WMqxlJiIU43CkASer"
+    },
+    {
       "added_at": "2026-07-10 04:02:28",
       "album": {
         "name": "After The After Party",
@@ -73,6 +89,38 @@
       "url": "https://open.spotify.com/track/6NYNsVgVEFLlV1A3fHyEiD"
     },
     {
+      "added_at": "2026-08-07 04:24:23",
+      "album": {
+        "name": "Stunner",
+        "url": "https://open.spotify.com/album/1WOBDxDGuGF763HTh7YSEV"
+      },
+      "artists": [
+        {
+          "name": "GRESLEY",
+          "url": "https://open.spotify.com/artist/3jH7tPNd2gFLXAekbpUCOf"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "Stunner",
+      "url": "https://open.spotify.com/track/5WPulnXHTJuGhdhMNg7KQN"
+    },
+    {
+      "added_at": "2026-08-07 04:24:23",
+      "album": {
+        "name": "Who We Are",
+        "url": "https://open.spotify.com/album/6gIX1GpqaD5UMqrgmXqxXV"
+      },
+      "artists": [
+        {
+          "name": "thebandfriday",
+          "url": "https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/1jKBuqvBVcKaJWZOLqWyVF"
+    },
+    {
       "added_at": "2026-07-24 04:02:41",
       "album": {
         "name": "If I Ever Talk To God",
@@ -103,6 +151,22 @@
       "duration_ms": 132840,
       "name": "Your Way",
       "url": "https://open.spotify.com/track/1fqWRWfGPBqj5Hfm6bnPIh"
+    },
+    {
+      "added_at": "2026-08-07 04:24:23",
+      "album": {
+        "name": "Glass Heart",
+        "url": "https://open.spotify.com/album/14LsBH1VJRERJcZcpV7DWv"
+      },
+      "artists": [
+        {
+          "name": "Loote",
+          "url": "https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ"
+        }
+      ],
+      "duration_ms": 208095,
+      "name": "Glass Heart",
+      "url": "https://open.spotify.com/track/2quRp9CJ76dzPbRvu55Ven"
     },
     {
       "added_at": "2026-07-17 04:02:15",
@@ -141,6 +205,22 @@
       "url": "https://open.spotify.com/track/2Df5ZX1R04fIp5uIyxrA8D"
     },
     {
+      "added_at": "2026-08-07 04:24:23",
+      "album": {
+        "name": "In The Middle",
+        "url": "https://open.spotify.com/album/3BGj1G2MpPs3Qxo9aOMxa8"
+      },
+      "artists": [
+        {
+          "name": "Caleb Dee",
+          "url": "https://open.spotify.com/artist/6IH1aTMnS77wKDFDST3Jnh"
+        }
+      ],
+      "duration_ms": 154552,
+      "name": "In The Middle",
+      "url": "https://open.spotify.com/track/5hxdH3HCtzprYiNNCITDhI"
+    },
+    {
       "added_at": "2026-07-10 04:02:28",
       "album": {
         "name": "Fluent",
@@ -155,6 +235,22 @@
       "duration_ms": 112353,
       "name": "Fluent",
       "url": "https://open.spotify.com/track/5RmvYROdCmvdUsO1AFNd3q"
+    },
+    {
+      "added_at": "2026-08-07 04:24:23",
+      "album": {
+        "name": "4.3 Forty",
+        "url": "https://open.spotify.com/album/3jCjie1fVzE5wiT4Fp98L5"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 182437,
+      "name": "4.3 Forty",
+      "url": "https://open.spotify.com/track/2GHgEpLaKknTXvggBvrxL3"
     },
     {
       "added_at": "2026-07-17 04:02:15",
@@ -187,6 +283,22 @@
       "duration_ms": 184417,
       "name": "Faking Smiles",
       "url": "https://open.spotify.com/track/4qJBRY3cL9vpjqjBPjnIu2"
+    },
+    {
+      "added_at": "2026-08-07 04:24:23",
+      "album": {
+        "name": "SLEEPOVER",
+        "url": "https://open.spotify.com/album/4102k3U6jMBUEdKP1ZToWr"
+      },
+      "artists": [
+        {
+          "name": "TJ Minor",
+          "url": "https://open.spotify.com/artist/0zu3qkB9uFXeMwrtKQxr8E"
+        }
+      ],
+      "duration_ms": 190166,
+      "name": "SLEEPOVER",
+      "url": "https://open.spotify.com/track/3YzXRNwAGJpGnM8WLSHEYq"
     },
     {
       "added_at": "2026-07-17 04:02:15",
@@ -299,22 +411,6 @@
       "duration_ms": 184000,
       "name": "Sooner or Later",
       "url": "https://open.spotify.com/track/78iQfzUp6HcPN4AnONdqCf"
-    },
-    {
-      "added_at": "2026-07-10 04:02:28",
-      "album": {
-        "name": "Closure",
-        "url": "https://open.spotify.com/album/1uoKxHMga3HiU4FSMiEnhO"
-      },
-      "artists": [
-        {
-          "name": "Oliver Cronin",
-          "url": "https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG"
-        }
-      ],
-      "duration_ms": 169787,
-      "name": "Closure",
-      "url": "https://open.spotify.com/track/18JreoG6GFSHxQKM5ONngp"
     },
     {
       "added_at": "2026-06-26 04:02:22",
@@ -557,22 +653,6 @@
       "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
     },
     {
-      "added_at": "2026-05-22 05:08:21",
-      "album": {
-        "name": "Debbie Don't Cry",
-        "url": "https://open.spotify.com/album/0KAcTbk2NXPCztnWzUkYGT"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 180128,
-      "name": "Debbie Don't Cry",
-      "url": "https://open.spotify.com/track/4yO2xMadKaCLKlP6gT4gVi"
-    },
-    {
       "added_at": "2026-05-29 05:36:54",
       "album": {
         "name": "CATASTROPHIC CHEMICALS",
@@ -653,70 +733,6 @@
       "url": "https://open.spotify.com/track/4z6uxjuQNiEHfBiPGbqqJ8"
     },
     {
-      "added_at": "2026-05-15 04:08:25",
-      "album": {
-        "name": "Word Vomit",
-        "url": "https://open.spotify.com/album/4f675l51sEciftAWInTtKB"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 166439,
-      "name": "Word Vomit",
-      "url": "https://open.spotify.com/track/29XRcFuqT5quAetizfP8d4"
-    },
-    {
-      "added_at": "2026-05-22 05:08:21",
-      "album": {
-        "name": "PASH",
-        "url": "https://open.spotify.com/album/0eitk4vAwmInevT6HQzkdP"
-      },
-      "artists": [
-        {
-          "name": "PASH",
-          "url": "https://open.spotify.com/artist/3jEgbW70PXxv993symSK35"
-        }
-      ],
-      "duration_ms": 221632,
-      "name": "Solid Ground",
-      "url": "https://open.spotify.com/track/5XP9mCru3C5bNHWUl11kAQ"
-    },
-    {
-      "added_at": "2026-05-15 04:08:25",
-      "album": {
-        "name": "Housekeeping",
-        "url": "https://open.spotify.com/album/36TdhxyuiOIeDyAZuAgpBE"
-      },
-      "artists": [
-        {
-          "name": "Ally Salort",
-          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
-        }
-      ],
-      "duration_ms": 205841,
-      "name": "Housekeeping",
-      "url": "https://open.spotify.com/track/2sPIXS51PCnYWY8lPtS0oP"
-    },
-    {
-      "added_at": "2026-04-24 04:01:34",
-      "album": {
-        "name": "Time to Time (Annie)",
-        "url": "https://open.spotify.com/album/05USGegWxbTPtVePsT3oru"
-      },
-      "artists": [
-        {
-          "name": "Daniel Seavey",
-          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
-        }
-      ],
-      "duration_ms": 172554,
-      "name": "Time to Time (Annie)",
-      "url": "https://open.spotify.com/track/6w1uqluhcV4Q8aNMDnZlIZ"
-    },
-    {
       "added_at": "2026-03-27 04:00:20",
       "album": {
         "name": "Self Aware",
@@ -779,22 +795,6 @@
       "duration_ms": 197158,
       "name": "Why Am I Here",
       "url": "https://open.spotify.com/track/5BaG5aMYeyOCfix0eTJXKz"
-    },
-    {
-      "added_at": "2026-04-24 04:01:34",
-      "album": {
-        "name": "Songs I Wrote Since She Left",
-        "url": "https://open.spotify.com/album/3aNf0dE1084J6qV0NvLbQP"
-      },
-      "artists": [
-        {
-          "name": "GRESLEY",
-          "url": "https://open.spotify.com/artist/3jH7tPNd2gFLXAekbpUCOf"
-        }
-      ],
-      "duration_ms": 205225,
-      "name": "Piece of Your Love",
-      "url": "https://open.spotify.com/track/51vU8qy0LN1SD8wf1U6WLp"
     },
     {
       "added_at": "2026-03-16 20:04:39",

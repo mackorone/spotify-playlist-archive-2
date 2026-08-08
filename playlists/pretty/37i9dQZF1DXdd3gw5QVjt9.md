@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 
 > Rise with a relaxing blend of folk and acoustic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,072,524 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,072,440 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,13 +23,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 13 | [However You May](https://open.spotify.com/track/2krfD3TzLiV1WVNepAYJW9) | [Jacob Slade](https://open.spotify.com/artist/2BxFZaG9zCwZI09r2RQtL0) | [Jacob Slade](https://open.spotify.com/album/6SHtNkpygr9rKrR5ZnwS58) | 3:03 |
 | 14 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 |
 | 15 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 |
-| 16 | [Like Real People Do](https://open.spotify.com/track/7K6LFPfjdnN6QqvGzhvpRO) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:18 |
-| 17 | [Morning](https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 3:28 |
+| 16 | [Morning](https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 3:28 |
+| 17 | [Like Real People Do](https://open.spotify.com/track/7K6LFPfjdnN6QqvGzhvpRO) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:18 |
 | 18 | [Half Your Love](https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 2:24 |
 | 19 | [Feels Like Home](https://open.spotify.com/track/38mvvvoJMgzF8dozkEDMmC) | [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Feels Like Home](https://open.spotify.com/album/082rp6GZPVNdrzmCGppvuW) | 4:03 |
 | 20 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 |
-| 21 | [Shrike](https://open.spotify.com/track/5uIYONgpUQ7t0v7D6CTMBt) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Nina Cried Power \- EP](https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU) | 5:00 |
-| 22 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
+| 21 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
+| 22 | [Shrike](https://open.spotify.com/track/5uIYONgpUQ7t0v7D6CTMBt) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Nina Cried Power \- EP](https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU) | 5:00 |
 | 23 | [Highway Blood \(feat\. Shook Twins & Gregory Alan Isakov\)](https://open.spotify.com/track/5e6kMwY5gD9sYEEMUl4RbU) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Shook Twins](https://open.spotify.com/artist/1W7C5vzhPuZbHekm6xWu9i), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose \(Vinyl\)](https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE) | 4:26 |
 | 24 | [Emmylou \- Spotify Sessions](https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Sessions](https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv) | 5:04 |
 | 25 | [True Faith](https://open.spotify.com/track/6BUJtgTJT9YTDkiB81maFQ) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Stolen](https://open.spotify.com/album/5z547vNPv9ce16zYQINMAD) | 4:42 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 65 | [Note to Self](https://open.spotify.com/track/3FFQCX7cQcpYDbneCu36NF) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Note to Self](https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR) | 3:15 |
 | 66 | [Ordinary](https://open.spotify.com/track/09oN29QLxsnpcR7NynThZD) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Ordinary](https://open.spotify.com/album/7woZghnU0pwffWLVWcghwr) | 2:52 |
 | 67 | [The Next Good Time](https://open.spotify.com/track/2CttQN84ikl6AZ3ffwVdbZ) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [True North](https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2) | 3:30 |
-| 68 | [How Do I Show My Love?](https://open.spotify.com/track/6WeH2AdmFGMNd3Sujcoca0) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [How Do I Show My Love?](https://open.spotify.com/album/26qehkmpNVmzYhjNMgPnJS) | 3:42 |
-| 69 | [Sleeping with Headphones](https://open.spotify.com/track/1YjbOF5pRNTMKnIvZxYEfY) | [Melanie MacLaren](https://open.spotify.com/artist/2R1li8gWj9IYRHBAHzylbF), [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Sleeping with Headphones](https://open.spotify.com/album/3LAmo7buPnacVykNc2Iho9) | 4:11 |
+| 68 | [Sleeping with Headphones](https://open.spotify.com/track/1YjbOF5pRNTMKnIvZxYEfY) | [Melanie MacLaren](https://open.spotify.com/artist/2R1li8gWj9IYRHBAHzylbF), [Lorkin O'Reilly](https://open.spotify.com/artist/4NQg2mwGxphbDjrkc1Rb6l) | [Sleeping with Headphones](https://open.spotify.com/album/3LAmo7buPnacVykNc2Iho9) | 4:11 |
+| 69 | [How Do I Show My Love?](https://open.spotify.com/track/6WeH2AdmFGMNd3Sujcoca0) | [Lizzie Reid](https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6) | [How Do I Show My Love?](https://open.spotify.com/album/26qehkmpNVmzYhjNMgPnJS) | 3:42 |
 | 70 | [New Person, Old Place \(New Feelings Version\)](https://open.spotify.com/track/6G5C3uAzRh5CPDBoXhMAhP) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Same History, New Feelings](https://open.spotify.com/album/2pVw5jbYUefDoaZgjnu4Q9) | 3:56 |
 | 71 | [Here If You Want Me](https://open.spotify.com/track/0kn4qAHwbV6EAgMrrduxtE) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Venus Copper Rose](https://open.spotify.com/album/6HBA4LzlkcTltssUdbvw95) | 3:01 |
 | 72 | [Mind/Heart](https://open.spotify.com/track/0s1mJLXycS02GAPs95tbcy) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Lighten Up](https://open.spotify.com/album/5MT2lgCDRZ1AfHrQ3pklHI) | 3:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 74 | [Fictional](https://open.spotify.com/track/1p3EADNrUrhtMn5fHqEoIC) | [Jeremy Ferrara](https://open.spotify.com/artist/6oZXBEJb5RLmNeDRhFwW5e) | [Fictional](https://open.spotify.com/album/7rok3MsQRMRzlgNOdTu8Ng) | 3:58 |
 | 75 | [Highway Miles](https://open.spotify.com/track/5G4E6DAJDH7NkA7cyxiODa) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Break into Blossom](https://open.spotify.com/album/5SYgXqtohMgMhevigsAb6a) | 3:39 |
 
-Snapshot ID: `AAAAAH8BQv7/ByxfFJ9n6NKSyEKOyS3l`
+Snapshot ID: `AAAAAGifYJ6BtrYWlF07KX8m5BT8a2qJ`

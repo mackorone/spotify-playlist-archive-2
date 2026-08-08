@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 
 > 🇲🇦 أحسن أغاني البوب المغربي
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,260 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,331 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 49 | [BSAHTEK](https://open.spotify.com/track/3S117nKz6nzHwxLaRUzgIs) | [Probador](https://open.spotify.com/artist/2XeXlRibiUH1nTxaXK23ZL) | [BSAHTEK](https://open.spotify.com/album/5qUERP0af1GNga709GfBzc) | 3:04 |
 | 50 | [AGHARAS](https://open.spotify.com/track/1cWINvhvBXtDhK8GpK0gZn) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [AGHARAS](https://open.spotify.com/album/0FJGdzI9d4duBcf0pJfrh2) | 3:27 |
 
-Snapshot ID: `AAAAAHI+K3asZskMxTpmoPXXesI6ydGU`
+Snapshot ID: `AAAAAHEPEN2RrUWLNjGGvV4pZthNGeLB`

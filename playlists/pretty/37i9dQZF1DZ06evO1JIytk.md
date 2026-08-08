@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 
 > This is Anti\-Flag\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,649 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,648 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 | 40 | [You Can Kill The Protester, But You Can't Kill The Protest](https://open.spotify.com/track/5z92wWwolpshtOe27xrdHZ) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Terror State](https://open.spotify.com/album/0TLPBodu3hDPeudOo37sZA) | 2:33 |
 | 41 | [Underground Network](https://open.spotify.com/track/5WTxwhu0cDbXi7IlP30OFK) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Underground Network](https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S) | 4:03 |
 | 42 | [You'd Do the Same](https://open.spotify.com/track/6XmmqYxSC4faXhsrsXqUKs) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 2:21 |
-| 43 | [You Make Me Sick](https://open.spotify.com/track/0a65BKVhV9DF9hp8bZocJE) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl) | 3:01 |
-| 44 | [Kill the Rich \(Re\-Recorded\)](https://open.spotify.com/track/7gpWdJBXM7sbkzVOgrsikt) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Cease Fires](https://open.spotify.com/album/5g0lMotkrRemJUW1DbXblA) | 2:59 |
-| 45 | [Bring Out Your Dead](https://open.spotify.com/track/5suFYy1caOoi9pdiMirhPs) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Underground Network](https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S) | 2:14 |
+| 43 | [Kill the Rich \(Re\-Recorded\)](https://open.spotify.com/track/7gpWdJBXM7sbkzVOgrsikt) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Cease Fires](https://open.spotify.com/album/5g0lMotkrRemJUW1DbXblA) | 2:59 |
+| 44 | [You Make Me Sick](https://open.spotify.com/track/0a65BKVhV9DF9hp8bZocJE) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl) | 3:01 |
+| 45 | [Finish What We Started](https://open.spotify.com/track/1XZVctTif3B1ojGOqXkoze) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts) | 2:49 |
 | 46 | [Red, White & Brainwashed](https://open.spotify.com/track/3il4RxV7W7xZFM6AMVXAhm) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 1:51 |
-| 47 | [Finish What We Started](https://open.spotify.com/track/1XZVctTif3B1ojGOqXkoze) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts) | 2:49 |
+| 47 | [Bring Out Your Dead](https://open.spotify.com/track/5suFYy1caOoi9pdiMirhPs) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Underground Network](https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S) | 2:14 |
 | 48 | [Maxwell Murder](https://open.spotify.com/track/2FSHOstfVfHia9eBS6vz9t) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Hooligans United a Tribute to Rancid](https://open.spotify.com/album/3fNR9RPA8gWdl8DHyEylPv) | 1:17 |
 | 49 | [NVREVR \(feat\. Stacey Dee of Bad Cop/Bad Cop\)](https://open.spotify.com/track/4vQ8s5KjX2xUuGwPQt5ySu) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Stacey Dee](https://open.spotify.com/artist/5MzVW6bfqpL5hrSa9wfc9T) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 4:40 |
 | 50 | [Sold As Freedom](https://open.spotify.com/track/4aWMR6vD0wxCqP76DmCc8M) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Terror State](https://open.spotify.com/album/0TLPBodu3hDPeudOo37sZA) | 2:16 |
 
-Snapshot ID: `anJ9AAAAAAALWhvvL3A2FwfpLGk5rwrW`
+Snapshot ID: `anPOgAAAAABT5bF29K5Hfuea/JPz6RZx`

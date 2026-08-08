@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rc8G4.md) - [plain]
 
 > This is Kylie Minogue\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,122 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,143 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rc8G4.md) - [plain]
 | 17 | [Magic](https://open.spotify.com/track/3buAGGo2YxasAhMkXqCiA0) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG) | 4:10 |
 | 18 | [Midnight Ride](https://open.spotify.com/track/6J26td5uctWg0UlzdzCj7Y) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Stampede](https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE) | 3:31 |
 | 19 | [Tension](https://open.spotify.com/track/6435Ra0NWQzPyZAcd1ojWI) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:36 |
-| 20 | [Light Up \(From the Netflix Documentary 'Kylie'\)](https://open.spotify.com/track/5z8BOVrdo09o6VFR7AuhXk) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Light Up \(From the Netflix Documentary 'Kylie'\)](https://open.spotify.com/album/5ukQWhi6imFTlaJxsuoIZO) | 3:17 |
-| 21 | [I Believe in You](https://open.spotify.com/track/1AKJnUOmNwlyXzOYptQhwx) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [I Believe in You](https://open.spotify.com/album/0CiGpBVREJ9teXHMFMabgC) | 3:20 |
+| 20 | [I Believe in You](https://open.spotify.com/track/1AKJnUOmNwlyXzOYptQhwx) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [I Believe in You](https://open.spotify.com/album/0CiGpBVREJ9teXHMFMabgC) | 3:20 |
+| 21 | [Light Up \(From the Netflix Documentary 'Kylie'\)](https://open.spotify.com/track/5z8BOVrdo09o6VFR7AuhXk) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Light Up \(From the Netflix Documentary 'Kylie'\)](https://open.spotify.com/album/5ukQWhi6imFTlaJxsuoIZO) | 3:17 |
 | 22 | [Can't Get Blue Monday out of My Head](https://open.spotify.com/track/3DBErzKR7FVxLJvdzGlCLx) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 4:01 |
 | 23 | [On a Night Like This](https://open.spotify.com/track/5mu9hVvdpVnAXqbiQgPl4Y) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Light Years](https://open.spotify.com/album/7vPWwkCumK2sGsdADtBlwB) | 3:33 |
 | 24 | [Better the Devil You Know](https://open.spotify.com/track/1uiQNFERY6n5FxIEPGxzwA) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Rhythm of Love](https://open.spotify.com/album/30YW6lNcviVzg3FAF2kAXI) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rc8G4.md) - [plain]
 | 49 | [Vegas High](https://open.spotify.com/track/7HZtHUlDXG5eSm1PiTOrKP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:33 |
 | 50 | [Stateside + Kylie Minogue](https://open.spotify.com/track/0S9qRfGYOwnpbegV72h4GY) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:48 |
 
-Snapshot ID: `anJ9AAAAAAC4jgbghoNHKWXWdqynU19+`
+Snapshot ID: `anPOgAAAAABzt/4w6XARKOhA+C2vAOjN`

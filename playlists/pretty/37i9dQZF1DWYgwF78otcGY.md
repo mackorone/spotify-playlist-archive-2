@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 
 > Fjäderboa, dansgolv, allsång och tonartshöjningar \- nu är det mellofest! 🪩✨💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,752 likes - 52 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,751 likes - 52 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 51 | [Blame It On The Disco](https://open.spotify.com/track/4IZy2nI5mAxLtlLPbcErqc) | [Alcazar](https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg) | [Disco Defenders](https://open.spotify.com/album/6tZv43WmLwofiLbWanh1Ww) | 3:01 |
 | 52 | [Let Your Spirit Fly](https://open.spotify.com/track/1k8Licv2jaRTbRtAbJZ3In) | [Jan Johansen](https://open.spotify.com/artist/4Nd6R1oljERR3D2893MpJf), [Pernilla Wahlgren](https://open.spotify.com/artist/4tUajUzujJgjYQ6mMbsMRf) | [X My Heart](https://open.spotify.com/album/4GXyJ4D53Gx0I3lHzhDUxd) | 2:54 |
 
-Snapshot ID: `AAAAAGHB3WV1ddVyaqudsUhXX3VQfwJk`
+Snapshot ID: `AAAAAHOPPGrRGTvu16qn9Ipr1J2wgjw/`

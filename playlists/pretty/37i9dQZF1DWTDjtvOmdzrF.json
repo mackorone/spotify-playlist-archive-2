@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 556959,
+  "num_followers": 556932,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKPM6JbTI0wJfqlz7jsKfH74HpjE",
+  "snapshot_id": "AAAAAISf9p9CYx1y0fCX7Y2C0xCEoAzp",
   "tracks": [
     {
       "added_at": "2026-02-27 14:15:13",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-02-27 14:15:13",
       "album": {
-        "name": "Riuh",
-        "url": "https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5"
-      },
-      "artists": [
-        {
-          "name": "Feby Putri",
-          "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
-        }
-      ],
-      "duration_ms": 311496,
-      "name": "Usik",
-      "url": "https://open.spotify.com/track/5GgRntbjr23OK9MMST02di"
-    },
-    {
-      "added_at": "2026-02-27 14:15:13",
-      "album": {
         "name": "YURA",
         "url": "https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 262060,
       "name": "Cinta Dan Rahasia",
       "url": "https://open.spotify.com/track/4HXUMRdT6s6Am6YHcWmuib"
+    },
+    {
+      "added_at": "2026-02-27 14:15:13",
+      "album": {
+        "name": "Riuh",
+        "url": "https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5"
+      },
+      "artists": [
+        {
+          "name": "Feby Putri",
+          "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
+        }
+      ],
+      "duration_ms": 311496,
+      "name": "Usik",
+      "url": "https://open.spotify.com/track/5GgRntbjr23OK9MMST02di"
     },
     {
       "added_at": "2026-02-27 14:15:13",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-02-27 14:15:13",
       "album": {
-        "name": "Terlintas",
-        "url": "https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe"
-      },
-      "artists": [
-        {
-          "name": "Bernadya",
-          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
-        }
-      ],
-      "duration_ms": 235643,
-      "name": "Terlintas",
-      "url": "https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1"
-    },
-    {
-      "added_at": "2026-02-27 14:15:13",
-      "album": {
         "name": "8 Tahun",
         "url": "https://open.spotify.com/album/32SLZ72En7DvxafTDhdk28"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 287453,
       "name": "Sesuatu Di Jogja",
       "url": "https://open.spotify.com/track/0MAIxtXWimwhAAQOST9jp7"
+    },
+    {
+      "added_at": "2026-02-27 14:15:13",
+      "album": {
+        "name": "Terlintas",
+        "url": "https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "duration_ms": 235643,
+      "name": "Terlintas",
+      "url": "https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1"
     },
     {
       "added_at": "2026-02-27 14:15:13",

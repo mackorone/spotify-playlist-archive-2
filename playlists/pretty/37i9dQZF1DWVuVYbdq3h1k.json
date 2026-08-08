@@ -1,12 +1,12 @@
 {
   "description": "S\u00ed, \u00a1ya estamos viejos! Julieta Venegas en portada.",
-  "num_followers": 1567503,
+  "num_followers": 1567526,
   "original_name": "Los 2000 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI0cp9V7lGgR/bT9gtX6lWnZMXJJ",
+  "snapshot_id": "AAAAAPwrMy3GBT22lit753hjKy9veEE7",
   "tracks": [
     {
       "added_at": "2026-05-26 20:08:59",
@@ -387,6 +387,22 @@
     {
       "added_at": "2026-05-26 20:08:59",
       "album": {
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 193826,
+      "name": "Todo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
+    },
+    {
+      "added_at": "2026-05-26 20:08:59",
+      "album": {
         "name": "Fantas\u00eda Pop",
         "url": "https://open.spotify.com/album/2iVR0P9wqSzNU0tYz1T1aq"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 228426,
       "name": "Amargo Adi\u00f3s",
       "url": "https://open.spotify.com/track/0zCOT028cU3DeCqN1G18wE"
-    },
-    {
-      "added_at": "2026-05-26 20:08:59",
-      "album": {
-        "name": "Todo Cambio",
-        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 193826,
-      "name": "Todo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
     },
     {
       "added_at": "2026-05-26 20:08:59",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-05-26 20:08:59",
       "album": {
-        "name": "Ah\u00ed Vamos",
-        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 232026,
-      "name": "Crimen",
-      "url": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp"
-    },
-    {
-      "added_at": "2026-05-26 20:08:59",
-      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 238133,
       "name": "Fotograf\u00eda",
       "url": "https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So"
+    },
+    {
+      "added_at": "2026-05-26 20:08:59",
+      "album": {
+        "name": "Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 232026,
+      "name": "Crimen",
+      "url": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp"
     },
     {
       "added_at": "2026-05-26 20:08:59",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-05-26 20:08:59",
       "album": {
-        "name": "Todo Cambio",
-        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 306986,
-      "name": "Coleccionista de Canciones",
-      "url": "https://open.spotify.com/track/28Ct4qwkQXY2W5yyNCLuVI"
-    },
-    {
-      "added_at": "2026-05-26 20:08:59",
-      "album": {
         "name": "El Viaje de Copperpot",
         "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 169533,
       "name": "Cu\u00eddate",
       "url": "https://open.spotify.com/track/7gqIqyeCaV2xNtfZWxEphD"
+    },
+    {
+      "added_at": "2026-05-26 20:08:59",
+      "album": {
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 306986,
+      "name": "Coleccionista de Canciones",
+      "url": "https://open.spotify.com/track/28Ct4qwkQXY2W5yyNCLuVI"
     },
     {
       "added_at": "2026-05-26 20:08:59",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-05-26 20:08:59",
       "album": {
+        "name": "Reik",
+        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 171320,
+      "name": "Qu\u00e9 Vida la M\u00eda",
+      "url": "https://open.spotify.com/track/0M6KY0x5u65ybXHZ3IAega"
+    },
+    {
+      "added_at": "2026-05-26 20:08:59",
+      "album": {
         "name": "Bocanada",
         "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
       },
@@ -903,18 +919,18 @@
     {
       "added_at": "2026-05-26 20:08:59",
       "album": {
-        "name": "Reik",
-        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
+        "name": "El Viaje de Copperpot",
+        "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
       },
       "artists": [
         {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
         }
       ],
-      "duration_ms": 171320,
-      "name": "Qu\u00e9 Vida la M\u00eda",
-      "url": "https://open.spotify.com/track/0M6KY0x5u65ybXHZ3IAega"
+      "duration_ms": 226800,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/5ByvJeBlrYISiwy7AVEAmP"
     },
     {
       "added_at": "2026-05-26 20:08:59",
@@ -955,22 +971,6 @@
       "duration_ms": 210440,
       "name": "Este Coraz\u00f3n",
       "url": "https://open.spotify.com/track/0bMVCO35RJiUhAfvFsLjIF"
-    },
-    {
-      "added_at": "2026-05-26 20:08:59",
-      "album": {
-        "name": "El Viaje de Copperpot",
-        "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 226800,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/5ByvJeBlrYISiwy7AVEAmP"
     },
     {
       "added_at": "2026-05-26 20:08:59",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-05-26 20:08:59",
       "album": {
-        "name": "Clandestino",
-        "url": "https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq"
-      },
-      "artists": [
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 122760,
-      "name": "Je ne t'aime plus",
-      "url": "https://open.spotify.com/track/7Deb4scGmEv4fY2CZcVnSb"
-    },
-    {
-      "added_at": "2026-05-26 20:08:59",
-      "album": {
         "name": "Mar\u00eda Jos\u00e9",
         "url": "https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 239706,
       "name": "Me equivoqu\u00e9",
       "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
+    },
+    {
+      "added_at": "2026-05-26 20:08:59",
+      "album": {
+        "name": "Clandestino",
+        "url": "https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 122760,
+      "name": "Je ne t'aime plus",
+      "url": "https://open.spotify.com/track/7Deb4scGmEv4fY2CZcVnSb"
     },
     {
       "added_at": "2026-05-26 20:08:59",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2026-05-26 20:08:59",
       "album": {
-        "name": "Barrio Bravo",
-        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
+        "name": "Gran City Pop (Edited Version)",
+        "url": "https://open.spotify.com/album/1ZJLekUOKFcN2QQXMvasTJ"
       },
       "artists": [
         {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
         }
       ],
-      "duration_ms": 346800,
-      "name": "Cumbia sobre el r\u00edo / Interludio",
-      "url": "https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN"
+      "duration_ms": 205866,
+      "name": "Causa Y Efecto",
+      "url": "https://open.spotify.com/track/0gdt218D74akk9AqMlbc45"
     },
     {
       "added_at": "2026-05-26 20:08:59",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2026-05-26 20:08:59",
       "album": {
-        "name": "Gran City Pop (Edited Version)",
-        "url": "https://open.spotify.com/album/1ZJLekUOKFcN2QQXMvasTJ"
+        "name": "Barrio Bravo",
+        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
       },
       "artists": [
         {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
         }
       ],
-      "duration_ms": 205866,
-      "name": "Causa Y Efecto",
-      "url": "https://open.spotify.com/track/0gdt218D74akk9AqMlbc45"
+      "duration_ms": 346800,
+      "name": "Cumbia sobre el r\u00edo / Interludio",
+      "url": "https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN"
     },
     {
       "added_at": "2026-05-26 20:08:59",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-05-26 20:08:59",
       "album": {
-        "name": "HA-ASH",
-        "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 210640,
-      "name": "Odio Amarte",
-      "url": "https://open.spotify.com/track/0x6kwMLhwr0w4xjdv6tVqG"
-    },
-    {
-      "added_at": "2026-05-26 20:08:59",
-      "album": {
         "name": "Paulina",
         "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 274506,
       "name": "Tal Vez Quizas",
       "url": "https://open.spotify.com/track/4Ft4AbNwk1acKagaBOmvHb"
+    },
+    {
+      "added_at": "2026-05-26 20:08:59",
+      "album": {
+        "name": "HA-ASH",
+        "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 210640,
+      "name": "Odio Amarte",
+      "url": "https://open.spotify.com/track/0x6kwMLhwr0w4xjdv6tVqG"
     },
     {
       "added_at": "2026-05-26 20:08:59",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-05-26 20:08:59",
       "album": {
-        "name": "Monitor",
-        "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
-      },
-      "artists": [
-        {
-          "name": "Volov\u00e1n",
-          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
-        }
-      ],
-      "duration_ms": 237760,
-      "name": "Monitor",
-      "url": "https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv"
-    },
-    {
-      "added_at": "2026-05-26 20:08:59",
-      "album": {
         "name": "Laundry Service",
         "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 223200,
       "name": "Te Aviso, Te Anuncio (Tango)",
       "url": "https://open.spotify.com/track/1w5nWhUzrQqj0WnDXrgsnC"
+    },
+    {
+      "added_at": "2026-05-26 20:08:59",
+      "album": {
+        "name": "Monitor",
+        "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
+      },
+      "artists": [
+        {
+          "name": "Volov\u00e1n",
+          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
+        }
+      ],
+      "duration_ms": 237760,
+      "name": "Monitor",
+      "url": "https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv"
     },
     {
       "added_at": "2026-05-26 20:08:59",

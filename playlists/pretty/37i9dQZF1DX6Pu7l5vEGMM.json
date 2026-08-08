@@ -1,12 +1,12 @@
 {
   "description": "what are we?",
-  "num_followers": 628571,
+  "num_followers": 628685,
   "original_name": "situationship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALXeYkuF+K+JCcvC9sV1BV9sDjo8",
+  "snapshot_id": "AAAAAKbKT/tr1Jod2EBzcvakY32yy+Ox",
   "tracks": [
     {
       "added_at": "2025-12-02 08:48:46",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-12-02 08:48:46",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 207139,
-      "name": "Adore You",
-      "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
-    },
-    {
-      "added_at": "2025-12-02 08:48:46",
-      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 157560,
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY"
+    },
+    {
+      "added_at": "2025-12-02 08:48:46",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 207139,
+      "name": "Adore You",
+      "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
     },
     {
       "added_at": "2025-12-02 08:48:46",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-12-02 08:48:46",
       "album": {
-        "name": "Born To Die - The Paradise Edition",
-        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 265427,
-      "name": "Summertime Sadness",
-      "url": "https://open.spotify.com/track/3BJe4B8zGnqEdQPMvfVjuS"
-    },
-    {
-      "added_at": "2025-12-02 08:48:46",
-      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 160191,
       "name": "telepat\u00eda",
       "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
+    },
+    {
+      "added_at": "2025-12-02 08:48:46",
+      "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 265427,
+      "name": "Summertime Sadness",
+      "url": "https://open.spotify.com/track/3BJe4B8zGnqEdQPMvfVjuS"
     },
     {
       "added_at": "2025-12-02 08:48:46",
@@ -827,18 +827,18 @@
     {
       "added_at": "2025-12-02 08:48:46",
       "album": {
-        "name": "Never Trust a Happy Song",
-        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
+        "name": "Kid Krow",
+        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
       },
       "artists": [
         {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
         }
       ],
-      "duration_ms": 218013,
-      "name": "Tongue Tied",
-      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
+      "duration_ms": 198040,
+      "name": "Heather",
+      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
     }
   ],
   "unique_name": "situationship",

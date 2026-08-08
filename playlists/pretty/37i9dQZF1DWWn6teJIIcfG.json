@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 223070,
+  "num_followers": 223081,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADIctEz0GxnCVwyjKfvQMtuAYOZD",
+  "snapshot_id": "AAAAAJwXVvOFQH99zirhP1aM8S2IlklF",
   "tracks": [
     {
       "added_at": "2026-07-24 04:01:05",
@@ -1159,46 +1159,6 @@
     {
       "added_at": "2026-07-24 04:01:05",
       "album": {
-        "name": "Works for Solo Piano",
-        "url": "https://open.spotify.com/album/1NnzVZCo7LnKi2wAbgF9rK"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jonathan Biss",
-          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
-        }
-      ],
-      "duration_ms": 122986,
-      "name": "Schumann: Davidsb\u00fcndlert\u00e4nze, Op. 6, Heft II: No. 14, Zart und singend",
-      "url": "https://open.spotify.com/track/3rzwGepRS2pjTwvhBvMmiz"
-    },
-    {
-      "added_at": "2026-07-24 04:01:05",
-      "album": {
-        "name": "Alexandre Tharaud: Baroque",
-        "url": "https://open.spotify.com/album/43QScdpgNzcF9vw3dcSWmn"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
-        }
-      ],
-      "duration_ms": 253413,
-      "name": "Concerto en r\u00e9 mineur, BWV 974: II. Adagio",
-      "url": "https://open.spotify.com/track/3CkbfNMYISwMGg2guJtTe4"
-    },
-    {
-      "added_at": "2026-07-24 04:01:05",
-      "album": {
         "name": "Glass: Etude No. 6 (Arr. for Cello Solo and Orchestra by O. Jockel)",
         "url": "https://open.spotify.com/album/2BFsR5xwpCeaUDd8PFOQvq"
       },
@@ -1223,6 +1183,46 @@
       "duration_ms": 182000,
       "name": "Etude No. 6 (Arr. for Cello Solo and Orchestra by O. Jockel)",
       "url": "https://open.spotify.com/track/6hINBNGWOSTjVCTDUi1RC4"
+    },
+    {
+      "added_at": "2026-07-24 04:01:05",
+      "album": {
+        "name": "Alexandre Tharaud: Baroque",
+        "url": "https://open.spotify.com/album/43QScdpgNzcF9vw3dcSWmn"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "duration_ms": 253413,
+      "name": "Concerto en r\u00e9 mineur, BWV 974: II. Adagio",
+      "url": "https://open.spotify.com/track/3CkbfNMYISwMGg2guJtTe4"
+    },
+    {
+      "added_at": "2026-07-24 04:01:05",
+      "album": {
+        "name": "Works for Solo Piano",
+        "url": "https://open.spotify.com/album/1NnzVZCo7LnKi2wAbgF9rK"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+        }
+      ],
+      "duration_ms": 122986,
+      "name": "Schumann: Davidsb\u00fcndlert\u00e4nze, Op. 6, Heft II: No. 14, Zart und singend",
+      "url": "https://open.spotify.com/track/3rzwGepRS2pjTwvhBvMmiz"
     },
     {
       "added_at": "2026-07-24 04:01:05",
@@ -1475,38 +1475,6 @@
     {
       "added_at": "2026-07-24 04:01:05",
       "album": {
-        "name": "Nocturnes, Vol. 1",
-        "url": "https://open.spotify.com/album/1vyghybQ8nn2KHljaM98ky"
-      },
-      "artists": [
-        {
-          "name": "Valmandel",
-          "url": "https://open.spotify.com/artist/4SfzZsFdmM7mpqtSfli7UU"
-        }
-      ],
-      "duration_ms": 166466,
-      "name": "Nocturne No. 6, Serenity",
-      "url": "https://open.spotify.com/track/3BJg9HfpoSgoFK3YJA591v"
-    },
-    {
-      "added_at": "2026-07-24 04:01:05",
-      "album": {
-        "name": "Love Came",
-        "url": "https://open.spotify.com/album/6X1fv9fslru7IIhs254MWm"
-      },
-      "artists": [
-        {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
-        }
-      ],
-      "duration_ms": 135800,
-      "name": "Love Came",
-      "url": "https://open.spotify.com/track/3s5QMIVTYWorP7kUWVuDOk"
-    },
-    {
-      "added_at": "2026-07-24 04:01:05",
-      "album": {
         "name": "Glassworks: I. Opening (Arr. for Ensemble by Ang\u00e8le Dubeau and Fran\u00e7ois Valli\u00e8res)",
         "url": "https://open.spotify.com/album/3NYi6pcxNtjPslQOqlT9HM"
       },
@@ -1527,6 +1495,38 @@
       "duration_ms": 456586,
       "name": "Glassworks: I. Opening (Arr. for Ensemble by Ang\u00e8le Dubeau and Fran\u00e7ois Valli\u00e8res)",
       "url": "https://open.spotify.com/track/555HfevWXA1wFKLNCcCExq"
+    },
+    {
+      "added_at": "2026-07-24 04:01:05",
+      "album": {
+        "name": "Love Came",
+        "url": "https://open.spotify.com/album/6X1fv9fslru7IIhs254MWm"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "duration_ms": 135800,
+      "name": "Love Came",
+      "url": "https://open.spotify.com/track/3s5QMIVTYWorP7kUWVuDOk"
+    },
+    {
+      "added_at": "2026-07-24 04:01:05",
+      "album": {
+        "name": "Nocturnes, Vol. 1",
+        "url": "https://open.spotify.com/album/1vyghybQ8nn2KHljaM98ky"
+      },
+      "artists": [
+        {
+          "name": "Valmandel",
+          "url": "https://open.spotify.com/artist/4SfzZsFdmM7mpqtSfli7UU"
+        }
+      ],
+      "duration_ms": 166466,
+      "name": "Nocturne No. 6, Serenity",
+      "url": "https://open.spotify.com/track/3BJg9HfpoSgoFK3YJA591v"
     },
     {
       "added_at": "2026-07-24 04:01:05",
@@ -1991,30 +1991,6 @@
     {
       "added_at": "2026-07-24 04:01:05",
       "album": {
-        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
-        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "John Eliot Gardiner",
-          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
-        },
-        {
-          "name": "English Baroque Soloists",
-          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
-        }
-      ],
-      "duration_ms": 230426,
-      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: VI. Air",
-      "url": "https://open.spotify.com/track/0n9cHRLNSCXECfXx4cvw0D"
-    },
-    {
-      "added_at": "2026-07-24 04:01:05",
-      "album": {
         "name": "Amazing Grace (Arr. Simon for Violin and Piano)",
         "url": "https://open.spotify.com/album/4AySC6MJDEh6V5P4tv0LkX"
       },
@@ -2039,6 +2015,30 @@
     {
       "added_at": "2026-07-24 04:01:05",
       "album": {
+        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
+        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        }
+      ],
+      "duration_ms": 230426,
+      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: VI. Air",
+      "url": "https://open.spotify.com/track/0n9cHRLNSCXECfXx4cvw0D"
+    },
+    {
+      "added_at": "2026-07-24 04:01:05",
+      "album": {
         "name": "Chordal Drift",
         "url": "https://open.spotify.com/album/6nHbqioJUSyUf01jRdZjLe"
       },
@@ -2055,6 +2055,26 @@
       "duration_ms": 182965,
       "name": "Chordal Drift",
       "url": "https://open.spotify.com/track/6S30a788IqUT1ExSTQljLM"
+    },
+    {
+      "added_at": "2026-07-24 04:01:05",
+      "album": {
+        "name": "Ravel: Le tombeau de Couperin, M. 68: I. Pr\u00e9lude",
+        "url": "https://open.spotify.com/album/4OE4jCTEkXvvUmxd9Wr2BN"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "Le tombeau de Couperin, M. 68: I. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/5ixybLqj9SxEB9mPvlHfET"
     },
     {
       "added_at": "2026-07-24 04:01:05",
@@ -2087,26 +2107,6 @@
     {
       "added_at": "2026-07-24 04:01:05",
       "album": {
-        "name": "Ravel: Le tombeau de Couperin, M. 68: I. Pr\u00e9lude",
-        "url": "https://open.spotify.com/album/4OE4jCTEkXvvUmxd9Wr2BN"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Seong-Jin Cho",
-          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "Le tombeau de Couperin, M. 68: I. Pr\u00e9lude",
-      "url": "https://open.spotify.com/track/5ixybLqj9SxEB9mPvlHfET"
-    },
-    {
-      "added_at": "2026-07-24 04:01:05",
-      "album": {
         "name": "Devotions (String Quartet No 3): III.",
         "url": "https://open.spotify.com/album/45vOywZwvefQaKNIhoyLrl"
       },
@@ -2123,26 +2123,6 @@
       "duration_ms": 255534,
       "name": "Devotions (String Quartet No 3): III.",
       "url": "https://open.spotify.com/track/0J1HEV58pUrMe0Rhh2Hcej"
-    },
-    {
-      "added_at": "2026-07-24 04:01:05",
-      "album": {
-        "name": "Beeftink: Frequency",
-        "url": "https://open.spotify.com/album/7ALl8ZD017wmVyQSuOhdbQ"
-      },
-      "artists": [
-        {
-          "name": "Herman Beeftink",
-          "url": "https://open.spotify.com/artist/2FS7z1DsLrJIlEAbTMOOuG"
-        },
-        {
-          "name": "Emissary Quartet",
-          "url": "https://open.spotify.com/artist/35pqsv6kqCKUshiLlrZuhe"
-        }
-      ],
-      "duration_ms": 378040,
-      "name": "Frequency",
-      "url": "https://open.spotify.com/track/7EDCHN0RxNGUyAyTZiTSxA"
     },
     {
       "added_at": "2026-07-24 04:01:05",
@@ -2167,6 +2147,26 @@
       "duration_ms": 120813,
       "name": "Overture-Suite in G Major, TWV 55:G10: \"Burlesque de Quixotte\": IV. Ses soupirs amoureux apr\u00e8s la princesse Dulcin\u00e9e",
       "url": "https://open.spotify.com/track/5p2665rdi1sFIoCY5BFTy0"
+    },
+    {
+      "added_at": "2026-07-24 04:01:05",
+      "album": {
+        "name": "Beeftink: Frequency",
+        "url": "https://open.spotify.com/album/7ALl8ZD017wmVyQSuOhdbQ"
+      },
+      "artists": [
+        {
+          "name": "Herman Beeftink",
+          "url": "https://open.spotify.com/artist/2FS7z1DsLrJIlEAbTMOOuG"
+        },
+        {
+          "name": "Emissary Quartet",
+          "url": "https://open.spotify.com/artist/35pqsv6kqCKUshiLlrZuhe"
+        }
+      ],
+      "duration_ms": 378040,
+      "name": "Frequency",
+      "url": "https://open.spotify.com/track/7EDCHN0RxNGUyAyTZiTSxA"
     },
     {
       "added_at": "2026-07-24 04:01:05",
@@ -2295,26 +2295,6 @@
     {
       "added_at": "2026-07-24 04:01:05",
       "album": {
-        "name": "Sing Gently",
-        "url": "https://open.spotify.com/album/55TGl3eLHEOV5Mkf2ekEQY"
-      },
-      "artists": [
-        {
-          "name": "Eric Whitacre",
-          "url": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
-        },
-        {
-          "name": "Lavinia Meijer",
-          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
-        }
-      ],
-      "duration_ms": 225235,
-      "name": "Sing Gently",
-      "url": "https://open.spotify.com/track/1inuj7hFiczkKp8yNmnRLr"
-    },
-    {
-      "added_at": "2026-07-24 04:01:05",
-      "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/2tgroBhBrUTlMUxGZ7pQts"
       },
@@ -2355,6 +2335,26 @@
       "duration_ms": 163173,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/3z7waGD32zmOs9ndMqPhPl"
+    },
+    {
+      "added_at": "2026-07-24 04:01:05",
+      "album": {
+        "name": "Sing Gently",
+        "url": "https://open.spotify.com/album/55TGl3eLHEOV5Mkf2ekEQY"
+      },
+      "artists": [
+        {
+          "name": "Eric Whitacre",
+          "url": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+        },
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "duration_ms": 225235,
+      "name": "Sing Gently",
+      "url": "https://open.spotify.com/track/1inuj7hFiczkKp8yNmnRLr"
     },
     {
       "added_at": "2026-07-24 04:01:05",

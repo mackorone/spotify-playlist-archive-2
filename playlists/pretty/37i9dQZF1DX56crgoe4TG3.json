@@ -1,12 +1,12 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 285709,
+  "num_followers": 285735,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP/RLBHf2i9tCCPoKqgCv/1pbXVk",
+  "snapshot_id": "AAAAAICth9BeAKqGmRahuN9Vuie9snsT",
   "tracks": [
     {
       "added_at": "2026-07-23 21:17:27",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Mad World",
-        "url": "https://open.spotify.com/album/2mrq4gDXWKLEsVAF0sEkiH"
-      },
-      "artists": [
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 302746,
-      "name": "Mad World",
-      "url": "https://open.spotify.com/track/7sYMSlxgCEdLoXv0PqYEjp"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "Linger",
         "url": "https://open.spotify.com/album/7jdmHluAywfiIgFd1G8g5x"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 240305,
       "name": "Linger",
       "url": "https://open.spotify.com/track/3RQGHYqNkEuixUCCCnS7vw"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "Mad World",
+        "url": "https://open.spotify.com/album/2mrq4gDXWKLEsVAF0sEkiH"
+      },
+      "artists": [
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 302746,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/7sYMSlxgCEdLoXv0PqYEjp"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Songs That Made Me Weird, Vol. 1",
-        "url": "https://open.spotify.com/album/1hbIUAc9xpnt2hG3jHpco7"
-      },
-      "artists": [
-        {
-          "name": "Tony Kamel",
-          "url": "https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH"
-        }
-      ],
-      "duration_ms": 251621,
-      "name": "No Rain",
-      "url": "https://open.spotify.com/track/6XGIo0FBacQN0oEkO7JZ0v"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "Sun and Water (Here Comes the Sun/Waters of March)",
         "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 214546,
       "name": "Sun and Water (Here Comes the Sun/Waters of March)",
       "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "Songs That Made Me Weird, Vol. 1",
+        "url": "https://open.spotify.com/album/1hbIUAc9xpnt2hG3jHpco7"
+      },
+      "artists": [
+        {
+          "name": "Tony Kamel",
+          "url": "https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH"
+        }
+      ],
+      "duration_ms": 251621,
+      "name": "No Rain",
+      "url": "https://open.spotify.com/track/6XGIo0FBacQN0oEkO7JZ0v"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Gum Tree Canoe",
-        "url": "https://open.spotify.com/album/13BUiVlKesdaWPgQqozhYv"
-      },
-      "artists": [
-        {
-          "name": "John Hartford",
-          "url": "https://open.spotify.com/artist/0NAr5zThPfMx26ISgooQK6"
-        }
-      ],
-      "duration_ms": 190733,
-      "name": "Little Piece of My Heart",
-      "url": "https://open.spotify.com/track/4MhBFMMibAWuJv8zMQWrKA"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "Humming House Party! (Live)",
         "url": "https://open.spotify.com/album/7Mwmi5X5ilN2j1y6LNC34k"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 278854,
       "name": "My Love (Live)",
       "url": "https://open.spotify.com/track/7L9CcpZEfjZQT7LsZuQFWw"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "Gum Tree Canoe",
+        "url": "https://open.spotify.com/album/13BUiVlKesdaWPgQqozhYv"
+      },
+      "artists": [
+        {
+          "name": "John Hartford",
+          "url": "https://open.spotify.com/artist/0NAr5zThPfMx26ISgooQK6"
+        }
+      ],
+      "duration_ms": 190733,
+      "name": "Little Piece of My Heart",
+      "url": "https://open.spotify.com/track/4MhBFMMibAWuJv8zMQWrKA"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -959,6 +959,42 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
+        "name": "Verry Garcia",
+        "url": "https://open.spotify.com/album/26ZgwENZ2fNkmIPGu4swPt"
+      },
+      "artists": [
+        {
+          "name": "Chicken Wire Empire",
+          "url": "https://open.spotify.com/artist/05RSgyFo6Z3uiYA6fnj0sm"
+        }
+      ],
+      "duration_ms": 302720,
+      "name": "Friend of the Devil",
+      "url": "https://open.spotify.com/track/3dATBi29oygrDF033WG1pH"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "Pickin' on the 90s",
+        "url": "https://open.spotify.com/album/3QB8bU45ibOECYMejZuVAi"
+      },
+      "artists": [
+        {
+          "name": "Pickin' On Series",
+          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
+        },
+        {
+          "name": "The Sidekicks",
+          "url": "https://open.spotify.com/artist/0cuataW2AnHzeTbA2ERBYI"
+        }
+      ],
+      "duration_ms": 198460,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/1gAj0rxRU8QK49emO77sjF"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
         "name": "Rhapsody in Blue (grass)",
         "url": "https://open.spotify.com/album/5XeyyuXub22TpOXd3B1RzB"
       },
@@ -991,42 +1027,6 @@
       "duration_ms": 729807,
       "name": "Rhapsody in Blue(grass)",
       "url": "https://open.spotify.com/track/0zx3CiQNU6sqLbgOnrqKNK"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
-        "name": "Pickin' on the 90s",
-        "url": "https://open.spotify.com/album/3QB8bU45ibOECYMejZuVAi"
-      },
-      "artists": [
-        {
-          "name": "Pickin' On Series",
-          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
-        },
-        {
-          "name": "The Sidekicks",
-          "url": "https://open.spotify.com/artist/0cuataW2AnHzeTbA2ERBYI"
-        }
-      ],
-      "duration_ms": 198460,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/1gAj0rxRU8QK49emO77sjF"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
-        "name": "Verry Garcia",
-        "url": "https://open.spotify.com/album/26ZgwENZ2fNkmIPGu4swPt"
-      },
-      "artists": [
-        {
-          "name": "Chicken Wire Empire",
-          "url": "https://open.spotify.com/artist/05RSgyFo6Z3uiYA6fnj0sm"
-        }
-      ],
-      "duration_ms": 302720,
-      "name": "Friend of the Devil",
-      "url": "https://open.spotify.com/track/3dATBi29oygrDF033WG1pH"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Make Me Stay or Make Me Go",
-        "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
-      },
-      "artists": [
-        {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Make Me Stay or Make Me Go",
-      "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "Old Cane Back Rocker",
         "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 267690,
       "name": "It's a Great Day to Be Alive",
       "url": "https://open.spotify.com/track/64lQoUgmhvS8KqstWlg4J9"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "Make Me Stay or Make Me Go",
+        "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Make Me Stay or Make Me Go",
+      "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
+        "name": "Pursuit of Happiness",
+        "url": "https://open.spotify.com/album/1Ie8GLQFnaxchf0ZPihKvq"
+      },
+      "artists": [
+        {
+          "name": "Tray Wellington Band",
+          "url": "https://open.spotify.com/artist/4cA3qHzBqSEeeiB9oYzLIp"
+        },
+        {
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+        }
+      ],
+      "duration_ms": 333000,
+      "name": "Pursuit of Happiness",
+      "url": "https://open.spotify.com/track/5Pc2mBvuWh86EJZXKoqOoW"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
         "name": "Heart-Shaped Box",
         "url": "https://open.spotify.com/album/1oCcDnADb3h6NEvVPa2Cps"
       },
@@ -1327,26 +1347,6 @@
       "duration_ms": 151466,
       "name": "Coalmine",
       "url": "https://open.spotify.com/track/3Yq995dHWgGkRwy7cgOXKB"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
-        "name": "Pursuit of Happiness",
-        "url": "https://open.spotify.com/album/1Ie8GLQFnaxchf0ZPihKvq"
-      },
-      "artists": [
-        {
-          "name": "Tray Wellington Band",
-          "url": "https://open.spotify.com/artist/4cA3qHzBqSEeeiB9oYzLIp"
-        },
-        {
-          "name": "Tray Wellington",
-          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
-        }
-      ],
-      "duration_ms": 333000,
-      "name": "Pursuit of Happiness",
-      "url": "https://open.spotify.com/track/5Pc2mBvuWh86EJZXKoqOoW"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
+        "name": "Graceland (Live Session)",
+        "url": "https://open.spotify.com/album/4LdhAmf3FFE23z5GfpyV7A"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Thornton",
+          "url": "https://open.spotify.com/artist/16Yf6ZfrDTWu4jt7GQrjdL"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Graceland (Live Session)",
+      "url": "https://open.spotify.com/track/2JHkGl5zdenvGo63yTDgH4"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
         "name": "Those Were the Days",
         "url": "https://open.spotify.com/album/4afclf1PXcwWZYU1B1wie1"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 214453,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/1cjDZNaMWIv7Q1eRqF9Rca"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
-        "name": "Graceland (Live Session)",
-        "url": "https://open.spotify.com/album/4LdhAmf3FFE23z5GfpyV7A"
-      },
-      "artists": [
-        {
-          "name": "Ramsey Thornton",
-          "url": "https://open.spotify.com/artist/16Yf6ZfrDTWu4jt7GQrjdL"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Graceland (Live Session)",
-      "url": "https://open.spotify.com/track/2JHkGl5zdenvGo63yTDgH4"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Linger",
-        "url": "https://open.spotify.com/album/34HJ7PfTw1XuNCkWwUoJRP"
-      },
-      "artists": [
-        {
-          "name": "Aine Burns",
-          "url": "https://open.spotify.com/artist/2YO7UDjRwu6oFYXDQxVfOz"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/4L2VxFPupG0uZTFukuZBoY"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "Break on Through (To the Other Side)",
         "url": "https://open.spotify.com/album/6hRj4yRNbXucoVjuSQwSFT"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 215600,
       "name": "Break on Through (To the Other Side)",
       "url": "https://open.spotify.com/track/0hjjRLRLsepUhGLQaLDvGb"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "Linger",
+        "url": "https://open.spotify.com/album/34HJ7PfTw1XuNCkWwUoJRP"
+      },
+      "artists": [
+        {
+          "name": "Aine Burns",
+          "url": "https://open.spotify.com/artist/2YO7UDjRwu6oFYXDQxVfOz"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/4L2VxFPupG0uZTFukuZBoY"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Born to Run",
-        "url": "https://open.spotify.com/album/6XXtLt6TrZqAEpf075BH6X"
-      },
-      "artists": [
-        {
-          "name": "Craig Duncan",
-          "url": "https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t"
-        }
-      ],
-      "duration_ms": 281500,
-      "name": "Born to Run",
-      "url": "https://open.spotify.com/track/3ZMEwdh8QGsUSOmXGsLcAu"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "We Just Disagree",
         "url": "https://open.spotify.com/album/4ugzG0tOdg2rFmLN8S8fLd"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 191600,
       "name": "We Just Disagree",
       "url": "https://open.spotify.com/track/787fid8wl4wfd4UpIaI2Gz"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "Born to Run",
+        "url": "https://open.spotify.com/album/6XXtLt6TrZqAEpf075BH6X"
+      },
+      "artists": [
+        {
+          "name": "Craig Duncan",
+          "url": "https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t"
+        }
+      ],
+      "duration_ms": 281500,
+      "name": "Born to Run",
+      "url": "https://open.spotify.com/track/3ZMEwdh8QGsUSOmXGsLcAu"
     },
     {
       "added_at": "2026-07-23 21:17:27",

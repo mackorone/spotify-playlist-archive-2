@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAMlS0yys0lzV8rbG9Q0OlptOFpTq7J",
+  "snapshot_id": "AAAMmLBsGeaQnzN5IAxBJq1kkkVKmMVx",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -152251,6 +152251,54 @@
       "duration_ms": 294260,
       "name": "Impostor Syndrome",
       "url": "https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd"
+    },
+    {
+      "added_at": "2026-08-07 16:06:55",
+      "album": {
+        "name": "Completeness",
+        "url": "https://open.spotify.com/album/5i7bsC8RBELXhGeMViNwZX"
+      },
+      "artists": [
+        {
+          "name": "Ave Mujica",
+          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
+        }
+      ],
+      "duration_ms": 242572,
+      "name": "\u9854",
+      "url": "https://open.spotify.com/track/6MtEzxuKMIDEXcKoUGJjy1"
+    },
+    {
+      "added_at": "2026-08-07 16:11:20",
+      "album": {
+        "name": "\u30d0\u30f3\u30c9\u30ea\uff01 \u30ab\u30d0\u30fc\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Extra Volume",
+        "url": "https://open.spotify.com/album/1cGcrwckGaF4B8zKFH4kEb"
+      },
+      "artists": [
+        {
+          "name": "MyGO!!!!!",
+          "url": "https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq"
+        }
+      ],
+      "duration_ms": 254320,
+      "name": "\u731b\u72ec\u304c\u8972\u3046 (Cover)",
+      "url": "https://open.spotify.com/track/4UlTmk7DfT7QlatUZUiuV7"
+    },
+    {
+      "added_at": "2026-08-07 16:14:41",
+      "album": {
+        "name": "\u30d0\u30f3\u30c9\u30ea\uff01 \u30ab\u30d0\u30fc\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 Extra Volume",
+        "url": "https://open.spotify.com/album/1cGcrwckGaF4B8zKFH4kEb"
+      },
+      "artists": [
+        {
+          "name": "Ave Mujica",
+          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
+        }
+      ],
+      "duration_ms": 183786,
+      "name": "\u5815\u5929 (Cover)",
+      "url": "https://open.spotify.com/track/5GGEx5ZSRaX6QaazJCnFcn"
     }
   ],
   "unique_name": "Purge",

@@ -1,12 +1,12 @@
 {
   "description": "chill it out, take it slow, then you rock out the show\u2728\ud83c\udfa4",
-  "num_followers": 325400,
+  "num_followers": 325410,
   "original_name": "neon cowgirl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABxk3tDyWW3UCysDIn5SgdGnoAl/",
+  "snapshot_id": "AAAAAInA4mSxeGTqbE4em0FOeae3n9eM",
   "tracks": [
     {
       "added_at": "2026-03-23 12:22:39",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-03-23 12:22:39",
       "album": {
-        "name": "Barbie The Album",
-        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 176579,
-      "name": "Dance The Night",
-      "url": "https://open.spotify.com/track/11C4y2Yz1XbHmaQwO06s9f"
-    },
-    {
-      "added_at": "2026-03-23 12:22:39",
-      "album": {
         "name": "Here For The Party",
         "url": "https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 221333,
       "name": "Redneck Woman",
       "url": "https://open.spotify.com/track/26bL4gSULWDgdIMX0pRFrG"
+    },
+    {
+      "added_at": "2026-03-23 12:22:39",
+      "album": {
+        "name": "Barbie The Album",
+        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 176579,
+      "name": "Dance The Night",
+      "url": "https://open.spotify.com/track/11C4y2Yz1XbHmaQwO06s9f"
     },
     {
       "added_at": "2026-03-23 12:22:39",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-03-23 12:22:39",
       "album": {
-        "name": "Short n' Sweet (Deluxe)",
-        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 141393,
-      "name": "Bad Reviews",
-      "url": "https://open.spotify.com/track/1Y66A5zH3iPOWCDIuSDQR5"
-    },
-    {
-      "added_at": "2026-03-23 12:22:39",
-      "album": {
         "name": "Here For The Party",
         "url": "https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 196760,
       "name": "Here for the Party",
       "url": "https://open.spotify.com/track/0SuzUhWAgStNIMZR4jEGgk"
+    },
+    {
+      "added_at": "2026-03-23 12:22:39",
+      "album": {
+        "name": "Short n' Sweet (Deluxe)",
+        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 141393,
+      "name": "Bad Reviews",
+      "url": "https://open.spotify.com/track/1Y66A5zH3iPOWCDIuSDQR5"
     },
     {
       "added_at": "2026-03-23 12:22:39",

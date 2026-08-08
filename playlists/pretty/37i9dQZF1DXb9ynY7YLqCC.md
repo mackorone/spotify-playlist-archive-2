@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 
 > Canciones directas y banderas al viento\. Foto: reybruja
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,375 likes - 70 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,390 likes - 70 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 15 | [Chino](https://open.spotify.com/track/3i22RR1yUia5ShKujgQcX3) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Espíritu](https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm) | 3:22 |
 | 16 | [Fuiste lo mejor](https://open.spotify.com/track/0pvHj0RHMGZ7JBOYh7Kmsk) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 4:29 |
 | 17 | [Prohibido](https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Rocanroles Sin Destino](https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz) | 3:30 |
-| 18 | [Cuando Estés Acá](https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [La Renga](https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH) | 4:55 |
+| 18 | [Triste Canción De Amor](https://open.spotify.com/track/0LTPPsp9xmM92ZT6pGvsrz) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [A Donde Me Lleva La Vida](https://open.spotify.com/album/5f86DyUHkazyikoFVWb237) | 5:07 |
 | 19 | [Homero](https://open.spotify.com/track/3AjSUbPd7siXGOSlmXm9Nr) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Especial](https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E) | 4:23 |
 | 20 | [Sigue Girando](https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Girando](https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B) | 3:58 |
 | 21 | [Chance](https://open.spotify.com/track/5jU0mt57ZibD3Us55vMs9Y) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Karmagedon](https://open.spotify.com/album/7BwJSFUMeLoEFyJEXbTLLv) | 5:28 |
 | 22 | [Las cosas que no se tocan](https://open.spotify.com/track/5Y3T9zncw2XDAcn9pFliKT) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 3:34 |
-| 23 | [Triste Canción De Amor](https://open.spotify.com/track/0LTPPsp9xmM92ZT6pGvsrz) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [A Donde Me Lleva La Vida](https://open.spotify.com/album/5f86DyUHkazyikoFVWb237) | 5:07 |
+| 23 | [Cuando Estés Acá](https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [La Renga](https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH) | 4:55 |
 | 24 | [Cobarde para Amar](https://open.spotify.com/track/5wRABVeikfx8nwyyG3xVLQ) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Gardeliando](https://open.spotify.com/album/4hCEfpe6nzek67R3G1ktt3) | 4:22 |
 | 25 | [Lo Artesanal \- Remix](https://open.spotify.com/track/6G69Rca1fS52ypIOp5KJBX) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Sigue Pegando](https://open.spotify.com/album/5Nv6koWaTbbunAJhE8cYeT) | 5:40 |
 | 26 | [Beatle](https://open.spotify.com/track/5dpS7KpIkLFC0hm8tsqI1V) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Radio Insomnio](https://open.spotify.com/album/7cm5BAYTV2rWUTEwpLk1F3) | 3:29 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 53 | [La ilusión que me condena](https://open.spotify.com/track/1woygbhtsdzT0BJX7rs0ue) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Gladiadores del rock](https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp) | 5:06 |
 | 54 | [\(Sonrisa\)](https://open.spotify.com/track/6KvM9hNOk3Sa7pknGBHHQp) | [De La Gran Piñata](https://open.spotify.com/artist/0gxy0foaJsRc1tfpByJWCK) | [Viaje al Centro de Uno Mismo](https://open.spotify.com/album/7zKNPA1cVOW58Pn4UJTerl) | 4:39 |
 | 55 | [Probaste un Buen Dolor](https://open.spotify.com/track/6vEuaYdwI95ClE5zaIn5Ji) | [Sueño de Pescado](https://open.spotify.com/artist/45Mh2xppphSbyZluabCCJ1) | [Venganza Primavera](https://open.spotify.com/album/7bbgqwZ32fIFfvvhmzpYu0) | 3:43 |
-| 56 | [piso 20](https://open.spotify.com/track/3Km8AtaJxGsCiT6u8Uhz1m) | [reybruja](https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz) | [GUSTAR Y OFENDER](https://open.spotify.com/album/1ZhJsTyimzQOzBz6X2XJbd) | 2:21 |
-| 57 | [Caer](https://open.spotify.com/track/76imPO6e12fh4HTzsbqYVm) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Flor de ceibo](https://open.spotify.com/album/3bX8ps73c1Ps2lroSYD2rV) | 2:08 |
+| 56 | [Caer](https://open.spotify.com/track/76imPO6e12fh4HTzsbqYVm) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Flor de ceibo](https://open.spotify.com/album/3bX8ps73c1Ps2lroSYD2rV) | 2:08 |
+| 57 | [piso 20](https://open.spotify.com/track/3Km8AtaJxGsCiT6u8Uhz1m) | [reybruja](https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz) | [GUSTAR Y OFENDER](https://open.spotify.com/album/1ZhJsTyimzQOzBz6X2XJbd) | 2:21 |
 | 58 | [Miras sin ver](https://open.spotify.com/track/0h977C6sVvhYg2fEf3tIO6) | [Ojos locos](https://open.spotify.com/artist/2qMYZt6h1KkH2OxwI2tOo6) | [Guerra de Nada](https://open.spotify.com/album/4BpvpQg1SoId37jAosecWu) | 4:11 |
 | 59 | [Rock del Pedazo](https://open.spotify.com/track/5MRelkZAqB0SrxUtZmexQo) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [X 16](https://open.spotify.com/album/45UGwtbbmTeqJAoFnhiLx7) | 2:46 |
 | 60 | [Veredas](https://open.spotify.com/track/1iv3txvY78PROSNk2AxW3t) | [De La Gran Piñata](https://open.spotify.com/artist/0gxy0foaJsRc1tfpByJWCK) | [Viaje al Centro de Uno Mismo](https://open.spotify.com/album/7zKNPA1cVOW58Pn4UJTerl) | 5:05 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 69 | [Ahí](https://open.spotify.com/track/4lH1UpMeCgcwnzh6dDX7kI) | [Ojos locos](https://open.spotify.com/artist/2qMYZt6h1KkH2OxwI2tOo6) | [Tocando Mañana](https://open.spotify.com/album/6XCws2Vp6vVq8GosvDqWvz) | 4:03 |
 | 70 | [Perdido en Buenos Aires](https://open.spotify.com/track/101sToXKkcLpZKmnri9XH2) | [Rolo Sartorio](https://open.spotify.com/artist/04qwrwU0fxN1TJ1hbfR5cv) | [Perdido en Buenos Aires](https://open.spotify.com/album/3DxE5lXge6XVcAMWWjLiIJ) | 4:31 |
 
-Snapshot ID: `AAAAAKSDuDbcbNaOJZuUgm/dBArOx7TH`
+Snapshot ID: `AAAAAPTT4FBz8UmwfWoxUkaUfm/PRGzp`

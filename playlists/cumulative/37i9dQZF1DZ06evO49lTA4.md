@@ -4,7 +4,7 @@
 
 > This is Luke Combs\. The essential tracks, all in one playlist.
 
-103 songs - 5 hr 50 min
+104 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Does To Me \(feat\. Eric Church\)](https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:43 | 2023-09-21 |  |
 | [Doin' This](https://open.spotify.com/track/6TpyujRefwsflWFXbmjVpj) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 4:14 | 2023-09-21 | 2026-03-22 |
 | [Even Though I'm Leaving](https://open.spotify.com/track/5Fhe63YOMZsGdB3CgCDuBi) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:45 | 2023-09-21 |  |
-| [Ever Mine \- feat\. Alison Krauss](https://open.spotify.com/track/6kePJqmJ23YLTwf2HsLXWL) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [The Way I Am](https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ) | 3:38 | 2026-05-03 |  |
+| [Ever Mine \- feat\. Alison Krauss](https://open.spotify.com/track/6kePJqmJ23YLTwf2HsLXWL) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [The Way I Am](https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ) | 3:38 | 2026-05-03 | 2026-08-08 |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-09-21 |  |
 | [Forever After All](https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:52 | 2023-09-21 |  |
 | [Front Door Famous](https://open.spotify.com/track/5Xtm6aizhemUZMdjvLImeK) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:18 | 2024-06-17 | 2026-04-01 |
@@ -88,7 +88,8 @@
 | [Sheriff You Want To](https://open.spotify.com/track/1NBJoYCz83qtBFGGPgfTkQ) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Can I Get an Outlaw](https://open.spotify.com/album/7ENhewQQ9Hp8mdEAyIsWvW) | 3:41 | 2023-09-21 | 2026-03-20 |
 | [Ships That Don’t Come In](https://open.spotify.com/track/6wNtSoSzerVOo8fGKRLN7Q) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [HIXTAPE: Vol\. 3: DIFFTAPE](https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O) | 3:44 | 2024-04-07 | 2024-06-10 |
 | [Shoot The Bull](https://open.spotify.com/track/6qZOIYvUcfKl9kTE2rxitF) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Banks Of The Trinity](https://open.spotify.com/album/5HXVIeGnVkbxonX7SCj2HD) | 3:04 | 2026-06-30 |  |
-| [Sleepless in a Hotel Room](https://open.spotify.com/track/2za9t2qpWyUpIhnJcwopPt) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Sleepless in a Hotel Room](https://open.spotify.com/album/4svTVbjxKUxzSUBI0HYvds) | 2:57 | 2026-01-15 |  |
+| [Sleepless in a Hotel Room](https://open.spotify.com/track/0y0W8zIjxv0swTYlg450tP) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Way I Am](https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ) | 2:57 | 2026-08-08 |  |
+| [Sleepless in a Hotel Room](https://open.spotify.com/track/2za9t2qpWyUpIhnJcwopPt) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Sleepless in a Hotel Room](https://open.spotify.com/album/4svTVbjxKUxzSUBI0HYvds) | 2:57 | 2026-01-15 | 2026-08-08 |
 | [Soon As I Get Home](https://open.spotify.com/track/6TqqJJiJxThChwqBA7X7Tq) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Way I Am](https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ) | 3:29 | 2026-03-23 |  |
 | [South On Ya](https://open.spotify.com/track/0cvmA0xg8FkzKvBnO8987X) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [South On Ya](https://open.spotify.com/album/2bnuOCorMF9NzCFQegmfnC) | 2:51 | 2023-09-21 | 2024-07-27 |
 | [Tell 'Em About Tonight](https://open.spotify.com/track/6OxutlGyuRP0sWs9BbcIES) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Way I Am](https://open.spotify.com/album/0QM1NGOJHTmglnHriAsYzQ) | 3:41 | 2026-03-27 |  |

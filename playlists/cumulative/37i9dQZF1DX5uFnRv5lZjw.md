@@ -4,7 +4,7 @@
 
 > doom scrolling is out, off\-grid is in.
 
-125 songs - 5 hr 15 min
+127 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Little House In Silver Lake](https://open.spotify.com/track/1QQXKivwrfMS3ma2ZBUGyr) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Little House In Silver Lake](https://open.spotify.com/album/6hXIKTf62eL65rGo6GshIs) | 2:52 | 2025-03-07 |  |
 | [Lost in the Library](https://open.spotify.com/track/6OegSW1Xm2gyfwU9zZUkwU) | [Claude Leon](https://open.spotify.com/artist/6CaYrWBRxJNLRd95uQ6uLC) | [Lost in the Library](https://open.spotify.com/album/1y2cH530QIZ5EAveiJZOlP) | 2:34 | 2025-03-07 |  |
 | [Lucid Dream](https://open.spotify.com/track/40rbmyx6wYloLKf4Ui9huc) | [Jonas Mire](https://open.spotify.com/artist/6kIVYoRlOEHANMZgX3g3JR) | [Lucid Dream](https://open.spotify.com/album/0cwXbQcbDAmX7gAubhViWn) | 2:19 | 2026-07-24 |  |
+| [Lunethis](https://open.spotify.com/track/24JykF0lm3EqhSn50LUVfw) | [Siri Eijde](https://open.spotify.com/artist/2ND34rpSifp76bnMDtffEV) | [Lunethis](https://open.spotify.com/album/6V33ptHtqxopfdURWvAyCx) | 2:49 | 2026-08-07 |  |
 | [Meadows](https://open.spotify.com/track/3lbUG1o2SurxnJkijry5dI) | [Adrian Solen](https://open.spotify.com/artist/0YXmGTBUBq6Pikq8MvNngn) | [Meadows](https://open.spotify.com/album/5ny5NcwkfOoChD522hi6j0) | 2:19 | 2025-07-18 | 2026-07-25 |
 | [Meet Me At Noon](https://open.spotify.com/track/1nq30PCzNrkktaSxn2uxds) | [Jack Ame](https://open.spotify.com/artist/5VFJbcflFyX7bF7yTvtOQQ) | [Meet Me At Noon](https://open.spotify.com/album/1afrHdIQvjlrC8GfRrHg4B) | 2:36 | 2025-03-26 | 2026-05-30 |
 | [Moment In Time](https://open.spotify.com/track/6elxWhsFbXqdYuD7QCeWgM) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Moment In Time](https://open.spotify.com/album/2THxRrRB28hjygxAf7y7JW) | 2:10 | 2025-03-07 | 2025-06-11 |
@@ -113,6 +114,7 @@
 | [Talk to Them](https://open.spotify.com/track/3oGWkoSBS9wpmf48OlI54i) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Talk to Them](https://open.spotify.com/album/2KuOjVGZuTGKh260hLfX3T) | 2:24 | 2025-03-07 |  |
 | [Taylor River](https://open.spotify.com/track/6GNqGNo4HxzaMsXo36ErsG) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Taylor River](https://open.spotify.com/album/7HlwXtNrThDW7yDKT0bMbC) | 2:11 | 2025-08-05 |  |
 | [Tea Leaves](https://open.spotify.com/track/23EKUr95l9lfZFu331B7Qh) | [J Stepan](https://open.spotify.com/artist/2uF3aGwBsOYAxyCSCQuQzz) | [Tea Leaves](https://open.spotify.com/album/4nERQL5dMiB2IdcgWZpfBR) | 2:16 | 2025-03-26 |  |
+| [Tell Me A Story](https://open.spotify.com/track/2JLxvopW4F9OJ5oQoOXWk3) | [Rowan Sinclair](https://open.spotify.com/artist/4AluvHhXZcaOsyMJEVrw2w) | [Tell Me A Story](https://open.spotify.com/album/6JcseydheNVClml0ne2mPO) | 3:03 | 2026-08-07 |  |
 | [Temporary Coexistence](https://open.spotify.com/track/44UULCqmzqSuT4FzNoALZl) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Temporary Coexistence of Humans](https://open.spotify.com/album/2ob168pec2r2ZtuSjzbgtz) | 2:53 | 2026-05-29 |  |
 | [The Conservatory Window](https://open.spotify.com/track/1DcuFxt7thDbbiPPkWaDoA) | [Vølaire](https://open.spotify.com/artist/6cYOKoIvU6FGklAGv8aA1u) | [The Conservatory Window](https://open.spotify.com/album/4N5vOrH6XKFvNRY7MQ3yIS) | 2:54 | 2025-03-07 |  |
 | [The Great Unknown](https://open.spotify.com/track/4l9EIKt3aYxiGm0Qm2FdoB) | [Sam & Me](https://open.spotify.com/artist/0I6YHl8NdEHLGwdklwhTCm) | [The Great Unknown](https://open.spotify.com/album/3gMUGhgcBKa0hdHQyuGgvR) | 1:46 | 2025-03-07 | 2025-04-03 |

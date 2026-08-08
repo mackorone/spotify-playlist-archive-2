@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1U3NAY.md) - [plain]
 
 > This is Within Temptation\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,586 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,604 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1U3NAY.md) - [plain]
 | 12 | [Memories](https://open.spotify.com/track/5qOA9jbfWAtxOJ8zY1ReYf) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 3:51 |
 | 13 | [Sinéad](https://open.spotify.com/track/6sI8ojHlABbk9nvEtPYK5v) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 4:23 |
 | 14 | [All I Need](https://open.spotify.com/track/02oW7CYWjfiCs1rZs7GNes) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Heart Of Everything](https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM) | 4:50 |
-| 15 | [Ice Queen](https://open.spotify.com/track/140cSu65JC8smYw53nPP0q) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Mother Earth](https://open.spotify.com/album/1Ly5R8riIWwOfcugMwC7t3) | 5:22 |
-| 16 | [Entertain You](https://open.spotify.com/track/66dd3P4QwSRQDVDRqMSFLk) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 3:31 |
+| 15 | [Entertain You](https://open.spotify.com/track/66dd3P4QwSRQDVDRqMSFLk) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 3:31 |
+| 16 | [Ice Queen](https://open.spotify.com/track/140cSu65JC8smYw53nPP0q) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Mother Earth](https://open.spotify.com/album/1Ly5R8riIWwOfcugMwC7t3) | 5:22 |
 | 17 | [In the Middle of the Night](https://open.spotify.com/track/35zwdnMhebt8gLF4WaCUMz) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 5:11 |
 | 18 | [Our Solemn Hour](https://open.spotify.com/track/6KaLRddxDnr9hufQCW3Kzx) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Heart Of Everything](https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM) | 4:17 |
 | 19 | [Mad World](https://open.spotify.com/track/0tUWRioloZrqmq95DAMsOK) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Resist \(Extended Deluxe\)](https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR) | 4:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1U3NAY.md) - [plain]
 | 49 | [Cyanide Love](https://open.spotify.com/track/7c5JuIrBDoaSbzIzAr7AxN) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 4:04 |
 | 50 | [Worth Dying For](https://open.spotify.com/track/1Q5chsQiz6iC0edatkj3KM) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 4:53 |
 
-Snapshot ID: `anJ9AAAAAAAiWub51qmparByoy1k7sTQ`
+Snapshot ID: `anPOgAAAAADz8xfay9JEmWwq9ijwUMMg`

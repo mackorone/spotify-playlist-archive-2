@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Featuring Next of Kin\. Curated with love by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,219,032 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219,066 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [penso en voce](https://open.spotify.com/track/6MRzvONHsxqcDMlFImvPow) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [in this body](https://open.spotify.com/album/6haYphkZdT3j3DvhWcAemW) | 2:36 |
 | 100 | [dimples](https://open.spotify.com/track/0Jc9os5dYkPGRdEBxhH76B) | [Lightris](https://open.spotify.com/artist/1BTzfMY27qhCFQpTeTUbCi) | [dimples](https://open.spotify.com/album/6p6c3hadee16PIEBhEv40S) | 1:40 |
 
-Snapshot ID: `AAAAAMfjJqcT/c93B8gWy86qFLNiaJx6`
+Snapshot ID: `AAAAAJa22w/tTlv3WrD4fPLr/oHj99F0`

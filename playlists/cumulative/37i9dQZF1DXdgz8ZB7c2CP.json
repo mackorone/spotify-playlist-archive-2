@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \u2728 featuring Yaeger",
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83d\udc3a featuring Jai Wolf",
   "name": "creamy",
   "tracks": [
     {
@@ -90,6 +90,24 @@
       "duration_ms": 147316,
       "name": "1-800-FUCKOFF",
       "url": "https://open.spotify.com/track/3A5sIu67YXUs2vVqczLUEP"
+    },
+    {
+      "album": {
+        "name": "125",
+        "url": "https://open.spotify.com/album/2uiWJVUb0qpKUbqXU4cMig"
+      },
+      "artists": [
+        {
+          "name": "Arya",
+          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177433,
+      "name": "125",
+      "url": "https://open.spotify.com/track/6XecKnaXmoAChPDV0AvnKQ"
     },
     {
       "album": {
@@ -596,6 +614,24 @@
       "duration_ms": 138000,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/6PuGfVM0DCgX04vyZ2RFwz"
+    },
+    {
+      "album": {
+        "name": "afterglow** / Elisa Liu",
+        "url": "https://open.spotify.com/album/3bXwrjK4MsVXitM1Dg2okU"
+      },
+      "artists": [
+        {
+          "name": "VILLA",
+          "url": "https://open.spotify.com/artist/6CjQ1qXQdr7P84BkOEuTwS"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214400,
+      "name": "afterglow**",
+      "url": "https://open.spotify.com/track/5pfrO9fsIxKF1XxX3D1Pqx"
     },
     {
       "album": {
@@ -1748,6 +1784,28 @@
       "duration_ms": 150004,
       "name": "Bad Girl",
       "url": "https://open.spotify.com/track/5YMdRD2koM5OnM3nbsRJ6K"
+    },
+    {
+      "album": {
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/4xYP4WbxY4JViO6OLYjCbK"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "SAYAK DAS",
+          "url": "https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/0ZL0LiEdUas8eiMlhBWMh9"
     },
     {
       "album": {
@@ -6002,7 +6060,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 219000,
       "name": "DECISION",
       "url": "https://open.spotify.com/track/0xcVvOOLPgx7kbrLdGOZuL"
@@ -10814,7 +10872,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 194887,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/3CWjCDuORRYDKZjdQRra4f"
@@ -11702,7 +11760,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 195188,
       "name": "Himalaya",
       "url": "https://open.spotify.com/track/6mRdQVSDsKkMm9qGPRstyR"
@@ -17534,7 +17592,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 199448,
       "name": "NEED U",
       "url": "https://open.spotify.com/track/3X8N82pF8LlB0mMuwn4so8"
@@ -18064,7 +18122,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 166478,
       "name": "NOBODY",
       "url": "https://open.spotify.com/track/72rArSfKMPrcQeGlBRfOrs"
@@ -20298,6 +20356,24 @@
       "duration_ms": 315276,
       "name": "Prophecy",
       "url": "https://open.spotify.com/track/69nFLl74Rqr8LmqUCUZJL6"
+    },
+    {
+      "album": {
+        "name": "PULL ME",
+        "url": "https://open.spotify.com/album/1fJQjhwE2ASXTf9ssEUtvc"
+      },
+      "artists": [
+        {
+          "name": "Moceans",
+          "url": "https://open.spotify.com/artist/4sNqZN5imeFil3F2SnK8EZ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161857,
+      "name": "PULL ME",
+      "url": "https://open.spotify.com/track/4R9W4428JLsyPKU0T642Hs"
     },
     {
       "album": {
@@ -29764,6 +29840,32 @@
       "duration_ms": 205714,
       "name": "When I Fall",
       "url": "https://open.spotify.com/track/1zIzW4i8tD51F4U21uFaHC"
+    },
+    {
+      "album": {
+        "name": "When The Light Breaks",
+        "url": "https://open.spotify.com/album/1TUAfWl3NJj9yG1Bv9LwvA"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Heather Sommer",
+          "url": "https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213554,
+      "name": "When The Light Breaks",
+      "url": "https://open.spotify.com/track/5rPj0HY2HsT8qneZQL0jJk"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 > What is your love language? Say it in Swahili\.  Cover: Nandy
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,855 likes - 59 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,891 likes - 59 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 | 58 | [Keki](https://open.spotify.com/track/3G6JOHEn46OK8LUH4qiJhW) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Bahati](https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z) | [Keki](https://open.spotify.com/album/3JiAtCjaZzPx1Z4uK1n16W) | 3:03 |
 | 59 | [Fitingi \(feat\. Marioo\)](https://open.spotify.com/track/5UhDCKzxdH5RLbnUL5f4ld) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Fitingi \(feat\. Marioo\)](https://open.spotify.com/album/14LrFiTCxQoYkteAQO4iJY) | 3:00 |
 
-Snapshot ID: `AAAAANr5zifb6M/PwptfEdxEfAXOmebz`
+Snapshot ID: `AAAAABYLBqY/tRuqMr91uQGNjRym7KXm`

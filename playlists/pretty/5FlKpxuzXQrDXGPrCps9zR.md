@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5FlKpxuzXQrDXGPrCps9zR.md) - [plain]
 
 > 
 
-[dylan](https://open.spotify.com/user/g0hkhph9aqvum331ul8ftxj5i) - 0 likes - 21 songs - 1 hr 8 min
+[dylan](https://open.spotify.com/user/g0hkhph9aqvum331ul8ftxj5i) - 0 likes - 23 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,5 +29,7 @@ pretty - [cumulative](/playlists/cumulative/5FlKpxuzXQrDXGPrCps9zR.md) - [plain]
 | 19 | [Wedding Dress](https://open.spotify.com/track/51o6ew28L60lB9HYX9tOgg) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq) | 3:50 |
 | 20 | [Bells & Whistles \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/58swPNONsyiCKfjyzTSv22) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Cloud 9](https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq) | 2:55 |
 | 21 | [CRANK](https://open.spotify.com/track/6eqQLOOiqBnrwKQEzXoHll) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 2:55 |
+| 22 | [Thinking 'bout You](https://open.spotify.com/track/6pxf2SRlRfBwnQKcUZCm2s) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Thinking 'bout You](https://open.spotify.com/album/6k4bQKHw4hU7spl0fobR63) | 2:20 |
+| 23 | [Slow Dancin'](https://open.spotify.com/track/647YdG7a4EkucGiyDkfBRY) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Slow Dancin'](https://open.spotify.com/album/53sKCJTcX1AnTBqU9XUCD8) | 2:04 |
 
-Snapshot ID: `AAAB3ahSLrFr8+59qAJrNBnxO3REg+Vk`
+Snapshot ID: `AAAB36nfqfiSl52HXAf3N+LTt2kwj7qk`

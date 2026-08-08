@@ -2,7 +2,7 @@
 
 ### [Disneyland Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX8DVNE967JBk)
 
-> Come join in on the fun this summer with the top hits from Disneyland Resort.
+> Your Disneyland soundtrack is here all in one place.
 
 75 songs - 3 hr 42 min
 

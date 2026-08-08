@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 18302,
+  "num_followers": 18320,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAACUAzK5kPEU8ont3E8wYz+H",
+  "snapshot_id": "anPOgAAAAACA6O7fZSnC+9adbxlY9YV2",
   "tracks": [
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Many Man - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/26BUwXrqR3fJFMeSNA2NcS"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 190621,
-      "name": "Many Man - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
+      "duration_ms": 170000,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/5IHBw52L273HUsx3vphKZt"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/26BUwXrqR3fJFMeSNA2NcS"
+        "name": "Many Man - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/5IHBw52L273HUsx3vphKZt"
+      "duration_ms": 190621,
+      "name": "Many Man - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
     },
     {
       "added_at": null,
@@ -683,18 +683,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Darling + Angelus",
-        "url": "https://open.spotify.com/album/7E5NyqTBqxn8SvkwznzgvY"
+        "name": "Very Stubborn",
+        "url": "https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6"
       },
       "artists": [
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Shorae Moore",
+          "url": "https://open.spotify.com/artist/03VxcWyc7o8aYGyiePMYWJ"
         }
       ],
-      "duration_ms": 193500,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/1NCWMu8Iy5S4I9tI8AifTj"
+      "duration_ms": 217302,
+      "name": "Way Home",
+      "url": "https://open.spotify.com/track/2JjaZOtnywVuMXWSkJMU4d"
     },
     {
       "added_at": null,
@@ -719,22 +723,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Very Stubborn",
-        "url": "https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6"
+        "name": "My Darling + Angelus",
+        "url": "https://open.spotify.com/album/7E5NyqTBqxn8SvkwznzgvY"
       },
       "artists": [
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Shorae Moore",
-          "url": "https://open.spotify.com/artist/03VxcWyc7o8aYGyiePMYWJ"
         }
       ],
-      "duration_ms": 217302,
-      "name": "Way Home",
-      "url": "https://open.spotify.com/track/2JjaZOtnywVuMXWSkJMU4d"
+      "duration_ms": 193500,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/1NCWMu8Iy5S4I9tI8AifTj"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
       "duration_ms": 193250,
       "name": "Like2 - Part II (with Skillibeng & Victony)",
       "url": "https://open.spotify.com/track/2nNenfkc5uv1b9zkLZ5rOl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Very Stubborn",
+        "url": "https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 144592,
+      "name": "Gangsta Cry",
+      "url": "https://open.spotify.com/track/3hUc6LvbawUZOUEspluMDs"
     },
     {
       "added_at": null,
@@ -799,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Very Stubborn",
-        "url": "https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 144592,
-      "name": "Gangsta Cry",
-      "url": "https://open.spotify.com/track/3hUc6LvbawUZOUEspluMDs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/2Bq1QgK74IvFTiWHh88Ybi"
       },
@@ -831,6 +831,22 @@
       "duration_ms": 175200,
       "name": "Daily Bread",
       "url": "https://open.spotify.com/track/7poaa6i2Uke1kUpVRUX2dP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Very Stubborn",
+        "url": "https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 174452,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/3SdqGKArsHk8bNCUBLVKs7"
     },
     {
       "added_at": null,
@@ -867,22 +883,6 @@
       "duration_ms": 161840,
       "name": "A Lot (with Victony)",
       "url": "https://open.spotify.com/track/01gmKzXC1GZsOkEnAEAQ1w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Very Stubborn",
-        "url": "https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 174452,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/3SdqGKArsHk8bNCUBLVKs7"
     },
     {
       "added_at": null,

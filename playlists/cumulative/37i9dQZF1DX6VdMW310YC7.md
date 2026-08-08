@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,923 songs - 5 day 10 hr 30 min
+1,924 songs - 5 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1030,7 +1030,7 @@
 | [Love Is Awake](https://open.spotify.com/track/6cwiXbTqbuGjwPnG56LFG2) | [Madnap](https://open.spotify.com/artist/6iMPqGUG6S7G5vFISJoHg4), [Late Night Alumni](https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj) | [Love Is Awake](https://open.spotify.com/album/0KmRXcuUhaW2TpcyP2TqKu) | 3:20 | 2020-07-18 | 2022-10-30 |
 | [Love Like We're Dying](https://open.spotify.com/track/1jyIQoMPkCD6Pz1x1pzZs5) | [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Love Like We're Dying](https://open.spotify.com/album/4G1MoyjTIErFuPYNV2WJad) | 3:03 | 2023-01-13 | 2024-03-02 |
 | [Love Me \- Felix Cartal's Chill Mix](https://open.spotify.com/track/7yaMJeDKiDCGC35LrP6EYU) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Love Me \(Remixes\)](https://open.spotify.com/album/3D4DNUNdCascgr0VRYUib9) | 3:41 | 2020-03-17 | 2021-03-06 |
-| [Love Pains](https://open.spotify.com/track/6juK43DmhqHK7FsAecv92Q) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Freddie Elmberg](https://open.spotify.com/artist/2HAhqKaUVbYDq0rTlwo1md), [FLORES](https://open.spotify.com/artist/6ijryPR4MbExatvDQD1AhY) | [Love Pains](https://open.spotify.com/album/1ZvlhFHnqn8ktyV1UzGNx9) | 4:25 | 2026-01-23 |  |
+| [Love Pains](https://open.spotify.com/track/6juK43DmhqHK7FsAecv92Q) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Freddie Elmberg](https://open.spotify.com/artist/2HAhqKaUVbYDq0rTlwo1md), [FLORES](https://open.spotify.com/artist/6ijryPR4MbExatvDQD1AhY) | [Love Pains](https://open.spotify.com/album/1ZvlhFHnqn8ktyV1UzGNx9) | 4:25 | 2026-01-23 | 2026-08-08 |
 | [Love Syndrome](https://open.spotify.com/track/167J53zotbS1GdqHofZqc5) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Run Away](https://open.spotify.com/album/10qeJXOm1yf9uZ4cxL5dPl) | 4:44 | 2022-07-01 | 2022-08-27 |
 | [Love Syndrome](https://open.spotify.com/track/7jja8oqBSBmUKQlqOWRY36) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Run Away](https://open.spotify.com/album/2wdg1O8GblskgwH2K5ZGiu) | 4:44 | 2020-03-17 | 2022-04-21 |
 | [Love Theme](https://open.spotify.com/track/5a0kuu2yUKAxgz4ie4EVp2) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Love Theme](https://open.spotify.com/album/2YXmGNLo8MgBrOmQKhp0bu) | 4:29 | 2020-03-17 | 2022-04-20 |
@@ -1383,6 +1383,7 @@
 | [Remember Me](https://open.spotify.com/track/5fY592q9uyqWCsQVUWQra0) | [Drics](https://open.spotify.com/artist/5NlawbBDGkH8W9SblamHZO) | [Remember Me](https://open.spotify.com/album/5oIP2gVBohm3RnognSCLwK) | 2:41 | 2025-06-27 | 2025-09-14 |
 | [Resenären](https://open.spotify.com/track/5fwSydkuyJTqAhrPfvM5wr) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Resenären](https://open.spotify.com/album/4ooplbpUcmkYThvwnMLj0Q) | 7:02 | 2024-05-03 | 2024-06-08 |
 | [Resolve](https://open.spotify.com/track/0GOxBVl062KmJt4Spnvjuu) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh) | [Resolve](https://open.spotify.com/album/1D3Ix43zZ61laz8ww0MFZ3) | 7:22 | 2020-02-29\* | 2020-03-16 |
+| [Return to Ojai](https://open.spotify.com/track/3g70GmoZQlHPOTIkPUxLd9) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Return to Ojai](https://open.spotify.com/album/5HiSFg20JTQ5KTcD5Xsini) | 4:19 | 2026-08-07 |  |
 | [Revival](https://open.spotify.com/track/6Tgd0DhWYzCWrwZZB6BPNw) | [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [Revival](https://open.spotify.com/album/2gPm08Ppc9BybHGrKXFaxF) | 4:39 | 2020-03-16 | 2020-10-09 |
 | [Rewind \(feat\. Sophie Strauss\)](https://open.spotify.com/track/7z72BGlsE21horfWo8hG4d) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI), [Sophie Strauss](https://open.spotify.com/artist/7jkqVQ6YQ3LvAhVG03ZP4G) | [Rewind \(feat\. Sophie Strauss\)](https://open.spotify.com/album/37OQTAUlRrqwirt2DNpLb6) | 3:17 | 2020-05-18 | 2020-07-03 |
 | [Riffs of the Night](https://open.spotify.com/track/0fcC6bE1mkCSJWRlWVwkbx) | [Jos & Eli](https://open.spotify.com/artist/3nOp9kU7OluZlOGCdqWqS3), [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Riffs of the Night](https://open.spotify.com/album/6MAywkF67xHfeeJuXrWMf6) | 4:08 | 2022-09-09 | 2022-12-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 
 > Para subir la temperatura\. Foto: Lebrón Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,649 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,713 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 | 49 | [Cúcala](https://open.spotify.com/track/4lDazSsfp0eKRWUh4BKCgI) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Tremendo Cache](https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN) | 3:49 |
 | 50 | [Solitario](https://open.spotify.com/track/0FW28wRArRJSuWnHwE415S) | [Conjunto Clásico](https://open.spotify.com/artist/2T1yhT2K3iSI8vwAdOS9O0), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Ray Castro Presenta...Lo Mejor De Conjunto Clasico Con Tito Nieves](https://open.spotify.com/album/778A8QJMXVPaCnGwOlAK3y) | 4:00 |
 
-Snapshot ID: `AAAAAIeOO1aAxNWodw+vrEd2TCP6ICBS`
+Snapshot ID: `AAAAAIVN/2ylEdRBeKL/vP6v/AqvZmrb`

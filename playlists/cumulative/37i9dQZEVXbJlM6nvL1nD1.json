@@ -3166,7 +3166,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -7832,7 +7832,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
@@ -8668,7 +8668,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
@@ -8740,7 +8740,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -8868,7 +8868,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-02",
+      "date_removed": null,
       "duration_ms": 187076,
       "name": "EXCESOS",
       "url": "https://open.spotify.com/track/6UtWwuheJr5LLDeVypPNx7"
@@ -11848,7 +11848,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 199114,
       "name": "KLOuFRENS",
       "url": "https://open.spotify.com/track/4MUrUT38U98olfnyzMBCzm"
@@ -13018,7 +13018,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 192111,
       "name": "LA VILLA",
       "url": "https://open.spotify.com/track/2ZyrAym0sRLwt4PhGotHuI"
@@ -15205,6 +15205,24 @@
     },
     {
       "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144286,
+      "name": "MATADORA",
+      "url": "https://open.spotify.com/track/04d5HlcQX6zH5MMqffXOon"
+    },
+    {
+      "album": {
         "name": "MATADORA",
         "url": "https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW"
       },
@@ -15216,7 +15234,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 144650,
       "name": "MATADORA",
       "url": "https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx"
@@ -16124,7 +16142,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 164911,
       "name": "Mimos",
       "url": "https://open.spotify.com/track/3yPN2nS3RXnIQimOoKjWYE"
@@ -25426,7 +25444,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 225880,
       "name": "Tu Boda",
       "url": "https://open.spotify.com/track/5mp6OBKCAjN4UYRvhOuUze"
@@ -26344,7 +26362,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 165738,
       "name": "UNA BABY EN SANTIAGO",
       "url": "https://open.spotify.com/track/0sLYR3myPmuIKRzDdeQta0"
@@ -27770,7 +27788,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
@@ -28448,7 +28466,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 375381,
       "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
       "url": "https://open.spotify.com/track/3jqk4fue7CILssCv8UpJe0"

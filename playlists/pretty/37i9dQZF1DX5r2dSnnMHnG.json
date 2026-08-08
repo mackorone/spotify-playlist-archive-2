@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC/NgL7vSv66huqM29FALf0T86L2",
+  "snapshot_id": "AAAAAF9H5qh3JM7vr6tlyOMenGYYy9rh",
   "tracks": [
     {
       "added_at": "2026-04-25 04:24:32",
@@ -587,18 +587,22 @@
     {
       "added_at": "2026-04-25 04:24:32",
       "album": {
-        "name": "flutter",
-        "url": "https://open.spotify.com/album/4DYirkpT6zwQBYx08vGvLV"
+        "name": "LOVE CATCHER",
+        "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
       },
       "artists": [
         {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        },
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
         }
       ],
-      "duration_ms": 196920,
-      "name": "flutter",
-      "url": "https://open.spotify.com/track/3kVJpd0l97dvphaiML7p61"
+      "duration_ms": 166000,
+      "name": "Question Marks (Feat. Paul Kim)",
+      "url": "https://open.spotify.com/track/1juxNlpwdGRJ2byuFW7RBC"
     },
     {
       "added_at": "2026-04-25 04:24:32",
@@ -619,22 +623,18 @@
     {
       "added_at": "2026-04-25 04:24:32",
       "album": {
-        "name": "LOVE CATCHER",
-        "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
+        "name": "flutter",
+        "url": "https://open.spotify.com/album/4DYirkpT6zwQBYx08vGvLV"
       },
       "artists": [
         {
-          "name": "YENA",
-          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
-        },
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Question Marks (Feat. Paul Kim)",
-      "url": "https://open.spotify.com/track/1juxNlpwdGRJ2byuFW7RBC"
+      "duration_ms": 196920,
+      "name": "flutter",
+      "url": "https://open.spotify.com/track/3kVJpd0l97dvphaiML7p61"
     },
     {
       "added_at": "2026-04-25 04:24:32",

@@ -2,9 +2,9 @@
 
 ### [New Music Friday France](https://open.spotify.com/playlist/37i9dQZF1DX742okrrpwah)
 
-> Tayc x Didi B, Alex Warren, Amelie Lens x Angèle et Soolking x TK au top des nouveautés de la semaine !
+> KAROL G x Bruno Mars, Tayc x Didi B, Alex Warren et Amelie Lens x Angèle au top des nouveautés de la semaine !
 
-10,463 songs - 22 day 12 hr 51 min
+10,465 songs - 22 day 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7426,7 +7426,7 @@
 | [Priti](https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Priti](https://open.spotify.com/album/6PJtmcd3jv2afBCZ3GSdsB) | 2:10 | 2025-03-20 | 2025-03-28 |
 | [Privacy](https://open.spotify.com/track/4uyekcXHQgFXCWUD3Z3hVY) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Privacy](https://open.spotify.com/album/3Y8tCScJlvlyZUhQdPmqSU) | 3:14 | 2026-07-23 | 2026-07-31 |
 | [Private](https://open.spotify.com/track/1735xgk2J8CHCGY2LS1HM6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Private](https://open.spotify.com/album/3ZHB2EDswWPDigqKXI59CL) | 3:49 | 2025-10-23 | 2025-10-31 |
-| [Private Chef](https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX) | [R.U\. \(Raw & Unfiltered\) Vol.1](https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE) | 3:20 | 2026-08-06 |  |
+| [Private Chef \(feat\. MC Morena\)](https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX) | [R.U\. \(Raw & Unfiltered\) Vol.1](https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE) | 3:20 | 2026-08-06 |  |
 | [Prizefighter](https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Prizefighter](https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X) | 3:29 | 2025-12-11 | 2025-12-19 |
 | [Prizefighter](https://open.spotify.com/track/1mvStaNiiO38hfsdWs5d2F) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Prizefighter](https://open.spotify.com/album/6wSfrkBLBrN619oQx8OYTq) | 3:20 | 2025-04-03 | 2025-04-11 |
 | [Prière pour reconstruire](https://open.spotify.com/track/3Mn9OM0hzV4JC7wJjC3yGA) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Prière pour reconstruire](https://open.spotify.com/album/4ROl2Euh00uo75istop8i4) | 4:07 | 2026-03-05 | 2026-03-13 |
@@ -8657,6 +8657,7 @@
 | [Sticky \(feat\. GloRilla, Sexyy Red & Lil Wayne\)](https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:15 | 2024-10-31 | 2024-11-08 |
 | [Sticky Fingers](https://open.spotify.com/track/6Nxj55nWZpi2uOXRVMfMY3) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Sticky Fingers](https://open.spotify.com/album/1ePJSgvvAndnUWpkHKg7p9) | 2:13 | 2025-08-28 | 2025-09-05 |
 | [Stigmates](https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Stigmates](https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe) | 4:53 | 2024-10-31 | 2024-11-08 |
+| [Still](https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:40 | 2026-08-07 |  |
 | [STILL \(feat\. Ab\-Soul & Rapsody\)](https://open.spotify.com/track/5TLjEHlPV8jpxQTVTmQYY3) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [STILL \(feat\. Ab\-Soul & Rapsody\)](https://open.spotify.com/album/3N3vA5recDthv6aBGfnTEb) | 3:26 | 2025-08-28 | 2025-09-05 |
 | [still around](https://open.spotify.com/track/2Qe9pxPgnUBZMRDvonR0hK) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [still around](https://open.spotify.com/album/590XAhSjXQGT8BfHCOaZGp) | 3:37 | 2024-08-01 | 2024-08-09 |
 | [Still Bad](https://open.spotify.com/track/5UpdcedkGcuishA7jlnH8W) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Still Bad](https://open.spotify.com/album/3DwhFPQWTCMMTbllQrAIpL) | 3:28 | 2025-03-13 | 2025-03-21 |
@@ -9246,6 +9247,7 @@
 | [think of u](https://open.spotify.com/track/17OMPDF9H2XINaE0VCOgRv) | [Cucina Sonora](https://open.spotify.com/artist/0t4vNX1iyHzmASWTnsYzES), [Pentola](https://open.spotify.com/artist/3K4rEZFW6Y93pEXaOtlSJM) | [think of u](https://open.spotify.com/album/7pW8TU3ndfj72rejZDjbpB) | 3:58 | 2025-09-25 | 2025-10-03 |
 | [THINKING ABOUT YOU](https://open.spotify.com/track/5L8sLMsxXNwj8DbamUjs7c) | [EUROCLUB](https://open.spotify.com/artist/0O4Hy2bjefsM76Enm55XkR) | [EUROCLUB](https://open.spotify.com/album/3dErNe80z63631S7obJfB5) | 2:51 | 2025-11-27 | 2025-12-05 |
 | [Thinking About You \(feat\. Arkey\)](https://open.spotify.com/track/1DwY5BtXvfysoSv37frTER) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Arkey](https://open.spotify.com/artist/1fJWJg5SkXjmFhnT4wf5QH) | [Thinking About You \(feat\. Arkey\)](https://open.spotify.com/album/0wucRfhZNVV29wCeusc9gr) | 3:16 | 2025-12-11 | 2025-12-19 |
+| [This & That](https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THIS & THAT](https://open.spotify.com/album/0VDVnZhY399q6sIrdyjZWj) | 3:05 | 2026-08-07 |  |
 | [This Ain't Love](https://open.spotify.com/track/7aNnRM4mWrBdauDAwkEf5j) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4), [George Reid](https://open.spotify.com/artist/4AhAa3kyJe8OVyN1mxEB6o) | [This Ain't Love](https://open.spotify.com/album/12V6TWwLZOGaUWnHn8sLzG) | 2:40 | 2026-04-02 | 2026-04-10 |
 | [THIS CITY'S BURNING](https://open.spotify.com/track/05IC4b9m1SH8oo9XkESRby) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [MIXED FEELINGS \(reloaded\)](https://open.spotify.com/album/4VKMZAA4wn45aSecLkBniq) | 3:42 | 2024-12-05 | 2024-12-13 |
 | [This Game](https://open.spotify.com/track/5DYdIEPeXizb0N7kzol6pa) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Get Better](https://open.spotify.com/album/4oYoi6ymhhN9TE3pKnE2Hd) | 3:21 | 2025-04-10 | 2025-04-18 |

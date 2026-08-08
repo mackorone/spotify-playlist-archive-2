@@ -4,7 +4,7 @@
 
 > новинки українського андерґраунду\. обкладинка: LOVERA BREAUX
 
-837 songs - 1 day 19 hr 30 min
+837 songs - 1 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,6 @@
 | [The Great Summer Drift](https://open.spotify.com/track/0jHCQ6HZsJzh3LECf6JO9i) | [Postman](https://open.spotify.com/artist/4kwVz5t29LHssXEXQqfFHE) | [The Great Summer Drift](https://open.spotify.com/album/3bTuSm7VlgLotjOJow6ihM) | 3:56 | 2025-01-02 | 2025-01-25 |
 | [Thin Ice](https://open.spotify.com/track/4sjNlqIcIxPb1Jr3COXDHh) | [DANIEL OKARO](https://open.spotify.com/artist/5s0KzuOGSEtSCnuj7X6nHI), [Tenseoh](https://open.spotify.com/artist/14vpmZpC4vslI3cGUa7IOq) | [Thin Ice](https://open.spotify.com/album/3zFhYUZr2B8kPiyhb0fyRA) | 2:57 | 2026-04-02 | 2026-05-05 |
 | [TIRED OF ME](https://open.spotify.com/track/0EurmNTrZzwhy5q03RLM2u) | [DANIEL OKARO](https://open.spotify.com/artist/5s0KzuOGSEtSCnuj7X6nHI) | [TIRED OF ME](https://open.spotify.com/album/6ozmnbCjaJrScOACN4bewn) | 2:30 | 2026-06-11 | 2026-07-10 |
-| [Track 2](https://open.spotify.com/track/7m3YpXDVFI0Zo0yAOg09D8) | [D016](https://open.spotify.com/artist/4MPDfqNMUkYAG0APA0R9gV) | [Вулиці](https://open.spotify.com/album/2mteJd53cKAOm2ZiKTxwIr) | 0:00 | 2026-08-06 |  |
 | [trust me boy](https://open.spotify.com/track/3tXLFIXO7zkFDXe49yFtRf) | [vladislava melis](https://open.spotify.com/artist/2gEcWv6TRsyk1J7RGdWZnU) | [trust me boy](https://open.spotify.com/album/4eP05BRKa5VDgoLdamXvKS) | 2:31 | 2026-07-16 | 2026-08-07 |
 | [TV](https://open.spotify.com/track/26YIBj1jzDDduwlOmhgv1f) | [The Curly](https://open.spotify.com/artist/1JK4hfx5B8oTtjsfYgaOeD) | [TV](https://open.spotify.com/album/0C7ONMoxtbn9bJmEQlx1vw) | 3:07 | 2025-09-16 | 2025-10-26 |
 | [Ulamok](https://open.spotify.com/track/5Wm2I4VYOXyxSjo1LBSSRT) | [Fuji Moodji](https://open.spotify.com/artist/1TG11OIiavZKVfRxVr5Tyo) | [Ulamok](https://open.spotify.com/album/2eUNPft2luNCUP0AFPfbPh) | 2:30 | 2024-10-04 | 2024-11-08 |
@@ -569,7 +568,7 @@
 | [плівки](https://open.spotify.com/track/2pNLRX7lJUYgmBqRjuAHSk) | [typeled](https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq) | [плівки](https://open.spotify.com/album/6HKshbrJHNH6VCs9ZnVELC) | 3:50 | 2024-09-13 | 2024-10-05 |
 | [По Колу](https://open.spotify.com/track/3H77MNMQJBotRTXc3AaQyb) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [По Колу](https://open.spotify.com/album/1uqLQIRZOGnXxVX1wTc4EU) | 3:17 | 2026-07-09 |  |
 | [По колу](https://open.spotify.com/track/6QEFjqybF3b0SKQaiJA2hl) | [YARIMA](https://open.spotify.com/artist/1nZ0jfkEdCujq7nFxlk9Uc) | [По колу](https://open.spotify.com/album/4RFJhNuzZftriwXPJQIQGI) | 3:10 | 2026-06-11 | 2026-07-24 |
-| [Повертатись](https://open.spotify.com/track/0dArIpepE9oNWD5AaYEwbu) | [POPIL](https://open.spotify.com/artist/24aU0N7zrhEXFJkl48F1he) | [Лімеренція](https://open.spotify.com/album/7C5gLSpEUktobRjo19eSdf) | 3:58 | 2026-07-02 |  |
+| [Повертатись](https://open.spotify.com/track/0dArIpepE9oNWD5AaYEwbu) | [POPIL](https://open.spotify.com/artist/24aU0N7zrhEXFJkl48F1he) | [Лімеренція](https://open.spotify.com/album/7C5gLSpEUktobRjo19eSdf) | 3:58 | 2026-07-02 | 2026-08-08 |
 | [Повільний Танець](https://open.spotify.com/track/1iwD5JFE5z3hOUF7pEtaFR) | [sexnesc](https://open.spotify.com/artist/054GRnSfbwcOdFGg6jpyc6) | [Повільний Танець](https://open.spotify.com/album/0Sd3fX4SuFVFrvbeG4SwnN) | 3:05 | 2026-03-13 |  |
 | [Повітряна тривога \- Live](https://open.spotify.com/track/2zU7cgLsX0eEICgyniaRju) | [Stas Koroliov](https://open.spotify.com/artist/70TxtvTyPS98m6a9p3IIfa), [Оля Шурова](https://open.spotify.com/artist/4ManbdSYB5rKfEq71fAglf) | [R2:ЦУ live at Brave! Factory](https://open.spotify.com/album/7BdOGwQuZfPPu8ANWBCU9w) | 9:03 | 2024-10-04 | 2024-10-19 |
 | [Погляд](https://open.spotify.com/track/7nnfuHwK0nfW9GqZpBC7eN) | [Женя Галич](https://open.spotify.com/artist/2UF0JmW4D3B0bXeAZMidyD) | [Погляд](https://open.spotify.com/album/5386yua3l3wFrjgu0jAkjR) | 3:50 | 2025-06-19 | 2025-08-09 |
@@ -599,6 +598,7 @@
 | [Промовч](https://open.spotify.com/track/2hfxAYt2nERjPsTezsDaNG) | [Один День Потому](https://open.spotify.com/artist/15UAxg7BSpf0NadMP1HVGk) | [Промовч](https://open.spotify.com/album/4r5nB3bLpeRxJoMy7eEjIj) | 2:07 | 2024-10-18 | 2024-11-08 |
 | [просто](https://open.spotify.com/track/3Z0hxwbZA2rB4dVoMjaeNL) | [Entely](https://open.spotify.com/artist/5cFCsmewxHM5wQb55vhqTS) | [просто](https://open.spotify.com/album/49WIeH8TV6eYx3TW2KFyip) | 1:51 | 2026-04-09 | 2026-05-02 |
 | [Простотак](https://open.spotify.com/track/0A9HYuDGMInNrbM7iIZ1KD) | [thekomakoma](https://open.spotify.com/artist/2ce8oHn9K9U9aXOtTPxkZf) | [Майбутній альбом](https://open.spotify.com/album/2V4XWUQmIh8ofD2hyo1fwk) | 1:25 | 2024-06-27 | 2025-02-24 |
+| [Пташка](https://open.spotify.com/track/7m3YpXDVFI0Zo0yAOg09D8) | [D016](https://open.spotify.com/artist/4MPDfqNMUkYAG0APA0R9gV) | [Вулиці](https://open.spotify.com/album/2mteJd53cKAOm2ZiKTxwIr) | 3:07 | 2026-08-06 |  |
 | [Пташка](https://open.spotify.com/track/58puDb99iDe41wV4fuJyP8) | [анастимоза](https://open.spotify.com/artist/387gWxnXhGdDQFO7Ld3mLZ) | [Пташка](https://open.spotify.com/album/1fgJo01Zx6Oeol967hD9bU) | 3:42 | 2026-06-18 |  |
 | [ПУ\-ПУ\-ПУ](https://open.spotify.com/track/63VAFnT5Quk8Xd6B9w2AP2) | [Околиця](https://open.spotify.com/artist/5aT55rNZ3OB3zuQ8i2XKX0), [POPIL](https://open.spotify.com/artist/24aU0N7zrhEXFJkl48F1he) | [ПУ\-ПУ\-ПУ](https://open.spotify.com/album/1YxN5njBve7AbCfbI5kkPk) | 1:53 | 2025-06-30 | 2026-02-27 |
 | [під каштаном](https://open.spotify.com/track/7iHL1aov1VZu0p872UXKLD) | [KRYLATA](https://open.spotify.com/artist/4xFe7GD3DC9SGE5d6csgjG) | [під каштаном](https://open.spotify.com/album/1zyHH3vdd3WEDCWzQNm65i) | 2:19 | 2024-09-13 | 2025-06-07 |
@@ -671,7 +671,7 @@
 | [Соня](https://open.spotify.com/track/5cNeKQ02zQ3H4lrtHKohXh) | [анастимоза](https://open.spotify.com/artist/387gWxnXhGdDQFO7Ld3mLZ) | [Соня](https://open.spotify.com/album/7CpkR3HYyFu49gGUaSkdyd) | 4:10 | 2025-03-03 | 2025-10-24 |
 | [Сорочка](https://open.spotify.com/track/0Sthmcdo8qBCXMJBNcLNRY) | [Спогади](https://open.spotify.com/artist/5OJJvr9fX3h1cEJAsk1QlH) | [Сорочка](https://open.spotify.com/album/0Nzgtv5OlyYYJCxXyydJt0) | 2:12 | 2026-04-23 | 2026-05-01 |
 | [соу хард](https://open.spotify.com/track/32Oyx638kXMoRNBKSdZiQO) | [headachee](https://open.spotify.com/artist/7FLnr6jif4euepPlgGtaJZ) | [соу хард](https://open.spotify.com/album/5688l4cRpxYTiwighTs0gR) | 3:13 | 2026-05-22 |  |
-| [Сповідь у кімнаті де нікого нема](https://open.spotify.com/track/4KMcorAzZy8tIvs6zm7mkE) | [Hruntkovskyy](https://open.spotify.com/artist/6R7pSTxJz7tsbu4x2ug9cw) | [Сповідь у кімнаті де нікого нема](https://open.spotify.com/album/4gx2vCrFYcZTIRUz8iyHKE) | 4:44 | 2026-07-16 | 2026-07-31 |
+| [Сповідь у кімнаті де нікого нема](https://open.spotify.com/track/4KMcorAzZy8tIvs6zm7mkE) | [Hruntkovskyy](https://open.spotify.com/artist/6R7pSTxJz7tsbu4x2ug9cw) | [Сповідь у кімнаті де нікого нема](https://open.spotify.com/album/4gx2vCrFYcZTIRUz8iyHKE) | 4:44 | 2026-07-16 |  |
 | [спокуслива](https://open.spotify.com/track/68KvH33avv12vQopmu3EdG) | [Nikow](https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe) | [спокуслива](https://open.spotify.com/album/2ylnLPDS2p7uuX4bJg1wFT) | 2:22 | 2026-05-22 |  |
 | [спокій \(в грудях\)](https://open.spotify.com/track/6jhC41ou7xl2hBzd1a4qiw) | [Berliner Döner](https://open.spotify.com/artist/0xF8vLtcDaxlv4s14moz72) | [спокій \(в грудях\)](https://open.spotify.com/album/3lXkQMqPdlAkH53BFtKm9P) | 2:00 | 2026-02-27 |  |
 | [Спокій і віра](https://open.spotify.com/track/1ySceEcpbHHTjUI4PJVmO5) | [Luna Rozza](https://open.spotify.com/artist/4w2yzPw0xWs7HtZIKLTDok) | [Спокій і віра](https://open.spotify.com/album/63Vp8ttaNipprhsTqYFEIn) | 1:53 | 2025-12-09 | 2026-01-15 |

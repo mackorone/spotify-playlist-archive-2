@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Cam Keddy",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Abbie Gordon",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -3238,6 +3238,24 @@
       "duration_ms": 202000,
       "name": "Leave",
       "url": "https://open.spotify.com/track/1Kl3kOLzU3ONc5bTEuO7rj"
+    },
+    {
+      "album": {
+        "name": "Let It Die",
+        "url": "https://open.spotify.com/album/6Uel6cr5Fpp6WSlQDkbsxJ"
+      },
+      "artists": [
+        {
+          "name": "Abbie Gordon",
+          "url": "https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212013,
+      "name": "Let It Die",
+      "url": "https://open.spotify.com/track/4DsFw6tYSCof1P6DZ32Clk"
     },
     {
       "album": {

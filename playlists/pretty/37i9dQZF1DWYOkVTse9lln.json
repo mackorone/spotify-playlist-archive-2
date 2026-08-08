@@ -1,12 +1,12 @@
 {
   "description": "Saca la estrella que llevas dentro \u2b50\ufe0f\ud83c\udfa4",
-  "num_followers": 747589,
+  "num_followers": 747600,
   "original_name": "Karaoke en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF+Ri7XkXtjHqHz4BWt7kUKV2CPS",
+  "snapshot_id": "AAAAAH9b2WgSYuCTchw1icM8vF/yN0SM",
   "tracks": [
     {
       "added_at": "2024-07-12 19:20:28",
@@ -195,18 +195,22 @@
     {
       "added_at": "2024-07-12 19:20:28",
       "album": {
-        "name": "Sue\u00f1os L\u00edquidos",
-        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
+        "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
+        "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        },
+        {
+          "name": "Marta S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
         }
       ],
-      "duration_ms": 310813,
-      "name": "Clavado en Un Bar",
-      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
+      "duration_ms": 232533,
+      "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
+      "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
     },
     {
       "added_at": "2024-07-12 19:20:28",
@@ -227,22 +231,18 @@
     {
       "added_at": "2024-07-12 19:20:28",
       "album": {
-        "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
-        "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
+        "name": "Sue\u00f1os L\u00edquidos",
+        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
       },
       "artists": [
         {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        },
-        {
-          "name": "Marta S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 232533,
-      "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
-      "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
+      "duration_ms": 310813,
+      "name": "Clavado en Un Bar",
+      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
     },
     {
       "added_at": "2024-07-12 19:20:28",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-07-12 19:20:28",
       "album": {
-        "name": "Ni Es Lo Mismo Ni Es Igual",
-        "url": "https://open.spotify.com/album/0RWsJiIvRxAbmzfSTJsabn"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 265360,
-      "name": "El Ni\u00e1gara en Bicicleta",
-      "url": "https://open.spotify.com/track/7pV8mSDgSPbSMFw9ZP1XXR"
-    },
-    {
-      "added_at": "2024-07-12 19:20:28",
-      "album": {
         "name": "Reik",
         "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 171320,
       "name": "Qu\u00e9 Vida la M\u00eda",
       "url": "https://open.spotify.com/track/0M6KY0x5u65ybXHZ3IAega"
+    },
+    {
+      "added_at": "2024-07-12 19:20:28",
+      "album": {
+        "name": "Ni Es Lo Mismo Ni Es Igual",
+        "url": "https://open.spotify.com/album/0RWsJiIvRxAbmzfSTJsabn"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 265360,
+      "name": "El Ni\u00e1gara en Bicicleta",
+      "url": "https://open.spotify.com/track/7pV8mSDgSPbSMFw9ZP1XXR"
     },
     {
       "added_at": "2024-07-12 19:20:28",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-07-12 19:20:28",
       "album": {
-        "name": "Grandes Hits",
-        "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Lloviendo Estrellas",
-      "url": "https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395"
-    },
-    {
-      "added_at": "2024-07-12 19:20:28",
-      "album": {
         "name": "Aerosoul",
         "url": "https://open.spotify.com/album/2sIZCYi1DM51AheC1HiqgG"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 246200,
       "name": "Tocando Fondo",
       "url": "https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq"
+    },
+    {
+      "added_at": "2024-07-12 19:20:28",
+      "album": {
+        "name": "Grandes Hits",
+        "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Lloviendo Estrellas",
+      "url": "https://open.spotify.com/track/5b00r2xveYfVIOExZJJ395"
     },
     {
       "added_at": "2024-07-12 19:20:28",

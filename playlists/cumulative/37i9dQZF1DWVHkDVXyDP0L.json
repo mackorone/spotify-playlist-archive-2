@@ -15475,6 +15475,24 @@
     },
     {
       "album": {
+        "name": "Wabi Sabi",
+        "url": "https://open.spotify.com/album/2NpZ3Px3zT9ifmVbeREscf"
+      },
+      "artists": [
+        {
+          "name": "Daily J",
+          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189374,
+      "name": "Stairways",
+      "url": "https://open.spotify.com/track/4RfRFx4cbOk1CdaQKyeEJn"
+    },
+    {
+      "album": {
         "name": "STAMPEDE",
         "url": "https://open.spotify.com/album/7A2scjvl1X6PS9TBZ6BzFj"
       },
@@ -17618,24 +17636,6 @@
       "duration_ms": 190728,
       "name": "Toyota Camry",
       "url": "https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa"
-    },
-    {
-      "album": {
-        "name": "Wabi Sabi",
-        "url": "https://open.spotify.com/album/2NpZ3Px3zT9ifmVbeREscf"
-      },
-      "artists": [
-        {
-          "name": "Daily J",
-          "url": "https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs"
-        }
-      ],
-      "date_added": "2026-08-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/4RfRFx4cbOk1CdaQKyeEJn"
     },
     {
       "album": {

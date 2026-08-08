@@ -1,28 +1,28 @@
 {
-  "description": "the best underground club tracks \u2694\ufe0f starring deBasement \u2694\ufe0f ",
-  "num_followers": 70067,
+  "description": "the best underground club tracks \ud83d\udcaf feat. Nikki Nair \ud83d\udcaf",
+  "num_followers": 70084,
   "original_name": "Club Culture",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADT9x1pRZoWp093ZVyLhMgfxm4KD",
+  "snapshot_id": "AAAAAL/FrcnsipJQHqeiYtt7pjM/LlNP",
   "tracks": [
     {
-      "added_at": "2026-07-31 04:01:30",
+      "added_at": "2026-08-07 04:01:42",
       "album": {
-        "name": "XXXXX",
-        "url": "https://open.spotify.com/album/5L4HUwPtyxAoW27leVlZql"
+        "name": "The Sick Dimension",
+        "url": "https://open.spotify.com/album/2UIQEzb2pd4N9jveukNUmS"
       },
       "artists": [
         {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+          "name": "Nikki Nair",
+          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
         }
       ],
-      "duration_ms": 138118,
-      "name": "Taconeando",
-      "url": "https://open.spotify.com/track/4pmcdJ8a2eMRi2MxxBnjGJ"
+      "duration_ms": 287953,
+      "name": "One Hundred",
+      "url": "https://open.spotify.com/track/16npxHfsCig9DMAtoy19UO"
     },
     {
       "added_at": "2026-06-25 22:01:45",
@@ -39,6 +39,42 @@
       "duration_ms": 186666,
       "name": "Shut Me Down",
       "url": "https://open.spotify.com/track/3DHcH10CRGx3kgreP6nBCG"
+    },
+    {
+      "added_at": "2026-07-17 04:01:35",
+      "album": {
+        "name": "SUCKERPUNCH008",
+        "url": "https://open.spotify.com/album/0hXp89hlYhd2kbSDrHBRrz"
+      },
+      "artists": [
+        {
+          "name": "Papa Nugs",
+          "url": "https://open.spotify.com/artist/03ByonbL0ZBHM7vZ8WxbFP"
+        },
+        {
+          "name": "DJ ADHD",
+          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "OPA!",
+      "url": "https://open.spotify.com/track/0QAN6BStZnoRsbQXWKu2tu"
+    },
+    {
+      "added_at": "2026-08-07 04:01:42",
+      "album": {
+        "name": "Fast, Feast, Repeat",
+        "url": "https://open.spotify.com/album/1UwNOSiJ3oTELRwTneIBEv"
+      },
+      "artists": [
+        {
+          "name": "Mambo Kahn",
+          "url": "https://open.spotify.com/artist/7qVQNTAdX9SLO62hAaEhm5"
+        }
+      ],
+      "duration_ms": 265263,
+      "name": "Fast, Feast, Repeat",
+      "url": "https://open.spotify.com/track/0ohVTNTQ0SlHSHllROqwiy"
     },
     {
       "added_at": "2026-07-31 04:01:30",
@@ -93,6 +129,22 @@
       "url": "https://open.spotify.com/track/0nfUSkKozC4zohiPwkbDok"
     },
     {
+      "added_at": "2026-08-07 04:01:42",
+      "album": {
+        "name": "Cisnes de Sol",
+        "url": "https://open.spotify.com/album/0lmzwypKnb9hpgJ5hDwyLJ"
+      },
+      "artists": [
+        {
+          "name": "S.3.R",
+          "url": "https://open.spotify.com/artist/1ygBBLwpjIkQl1a7FQ9ljZ"
+        }
+      ],
+      "duration_ms": 158896,
+      "name": "Cisnes de Sol",
+      "url": "https://open.spotify.com/track/1AZTBejxa8T3ZtCkrK1hYY"
+    },
+    {
       "added_at": "2026-07-24 04:02:18",
       "album": {
         "name": "JELLY + OPTION",
@@ -109,24 +161,20 @@
       "url": "https://open.spotify.com/track/6UgJhklY5LNzaRUHyFPKwD"
     },
     {
-      "added_at": "2026-07-17 04:01:35",
+      "added_at": "2026-07-31 04:01:30",
       "album": {
-        "name": "SUCKERPUNCH008",
-        "url": "https://open.spotify.com/album/0hXp89hlYhd2kbSDrHBRrz"
+        "name": "XXXXX",
+        "url": "https://open.spotify.com/album/5L4HUwPtyxAoW27leVlZql"
       },
       "artists": [
         {
-          "name": "Papa Nugs",
-          "url": "https://open.spotify.com/artist/03ByonbL0ZBHM7vZ8WxbFP"
-        },
-        {
-          "name": "DJ ADHD",
-          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
         }
       ],
-      "duration_ms": 207272,
-      "name": "OPA!",
-      "url": "https://open.spotify.com/track/0QAN6BStZnoRsbQXWKu2tu"
+      "duration_ms": 138118,
+      "name": "Taconeando",
+      "url": "https://open.spotify.com/track/4pmcdJ8a2eMRi2MxxBnjGJ"
     },
     {
       "added_at": "2026-07-17 04:01:35",
@@ -143,6 +191,22 @@
       "duration_ms": 265750,
       "name": "Pasi\u00f3n",
       "url": "https://open.spotify.com/track/07ShVpYyl4bCIPJ9Nch5Ql"
+    },
+    {
+      "added_at": "2026-08-07 04:01:42",
+      "album": {
+        "name": "Age Of Burnout",
+        "url": "https://open.spotify.com/album/63o2TfuR6Wamxxam2pVLfy"
+      },
+      "artists": [
+        {
+          "name": "Strict Face",
+          "url": "https://open.spotify.com/artist/1NmRM6j6RUfsifUTo1lceq"
+        }
+      ],
+      "duration_ms": 334899,
+      "name": "The Fires Still",
+      "url": "https://open.spotify.com/track/0N2VUBtkm8CgXC3ttOa1uy"
     },
     {
       "added_at": "2026-07-24 04:02:18",
@@ -163,6 +227,22 @@
       "duration_ms": 291825,
       "name": "The Plan",
       "url": "https://open.spotify.com/track/55I0lGRU5KxFW9bxYmcn9r"
+    },
+    {
+      "added_at": "2026-08-07 04:01:42",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/5nYSeBNTHGVnHF8fHu5q6H"
+      },
+      "artists": [
+        {
+          "name": "Kade Young",
+          "url": "https://open.spotify.com/artist/0HuyMTJ3Nd3JQsOfDrGYVT"
+        }
+      ],
+      "duration_ms": 251720,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/53fmJmJRNaL4gpglopAs2S"
     },
     {
       "added_at": "2026-06-25 22:01:45",
@@ -199,6 +279,26 @@
       "duration_ms": 205862,
       "name": "YO DJ!",
       "url": "https://open.spotify.com/track/0azjekivc46pZrwn1z4vnY"
+    },
+    {
+      "added_at": "2026-08-07 04:01:42",
+      "album": {
+        "name": "Ramos (Verraco Reshape)",
+        "url": "https://open.spotify.com/album/4ukk6hHQIcuGvqRjGAkTpB"
+      },
+      "artists": [
+        {
+          "name": "Ploy",
+          "url": "https://open.spotify.com/artist/3mYbIK47UNTYkexhqoJOBN"
+        },
+        {
+          "name": "Verraco",
+          "url": "https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1"
+        }
+      ],
+      "duration_ms": 425000,
+      "name": "Ramos (Verraco Reshape)",
+      "url": "https://open.spotify.com/track/2AqkO83vEJOXlw24ZY4GjU"
     },
     {
       "added_at": "2026-07-31 04:01:30",
@@ -283,6 +383,22 @@
       "duration_ms": 200000,
       "name": "Bang",
       "url": "https://open.spotify.com/track/1jTYIQTzD0eDoaZ6jdrXFf"
+    },
+    {
+      "added_at": "2026-08-07 04:01:42",
+      "album": {
+        "name": "shish.Haft",
+        "url": "https://open.spotify.com/album/0Ul8CvkEtF5ZeIOXAZ1D3A"
+      },
+      "artists": [
+        {
+          "name": "Valfi",
+          "url": "https://open.spotify.com/artist/36UGIRe1bc27QQnLgym03q"
+        }
+      ],
+      "duration_ms": 270067,
+      "name": "shish.Haft",
+      "url": "https://open.spotify.com/track/03dtSdscY9rA09UD097Y4V"
     },
     {
       "added_at": "2026-07-10 04:01:54",
@@ -973,22 +1089,6 @@
       "url": "https://open.spotify.com/track/2l3p1cmJ7xPSIDmipcG30j"
     },
     {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
-        "name": "work it out",
-        "url": "https://open.spotify.com/album/3AQS9opogac5ACngvoOI7o"
-      },
-      "artists": [
-        {
-          "name": "Van Damn",
-          "url": "https://open.spotify.com/artist/3saUCw9rxdrL4Bn7pGolNO"
-        }
-      ],
-      "duration_ms": 263283,
-      "name": "work it out",
-      "url": "https://open.spotify.com/track/3TnhKcptFEuPkWgqQzm7NJ"
-    },
-    {
       "added_at": "2026-07-03 04:02:00",
       "album": {
         "name": "Tuttomondo vol.1",
@@ -1087,34 +1187,6 @@
       "duration_ms": 224085,
       "name": "DIP TEK",
       "url": "https://open.spotify.com/track/3oOOfFJGEkxaErbBFHQJyp"
-    },
-    {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
-        "name": "CYBER [REBOOT]",
-        "url": "https://open.spotify.com/album/53QnOmTPN7D7HNP72jU39X"
-      },
-      "artists": [
-        {
-          "name": "RM47",
-          "url": "https://open.spotify.com/artist/5HPjPH8s4bbWJ42q818LGL"
-        },
-        {
-          "name": "MAAD",
-          "url": "https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd"
-        },
-        {
-          "name": "Raleigh",
-          "url": "https://open.spotify.com/artist/4wj7NpN3vew4FXcbYF7m2C"
-        },
-        {
-          "name": "Geo Jordan",
-          "url": "https://open.spotify.com/artist/6k11DSLFQUOXSROSDqQwBy"
-        }
-      ],
-      "duration_ms": 286847,
-      "name": "HONESTLY",
-      "url": "https://open.spotify.com/track/5sJjxTf8hK9wHLgPD4rBwy"
     },
     {
       "added_at": "2026-06-25 22:01:45",
@@ -1287,42 +1359,6 @@
     {
       "added_at": "2026-06-25 22:01:45",
       "album": {
-        "name": "NO CTRL",
-        "url": "https://open.spotify.com/album/5hmhdWLXBAx9ujwebmWw3y"
-      },
-      "artists": [
-        {
-          "name": "The Glitch Mob",
-          "url": "https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD"
-        }
-      ],
-      "duration_ms": 248039,
-      "name": "NO CTRL",
-      "url": "https://open.spotify.com/track/3uE4naGfc4NqKisfxwZJeA"
-    },
-    {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
-        "name": "Club della Fortuna",
-        "url": "https://open.spotify.com/album/7MNPtrnNZln2GY2D2AiVv3"
-      },
-      "artists": [
-        {
-          "name": "Lorenzo_BITW",
-          "url": "https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV"
-        },
-        {
-          "name": "Ciauru",
-          "url": "https://open.spotify.com/artist/6Zw3Q6LjYtvoNF14YXkIYf"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "Astro",
-      "url": "https://open.spotify.com/track/0ayz6PqaVqwkCpjA9iPzas"
-    },
-    {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
         "name": "Moving",
         "url": "https://open.spotify.com/album/5BiVv8EhTyXG7Diee5XrzE"
       },
@@ -1439,38 +1475,6 @@
       "duration_ms": 265878,
       "name": "Plastic Camelia",
       "url": "https://open.spotify.com/track/0ep3CnoP0dSWyFPUhQJU0D"
-    },
-    {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
-        "name": "Grain",
-        "url": "https://open.spotify.com/album/0qmOY8QLjz1YdnUMx3LLwl"
-      },
-      "artists": [
-        {
-          "name": "Kassian",
-          "url": "https://open.spotify.com/artist/4w6VhlUuzrUoJ5NbCpefXx"
-        }
-      ],
-      "duration_ms": 337658,
-      "name": "Grain",
-      "url": "https://open.spotify.com/track/2cdx2u1EO1BtPaWrWyvPpn"
-    },
-    {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
-        "name": "Tuve suerte",
-        "url": "https://open.spotify.com/album/1S57g6C4xSH1tKqrc4iiDJ"
-      },
-      "artists": [
-        {
-          "name": "Debit",
-          "url": "https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe"
-        }
-      ],
-      "duration_ms": 221125,
-      "name": "Tuve suerte",
-      "url": "https://open.spotify.com/track/5sqYh2j9t7XRXCPIGMBZCP"
     },
     {
       "added_at": "2026-06-25 22:01:45",
@@ -1875,22 +1879,6 @@
       "duration_ms": 363934,
       "name": "Syrup Swirl",
       "url": "https://open.spotify.com/track/25LEEULLtpftcQU8jXqebD"
-    },
-    {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
-        "name": "MOVE006",
-        "url": "https://open.spotify.com/album/4t8ck7dUZlSOpr9h3raRq2"
-      },
-      "artists": [
-        {
-          "name": "Adam BFD",
-          "url": "https://open.spotify.com/artist/1rEBNCllAuxwnJ8fIjevHv"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Waiting Game",
-      "url": "https://open.spotify.com/track/3rfoHc8ARICdqBtnIDtrym"
     },
     {
       "added_at": "2026-06-25 22:01:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 
 > Various sounds, various decades, but with one thing in common.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,030,530 likes - 150 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,030,550 likes - 150 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,15 +54,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 44 | [Need You Tonight](https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:00 |
 | 45 | [American Woman](https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 4:24 |
 | 46 | [I Am the Highway](https://open.spotify.com/track/3bwAS8cN7Xtzvv5UurJOOX) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 5:34 |
-| 47 | [Refugee](https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 3:21 |
-| 48 | [Come with Me Now](https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO) | [KONGOS](https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS) | [Lunatic](https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX) | 3:31 |
+| 47 | [Come with Me Now](https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO) | [KONGOS](https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS) | [Lunatic](https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX) | 3:31 |
+| 48 | [Refugee](https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 3:21 |
 | 49 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 |
 | 50 | [Safari Song](https://open.spotify.com/track/1BfR5GMOgW0peHkPxrwf11) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 3:54 |
 | 51 | [No Good](https://open.spotify.com/track/0Tr5G2mE56eLUGvCaXRM8I) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:54 |
 | 52 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 |
 | 53 | [Jet Airliner](https://open.spotify.com/track/2zI3bUYn2pcF27of6i2oqK) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Greatest Hits 1974\-78](https://open.spotify.com/album/5hLazW5a3Ysgy3dncwGgUn) | 3:35 |
-| 54 | [Lydia](https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Mister Asylum](https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM) | 4:02 |
-| 55 | [Fire](https://open.spotify.com/track/5w6B0sAH7XauCvMOAtplQj) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Attractions Of Youth](https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl) | 3:17 |
+| 54 | [Fire](https://open.spotify.com/track/5w6B0sAH7XauCvMOAtplQj) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Attractions Of Youth](https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl) | 3:17 |
+| 55 | [Lydia](https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Mister Asylum](https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM) | 4:02 |
 | 56 | [Joker And The Thief](https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 4:40 |
 | 57 | [Good Times Roll](https://open.spotify.com/track/7hVhRCDV100Jq26NGR7adw) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 |
 | 58 | [Burden In My Hand](https://open.spotify.com/track/1iArQTuOzxvrtniGmkyy92) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Down On The Upside](https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B) | 4:50 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 72 | [Save Me Some Sunshine](https://open.spotify.com/track/68vTrjlrczwHWioLZ5p0Rt) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Save Me Some Sunshine](https://open.spotify.com/album/5sxnrUJmZJ1768ZP15Oy3Q) | 3:37 |
 | 73 | [Hate To Say I Told You So](https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 3:19 |
 | 74 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 |
-| 75 | [Get Free](https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx) | [The Vines](https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD) | [Highly Evolved](https://open.spotify.com/album/14rRGdr4K5UoaEFVw9jqBG) | 2:06 |
-| 76 | [Nearly Forgot My Broken Heart](https://open.spotify.com/track/7MjRtWS2teufvOiMM0BARZ) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Higher Truth](https://open.spotify.com/album/0n7hphNFF3s9pov8oaATFl) | 3:54 |
+| 75 | [Nearly Forgot My Broken Heart](https://open.spotify.com/track/7MjRtWS2teufvOiMM0BARZ) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Higher Truth](https://open.spotify.com/album/0n7hphNFF3s9pov8oaATFl) | 3:54 |
+| 76 | [Get Free](https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx) | [The Vines](https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD) | [Highly Evolved](https://open.spotify.com/album/14rRGdr4K5UoaEFVw9jqBG) | 2:06 |
 | 77 | [Typhoons](https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:56 |
 | 78 | [Come Inside](https://open.spotify.com/track/07GA2evqdJjhYOdyPgLXE3) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [The Boys of Dungeon Lane](https://open.spotify.com/album/34Sh6TOqfsrPSeXPBRGRAM) | 3:13 |
 | 79 | [I Wanna Be Sedated \- 1999 Remaster](https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(Expanded 2005 Remaster\)](https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE) | 2:29 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 83 | [Step Aside](https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [See Where The Night Goes](https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg) | 4:07 |
 | 84 | [Nobody](https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nobody](https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy) | 5:53 |
 | 85 | [It's Still Rock and Roll to Me](https://open.spotify.com/track/7LbOQt7isddrw3Bs3Czl7E) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 2:57 |
-| 86 | [That's How I'm Feeling](https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:11 |
-| 87 | [HURT](https://open.spotify.com/track/0E0GPPvheTzleZgWckjef2) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [FISSION](https://open.spotify.com/album/6PUmlxsIK7Z2Gr5OSTa5YA) | 3:33 |
+| 86 | [HURT](https://open.spotify.com/track/0E0GPPvheTzleZgWckjef2) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [FISSION](https://open.spotify.com/album/6PUmlxsIK7Z2Gr5OSTa5YA) | 3:33 |
+| 87 | [That's How I'm Feeling](https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:11 |
 | 88 | [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 |
 | 89 | [Suffocation Blues](https://open.spotify.com/track/2WRk6RxETSwdsg2dhtnXxc) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Black Pistol Fire](https://open.spotify.com/album/0EmwFyrOiD5DkGIDzhbOt1) | 2:41 |
 | 90 | [Not for You](https://open.spotify.com/track/5gdmwS7vtRb8AGGRio84uX) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vitalogy](https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy) | 5:52 |
@@ -134,8 +134,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 124 | [Plastic Boxes](https://open.spotify.com/track/3DqzYWmNEUosgfMlMXTNwi) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [As Above, So Below](https://open.spotify.com/album/3zvOwqqjuGh8CZYhx2hgaJ) | 4:07 |
 | 125 | [Sweet Sounds Of Heaven \(feat\. Lady Gaga\)](https://open.spotify.com/track/5YW7oSt4jHBO7yE9XER2Be) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Sweet Sounds Of Heaven](https://open.spotify.com/album/6E4RZkGvHiOp41XvdpiWaK) | 7:22 |
 | 126 | [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/track/6pLzzki6vNk6EZO0cSVpPl) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 4:10 |
-| 127 | [Math](https://open.spotify.com/track/68xeZfznVHVBhzYHp2bEj8) | [Dogstar](https://open.spotify.com/artist/74cm7dEfR07ca0ih4XKyQe) | [All In Now](https://open.spotify.com/album/1fxFvw95DNNmV4Zzoc5pvC) | 3:28 |
-| 128 | [I’m Alright](https://open.spotify.com/track/1bjN2FLqJO3cU9efOFcRpS) | [Mammoth](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Mammoth II](https://open.spotify.com/album/4IBqnUmKDyB8WUv1q8ElSi) | 4:35 |
+| 127 | [I’m Alright](https://open.spotify.com/track/1bjN2FLqJO3cU9efOFcRpS) | [Mammoth](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Mammoth II](https://open.spotify.com/album/4IBqnUmKDyB8WUv1q8ElSi) | 4:35 |
+| 128 | [Math](https://open.spotify.com/track/68xeZfznVHVBhzYHp2bEj8) | [Dogstar](https://open.spotify.com/artist/74cm7dEfR07ca0ih4XKyQe) | [All In Now](https://open.spotify.com/album/1fxFvw95DNNmV4Zzoc5pvC) | 3:28 |
 | 129 | [Do Your Worst](https://open.spotify.com/track/11FvComd16zZX61DrlP3o1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Do Your Worst](https://open.spotify.com/album/212W7GOucihqMBWrN17RlY) | 3:30 |
 | 130 | [Wanting and Waiting](https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Wanting and Waiting](https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw) | 4:15 |
 | 131 | [If Darkness Had a Son](https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb) | 6:36 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 149 | [Darkside](https://open.spotify.com/track/1tgFoqQG9thuoI6If2olvA) | [Dead Posey](https://open.spotify.com/artist/7qTUKYzO77RvL1Kxie0xUO) | [Are You in a Cult?](https://open.spotify.com/album/0gpASYYFSbwON3aNeR3Kms) | 3:17 |
 | 150 | ["Filthy"](https://open.spotify.com/track/2KkglYERoV6dGi9ME4iYsw) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | ["Filthy"](https://open.spotify.com/album/0Br6de1bBO1f2FStNS2Vl5) | 3:01 |
 
-Snapshot ID: `AAAAAIoKy/xvRKjuVNlsI4PRr7ws+QWS`
+Snapshot ID: `AAAAAJ6uniRt9R7DmecUQr2Ag+6QLOxt`

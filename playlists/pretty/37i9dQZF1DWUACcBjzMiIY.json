@@ -1,12 +1,12 @@
 {
   "description": "Easy listening for a comfortable drive.",
-  "num_followers": 300510,
+  "num_followers": 300559,
   "original_name": "Mellow Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMetQdBBgcfu5rasiJmwWy3DALkg",
+  "snapshot_id": "AAAAAGxTrEegaKBF9SSCXzWUGyB3dxAs",
   "tracks": [
     {
       "added_at": "2024-07-05 23:01:26",
@@ -291,6 +291,22 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
+        "name": "Midnight Memories (Deluxe)",
+        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 245490,
+      "name": "Story of My Life",
+      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 215733,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
-        "name": "Midnight Memories (Deluxe)",
-        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 245490,
-      "name": "Story of My Life",
-      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Tracy Chapman",
         "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 296800,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Birdy",
-        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 201080,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Dreaming Out Loud",
         "url": "https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 208106,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/1NrJYpdAi7uosDRPmSYrsG"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 201080,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Living Mirage",
-        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+        "name": "O",
+        "url": "https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
         }
       ],
-      "duration_ms": 196055,
-      "name": "Honeybee",
-      "url": "https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9"
+      "duration_ms": 286653,
+      "name": "The Blower's Daughter",
+      "url": "https://open.spotify.com/track/5yyRH93h4Pm6tXXYTxt7ea"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La"
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
       },
       "artists": [
         {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 286653,
-      "name": "The Blower's Daughter",
-      "url": "https://open.spotify.com/track/5yyRH93h4Pm6tXXYTxt7ea"
+      "duration_ms": 196055,
+      "name": "Honeybee",
+      "url": "https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 241688,
-      "name": "Take Me to Church",
-      "url": "https://open.spotify.com/track/0aOluBqXYd0rFSCsgDyAWX"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Something to Be",
         "url": "https://open.spotify.com/album/07hC5JSKAodpBIVR6A772E"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 256600,
       "name": "Ever the Same",
       "url": "https://open.spotify.com/track/02acUMylPHMjJ9miDc9b38"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 241688,
+      "name": "Take Me to Church",
+      "url": "https://open.spotify.com/track/0aOluBqXYd0rFSCsgDyAWX"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Atlantic 60th: Soul, Sweat And Strut",
-        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 166826,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Call Me Irresponsible",
         "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 219840,
       "name": "Lost",
       "url": "https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Atlantic 60th: Soul, Sweat And Strut",
+        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 166826,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Sheezus",
-        "url": "https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 208504,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Nothing Left To Lose",
         "url": "https://open.spotify.com/album/6QhRwIZzTZ2ShlXVZsVfbM"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 263253,
       "name": "Nothing Left To Lose",
       "url": "https://open.spotify.com/track/23MG7PAYUQp0esP2dzWHWj"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Sheezus",
+        "url": "https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 208504,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -2987,22 +2987,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "Mother Road",
-        "url": "https://open.spotify.com/album/5LjmGiV7L4vzjS5F2cLPUf"
-      },
-      "artists": [
-        {
-          "name": "Grace Potter",
-          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
-        }
-      ],
-      "duration_ms": 312653,
-      "name": "Mother Road",
-      "url": "https://open.spotify.com/track/0c0V7KFyAXcuxM0XwyDb72"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "Summer Clothes",
         "url": "https://open.spotify.com/album/71eFxdkCuPOa2pkT8Zb0k4"
       },
@@ -3015,6 +2999,22 @@
       "duration_ms": 137852,
       "name": "Summer Clothes (Acoustic)",
       "url": "https://open.spotify.com/track/3ldQn5GUmDqs0L4z4GORI6"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "Mother Road",
+        "url": "https://open.spotify.com/album/5LjmGiV7L4vzjS5F2cLPUf"
+      },
+      "artists": [
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+        }
+      ],
+      "duration_ms": 312653,
+      "name": "Mother Road",
+      "url": "https://open.spotify.com/track/0c0V7KFyAXcuxM0XwyDb72"
     },
     {
       "added_at": "2024-07-05 23:01:26",
@@ -3087,22 +3087,6 @@
     {
       "added_at": "2024-07-05 23:01:26",
       "album": {
-        "name": "All The Little Lights",
-        "url": "https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 252866,
-      "name": "Let Her Go",
-      "url": "https://open.spotify.com/track/7DFNE7NO0raLIUbgzY2rzm"
-    },
-    {
-      "added_at": "2024-07-05 23:01:26",
-      "album": {
         "name": "V (Deluxe)",
         "url": "https://open.spotify.com/album/3z4ASjF9zQ6efgXFr9bQXu"
       },
@@ -3115,6 +3099,22 @@
       "duration_ms": 267733,
       "name": "Lost Stars",
       "url": "https://open.spotify.com/track/30p0klayCW8WvkcTehVvqs"
+    },
+    {
+      "added_at": "2024-07-05 23:01:26",
+      "album": {
+        "name": "All The Little Lights",
+        "url": "https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 252866,
+      "name": "Let Her Go",
+      "url": "https://open.spotify.com/track/7DFNE7NO0raLIUbgzY2rzm"
     },
     {
       "added_at": "2024-07-05 23:01:26",

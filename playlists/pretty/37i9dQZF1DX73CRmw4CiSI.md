@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 
 > Rock y rumba para esos días de sol y amigxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,455 likes - 90 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,497 likes - 90 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,13 +81,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 71 | [La Ultima Carta](https://open.spotify.com/track/0snvfum1KpU3X8DdAvV9bo) | [Los Cucas](https://open.spotify.com/artist/3OWk7QjNjgERkwOAqhZeMW) | [El Ser Humano Es Raro](https://open.spotify.com/album/5fSWHnEpxK10oYZrK7DOTK) | 4:52 |
 | 72 | [Bonito Es](https://open.spotify.com/track/3F7LwUGXeXIm7Br3QCxvd5) | [Los Sencillos](https://open.spotify.com/artist/4tckU58lAHcyNaWWswLubb) | [Doctor Amor](https://open.spotify.com/album/2ll1b7hDO1Js4I9cMukxBx) | 2:59 |
 | 73 | [Noche En Vela](https://open.spotify.com/track/3PvcPcIj8lh53Zb0FwstTm) | [Guaraná](https://open.spotify.com/artist/14xTevnO8kfFWuP8pXiykn) | [Noche En Vela](https://open.spotify.com/album/0okEU4q3SOHt7DBLEht0EB) | 3:46 |
-| 74 | [Una Lagrima](https://open.spotify.com/track/0PoUyBBEghT7ufac3soDiB) | [Peret](https://open.spotify.com/artist/2bhNZ8x8k2VfVhNRKESlcj) | [Orígenes](https://open.spotify.com/album/4moi9DmSUydEzm7N8VbbeT) | 1:56 |
-| 75 | [Al Son Del Tambor](https://open.spotify.com/track/6KpEeLn57CE8rw3yg8HtdQ) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW) | [Muchas Flores](https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg) | 3:57 |
+| 74 | [Al Son Del Tambor](https://open.spotify.com/track/6KpEeLn57CE8rw3yg8HtdQ) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW) | [Muchas Flores](https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg) | 3:57 |
+| 75 | [Una Lagrima](https://open.spotify.com/track/0PoUyBBEghT7ufac3soDiB) | [Peret](https://open.spotify.com/artist/2bhNZ8x8k2VfVhNRKESlcj) | [Orígenes](https://open.spotify.com/album/4moi9DmSUydEzm7N8VbbeT) | 1:56 |
 | 76 | [Aguardiente](https://open.spotify.com/track/6CpBRucGBV8c2ztigPg6C4) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Con la Fiesta a Cuestas](https://open.spotify.com/album/3hQfz8GVtX9q71VAIm7kmR) | 3:16 |
 | 77 | [Joselito](https://open.spotify.com/track/72Fm5e7KPBEQwCeIcSU33g) | [Kiko Veneno](https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP) | [Puro Veneno](https://open.spotify.com/album/65S9zOtZi43kFdHB8y91vY) | 3:50 |
 | 78 | [Sarandonga](https://open.spotify.com/track/4ER9YbR8kOke5g2vpanmq7) | [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Takatá, a toda rumba](https://open.spotify.com/album/5ilGbKanSfk9Q4cOctfe3D) | 4:00 |
-| 79 | [My skinny flacca](https://open.spotify.com/track/4XLvVcGUmItGqkHXOJMT5r) | [Huecco](https://open.spotify.com/artist/6Zd2JZF0kIBpeyv2FlPh8i) | [Lobbo](https://open.spotify.com/album/2tUF2G5o5ZpYW1Ano31nDJ) | 3:13 |
-| 80 | [Mi Gato](https://open.spotify.com/track/5Hu3Y13dE9rEZire0tlAMW) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW) | [Esencial Rosario](https://open.spotify.com/album/3jkmHCl1q6GWJUfhqF4URo) | 3:22 |
+| 79 | [Mi Gato](https://open.spotify.com/track/5Hu3Y13dE9rEZire0tlAMW) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW) | [Esencial Rosario](https://open.spotify.com/album/3jkmHCl1q6GWJUfhqF4URo) | 3:22 |
+| 80 | [My skinny flacca](https://open.spotify.com/track/4XLvVcGUmItGqkHXOJMT5r) | [Huecco](https://open.spotify.com/artist/6Zd2JZF0kIBpeyv2FlPh8i) | [Lobbo](https://open.spotify.com/album/2tUF2G5o5ZpYW1Ano31nDJ) | 3:13 |
 | 81 | [Grita](https://open.spotify.com/track/3zz4oi4aiOUV6lcQfKP5pU) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 3:32 |
 | 82 | [Que Puedo Pedir](https://open.spotify.com/track/11QBPkSlXTr00bOj5SQqbm) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Dile Al Sol](https://open.spotify.com/album/3gf35Jrzpwy233vwcAe3ux) | 3:02 |
 | 83 | [No Puedo Vivir Sin Ti](https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [4 Canciones](https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8) | 4:14 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 89 | [Nada Fue Un Error \- Live In Spain / 2005](https://open.spotify.com/track/15RAXEkBCh62ZB6xddv0wO) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Esta Mañana Y Otros Cuentos](https://open.spotify.com/album/2uXGAATjtNc6ikrWsy0B1B) | 3:45 |
 | 90 | [No Estamos Lokos \- Kalikeño](https://open.spotify.com/track/6qD5Tep3hEoRDQUpyrrDLK) | [Ketama](https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF) | [De Aki A Ketama](https://open.spotify.com/album/0Gw8HKoLK67806LLeSAJT7) | 4:37 |
 
-Snapshot ID: `AAAAAFE93JhN+GdDD9x7jw4HDIrlnQzI`
+Snapshot ID: `AAAAAK0B4kbp/POlb1DnP34j7k8G4o5v`

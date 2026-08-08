@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-316 songs - 18 hr 9 min
+317 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Heaven Can Wait \- The Aston Shuffle Remix](https://open.spotify.com/track/3C4fzUgIP3ahkhOBdP38GM) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ), [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94) | [Heaven Can Wait \(The Aston Shuffle Remix\)](https://open.spotify.com/album/6fUjIqkNJY56xS62ild7D1) | 3:38 | 2022-02-18 | 2022-12-10 |
 | [Hellboy](https://open.spotify.com/track/1z2eet2kI4jbqULDkJB2Iy) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Hellboy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5leqhdbIa0MbBPERGTtaBF) | 1:27 | 2022-02-18 | 2022-12-10 |
 | [Here For 4 Reason](https://open.spotify.com/track/2Z4ScZdWpklb1lA5QuMEwt) | [4ndreas](https://open.spotify.com/artist/69fwMz86U9OaUiqTSx5Jve) | [Here For 4 Reason](https://open.spotify.com/album/7hl6wbrCXUveCfE5goMlxr) | 1:57 | 2022-02-18 | 2022-12-10 |
+| [Hero too \-10th Anniversary ver.\-](https://open.spotify.com/track/37b9FiUzWlLIrI725CN1T5) | [ERI Starring Myka Morton](https://open.spotify.com/artist/5P9iQ7U9WY9MjMNaf92eZl) | [Hero too \-10th Anniversary ver.\-](https://open.spotify.com/album/1chZouRJZKmY4XG7qOcsnz) | 4:15 | 2026-08-07 |  |
 | [High Fashion \(feat\. Mustard\)](https://open.spotify.com/track/07KXEDMj78x68D884wgVEm) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:40 | 2022-02-18 | 2022-12-10 |
 | [Honey Lemon Soda \- Main Theme](https://open.spotify.com/track/52nY3Ia3EuKQlYAGym5jGa) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Honey Lemon Soda \(Original Series Soundtrack\)](https://open.spotify.com/album/300ouwOo07hLXMw9K56Hfl) | 2:28 | 2025-01-24 |  |
 | [I Will Go to War](https://open.spotify.com/track/0haX1okP3ZHnhWPzDAUipW) | [Tessa Thompson](https://open.spotify.com/artist/0wu2r1UIgBh0euCkEg6Mqx) | [Creed II \(Score & Music from the Original Motion Picture\)](https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u) | 1:37 | 2022-02-18 | 2022-12-10 |

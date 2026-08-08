@@ -1437,6 +1437,24 @@
     },
     {
       "album": {
+        "name": "Concert In The Virgin Islands",
+        "url": "https://open.spotify.com/album/4toQQBpDcDpwGG7XWuZhBZ"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191546,
+      "name": "Fiddler on the Diddle",
+      "url": "https://open.spotify.com/track/5uyPg6RKpcogkXhf9GqI51"
+    },
+    {
+      "album": {
         "name": "Lady and the Tramp",
         "url": "https://open.spotify.com/album/5lUCB0rKp3TTIongCN7gvk"
       },

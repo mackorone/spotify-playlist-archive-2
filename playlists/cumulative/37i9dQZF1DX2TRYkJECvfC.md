@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-711 songs - 2 day 10 hr 9 min
+712 songs - 2 day 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Hold On](https://open.spotify.com/track/1fyfYEmav5ovqInATtLZJa) | [Jarami](https://open.spotify.com/artist/1iwseab2dozTUHoF5taAdf) | [Hold On](https://open.spotify.com/album/5uaPCKOQy4Bihr6sEAVF5e) | 3:24 | 2022-05-03 | 2023-01-06 |
 | [Hold On](https://open.spotify.com/track/29noX0FL5ZMDF5bg77G52G) | [Jarami](https://open.spotify.com/artist/1iwseab2dozTUHoF5taAdf) | [Hold On](https://open.spotify.com/album/40Hq20k3nG8x3pH025RiIl) | 3:24 | 2022-05-03 | 2022-10-15 |
 | [Hold On](https://open.spotify.com/track/5QJ2hs1d22vxT8f2Jz29M2) | [Jarami](https://open.spotify.com/artist/1iwseab2dozTUHoF5taAdf) | [Hold On](https://open.spotify.com/album/38PIcexdesDkSJOwfnHS6K) | 3:24 | 2021-12-08 | 2022-07-29 |
+| [Home](https://open.spotify.com/track/0S2xEObUdDFFF9rBKp1HMM) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Home](https://open.spotify.com/album/0kexHnAFHnHKaGANW1D55n) | 4:31 | 2026-08-07 |  |
 | [Home In My Hand](https://open.spotify.com/track/3TAZUZfPkUWwf2ncERajnO) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Home In My Hand](https://open.spotify.com/album/28cd1w6QYMwUA48eLPEZi8) | 4:58 | 2023-09-15 | 2025-01-11 |
 | [Hope](https://open.spotify.com/track/7DpIuxzXiVHWGjvhBbBIrE) | [Iman Hanzo](https://open.spotify.com/artist/5ayIaDgQlMl8YcCdY70zRr) | [Clouds \(Deluxe\)](https://open.spotify.com/album/0a2nHTwi4oQ9FmqJIxW460) | 3:00 | 2025-01-10 |  |
 | [Hope](https://open.spotify.com/track/5eewTcv33R0w9DmyJU9R1W) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [It All Comes Together](https://open.spotify.com/album/5eSMGsfNbckqYisLuz2cF0) | 3:29 | 2025-09-12 |  |
@@ -415,7 +416,7 @@
 | [Never Change](https://open.spotify.com/track/0cTvHN1nMaINu2cZFK87d8) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Never Change](https://open.spotify.com/album/28DnS842lod3ntK4UA7g27) | 3:15 | 2025-09-05 |  |
 | [Never Enough](https://open.spotify.com/track/63oLL7nhjCx3hqNQWfwYVM) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Never Enough](https://open.spotify.com/album/66YANI4iTibEQOQ1zHjbbO) | 3:32 | 2023-11-24 | 2024-07-13 |
 | [New Fires](https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [New Fires](https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj) | 4:11 | 2022-10-28 | 2025-08-30 |
-| [NGF](https://open.spotify.com/track/2K3c88SbqrkGosh9fmT1gU) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [NGF](https://open.spotify.com/album/61TRAd9Tg1iyyPmYnAnyoS) | 6:44 | 2026-05-15 |  |
+| [NGF](https://open.spotify.com/track/2K3c88SbqrkGosh9fmT1gU) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [NGF](https://open.spotify.com/album/61TRAd9Tg1iyyPmYnAnyoS) | 6:44 | 2026-05-15 | 2026-08-08 |
 | [Night Blooming](https://open.spotify.com/track/7Jur43jHDkU1cZMheGQfPi) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O), [pbeatgirl](https://open.spotify.com/artist/4dupX4HZsvDVV26tiJ20a3) | [Night Blooming](https://open.spotify.com/album/2RSDkgHsxcaIKrMMJQFRZ7) | 6:42 | 2026-02-20 |  |
 | [Night Jaguars](https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Heaven Or Hell](https://open.spotify.com/album/4xOuauKQo1WNiGDXXNHbAY) | 3:52 | 2021-12-08 | 2023-08-12 |
 | [Night Walking](https://open.spotify.com/track/76uWZYQ8ifL8fAq7byloD2) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Night Walking](https://open.spotify.com/album/0TTwI6HXox5rTmgxKUp3tE) | 2:49 | 2026-02-27 |  |

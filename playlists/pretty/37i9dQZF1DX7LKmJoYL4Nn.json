@@ -1,12 +1,12 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 63171,
+  "num_followers": 63176,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF0csInpVUApNLTAGSXwZ20P7WMT",
+  "snapshot_id": "AAAAAKIq77kuEPbsw11JgeF72vDtuw6r",
   "tracks": [
     {
       "added_at": "2026-04-21 15:00:41",
@@ -375,26 +375,6 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "\u300c\u30bb\u30c4\u30caDrops\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30dc\u30fc\u30ab\u30eb\u9078\u629c\u66f2",
-        "url": "https://open.spotify.com/album/349SkL0jNwcUGPVvDWlkPW"
-      },
-      "artists": [
-        {
-          "name": "TearS",
-          "url": "https://open.spotify.com/artist/3gj1qfvzkRfDSaTQhGCuue"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 280665,
-      "name": "\u30bb\u30c4\u30caDrops",
-      "url": "https://open.spotify.com/track/6Y3nyDOV6Qle4ZHq5PHAIX"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
         "name": "null\u300c\u305d\u308c\u306f\u6b8b\u50cf\u306e\u6d88\u5931\u70b9\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u2060SELECTION 10 UNIT SONG",
         "url": "https://open.spotify.com/album/5XaAyKXoY3YK1xsYVSwHQ1"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 223542,
       "name": "\u305d\u308c\u306f\u6b8b\u50cf\u306e\u6d88\u5931\u70b9",
       "url": "https://open.spotify.com/track/0Lgflklr9PxS0DfESpU7Zo"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
+        "name": "\u300c\u30bb\u30c4\u30caDrops\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30dc\u30fc\u30ab\u30eb\u9078\u629c\u66f2",
+        "url": "https://open.spotify.com/album/349SkL0jNwcUGPVvDWlkPW"
+      },
+      "artists": [
+        {
+          "name": "TearS",
+          "url": "https://open.spotify.com/artist/3gj1qfvzkRfDSaTQhGCuue"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 280665,
+      "name": "\u30bb\u30c4\u30caDrops",
+      "url": "https://open.spotify.com/track/6Y3nyDOV6Qle4ZHq5PHAIX"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
+        "name": "\u7d05\u6708\u300c\u767e\u82b1\u7e5a\u4e71\u3001\u7d05\u6708\u591c\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
+        "url": "https://open.spotify.com/album/3oSqmv9f8hc0zMb4rmPGCz"
+      },
+      "artists": [
+        {
+          "name": "\u7d05\u6708",
+          "url": "https://open.spotify.com/artist/3vcRME7zu5NYZxk4nweuCs"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 260933,
+      "name": "\u767e\u82b1\u7e5a\u4e71\u3001\u7d05\u6708\u591c (2025 ver.)",
+      "url": "https://open.spotify.com/track/40CBtoFAQB16zgwkZfYRZf"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
         "name": "\u30d5\u30e9\u30b8\u30fc\u30eb (feat. \u6771\u96f2\u5f70\u4eba & \u9752\u67f3\u51ac\u5f25) [Cover]",
         "url": "https://open.spotify.com/album/3KM5OtuX96tlIwmzt0GKTI"
       },
@@ -1171,26 +1191,6 @@
       "duration_ms": 270354,
       "name": "\u30d5\u30e9\u30b8\u30fc\u30eb - Cover",
       "url": "https://open.spotify.com/track/1vywsFdOWEVvP6JkDOuUbU"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
-        "name": "\u7d05\u6708\u300c\u767e\u82b1\u7e5a\u4e71\u3001\u7d05\u6708\u591c\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
-        "url": "https://open.spotify.com/album/3oSqmv9f8hc0zMb4rmPGCz"
-      },
-      "artists": [
-        {
-          "name": "\u7d05\u6708",
-          "url": "https://open.spotify.com/artist/3vcRME7zu5NYZxk4nweuCs"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 260933,
-      "name": "\u767e\u82b1\u7e5a\u4e71\u3001\u7d05\u6708\u591c (2025 ver.)",
-      "url": "https://open.spotify.com/track/40CBtoFAQB16zgwkZfYRZf"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
-        "name": "ALKALOID\u300cBelieve 4 leaves\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
-        "url": "https://open.spotify.com/album/7aQDesep26GWfrEGjKrN1m"
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba UNDEAD",
+        "url": "https://open.spotify.com/album/43lqUwR27wqSsy84ZFoySR"
       },
       "artists": [
         {
-          "name": "ALKALOID/\u5929\u57ce \u4e00\u5f69(CV.\u68b6\u539f \u5cb3\u4eba)\u3001\u767d\u9ce5 \u85cd\u826f(CV.\u5929\ufa11 \u6ec9\u5e73)\u3001\u793c\u702c \u30de\u30e8\u30a4(CV.\u91cd\u677e \u5343\u6674)\u3001\u98a8\u65e9 \u5dfd(CV.\u4e2d\u6fa4 \u307e\u3055\u3068\u3082)",
-          "url": "https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv"
+          "name": "UNDEAD/\u6714\u9593\u96f6(CV.\u5897\u7530\u4fca\u6a39)\u3001\u7fbd\u98a8\u85ab(CV.\u7d30\u8c9d\u572d)\u3001\u5927\u795e\u6643\u7259(CV.\u5c0f\u91ce\u53cb\u6a39)\u3001\u4e59\u72e9\u30a2\u30c9\u30cb\u30b9(CV.\u7fbd\u591a\u91ce\u6e09)",
+          "url": "https://open.spotify.com/artist/018xyFp4b4AbcZE9Zp13DP"
         }
       ],
-      "duration_ms": 180760,
-      "name": "Believe 4 leaves",
-      "url": "https://open.spotify.com/track/7af3Y6VWFzceOzaR4HHIgf"
+      "duration_ms": 269106,
+      "name": "Melody in the Dark",
+      "url": "https://open.spotify.com/track/31lx7Gh3CIcdAGT8oVcb7L"
     },
     {
       "added_at": "2026-04-21 15:00:41",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-04-21 15:00:41",
       "album": {
+        "name": "ALKALOID\u300cBelieve 4 leaves\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season2",
+        "url": "https://open.spotify.com/album/7aQDesep26GWfrEGjKrN1m"
+      },
+      "artists": [
+        {
+          "name": "ALKALOID/\u5929\u57ce \u4e00\u5f69(CV.\u68b6\u539f \u5cb3\u4eba)\u3001\u767d\u9ce5 \u85cd\u826f(CV.\u5929\ufa11 \u6ec9\u5e73)\u3001\u793c\u702c \u30de\u30e8\u30a4(CV.\u91cd\u677e \u5343\u6674)\u3001\u98a8\u65e9 \u5dfd(CV.\u4e2d\u6fa4 \u307e\u3055\u3068\u3082)",
+          "url": "https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv"
+        }
+      ],
+      "duration_ms": 180760,
+      "name": "Believe 4 leaves",
+      "url": "https://open.spotify.com/track/7af3Y6VWFzceOzaR4HHIgf"
+    },
+    {
+      "added_at": "2026-04-21 15:00:41",
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30b7\u30e3\u30c3\u30d5\u30eb\u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (vol.02)",
         "url": "https://open.spotify.com/album/4nBfk9YeeWQpCBJl83GU2k"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 187840,
       "name": "Noir Neige",
       "url": "https://open.spotify.com/track/1vbPlABBS2aegeAEI5X68e"
-    },
-    {
-      "added_at": "2026-04-21 15:00:41",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba UNDEAD",
-        "url": "https://open.spotify.com/album/43lqUwR27wqSsy84ZFoySR"
-      },
-      "artists": [
-        {
-          "name": "UNDEAD/\u6714\u9593\u96f6(CV.\u5897\u7530\u4fca\u6a39)\u3001\u7fbd\u98a8\u85ab(CV.\u7d30\u8c9d\u572d)\u3001\u5927\u795e\u6643\u7259(CV.\u5c0f\u91ce\u53cb\u6a39)\u3001\u4e59\u72e9\u30a2\u30c9\u30cb\u30b9(CV.\u7fbd\u591a\u91ce\u6e09)",
-          "url": "https://open.spotify.com/artist/018xyFp4b4AbcZE9Zp13DP"
-        }
-      ],
-      "duration_ms": 269106,
-      "name": "Melody in the Dark",
-      "url": "https://open.spotify.com/track/31lx7Gh3CIcdAGT8oVcb7L"
     },
     {
       "added_at": "2026-04-21 15:00:41",

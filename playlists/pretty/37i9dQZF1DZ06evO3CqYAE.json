@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 15065,
+  "num_followers": 15071,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAABlLBIyVPRdVVfuIkgBgV1Z",
+  "snapshot_id": "anPOgAAAAABG39o1ECmc60a1FbYIvGqC",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elevated",
-        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 264026,
-      "name": "Lifter",
-      "url": "https://open.spotify.com/track/5MZwEDNE3AnecfSieetFaD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Overwhelming Victory",
         "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 504108,
       "name": "My Lover - Live",
       "url": "https://open.spotify.com/track/7DdZb0zDfmg7dXGsUICh2E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 264026,
+      "name": "Lifter",
+      "url": "https://open.spotify.com/track/5MZwEDNE3AnecfSieetFaD"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 401580,
-      "name": "Oh Jesus",
-      "url": "https://open.spotify.com/track/6DzPP3UsVIiBvPCZlkHG3S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Overwhelming Victory",
         "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 613764,
       "name": "Oke Mmiri - Live",
       "url": "https://open.spotify.com/track/4qLYAlR2b0uwvNTtOapmFF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 401580,
+      "name": "Oh Jesus",
+      "url": "https://open.spotify.com/track/6DzPP3UsVIiBvPCZlkHG3S"
     },
     {
       "added_at": null,
@@ -743,30 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eze (feat. Preye Odede)",
-        "url": "https://open.spotify.com/album/3PH6kZDIT5gJYMGNWzqqq2"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "Preye Odede",
-          "url": "https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK"
-        },
-        {
-          "name": "Reba",
-          "url": "https://open.spotify.com/artist/0I2iJ4qXhWez7QzSRd2UX6"
-        }
-      ],
-      "duration_ms": 356063,
-      "name": "Eze (feat. Preye Odede)",
-      "url": "https://open.spotify.com/track/2Y2mu2RkaSmGKymRSA35od"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oyoyo Chukwu",
         "url": "https://open.spotify.com/album/6BftpYwx4vzlLi4FN35Ts8"
       },
@@ -787,6 +763,30 @@
       "duration_ms": 317986,
       "name": "Oyoyo Chukwu",
       "url": "https://open.spotify.com/track/2M4NkEkDAevPkb3FD7iyOQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eze (feat. Preye Odede)",
+        "url": "https://open.spotify.com/album/3PH6kZDIT5gJYMGNWzqqq2"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Preye Odede",
+          "url": "https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK"
+        },
+        {
+          "name": "Reba",
+          "url": "https://open.spotify.com/artist/0I2iJ4qXhWez7QzSRd2UX6"
+        }
+      ],
+      "duration_ms": 356063,
+      "name": "Eze (feat. Preye Odede)",
+      "url": "https://open.spotify.com/track/2Y2mu2RkaSmGKymRSA35od"
     },
     {
       "added_at": null,

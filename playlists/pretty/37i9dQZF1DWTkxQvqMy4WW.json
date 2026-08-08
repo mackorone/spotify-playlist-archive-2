@@ -1,12 +1,12 @@
 {
   "description": "Country music to get you back to the basics.",
-  "num_followers": 3410041,
+  "num_followers": 3409986,
   "original_name": "Chillin' on a Dirt Road",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK12S50R/2cjHDNQfcFb31ZMeLQ9",
+  "snapshot_id": "AAAAAN4tyJYcrEZomc+OiSyZaM5HO3YE",
   "tracks": [
     {
       "added_at": "2026-07-24 04:01:24",
@@ -683,38 +683,6 @@
     {
       "added_at": "2026-07-24 04:01:24",
       "album": {
-        "name": "Born To Die",
-        "url": "https://open.spotify.com/album/0YasyGaO1Go6ArzZtGkv27"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 161410,
-      "name": "Born To Die",
-      "url": "https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX"
-    },
-    {
-      "added_at": "2026-07-24 04:01:24",
-      "album": {
-        "name": "Sleepless in a Hotel Room",
-        "url": "https://open.spotify.com/album/4svTVbjxKUxzSUBI0HYvds"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 177674,
-      "name": "Sleepless in a Hotel Room",
-      "url": "https://open.spotify.com/track/2za9t2qpWyUpIhnJcwopPt"
-    },
-    {
-      "added_at": "2026-07-24 04:01:24",
-      "album": {
         "name": "Move On",
         "url": "https://open.spotify.com/album/46kMFHuPM7lebSmP47lGfA"
       },
@@ -735,18 +703,34 @@
     {
       "added_at": "2026-07-24 04:01:24",
       "album": {
-        "name": "Doin' Somethin' Right",
-        "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
+        "name": "Sleepless in a Hotel Room",
+        "url": "https://open.spotify.com/album/4svTVbjxKUxzSUBI0HYvds"
       },
       "artists": [
         {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 215853,
-      "name": "Good Directions",
-      "url": "https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR"
+      "duration_ms": 177674,
+      "name": "Sleepless in a Hotel Room",
+      "url": "https://open.spotify.com/track/2za9t2qpWyUpIhnJcwopPt"
+    },
+    {
+      "added_at": "2026-07-24 04:01:24",
+      "album": {
+        "name": "Born To Die",
+        "url": "https://open.spotify.com/album/0YasyGaO1Go6ArzZtGkv27"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 161410,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX"
     },
     {
       "added_at": "2026-07-24 04:01:24",
@@ -767,6 +751,22 @@
     {
       "added_at": "2026-07-24 04:01:24",
       "album": {
+        "name": "Doin' Somethin' Right",
+        "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
+      },
+      "artists": [
+        {
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
+        }
+      ],
+      "duration_ms": 215853,
+      "name": "Good Directions",
+      "url": "https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR"
+    },
+    {
+      "added_at": "2026-07-24 04:01:24",
+      "album": {
         "name": "Your Man",
         "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
       },
@@ -783,18 +783,18 @@
     {
       "added_at": "2026-07-24 04:01:24",
       "album": {
-        "name": "Chief",
-        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
+        "name": "Stereotype",
+        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
         }
       ],
-      "duration_ms": 191306,
-      "name": "Drink In My Hand",
-      "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
+      "duration_ms": 206106,
+      "name": "She Had Me At Heads Carolina",
+      "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
     },
     {
       "added_at": "2026-07-24 04:01:24",
@@ -815,18 +815,18 @@
     {
       "added_at": "2026-07-24 04:01:24",
       "album": {
-        "name": "Stereotype",
-        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
+        "name": "Chief",
+        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
       },
       "artists": [
         {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 206106,
-      "name": "She Had Me At Heads Carolina",
-      "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
+      "duration_ms": 191306,
+      "name": "Drink In My Hand",
+      "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
     },
     {
       "added_at": "2026-07-24 04:01:24",
@@ -879,18 +879,18 @@
     {
       "added_at": "2026-07-24 04:01:24",
       "album": {
-        "name": "Barefoot Blue Jean Night",
-        "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
+        "name": "Brett Young",
+        "url": "https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5"
       },
       "artists": [
         {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
         }
       ],
-      "duration_ms": 169420,
-      "name": "Barefoot Blue Jean Night",
-      "url": "https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP"
+      "duration_ms": 224853,
+      "name": "In Case You Didn't Know",
+      "url": "https://open.spotify.com/track/10M2Ex445zw585Ducldzkw"
     },
     {
       "added_at": "2026-07-24 04:01:24",
@@ -915,18 +915,18 @@
     {
       "added_at": "2026-07-24 04:01:24",
       "album": {
-        "name": "Brett Young",
-        "url": "https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5"
+        "name": "Barefoot Blue Jean Night",
+        "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
       },
       "artists": [
         {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
         }
       ],
-      "duration_ms": 224853,
-      "name": "In Case You Didn't Know",
-      "url": "https://open.spotify.com/track/10M2Ex445zw585Ducldzkw"
+      "duration_ms": 169420,
+      "name": "Barefoot Blue Jean Night",
+      "url": "https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP"
     },
     {
       "added_at": "2026-07-24 04:01:24",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-07-24 04:01:24",
       "album": {
-        "name": "Songs for the Saints",
-        "url": "https://open.spotify.com/album/77spqXa3VNN0mw13PgWWyY"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 199625,
-      "name": "Get Along",
-      "url": "https://open.spotify.com/track/6n6OQfBpCgzF9oEg8zhBN7"
-    },
-    {
-      "added_at": "2026-07-24 04:01:24",
-      "album": {
         "name": "Hard 2 Love",
         "url": "https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 224293,
       "name": "Hard To Love",
       "url": "https://open.spotify.com/track/6E9V9TRlVOLjenGjHemzEH"
+    },
+    {
+      "added_at": "2026-07-24 04:01:24",
+      "album": {
+        "name": "Songs for the Saints",
+        "url": "https://open.spotify.com/album/77spqXa3VNN0mw13PgWWyY"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 199625,
+      "name": "Get Along",
+      "url": "https://open.spotify.com/track/6n6OQfBpCgzF9oEg8zhBN7"
     },
     {
       "added_at": "2026-07-24 04:01:24",
@@ -1395,22 +1395,18 @@
     {
       "added_at": "2026-07-24 04:01:24",
       "album": {
-        "name": "Better That Way",
-        "url": "https://open.spotify.com/album/0ymtg4pXliLjHMMGCcCoSt"
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
       },
       "artists": [
         {
-          "name": "Charles Wesley Godwin",
-          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
-        },
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 225884,
-      "name": "Better That Way (feat. Luke Combs)",
-      "url": "https://open.spotify.com/track/0x7lC40oyrC7FVTdgQhSPl"
+      "duration_ms": 217801,
+      "name": "GIVE HEAVEN SOME HELL",
+      "url": "https://open.spotify.com/track/6kBbetvAHiBSNIpndZBs6W"
     },
     {
       "added_at": "2026-07-24 04:01:24",
@@ -1431,18 +1427,22 @@
     {
       "added_at": "2026-07-24 04:01:24",
       "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
+        "name": "Better That Way",
+        "url": "https://open.spotify.com/album/0ymtg4pXliLjHMMGCcCoSt"
       },
       "artists": [
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 217801,
-      "name": "GIVE HEAVEN SOME HELL",
-      "url": "https://open.spotify.com/track/6kBbetvAHiBSNIpndZBs6W"
+      "duration_ms": 225884,
+      "name": "Better That Way (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/0x7lC40oyrC7FVTdgQhSPl"
     },
     {
       "added_at": "2026-07-24 04:01:24",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 
 > <a href="spotify:artist:3UlAQex8nw3vquHcmY8fpb">Sinego's</a> favorite tracks\. Updated regularly\. Curated by Sinego\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,189 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,193 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 | 49 | [You're a Star](https://open.spotify.com/track/2YbuRaVpUb5GUgYu4k0ZkZ) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [You're a Star](https://open.spotify.com/album/350A5du2DM13luw7uLfJmU) | 4:28 |
 | 50 | [Sanba Yo Pran Pale \- Ankhoï Remix](https://open.spotify.com/track/4mazzDHeclrlA6rbFM34z1) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX), [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [Sanba Yo Pran Pale \(Ankhoï Remix\)](https://open.spotify.com/album/7msC6j0hF69JZLwy9cSYhJ) | 3:59 |
 
-Snapshot ID: `AAAAANOv3GPElLpIUgSsuo5aaa0XddOg`
+Snapshot ID: `AAAAACQ/YUJZkqUdGUoeSsr4/QaYNLBN`

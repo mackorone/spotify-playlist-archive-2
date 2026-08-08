@@ -4,7 +4,7 @@
 
 > Rustige achtergrond muziek voor tijdens je werk, studeren of relaxen \| Morning coffee 2026 \| Koffie Chill \| Café Music
 
-278 songs - 15 hr 27 min
+280 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,13 +102,14 @@
 | [Grow Up](https://open.spotify.com/track/7psTEEC1PZAtb74MPBqMh4) | [Sisy Fos](https://open.spotify.com/artist/638JIotSgpl5UP6J5PGgC3) | [Grow Up](https://open.spotify.com/album/4hUAOyw5J9WFIgBWlD1DYg) | 3:49 | 2026-02-06 |  |
 | [Guilty](https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:56 | 2025-07-18 | 2026-02-07 |
 | [Harder To Love](https://open.spotify.com/track/0oI4tNKqTOURxMAvka5d4r) | [Neil Foreman](https://open.spotify.com/artist/0GRlXaSc9udpxeUuLmP7jo) | [Harder To Love](https://open.spotify.com/album/4s400ZZn2WSPM6CaUfAsHC) | 3:39 | 2025-07-18 | 2025-09-06 |
+| [Harmony](https://open.spotify.com/track/57a0usyQgVXthMoFZotx85) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Chuck Timely & The Hourglass](https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R) | 4:21 | 2026-08-07 |  |
 | [Hart Zonder Krassen](https://open.spotify.com/track/3FuVRInBL4Nph4L1oRscbe) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Hart Zonder Krassen](https://open.spotify.com/album/4eSC7ylSZLb4nkWIehlLJi) | 2:23 | 2025-10-24 | 2026-01-31 |
 | [Heaven](https://open.spotify.com/track/0nOf80Plej41Dkmeoo8Rv7) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Ambiguous Desire](https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS) | 4:26 | 2026-05-27 |  |
 | [Hello Darlin](https://open.spotify.com/track/4RzLqL2zvMPj1BkRHWtH0G) | [Raiche](https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI) | [Hello Darlin](https://open.spotify.com/album/1RIyJXwicQDu3Nn2zJmENv) | 2:51 | 2025-07-18 | 2025-12-13 |
 | [Hoe je naar morgen kijkt](https://open.spotify.com/track/3zVTa00TojCTBF9SSNRq15) | [The Gunnies](https://open.spotify.com/artist/2KMJDmZmWFaVanDyUD9sZq) | [Hoe je naar morgen kijkt](https://open.spotify.com/album/7LfHscY8nyzHc4eco1DCU1) | 4:29 | 2026-03-20 | 2026-05-28 |
 | [holes](https://open.spotify.com/track/6NQtkU253uebIELwPu2KjQ) | [Colin Vincent](https://open.spotify.com/artist/3vcgNrwPwn2B7F57BQzQUJ) | [holes](https://open.spotify.com/album/0JO4jUHwMOmA2io1tUw4be) | 2:47 | 2025-07-18 | 2025-09-20 |
 | [Holocene](https://open.spotify.com/track/35KiiILklye1JRRctaLUb4) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver, Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 5:36 | 2026-04-10 |  |
-| [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/track/4V9fJ12KcWd78OSAqYNO9r) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/album/3jIzQAsO6agpgpWRMOO8uF) | 3:44 | 2026-03-13 | 2026-08-01 |
+| [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/track/4V9fJ12KcWd78OSAqYNO9r) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/album/3jIzQAsO6agpgpWRMOO8uF) | 3:44 | 2026-03-13 |  |
 | [Home Tonight](https://open.spotify.com/track/7DzKcNfTSISDA9uBPavuaG) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Home Tonight](https://open.spotify.com/album/5ascu0uOSAvnOsUVEsazqA) | 3:27 | 2025-07-18 |  |
 | [How Do I](https://open.spotify.com/track/3WjWo8FZ3uAguGsplNa8YY) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Becoming](https://open.spotify.com/album/7606To8GLyeHpaoqYGXHV2) | 2:07 | 2026-02-13 | 2026-05-28 |
 | [How many miles](https://open.spotify.com/track/1ED6fIsQtKmFf83bMxDXKl) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/62xd4emBJXINuYl0RzfvO8) | 2:21 | 2026-04-17 |  |
@@ -134,6 +135,7 @@
 | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb) | 3:08 | 2026-04-24 |  |
 | [Laat Het Licht Aan](https://open.spotify.com/track/3m7590UqY1VXNtF6axoWj1) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Laat Het Licht Aan](https://open.spotify.com/album/04rBOWpJpSp3pDFU5EGXb4) | 4:00 | 2026-03-20 | 2026-04-18 |
 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 | 2025-07-18 |  |
+| [Lean In, Kiss Me](https://open.spotify.com/track/4W5TwNu9mgYlIltWW6FnEE) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Lean In, Kiss Me](https://open.spotify.com/album/3FbC4QiZOBbpKENEnk1Wj6) | 2:38 | 2026-08-07 |  |
 | [Let You In](https://open.spotify.com/track/2OqGfyw3dx6GikP01EwLYf) | [Marlon Funaki](https://open.spotify.com/artist/3BcSXip92N0HwJRA9sVmP6) | [Let You In](https://open.spotify.com/album/4mo9EM8C3Q2UXjvIexBSwY) | 3:58 | 2026-01-09 |  |
 | [Light Over You](https://open.spotify.com/track/0GES2JIoKo7fwiQUviVOhN) | [Janna](https://open.spotify.com/artist/3fBellqlNNu3nZdBxgQduS) | [Light Over You](https://open.spotify.com/album/6YjrJQg4SJlW02PtoZFghy) | 2:56 | 2026-03-06 |  |
 | [Little Black Dress](https://open.spotify.com/track/6PlcDrN7nKvMB2caDnlWS2) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [Little Black Dress](https://open.spotify.com/album/5jSuvKgusy6isCP4pdqGXs) | 3:16 | 2025-10-10 | 2026-02-07 |

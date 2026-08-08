@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 
 > This is MYA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,052 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,054 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 18 | [4 Meses](https://open.spotify.com/track/1hsy09WbfLFq21OVS4FaMe) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [Hoy](https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8) | 3:17 |
 | 19 | [Entre La Tierra y El Cielo](https://open.spotify.com/track/2zYZTTgHI1f2BmlZQXy1ff) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Entre La Tierra y El Cielo](https://open.spotify.com/album/32Pv25yHJ8Tnyac7ATFo7T) | 4:13 |
 | 20 | [Legendaria](https://open.spotify.com/track/5bARvxCD7HTJXsBLN7UhbZ) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Legendaria](https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW) | 3:00 |
-| 21 | [Fuiste Mía](https://open.spotify.com/track/1Nf60AnYxFl1xvZo12FZOV) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Fuiste Mía](https://open.spotify.com/album/3GRdrDwDPTg8jNjejST5ZW) | 3:44 |
-| 22 | [BLANCO Y NEGRO](https://open.spotify.com/track/0JOlK42EFo4ulGEQQzAPVC) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Agus Bernasconi](https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS), [Maxi Espindola](https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v) | [BLANCO Y NEGRO](https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB) | 2:50 |
+| 21 | [BLANCO Y NEGRO](https://open.spotify.com/track/0JOlK42EFo4ulGEQQzAPVC) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Agus Bernasconi](https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS), [Maxi Espindola](https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v) | [BLANCO Y NEGRO](https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB) | 2:50 |
+| 22 | [Fuiste Mía](https://open.spotify.com/track/1Nf60AnYxFl1xvZo12FZOV) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Fuiste Mía](https://open.spotify.com/album/3GRdrDwDPTg8jNjejST5ZW) | 3:44 |
 | 23 | [Te Quiero X Eso](https://open.spotify.com/track/6NoQKWwnt1abnNqEnFtHmi) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Agus Bernasconi](https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS), [Maxi Espindola](https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 3:30 |
 | 24 | [250X](https://open.spotify.com/track/3NjhlsNhvSEjg4BA2AJKJ9) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB) | [250X](https://open.spotify.com/album/31QqeBtjSFCLwjNFGgxmUS) | 2:17 |
 | 25 | [Lado Triste \- Remix](https://open.spotify.com/track/7gNClxHxDnazoQvgFhLMKr) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Lado Triste \(Remix\)](https://open.spotify.com/album/75sX87O97X5BFJ4uvnlUhN) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3s8a7v.md) - [plain]
 | 49 | [Corazón Guerrero \(Vivo en Buenos Aires\)](https://open.spotify.com/track/0lRZUkHlPqXjDsyapmPbsX) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Corazón Guerrero / Universo Paralelo \(Vivo en Buenos Aires\)](https://open.spotify.com/album/22JhvTO4iLbvzrgivUK559) | 5:03 |
 | 50 | [Suelta, Sola y Tranquila \(feat\. MYA\)](https://open.spotify.com/track/7zgz9kzWGXChcjU6krkPWi) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Suelta, Sola y Tranquila \(feat\. MYA\)](https://open.spotify.com/album/0SsG6p9pAKlNJOv6D5nMtM) | 2:29 |
 
-Snapshot ID: `anJ9AAAAAAAQcTugyRSMVaTuZJoc+o8V`
+Snapshot ID: `anPOgAAAAACSRMTw5gmMOtRwE/Ws9NzQ`

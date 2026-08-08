@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48DQ5NPXZdQ.md) - [plain]
 
 > Su música, como ellos, es eterna\. José José en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,395 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,402 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48DQ5NPXZdQ.md) - [plain]
 | 19 | [Como La Flor](https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 3:04 |
 | 20 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:39 |
 | 21 | [Aunque no sea conmigo \(feat\. Café Tacvba\)](https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi), [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Barrio Bravo](https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD) | 3:33 |
-| 22 | [Volveré](https://open.spotify.com/track/350kyj3PwTFlQMOpWzRd3O) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Diego En Los 70](https://open.spotify.com/album/1ohlNZAwfRCOaMQxKsQDIb) | 4:02 |
-| 23 | [Piel Canela](https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:17 |
+| 22 | [Piel Canela](https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:17 |
+| 23 | [Volveré](https://open.spotify.com/track/350kyj3PwTFlQMOpWzRd3O) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Diego En Los 70](https://open.spotify.com/album/1ohlNZAwfRCOaMQxKsQDIb) | 4:02 |
 | 24 | [Y Volveré \- Remastered 1994](https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 4:03 |
 | 25 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
 | 26 | [La Vida Es Un Carnaval](https://open.spotify.com/track/3Rjc14RoRucHhEWvv3W3xW) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Mi Vida Es Cantar](https://open.spotify.com/album/2clEi9iP3VkzZzkydAjFDA) | 4:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48DQ5NPXZdQ.md) - [plain]
 | 49 | [Amor Chiquito](https://open.spotify.com/track/3UBu1v5SiusUctK44s3sLL) | [Cepillin](https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ) | [El Payasito de la Tele "Cepillin"](https://open.spotify.com/album/1jAFxGIOlZmcirweEwRkJW) | 2:32 |
 | 50 | [María Bonita](https://open.spotify.com/track/23WfbJPkKmCBLbUlYpSuNP) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Serie Platino](https://open.spotify.com/album/3a3julBZ8GV0rUf7JYWOt1) | 3:20 |
 
-Snapshot ID: `AAAAALJ95QFug+jwchHpesGu9B83Ub77`
+Snapshot ID: `AAAAAGh6JNBIX4qQtieBw/0W8VMoBTKe`

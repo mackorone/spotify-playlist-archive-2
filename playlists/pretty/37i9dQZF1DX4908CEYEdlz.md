@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Lançamentos de rock que você precisa conhecer, AUMENTA O VOLUME! Foto: Queens of the Stoneage
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,835 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 907,680 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 18 | [Tipping Point](https://open.spotify.com/track/6jhxeGvYuGY6KHHmUDj8Sv) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Tipping Point](https://open.spotify.com/album/09fWUtFj5UY5gEJapwj0xa) | 4:28 |
 | 19 | [Make It Make Sense](https://open.spotify.com/track/4KFGxkAAP5D1HIBSwMv7d1) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Make It Make Sense](https://open.spotify.com/album/3TBw5z9f7WZ6Per1aTNkuC) | 3:08 |
 | 20 | [The Indigo Streak](https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 4:04 |
-| 21 | [Dear God](https://open.spotify.com/track/1Sn2P4sUV3ii0ykOrST5t4) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Dear God](https://open.spotify.com/album/4LqPNdoEBqxhaIAdrrstsu) | 6:08 |
-| 22 | [AFRAID TO DIE \(feat\. Tatiana Shmayluk from Jinjer\)](https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [AFRAID TO DIE](https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T) | 3:04 |
+| 21 | [AFRAID TO DIE \(feat\. Tatiana Shmayluk from Jinjer\)](https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [AFRAID TO DIE](https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T) | 3:04 |
+| 22 | [Dear God](https://open.spotify.com/track/1Sn2P4sUV3ii0ykOrST5t4) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Dear God](https://open.spotify.com/album/4LqPNdoEBqxhaIAdrrstsu) | 6:08 |
 | 23 | [Glass Half Empty](https://open.spotify.com/track/6rCQjBLxanBaAShpnNsmHh) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Glass Half Empty \(Part I\)](https://open.spotify.com/album/0DGJyFVAhqx3DsnB0eonvA) | 3:38 |
 | 24 | [Sepsis](https://open.spotify.com/track/3ScIZdvkqGTrhW4hZDIL00) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sepsis](https://open.spotify.com/album/3M2vuwAY3UtNNvGiclTR7V) | 3:38 |
 | 25 | [Dogs Of War](https://open.spotify.com/track/1AuwWGznBvI76jOF8cZ4E4) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dogs Of War](https://open.spotify.com/album/5vjqRLo7DxbwVwfiO0DpCz) | 4:04 |
-| 26 | [Perfection](https://open.spotify.com/track/1WbMj3nxjiPgx2UFsijV5r) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [X’s For Eyes](https://open.spotify.com/album/2W4xgzMCme2M6yGeLFTCTi) | 3:18 |
-| 27 | [I GOT THAT](https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [VERITAS](https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7) | 3:19 |
+| 26 | [I GOT THAT](https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [VERITAS](https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7) | 3:19 |
+| 27 | [Perfection](https://open.spotify.com/track/1WbMj3nxjiPgx2UFsijV5r) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [X’s For Eyes](https://open.spotify.com/album/2W4xgzMCme2M6yGeLFTCTi) | 3:18 |
 | 28 | [デトロイト｜Detoroito](https://open.spotify.com/track/6DZbO6wJuGzUyy2lARqAmC) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [円相 ｜Enso](https://open.spotify.com/album/13JammOxbOwU9ft8PElfDT) | 4:19 |
 | 29 | [Free Yourself](https://open.spotify.com/track/4lG3ZYEFlJBJJWwgp7yL7y) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Free Yourself](https://open.spotify.com/album/2J0fSkRV4YP3NbYcXBEVu8) | 2:25 |
 | 30 | [NØ GØDS, NØ MASTERS](https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 4:18 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 36 | [Blood In The Water](https://open.spotify.com/track/36h5JAbSei6u5AcZJji05T) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Blood In The Water](https://open.spotify.com/album/51XawJfwZu5NH45ICmVAwI) | 3:37 |
 | 37 | [Sacred The Thread](https://open.spotify.com/track/1euMlU3weroX6ERo4vEfQl) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Sacred The Thread](https://open.spotify.com/album/4dimPGtC8aTFM0jCf739TN) | 5:21 |
 | 38 | [Haven](https://open.spotify.com/track/4aMH5OK4BFr8UW0xtt3AVB) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [Haven](https://open.spotify.com/album/0m41NRj9C741A0nn7jvZVJ) | 3:11 |
-| 39 | [Anxiety \- Spotify Singles](https://open.spotify.com/track/4HFtwRQcTGZPtcmvi2x2hw) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Spotify Singles](https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp) | 3:50 |
-| 40 | [Soldier In The Army of Love](https://open.spotify.com/track/1gQP8UKHi9eRVrTS8pm4ep) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Roman Morello](https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju) | [Soldier In The Army of Love](https://open.spotify.com/album/05gBPlkrFzoHDBtN4JseUS) | 2:58 |
+| 39 | [Soldier In The Army of Love](https://open.spotify.com/track/1gQP8UKHi9eRVrTS8pm4ep) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Roman Morello](https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju) | [Soldier In The Army of Love](https://open.spotify.com/album/05gBPlkrFzoHDBtN4JseUS) | 2:58 |
+| 40 | [Anxiety \- Spotify Singles](https://open.spotify.com/track/4HFtwRQcTGZPtcmvi2x2hw) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Spotify Singles](https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp) | 3:50 |
 | 41 | [My Condition](https://open.spotify.com/track/3dwG0z9bOORf9W1NWj2eFQ) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [My Condition](https://open.spotify.com/album/6HCfBgib3AXge1a1gDwcLH) | 3:27 |
 | 42 | [The Falling Sky](https://open.spotify.com/track/22MaTYGutS36j4KOXfqvQn) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [The Falling Sky](https://open.spotify.com/album/3YCJJtpStsr9BbwmgF31qq) | 3:38 |
 | 43 | [Trial By Fire](https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Trial By Fire](https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi) | 4:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 74 | [We Are The Rest](https://open.spotify.com/track/0VTGtiDMRwvzKngUwKoyc0) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [We Are The Rest](https://open.spotify.com/album/5apvStWagsi9GAVhALWeKE) | 3:02 |
 | 75 | [Fighting On \- 2021 \- Remaster](https://open.spotify.com/track/1oanSbsnFXySrSFgQznX1R) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Dante XXI \(2021 \- Remaster\)](https://open.spotify.com/album/7ERVgqxIIkmy5CfPRlWrWi) | 4:29 |
 
-Snapshot ID: `AAAAAI0h6izMLtXa6ocPKkOO+vpRtNzi`
+Snapshot ID: `AAAAAGu9th1X4dmB2CkwjEkFi/c+Ua0P`

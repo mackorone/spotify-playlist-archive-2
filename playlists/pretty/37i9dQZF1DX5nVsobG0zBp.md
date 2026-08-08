@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: LON3R JOHNY
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,417 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,427 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 36 | [Marselha](https://open.spotify.com/track/0O3Tiq9SgdndTbIzYs6UYc) | [Zara G](https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb) | [Marselha](https://open.spotify.com/album/1NxzgAT3Mhcb5ek0zxdhUj) | 3:08 |
 | 37 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
 | 38 | [São Paulo](https://open.spotify.com/track/20cn2KYYgyuxXRC3WynYZn) | [Yuri NR5](https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew) | [São Paulo](https://open.spotify.com/album/199XPsDPVUoBXzfHlhl6b7) | 3:53 |
-| 39 | [Senti Tanto](https://open.spotify.com/track/4VAybjMGGmc3ihxbMHQ5PM) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 2:42 |
-| 40 | [JAMANTAH](https://open.spotify.com/track/6iP058p5l6mKsWqSEgGPhD) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [MDID](https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS) | 5:12 |
+| 39 | [JAMANTAH](https://open.spotify.com/track/6iP058p5l6mKsWqSEgGPhD) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [MDID](https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS) | 5:12 |
+| 40 | [Senti Tanto](https://open.spotify.com/track/4VAybjMGGmc3ihxbMHQ5PM) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 2:42 |
 | 41 | [Segurança](https://open.spotify.com/track/6CQei9foPt8tr65hP8ESdQ) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Segurança](https://open.spotify.com/album/2dXGxbtFGYkpubKsCxvDgx) | 2:57 |
 | 42 | [CARO](https://open.spotify.com/track/0zjmhKBOuslq0d26IEbVKD) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [CARO](https://open.spotify.com/album/4IwuZcwCQmHt7SEX2TUrxP) | 3:57 |
 | 43 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 75 | [Tropa do Madruga](https://open.spotify.com/track/6UuUNiV7iYcUEoODAExbYS) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Tropa do Madruga](https://open.spotify.com/album/78PrWb2pWkarkKg1O8LFTY) | 3:00 |
 | 76 | [Chauffeur](https://open.spotify.com/track/3ARuPTEPMpbr7mz1aHa0a6) | [Regula](https://open.spotify.com/artist/6pyqBc7HaffcZJhyfjnceP), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Chauffeur](https://open.spotify.com/album/4LAYeC7gWp1jFiS1q101OK) | 4:26 |
 | 77 | [Tou Bem \(feat\. Lhast\)](https://open.spotify.com/track/0gzwa0yJncSs29DjXajA5i) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [\#FFFFFF](https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E) | 3:11 |
-| 78 | [Oskey](https://open.spotify.com/track/2lN7q4luqmYcwHqRwy0Sod) | [Danni Gato](https://open.spotify.com/artist/0gn6QcKMo0cMWKbiPGEeVy), [Milo & Fabio](https://open.spotify.com/artist/2IzIiYJmzVIbf1nlOVuMBo) | [Oskey](https://open.spotify.com/album/2zKEKLIN2tT7d887qrR4Ex) | 3:18 |
-| 79 | [Só Queria Sorrir](https://open.spotify.com/track/5oGOwG8FhaKQyXrruJKkk6) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [You Are Forgiven](https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ) | 3:42 |
+| 78 | [Teu Eternamente](https://open.spotify.com/track/3klZEB3gNmhKoOTqwVH92G) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [You Are Forgiven](https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ) | 2:55 |
+| 79 | [Oskey](https://open.spotify.com/track/2lN7q4luqmYcwHqRwy0Sod) | [Danni Gato](https://open.spotify.com/artist/0gn6QcKMo0cMWKbiPGEeVy), [Milo & Fabio](https://open.spotify.com/artist/2IzIiYJmzVIbf1nlOVuMBo) | [Oskey](https://open.spotify.com/album/2zKEKLIN2tT7d887qrR4Ex) | 3:18 |
 | 80 | [Desconfinamento](https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Desconfinamento](https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI) | 3:06 |
 
-Snapshot ID: `AAAAAM84IBiMSu1Uu8S2FEUoAW0Fo46C`
+Snapshot ID: `AAAAAF8tt3arvGZ5sierIfb66aWg2k30`

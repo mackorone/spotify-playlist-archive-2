@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PfYnYcpw8w.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,842,714 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,843,289 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PfYnYcpw8w.md) - [plain]
 | 74 | [R.E.M](https://open.spotify.com/track/1xWH8zYtDeS9mW1JJG23VZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 4:05 |
 | 75 | [Why Try](https://open.spotify.com/track/40fHWRL8bKcl5J4t4OKUiW) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:31 |
 
-Snapshot ID: `AAAAAI8BXYUGkgcMXC0L0SjbFT06GOVU`
+Snapshot ID: `AAAAAD3h2YcomZjiWvbWbZDU3+EDlDP4`

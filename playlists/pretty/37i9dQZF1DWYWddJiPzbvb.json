@@ -1,12 +1,12 @@
 {
   "description": "Chilled songs that you are familiar with - no surprises!",
-  "num_followers": 2212574,
+  "num_followers": 2212656,
   "original_name": "Comfort Zone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC0YTfpSzclhEm/iw78wRtPMAKM/",
+  "snapshot_id": "AAAAAP6xK54XXRsbzP+0Uo5IcuVSAaie",
   "tracks": [
     {
       "added_at": "2024-09-13 18:52:50",
@@ -275,6 +275,22 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Love On The Brain",
+      "url": "https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp"
+    },
+    {
+      "added_at": "2024-09-13 18:52:50",
+      "album": {
         "name": "Don't Kill the Magic",
         "url": "https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 215280,
       "name": "Circles",
       "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb"
-    },
-    {
-      "added_at": "2024-09-13 18:52:50",
-      "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Love On The Brain",
-      "url": "https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp"
     },
     {
       "added_at": "2024-09-13 18:52:50",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "drivers license",
-      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
-    },
-    {
-      "added_at": "2024-09-13 18:52:50",
-      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -439,18 +423,18 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 207139,
-      "name": "Adore You",
-      "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
+      "duration_ms": 242013,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
     },
     {
       "added_at": "2024-09-13 18:52:50",
@@ -475,6 +459,22 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 207139,
+      "name": "Adore You",
+      "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
+    },
+    {
+      "added_at": "2024-09-13 18:52:50",
+      "album": {
         "name": "See You Again (feat. Charlie Puth)",
         "url": "https://open.spotify.com/album/5FXIqS1XqbpfOKNoi5VUwS"
       },
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
-        "name": "Save Me, San Francisco (Golden Gate Edition)",
-        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "Hey, Soul Sister",
-      "url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv"
-    },
-    {
-      "added_at": "2024-09-13 18:52:50",
-      "album": {
         "name": "Mylo Xyloto",
         "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 278719,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
+    },
+    {
+      "added_at": "2024-09-13 18:52:50",
+      "album": {
+        "name": "Save Me, San Francisco (Golden Gate Edition)",
+        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "Hey, Soul Sister",
+      "url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv"
     },
     {
       "added_at": "2024-09-13 18:52:50",
@@ -991,26 +991,6 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
-        "name": "Stuck with U",
-        "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 228482,
-      "name": "Stuck with U (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
-    },
-    {
-      "added_at": "2024-09-13 18:52:50",
-      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/2bw00gRKNKbTFOqCkohbSh"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 180822,
       "name": "Silence",
       "url": "https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU"
+    },
+    {
+      "added_at": "2024-09-13 18:52:50",
+      "album": {
+        "name": "Stuck with U",
+        "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 228482,
+      "name": "Stuck with U (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
     },
     {
       "added_at": "2024-09-13 18:52:50",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
+        "name": "Seal",
+        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "Kiss from a Rose",
+      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
+    },
+    {
+      "added_at": "2024-09-13 18:52:50",
+      "album": {
         "name": "Making Mirrors",
         "url": "https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 244973,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV"
-    },
-    {
-      "added_at": "2024-09-13 18:52:50",
-      "album": {
-        "name": "Seal",
-        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "Kiss from a Rose",
-      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
     },
     {
       "added_at": "2024-09-13 18:52:50",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 225146,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/6O20JhBJPePEkBdrB5sqRx"
+    },
+    {
+      "added_at": "2024-09-13 18:52:50",
+      "album": {
         "name": "Starboy (Deluxe)",
         "url": "https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 232857,
       "name": "Die For You (with Ariana Grande) - Remix",
       "url": "https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2"
-    },
-    {
-      "added_at": "2024-09-13 18:52:50",
-      "album": {
-        "name": "Unapologetic (Deluxe)",
-        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 225146,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/6O20JhBJPePEkBdrB5sqRx"
     },
     {
       "added_at": "2024-09-13 18:52:50",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
-        "name": "Be Alright",
-        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
-    },
-    {
-      "added_at": "2024-09-13 18:52:50",
-      "album": {
         "name": "On How Life Is",
         "url": "https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 239440,
       "name": "I Try",
       "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
+    },
+    {
+      "added_at": "2024-09-13 18:52:50",
+      "album": {
+        "name": "Dreaming Out Loud",
+        "url": "https://open.spotify.com/album/5KIGFE6IFlVQPA4Vsl15nV"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Apologize",
+      "url": "https://open.spotify.com/track/3UhXPxLDFKCj1ZO6mmtV0a"
     },
     {
       "added_at": "2024-09-13 18:52:50",
@@ -1907,18 +1907,18 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
-        "name": "Dreaming Out Loud",
-        "url": "https://open.spotify.com/album/5KIGFE6IFlVQPA4Vsl15nV"
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 208106,
-      "name": "Apologize",
-      "url": "https://open.spotify.com/track/3UhXPxLDFKCj1ZO6mmtV0a"
+      "duration_ms": 196373,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
     },
     {
       "added_at": "2024-09-13 18:52:50",
@@ -2451,22 +2451,6 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
-        "name": "Before You Go",
-        "url": "https://open.spotify.com/album/0488X5veBK6t3vSmIiTDJY"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 215106,
-      "name": "Before You Go",
-      "url": "https://open.spotify.com/track/7ce20yLkzuXXLUhzIDoZih"
-    },
-    {
-      "added_at": "2024-09-13 18:52:50",
-      "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh"
       },
@@ -2479,6 +2463,22 @@
       "duration_ms": 236440,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/7h70RTLbnhDyPGXjl3iEhh"
+    },
+    {
+      "added_at": "2024-09-13 18:52:50",
+      "album": {
+        "name": "Before You Go",
+        "url": "https://open.spotify.com/album/0488X5veBK6t3vSmIiTDJY"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 215106,
+      "name": "Before You Go",
+      "url": "https://open.spotify.com/track/7ce20yLkzuXXLUhzIDoZih"
     },
     {
       "added_at": "2024-09-13 18:52:50",

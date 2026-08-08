@@ -1,12 +1,12 @@
 {
   "description": "\u534a\u6e05\u9192\u7684\u6642\u523b\u6700\u8ff7\u4eba\uff0c\u8b93\u6700\u8ff7\u4eba\u7684\u97f3\u6a02\u548c\u4f60\u4e00\u8d77\u96a8\u8208...",
-  "num_followers": 166949,
+  "num_followers": 166935,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJba9b9qQTwbW3w8G97bkA3Vgmky",
+  "snapshot_id": "AAAAAKg8IRHixCEE+76S2r0hR0dqhTKb",
   "tracks": [
     {
       "added_at": "2026-02-09 02:11:35",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Infatuated",
-        "url": "https://open.spotify.com/album/063f5CEuep3S8XuEEHxKAd"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 226714,
-      "name": "Infatuated",
-      "url": "https://open.spotify.com/track/5metBY9o3NFrHGq38lBhsS"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "Soon It Will Be Cold Enough",
         "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 180520,
       "name": "Soon It Will Be Cold Enough to Build Fires",
       "url": "https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Infatuated",
+        "url": "https://open.spotify.com/album/063f5CEuep3S8XuEEHxKAd"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "duration_ms": 226714,
+      "name": "Infatuated",
+      "url": "https://open.spotify.com/track/5metBY9o3NFrHGq38lBhsS"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -979,26 +979,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 226146,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "Feels (feat. Khalid)",
         "url": "https://open.spotify.com/album/7zbaDQ3uGL5GyIyeUVkktz"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 221974,
       "name": "Feels (feat. Khalid)",
       "url": "https://open.spotify.com/track/6LZ9FO9UsGIcTKbShnfNsG"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 226146,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Old Fashion Love",
-        "url": "https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0"
-      },
-      "artists": [
-        {
-          "name": "Krista Monica",
-          "url": "https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz"
-        }
-      ],
-      "duration_ms": 209117,
-      "name": "Old Fashion Love",
-      "url": "https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "Trying Not To Cry (feat. Cavetown)",
         "url": "https://open.spotify.com/album/0eYVO4mb4QcZNV9d3dgTiv"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 142310,
       "name": "Trying Not To Cry (feat. Cavetown)",
       "url": "https://open.spotify.com/track/1dO8sjJOtUpz0CWelezE4f"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Old Fashion Love",
+        "url": "https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0"
+      },
+      "artists": [
+        {
+          "name": "Krista Monica",
+          "url": "https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz"
+        }
+      ],
+      "duration_ms": 209117,
+      "name": "Old Fashion Love",
+      "url": "https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Our Time is Blue",
-        "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
-      },
-      "artists": [
-        {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "Our Time",
-      "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/4zhxQLpyqo7xnKpFHOgJvw"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 169687,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/0Qc117NULtyGJEovqVl5lx"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Our Time is Blue",
+        "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
+      },
+      "artists": [
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        }
+      ],
+      "duration_ms": 218266,
+      "name": "Our Time",
+      "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
+        "name": "Cheap Queen",
+        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 203946,
+      "name": "If You Think It's Love",
+      "url": "https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
         "name": "Easy (feat. 6LACK)",
         "url": "https://open.spotify.com/album/3EZ0ulSjw5p5jX7od6ASxb"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 204454,
       "name": "Easy (feat. 6LACK)",
       "url": "https://open.spotify.com/track/5iBO5vBRL92ytdwgZCjydX"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
-        "name": "Cheap Queen",
-        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 203946,
-      "name": "If You Think It's Love",
-      "url": "https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM"
     },
     {
       "added_at": "2026-02-09 02:11:35",

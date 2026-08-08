@@ -837,6 +837,28 @@
     },
     {
       "album": {
+        "name": "CHOOSIN\u2019 TEXAS (Feat. DINER)",
+        "url": "https://open.spotify.com/album/1vcsirZc8GNyIBC1hpGwS4"
+      },
+      "artists": [
+        {
+          "name": "Country Night",
+          "url": "https://open.spotify.com/artist/5Q520C8g8SdHdWVjw4SEU3"
+        },
+        {
+          "name": "DINER",
+          "url": "https://open.spotify.com/artist/7dvHlnKgD5EWy243QylvvC"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133533,
+      "name": "CHOOSIN\u2019 TEXAS (Feat. DINER)",
+      "url": "https://open.spotify.com/track/3CxxfN4YdbcSJ3tu1p5Rfp"
+    },
+    {
+      "album": {
         "name": "Cicadas",
         "url": "https://open.spotify.com/album/514A89AJBBRebXUNUTVlES"
       },

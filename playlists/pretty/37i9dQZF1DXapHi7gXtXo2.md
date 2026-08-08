@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 
 > Dale play y déjate llevar por estas finas melodías Indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,182 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,187 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 | 32 | [Hasta Que Llegue El Verano](https://open.spotify.com/track/6o2txs2fVptvzLjvlhbTjH) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Hasta Que Llegue El Verano](https://open.spotify.com/album/6TDE63e1LQdZ3A688Kerur) | 3:47 |
 | 33 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/6hFZ0KFUAz1bcwp4mmkGYH) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [La Gata Bajo la Lluvia](https://open.spotify.com/album/6u6M74UiYA4AFgy9tlhkEw) | 2:34 |
 | 34 | [Viernes](https://open.spotify.com/track/3kc4EBrXw7K3ACbeODqFOD) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [Viernes](https://open.spotify.com/album/7xgun8d6qqSI66tIUQEZR0) | 3:11 |
-| 35 | [COMETIERRA REMIX](https://open.spotify.com/track/73fztLrrdzBHSzLs5vubFU) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [COMETIERRA REMIX](https://open.spotify.com/album/4IGPLizzYYiDIRG35OMqtZ) | 3:00 |
+| 35 | [Delorean](https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Delorean](https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t) | 3:08 |
 | 36 | [El Momento Perfecto](https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [El Momento Perfecto](https://open.spotify.com/album/5tHjR6ANArX00z5PzAhOvS) | 3:21 |
-| 37 | [Delorean](https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Delorean](https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t) | 3:08 |
+| 37 | [COMETIERRA REMIX](https://open.spotify.com/track/73fztLrrdzBHSzLs5vubFU) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [COMETIERRA REMIX](https://open.spotify.com/album/4IGPLizzYYiDIRG35OMqtZ) | 3:00 |
 | 38 | [En tu casa o en la mía \(feat\. Conociendo Rusia\)](https://open.spotify.com/track/6Y6dbhxP8gesJ5oTr7lBmi) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Conducción Temeraria](https://open.spotify.com/album/3jzSeHQDDQ8lLI59mYhVC0) | 3:32 |
 | 39 | [Cuando Estamos los Dos](https://open.spotify.com/track/0qbYbugP6J7esmnRJpDThd) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA), [Juanito El Cantor](https://open.spotify.com/artist/0XOo1UrJtPQjLkILqMGusW) | [Portales](https://open.spotify.com/album/6UtZXhgIDo8ydcMCo2zZWd) | 3:17 |
 | 40 | [Lindos Problemas](https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 2:57 |
@@ -77,15 +77,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 | 67 | [Te quiero tanto](https://open.spotify.com/track/7Ec6FaLOKrdW5dr5bQifgB) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [Te quiero tanto](https://open.spotify.com/album/77IsSSjJqgJkAw7xPRDPk7) | 3:33 |
 | 68 | [Estamos Bajo el Agua](https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V) | [Agus Vivo](https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW), [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Estamos Bajo el Agua](https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv) | 2:31 |
 | 69 | [Ganas \- Spotify Singles](https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Spotify Singles](https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX) | 4:37 |
-| 70 | [Corazón Licántropo](https://open.spotify.com/track/4umKG3ktQIBlBcK5gNdn2y) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Polvo](https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY) | 4:09 |
-| 71 | [Buen viaje](https://open.spotify.com/track/2Gb1ym9oVBPzkZA2BAJz3L) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Ni tan Bien](https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB) | 3:07 |
+| 70 | [Buen viaje](https://open.spotify.com/track/2Gb1ym9oVBPzkZA2BAJz3L) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Ni tan Bien](https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB) | 3:07 |
+| 71 | [Corazón Licántropo](https://open.spotify.com/track/4umKG3ktQIBlBcK5gNdn2y) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Polvo](https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY) | 4:09 |
 | 72 | [El Problema 難題](https://open.spotify.com/track/7yL28cV1mfIB9679CzGVdd) | [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J) | [El Problema 難題](https://open.spotify.com/album/1BrT4L9bLoN0VUjvhY8dLP) | 1:59 |
 | 73 | [Joderlo Todo](https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Joderlo Todo](https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs) | 3:47 |
 | 74 | [pensando en ti](https://open.spotify.com/track/3G6Mo5GUWdzPZdsmdU4juo) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [pensando en ti](https://open.spotify.com/album/6bLJ9EbgSDl3rksxqhQfg9) | 3:17 |
 | 75 | [Llueve Sobre Mojado](https://open.spotify.com/track/7AbXvFA3CC6sA7t1wlwApo) | [Deborah De Corral](https://open.spotify.com/artist/0cEINGGZS5I0npSooTOQRZ) | [Piel](https://open.spotify.com/album/22zFtS2ipuNixDofMq176B) | 4:03 |
 | 76 | [El Club](https://open.spotify.com/track/0vDfod7HBva0Kr0R4tEIpD) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [El Club](https://open.spotify.com/album/4WTDpgb2hxYeqaOtcsUOVh) | 2:39 |
-| 77 | [el gil](https://open.spotify.com/track/0j5MACLCW2AQVh82thXuJ7) | [Camarú](https://open.spotify.com/artist/36yItyZJx0Tw3OpFQADb8z) | [el gil](https://open.spotify.com/album/5floVE8LEUynVJ14Pr9EHD) | 4:32 |
-| 78 | [Oler A Ti](https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Oler A Ti](https://open.spotify.com/album/0dgD8Uj4j7dPMFoRFX6cZ5) | 3:45 |
+| 77 | [Oler A Ti](https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Oler A Ti](https://open.spotify.com/album/0dgD8Uj4j7dPMFoRFX6cZ5) | 3:45 |
+| 78 | [el gil](https://open.spotify.com/track/0j5MACLCW2AQVh82thXuJ7) | [Camarú](https://open.spotify.com/artist/36yItyZJx0Tw3OpFQADb8z) | [el gil](https://open.spotify.com/album/5floVE8LEUynVJ14Pr9EHD) | 4:32 |
 | 79 | [Cómo Te Extraño Mi Amor](https://open.spotify.com/track/4ItghFzjyBOtbR8J4mJ0hP) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Cómo Te Extraño Mi Amor](https://open.spotify.com/album/4BmqOdFP8fsrpVMe3LcHp9) | 3:07 |
 | 80 | [Cursi](https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG) | [Yamila Ruiz](https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl) | [Cursi](https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M) | 3:13 |
 | 81 | [Cero](https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Pensamientos](https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6) | 2:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 | 99 | [Odio despertar](https://open.spotify.com/track/1OSDzIcMo3zvVnp90GzHJn) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Cariño y ternura](https://open.spotify.com/album/2vFeXg5TS82u8I70oR4qYa) | 4:27 |
 | 100 | [LO QUE PASÓ UNA VEZ](https://open.spotify.com/track/3DEuPFTumozG70UjBuZDTL) | [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [LO QUE PASÓ UNA VEZ](https://open.spotify.com/album/46AiJ3b8zW1Mg7L8oZHf8t) | 2:30 |
 
-Snapshot ID: `AAAAAF1hx/hT9guXU5uFVpLg7esgN3af`
+Snapshot ID: `AAAAAF1tYzxSIg9lVWfHUKg0pNqjWKk4`

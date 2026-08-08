@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcbzTgVpNRm.md) - [plain]
 
 > Your favorite Latin anthems to get the party started!<br/>Cover: Daddy Yankee
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,123,244 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,123,232 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcbzTgVpNRm.md) - [plain]
 | 61 | [Suavemente](https://open.spotify.com/track/7cpFmkNmh3MM0WqXPSbs9f) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:27 |
 | 62 | [La Botella](https://open.spotify.com/track/3dtGHZyEGmKSmQoAPcbvyb) | [Mach & Daddy](https://open.spotify.com/artist/5Q1vijNjTVhQBoVrZVXms8) | [Desde Abajo](https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R) | 2:57 |
 | 63 | [No Te Veo \- Remix](https://open.spotify.com/track/72tAU6b10AgYfEFKrykp8J) | [Casa De Leones](https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL) | [Casa De Leones](https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A) | 4:48 |
-| 64 | [La Vaca](https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [Con Su Loquera](https://open.spotify.com/album/4S18mM72RcD7OY9WiyHE8q) | 4:15 |
-| 65 | [La Gota Fria](https://open.spotify.com/track/4tXR895KKljrC2VptgyEhJ) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Clasicos de la Provincia](https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in) | 3:35 |
+| 64 | [La Gota Fria](https://open.spotify.com/track/4tXR895KKljrC2VptgyEhJ) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Clasicos de la Provincia](https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in) | 3:35 |
+| 65 | [La Vaca](https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [Con Su Loquera](https://open.spotify.com/album/4S18mM72RcD7OY9WiyHE8q) | 4:15 |
 | 66 | [Sin Pijama](https://open.spotify.com/track/2ijef6ni2amuunRoKTlgww) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Sin Pijama](https://open.spotify.com/album/6hAxqfWO3xDGzjs8yad1pB) | 3:08 |
 | 67 | [Lloraras](https://open.spotify.com/track/6QJ1F9DrlsRSmKDcdVS0Oy) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ), [La Dimensión Latina](https://open.spotify.com/artist/5wb8MfrYdUEBSg71SKD0A5) | [Traicionera \(Baile Total\)](https://open.spotify.com/album/1ESXDx2MI2QGcxTZXaAfRH) | 3:42 |
 | 68 | [La Bomba](https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb) | [Azul Azul](https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa) | [El Sapo](https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB) | 2:03 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcbzTgVpNRm.md) - [plain]
 | 94 | [Ven Bailalo \- Reggaeton Mix](https://open.spotify.com/track/0e8DgtfJnWTBarF9YGMd0N) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo) | [Ven Bailalo \(Reggaeton Mix\)](https://open.spotify.com/album/6FVaqUBQlhPrGoLCllQk4y) | 4:12 |
 | 95 | [Lo Que Pasó, Pasó](https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:30 |
 | 96 | [Loco Contigo \(with J\. Balvin & Tyga\)](https://open.spotify.com/track/1f38Gx6xQz6r4H1jGVNBJo) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Loco Contigo \(with J\. Balvin & Tyga\)](https://open.spotify.com/album/3HXHo0qkSUO4M9p6PEnA01) | 3:05 |
-| 97 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/0TMMqkwo2nuWGFWrq0IYxB) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [El Disco de Oro para Equipos de Sonido, Vol\. 2](https://open.spotify.com/album/4S7gUk1Ch5OLjaskyj4F1v) | 4:06 |
+| 97 | [Se Me Perdió la Cadenita](https://open.spotify.com/track/7187wJoQMEZ4OhYIOp90Lk) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Perez](https://open.spotify.com/artist/1FkShPhdyKcNIsGpxiYogj) | [Dinamitazos Tropicales de Siempre](https://open.spotify.com/album/2qBPvlvZqAqZ7oiGJYTpko) | 2:35 |
 | 98 | [Dos Locos](https://open.spotify.com/track/1ePEbbeWx3scydfir7HBcq) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Exitos Y Mas](https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1) | 4:06 |
 | 99 | [La Bilirrubina](https://open.spotify.com/track/4xzcXQrlMKwvv3kDpvBKWm) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0) | 4:05 |
 | 100 | [Ella Me Levanto](https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [El Cartel: The Big Boss](https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN) | 3:29 |
 
-Snapshot ID: `AAAAALjjRH0zN8M6xs6FGXJeIW5NAbn0`
+Snapshot ID: `AAAAAPysbbKyPDjcm7ZVI+Tz01mJyWT/`

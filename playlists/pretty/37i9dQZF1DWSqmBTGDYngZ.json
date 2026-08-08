@@ -1,12 +1,12 @@
 {
   "description": "Splash and sing-along.",
-  "num_followers": 7576788,
+  "num_followers": 7576743,
   "original_name": "Songs to Sing in the Shower",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADInotg4nXgO/D/yS6GcJFyncpEu",
+  "snapshot_id": "AAAAAAebXjpv4ZSUbhL32sIxmeb6HhbH",
   "tracks": [
     {
       "added_at": "2026-08-04 19:52:50",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Someone You Loved",
-      "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -887,18 +887,22 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+        "name": "Nothing but the Beat (Ultimate Edition)",
+        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 216053,
-      "name": "Summer Of '69",
-      "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
+      "duration_ms": 245040,
+      "name": "Titanium (feat. Sia)",
+      "url": "https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -919,22 +923,18 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Nothing but the Beat (Ultimate Edition)",
-        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 245040,
-      "name": "Titanium (feat. Sia)",
-      "url": "https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4"
+      "duration_ms": 216053,
+      "name": "Summer Of '69",
+      "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "An Innocent Man",
-        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 198294,
-      "name": "Uptown Girl",
-      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
         "name": "Millennium",
         "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 213306,
       "name": "I Want It That Way",
       "url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
+        "name": "An Innocent Man",
+        "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 198294,
+      "name": "Uptown Girl",
+      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
       },
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+        "name": "Midnight Memories (Deluxe)",
+        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
         }
       ],
-      "duration_ms": 292613,
-      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
-      "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
+      "duration_ms": 245490,
+      "name": "Story of My Life",
+      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Midnight Memories (Deluxe)",
-        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },
       "artists": [
         {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 245490,
-      "name": "Story of My Life",
-      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
+      "duration_ms": 292613,
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Crazy World",
-        "url": "https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF"
-      },
-      "artists": [
-        {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
-        }
-      ],
-      "duration_ms": 312360,
-      "name": "Wind Of Change",
-      "url": "https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
         "name": "Tracy Chapman",
         "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
       },
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+        "name": "Crazy World",
+        "url": "https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF"
       },
       "artists": [
         {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
         }
       ],
-      "duration_ms": 173026,
-      "name": "Wannabe",
-      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
+      "duration_ms": 312360,
+      "name": "Wind Of Change",
+      "url": "https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "G I R L",
-        "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
       },
       "artists": [
         {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
         }
       ],
-      "duration_ms": 233306,
-      "name": "Happy - From \"Despicable Me 2\"",
-      "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
+      "duration_ms": 173026,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -1435,6 +1419,22 @@
       "duration_ms": 232946,
       "name": "Wild Ones (feat. Sia)",
       "url": "https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
+        "name": "G I R L",
+        "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 233306,
+      "name": "Happy - From \"Despicable Me 2\"",
+      "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Oh, What A Life",
-        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
         "name": "Combat Rock (Remastered)",
         "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 188987,
       "name": "Should I Stay or Should I Go - Remastered",
       "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
+        "name": "Oh, What A Life",
+        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
         "name": "Bangerz (Deluxe Version)",
         "url": "https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 221366,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "All That She Wants",
-      "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
         "name": "Shawn Mendes (Deluxe)",
         "url": "https://open.spotify.com/album/0xzScN8P3hQAz3BT3YYX5w"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 190799,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "duration_ms": 211213,
+      "name": "All That She Wants",
+      "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Free Fallin'",
-      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
         "name": "In The Lonely Hour",
         "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 172723,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -2043,6 +2043,22 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
+        "name": "One Of The Boys",
+        "url": "https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 220226,
+      "name": "Hot N Cold",
+      "url": "https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -2063,18 +2079,18 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "One Of The Boys",
-        "url": "https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ"
+        "name": "Make It Big",
+        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
         }
       ],
-      "duration_ms": 220226,
-      "name": "Hot N Cold",
-      "url": "https://open.spotify.com/track/0iGckQFyv6svOfAbAY9aWJ"
+      "duration_ms": 231333,
+      "name": "Wake Me Up Before You Go-Go",
+      "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -2107,22 +2123,6 @@
       "duration_ms": 377093,
       "name": "Tiny Dancer",
       "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
-        "name": "Make It Big",
-        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Wake Me Up Before You Go-Go",
-      "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Elton John",
-        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
         "name": "The Subway",
         "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
       },
@@ -2211,18 +2195,18 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
       },
       "artists": [
         {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 284068,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
+      "duration_ms": 241786,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -2239,6 +2223,22 @@
       "duration_ms": 180055,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 284068,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Nellyville",
-        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
-      },
-      "artists": [
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        }
-      ],
-      "duration_ms": 228240,
-      "name": "Hot In Herre",
-      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
         "name": "Battleground (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 197935,
       "name": "Glad You Came",
       "url": "https://open.spotify.com/track/5yDL13y5giogKs2fSNf7sj"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
+        "name": "Nellyville",
+        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Hot In Herre",
+      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -2619,6 +2619,22 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/5RypFF6rN9MUxFe4aAWA28"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 236440,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/7GAaTpSoTWUTbP2Yxlt4Hd"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
         "name": "The Sweet Escape",
         "url": "https://open.spotify.com/album/4LAtUD0YzywA2DdzxEAoEU"
       },
@@ -2639,22 +2655,6 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/5RypFF6rN9MUxFe4aAWA28"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 236440,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/7GAaTpSoTWUTbP2Yxlt4Hd"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
         "name": "Flicker (Deluxe)",
         "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
       },
@@ -2671,22 +2671,6 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 295515,
-      "name": "With Or Without You",
-      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
         "name": "Love Stuff",
         "url": "https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov"
       },
@@ -2699,6 +2683,22 @@
       "duration_ms": 202177,
       "name": "Ex's & Oh's",
       "url": "https://open.spotify.com/track/70eDxAyAraNTiD6lx2ZEnH"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 295515,
+      "name": "With Or Without You",
+      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
     },
     {
       "added_at": "2026-08-04 19:52:50",
@@ -3231,22 +3231,6 @@
     {
       "added_at": "2026-08-04 19:52:50",
       "album": {
-        "name": "I Can See Clearly Now",
-        "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
-      },
-      "artists": [
-        {
-          "name": "Johnny Nash",
-          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
-        }
-      ],
-      "duration_ms": 164733,
-      "name": "I Can See Clearly Now - Edit",
-      "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
-    },
-    {
-      "added_at": "2026-08-04 19:52:50",
-      "album": {
         "name": "Jolene",
         "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
       },
@@ -3259,6 +3243,22 @@
       "duration_ms": 163275,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
+    },
+    {
+      "added_at": "2026-08-04 19:52:50",
+      "album": {
+        "name": "I Can See Clearly Now",
+        "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
+      },
+      "artists": [
+        {
+          "name": "Johnny Nash",
+          "url": "https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a"
+        }
+      ],
+      "duration_ms": 164733,
+      "name": "I Can See Clearly Now - Edit",
+      "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
     },
     {
       "added_at": "2026-08-04 19:52:50",

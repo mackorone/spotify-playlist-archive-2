@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 
 > Las canciones esenciales de la escena alternativa en español\. Con Diamante Eléctrico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,002 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,840 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 99 | [LA ARAÑA](https://open.spotify.com/track/4q3INV20vNx0BQYNTDLGEb) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Isla de Oro](https://open.spotify.com/album/0dm3jrhjmQgBMNZGtJsnr8) | 3:29 |
 | 100 | [Todo Terminó](https://open.spotify.com/track/5BeLLbwf4RUDccIVdzjuIh) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Who Me?](https://open.spotify.com/album/03AalHNXM2fBTryvQGw8lA) | 2:36 |
 
-Snapshot ID: `AAAAADihc3wGXFRGW0AIb1qisgxRbxke`
+Snapshot ID: `AAAAABlcWN7f6qgQLAklUaAbVdPgC3O+`

@@ -1,12 +1,12 @@
 {
   "description": "Bhangra is our pride, Bhangra is our culture. Cover: Inderpal Moga, Intense, Jazzy B & Chani Nattan",
-  "num_followers": 249343,
+  "num_followers": 249360,
   "original_name": "Bhangra Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFZ2YrxNzRA/Tc/I7ZuXTk0IZBXG",
+  "snapshot_id": "AAAAAGgVZmsz4AuBeSUTEHK/+VP0bJCT",
   "tracks": [
     {
       "added_at": "2026-07-17 14:59:50",
@@ -479,6 +479,26 @@
     {
       "added_at": "2026-07-17 14:59:50",
       "album": {
+        "name": "Three Plays",
+        "url": "https://open.spotify.com/album/7cg3ggWMPZjfQOUYCiSWmE"
+      },
+      "artists": [
+        {
+          "name": "HUSTINDER",
+          "url": "https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX"
+        },
+        {
+          "name": "Savraj",
+          "url": "https://open.spotify.com/artist/2QO3W9e7MhaXQfCZuliJP9"
+        }
+      ],
+      "duration_ms": 171063,
+      "name": "Cat Walk",
+      "url": "https://open.spotify.com/track/50OhDMBICJCPOkzPHqwIzI"
+    },
+    {
+      "added_at": "2026-07-17 14:59:50",
+      "album": {
         "name": "Sip Sip",
         "url": "https://open.spotify.com/album/5VZK2hiVQ86cVglMLXsIga"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 216125,
       "name": "Sip Sip",
       "url": "https://open.spotify.com/track/3PKEWXIkFwSJnlGdhjivCP"
-    },
-    {
-      "added_at": "2026-07-17 14:59:50",
-      "album": {
-        "name": "Three Plays",
-        "url": "https://open.spotify.com/album/7cg3ggWMPZjfQOUYCiSWmE"
-      },
-      "artists": [
-        {
-          "name": "HUSTINDER",
-          "url": "https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX"
-        },
-        {
-          "name": "Savraj",
-          "url": "https://open.spotify.com/artist/2QO3W9e7MhaXQfCZuliJP9"
-        }
-      ],
-      "duration_ms": 171063,
-      "name": "Cat Walk",
-      "url": "https://open.spotify.com/track/50OhDMBICJCPOkzPHqwIzI"
     },
     {
       "added_at": "2026-07-17 14:59:50",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-07-17 14:59:50",
       "album": {
-        "name": "Kill Goriye",
-        "url": "https://open.spotify.com/album/2GBBNb9mu0Ans9QlgcHMKy"
-      },
-      "artists": [
-        {
-          "name": "Gurj Sidhu",
-          "url": "https://open.spotify.com/artist/5UJrlyFPFTGTlfepPJvzjv"
-        }
-      ],
-      "duration_ms": 193381,
-      "name": "Kill Goriye",
-      "url": "https://open.spotify.com/track/4fVdWGQOP2Gv0t5Ax5gYnP"
-    },
-    {
-      "added_at": "2026-07-17 14:59:50",
-      "album": {
         "name": "Young & Real",
         "url": "https://open.spotify.com/album/2777qaYFxZOhbBrF4qrl9R"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 201818,
       "name": "Nabhe Di Bottal",
       "url": "https://open.spotify.com/track/5L02UgAKdA0icWvFs3WXVI"
+    },
+    {
+      "added_at": "2026-07-17 14:59:50",
+      "album": {
+        "name": "Kill Goriye",
+        "url": "https://open.spotify.com/album/2GBBNb9mu0Ans9QlgcHMKy"
+      },
+      "artists": [
+        {
+          "name": "Gurj Sidhu",
+          "url": "https://open.spotify.com/artist/5UJrlyFPFTGTlfepPJvzjv"
+        }
+      ],
+      "duration_ms": 193381,
+      "name": "Kill Goriye",
+      "url": "https://open.spotify.com/track/4fVdWGQOP2Gv0t5Ax5gYnP"
     },
     {
       "added_at": "2026-07-17 14:59:50",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2026-07-17 14:59:50",
       "album": {
+        "name": "Mirza",
+        "url": "https://open.spotify.com/album/5HeBs2T5VVqgVEHa53oZ01"
+      },
+      "artists": [
+        {
+          "name": "Pardeep Sran",
+          "url": "https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC"
+        },
+        {
+          "name": "Sargi Maan",
+          "url": "https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc"
+        }
+      ],
+      "duration_ms": 158312,
+      "name": "Mirza",
+      "url": "https://open.spotify.com/track/1h0ts09H1zEQFccguhMYR2"
+    },
+    {
+      "added_at": "2026-07-17 14:59:50",
+      "album": {
         "name": "The Call of Panjab",
         "url": "https://open.spotify.com/album/58nSQhJ6jxFam34jgoZyul"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 168888,
       "name": "Munda Inj Da Nahi",
       "url": "https://open.spotify.com/track/2tcqtUZtO8ObxtTVMP5hqf"
-    },
-    {
-      "added_at": "2026-07-17 14:59:50",
-      "album": {
-        "name": "Mirza",
-        "url": "https://open.spotify.com/album/5HeBs2T5VVqgVEHa53oZ01"
-      },
-      "artists": [
-        {
-          "name": "Pardeep Sran",
-          "url": "https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC"
-        },
-        {
-          "name": "Sargi Maan",
-          "url": "https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc"
-        }
-      ],
-      "duration_ms": 158312,
-      "name": "Mirza",
-      "url": "https://open.spotify.com/track/1h0ts09H1zEQFccguhMYR2"
     },
     {
       "added_at": "2026-07-17 14:59:50",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-07-17 14:59:50",
       "album": {
+        "name": "Do Gabru - Diljit Dosanjh & Akhil",
+        "url": "https://open.spotify.com/album/1uxDllRe9CPhdr8rhz2QCZ"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 188314,
+      "name": "Patiala Peg",
+      "url": "https://open.spotify.com/track/6TikcWOLRsPq66GBx2jk67"
+    },
+    {
+      "added_at": "2026-07-17 14:59:50",
+      "album": {
         "name": "Medicine",
         "url": "https://open.spotify.com/album/5bxIO37XtNj4k4PW5vMlUJ"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 236000,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/2QbFuHbPKNWgpqIFQYsUwS"
-    },
-    {
-      "added_at": "2026-07-17 14:59:50",
-      "album": {
-        "name": "Do Gabru - Diljit Dosanjh & Akhil",
-        "url": "https://open.spotify.com/album/1uxDllRe9CPhdr8rhz2QCZ"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 188314,
-      "name": "Patiala Peg",
-      "url": "https://open.spotify.com/track/6TikcWOLRsPq66GBx2jk67"
     },
     {
       "added_at": "2026-07-17 14:59:50",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2026-07-17 14:59:50",
       "album": {
+        "name": "Kalli Sohni",
+        "url": "https://open.spotify.com/album/0tpmcHBYbyQ32d1GgLICQe"
+      },
+      "artists": [
+        {
+          "name": "Arjan Dhillon",
+          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+        }
+      ],
+      "duration_ms": 171063,
+      "name": "Kalli Sohni",
+      "url": "https://open.spotify.com/track/6XpaqDv9cnYn6KNS6Wwnr3"
+    },
+    {
+      "added_at": "2026-07-17 14:59:50",
+      "album": {
         "name": "Graph",
         "url": "https://open.spotify.com/album/5ahdDmuYBvzCYI2kCo2cS0"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 155121,
       "name": "Graph",
       "url": "https://open.spotify.com/track/6GcHqqvdC7W9j46h78hAgg"
-    },
-    {
-      "added_at": "2026-07-17 14:59:50",
-      "album": {
-        "name": "Kalli Sohni",
-        "url": "https://open.spotify.com/album/0tpmcHBYbyQ32d1GgLICQe"
-      },
-      "artists": [
-        {
-          "name": "Arjan Dhillon",
-          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
-        }
-      ],
-      "duration_ms": 171063,
-      "name": "Kalli Sohni",
-      "url": "https://open.spotify.com/track/6XpaqDv9cnYn6KNS6Wwnr3"
     },
     {
       "added_at": "2026-07-17 14:59:50",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2026-07-17 14:59:50",
       "album": {
-        "name": "Chann Chann",
-        "url": "https://open.spotify.com/album/2T1OqVbSsmX0QcUrrYXriv"
-      },
-      "artists": [
-        {
-          "name": "Jordan Sandhu",
-          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
-        },
-        {
-          "name": "Zareen Khan",
-          "url": "https://open.spotify.com/artist/5YEBZ6DenMJMrwAF3qmPeN"
-        }
-      ],
-      "duration_ms": 163313,
-      "name": "Chann Chann",
-      "url": "https://open.spotify.com/track/4Q6iaeekTwBzCcbX3s4z4P"
-    },
-    {
-      "added_at": "2026-07-17 14:59:50",
-      "album": {
         "name": "Agg Paaniyan Ch",
         "url": "https://open.spotify.com/album/73tkkW29HF1pwOVJ0ScB6o"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 160352,
       "name": "Agg Paaniyan Ch",
       "url": "https://open.spotify.com/track/7FHqKBChj0iBGy7AYpp3A4"
+    },
+    {
+      "added_at": "2026-07-17 14:59:50",
+      "album": {
+        "name": "Chann Chann",
+        "url": "https://open.spotify.com/album/2T1OqVbSsmX0QcUrrYXriv"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        },
+        {
+          "name": "Zareen Khan",
+          "url": "https://open.spotify.com/artist/5YEBZ6DenMJMrwAF3qmPeN"
+        }
+      ],
+      "duration_ms": 163313,
+      "name": "Chann Chann",
+      "url": "https://open.spotify.com/track/4Q6iaeekTwBzCcbX3s4z4P"
     },
     {
       "added_at": "2026-07-17 14:59:50",
@@ -1899,26 +1899,6 @@
     {
       "added_at": "2026-07-17 14:59:50",
       "album": {
-        "name": "Love War",
-        "url": "https://open.spotify.com/album/7niG4VWSQ5H2E0GZbNBNuQ"
-      },
-      "artists": [
-        {
-          "name": "Jassa Dhillon",
-          "url": "https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd"
-        },
-        {
-          "name": "Gur Sidhu",
-          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
-        }
-      ],
-      "duration_ms": 191253,
-      "name": "Alone Jatt",
-      "url": "https://open.spotify.com/track/7I9VVV5IfzvW6yIuxUtxKj"
-    },
-    {
-      "added_at": "2026-07-17 14:59:50",
-      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/327jAkV50zyTcMVyKbKlvu"
       },
@@ -1935,6 +1915,26 @@
       "duration_ms": 177500,
       "name": "18 Lakh Da",
       "url": "https://open.spotify.com/track/7I8qYaQwnpSUqP4JQVLlpf"
+    },
+    {
+      "added_at": "2026-07-17 14:59:50",
+      "album": {
+        "name": "Love War",
+        "url": "https://open.spotify.com/album/7niG4VWSQ5H2E0GZbNBNuQ"
+      },
+      "artists": [
+        {
+          "name": "Jassa Dhillon",
+          "url": "https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        }
+      ],
+      "duration_ms": 191253,
+      "name": "Alone Jatt",
+      "url": "https://open.spotify.com/track/7I9VVV5IfzvW6yIuxUtxKj"
     },
     {
       "added_at": "2026-07-17 14:59:50",

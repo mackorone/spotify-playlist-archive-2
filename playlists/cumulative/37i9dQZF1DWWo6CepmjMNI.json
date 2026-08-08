@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Cheyada",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Memories can wait",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49 \u0e40\u0e17\u0e2a\u0e14\u0e35 Indie Tasty",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 204600,
       "name": "8:59",
       "url": "https://open.spotify.com/track/0moqYos5WpFIhluMp9wtZh"
@@ -150,6 +150,24 @@
       "duration_ms": 230043,
       "name": "al dente",
       "url": "https://open.spotify.com/track/1hkAWiahjurKmvtmNyPmSO"
+    },
+    {
+      "album": {
+        "name": "Apartment",
+        "url": "https://open.spotify.com/album/0NDRKhgrPqrnXagXSMtLQ5"
+      },
+      "artists": [
+        {
+          "name": "macaw and the flowers",
+          "url": "https://open.spotify.com/artist/3u8LeIuojQOVvjSAVBKmci"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260232,
+      "name": "Apartment",
+      "url": "https://open.spotify.com/track/78WamET7dLJqYpOP9AyLzS"
     },
     {
       "album": {
@@ -743,6 +761,24 @@
     },
     {
       "album": {
+        "name": "NOT SURPRISED",
+        "url": "https://open.spotify.com/album/4UpOZ3e2OrG4GIxl5f5ca2"
+      },
+      "artists": [
+        {
+          "name": "memories can wait",
+          "url": "https://open.spotify.com/artist/5JdAhInRtYmWXzOLOk2PjQ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191235,
+      "name": "NOT SURPRISED",
+      "url": "https://open.spotify.com/track/6nXv4KFCNeFPhZgjJjK4y6"
+    },
+    {
+      "album": {
         "name": "Only Love (feat. NOTEP)",
         "url": "https://open.spotify.com/album/5W4ZTAjJerxiETzUnOfaid"
       },
@@ -1162,7 +1198,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 271423,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/3t0M8p4j9eWsXZ7Iueia9C"
@@ -1594,7 +1630,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 351500,
       "name": "\u0e02\u0e2d\u0e41\u0e04\u0e48\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01 (Just to Feel)",
       "url": "https://open.spotify.com/track/3tHicfGUdXYBHbUeWZboCU"
@@ -2142,6 +2178,24 @@
       "duration_ms": 174230,
       "name": "\u0e08\u0e32\u0e01\u0e19\u0e35\u0e49\u0e40\u0e23\u0e32\u0e04\u0e07\u0e15\u0e49\u0e2d\u0e07\u0e25\u0e32 (Lesson)",
       "url": "https://open.spotify.com/track/3ZlNahS3geFOK4eW3D66eg"
+    },
+    {
+      "album": {
+        "name": "\u0e08\u0e32\u0e01\u0e25\u0e32",
+        "url": "https://open.spotify.com/album/05VCaZvpBwUVVe23A4nqET"
+      },
+      "artists": [
+        {
+          "name": "Wallry",
+          "url": "https://open.spotify.com/artist/5Rfrdko5rmc0qMAcyCuDki"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264177,
+      "name": "\u0e08\u0e32\u0e01\u0e25\u0e32",
+      "url": "https://open.spotify.com/track/2ihD2x6goZtf7HFILAYAqT"
     },
     {
       "album": {
@@ -4740,7 +4794,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 301714,
       "name": "\u0e2b\u0e22\u0e32\u0e14\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e24\u0e14\u0e39 (Will O' the Wisp)",
       "url": "https://open.spotify.com/track/7c0SVmG60e1bVo57QI0XeR"
@@ -5572,6 +5626,24 @@
       "duration_ms": 276000,
       "name": "\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e23\u0e32\u0e30 (Sorrow)",
       "url": "https://open.spotify.com/track/6CVFCsrnNIuoEz8bMMSY1r"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e40\u0e04\u0e48\u0e40\u0e1e\u0e35\u0e22\u0e07",
+        "url": "https://open.spotify.com/album/6MBCKRrzJNR4er2tWPrBW5"
+      },
+      "artists": [
+        {
+          "name": "Zeedox",
+          "url": "https://open.spotify.com/artist/5uBJqxXpz3npN0V85h9P5D"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e40\u0e04\u0e48\u0e40\u0e1e\u0e35\u0e22\u0e07",
+      "url": "https://open.spotify.com/track/7CgkWPR2Lnzyg5eBJExrec"
     },
     {
       "album": {

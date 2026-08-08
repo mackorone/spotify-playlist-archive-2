@@ -2,9 +2,9 @@
 
 ### [RAP 91 Hindi](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Best of Hindi Hip\-Hop! Cover: Poet Shaf
+> Best of Hindi Hip\-Hop! Cover: Wicked Sunny
 
-335 songs - 17 hr 1 min
+336 songs - 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Chhod Bhai](https://open.spotify.com/track/4KRZ47E9wDiCyRAxmBxOAQ) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu), [Zero Chill](https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M) | [Halaat](https://open.spotify.com/album/2E8QetLkISeArC5rDwgcjT) | 2:57 | 2025-01-06 | 2025-04-26 |
 | [Chhore Ncr Aale](https://open.spotify.com/track/4YzmUshoyqoiOx2lVM0rD9) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 3:20 | 2023-10-06 | 2025-05-24 |
 | [Chooke Dekh](https://open.spotify.com/track/3n3Urxb6O9OzXkYng9W60V) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2) | [Halaat](https://open.spotify.com/album/2E8QetLkISeArC5rDwgcjT) | 2:55 | 2025-01-06 | 2025-01-22 |
-| [Cigarette](https://open.spotify.com/track/6UsWMfasysjKyYk26oJrFs) | [Farhan Khan](https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG) | [Alif Laila \(Part 2\)](https://open.spotify.com/album/3MUSOdDUE4NojtZZauRh0i) | 3:35 | 2025-01-17 |  |
+| [Cigarette](https://open.spotify.com/track/6UsWMfasysjKyYk26oJrFs) | [Farhan Khan](https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG) | [Alif Laila \(Part 2\)](https://open.spotify.com/album/3MUSOdDUE4NojtZZauRh0i) | 3:35 | 2025-01-17 | 2026-08-08 |
 | [Cigarette](https://open.spotify.com/track/7siESYnNXs5qpSE983tmfG) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Only Love Gets Reply](https://open.spotify.com/album/4AJ9rJiLuo4xWxUjvaXNdz) | 3:02 | 2024-06-05 | 2025-08-23 |
 | [Classmate](https://open.spotify.com/track/0xKEqBJh5uYsjM4yYRdmyJ) | [Karun](https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF), [Nanku](https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p), [Adil](https://open.spotify.com/artist/3iTfVWPV4ur3XkrBwz41VZ) | [Classmate](https://open.spotify.com/album/7p9kZpL7HHbfNhZNrlhezX) | 3:29 | 2024-09-30 |  |
 | [Clout Chase](https://open.spotify.com/track/2oZBVF6pVtihOaXiX38TGR) | [Smoke](https://open.spotify.com/artist/3r11NkdzxoiZe5yMOMsfXy) | [Clout Chase](https://open.spotify.com/album/7DEJqb6SjOreiNZBupB6yt) | 2:11 | 2024-09-19 | 2024-12-21 |
@@ -183,6 +183,7 @@
 | [Kya Total ?](https://open.spotify.com/track/0OcuQDCk6kiiDKToCAQyJo) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Kya Total ?](https://open.spotify.com/album/1DaTKK0BBsmC5r6X9f7ztP) | 2:14 | 2025-01-17 | 2025-05-24 |
 | [Laadla](https://open.spotify.com/track/57LA3fJhESaZtMcxMzR4RT) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Laadla](https://open.spotify.com/album/4t1RG86twVCa2cipVdnPmW) | 2:57 | 2023-12-18 | 2024-10-08 |
 | [Laado](https://open.spotify.com/track/0NuWRfZRWzn1oc9piFhK9n) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Laado](https://open.spotify.com/album/0vEzErGiuiczFnmuOD35sB) | 2:28 | 2023-09-01 | 2025-01-07 |
+| [Laal Gaddiyan](https://open.spotify.com/track/65jij66fK47fSYqiGK5LrD) | [Wicked Sunny](https://open.spotify.com/artist/3jOWtMZBEsXsCFp4SuzlQa), [Cyril Gabriel](https://open.spotify.com/artist/2netGerqSenOlPiDpObZum) | [Laal Gaddiyan](https://open.spotify.com/album/7lw9UHiPuoaK9qgemxvHff) | 2:32 | 2026-08-07 |  |
 | [Laapata](https://open.spotify.com/track/0LMteNwmU1fqJMFiCYHpSi) | [Gravity](https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO), [Maanuni](https://open.spotify.com/artist/0RAKDApsLaVDbTPbtlLReP), [Outfly](https://open.spotify.com/artist/3lpYJAdDhRGm9mFyPxEKBi) | [Moonbounce](https://open.spotify.com/album/4RkBTTmG4mTKnjftCS48wQ) | 4:14 | 2025-01-06 | 2025-05-17 |
 | [Lapata](https://open.spotify.com/track/3kSSWkrIMhhqBJem3DOjmr) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [pho](https://open.spotify.com/artist/0eAgLEZjRTeUe2UqQhH9YC) | [Glory](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:11 | 2024-08-26 | 2025-05-17 |
 | [Laying Low](https://open.spotify.com/track/1CADvUV2bCufzrTvjNadmF) | [vichaar](https://open.spotify.com/artist/596Jw47L2zLSVaRWVUIye5) | [Laying Low](https://open.spotify.com/album/7nQrnBnkXx1BUTM5Qa4te7) | 2:27 | 2026-02-06 |  |

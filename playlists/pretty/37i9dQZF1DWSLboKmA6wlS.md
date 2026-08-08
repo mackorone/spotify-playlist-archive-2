@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 54 | [My Kind of Friday](https://open.spotify.com/track/6OGALa2mD2vOzkT4Lvdepk) | [Sun&Moon](https://open.spotify.com/artist/2IAvowEKxKHxbWmQurqYeI) | [My Kind of Friday](https://open.spotify.com/album/59sgyZdc0yNed2tAza64aw) | 2:57 |
 | 55 | [เป็นเพราะ \(Sorrow\)](https://open.spotify.com/track/6CVFCsrnNIuoEz8bMMSY1r) | [Rocket Mellow](https://open.spotify.com/artist/0rsv4gxu6NqS7CmzbyvbiW) | [เป็นเพราะ \(Sorrow\)](https://open.spotify.com/album/2eE83NCQ1MhWdTipnoLtjD) | 4:36 |
 
-Snapshot ID: `AAAAABjJzgjiwn21A56nJU3R6aldIThp`
+Snapshot ID: `AAAAAG1vsNLEPsV6daWOgTCiveuJ6xHC`

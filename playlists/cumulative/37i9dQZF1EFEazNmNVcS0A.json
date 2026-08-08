@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "Once",
+        "url": "https://open.spotify.com/album/2EsDLIabBTzC4IdNU07KAa"
+      },
+      "artists": [
+        {
+          "name": "Kid Harpoon",
+          "url": "https://open.spotify.com/artist/0raU17YI2OXuenDM7N7gfh"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197706,
+      "name": "Back from Beyond",
+      "url": "https://open.spotify.com/track/4S9hqUcn1R1WFtIAiPy6ID"
+    },
+    {
+      "album": {
         "name": "In Your Hands (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1LMMAiUqFPsHi4MnU90xb1"
       },

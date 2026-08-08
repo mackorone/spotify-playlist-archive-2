@@ -4,7 +4,7 @@
 
 > Stray Kids in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-3,585 songs - 7 day 16 hr 39 min
+3,586 songs - 7 day 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3166,6 +3166,7 @@
 | [Think Of Me](https://open.spotify.com/track/3RvkuiK2x5BlSQWYqTYjIS) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [Think Of Me](https://open.spotify.com/album/6CjFvd1Oj0cljGm226jCvH) | 2:50 | 2025-05-01 | 2025-05-30 |
 | [Thinking About You](https://open.spotify.com/track/0F7VIl2pS58IFwFTwenXc3) | [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Secrets of the WRLD](https://open.spotify.com/album/0Lh96OK9UoR8pDDzeBsuzI) | 3:32 | 2026-07-30 |  |
 | [Thinking Bout Your Ex](https://open.spotify.com/track/5PoYHehSDtGWTnhW0dZPvF) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Thinking Bout Your Ex](https://open.spotify.com/album/6IrdDANwLhsSwbRPR5Q2pj) | 2:32 | 2025-10-16 | 2025-11-07 |
+| [This & That](https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THIS & THAT](https://open.spotify.com/album/0VDVnZhY399q6sIrdyjZWj) | 3:05 | 2026-08-06 |  |
 | [This is the Killer Speaking](https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [This is the Killer Speaking](https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn) | 4:54 | 2025-07-17 | 2025-08-15 |
 | [This Is The World \(I Made It For You\)](https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [This Is The World \(I Made It For You\) / Nice Day](https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf) | 4:41 | 2025-11-13 | 2025-12-12 |
 | [this is what floating feels like](https://open.spotify.com/track/51aKhzD5dtUJeiK1TN3RmL) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [this is what floating feels like](https://open.spotify.com/album/6HTDWSqiAiRrwOltna85gk) | 2:28 | 2025-04-17 | 2025-05-16 |

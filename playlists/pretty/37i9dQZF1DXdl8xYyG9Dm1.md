@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover:  Ladipoe
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,068 likes - 68 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,089 likes - 68 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 67 | [HOW FAR](https://open.spotify.com/track/27y6VtO5N6QHPVrVLy9Gur) | [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD), [Ayjay bobo](https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4), [Monochrome](https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2) | [HOW FAR / SHIMA II](https://open.spotify.com/album/0g4PK75NaCaL7d8VDH889o) | 2:43 |
 | 68 | [E No Easy](https://open.spotify.com/track/0AxUoDxP0qtepOj4Fh227x) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [E No Easy](https://open.spotify.com/album/2TPQ4alxvgfyHnKlZ3723j) | 3:10 |
 
-Snapshot ID: `AAAAADfGSMRoTeAE8HapAjMRWP5AF2jZ`
+Snapshot ID: `AAAAAOfSlfOTCyX2gOVrmrh5+YwTNCWT`

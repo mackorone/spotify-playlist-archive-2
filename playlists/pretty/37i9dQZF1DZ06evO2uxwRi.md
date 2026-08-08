@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 
 > This is New Found Glory\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,942 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,950 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 49 | [Sucker](https://open.spotify.com/track/2WS6N3g451413Qz9Fx5mQK) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [New Found Glory](https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua) | 2:52 |
 | 50 | [Summer Fling, Don't Mean a Thing](https://open.spotify.com/track/3SJ0UM1ZZQrFeuGYFKSqvq) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Radiosurgery \(Deluxe Edition\)](https://open.spotify.com/album/7KshkjWC3BH1zzc8xJdEpp) | 2:57 |
 
-Snapshot ID: `anJ9AAAAAABUj7sQOZxZYRf4T9fPMqMn`
+Snapshot ID: `anPOgAAAAAAxB1I1o+7n25YOT/BfDKw1`

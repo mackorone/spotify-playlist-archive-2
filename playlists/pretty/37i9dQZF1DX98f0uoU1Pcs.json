@@ -1,12 +1,12 @@
 {
   "description": "a experimental mix of rock, punk, alt & indie. Cover: YHWH Nailgun",
-  "num_followers": 295382,
+  "num_followers": 295375,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJbg1g+ck1LD/x+CD5aoAL9Vr6bp",
+  "snapshot_id": "AAAAAHJLbvcZ2T1UQ3adACQFNqCXBw+6",
   "tracks": [
     {
       "added_at": "2026-07-17 17:28:38",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "It's a Beautiful Place",
-        "url": "https://open.spotify.com/album/3qbvg9xDwbPYF16L4SAN4d"
-      },
-      "artists": [
-        {
-          "name": "Water From Your Eyes",
-          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
-        }
-      ],
-      "duration_ms": 272165,
-      "name": "Life Signs",
-      "url": "https://open.spotify.com/track/63JK811l2UcpiyDvYFCQX5"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Pain to Power",
         "url": "https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 313746,
       "name": "Saoirse",
       "url": "https://open.spotify.com/track/3g0xd9m1MxKRiIC2Xw4998"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "It's a Beautiful Place",
+        "url": "https://open.spotify.com/album/3qbvg9xDwbPYF16L4SAN4d"
+      },
+      "artists": [
+        {
+          "name": "Water From Your Eyes",
+          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
+        }
+      ],
+      "duration_ms": 272165,
+      "name": "Life Signs",
+      "url": "https://open.spotify.com/track/63JK811l2UcpiyDvYFCQX5"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Projector",
-        "url": "https://open.spotify.com/album/08bII3U0CLuAa1C7SRLpMA"
-      },
-      "artists": [
-        {
-          "name": "Wine Lips",
-          "url": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM"
-        }
-      ],
-      "duration_ms": 93323,
-      "name": "Projector",
-      "url": "https://open.spotify.com/track/4s5FQ8gbOiCnbALMHya3O0"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Numerology",
         "url": "https://open.spotify.com/album/4ImkOlXMswzRT69SPcFhD0"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 258064,
       "name": "Numerology",
       "url": "https://open.spotify.com/track/6Lb75cFoDZRiE75muDdEep"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Projector",
+        "url": "https://open.spotify.com/album/08bII3U0CLuAa1C7SRLpMA"
+      },
+      "artists": [
+        {
+          "name": "Wine Lips",
+          "url": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM"
+        }
+      ],
+      "duration_ms": 93323,
+      "name": "Projector",
+      "url": "https://open.spotify.com/track/4s5FQ8gbOiCnbALMHya3O0"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -891,6 +891,22 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
+        "name": "Prevail",
+        "url": "https://open.spotify.com/album/66nOHdu9ODND2IXC328U40"
+      },
+      "artists": [
+        {
+          "name": "Mouth Ulcers",
+          "url": "https://open.spotify.com/artist/7ohGcioscyT39FJjvkivt5"
+        }
+      ],
+      "duration_ms": 194885,
+      "name": "Prevail",
+      "url": "https://open.spotify.com/track/2aqDOaADfiXz2wDwHsIbRD"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
         "name": "Hymns From The Hills",
         "url": "https://open.spotify.com/album/4dZNUFOxYuI95VGMIMZ90Q"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 234600,
       "name": "Saturday Sun",
       "url": "https://open.spotify.com/track/3irsYddwo18WmLYSiUvc8J"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
-        "name": "Prevail",
-        "url": "https://open.spotify.com/album/66nOHdu9ODND2IXC328U40"
-      },
-      "artists": [
-        {
-          "name": "Mouth Ulcers",
-          "url": "https://open.spotify.com/artist/7ohGcioscyT39FJjvkivt5"
-        }
-      ],
-      "duration_ms": 194885,
-      "name": "Prevail",
-      "url": "https://open.spotify.com/track/2aqDOaADfiXz2wDwHsIbRD"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Ember",
-        "url": "https://open.spotify.com/album/7v39mio0wBEBfW44yf39bE"
-      },
-      "artists": [
-        {
-          "name": "Iceage",
-          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
-        }
-      ],
-      "duration_ms": 205812,
-      "name": "Ember",
-      "url": "https://open.spotify.com/track/7jdLVBEhoDxGKdhfBEulzY"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "One More Trip Around The Sun",
         "url": "https://open.spotify.com/album/3YHaBBysxFf17TymibDhhh"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 272800,
       "name": "One More Trip Around The Sun",
       "url": "https://open.spotify.com/track/61VJXbD4Ea3KTumwwLgnTQ"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Ember",
+        "url": "https://open.spotify.com/album/7v39mio0wBEBfW44yf39bE"
+      },
+      "artists": [
+        {
+          "name": "Iceage",
+          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
+        }
+      ],
+      "duration_ms": 205812,
+      "name": "Ember",
+      "url": "https://open.spotify.com/track/7jdLVBEhoDxGKdhfBEulzY"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
+        "name": "Cherry Picker",
+        "url": "https://open.spotify.com/album/3Rf4fvEkIrthJoknt3RjFF"
+      },
+      "artists": [
+        {
+          "name": "Girl Tones",
+          "url": "https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6"
+        }
+      ],
+      "duration_ms": 180469,
+      "name": "Cherry Picker",
+      "url": "https://open.spotify.com/track/1as1UY6mD5pM7W6dAGADNe"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
         "name": "Everything I Wanted",
         "url": "https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 219305,
       "name": "Fundraiser",
       "url": "https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
-        "name": "Cherry Picker",
-        "url": "https://open.spotify.com/album/3Rf4fvEkIrthJoknt3RjFF"
-      },
-      "artists": [
-        {
-          "name": "Girl Tones",
-          "url": "https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6"
-        }
-      ],
-      "duration_ms": 180469,
-      "name": "Cherry Picker",
-      "url": "https://open.spotify.com/track/1as1UY6mD5pM7W6dAGADNe"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "I'm The Outside",
-        "url": "https://open.spotify.com/album/65eZKE0ZK7RKBkPwwAQ5nS"
+        "name": "EXPO",
+        "url": "https://open.spotify.com/album/6LLi2GeMAcPyUvwWxS2Gy7"
       },
       "artists": [
         {
-          "name": "Angel Du$t",
-          "url": "https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a"
+          "name": "Ulrika Spacek",
+          "url": "https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu"
         }
       ],
-      "duration_ms": 111666,
-      "name": "I'm The Outside",
-      "url": "https://open.spotify.com/track/1XxA7zS7wcoVzp8yFUjicO"
+      "duration_ms": 239746,
+      "name": "Weights & Measures",
+      "url": "https://open.spotify.com/track/6EbLcYLQiOuljqOc9Jq79t"
     }
   ],
   "unique_name": "Noisy",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where roots meet what\u2019s next. Cover: The Revivalists ",
+  "description": "Where roots meet what\u2019s next. Cover: Josh Rouse",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 272524,
       "name": "A Certain Someone",
       "url": "https://open.spotify.com/track/1dL5v7WwDVuUmQTk95paoa"
@@ -7177,6 +7177,28 @@
     },
     {
       "album": {
+        "name": "Her Eyes Dart Round",
+        "url": "https://open.spotify.com/album/4d1Bz3PslXUTI4ofL2VqC1"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        },
+        {
+          "name": "Felice County Fair",
+          "url": "https://open.spotify.com/artist/7JRfo5LndFUxvOZzE41JIL"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173024,
+      "name": "Her Eyes Dart Round",
+      "url": "https://open.spotify.com/track/19usgOmcdzZMRx5XKJZlmV"
+    },
+    {
+      "album": {
         "name": "Prizefighter",
         "url": "https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0"
       },
@@ -8821,6 +8843,24 @@
     },
     {
       "album": {
+        "name": "January Sky",
+        "url": "https://open.spotify.com/album/0SeQgwBn4yifm9OJHjerzs"
+      },
+      "artists": [
+        {
+          "name": "Josh Rouse",
+          "url": "https://open.spotify.com/artist/38euc5ce2q2MMzaoJcPstz"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182329,
+      "name": "January Sky",
+      "url": "https://open.spotify.com/track/6JVSStsDKmm67l6HQcZWT8"
+    },
+    {
+      "album": {
         "name": "From Dreams to Dust",
         "url": "https://open.spotify.com/album/2yHBOaatHcvlgNQ7WPpNIS"
       },
@@ -9204,7 +9244,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 235448,
       "name": "Kindness Isn't Common Sense",
       "url": "https://open.spotify.com/track/0ZJXnr1jOYENd4lrW4MKNu"
@@ -9508,7 +9548,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 180000,
       "name": "Let Things Go",
       "url": "https://open.spotify.com/track/1C0cNlvp5TmYYxQD07KsuV"
@@ -13142,7 +13182,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 347050,
       "name": "Reverend (feat. Billy Strings)",
       "url": "https://open.spotify.com/track/0XxrvPXoMCePCYr0icUdJk"
@@ -17479,6 +17519,28 @@
     },
     {
       "album": {
+        "name": "Volver A Celaya",
+        "url": "https://open.spotify.com/album/2ZxFxl3UnqTTmjABJX9aUy"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        },
+        {
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195499,
+      "name": "Volver A Celaya",
+      "url": "https://open.spotify.com/track/7kSZZ4BcWW0l8HWJU9zHlf"
+    },
+    {
+      "album": {
         "name": "Vultures",
         "url": "https://open.spotify.com/album/7wC8hNwpc4telpD31AEMM8"
       },
@@ -17790,6 +17852,28 @@
       "duration_ms": 181680,
       "name": "What Am I Gonna Do",
       "url": "https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl"
+    },
+    {
+      "album": {
+        "name": "What Do I Do",
+        "url": "https://open.spotify.com/album/6p2zNDTBbUMA3DOgEGaSkn"
+      },
+      "artists": [
+        {
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+        },
+        {
+          "name": "John Paul White",
+          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214853,
+      "name": "What Do I Do",
+      "url": "https://open.spotify.com/track/0qOZddOqjMiWJBJqw6dn0p"
     },
     {
       "album": {

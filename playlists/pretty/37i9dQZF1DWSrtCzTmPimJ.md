@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain]
 
 > Help ease your anxiety levels and enter an Alpha brainwave state with this session of ambient binaural beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,785 likes - 97 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,846 likes - 97 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrtCzTmPimJ.md) - [plain]
 | 96 | [Binaural Concentration Alpha 100 Hz \- 108 Hz](https://open.spotify.com/track/5W31qjDdoEKnGT6qmaFL9I) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [Binaural Concentration Alpha 100 Hz \- 108 Hz](https://open.spotify.com/album/3ow856D7cLAuuKDhipJdn7) | 3:08 |
 | 97 | [Alpha Ocean 92\-100 Hz](https://open.spotify.com/track/4Qesv6EX1xmJnlmtDQ3LmC) | [Zoe Sutherland](https://open.spotify.com/artist/3u1Ksfmps8VxbPLL4a2EAb) | [Alpha Ocean 92\-100 Hz](https://open.spotify.com/album/3ePEytDLrENwiSX6R85bbg) | 2:38 |
 
-Snapshot ID: `AAAAAIWbNO3D6zLHozk3G2L5N+u+0c6o`
+Snapshot ID: `AAAAAEanRizgHwYR49S5WVchlhM9pwIP`

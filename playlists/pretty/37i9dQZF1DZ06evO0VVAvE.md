@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 
 > This is T.I BLAZE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,696 likes - 46 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,706 likes - 46 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 | 39 | [All Eyes On Me](https://open.spotify.com/track/7fz52tAQ79hRZ5q5GTQ8aC) | [larrylanes](https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Different Lane](https://open.spotify.com/album/2LCzcEsKLehVVuwGT2Sd6F) | 2:12 |
 | 40 | [Adura](https://open.spotify.com/track/7McaoCgUSV8v50fp0hN14P) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Adura](https://open.spotify.com/album/57sE5bGhj3qMxm5Ms8VJiy) | 2:54 |
 | 41 | [Oba \(feat\. Barry Jhay\)](https://open.spotify.com/track/6lAkaaut9o97qgyWJXT2gZ) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [The Fresh Prince Of Lagos](https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc) | 3:08 |
-| 42 | [Jogo \(Smoke Up\)](https://open.spotify.com/track/3VxCbXh5pCsSviROdexcOJ) | [maskiking](https://open.spotify.com/artist/4935TUbJvVDvF0ciKIgWf0), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Boss6man](https://open.spotify.com/artist/2MpxgoxOjts3AjYXUBcT8V) | [Jogo \(Smoke Up\)](https://open.spotify.com/album/3HndRgBEhbGXfbG0H2wBjr) | 2:49 |
-| 43 | [Looku Looku](https://open.spotify.com/track/4A87TvnOZEL6GPapkVxQv5) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:07 |
+| 42 | [Looku Looku](https://open.spotify.com/track/4A87TvnOZEL6GPapkVxQv5) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:07 |
+| 43 | [Jogo \(Smoke Up\)](https://open.spotify.com/track/3VxCbXh5pCsSviROdexcOJ) | [maskiking](https://open.spotify.com/artist/4935TUbJvVDvF0ciKIgWf0), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Boss6man](https://open.spotify.com/artist/2MpxgoxOjts3AjYXUBcT8V) | [Jogo \(Smoke Up\)](https://open.spotify.com/album/3HndRgBEhbGXfbG0H2wBjr) | 2:49 |
 | 44 | [Bere Mi \(Reimagined\)](https://open.spotify.com/track/30NZZsZNZFr9DBTAQpttez) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Bere Mi \(Reimagined\)](https://open.spotify.com/album/42x5ZLOr1xOkVJ7jSzaLui) | 2:57 |
 | 45 | [Everyday](https://open.spotify.com/track/4Yj0vmMOII0gSmE51jy3wk) | [TMP Offisial](https://open.spotify.com/artist/52jKSXLfV0wNVqXrGWhtUi), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Everyday](https://open.spotify.com/album/4C8j7K4ehmB0YLpEeMmehG) | 3:10 |
 | 46 | [Daddy Yo](https://open.spotify.com/track/4BanorzpNi9WBZOpFTi6Ug) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:24 |
 
-Snapshot ID: `anJ9AAAAAACHptJ/W/HPBP3/9uuCPrGr`
+Snapshot ID: `anPOgAAAAACOu034FC1cejVTsy2jZpZX`

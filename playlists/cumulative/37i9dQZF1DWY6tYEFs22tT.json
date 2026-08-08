@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today's Hip-Hop with Lil Baby, Drake, Cardi B, Future, and Casper TNG.",
+  "description": "Today's Hip-Hop with Lil Baby, Cardi B, Drake, Trap Dickey, Future, and Casper TNG.",
   "name": "Hip-Hop Central",
   "tracks": [
     {
@@ -15213,6 +15213,24 @@
     },
     {
       "album": {
+        "name": "In My Lifetime",
+        "url": "https://open.spotify.com/album/7Am0PvxtFWNhK3s1L2iz6C"
+      },
+      "artists": [
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267413,
+      "name": "In My Lifetime",
+      "url": "https://open.spotify.com/track/4BgGvnwGSkFVLO2od8FNUX"
+    },
+    {
+      "album": {
         "name": "In The UK",
         "url": "https://open.spotify.com/album/7ueX2aPzPqbryfJKHnJPTh"
       },
@@ -15312,7 +15330,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 256406,
       "name": "INSECURE feat jid & ab-soul",
       "url": "https://open.spotify.com/track/6wRBNi9WAXrGrzyDw7JFP8"
@@ -16586,6 +16604,24 @@
       "duration_ms": 138208,
       "name": "LA Nights",
       "url": "https://open.spotify.com/track/62uzemerm9B0BFS9R0jApf"
+    },
+    {
+      "album": {
+        "name": "Last Man Breathin",
+        "url": "https://open.spotify.com/album/4xvAitL2IE5n0p4dLRQmv8"
+      },
+      "artists": [
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244280,
+      "name": "Last Man Breathin",
+      "url": "https://open.spotify.com/track/0yr6Sa2SLF4g6PTT3T3UkL"
     },
     {
       "album": {
@@ -21518,7 +21554,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 146439,
       "name": "OMG feat pusha t",
       "url": "https://open.spotify.com/track/52GRbtHCnZnPOy85U22TY3"
@@ -23617,6 +23653,24 @@
     },
     {
       "album": {
+        "name": "Maverick \u201cAlmost Forever\u201d EP",
+        "url": "https://open.spotify.com/album/4fClD0ZJtv7YfzCUEwotDo"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180369,
+      "name": "Poured",
+      "url": "https://open.spotify.com/track/3zPMFEgOwgYsdyFzRgw4Ly"
+    },
+    {
+      "album": {
         "name": "Prada (feat. Lil Tecca)",
         "url": "https://open.spotify.com/album/2ut84dwAs20nDuTqnvKsDQ"
       },
@@ -23782,6 +23836,24 @@
       "duration_ms": 173061,
       "name": "Pressurelicious (feat. Future)",
       "url": "https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB"
+    },
+    {
+      "album": {
+        "name": "PRINCE OF THE SCENE",
+        "url": "https://open.spotify.com/album/0Eqp6A7oVC3upNYMGsu26e"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116073,
+      "name": "PRINCE OF THE SCENE",
+      "url": "https://open.spotify.com/track/7LyhTlyFkFJdGkpBoENPX6"
     },
     {
       "album": {
@@ -24468,7 +24540,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 148108,
       "name": "Real Hustla (ft. GloRilla)",
       "url": "https://open.spotify.com/track/01lRLiKslwD7pzTa9PqvND"
@@ -27844,7 +27916,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 154656,
       "name": "Still Going",
       "url": "https://open.spotify.com/track/0NMdNrX2cmKTtLMlTmeMhf"

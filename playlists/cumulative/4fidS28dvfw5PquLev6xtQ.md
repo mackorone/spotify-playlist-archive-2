@@ -2,7 +2,7 @@
 
 ### [RYM Top 100 Songs of All Time](https://open.spotify.com/playlist/4fidS28dvfw5PquLev6xtQ)
 
-> This chart is hella sus but we gettin some changes unlike top 300 albums for real
+> Chart&\#x27;s a black screen like the thoughts inside your head when you goon so don&\#x27;t
 
 111 songs - 15 hr 32 min
 
@@ -44,7 +44,6 @@
 | [Good Morning, Captain \- Remastered](https://open.spotify.com/track/3pF6D6cIb1xz5u6Ln5mtpN) | [Slint](https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC) | [Spiderland \(remastered\)](https://open.spotify.com/album/3crSdepGPHDSUXAU9y98lG) | 7:41 | 2025-08-06 |  |
 | [Good Vibrations](https://open.spotify.com/track/6aU6a9tdn2vHhnPGlboFZX) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Smile Sessions](https://open.spotify.com/album/5SKIMMI6ilJTGOLd69Q9aM) | 4:15 | 2025-08-06 |  |
 | [Hacker](https://open.spotify.com/track/7y8X0Z04gJCKtfrnSAMywJ) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 4:35 | 2025-08-06 |  |
-| [Hasta Que Te Conocí \(Popurrí\) \[En Vivo\] \- En el Palacio de Bellas Artes](https://open.spotify.com/track/7DPqGXrgdRBDDB353sgwYx) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/6aZ07R6mxyg52G9TEKCvKw) | 25:55 | 2025-10-15 | 2026-01-22 |
 | [Heaven or Las Vegas](https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 4:58 | 2025-08-06 |  |
 | [Helpless Child](https://open.spotify.com/track/7jEfLF7XLMzBNj9w1PBmCq) | [Swans](https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA) | [Soundtracks for the Blind](https://open.spotify.com/album/7yV8WpwCChvzW3qr5MuzMf) | 15:47 | 2025-08-06 |  |
 | [How to Disappear Completely](https://open.spotify.com/track/2rtGaCAeYtmcIvuZsvgTf6) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 5:56 | 2025-08-06 |  |
@@ -73,6 +72,7 @@
 | [One \(Remastered\)](https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice for All \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/2XbWaerVk9fjhEiGSrd6TF) | 7:26 | 2025-08-06 |  |
 | [Pagan Poetry](https://open.spotify.com/track/0mc51xomEC6CZUZdB8xgQU) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/5vBpIxm8ws6pWyVmTWiGE1) | 5:14 | 2025-08-06 |  |
 | [Paranoid Android](https://open.spotify.com/track/6LgJvl0Xdtc73RJ1mmpotq) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 6:27 | 2025-08-06 |  |
+| [Popurrí: Hasta Que Te Conocí/La Negra Tomasa/Danzando Lambada/Caballo Viejo/Bamboleo/Hasta Que Te Conocí/Adoro/ Te Dedico Esta Canción \(Mi Canción\) \- En el Palacio de Bellas Artes](https://open.spotify.com/track/7DPqGXrgdRBDDB353sgwYx) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/6aZ07R6mxyg52G9TEKCvKw) | 25:55 | 2025-10-15 |  |
 | [Purple Rain](https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9) | 8:41 | 2025-08-06 |  |
 | [Rapp Snitch Knishes](https://open.spotify.com/track/5KUNwkaNf8l5A9sXZhiCgI) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Mr\. Fantastik](https://open.spotify.com/artist/7hpzx6fecRavN1B1YMxpOb) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 2:52 | 2025-08-06 |  |
 | [Roundabout \- 2024 Remaster](https://open.spotify.com/track/466C6kwoJHLUJ8VHG98hCY) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Fragile \(Super Deluxe\)](https://open.spotify.com/album/78tN6vBPHHyNk4sZYnS5X4) | 8:36 | 2025-08-06 |  |
@@ -112,7 +112,7 @@
 | [What's Going On](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:53 | 2025-08-06 |  |
 | [When the Sun Hits](https://open.spotify.com/track/7aXUzHn4A6fGKofVPGCoeT) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/4i21O3uVh5palcfFhCjlT7) | 4:47 | 2025-08-06 |  |
 | [When You Sleep](https://open.spotify.com/track/3HfEgAaf0koxBpBB8NvGda) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:11 | 2025-08-06 |  |
-| [Where Is My Mind? \- 2007 Remaster](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa \(2007 Remaster\)](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:54 | 2025-08-06 |  |
+| [Where Is My Mind? \- 2007 Remaster](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa \(2007 Remaster\)](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:54 | 2025-08-06 | 2026-08-08 |
 | [While My Guitar Gently Weeps \- Remastered 2009](https://open.spotify.com/track/389QX9Q1eUOEZ19vtzzI9O) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 4:45 | 2025-08-06 |  |
 | [Wish You Were Here](https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 5:38 | 2025-08-06 |  |
 | [Would? \(2022 Remaster\)](https://open.spotify.com/track/5sFDReWLrZHLFZFjHsjUTS) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 3:26 | 2025-08-06 |  |

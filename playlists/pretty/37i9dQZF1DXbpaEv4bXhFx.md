@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 
 > 빗방울대신 감성을 맞는 시간\. \(Listen to K\-Pop rainy day songs.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,166 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,163 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,14 +33,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 23 | [Your/My](https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 1](https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7) | 3:39 |
 | 24 | [Alive with you \(feat\. SFC.JGR\)](https://open.spotify.com/track/3jLd5QpiODmjFrZnDj32o4) | [Yel](https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15), [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [Alive with you](https://open.spotify.com/album/7cQ8kH5jyOLLZuAJUhccUT) | 3:23 |
 | 25 | [Rainy Season](https://open.spotify.com/track/1oKLldMLuG7cl7K6IqrbGH) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Rainy Season](https://open.spotify.com/album/1WGfdNasOiGf5kG3JvFXtf) | 3:42 |
-| 26 | [Syndrome](https://open.spotify.com/track/1hZ2dSvv2O6HQo6p3gDtVO) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [Syndrome](https://open.spotify.com/album/4YDtoADrhBQr4Epq57JRKX) | 3:41 |
+| 26 | [Gray So Gray \(Feat\. Younha\)](https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:12 |
 | 27 | [Sleepless Rainy Night](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark, Pt\. 2](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | 4:26 |
-| 28 | [Gray So Gray \(Feat\. Younha\)](https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:12 |
+| 28 | [Syndrome](https://open.spotify.com/track/1hZ2dSvv2O6HQo6p3gDtVO) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [Syndrome](https://open.spotify.com/album/4YDtoADrhBQr4Epq57JRKX) | 3:41 |
 | 29 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 |
 | 30 | [AM PM \(feat\. Whee In\) \- Prod\. Gray](https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:37 |
-| 31 | [overdose](https://open.spotify.com/track/3B4Rxj4UItYuHyppE8S0gU) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [overdose](https://open.spotify.com/album/7gWO40G0L1xaZ0wEmiLmr8) | 4:15 |
-| 32 | [A Trivial Story](https://open.spotify.com/track/057qC3IXkjXt12NAkhkCpf) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [Without Anyone Knowing](https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A) | 3:32 |
-| 33 | [A Kind Of Confession \- Male Version](https://open.spotify.com/track/5w1sW9Gr8fBBy82f21uF0s) | [Kwak jineon](https://open.spotify.com/artist/5NBDM7OpuuyUNtlLLxTYWD) | [My Liberation Notes OST Part 9](https://open.spotify.com/album/19Ya0jFcV7U0opVyJqRHCV) | 3:56 |
+| 31 | [A Trivial Story](https://open.spotify.com/track/057qC3IXkjXt12NAkhkCpf) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [Without Anyone Knowing](https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A) | 3:32 |
+| 32 | [A Kind Of Confession \- Male Version](https://open.spotify.com/track/5w1sW9Gr8fBBy82f21uF0s) | [Kwak jineon](https://open.spotify.com/artist/5NBDM7OpuuyUNtlLLxTYWD) | [My Liberation Notes OST Part 9](https://open.spotify.com/album/19Ya0jFcV7U0opVyJqRHCV) | 3:56 |
+| 33 | [overdose](https://open.spotify.com/track/3B4Rxj4UItYuHyppE8S0gU) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [overdose](https://open.spotify.com/album/7gWO40G0L1xaZ0wEmiLmr8) | 4:15 |
 | 34 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 |
 | 35 | [비오는 압구정](https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:36 |
 | 36 | ["L"](https://open.spotify.com/track/6bnM3mthxSY6fWrk15msxM) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 49 | [Try \(Journey Epilogue\)](https://open.spotify.com/track/7HK1elgUFULwdkMsiCbqoJ) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Try \(Journey Epilogue\)](https://open.spotify.com/album/5jb1JQY7bJhOWXlMjID9uQ) | 3:36 |
 | 50 | [Dingo X KIXO \- 이건내가처음쓰는사랑노래 \(feat\. BIG Naughty\)](https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D) | [JUNE](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Dingo X KIXO \- 이건내가처음쓰는사랑노래 \(feat\. BIG Naughty\)](https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa) | 3:29 |
 
-Snapshot ID: `AAAAAMOEaS7Oqf5iBiSwhY3VrIju9d/V`
+Snapshot ID: `AAAAALGgr1pFr69y9KrtxZTgzH+EpkXr`

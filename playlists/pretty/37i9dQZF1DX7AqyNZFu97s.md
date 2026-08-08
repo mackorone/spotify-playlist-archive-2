@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music from independent artists in the UK and Ireland\. Cover: Alice Barlow
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,562 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,560 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 49 | [In Yr Right Hand Reveal Heaven](https://open.spotify.com/track/5XupJq5fBAe68ZTNP6056a) | [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [In Yr Right Hand Reveal Heaven](https://open.spotify.com/album/0Dhknp1ZINLIp1TV8QJpH2) | 4:41 |
 | 50 | [punch](https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA) | [daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [punch](https://open.spotify.com/album/5uhc0x5otbt10RYvxUovN4) | 3:15 |
 
-Snapshot ID: `AAAAAPcC4Sxm22S0fUYG6tmVbKA0xiLY`
+Snapshot ID: `AAAAAJ5F0JnKTs3WFhTaOBk7aJH6j1iT`

@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 104343,
+  "num_followers": 104348,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAABR1LCSEIu9xHc0POaUJQrc",
+  "snapshot_id": "anPOgAAAAABnF3fCthQ4iWkgt5KxOgU9",
   "tracks": [
     {
       "added_at": null,
@@ -423,6 +423,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "In It With You",
+        "url": "https://open.spotify.com/album/5jVN3zaYCJrtZFHtZTwESO"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+        }
+      ],
+      "duration_ms": 192202,
+      "name": "In It With You",
+      "url": "https://open.spotify.com/track/1JdTvT34HhshLjmdSVkAIZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ishq Hai (This is Love) [From \"Mismatched, Season 3\"]",
         "url": "https://open.spotify.com/album/24zM8Ez9aPPiDScXVXSH5K"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 146001,
       "name": "Ishq Hai (This is Love) - From \"Mismatched, Season 3\"",
       "url": "https://open.spotify.com/track/53PHY7P6XrgX6YdPxJAhvO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In It With You",
-        "url": "https://open.spotify.com/album/5jVN3zaYCJrtZFHtZTwESO"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "JoJo",
-          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
-        }
-      ],
-      "duration_ms": 192202,
-      "name": "In It With You",
-      "url": "https://open.spotify.com/track/1JdTvT34HhshLjmdSVkAIZ"
     },
     {
       "added_at": null,
@@ -735,30 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Woman Trouble",
-        "url": "https://open.spotify.com/album/703bvqPWD8igZVVGjQqorA"
-      },
-      "artists": [
-        {
-          "name": "Artful Dodger",
-          "url": "https://open.spotify.com/artist/4L8MIM7AXmq6jb0tRix4JT"
-        },
-        {
-          "name": "Robbie Craig",
-          "url": "https://open.spotify.com/artist/1vYFivuR3a1Xzivqb1ztGd"
-        },
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 423250,
-      "name": "Woman Trouble (Full Length Version)",
-      "url": "https://open.spotify.com/track/4JrZTTJbSzuy7IUM8tzRLr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Addicted (Radio Edit)",
         "url": "https://open.spotify.com/album/70XtossftXZXhbL4ZKfKWs"
       },
@@ -787,38 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slicker than Your Average",
-        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 303400,
-      "name": "Spanish",
-      "url": "https://open.spotify.com/track/30QxFizyyxB7sPE8n7RWNJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Signed Sealed Delivered",
-        "url": "https://open.spotify.com/album/4kxN5eHweMRVcBXG1prsFM"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/3c22wjAcHgEVBi2VEKYGdE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trust Me",
         "url": "https://open.spotify.com/album/0J9SVTShbzWaOhogFHXJ9K"
       },
@@ -839,6 +783,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slicker than Your Average",
+        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 303400,
+      "name": "Spanish",
+      "url": "https://open.spotify.com/track/30QxFizyyxB7sPE8n7RWNJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Woman Trouble",
+        "url": "https://open.spotify.com/album/703bvqPWD8igZVVGjQqorA"
+      },
+      "artists": [
+        {
+          "name": "Artful Dodger",
+          "url": "https://open.spotify.com/artist/4L8MIM7AXmq6jb0tRix4JT"
+        },
+        {
+          "name": "Robbie Craig",
+          "url": "https://open.spotify.com/artist/1vYFivuR3a1Xzivqb1ztGd"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 423250,
+      "name": "Woman Trouble (Full Length Version)",
+      "url": "https://open.spotify.com/track/4JrZTTJbSzuy7IUM8tzRLr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Signed Sealed Delivered",
+        "url": "https://open.spotify.com/album/4kxN5eHweMRVcBXG1prsFM"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 216573,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/3c22wjAcHgEVBi2VEKYGdE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Commitment",
         "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
       },
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/7aaihvQBAqCeeaCsfjFqkq"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 210319,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/5pbHdA34hiAuLEsJFp8sgl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Story Goes...",
         "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 240973,
       "name": "Separate Ways",
       "url": "https://open.spotify.com/track/4LA0Pv5ftyW8rnDuVNWOF0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/7aaihvQBAqCeeaCsfjFqkq"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 210319,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/5pbHdA34hiAuLEsJFp8sgl"
     },
     {
       "added_at": null,

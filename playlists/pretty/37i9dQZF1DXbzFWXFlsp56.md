@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzFWXFlsp56.md) - [plain]
 
 > Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Perú\. Foto: Barboza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,894 likes - 30 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,898 likes - 30 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzFWXFlsp56.md) - [plain]
 | 29 | [TRAMAO'](https://open.spotify.com/track/3roblIHJ5FBJSGHxrM2jN0) | [Cleyh](https://open.spotify.com/artist/0t4vLHyQH6collUSn8wU8G), [Jao Beats](https://open.spotify.com/artist/4Q53RDJb0LrokF4Ef2S3Wm) | [TRAMAO'](https://open.spotify.com/album/6k96gYdcDrSihNvqNxYlnB) | 2:38 |
 | 30 | [Amuleto](https://open.spotify.com/track/2Q5J4z8MvQWyLPXBJDPV0R) | [Osman Música](https://open.spotify.com/artist/5sqVJ7uoK1LNs9ztmrsvmC) | [Amuleto](https://open.spotify.com/album/3zVrOqtjzisY8C9Tt1yyeO) | 2:55 |
 
-Snapshot ID: `AAAAANMxjJnkkQbsdWNcvwkAG82RBiof`
+Snapshot ID: `AAAAAM3ryvIUH8KxHhlT0YanR8USMMGl`

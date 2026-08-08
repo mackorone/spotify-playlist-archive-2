@@ -4,7 +4,7 @@
 
 > Best of  the pop girl era!  Listen to all your favourite Gammy\- and BRIT  Awards nominated female artists here.
 
-173 songs - 9 hr 21 min
+175 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Count The Ways](https://open.spotify.com/track/3W3HU4LKes5RkW683cqK1n) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre](https://open.spotify.com/album/3xxkjx6Hgl8sWpNfuqhHtD) | 3:58 | 2025-10-17 | 2025-12-12 |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2025-07-17 | 2025-10-04 |
 | [Cruel World](https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ) | 3:26 | 2026-03-16 |  |
+| [Cry Ugly](https://open.spotify.com/track/61p1mfca6giD6MP75hEu5m) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [THERAPY AT THE CLUB](https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf) | 2:39 | 2026-08-07 |  |
 | [Dancing On My Own](https://open.spotify.com/track/6aqNCrRA7vs7v6QvRpI50t) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0le9TO3kU69m6iWHTjNs9Y) | 4:45 | 2026-06-29 |  |
 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2025-07-17 |  |
 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 | 2025-07-17 | 2025-12-12 |
@@ -144,6 +145,7 @@
 | [silent treatment](https://open.spotify.com/track/1U3ZQNpnLslt4lCyQZzUx0) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [stardust](https://open.spotify.com/album/2HNjUP7VDUpyxQ2J3Cbch4) | 2:22 | 2026-03-03 |  |
 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2025-09-26 |  |
 | [Sports car](https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 2:45 | 2025-12-11 |  |
+| [Still](https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:40 | 2026-08-07 |  |
 | [Stranger](https://open.spotify.com/track/538NtFWzcYopNDr55qN1jj) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Turbulentie](https://open.spotify.com/album/7fcv7MQ7LmjTGgrcuhJ4Zh) | 2:47 | 2025-07-17 | 2025-10-18 |
 | [stupid song](https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:29 | 2026-06-12 |  |
 | [Summertime Sadness](https://open.spotify.com/track/1Ist6PR2BZR3n2z2Y5R6S1) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 4:24 | 2025-12-11 |  |

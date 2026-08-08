@@ -4,7 +4,7 @@
 
 > From heartfelt ballads to mellow beats, this playlist is all about love, chill and relaxation\. Chill vibes \| Romantic dinner 2026 \| Romantische Muziek ❤️ Harry Styles, Bruno Mars, Beyoncé, SZA, Adele, Usher, Alicia Keys, Michael Jackson, John Mayer, John Legend, Rihanna, Ed Sheeran and more.
 
-401 songs - 1 day 0 hr 44 min
+403 songs - 1 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Alcohol](https://open.spotify.com/track/7knB6NUQFwmKEBroRiLsQ1) | [Kerr Mercer](https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x) | [Alcohol](https://open.spotify.com/album/0hYcs0BNcfioP8zWglC9zt) | 3:19 | 2025-12-01 | 2026-01-24 |
 | [Alibi](https://open.spotify.com/track/1aLTu59n1Wix22Wwbr1BdE) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Alibi](https://open.spotify.com/album/1H4bbyylsgLeduoQrASeGr) | 3:33 | 2025-09-11 | 2026-01-21 |
 | [All I Ever Wanted](https://open.spotify.com/track/3p0M2TUGrPyt2vfojWpjLw) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 3:23 | 2022-05-27 | 2024-10-05 |
+| [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 | 2026-08-07 |  |
 | [All Night](https://open.spotify.com/track/7oAuqs6akGnPU3Tb00ZmyM) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 5:22 | 2025-08-27 |  |
 | [All Night Parking \(with Erroll Garner\) Interlude](https://open.spotify.com/track/496vIKS2INz840xZaKncvR) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 2:41 | 2022-05-27 | 2024-10-05 |
 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 | 2024-10-04 |  |
@@ -158,9 +159,10 @@
 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 | 2022-05-27 | 2026-02-14 |
 | [Hold On](https://open.spotify.com/track/19bvVIF88d0PkFp8PNqX3q) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Berry Street](https://open.spotify.com/album/73iqhOAp4BFEv6F4Hkp7uQ) | 3:51 | 2024-10-04 | 2025-01-31 |
 | [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 | 2025-06-13 | 2025-11-08 |
+| [Hollywood Sign](https://open.spotify.com/track/4VEDiZ3uZ4mnGHiJ0oYi1k) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Hollywood Sign](https://open.spotify.com/album/3HwKCIvbJEv5F2OyF0dxHF) | 4:01 | 2026-08-07 |  |
 | [Holy Blindfold](https://open.spotify.com/track/1f6D8lQmjEHSwhGXcTnZc9) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Holy Blindfold](https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9) | 2:50 | 2025-06-18 | 2025-10-11 |
 | [HOME](https://open.spotify.com/track/6CNQLgGqOSpXpzGtru1JHx) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [HOME](https://open.spotify.com/album/0EaAIP9mPmRm99Vfq7X34D) | 2:39 | 2025-10-10 | 2026-01-24 |
-| [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 | 2026-07-31 |  |
+| [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 | 2026-07-31 | 2026-08-08 |
 | [I Can't Fall in Love Without You](https://open.spotify.com/track/4VPXFi4vFTtS9wHe6oMQaT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 2:57 | 2024-10-04 |  |
 | [I Do](https://open.spotify.com/track/3hloQkKHL9wqfkt15VnSW6) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [I Do](https://open.spotify.com/album/1g8m9B1I0HHfvNCwYqGETM) | 2:46 | 2024-02-09 | 2024-10-05 |
 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/225xvV8r1yKMHErSWivnow) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Armageddon \- The Album](https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890) | 4:58 | 2026-02-09 |  |
@@ -388,7 +390,7 @@
 | [Weight](https://open.spotify.com/track/3li8bYr29vc2Md6QvKrmra) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Weight](https://open.spotify.com/album/378aYaLsxI1Dk1bb4RhbH6) | 3:11 | 2025-01-22 |  |
 | [Wereld Van Verschil](https://open.spotify.com/track/3qye1kEEHfjQljCByKlZid) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Aan \- 1](https://open.spotify.com/album/6bFepd2rcsRjtmlQMaram6) | 4:09 | 2024-10-04 | 2025-01-31 |
 | [What About Us](https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 4:29 | 2024-10-04 | 2025-01-24 |
-| [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2026-07-31 |  |
+| [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2026-07-31 | 2026-08-08 |
 | [When We Were Young](https://open.spotify.com/track/6O5TrlFWTYvznd9fMC0VvU) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 4:50 | 2025-02-12 |  |
 | [When You Think Of Me](https://open.spotify.com/track/7t99DAaOhydc0GoqkiqfEi) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [When You Think Of Me](https://open.spotify.com/album/3nQfozW8aZswzUSoJmMpZH) | 3:30 | 2022-09-23 | 2024-10-05 |
 | [Where Love Lives \- featured on the John Lewis Christmas advert 2025](https://open.spotify.com/track/3YX87TOZEcj8lap3OgYLv7) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Where Love Lives \(featured on the John Lewis Christmas advert 2025\)](https://open.spotify.com/album/6VBW2B0TgRMkdmPC6Frw68) | 3:02 | 2025-11-07 | 2026-01-23 |

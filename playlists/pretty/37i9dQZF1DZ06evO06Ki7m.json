@@ -1,12 +1,12 @@
 {
   "description": "This is Metro Boomin. The essential tracks, all in one playlist.",
-  "num_followers": 412097,
+  "num_followers": 412122,
   "original_name": "This Is Metro Boomin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAC3uOGhIO8R7YT3aVzw+8Y0",
+  "snapshot_id": "anPOgAAAAABeJM7QmGT/ak8rN70Lh1Mf",
   "tracks": [
     {
       "added_at": null,
@@ -895,6 +895,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perfect Timing",
+        "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/1xpXnpIpuvzpx9jz15baJF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
         "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 230240,
       "name": "Borrowed Love (feat. Swae Lee & WizKid)",
       "url": "https://open.spotify.com/track/0NA5xAtDra50d0Lfs2uvoh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perfect Timing",
-        "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/1xpXnpIpuvzpx9jz15baJF"
     },
     {
       "added_at": null,

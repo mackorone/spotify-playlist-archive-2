@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Qf2sXTjlH3HH30Ijo6AUp.md) - [plain]
 
 > Happy songs and good vibes! A real mood booster sure to make you smile and keep you feelin’ good 😊 😊 😊 Perfect for road trips and singing in the shower! A good playlist for pickme pop, feel good pop, and other positive music to boost your mood!
 
-[Topsify](https://open.spotify.com/user/topsify) - 466,707 likes - 100 songs - 5 hr 54 min
+[Topsify](https://open.spotify.com/user/topsify) - 466,650 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/6Qf2sXTjlH3HH30Ijo6AUp.md) - [plain]
 | 9 | [Home To Me](https://open.spotify.com/track/1mPyG0CnY5CyTwIl75xpc9) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Home To Me](https://open.spotify.com/album/7ejAy2uKe6rQ64iLxSxSvA) | 3:00 |
 | 10 | [Galway Girl](https://open.spotify.com/track/0afhq8XCExXpqazXczTSve) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 2:50 |
 | 11 | [Want For Nothing](https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8) | 2:47 |
-| 12 | [Love’s a Gun](https://open.spotify.com/track/7vqgKci5WfCnk0iUrNN9op) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Love’s a Gun](https://open.spotify.com/album/7tUhB6UQTg64z5xx34SdNy) | 2:59 |
-| 13 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
-| 14 | [Keeping Your Head Up](https://open.spotify.com/track/6lyjWvSUgYtX26zfrQ6gn8) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Beautiful Lies](https://open.spotify.com/album/5wNnopxjgSKVvHTIcBpV8Q) | 3:28 |
-| 15 | [PASSENGER](https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [PASSENGER](https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ) | 2:39 |
-| 16 | [Bring Your Love](https://open.spotify.com/track/4VozGoqMUNSIn4CT3T1y2c) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [CONFESSIONS II](https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ) | 3:42 |
+| 12 | [Need Your Love](https://open.spotify.com/track/6OfqavhjPgNg8oCtxJFcaM) | [JAYLER](https://open.spotify.com/artist/2cqlQm5f8HXjQ7LCMVsZ7f) | [Voices Unheard](https://open.spotify.com/album/048Da8fZU273Alslmxcfi9) | 3:20 |
+| 13 | [Love’s a Gun](https://open.spotify.com/track/7vqgKci5WfCnk0iUrNN9op) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Love’s a Gun](https://open.spotify.com/album/7tUhB6UQTg64z5xx34SdNy) | 2:59 |
+| 14 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 |
+| 15 | [Keeping Your Head Up](https://open.spotify.com/track/6lyjWvSUgYtX26zfrQ6gn8) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Beautiful Lies](https://open.spotify.com/album/5wNnopxjgSKVvHTIcBpV8Q) | 3:28 |
+| 16 | [PASSENGER](https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [PASSENGER](https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ) | 2:39 |
 | 17 | [Mr\. Know It All \- Piano Version](https://open.spotify.com/track/4ZFK9IkqfGMk2uL7yWW1hB) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All \(Piano Version\)](https://open.spotify.com/album/64gooiXSjTHEdtfu6cRwu9) | 3:42 |
 | 18 | [Hey There Trouble](https://open.spotify.com/track/4udscmFnGYXh4cA5ZJF0o5) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Hey There Trouble](https://open.spotify.com/album/4s2Z4loU0Ts0GMhxcRUdmI) | 2:34 |
 | 19 | [We Are Family \- Nico Zandolino Edit Mix](https://open.spotify.com/track/0Qn4ivBDFounEALOcRd2iu) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays), [Nico Zandolino](https://open.spotify.com/artist/68rOxEiTfz0UZMFzHQtVcZ) | [We Are Family \(Nico Zandolino Remix\)](https://open.spotify.com/album/4RH2omfqcbDFm4cBjRGc98) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/6Qf2sXTjlH3HH30Ijo6AUp.md) - [plain]
 | 99 | [Give Me the Night](https://open.spotify.com/track/62GYoGszQfROZswLee6W3O) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:42 |
 | 100 | [Hung Up \- Radio Version](https://open.spotify.com/track/03UAID5OeTwjDIKCM7M3rg) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Hung Up](https://open.spotify.com/album/1dmQel6nwsXe3lDJyL2EXQ) | 3:22 |
 
-Snapshot ID: `AAAJKuNpEOviEV1xgas9+OrN+jYJ6W9l`
+Snapshot ID: `AAAJLHJxuxb6ThLIflertW2kCgWie0ap`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Ana Mena, Lola Indigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 999,784 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 999,724 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 49 | [TIRAMISÚ](https://open.spotify.com/track/2D1DYCgKAlsKSqSBafXZ5q) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [TIRAMISÚ](https://open.spotify.com/album/5VPc2RUHrRAJAikiworXO4) | 3:00 |
 | 50 | [principiante](https://open.spotify.com/track/6JZskcFRPDRpr5GtPzVFnM) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [principiante](https://open.spotify.com/album/0m1OmMPIP05QafSJghgQZU) | 3:25 |
 
-Snapshot ID: `AAAAAEA5bMQPIYMDlDSPRfuQF1K/Pxda`
+Snapshot ID: `AAAAAKc77EugKDl9K+WBLSrfBKMmYw5W`

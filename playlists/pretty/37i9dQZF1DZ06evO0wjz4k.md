@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wjz4k.md) - [plain]
 
 > This is Parker McCollum\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,044 likes - 49 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,062 likes - 49 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Handle On You](https://open.spotify.com/track/4reXo2zg1uhEIpUAacDb9C) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:39 |
 | 2 | [What Kinda Man](https://open.spotify.com/track/2uH74oFgwuk5x0DlD3EFJ1) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum](https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA) | 4:19 |
 | 3 | [Pretty Heart](https://open.spotify.com/track/7nINhyXn6uwUkYLY5KQH0K) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy](https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu) | 4:05 |
-| 4 | [Hell of a Year](https://open.spotify.com/track/0kz85nFVQ3JzZo0CRG5SQc) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci) | 3:52 |
+| 4 | [Young Man's Blues](https://open.spotify.com/track/6ywiHcxaHBR39gRhud37XK) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Young Man's Blues](https://open.spotify.com/album/5ix6PvaO7elQgjgLsxcb0j) | 3:26 |
 | 5 | [Burn It Down](https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:53 |
 | 6 | [Killin’ Me](https://open.spotify.com/track/2IRSpYsVphI0rZz93eqjrL) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum](https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA) | 3:17 |
-| 7 | [Young Man's Blues](https://open.spotify.com/track/6ywiHcxaHBR39gRhud37XK) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Young Man's Blues](https://open.spotify.com/album/5ix6PvaO7elQgjgLsxcb0j) | 3:26 |
+| 7 | [Hell of a Year](https://open.spotify.com/track/0kz85nFVQ3JzZo0CRG5SQc) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci) | 3:52 |
 | 8 | [To Be Loved By You](https://open.spotify.com/track/2pUQX4d3Cjh3umGkVz0XyI) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy](https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu) | 3:19 |
-| 9 | [I Can't Breathe](https://open.spotify.com/track/02ZvAl0VJLTMa4cfvjtCwB) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci) | 4:17 |
+| 9 | [Love \(feat\. Parker McCollum\)](https://open.spotify.com/track/12n0Z1dIlqXZYXx43MSHoG) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 3:43 |
 | 10 | [Solid Country Gold](https://open.spotify.com/track/7f0FidagqvvapT7TeaWfuP) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum](https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA) | 3:28 |
-| 11 | [Love \(feat\. Parker McCollum\)](https://open.spotify.com/track/12n0Z1dIlqXZYXx43MSHoG) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 3:43 |
+| 11 | [I Can't Breathe](https://open.spotify.com/track/02ZvAl0VJLTMa4cfvjtCwB) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci) | 4:17 |
 | 12 | [Meet You in the Middle](https://open.spotify.com/track/392YwrshH8yjvHKvNyChD5) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P) | 3:30 |
 | 13 | [Why Indiana](https://open.spotify.com/track/4mwK3s8SpzlDH5eR7GacQc) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy](https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu) | 3:31 |
 | 14 | [Big Sky](https://open.spotify.com/track/5mubTVM26njGEWxNd5J2Sp) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum](https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA) | 2:47 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wjz4k.md) - [plain]
 | 37 | [Santa Fe](https://open.spotify.com/track/12AEBgTTELBhtAthd5dRqH) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Postcards From Texas](https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK) | 3:03 |
 | 38 | [Galveston Bay](https://open.spotify.com/track/7a2hpT1sCwzcRyLl5pCTUI) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P) | 4:06 |
 | 39 | [Learn to Fly](https://open.spotify.com/track/0B2kWR9V7Z4JZOtXgWG8Qr) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci) | 3:30 |
-| 40 | [Hallie Ray Light](https://open.spotify.com/track/3jSe4YNN2wloL5eI6j1yty) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Hollywood Gold](https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4) | 3:41 |
-| 41 | [Paper Umbrellas](https://open.spotify.com/track/52MQYkbFuv9UzA8wz927xO) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Paper Umbrellas](https://open.spotify.com/album/1alHcx2t1SKjGgF4P9Q0pz) | 3:29 |
+| 40 | [Paper Umbrellas](https://open.spotify.com/track/52MQYkbFuv9UzA8wz927xO) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Paper Umbrellas](https://open.spotify.com/album/1alHcx2t1SKjGgF4P9Q0pz) | 3:29 |
+| 41 | [Hallie Ray Light](https://open.spotify.com/track/3jSe4YNN2wloL5eI6j1yty) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Hollywood Gold](https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4) | 3:41 |
 | 42 | [All Day](https://open.spotify.com/track/3RA49JwahNc3mWkvnpnHjX) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P) | 3:46 |
 | 43 | [South of the City Lights](https://open.spotify.com/track/1zf5HO14cdCxaCNXlhwvbV) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci) | 4:13 |
 | 44 | [The One Before The One](https://open.spotify.com/track/4q0xcRhjaHS2xdOzyj1OnF) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum \(The Deluxe Edition\)](https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql) | 3:40 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wjz4k.md) - [plain]
 | 48 | [Wind My Friend](https://open.spotify.com/track/0ZEvHwX30aXeG4mSp1Hm7b) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum \(The Deluxe Edition\)](https://open.spotify.com/album/4WISa1TyvE8My12P4ie0Ql) | 4:17 |
 | 49 | [Shallow](https://open.spotify.com/track/5faEa8OZmHnxRbBAYC2gWZ) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [In Between: The Collection](https://open.spotify.com/album/3h2bg4Jw8gdCgrdtIXtLFz) | 3:27 |
 
-Snapshot ID: `anJ9AAAAAAC3bIOq5whBWQu7Mmrnb/3I`
+Snapshot ID: `anPOgAAAAADqDHepINAGG92NC8tbJTNK`

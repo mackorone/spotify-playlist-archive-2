@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 
 > The cool sound of Cool Jazz\. Cover: Paul Desmond
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,255 likes - 75 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,297 likes - 75 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 5 | [Line For Lyons](https://open.spotify.com/track/0GUUhTWMylAx5pHDI42t1V) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Paul Desmond Quartet](https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc) | [Gerry Mulligan \- Paul Desmond Quartet / Blues In Time \(Expanded Edition\)](https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy) | 3:08 |
 | 6 | [Freddie Freeloader \(feat\. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers\)](https://open.spotify.com/track/2x91iJc0UkFcjRMEZ2CoWB) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 9:46 |
 | 7 | [For All We Know](https://open.spotify.com/track/4bt0QV5XmTnW3GIH7TkTN7) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [First Place Again](https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT) | 5:31 |
-| 8 | [Louise](https://open.spotify.com/track/4z1E9GltZHciLum0ybby9h) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Hamp & Getz](https://open.spotify.com/album/7oa9WZyBnEHR8o0vjRWI7o) | 6:47 |
-| 9 | [On Green Dolphin Street](https://open.spotify.com/track/7LjmOCCTbi0sIofmYzo9vK) | [Vince Guaraldi](https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV) | [In Person](https://open.spotify.com/album/3aq7Ksf1WJgawkDn362L07) | 5:53 |
+| 8 | [On Green Dolphin Street](https://open.spotify.com/track/7LjmOCCTbi0sIofmYzo9vK) | [Vince Guaraldi](https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV) | [In Person](https://open.spotify.com/album/3aq7Ksf1WJgawkDn362L07) | 5:53 |
+| 9 | [Louise](https://open.spotify.com/track/4z1E9GltZHciLum0ybby9h) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Hamp & Getz](https://open.spotify.com/album/7oa9WZyBnEHR8o0vjRWI7o) | 6:47 |
 | 10 | [Come Rain Or Come Shine \(Take 5\)](https://open.spotify.com/track/13KYyenapQ2RMEGBJuRkUa) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Scott LaFaro](https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Portrait In Jazz \[Keepnews Collection\]](https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi) | 3:24 |
 | 11 | [All Blues \(feat\. John Coltrane, Cannonball Adderley & Bill Evans\)](https://open.spotify.com/track/5o3DSHw1ORhM3lWxqGRvEf) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 11:32 |
 | 12 | [Foolin' Myself](https://open.spotify.com/track/1M0bEJicvT2qmdJej9wjyk) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Motion](https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU) | 6:57 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 20 | [Nancy](https://open.spotify.com/track/4RbdHV0AcJa8pOPFI7jd2g) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Take Ten](https://open.spotify.com/album/5QGF8v9Qxf021ctF5MqZ7i) | 6:06 |
 | 21 | [Jeru](https://open.spotify.com/track/7o3lr6ptQ4qAP4uUl81zG1) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Birth Of The Cool](https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf) | 3:13 |
 | 22 | [Makin' Whoopee](https://open.spotify.com/track/4HNb3OWOv70aNdKbfDi8BY) | [George Shearing Trio](https://open.spotify.com/artist/6o67W9DYNT2hhkJDB97YsT) | [Jazz Moments](https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK) | 4:00 |
-| 23 | [Topsy](https://open.spotify.com/track/6NjhIcleyiyUmkuLcNhVek) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Lee Konitz with Warne Marsh](https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c) | 5:24 |
-| 24 | [I'm Glad There Is You \- Remaster/2004](https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sextet](https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u) | 3:14 |
+| 23 | [I'm Glad There Is You \- Remaster/2004](https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sextet](https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u) | 3:14 |
+| 24 | [Topsy](https://open.spotify.com/track/6NjhIcleyiyUmkuLcNhVek) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Lee Konitz with Warne Marsh](https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c) | 5:24 |
 | 25 | [All the Things You Are](https://open.spotify.com/track/5pFtpo6JemD4c08m8uEwk2) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Two Of A Mind](https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn) | 5:51 |
 | 26 | [Sweet Rain](https://open.spotify.com/track/41eYXWD5m7gFfDBD1hKLyn) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Sweet Rain](https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip) | 7:09 |
 | 27 | [Rising Sun](https://open.spotify.com/track/4nYxNjXiOCl1QzjSu9H9ip) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Jazz Impressions Of Japan](https://open.spotify.com/album/1Rb6B6oexFpWWfGoclK4bX) | 4:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 74 | [Miles Ahead](https://open.spotify.com/track/43QzmxhO9uwi60JhYmr9ox) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Ahead \(Expanded Edition\)](https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9) | 3:29 |
 | 75 | [Deception](https://open.spotify.com/track/6Tq8Fj8jZQIO24XhXV5Dno) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Birth Of The Cool](https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf) | 2:48 |
 
-Snapshot ID: `AAAAAHlw3WE/a3LsgBU4pvmV5UNov4CN`
+Snapshot ID: `AAAAALtTPphV6dUa2+sE3LJX4DG4HB1l`

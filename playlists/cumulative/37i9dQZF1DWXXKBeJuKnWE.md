@@ -4,7 +4,7 @@
 
 > The sound of the underground\. Cover: Northlane
 
-826 songs - 2 day 1 hr 30 min
+828 songs - 2 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [1x1](https://open.spotify.com/track/1I85hmQ802nxEF0OAoUZxN) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [1x1](https://open.spotify.com/album/7s5Wf966z06OIL7WTLEwts) | 3:56 | 2026-03-13 |  |
 | [70% Dead \(with Corey Taylor\)](https://open.spotify.com/track/4gFhDuhoCailJyDV99V0Ww) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [70% Dead](https://open.spotify.com/album/1wmcwUhzuxcM56xaBqd0dC) | 3:42 | 2024-07-11 | 2025-09-12 |
 | [a bulleT w/ my namE On \(feat\. Underoath\)](https://open.spotify.com/track/2tWhiQJQSTa5WE3eiByOf1) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:20 | 2024-05-23 | 2025-10-24 |
+| [A Dead Language for a Dying Lady](https://open.spotify.com/track/4WAFtkCvX6S76MF886qsTT) | [Vanna](https://open.spotify.com/artist/7cXUCar1BPOeMI2qza9oa1) | [A Dead Language for a Dying Lady](https://open.spotify.com/album/656Mcmqfpkqd2PWAQSQk0X) | 4:12 | 2026-08-07 |  |
 | [A Different Shade Of Misery](https://open.spotify.com/track/3DwTUh6jG71oZC2j6wyIOq) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [A Different Shade Of Misery](https://open.spotify.com/album/0EUw8C9ILegKHE3AzgmLID) | 3:38 | 2024-01-12 | 2024-04-20 |
 | [A Good Day](https://open.spotify.com/track/5gq34LCZc9cFd8G9dozu1N) | [Voodoo Bloo](https://open.spotify.com/artist/7KvGcDcUQV7YpyuQHaW5IO) | [Dead\-end Rodeo](https://open.spotify.com/album/4q7uK6eP7CXcfH96FqBiVD) | 3:20 | 2024-09-20 | 2025-09-12 |
 | [A Kiss for the Whole World x](https://open.spotify.com/track/1LAuVHMWdVkdbNmSVXWw2K) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [A Kiss for the Whole World](https://open.spotify.com/album/5bTSXCOLlIH6gsOvuI3PCI) | 3:31 | 2023-04-21 | 2023-12-01 |
@@ -323,6 +324,7 @@
 | [Greedy Bastards](https://open.spotify.com/track/4tB3o3rTYsBTd3283dKNYg) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Greedy Bastards](https://open.spotify.com/album/320YsD7ccYfPwARI17GgMw) | 4:12 | 2023-02-03 | 2024-01-12 |
 | [grin & bear it](https://open.spotify.com/track/1zAtgmYmIzqVW9tEsUymkB) | [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [grin & bear it](https://open.spotify.com/album/1jQ5ZRxtDbZxkf9EqZSr1K) | 3:17 | 2026-06-08 | 2026-07-17 |
 | [Ground Zero](https://open.spotify.com/track/04xV6DzDzE7TgWQKBGaC5E) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 4:09 | 2022-11-10 | 2023-07-26 |
+| [Growing Different Limbs](https://open.spotify.com/track/2Kh9Wt5b0rMjTfX0JSARGA) | [Lady Radiator](https://open.spotify.com/artist/5U2FH1VnxiZYbLcUVWGrov), [Donovan Melero](https://open.spotify.com/artist/6Q3ralMRVqEqQKwnML65w4), [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [Growing Different Limbs](https://open.spotify.com/album/7i41p72B1O46TVAit3eZB0) | 3:20 | 2026-08-07 |  |
 | [Guilty \(feat\. DL of Bad Wolves\)](https://open.spotify.com/track/2VIRo7fNsyarvqzwDgT78d) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Guilty \(feat\. DL of Bad Wolves\)](https://open.spotify.com/album/4w56LBKWG6lAa5BQg7BUyE) | 2:59 | 2024-06-28 | 2025-09-12 |
 | [GUNGHO](https://open.spotify.com/track/4ue8srSrurnk8sLJb7GjaO) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [GUNGHO](https://open.spotify.com/album/7hMKX3HhA1ORsRL0tiGziZ) | 3:35 | 2024-10-04 | 2025-09-12 |
 | [GUTSY](https://open.spotify.com/track/2oK6zOlRBu3zYqS62LLc0i) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [GUTSY](https://open.spotify.com/album/1cSEktYGDM94FlEfAKNOiZ) | 4:41 | 2025-06-06 | 2026-03-21 |
@@ -565,7 +567,7 @@
 | [Punks And Demons](https://open.spotify.com/track/3aK2ctwWDXDMZCNGEKwcKg) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Punks And Demons](https://open.spotify.com/album/7bV9YJBYC6BAVkyzDA9gFP) | 2:37 | 2025-10-10 | 2026-04-04 |
 | [Puppet Parade](https://open.spotify.com/track/1wK0EaN9EAuSNSp3uB3rgs) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Puppet Parade](https://open.spotify.com/album/4c2I5KEpliGFpP3YGY2jMq) | 4:40 | 2026-01-23 | 2026-06-09 |
 | [Pure Ecstasy](https://open.spotify.com/track/3IoUXFzfbzbi1XIfosP0AP) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Pure Ecstasy](https://open.spotify.com/album/7LaRPSnFbhbbDVAPf6ewX3) | 3:05 | 2026-05-15 |  |
-| [PUT A HIT ON](https://open.spotify.com/track/3jjb8fZTroUsroISbstlkK) | [MUTTLEE](https://open.spotify.com/artist/0bAnN5tpvVWIGm8UDNhX9L) | [PUT A HIT ON](https://open.spotify.com/album/7MiPScbsDhy7lG4iwyita2) | 2:54 | 2026-04-30 |  |
+| [PUT A HIT ON](https://open.spotify.com/track/3jjb8fZTroUsroISbstlkK) | [MUTTLEE](https://open.spotify.com/artist/0bAnN5tpvVWIGm8UDNhX9L) | [PUT A HIT ON](https://open.spotify.com/album/7MiPScbsDhy7lG4iwyita2) | 2:54 | 2026-04-30 | 2026-08-08 |
 | [Pynch](https://open.spotify.com/track/4359J1fh99ckEMTzApV5pE) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Pynch](https://open.spotify.com/album/0x4t7PC63dP513jBiZFIHU) | 2:42 | 2026-03-13 | 2026-07-15 |
 | [QUIT!!](https://open.spotify.com/track/6GIXiA6ERSW78r9Vz0ps5n) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [QUIT!!](https://open.spotify.com/album/2bnrdd634hDSjoqbOSmNqm) | 2:46 | 2024-01-12 | 2024-04-20 |
 | [QWERTY](https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Papercuts](https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl) | 3:21 | 2024-04-11 | 2025-09-12 |

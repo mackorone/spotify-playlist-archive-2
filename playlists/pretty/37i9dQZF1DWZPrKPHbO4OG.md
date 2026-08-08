@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,605 likes - 43 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,622 likes - 43 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 12 | [Zingaat](https://open.spotify.com/track/1Mi5Q2PMz4euXqJ3IwdFfX) | [Atul Gogavale](https://open.spotify.com/artist/2muHoS1rv7HcYG5hqW0Zob), [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Ajay Gogavale Marathi Hits](https://open.spotify.com/album/1yyZeTlOf1fPF188RD1oHV) | 3:46 |
 | 13 | [Shitti Wajali Gaadi Sutali](https://open.spotify.com/track/44FmJZhQSghzLkKd2E5kMy) | [Anand Shinde](https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd), [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock) | [Rege \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0i1f1m6uGlS7LoL2WtOCEP) | 5:07 |
 | 14 | [Hey Pavlaay](https://open.spotify.com/track/35LJQhz82wUfSztjpHV4ss) | [Preet Bandre](https://open.spotify.com/artist/53vx7sCjX8Ll1I0H59ZDr2), [Dhruvan Moorthy](https://open.spotify.com/artist/3psleO4ViEBEsBsLHNF1Iu) | [Hey Pavlaay](https://open.spotify.com/album/3sgeiiKEmNqOW2A5uphB4P) | 1:53 |
-| 15 | [Govyachya Kinaryav](https://open.spotify.com/track/188jpJestqxy1d8FOQcKJh) | [Shubhangii Kedar](https://open.spotify.com/artist/5egpRukgysKxUuzH5Iu1ae), [Pravin Koli](https://open.spotify.com/artist/71ZOF43Lf5580E60QVpKhU), [Rajneesh Patel](https://open.spotify.com/artist/7gHsj2gGmvax84ZrO66PBF) | [Govyachya Kinaryav](https://open.spotify.com/album/0U5aoS77dw5YsgwZR6avZv) | 3:34 |
-| 16 | [Angaat Aalaya](https://open.spotify.com/track/3CdyqQCvlKJLVr9II5XIDT) | [Rohan Pradhan](https://open.spotify.com/artist/5OvvUIcEWpnKuP0F3HoRce), [Rohan Rohan](https://open.spotify.com/artist/6wnx3CHIWmuaOWubIXn6UE) | [Angaat Aalaya \- Zombivli](https://open.spotify.com/album/5GJgMooWCCoTVFJ4TOyIkx) | 3:46 |
+| 15 | [Angaat Aalaya](https://open.spotify.com/track/3CdyqQCvlKJLVr9II5XIDT) | [Rohan Pradhan](https://open.spotify.com/artist/5OvvUIcEWpnKuP0F3HoRce), [Rohan Rohan](https://open.spotify.com/artist/6wnx3CHIWmuaOWubIXn6UE) | [Angaat Aalaya \- Zombivli](https://open.spotify.com/album/5GJgMooWCCoTVFJ4TOyIkx) | 3:46 |
+| 16 | [Govyachya Kinaryav](https://open.spotify.com/track/188jpJestqxy1d8FOQcKJh) | [Shubhangii Kedar](https://open.spotify.com/artist/5egpRukgysKxUuzH5Iu1ae), [Pravin Koli](https://open.spotify.com/artist/71ZOF43Lf5580E60QVpKhU), [Rajneesh Patel](https://open.spotify.com/artist/7gHsj2gGmvax84ZrO66PBF) | [Govyachya Kinaryav](https://open.spotify.com/album/0U5aoS77dw5YsgwZR6avZv) | 3:34 |
 | 17 | [Koliwada Jhingla](https://open.spotify.com/track/3lhpuZdgqKdcX0WocldP8e) | [Siddhi Ture](https://open.spotify.com/artist/5wesFSpvU7ZDe0pnXFziA1) | [Koliwada Jhingla](https://open.spotify.com/album/6MApVLobvbC1PzRIVkouUo) | 3:47 |
 | 18 | [Numberkari](https://open.spotify.com/track/2RBSlozluCiLoguWs977VK) | [MC GAWTHI](https://open.spotify.com/artist/24lSXXXZU1qaunmruSh3gC), [Vivekraja](https://open.spotify.com/artist/4nfWtubtm5hcq13C2BPsiH), [Shubham Koli](https://open.spotify.com/artist/5xBDWJtq8jwXKdUtFBT2rm), [ANDHADHUN](https://open.spotify.com/artist/46rGkvDphL2WSndHXjUpmC) | [Numberkari](https://open.spotify.com/album/2ajYzVGA7PC5TpZQfpSVsB) | 3:36 |
 | 19 | [Once More Laav](https://open.spotify.com/track/0hBCD8MaqZhHij5VnbFjTB) | [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3) | [Once More Laav](https://open.spotify.com/album/6QjpZdG3TjiDpLoG2RIYdP) | 2:57 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 42 | [Punyachi Maina](https://open.spotify.com/track/2BE79QOSOlZm8VvgzXAS9x) | [Dj Abhijeet](https://open.spotify.com/artist/0bYa83XUHjzRzRiQwyLgoH) | [Punyachi Maina](https://open.spotify.com/album/2e5dU4YpgiWFRtNT4c3x3i) | 1:36 |
 | 43 | [Payee Fufata](https://open.spotify.com/track/5mEzEj8EyeWuPOrIpVkMkt) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Lagan](https://open.spotify.com/album/5OA5DqcolSFRMtaC57179R) | 4:06 |
 
-Snapshot ID: `AAAAAF2+4sLcjX8Rl+DjzvAJNWdTBW2n`
+Snapshot ID: `AAAAAJ61J7QbjHE/KNp11hYZvPNAwmul`

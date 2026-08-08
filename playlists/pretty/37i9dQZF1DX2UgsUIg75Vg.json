@@ -1,13 +1,29 @@
 {
-  "description": "Chill r&b. Cover: Jacquees",
-  "num_followers": 2365277,
+  "description": "Chill r&b. Cover: FLO",
+  "num_followers": 2365266,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFTl3OyVmzHfF59L5FZ1aK+nZ0+d",
+  "snapshot_id": "AAAAACb1wdf7BbnWIpBvV1xcMpF76R0x",
   "tracks": [
+    {
+      "added_at": "2026-08-07 04:02:07",
+      "album": {
+        "name": "THERAPY AT THE CLUB",
+        "url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/2mSdn53xu9DuJ7RBY8efTn"
+    },
     {
       "added_at": "2026-07-31 06:18:01",
       "album": {
@@ -39,6 +55,22 @@
       "duration_ms": 174282,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM"
+    },
+    {
+      "added_at": "2026-08-07 04:02:07",
+      "album": {
+        "name": "Icon (Director's Cut)",
+        "url": "https://open.spotify.com/album/6HDOmDgxzVWIhBAKDGI4tV"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 200610,
+      "name": "like it was. [bonus track]",
+      "url": "https://open.spotify.com/track/2UgTHKJFCYqQ7CGmmslDeC"
     },
     {
       "added_at": "2026-06-26 07:26:59",
@@ -105,6 +137,22 @@
       "url": "https://open.spotify.com/track/1LseKUjL7AAgkZv7IjEBYk"
     },
     {
+      "added_at": "2026-08-07 16:16:15",
+      "album": {
+        "name": "MORNING DEW (DONK)",
+        "url": "https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 243896,
+      "name": "MORNING DEW (DONK)",
+      "url": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT"
+    },
+    {
       "added_at": "2026-07-31 06:18:01",
       "album": {
         "name": "LVRS PARADISE (SIDE B)",
@@ -123,6 +171,22 @@
       "duration_ms": 226285,
       "name": "HONEYBUTTER",
       "url": "https://open.spotify.com/track/3wXnSQo1tiVjFo8iul55pU"
+    },
+    {
+      "added_at": "2026-08-07 04:02:07",
+      "album": {
+        "name": "Catch n' Release",
+        "url": "https://open.spotify.com/album/7xyEdU4cfiwBoiNu6GvIEJ"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 167287,
+      "name": "Red Wine Holiday",
+      "url": "https://open.spotify.com/track/7xRM7xmbUsTROH08OoxsEs"
     },
     {
       "added_at": "2026-06-05 04:01:35",
@@ -155,6 +219,26 @@
       "duration_ms": 168837,
       "name": "Parking Lot",
       "url": "https://open.spotify.com/track/12mCbpKjekdI0eFiOHtxsx"
+    },
+    {
+      "added_at": "2026-08-07 04:02:07",
+      "album": {
+        "name": "DO YOU SEE ME?",
+        "url": "https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        },
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "duration_ms": 202136,
+      "name": "drive me off the wall (feat. Deb Never)",
+      "url": "https://open.spotify.com/track/6B8TMH1kpOFNv6SbGav2F0"
     },
     {
       "added_at": "2026-05-22 04:01:53",
@@ -193,20 +277,24 @@
       "url": "https://open.spotify.com/track/21tv8Xg7cKJmyDE124jRDv"
     },
     {
-      "added_at": "2026-06-29 00:00:48",
+      "added_at": "2026-08-07 04:02:07",
       "album": {
-        "name": "and all pride aside",
-        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+        "name": "Blue Island",
+        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
       },
       "artists": [
         {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 181091,
-      "name": "good girl",
-      "url": "https://open.spotify.com/track/4dYhse0clrMQgMrCHyCnwR"
+      "duration_ms": 223066,
+      "name": "Babygirl (feat. Doechii)",
+      "url": "https://open.spotify.com/track/7b1ue9M7mNskt86uE3TlN7"
     },
     {
       "added_at": "2026-07-17 04:02:08",
@@ -227,6 +315,22 @@
       "duration_ms": 269028,
       "name": "Any Time (feat. James Fauntleroy)",
       "url": "https://open.spotify.com/track/4EL8dNMLnagahYfgmodPk8"
+    },
+    {
+      "added_at": "2026-06-29 00:00:48",
+      "album": {
+        "name": "and all pride aside",
+        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 181091,
+      "name": "good girl",
+      "url": "https://open.spotify.com/track/4dYhse0clrMQgMrCHyCnwR"
     },
     {
       "added_at": "2026-07-24 06:54:12",
@@ -2805,26 +2909,6 @@
       "url": "https://open.spotify.com/track/5TmpaPaxP6DjvoGyets9sO"
     },
     {
-      "added_at": "2026-03-06 05:40:26",
-      "album": {
-        "name": "NEVER BE THE SAME",
-        "url": "https://open.spotify.com/album/3X5Z1evpkUJM8c24N6SDZk"
-      },
-      "artists": [
-        {
-          "name": "THEHONESTGUY",
-          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
-        },
-        {
-          "name": "Lizzie Berchie",
-          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
-        }
-      ],
-      "duration_ms": 172376,
-      "name": "NEVER BE THE SAME",
-      "url": "https://open.spotify.com/track/1bFObYeRf8zfPOh4IJqrYf"
-    },
-    {
       "added_at": "2025-07-25 08:19:27",
       "album": {
         "name": "Make It Right",
@@ -3557,42 +3641,6 @@
       "url": "https://open.spotify.com/track/1Q3UUPU4Pl4zVsmIDsQxDU"
     },
     {
-      "added_at": "2025-12-19 05:00:40",
-      "album": {
-        "name": "everything is a lot.",
-        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 229112,
-      "name": "Watching Us (with Leon Thomas)",
-      "url": "https://open.spotify.com/track/1MWJ3pny2L1eiZTAYTaYwJ"
-    },
-    {
-      "added_at": "2025-08-15 06:14:03",
-      "album": {
-        "name": "TREAT ME",
-        "url": "https://open.spotify.com/album/3t75ftuVsjFiUMxcCC3N1X"
-      },
-      "artists": [
-        {
-          "name": "Kenji",
-          "url": "https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu"
-        }
-      ],
-      "duration_ms": 131200,
-      "name": "TREAT ME",
-      "url": "https://open.spotify.com/track/1OzE3r605HVqgqwRi4nYYl"
-    },
-    {
       "added_at": "2026-01-09 06:03:04",
       "album": {
         "name": "History",
@@ -3715,22 +3763,6 @@
       "duration_ms": 181374,
       "name": "LYIN (feat. TA Thomas)",
       "url": "https://open.spotify.com/track/317VQsXiqvzQjUp9DDuIAh"
-    },
-    {
-      "added_at": "2025-11-07 08:28:10",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/2Ynkoi95E99DiAiSoXp2bG"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        }
-      ],
-      "duration_ms": 188225,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6Q7w55fGJRW51X9En2A0wS"
     },
     {
       "added_at": "2025-11-14 13:05:32",
@@ -3961,26 +3993,6 @@
       "url": "https://open.spotify.com/track/27gZsW3sKb8IXZrqEya0HX"
     },
     {
-      "added_at": "2025-10-10 08:45:03",
-      "album": {
-        "name": "WONDERLOVE +",
-        "url": "https://open.spotify.com/album/2T9YYatIZcgwuXx8BYpISd"
-      },
-      "artists": [
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 206222,
-      "name": "i'm ready (feat. Odeal)",
-      "url": "https://open.spotify.com/track/6E8TyGYNEu1Y5vns35uyHa"
-    },
-    {
       "added_at": "2025-09-05 04:33:13",
       "album": {
         "name": "HEARTS SOLD SEPARATELY",
@@ -4103,26 +4115,6 @@
       "duration_ms": 157992,
       "name": "I Need Her",
       "url": "https://open.spotify.com/track/6g8YoqKjS1OqW0MXo1DyeL"
-    },
-    {
-      "added_at": "2025-10-10 08:45:03",
-      "album": {
-        "name": "Can't Explain It (with Girlfriend)",
-        "url": "https://open.spotify.com/album/1rAGncOnfUWIcU8RUCKxMZ"
-      },
-      "artists": [
-        {
-          "name": "Jermain Reese Jr.",
-          "url": "https://open.spotify.com/artist/3qcuLIoSn9oRiqljDxvx2T"
-        },
-        {
-          "name": "Girlfriend",
-          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "Can't Explain It (with Girlfriend)",
-      "url": "https://open.spotify.com/track/6Cb7FCGm6Gatt4vhpJsynC"
     },
     {
       "added_at": "2025-10-03 04:00:53",

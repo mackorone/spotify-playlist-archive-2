@@ -2948,7 +2948,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 195402,
       "name": "GO",
       "url": "https://open.spotify.com/track/0mYa3o6tlUN5HRippmKmwH"
@@ -6940,7 +6940,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -7797,6 +7797,28 @@
     },
     {
       "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220600,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF"
+    },
+    {
+      "album": {
         "name": "are you mad at me?",
         "url": "https://open.spotify.com/album/3YyOwxYRBrWdfDqBtps1RL"
       },
@@ -8434,6 +8456,24 @@
       "duration_ms": 217783,
       "name": "These Walls",
       "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
+    },
+    {
+      "album": {
+        "name": "THIS & THAT",
+        "url": "https://open.spotify.com/album/46TYlDjLrEsOLFgxfxNiUy"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "This & That",
+      "url": "https://open.spotify.com/track/7AN7dJCtHqbL7f76QGyraa"
     },
     {
       "album": {

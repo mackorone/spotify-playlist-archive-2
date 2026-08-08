@@ -16107,6 +16107,32 @@
     },
     {
       "album": {
+        "name": "Seu Amor Fui Eu",
+        "url": "https://open.spotify.com/album/1wkoBHc0l6p5nfOl85NDhd"
+      },
+      "artists": [
+        {
+          "name": "GALV\u00c3O",
+          "url": "https://open.spotify.com/artist/0X1Ete1bGqWYxmLVHXLRCF"
+        },
+        {
+          "name": "PC",
+          "url": "https://open.spotify.com/artist/3w9PLS0EdBeRhRKzuQ4r2r"
+        },
+        {
+          "name": "ONNiKA",
+          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200519,
+      "name": "Seu Amor Fui Eu",
+      "url": "https://open.spotify.com/track/4J2VnJF9HbGNF53JxttiuK"
+    },
+    {
+      "album": {
         "name": "Malandra",
         "url": "https://open.spotify.com/album/5APTetqYb3l1xIUDLtOBfY"
       },

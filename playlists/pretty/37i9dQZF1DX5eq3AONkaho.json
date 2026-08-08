@@ -1,12 +1,12 @@
 {
   "description": "Why so serious? Get through your workday with K-Pop. (\ub0b4\uc801\ub304\uc2a4 \uc720\ubc1c \ub178\ub3d9\uc694\uc640 \ud568\uaed8 \uc2e0\ub098\ub294 \uc5c5\ubb34 & \uacf5\ubd80\uc2dc\uac04\uc744 \ubcf4\ub0b4\uc138\uc694!)",
-  "num_followers": 121434,
+  "num_followers": 121448,
   "original_name": "Workday K-Pop (\ub0b4\uc801\ub304\uc2a4 \uc5c5\ubb34/\uacf5\ubd80)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIiri+3N9VBrIbR6qJPb+aATtNuI",
+  "snapshot_id": "AAAAACUOXjLjxtpQUg4Wzy8FzEvSmO39",
   "tracks": [
     {
       "added_at": "2026-07-10 09:57:29",
@@ -287,38 +287,6 @@
     {
       "added_at": "2026-07-10 09:57:29",
       "album": {
-        "name": "'PUREFLOW', Pt. 1",
-        "url": "https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 176546,
-      "name": "BOOMPALA",
-      "url": "https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz"
-    },
-    {
-      "added_at": "2026-07-10 09:57:29",
-      "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 159007,
-      "name": "SWIM",
-      "url": "https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St"
-    },
-    {
-      "added_at": "2026-07-10 09:57:29",
-      "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
@@ -347,6 +315,38 @@
       "duration_ms": 176059,
       "name": "How It\u2019s Done",
       "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
+    },
+    {
+      "added_at": "2026-07-10 09:57:29",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 159007,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St"
+    },
+    {
+      "added_at": "2026-07-10 09:57:29",
+      "album": {
+        "name": "'PUREFLOW', Pt. 1",
+        "url": "https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 176546,
+      "name": "BOOMPALA",
+      "url": "https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz"
     },
     {
       "added_at": "2026-07-10 09:57:29",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-07-10 09:57:29",
       "album": {
-        "name": "BORDER : CARNIVAL",
-        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 193260,
-      "name": "Drunk-Dazed",
-      "url": "https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4"
-    },
-    {
-      "added_at": "2026-07-10 09:57:29",
-      "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 184400,
       "name": "Seven (feat. Latto)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
+    },
+    {
+      "added_at": "2026-07-10 09:57:29",
+      "album": {
+        "name": "BORDER : CARNIVAL",
+        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 193260,
+      "name": "Drunk-Dazed",
+      "url": "https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4"
     },
     {
       "added_at": "2026-07-10 09:57:29",
@@ -1123,18 +1123,22 @@
     {
       "added_at": "2026-07-10 09:57:29",
       "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+        "name": "STRATEGY",
+        "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
       },
       "artists": [
         {
           "name": "TWICE",
           "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 168645,
-      "name": "Strategy",
-      "url": "https://open.spotify.com/track/6Q3lFQgpvhA9VApFKLFZtZ"
+      "duration_ms": 201760,
+      "name": "Strategy (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"
     },
     {
       "added_at": "2026-07-10 09:57:29",
@@ -1207,22 +1211,18 @@
     {
       "added_at": "2026-07-10 09:57:29",
       "album": {
-        "name": "STRATEGY",
-        "url": "https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA"
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
       "artists": [
         {
           "name": "TWICE",
           "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 201760,
-      "name": "Strategy (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw"
+      "duration_ms": 168645,
+      "name": "Strategy",
+      "url": "https://open.spotify.com/track/6Q3lFQgpvhA9VApFKLFZtZ"
     },
     {
       "added_at": "2026-07-10 09:57:29",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-07-10 09:57:29",
       "album": {
-        "name": "CELEBRATION",
-        "url": "https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "CELEBRATION",
-      "url": "https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1"
-    },
-    {
-      "added_at": "2026-07-10 09:57:29",
-      "album": {
         "name": "LALISA",
         "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2026-07-10 09:57:29",
       "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+        "name": "CELEBRATION",
+        "url": "https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         }
       ],
-      "duration_ms": 205493,
-      "name": "I CAN'T STOP ME",
-      "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
+      "duration_ms": 153000,
+      "name": "CELEBRATION",
+      "url": "https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1"
     },
     {
       "added_at": "2026-07-10 09:57:29",
@@ -1355,6 +1339,22 @@
       "duration_ms": 219920,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/2VKGO4DNyUK5UxCQB3b3DF"
+    },
+    {
+      "added_at": "2026-07-10 09:57:29",
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 205493,
+      "name": "I CAN'T STOP ME",
+      "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
     },
     {
       "added_at": "2026-07-10 09:57:29",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2026-07-10 09:57:29",
       "album": {
+        "name": "Take",
+        "url": "https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "duration_ms": 214136,
+      "name": "Way Back Home",
+      "url": "https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL"
+    },
+    {
+      "added_at": "2026-07-10 09:57:29",
+      "album": {
         "name": "The Chaos Chapter: FREEZE",
         "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 202203,
       "name": "0X1=LOVESONG (I Know I Love You) feat. Seori",
       "url": "https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf"
-    },
-    {
-      "added_at": "2026-07-10 09:57:29",
-      "album": {
-        "name": "Take",
-        "url": "https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO"
-      },
-      "artists": [
-        {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
-        }
-      ],
-      "duration_ms": 214136,
-      "name": "Way Back Home",
-      "url": "https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL"
     },
     {
       "added_at": "2026-07-10 09:57:29",
@@ -2119,18 +2119,18 @@
     {
       "added_at": "2026-07-10 09:57:29",
       "album": {
-        "name": "Training Day",
-        "url": "https://open.spotify.com/album/7z5ZIN7o44Tk8EUkm7AVar"
+        "name": "The Red Summer - Summer Mini Album",
+        "url": "https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2"
       },
       "artists": [
         {
-          "name": "LNGSHOT",
-          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         }
       ],
-      "duration_ms": 170694,
-      "name": "Vanilla Days",
-      "url": "https://open.spotify.com/track/6J0lnKcH7C1Hu0tn5hv7pI"
+      "duration_ms": 191139,
+      "name": "Red Flavor",
+      "url": "https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO"
     },
     {
       "added_at": "2026-07-10 09:57:29",
@@ -2151,6 +2151,22 @@
     {
       "added_at": "2026-07-10 09:57:29",
       "album": {
+        "name": "Training Day",
+        "url": "https://open.spotify.com/album/7z5ZIN7o44Tk8EUkm7AVar"
+      },
+      "artists": [
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "duration_ms": 170694,
+      "name": "Vanilla Days",
+      "url": "https://open.spotify.com/track/6J0lnKcH7C1Hu0tn5hv7pI"
+    },
+    {
+      "added_at": "2026-07-10 09:57:29",
+      "album": {
         "name": "REBEL HEART",
         "url": "https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3"
       },
@@ -2163,22 +2179,6 @@
       "duration_ms": 188266,
       "name": "REBEL HEART",
       "url": "https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d"
-    },
-    {
-      "added_at": "2026-07-10 09:57:29",
-      "album": {
-        "name": "The Red Summer - Summer Mini Album",
-        "url": "https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 191139,
-      "name": "Red Flavor",
-      "url": "https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO"
     },
     {
       "added_at": "2026-07-10 09:57:29",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2026-07-10 09:57:29",
       "album": {
-        "name": "IVE EMPATHY",
-        "url": "https://open.spotify.com/album/7vwi3kXdpkaRO3if4N2gBN"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 194733,
-      "name": "ATTITUDE",
-      "url": "https://open.spotify.com/track/49oOgXKqm6xTavBtekzVHg"
-    },
-    {
-      "added_at": "2026-07-10 09:57:29",
-      "album": {
         "name": "HOW?",
         "url": "https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 179040,
       "name": "Earth, Wind & Fire",
       "url": "https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4"
+    },
+    {
+      "added_at": "2026-07-10 09:57:29",
+      "album": {
+        "name": "IVE EMPATHY",
+        "url": "https://open.spotify.com/album/7vwi3kXdpkaRO3if4N2gBN"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 194733,
+      "name": "ATTITUDE",
+      "url": "https://open.spotify.com/track/49oOgXKqm6xTavBtekzVHg"
     },
     {
       "added_at": "2026-07-10 09:57:29",
@@ -2495,22 +2495,6 @@
     {
       "added_at": "2026-07-10 09:57:29",
       "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 9",
-        "url": "https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 229678,
-      "name": "I Will Go To You Like the First Snow",
-      "url": "https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1"
-    },
-    {
-      "added_at": "2026-07-10 09:57:29",
-      "album": {
         "name": "TOO MUCH",
         "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
       },
@@ -2531,6 +2515,22 @@
       "duration_ms": 203894,
       "name": "TOO MUCH",
       "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
+    },
+    {
+      "added_at": "2026-07-10 09:57:29",
+      "album": {
+        "name": "Guardian (Original Television Soundtrack), Pt. 9",
+        "url": "https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 229678,
+      "name": "I Will Go To You Like the First Snow",
+      "url": "https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1"
     },
     {
       "added_at": "2026-07-10 09:57:29",
@@ -2583,22 +2583,6 @@
     {
       "added_at": "2026-07-10 09:57:29",
       "album": {
-        "name": "Ode to Love - The 1st Album",
-        "url": "https://open.spotify.com/album/2OYOvhfBYA43XD7nd366iX"
-      },
-      "artists": [
-        {
-          "name": "NCT WISH",
-          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Ode to Love",
-      "url": "https://open.spotify.com/track/08aIVRb9ucpxKdAJb50HAx"
-    },
-    {
-      "added_at": "2026-07-10 09:57:29",
-      "album": {
         "name": "Perfect Velvet - The 2nd Album",
         "url": "https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH"
       },
@@ -2615,18 +2599,18 @@
     {
       "added_at": "2026-07-10 09:57:29",
       "album": {
-        "name": "Atmos - The 6th Mini Album",
-        "url": "https://open.spotify.com/album/2EKRc8vhOZC3ExSdP9WDQi"
+        "name": "Ode to Love - The 1st Album",
+        "url": "https://open.spotify.com/album/2OYOvhfBYA43XD7nd366iX"
       },
       "artists": [
         {
-          "name": "SHINee",
-          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+          "name": "NCT WISH",
+          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
         }
       ],
-      "duration_ms": 193000,
-      "name": "Atmos",
-      "url": "https://open.spotify.com/track/1bjz9qoRONw86dmlcPZD9f"
+      "duration_ms": 191000,
+      "name": "Ode to Love",
+      "url": "https://open.spotify.com/track/08aIVRb9ucpxKdAJb50HAx"
     },
     {
       "added_at": "2026-07-10 09:57:29",
@@ -2659,6 +2643,22 @@
       "duration_ms": 207921,
       "name": "Guerrilla",
       "url": "https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw"
+    },
+    {
+      "added_at": "2026-07-10 09:57:29",
+      "album": {
+        "name": "Atmos - The 6th Mini Album",
+        "url": "https://open.spotify.com/album/2EKRc8vhOZC3ExSdP9WDQi"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Atmos",
+      "url": "https://open.spotify.com/track/1bjz9qoRONw86dmlcPZD9f"
     },
     {
       "added_at": "2026-07-10 09:57:29",
@@ -2795,38 +2795,6 @@
     {
       "added_at": "2026-07-10 09:57:29",
       "album": {
-        "name": "Ascend-",
-        "url": "https://open.spotify.com/album/1BQQZejhtOdOJbIOVrmCUL"
-      },
-      "artists": [
-        {
-          "name": "ZEROBASEONE",
-          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
-        }
-      ],
-      "duration_ms": 147373,
-      "name": "TOP 5",
-      "url": "https://open.spotify.com/track/7LVJBq2IZsv4UTHN9sCg9e"
-    },
-    {
-      "added_at": "2026-07-10 09:57:29",
-      "album": {
-        "name": "What's a girl to do",
-        "url": "https://open.spotify.com/album/1hywbmcXqc373aldNqWUIS"
-      },
-      "artists": [
-        {
-          "name": "DAYOUNG",
-          "url": "https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "What's a girl to do",
-      "url": "https://open.spotify.com/track/1JymZBT39MAPXffPcKkaPW"
-    },
-    {
-      "added_at": "2026-07-10 09:57:29",
-      "album": {
         "name": "Distant Lover",
         "url": "https://open.spotify.com/album/6Om1TG7eAZKFe0y2EWCTNi"
       },
@@ -2851,6 +2819,22 @@
     {
       "added_at": "2026-07-10 09:57:29",
       "album": {
+        "name": "What's a girl to do",
+        "url": "https://open.spotify.com/album/1hywbmcXqc373aldNqWUIS"
+      },
+      "artists": [
+        {
+          "name": "DAYOUNG",
+          "url": "https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "What's a girl to do",
+      "url": "https://open.spotify.com/track/1JymZBT39MAPXffPcKkaPW"
+    },
+    {
+      "added_at": "2026-07-10 09:57:29",
+      "album": {
         "name": "\u2018The ReVe Festival 2022 - Feel My Rhythm\u2019",
         "url": "https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46"
       },
@@ -2863,6 +2847,22 @@
       "duration_ms": 210253,
       "name": "Feel My Rhythm",
       "url": "https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za"
+    },
+    {
+      "added_at": "2026-07-10 09:57:29",
+      "album": {
+        "name": "Ascend-",
+        "url": "https://open.spotify.com/album/1BQQZejhtOdOJbIOVrmCUL"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "duration_ms": 147373,
+      "name": "TOP 5",
+      "url": "https://open.spotify.com/track/7LVJBq2IZsv4UTHN9sCg9e"
     },
     {
       "added_at": "2026-07-10 09:57:29",
@@ -3107,22 +3107,6 @@
     {
       "added_at": "2026-07-10 09:57:29",
       "album": {
-        "name": "The Firstfruit - The 1st Album",
-        "url": "https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s"
-      },
-      "artists": [
-        {
-          "name": "Mark Lee",
-          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "1999",
-      "url": "https://open.spotify.com/track/4irSoWVMefjnL4ZjmmM25t"
-    },
-    {
-      "added_at": "2026-07-10 09:57:29",
-      "album": {
         "name": "FAMOUS",
         "url": "https://open.spotify.com/album/7rgnZ9iX2S9HFHmkFmSwW7"
       },
@@ -3135,6 +3119,22 @@
       "duration_ms": 157191,
       "name": "WICKED",
       "url": "https://open.spotify.com/track/2NOMOpss7BmEXTL9f1koqn"
+    },
+    {
+      "added_at": "2026-07-10 09:57:29",
+      "album": {
+        "name": "The Firstfruit - The 1st Album",
+        "url": "https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s"
+      },
+      "artists": [
+        {
+          "name": "Mark Lee",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/4irSoWVMefjnL4ZjmmM25t"
     },
     {
       "added_at": "2026-07-10 09:57:29",
@@ -3291,22 +3291,6 @@
     {
       "added_at": "2026-07-10 09:57:29",
       "album": {
-        "name": "<LOVE&POP> pt.1",
-        "url": "https://open.spotify.com/album/35aVpvg3oTNbG8N3cL7B1Z"
-      },
-      "artists": [
-        {
-          "name": "tripleS",
-          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Baby Flower",
-      "url": "https://open.spotify.com/track/1ET5lou3teBMA3a5cYeYzN"
-    },
-    {
-      "added_at": "2026-07-10 09:57:29",
-      "album": {
         "name": "THE SECOND STEP : CHAPTER TWO",
         "url": "https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g"
       },
@@ -3319,6 +3303,22 @@
       "duration_ms": 181432,
       "name": "HELLO",
       "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
+    },
+    {
+      "added_at": "2026-07-10 09:57:29",
+      "album": {
+        "name": "<LOVE&POP> pt.1",
+        "url": "https://open.spotify.com/album/35aVpvg3oTNbG8N3cL7B1Z"
+      },
+      "artists": [
+        {
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Baby Flower",
+      "url": "https://open.spotify.com/track/1ET5lou3teBMA3a5cYeYzN"
     },
     {
       "added_at": "2026-07-10 09:57:29",
@@ -3339,6 +3339,22 @@
     {
       "added_at": "2026-07-10 09:57:29",
       "album": {
+        "name": "Get A Guitar",
+        "url": "https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "duration_ms": 160044,
+      "name": "Get A Guitar",
+      "url": "https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0"
+    },
+    {
+      "added_at": "2026-07-10 09:57:29",
+      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -3355,22 +3371,6 @@
       "duration_ms": 229359,
       "name": "D (Half Moon)",
       "url": "https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD"
-    },
-    {
-      "added_at": "2026-07-10 09:57:29",
-      "album": {
-        "name": "Get A Guitar",
-        "url": "https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        }
-      ],
-      "duration_ms": 160044,
-      "name": "Get A Guitar",
-      "url": "https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0"
     },
     {
       "added_at": "2026-07-10 09:57:29",

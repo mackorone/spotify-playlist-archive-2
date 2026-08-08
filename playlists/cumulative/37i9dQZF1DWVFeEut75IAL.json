@@ -3357,6 +3357,24 @@
     },
     {
       "album": {
+        "name": "room enough",
+        "url": "https://open.spotify.com/album/2fMH2sy4zccBBLhNJwcDiB"
+      },
+      "artists": [
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304053,
+      "name": "room enough - solo piano",
+      "url": "https://open.spotify.com/track/6cnk6JzRl70Mmo2NUzERFI"
+    },
+    {
+      "album": {
         "name": "Rose Bay",
         "url": "https://open.spotify.com/album/6EgPZYM69ojeuJdZaHPOJQ"
       },

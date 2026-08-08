@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Music from Lil Baby,  Rod Wave and Cardi B.",
+  "description": "Music from Lil Uzi Vert, Lil Baby and Pooh Shiesty.",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -1230,7 +1230,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 184383,
       "name": "600 Racks",
       "url": "https://open.spotify.com/track/4ss5dbCWS90LRINPRxDjE6"
@@ -9726,7 +9726,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 114594,
       "name": "Cheat Code (Follow Me)",
       "url": "https://open.spotify.com/track/1zMC68MhT4X7Mn6jVJslMB"
@@ -20575,6 +20575,32 @@
     },
     {
       "album": {
+        "name": "Il Caos Parte 1",
+        "url": "https://open.spotify.com/album/1tr73fthAQbJqBrUqm6NP3"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Victor Victor Presents",
+          "url": "https://open.spotify.com/artist/6qiKUAYtRUe7XBgIJC0dCs"
+        },
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186791,
+      "name": "Grind Time",
+      "url": "https://open.spotify.com/track/1kxw6KJIFzbbTllzSiitwy"
+    },
+    {
+      "album": {
         "name": "Lord Willin'",
         "url": "https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX"
       },
@@ -24573,6 +24599,24 @@
     },
     {
       "album": {
+        "name": "All Eyes on Shiest",
+        "url": "https://open.spotify.com/album/5bSBopVXXVyJlVCL5Lv7LI"
+      },
+      "artists": [
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202840,
+      "name": "I'm Back",
+      "url": "https://open.spotify.com/track/4oBu4APIBsEeQwLTIsfUn8"
+    },
+    {
+      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -27786,6 +27830,24 @@
       "duration_ms": 156734,
       "name": "Last Drink",
       "url": "https://open.spotify.com/track/6HNxPQ3Atlfq5yQa5LGMIj"
+    },
+    {
+      "album": {
+        "name": "Last Man Breathin",
+        "url": "https://open.spotify.com/album/4xvAitL2IE5n0p4dLRQmv8"
+      },
+      "artists": [
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244280,
+      "name": "Last Man Breathin",
+      "url": "https://open.spotify.com/track/0yr6Sa2SLF4g6PTT3T3UkL"
     },
     {
       "album": {
@@ -34172,7 +34234,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 219333,
       "name": "Ni**as In Paris",
       "url": "https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um"
@@ -48702,7 +48764,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 195941,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/5WjRUyqpHrj2DuTOVdDg2d"

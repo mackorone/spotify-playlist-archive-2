@@ -1,12 +1,12 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388074,
+  "num_followers": 388056,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPKdsUN9zThgKxqvc46POL07dGkc",
+  "snapshot_id": "AAAAAFxOkqgcVWMJDy9cxDZuZNoHBE50",
   "tracks": [
     {
       "added_at": "2026-07-31 09:02:32",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-07-31 09:02:32",
       "album": {
-        "name": "End of Time",
-        "url": "https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q"
-      },
-      "artists": [
-        {
-          "name": "Olive Jones",
-          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
-        }
-      ],
-      "duration_ms": 226052,
-      "name": "End of Time",
-      "url": "https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i"
-    },
-    {
-      "added_at": "2026-07-31 09:02:32",
-      "album": {
         "name": "Rent California",
         "url": "https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 243595,
       "name": "Rent California",
       "url": "https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8"
+    },
+    {
+      "added_at": "2026-07-31 09:02:32",
+      "album": {
+        "name": "End of Time",
+        "url": "https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q"
+      },
+      "artists": [
+        {
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+        }
+      ],
+      "duration_ms": 226052,
+      "name": "End of Time",
+      "url": "https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i"
     },
     {
       "added_at": "2026-07-31 09:02:32",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-07-31 09:02:32",
       "album": {
-        "name": "Against The Current",
-        "url": "https://open.spotify.com/album/680Q8QjaLVuXs6MO9xLVJY"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        }
-      ],
-      "duration_ms": 216426,
-      "name": "Against The Current",
-      "url": "https://open.spotify.com/track/2p1ifc7yOpZDgBUZd6WpsQ"
-    },
-    {
-      "added_at": "2026-07-31 09:02:32",
-      "album": {
         "name": "Disarray",
         "url": "https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 310853,
       "name": "Disarray",
       "url": "https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA"
+    },
+    {
+      "added_at": "2026-07-31 09:02:32",
+      "album": {
+        "name": "Against The Current",
+        "url": "https://open.spotify.com/album/680Q8QjaLVuXs6MO9xLVJY"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "duration_ms": 216426,
+      "name": "Against The Current",
+      "url": "https://open.spotify.com/track/2p1ifc7yOpZDgBUZd6WpsQ"
     },
     {
       "added_at": "2026-07-31 09:02:32",
@@ -995,18 +995,22 @@
     {
       "added_at": "2026-07-31 09:02:32",
       "album": {
-        "name": "Souls x Mates",
-        "url": "https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA"
+        "name": "How Much Does It Take To Shift It All",
+        "url": "https://open.spotify.com/album/4Mttw5x47ye4BjX9zrVdKv"
       },
       "artists": [
         {
-          "name": "Dandi Noxx",
-          "url": "https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz"
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "Lucy Park",
+          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
         }
       ],
-      "duration_ms": 231213,
-      "name": "Souls x Mates",
-      "url": "https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo"
+      "duration_ms": 153900,
+      "name": "How Much Does It Take To Shift It All",
+      "url": "https://open.spotify.com/track/0TgQDtN4IGHpUdAl97rXww"
     }
   ],
   "unique_name": "R\u00e9veil en douceur",

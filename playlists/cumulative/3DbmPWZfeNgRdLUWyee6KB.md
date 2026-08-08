@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,365 songs - 3 day 7 hr 19 min
+1,367 songs - 3 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Chicago](https://open.spotify.com/track/66Utp40WE7272VaS384fo8) | [Evil Level Live](https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe) | [Puppets Know](https://open.spotify.com/album/5wmSnx6DHERdTs3YBS1gFy) | 4:29 | 2026-07-02 |  |
 | [Christmas in the Islands](https://open.spotify.com/track/0LxDXf95Mx9c1vZxEFqTFR) | [Harold Payne](https://open.spotify.com/artist/1BfgVctke9PP5LJDIWrUxC) | [Christmas in the Islands](https://open.spotify.com/album/3aHAeBe9ZjWw3wduUdNC1u) | 3:01 | 2025-11-21 | 2026-01-05 |
 | [Christmas Tale \- Piano solo](https://open.spotify.com/track/2Lwqoc8WJ6AKsyg4cKRY2g) | [Beato Angelico](https://open.spotify.com/artist/5CJ0yEhrvURVrFstPuxFdG) | [Christmas Tale \(Piano solo\)](https://open.spotify.com/album/7BVwM2QRfdXULtpWhQVMmr) | 3:00 | 2023-11-30 | 2025-11-29 |
+| [Ciego](https://open.spotify.com/track/15apmAe5SqNBGzG0FXrrqj) | [Julian Kancepolski](https://open.spotify.com/artist/6DDqxjhbPR5KUwZ6TomVYE) | [Estantes](https://open.spotify.com/album/4NUa8r6wjIix0KCQZpvQtn) | 2:28 | 2026-08-07 |  |
 | [Clear My Mind](https://open.spotify.com/track/0Kc4uMBJroVPXkl2XTOXiq) | [Jenèriq](https://open.spotify.com/artist/19EuZYCQ44lQipUXiRKd2v) | [Clear My Mind](https://open.spotify.com/album/1pTbolOhXVsdBIdp14GPtA) | 2:57 | 2026-03-17 | 2026-04-12 |
 | [Clock Won't Fix Us](https://open.spotify.com/track/5IHk26pRARBqre0j3qW4us) | [Zaara](https://open.spotify.com/artist/0QuY5zWGOpvYWNTPltuTDd) | [Clock Won't Fix Us](https://open.spotify.com/album/54XyWhtJqkO2ihmc9VrXMK) | 4:27 | 2026-04-23 | 2026-06-05 |
 | [Closed Circle](https://open.spotify.com/track/3kOiYnhygbL1DDuKFf6DgS) | [Chris Mark Mickey](https://open.spotify.com/artist/1qfIzy7pywvM34nzOv6DA6), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [Spotlight From The Shadows](https://open.spotify.com/album/4eTjld5f8cjfYX00rFYO2j) | 3:30 | 2025-11-21 | 2026-01-05 |
@@ -236,6 +237,7 @@
 | [Crash Out](https://open.spotify.com/track/3kVUVbCU7gVR6EQU0BCT9v) | [Scilence](https://open.spotify.com/artist/2TXsHSIhrbcGHL0sWUzdnp) | [Crash Out](https://open.spotify.com/album/1JbvNRdQMbIdaOOyTwF3oA) | 4:12 | 2026-01-24 | 2026-02-28 |
 | [Crawl](https://open.spotify.com/track/0COUEawGGxO0lHL3Yf4FV9) | [Alice Isabella](https://open.spotify.com/artist/7mJxghz6FKmBNKQoi73xXA) | [Crawl](https://open.spotify.com/album/5AdzIhovQDWt5L1JT7o40e) | 3:28 | 2025-12-16 | 2026-01-15 |
 | [Crazy Dance of Death](https://open.spotify.com/track/26AvmPorUJ4jLn9vZ0DowU) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Crazy Dance of Death](https://open.spotify.com/album/1GYG0FvWCwAt5l32W37wrS) | 3:11 | 2026-01-20 | 2026-02-20 |
+| [Crazy World](https://open.spotify.com/track/7G3VUYp3LMoPK4TjFrB3hC) | [Laissez\-Faire](https://open.spotify.com/artist/1dVCkAqFc2L7EpFr95V1L8) | [Crazy World](https://open.spotify.com/album/2FxtjPkAPOyxHD89s6Mgvk) | 4:05 | 2026-08-07 |  |
 | [creo](https://open.spotify.com/track/2biitC5sPVcjqXXTwX6QS4) | [Bea Troncea](https://open.spotify.com/artist/2NNFdP47Os0DAjY2VEzYqW) | [creo](https://open.spotify.com/album/7FtAw3fhC5Ocrb1Gv1TW8z) | 3:45 | 2026-04-06 | 2026-05-03 |
 | [Crescere](https://open.spotify.com/track/6w4K4RDb5jD3NwZfNmGCPz) | [Massimiliano Martelli](https://open.spotify.com/artist/2sjCNBILPVjt7p2l5BqIDJ) | [Crescere](https://open.spotify.com/album/7LWyHwzao8X4H8iJKz5RfS) | 3:07 | 2026-07-06 |  |
 | [Cristal](https://open.spotify.com/track/1ynOQL9168ge8jkyxRSbPl) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [La ansiedad](https://open.spotify.com/album/1ah03W8PU28iPd4KzTwltu) | 3:20 | 2025-11-25 | 2026-01-05 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 15355,
+  "num_followers": 15381,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAABwiPek4lqZL5i+KxaqEJx9",
+  "snapshot_id": "anPOgAAAAAAztclJOk2uJiOqwgwYi/2D",
   "tracks": [
     {
       "added_at": null,
@@ -147,6 +147,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "For A Good Time...",
+        "url": "https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 184381,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/7i8pBcK7oEv5EKrCkAq0pu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "24 Hours",
         "url": "https://open.spotify.com/album/6h8MihL1baSyYITmOxrIxP"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 197720,
       "name": "24 Hours",
       "url": "https://open.spotify.com/track/3xucyI8yC8RNSaE5QOeFxB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For A Good Time...",
-        "url": "https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 184381,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/7i8pBcK7oEv5EKrCkAq0pu"
     },
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soh-Soh (DJ Maphorisa & Xduppy Mix)",
-        "url": "https://open.spotify.com/album/2aUWcKg2RsmYTVvTaCfCIJ"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 184552,
-      "name": "Soh-Soh",
-      "url": "https://open.spotify.com/track/30nn36X7wfesAGAkvGero4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For A Good Time...",
         "url": "https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 148919,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/13J4slEnjXywIEE4r9CHPh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soh-Soh (DJ Maphorisa & Xduppy Mix)",
+        "url": "https://open.spotify.com/album/2aUWcKg2RsmYTVvTaCfCIJ"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 184552,
+      "name": "Soh-Soh",
+      "url": "https://open.spotify.com/track/30nn36X7wfesAGAkvGero4"
     },
     {
       "added_at": null,
@@ -279,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thoughts I Never Said",
-        "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 210100,
-      "name": "All That It Takes",
-      "url": "https://open.spotify.com/track/5ZtqkkX8XRfgmgxnxedI0C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For A Good Time...",
         "url": "https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 222840,
       "name": "Coming Home (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thoughts I Never Said",
+        "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 210100,
+      "name": "All That It Takes",
+      "url": "https://open.spotify.com/track/5ZtqkkX8XRfgmgxnxedI0C"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
       "duration_ms": 198545,
       "name": "ONOME",
       "url": "https://open.spotify.com/track/2AsdsBTAtp5EckmvsbUKtH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Fall That Saved Us",
-        "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 135466,
-      "name": "Molotov",
-      "url": "https://open.spotify.com/track/0e5wFBctpNlmDoZzLfgdwy"
     },
     {
       "added_at": null,
@@ -403,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Fall That Saved Us",
+        "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 135466,
+      "name": "Molotov",
+      "url": "https://open.spotify.com/track/0e5wFBctpNlmDoZzLfgdwy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Thoughts I Never Said",
         "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
       },
@@ -415,6 +415,22 @@
       "duration_ms": 123319,
       "name": "You, The World Vs Me",
       "url": "https://open.spotify.com/track/7n1nwXK2rEsixUkwtRtETK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For A Good Time...",
+        "url": "https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 191956,
+      "name": "Trying Things",
+      "url": "https://open.spotify.com/track/5kR2eJal3foVQ48L1Dp4hh"
     },
     {
       "added_at": null,
@@ -435,22 +451,6 @@
       "duration_ms": 153935,
       "name": "City On Fire",
       "url": "https://open.spotify.com/track/5hvt3s4LH6kZETJ18nxgYa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For A Good Time...",
-        "url": "https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 191956,
-      "name": "Trying Things",
-      "url": "https://open.spotify.com/track/5kR2eJal3foVQ48L1Dp4hh"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fall That Saved Us",
-        "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 121120,
-      "name": "Blur",
-      "url": "https://open.spotify.com/track/26dCraicO5lIpioBMnO2dg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For A Good Time...",
         "url": "https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 210440,
       "name": "Bluey Vitton",
       "url": "https://open.spotify.com/track/0dsZot2TgWU5Er2BMcQLlz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fall That Saved Us",
+        "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 121120,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/26dCraicO5lIpioBMnO2dg"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Repercussions",
-        "url": "https://open.spotify.com/album/2Hp6RUBiRKNzXUy6jZfFlu"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 180714,
-      "name": "Repercussions",
-      "url": "https://open.spotify.com/track/69kEVA5svAeoREFoNVeumH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Fall That Saved Us",
         "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 156826,
       "name": "Pretty Girls",
       "url": "https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Repercussions",
+        "url": "https://open.spotify.com/album/2Hp6RUBiRKNzXUy6jZfFlu"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 180714,
+      "name": "Repercussions",
+      "url": "https://open.spotify.com/track/69kEVA5svAeoREFoNVeumH"
     },
     {
       "added_at": null,

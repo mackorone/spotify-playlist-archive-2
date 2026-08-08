@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 
 > Beautiful electronic music for melancholy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,844 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,887 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 34 | [Casableu](https://open.spotify.com/track/62Og36IHCGO6MqmxUqU58B) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [Casableu](https://open.spotify.com/album/0lAe8AD0yI2r0o5ibNXvgk) | 3:38 |
 | 35 | [Waste \- RY X Remix](https://open.spotify.com/track/08HR9PoLSeovgXWvJEZrvi) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 9:13 |
 | 36 | [Ghosts](https://open.spotify.com/track/7GT3Wx3bZFE9gDwRqat0Tx) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Ghosts](https://open.spotify.com/album/7qsfQ7phMfTmrS57H3ssZl) | 4:14 |
-| 37 | [Easy Come Easy Go](https://open.spotify.com/track/6muUfsnL9J7bt4XmO7IOzl) | [Tilja](https://open.spotify.com/artist/0Fznamwt37NfdZhmg47LD4) | [Easy Come Easy Go](https://open.spotify.com/album/6cDvB29D9ewom7OO9zb18T) | 1:53 |
-| 38 | [No Pressure](https://open.spotify.com/track/3g0QMSf4ywaDXXs4n2Ryc6) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O) | [No Pressure](https://open.spotify.com/album/1FpC5TXsEmF9NTRs1f6yOi) | 3:15 |
-| 39 | [October](https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [October](https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8) | 5:54 |
+| 37 | [No Pressure](https://open.spotify.com/track/3g0QMSf4ywaDXXs4n2Ryc6) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O) | [No Pressure](https://open.spotify.com/album/1FpC5TXsEmF9NTRs1f6yOi) | 3:15 |
+| 38 | [October](https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [October](https://open.spotify.com/album/5PdBG1Q3tLZlSLoxB1LtK8) | 5:54 |
+| 39 | [Easy Come Easy Go](https://open.spotify.com/track/6muUfsnL9J7bt4XmO7IOzl) | [Tilja](https://open.spotify.com/artist/0Fznamwt37NfdZhmg47LD4) | [Easy Come Easy Go](https://open.spotify.com/album/6cDvB29D9ewom7OO9zb18T) | 1:53 |
 | 40 | [Salve](https://open.spotify.com/track/68N8LWiI28QpOe80WQ96b1) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Salve](https://open.spotify.com/album/6yNKAnJYX9v5joiP25hhw8) | 3:13 |
 | 41 | [Ride At Dawn](https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [Ride At Dawn](https://open.spotify.com/album/7DiasgKMXc817JWAUi1org) | 2:53 |
 | 42 | [Lydia \(please make it better\)](https://open.spotify.com/track/04yl0gqAhDRZe3MLAncaiD) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 49 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 |
 | 50 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |
 
-Snapshot ID: `AAAAAG5PGj6BMHVHVL6DY2gNGUIkl6xu`
+Snapshot ID: `AAAAAGO7au/janU+JJw9hl7h0piHiIBj`

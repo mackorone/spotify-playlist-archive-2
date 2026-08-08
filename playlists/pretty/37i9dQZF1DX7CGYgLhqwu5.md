@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,103 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,114 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 53 | [The Image of Me](https://open.spotify.com/track/2jfHjFG4pT0bTTbvSDcOv6) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Timeless](https://open.spotify.com/album/2MDSQqlAQEVFpTJkWVEsju) | 2:57 |
 | 54 | [Take Me](https://open.spotify.com/track/321EGZZRFk8kj4pNZraesQ) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [The Essential George Jones](https://open.spotify.com/album/2Pf9lml86yy0wuEDUSBIUF) | 2:20 |
 | 55 | [Let's Have A Party](https://open.spotify.com/track/2B4IYgIkBnemrp0YEkaUIH) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Wanda Jackson](https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw) | 2:11 |
-| 56 | [Chug\-A\-Lug](https://open.spotify.com/track/3vMwtAfDNM8dDBWMvS78pn) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [The Very Best of…](https://open.spotify.com/album/6MiwWDa3FIyIS71Ety7vAE) | 2:03 |
+| 56 | [Pop a Top](https://open.spotify.com/track/73AgVwYUEPn9kB0a97b4LW) | [Jim Ed Brown](https://open.spotify.com/artist/6XBkny92syvAWxlIX8CZAM) | [The Essential Jim Ed Brown And The Browns \(feat\. Jim Ed Brown\)](https://open.spotify.com/album/7IsKfmOaFBk2o6XZQPGwyh) | 2:20 |
 | 57 | [The Cold Hard Facts of Life](https://open.spotify.com/track/2s2Owv5k5HaXCkvwV8AbsG) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [The Cold Hard Facts of Life](https://open.spotify.com/album/1SOXR7PxeVSWUJuWLYi2Ie) | 3:12 |
-| 58 | [Pop a Top](https://open.spotify.com/track/73AgVwYUEPn9kB0a97b4LW) | [Jim Ed Brown](https://open.spotify.com/artist/6XBkny92syvAWxlIX8CZAM) | [The Essential Jim Ed Brown And The Browns \(feat\. Jim Ed Brown\)](https://open.spotify.com/album/7IsKfmOaFBk2o6XZQPGwyh) | 2:20 |
+| 58 | [Chug\-A\-Lug](https://open.spotify.com/track/3vMwtAfDNM8dDBWMvS78pn) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [The Very Best of…](https://open.spotify.com/album/6MiwWDa3FIyIS71Ety7vAE) | 2:03 |
 | 59 | [Don't Touch Me](https://open.spotify.com/track/1Y2G8nl3CGR3qMPDDBuDhb) | [Jeannie Seely](https://open.spotify.com/artist/0i9f82nIFjrLnnsf2YX3vY) | [The Seely Style](https://open.spotify.com/album/5dx7Vs0d283fuSeaYpvSsw) | 3:12 |
 | 60 | [You Belong To Me](https://open.spotify.com/track/2STy18bfCVP8v6aOu2CliZ) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Sentimentally Yours](https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ) | 3:03 |
 | 61 | [Last Date \- Instrumental](https://open.spotify.com/track/7rbvjRc6ZTVA3GUXDx3Xtr) | [Floyd Cramer](https://open.spotify.com/artist/6DQ6mdEhxCgHPqfX1niZZK) | [Super Hits](https://open.spotify.com/album/2xDSr0Si1QI2v4kkGnkW4G) | 2:26 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 73 | [Walkin' In The Sunshine \- Single Version](https://open.spotify.com/track/18HSzsGBHeLpQiB5KqV9Jb) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [King Of The Road: The Genius Of Roger Miller](https://open.spotify.com/album/3fgWkDQtzVocTDqmlX0ISd) | 2:40 |
 | 74 | [Talk Back Trembling Lips](https://open.spotify.com/track/2kc2v1biRvuHJaBozQzfqs) | [Ernest Ashworth](https://open.spotify.com/artist/4wThxGOdUJp05INkly6n0o) | [Greatest Hits](https://open.spotify.com/album/1s6BocSrXp9Gu4hv8fHgEk) | 2:40 |
 | 75 | [I'm So Lonesome I Could Cry](https://open.spotify.com/track/6VpbL35xNjnpFclaWVrR1d) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Country Style](https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt) | 2:37 |
-| 76 | [\(Margie's At\) The Lincoln Park Inn](https://open.spotify.com/track/0srp0yXqH0Axym0z7wLUQy) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [\(Margie's At\) The Lincoln Park Inn](https://open.spotify.com/album/2sIBp3FcO6tNjcgFVIxaFM) | 3:18 |
-| 77 | [Yakety Axe](https://open.spotify.com/track/0Lo5YM7ZvIcUnbvnqLMUre) | [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU) | [The Essential Chet Atkins](https://open.spotify.com/album/0lKXTFKRUH3eyflNhlSlQZ) | 2:03 |
+| 76 | [Yakety Axe](https://open.spotify.com/track/0Lo5YM7ZvIcUnbvnqLMUre) | [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU) | [The Essential Chet Atkins](https://open.spotify.com/album/0lKXTFKRUH3eyflNhlSlQZ) | 2:03 |
+| 77 | [\(Margie's At\) The Lincoln Park Inn](https://open.spotify.com/track/0srp0yXqH0Axym0z7wLUQy) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [\(Margie's At\) The Lincoln Park Inn](https://open.spotify.com/album/2sIBp3FcO6tNjcgFVIxaFM) | 3:18 |
 | 78 | [Still \- Single Version](https://open.spotify.com/track/0Q7eey8NSPQEQ3ol75UAAx) | [Bill Anderson](https://open.spotify.com/artist/0gWNSMYCSHF4wxIs1XTSDh) | [The Definitive Collection](https://open.spotify.com/album/2PEQef4Kfc2af6MqXRckrl) | 2:46 |
 | 79 | [Burning Memories \- Single Version](https://open.spotify.com/track/569rWEzod8v8JX86gO2eX6) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [Burning Memories](https://open.spotify.com/album/0menjprjsUXBN3jKjGk1XD) | 2:29 |
 | 80 | [We'll Get Ahead Someday](https://open.spotify.com/track/7mdB5GWRbuWJDxZ2CbarAv) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Porter Wagoner & Dolly Parton](https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850) | 1:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 99 | [Leavin' On Your Mind \- Single Version](https://open.spotify.com/track/1UX3YnunUhblOJbdnX64F2) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Sweet Dreams: Her Complete Decca Masters \(1960\-1963\)](https://open.spotify.com/album/42ClQwOX06MiqvPJ97yoNC) | 2:24 |
 | 100 | [Yesterday When I Was Young](https://open.spotify.com/track/34FHyAVCDFURtlrt6HfPHU) | [Roy Clark](https://open.spotify.com/artist/6iOpZ3mUTWOjjER4mGcZmS) | [The Best Of Roy Clark](https://open.spotify.com/album/2ADFGSvr79NVsX0KcB5r2Q) | 3:20 |
 
-Snapshot ID: `AAAAAGJjmwo6TMTvqjOHCDUNjMFtgy6G`
+Snapshot ID: `AAAAALvwwADQB9VIahysWJ87kpvC6VmZ`

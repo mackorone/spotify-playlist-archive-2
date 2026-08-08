@@ -1,13 +1,53 @@
 {
-  "description": "Underground indie rock gems. Cover: Trophy Wife",
-  "num_followers": 308748,
+  "description": "Underground indie rock gems. Cover: man/woman/chainsaw",
+  "num_followers": 308753,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGsW6zHOT2f+JnSl5Agy0MXAVcLE",
+  "snapshot_id": "AAAAANm83Q0bUTuc0BX8ep/yiSG4hYDG",
   "tracks": [
+    {
+      "added_at": "2026-08-07 17:36:49",
+      "album": {
+        "name": "molly picture",
+        "url": "https://open.spotify.com/album/5FBhw9VmY1xqmSXEW7sbzs"
+      },
+      "artists": [
+        {
+          "name": "god of war",
+          "url": "https://open.spotify.com/artist/7o3wJo5yKVGHHkTojIZ7Xp"
+        },
+        {
+          "name": "They Are Gutting a Body of Water",
+          "url": "https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj"
+        },
+        {
+          "name": "Hooky",
+          "url": "https://open.spotify.com/artist/17eGQ5SRFwIv2c8FsrQf8f"
+        }
+      ],
+      "duration_ms": 124165,
+      "name": "raphael Bad as shit",
+      "url": "https://open.spotify.com/track/00IKZzDVRw9ycGeQcPHvjc"
+    },
+    {
+      "added_at": "2026-08-07 17:36:49",
+      "album": {
+        "name": "Cannonball",
+        "url": "https://open.spotify.com/album/1yN1NPr6d4TvVJyUyuMHpK"
+      },
+      "artists": [
+        {
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+        }
+      ],
+      "duration_ms": 173987,
+      "name": "Canyons",
+      "url": "https://open.spotify.com/track/7cTEXdnW5DhRWtB5BAsVoP"
+    },
     {
       "added_at": "2026-07-31 04:01:57",
       "album": {
@@ -25,6 +65,22 @@
       "url": "https://open.spotify.com/track/3mlG7ROtnYEYhUiHw9fIYG"
     },
     {
+      "added_at": "2026-08-07 17:36:49",
+      "album": {
+        "name": "Enough / Rain (Dream Editions)",
+        "url": "https://open.spotify.com/album/076F3kDE4CeCF5lfYeV1ZI"
+      },
+      "artists": [
+        {
+          "name": "PVA",
+          "url": "https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG"
+        }
+      ],
+      "duration_ms": 237750,
+      "name": "Enough (Dream Edition)",
+      "url": "https://open.spotify.com/track/0cwimyMGe6ZQ9QmIW3rzKo"
+    },
+    {
       "added_at": "2026-07-31 04:01:57",
       "album": {
         "name": "Pathetic",
@@ -39,6 +95,22 @@
       "duration_ms": 240401,
       "name": "Alone",
       "url": "https://open.spotify.com/track/3pbS8Q9kl3KWI92Ii7cknE"
+    },
+    {
+      "added_at": "2026-08-07 17:36:49",
+      "album": {
+        "name": "Punish My Mind",
+        "url": "https://open.spotify.com/album/5pqm3QIOrvYJ4UwPtUEO8O"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "duration_ms": 184853,
+      "name": "Punish My Mind",
+      "url": "https://open.spotify.com/track/3TzL94FxRyskQA1LENtYrj"
     },
     {
       "added_at": "2026-07-31 04:01:57",
@@ -71,6 +143,22 @@
       "duration_ms": 203746,
       "name": "Cruise The Town",
       "url": "https://open.spotify.com/track/0SbkhX0zVR4b1Ju84tiKmu"
+    },
+    {
+      "added_at": "2026-08-07 17:36:49",
+      "album": {
+        "name": "Solder",
+        "url": "https://open.spotify.com/album/1AOP1mX5RvuMl8tLm2ZKcw"
+      },
+      "artists": [
+        {
+          "name": "effe",
+          "url": "https://open.spotify.com/artist/2QHeMiKzNUpV7tFFqudKEX"
+        }
+      ],
+      "duration_ms": 178773,
+      "name": "Tears Always Burn",
+      "url": "https://open.spotify.com/track/5eRigJE4gYutJ6YY0aZL10"
     },
     {
       "added_at": "2026-07-31 04:01:57",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Vuat
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,373 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,379 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [もああんどもあ](https://open.spotify.com/track/2ROGSUhQOLzYEvanyQ5u9g) | [nate](https://open.spotify.com/artist/14Mas90nuwMf1aeErryGV7), [KUVIZM](https://open.spotify.com/artist/2crDfVv0eZDUSL4At5lPCy) | [もああんどもあ](https://open.spotify.com/album/7q9SfgGppY1R4BHgNG2Gb7) | 1:06 |
 | 80 | [STAY SWEET \(feat\. 可不\)](https://open.spotify.com/track/4qwHvbaYYKbQsFBlrgGWwp) | [QU1L](https://open.spotify.com/artist/4qC9o1bDfi0yjuxZVuvRcf), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [STAY SWEET \(feat\. 可不\)](https://open.spotify.com/album/2tv4jANlLtULpdhL5Ge63c) | 3:23 |
 
-Snapshot ID: `AAAAALIP0kIH1I2DIynyncKMDYdJ/q5o`
+Snapshot ID: `AAAAALe0Leu12kO9hgiMqu0qztThsniW`

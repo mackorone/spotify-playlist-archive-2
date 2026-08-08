@@ -759,6 +759,24 @@
     },
     {
       "album": {
+        "name": "Favorite",
+        "url": "https://open.spotify.com/album/0gXHLfKyAcWEdwcM67qyE4"
+      },
+      "artists": [
+        {
+          "name": "Silver Otto",
+          "url": "https://open.spotify.com/artist/1Zi3XzucRhWF2njLeWEWTF"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237236,
+      "name": "Favorite",
+      "url": "https://open.spotify.com/track/33IYQIbLGAeATtDHuhcp24"
+    },
+    {
+      "album": {
         "name": "The Sequel",
         "url": "https://open.spotify.com/album/7MOu9tp7BiEexvtVahvllb"
       },

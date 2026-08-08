@@ -1,12 +1,12 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 136998,
+  "num_followers": 137015,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGzOpzu6hWz9t2tqRpcRgSV22lF1",
+  "snapshot_id": "AAAAACkZFREjtgEVsQXyd5pyFUGFJyeE",
   "tracks": [
     {
       "added_at": "2024-03-25 13:06:06",
@@ -439,18 +439,18 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "De Nuevos a Viejos",
-        "url": "https://open.spotify.com/album/79kxc8g4YhMJ6jwNyQ8Deq"
+        "name": "Sandunguero",
+        "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
       },
       "artists": [
         {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+          "name": "Lito y Polaco",
+          "url": "https://open.spotify.com/artist/1CLPoZyoqBo2z444JtmBAF"
         }
       ],
-      "duration_ms": 168813,
-      "name": "Pegate",
-      "url": "https://open.spotify.com/track/7908xQNM5logiaITbmCM9a"
+      "duration_ms": 177640,
+      "name": "Maniatica Sexual",
+      "url": "https://open.spotify.com/track/2zzklcpDAS1ryizQj83uRy"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "Sandunguero",
-        "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
+        "name": "De Nuevos a Viejos",
+        "url": "https://open.spotify.com/album/79kxc8g4YhMJ6jwNyQ8Deq"
       },
       "artists": [
         {
-          "name": "Lito y Polaco",
-          "url": "https://open.spotify.com/artist/1CLPoZyoqBo2z444JtmBAF"
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
         }
       ],
-      "duration_ms": 177640,
-      "name": "Maniatica Sexual",
-      "url": "https://open.spotify.com/track/2zzklcpDAS1ryizQj83uRy"
+      "duration_ms": 168813,
+      "name": "Pegate",
+      "url": "https://open.spotify.com/track/7908xQNM5logiaITbmCM9a"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "Gargolas 1",
-        "url": "https://open.spotify.com/album/0kmhkq1nth7qzISAlQc7In"
-      },
-      "artists": [
-        {
-          "name": "Hector & Tito",
-          "url": "https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7"
-        }
-      ],
-      "duration_ms": 128013,
-      "name": "Unknown (Hector & Tito / Gargolas 1)",
-      "url": "https://open.spotify.com/track/4oLaSA8zC6SYJTxhLodNSZ"
-    },
-    {
-      "added_at": "2024-03-25 13:06:06",
-      "album": {
         "name": "Sandunguero",
         "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 103840,
       "name": "Desnudate",
       "url": "https://open.spotify.com/track/7a5dK2QQPkWMMebGely7Zq"
+    },
+    {
+      "added_at": "2024-03-25 13:06:06",
+      "album": {
+        "name": "Gargolas 1",
+        "url": "https://open.spotify.com/album/0kmhkq1nth7qzISAlQc7In"
+      },
+      "artists": [
+        {
+          "name": "Hector & Tito",
+          "url": "https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7"
+        }
+      ],
+      "duration_ms": 128013,
+      "name": "Unknown (Hector & Tito / Gargolas 1)",
+      "url": "https://open.spotify.com/track/4oLaSA8zC6SYJTxhLodNSZ"
     },
     {
       "added_at": "2024-03-25 13:06:06",

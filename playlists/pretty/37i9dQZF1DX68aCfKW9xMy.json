@@ -1,12 +1,12 @@
 {
   "description": "La casa de los corazones rotos.",
-  "num_followers": 1660546,
+  "num_followers": 1660569,
   "original_name": "Mal de Amores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJmqgzYZJZPmhIWyD5yjcPBzc6bf",
+  "snapshot_id": "AAAAALNNKMQIFM55ZpB/hjdgSxZXi7xK",
   "tracks": [
     {
       "added_at": "2026-02-27 19:49:52",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-02-27 19:49:52",
       "album": {
-        "name": "Vuela Muy Alto",
-        "url": "https://open.spotify.com/album/2lHx37g1SRidGYpGSJF7MK"
-      },
-      "artists": [
-        {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
-        }
-      ],
-      "duration_ms": 211186,
-      "name": "Malabares",
-      "url": "https://open.spotify.com/track/3pEZ2qP6CZzoE7htp2ZZBe"
-    },
-    {
-      "added_at": "2026-02-27 19:49:52",
-      "album": {
         "name": "Ojos En Blanco",
         "url": "https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 147053,
       "name": "Ya Te Perd\u00ed La Fe",
       "url": "https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5"
+    },
+    {
+      "added_at": "2026-02-27 19:49:52",
+      "album": {
+        "name": "Vuela Muy Alto",
+        "url": "https://open.spotify.com/album/2lHx37g1SRidGYpGSJF7MK"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "duration_ms": 211186,
+      "name": "Malabares",
+      "url": "https://open.spotify.com/track/3pEZ2qP6CZzoE7htp2ZZBe"
     },
     {
       "added_at": "2026-02-27 19:49:52",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-02-27 19:49:52",
       "album": {
-        "name": "Te Voy A Amar",
-        "url": "https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC"
-      },
-      "artists": [
-        {
-          "name": "Fidel Rueda",
-          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
-        }
-      ],
-      "duration_ms": 194626,
-      "name": "Enhorabuena",
-      "url": "https://open.spotify.com/track/7eensGADN6jTkmrtPPFcBO"
-    },
-    {
-      "added_at": "2026-02-27 19:49:52",
-      "album": {
         "name": "Solo Un Dia\u2026",
         "url": "https://open.spotify.com/album/6CpCo3owrPMEiQjREEFuk0"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 203493,
       "name": "Solo Un Dia (Ahora Te Amo)",
       "url": "https://open.spotify.com/track/51RcAoNIqe0G3284yxT8G0"
+    },
+    {
+      "added_at": "2026-02-27 19:49:52",
+      "album": {
+        "name": "Te Voy A Amar",
+        "url": "https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC"
+      },
+      "artists": [
+        {
+          "name": "Fidel Rueda",
+          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
+        }
+      ],
+      "duration_ms": 194626,
+      "name": "Enhorabuena",
+      "url": "https://open.spotify.com/track/7eensGADN6jTkmrtPPFcBO"
     },
     {
       "added_at": "2026-02-27 19:49:52",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-02-27 19:49:52",
       "album": {
-        "name": "\u00bfQui\u00e9n Es Usted?",
-        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "La N\u00famero 20",
-      "url": "https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE"
-    },
-    {
-      "added_at": "2026-02-27 19:49:52",
-      "album": {
         "name": "Migajero",
         "url": "https://open.spotify.com/album/0YliaYKdHWQ5EKmjNgBABI"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 267066,
       "name": "Migajero",
       "url": "https://open.spotify.com/track/7DKnuyS5fAoUkLGoaLCTUR"
+    },
+    {
+      "added_at": "2026-02-27 19:49:52",
+      "album": {
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 168840,
+      "name": "La N\u00famero 20",
+      "url": "https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE"
     },
     {
       "added_at": "2026-02-27 19:49:52",

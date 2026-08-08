@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Blnko en portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Nunca Jam\u00e1s en portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -338,6 +338,32 @@
       "duration_ms": 208850,
       "name": "A ver qui\u00e9n se duerme ahora",
       "url": "https://open.spotify.com/track/7o5WOg4bXlWjVmOBPLgEtb"
+    },
+    {
+      "album": {
+        "name": "A.C.A.B.",
+        "url": "https://open.spotify.com/album/3bCT4vdv2MUebW8wZYlJfz"
+      },
+      "artists": [
+        {
+          "name": "Los Invictos",
+          "url": "https://open.spotify.com/artist/042BvqIgyWcC0IRkALJ3KS"
+        },
+        {
+          "name": "RU-2",
+          "url": "https://open.spotify.com/artist/7ba4WwAJngkXdgHaXO3Lcf"
+        },
+        {
+          "name": "LuisEnrique NR",
+          "url": "https://open.spotify.com/artist/4n8ZCRYPCJshSuomDy6HIz"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149138,
+      "name": "A.C.A.B.",
+      "url": "https://open.spotify.com/track/4w8aR4fX28Y66eECoFut9R"
     },
     {
       "album": {
@@ -1536,6 +1562,24 @@
       "duration_ms": 209334,
       "name": "Bier & Ska",
       "url": "https://open.spotify.com/track/5NWX0nMD2FjeQW06RRuj4h"
+    },
+    {
+      "album": {
+        "name": "Bigger Splash",
+        "url": "https://open.spotify.com/album/3FQsXp0okLvibv2KLf56f6"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Bigger Splash",
+      "url": "https://open.spotify.com/track/1Iglg0BzSGKUh1bdoloFpb"
     },
     {
       "album": {
@@ -3118,7 +3162,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 119368,
       "name": "cuando no miraba atr\u00e1s",
       "url": "https://open.spotify.com/track/5cJWsZdN9imPUn5jQzIgqn"
@@ -7137,6 +7181,24 @@
     },
     {
       "album": {
+        "name": "La F\u00edsica Del Fracaso",
+        "url": "https://open.spotify.com/album/2hwtXWDK9gC4ENJ9iUGZdu"
+      },
+      "artists": [
+        {
+          "name": "Nunca Jamas",
+          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199346,
+      "name": "La F\u00edsica Del Fracaso",
+      "url": "https://open.spotify.com/track/6RzRZDuQceMj5fWad0N5Jl"
+    },
+    {
+      "album": {
         "name": "La Herida",
         "url": "https://open.spotify.com/album/0rer1BBpahM8okGG9wZEBG"
       },
@@ -9368,7 +9430,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 268053,
       "name": "Mi Catedral",
       "url": "https://open.spotify.com/track/46dzyJIPzp8WhdG8pFd4oj"
@@ -12054,7 +12116,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 128000,
       "name": "Puer Aeternus (19)",
       "url": "https://open.spotify.com/track/19BSPPRF5k760V9we6gkQa"
@@ -13634,7 +13696,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 159227,
       "name": "Soy Tuyo",
       "url": "https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3"
@@ -16276,6 +16338,28 @@
       "duration_ms": 244800,
       "name": "\u00bfQui\u00e9n Cuida al Pueblo?",
       "url": "https://open.spotify.com/track/640dyQsLPdiLI4vY16mq3D"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n Jugar\u00e1 Nintendo? (25 Aniversario)",
+        "url": "https://open.spotify.com/album/5HgOFgLZXGvtD4ZrUR33vG"
+      },
+      "artists": [
+        {
+          "name": "Taller para Ni\u00f1os",
+          "url": "https://open.spotify.com/artist/4AHgsY0GJKLwzLa4xmIFDn"
+        },
+        {
+          "name": "Say Ocean",
+          "url": "https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172390,
+      "name": "\u00bfQui\u00e9n Jugar\u00e1 Nintendo? (25 Aniversario)",
+      "url": "https://open.spotify.com/track/17BBXV7LiZ0fXviquoHLkt"
     },
     {
       "album": {

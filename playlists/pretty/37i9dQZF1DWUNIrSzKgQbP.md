@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 
 > Sweet songs for sunny days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,643,537 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,643,360 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 68 | [Julia](https://open.spotify.com/track/0LO7f7ZJg871B8hLTRzrfB) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:10 |
 | 69 | [Ancient Light](https://open.spotify.com/track/42Xt27QoxLh1XxxG8ILEMI) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Ancient Light](https://open.spotify.com/album/3RoX6N86SIrznMx2k28sdl) | 3:34 |
 | 70 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0hLObGB9xRjuRVasHehmLI) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/1MIrKfOLcpv4bBLRJg8AnH) | 3:10 |
-| 71 | [Scott Street](https://open.spotify.com/track/0jqFM7E9z1PLYtPVCuFwAi) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O) | 5:05 |
-| 72 | [Wildfire](https://open.spotify.com/track/6VfY0sgS4j4JpFQH8kk4XA) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/2Ww7LYiKIxQUhLyiXtlppZ) | 5:29 |
-| 73 | [Savannah](https://open.spotify.com/track/0tjnfbTtCONUoMqMJmY1vP) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Savannah](https://open.spotify.com/album/06RBvB1oS78HYZ6n0zRLwz) | 3:24 |
-| 74 | [Dandelions](https://open.spotify.com/track/4trAC02hAH0E6u55iHok0u) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Dandelions](https://open.spotify.com/album/7yszWjQIIM4WrHH3MhgicV) | 3:16 |
-| 75 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 |
+| 71 | [Wildfire](https://open.spotify.com/track/6VfY0sgS4j4JpFQH8kk4XA) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Blindfaller](https://open.spotify.com/album/2Ww7LYiKIxQUhLyiXtlppZ) | 5:29 |
+| 72 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 |
+| 73 | [Scott Street](https://open.spotify.com/track/0jqFM7E9z1PLYtPVCuFwAi) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O) | 5:05 |
+| 74 | [Savannah](https://open.spotify.com/track/0tjnfbTtCONUoMqMJmY1vP) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Savannah](https://open.spotify.com/album/06RBvB1oS78HYZ6n0zRLwz) | 3:24 |
+| 75 | [Dandelions](https://open.spotify.com/track/4trAC02hAH0E6u55iHok0u) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Dandelions](https://open.spotify.com/album/7yszWjQIIM4WrHH3MhgicV) | 3:16 |
 
-Snapshot ID: `AAAAAH9LB7QJN+/tYMSi1eJKFXK8jE1u`
+Snapshot ID: `AAAAABJ+fhpKOlhq9z55JpmkWv7wMhRw`

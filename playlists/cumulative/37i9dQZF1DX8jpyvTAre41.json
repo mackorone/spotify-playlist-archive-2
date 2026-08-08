@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best rock songs of the moment. Cover: ivri",
+  "description": "The best rock songs of the moment. Cover: Weezer",
   "name": "Rock Now",
   "tracks": [
     {
@@ -2545,6 +2545,24 @@
     },
     {
       "album": {
+        "name": "Baby Kool (Evelyn)",
+        "url": "https://open.spotify.com/album/5FiEKdAi2sTPyyLAB3B4JJ"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224199,
+      "name": "Baby Kool (Evelyn)",
+      "url": "https://open.spotify.com/track/2uPY68Mxt9CqEc7i3o4BTy"
+    },
+    {
+      "album": {
         "name": "RUSH!",
         "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
       },
@@ -3893,6 +3911,24 @@
     },
     {
       "album": {
+        "name": "Blood On Our Hands",
+        "url": "https://open.spotify.com/album/3WTQQUf94CtdQsQZ1xkOYs"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109196,
+      "name": "Blood On Our Hands",
+      "url": "https://open.spotify.com/track/5VicH23MWaIKMmtkWJtqfY"
+    },
+    {
+      "album": {
         "name": "Blood Runs Red",
         "url": "https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw"
       },
@@ -5001,6 +5037,24 @@
     },
     {
       "album": {
+        "name": "C.E.O.",
+        "url": "https://open.spotify.com/album/02x4x22HOnv0j9Zk1FJpeY"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174253,
+      "name": "C.E.O.",
+      "url": "https://open.spotify.com/track/6ZsVaTDPoRFCX9evH3x1U7"
+    },
+    {
+      "album": {
         "name": "Uncaged",
         "url": "https://open.spotify.com/album/6FIzbi06xxtrTfzjLOdG7p"
       },
@@ -5896,6 +5950,24 @@
       "duration_ms": 167000,
       "name": "Chillthefuckout.",
       "url": "https://open.spotify.com/track/5IaL7Dft0IRhwaz4royvg7"
+    },
+    {
+      "album": {
+        "name": "Chin Up, Beautiful",
+        "url": "https://open.spotify.com/album/0kimNgdB69eNOuDf4xZ7PW"
+      },
+      "artists": [
+        {
+          "name": "Jutes",
+          "url": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220350,
+      "name": "Chin Up, Beautiful",
+      "url": "https://open.spotify.com/track/4F62L8Scos6mt6yoYulGuQ"
     },
     {
       "album": {
@@ -9094,6 +9166,24 @@
       "duration_ms": 187706,
       "name": "Drunk lullaby",
       "url": "https://open.spotify.com/track/3Au7vtaP1SxHi2OfGSCGnW"
+    },
+    {
+      "album": {
+        "name": "Drywall",
+        "url": "https://open.spotify.com/album/01OSOU9YnGYjkpf2YORl6j"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254743,
+      "name": "Drywall",
+      "url": "https://open.spotify.com/track/4ygcbHjrfBz5ULRFb0G3OV"
     },
     {
       "album": {
@@ -12399,6 +12489,24 @@
     },
     {
       "album": {
+        "name": "Give Me Dirt",
+        "url": "https://open.spotify.com/album/64gq0H6qzkiRRf0tFPtxWG"
+      },
+      "artists": [
+        {
+          "name": "Cancer Bats",
+          "url": "https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222893,
+      "name": "Give Me Dirt",
+      "url": "https://open.spotify.com/track/03A8fV79d1nMZXMo3vdw3u"
+    },
+    {
+      "album": {
         "name": "Welcome To My House",
         "url": "https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw"
       },
@@ -12623,6 +12731,28 @@
     },
     {
       "album": {
+        "name": "GOING UNDER (with Paledusk)",
+        "url": "https://open.spotify.com/album/54tWIX2hWrWrPkRd8ko6K2"
+      },
+      "artists": [
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        },
+        {
+          "name": "Paledusk",
+          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189411,
+      "name": "GOING UNDER (with Paledusk)",
+      "url": "https://open.spotify.com/track/3M9kF53lihIrXoLUoHkYC6"
+    },
+    {
+      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/50SocXtryJeL2lfhNhDq2B"
       },
@@ -12728,6 +12858,24 @@
       "duration_ms": 174925,
       "name": "Good For Me",
       "url": "https://open.spotify.com/track/1OAMZ1AV5y6DHI5kzP0L3V"
+    },
+    {
+      "album": {
+        "name": "Good Fortune",
+        "url": "https://open.spotify.com/album/2NSRxoaGY9dxPJ0f3Rpelk"
+      },
+      "artists": [
+        {
+          "name": "Citizen",
+          "url": "https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187156,
+      "name": "Good Fortune",
+      "url": "https://open.spotify.com/track/1wlzx2qdBH3SESjGCmScVE"
     },
     {
       "album": {
@@ -15740,6 +15888,24 @@
       "duration_ms": 235744,
       "name": "If You Could Talk",
       "url": "https://open.spotify.com/track/6VeZUUTHx67EmtTM4682eA"
+    },
+    {
+      "album": {
+        "name": "If You Don't Know",
+        "url": "https://open.spotify.com/album/3hwJnG7iBzdR3OWsfEZP15"
+      },
+      "artists": [
+        {
+          "name": "Wine Lips",
+          "url": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194206,
+      "name": "If You Don't Know",
+      "url": "https://open.spotify.com/track/1jeIkTzDvre9dyh1Zekume"
     },
     {
       "album": {
@@ -20448,6 +20614,24 @@
       "duration_ms": 178924,
       "name": "Mimi's Delivery Service",
       "url": "https://open.spotify.com/track/3yXJjux4ngdBID25f0QIui"
+    },
+    {
+      "album": {
+        "name": "Mind Over Matter",
+        "url": "https://open.spotify.com/album/7slQQJxBcmvMXwTrSV3eor"
+      },
+      "artists": [
+        {
+          "name": "The Veer Union",
+          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232075,
+      "name": "Mind Over Matter",
+      "url": "https://open.spotify.com/track/6USMpkogyo0uFWajmsuUZb"
     },
     {
       "album": {
@@ -27733,6 +27917,24 @@
     },
     {
       "album": {
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/2pxjaO2WsHQnbnrpQIfUry"
+      },
+      "artists": [
+        {
+          "name": "ARK IDENTITY",
+          "url": "https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155261,
+      "name": "Signals",
+      "url": "https://open.spotify.com/track/7p5z1HdAOE3o8S9CDRZiIu"
+    },
+    {
+      "album": {
         "name": "Glasgow Eyes",
         "url": "https://open.spotify.com/album/537Y3cd2bKYcMTakW8b7YL"
       },
@@ -31143,6 +31345,24 @@
     },
     {
       "album": {
+        "name": "but, there's beauty in the fall from Grace",
+        "url": "https://open.spotify.com/album/0CMFKNjsFcUvlSRzI6FF3Z"
+      },
+      "artists": [
+        {
+          "name": "Emily Steinwall",
+          "url": "https://open.spotify.com/artist/1kbZYRIjjS53oHLHgNjL8o"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182693,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/56UIXxwWsycJN43u1BaRCY"
+    },
+    {
+      "album": {
         "name": "Pink Moon",
         "url": "https://open.spotify.com/album/7H14q1uaSsDDgSV0rn3W5c"
       },
@@ -31194,6 +31414,24 @@
       "duration_ms": 360760,
       "name": "The Foundations of Decay",
       "url": "https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q"
+    },
+    {
+      "album": {
+        "name": "The Fountain",
+        "url": "https://open.spotify.com/album/5c0apRbvlzHy0JCWSk7x6E"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "The Fountain",
+      "url": "https://open.spotify.com/track/0HnLhPc4Vdg2HS1p6fJblv"
     },
     {
       "album": {
@@ -31725,6 +31963,24 @@
     },
     {
       "album": {
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/6xg8Xs4Y3fNq1uJlj7kMXu"
+      },
+      "artists": [
+        {
+          "name": "The Darcys",
+          "url": "https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212803,
+      "name": "The Ride",
+      "url": "https://open.spotify.com/track/5eeMCQlmXRkCETQ61AGnUh"
+    },
+    {
+      "album": {
         "name": "The Sex Was Good Until It Wasn't",
         "url": "https://open.spotify.com/album/3aB3aPWoj4jMDNE3nC8DFf"
       },
@@ -32014,6 +32270,24 @@
       "duration_ms": 227659,
       "name": "The Wolf",
       "url": "https://open.spotify.com/track/2LT7SqhTeMEczWPBABrR3r"
+    },
+    {
+      "album": {
+        "name": "The Wolf",
+        "url": "https://open.spotify.com/album/1nGJJCXtR8r2PNUbX0JCEz"
+      },
+      "artists": [
+        {
+          "name": "half\u2022alive",
+          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179095,
+      "name": "The Wolf",
+      "url": "https://open.spotify.com/track/6IMMPyK6XV6J93URGopN3e"
     },
     {
       "album": {
@@ -33918,6 +34192,24 @@
       "duration_ms": 211321,
       "name": "Uzumaki",
       "url": "https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP"
+    },
+    {
+      "album": {
+        "name": "Vacation",
+        "url": "https://open.spotify.com/album/2Gm2o38xxEiIbwmWUIPog9"
+      },
+      "artists": [
+        {
+          "name": "Passion Mango",
+          "url": "https://open.spotify.com/artist/1duhcJbPuZ66kIsntXd9zn"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144903,
+      "name": "Vacation",
+      "url": "https://open.spotify.com/track/6l02vsnlXfxMZomTDTf1xF"
     },
     {
       "album": {

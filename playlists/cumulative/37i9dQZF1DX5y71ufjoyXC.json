@@ -603,6 +603,28 @@
     },
     {
       "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176568,
+      "name": "Ah\u00ed",
+      "url": "https://open.spotify.com/track/6DoUDG1GJrJf6eGQLUBBnm"
+    },
+    {
+      "album": {
         "name": "AL GOLPITO",
         "url": "https://open.spotify.com/album/6ElLi9u330BAgg6QT5dpUL"
       },
@@ -736,6 +758,24 @@
       "duration_ms": 223084,
       "name": "algo as\u00ed (remix)",
       "url": "https://open.spotify.com/track/0z0IEbMRvIEjj9Iif4doxD"
+    },
+    {
+      "album": {
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240120,
+      "name": "Algo Est\u00e1 Cambiando",
+      "url": "https://open.spotify.com/track/7mJG18yZGq0aXKWNtK3FQf"
     },
     {
       "album": {
@@ -1382,7 +1422,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -1630,7 +1670,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 142456,
       "name": "Besos Chiquitos",
       "url": "https://open.spotify.com/track/4HJjTChqM6i1WdP4Wa6NXw"
@@ -2220,7 +2260,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 219989,
       "name": "CH\u00c9VERE (premium_remix)",
       "url": "https://open.spotify.com/track/3CBEVPwR3kUXDoTx1lqFUQ"
@@ -2882,7 +2922,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 226666,
       "name": "Desde Que Te Tengo",
       "url": "https://open.spotify.com/track/27aIkG6qb03S40uNAorXkM"
@@ -2970,7 +3010,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 275898,
       "name": "Despu\u00e9s de ti",
       "url": "https://open.spotify.com/track/6PbhFQkpQjoojWo2b6Ghoi"
@@ -4863,6 +4903,40 @@
     },
     {
       "album": {
+        "name": "G\u00d3ZALO, QUE TU MARIDO EST\u00c1 PRESO (RMX)",
+        "url": "https://open.spotify.com/album/0JVVZgd8CUQypp9JhyTJcP"
+      },
+      "artists": [
+        {
+          "name": "Zelcok Kp",
+          "url": "https://open.spotify.com/artist/34KCWdUCHMLKkx3sFb06zr"
+        },
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Kiddy Fount",
+          "url": "https://open.spotify.com/artist/0pF2lydgnGUlz4s1Zzhxra"
+        },
+        {
+          "name": "J-Lit",
+          "url": "https://open.spotify.com/artist/7dUBKGHcRsialvNetw2H6v"
+        },
+        {
+          "name": "Luis Malave",
+          "url": "https://open.spotify.com/artist/27FuautCwBe6cBpghICnH2"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234330,
+      "name": "G\u00d3ZALO, QUE TU MARIDO EST\u00c1 PRESO - RMX",
+      "url": "https://open.spotify.com/track/0pOfjsuKWEDHqSjzgXzuhd"
+    },
+    {
+      "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
       },
@@ -5316,7 +5390,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 202386,
       "name": "Ingl\u00e9s En Miami",
       "url": "https://open.spotify.com/track/2mnqIjaciToIErlxJDFNle"
@@ -7291,6 +7365,24 @@
     },
     {
       "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144286,
+      "name": "MATADORA",
+      "url": "https://open.spotify.com/track/04d5HlcQX6zH5MMqffXOon"
+    },
+    {
+      "album": {
         "name": "MATCHA",
         "url": "https://open.spotify.com/album/1N83uOaeveV2ZNHVvEF0YA"
       },
@@ -7302,7 +7394,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 156517,
       "name": "MATCHA",
       "url": "https://open.spotify.com/track/5h6HapZQK3Jq0H9n7epDwL"
@@ -8476,7 +8568,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 204321,
       "name": "Noche Perfecta",
       "url": "https://open.spotify.com/track/66g9ZeqWCbpcFfv1B2W6of"
@@ -8684,6 +8776,24 @@
       "duration_ms": 201935,
       "name": "offline",
       "url": "https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304200,
+      "name": "Oh Qu\u00e9 Ser\u00e1?",
+      "url": "https://open.spotify.com/track/2n1MTLCis6qPSDKdr5XSDI"
     },
     {
       "album": {
@@ -8958,6 +9068,24 @@
       "duration_ms": 284021,
       "name": "Pacto (feat. Luar La L)",
       "url": "https://open.spotify.com/track/1nrYvSP0xgsD1pBcLju1R0"
+    },
+    {
+      "album": {
+        "name": "PALETA",
+        "url": "https://open.spotify.com/album/5XbgmPegvInyYKB2Ju76ID"
+      },
+      "artists": [
+        {
+          "name": "rommulas",
+          "url": "https://open.spotify.com/artist/4QsDoxai6urbmrML19OYa3"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88421,
+      "name": "PALETA",
+      "url": "https://open.spotify.com/track/4C1wgr96INpecKLtaTirlw"
     },
     {
       "album": {
@@ -9638,7 +9766,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 264946,
       "name": "POR SI MA\u00d1ANA NO ESTOY",
       "url": "https://open.spotify.com/track/595wwjQiad6e6lSTScmXvz"
@@ -11641,6 +11769,28 @@
     },
     {
       "album": {
+        "name": "9 months & 50 hours",
+        "url": "https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193637,
+      "name": "Te Estoy Correteando",
+      "url": "https://open.spotify.com/track/5B579RUazOpBcuxjTZWnMs"
+    },
+    {
+      "album": {
         "name": "Te Felicito",
         "url": "https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7"
       },
@@ -11700,6 +11850,32 @@
       "duration_ms": 216000,
       "name": "Te Marqu\u00e9 Pedo",
       "url": "https://open.spotify.com/track/4JfWJOuhXu0QVnev3jgC9S"
+    },
+    {
+      "album": {
+        "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
+        "url": "https://open.spotify.com/album/0vJ7dYMRW2KFtO8rdbfm3h"
+      },
+      "artists": [
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150944,
+      "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
+      "url": "https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355"
     },
     {
       "album": {
@@ -11904,7 +12080,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 243716,
       "name": "Tit\u00ed Me Pregunt\u00f3",
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
@@ -12412,6 +12588,24 @@
       "duration_ms": 223783,
       "name": "Un Desperdicio",
       "url": "https://open.spotify.com/track/4Pqi8W12YuzAWBvLdJI4ed"
+    },
+    {
+      "album": {
+        "name": "Begin the Beguine",
+        "url": "https://open.spotify.com/album/5siSTOhozc4kGQxQgbFhvS"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182466,
+      "name": "Un Dia Tu, Un Dia Yo",
+      "url": "https://open.spotify.com/track/3q9F3KoHnZ0qj53e0yxWYo"
     },
     {
       "album": {
@@ -13256,7 +13450,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-22",
+      "date_removed": null,
       "duration_ms": 163759,
       "name": "Y Que Fue?",
       "url": "https://open.spotify.com/track/5UcVIU1tsbN7ZsOSpR8AFD"

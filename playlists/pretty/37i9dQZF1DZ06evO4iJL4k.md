@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 
 > This is Filipe Ret\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,212 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,260 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 49 | [Não Sou Daqui](https://open.spotify.com/track/44ewce1oaRA9AfHPRenLCe) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [NUME](https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm) | 2:48 |
 | 50 | [Distante](https://open.spotify.com/track/4jx7VJCUzZpc7bVLCfaxKY) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Estrela do Rap](https://open.spotify.com/album/3hjCjfbhGRsTE3SBpLnXOX) | 2:52 |
 
-Snapshot ID: `anJ9AAAAAAA3+5gnNGDo5c1gr1nnjEaa`
+Snapshot ID: `anPOgAAAAAC9VpqoWi7O3ws9aSdTwhOf`

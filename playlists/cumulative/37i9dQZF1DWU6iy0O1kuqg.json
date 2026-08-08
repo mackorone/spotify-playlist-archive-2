@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "\u00a1Lo mejor de dos mundos! Qu\u00e9 retumbe la tuba y arremangue el acorde\u00f3n. Clave Especial y Los Parras en portada.",
+  "description": "\u00a1Lo mejor de dos mundos! Qu\u00e9 retumbe la tuba y arremangue el acorde\u00f3n. Calibre 50 en portada.",
   "name": "Norte\u00f1o-Banda",
   "tracks": [
     {
@@ -803,6 +803,24 @@
     },
     {
       "album": {
+        "name": "Mi Problema",
+        "url": "https://open.spotify.com/album/4R8EESNE81YaF6xBamLsjW"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174528,
+      "name": "Mi Problema",
+      "url": "https://open.spotify.com/track/7rPsUk73ECuvuliteIS5LE"
+    },
+    {
+      "album": {
         "name": "20 Canciones Banda y Norteno",
         "url": "https://open.spotify.com/album/7gct4wYWnkGa4lm44P8Lgt"
       },
@@ -958,7 +976,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 212563,
       "name": "Pudiste Pero No Quisiste",
       "url": "https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC"

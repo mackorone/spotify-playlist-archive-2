@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 
 > Where everything is lovely and snuggly <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,293 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,266 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 28 | [A Sunday Kind Of Love](https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:16 |
 | 29 | [Vincent](https://open.spotify.com/track/0VNzEY1G4GLqcNx5qaaTl6) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [American Pie](https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS) | 4:03 |
 | 30 | [Next to You](https://open.spotify.com/track/3MwHZDGwAR8RjZZBriBqmx) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs from the Valley](https://open.spotify.com/album/2SdtFo4v3o7xfyyEOnXlIH) | 4:16 |
-| 31 | [You Love Me](https://open.spotify.com/track/4BqIT4j2xzROrC9dMlgXPT) | [Kimya Dawson](https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz) | [Hidden Vagenda](https://open.spotify.com/album/12025laJ05m1gjmZVLNv2B) | 2:39 |
-| 32 | [Gravity](https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:05 |
+| 31 | [Gravity](https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:05 |
+| 32 | [You Love Me](https://open.spotify.com/track/4BqIT4j2xzROrC9dMlgXPT) | [Kimya Dawson](https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz) | [Hidden Vagenda](https://open.spotify.com/album/12025laJ05m1gjmZVLNv2B) | 2:39 |
 | 33 | [5](https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [lucre](https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4) | 2:00 |
 | 34 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 |
 | 35 | [ingydar](https://open.spotify.com/track/5CpH0bwau1sW8vtTBQ8Erc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 4:08 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 62 | [Lay Down](https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Son Little \(Deluxe Edition\)](https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ) | 3:48 |
 | 63 | [I Guess](https://open.spotify.com/track/2V6xyW0KBDHzyQ4Q0ZSq1W) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 3:44 |
 | 64 | [One And Only](https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Small Changes](https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww) | 4:31 |
-| 65 | [Sexy Weekend](https://open.spotify.com/track/3tjnCI2F64MOrRzi3NgXCA) | [Scoundrels](https://open.spotify.com/artist/4gk4lhkLjXnM1P7DT0TSuj) | [Sexy Weekend EP](https://open.spotify.com/album/0ELpN09jwSKKGQAtMTvdcY) | 4:11 |
-| 66 | [Pale Song](https://open.spotify.com/track/4eaWT26MQU3xfjni9MySYF) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 2:45 |
+| 65 | [Pale Song](https://open.spotify.com/track/4eaWT26MQU3xfjni9MySYF) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 2:45 |
+| 66 | [Sexy Weekend](https://open.spotify.com/track/3tjnCI2F64MOrRzi3NgXCA) | [Scoundrels](https://open.spotify.com/artist/4gk4lhkLjXnM1P7DT0TSuj) | [Sexy Weekend EP](https://open.spotify.com/album/0ELpN09jwSKKGQAtMTvdcY) | 4:11 |
 | 67 | [Sheep](https://open.spotify.com/track/7412fpVfB2PSSb1nENQczC) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Sheep](https://open.spotify.com/album/5a09nRt0ZS75T2PpjP1W0c) | 3:35 |
 | 68 | [You Send Me](https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:42 |
 | 69 | [Don't Let Me Down \- Demo](https://open.spotify.com/track/1VwPTHAfPvcL1ZubK6qabL) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Don't Let Me Down \(Demo\)](https://open.spotify.com/album/7GWow8Uxx2X9Moop7GD3KR) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 99 | [Lemon Garland](https://open.spotify.com/track/1iHN6klBw15bGhh0ZKu9K3) | [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [patching](https://open.spotify.com/album/56stRtD5PbBuywAzERa2GR) | 3:11 |
 | 100 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
 
-Snapshot ID: `AAAAADJuo1kdLNDDJ6aVZrBrTBtCB/fU`
+Snapshot ID: `AAAAAKAje3mlGn6F9RxhOjPN7wTKtFk9`

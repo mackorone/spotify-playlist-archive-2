@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 
 > Walk the bridge between indie and folk\. Cover: Genevieve Stokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,051 likes - 125 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,052 likes - 125 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 52 | [Eye On The Bat](https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:56 |
 | 53 | [unposted letters](https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [unposted letters](https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG) | 3:25 |
 | 54 | [Just Like North](https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Just Like North](https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld) | 3:04 |
-| 55 | [Spell](https://open.spotify.com/track/6VnKIbHslTmwhEmH36ln4Q) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Spell](https://open.spotify.com/album/4DW2TnIuLYckzD1fPIgOrK) | 4:07 |
-| 56 | [Pretender](https://open.spotify.com/track/2qIc2lDtHJte4EpEx7nKXn) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Pretender](https://open.spotify.com/album/7B79vUpu3jvPlRcP9n7RKm) | 2:57 |
+| 55 | [Pretender](https://open.spotify.com/track/2qIc2lDtHJte4EpEx7nKXn) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Pretender](https://open.spotify.com/album/7B79vUpu3jvPlRcP9n7RKm) | 2:57 |
+| 56 | [Spell](https://open.spotify.com/track/6VnKIbHslTmwhEmH36ln4Q) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Spell](https://open.spotify.com/album/4DW2TnIuLYckzD1fPIgOrK) | 4:07 |
 | 57 | [Blouse \- Recorded At Electric Lady Studios](https://open.spotify.com/track/127CAKy0KyYoR0r7QNbvVR) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Live at Electric Lady](https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6) | 3:13 |
 | 58 | [Worst Case Kid](https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Worst Case Kid](https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd) | 2:32 |
 | 59 | [A Little Love](https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8), [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [A Little Love](https://open.spotify.com/album/6E1vE4WcIXDDNOPW4jPYff) | 3:21 |
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 108 | [Thompson's Station](https://open.spotify.com/track/6iYq8a6idPPaJsm9DxQ3uF) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Thompson's Station](https://open.spotify.com/album/4zaSYI7zjDbqxz3KjJEXcV) | 3:24 |
 | 109 | [Spring Bug](https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Spring Bug](https://open.spotify.com/album/3KqVVm7Gwy3lbz12qFTf0L) | 3:27 |
 | 110 | [The Ballad of Betty and Barney Hill](https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [The Ballad of Betty and Barney Hill](https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC) | 3:16 |
-| 111 | [Jean](https://open.spotify.com/track/4JdxxPk2G1IUAZuiBU0Ky0) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Jean](https://open.spotify.com/album/38Zce9bowGGerUydHoAoVA) | 3:01 |
-| 112 | [Homes](https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 4:49 |
+| 111 | [Homes](https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 4:49 |
+| 112 | [Jean](https://open.spotify.com/track/4JdxxPk2G1IUAZuiBU0Ky0) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Jean](https://open.spotify.com/album/38Zce9bowGGerUydHoAoVA) | 3:01 |
 | 113 | [Witch Hazel](https://open.spotify.com/track/43w3dq24QUTpiuWfHcgo0e) | [Karen Took The Kids](https://open.spotify.com/artist/1yUmkbNpSASuQpqfjVdkCE) | [Witch Hazel](https://open.spotify.com/album/6RA6gY6thvF9JRtZOosvMn) | 4:22 |
 | 114 | [Sunburn Fades](https://open.spotify.com/track/5Y1syktNHkkg5dhbeoEBwX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunburn Fades](https://open.spotify.com/album/1YHBRdvhAcSDDV5DypIPia) | 3:53 |
 | 115 | [I'm Ready](https://open.spotify.com/track/3Oz0YfVhVUHm2P3n1zQoHe) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [I'm Ready](https://open.spotify.com/album/2dMFioZFie2DdXBNFkLfol) | 3:14 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 124 | [Can I Trust You](https://open.spotify.com/track/4T2pumcxU0Kx8PEsP3bXlJ) | [Junior Mesa](https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX) | [Can I Trust You](https://open.spotify.com/album/6vxHdBdkoZgnjGBqXZuulZ) | 3:21 |
 | 125 | [Come Onn](https://open.spotify.com/track/3W2Pf6i8TIFMiREkk7oxtn) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Come Onn](https://open.spotify.com/album/1ZTeqM8XIAvQ5YlP3BqOBl) | 3:24 |
 
-Snapshot ID: `AAAAAJNjSZshhy8Yzs8SPRhHxJluRZyi`
+Snapshot ID: `AAAAAD3uKmaGhOUel/8/3gLNaRA2+gUR`

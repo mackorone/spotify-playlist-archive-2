@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs.
 
-189 songs - 9 hr 15 min
+190 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [All Eyes Down](https://open.spotify.com/track/0FtqurPJxBXugBGEPyHXtG) | [M Soni](https://open.spotify.com/artist/68BFsEEExE8N2YNjmYlP4X), [Jaggi](https://open.spotify.com/artist/3xKm7gBOnRxMwTHucbePnJ) | [All Eyes Down](https://open.spotify.com/album/1dQn4cFiJRHy9cMLNlnhpx) | 3:01 | 2024-03-01 | 2024-05-01 |
 | [Asla](https://open.spotify.com/track/39dMWNYC5L8Vi4H7T7y2LZ) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf), [Vikrant Mehla](https://open.spotify.com/artist/6oh6dByxCViHDAuvRBE50H), [Khushboo Manhas](https://open.spotify.com/artist/4AcqEg3wRMVuY32zjQnCVf) | [Asla](https://open.spotify.com/album/6yWbqtrvJssVPu5MKs9cVG) | 2:29 | 2023-07-24 | 2024-04-19 |
 | [Baagh](https://open.spotify.com/track/27vHx0lpzWllP7iV224uel) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Baagh](https://open.spotify.com/album/3ItDPo58OHSB4vo99lsu6z) | 3:09 | 2025-08-19 |  |
+| [Baaghi](https://open.spotify.com/track/6cRSpS7085ye7N83OBQ6x7) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob), [Pinna Music](https://open.spotify.com/artist/0LqkiA6OhstUwy7qDhRreD), [Dk Mehla](https://open.spotify.com/artist/4ke6jFQNtHEVe1l3dt7jY9) | [Baaghi](https://open.spotify.com/album/5ZQ6WBlRFsjQnKozQff2bs) | 3:24 | 2026-08-07 |  |
 | [Bad Boys](https://open.spotify.com/track/5WkaECgnFSCeSHKBoRGoNs) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [Bad Boys](https://open.spotify.com/album/7KC6ODLTHNAlrJnObUIqaw) | 2:22 | 2023-12-22 | 2024-03-27 |
 | [BADERA](https://open.spotify.com/track/6lPHkAlcTwbasmpaGJ0MiY) | [BOBBY GAHLOT AKA RJ01](https://open.spotify.com/artist/7ft8TXI7fXZgCWdUYgP5yu), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [BADERA](https://open.spotify.com/album/77mzQDtenloNZCgsZtGtEo) | 2:23 | 2025-05-16 | 2025-09-13 |
 | [Badmasa Ka Garh](https://open.spotify.com/track/7HXSXBJJXfqFbywTBjdHNf) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj) | [Badmasa Ka Garh](https://open.spotify.com/album/0xNCSvRoSzulUTSZpFPOxM) | 2:15 | 2025-03-27 | 2025-09-30 |
@@ -42,7 +43,7 @@
 | [Brand New](https://open.spotify.com/track/5hDKa4HzGxhnLGO6vnc3pA) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Shiva Choudhary](https://open.spotify.com/artist/3KOSRNy74RLnTAFn0u1tmN), [Love Kataria](https://open.spotify.com/artist/68Zi4yF7GdesbYgTEEZPDZ), [Sshiv](https://open.spotify.com/artist/6NyXhJPrcOKVowHPoP5AQA) | [Brand New](https://open.spotify.com/album/2dj8GXKlijOBhPcY9DXY2k) | 1:50 | 2023-11-09 | 2024-02-13 |
 | [BROTHERHOOD](https://open.spotify.com/track/3wFvPbq2unoV7EaQUHMQZ4) | [Naveen Chaudhary](https://open.spotify.com/artist/7mG5Kqg1c8YqOjzxwbmdxB), [OG Sandhu](https://open.spotify.com/artist/6BWgZpr1zVC2EYLpTv8ZVE) | [BROTHERHOOD](https://open.spotify.com/album/7FbUkl3XwYstd8g2xI9tQy) | 2:32 | 2025-12-05 |  |
 | [Challenge](https://open.spotify.com/track/1bWNgMqT4VTI5kbxhPX7Hl) | [Billa Sonipat Ala](https://open.spotify.com/artist/2meesqiC5l9NfNShrgP8Hf), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Guri Nimana](https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f) | [Challenge](https://open.spotify.com/album/70E0DIEA35KG2LUieB96xT) | 3:13 | 2026-02-17 |  |
-| [Cheete](https://open.spotify.com/track/10ipeWfN2UZWuFgN82YiV2) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj) | [Cheete](https://open.spotify.com/album/156qPdGRsin25x6LKHJTXg) | 2:32 | 2025-08-21 |  |
+| [Cheete](https://open.spotify.com/track/10ipeWfN2UZWuFgN82YiV2) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj) | [Cheete](https://open.spotify.com/album/156qPdGRsin25x6LKHJTXg) | 2:32 | 2025-08-21 | 2026-08-08 |
 | [Chhora Gaama Ka](https://open.spotify.com/track/3MJjaLxov2ClpY1DxXUew9) | [Vikram Malik](https://open.spotify.com/artist/05mkBonlxw525IElRofCpI) | [Vikram Ki EP](https://open.spotify.com/album/1PRsHLUDR8aEsAmdbNGumm) | 3:02 | 2024-04-17 | 2025-10-04 |
 | [Chhora Haryane Ala](https://open.spotify.com/track/04IAIuNeXUGZCJlogBfQqP) | [Diler Kharkiya](https://open.spotify.com/artist/5d6sKB0JbbWKiWoPDTLPj0) | [Chhora Haryane Ala](https://open.spotify.com/album/51Ucmq3UdA5pvIJGy0TvUC) | 2:31 | 2024-01-31 | 2024-10-24 |
 | [Chora Baba Ka](https://open.spotify.com/track/3fz747rKjbEa6mtclKacjf) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Chora Baba Ka](https://open.spotify.com/album/6qW38JP4tbzrsZ5VtxUNUS) | 2:55 | 2023-10-20 |  |

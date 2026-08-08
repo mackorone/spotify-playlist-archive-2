@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,208 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,240 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 25 | [Drunk Right Now \(Na Na Na\) with Akon](https://open.spotify.com/track/132jKGj1Xh6hmbA4TjeJIJ) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Later Tonight](https://open.spotify.com/album/7hAMjXvMKlllp6f3WZatdD) | 3:18 |
 | 26 | [I'm So Paid](https://open.spotify.com/track/6M07mzRP5ByQiWexLtR8PU) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Freedom](https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg) | 4:24 |
 | 27 | [Boom Body](https://open.spotify.com/track/2FIGowzgXPaIuZhcFNdT2P) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Aidonia](https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs) | [Lottery](https://open.spotify.com/album/3XEh38wILVLlHm4bs3eKY4) | 3:05 |
-| 28 | [Bananza \(Belly Dancer\)](https://open.spotify.com/track/3BwkldhE22DdxOcXegF2Kv) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:58 |
-| 29 | [Baby, I'm Back](https://open.spotify.com/track/00da5UpHHr2CcmAedVX3Be) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Super Saucy](https://open.spotify.com/album/3PVZuZnUTxhpUN7T5A4O5x) | 3:39 |
+| 28 | [Baby, I'm Back](https://open.spotify.com/track/00da5UpHHr2CcmAedVX3Be) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Super Saucy](https://open.spotify.com/album/3PVZuZnUTxhpUN7T5A4O5x) | 3:39 |
+| 29 | [Bananza \(Belly Dancer\)](https://open.spotify.com/track/3BwkldhE22DdxOcXegF2Kv) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:58 |
 | 30 | [HONEY](https://open.spotify.com/track/0UbTNEp33rfhRrMgON4Jr3) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [HONEY](https://open.spotify.com/album/2PCSMP8JYKfYvBv2AZ4SaN) | 2:42 |
 | 31 | [I'll Still Kill](https://open.spotify.com/track/0XV3lm3ZxKUr6FiWVdJuyk) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Curtis](https://open.spotify.com/album/5VfBwkAoSsQwtZjPU0Gr7h) | 3:43 |
 | 32 | [What You Got](https://open.spotify.com/track/3MldzywZOH4Uci6bq9noyJ) | [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Colby O](https://open.spotify.com/album/5g8W4mhkTV4XZ4YuBmhSr3) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 49 | [What's Love \(feat\. Akon\)](https://open.spotify.com/track/4g63oKy2o7tK5tbfY0o5dW) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Intoxication](https://open.spotify.com/album/7l8mmwJiGmke1ojsDdOt4t) | 3:07 |
 | 50 | [Snitch](https://open.spotify.com/track/02rlDATSROFtjqmvs1dBKr) | [Obie Trice](https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Second Rounds On Me](https://open.spotify.com/album/7liAJFeMLT5QihsB9MhAh5) | 4:01 |
 
-Snapshot ID: `anJ9AAAAAAD4TyYZMgL3qMiRyAOLE6TH`
+Snapshot ID: `anPOgAAAAACHp/tSFoWWhI5cNMinjZX4`

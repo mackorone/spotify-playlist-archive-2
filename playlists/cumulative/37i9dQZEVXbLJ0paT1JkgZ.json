@@ -142,7 +142,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 115744,
       "name": "222",
       "url": "https://open.spotify.com/track/3bp6VjYqCgTQiOZSVWTl92"
@@ -558,7 +558,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 207734,
       "name": "AL GOLPITO",
       "url": "https://open.spotify.com/track/6LD1tYOKReFqZh5ZdCdxIz"
@@ -2324,7 +2324,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 220000,
       "name": "Comando Estelar",
       "url": "https://open.spotify.com/track/4j5ZSTHkXQbV0c8EassD0N"
@@ -4868,7 +4868,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 181277,
       "name": "Fuga",
       "url": "https://open.spotify.com/track/1nsSptqJG7xzP6vDgeoJ41"
@@ -5238,6 +5238,24 @@
       "duration_ms": 241617,
       "name": "Hablando Con La Luna",
       "url": "https://open.spotify.com/track/2Qdjdm8WzaaXgucKWDn4ku"
+    },
+    {
+      "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
     },
     {
       "album": {
@@ -5964,7 +5982,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 195546,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
@@ -6999,6 +7017,24 @@
     },
     {
       "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144286,
+      "name": "MATADORA",
+      "url": "https://open.spotify.com/track/04d5HlcQX6zH5MMqffXOon"
+    },
+    {
+      "album": {
         "name": "Apocalipsis",
         "url": "https://open.spotify.com/album/47JohERDAJVAzmfCgOfG5w"
       },
@@ -7112,7 +7148,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
@@ -8658,7 +8694,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 214120,
       "name": "Pa' Que La Pases Bien",
       "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
@@ -8694,7 +8730,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 191560,
       "name": "Para No Verte M\u00e1s",
       "url": "https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM"
@@ -8990,7 +9026,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 184000,
       "name": "Perm\u00edtame",
       "url": "https://open.spotify.com/track/6OaGIYcVzx5c7aEKkuYS1M"
@@ -9464,7 +9500,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 186666,
       "name": "PROV\u00d3CATE",
       "url": "https://open.spotify.com/track/0dpV9WOqhZJqoFQDD9d9Eu"
@@ -9812,6 +9848,36 @@
       "duration_ms": 252467,
       "name": "Quieren Maleanteo",
       "url": "https://open.spotify.com/track/7JvUyPjNsFMK39gtPnqx7R"
+    },
+    {
+      "album": {
+        "name": "Quiero Saber",
+        "url": "https://open.spotify.com/album/4z5YKgiON42LXrJLGpzSf7"
+      },
+      "artists": [
+        {
+          "name": "Bayron Fire",
+          "url": "https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265200,
+      "name": "Quiero Saber",
+      "url": "https://open.spotify.com/track/1tuZalqqeP2lq8g1xBmOMx"
     },
     {
       "album": {
@@ -12146,7 +12212,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 177994,
       "name": "TU SANCHO",
       "url": "https://open.spotify.com/track/6eLQXa6uk2EW8drsiKbABZ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 
 > This is Chiquis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,048 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,051 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 | 40 | [NI MUERTA](https://open.spotify.com/track/1i6t6hQBpdzrXElkROHNfp) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Ni Muerta](https://open.spotify.com/album/45ID2WdGfnY0a0d9kjMdzE) | 2:58 |
 | 41 | [De Contrabando](https://open.spotify.com/track/0JjrgdBvSj3FpAVxBYQkf2) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 3:13 |
 | 42 | [Ticket De Salida](https://open.spotify.com/track/4wUuoBPPWrFvQsaNlrUvIq) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:02 |
-| 43 | [eres MÁS](https://open.spotify.com/track/0ECpWS4JhjTDrprNhBkJuN) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Janney](https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA) | 2:23 |
-| 44 | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/track/7Ez88DLp50CyywDPZeEN4j) | [Dani Rose](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/album/6QXVVqTWjbGQA3RZsYoUDc) | 3:18 |
+| 43 | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/track/7Ez88DLp50CyywDPZeEN4j) | [Dani Rose](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/album/6QXVVqTWjbGQA3RZsYoUDc) | 3:18 |
+| 44 | [Souls](https://open.spotify.com/track/3Glq9PY4TH22PIB34a2tO7) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Janney](https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA) | 0:32 |
 | 45 | [Brindaremos Por Él](https://open.spotify.com/track/4xH6VqehWB9nVz8SebSYUP) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Diamantes](https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap) | 3:09 |
 | 46 | [SOMOS](https://open.spotify.com/track/7mpATTzOBRAR5A7wxQ9yph) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP) | [Flores En Mi Alma](https://open.spotify.com/album/1hVpAW53KRpFPDIDjRqv7E) | 2:41 |
 | 47 | [Pelo Suelto](https://open.spotify.com/track/6YR5NgX4Ecz3H0vvJIfFWV) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Pelo Suelto](https://open.spotify.com/album/2UHgThFWpfWlZwAZaEzwE8) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 | 49 | [Los Chismes](https://open.spotify.com/track/4pyIINpbOWfEmZi98NXFHL) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Lorenzo Mendez](https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac) | [Entre Botellas](https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE) | 2:46 |
 | 50 | [PA' MI GENTE](https://open.spotify.com/track/3iONWyHvMI3voU8zhzPU1t) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Flores En Mi Alma](https://open.spotify.com/album/1hVpAW53KRpFPDIDjRqv7E) | 2:53 |
 
-Snapshot ID: `anJ9AAAAAADK+mw+eEXzay4XjvbaTOIO`
+Snapshot ID: `anPOgAAAAACa3mpbtKFYts07p7Z33rgF`

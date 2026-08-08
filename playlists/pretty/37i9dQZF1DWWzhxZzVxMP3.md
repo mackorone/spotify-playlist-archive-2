@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 
 > Well\-known songs in a soft, chill Bossa vibe🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,425 likes - 104 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,487 likes - 104 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 | 103 | [Toxic \- Bossa Nova Version](https://open.spotify.com/track/7mxTlJ34gOUeJ2s9h74c61) | [Tea Lundgren](https://open.spotify.com/artist/1hT3SQ8IFTKJ11GQEtVvvc) | [Toxic](https://open.spotify.com/album/4KnWqJs0550TX6VglRNCjk) | 2:55 |
 | 104 | [Roxanne](https://open.spotify.com/track/73FGoCU9GtnqpdKmnIcci2) | [Pergalo](https://open.spotify.com/artist/2X9PYxLVuXmvp0REjgJ9iA) | [Roxanne](https://open.spotify.com/album/67Sf0jcDkShbIukRh1xCG6) | 3:02 |
 
-Snapshot ID: `AAAAAMfCWfXPrC1ZJPt16Ij9he742cHc`
+Snapshot ID: `AAAAAHravYPjzDqYk446uxfH+YmYhVzc`

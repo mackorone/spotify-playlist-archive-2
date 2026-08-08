@@ -1,12 +1,12 @@
 {
   "description": "This is Car\u00edn Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 1156401,
+  "num_followers": 1156605,
   "original_name": "This Is Car\u00edn Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAABz9z1sn7HRXU341xbUTe5S",
+  "snapshot_id": "anPOgAAAAABZh+eowWq1mI0bl/jh0dzi",
   "tracks": [
     {
       "added_at": null,
@@ -607,18 +607,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palabra De To's",
-        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
+        "name": "En Otra Vida - Con Carin Leon",
+        "url": "https://open.spotify.com/album/1UQhyBePO9aKNZW1sxDTlQ"
       },
       "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
         {
           "name": "Car\u00edn Le\u00f3n",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 165200,
-      "name": "De Compas",
-      "url": "https://open.spotify.com/track/3TBZeHcQXNPyXbsqzNgcYm"
+      "duration_ms": 150974,
+      "name": "En Otra Vida - Con Carin Leon",
+      "url": "https://open.spotify.com/track/7GDeMqjePrVZ9O6d3HqKZU"
     },
     {
       "added_at": null,
@@ -659,26 +667,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Otra Vida - Con Carin Leon",
-        "url": "https://open.spotify.com/album/1UQhyBePO9aKNZW1sxDTlQ"
+        "name": "Palabra De To's",
+        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
       },
       "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        },
         {
           "name": "Car\u00edn Le\u00f3n",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 150974,
-      "name": "En Otra Vida - Con Carin Leon",
-      "url": "https://open.spotify.com/track/7GDeMqjePrVZ9O6d3HqKZU"
+      "duration_ms": 165200,
+      "name": "De Compas",
+      "url": "https://open.spotify.com/track/3TBZeHcQXNPyXbsqzNgcYm"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palabra De To's",
-        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 154525,
-      "name": "Decret\u00e9",
-      "url": "https://open.spotify.com/track/0JhtY0uWW7GINu2aMAtgFx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUDA",
         "url": "https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 239310,
       "name": "Dame un Beso y Dime Adios (En Vivo)",
       "url": "https://open.spotify.com/track/1JV3RpUoEppOj6jEQgWOor"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palabra De To's",
+        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 154525,
+      "name": "Decret\u00e9",
+      "url": "https://open.spotify.com/track/0JhtY0uWW7GINu2aMAtgFx"
     },
     {
       "added_at": null,
@@ -879,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 194838,
+      "name": "Aunque t\u00fa no lo sepas",
+      "url": "https://open.spotify.com/track/1sZzTN6MOnagdaHMd0n5lm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Morrita",
         "url": "https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 154951,
       "name": "La Morrita",
       "url": "https://open.spotify.com/track/29YP167FTBz8m3937YbKDw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boca Chueca, Vol. 1",
-        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 194838,
-      "name": "Aunque t\u00fa no lo sepas",
-      "url": "https://open.spotify.com/track/1sZzTN6MOnagdaHMd0n5lm"
     },
     {
       "added_at": null,

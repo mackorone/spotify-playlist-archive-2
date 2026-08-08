@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 
 > Let Japanese beats guide you into a calm and blissful evening\. / 心地よい夜を過ごすための日本製ビートサウンド
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,326 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,361 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 | 26 | [Distant Lights](https://open.spotify.com/track/5VyCpzqB89n3ilkxHKCthF) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Hideyuki Mochizuki](https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv) | [Distant Lights](https://open.spotify.com/album/7qHGwQ1hxCtJm9nNnAUbS6) | 2:17 |
 | 27 | [Space Orgazm](https://open.spotify.com/track/5BxPmRFKVf9bMGr2q9ZmEA) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Kazuhiko Maeda](https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ) | [Syn Fonia I](https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU) | 3:48 |
 | 28 | [just forget](https://open.spotify.com/track/39eGbf7GzXnepZKRJr8uoA) | [Force Of Nature](https://open.spotify.com/artist/3y6EaAABBjwx6DGg2bEFrj) | [samurai champloo music record impression](https://open.spotify.com/album/0OHuppyLVS3j98Joo5HMBS) | 3:55 |
-| 29 | [\#02 untitled](https://open.spotify.com/track/6I8f22JQnIWwj8saOnuLuU) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [\#02 untitled](https://open.spotify.com/album/7oYZpso12Z4cdhHJnztjlK) | 4:17 |
+| 29 | [Sasanqua](https://open.spotify.com/track/08POPoMeYXmzyOnrxLQRlU) | [physis](https://open.spotify.com/artist/3NPEPBUgyPFCn4qNjKdhMx), [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Sasanqua](https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd) | 2:14 |
 | 30 | [Raincoat \(Paul Grant Remix\)](https://open.spotify.com/track/7qTS3XAGwebfMgFWgQcB1i) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Raincoat \(Paul Grant Remix\)](https://open.spotify.com/album/6UxnjFQfPhF7OqkgDZUUVi) | 3:13 |
 | 31 | [Paris Nights](https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [Paris Nights](https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ) | 4:04 |
 | 32 | [波紋](https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [波紋](https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8) | 3:09 |
-| 33 | [Sasanqua](https://open.spotify.com/track/08POPoMeYXmzyOnrxLQRlU) | [physis](https://open.spotify.com/artist/3NPEPBUgyPFCn4qNjKdhMx), [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Sasanqua](https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd) | 2:14 |
+| 33 | [\#02 untitled](https://open.spotify.com/track/6I8f22JQnIWwj8saOnuLuU) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [\#02 untitled](https://open.spotify.com/album/7oYZpso12Z4cdhHJnztjlK) | 4:17 |
 | 34 | [Hidden Shrine](https://open.spotify.com/track/4uciSF8VXH3ne7K4AFFfiV) | [HIDE×HIDE](https://open.spotify.com/artist/618q3uBCcddItL9IPh5yRA), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Hidden Shrine](https://open.spotify.com/album/0CnkfHS7C6nimtwpdAhgOI) | 2:11 |
 | 35 | [Flow Motion](https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Flow Motion](https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB) | 2:12 |
 | 36 | [Up and Down](https://open.spotify.com/track/3ijY3w5fc6bIkMjEuKBNNh) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Always in a Hurry](https://open.spotify.com/album/2vJdvUwTvo6DfePDG4XaMf) | 2:31 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 | 40 | [insideout](https://open.spotify.com/track/1mANYloG5MWO9OYzt7pCu9) | [Pleij](https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN) | [insideout](https://open.spotify.com/album/3ItAUVVWQC6Y3jm6y4bLDW) | 2:25 |
 | 41 | [Panorama](https://open.spotify.com/track/6qYZdU3w9SikFhajI8IRsS) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Panorama](https://open.spotify.com/album/3upwVLg8Z1mH1Ffd8JSysx) | 2:26 |
 | 42 | [アルゴリズム \(Algorithm\)](https://open.spotify.com/track/5EO2F73atj1IigcN6nPGMv) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [アルゴリズム \(Algorithm\)](https://open.spotify.com/album/3KaAWv5vYooRAcYWwLc5UY) | 3:27 |
-| 43 | [Beautiful Life](https://open.spotify.com/track/0p4iFPBrB5lq4XypkIDnLU) | [Rikinish](https://open.spotify.com/artist/5p0u2sKqe1dMosR65Pumks) | [GRANDMA](https://open.spotify.com/album/2Daec6JlmOMfNkMCzcuTui) | 4:11 |
-| 44 | [Sunrise](https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Sunrise](https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4) | 3:20 |
+| 43 | [Sunrise](https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Sunrise](https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4) | 3:20 |
+| 44 | [Beautiful Life](https://open.spotify.com/track/0p4iFPBrB5lq4XypkIDnLU) | [Rikinish](https://open.spotify.com/artist/5p0u2sKqe1dMosR65Pumks) | [GRANDMA](https://open.spotify.com/album/2Daec6JlmOMfNkMCzcuTui) | 4:11 |
 | 45 | [Light Breeze](https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg) | [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5), [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [Light Breeze EP](https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22) | 2:00 |
-| 46 | [Please Think Twice](https://open.spotify.com/track/3XAtKEECaYJYeoiH5PXutP) | [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ) | [Beat Theme](https://open.spotify.com/album/4R3lrPQgBGF3FIAQdb6UPP) | 3:41 |
-| 47 | [For a While](https://open.spotify.com/track/3ceTmI36BzFxm6zbI0bfnn) | [tajima hal](https://open.spotify.com/artist/5SuPIkCZe2U5TZCqYX4mcI) | [Tones](https://open.spotify.com/album/5GQMwiF23cqZ5Fk3gQ76zp) | 2:48 |
+| 46 | [For a While](https://open.spotify.com/track/3ceTmI36BzFxm6zbI0bfnn) | [tajima hal](https://open.spotify.com/artist/5SuPIkCZe2U5TZCqYX4mcI) | [Tones](https://open.spotify.com/album/5GQMwiF23cqZ5Fk3gQ76zp) | 2:48 |
+| 47 | [Please Think Twice](https://open.spotify.com/track/3XAtKEECaYJYeoiH5PXutP) | [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ) | [Beat Theme](https://open.spotify.com/album/4R3lrPQgBGF3FIAQdb6UPP) | 3:41 |
 | 48 | [迷いの森](https://open.spotify.com/track/5hyzs0L6FPxvdJIZLN5eyn) | [Olive Oil](https://open.spotify.com/artist/10wpBaBV9o6cEGr1FnmYIH), [CHANNY D](https://open.spotify.com/artist/23FsJf4Uv89b1kPtqqsUFr) | [迷いの森](https://open.spotify.com/album/1xaXJ6OxH8fYZ00wMiwZT7) | 5:26 |
 | 49 | [Rostrum](https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [CELEBRATION OF JAY 3](https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo) | 2:15 |
 | 50 | [Night Step](https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Night Step](https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki) | 2:30 |
 
-Snapshot ID: `AAAAAPVncKJLKMc1EFTqMloQgi04+oV4`
+Snapshot ID: `AAAAAMCj/OsF9NCKNOZX4pynLgvUGJv9`

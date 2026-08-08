@@ -1,12 +1,12 @@
 {
   "description": "Release the bats... The Cure on cover.",
-  "num_followers": 963378,
+  "num_followers": 963480,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHEJgi3du3dN3ZhIBmVEOdClwgKd",
+  "snapshot_id": "AAAAAO5trflAeK0u4QjmQhQfrZ6eohJ4",
   "tracks": [
     {
       "added_at": "2026-03-20 04:00:51",
@@ -907,18 +907,18 @@
     {
       "added_at": "2026-03-20 04:00:51",
       "album": {
-        "name": "Forever (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV"
+        "name": "The Eternal Deep",
+        "url": "https://open.spotify.com/album/7MPqW4iQGtmzUaZwIHiFjs"
       },
       "artists": [
         {
-          "name": "Cranes",
-          "url": "https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP"
+          "name": "Mephisto Walz",
+          "url": "https://open.spotify.com/artist/7lv3S4wbdU3j2xC8qFvbIU"
         }
       ],
-      "duration_ms": 185226,
-      "name": "Jewel",
-      "url": "https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd"
+      "duration_ms": 211000,
+      "name": "Painted Black",
+      "url": "https://open.spotify.com/track/1JdduJbHJLcpFRSPa2mVCh"
     },
     {
       "added_at": "2026-03-20 04:00:51",
@@ -939,18 +939,18 @@
     {
       "added_at": "2026-03-20 04:00:51",
       "album": {
-        "name": "The Eternal Deep",
-        "url": "https://open.spotify.com/album/7MPqW4iQGtmzUaZwIHiFjs"
+        "name": "Forever (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV"
       },
       "artists": [
         {
-          "name": "Mephisto Walz",
-          "url": "https://open.spotify.com/artist/7lv3S4wbdU3j2xC8qFvbIU"
+          "name": "Cranes",
+          "url": "https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Painted Black",
-      "url": "https://open.spotify.com/track/1JdduJbHJLcpFRSPa2mVCh"
+      "duration_ms": 185226,
+      "name": "Jewel",
+      "url": "https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd"
     },
     {
       "added_at": "2026-03-20 04:00:51",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-03-20 04:00:51",
       "album": {
-        "name": "It Will Come to You",
-        "url": "https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ"
-      },
-      "artists": [
-        {
-          "name": "ACTORS",
-          "url": "https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK"
-        }
-      ],
-      "duration_ms": 216750,
-      "name": "Face Meets Glass",
-      "url": "https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT"
-    },
-    {
-      "added_at": "2026-03-20 04:00:51",
-      "album": {
         "name": "Feel It Break",
         "url": "https://open.spotify.com/album/7kZDvUzWaeZrvkEc3Jr1e8"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 295680,
       "name": "Beat And The Pulse",
       "url": "https://open.spotify.com/track/5hyEQ6BNYKYrsRNiUxrXT4"
+    },
+    {
+      "added_at": "2026-03-20 04:00:51",
+      "album": {
+        "name": "It Will Come to You",
+        "url": "https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ"
+      },
+      "artists": [
+        {
+          "name": "ACTORS",
+          "url": "https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK"
+        }
+      ],
+      "duration_ms": 216750,
+      "name": "Face Meets Glass",
+      "url": "https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT"
     },
     {
       "added_at": "2026-03-20 04:00:51",

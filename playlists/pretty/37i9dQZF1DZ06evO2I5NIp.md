@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 
 > This is Shemekia Copeland\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,003 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,002 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,12 +23,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 | 13 | [When A Woman's Had Enough](https://open.spotify.com/track/0NM6L05PewFO039wYaFjq9) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/0TIwHlfSAdoKocsyDpStow) | 3:54 |
 | 14 | [In The Blood Of The Blues](https://open.spotify.com/track/0ARa5rNP5aMiOUb6f5fe8L) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/6gxZYKQUyBWCAORiXWmcw5) | 4:52 |
 | 15 | [Unbreakable](https://open.spotify.com/track/2Kh8M6YbyuaP9iOMsYc58i) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Unbreakable](https://open.spotify.com/album/7hYyT1qYD7EaZl7UqbqxZ0) | 2:52 |
-| 16 | [I Always Get My Man](https://open.spotify.com/track/2JyzzMO9KJVHNXy9YU5AkY) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/0g3GmMdeIuPgUAq4TnbWOf) | 3:49 |
-| 17 | [Money Makes You Ugly](https://open.spotify.com/track/5Hw9VgRNKsLb97dAoc1vGj) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt) | 3:36 |
+| 16 | [Money Makes You Ugly](https://open.spotify.com/track/5Hw9VgRNKsLb97dAoc1vGj) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt) | 3:36 |
+| 17 | [I Always Get My Man](https://open.spotify.com/track/2JyzzMO9KJVHNXy9YU5AkY) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/0g3GmMdeIuPgUAq4TnbWOf) | 3:49 |
 | 18 | [Gullah Geechee](https://open.spotify.com/track/5xXsbdLqlOBM9eIHrzwnWG) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/1UMACJldLWGtSf3qMWqXra) | 3:35 |
 | 19 | [Tough Mother](https://open.spotify.com/track/2X6TcgwbtvKLk6nXWySAOB) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6NelbBXEEbRxQnXl8mRoTn) | 4:14 |
-| 20 | [Promised Myself](https://open.spotify.com/track/0yaXKiab57hWIDIgDdi3m7) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/6gxZYKQUyBWCAORiXWmcw5) | 5:19 |
-| 21 | [Clotilda's On Fire](https://open.spotify.com/track/5LOv9Q0IHQiqdVOaozRJRi) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt) | 4:26 |
+| 20 | [Clotilda's On Fire](https://open.spotify.com/track/5LOv9Q0IHQiqdVOaozRJRi) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt) | 4:26 |
+| 21 | [Promised Myself](https://open.spotify.com/track/0yaXKiab57hWIDIgDdi3m7) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/6gxZYKQUyBWCAORiXWmcw5) | 5:19 |
 | 22 | [The Dolls Are Sleeping](https://open.spotify.com/track/4mYA39OnxeVRXYr4jCmmWE) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/1UMACJldLWGtSf3qMWqXra) | 2:56 |
 | 23 | [Should Have Come Home](https://open.spotify.com/track/32uBppIvIWU86RJZdJX7WG) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/0TIwHlfSAdoKocsyDpStow) | 3:30 |
 | 24 | [The Battle Is Over \(But The War Goes On\)](https://open.spotify.com/track/0ficIny5GmEHdWjeC4oYdw) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/43FppNzUwLeZqMFm59cuHf) | 3:53 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 | 40 | [Nobody But You](https://open.spotify.com/track/1Hx3Rr9ySm9IUVofvbNVKr) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/1UMACJldLWGtSf3qMWqXra) | 4:19 |
 | 41 | [Such A Pretty Flame](https://open.spotify.com/track/17ELglPxWgiSNWiBt5Ikyt) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/6gxZYKQUyBWCAORiXWmcw5) | 4:31 |
 | 42 | [Steamy Windows](https://open.spotify.com/track/2TtO2IPMFIsDD37rpxRmCE) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Funky Blues](https://open.spotify.com/album/6z5ROrtqUdrWD8wdr1KrJI) | 5:03 |
-| 43 | [Uncivil War](https://open.spotify.com/track/5LZpKuCUv8OoHj9DscLdAr) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt) | 4:45 |
+| 43 | [Jesus Just Left Chicago](https://open.spotify.com/track/7adzBeIB0YQEtjUCI8Tghz) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Outskirts of Love](https://open.spotify.com/album/43FppNzUwLeZqMFm59cuHf) | 4:35 |
 | 44 | [It's 2 A.M.](https://open.spotify.com/track/004057Au60xNi5a6rvCTDE) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/0DaEqzbN2sKZR0aOmYgLNp) | 4:28 |
-| 45 | [Is There Anybody Up There?](https://open.spotify.com/track/2lnTvZxC4kILRg4fKNR0bR) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6NelbBXEEbRxQnXl8mRoTn) | 3:44 |
-| 46 | [Jesus Just Left Chicago](https://open.spotify.com/track/7adzBeIB0YQEtjUCI8Tghz) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Outskirts of Love](https://open.spotify.com/album/43FppNzUwLeZqMFm59cuHf) | 4:35 |
-| 47 | [Under My Thumb](https://open.spotify.com/track/7180g7qzIg60eVmeUfxIlG) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt) | 3:10 |
-| 48 | [Mama Said](https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Girl Friends](https://open.spotify.com/album/7hCroZ1E3ma2zt6UdV3rw0) | 3:17 |
-| 49 | [The Push I Need](https://open.spotify.com/track/72jXCg5cXZMzT3FNdr0ioY) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/0TIwHlfSAdoKocsyDpStow) | 3:48 |
+| 45 | [Uncivil War](https://open.spotify.com/track/5LZpKuCUv8OoHj9DscLdAr) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt) | 4:45 |
+| 46 | [Is There Anybody Up There?](https://open.spotify.com/track/2lnTvZxC4kILRg4fKNR0bR) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6NelbBXEEbRxQnXl8mRoTn) | 3:44 |
+| 47 | [Mama Said](https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Girl Friends](https://open.spotify.com/album/7hCroZ1E3ma2zt6UdV3rw0) | 3:17 |
+| 48 | [The Push I Need](https://open.spotify.com/track/72jXCg5cXZMzT3FNdr0ioY) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/0TIwHlfSAdoKocsyDpStow) | 3:48 |
+| 49 | [Under My Thumb](https://open.spotify.com/track/7180g7qzIg60eVmeUfxIlG) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt) | 3:10 |
 | 50 | [The Fool You're Looking For](https://open.spotify.com/track/2675ZmDMxL0AtwTNQ1TuCg) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blues Chill Out](https://open.spotify.com/album/1VSKZfRT5bSXTv4k75k23W) | 5:08 |
 
-Snapshot ID: `anJ9AAAAAAB2Xc75BYn2tsL0NsqxTa8f`
+Snapshot ID: `anPOgAAAAADh2dTVbjtq+nxtToe1d+Tm`

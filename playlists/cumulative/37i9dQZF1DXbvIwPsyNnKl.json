@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "The best of Pinoy hip-hop. KALYE Natin 'To. Cover: kiddotin",
+  "description": "The best of Pinoy hip-hop. KALYE Natin 'To. Cover: Bugoy Na Koykoy",
   "name": "KALYE",
   "tracks": [
     {
@@ -192,6 +192,28 @@
       "duration_ms": 224262,
       "name": "2G",
       "url": "https://open.spotify.com/track/2Ok7fybrV9UE0jOn6adOpU"
+    },
+    {
+      "album": {
+        "name": "2RARE (feat. Rjay Ty)",
+        "url": "https://open.spotify.com/album/1yxMYncEzuI97jWp30tKZh"
+      },
+      "artists": [
+        {
+          "name": "Waiian",
+          "url": "https://open.spotify.com/artist/3p5RE0gW2l4oFW82SgMv29"
+        },
+        {
+          "name": "Rjay Ty",
+          "url": "https://open.spotify.com/artist/6LCHWj94a1aMMGf3L3CVhx"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224142,
+      "name": "2RARE (feat. Rjay Ty)",
+      "url": "https://open.spotify.com/track/3qx8Em06TXzybe6uXYGlIc"
     },
     {
       "album": {
@@ -558,6 +580,24 @@
       "duration_ms": 144466,
       "name": "Adobo Freestyle",
       "url": "https://open.spotify.com/track/39LW7UCiwZ508Z4oDShs0M"
+    },
+    {
+      "album": {
+        "name": "GAS STATION",
+        "url": "https://open.spotify.com/album/71eyEPb2laxUMP3pumMYOc"
+      },
+      "artists": [
+        {
+          "name": "Gaspari",
+          "url": "https://open.spotify.com/artist/32pwg5wo0jdAWgDIAiKKzi"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152254,
+      "name": "AIN'T WORRIED",
+      "url": "https://open.spotify.com/track/3JiF5HapZ9XwKYxuoSnlCz"
     },
     {
       "album": {
@@ -1891,6 +1931,32 @@
     },
     {
       "album": {
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/7jSdq8t1yUHAiFrkBcSayv"
+      },
+      "artists": [
+        {
+          "name": "Yamz",
+          "url": "https://open.spotify.com/artist/3jLIY3e3mOvZEEmCnqJkP0"
+        },
+        {
+          "name": "Costa Cashman",
+          "url": "https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI"
+        },
+        {
+          "name": "Jemmadeit",
+          "url": "https://open.spotify.com/artist/1T86dWfmzo6wLmdou1O7lI"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141219,
+      "name": "Confident",
+      "url": "https://open.spotify.com/track/6zIJ4DgpsKstQb8OQB3r6m"
+    },
+    {
+      "album": {
         "name": "CR3W",
         "url": "https://open.spotify.com/album/77QmHN2ttnpdtCJ3deR3AD"
       },
@@ -1988,7 +2054,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 217928,
       "name": "D.T.M.G (Don\u2019t Touch My Girl)",
       "url": "https://open.spotify.com/track/3ggDjMxsy3m3GLDDjrcM3I"
@@ -2424,7 +2490,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 143151,
       "name": "DOWN KA BA?",
       "url": "https://open.spotify.com/track/4uePAH2k50p4Stx900uuxt"
@@ -2846,7 +2912,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 137304,
       "name": "FOREIGNER",
       "url": "https://open.spotify.com/track/0Da2tBpoYkpIW5Vp8ZxOMa"
@@ -3270,7 +3336,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 143505,
       "name": "GRAMO",
       "url": "https://open.spotify.com/track/510WAXvUZcMUZDWjUCuT3T"
@@ -4819,6 +4885,28 @@
     },
     {
       "album": {
+        "name": "LOGGIN' IN",
+        "url": "https://open.spotify.com/album/1fXglekheFymLEwp3qWidi"
+      },
+      "artists": [
+        {
+          "name": "Robledo Timido",
+          "url": "https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw"
+        },
+        {
+          "name": "Red Dot",
+          "url": "https://open.spotify.com/artist/4FeguGMmvf7pMfyvZVcWhT"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170028,
+      "name": "LOGGIN' IN",
+      "url": "https://open.spotify.com/track/57qAvD6f6OOJz4doqzGE8y"
+    },
+    {
+      "album": {
         "name": "GRA GRA G10CSHEEP",
         "url": "https://open.spotify.com/album/5FQaybhkebSoY0ghQg2cCU"
       },
@@ -5788,7 +5876,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 192003,
       "name": "MOVES",
       "url": "https://open.spotify.com/track/0xNncMJH9AfOYk5U2G40py"
@@ -6296,6 +6384,24 @@
       "duration_ms": 237582,
       "name": "Paboritong Pagkakamali",
       "url": "https://open.spotify.com/track/6oap6muuSi47PdllRECCuw"
+    },
+    {
+      "album": {
+        "name": "Pacman",
+        "url": "https://open.spotify.com/album/6mjU4RnWwdHu2AnADohUF2"
+      },
+      "artists": [
+        {
+          "name": "Because",
+          "url": "https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Pacman",
+      "url": "https://open.spotify.com/track/30AuoudIXCLOcslwVi9zBD"
     },
     {
       "album": {
@@ -7730,7 +7836,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 178639,
       "name": "Shuloks",
       "url": "https://open.spotify.com/track/1m4zRUexgXzzpI9Sb94bgz"

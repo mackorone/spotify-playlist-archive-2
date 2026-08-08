@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 77 | [More](https://open.spotify.com/track/1T39YsnUTKbqlyKwu5aycZ) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 3:16 |
 | 78 | [Far Away](https://open.spotify.com/track/0ZZkO4f9yiXtkndRts6yP5) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Lucky 7](https://open.spotify.com/album/14KJbhk4JG4s3Ez0GSxT7Z) | 2:50 |
 | 79 | [DON'T GO](https://open.spotify.com/track/6MkhaNziqglynUlHoyTyXD) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [HYDRAULIC](https://open.spotify.com/album/752bBMIsnk3VdV6ANDZTWd) | 2:27 |
-| 80 | [OH!](https://open.spotify.com/track/5QjNvFDIXUP5et1Ffa5gMt) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [OH!](https://open.spotify.com/album/3znMb5hi0ebhlOkunIcVWl) | 3:04 |
-| 81 | [Close](https://open.spotify.com/track/2QBhvlNvGjbL5iZC6BDPLi) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Close](https://open.spotify.com/album/2Acu1HQbkasy9aloLtgunl) | 3:34 |
+| 80 | [Close](https://open.spotify.com/track/2QBhvlNvGjbL5iZC6BDPLi) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Close](https://open.spotify.com/album/2Acu1HQbkasy9aloLtgunl) | 3:34 |
+| 81 | [OH!](https://open.spotify.com/track/5QjNvFDIXUP5et1Ffa5gMt) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [OH!](https://open.spotify.com/album/3znMb5hi0ebhlOkunIcVWl) | 3:04 |
 | 82 | [WhatsInIt4Me](https://open.spotify.com/track/6mjnnbzOvYjlKWIlnT6lff) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [WhatsInIt4Me](https://open.spotify.com/album/7xZDLjNaD5tLuQuJKoUvfF) | 2:15 |
 | 83 | [Candle](https://open.spotify.com/track/32Ka9ZTXBza9SkOWRtiXBO) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Candle](https://open.spotify.com/album/2FQ278LgDLpwbHa49ZmF63) | 3:16 |
 | 84 | [10 Out Of 10](https://open.spotify.com/track/2IxVErKRy50bYQXL4a1LyC) | [Genia](https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB) | [10 Out Of 10](https://open.spotify.com/album/0u5mUL1chXUVV0TErlIfUi) | 3:05 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 88 | [Mind On You](https://open.spotify.com/track/1sgMq9Stjx7OalV09MA7dU) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Part 1 EP](https://open.spotify.com/album/2tIENkGDORxbE6SItwVVkX) | 3:32 |
 | 89 | [Necklace](https://open.spotify.com/track/1rlCBDWf8IOv4Yzq7QQNUD) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [The Long Way Round](https://open.spotify.com/album/0wrJiW6NCHWxgc0T9HHYU9) | 3:32 |
 | 90 | [Say You Will](https://open.spotify.com/track/24621dQUWcjiLGtxunbyM2) | [Shy Girls](https://open.spotify.com/artist/4oFdxup3UmMDNoLLITyDrs) | [Salt](https://open.spotify.com/album/1F79OPZHaIXS1eZkkeCTeq) | 3:18 |
-| 91 | [Sweet Like](https://open.spotify.com/track/6Hj7gXUzQreDfSozI4QwbQ) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Moth](https://open.spotify.com/album/3QYrEoeYrBdBNrtsuoCor7) | 3:39 |
-| 92 | [The Night \(belongs to lovers\)](https://open.spotify.com/track/1OhTZB94I5jiazUITLTeDD) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq) | [The Night \(belongs to lovers\)](https://open.spotify.com/album/5naJHMgqYdZycqUSE3Vi9D) | 2:32 |
+| 91 | [The Night \(belongs to lovers\)](https://open.spotify.com/track/1OhTZB94I5jiazUITLTeDD) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq) | [The Night \(belongs to lovers\)](https://open.spotify.com/album/5naJHMgqYdZycqUSE3Vi9D) | 2:32 |
+| 92 | [Sweet Like](https://open.spotify.com/track/6Hj7gXUzQreDfSozI4QwbQ) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Moth](https://open.spotify.com/album/3QYrEoeYrBdBNrtsuoCor7) | 3:39 |
 | 93 | [Scars](https://open.spotify.com/track/2W4WKyY97XlPzUOuj0x2ac) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Lucky 7](https://open.spotify.com/album/14KJbhk4JG4s3Ez0GSxT7Z) | 2:40 |
 | 94 | [flicker start](https://open.spotify.com/track/5u0YYzDVA1HNBBDbVYeCah) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 2:40 |
 | 95 | [Chasers](https://open.spotify.com/track/0nwAgXvY8LlVaImad8XCdF) | [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu) | [Chasers](https://open.spotify.com/album/3oz8jw6YLEOSf032rck2GY) | 3:00 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 161 | [Tomorrow](https://open.spotify.com/track/1xpn9Jf6SaJJ6mworiNQjf) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [The Long Way Round \(Deluxe\)](https://open.spotify.com/album/4BVvO0gBRjK5m5SlyXd4qy) | 2:22 |
 | 162 | [You, Me, & The Truth](https://open.spotify.com/track/5gjKNC4A0ktJzwPk3VbLG2) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [You, Me, and The Truth](https://open.spotify.com/album/4Vw09wOdC6FASovZr6l9Uj) | 2:55 |
 
-Snapshot ID: `AcY43AAAAAAIWybcDKt7H32ZvPs8TzYJ`
+Snapshot ID: `AcY+NgAAAACQfdv/5crYbUB6cLki6Si5`

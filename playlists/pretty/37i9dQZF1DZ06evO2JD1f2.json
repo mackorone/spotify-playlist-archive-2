@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 13637,
+  "num_followers": 13640,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAACWY4KB3X7TAQFpyAw4UbSg",
+  "snapshot_id": "anPOgAAAAAAVkXymhChByQmig+z65fB+",
   "tracks": [
     {
       "added_at": null,
@@ -31,22 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CALL SPITTA",
-        "url": "https://open.spotify.com/album/2OyxR9rPNGIXMHhq0L0i3a"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 145116,
-      "name": "CALL SPITTA",
-      "url": "https://open.spotify.com/track/0PpZgdIh1NFUkxHBROLS5n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thats What They All Say",
         "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
       },
@@ -63,6 +47,22 @@
       "duration_ms": 153360,
       "name": "Route 66 (feat. EST Gee)",
       "url": "https://open.spotify.com/track/5faz5WYRJdRDiCa42DSgHR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CALL SPITTA",
+        "url": "https://open.spotify.com/album/4frPXwvy0rTi87gzlfBzt6"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 145116,
+      "name": "CALL SPITTA",
+      "url": "https://open.spotify.com/track/6TSbyVtg9vgSiJEHct8wOF"
     },
     {
       "added_at": null,

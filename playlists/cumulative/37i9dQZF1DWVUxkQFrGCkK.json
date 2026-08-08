@@ -21365,6 +21365,32 @@
     },
     {
       "album": {
+        "name": "Questions EP",
+        "url": "https://open.spotify.com/album/0UJ8YgL13eqTKUeDvIhqqQ"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        },
+        {
+          "name": "Piem",
+          "url": "https://open.spotify.com/artist/08st4VKj9jjZJ5eKzAOHq8"
+        },
+        {
+          "name": "SLM",
+          "url": "https://open.spotify.com/artist/7CEy8XnNrNtDipTl5aYt9T"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196744,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/7dGiRNwZUp7vjY7vpmNAG5"
+    },
+    {
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/7j4j3UPchKJwFn60HTCcEh"
       },
@@ -27316,24 +27342,6 @@
       "duration_ms": 305780,
       "name": "Tough Love - Hunter/Game Remix",
       "url": "https://open.spotify.com/track/0pWSyACzINkKD5cR1GTTGW"
-    },
-    {
-      "album": {
-        "name": "Questions EP",
-        "url": "https://open.spotify.com/album/0UJ8YgL13eqTKUeDvIhqqQ"
-      },
-      "artists": [
-        {
-          "name": "Alan Fitzpatrick",
-          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
-        }
-      ],
-      "date_added": "2026-08-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/7dGiRNwZUp7vjY7vpmNAG5"
     },
     {
       "album": {

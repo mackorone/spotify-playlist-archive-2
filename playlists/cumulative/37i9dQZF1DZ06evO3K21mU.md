@@ -4,7 +4,7 @@
 
 > This is J\. Cole\. The essential tracks, all in one playlist.
 
-114 songs - 7 hr 11 min
+115 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [a m a r i](https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:28 | 2023-11-10 |  |
 | [Adonis Interlude \(The Montage\) \(with J\. Cole\)](https://open.spotify.com/track/5Mkbqot9JUaN5XhRgqITME) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 1:35 | 2023-11-10 | 2024-08-06 |
 | [All I Want Is You \(feat\. J\. Cole\)](https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 4:57 | 2023-11-10 |  |
-| [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 | 2023-11-10 |  |
+| [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 | 2023-11-10 | 2026-08-08 |
+| [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6T7FXSuXykeGktMLGp8WgE) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 3:43 | 2026-08-08 |  |
 | [Apparently](https://open.spotify.com/track/5O59s7bCgTFsXDXlWecyQ1) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:52 | 2023-11-10 |  |
 | [Back to the Topic](https://open.spotify.com/track/0HwVkiEvW3yTFbUQ45RXPB) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Friday Night Lights](https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg) | 3:00 | 2024-12-01 | 2025-01-20 |
 | [Before I'm Gone](https://open.spotify.com/track/5isZz9H9yWJgOjFxrTeZm6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Friday Night Lights](https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg) | 4:23 | 2024-12-02 | 2025-01-28 |

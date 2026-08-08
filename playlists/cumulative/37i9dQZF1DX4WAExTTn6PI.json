@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-09",
-  "description": "Rising voices, enduring roots. Cover:  Fabrizio",
+  "description": "Rising voices, enduring roots. Cover: Mary Bragg\n",
   "name": "Emerging Americana",
   "tracks": [
     {
@@ -316,6 +316,24 @@
       "duration_ms": 244800,
       "name": "American Way",
       "url": "https://open.spotify.com/track/7qxLbldVgLQhNkPOxVp4ni"
+    },
+    {
+      "album": {
+        "name": "Amtrak Train",
+        "url": "https://open.spotify.com/album/3F09tNFG9uMNgk3f3ekej0"
+      },
+      "artists": [
+        {
+          "name": "Low Gap",
+          "url": "https://open.spotify.com/artist/4OylEA2mggFkZ63eIVFNio"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255955,
+      "name": "Amtrak Train",
+      "url": "https://open.spotify.com/track/4OzTK96HUUX6X7DPu2qh0b"
     },
     {
       "album": {
@@ -964,7 +982,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 233066,
       "name": "Brick",
       "url": "https://open.spotify.com/track/2EtXaVEDbd87UGrgJrUyZT"
@@ -1188,7 +1206,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 215933,
       "name": "Commune",
       "url": "https://open.spotify.com/track/3NNL6y4g69QzTOJvyy9Oub"
@@ -1570,6 +1588,24 @@
       "duration_ms": 146933,
       "name": "Dreamer Dreamer",
       "url": "https://open.spotify.com/track/0VciKkrBcrbkuvckK315DI"
+    },
+    {
+      "album": {
+        "name": "Nellene (Extended)",
+        "url": "https://open.spotify.com/album/4FQFPdKVFFBkRk1PySInOq"
+      },
+      "artists": [
+        {
+          "name": "Deloyd Elze",
+          "url": "https://open.spotify.com/artist/74ERN7iYMRTDYfWz2BspQo"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256216,
+      "name": "Drive Like I Never Been Hurt",
+      "url": "https://open.spotify.com/track/5iapMnzWFfdwEM7h3iPIZm"
     },
     {
       "album": {
@@ -2756,7 +2792,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 188419,
       "name": "Heart",
       "url": "https://open.spotify.com/track/04nO9YncOBKTS4R1DhPefB"
@@ -3110,6 +3146,24 @@
       "duration_ms": 207440,
       "name": "I Have Found My Love Today",
       "url": "https://open.spotify.com/track/6RfekV3XeOpbI7krRjGftQ"
+    },
+    {
+      "album": {
+        "name": "I Remember Appalachia",
+        "url": "https://open.spotify.com/album/1wFHs42Pd11GaqhSQBeK8x"
+      },
+      "artists": [
+        {
+          "name": "Striking Matches",
+          "url": "https://open.spotify.com/artist/4v2DyasTOGK3Pv90w75yar"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238734,
+      "name": "I Remember Appalachia",
+      "url": "https://open.spotify.com/track/6nTcvbmqhsv2rUwE8OeMHI"
     },
     {
       "album": {
@@ -3618,10 +3672,36 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 187058,
       "name": "Kentucky Cowboy",
       "url": "https://open.spotify.com/track/6Tz7XAq11bHMWPHwoWCqvt"
+    },
+    {
+      "album": {
+        "name": "Kittens",
+        "url": "https://open.spotify.com/album/5AMVKZkfAyKt6WtODcyfN0"
+      },
+      "artists": [
+        {
+          "name": "Moose Loon",
+          "url": "https://open.spotify.com/artist/7ge4oeYVjeHzJ6nEwGcg1u"
+        },
+        {
+          "name": "The Local Honeys",
+          "url": "https://open.spotify.com/artist/3KXxNSegk9keTDArt5YQMm"
+        },
+        {
+          "name": "Don Rogers",
+          "url": "https://open.spotify.com/artist/2TDdmbcQmUj6K58YPLYIx7"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160205,
+      "name": "Kittens",
+      "url": "https://open.spotify.com/track/0gBdGQZ93ALYwsmCRVlOq5"
     },
     {
       "album": {
@@ -3879,6 +3959,24 @@
     },
     {
       "album": {
+        "name": "Little White Cross",
+        "url": "https://open.spotify.com/album/6RcIovHjcGvilY1LuBacMi"
+      },
+      "artists": [
+        {
+          "name": "Margo Cilker",
+          "url": "https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209983,
+      "name": "Little White Cross",
+      "url": "https://open.spotify.com/track/1uCws3lKIeD6lip2CbFY2h"
+    },
+    {
+      "album": {
         "name": "Long December",
         "url": "https://open.spotify.com/album/4RRKLgKqClGWsX9x7dnX7C"
       },
@@ -4020,7 +4118,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 162212,
       "name": "Lots of Beginnings",
       "url": "https://open.spotify.com/track/22nxnyesn9ws2y2XvJae1k"
@@ -4654,7 +4752,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 253561,
       "name": "Normal Man",
       "url": "https://open.spotify.com/track/6G9FbzVLpaO11tdbF695bw"
@@ -4806,6 +4904,24 @@
       "duration_ms": 212675,
       "name": "Old Side of Being Young",
       "url": "https://open.spotify.com/track/5XLONjHc6vympMVo1q5vHP"
+    },
+    {
+      "album": {
+        "name": "Old-Fashioned Love Song",
+        "url": "https://open.spotify.com/album/5SnS6yKukeKSU2jbXgt92C"
+      },
+      "artists": [
+        {
+          "name": "Mama's Broke",
+          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264125,
+      "name": "Old-Fashioned Love Song",
+      "url": "https://open.spotify.com/track/5UFbRkSIHF5ONf7iibz4pr"
     },
     {
       "album": {
@@ -5138,7 +5254,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 275264,
       "name": "Pilar, NM",
       "url": "https://open.spotify.com/track/1iVPI1CbE7cot90mJxry4l"
@@ -5232,6 +5348,24 @@
       "duration_ms": 144946,
       "name": "Property Line",
       "url": "https://open.spotify.com/track/24vqPVOfqHTIqf1QzGy2qn"
+    },
+    {
+      "album": {
+        "name": "Psyche",
+        "url": "https://open.spotify.com/album/4audkdrvzLc89WPI96WTRG"
+      },
+      "artists": [
+        {
+          "name": "davy",
+          "url": "https://open.spotify.com/artist/2dbsiIAqa0BRSqYP9WqJ2f"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238123,
+      "name": "Psyche",
+      "url": "https://open.spotify.com/track/5mhPc3WZRnqjNPNTYApJxn"
     },
     {
       "album": {
@@ -5696,7 +5830,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 171653,
       "name": "Shadow Child",
       "url": "https://open.spotify.com/track/0FFKYIhuZemAM4eJpEwoSz"
@@ -7278,6 +7412,28 @@
       "duration_ms": 178320,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/11jpBiMgL6JzX8ixmrWK6T"
+    },
+    {
+      "album": {
+        "name": "What Do I Do",
+        "url": "https://open.spotify.com/album/6p2zNDTBbUMA3DOgEGaSkn"
+      },
+      "artists": [
+        {
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+        },
+        {
+          "name": "John Paul White",
+          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214853,
+      "name": "What Do I Do",
+      "url": "https://open.spotify.com/track/0qOZddOqjMiWJBJqw6dn0p"
     },
     {
       "album": {

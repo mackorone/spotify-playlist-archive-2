@@ -4,7 +4,7 @@
 
 > A classic playlist with the best hits of the 90s featuring No Doubt, Spice Girls, Smash Mouth, Nirvana, and all those 90s hits you can't resist!
 
-100 songs - 6 hr 52 min
+102 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,9 @@
 | [The Night The Lights Went Out In Georgia](https://open.spotify.com/track/2MiXC2LfpsoeUP5RvMGEQ3) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [For My Broken Heart](https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5) | 4:17 | 2025-09-19 |  |
 | [The Sign](https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:11 | 2025-07-25 |  |
 | [There She Goes](https://open.spotify.com/track/43z6scIZU2QcEieMQFAJRG) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None The Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 2:44 | 2025-07-25 |  |
+| [Thirty\-Three \- Remastered 2012](https://open.spotify.com/track/02BSpb2sKuFgs0Go3LRbTj) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Remastered\)](https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl) | 4:10 | 2026-08-07 |  |
 | [This Is How We Do It](https://open.spotify.com/track/1poBO3pO6fkqPYG6n8J5cX) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT), [Wino](https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx) | [This Is How We Do It](https://open.spotify.com/album/6VTrm81s50qmidaYI6EjiQ) | 4:37 | 2026-07-29 |  |
+| [Tonight, Tonight \- Remastered 2012](https://open.spotify.com/track/4iCGSi1RonREsPtfEKYj5b) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Remastered\)](https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl) | 4:14 | 2026-08-07 |  |
 | [Tubthumping](https://open.spotify.com/track/5YScXJKtefsgdskIy60N7A) | [Chumbawamba](https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz) | [Tubthumper](https://open.spotify.com/album/0x3uUHhj8bCoM5Uzi5FNIv) | 4:38 | 2022-05-18 |  |
 | [Undone \- The Sweater Song](https://open.spotify.com/track/5p48X3cAjKoPDSpNtSft4N) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/3hcrTu8zeynChXDOJt3lX2) | 5:04 | 2025-12-12 |  |
 | [Virtual Insanity](https://open.spotify.com/track/24SUWisv2lYQiB3bVpE1sn) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Pop Music: The Modern Era 1976\-1999](https://open.spotify.com/album/0Jh7XIEQrNQAXm7a6hbJ1h) | 3:47 | 2025-07-25 |  |

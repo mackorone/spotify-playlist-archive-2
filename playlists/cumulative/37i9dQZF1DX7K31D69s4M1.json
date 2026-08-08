@@ -11469,6 +11469,24 @@
     },
     {
       "album": {
+        "name": "Hippeastrum",
+        "url": "https://open.spotify.com/album/2OFrdeX7NQqBI5usv8FpK6"
+      },
+      "artists": [
+        {
+          "name": "Ferragno",
+          "url": "https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133636,
+      "name": "Hippeastrum",
+      "url": "https://open.spotify.com/track/2KURSE23ccOoBJK5D1pG1n"
+    },
+    {
+      "album": {
         "name": "Hiro",
         "url": "https://open.spotify.com/album/0cd4CYjdiGoF4RfSZYIWRg"
       },
@@ -23550,6 +23568,24 @@
       "duration_ms": 174426,
       "name": "Rest",
       "url": "https://open.spotify.com/track/634pdMJ4hY7Ttaf8B45C0C"
+    },
+    {
+      "album": {
+        "name": "Resting Place",
+        "url": "https://open.spotify.com/album/1wJTIstz51kx3Z9Ui8zS3V"
+      },
+      "artists": [
+        {
+          "name": "Phil Servati",
+          "url": "https://open.spotify.com/artist/297Q5ZWFQEZFXwiGa54day"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Resting Place",
+      "url": "https://open.spotify.com/track/60d72vJgcPT6b1J1Spswik"
     },
     {
       "album": {

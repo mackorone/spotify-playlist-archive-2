@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 
 > Brighten your day with a mix of folksy mood boosters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,868,976 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,868,896 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 40 | [Sugar in the Creek](https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Fits Of Laughter](https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D) | 4:11 |
 | 41 | [I Should Know Better](https://open.spotify.com/track/2Y782Ab77v8vq7QT8ZZzap) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Under The Streetlights](https://open.spotify.com/album/1CKtOvMSLqatFnR0OuYNxZ) | 3:33 |
 | 42 | [Best of Our Possible Lives](https://open.spotify.com/track/1KVdGIfXjx0AfFqyVIMXAX) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Best of Our Possible Lives](https://open.spotify.com/album/7sMzhU19W3Kmjj8SAm3lVC) | 3:08 |
-| 43 | [Mountain Girl](https://open.spotify.com/track/4trN0qlOUFzoNOYs7ezZNf) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Mountain Girl](https://open.spotify.com/album/7Gn4ahcxSuY4q0hE3dLkHu) | 2:42 |
-| 44 | [Golden Days](https://open.spotify.com/track/7midhUSAQfwD3aFwQrLZYc) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 4:02 |
+| 43 | [Golden Days](https://open.spotify.com/track/7midhUSAQfwD3aFwQrLZYc) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 4:02 |
+| 44 | [Mountain Girl](https://open.spotify.com/track/4trN0qlOUFzoNOYs7ezZNf) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Mountain Girl](https://open.spotify.com/album/7Gn4ahcxSuY4q0hE3dLkHu) | 2:42 |
 | 45 | [Shaky Ground](https://open.spotify.com/track/0VCveHO3AX0OLRuTgpBKBJ) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Shaky Ground](https://open.spotify.com/album/1iYLinQ11V4WmuiHsu1Ryd) | 3:12 |
 | 46 | [Kid](https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Kid](https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe) | 3:28 |
 | 47 | [Mountain To Move](https://open.spotify.com/track/3sdpasrIhFH4gWuoi0iWym) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Mountain To Move](https://open.spotify.com/album/6Vcszn67is0yDZGxNOjvBP) | 3:56 |
@@ -73,16 +73,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 63 | [Six Years](https://open.spotify.com/track/7DeJ8TdwgNpz6Un0SiskhX) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [A Blaze of Feather](https://open.spotify.com/album/58yDw8B7OSt91cvXxb896H) | 4:42 |
 | 64 | [This Life](https://open.spotify.com/track/1fEbeOqzgVJWGWydZoMLn7) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Watch Out for the Wolf](https://open.spotify.com/album/65IhXgviKunwZuTCnb2UOY) | 3:51 |
 | 65 | [Plant A Forest](https://open.spotify.com/track/3PY4QVfv2hTd5hvikGd8vB) | [Chance Emerson](https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED) | [Plant A Forest](https://open.spotify.com/album/0oKKTJTn0TniaTXT3Dj79z) | 2:44 |
-| 66 | [On a Roll](https://open.spotify.com/track/34L5OwGhNUKJOG7fgR4ain) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Strangers No More](https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV) | 4:24 |
-| 67 | [Victory](https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Victory](https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4) | 3:53 |
-| 68 | [Saratoga](https://open.spotify.com/track/1XQRxNO0sBbSG8NZXFFbo8) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Saratoga](https://open.spotify.com/album/1r1Hx0CJ97rPzAEIPFCZTr) | 3:50 |
-| 69 | [Making Do](https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Making Do](https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC) | 3:34 |
-| 70 | [if you got a problem](https://open.spotify.com/track/5811AoaSuIRKBy7X438LsJ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB) | 3:06 |
+| 66 | [Victory](https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Victory](https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4) | 3:53 |
+| 67 | [On a Roll](https://open.spotify.com/track/34L5OwGhNUKJOG7fgR4ain) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Strangers No More](https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV) | 4:24 |
+| 68 | [Making Do](https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Making Do](https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC) | 3:34 |
+| 69 | [Saratoga](https://open.spotify.com/track/1XQRxNO0sBbSG8NZXFFbo8) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Saratoga](https://open.spotify.com/album/1r1Hx0CJ97rPzAEIPFCZTr) | 3:50 |
+| 70 | [I’D MISS THE BIRDS](https://open.spotify.com/track/2FVEApwIvd5154zX8m7Rx1) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 3:09 |
 | 71 | [Shakedown](https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 2:46 |
 | 72 | [Almost Home](https://open.spotify.com/track/4AsUAGWIMsZ7Xl5Hc1Fk4p) | [Keston Cobblers Club](https://open.spotify.com/artist/38DmNaPnPBoXtbpFgXZNL8) | [Almost Home](https://open.spotify.com/album/3wa5A9GyJM4jd3vCvfIby5) | 2:49 |
 | 73 | [Where Love Goes](https://open.spotify.com/track/6e0TEaeQcwhS8ktu5q0AYX) | [Kai Mata](https://open.spotify.com/artist/0RlMEX4BhqLPcZFg1SHRny) | [Where Love Goes](https://open.spotify.com/album/0opuNXDys3y4G5Dw0pLk9c) | 4:13 |
 | 74 | [My Home Is You](https://open.spotify.com/track/25tf3JcjG8097N3jEPgVAL) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [My Home Is You](https://open.spotify.com/album/3gxvQCTnw0tl5h6sgAnfnb) | 3:23 |
-| 75 | [I’D MISS THE BIRDS](https://open.spotify.com/track/2FVEApwIvd5154zX8m7Rx1) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 3:09 |
+| 75 | [if you got a problem](https://open.spotify.com/track/5811AoaSuIRKBy7X438LsJ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB) | 3:06 |
 | 76 | [Smile](https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:30 |
 | 77 | [Hummingbird](https://open.spotify.com/track/6VJESmw3puw9eFpmglP2dM) | [Traveller](https://open.spotify.com/artist/4kZAv5F7ojPi4hfxi7zy0l) | [Hummingbird](https://open.spotify.com/album/09tCVx2tXdXeOD9EPMtFtU) | 3:12 |
 | 78 | [Good Times](https://open.spotify.com/track/276ZfAgAGiqQqF1Iub8adH) | [Calder Allen](https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD) | [The Game](https://open.spotify.com/album/4tyKptv4UIL5W2KFORmUhv) | 4:58 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 88 | [Like a Child](https://open.spotify.com/track/1F6oZZlY7m0CAXlv3u5qOf) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Like a Child](https://open.spotify.com/album/6hIMfZogfaUwwiij8O69V2) | 3:36 |
 | 89 | [Both Can Be True](https://open.spotify.com/track/0kAe9PKCDne4YyRrK7qUj7) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Both Can Be True](https://open.spotify.com/album/78VYmUeibMyKEhanJqBd73) | 3:05 |
 | 90 | [Wild Spirit](https://open.spotify.com/track/5VDctoEJ0T3YGJwj0XHIEg) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Wild Spirit](https://open.spotify.com/album/6uRqR9oIdKcdOeW3xNtIUf) | 2:59 |
-| 91 | [Sparrow and the Wolf](https://open.spotify.com/track/3SB5JGFnQxB4P8Gh46wMzy) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Early in the Morning \(Special Edition\)](https://open.spotify.com/album/33HjgKPNuu4pYcTzAShz2i) | 3:39 |
-| 92 | [Easy, Love](https://open.spotify.com/track/6m2cCJT4K54P5nLfRLyJud) | [Tom West](https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr) | [Oncoming Clouds](https://open.spotify.com/album/6G9nFGCkm389KVfnwRBWux) | 3:27 |
+| 91 | [Easy, Love](https://open.spotify.com/track/6m2cCJT4K54P5nLfRLyJud) | [Tom West](https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr) | [Oncoming Clouds](https://open.spotify.com/album/6G9nFGCkm389KVfnwRBWux) | 3:27 |
+| 92 | [Sparrow and the Wolf](https://open.spotify.com/track/3SB5JGFnQxB4P8Gh46wMzy) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Early in the Morning \(Special Edition\)](https://open.spotify.com/album/33HjgKPNuu4pYcTzAShz2i) | 3:39 |
 | 93 | [Fast Like a Match](https://open.spotify.com/track/2gBwZy7BxggimItOwLXfMc) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Fast Like a Match](https://open.spotify.com/album/1zrWTOu2HMP9tdXfFgXNN6) | 2:41 |
 | 94 | [Mountain Man](https://open.spotify.com/track/63YnmHKlutFFkgfFB0OcPU) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH) | [Mountain Man](https://open.spotify.com/album/69Vry8bfaTqkz88FDDEbNG) | 3:58 |
 | 95 | [Satellite](https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Satellite](https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh) | 2:54 |
-| 96 | [Soap](https://open.spotify.com/track/3MNCE9NHhCLIuCcL5f2G7q) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Soap](https://open.spotify.com/album/1KYYQCuxfGl7gV9KpXBWRv) | 3:34 |
-| 97 | [Summer Bird](https://open.spotify.com/track/5K5R7SYPJB81a6pMhkzNbi) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Headlights / Summer Bird](https://open.spotify.com/album/5WYIv1ZwE96LLXlDDwBSvQ) | 3:11 |
+| 96 | [Summer Bird](https://open.spotify.com/track/5K5R7SYPJB81a6pMhkzNbi) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Headlights / Summer Bird](https://open.spotify.com/album/5WYIv1ZwE96LLXlDDwBSvQ) | 3:11 |
+| 97 | [Soap](https://open.spotify.com/track/3MNCE9NHhCLIuCcL5f2G7q) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Soap](https://open.spotify.com/album/1KYYQCuxfGl7gV9KpXBWRv) | 3:34 |
 | 98 | [Man of the Year](https://open.spotify.com/track/3CWWj5FOONFt3mU4BhSfeG) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [Man of the Year](https://open.spotify.com/album/6zgNoPiYiuJn5aAjuzVAvq) | 2:42 |
 | 99 | [hello my son](https://open.spotify.com/track/33mBsoLbgFfsYymsofr0cZ) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [hello my son](https://open.spotify.com/album/2lvHquPHf4NB0ImOWuC8k9) | 3:24 |
 | 100 | [Give Me The Reason](https://open.spotify.com/track/7d6ECwiSQEikOrJt5SNWMo) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason \(Stripped Acoustic\)](https://open.spotify.com/album/3EtG50pcQ4QExmabzcHnzn) | 3:54 |
 
-Snapshot ID: `AAAAAELQgpzV/8p0uflVSne//zOgMcv9`
+Snapshot ID: `AAAAAMx5vI+8Do2YlNrK0sfcjleDH5hx`

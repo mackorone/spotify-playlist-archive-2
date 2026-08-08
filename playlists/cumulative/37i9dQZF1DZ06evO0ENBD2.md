@@ -4,7 +4,7 @@
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-183 songs - 11 hr 57 min
+184 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,8 @@
 | [You Don't Fool Me](https://open.spotify.com/track/0qPrc7E2FLpG0IAm9TghKg) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(Deluxe Edition\)](https://open.spotify.com/album/4WHZOrekAUoBMQaajTIglO) | 5:24 | 2026-07-22 |  |
 | [You Don't Fool Me \- Remastered 2011](https://open.spotify.com/track/1chxAv59LZcOE5FyrlUze2) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/274tWwrhGJy0IFeMENjWi7) | 5:24 | 2022-09-17 | 2026-07-22 |
 | [You Don't Fool Me \- Remastered 2011](https://open.spotify.com/track/35balOkqaPZ4IrvZtG3YNg) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made in Heaven \(Deluxe Remastered Version\)](https://open.spotify.com/album/4fODEKBcruDGTihYHvBXBD) | 5:24 | 2025-03-27 | 2026-05-11 |
+| [You're My Best Friend](https://open.spotify.com/track/46gybz6M2g4oiVvt1aWOV4) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera](https://open.spotify.com/album/1TkbyIkf6GSrO5e7gWS4AM) | 2:52 | 2026-08-08 |  |
 | [You're My Best Friend \- Remastered 2011](https://open.spotify.com/track/4vhVDkSx9RSb2k6mWFMYNI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(2011 Remaster\)](https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx) | 2:50 | 2022-09-17 | 2026-07-16 |
-| [You're My Best Friend \- Remastered 2011](https://open.spotify.com/track/4OKf7CcYuw5H2HptkcKxcP) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Remastered Version\)](https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr) | 2:50 | 2025-03-27 |  |
+| [You're My Best Friend \- Remastered 2011](https://open.spotify.com/track/4OKf7CcYuw5H2HptkcKxcP) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Remastered Version\)](https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr) | 2:50 | 2025-03-27 | 2026-08-08 |
 
 \*This playlist was first scraped on 2022-09-18. Prior content cannot be recovered.

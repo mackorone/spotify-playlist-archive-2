@@ -1,12 +1,12 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : 35 Chinna katha kadu!",
-  "num_followers": 463971,
+  "num_followers": 464026,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJm64FsPhUkxJTjwPubOBV3G2RhB",
+  "snapshot_id": "AAAAAJDdm2MXyPhDJeczF/B8lKcWO5zW",
   "tracks": [
     {
       "added_at": "2025-12-02 09:29:59",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
+        "name": "Nannaku Prematho",
+        "url": "https://open.spotify.com/album/7Cz9TMxapJs5HgAP3QHBJo"
+      },
+      "artists": [
+        {
+          "name": "Sooraj Santhosh",
+          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
+        }
+      ],
+      "duration_ms": 246909,
+      "name": "Love Me Again",
+      "url": "https://open.spotify.com/track/3OmarYHeUC6ZWPX9tkBrDv"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
         "name": "Nava Manmadhudu (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5WIwDUoFvEy6o01B29dIz0"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 214765,
       "name": "Emannavoo",
       "url": "https://open.spotify.com/track/36ylvIx1fVaM4i5pux7Ea1"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Nannaku Prematho",
-        "url": "https://open.spotify.com/album/7Cz9TMxapJs5HgAP3QHBJo"
-      },
-      "artists": [
-        {
-          "name": "Sooraj Santhosh",
-          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
-        }
-      ],
-      "duration_ms": 246909,
-      "name": "Love Me Again",
-      "url": "https://open.spotify.com/track/3OmarYHeUC6ZWPX9tkBrDv"
     },
     {
       "added_at": "2026-04-17 11:03:44",
@@ -477,30 +477,6 @@
       "url": "https://open.spotify.com/track/4ZNIkO2j6K2c0Nm8zWXmdn"
     },
     {
-      "added_at": "2021-12-16 12:46:43",
-      "album": {
-        "name": "Gang Leader (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3JdE4IkqObXwTWzYKieCUv"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Inno Genga",
-          "url": "https://open.spotify.com/artist/29cBzYwqCZF4fjCisS8UvU"
-        },
-        {
-          "name": "Anantha Sriram",
-          "url": "https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq"
-        }
-      ],
-      "duration_ms": 271937,
-      "name": "Hoyna Hoyna",
-      "url": "https://open.spotify.com/track/7mNQwVYgoB3mtjkjCKsbXM"
-    },
-    {
       "added_at": "2023-12-12 05:49:47",
       "album": {
         "name": "Samayama (From \"Hi Nanna\")",
@@ -523,6 +499,30 @@
       "duration_ms": 204181,
       "name": "Samayama (From \"Hi Nanna\")",
       "url": "https://open.spotify.com/track/0hujsbFzpm9RjOs4mnVclo"
+    },
+    {
+      "added_at": "2021-12-16 12:46:43",
+      "album": {
+        "name": "Gang Leader (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3JdE4IkqObXwTWzYKieCUv"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Inno Genga",
+          "url": "https://open.spotify.com/artist/29cBzYwqCZF4fjCisS8UvU"
+        },
+        {
+          "name": "Anantha Sriram",
+          "url": "https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq"
+        }
+      ],
+      "duration_ms": 271937,
+      "name": "Hoyna Hoyna",
+      "url": "https://open.spotify.com/track/7mNQwVYgoB3mtjkjCKsbXM"
     },
     {
       "added_at": "2022-07-24 04:40:57",
@@ -1827,6 +1827,38 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
+        "name": "Dhruva",
+        "url": "https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM"
+      },
+      "artists": [
+        {
+          "name": "Padmalatha Vishnu Priya",
+          "url": "https://open.spotify.com/artist/7txK3ILyvvPyNhFJ8BzG8R"
+        }
+      ],
+      "duration_ms": 193179,
+      "name": "Pareshanura",
+      "url": "https://open.spotify.com/track/0UipbyZ94eKrCm1Vcydvl3"
+    },
+    {
+      "added_at": "2021-12-16 12:46:43",
+      "album": {
+        "name": "Taxiwaala",
+        "url": "https://open.spotify.com/album/287bcBsBqqod9rNEsITpJN"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "duration_ms": 296220,
+      "name": "Maate Vinadhuga",
+      "url": "https://open.spotify.com/track/15tihU7QrnhaBvE7hXGDwa"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
         "name": "Son Of Satyamurthy",
         "url": "https://open.spotify.com/album/0nJiWxWeUSYUq3xpzNKs5d"
       },
@@ -1849,36 +1881,20 @@
       "url": "https://open.spotify.com/track/0BFQi3erN3X4tT6ZrthC5d"
     },
     {
-      "added_at": "2021-12-16 12:46:43",
+      "added_at": "2022-07-24 04:40:57",
       "album": {
-        "name": "Taxiwaala",
-        "url": "https://open.spotify.com/album/287bcBsBqqod9rNEsITpJN"
+        "name": "Ala Vaikunthapurramuloo",
+        "url": "https://open.spotify.com/album/3lnOgTbiGMIvcZhvqBkHDa"
       },
       "artists": [
         {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
         }
       ],
-      "duration_ms": 296220,
-      "name": "Maate Vinadhuga",
-      "url": "https://open.spotify.com/track/15tihU7QrnhaBvE7hXGDwa"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Dhruva",
-        "url": "https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM"
-      },
-      "artists": [
-        {
-          "name": "Padmalatha Vishnu Priya",
-          "url": "https://open.spotify.com/artist/7txK3ILyvvPyNhFJ8BzG8R"
-        }
-      ],
-      "duration_ms": 193179,
-      "name": "Pareshanura",
-      "url": "https://open.spotify.com/track/0UipbyZ94eKrCm1Vcydvl3"
+      "duration_ms": 198782,
+      "name": "Buttabomma",
+      "url": "https://open.spotify.com/track/1gT9sc5997gi82JBxoUTYp"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -1907,26 +1923,6 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
-        "name": "Fidaa",
-        "url": "https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh"
-      },
-      "artists": [
-        {
-          "name": "Madhu Priya",
-          "url": "https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY"
-        },
-        {
-          "name": "Ramky",
-          "url": "https://open.spotify.com/artist/0T6ky5WnBqEazCMELEcQbn"
-        }
-      ],
-      "duration_ms": 324546,
-      "name": "Vachinde",
-      "url": "https://open.spotify.com/track/7KkaBto4aewGt8wl6q6wxH"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
         "name": "Srimanthudu",
         "url": "https://open.spotify.com/album/6n7uqqX5fHZEoBXF74KJQS"
       },
@@ -1945,20 +1941,24 @@
       "url": "https://open.spotify.com/track/7IsCmld8aCYXj1NbSn9t2K"
     },
     {
-      "added_at": "2022-07-24 04:40:57",
+      "added_at": "2023-08-07 09:11:28",
       "album": {
-        "name": "Ala Vaikunthapurramuloo",
-        "url": "https://open.spotify.com/album/3lnOgTbiGMIvcZhvqBkHDa"
+        "name": "Fidaa",
+        "url": "https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh"
       },
       "artists": [
         {
-          "name": "Armaan Malik",
-          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+          "name": "Madhu Priya",
+          "url": "https://open.spotify.com/artist/1TpuHZaoRQMiKcMRN5DjDY"
+        },
+        {
+          "name": "Ramky",
+          "url": "https://open.spotify.com/artist/0T6ky5WnBqEazCMELEcQbn"
         }
       ],
-      "duration_ms": 198782,
-      "name": "Buttabomma",
-      "url": "https://open.spotify.com/track/1gT9sc5997gi82JBxoUTYp"
+      "duration_ms": 324546,
+      "name": "Vachinde",
+      "url": "https://open.spotify.com/track/7KkaBto4aewGt8wl6q6wxH"
     },
     {
       "added_at": "2022-07-24 04:40:57",

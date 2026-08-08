@@ -4,7 +4,7 @@
 
 > aqueles papo de amor tlgd não?
 
-779 songs - 1 day 14 hr 4 min
+780 songs - 1 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -661,6 +661,7 @@
 | [Será?](https://open.spotify.com/track/3tdzYQGavoWCl8gkPcxywd) | [dreko](https://open.spotify.com/artist/0HOTKavni3wfNtHbpccVgy) | [Será?](https://open.spotify.com/album/57RuTZsU1fepATDckY87c8) | 3:14 | 2023-03-31 | 2023-06-17 |
 | [SERÁ?!](https://open.spotify.com/track/3fu4OqxH1EV7U5GhNR09vG) | [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h) | [SERÁ?!](https://open.spotify.com/album/4goaxgjesr2HOQju2MsEm6) | 3:17 | 2025-04-28 | 2025-11-14 |
 | [Seu](https://open.spotify.com/track/20uJrdNdBRS6L1SMlaWTyR) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [de: para:](https://open.spotify.com/album/5eWtjMLQlSVVC7fa1f7hk3) | 2:30 | 2024-01-12 | 2026-04-11 |
+| [Seu Amor Fui Eu](https://open.spotify.com/track/4J2VnJF9HbGNF53JxttiuK) | [GALVÃO](https://open.spotify.com/artist/0X1Ete1bGqWYxmLVHXLRCF), [PC](https://open.spotify.com/artist/3w9PLS0EdBeRhRKzuQ4r2r), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [Seu Amor Fui Eu](https://open.spotify.com/album/1wkoBHc0l6p5nfOl85NDhd) | 3:20 | 2026-08-07 |  |
 | [Seu Cheiro Ta Na Minha Blusa](https://open.spotify.com/track/69ZY1GiPkZHZ6HCxZtMJ7r) | [Coffee Zk](https://open.spotify.com/artist/1cCEQ1P7hSW7Oktxst0XzK), [Ozzy Mk](https://open.spotify.com/artist/54sMHWIsoTDjSWdaw3kwEJ) | [Malandra](https://open.spotify.com/album/5APTetqYb3l1xIUDLtOBfY) | 2:18 | 2024-09-13 | 2024-11-29 |
 | [Seu Erro](https://open.spotify.com/track/6Lwxlj4xV0JG0VkTslT2Jh) | [Mentorzzin](https://open.spotify.com/artist/18S2hKSQUyNRY45vcMixEX), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Seu Erro](https://open.spotify.com/album/4vIGO78CeGJ5vdAinZuxzP) | 3:02 | 2023-09-01 | 2023-10-21 |
 | [Seu Jorge Freeverse](https://open.spotify.com/track/43tQRPEnLnJA9WNkMTgCsa) | [Bardek](https://open.spotify.com/artist/4bmba6yW4zV7BAu0jZmD6g), [graovizir](https://open.spotify.com/artist/0OlI7ZNGvQiLMi1bEZgimJ), [Manel Beats](https://open.spotify.com/artist/3EEfGYBytM1QLAuP7z2Z4c), [j3llyX](https://open.spotify.com/artist/5iTcI9GzniWIJkg7FTxwOw) | [Seu Jorge Freeverse](https://open.spotify.com/album/60K2HgrxBBqubXRPiafDVk) | 2:00 | 2025-06-30 | 2025-08-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0tFihpSR1M.md) - [plain]
 
 > Det beste av ny pop akkurat nå! 🍭<br/>Cover: Anna Lille
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,408 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,416 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,15 +28,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0tFihpSR1M.md) - [plain]
 | 18 | [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |
 | 19 | [THAT GIRL](https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [A\*POP](https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF) | 2:56 |
 | 20 | [Happiness Is So Sad](https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happiness Is So Sad](https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW) | 3:52 |
-| 21 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 |
+| 21 | [petal](https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:04 |
 | 22 | [SOS](https://open.spotify.com/track/0IpCt1Z62jF1LCPTADQTUB) | [Makosir](https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh), [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD) | [Spill For Galleriet](https://open.spotify.com/album/2f7lZnPRZhHfUcYzFMaKXb) | 3:14 |
-| 23 | [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 |
+| 23 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 |
 | 24 | [Camera](https://open.spotify.com/track/1C95XJLGL9xyMlsES1uVDQ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Camera](https://open.spotify.com/album/2P5WYw7vAwb5jeFPIU1lMc) | 2:31 |
-| 25 | [petal](https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:04 |
+| 25 | [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 |
 | 26 | [Coming Home \(feat\. Jorja Smith\)](https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [For A Good Time...](https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa) | 3:42 |
 | 27 | [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 |
-| 28 | [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 |
-| 29 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 |
+| 28 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 |
+| 29 | [iloveitiloveitiloveit](https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [iloveitiloveitiloveit](https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF) | 3:03 |
 | 30 | [PINKY UP](https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [PINKY UP](https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz) | 2:11 |
 | 31 | [My Body Isn't Ready](https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [My Body Isn't Ready](https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh) | 3:37 |
 | 32 | [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0tFihpSR1M.md) - [plain]
 | 65 | [Heaven On Your Mind](https://open.spotify.com/track/6CfTOBRp1sgG8xY97RsUWS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dan Tyminski](https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8) | [Heaven On Your Mind](https://open.spotify.com/album/1oPqsnINC8uvqs1MfxZNez) | 3:44 |
 | 66 | [Promise?](https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Promise?](https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO) | 3:12 |
 | 67 | [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 |
-| 68 | [From Down Here](https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [From Down Here](https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u) | 4:01 |
+| 68 | [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 |
 | 69 | [Switchblade](https://open.spotify.com/track/551ynJcmHdcUt4u28iE2sy) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Switchblade](https://open.spotify.com/album/72NbWVcRBBATor0AmDVQTD) | 3:01 |
 | 70 | [Håpløs](https://open.spotify.com/track/4SbpGcPIMBFFwPO5B7cuvl) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t) | [Håpløs](https://open.spotify.com/album/5qampg6B8BB77GrP433F6O) | 3:01 |
 
-Snapshot ID: `AAAAALS1cx/68tykCtLZbcMAaMYVLJIW`
+Snapshot ID: `AAAAALvPd+0fh5Ybj+5u19+rZUQ30Qbp`

@@ -4,7 +4,7 @@
 
 > look up, dream on, drift off...
 
-267 songs - 17 hr 5 min
+268 songs - 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Duvet](https://open.spotify.com/track/6yX22QCxIC4Ghi5WIFo7HE) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Svalbard](https://open.spotify.com/album/41dLks2J6klak7H5YUh4cs) | 3:24 | 2022-01-05 | 2026-06-20 |
 | [Duvet](https://open.spotify.com/track/1veZkUONsfxYDfqcGo6YbG) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI), [Andy Barlow](https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o) | [Svalbard](https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF) | 3:24 | 2022-07-28 | 2024-04-19 |
 | [Eclipse](https://open.spotify.com/track/1kUIWgUhTLs6Re3j7adLJs) | [Richome](https://open.spotify.com/artist/7wT96tCUu2nwZ056pObwZS) | [Eclipse](https://open.spotify.com/album/4C92HVF9cOpY6jnITwtV78) | 2:30 | 2022-12-19 |  |
+| [Eternity in an Hour: VIII\. In an Hour](https://open.spotify.com/track/07kSJb6z1A2O1yObCPGC7U) | [Eric Whitacre](https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL), [Eric Whitacre Singers](https://open.spotify.com/artist/2tPhboxrWrQ4LxOhWlXAeN), [Emma Denton](https://open.spotify.com/artist/0W9hKiOL5yNId9xC24fFWg) | [Eternity in an Hour: VIII\. In an Hour](https://open.spotify.com/album/3t53lVMYsAnqmvVWbeRF99) | 5:54 | 2026-08-07 |  |
 | [Everyday Things](https://open.spotify.com/track/7CFHJyB6dGzaBlx4JApo0u) | [David Cordero](https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ), [Miguel Otero](https://open.spotify.com/artist/7ok1JjfEi1QoRXoyOEINrQ) | [A Possible Distance](https://open.spotify.com/album/3kvmIp2XtWBMJW6PtNoVJR) | 3:46 | 2022-12-06 |  |
 | [Everything is Everything](https://open.spotify.com/track/6aNYj7D4ZzFYiMw8PNIUDx) | [Niklas Blumenthaler](https://open.spotify.com/artist/14PMDJ6ZGkzsHqS51zw6cG) | [Music for a Short Film](https://open.spotify.com/album/5O5WyYSsUhwhZTkxWaLu5y) | 2:16 | 2022-07-27 |  |
 | [Fair Passage](https://open.spotify.com/track/4c9HQKG5IyaNByZGysAeqG) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Vivarium](https://open.spotify.com/album/0GfJmiUAaIQCBtJ25zpcwz) | 2:19 | 2022-10-04 |  |
@@ -190,7 +191,7 @@
 | [Ray](https://open.spotify.com/track/4DZZQbBwmrheEeiVqvkpEx) | [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn), [Andrew Tasselmyer](https://open.spotify.com/artist/3vwXyo09sUewtbKz6Bwkjx) | [Ray](https://open.spotify.com/album/0RFSLWfMPONtCdhxIRvCPL) | 4:56 | 2023-02-15 |  |
 | [Reaping in Joy](https://open.spotify.com/track/5GS1nPJBMHLmVlkpG8v5Zw) | [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf), [Christopher Galovan](https://open.spotify.com/artist/5LUMGK9eTmZdJJwmDph01c) | [Garden Heart: Reworks](https://open.spotify.com/album/1TbsrNNEfLDRW6bc2gSsLx) | 3:37 | 2022-10-04 |  |
 | [Reflections](https://open.spotify.com/track/1eEPjmaDkD3kQdHCZTqIuB) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Reflections](https://open.spotify.com/album/0igeDK2JW9B81QAkJ8bISO) | 3:31 | 2022-04-26 | 2026-07-18 |
-| [Reliance of Dawn](https://open.spotify.com/track/7B7UvhmhSnqnMN3CEyDLZX) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d), [Hanna Ekström](https://open.spotify.com/artist/5oKBGEzl76HnP3fS2cU366) | [Reliance of Dawn](https://open.spotify.com/album/1plqY0Pz6jVjkFoftS5TyV) | 3:24 | 2026-06-12 |  |
+| [Reliance of Dawn](https://open.spotify.com/track/7B7UvhmhSnqnMN3CEyDLZX) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d), [Hanna Ekström](https://open.spotify.com/artist/5oKBGEzl76HnP3fS2cU366) | [Reliance of Dawn](https://open.spotify.com/album/1plqY0Pz6jVjkFoftS5TyV) | 3:24 | 2026-06-12 | 2026-08-08 |
 | [Remembered Words](https://open.spotify.com/track/2EYXp9N9xFOejfAmj5skO8) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS), [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [We All Have Places That We Miss](https://open.spotify.com/album/6fkKyjBBqmc7gmEGqshSAa) | 5:10 | 2023-02-15 |  |
 | [Remembered Words](https://open.spotify.com/track/4QMRZjSDbbBYGLBxOsEPYU) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS), [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [Remembered Words](https://open.spotify.com/album/0lCDKKzqoBzR0hrHYwLDzw) | 5:10 | 2022-04-26 |  |
 | [Respite](https://open.spotify.com/track/3NJy8hN4OXIMyqbskBsL8v) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [The Invisible EP](https://open.spotify.com/album/2YlB5eElaicdKaMYZVUHsO) | 2:43 | 2022-01-05 | 2026-06-20 |
@@ -239,7 +240,7 @@
 | [The Peacemakers](https://open.spotify.com/track/3onZszNqI3upQotSr4HtTE) | [Hill](https://open.spotify.com/artist/1hdkvBtRdOW4SPsnxCXOjK) | [The Mount](https://open.spotify.com/album/0wv44MyPxj3pFQTQlyHa7j) | 4:44 | 2022-04-26 |  |
 | [The Quiet Room](https://open.spotify.com/track/5t0ZGeRGzzEBQJnhXHAtPr) | [Eleonora Pellegrino](https://open.spotify.com/artist/2qNDbSCROm7CktKpY3tRto) | [The Quiet Room](https://open.spotify.com/album/2coBR4jCTxZqqVc7L7yfQQ) | 2:57 | 2026-06-19 |  |
 | [The Shortest Flight](https://open.spotify.com/track/0eRujTuQz5mwL54tcZrNKN) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [The Shortest Flight](https://open.spotify.com/album/3iSyKd9tGWNNUl2QCPvw06) | 1:58 | 2022-05-11 |  |
-| [The Voice of the Earth](https://open.spotify.com/track/15jwOWUrqFxNpzkCh86lU8) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [The Voice of the Earth](https://open.spotify.com/album/3HiXByOFbvvwhgCGO6KwWe) | 3:23 | 2023-03-13 |  |
+| [The Voice of the Earth](https://open.spotify.com/track/15jwOWUrqFxNpzkCh86lU8) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [The Voice of the Earth](https://open.spotify.com/album/3HiXByOFbvvwhgCGO6KwWe) | 3:23 | 2023-03-13 | 2026-08-08 |
 | [The Wave](https://open.spotify.com/track/2954gxDvLc1xEXEZ5EReNK) | [AVAWAVES](https://open.spotify.com/artist/0n6xMAwakXiGBh8glsuYG1) | [Savage Waters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0BOpSC4KSgViq7DSgJfoXG) | 3:30 | 2022-10-04 | 2024-04-19 |
 | [The Wave](https://open.spotify.com/track/4fxtF5b3iOn3JWLbdveFfd) | [AVAWAVES](https://open.spotify.com/artist/0n6xMAwakXiGBh8glsuYG1) | [The Wave](https://open.spotify.com/album/103ti78Ywi3lqQygXDfS9Q) | 3:32 | 2022-05-11 |  |
 | [The Wave](https://open.spotify.com/track/4rlY6t4sZyguT9HAQ2BLzS) | [AVAWAVES](https://open.spotify.com/artist/0n6xMAwakXiGBh8glsuYG1) | [The Wave](https://open.spotify.com/album/54WoGKFUUOlELx0Acc7XYE) | 3:32 | 2022-07-28 | 2022-11-15 |

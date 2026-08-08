@@ -7949,6 +7949,24 @@
     },
     {
       "album": {
+        "name": "Broken View",
+        "url": "https://open.spotify.com/album/6tDWxFwFa678P6qTiuyUqg"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246562,
+      "name": "The More I Hope",
+      "url": "https://open.spotify.com/track/5jcS2jxv5IhNr6DenoBTi0"
+    },
+    {
+      "album": {
         "name": "The Prodigal",
         "url": "https://open.spotify.com/album/6hHKMT1KggeWWTr6N2JQPr"
       },

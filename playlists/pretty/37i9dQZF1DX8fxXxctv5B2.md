@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 
 > Windows down, volume up\. The soundtrack to your road trip.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,625 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,653 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 | 63 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
 | 64 | [Do You Really Love Her](https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Do You Really Love Her](https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN) | 3:48 |
 | 65 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 |
-| 66 | [Diamonds](https://open.spotify.com/track/4l1lNsZQGiq597PgORdJgM) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood](https://open.spotify.com/album/3UtLsPn5V412E1SeqzFOP2) | 3:21 |
-| 67 | [Little Secrets](https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 3:58 |
+| 66 | [Little Secrets](https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 3:58 |
+| 67 | [Diamonds](https://open.spotify.com/track/4l1lNsZQGiq597PgORdJgM) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood](https://open.spotify.com/album/3UtLsPn5V412E1SeqzFOP2) | 3:21 |
 | 68 | [Always Like This](https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Had The Blues But I Shook Them Loose](https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a) | 4:05 |
 | 69 | [Keep Me Satisfied](https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Me Satisfied](https://open.spotify.com/album/6QDVSbU4yXnw4TEmTynaQM) | 2:25 |
 | 70 | [Ready To Ride](https://open.spotify.com/track/5Ov3TERXJhFfuHcTpJR0iV) | [Hori Shaw](https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh), [Te Wehi](https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc) | [Ready To Ride](https://open.spotify.com/album/6G4cGs3sIKpnL8hdIVUrGB) | 3:41 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 | 79 | [Forever Young](https://open.spotify.com/track/0rdEIRgDyH03nwzk7cbbh2) | [Youth Group](https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq) | [Casino Twilight Dogs](https://open.spotify.com/album/0t4OvGh2M7gJ8asnTwughI) | 3:58 |
 | 80 | [Plans](https://open.spotify.com/track/1TZGMJxT3gPDkwZyfcc9ED) | [Birds Of Tokyo](https://open.spotify.com/artist/25ou7Y6W7L1fcMoCZMbf86) | [Birds Of Tokyo](https://open.spotify.com/album/5SJkYrOgbOHRPTtvVm23FI) | 3:38 |
 
-Snapshot ID: `AAAAAGuI2g05gMh8CPkNrOHSvv4E68Jj`
+Snapshot ID: `AAAAAJpyPHmWC68ZfFL04nIUDwmYWoLJ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 
 > A decade full of 00s country hits! Cover: Miranda Lambert
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,000,372 likes - 125 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,000,521 likes - 125 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 68 | [These Are My People](https://open.spotify.com/track/5jFid6SUnYqohvNvNuZvIz) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [If You're Going Through Hell](https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ) | 3:33 |
 | 69 | [Nothing On But The Radio](https://open.spotify.com/track/3SRuODYNV4j2ckkJ9Samju) | [Gary Allan](https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m) | [See If I Care](https://open.spotify.com/album/4xBILuasKLadf6hitvo5mG) | 3:32 |
 | 70 | [White Liar](https://open.spotify.com/track/08NPIspzvBNj88lHalgA4V) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 4:48 |
-| 71 | [All My Friends Say](https://open.spotify.com/track/539dFCMA8lfEElDPgGpcIB) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [I'll Stay Me](https://open.spotify.com/album/2WqHN90AQgk95Str6hWCt9) | 4:02 |
-| 72 | [Long Black Train](https://open.spotify.com/track/2HqCaO7BV010qXS5FuiTED) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Long Black Train](https://open.spotify.com/album/7DgePplMBaKbi8l5c8s64n) | 4:10 |
+| 71 | [Long Black Train](https://open.spotify.com/track/2HqCaO7BV010qXS5FuiTED) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Long Black Train](https://open.spotify.com/album/7DgePplMBaKbi8l5c8s64n) | 4:10 |
+| 72 | [All My Friends Say](https://open.spotify.com/track/539dFCMA8lfEElDPgGpcIB) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [I'll Stay Me](https://open.spotify.com/album/2WqHN90AQgk95Str6hWCt9) | 4:02 |
 | 73 | [It Won't Be Like This For Long](https://open.spotify.com/track/4gzeYkzuzxuzAUTsGcdjqA) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Learn To Live](https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK) | 3:39 |
 | 74 | [I'm Gonna Getcha Good](https://open.spotify.com/track/3wimPgsJv0hEgP5A3sQ7Ag) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Green Version\)](https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx) | 4:29 |
 | 75 | [Nothin' To Lose](https://open.spotify.com/track/7oiCqfE8Wjk8wf0pFTgL2H) | [Josh Gracin](https://open.spotify.com/artist/1456WwI15Lm9CktCzkLZvm) | [Josh Gracin](https://open.spotify.com/album/1V4qP0BJJBZsY2LOkcfwE0) | 2:36 |
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 115 | [Honky Tonk Badonkadonk](https://open.spotify.com/track/1VdHooAMVaGXPSty8pifv9) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Dangerous Man](https://open.spotify.com/album/2ZdBjpNzKeluVjBdZ4x12j) | 4:00 |
 | 116 | [Free And Easy \(Down The Road I Go\)](https://open.spotify.com/track/4Ng7hGdPwpINleVecBWiOO) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Greatest Hits / Every Mile A Memory 2003 \- 2008](https://open.spotify.com/album/4iUwiEhZk4bbaoA6qiZSy6) | 3:21 |
 | 117 | [Prayin' For Daylight](https://open.spotify.com/track/0DAVCurdi9ZqkVUKIuikzm) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Rascal Flatts](https://open.spotify.com/album/6RhvNGfuqrGZBNs5AChVO4) | 3:38 |
-| 118 | [Where I Come From](https://open.spotify.com/track/6ej1QJ8eIYmhsyTlvgDajy) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 3:59 |
-| 119 | [Making Memories Of Us](https://open.spotify.com/track/0Sg5kWoILCs2zBoIHIsDAa) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 3:56 |
+| 118 | [Making Memories Of Us](https://open.spotify.com/track/0Sg5kWoILCs2zBoIHIsDAa) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 3:56 |
+| 119 | [Where I Come From](https://open.spotify.com/track/6ej1QJ8eIYmhsyTlvgDajy) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 3:59 |
 | 120 | [Bring On The Rain](https://open.spotify.com/track/1OnXz5v4hVdrNLJ9N4MqzL) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Burn](https://open.spotify.com/album/1AGAaPw6yMh1WCAninJag0) | 3:59 |
 | 121 | [Lucky Man](https://open.spotify.com/track/4GiXBCUF7H6YfNQsnBRIzl) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Some People Change](https://open.spotify.com/album/4VnDYciDlyoi7Y7E5K1l9m) | 3:16 |
 | 122 | [What About Now](https://open.spotify.com/track/1xK2NkwOfT8qZYWPossXGz) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Lonely Grill](https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2) | 3:30 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 124 | [It Must Be Love](https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 2:51 |
 | 125 | [My Give A Damn's Busted](https://open.spotify.com/track/3n8QTc8J3T72KurDsWo1b6) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Delicious Surprise](https://open.spotify.com/album/0wKsvBrbplJvSaZ4EMvgzb) | 3:18 |
 
-Snapshot ID: `AAAAAHd+sdqldFsq3xpnatt0ygr9HO5H`
+Snapshot ID: `AAAAAH0eNLdsFI/hqoSVMLdtV/mxJHsq`

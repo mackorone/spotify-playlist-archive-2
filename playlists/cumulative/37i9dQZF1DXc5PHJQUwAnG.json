@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Bienvenidx a la trampa mexa.  En portada: Nash, Daizak, Pinky06",
+  "description": "Bienvenidx a la trampa mexa.  En portada: ANT y Jayrick",
   "name": "TRAPPERZ_MX",
   "tracks": [
     {
@@ -141,6 +141,28 @@
     },
     {
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/00C6CDeRSb9TJF2g42JUy4"
+      },
+      "artists": [
+        {
+          "name": "AdonayAG",
+          "url": "https://open.spotify.com/artist/40Ch6lWdYSfBF1bHVjzzV1"
+        },
+        {
+          "name": "Ramonzzta",
+          "url": "https://open.spotify.com/artist/1ACjmQHSkVUHUKOWWnXnfZ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125181,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/37RB3f76Oafm3B9zEIDvBN"
+    },
+    {
+      "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/2pgHn8deQqWsI6iSGtSH1A"
       },
@@ -236,7 +258,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 168781,
       "name": "47",
       "url": "https://open.spotify.com/track/0CEnYHDf26K2zXHgJHZYoV"
@@ -657,6 +679,28 @@
     },
     {
       "album": {
+        "name": "Almas Tristes",
+        "url": "https://open.spotify.com/album/2ZRX59unNZfo3u5i5rpUEt"
+      },
+      "artists": [
+        {
+          "name": "La Potter",
+          "url": "https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu"
+        },
+        {
+          "name": "D\u00edmelo Seven",
+          "url": "https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121039,
+      "name": "Almas Tristes",
+      "url": "https://open.spotify.com/track/4Ukr6OTkqdWdCMtQ1C2tQM"
+    },
+    {
+      "album": {
         "name": "Amaleantao",
         "url": "https://open.spotify.com/album/0XbruKIrnwPjXj80V2MhPo"
       },
@@ -1028,7 +1072,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 216509,
       "name": "Bajo La L\u00e1mpara",
       "url": "https://open.spotify.com/track/7gpAFwxsWhu8fwHqni0W3G"
@@ -1910,7 +1954,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 199800,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/5cBH5u0MyjNTmPOKLYQllh"
@@ -3206,7 +3250,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 203281,
       "name": "Draco",
       "url": "https://open.spotify.com/track/24q8cX3cE41dil24HwJaF0"
@@ -4874,7 +4918,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 161280,
       "name": "HUNNIDS",
       "url": "https://open.spotify.com/track/1uOZNTADpDCLZ8QHm4Z4N0"
@@ -5104,6 +5148,32 @@
       "duration_ms": 124166,
       "name": "Intro: THE GOAT",
       "url": "https://open.spotify.com/track/7s0YftbAtOPmkyWKjq6HA0"
+    },
+    {
+      "album": {
+        "name": "JELLY",
+        "url": "https://open.spotify.com/album/3Vy9qZeC6brI7f3LIwlyBv"
+      },
+      "artists": [
+        {
+          "name": "Jay Oc",
+          "url": "https://open.spotify.com/artist/4xfAJoeFObf1ny2nj3sgMS"
+        },
+        {
+          "name": "LAKELLY",
+          "url": "https://open.spotify.com/artist/4jg7aE94hJ1qY93unfcyA5"
+        },
+        {
+          "name": "VV Brujo",
+          "url": "https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146756,
+      "name": "JELLY",
+      "url": "https://open.spotify.com/track/2dxRuKPnk5JLm8QYySI0jC"
     },
     {
       "album": {
@@ -5826,7 +5896,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 163378,
       "name": "Lamine Yamal",
       "url": "https://open.spotify.com/track/4pN10u9cyHuPLGtWEc55gY"
@@ -7913,6 +7983,28 @@
     },
     {
       "album": {
+        "name": "ONE OF ONE",
+        "url": "https://open.spotify.com/album/5ERk5ETrdZOk4c4rYOCwBv"
+      },
+      "artists": [
+        {
+          "name": "ANT",
+          "url": "https://open.spotify.com/artist/4FubhNvyaoxfF7Dar4PBD5"
+        },
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141906,
+      "name": "ONE OF ONE",
+      "url": "https://open.spotify.com/track/34HDjmul0hY7wwAYXqBc2f"
+    },
+    {
+      "album": {
         "name": "Ugly Boyz Club Vol. 1",
         "url": "https://open.spotify.com/album/5UTLQSQRKQ2wMJmfvFwKux"
       },
@@ -8104,7 +8196,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 174545,
       "name": "Pa las Storis",
       "url": "https://open.spotify.com/track/7nh8B9basixd8gC13NTOqC"
@@ -8645,6 +8737,24 @@
     },
     {
       "album": {
+        "name": "Por Mi Callej\u00f3n",
+        "url": "https://open.spotify.com/album/4nNfoilMIXIfg9KqlaBYvl"
+      },
+      "artists": [
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233440,
+      "name": "Por Mi Callej\u00f3n",
+      "url": "https://open.spotify.com/track/6YW2GrJurVbUuGxGHwozWx"
+    },
+    {
+      "album": {
         "name": "PornX",
         "url": "https://open.spotify.com/album/5OFVossAQxSN76QfDUd6eN"
       },
@@ -8730,6 +8840,28 @@
       "duration_ms": 200000,
       "name": "Promesas de Amor",
       "url": "https://open.spotify.com/track/4catmF6NKPlnYnUs5H6tOe"
+    },
+    {
+      "album": {
+        "name": "PSA 10",
+        "url": "https://open.spotify.com/album/0Tpfc3g9m3yuf1yD8kfeHJ"
+      },
+      "artists": [
+        {
+          "name": "El Belicoso",
+          "url": "https://open.spotify.com/artist/3E63mgo0ttd5t81GVt2e8h"
+        },
+        {
+          "name": "Twin",
+          "url": "https://open.spotify.com/artist/0wGlMhA4yPcI1SgtgtjuIF"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164312,
+      "name": "PSA 10",
+      "url": "https://open.spotify.com/track/6hhE7PSAzg41BT5fMBzmev"
     },
     {
       "album": {
@@ -9962,6 +10094,28 @@
       "duration_ms": 118932,
       "name": "Steak",
       "url": "https://open.spotify.com/track/0J0Hci2kFZEZjEKZ7Z17zv"
+    },
+    {
+      "album": {
+        "name": "SUGE KNIGHT",
+        "url": "https://open.spotify.com/album/1dfD3mnWMB7H9uHZPP9YvG"
+      },
+      "artists": [
+        {
+          "name": "El Belicoso",
+          "url": "https://open.spotify.com/artist/3E63mgo0ttd5t81GVt2e8h"
+        },
+        {
+          "name": "Jesp7Tearz",
+          "url": "https://open.spotify.com/artist/2hKzSNbt10rdDMtede2Gbi"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115009,
+      "name": "SUGE KNIGHT",
+      "url": "https://open.spotify.com/track/6dCbGXxLCITRtBCpttyc5k"
     },
     {
       "album": {

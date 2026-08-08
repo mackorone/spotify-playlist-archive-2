@@ -1,12 +1,12 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover: Mary Ann Alexander",
-  "num_followers": 197063,
+  "num_followers": 197142,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADf5PqVQm1uOY88Xkd8P5OStXO1a",
+  "snapshot_id": "AAAAAJ7Yv75q4dgQhQy4hAJWX5JNQ1dZ",
   "tracks": [
     {
       "added_at": "2026-07-31 05:15:47",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-07-31 05:15:47",
       "album": {
-        "name": "Sukoon",
-        "url": "https://open.spotify.com/album/47WoZdif6vZZqDdgWCG4A1"
-      },
-      "artists": [
-        {
-          "name": "gini",
-          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
-        }
-      ],
-      "duration_ms": 186393,
-      "name": "Sukoon",
-      "url": "https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK"
-    },
-    {
-      "added_at": "2026-07-31 05:15:47",
-      "album": {
         "name": "Aas",
         "url": "https://open.spotify.com/album/3ouQsqA555hLFhrObzNezV"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 190234,
       "name": "Aas",
       "url": "https://open.spotify.com/track/7MLSIlkM9B2NhKMlAFRQc7"
+    },
+    {
+      "added_at": "2026-07-31 05:15:47",
+      "album": {
+        "name": "Sukoon",
+        "url": "https://open.spotify.com/album/47WoZdif6vZZqDdgWCG4A1"
+      },
+      "artists": [
+        {
+          "name": "gini",
+          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
+        }
+      ],
+      "duration_ms": 186393,
+      "name": "Sukoon",
+      "url": "https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK"
     },
     {
       "added_at": "2026-07-31 05:15:47",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-07-31 05:15:47",
       "album": {
-        "name": "Dil Se",
-        "url": "https://open.spotify.com/album/3zNP4DAxYiFqVJikeGchYg"
-      },
-      "artists": [
-        {
-          "name": "Yawar Abdal",
-          "url": "https://open.spotify.com/artist/0diT32N2N04X4L7NK3AK5P"
-        }
-      ],
-      "duration_ms": 257518,
-      "name": "Dil Se",
-      "url": "https://open.spotify.com/track/7rXK1ksEA28ZnOQSwMXGuY"
-    },
-    {
-      "added_at": "2026-07-31 05:15:47",
-      "album": {
         "name": "Haal-e-Dil",
         "url": "https://open.spotify.com/album/08MA1gXMtK4u5dmsyJEURe"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 141716,
       "name": "Piya",
       "url": "https://open.spotify.com/track/067DbzLwQzTCkhz7Aw4GN8"
+    },
+    {
+      "added_at": "2026-07-31 05:15:47",
+      "album": {
+        "name": "Dil Se",
+        "url": "https://open.spotify.com/album/3zNP4DAxYiFqVJikeGchYg"
+      },
+      "artists": [
+        {
+          "name": "Yawar Abdal",
+          "url": "https://open.spotify.com/artist/0diT32N2N04X4L7NK3AK5P"
+        }
+      ],
+      "duration_ms": 257518,
+      "name": "Dil Se",
+      "url": "https://open.spotify.com/track/7rXK1ksEA28ZnOQSwMXGuY"
     },
     {
       "added_at": "2026-07-31 05:15:47",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-07-31 05:15:47",
       "album": {
-        "name": "Mulaqaat",
-        "url": "https://open.spotify.com/album/119PjDCBDmx0VcThsZ3hLe"
-      },
-      "artists": [
-        {
-          "name": "Rajan Batra",
-          "url": "https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c"
-        }
-      ],
-      "duration_ms": 211833,
-      "name": "Mulaqaat",
-      "url": "https://open.spotify.com/track/0ks1BVAA92yo6x447oBasd"
-    },
-    {
-      "added_at": "2026-07-31 05:15:47",
-      "album": {
         "name": "Kehndi Hai",
         "url": "https://open.spotify.com/album/6LwC2nt0yfSGOjE5UPghLN"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 149927,
       "name": "Kehndi Hai",
       "url": "https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE"
+    },
+    {
+      "added_at": "2026-07-31 05:15:47",
+      "album": {
+        "name": "Mulaqaat",
+        "url": "https://open.spotify.com/album/119PjDCBDmx0VcThsZ3hLe"
+      },
+      "artists": [
+        {
+          "name": "Rajan Batra",
+          "url": "https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c"
+        }
+      ],
+      "duration_ms": 211833,
+      "name": "Mulaqaat",
+      "url": "https://open.spotify.com/track/0ks1BVAA92yo6x447oBasd"
     }
   ],
   "unique_name": "RADAR India",

@@ -1,12 +1,12 @@
 {
   "description": "The best new electronic indie music. Cover: Bonobo",
-  "num_followers": 43744,
+  "num_followers": 43758,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOzKCds3u+HNMrHzt2oPllCsWud2",
+  "snapshot_id": "AAAAABZz7sEhByeMN5jLjogSFrKIS3TY",
   "tracks": [
     {
       "added_at": "2026-07-23 23:00:40",
@@ -379,26 +379,6 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "Good Girl",
-        "url": "https://open.spotify.com/album/1OJ2oUJcjDuiIEPrU5trpp"
-      },
-      "artists": [
-        {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        },
-        {
-          "name": "Beaux Neptune",
-          "url": "https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj"
-        }
-      ],
-      "duration_ms": 194887,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/3CWjCDuORRYDKZjdQRra4f"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
         "name": "Blue Shadows (feat. Karen O)",
         "url": "https://open.spotify.com/album/3bTntUIL9J3VLtgALQkzh7"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 160000,
       "name": "Blue Shadows (feat. Karen O)",
       "url": "https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/1OJ2oUJcjDuiIEPrU5trpp"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        },
+        {
+          "name": "Beaux Neptune",
+          "url": "https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj"
+        }
+      ],
+      "duration_ms": 194887,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/3CWjCDuORRYDKZjdQRra4f"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -491,26 +491,6 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "Sick Of Love (Mura Masa Remix)",
-        "url": "https://open.spotify.com/album/4MH2cB8M1yl9Gnz8r8bR0n"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        },
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        }
-      ],
-      "duration_ms": 334078,
-      "name": "Sick Of Love (Mura Masa Remix)",
-      "url": "https://open.spotify.com/track/2npfkuwONh6ZDKJqxyj7ob"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
         "name": "Turn Up The Love",
         "url": "https://open.spotify.com/album/2OkJyJE2eByZ7jg46Gqsy5"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 186728,
       "name": "Turn Up The Love",
       "url": "https://open.spotify.com/track/6mPVFIUE1SamSyfWGju8Y4"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
+        "name": "Sick Of Love (Mura Masa Remix)",
+        "url": "https://open.spotify.com/album/4MH2cB8M1yl9Gnz8r8bR0n"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        },
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "duration_ms": 334078,
+      "name": "Sick Of Love (Mura Masa Remix)",
+      "url": "https://open.spotify.com/track/2npfkuwONh6ZDKJqxyj7ob"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/3AKbeXvey1HmmyYEcWZRqq"
-      },
-      "artists": [
-        {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        }
-      ],
-      "duration_ms": 165388,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/6JGrKJtW3CxLscWj7OJMYt"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
         "name": "Say\u014dnara",
         "url": "https://open.spotify.com/album/4sSuFuXvMNnml7USWeCiQ9"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 184734,
       "name": "Say\u014dnara",
       "url": "https://open.spotify.com/track/5gNzx8gPSmvZRmC7GqDlkI"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/3AKbeXvey1HmmyYEcWZRqq"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "duration_ms": 165388,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/6JGrKJtW3CxLscWj7OJMYt"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -839,8 +839,8 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "ROUND & ROUND",
-        "url": "https://open.spotify.com/album/0eKrFiYJK5RhlqELhsSxqi"
+        "name": "START UP A RUMOUR",
+        "url": "https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
         }
       ],
-      "duration_ms": 224841,
-      "name": "ROUND & ROUND",
-      "url": "https://open.spotify.com/track/3O70fX1mURzZI5lXd42JEq"
+      "duration_ms": 200207,
+      "name": "START UP A RUMOUR",
+      "url": "https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -891,6 +891,22 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
+        "name": "Last October",
+        "url": "https://open.spotify.com/album/6EqGtuFdenyq037JmYDZF4"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        }
+      ],
+      "duration_ms": 188452,
+      "name": "Last October",
+      "url": "https://open.spotify.com/track/2mQI9h4mI5MlHJGnF2WJSU"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
         "name": "What You Want (SG Lewis Remix)",
         "url": "https://open.spotify.com/album/1HKaZdOadRfquf0hGyDjBZ"
       },
@@ -915,24 +931,8 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "Last October",
-        "url": "https://open.spotify.com/album/6EqGtuFdenyq037JmYDZF4"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        }
-      ],
-      "duration_ms": 188452,
-      "name": "Last October",
-      "url": "https://open.spotify.com/track/2mQI9h4mI5MlHJGnF2WJSU"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
-        "name": "START UP A RUMOUR",
-        "url": "https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt"
+        "name": "ROUND & ROUND",
+        "url": "https://open.spotify.com/album/0eKrFiYJK5RhlqELhsSxqi"
       },
       "artists": [
         {
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
         }
       ],
-      "duration_ms": 200207,
-      "name": "START UP A RUMOUR",
-      "url": "https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge"
+      "duration_ms": 224841,
+      "name": "ROUND & ROUND",
+      "url": "https://open.spotify.com/track/3O70fX1mURzZI5lXd42JEq"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -1071,38 +1071,6 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "Prophecy At 1420 MHz",
-        "url": "https://open.spotify.com/album/3sq57EactOjc9RJqk6Yl1y"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 304499,
-      "name": "Prophecy At 1420 MHz",
-      "url": "https://open.spotify.com/track/4gYaI1S9Qug6B96E2HwxeN"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
-        "name": "Kelsier",
-        "url": "https://open.spotify.com/album/083Q8p1eQrtQgmsVYyOD7E"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        }
-      ],
-      "duration_ms": 232131,
-      "name": "Kelsier",
-      "url": "https://open.spotify.com/track/5W8vqZAZF41QpYXckXlrlz"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
         "name": "See It As A Sign",
         "url": "https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp"
       },
@@ -1123,6 +1091,22 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
+        "name": "Prophecy At 1420 MHz",
+        "url": "https://open.spotify.com/album/3sq57EactOjc9RJqk6Yl1y"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 304499,
+      "name": "Prophecy At 1420 MHz",
+      "url": "https://open.spotify.com/track/4gYaI1S9Qug6B96E2HwxeN"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
         "name": "Switch Up",
         "url": "https://open.spotify.com/album/3zjyEgzxDUFRaWdCTM5vZU"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 215375,
       "name": "Switch Up",
       "url": "https://open.spotify.com/track/1FHSvpvNWmJcpDcmsxrtbH"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
+        "name": "Kelsier",
+        "url": "https://open.spotify.com/album/083Q8p1eQrtQgmsVYyOD7E"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 232131,
+      "name": "Kelsier",
+      "url": "https://open.spotify.com/track/5W8vqZAZF41QpYXckXlrlz"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
+        "name": "Curses Broken",
+        "url": "https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY"
+      },
+      "artists": [
+        {
+          "name": "Gerry Read",
+          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
+        }
+      ],
+      "duration_ms": 277838,
+      "name": "Better Let It Go",
+      "url": "https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
         "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
         "url": "https://open.spotify.com/album/6GmOQW6pjdEarBwMvGLm5l"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 198666,
       "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
       "url": "https://open.spotify.com/track/0iYNsh3PU3BaRLtijklDM1"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
-        "name": "Curses Broken",
-        "url": "https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY"
-      },
-      "artists": [
-        {
-          "name": "Gerry Read",
-          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
-        }
-      ],
-      "duration_ms": 277838,
-      "name": "Better Let It Go",
-      "url": "https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "afters",
-        "url": "https://open.spotify.com/album/3A8zjiT2srTevPGcvrNf2j"
-      },
-      "artists": [
-        {
-          "name": "Sonnee",
-          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
-        },
-        {
-          "name": "Malaki",
-          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
-        }
-      ],
-      "duration_ms": 167979,
-      "name": "afters",
-      "url": "https://open.spotify.com/track/1V9QgIqKy6Z24EKGgTpfws"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 266129,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
+        "name": "Sort It Out",
+        "url": "https://open.spotify.com/album/0frOHCo8ZfNdzs59oztxzK"
+      },
+      "artists": [
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        },
+        {
+          "name": "Clouds",
+          "url": "https://open.spotify.com/artist/3f0kobRhjLIHJna3UsEqim"
+        }
+      ],
+      "duration_ms": 271415,
+      "name": "Sort It Out",
+      "url": "https://open.spotify.com/track/7GPLRckCBUZSq0nPkw539N"
     }
   ],
   "unique_name": "Indie Electronic ",

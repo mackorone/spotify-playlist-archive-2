@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO146luW.md) - [plain]
 
 > This is Koe Wetzel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,710 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,761 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO146luW.md) - [plain]
 | 20 | [Good Times \(Bonus Track\)](https://open.spotify.com/track/30877ufZfLUNYXR9mXo9bi) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj) | 3:31 |
 | 21 | [Circus](https://open.spotify.com/track/4NLqlM8fFk69g63HsuWS8q) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:37 |
 | 22 | [Creeps](https://open.spotify.com/track/4vlk5JUheqOSCZqgts338H) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 3:44 |
-| 23 | [Kuntry & Wistern](https://open.spotify.com/track/1deRJz00Ey3FMbBbH1qEvS) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 4:01 |
+| 23 | [Cold & Alone](https://open.spotify.com/track/3NWWLWoMA0Cy2T5oyEIqKt) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 3:18 |
 | 24 | [Damn Near Normal](https://open.spotify.com/track/5sX5XeSfMUZHzsUl2helzf) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:44 |
 | 25 | [The Man](https://open.spotify.com/track/4twv8UGL58aYGQqStfDp3B) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:59 |
 | 26 | [Oklahoma Sun](https://open.spotify.com/track/0j3wDCVzAyUEtNsbjKyJZs) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 3:36 |
-| 27 | [Cold & Alone](https://open.spotify.com/track/3NWWLWoMA0Cy2T5oyEIqKt) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 3:18 |
+| 27 | [Kuntry & Wistern](https://open.spotify.com/track/1deRJz00Ey3FMbBbH1qEvS) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 4:01 |
 | 28 | [Sober Sunday](https://open.spotify.com/track/6uzJmSCgxBMu9cIyYfFUKr) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Noise Complaint](https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT) | 4:42 |
 | 29 | [Surrounded](https://open.spotify.com/track/4EWMKfiqViuDfFFronSE2w) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:08 |
 | 30 | [Happier Alone](https://open.spotify.com/track/3cTPILvh238II28NyF5OEf) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Happier Alone](https://open.spotify.com/album/3AtxQNOTzdsCm9qUwJVX5j) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO146luW.md) - [plain]
 | 49 | [Lonesome Dove](https://open.spotify.com/track/6owKFz2r0DDseMD2Os26l9) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | ["These Are Going Nowhere": A Mixtape by Koe Wetzel](https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ) | 4:47 |
 | 50 | [Better Without You](https://open.spotify.com/track/12lagnH3LHPUHTXkQhAGph) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 2:21 |
 
-Snapshot ID: `anJ9AAAAAAC470Ta7SCBeaLK65D4csYG`
+Snapshot ID: `anPOgAAAAAClX6ONrvqftsYHBDhlkySW`

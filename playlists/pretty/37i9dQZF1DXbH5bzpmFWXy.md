@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Porque el barrio es el barrio y eso nadie nos lo va a cambiar..\. Lucky Brown y El Bogueto en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,541 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,531 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 37 | [Check Yo Self \- Remix](https://open.spotify.com/track/3NGT0Td7H4Is1qrlDQJxma) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Das EFX](https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG) | [Bootlegs And B\-Sides](https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo) | 4:33 |
 | 38 | [Giza](https://open.spotify.com/track/6KOnLTb1xLfKDAjMC43I76) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Giza](https://open.spotify.com/album/59NGQmOz4yxHkgbrVdFHhy) | 2:57 |
 | 39 | [Categoría 5](https://open.spotify.com/track/1PNxX2NzwGB2VZd1iamwGn) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Huracán](https://open.spotify.com/album/4sghK9VDgqilBsCkgV0wFg) | 2:45 |
-| 40 | [Un Pacto](https://open.spotify.com/track/1yxwBHV8dqJw4tCw6hlyMw) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Un Pacto](https://open.spotify.com/album/5U4L0ii38QNKx85bicBMCz) | 2:26 |
-| 41 | [Un Desperdicio](https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 3:43 |
+| 40 | [Un Desperdicio](https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 3:43 |
+| 41 | [Un Pacto](https://open.spotify.com/track/1yxwBHV8dqJw4tCw6hlyMw) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Un Pacto](https://open.spotify.com/album/5U4L0ii38QNKx85bicBMCz) | 2:26 |
 | 42 | [Malas Rachas \- En Vivo](https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Malas Rachas](https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG) | 4:20 |
 | 43 | [Kamikaze \(feat\. Victor Mendivil\)](https://open.spotify.com/track/6fKvGaO8Dfntvx4thaXtak) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Uriel Gaxiola](https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj), [Ganggy](https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Kamikaze \(feat\. Victor Mendivil\)](https://open.spotify.com/album/0qRymMmPlQL4Jji8iXAZVP) | 4:08 |
 | 44 | [151 Rum](https://open.spotify.com/track/22WV03i2lBbwNVCE1g671p) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [DiCaprio 2](https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY) | 2:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 99 | [Bad Company \(feat\. BlocBoy JB\)](https://open.spotify.com/track/3ZYwSDF9knZI0RVlKR4PHC) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Bad Company \(feat\. BlocBoy JB\)](https://open.spotify.com/album/2IB4u7CExI80gM2KbkDtDp) | 3:03 |
 | 100 | [Sold Out](https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Sold Out](https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi) | 3:18 |
 
-Snapshot ID: `AAAAAGrlzr0o8JKjnyac5+MXVlB0iSBU`
+Snapshot ID: `AAAAAPKwavx4zQ9Fr9M9A+QIYw5CThQa`

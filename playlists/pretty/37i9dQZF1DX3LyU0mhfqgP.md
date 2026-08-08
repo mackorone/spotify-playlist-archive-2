@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Søren Torpegaard Lund
+> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Bia Soull
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,068,922 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,068,855 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Welcome To My Party](https://open.spotify.com/track/6hNMYhGYl45aYvqLFGqIkV) | [Søren Torpegaard Lund](https://open.spotify.com/artist/3rsoXGq0iJcc5zK4RRKg1Z) | [Welcome To My Party](https://open.spotify.com/album/4cGz3exeViVHLl4FQBLwhN) | 2:53 |
-| 2 | [The Art Of Letting Go](https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [PEYOTE](https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl) | 3:07 |
-| 3 | [Careless](https://open.spotify.com/track/4JP5g7hhIZjvquzHfa3Ebz) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Careless](https://open.spotify.com/album/66bTdjG8C6q9KtB9GlD7Mz) | 2:25 |
-| 4 | [Song and dance man](https://open.spotify.com/track/1oflMqWYnceFzbIDdOM1fr) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Song and dance man + Let's go camping](https://open.spotify.com/album/0K3erRyIjMqza5oWHTv86c) | 2:17 |
-| 5 | [DNH](https://open.spotify.com/track/1PGde5PALlkGdlPizKNDLo) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [DNH](https://open.spotify.com/album/3tUeyucSQP4QdGyf02wKDN) | 2:27 |
-| 6 | [Vivian](https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [First Times](https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V) | 3:16 |
-| 7 | [Satisfied](https://open.spotify.com/track/4J40gFNhRlukzy1MgLjeNt) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj) | [The Nightlife](https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x) | 4:04 |
-| 8 | [Putinho piru rodado](https://open.spotify.com/track/2xWZoSILC4KIwaoX2Z1xGe) | [Bia Soull](https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [DJ CARLOZS](https://open.spotify.com/artist/1tdUkusb60eDS6p0fgXexU) | [Putinho piru rodado](https://open.spotify.com/album/0GVlkwFO5lmv6xLD7YpqTo) | 3:30 |
+| 1 | [Putinho piru rodado](https://open.spotify.com/track/2xWZoSILC4KIwaoX2Z1xGe) | [Bia Soull](https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [DJ CARLOZS](https://open.spotify.com/artist/1tdUkusb60eDS6p0fgXexU) | [Putinho piru rodado](https://open.spotify.com/album/0GVlkwFO5lmv6xLD7YpqTo) | 3:30 |
+| 2 | [Welcome To My Party](https://open.spotify.com/track/6hNMYhGYl45aYvqLFGqIkV) | [Søren Torpegaard Lund](https://open.spotify.com/artist/3rsoXGq0iJcc5zK4RRKg1Z) | [Welcome To My Party](https://open.spotify.com/album/4cGz3exeViVHLl4FQBLwhN) | 2:53 |
+| 3 | [The Art Of Letting Go](https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [PEYOTE](https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl) | 3:07 |
+| 4 | [Careless](https://open.spotify.com/track/4JP5g7hhIZjvquzHfa3Ebz) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Careless](https://open.spotify.com/album/66bTdjG8C6q9KtB9GlD7Mz) | 2:25 |
+| 5 | [Song and dance man](https://open.spotify.com/track/1oflMqWYnceFzbIDdOM1fr) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Song and dance man + Let's go camping](https://open.spotify.com/album/0K3erRyIjMqza5oWHTv86c) | 2:17 |
+| 6 | [DNH](https://open.spotify.com/track/1PGde5PALlkGdlPizKNDLo) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [DNH](https://open.spotify.com/album/3tUeyucSQP4QdGyf02wKDN) | 2:27 |
+| 7 | [Vivian](https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [First Times](https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V) | 3:16 |
+| 8 | [Satisfied](https://open.spotify.com/track/4J40gFNhRlukzy1MgLjeNt) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj) | [The Nightlife](https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x) | 4:04 |
 | 9 | [jAGUAR](https://open.spotify.com/track/7r1xF1bYg6BMs8u5V4sAeT) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [jAGUAR](https://open.spotify.com/album/0l9CUduPknG2IUpQuSozq7) | 3:43 |
 | 10 | [7AM \(เนรคุณ\)](https://open.spotify.com/track/3jEjupGqz8ONiK7bNPYNfA) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q), [BaebiBetti](https://open.spotify.com/artist/4oiwl2OEdv9bmQZSPD5RB9) | [7AM \(เนรคุณ\)](https://open.spotify.com/album/1xCLnfT8IlZ3krwJtjphlu) | 2:42 |
 | 11 | [Miliony monet](https://open.spotify.com/track/6sBGJxNbGz52xKnLj1uELI) | [Kuba Kamik](https://open.spotify.com/artist/4D2PCg640w5R8SGfAlO2ZR) | [Greatest Hits: Side A+B](https://open.spotify.com/album/4Ljb1dccvl4r71qM0JzCze) | 2:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Avant\-Garde](https://open.spotify.com/track/1HD47Yxz6wBBDDBzNt29mO) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [b0dy c0un1](https://open.spotify.com/album/6BoHLJKs4A259rPClVixzv) | 2:18 |
 | 50 | [Brutalist](https://open.spotify.com/track/3lE4ZuXxXKddwOZHsvTSsQ) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour](https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc) | 2:57 |
 
-Snapshot ID: `AAAAAPNv9ah8F2gDc7XjbhxubB4ZIkiG`
+Snapshot ID: `AAAAAIRTL7fo9HKc1jxl3aOEbSB6h19H`

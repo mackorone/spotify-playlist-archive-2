@@ -1,12 +1,12 @@
 {
   "description": "The best instrumental versions of the American songbook classics. Cover: Miles Davis",
-  "num_followers": 178703,
+  "num_followers": 178761,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHKzhdaHNwZTygApFG5AfDUqLScG",
+  "snapshot_id": "AAAAANshU3zXmu0dm1/Y+j5npQ8PdBAE",
   "tracks": [
     {
       "added_at": "2026-05-28 09:37:04",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Moanin' (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5PzlTnVafjgt5RtjTdIKoC"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
-        }
-      ],
-      "duration_ms": 345173,
-      "name": "Come Rain Or Come Shine",
-      "url": "https://open.spotify.com/track/4nrQ0ohqu5sXqMg2p4YzkE"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Stan Getz And The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 278253,
       "name": "I'm Glad There Is You",
       "url": "https://open.spotify.com/track/6NYInW0268sHuxPDhH8pRM"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Moanin' (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5PzlTnVafjgt5RtjTdIKoC"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        }
+      ],
+      "duration_ms": 345173,
+      "name": "Come Rain Or Come Shine",
+      "url": "https://open.spotify.com/track/4nrQ0ohqu5sXqMg2p4YzkE"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
+        "name": "Blue Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 477760,
+      "name": "I'm Old Fashioned - Remastered 2003/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5p95DUZplmVxY0XCQ3hxUV"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
         "name": "Undercurrent",
         "url": "https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 309666,
       "name": "Darn That Dream",
       "url": "https://open.spotify.com/track/1qTNMWo0Al8AfAX6aPGo6k"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
-        "name": "Blue Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 477760,
-      "name": "I'm Old Fashioned - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5p95DUZplmVxY0XCQ3hxUV"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Gettin' Together!",
-        "url": "https://open.spotify.com/album/2R7pL2UXf9wBMYg7b37XLB"
-      },
-      "artists": [
-        {
-          "name": "Paul Gonsalves",
-          "url": "https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4"
-        }
-      ],
-      "duration_ms": 245906,
-      "name": "I Cover The Waterfront",
-      "url": "https://open.spotify.com/track/1YNHdhvXBogdk54KI1yd2P"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "The Real... Toots Thielemans",
         "url": "https://open.spotify.com/album/45kY69KnMtysdft3o07LiZ"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 399000,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/6i5EWjhdORPYWGyYVHfhxE"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Gettin' Together!",
+        "url": "https://open.spotify.com/album/2R7pL2UXf9wBMYg7b37XLB"
+      },
+      "artists": [
+        {
+          "name": "Paul Gonsalves",
+          "url": "https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4"
+        }
+      ],
+      "duration_ms": 245906,
+      "name": "I Cover The Waterfront",
+      "url": "https://open.spotify.com/track/1YNHdhvXBogdk54KI1yd2P"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Plays Ballads",
-        "url": "https://open.spotify.com/album/2bI7k1iblL7PAIzHPA86Et"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 385219,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/4nbqUfqKObLWhuUT7PWV1N"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Coltrane Jazz",
         "url": "https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 288986,
       "name": "My Shining Hour",
       "url": "https://open.spotify.com/track/38DgLl4Cm6tU7wKyB6ZykE"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Plays Ballads",
+        "url": "https://open.spotify.com/album/2bI7k1iblL7PAIzHPA86Et"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 385219,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/4nbqUfqKObLWhuUT7PWV1N"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 322960,
-      "name": "I Guess I'll Hang My Tears Out To Dry",
-      "url": "https://open.spotify.com/track/57Qv0Ls4xEB3UblVSeCbUJ"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "The Cure",
         "url": "https://open.spotify.com/album/4TFAfEx0k896Far2wypeh9"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 496893,
       "name": "Blame It On My Youth",
       "url": "https://open.spotify.com/track/47ncHNZLs7ZHvDkCi9tvun"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 322960,
+      "name": "I Guess I'll Hang My Tears Out To Dry",
+      "url": "https://open.spotify.com/track/57Qv0Ls4xEB3UblVSeCbUJ"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Saga Jazz: European Delights 1933-1939",
-        "url": "https://open.spotify.com/album/1o7xxxWQil1BBZu3yYykrE"
+        "name": "Piano In The Background (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5HRYqb7mp810fhgWiUL0uo"
       },
       "artists": [
         {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
         }
       ],
-      "duration_ms": 167986,
-      "name": "Honeysuckle Rose",
-      "url": "https://open.spotify.com/track/6UvGBRRCCP7Ro3gbLIuDU6"
+      "duration_ms": 322333,
+      "name": "Lullaby of Birdland",
+      "url": "https://open.spotify.com/track/1SOdC5J2VbpVuvxOxmsVdX"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1287,34 +1287,18 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Piano In The Background (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5HRYqb7mp810fhgWiUL0uo"
+        "name": "Saga Jazz: European Delights 1933-1939",
+        "url": "https://open.spotify.com/album/1o7xxxWQil1BBZu3yYykrE"
       },
       "artists": [
         {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
         }
       ],
-      "duration_ms": 322333,
-      "name": "Lullaby of Birdland",
-      "url": "https://open.spotify.com/track/1SOdC5J2VbpVuvxOxmsVdX"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
-        "name": "Benny Golson And The Philadelphians",
-        "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 413826,
-      "name": "Afternoon In Paris",
-      "url": "https://open.spotify.com/track/2C3HvdJUwK6ItoWb0F5GgP"
+      "duration_ms": 167986,
+      "name": "Honeysuckle Rose",
+      "url": "https://open.spotify.com/track/6UvGBRRCCP7Ro3gbLIuDU6"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1331,6 +1315,22 @@
       "duration_ms": 424933,
       "name": "Don't Blame Me (Retake 1)",
       "url": "https://open.spotify.com/track/6E1mWJa8tjLvPOn47CTVeb"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Benny Golson And The Philadelphians",
+        "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 413826,
+      "name": "Afternoon In Paris",
+      "url": "https://open.spotify.com/track/2C3HvdJUwK6ItoWb0F5GgP"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Our Man In Jazz",
-        "url": "https://open.spotify.com/album/0RlZm6d9pRFza05C7pY28T"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "I Could Write a Book - Remastered 1999",
-      "url": "https://open.spotify.com/track/2DipFLAFM3N2rJClqb2fhf"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 447760,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/1bzWQAERd8mtwpxH8R4vjB"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Our Man In Jazz",
+        "url": "https://open.spotify.com/album/0RlZm6d9pRFza05C7pY28T"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "I Could Write a Book - Remastered 1999",
+      "url": "https://open.spotify.com/track/2DipFLAFM3N2rJClqb2fhf"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "New Faces - New Sounds, Wynton Kelly Piano Interpretations",
-        "url": "https://open.spotify.com/album/2lB4nYpIXctWDzAT5RRrVu"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 191146,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/1uqApAOabz4EsmiTIHBD00"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Young Chet",
         "url": "https://open.spotify.com/album/2DYP3Cpj7U88CgUqdZubky"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 155693,
       "name": "Time After Time - Instrumental",
       "url": "https://open.spotify.com/track/0AtkWTAdzyuXO5AFdMd2nH"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "New Faces - New Sounds, Wynton Kelly Piano Interpretations",
+        "url": "https://open.spotify.com/album/2lB4nYpIXctWDzAT5RRrVu"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 191146,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/1uqApAOabz4EsmiTIHBD00"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "See You At The Fair",
-        "url": "https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 266360,
-      "name": "In A Mellow Tone",
-      "url": "https://open.spotify.com/track/7ne7SWFZnES4KE2vwBc367"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Standards",
         "url": "https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 259000,
       "name": "Can't We Be Friends",
       "url": "https://open.spotify.com/track/48ouTE8wi3LU4ZTQjJjstB"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "See You At The Fair",
+        "url": "https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 266360,
+      "name": "In A Mellow Tone",
+      "url": "https://open.spotify.com/track/7ne7SWFZnES4KE2vwBc367"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Soulville",
-        "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
-      },
-      "artists": [
-        {
-          "name": "The Ben Webster Quintet",
-          "url": "https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU"
-        }
-      ],
-      "duration_ms": 508933,
-      "name": "Lover Come Back To Me",
-      "url": "https://open.spotify.com/track/4loyHz5lJBVKcZIMJ4jmzZ"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "The Jazz Messengers",
         "url": "https://open.spotify.com/album/3pz0v3v5f96GUBfwZ6pbrX"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 333493,
       "name": "It's You or No One",
       "url": "https://open.spotify.com/track/5XVsNByeqX0YN2VBpw0dVW"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Soulville",
+        "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
+      },
+      "artists": [
+        {
+          "name": "The Ben Webster Quintet",
+          "url": "https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU"
+        }
+      ],
+      "duration_ms": 508933,
+      "name": "Lover Come Back To Me",
+      "url": "https://open.spotify.com/track/4loyHz5lJBVKcZIMJ4jmzZ"
     },
     {
       "added_at": "2026-05-28 09:37:04",

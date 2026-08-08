@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : DC",
-  "num_followers": 757693,
+  "num_followers": 757865,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHXms1LCbgeLAyk3fYrvGkEqF8jz",
+  "snapshot_id": "AAAAAJxEKAX4ZkR3sC3wn3MUCaPVXBPY",
   "tracks": [
     {
       "added_at": "2026-08-03 04:59:13",
@@ -65,6 +65,26 @@
       "url": "https://open.spotify.com/track/71IDXVZlzz3dBCewIUmqfI"
     },
     {
+      "added_at": "2026-07-06 15:28:08",
+      "album": {
+        "name": "Hangova (From \"DC\")",
+        "url": "https://open.spotify.com/album/5UJZXoC2VS7yzRE5c4R6Vz"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Heisenberg",
+          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
+        }
+      ],
+      "duration_ms": 247816,
+      "name": "Hangova (From \"DC\")",
+      "url": "https://open.spotify.com/track/2MvEcJxJAxCr31kA5wHwve"
+    },
+    {
       "added_at": "2026-07-03 11:16:04",
       "album": {
         "name": "One Name (From \"Jailer 2\")",
@@ -85,24 +105,20 @@
       "url": "https://open.spotify.com/track/4NMe76giWnRILo6nTfvPeP"
     },
     {
-      "added_at": "2026-07-06 15:28:08",
+      "added_at": "2026-08-07 10:36:26",
       "album": {
-        "name": "Hangova (From \"DC\")",
-        "url": "https://open.spotify.com/album/5UJZXoC2VS7yzRE5c4R6Vz"
+        "name": "Karuppu - Side B (God Mode Begins) [Original Score]",
+        "url": "https://open.spotify.com/album/31X5UjAhTDsTJW141eYLhd"
       },
       "artists": [
         {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Heisenberg",
-          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
         }
       ],
-      "duration_ms": 247816,
-      "name": "Hangova (From \"DC\")",
-      "url": "https://open.spotify.com/track/2MvEcJxJAxCr31kA5wHwve"
+      "duration_ms": 157013,
+      "name": "Vetta Karuppu Game Begins",
+      "url": "https://open.spotify.com/track/1lGh7Np4yXwHlqYKYgWfEV"
     },
     {
       "added_at": "2026-07-25 11:48:30",
@@ -197,6 +213,22 @@
       "url": "https://open.spotify.com/track/2ay9nEL0Fkw1ZxZZVTvxju"
     },
     {
+      "added_at": "2026-08-07 10:36:26",
+      "album": {
+        "name": "Karuppu - Side B (God Mode Begins) [Original Score]",
+        "url": "https://open.spotify.com/album/31X5UjAhTDsTJW141eYLhd"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        }
+      ],
+      "duration_ms": 135979,
+      "name": "Verappa - Punjabi Version",
+      "url": "https://open.spotify.com/track/4geav6a4RLB9kL8bJw3eQx"
+    },
+    {
       "added_at": "2026-08-04 05:12:31",
       "album": {
         "name": "Ekavali (From \"Renigunta 2\")",
@@ -253,6 +285,42 @@
       "url": "https://open.spotify.com/track/1cTduCpvpyg6XdDS9MwOUT"
     },
     {
+      "added_at": "2026-08-07 10:25:57",
+      "album": {
+        "name": "YaaLi Theme (From \"Sardar 2\")",
+        "url": "https://open.spotify.com/album/0UU7vjNg5fxmaEZHznn5sO"
+      },
+      "artists": [
+        {
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        },
+        {
+          "name": "The Imbachi",
+          "url": "https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz"
+        },
+        {
+          "name": "Zeba Tommy",
+          "url": "https://open.spotify.com/artist/1JN77nFJbx0r5wAkzs6A7u"
+        },
+        {
+          "name": "Lavita Lobo",
+          "url": "https://open.spotify.com/artist/2RBQVSVinw1X1iRQQ4iqJv"
+        },
+        {
+          "name": "Nambi G",
+          "url": "https://open.spotify.com/artist/1KkMSOxVmEzw9G0sJNw760"
+        }
+      ],
+      "duration_ms": 117787,
+      "name": "YaaLi Theme (From \"Sardar 2\")",
+      "url": "https://open.spotify.com/track/6RbKtfKNw0Ee95GlXNEHyh"
+    },
+    {
       "added_at": "2026-07-19 03:08:15",
       "album": {
         "name": "Bum Baa Diga Diga (From \"DC\")",
@@ -277,6 +345,42 @@
       "url": "https://open.spotify.com/track/11RCy54poO2EO6FWxQ4do2"
     },
     {
+      "added_at": "2026-08-07 10:36:26",
+      "album": {
+        "name": "Karuppu - Side B (God Mode Begins) [Original Score]",
+        "url": "https://open.spotify.com/album/31X5UjAhTDsTJW141eYLhd"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        }
+      ],
+      "duration_ms": 91477,
+      "name": "Verappa (Urumum Venga) - Female Version",
+      "url": "https://open.spotify.com/track/1zxVN7NrIR3adKyZQAKLB6"
+    },
+    {
+      "added_at": "2026-08-07 06:02:36",
+      "album": {
+        "name": "Pesamale",
+        "url": "https://open.spotify.com/album/0ZgVl0ncJxwGTys1izl3iQ"
+      },
+      "artists": [
+        {
+          "name": "Siri Xander",
+          "url": "https://open.spotify.com/artist/1YN9DIwQxOUnAzfgOWWiNR"
+        },
+        {
+          "name": "Arra Aria Khayal",
+          "url": "https://open.spotify.com/artist/3ktOCDucYtvRTm3UZosG93"
+        }
+      ],
+      "duration_ms": 178124,
+      "name": "Pesamale",
+      "url": "https://open.spotify.com/track/2lo95sXI2RkrXLOYTXpZwe"
+    },
+    {
       "added_at": "2026-08-04 05:35:21",
       "album": {
         "name": "Vaama Vaama (Airport Version) [From \"Idhayam Murali\"]",
@@ -299,6 +403,42 @@
       "duration_ms": 175172,
       "name": "Vaama Vaama (Airport Version) - From \"Idhayam Murali\"",
       "url": "https://open.spotify.com/track/2WB5hsoW6J1o64jAFm5cZ7"
+    },
+    {
+      "added_at": "2026-08-07 10:45:48",
+      "album": {
+        "name": "Mannaru",
+        "url": "https://open.spotify.com/album/3kPnLtcEmAjdr7R2I8q0ux"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Gana Muthu",
+          "url": "https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx"
+        }
+      ],
+      "duration_ms": 201870,
+      "name": "Mannaru",
+      "url": "https://open.spotify.com/track/4GYh1m6QO6ZG1XHxne1H84"
+    },
+    {
+      "added_at": "2026-08-07 10:36:26",
+      "album": {
+        "name": "Karuppu - Side B (God Mode Begins) [Original Score]",
+        "url": "https://open.spotify.com/album/31X5UjAhTDsTJW141eYLhd"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        }
+      ],
+      "duration_ms": 94208,
+      "name": "Karuppane Vaarumayya",
+      "url": "https://open.spotify.com/track/40z4C1EQcBw4XeotvcaKRU"
     },
     {
       "added_at": "2026-06-19 13:18:18",
@@ -343,6 +483,26 @@
       "duration_ms": 132712,
       "name": "Aane Wala Star",
       "url": "https://open.spotify.com/track/34520Ev0rl6reqiIKSr2eK"
+    },
+    {
+      "added_at": "2026-08-07 10:36:26",
+      "album": {
+        "name": "Karuppu - Side B (God Mode Begins) [Original Score]",
+        "url": "https://open.spotify.com/album/31X5UjAhTDsTJW141eYLhd"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Paal Dabba",
+          "url": "https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx"
+        }
+      ],
+      "duration_ms": 65142,
+      "name": "Metro Fight",
+      "url": "https://open.spotify.com/track/5l9C2Rt01OLMP3ZWxiO8t8"
     },
     {
       "added_at": "2026-08-06 10:19:38",
@@ -391,6 +551,22 @@
       "duration_ms": 156241,
       "name": "Brand New Day (From \"Spider-Man: Brand New Day\")",
       "url": "https://open.spotify.com/track/4RiIy3pyaG1I40iW6GDLh4"
+    },
+    {
+      "added_at": "2026-08-07 10:36:26",
+      "album": {
+        "name": "Karuppu - Side B (God Mode Begins) [Original Score]",
+        "url": "https://open.spotify.com/album/31X5UjAhTDsTJW141eYLhd"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "Verappa Thandavam Interval",
+      "url": "https://open.spotify.com/track/5dVtEgHy96yttk2LHnJ8k5"
     },
     {
       "added_at": "2026-08-06 10:19:38",
@@ -491,6 +667,22 @@
       "duration_ms": 121384,
       "name": "Kaathaaga Vaazhaporom (From \"MAGUDAM\")",
       "url": "https://open.spotify.com/track/23MTltf8rHrixsQNoVOsfY"
+    },
+    {
+      "added_at": "2026-08-07 10:36:26",
+      "album": {
+        "name": "Karuppu - Side B (God Mode Begins) [Original Score]",
+        "url": "https://open.spotify.com/album/31X5UjAhTDsTJW141eYLhd"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        }
+      ],
+      "duration_ms": 24576,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/2tHejWZl3OYUvwESrEGTo7"
     },
     {
       "added_at": "2026-08-04 10:20:55",
@@ -1109,30 +1301,6 @@
       "url": "https://open.spotify.com/track/1VBU0noPwobratGISChpsw"
     },
     {
-      "added_at": "2026-05-25 17:40:24",
-      "album": {
-        "name": "Karuppu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1vGPhssD6pgClSK6Yui0jo"
-      },
-      "artists": [
-        {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
-        },
-        {
-          "name": "Gana Muthu",
-          "url": "https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx"
-        },
-        {
-          "name": "Vishnu Edavan",
-          "url": "https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T"
-        }
-      ],
-      "duration_ms": 240264,
-      "name": "God Mode",
-      "url": "https://open.spotify.com/track/5IA1BVN8OKwpCxkgeOR8YM"
-    },
-    {
       "added_at": "2026-08-04 06:41:36",
       "album": {
         "name": "Oh Sukumari (Tamil)",
@@ -1159,34 +1327,6 @@
       "duration_ms": 230000,
       "name": "Nee Piriyaathe",
       "url": "https://open.spotify.com/track/0DWis3Ky77klGyVyp573Ji"
-    },
-    {
-      "added_at": "2026-07-21 08:52:24",
-      "album": {
-        "name": "Thadumaarudhe (From \"Toxic - Tamil\")",
-        "url": "https://open.spotify.com/album/3CZq7Y0Y2XMqV4zA7Mu3K9"
-      },
-      "artists": [
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Faheem Abdullah",
-          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
-        },
-        {
-          "name": "Arslan Nizami",
-          "url": "https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203"
-        },
-        {
-          "name": "Siddharth Basrur",
-          "url": "https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl"
-        }
-      ],
-      "duration_ms": 245541,
-      "name": "Thadumaarudhe - From \"Toxic - Tamil\"",
-      "url": "https://open.spotify.com/track/2e523H0L1hNuwt3djkY6cH"
     },
     {
       "added_at": "2026-07-23 07:03:12",
@@ -1405,30 +1545,6 @@
       "url": "https://open.spotify.com/track/5RW9jO56ZESGkS7fhYzItm"
     },
     {
-      "added_at": "2026-05-25 17:40:24",
-      "album": {
-        "name": "Karuppu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1vGPhssD6pgClSK6Yui0jo"
-      },
-      "artists": [
-        {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
-        },
-        {
-          "name": "V.M. Mahalingam",
-          "url": "https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u"
-        },
-        {
-          "name": "Pa. Vijay",
-          "url": "https://open.spotify.com/artist/1dg4azP3LshEhi3moXgJQv"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Karuppa Kooda Va",
-      "url": "https://open.spotify.com/track/0otC5nlgJZ27Q38AA8z6zj"
-    },
-    {
       "added_at": "2026-07-10 15:25:34",
       "album": {
         "name": "Idhayam Murali (Original Motion Picture Soundtrack)",
@@ -1573,26 +1689,6 @@
       "url": "https://open.spotify.com/track/6MV40tdFfOV4aE2utVB6Qk"
     },
     {
-      "added_at": "2026-06-10 11:33:15",
-      "album": {
-        "name": "Parimala and Co (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6Vbm40V6D1xPit0KDzRzp9"
-      },
-      "artists": [
-        {
-          "name": "foxn",
-          "url": "https://open.spotify.com/artist/2dbBX8wPRhL660FxN7MIDv"
-        },
-        {
-          "name": "LRC",
-          "url": "https://open.spotify.com/artist/6boEBmjWJPo38PIgIiVmfo"
-        }
-      ],
-      "duration_ms": 168428,
-      "name": "Watcha Udadha",
-      "url": "https://open.spotify.com/track/6zoMXYC40gVmMXQJfJFeCg"
-    },
-    {
       "added_at": "2026-06-24 12:09:40",
       "album": {
         "name": "Rise of Linga (From \"MAGUDAM\")",
@@ -1645,26 +1741,6 @@
       "url": "https://open.spotify.com/track/3PT2NyJLwJhLS0Y9VO8xgW"
     },
     {
-      "added_at": "2026-07-03 06:26:19",
-      "album": {
-        "name": "Allipoove (From \"Arulvaan\")",
-        "url": "https://open.spotify.com/album/7co5FQWWMr98307nwfDB0w"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Yugabharathi",
-          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
-        }
-      ],
-      "duration_ms": 239294,
-      "name": "Allipoove (From \"Arulvaan\")",
-      "url": "https://open.spotify.com/track/0c1wb2AcT9Fgm4suQWDNtn"
-    },
-    {
       "added_at": "2026-06-29 09:27:39",
       "album": {
         "name": "Nachindhi Machane (From \"MAGUDAM\")",
@@ -1715,30 +1791,6 @@
       "duration_ms": 226197,
       "name": "Fraud Payale",
       "url": "https://open.spotify.com/track/5KGx0VTq1lkF4zVqsS5Nh1"
-    },
-    {
-      "added_at": "2026-05-25 17:40:24",
-      "album": {
-        "name": "Karuppu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1vGPhssD6pgClSK6Yui0jo"
-      },
-      "artists": [
-        {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
-        },
-        {
-          "name": "Arivu",
-          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
-        },
-        {
-          "name": "Arun Srinivasan",
-          "url": "https://open.spotify.com/artist/6zk7r7UylV6GHjWmhCDw9K"
-        }
-      ],
-      "duration_ms": 260660,
-      "name": "Verappa - Extended",
-      "url": "https://open.spotify.com/track/3FDZKPorPuhOZYw9WileCl"
     },
     {
       "added_at": "2026-06-30 11:37:56",
@@ -1861,30 +1913,6 @@
       "url": "https://open.spotify.com/track/75Evj1BuXZ1wFrvqyYjzap"
     },
     {
-      "added_at": "2026-07-06 12:14:02",
-      "album": {
-        "name": "Katta Karupula (From \"Kanganam\")",
-        "url": "https://open.spotify.com/album/5xeAYJ1y36BgGh944vqpmK"
-      },
-      "artists": [
-        {
-          "name": "Selvaa",
-          "url": "https://open.spotify.com/artist/0uE9MX3t3mztolZf6MxW4c"
-        },
-        {
-          "name": "Yugabharathi",
-          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
-        },
-        {
-          "name": "Srinisha Jayaseelan",
-          "url": "https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a"
-        }
-      ],
-      "duration_ms": 297024,
-      "name": "Katta Karupula (From \"Kanganam\")",
-      "url": "https://open.spotify.com/track/5aTA0aReVtJnc2g4D5rQgv"
-    },
-    {
       "added_at": "2026-06-29 09:27:39",
       "album": {
         "name": "Gatta Kusthi 2 (Original Motion Picture Soundtrack)",
@@ -1955,82 +1983,6 @@
       "duration_ms": 216000,
       "name": "Love - U Love - U Kaatteri - From \"Immortal\"",
       "url": "https://open.spotify.com/track/64t2s5KpGBjyTR2rXdvIl0"
-    },
-    {
-      "added_at": "2026-05-25 17:40:24",
-      "album": {
-        "name": "Karuppu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1vGPhssD6pgClSK6Yui0jo"
-      },
-      "artists": [
-        {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
-        },
-        {
-          "name": "Silambarasan TR",
-          "url": "https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS"
-        },
-        {
-          "name": "Asal Kolaar",
-          "url": "https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc"
-        },
-        {
-          "name": "Arun Srinivasan",
-          "url": "https://open.spotify.com/artist/6zk7r7UylV6GHjWmhCDw9K"
-        }
-      ],
-      "duration_ms": 197086,
-      "name": "Naanga Naalu Peru",
-      "url": "https://open.spotify.com/track/2Q4O7NWY1EmqbHOMLuVbDd"
-    },
-    {
-      "added_at": "2026-06-14 05:45:09",
-      "album": {
-        "name": "IOIO",
-        "url": "https://open.spotify.com/album/1tkadsy7lB3zNA5xkWbM30"
-      },
-      "artists": [
-        {
-          "name": "Harsha Vardhan",
-          "url": "https://open.spotify.com/artist/5HBsR2S0am7usrUZ5GVos1"
-        },
-        {
-          "name": "Vishnu Edavan",
-          "url": "https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T"
-        }
-      ],
-      "duration_ms": 169117,
-      "name": "IOIO",
-      "url": "https://open.spotify.com/track/0ye9i27scMk0GBlbGJEVjJ"
-    },
-    {
-      "added_at": "2026-05-25 17:40:24",
-      "album": {
-        "name": "Karuppu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1vGPhssD6pgClSK6Yui0jo"
-      },
-      "artists": [
-        {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
-        },
-        {
-          "name": "V.M. Mahalingam",
-          "url": "https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u"
-        },
-        {
-          "name": "Paal Dabba",
-          "url": "https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx"
-        },
-        {
-          "name": "Vivek",
-          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
-        }
-      ],
-      "duration_ms": 195419,
-      "name": "Raathu Raasan",
-      "url": "https://open.spotify.com/track/3x5kHjT5YrxaiC9wOm6nxU"
     },
     {
       "added_at": "2026-06-15 12:05:14",

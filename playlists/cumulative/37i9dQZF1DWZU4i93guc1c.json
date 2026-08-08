@@ -1767,24 +1767,6 @@
     },
     {
       "album": {
-        "name": "\u0412\u0443\u043b\u0438\u0446\u0456",
-        "url": "https://open.spotify.com/album/2mteJd53cKAOm2ZiKTxwIr"
-      },
-      "artists": [
-        {
-          "name": "D016",
-          "url": "https://open.spotify.com/artist/4MPDfqNMUkYAG0APA0R9gV"
-        }
-      ],
-      "date_added": "2026-08-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/7m3YpXDVFI0Zo0yAOg09D8"
-    },
-    {
-      "album": {
         "name": "trust me boy",
         "url": "https://open.spotify.com/album/4eP05BRKa5VDgoLdamXvKS"
       },
@@ -10598,7 +10580,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 238288,
       "name": "\u041f\u043e\u0432\u0435\u0440\u0442\u0430\u0442\u0438\u0441\u044c",
       "url": "https://open.spotify.com/track/0dArIpepE9oNWD5AaYEwbu"
@@ -11152,6 +11134,24 @@
       "duration_ms": 85781,
       "name": "\u041f\u0440\u043e\u0441\u0442\u043e\u0442\u0430\u043a",
       "url": "https://open.spotify.com/track/0A9HYuDGMInNrbM7iIZ1KD"
+    },
+    {
+      "album": {
+        "name": "\u0412\u0443\u043b\u0438\u0446\u0456",
+        "url": "https://open.spotify.com/album/2mteJd53cKAOm2ZiKTxwIr"
+      },
+      "artists": [
+        {
+          "name": "D016",
+          "url": "https://open.spotify.com/artist/4MPDfqNMUkYAG0APA0R9gV"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187312,
+      "name": "\u041f\u0442\u0430\u0448\u043a\u0430",
+      "url": "https://open.spotify.com/track/7m3YpXDVFI0Zo0yAOg09D8"
     },
     {
       "album": {
@@ -12510,7 +12510,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 284000,
       "name": "\u0421\u043f\u043e\u0432\u0456\u0434\u044c \u0443 \u043a\u0456\u043c\u043d\u0430\u0442\u0456 \u0434\u0435 \u043d\u0456\u043a\u043e\u0433\u043e \u043d\u0435\u043c\u0430",
       "url": "https://open.spotify.com/track/4KMcorAzZy8tIvs6zm7mkE"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p3m2k.md) - [plain]
 
 > This is Juliana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,978 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,983 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,14 +35,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p3m2k.md) - [plain]
 | 25 | [Paciente](https://open.spotify.com/track/2x6RrcueNTLQuloTnR1ULz) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 3:07 |
 | 26 | [Cometa Feat\. Daniela Calle \- En Vivo](https://open.spotify.com/track/5mqYQFMbHe9NX1P8hWNZNl) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Daniela Calle](https://open.spotify.com/artist/7KpsVPUvyYUhwQaUCVNYZX) | [Cometa Feat\. Daniela Calle \(En Vivo\)](https://open.spotify.com/album/0hR2l1PUKrem5AbwJc9EJY) | 2:38 |
 | 27 | [Cara de Idiota](https://open.spotify.com/track/4dKJDvoZ70XB4BIHMoGnAU) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [La Pista](https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil) | 3:11 |
-| 28 | [Mariposa](https://open.spotify.com/track/6AjUPlLbv6uZvlNccKMKhN) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Instrucciones Para Ser Feliz](https://open.spotify.com/album/3ZtTmeeKnDUWqlQRMmjUtV) | 2:29 |
+| 28 | [Ausencia](https://open.spotify.com/track/4in1mmGO097Q3IYNaTZApa) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Siempre Fui Yo 2 \(Banda Sonora Original\)](https://open.spotify.com/album/4KAbxF4x33ZrI1PnRTZ6Lw) | 2:59 |
 | 29 | [Desde La Orilla](https://open.spotify.com/track/6JADr8YFprsEK8qczdQ01k) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 3:58 |
-| 30 | [Ausencia](https://open.spotify.com/track/4in1mmGO097Q3IYNaTZApa) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Siempre Fui Yo 2 \(Banda Sonora Original\)](https://open.spotify.com/album/4KAbxF4x33ZrI1PnRTZ6Lw) | 2:59 |
-| 31 | [Corazón en Crisis](https://open.spotify.com/track/6V9ks2XCBDKtDBBEGLbA5I) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:28 |
+| 30 | [Mariposa](https://open.spotify.com/track/6AjUPlLbv6uZvlNccKMKhN) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Instrucciones Para Ser Feliz](https://open.spotify.com/album/3ZtTmeeKnDUWqlQRMmjUtV) | 2:29 |
+| 31 | [Cometa](https://open.spotify.com/track/2h8TbHimi3flhCt1v6536W) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 2:27 |
 | 32 | [Presiento](https://open.spotify.com/track/6xc4zqAPPvOr0zRaUo5tip) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Juliana](https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x) | 2:55 |
 | 33 | [YA NO SIENTO FRÍO](https://open.spotify.com/track/5pWKM3ZxK7T14uSyuxVrH5) | [Natalia Natalia](https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [A Mala Hora](https://open.spotify.com/album/34TloCPADxqF8R3otAHRA6) | 3:19 |
 | 34 | [Narices Frías](https://open.spotify.com/track/5SqOzL7GvRCJWTBmY7Kvvz) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Narices Frías](https://open.spotify.com/album/6y3zWGWXhoSPtMWC7b3C7Q) | 5:03 |
-| 35 | [Cometa](https://open.spotify.com/track/2h8TbHimi3flhCt1v6536W) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 2:27 |
+| 35 | [Corazón en Crisis](https://open.spotify.com/track/6V9ks2XCBDKtDBBEGLbA5I) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:28 |
 | 36 | [Si Dios Perdona](https://open.spotify.com/track/1RtvzGGRmDnATLCd3HrTFT) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Si Dios Perdona](https://open.spotify.com/album/70fClqkoidHfZivofJHZmc) | 3:00 |
 | 37 | [La Terminal](https://open.spotify.com/track/5ozNzOJeYpzIZaQc9C6jr3) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Terminal](https://open.spotify.com/album/1SrCPTPht9ws7CP1GVCt7o) | 2:58 |
 | 38 | [Burbujas de Amor \- \(Sesión en vivo\)](https://open.spotify.com/track/2kipawZSvwFIVD0y6tT2LG) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Con las Que Crecí \(Sesión en Vivo\)](https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p3m2k.md) - [plain]
 | 49 | [La Primera Vez](https://open.spotify.com/track/1nKESoKeZvAAOqlEXBG1if) | [Opa!](https://open.spotify.com/artist/5RkExucftRinoiN1HV0uDZ), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez](https://open.spotify.com/album/0TLFTxAK3nJUwN5cvUcSZS) | 5:05 |
 | 50 | [Corazón Partío \- \(Sesión en vivo\)](https://open.spotify.com/track/1CADK7STloqa9WjCGbRU73) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Con las Que Crecí \(Sesión en Vivo\)](https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr) | 3:54 |
 
-Snapshot ID: `anJ9AAAAAABflC0/KD+xfmMrYigruDPi`
+Snapshot ID: `anPOgAAAAADVtASjbai0Fj5QkFxqP5pS`

@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-354 songs - 18 hr 50 min
+357 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Nocturnes op.3](https://open.spotify.com/track/589UW75kHbBNDPERjvGUDo) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Nocturnes op.3](https://open.spotify.com/album/1eFpKpEOeJK8fR1gtd6HaE) | 2:34 | 2022-01-21 |  |
 | [nostalgia](https://open.spotify.com/track/22YHMfh0wfdnA8yum2Z3fV) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [nostalgia](https://open.spotify.com/album/2j2NwlIlBlZVID0DtzUmA4) | 3:11 | 2022-07-22 | 2024-04-19 |
 | [nostalgia](https://open.spotify.com/track/2Mu8WX2LlDIGl8Ea2C6lF8) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [nostalgia](https://open.spotify.com/album/0OyO7mdSxWDcK1nLg9jkwY) | 3:11 | 2021-12-10 | 2026-06-20 |
+| [Notturno per Noto](https://open.spotify.com/track/5i0IeTriPB0PUtYn0xkXDA) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Colors \(Deluxe\)](https://open.spotify.com/album/43fRAd4ll6yo8qDKBg2d6U) | 2:53 | 2026-08-07 |  |
 | [Nowhere Again, Kinder](https://open.spotify.com/track/5iYgYc1DbDuP918lEJirXg) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [Cozy Winter](https://open.spotify.com/album/7cTitLE9bGWbvhczWrNgF7) | 3:01 | 2025-12-01 |  |
 | [Nuvole](https://open.spotify.com/track/7bxhomQAoW2NrwYzZtizGu) | [Fabio di Biase](https://open.spotify.com/artist/3ySI3lfDI3FG6om6IH3SCy) | [Nuvole](https://open.spotify.com/album/2ZDoqQeAsYADGiH3B7YYJa) | 4:38 | 2021-12-10 | 2026-06-20 |
 | [Oak Savanna](https://open.spotify.com/track/7CkCz3faTetu3yHtoMgl0D) | [Jef Martens](https://open.spotify.com/artist/2TdPVIB0o6UlXQMNhXzy4O), [Bea Boethius](https://open.spotify.com/artist/63QcI4ykgbf0wor4YYOQz5) | [Oak Savanna](https://open.spotify.com/album/483Q9I5hJzlwgQCujQLBBL) | 2:14 | 2025-02-28 |  |
@@ -265,6 +266,7 @@
 | [Rippling](https://open.spotify.com/track/2kOegJWplR7ggacXa4ku0q) | [AAESPO](https://open.spotify.com/artist/6zhjVmPJZu9cmiv82lQv5D) | [In Good Company](https://open.spotify.com/album/1zMuMFYoUKJttNxof156wG) | 1:27 | 2026-05-22 |  |
 | [Rise](https://open.spotify.com/track/0P9iHoMjt1UlJfdcijOBHZ) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Rise](https://open.spotify.com/album/3e00tFNHFroqXpk2PbBitE) | 3:10 | 2021-12-10 | 2026-06-20 |
 | [Rolling Like A Ball](https://open.spotify.com/track/2TlV8LZW3ED4RjGc0crBLN) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Rolling Like A Ball](https://open.spotify.com/album/3CVBACggrB4U3sSOLjgGjs) | 4:17 | 2022-01-12 |  |
+| [room enough \- solo piano](https://open.spotify.com/track/6cnk6JzRl70Mmo2NUzERFI) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [room enough](https://open.spotify.com/album/2fMH2sy4zccBBLhNJwcDiB) | 5:04 | 2026-08-07 |  |
 | [Rose Bay](https://open.spotify.com/track/3fXvaNpYYG1S1pla7P71oF) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Rose Bay](https://open.spotify.com/album/6EgPZYM69ojeuJdZaHPOJQ) | 4:19 | 2024-10-11 |  |
 | [Routine](https://open.spotify.com/track/0BybH9TQsi3JMXJ05f9BpN) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Routine](https://open.spotify.com/album/4GjpsETy7n9MrfLC4tCd3w) | 2:24 | 2025-12-01 |  |
 | [Row Softer Home \- Edit](https://open.spotify.com/track/1UzrsxnRWRVuyoBQL7cvE1) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [Row Softer Home](https://open.spotify.com/album/58oRGjLlobNKtZPiIeY9Uy) | 3:47 | 2025-12-01 |  |
@@ -315,6 +317,7 @@
 | [The Ladder](https://open.spotify.com/track/716sCAdtSmAWBbVhkH0d0c) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [The Ladder](https://open.spotify.com/album/55CSDwvSWb6QIJBtI33kQZ) | 2:32 | 2025-12-01 |  |
 | [The Light Within](https://open.spotify.com/track/3bdcZhuUHinvFeNViIWXKT) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [Where We Are \(Unity Edition\)](https://open.spotify.com/album/4ritLJ4dx1ORPyARuasLjB) | 2:14 | 2026-04-02 |  |
 | [The place above](https://open.spotify.com/track/10QYaJcj67S7dx58PTZP9m) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [The place above](https://open.spotify.com/album/5fFQibrpwLuU803Wp4QnoC) | 2:03 | 2025-03-26 |  |
+| [The Quiet House \- Piano Rework](https://open.spotify.com/track/1rrzMSUxuGLlPNMcyVQqt1) | [Kenzo Zurzolo](https://open.spotify.com/artist/4THQbmb1Ej0IPRFokJ76Yv) | [The Quiet House \(Piano Rework\)](https://open.spotify.com/album/5TlXQLzhWuxz085XbTZEgf) | 2:23 | 2026-08-07 |  |
 | [The Quiet Life](https://open.spotify.com/track/1lSligyyKpoV9zhmxXl2Pg) | [Housman](https://open.spotify.com/artist/6ZtaiZjSFgNoixlvp3zQ56) | [The Quiet Life](https://open.spotify.com/album/4kd1SHiAi8DQZU6hDh878J) | 2:17 | 2025-07-25 |  |
 | [The Stars Will Dim \- Nowhere Sessions](https://open.spotify.com/track/59FkcwkiWIq6HBVrSai5Db) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [The Stars Will Dim \(Nowhere Sessions\)](https://open.spotify.com/album/4Eil98QcM8s8ES9vCP7Pxl) | 2:41 | 2026-04-02 |  |
 | [The Swan \- Reimagined](https://open.spotify.com/track/5WqQsbo40ZJU514i4qaS7Y) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Verwey](https://open.spotify.com/artist/4ol6DQyE3YPC6XGrgkq5Nb) | [The Swan \- Reimagined](https://open.spotify.com/album/2tCcEfhsCr2jO7mXMGLAES) | 2:46 | 2025-12-01 |  |

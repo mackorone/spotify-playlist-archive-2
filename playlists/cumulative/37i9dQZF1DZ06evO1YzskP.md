@@ -4,7 +4,7 @@
 
 > This is La Receta\. The essential tracks, all in one playlist.
 
-143 songs - 7 hr 1 min
+144 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Bien Firme el Sombrero](https://open.spotify.com/track/4NBiLab7UlhDLfQyrWZsYN) | [Fraccion EME](https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Bien Firme el Sombrero](https://open.spotify.com/album/4ZAh45TO8yZIBolO8sEyZ4) | 2:20 | 2024-01-29 | 2025-05-30 |
 | [Blindajes Peña \(En Vivo\)](https://open.spotify.com/track/6SmiLHeSXnURc3R5dc2CYp) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9), [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac), [Los Nuevos Rebeldes](https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [Culiacán Deluxe \(En Vivo\)](https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf) | 4:05 | 2024-01-29 |  |
 | [Borracho](https://open.spotify.com/track/1sBQCmnlEwq6UN2qsQ7WIe) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [REGRESA](https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr) | 2:26 | 2026-01-15 |  |
-| [Canelo](https://open.spotify.com/track/1eaTDsdG9rfpvXrQw8rct7) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [REGRESA](https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr) | 2:42 | 2025-12-22 |  |
+| [Canelo](https://open.spotify.com/track/1eaTDsdG9rfpvXrQw8rct7) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [REGRESA](https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr) | 2:42 | 2025-12-22 | 2026-08-08 |
 | [capaz](https://open.spotify.com/track/2t0eP19DmRIW7fIUuKhJDj) | [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Náufrago](https://open.spotify.com/album/2aKmns5TcRvmcVrKbiXoDf) | 2:44 | 2026-03-22 |  |
 | [Casi Se Les Hizo](https://open.spotify.com/track/4zdbK07qXLkj1T07ezVAVH) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 2:30 | 2024-01-29 | 2025-12-25 |
 | [Chalo Araujo \(Pistolero De Arturo Beltrán\)](https://open.spotify.com/track/2Jw4p4WIIxl8BwLyZ78HJ3) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [La Expansion](https://open.spotify.com/artist/3TMPTLwsdt24hPu8TActJN) | [Chalo Araujo \(Pistolero De Arturo Beltrán\)](https://open.spotify.com/album/5WMWsNeKATwiYcN6u1XCz3) | 2:15 | 2024-01-29 | 2025-05-10 |
@@ -142,6 +142,7 @@
 | [Si No Estás](https://open.spotify.com/track/23rsNGqAU6mBbUe4dEk8b9) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Pa Mis Compas Y Rolitas Pa Mi Ex](https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU) | 3:35 | 2024-08-30 |  |
 | [Somos Mayiza](https://open.spotify.com/track/1Et5s6nYXMuit7gdEk3q9F) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Somos Mayiza](https://open.spotify.com/album/0pWFlJBrWfDzgdiDAwcdUX) | 3:12 | 2024-01-29 | 2025-06-01 |
 | [Somos Mayiza](https://open.spotify.com/track/4M6GLOcjYod234PrPPat4r) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Somos Mayiza](https://open.spotify.com/album/76oTb9XZQqKwiXa8U8UxoW) | 3:12 | 2025-06-01 |  |
+| [SUPERESTRELLA](https://open.spotify.com/track/06W6nXdcPEMCv4VD1g89Rt) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [SUPERESTRELLA](https://open.spotify.com/album/31bTbGhBUXIHosoC1BAbyA) | 2:36 | 2026-08-08 |  |
 | [Sálvame](https://open.spotify.com/track/3zO9fdTPrJ1eCxEFdCboN1) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Sálvame](https://open.spotify.com/album/6BlzQb5tqTUSLQwmFVYMNB) | 3:13 | 2024-12-22 | 2025-12-24 |
 | [Tiempos De Guerra](https://open.spotify.com/track/4H8FjCpqI9EXaau6T5yILG) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:45 | 2024-01-29 | 2025-06-02 |
 | [Tiempos De Guerra](https://open.spotify.com/track/6FU9EaAAUBVhC1xwMPiKQ9) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [La Receta Del Corrido](https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr) | 2:45 | 2025-06-02 |  |

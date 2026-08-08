@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 
 > The Indie highlights of 2019\. Cover: James Blake
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,649 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,650 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,21 +80,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 | 70 | [Softly](https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:05 |
 | 71 | [Hot Rod](https://open.spotify.com/track/0zePbRMJ9sd7wsZRlbPQua) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 3:24 |
 | 72 | [Friends](https://open.spotify.com/track/3Y8JSCYjFznthCYb5HZ8lW) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Friends](https://open.spotify.com/album/5WfM4Cm6YmThxnPQOjMsIz) | 3:43 |
-| 73 | [Roddy](https://open.spotify.com/track/20WSCvv9qfQHzYzTaLyXHH) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:12 |
-| 74 | [Eat, Sleep, Wake \(Nothing But You\) \- Single Version](https://open.spotify.com/track/30Ih2VLYmGIWameeQeyaDr) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Eat, Sleep, Wake \(Nothing But You\)](https://open.spotify.com/album/1bXVjlT2KJNwJd7NlWPPUu) | 3:38 |
+| 73 | [Eat, Sleep, Wake \(Nothing But You\) \- Single Version](https://open.spotify.com/track/30Ih2VLYmGIWameeQeyaDr) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Eat, Sleep, Wake \(Nothing But You\)](https://open.spotify.com/album/1bXVjlT2KJNwJd7NlWPPUu) | 3:38 |
+| 74 | [Roddy](https://open.spotify.com/track/20WSCvv9qfQHzYzTaLyXHH) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:12 |
 | 75 | [Kingston](https://open.spotify.com/track/0EDQwboQDmswDRn58wcslg) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/4vt0V1SmkaK1Y440P5Nsb4) | 3:22 |
 | 76 | [Hey, Ma](https://open.spotify.com/track/0d6bZwEAi1XblGRhnzPfgC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/54DU59anGQsdrFP7utpshG) | 3:36 |
 | 77 | [YKWIM?](https://open.spotify.com/track/7ejeQLLLGjVriLS7cojERB) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/7bbDmub6x679LEFy8eZj5w) | 3:32 |
 | 78 | [i'll die anyway.](https://open.spotify.com/track/7yyJF1BYBaCifNmO1RGhv7) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i'll die anyway.](https://open.spotify.com/album/6RIPvkeMrEPX4iY1H9ZiVc) | 3:12 |
 | 79 | [Ghostride](https://open.spotify.com/track/476QHG5G8xxNI9VHTBFfjp) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/3vukTUpiENDHDoYTVrwqtz) | 2:06 |
-| 80 | [Turn The Light](https://open.spotify.com/track/6vw4YLRXNvtFxA2yxVrR6H) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Lux Prima](https://open.spotify.com/album/1kgurOfUl0Qu20MDK46xur) | 3:19 |
+| 80 | [Ordinary Pleasure](https://open.spotify.com/track/31F0KxmTD4rz3o0tJht5RL) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/7lXkGYfPd8ygerG681NxQG) | 3:03 |
 | 81 | [Naeem](https://open.spotify.com/track/1ff60tDWdcdVN6PtKQXWny) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/54DU59anGQsdrFP7utpshG) | 4:22 |
 | 82 | [On the Luna](https://open.spotify.com/track/0Sfj5fPqZzCq9o3f1NNphz) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Everything Not Saved Will Be Lost Pt\. 1](https://open.spotify.com/album/5oT2zoIrVGJcbVZoNGGZwc) | 3:12 |
-| 83 | [Stay High](https://open.spotify.com/track/4vtyIW5uMCzu827nc5ThVt) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/6fbphjr9j57oxMB2bnhzUf) | 3:11 |
-| 84 | [Andromeda](https://open.spotify.com/track/3NQMi6VzmxmKeqhcbE02WI) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/53VKICyqCf91sVkTdFrzKX) | 4:40 |
-| 85 | [Song 32](https://open.spotify.com/track/7GWAIzOmt5iznpu8RbSiSI) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Song 32](https://open.spotify.com/album/7eVx4XXwY3KrIPGRrW66UI) | 2:42 |
+| 83 | [Turn The Light](https://open.spotify.com/track/6vw4YLRXNvtFxA2yxVrR6H) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Lux Prima](https://open.spotify.com/album/1kgurOfUl0Qu20MDK46xur) | 3:19 |
+| 84 | [Stay High](https://open.spotify.com/track/4vtyIW5uMCzu827nc5ThVt) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/6fbphjr9j57oxMB2bnhzUf) | 3:11 |
+| 85 | [Andromeda](https://open.spotify.com/track/3NQMi6VzmxmKeqhcbE02WI) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/53VKICyqCf91sVkTdFrzKX) | 4:40 |
 | 86 | [Faith](https://open.spotify.com/track/5fLZQWarUISdz4attMFTXl) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/54DU59anGQsdrFP7utpshG) | 3:37 |
-| 87 | [Ordinary Pleasure](https://open.spotify.com/track/31F0KxmTD4rz3o0tJht5RL) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/7lXkGYfPd8ygerG681NxQG) | 3:03 |
+| 87 | [Song 32](https://open.spotify.com/track/7GWAIzOmt5iznpu8RbSiSI) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Song 32](https://open.spotify.com/album/7eVx4XXwY3KrIPGRrW66UI) | 2:42 |
 | 88 | [Not](https://open.spotify.com/track/7IzJ7EGpIpq2vW3ylVTtMh) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/7pg8T6pajjHVZbiyB8bGxo) | 6:07 |
 | 89 | [Running](https://open.spotify.com/track/090a3fK6DnEKCECdfctvYy) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [This Is How You Smile](https://open.spotify.com/album/17LsQV3q3cgTBrat3D5JSv) | 4:24 |
 | 90 | [Old Man](https://open.spotify.com/track/6K9QPIt8AR422heY9O372w) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Beware of the Dogs](https://open.spotify.com/album/1pKIMs0GEePXjDC2EiYEb7) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 | 99 | [Baby Blu](https://open.spotify.com/track/57BSFXytUc9trbqP9e3qrF) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Miss Universe](https://open.spotify.com/album/4ghm3TST2NwYOIAd5QHjbU) | 4:41 |
 | 100 | [religion \(u can lay your hands on me\)](https://open.spotify.com/track/3sPpFnxfeb2grY6cH9JYk9) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [forevher](https://open.spotify.com/album/336iT9Zlon2t5PozcmH8Hu) | 4:07 |
 
-Snapshot ID: `AAAAAPfcyDh0W7f75kj1V9+lv2C/rMl2`
+Snapshot ID: `AAAAAAyBbAJFCE1n1xwvXtW5q6408od0`

@@ -1,12 +1,12 @@
 {
   "description": "Jazz, but make it funky. Cover: Skinny Hightower",
-  "num_followers": 420261,
+  "num_followers": 420306,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADi664rnzVnfZf9I+Lae/qGm46bu",
+  "snapshot_id": "AAAAAMWH6YdCSBP45d5aClQ4LGqznziG",
   "tracks": [
     {
       "added_at": "2026-06-26 04:00:12",
@@ -55,6 +55,30 @@
       "duration_ms": 338881,
       "name": "Func and Sync",
       "url": "https://open.spotify.com/track/2HdQikKS2fg54LTLZdYEl6"
+    },
+    {
+      "added_at": "2026-08-07 04:00:20",
+      "album": {
+        "name": "What'd You Say",
+        "url": "https://open.spotify.com/album/2AcIpQUiYFT4W9bTayqJ9e"
+      },
+      "artists": [
+        {
+          "name": "Sam Fribush",
+          "url": "https://open.spotify.com/artist/0L7BpYTrKRXYKyNppykAEx"
+        },
+        {
+          "name": "Corey Fonville",
+          "url": "https://open.spotify.com/artist/7sX499OwcBpDPpk2eGgooP"
+        },
+        {
+          "name": "Alan Good Parker",
+          "url": "https://open.spotify.com/artist/2OHoyYChJeN8HCzgwQHi53"
+        }
+      ],
+      "duration_ms": 199340,
+      "name": "What'd You Say",
+      "url": "https://open.spotify.com/track/68FY4bod6Qt85A8bC4OGIi"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -947,30 +971,6 @@
       "duration_ms": 244310,
       "name": "The Warrior Code",
       "url": "https://open.spotify.com/track/1otrWVcbCxemNnn7eiKW1P"
-    },
-    {
-      "added_at": "2024-03-15 04:01:00",
-      "album": {
-        "name": "People Please",
-        "url": "https://open.spotify.com/album/6RN9cpqds047VYZhqUVzFN"
-      },
-      "artists": [
-        {
-          "name": "Sam Fribush",
-          "url": "https://open.spotify.com/artist/0L7BpYTrKRXYKyNppykAEx"
-        },
-        {
-          "name": "Charlie Hunter",
-          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
-        },
-        {
-          "name": "Calvin Napper",
-          "url": "https://open.spotify.com/artist/2PPOE2P2KXO3TdVOFluIzz"
-        }
-      ],
-      "duration_ms": 259213,
-      "name": "Ok Boomer",
-      "url": "https://open.spotify.com/track/57zbii1xrWEJqiMYq2idih"
     },
     {
       "added_at": "2024-02-16 05:01:00",

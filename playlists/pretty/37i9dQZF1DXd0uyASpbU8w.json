@@ -1,12 +1,12 @@
 {
   "description": "New music from New music from DJ Zinhle, REMA, De Mthuda,  Elaine, PLG Chanty and more.",
-  "num_followers": 186840,
+  "num_followers": 187309,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF1MJg7x21UITZ6FMbGpUJVWqShS",
+  "snapshot_id": "AAAAAFgy9c6mDEsyMsjxa8V6KsE31jID",
   "tracks": [
     {
       "added_at": "2026-08-06 22:01:09",
@@ -414,10 +414,26 @@
         {
           "name": "Lesego M",
           "url": "https://open.spotify.com/artist/2iyasLW1Ei5nroB96ynres"
+        },
+        {
+          "name": "Leandra.Vert",
+          "url": "https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l"
+        },
+        {
+          "name": "Shazz RSA",
+          "url": "https://open.spotify.com/artist/1b6HUAPSQHR73XcfcVX0aB"
+        },
+        {
+          "name": "SLCK WAV",
+          "url": "https://open.spotify.com/artist/6rLDG4WD9hsiY8sTvYDboI"
+        },
+        {
+          "name": "TranquilloSir",
+          "url": "https://open.spotify.com/artist/7w8Dm5nDDbrbwqAfoOUEec"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 480496,
+      "name": "Ezo Thando (feat. TranquilloSir)",
       "url": "https://open.spotify.com/track/1g6FnvjrxwNx6SHol7Ysta"
     },
     {
@@ -439,6 +455,22 @@
       "duration_ms": 132817,
       "name": "THAT GIRL!",
       "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"
+    },
+    {
+      "added_at": "2026-08-06 22:01:09",
+      "album": {
+        "name": "THIS & THAT",
+        "url": "https://open.spotify.com/album/0VDVnZhY399q6sIrdyjZWj"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "This & That",
+      "url": "https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP"
     },
     {
       "added_at": "2026-08-06 22:01:09",
@@ -572,8 +604,8 @@
           "url": "https://open.spotify.com/artist/2qyayQizFjGigmZVrwyuf9"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 360000,
+      "name": "Strings",
       "url": "https://open.spotify.com/track/1qDZIJh4aCifgsR5HiVdrY"
     },
     {
@@ -840,8 +872,8 @@
           "url": "https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 307660,
+      "name": "Throw Something",
       "url": "https://open.spotify.com/track/5Ahzftt1kLGb1daMiLOk8e"
     },
     {
@@ -896,8 +928,8 @@
           "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 232306,
+      "name": "this is the moment (cuerpo)",
       "url": "https://open.spotify.com/track/1AF9gqUhT9jyOHDzDUTZMc"
     },
     {
@@ -964,7 +996,7 @@
           "url": "https://open.spotify.com/artist/3WCd7zb4o9M9ZawSNmyvx2"
         }
       ],
-      "duration_ms": 275702,
+      "duration_ms": 275488,
       "name": "Meine Lieben",
       "url": "https://open.spotify.com/track/4gHmDgsGGrt6ds0fNPVHCa"
     },
@@ -1112,20 +1144,24 @@
           "url": "https://open.spotify.com/artist/2EcqJe3MVmmllzpwhPbGh3"
         },
         {
-          "name": "Tallrickyworldwide",
-          "url": "https://open.spotify.com/artist/2miB0vPO6RIi8mcK6XDIyS"
-        },
-        {
           "name": "PRXNCE ICIS",
           "url": "https://open.spotify.com/artist/3FxSuK09DqdlxhBl6RND9A"
         },
         {
           "name": "Creed oasis",
           "url": "https://open.spotify.com/artist/6ZoF6LKlVwaohaKiOlUNQF"
+        },
+        {
+          "name": "Tank Saviour",
+          "url": "https://open.spotify.com/artist/4spkghJN9s9AF6VsyxIp8Q"
+        },
+        {
+          "name": "Tallrickyworldwide",
+          "url": "https://open.spotify.com/artist/2miB0vPO6RIi8mcK6XDIyS"
         }
       ],
       "duration_ms": 188689,
-      "name": "MGGAXO X CREED",
+      "name": "MGGAXO",
       "url": "https://open.spotify.com/track/1516NYuQjK7NaHmHdD68Uc"
     },
     {
@@ -1480,8 +1516,8 @@
           "url": "https://open.spotify.com/artist/7J8TsAqwQVAIOlloWCuW60"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 212808,
+      "name": "Umhlaba - (Ithonga soundtrack)",
       "url": "https://open.spotify.com/track/184nO8Izb4hWhTSpx7XG6L"
     },
     {
@@ -1522,10 +1558,14 @@
         {
           "name": "Mustbedubz",
           "url": "https://open.spotify.com/artist/1BzSBZWwF5ApCmrziLqLXF"
+        },
+        {
+          "name": "Luigi Anywhere",
+          "url": "https://open.spotify.com/artist/5a9qc56VdoSQ7pw6d464GK"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 358042,
+      "name": "Ngelosi",
       "url": "https://open.spotify.com/track/2s9Mz8iNXM20Glo37BHpds"
     },
     {

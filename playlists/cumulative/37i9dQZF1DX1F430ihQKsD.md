@@ -2,9 +2,9 @@
 
 ### [Montréal Chill](https://open.spotify.com/playlist/37i9dQZF1DX1F430ihQKsD)
 
-> 100 % chill, 100 % Montréal avec Chiara Savasta
+> 100 % chill, 100 % Montréal avec Ash
 
-930 songs - 2 day 4 hr 32 min
+938 songs - 2 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [green light](https://open.spotify.com/track/0ctnLcTOOK4yDNxAq48pZQ) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [green light](https://open.spotify.com/album/6B4obGwSQ7cPstogpuNs2M) | 3:02 | 2024-10-18 | 2025-04-05 |
 | [Guilt Drive](https://open.spotify.com/track/1akpUk38h2yvRKn3quUNNS) | [Fireball Kid](https://open.spotify.com/artist/1YnSsYsMWBmHHN05ALpcXM) | [Guilt Drive](https://open.spotify.com/album/1VTT8Rrevx15iQhAJR7FH1) | 3:27 | 2026-02-27 | 2026-06-06 |
 | [Habitat](https://open.spotify.com/track/0L9PnZbx3ySxrQZgfQPJVX) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Habitat](https://open.spotify.com/album/04Tv2pBqM5gHrJQXOyLJNq) | 4:48 | 2025-10-31 | 2025-12-04 |
+| [half smile](https://open.spotify.com/track/0TpdlGxaVraIe1dDXdFehk) | [Hockitay](https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI) | [half smile](https://open.spotify.com/album/5G1gVUZZilR2abtg15VI6A) | 3:48 | 2026-08-07 |  |
 | [Halfmoon](https://open.spotify.com/track/33sEQdgKNrUj5sKU66XB4s) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Halfmoon](https://open.spotify.com/album/47KeqI7vwzGUSr2TjK4L7T) | 3:16 | 2025-10-24 | 2025-12-04 |
 | [hana](https://open.spotify.com/track/13Ue2YJXcvl8Wm5iv0TlMo) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Astral 2000](https://open.spotify.com/album/2qsyEK8oIuQEIUryUqL3jp) | 2:35 | 2024-09-20 | 2025-10-18 |
 | [hana](https://open.spotify.com/track/2Qvvb2wC3wPiRP2C0xxsc6) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [hana](https://open.spotify.com/album/2TkxPbXf8lg0cgHZh823Tg) | 2:35 | 2024-04-12 | 2024-09-21 |
@@ -386,6 +387,7 @@
 | [I.W.Y.B.](https://open.spotify.com/track/67C2lngm6JPNsKTprUz3KO) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Dogue](https://open.spotify.com/album/749uCoBXgdFaC9VJZtA1oL) | 3:14 | 2025-03-21 | 2026-01-17 |
 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 | 2022-03-25 | 2022-04-23 |
 | [Ici](https://open.spotify.com/track/2bkFu4kRYkFslkXjDEV1G7) | [La Steppe](https://open.spotify.com/artist/6yPLwJZvsWaw6VMuUFppOf) | [Ici](https://open.spotify.com/album/6QLplsDGfUNQLp8KaEZgs9) | 2:48 | 2026-01-30 | 2026-06-13 |
+| [If Time ’26](https://open.spotify.com/track/4akzkJlxy9FDpa5axng9CE) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh) | [If Time '26](https://open.spotify.com/album/0iCNkmgtnmryJH1R59l3U6) | 3:12 | 2026-08-07 |  |
 | [Il faut qu'on se parle](https://open.spotify.com/track/5vnFXiRwOQhz5xBn09GKRK) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Rom\-Com](https://open.spotify.com/album/1UnHAygRkMtOty8V6tma6A) | 3:13 | 2025-03-14 | 2025-10-18 |
 | [In a Time of Truth](https://open.spotify.com/track/27RRFsDsh2kMv6To5VUoTw) | [Rebecca Foon](https://open.spotify.com/artist/2jS6VRcixDh48vo7Uwhrvd) | [In a Time of Truth](https://open.spotify.com/album/1koEm9OpK8ZolrEwWfpUhY) | 4:23 | 2025-08-15 | 2025-11-29 |
 | [Incendie au paradis](https://open.spotify.com/track/3IoiixKPZXzFLfwHqtrLDU) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Incendie au paradis](https://open.spotify.com/album/66ghDXf4kGsAvTYgecMVYa) | 3:39 | 2024-09-20 | 2025-03-01 |
@@ -398,6 +400,7 @@
 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/1jBKtzlwTVtCrScpiiHiKT) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/1tbB05wnLmxMl8WPbcnV0y) | 3:27 | 2022-03-25 | 2022-06-11 |
 | [Invisible](https://open.spotify.com/track/5Oq7LoIwDH77lzOUtg1Z0z) | [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys) | [Invisible](https://open.spotify.com/album/7tj6xJzuw7GMlE7PIs1gxx) | 2:56 | 2023-08-18 | 2024-11-23 |
 | [iridescence](https://open.spotify.com/track/3urtX8ukzRA1uco5FqHpYE) | [Mada Mada](https://open.spotify.com/artist/71nppOJgBwJ7V2gjyHGtA5), [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [iridescence](https://open.spotify.com/album/3rTVNlAo7wbXkqETpKVNVN) | 3:42 | 2023-10-13 | 2024-03-23 |
+| [Isabella](https://open.spotify.com/track/0xVXNGoXkICVLJdbMzprPV) | [Violette & Jordan](https://open.spotify.com/artist/4XaeJvSMX3h2oSt88pAoGj) | [Isabella](https://open.spotify.com/album/39rkQsb7O9jo3Edo2idqiP) | 4:08 | 2026-08-07 |  |
 | [Isolated](https://open.spotify.com/track/5FM8xEph5A58laSAIr16ph) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Please Don't Think About Tomorrow](https://open.spotify.com/album/5vUGjMxVmPZGqgwRPPZEuF) | 1:36 | 2023-04-14 | 2023-10-21 |
 | [Isolated](https://open.spotify.com/track/6I1M2IDs6w8qWRSvQMGifg) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Please Don't Think About Tomorrow](https://open.spotify.com/album/3iXL32S132siz2SRS3zQ6U) | 1:36 | 2022-08-26 | 2023-04-15 |
 | [It's The Life](https://open.spotify.com/track/17vvwuzQ2enu7fL93nexIP) | [FLEECE](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [It's The Life](https://open.spotify.com/album/0povJrlVpXe4j2HgW6SvEh) | 2:37 | 2023-03-24 | 2024-03-30 |
@@ -496,6 +499,7 @@
 | [levels](https://open.spotify.com/track/4lEUFWApnDtgiUsclp307O) | [Antoniya](https://open.spotify.com/artist/5kA25TZjzmQtCEFCIAwlOE) | [levels](https://open.spotify.com/album/58DMAnDshN1F30XhXFi8gl) | 3:06 | 2022-03-25 | 2022-05-07 |
 | [LFDM](https://open.spotify.com/track/2NeLSUa3bSjvyhkmU0WCTj) | [Tom Leger](https://open.spotify.com/artist/6ItAywuaMIvQ0BfETENUcK) | [LFDM](https://open.spotify.com/album/1OMxJOk8AfVNK115bPasye) | 3:17 | 2026-04-24 | 2026-07-11 |
 | [Libre](https://open.spotify.com/track/1cxU8Lm89wGrMCcQISzYTf) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Libre](https://open.spotify.com/album/4bMFs8RYpu4qRI4x4tpkZl) | 3:09 | 2024-06-07 | 2024-08-31 |
+| [Liquid Heartbeat](https://open.spotify.com/track/1MvlbEdOM4wqLGGJg9a7lo) | [Marci](https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E) | [Liquid Heartbeat](https://open.spotify.com/album/3wIdJttzjWGnMRyD441fjZ) | 2:28 | 2026-08-07 |  |
 | [Lisbonne, Paris la Sorbonne](https://open.spotify.com/track/4nB7Z6mGzUQ4rDlqkJU2FQ) | [Grand Public](https://open.spotify.com/artist/5Ctw4xKmnbdrLyWdEA4KiO) | [Lisbonne, Paris la Sorbonne](https://open.spotify.com/album/4oyJLq9CnOCpwvjMZbRFzx) | 3:15 | 2024-04-12 | 2024-05-25 |
 | [Loin](https://open.spotify.com/track/2IWh6YQd16fIt6GKFjftA7) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT), [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Loin](https://open.spotify.com/album/0GUZfYzll9LYYDsxJYxdVy) | 2:14 | 2026-02-13 | 2026-04-04 |
 | [Looking for Your Love](https://open.spotify.com/track/56sH4u4DPY9xUkog8vGDCp) | [FOXTROTT](https://open.spotify.com/artist/0fL7CM2Gv7L0r4Z2JsYtXu) | [The Motion / Looking for Your Love](https://open.spotify.com/album/5oatubY6iB4ukJXQDsCWRe) | 4:34 | 2022-05-20 | 2022-10-17 |
@@ -644,6 +648,7 @@
 | [Patience](https://open.spotify.com/track/4hVUrQ9c3JalPh8f8BoFqW) | [Anna Justen](https://open.spotify.com/artist/5I7Lr9ifQWQv9UdzU9BZr7) | [Saintclaire](https://open.spotify.com/album/0nvwynLe9yrkfDldt6pJYy) | 3:42 | 2022-03-25 | 2022-05-14 |
 | [patio](https://open.spotify.com/track/1bq6D7ZggRYOJAkQeYmYpk) | [Miro Chino](https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI) | [patio / compte à rebours](https://open.spotify.com/album/6YXjiV0QLA95AuoUPB89uy) | 2:51 | 2023-06-30 | 2023-09-09 |
 | [Pause](https://open.spotify.com/track/4zkYz1az0oGzTlfZUb1Zwf) | [Täbï Yösha](https://open.spotify.com/artist/7mFQZ0JDq4jMjWXGyaU8EO), [suiker](https://open.spotify.com/artist/3UZSNnTycoiDTXY72xLV14) | [Pause](https://open.spotify.com/album/43kkRSBUKK3JaZvQiMmAVJ) | 2:40 | 2023-02-03 | 2024-06-08 |
+| [Peau](https://open.spotify.com/track/1CctrY51mx67vQcKt1chKx) | [Hector Gaspard](https://open.spotify.com/artist/1GTyDJoyY62JuXYLQPdQEs) | [Sisyphe](https://open.spotify.com/album/2H6oiwdOZTioAvQNgTCjMu) | 2:48 | 2026-08-07 |  |
 | [Pendant que tu dors](https://open.spotify.com/track/6YoHe3OIqQEFcSFJ7sYm22) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Pendant que tu dors](https://open.spotify.com/album/7ELXNkBU4VZCAqsGHJAv8O) | 3:50 | 2022-03-25 | 2022-09-17 |
 | [Pensées sans calcul](https://open.spotify.com/track/73XJsoBcFhZhmglFhy9RUw) | [Jérôme Minière](https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT), [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Pensées sans calcul](https://open.spotify.com/album/7hcuk7kBvgFQ0Hsv6v8gvw) | 3:26 | 2026-04-10 | 2026-07-11 |
 | [People Pleasing](https://open.spotify.com/track/3gstA6UTfjcRDeWdmwD3H7) | [Bennett Sobel](https://open.spotify.com/artist/10xsha6upLn5rjO5ubnLCX) | [People Pleasing](https://open.spotify.com/album/7jMruxsthetOYPz6pNv2Sl) | 2:54 | 2026-07-24 |  |
@@ -755,6 +760,7 @@
 | [Shameless](https://open.spotify.com/track/6ScAv6VJN95dzCWkLwhFcV) | [Eman Alali](https://open.spotify.com/artist/6lV73BGgSYasE0ikD3Bs1W) | [Shameless](https://open.spotify.com/album/5LHz2VJdeL7z7kzw8Xbq69) | 2:14 | 2025-11-14 | 2025-12-04 |
 | [Shelter of Mine](https://open.spotify.com/track/6SP0lrPi8dEXzqOQanWeBF) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY) | [Shelter of Mine](https://open.spotify.com/album/22NUiIGtPN0f6B3P0f8Elj) | 4:29 | 2022-08-26 | 2023-08-12 |
 | [Shoegaze](https://open.spotify.com/track/4HnwC68UiMaX7hRZwAow5d) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Shoegaze](https://open.spotify.com/album/22JJoxp8HZSE0KNKRDLpBG) | 3:22 | 2022-04-08 | 2022-05-14 |
+| [Shotgun](https://open.spotify.com/track/3FR6I74FRcFyT3DQqOzA6a) | [Nicholas Cangiano](https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg) | [Shotgun](https://open.spotify.com/album/1iZ0lfz4ICkV3iht0kcXOk) | 3:06 | 2026-08-07 |  |
 | [Shy Companion](https://open.spotify.com/track/5oDfyteT02pAYOcqpAUHKZ) | [Cam Maclean](https://open.spotify.com/artist/5ov1wBw8XYb4x4Wmatd0d3) | [Shy Companion](https://open.spotify.com/album/4B53ysQwKFxfgwxev5k48h) | 3:22 | 2022-03-25 | 2023-01-21 |
 | [Si j'avais un clou](https://open.spotify.com/track/5Q5sQJpdEJpD5oXLJkAwAm) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Si j'avais un clou](https://open.spotify.com/album/5Ta4hSDVG7dcLf2PSCFTpl) | 3:49 | 2026-04-24 |  |
 | [Si j'étais toi](https://open.spotify.com/track/7gtp58Uuzgl4zVObHaPwcN) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh), [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Si j'étais toi](https://open.spotify.com/album/26xPuIwsA9V886JRrAxF2r) | 2:24 | 2023-05-19 | 2024-07-27 |
@@ -768,6 +774,7 @@
 | [Sincère](https://open.spotify.com/track/2l5rVv4dgTK8tMfAmVUAA5) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Softboy Actif 2](https://open.spotify.com/album/5GqYqD32BN1tPAH7GMN1CF) | 2:22 | 2025-12-03 | 2026-01-17 |
 | [Sirens feat\. KALLITECHNIS](https://open.spotify.com/track/1bFgz7ALuVIYDx7cjX9mPH) | [Gayance](https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [Dapapa](https://open.spotify.com/artist/4MsFhnzGHZUXzNp5ymRZny) | [BEAUTIFUL PRESENTS: BEAUTIFUL VOL 1](https://open.spotify.com/album/7vxquNykZOqoSU3MR7UJ0G) | 2:51 | 2022-03-25 | 2022-06-11 |
 | [SMILE](https://open.spotify.com/track/6qbw1ULYQPCHW1w80UyXze) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [jamvvis](https://open.spotify.com/artist/52FnK9izQFuAZi3qURGbqF) | [SMILE](https://open.spotify.com/album/5NzwJvXoEcxAoCpJkkQs7j) | 1:48 | 2025-11-14 | 2026-05-30 |
+| [SMS](https://open.spotify.com/track/2TLb79LetSbufGAbKDBqEg) | [Luka Ferraro](https://open.spotify.com/artist/4KkhQ5lNxMhFBDHMsN79Zp) | [Pilot](https://open.spotify.com/album/6twvQRASteKyWL0wgBuYhz) | 2:20 | 2026-08-07 |  |
 | [Snowpath](https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Snowpath](https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT) | 2:13 | 2024-10-04 | 2025-06-28 |
 | [SO DIFFERENT NOW](https://open.spotify.com/track/7vVsFIYEfHRZbBsVs1XGe4) | [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf) | [SO DIFFERENT NOW](https://open.spotify.com/album/6OpPZcTKTFomxZbych3lE9) | 2:33 | 2024-10-04 | 2024-10-26 |
 | [SOFT LIFE](https://open.spotify.com/track/4fp0ypnQqHSKndK2ACcN8T) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [SOFT LIFE](https://open.spotify.com/album/0oFPB3Lo4u1nPs7jGJZQnH) | 3:25 | 2023-10-27 | 2025-04-26 |
@@ -938,5 +945,6 @@
 | [À la rencontre de Barbara \(feat\. Standard Emmanuel\)](https://open.spotify.com/track/0xDNmS1FLbONayk21JM7NT) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy), [Standard Emmanuel](https://open.spotify.com/artist/03eMkqsGXAfGVyH9DvbO7D) | [À la rencontre de Barbara \(feat\. Standard Emmanuel\)](https://open.spotify.com/album/6HxlVrZdTIK2KXSJ5GhIw4) | 5:33 | 2023-08-18 | 2023-09-23 |
 | [À présent](https://open.spotify.com/track/5WbdB8SuUJ1Rgyhh8Uyq3L) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [À présent](https://open.spotify.com/album/4yCghmiyhqVae5mRq402br) | 4:51 | 2022-08-26 | 2023-08-19 |
 | [À retardement](https://open.spotify.com/track/2fpOejhULp57PrbCXQ1xUG) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [À retardement](https://open.spotify.com/album/5bG6MAUi03dmCmghIAkW9M) | 3:05 | 2022-04-29 | 2023-02-11 |
+| [Été à Montréal](https://open.spotify.com/track/3fG437ZqIWMFgPZjysVdxe) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Été à Montréal](https://open.spotify.com/album/65XouOCdpWdWj78nnB4BV4) | 5:27 | 2026-08-07 |  |
 
 \*This playlist was first scraped on 2022-03-28. Prior content cannot be recovered.

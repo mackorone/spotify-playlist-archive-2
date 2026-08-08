@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,810 likes - 278 songs - 15 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,812 likes - 278 songs - 15 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,8 +170,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 160 | [Hallelujah](https://open.spotify.com/track/0qQQJn3GV1Igk3NRwlelqg) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Palo Santo \(Deluxe\)](https://open.spotify.com/album/1OUGPngAngAxjliRlrAc6v) | 3:39 |
 | 161 | [Apple](https://open.spotify.com/track/56bbqIxsAzzNX28hYl8wRL) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Inner Monologue Part 1](https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r) | 2:44 |
 | 162 | [Only One \(feat\. Di Genius\)](https://open.spotify.com/track/1LUp83N3Zh6FE5lpGdiUaU) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Julia Michaels](https://open.spotify.com/artist/5iZfdXW7Tr4Th4MuqFeyIh), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [Only One \(feat\. Di Genius\)](https://open.spotify.com/album/2Mug7a9txQpNZv3HunvIIc) | 3:38 |
-| 163 | [The Way You Don't Look At Me](https://open.spotify.com/track/4nD97NVwkp8pNWmhW2kgHd) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 2:28 |
-| 164 | [Red Bottoms](https://open.spotify.com/track/4pxxGkaSy0wLiue4thzfkD) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Red Bottoms](https://open.spotify.com/album/730wV33fBlwjbb5ctUfNwy) | 3:06 |
+| 163 | [Red Bottoms](https://open.spotify.com/track/4pxxGkaSy0wLiue4thzfkD) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Red Bottoms](https://open.spotify.com/album/730wV33fBlwjbb5ctUfNwy) | 3:06 |
+| 164 | [The Way You Don't Look At Me](https://open.spotify.com/track/4nD97NVwkp8pNWmhW2kgHd) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 2:28 |
 | 165 | [Desperate](https://open.spotify.com/track/4nfuvV34THjGorJHAiijkw) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 2:54 |
 | 166 | [Stained](https://open.spotify.com/track/7xVjKU6399E5F3b68C0Mk2) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [I Said I Love You First...](https://open.spotify.com/album/6mfLgMAN1pZTa2o4LjVGjX) | 3:29 |
 | 167 | [Thick Of It All](https://open.spotify.com/track/7ANesmCLYR6eSKsgmQvEa9) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Julia Michaels](https://open.spotify.com/artist/1eGrF3LMMCZIAlD7P41amX) | [Walkerworld 2.0](https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2) | 3:19 |
@@ -287,4 +287,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 277 | [Deep](https://open.spotify.com/track/01D0aVd8vRbRPIltg6Tbhw) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Julia Michaels](https://open.spotify.com/album/7nlsv3q4UQtP5Nj05k905a) | 4:57 |
 | 278 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 
-Snapshot ID: `AcY40gAAAAD5KuW3HQGOSMTU+Rxfguic`
+Snapshot ID: `AcY+GAAAAABM8Sxj60WjbFa1kgwqCWVj`

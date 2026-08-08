@@ -143,6 +143,24 @@
     },
     {
       "album": {
+        "name": "20 MILLIONS",
+        "url": "https://open.spotify.com/album/6QtLNqAjNXxIP5Fo0vJBHV"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "20 MILLIONS",
+      "url": "https://open.spotify.com/track/5kxSwTQQLutunmQINplAPt"
+    },
+    {
+      "album": {
         "name": "207",
         "url": "https://open.spotify.com/album/5ZGzNUDy8PA9qIa3bYrHMG"
       },
@@ -4692,7 +4710,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 144000,
       "name": "EN D\u00c9TENTE",
       "url": "https://open.spotify.com/track/1kpFPU0Im1rlmKuwHkuF4n"

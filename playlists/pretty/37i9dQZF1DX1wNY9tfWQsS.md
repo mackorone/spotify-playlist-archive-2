@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wNY9tfWQsS.md) - [plain]
 
 > A musical celebration of women in R&amp;B, from its earliest acts to its newest stars\. Cover:
 
-[Spotify](https://open.spotify.com/user/spotify) - 773,836 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 773,883 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wNY9tfWQsS.md) - [plain]
 | 27 | [WHY](https://open.spotify.com/track/2Ehx04k5p0pv0TbIwTb8Hl) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/6aqhCiscWmMkL7YYS0Cbzz) | 2:59 |
 | 28 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 |
 | 29 | [braveface](https://open.spotify.com/track/4vChLQrMY67IWFxYCcQUVQ) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [braveface](https://open.spotify.com/album/4rNZwITNBukiT5F6s0KO9X) | 3:03 |
-| 30 | [Love Galore \(feat\. Travis Scott\)](https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:35 |
+| 30 | [Foolish](https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 3:47 |
 | 31 | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0) | 3:39 |
-| 32 | [Foolish](https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 3:47 |
+| 32 | [Love Galore \(feat\. Travis Scott\)](https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:35 |
 | 33 | [Drop Your Love](https://open.spotify.com/track/1OJx4MMKqJQL51v3zjS5f4) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [CiCi](https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ) | 3:25 |
 | 34 | [Free Mind](https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 4:07 |
 | 35 | [Break Me In](https://open.spotify.com/track/6cIvHcpTltaYZP2FkbQWMr) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Break Me In](https://open.spotify.com/album/3qAQ2awAKHXsu0SKTKR0Wg) | 2:52 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wNY9tfWQsS.md) - [plain]
 | 41 | [It Won't Stop \(feat\. Chris Brown\) \- EP Version](https://open.spotify.com/track/2xRYnHQdLD9ketvC01UYYT) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Call Me Crazy, But...](https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7) | 4:41 |
 | 42 | [I'm Every Woman](https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka](https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC) | 4:09 |
 | 43 | [Ain't Nobody](https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Stompin' At The Savoy](https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP) | 4:45 |
-| 44 | [When I See U](https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Fantasia](https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX) | 3:37 |
-| 45 | [Rock Wit U \(Awww Baby\)](https://open.spotify.com/track/6pWzCKTrKrwbUPzY8RLCoP) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Chapter II](https://open.spotify.com/album/4vjeaWsf9UH2ecdKXAZaq2) | 3:29 |
+| 44 | [Rock Wit U \(Awww Baby\)](https://open.spotify.com/track/6pWzCKTrKrwbUPzY8RLCoP) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Chapter II](https://open.spotify.com/album/4vjeaWsf9UH2ecdKXAZaq2) | 3:29 |
+| 45 | [When I See U](https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Fantasia](https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX) | 3:37 |
 | 46 | [Body](https://open.spotify.com/track/7vxLj7MREliG5i5vSnqSVr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:13 |
 | 47 | [Someone To Call My Lover](https://open.spotify.com/track/43zr9kKkeiQrshvYuvNtfM) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [All For You](https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9) | 4:32 |
 | 48 | [Motivation](https://open.spotify.com/track/6rbhWExtuchhpLC5fHnB8n) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Here I Am \(Deluxe Version\)](https://open.spotify.com/album/673D6VTmxJquUg31Wq1j0S) | 3:50 |
 | 49 | [Life Will Be](https://open.spotify.com/track/4ZTC6KvnQxloiwmT0Yhypy) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:18 |
 | 50 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:45 |
 
-Snapshot ID: `AAAAAOtqU01hMkj5XgZKiVrBl5PQM+Ak`
+Snapshot ID: `AAAAAHDJav/ZLNVdnXL7GopbyhRDpcEL`

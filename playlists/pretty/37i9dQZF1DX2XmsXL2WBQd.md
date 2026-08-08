@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,516 likes - 70 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,567 likes - 70 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 69 | [Boyz\-N\-The\-Hood](https://open.spotify.com/track/4SZ3B3y1TbwTK4OIXMOVEy) | [Eazy\-E](https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX) | [The Best Of N.W.A: The Strength Of Street Knowledge](https://open.spotify.com/album/1RcZMUVcZrMxf1shgPN4o0) | 5:36 |
 | 70 | [Talkin' All That Jazz](https://open.spotify.com/track/0dyNjjb5cFcW44LhhlZgJf) | [Stetsasonic](https://open.spotify.com/artist/6gl67jXbrwnMYZNZv88MKk) | [In Full Gear](https://open.spotify.com/album/4VkGqaAWZleNBiFIVPLHyI) | 4:48 |
 
-Snapshot ID: `AAAAAMMsuE9m+hCwxAj22Tzsqc8FepMx`
+Snapshot ID: `AAAAAECaUefGdASV76IOhYl0tNiDs598`

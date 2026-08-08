@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 101049,
+  "num_followers": 101064,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAABkFF8Sqh2FU4j3I/Rf1DwL",
+  "snapshot_id": "anPOgAAAAAAkEgzpvXCNOWBpuu0pXA/k",
   "tracks": [
     {
       "added_at": null,
@@ -207,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Derecha La Flecha",
-        "url": "https://open.spotify.com/album/1xiSb0JPOxGd1JnOejlAVY"
+        "name": "Jolly Rancher \u201cLos de la Casa\u201d (En Vivo)",
+        "url": "https://open.spotify.com/album/0JaJMJHnxPKVHVzNiZDICH"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 178327,
-      "name": "Derecha La Flecha",
-      "url": "https://open.spotify.com/track/6Qei0rSgoDr6jjsvbZ0sCp"
+      "duration_ms": 171743,
+      "name": "Jolly Rancher \u201cLos de la Casa\u201d (En Vivo)",
+      "url": "https://open.spotify.com/track/66cxP4XwyVS4KjPVLFc5UH"
     },
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jolly Rancher \u201cLos de la Casa\u201d (En Vivo)",
-        "url": "https://open.spotify.com/album/0JaJMJHnxPKVHVzNiZDICH"
+        "name": "Derecha La Flecha",
+        "url": "https://open.spotify.com/album/1xiSb0JPOxGd1JnOejlAVY"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 171743,
-      "name": "Jolly Rancher \u201cLos de la Casa\u201d (En Vivo)",
-      "url": "https://open.spotify.com/track/66cxP4XwyVS4KjPVLFc5UH"
+      "duration_ms": 178327,
+      "name": "Derecha La Flecha",
+      "url": "https://open.spotify.com/track/6Qei0rSgoDr6jjsvbZ0sCp"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Exceso Me Encanto",
-        "url": "https://open.spotify.com/album/49gfxmTkZfPEg2oN9ORhN0"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 160153,
-      "name": "El Exceso Me Encanto",
-      "url": "https://open.spotify.com/track/3W0Lld0K5FHecRyfOxhZ4x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paris & Grecia",
         "url": "https://open.spotify.com/album/3kufVIruxrPYRml0XECQka"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 165587,
       "name": "Paris & Grecia",
       "url": "https://open.spotify.com/track/6VGKmmQoKtb96WxcXIz4CU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Exceso Me Encanto",
+        "url": "https://open.spotify.com/album/49gfxmTkZfPEg2oN9ORhN0"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 160153,
+      "name": "El Exceso Me Encanto",
+      "url": "https://open.spotify.com/track/3W0Lld0K5FHecRyfOxhZ4x"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Guero",
-        "url": "https://open.spotify.com/album/1KeF2YyOYQz9VSfrJtRXuq"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 124331,
-      "name": "El Guero",
-      "url": "https://open.spotify.com/track/56xZRR6LDp1KpIb28RdEwO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sky Blue",
         "url": "https://open.spotify.com/album/4QMS2FycPQcit8utfXj1pB"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 175777,
       "name": "Los 3 De Siempre",
       "url": "https://open.spotify.com/track/3KCMlam3tmXwIcCfvZDstg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Guero",
+        "url": "https://open.spotify.com/album/1KeF2YyOYQz9VSfrJtRXuq"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 124331,
+      "name": "El Guero",
+      "url": "https://open.spotify.com/track/56xZRR6LDp1KpIb28RdEwO"
     },
     {
       "added_at": null,

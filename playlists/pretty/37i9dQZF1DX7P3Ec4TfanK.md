@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7P3Ec4TfanK.md) - [plain]
 
 > ☕ 💪🍳🧘‍♀️🏃☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,699 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,663 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7P3Ec4TfanK.md) - [plain]
 | 74 | [Crazy What Love Can Do](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Crazy What Love Can Do](https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707) | 2:49 |
 | 75 | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr) | 3:52 |
 | 76 | [Take You Dancing](https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Take You Dancing](https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly) | 3:10 |
-| 77 | [La La La](https://open.spotify.com/track/52gvlDnre9craz9dKGObp8) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [La La La](https://open.spotify.com/album/7L2vCH0rBeI5pKefCgWcV9) | 3:40 |
-| 78 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 |
-| 79 | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 |
-| 80 | [Per sempre sì](https://open.spotify.com/track/5W1mx7Oeg2HxmASrth1nTt) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Per sempre sì](https://open.spotify.com/album/32HEGXJyQkqHh888V70rdu) | 2:55 |
+| 77 | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 |
+| 78 | [La La La](https://open.spotify.com/track/52gvlDnre9craz9dKGObp8) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [La La La](https://open.spotify.com/album/7L2vCH0rBeI5pKefCgWcV9) | 3:40 |
+| 79 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 |
+| 80 | [Iko Iko \(My Bestie\)](https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\)](https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU) | 3:02 |
 
-Snapshot ID: `AAAAANZDD+gvXz1ThyXKC8WnBjoThBgq`
+Snapshot ID: `AAAAAPVh4M+uGug0Xet+FflwIkY6gSLC`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring maahi, Outstation, TUSHAR JOSHI and other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring Raghav & Arjun, Taba Chake, Hansika Pareek, Khushi Pareek and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -784,6 +784,28 @@
       "duration_ms": 177313,
       "name": "Aaja Aaja",
       "url": "https://open.spotify.com/track/5VKKvjQFt7nALXZG2IYIdm"
+    },
+    {
+      "album": {
+        "name": "Aaja Re Piya",
+        "url": "https://open.spotify.com/album/29ESWyP2Waa639JBQSwkxf"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Khushi Pareek",
+          "url": "https://open.spotify.com/artist/4XklST8Nob4VrG6o933En8"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154782,
+      "name": "Aaja Re Piya",
+      "url": "https://open.spotify.com/track/1jk5EKgpuQCMRZ5PTO7MFO"
     },
     {
       "album": {
@@ -3114,7 +3136,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 195918,
       "name": "Baebo",
       "url": "https://open.spotify.com/track/4HYkpGxtJLYhnlJk3Uqa4Y"
@@ -4703,6 +4725,36 @@
     },
     {
       "album": {
+        "name": "Bin Tere",
+        "url": "https://open.spotify.com/album/3rmbAftMJw7DWsuXAN5m3L"
+      },
+      "artists": [
+        {
+          "name": "Akash Tripathi",
+          "url": "https://open.spotify.com/artist/04QPutAh48ciDXsD7yuzl4"
+        },
+        {
+          "name": "Ramil Ganjoo",
+          "url": "https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg"
+        },
+        {
+          "name": "Janisht Joshi",
+          "url": "https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z"
+        },
+        {
+          "name": "Alvina D'souza",
+          "url": "https://open.spotify.com/artist/11pk708XY9mlYHHNWLTWry"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157758,
+      "name": "Bin Tere",
+      "url": "https://open.spotify.com/track/7y4DczQ6h7g2DorzHxEHvj"
+    },
+    {
+      "album": {
         "name": "Bina Tere",
         "url": "https://open.spotify.com/album/4VI0RQSAieJ17zSKugPzJq"
       },
@@ -5152,7 +5204,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 155624,
       "name": "Can I Make You Coffee?",
       "url": "https://open.spotify.com/track/3DA14SrWKVaXAu9jTc9WiM"
@@ -8300,7 +8352,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 234000,
       "name": "Ek Haath Mein Teen Kangan",
       "url": "https://open.spotify.com/track/1K9bB7nZUVwd5EOrwJjHSK"
@@ -10495,6 +10547,28 @@
     },
     {
       "album": {
+        "name": "Ho Jayenge Ghum",
+        "url": "https://open.spotify.com/album/5ahqap8ClBewlqiLkmiO80"
+      },
+      "artists": [
+        {
+          "name": "Raghav & Arjun",
+          "url": "https://open.spotify.com/artist/6Q816hDJR1oJMAwQfn2Vot"
+        },
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228002,
+      "name": "Ho Jayenge Ghum",
+      "url": "https://open.spotify.com/track/0uiq5MHUD1rjpqYFsECubQ"
+    },
+    {
+      "album": {
         "name": "Ho Jo Tu Saamne Mere",
         "url": "https://open.spotify.com/album/1HZfKhqALlkOlGE6DxxDZd"
       },
@@ -11744,6 +11818,24 @@
     {
       "album": {
         "name": "Jaadugari",
+        "url": "https://open.spotify.com/album/0r6Tm9sQ4FEwryHcpsgZSt"
+      },
+      "artists": [
+        {
+          "name": "AMAN",
+          "url": "https://open.spotify.com/artist/2fbOTJal9uKzOkYEWxaiCK"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171932,
+      "name": "Jaadugari",
+      "url": "https://open.spotify.com/track/1EN4WMiQwUpEiuHkXzhKJk"
+    },
+    {
+      "album": {
+        "name": "Jaadugari",
         "url": "https://open.spotify.com/album/5sPUfdDzhZ6CC4umEbHJD8"
       },
       "artists": [
@@ -12150,7 +12242,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 211200,
       "name": "Jaane Jaana",
       "url": "https://open.spotify.com/track/29UbqMbxTL4j4b1ngud9eE"
@@ -15036,10 +15128,28 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 167142,
       "name": "Kho Na Jaana",
       "url": "https://open.spotify.com/track/6Uy3r5FioaMExYJUSHvypc"
+    },
+    {
+      "album": {
+        "name": "Kho Sa Gaya Hoon",
+        "url": "https://open.spotify.com/album/3QGif7T782Wl9lRA4Zx76N"
+      },
+      "artists": [
+        {
+          "name": "OutStation",
+          "url": "https://open.spotify.com/artist/1mPbly9dEPJVrAGPkkgAgH"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127578,
+      "name": "Kho Sa Gaya Hoon",
+      "url": "https://open.spotify.com/track/6f4j8tJbdca1JAjbxCpH3G"
     },
     {
       "album": {
@@ -18483,6 +18593,36 @@
     },
     {
       "album": {
+        "name": "Yours With Love",
+        "url": "https://open.spotify.com/album/7oouBOnCI783kJYmHZhdk2"
+      },
+      "artists": [
+        {
+          "name": "maahi",
+          "url": "https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Kalki",
+          "url": "https://open.spotify.com/artist/3bQQocqN6y43hFBAUPP5v5"
+        },
+        {
+          "name": "Devendra Dangi",
+          "url": "https://open.spotify.com/artist/00Rd0QgyKTupYWGE2eVoqd"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186479,
+      "name": "Marz - E - Dawa",
+      "url": "https://open.spotify.com/track/1o1kpJl4TuWaPBAsHTqfLa"
+    },
+    {
+      "album": {
         "name": "Mashhoor Banegi (Acoustic)",
         "url": "https://open.spotify.com/album/6JDVNb8vVMRHN5nARS6fuk"
       },
@@ -19428,7 +19568,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 338163,
       "name": "Miskeen",
       "url": "https://open.spotify.com/track/7Kynbh16vrD2HbCXkhF4A3"
@@ -21496,6 +21636,28 @@
       "duration_ms": 158400,
       "name": "O Re Saavan",
       "url": "https://open.spotify.com/track/5EXcMk9ZlC5UlDU4jSZsm1"
+    },
+    {
+      "album": {
+        "name": "O Ri Sakhi",
+        "url": "https://open.spotify.com/album/5z6qZlAKzm29zDtVazWMfm"
+      },
+      "artists": [
+        {
+          "name": "Aabha Hanjura",
+          "url": "https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P"
+        },
+        {
+          "name": "Khan Brothers",
+          "url": "https://open.spotify.com/artist/7CQUElcdptsAEXI3YGQ1Wd"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219596,
+      "name": "O Ri Sakhi",
+      "url": "https://open.spotify.com/track/18yjs7DmApG0CwkrWnO72q"
     },
     {
       "album": {
@@ -25922,7 +26084,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 172682,
       "name": "Saza",
       "url": "https://open.spotify.com/track/4WGdNExMWFLM24OFhVnYTx"
@@ -29338,7 +29500,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 173946,
       "name": "Tu Hai",
       "url": "https://open.spotify.com/track/0FXMgqU9FgWTPO7HikTmPB"
@@ -30190,6 +30352,32 @@
       "duration_ms": 219400,
       "name": "Tum",
       "url": "https://open.spotify.com/track/51O12zLJMmUwHwa8vbtlWO"
+    },
+    {
+      "album": {
+        "name": "Tum Dekho Na",
+        "url": "https://open.spotify.com/album/5KXEI4BL6XvbrvMcj73m71"
+      },
+      "artists": [
+        {
+          "name": "Akanksha Sethi",
+          "url": "https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16"
+        },
+        {
+          "name": "Sid Paul",
+          "url": "https://open.spotify.com/artist/0hA5srbpLWMvzdVbz4APZF"
+        },
+        {
+          "name": "Rishi Pathak",
+          "url": "https://open.spotify.com/artist/70ay8w6FiSddbDt3g8yFxM"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202235,
+      "name": "Tum Dekho Na",
+      "url": "https://open.spotify.com/track/6ZH04ETWQzPsj5Pl5SYNJf"
     },
     {
       "album": {

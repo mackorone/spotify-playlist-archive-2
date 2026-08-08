@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from FLO, ROLE MODEL, Sam Smith, Overmono and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,034,008 likes - 101 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,034,910 likes - 101 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 69 | [Love Was Made of Stone](https://open.spotify.com/track/5HXoQhJCu7Axg0J1pBsCj2) | [Brooke Combe](https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO) | [Love Was Made of Stone](https://open.spotify.com/album/3tog0SBGhLT15iGueL35qG) | 3:22 |
 | 70 | [Tears Always Burn](https://open.spotify.com/track/5eRigJE4gYutJ6YY0aZL10) | [effe](https://open.spotify.com/artist/2QHeMiKzNUpV7tFFqudKEX) | [Solder](https://open.spotify.com/album/1AOP1mX5RvuMl8tLm2ZKcw) | 2:58 |
 | 71 | [Trippin'](https://open.spotify.com/track/2Ny21sXPmwyuGo8owapVnc) | [Siân Owen](https://open.spotify.com/artist/3V078Un8f8Q8RPfCM78wA1), [EVA](https://open.spotify.com/artist/0v6LuGKJtBASsQuJVSf0K0) | [Trippin'](https://open.spotify.com/album/2pDb565HacRUhtO6hyaX6X) | 2:11 |
-| 72 | [Heaven Or Hell](https://open.spotify.com/track/21TnRdF00nrfWZvNrIIPM3) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [9PM](https://open.spotify.com/album/2zShexyWcmIH0BNvtqGnjw) | 2:43 |
+| 72 | [Heaven Or Hell](https://open.spotify.com/track/21TnRdF00nrfWZvNrIIPM3) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Reggie](https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X) | [9PM](https://open.spotify.com/album/2zShexyWcmIH0BNvtqGnjw) | 2:43 |
 | 73 | [I It Am](https://open.spotify.com/track/3jsvREipunn2DsqwsrHoND) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [I It Am](https://open.spotify.com/album/0N8ZyxwpcIzyjhhuOY2D8p) | 2:42 |
 | 74 | [Kit Kat Club](https://open.spotify.com/track/069KRt3LNYWB9Hc2l59xxf) | [The Mary Wallopers](https://open.spotify.com/artist/7aLfd5azGVKmim6H38mZk2) | [Kit Kat Club](https://open.spotify.com/album/5UfYCZB3Pz6SsBtswTXLuS) | 2:58 |
 | 75 | [Love Forever \(feat\. Kuuda\)](https://open.spotify.com/track/1TnejgU7YqwYrWRu2ZFxRU) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Kuuda](https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh) | [I Don't Think I Can Stop](https://open.spotify.com/album/0620dMBIpjeI61scHdp9w2) | 3:38 |
@@ -105,9 +105,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 95 | [If You Ever Loved Me](https://open.spotify.com/track/1RzL3slVvnwjo06s4rgM6x) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [If You Ever Loved Me](https://open.spotify.com/album/1H4V4rCppexGI2Ubqs1N8V) | 2:52 |
 | 96 | [NYC DOGS](https://open.spotify.com/track/66To4WM7nFcXJQGUTqgaA1) | [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr) | [NYC DOGS](https://open.spotify.com/album/3yWKyb68aC3Ls3x1uhONIH) | 3:29 |
 | 97 | [Who Needs Enemies?](https://open.spotify.com/track/3EHd4i4wNdNTjh548gIhQp) | [Kenzo Str8Drop](https://open.spotify.com/artist/4VjhEOxeofC025Or5TsoHh) | [Who Needs Enemies?](https://open.spotify.com/album/1V2O7qrx2perAPyjAzLRhs) | 2:28 |
-| 98 | [Track 9](https://open.spotify.com/track/1nmodCSw2Iny0LJcvbFq78) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0) | [Goodbye 2012!](https://open.spotify.com/album/3tQeF8yT6b0WYUUZG8KTyi) | 0:00 |
+| 98 | [heyyy](https://open.spotify.com/track/1nmodCSw2Iny0LJcvbFq78) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0), [Natalie Red](https://open.spotify.com/artist/38EW5PoQXJSd0tRuhmMbFL), [Ruby Bell](https://open.spotify.com/artist/3V8Eb1ys7e90m3eXLIWRSO) | [Goodbye 2012!](https://open.spotify.com/album/3tQeF8yT6b0WYUUZG8KTyi) | 3:02 |
 | 99 | [Enough](https://open.spotify.com/track/0S3DCTjldZXckGDMoL1Wwl) | [Saint Demarcus](https://open.spotify.com/artist/1daB5jM8z6ChuecR8f2QxP) | [Enough](https://open.spotify.com/album/6QRHis0g6Ii0xPtL67y3su) | 2:42 |
 | 100 | [Girly](https://open.spotify.com/track/0Ee9QZaqupZd1BctG6QKfk) | [Shafkkat](https://open.spotify.com/artist/4wt5o5QeGiPuMhOlCldmWd) | [In the Wind EP](https://open.spotify.com/album/2ggV7WqDQEsLbpbvwKgcIU) | 3:54 |
 | 101 | [Mercy!](https://open.spotify.com/track/3CsRiqVdvDY9rGQYlpqAM3) | [Tough Cookie](https://open.spotify.com/artist/7uLaDKp4v0Ne2AAJjJZ1ZQ) | [Mercy!](https://open.spotify.com/album/1yHliHWZkAZzXsLszy9rga) | 3:34 |
 
-Snapshot ID: `AAAAABerPF3pGUqx3AUzMmuTQ0s3IfbC`
+Snapshot ID: `AAAAANR3q/ng8cFTNHoNxJCy9zgqmFE6`

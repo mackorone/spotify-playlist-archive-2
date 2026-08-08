@@ -4,7 +4,7 @@
 
 > 
 
-567 songs - 1 day 12 hr 6 min
+568 songs - 1 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,6 +455,7 @@
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2023-11-14 |  |
 | [Still](https://open.spotify.com/track/3GHHAffcXFz36X313sC0mU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:07 | 2024-01-31 | 2024-05-02 |
 | [Still Feeling You](https://open.spotify.com/track/57gzVdCA75olmjHXISIs1B) | [Couch](https://open.spotify.com/artist/3nYyLjhw4mYzYfJePsCJYJ) | [COUCH](https://open.spotify.com/album/1mX8lHxL89mW3Fo7YqSbh5) | 3:11 | 2025-04-03 |  |
+| [Stop The Wedding!](https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Stop The Wedding!](https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc) | 3:18 | 2026-08-07 |  |
 | [Strawberry Wine](https://open.spotify.com/track/66wJkV0KgbGSBHkHDd8tp2) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 4:45 | 2024-01-31 |  |
 | [Stumbled on Sublime](https://open.spotify.com/track/2XV1D3Kw8HFrPDsy3pMlIp) | [Wyatt Stone](https://open.spotify.com/artist/357OqCPonQ1dkouDKvSA4G) | [Episode 1 – Come and Get It \(Amazon Original Series\)](https://open.spotify.com/album/2KBIXYhRFWQsefg327wVVn) | 2:36 | 2023-03-07 |  |
 | [Style \(Taylor's Version\)](https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:51 | 2023-10-27 | 2025-03-08 |

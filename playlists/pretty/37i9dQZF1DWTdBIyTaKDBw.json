@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the lo-fi beat with oriental colors.",
-  "num_followers": 29704,
+  "num_followers": 29728,
   "original_name": "oriental lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANyELQUj5AVPKTLBfx1eQDbzCDqy",
+  "snapshot_id": "AAAAALBh+l38ajwjwxLE+VYJ4qG9Fl5U",
   "tracks": [
     {
       "added_at": "2026-06-29 08:21:08",
@@ -295,18 +295,22 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Cold Thoughts",
-        "url": "https://open.spotify.com/album/3ZBkNWJe9esw2UmDK3klR3"
+        "name": "Soul Mates",
+        "url": "https://open.spotify.com/album/0FlFKikrKvQwyWgkItuS4S"
       },
       "artists": [
         {
-          "name": "Nothingtosay",
-          "url": "https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA"
+          "name": "Jazzinuf",
+          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
+        },
+        {
+          "name": "Etymology Records",
+          "url": "https://open.spotify.com/artist/6sHwGhhYxjbUEiT06hnt20"
         }
       ],
-      "duration_ms": 146675,
-      "name": "The Dawn",
-      "url": "https://open.spotify.com/track/0aZ00bASQBIz6MmnH9rjdt"
+      "duration_ms": 96343,
+      "name": "Soul Mates",
+      "url": "https://open.spotify.com/track/7pFRhCj70NUNZG4xMDEQj8"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -343,22 +347,18 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Soul Mates",
-        "url": "https://open.spotify.com/album/0FlFKikrKvQwyWgkItuS4S"
+        "name": "Cold Thoughts",
+        "url": "https://open.spotify.com/album/3ZBkNWJe9esw2UmDK3klR3"
       },
       "artists": [
         {
-          "name": "Jazzinuf",
-          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
-        },
-        {
-          "name": "Etymology Records",
-          "url": "https://open.spotify.com/artist/6sHwGhhYxjbUEiT06hnt20"
+          "name": "Nothingtosay",
+          "url": "https://open.spotify.com/artist/53xwq54syWZgXoordzYUnA"
         }
       ],
-      "duration_ms": 96343,
-      "name": "Soul Mates",
-      "url": "https://open.spotify.com/track/7pFRhCj70NUNZG4xMDEQj8"
+      "duration_ms": 146675,
+      "name": "The Dawn",
+      "url": "https://open.spotify.com/track/0aZ00bASQBIz6MmnH9rjdt"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
+        "name": "Chillhop Essentials Spring 2017",
+        "url": "https://open.spotify.com/album/0Mr3TYA4sKQVPUeQp16Q7i"
+      },
+      "artists": [
+        {
+          "name": "Gyvus",
+          "url": "https://open.spotify.com/artist/6qNRi3Mn9apPNnMSt6Qbvn"
+        }
+      ],
+      "duration_ms": 152812,
+      "name": "Koi",
+      "url": "https://open.spotify.com/track/5zaVUfHKidYZ8xIsDOnWl6"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
         "name": "Yokai",
         "url": "https://open.spotify.com/album/10hDUaGD1vcvRuhWHSwo7r"
       },
@@ -415,22 +431,6 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Chillhop Essentials Spring 2017",
-        "url": "https://open.spotify.com/album/0Mr3TYA4sKQVPUeQp16Q7i"
-      },
-      "artists": [
-        {
-          "name": "Gyvus",
-          "url": "https://open.spotify.com/artist/6qNRi3Mn9apPNnMSt6Qbvn"
-        }
-      ],
-      "duration_ms": 152812,
-      "name": "Koi",
-      "url": "https://open.spotify.com/track/5zaVUfHKidYZ8xIsDOnWl6"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
         "name": "Around the World",
         "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
       },
@@ -443,22 +443,6 @@
       "duration_ms": 264000,
       "name": "Shanghai Nights",
       "url": "https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
-        "name": "Sleeping Soul",
-        "url": "https://open.spotify.com/album/0ke8WCdALew5qZUPHsgScT"
-      },
-      "artists": [
-        {
-          "name": "Tenno",
-          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
-        }
-      ],
-      "duration_ms": 204090,
-      "name": "Breathing Stone",
-      "url": "https://open.spotify.com/track/2ybaJ0ASch1Gz2fhX0gi9q"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -479,6 +463,22 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
+        "name": "Sleeping Soul",
+        "url": "https://open.spotify.com/album/0ke8WCdALew5qZUPHsgScT"
+      },
+      "artists": [
+        {
+          "name": "Tenno",
+          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
+        }
+      ],
+      "duration_ms": 204090,
+      "name": "Breathing Stone",
+      "url": "https://open.spotify.com/track/2ybaJ0ASch1Gz2fhX0gi9q"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
       },
@@ -491,26 +491,6 @@
       "duration_ms": 215066,
       "name": "path of the wind",
       "url": "https://open.spotify.com/track/0ovVhnQz8l1HfVl94qxtuC"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
-        "name": "Back to Nature",
-        "url": "https://open.spotify.com/album/5ESQzoS4zCbmBIXv56FGLo"
-      },
-      "artists": [
-        {
-          "name": "Lawrence Walther",
-          "url": "https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME"
-        },
-        {
-          "name": "Solar Body",
-          "url": "https://open.spotify.com/artist/74xLamiAg7I4qmr2XsOddO"
-        }
-      ],
-      "duration_ms": 139636,
-      "name": "Tiger Lily",
-      "url": "https://open.spotify.com/track/4h3KM0HdN1xnYexB7zCIjG"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -535,18 +515,22 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/5NyRXPU0MbwycaSqq75IlV"
+        "name": "Back to Nature",
+        "url": "https://open.spotify.com/album/5ESQzoS4zCbmBIXv56FGLo"
       },
       "artists": [
         {
-          "name": "Tenno",
-          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
+          "name": "Lawrence Walther",
+          "url": "https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME"
+        },
+        {
+          "name": "Solar Body",
+          "url": "https://open.spotify.com/artist/74xLamiAg7I4qmr2XsOddO"
         }
       ],
-      "duration_ms": 169714,
-      "name": "Journey",
-      "url": "https://open.spotify.com/track/2pAPo7r9woX5AwLDNzAgaV"
+      "duration_ms": 139636,
+      "name": "Tiger Lily",
+      "url": "https://open.spotify.com/track/4h3KM0HdN1xnYexB7zCIjG"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -563,6 +547,22 @@
       "duration_ms": 168168,
       "name": "One Summer's Day",
       "url": "https://open.spotify.com/track/5gmwxFfSGC5s3xzGj8Om0k"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/5NyRXPU0MbwycaSqq75IlV"
+      },
+      "artists": [
+        {
+          "name": "Tenno",
+          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
+        }
+      ],
+      "duration_ms": 169714,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/2pAPo7r9woX5AwLDNzAgaV"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Legends of the Past",
-        "url": "https://open.spotify.com/album/7ezKJVdp9kzLZZfpzPZ8w3"
-      },
-      "artists": [
-        {
-          "name": "Tenno",
-          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "Torii Road",
-      "url": "https://open.spotify.com/track/6U4InR48CmnV8jhCCx9JNN"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 172564,
       "name": "one day in japan",
       "url": "https://open.spotify.com/track/3d5sFXzamm1Bak74pl1eU9"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
+        "name": "Legends of the Past",
+        "url": "https://open.spotify.com/album/7ezKJVdp9kzLZZfpzPZ8w3"
+      },
+      "artists": [
+        {
+          "name": "Tenno",
+          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "Torii Road",
+      "url": "https://open.spotify.com/track/6U4InR48CmnV8jhCCx9JNN"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
+        "name": "Motorbikes in Sapa",
+        "url": "https://open.spotify.com/album/4onanIVOs3bvuBSm5G3Xeo"
+      },
+      "artists": [
+        {
+          "name": "Kalaido",
+          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
+        }
+      ],
+      "duration_ms": 172288,
+      "name": "Motorbikes in Sapa",
+      "url": "https://open.spotify.com/track/4bhRjJyGSpVzNF8A1t46aP"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
         "name": "Legends of the Past",
         "url": "https://open.spotify.com/album/7ezKJVdp9kzLZZfpzPZ8w3"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 176222,
       "name": "22 Samurai",
       "url": "https://open.spotify.com/track/1ApKMc4Rbzb77dqpcYMY0s"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
-        "name": "Motorbikes in Sapa",
-        "url": "https://open.spotify.com/album/4onanIVOs3bvuBSm5G3Xeo"
-      },
-      "artists": [
-        {
-          "name": "Kalaido",
-          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
-        }
-      ],
-      "duration_ms": 172288,
-      "name": "Motorbikes in Sapa",
-      "url": "https://open.spotify.com/track/4bhRjJyGSpVzNF8A1t46aP"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
+        "name": "Moonlit Tales",
+        "url": "https://open.spotify.com/album/6Meo6NJgk9I5t4SwKJ0r0h"
+      },
+      "artists": [
+        {
+          "name": "Kalaido",
+          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
+        }
+      ],
+      "duration_ms": 198254,
+      "name": "In the Roses",
+      "url": "https://open.spotify.com/track/45xP2REQXM1uz8HhuPxJmO"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
         "name": "Blissful Dreams",
         "url": "https://open.spotify.com/album/5anH0TBW23a2TLf1ClYBfd"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 192407,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/2XmEDW2SUbYYt5o2cxSEz4"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
-        "name": "Moonlit Tales",
-        "url": "https://open.spotify.com/album/6Meo6NJgk9I5t4SwKJ0r0h"
-      },
-      "artists": [
-        {
-          "name": "Kalaido",
-          "url": "https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8"
-        }
-      ],
-      "duration_ms": 198254,
-      "name": "In the Roses",
-      "url": "https://open.spotify.com/track/45xP2REQXM1uz8HhuPxJmO"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/3YSKRZj2fgC56dEaUkSeMV"
+      },
+      "artists": [
+        {
+          "name": "Kerusu",
+          "url": "https://open.spotify.com/artist/2Ckfavq6yKfTznirabm1L8"
+        }
+      ],
+      "duration_ms": 228857,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/6T2O4OFeCTr8BwHrWwugLr"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
         "name": "New Beginnings",
         "url": "https://open.spotify.com/album/31VMZGfuUcn72p2Phw9reC"
       },
@@ -951,18 +967,18 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/3YSKRZj2fgC56dEaUkSeMV"
+        "name": "Orchid",
+        "url": "https://open.spotify.com/album/4dlomvtgamB44rvu30eWwv"
       },
       "artists": [
         {
-          "name": "Kerusu",
-          "url": "https://open.spotify.com/artist/2Ckfavq6yKfTznirabm1L8"
+          "name": "Shao Rong",
+          "url": "https://open.spotify.com/artist/6IhSYfuEsuKw2LNOzJ5O4R"
         }
       ],
-      "duration_ms": 228857,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/6T2O4OFeCTr8BwHrWwugLr"
+      "duration_ms": 279760,
+      "name": "Wild Rose",
+      "url": "https://open.spotify.com/track/7vZCViayCZr9sDFJbg5xh5"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -983,22 +999,6 @@
       "duration_ms": 139107,
       "name": "Koto Memories",
       "url": "https://open.spotify.com/track/7D4x4iimJWUwWplPdrQndB"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
-        "name": "Orchid",
-        "url": "https://open.spotify.com/album/4dlomvtgamB44rvu30eWwv"
-      },
-      "artists": [
-        {
-          "name": "Shao Rong",
-          "url": "https://open.spotify.com/artist/6IhSYfuEsuKw2LNOzJ5O4R"
-        }
-      ],
-      "duration_ms": 279760,
-      "name": "Wild Rose",
-      "url": "https://open.spotify.com/track/7vZCViayCZr9sDFJbg5xh5"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Vanishing Journey",
-        "url": "https://open.spotify.com/album/3oGLMzJCwhyBqy50CHoMwP"
-      },
-      "artists": [
-        {
-          "name": "Elijah Lee",
-          "url": "https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu"
-        }
-      ],
-      "duration_ms": 146925,
-      "name": "Night Drive",
-      "url": "https://open.spotify.com/track/33kQJiqhOOSkfs7dz3SQ1O"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
         "name": "The Shining Kingdom",
         "url": "https://open.spotify.com/album/0excbd15wol5jubCPOyTrT"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 139650,
       "name": "Yakamoz",
       "url": "https://open.spotify.com/track/5dhK3ux1ocYcxICMKtUwg1"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
+        "name": "Vanishing Journey",
+        "url": "https://open.spotify.com/album/3oGLMzJCwhyBqy50CHoMwP"
+      },
+      "artists": [
+        {
+          "name": "Elijah Lee",
+          "url": "https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu"
+        }
+      ],
+      "duration_ms": 146925,
+      "name": "Night Drive",
+      "url": "https://open.spotify.com/track/33kQJiqhOOSkfs7dz3SQ1O"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
-      },
-      "artists": [
-        {
-          "name": "aekasora",
-          "url": "https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa"
-        }
-      ],
-      "duration_ms": 221832,
-      "name": "rainy day",
-      "url": "https://open.spotify.com/track/4qYZhVhOrj1SeuHbVAZJqj"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
         "name": "Answer Love",
         "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
       },
@@ -1411,6 +1395,22 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
+      },
+      "artists": [
+        {
+          "name": "aekasora",
+          "url": "https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa"
+        }
+      ],
+      "duration_ms": 221832,
+      "name": "rainy day",
+      "url": "https://open.spotify.com/track/4qYZhVhOrj1SeuHbVAZJqj"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
         "name": "Autumn in Osaka",
         "url": "https://open.spotify.com/album/3HaMbxX4Ywec6NLXexpMuw"
       },
@@ -1423,22 +1423,6 @@
       "duration_ms": 160800,
       "name": "Autumn in Osaka",
       "url": "https://open.spotify.com/track/1XsgXYvkeYaKquLQY9m8dO"
-    },
-    {
-      "added_at": "2026-06-29 08:21:08",
-      "album": {
-        "name": "Flying Petals",
-        "url": "https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A"
-      },
-      "artists": [
-        {
-          "name": "Tido Kang",
-          "url": "https://open.spotify.com/artist/49daIKDRlPMp7kGetJ2yVE"
-        }
-      ],
-      "duration_ms": 184600,
-      "name": "Inevitability",
-      "url": "https://open.spotify.com/track/53wi2Eu0aciGfOftKUCi4R"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2026-06-29 08:21:08",
       "album": {
-        "name": "Daichi",
-        "url": "https://open.spotify.com/album/2UIUb5zqUqtHZS1HDz0I3y"
+        "name": "Flying Petals",
+        "url": "https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A"
       },
       "artists": [
         {
-          "name": "JazzyCal",
-          "url": "https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd"
+          "name": "Tido Kang",
+          "url": "https://open.spotify.com/artist/49daIKDRlPMp7kGetJ2yVE"
         }
       ],
-      "duration_ms": 118035,
-      "name": "Daichi",
-      "url": "https://open.spotify.com/track/11Mjbc6OAMVjEKsfnDI0R2"
+      "duration_ms": 184600,
+      "name": "Inevitability",
+      "url": "https://open.spotify.com/track/53wi2Eu0aciGfOftKUCi4R"
     },
     {
       "added_at": "2026-06-29 08:21:08",
@@ -1527,6 +1511,22 @@
       "duration_ms": 281739,
       "name": "Torimichi",
       "url": "https://open.spotify.com/track/1kD08WYSwIYlA586nKbPgs"
+    },
+    {
+      "added_at": "2026-06-29 08:21:08",
+      "album": {
+        "name": "Daichi",
+        "url": "https://open.spotify.com/album/2UIUb5zqUqtHZS1HDz0I3y"
+      },
+      "artists": [
+        {
+          "name": "JazzyCal",
+          "url": "https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd"
+        }
+      ],
+      "duration_ms": 118035,
+      "name": "Daichi",
+      "url": "https://open.spotify.com/track/11Mjbc6OAMVjEKsfnDI0R2"
     },
     {
       "added_at": "2026-06-29 08:21:08",

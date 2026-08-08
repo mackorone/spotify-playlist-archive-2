@@ -4,7 +4,7 @@
 
 > roots run deep with Charles Wesley Godwin
 
-492 songs - 1 day 5 hr 30 min
+493 songs - 1 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,6 +434,7 @@
 | [The Man He Sees in Me](https://open.spotify.com/track/4MXzdffMz78GLlLM7mDa9v) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 2:45 | 2024-09-13 |  |
 | [The Medicine Will](https://open.spotify.com/track/6wNrsAy7zzXWadJLNCvf6k) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Son Of The Mountains: The First Four Tracks](https://open.spotify.com/album/1lk9TilfdJzp9dIpPSyl4D) | 4:09 | 2023-09-29 | 2023-12-09 |
 | [The Moon \(feat\. Hillary Lindsey & Lori McKenna\)](https://open.spotify.com/track/505B8PAcsjCpntbYFp3Mrb) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [History of Heartbreak](https://open.spotify.com/album/1xYOjjl7ahWGn65D9j9uGe) | 4:18 | 2024-01-05 | 2024-02-10 |
+| [The More I Hope](https://open.spotify.com/track/5jcS2jxv5IhNr6DenoBTi0) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Broken View](https://open.spotify.com/album/6tDWxFwFa678P6qTiuyUqg) | 4:06 | 2026-08-07 |  |
 | [The Prodigal](https://open.spotify.com/track/3ui3UHjpXpWiQjoLwuENB8) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [The Prodigal](https://open.spotify.com/album/6hHKMT1KggeWWTr6N2JQPr) | 3:13 | 2024-01-18 | 2026-01-17 |
 | [The Sick](https://open.spotify.com/track/18d1pubaNYUpaKIeSoxPFA) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [The Sick](https://open.spotify.com/album/0nkCKW79JSfRkqpPvz9lPs) | 3:15 | 2025-08-15 |  |
 | [Things I Take For Granted](https://open.spotify.com/track/2d3KkBpDlOCLT5Wlhrwhfd) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Earned It](https://open.spotify.com/album/182iKgpkS0r9XZDsjojCTP) | 3:26 | 2024-05-10 |  |

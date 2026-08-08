@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 
 > This is Chuck Berry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,073 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,076 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 | 13 | [Reelin' And Rockin'](https://open.spotify.com/track/4goByJ8dubc57qxiT7AH9p) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [One Dozen Berry's](https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ) | 3:15 |
 | 14 | [Carol](https://open.spotify.com/track/41ADUIxv4MkkWi7kgaZMrH) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:48 |
 | 15 | [Memphis, Tennessee](https://open.spotify.com/track/3UYtylPa55RqHS1YDGZoLs) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry On Stage \(Expanded Edition\)](https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV) | 2:11 |
-| 16 | [Back In The U.S.A.](https://open.spotify.com/track/114gCJP9NGrrs5gjPU8RTi) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry Twist](https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx) | 2:26 |
-| 17 | [Oh Louisiana](https://open.spotify.com/track/0j4srnVsqW8qXpZ5zlwzoI) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [San Francisco Dues](https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR) | 4:30 |
+| 16 | [Oh Louisiana](https://open.spotify.com/track/0j4srnVsqW8qXpZ5zlwzoI) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [San Francisco Dues](https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR) | 4:30 |
+| 17 | [Back In The U.S.A.](https://open.spotify.com/track/114gCJP9NGrrs5gjPU8RTi) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry Twist](https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx) | 2:26 |
 | 18 | [Little Queenie](https://open.spotify.com/track/0OA0lBeSRzpXyAbv8iTXw6) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:43 |
 | 19 | [My Mustang Ford](https://open.spotify.com/track/0IHYNEHVT1zMEeNOgvyg9B) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Fresh Berry's](https://open.spotify.com/album/02JS9znmNXHp24jyQaimL6) | 2:16 |
 | 20 | [Bye Bye Johnny](https://open.spotify.com/track/6qIMhhXZckFxcWLzevDQaz) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rockin' At The Hops](https://open.spotify.com/album/48jzxU4WCz6726keexOGoe) | 2:02 |
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dAid2.md) - [plain]
 | 35 | [San Francisco Dues](https://open.spotify.com/track/2ksmbGi6N2xe3ToE6V7rsd) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [San Francisco Dues](https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR) | 3:25 |
 | 36 | [No Money Down](https://open.spotify.com/track/6RpRXXv69SeNcRqScvyd0F) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 2:57 |
 | 37 | [Go Go Go](https://open.spotify.com/track/7n6DqQOYC6iMvMh9UESzq7) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry On Stage \(Expanded Edition\)](https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV) | 2:31 |
-| 38 | [Dear Dad \- Single Version](https://open.spotify.com/track/6b27e8J1dUre0H9xBM9rvs) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry In London](https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW) | 1:49 |
-| 39 | [Down The Road Apiece](https://open.spotify.com/track/40CEDufMDlElkfyBvWUtsE) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rockin' At The Hops](https://open.spotify.com/album/48jzxU4WCz6726keexOGoe) | 2:10 |
+| 38 | [Down The Road Apiece](https://open.spotify.com/track/40CEDufMDlElkfyBvWUtsE) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rockin' At The Hops](https://open.spotify.com/album/48jzxU4WCz6726keexOGoe) | 2:10 |
+| 39 | [Dear Dad \- Single Version](https://open.spotify.com/track/6b27e8J1dUre0H9xBM9rvs) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry In London](https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW) | 1:49 |
 | 40 | [Little Marie](https://open.spotify.com/track/3Hh5o5GUOveghI5l7DrvgT) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:35 |
 | 41 | [Wee Wee Hours](https://open.spotify.com/track/2Fv6Dka7LJKU6U5X1cMTzC) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Hail! Hail! Rock 'N' Roll](https://open.spotify.com/album/3vbjfGvgC1nMGmpBPdDuOV) | 5:14 |
 | 42 | [Viva Viva Rock 'N' Roll](https://open.spotify.com/track/32KddGW46wnlpKbl62gqca) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [San Francisco Dues](https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR) | 2:02 |
-| 43 | [House Of Blue Lights](https://open.spotify.com/track/0iVcJZ8bjL82406m2og7Df) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Blues](https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey) | 2:26 |
+| 43 | [I Got To Find My Baby \- Single Version](https://open.spotify.com/track/5qojkHvPBrbT0Z7SAgYboD) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rockin' At The Hops](https://open.spotify.com/album/48jzxU4WCz6726keexOGoe) | 2:12 |
 | 44 | [Go Bobby Soxer](https://open.spotify.com/track/4thIUA9RxwUcsjiUVo33Lt) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:58 |
-| 45 | [I Got To Find My Baby \- Single Version](https://open.spotify.com/track/5qojkHvPBrbT0Z7SAgYboD) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rockin' At The Hops](https://open.spotify.com/album/48jzxU4WCz6726keexOGoe) | 2:12 |
+| 45 | [House Of Blue Lights](https://open.spotify.com/track/0iVcJZ8bjL82406m2og7Df) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Blues](https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey) | 2:26 |
 | 46 | [I'm Talking About You](https://open.spotify.com/track/4Qz94VdIvKAmtBIyuoAZW9) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [New Juke Box Hits](https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH) | 1:48 |
 | 47 | [Downbound Train](https://open.spotify.com/track/4q0J9IdCJ7l8YjNNxp4UZL) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [After School Session](https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH) | 2:49 |
 | 48 | [You Two](https://open.spotify.com/track/3TuiKidTSxOK2bk9RPhrpN) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:09 |
 | 49 | [St\. Louis Blues](https://open.spotify.com/track/0tsgFZdGoCVMeaXVmnrWbF) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck Berry In London](https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW) | 2:37 |
 | 50 | [All The Things You Are](https://open.spotify.com/track/1wTYxyqQgg4dtZkPicv2Mf) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR), [Oscar Pettiford](https://open.spotify.com/artist/12tEk7MWJdbc4V5wcc7UQS) | [Harlem Station](https://open.spotify.com/album/2CnAPOhQWSDvFfp5syKHFu) | 2:55 |
 
-Snapshot ID: `anJ9AAAAAABMCLQxxwCZbnhN/JfA0RMh`
+Snapshot ID: `anPOgAAAAABiO26sHQF3VLhfD0DQgNDJ`

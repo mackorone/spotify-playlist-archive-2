@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 
 > This is Ghost\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,019 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,042 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 | 10 | [Peacefield](https://open.spotify.com/track/5LA5Qhk8UYBHBaqjwqtHDz) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX) | 5:40 |
 | 11 | [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 |
 | 12 | [Darkness At The Heart Of My Love](https://open.spotify.com/track/6vXceKic4ACImU0bC3oecd) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 4:58 |
-| 13 | [Life Eternal](https://open.spotify.com/track/5fXQmRFO1CDN04HtUVNCUh) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 3:27 |
+| 13 | [Rats](https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 4:21 |
 | 14 | [Umbra](https://open.spotify.com/track/0tnJnhssxtg6CpMysvbkX4) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX) | 5:31 |
 | 15 | [Cirice](https://open.spotify.com/track/3ZXZ9RMsznqgyHnyq0K5FL) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 6:02 |
 | 16 | [Hunter’s Moon](https://open.spotify.com/track/2jfQ2g1q0w8tbjN46rLpr2) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 3:16 |
-| 17 | [Rats](https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 4:21 |
+| 17 | [Life Eternal](https://open.spotify.com/track/5fXQmRFO1CDN04HtUVNCUh) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 3:27 |
 | 18 | [Marks Of The Evil One](https://open.spotify.com/track/4v7LlPFQvjgZKP3bBnfFjR) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX) | 4:15 |
 | 19 | [The Future Is A Foreign Land](https://open.spotify.com/track/1OQxJiHrr5HAmTaqAhn39c) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [The Future Is A Foreign Land](https://open.spotify.com/album/6jSNCcxIIB0ccyTgOJ2y1F) | 3:45 |
 | 20 | [Griftwood](https://open.spotify.com/track/74gUN3LUQhqzfTLAP09ejk) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 5:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 | 49 | [Missionary Man](https://open.spotify.com/track/1YOaQUUsEzMbxk1sfmoNVE) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 3:42 |
 | 50 | [Spirit](https://open.spotify.com/track/6NlyLv5ytvhE4xOWN47V0g) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 5:15 |
 
-Snapshot ID: `anJ9AAAAAABupG60upz7Iqy+Af7dpNIm`
+Snapshot ID: `anPOgAAAAAA6D+Ut4H8/U8X2ttB2SG6p`

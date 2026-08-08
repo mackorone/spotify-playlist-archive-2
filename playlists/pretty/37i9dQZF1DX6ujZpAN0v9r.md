@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Slowdive on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 700,547 likes - 156 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 700,605 likes - 156 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,13 +87,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 77 | [Evergreen](https://open.spotify.com/track/4lfvvWKfZrC0VZcxOCp521) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Methodrone](https://open.spotify.com/album/1iTcRHmVM0lioMXy9EK7ka) | 3:24 |
 | 78 | [Under the Sun](https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR) | 3:46 |
 | 79 | [Blue Line Baby](https://open.spotify.com/track/24pzZtbPLW1bv6IF8WHl5U) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Blue Line Baby](https://open.spotify.com/album/7kHUFjQmaulpVgXQWTQFmj) | 4:30 |
-| 80 | [Just Like Honey](https://open.spotify.com/track/4E6YM4V7Kz6zpbiNsliwEl) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy](https://open.spotify.com/album/2YUNV2XbvydCwHLTpBV5A0) | 3:03 |
-| 81 | [Lazuli](https://open.spotify.com/track/0Fc8hmAuH0rHYq2Ur9t07Y) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/5k565ga9B9EJqLyCatmrt0) | 5:01 |
+| 80 | [Lazuli](https://open.spotify.com/track/0Fc8hmAuH0rHYq2Ur9t07Y) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/5k565ga9B9EJqLyCatmrt0) | 5:01 |
+| 81 | [Just Like Honey](https://open.spotify.com/track/4E6YM4V7Kz6zpbiNsliwEl) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy](https://open.spotify.com/album/2YUNV2XbvydCwHLTpBV5A0) | 3:03 |
 | 82 | [Bout des doigts](https://open.spotify.com/track/5RQ2HMjTOBJOWK9Me6cpsy) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Bout des doigts](https://open.spotify.com/album/1s16vFypthYKIcJwhgDeUm) | 7:06 |
 | 83 | [Turn Into](https://open.spotify.com/track/0iIZNAtdihZR65sTst3KgZ) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Turn Into](https://open.spotify.com/album/3hGEiHWq02qRrTIWqJrk7U) | 3:23 |
 | 84 | [Breather](https://open.spotify.com/track/0ZNj4TIIcZwrAI1l7GgZMT) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \- The Original Recordings](https://open.spotify.com/album/2eq2u7XWepjSNsf1YYUgb0) | 4:32 |
-| 85 | [23](https://open.spotify.com/track/4HIwL9ii9CcXpTOTzMq0MP) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/3CRBMstrlbZNVWQjahQACl) | 5:18 |
-| 86 | [Dark Spring](https://open.spotify.com/track/6PGrkeJpDpgiFLvgKYD489) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/4qftBBO7pnYlek3mRENIvM) | 3:24 |
+| 85 | [Dark Spring](https://open.spotify.com/track/6PGrkeJpDpgiFLvgKYD489) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/4qftBBO7pnYlek3mRENIvM) | 3:24 |
+| 86 | [23](https://open.spotify.com/track/4HIwL9ii9CcXpTOTzMq0MP) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/3CRBMstrlbZNVWQjahQACl) | 5:18 |
 | 87 | [Surrender](https://open.spotify.com/track/3tReSRWbwfsW9IG6Mbh9rH) | [Leave the Planet](https://open.spotify.com/artist/6vW6YgP4ZCF8wED7yAuQyk) | [Nowhere](https://open.spotify.com/album/7x0NFDxaSlSr5LTmunM7zo) | 3:39 |
 | 88 | [Tugboat](https://open.spotify.com/track/6iMDFMjepxLshlWqW7cKgb) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [Today \(Deluxe Edition\)](https://open.spotify.com/album/6xHl53sZW2mcFOvY0GbXvB) | 3:54 |
 | 89 | [Not Too Soon](https://open.spotify.com/track/24uLzsXLUsg1PIIxPxJrhJ) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [The Real Ramona](https://open.spotify.com/album/5g52sH6fashPtboffeqjlZ) | 3:10 |
@@ -103,18 +103,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 93 | [Thoughtforms \- 2nd Version](https://open.spotify.com/track/7ARIbfiiJA4nyuXyXsGxJL) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Gala](https://open.spotify.com/album/11hFygy8xLDCeECJEDnNEK) | 2:47 |
 | 94 | [Sword In the Stone](https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz) | [Gnoomes](https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII) | [MU!](https://open.spotify.com/album/3Rgbbvxh8XdL32bJhyQqOY) | 3:28 |
 | 95 | [In Your Room](https://open.spotify.com/track/7l5XWtUfIclO2xCTFvts8V) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Winks & Kisses: Melted](https://open.spotify.com/album/3WG7osXmDwUsMt3QGNoYll) | 9:26 |
-| 96 | [The Perfect Needle](https://open.spotify.com/track/2ZyKEtawyPdYXQG0U2SAYy) | [The Telescopes](https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J) | [Taste + The Perfect Needle EP](https://open.spotify.com/album/4SXZL0la3HRhgBjTkUYlzW) | 3:28 |
-| 97 | [Souvenirs d'un autre monde](https://open.spotify.com/track/1ZdDjrw2wdX2Ehe7J6GQr3) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Souvenirs d'un autre monde](https://open.spotify.com/album/5wmBTIuYVQ9hbCZuVxLNxf) | 6:08 |
+| 96 | [Souvenirs d'un autre monde](https://open.spotify.com/track/1ZdDjrw2wdX2Ehe7J6GQr3) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Souvenirs d'un autre monde](https://open.spotify.com/album/5wmBTIuYVQ9hbCZuVxLNxf) | 6:08 |
+| 97 | [The Perfect Needle](https://open.spotify.com/track/2ZyKEtawyPdYXQG0U2SAYy) | [The Telescopes](https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J) | [Taste + The Perfect Needle EP](https://open.spotify.com/album/4SXZL0la3HRhgBjTkUYlzW) | 3:28 |
 | 98 | [Reverence](https://open.spotify.com/track/2ox2saGAHVx9mhjk8WH50K) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Honey's Dead](https://open.spotify.com/album/1hsluRV3WUPpeSXSdSL5HF) | 3:40 |
 | 99 | [Sure \- Robin Guthrie remix](https://open.spotify.com/track/5n23n1Vd5din4eKMjpbKQ0) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Sure \(Robin Guthrie remix\)](https://open.spotify.com/album/7y9l93Ik2ULQWNZi5v2QSq) | 4:08 |
 | 100 | [Molten Young Lovers](https://open.spotify.com/track/5uu6X7Fs4fkoKSRo7zDXAf) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Molten Young Lovers](https://open.spotify.com/album/5ZyewodnhW2uWCuNH83gP7) | 4:39 |
-| 101 | [Love Comes In Waves](https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [Love Comes In Waves](https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR) | 4:48 |
-| 102 | [Autre temps](https://open.spotify.com/track/38cEFxU4h05Aa0BgzWrNyy) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Les voyages de l'âme](https://open.spotify.com/album/1y9zL8o1XLnLsiDzoC7v0O) | 5:50 |
+| 101 | [Autre temps](https://open.spotify.com/track/38cEFxU4h05Aa0BgzWrNyy) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Les voyages de l'âme](https://open.spotify.com/album/1y9zL8o1XLnLsiDzoC7v0O) | 5:50 |
+| 102 | [Love Comes In Waves](https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [Love Comes In Waves](https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR) | 4:48 |
 | 103 | [Staring At The Sun](https://open.spotify.com/track/3XtFDis6KnAOopdjnUmI1k) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [Staring At The Sun](https://open.spotify.com/album/3vANqWkHEdIeiuTgqFYikr) | 7:27 |
 | 104 | [Sight of You](https://open.spotify.com/track/2XMwak0QKaukNo502mcufY) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [The Comforts of Madness](https://open.spotify.com/album/0nIWyOR3JgBnVsJgKQxyWt) | 5:37 |
 | 105 | [What Lies Beneath](https://open.spotify.com/track/6HwfqB8ajWFaHyQGxO0Z9g) | [Life On Venus](https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE) | [Departure](https://open.spotify.com/album/6PlC1gFl7hLSY6ylKbxwKf) | 3:53 |
-| 106 | [Skin Game](https://open.spotify.com/track/2Paii6qKa1C0AKWLFnruFy) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Skin Game](https://open.spotify.com/album/3Vg9mkJSyq18e3ASkYfGaU) | 4:25 |
-| 107 | [Into the Waves](https://open.spotify.com/track/0rfq7oha0S0Pd1Ym3n7TX7) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Shelter \(Deluxe Edition\)](https://open.spotify.com/album/5iI0bG6kr3Nzlqu1fdHKCC) | 6:30 |
+| 106 | [Into the Waves](https://open.spotify.com/track/0rfq7oha0S0Pd1Ym3n7TX7) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Shelter \(Deluxe Edition\)](https://open.spotify.com/album/5iI0bG6kr3Nzlqu1fdHKCC) | 6:30 |
+| 107 | [Skin Game](https://open.spotify.com/track/2Paii6qKa1C0AKWLFnruFy) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Skin Game](https://open.spotify.com/album/3Vg9mkJSyq18e3ASkYfGaU) | 4:25 |
 | 108 | [One](https://open.spotify.com/track/5tC9wEYsOylv7aXeXCRaL3) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Mild Orange](https://open.spotify.com/album/0cHGTDM93EWsLKxwiUzpPF) | 4:11 |
 | 109 | [Lovely Times](https://open.spotify.com/track/4YGPKyLmAkUEBNIcEWnAMV) | [Suburban Living](https://open.spotify.com/artist/3ZOX2dQRZEB6qADJd4emx2) | [Almost Paradise](https://open.spotify.com/album/54wd1Hh4e1z8tApOoHdM6j) | 4:17 |
 | 110 | [We’re Not Done \(End Title\)](https://open.spotify.com/track/58jGSwikO2NbCICODjZnrG) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [We’re Not Done \(End Title\)](https://open.spotify.com/album/5TiqFCkjE75V7spbHqJyt5) | 4:14 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 155 | [Ordeal](https://open.spotify.com/track/6I1euZN8qsmXYJq2nDH8EN) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [In Ribbons](https://open.spotify.com/album/7KVa0JkUwjpd23K5o6BYs1) | 3:58 |
 | 156 | [La nuit marche avec moi](https://open.spotify.com/track/7o71YfM5JEiP1sC1y2l8Ls) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Shelter \(Deluxe Edition\)](https://open.spotify.com/album/5iI0bG6kr3Nzlqu1fdHKCC) | 4:58 |
 
-Snapshot ID: `AAAAAPHg9n2ECOfE/nWz+vsynloBWiTK`
+Snapshot ID: `AAAAAIjm/4TgnlB5a8gvKhqlnK9TPYxS`

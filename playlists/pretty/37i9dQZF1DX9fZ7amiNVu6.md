@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fZ7amiNVu6.md) - [plain]
 
 > Kick back and enjoy these classic summer songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,374 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,739 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fZ7amiNVu6.md) - [plain]
 | 90 | [Da Doo Ron Ron \(When He Walked Me Home\)](https://open.spotify.com/track/0fonScmHUzC0MglSLn9saA) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:20 |
 | 91 | [I'm Into Something Good \- Mono](https://open.spotify.com/track/3z6m2FukK7Vd5xYrjOLDLR) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Herman's Hermits Retrospective](https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW) | 2:33 |
 | 92 | [Summer Breeze, Pts\. 1 & 2](https://open.spotify.com/track/7wcP2Aa2SliFhwi4SyfvfV) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [3+3](https://open.spotify.com/album/27eI33obJuyKebMTxAJJam) | 6:11 |
-| 93 | [Wipe Out \- Hit Version / Extended Ending](https://open.spotify.com/track/4anUinKv803lyDD1vaSXhU) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [The Best Of The Surfaris](https://open.spotify.com/album/1ROIPdrYZPf0SYpVhu1co9) | 2:37 |
-| 94 | [Street Player \- 2003 Remaster](https://open.spotify.com/track/1HiaZTm2nGQL4wtnJLPNV0) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 13 \(Expanded & Remastered\)](https://open.spotify.com/album/3zhMFlaM6YZgETDe5TZlim) | 9:10 |
+| 93 | [Street Player \- 2003 Remaster](https://open.spotify.com/track/1HiaZTm2nGQL4wtnJLPNV0) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 13 \(Expanded & Remastered\)](https://open.spotify.com/album/3zhMFlaM6YZgETDe5TZlim) | 9:10 |
+| 94 | [Wipe Out \- Hit Version / Extended Ending](https://open.spotify.com/track/4anUinKv803lyDD1vaSXhU) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [The Best Of The Surfaris](https://open.spotify.com/album/1ROIPdrYZPf0SYpVhu1co9) | 2:37 |
 | 95 | [San Francisco \(Be Sure to Wear Flowers in Your Hair\)](https://open.spotify.com/track/66ujRcQB3xjilVohGyvTKM) | [Scott McKenzie](https://open.spotify.com/artist/7d7AZ3CQC457bFhK0wHpSO) | [The Graduate \- Music From The Broadway Comedy](https://open.spotify.com/album/28oPljw32I8H4LWfdQ2z7z) | 2:57 |
 | 96 | [Hot Hot Hot](https://open.spotify.com/track/2BeFYfKuc0AZGhbeVY78ep) | [Buster Poindexter And His Banshees Of Blue](https://open.spotify.com/artist/77GFTVwA0F6Ag1xtlYr0UA) | [Buster Poindexter](https://open.spotify.com/album/4lFx9yBIZmyiBXmw0nFUQf) | 4:10 |
 | 97 | [Beggin' \- 2007 Remaster](https://open.spotify.com/track/4LQtQV5HHTdVBCBJYaEuUr) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [Jersey Beat: The Music Of Frankie Valli and The Four Seasons](https://open.spotify.com/album/0sEAJ8QdJQPRNL2km3NYqg) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fZ7amiNVu6.md) - [plain]
 | 99 | [Pipeline](https://open.spotify.com/track/3Wwy5wlxd8CpKMZGc4Mgjf) | [The Chantays](https://open.spotify.com/artist/4x6kNCpQ9veqQ17vllEJUR) | [Pipeline](https://open.spotify.com/album/272xBcLuC3UmRttQnvUIdn) | 2:19 |
 | 100 | [Up, Up and Away](https://open.spotify.com/track/3JdToGxgvH9SnO1a605Ztr) | [The 5th Dimension](https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM) | [Up, Up And Away](https://open.spotify.com/album/77VEDrJrgHdCr6Ju3N4AQp) | 2:43 |
 
-Snapshot ID: `AAAAANFjNyDbc0bF5Qy8WxICU1foikZX`
+Snapshot ID: `AAAAAGwaJ/wLFagG6XiMHhDZmV0K4aat`

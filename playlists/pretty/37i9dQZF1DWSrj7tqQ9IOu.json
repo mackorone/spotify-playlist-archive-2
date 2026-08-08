@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify. Photo : Steve Lacy",
-  "num_followers": 401772,
+  "num_followers": 401774,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Juillet 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGRnJHNbatXY93l9uNnlMqJA+OaA",
+  "snapshot_id": "AAAAAKvJscLBugk2Y58Xj5UKtiYu2XPV",
   "tracks": [
     {
       "added_at": "2026-07-31 22:00:23",
@@ -147,22 +147,18 @@
     {
       "added_at": "2026-07-31 22:00:23",
       "album": {
-        "name": "Gimme Dat Ting",
-        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
+        "name": "Crash Out",
+        "url": "https://open.spotify.com/album/49sTgQ60n6ADLJs9VozDyB"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "NO11",
-          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
         }
       ],
-      "duration_ms": 243755,
-      "name": "Gimme Dat Ting (with NO11)",
-      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
+      "duration_ms": 190894,
+      "name": "Crash Out",
+      "url": "https://open.spotify.com/track/3IHTGwXvGyGslBbvHDDFrM"
     },
     {
       "added_at": "2026-07-31 22:00:23",
@@ -191,34 +187,22 @@
     {
       "added_at": "2026-07-31 22:00:23",
       "album": {
-        "name": "Crash Out",
-        "url": "https://open.spotify.com/album/49sTgQ60n6ADLJs9VozDyB"
+        "name": "Gimme Dat Ting",
+        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
       },
       "artists": [
         {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 190894,
-      "name": "Crash Out",
-      "url": "https://open.spotify.com/track/3IHTGwXvGyGslBbvHDDFrM"
-    },
-    {
-      "added_at": "2026-07-31 22:00:23",
-      "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/6JIMB5E0g8XgwXd0sdS83S"
-      },
-      "artists": [
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
         {
-          "name": "2hollis",
-          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
         }
       ],
-      "duration_ms": 167272,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/3mDdkv8881MzLmSB7z8Ogy"
+      "duration_ms": 243755,
+      "name": "Gimme Dat Ting (with NO11)",
+      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
     },
     {
       "added_at": "2026-07-31 22:00:23",
@@ -243,6 +227,22 @@
     {
       "added_at": "2026-07-31 22:00:23",
       "album": {
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/6JIMB5E0g8XgwXd0sdS83S"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/3mDdkv8881MzLmSB7z8Ogy"
+    },
+    {
+      "added_at": "2026-07-31 22:00:23",
+      "album": {
         "name": "Joven y Salvaje (with Bb trickz)",
         "url": "https://open.spotify.com/album/7FfZfslQwa0TUrQkRFqeKk"
       },
@@ -259,26 +259,6 @@
       "duration_ms": 122703,
       "name": "Joven y Salvaje (with Bb trickz)",
       "url": "https://open.spotify.com/track/2NyVUkfya4KZDw5qd4qWeZ"
-    },
-    {
-      "added_at": "2026-07-31 22:00:23",
-      "album": {
-        "name": "the bridge",
-        "url": "https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        },
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 233533,
-      "name": "the bridge",
-      "url": "https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX"
     },
     {
       "added_at": "2026-07-31 22:00:23",
@@ -303,6 +283,26 @@
       "duration_ms": 211928,
       "name": "Better With You",
       "url": "https://open.spotify.com/track/5e4II0hLokRNiw4q2uHeL8"
+    },
+    {
+      "added_at": "2026-07-31 22:00:23",
+      "album": {
+        "name": "the bridge",
+        "url": "https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 233533,
+      "name": "the bridge",
+      "url": "https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX"
     },
     {
       "added_at": "2026-07-31 22:00:23",
@@ -547,26 +547,6 @@
     {
       "added_at": "2026-07-31 22:00:23",
       "album": {
-        "name": "Aniki, mon fr\u00e8re",
-        "url": "https://open.spotify.com/album/1Q0tJdD1VkUAPF8MSyv3sw"
-      },
-      "artists": [
-        {
-          "name": "Jewel Usain",
-          "url": "https://open.spotify.com/artist/24lRU7Y7ZWpVa3v23FZqS6"
-        },
-        {
-          "name": "Acchi Mello",
-          "url": "https://open.spotify.com/artist/3xQRIjbbG10vnQzMP59lPg"
-        }
-      ],
-      "duration_ms": 159230,
-      "name": "Link",
-      "url": "https://open.spotify.com/track/6cTRRyMEZtsQS3kmpOSo6Y"
-    },
-    {
-      "added_at": "2026-07-31 22:00:23",
-      "album": {
         "name": "LA VAR",
         "url": "https://open.spotify.com/album/5o9rCDHdg9drVEizV7K0B7"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 102352,
       "name": "LA VAR",
       "url": "https://open.spotify.com/track/330nwK4v8qeu9Whe17q82w"
+    },
+    {
+      "added_at": "2026-07-31 22:00:23",
+      "album": {
+        "name": "Aniki, mon fr\u00e8re",
+        "url": "https://open.spotify.com/album/1Q0tJdD1VkUAPF8MSyv3sw"
+      },
+      "artists": [
+        {
+          "name": "Jewel Usain",
+          "url": "https://open.spotify.com/artist/24lRU7Y7ZWpVa3v23FZqS6"
+        },
+        {
+          "name": "Acchi Mello",
+          "url": "https://open.spotify.com/artist/3xQRIjbbG10vnQzMP59lPg"
+        }
+      ],
+      "duration_ms": 159230,
+      "name": "Link",
+      "url": "https://open.spotify.com/track/6cTRRyMEZtsQS3kmpOSo6Y"
     },
     {
       "added_at": "2026-07-31 22:00:23",

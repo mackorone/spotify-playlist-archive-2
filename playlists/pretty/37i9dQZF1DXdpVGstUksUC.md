@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,540 likes - 100 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,538 likes - 100 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 51 | [Are You Dead](https://open.spotify.com/track/1P3gkOdyjK5ucr4N1ggLnq) | [Rainbows Are Free](https://open.spotify.com/artist/2xdR2Stqa1oEu4lv7p9lXN) | [Rainbows Are Free](https://open.spotify.com/album/6mlZrNW9M8DNCEctuwdTJn) | 4:11 |
 | 52 | [Too Stoned](https://open.spotify.com/track/3i5Z1K6f6E1OcVQ8DZqkyQ) | [Gas Giant](https://open.spotify.com/artist/2Npjb3nqMxBL8XDBa37won) | [High Volume: The Stoner Rock Collection](https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x) | 6:11 |
 | 53 | [There is Nothing New Under the Sun](https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [There is Nothing New Under the Sun](https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts) | 3:57 |
-| 54 | [Slaughter Beach](https://open.spotify.com/track/4hZwv69zyXmgipXqFyr7IJ) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Sunrise on Slaughter Beach \(The Complete Edition\)](https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9) | 3:41 |
-| 55 | [Drowning on Empty](https://open.spotify.com/track/3g6cNWmxjtHv3cq1v8V3Lg) | [Geezer](https://open.spotify.com/artist/7wEkdwpx7bSDhRexrs94er) | [Groovy](https://open.spotify.com/album/30arspiTdQmIXFL43YuiC1) | 4:17 |
+| 54 | [Drowning on Empty](https://open.spotify.com/track/3g6cNWmxjtHv3cq1v8V3Lg) | [Geezer](https://open.spotify.com/artist/7wEkdwpx7bSDhRexrs94er) | [Groovy](https://open.spotify.com/album/30arspiTdQmIXFL43YuiC1) | 4:17 |
+| 55 | [Slaughter Beach](https://open.spotify.com/track/4hZwv69zyXmgipXqFyr7IJ) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Sunrise on Slaughter Beach \(The Complete Edition\)](https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9) | 3:41 |
 | 56 | [So High, So Low](https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq) | [Mondo Generator](https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7) | [A Drug Problem That Never Existed](https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo) | 2:35 |
 | 57 | [Diablerie](https://open.spotify.com/track/6tn5XqPVJnmZt1rA4kBgJh) | [Windhand](https://open.spotify.com/artist/6wE3e84Zg41JF04Z39i5wv) | [Diablerie](https://open.spotify.com/album/1m4kG1WRaSUeay5rEUOPB5) | 5:20 |
-| 58 | [The Seeker](https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2) | [Doctor Smoke](https://open.spotify.com/artist/1YvNdmvJOQfwO3tbL38SRV) | [The Witching Hour](https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q) | 5:00 |
-| 59 | [Parsonz Curse](https://open.spotify.com/track/4lB8DlkAdlHyjHpvSwv7az) | [Royal Thunder](https://open.spotify.com/artist/3Gkit5uLARc6bv3AyYrh5Q) | [CVI](https://open.spotify.com/album/7m68iZmhsTYgIVFrVs6Dnp) | 6:57 |
+| 58 | [Parsonz Curse](https://open.spotify.com/track/4lB8DlkAdlHyjHpvSwv7az) | [Royal Thunder](https://open.spotify.com/artist/3Gkit5uLARc6bv3AyYrh5Q) | [CVI](https://open.spotify.com/album/7m68iZmhsTYgIVFrVs6Dnp) | 6:57 |
+| 59 | [The Seeker](https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2) | [Doctor Smoke](https://open.spotify.com/artist/1YvNdmvJOQfwO3tbL38SRV) | [The Witching Hour](https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q) | 5:00 |
 | 60 | [Smokin' Woman](https://open.spotify.com/track/3As9x85QW00A257ahhwKLr) | [Nebula](https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE) | [Dos E.P.'s](https://open.spotify.com/album/18zCcLMlccJiRswPU6O0QL) | 5:28 |
 | 61 | [Bright Dawn of the Soul](https://open.spotify.com/track/2vMfQgTA6wv0Lzs1zBim2E) | [The Egocentrics](https://open.spotify.com/artist/1knadIogzg8JxShRsjCgCh) | [Love Fear Choices and Astronauts](https://open.spotify.com/album/0U4Bj6rqtCCLwwDPuXUj2d) | 10:51 |
 | 62 | [Riding Shotgun](https://open.spotify.com/track/4h4k0Si2wh2mCxfyo1jiNm) | [Lowrider](https://open.spotify.com/artist/2ofc2suzjVzbu2EVToSKHW) | [Ode To IO](https://open.spotify.com/album/0pu7grkQZ9rCK1ftl2DcYj) | 6:06 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 86 | [Negasonic Teenage Warhead](https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Dopes To Infinity](https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux) | 4:27 |
 | 87 | [Ugo](https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY) | [The Dead Pirates](https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx) | [Ugo](https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB) | 5:58 |
 | 88 | [Rollercoaster](https://open.spotify.com/track/6cJhk7H8SQj4rzZmRVnK0A) | [Black Mountain](https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4) | [Wilderness Heart](https://open.spotify.com/album/7HiIz7nui3LtGVY62ORP3b) | 5:15 |
-| 89 | [The Regulator](https://open.spotify.com/track/5HjPlgTCOBWjh65fF4aaR9) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Blast Tyrant \(Deluxe Version\)](https://open.spotify.com/album/5KxVwhPQ9d0qp4iuQcAkgR) | 5:25 |
-| 90 | [Aquamaria](https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE) | [Colour Haze](https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8) | [Tempel](https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5) | 8:46 |
+| 89 | [Hot Lava Man](https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Dopesmoker](https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q) | 8:25 |
+| 90 | [The Regulator](https://open.spotify.com/track/5HjPlgTCOBWjh65fF4aaR9) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Blast Tyrant \(Deluxe Version\)](https://open.spotify.com/album/5KxVwhPQ9d0qp4iuQcAkgR) | 5:25 |
 | 91 | [Look To Your Orb For The Warning](https://open.spotify.com/track/0hXpC8CI25VOT8qNV1nr8l) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Dopes To Infinity](https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux) | 6:32 |
 | 92 | [I'm the Mountain](https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [Seven Thunders Roar](https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU) | 16:01 |
-| 93 | [Freya](https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Age of Winters](https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O) | 4:34 |
-| 94 | [Seer](https://open.spotify.com/track/2elF1O0Cz9SfXgkj96cUZE) | [Witch](https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3) | [Witch](https://open.spotify.com/album/37VVHGym3PMktFuWewZVf9) | 7:57 |
-| 95 | [Dead Rock Commandos](https://open.spotify.com/track/3mxMNHNWhan1cZByg3WHL4) | [Nightstalker](https://open.spotify.com/artist/4lypnrJxM8l7ZLtLVucEvk) | [Dead Rock Commandos](https://open.spotify.com/album/6EfupU9Irwh51zlDbCicAx) | 3:16 |
-| 96 | [An Alternative to Freedom](https://open.spotify.com/track/2C8w2lnmujqqKRrwtUQPqj) | [Witchcraft](https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG) | [Legend](https://open.spotify.com/album/4tIt1aEVqxQ71AuOpoEsHs) | 5:17 |
-| 97 | [Dusted](https://open.spotify.com/track/2PyBvM9tPlq2WcaVRLFlvb) | [Gonzalez](https://open.spotify.com/artist/0GWc5zILu7EQ9FjPTuzIKh) | [Gonzalez](https://open.spotify.com/album/3XLoQEGyq5RMRzMv2qiiha) | 3:55 |
-| 98 | [Hot Lava Man](https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Dopesmoker](https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q) | 8:25 |
+| 93 | [Aquamaria](https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE) | [Colour Haze](https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8) | [Tempel](https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5) | 8:46 |
+| 94 | [Freya](https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Age of Winters](https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O) | 4:34 |
+| 95 | [Seer](https://open.spotify.com/track/2elF1O0Cz9SfXgkj96cUZE) | [Witch](https://open.spotify.com/artist/6uNOBEATMcW8SSunnKy9a3) | [Witch](https://open.spotify.com/album/37VVHGym3PMktFuWewZVf9) | 7:57 |
+| 96 | [Dead Rock Commandos](https://open.spotify.com/track/3mxMNHNWhan1cZByg3WHL4) | [Nightstalker](https://open.spotify.com/artist/4lypnrJxM8l7ZLtLVucEvk) | [Dead Rock Commandos](https://open.spotify.com/album/6EfupU9Irwh51zlDbCicAx) | 3:16 |
+| 97 | [An Alternative to Freedom](https://open.spotify.com/track/2C8w2lnmujqqKRrwtUQPqj) | [Witchcraft](https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG) | [Legend](https://open.spotify.com/album/4tIt1aEVqxQ71AuOpoEsHs) | 5:17 |
+| 98 | [Dusted](https://open.spotify.com/track/2PyBvM9tPlq2WcaVRLFlvb) | [Gonzalez](https://open.spotify.com/artist/0GWc5zILu7EQ9FjPTuzIKh) | [Gonzalez](https://open.spotify.com/album/3XLoQEGyq5RMRzMv2qiiha) | 3:55 |
 | 99 | [Acid Roulette](https://open.spotify.com/track/65TTWkvvYTpvseubg1pmRa) | [Scorpion Child](https://open.spotify.com/artist/4unllJ7RMbdpBbTELvKwys) | [Acid Roulette](https://open.spotify.com/album/6kdoeLhIsFuvjmhnyUFgei) | 5:49 |
 | 100 | [Desert Cruiser](https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [Gravity X](https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml) | 7:29 |
 
-Snapshot ID: `AAAAAGrQ/77tbq68sGl7apMzCle75425`
+Snapshot ID: `AAAAALVscUQO7u2GIjD+3aYTzeDQ+slI`

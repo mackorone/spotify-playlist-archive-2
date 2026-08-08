@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcORdDu3dQFG.md) - [plain]
 
 > Get festive with this selection of videos\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,440 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,441 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcORdDu3dQFG.md) - [plain]
 | 49 | [Christmas Party for Two](https://open.spotify.com/track/79UvrTKNmJa68M0Cn9wYJx) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Christmas Party for Two](https://open.spotify.com/album/1ALVALb5SfYHYt48JKGUQq) | 3:54 |
 | 50 | [One I've Been Missing](https://open.spotify.com/track/632gXr9GJAsy7UBd7Dg7G4) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti \(Expanded Edition\)](https://open.spotify.com/album/0KDISpxSUWynoaqwEaEeX8) | 3:12 |
 
-Snapshot ID: `AAAAALm3L7pLEWfUbbvcLpTcISYIjXA8`
+Snapshot ID: `AAAAAM4y364G2wWFbpZCmP9maAMPXjTE`

@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 100 | [Rosario](https://open.spotify.com/track/0EwKcfLwImdDYbFuUs63su) | [agul](https://open.spotify.com/artist/6hAkSs8eKFhn94XnqSOQRu) | [Rosario / TEL](https://open.spotify.com/album/1a5XVlaZ2U3SLVWWzJe8u5) | 1:56 |
 | 101 | [Movin’ Fools \-Ready To Move\-](https://open.spotify.com/track/6fAdgiV7xvikBoADcnSH1m) | [SOKI](https://open.spotify.com/artist/7uznCkS1C5NLCCAg2kKDjL) | [Movin’ Fools \-Ready To Move\-](https://open.spotify.com/album/4Jw6h4yFAFkeEm7dddJLsy) | 1:33 |
 
-Snapshot ID: `AAAAAHqE0hXFhhMajgv/WkHgMhRY8AtV`
+Snapshot ID: `AAAAAEGIzVmco8GM6JU0Kx78jkd8xvoF`

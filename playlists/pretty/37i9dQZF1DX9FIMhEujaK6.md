@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,116 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,340 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 43 | [Marabelle](https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 4:12 |
 | 44 | [Casableu](https://open.spotify.com/track/62Og36IHCGO6MqmxUqU58B) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [Casableu](https://open.spotify.com/album/0lAe8AD0yI2r0o5ibNXvgk) | 3:38 |
 | 45 | [Better](https://open.spotify.com/track/5cBl0sH659FIDNoAY7BDe7) | [Archie Holmes](https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J) | [Better](https://open.spotify.com/album/6vYmmB9HVm8dYgHePsit3J) | 2:32 |
-| 46 | [Sisters and Brothers](https://open.spotify.com/track/56SDusGcG8YbuZp3DPLfx9) | [TMPLE](https://open.spotify.com/artist/1cVyy9YlIG2TVbohGYiYS8) | [Sisters and Brothers](https://open.spotify.com/album/1L6XROA4tB3v2Vxe4pfhyN) | 4:07 |
-| 47 | [Most Perfect People \(Are Mostly Not Perfect\)](https://open.spotify.com/track/6xTyX0WLjYpm5iZP1DJwvS) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Most Perfect People \(Are Mostly Not Perfect\)](https://open.spotify.com/album/6K7WuxpOo0zujnk4lJ23SY) | 3:05 |
+| 46 | [Most Perfect People \(Are Mostly Not Perfect\)](https://open.spotify.com/track/6xTyX0WLjYpm5iZP1DJwvS) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Most Perfect People \(Are Mostly Not Perfect\)](https://open.spotify.com/album/6K7WuxpOo0zujnk4lJ23SY) | 3:05 |
+| 47 | [Sisters and Brothers](https://open.spotify.com/track/56SDusGcG8YbuZp3DPLfx9) | [TMPLE](https://open.spotify.com/artist/1cVyy9YlIG2TVbohGYiYS8) | [Sisters and Brothers](https://open.spotify.com/album/1L6XROA4tB3v2Vxe4pfhyN) | 4:07 |
 | 48 | [Watching Me Dance](https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Watching Me Dance](https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg) | 3:33 |
 | 49 | [Not Enough](https://open.spotify.com/track/7dISfR6j4PwVPU4nTY4zis) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R) | [Not Enough](https://open.spotify.com/album/3TvwA3K80Jm1ONRCfdSrDg) | 3:42 |
 | 50 | [Oh Baby](https://open.spotify.com/track/3OICfhRje9Hy4Pq0UQ4Dhr) | [Archie Holmes](https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J) | [Oh Baby](https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57) | 3:00 |
 
-Snapshot ID: `AAAAAOKAFHl5uTUgqXXEkt2Y1uE1fOvA`
+Snapshot ID: `AAAAAD04XXOq6Y9fXyKgZgnENAdHAPVc`

@@ -1,12 +1,12 @@
 {
   "description": "Epic tunes for the open road. ",
-  "num_followers": 106909,
+  "num_followers": 106928,
   "original_name": "Long Drives",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANUn6ZhZAjK07kbsdzk8AOXN9KX/",
+  "snapshot_id": "AAAAADRiTEMZw15iD+XMWHr/SXB4gLCC",
   "tracks": [
     {
       "added_at": "2026-08-07 00:55:41",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-08-07 00:55:41",
       "album": {
-        "name": "Fire From The Hip",
-        "url": "https://open.spotify.com/album/43mE12XfH3PQ7iX3mPj2Ri"
-      },
-      "artists": [
-        {
-          "name": "Finn Wolfhard",
-          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
-        }
-      ],
-      "duration_ms": 204052,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/6BkGs2ZNaqaEbrJNlQAt2x"
-    },
-    {
-      "added_at": "2026-08-07 00:55:41",
-      "album": {
         "name": "bones",
         "url": "https://open.spotify.com/album/51ju8MHRhddaMJcz05B1yu"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 293020,
       "name": "Tropics",
       "url": "https://open.spotify.com/track/50kY9njISacBSyPLyR8cwk"
+    },
+    {
+      "added_at": "2026-08-07 00:55:41",
+      "album": {
+        "name": "Fire From The Hip",
+        "url": "https://open.spotify.com/album/43mE12XfH3PQ7iX3mPj2Ri"
+      },
+      "artists": [
+        {
+          "name": "Finn Wolfhard",
+          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
+        }
+      ],
+      "duration_ms": 204052,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/6BkGs2ZNaqaEbrJNlQAt2x"
     },
     {
       "added_at": "2026-08-07 00:55:41",

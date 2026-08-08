@@ -1,12 +1,12 @@
 {
   "description": "Guerreras e independientes. Foto: Fin del Mundo.",
-  "num_followers": 135936,
+  "num_followers": 135922,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADJ3e7GakFRwcoHGAEbhlVhYMybT",
+  "snapshot_id": "AAAAAMGdmvuY8UC4lHg16KHVmNMp9o6M",
   "tracks": [
     {
       "added_at": "2025-07-17 22:42:38",
@@ -423,26 +423,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Hicimos Crecer un Bosque",
-        "url": "https://open.spotify.com/album/2wTNdmVd3HhJPMq8jBd7Vo"
-      },
-      "artists": [
-        {
-          "name": "Fin del Mundo",
-          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
-        },
-        {
-          "name": "Eterna Inocencia",
-          "url": "https://open.spotify.com/artist/5O8lCdBWT1JlDufwVywp01"
-        }
-      ],
-      "duration_ms": 218039,
-      "name": "El D\u00eda de las Flores",
-      "url": "https://open.spotify.com/track/6IDE0OVT1hcMdf1bCqxxSp"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Estamos Bajo el Agua",
         "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 151619,
       "name": "Estamos Bajo el Agua",
       "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Hicimos Crecer un Bosque",
+        "url": "https://open.spotify.com/album/2wTNdmVd3HhJPMq8jBd7Vo"
+      },
+      "artists": [
+        {
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
+        },
+        {
+          "name": "Eterna Inocencia",
+          "url": "https://open.spotify.com/artist/5O8lCdBWT1JlDufwVywp01"
+        }
+      ],
+      "duration_ms": 218039,
+      "name": "El D\u00eda de las Flores",
+      "url": "https://open.spotify.com/track/6IDE0OVT1hcMdf1bCqxxSp"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Lo Que Siento",
-        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
-      },
-      "artists": [
-        {
-          "name": "Clara Yolks",
-          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
-        }
-      ],
-      "duration_ms": 199672,
-      "name": "El After",
-      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "no llamaste (Remix)",
         "url": "https://open.spotify.com/album/2cVEApzTrA9JZP6U7ao6H7"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 246233,
       "name": "no llamaste - Remix",
       "url": "https://open.spotify.com/track/3o4if7llOb7PZCz5ZIGCGI"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Lo Que Siento",
+        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
+      },
+      "artists": [
+        {
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+        }
+      ],
+      "duration_ms": 199672,
+      "name": "El After",
+      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Te Traigo Flores",
-        "url": "https://open.spotify.com/album/48v1TdJqrUFmqsuRSumwy7"
-      },
-      "artists": [
-        {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
-        }
-      ],
-      "duration_ms": 231278,
-      "name": "Te Traigo Flores",
-      "url": "https://open.spotify.com/track/3mUS6RxHgkkZ7TesoHkg6l"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Blue Planet",
         "url": "https://open.spotify.com/album/0M9LsY1BnlDDG8kdvFR44S"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 153193,
       "name": "Blue Planet",
       "url": "https://open.spotify.com/track/2qsB52JnIjIKzsWcZwVXzb"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Te Traigo Flores",
+        "url": "https://open.spotify.com/album/48v1TdJqrUFmqsuRSumwy7"
+      },
+      "artists": [
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        }
+      ],
+      "duration_ms": 231278,
+      "name": "Te Traigo Flores",
+      "url": "https://open.spotify.com/track/3mUS6RxHgkkZ7TesoHkg6l"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Pasar\u00e1",
-        "url": "https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC"
-      },
-      "artists": [
-        {
-          "name": "Ino Guridi",
-          "url": "https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7"
-        }
-      ],
-      "duration_ms": 214989,
-      "name": "D\u00edas",
-      "url": "https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Limbo Habitual, Vol. I",
         "url": "https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 215013,
       "name": "Musa introvertida",
       "url": "https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Pasar\u00e1",
+        "url": "https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC"
+      },
+      "artists": [
+        {
+          "name": "Ino Guridi",
+          "url": "https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7"
+        }
+      ],
+      "duration_ms": 214989,
+      "name": "D\u00edas",
+      "url": "https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "llorando en la luna",
-        "url": "https://open.spotify.com/album/4HMsUrIj0suIB94rokDgcj"
-      },
-      "artists": [
-        {
-          "name": "Rebe",
-          "url": "https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF"
-        }
-      ],
-      "duration_ms": 177265,
-      "name": "llorando en la luna",
-      "url": "https://open.spotify.com/track/35uMVgoVbnzg4Dn3PfUNLO"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Volver a Llorar",
         "url": "https://open.spotify.com/album/0L2mbl8kNcTqVjYw4I8CeW"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 160533,
       "name": "Volver a Llorar",
       "url": "https://open.spotify.com/track/5fH16NuT1OPJcqz4evTFXi"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "llorando en la luna",
+        "url": "https://open.spotify.com/album/4HMsUrIj0suIB94rokDgcj"
+      },
+      "artists": [
+        {
+          "name": "Rebe",
+          "url": "https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF"
+        }
+      ],
+      "duration_ms": 177265,
+      "name": "llorando en la luna",
+      "url": "https://open.spotify.com/track/35uMVgoVbnzg4Dn3PfUNLO"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "OTRA MANERA",
-        "url": "https://open.spotify.com/album/3EbAvw4gcs1kaZ0esTQDSo"
-      },
-      "artists": [
-        {
-          "name": "Camila Buch",
-          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
-        }
-      ],
-      "duration_ms": 193004,
-      "name": "Otra Manera",
-      "url": "https://open.spotify.com/track/41kxEXX2ZGNzf5olxBuuJp"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "No hay m\u00e1s tiempo",
         "url": "https://open.spotify.com/album/5YYfTwT5Sap3rylvAXVedC"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 157389,
       "name": "Amiga",
       "url": "https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "OTRA MANERA",
+        "url": "https://open.spotify.com/album/3EbAvw4gcs1kaZ0esTQDSo"
+      },
+      "artists": [
+        {
+          "name": "Camila Buch",
+          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
+        }
+      ],
+      "duration_ms": 193004,
+      "name": "Otra Manera",
+      "url": "https://open.spotify.com/track/41kxEXX2ZGNzf5olxBuuJp"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "M\u00e1s Que Amigas",
-        "url": "https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf"
-      },
-      "artists": [
-        {
-          "name": "BRUSES",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 161571,
-      "name": "M\u00e1s Que Amigas",
-      "url": "https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Error 404",
         "url": "https://open.spotify.com/album/0dJ3IRwbv8qfIBsk3MxnBp"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 114706,
       "name": "Deriva",
       "url": "https://open.spotify.com/track/4mq5Fc0p42DxzI05nF7DBE"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "M\u00e1s Que Amigas",
+        "url": "https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf"
+      },
+      "artists": [
+        {
+          "name": "BRUSES",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 161571,
+      "name": "M\u00e1s Que Amigas",
+      "url": "https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki"
     }
   ],
   "unique_name": "Mujeres del Indie",

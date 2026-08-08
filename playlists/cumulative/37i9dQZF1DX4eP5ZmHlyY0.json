@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-24",
-  "description": "Boys groups/solo artists shining beyond borders.  \u30b0\u30ed\u30fc\u30d0\u30eb\u306b\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: CORTIS & Juicy J",
+  "description": "Boys groups/solo artists shining beyond borders.  \u30b0\u30ed\u30fc\u30d0\u30eb\u306b\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: Stray Kids ",
   "name": "Boy in the Moon",
   "tracks": [
     {
@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 211000,
       "name": "Battle Ground (Korean Version)",
       "url": "https://open.spotify.com/track/6CoD4TwVhN69X49qHtp8bD"
@@ -13133,6 +13133,24 @@
     },
     {
       "album": {
+        "name": "SAKURA",
+        "url": "https://open.spotify.com/album/7aHdo6NaGvifTKui2VsiWN"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165261,
+      "name": "SAKURA",
+      "url": "https://open.spotify.com/track/2AKVMux9oWObX2xbr7FHNU"
+    },
+    {
+      "album": {
         "name": "Sarracenia / Salvia",
         "url": "https://open.spotify.com/album/4KO4Ul7zk5Rz2itJ5KKtyl"
       },
@@ -15465,6 +15483,24 @@
     },
     {
       "album": {
+        "name": "THIS & THAT",
+        "url": "https://open.spotify.com/album/0VDVnZhY399q6sIrdyjZWj"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "This & That",
+      "url": "https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP"
+    },
+    {
+      "album": {
         "name": "Through The RAIN",
         "url": "https://open.spotify.com/album/4ImE76haoB9wTnnM2EwwU4"
       },
@@ -16914,7 +16950,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 202725,
       "name": "WHATCHA DOIN",
       "url": "https://open.spotify.com/track/0jIdJN8ZjQNVLmikkg0mnF"

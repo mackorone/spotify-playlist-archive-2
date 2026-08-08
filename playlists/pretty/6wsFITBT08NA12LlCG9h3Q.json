@@ -1,12 +1,12 @@
 {
   "description": "A classic playlist with the best hits of the 90s featuring No Doubt, Spice Girls, Smash Mouth, Nirvana, and all those 90s hits you can't resist!",
-  "num_followers": 142766,
+  "num_followers": 142754,
   "original_name": "90s",
   "owner": {
     "name": "uDiscover Playlists",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "AAAFa+obSctEg2KefpZCBCB1iT02mZzk",
+  "snapshot_id": "AAAFcvmYojlvlkctbaIHuUpjffvigPhB",
   "tracks": [
     {
       "added_at": "2026-07-29 22:55:57",
@@ -29,6 +29,22 @@
       "url": "https://open.spotify.com/track/1poBO3pO6fkqPYG6n8J5cX"
     },
     {
+      "added_at": "2026-08-07 16:30:26",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Remastered)",
+        "url": "https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 254626,
+      "name": "Tonight, Tonight - Remastered 2012",
+      "url": "https://open.spotify.com/track/4iCGSi1RonREsPtfEKYj5b"
+    },
+    {
       "added_at": "2026-07-29 23:00:30",
       "album": {
         "name": "Cooleyhighharmony (Bonus Tracks Version)",
@@ -43,22 +59,6 @@
       "duration_ms": 351466,
       "name": "End Of The Road",
       "url": "https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD"
-    },
-    {
-      "added_at": "2026-06-12 02:37:53",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
-      },
-      "artists": [
-        {
-          "name": "Deep Blue Something",
-          "url": "https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407"
-        }
-      ],
-      "duration_ms": 257373,
-      "name": "Breakfast At Tiffany's",
-      "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
     },
     {
       "added_at": "2026-06-12 02:37:53",
@@ -99,6 +99,22 @@
       "duration_ms": 284906,
       "name": "California Love - Original Version",
       "url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35"
+    },
+    {
+      "added_at": "2026-06-12 02:37:53",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
+      },
+      "artists": [
+        {
+          "name": "Deep Blue Something",
+          "url": "https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407"
+        }
+      ],
+      "duration_ms": 257373,
+      "name": "Breakfast At Tiffany's",
+      "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
     },
     {
       "added_at": "2026-06-18 23:11:18",
@@ -181,10 +197,10 @@
       "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
     },
     {
-      "added_at": "2026-06-12 02:37:53",
+      "added_at": "2026-08-07 16:30:32",
       "album": {
-        "name": "Aeroplane Flies High (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5y5Qnze6BJUbON6FxndO9c"
+        "name": "Mellon Collie And The Infinite Sadness (Remastered)",
+        "url": "https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl"
       },
       "artists": [
         {
@@ -192,9 +208,9 @@
           "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
         }
       ],
-      "duration_ms": 183240,
-      "name": "The Boy",
-      "url": "https://open.spotify.com/track/2Yw5jfEaQFHoUFhzXUGkgV"
+      "duration_ms": 250293,
+      "name": "Thirty-Three - Remastered 2012",
+      "url": "https://open.spotify.com/track/02BSpb2sKuFgs0Go3LRbTj"
     },
     {
       "added_at": "2026-06-12 02:37:53",
@@ -451,6 +467,22 @@
       "duration_ms": 301920,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/4CeeEOM32jQcH3eN9Q2dGj"
+    },
+    {
+      "added_at": "2026-06-12 02:37:53",
+      "album": {
+        "name": "Aeroplane Flies High (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5y5Qnze6BJUbON6FxndO9c"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 183240,
+      "name": "The Boy",
+      "url": "https://open.spotify.com/track/2Yw5jfEaQFHoUFhzXUGkgV"
     },
     {
       "added_at": "2026-06-12 02:37:53",

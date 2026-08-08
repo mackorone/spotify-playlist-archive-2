@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 
 > All of the Celtic punk essentials.\. Cover: Dropkick Murphys
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,606 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,682 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,21 +21,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 11 | [The Warrior's Code](https://open.spotify.com/track/6ivzLSDw82LpxXfToyb0He) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:31 |
 | 12 | [Tura Lu](https://open.spotify.com/track/2ftkqHtPfuYkyy0oy76qBq) | [The Bollox](https://open.spotify.com/artist/435s6mcvZ5gKmemNx6Kgip) | [The Bollox](https://open.spotify.com/album/0JNaZ27UDkqvTDqWK9efuP) | 3:44 |
 | 13 | [Johnny Jump Up/Morrison's Jig](https://open.spotify.com/track/4fNKdk1uTtSOqjf1Ehb3f6) | [Gaelic Storm](https://open.spotify.com/artist/5dlzTgw97q5k5ws89Ww1UK) | [Gaelic Storm](https://open.spotify.com/album/6rZVgcQIQdAJWBMQTQCkip) | 5:00 |
-| 14 | [I'll Tell Me Ma!](https://open.spotify.com/track/072N99XFVMb4e1iaYe63Tq) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Hung, Drawn & Portered](https://open.spotify.com/album/5tRQ2XHBad9UiESyXihm3v) | 1:57 |
+| 14 | [Cheer Up Love \(Worse Things Happen at Sea\), Pt\. 3](https://open.spotify.com/track/1geM10YkSCzsCIFen0LQvW) | [Smokey Bastard](https://open.spotify.com/artist/1hMdCc6Bzz9cB05C7UTEY8) | [Tales from the Wasteland](https://open.spotify.com/album/0gWD1s9jyyDQjLi50IoUrl) | 2:31 |
 | 15 | [Botany Bay](https://open.spotify.com/track/0EjrmUYfo0bo787mvveLLi) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 3:30 |
 | 16 | [The Rocky Road to Dublin](https://open.spotify.com/track/5GVSpPvjk06BPsr8DhwFtM) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 2:37 |
-| 17 | [Cheer Up Love \(Worse Things Happen at Sea\), Pt\. 3](https://open.spotify.com/track/1geM10YkSCzsCIFen0LQvW) | [Smokey Bastard](https://open.spotify.com/artist/1hMdCc6Bzz9cB05C7UTEY8) | [Tales from the Wasteland](https://open.spotify.com/album/0gWD1s9jyyDQjLi50IoUrl) | 2:31 |
+| 17 | [I'll Tell Me Ma!](https://open.spotify.com/track/072N99XFVMb4e1iaYe63Tq) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Hung, Drawn & Portered](https://open.spotify.com/album/5tRQ2XHBad9UiESyXihm3v) | 1:57 |
 | 18 | [Whiskey and Gin](https://open.spotify.com/track/5Z86P3a0reCE58nhDZDCgk) | [The Killigans](https://open.spotify.com/artist/6EnFVB7au1aUyNvdhIzXPB) | [Honor](https://open.spotify.com/album/5q7liZNAS6nQ2gST7wGMmJ) | 2:46 |
 | 19 | [Fight Song](https://open.spotify.com/track/35DtVain6n4J5hAb0wDNZz) | [The Stanfields](https://open.spotify.com/artist/0w8r7Pn1wm1SCegYhVIQtJ) | [Modem Operandi](https://open.spotify.com/album/0xdrPhrZW6zE7miVUMG9Qg) | 2:47 |
-| 20 | [The Foreman O'rourke](https://open.spotify.com/track/5His2KyaJt6tuKCdeXCtcn) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Saints Preserve Us](https://open.spotify.com/album/0WcoMbjC7kzJJpqP488gTc) | 4:31 |
+| 20 | [Victor and His Demons](https://open.spotify.com/track/1IN6dz9wbuszss9OIOoPjv) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [25 Blarney Roses](https://open.spotify.com/album/4xM98dNv7jelS5A8b5a4k5) | 3:27 |
 | 21 | [Barroom Hero](https://open.spotify.com/track/0kVyKxg7SMIB3NnduRdo6n) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 2:57 |
-| 22 | [Victor and His Demons](https://open.spotify.com/track/1IN6dz9wbuszss9OIOoPjv) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [25 Blarney Roses](https://open.spotify.com/album/4xM98dNv7jelS5A8b5a4k5) | 3:27 |
+| 22 | [The Foreman O'rourke](https://open.spotify.com/track/5His2KyaJt6tuKCdeXCtcn) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Saints Preserve Us](https://open.spotify.com/album/0WcoMbjC7kzJJpqP488gTc) | 4:31 |
 | 23 | [The Hand Of John L\. Sullivan](https://open.spotify.com/track/7aR0tgI3ijJ4qQlKglowYO) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Life Is Good](https://open.spotify.com/album/7wxpajBgcfiRwooT3JvYwH) | 4:00 |
 | 24 | [The Beer Song](https://open.spotify.com/track/6ei9tbLjSdYpZatWSQfzQd) | [Seamus Kennedy](https://open.spotify.com/artist/0mOdLsbUeEcEy7ADN3Hhuf) | [On the Rocks](https://open.spotify.com/album/2aIBq4cJweU84E0PZuXa05) | 1:54 |
-| 25 | [Freedom](https://open.spotify.com/track/20ZPFGWFDdCehIlCRBSene) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Rats On Board](https://open.spotify.com/album/6UrU8iv81fRiywK0IlVsQw) | 3:44 |
-| 26 | [Uncle Tommy](https://open.spotify.com/track/5UqIk0AUqq3AMrdk2cYiCJ) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Gangs of New Holland](https://open.spotify.com/album/0oiIhaKjX4opdyHTEEM8dm) | 2:34 |
-| 27 | [One Fine Day](https://open.spotify.com/track/254MGsp9Sj8JX1KMJHKJLN) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [Heyday \(Deluxe Edition\)](https://open.spotify.com/album/1c6jduJZwn1XQMY5IHPigL) | 3:35 |
-| 28 | [Orange and the Green](https://open.spotify.com/track/3Czlbc2EbEiaIjSrWY5zKA) | [The Kreellers](https://open.spotify.com/artist/39ljFcdvjH7BB9OsVJwnBn) | [Sixth and Porter](https://open.spotify.com/album/7tn0ug4ECBWSrNSBxGVVo8) | 2:53 |
+| 25 | [One Fine Day](https://open.spotify.com/track/254MGsp9Sj8JX1KMJHKJLN) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [Heyday \(Deluxe Edition\)](https://open.spotify.com/album/1c6jduJZwn1XQMY5IHPigL) | 3:35 |
+| 26 | [Freedom](https://open.spotify.com/track/20ZPFGWFDdCehIlCRBSene) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Rats On Board](https://open.spotify.com/album/6UrU8iv81fRiywK0IlVsQw) | 3:44 |
+| 27 | [Orange and the Green](https://open.spotify.com/track/3Czlbc2EbEiaIjSrWY5zKA) | [The Kreellers](https://open.spotify.com/artist/39ljFcdvjH7BB9OsVJwnBn) | [Sixth and Porter](https://open.spotify.com/album/7tn0ug4ECBWSrNSBxGVVo8) | 2:53 |
+| 28 | [Uncle Tommy](https://open.spotify.com/track/5UqIk0AUqq3AMrdk2cYiCJ) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Gangs of New Holland](https://open.spotify.com/album/0oiIhaKjX4opdyHTEEM8dm) | 2:34 |
 | 29 | [Danny Boy](https://open.spotify.com/track/57y4irrYnvb4ctHiP45ncX) | [Happy Ol'McWeasel](https://open.spotify.com/artist/5BLgMlT6LTidk2KkfheS4p) | [No Offence](https://open.spotify.com/album/1J6eEhYrbJeH4zqQ3AsJBD) | 3:46 |
 | 30 | [Whiskey Makes Me Crazy](https://open.spotify.com/track/7gLbLGteklzcPSd53ojUDg) | [The Tossers](https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2) | [On A Fine Spring Evening](https://open.spotify.com/album/5KSnHmtTDuFsNNapMDrRnW) | 1:21 |
 | 31 | [My Pint](https://open.spotify.com/track/0PbGQfcCmKAYaNDg50hhcE) | [The Bastard Suns](https://open.spotify.com/artist/5Pl6l5ZS7eSQhcfH93grw4) | [The Hail Mary EP](https://open.spotify.com/album/2XXNqcmTUvhsn95c9KIqX8) | 3:09 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 40 | [A Rambler\\'s Life](https://open.spotify.com/track/5WyZKzskByzPGc2ZvMXMvs) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Legends Never Die](https://open.spotify.com/album/0S7hl9NtRXGbHq9TWUVRAU) | 5:33 |
 | 41 | [Grace O'malley](https://open.spotify.com/track/1o6b2EJpJ97J3UW6EWI3y5) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6) | [Grace O'malley](https://open.spotify.com/album/0THa8d7RB60G34bP8BfqmY) | 3:36 |
 | 42 | [The Cabin](https://open.spotify.com/track/7h0ua2NID4KBYNjs401sxT) | [Irish Moutarde](https://open.spotify.com/artist/5G57ycjj8BsL5ynIN06l7P) | [Raise 'em All](https://open.spotify.com/album/3dQ7S6VtgQfNR4XTSGor1I) | 2:37 |
-| 43 | [Sobriety](https://open.spotify.com/track/4zp0UU8f8INeMz7r61q1zj) | [Jolly Jackers](https://open.spotify.com/artist/3YroMUvRA81dwHWEU0bbDy) | [Sobriety](https://open.spotify.com/album/0cprCmWUMO5iMHIH3vrBPs) | 2:31 |
+| 43 | [Drunk and Fucked Up](https://open.spotify.com/track/2I3FIMVdpU3NZ96XUVPpmo) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Drunk and Fucked Up](https://open.spotify.com/album/5GUWM27f7hYwhciSKETj1i) | 3:40 |
 | 44 | [Banks of the Roses](https://open.spotify.com/track/2FiosROHDCTuWyRGCJyPfc) | [Black Tartan Clan](https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt) | [The Loyal Men](https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788) | 3:15 |
-| 45 | [Drunk and Fucked Up](https://open.spotify.com/track/2I3FIMVdpU3NZ96XUVPpmo) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Drunk and Fucked Up](https://open.spotify.com/album/5GUWM27f7hYwhciSKETj1i) | 3:40 |
+| 45 | [Sobriety](https://open.spotify.com/track/4zp0UU8f8INeMz7r61q1zj) | [Jolly Jackers](https://open.spotify.com/artist/3YroMUvRA81dwHWEU0bbDy) | [Sobriety](https://open.spotify.com/album/0cprCmWUMO5iMHIH3vrBPs) | 2:31 |
 | 46 | [Back Home in Bristol](https://open.spotify.com/track/4fJ3Izp494APZkuSQJMe36) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Foreign Skies](https://open.spotify.com/album/4sXaOOcXH2tfRFUJsiIzKh) | 4:03 |
 | 47 | [USA](https://open.spotify.com/track/6AXdttKPTiEaGPMrKNNsHK) | [The Tossers](https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2) | [The Emerald City](https://open.spotify.com/album/1fBFtQjOZbF7Zr3TiolxHZ) | 3:36 |
 | 48 | [Welcome To Bastards Bay](https://open.spotify.com/track/2tqi27SMrF3lfvVWVVlJfr) | [The Bollox](https://open.spotify.com/artist/435s6mcvZ5gKmemNx6Kgip) | [The Bollox](https://open.spotify.com/album/0JNaZ27UDkqvTDqWK9efuP) | 3:30 |
 | 49 | [Foggy Dew](https://open.spotify.com/track/27Pu3Gp0lG0v2qRk8NHjWX) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 4:26 |
-| 50 | [You've Got a Friend](https://open.spotify.com/track/7GbGrWKrO2VKrz27sCjGAM) | [The Cloverhearts](https://open.spotify.com/artist/5zhpfAeN7k5tXfxSVbZu7l) | [You've Got a Friend](https://open.spotify.com/album/428PXrg2qhVrzEo2FGMlPT) | 3:43 |
+| 50 | [Old Maui](https://open.spotify.com/track/3RR2COvkYZlw28BmyxdTFO) | [Brave the Sea](https://open.spotify.com/artist/2ImOzhCBveQtdB7x0RcHkQ) | [The Murders Three](https://open.spotify.com/album/32nwMM1uqcXZpRyD3sxgfo) | 2:26 |
 
-Snapshot ID: `AAAAABLpY2jKlKZhTaG/fq2hHZ3ULfyr`
+Snapshot ID: `AAAAAALjG470Fwywnv6ierGruGh10Hoo`

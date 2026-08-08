@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaRcrSHNxVd.md) - [plain]
 
 > Songs to skate to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,518 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,565 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,14 +29,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaRcrSHNxVd.md) - [plain]
 | 19 | [Sky](https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 3:13 |
 | 20 | [Do For Love](https://open.spotify.com/track/4AE7Lj39VnSZNOmGH2iZaq) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [R U Still Down? \[Remember Me\]](https://open.spotify.com/album/7zURSbIVZ5vl3NIKkrVRvl) | 4:41 |
 | 21 | [Congratulations \(feat\. Bilal\)](https://open.spotify.com/track/1OubIZ0ARYCUq5kceYUQiO) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 4:16 |
-| 22 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 |
-| 23 | [squabble up](https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:37 |
+| 22 | [squabble up](https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:37 |
+| 23 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 |
 | 24 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
 | 25 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 |
 | 26 | [C U Girl](https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [C U Girl](https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa) | 2:09 |
 | 27 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 |
-| 28 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 |
-| 29 | [Mmhmm](https://open.spotify.com/track/4QTlxavdQGUVitxAvQqqkU) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [THE BIGGEST](https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6) | 1:59 |
+| 28 | [Mmhmm](https://open.spotify.com/track/4QTlxavdQGUVitxAvQqqkU) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [THE BIGGEST](https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6) | 1:59 |
+| 29 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 |
 | 30 | [Dreams, Fairytales, Fantasies \(feat\. Brent Faiyaz & Salaam Remi\)](https://open.spotify.com/track/5oady7OSE7dH7LHiqmb3Cr) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Floor Seats](https://open.spotify.com/album/6bI4IQKBcLX0KsTjQ9NR97) | 3:42 |
 | 31 | [Juicy \- 2005 Remaster](https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \(The Remaster\)](https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2) | 5:02 |
 | 32 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaRcrSHNxVd.md) - [plain]
 | 49 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 |
 | 50 | [COMO UN BEBÉ](https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:38 |
 
-Snapshot ID: `AAAAACW0tVk6catDoAFy/2XrMhm7DgdF`
+Snapshot ID: `AAAAAKKISaNuX0UjXG7rLsuSCOt4kc9e`

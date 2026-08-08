@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,804 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,887 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 | 16 | [Boot Scootin' Boogie](https://open.spotify.com/track/7Fq9RwQxSn3kW85PrDUf0M) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 3:18 |
 | 17 | [Chattahoochee](https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [A Lot About Livin' \(And A Little 'Bout Love\)](https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ) | 2:28 |
 | 18 | [Heartache On The Dance Floor](https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 3:25 |
-| 19 | [Life is a Highway](https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 4:36 |
+| 19 | [Play It Again](https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Crash My Party](https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB) | 3:46 |
 | 20 | [Wish I Didn't](https://open.spotify.com/track/5z5hTxmH4cAEYr9yg2L8OB) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Wish I Didn't](https://open.spotify.com/album/243wXw1Fj2jEcBGfH3Jts6) | 3:29 |
-| 21 | [Play It Again](https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Crash My Party](https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB) | 3:46 |
+| 21 | [Life is a Highway](https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 4:36 |
 | 22 | [Good Ole Boy](https://open.spotify.com/track/3zvPnDrcIbpXnHZ7Sspw3m) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY! COUNTRY! COUNTRY!](https://open.spotify.com/album/0ihzXn0iwyBtHVfQuLRUSh) | 3:32 |
 | 23 | [It's A Great Day To Be Alive](https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:01 |
 | 24 | [Blood Runs Thicker](https://open.spotify.com/track/1ZzMmeMv0O9Unpd6Fn1uZm) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [forgive, forget.](https://open.spotify.com/album/2VdjF3nvUQCrpmxbsd9fNp) | 3:29 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 | 84 | [Burning Man](https://open.spotify.com/track/4a1oIihVt6xSnDRpgX387M) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [The Mountain](https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO) | 3:58 |
 | 85 | [After All The Bars Are Closed](https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [After All The Bars Are Closed](https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA) | 3:11 |
 | 86 | [Somethin' Bad \(with Carrie Underwood\)](https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 2:49 |
-| 87 | [Hotel Key](https://open.spotify.com/track/33471tzU1VghDg9zNgGRpz) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Happy Endings](https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V) | 2:47 |
-| 88 | [One Of Them Girls](https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [One Of Them Girls](https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp) | 3:08 |
+| 87 | [One Of Them Girls](https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [One Of Them Girls](https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp) | 3:08 |
+| 88 | [Hotel Key](https://open.spotify.com/track/33471tzU1VghDg9zNgGRpz) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Happy Endings](https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V) | 2:47 |
 | 89 | [Get Your Shine On](https://open.spotify.com/track/6s9ICeczYOfbHHIaSMq9jd) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:42 |
 | 90 | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/album/2ijhcwHBggjxTuiZTjFPbe) | 3:27 |
 | 91 | [Not At This Party](https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Not At This Party](https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 | 99 | [Texas](https://open.spotify.com/track/3yU9fLsuDYjzVyZW2FLUqY) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Texas](https://open.spotify.com/album/32EJshiL5lZHoDJEoZVowz) | 2:50 |
 | 100 | [No Such Thing as a Broken Heart](https://open.spotify.com/track/0OlS52TmtK2gPaEtdmr7DN) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Happy Endings](https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V) | 2:57 |
 
-Snapshot ID: `AAAAANvrZke/klPKJXcgr+N4Ol7QKbUp`
+Snapshot ID: `AAAAAHhSzPowmk2927l31tbT/26ABT66`

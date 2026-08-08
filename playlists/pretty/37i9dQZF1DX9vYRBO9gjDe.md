@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 ### [Spotify Japan 急上昇チャート](https://open.spotify.com/playlist/37i9dQZF1DX9vYRBO9gjDe)
 
-> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。8月5日付。
+> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。8月6日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,886 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,897 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,32 +17,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 7 | [POISON～言いたい事も言えないこんな世の中は～](https://open.spotify.com/track/2S4IkDNGWarWgzI5W9fUtb) | [Takashi Sorimachi](https://open.spotify.com/artist/2PMtOu89yr9YBME71Y940e) | [POISON～言いたいことも言えないこんな世の中は～](https://open.spotify.com/album/2ok50clJKYLxafJzLj6O2p) | 4:02 |
 | 8 | [センセーション](https://open.spotify.com/track/0BALoMCHyL9s4VYHq9sffV) | [FRUITS ZIPPER](https://open.spotify.com/artist/4v5IVXt3oH0iNuxW9O36BV) | [ぱわーオブらぶ / センセーション](https://open.spotify.com/album/0wWSy06e4evneurWE9x3lx) | 3:08 |
 | 9 | [Love so sweet](https://open.spotify.com/track/5I6JLJqnZICLvPebTj2YCm) | [ARASHI](https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C) | [Time](https://open.spotify.com/album/7uUUazj2UJMhdOsXZrYO4v) | 4:49 |
-| 10 | [Shukumei](https://open.spotify.com/track/0XaHPBAzPAC5ubwcRBqc1p) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Traveler](https://open.spotify.com/album/17gzvH2FPpVhpuqalLFi9j) | 4:40 |
-| 11 | [I Want You Back \- Radio Edit](https://open.spotify.com/track/221LRlPHPuevgE1tuUlof9) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | ['N Sync UK Version](https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB) | 3:20 |
-| 12 | [花火](https://open.spotify.com/track/0I0zZHGJ6ea8TxwbUvvJEH) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [桜の木の下](https://open.spotify.com/album/7v9ufrlhEHFc8jdAbdZObo) | 4:38 |
-| 13 | [BAD](https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.5](https://open.spotify.com/album/6Eg6B1mgGj2dGLBajzsVpV) | 2:36 |
-| 14 | [新宝島](https://open.spotify.com/track/4a48lWUd64bZgHUDx0GZlj) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [834.194](https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB) | 5:05 |
-| 15 | [魔法が解けたら](https://open.spotify.com/track/3TplgwQZg91VTrAu5pK9lq) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [バットリアリー](https://open.spotify.com/album/55m0fjflkttPwWxZgyKVzh) | 4:00 |
-| 16 | [ガチ夢中！](https://open.spotify.com/track/0AqVegFTpc1BrAlzV66ghE) | [chotokkyu](https://open.spotify.com/artist/0udR1QMfgT37SQnL1QClTU) | [ガチ夢中！](https://open.spotify.com/album/4M3RBiueeBcIlpbo6DImsa) | 3:48 |
-| 17 | [愛の花](https://open.spotify.com/track/49DUifaclCSbxQa1upNXuO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [猫にジェラシー](https://open.spotify.com/album/10bxrO3VcayVLsFF30JFxO) | 4:01 |
-| 18 | [YO\-I\-DON!](https://open.spotify.com/track/7aLKGDoX89xj6f50tWQEUf) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [YO\-I\-DON! / BOY MEETS GIRL](https://open.spotify.com/album/7AGGmntZJ60gRktIMQin2P) | 2:44 |
-| 19 | [Thriller](https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 5:58 |
-| 20 | [ほんまやで☆なんでやねん☆しらんけど](https://open.spotify.com/track/4ufk3YG63bwSLIqZ8vdgFx) | [モナキ](https://open.spotify.com/artist/48La8eUwq93H7Va1Hl4bMd) | [ほんまやで☆なんでやねん☆しらんけど／こんなもんじゃねぇ \(Aタイプ\)](https://open.spotify.com/album/3mcZV7uNaUca6jvyH5Akyu) | 3:31 |
-| 21 | [分かっちゃいないね \- feat.花隈千冬](https://open.spotify.com/track/5yEVYY3MipQkWLVb1cqR02) | [monet](https://open.spotify.com/artist/1q9lQ4dwpQUDsYLtYNuZnf), [花隈千冬](https://open.spotify.com/artist/143V7M81Iw7Ry7ohrlAS38) | [分かっちゃいないね \(feat.花隈千冬\)](https://open.spotify.com/album/3XW0DF3nM1NpuQ9zYnBOfg) | 3:56 |
-| 22 | [STAY TUNE](https://open.spotify.com/track/1KKc8f9ZiKFzOeRJJ3SYn7) | [Suchmos](https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24) | [THE KIDS](https://open.spotify.com/album/26wEPQqOBau2opcpN4e3aF) | 4:58 |
-| 23 | [Story](https://open.spotify.com/track/0V2axJ946WH1vt9t5SGMLV) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [MIC－AーHOLIC A．I．](https://open.spotify.com/album/0MoIsl3FcGMAefu4Jldv51) | 4:48 |
-| 24 | [Gut Genug \(mit Blumengarten & Shirin David\)](https://open.spotify.com/track/1FsURdV1P2M3VCKdbTsZak) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [KITSCHKRIEG ZWEI](https://open.spotify.com/album/778QaCfUiirKHFrXJuJGIL) | 3:08 |
-| 25 | [Seaside Story](https://open.spotify.com/track/5aBsEcu4aPdLqlmJjAn3Ml) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Banquet](https://open.spotify.com/album/3wXNjLWGdqtKReMLjhat8H) | 3:10 |
-| 26 | [飛ぶ時](https://open.spotify.com/track/2NFgZXeRjcqV91SaBIZ3cI) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [飛ぶ時 / 飛ぼうよ](https://open.spotify.com/album/5YuOGMU5bHqfBPLbnDHhrH) | 4:12 |
-| 27 | [Life Still Goes On](https://open.spotify.com/track/2t2V4IfuBGbm1XhQhIGvXA) | [池﨑理人 \(INI\)](https://open.spotify.com/artist/1P7vQSwrVlucNomu6jayeD), [JUNKI](https://open.spotify.com/artist/0W0P9PjW8JxNkzxoSkloTI) | [DEEP BLUE HOURS](https://open.spotify.com/album/6aOdfNshcqaek8evMRqReM) | 4:12 |
-| 28 | [Be on Your side](https://open.spotify.com/track/1fi0X16iiqzfJaUvvaJb05) | [to HEROes](https://open.spotify.com/artist/4595ewOM0MqP7rWYdgBxvA) | [Be on Your side](https://open.spotify.com/album/1MXQr820zZCx1Es1AnGIb1) | 3:39 |
-| 29 | [愛は勝つ](https://open.spotify.com/track/7MqaQIHyo7Ud1QzDSmWpQ0) | [KAN](https://open.spotify.com/artist/0wVJakYe8YCkSjdmiHaVHY) | [野球選手が夢だった](https://open.spotify.com/album/7akUfttPs5jXt8F1bI1MmT) | 4:07 |
-| 30 | [青いソファの上で](https://open.spotify.com/track/5VCadjLcPpvYvPAFt6kouF) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [青いソファの上で](https://open.spotify.com/album/4nJJcD6J5InRZrFzIX34bF) | 3:07 |
-| 31 | [東京](https://open.spotify.com/track/7LSF652I2HVsRcGNX1WYjP) | [超☆社会的サンダル](https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4) | [う、ちゅー。](https://open.spotify.com/album/7a43PeAPwCmBHRdxFbNoGo) | 3:19 |
-| 32 | [Update ME](https://open.spotify.com/track/687s0MqxcPySRNQZCUCJPH) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [Update ME](https://open.spotify.com/album/1vQuzapDKD0Al92uMdfTZH) | 3:06 |
-| 33 | [it’s okay](https://open.spotify.com/track/4q8shMNFx1n3bgVV9t4xyB) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [20](https://open.spotify.com/album/5NWvdvQg0fYTAq3OwBBLZS) | 2:26 |
-| 34 | [On My Road](https://open.spotify.com/track/35j4pFuMcA3NEVvDZ6Rda5) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [陰ニモ日向ニモ](https://open.spotify.com/album/5ui1qswwdShabB5rWhc7hk) | 4:11 |
-| 35 | [サンダーボルト](https://open.spotify.com/track/3xwcoxhjy2vg1O1bb4IQ1m) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [サンダーボルト](https://open.spotify.com/album/1iShXaXcWgFIuCEYn4gqyD) | 3:46 |
+| 10 | [HELLO](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:01 |
+| 11 | [Shukumei](https://open.spotify.com/track/0XaHPBAzPAC5ubwcRBqc1p) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Traveler](https://open.spotify.com/album/17gzvH2FPpVhpuqalLFi9j) | 4:40 |
+| 12 | [I Want You Back \- Radio Edit](https://open.spotify.com/track/221LRlPHPuevgE1tuUlof9) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | ['N Sync UK Version](https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB) | 3:20 |
+| 13 | [花火](https://open.spotify.com/track/0I0zZHGJ6ea8TxwbUvvJEH) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [桜の木の下](https://open.spotify.com/album/7v9ufrlhEHFc8jdAbdZObo) | 4:38 |
+| 14 | [BAD](https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.5](https://open.spotify.com/album/6Eg6B1mgGj2dGLBajzsVpV) | 2:36 |
+| 15 | [新宝島](https://open.spotify.com/track/4a48lWUd64bZgHUDx0GZlj) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [834.194](https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB) | 5:05 |
+| 16 | [魔法が解けたら](https://open.spotify.com/track/3TplgwQZg91VTrAu5pK9lq) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [バットリアリー](https://open.spotify.com/album/55m0fjflkttPwWxZgyKVzh) | 4:00 |
+| 17 | [道](https://open.spotify.com/track/6fZhokT7ADLeCcOyKL914T) | [EXILE](https://open.spotify.com/artist/6zGmypGQUBXD4ZC9EbfMme) | [EXILE EVOLUTION](https://open.spotify.com/album/6DsVzVRUgKFFMPxiPM8cNC) | 4:39 |
+| 18 | [ガチ夢中！](https://open.spotify.com/track/0AqVegFTpc1BrAlzV66ghE) | [chotokkyu](https://open.spotify.com/artist/0udR1QMfgT37SQnL1QClTU) | [ガチ夢中！](https://open.spotify.com/album/4M3RBiueeBcIlpbo6DImsa) | 3:48 |
+| 19 | [愛の花](https://open.spotify.com/track/49DUifaclCSbxQa1upNXuO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [猫にジェラシー](https://open.spotify.com/album/10bxrO3VcayVLsFF30JFxO) | 4:01 |
+| 20 | [YO\-I\-DON!](https://open.spotify.com/track/7aLKGDoX89xj6f50tWQEUf) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [YO\-I\-DON! / BOY MEETS GIRL](https://open.spotify.com/album/7AGGmntZJ60gRktIMQin2P) | 2:44 |
+| 21 | [Thriller](https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 5:58 |
+| 22 | [ほんまやで☆なんでやねん☆しらんけど](https://open.spotify.com/track/4ufk3YG63bwSLIqZ8vdgFx) | [モナキ](https://open.spotify.com/artist/48La8eUwq93H7Va1Hl4bMd) | [ほんまやで☆なんでやねん☆しらんけど／こんなもんじゃねぇ \(Aタイプ\)](https://open.spotify.com/album/3mcZV7uNaUca6jvyH5Akyu) | 3:31 |
+| 23 | [分かっちゃいないね \- feat.花隈千冬](https://open.spotify.com/track/5yEVYY3MipQkWLVb1cqR02) | [monet](https://open.spotify.com/artist/1q9lQ4dwpQUDsYLtYNuZnf), [花隈千冬](https://open.spotify.com/artist/143V7M81Iw7Ry7ohrlAS38) | [分かっちゃいないね \(feat.花隈千冬\)](https://open.spotify.com/album/3XW0DF3nM1NpuQ9zYnBOfg) | 3:56 |
+| 24 | [Story](https://open.spotify.com/track/0V2axJ946WH1vt9t5SGMLV) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [MIC－AーHOLIC A．I．](https://open.spotify.com/album/0MoIsl3FcGMAefu4Jldv51) | 4:48 |
+| 25 | [Gut Genug \(mit Blumengarten & Shirin David\)](https://open.spotify.com/track/1FsURdV1P2M3VCKdbTsZak) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [KITSCHKRIEG ZWEI](https://open.spotify.com/album/778QaCfUiirKHFrXJuJGIL) | 3:08 |
+| 26 | [Seaside Story](https://open.spotify.com/track/5aBsEcu4aPdLqlmJjAn3Ml) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [Banquet](https://open.spotify.com/album/3wXNjLWGdqtKReMLjhat8H) | 3:10 |
+| 27 | [飛ぶ時](https://open.spotify.com/track/2NFgZXeRjcqV91SaBIZ3cI) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [飛ぶ時 / 飛ぼうよ](https://open.spotify.com/album/5YuOGMU5bHqfBPLbnDHhrH) | 4:12 |
+| 28 | [Life Still Goes On](https://open.spotify.com/track/2t2V4IfuBGbm1XhQhIGvXA) | [池﨑理人 \(INI\)](https://open.spotify.com/artist/1P7vQSwrVlucNomu6jayeD), [JUNKI](https://open.spotify.com/artist/0W0P9PjW8JxNkzxoSkloTI) | [DEEP BLUE HOURS](https://open.spotify.com/album/6aOdfNshcqaek8evMRqReM) | 4:12 |
+| 29 | [Be on Your side](https://open.spotify.com/track/1fi0X16iiqzfJaUvvaJb05) | [to HEROes](https://open.spotify.com/artist/4595ewOM0MqP7rWYdgBxvA) | [Be on Your side](https://open.spotify.com/album/1MXQr820zZCx1Es1AnGIb1) | 3:39 |
+| 30 | [愛は勝つ](https://open.spotify.com/track/7MqaQIHyo7Ud1QzDSmWpQ0) | [KAN](https://open.spotify.com/artist/0wVJakYe8YCkSjdmiHaVHY) | [野球選手が夢だった](https://open.spotify.com/album/7akUfttPs5jXt8F1bI1MmT) | 4:07 |
+| 31 | [青いソファの上で](https://open.spotify.com/track/5VCadjLcPpvYvPAFt6kouF) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [青いソファの上で](https://open.spotify.com/album/4nJJcD6J5InRZrFzIX34bF) | 3:07 |
+| 32 | [東京](https://open.spotify.com/track/7LSF652I2HVsRcGNX1WYjP) | [超☆社会的サンダル](https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4) | [う、ちゅー。](https://open.spotify.com/album/7a43PeAPwCmBHRdxFbNoGo) | 3:19 |
+| 33 | [Update ME](https://open.spotify.com/track/687s0MqxcPySRNQZCUCJPH) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [Update ME](https://open.spotify.com/album/1vQuzapDKD0Al92uMdfTZH) | 3:06 |
+| 34 | [it’s okay](https://open.spotify.com/track/4q8shMNFx1n3bgVV9t4xyB) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [20](https://open.spotify.com/album/5NWvdvQg0fYTAq3OwBBLZS) | 2:26 |
+| 35 | [On My Road](https://open.spotify.com/track/35j4pFuMcA3NEVvDZ6Rda5) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [陰ニモ日向ニモ](https://open.spotify.com/album/5ui1qswwdShabB5rWhc7hk) | 4:11 |
 | 36 | [千鳥](https://open.spotify.com/track/61uep4aDBpNnnFGfm6yzUF) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [二人称](https://open.spotify.com/album/0eYZtVRBgZDpEibSKVri8P) | 4:12 |
 | 37 | [名もなき詩](https://open.spotify.com/track/5hrS405iyU1OLU4BFwGWGY) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [深海](https://open.spotify.com/album/0kUEX0VRJoMWxoCGXkmHtr) | 5:28 |
 | 38 | [始まりのように](https://open.spotify.com/track/0E3u9s7dNh7obb6KkiEPxi) | [REN](https://open.spotify.com/artist/1Dg4sJ9R4oTCaA7fohHJmf) | [始まりのように](https://open.spotify.com/album/4mWl6OMuhepJlaWof3lobG) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [丸ノ内サディスティック](https://open.spotify.com/track/1mWN1USPKg632qQXG9sfDL) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [無罪モラトリアム](https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2) | 3:55 |
 | 50 | [雪月花](https://open.spotify.com/track/21UVLrJ0yuJ6CGeElXMG0C) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [BOY & GIRLS](https://open.spotify.com/album/1DiYOvRSotct1CN2A4fwlT) | 5:16 |
 
-Snapshot ID: `AAAAAHAaEJ/l5CVIFRNbGnf80CO8NY5+`
+Snapshot ID: `AAAAABpeFa++Hhpm999rqxAmph8nbz/j`

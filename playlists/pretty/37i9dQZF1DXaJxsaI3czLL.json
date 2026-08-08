@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 135830,
+  "num_followers": 135833,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGpUeSegfyvcLNehZizUMOfSfOrJ",
+  "snapshot_id": "AAAAAGi6XeWqqKJf1dwQGg71qwZh30Pn",
   "tracks": [
     {
       "added_at": "2026-07-09 15:00:35",
@@ -355,6 +355,22 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
+        "name": "\u82b1",
+        "url": "https://open.spotify.com/album/7DgOPJO8Lk4NUrfAjxtDCR"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 247554,
+      "name": "\u82b1 - Ballad",
+      "url": "https://open.spotify.com/track/4wmioqSrmIUAqqEKnZgvCf"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
         "name": "\u56fd\u5b9d\u3000\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/71zMCedoxuCj0m108ODrFL"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 279265,
       "name": "Luminance",
       "url": "https://open.spotify.com/track/4c6yOy3ue1sYWKWxaedSev"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
-        "name": "\u82b1",
-        "url": "https://open.spotify.com/album/7DgOPJO8Lk4NUrfAjxtDCR"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 247554,
-      "name": "\u82b1 - Ballad",
-      "url": "https://open.spotify.com/track/4wmioqSrmIUAqqEKnZgvCf"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
-        "url": "https://open.spotify.com/album/6ipSFR7aTdNLtDR1TnJS86"
-      },
-      "artists": [
-        {
-          "name": "goethe",
-          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
-        }
-      ],
-      "duration_ms": 259713,
-      "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
-      "url": "https://open.spotify.com/track/4CeWDJ0CS4OwQnm3Az0CLN"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "TWO MOON",
         "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 287827,
       "name": "\u7a93",
       "url": "https://open.spotify.com/track/3brPAMmcLZRtiS7CyCO8Fc"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
+        "url": "https://open.spotify.com/album/6ipSFR7aTdNLtDR1TnJS86"
+      },
+      "artists": [
+        {
+          "name": "goethe",
+          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
+        }
+      ],
+      "duration_ms": 259713,
+      "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
+      "url": "https://open.spotify.com/track/4CeWDJ0CS4OwQnm3Az0CLN"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
+        "name": "TWO MOON",
+        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "duration_ms": 240323,
+      "name": "Mellow",
+      "url": "https://open.spotify.com/track/1NI7SxSO3lRQJdMHxH6KJd"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
         "name": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab (2024 ver.)",
         "url": "https://open.spotify.com/album/5V2JKwezZvZsyfLjmMlKjH"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 325185,
       "name": "\u98a8\u306e\u8c37\u306e\u30ca\u30a6\u30b7\u30ab - 2024 ver.",
       "url": "https://open.spotify.com/track/0Hch2lV9Vk7MfyL0OZLHS2"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
-        "name": "TWO MOON",
-        "url": "https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa"
-      },
-      "artists": [
-        {
-          "name": "TOMOO",
-          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
-        }
-      ],
-      "duration_ms": 240323,
-      "name": "Mellow",
-      "url": "https://open.spotify.com/track/1NI7SxSO3lRQJdMHxH6KJd"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "\u771f\u591c\u4e2d\u306e\u30e1\u30ed\u30c7\u30a3",
-        "url": "https://open.spotify.com/album/1lzbuzGrY7sbkFv9UioqZh"
-      },
-      "artists": [
-        {
-          "name": "Aoi Teshima",
-          "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "\u771f\u591c\u4e2d\u306e\u30e1\u30ed\u30c7\u30a3",
-      "url": "https://open.spotify.com/track/54ZwbqBhemxQo3fJyyuOeR"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "Trio & Charm",
         "url": "https://open.spotify.com/album/3SiofApkAxUnDhpEFzLB87"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 226585,
       "name": "\u30ad\u30e3\u30f3\u30c7\u30a3",
       "url": "https://open.spotify.com/track/5nP9OI4hFkkZ9WMEUeGNIB"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "\u771f\u591c\u4e2d\u306e\u30e1\u30ed\u30c7\u30a3",
+        "url": "https://open.spotify.com/album/1lzbuzGrY7sbkFv9UioqZh"
+      },
+      "artists": [
+        {
+          "name": "Aoi Teshima",
+          "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "\u771f\u591c\u4e2d\u306e\u30e1\u30ed\u30c7\u30a3",
+      "url": "https://open.spotify.com/track/54ZwbqBhemxQo3fJyyuOeR"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "Wild Flowers",
-        "url": "https://open.spotify.com/album/1aemhVhHw2fphYPNZy8SY3"
-      },
-      "artists": [
-        {
-          "name": "Sugar Me",
-          "url": "https://open.spotify.com/artist/0RUM5RTI0FAykSNS9FdDjr"
-        }
-      ],
-      "duration_ms": 212484,
-      "name": "\u591c\u306f\u3084\u3055\u3057",
-      "url": "https://open.spotify.com/track/26VxGKT6FoKO4YFQz1WLwk"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "Unknown",
         "url": "https://open.spotify.com/album/1I5acP1fmbJh7F0g9GwsyA"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 244748,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/3ymmhmikPwzb3ZdDZ8GBgl"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "Wild Flowers",
+        "url": "https://open.spotify.com/album/1aemhVhHw2fphYPNZy8SY3"
+      },
+      "artists": [
+        {
+          "name": "Sugar Me",
+          "url": "https://open.spotify.com/artist/0RUM5RTI0FAykSNS9FdDjr"
+        }
+      ],
+      "duration_ms": 212484,
+      "name": "\u591c\u306f\u3084\u3055\u3057",
+      "url": "https://open.spotify.com/track/26VxGKT6FoKO4YFQz1WLwk"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "\u305f\u3088\u308a\u306a\u3044\u3082\u306e\u306e\u305f\u3081\u306b",
-        "url": "https://open.spotify.com/album/6sQTNDYLrgz6QTOVZCP87x"
+        "name": "\u5e30\u3063\u3066\u304b\u3089\u3001\u6b4c\u3044\u305f\u304f\u306a\u3063\u3066\u3082\u3044\u3044\u3088\u3046\u306b\u3068\u601d\u3063\u305f\u306e\u3060\u3002",
+        "url": "https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG"
       },
       "artists": [
         {
-          "name": "Saho Terao",
-          "url": "https://open.spotify.com/artist/0yLUatFP9McWRDsM42uzCH"
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
         }
       ],
-      "duration_ms": 430266,
-      "name": "\u305f\u3088\u308a\u306a\u3044\u3082\u306e\u306e\u305f\u3081\u306b",
-      "url": "https://open.spotify.com/track/5Y1z7Lgf0eBw2tRXMo2TRa"
+      "duration_ms": 310520,
+      "name": "\u306d\u3080\u308b\u306e\u307e\u3061\uff5eTidur Tidur\uff5e",
+      "url": "https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V"
     }
   ],
   "unique_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",

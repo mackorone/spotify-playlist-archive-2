@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN87b7HRrCS.md) - [plain]
 
 > Soft bossa nova sounds for focusing, reading, or unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,971 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,073 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN87b7HRrCS.md) - [plain]
 | 79 | [Woodblock Print](https://open.spotify.com/track/3ZNlFTP0ShxCtIUbCfFlNN) | [Ennio Máno](https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs) | [Green Grapes](https://open.spotify.com/album/76gYdoPvK3LjTarXj4WTWZ) | 3:44 |
 | 80 | [Liljeholmsviken](https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Liljeholmsviken](https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe) | 4:22 |
 
-Snapshot ID: `AAAAACnmO/nvJXmJaDQK2xFlkTpJwQk/`
+Snapshot ID: `AAAAABRvFfkxnXKwQHZg+sGWGiUJ9mkc`

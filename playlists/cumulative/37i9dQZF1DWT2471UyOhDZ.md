@@ -4,13 +4,13 @@
 
 > A hand\-picked selection for an extraordinary palette\. Cover: The Durutti Column
 
-485 songs - 1 day 7 hr 22 min
+486 songs - 1 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I Wanna\) Be Your Girl](https://open.spotify.com/track/5TjPVnjkMzEUetVnA8jehV) | [Sharp Pins](https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN) | [\(I Wanna\) Be Your Girl](https://open.spotify.com/album/0m6IxoqExi0n7RPVxNvDJx) | 3:36 | 2025-09-04 | 2025-12-06 |
 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 | 2025-02-28 | 2026-06-19 |
-| [100 Horses](https://open.spotify.com/track/1bHFGVgvmhnhDKAz1FnaoB) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [100 Horses](https://open.spotify.com/album/7H0nTLxKn6dK9Z8451o4pG) | 3:46 | 2025-09-04 |  |
+| [100 Horses](https://open.spotify.com/track/1bHFGVgvmhnhDKAz1FnaoB) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [100 Horses](https://open.spotify.com/album/7H0nTLxKn6dK9Z8451o4pG) | 3:46 | 2025-09-04 | 2026-08-08 |
 | [1K!](https://open.spotify.com/track/3bDle84REug8PQJdREswFG) | [Los Bitchos](https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m) | [Kiki, You Complete Me](https://open.spotify.com/album/6VNDXYWrHAmQJrgmecdPLI) | 2:52 | 2024-08-14 | 2024-09-21 |
 | [2 2 BOOTLEG](https://open.spotify.com/track/3qMTOPe1wpVVHkVuVL8SzB) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [QWERTY II](https://open.spotify.com/album/0uPxqFTWGfboMKWBpLo9lO) | 4:49 | 2024-06-14 | 2025-02-14 |
 | [5words](https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [5words](https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl) | 5:17 | 2026-02-20 |  |
@@ -319,6 +319,7 @@
 | [Ode To The Glory Days](https://open.spotify.com/track/1woppfKnFQrxgLkr36Zu5I) | [Girl In The Year Above](https://open.spotify.com/artist/1O7L4N5WMArmnOyDhuX5Y7) | [Ode To The Glory Days](https://open.spotify.com/album/40p1xMqGSRpXl11bSaO9C3) | 4:34 | 2026-06-18 | 2026-07-13 |
 | [Odessa](https://open.spotify.com/track/5xhALmvO5mJNBUnqjGcVg2) | [FEET](https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE) | [Odessa](https://open.spotify.com/album/3WL5cc1KLgTfMIkTf5XhGE) | 2:55 | 2026-07-31 |  |
 | [Of Amber](https://open.spotify.com/track/022C1o8aZqq4JDhXY9b7Ml) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO) | 2:39 | 2025-05-30 | 2026-07-29 |
+| [Oh No Now My](https://open.spotify.com/track/2MbLMnGeW92YVBbsyHM5WR) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Oh No Now My](https://open.spotify.com/album/6Qex2dWIX0M5LPHLTJq4Sr) | 3:08 | 2026-08-06 |  |
 | [Old Man](https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Old Man](https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5) | 3:27 | 2025-03-21 | 2026-06-19 |
 | [Once A Bunch](https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Once A Bunch](https://open.spotify.com/album/1TckrkAuaA4tkLqgOVzvdC) | 4:59 | 2024-08-14 | 2025-10-24 |
 | [One of the Greats](https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [One of the Greats](https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi) | 6:32 | 2025-10-02 |  |

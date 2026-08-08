@@ -1,12 +1,12 @@
 {
   "description": "De Spotify muziekredactie tipt 40 acts voor LL26! Nieuwe namen bekend: Kelis, Celeste, Willem, ZEP, Lambrini Girls en meer... ",
-  "num_followers": 36887,
+  "num_followers": 36892,
   "original_name": "Best of Lowlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPHQmJEuK7OwQr0jXTyCrgwgxI9M",
+  "snapshot_id": "AAAAAPhzQMt+pZ2Syt4ZdtP9Uujw7EGn",
   "tracks": [
     {
       "added_at": "2026-05-12 09:00:32",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-05-12 09:00:32",
       "album": {
-        "name": "Cold Little Heart (Radio Edit)",
-        "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 210299,
-      "name": "Cold Little Heart - Radio Edit",
-      "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
-    },
-    {
-      "added_at": "2026-05-12 09:00:32",
-      "album": {
         "name": "Talking Dreams (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 237626,
       "name": "Cool Kids",
       "url": "https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9"
+    },
+    {
+      "added_at": "2026-05-12 09:00:32",
+      "album": {
+        "name": "Cold Little Heart (Radio Edit)",
+        "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 210299,
+      "name": "Cold Little Heart - Radio Edit",
+      "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
     },
     {
       "added_at": "2026-05-12 09:00:32",

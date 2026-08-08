@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 
 > Traditional country sounds from artists of yesterday and today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,321 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,369 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 7 | [Walkin' Shoes](https://open.spotify.com/track/1pp4iX6p1vCm4QRKIZFVXI) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Walkin' Shoes](https://open.spotify.com/album/3gztJKGcXv4l26zOkPGqJa) | 3:14 |
 | 8 | [Fishin' in the Dark](https://open.spotify.com/track/7lJbTVbDEMa3w7NFamrwdq) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Hold On](https://open.spotify.com/album/5ToL8KapdzZAMtOT7Y4USs) | 3:22 |
 | 9 | [Beer Never Broke My Heart](https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:06 |
-| 10 | [It's A Great Day To Be Alive](https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:01 |
+| 10 | [Good Directions](https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Doin' Somethin' Right](https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5) | 3:35 |
 | 11 | [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j) | 3:44 |
 | 12 | [Me Being Me](https://open.spotify.com/track/7kgol9YvFQLDG4etlyLPvw) | [Kenny Whitmire](https://open.spotify.com/artist/2LCnNZoA4EmYW1RgZS6R1N) | [Me Being Me](https://open.spotify.com/album/68vtMD9I49biuDZtxQ3VYO) | 3:48 |
 | 13 | ['Til You Can't](https://open.spotify.com/track/13rC4iKtfQocWIfzPOJxaT) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | ['Til You Can’t / Longer Than She Did](https://open.spotify.com/album/5MzgI1Hzjkf1Dj7xW7d1GL) | 3:44 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 15 | [Why Not Me](https://open.spotify.com/track/6BkK5Dsu1kTne7Cn6EyYex) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Why Not Me](https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA) | 3:29 |
 | 16 | [He Sure Is Nice](https://open.spotify.com/track/6skkd60h40oOZzC3d97Alj) | [Belle Frantz](https://open.spotify.com/artist/7impCQSfqOMNU2WJPuoGXL) | [For Those Who Despise Valentine’s](https://open.spotify.com/album/6vxSzaj0glrPc78ALLEfGt) | 3:37 |
 | 17 | [Where That Came From](https://open.spotify.com/track/6vNJDp8znmaQp2vAXHRPGd) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Where That Came From](https://open.spotify.com/album/0ijAqKhMaahw0WCyuntRlB) | 3:11 |
-| 18 | [Good Directions](https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Doin' Somethin' Right](https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5) | 3:35 |
+| 18 | [It's A Great Day To Be Alive](https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:01 |
 | 19 | [Sounds Like the Radio](https://open.spotify.com/track/5wCUOa3jSe5ZM3oXEutCdO) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Sounds Like The Radio](https://open.spotify.com/album/3Ca8JBhNiiE2bsPDwsxOdV) | 3:38 |
 | 20 | [Bar Star](https://open.spotify.com/track/2WtSCFXxKqjzfl2vZRkzcW) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Bar Star](https://open.spotify.com/album/1xcS7YZLIRIARfz4yHoLhW) | 2:52 |
 | 21 | [Change The Man](https://open.spotify.com/track/10BWPBIJFx3RPgJfTKS15N) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Change The Man](https://open.spotify.com/album/5rlZ8t1zTFpFPQPOiVUEbO) | 3:31 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 69 | [Small Town Saturday Night](https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ) | [Hal Ketchum](https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7) | [Past The Point Of Rescue](https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE) | 2:57 |
 | 70 | [State You Left Me In](https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [State You Left Me In](https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd) | 5:25 |
 | 71 | [That Ain't My Truck](https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR) | [Rhett Akins](https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24) | [A Thousand Memories](https://open.spotify.com/album/3dD77M8Lo9Ag3rSvzTD7Kb) | 4:03 |
-| 72 | [She's In Love With The Boy \- Single Version](https://open.spotify.com/track/2ulBBx6YQ3qY3ci34RadtN) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Trisha Yearwood](https://open.spotify.com/album/6US5XlX7w7nL9pRE0F5jeI) | 4:08 |
-| 73 | [One More Last Chance](https://open.spotify.com/track/2h5a6t9JFasqH5WJFPbmGL) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [I Still Believe In You](https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS) | 3:11 |
+| 72 | [One More Last Chance](https://open.spotify.com/track/2h5a6t9JFasqH5WJFPbmGL) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [I Still Believe In You](https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS) | 3:11 |
+| 73 | [She's In Love With The Boy \- Single Version](https://open.spotify.com/track/2ulBBx6YQ3qY3ci34RadtN) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Trisha Yearwood](https://open.spotify.com/album/6US5XlX7w7nL9pRE0F5jeI) | 4:08 |
 | 74 | [Wild One](https://open.spotify.com/track/0qrst0xZAZ0NtMtuUcEq0f) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Take Me as I Am](https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ) | 2:45 |
 | 75 | [Queen Of My Double Wide Trailer](https://open.spotify.com/track/3Wz9Fm9ZyhpaRGxMlSR5G4) | [Sammy Kershaw](https://open.spotify.com/artist/3tkZthBATD0S45hm1DmB2O) | [Haunted Heart](https://open.spotify.com/album/30ORdfQ1Movxqmpf3qkrMQ) | 3:31 |
 | 76 | [I Think I'll Just Stay Here And Drink](https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Back To The Barrooms](https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj) | 4:31 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 84 | [Forever and Ever, Amen](https://open.spotify.com/track/4rQSLX4qMiUWL81hEQOuPY) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Top 10](https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss) | 3:32 |
 | 85 | [Pickup Man](https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Greatest Hits](https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0) | 3:36 |
 | 86 | [One Night Standards](https://open.spotify.com/track/47qZzTLLJcuD69AIKnquo4) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:10 |
-| 87 | [Tequila Does](https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 4:01 |
-| 88 | [If Heaven Wasn't So Far Away](https://open.spotify.com/track/0aW7CSfoMBKBzLE7VerHyn) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Outlaws Like Me](https://open.spotify.com/album/43WYprY30K1r0pbDmf3amq) | 3:43 |
+| 87 | [If Heaven Wasn't So Far Away](https://open.spotify.com/track/0aW7CSfoMBKBzLE7VerHyn) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Outlaws Like Me](https://open.spotify.com/album/43WYprY30K1r0pbDmf3amq) | 3:43 |
+| 88 | [Tequila Does](https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 4:01 |
 | 89 | [Strangers](https://open.spotify.com/track/2h9qRt8R214yJEBfoPAv3B) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Strangers](https://open.spotify.com/album/6x3Jiy9Tb3ju6huNiXGzxq) | 3:31 |
 | 90 | [Strawberry Wine](https://open.spotify.com/track/3ODF56f90W3qxDqxHAUi3v) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [The Deana Carter Collection](https://open.spotify.com/album/5WqK9zGqUlTw7IPY2k1Yqd) | 4:50 |
 | 91 | [Grandpa \(Tell Me 'Bout The Good Old Days\)](https://open.spotify.com/track/1KNNTdw7SzJ90p6RXq4kGE) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [I Will Stand By You \- The Essential Collection](https://open.spotify.com/album/3bKF0hgQ4aETX7Bb0bFQeM) | 4:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 99 | [Country Again](https://open.spotify.com/track/3CiF9D8iuVhZWDvvjf8HpG) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv) | 3:41 |
 | 100 | [I Wish You Would \(ft\. Midland\)](https://open.spotify.com/track/3wdvFJv9nXCmnBNzP2pMTo) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ), [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [I Wish You Would \(ft\. Midland\)](https://open.spotify.com/album/0MQvYrTBZn5k07K1gZhxf7) | 2:53 |
 
-Snapshot ID: `AAAAAJn7b6YZ2b623r4xTTtcfsZ8WERo`
+Snapshot ID: `AAAAAFN69gSh01C+Dz8XqPDBVEhN9q+C`

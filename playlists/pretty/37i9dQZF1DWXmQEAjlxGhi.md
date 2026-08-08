@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 
 > Upbeat Latin songs to keep your heart rate up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,398,539 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,398,525 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 | 32 | [El Teléfono](https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy](https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL) | 3:55 |
 | 33 | [Pa' Que La Pases Bien](https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [El Fenomeno](https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s) | 3:34 |
 | 34 | [Verano Rosa](https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:30 |
-| 35 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
-| 36 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 |
+| 35 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 |
+| 36 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
 | 37 | [LA VILLA](https://open.spotify.com/track/6YkGw5op7PeyP2gmMMMrfJ) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Gangsta](https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3) | [LA VILLA](https://open.spotify.com/album/1XVigPq3MfLv2kDIwWu1tq) | 3:12 |
 | 38 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 |
 | 39 | [QLONA](https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:52 |
 | 40 | [LA FALDA](https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 |
-| 41 | [Daddy Yankee: Bzrp Music Sessions, Vol\. 0/66](https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Daddy Yankee: Bzrp Music Sessions, Vol\. 0/66](https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t) | 2:31 |
-| 42 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 |
+| 41 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 |
+| 42 | [Daddy Yankee: Bzrp Music Sessions, Vol\. 0/66](https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Daddy Yankee: Bzrp Music Sessions, Vol\. 0/66](https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t) | 2:31 |
 | 43 | [En Privado](https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Privado](https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc) | 3:19 |
 | 44 | [DILUVIO](https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:17 |
 | 45 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 | 99 | [HOLA PERDIDA REMIX](https://open.spotify.com/track/2FqTbwiogEVvZnkarPf5BV) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [HOLA PERDIDA REMIX](https://open.spotify.com/album/5s4gYQChmlp8YwoNj3Vwi2) | 3:21 |
 | 100 | [BANSHEE](https://open.spotify.com/track/2phA5dZJrWqOBrOHFAgrjQ) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [BANSHEE](https://open.spotify.com/album/3Ory0Dd1Nrslodb0Po92AN) | 3:07 |
 
-Snapshot ID: `AAAAAF1qaoAUmM+Zn9MAzAuVH0xoji30`
+Snapshot ID: `AAAAAEVi4jUXVUaJD8WJErxfzkagx2Zz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 
 > "Si mañana yo me muero, no se pongan a llorar, mejor me pasean con banda por mi pueblito natal" Valentin Elizalde en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,707 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,719 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 | 74 | [Amor Prohibido](https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:52 |
 | 75 | [Mi Credo](https://open.spotify.com/track/7GhyiB8rG71HqBmG27w7qT) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Serie 33](https://open.spotify.com/album/3PIuNJyPBC9mq757BYaw9C) | 3:04 |
 
-Snapshot ID: `AAAAAKbQsxQR25cfz7NGYEJwcptDwYQR`
+Snapshot ID: `AAAAAKO9DdsXmac/j8Y8Yvc9ETS+X6sY`

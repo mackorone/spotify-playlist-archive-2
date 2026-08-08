@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGxE2yNX5n1Gw3LhnuaPvMMauBQl",
+  "snapshot_id": "AAAAAA+v15Pn7557lNmX1xc/Ri0ZyFM8",
   "tracks": [
     {
       "added_at": "2025-04-10 23:53:58",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "El Maestro Con Sus 16 Exitos",
-        "url": "https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n Orlando",
-          "url": "https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt"
-        }
-      ],
-      "duration_ms": 279533,
-      "name": "No Hay Nadie Mas",
-      "url": "https://open.spotify.com/track/2H1jyjx3xm1LHH4KFN3BDS"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Tonto Corazon",
         "url": "https://open.spotify.com/album/5Hs5ycdTJOpw7hMLHTo2mW"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 315800,
       "name": "Hipocres\u00eda",
       "url": "https://open.spotify.com/track/0k8nK5uk57o3gYEjy8KDEv"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "El Maestro Con Sus 16 Exitos",
+        "url": "https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n Orlando",
+          "url": "https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt"
+        }
+      ],
+      "duration_ms": 279533,
+      "name": "No Hay Nadie Mas",
+      "url": "https://open.spotify.com/track/2H1jyjx3xm1LHH4KFN3BDS"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/55dzfiC1Ut2CCvQZv5qm50"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n Orlando",
-          "url": "https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "El Silencio, Tu Y Yo",
-      "url": "https://open.spotify.com/track/6Fq1XeTdN5ApqxiJxieL75"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Tonto Corazon",
         "url": "https://open.spotify.com/album/5Hs5ycdTJOpw7hMLHTo2mW"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 263280,
       "name": "El Perro Ajeno",
       "url": "https://open.spotify.com/track/2Yu3zhanQK498K7bkEntn1"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/55dzfiC1Ut2CCvQZv5qm50"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n Orlando",
+          "url": "https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "El Silencio, Tu Y Yo",
+      "url": "https://open.spotify.com/track/6Fq1XeTdN5ApqxiJxieL75"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "Esta Noche!",
+        "url": "https://open.spotify.com/album/4mk7v0ZkHoY6JnpWsXjTIJ"
+      },
+      "artists": [
+        {
+          "name": "Milly y Los Vecinos",
+          "url": "https://open.spotify.com/artist/6chSSyOL6ixhpW90buRBhu"
+        }
+      ],
+      "duration_ms": 277440,
+      "name": "Volvio Juanita",
+      "url": "https://open.spotify.com/track/16aBbOfpk7SOVSCSagWRkZ"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "Best Of The Best",
         "url": "https://open.spotify.com/album/16GgLICbOKpyo2XH4Dmbcs"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 286026,
       "name": "Ta' Encendio",
       "url": "https://open.spotify.com/track/3tAplt4FkuuOBYvMlfq8wA"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "La Fiesta Esta Buena",
-        "url": "https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc"
-      },
-      "artists": [
-        {
-          "name": "Bonny Cepeda",
-          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
-        }
-      ],
-      "duration_ms": 247379,
-      "name": "La Fotografia",
-      "url": "https://open.spotify.com/track/3WMA5XIBaQEWP0Ly1iq6GI"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "The Last Kiss (Latin Edition)",
-        "url": "https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG"
+        "name": "La Fiesta Esta Buena",
+        "url": "https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc"
       },
       "artists": [
         {
-          "name": "El Zafiro",
-          "url": "https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E"
+          "name": "Bonny Cepeda",
+          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
         }
       ],
-      "duration_ms": 257560,
-      "name": "Hay No Se Que Hacer",
-      "url": "https://open.spotify.com/track/2bu0vzMnwzjOcHD5xWWU4X"
+      "duration_ms": 247379,
+      "name": "La Fotografia",
+      "url": "https://open.spotify.com/track/3WMA5XIBaQEWP0Ly1iq6GI"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "The Last Kiss (Latin Edition)",
+        "url": "https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG"
+      },
+      "artists": [
+        {
+          "name": "El Zafiro",
+          "url": "https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E"
+        }
+      ],
+      "duration_ms": 257560,
+      "name": "Hay No Se Que Hacer",
+      "url": "https://open.spotify.com/track/2bu0vzMnwzjOcHD5xWWU4X"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "Chic\u00e1n",
         "url": "https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 262321,
       "name": "Como una Loba",
       "url": "https://open.spotify.com/track/7imf1muwG5clrKid7c41Yr"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "!Ay Doctor!",
-        "url": "https://open.spotify.com/album/1hv08uq7rFsDSbI1jfDkk0"
-      },
-      "artists": [
-        {
-          "name": "Bonny Cepeda",
-          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
-        }
-      ],
-      "duration_ms": 302509,
-      "name": "Ay Doctor",
-      "url": "https://open.spotify.com/track/3Xnz9X44B2cdJHpfMeKgIv"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Wilfrido Vargas Presenta the New York Band",
-        "url": "https://open.spotify.com/album/2IJlLUBfoUVWQF5zLaN8zb"
+        "name": "!Ay Doctor!",
+        "url": "https://open.spotify.com/album/1hv08uq7rFsDSbI1jfDkk0"
       },
       "artists": [
         {
-          "name": "Wilfrido Vargas y the New York Band",
-          "url": "https://open.spotify.com/artist/2iAcT5FciR14w0HYRlZIQB"
+          "name": "Bonny Cepeda",
+          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
         }
       ],
-      "duration_ms": 269906,
-      "name": "Si Tu Eres Mi Hombre y Yo Tu Mujer",
-      "url": "https://open.spotify.com/track/6Y7ebE47mQUZplpULuW7NW"
+      "duration_ms": 302509,
+      "name": "Ay Doctor",
+      "url": "https://open.spotify.com/track/3Xnz9X44B2cdJHpfMeKgIv"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "Wilfrido Vargas Presenta the New York Band",
+        "url": "https://open.spotify.com/album/2IJlLUBfoUVWQF5zLaN8zb"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas y the New York Band",
+          "url": "https://open.spotify.com/artist/2iAcT5FciR14w0HYRlZIQB"
+        }
+      ],
+      "duration_ms": 269906,
+      "name": "Si Tu Eres Mi Hombre y Yo Tu Mujer",
+      "url": "https://open.spotify.com/track/6Y7ebE47mQUZplpULuW7NW"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "Coleccion Salsa Discotheque - Vol. 1",
         "url": "https://open.spotify.com/album/63SHFLiJKJeMQ4KoXNlLxH"
       },
@@ -1499,22 +1515,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "!Ay Doctor!",
-        "url": "https://open.spotify.com/album/1hv08uq7rFsDSbI1jfDkk0"
-      },
-      "artists": [
-        {
-          "name": "Bonny Cepeda",
-          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
-        }
-      ],
-      "duration_ms": 284421,
-      "name": "La Asesina",
-      "url": "https://open.spotify.com/track/6hvsoQUupq8r1JdNdwpbdU"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Exitos Inolvidables de Benny Sadel",
         "url": "https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM"
       },
@@ -1527,6 +1527,22 @@
       "duration_ms": 262426,
       "name": "Amor, Amor",
       "url": "https://open.spotify.com/track/31Tuftk7aZpz0SqrO4TukY"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "!Ay Doctor!",
+        "url": "https://open.spotify.com/album/1hv08uq7rFsDSbI1jfDkk0"
+      },
+      "artists": [
+        {
+          "name": "Bonny Cepeda",
+          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
+        }
+      ],
+      "duration_ms": 284421,
+      "name": "La Asesina",
+      "url": "https://open.spotify.com/track/6hvsoQUupq8r1JdNdwpbdU"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1579,22 +1595,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "11 Exitos",
-        "url": "https://open.spotify.com/album/6sfL5qMPQi6k2JuvGlLB1j"
-      },
-      "artists": [
-        {
-          "name": "Dionis Fernandez",
-          "url": "https://open.spotify.com/artist/6gpiTm3vKuiZuFN3fOSlc3"
-        }
-      ],
-      "duration_ms": 291994,
-      "name": "Cal y Arena",
-      "url": "https://open.spotify.com/track/1IffMRFnj7ZBNRguSj2shI"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "La Negra Mia",
         "url": "https://open.spotify.com/album/5x4cKnzSCXbgNOEW4mz3SK"
       },
@@ -1607,6 +1607,22 @@
       "duration_ms": 254511,
       "name": "Maldita Sea",
       "url": "https://open.spotify.com/track/5YjpYs0P1BcT486h5IIAss"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "11 Exitos",
+        "url": "https://open.spotify.com/album/6sfL5qMPQi6k2JuvGlLB1j"
+      },
+      "artists": [
+        {
+          "name": "Dionis Fernandez",
+          "url": "https://open.spotify.com/artist/6gpiTm3vKuiZuFN3fOSlc3"
+        }
+      ],
+      "duration_ms": 291994,
+      "name": "Cal y Arena",
+      "url": "https://open.spotify.com/track/1IffMRFnj7ZBNRguSj2shI"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1659,22 +1675,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Noches Latinas",
-        "url": "https://open.spotify.com/album/78mFtQUxBPYxrb2p2LNc0d"
-      },
-      "artists": [
-        {
-          "name": "Rubby Perez",
-          "url": "https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "Locamente Enamorado",
-      "url": "https://open.spotify.com/track/77lij4KlT9qORwjpMe3FHE"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Miriam Collection",
         "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
       },
@@ -1687,6 +1687,22 @@
       "duration_ms": 226520,
       "name": "Que Me Perdone Tu Se\u00f1ora",
       "url": "https://open.spotify.com/track/66bQ3XrXyNL2fKPbKanSfI"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Noches Latinas",
+        "url": "https://open.spotify.com/album/78mFtQUxBPYxrb2p2LNc0d"
+      },
+      "artists": [
+        {
+          "name": "Rubby Perez",
+          "url": "https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC"
+        }
+      ],
+      "duration_ms": 264800,
+      "name": "Locamente Enamorado",
+      "url": "https://open.spotify.com/track/77lij4KlT9qORwjpMe3FHE"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1739,22 +1755,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Merengues Cl\u00e1sicos de los 80\u00b4s, Vol. 2",
-        "url": "https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE"
-      },
-      "artists": [
-        {
-          "name": "Aramis Camilo",
-          "url": "https://open.spotify.com/artist/2uXrtZz6GmQnXEJR1eh97C"
-        }
-      ],
-      "duration_ms": 224784,
-      "name": "El Motor",
-      "url": "https://open.spotify.com/track/1rr7wEzQXoxS2LFAdMkAT7"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Miriam Collection",
         "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
       },
@@ -1767,6 +1767,22 @@
       "duration_ms": 241506,
       "name": "Esa Loca",
       "url": "https://open.spotify.com/track/2xaQcwMDgoDvq6wF81cN9k"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Merengues Cl\u00e1sicos de los 80\u00b4s, Vol. 2",
+        "url": "https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE"
+      },
+      "artists": [
+        {
+          "name": "Aramis Camilo",
+          "url": "https://open.spotify.com/artist/2uXrtZz6GmQnXEJR1eh97C"
+        }
+      ],
+      "duration_ms": 224784,
+      "name": "El Motor",
+      "url": "https://open.spotify.com/track/1rr7wEzQXoxS2LFAdMkAT7"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1819,22 +1835,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Chic\u00e1n",
-        "url": "https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Del Can",
-          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
-        }
-      ],
-      "duration_ms": 299546,
-      "name": "Juana la Cubana",
-      "url": "https://open.spotify.com/track/4Zw8m6Zuhv3eFKKQy5MWTs"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Miriam Collection",
         "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
       },
@@ -1847,6 +1847,22 @@
       "duration_ms": 271013,
       "name": "Que Ganas De No Verte Nunca Mas",
       "url": "https://open.spotify.com/track/2FnRMLwYTrrKgUbHNRfDr7"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Chic\u00e1n",
+        "url": "https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Del Can",
+          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
+        }
+      ],
+      "duration_ms": 299546,
+      "name": "Juana la Cubana",
+      "url": "https://open.spotify.com/track/4Zw8m6Zuhv3eFKKQy5MWTs"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1899,22 +1915,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "The Last Kiss (Latin Edition)",
-        "url": "https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG"
-      },
-      "artists": [
-        {
-          "name": "El Zafiro",
-          "url": "https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E"
-        }
-      ],
-      "duration_ms": 228746,
-      "name": "El Cantante del Amor",
-      "url": "https://open.spotify.com/track/5RPWLHocWVJxJlDNH96YJn"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Miriam Collection",
         "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
       },
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "The Last Kiss (Latin Edition)",
+        "url": "https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG"
+      },
+      "artists": [
+        {
+          "name": "El Zafiro",
+          "url": "https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E"
+        }
+      ],
+      "duration_ms": 228746,
+      "name": "El Cantante del Amor",
+      "url": "https://open.spotify.com/track/5RPWLHocWVJxJlDNH96YJn"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "Lo Mejor de Milly y los Vecinos",
         "url": "https://open.spotify.com/album/4uHYjoKQaSFTYlClgkpHgj"
       },
@@ -1943,22 +1959,6 @@
       "duration_ms": 269226,
       "name": "Volvio Juanita",
       "url": "https://open.spotify.com/track/2lsID1nDbyiP1NEd5zntlh"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Esta Noche!",
-        "url": "https://open.spotify.com/album/4mk7v0ZkHoY6JnpWsXjTIJ"
-      },
-      "artists": [
-        {
-          "name": "Milly y Los Vecinos",
-          "url": "https://open.spotify.com/artist/6chSSyOL6ixhpW90buRBhu"
-        }
-      ],
-      "duration_ms": 277440,
-      "name": "Volvio Juanita",
-      "url": "https://open.spotify.com/track/16aBbOfpk7SOVSCSagWRkZ"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -2392,9 +2392,9 @@
           "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
         }
       ],
-      "duration_ms": 267373,
-      "name": "El Jardinero",
-      "url": "https://open.spotify.com/track/6V1U0LsuKlPZZ4WyMAC9SL"
+      "duration_ms": 291506,
+      "name": "El Loco Y La Luna",
+      "url": "https://open.spotify.com/track/4CX2taCdwBYyhx8d7wYwaW"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -2415,8 +2415,8 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "El Mayimbe",
-        "url": "https://open.spotify.com/album/5wIvzXgpFdveTZ8OzKkSNf"
+        "name": "El Gran Mayimbe",
+        "url": "https://open.spotify.com/album/2zNITytUCZB1igeLvy0yEC"
       },
       "artists": [
         {
@@ -2424,9 +2424,9 @@
           "url": "https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu"
         }
       ],
-      "duration_ms": 305933,
-      "name": "Tabaco Y Ron",
-      "url": "https://open.spotify.com/track/2xO37ku7ZNTDRaPx33a8dl"
+      "duration_ms": 141573,
+      "name": "Concavo Y Convexo",
+      "url": "https://open.spotify.com/track/38Nbr6NsK7PS12qPnbnUcz"
     },
     {
       "added_at": "2024-06-28 21:55:14",

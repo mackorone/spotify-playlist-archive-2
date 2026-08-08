@@ -2,9 +2,9 @@
 
 ### [juniper](https://open.spotify.com/playlist/37i9dQZF1DWX4NtIOfns5I)
 
-> meet renny conti 💌
+> Way Dynamic <3
 
-867 songs - 2 day 4 hr 19 min
+870 songs - 2 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,6 +402,7 @@
 | [Infinite](https://open.spotify.com/track/2DiCZQljCbMyty6dYhIMuL) | [The Man The Myth The Meatslab](https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x) | [Infinite](https://open.spotify.com/album/4WhwCj945Sb7bg2oomFbV7) | 3:16 | 2025-03-14 | 2025-09-20 |
 | [Irish Goodbye](https://open.spotify.com/track/7ERPDzFA20PGO1KEyXAM0K) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Irish Goodbye](https://open.spotify.com/album/0YdG7xCYQSk8nvVQi0MgQG) | 2:19 | 2024-07-26 | 2024-09-07 |
 | [Is What It Is](https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Is What It Is](https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB) | 3:23 | 2024-08-09 | 2024-09-14 |
+| [It Just So Happens](https://open.spotify.com/track/39VskX4yIWsxCSE1x7Wa8j) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Feelings Are Forever](https://open.spotify.com/album/01rDa3R9E2OMXOISdH1295) | 2:48 | 2026-08-07 |  |
 | [It's Only You](https://open.spotify.com/track/4UxJfZyHENxiSp60UzTGLW) | [Prewn](https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS) | [System](https://open.spotify.com/album/4aweXXTsOD2Jx6XMGfLfru) | 3:16 | 2025-10-10 | 2026-04-25 |
 | [It's You \- from "Heated Rivalry"](https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC), [Heated Rivalry](https://open.spotify.com/artist/0pDgAgv55HFzAlAh2uQEqz) | [Rivalry / It's You \(from "Heated Rivalry" Original Series Soundtrack\)](https://open.spotify.com/album/1NsdL2wUV1Wogqpefzxl7s) | 4:00 | 2026-01-09 | 2026-07-18 |
 | [J&L](https://open.spotify.com/track/3JNZZrulRYbWLZaAkK56tr) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [takeaways](https://open.spotify.com/album/7auX3hZqaH4Xlvfz8G5thm) | 3:50 | 2025-11-21 | 2026-07-11 |
@@ -536,6 +537,7 @@
 | [nothing stays the same](https://open.spotify.com/track/1G5BjlSpXHxNYrekbizoqB) | [katie phelan](https://open.spotify.com/artist/7g4ZlfLhJhCxpaMPUH2PY4) | [nothing stays the same](https://open.spotify.com/album/5LwN7m2X4JWl0k3Pcpky1v) | 3:49 | 2025-05-09 | 2025-08-09 |
 | [October \(October Version\)](https://open.spotify.com/track/3yNu9MBN7cBxMY17fxinZD) | [HAPPY LANDING](https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6) | [October \(October Version\)](https://open.spotify.com/album/3uf5rVvGGDmnbWBH0ZvJse) | 4:37 | 2023-10-06 | 2024-04-13 |
 | [October Moon](https://open.spotify.com/track/3YsdzICwd73j0iZZB3l4z9) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [October Moon](https://open.spotify.com/album/330v2AkPhkpww8XyWcllyp) | 4:06 | 2024-10-11 | 2025-05-10 |
+| [Officially](https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Officially](https://open.spotify.com/album/2JLycznyORfKJDAxKa5Zbv) | 3:25 | 2026-08-07 |  |
 | [Oh No! \- Edit](https://open.spotify.com/track/6WNz0P5M39PYy06ujl54Ku) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Oh No! \(Edit\)](https://open.spotify.com/album/1bRxGv1rHtNJmVb6pOXHkv) | 3:26 | 2025-06-02 | 2026-01-17 |
 | [Old Car](https://open.spotify.com/track/3o6wfrXEOOd1wk836lNyQS) | [Chrissy](https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f) | [Old Car](https://open.spotify.com/album/0dY7aaSn3OtgYSyeVl73hA) | 3:19 | 2024-10-09 | 2025-05-10 |
 | [Old Fort Steel Trail](https://open.spotify.com/track/4kcsDPAER6xQl8WFyWP1gr) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Old Fort Steel Trail](https://open.spotify.com/album/7larsH6AfaDqGW4y4JBx5a) | 2:29 | 2025-12-12 | 2026-04-11 |
@@ -584,6 +586,7 @@
 | [Potion](https://open.spotify.com/track/2mEgBXBksVpGBotlB1yGZD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Potion](https://open.spotify.com/album/1ip3kwOjeoIXzxVwpqfL17) | 2:47 | 2025-04-04 | 2025-08-09 |
 | [Power](https://open.spotify.com/track/5YORFuC8yrRwlNvVVGhho8) | [Sister.](https://open.spotify.com/artist/3QooTofa3QjkPWjB7sMHCY) | [Two Birds](https://open.spotify.com/album/3XK27r3GGdbvu8WIfkPbv7) | 4:18 | 2025-07-23 | 2026-01-24 |
 | [Pressing Down](https://open.spotify.com/track/7FiiXwfEJnQ21sTktQ5gDm) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Teeth](https://open.spotify.com/album/7tTD3rUp3MltWeCdwviCl0) | 3:59 | 2023-10-06 | 2023-12-09 |
+| [Prettiest Girl in the World](https://open.spotify.com/track/3btySdKZS9xbwMRaGQ3MlA) | [Sesame Girl](https://open.spotify.com/artist/1M0AUiCvSkRu9wBC3z2wBX) | [Butterfly Wing in a Silver Locket](https://open.spotify.com/album/4vPDSxUamnIzgNxfDsg5QX) | 4:02 | 2026-08-07 |  |
 | [pretty out](https://open.spotify.com/track/5HOclWyzX8iunVPnnFB0g1) | [frans asthma](https://open.spotify.com/artist/09biooH630jXVJKFhTdzoL), [Qozy](https://open.spotify.com/artist/3LGjZxZ3jr5Cx9M4oj66Mh) | [pretty out](https://open.spotify.com/album/5UO3cqD7xbri2gxDrbjNQG) | 3:04 | 2024-10-18 | 2025-05-14 |
 | [Punch!](https://open.spotify.com/track/0KtEDhuatDxLCkXuidzTMg) | [Sophia Bacino](https://open.spotify.com/artist/0JCSx0A726fp2K75sXBfWK) | [Punch!](https://open.spotify.com/album/7epVLBNXiDexRm6zQtoSgn) | 3:03 | 2026-07-31 |  |
 | [Pup](https://open.spotify.com/track/7vxSL2veuTRQBhslhM7ENS) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Pup](https://open.spotify.com/album/5aTyRZw08z72j3xy0bEJfz) | 4:17 | 2023-11-10 | 2023-12-16 |

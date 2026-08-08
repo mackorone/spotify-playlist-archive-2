@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1brcxq.md) - [plain]
 
 > This is Charli xcx\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,410 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,482 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1brcxq.md) - [plain]
 | 18 | [Magic Metal Montana](https://open.spotify.com/track/7p2raGiQopzdSeYnWLwehY) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Music, Fashion, Film](https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8) | 2:30 |
 | 19 | [Sympathy is a knife](https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
 | 20 | [Track 10](https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 5:26 |
-| 21 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 |
+| 21 | [Hot In It \(feat\. Charli XCX\)](https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:09 |
 | 22 | [I’m Afraid](https://open.spotify.com/track/4g6L1ng6OP24fgTRnK7E6W) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Music, Fashion, Film](https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8) | 2:11 |
 | 23 | [B2b](https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:58 |
-| 24 | [Hot In It \(feat\. Charli XCX\)](https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:09 |
+| 24 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 |
 | 25 | [Dream Glow \(BTS World Original Soundtrack\) \(Pt\. 1\)](https://open.spotify.com/track/0GjWvVr7TZzceNwdSDRuXy) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Dream Glow \(BTS World Original Soundtrack\) \(Pt\. 1\)](https://open.spotify.com/album/1CnfThuhzI0hf4b6CJd5rq) | 3:07 |
 | 26 | [Fancy](https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [The New Classic \(Deluxe Version\)](https://open.spotify.com/album/5kfo2COwQYeYR3cE69aSgx) | 3:19 |
 | 27 | [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1brcxq.md) - [plain]
 | 49 | [2 die 4 \(feat\. Charli XCX\)](https://open.spotify.com/track/7lvfYYQXH6fxP7JAiY1tjz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [AR](https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt) | 2:06 |
 | 50 | [Next Level Charli](https://open.spotify.com/track/7a6HVxpLhW7hRL9JcFZl16) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 2:37 |
 
-Snapshot ID: `anJ9AAAAAABF45Iro1zNx8WKd6NfsYVm`
+Snapshot ID: `anPOgAAAAAD1H0aKXf+A6gRo9L1VqmLN`

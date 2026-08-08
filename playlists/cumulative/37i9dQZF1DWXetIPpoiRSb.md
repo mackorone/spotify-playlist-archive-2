@@ -4,7 +4,7 @@
 
 > pop's R&D department ⚡️🧪🧬 cover: Coupdekat
 
-2,372 songs - 4 day 22 hr 27 min
+2,372 songs - 4 day 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -911,6 +911,7 @@
 | [Hey Babe, I'm A Mess, I'm Sorry](https://open.spotify.com/track/2uDhen1tviMnGq4mKSse0n) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Hey Babe, I'm A Mess, I'm Sorry](https://open.spotify.com/album/0i83t3lG3v6QBZNPvkV0v3) | 3:55 | 2024-06-04 | 2024-10-19 |
 | [hey driver \(!\)](https://open.spotify.com/track/1PRtvOE6amZ7l5JqEWoBvD) | [Æ MAK](https://open.spotify.com/artist/2VQ0jNisT4VhPs41VGvvTX) | ["how to: make a kitsch pop song to show the world"](https://open.spotify.com/album/2XLjfbRdnHxaFQxrxs7NNv) | 3:37 | 2020-10-13\* | 2020-11-07 |
 | [HEYA](https://open.spotify.com/track/1jXkl4Jv3iiX0Maj77witN) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/5IEMUcisVV23gFbC471rTy) | 3:09 | 2024-05-03 | 2024-10-11 |
+| [heyyy](https://open.spotify.com/track/1nmodCSw2Iny0LJcvbFq78) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0), [Natalie Red](https://open.spotify.com/artist/38EW5PoQXJSd0tRuhmMbFL), [Ruby Bell](https://open.spotify.com/artist/3V8Eb1ys7e90m3eXLIWRSO) | [Goodbye 2012!](https://open.spotify.com/album/3tQeF8yT6b0WYUUZG8KTyi) | 3:02 | 2026-08-06 |  |
 | [High](https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 2:41 | 2023-12-01 | 2024-04-10 |
 | [High Dive](https://open.spotify.com/track/1pRFY9BsMGoSHIg2xWOsMO) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [High Dive](https://open.spotify.com/album/6XflHpjVENQ2zmbA2D97x3) | 3:05 | 2021-05-14 | 2021-07-10 |
 | [High Fashion](https://open.spotify.com/track/3m1LiSq0rio8k0yYlusWxV) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [High Fashion](https://open.spotify.com/album/5xkuXv7sF9nFqO5fYn6l7M) | 3:18 | 2025-02-21 | 2025-03-28 |
@@ -2175,7 +2176,6 @@
 | [top gun](https://open.spotify.com/track/5DZLRMLNeGRS73q0psBiBq) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [top gun](https://open.spotify.com/album/3yCB0HDiI8ilckWy85Em4u) | 2:21 | 2022-10-07 | 2022-11-05 |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-05 | 2024-12-21 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-06 | 2025-03-07 |
-| [Track 9](https://open.spotify.com/track/1nmodCSw2Iny0LJcvbFq78) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0) | [Goodbye 2012!](https://open.spotify.com/album/3tQeF8yT6b0WYUUZG8KTyi) | 0:00 | 2026-08-06 |  |
 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 | 2024-01-19 | 2024-04-10 |
 | [Traitor](https://open.spotify.com/track/7B4BgTFefaJ6VPcsXvMmq0) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Traitor](https://open.spotify.com/album/5MmR536vGgyvldeiZS7HVh) | 2:27 | 2025-01-17 | 2025-03-07 |
 | [Treadmill](https://open.spotify.com/track/0ewQUWupKrDmYFhhiyjqaA) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Treadmill](https://open.spotify.com/album/1lnKUpRIc0wAcnMP9scVlJ) | 3:13 | 2024-07-05 | 2024-12-21 |

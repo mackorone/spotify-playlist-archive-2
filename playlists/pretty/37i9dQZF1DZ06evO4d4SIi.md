@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d4SIi.md) - [plain]
 
 > This is Jordan Davis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,042 likes - 41 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,121 likes - 41 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,16 +12,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d4SIi.md) - [plain]
 | 2 | [Buy Dirt](https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:47 |
 | 3 | [Next Thing You Know](https://open.spotify.com/track/39OclE5hZematADrdfaWvE) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:55 |
 | 4 | [I Ain't Sayin'](https://open.spotify.com/track/50v47bZxJ7sIhiOn0iJWbL) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 2:54 |
-| 5 | [Singles You Up](https://open.spotify.com/track/4LiMQ6G9n84rDUBs9wtwz6) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:02 |
-| 6 | [Let It Go](https://open.spotify.com/track/64V8r31StUY8JoFXdnphZI) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Let It Go](https://open.spotify.com/album/4S11HIOfB1kuSmH7L5JEJC) | 3:42 |
+| 5 | [Let It Go](https://open.spotify.com/track/64V8r31StUY8JoFXdnphZI) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Let It Go](https://open.spotify.com/album/4S11HIOfB1kuSmH7L5JEJC) | 3:42 |
+| 6 | [Singles You Up](https://open.spotify.com/track/4LiMQ6G9n84rDUBs9wtwz6) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:02 |
 | 7 | [Ain't A Bad Life](https://open.spotify.com/track/59Wet0esLvTyJBhCjpXuUe) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [About A Woman \(Deluxe\)](https://open.spotify.com/album/5TKgp9lrgBIefaTE27G9w6) | 3:07 |
 | 8 | [Turn This Truck Around](https://open.spotify.com/track/26me6ABXv5sHTe6eriudll) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 3:24 |
-| 9 | [Take It From Me](https://open.spotify.com/track/3dCZm5HrG0jIXAHfNkg2H0) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 2:54 |
-| 10 | [Tucson Too Late](https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:52 |
+| 9 | [Tucson Too Late](https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:52 |
+| 10 | [Take It From Me](https://open.spotify.com/track/3dCZm5HrG0jIXAHfNkg2H0) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 2:54 |
 | 11 | [Almost Maybes](https://open.spotify.com/track/1BVzLiBS3MWmXzqcxBFJDt) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:59 |
 | 12 | [Bar None](https://open.spotify.com/track/13XDnusYSagPbCb3I8u9sU) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 2:53 |
-| 13 | [Slow Dance In A Parking Lot](https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:13 |
-| 14 | [A Little Lime](https://open.spotify.com/track/3vfBA0Q342toaXalxwPvOo) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Jordan Davis](https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c) | 2:39 |
+| 13 | [A Little Lime](https://open.spotify.com/track/3vfBA0Q342toaXalxwPvOo) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Jordan Davis](https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c) | 2:39 |
+| 14 | [Slow Dance In A Parking Lot](https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:13 |
 | 15 | [Lose You](https://open.spotify.com/track/6t9p9BwdZMCgXeAlkfA0RP) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 3:23 |
 | 16 | [Like God Intended](https://open.spotify.com/track/1dPKGWxMILRedoNtjUa8mh) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Like God Intended](https://open.spotify.com/album/3M5QPvH82Rj2aMxe5dlvp1) | 2:56 |
 | 17 | [Damn Good Time](https://open.spotify.com/track/0ELJDwu2zTOFb2h4K1qaOE) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:41 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4d4SIi.md) - [plain]
 | 40 | [Country Gold](https://open.spotify.com/track/0UnMW3SztHeKFHTEIFyIVh) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [REBEL](https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V) | 3:16 |
 | 41 | [Trouble Town](https://open.spotify.com/track/7wmCQ3tYnjfk03VuVrsgzr) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Trouble Town](https://open.spotify.com/album/09cYxat6XWP2nb3o1EFNYF) | 3:04 |
 
-Snapshot ID: `anJ9AAAAAAA82g+iacXXYYEeYDBJOVhE`
+Snapshot ID: `anPOgAAAAADWkFKIja1BSkF5UnvuQXQw`

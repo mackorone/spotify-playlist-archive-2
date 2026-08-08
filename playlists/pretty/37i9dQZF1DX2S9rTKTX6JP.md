@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > killer rock & alternative covers\. Cover: YUNGBLUD, Steven Tyler and Joe Perry at The VMAs
 
-[Spotify](https://open.spotify.com/user/spotify) - 765,930 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 765,992 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 99 | [For What It's Worth](https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [For What It's Worth](https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9) | 4:52 |
 | 100 | [Hungry Like the Wolf \- Recorded Live at AIR Studios, London](https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Spotify Singles](https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO) | 3:09 |
 
-Snapshot ID: `AAAAAE5yH3QIkSYQI3GF44sJMk7Z5qmp`
+Snapshot ID: `AAAAAF9gbV4nQauNAszuTKPXblyRU/WP`

@@ -1,12 +1,12 @@
 {
   "description": "have fun with it.",
-  "num_followers": 1481886,
+  "num_followers": 1481864,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEXMTOhx0a/s7B4kegeGBY7zstcC",
+  "snapshot_id": "AAAAADF45k7Dmd5XaJ1HZr4WTsM9g68Q",
   "tracks": [
     {
       "added_at": "2026-07-17 14:50:49",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-07-17 14:50:49",
       "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 207652,
-      "name": "This Is Why",
-      "url": "https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"
-    },
-    {
-      "added_at": "2026-07-17 14:50:49",
-      "album": {
         "name": "Loveland",
         "url": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 194346,
       "name": "Back in Love",
       "url": "https://open.spotify.com/track/62S62F7p3A7qOjkbApWe5i"
+    },
+    {
+      "added_at": "2026-07-17 14:50:49",
+      "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 207652,
+      "name": "This Is Why",
+      "url": "https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"
     },
     {
       "added_at": "2026-07-17 14:50:49",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-07-17 14:50:49",
       "album": {
-        "name": "Victory Garden",
-        "url": "https://open.spotify.com/album/70ch2R18v3Zho0SlcN4CAN"
-      },
-      "artists": [
-        {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
-        }
-      ],
-      "duration_ms": 221026,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/3fLX6yRLD2IkWQUxDJEQ0S"
-    },
-    {
-      "added_at": "2026-07-17 14:50:49",
-      "album": {
         "name": "Vampire Bat",
         "url": "https://open.spotify.com/album/0Dfpaar3pZDMBM4xwZhCfC"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 206652,
       "name": "Vampire Bat",
       "url": "https://open.spotify.com/track/4rLyT7uQtWQRtGShwTaUju"
+    },
+    {
+      "added_at": "2026-07-17 14:50:49",
+      "album": {
+        "name": "Victory Garden",
+        "url": "https://open.spotify.com/album/70ch2R18v3Zho0SlcN4CAN"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "duration_ms": 221026,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/3fLX6yRLD2IkWQUxDJEQ0S"
     },
     {
       "added_at": "2026-07-17 14:50:49",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-07-17 14:50:49",
       "album": {
-        "name": "Life's Been Good",
-        "url": "https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto"
-      },
-      "artists": [
-        {
-          "name": "Dirty Heads",
-          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
-        }
-      ],
-      "duration_ms": 193950,
-      "name": "Life's Been Good",
-      "url": "https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w"
-    },
-    {
-      "added_at": "2026-07-17 14:50:49",
-      "album": {
         "name": "Maybe Not Tonight",
         "url": "https://open.spotify.com/album/7EO4tVModdOi5Xh3m7uEzC"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 179412,
       "name": "All Bad Parts",
       "url": "https://open.spotify.com/track/0Y7sxwikhxUeGQk8cRWhgd"
+    },
+    {
+      "added_at": "2026-07-17 14:50:49",
+      "album": {
+        "name": "Life's Been Good",
+        "url": "https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto"
+      },
+      "artists": [
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        }
+      ],
+      "duration_ms": 193950,
+      "name": "Life's Been Good",
+      "url": "https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w"
     },
     {
       "added_at": "2026-07-17 14:50:49",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2026-07-17 14:50:49",
       "album": {
-        "name": "Where the Redwoods Meet the Sea",
-        "url": "https://open.spotify.com/album/3XPdCfPF5QctGxYqHGdqoH"
-      },
-      "artists": [
-        {
-          "name": "Windser",
-          "url": "https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "Memory",
-      "url": "https://open.spotify.com/track/4alv8RaCCKQAShJ9Xya9w7"
-    },
-    {
-      "added_at": "2026-07-17 14:50:49",
-      "album": {
         "name": "Aperture",
         "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 196739,
       "name": "Lose",
       "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
+    },
+    {
+      "added_at": "2026-07-17 14:50:49",
+      "album": {
+        "name": "Where the Redwoods Meet the Sea",
+        "url": "https://open.spotify.com/album/3XPdCfPF5QctGxYqHGdqoH"
+      },
+      "artists": [
+        {
+          "name": "Windser",
+          "url": "https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/4alv8RaCCKQAShJ9Xya9w7"
     },
     {
       "added_at": "2026-07-17 14:50:49",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2026-07-17 14:50:49",
       "album": {
-        "name": "Damn Shame",
-        "url": "https://open.spotify.com/album/4kMW4QkHFBOBvx5wIn8uDF"
-      },
-      "artists": [
-        {
-          "name": "LAUNDRY DAY",
-          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
-        }
-      ],
-      "duration_ms": 168537,
-      "name": "Damn Shame",
-      "url": "https://open.spotify.com/track/5XP4NbKorAE3mMl5gcuQW6"
-    },
-    {
-      "added_at": "2026-07-17 14:50:49",
-      "album": {
         "name": "All Your Life",
         "url": "https://open.spotify.com/album/0VwdyfZunjwEUq26Yd5Dez"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 196516,
       "name": "All Your Life",
       "url": "https://open.spotify.com/track/5tL2wDaEAsdTGLa8hN5NWq"
+    },
+    {
+      "added_at": "2026-07-17 14:50:49",
+      "album": {
+        "name": "Damn Shame",
+        "url": "https://open.spotify.com/album/4kMW4QkHFBOBvx5wIn8uDF"
+      },
+      "artists": [
+        {
+          "name": "LAUNDRY DAY",
+          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
+        }
+      ],
+      "duration_ms": 168537,
+      "name": "Damn Shame",
+      "url": "https://open.spotify.com/track/5XP4NbKorAE3mMl5gcuQW6"
     },
     {
       "added_at": "2026-07-17 14:50:49",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2026-07-17 14:50:49",
       "album": {
-        "name": "Terrestrials",
-        "url": "https://open.spotify.com/album/2zV4jllZ8rjHsbUQjaMewQ"
-      },
-      "artists": [
-        {
-          "name": "Pond",
-          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
-        }
-      ],
-      "duration_ms": 239173,
-      "name": "Terrestrials",
-      "url": "https://open.spotify.com/track/2zNYy4o5FNpOw8inCLlE3s"
-    },
-    {
-      "added_at": "2026-07-17 14:50:49",
-      "album": {
         "name": "Run Away With Me",
         "url": "https://open.spotify.com/album/17HtJeuxy9kO8agW21ua9I"
       },
@@ -2043,18 +2027,18 @@
     {
       "added_at": "2026-07-17 14:50:49",
       "album": {
-        "name": "Sure Enough",
-        "url": "https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u"
+        "name": "Terrestrials",
+        "url": "https://open.spotify.com/album/2zV4jllZ8rjHsbUQjaMewQ"
       },
       "artists": [
         {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+          "name": "Pond",
+          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
         }
       ],
-      "duration_ms": 171272,
-      "name": "Sure Enough",
-      "url": "https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM"
+      "duration_ms": 239173,
+      "name": "Terrestrials",
+      "url": "https://open.spotify.com/track/2zNYy4o5FNpOw8inCLlE3s"
     },
     {
       "added_at": "2026-07-17 14:50:49",
@@ -2071,6 +2055,22 @@
       "duration_ms": 163264,
       "name": "New York",
       "url": "https://open.spotify.com/track/6a2HBMpj2G2wXSrgBl9ZNT"
+    },
+    {
+      "added_at": "2026-07-17 14:50:49",
+      "album": {
+        "name": "Sure Enough",
+        "url": "https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 171272,
+      "name": "Sure Enough",
+      "url": "https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM"
     },
     {
       "added_at": "2026-07-17 14:50:49",

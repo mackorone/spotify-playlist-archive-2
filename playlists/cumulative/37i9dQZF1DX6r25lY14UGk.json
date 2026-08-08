@@ -2462,7 +2462,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 44500,
       "name": "Breakthrough",
       "url": "https://open.spotify.com/track/1vf0Sa8m3CjX6qvVxoPCO5"
@@ -3214,7 +3214,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 176041,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/68bUHM87R1VgxqxZa7jQpF"
@@ -3828,7 +3828,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 135436,
       "name": "Cook Like a Chef",
       "url": "https://open.spotify.com/track/4YCEkBGxqwh5PsYH1nXmDQ"
@@ -6252,7 +6252,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 115400,
       "name": "Five Little Monsters - Max's Playtime",
       "url": "https://open.spotify.com/track/7BX4e2T0ZOCZj0x5d3o2bJ"
@@ -6638,6 +6638,28 @@
       "duration_ms": 145119,
       "name": "Friends Are the Best",
       "url": "https://open.spotify.com/track/0RMaNx3r2D2Kwz2ajIyCTA"
+    },
+    {
+      "album": {
+        "name": "Friends Song",
+        "url": "https://open.spotify.com/album/71aO6khWnZ1DBsNcki2dc7"
+      },
+      "artists": [
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        },
+        {
+          "name": "Nick Jr.",
+          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55638,
+      "name": "Friends Song",
+      "url": "https://open.spotify.com/track/0abOnSFUrHmncWZSz4vOBg"
     },
     {
       "album": {
@@ -8655,6 +8677,28 @@
     },
     {
       "album": {
+        "name": "Hey-O We Want to Play-O",
+        "url": "https://open.spotify.com/album/0qpMLbnB8NNiIiadzzGoho"
+      },
+      "artists": [
+        {
+          "name": "Caitie's Classroom",
+          "url": "https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo"
+        },
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133882,
+      "name": "Hey-O We Want to Play-O",
+      "url": "https://open.spotify.com/track/67pLLZLC17d8xo9RsFSXVM"
+    },
+    {
+      "album": {
         "name": "Hi I'm Vinny",
         "url": "https://open.spotify.com/album/1ja5W3vBwxcmtsGV2CX3sZ"
       },
@@ -8688,6 +8732,24 @@
       "duration_ms": 119709,
       "name": "Hi, Hello!",
       "url": "https://open.spotify.com/track/5mitAplx9PQM0fKVg6ZkcZ"
+    },
+    {
+      "album": {
+        "name": "Hickory Dickory Dock",
+        "url": "https://open.spotify.com/album/5IMFKuyTeFTBonyFPWPzMW"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228758,
+      "name": "Hickory Dickory Dock",
+      "url": "https://open.spotify.com/track/2sFhADeShHk4fQ1dWsipJn"
     },
     {
       "album": {
@@ -13977,6 +14039,24 @@
     },
     {
       "album": {
+        "name": "Vida the Vet Season 2, Vol. 4",
+        "url": "https://open.spotify.com/album/6CN68BZLbXPZBbXrIFvRAn"
+      },
+      "artists": [
+        {
+          "name": "Vida The Vet",
+          "url": "https://open.spotify.com/artist/2HqkUZu7sZuLvlpYxkxO7R"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110431,
+      "name": "Mystery of the Missing Banana",
+      "url": "https://open.spotify.com/track/3wVoKpIlFFHYHg9pQ3oS9F"
+    },
+    {
+      "album": {
         "name": "Mystical Magical",
         "url": "https://open.spotify.com/album/5NMcHAUKrAOiKlQK92iNNF"
       },
@@ -15294,7 +15374,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 73656,
       "name": "Pets Are the Best",
       "url": "https://open.spotify.com/track/7yRwJX9D4U8IUCbEhgh1gm"
@@ -17726,7 +17806,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 180006,
       "name": "Sparkle!",
       "url": "https://open.spotify.com/track/0HTS1PnNolqh6ERbVP2Dfl"
@@ -17766,6 +17846,28 @@
       "duration_ms": 121080,
       "name": "Spin Spin Spin",
       "url": "https://open.spotify.com/track/0eHaK2tBOeQSMfpKUUkVuI"
+    },
+    {
+      "album": {
+        "name": "Splish Splash",
+        "url": "https://open.spotify.com/album/3JghbaWUBZMVJAvoXlrO1s"
+      },
+      "artists": [
+        {
+          "name": "Ms. Appleberry",
+          "url": "https://open.spotify.com/artist/7gjGsSnJnSzAnh6wxZCqBQ"
+        },
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114115,
+      "name": "Splish Splash",
+      "url": "https://open.spotify.com/track/6z4PxUXvCGn1YeqFnPnyzN"
     },
     {
       "album": {
@@ -22812,7 +22914,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 57425,
       "name": "When Johnny Comes Marching Home",
       "url": "https://open.spotify.com/track/2JctxjFHrTq5LRVf4vgAlm"
@@ -23287,6 +23389,32 @@
     },
     {
       "album": {
+        "name": "Little People, Big Dreams: The Album",
+        "url": "https://open.spotify.com/album/6yO6V1DCQ1xRfZPfX8WiDA"
+      },
+      "artists": [
+        {
+          "name": "Little People, BIG DREAMS",
+          "url": "https://open.spotify.com/artist/0yubK9huKbJvRu7YxlpoFX"
+        },
+        {
+          "name": "Dom James",
+          "url": "https://open.spotify.com/artist/1JY39k85BM1XtU5WnBN8WD"
+        },
+        {
+          "name": "Tommy Antonio",
+          "url": "https://open.spotify.com/artist/5ZSb3HseeIBllSbROydx4B"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240986,
+      "name": "Write Your Dreams - A Song About Jane Austen",
+      "url": "https://open.spotify.com/track/7f4MgrWvhiWgu4feGm3XsW"
+    },
+    {
+      "album": {
         "name": "Y'all Song",
         "url": "https://open.spotify.com/album/0XJqvNx8Zc3YySqf8iaOe6"
       },
@@ -23620,6 +23748,24 @@
       "duration_ms": 217384,
       "name": "Yummy Fruit and Vegetables Alphabet Song",
       "url": "https://open.spotify.com/track/70aO7ieA1h88jDlOWzPkBr"
+    },
+    {
+      "album": {
+        "name": "Yummy Fruits (Apples And Bananas)",
+        "url": "https://open.spotify.com/album/77GcJJ3Ja3D3TTgLnoSfWj"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126156,
+      "name": "Yummy Fruits - Apples And Bananas",
+      "url": "https://open.spotify.com/track/5quLftGDDcoBxnoAKRa8Oc"
     },
     {
       "album": {

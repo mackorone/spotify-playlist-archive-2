@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 
 > This is Madonna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 713,265 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 713,327 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 | 28 | [Borderline](https://open.spotify.com/track/4sfSGt1c19O2LI7lLn272S) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Borderline](https://open.spotify.com/album/6cjHCJvAo9ohp6jsY8QcdQ) | 3:58 |
 | 29 | [Get Together](https://open.spotify.com/track/1AQQ9DdpEemMVTHNz4eG9a) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:15 |
 | 30 | [Ray of Light](https://open.spotify.com/track/4Fpsa3pYc3gozrxHRRPvR6) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 5:22 |
-| 31 | [Music](https://open.spotify.com/track/2fzykVsO2Di5jnofUNX3YE) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu) | 3:45 |
-| 32 | [True Blue](https://open.spotify.com/track/7azOuDeJGbxt5mvq3GQHXp) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:17 |
+| 31 | [True Blue](https://open.spotify.com/track/7azOuDeJGbxt5mvq3GQHXp) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:17 |
+| 32 | [Music](https://open.spotify.com/track/2fzykVsO2Di5jnofUNX3YE) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu) | 3:45 |
 | 33 | [Forbidden Love](https://open.spotify.com/track/2DuaKXVHCHSSTTeOnYSMG9) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 4:22 |
 | 34 | [Who's That Girl](https://open.spotify.com/track/3G0NNqwQ1sqRpySr6soHlH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Who's That Girl Soundtrack](https://open.spotify.com/album/21vHnROXDZY51gJxsjTLXZ) | 3:59 |
 | 35 | [Secret](https://open.spotify.com/track/15FcP9qwmIKqaD5NhfhNpu) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Bedtime Stories](https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB) | 5:04 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 | 41 | [Cherish](https://open.spotify.com/track/6WjrgHvISFS0Oj3vk3XLiE) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 3:52 |
 | 42 | [Me Against the Music \(feat\. Madonna\) \- LP Version / Video Mix](https://open.spotify.com/track/7mS8RbJji2UZAaguRGsOCH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:43 |
 | 43 | [Nothing Really Matters](https://open.spotify.com/track/6bZPQHvekmIFBZZB7nMB5X) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 4:27 |
-| 44 | [Future Lovers](https://open.spotify.com/track/0amQzI3QzlkNzlUQSLxGOP) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:01 |
-| 45 | [Vogue \- Edit](https://open.spotify.com/track/5npMYgysWSKOIVXj2szeLn) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I'm Breathless](https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED) | 4:49 |
+| 44 | [Vogue \- Edit](https://open.spotify.com/track/5npMYgysWSKOIVXj2szeLn) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I'm Breathless](https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED) | 4:49 |
+| 45 | [Future Lovers](https://open.spotify.com/track/0amQzI3QzlkNzlUQSLxGOP) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:01 |
 | 46 | [La Isla Bonita \- Extended Remix](https://open.spotify.com/track/1jaVdF0FSPTWi8E4MWiLPR) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Chris Lord\-Alge](https://open.spotify.com/artist/1zRwW2z5JOtEgK5OESwlgx) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 5:25 |
 | 47 | [Express Yourself](https://open.spotify.com/track/4AJflRLCvU0qtZQnVUq5l1) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(Deluxe Version\)](https://open.spotify.com/album/28Ts8e6rqdmSPH6itDV4KP) | 3:59 |
-| 48 | [Let It Will Be](https://open.spotify.com/track/5HKcfvhCdIoZKzeQw2HgEe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 4:20 |
-| 49 | [American Pie](https://open.spotify.com/track/3afv9TL8ixr4T9VbiKnrwe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu) | 4:33 |
-| 50 | [Celebration](https://open.spotify.com/track/1MQTYbCmC1IvL94JtGB33E) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(Remixes\)](https://open.spotify.com/album/08ultWv4w3KP7wJ6LQtU2t) | 3:35 |
+| 48 | [Celebration](https://open.spotify.com/track/1MQTYbCmC1IvL94JtGB33E) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(Remixes\)](https://open.spotify.com/album/08ultWv4w3KP7wJ6LQtU2t) | 3:35 |
+| 49 | [Let It Will Be](https://open.spotify.com/track/5HKcfvhCdIoZKzeQw2HgEe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 4:20 |
+| 50 | [American Pie](https://open.spotify.com/track/3afv9TL8ixr4T9VbiKnrwe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu) | 4:33 |
 
-Snapshot ID: `anJ9AAAAAADaoIIhoXyLutoYp9OIOxaD`
+Snapshot ID: `anPOgAAAAADS8WaqfAE3wmiNkdnRum/o`

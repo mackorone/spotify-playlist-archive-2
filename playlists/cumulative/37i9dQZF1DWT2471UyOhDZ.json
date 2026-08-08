@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 226355,
       "name": "100 Horses",
       "url": "https://open.spotify.com/track/1bHFGVgvmhnhDKAz1FnaoB"
@@ -5740,6 +5740,24 @@
       "duration_ms": 159066,
       "name": "Of Amber",
       "url": "https://open.spotify.com/track/022C1o8aZqq4JDhXY9b7Ml"
+    },
+    {
+      "album": {
+        "name": "Oh No Now My",
+        "url": "https://open.spotify.com/album/6Qex2dWIX0M5LPHLTJq4Sr"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188453,
+      "name": "Oh No Now My",
+      "url": "https://open.spotify.com/track/2MbLMnGeW92YVBbsyHM5WR"
     },
     {
       "album": {

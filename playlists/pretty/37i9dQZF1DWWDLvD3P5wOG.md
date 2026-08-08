@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 
 > Throwbacks you can catch a whine to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 786,589 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 786,787 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 79 | [Always](https://open.spotify.com/track/0NDuu5F9yTpA0tw3gzrzOo) | [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Girl Boss \- The Realest Girl](https://open.spotify.com/album/6Y3GwclvGrERqgTZ3EEXm9) | 3:14 |
 | 80 | [Click Mi Finger](https://open.spotify.com/track/3akvaUfBoq5Gj65jzMl6qy) | [Erup](https://open.spotify.com/artist/06u187az5ps4QsoZHMN8DJ) | [Click Mi Finger Remixed \- EP](https://open.spotify.com/album/7sI4QVzeKL1ht81HKz4EKz) | 2:38 |
 
-Snapshot ID: `AAAAAH1TKAVG7Z0gk/3wTI40O2ASg/5G`
+Snapshot ID: `AAAAADWPET3zrnMlodlT7dtftGB4p1Qe`

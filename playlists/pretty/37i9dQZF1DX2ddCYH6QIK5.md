@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Savi Kaboo, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,616 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,615 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 49 | [Motion Picture](https://open.spotify.com/track/7os4HIaa4YdpXeM3MtE31j) | [Bash Tru](https://open.spotify.com/artist/5oWRLCmK9UyklFF9qI8jkt) | [Motion Picture](https://open.spotify.com/album/1V72lGjSgicvXxQxlrGmSP) | 4:07 |
 | 50 | [Landkarten](https://open.spotify.com/track/1ik2Rk3Y4jCPpI3OtxRbsB) | [Pia Klein](https://open.spotify.com/artist/35KLbeS7YtH4MTBa6VfBfU) | [Melancholie](https://open.spotify.com/album/4nXQafe848YzoaonlCfQA0) | 3:40 |
 
-Snapshot ID: `AAAAAFXf57914cuh8y4wN6kyVQVUvziA`
+Snapshot ID: `AAAAACTXrc5EiOOMfFIIesp8XMKRwFJi`

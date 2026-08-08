@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 
 > The Indie highlights of 2015\. Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,178 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,190 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 70 | [Walk Away](https://open.spotify.com/track/79XlfHDVYTMeqb2UR3ojEA) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Make Out](https://open.spotify.com/album/4sldmS76FbpIaO2sEsZlBh) | 3:51 |
 | 71 | [Clearest Blue](https://open.spotify.com/track/4eA2kYa441m4U4oopsuBBG) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Every Open Eye](https://open.spotify.com/album/7IuEdviBeNzrMUE0InVimK) | 3:53 |
 | 72 | [Don't Wanna Fight](https://open.spotify.com/track/1yMeXd08op7WK8UN07QZQ9) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/7ENKsNwViH6KjudEvVdMz1) | 3:52 |
-| 73 | [101](https://open.spotify.com/track/3HYXqOAm2Q8b2OyYqzv8d4) | [WALLA](https://open.spotify.com/artist/1lhtpwswW0liqyOU52EP0E) | [101](https://open.spotify.com/album/2JJJHPnEkjM2quRLB0vnYl) | 3:23 |
-| 74 | [Temporary Love](https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W) | [The Brinks](https://open.spotify.com/artist/4fLpQdr6R7gqNGY7xpr7Jz) | [Temporary Love](https://open.spotify.com/album/1cRv0odNNvTSxVnNFmeusc) | 3:25 |
+| 73 | [Temporary Love](https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W) | [The Brinks](https://open.spotify.com/artist/4fLpQdr6R7gqNGY7xpr7Jz) | [Temporary Love](https://open.spotify.com/album/1cRv0odNNvTSxVnNFmeusc) | 3:25 |
+| 74 | [101](https://open.spotify.com/track/3HYXqOAm2Q8b2OyYqzv8d4) | [WALLA](https://open.spotify.com/artist/1lhtpwswW0liqyOU52EP0E) | [101](https://open.spotify.com/album/2JJJHPnEkjM2quRLB0vnYl) | 3:23 |
 | 75 | [To Die in L.A.](https://open.spotify.com/track/0sujwD2rDemdq6lBUvlB6j) | [Lower Dens](https://open.spotify.com/artist/5uTJLo3c4ZHpH8oEwGxYUN) | [Escape From Evil](https://open.spotify.com/album/3lzj0ftwAZ9XFp3qFs2lMN) | 4:11 |
 | 76 | [Gone](https://open.spotify.com/track/4MocmzKdJQqrhInoE7Tnc5) | [JR JR](https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv) | [JR JR](https://open.spotify.com/album/6vCkb4Lm1IyVz7TZHoq5SK) | 3:47 |
 | 77 | [Sound & Color](https://open.spotify.com/track/3zWgFhqjlGiM7p1ECrxclH) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/7ENKsNwViH6KjudEvVdMz1) | 3:02 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 83 | [Cut Your Bangs](https://open.spotify.com/track/1iDPPa3RRyhzrFS3lG1ZDo) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Chinatown](https://open.spotify.com/album/6TIZy5ya11Hl7Q5eN4F8xR) | 2:52 |
 | 84 | [How Do You Do It](https://open.spotify.com/track/1spLEdhSKVeh5nsK66tctl) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Me](https://open.spotify.com/album/7yfy9CIVCtTrfl1BrmcmNc) | 3:48 |
 | 85 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 |
-| 86 | [Mountain at My Gates](https://open.spotify.com/track/53L6A3I9vf7rgEZnMzx54E) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/4uIDigk79DeZEYV6Z5Yf4s) | 4:04 |
-| 87 | [T\-Shirt Weather](https://open.spotify.com/track/1uNH7kknB8MVkmh6FfDb6W) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Young Chasers \(Deluxe\)](https://open.spotify.com/album/6lE7PexxLr5OZtAwqBkyFJ) | 3:14 |
+| 86 | [T\-Shirt Weather](https://open.spotify.com/track/1uNH7kknB8MVkmh6FfDb6W) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Young Chasers \(Deluxe\)](https://open.spotify.com/album/6lE7PexxLr5OZtAwqBkyFJ) | 3:14 |
+| 87 | [Mountain at My Gates](https://open.spotify.com/track/53L6A3I9vf7rgEZnMzx54E) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/4uIDigk79DeZEYV6Z5Yf4s) | 4:04 |
 | 88 | [Keep on Loving You](https://open.spotify.com/track/5VYBergVrUDcb8QyEg70cF) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Affection](https://open.spotify.com/album/4zBZX3bPIQkJMY0CaTGFKh) | 3:53 |
 | 89 | [Spirits](https://open.spotify.com/track/7GJ572zvnU94VZVrj5XRtb) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/4wIE6aAQq4GL10ae7cjZZ0) | 3:23 |
 | 90 | [Meet Me In The Woods](https://open.spotify.com/track/54hj06Z7sm7DaHSrGGMAZG) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 4:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 99 | [California](https://open.spotify.com/track/3zxqTbepxLQesm41y2NoE4) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/5hB4jVN4ZHpubyiMmW81K1) | 3:18 |
 | 100 | [Fool for Love](https://open.spotify.com/track/34pj71vgxTPZxpqXOLYL1I) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 4:34 |
 
-Snapshot ID: `AAAAAAxLRi52q2TzOB8kJ2pRR174b81P`
+Snapshot ID: `AAAAAHEGaVqLUE9b6tYagqKlRtyQJi9C`

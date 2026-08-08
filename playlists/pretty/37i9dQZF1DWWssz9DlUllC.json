@@ -1,12 +1,12 @@
 {
   "description": "Where afrobeats meets amapiano.\nCover:  Zhus Djo",
-  "num_followers": 94973,
+  "num_followers": 95020,
   "original_name": "afro-piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMxRpKQBlGfiYst9NbrzhVJ0jQPQ",
+  "snapshot_id": "AAAAAFkJMdaCTisnItNpGK5zuIL0bAd0",
   "tracks": [
     {
       "added_at": "2026-08-07 00:01:25",
@@ -351,6 +351,22 @@
     {
       "added_at": "2026-08-07 00:01:25",
       "album": {
+        "name": "Gbewa",
+        "url": "https://open.spotify.com/album/5LdDFKxukpwLfgEa8lwPU1"
+      },
+      "artists": [
+        {
+          "name": "Boy Muller",
+          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "Gbewa",
+      "url": "https://open.spotify.com/track/0ggGuP7BMjie28uyfb4phY"
+    },
+    {
+      "added_at": "2026-08-07 00:01:25",
+      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/4DkDQnkfCfgniEm33g3IEV"
       },
@@ -371,30 +387,6 @@
       "duration_ms": 140505,
       "name": "Energy",
       "url": "https://open.spotify.com/track/5KkV60IH22ERQHfNxkGa1G"
-    },
-    {
-      "added_at": "2026-08-07 00:01:25",
-      "album": {
-        "name": "Guide",
-        "url": "https://open.spotify.com/album/2SBS6iEht5ZGG7hxyeeK7q"
-      },
-      "artists": [
-        {
-          "name": "Boy Muller",
-          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
-        },
-        {
-          "name": "Chech",
-          "url": "https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 127565,
-      "name": "Guide",
-      "url": "https://open.spotify.com/track/5aylNPDIYwLWGDAnCQpDXE"
     },
     {
       "added_at": "2026-08-07 00:01:25",
@@ -459,6 +451,30 @@
     {
       "added_at": "2026-08-07 00:01:25",
       "album": {
+        "name": "Guide",
+        "url": "https://open.spotify.com/album/2SBS6iEht5ZGG7hxyeeK7q"
+      },
+      "artists": [
+        {
+          "name": "Boy Muller",
+          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+        },
+        {
+          "name": "Chech",
+          "url": "https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 127565,
+      "name": "Guide",
+      "url": "https://open.spotify.com/track/5aylNPDIYwLWGDAnCQpDXE"
+    },
+    {
+      "added_at": "2026-08-07 00:01:25",
+      "album": {
         "name": "My Darling",
         "url": "https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 146086,
       "name": "My Darling",
       "url": "https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk"
-    },
-    {
-      "added_at": "2026-08-07 00:01:25",
-      "album": {
-        "name": "Gbewa",
-        "url": "https://open.spotify.com/album/5LdDFKxukpwLfgEa8lwPU1"
-      },
-      "artists": [
-        {
-          "name": "Boy Muller",
-          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "Gbewa",
-      "url": "https://open.spotify.com/track/0ggGuP7BMjie28uyfb4phY"
     },
     {
       "added_at": "2026-08-07 00:01:25",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-08-07 00:01:25",
       "album": {
-        "name": "Rock Me Gentle",
-        "url": "https://open.spotify.com/album/45NPP48bR0MLByihoQBOia"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 186028,
-      "name": "Rock Me Gentle",
-      "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
-    },
-    {
-      "added_at": "2026-08-07 00:01:25",
-      "album": {
         "name": "LAPOPIANO",
         "url": "https://open.spotify.com/album/1Js1M91xFCddcTgWde9yim"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 139285,
       "name": "LAPOPIANO",
       "url": "https://open.spotify.com/track/4XZCgK3WWvK4BNvJ5jJle6"
+    },
+    {
+      "added_at": "2026-08-07 00:01:25",
+      "album": {
+        "name": "Rock Me Gentle",
+        "url": "https://open.spotify.com/album/45NPP48bR0MLByihoQBOia"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 186028,
+      "name": "Rock Me Gentle",
+      "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
     },
     {
       "added_at": "2026-08-07 00:01:25",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-08-07 00:01:25",
       "album": {
-        "name": "Dantata",
-        "url": "https://open.spotify.com/album/4CiLFSo97AWLil7T3dg8JR"
-      },
-      "artists": [
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        }
-      ],
-      "duration_ms": 175862,
-      "name": "Dantata",
-      "url": "https://open.spotify.com/track/0BZIcREt4wKs79qsYTEurB"
-    },
-    {
-      "added_at": "2026-08-07 00:01:25",
-      "album": {
         "name": "WHY LOVE",
         "url": "https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 210000,
       "name": "WHY LOVE",
       "url": "https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK"
+    },
+    {
+      "added_at": "2026-08-07 00:01:25",
+      "album": {
+        "name": "Dantata",
+        "url": "https://open.spotify.com/album/4CiLFSo97AWLil7T3dg8JR"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        }
+      ],
+      "duration_ms": 175862,
+      "name": "Dantata",
+      "url": "https://open.spotify.com/track/0BZIcREt4wKs79qsYTEurB"
     },
     {
       "added_at": "2026-08-07 00:01:25",
@@ -891,6 +891,26 @@
     {
       "added_at": "2026-08-07 00:01:25",
       "album": {
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 176503,
+      "name": "Hmmm (feat. Davido)",
+      "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
+    },
+    {
+      "added_at": "2026-08-07 00:01:25",
+      "album": {
         "name": "Dance for Jesus",
         "url": "https://open.spotify.com/album/12pkgxsoiyh5Kq7DreKBxp"
       },
@@ -915,26 +935,6 @@
     {
       "added_at": "2026-08-07 00:01:25",
       "album": {
-        "name": "11:11 (Deluxe)",
-        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 176503,
-      "name": "Hmmm (feat. Davido)",
-      "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
-    },
-    {
-      "added_at": "2026-08-07 00:01:25",
-      "album": {
         "name": "SWAGGA",
         "url": "https://open.spotify.com/album/2ait40lrJyFVOkV4tABe80"
       },
@@ -947,6 +947,22 @@
       "duration_ms": 156473,
       "name": "SWAGGA",
       "url": "https://open.spotify.com/track/3TGKQazDOeJyub3Bg7Te7K"
+    },
+    {
+      "added_at": "2026-08-07 00:01:25",
+      "album": {
+        "name": "Na So",
+        "url": "https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 214441,
+      "name": "Na So",
+      "url": "https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY"
     },
     {
       "added_at": "2026-08-07 00:01:25",
@@ -967,22 +983,6 @@
       "duration_ms": 166661,
       "name": "Raba",
       "url": "https://open.spotify.com/track/51uKPbZuFHfSezLOCfWHRo"
-    },
-    {
-      "added_at": "2026-08-07 00:01:25",
-      "album": {
-        "name": "Na So",
-        "url": "https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 214441,
-      "name": "Na So",
-      "url": "https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY"
     },
     {
       "added_at": "2026-08-07 00:01:25",
@@ -1023,6 +1023,30 @@
     {
       "added_at": "2026-08-07 00:01:25",
       "album": {
+        "name": "1 WORK (Remix)",
+        "url": "https://open.spotify.com/album/7yezfWrnSRLPRkHIM0nvls"
+      },
+      "artists": [
+        {
+          "name": "Zhus Jdo",
+          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
+        },
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        }
+      ],
+      "duration_ms": 136693,
+      "name": "1 WORK - Remix",
+      "url": "https://open.spotify.com/track/5LDB1Cal2PnHN3Ioy84SdN"
+    },
+    {
+      "added_at": "2026-08-07 00:01:25",
+      "album": {
         "name": "TOO HOT",
         "url": "https://open.spotify.com/album/5c7lWpyYn8xKBPnnDAv59V"
       },
@@ -1055,30 +1079,6 @@
       "duration_ms": 215384,
       "name": "Fire in your Eyes",
       "url": "https://open.spotify.com/track/0GiBsDZ5sZRVM9cH68Yj0d"
-    },
-    {
-      "added_at": "2026-08-07 00:01:25",
-      "album": {
-        "name": "1 WORK (Remix)",
-        "url": "https://open.spotify.com/album/7yezfWrnSRLPRkHIM0nvls"
-      },
-      "artists": [
-        {
-          "name": "Zhus Jdo",
-          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
-        },
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Smur Lee",
-          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
-        }
-      ],
-      "duration_ms": 136693,
-      "name": "1 WORK - Remix",
-      "url": "https://open.spotify.com/track/5LDB1Cal2PnHN3Ioy84SdN"
     },
     {
       "added_at": "2026-08-07 00:01:25",
@@ -1259,22 +1259,22 @@
     {
       "added_at": "2026-08-07 00:01:25",
       "album": {
-        "name": "RnBling",
-        "url": "https://open.spotify.com/album/64oOYzTHkjaVWG864hiOSI"
+        "name": "DEJAVU II",
+        "url": "https://open.spotify.com/album/4LYOiRxGGiXSANKzUbPTzx"
       },
       "artists": [
         {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "Islambo",
+          "url": "https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR"
         },
         {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 155526,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/3TCxqPtGcTeyfeVGWHeyCz"
+      "duration_ms": 176008,
+      "name": "DEJAVU II",
+      "url": "https://open.spotify.com/track/4dPWQXfgq2jFNsPrUNX1l6"
     },
     {
       "added_at": "2026-08-07 00:01:25",
@@ -1295,22 +1295,22 @@
     {
       "added_at": "2026-08-07 00:01:25",
       "album": {
-        "name": "DEJAVU II",
-        "url": "https://open.spotify.com/album/4LYOiRxGGiXSANKzUbPTzx"
+        "name": "RnBling",
+        "url": "https://open.spotify.com/album/64oOYzTHkjaVWG864hiOSI"
       },
       "artists": [
         {
-          "name": "Islambo",
-          "url": "https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR"
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         },
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
         }
       ],
-      "duration_ms": 176008,
-      "name": "DEJAVU II",
-      "url": "https://open.spotify.com/track/4dPWQXfgq2jFNsPrUNX1l6"
+      "duration_ms": 155526,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/3TCxqPtGcTeyfeVGWHeyCz"
     },
     {
       "added_at": "2026-08-07 00:01:25",
@@ -1399,38 +1399,6 @@
     {
       "added_at": "2026-08-07 00:01:25",
       "album": {
-        "name": "HOLD SOMETHING",
-        "url": "https://open.spotify.com/album/1CtWOlo0iZ2J9j6UQxVGeG"
-      },
-      "artists": [
-        {
-          "name": "Islambo",
-          "url": "https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR"
-        }
-      ],
-      "duration_ms": 175517,
-      "name": "Dejavu",
-      "url": "https://open.spotify.com/track/5tyPv5ahgOfuXdH5vLaTQg"
-    },
-    {
-      "added_at": "2026-08-07 00:01:25",
-      "album": {
-        "name": "SORRY IM NOT SORRY",
-        "url": "https://open.spotify.com/album/2oPOFm0L1MvMeBwJZwXnv2"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 131434,
-      "name": "SORRY IM NOT SORRY",
-      "url": "https://open.spotify.com/track/4pLRyM0kyB3neTK4O9s1dj"
-    },
-    {
-      "added_at": "2026-08-07 00:01:25",
-      "album": {
         "name": "All You Need",
         "url": "https://open.spotify.com/album/681fiILmrmzJzZDWmvVpnF"
       },
@@ -1455,6 +1423,38 @@
       "duration_ms": 163837,
       "name": "All You Need",
       "url": "https://open.spotify.com/track/5gPkTBrIBBiLvP56xgDf5Q"
+    },
+    {
+      "added_at": "2026-08-07 00:01:25",
+      "album": {
+        "name": "SORRY IM NOT SORRY",
+        "url": "https://open.spotify.com/album/2oPOFm0L1MvMeBwJZwXnv2"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 131434,
+      "name": "SORRY IM NOT SORRY",
+      "url": "https://open.spotify.com/track/4pLRyM0kyB3neTK4O9s1dj"
+    },
+    {
+      "added_at": "2026-08-07 00:01:25",
+      "album": {
+        "name": "HOLD SOMETHING",
+        "url": "https://open.spotify.com/album/1CtWOlo0iZ2J9j6UQxVGeG"
+      },
+      "artists": [
+        {
+          "name": "Islambo",
+          "url": "https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR"
+        }
+      ],
+      "duration_ms": 175517,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/5tyPv5ahgOfuXdH5vLaTQg"
     },
     {
       "added_at": "2026-08-07 00:01:25",

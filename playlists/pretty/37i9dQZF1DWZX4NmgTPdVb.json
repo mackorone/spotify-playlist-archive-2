@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1970s that will make you dance all summer long!",
-  "num_followers": 465574,
+  "num_followers": 465772,
   "original_name": "Summer Hits of the 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFWtGANtsoH4QaUjGE4rWtso/YMI",
+  "snapshot_id": "AAAAAPfaWHU4FzC6bwRmH9QbQT5EQ9Dt",
   "tracks": [
     {
       "added_at": "2024-03-22 15:16:12",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-03-22 15:16:12",
       "album": {
-        "name": "Fire And Water",
-        "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
-      },
-      "artists": [
-        {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
-        }
-      ],
-      "duration_ms": 330643,
-      "name": "All Right Now",
-      "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
-    },
-    {
-      "added_at": "2024-03-22 15:16:12",
-      "album": {
         "name": "Chaka",
         "url": "https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 249600,
       "name": "I'm Every Woman",
       "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl"
+    },
+    {
+      "added_at": "2024-03-22 15:16:12",
+      "album": {
+        "name": "Fire And Water",
+        "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "duration_ms": 330643,
+      "name": "All Right Now",
+      "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
     },
     {
       "added_at": "2024-03-22 15:16:12",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-03-22 15:16:12",
       "album": {
-        "name": "Electric Warrior",
-        "url": "https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 262613,
-      "name": "Get It On",
-      "url": "https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF"
-    },
-    {
-      "added_at": "2024-03-22 15:16:12",
-      "album": {
         "name": "Rejoice",
         "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 220560,
       "name": "Best of My Love",
       "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
+    },
+    {
+      "added_at": "2024-03-22 15:16:12",
+      "album": {
+        "name": "Electric Warrior",
+        "url": "https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 262613,
+      "name": "Get It On",
+      "url": "https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF"
     },
     {
       "added_at": "2024-03-22 15:16:12",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-03-22 15:16:12",
       "album": {
-        "name": "Greatest Hits 1974-78",
-        "url": "https://open.spotify.com/album/5hLazW5a3Ysgy3dncwGgUn"
-      },
-      "artists": [
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 215666,
-      "name": "Jet Airliner",
-      "url": "https://open.spotify.com/track/2zI3bUYn2pcF27of6i2oqK"
-    },
-    {
-      "added_at": "2024-03-22 15:16:12",
-      "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 223613,
       "name": "Go Your Own Way - 2004 Remaster",
       "url": "https://open.spotify.com/track/4xh7W7tlNMIczFhupCPniY"
+    },
+    {
+      "added_at": "2024-03-22 15:16:12",
+      "album": {
+        "name": "Greatest Hits 1974-78",
+        "url": "https://open.spotify.com/album/5hLazW5a3Ysgy3dncwGgUn"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 215666,
+      "name": "Jet Airliner",
+      "url": "https://open.spotify.com/track/2zI3bUYn2pcF27of6i2oqK"
     },
     {
       "added_at": "2024-03-22 15:16:12",

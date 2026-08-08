@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,130 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,131 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 30 | [Here We Are](https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [My Liberation Notes OST Part 11](https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A) | 4:19 |
 | 31 | [Sunny](https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [long to be the garden](https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq) | 3:12 |
 | 32 | [Love Me Like You Used To](https://open.spotify.com/track/59WSaNg32wPWQ0iyqmBl1E) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [START\-UP \(Original Television Soundtrack\) Pt\. 15](https://open.spotify.com/album/1rdMYJOkq3UXAs7cozwWlP) | 3:36 |
-| 33 | [Try \(Journey Epilogue\)](https://open.spotify.com/track/7HK1elgUFULwdkMsiCbqoJ) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Try \(Journey Epilogue\)](https://open.spotify.com/album/5jb1JQY7bJhOWXlMjID9uQ) | 3:36 |
-| 34 | [Star \(Feat\. 10CM\)](https://open.spotify.com/track/42LBHPwYS9g5lDbLxk0LCg) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Narcissus](https://open.spotify.com/album/3fJW2iurWA0QBCMc3qrFwh) | 3:15 |
+| 33 | [Star \(Feat\. 10CM\)](https://open.spotify.com/track/42LBHPwYS9g5lDbLxk0LCg) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Narcissus](https://open.spotify.com/album/3fJW2iurWA0QBCMc3qrFwh) | 3:15 |
+| 34 | [Try \(Journey Epilogue\)](https://open.spotify.com/track/7HK1elgUFULwdkMsiCbqoJ) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Try \(Journey Epilogue\)](https://open.spotify.com/album/5jb1JQY7bJhOWXlMjID9uQ) | 3:36 |
 | 35 | [How have you been](https://open.spotify.com/track/0ydUYcJeaUlOaFOFV6o1e1) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [The Dreamest](https://open.spotify.com/album/3WlZ4ckBpoZeZCTVGF7fXV) | 4:30 |
 | 36 | [Empty words](https://open.spotify.com/track/3Hf9mJbB2Pif4n3VkB1Lzg) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Empty words](https://open.spotify.com/album/0rMu2ccCP5oQJnLogE2idU) | 4:12 |
 | 37 | [Let\`s never meet again](https://open.spotify.com/track/1ds0NS97ocY31n1PSE1DUT) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Once again OST Part 1](https://open.spotify.com/album/23T8IExqplmEeLrmNhXpQR) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 49 | [Sorrow at my door\(Prod\. ROCOBERRY\)](https://open.spotify.com/track/28Hik8LLOdidQEfww8zGAN) | [Nam Gyu ri](https://open.spotify.com/artist/3Fp5JoccjllfLmNNnUuDkU) | [슬픔이 찾아와서 그래 \(Sorrow at my door\)](https://open.spotify.com/album/52NwC1WFnlSJpOtZ21CnRe) | 3:22 |
 | 50 | [Unreachable \(Feat\. Milena\)](https://open.spotify.com/track/3L0ipvNeREfCAJWCPaweUu) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Unreachable](https://open.spotify.com/album/5Stxf7cgE1761svCkuFFRm) | 3:06 |
 
-Snapshot ID: `AAAAAGQedbU70BO+zXAQvCM7Eam/MlGU`
+Snapshot ID: `AAAAAFmfaSRm+dJHg4drOkOx6SIzX9dg`

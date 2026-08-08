@@ -4,7 +4,7 @@
 
 > A full deck of country wild cards\. Bass\-heavy, up\-to\-no\-good anthems where the rules don’t apply\. Cover: Marshmello and Kelsea Ballerini
 
-530 songs - 1 day 2 hr 15 min
+532 songs - 1 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,6 +442,7 @@
 | [Sundress](https://open.spotify.com/track/38vqfi7hLRwfsY86jDGm6E) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z) | [Sundress](https://open.spotify.com/album/4RyDQPdeRS1ovDV58hGBKI) | 2:22 | 2022-10-21 | 2024-04-23 |
 | [Sunroof](https://open.spotify.com/track/4LNcacX6U41vE1uERvSIPh) | [AMAG](https://open.spotify.com/artist/4Rs9SGqGgto5ZNlfyfq0as) | [Sunroof](https://open.spotify.com/album/5AXAXiDMpKjGnG0tj8cLDu) | 2:43 | 2024-08-02 | 2024-09-07 |
 | [Sunroof \(feat\. Thomas Rhett\)](https://open.spotify.com/track/2xRPwGneUj9S6UNC2TthyJ) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Sunroof \(Remixes\)](https://open.spotify.com/album/2Lm0F5MpahWZ4vb0k4MiHj) | 2:43 | 2022-08-12 | 2023-02-02 |
+| [Sunset Marquis](https://open.spotify.com/track/5PWgbO4uM1p0QGiIF0F6O3) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Sunset Marquis](https://open.spotify.com/album/1Yt6FuJk4P5bR3PmqClGcb) | 3:29 | 2026-08-07 |  |
 | [Sunshine Shine](https://open.spotify.com/track/2467Nxi5K1DUUj7eRg1i64) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Sunshine Shine](https://open.spotify.com/album/7u7pAvJ12lZqTHFhyOaKml) | 3:01 | 2024-04-05 |  |
 | [Superpower](https://open.spotify.com/track/2CZKg7bfs1gIw4pg7WQwMy) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Blood Harmony](https://open.spotify.com/album/1qWvMwDIbDa9Qt5cuHFLRy) | 3:38 | 2023-09-15 | 2024-01-27 |
 | [Superpower](https://open.spotify.com/track/3hJi9BKQwB5FlQMly5zgRp) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Superpower](https://open.spotify.com/album/2TTrzUmBWD8M2CAJMADWPP) | 3:38 | 2023-07-14 | 2023-09-16 |
@@ -522,6 +523,7 @@
 | [Wild Frontier](https://open.spotify.com/track/7wSqcgvYMXyy8r2Lx49PLD) | [Stephanie Quayle](https://open.spotify.com/artist/2PuPNn5AuwwEweFONV7gol) | [Wild Frontier](https://open.spotify.com/album/0sapxQX0SyPrNUMT1N9Qi5) | 3:36 | 2022-11-11 | 2022-11-13 |
 | [Wild Man](https://open.spotify.com/track/7Kjj4hsN3ykO4LW4KH5rdF) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Wild Man](https://open.spotify.com/album/7FmBtjicBhC9jrdYjicsMZ) | 2:48 | 2023-05-26 | 2023-09-30 |
 | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/album/5yLgEnZGrpgxjmARNWP56g) | 2:21 | 2023-10-06 |  |
+| [WILD SIDE](https://open.spotify.com/track/4RQELra8hbStDAn8cRb00x) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo), [Ryan Charles](https://open.spotify.com/artist/2BQredfxFMAX642ezVqQOS) | [WILD SIDE](https://open.spotify.com/album/7tev3V6WBgnbVY0elpcetJ) | 2:08 | 2026-08-07 |  |
 | [Wild Wild West](https://open.spotify.com/track/3ZC8vUJMOpy6wsCamiLyGl) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Wild Wild West](https://open.spotify.com/album/4KDC3O88LIjOdyLCtryqtq) | 3:01 | 2024-06-14 | 2025-06-30 |
 | [Winning](https://open.spotify.com/track/5qEb5GTv9yy7Y7kLJCSMFN) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Winning](https://open.spotify.com/album/28HlFH22jF08ZKNMF15a0E) | 2:56 | 2021-12-10 | 2023-01-04 |
 | [Withdrawal](https://open.spotify.com/track/1f9fvRvOgREiC3xTUaDFr3) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z) | [Withdrawal](https://open.spotify.com/album/7LV4Vj7cl5fxT4DAL6TU7R) | 4:03 | 2023-02-24 | 2024-01-27 |

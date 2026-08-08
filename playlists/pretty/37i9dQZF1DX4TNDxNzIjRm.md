@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 
 > Cuando el jangueo está mejor que la fiesta\. Hanging out jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,261,679 likes - 115 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,261,487 likes - 115 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 | 85 | [2+2](https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [2+2](https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG) | 3:18 |
 | 86 | [OH WOW](https://open.spotify.com/track/2CVQ3jo9g4SfLv1jXburFL) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [OH WOW](https://open.spotify.com/album/3bxnH77ofJYkCpBq97YVAg) | 3:46 |
 | 87 | [Un Polvito +](https://open.spotify.com/track/2FgNhMMwYXRnsctqIcouMP) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Un Polvito +](https://open.spotify.com/album/51j9nVeyDUYp2FlwhlSyzL) | 3:34 |
-| 88 | [Un Dia En Mi Barrio \- Remix](https://open.spotify.com/track/1KiI7qXgmqlX0KzK4f985q) | [Tony Monta](https://open.spotify.com/artist/1WF0qzllFgT2xJlk0Nrwqo), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Un Dia En Mi Barrio \(Remix\)](https://open.spotify.com/album/2wA2nVsgjQYMKWSlraEQLi) | 7:15 |
-| 89 | [/Nachica](https://open.spotify.com/track/4cU0wBWkkczqC9WwU8ki1d) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [DELIRIUM](https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6) | 3:22 |
+| 88 | [/Nachica](https://open.spotify.com/track/4cU0wBWkkczqC9WwU8ki1d) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [DELIRIUM](https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6) | 3:22 |
+| 89 | [Un Dia En Mi Barrio \- Remix](https://open.spotify.com/track/1KiI7qXgmqlX0KzK4f985q) | [Tony Monta](https://open.spotify.com/artist/1WF0qzllFgT2xJlk0Nrwqo), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Un Dia En Mi Barrio \(Remix\)](https://open.spotify.com/album/2wA2nVsgjQYMKWSlraEQLi) | 7:15 |
 | 90 | [SCORPIO](https://open.spotify.com/track/4in4IMI3h8LIwawCha3JAv) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [SCORPIO](https://open.spotify.com/album/63lPDlkhYUJdGIfInXAosy) | 3:47 |
 | 91 | [LOS CACORROS USAN KLEIMOND](https://open.spotify.com/track/73gesm262Pgbk7j0SEpijT) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [LOS CACORROS USAN KLEIMOND](https://open.spotify.com/album/2cwKNb3KXIcndDJeEzBi1N) | 3:18 |
 | 92 | [iGO](https://open.spotify.com/track/6E9kUXTTx2JMv4BtTF29vz) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [CÓDiGOS DE MUÑEKA](https://open.spotify.com/album/6E8dYhNdpnk83fjNHzsrrE) | 2:13 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 | 114 | [White Wine](https://open.spotify.com/track/4AETvh6O4bT8qZyo1LhGjb) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [White Wine](https://open.spotify.com/album/6gK9COmLa1YE0TygSYH3DP) | 3:12 |
 | 115 | [Me Dañas La Mente](https://open.spotify.com/track/0z6KHx2Ct34Fs084y0WZRz) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Austin San](https://open.spotify.com/artist/0TC8XvQTSQMh4beW43FsAH) | [LA 8VA MARAVILLA](https://open.spotify.com/album/4ZMzNSoTgWgSfkBpJTCx9w) | 2:39 |
 
-Snapshot ID: `AAAAAMQqQxMSK6fv63M6rmbULf4BXsbQ`
+Snapshot ID: `AAAAAByj8OG6MqvTtd+ZH3/imV/w42wJ`

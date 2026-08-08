@@ -4,7 +4,7 @@
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-118 songs - 13 hr 51 min
+119 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Chhadd Balle Balle Nu \(From "Hoshiar Singh"\)](https://open.spotify.com/track/4kxI1XJtu7ftTRsvM4kmEj) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Chhadd Balle Balle Nu \(From "Hoshiar Singh"\)](https://open.spotify.com/album/5m9hCPOrY8zgLUOFlbGKza) | 3:08 | 2025-02-01 | 2026-07-30 |
 | [Churi](https://open.spotify.com/track/5cxVEgRGbZkISmLWsAkOhz) | [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO) | [Naina De Buhe](https://open.spotify.com/album/2c3w6QpLxtDPls6IXyYRDp) | 6:00 | 2025-07-03 |  |
 | [Das Kee Milia Ea](https://open.spotify.com/track/56ByUNq7ZRqyyMEu52UFVX) | [Abid Ali Abid](https://open.spotify.com/artist/2qAa4xDmS5pcvAhtGRfPYI) | [Punjabi Mehfil, Vol\. 5](https://open.spotify.com/album/3khIKYCgLEFGM6icCPToUa) | 12:03 | 2023-02-15 | 2025-05-29 |
+| [Deewani](https://open.spotify.com/track/3lPHuRCMCgvpaEJZwxDRpX) | [Sudhir Yaduvanshi](https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb), [Aniket Sharma](https://open.spotify.com/artist/16FC92zSwoi0VaNQ7J8fEx) | [Deewani](https://open.spotify.com/album/3N7XX9DQz4EEuIciCqrEBy) | 3:04 | 2026-08-07 |  |
 | [Dil Nu](https://open.spotify.com/track/4KCC0GErxzcP7zEhRQYRm5) | [Sukhjinder Alfaaz](https://open.spotify.com/artist/6fCDRp75C6FXv1xVCD2SK5) | [Dil Nu](https://open.spotify.com/album/4Hv1aQLuVT9HMo6qgy07LW) | 4:31 | 2026-03-06 |  |
 | [Duma Dum Mast Qalandar](https://open.spotify.com/track/02c0dOVxkBAHXP8nxFsgKB) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [The Best of Hans Raj Hans](https://open.spotify.com/album/2IWlYsJ3zRA2umEAYccWtK) | 8:52 | 2025-05-13 |  |
 | [DUMA DUM MAST QALANDER \- Rebooted & Revved Up](https://open.spotify.com/track/6uVX6rVtBCNk648wmMtWOU) | [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y), [Hashmat Sultana](https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok) | [DUMA DUM MAST QALANDER \(Rebooted & Revved Up\)](https://open.spotify.com/album/0ryfzVTE1efrUdiRmnR5eI) | 4:09 | 2025-04-08 |  |
@@ -77,7 +78,7 @@
 | [Mere Naal Tu \(From "Saunkan Saunkanay 2"\)](https://open.spotify.com/track/5P7xp0OHMszQYHbRlCj6Lu) | [Mohammad Faiz](https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Harsh Kargeti](https://open.spotify.com/artist/3QMU3GgeUmDZe7F6g9N9qT), [Samay](https://open.spotify.com/artist/6TOSyTilnA2kieWziVH8Bl) | [Mere Naal Tu \(From "Saunkan Saunkanay 2"\)](https://open.spotify.com/album/0BgJP0vKH3SSo9HEioobNL) | 3:29 | 2025-05-28 |  |
 | [Mere Shauk Da Nahin Etbar](https://open.spotify.com/track/2snklMZDtJsfRJLK1WKboZ) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Abdul Sattar Tari](https://open.spotify.com/artist/5a75FBOofgVIoDb33jmiz2) | [Ghulam Ali Punjabi Mehfil](https://open.spotify.com/album/0RutIwb1qQWNeAk2ExYrtV) | 7:22 | 2024-04-24 | 2025-05-14 |
 | [Meri Heeriye Fakiriye](https://open.spotify.com/track/2hkr7JCiGMuZLG8gotQj5t) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Sartaaj](https://open.spotify.com/album/0VUrwBn8uYyR7tM8tLDOto) | 7:35 | 2023-02-15 | 2026-02-04 |
-| [Merian Gallan Yaad Karengee](https://open.spotify.com/track/3cc8pkYg6JbEgngka0Z8NJ) | [Fida Hussain](https://open.spotify.com/artist/7rAuJH9mqckJmKkqXcWAwZ) | [Punjabi Mehfil](https://open.spotify.com/album/2G0aJaQ7NgRl1U0FAD3Usu) | 6:35 | 2023-02-15 |  |
+| [Merian Gallan Yaad Karengee](https://open.spotify.com/track/3cc8pkYg6JbEgngka0Z8NJ) | [Fida Hussain](https://open.spotify.com/artist/7rAuJH9mqckJmKkqXcWAwZ) | [Punjabi Mehfil](https://open.spotify.com/album/2G0aJaQ7NgRl1U0FAD3Usu) | 6:35 | 2023-02-15 | 2026-08-08 |
 | [Meriyaan Udaasiyann](https://open.spotify.com/track/7HE54gXIfogSglOKCPrnmD) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Meriyaan Udaasiyann](https://open.spotify.com/album/1xWbPeWLVJeLZyFYRt4W9k) | 10:45 | 2025-05-13 |  |
 | [Mukh Tera](https://open.spotify.com/track/66TCpFnHV47Y5LDbUzF4mz) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Mukh Tera](https://open.spotify.com/album/3dOJFWM5LcWCAt1FPr3c85) | 5:26 | 2025-05-13 | 2025-07-04 |
 | [Nazaraa](https://open.spotify.com/track/06u4Dl0Rx1CTT84L2YdCBX) | [Puranchand Wadali](https://open.spotify.com/artist/4Ya6sj5W70ZEa0ghrJYk8h), [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO), [Aar Bee](https://open.spotify.com/artist/1ztfAE52RW11rNYUZaINIc), [Sufi Bhatt](https://open.spotify.com/artist/0p3gHGl9hJrATChGbWrbe4) | [Nazaraa](https://open.spotify.com/album/5iCcHyEBQZgTVScHW89gf3) | 5:10 | 2025-05-13 |  |

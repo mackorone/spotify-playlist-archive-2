@@ -1,12 +1,12 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 51518,
+  "num_followers": 51525,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABz5SjTOKYtCLWNNuhA/ghO3mZKx",
+  "snapshot_id": "AAAAACO7NA3GpEzWdarkiJBEqGkIbKG9",
   "tracks": [
     {
       "added_at": "2025-05-19 17:05:09",
@@ -611,6 +611,26 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Diablo",
+        "url": "https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI"
+      },
+      "artists": [
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        },
+        {
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+        }
+      ],
+      "duration_ms": 172293,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Onda tropical (Cumbia Version)",
         "url": "https://open.spotify.com/album/6xrn1xN8mBj1rvPaSrE3o8"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 204000,
       "name": "Onda tropical - Cumbia Version",
       "url": "https://open.spotify.com/track/6jN40i3UnbYaQ10cvgEzci"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Diablo",
-        "url": "https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI"
-      },
-      "artists": [
-        {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
-        },
-        {
-          "name": "Mabiland",
-          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
-        }
-      ],
-      "duration_ms": 172293,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "La Era del GigaHertz",
-        "url": "https://open.spotify.com/album/6DPCgGaRIPO5BJUXlVlOhZ"
+        "name": "Bueltatzen",
+        "url": "https://open.spotify.com/album/4v1nMs0gkTppp4rhdrmCqv"
       },
       "artists": [
         {
-          "name": "Frente Cumbiero",
-          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
+          "name": "Goxua\u00b4n Salsa",
+          "url": "https://open.spotify.com/artist/3pHdIDn7I3886jmRAhIonL"
         }
       ],
-      "duration_ms": 306689,
-      "name": "La Era del GigaHertz",
-      "url": "https://open.spotify.com/track/7pUESHJMBtBRcUkls9wbvT"
+      "duration_ms": 258898,
+      "name": "Bueltatzen",
+      "url": "https://open.spotify.com/track/1QoGnD390y0CCuTAIy1J2o"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Bueltatzen",
-        "url": "https://open.spotify.com/album/4v1nMs0gkTppp4rhdrmCqv"
+        "name": "La Era del GigaHertz",
+        "url": "https://open.spotify.com/album/6DPCgGaRIPO5BJUXlVlOhZ"
       },
       "artists": [
         {
-          "name": "Goxua\u00b4n Salsa",
-          "url": "https://open.spotify.com/artist/3pHdIDn7I3886jmRAhIonL"
+          "name": "Frente Cumbiero",
+          "url": "https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6"
         }
       ],
-      "duration_ms": 258898,
-      "name": "Bueltatzen",
-      "url": "https://open.spotify.com/track/1QoGnD390y0CCuTAIy1J2o"
+      "duration_ms": 306689,
+      "name": "La Era del GigaHertz",
+      "url": "https://open.spotify.com/track/7pUESHJMBtBRcUkls9wbvT"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Amaru Tribe",
+        "url": "https://open.spotify.com/album/1rby9yHujnG7XFTYk867Pc"
+      },
+      "artists": [
+        {
+          "name": "Amaru Tribe",
+          "url": "https://open.spotify.com/artist/4WM3avQmPhr3SUGOkWRUIu"
+        }
+      ],
+      "duration_ms": 401937,
+      "name": "Cumbia Ocea\u00cc\u0081nica",
+      "url": "https://open.spotify.com/track/3cN6fppIE9XDq4iHZRnU1H"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Santo Domingo",
         "url": "https://open.spotify.com/album/6Dg0JIGimNwQHb65RVn4WO"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 217366,
       "name": "Loco Playa",
       "url": "https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Amaru Tribe",
-        "url": "https://open.spotify.com/album/1rby9yHujnG7XFTYk867Pc"
-      },
-      "artists": [
-        {
-          "name": "Amaru Tribe",
-          "url": "https://open.spotify.com/artist/4WM3avQmPhr3SUGOkWRUIu"
-        }
-      ],
-      "duration_ms": 401937,
-      "name": "Cumbia Ocea\u00cc\u0081nica",
-      "url": "https://open.spotify.com/track/3cN6fppIE9XDq4iHZRnU1H"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Cumbia Siglo XXI",
-        "url": "https://open.spotify.com/album/6XFHs9bsqazGHLuIokrDmR"
-      },
-      "artists": [
-        {
-          "name": "Meridian Brothers",
-          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "Cumbia del Picham\u00e1n",
-      "url": "https://open.spotify.com/track/5w2PSLjp8dGHTCoA2cb4Cp"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Porrov\u00eda",
         "url": "https://open.spotify.com/album/1xglUTNFCosYq9NW4FXc9g"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Shift and Shadow",
-        "url": "https://open.spotify.com/album/68coa3myXyACGNFuHU0OZT"
+        "name": "Cumbia Siglo XXI",
+        "url": "https://open.spotify.com/album/6XFHs9bsqazGHLuIokrDmR"
       },
       "artists": [
         {
-          "name": "XIXA",
-          "url": "https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e"
+          "name": "Meridian Brothers",
+          "url": "https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow"
         }
       ],
-      "duration_ms": 243493,
-      "name": "Cumbia del Paletero",
-      "url": "https://open.spotify.com/track/4laare64UJzFrVoFuZOMqP"
+      "duration_ms": 197066,
+      "name": "Cumbia del Picham\u00e1n",
+      "url": "https://open.spotify.com/track/5w2PSLjp8dGHTCoA2cb4Cp"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1463,18 +1447,50 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Virgen de Guadalupe",
-        "url": "https://open.spotify.com/album/5l1BXk01Bi8lsWqvGvoH5D"
+        "name": "Shift and Shadow",
+        "url": "https://open.spotify.com/album/68coa3myXyACGNFuHU0OZT"
       },
       "artists": [
         {
-          "name": "Los Pe\u00f1aloza",
-          "url": "https://open.spotify.com/artist/5HCLthv6IZFjkrhGMHKmli"
+          "name": "XIXA",
+          "url": "https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e"
         }
       ],
-      "duration_ms": 222214,
-      "name": "Virgen de Guadalupe",
-      "url": "https://open.spotify.com/track/4DpBpURKuXKwWECFwMkr7T"
+      "duration_ms": 243493,
+      "name": "Cumbia del Paletero",
+      "url": "https://open.spotify.com/track/4laare64UJzFrVoFuZOMqP"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Capricornio: Ven a mi amor",
+        "url": "https://open.spotify.com/album/1dGVnxTvqZ6FF7lPocvCrF"
+      },
+      "artists": [
+        {
+          "name": "Sonido Desconocido 2",
+          "url": "https://open.spotify.com/artist/7vn9gosQwaC0ca5C4wRVUA"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Capricornio: Ven a mi amor",
+      "url": "https://open.spotify.com/track/5klxe1nweL6Ak1LsNSlHte"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "El Vacile Del T\u00edo",
+        "url": "https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 146496,
+      "name": "El Vacile Del T\u00edo",
+      "url": "https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1499,38 +1515,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "El Vacile Del T\u00edo",
-        "url": "https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 146496,
-      "name": "El Vacile Del T\u00edo",
-      "url": "https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Capricornio: Ven a mi amor",
-        "url": "https://open.spotify.com/album/1dGVnxTvqZ6FF7lPocvCrF"
-      },
-      "artists": [
-        {
-          "name": "Sonido Desconocido 2",
-          "url": "https://open.spotify.com/artist/7vn9gosQwaC0ca5C4wRVUA"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Capricornio: Ven a mi amor",
-      "url": "https://open.spotify.com/track/5klxe1nweL6Ak1LsNSlHte"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Puerta del sol",
         "url": "https://open.spotify.com/album/7to1r45Wg55xqBzWhqHmMc"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 270090,
       "name": "Puerta del sol",
       "url": "https://open.spotify.com/track/7gLNpAOrOBpfhH3gSXdFQO"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Virgen de Guadalupe",
+        "url": "https://open.spotify.com/album/5l1BXk01Bi8lsWqvGvoH5D"
+      },
+      "artists": [
+        {
+          "name": "Los Pe\u00f1aloza",
+          "url": "https://open.spotify.com/artist/5HCLthv6IZFjkrhGMHKmli"
+        }
+      ],
+      "duration_ms": 222214,
+      "name": "Virgen de Guadalupe",
+      "url": "https://open.spotify.com/track/4DpBpURKuXKwWECFwMkr7T"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Para Poderte Olvidar",
-        "url": "https://open.spotify.com/album/7tEne4UdMQ15NaVyzD50lC"
-      },
-      "artists": [
-        {
-          "name": "Qiensave",
-          "url": "https://open.spotify.com/artist/2zzLwsB8sY1dkIDAKevDrc"
-        }
-      ],
-      "duration_ms": 240823,
-      "name": "Para Poderte Olvidar",
-      "url": "https://open.spotify.com/track/7MOwjyBrU0hMRCDwkSoKAx"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Loco por Tu Amor",
         "url": "https://open.spotify.com/album/55NPFfTI9SG3aSbmUwfPMY"
       },
@@ -1595,18 +1579,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Misirlou Psychotropique",
-        "url": "https://open.spotify.com/album/1C0VPW0LpqWDbX201e34HG"
+        "name": "Para Poderte Olvidar",
+        "url": "https://open.spotify.com/album/7tEne4UdMQ15NaVyzD50lC"
       },
       "artists": [
         {
-          "name": "Memo Pimiento",
-          "url": "https://open.spotify.com/artist/75rGLdO27FtfQhaHxOacV0"
+          "name": "Qiensave",
+          "url": "https://open.spotify.com/artist/2zzLwsB8sY1dkIDAKevDrc"
         }
       ],
-      "duration_ms": 304274,
-      "name": "Misirlou Psychotropique",
-      "url": "https://open.spotify.com/track/2ZhtNDzWk3xFNJ3A3jQTxw"
+      "duration_ms": 240823,
+      "name": "Para Poderte Olvidar",
+      "url": "https://open.spotify.com/track/7MOwjyBrU0hMRCDwkSoKAx"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1627,6 +1611,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Misirlou Psychotropique",
+        "url": "https://open.spotify.com/album/1C0VPW0LpqWDbX201e34HG"
+      },
+      "artists": [
+        {
+          "name": "Memo Pimiento",
+          "url": "https://open.spotify.com/artist/75rGLdO27FtfQhaHxOacV0"
+        }
+      ],
+      "duration_ms": 304274,
+      "name": "Misirlou Psychotropique",
+      "url": "https://open.spotify.com/track/2ZhtNDzWk3xFNJ3A3jQTxw"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "We Haven't Been Introduced",
         "url": "https://open.spotify.com/album/2Gd08eyyxsiHXNIS0q3ufz"
       },
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Cumbia Fantas\u00eda",
-        "url": "https://open.spotify.com/album/1SrjHppHv9QG1qF0gFy3BN"
-      },
-      "artists": [
-        {
-          "name": "El Drag\u00f3n Criollo",
-          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
-        }
-      ],
-      "duration_ms": 289506,
-      "name": "Cumbia Fantas\u00eda",
-      "url": "https://open.spotify.com/track/1uAbXVyaMqHBHIo8gp3GMK"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Sigo Llorando",
         "url": "https://open.spotify.com/album/2bBnsF6DHMnWzRhlQ8Jz0X"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 204693,
       "name": "Sigo Llorando",
       "url": "https://open.spotify.com/track/0e0kgcPlS4dbyVJOEAVym9"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Cumbia Fantas\u00eda",
+        "url": "https://open.spotify.com/album/1SrjHppHv9QG1qF0gFy3BN"
+      },
+      "artists": [
+        {
+          "name": "El Drag\u00f3n Criollo",
+          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+        }
+      ],
+      "duration_ms": 289506,
+      "name": "Cumbia Fantas\u00eda",
+      "url": "https://open.spotify.com/track/1uAbXVyaMqHBHIo8gp3GMK"
     },
     {
       "added_at": "2025-05-19 17:05:09",

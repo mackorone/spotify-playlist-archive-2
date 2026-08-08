@@ -2648,7 +2648,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 140571,
       "name": "Alice",
       "url": "https://open.spotify.com/track/0Kf5Bp4SJW03mIy9T2EoQX"
@@ -12180,7 +12180,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 241764,
       "name": "Depois que voc\u00ea Foi embora",
       "url": "https://open.spotify.com/track/6OSpxFh9Xukczp78tGsL8c"
@@ -28621,6 +28621,28 @@
     },
     {
       "album": {
+        "name": "Metas",
+        "url": "https://open.spotify.com/album/0KiEZZqY77pCSjWovkzMq8"
+      },
+      "artists": [
+        {
+          "name": "Brocasito",
+          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
+        },
+        {
+          "name": "JayPluggz",
+          "url": "https://open.spotify.com/artist/5plOn7vFrwAlvqDfDCtM1M"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87276,
+      "name": "Metas",
+      "url": "https://open.spotify.com/track/11tlxytoLAQels8RQYYP6r"
+    },
+    {
+      "album": {
         "name": "Metflix",
         "url": "https://open.spotify.com/album/36GkjPO0oYcbKFCYtbPEHj"
       },
@@ -44271,6 +44293,28 @@
     },
     {
       "album": {
+        "name": "LMC Vol.1",
+        "url": "https://open.spotify.com/album/2nXcz3AyIkcI3NTV2u138e"
+      },
+      "artists": [
+        {
+          "name": "Lezin",
+          "url": "https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp"
+        },
+        {
+          "name": "LeodoKick",
+          "url": "https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166363,
+      "name": "Sold Out",
+      "url": "https://open.spotify.com/track/5ZE5SxtIf8vnSqOuB63Svc"
+    },
+    {
+      "album": {
         "name": "O Menino do Cabelo Rosa",
         "url": "https://open.spotify.com/album/0zkILF7vLuScNU2SqLGr37"
       },
@@ -47523,6 +47567,24 @@
     },
     {
       "album": {
+        "name": "Tipo Kisame e Zabuza",
+        "url": "https://open.spotify.com/album/3wC7ZGEfndA80qfBvhVKds"
+      },
+      "artists": [
+        {
+          "name": "MHRAP",
+          "url": "https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186148,
+      "name": "Tipo Kisame e Zabuza",
+      "url": "https://open.spotify.com/track/3J3wdHf4EAT3IpgDiFdIEm"
+    },
+    {
+      "album": {
         "name": "Tipo Moro",
         "url": "https://open.spotify.com/album/2L4sEDmfbMpLFuV841TByY"
       },
@@ -47756,7 +47818,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 140798,
       "name": "TODO MUNDO SABE",
       "url": "https://open.spotify.com/track/1Xs3BC1GoDf1H1IKMdiPXD"

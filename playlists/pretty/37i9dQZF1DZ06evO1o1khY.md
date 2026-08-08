@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 
 > This is GloRilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,307 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,318 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 3 | [WHATCHU KNO ABOUT ME \(feat\. Sexyy Red\)](https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:29 |
 | 4 | [Wanna Be \(with Megan Thee Stallion\)](https://open.spotify.com/track/7mOC6phfrfz3jfigg1aGsE) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 2:36 |
 | 5 | [MANE](https://open.spotify.com/track/287y8enXKYqxjJs5LzVQVZ) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [MANE](https://open.spotify.com/album/0FllIVqExjcvX48GIXXu3H) | 3:17 |
-| 6 | [Typa](https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Typa](https://open.spotify.com/album/296t8NLKxtLZ8jBOa0eGSY) | 2:04 |
+| 6 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:29 |
 | 7 | [TGIF](https://open.spotify.com/track/31TVho4kOuAeRmLYGIEuWn) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:44 |
 | 8 | [Yeah Glo!](https://open.spotify.com/track/5A8xI7PN4WDe9e61xEdt94) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 2:22 |
-| 9 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:29 |
+| 9 | [Typa](https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Typa](https://open.spotify.com/album/296t8NLKxtLZ8jBOa0eGSY) | 2:04 |
 | 10 | [She Got It \(feat\. Coco Jones & GloRilla\)](https://open.spotify.com/track/68TlifACKo87EevLEQd1HV) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 3:11 |
 | 11 | [LET HER COOK](https://open.spotify.com/track/1nF1SpkNfgPPozcXh2hvGU) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:35 |
 | 12 | [Call Your Name \(feat\. Sexyy Red & GloRilla\)](https://open.spotify.com/track/484opyiuSN7OTv4Au8sv2p) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [BROWN](https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 49 | [Out Loud Thinking](https://open.spotify.com/track/0EF2x6DfhDECvRVTdJvBDs) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 2:50 |
 | 50 | [Hell Woods 2](https://open.spotify.com/track/7pMzAZYQRvoyylbqUCyBdc) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hell Woods 2](https://open.spotify.com/album/1Z3vzcUeRkjeDIGuH3ocic) | 3:10 |
 
-Snapshot ID: `anJ9AAAAAACGaYkSV8njMgd+u6VOfZST`
+Snapshot ID: `anPOgAAAAAA9o5eHxEXsKbhn25Ze099z`

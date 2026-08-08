@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 341795,
+  "num_followers": 341770,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABnpHmjlAya5xGi0MovWakT7hwXu",
+  "snapshot_id": "AAAAACWKpFkjM9sxpv+QG44BlsF4f6EX",
   "tracks": [
     {
       "added_at": "2024-07-12 22:50:04",
@@ -819,26 +819,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Trending Tropics",
-        "url": "https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V"
-      },
-      "artists": [
-        {
-          "name": "Trending Tropics",
-          "url": "https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC"
-        },
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 189430,
-      "name": "El Futuro Ya Pas\u00f3 (feat. iLe)",
-      "url": "https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Las Mellas (Cerrero Dub Mix)",
         "url": "https://open.spotify.com/album/2TN8FrasxyrYtb2RPwMecC"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 271335,
       "name": "Las Mellas - Cerrero Dub Mix",
       "url": "https://open.spotify.com/track/2H9fKVibA0pCyjBCcL86MW"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Trending Tropics",
+        "url": "https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V"
+      },
+      "artists": [
+        {
+          "name": "Trending Tropics",
+          "url": "https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC"
+        },
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 189430,
+      "name": "El Futuro Ya Pas\u00f3 (feat. iLe)",
+      "url": "https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg"
     },
     {
       "added_at": "2024-07-12 22:50:04",

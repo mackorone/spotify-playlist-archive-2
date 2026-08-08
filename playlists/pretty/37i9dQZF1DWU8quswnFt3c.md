@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: Carly Rae Jepsen
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,029,214 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,029,174 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 25 | [Cowboys And Angels](https://open.spotify.com/track/6HhZDGrpQuj2iLiN1JCpyl) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Cowboys And Angels](https://open.spotify.com/album/1grujqAxFAN0zMCdu9Nr6H) | 2:13 |
 | 26 | [Menjaga Jodoh Orang Lain](https://open.spotify.com/track/2CneKWpjKErzqZhHID0avV) | [Ara Johari](https://open.spotify.com/artist/0xuL8l2qakTAyURbZb1gtc) | [Menjaga Jodoh Orang Lain](https://open.spotify.com/album/2uL5VfwFoXV4C0Xtn01sVQ) | 4:32 |
 | 27 | [Perdón si no te llamé](https://open.spotify.com/track/6ro7G0r7NwAGpg1ooa8hIi) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Perdón si no te llamé](https://open.spotify.com/album/4ZU0IrkV79sXI6RmXlshbX) | 2:49 |
-| 28 | [Ki Allo](https://open.spotify.com/track/1APBa1UnvvcrZJGfHNcRUB) | [Danae](https://open.spotify.com/artist/4j3tjX98PWp21sE1XWIBt8) | [Ki Allo](https://open.spotify.com/album/4ereTaKGCKJgk2iHkFhJnJ) | 3:13 |
-| 29 | [Badna Nroue](https://open.spotify.com/track/4Y29obvHXHeQFJUjZOEHqG) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Mega Haifa 2](https://open.spotify.com/album/01NVQQpvmM2ejbglR55Smx) | 1:45 |
-| 30 | [Mal o Bien](https://open.spotify.com/track/2EzovFuGDAcjzMGuz39pt4) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [CANDELA](https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t) | 2:05 |
+| 28 | [Badna Nroue](https://open.spotify.com/track/4Y29obvHXHeQFJUjZOEHqG) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Mega Haifa 2](https://open.spotify.com/album/01NVQQpvmM2ejbglR55Smx) | 1:45 |
+| 29 | [Mal o Bien](https://open.spotify.com/track/2EzovFuGDAcjzMGuz39pt4) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [CANDELA](https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t) | 2:05 |
+| 30 | [Ki Allo](https://open.spotify.com/track/1APBa1UnvvcrZJGfHNcRUB) | [Danae](https://open.spotify.com/artist/4j3tjX98PWp21sE1XWIBt8) | [Ki Allo](https://open.spotify.com/album/4ereTaKGCKJgk2iHkFhJnJ) | 3:13 |
 | 31 | [Hungamaa Ho Gaya](https://open.spotify.com/track/3gv6ZRvumAlDJufUM93hfv) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Laxmikant–Pyarelal](https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax) | [Queen](https://open.spotify.com/album/2Rz2QGoRiNq2FcrW0bVXkj) | 4:31 |
 | 32 | [Tú, mi bb](https://open.spotify.com/track/2GuNMjF2VUeUUgtx6CZzYf) | [ANASOF](https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm) | [Tú, mi bb](https://open.spotify.com/album/3pv2BRwZhBXBxXfNYifT0h) | 3:07 |
 | 33 | [Były momenty](https://open.spotify.com/track/2JZvc0rGooaJDY7aMXANxh) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [Były momenty](https://open.spotify.com/album/3y7OsAGPH3VMtbyPk8BnSp) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 49 | [Tequila](https://open.spotify.com/track/5B8GKNiAHjmlxtizWo58E3) | [Sofi](https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK) | [Tequila](https://open.spotify.com/album/527WThPElJ2zVD0SXN2wst) | 2:01 |
 | 50 | [Più in Alto](https://open.spotify.com/track/6CpzsTZfjcLBVLhCmEKI1v) | [Birthh](https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn) | [SENZA FIATO](https://open.spotify.com/album/1SG8l9HK7JW4ECmURSPLVX) | 3:04 |
 
-Snapshot ID: `AAAAAEu5PIKZCwKAUNhqB0z6sRgsmV5l`
+Snapshot ID: `AAAAAGiCGtOEDtmrJoEvZltbc5Aw5Rk2`

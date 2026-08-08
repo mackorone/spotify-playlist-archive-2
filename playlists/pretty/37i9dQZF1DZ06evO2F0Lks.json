@@ -1,12 +1,12 @@
 {
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
-  "num_followers": 152250,
+  "num_followers": 152257,
   "original_name": "This Is Carrie Underwood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAAI7lEcXc/fSt2czIx6T1VD",
+  "snapshot_id": "anPOgAAAAABSzzFQejkY4E+ZEbVAXbIx",
   "tracks": [
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghost Story",
-        "url": "https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc"
+        "name": "Enchanted",
+        "url": "https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 181400,
-      "name": "Ghost Story",
-      "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
+      "duration_ms": 209560,
+      "name": "Ever Ever After - From \"Enchanted\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/124q3N9qd4r8KbeuYouvr9"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enchanted",
-        "url": "https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc"
+        "name": "Ghost Story",
+        "url": "https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 209560,
-      "name": "Ever Ever After - From \"Enchanted\" / Soundtrack Version",
-      "url": "https://open.spotify.com/track/124q3N9qd4r8KbeuYouvr9"
+      "duration_ms": 181400,
+      "name": "Ghost Story",
+      "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
     },
     {
       "added_at": null,

@@ -449,6 +449,28 @@
     },
     {
       "album": {
+        "name": "Bottle Up (from PAW Patrol: The Dino Movie)",
+        "url": "https://open.spotify.com/album/76p8b3x5fdwcM6QbhpOFOR"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        },
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217133,
+      "name": "Bottle Up - from PAW Patrol: The Dino Movie",
+      "url": "https://open.spotify.com/track/7LAcikXNoHVAQFeEx8caQ2"
+    },
+    {
+      "album": {
         "name": "finding it hard to smile",
         "url": "https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4"
       },
@@ -2018,7 +2040,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 93916,
       "name": "Mad - Wicked Wonderland - From \"Descendants: Wicked Wonderland\"",
       "url": "https://open.spotify.com/track/1GzbaOHvaMnsMO2dhUMb45"

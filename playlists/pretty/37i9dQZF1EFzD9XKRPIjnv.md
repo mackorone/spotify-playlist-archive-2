@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZGETGfppBycgid9gfvgIM">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,492 likes - 161 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,491 likes - 161 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 51 | [Quit You](https://open.spotify.com/track/4GJAd1nBylAEbw1dZDVzEQ) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Quit You](https://open.spotify.com/album/2WPXSv8cyr0i20Z9jsPd5M) | 3:41 |
 | 52 | [I HATE EVERYBODY](https://open.spotify.com/track/35FjZytt5TukIgJD86UybL) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 2:51 |
 | 53 | [Just Sing](https://open.spotify.com/track/0ZjmrnH5Uh4WD1L29NTcUs) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Kenan Thompson](https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8) | 3:41 |
-| 54 | [Keeping Score \(feat\. Paige IV\)](https://open.spotify.com/track/0g1BxXBhdbhImlgjJoIGal) | [L D R U](https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq), [Paige IV](https://open.spotify.com/artist/7FhrJLDe6bQ0Hqt9Wf7zXh) | [Sizzlar](https://open.spotify.com/album/4AVhMub7KtxGzPlBrKJ6L7) | 3:02 |
-| 55 | [Genius](https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:35 |
+| 54 | [Genius](https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:35 |
+| 55 | [Keeping Score \(feat\. Paige IV\)](https://open.spotify.com/track/0g1BxXBhdbhImlgjJoIGal) | [L D R U](https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq), [Paige IV](https://open.spotify.com/artist/7FhrJLDe6bQ0Hqt9Wf7zXh) | [Sizzlar](https://open.spotify.com/album/4AVhMub7KtxGzPlBrKJ6L7) | 3:02 |
 | 56 | [Better](https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:50 |
 | 57 | [To Begin Again](https://open.spotify.com/track/1iJBSr7s7jYXzM8EGcbK5b) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [To Begin Again](https://open.spotify.com/album/5rrWBCnnYiFaT5EoyCeikd) | 3:30 |
 | 58 | [History](https://open.spotify.com/track/7rIfPMmf3h0JO2GT1C2m2z) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [What Comes Next](https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv) | 3:28 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 89 | [courage](https://open.spotify.com/track/72sQjWR565TtF4yIKnoZZe) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Bright Lights, Red Eyes](https://open.spotify.com/album/43G5319YT74MbuRtxodpi9) | 3:29 |
 | 90 | [Dream Girl](https://open.spotify.com/track/4YUkUocIFAeZznwprEAsxM) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:39 |
 | 91 | [I Want You](https://open.spotify.com/track/5mpibPxO6AWUhl2RiHpOGe) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Forever Neverland](https://open.spotify.com/album/52c2O1mvqnfAVjX9QNC5yd) | 3:16 |
-| 92 | [Hurricane](https://open.spotify.com/track/36GbZPJbjuxw4BahR1gPdM) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Hurricane](https://open.spotify.com/album/3SEXPNDZwqzYZpRHeFTGSv) | 3:15 |
-| 93 | [Don't Hate Me When It's Over](https://open.spotify.com/track/76pV06GMcz7OMVEnmjV83e) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [The Day We Met](https://open.spotify.com/album/7JHcvfslueH4YSOxIUTRDx) | 2:36 |
+| 92 | [Don't Hate Me When It's Over](https://open.spotify.com/track/76pV06GMcz7OMVEnmjV83e) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [The Day We Met](https://open.spotify.com/album/7JHcvfslueH4YSOxIUTRDx) | 2:36 |
+| 93 | [Hurricane](https://open.spotify.com/track/36GbZPJbjuxw4BahR1gPdM) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Hurricane](https://open.spotify.com/album/3SEXPNDZwqzYZpRHeFTGSv) | 3:15 |
 | 94 | [up to something](https://open.spotify.com/track/0363Rz5nMpTlYWZ4kmjM2L) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Bright Lights, Red Eyes](https://open.spotify.com/album/43G5319YT74MbuRtxodpi9) | 2:59 |
 | 95 | [Together Now](https://open.spotify.com/track/0wGlWyLEXXjeBTpNIPFii0) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse), [Ester Dean](https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM) | [TROLLS Holiday In Harmony](https://open.spotify.com/album/4QhiPwSJKMHBk0EL67zBaT) | 2:56 |
 | 96 | [Skin & Bones \(feat\. Winona Oak\)](https://open.spotify.com/track/0kisDgW1eYNqJhyvkKeyxJ) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Skin & Bones](https://open.spotify.com/album/1UC3Aa7Abau4Qf4jiyY5rK) | 2:30 |
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 160 | [I'm Blue](https://open.spotify.com/track/4fxjwpYb69BFXlVDZVUnGH) | [Marlowe Wilton](https://open.spotify.com/artist/2T33g5HKf9IdpHnx0swzwY) | [I'm Blue](https://open.spotify.com/album/3dALB5GpC5arbXCUEpHNoO) | 3:03 |
 | 161 | [Why](https://open.spotify.com/track/5h09Ksb1ctl0naenwVkrau) | [The Fabulous Cadillacs](https://open.spotify.com/artist/1pxfJicxxf1Ce8OEJnorT3) | [Classics \- The Fabulous Cadillacs](https://open.spotify.com/album/2IJa1TA0j0t06LWl1dt8Ft) | 1:50 |
 
-Snapshot ID: `AcY43AAAAAAIuRZf9+goh4sw4tk68FQL`
+Snapshot ID: `AcY+NgAAAAAYkwkStQWxWPM2j3h1LjsR`

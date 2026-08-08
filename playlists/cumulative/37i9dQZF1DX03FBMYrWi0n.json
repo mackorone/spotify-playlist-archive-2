@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Lewis Dice",
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Nicholas Cangiano",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -1666,7 +1666,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 189090,
       "name": "CASTLE WALLS",
       "url": "https://open.spotify.com/track/2THUiEvUWbVl71pqdsubSS"
@@ -3966,6 +3966,24 @@
       "duration_ms": 288346,
       "name": "Habitat",
       "url": "https://open.spotify.com/track/0L9PnZbx3ySxrQZgfQPJVX"
+    },
+    {
+      "album": {
+        "name": "half smile",
+        "url": "https://open.spotify.com/album/5G1gVUZZilR2abtg15VI6A"
+      },
+      "artists": [
+        {
+          "name": "Hockitay",
+          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228240,
+      "name": "half smile",
+      "url": "https://open.spotify.com/track/0TpdlGxaVraIe1dDXdFehk"
     },
     {
       "album": {
@@ -9051,6 +9069,24 @@
     },
     {
       "album": {
+        "name": "Shotgun",
+        "url": "https://open.spotify.com/album/1iZ0lfz4ICkV3iht0kcXOk"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Cangiano",
+          "url": "https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186571,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/3FR6I74FRcFyT3DQqOzA6a"
+    },
+    {
+      "album": {
         "name": "Smash Combat",
         "url": "https://open.spotify.com/album/3wb0gR13hzmsFExK0AWCEG"
       },
@@ -10426,7 +10462,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 65242,
       "name": "usd freestyle",
       "url": "https://open.spotify.com/track/1pQXbtBuFBl9Mh6okzbCOO"

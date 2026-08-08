@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 
 > Найліпша музика від українських артистів\-початківців\. Обкладинка: <a href="spotify:artist:0Zc4Oitt1HFLiF78sSw9H8">Sonhe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,281 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,290 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 | 49 | [427on](https://open.spotify.com/track/6MXuQAl82GbpgQNf5giOQA) | [Feviane](https://open.spotify.com/artist/5D09M3zWukfwLwEZRrOa14) | [427on](https://open.spotify.com/album/3ogtjB9A2slX7OroP1mN2n) | 2:57 |
 | 50 | [іній](https://open.spotify.com/track/5iHHQ57Z3ffRxbpg2xoLFw) | [JASE51](https://open.spotify.com/artist/4p0zdj463b929YZnJ5PcJg), [NANA SOLIS](https://open.spotify.com/artist/5nqfEPmgH1HtrcPJeIt51G) | [іній](https://open.spotify.com/album/2or0Df3MOQY9g3UJz5J6eW) | 2:48 |
 
-Snapshot ID: `AAAAAN+gUm+XyME6REfqF+agoAg4Pjub`
+Snapshot ID: `AAAAAMk4n8a54u1M7V5HCDNH0nncp2Nh`

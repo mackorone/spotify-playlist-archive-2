@@ -1,12 +1,12 @@
 {
   "description": "Listen hot and new Korean classical & new age  music in here! (Cover: \uc870\uc218\ubbf8(Sumi Jo)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 5782,
+  "num_followers": 5785,
   "original_name": "Classics Korea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKXIeBJzUuKfSRGoxn0KrWruEqH5",
+  "snapshot_id": "AAAAABd4UmMozcunjDTYakPacEKkzjws",
   "tracks": [
     {
       "added_at": "2026-05-07 06:03:41",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
+        "name": "The Forestella",
+        "url": "https://open.spotify.com/album/6hs2qZO4ybDSIudDKpgxxU"
+      },
+      "artists": [
+        {
+          "name": "Forestella",
+          "url": "https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8"
+        }
+      ],
+      "duration_ms": 284920,
+      "name": "My Heart Will Go On",
+      "url": "https://open.spotify.com/track/12Lo4EX0wt5uhUtKPwIaXe"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
         "name": "The Handel Project: Handel-Suites & Brahms-Variations",
         "url": "https://open.spotify.com/album/2CXQ8RsgMPr1QeuNQP0ArE"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 156160,
       "name": "Suite No. 7 in B-Flat Major, HWV 440: III. Sarabande",
       "url": "https://open.spotify.com/track/3wEz4LwtG1Wdi8qppCukdL"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "The Forestella",
-        "url": "https://open.spotify.com/album/6hs2qZO4ybDSIudDKpgxxU"
-      },
-      "artists": [
-        {
-          "name": "Forestella",
-          "url": "https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8"
-        }
-      ],
-      "duration_ms": 284920,
-      "name": "My Heart Will Go On",
-      "url": "https://open.spotify.com/track/12Lo4EX0wt5uhUtKPwIaXe"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1031,22 +1031,22 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "It's okay (Orchestra Version) - SM CLASSICS X ARTIST",
-        "url": "https://open.spotify.com/album/0WRvNg8dwyvCP0UKgyaNCg"
+        "name": "Summer Vacation",
+        "url": "https://open.spotify.com/album/3Qzc5rtvxsEOSFKgFCjUeZ"
       },
       "artists": [
         {
-          "name": "RYEOWOOK",
-          "url": "https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo"
+          "name": "Uaieo",
+          "url": "https://open.spotify.com/artist/1l7VfnSmASgvPvDKbDPXFf"
         },
         {
-          "name": "SM Classics TOWN Orchestra",
-          "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
+          "name": "Joyful Island",
+          "url": "https://open.spotify.com/artist/0x4sEns7ouHfoJ3pRi2AqH"
         }
       ],
-      "duration_ms": 280687,
-      "name": "It's okay - Orchestra Version",
-      "url": "https://open.spotify.com/track/6YLTwDwqYnHrAK5h8PMbSL"
+      "duration_ms": 235906,
+      "name": "100% Summer",
+      "url": "https://open.spotify.com/track/2kNWYHygLX93gHmBvT0GJz"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1067,22 +1067,22 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Summer Vacation",
-        "url": "https://open.spotify.com/album/3Qzc5rtvxsEOSFKgFCjUeZ"
+        "name": "It's okay (Orchestra Version) - SM CLASSICS X ARTIST",
+        "url": "https://open.spotify.com/album/0WRvNg8dwyvCP0UKgyaNCg"
       },
       "artists": [
         {
-          "name": "Uaieo",
-          "url": "https://open.spotify.com/artist/1l7VfnSmASgvPvDKbDPXFf"
+          "name": "RYEOWOOK",
+          "url": "https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo"
         },
         {
-          "name": "Joyful Island",
-          "url": "https://open.spotify.com/artist/0x4sEns7ouHfoJ3pRi2AqH"
+          "name": "SM Classics TOWN Orchestra",
+          "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
         }
       ],
-      "duration_ms": 235906,
-      "name": "100% Summer",
-      "url": "https://open.spotify.com/track/2kNWYHygLX93gHmBvT0GJz"
+      "duration_ms": 280687,
+      "name": "It's okay - Orchestra Version",
+      "url": "https://open.spotify.com/track/6YLTwDwqYnHrAK5h8PMbSL"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "A Christmas Symphony",
-        "url": "https://open.spotify.com/album/6XkOhydeYpbV2rRGOyUdQ9"
-      },
-      "artists": [
-        {
-          "name": "cho min gyu",
-          "url": "https://open.spotify.com/artist/0z18ejgzsJmt0DWuCshKv1"
-        }
-      ],
-      "duration_ms": 194413,
-      "name": "A Christmas Symphony",
-      "url": "https://open.spotify.com/track/6iNSCePbwUiSDQ2bF5yj3e"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
         "name": "MOONLIGHT",
         "url": "https://open.spotify.com/album/15nHJiMLYYFDgfryUskaAY"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 234000,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/6bQr39dhQRzL6Ja1pkZ0g0"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
+        "name": "A Christmas Symphony",
+        "url": "https://open.spotify.com/album/6XkOhydeYpbV2rRGOyUdQ9"
+      },
+      "artists": [
+        {
+          "name": "cho min gyu",
+          "url": "https://open.spotify.com/artist/0z18ejgzsJmt0DWuCshKv1"
+        }
+      ],
+      "duration_ms": 194413,
+      "name": "A Christmas Symphony",
+      "url": "https://open.spotify.com/track/6iNSCePbwUiSDQ2bF5yj3e"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
+        "name": "Growl (Orchestra Version)",
+        "url": "https://open.spotify.com/album/65qB92gNunjYGnLsfJ6cXR"
+      },
+      "artists": [
+        {
+          "name": "Seoul Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4jeL1MqtTmuyNb04ZuzGR7"
+        }
+      ],
+      "duration_ms": 244918,
+      "name": "Growl - Orchestra Version",
+      "url": "https://open.spotify.com/track/11xLAKc6AdEsSbosVOpRUk"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
         "name": "Beethoven, Isang Yun, Barber (Live)",
         "url": "https://open.spotify.com/album/3jwobJu2gfscIyepVtguSX"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 178920,
       "name": "Sc\u00e8nes d\u2019enfants: No. 5, Jeunes filles au Jardin - Live",
       "url": "https://open.spotify.com/track/1nnnITAhUa10DROk1FhrCu"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "Growl (Orchestra Version)",
-        "url": "https://open.spotify.com/album/65qB92gNunjYGnLsfJ6cXR"
-      },
-      "artists": [
-        {
-          "name": "Seoul Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/4jeL1MqtTmuyNb04ZuzGR7"
-        }
-      ],
-      "duration_ms": 244918,
-      "name": "Growl - Orchestra Version",
-      "url": "https://open.spotify.com/track/11xLAKc6AdEsSbosVOpRUk"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Esthesia",
-        "url": "https://open.spotify.com/album/09PNC6kLYjYD6spmPc3dbH"
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/6O8SJIDG9wHel9n1yT9AT9"
       },
       "artists": [
         {
-          "name": "jung jaeil",
-          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+          "name": "Sumi Jo",
+          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
         }
       ],
-      "duration_ms": 243640,
-      "name": "Esthesia",
-      "url": "https://open.spotify.com/track/1mvEfhUAcAp696WII9S24W"
+      "duration_ms": 157946,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/5sCjHL8W4IwCIwAegbL1x8"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
+        "name": "Esthesia",
+        "url": "https://open.spotify.com/album/09PNC6kLYjYD6spmPc3dbH"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "duration_ms": 243640,
+      "name": "Esthesia",
+      "url": "https://open.spotify.com/track/1mvEfhUAcAp696WII9S24W"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
         "name": "Connected",
         "url": "https://open.spotify.com/album/1omw0PdB8y3wQpPffwWDMw"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 314573,
       "name": "8 Humoresques, Op.101: No.7, Poco lento e grazioso (Arr. for Violin, Vibraphone and Piano by Cho Yoonseung)",
       "url": "https://open.spotify.com/track/78BAlsZXq7OxquB7hsz4TM"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "In Love",
-        "url": "https://open.spotify.com/album/6O8SJIDG9wHel9n1yT9AT9"
-      },
-      "artists": [
-        {
-          "name": "Sumi Jo",
-          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
-        }
-      ],
-      "duration_ms": 157946,
-      "name": "In Love",
-      "url": "https://open.spotify.com/track/5sCjHL8W4IwCIwAegbL1x8"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1871,26 +1871,6 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Beethoven: Complete Piano Sonatas",
-        "url": "https://open.spotify.com/album/1aZMeJFNESnJsxelEwbCmK"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "HieYon Choi",
-          "url": "https://open.spotify.com/artist/2IJ32s9WsLzXb7SCLYa4wB"
-        }
-      ],
-      "duration_ms": 516492,
-      "name": "Piano Sonata No. 7 in D Major, Op. 10 No. 3: II. Largo e mesto",
-      "url": "https://open.spotify.com/track/1OLeHLfNNpm4J0az1zLhN5"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
         "name": "psalms",
         "url": "https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX"
       },
@@ -1900,17 +1880,17 @@
           "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
         },
         {
-          "name": "Jung Eun Hye",
-          "url": "https://open.spotify.com/artist/616kilzy3c6aaHmiEoSrp1"
-        },
-        {
           "name": "Budapest Scoring Orchestra and Choir",
           "url": "https://open.spotify.com/artist/3NZvimFMfoIm2D6SLCT8PJ"
+        },
+        {
+          "name": "Jung Eun Hye",
+          "url": "https://open.spotify.com/artist/616kilzy3c6aaHmiEoSrp1"
         }
       ],
-      "duration_ms": 254226,
-      "name": "his days are like a passing shadow I",
-      "url": "https://open.spotify.com/track/5AVrdzGQuarou1dHpnqJqQ"
+      "duration_ms": 371146,
+      "name": "memorare",
+      "url": "https://open.spotify.com/track/6K0CsO1HJbf7k2eOYg9khP"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1927,26 +1907,6 @@
       "duration_ms": 232000,
       "name": "Camellia",
       "url": "https://open.spotify.com/track/777FLvGcK65H7Ljf4K3PNl"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "Timepass",
-        "url": "https://open.spotify.com/album/1UKIVk5shyZCjcukuCuqnU"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Kim Dami",
-          "url": "https://open.spotify.com/artist/2qd87b0u1binbbeQPFh7eT"
-        }
-      ],
-      "duration_ms": 862200,
-      "name": "Concert Fantasy on Themes from Gershwin's Porgy and Bess, Op. 19",
-      "url": "https://open.spotify.com/track/0wxEjB5smW1Y62T7nh8DMD"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1988,9 +1948,29 @@
           "url": "https://open.spotify.com/artist/2IJ32s9WsLzXb7SCLYa4wB"
         }
       ],
-      "duration_ms": 441320,
-      "name": "Piano Sonata No. 1 in F Minor, Op. 2 No. 1: IV. Prestissimo",
-      "url": "https://open.spotify.com/track/4w5ukjojktIUJSGJMcPqNb"
+      "duration_ms": 516492,
+      "name": "Piano Sonata No. 7 in D Major, Op. 10 No. 3: II. Largo e mesto",
+      "url": "https://open.spotify.com/track/1OLeHLfNNpm4J0az1zLhN5"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
+        "name": "Timepass",
+        "url": "https://open.spotify.com/album/1UKIVk5shyZCjcukuCuqnU"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Kim Dami",
+          "url": "https://open.spotify.com/artist/2qd87b0u1binbbeQPFh7eT"
+        }
+      ],
+      "duration_ms": 862200,
+      "name": "Concert Fantasy on Themes from Gershwin's Porgy and Bess, Op. 19",
+      "url": "https://open.spotify.com/track/0wxEjB5smW1Y62T7nh8DMD"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -2043,6 +2023,26 @@
       "duration_ms": 184000,
       "name": "Blooming",
       "url": "https://open.spotify.com/track/3CHPzAuqAM2UBSSN42RSW3"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
+        "name": "Beethoven: Complete Piano Sonatas",
+        "url": "https://open.spotify.com/album/1aZMeJFNESnJsxelEwbCmK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "HieYon Choi",
+          "url": "https://open.spotify.com/artist/2IJ32s9WsLzXb7SCLYa4wB"
+        }
+      ],
+      "duration_ms": 441320,
+      "name": "Piano Sonata No. 1 in F Minor, Op. 2 No. 1: IV. Prestissimo",
+      "url": "https://open.spotify.com/track/4w5ukjojktIUJSGJMcPqNb"
     }
   ],
   "unique_name": "Classics Korea",

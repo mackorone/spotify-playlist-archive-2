@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 
 > These are the talented women of Latin music\. Cover: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,550 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,663 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 24 | [Yo No Soy Esa Mujer](https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 3:44 |
 | 25 | [Como La Flor](https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:06 |
 | 26 | [Más Cara](https://open.spotify.com/track/0RrwwLDXmvCGXXzuDgwvOZ) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Más Cara](https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26) | 2:35 |
-| 27 | [CHÉVERE \(joesón\_type\_beat\)](https://open.spotify.com/track/5OQCghydcEeA76eGdJ6GEa) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [CHÉVERE \(joesón\_type\_beat\)](https://open.spotify.com/album/0Jm70JVol2XXCUpSggEk50) | 3:09 |
-| 28 | [Dios Es Un Stalker](https://open.spotify.com/track/6FdOGTRYvLCJ79d55YtGgZ) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 2:10 |
+| 27 | [Dios Es Un Stalker](https://open.spotify.com/track/6FdOGTRYvLCJ79d55YtGgZ) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 2:10 |
+| 28 | [CHÉVERE \(joesón\_type\_beat\)](https://open.spotify.com/track/5OQCghydcEeA76eGdJ6GEa) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [CHÉVERE \(joesón\_type\_beat\)](https://open.spotify.com/album/0Jm70JVol2XXCUpSggEk50) | 3:09 |
 | 29 | [Envolver](https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:13 |
 | 30 | [ALMA](https://open.spotify.com/track/3DNPOTO44kCKUV9RkYU77G) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bendito Verano](https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s) | 2:56 |
 | 31 | [No Llega el Olvido](https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:14 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 74 | [1977](https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [1977](https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3) | 3:21 |
 | 75 | [Enamórate](https://open.spotify.com/track/332fAqelC3Uik91QPxPcB8) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Enamórate](https://open.spotify.com/album/17FLF5NkLfUNkEYjQkaO32) | 2:27 |
 | 76 | [DE MARAVISHA](https://open.spotify.com/track/20Its0iJ6nvKoKw3cY4ydD) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [DE MARAVISHA](https://open.spotify.com/album/54ZdnLGAx6ifXg4xI3qvwI) | 3:23 |
-| 77 | [¿Trato Hecho?](https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [PREGUNTAS A LAS 11:11](https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb) | 3:00 |
-| 78 | [Eternamente Bella](https://open.spotify.com/track/0WZqP2WahJbKURqUK3fBPk) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Eternamente Bella](https://open.spotify.com/album/1PhIfhQdduYiD72UKXIot9) | 3:26 |
+| 77 | [Eternamente Bella](https://open.spotify.com/track/0WZqP2WahJbKURqUK3fBPk) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Eternamente Bella](https://open.spotify.com/album/1PhIfhQdduYiD72UKXIot9) | 3:26 |
+| 78 | [¿Trato Hecho?](https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [PREGUNTAS A LAS 11:11](https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb) | 3:00 |
 | 79 | [Obsesión](https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 3:11 |
 | 80 | [A CABALLO](https://open.spotify.com/track/7CWovGMwt4OLVY2EcKpdqy) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [MALPORTADA](https://open.spotify.com/album/2GyPbr8Mr9VRu851m1P2OG) | 3:20 |
 | 81 | [La Mala Era Yo](https://open.spotify.com/track/2nCP0l4ZNJxVm7ZaKBC3mB) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Mala Era Yo](https://open.spotify.com/album/6ozCFSLuAcviqzd7fFn9AV) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 99 | [PORQUE SOY ABEJA REINA](https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Porque Soy Abeja Reina](https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD) | 2:38 |
 | 100 | [Como Me Duele Perderte](https://open.spotify.com/track/2NvsxLwEnF3FtJJsdhkdmq) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Alma Caribeña](https://open.spotify.com/album/5JE7TvLrx9uwR1rHLPEyo9) | 4:27 |
 
-Snapshot ID: `AAAAAB/0Mtqn5qfa7ycAY0cqvKbQScAH`
+Snapshot ID: `AAAAAJVd4v4yzmlhyx+HJ7A8coiTXwlE`

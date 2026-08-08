@@ -2,9 +2,9 @@
 
 ### [Electronii\[K\]](https://open.spotify.com/playlist/37i9dQZF1DXdmJixlyx0rj)
 
-> New & best K\-Electronic music is here\. \(Cover: Kimmy gone\)
+> New & best K\-Electronic music is here\. \(Cover: Winter Back\)
 
-330 songs - 18 hr 34 min
+331 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [??? \(ODD\)](https://open.spotify.com/track/6fb41FxP9E93L2hBB3UYPB) | [Ki:XÉ](https://open.spotify.com/artist/5iMLnfFHa26dIkW6KGiq3v) | [??? \(ODD\)](https://open.spotify.com/album/4RXMT404HKJnWvOFI7CP4k) | 2:40 | 2025-05-20 | 2025-08-01 |
 | [@\_@](https://open.spotify.com/track/5fmIHR4PfKC7h4XIF1Kaqe) | [HYPNOSIS THERAPY](https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP) | [PSILOCYBIN](https://open.spotify.com/album/1rUoceFLTQxAlMGuYpWCCI) | 2:07 | 2024-04-05 | 2025-08-25 |
 | [After LIKE \- Holiday Remix](https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Spotify Singles \- Holiday](https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk) | 2:52 | 2024-06-28 | 2026-06-23 |
+| [AGN](https://open.spotify.com/track/5MBhe5QslR8w8s1IGANiyt) | [Winter Back](https://open.spotify.com/artist/7obj6hnqThkyQFP9Sq07Pk) | [Headphone Beats 2025\-2026](https://open.spotify.com/album/6F0H5yZIw2liTOAG0xLtn6) | 3:49 | 2026-08-07 |  |
 | [Algorithm \(IMLAY Remix\)](https://open.spotify.com/track/6ltlyo7yz5Stbewilyw5H3) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2) | [\[Algorithm \(Remixes\)\]](https://open.spotify.com/album/4xQ47QdTOo2aQZoadlhRS0) | 2:28 | 2024-09-24 | 2025-05-07 |
 | [alive](https://open.spotify.com/track/1TDHp9m9b1ZsJrb9TtgsYA) | [ONII](https://open.spotify.com/artist/3MaLSP3dNqtSH7Wrz1pr35) | [alive](https://open.spotify.com/album/22E1iZe1wyXbKn8W5zEiW2) | 4:22 | 2024-08-14 | 2024-09-01 |
 | [All I Wanna Do](https://open.spotify.com/track/4ScfjW8eccBGFqmoaOKfND) | [Closet Yi](https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp) | [Point of Hue](https://open.spotify.com/album/3gNzDusqD0Fdjt1FyDVEoF) | 6:58 | 2025-02-11 | 2025-07-02 |
@@ -220,7 +221,7 @@
 | [Nocturne 07 \(for aerse\)](https://open.spotify.com/track/3CV5geHX47MIejxoQ9evgA) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [Nocturne 07 \(for aerse\)](https://open.spotify.com/album/3cs88X4vsJW3H5O69QC9GN) | 2:32 | 2025-11-06 |  |
 | [NOSAE NOSAE \- Remix](https://open.spotify.com/track/39neTEf3wIhm04a2SE88dA) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0), [Cosmickey](https://open.spotify.com/artist/2VME6o9EyB1AvDCkUdT7iB), [Sky](https://open.spotify.com/artist/3x3u1bkDrTFD7KtrJyQVNT) | [Homies\(Remix\)](https://open.spotify.com/album/40xju0ksMj869kE6Fj3Ua6) | 3:12 | 2024-10-23 | 2024-11-18 |
 | [Not Today](https://open.spotify.com/track/7Exqqvhu4qVumN79VTpzlk) | [2Spade](https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn), [Marv](https://open.spotify.com/artist/1V2ep7618bYgCcTVyDKPcW) | [H₩OARANG](https://open.spotify.com/album/3nvENdfXkJX2eQNj4BAP8s) | 2:53 | 2024-11-29 | 2024-12-16 |
-| [NOW HERE](https://open.spotify.com/track/6dsFCeO89AwO6lB53BqS5C) | [XXOK](https://open.spotify.com/artist/4mNaf6h2zBKJvFsTATvB5E) | [Sequence](https://open.spotify.com/album/3jiqaGVsEHvgYoVDP4IsY2) | 4:31 | 2026-07-03 |  |
+| [NOW HERE](https://open.spotify.com/track/6dsFCeO89AwO6lB53BqS5C) | [XXOK](https://open.spotify.com/artist/4mNaf6h2zBKJvFsTATvB5E) | [Sequence](https://open.spotify.com/album/3jiqaGVsEHvgYoVDP4IsY2) | 4:31 | 2026-07-03 | 2026-08-08 |
 | [O.Y.S.T.E.R](https://open.spotify.com/track/6uIJf1K0s97Edqoy1p7NPG) | [Band Oyster](https://open.spotify.com/artist/6srjyToknvIumliRxxTRmc) | [O.Y.S.T.E.R](https://open.spotify.com/album/5v71xpMsua2dco9yQVtFhV) | 5:12 | 2025-06-10 | 2025-07-25 |
 | [Off Ways](https://open.spotify.com/track/28oDhUdHX9CqwVrdJTKubW) | [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8), [Chill Satellite](https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA) | [Off Ways](https://open.spotify.com/album/5GrvHifcpCyzKUMHI2Mtyy) | 3:00 | 2024-04-05 | 2024-06-29 |
 | [On My Mind](https://open.spotify.com/track/4cytI2dxVs5ZOh7qYuOYv5) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq) | [On My Mind](https://open.spotify.com/album/0dhS0KyKfi6TSkjLNQfkcg) | 2:40 | 2024-06-28 | 2025-05-21 |

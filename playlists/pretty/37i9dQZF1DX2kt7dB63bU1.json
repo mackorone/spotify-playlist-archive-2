@@ -1,13 +1,109 @@
 {
   "description": "Jazz voices of today. Cover: Gabrielle Cavassa",
-  "num_followers": 172591,
+  "num_followers": 172625,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADm2LBASrDrM1v0NebRHALZ+XGOf",
+  "snapshot_id": "AAAAABuzTGDFrbEPk34vr4AZ9VewSHa+",
   "tracks": [
+    {
+      "added_at": "2026-08-07 04:00:20",
+      "album": {
+        "name": "What Does It Take to Bloom?",
+        "url": "https://open.spotify.com/album/54ST4y3yA1Is8hXRhDpH2o"
+      },
+      "artists": [
+        {
+          "name": "Somi",
+          "url": "https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA"
+        }
+      ],
+      "duration_ms": 307660,
+      "name": "Throw Something",
+      "url": "https://open.spotify.com/track/5Ahzftt1kLGb1daMiLOk8e"
+    },
+    {
+      "added_at": "2026-08-07 04:00:20",
+      "album": {
+        "name": "Where is It Written?",
+        "url": "https://open.spotify.com/album/7kSsU12ybpCmhNb6pXR5uh"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "duration_ms": 365626,
+      "name": "Where is It Written?",
+      "url": "https://open.spotify.com/track/5ts8DaYwiFI13Pk7KIoiwW"
+    },
+    {
+      "added_at": "2026-08-07 04:00:20",
+      "album": {
+        "name": "Strange Things Lovers Do",
+        "url": "https://open.spotify.com/album/1nPtdjdOQcZupwKIEFQtTZ"
+      },
+      "artists": [
+        {
+          "name": "Tom Petrone",
+          "url": "https://open.spotify.com/artist/76Y7Pfxut1SGgIEF4RWDsb"
+        }
+      ],
+      "duration_ms": 218578,
+      "name": "Strange Things Lovers Do",
+      "url": "https://open.spotify.com/track/0FAyBwp6WWv4BAu8JJyquh"
+    },
+    {
+      "added_at": "2026-08-07 04:00:20",
+      "album": {
+        "name": "Burgundy",
+        "url": "https://open.spotify.com/album/73qeUetzmmmf5F7qTR9SkC"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Sullivan Fortner",
+          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
+        },
+        {
+          "name": "Dezron Douglas",
+          "url": "https://open.spotify.com/artist/3HtyiTNRFO5HOPU5Cj3at7"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        }
+      ],
+      "duration_ms": 205403,
+      "name": "Inspira",
+      "url": "https://open.spotify.com/track/3BFnET4W8krQ33HwokfpBj"
+    },
+    {
+      "added_at": "2026-08-07 04:00:20",
+      "album": {
+        "name": "You Irritate Me So",
+        "url": "https://open.spotify.com/album/5NUwxTLDOtxWKjxd43BiAi"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Mark Limacher",
+          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
+        }
+      ],
+      "duration_ms": 154160,
+      "name": "Ridin' High",
+      "url": "https://open.spotify.com/track/5QViSSo6i1Org1TGMn5szj"
+    },
     {
       "added_at": "2026-07-31 04:01:01",
       "album": {
@@ -229,22 +325,6 @@
       "url": "https://open.spotify.com/track/1vfmXchSQ6KlArcBTKpTHe"
     },
     {
-      "added_at": "2026-06-12 04:00:19",
-      "album": {
-        "name": "The Music That Makes Me Dance",
-        "url": "https://open.spotify.com/album/3dyrrHaYuOkkoLL1HcDZIO"
-      },
-      "artists": [
-        {
-          "name": "Laura Anglade",
-          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
-        }
-      ],
-      "duration_ms": 307567,
-      "name": "The Music That Makes Me Dance",
-      "url": "https://open.spotify.com/track/2Z84D8TYmtA126ofIvQDtn"
-    },
-    {
       "added_at": "2026-06-05 04:00:26",
       "album": {
         "name": "Night Blooms",
@@ -359,22 +439,6 @@
       "duration_ms": 260144,
       "name": "Burgundy",
       "url": "https://open.spotify.com/track/5sgaaqksfnewIky3AUrYFI"
-    },
-    {
-      "added_at": "2026-04-03 04:00:10",
-      "album": {
-        "name": "Loads of Love",
-        "url": "https://open.spotify.com/album/2zgUoijQ2YPsqxXtQwkV4p"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 183978,
-      "name": "Pour for the Hour",
-      "url": "https://open.spotify.com/track/46G8UvNyqy1YKlUxYxltIL"
     },
     {
       "added_at": "2026-04-03 04:00:10",
@@ -523,34 +587,6 @@
       "duration_ms": 202143,
       "name": "I Get Along Without You Very Well (Except Sometimes)",
       "url": "https://open.spotify.com/track/2ZQ21MPZqj1LrAnQIH3T2D"
-    },
-    {
-      "added_at": "2026-02-13 05:00:20",
-      "album": {
-        "name": "In The Still Of The Night",
-        "url": "https://open.spotify.com/album/6R4Yqh25YPvah5y411Nc7a"
-      },
-      "artists": [
-        {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Sullivan Fortner",
-          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
-        },
-        {
-          "name": "Dezron Douglas",
-          "url": "https://open.spotify.com/artist/3HtyiTNRFO5HOPU5Cj3at7"
-        },
-        {
-          "name": "Joe Dyson",
-          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
-        }
-      ],
-      "duration_ms": 349228,
-      "name": "In The Still Of The Night",
-      "url": "https://open.spotify.com/track/2EsvJgqybdGiwFdViEvPgr"
     },
     {
       "added_at": "2026-02-13 05:00:20",
@@ -1753,22 +1789,6 @@
       "url": "https://open.spotify.com/track/5Q5MOdNowDzfIGnS6AKur1"
     },
     {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Where or When",
-        "url": "https://open.spotify.com/album/70L7alOq247J9W6jGo3PqR"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 203300,
-      "name": "Where or When",
-      "url": "https://open.spotify.com/track/4gJXJkd0zFFanZL2w0RsMB"
-    },
-    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Follow the Sound",
@@ -1823,22 +1843,6 @@
       "duration_ms": 180170,
       "name": "I've Got You On My Mind",
       "url": "https://open.spotify.com/track/4QJd5CZ3FFYZRLrsTODIoH"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Recuerdo",
-        "url": "https://open.spotify.com/album/6IL2LftKyaU0UXrFWrjgGY"
-      },
-      "artists": [
-        {
-          "name": "Amanda Martinez",
-          "url": "https://open.spotify.com/artist/7nF6i5fJJQGLQmjlCmrBGG"
-        }
-      ],
-      "duration_ms": 213707,
-      "name": "Release me",
-      "url": "https://open.spotify.com/track/3OQS20U3O3UEgRdF2SqffP"
     }
   ],
   "unique_name": "Vocal Jazz",

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: Le Shiv
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,281 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,272 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gummy Bear](https://open.spotify.com/track/3QyuHDL1hZyISsSfCrjgP9) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [Gummy Bear](https://open.spotify.com/album/2xRcRgR5v3IarPPqByXE6Y) | 2:44 |
-| 2 | [Track 5](https://open.spotify.com/track/4RfRFx4cbOk1CdaQKyeEJn) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Wabi Sabi](https://open.spotify.com/album/2NpZ3Px3zT9ifmVbeREscf) | 0:00 |
+| 2 | [Stairways](https://open.spotify.com/track/4RfRFx4cbOk1CdaQKyeEJn) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Wabi Sabi](https://open.spotify.com/album/2NpZ3Px3zT9ifmVbeREscf) | 3:09 |
 | 3 | [TWINSTAR](https://open.spotify.com/track/0snCIa3RCpwdIyonZDhhVS) | [RAGEFLOWER](https://open.spotify.com/artist/0jHAwb83XpyQCuKAsrNaNG) | [TWINSTAR](https://open.spotify.com/album/3rM47P8MOmCrzBvPXyJx3K) | 3:47 |
 | 4 | [Windows](https://open.spotify.com/track/4VdbjQigFukJA2ccXurthd) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Windows](https://open.spotify.com/album/5WXs3gKH5ZjIBAryUs7qMn) | 2:50 |
 | 5 | [Bitter Start](https://open.spotify.com/track/2R11YDcbE599gK3XaNezWr) | [Sunsick Daisy](https://open.spotify.com/artist/2lm7q6k1zAICmhLjKLCRo1) | [Bitter Start](https://open.spotify.com/album/0rG9gFONhpVfx2nh8HnoXU) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [For the First Time](https://open.spotify.com/track/1ZJm5SQbueTZpmEWr3TCrZ) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [For The First Time](https://open.spotify.com/album/6Pyf8sRGTR6UjoFxR7XswP) | 3:21 |
 | 100 | [Web](https://open.spotify.com/track/4b6xx3DSUcpF2bn4uohgsO) | [Lazy Haze](https://open.spotify.com/artist/6L2JrLAUsJFuE27Pl6OTlP) | [Web](https://open.spotify.com/album/2CnX5NHlJ9xos1szwE1CP9) | 3:34 |
 
-Snapshot ID: `AAAAACdCZ3FCbwi0rnko3VdGX9A27uP3`
+Snapshot ID: `AAAAAL8C48m010K92d6sc2GYpihf4bNc`

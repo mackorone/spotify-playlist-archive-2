@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 
 > This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,837 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,864 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 49 | [Baraja De Oro](https://open.spotify.com/track/4vxGRxWgmTtaVOJlVV1TjC) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:18 |
 | 50 | [Señor Dios](https://open.spotify.com/track/4UHusMkOSxGYFMjrMaHfLq) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Éxitos](https://open.spotify.com/album/5xA3Oq6EdroHpAW6gBZBsJ) | 3:21 |
 
-Snapshot ID: `anJ9AAAAAADcqUximdk3lcGKkUua4YM/`
+Snapshot ID: `anPOgAAAAAD3jGW+fi8qgSsNJVxc3vim`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPhwIWaT/F6Co89bxfhwwYUkrDVq",
+  "snapshot_id": "AAAAAAXlHFBVobP/z4yixtQVw+ifWyMk",
   "tracks": [
     {
       "added_at": "2026-08-07 03:00:11",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-08-07 03:00:11",
       "album": {
-        "name": "Girassol (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6rsBJMvfJdNHyBESCiBEpb"
-      },
-      "artists": [
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        }
-      ],
-      "duration_ms": 65059,
-      "name": "Girassol - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/60ssGysPXPdg4K1PLxGaN7"
-    },
-    {
-      "added_at": "2026-08-07 03:00:11",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 214586,
       "name": "Lost In Japan - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7b1WVMX0FShcPWct8ca7ma"
+    },
+    {
+      "added_at": "2026-08-07 03:00:11",
+      "album": {
+        "name": "Girassol (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6rsBJMvfJdNHyBESCiBEpb"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 65059,
+      "name": "Girassol - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/60ssGysPXPdg4K1PLxGaN7"
     },
     {
       "added_at": "2026-08-07 03:00:11",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-08-07 03:00:11",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 266720,
+      "name": "Elastic Heart - Live from The Village",
+      "url": "https://open.spotify.com/track/0wHRZwbNWH2TcSBIhyMT1i"
+    },
+    {
+      "added_at": "2026-08-07 03:00:11",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6qU8mH51eBvwyqYgg2Wsui"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 239076,
       "name": "Lover - Recorded at Air Studios, London",
       "url": "https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd"
-    },
-    {
-      "added_at": "2026-08-07 03:00:11",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 266720,
-      "name": "Elastic Heart - Live from The Village",
-      "url": "https://open.spotify.com/track/0wHRZwbNWH2TcSBIhyMT1i"
     },
     {
       "added_at": "2026-08-07 03:00:11",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-08-07 03:00:11",
       "album": {
-        "name": "Mistakes",
-        "url": "https://open.spotify.com/album/2gdsRtb1ckC5S0sC2VxwTJ"
-      },
-      "artists": [
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        }
-      ],
-      "duration_ms": 149451,
-      "name": "Mistakes",
-      "url": "https://open.spotify.com/track/4NAraLVJxtLPJhmKKVklKa"
-    },
-    {
-      "added_at": "2026-08-07 03:00:11",
-      "album": {
         "name": "Our Roots Run Deep (Live)",
         "url": "https://open.spotify.com/album/6XbVPI4jI8vUQ0W89cM5WR"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 535611,
       "name": "All I Want - Live in Dublin / 2022",
       "url": "https://open.spotify.com/track/1uon8dTdFD7RrG8B1yGttV"
+    },
+    {
+      "added_at": "2026-08-07 03:00:11",
+      "album": {
+        "name": "Mistakes",
+        "url": "https://open.spotify.com/album/2gdsRtb1ckC5S0sC2VxwTJ"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        }
+      ],
+      "duration_ms": 149451,
+      "name": "Mistakes",
+      "url": "https://open.spotify.com/track/4NAraLVJxtLPJhmKKVklKa"
     },
     {
       "added_at": "2026-08-07 03:00:11",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2026-08-07 03:00:11",
       "album": {
+        "name": "Ao Vivo Em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q"
+      },
+      "artists": [
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        },
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        }
+      ],
+      "duration_ms": 174858,
+      "name": "pequena - Ao Vivo",
+      "url": "https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp"
+    },
+    {
+      "added_at": "2026-08-07 03:00:11",
+      "album": {
         "name": "At\u00e9 Envelhecer",
         "url": "https://open.spotify.com/album/7LPeshWUF07odB5Zd0QU2O"
       },
@@ -1227,26 +1247,6 @@
       "duration_ms": 177500,
       "name": "At\u00e9 Envelhecer",
       "url": "https://open.spotify.com/track/2JYP4KOugjmv1ge4NqBS0z"
-    },
-    {
-      "added_at": "2026-08-07 03:00:11",
-      "album": {
-        "name": "Ac\u00fastico Luedji Luna",
-        "url": "https://open.spotify.com/album/4T0jseUbcizO3xgKOmEqYo"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 270491,
-      "name": "I\u00f4i\u00f4 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5ZEOfzIWxGWefJi7trtje4"
     },
     {
       "added_at": "2026-08-07 03:00:11",
@@ -1283,22 +1283,22 @@
     {
       "added_at": "2026-08-07 03:00:11",
       "album": {
-        "name": "Ao Vivo Em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q"
+        "name": "Ac\u00fastico Luedji Luna",
+        "url": "https://open.spotify.com/album/4T0jseUbcizO3xgKOmEqYo"
       },
       "artists": [
         {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         },
         {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
         }
       ],
-      "duration_ms": 174858,
-      "name": "pequena - Ao Vivo",
-      "url": "https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp"
+      "duration_ms": 270491,
+      "name": "I\u00f4i\u00f4 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5ZEOfzIWxGWefJi7trtje4"
     },
     {
       "added_at": "2026-08-07 03:00:11",

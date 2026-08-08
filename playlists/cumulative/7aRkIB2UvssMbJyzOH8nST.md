@@ -4,7 +4,7 @@
 
 > Ease into your Sunday morning with beautiful chill songs and relaxing morning music\. Zondag\. zondagochtend\. Perfect for a lazy Sunday, cozy mornings, slow coffee moments, Sunday brunch, and laid\-back weekend vibes\. Featuring soft morning tunes and acoustic chill sounds to help you relax and unwind.
 
-334 songs - 19 hr 10 min
+336 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Alibi](https://open.spotify.com/track/1aLTu59n1Wix22Wwbr1BdE) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Alibi](https://open.spotify.com/album/1H4bbyylsgLeduoQrASeGr) | 3:33 | 2025-09-11 | 2026-01-27 |
 | [Alibi](https://open.spotify.com/track/2OVELHMQSXLXpiLkTzXBgO) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [When The Silence Gets Too Loud](https://open.spotify.com/album/3VIz3bnLNbLKgqyTrmdms4) | 3:33 | 2025-09-12 | 2026-01-27 |
 | [All I Am](https://open.spotify.com/track/6EC8WKlArPIeWznmf79OMk) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [When I Change My Mind I Don't Mean It \(Deluxe\)](https://open.spotify.com/album/1FJWUHBGshLfJV4NkSvvkm) | 3:08 | 2025-11-21 | 2026-06-13 |
+| [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 | 2026-08-07 |  |
 | [All My Life](https://open.spotify.com/track/3qoYpBpcGmKiQkNJBwCpDA) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [BRITPOP](https://open.spotify.com/album/7IDBud1rBMe8dK6qyoq2VR) | 3:53 | 2026-01-16 | 2026-05-02 |
 | [All Night](https://open.spotify.com/track/7oAuqs6akGnPU3Tb00ZmyM) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 5:22 | 2025-08-27 |  |
 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 | 2025-07-18 |  |
@@ -70,7 +71,7 @@
 | [Choir](https://open.spotify.com/track/640jkbfHDZM8SVBqMnHJg6) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [T\. R\. U\. T\. H.](https://open.spotify.com/album/42w25uAncdyETcTJyOV16K) | 2:53 | 2025-07-18 | 2026-03-28 |
 | [Cinema](https://open.spotify.com/track/35TyJIMR3xRouUuo2sjS6v) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:03 | 2025-07-18 | 2026-02-05 |
 | [Coming Home](https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:26 | 2025-07-18 |  |
-| [Constellations](https://open.spotify.com/track/6XZFPFanJb6RKGvuAAv3g8) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations](https://open.spotify.com/album/4b1xWMGSJAtnnQxd2JVDw6) | 3:20 | 2025-07-18 |  |
+| [Constellations](https://open.spotify.com/track/6XZFPFanJb6RKGvuAAv3g8) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations](https://open.spotify.com/album/4b1xWMGSJAtnnQxd2JVDw6) | 3:20 | 2025-07-18 | 2026-08-08 |
 | [Crazy For You](https://open.spotify.com/track/6SlMEK9meJOWCxlPk1yr51) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Crazy For You](https://open.spotify.com/album/0LKaCSPTuHk2z1Pdntl5jG) | 2:43 | 2025-07-18 | 2025-09-13 |
 | [Daffodils \(feat\. Faela\)](https://open.spotify.com/track/5UD3KQNl23a0cCnhNNQNal) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza), [Faela](https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm) | [Daffodils \(feat\. Faela\)](https://open.spotify.com/album/3kCTGRIWZVPMBD3WRFgrdO) | 3:11 | 2026-06-09 |  |
 | [Damage](https://open.spotify.com/track/2azM2WRIpQiB9ALfVmYtlW) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 3:47 | 2025-07-18 | 2026-06-20 |
@@ -110,7 +111,7 @@
 | [Gorgeous](https://open.spotify.com/track/1gZoMw9jMH7MfbeRhFcOli) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Gorgeous](https://open.spotify.com/album/7iwSy6qIzLQ3aTpkjcTJrF) | 3:05 | 2025-07-18 | 2025-11-29 |
 | [Greatest Gift \(feat\. Lila Iké\)](https://open.spotify.com/track/25FpYk2r43jMp2Rn1orAFp) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [falling or flying \(Deluxe\)](https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa) | 3:12 | 2025-07-18 | 2025-11-08 |
 | [Hairdresser](https://open.spotify.com/track/3ACuAlEUbOaRICryHUPoSL) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Hairdresser](https://open.spotify.com/album/45x0oOtcheQTInFbozCoWE) | 3:27 | 2025-07-18 | 2026-01-27 |
-| [Hammond Song](https://open.spotify.com/track/2aR3Hs6ioznnfBaI1rArDi) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing \(B Sides\)](https://open.spotify.com/album/3wW0Ae8NwfwrKHTtrpgBh5) | 5:40 | 2026-07-31 |  |
+| [Hammond Song](https://open.spotify.com/track/2aR3Hs6ioznnfBaI1rArDi) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing \(B Sides\)](https://open.spotify.com/album/3wW0Ae8NwfwrKHTtrpgBh5) | 5:40 | 2026-07-31 | 2026-08-08 |
 | [Hanging on Hope](https://open.spotify.com/track/2VlikHNvR4PcBzQwJBGqzt) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Hanging on Hope](https://open.spotify.com/album/7G19bGALEOrsvf2BRqVckz) | 3:43 | 2026-03-13 |  |
 | [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 | 2025-07-25 | 2025-08-09 |
 | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5) | 3:41 | 2025-07-18 | 2025-08-09 |
@@ -131,6 +132,7 @@
 | [Hold Me \(Mantra\)](https://open.spotify.com/track/4531KTSpDcgxSWksAYKQhg) | [Eloi Youssef](https://open.spotify.com/artist/4y0egYlrx2v3IzeciScO2A) | [Hold Me \(Mantra\)](https://open.spotify.com/album/6DofcBKOe3Cf4Z0wgdkWdC) | 5:33 | 2026-05-01 | 2026-07-09 |
 | [HOLD ME AGAIN](https://open.spotify.com/track/66QLKLeCligHRpQBFaCpiX) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [HOLD ME AGAIN](https://open.spotify.com/album/62bEfbGADU2KzHkvvAgqnm) | 2:28 | 2026-01-05 | 2026-04-25 |
 | [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 | 2025-07-18 | 2026-02-05 |
+| [Hollywood Sign](https://open.spotify.com/track/4VEDiZ3uZ4mnGHiJ0oYi1k) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Hollywood Sign](https://open.spotify.com/album/3HwKCIvbJEv5F2OyF0dxHF) | 4:01 | 2026-08-07 |  |
 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy](https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS) | 3:32 | 2026-01-27 |  |
 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2025-07-18 | 2026-03-07 |
 | [Home](https://open.spotify.com/track/6GTCIf70NjVd73Fob18Bg6) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Home](https://open.spotify.com/album/6FMvB6eixQ7HQDxhgCphfn) | 4:53 | 2026-06-05 |  |

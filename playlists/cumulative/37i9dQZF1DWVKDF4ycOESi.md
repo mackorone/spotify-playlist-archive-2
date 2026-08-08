@@ -2,9 +2,9 @@
 
 ### [New Music Friday Italia](https://open.spotify.com/playlist/37i9dQZF1DWVKDF4ycOESi)
 
-> Torna più tardi con tutte le novità della settimana 👀
+> Nuovi brani di KAROL G, Ozuna, Farruko, Stray Kids e tanti altri\. <br/>\(P.s\. andiamo in vacanza, ci vediamo tra due settimane 👋🏻\)
 
-10,050 songs - 21 day 4 hr 18 min
+10,052 songs - 21 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8427,6 +8427,7 @@
 | [STFU](https://open.spotify.com/track/30vjxSffQ79Pi7qEq4LLjv) | [FreshMula](https://open.spotify.com/artist/6IwmCDDOJfupZ9uDvSwfPe), [Odemosci](https://open.spotify.com/artist/6pybEiYhm8CekcE5DwGecR) | [STFU](https://open.spotify.com/album/1adT6Fogf4oE9jzs1VtcPr) | 3:00 | 2024-12-12 | 2024-12-20 |
 | [Stile](https://open.spotify.com/track/0Gil4R8TTSy0XFR19cDoWH) | [Adriana](https://open.spotify.com/artist/5PEdtrdgUCso8TLij5uhWa) | [Stile](https://open.spotify.com/album/3uBnAdu8NOczhNZGruaknU) | 2:16 | 2025-04-10 | 2025-04-18 |
 | [Stile Migliore](https://open.spotify.com/track/29LfSdq1yEeQsl6183htYS) | [Pop Véronique](https://open.spotify.com/artist/14p9kujCnygl2XiQK8stQd) | [Stile Migliore](https://open.spotify.com/album/5YvJAPYLx5piUvoxPc2DWf) | 3:15 | 2024-06-06 | 2024-06-14 |
+| [Still](https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:40 | 2026-08-07 |  |
 | [still around](https://open.spotify.com/track/2Qe9pxPgnUBZMRDvonR0hK) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [still around](https://open.spotify.com/album/590XAhSjXQGT8BfHCOaZGp) | 3:37 | 2024-08-01 | 2024-08-09 |
 | [Still Bad](https://open.spotify.com/track/5UpdcedkGcuishA7jlnH8W) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Still Bad](https://open.spotify.com/album/3DwhFPQWTCMMTbllQrAIpL) | 3:28 | 2025-03-14 | 2025-03-21 |
 | [still came through](https://open.spotify.com/track/6TXoxnT5e78qYC9YXvhZS8) | [Ale Rossi](https://open.spotify.com/artist/6nmUky4CQGbC4CLsrKhovF) | [still came through](https://open.spotify.com/album/351jQrj1XtYtujkD1UVUxq) | 3:13 | 2026-06-04 | 2026-06-12 |
@@ -8904,6 +8905,7 @@
 | [think of u](https://open.spotify.com/track/17OMPDF9H2XINaE0VCOgRv) | [Cucina Sonora](https://open.spotify.com/artist/0t4vNX1iyHzmASWTnsYzES), [Pentola](https://open.spotify.com/artist/3K4rEZFW6Y93pEXaOtlSJM) | [think of u](https://open.spotify.com/album/7pW8TU3ndfj72rejZDjbpB) | 3:58 | 2025-09-25 | 2025-10-03 |
 | [THINKING ABOUT YOU](https://open.spotify.com/track/5L8sLMsxXNwj8DbamUjs7c) | [EUROCLUB](https://open.spotify.com/artist/0O4Hy2bjefsM76Enm55XkR) | [EUROCLUB](https://open.spotify.com/album/3dErNe80z63631S7obJfB5) | 2:51 | 2025-11-28 | 2025-12-05 |
 | [Thinking Bout Your Ex](https://open.spotify.com/track/5PoYHehSDtGWTnhW0dZPvF) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [Thinking Bout Your Ex](https://open.spotify.com/album/6IrdDANwLhsSwbRPR5Q2pj) | 2:32 | 2025-10-16 | 2025-10-24 |
+| [This & That](https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THIS & THAT](https://open.spotify.com/album/0VDVnZhY399q6sIrdyjZWj) | 3:05 | 2026-08-07 |  |
 | [This Christmas](https://open.spotify.com/track/4KWMWsQmXZkoh5cngfG9ms) | [Marta Arpini](https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8) | [This Christmas](https://open.spotify.com/album/1ZhEmyiqIplk3dWXoE788M) | 3:45 | 2025-11-28 | 2025-12-05 |
 | [This is Real \(Disappear\)](https://open.spotify.com/track/3z8BNqNO2H8vlu5gnb2vAO) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [This is Real \(Disappear\)](https://open.spotify.com/album/4maE8TUee3j02PYXDhvxM9) | 4:57 | 2026-03-05 | 2026-03-13 |
 | [This is the Killer Speaking](https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [This is the Killer Speaking](https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn) | 4:54 | 2025-07-17 | 2025-07-25 |

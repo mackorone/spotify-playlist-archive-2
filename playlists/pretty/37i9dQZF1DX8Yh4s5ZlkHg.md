@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Yh4s5ZlkHg.md) - [plain]
 
 > Intimate, sultry, satisfying\. =
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,036,147 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,036,403 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Yh4s5ZlkHg.md) - [plain]
 | 25 | [Slow Dance](https://open.spotify.com/track/2qmmnbJ9JR3f7vofbyje5r) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:54 |
 | 26 | [Teardrop](https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Elizabeth Fraser](https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 5:30 |
 | 27 | [Stargirl Interlude](https://open.spotify.com/track/4EDijkJdHBZZ0GwJ12iTAj) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 1:51 |
-| 28 | [Cherry](https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 3:00 |
-| 29 | [Somebody Else](https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 5:47 |
+| 28 | [Somebody Else](https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 5:47 |
+| 29 | [Cherry](https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 3:00 |
 | 30 | [Nude](https://open.spotify.com/track/35YyxFpE0ZTOoqFx5bADW8) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 4:15 |
 | 31 | [Your face](https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Pandora](https://open.spotify.com/album/47rlABSBChwZC7qxAKzOWw) | 3:49 |
 | 32 | [The Dress \(Dijon Cover\) \(Live\) \- Spotify Live Room](https://open.spotify.com/track/1fZHgUUmFduHFLlvmiyNJX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Olivia Dean \- Spotify Live Room](https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Yh4s5ZlkHg.md) - [plain]
 | 49 | [Numb](https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Numb](https://open.spotify.com/album/1HMR6PG5Su7p0JjRws7NBb) | 3:39 |
 | 50 | [Andromeda](https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 4:40 |
 
-Snapshot ID: `AAAAAP25RsI4BvYZxewo0rjnmGzylJmt`
+Snapshot ID: `AAAAAFmPhh+BJArqZu0PD0SUElVF3m4I`

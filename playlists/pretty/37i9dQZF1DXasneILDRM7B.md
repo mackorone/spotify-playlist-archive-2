@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 
 > Please stand for your personal anthems\. Cover: blink\-182
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,997,786 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,997,798 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 | 99 | [About a Girl](https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr) | [The Academy Is...](https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu) | [Fast Times At Barrington High](https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ) | 3:30 |
 | 100 | [Came Out Swinging](https://open.spotify.com/track/4mVzCmTZeBOkvSQsuvFQWh) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Suburbia I've Given You All and Now I'm Nothing](https://open.spotify.com/album/1btRG8xZArmr42owTFNkuJ) | 4:04 |
 
-Snapshot ID: `AAAAABIN7VMIulxDQZKO9o9qjGeZbQgt`
+Snapshot ID: `AAAAACfn7jZJ5eoJwnRztWTEibGw1+HV`

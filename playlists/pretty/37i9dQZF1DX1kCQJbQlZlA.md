@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 
 > Những giai điệu quê hương quen thuộc đậm đà.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,786 likes - 72 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,785 likes - 72 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 71 | [Chờ Em Hát Lý Duyên Tình](https://open.spotify.com/track/2tGnkY0nX4pi4isOvA9on1) | [Hồng Quyên](https://open.spotify.com/artist/0c9NixQCAgTUuDUdz845KU), [Long Hồ](https://open.spotify.com/artist/6gp7sKbUq9NOVRgpuwm9Tu) | [Bông Ô Môi](https://open.spotify.com/album/6awipOL8UJeNEQyvyggGqg) | 5:09 |
 | 72 | [Em Về Miền Tây](https://open.spotify.com/track/1sKAvFRpL9N0qe06Txdk2v) | [Dương Hồng Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI) | [Tình Khúc Bolero](https://open.spotify.com/album/5mc7UjXRoSMV1uAeLz0pnk) | 5:22 |
 
-Snapshot ID: `AAAAAIGOdIicLTXTAt3fUQyDDJY6yRJG`
+Snapshot ID: `AAAAACIvW/2iu5lhCVv6txr2d1ceMIPA`

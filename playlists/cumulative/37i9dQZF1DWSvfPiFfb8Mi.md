@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-449 songs - 1 day 4 hr 59 min
+450 songs - 1 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [Kiss of Life](https://open.spotify.com/track/3yenE3U2DbvNyQcHZHTg1W) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [DISCO: Guest List Edition](https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh) | 3:13 | 2023-12-01 | 2024-04-19 |
 | [KNIGHTS OF HEAVEN](https://open.spotify.com/track/0tGnI8MTI0MxZjS7skuIOp) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [KNIGHTS OF HEAVEN](https://open.spotify.com/album/5DZGPl7S8b2Aes5IAyiz1m) | 3:21 | 2024-10-18 | 2024-11-01 |
 | [Know Less](https://open.spotify.com/track/2qLyC6QhuIrNDtojE0w2Dg) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX), [Viken Arman](https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK) | [Sidequests Chapter Three](https://open.spotify.com/album/6O2duZegWCcnzUztIItHyz) | 4:59 | 2025-11-21 | 2025-12-16 |
-| [Know Me](https://open.spotify.com/track/0j6YN1g8KOj3YEtfrffpNI) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Know Me](https://open.spotify.com/album/1JWoMV7NPtzPRif40Nhhq1) | 3:27 | 2024-06-07 |  |
+| [Know Me](https://open.spotify.com/track/0j6YN1g8KOj3YEtfrffpNI) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Know Me](https://open.spotify.com/album/1JWoMV7NPtzPRif40Nhhq1) | 3:27 | 2024-06-07 | 2026-08-08 |
 | [L.S.B.](https://open.spotify.com/track/6oemEFeEzyfzykENkTCbKf) | [Studio Barnhus](https://open.spotify.com/artist/3BQyyXUJs39bwh0o4W2Pvs) | [L.S.B.](https://open.spotify.com/album/4O8zXtocpAJZo4kjrhMJmc) | 4:12 | 2022-06-20 | 2023-05-23 |
 | [La Luna](https://open.spotify.com/track/3Yxc08PwQ9uRUt5bkDll2I) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [La Luna](https://open.spotify.com/album/1zoVH0wshtj6gJgmt3jJhz) | 3:37 | 2022-06-20 | 2023-05-20 |
 | [Lady Love](https://open.spotify.com/track/3ACTBfO2gL0RY2a3Eb5kY5) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Lady Love](https://open.spotify.com/album/6XGxAqDf3339vdyvHKuUhh) | 2:54 | 2023-08-04 | 2025-05-13 |
@@ -259,6 +259,7 @@
 | [Mama Wanna Dance](https://open.spotify.com/track/6oZJ7DOtCP5mJUvkOgdfse) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Mama Wanna Dance](https://open.spotify.com/album/2lCAdFaQvCbBSTzhXEN6K8) | 5:56 | 2024-09-06 | 2024-09-24 |
 | [Marlboro Sounds](https://open.spotify.com/track/1HujkaN1Tl4uceZqsHUv6w) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Marlboro Sounds](https://open.spotify.com/album/1IRVXzi2j3pP5Ic18P0oDM) | 6:03 | 2025-03-28 |  |
 | [Maybe In Another Life \- Bosq Sunset Boogie Mix](https://open.spotify.com/track/1MgedSTahfRlJnlYYzknSq) | [lovetempo](https://open.spotify.com/artist/0OypB7arfOmIwUP9C5z2GY), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Maybe In Another Life](https://open.spotify.com/album/5FkZt02jeeDcZXjHukmpIG) | 3:39 | 2025-01-31 | 2026-05-28 |
+| [Memory on the Run](https://open.spotify.com/track/0c6VeRgmmFBN46EFDwsG41) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Memory on the Run](https://open.spotify.com/album/3s66Eb8x6gbvlmjIdq9ikS) | 3:42 | 2026-08-07 |  |
 | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj) | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2) | 2:58 | 2023-06-23 | 2026-05-16 |
 | [Mess It Up \- Purple Disco Machine Remix](https://open.spotify.com/track/7wkTF8cHGCurrfNATqvJLc) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Mess It Up \(Purple Disco Machine Remix\)](https://open.spotify.com/album/0L6IypGWr61krz90boqPDD) | 3:35 | 2023-11-17 | 2025-08-09 |
 | [Mind Talking](https://open.spotify.com/track/0lJ0a3noMVleqsUHRmIr94) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Stimulate \(Deluxe\)](https://open.spotify.com/album/1n3V1SMu8hLeccUhgTunwx) | 2:34 | 2023-08-04 | 2023-09-24 |

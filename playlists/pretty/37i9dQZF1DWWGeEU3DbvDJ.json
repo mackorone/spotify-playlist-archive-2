@@ -1,12 +1,12 @@
 {
   "description": "The BBMAs returns with performances from your favorite chart-topping artists! Cover: Tyla",
-  "num_followers": 85313,
+  "num_followers": 85307,
   "original_name": "2024 Billboard Music Awards Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPLC0hBAXD7YEcpE0dY9BLCbqfgc",
+  "snapshot_id": "AAAAAKvV2wJziWkJ2L1Ja8MhvAs866eW",
   "tracks": [
     {
       "added_at": "2024-11-25 16:13:36",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "Have A Nice Day",
-        "url": "https://open.spotify.com/album/2xXY6j7QVSz6rpqEU9q1Ha"
-      },
-      "artists": [
-        {
-          "name": "Treaty Oak Revival",
-          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
-        }
-      ],
-      "duration_ms": 220393,
-      "name": "In Between",
-      "url": "https://open.spotify.com/track/3vA24UtKMDGaK5KkzsulYD"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "Larger Than Life",
         "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 82508,
       "name": "Best Time",
       "url": "https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "Have A Nice Day",
+        "url": "https://open.spotify.com/album/2xXY6j7QVSz6rpqEU9q1Ha"
+      },
+      "artists": [
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "duration_ms": 220393,
+      "name": "In Between",
+      "url": "https://open.spotify.com/track/3vA24UtKMDGaK5KkzsulYD"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
+        "name": "\u00c9XODO",
+        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "BELLAKEO",
+      "url": "https://open.spotify.com/track/5Fohh8kl8403DSoq4KH7Ll"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
         "name": "For Cryin' Out Loud!",
         "url": "https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7"
       },
@@ -1243,26 +1263,6 @@
       "duration_ms": 232133,
       "name": "Deeper Well",
       "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
-        "name": "\u00c9XODO",
-        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "BELLAKEO",
-      "url": "https://open.spotify.com/track/5Fohh8kl8403DSoq4KH7Ll"
     },
     {
       "added_at": "2024-11-25 16:13:36",

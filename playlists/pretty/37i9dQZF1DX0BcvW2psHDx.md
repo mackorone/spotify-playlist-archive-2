@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcvW2psHDx.md) - [plain]
 
 > T1 오피셜 플레이리스트와 함께 매드무비 게임 플레이를 즐겨보세요! \(Enjoy Mad Movie gameplay with T1 Official Playlist!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,867 likes - 200 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,026 likes - 200 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BcvW2psHDx.md) - [plain]
 | 199 | [I Just Want You](https://open.spotify.com/track/5qXDIXIS2yajFz72i5qezZ) | [Yorii](https://open.spotify.com/artist/6vR0K4MDsrtz81V3ikI49k) | [I Just Want You](https://open.spotify.com/album/52zqJK28lzUBSxxQIM7EvD) | 2:59 |
 | 200 | [the stars](https://open.spotify.com/track/0KsqP2MSfLsbGmuUsRVEb8) | [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X), [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [signals](https://open.spotify.com/album/40TMUyjhxxDLFEkqV75FrC) | 2:55 |
 
-Snapshot ID: `AAAAAGmUcEGBhfuaVDJUVvMBLu7J40d6`
+Snapshot ID: `AAAAAFPgASe4+sob2zufID2HjQGz2Pw2`

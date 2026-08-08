@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Fireboy DML & Masicka
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,884 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,905 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 10 | [Free Fall \(feat\. J\. Cole\)](https://open.spotify.com/track/3cuUZnjDwk4cUJCFinYbAC) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 3:12 |
 | 11 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/4N7AXHRMQYh9GHQd5hE6NP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 2:39 |
 | 12 | [Show Me Love \(with Tyla\)](https://open.spotify.com/track/22YkP95GjCfXkWKyU5k1zZ) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Show Me Love \(with Tyla\)](https://open.spotify.com/album/2JJn1NNlaGZ0iWtjVep9Ti) | 2:56 |
-| 13 | [Private Chef](https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX) | [R.U\. \(Raw & Unfiltered\) Vol.1](https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE) | 3:20 |
+| 13 | [Private Chef \(feat\. MC Morena\)](https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX) | [R.U\. \(Raw & Unfiltered\) Vol.1](https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE) | 3:20 |
 | 14 | [Woman Commando \(feat\. Anitta & Coco Jones\)](https://open.spotify.com/track/7jaot4TU3RWNZVscwAsKLA) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 3:28 |
 | 15 | [Last Heartbreak Song \(feat\. Giveon\)](https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:29 |
 | 16 | [Ruin](https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Ruin](https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG) | 3:01 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 79 | [MAMAN PRIE](https://open.spotify.com/track/6oojgcW5Ffo7GkB54vARCh) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [JOŸA](https://open.spotify.com/album/0SJBBBjB3kZwMpHCPw5v4O) | 3:42 |
 | 80 | [PERFECTION \(feat\. C.S\. Armstrong\)](https://open.spotify.com/track/3Sv5trzGlBMLYFJGpuOBxG) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo), [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [PERFECTION \(feat\. C.S\. Armstrong\)](https://open.spotify.com/album/6aXV5Mr0bKAIUtqGUgdKvy) | 3:13 |
 
-Snapshot ID: `AAAAALF85rwtjSZeoN3xMV6PXyCqSyrr`
+Snapshot ID: `AAAAAIgOTT6hqhVGSAZm6xSSwBrZ7aGx`

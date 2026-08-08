@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33svt5.md) - [plain]
 
 > This is Doja Cat\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,102,169 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,102,224 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33svt5.md) - [plain]
 | 22 | [Streets \- Silhouette Remix](https://open.spotify.com/track/0Uru1UoJdHKf2lxssQT3kC) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Streets \(Silhouette Remix\)](https://open.spotify.com/album/3vUpSuV7VbV4vonGqQQmUG) | 4:02 |
 | 23 | [Ain't Shit](https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:54 |
 | 24 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 |
-| 25 | [Okayyy \(feat\. Doja Cat\)](https://open.spotify.com/track/0V9uN2EqxHXVFoDnpRiups) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Okayyy](https://open.spotify.com/album/6TEo60to35PCEUfUsrwIVI) | 3:58 |
-| 26 | [Del Mar](https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:34 |
+| 25 | [Del Mar](https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:34 |
+| 26 | [Okayyy \(feat\. Doja Cat\)](https://open.spotify.com/track/0V9uN2EqxHXVFoDnpRiups) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Okayyy](https://open.spotify.com/album/6TEo60to35PCEUfUsrwIVI) | 3:58 |
 | 27 | [Rules](https://open.spotify.com/track/1TMWcbxL5YF8rKsFHv5hAP) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:07 |
 | 28 | [Tia Tamera \(feat\. Rico Nasty\)](https://open.spotify.com/track/1uNePI826aqh9uC9pgbeHU) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Amala \(Deluxe Version\)](https://open.spotify.com/album/3wOMqxNHgkga91RBC7BaZU) | 3:31 |
 | 29 | [Best Friend \(feat\. Doja Cat\)](https://open.spotify.com/track/20BOju91NaEFK5Py4VJ2pp) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Best Friend \(feat\. Doja Cat\) \[Remix EP\] \[Extended Edition\]](https://open.spotify.com/album/0DqDdZGSQkWQiE0TzBqeLA) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33svt5.md) - [plain]
 | 49 | [Wet Vagina](https://open.spotify.com/track/5MqauQV2PhcEFfhKtBOTua) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:12 |
 | 50 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 |
 
-Snapshot ID: `anJ9AAAAAADBU5ZW7wGJrEhhTeOCCzii`
+Snapshot ID: `anPOgAAAAADpZReHX0i0Aas9WzgNpok5`

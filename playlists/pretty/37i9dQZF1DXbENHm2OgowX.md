@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 
 > wandering the forest as the fog floats through the trees
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,029 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,210 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 32 | [Full Moon](https://open.spotify.com/track/0mvKgaXtpEmvG4jkMpVcG1) | [Tomasz Mreńca](https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX), [Tomasz Bednarczyk](https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT) | [Full Moon](https://open.spotify.com/album/7Bd9UwK9eH8oyFymkMt0fN) | 4:22 |
 | 33 | [distant, elsewhere](https://open.spotify.com/track/0hyiG6hBEqrFSnZnHV7lmu) | [kurisu.](https://open.spotify.com/artist/6XlhyCTn6cSmLD7wW0VDBM) | [distant, elsewhere](https://open.spotify.com/album/5kUv2BjnYqalyRvybgmlh5) | 2:30 |
 | 34 | [Fur and Exhaust](https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS) | [Saapato](https://open.spotify.com/artist/1zmmKdRwflRmJ8knfGlmYt), [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [Decomposition: Fox on a Highway](https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB) | 3:21 |
-| 35 | [Rainy morning](https://open.spotify.com/track/4EY1jouYJXT7Tm0fSWRUvJ) | [arancina](https://open.spotify.com/artist/5YdVyeU1XSouFk8VBSfLAO), [I'm flying](https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS) | [Rainy morning](https://open.spotify.com/album/47EnexXCVKmACoZbvxxonH) | 1:55 |
-| 36 | [\#bfbfbf \(12:20:00pm \- 05:07:53pm\)](https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [\#bfbfbf \(12:20:00pm \- 05:07:53pm\)](https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm) | 4:47 |
-| 37 | [Still Numbers](https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Heavy](https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm) | 4:49 |
-| 38 | [For One Another](https://open.spotify.com/track/76Q7prOhYcczSlOrHfNQnj) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS), [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw), [Harbors](https://open.spotify.com/artist/6lOZ3w183ZOw3cEJc7lt8R) | [For One Another](https://open.spotify.com/album/556MxCxr9kDtL0NIQJvNKw) | 3:50 |
+| 35 | [\#bfbfbf \(12:20:00pm \- 05:07:53pm\)](https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [\#bfbfbf \(12:20:00pm \- 05:07:53pm\)](https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm) | 4:47 |
+| 36 | [Rainy morning](https://open.spotify.com/track/4EY1jouYJXT7Tm0fSWRUvJ) | [arancina](https://open.spotify.com/artist/5YdVyeU1XSouFk8VBSfLAO), [I'm flying](https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS) | [Rainy morning](https://open.spotify.com/album/47EnexXCVKmACoZbvxxonH) | 1:55 |
+| 37 | [For One Another](https://open.spotify.com/track/76Q7prOhYcczSlOrHfNQnj) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS), [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw), [Harbors](https://open.spotify.com/artist/6lOZ3w183ZOw3cEJc7lt8R) | [For One Another](https://open.spotify.com/album/556MxCxr9kDtL0NIQJvNKw) | 3:50 |
+| 38 | [Still Numbers](https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Heavy](https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm) | 4:49 |
 | 39 | [Gazing Back At Earth](https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP) | [Andy Leech](https://open.spotify.com/artist/5rz0WsqMcYyV7lAmLlBdWj) | [Gazing Back At Earth](https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA) | 5:16 |
-| 40 | [fly high](https://open.spotify.com/track/2MZ5LDS1QzKIEWhkUPiyvp) | [ambit.](https://open.spotify.com/artist/1OXRInYKrZWZ3z6f099iaB) | [fly high](https://open.spotify.com/album/7g2YMNuWZaOxXLffXGa2v3) | 1:47 |
-| 41 | [Waiting for Your Train](https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R) | [Wreath](https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX) | [Green Wall](https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE) | 2:02 |
+| 40 | [Waiting for Your Train](https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R) | [Wreath](https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX) | [Green Wall](https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE) | 2:02 |
+| 41 | [fly high](https://open.spotify.com/track/2MZ5LDS1QzKIEWhkUPiyvp) | [ambit.](https://open.spotify.com/artist/1OXRInYKrZWZ3z6f099iaB) | [fly high](https://open.spotify.com/album/7g2YMNuWZaOxXLffXGa2v3) | 1:47 |
 | 42 | [Displacement \- KMRU rework](https://open.spotify.com/track/2wUujeRMhcXXettDljS5Hl) | [Rafael Anton Irisarri](https://open.spotify.com/artist/6AdRO941ZEDh4GHcCUdEs4), [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Displacement \(KMRU rework\)](https://open.spotify.com/album/3k0N6eVV7JYpyxEd7cHdu7) | 4:16 |
 | 43 | [Out Of The Past](https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog) | [Romance](https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt) | [Love Is Colder Than Death](https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb) | 3:33 |
 | 44 | [skies](https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI) | [Blut Own](https://open.spotify.com/artist/4NxHc6UYBR58ZBCM2vONQH), [Riversilvers](https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa) | [skies](https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw) | 2:09 |
@@ -57,13 +57,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 47 | [searching](https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [searching](https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK) | 4:39 |
 | 48 | [hexa](https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP) | [Maxx](https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr) | [hexa](https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs) | 2:29 |
 | 49 | [Polaroid](https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Murken Hollow](https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q) | 6:57 |
-| 50 | [where is life?](https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg) | [Sibewest](https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs) | [where is life?](https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP) | 2:07 |
-| 51 | [Stray](https://open.spotify.com/track/2qJ1lpSOeAsbHr5WP86KtF) | [David Allred](https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm) | [The Beautiful World](https://open.spotify.com/album/2mYF47xMK4YdDipgj88DSD) | 2:58 |
+| 50 | [Stray](https://open.spotify.com/track/2qJ1lpSOeAsbHr5WP86KtF) | [David Allred](https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm) | [The Beautiful World](https://open.spotify.com/album/2mYF47xMK4YdDipgj88DSD) | 2:58 |
+| 51 | [where is life?](https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg) | [Sibewest](https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs) | [where is life?](https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP) | 2:07 |
 | 52 | [Close](https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Vintage Well](https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm) | 2:50 |
 | 53 | [Bardo Landscape](https://open.spotify.com/track/45QrxIJ95T9J4qrdP8DU4e) | [Alicia Enstrom](https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa) | [Bardo Landscape](https://open.spotify.com/album/4MGotWNffTdUNvrgNiRF0f) | 3:23 |
 | 54 | [All That's Left Behind](https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Murken Hollow](https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q) | 6:03 |
-| 55 | [Take My Hand](https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh) | [Luke Taylor](https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR) | [Take My Hand](https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I) | 2:39 |
-| 56 | [Too Much Love](https://open.spotify.com/track/27bJg4uzTXoqMS1Udjacni) | [Romance](https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt) | [Too Much Love](https://open.spotify.com/album/2UGOkuaFlOoIeGxLEN298U) | 2:13 |
+| 55 | [Too Much Love](https://open.spotify.com/track/27bJg4uzTXoqMS1Udjacni) | [Romance](https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt) | [Too Much Love](https://open.spotify.com/album/2UGOkuaFlOoIeGxLEN298U) | 2:13 |
+| 56 | [Take My Hand](https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh) | [Luke Taylor](https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR) | [Take My Hand](https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I) | 2:39 |
 | 57 | [Line Gone Cold \- Deconstructed](https://open.spotify.com/track/02hS8hWSlOdP8FvC2VK063) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Line Gone Cold \(Deconstructed\)](https://open.spotify.com/album/5fMIvFAs8VY75dTMCgsGEq) | 2:36 |
 | 58 | [Common](https://open.spotify.com/track/37cddsvKZTPyYipLpzjpDx) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Common](https://open.spotify.com/album/2hGtMdGoaRqKeADSD1KyPD) | 2:35 |
 | 59 | [Snowa](https://open.spotify.com/track/3yTaZznpoFekQlAdED2Yn2) | [Slo Mance](https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs) | [Snowa](https://open.spotify.com/album/4WqCFIJ8n3clLAGi3aPf61) | 4:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 74 | [The Marble Eye](https://open.spotify.com/track/3AoQFwWETVhTYaM7dzcuoe) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [Dead Magic](https://open.spotify.com/album/29haLrvX37jDkDfwVk4FKV) | 5:18 |
 | 75 | [Lie Beneath the Stars](https://open.spotify.com/track/7ILPkivkaRXqU3A2cZdFAl) | [Rokkr](https://open.spotify.com/artist/3SbX2Y0sQD6w8KmbJhXQZs) | [Lie Beneath the Stars](https://open.spotify.com/album/4hTYTkctuDjDJNm5C52kOm) | 6:29 |
 
-Snapshot ID: `AAAAAGE7HtMVxM1dXiek6cSN9qbZEtWy`
+Snapshot ID: `AAAAAEC/QGp8t80RgSc+TUQEjeeG5xz6`

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-172 songs - 10 hr 16 min
+173 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Everything but You](https://open.spotify.com/track/0Ev9jxRhaY7YzxSh2fhMWj) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:39 | 2024-06-02 |  |
 | [Fast Forward](https://open.spotify.com/track/41hmP8GemZuIKrNJybwXe0) | [Oliver](https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K) | [Light Years Away](https://open.spotify.com/album/6F9PZFOFx4YIgF51dXNnw0) | 4:44 | 2024-02-27 | 2025-05-05 |
 | [Fast Forward](https://open.spotify.com/track/6enzLwBMY8Qh9nE8I7HmHe) | [Oliver](https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K) | [Light Years Away](https://open.spotify.com/album/6VbcgIsHayQkMgdweePz4K) | 4:44 | 2025-05-04 |  |
+| [Favorite](https://open.spotify.com/track/33IYQIbLGAeATtDHuhcp24) | [Silver Otto](https://open.spotify.com/artist/1Zi3XzucRhWF2njLeWEWTF) | [Favorite](https://open.spotify.com/album/0gXHLfKyAcWEdwcM67qyE4) | 3:57 | 2026-08-07 |  |
 | [Ferocious](https://open.spotify.com/track/0vHpQeHjHhsSpnMhQRPA09) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [The Sequel](https://open.spotify.com/album/7MOu9tp7BiEexvtVahvllb) | 3:24 | 2024-02-27 |  |
 | [Forever 21](https://open.spotify.com/track/4DRDolAzMaVs5o9LRfAWlQ) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:43 | 2024-06-19 |  |
 | [Forever Drunk](https://open.spotify.com/track/0DqnKQQarQLw4zVY0LLGbY) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Forever Drunk](https://open.spotify.com/album/2lKcXqayvN3V1opi6oQWZ7) | 3:10 | 2024-02-27 | 2024-11-25 |

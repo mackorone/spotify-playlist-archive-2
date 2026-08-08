@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: sunwoojunga\(선우정아\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: wave to earth\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,780 songs - 4 day 19 hr 35 min
+1,782 songs - 4 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -511,7 +511,7 @@
 | [Hard to Forget You](https://open.spotify.com/track/1HWJpm34LmznIHSBEMkrJW) | [Kim Na\-kyung](https://open.spotify.com/artist/5IQpGF3xbjCj7BbtOuw15f) | [Hard to Forget You](https://open.spotify.com/album/63tKhR6iB7Iz4hVxWGZZiy) | 3:13 | 2026-02-23 | 2026-07-28 |
 | [Hard to Say I Love You](https://open.spotify.com/track/2ilUqImdWBVPrzWL4kTbxx) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Red Balloon OST Part.3](https://open.spotify.com/album/5fvFvfK7fzy9jTZdiqGPNS) | 4:05 | 2023-01-20 | 2023-02-15 |
 | [Have A Good Time](https://open.spotify.com/track/5FIBWD7WZLgbtOpzS8ijKU) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Have A Good Time](https://open.spotify.com/album/4z0qDxvdwY7wb5yCJrVaEV) | 2:00 | 2025-11-17 | 2026-03-07 |
-| [Have You Been Well?](https://open.spotify.com/track/6qZ6fPm0thFsNiV0IoXPqP) | [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [Have You Been Well?](https://open.spotify.com/album/5jyOYnachD65HetuScbTim) | 2:59 | 2026-04-22 |  |
+| [Have You Been Well?](https://open.spotify.com/track/6qZ6fPm0thFsNiV0IoXPqP) | [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [Have You Been Well?](https://open.spotify.com/album/5jyOYnachD65HetuScbTim) | 2:59 | 2026-04-22 | 2026-08-08 |
 | [He Broke Up](https://open.spotify.com/track/5TT2xjJZ9BtmnTvJEgI9uu) | [Gavy NJ](https://open.spotify.com/artist/6Iyc2IvCGBNStXUmPa8hmu) | [He Broke Up](https://open.spotify.com/album/6ZqhKdNbdssQzaJKFTlb8F) | 4:23 | 2026-05-06 |  |
 | [He's next to you, instead of me](https://open.spotify.com/track/1vMxDpmSBRHhh0eRCLxQcQ) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [He's next to you, instead of me](https://open.spotify.com/album/0blCdfQUSARuYDtwzHUxqP) | 2:52 | 2022-02-17 | 2022-07-06 |
 | [He'story](https://open.spotify.com/track/5i1eunjj1liTM6lwNygo8v) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [He'story \(Shin Ye Young X Lulu\-lala Friends 2\)](https://open.spotify.com/album/4csirJdWT7NZ1cFYRcPXXV) | 4:25 | 2026-04-23 |  |
@@ -578,6 +578,7 @@
 | [Hug](https://open.spotify.com/track/6oGpdfRigGtG6EWTArJ6vk) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [CLEANING UP \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/6JS3kyAoZEp4BFz4qCLfUz) | 4:14 | 2022-07-07 | 2022-09-30 |
 | [Hug Me](https://open.spotify.com/track/1dAN9YSEram61KezA9X8lx) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [Lo9ve3r4s](https://open.spotify.com/album/3KNUfrK6zYLoZ0X4LUj3wy) | 4:34 | 2023-05-05 | 2023-05-16 |
 | [HUNJUNG YEONSUH](https://open.spotify.com/track/08Pvcb7tO6Ac2TRB9zr4Wa) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [The Tale of Lady Ok \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/0riQ4lsX6mFk9DKDx8WLnE) | 4:23 | 2024-12-02 | 2025-04-23 |
+| [hyang](https://open.spotify.com/track/2GtHsRoTWn968sy3xLfbUK) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [bad pieces](https://open.spotify.com/album/3vyo8Ev3o6olStojgqpS6U) | 3:16 | 2026-08-07 |  |
 | [I Always](https://open.spotify.com/track/1BJreBKmf2Nub0GUEGjJZt) | [Daom](https://open.spotify.com/artist/4HFVHg6KImxQLlwzEm51Y8) | [I Always](https://open.spotify.com/album/07cZHZAiskC0qhPezOpvgH) | 3:52 | 2022-05-24 | 2022-06-06 |
 | [I Believe \(feat\. Kyung Dasom\)](https://open.spotify.com/track/4bEbIu0JUq8HFXbjIHq0gd) | [72](https://open.spotify.com/artist/1RafX0xTPAjBTAUEV4yOQI), [Kyung dasom](https://open.spotify.com/artist/6ye5C0aCtNApMSefJTzdj1) | [I Believe \(feat\. Kyung Dasom\)](https://open.spotify.com/album/4K7HK4wmjmPi3kJLDdWY0y) | 4:04 | 2022-03-24 | 2022-04-20 |
 | [I believed it was love](https://open.spotify.com/track/1qCTwzLvtKq3FwAofVEoBl) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [I believed it was love](https://open.spotify.com/album/7i8OX5YkUvamxqUuXy6Hxz) | 3:11 | 2022-10-12 | 2023-01-21 |
@@ -1310,7 +1311,7 @@
 | [Stay](https://open.spotify.com/track/3MyKAA6J1bkyeFig45sPmk) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Jirisan \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/22bajKywj9pBWoiYFayx64) | 3:40 | 2022-01-17 | 2022-07-07 |
 | [Stay](https://open.spotify.com/track/3Lw1wzUyNmf9LyEKYYfLxe) | [SeeYa](https://open.spotify.com/artist/3Mbxr8TL0Sny7dUNicKWm2) | [First, Again](https://open.spotify.com/album/37st4NLgjFpBjbWoIK4zPE) | 3:24 | 2026-05-15 |  |
 | [Stay](https://open.spotify.com/track/7y0Ix1GzQB2FuoWT5iD5fE) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Stay](https://open.spotify.com/album/2Z4BIEQWeSrwPZmOW0Vvju) | 3:44 | 2025-11-03 | 2026-03-16 |
-| [Stay here with me](https://open.spotify.com/track/14CBiz2JfZUOVWINmQJSnO) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Stay here with me](https://open.spotify.com/album/4i9kZ248naIF315HIh8mrA) | 3:04 | 2026-02-27 |  |
+| [Stay here with me](https://open.spotify.com/track/14CBiz2JfZUOVWINmQJSnO) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Stay here with me](https://open.spotify.com/album/4i9kZ248naIF315HIh8mrA) | 3:04 | 2026-02-27 | 2026-08-08 |
 | [Stay Still](https://open.spotify.com/track/6LRCAvUYnKJlUqvohbyufh) | [Hwanhee](https://open.spotify.com/artist/4ezpY3tmP9KtaOOnWpDmIp) | [Stay Still](https://open.spotify.com/album/0ZZVwLn0DKyz0UOPF3nVJ6) | 3:46 | 2023-03-08 | 2023-06-23 |
 | [Stay there](https://open.spotify.com/track/5IndKDof7V94eb33af1WlF) | [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [Stay there](https://open.spotify.com/album/6wS7aYn81YsL0bdpscugBo) | 3:23 | 2023-01-20 | 2023-02-15 |
 | [Stay with Me](https://open.spotify.com/track/3BFyF2M5Gh3A4X9m5PkKJ5) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Bon Appetit Your Majesty \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/60SQJ2yJyr5wex5AVtziUJ) | 3:55 | 2025-09-01 | 2025-12-18 |
@@ -1726,6 +1727,7 @@
 | [당신은 누구시길래](https://open.spotify.com/track/0UlPE1vfDH8SVNfYrF81Zq) | [ Seo Youngju](https://open.spotify.com/artist/2wAZJqYREs9zwWv1X09DPr) | [독수리 5형제를 부탁해! \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/1nL5ySSgZH278luqe9vCLl) | 4:23 | 2025-04-22 | 2025-09-25 |
 | [더 드라이버](https://open.spotify.com/track/2SNyuFGjAYmKT9NrdZQ7rd) | [The One](https://open.spotify.com/artist/3eAsBHDYXtCSn67Zynq3Qd) | [더 드라이버 ORIGINAL SOUND TRACK](https://open.spotify.com/album/2ltuRbeT5bJrfqktDeq0I2) | 4:03 | 2022-03-31 | 2022-04-09 |
 | [라라라 \(2022\)](https://open.spotify.com/track/36VWRzy0PkGhYao99ChV0H) | [Mew](https://open.spotify.com/artist/4Y74dNwvq5TMzDHMtlcmYI) | [라라라 \(2022\)](https://open.spotify.com/album/6u7tXwbl75MhFK0OJQXg0z) | 3:39 | 2022-11-16 | 2023-01-21 |
+| [마음은 작별하지 않는다](https://open.spotify.com/track/3HEHMfWuwKgsOf2qIerIcR) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [사랑이 온다 \(Original Television Soundtrack\) Pt.4](https://open.spotify.com/album/0JKECKaOwz3Ymv4En6LTvn) | 4:01 | 2026-08-07 |  |
 | [마지막 날에 Moving On](https://open.spotify.com/track/73TXBk1LE2V4OcyLI2aq3p) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [마지막 날에 Moving On](https://open.spotify.com/album/4xnNvjkkXT1OginjGHFeSk) | 4:57 | 2021-12-23 | 2022-06-01 |
 | [미래의 너에게 고마워 \(Thank you, future you.\)](https://open.spotify.com/track/5pjvvATx7UKmp2k7Vh5y7j) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [미래의 너에게 고마워 \(Thank you, future you.\)](https://open.spotify.com/album/4O9mh9UvVDrl2PCA1V6QEL) | 5:00 | 2025-06-23 | 2025-11-29 |
 | [미친 사랑의 속삭임](https://open.spotify.com/track/6ebK8ZX2wcBrO6rx6Sp7nu) | [장미미](https://open.spotify.com/artist/2XFA9KevNHVt4y6Zl5dYkh), [서울레트로보이](https://open.spotify.com/artist/6MfvU7HGkuPXvT6Jxijt2T) | [사랑...그 곳의 속삭임](https://open.spotify.com/album/1eWZs5BG7F8rufONzAZVZh) | 4:38 | 2022-03-24 | 2022-04-19 |

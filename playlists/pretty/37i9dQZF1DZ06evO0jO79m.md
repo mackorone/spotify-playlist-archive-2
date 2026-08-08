@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jO79m.md) - [plain]
 
 > This is Shakira\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,816,478 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,816,899 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jO79m.md) - [plain]
 | 24 | [Estoy Aquí](https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:52 |
 | 25 | [La La La \(Brasil 2014\) \(feat\. Carlinhos Brown\) \- Tradução/Letra\)](https://open.spotify.com/track/6i2kn3iS5WKzsaYBdeHLIQ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv) | [Shakira\. \(Expanded Edition\) \[Spanish Version\]](https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM) | 3:17 |
 | 26 | [Perro Fiel \(feat\. Nicky Jam\)](https://open.spotify.com/track/70lnL3QaSOIIyMa2X9aVRL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [El Dorado](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) | 3:15 |
-| 27 | [Clandestino](https://open.spotify.com/track/7DrluKkTviBwCc8AV3VGmf) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Clandestino](https://open.spotify.com/album/1h1hnfRyc45IIDnxUCaGIf) | 3:51 |
+| 27 | [Beautiful Liar](https://open.spotify.com/track/76Y07hjDi7fjJnZKsQbEaF) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [B'Day Deluxe Edition](https://open.spotify.com/album/2WkOVbvgyo0E0G7w2ZsAi2) | 3:19 |
 | 28 | [Pies Descalzos, Sueños Blancos](https://open.spotify.com/track/5yKQTwznar5I75UyYJ9CnR) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:25 |
-| 29 | [Beautiful Liar](https://open.spotify.com/track/76Y07hjDi7fjJnZKsQbEaF) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [B'Day Deluxe Edition](https://open.spotify.com/album/2WkOVbvgyo0E0G7w2ZsAi2) | 3:19 |
+| 29 | [Clandestino](https://open.spotify.com/track/7DrluKkTviBwCc8AV3VGmf) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Clandestino](https://open.spotify.com/album/1h1hnfRyc45IIDnxUCaGIf) | 3:51 |
 | 30 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 |
 | 31 | [Eurosummer \- Girls Trip](https://open.spotify.com/track/53fyIvbeN7rfLK1GIZNLDL) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf) | 2:50 |
 | 32 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jO79m.md) - [plain]
 | 36 | [Loba](https://open.spotify.com/track/30XvfCUPHSK2rzxmPlJGFf) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Loba](https://open.spotify.com/album/5GuMQnx4X4mfHEcYQe7ql9) | 3:08 |
 | 37 | [Me Enamoré](https://open.spotify.com/track/4qknM1pQz53QOyfDVTjcM9) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [El Dorado](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) | 3:46 |
 | 38 | [Ojos Así](https://open.spotify.com/track/4EDfdYJ7mqXRoWAqzF1PVO) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:55 |
-| 39 | [Choka Choka](https://open.spotify.com/track/5WNTWK6ISkfnkth9JwxvCp) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [EQUILIBRIVM](https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5) | 2:11 |
-| 40 | [She Wolf](https://open.spotify.com/track/4l9fZ75WzPZlAIkqJIWlo8) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [She Wolf \(Expanded Edition\)](https://open.spotify.com/album/3MhG5IXiezatEXyNsXPLPm) | 3:08 |
+| 39 | [She Wolf](https://open.spotify.com/track/4l9fZ75WzPZlAIkqJIWlo8) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [She Wolf \(Expanded Edition\)](https://open.spotify.com/album/3MhG5IXiezatEXyNsXPLPm) | 3:08 |
+| 40 | [Choka Choka](https://open.spotify.com/track/5WNTWK6ISkfnkth9JwxvCp) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [EQUILIBRIVM](https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5) | 2:11 |
 | 41 | [Donde Estas Corazon](https://open.spotify.com/track/6IGvaQ4aFBjy66TdUurIiA) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Pies Descalzos](https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9) | 3:51 |
 | 42 | [Deja vu](https://open.spotify.com/track/46HdsiK0uR26B2dY9QPzda) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [FIVE \(Deluxe Edition\)](https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P) | 3:16 |
 | 43 | [Acróstico \- Milan + Sasha](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico \(Milan + Sasha\)](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jO79m.md) - [plain]
 | 49 | [\(Entre Paréntesis\)](https://open.spotify.com/track/68viiGZoRbLCjsy5xD4VrU) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:48 |
 | 50 | [Copa Vacía](https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Copa Vacía](https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7) | 2:53 |
 
-Snapshot ID: `anJ9AAAAAAAZ+BhqVS9icGOXvq2vgAWp`
+Snapshot ID: `anPOgAAAAADHbRen1wBihr9BMbg9NVLY`

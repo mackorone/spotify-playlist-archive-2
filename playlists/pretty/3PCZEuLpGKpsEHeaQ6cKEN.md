@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 257,546 likes - 459 songs - 1 day 0 hr 6 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 257,525 likes - 459 songs - 1 day 0 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Free My Soul](https://open.spotify.com/track/3YDYyQlRzPyG99sAt2hx64) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Free My Soul](https://open.spotify.com/album/7ENloTO1mebuSJTe0ydxVr) | 3:33 |
 | 2 | [Waterman](https://open.spotify.com/track/05lAxB9iv1VLO91kCGb1Vy) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Olav Basoski](https://open.spotify.com/artist/6FyRbuLLpPFzeI63apcfLi), [History Of Rave](https://open.spotify.com/artist/58er8STHlRV6sKZnkvAUuR) | [Waterman](https://open.spotify.com/album/08hYezkXUSCK05sVEy9WiZ) | 3:16 |
 | 3 | [Answer Every Question](https://open.spotify.com/track/1V5I4HDmexhBK5b80VQ9Fo) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey) | [Answer Every Question](https://open.spotify.com/album/38a3f71SYKW1i6C6g7sm2A) | 4:28 |
-| 4 | [Back Once Again](https://open.spotify.com/track/6BkZhsStj8NiTVoyHVaaEg) | [Nedea](https://open.spotify.com/artist/30mfOctVQemMsOKvlPWNVp), [Bryan Kearney](https://open.spotify.com/artist/5fBbVsFxoa0jDCqocaEdBx) | [Back Once Again](https://open.spotify.com/album/43QTLC7qEiK9Nx7srLI6hY) | 3:33 |
+| 4 | [Back Once Again](https://open.spotify.com/track/6BkZhsStj8NiTVoyHVaaEg) | [Nedea](https://open.spotify.com/artist/1KGZbXkFnpuHrKQUWpG0iV), [Bryan Kearney](https://open.spotify.com/artist/5fBbVsFxoa0jDCqocaEdBx) | [Back Once Again](https://open.spotify.com/album/43QTLC7qEiK9Nx7srLI6hY) | 3:33 |
 | 5 | [Hear U](https://open.spotify.com/track/31TmLY1JLC8Hfhnc7RQu5N) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [HRRTZ](https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS) | [Hear U](https://open.spotify.com/album/26S5u0IGwuj2NgEXTU9q5o) | 2:54 |
 | 6 | [Careful](https://open.spotify.com/track/1kk2PNrO9mfMuwEGnAOipt) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Careful](https://open.spotify.com/album/524f63QHVObJQoDoYjqGPF) | 2:40 |
 | 7 | [Everlasting](https://open.spotify.com/track/5cghkAwcQt4ujKewPNIQ91) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Everlasting](https://open.spotify.com/album/5oB1a3IpezAWEtn35xEfok) | 2:37 |

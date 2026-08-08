@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2B5hXslE3gB415wlpuI6et">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 793 likes - 86 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 794 likes - 86 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 85 | [Pedestal](https://open.spotify.com/track/2uuG0q0NJCODSZxo3Q3RX8) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/0fetHuPcxKROz43WYu3J31) | 3:25 |
 | 86 | [Dark Side \(Instrumental Version\) \[Originally performed by Kelly Clarkson\]](https://open.spotify.com/track/0UIz6OBemLHhD8XW8t2acZ) | [Back Track Karaoke](https://open.spotify.com/artist/0CG46RticezLidYhQ66gUW) | [Top Song's Karaoke \-Vol 3](https://open.spotify.com/album/1c7kIevmDnQPdvmeERdQj4) | 3:21 |
 
-Snapshot ID: `AcY4yAAAAACvbJHjUYggr61wmCa1SEWx`
+Snapshot ID: `AcY+GAAAAADrdf3uu+MJXOwQ+4tB31P8`

@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 365914,
+  "num_followers": 365967,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ5v5fQof/NRzwLQkEAkgHlRubZJ",
+  "snapshot_id": "AAAAAM+X6zc48Iv4OQ7EOHiti911ELZb",
   "tracks": [
     {
       "added_at": "2023-03-30 14:38:10",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "The Very Best Of Dan Fogelberg",
-        "url": "https://open.spotify.com/album/3mXsZ9l6CT8IXOWDngEghm"
-      },
-      "artists": [
-        {
-          "name": "Dan Fogelberg",
-          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
-        }
-      ],
-      "duration_ms": 245293,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/1ZhDatT59MAoXRLtQiMMfg"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Christine McVie",
         "url": "https://open.spotify.com/album/6qSmsdv6UxrqaB3oflB5Yy"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 232906,
       "name": "Got a Hold on Me",
       "url": "https://open.spotify.com/track/0FCgqHNdcbhGIEmU8r6ZF1"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "The Very Best Of Dan Fogelberg",
+        "url": "https://open.spotify.com/album/3mXsZ9l6CT8IXOWDngEghm"
+      },
+      "artists": [
+        {
+          "name": "Dan Fogelberg",
+          "url": "https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO"
+        }
+      ],
+      "duration_ms": 245293,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/1ZhDatT59MAoXRLtQiMMfg"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "The End Of The Innocence",
-        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 315306,
-      "name": "The End Of The Innocence",
-      "url": "https://open.spotify.com/track/3NWcFiL6oCEagrFiTdDr1m"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Take My Time",
         "url": "https://open.spotify.com/album/7bNpYL4bvBMLRyafghBrCs"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 184026,
       "name": "So Much In Love",
       "url": "https://open.spotify.com/track/0shzwsbUpKgI8kQhFsOl0w"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 315306,
+      "name": "The End Of The Innocence",
+      "url": "https://open.spotify.com/track/3NWcFiL6oCEagrFiTdDr1m"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Invisible Touch",
-        "url": "https://open.spotify.com/album/7jYfZ6i2taKDkiuxncR8P1"
-      },
-      "artists": [
-        {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "Throwing It All Away",
-      "url": "https://open.spotify.com/track/6Tl40NMUnrFqhQssrW0TYB"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "No Lookin' Back",
         "url": "https://open.spotify.com/album/5EgP5Nh4vxShzBrBJk87qW"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 270506,
       "name": "Our Love",
       "url": "https://open.spotify.com/track/3P16X8qsN8fMQQT7o0Tfgy"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Invisible Touch",
+        "url": "https://open.spotify.com/album/7jYfZ6i2taKDkiuxncR8P1"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Throwing It All Away",
+      "url": "https://open.spotify.com/track/6Tl40NMUnrFqhQssrW0TYB"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Street Corner Heroes",
-        "url": "https://open.spotify.com/album/6PUJ57r2I7YinhkfZ6iV6t"
-      },
-      "artists": [
-        {
-          "name": "Robbie Dupree",
-          "url": "https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz"
-        }
-      ],
-      "duration_ms": 300626,
-      "name": "Free Fallin' - Remastered",
-      "url": "https://open.spotify.com/track/1G74Lm4hwR8bkUXTwKKbBb"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Airplay",
         "url": "https://open.spotify.com/album/3uxLkATnYOuXXIkUb2d04n"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 255320,
       "name": "Bix",
       "url": "https://open.spotify.com/track/4BmqJhzuilRz2zHsSpILyq"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Street Corner Heroes",
+        "url": "https://open.spotify.com/album/6PUJ57r2I7YinhkfZ6iV6t"
+      },
+      "artists": [
+        {
+          "name": "Robbie Dupree",
+          "url": "https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz"
+        }
+      ],
+      "duration_ms": 300626,
+      "name": "Free Fallin' - Remastered",
+      "url": "https://open.spotify.com/track/1G74Lm4hwR8bkUXTwKKbBb"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Street Corner Heroes",
-        "url": "https://open.spotify.com/album/6PUJ57r2I7YinhkfZ6iV6t"
+        "name": "Airplay",
+        "url": "https://open.spotify.com/album/3uxLkATnYOuXXIkUb2d04n"
       },
       "artists": [
         {
-          "name": "Robbie Dupree",
-          "url": "https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz"
+          "name": "Airplay",
+          "url": "https://open.spotify.com/artist/0yci1UcbunmiExfI7U0jGw"
         }
       ],
-      "duration_ms": 205240,
-      "name": "Brooklyn Girls - Remastered",
-      "url": "https://open.spotify.com/track/2yzzxCBnrIq9etWnMsJi27"
+      "duration_ms": 241586,
+      "name": "It Will Be Alright",
+      "url": "https://open.spotify.com/track/2fbQVHBdsNLD6ol4KsUHPM"
     }
   ],
   "unique_name": "80s Soft Rock",

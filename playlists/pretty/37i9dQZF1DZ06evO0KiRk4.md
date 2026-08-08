@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KiRk4.md) - [plain]
 
 > This is Florence + The Machine\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 589,524 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 589,574 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KiRk4.md) - [plain]
 | 49 | [Addicted To Love](https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 3:19 |
 | 50 | [No Choir](https://open.spotify.com/track/47a7Hn4fFE4mHgVJF19CO1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [High As Hope](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) | 2:29 |
 
-Snapshot ID: `anJ9AAAAAABWUZRcvzu/B3NXc150tFWx`
+Snapshot ID: `anPOgAAAAADYf8SNzZoI+X1+bRZOr0TH`

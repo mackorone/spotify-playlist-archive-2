@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 
 > Un'estate al mare, stile balenare 🏝️ Hit dell'estate italiana anni 60, 70 e 80!
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,887 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,986 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 49 | [La Partita Di Pallone](https://open.spotify.com/track/3wWmHzFEcG4Mg13JrR1J9h) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [Rita Pavone](https://open.spotify.com/album/1c5unYhvdg4dPgJQpsCTum) | 2:13 |
 | 50 | [Boys \(Summertime Love\)](https://open.spotify.com/track/05Vs9EV1E8HI2u0EzopMdP) | [Sabrina](https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU) | [Happy Songs](https://open.spotify.com/album/3dYBrvPnWpycwiclPq9Qlf) | 3:52 |
 
-Snapshot ID: `AAAAAAju6G3JCvXNZHGeQSG0HrQiUghc`
+Snapshot ID: `AAAAAAHH2aEniSdQKKVBNb4SAJukYcMd`

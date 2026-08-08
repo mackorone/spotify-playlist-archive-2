@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 
 > This is Madison Cunningham\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,735 likes - 46 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,736 likes - 47 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 | 42 | [Little Things With Great Love \- Live](https://open.spotify.com/track/5vW1xKUoIh1jOqfHlZnMk2) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Work Songs: The Porter's Gate Worship Project, Vol\. 1 \(Live\)](https://open.spotify.com/album/4lUuF5rgZJJRIM9k9vDKOp) | 5:07 |
 | 43 | [Neighbor Song \[Feat\. Madison Cunningham\]](https://open.spotify.com/track/5t6reWfzf0aOeMgVijYRGS) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Neighbor Song \(ft\. Madison Cunningham\)](https://open.spotify.com/album/1gWFh2G3METlCAbzhfaIzs) | 3:40 |
 | 44 | [Something To Believe In](https://open.spotify.com/track/79NCNvyJMKSCVSGQZjSLf4) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 3:57 |
-| 45 | [Arrow Through Me](https://open.spotify.com/track/0WqFBfRAMFqOu5bLKojjIL) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [LIFE](https://open.spotify.com/album/2wHNkXpAGzy5MCJg0ZpbIX) | 2:46 |
-| 46 | [The Book Of Love \(with Madison Cunningham\)](https://open.spotify.com/track/5d5SB3s3ksk34OIDb4EoaW) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [The Golden Heart Protector](https://open.spotify.com/album/0jxAojVGsPyWPz9F1JjjAn) | 3:40 |
+| 45 | [The Book Of Love \(with Madison Cunningham\)](https://open.spotify.com/track/5d5SB3s3ksk34OIDb4EoaW) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [The Golden Heart Protector](https://open.spotify.com/album/0jxAojVGsPyWPz9F1JjjAn) | 3:40 |
+| 46 | [Arrow Through Me](https://open.spotify.com/track/0WqFBfRAMFqOu5bLKojjIL) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [LIFE](https://open.spotify.com/album/2wHNkXpAGzy5MCJg0ZpbIX) | 2:46 |
+| 47 | [Perfect Dark \- Live at RAK](https://open.spotify.com/track/3TqhwOVi57cSV2K0Pr6O1m) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Perfect Dark \(Live at RAK\)](https://open.spotify.com/album/303nhwxDFiKoAufpp65WKc) | 3:34 |
 
-Snapshot ID: `anJ9AAAAAACmoH63M4VelDXoxScLGnDA`
+Snapshot ID: `anPOgAAAAABVeFajFx6CLFrqPm3nz44Q`

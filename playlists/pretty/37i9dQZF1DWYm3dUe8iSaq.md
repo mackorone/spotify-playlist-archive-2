@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,266 likes - 80 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,270 likes - 80 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,15 +36,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 26 | [Tree Six Foive](https://open.spotify.com/track/369J9kQgNKhoZGV5UCSzLA) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 3:51 |
 | 27 | [Cole's Response](https://open.spotify.com/track/51MMAFn3SJ5icMft2NwCG5) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Cole's Response](https://open.spotify.com/album/3c9v4CNoqLy1h3x8nlM5vP) | 2:08 |
 | 28 | [The Rarest Hour](https://open.spotify.com/track/3ZlHYicAmVwPBB3bhyo85k) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [The Rarest Hour](https://open.spotify.com/album/4s5GdjDWH2ADhn8YGafhOT) | 4:05 |
-| 29 | [Good Ones](https://open.spotify.com/track/5AuqGkHqaX9qdn9aZlvBUb) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Good Ones](https://open.spotify.com/album/1RK7afQN4wTu90lEqbVDou) | 3:19 |
-| 30 | [God Has A Hitman](https://open.spotify.com/track/1oJlAQUHuNCytq5gptME2Z) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [I Don't Know How But They Found Me...Again!](https://open.spotify.com/album/2waHNdcyBJsSKqGTPeSgYt) | 3:49 |
+| 29 | [God Has A Hitman](https://open.spotify.com/track/1oJlAQUHuNCytq5gptME2Z) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [I Don't Know How But They Found Me...Again!](https://open.spotify.com/album/2waHNdcyBJsSKqGTPeSgYt) | 3:49 |
+| 30 | [Good Ones](https://open.spotify.com/track/5AuqGkHqaX9qdn9aZlvBUb) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Good Ones](https://open.spotify.com/album/1RK7afQN4wTu90lEqbVDou) | 3:19 |
 | 31 | [I Can and I Will](https://open.spotify.com/track/3veBdtlaLO4NH8ZkGyriU4) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 6:29 |
 | 32 | [Hearken](https://open.spotify.com/track/4xEBLCaklcfiEk0d6BIeZe) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Hearken](https://open.spotify.com/album/76esxIQUhXuZW0d7VdNy2g) | 6:11 |
 | 33 | [Hey Ma](https://open.spotify.com/track/5TrhGhn9uOojpLeT35Qged) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Hey Ma](https://open.spotify.com/album/0QxqcLCbgMcfzzKFWdU1mi) | 4:00 |
 | 34 | [Shadow Of A Man](https://open.spotify.com/track/0pxeRv17TMp2uAPlqMpPep) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Prizefighter](https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k) | 3:43 |
-| 35 | [Dark Eyed Sailor](https://open.spotify.com/track/5dzk2Upt3yF2uDThmsqeJX) | [Olivia Chaney](https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e) | [Dark Eyed Sailor](https://open.spotify.com/album/1R4KuR0eEdoQH6c9SokpsH) | 5:10 |
+| 35 | [Words](https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 3:47 |
 | 36 | [I have more than enough](https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [I have more than enough](https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6) | 5:28 |
-| 37 | [Words](https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 3:47 |
+| 37 | [Dark Eyed Sailor](https://open.spotify.com/track/5dzk2Upt3yF2uDThmsqeJX) | [Olivia Chaney](https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e) | [Dark Eyed Sailor](https://open.spotify.com/album/1R4KuR0eEdoQH6c9SokpsH) | 5:10 |
 | 38 | [You & We](https://open.spotify.com/track/5MD0n5OdhzQE8TGbGO0n7c) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Against The Dying Of The Light](https://open.spotify.com/album/46XdK0AK5PmeummJN5fB6W) | 4:28 |
 | 39 | [Gloria](https://open.spotify.com/track/0zKdnh2MYbxhFpqZi2VprC) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Halcyon](https://open.spotify.com/album/6qozXyj0x4k9gvSuKm6Jlq) | 3:38 |
 | 40 | [Upstate](https://open.spotify.com/track/0Tg8POtTUlEH9xNobmoade) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Upstate](https://open.spotify.com/album/2XDV7BTvNQvgGaJLTHHEF9) | 4:24 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 42 | [Foreign Bird](https://open.spotify.com/track/0CbRgc5D5AKpfIlCmbggqh) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Now Would Be A Good Time](https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y) | 4:12 |
 | 43 | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/album/74xb3RB0NFdpxogUMihIlb) | 3:51 |
 | 44 | [Never, No Not Once](https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Never, No Not Once](https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB) | 4:58 |
-| 45 | [System](https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:53 |
-| 46 | [You Pt\. 2](https://open.spotify.com/track/1u4727ZsHw1maP8y9YbIQo) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv) | 4:07 |
+| 45 | [You Pt\. 2](https://open.spotify.com/track/1u4727ZsHw1maP8y9YbIQo) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv) | 4:07 |
+| 46 | [System](https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:53 |
 | 47 | [the way you do](https://open.spotify.com/track/2Sgz95fxgQYxDAS2yKJLGL) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [valley of my prime](https://open.spotify.com/album/1UnbjUKJUVDSnRkaf2rnnc) | 3:27 |
 | 48 | [Wonderful Life](https://open.spotify.com/track/5phSRJKDo1ihkqbwNlSTVp) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [A Wonderful Life](https://open.spotify.com/album/5sjDYH0h22YYNEWiRw9IH5) | 3:48 |
 | 49 | [Over \(feat\. Tom Odell\)](https://open.spotify.com/track/7pRx2dk34DHINRWCytBPm4) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Over](https://open.spotify.com/album/5ftBriC68ZmOzyVWecx1iK) | 3:49 |
@@ -62,12 +62,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 52 | [Never Give Up](https://open.spotify.com/track/0UZfzqueATeUHIjacJPS7Y) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Never Give Up](https://open.spotify.com/album/3ABfTrmpeMpvxEJ88A8bEj) | 3:11 |
 | 53 | [Shiver](https://open.spotify.com/track/6U63s4dcufvu0QnnXvO31Y) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Shiver](https://open.spotify.com/album/5SfsIezjbXkthksXx3afyb) | 3:34 |
 | 54 | [Everyone Likes To Be Forgiven](https://open.spotify.com/track/0qQfLlCBn8LNsPWpzcFsbY) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [Some Things Never Leave](https://open.spotify.com/album/6SjTebu5erz22LeboDHsML) | 4:00 |
-| 55 | [Taboo](https://open.spotify.com/track/5r6asxdvB5xJtNiSMjWTjB) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Taboo](https://open.spotify.com/album/1g3VI1UlJcKDPP4bDihhdB) | 3:38 |
-| 56 | [Years On](https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Years On](https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8) | 4:02 |
+| 55 | [Years On](https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Years On](https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8) | 4:02 |
+| 56 | [Taboo](https://open.spotify.com/track/5r6asxdvB5xJtNiSMjWTjB) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Taboo](https://open.spotify.com/album/1g3VI1UlJcKDPP4bDihhdB) | 3:38 |
 | 57 | [Next To Me](https://open.spotify.com/track/49x1GZ66GEXQkdXD8Bc7LR) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Next To Me](https://open.spotify.com/album/4dyNIU75ppnJATmOF1QPbC) | 3:50 |
 | 58 | [I'm Not Ready To Go](https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side B\)](https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ) | 4:22 |
-| 59 | [Two Magpies](https://open.spotify.com/track/73L58g7uez4RppiC5EYMlG) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [The City Is Coming To Erase It All](https://open.spotify.com/album/5hyjzZQKXifH4Xa0gyc0F4) | 5:15 |
-| 60 | [Is What It Is](https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Is What It Is](https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB) | 3:23 |
+| 59 | [Is What It Is](https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Is What It Is](https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB) | 3:23 |
+| 60 | [Two Magpies](https://open.spotify.com/track/73L58g7uez4RppiC5EYMlG) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [The City Is Coming To Erase It All](https://open.spotify.com/album/5hyjzZQKXifH4Xa0gyc0F4) | 5:15 |
 | 61 | [Mona](https://open.spotify.com/track/7rfoxuUYSfGSuGjRoTq4qH) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 3:22 |
 | 62 | [Seventeen](https://open.spotify.com/track/3Ac7dP08nPVC9Ti6RcTmcQ) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Seventeen](https://open.spotify.com/album/5YwXFDSgMW3FBGAES2Kud3) | 3:02 |
 | 63 | [Scared Of Me](https://open.spotify.com/track/6c1pozetaTladugnMW6z9T) | [Gloria Laing](https://open.spotify.com/artist/3aO4DL5c2uBGD8EUuP7sxi) | [Cry For Me](https://open.spotify.com/album/4QCAnF76MDKeYnr4FMkaVm) | 4:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 79 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 |
 | 80 | [Drug Dealer](https://open.spotify.com/track/29DPlF67ReoJrdJCP6r0pL) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Drug Dealer](https://open.spotify.com/album/3HMDYUcXTyjloGkANiPxP5) | 3:58 |
 
-Snapshot ID: `AAAAADPXYuTOyvDFxM3wkm7RwNHsDZ+D`
+Snapshot ID: `AAAAANKFdWOceGlNuMJLX2cIN1YTCDte`

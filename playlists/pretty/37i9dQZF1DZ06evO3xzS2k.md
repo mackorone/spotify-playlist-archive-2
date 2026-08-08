@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 
 > This is Nothing\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,069 likes - 39 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,067 likes - 39 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 | 11 | [The Dead Are Dumb](https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 4:30 |
 | 12 | [Hymn to the Pillory](https://open.spotify.com/track/5mR1Clx2pnR6RNSS0U3wq9) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty of Everything](https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6) | 4:41 |
 | 13 | [I Hate the Flowers](https://open.spotify.com/track/6U1BjvVwE9hDCasACGvguA) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 4:21 |
-| 14 | [cannibal world](https://open.spotify.com/track/5cPAqyGwaEYCczpdBP2yF2) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [a short history of decay](https://open.spotify.com/album/7euwYFDlezb1aLOvEE4p2P) | 4:29 |
+| 14 | [a short history of decay](https://open.spotify.com/track/50433OMDh4XkIDIXNBrMmz) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [a short history of decay](https://open.spotify.com/album/7euwYFDlezb1aLOvEE4p2P) | 5:28 |
 | 15 | [Fever Queen](https://open.spotify.com/track/2hWnuDzcKznJvlCxuRgfaA) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 2:56 |
 | 16 | [Somersault](https://open.spotify.com/track/1X3RzfQtAcsj3K6QE9l9IO) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty of Everything](https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6) | 4:30 |
 | 17 | [Zero Day](https://open.spotify.com/track/1dwC0I32wb53mXCECR4ZY7) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 3:57 |
-| 18 | [a short history of decay](https://open.spotify.com/track/50433OMDh4XkIDIXNBrMmz) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [a short history of decay](https://open.spotify.com/album/7euwYFDlezb1aLOvEE4p2P) | 5:28 |
+| 18 | [cannibal world](https://open.spotify.com/track/5cPAqyGwaEYCczpdBP2yF2) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [a short history of decay](https://open.spotify.com/album/7euwYFDlezb1aLOvEE4p2P) | 4:29 |
 | 19 | [Say Less](https://open.spotify.com/track/1TG4piLlwdCJOQWpsnpLWm) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 4:15 |
 | 20 | [Dig](https://open.spotify.com/track/2jUvEnpLXGQh94Qoymx4P8) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Guilty of Everything](https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6) | 4:02 |
 | 21 | [Nineteen Ninety Heaven](https://open.spotify.com/track/3wsglsWrkeITfIWmYpY0Ge) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 4:40 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xzS2k.md) - [plain]
 | 38 | [Rose Tinted World](https://open.spotify.com/track/67vYna8TF0R0kQfN92x933) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 8:11 |
 | 39 | [Wild Blue](https://open.spotify.com/track/2r5JFrwl0quzXoGNSqWqe4) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 4:32 |
 
-Snapshot ID: `anJ9AAAAAADISSOSk4glH4xaNeFM9OEq`
+Snapshot ID: `anPOgAAAAADIdGIXQOC9bn3HmZpLDJvz`

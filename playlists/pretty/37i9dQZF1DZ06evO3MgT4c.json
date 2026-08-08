@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 439599,
+  "num_followers": 439617,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAAU1fRBZKUEgoxrC/ruK3JU",
+  "snapshot_id": "anPOgAAAAADZDEh16jIZa2F9ZnL8UZ5o",
   "tracks": [
     {
       "added_at": null,
@@ -775,30 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wish Me Well 2",
-        "url": "https://open.spotify.com/album/49xRLtZLaXg5yJgGiXFXWR"
-      },
-      "artists": [
-        {
-          "name": "YFN Lucci",
-          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Trouble",
-          "url": "https://open.spotify.com/artist/0701LAQrkY5Il5vt06uNnC"
-        }
-      ],
-      "duration_ms": 281986,
-      "name": "Key to the Streets",
-      "url": "https://open.spotify.com/track/0bHDsbWkPSJ01adXfObBzJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ransom 2",
         "url": "https://open.spotify.com/album/0jqcY0azNzkluuC8hxNGlw"
       },
@@ -823,6 +799,30 @@
       "duration_ms": 274846,
       "name": "Gucci On My (feat. 21 Savage, YG & Migos)",
       "url": "https://open.spotify.com/track/3IHZc2GclRu5nJpTqty7MY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wish Me Well 2",
+        "url": "https://open.spotify.com/album/49xRLtZLaXg5yJgGiXFXWR"
+      },
+      "artists": [
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Trouble",
+          "url": "https://open.spotify.com/artist/0701LAQrkY5Il5vt06uNnC"
+        }
+      ],
+      "duration_ms": 281986,
+      "name": "Key to the Streets",
+      "url": "https://open.spotify.com/track/0bHDsbWkPSJ01adXfObBzJ"
     },
     {
       "added_at": null,

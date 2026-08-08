@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 
 > Άκου τα πιο χοτ trends στην Ελλάδα αυτή τη στιγμή!
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,239 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,247 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 | 59 | [Plati](https://open.spotify.com/track/4h4HJ4Ukao32nesuYLFC5b) | [Stella Kalli](https://open.spotify.com/artist/4caYcw8LODY0fjoS5k9lxX) | [Ola Mou Ta S' Agapo](https://open.spotify.com/album/3UPmwIj9Uhc7Ti323agnVs) | 3:56 |
 | 60 | [Didima Feggaria](https://open.spotify.com/track/5lPj87L3JtlqZuSfzf0ccN) | [Aleka Kanellidou](https://open.spotify.com/artist/1Mk65POrKTGeOQDMfnv5Ry), [Dimitris Mitropanos](https://open.spotify.com/artist/3xqrfI4xL7FnBawAoiOTxe) | [Didima Feggaria](https://open.spotify.com/album/2JEkGfuoNtkpBwpjo5Sj9r) | 3:55 |
 
-Snapshot ID: `AAAAALq9A+XqZY7gswzCNilbk7DjZL31`
+Snapshot ID: `AAAAAE7B4cHxhm+7/BQbdNCJqlTsjtPr`

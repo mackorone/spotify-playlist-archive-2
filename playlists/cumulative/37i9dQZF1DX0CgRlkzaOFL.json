@@ -851,6 +851,24 @@
     },
     {
       "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99826,
+      "name": "One is All, All is One",
+      "url": "https://open.spotify.com/track/0OuJvo7X6KXQRCivDryiOx"
+    },
+    {
+      "album": {
         "name": "Spirited Away Soundtrack",
         "url": "https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9"
       },
@@ -1410,7 +1428,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 220360,
       "name": "The Four Seasons / Violin Concerto in E Major, RV 269 \"Spring\": I. Allegro",
       "url": "https://open.spotify.com/track/1vPYvku7fpwbz1k6vYtw0p"

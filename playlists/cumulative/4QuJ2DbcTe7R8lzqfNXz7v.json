@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "In A Perfect World (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305746,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs"
+    },
+    {
+      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
       },
@@ -2789,6 +2807,24 @@
     },
     {
       "album": {
+        "name": "Hollywood Sign",
+        "url": "https://open.spotify.com/album/3HwKCIvbJEv5F2OyF0dxHF"
+      },
+      "artists": [
+        {
+          "name": "Aaron Rowe",
+          "url": "https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241169,
+      "name": "Hollywood Sign",
+      "url": "https://open.spotify.com/track/4VEDiZ3uZ4mnGHiJ0oYi1k"
+    },
+    {
+      "album": {
         "name": "Holy Blindfold",
         "url": "https://open.spotify.com/album/21148QXr6aXsBfN9P7N6X9"
       },
@@ -2840,7 +2876,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 262533,
       "name": "How to Save a Life",
       "url": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"
@@ -7128,7 +7164,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"

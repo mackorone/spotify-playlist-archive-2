@@ -15583,6 +15583,24 @@
     },
     {
       "album": {
+        "name": "Tu sais me faire danser",
+        "url": "https://open.spotify.com/album/0111WnMvN7AnhIZYIH6TKX"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 French",
+          "url": "https://open.spotify.com/artist/5x8WbkzuZXIKWNSDd5JcGa"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173658,
+      "name": "Tu sais me faire danser",
+      "url": "https://open.spotify.com/track/4AIXofGG21C0LZEQ0lY0ty"
+    },
+    {
+      "album": {
         "name": "Turn Back Time",
         "url": "https://open.spotify.com/album/5XSLcgf6JSnl5DIkAR5cAR"
       },

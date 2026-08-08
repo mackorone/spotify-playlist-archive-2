@@ -1,12 +1,12 @@
 {
   "description": "youngs soundss \ud83e\udd5e Kundo p\u00e5 forsiden ",
-  "num_followers": 47200,
+  "num_followers": 47194,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC/upzxJ0+R0jUPpHkbaYe/wcHqK",
+  "snapshot_id": "AAAAAMbB72esZwdtadgLEal5cUj3WJRz",
   "tracks": [
     {
       "added_at": "2026-08-06 22:01:39",
@@ -315,8 +315,8 @@
     {
       "added_at": "2026-08-06 22:01:39",
       "album": {
-        "name": "Det Hele Handler Om Dig",
-        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
+        "name": "Gav Det Et Skud",
+        "url": "https://open.spotify.com/album/5VSbZUKdlrZpXEOub9OEZJ"
       },
       "artists": [
         {
@@ -324,25 +324,9 @@
           "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
         }
       ],
-      "duration_ms": 198452,
-      "name": "Det Hele Handler Om Dig",
-      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
-    },
-    {
-      "added_at": "2026-08-06 22:01:39",
-      "album": {
-        "name": "Tag Mig Som Jeg Er",
-        "url": "https://open.spotify.com/album/5cgv7qdPVxJS9jN50kr3nH"
-      },
-      "artists": [
-        {
-          "name": "KALASET",
-          "url": "https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7"
-        }
-      ],
-      "duration_ms": 195748,
-      "name": "Tag Mig Som Jeg Er",
-      "url": "https://open.spotify.com/track/7aSvvFYDuR8fCurPx6hqwl"
+      "duration_ms": 176489,
+      "name": "Gav Det Et Skud",
+      "url": "https://open.spotify.com/track/0GTdMP7x3g3sqWfc90C6il"
     },
     {
       "added_at": "2026-08-06 22:01:39",
@@ -363,18 +347,18 @@
     {
       "added_at": "2026-08-06 22:01:39",
       "album": {
-        "name": "S\u00e6tter Sig Fast",
-        "url": "https://open.spotify.com/album/6kPWRAW8tNgqcCyHMK6pM4"
+        "name": "Tag Mig Som Jeg Er",
+        "url": "https://open.spotify.com/album/5cgv7qdPVxJS9jN50kr3nH"
       },
       "artists": [
         {
-          "name": "will",
-          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
+          "name": "KALASET",
+          "url": "https://open.spotify.com/artist/2Wqxw6V3d9ZzAf32jTjwW7"
         }
       ],
-      "duration_ms": 176083,
-      "name": "S\u00e6tter Sig Fast",
-      "url": "https://open.spotify.com/track/0ueHqqPHinLsblBWQ0cjmW"
+      "duration_ms": 195748,
+      "name": "Tag Mig Som Jeg Er",
+      "url": "https://open.spotify.com/track/7aSvvFYDuR8fCurPx6hqwl"
     },
     {
       "added_at": "2026-08-06 22:01:39",
@@ -395,8 +379,24 @@
     {
       "added_at": "2026-08-06 22:01:39",
       "album": {
-        "name": "Gav Det Et Skud",
-        "url": "https://open.spotify.com/album/5VSbZUKdlrZpXEOub9OEZJ"
+        "name": "S\u00e6tter Sig Fast",
+        "url": "https://open.spotify.com/album/6kPWRAW8tNgqcCyHMK6pM4"
+      },
+      "artists": [
+        {
+          "name": "will",
+          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
+        }
+      ],
+      "duration_ms": 176083,
+      "name": "S\u00e6tter Sig Fast",
+      "url": "https://open.spotify.com/track/0ueHqqPHinLsblBWQ0cjmW"
+    },
+    {
+      "added_at": "2026-08-06 22:01:39",
+      "album": {
+        "name": "Det Hele Handler Om Dig",
+        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
         }
       ],
-      "duration_ms": 176489,
-      "name": "Gav Det Et Skud",
-      "url": "https://open.spotify.com/track/0GTdMP7x3g3sqWfc90C6il"
+      "duration_ms": 198452,
+      "name": "Det Hele Handler Om Dig",
+      "url": "https://open.spotify.com/track/58DQTjsvh0005Us6pEc1OL"
     },
     {
       "added_at": "2026-08-06 22:01:39",
@@ -427,6 +427,22 @@
       "duration_ms": 164805,
       "name": "Lille hus i Jylland (feat. Dahlin)",
       "url": "https://open.spotify.com/track/6tt5xtseCg8LGm8CvE0aAl"
+    },
+    {
+      "added_at": "2026-08-06 22:01:39",
+      "album": {
+        "name": "Uendelighed",
+        "url": "https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX"
+      },
+      "artists": [
+        {
+          "name": "Ella Augusta",
+          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
+        }
+      ],
+      "duration_ms": 173442,
+      "name": "Uendelighed",
+      "url": "https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q"
     },
     {
       "added_at": "2026-08-06 22:01:39",
@@ -459,22 +475,6 @@
       "duration_ms": 130749,
       "name": "D\u00f8dvande",
       "url": "https://open.spotify.com/track/4xmR81dksRzRinebqUDKb9"
-    },
-    {
-      "added_at": "2026-08-06 22:01:39",
-      "album": {
-        "name": "Uendelighed",
-        "url": "https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX"
-      },
-      "artists": [
-        {
-          "name": "Ella Augusta",
-          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
-        }
-      ],
-      "duration_ms": 173442,
-      "name": "Uendelighed",
-      "url": "https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q"
     },
     {
       "added_at": "2026-08-06 22:01:39",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-08-06 22:01:39",
       "album": {
-        "name": "H\u00e6lervarer",
-        "url": "https://open.spotify.com/album/1f31MyCILmEwtqs1gesVF3"
-      },
-      "artists": [
-        {
-          "name": "USSEL",
-          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "H\u00e6lervarer",
-      "url": "https://open.spotify.com/track/3EbEA7Ln9T6ltf1sYVIPka"
-    },
-    {
-      "added_at": "2026-08-06 22:01:39",
-      "album": {
         "name": "Ingen Bund",
         "url": "https://open.spotify.com/album/72yYt6zHgG6qQkgXNpPqLx"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 219124,
       "name": "Ingen Bund",
       "url": "https://open.spotify.com/track/6Wh43ZGGQycgGfw2fj7wy3"
+    },
+    {
+      "added_at": "2026-08-06 22:01:39",
+      "album": {
+        "name": "H\u00e6lervarer",
+        "url": "https://open.spotify.com/album/1f31MyCILmEwtqs1gesVF3"
+      },
+      "artists": [
+        {
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "H\u00e6lervarer",
+      "url": "https://open.spotify.com/track/3EbEA7Ln9T6ltf1sYVIPka"
     },
     {
       "added_at": "2026-08-06 22:01:39",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-08-06 22:01:39",
       "album": {
-        "name": "F\u00f8r du siger farvel",
-        "url": "https://open.spotify.com/album/0fdDLy5cZ6jo4Tznlibbby"
-      },
-      "artists": [
-        {
-          "name": "Loui Henderson",
-          "url": "https://open.spotify.com/artist/6rkkXp7EUJhyE9K4jDFuc0"
-        }
-      ],
-      "duration_ms": 185719,
-      "name": "F\u00f8r du siger farvel",
-      "url": "https://open.spotify.com/track/4jiTmYrDMu2B8DH2Np3o2e"
-    },
-    {
-      "added_at": "2026-08-06 22:01:39",
-      "album": {
         "name": "Pissoir",
         "url": "https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 185533,
       "name": "Pissoir",
       "url": "https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0"
+    },
+    {
+      "added_at": "2026-08-06 22:01:39",
+      "album": {
+        "name": "F\u00f8r du siger farvel",
+        "url": "https://open.spotify.com/album/0fdDLy5cZ6jo4Tznlibbby"
+      },
+      "artists": [
+        {
+          "name": "Loui Henderson",
+          "url": "https://open.spotify.com/artist/6rkkXp7EUJhyE9K4jDFuc0"
+        }
+      ],
+      "duration_ms": 185719,
+      "name": "F\u00f8r du siger farvel",
+      "url": "https://open.spotify.com/track/4jiTmYrDMu2B8DH2Np3o2e"
     },
     {
       "added_at": "2026-08-06 22:01:39",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-08-06 22:01:39",
       "album": {
-        "name": "GUTWORK",
-        "url": "https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F"
-      },
-      "artists": [
-        {
-          "name": "Winnie Raeder",
-          "url": "https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Nights Like These",
-      "url": "https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98"
-    },
-    {
-      "added_at": "2026-08-06 22:01:39",
-      "album": {
         "name": "Ekkoer",
         "url": "https://open.spotify.com/album/0iVMwoK9qjCMMFDariqDVa"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 161195,
       "name": "Ekkoer",
       "url": "https://open.spotify.com/track/48JWAZ5llPwoW51EdYKrYO"
+    },
+    {
+      "added_at": "2026-08-06 22:01:39",
+      "album": {
+        "name": "GUTWORK",
+        "url": "https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F"
+      },
+      "artists": [
+        {
+          "name": "Winnie Raeder",
+          "url": "https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Nights Like These",
+      "url": "https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98"
     },
     {
       "added_at": "2026-08-06 22:01:39",

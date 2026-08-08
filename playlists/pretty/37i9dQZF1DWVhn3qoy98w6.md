@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Todos los miércoles, lo nuevo de la escena independiente española\. Foto: Paula Felices.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,107 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,106 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Robotika](https://open.spotify.com/track/3c1KvTCUN6v7zYWdomBtGs) | [Fuji?](https://open.spotify.com/artist/2FZ5tV4xZlhMUOH40v8vV9) | [Super Sweet](https://open.spotify.com/album/2ImahUPvJxwQOGRrowmFbx) | 3:54 |
 | 50 | [Somiar Despert](https://open.spotify.com/track/471SoHtItVvYgZaJs2wUAX) | [Júlia Blum](https://open.spotify.com/artist/4B6t52mhiUhrnMWR19T9ei) | [Somiar Desperta](https://open.spotify.com/album/7FiDAZrheJPGh8rhisL5OC) | 3:09 |
 
-Snapshot ID: `AAAAAOQD/QGZNmEnFTCwrCFObK+oKgrt`
+Snapshot ID: `AAAAACmGaadontKluzIE9JdZPfCJqwBj`

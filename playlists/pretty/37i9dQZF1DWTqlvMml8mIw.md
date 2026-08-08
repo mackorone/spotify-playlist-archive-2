@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqlvMml8mIw.md) - [plain]
 
 > We’re fired up\. Celebrate the new season of FX’s The Bear with music from the series\. All episodes now streaming on Hulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,920 likes - 200 songs - 14 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,007 likes - 200 songs - 14 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqlvMml8mIw.md) - [plain]
 | 199 | [sashimi](https://open.spotify.com/track/6hcy6sGEnnng4EdHnAhezD) | [Serengeti](https://open.spotify.com/artist/5F3fDx84RYnmx0FGZeRtSF) | [the Glennon ep](https://open.spotify.com/album/6EdwnHQe7LVfMVfRsNYj8k) | 2:51 |
 | 200 | [Let Down](https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:59 |
 
-Snapshot ID: `AAAAADE97low2fJQme3DS6T9TrrzIQ4O`
+Snapshot ID: `AAAAAD9Gbh3Tx7Exmj650ub1ZovPbgWN`

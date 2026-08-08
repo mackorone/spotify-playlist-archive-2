@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 
 > Our editors' picks of best tracks of 2023 by independent, developing artists from around the world\. Cover: Searows
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,357 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,359 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 39 | [falco](https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [road 2 neverland](https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8) | 3:29 |
 | 40 | [LA DROGA ES MIA \(Yuca\_Ab\_120BPM\)](https://open.spotify.com/track/1S5StNTWW8ZCBNS9EtF7E0) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MAKIA](https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv) | 3:15 |
 | 41 | [Blue Voyage](https://open.spotify.com/track/2R2hUKAdr1ubbKlXsTDkZl) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [REIA](https://open.spotify.com/artist/5usIAzHxodIcGgsgnYT4E6) | [Blue Voyage](https://open.spotify.com/album/4eZiuAVaQeHXTDAAfgASAw) | 4:14 |
-| 42 | [Stone Killer](https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR) | [26fix](https://open.spotify.com/artist/1HvnaxYOnYcLVvnOn2eb5e) | [Stone Killer](https://open.spotify.com/album/5g8JB0xHVPlp25BmuIci5L) | 3:28 |
-| 43 | [hotline](https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [hotline](https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f) | 2:17 |
+| 42 | [hotline](https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [hotline](https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f) | 2:17 |
+| 43 | [Stone Killer](https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR) | [26fix](https://open.spotify.com/artist/1HvnaxYOnYcLVvnOn2eb5e) | [Stone Killer](https://open.spotify.com/album/5g8JB0xHVPlp25BmuIci5L) | 3:28 |
 | 44 | [Talkin' On The Internet](https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:35 |
 | 45 | [Springtime Red Tulips](https://open.spotify.com/track/7jrwX0azm3t7IHqR3B0jNe) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Springtime Red Tulips](https://open.spotify.com/album/42pl1MIpxGddTozmgG0or1) | 4:34 |
 | 46 | [Sorrow](https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Sorrow](https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT) | 2:20 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 69 | [setar rock](https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [setar rock](https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb) | 4:00 |
 | 70 | [dickhead blues](https://open.spotify.com/track/0MjjrdCKDu19Z1obkdkULO) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 5:25 |
 | 71 | [She's Got Wings](https://open.spotify.com/track/0T55onEUiLPP9GJ4mCJngr) | [Dipper](https://open.spotify.com/artist/1FlF6uL7RBozryZZKSTOs5) | [She's Got Wings](https://open.spotify.com/album/6ytsoe46SEx2xuQKkb9dGT) | 3:26 |
-| 72 | [When i'm blue](https://open.spotify.com/track/6cGn9xx5G24Zh6NnhR2bgX) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [When i'm blue](https://open.spotify.com/album/6k3dF48Vor07wvqRkcL9cC) | 4:41 |
-| 73 | [Making Sense Of](https://open.spotify.com/track/1CZanBJYGF7876i6XEPqjz) | [Allegra Krieger](https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39) | [I Keep My Feet on the Fragile Plane](https://open.spotify.com/album/6Dr79gzcCMcPDaaftGSzcf) | 2:05 |
-| 74 | [Gulabi](https://open.spotify.com/track/4NrYY6WUYdfSC8fZ2WVwAx) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Gulabi](https://open.spotify.com/album/64dobvOmbgwnGqsMidDYJ4) | 2:45 |
+| 72 | [Making Sense Of](https://open.spotify.com/track/1CZanBJYGF7876i6XEPqjz) | [Allegra Krieger](https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39) | [I Keep My Feet on the Fragile Plane](https://open.spotify.com/album/6Dr79gzcCMcPDaaftGSzcf) | 2:05 |
+| 73 | [Gulabi](https://open.spotify.com/track/4NrYY6WUYdfSC8fZ2WVwAx) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Gulabi](https://open.spotify.com/album/64dobvOmbgwnGqsMidDYJ4) | 2:45 |
+| 74 | [When i'm blue](https://open.spotify.com/track/6cGn9xx5G24Zh6NnhR2bgX) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [When i'm blue](https://open.spotify.com/album/6k3dF48Vor07wvqRkcL9cC) | 4:41 |
 | 75 | [let me go\*](https://open.spotify.com/track/6YuYrLiDFsUxyxZONZMVn0) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [let me go\*](https://open.spotify.com/album/1G2wWDw7j1NQHDScKlvkAK) | 2:19 |
 | 76 | [Supply/Demand](https://open.spotify.com/track/0D2VPQ57FeEUkJz2wxpKKg) | [Sugar Pit](https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv) | [Supply/Demand](https://open.spotify.com/album/71boRaJnmsU6419GQP4yBd) | 2:39 |
 | 77 | [Lose You \- A COLORS SHOW](https://open.spotify.com/track/3QfI3tTncp1CjYLMypO2vA) | [UNA MIA](https://open.spotify.com/artist/0wWj7u5D7ksVZp8qVuCuz0), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Lose You \- A COLORS SHOW](https://open.spotify.com/album/3MmtbPCisizJovsDUBQ1md) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 99 | [Lonely](https://open.spotify.com/track/6vkucSVB3rWcLQA4Shijcr) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Conditions](https://open.spotify.com/album/5dQyKXUD3YhvsESDAUX4iZ) | 2:11 |
 | 100 | [Czuję, więc jestem?](https://open.spotify.com/track/0MAuyJNMARuj6WtOXeI96x) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Czuję, więc jestem?](https://open.spotify.com/album/0watoDNiZdQSkbNesj21rq) | 3:10 |
 
-Snapshot ID: `AAAAAFzBTgi9ziUZPy5CattYW/h9d6iQ`
+Snapshot ID: `AAAAALjF/KVb7m84dQNEuPsH88KPHpHc`

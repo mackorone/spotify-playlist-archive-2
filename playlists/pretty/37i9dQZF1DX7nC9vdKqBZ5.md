@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,491,950 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,491,850 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 24 | [Tudo Que Importa \(Acoustic\)](https://open.spotify.com/track/4UY8yqnvG44KTcFSia0cEa) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Zeeba \- Reset](https://open.spotify.com/album/0WiqJSBvRvmto6ugbqtOO0) | 3:34 |
 | 25 | [Quase Sem Querer](https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Quase Sem Querer](https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME) | 3:36 |
 | 26 | [Promete](https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Promete](https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ) | 3:18 |
-| 27 | [Estrela](https://open.spotify.com/track/4MLS1FW88HlkFK2PgPWAPA) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [Lucas Lima](https://open.spotify.com/artist/511AKBfXwSHIIekEKrjqab) | [Estrela](https://open.spotify.com/album/78XKvJXixwZoHS6Gqba5UC) | 3:57 |
+| 27 | [Wave](https://open.spotify.com/track/5SsVGUftRUdEuiTfSFFYXq) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Wave](https://open.spotify.com/album/5W4dS7EDdMOT9i1rnIoOS9) | 2:36 |
 | 28 | [Amei Te Ver \- Acústica](https://open.spotify.com/track/0bX2gnECXZJ5nt7rcIZMVM) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Amei Te Ver](https://open.spotify.com/album/3jxnoPOwV9Dc0PRzhz442o) | 4:14 |
-| 29 | [Perdoa](https://open.spotify.com/track/7HZKPjrStKgnQSigwWEvia) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Perdoa](https://open.spotify.com/album/3xe8Wut7JdhvJEgOQ9V0n6) | 3:42 |
-| 30 | [Wave](https://open.spotify.com/track/5SsVGUftRUdEuiTfSFFYXq) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Wave](https://open.spotify.com/album/5W4dS7EDdMOT9i1rnIoOS9) | 2:36 |
+| 29 | [Estrela](https://open.spotify.com/track/4MLS1FW88HlkFK2PgPWAPA) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [Lucas Lima](https://open.spotify.com/artist/511AKBfXwSHIIekEKrjqab) | [Estrela](https://open.spotify.com/album/78XKvJXixwZoHS6Gqba5UC) | 3:57 |
+| 30 | [Perdoa](https://open.spotify.com/track/7HZKPjrStKgnQSigwWEvia) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Perdoa](https://open.spotify.com/album/3xe8Wut7JdhvJEgOQ9V0n6) | 3:42 |
 | 31 | [Quase Sem Querer \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/7x2PPGgAptvKQI2Aw8XIY0) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Spotify Singles](https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V) | 3:14 |
 | 32 | [Só Posso Dizer \(São Paulo\)](https://open.spotify.com/track/3dor9wQtFRx1fqC7joWS6B) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Só Posso Dizer](https://open.spotify.com/album/1WfgqVP0CixN0ygK9SOIKw) | 3:18 |
 | 33 | [Vê Se Não Me Esquece Mais](https://open.spotify.com/track/6Cm9ESWYCTs5eCqLzsRFgW) | [Lucas Laypold](https://open.spotify.com/artist/2sSSTdSI4Dmb0O8GWRWoo2) | [Vê Se Não Me Esquece Mais](https://open.spotify.com/album/5UPRYphdZKvDysG65y8Ecy) | 2:41 |
@@ -53,15 +53,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 43 | [Abrigo](https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Abrigo](https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E) | 3:43 |
 | 44 | [Tô De Pé \- Acústico](https://open.spotify.com/track/22QdpwlY4mNXPhl2j9RfgD) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Tô De Pé \(Acústico\)](https://open.spotify.com/album/5hdGzsTpsuqyjzFmfSL37v) | 2:49 |
 | 45 | [penhasco\. \- \(acústico\)](https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [penhasco\. \(acústico\)](https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6) | 3:33 |
-| 46 | [Linguagem Não Verbal](https://open.spotify.com/track/4aCUUcW7FVCCunRs33l2rh) | [MENSANA](https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL) | [Linguagem Não Verbal](https://open.spotify.com/album/7oXCbPmUEkzokpSDVHjMj5) | 3:21 |
-| 47 | [Viver em Paz \- Acústico](https://open.spotify.com/track/7wnp9qhBO2q5q2ksSZTc6d) | [Filhos De Jorge](https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE) | [Acústico](https://open.spotify.com/album/74iEwmUCpwVaolgBpU9Fbd) | 4:21 |
+| 46 | [Viver em Paz \- Acústico](https://open.spotify.com/track/7wnp9qhBO2q5q2ksSZTc6d) | [Filhos De Jorge](https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE) | [Acústico](https://open.spotify.com/album/74iEwmUCpwVaolgBpU9Fbd) | 4:21 |
+| 47 | [Linguagem Não Verbal](https://open.spotify.com/track/4aCUUcW7FVCCunRs33l2rh) | [MENSANA](https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL) | [Linguagem Não Verbal](https://open.spotify.com/album/7oXCbPmUEkzokpSDVHjMj5) | 3:21 |
 | 48 | [Menina do Cabelo Bagunçado \- Acústico](https://open.spotify.com/track/6kkyL9QSddcqm9Gf0N3pTf) | [duogram](https://open.spotify.com/artist/3fuNvXraxWHImqMp0jfQ8Y) | [Menina do Cabelo Bagunçado \(Acústico\)](https://open.spotify.com/album/43oLJEvtHocvrHKoEyuLSx) | 2:16 |
 | 49 | [ciumeira](https://open.spotify.com/track/4LpYwmNEmXsLsRM8ACbQIz) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [DARAMÔ](https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1) | 2:31 |
 | 50 | [A Menina Dança](https://open.spotify.com/track/1yBwbJLOt9BcGIfrULEfun) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [A Menina Dança](https://open.spotify.com/album/6aNPMqIIQKlCZWWEQVOggq) | 2:57 |
 | 51 | [Cartas e Versos](https://open.spotify.com/track/0UQor28BlM3xdKQGAwPPyP) | [Frejat](https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw) | [Cartas e Versos](https://open.spotify.com/album/5IBBQ2VFlYpxM84DPdEPE7) | 3:19 |
 | 52 | [Espera a Primavera \- Acústico](https://open.spotify.com/track/6TEVJx9cg9qmGCiydXR4oS) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Espera a Primavera \(Acústico\)](https://open.spotify.com/album/6Oogk48Olj3FAbPTcRhtG4) | 4:14 |
-| 53 | [Faz Assim](https://open.spotify.com/track/1Fqqsix8vpczfyOvbGq079) | [Thiago Brava](https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW) | [Faz Assim](https://open.spotify.com/album/4fxqCty5vTVBInKcsPbxUn) | 3:41 |
-| 54 | [Último Romance](https://open.spotify.com/track/4zdQnUf0viZCBLaRLtFzCn) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Último Romance](https://open.spotify.com/album/3XY0aDOP9aULr9Hq5oSgdU) | 4:17 |
+| 53 | [Último Romance](https://open.spotify.com/track/4zdQnUf0viZCBLaRLtFzCn) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Último Romance](https://open.spotify.com/album/3XY0aDOP9aULr9Hq5oSgdU) | 4:17 |
+| 54 | [Faz Assim](https://open.spotify.com/track/1Fqqsix8vpczfyOvbGq079) | [Thiago Brava](https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW) | [Faz Assim](https://open.spotify.com/album/4fxqCty5vTVBInKcsPbxUn) | 3:41 |
 | 55 | [Aluga\-se](https://open.spotify.com/track/1i2vei4vkOOQB3ag6IMAYM) | [Bárbara Dias](https://open.spotify.com/artist/4qQrDEahpv67oAkkD6Zx1J) | [Aluga\-se](https://open.spotify.com/album/070l8UAuwcgrVeK1y9l4ZI) | 2:05 |
 | 56 | [Pijama \- Acústico](https://open.spotify.com/track/6G4A6r849GG4bvuVS8R5Xh) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Casa de Praia 2 \(acústico\)](https://open.spotify.com/album/2z154TdNIotc1bnI7j0pOt) | 2:55 |
 | 57 | [Energia Surreal \- Acústica](https://open.spotify.com/track/6liKLBAIOXGFuKONLG3PIs) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Energia Surreal \(Acústica\)](https://open.spotify.com/album/4sEHq6Ma5vgTsuDTLKK8lc) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 99 | [Amar Amei \- Acústico](https://open.spotify.com/track/5t9r2NifmP11xHoVa5kAVG) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Nois Tá Alto \- Acústico](https://open.spotify.com/album/4C3o0QG8RQMxuVYYBVut6u) | 3:35 |
 | 100 | [Tá Tudo Bem \- Acústico](https://open.spotify.com/track/0zKqiX4TucyNx4pHIZuZ9w) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Tá Tudo Bem \(Acústico\)](https://open.spotify.com/album/2EMPBxOpK3lYSZa5HlB0nh) | 3:41 |
 
-Snapshot ID: `AAAAAKZK9kQM50wIXqLWsFiYfKkDQNl3`
+Snapshot ID: `AAAAAEKaZsEiGfeD8BWdhTQD50T96PWH`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 
 > Electronic Trap House with Arab spices\. Cover: DJ KABOO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,311 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,310 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 | 18 | [Up](https://open.spotify.com/track/3aQ1FibqovngIl7WmQYgWC) | [Naffar](https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9) | [Up](https://open.spotify.com/album/40FRIOXfDACAYFUMrygBxW) | 2:42 |
 | 19 | [Fidaa](https://open.spotify.com/track/6AyqrV9DSKFmEqZxjjnh7E) | [VFM Style](https://open.spotify.com/artist/4ulXFvFK1pjsKvk61NQtPF) | [Arabic Trap, Pt\. 2](https://open.spotify.com/album/3ssgRjMtcAE8F2pJhZ8MGk) | 3:03 |
 | 20 | [Cataclysm جائحة](https://open.spotify.com/track/55DEy5jBZJcm75JpGZTlyC) | [Gillionaire](https://open.spotify.com/artist/74rsMLFnDYIf54HLWuKAty) | [Cataclysm جائحة](https://open.spotify.com/album/5cO6vLIAow8tq0YX4NiD4I) | 2:19 |
-| 21 | [INVASION](https://open.spotify.com/track/32ab08QJ6UyJKqtCZNqiTh) | [Dj Khalid Music](https://open.spotify.com/artist/5iu1vM00YZHexw3A8dCdkt), [Hassan Hajila](https://open.spotify.com/artist/5HOFVs3MrexrlD9Vgapn54) | [INVASION](https://open.spotify.com/album/2zua6hf4PwprRmsUaS1ooj) | 3:33 |
-| 22 | [Ankh](https://open.spotify.com/track/4qg5zuCvEWTeOb3ON0qLuc) | [Gagexa](https://open.spotify.com/artist/5voQQxmOq6cYSOmXBHVg1y) | [Ankh](https://open.spotify.com/album/6Sz6N6aIGSh7R4pGfmVpD3) | 3:20 |
+| 21 | [Ankh](https://open.spotify.com/track/4qg5zuCvEWTeOb3ON0qLuc) | [Gagexa](https://open.spotify.com/artist/5voQQxmOq6cYSOmXBHVg1y) | [Ankh](https://open.spotify.com/album/6Sz6N6aIGSh7R4pGfmVpD3) | 3:20 |
+| 22 | [INVASION](https://open.spotify.com/track/32ab08QJ6UyJKqtCZNqiTh) | [Dj Khalid Music](https://open.spotify.com/artist/5iu1vM00YZHexw3A8dCdkt), [Hassan Hajila](https://open.spotify.com/artist/5HOFVs3MrexrlD9Vgapn54) | [INVASION](https://open.spotify.com/album/2zua6hf4PwprRmsUaS1ooj) | 3:33 |
 | 23 | [İz](https://open.spotify.com/track/4FvTKZ0ZTuHcj9QZfWKlC9) | [FG](https://open.spotify.com/artist/7dGG5t1lq8eRel7cRvLj0F) | [Arabic Trap, Pt\. 3](https://open.spotify.com/album/3G3Ze4AlL2KMmbx4s19e9v) | 3:05 |
 | 24 | [Desert Lord](https://open.spotify.com/track/4is2MePvKHSLOLmCEjTT0L) | [AxLi](https://open.spotify.com/artist/2C0w7wd8qZseBpEtfYPL56) | [Desert Lord](https://open.spotify.com/album/2v5mYReoKsPOoG5QCSTDbK) | 2:05 |
 | 25 | [Unity](https://open.spotify.com/track/21YIVa2yIkwPXAQ7HxheUF) | [Hypersia](https://open.spotify.com/artist/0J7xP06wlFNZdFuSyev5jp), [Saman Mehmani](https://open.spotify.com/artist/37E7gpurZftsqEvqXkflz6), [Parsa Q](https://open.spotify.com/artist/3zmGD72DUHMMrySR1cnGZZ) | [Unity](https://open.spotify.com/album/62S1qNPlGk3XgbeeTFckkN) | 5:23 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 | 54 | [Raabta](https://open.spotify.com/track/2IEzElQ5KAtXDoJAGixG2R) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9) | [Raabta](https://open.spotify.com/album/3V1Oc07lftQBCVzijCE01A) | 3:03 |
 | 55 | [Rise](https://open.spotify.com/track/06VL0LPGJodM9Kq7j2mpcu) | [Onur Ormen](https://open.spotify.com/artist/45YI93cvo54OYOBHiNI9zL), [SVRRIC](https://open.spotify.com/artist/0itkMyNqHAzIlNwOmmET1E) | [Rise](https://open.spotify.com/album/6TfsBtepltkzcQIKSSkXnF) | 2:17 |
 
-Snapshot ID: `AAAAAFKzJg9jjzO1sFNOdS7QGnhSwYWa`
+Snapshot ID: `AAAAADXHxxgUXbTp5PESOE5cjVxCdYCm`

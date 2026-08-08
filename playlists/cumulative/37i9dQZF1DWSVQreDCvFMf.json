@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: KZ Tandingan",
+  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: Jan Roberts",
   "name": "OPM Rising",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 274840,
       "name": "24/7 LOVE & CARE",
       "url": "https://open.spotify.com/track/2UJAVgKdz24BrEUjKo2Aiq"
@@ -530,6 +530,24 @@
       "duration_ms": 184500,
       "name": "AKIN",
       "url": "https://open.spotify.com/track/5MT8VS94CftuX3KdPZdBUn"
+    },
+    {
+      "album": {
+        "name": "Aking Mahal",
+        "url": "https://open.spotify.com/album/76QGOq7Vcz426SFPwuA4AL"
+      },
+      "artists": [
+        {
+          "name": "Jed Baruelo",
+          "url": "https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293214,
+      "name": "Aking Mahal",
+      "url": "https://open.spotify.com/track/3lU0r36h07WXkeuVGz8uJC"
     },
     {
       "album": {
@@ -1345,6 +1363,24 @@
     },
     {
       "album": {
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/2L1wzQap2VjIMUZMKn0fWX"
+      },
+      "artists": [
+        {
+          "name": "John Roa",
+          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306804,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/2qKVg2sBmYBBwtLZgfXJHr"
+    },
+    {
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/4pOYu3ruXW8StaMZmXTcDs"
       },
@@ -2043,6 +2079,24 @@
     },
     {
       "album": {
+        "name": "Bawat Sulok",
+        "url": "https://open.spotify.com/album/2WhqRBhJ8F7P4Cf5vQrkmf"
+      },
+      "artists": [
+        {
+          "name": "Mark Carpio",
+          "url": "https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260500,
+      "name": "Bawat Sulok",
+      "url": "https://open.spotify.com/track/0ljWpwGZUZZIyXJcbcv6Be"
+    },
+    {
+      "album": {
         "name": "Bebe",
         "url": "https://open.spotify.com/album/1iVwS9MFswan5ib1OQK4rc"
       },
@@ -2076,6 +2130,28 @@
       "duration_ms": 121600,
       "name": "bedroom",
       "url": "https://open.spotify.com/track/7nPRtLdOTKJySFy2z2LU2s"
+    },
+    {
+      "album": {
+        "name": "Bedtime Stories",
+        "url": "https://open.spotify.com/album/2LoWWZRhmFR4IhUQryJhup"
+      },
+      "artists": [
+        {
+          "name": "El Manu",
+          "url": "https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0"
+        },
+        {
+          "name": "Jessy Kang",
+          "url": "https://open.spotify.com/artist/0gtKieDpkGRZPT6AdOBAQO"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239512,
+      "name": "Bedtime Stories",
+      "url": "https://open.spotify.com/track/6VEwbJbJhY9FpRBPzRAwEF"
     },
     {
       "album": {
@@ -2444,6 +2520,24 @@
       "duration_ms": 226940,
       "name": "boarding gate",
       "url": "https://open.spotify.com/track/0mihFDUGIA5Aybxg0rFXXt"
+    },
+    {
+      "album": {
+        "name": "Bongga Ka Day",
+        "url": "https://open.spotify.com/album/7ayFL4Q2oSClJttXop8nXB"
+      },
+      "artists": [
+        {
+          "name": "RAYA",
+          "url": "https://open.spotify.com/artist/5znkZQMPvctUwYRfBkzCr7"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183478,
+      "name": "Bongga Ka Day",
+      "url": "https://open.spotify.com/track/21NqR3XMIgTJlE1r3vw63w"
     },
     {
       "album": {
@@ -3102,7 +3196,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 289864,
       "name": "Dalawampung Taon",
       "url": "https://open.spotify.com/track/5Z3xMu0Qb9Scjm6C7KQFc1"
@@ -3921,6 +4015,24 @@
     },
     {
       "album": {
+        "name": "Edi Magalit Ka",
+        "url": "https://open.spotify.com/album/7253mHdhZHV0eyOmveYyhJ"
+      },
+      "artists": [
+        {
+          "name": "SunKissed Lola",
+          "url": "https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226464,
+      "name": "Edi Magalit Ka",
+      "url": "https://open.spotify.com/track/6xcbG14O6rkLGQAzogEqic"
+    },
+    {
+      "album": {
         "name": "Ediwag",
         "url": "https://open.spotify.com/album/1qUvXmwbKYMLtrDXJ1qmBf"
       },
@@ -4504,7 +4616,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 161470,
       "name": "Forever Tonight",
       "url": "https://open.spotify.com/track/3LZqeQyMpsO6BRvBJ4ndJU"
@@ -4902,7 +5014,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 153213,
       "name": "Goma",
       "url": "https://open.spotify.com/track/7knz5IqhMTzfP5078awLue"
@@ -6306,7 +6418,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 150638,
       "name": "I'm Good",
       "url": "https://open.spotify.com/track/2L0hF2UfJsSZEMeroy97Bv"
@@ -7961,6 +8073,24 @@
     },
     {
       "album": {
+        "name": "Pusong Pabrika",
+        "url": "https://open.spotify.com/album/1RHiU0wGKpXps7VC0t0P4s"
+      },
+      "artists": [
+        {
+          "name": "Jan Roberts",
+          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156705,
+      "name": "Kung Ayaw",
+      "url": "https://open.spotify.com/track/79QUyi043DxZVoVy50Ny61"
+    },
+    {
+      "album": {
         "name": "Kung Di Mo Alam",
         "url": "https://open.spotify.com/album/1DRvYTu2nZlcKKixTQ7iIQ"
       },
@@ -8066,7 +8196,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 186818,
       "name": "Kung Masusunod",
       "url": "https://open.spotify.com/track/6eAlaXIFCJSUJXRu4IlPuY"
@@ -9272,6 +9402,24 @@
       "duration_ms": 154127,
       "name": "Mad",
       "url": "https://open.spotify.com/track/12bFyPA8NKbNKrK6jjCoW6"
+    },
+    {
+      "album": {
+        "name": "Madaling Araw",
+        "url": "https://open.spotify.com/album/6mFlmBwzN9OWChFhjRjwyM"
+      },
+      "artists": [
+        {
+          "name": "Magnus Haven",
+          "url": "https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314043,
+      "name": "Madaling Araw",
+      "url": "https://open.spotify.com/track/2RZGETSSmOXgmHwVtNjRr4"
     },
     {
       "album": {
@@ -11259,6 +11407,24 @@
     },
     {
       "album": {
+        "name": "Next In Line (From \"Rosario\")",
+        "url": "https://open.spotify.com/album/4Cz5uLBTpnuWtvsDAG67FZ"
+      },
+      "artists": [
+        {
+          "name": "Amiel Sol",
+          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261478,
+      "name": "Next In Line - From \"Rosario\"",
+      "url": "https://open.spotify.com/track/7Mp3PaMFuf5e3Y5CIMOrmh"
+    },
+    {
+      "album": {
         "name": "Ngalan mo",
         "url": "https://open.spotify.com/album/5K20pRwZSozWqH2xn7GSha"
       },
@@ -11986,7 +12152,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 188444,
       "name": "Pag-ibig Fun",
       "url": "https://open.spotify.com/track/6YEqmic5LtdlOcaCqR9lA2"
@@ -12698,7 +12864,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 164729,
       "name": "Papel (Kinikimkim to)",
       "url": "https://open.spotify.com/track/0wC0zZmPEgN6eKY2cSNFGQ"
@@ -13623,6 +13789,24 @@
     },
     {
       "album": {
+        "name": "PULA",
+        "url": "https://open.spotify.com/album/5RtTFCbhzt9QL53QJL3Vm7"
+      },
+      "artists": [
+        {
+          "name": "XONARA",
+          "url": "https://open.spotify.com/artist/6Lp69qFA6hBPyvTIyQnujb"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201589,
+      "name": "PULA",
+      "url": "https://open.spotify.com/track/3ncshFCp6YZiPMycCSWZbP"
+    },
+    {
+      "album": {
         "name": "Pulso",
         "url": "https://open.spotify.com/album/4FEuHvrAkV2mwgaqGNN2fv"
       },
@@ -14038,7 +14222,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 149998,
       "name": "Richest Man Alive",
       "url": "https://open.spotify.com/track/2ryDLznKOALt5tBrJznBXv"
@@ -15401,6 +15585,24 @@
     },
     {
       "album": {
+        "name": "Sepanx",
+        "url": "https://open.spotify.com/album/1nCWGYMHu1Af8PzWaCFOWk"
+      },
+      "artists": [
+        {
+          "name": "SHANNi",
+          "url": "https://open.spotify.com/artist/46rXMWiYqSYCwidbAAWPTp"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331139,
+      "name": "Sepanx",
+      "url": "https://open.spotify.com/track/5xBFSrqLvNq2IXY97sG6Ux"
+    },
+    {
+      "album": {
         "name": "Shagidi",
         "url": "https://open.spotify.com/album/14xJ5Qg9sEbCJmg2vBRCUZ"
       },
@@ -15658,7 +15860,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 218181,
       "name": "Sinisigaw",
       "url": "https://open.spotify.com/track/3fANJ35TEIhdkyifPzw1ww"
@@ -17256,7 +17458,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 186136,
       "name": "teka lang",
       "url": "https://open.spotify.com/track/5zkqGMHs0EGafwqutNd7Gu"
@@ -17296,6 +17498,24 @@
       "duration_ms": 218400,
       "name": "Telepono",
       "url": "https://open.spotify.com/track/77KJXJXoaBc1xHDiENrm71"
+    },
+    {
+      "album": {
+        "name": "temporary",
+        "url": "https://open.spotify.com/album/3DZoR2ifV9Tu4yfb9oAzb1"
+      },
+      "artists": [
+        {
+          "name": "Nameless Kids",
+          "url": "https://open.spotify.com/artist/2a1RUFZ0eOATyKlPhTxOt2"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236376,
+      "name": "temporary",
+      "url": "https://open.spotify.com/track/4SUWaq2vOro4BDODgLBoZd"
     },
     {
       "album": {
@@ -18732,7 +18952,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 186577,
       "name": "What if I miss you for the rest of my life?",
       "url": "https://open.spotify.com/track/432pM7gIHQmksVaU3B50pN"
@@ -18834,7 +19054,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 228888,
       "name": "Wind It",
       "url": "https://open.spotify.com/track/6dMU3H1HqrdPmqm2c2simv"
@@ -19058,7 +19278,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 234666,
       "name": "your playlist is a lie",
       "url": "https://open.spotify.com/track/7rtzMVusuwTZtK2crtdtpO"

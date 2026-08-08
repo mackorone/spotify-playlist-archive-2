@@ -1,12 +1,12 @@
 {
   "description": "Pure joy and then some",
-  "num_followers": 1078510,
+  "num_followers": 1078485,
   "original_name": "Happy Pop Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHBikG+Ds2eThGXg/t1QUAHVFNCT",
+  "snapshot_id": "AAAAAM2pu8FX2xrI7HV1QiDD58gOpGOf",
   "tracks": [
     {
       "added_at": "2026-04-24 08:55:36",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-04-24 08:55:36",
       "album": {
+        "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 171782,
+      "name": "Austin (Boots Stop Workin')",
+      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
+    },
+    {
+      "added_at": "2026-04-24 08:55:36",
+      "album": {
         "name": "Funk Wav Bounces Vol.1",
         "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 223413,
       "name": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
       "url": "https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke"
-    },
-    {
-      "added_at": "2026-04-24 08:55:36",
-      "album": {
-        "name": "What Happens Now?",
-        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 171782,
-      "name": "Austin (Boots Stop Workin')",
-      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
     },
     {
       "added_at": "2026-04-24 08:55:36",
@@ -775,38 +775,6 @@
     {
       "added_at": "2026-04-24 08:55:36",
       "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
-    },
-    {
-      "added_at": "2026-04-24 08:55:36",
-      "album": {
-        "name": "Lil Boo Thang",
-        "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
-      },
-      "artists": [
-        {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
-        }
-      ],
-      "duration_ms": 114233,
-      "name": "Lil Boo Thang",
-      "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
-    },
-    {
-      "added_at": "2026-04-24 08:55:36",
-      "album": {
         "name": "Leak It",
         "url": "https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K"
       },
@@ -823,6 +791,22 @@
     {
       "added_at": "2026-04-24 08:55:36",
       "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
+    },
+    {
+      "added_at": "2026-04-24 08:55:36",
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 177954,
       "name": "Late Night Talking",
       "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
+    },
+    {
+      "added_at": "2026-04-24 08:55:36",
+      "album": {
+        "name": "Lil Boo Thang",
+        "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        }
+      ],
+      "duration_ms": 114233,
+      "name": "Lil Boo Thang",
+      "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
     },
     {
       "added_at": "2026-04-24 08:55:36",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-04-24 08:55:36",
       "album": {
-        "name": "Short n' Sweet (Deluxe)",
-        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 191519,
-      "name": "15 Minutes",
-      "url": "https://open.spotify.com/track/1zhvxTuSha22nsUT5Nw8gE"
-    },
-    {
-      "added_at": "2026-04-24 08:55:36",
-      "album": {
         "name": "Wuthering Heights",
         "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 182038,
       "name": "Dying for You",
       "url": "https://open.spotify.com/track/0T3sHoiR3t9HtwbIOgTI7J"
+    },
+    {
+      "added_at": "2026-04-24 08:55:36",
+      "album": {
+        "name": "Short n' Sweet (Deluxe)",
+        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 191519,
+      "name": "15 Minutes",
+      "url": "https://open.spotify.com/track/1zhvxTuSha22nsUT5Nw8gE"
     },
     {
       "added_at": "2026-04-24 08:55:36",

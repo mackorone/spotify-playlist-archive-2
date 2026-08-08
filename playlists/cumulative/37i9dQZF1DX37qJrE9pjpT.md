@@ -4,7 +4,7 @@
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Young Lunya
 
-289 songs - 16 hr 30 min
+290 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Hustler](https://open.spotify.com/track/0zgQiHa7Nz7pQeOcX2aWvf) | [Nay Wa Mitego](https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Hustler](https://open.spotify.com/album/0zEotmeupAaQUANpl2GBew) | 3:42 | 2024-11-07 | 2025-08-29 |
 | [I Don't Give A Damn](https://open.spotify.com/track/4CswUHkWXUFGUKPVchrAXV) | [Sela Ninja](https://open.spotify.com/artist/6iqemSjNOiy7P6OEsbGTUS), [Parab Poet](https://open.spotify.com/artist/36jIqKFiAeX8FunGl8fn7D) | [I Don't Give A Damn](https://open.spotify.com/album/6oNhNQoA1vDnVmRhm211hp) | 3:56 | 2022-09-02 | 2023-07-14 |
 | [In Too Deep](https://open.spotify.com/track/1yUouKyKMhi35uipb9dS1C) | [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [In Too Deep](https://open.spotify.com/album/6MzrChd39GWAtvFe9kcFpH) | 3:27 | 2024-01-19 | 2024-06-07 |
+| [Iringa Town](https://open.spotify.com/track/1gJjFZqnaTe6wvF6Vy4dtA) | [Tinnvibez](https://open.spotify.com/artist/5v7lTKo9huWESk66kg78VX) | [Iringa Town](https://open.spotify.com/album/4jci95MDyirQ0tHPCHvKzP) | 2:12 | 2026-08-06 |  |
 | [Israel & Palestine Tears \- Freestyle](https://open.spotify.com/track/1hnL006ccbtZuepaGvfEKJ) | [Rapcha](https://open.spotify.com/artist/3AaJQYhvfd09pcBKzNwEaa), [Vii Sugar Boy](https://open.spotify.com/artist/2BE2wbegLNKCxfPe7jgXA3), [Yogo Beats](https://open.spotify.com/artist/4kdhLH9zjxk50h38W4NhwP) | [Israel & Palestine Tears \(Freestyle\)](https://open.spotify.com/album/4sNn9Mo6H9ePvEMoSAeltF) | 5:48 | 2023-11-16 | 2024-06-21 |
 | [It's Your Boy](https://open.spotify.com/track/6ukYEennm4qhPWKjm1YM9d) | [Joh Makini](https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0) | [It's Your Boy](https://open.spotify.com/album/4DyQXOsMsTcEJRBUKeycRR) | 3:55 | 2024-11-07 | 2026-06-20 |
 | [Jimmy to London](https://open.spotify.com/track/5MCOGR0s14nqzGNusvmRWu) | [Bank Budha](https://open.spotify.com/artist/073OZYfKOK3OAGCcnfX82O), [Blinded Beats](https://open.spotify.com/artist/1YfhhXl6NSRLnXeHXgPiS7) | [Jimmy to London](https://open.spotify.com/album/043dxh8Sr8fC7s955ytwZ5) | 2:48 | 2024-07-25 | 2025-08-29 |

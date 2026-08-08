@@ -2,9 +2,9 @@
 
 ### [Acoustic Soul](https://open.spotify.com/playlist/37i9dQZF1DX5lDysu4GbKR)
 
-> Stripped back vibes\. Cover:  James Savage
+> Stripped back vibes\. Cover:  Mack Keane
 
-316 songs - 18 hr 18 min
+319 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Fly Away \(feat\. Tia Gordon\) \- Acoustic](https://open.spotify.com/track/4ZuqYS5JvFf63b5C3w8OEy) | [TAVE](https://open.spotify.com/artist/76ZWyAjoSOf6v8kH3UqLEK), [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Fly Away \(feat\. Tia Gordon\) \[Acoustic\]](https://open.spotify.com/album/56dsT4NaBu8p9pMrCtAlAc) | 2:34 | 2025-12-12 |  |
 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 | 2021-12-09 |  |
 | [Free \- Acoustic Version](https://open.spotify.com/track/2Rn92MnXejzNAoVU74nm2F) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Free \(Acoustic Version\)](https://open.spotify.com/album/4Od7QH0SgdhW7R4KMsdlrh) | 4:09 | 2025-06-06 |  |
+| [From Him](https://open.spotify.com/track/7mRMNGlDaNxe8x8VT1gGsa) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Catch n' Release](https://open.spotify.com/album/7xyEdU4cfiwBoiNu6GvIEJ) | 3:11 | 2026-08-07 |  |
 | [Gentlemen Don't](https://open.spotify.com/track/6qz64OVGikyW6lgiGabdzJ) | [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv), [Melissa Polinar](https://open.spotify.com/artist/2O6S01fSY6YHfZT6qLAgxG), [Gabe Bondoc](https://open.spotify.com/artist/6YloMIsWjpHzIRK8s5tzAr) | [Thankful](https://open.spotify.com/album/2yhzbRsA4dOr3OV5gzHXqt) | 3:08 | 2021-12-09 | 2022-01-14 |
 | [Get You \- Live at The Dairy, London, 2018](https://open.spotify.com/track/2EJWix6iALSlWsZafPUPw6) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Live at The Dairy](https://open.spotify.com/album/1FsLkDdBvnFcPQLxKCq4pb) | 4:13 | 2021-12-09 | 2022-01-26 |
 | [Give Me A Smile](https://open.spotify.com/track/1r9wRselEkfiKoN8tpzOGl) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:57 | 2025-09-19 |  |
@@ -190,6 +191,7 @@
 | [Mistake](https://open.spotify.com/track/38bzNP9KHaTeaG4EwdOLf9) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Mistake](https://open.spotify.com/album/06NA82WXFGl8FONIcKRAGD) | 3:06 | 2021-12-09 | 2023-04-13 |
 | [Mistake](https://open.spotify.com/track/4weUiA7GoG1c49Qhi7L3wo) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Mistake](https://open.spotify.com/album/52XTidxLxkZaIeWTzT3Hbx) | 3:06 | 2023-04-07 | 2024-02-09 |
 | [More Than Twice](https://open.spotify.com/track/6Jy9uF2uWIWVwgtWkT2yGm) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 4:33 | 2025-06-06 |  |
+| [MORNING DEW \(DONK\) ACOUSTIC 4:44](https://open.spotify.com/track/6FTmVdG0uNgQ9z2GwsS09I) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [MORNING DEW \(DONK\) REMIX PACK](https://open.spotify.com/album/6zaCeCipglDayKB85IVKRl) | 4:44 | 2026-08-07 |  |
 | [my dear](https://open.spotify.com/track/3P9FzuL9eYOX152OFt4Rni) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [my dear](https://open.spotify.com/album/3jxlj4H0Cu6PGgTtu60baC) | 2:12 | 2022-03-24 | 2022-10-13 |
 | [my dear](https://open.spotify.com/track/6gt1hp6vmwR45wC67Zu4rx) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [my dear](https://open.spotify.com/album/5oJXHbrcbTpww5UMaBMXFC) | 2:12 | 2022-09-29 | 2023-05-19 |
 | [Myself](https://open.spotify.com/track/0bLbPaF1ep7eVCEVemvYeV) | [Marvin Brooks](https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6) | [Myself](https://open.spotify.com/album/70ovgYVVme5Lu3wY16ISNs) | 2:49 | 2022-06-16 |  |
@@ -253,6 +255,7 @@
 | [SHIVER](https://open.spotify.com/track/4zJh7D3QxnCTJ3Uvsow5iN) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [SUNSET BLACK](https://open.spotify.com/album/0OtYksI5BZRkt4xWj7bCN6) | 3:14 | 2025-02-21 |  |
 | [Simple](https://open.spotify.com/track/3jdDlPCVxwqv3Ars52mXcR) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Tiara Thomas](https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI) | [The Last Great American Summer](https://open.spotify.com/album/7fXy1E3B6kP1Ct77Lk6YHC) | 3:31 | 2025-09-19 |  |
 | [Slow Down \(Acoustic\)](https://open.spotify.com/track/4o905HLa1RQPXYBfxeCF16) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [When I Wake up \- Acoustic EP](https://open.spotify.com/album/7HiIZJHO9SNjFqorG8EzdK) | 2:36 | 2021-12-09 | 2022-01-14 |
+| [Sober](https://open.spotify.com/track/5wGL57ptOqYqpTJlhey0k7) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [THERAPY AT THE CLUB](https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf) | 2:31 | 2026-08-07 |  |
 | [Socials \- Acoustic](https://open.spotify.com/track/643kFnFHrshqpBVJHPqS45) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [Elvis from Paradise](https://open.spotify.com/artist/199vtJaeoEBE4m4yJoB4wp), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Socials \(Acoustic\)](https://open.spotify.com/album/2HxdLVy8eXluEKfQnbut9l) | 3:04 | 2021-12-09 | 2024-02-09 |
 | [Soldier](https://open.spotify.com/track/3oye3VyqKTfffB8D3KdkGb) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Pink Magnolia \(Deluxe\)](https://open.spotify.com/album/34gCWRw6h4xYIqzKctIx8x) | 2:53 | 2024-12-14 |  |
 | [somebody new](https://open.spotify.com/track/5hiKumtJTCHaaWwgxdpnoD) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [cloudy](https://open.spotify.com/album/07qAkNgFlbkUpIJzT3jtTf) | 4:26 | 2024-11-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFO9vNZ6ym4.md) - [plain]
 
 > Bringing the energy to hype you up
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,187 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,189 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFO9vNZ6ym4.md) - [plain]
 | 49 | [Love Is The Only Thing](https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Love Is The Only Thing](https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59) | 2:51 |
 | 50 | [So Much In Love](https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [So Much In Love](https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX) | 2:58 |
 
-Snapshot ID: `AAAAAOXlYhQE7UXCnvRLDjYO+tRY1mJR`
+Snapshot ID: `AAAAALlXv0sUaXdb2MU8BQXMiOMPpgJQ`

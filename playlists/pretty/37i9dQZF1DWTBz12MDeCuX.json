@@ -1,12 +1,12 @@
 {
   "description": "Die Playlist, die dich f\u00fchlt. Cover: AD\u00c9LA",
-  "num_followers": 477321,
+  "num_followers": 477280,
   "original_name": "me right now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP3wsAELiJwkiNy3/V682DCBNfmm",
+  "snapshot_id": "AAAAAP6JGEfXps54kzy57SOwDEqGzp0v",
   "tracks": [
     {
       "added_at": "2026-08-06 22:00:56",
@@ -104,12 +104,12 @@
           "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
         },
         {
-          "name": "Gustav",
-          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
-        },
-        {
           "name": "Zachi",
           "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
+        },
+        {
+          "name": "Gustav",
+          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
         }
       ],
       "duration_ms": 148520,

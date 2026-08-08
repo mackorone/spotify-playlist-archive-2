@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4a0nQYnltiQ.md) - [plain]
 
 > The \#1 Destination for the best melodies in the world\. Cover: FLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,551 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,506 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4a0nQYnltiQ.md) - [plain]
 | 69 | [Rhythm](https://open.spotify.com/track/75DV6KHoL58McX0a9S8vap) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS), [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Rhythm](https://open.spotify.com/album/7cqi9bRIdSljdeDXdWDgB0) | 2:37 |
 | 70 | [Brick By Brick](https://open.spotify.com/track/3LN7i6dp0VlW9rD5H5uDOJ) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Brick By Brick](https://open.spotify.com/album/4GAfWtz9zZoJhu4jAzNPx5) | 2:39 |
 
-Snapshot ID: `AAAAABSl/uqXnJxAHOTFqY8ui9wM2pCT`
+Snapshot ID: `AAAAAB+uh8/aRRBVATYoLNf6islEuLw6`

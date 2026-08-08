@@ -1,12 +1,12 @@
 {
   "description": "Aqu\u00ed viven las ac\u00fasticas. Cover: Valentina Rico",
-  "num_followers": 1758034,
+  "num_followers": 1757720,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEFUuFZ/uldYl2WLDFCfkRxJaC9v",
+  "snapshot_id": "AAAAAN6Dy+hhW1XT4aaCxeCX19YMGvJX",
   "tracks": [
     {
       "added_at": "2026-01-16 05:00:38",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Tour 2007",
-        "url": "https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 324826,
-      "name": "La chispa adecuada - Live",
-      "url": "https://open.spotify.com/track/25TiUPCYa2KYp3LFENEkJM"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "So\u00f1\u00e9 Contigo",
         "url": "https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 211935,
       "name": "So\u00f1\u00e9 Contigo",
       "url": "https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "Tour 2007",
+        "url": "https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 324826,
+      "name": "La chispa adecuada - Live",
+      "url": "https://open.spotify.com/track/25TiUPCYa2KYp3LFENEkJM"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Tr3s Presents Juanes MTV Unplugged",
-        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 269360,
-      "name": "Volverte A Ver - MTV Unplugged",
-      "url": "https://open.spotify.com/track/5ZGKfUrzXHHn3JIn2hfKV0"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "chiquita",
         "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 198720,
       "name": "culpa",
       "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "Tr3s Presents Juanes MTV Unplugged",
+        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 269360,
+      "name": "Volverte A Ver - MTV Unplugged",
+      "url": "https://open.spotify.com/track/5ZGKfUrzXHHn3JIn2hfKV0"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/1t3e3Py0eA1SPRC1vETI3i"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 258412,
-      "name": "Volv\u00ed a Nacer - Live from Spotify",
-      "url": "https://open.spotify.com/track/3BEuTuiAgJLROYMELwLujm"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "Shakira MTV Unplugged",
         "url": "https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 170795,
       "name": "pa' que sue\u00f1es",
       "url": "https://open.spotify.com/track/4KuSic9vPLVLgB5lCfeFQy"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/1t3e3Py0eA1SPRC1vETI3i"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 258412,
+      "name": "Volv\u00ed a Nacer - Live from Spotify",
+      "url": "https://open.spotify.com/track/3BEuTuiAgJLROYMELwLujm"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Te acuerdas?",
-        "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
-      },
-      "artists": [
-        {
-          "name": "Paul Alone",
-          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
-        }
-      ],
-      "duration_ms": 183265,
-      "name": "Te acuerdas?",
-      "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "Acustico",
         "url": "https://open.spotify.com/album/7nWAePPkngD730y97WP8H1"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 453893,
       "name": "Algo M\u00e1s (Versi\u00f3n Ac\u00fastica) (with Miguel Inzunza) - En Vivo",
       "url": "https://open.spotify.com/track/4lsQ95QbbWVlJYjsRxsOda"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "Te acuerdas?",
+        "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
+      },
+      "artists": [
+        {
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
+        }
+      ],
+      "duration_ms": 183265,
+      "name": "Te acuerdas?",
+      "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
+        "name": "Derrumbe",
+        "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
       },
       "artists": [
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 255650,
-      "name": "La Carretera - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8"
+      "duration_ms": 131999,
+      "name": "Derrumbe",
+      "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Derrumbe",
-        "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
       },
       "artists": [
         {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         }
       ],
-      "duration_ms": 131999,
-      "name": "Derrumbe",
-      "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
+      "duration_ms": 255650,
+      "name": "La Carretera - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/0COUHCrbpLcVNCI8ITVMhi"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 281640,
+      "name": "No Lo So\u00f1\u00e9 - Version Acustico",
+      "url": "https://open.spotify.com/track/6chtkBSmt7RorTFD8EQtXx"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
         "name": "Qu\u00e9 Dulce",
         "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 133666,
       "name": "Qu\u00e9 Dulce",
       "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/0COUHCrbpLcVNCI8ITVMhi"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 281640,
-      "name": "No Lo So\u00f1\u00e9 - Version Acustico",
-      "url": "https://open.spotify.com/track/6chtkBSmt7RorTFD8EQtXx"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Mocca",
-        "url": "https://open.spotify.com/album/0phsHpTN3MkMVVN74oyM3Q"
-      },
-      "artists": [
-        {
-          "name": "Melanie Espinosa",
-          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
-        }
-      ],
-      "duration_ms": 95000,
-      "name": "Mocca",
-      "url": "https://open.spotify.com/track/55TZBuEIVVCIAKMmITvrFe"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "En Ac\u00fastico",
         "url": "https://open.spotify.com/album/6SIva4NYVKvJoJVfExZYDk"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 207207,
       "name": "Destino - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1UUAtmVInu4DNChh5HYiHk"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "Mocca",
+        "url": "https://open.spotify.com/album/0phsHpTN3MkMVVN74oyM3Q"
+      },
+      "artists": [
+        {
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
+        }
+      ],
+      "duration_ms": 95000,
+      "name": "Mocca",
+      "url": "https://open.spotify.com/track/55TZBuEIVVCIAKMmITvrFe"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "Amanec\u00ed Nublado",
-      "url": "https://open.spotify.com/track/2K6QLnzA48e8G1fqR6RTYV"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "Como Antes (Remix Acustico)",
         "url": "https://open.spotify.com/album/4kmeebwvosASgsi4bDHIIi"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 207788,
       "name": "Como Antes - Remix Acustico",
       "url": "https://open.spotify.com/track/76MyowWwAS93Lj4R9apUeh"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 174106,
+      "name": "Amanec\u00ed Nublado",
+      "url": "https://open.spotify.com/track/2K6QLnzA48e8G1fqR6RTYV"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -1711,6 +1711,26 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
+        "name": "La Parte Buena",
+        "url": "https://open.spotify.com/album/4I2udXkfy3th0HSo0wR7xc"
+      },
+      "artists": [
+        {
+          "name": "Karen M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
+        },
+        {
+          "name": "Fase",
+          "url": "https://open.spotify.com/artist/5ee1RFcMCpiLXVSVKYxDbW"
+        }
+      ],
+      "duration_ms": 223634,
+      "name": "La Parte Buena",
+      "url": "https://open.spotify.com/track/7qXpn9MV3tBoEWI7kr13rQ"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
         "name": "En Medio De Este Ruido",
         "url": "https://open.spotify.com/album/5P1JlJLQHC5YqZEXBZtmjf"
       },
@@ -1723,22 +1743,6 @@
       "duration_ms": 247213,
       "name": "En Medio De Este Ruido",
       "url": "https://open.spotify.com/track/1HnsGkbzPZDV0yuI0iVbPw"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
-        "name": "Matadero 5 (Live)",
-        "url": "https://open.spotify.com/album/3paLi9xpW1JqE1BdBSaB2V"
-      },
-      "artists": [
-        {
-          "name": "Taburete",
-          "url": "https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT"
-        }
-      ],
-      "duration_ms": 152355,
-      "name": "Cuando Se Apaga la Luz (Live)",
-      "url": "https://open.spotify.com/track/5pdCo4Yix1Z81XC5saZ7FI"
     }
   ],
   "unique_name": "Ac\u00fasticas",

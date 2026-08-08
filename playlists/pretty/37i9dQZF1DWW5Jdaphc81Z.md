@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5Jdaphc81Z.md) - [plain]
 
 > Argy is taking over mykonos season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,460 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,779 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5Jdaphc81Z.md) - [plain]
 | 56 | [High On Me](https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [High On Me](https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J) | 3:09 |
 | 57 | [Gorah](https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Gorah](https://open.spotify.com/album/31Dhd35ip9kwOzHZhzFzZ1) | 4:06 |
 | 58 | [Together](https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Together](https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH) | 2:33 |
-| 59 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/1BktkzhQ6rhP1jTREtUdPK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 3:51 |
-| 60 | [Jackie B](https://open.spotify.com/track/6AriBfTagIjKVUov3WEwOa) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [JOSEPH \(CH\)](https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Jackie B](https://open.spotify.com/album/6bl2DvR8JpxauHqG7PjOmg) | 3:37 |
+| 59 | [Jackie B](https://open.spotify.com/track/6AriBfTagIjKVUov3WEwOa) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [JOSEPH \(CH\)](https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Jackie B](https://open.spotify.com/album/6bl2DvR8JpxauHqG7PjOmg) | 3:37 |
+| 60 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/1BktkzhQ6rhP1jTREtUdPK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 3:51 |
 | 61 | [Crazy For It](https://open.spotify.com/track/0nZUQdt97RJ429I0FuAO2r) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Vinson](https://open.spotify.com/artist/1ER9vmM8lqAB19a30WwA0b), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Crazy For It](https://open.spotify.com/album/6M1Ll5Gwpeyvpc0xYmhTT1) | 4:10 |
 | 62 | [The Less I Know The Better](https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [The Less I Know The Better](https://open.spotify.com/album/37k9VMEhAj9tO9g7MTkHWk) | 2:56 |
 | 63 | [Don't Stop](https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Don't Stop](https://open.spotify.com/album/0rSgVoJE8fncqD9bJU0Ltq) | 2:27 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5Jdaphc81Z.md) - [plain]
 | 95 | [Moon](https://open.spotify.com/track/3WUpAOAJVMxwJgIywyDWog) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Moon](https://open.spotify.com/album/1Gs4CfY1YfYLYolnyCd4lX) | 3:22 |
 | 96 | [No Shape Without You](https://open.spotify.com/track/61z9JuSmy3ojIWoVhGHQAE) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [LevyM](https://open.spotify.com/artist/6kekX8B3zzb3xBsX4KQgAg) | [No Shape Without You](https://open.spotify.com/album/3vrD2T9rErhaCbc4wV1UYf) | 4:25 |
 | 97 | [Everywhere I Go](https://open.spotify.com/track/2bVWX3FQDrlJGMPXKDmwzh) | [Vidojean X Oliver Loenn](https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH) | [Everywhere I Go](https://open.spotify.com/album/04ICl7czgH66DbIDQosXuK) | 2:58 |
-| 98 | [Feel](https://open.spotify.com/track/4g4Qv1Ya8Yw4lrjSt1LlBJ) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Dotr](https://open.spotify.com/album/4XyaObpQDL61LtLerqAeHx) | 3:39 |
-| 99 | [Lo Que Tú Sientes](https://open.spotify.com/track/1h1ahCwofW0gBDHXrONOkY) | [A\-Clark](https://open.spotify.com/artist/5zwkmbdSZp79iOJBwTwgYI), [VINNY](https://open.spotify.com/artist/0r5M9jCT1IXSYq9LJjrnyZ) | [Lo Que Tú Sientes](https://open.spotify.com/album/0rOGG6s0sQBSvZETLEjihg) | 3:26 |
+| 98 | [Lo Que Tú Sientes](https://open.spotify.com/track/1h1ahCwofW0gBDHXrONOkY) | [A\-Clark](https://open.spotify.com/artist/5zwkmbdSZp79iOJBwTwgYI), [VINNY](https://open.spotify.com/artist/0r5M9jCT1IXSYq9LJjrnyZ) | [Lo Que Tú Sientes](https://open.spotify.com/album/0rOGG6s0sQBSvZETLEjihg) | 3:26 |
+| 99 | [Feel](https://open.spotify.com/track/4g4Qv1Ya8Yw4lrjSt1LlBJ) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Dotr](https://open.spotify.com/album/4XyaObpQDL61LtLerqAeHx) | 3:39 |
 | 100 | [Unjust](https://open.spotify.com/track/7qHc4dGw5Bnfaa6RkGOFu0) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Madmix](https://open.spotify.com/artist/33CPdnBb3lDoa1adNWa6Zt), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Unjust](https://open.spotify.com/album/4TkMSfIK0rOsSoAgRJOifr) | 3:47 |
 
-Snapshot ID: `AAAAANvyWIUl2loUBKOKxLMcW+fgfz0+`
+Snapshot ID: `AAAAAN/ibwO7KyjJguDq6Kdrvpj4TB1t`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,611 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,871 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 37 | [All My Friends](https://open.spotify.com/track/4bDhE89Vq92CWTvwFb8zP8) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Loner](https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5) | 3:20 |
 | 38 | [Blackoak](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Blackoak](https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9) | 4:48 |
 | 39 | [Ultramoon](https://open.spotify.com/track/5qbjYuBa1o7uHwMhl779jV) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Ultramoon](https://open.spotify.com/album/6O8GMEXbeYI10TNpsTVvKW) | 4:16 |
-| 40 | [Can't Get You out of My Head \- Peggy Gou’s Midnight Remix](https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Can't Get You out of My Head \(Peggy Gou’s Midnight Remix\)](https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3) | 4:31 |
-| 41 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 |
+| 40 | [You Don't Want To Think About It](https://open.spotify.com/track/3ULfGDITqxInNepI808JDe) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Noa Milee](https://open.spotify.com/artist/2CvZc8HOLU2V2ykXCUlaC4) | [You Don't Want To Think About It](https://open.spotify.com/album/2BzcIVU5DxiR4yvdm2iClK) | 2:22 |
+| 41 | [Can't Get You out of My Head \- Peggy Gou’s Midnight Remix](https://open.spotify.com/track/1Rnx52PUuhrLrj306hOZHb) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Can't Get You out of My Head \(Peggy Gou’s Midnight Remix\)](https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3) | 4:31 |
 | 42 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 |
-| 43 | [You Don't Want To Think About It](https://open.spotify.com/track/3ULfGDITqxInNepI808JDe) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Noa Milee](https://open.spotify.com/artist/2CvZc8HOLU2V2ykXCUlaC4) | [You Don't Want To Think About It](https://open.spotify.com/album/2BzcIVU5DxiR4yvdm2iClK) | 2:22 |
+| 43 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 |
 | 44 | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 2:30 |
 | 45 | [Sound of You \(ft TEED\)](https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Sound of You \(ft TEED\)](https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw) | 3:56 |
 | 46 | [Baby Blue \(feat\. Oliver Sim\)](https://open.spotify.com/track/03vfFtmD5SMZ7rpQm6KXTv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Anemoia](https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH) | 4:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 49 | [You and Me](https://open.spotify.com/track/00bq71I9OZ87M6jZqQFV6I) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Renaissance](https://open.spotify.com/album/3kiAgcLVuNcvVP2HhMkup9) | 3:34 |
 | 50 | [Better](https://open.spotify.com/track/28Fhf4E24Y4iZqQ09nOUJx) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Better](https://open.spotify.com/album/06YNty6N97umwjZFABQnvn) | 3:50 |
 
-Snapshot ID: `AAAAAONZgg9i5zw+Wk6jXt/Gb1uR+4CM`
+Snapshot ID: `AAAAAMQd4tROA0ltEb5CdtvI0S8z2gfM`

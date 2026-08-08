@@ -1,12 +1,12 @@
 {
   "description": "This is Neck Deep. The essential tracks, all in one playlist.",
-  "num_followers": 72915,
+  "num_followers": 72919,
   "original_name": "This Is Neck Deep",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAABgIIjKC/Fyy1GPvt0lFknu",
+  "snapshot_id": "anPOgAAAAADu3fX3l6Psnwi9u/+Mk65X",
   "tracks": [
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 169828,
-      "name": "I Hope This Comes Back To Haunt You",
-      "url": "https://open.spotify.com/track/16cC7n6IU1tNQnsABUDGvX"
+      "duration_ms": 165046,
+      "name": "Serpents",
+      "url": "https://open.spotify.com/track/4SqIMK3ILlAsC4FkVgC4Lf"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 165046,
-      "name": "Serpents",
-      "url": "https://open.spotify.com/track/4SqIMK3ILlAsC4FkVgC4Lf"
+      "duration_ms": 169828,
+      "name": "I Hope This Comes Back To Haunt You",
+      "url": "https://open.spotify.com/track/16cC7n6IU1tNQnsABUDGvX"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 94145,
-      "name": "Kick It",
-      "url": "https://open.spotify.com/track/54u8VbDveaKMQVTj0NDzrT"
+      "duration_ms": 175653,
+      "name": "Over and Over",
+      "url": "https://open.spotify.com/track/2dIqAytE9D0jL6VmlQHylS"
     },
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 175653,
-      "name": "Over and Over",
-      "url": "https://open.spotify.com/track/2dIqAytE9D0jL6VmlQHylS"
+      "duration_ms": 94145,
+      "name": "Kick It",
+      "url": "https://open.spotify.com/track/54u8VbDveaKMQVTj0NDzrT"
     }
   ],
   "unique_name": "This Is Neck Deep",

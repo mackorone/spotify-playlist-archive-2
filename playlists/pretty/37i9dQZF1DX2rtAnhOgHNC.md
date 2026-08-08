@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2rtAnhOgHNC.md) - [plain]
 
 > Los grandes éxitos de la década pasada, en México\. Carla Morrison en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,976 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,009 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2rtAnhOgHNC.md) - [plain]
 | 39 | [Dulce Soledad](https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 |
 | 40 | [No Me Hubiera Enamorado](https://open.spotify.com/track/6XiSceaDaO2vaYF2B2A70t) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [El Problema](https://open.spotify.com/album/3wZCydFnWWZhm5osBdul0s) | 3:27 |
 | 41 | [Desde Esa Noche \(feat\. Maluma\)](https://open.spotify.com/track/1pWYnQIlqxTh5bxuPmTG4E) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Latina](https://open.spotify.com/album/4hQcPgUoOykA7IzS6av6ox) | 3:47 |
-| 42 | [Amigos No por Favor \(Primera Fila\) \- En Vivo](https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 3:45 |
-| 43 | [Mala Fama](https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:02 |
+| 42 | [Mala Fama](https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:02 |
+| 43 | [Amigos No por Favor \(Primera Fila\) \- En Vivo](https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 3:45 |
 | 44 | [Visita](https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 |
 | 45 | [Que Lo Nuestro Se Quede Nuestro](https://open.spotify.com/track/3rtxFFGZ10e2vYBo7PsPf2) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:42 |
 | 46 | [No Me Voy A Morir](https://open.spotify.com/track/5qTWewFdT4gI0hJet8HKJW) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Sueño Electro I](https://open.spotify.com/album/35O4GLVm6F2fa7uRjYdzK5) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2rtAnhOgHNC.md) - [plain]
 | 49 | [No Me Acuerdo](https://open.spotify.com/track/1G586ld1gbaECg4Bc6w40O) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Valiente](https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG) | 3:37 |
 | 50 | [¿Cómo Pagarte?](https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:31 |
 
-Snapshot ID: `AAAAAMK9+7UcUmhdU23idmI+GDDexBqm`
+Snapshot ID: `AAAAAJqAQXJmU9VonzgU17QDUkXGMe5h`

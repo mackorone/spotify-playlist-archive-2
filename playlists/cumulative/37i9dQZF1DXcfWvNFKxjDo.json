@@ -85191,7 +85191,7 @@
         },
         {
           "name": "Maurice",
-          "url": "https://open.spotify.com/artist/5U8z7YZPfu66haFS221lgE"
+          "url": "https://open.spotify.com/artist/71ISd9r7s72oVofsujmIiu"
         }
       ],
       "date_added": "2026-08-06",
@@ -128927,6 +128927,24 @@
     },
     {
       "album": {
+        "name": "LIFE",
+        "url": "https://open.spotify.com/album/0vL3Vv27UfbRVLL7B9j1ab"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232306,
+      "name": "this is the moment (cuerpo)",
+      "url": "https://open.spotify.com/track/1AF9gqUhT9jyOHDzDUTZMc"
+    },
+    {
+      "album": {
         "name": "This Madness",
         "url": "https://open.spotify.com/album/7csQW2YtxAvpHUEK07sVDj"
       },
@@ -131422,24 +131440,6 @@
       "duration_ms": 162580,
       "name": "Toxic Symphony",
       "url": "https://open.spotify.com/track/5sf7RuZBQftrEfrK76uiGx"
-    },
-    {
-      "album": {
-        "name": "LIFE",
-        "url": "https://open.spotify.com/album/0vL3Vv27UfbRVLL7B9j1ab"
-      },
-      "artists": [
-        {
-          "name": "Funk Tribu",
-          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
-        }
-      ],
-      "date_added": "2026-08-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/1AF9gqUhT9jyOHDzDUTZMc"
     },
     {
       "album": {

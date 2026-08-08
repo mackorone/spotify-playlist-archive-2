@@ -2,9 +2,9 @@
 
 ### [ALT NOW](https://open.spotify.com/playlist/37i9dQZF1DWVqJMsgEN0F4)
 
-> Michigander along with the hottest alternative songs right now.
+> Weezer along with the hottest alternative songs right now.
 
-1,169 songs - 2 day 18 hr 54 min
+1,172 songs - 2 day 19 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Burning](https://open.spotify.com/track/07IAGsfYqS8sZSECzK1hZK) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Burning](https://open.spotify.com/album/71Dk5SUWHmMrRnfPwYRnGB) | 4:05 | 2022-09-16 | 2022-10-01 |
 | [Burning](https://open.spotify.com/track/4JFet0crxTPHFV2n1ZqZKV) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:05 | 2022-09-30 | 2023-04-01 |
 | [Burnout Days](https://open.spotify.com/track/1zBP4F9PUGfH8Ll3U1V31y) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Burnout Days](https://open.spotify.com/album/55d55SbCCo7jCmBFvCvDBC) | 3:38 | 2025-03-14 | 2025-04-26 |
+| [C.E.O.](https://open.spotify.com/track/6ZsVaTDPoRFCX9evH3x1U7) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [C.E.O.](https://open.spotify.com/album/02x4x22HOnv0j9Zk1FJpeY) | 2:54 | 2026-08-07 |  |
 | [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:04 | 2023-07-14 | 2024-02-24 |
 | [Call Me Up](https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Call Me Up](https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO) | 2:41 | 2024-05-10 | 2024-06-29 |
 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 | 2023-02-17 | 2023-05-13 |
@@ -188,6 +189,7 @@
 | [Carsick](https://open.spotify.com/track/0vk4PPSvobFbKhnAPro0ju) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Carsick](https://open.spotify.com/album/3TynRnLMuOcoFJf88r5qio) | 2:44 | 2024-01-19 | 2024-04-19 |
 | [Catch A Wave](https://open.spotify.com/track/2bGU2ScfsMGIH5GklLmUvL) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Makua](https://open.spotify.com/artist/7pQXV7o6wsKQgdEeomlBca) | [Catch A Wave](https://open.spotify.com/album/2NUGRVibcn0AFYbE90ULXh) | 2:50 | 2026-02-27 | 2026-04-25 |
 | [catch these fists](https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [catch these fists](https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496) | 3:08 | 2025-04-04 | 2025-08-09 |
+| [Caught In A Jam](https://open.spotify.com/track/67aVjLV3z4QqlXMBrGoOOJ) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [Caught In A Jam](https://open.spotify.com/album/6MDmeqzitvQIK0n7q5Ob5X) | 4:13 | 2026-08-07 |  |
 | [Caught In The Echo](https://open.spotify.com/track/0B6cG6HOupKy2GaWOgfeOH) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Caught In The Echo](https://open.spotify.com/album/6swKsHBLuNUekcQcW2SOYK) | 4:02 | 2026-04-10 | 2026-04-25 |
 | [Caught In The Echo](https://open.spotify.com/track/3W9BAlXhtg8zXKwKLHmo6w) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Your Favorite Toy](https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ) | 4:02 | 2026-04-24 | 2026-05-02 |
 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 | 2021-12-17 | 2022-06-25 |
@@ -379,7 +381,7 @@
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-02-24 | 2023-04-22 |
 | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Glue Song \(feat\. Clairo\)](https://open.spotify.com/album/6iyBE8qGDt42MyBvtPNuMk) | 2:15 | 2023-04-21 | 2023-07-15 |
 | [Glum](https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Glum](https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk) | 3:11 | 2025-08-01 | 2025-10-11 |
-| [Go Away](https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM) | 3:13 | 2026-03-13 |  |
+| [Go Away](https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM) | 3:13 | 2026-03-13 | 2026-08-08 |
 | [God Needs The Devil](https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [God Needs The Devil](https://open.spotify.com/album/6m9iHuaCahIjbToXBybxnl) | 3:12 | 2024-11-15 | 2025-10-25 |
 | [God Save The Queens](https://open.spotify.com/track/5gYbg3Tj7FwPGTljJ6oWEb) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [God Save The Queens](https://open.spotify.com/album/4OGSbnTYEyXYYQL7j0q10x) | 2:25 | 2025-02-07 | 2025-04-19 |
 | [Going Shopping](https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Going Shopping](https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI) | 4:21 | 2026-04-07 |  |
@@ -398,7 +400,7 @@
 | [Gruesome](https://open.spotify.com/track/0LQrHLDyxR9KDWYJZ6tOY3) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Gruesome](https://open.spotify.com/album/00m0oujS3jxWijICkCY2au) | 2:14 | 2025-04-04 | 2025-10-25 |
 | [Guitar Song](https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8) | 3:57 | 2024-08-16 | 2024-09-28 |
 | [Habits \- Radio Edit](https://open.spotify.com/track/4IPMVoDEzVAwwrNPqM0qmq) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Habits](https://open.spotify.com/album/6EiqbvEYWkkB7xmYwGQ3u6) | 3:31 | 2024-03-22 | 2024-04-13 |
-| [Half A Spark](https://open.spotify.com/track/7FciOLJQatqLi7F813PrzE) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Joy Next Door](https://open.spotify.com/album/6o07I38dK4fk52rM4QcI49) | 2:50 | 2026-04-17 |  |
+| [Half A Spark](https://open.spotify.com/track/7FciOLJQatqLi7F813PrzE) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Joy Next Door](https://open.spotify.com/album/6o07I38dK4fk52rM4QcI49) | 2:50 | 2026-04-17 | 2026-08-08 |
 | [Half My Heart](https://open.spotify.com/track/3EMVljpsr9TPKYScAFQNJh) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [I Love You, I’m Trying](https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n) | 2:44 | 2023-05-05 | 2023-06-03 |
 | [Hanging Out To Dry](https://open.spotify.com/track/1GZ5KqHOdkU0cZoz1JfQo8) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Spring Forward](https://open.spotify.com/album/61NGKj9SdXHHxDWU8ZsnaS) | 3:32 | 2026-04-03 |  |
 | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV) | 3:24 | 2023-11-03 | 2023-12-02 |
@@ -498,7 +500,7 @@
 | [In The Living Room](https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [In The Living Room](https://open.spotify.com/album/2HkwfUQg1Z4idyipFLuhnQ) | 4:23 | 2024-11-22 | 2024-12-07 |
 | [In The Middle](https://open.spotify.com/track/3nmvNpobyMN4Ggw7tYcqSF) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Hope We Have Fun](https://open.spotify.com/album/3r5ik8QohUa56zacmEyAdb) | 2:59 | 2025-05-30 | 2025-11-22 |
 | [In The Mirror](https://open.spotify.com/track/11ytsbCqnMlj2bV0hVKp5P) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Mirror](https://open.spotify.com/album/5s0vXZdva9QidlE4g5r2HC) | 3:04 | 2022-07-01 | 2022-07-30 |
-| [In The Stars](https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [In The Stars](https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK) | 4:13 | 2026-05-08 |  |
+| [In The Stars](https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [In The Stars](https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK) | 4:13 | 2026-05-08 | 2026-08-08 |
 | [in the wake of your leave](https://open.spotify.com/track/3tr7NTCykrBqLxaFTQMIYx) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [angel in realtime.](https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP) | 4:03 | 2022-04-08 | 2022-05-07 |
 | [Incomprehensible](https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Incomprehensible](https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7) | 3:53 | 2025-07-11 | 2025-07-26 |
 | [infinite source](https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:32 | 2025-11-21 | 2026-07-18 |
@@ -814,6 +816,7 @@
 | [Satanized](https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX) | 3:56 | 2025-03-21 | 2025-05-10 |
 | [Save It For Later](https://open.spotify.com/track/2rs6UMzlu1pMGGVw60tiHm) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Save It For Later](https://open.spotify.com/album/5hLsl7NOCJPMDy4GAwaT54) | 4:21 | 2024-07-19 | 2024-10-05 |
 | [Save me now](https://open.spotify.com/track/59ledUSDBtJ0f4YEAf8Fxi) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [If Not Winter](https://open.spotify.com/album/6R21I5E805CLZmDn8vESQM) | 3:02 | 2025-12-12 | 2026-02-21 |
+| [Saw You Stand](https://open.spotify.com/track/5bfBYLi32nYvrKbtPi78ek) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Saw You Stand](https://open.spotify.com/album/0nJNVpLzyGyYcS7Qz0qkQT) | 4:49 | 2026-08-07 |  |
 | [Say It \(To My Face\)](https://open.spotify.com/track/2hbOvsFwsgwaboSRGxeng8) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:39 | 2023-03-10 | 2023-04-15 |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-05-26 | 2023-11-11 |
 | [Scared](https://open.spotify.com/track/0pyoALipqEy5mQ0RN4UAsI) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Scared](https://open.spotify.com/album/5jMvIY27hzHwpHIjA7fYeT) | 2:33 | 2024-04-12 | 2024-08-03 |

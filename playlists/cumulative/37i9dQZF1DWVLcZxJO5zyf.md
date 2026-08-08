@@ -4,7 +4,7 @@
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto: Anitta
 
-505 songs - 1 day 0 hr 11 min
+506 songs - 1 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,7 @@
 | [Milkshake](https://open.spotify.com/track/1S04Xi3itu6MyqEzI0kAE0) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Gente Crazy](https://open.spotify.com/album/1BA3CXKhTegfp6WIAIbxGC) | 2:31 | 2023-01-13 | 2023-04-15 |
 | [Minissaia](https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Minissaia](https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr) | 2:19 | 2025-03-21 | 2025-06-21 |
 | [Minto pra quem perguntar](https://open.spotify.com/track/1ayciaPYnEVXA0sYvOssB8) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Esquinas](https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl) | 3:07 | 2024-12-13 | 2026-04-25 |
-| [Mirou Em Mim](https://open.spotify.com/track/3PLVAuTggzJ4A7mZCPhgBF) | [Trivia](https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g) | [MOMENTUM](https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx) | 3:45 | 2026-05-29 |  |
+| [Mirou Em Mim](https://open.spotify.com/track/3PLVAuTggzJ4A7mZCPhgBF) | [Trivia](https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g) | [MOMENTUM](https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx) | 3:45 | 2026-05-29 | 2026-08-08 |
 | [MODO TURBO](https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [MODO TURBO](https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt) | 2:30 | 2022-01-14 | 2022-12-24 |
 | [Mole](https://open.spotify.com/track/1mXJe2PaWhSNWXvNIZKpqX) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [TRÊS](https://open.spotify.com/album/3QiDWIyxyDbRfMsgZJrdCV) | 2:10 | 2022-09-02 | 2023-09-01 |
 | [Monstrão](https://open.spotify.com/track/2LZjtOXWZMSpRbQyd89HyQ) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Monstrão](https://open.spotify.com/album/0i0UyaiLEhUGQQT65177hS) | 2:07 | 2023-11-10 | 2024-08-24 |
@@ -306,6 +306,7 @@
 | [Nem Solteiro, Nem Casado](https://open.spotify.com/track/4RIwJFIllGROj3yvCFPBik) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp), [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv) | [Nem Solteiro, Nem Casado](https://open.spotify.com/album/26OJEhbmdahqJqYT20YLxT) | 2:25 | 2022-01-29 | 2022-02-12 |
 | [Neon \- Spotify Sessions](https://open.spotify.com/track/6k2IgWmtJ0I3CtiKdEqSqe) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Ana Castela \- Spotify Sessions](https://open.spotify.com/album/6pHZSdvQhTIP1APJWFUN6Q) | 3:44 | 2025-11-07 | 2026-05-16 |
 | [NO CHÃO NOVINHA](https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [NO CHÃO NOVINHA](https://open.spotify.com/album/6AyOkPbsH3YKjpxCLTmIgh) | 2:16 | 2022-01-14 | 2023-02-04 |
+| [No Pain No Gain](https://open.spotify.com/track/4eYz5VDkfpivxiMxt5739K) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [MOSAICO](https://open.spotify.com/album/2xSWNvj4tZLbpxMTBVDGhL) | 3:44 | 2026-08-07 |  |
 | [No Particular](https://open.spotify.com/track/1ZfWqYG2avyXoJhhr8nn80) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [No Particular](https://open.spotify.com/album/4oKi1WuKiJ6JhwIvsQW8Nt) | 2:51 | 2024-05-17 | 2024-08-22 |
 | [Nocaute](https://open.spotify.com/track/38y1KFdUpHjUIWXcUYS8aC) | [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Acrônico](https://open.spotify.com/album/5C71qOuXDL44ZmUbtP9WKr) | 3:55 | 2024-11-22 | 2025-03-01 |
 | [Noite Estrelada](https://open.spotify.com/track/7zDFZH6lG3ULdWVGwF09SQ) | [DJ Maia](https://open.spotify.com/artist/16GSZJdhDf0yPEtQbHj21e), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Noite Estrelada](https://open.spotify.com/album/778J3qucAg6FuQ5L4hzVS2) | 2:40 | 2023-04-14 | 2023-07-08 |

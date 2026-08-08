@@ -1,12 +1,12 @@
 {
   "description": "She's actually kinda famous. Welcome to Slayyyter summer ",
-  "num_followers": 413704,
+  "num_followers": 413706,
   "original_name": "hot girl agenda \ud83d\udd25 \ud83d\ude92",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACEJsnWWCJ8BEbH6orDLY+4uqSS5",
+  "snapshot_id": "AAAAALkvyUSTEaUk7a/FJyxKkI/oyxvJ",
   "tracks": [
     {
       "added_at": "2026-05-26 19:43:22",
@@ -23,22 +23,6 @@
       "duration_ms": 287055,
       "name": "DANCE...",
       "url": "https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO"
-    },
-    {
-      "added_at": "2026-06-21 18:56:23",
-      "album": {
-        "name": "PARTIES IN LA",
-        "url": "https://open.spotify.com/album/67DRtDC05EXXlanrnThwvw"
-      },
-      "artists": [
-        {
-          "name": "XKYLAR",
-          "url": "https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq"
-        }
-      ],
-      "duration_ms": 148297,
-      "name": "PARTIES IN LA",
-      "url": "https://open.spotify.com/track/7ilxKzPgTaF5P8N8BBlKFW"
     },
     {
       "added_at": "2025-12-08 16:43:03",
@@ -69,28 +53,36 @@
       "url": "https://open.spotify.com/track/7FvCdEvPP16gNmCFtFakPC"
     },
     {
-      "added_at": "2026-06-30 16:50:20",
+      "added_at": "2026-08-07 04:00:28",
       "album": {
-        "name": "CUT THE LINE (feat. DJ ADHD & Nikki Nair)",
-        "url": "https://open.spotify.com/album/0Q3Qz11aspOYa9oUbVKQLH"
+        "name": "Ain't In LA",
+        "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
       },
       "artists": [
         {
-          "name": "deBasement",
-          "url": "https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl"
-        },
-        {
-          "name": "DJ ADHD",
-          "url": "https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo"
-        },
-        {
-          "name": "Nikki Nair",
-          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
         }
       ],
-      "duration_ms": 281777,
-      "name": "CUT THE LINE (feat. DJ ADHD & Nikki Nair)",
-      "url": "https://open.spotify.com/track/3Fxebmm6QwVVS1HsuqyeqN"
+      "duration_ms": 184927,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
+    },
+    {
+      "added_at": "2026-06-21 18:56:23",
+      "album": {
+        "name": "PARTIES IN LA",
+        "url": "https://open.spotify.com/album/67DRtDC05EXXlanrnThwvw"
+      },
+      "artists": [
+        {
+          "name": "XKYLAR",
+          "url": "https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq"
+        }
+      ],
+      "duration_ms": 148297,
+      "name": "PARTIES IN LA",
+      "url": "https://open.spotify.com/track/7ilxKzPgTaF5P8N8BBlKFW"
     },
     {
       "added_at": "2026-05-18 13:45:16",

@@ -4316,7 +4316,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 200888,
       "name": "Cinta Pada Pencipta",
       "url": "https://open.spotify.com/track/3kIn8f0d0OBAOn6fIpv20z"
@@ -9368,7 +9368,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 246109,
       "name": "Kisah Kita",
       "url": "https://open.spotify.com/track/5K4JXyx3NhHG8lwYOhQXrH"
@@ -9462,7 +9462,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 207474,
       "name": "Kisah Terbaik",
       "url": "https://open.spotify.com/track/6nGRs77lCVJmOdMsSKqv1T"
@@ -11455,6 +11455,24 @@
     },
     {
       "album": {
+        "name": "Memilih Yang Salah",
+        "url": "https://open.spotify.com/album/51XwPbyJg3UGIJ1sIFGPOx"
+      },
+      "artists": [
+        {
+          "name": "Exists",
+          "url": "https://open.spotify.com/artist/1ibFtPHzpqHJKA0PdAC8TH"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286819,
+      "name": "Memilih Yang Salah",
+      "url": "https://open.spotify.com/track/4QmXFeLbbyUbS9JMYgHdLn"
+    },
+    {
+      "album": {
         "name": "Memori",
         "url": "https://open.spotify.com/album/4P6bUvsZCmnJ6xBkxzNGwd"
       },
@@ -12756,6 +12774,24 @@
       "duration_ms": 141818,
       "name": "Nara - From \"Honor of Kings\"",
       "url": "https://open.spotify.com/track/1kdC6vKdEi5IcQoiIQuVXm"
+    },
+    {
+      "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/1qJGQb2drmyPtVmunYYxYR"
+      },
+      "artists": [
+        {
+          "name": "Yusry",
+          "url": "https://open.spotify.com/artist/2iyy2sHwFQPTEFotohO3PL"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217674,
+      "name": "Narsisistik",
+      "url": "https://open.spotify.com/track/01AF8Qi0LppSEKkm1ZwZ4j"
     },
     {
       "album": {
@@ -14692,6 +14728,24 @@
       "duration_ms": 207000,
       "name": "Ria Raya",
       "url": "https://open.spotify.com/track/585C4YGuXybdwE2prGK3g2"
+    },
+    {
+      "album": {
+        "name": "rindu",
+        "url": "https://open.spotify.com/album/7kjA72esPH1tpSHS1caIVK"
+      },
+      "artists": [
+        {
+          "name": "Iman Troye",
+          "url": "https://open.spotify.com/artist/1Jvj122gN1QiaYUrNhn3Fq"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157490,
+      "name": "rindu",
+      "url": "https://open.spotify.com/track/3i3PREbSksaiU84hAN6S5H"
     },
     {
       "album": {
@@ -17081,6 +17135,24 @@
     },
     {
       "album": {
+        "name": "Setiap Nafasku Kernamu",
+        "url": "https://open.spotify.com/album/2xJAV61h1fPMhO1n93LAx2"
+      },
+      "artists": [
+        {
+          "name": "Intan Maya",
+          "url": "https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Setiap Nafasku Kernamu",
+      "url": "https://open.spotify.com/track/6OU4scYidog55Gc3ddBXwP"
+    },
+    {
+      "album": {
         "name": "Si Paling Mahir",
         "url": "https://open.spotify.com/album/0MLJXJNbm6XtlrWqPZ9vpE"
       },
@@ -19188,7 +19260,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 252093,
       "name": "Terpukau",
       "url": "https://open.spotify.com/track/0irPA8LmsoQYkqE5I7v3aj"

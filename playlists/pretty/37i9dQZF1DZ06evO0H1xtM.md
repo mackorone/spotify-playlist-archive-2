@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 
 > This is Grupo Marca Registrada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,926 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,989 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 34 | [La Paso Bien](https://open.spotify.com/track/28YY7biYW6ocfOxl2blQPA) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [La Catafixia](https://open.spotify.com/album/4nbbbprIlA9GDUDqlc59CH) | 3:13 |
 | 35 | [Así Nací](https://open.spotify.com/track/30yaDgoJbR3wujuclohMaq) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Haciendo Magia](https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5) | 2:47 |
 | 36 | [La Que Me Espera En La Noche](https://open.spotify.com/track/0nowDTMPXFjMxpK2IxGnjm) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 3:46 |
-| 37 | [Esos Ojitos](https://open.spotify.com/track/5VfKJd6b8szMMxi5h2b9YV) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Esos Ojitos](https://open.spotify.com/album/4Ymc0wMm0jrkgJVt7ebQxw) | 2:50 |
+| 37 | [BLING BLING](https://open.spotify.com/track/3ZsaMkZP7MPxIUcepUW9mS) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [BLING BLING](https://open.spotify.com/album/451wD2M8BdRq8SAruNb8c4) | 2:43 |
 | 38 | [La Plebada del 09](https://open.spotify.com/track/1dafTXbbbK0wSsji6VbPJJ) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [La Catafixia](https://open.spotify.com/album/4nbbbprIlA9GDUDqlc59CH) | 2:33 |
-| 39 | [BLING BLING](https://open.spotify.com/track/3ZsaMkZP7MPxIUcepUW9mS) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [BLING BLING](https://open.spotify.com/album/451wD2M8BdRq8SAruNb8c4) | 2:43 |
+| 39 | [Esos Ojitos](https://open.spotify.com/track/5VfKJd6b8szMMxi5h2b9YV) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Esos Ojitos](https://open.spotify.com/album/4Ymc0wMm0jrkgJVt7ebQxw) | 2:50 |
 | 40 | [Sin Darme Explicacion](https://open.spotify.com/track/6hmqUnbDg0IXxXDCPtSblS) | [Jasson Arellano](https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sin Darme Explicacion](https://open.spotify.com/album/2q7suMTvK9bzYLBzKrQoIo) | 3:07 |
 | 41 | [Quizás](https://open.spotify.com/track/37Ph4FT2ioHk2Ok5Qwckxn) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Quizás](https://open.spotify.com/album/2RnhBBUbdWbm5aGweKRzfv) | 2:52 |
 | 42 | [FD](https://open.spotify.com/track/0CEB9ysT7EzBJypI2jhgSm) | [Jasson Arellano](https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Dualidad](https://open.spotify.com/album/1qbxWcbWtxjohwFQkRQcJA) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 49 | [Tu No Eres Lo Que Quería](https://open.spotify.com/track/5dzDXov0yNDEPl1GYNpzrh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Subiendo De Nivel](https://open.spotify.com/album/0H58hvJ4R2WRJEKPG6lOmw) | 1:50 |
 | 50 | [Lo Pude Lograr](https://open.spotify.com/track/37QXxWqoyJLoWOo2SuO8q6) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [EP](https://open.spotify.com/album/1QKvOGwTQKKmz5fiaStHxl) | 2:57 |
 
-Snapshot ID: `anJ9AAAAAABL+TjYAw4QTh38bbX5Zei4`
+Snapshot ID: `anPOgAAAAAAGxqkapFeKs5h520TpxYFD`

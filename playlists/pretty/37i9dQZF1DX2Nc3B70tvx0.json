@@ -1,13 +1,41 @@
 {
-  "description": "A delicious mix of new songs in high rotation. Cover: Nick Hakim",
-  "num_followers": 1911097,
+  "description": "A delicious mix of new songs in high rotation. Cover: Jam City",
+  "num_followers": 1910988,
   "original_name": "Indie's Top 50",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEPLGZ7LfxPH267dlr5nZO7Rj1kH",
+  "snapshot_id": "AAAAAPSB1DzXWySzOIyv+XP59PMu55ZM",
   "tracks": [
+    {
+      "added_at": "2026-08-07 04:02:03",
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/01W4y44wtQqtXXM1vqk7E9"
+      },
+      "artists": [
+        {
+          "name": "Jam City",
+          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
+        },
+        {
+          "name": "Aidan",
+          "url": "https://open.spotify.com/artist/6C8vPirDpnA5E9PUfn4RaW"
+        },
+        {
+          "name": "Bawo",
+          "url": "https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB"
+        },
+        {
+          "name": "Ox Eye",
+          "url": "https://open.spotify.com/artist/3PRRqlvLDhTcHnp4mQkqA3"
+        }
+      ],
+      "duration_ms": 210542,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/0745bZpt5Oo7SLkbDvcO3X"
+    },
     {
       "added_at": "2026-07-27 14:53:48",
       "album": {
@@ -89,6 +117,22 @@
       "url": "https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI"
     },
     {
+      "added_at": "2026-08-07 04:02:03",
+      "album": {
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/0pgqi9s9qkIGjCbN5vGbNq"
+      },
+      "artists": [
+        {
+          "name": "Truman Sinclair",
+          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
+        }
+      ],
+      "duration_ms": 209172,
+      "name": "Right On Time",
+      "url": "https://open.spotify.com/track/15gbrNPteUKN5gNuoRnhY2"
+    },
+    {
       "added_at": "2026-07-31 04:02:10",
       "album": {
         "name": "Twiggy",
@@ -121,6 +165,26 @@
       "url": "https://open.spotify.com/track/1u2tyMNIqJQ9jbQxmGI9lo"
     },
     {
+      "added_at": "2026-08-07 04:02:03",
+      "album": {
+        "name": "Renascent",
+        "url": "https://open.spotify.com/album/5YocvK2G7GuMDS1YHX51YV"
+      },
+      "artists": [
+        {
+          "name": "The Durutti Column",
+          "url": "https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe"
+        },
+        {
+          "name": "Caoilfhionn Rose",
+          "url": "https://open.spotify.com/artist/6YRqlhH88xZ7h2WOhwNYOb"
+        }
+      ],
+      "duration_ms": 204200,
+      "name": "Sargasso Sea",
+      "url": "https://open.spotify.com/track/4Oy185yBcxHHi5x2sa6iiv"
+    },
+    {
       "added_at": "2026-06-26 04:01:46",
       "album": {
         "name": "Secret Language",
@@ -151,6 +215,22 @@
       "duration_ms": 160601,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6iXIvHGsLMJ89TuW1S9E3C"
+    },
+    {
+      "added_at": "2026-08-07 04:02:03",
+      "album": {
+        "name": "think twice",
+        "url": "https://open.spotify.com/album/5ZCaadoasMxcPFsMWeHlye"
+      },
+      "artists": [
+        {
+          "name": "strongboi",
+          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+        }
+      ],
+      "duration_ms": 327160,
+      "name": "think twice",
+      "url": "https://open.spotify.com/track/3K8Dlk2IdXvb3kPDpf8zbU"
     },
     {
       "added_at": "2026-06-26 04:01:46",
@@ -201,6 +281,22 @@
       "url": "https://open.spotify.com/track/5nlsXkRIR3ZFTdeot66Yj6"
     },
     {
+      "added_at": "2026-08-07 04:02:03",
+      "album": {
+        "name": "Crab",
+        "url": "https://open.spotify.com/album/5ciVjsvsNYHZEkUaNZW75B"
+      },
+      "artists": [
+        {
+          "name": "Pool Girl",
+          "url": "https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2"
+        }
+      ],
+      "duration_ms": 195577,
+      "name": "Crab",
+      "url": "https://open.spotify.com/track/6v1d0oFmJnq0Md14QjTnAB"
+    },
+    {
       "added_at": "2026-07-10 04:02:00",
       "album": {
         "name": "Role Model Hermit",
@@ -235,22 +331,6 @@
     {
       "added_at": "2026-06-26 04:01:46",
       "album": {
-        "name": "SS26",
-        "url": "https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "SS26",
-      "url": "https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH"
-    },
-    {
-      "added_at": "2026-06-26 04:01:46",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7"
       },
@@ -265,20 +345,40 @@
       "url": "https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO"
     },
     {
-      "added_at": "2026-06-26 04:01:46",
+      "added_at": "2026-08-07 04:02:03",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/3vdKcTeYb0JmsiBlyVDuTe"
+        "name": "Blood Spilled",
+        "url": "https://open.spotify.com/album/5cmRb1dIr1CVgxcbygLRVs"
       },
       "artists": [
         {
-          "name": "girlsweetvoiced",
-          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
         }
       ],
-      "duration_ms": 145710,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW"
+      "duration_ms": 358974,
+      "name": "Blood Spilled",
+      "url": "https://open.spotify.com/track/22uDPIieGlHsIOt6pwIcGJ"
+    },
+    {
+      "added_at": "2026-08-07 04:02:03",
+      "album": {
+        "name": "It Didn't Matter",
+        "url": "https://open.spotify.com/album/3nHipi4hMVyH4Z3VUB6bW5"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        },
+        {
+          "name": "Mareux",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "It Didn't Matter",
+      "url": "https://open.spotify.com/track/10kxTiNUTo4nlEbH1EzoX1"
     },
     {
       "added_at": "2026-06-26 04:01:46",
@@ -361,6 +461,22 @@
       "url": "https://open.spotify.com/track/2LQhEn8usQ8va0aPdLRnWX"
     },
     {
+      "added_at": "2026-08-07 04:02:03",
+      "album": {
+        "name": "Under",
+        "url": "https://open.spotify.com/album/6X3UFgjSpQmQgIK9FwpUVd"
+      },
+      "artists": [
+        {
+          "name": "Porch Light",
+          "url": "https://open.spotify.com/artist/71gxkPYviG8kwEzEZGM1FH"
+        }
+      ],
+      "duration_ms": 207466,
+      "name": "Under",
+      "url": "https://open.spotify.com/track/0lvRPZvTJn7DHS8arrcdUr"
+    },
+    {
       "added_at": "2026-06-26 04:01:46",
       "album": {
         "name": "Blue Angel Sparkling Silver 2",
@@ -423,6 +539,22 @@
       "duration_ms": 190213,
       "name": "Notting Hill",
       "url": "https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk"
+    },
+    {
+      "added_at": "2026-08-07 04:02:03",
+      "album": {
+        "name": "its not about me!",
+        "url": "https://open.spotify.com/album/3EcqQco9MASQejGgqBGGAu"
+      },
+      "artists": [
+        {
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+        }
+      ],
+      "duration_ms": 171392,
+      "name": "its not about me!",
+      "url": "https://open.spotify.com/track/02UI5paChJe2PHsi0nikly"
     },
     {
       "added_at": "2026-06-26 04:01:46",
@@ -491,22 +623,6 @@
       "duration_ms": 225483,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/4e1S8n3KB4J8J5IPMNLySk"
-    },
-    {
-      "added_at": "2026-06-26 04:01:46",
-      "album": {
-        "name": "Molly In The Club",
-        "url": "https://open.spotify.com/album/1Z5c4jEcH46WtxXhAE7lCw"
-      },
-      "artists": [
-        {
-          "name": "Sophia Stel",
-          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
-        }
-      ],
-      "duration_ms": 216138,
-      "name": "Molly In The Club",
-      "url": "https://open.spotify.com/track/1ngbCM8cVBEcE3yCFdelAU"
     },
     {
       "added_at": "2026-07-10 04:02:00",
@@ -611,22 +727,6 @@
     {
       "added_at": "2026-06-26 04:01:46",
       "album": {
-        "name": "Baby Driver",
-        "url": "https://open.spotify.com/album/0yUdcVEmK8G3jWAYS6Dii6"
-      },
-      "artists": [
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 216994,
-      "name": "Baby Driver",
-      "url": "https://open.spotify.com/track/5dtDj7mdGJjlviTxyfMrZE"
-    },
-    {
-      "added_at": "2026-06-26 04:01:46",
-      "album": {
         "name": "skinny dip",
         "url": "https://open.spotify.com/album/0vaVjzaKrZtdBVJdAJk2jn"
       },
@@ -639,22 +739,6 @@
       "duration_ms": 192439,
       "name": "skinny dip",
       "url": "https://open.spotify.com/track/3GR1J0gHGBN4jX2auDDE2j"
-    },
-    {
-      "added_at": "2026-06-26 04:01:46",
-      "album": {
-        "name": "Coats",
-        "url": "https://open.spotify.com/album/2Diqky5gHLlBs2A3X4UfRC"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 208876,
-      "name": "Coats",
-      "url": "https://open.spotify.com/track/2BFQ2VihWx2mSKpqUIkoDb"
     },
     {
       "added_at": "2026-06-26 04:01:46",
@@ -691,22 +775,6 @@
     {
       "added_at": "2026-06-26 04:01:46",
       "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 168767,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
-    },
-    {
-      "added_at": "2026-06-26 04:01:46",
-      "album": {
         "name": "2515",
         "url": "https://open.spotify.com/album/4n98iy8MVJkh2cELKgazOR"
       },
@@ -723,22 +791,6 @@
     {
       "added_at": "2026-06-26 04:01:46",
       "album": {
-        "name": "Tell Me (U Want It)",
-        "url": "https://open.spotify.com/album/3JedLQJK34WnW9thqc8BAo"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 213250,
-      "name": "Tell Me (U Want It)",
-      "url": "https://open.spotify.com/track/1dsKLYqHpiIkgTK4TdMUzy"
-    },
-    {
-      "added_at": "2026-06-26 04:01:46",
-      "album": {
         "name": "Dancing On The Wall",
         "url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3"
       },
@@ -751,26 +803,6 @@
       "duration_ms": 230573,
       "name": "Eastside Girls",
       "url": "https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM"
-    },
-    {
-      "added_at": "2026-06-26 04:01:46",
-      "album": {
-        "name": "Miss Michigan",
-        "url": "https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X"
-      },
-      "artists": [
-        {
-          "name": "Momo Boyd",
-          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
-        },
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 146738,
-      "name": "Oops",
-      "url": "https://open.spotify.com/track/5HUqlNEKgLwBiPfpK9wBaX"
     },
     {
       "added_at": "2026-06-26 04:01:46",
@@ -803,26 +835,6 @@
       "duration_ms": 211893,
       "name": "Stupid Bitches",
       "url": "https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg"
-    },
-    {
-      "added_at": "2026-06-26 04:01:46",
-      "album": {
-        "name": "Rockie",
-        "url": "https://open.spotify.com/album/6WTSHcoqgD3WFDscaQudku"
-      },
-      "artists": [
-        {
-          "name": "Rockie Rode",
-          "url": "https://open.spotify.com/artist/51qSyIFxFxgwZVU7zI90rE"
-        },
-        {
-          "name": "Samba Jean-Baptiste",
-          "url": "https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5"
-        }
-      ],
-      "duration_ms": 130063,
-      "name": "Sexy",
-      "url": "https://open.spotify.com/track/6IPzPlNa6GDoqviwIZL869"
     }
   ],
   "unique_name": "Indie's Top 50",

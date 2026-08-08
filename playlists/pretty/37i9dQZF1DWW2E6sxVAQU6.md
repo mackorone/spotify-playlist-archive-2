@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 
 > Dedicata a chi non ha rischiato ed è sempre andato al massimo  ⚡️
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,506 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,513 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 31 | [Tu fai schifo sempre](https://open.spotify.com/track/3wtQeyl59gDxcJkvbV036k) | [I Pandemonium](https://open.spotify.com/artist/717AOR8NywHgYvjrlQtzyp) | [I Pandemonium](https://open.spotify.com/album/4JWO6OQfAhyNzTIBnOvhO2) | 3:35 |
 | 32 | [Ping Pong](https://open.spotify.com/track/2H9copqgXrRBpjLnMBZjh8) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Ça Plane Pour Moi](https://open.spotify.com/album/6bv0t7P61aPvCjgbqMZk0V) | 2:46 |
 | 33 | [Sbatti Ben Su Del BeBop](https://open.spotify.com/track/5Dt3SmukbC11M8p5boi1ss) | [Ladri Di Biciclette](https://open.spotify.com/artist/4xsbbVfhjw1iCPyLKQdKQe) | [Made In Italy](https://open.spotify.com/album/2GU0jh6JYDm5CZzOwFJBb9) | 4:09 |
-| 34 | [Il Ragazzo Della Via Gluck](https://open.spotify.com/track/5iLoVWRuwPity9CuN1VTJ8) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Il Ragazzo Della Via Gluck \(2012 Remaster\)](https://open.spotify.com/album/5S22BsWZcjENeRpXRKiB4V) | 4:13 |
-| 35 | [Italia amore mio](https://open.spotify.com/track/0Y5wPtrrDx8Z7leLqYbF6F) | [Luca Canonici](https://open.spotify.com/artist/5EPuE5AnmS2tOrgNEmd47b), [Pupo](https://open.spotify.com/artist/6LjwPhoH3RDoL8JoXciUHL), [Emanuele Filiberto](https://open.spotify.com/artist/5i2qgL9Q4eV4K3uIPYBygd) | [Italia amore mio](https://open.spotify.com/album/1XBGjZaXqq3zdUs4MzIcc4) | 3:37 |
+| 34 | [Italia amore mio](https://open.spotify.com/track/0Y5wPtrrDx8Z7leLqYbF6F) | [Luca Canonici](https://open.spotify.com/artist/5EPuE5AnmS2tOrgNEmd47b), [Pupo](https://open.spotify.com/artist/6LjwPhoH3RDoL8JoXciUHL), [Emanuele Filiberto](https://open.spotify.com/artist/5i2qgL9Q4eV4K3uIPYBygd) | [Italia amore mio](https://open.spotify.com/album/1XBGjZaXqq3zdUs4MzIcc4) | 3:37 |
+| 35 | [Il Ragazzo Della Via Gluck](https://open.spotify.com/track/5iLoVWRuwPity9CuN1VTJ8) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Il Ragazzo Della Via Gluck \(2012 Remaster\)](https://open.spotify.com/album/5S22BsWZcjENeRpXRKiB4V) | 4:13 |
 | 36 | [Mamma Non Lo Sa](https://open.spotify.com/track/0XByMyQh8zv94pmr9SnbqG) | [Almamegretta](https://open.spotify.com/artist/7qE9giF76uQ8UcFwlZhiP6) | [Controra](https://open.spotify.com/album/5TizU1nhmP8zngvjbMibLd) | 3:12 |
 | 37 | [Sugli sugli bane bane](https://open.spotify.com/track/13o2dU3sWYYKqB3D3npOR6) | [Le Figlie del Vento](https://open.spotify.com/artist/5KdQM9MsxN0vGes2TlO3zb) | [Mai dire compilation!](https://open.spotify.com/album/0gs0mysY0cv4AuZ3HdebGV) | 2:41 |
 | 38 | [Faccia di cane](https://open.spotify.com/track/4pxSUeyBMAdSWjs69J8RZQ) | [New Trolls](https://open.spotify.com/artist/5RN8L3RHQZ87m7gNWUyFmu) | [Aldebaran..\. e altre emozioni](https://open.spotify.com/album/47HDlTeacOGiaTVwfOZ0GR) | 4:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 49 | [Caffè nero bollente](https://open.spotify.com/track/7Mbuzp7QeQH35dHQeQDUz0) | [Fiorella Mannoia](https://open.spotify.com/artist/5VxhGHbcuvqTLRUWzBUN8L) | [Fiorella Mannoia](https://open.spotify.com/album/089iETyoc1V7iJyjo26cDK) | 4:26 |
 | 50 | [La terra dei cachi](https://open.spotify.com/track/7B1a9ZioRPIan2ejYapGxt) | [Elio e le Storie Tese](https://open.spotify.com/artist/61r4cE4aoOD50wPNhQ5fF7) | [Del meglio del nostro meglio Vol\. 1 \(remastered\)](https://open.spotify.com/album/05KkxDmNE4o75OO2Xnq9pQ) | 4:41 |
 
-Snapshot ID: `AAAAAHsfo16PxrY8OzPbynDp0UBuGfG7`
+Snapshot ID: `AAAAANvcjGsVFaEIdDUg0lFiv1NWuV9F`

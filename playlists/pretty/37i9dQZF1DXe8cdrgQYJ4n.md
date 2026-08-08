@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 
 > 솔로여도 괜찮은 나를 위한 노래들
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,240 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,242 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 53 | [Happy Alone \(feat\. B.I\)](https://open.spotify.com/track/5m69aowedG1gR6ZsVVEA1f) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [4444](https://open.spotify.com/album/3gl255N0kUUIkK0GgelT3j) | 3:34 |
 | 54 | [Cold As Hell](https://open.spotify.com/track/7gosH4fL73GpiJBd5GK2rC) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 2:44 |
 | 55 | [Break](https://open.spotify.com/track/6ZY5lLjDmK6Bzon5vseYLn) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [12](https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE) | 3:04 |
-| 56 | [End Better \(Feat\. Skinny Brown\)](https://open.spotify.com/track/5BVRrg0ewd72Jdzj7Oizty) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [TOAST](https://open.spotify.com/album/7zj1ryzYXQdewJ1bWQaHbJ) | 3:43 |
-| 57 | [SELFISH \(Feat\. SEULGI Of Red Velvet\)](https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [SELFISH](https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1) | 3:12 |
+| 56 | [SELFISH \(Feat\. SEULGI Of Red Velvet\)](https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [SELFISH](https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1) | 3:12 |
+| 57 | [End Better \(Feat\. Skinny Brown\)](https://open.spotify.com/track/5BVRrg0ewd72Jdzj7Oizty) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [TOAST](https://open.spotify.com/album/7zj1ryzYXQdewJ1bWQaHbJ) | 3:43 |
 | 58 | [HeartBROKEN PlaYBoY](https://open.spotify.com/track/4zcoVOaN97y4WPUUAtDu0j) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [LUCKY MAN](https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e) | 3:36 |
 | 59 | [You Better Not](https://open.spotify.com/track/47Vgc15moDELPzmLAQSFgO) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 2:43 |
 | 60 | [Earth, Wind & Fire \(Buldak Hotter Than My EX Ver.\)](https://open.spotify.com/track/5eHdOS0YSYRcuNeZ9JwWVP) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Earth, Wind & Fire \(Buldak Hotter Than My EX Ver.\)](https://open.spotify.com/album/1Ex8WORI18jJhswTquyWQG) | 2:59 |
 
-Snapshot ID: `AAAAAEjQzlwAL2Wh0ngSorJf5bw9rAxl`
+Snapshot ID: `AAAAAC7q6scof8FNOaUEUJnYtuBjFE+l`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 
 > Country songs that soundtrack the great Australian outback
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,940 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,949 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 35 | [Cowboy](https://open.spotify.com/track/6xvD3k8rlUZLnzr2GBVIK7) | [Sunny Cowgirls](https://open.spotify.com/artist/1F9bBR1SWdeGnIztqAxQVO) | [Here We Go](https://open.spotify.com/album/5Zwpz8j2OBECUD2oYRHM3M) | 2:57 |
 | 36 | [Summer's Little Angel](https://open.spotify.com/track/674ehjvBVjg874WczRx5fl) | [Steve Forde](https://open.spotify.com/artist/2WdWRfFSB5m9ivq7sOkBXL) | [Steve Forde](https://open.spotify.com/album/46T0ATAu5Yy6SWTHVDf9lw) | 2:53 |
 | 37 | [Love That](https://open.spotify.com/track/6R5orfPIOuk9YoV7GnOz2h) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Love That](https://open.spotify.com/album/3uOBdfK51I9H0mko4OMoH5) | 3:10 |
-| 38 | [River Boy](https://open.spotify.com/track/3YeWaNZYh3SMEmRaGC0Ou9) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM), [Shane Howard](https://open.spotify.com/artist/5tsrQhSZ8itdWGtjNWW6f3) | [Borrowed & Blue](https://open.spotify.com/album/2Cs7Ak4mFH1JXIw9Nd3hIn) | 2:51 |
+| 38 | [Born to Survive](https://open.spotify.com/track/1qJztvv77KYdBm4tce1D1K) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM) | [Long Way Home](https://open.spotify.com/album/64yV9WmwQecMCo9ojKgrSx) | 4:27 |
 | 39 | [Down On The Farm](https://open.spotify.com/track/5ukfBO88Eu4HikT5ZyS0gQ) | [James Blundell](https://open.spotify.com/artist/0AluwN4mocA305JLqpZytD) | [This Road](https://open.spotify.com/album/20NV9L9jQeEHwaUgKVnXIy) | 3:56 |
 | 40 | [Chandelier of Stars](https://open.spotify.com/track/0K8bNqCPf3DzxWOpS9U1Wc) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [His Favourite Collection](https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ) | 3:15 |
 | 41 | [Poster Girl \- Wrong Side of the World](https://open.spotify.com/track/0Otqe3FHmD1LmJb6Ml22bs) | [Beccy Cole](https://open.spotify.com/artist/5ed39W9I1i3LRpNa6Jk1bG) | [Feel This Free](https://open.spotify.com/album/0bkUg5k6yo3Sx9MzcNte80) | 4:01 |
 | 42 | [Walk A Country Mile](https://open.spotify.com/track/3KhUgTw3hzDZPwgbpxgIEE) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Walk A Country Mile](https://open.spotify.com/album/3sc1AiknncWpdSsemqjhXi) | 2:52 |
-| 43 | [Born to Survive](https://open.spotify.com/track/1qJztvv77KYdBm4tce1D1K) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM) | [Long Way Home](https://open.spotify.com/album/64yV9WmwQecMCo9ojKgrSx) | 4:27 |
+| 43 | [River Boy](https://open.spotify.com/track/3YeWaNZYh3SMEmRaGC0Ou9) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM), [Shane Howard](https://open.spotify.com/artist/5tsrQhSZ8itdWGtjNWW6f3) | [Borrowed & Blue](https://open.spotify.com/album/2Cs7Ak4mFH1JXIw9Nd3hIn) | 2:51 |
 | 44 | [Roll On](https://open.spotify.com/track/3i1isbSpcLUVejr3rT9bNT) | [Fanny Lumsden](https://open.spotify.com/artist/4WxHef1Si5yaAaCWUc6Ug2) | [Real Class Act](https://open.spotify.com/album/74DyShEFHHQ6HiwScPSf6e) | 2:57 |
 | 45 | [Charcoal Lane](https://open.spotify.com/track/3XhjdHcb8Hi4zBPCkneDYz) | [Archie Roach](https://open.spotify.com/artist/4LtYxILg8YPMwQjKnXb5kh) | [Charcoal Lane](https://open.spotify.com/album/2cB16btwYMf8hOu2BlFvLl) | 3:21 |
 | 46 | [9 To 5](https://open.spotify.com/track/7E2jg8Vl3fC0VTDhHLUzWM) | [Melinda Schneider](https://open.spotify.com/artist/131ggn8n3rIaHaudwsQoJW), [Beccy Cole](https://open.spotify.com/artist/5ed39W9I1i3LRpNa6Jk1bG) | [Great Women Of Country And The Songs That Made Them](https://open.spotify.com/album/19n03c8yJe4JBn4z8Jhn6U) | 3:27 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 76 | [The Old Man's Shed](https://open.spotify.com/track/4AO6CLJLKnnwRvboYbml8d) | [Luke O'Shea](https://open.spotify.com/artist/0dbEViC4sUSUz7GKiTs1oq) | [Caught Up In The Dreaming](https://open.spotify.com/album/2bfSXa7gggpmK1LHzAFW3R) | 4:04 |
 | 77 | [Dirt Track Cowboys](https://open.spotify.com/track/6h6lmoL3DyP2oujHiV02CI) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand](https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK) | 2:53 |
 | 78 | [A Little Further North](https://open.spotify.com/track/77lErsyeAfTywgOud05g8E) | [Graeme Connors](https://open.spotify.com/artist/10nZL5iEI60Z11z1BUtfRj) | [The Best..\. 'Til Now \(Limited Edition\)](https://open.spotify.com/album/2DLR5EGBku28shSTYrwOHM) | 3:38 |
-| 79 | [Storm Rollin In](https://open.spotify.com/track/1ybsvweyxqw2FSgGUaOPI5) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Country Heart](https://open.spotify.com/album/66GkKTkJU3PiDbXGp8H8it) | 2:42 |
-| 80 | [Thank God I'm A Country Boy](https://open.spotify.com/track/0ihAsdbpsY2N4WLncykpAW) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m) | [Wired](https://open.spotify.com/album/2tJ15wx7pKOp8VfDjcfkIy) | 2:53 |
+| 79 | [Porch Party](https://open.spotify.com/track/44Ae2IWeBeIEttzi2qSbWi) | [Jayne Denham](https://open.spotify.com/artist/3zAIqhrh0KA5mFoehs7HqZ), [Jasmine Rae](https://open.spotify.com/artist/1k5Ro7O3YAzrVIZZYWrkjm), [Amber Lawrence](https://open.spotify.com/artist/3RyYW4bMFeTeQ2jjLZu4xg) | [Porch Party](https://open.spotify.com/album/4dN96MKeLKFisTM0ZAHE4c) | 3:21 |
+| 80 | [Aussie As](https://open.spotify.com/track/65zmFWDgzNuTlpwnErXJ7j) | [Matt Scullion](https://open.spotify.com/artist/2VcnJAwkrzgnZ1iEJ1b0ml) | [Aussie As](https://open.spotify.com/album/2SwhJEwrr67HiKHjdQXAJv) | 3:40 |
 
-Snapshot ID: `AAAAAIWkn90K0SUunMYt6FCrE8w/OPiX`
+Snapshot ID: `AAAAAAxJBwglUz/o0y1xvNSeEPlrZHcf`

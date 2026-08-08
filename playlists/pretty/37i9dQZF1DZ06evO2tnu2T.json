@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAAhmmePtNVcYjtFgLqC1XeY",
+  "snapshot_id": "anPOgAAAAAA5Ein/34+QI590hvLU/umh",
   "tracks": [
     {
       "added_at": null,
@@ -71,18 +71,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+        "name": "Waterslides",
+        "url": "https://open.spotify.com/album/5U1HyVpo9zeSC8K8LhHx4i"
       },
       "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
         {
           "name": "Absolutely",
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 174080,
-      "name": "No Furniture",
-      "url": "https://open.spotify.com/track/0OglDBxXuTvlVBp7cYest8"
+      "duration_ms": 158174,
+      "name": "Waterslides",
+      "url": "https://open.spotify.com/track/1SBfaO3swtjh8dV07MExuP"
     },
     {
       "added_at": null,
@@ -107,26 +115,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waterslides",
-        "url": "https://open.spotify.com/album/5U1HyVpo9zeSC8K8LhHx4i"
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
       },
       "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        },
         {
           "name": "Absolutely",
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 158174,
-      "name": "Waterslides",
-      "url": "https://open.spotify.com/track/1SBfaO3swtjh8dV07MExuP"
+      "duration_ms": 174080,
+      "name": "No Furniture",
+      "url": "https://open.spotify.com/track/0OglDBxXuTvlVBp7cYest8"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
       "duration_ms": 239522,
       "name": "see through (remix) [feat. Coco Jones, Absolutely & Samara Cyn]",
       "url": "https://open.spotify.com/track/4K4DZUvJQSiSOchQdZlP7K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
-      },
-      "artists": [
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "Nowhere to Hide",
-      "url": "https://open.spotify.com/track/1OkdA1jxsQSSSvhWAlL71s"
     },
     {
       "added_at": null,
@@ -215,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "Nowhere to Hide",
+      "url": "https://open.spotify.com/track/1OkdA1jxsQSSSvhWAlL71s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heartbreak Anniversary (H&M&REDSTAGE)",
         "url": "https://open.spotify.com/album/0meYfjk11lzFgR1hK31EJg"
       },
@@ -227,22 +227,6 @@
       "duration_ms": 201338,
       "name": "Heartbreak Anniversary - H&M&REDSTAGE",
       "url": "https://open.spotify.com/track/37kwFPtjKsxi8CAAvgT5Fa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/7oxvUjBnPYJAuBFMrTwNTw"
-      },
-      "artists": [
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 168080,
-      "name": "No Audience",
-      "url": "https://open.spotify.com/track/4neKoZZ53RPyeUyKqH8WSm"
     },
     {
       "added_at": null,
@@ -283,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/7oxvUjBnPYJAuBFMrTwNTw"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 168080,
+      "name": "No Audience",
+      "url": "https://open.spotify.com/track/4neKoZZ53RPyeUyKqH8WSm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Sun Comes Up",
         "url": "https://open.spotify.com/album/1oh3orrM3J4ADJhWgF0b8p"
       },
@@ -299,22 +299,6 @@
       "duration_ms": 205453,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/4gVE5fxdvzAvV5l9DwOv1e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
-      },
-      "artists": [
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "Elevator",
-      "url": "https://open.spotify.com/track/29iIxkfKomRxXdkzVhQuAE"
     },
     {
       "added_at": null,
@@ -355,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "Elevator",
+      "url": "https://open.spotify.com/track/29iIxkfKomRxXdkzVhQuAE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eyes Up",
         "url": "https://open.spotify.com/album/5dvBx8aXzJjlJupOiOfRtD"
       },
@@ -375,22 +375,6 @@
       "duration_ms": 136812,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/6k90i92oRrG0qosTBcLjjx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
-      },
-      "artists": [
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 191546,
-      "name": "Helium",
-      "url": "https://open.spotify.com/track/03R4JdLkkpGOoPcsc6YWEQ"
     },
     {
       "added_at": null,
@@ -440,9 +424,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 203400,
-      "name": "Paracosm",
-      "url": "https://open.spotify.com/track/67Z2gg6JK0Ig6MK7ClBNVp"
+      "duration_ms": 191546,
+      "name": "Helium",
+      "url": "https://open.spotify.com/track/03R4JdLkkpGOoPcsc6YWEQ"
     },
     {
       "added_at": null,
@@ -459,6 +443,22 @@
       "duration_ms": 161524,
       "name": "Symphony",
       "url": "https://open.spotify.com/track/1V5YRAjAJWt7snPQ96hP2R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+      },
+      "artists": [
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 146293,
+      "name": "Prototype",
+      "url": "https://open.spotify.com/track/5VcPQ1E84Pg3cISGQqDntq"
     },
     {
       "added_at": null,

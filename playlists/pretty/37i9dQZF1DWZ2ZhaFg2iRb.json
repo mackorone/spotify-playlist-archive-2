@@ -1,12 +1,12 @@
 {
   "description": "Hity, kter\u00e9 t\u011b povzbud\u00ed a nalad\u00ed na vlnu dobr\u00e9 n\u00e1lady.",
-  "num_followers": 35724,
+  "num_followers": 35723,
   "original_name": "Vlna Radosti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMdz4Y0O8YS/zZ7T/EG9ryPXENRH",
+  "snapshot_id": "AAAAAHCaVy6g+cUYYOz0KFuU3wZffhRD",
   "tracks": [
     {
       "added_at": "2026-01-16 15:27:38",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-01-16 15:27:38",
       "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 134256,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
+    },
+    {
+      "added_at": "2026-01-16 15:27:38",
+      "album": {
         "name": "My Universe",
         "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 228000,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
-    },
-    {
-      "added_at": "2026-01-16 15:27:38",
-      "album": {
-        "name": "Takin' It Back",
-        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 134256,
-      "name": "Made You Look",
-      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
       "added_at": "2026-01-16 15:27:38",

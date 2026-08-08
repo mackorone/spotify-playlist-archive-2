@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: Llona
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,763,078 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,763,279 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 49 | [Forgiveness](https://open.spotify.com/track/5u4rozuOBse9MgrAzGspQy) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 2:38 |
 | 50 | [⁠Morocco](https://open.spotify.com/track/1BSMV4VRi2jJFc8R1YGPta) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Juvie](https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC) | 2:41 |
 
-Snapshot ID: `AAAAAOgHd71RH1imh/BWBDnP4DER85oy`
+Snapshot ID: `AAAAALPnZ5XhZYAGYC0OSe3BfBFnhgS1`

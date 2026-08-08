@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 
 > Music from "THE IDOLM@STER SHINY COLORS"\. THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,384 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,385 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,12 +18,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 | 8 | [枕木の歌](https://open.spotify.com/track/1pT8MgnUDZ8XIUBWu3d5Ls) | [イルミネーションスターズ](https://open.spotify.com/artist/3yKaJ0XB0Wikqntdst6vld) | [THE IDOLM@STER SHINY COLORS Song for Prism Happier / 枕木の歌【イルミネーションスターズ盤】](https://open.spotify.com/album/4qzUoamkzsZmsD56UIBdZ4) | 4:07 |
 | 9 | [アイ NEED YOU（FOR WONDERFUL STORY）](https://open.spotify.com/track/04vUozb7sdAaoRUdqkECcC) | [765PRO ALLSTARS](https://open.spotify.com/artist/4snGyL0vLLZheHALUzhNlk), [シンデレラガールズ](https://open.spotify.com/artist/77l2335Jbrp4DUCWcDKfdE), [ミリオンライブ！](https://open.spotify.com/artist/3wwXUcmJHjUEvDK9jcvPsi), [SideM](https://open.spotify.com/artist/6AzZEbK2TNyU22XamXPtA8), [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR), [学園アイドルマスター](https://open.spotify.com/artist/4Dkexg0MHU4Pzppo4f1C64) | [アイ NEED YOU（FOR WONDERFUL STORY）](https://open.spotify.com/album/1kEKLArEhl8xU95FmZLuSa) | 7:25 |
 | 10 | [mellow mellow](https://open.spotify.com/track/2LX031qwsS20Uuj9IR5WnX) | [アルストロメリア](https://open.spotify.com/artist/7cZwrPvoqWFiquYx5bfH2Q) | [THE IDOLM@STER SHINY COLORS Song for Prism After Run / mellow mellow【アルストロメリア盤】](https://open.spotify.com/album/3YNKiPWjEw3iKQqZNCbRi1) | 3:04 |
-| 11 | [パーティーマジックデザイナー](https://open.spotify.com/track/6uuwifjKVZBVM5Ma5v1juH) | [放課後クライマックスガールズ](https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5) | [THE IDOLM@STER SHINY COLORS ECHOES 03](https://open.spotify.com/album/73iGtI7gAIUiiR8zZh93Cf) | 4:20 |
+| 11 | [裸足じゃイラレナイ](https://open.spotify.com/track/39ax9hrC2eEkclukurGmpq) | [放課後クライマックスガールズ](https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5) | [THE IDOLM@STER SHINY COLORS Song for Prism 裸足じゃイラレナイ / 明日もBeautiful Day【放課後クライマックスガールズ盤】](https://open.spotify.com/album/3LnyFXxtKtRzFGQvhYxkVB) | 3:33 |
 | 12 | [ツバサグラビティ](https://open.spotify.com/track/0iNdM6ZaebjSiikUd5Ufn0) | [シャイニーカラーズ](https://open.spotify.com/artist/7ApxPPvOHclelY9xkLZwBR) | [ツバサグラビティ](https://open.spotify.com/album/66rKfGrv8i88TSSqvBPxSE) | 5:10 |
 | 13 | [ホムラインビテーション](https://open.spotify.com/track/0vXs7097cLK8vQlKMlwpV5) | [芹沢あさひ \(CV.田中有紀\)](https://open.spotify.com/artist/1WH3WJeWBh6MaSdrWmQWy4), [黛 冬優子 \(CV.幸村恵理\)](https://open.spotify.com/artist/4LkBDLtM2IWNQuzIfm9wF0), [和泉愛依 \(CV.北原沙弥香\)](https://open.spotify.com/artist/5EL1PeXHLhtARmaFhNeCTT), [七草にちか \(CV.紫月杏朱彩\)](https://open.spotify.com/artist/4QBth13tNmPlWh8cwsIMdm), [緋田美琴 \(CV.山根 綺\)](https://open.spotify.com/artist/0VJYBd628F6WoLMA7tDX5h) | [ホムラインビテーション](https://open.spotify.com/album/2SMURyI1Jvv83ZkP8LUiLA) | 3:42 |
 | 14 | [After Run](https://open.spotify.com/track/1q6Uhu5bhJ173RdpNpl6Lt) | [シーズ](https://open.spotify.com/artist/7HgWJK409CdFnu3OaK0NWZ) | [THE IDOLM@STER SHINY COLORS Song for Prism After Run / mellow mellow【アルストロメリア盤】](https://open.spotify.com/album/3YNKiPWjEw3iKQqZNCbRi1) | 4:02 |
 | 15 | [明日もBeautiful Day](https://open.spotify.com/track/50KTHltFNdlT2Y1qwQkuFH) | [アルストロメリア](https://open.spotify.com/artist/7cZwrPvoqWFiquYx5bfH2Q) | [THE IDOLM@STER SHINY COLORS Song for Prism 裸足じゃイラレナイ / 明日もBeautiful Day【アルストロメリア盤】](https://open.spotify.com/album/7x0Bomz5mJjVH2j8zqZS0j) | 4:24 |
-| 16 | [裸足じゃイラレナイ](https://open.spotify.com/track/39ax9hrC2eEkclukurGmpq) | [放課後クライマックスガールズ](https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5) | [THE IDOLM@STER SHINY COLORS Song for Prism 裸足じゃイラレナイ / 明日もBeautiful Day【放課後クライマックスガールズ盤】](https://open.spotify.com/album/3LnyFXxtKtRzFGQvhYxkVB) | 3:33 |
+| 16 | [パーティーマジックデザイナー](https://open.spotify.com/track/6uuwifjKVZBVM5Ma5v1juH) | [放課後クライマックスガールズ](https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5) | [THE IDOLM@STER SHINY COLORS ECHOES 03](https://open.spotify.com/album/73iGtI7gAIUiiR8zZh93Cf) | 4:20 |
 | 17 | [無自覚アプリオリ](https://open.spotify.com/track/2Ipl7XfPPg2rxFYuaTgwzt) | [コメティック](https://open.spotify.com/artist/48UrAAuut2mSFi2k9KmV1c) | [THE IDOLM@STER SHINY COLORS "CANVAS" 08](https://open.spotify.com/album/1yHDHmI9GOKVa15ye4sYk8) | 3:44 |
 | 18 | [チョコデート・サンデー](https://open.spotify.com/track/0ZDPHRKLzOkQeRc785UKuA) | [園田智代子 \(CV.白石晴香\)](https://open.spotify.com/artist/7j6xZZMXWEI6ZZHMNSJSq4) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS \-Stella\-](https://open.spotify.com/album/4LNCaJ2SQh27tRtaZGzmT9) | 4:33 |
 | 19 | [Happier](https://open.spotify.com/track/1UmHTmrLrkCVCWL7Zd9qYH) | [シーズ](https://open.spotify.com/artist/7HgWJK409CdFnu3OaK0NWZ) | [THE IDOLM@STER SHINY COLORS Song for Prism Happier / 枕木の歌【イルミネーションスターズ盤】](https://open.spotify.com/album/4qzUoamkzsZmsD56UIBdZ4) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 | 49 | [NEO THEORY FANTASY \- 2023 Ver.](https://open.spotify.com/track/5zbDmtQxbl4uF06a3dk6RO) | [アンティーカ](https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY) | [THE IDOLM@STER SHINY COLORS FR@GMENT WING 03 \(2023 Version\)](https://open.spotify.com/album/3U2w2LF7VOu4U0JwDwwDoN) | 5:50 |
 | 50 | [BURN BURN](https://open.spotify.com/track/6NpHw5T2neSPUg2F7NfWZk) | [ストレイライト](https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd) | [THE IDOLM@STER SHINY COLORS "CANVAS" 05](https://open.spotify.com/album/1V2XKud3WLAvGy1NlukjPw) | 3:23 |
 
-Snapshot ID: `AAAAALbcPcmdpOMsk00ZCtiuWAMch+7y`
+Snapshot ID: `AAAAAB4yAmBAHxFGNAllnwYBzMgsvdXu`

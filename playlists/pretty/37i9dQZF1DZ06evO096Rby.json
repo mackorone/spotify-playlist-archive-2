@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 60541,
+  "num_followers": 60573,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAA4u82y6L4m4otJFiJqL4xY",
+  "snapshot_id": "anPOgAAAAAALX4qankgz7DMTpBhaj00M",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/1b8glbu39phYQ6HZ3gCWea"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 193621,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/7lTBFudN674Thpm376zGuV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 162676,
       "name": "VVS",
       "url": "https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/1b8glbu39phYQ6HZ3gCWea"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 193621,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/7lTBFudN674Thpm376zGuV"
     },
     {
       "added_at": null,
@@ -247,6 +247,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 224166,
+      "name": "Muchachita De Ojos Tristes - En Vivo",
+      "url": "https://open.spotify.com/track/7wEPTmWqLaaP2MKDBjyU5M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Queridos Amigos",
         "url": "https://open.spotify.com/album/4uqLBrLJJC5Sd3N9LGs1Fz"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 173461,
       "name": "Los Principios",
       "url": "https://open.spotify.com/track/1THb7Ne4qeAhbbKRqmQcBA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 224166,
-      "name": "Muchachita De Ojos Tristes - En Vivo",
-      "url": "https://open.spotify.com/track/7wEPTmWqLaaP2MKDBjyU5M"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde Houston (En Vivo)",
-        "url": "https://open.spotify.com/album/7aWO3kNcUbNO7UlLqWlwOp"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 265791,
-      "name": "Mi Pasado y Mi Presente - En Vivo",
-      "url": "https://open.spotify.com/track/2aCHeupWslL71PoSuNIxTN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos 602 Vol.2",
         "url": "https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 151927,
       "name": "Ebrio De Amor",
       "url": "https://open.spotify.com/track/6Tkg79X9NrpYwWyl4dspKU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde Houston (En Vivo)",
+        "url": "https://open.spotify.com/album/7aWO3kNcUbNO7UlLqWlwOp"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 265791,
+      "name": "Mi Pasado y Mi Presente - En Vivo",
+      "url": "https://open.spotify.com/track/2aCHeupWslL71PoSuNIxTN"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La G\u00fcera",
-        "url": "https://open.spotify.com/album/5DxwSbjWmLXV6JFPWHjSSY"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 158242,
-      "name": "La G\u00fcera",
-      "url": "https://open.spotify.com/track/33A0Pj4Yw2cqPbgypFzkg0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Miedo (En Vivo)",
         "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 234154,
       "name": "Y Ahora Te Vas - En Vivo",
       "url": "https://open.spotify.com/track/19qba16XwdaHTXVrmPKZcM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La G\u00fcera",
+        "url": "https://open.spotify.com/album/5DxwSbjWmLXV6JFPWHjSSY"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 158242,
+      "name": "La G\u00fcera",
+      "url": "https://open.spotify.com/track/33A0Pj4Yw2cqPbgypFzkg0"
     },
     {
       "added_at": null,

@@ -975,6 +975,24 @@
     },
     {
       "album": {
+        "name": "747",
+        "url": "https://open.spotify.com/album/3J3ITSVDv3uw2gdOB2EtRR"
+      },
+      "artists": [
+        {
+          "name": "DOROFEEVA",
+          "url": "https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173962,
+      "name": "747",
+      "url": "https://open.spotify.com/track/0fOk5gmlKmhKEmSWpI6Cc0"
+    },
+    {
+      "album": {
         "name": "8 \u0434\u0438\u0432\u043e",
         "url": "https://open.spotify.com/album/4YKMi0o3WJ0QUEbMbmBZo0"
       },
@@ -30166,7 +30184,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 196817,
       "name": "\u0417 \u044f\u043a\u043e\u0433\u043e \u0442\u0438 \u043f\u043e\u0432\u0435\u0440\u0445\u0443 \u043d\u0435\u0431\u0430?",
       "url": "https://open.spotify.com/track/7JZs5hNCz4be2sJxaLIy5l"
@@ -30982,6 +31000,28 @@
       "duration_ms": 138214,
       "name": "\u0417\u043d\u0430\u0439\u0434\u0438 \u043c\u0435\u043d\u0435 - KAVA Remix",
       "url": "https://open.spotify.com/track/4RhA4AQeBc29toklGPMJUk"
+    },
+    {
+      "album": {
+        "name": "\u0417\u041d\u0410\u041a",
+        "url": "https://open.spotify.com/album/4RHWbcsl6dns8FMcElOEGg"
+      },
+      "artists": [
+        {
+          "name": "Toxi$",
+          "url": "https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW"
+        },
+        {
+          "name": "\u0414\u043e\u0440\u0430",
+          "url": "https://open.spotify.com/artist/2eiThpX5zH6LFmqP2HY1hL"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "\u0417\u041d\u0410\u041a",
+      "url": "https://open.spotify.com/track/2O9gTMtQz4mSnn0z58o5x5"
     },
     {
       "album": {
@@ -33006,7 +33046,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 267580,
       "name": "\u041b\u044e\u0434\u0438\u043d\u0430 \u0434\u043b\u044f \u043c\u0435\u043d\u0435",
       "url": "https://open.spotify.com/track/62vzgg6Lx13JHk5Lzlhuln"

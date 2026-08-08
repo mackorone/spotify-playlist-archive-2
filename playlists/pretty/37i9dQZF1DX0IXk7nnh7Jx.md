@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Listen to the best songs from faith\-based indie artists\.  Cover: Gable Price without Friends
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,016 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,028 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 74 | [Cascade View](https://open.spotify.com/track/6hzt50r5ZdUsQWXwMEsDcR) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Cascade View](https://open.spotify.com/album/4dDCw9RcW3cbVfj02qA6MW) | 2:45 |
 | 75 | [The Gospel](https://open.spotify.com/track/1Ia3lyWy9kZuDsjIW8voZ0) | [Joel Figueroa](https://open.spotify.com/artist/3QRS0RlYKcQFdr7X4pcE4V) | [The Gospel](https://open.spotify.com/album/2IHGF8zeVW7GgpVHVEIqDB) | 3:46 |
 
-Snapshot ID: `AAAAAOC0L9MITwwrFhkKfHy4x6VkjAb6`
+Snapshot ID: `AAAAAMPJdIuYsnbFisWHZaTbXrXRaDCN`

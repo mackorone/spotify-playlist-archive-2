@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Baila esta cumbia! Los \u00e9xitos de Latinoam\u00e9rica en un solo lugar. Foto: Los \u00c1ngeles Azules",
-  "num_followers": 1249202,
+  "num_followers": 1249334,
   "original_name": "100% Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABUSCP9IcxcC0E72JO5eyteqf+OD",
+  "snapshot_id": "AAAAAEgxGn6CoQZQuZv185XisAeNewvX",
   "tracks": [
     {
       "added_at": "2025-11-20 11:28:56",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-11-20 11:28:56",
       "album": {
-        "name": "Barrio Bravo",
-        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
-      },
-      "artists": [
-        {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
-        }
-      ],
-      "duration_ms": 300520,
-      "name": "Cumbia poder",
-      "url": "https://open.spotify.com/track/43067bbX2FhYHpfAntTIYB"
-    },
-    {
-      "added_at": "2025-11-20 11:28:56",
-      "album": {
         "name": "A LA ORDEN",
         "url": "https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 175058,
       "name": "A LA ORDEN",
       "url": "https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7"
+    },
+    {
+      "added_at": "2025-11-20 11:28:56",
+      "album": {
+        "name": "Barrio Bravo",
+        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
+      },
+      "artists": [
+        {
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+        }
+      ],
+      "duration_ms": 300520,
+      "name": "Cumbia poder",
+      "url": "https://open.spotify.com/track/43067bbX2FhYHpfAntTIYB"
     },
     {
       "added_at": "2025-11-20 11:28:56",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-11-20 11:28:56",
       "album": {
-        "name": "Serie Diamante - 15 S\u00faper Exitos",
-        "url": "https://open.spotify.com/album/6CbDYnfZuYfuC9aKn9LcSq"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "Me Vas A Recordar",
-      "url": "https://open.spotify.com/track/5Nh4sheOYL11EWJzxhRu5c"
-    },
-    {
-      "added_at": "2025-11-20 11:28:56",
-      "album": {
         "name": "Thalia",
         "url": "https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 232480,
       "name": "Tu Y Yo - Cumbia Remix",
       "url": "https://open.spotify.com/track/5ZYR17P7sT73hcIMn9tmZ8"
+    },
+    {
+      "added_at": "2025-11-20 11:28:56",
+      "album": {
+        "name": "Serie Diamante - 15 S\u00faper Exitos",
+        "url": "https://open.spotify.com/album/6CbDYnfZuYfuC9aKn9LcSq"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "Me Vas A Recordar",
+      "url": "https://open.spotify.com/track/5Nh4sheOYL11EWJzxhRu5c"
     },
     {
       "added_at": "2025-11-20 11:28:56",

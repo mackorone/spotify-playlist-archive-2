@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  GIANA",
-  "num_followers": 433754,
+  "num_followers": 433747,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJXvbzLfJgquncmSDDippsu8Q6m9",
+  "snapshot_id": "AAAAAF6LGTFKaBGPxEVyNzNBpKeLPR5r",
   "tracks": [
     {
       "added_at": "2026-08-07 03:00:09",
@@ -239,6 +239,26 @@
     {
       "added_at": "2026-08-07 03:00:09",
       "album": {
+        "name": "J\u00e1 Vi Fogo",
+        "url": "https://open.spotify.com/album/1H6u2TMNG8ZT91bDWkdJKu"
+      },
+      "artists": [
+        {
+          "name": "Academia da Berlinda",
+          "url": "https://open.spotify.com/artist/2pG3gLX9VMIXtbSRxvNKjC"
+        },
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 273281,
+      "name": "J\u00e1 Vi Fogo",
+      "url": "https://open.spotify.com/track/2ypKBa1kMmSa6zWT8TDEtC"
+    },
+    {
+      "added_at": "2026-08-07 03:00:09",
+      "album": {
         "name": "Bela Vista, 133",
         "url": "https://open.spotify.com/album/47l7dEphOlDIUb0anLNH0w"
       },
@@ -275,26 +295,6 @@
     {
       "added_at": "2026-08-07 03:00:09",
       "album": {
-        "name": "J\u00e1 Vi Fogo",
-        "url": "https://open.spotify.com/album/1H6u2TMNG8ZT91bDWkdJKu"
-      },
-      "artists": [
-        {
-          "name": "Academia da Berlinda",
-          "url": "https://open.spotify.com/artist/2pG3gLX9VMIXtbSRxvNKjC"
-        },
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        }
-      ],
-      "duration_ms": 273281,
-      "name": "J\u00e1 Vi Fogo",
-      "url": "https://open.spotify.com/track/2ypKBa1kMmSa6zWT8TDEtC"
-    },
-    {
-      "added_at": "2026-08-07 03:00:09",
-      "album": {
         "name": "BASEADO EM FATOS REAIS (deluxe)",
         "url": "https://open.spotify.com/album/1VNgTtRJ1zbNbBCc9mmTr1"
       },
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-08-07 03:00:09",
       "album": {
-        "name": "Disco Tropical",
-        "url": "https://open.spotify.com/album/5I88FHndtPxjZndN8EovDR"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 187589,
-      "name": "Disco Tropical",
-      "url": "https://open.spotify.com/track/38laFU5ZV92YufR2eIGxJU"
-    },
-    {
-      "added_at": "2026-08-07 03:00:09",
-      "album": {
         "name": "Emaranhei",
         "url": "https://open.spotify.com/album/75Q84Fp94DPjOYcxTtKUTR"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 171692,
       "name": "Emaranhei",
       "url": "https://open.spotify.com/track/4cN88WMuH5CAVg6YhnBCIP"
+    },
+    {
+      "added_at": "2026-08-07 03:00:09",
+      "album": {
+        "name": "Disco Tropical",
+        "url": "https://open.spotify.com/album/5I88FHndtPxjZndN8EovDR"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 187589,
+      "name": "Disco Tropical",
+      "url": "https://open.spotify.com/track/38laFU5ZV92YufR2eIGxJU"
     },
     {
       "added_at": "2026-08-07 03:00:09",
@@ -399,6 +399,22 @@
     {
       "added_at": "2026-08-07 03:00:09",
       "album": {
+        "name": "Can\u00e7\u00f5es para Chico e Malu",
+        "url": "https://open.spotify.com/album/0BEPPsgQnoNluUPf171GhG"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 180380,
+      "name": "Enquanto Voc\u00ea Cria Asas",
+      "url": "https://open.spotify.com/track/35yQ5QWeQMIAMUe3NlNtvk"
+    },
+    {
+      "added_at": "2026-08-07 03:00:09",
+      "album": {
         "name": "Cheirinho (Feat. YO\u00d9N)",
         "url": "https://open.spotify.com/album/2l22Z4Yjv0gQpkqp5CGVpw"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 173994,
       "name": "Cheirinho - Feat. YO\u00d9N",
       "url": "https://open.spotify.com/track/3q1mkSy6UIR0IQejy70sNZ"
-    },
-    {
-      "added_at": "2026-08-07 03:00:09",
-      "album": {
-        "name": "Can\u00e7\u00f5es para Chico e Malu",
-        "url": "https://open.spotify.com/album/0BEPPsgQnoNluUPf171GhG"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 180380,
-      "name": "Enquanto Voc\u00ea Cria Asas",
-      "url": "https://open.spotify.com/track/35yQ5QWeQMIAMUe3NlNtvk"
     },
     {
       "added_at": "2026-08-07 03:00:09",
@@ -463,6 +463,22 @@
       "duration_ms": 134753,
       "name": "Quando me ver passar",
       "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
+    },
+    {
+      "added_at": "2026-08-07 03:00:09",
+      "album": {
+        "name": "Pra Almar no Frio",
+        "url": "https://open.spotify.com/album/28vRC789Hnqk5UKqpvoH0T"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 147374,
+      "name": "Voc\u00ea \u00e9 Meu Lugar",
+      "url": "https://open.spotify.com/track/0Ke9hh991pyQLH4ivs3EiO"
     },
     {
       "added_at": "2026-08-07 03:00:09",
@@ -515,22 +531,6 @@
       "duration_ms": 189073,
       "name": "M\u00e1gica - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3FH8pFYgAjejTNrztxUU0B"
-    },
-    {
-      "added_at": "2026-08-07 03:00:09",
-      "album": {
-        "name": "Pra Almar no Frio",
-        "url": "https://open.spotify.com/album/28vRC789Hnqk5UKqpvoH0T"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 147374,
-      "name": "Voc\u00ea \u00e9 Meu Lugar",
-      "url": "https://open.spotify.com/track/0Ke9hh991pyQLH4ivs3EiO"
     },
     {
       "added_at": "2026-08-07 03:00:09",
@@ -699,22 +699,22 @@
     {
       "added_at": "2026-08-07 03:00:09",
       "album": {
-        "name": "Passageiro",
-        "url": "https://open.spotify.com/album/65uSV3GkJ8Pn34WOfi6fdm"
+        "name": "Te Amar",
+        "url": "https://open.spotify.com/album/7AdfzKVnZDHIHl4Oh9Arat"
       },
       "artists": [
         {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+          "name": "Aydan",
+          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
         },
         {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+          "name": "Machadez",
+          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
         }
       ],
-      "duration_ms": 219574,
-      "name": "Passageiro",
-      "url": "https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq"
+      "duration_ms": 178645,
+      "name": "Te Amar",
+      "url": "https://open.spotify.com/track/2guWowZjpG8OPiIWaNRQOf"
     },
     {
       "added_at": "2026-08-07 03:00:09",
@@ -731,6 +731,26 @@
       "duration_ms": 153714,
       "name": "Vest\u00edgios",
       "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
+    },
+    {
+      "added_at": "2026-08-07 03:00:09",
+      "album": {
+        "name": "Passageiro",
+        "url": "https://open.spotify.com/album/65uSV3GkJ8Pn34WOfi6fdm"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        },
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 219574,
+      "name": "Passageiro",
+      "url": "https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq"
     },
     {
       "added_at": "2026-08-07 03:00:09",
@@ -783,6 +803,26 @@
     {
       "added_at": "2026-08-07 03:00:09",
       "album": {
+        "name": "Branca",
+        "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
+      },
+      "artists": [
+        {
+          "name": "Zecca Gomes",
+          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
+        },
+        {
+          "name": "Tianastacia",
+          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
+        }
+      ],
+      "duration_ms": 168051,
+      "name": "Branca",
+      "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
+    },
+    {
+      "added_at": "2026-08-07 03:00:09",
+      "album": {
         "name": "Eu s\u00f3 quero um xod\u00f3",
         "url": "https://open.spotify.com/album/2s6qsazRApew3tJUkjoyps"
       },
@@ -819,26 +859,6 @@
       "duration_ms": 211295,
       "name": "Doente",
       "url": "https://open.spotify.com/track/2oXtA7nfgRgwZOMt3RCu7L"
-    },
-    {
-      "added_at": "2026-08-07 03:00:09",
-      "album": {
-        "name": "Branca",
-        "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
-      },
-      "artists": [
-        {
-          "name": "Zecca Gomes",
-          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
-        },
-        {
-          "name": "Tianastacia",
-          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
-        }
-      ],
-      "duration_ms": 168051,
-      "name": "Branca",
-      "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
     },
     {
       "added_at": "2026-08-07 03:00:09",
@@ -899,26 +919,6 @@
     {
       "added_at": "2026-08-07 03:00:09",
       "album": {
-        "name": "Te Amar",
-        "url": "https://open.spotify.com/album/7AdfzKVnZDHIHl4Oh9Arat"
-      },
-      "artists": [
-        {
-          "name": "Aydan",
-          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
-        },
-        {
-          "name": "Machadez",
-          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
-        }
-      ],
-      "duration_ms": 178645,
-      "name": "Te Amar",
-      "url": "https://open.spotify.com/track/2guWowZjpG8OPiIWaNRQOf"
-    },
-    {
-      "added_at": "2026-08-07 03:00:09",
-      "album": {
         "name": "Del Amor Una Bandera",
         "url": "https://open.spotify.com/album/2ISymt2oiMYBJaL7Iuy9k0"
       },
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-08-07 03:00:09",
       "album": {
+        "name": "Tudo Pode Mudar (Acusticamente)",
+        "url": "https://open.spotify.com/album/6vq5yAqGvdymhJ8GwFxthg"
+      },
+      "artists": [
+        {
+          "name": "Balara",
+          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
+        }
+      ],
+      "duration_ms": 245009,
+      "name": "Tudo Pode Mudar (Acusticamente)",
+      "url": "https://open.spotify.com/track/0JyM1LLibIxFoqoUpzpRvb"
+    },
+    {
+      "added_at": "2026-08-07 03:00:09",
+      "album": {
         "name": "SENSA\u00c7\u00c3O BONITA",
         "url": "https://open.spotify.com/album/0JAXCHt3TMYQcnmFC2TFT8"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 159997,
       "name": "SENSA\u00c7\u00c3O BONITA",
       "url": "https://open.spotify.com/track/2EGSyyy3YUBq0R0EbMt7yK"
-    },
-    {
-      "added_at": "2026-08-07 03:00:09",
-      "album": {
-        "name": "Tudo Pode Mudar (Acusticamente)",
-        "url": "https://open.spotify.com/album/6vq5yAqGvdymhJ8GwFxthg"
-      },
-      "artists": [
-        {
-          "name": "Balara",
-          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
-        }
-      ],
-      "duration_ms": 245009,
-      "name": "Tudo Pode Mudar (Acusticamente)",
-      "url": "https://open.spotify.com/track/0JyM1LLibIxFoqoUpzpRvb"
     },
     {
       "added_at": "2026-08-07 03:00:09",
@@ -1183,22 +1183,18 @@
     {
       "added_at": "2026-08-07 03:00:09",
       "album": {
-        "name": "P\u00f4r Do Sol Avisa",
-        "url": "https://open.spotify.com/album/5iA2tzeH3oY00TtCvPbNYS"
+        "name": "Meu crime foi amar",
+        "url": "https://open.spotify.com/album/0XNpCxorUkWLhW4rnmS7OI"
       },
       "artists": [
         {
-          "name": "Lara Estelita",
-          "url": "https://open.spotify.com/artist/1fzHqkke0WWhsbEa98HpgH"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+          "name": "Julio Secchin",
+          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
         }
       ],
-      "duration_ms": 145079,
-      "name": "P\u00f4r Do Sol Avisa",
-      "url": "https://open.spotify.com/track/4SfcwRf4bxWOKACtH4uAz8"
+      "duration_ms": 202882,
+      "name": "Meu crime foi amar",
+      "url": "https://open.spotify.com/track/5hlVPUWezYbwgoqfrXHSv9"
     },
     {
       "added_at": "2026-08-07 03:00:09",
@@ -1219,6 +1215,26 @@
     {
       "added_at": "2026-08-07 03:00:09",
       "album": {
+        "name": "P\u00f4r Do Sol Avisa",
+        "url": "https://open.spotify.com/album/5iA2tzeH3oY00TtCvPbNYS"
+      },
+      "artists": [
+        {
+          "name": "Lara Estelita",
+          "url": "https://open.spotify.com/artist/1fzHqkke0WWhsbEa98HpgH"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 145079,
+      "name": "P\u00f4r Do Sol Avisa",
+      "url": "https://open.spotify.com/track/4SfcwRf4bxWOKACtH4uAz8"
+    },
+    {
+      "added_at": "2026-08-07 03:00:09",
+      "album": {
         "name": "te traindo com voc\u00ea",
         "url": "https://open.spotify.com/album/1iI2L8t9AV3wV46p4DI6mz"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 188150,
       "name": "te traindo com voc\u00ea",
       "url": "https://open.spotify.com/track/41QKpbVRRdgcTOFvL4GF92"
-    },
-    {
-      "added_at": "2026-08-07 03:00:09",
-      "album": {
-        "name": "Meu crime foi amar",
-        "url": "https://open.spotify.com/album/0XNpCxorUkWLhW4rnmS7OI"
-      },
-      "artists": [
-        {
-          "name": "Julio Secchin",
-          "url": "https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs"
-        }
-      ],
-      "duration_ms": 202882,
-      "name": "Meu crime foi amar",
-      "url": "https://open.spotify.com/track/5hlVPUWezYbwgoqfrXHSv9"
     }
   ],
   "unique_name": "Pop Leve",

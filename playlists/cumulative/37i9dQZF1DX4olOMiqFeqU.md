@@ -4,7 +4,7 @@
 
 > 100% Pinoy hits from your favorite artists!
 
-209 songs - 14 hr 52 min
+211 songs - 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Ang Huling El Bimbo](https://open.spotify.com/track/21LMl54FIe7J5oOoZzgeiQ) | [Eraserheads](https://open.spotify.com/artist/7374lH6kwx9uQATYQ9H3Cp) | [Anthology](https://open.spotify.com/album/2DIpgoeZAbwk3wF1qSDj8v) | 7:30 | 2022-04-19 | 2023-01-19 |
 | [Ang Pag\-Ibig Kong Ito](https://open.spotify.com/track/2M4fBSlTOSsMjkSON97mZR) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Ang Pag\-Ibig Kong Ito](https://open.spotify.com/album/6C1RCcjUmBB9NSkGzgip9V) | 3:45 | 2026-05-06 | 2026-05-14 |
 | [Ang Wakas \(feat\. Trisha Macapagal\)](https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce), [Trisha Macapagal](https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O) | [Ang Wakas \(feat\. Trisha Macapagal\)](https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n) | 5:04 | 2023-01-04 |  |
-| [Ano Ba Talaga Tayo?](https://open.spotify.com/track/2KpCEmtEabbAHx2TyXE6NX) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [TAWID](https://open.spotify.com/album/3bkrsArJCA2Wf6J3BksYot) | 4:12 | 2026-05-13 |  |
+| [Ano Ba Talaga Tayo?](https://open.spotify.com/track/2KpCEmtEabbAHx2TyXE6NX) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [TAWID](https://open.spotify.com/album/3bkrsArJCA2Wf6J3BksYot) | 4:12 | 2026-05-13 | 2026-08-08 |
 | [Araw Gabi](https://open.spotify.com/track/2G12Q4GtBYw2TG82Luhwmk) | [Regine Velasquez](https://open.spotify.com/artist/3wNylAjJX1PiCpMKx8Lrfp) | [R3.0](https://open.spotify.com/album/4RqIksPrQgCdG83VtcUoYx) | 4:41 | 2026-01-26 | 2026-03-19 |
 | [Araw\-Araw Love](https://open.spotify.com/track/1x7DysraeqSgVgj95hHc3U) | [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Araw\-Araw Love](https://open.spotify.com/album/4h5wKpTXHfEeYYZIIVOC8g) | 3:31 | 2023-04-03 | 2023-08-02 |
 | [Asan Ka Na Ba](https://open.spotify.com/track/5MYPzdIWgx3pMLRGlq2fVq) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Asan Ka Na Ba](https://open.spotify.com/album/0MK93ibEen72O8dosu3WXE) | 4:01 | 2023-03-09 | 2023-12-12 |
@@ -91,6 +91,7 @@
 | [Kahit Pa](https://open.spotify.com/track/444aHC3uiDijx7jzmMkIUK) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Hale](https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk) | 3:55 | 2023-09-13 | 2024-01-04 |
 | [Kahit Pa](https://open.spotify.com/track/2VNjWwKlOWU5qqKa5EquLW) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Hale](https://open.spotify.com/album/472GgeFZaCdRLcL3cT0IAn) | 3:55 | 2023-01-04 | 2023-01-09 |
 | [Kailan?](https://open.spotify.com/track/3ySu1fXHuIogUKdotleIxg) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Tanong](https://open.spotify.com/album/4SGdL7JyP2wLYp7YpNc1hI) | 3:54 | 2024-04-17 | 2025-10-16 |
+| [Kalapastangan](https://open.spotify.com/track/1udOOSbJnytCdgvbgYOF5s) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr) | [Kalapastangan](https://open.spotify.com/album/3a6kSazBwMHk4rJU07hQCg) | 4:36 | 2026-08-07 |  |
 | [Kalimutan Ka](https://open.spotify.com/track/7dXZnGGBn9Kfu8NCnrRl3w) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Kalimutan Ka](https://open.spotify.com/album/1CVdBDkuBgD62YGDXslE4R) | 4:48 | 2025-08-23 |  |
 | [Kathang Isip](https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Kathang Isip](https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L) | 5:18 | 2022-04-19 |  |
 | [Kisame](https://open.spotify.com/track/4XSIv5hJzP6kEQqsLli1eE) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [Kisame](https://open.spotify.com/album/0a0UdCKsKEGjFGBi9mGAMe) | 3:32 | 2024-01-10 | 2025-09-10 |
@@ -103,6 +104,7 @@
 | [LASIK](https://open.spotify.com/track/5da5VCHTC3516y0y8p40Ee) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Curiosity Killed the Cat](https://open.spotify.com/album/5duuHmLrcRq26ePcf7XBFd) | 3:45 | 2025-07-11 | 2025-11-22 |
 | [Leaves](https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Leaves](https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y) | 5:10 | 2022-04-19 |  |
 | [Leonora](https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Leonora](https://open.spotify.com/album/3jJ8JEOq8xL9DWum9cMpIq) | 3:54 | 2024-01-10 |  |
+| [Libu\-Libong Buwan \(Uuwian\)](https://open.spotify.com/track/3cZUIZ8i74C1Kvnix4xZez) | [Kyle Raphael](https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp) | [Libu\-Libong Buwan \(Uuwian\)](https://open.spotify.com/album/2IklwGsXhUYe77FDKzQlRe) | 2:58 | 2026-08-07 |  |
 | [Ligaya](https://open.spotify.com/track/6SHSvo6OGgpneKfsxFGhhk) | [Eraserheads](https://open.spotify.com/artist/7374lH6kwx9uQATYQ9H3Cp) | [Anthology](https://open.spotify.com/album/2DIpgoeZAbwk3wF1qSDj8v) | 4:31 | 2022-06-13 | 2022-06-21 |
 | [Ligaya](https://open.spotify.com/track/4IeuTj1pEHuL9vJSiEqEfR) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ligaya](https://open.spotify.com/album/0ccUyUkrIynFO5USku5IHH) | 4:08 | 2022-04-19 | 2022-06-14 |
 | [Lihim](https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Lihim](https://open.spotify.com/album/2FIBgr9TXQpqItmTNIT89U) | 4:06 | 2024-04-17 | 2025-07-31 |
@@ -140,7 +142,7 @@
 | [Oksihina](https://open.spotify.com/track/06VwVWrnYSTIikz801hGwD) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Oksihina](https://open.spotify.com/album/0YEPa646R98Iqp2GDqsl29) | 3:24 | 2025-07-30 |  |
 | [Pa\-umaga](https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Pa\-umaga](https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE) | 3:09 | 2022-06-13 |  |
 | [Padaba Taka](https://open.spotify.com/track/07gUvSU765VtVbSoHPMHHO) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Padaba Taka](https://open.spotify.com/album/0Vl0nkEU0moIeAlY3gbYjZ) | 4:37 | 2024-01-10 | 2025-03-26 |
-| [Pag\-ibig ng Ikaw at Ako](https://open.spotify.com/track/1GqZU8Isnm4Bwx7V3na5tO) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Pag\-ibig ng Ikaw at Ako](https://open.spotify.com/album/4XcBixCavHYqmVPCAr2jwN) | 4:40 | 2026-05-20 |  |
+| [Pag\-ibig ng Ikaw at Ako](https://open.spotify.com/track/1GqZU8Isnm4Bwx7V3na5tO) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Pag\-ibig ng Ikaw at Ako](https://open.spotify.com/album/4XcBixCavHYqmVPCAr2jwN) | 4:40 | 2026-05-20 | 2026-08-08 |
 | [Pagsamo](https://open.spotify.com/track/0WZqHCoOBXqgCCIsUZLC2a) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pagsamo](https://open.spotify.com/album/668hRB0T4LU6a7HVspAMKy) | 4:57 | 2022-04-19 |  |
 | [Pahinga](https://open.spotify.com/track/5gsrnGObHgA9RxbzSbsHj9) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Pahinga](https://open.spotify.com/album/5kR9f0sM2O0w0S7BC3TaSP) | 4:21 | 2025-10-22 | 2026-03-19 |
 | [Palagi](https://open.spotify.com/track/0sqnYgWOw9DMc6jRgkcB2m) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Palagi](https://open.spotify.com/album/4IO4IBKrCHtJVckqsdH6XH) | 3:38 | 2025-04-23 | 2025-08-24 |

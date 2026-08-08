@@ -1,12 +1,12 @@
 {
   "description": "Die Klassiker des Schweizer Hip-Hop.",
-  "num_followers": 13285,
+  "num_followers": 13286,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGkdq4TXwfdSfll0njO2NU0ouDxu",
+  "snapshot_id": "AAAAAEZmJ3Hm7vfvM/5lnuhP7LV7BXb4",
   "tracks": [
     {
       "added_at": "2026-03-19 09:16:31",
@@ -183,6 +183,26 @@
     {
       "added_at": "2026-03-19 09:16:31",
       "album": {
+        "name": "Churer Dame K\u00f6nig Gras",
+        "url": "https://open.spotify.com/album/3chLYTAznowVTDoIZByBVq"
+      },
+      "artists": [
+        {
+          "name": "LIV",
+          "url": "https://open.spotify.com/artist/4pw7Mbk0DDfe90FRWlXIzA"
+        },
+        {
+          "name": "DJ Babon",
+          "url": "https://open.spotify.com/artist/0wc6XBZwfrVIKFxJkhxm41"
+        }
+      ],
+      "duration_ms": 205242,
+      "name": "Tagebuach",
+      "url": "https://open.spotify.com/track/53hEa3yzWEKm7ft3EG7cVF"
+    },
+    {
+      "added_at": "2026-03-19 09:16:31",
+      "album": {
         "name": "10 Tracks - Vol. 4",
         "url": "https://open.spotify.com/album/1ZAiyo0VLkq8hO4Ev6mEK0"
       },
@@ -203,26 +223,6 @@
       "duration_ms": 400120,
       "name": "Track 05",
       "url": "https://open.spotify.com/track/7ojgCkJNhgFw7y5C7WlA3h"
-    },
-    {
-      "added_at": "2026-03-19 09:16:31",
-      "album": {
-        "name": "Churer Dame K\u00f6nig Gras",
-        "url": "https://open.spotify.com/album/3chLYTAznowVTDoIZByBVq"
-      },
-      "artists": [
-        {
-          "name": "LIV",
-          "url": "https://open.spotify.com/artist/4pw7Mbk0DDfe90FRWlXIzA"
-        },
-        {
-          "name": "DJ Babon",
-          "url": "https://open.spotify.com/artist/0wc6XBZwfrVIKFxJkhxm41"
-        }
-      ],
-      "duration_ms": 205242,
-      "name": "Tagebuach",
-      "url": "https://open.spotify.com/track/53hEa3yzWEKm7ft3EG7cVF"
     },
     {
       "added_at": "2026-03-19 09:16:31",
@@ -459,26 +459,6 @@
     {
       "added_at": "2026-03-19 09:16:31",
       "album": {
-        "name": "L\u00e4benslauf",
-        "url": "https://open.spotify.com/album/3hGDhRc16xd2dhfjLQsHZh"
-      },
-      "artists": [
-        {
-          "name": "Wrecked Mob",
-          "url": "https://open.spotify.com/artist/0QIYFbo3qmvlapTnwPM6i3"
-        },
-        {
-          "name": "Dj Thomilla",
-          "url": "https://open.spotify.com/artist/2WLE4ikok9I4HuBm9637rx"
-        }
-      ],
-      "duration_ms": 242293,
-      "name": "L\u00e4benslauf",
-      "url": "https://open.spotify.com/track/3DdMYzqyIg7mXI47UTcNmN"
-    },
-    {
-      "added_at": "2026-03-19 09:16:31",
-      "album": {
         "name": "Fl\u00f6chted",
         "url": "https://open.spotify.com/album/7AHBWmJtoKKMBLEwjg6Hek"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 241333,
       "name": "Mond",
       "url": "https://open.spotify.com/track/78AYyOqp7eRKEqG5XDULBD"
+    },
+    {
+      "added_at": "2026-03-19 09:16:31",
+      "album": {
+        "name": "L\u00e4benslauf",
+        "url": "https://open.spotify.com/album/3hGDhRc16xd2dhfjLQsHZh"
+      },
+      "artists": [
+        {
+          "name": "Wrecked Mob",
+          "url": "https://open.spotify.com/artist/0QIYFbo3qmvlapTnwPM6i3"
+        },
+        {
+          "name": "Dj Thomilla",
+          "url": "https://open.spotify.com/artist/2WLE4ikok9I4HuBm9637rx"
+        }
+      ],
+      "duration_ms": 242293,
+      "name": "L\u00e4benslauf",
+      "url": "https://open.spotify.com/track/3DdMYzqyIg7mXI47UTcNmN"
     },
     {
       "added_at": "2026-03-19 09:16:31",

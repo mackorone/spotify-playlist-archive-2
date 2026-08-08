@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 
 > pov: u hand the internet the aux
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,927 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,935 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 49 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 |
 | 50 | [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 |
 
-Snapshot ID: `AAAAAAdAjEbY7YjlUkx2LpHGsLCpBqjW`
+Snapshot ID: `AAAAAAnYZeGOlRsDbhOQt2A2UZ81UzV1`

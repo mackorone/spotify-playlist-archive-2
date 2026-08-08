@@ -4,7 +4,7 @@
 
 > Nieuw:  LUNA, Django Wagner, Gotu Jim en meer..
 
-16,922 songs - 36 day 19 hr 19 min
+16,924 songs - 36 day 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5919,6 +5919,7 @@
 | [HALLELUYAH](https://open.spotify.com/track/4EFMeGHju9olQxQG8XCoHO) | [Jayboogz](https://open.spotify.com/artist/5tTHX8CPiN6VMR8YEWecSS) | [HALLELUYAH](https://open.spotify.com/album/74vauA8dODXFAYaRGianKv) | 2:19 | 2023-06-15 | 2023-06-23 |
 | [Hallo](https://open.spotify.com/track/6PRJdhtpg6B71UNpkI3EVX) | [De Alpenzusjes](https://open.spotify.com/artist/0Mw807WhdUetNZImyG6vQx) | [Hallo](https://open.spotify.com/album/3L6ZjoBCz0okVjnGVTCyn7) | 2:24 | 2026-01-15 | 2026-01-23 |
 | [Hallo In De Yellow](https://open.spotify.com/track/3ADVAKTLym5nIOXlD8OfR0) | [De Herfshane Band](https://open.spotify.com/artist/56gHvAmpkabcoC8YSV0a4r), [Chantal Janzen](https://open.spotify.com/artist/2FyAfRcka8m38xmE2vjZIn) | [Hallo In De Yellow](https://open.spotify.com/album/3jj6GypKBJxXXSgepUGVJX) | 3:31 | 2026-07-02 | 2026-07-10 |
+| [Hallo, met mij.](https://open.spotify.com/track/4CHsDxBt3xstJcLQ1pPu8E) | [Dave Budha](https://open.spotify.com/artist/6zIx5dF0NrdVdbqF5JuuP7) | [Hallo, met mij.](https://open.spotify.com/album/48IS1Jgvw3T6aqqDiTegpo) | 2:43 | 2026-08-07 |  |
 | [Halloween](https://open.spotify.com/track/0cMY0Cplzkz8OVSJVNhCJY) | [Martin Jasper](https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ) | [Halloween](https://open.spotify.com/album/2m92AKmD5b6AqMPOjZqSoK) | 2:40 | 2025-01-30 | 2025-02-07 |
 | [Halo](https://open.spotify.com/track/6LziN7kYIkvyV4DLz5kAL1) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Halo](https://open.spotify.com/album/138ec88T9pXLv6jhKuQD4z) | 3:34 | 2024-02-08 | 2024-02-16 |
 | [Halverwege](https://open.spotify.com/track/6wBrm0ObemKtg0nGjnQiNN) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Halverwege](https://open.spotify.com/album/6yDTfOWKUkEpLNGXI3Dsbt) | 2:50 | 2026-03-12 | 2026-03-20 |
@@ -13532,6 +13533,7 @@
 | [Stiekem ‘24](https://open.spotify.com/track/1FdncxahefhSPAE1npIMCk) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Stiekem ‘24](https://open.spotify.com/album/7qSfiZ1AVuuOci1fjEXMQr) | 3:08 | 2024-05-09 | 2024-05-17 |
 | [Stigma](https://open.spotify.com/track/55tKFIiS8gwXsYTNlkJZNk) | [Yaro Mila](https://open.spotify.com/artist/2DF11cL7GWpEiklH9I52SX) | [Stigma](https://open.spotify.com/album/1u4i8YKnVqPSMNmVkaht8U) | 2:43 | 2024-12-12 | 2024-12-20 |
 | [Stil De Tijd](https://open.spotify.com/track/7DB0nYQr129OkyGYWdvIDn) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(Typhoon\)](https://open.spotify.com/album/3FmlZFSHo1RXX9wDeGauMW) | 3:30 | 2025-09-11 | 2025-09-19 |
+| [Still](https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:40 | 2026-08-07 |  |
 | [still a little something](https://open.spotify.com/track/6C0wqhnjUvHai4hNOsOOud) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [still a little something](https://open.spotify.com/album/1tqeRNh6UfpaEnlS656SQj) | 3:17 | 2024-01-25 | 2024-02-02 |
 | [Still Alive \- From the Original Motion Picture Scream VI](https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Still Alive \(From the Original Motion Picture Scream VI\)](https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q) | 3:05 | 2023-03-02 | 2023-03-10 |
 | [still around](https://open.spotify.com/track/2Qe9pxPgnUBZMRDvonR0hK) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [still around](https://open.spotify.com/album/590XAhSjXQGT8BfHCOaZGp) | 3:37 | 2024-08-01 | 2024-08-09 |

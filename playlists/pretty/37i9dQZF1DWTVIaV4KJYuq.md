@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,687 likes - 110 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,708 likes - 110 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 109 | [With A Little Help From My Friends](https://open.spotify.com/track/1yOPFin76ojxOnecsV3v81) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/3C5cW9dAz11OXXsavHNR7N) | 5:12 |
 | 110 | [Sweet Child O' Mine](https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z) | [Taken By Trees](https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN) | [Sweet Child o’ Mine](https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7) | 5:02 |
 
-Snapshot ID: `AAAAAFHis3qH3BFNEFLhr6yD490JOoN0`
+Snapshot ID: `AAAAAMM0dJRgW6N94UGVP7Uql7ilkHpw`

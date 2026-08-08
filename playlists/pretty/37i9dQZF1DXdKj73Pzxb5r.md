@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Atlesta
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,199 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,201 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 | 2 | [Semu](https://open.spotify.com/track/11rWQVHyNB0Ok5LzAKosvP) | [The Midnight Darlings](https://open.spotify.com/artist/4ue4vWE4ZBHmdurM0PsiAI) | [Semu](https://open.spotify.com/album/6Eqo3gZE9zuCM9kCSod2Ei) | 3:48 |
 | 3 | [Terang Bulan](https://open.spotify.com/track/1V1cJhyveqBGlssgLDcEod) | [Endah N Rhesa](https://open.spotify.com/artist/0GH4vb2jkC3AVxMChCp1W7) | [Terang Bulan](https://open.spotify.com/album/0cRrQUuCmCJ4rgfrAHW7Xc) | 2:43 |
 | 4 | [Selaras \(feat\. Anak\-anak\)](https://open.spotify.com/track/1zNppYGgMBlJD8a9R4F9s1) | [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co), [Made Mawut](https://open.spotify.com/artist/4p86bdMabmIFf7G0eKsrCe), [Anak\-anak](https://open.spotify.com/artist/4PA9rrzLGrHIAzgdd8lkTw) | [Selaras \(feat\. Anak\-anak\)](https://open.spotify.com/album/2me9L3mF9C6T2SXabNgLNH) | 2:32 |
-| 5 | ["obsessed"](https://open.spotify.com/track/0JdCGnIfvQWWm1SkMx3KfT) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | ["obsessed"](https://open.spotify.com/album/3hQ1Y0qo7qLFVeF7gDkVbH) | 2:50 |
+| 5 | [obsessed](https://open.spotify.com/track/0JdCGnIfvQWWm1SkMx3KfT) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [obsessed](https://open.spotify.com/album/3hQ1Y0qo7qLFVeF7gDkVbH) | 2:50 |
 | 6 | [Karena \(Ku Tak Tahu\)](https://open.spotify.com/track/2ihXhGecD4eWgHORk03DLN) | [FILM.](https://open.spotify.com/artist/68nVbpdYAVfDDejsFw53k8) | [Manuskrip](https://open.spotify.com/album/6i5FXTvYFvPClPtyRj0Q7P) | 5:01 |
 | 7 | [Menjelajahi Kerinduan](https://open.spotify.com/track/3tYls6fQpu7i4XoKfPbbyR) | [Parade Hujan](https://open.spotify.com/artist/12FqhPQ5x6a1V3UeN7hD9z) | [Punar](https://open.spotify.com/album/56y8mOV8qm0KDDcow0CyOX) | 4:07 |
 | 8 | [Don't Look at Me Like That](https://open.spotify.com/track/0HV4XgpAC7n3xjYkNRZrPh) | [vanilla party](https://open.spotify.com/artist/1470A0L5LmvZg4AHnS3xrc) | [A Letter Under the Bed](https://open.spotify.com/album/0fYhEmu0bClqan7uNZWxS7) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 | 99 | [Past Lives](https://open.spotify.com/track/5thA4P9tQFYxFQNJXqhJW8) | [Adoracion](https://open.spotify.com/artist/2IdrP1cIBMKMzw2qxshiKF) | [Past Lives](https://open.spotify.com/album/11hQsk3ClOoOFmrOaGCpJz) | 3:54 |
 | 100 | [Hiduplah Yang Lama](https://open.spotify.com/track/7JVGsO49BhuRjDcGwk3KqQ) | [Sambadha](https://open.spotify.com/artist/7xKSiJ3Qq4uul4QDeq5cu9) | [Ruang Ruang Sandar](https://open.spotify.com/album/3bbAuyK0lNf5VnoeLPdWg6) | 3:20 |
 
-Snapshot ID: `AAAAAM4U+XJ8guVSZzs+kVZwO9TIOZFn`
+Snapshot ID: `AAAAALBwKabZu82RP26kn2cQo15o/b98`

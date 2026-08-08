@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 21240,
+  "num_followers": 21242,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEjQzlwAL2Wh0ngSorJf5bw9rAxl",
+  "snapshot_id": "AAAAAC7q6scof8FNOaUEUJnYtuBjFE+l",
   "tracks": [
     {
       "added_at": "2026-07-03 07:32:57",
@@ -915,6 +915,26 @@
     {
       "added_at": "2026-07-03 07:32:57",
       "album": {
+        "name": "SELFISH",
+        "url": "https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        },
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        }
+      ],
+      "duration_ms": 192577,
+      "name": "SELFISH (Feat. SEULGI Of Red Velvet)",
+      "url": "https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj"
+    },
+    {
+      "added_at": "2026-07-03 07:32:57",
+      "album": {
         "name": "TOAST",
         "url": "https://open.spotify.com/album/7zj1ryzYXQdewJ1bWQaHbJ"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 223973,
       "name": "End Better (Feat. Skinny Brown)",
       "url": "https://open.spotify.com/track/5BVRrg0ewd72Jdzj7Oizty"
-    },
-    {
-      "added_at": "2026-07-03 07:32:57",
-      "album": {
-        "name": "SELFISH",
-        "url": "https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1"
-      },
-      "artists": [
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        },
-        {
-          "name": "SEULGI",
-          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
-        }
-      ],
-      "duration_ms": 192577,
-      "name": "SELFISH (Feat. SEULGI Of Red Velvet)",
-      "url": "https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj"
     },
     {
       "added_at": "2026-07-03 07:32:57",

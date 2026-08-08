@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-26",
-  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: Grupo Primer Grado",
+  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: Novilllos de la Sierra",
   "name": "Corridos Perrones",
   "tracks": [
     {
@@ -3933,6 +3933,28 @@
     },
     {
       "album": {
+        "name": "De Sonora A Chihuahua",
+        "url": "https://open.spotify.com/album/0mgHUfCpaihSguk7LLGPyj"
+      },
+      "artists": [
+        {
+          "name": "Elio Vega",
+          "url": "https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg"
+        },
+        {
+          "name": "Jos\u00e9 Ponce y El Nuevo Equipo",
+          "url": "https://open.spotify.com/artist/1WF4RGjRhzQRdtTowIt4fX"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "El Bazucaso",
+      "url": "https://open.spotify.com/track/54zzYLB6l0d5xuIeQIPsHI"
+    },
+    {
+      "album": {
         "name": "El Ba\u00fal de los Recuerdos",
         "url": "https://open.spotify.com/album/4DoWUEZAatO4tRbglVpY0i"
       },
@@ -3948,7 +3970,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 160757,
       "name": "El Ba\u00fal de los Recuerdos",
       "url": "https://open.spotify.com/track/3bcmJ3VFuTKnbU5RI6TGZG"
@@ -4598,6 +4620,24 @@
       "duration_ms": 128893,
       "name": "El de La Codeina",
       "url": "https://open.spotify.com/track/7K2JfvcKhIMwOndE6QBodf"
+    },
+    {
+      "album": {
+        "name": "El De La Costa 2",
+        "url": "https://open.spotify.com/album/2w637pYfG6d2g6o8ypE5sd"
+      },
+      "artists": [
+        {
+          "name": "Los Juniors De Mexicali",
+          "url": "https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164003,
+      "name": "El De La Costa 2",
+      "url": "https://open.spotify.com/track/1vqe5izzMQKZYGgVF4y6aL"
     },
     {
       "album": {
@@ -5982,6 +6022,24 @@
       "duration_ms": 215690,
       "name": "El Que Dir\u00e1n",
       "url": "https://open.spotify.com/track/1aCP4xJn3CwXqEP0keAb6r"
+    },
+    {
+      "album": {
+        "name": "El Quilin",
+        "url": "https://open.spotify.com/album/0uf02vcbAZFQPpIeWUrYlB"
+      },
+      "artists": [
+        {
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "El Quilin",
+      "url": "https://open.spotify.com/track/3d12eWHA9P7LUjUcY3vQp7"
     },
     {
       "album": {
@@ -9142,7 +9200,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 153182,
       "name": "La Plebada del 09",
       "url": "https://open.spotify.com/track/1dafTXbbbK0wSsji6VbPJJ"
@@ -11614,7 +11672,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 213973,
       "name": "Obreg\u00f3n",
       "url": "https://open.spotify.com/track/3Ksxqaq8JaoJxvdgoOGPcT"

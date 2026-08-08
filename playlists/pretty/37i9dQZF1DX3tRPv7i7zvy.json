@@ -1,12 +1,12 @@
 {
   "description": "We Outsideeeee!",
-  "num_followers": 21613,
+  "num_followers": 21640,
   "original_name": "Abonten ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACj9TC7MEpOYNOeS2U3wkKGmtxgs",
+  "snapshot_id": "AAAAAF8NnN6QiUS0VKSjYWqkhgyS18fc",
   "tracks": [
     {
       "added_at": "2026-07-31 00:02:01",
@@ -615,18 +615,22 @@
     {
       "added_at": "2026-07-31 00:02:01",
       "album": {
-        "name": "Catching Glory",
-        "url": "https://open.spotify.com/album/3HESFwZUTupThlVV2z1v6E"
+        "name": "CHRISTO DISCO",
+        "url": "https://open.spotify.com/album/0FXrgbufzQTknLpinb21ao"
       },
       "artists": [
         {
-          "name": "Lalid",
-          "url": "https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV"
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        },
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
         }
       ],
-      "duration_ms": 106997,
-      "name": "Catching Glory",
-      "url": "https://open.spotify.com/track/7aTLWKCUqDv6BPPdkww0x8"
+      "duration_ms": 139859,
+      "name": "ROVER",
+      "url": "https://open.spotify.com/track/2qR2li52kF57nzXye66Ceh"
     },
     {
       "added_at": "2026-07-31 00:02:01",
@@ -647,22 +651,46 @@
     {
       "added_at": "2026-07-31 00:02:01",
       "album": {
-        "name": "CHRISTO DISCO",
-        "url": "https://open.spotify.com/album/0FXrgbufzQTknLpinb21ao"
+        "name": "Catching Glory",
+        "url": "https://open.spotify.com/album/3HESFwZUTupThlVV2z1v6E"
       },
       "artists": [
         {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
-        },
-        {
-          "name": "KOJO BLAK",
-          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+          "name": "Lalid",
+          "url": "https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV"
         }
       ],
-      "duration_ms": 139859,
-      "name": "ROVER",
-      "url": "https://open.spotify.com/track/2qR2li52kF57nzXye66Ceh"
+      "duration_ms": 106997,
+      "name": "Catching Glory",
+      "url": "https://open.spotify.com/track/7aTLWKCUqDv6BPPdkww0x8"
+    },
+    {
+      "added_at": "2026-07-31 00:02:01",
+      "album": {
+        "name": "All You Need",
+        "url": "https://open.spotify.com/album/681fiILmrmzJzZDWmvVpnF"
+      },
+      "artists": [
+        {
+          "name": "MURPHY",
+          "url": "https://open.spotify.com/artist/7fuOjHjKRKBlYUz1lTZ7WQ"
+        },
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        },
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        },
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        }
+      ],
+      "duration_ms": 163837,
+      "name": "All You Need",
+      "url": "https://open.spotify.com/track/5gPkTBrIBBiLvP56xgDf5Q"
     },
     {
       "added_at": "2026-07-31 00:02:01",
@@ -711,34 +739,6 @@
     {
       "added_at": "2026-07-31 00:02:01",
       "album": {
-        "name": "All You Need",
-        "url": "https://open.spotify.com/album/681fiILmrmzJzZDWmvVpnF"
-      },
-      "artists": [
-        {
-          "name": "MURPHY",
-          "url": "https://open.spotify.com/artist/7fuOjHjKRKBlYUz1lTZ7WQ"
-        },
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        },
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        },
-        {
-          "name": "Smallgod",
-          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
-        }
-      ],
-      "duration_ms": 163837,
-      "name": "All You Need",
-      "url": "https://open.spotify.com/track/5gPkTBrIBBiLvP56xgDf5Q"
-    },
-    {
-      "added_at": "2026-07-31 00:02:01",
-      "album": {
         "name": "Exopa",
         "url": "https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9"
       },
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-07-31 00:02:01",
       "album": {
+        "name": "Gen Z",
+        "url": "https://open.spotify.com/album/34STIRb3phz57BiNq4JV3l"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "duration_ms": 145555,
+      "name": "Gen Z",
+      "url": "https://open.spotify.com/track/5RsAzTqMKaOHAKVvkyzIP4"
+    },
+    {
+      "added_at": "2026-07-31 00:02:01",
+      "album": {
         "name": "Goldigga",
         "url": "https://open.spotify.com/album/4MUkSTaa9xxyeXdAB6geiO"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 182265,
       "name": "Goldigga",
       "url": "https://open.spotify.com/track/3pPxul1nGW600lvqFdBcLg"
-    },
-    {
-      "added_at": "2026-07-31 00:02:01",
-      "album": {
-        "name": "Gen Z",
-        "url": "https://open.spotify.com/album/34STIRb3phz57BiNq4JV3l"
-      },
-      "artists": [
-        {
-          "name": "Fameye",
-          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
-        }
-      ],
-      "duration_ms": 145555,
-      "name": "Gen Z",
-      "url": "https://open.spotify.com/track/5RsAzTqMKaOHAKVvkyzIP4"
     },
     {
       "added_at": "2026-07-31 00:02:01",
@@ -863,6 +863,30 @@
     {
       "added_at": "2026-07-31 00:02:01",
       "album": {
+        "name": "BADDIES <3 MOLIY",
+        "url": "https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l"
+      },
+      "artists": [
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Mellissa",
+          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
+        }
+      ],
+      "duration_ms": 170078,
+      "name": "ACCRA GIRLS",
+      "url": "https://open.spotify.com/track/2s01mh0dsFDn4lDCBbCnxD"
+    },
+    {
+      "added_at": "2026-07-31 00:02:01",
+      "album": {
         "name": "Awurade Aye",
         "url": "https://open.spotify.com/album/0iMv1LDtzvVJWrZ1nBAjs4"
       },
@@ -895,30 +919,6 @@
     {
       "added_at": "2026-07-31 00:02:01",
       "album": {
-        "name": "BADDIES <3 MOLIY",
-        "url": "https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l"
-      },
-      "artists": [
-        {
-          "name": "MOLIY",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Mellissa",
-          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
-        }
-      ],
-      "duration_ms": 170078,
-      "name": "ACCRA GIRLS",
-      "url": "https://open.spotify.com/track/2s01mh0dsFDn4lDCBbCnxD"
-    },
-    {
-      "added_at": "2026-07-31 00:02:01",
-      "album": {
         "name": "ORIGIN8A",
         "url": "https://open.spotify.com/album/0aaTaQX3Nu9Z5fdH7uZX5x"
       },
@@ -943,18 +943,26 @@
     {
       "added_at": "2026-07-31 00:02:01",
       "album": {
-        "name": "Wonda Boy",
-        "url": "https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP"
+        "name": "Odo Nwom",
+        "url": "https://open.spotify.com/album/3SHQ1azlgpmatRrTAxQlqU"
       },
       "artists": [
         {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+          "name": "Ofori Amponsah",
+          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
         }
       ],
-      "duration_ms": 174349,
-      "name": "Wonda Boy",
-      "url": "https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U"
+      "duration_ms": 269714,
+      "name": "Odo Nwom - Remix",
+      "url": "https://open.spotify.com/track/60UQlQCn5n0O4jIt3wAOHZ"
     },
     {
       "added_at": "2026-07-31 00:02:01",
@@ -975,6 +983,22 @@
       "duration_ms": 138260,
       "name": "Trapper Sem",
       "url": "https://open.spotify.com/track/2CQIYtXQrIePjOdlDzm83H"
+    },
+    {
+      "added_at": "2026-07-31 00:02:01",
+      "album": {
+        "name": "Wonda Boy",
+        "url": "https://open.spotify.com/album/5l2xTNnn4n0UxyFJvbViQP"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 174349,
+      "name": "Wonda Boy",
+      "url": "https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U"
     },
     {
       "added_at": "2026-07-31 00:02:01",
@@ -1003,30 +1027,6 @@
       "duration_ms": 176770,
       "name": "Oh Ma Linda",
       "url": "https://open.spotify.com/track/28aDl6G202ZZeynzYIZRDb"
-    },
-    {
-      "added_at": "2026-07-31 00:02:01",
-      "album": {
-        "name": "Odo Nwom",
-        "url": "https://open.spotify.com/album/3SHQ1azlgpmatRrTAxQlqU"
-      },
-      "artists": [
-        {
-          "name": "Ofori Amponsah",
-          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
-        },
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        },
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 269714,
-      "name": "Odo Nwom - Remix",
-      "url": "https://open.spotify.com/track/60UQlQCn5n0O4jIt3wAOHZ"
     },
     {
       "added_at": "2026-07-31 00:02:01",

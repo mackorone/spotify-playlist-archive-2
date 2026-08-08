@@ -2,9 +2,9 @@
 
 ### [Baila Reggaeton](https://open.spotify.com/playlist/37i9dQZF1DWY7IeIP1cdjF)
 
-> Reggaeton hits from KAROL G, Omar Courtz, Bad Bunny and more\. 🔥🍑
+> Reggaeton hits from De La Rose, KAROL G, Omar Courtz & Ozuna, Bad Bunny and more\. 🔥🍑
 
-765 songs - 1 day 17 hr 44 min
+767 songs - 1 day 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Candy](https://open.spotify.com/track/2ctjDCCg1wHoQSjIJ8p6U4) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love And Sex](https://open.spotify.com/album/2nyw6aQu85kFb3mYb4vWwE) | 3:27 | 2023-04-28 | 2024-05-25 |
 | [CARBON VRMOR](https://open.spotify.com/track/5pQed9UAd4DqG6cWUQegGm) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Sharo Towers](https://open.spotify.com/artist/4h6Eg0dBZ4Fr8vRcSn8r5r) | [CVRBON VRMOR \[C\_DE: G\_D.O.N.\]](https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE) | 3:07 | 2024-05-03 | 2024-06-08 |
 | [CARNET](https://open.spotify.com/track/1GKEH7oWPx8xDlDrggaEnJ) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [CARNET](https://open.spotify.com/album/0rmHm455rHhQamdptQjYn3) | 2:19 | 2023-09-15 | 2023-10-14 |
+| [Carolina](https://open.spotify.com/track/0aLgqklsBNnVValSEGssbz) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [Mi Carpe Diem](https://open.spotify.com/album/5xNpY6LGUqNbluWuLJRNSl) | 2:53 | 2026-08-07 |  |
 | [Carro Nuevo](https://open.spotify.com/track/0OLLQD6ujaoOWnO6AbjV9W) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Emociones](https://open.spotify.com/album/4we3WMZMCvKmk6jfGe6t4t) | 4:00 | 2022-09-02 | 2022-12-17 |
 | [Caserio](https://open.spotify.com/track/5mFPPKfPrFOuArc4ePJEyG) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Caserio](https://open.spotify.com/album/4NDSlhOifFUl2MNv3D9dYy) | 3:09 | 2024-03-15 | 2024-04-19 |
 | [CASI ALGO](https://open.spotify.com/track/6tuLAQURf4P97dD750iTaJ) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [CASI ALGO](https://open.spotify.com/album/11lPiY2966BfVys4X6MHP9) | 2:43 | 2024-09-06 | 2025-03-15 |
@@ -766,6 +767,7 @@
 | [Yo te conozco :\):](https://open.spotify.com/track/1yG1za0O6OK6sKa79xGtsA) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [FX De La Rose](https://open.spotify.com/album/10FrXNEY6Inn07cZFBf3k3) | 1:58 | 2025-12-12 |  |
 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 | 2022-03-11 | 2022-08-27 |
 | [Yonaguni](https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Yonaguni](https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5) | 3:26 | 2021-12-24 | 2022-05-07 |
+| [ZIZI](https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [ZIZI](https://open.spotify.com/album/4f0YTBqSbvM1iJpuY9r3yQ) | 4:02 | 2026-08-07 |  |
 | [Zoom Zoom](https://open.spotify.com/track/2Bf7izPNpcTVNL41bdyFic) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Big Cvyu](https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg) | [I Am Lucky Brown](https://open.spotify.com/album/48xepal01RkB4rbRTX9szT) | 2:26 | 2024-11-08 | 2024-12-21 |
 | [Zun Zun](https://open.spotify.com/track/7uQ3MlGpYURF2ED8E5xFIa) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Mixteip](https://open.spotify.com/album/315R7c8EPwJiT11OS0t4Xk) | 3:16 | 2025-07-18 | 2025-08-31 |
 | [¿SERÁ EL ALCOHOL?](https://open.spotify.com/track/3468olNnNSGtr7HOH2gpDD) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [¿SERÁ EL ALCOHOL?](https://open.spotify.com/album/5BEkLTU3yBorkAfGlEcjyk) | 2:52 | 2026-07-03 | 2026-07-25 |

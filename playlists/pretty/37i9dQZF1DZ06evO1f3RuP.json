@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAABXizekaz/uOiJuUV2KXqDR",
+  "snapshot_id": "anPOgAAAAACHUEmOIywvJFJ1aiNN1O+q",
   "tracks": [
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "boys lie",
-        "url": "https://open.spotify.com/album/2K575gI4abjsOkhVhKMIpO"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 145857,
-      "name": "boys lie",
-      "url": "https://open.spotify.com/track/50bV3kGulFAiTE3COj2abZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "stories 2",
         "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 130560,
       "name": "pressure",
       "url": "https://open.spotify.com/track/29XFwGNkE4E153MGV232hB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "boys lie",
+        "url": "https://open.spotify.com/album/2K575gI4abjsOkhVhKMIpO"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 145857,
+      "name": "boys lie",
+      "url": "https://open.spotify.com/track/50bV3kGulFAiTE3COj2abZ"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TELLY BAG",
+        "url": "https://open.spotify.com/album/40xQNubC2C2X2QcV3GQTTn"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 114484,
+      "name": "TELLY BAG",
+      "url": "https://open.spotify.com/track/2fre7Ba0EuJp578flYyYlO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/2nWaVG4ZaLj1J41LBBwzLA"
       },
@@ -543,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TELLY BAG",
-        "url": "https://open.spotify.com/album/40xQNubC2C2X2QcV3GQTTn"
+        "name": "stories 2",
+        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
       },
       "artists": [
         {
@@ -552,9 +568,9 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 114484,
-      "name": "TELLY BAG",
-      "url": "https://open.spotify.com/track/2fre7Ba0EuJp578flYyYlO"
+      "duration_ms": 120400,
+      "name": "ur mine",
+      "url": "https://open.spotify.com/track/4N3FaGxd5KRhdHahKDbbql"
     },
     {
       "added_at": null,
@@ -579,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "stories 2",
-        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 120400,
-      "name": "ur mine",
-      "url": "https://open.spotify.com/track/4N3FaGxd5KRhdHahKDbbql"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SICK!",
         "url": "https://open.spotify.com/album/1uQyVaCOSTSbLHLzYHr4b7"
       },
@@ -611,6 +611,42 @@
       "duration_ms": 126743,
       "name": "SICK!",
       "url": "https://open.spotify.com/track/1IpP0gGsWlkag2S4U0vooG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whirlwind Of Malevolence",
+        "url": "https://open.spotify.com/album/1JeoBLRWk8AKSagFSNG5EC"
+      },
+      "artists": [
+        {
+          "name": "SONIKKU",
+          "url": "https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 139090,
+      "name": "Enter The Chat",
+      "url": "https://open.spotify.com/track/1gBwEnUsHgGDp6WkrjxNo7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "stories 2",
+        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 142142,
+      "name": "into me",
+      "url": "https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt"
     },
     {
       "added_at": null,
@@ -655,42 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "stories 2",
-        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 142142,
-      "name": "into me",
-      "url": "https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spend It",
-        "url": "https://open.spotify.com/album/1Ra1BUIxleKoOHU3ewv1Cw"
-      },
-      "artists": [
-        {
-          "name": "Gia Woods",
-          "url": "https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Spend It",
-      "url": "https://open.spotify.com/track/2DAGWDwSJycVZ2erxi5Uzq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Best I've Ever Had",
         "url": "https://open.spotify.com/album/0YR1CWri925UA7XvNzfzG4"
       },
@@ -715,22 +715,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whirlwind Of Malevolence",
-        "url": "https://open.spotify.com/album/1JeoBLRWk8AKSagFSNG5EC"
+        "name": "Spend It",
+        "url": "https://open.spotify.com/album/1Ra1BUIxleKoOHU3ewv1Cw"
       },
       "artists": [
         {
-          "name": "SONIKKU",
-          "url": "https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9"
+          "name": "Gia Woods",
+          "url": "https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP"
         },
         {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 139090,
-      "name": "Enter The Chat",
-      "url": "https://open.spotify.com/track/1gBwEnUsHgGDp6WkrjxNo7"
+      "duration_ms": 180000,
+      "name": "Spend It",
+      "url": "https://open.spotify.com/track/2DAGWDwSJycVZ2erxi5Uzq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiet As Kept, F.O.G. (Extended Cut)",
+        "url": "https://open.spotify.com/album/5o0OzTCm1JqNniLfxlwVSL"
+      },
+      "artists": [
+        {
+          "name": "Kai Whiston",
+          "url": "https://open.spotify.com/artist/0hktkVFcCRG9z2NTXE6jhl"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 262928,
+      "name": "Kissing Practise",
+      "url": "https://open.spotify.com/track/0Fmj0CquXZqPHMpb8D8Ro7"
     },
     {
       "added_at": null,
@@ -759,26 +779,6 @@
       "duration_ms": 185000,
       "name": "Mind Games",
       "url": "https://open.spotify.com/track/62sJa0KNYdItPUkxyeRYzC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quiet As Kept, F.O.G. (Extended Cut)",
-        "url": "https://open.spotify.com/album/5o0OzTCm1JqNniLfxlwVSL"
-      },
-      "artists": [
-        {
-          "name": "Kai Whiston",
-          "url": "https://open.spotify.com/artist/0hktkVFcCRG9z2NTXE6jhl"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 262928,
-      "name": "Kissing Practise",
-      "url": "https://open.spotify.com/track/0Fmj0CquXZqPHMpb8D8Ro7"
     }
   ],
   "unique_name": "This Is BAYLI",

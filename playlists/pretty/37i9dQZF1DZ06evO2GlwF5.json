@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAACLusJXyabsGBzkQYj3rNq2",
+  "snapshot_id": "anPOgAAAAAD0T8ZqW8wjAKIft373l+JJ",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u72ec\u767d\u2192\u8e8d\u52d5\u3000<FGO\u76e4>",
-        "url": "https://open.spotify.com/album/7hQknpgVxMUHWacI0toBrQ"
-      },
-      "artists": [
-        {
-          "name": "Maaya Sakamoto",
-          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
-        }
-      ],
-      "duration_ms": 282626,
-      "name": "\u72ec\u767d",
-      "url": "https://open.spotify.com/track/73S6qXMFVhXb4MchX0KmwU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u300eFate/Grand Order\u300f\u4e3b\u984c\u6b4c\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\u3000\u4f59\u97fb",
         "url": "https://open.spotify.com/album/54f3Fh8Sv0DmvN1jfBt6cs"
       },
@@ -187,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Vision of Escaflowne (Original Motion Picture Soundtrack 1)",
-        "url": "https://open.spotify.com/album/4zBOySfThJ2wF4ZLhYroCR"
+        "name": "\u72ec\u767d\u2192\u8e8d\u52d5\u3000<FGO\u76e4>",
+        "url": "https://open.spotify.com/album/7hQknpgVxMUHWacI0toBrQ"
       },
       "artists": [
         {
@@ -196,9 +180,9 @@
           "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
         }
       ],
-      "duration_ms": 215240,
-      "name": "Yakusoku wa Iranai",
-      "url": "https://open.spotify.com/track/2EZWkcGFyjVtVhP3ksGyHX"
+      "duration_ms": 282626,
+      "name": "\u72ec\u767d",
+      "url": "https://open.spotify.com/track/73S6qXMFVhXb4MchX0KmwU"
     },
     {
       "added_at": null,
@@ -215,6 +199,22 @@
       "duration_ms": 203233,
       "name": "gravity",
       "url": "https://open.spotify.com/track/5edgQN3CMyQOgPy4SML46l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Vision of Escaflowne (Original Motion Picture Soundtrack 1)",
+        "url": "https://open.spotify.com/album/4zBOySfThJ2wF4ZLhYroCR"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "duration_ms": 215240,
+      "name": "Yakusoku wa Iranai",
+      "url": "https://open.spotify.com/track/2EZWkcGFyjVtVhP3ksGyHX"
     },
     {
       "added_at": null,
@@ -335,26 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing 2 (Original Motion Picture Soundtrack) [Alternate Version]",
-        "url": "https://open.spotify.com/album/4oPdS6pmyJhtm5W6TwzY7E"
-      },
-      "artists": [
-        {
-          "name": "Maaya Sakamoto",
-          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
-        },
-        {
-          "name": "Tsukasa Saito",
-          "url": "https://open.spotify.com/artist/0gpOzMyESiSTYaACIWLZW2"
-        }
-      ],
-      "duration_ms": 92891,
-      "name": "Break Free - Japan Version",
-      "url": "https://open.spotify.com/track/3svcAbXBX9Z4D8VqOL0bZN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30b7\u30f3\u30b0\u30eb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\uff0b\u3000\u30cb\u30b3\u30d1\u30c1",
         "url": "https://open.spotify.com/album/1IPkAkGZKrtoLucFzeEAIr"
       },
@@ -391,6 +371,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sing 2 (Original Motion Picture Soundtrack) [Alternate Version]",
+        "url": "https://open.spotify.com/album/4oPdS6pmyJhtm5W6TwzY7E"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        },
+        {
+          "name": "Tsukasa Saito",
+          "url": "https://open.spotify.com/artist/0gpOzMyESiSTYaACIWLZW2"
+        }
+      ],
+      "duration_ms": 92891,
+      "name": "Break Free - Japan Version",
+      "url": "https://open.spotify.com/track/3svcAbXBX9Z4D8VqOL0bZN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drops",
         "url": "https://open.spotify.com/album/355h0L6VJgh9JLxqcN1gXT"
       },
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u98a8\u5f85\u3061\u30b8\u30a7\u30c3\u30c8\u3000\uff0f\u3000\u30b9\u30d4\u30ab",
-        "url": "https://open.spotify.com/album/3utevH6XoZFSjyurc7lPFT"
-      },
-      "artists": [
-        {
-          "name": "Maaya Sakamoto",
-          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
-        }
-      ],
-      "duration_ms": 231760,
-      "name": "\u98a8\u5f85\u3061\u30b8\u30a7\u30c3\u30c8",
-      "url": "https://open.spotify.com/track/6elfYXeja90gz3lK3uvz4p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u300eFate/Grand Order\u300f\u4e3b\u984c\u6b4c\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\u3000\u4f59\u97fb",
         "url": "https://open.spotify.com/album/54f3Fh8Sv0DmvN1jfBt6cs"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 341026,
       "name": "\u9006\u5149-unplugged session-",
       "url": "https://open.spotify.com/track/6YIHCnUw8Uds0cWqhqMnnU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u98a8\u5f85\u3061\u30b8\u30a7\u30c3\u30c8\u3000\uff0f\u3000\u30b9\u30d4\u30ab",
+        "url": "https://open.spotify.com/album/3utevH6XoZFSjyurc7lPFT"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "duration_ms": 231760,
+      "name": "\u98a8\u5f85\u3061\u30b8\u30a7\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/6elfYXeja90gz3lK3uvz4p"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FOLLOW ME UP",
-        "url": "https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y"
-      },
-      "artists": [
-        {
-          "name": "Maaya Sakamoto",
-          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
-        }
-      ],
-      "duration_ms": 242040,
-      "name": "Be mine!",
-      "url": "https://open.spotify.com/track/7h89okKQovZ0Dw2SXGnaDW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u300eFate/Grand Order\u300f\u4e3b\u984c\u6b4c\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\u3000\u4f59\u97fb",
         "url": "https://open.spotify.com/album/54f3Fh8Sv0DmvN1jfBt6cs"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 240800,
       "name": "Buddy",
       "url": "https://open.spotify.com/track/63yhabD7LEXoY6gLoI14Z2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FOLLOW ME UP",
+        "url": "https://open.spotify.com/album/7MQ0R1cgZTkGqxh0cZ1H0y"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "duration_ms": 242040,
+      "name": "Be mine!",
+      "url": "https://open.spotify.com/track/7h89okKQovZ0Dw2SXGnaDW"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You can't catch me",
+        "url": "https://open.spotify.com/album/4CoGD8RFY0lhSXNxzKT8gr"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "duration_ms": 235600,
+      "name": "DOWN TOWN",
+      "url": "https://open.spotify.com/track/3ji08HySZKJUAPYTOeeBpC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u30b7\u30f3\u30b0\u30eb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\u3000\u30d7\u30e9\u30b9\u3000\u300c\u30cf\u30c1\u30dd\u30c1\u300d",
         "url": "https://open.spotify.com/album/2C6AFE7MxD1Cjf0ckFcfJy"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 265480,
       "name": "\u5149\u3042\u308c",
       "url": "https://open.spotify.com/track/29hVgemZ4kcZ9Mx5Iua6Ut"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You can't catch me",
-        "url": "https://open.spotify.com/album/4CoGD8RFY0lhSXNxzKT8gr"
-      },
-      "artists": [
-        {
-          "name": "Maaya Sakamoto",
-          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
-        }
-      ],
-      "duration_ms": 235600,
-      "name": "DOWN TOWN",
-      "url": "https://open.spotify.com/track/3ji08HySZKJUAPYTOeeBpC"
     },
     {
       "added_at": null,

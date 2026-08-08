@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> sweet\. sharp\. unbothered \- Emi Grace on the cover
+> sweet\. sharp\. unbothered \- Audrey Nuna on the cover
 
-1,129 songs - 2 day 4 hr 16 min
+1,132 songs - 2 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [cry for help!](https://open.spotify.com/track/0QBVBpn0JNZ8ZUhGxqmKo2) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [THIS IS A CRY FOR HELP](https://open.spotify.com/album/0L1rHfQJILHQ7NiJVXUs1O) | 2:48 | 2024-02-23 | 2024-04-27 |
 | [Crypto ₿oy](https://open.spotify.com/track/1huSguFFPyo3saFH9u5Sb6) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Crypto ₿oy](https://open.spotify.com/album/6SBASHxpyWAGkqt2kMsBvY) | 2:21 | 2022-06-03 | 2022-07-16 |
 | [cult leader](https://open.spotify.com/track/55FBgJC917EN1RrVJENiB7) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [cult leader](https://open.spotify.com/album/19vsjfRk8H7PmyB2VE7YnK) | 2:43 | 2022-04-01 | 2022-10-22 |
-| [Cupid Must've Been High](https://open.spotify.com/track/3hcdiLMlKuJPqcVNOp90Mi) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Cupid Must've Been High](https://open.spotify.com/album/72Diyo40WtMIgw7im5ZpqY) | 2:42 | 2026-02-27 |  |
+| [Cupid Must've Been High](https://open.spotify.com/track/3hcdiLMlKuJPqcVNOp90Mi) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Cupid Must've Been High](https://open.spotify.com/album/72Diyo40WtMIgw7im5ZpqY) | 2:42 | 2026-02-27 | 2026-08-08 |
 | [cut my fingers off](https://open.spotify.com/track/32R0306OOQN1q0XJzoi9NH) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [cut my fingers off](https://open.spotify.com/album/1saNgGCJZpAqsvnUZypMc2) | 2:19 | 2021-11-12 | 2022-03-18 |
 | [Cut You Off](https://open.spotify.com/track/4yPI6KSmMMyUnKarPbYlzB) | [CHINCHILLA](https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI) | [Cut You Off](https://open.spotify.com/album/6n590MjEHxUtzB1xSdZuzR) | 3:33 | 2023-10-20 | 2024-03-23 |
 | [cynical](https://open.spotify.com/track/0D5le1perOPiaFYmNak8Kp) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [cynical](https://open.spotify.com/album/5RhMHM5RP7gyhkEtUIJeWD) | 2:53 | 2023-02-17 | 2023-05-06 |
@@ -252,7 +252,7 @@
 | [Deep Cut](https://open.spotify.com/track/1Pi8ozHOCHuH5j561Df2XI) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [American Hero](https://open.spotify.com/album/21HMENCxfw31djGv60lk88) | 3:14 | 2024-06-28 | 2024-07-13 |
 | [Deja Vu](https://open.spotify.com/track/3snIkQbCpnVgHurT0rMYpQ) | [Revenge Wife](https://open.spotify.com/artist/25ze27QLJJPQewxTzQjKlT) | [Deja Vu](https://open.spotify.com/album/0ekhHvjPO1KM6b5XBJL2OX) | 4:06 | 2025-04-11 | 2025-05-31 |
 | [Deja Vu You](https://open.spotify.com/track/4I7U3jsgLSAqFmLAfx6iBJ) | [Samantha Margret](https://open.spotify.com/artist/6tyLi4JY6t4BEyZHaKwApN) | [Deja Vu You](https://open.spotify.com/album/7oM9ghGzzUN86fiofWhS61) | 2:15 | 2023-08-18 | 2023-11-18 |
-| [depressed on the internet](https://open.spotify.com/track/2M6bHGBfPrOC48SuODYcwJ) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [depressed on the internet](https://open.spotify.com/album/6yRPZDsFWQE6p4NhpGqjyw) | 2:57 | 2026-05-08 |  |
+| [depressed on the internet](https://open.spotify.com/track/2M6bHGBfPrOC48SuODYcwJ) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [depressed on the internet](https://open.spotify.com/album/6yRPZDsFWQE6p4NhpGqjyw) | 2:57 | 2026-05-08 | 2026-08-08 |
 | [Devil In A Dress](https://open.spotify.com/track/0IidWnhWbmVcVa5vzXucav) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Devil In A Dress](https://open.spotify.com/album/6ViBFxxd5c6e1WUCDbRMAk) | 1:51 | 2022-03-25 | 2022-07-09 |
 | [Devil Is A Woman](https://open.spotify.com/track/75hCdrSo0x1La6xUNGnvGv) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Devil Is A Woman](https://open.spotify.com/album/5pJK4ir6zF8VEscS6T34wL) | 3:12 | 2022-12-09 | 2023-05-13 |
 | [devil may care](https://open.spotify.com/track/1Oui21vilndzO9nUABZYlp) | [Fae](https://open.spotify.com/artist/7gcUMQcBkw833YqXciq0WB) | [devil may care](https://open.spotify.com/album/3HD59AolaFb0PMhP3cy4lN) | 2:40 | 2022-10-21 | 2023-03-04 |
@@ -293,6 +293,7 @@
 | [dramatic](https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [dramatic](https://open.spotify.com/album/2uIYbXxbgDyGpndqhhHQS9) | 2:30 | 2021-10-22 | 2022-07-23 |
 | [Dream Girl](https://open.spotify.com/track/1c020GsIldzCg0PQNq7T9b) | [Anderson Rocio](https://open.spotify.com/artist/7kyApKxTvtwfH2t917AD6P) | [Chapter One](https://open.spotify.com/album/0UY2iRcHONUFNMkfd6zLtA) | 2:21 | 2022-11-18 | 2023-05-13 |
 | [drop the man](https://open.spotify.com/track/2cKoq179oHQBXR4wDIke1i) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [drop the man](https://open.spotify.com/album/3zfhTxpvBj7scbiefWBTn3) | 2:37 | 2025-01-10 | 2025-02-22 |
+| [drunk enough](https://open.spotify.com/track/4u79u9PEua1NM34DzptsbP) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [drunk enough](https://open.spotify.com/album/5mgOs6BgA2ZsyfbULPfUOW) | 3:24 | 2026-08-07 |  |
 | [DUMB](https://open.spotify.com/track/30iQqVmUyPxyDPTby3KjwM) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [DUMB](https://open.spotify.com/album/68SonfKPODsOntzXjCZOvn) | 2:20 | 2026-04-17 |  |
 | [dumb dumb dumb](https://open.spotify.com/track/7mUOGK2T7zONpDE0KwegZ0) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [still not ur girlfriend](https://open.spotify.com/album/3SxhS51jQH7FewYY5BY3CT) | 2:32 | 2025-05-09 | 2025-07-12 |
 | [dumbest girl in the world](https://open.spotify.com/track/6Lsp0hAsrd1HDHbLxRnu5u) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [god forbid a girl spits out her feelings!](https://open.spotify.com/album/1Ae3HjPsQvfnnZKEvOxXwN) | 2:22 | 2026-04-17 |  |
@@ -345,7 +346,7 @@
 | [Feel What I'm Feeling](https://open.spotify.com/track/0SJmLC2S4RN2AbYcJWo0oK) | [LEX](https://open.spotify.com/artist/73R7pkwL1kz9gqVScbbjab) | [Feel What I'm Feeling](https://open.spotify.com/album/38GheDPkEHqvq7U20WkwwX) | 2:54 | 2022-10-07 | 2023-05-20 |
 | [feelings](https://open.spotify.com/track/7yLfsctj9g0z2NB3v3IGcz) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [feelings](https://open.spotify.com/album/1ScPqJzn6l2a8JdnndMZUV) | 2:20 | 2023-03-03 | 2023-08-05 |
 | [FEMININE RAGE](https://open.spotify.com/track/08iDzwXKP72XYGnjXLSwW2) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [DEAR READER](https://open.spotify.com/album/1JsRmuktjMsrdolUuZ5UMp) | 2:27 | 2024-04-26 | 2024-10-05 |
-| [First Generation Degenerate](https://open.spotify.com/track/0T1QNfwEZ8mQs8rfUHbwog) | [Earth to Eve](https://open.spotify.com/artist/5VjqGrGYRn6vdmCxlLNsea) | [First Generation Degenerate](https://open.spotify.com/album/3vTqeVbpPjm0ZvCa1Fbue2) | 3:36 | 2026-02-20 |  |
+| [First Generation Degenerate](https://open.spotify.com/track/0T1QNfwEZ8mQs8rfUHbwog) | [Earth to Eve](https://open.spotify.com/artist/5VjqGrGYRn6vdmCxlLNsea) | [First Generation Degenerate](https://open.spotify.com/album/3vTqeVbpPjm0ZvCa1Fbue2) | 3:36 | 2026-02-20 | 2026-08-08 |
 | [Fixer Upper](https://open.spotify.com/track/75u1ZQkdlnTO0PuFFs271F) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Fixer Upper](https://open.spotify.com/album/63wmTOV6EpKEEw7rJXjBiZ) | 2:50 | 2023-05-05 | 2023-08-19 |
 | [Flame \(from the Netflix Series "Jentry Chau vs the Underworld"\)](https://open.spotify.com/track/5tw1Ob0E4iRY8pjvgFk7oU) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Flame \(from the Netflix Series "Jentry Chau vs the Underworld"\)](https://open.spotify.com/album/4eXphk6GWepEqGb9HsE0sk) | 2:14 | 2024-11-15 | 2025-04-19 |
 | [flip a switch](https://open.spotify.com/track/3Xnsm7gx3KBmYoWFdNMof6) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [flip a switch](https://open.spotify.com/album/2QueRNxcrP62Nkg3YfZGrJ) | 2:32 | 2021-11-19 | 2022-03-18 |
@@ -528,7 +529,7 @@
 | [Imitate](https://open.spotify.com/track/47sMxb8rg2BWxMFtIoT0LA) | [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Imitate](https://open.spotify.com/album/5urMxShvkeXU6IFlT33a2b) | 3:20 | 2023-07-14 | 2023-08-05 |
 | [In House Enemy](https://open.spotify.com/track/4qh7uZxqN4SfWUibDaszMt) | [Akeira Jade](https://open.spotify.com/artist/1nA7MM0soxDlkwBAJrQVCF) | [In House Enemy](https://open.spotify.com/album/1sw3NglwBQkpa2o9hJb3xY) | 2:48 | 2025-09-05 | 2026-03-28 |
 | [In My Head \(ft\. Josh Dun\)](https://open.spotify.com/track/06EkBgJuvf0zIPCeYwx3vP) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Josh Dun](https://open.spotify.com/artist/1DTwvOULHkUfXGwfJybYga) | [In My Head](https://open.spotify.com/album/0IuGpDVzTsxVpgXyc7qhJR) | 3:08 | 2022-03-18 | 2022-04-02 |
-| [In My Room](https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB) | 2:43 | 2026-03-18 |  |
+| [In My Room](https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB) | 2:43 | 2026-03-18 | 2026-08-08 |
 | [indieedgycool](https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [indieedgycool](https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ) | 2:26 | 2022-08-12 | 2022-09-17 |
 | [INFERNO](https://open.spotify.com/track/7aonAWn0J0AJ47ZU9WHCXC) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [INFERNO](https://open.spotify.com/album/0o6H7RwYZAE6v15lnENDab) | 2:13 | 2021-09-10 | 2022-04-09 |
 | [Innocent](https://open.spotify.com/track/59C8ZrER11yeFZMLui18YU) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Innocent](https://open.spotify.com/album/4jlyVTzQdrtr9FBsx6xsxC) | 2:35 | 2024-07-05 | 2024-08-27 |
@@ -895,6 +896,7 @@
 | [SLEEPING WITH KARMA](https://open.spotify.com/track/3yJDEWDY4mj4fslXhVLcLx) | [Ella Collier](https://open.spotify.com/artist/7wMFyA2xgxiMiM2ev2DVfJ) | [SLEEPING WITH KARMA](https://open.spotify.com/album/0wb2E0nDn3qfxsgupyqqOx) | 2:44 | 2025-06-13 | 2025-07-26 |
 | [SLOW DOWN](https://open.spotify.com/track/0RnKHcb6dnWIBBuiipNx2o) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [SLOW DOWN](https://open.spotify.com/album/5Ej7j1DuYx8vqML3Ewtxtx) | 2:28 | 2024-05-24 | 2024-07-27 |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/1gnSosKDAUGYPTkTLiG5DW) | [Malia J](https://open.spotify.com/artist/6iY5faxtqPs0eA1OeSvsAQ) | [Smells Like Teen Spirit](https://open.spotify.com/album/6TIj4zX0PCftJPdTKsk6As) | 3:59 | 2021-09-10 | 2022-03-18 |
+| [smf](https://open.spotify.com/track/4puf4S5FOtHR4YRLCEIdOD) | [margø](https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU) | [smf](https://open.spotify.com/album/270FPAyktre5aNsnX0tZQd) | 2:16 | 2026-08-07 |  |
 | [SMH](https://open.spotify.com/track/07I8k93iDfq3yZMZPyvUJ1) | [Emi Grace](https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS) | [SMH](https://open.spotify.com/album/3KUImf8fghGXzP2YpmRWmy) | 2:13 | 2026-07-17 |  |
 | [Smoking Weed Alone](https://open.spotify.com/track/6P4SXtGwb04qA2gaUosaRK) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Smoking Weed Alone](https://open.spotify.com/album/4VQJlUB1qEjKiFapmcVW03) | 3:11 | 2022-10-21 | 2022-11-26 |
 | [Smoochie Girl](https://open.spotify.com/track/0nimVZc4NEpUO0qub6FZRk) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Smoochie Girl](https://open.spotify.com/album/3Xy6qL3ZmwqwOGjBkypnlJ) | 3:01 | 2025-09-19 | 2026-03-19 |
@@ -942,6 +944,7 @@
 | [Super Famous](https://open.spotify.com/track/0Yy44jx6Qmn7gneGfJENE5) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [Big Mouth](https://open.spotify.com/album/7rIPvB80UTjuHkg0X25x6i) | 1:58 | 2024-10-04 | 2024-10-19 |
 | [SUPER F★CKING MEGA ST★R](https://open.spotify.com/track/0nwsozTQ2xfKtHd03ADze5) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [SUPER F★CKING MEGA ST★R](https://open.spotify.com/album/1WQhYYSKRwg23ojle7NmBW) | 2:49 | 2025-10-03 | 2026-03-28 |
 | [Super Over](https://open.spotify.com/track/2z3Kpfc7nwzK0pcBMFRMxr) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Super Over](https://open.spotify.com/album/3J03smHGuMPGEReWWUEQnq) | 2:44 | 2023-06-30 | 2023-12-09 |
+| [superHuman](https://open.spotify.com/track/3Lnw56zn0t1pUyDTHiiMmG) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [superHuman](https://open.spotify.com/album/3BfiwgwqmGt5JYZLGtLA1b) | 2:41 | 2026-08-07 |  |
 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Superhuman \(with K.Flay\)](https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs) | 4:00 | 2022-01-28 | 2022-03-18 |
 | [supermodel](https://open.spotify.com/track/1Y0Sea3Nan8ZbL7HKsneY1) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [supermodel](https://open.spotify.com/album/0VVrCJHFnOZdhjn52l3GbN) | 2:02 | 2024-09-20 | 2024-11-16 |
 | [Supernova](https://open.spotify.com/track/351KkakA2YtGEXqSEIIasy) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Supernova](https://open.spotify.com/album/0tlwyPgqwZrymr04EfFyry) | 2:58 | 2024-05-17 | 2024-06-01 |

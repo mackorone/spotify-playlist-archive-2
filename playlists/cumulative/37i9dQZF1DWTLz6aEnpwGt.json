@@ -181,6 +181,28 @@
     },
     {
       "album": {
+        "name": "J.S. Bach: Air on the G String (Arr. \u00d3lafsson for Piano from Orchestral Suite No. 3, BWV 1068)",
+        "url": "https://open.spotify.com/album/29FMCsvvRUfnBwHeO3K7Ek"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219084,
+      "name": "Air on the G String (Arr. \u00d3lafsson for Piano from Orchestral Suite No. 3, BWV 1068)",
+      "url": "https://open.spotify.com/track/0Iwjb6tjMTFvyxtzJkL5s7"
+    },
+    {
+      "album": {
         "name": "Angels and Demons",
         "url": "https://open.spotify.com/album/3jIJQtnK0nJlYConJy2cXO"
       },
@@ -1506,7 +1528,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 326520,
       "name": "Organ Sonata No. 4, BWV 528: II. Andante [Adagio] (Transcr. by August Stradal)",
       "url": "https://open.spotify.com/track/5Pl2CXDkaP6WEnJ0bpKGOm"

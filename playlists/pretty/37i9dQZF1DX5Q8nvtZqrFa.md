@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 
 > 綺麗事は聞きたくない。本音でつづられた唄。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,730 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,729 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 | 49 | [ベルベットの詩](https://open.spotify.com/track/2N4lCwOeFRX7qrbMPRcZ7d) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ベルベットの詩](https://open.spotify.com/album/0qmE5lDI6Z8enOel9hzkS8) | 4:14 |
 | 50 | [ファジーネーブル](https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [ファジーネーブル](https://open.spotify.com/album/4XCDzm6lz0QvcTVozUmNHe) | 3:57 |
 
-Snapshot ID: `AAAAAFPmOV3SoYl9J1RilglGSFeXvnur`
+Snapshot ID: `AAAAAGImJdcAz5N2i5xzDGXD6v34RGuX`

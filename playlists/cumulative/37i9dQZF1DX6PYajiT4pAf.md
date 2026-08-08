@@ -2,9 +2,9 @@
 
 ### [Novedades Viernes España](https://open.spotify.com/playlist/37i9dQZF1DX6PYajiT4pAf)
 
-> Ozuna con Omar Courtz, Alejandro Sanz, De la Rose con Rels B, Love of Lesbian y el resto de novedades de la semana.
+> Ozuna con Omar Courtz, KAROL G, Alejandro Sanz, De la Rose con Rels B, Love of Lesbian y más novedades de la semana.
 
-6,316 songs - 13 day 11 hr 6 min
+6,319 songs - 13 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -640,6 +640,7 @@
 | [BBerme](https://open.spotify.com/track/5MhXb9CKsA8afazs12qR6P) | [Dora Band](https://open.spotify.com/artist/7xVhPBHVpiU1YPef9aHQOE), [Kinder Malo](https://open.spotify.com/artist/1Aoj8qX6kPfLTagb7qbKg0), [Pimp Flaco](https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC), [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [BBerme](https://open.spotify.com/album/6tdN7KTbInpqVtlOo8CE5m) | 4:39 | 2026-03-05 | 2026-03-13 |
 | [Bbsita Te VeS Bien](https://open.spotify.com/track/76NMjRUQOGpJf6HfWojhMt) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [El SEI66EIS](https://open.spotify.com/album/35Ti0k1sTuvL2UdCtSieZY) | 3:03 | 2026-02-26 | 2026-03-06 |
 | [BBY ROMEO](https://open.spotify.com/track/1QwfEonEHRjLItRU7kISSe) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [BBY ROMEO](https://open.spotify.com/album/6MNveBkoPPQgHQfM560Zcz) | 3:18 | 2025-04-24 | 2025-05-02 |
+| [BbY WOW](https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:45 | 2026-08-07 |  |
 | [Be My Baby](https://open.spotify.com/track/6XdlL0kLygauuf5JDeDrMC) | [Goa](https://open.spotify.com/artist/1jj0qqazY8R9qnrGAKneIh), [Sticky M.A.](https://open.spotify.com/artist/5o7fmoqHl79fzoCzeApdxm) | [Be My Baby](https://open.spotify.com/album/1r91kkdev6guxPTTzzDuwf) | 2:35 | 2026-01-23 | 2026-01-30 |
 | [beam](https://open.spotify.com/track/1O9MtYSAQiayzZN1V9k0y4) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [beam](https://open.spotify.com/album/3TOKzHuUu9g8hddRZEamQm) | 3:06 | 2026-07-16 | 2026-07-24 |
 | [Beams](https://open.spotify.com/track/7AieCEz0Kpv2c8L63LXcWw) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Beams](https://open.spotify.com/album/6Gjsdtw3nw3GV5IrwFmT4G) | 3:39 | 2026-04-02 | 2026-04-10 |
@@ -4775,6 +4776,7 @@
 | [Replay](https://open.spotify.com/track/455A40VGwypdtLldUnXVIs) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Square Houze](https://open.spotify.com/artist/6yQqyQJiGD4UgKNE02P4Np) | [Square Houze Vol\. 1](https://open.spotify.com/album/1wMM9SN6sj7SaZJDeoz6hN) | 3:12 | 2025-06-05 | 2025-06-13 |
 | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx) | 3:55 | 2026-04-02 | 2026-04-10 |
 | [Resaca](https://open.spotify.com/track/0zzJyR8Xkp1f3aSBLrenab) | [Javi Medina](https://open.spotify.com/artist/6dwFgF51JkLBz93ocNJ0Ol), [Juan Debel](https://open.spotify.com/artist/7ASNbAgXtsPoZSWAUiq75N) | [Resaca](https://open.spotify.com/album/2cpNikZLgE0nLTS6AyzSO1) | 3:01 | 2026-07-16 | 2026-07-24 |
+| [RESCUER](https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [RESCUER](https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq) | 3:19 | 2026-08-07 |  |
 | [Resiste](https://open.spotify.com/track/14ljUE4u1VaoypaUp8wKpf) | [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R), [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy) | [Resiste](https://open.spotify.com/album/6nFGKoDThOrTVuBOzEnWM7) | 3:09 | 2025-07-10 | 2025-07-18 |
 | [RESTAS O SUMAS](https://open.spotify.com/track/2o8wEqT2McuxEG466Moors) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [VIVIR PA' QUEDARSE](https://open.spotify.com/album/7KyQI0HwUtbq5tmH6yMaHt) | 3:19 | 2025-11-13 | 2025-11-21 |
 | [RETIRADA](https://open.spotify.com/track/2m7Ev5rPlckRrn6HT2coGI) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [166 \(DELUXE\) retirada](https://open.spotify.com/album/2nDhATJ9VM5VucmhlSdPpm) | 2:51 | 2025-02-13 | 2025-02-21 |
@@ -5247,6 +5249,7 @@
 | [STELL4RBLADE](https://open.spotify.com/track/74ODMpM4232uiR519wKQkn) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [EL PLUGGG 3 OVA 1](https://open.spotify.com/album/5KVzwReQDpkZ4OTq0kLZwt) | 3:01 | 2025-06-27 | 2025-07-04 |
 | [Stewpid](https://open.spotify.com/track/4ZCs1ZodLShvfhYLDrJExa) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Stewpid](https://open.spotify.com/album/45VtC7hbjqdnloYG2e8jO4) | 2:41 | 2025-08-28 | 2025-09-05 |
 | [STIC PAPRIKA](https://open.spotify.com/track/1LpL8mhH3Tjq21aGV1B6re) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [STIC PAPRIKA](https://open.spotify.com/album/0WAgfKaXUFSTl7rTALPzCY) | 2:27 | 2025-04-24 | 2025-05-02 |
+| [Still](https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:40 | 2026-08-07 |  |
 | [Still Bad](https://open.spotify.com/track/5UpdcedkGcuishA7jlnH8W) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Still Bad](https://open.spotify.com/album/3DwhFPQWTCMMTbllQrAIpL) | 3:28 | 2025-03-13 | 2025-03-21 |
 | [Still Luvin](https://open.spotify.com/track/0SDmW4WnnMouTsPEv3kftj) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Bigla The Kid](https://open.spotify.com/artist/3Gf3gwkmZyNuecCyJyVD9j) | [Still Luvin](https://open.spotify.com/album/4IxPNOw15YdDYoe5yBUZit) | 4:06 | 2025-03-13 | 2025-03-21 |
 | [Stop The Wedding!](https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Stop The Wedding!](https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc) | 3:18 | 2026-08-06 |  |

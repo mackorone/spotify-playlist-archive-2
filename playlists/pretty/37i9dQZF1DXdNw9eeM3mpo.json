@@ -1,12 +1,12 @@
 {
   "description": "100% ska en espa\u00f1ol. Los Calzones en portada.",
-  "num_followers": 490085,
+  "num_followers": 490135,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIFMbtQ3w//e5mzM4fh/YrfYheG+",
+  "snapshot_id": "AAAAAMME5lMhSkrtioJe9g7XSW0QnT3I",
   "tracks": [
     {
       "added_at": "2026-07-03 06:00:08",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-07-03 06:00:08",
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 215680,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
-    },
-    {
-      "added_at": "2026-07-03 06:00:08",
-      "album": {
         "name": "Victimas Del Doctor Cerebro",
         "url": "https://open.spotify.com/album/4dcFGAgSnvjUK2fBUWoWSv"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 221640,
       "name": "El Esqueleto",
       "url": "https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX"
+    },
+    {
+      "added_at": "2026-07-03 06:00:08",
+      "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 215680,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
     },
     {
       "added_at": "2026-07-03 06:00:08",
@@ -931,26 +931,6 @@
     {
       "added_at": "2026-07-03 06:00:08",
       "album": {
-        "name": "Estoy aqu\u00ed (feat. La Pegatina)",
-        "url": "https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL"
-      },
-      "artists": [
-        {
-          "name": "Despistaos",
-          "url": "https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2"
-        },
-        {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
-        }
-      ],
-      "duration_ms": 176747,
-      "name": "Estoy aqu\u00ed (feat. La Pegatina)",
-      "url": "https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz"
-    },
-    {
-      "added_at": "2026-07-03 06:00:08",
-      "album": {
         "name": "Pachuco (feat. \"Sax\" Maldita Vecindad - en Vivo en el Foro Sol - 17.11.17)",
         "url": "https://open.spotify.com/album/6wmAbQ7sRCwzJsPr87EfoC"
       },
@@ -971,6 +951,26 @@
     {
       "added_at": "2026-07-03 06:00:08",
       "album": {
+        "name": "Estoy aqu\u00ed (feat. La Pegatina)",
+        "url": "https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL"
+      },
+      "artists": [
+        {
+          "name": "Despistaos",
+          "url": "https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2"
+        },
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        }
+      ],
+      "duration_ms": 176747,
+      "name": "Estoy aqu\u00ed (feat. La Pegatina)",
+      "url": "https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz"
+    },
+    {
+      "added_at": "2026-07-03 06:00:08",
+      "album": {
         "name": "Desequilibrio",
         "url": "https://open.spotify.com/album/2Px5P5cADenS9K7ectw7AD"
       },
@@ -983,22 +983,6 @@
       "duration_ms": 212845,
       "name": "El asesino del tiempo",
       "url": "https://open.spotify.com/track/4qn2ZtHRDmcfgVPnl38N8p"
-    },
-    {
-      "added_at": "2026-07-03 06:00:08",
-      "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 243253,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
     },
     {
       "added_at": "2026-07-03 06:00:08",
@@ -1055,6 +1039,22 @@
       "duration_ms": 237527,
       "name": "Siempre Fingiste Amarme",
       "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
+    },
+    {
+      "added_at": "2026-07-03 06:00:08",
+      "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 243253,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
     },
     {
       "added_at": "2026-07-03 06:00:08",
@@ -1271,18 +1271,22 @@
     {
       "added_at": "2026-07-03 06:00:08",
       "album": {
-        "name": "Mandar Obedeciendo",
-        "url": "https://open.spotify.com/album/57q4YukTgibWMPUN3mw0DP"
+        "name": "No Te Apartes de M\u00ed",
+        "url": "https://open.spotify.com/album/2c1drgYffmuONQpPAOPzAv"
       },
       "artists": [
         {
-          "name": "Rude Boys",
-          "url": "https://open.spotify.com/artist/4o3k1NXafCHBNUROdhaK3Z"
+          "name": "Baby Aventurero",
+          "url": "https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs"
+        },
+        {
+          "name": "Percance",
+          "url": "https://open.spotify.com/artist/4Q8gIPN30yQkI8cs2xwqmY"
         }
       ],
-      "duration_ms": 193493,
-      "name": "Mandar Obedeciendo",
-      "url": "https://open.spotify.com/track/3cHjMYDl0nBEL940bTxxcO"
+      "duration_ms": 197659,
+      "name": "No Te Apartes de M\u00ed",
+      "url": "https://open.spotify.com/track/1AiUModxUazhkkhaYWCgcM"
     },
     {
       "added_at": "2026-07-03 06:00:08",
@@ -1303,6 +1307,22 @@
     {
       "added_at": "2026-07-03 06:00:08",
       "album": {
+        "name": "Mandar Obedeciendo",
+        "url": "https://open.spotify.com/album/57q4YukTgibWMPUN3mw0DP"
+      },
+      "artists": [
+        {
+          "name": "Rude Boys",
+          "url": "https://open.spotify.com/artist/4o3k1NXafCHBNUROdhaK3Z"
+        }
+      ],
+      "duration_ms": 193493,
+      "name": "Mandar Obedeciendo",
+      "url": "https://open.spotify.com/track/3cHjMYDl0nBEL940bTxxcO"
+    },
+    {
+      "added_at": "2026-07-03 06:00:08",
+      "album": {
         "name": "Revolusound Contra Sistema",
         "url": "https://open.spotify.com/album/6ttamnxtAQ0pSALD625bUH"
       },
@@ -1315,26 +1335,6 @@
       "duration_ms": 184666,
       "name": "Corrupci\u00f3n Ska",
       "url": "https://open.spotify.com/track/4kl5KRleflL90aIGrhBtqX"
-    },
-    {
-      "added_at": "2026-07-03 06:00:08",
-      "album": {
-        "name": "No Te Apartes de M\u00ed",
-        "url": "https://open.spotify.com/album/2c1drgYffmuONQpPAOPzAv"
-      },
-      "artists": [
-        {
-          "name": "Baby Aventurero",
-          "url": "https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs"
-        },
-        {
-          "name": "Percance",
-          "url": "https://open.spotify.com/artist/4Q8gIPN30yQkI8cs2xwqmY"
-        }
-      ],
-      "duration_ms": 197659,
-      "name": "No Te Apartes de M\u00ed",
-      "url": "https://open.spotify.com/track/1AiUModxUazhkkhaYWCgcM"
     },
     {
       "added_at": "2026-07-03 06:00:08",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2026-07-03 06:00:08",
       "album": {
-        "name": "No Eres Para Mi",
-        "url": "https://open.spotify.com/album/1mIAzoKLHHfGCfkpknVX2A"
-      },
-      "artists": [
-        {
-          "name": "Vicente Cifuentes",
-          "url": "https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG"
-        },
-        {
-          "name": "Joselo Osses",
-          "url": "https://open.spotify.com/artist/61vEn9mndXCZpborSO45uP"
-        }
-      ],
-      "duration_ms": 192949,
-      "name": "No Eres Para Mi",
-      "url": "https://open.spotify.com/track/6eCfZFbIMzhSbCgllrr0xa"
-    },
-    {
-      "added_at": "2026-07-03 06:00:08",
-      "album": {
         "name": "Me enamor\u00e9",
         "url": "https://open.spotify.com/album/204ETzAtCnvJcsuMDN1bd3"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 168920,
       "name": "Me enamor\u00e9",
       "url": "https://open.spotify.com/track/0TNUbpsxCcCwf6n87XugNh"
+    },
+    {
+      "added_at": "2026-07-03 06:00:08",
+      "album": {
+        "name": "No Eres Para Mi",
+        "url": "https://open.spotify.com/album/1mIAzoKLHHfGCfkpknVX2A"
+      },
+      "artists": [
+        {
+          "name": "Vicente Cifuentes",
+          "url": "https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG"
+        },
+        {
+          "name": "Joselo Osses",
+          "url": "https://open.spotify.com/artist/61vEn9mndXCZpborSO45uP"
+        }
+      ],
+      "duration_ms": 192949,
+      "name": "No Eres Para Mi",
+      "url": "https://open.spotify.com/track/6eCfZFbIMzhSbCgllrr0xa"
     },
     {
       "added_at": "2026-07-03 06:00:08",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-07-03 06:00:08",
       "album": {
-        "name": "Gustos Gustosos",
-        "url": "https://open.spotify.com/album/2UqhbfffOcIOSfPeqG1BNZ"
-      },
-      "artists": [
-        {
-          "name": "Skapital Sound",
-          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
-        }
-      ],
-      "duration_ms": 198823,
-      "name": "El Color de tus Ojos",
-      "url": "https://open.spotify.com/track/6Cx6IG27uQ0pb4HryzN3VV"
-    },
-    {
-      "added_at": "2026-07-03 06:00:08",
-      "album": {
         "name": "\u00a1Hey T\u00fa!",
         "url": "https://open.spotify.com/album/63wvcrQ5Kq5SeDEyOZ8imM"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 192262,
       "name": "\u00a1Hey T\u00fa!",
       "url": "https://open.spotify.com/track/06JUg2MqByeWM31ac7dLba"
+    },
+    {
+      "added_at": "2026-07-03 06:00:08",
+      "album": {
+        "name": "Gustos Gustosos",
+        "url": "https://open.spotify.com/album/2UqhbfffOcIOSfPeqG1BNZ"
+      },
+      "artists": [
+        {
+          "name": "Skapital Sound",
+          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
+        }
+      ],
+      "duration_ms": 198823,
+      "name": "El Color de tus Ojos",
+      "url": "https://open.spotify.com/track/6Cx6IG27uQ0pb4HryzN3VV"
     }
   ],
   "unique_name": "Ska Latino ",

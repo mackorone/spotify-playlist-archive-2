@@ -3095,6 +3095,24 @@
     },
     {
       "album": {
+        "name": "Sula bassana (Excerpt I)",
+        "url": "https://open.spotify.com/album/2acxJ5miYMrVt9LjtZy5RG"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158072,
+      "name": "Sula bassana - Excerpt I",
+      "url": "https://open.spotify.com/track/0cJAmwulAgsD317x9wX2Co"
+    },
+    {
+      "album": {
         "name": "Summer Fantasy (From \u201cJustice Online\u201d)",
         "url": "https://open.spotify.com/album/2egmNxgYnLxHaHrNXgzMo2"
       },
@@ -3158,6 +3176,32 @@
       "duration_ms": 244083,
       "name": "Symphonic Suite 3rd Part (From \"Attack on Titan\")",
       "url": "https://open.spotify.com/track/7ltG3epdRWH3UYoWchRH8u"
+    },
+    {
+      "album": {
+        "name": "Symphony No. 1 in G Minor, Op. 13 \"Winter Dreams\": III. Scherzo (Live, Hannover, 2026)",
+        "url": "https://open.spotify.com/album/7wXJXyF416yqh0EUQfOjEv"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "NDR Radiophilharmonie",
+          "url": "https://open.spotify.com/artist/6i9KFEJuHq78nMsQxeB1vR"
+        },
+        {
+          "name": "Stanislav Kochanovsky",
+          "url": "https://open.spotify.com/artist/5LrRQPjHQSI8zW7CltrexY"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449455,
+      "name": "Symphony No. 1 in G Minor, Op. 13 \"Winter Dreams\": III. Scherzo - 2026",
+      "url": "https://open.spotify.com/track/4Ky9w1ffKNQsKsHFBVDTcE"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 
 > This is Yaeji\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,723 likes - 41 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,725 likes - 41 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 | 33 | [I'll Remember For Me, I'll Remember For You](https://open.spotify.com/track/4TQTxlRQkVkQAtRkZvtlSS) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 2:02 |
 | 34 | [WHEN I GROW UP](https://open.spotify.com/track/3ROrNVOrcH68Hh2EbLffxs) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 2:42 |
 | 35 | [Noonside](https://open.spotify.com/track/6fMipfFtGlw86Bzf5EMGPB) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 3:25 |
-| 36 | [Enough For Love \- Yaeji heart+beat Remix](https://open.spotify.com/track/4IjNSEP03dDNFAcQVgUfXH) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [RAVE:N, The Remixes](https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi) | 2:29 |
-| 37 | [Therapy](https://open.spotify.com/track/5agra2lmQHwABCYO8LULz7) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Therapy](https://open.spotify.com/album/1ko2yfNSFmSLnxfYwtWtKU) | 3:16 |
+| 36 | [Therapy](https://open.spotify.com/track/5agra2lmQHwABCYO8LULz7) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Therapy](https://open.spotify.com/album/1ko2yfNSFmSLnxfYwtWtKU) | 3:16 |
+| 37 | [Enough For Love \- Yaeji heart+beat Remix](https://open.spotify.com/track/4IjNSEP03dDNFAcQVgUfXH) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [RAVE:N, The Remixes](https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi) | 2:29 |
 | 38 | [MONEY CAN'T BUY](https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Nappy Nina](https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 2:50 |
 | 39 | [Full of It](https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 3:29 |
 | 40 | [Do You See Me](https://open.spotify.com/track/2Qq4cHhvAKu55LDU5kzijB) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Jentry Chau vs the Underworld](https://open.spotify.com/artist/7sHIdMQfOvU0PwMhLcwY19) | [Jentry Chau vs the Underworld \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4P9WQMZEzV2J85acpvbJXO) | 2:07 |
 | 41 | [PAC\-TIVE](https://open.spotify.com/track/7zJHgKgb9Lk9Qq2KNqSQ4Q) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [DiAN](https://open.spotify.com/artist/0w3fC1dS2TUZPS2xEKl3VJ) | [PAC\-TIVE](https://open.spotify.com/album/5dpJX0GUJSNwLqrp3XIobW) | 2:02 |
 
-Snapshot ID: `anJ9AAAAAACz9VhBS2rWtCZwBMyrwotT`
+Snapshot ID: `anPOgAAAAABUcCwAxNKz59V/mLE38wdx`

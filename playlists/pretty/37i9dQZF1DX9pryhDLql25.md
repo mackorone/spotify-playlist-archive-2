@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 
 > fresh produce, iced coffee, & all the lovely spring things
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,781 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,776 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 | 29 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 |
 | 30 | [Porch Light](https://open.spotify.com/track/7N3d1hsZZpmmnovfAtnVFU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:22 |
 | 31 | [Isn't She Lovely](https://open.spotify.com/track/3NlLmKBJozwoi0k03Feb1N) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection \(Deluxe Edition\)](https://open.spotify.com/album/1vQrNEAdt2eHCXAvdIs1M2) | 3:19 |
-| 32 | [Spring Into Summer](https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 4:22 |
-| 33 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 |
+| 32 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 |
+| 33 | [Spring Into Summer](https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 4:22 |
 | 34 | [Float On](https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Good News For People Who Love Bad News](https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0) | 3:28 |
 | 35 | [Bloom \- Bonus Track](https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:30 |
 | 36 | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi) | 3:34 |
-| 37 | [Freaking Out the Neighborhood](https://open.spotify.com/track/3HlK8txWAdtKMrbsqX40pl) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO) | 2:53 |
-| 38 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 |
+| 37 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 |
+| 38 | [Freaking Out the Neighborhood](https://open.spotify.com/track/3HlK8txWAdtKMrbsqX40pl) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO) | 2:53 |
 | 39 | [Wish I Knew You](https://open.spotify.com/track/2EWpa5XnAuSn0sIkSSIhYk) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Men Amongst Mountains](https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn) | 4:34 |
 | 40 | [The Great Divide](https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N) | 5:17 |
 | 41 | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/track/2TAKt1x0k9AltDJm31GhEu) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Malcolm Todd](https://open.spotify.com/album/6IkS2cDHxaYVkJueCPSdFs) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 | 49 | [August](https://open.spotify.com/track/0elCmyfISzkP5tAYTVuYjS) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Citrona](https://open.spotify.com/album/7iTm9yZznLHb1GBOVm5IB1) | 4:21 |
 | 50 | [The Bug Collector](https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:48 |
 
-Snapshot ID: `AAAAAINXhHam4M2zsYK8CGbfr15VAZjK`
+Snapshot ID: `AAAAAKSdG+N1KZnQ/xkQcyjiP2alKcxv`

@@ -4,7 +4,7 @@
 
 > ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Manuel Turizo.
 
-404 songs - 21 hr 8 min
+405 songs - 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,6 +369,7 @@
 | [Sussy](https://open.spotify.com/track/7BwTusOtnCb1TDnwfwqALe) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Sussy](https://open.spotify.com/album/45DC2xHGmXJcQxqd5gyoMM) | 3:14 | 2024-06-28 |  |
 | [Suéltame](https://open.spotify.com/track/36zb2vo54sfaNplPbw9AMD) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [AGUILERA](https://open.spotify.com/album/52SJvDHaFAC3IE4a29UOIa) | 2:53 | 2022-06-10 | 2022-06-25 |
 | [Sé Que Estás Con Él](https://open.spotify.com/track/003A7dXikhqxbT1dWXPuf3) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [INTRUSO](https://open.spotify.com/album/4K5N6FoZm9Oki26KjmLrRw) | 3:12 | 2022-10-14 | 2023-02-04 |
+| [Tal Vez Mañana](https://open.spotify.com/track/7yoTLJ4DdQ62CtTEIMJuRM) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [Tal Vez Mañana](https://open.spotify.com/album/51elj8SNea5ht8B7Cd7l5N) | 3:28 | 2026-08-07 |  |
 | [Tan Bonita](https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [El Amor En Los Tiempos Del Perreo](https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE) | 3:31 | 2021-12-10 | 2026-03-14 |
 | [Tan Enamorados](https://open.spotify.com/track/4z9b9AbzCw32Azqg8uJ0B6) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Tan Enamorados](https://open.spotify.com/album/0GmPTq9AHYUmbelg8bVamu) | 2:57 | 2021-12-10 |  |
 | [Tarea](https://open.spotify.com/track/2dcsG9tJO9KrC4HOyl8Msu) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Qué Momento Pa' Estar Vivo](https://open.spotify.com/album/7q7oXa6wkdqTIuM9cpHxNF) | 2:31 | 2023-11-10 | 2024-11-09 |

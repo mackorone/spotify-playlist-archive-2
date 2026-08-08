@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR?si=be4f643eccaa4571">Solana</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,558 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,562 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 59 | [PRESS AM](https://open.spotify.com/track/1HGAkDrQS4SAjGO1wUUEJ8) | [Egertton](https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV), [ARTSALGHUL](https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf) | [PRESS AM](https://open.spotify.com/album/1EBWwV4ediQjVLCZfqgCyj) | 2:03 |
 | 60 | [fêteRock\*](https://open.spotify.com/track/28dmUmDBKcByC8J4g0FmJN) | [onoola\-sama](https://open.spotify.com/artist/21n9ybnUUCQNOj4Ea8rVxC), [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4) | [fujiBouyon\*](https://open.spotify.com/album/1zaNYDraNZA32BrkMhedlT) | 3:07 |
 
-Snapshot ID: `AAAAAKM0G5GxQAcpB49l3I1Ejn4yqBY3`
+Snapshot ID: `AAAAAGbhxTCddbIorAYVBn0iLf5nNUnV`

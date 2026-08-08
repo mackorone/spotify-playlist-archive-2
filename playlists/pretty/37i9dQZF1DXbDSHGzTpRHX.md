@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,467 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,466 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 99 | [Light Personified](https://open.spotify.com/track/1qtRjq4lKqilxJCQErodW8) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Light Personified](https://open.spotify.com/album/7CcRPXoDJ6gDw3g27gjy8u) | 3:20 |
 | 100 | [E](https://open.spotify.com/track/5Jn3W2PPpKDj4SBQTdC8op) | [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [E](https://open.spotify.com/album/0oUNDHvJ03IKXEXh7LIimN) | 3:00 |
 
-Snapshot ID: `AAAAAM2+FmN8w2mf74zJ6KCsI2VVz/n5`
+Snapshot ID: `AAAAACAa7TZf8KhK+yOj1aTXy2y74mSV`

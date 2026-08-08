@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Your guide to R&B in Canada, with Os\u00e9 from Brampton, ON.",
+  "description": "Your guide to R&B in Canada, with Roy Woods from Brampton, ON.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -2815,6 +2815,24 @@
     },
     {
       "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201450,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/41hDtBjgJ2rN4yUiYSPbfg"
+    },
+    {
+      "album": {
         "name": "Beautiful Day",
         "url": "https://open.spotify.com/album/6EtUw5SJKJyzHu348NQZef"
       },
@@ -4152,7 +4170,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 134577,
       "name": "Brunch",
       "url": "https://open.spotify.com/track/2kNfvDTTZOFcDoPTyKoAdT"
@@ -15033,6 +15051,24 @@
     },
     {
       "album": {
+        "name": "Kissing Underwater",
+        "url": "https://open.spotify.com/album/2TgfwqCYZyTv4n8omjFnqK"
+      },
+      "artists": [
+        {
+          "name": "Benita",
+          "url": "https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159310,
+      "name": "Kissing Underwater",
+      "url": "https://open.spotify.com/track/6bmcfa6rrkP63zqB3f3v9f"
+    },
+    {
+      "album": {
         "name": "Knackademus",
         "url": "https://open.spotify.com/album/7i8JOdcJ7tIu3lsNs7SUdb"
       },
@@ -23790,7 +23826,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 141473,
       "name": "Right Wit Us",
       "url": "https://open.spotify.com/track/2H378kaXwCiVzsD9CRViL1"
@@ -30495,6 +30531,24 @@
     },
     {
       "album": {
+        "name": "Turn You Up",
+        "url": "https://open.spotify.com/album/7bnd5gu2eOz3zqOv8BUXp6"
+      },
+      "artists": [
+        {
+          "name": "Chikoruss",
+          "url": "https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "Turn You Up",
+      "url": "https://open.spotify.com/track/1v2NgfMNk09EJgvACPDYFO"
+    },
+    {
+      "album": {
         "name": "Twilight One",
         "url": "https://open.spotify.com/album/7dnFnR9U4k8CvyQyQypzfI"
       },
@@ -30966,7 +31020,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 204628,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/2Yt5ktH0mRvgmAORp9GXPY"

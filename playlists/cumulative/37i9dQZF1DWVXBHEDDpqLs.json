@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "the best underground club tracks \u2694\ufe0f starring deBasement \u2694\ufe0f ",
+  "description": "the best underground club tracks \ud83d\udcaf feat. Nikki Nair \ud83d\udcaf",
   "name": "Club Culture",
   "tracks": [
     {
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 214500,
       "name": "Astro",
       "url": "https://open.spotify.com/track/0ayz6PqaVqwkCpjA9iPzas"
@@ -4061,6 +4061,24 @@
     },
     {
       "album": {
+        "name": "Cisnes de Sol",
+        "url": "https://open.spotify.com/album/0lmzwypKnb9hpgJ5hDwyLJ"
+      },
+      "artists": [
+        {
+          "name": "S.3.R",
+          "url": "https://open.spotify.com/artist/1ygBBLwpjIkQl1a7FQ9ljZ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158896,
+      "name": "Cisnes de Sol",
+      "url": "https://open.spotify.com/track/1AZTBejxa8T3ZtCkrK1hYY"
+    },
+    {
+      "album": {
         "name": "Clean Cut",
         "url": "https://open.spotify.com/album/2FDbhjRcYXUJKrbbEaDofZ"
       },
@@ -5525,6 +5543,24 @@
     },
     {
       "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/5nYSeBNTHGVnHF8fHu5q6H"
+      },
+      "artists": [
+        {
+          "name": "Kade Young",
+          "url": "https://open.spotify.com/artist/0HuyMTJ3Nd3JQsOfDrGYVT"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251720,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/53fmJmJRNaL4gpglopAs2S"
+    },
+    {
+      "album": {
         "name": "Do It Again (feat. 2Rare)",
         "url": "https://open.spotify.com/album/5qPgB3OSDv3KfALFg1PZwe"
       },
@@ -6776,6 +6812,24 @@
       "duration_ms": 202325,
       "name": "Fast Talking",
       "url": "https://open.spotify.com/track/6o1hyhIV6t1pBtVRbDN3qw"
+    },
+    {
+      "album": {
+        "name": "Fast, Feast, Repeat",
+        "url": "https://open.spotify.com/album/1UwNOSiJ3oTELRwTneIBEv"
+      },
+      "artists": [
+        {
+          "name": "Mambo Kahn",
+          "url": "https://open.spotify.com/artist/7qVQNTAdX9SLO62hAaEhm5"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265263,
+      "name": "Fast, Feast, Repeat",
+      "url": "https://open.spotify.com/track/0ohVTNTQ0SlHSHllROqwiy"
     },
     {
       "album": {
@@ -8480,7 +8534,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 337658,
       "name": "Grain",
       "url": "https://open.spotify.com/track/2cdx2u1EO1BtPaWrWyvPpn"
@@ -9146,7 +9200,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 286847,
       "name": "HONESTLY",
       "url": "https://open.spotify.com/track/5sJjxTf8hK9wHLgPD4rBwy"
@@ -13138,7 +13192,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 248039,
       "name": "NO CTRL",
       "url": "https://open.spotify.com/track/3uE4naGfc4NqKisfxwZJeA"
@@ -13820,6 +13874,24 @@
       "duration_ms": 159250,
       "name": "One Fly Tune",
       "url": "https://open.spotify.com/track/19XwRbjSXR6b4U7Eprgih3"
+    },
+    {
+      "album": {
+        "name": "The Sick Dimension",
+        "url": "https://open.spotify.com/album/2UIQEzb2pd4N9jveukNUmS"
+      },
+      "artists": [
+        {
+          "name": "Nikki Nair",
+          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287953,
+      "name": "One Hundred",
+      "url": "https://open.spotify.com/track/16npxHfsCig9DMAtoy19UO"
     },
     {
       "album": {
@@ -15465,6 +15537,28 @@
     },
     {
       "album": {
+        "name": "Ramos (Verraco Reshape)",
+        "url": "https://open.spotify.com/album/4ukk6hHQIcuGvqRjGAkTpB"
+      },
+      "artists": [
+        {
+          "name": "Ploy",
+          "url": "https://open.spotify.com/artist/3mYbIK47UNTYkexhqoJOBN"
+        },
+        {
+          "name": "Verraco",
+          "url": "https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425000,
+      "name": "Ramos (Verraco Reshape)",
+      "url": "https://open.spotify.com/track/2AqkO83vEJOXlw24ZY4GjU"
+    },
+    {
+      "album": {
         "name": "The Place Where We Live",
         "url": "https://open.spotify.com/album/4wabdXMgokOnykK1Mi21z4"
       },
@@ -16782,6 +16876,24 @@
       "duration_ms": 231860,
       "name": "SHELLAC - Edit",
       "url": "https://open.spotify.com/track/2i9agRnat2vvCkp5PEsRfd"
+    },
+    {
+      "album": {
+        "name": "shish.Haft",
+        "url": "https://open.spotify.com/album/0Ul8CvkEtF5ZeIOXAZ1D3A"
+      },
+      "artists": [
+        {
+          "name": "Valfi",
+          "url": "https://open.spotify.com/artist/36UGIRe1bc27QQnLgym03q"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270067,
+      "name": "shish.Haft",
+      "url": "https://open.spotify.com/track/03dtSdscY9rA09UD097Y4V"
     },
     {
       "album": {
@@ -18945,6 +19057,24 @@
     },
     {
       "album": {
+        "name": "Age Of Burnout",
+        "url": "https://open.spotify.com/album/63o2TfuR6Wamxxam2pVLfy"
+      },
+      "artists": [
+        {
+          "name": "Strict Face",
+          "url": "https://open.spotify.com/artist/1NmRM6j6RUfsifUTo1lceq"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334899,
+      "name": "The Fires Still",
+      "url": "https://open.spotify.com/track/0N2VUBtkm8CgXC3ttOa1uy"
+    },
+    {
+      "album": {
         "name": "The Floor Is Ours",
         "url": "https://open.spotify.com/album/2elNjgpGtg7wOBytKwswH1"
       },
@@ -19856,7 +19986,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 221125,
       "name": "Tuve suerte",
       "url": "https://open.spotify.com/track/5sqYh2j9t7XRXCPIGMBZCP"
@@ -20728,7 +20858,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 209000,
       "name": "Waiting Game",
       "url": "https://open.spotify.com/track/3rfoHc8ARICdqBtnIDtrym"
@@ -21486,7 +21616,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 263283,
       "name": "work it out",
       "url": "https://open.spotify.com/track/3TnhKcptFEuPkWgqQzm7NJ"

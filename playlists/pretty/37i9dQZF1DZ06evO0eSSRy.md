@@ -21,14 +21,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 | 11 | [Then People Forget](https://open.spotify.com/track/3brIRujiNsAw7xXNJt9V9I) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 3:31 |
 | 12 | [Fixed It All](https://open.spotify.com/track/4StSImJMmm9Lq9FqaVWhiG) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 4:21 |
 | 13 | [Stick to Silence](https://open.spotify.com/track/2p8TppNxlaaQM6Qo0IdcfS) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Stick to Silence](https://open.spotify.com/album/7wSeCh7X6Ff29Tr5Loxhy8) | 3:46 |
-| 14 | [The Luck You Had](https://open.spotify.com/track/2j4oiDGeldw98B8kf8VWKY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc) | 4:24 |
+| 14 | [Sequoia](https://open.spotify.com/track/6VPhuhPsapwZIU2EP6QceW) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc) | 4:36 |
 | 15 | [Start out with Differences](https://open.spotify.com/track/036ME3TU5NT3XCLdYxpGMA) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 3:49 |
 | 16 | [Water Doctor](https://open.spotify.com/track/0dXhvuHICapK14lW6huwO3) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 3:38 |
 | 17 | [Houses of American Style](https://open.spotify.com/track/6eDw8rZ9bJWCkoaFtLDh6P) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc) | 4:04 |
 | 18 | [Party's over, Biff](https://open.spotify.com/track/7GhEA17jVlT44Tyg4nKu4C) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 3:48 |
 | 19 | [Mike + Susan](https://open.spotify.com/track/14iRhVzDOc9EKuRIbzsczQ) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 4:01 |
-| 20 | [Sequoia](https://open.spotify.com/track/6VPhuhPsapwZIU2EP6QceW) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc) | 4:36 |
+| 20 | [The Luck You Had](https://open.spotify.com/track/2j4oiDGeldw98B8kf8VWKY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc) | 4:24 |
 | 21 | [7\-57](https://open.spotify.com/track/0mARjWxyuauPTUBC1G8s9f) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 3:00 |
 | 22 | [412](https://open.spotify.com/track/1nx2dR3JFSU89eCXITguU5) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 3:54 |
 
-Snapshot ID: `anJ9AAAAAACoN7Nz7E9QME6A+/TAASGF`
+Snapshot ID: `anPOgAAAAABtg/ozoCB1SO7+PNgH2C3S`

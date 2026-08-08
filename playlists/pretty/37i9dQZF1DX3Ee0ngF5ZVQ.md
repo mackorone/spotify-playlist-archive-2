@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Braxton Keith
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,292 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,276 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,11 +84,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 74 | [Old Fashioned Feeling](https://open.spotify.com/track/1mlFsqgc3lgTCboLATYHBo) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Old Fashioned Feeling](https://open.spotify.com/album/3ojGoD6lwIzSjHKqgndFD9) | 3:22 |
 | 75 | [Destiny](https://open.spotify.com/track/1iS3tR6A5kibt0BInSlzzU) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Destiny](https://open.spotify.com/album/7swt4qXQz75AomZfbJRHxl) | 3:21 |
 | 76 | [I'm The One \(feat\. Marty Stuart\)](https://open.spotify.com/track/6tMUkiyHP1DMMcoqCS6fkY) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp), [Marty Stuart](https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO) | [I'm The One](https://open.spotify.com/album/31cSwPDJHYe00GhuyOxfvu) | 2:55 |
-| 77 | [Till You](https://open.spotify.com/track/2XSZ4cEzB2lUY8i2rUWKN6) | [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Till You](https://open.spotify.com/album/29VsW5EVau6fNhYop1nIWR) | 3:26 |
+| 77 | [Cowgirl](https://open.spotify.com/track/3ygU6QkGitk8PRJL7JuK0U) | [Jake Bush](https://open.spotify.com/artist/5q2SyCRK7G7nMb1EjyBHPF) | [Where 90's Meets Now](https://open.spotify.com/album/3Wl2XCAN7kj632waACjzsm) | 3:23 |
 | 78 | [When My Baby’s In Boots](https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [When My Baby’s In Boots](https://open.spotify.com/album/0E0hnTHYem327caHZmgP1Q) | 3:02 |
 | 79 | [Up In Texas](https://open.spotify.com/track/7KJVh9zU77dzRVs9ZDyztF) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Up In Texas](https://open.spotify.com/album/6ECMDvNJ3mAY49NiYxE3eW) | 3:11 |
-| 80 | [Cowgirl](https://open.spotify.com/track/3ygU6QkGitk8PRJL7JuK0U) | [Jake Bush](https://open.spotify.com/artist/5q2SyCRK7G7nMb1EjyBHPF) | [Where 90's Meets Now](https://open.spotify.com/album/3Wl2XCAN7kj632waACjzsm) | 3:23 |
-| 81 | [All Of My Exes \(Still Make Me Breakfast\) \- Live From Cheatham Street](https://open.spotify.com/track/48pMU2RkrMLAzM4NfGIBUQ) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Live From Cheatham Street](https://open.spotify.com/album/5toLbY15yPPb1iVknycOc0) | 4:14 |
+| 80 | [All Of My Exes \(Still Make Me Breakfast\) \- Live From Cheatham Street](https://open.spotify.com/track/48pMU2RkrMLAzM4NfGIBUQ) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Live From Cheatham Street](https://open.spotify.com/album/5toLbY15yPPb1iVknycOc0) | 4:14 |
+| 81 | [Till You](https://open.spotify.com/track/2XSZ4cEzB2lUY8i2rUWKN6) | [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Till You](https://open.spotify.com/album/29VsW5EVau6fNhYop1nIWR) | 3:26 |
 | 82 | [The Show](https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [The Show](https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6) | 3:28 |
 | 83 | [Love Talking](https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Talking](https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB) | 2:53 |
 | 84 | [The Road](https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Turning Point](https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 99 | [Hunt You Down](https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Hunt You Down](https://open.spotify.com/album/3ZmBeTs68BAwCeUOknXaQ7) | 3:24 |
 | 100 | [Running out of Time](https://open.spotify.com/track/66Xb15mkqTgCu06aGUmgOu) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib), [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX), [Randy Rogers](https://open.spotify.com/artist/2DwAtAKSDY87F2pu50Csrk), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Running out of Time](https://open.spotify.com/album/43tiHHwZStRZcQJmm6ohVf) | 3:37 |
 
-Snapshot ID: `AAAAANHLpruIk/s3XtgYaGmVSgEnYXnd`
+Snapshot ID: `AAAAAO23piidZwtXxO3IeLQqpg5aHEf3`

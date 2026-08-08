@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 210597,
+  "num_followers": 210775,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAB5FtrhctiBcA0lbQow6AL3",
+  "snapshot_id": "anPOgAAAAAC1VLBc3b+tOXVjNwo//7pU",
   "tracks": [
     {
       "added_at": null,
@@ -191,6 +191,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "2 STEP THE ENEMY",
+        "url": "https://open.spotify.com/album/7Iq8SQQjSyamkZRS18nXqB"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "LOST & FOUND",
+          "url": "https://open.spotify.com/artist/1r7O3OhNTysGMbMIsfuvPo"
+        },
+        {
+          "name": "ZVC",
+          "url": "https://open.spotify.com/artist/178yogXdTxSjPnonPUtnoI"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "2 STEP THE ENEMY",
+      "url": "https://open.spotify.com/track/39WdN3BFvkBQehNPMKtNQw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PRAISES (remix)",
         "url": "https://open.spotify.com/album/0eEC6dBOEFVrqw50wKRrNW"
       },
@@ -227,30 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2 STEP THE ENEMY",
-        "url": "https://open.spotify.com/album/7Iq8SQQjSyamkZRS18nXqB"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "LOST & FOUND",
-          "url": "https://open.spotify.com/artist/1r7O3OhNTysGMbMIsfuvPo"
-        },
-        {
-          "name": "ZVC",
-          "url": "https://open.spotify.com/artist/178yogXdTxSjPnonPUtnoI"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "2 STEP THE ENEMY",
-      "url": "https://open.spotify.com/track/39WdN3BFvkBQehNPMKtNQw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHILD OF GOD",
         "url": "https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb"
       },
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD II",
-        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 133944,
-      "name": "AMEN",
-      "url": "https://open.spotify.com/track/7lpxlWJ6GZbHTla59FKHgM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUNRISE",
         "url": "https://open.spotify.com/album/7HFnz2dskywxtDeWEdWkdg"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 156583,
       "name": "SUNRISE",
       "url": "https://open.spotify.com/track/7scWcScVJIcVTLLE1cv1ib"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILD OF GOD II",
+        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 133944,
+      "name": "AMEN",
+      "url": "https://open.spotify.com/track/7lpxlWJ6GZbHTla59FKHgM"
     },
     {
       "added_at": null,

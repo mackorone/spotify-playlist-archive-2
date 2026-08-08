@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > New pop releases from the UK & Ireland 🌟<br/>cover: Sebastian Schub
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,355 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,366 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 74 | [Bad Girl July](https://open.spotify.com/track/3JGvadHPJPe26wlsSdTnEk) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Bad Girl July](https://open.spotify.com/album/4YZfvDqzaQSrEmTcpdfRq5) | 4:01 |
 | 75 | [Mercy](https://open.spotify.com/track/1aztie4vtok8BJDCkpuACb) | [Jack Dean](https://open.spotify.com/artist/4Qqd73y2C4EJsGkM1HfElZ) | [Mercy](https://open.spotify.com/album/1K56lLAyocjPjB7PfhRKMP) | 2:57 |
 
-Snapshot ID: `AAAAAC0QoLREH8ra0k6ABo6rbIMfHV+j`
+Snapshot ID: `AAAAAIbpw0IN1WE4qw2FuDNzArSDRxbK`

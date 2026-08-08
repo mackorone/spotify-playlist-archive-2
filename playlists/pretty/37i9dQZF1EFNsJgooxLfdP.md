@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4K6JUGERv1pUGgxWwuwj06">Victoria Monét</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,548 likes - 91 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,547 likes - 91 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 | 43 | [Big Boss \(Interlude\)](https://open.spotify.com/track/7EuktT4CgA637ci366IrYW) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 1:31 |
 | 44 | [Touch Me \(feat\. Kehlani\) \- Remix](https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Touch Me \(feat\. Kehlani\) \[Remix\]](https://open.spotify.com/album/4ICez0IybCtHZbAXl5ENWJ) | 3:07 |
 | 45 | [Jaguar](https://open.spotify.com/track/6mnnWzRl1C6LABvoUar9tF) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 3:31 |
-| 46 | [We Know](https://open.spotify.com/track/2S9DJvPYEwH8xz6FOCRE3w) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 2:57 |
-| 47 | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/track/5v7BIzhKuy8WzT7LyFYiiO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 4:00 |
+| 46 | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/track/5v7BIzhKuy8WzT7LyFYiiO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [JAGUAR II](https://open.spotify.com/album/3NwHGaFneaad7RHBKboeUw) | 4:00 |
+| 47 | [We Know](https://open.spotify.com/track/2S9DJvPYEwH8xz6FOCRE3w) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 2:57 |
 | 48 | [Offa Me \(feat\. Victoria Monét\)](https://open.spotify.com/track/3BRna1YDKLEtiEiJ0ArbSA) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:09 |
 | 49 | [Admit It \(u dont want 2\)](https://open.spotify.com/track/5tf6nRmNE3hd2lDvfco1I1) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/2ClZ9xWAYg1BH8zkR96dJo) | 6:25 |
 | 50 | [Got Her Own \(with Victoria Monét\)](https://open.spotify.com/track/3UBE9swDF71ARoV42g6Fcx) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Charlie's Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f) | 2:41 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 | 90 | [I'm The One \(Jingle Bells\)](https://open.spotify.com/track/1JgCZJT9mhWcZkerQVuRXY) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [A Jaguar II Christmas: The Orchestral Arrangements](https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5) | 1:56 |
 | 91 | [Christmas in Hollywood](https://open.spotify.com/track/0ovd1Hjlnd1jUyMINunnKi) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [A Jaguar II Christmas: The Orchestral Arrangements](https://open.spotify.com/album/6WVNnqHYc6pCrkXyXB7ai5) | 2:59 |
 
-Snapshot ID: `AcY4yAAAAAA8RkBB92RzVriEfYr6vYvs`
+Snapshot ID: `AcY+GAAAAAB7G4cth+XgtoeuvFTUjoel`

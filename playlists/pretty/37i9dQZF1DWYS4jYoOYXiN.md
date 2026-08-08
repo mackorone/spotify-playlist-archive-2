@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,054 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,076 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 49 | [A Deeper Shade Of Soul](https://open.spotify.com/track/3IdSUJXeJ2stlXftRNOh2e) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Acid](https://open.spotify.com/album/0RpE6Nz3Cyb7gx2CpC5dJn) | 2:48 |
 | 50 | [Come And Get It](https://open.spotify.com/track/647gi4v4E8zPT0GdiR8MxL) | [Ralph Robles](https://open.spotify.com/artist/6zIVmHQtPA9i2eZRDtWqjV) | [El Barrio](https://open.spotify.com/album/4xGW5NEUTOgeqvYoOCCD0k) | 3:00 |
 
-Snapshot ID: `AAAAAJxBEYddDDTVDpdEdY4soqcgiIjD`
+Snapshot ID: `AAAAAFjcbZcxriDU8KReps4wE4jmkW8Q`

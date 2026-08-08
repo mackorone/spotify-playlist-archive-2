@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Wekelijkse update met de beste Indie releases\. Cover: Benny Sings
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,785 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,808 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 99 | [Ache](https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Bloom](https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7) | 4:25 |
 | 100 | [Florence](https://open.spotify.com/track/4vNf1qqBHno9dM6PcgVBHj) | [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [Florence](https://open.spotify.com/album/0GAuzNrkQcaZyNezFjNDSB) | 4:31 |
 
-Snapshot ID: `AAAAAARZWoy+lDJGNEl203Rn1XvkQfs3`
+Snapshot ID: `AAAAABEouTetKf3dfFqqvf6LYJc4JELr`

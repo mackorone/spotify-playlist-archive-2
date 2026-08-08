@@ -4,7 +4,7 @@
 
 > This is Los Farmerz\. The essential tracks, all in one playlist.
 
-108 songs - 5 hr 41 min
+109 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [El Ahuate \- En Vivo](https://open.spotify.com/track/7I8phBjWI3g8KFXDLKyiMK) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Ahuate \(En Vivo\)](https://open.spotify.com/album/5eYtBmxICspHHxnFIHeYVl) | 4:18 | 2024-01-29 | 2025-01-07 |
 | [El Buenas Tardes](https://open.spotify.com/track/1gb3SXBZ05dqxy7KD616m6) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Buenas Tardes](https://open.spotify.com/album/32JOOGL0H1g27caRVFuuIE) | 3:31 | 2026-05-31 |  |
 | [El Buenazo](https://open.spotify.com/track/09n6isQIxzROWYMFgkKz10) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Slapperz](https://open.spotify.com/album/7vHKFMrKnIcBsrjtg1vuzS) | 2:59 | 2024-01-29 |  |
+| [El Caguamillo](https://open.spotify.com/track/5iTCPbNS7QcfJzG8VToyMi) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Alta Gama](https://open.spotify.com/artist/1ZOQjTwtC0tXWf4FqCKA3m) | [El Caguamillo](https://open.spotify.com/album/1Lsk54vHCJZFIzb0wsH0Em) | 3:11 | 2026-08-08 |  |
 | [El Caminante](https://open.spotify.com/track/1Qji9zxko5AlpXamrMrNCu) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:07 | 2024-01-29 | 2024-06-12 |
 | [El Charlie](https://open.spotify.com/track/18VTCbLAdHcEVBigDSZrKC) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 2:37 | 2024-01-29 | 2025-04-13 |
 | [El Chato](https://open.spotify.com/track/0uNazwI0XPyMqVw4LOsOUt) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [El Chato](https://open.spotify.com/album/1pcmtSkSvsZX2anSkn5zsI) | 3:33 | 2025-03-30 | 2025-08-30 |
@@ -100,7 +101,7 @@
 | [Ojala Que No](https://open.spotify.com/track/1S4TrWKAuwbk5sNVWfgbti) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [Ojala Que No](https://open.spotify.com/album/5omBkjDOGbdo8o7HCsqgWk) | 2:05 | 2026-06-19 |  |
 | [Ortiz](https://open.spotify.com/track/1szpyTT0Be1WuC62neWYIW) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [La Torre De Oro](https://open.spotify.com/album/3LKGcm1M7rUMp8C9m9fl9Y) | 3:05 | 2025-02-15 | 2025-03-12 |
 | [Ortiz](https://open.spotify.com/track/6t5WA2338P7d8UUphfnH5c) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Ortiz](https://open.spotify.com/album/4EJqxOOWo7zgEkZ0l1B7Sb) | 3:05 | 2025-01-15 | 2025-01-25 |
-| [Pongase Bien Chula](https://open.spotify.com/track/2Jp6ClwLW6AWEmCGSNOFm4) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Pongase Bien Chula](https://open.spotify.com/album/3FQ4rPKYElCuLXD6FztfoF) | 2:44 | 2025-11-23 |  |
+| [Pongase Bien Chula](https://open.spotify.com/track/2Jp6ClwLW6AWEmCGSNOFm4) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Pongase Bien Chula](https://open.spotify.com/album/3FQ4rPKYElCuLXD6FztfoF) | 2:44 | 2025-11-23 | 2026-08-08 |
 | [Por el Pueblo y Para el Pueblo](https://open.spotify.com/track/0r4FuLHmh5yE9TBBFOHikB) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Alta Gama](https://open.spotify.com/artist/1ZOQjTwtC0tXWf4FqCKA3m) | [Por el Pueblo y Para el Pueblo](https://open.spotify.com/album/1wgidFNBRzoFtGx8NXhKm2) | 4:16 | 2026-07-11 |  |
 | [Por Que Te Vas De Mi](https://open.spotify.com/track/2sTtOh2i7bBe7ypfj3GUZ4) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:04 | 2024-01-29 |  |
 | [Que Casualidad](https://open.spotify.com/track/4ijcJd0qbM3i51wVAdoiMt) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Que Casualidad](https://open.spotify.com/album/40AK5iEvmLqAYdWLKaBWDV) | 3:39 | 2025-05-18 | 2025-07-19 |

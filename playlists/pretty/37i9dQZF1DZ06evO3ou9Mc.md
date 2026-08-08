@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 
 > This is The Offspring\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,577 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,817 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 | 36 | [Defy You](https://open.spotify.com/track/5VBVIcMh6CWy8szP3U0Ttp) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Greatest Hits](https://open.spotify.com/album/5HDj9yjtyhPduBMVax56pg) | 3:48 |
 | 37 | [Come Out Swinging](https://open.spotify.com/track/3T8Ht5f3xUejqEctN3RGb6) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Conspiracy Of One](https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs) | 2:47 |
 | 38 | [Trust In You](https://open.spotify.com/track/6aUZTbyshptdpu7H6Mirjw) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 3:09 |
-| 39 | [Cool To Hate](https://open.spotify.com/track/3M3gKehdtIR2krOZfkw2iK) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 2:47 |
-| 40 | [The Noose](https://open.spotify.com/track/0ir4rLQH0Ye3yCpWDFL1J7) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Splinter](https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL) | 3:18 |
+| 39 | [The Noose](https://open.spotify.com/track/0ir4rLQH0Ye3yCpWDFL1J7) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Splinter](https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL) | 3:18 |
+| 40 | [Cool To Hate](https://open.spotify.com/track/3M3gKehdtIR2krOZfkw2iK) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 2:47 |
 | 41 | [Dirty Magic](https://open.spotify.com/track/0iRJc27fHvcDd7D3mUlZZX) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Days Go By](https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9) | 4:00 |
 | 42 | [Kristy, Are You Doing Okay?](https://open.spotify.com/track/616cVydBdvTudiKpoWs0WY) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 3:42 |
 | 43 | [Session \- 2008 Remaster](https://open.spotify.com/track/5eDT0xin7cj0Ec1pNsxMdU) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ignition \(2008 Remaster\)](https://open.spotify.com/album/5AT58tLypuZu3nVlFQObyF) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 | 49 | [Dividing By Zero](https://open.spotify.com/track/2BWt8ozzFptUlrnCilgK6l) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Days Go By](https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9) | 2:22 |
 | 50 | [Ok, But This Is The Last Time](https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [SUPERCHARGED](https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g) | 3:23 |
 
-Snapshot ID: `anJ9AAAAAADBYnSogpREAn1NsoFKhcle`
+Snapshot ID: `anPOgAAAAABmCIli80bT1T+S0u8rFMTl`

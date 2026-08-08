@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,105 likes - 316 songs - 19 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,106 likes - 316 songs - 19 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -217,8 +217,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 207 | [Ain't It Funny ft\. Meek Mill](https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [VORY](https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA) | 3:03 |
 | 208 | [SKYAMI \(feat\. Mango Foo\)](https://open.spotify.com/track/1bEwAeGJvobpPDTkw1mnb3) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Mango Foo](https://open.spotify.com/artist/7FRSHbAPSN9RLPSsh2a2rV) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:33 |
 | 209 | [Tony Story, Pt\. 2](https://open.spotify.com/track/39brMNdORpB9YpDFIFepJi) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 4:23 |
-| 210 | [CROWN](https://open.spotify.com/track/4STskVkFJFtNbjuZmDe26C) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CROWN](https://open.spotify.com/album/0mRiqLvYIjafS4sKy4kAKW) | 2:35 |
-| 211 | [Autumn Drive](https://open.spotify.com/track/65phQRcjtYszjbDfYfjoWB) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Solace & The Vices](https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n) | 2:08 |
+| 210 | [Autumn Drive](https://open.spotify.com/track/65phQRcjtYszjbDfYfjoWB) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Solace & The Vices](https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n) | 2:08 |
+| 211 | [CROWN](https://open.spotify.com/track/4STskVkFJFtNbjuZmDe26C) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CROWN](https://open.spotify.com/album/0mRiqLvYIjafS4sKy4kAKW) | 2:35 |
 | 212 | [Lullaby](https://open.spotify.com/track/5iqUNtdOkCgszqAxoMFfvR) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [508\-507\-2209](https://open.spotify.com/album/5FNiUh6rfgogAensmq4c81) | 4:31 |
 | 213 | [I'm Gone](https://open.spotify.com/track/2tfmel8uAeKKZSHCSMP1P2) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Careless World: Rise Of The Last King](https://open.spotify.com/album/68XdlVpTEpBtM2FBxROLva) | 4:54 |
 | 214 | [On This Way \(feat\. The Game & Iyla\)](https://open.spotify.com/track/20AUSGH3hwXA5FAujtcq8w) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [iyla](https://open.spotify.com/artist/4LXBFNxqvOcdBVpbgKn6op) | [Evolution](https://open.spotify.com/album/3erY5XSpTKh0GfNf5FJuT2) | 4:39 |
@@ -325,4 +325,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 315 | [Love Me Til I Die](https://open.spotify.com/track/4GLENDZP3pxlrzpkQDITWt) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/2oPT6EoZENUaEzT03RoG6C) | 4:18 |
 | 316 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AcY48AAAAAD1D0Dv7oVXUjnnhTiiQEIN`
+Snapshot ID: `AcY+GAAAAAAnRF7QE7te3WRbDNJQXwsC`

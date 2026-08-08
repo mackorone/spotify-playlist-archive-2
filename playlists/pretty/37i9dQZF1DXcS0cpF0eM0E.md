@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcS0cpF0eM0E.md) - [plain]
 
 > <a href="spotify:artist:3J8gnwzixjNXj5gM6a7h93">Eli Escobar</a>'s favorite tracks\. Updated regularly\. Curated by Eli Escobar\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,507 likes - 60 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,513 likes - 60 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcS0cpF0eM0E.md) - [plain]
 | 59 | [Who's In Control \- Alden Tyrell Mix](https://open.spotify.com/track/3uBDCCuyN7G4vSTVTiVrj8) | [Detroit In Effect](https://open.spotify.com/artist/4eS7SDEGahGi0jQjrAC7gJ), [Alden Tyrell](https://open.spotify.com/artist/0UPIlxAvQQlquRCyGw5lFK) | [Who's In Control](https://open.spotify.com/album/7aHMHqYPqgEiIr8kFK7YK8) | 5:20 |
 | 60 | [Tu Amor](https://open.spotify.com/track/7dsctaq5rZcPmkXGiAFVtl) | [Mamacita](https://open.spotify.com/artist/5c3fBRViKMPNY37XAi4aLp), [Persona RS](https://open.spotify.com/artist/78W8PpoJsX72qVz6aze83N) | [Tu Amor](https://open.spotify.com/album/6yvHRDL0YL89bciSoPwG9M) | 6:00 |
 
-Snapshot ID: `AAAAAK5kKLs/CuY0L56knw58Ia3lpxQ0`
+Snapshot ID: `AAAAAFHk5AXVOUEHhucD6XwCPt8zur4j`

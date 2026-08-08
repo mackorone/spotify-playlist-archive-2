@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day\. Cover: Leon Bridges
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,008,488 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,008,483 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 76 | [Out My Hair](https://open.spotify.com/track/2zh7joC2PCjzcLHv4EXTva) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Entries](https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx) | 2:57 |
 | 77 | [Really Wanna Be With You](https://open.spotify.com/track/2YxrLqrR7crzcQCuX08P5q) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Flowers](https://open.spotify.com/album/7zyILGPU1W58PNTgEgRNvO) | 4:31 |
 | 78 | [Spend The Night](https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4) | [Rahsaan Patterson](https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH) | [Rahsaan Patterson](https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c) | 4:53 |
-| 79 | [Strawberry featuring Rae Khalil](https://open.spotify.com/track/7f7uTJaivqgLEqrOk6cUkx) | [Ships & Hardships](https://open.spotify.com/artist/5EF4drUzQkdBnQSDZfAZZ4), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Strawberry featuring Rae Khalil](https://open.spotify.com/album/1LhtK2NtObn9sbRFcwaWib) | 2:43 |
-| 80 | [Stay Together](https://open.spotify.com/track/0Gs5zsjp7Rp2i41yMgNxCf) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Pieces Of Me](https://open.spotify.com/album/73XPHadCmH3QpfhlMnte0C) | 3:56 |
+| 79 | [Stay Together](https://open.spotify.com/track/0Gs5zsjp7Rp2i41yMgNxCf) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Pieces Of Me](https://open.spotify.com/album/73XPHadCmH3QpfhlMnte0C) | 3:56 |
+| 80 | [Strawberry featuring Rae Khalil](https://open.spotify.com/track/7f7uTJaivqgLEqrOk6cUkx) | [Ships & Hardships](https://open.spotify.com/artist/5EF4drUzQkdBnQSDZfAZZ4), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Strawberry featuring Rae Khalil](https://open.spotify.com/album/1LhtK2NtObn9sbRFcwaWib) | 2:43 |
 | 81 | [Honey Dove](https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:06 |
 | 82 | [O Me O My](https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 2:52 |
 | 83 | [I Got Sunshine](https://open.spotify.com/track/1UXQhuCOj5ksuFbceRAdPo) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Avery\*Sunshine](https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB) | 3:14 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 93 | [Sugarcoat](https://open.spotify.com/track/15JA8Cex1Q10LgJ31llVdR) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder: Book III](https://open.spotify.com/album/02ClJ7AJWANCqGNJ42urXa) | 2:00 |
 | 94 | [Bedroom Bully](https://open.spotify.com/track/3JPckFErTvmkEMwJsOzTOb) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [Beautiful Pain](https://open.spotify.com/album/1HDxgZHLsOFHHj7g6MT7lk) | 5:11 |
 | 95 | [Favorite \(feat\. Anderson .Paak\)](https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Trouble In Paradise](https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw) | 2:32 |
-| 96 | [Move \(feat\. Lucky Daye\)](https://open.spotify.com/track/2TkUALJxL9NGx38AIGGquG) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Move](https://open.spotify.com/album/1BCPjUqJvqEOkF5b7hKULR) | 2:52 |
+| 96 | [Sweet](https://open.spotify.com/track/6ZGu4JWeLDCNCiyMeG6P82) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy), [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [The Last Dance](https://open.spotify.com/album/0HZ1eDVIhC5oTxinKoTFlQ) | 3:29 |
 | 97 | [Just Can't Wait](https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Just Can't Wait](https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah) | 6:22 |
-| 98 | [Sweet](https://open.spotify.com/track/6ZGu4JWeLDCNCiyMeG6P82) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy), [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [The Last Dance](https://open.spotify.com/album/0HZ1eDVIhC5oTxinKoTFlQ) | 3:29 |
+| 98 | [Move \(feat\. Lucky Daye\)](https://open.spotify.com/track/2TkUALJxL9NGx38AIGGquG) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Move](https://open.spotify.com/album/1BCPjUqJvqEOkF5b7hKULR) | 2:52 |
 | 99 | [Silver Lining](https://open.spotify.com/track/0DkjaDx0bP6vFrIbeROUot) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Silver Lining](https://open.spotify.com/album/4Mrqm0SLoMDGBbHNKAxJbz) | 3:20 |
 | 100 | [Saviour](https://open.spotify.com/track/7rUDWciGzEJ5kQw3yH8Klr) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Saviour](https://open.spotify.com/album/3zWKWAIzDcJGKLugpnExtf) | 3:00 |
 
-Snapshot ID: `AAAAAGT/zr8L2TayBNv6rxYrOo5UOEQr`
+Snapshot ID: `AAAAAIe5ibnKa3JxZ53K26BF0unMksmR`

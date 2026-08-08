@@ -1,12 +1,12 @@
 {
   "description": "darf man so ?? (in den tag starten, kurz leben leben, bisschen pause machen) ",
-  "num_followers": 621140,
+  "num_followers": 621083,
   "original_name": "morning glow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMJ3vkDAQ3mYiX2CEEWkNZNieuA6",
+  "snapshot_id": "AAAAAB19iaxkBbg7Lyhoxs7BwyyTJYQ6",
   "tracks": [
     {
       "added_at": "2026-08-06 22:00:41",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-08-06 22:00:41",
       "album": {
-        "name": "Dream Ride",
-        "url": "https://open.spotify.com/album/0jLgfhtSr2LTdQFWfi4VB0"
-      },
-      "artists": [
-        {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
-        }
-      ],
-      "duration_ms": 213236,
-      "name": "Bed on Fire",
-      "url": "https://open.spotify.com/track/01IJ2feBkPtQgQi68nx9nl"
-    },
-    {
-      "added_at": "2026-08-06 22:00:41",
-      "album": {
         "name": "High Hopes 3000",
         "url": "https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 245755,
       "name": "High Hopes 3000",
       "url": "https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2"
+    },
+    {
+      "added_at": "2026-08-06 22:00:41",
+      "album": {
+        "name": "Dream Ride",
+        "url": "https://open.spotify.com/album/0jLgfhtSr2LTdQFWfi4VB0"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "duration_ms": 213236,
+      "name": "Bed on Fire",
+      "url": "https://open.spotify.com/track/01IJ2feBkPtQgQi68nx9nl"
     },
     {
       "added_at": "2026-08-06 22:00:41",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-08-06 22:00:41",
       "album": {
+        "name": "Memo",
+        "url": "https://open.spotify.com/album/0AEULDFYipP4rXzgSQyz1H"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 191733,
+      "name": "Memo",
+      "url": "https://open.spotify.com/track/74ULkLG9L8FiqL8PyxbsFG"
+    },
+    {
+      "added_at": "2026-08-06 22:00:41",
+      "album": {
         "name": "Niemand ist wie du",
         "url": "https://open.spotify.com/album/10Vaf4MwKnRAmFAZCcBice"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 208176,
       "name": "Divine Feelings",
       "url": "https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi"
-    },
-    {
-      "added_at": "2026-08-06 22:00:41",
-      "album": {
-        "name": "Memo",
-        "url": "https://open.spotify.com/album/0AEULDFYipP4rXzgSQyz1H"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 191733,
-      "name": "Memo",
-      "url": "https://open.spotify.com/track/74ULkLG9L8FiqL8PyxbsFG"
     },
     {
       "added_at": "2026-08-06 22:00:41",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-08-06 22:00:41",
       "album": {
-        "name": "Sommerregen EP",
-        "url": "https://open.spotify.com/album/5dMr2rimlo62V5xRFOC4o4"
-      },
-      "artists": [
-        {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
-        }
-      ],
-      "duration_ms": 116052,
-      "name": "4 Life",
-      "url": "https://open.spotify.com/track/34RhKiUQ5JBU4MIVCwMcBG"
-    },
-    {
-      "added_at": "2026-08-06 22:00:41",
-      "album": {
         "name": "Adore Ya",
         "url": "https://open.spotify.com/album/07A4mrRO0mi4K9A2fmDugX"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 212288,
       "name": "Adore Ya",
       "url": "https://open.spotify.com/track/0Jl7f00nog4z31Cw2xYZqP"
+    },
+    {
+      "added_at": "2026-08-06 22:00:41",
+      "album": {
+        "name": "Sommerregen EP",
+        "url": "https://open.spotify.com/album/5dMr2rimlo62V5xRFOC4o4"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "duration_ms": 116052,
+      "name": "4 Life",
+      "url": "https://open.spotify.com/track/34RhKiUQ5JBU4MIVCwMcBG"
     },
     {
       "added_at": "2026-08-06 22:00:41",

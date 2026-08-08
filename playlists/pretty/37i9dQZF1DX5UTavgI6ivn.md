@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 
 > Made pa' perrear, pa' cantar y pa' brindar\. Made pa' acá y pa' allá\. Made in Colombia\. Foto: Luister La Voz
 
-[Spotify](https://open.spotify.com/user/spotify) - 942,666 likes - 55 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 942,631 likes - 55 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 | 21 | [CHÉVERE \(premium\_remix\)](https://open.spotify.com/track/3CBEVPwR3kUXDoTx1lqFUQ) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [CHÉVERE \(premium\_remix\)](https://open.spotify.com/album/4J4UG9VKP7M6XhEuxUj94w) | 3:39 |
 | 22 | [Ojitos Playa](https://open.spotify.com/track/5gtWXPSEemcheEfhBT253g) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Que Tin y Que Tan](https://open.spotify.com/album/6I3EDRLLHEek6mF7yGKcMu) | 2:35 |
 | 23 | [Te Entiendo \- Remix](https://open.spotify.com/track/1VvliZHnsUj177MnuSY8G2) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Te Entiendo \(Remix\)](https://open.spotify.com/album/05OMViCaav7QFZig4FJJOB) | 5:35 |
-| 24 | [Después de ti](https://open.spotify.com/track/6PbhFQkpQjoojWo2b6Ghoi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Greg Gonzalez](https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU) | [Después de ti](https://open.spotify.com/album/2jNfHpGR3OkcVqNucroI92) | 4:35 |
+| 24 | [Después de ti](https://open.spotify.com/track/6PbhFQkpQjoojWo2b6Ghoi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Greg Gonzalez](https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU) | [Después de ti](https://open.spotify.com/album/2jNfHpGR3OkcVqNucroI92) | 4:28 |
 | 25 | [En Privado](https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Privado](https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc) | 3:19 |
 | 26 | [Hips Don't Lie \- Spotify Anniversary Version](https://open.spotify.com/track/2oaGtVSJwivQkslaiDXOTr) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Spotify Anniversary \| Oral Fixation \(20th\) and Pies Descalzos \(30th\) LIVE](https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL) | 3:28 |
 | 27 | [Pa' la seca](https://open.spotify.com/track/2339A6X4fGkSpjeF63gsll) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Pa' la seca](https://open.spotify.com/album/11Wh4dbrBu8VSZ7wMDV8wQ) | 3:04 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 | 54 | [Tus Labios](https://open.spotify.com/track/2TH1PC40oO9mXbLTOUBnJ8) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG), [Jheral](https://open.spotify.com/artist/4zsxko6Co1HikDuBTWcm7E) | [Tus Labios](https://open.spotify.com/album/4WDgotfIeCmw83TOWFDwBa) | 2:44 |
 | 55 | [COMO OREO](https://open.spotify.com/track/7sRXb5IgYWwVv1DaavHSNs) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [COMO OREO](https://open.spotify.com/album/1N253WjALuV1kB61N0GeLd) | 3:15 |
 
-Snapshot ID: `AAAAAL2KJad2XLzujVdkRRS13VKzlNg0`
+Snapshot ID: `AAAAADoRBb7N0/0LXjYOnL5AseurWjc1`

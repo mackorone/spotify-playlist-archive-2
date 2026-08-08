@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best tracks from the world of music. Cover: Aziz Harun",
+  "description": "The best tracks from the world of music. Cover: Tulus",
   "name": "Hot Hits Malaysia",
   "tracks": [
     {
@@ -346,6 +346,24 @@
       "duration_ms": 164178,
       "name": "Adore U",
       "url": "https://open.spotify.com/track/5qQHPdQaiLkIrRjMBFTbuz"
+    },
+    {
+      "album": {
+        "name": "Ain't In LA",
+        "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184927,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
     },
     {
       "album": {
@@ -2951,6 +2969,28 @@
     },
     {
       "album": {
+        "name": "G.O.A.T",
+        "url": "https://open.spotify.com/album/43OZ9Jt6YvcdU0yHJOHrDg"
+      },
+      "artists": [
+        {
+          "name": "DOLLA",
+          "url": "https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO"
+        },
+        {
+          "name": "F.HERO",
+          "url": "https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146103,
+      "name": "G.O.A.T",
+      "url": "https://open.spotify.com/track/6z0toyvHVeEXP9VI64Hmwm"
+    },
+    {
+      "album": {
         "name": "Gabriela",
         "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
       },
@@ -4920,7 +4960,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 163000,
       "name": "Lemon Tang",
       "url": "https://open.spotify.com/track/0NGFAcYQVHCIdQea2qSs1I"
@@ -5669,6 +5709,24 @@
     },
     {
       "album": {
+        "name": "Memilih Yang Salah",
+        "url": "https://open.spotify.com/album/51XwPbyJg3UGIJ1sIFGPOx"
+      },
+      "artists": [
+        {
+          "name": "Exists",
+          "url": "https://open.spotify.com/artist/1ibFtPHzpqHJKA0PdAC8TH"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286819,
+      "name": "Memilih Yang Salah",
+      "url": "https://open.spotify.com/track/4QmXFeLbbyUbS9JMYgHdLn"
+    },
+    {
+      "album": {
         "name": "Memori Mungkin Berulang",
         "url": "https://open.spotify.com/album/1NJavP8R7mz6fsMJ9DZDi0"
       },
@@ -6100,6 +6158,24 @@
       "duration_ms": 178858,
       "name": "Nak Buat Cane?",
       "url": "https://open.spotify.com/track/369PVMSWuwJbWk4bUvest6"
+    },
+    {
+      "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/1qJGQb2drmyPtVmunYYxYR"
+      },
+      "artists": [
+        {
+          "name": "Yusry",
+          "url": "https://open.spotify.com/artist/2iyy2sHwFQPTEFotohO3PL"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217674,
+      "name": "Narsisistik",
+      "url": "https://open.spotify.com/track/01AF8Qi0LppSEKkm1ZwZ4j"
     },
     {
       "album": {
@@ -6624,7 +6700,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 198450,
       "name": "P Ramlee Saloma",
       "url": "https://open.spotify.com/track/7p2GUA0ShGenHoqeIhTg5i"
@@ -9394,7 +9470,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
@@ -10806,7 +10882,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 185040,
       "name": "\u73bb\u7483",
       "url": "https://open.spotify.com/track/4lZVYNSHy3bKN1pqTxw9Zl"

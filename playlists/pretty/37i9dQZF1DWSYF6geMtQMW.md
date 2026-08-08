@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: עדן חסון, אופק אדנק ואגם בוחבוט
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,615 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,687 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 | 49 | [סחרחורות](https://open.spotify.com/track/2bzhJBao5xywL3jlXu2S8O) | [Mor](https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX) | [MOR 4FM](https://open.spotify.com/album/0l8TkW3OM88I8OpzkdA4f1) | 3:10 |
 | 50 | [השם יעזור](https://open.spotify.com/track/1UruS1fpkhIXklaJnttSzA) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [השם יעזור](https://open.spotify.com/album/5tuYABXBjwZ5aUYQHmXzNk) | 3:31 |
 
-Snapshot ID: `AAAAABNkklg8KsAJS4rZi/oy4Sbmffw2`
+Snapshot ID: `AAAAAEugVSjtEFPOe6rPnz1pEPqzrflL`

@@ -949,6 +949,24 @@
     },
     {
       "album": {
+        "name": "Babaero",
+        "url": "https://open.spotify.com/album/5MKGvgS8oOgRiaVCg9GLnX"
+      },
+      "artists": [
+        {
+          "name": "Leanne",
+          "url": "https://open.spotify.com/artist/0V39TQSFg4VAwmwJ6JWdsU"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260053,
+      "name": "Babaero",
+      "url": "https://open.spotify.com/track/55ij7wjoz4xgzvJO2hV7Y8"
+    },
+    {
+      "album": {
         "name": "Baggages",
         "url": "https://open.spotify.com/album/0HARzAL7EzcvJ3d5AV5ks7"
       },
@@ -2874,7 +2892,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 229894,
       "name": "GILIW (feat. Al James, Kyla)",
       "url": "https://open.spotify.com/track/06VvXeS5F4B66Cwq7RvBtb"
@@ -4382,7 +4400,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 276000,
       "name": "Kalapastangan",
       "url": "https://open.spotify.com/track/1udOOSbJnytCdgvbgYOF5s"
@@ -4954,7 +4972,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 243514,
       "name": "Lambing",
       "url": "https://open.spotify.com/track/6lka2hyRKdR9JRyhsrK3je"
@@ -5066,7 +5084,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 178488,
       "name": "Libu-Libong Buwan (Uuwian)",
       "url": "https://open.spotify.com/track/3cZUIZ8i74C1Kvnix4xZez"
@@ -5304,6 +5322,28 @@
       "duration_ms": 232409,
       "name": "Love Is",
       "url": "https://open.spotify.com/track/2SABOK9LGZ68jM5TPPHBvD"
+    },
+    {
+      "album": {
+        "name": "luck (feat. James Reid)",
+        "url": "https://open.spotify.com/album/1UnctzYaTFQxVdBVmfULfp"
+      },
+      "artists": [
+        {
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
+        },
+        {
+          "name": "James Reid",
+          "url": "https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191979,
+      "name": "luck (feat. James Reid)",
+      "url": "https://open.spotify.com/track/19BVekNBFNXp2Kg3TMaVPR"
     },
     {
       "album": {
@@ -8029,6 +8069,24 @@
     },
     {
       "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/7eN3kmvuJ4oNLr0seQ5eLU"
+      },
+      "artists": [
+        {
+          "name": "Nadine Lustre",
+          "url": "https://open.spotify.com/artist/17Do37U0HEbxu1tOrKH8dL"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187124,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/2Y2OjCT4sQEYU2NfGU7SV3"
+    },
+    {
+      "album": {
         "name": "Pikit Mata",
         "url": "https://open.spotify.com/album/5mlLdZNF4pLhgp7jIXsU2r"
       },
@@ -8284,6 +8342,24 @@
       "duration_ms": 223636,
       "name": "Puntirya",
       "url": "https://open.spotify.com/track/7fHgK24OXJ4tcZaGyERyFT"
+    },
+    {
+      "album": {
+        "name": "Purgatoryo",
+        "url": "https://open.spotify.com/album/3HcEMi3hhykdzTUXNRUXK0"
+      },
+      "artists": [
+        {
+          "name": "fitterkarma",
+          "url": "https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135249,
+      "name": "Purgatoryo",
+      "url": "https://open.spotify.com/track/2ww7tsDpQujEz4hY4PKW6g"
     },
     {
       "album": {

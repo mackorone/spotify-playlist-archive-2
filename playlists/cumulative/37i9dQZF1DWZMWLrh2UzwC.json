@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "New music from FLO, Ernie Zakri, Red Velvet, \u8521\u6069\u96e8 Priscilla Abby, Layla Sania, Vanessa Reynauld, and more!",
+  "description": "New music from FLO, Ernie Zakri, Stray Kids, Red Velvet, \u8521\u6069\u96e8 Priscilla Abby, Layla Sania, Vanessa Reynauld, and more!",
   "name": "New Music Friday Malaysia",
   "tracks": [
     {
@@ -43207,6 +43207,24 @@
     },
     {
       "album": {
+        "name": "<Hyper-Ego>",
+        "url": "https://open.spotify.com/album/4WNAVLZjqWurf55QfdHldD"
+      },
+      "artists": [
+        {
+          "name": "ARTMS",
+          "url": "https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Blue Blood",
+      "url": "https://open.spotify.com/track/4rbJwK22VEJd4uQLTCUXn1"
+    },
+    {
+      "album": {
         "name": "can't be blue",
         "url": "https://open.spotify.com/album/2vdPz23c5T1CixcxLUBcTH"
       },
@@ -72258,6 +72276,24 @@
       "duration_ms": 216094,
       "name": "Couple",
       "url": "https://open.spotify.com/track/5qlHFVgVy3WBFw7vBZPjaL"
+    },
+    {
+      "album": {
+        "name": "bad pieces",
+        "url": "https://open.spotify.com/album/3vyo8Ev3o6olStojgqpS6U"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191910,
+      "name": "courage",
+      "url": "https://open.spotify.com/track/1GxXymBkVQJtSPZhiyl2wZ"
     },
     {
       "album": {
@@ -327551,6 +327587,28 @@
     },
     {
       "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220600,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF"
+    },
+    {
+      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/2I9lPRjeNWQcI3eya6iz3e"
       },
@@ -357010,6 +357068,24 @@
       "duration_ms": 194193,
       "name": "This & That",
       "url": "https://open.spotify.com/track/5X5o5YccPawQNUei3m5q5h"
+    },
+    {
+      "album": {
+        "name": "THIS & THAT",
+        "url": "https://open.spotify.com/album/46TYlDjLrEsOLFgxfxNiUy"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "This & That",
+      "url": "https://open.spotify.com/track/7AN7dJCtHqbL7f76QGyraa"
     },
     {
       "album": {

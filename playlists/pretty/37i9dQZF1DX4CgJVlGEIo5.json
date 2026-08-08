@@ -1,12 +1,12 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 386713,
+  "num_followers": 386723,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAN1Q7BSc4lY5PZX9NfI0uaZaIT+",
+  "snapshot_id": "AAAAAJ9dXjlxd00hfX/RNetUVI668iet",
   "tracks": [
     {
       "added_at": "2024-07-05 21:33:59",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
+        "name": "No One's Gonna Love You (Stockholm Version)",
+        "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 228646,
+      "name": "No One's Gonna Love You (Stockholm Version)",
+      "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 182066,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
-        "name": "No One's Gonna Love You (Stockholm Version)",
-        "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
-      },
-      "artists": [
-        {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
-        }
-      ],
-      "duration_ms": 228646,
-      "name": "No One's Gonna Love You (Stockholm Version)",
-      "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
     },
     {
       "added_at": "2024-07-05 21:33:59",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Starfire",
-        "url": "https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 190057,
-      "name": "Cheap Date",
-      "url": "https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
         "name": "Quiet (Stripped)",
         "url": "https://open.spotify.com/album/4dqLW8pQA05EoWHZtrlWPi"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Cool Girl",
-        "url": "https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI"
+        "name": "Starfire",
+        "url": "https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB"
       },
       "artists": [
         {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
         }
       ],
-      "duration_ms": 199384,
-      "name": "Cool Girl",
-      "url": "https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9"
+      "duration_ms": 190057,
+      "name": "Cheap Date",
+      "url": "https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4"
     },
     {
       "added_at": "2024-07-05 21:33:59",
@@ -843,6 +827,22 @@
       "duration_ms": 198373,
       "name": "Rubber",
       "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
+        "name": "Cool Girl",
+        "url": "https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Cool Girl",
+      "url": "https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9"
     },
     {
       "added_at": "2024-07-05 21:33:59",

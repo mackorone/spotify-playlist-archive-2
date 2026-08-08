@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2F0Lks.md) - [plain]
 
 > This is Carrie Underwood\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,250 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,257 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2F0Lks.md) - [plain]
 | 43 | [Cry Pretty](https://open.spotify.com/track/7B9UAoGiN4iMCv4s40xoiM) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 4:07 |
 | 44 | [I Told You So](https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 4:19 |
 | 45 | [Don't Forget to Remember Me](https://open.spotify.com/track/0SCtEUwSkgavjuzebBznX5) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 4:00 |
-| 46 | [Ghost Story](https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ghost Story](https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc) | 3:01 |
+| 46 | [Ever Ever After \- From "Enchanted" / Soundtrack Version](https://open.spotify.com/track/124q3N9qd4r8KbeuYouvr9) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 3:29 |
 | 47 | [Love Wins](https://open.spotify.com/track/4XWnHzCRfRjaHRsTNeh3WR) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:48 |
-| 48 | [Ever Ever After \- From "Enchanted" / Soundtrack Version](https://open.spotify.com/track/124q3N9qd4r8KbeuYouvr9) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 3:29 |
+| 48 | [Ghost Story](https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ghost Story](https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc) | 3:01 |
 | 49 | [I Wanna Remember \(feat\. Carrie Underwood\)](https://open.spotify.com/track/124KRi7jkm9Skq89xIK28V) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Into The Mystery](https://open.spotify.com/album/2vDmR7Be0zQwcxDnHAqe5X) | 3:33 |
 | 50 | [Look at Me](https://open.spotify.com/track/30vfmE5gZLW1VtghknFwTn) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 3:16 |
 
-Snapshot ID: `anJ9AAAAAAAI7lEcXc/fSt2czIx6T1VD`
+Snapshot ID: `anPOgAAAAABSzzFQejkY4E+ZEbVAXbIx`

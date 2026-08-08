@@ -1513,6 +1513,36 @@
     },
     {
       "album": {
+        "name": "O Menino Que Solta A Voz - Ao Vivo",
+        "url": "https://open.spotify.com/album/4ChEXBNNhDZFUvh9POQK8X"
+      },
+      "artists": [
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        },
+        {
+          "name": "LYONS PROD.",
+          "url": "https://open.spotify.com/artist/1uYUCETagKA8ukZ1VFmXzr"
+        },
+        {
+          "name": "Pinotti",
+          "url": "https://open.spotify.com/artist/1IHCpTo50InaIDRqX54B1x"
+        },
+        {
+          "name": "GvsnoBeat",
+          "url": "https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161109,
+      "name": "Call 911 - Ao Vivo",
+      "url": "https://open.spotify.com/track/5j1g1H2Y3b3n7d3R75YCsr"
+    },
+    {
+      "album": {
         "name": "Cama de Casal",
         "url": "https://open.spotify.com/album/3leEReFOrdr0SW7krfynlY"
       },
@@ -2824,7 +2854,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 178392,
       "name": "Entre N\u00f3s (Duto Camp Apresenta)",
       "url": "https://open.spotify.com/track/2Ra0RpqaVPYFKwxM508xHW"
@@ -7247,6 +7277,24 @@
     },
     {
       "album": {
+        "name": "Sexxxy",
+        "url": "https://open.spotify.com/album/0RIqj1T4eWaWF75WqI48I4"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145388,
+      "name": "Sexxxy",
+      "url": "https://open.spotify.com/track/4PC4ZRwhSAxItvqX50InKw"
+    },
+    {
+      "album": {
         "name": "Secretbox, Vol. 4",
         "url": "https://open.spotify.com/album/7yN4aGc9NRspnq0SfpI6BS"
       },
@@ -8354,7 +8402,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 200717,
       "name": "X6",
       "url": "https://open.spotify.com/track/0qLM5CSQDx4wjHrPFns933"

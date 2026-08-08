@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9UYa8hql9y.md) - [plain]
 
 > El tercer tiempo se juega con compas y cheves
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,884 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,889 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,11 +64,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9UYa8hql9y.md) - [plain]
 | 54 | [Por Esos Ojos](https://open.spotify.com/track/5jHozZMWbrExAFni95mvvH) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Por Esos Ojos](https://open.spotify.com/album/3ZaYiXwSEqq5iZ6xt8RAwp) | 3:08 |
 | 55 | [Loco](https://open.spotify.com/track/63EQbNhgaih4yg5412usWG) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Loco](https://open.spotify.com/album/1vNUD9sUBRHFFQiwYZm232) | 3:06 |
 | 56 | [Tacones Rojos](https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 3:09 |
-| 57 | [No Capea](https://open.spotify.com/track/3IcaWsnVb6NOsjtcuedsM8) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Capea](https://open.spotify.com/album/3fsVOb8vnAjEaxfuh5Kqdd) | 3:14 |
-| 58 | [Te Ire A Buscar](https://open.spotify.com/track/3elpkpwYlmUbuvmVps08lJ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Te Ire A Buscar](https://open.spotify.com/album/48nhACiR3pxi57lxXIxx1P) | 3:38 |
+| 57 | [Te Ire A Buscar](https://open.spotify.com/track/3elpkpwYlmUbuvmVps08lJ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Te Ire A Buscar](https://open.spotify.com/album/48nhACiR3pxi57lxXIxx1P) | 3:38 |
+| 58 | [No Capea](https://open.spotify.com/track/3IcaWsnVb6NOsjtcuedsM8) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Capea](https://open.spotify.com/album/3fsVOb8vnAjEaxfuh5Kqdd) | 3:14 |
 | 59 | [Chula Vente](https://open.spotify.com/track/27Y0yW53n0R1Oxle01FKmj) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Chula Vente](https://open.spotify.com/album/2nB2KzRi6sdL83f4l2gpBS) | 4:01 |
-| 60 | [O Me Voy O Te Vas](https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [O Me Voy O Te Vas](https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97) | 4:02 |
-| 61 | [Lo Siento BB:/ \(with Bad Bunny & Julieta Venegas\)](https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Lo Siento BB:/ \(with Bad Bunny & Julieta Venegas\)](https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx) | 3:27 |
+| 60 | [Lo Siento BB:/ \(with Bad Bunny & Julieta Venegas\)](https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Lo Siento BB:/ \(with Bad Bunny & Julieta Venegas\)](https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx) | 3:27 |
+| 61 | [O Me Voy O Te Vas](https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [O Me Voy O Te Vas](https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97) | 4:02 |
 | 62 | [Todo De Ti](https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Todo De Ti](https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH) | 3:19 |
 | 63 | [Cada Que...](https://open.spotify.com/track/1IDfAcL63xIRjG4Q98yTfn) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Fantasía Pop](https://open.spotify.com/album/07Lk9Pcu8vXodLrPiRTsKQ) | 3:43 |
 | 64 | [Fuga Pa Cali 2](https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9UYa8hql9y.md) - [plain]
 | 99 | [Qué Agonía](https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Qué Agonía](https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v) | 2:32 |
 | 100 | [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 |
 
-Snapshot ID: `AAAAAMSA2GvtFSUL0dbw6B9ExYswIAuj`
+Snapshot ID: `AAAAAJgCLLEfXsgxgLMN7KElr04UQonB`

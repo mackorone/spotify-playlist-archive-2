@@ -1,12 +1,12 @@
 {
   "description": "the songs behind all your crushes.",
-  "num_followers": 367794,
+  "num_followers": 367828,
   "original_name": "Boo Thang <3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIHT10uUQE24QrPgjX8GA9kd0pNk",
+  "snapshot_id": "AAAAANU+UA9ygnxhJcBc4NDDCNjAcHxB",
   "tracks": [
     {
       "added_at": "2026-07-24 05:47:24",
@@ -81,20 +81,24 @@
       "url": "https://open.spotify.com/track/4jyyma8YdFC4S4llusSFRu"
     },
     {
-      "added_at": "2026-07-24 05:47:24",
+      "added_at": "2026-08-07 16:24:29",
       "album": {
-        "name": "MORNING DEW (DONK)",
-        "url": "https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ"
+        "name": "MORNING DEW (DONK) REMIX PACK",
+        "url": "https://open.spotify.com/album/6zaCeCipglDayKB85IVKRl"
       },
       "artists": [
         {
           "name": "Beyonc\u00e9",
           "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 243896,
-      "name": "MORNING DEW (DONK)",
-      "url": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT"
+      "duration_ms": 217215,
+      "name": "MORNING DEW (DONK) REMIX FEAT JA\u0178-Z",
+      "url": "https://open.spotify.com/track/5sTOQbZvUnrX7lFfLRmpFw"
     },
     {
       "added_at": "2026-06-19 04:01:55",

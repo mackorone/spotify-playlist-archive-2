@@ -4,7 +4,7 @@
 
 > may include sad indie rock songs.
 
-272 songs - 14 hr 18 min
+274 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Favorite Song](https://open.spotify.com/track/5BqN9YxYxyXqrbS7FWpOWH) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Last Room](https://open.spotify.com/album/4tPzvYMdlRvpnMlXe8zAbz) | 2:54 | 2023-02-09 | 2026-06-26 |
 | [favorite team](https://open.spotify.com/track/2XVeDs8s7TRzo57wNJ57CA) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [favorite team](https://open.spotify.com/album/228jni392cGj2AFtzMh99u) | 2:34 | 2023-06-13 |  |
 | [Fight Club](https://open.spotify.com/track/7EGFu3hR6VIubhJGr0fSl1) | [Birth Day](https://open.spotify.com/artist/75UKUI7fd2RjNRgy8oaNdt) | [Boyhood](https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr) | 1:47 | 2023-02-09 | 2023-05-17 |
-| [fine](https://open.spotify.com/track/02XUvebzfQJZnX96mNxtRK) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [fine](https://open.spotify.com/album/12epqefYQBI4DtmhXBv9tf) | 3:52 | 2023-04-11 |  |
+| [fine](https://open.spotify.com/track/02XUvebzfQJZnX96mNxtRK) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [fine](https://open.spotify.com/album/12epqefYQBI4DtmhXBv9tf) | 3:52 | 2023-04-11 | 2026-08-08 |
 | [fine](https://open.spotify.com/track/7whMBp15emD4yuMLMTazmA) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [fine](https://open.spotify.com/album/6DnW8qL9nSPpOeYOYlyluz) | 3:52 | 2023-02-09 | 2024-04-19 |
 | [fingers through my hair](https://open.spotify.com/track/0IGi3VQhmYaDquo4VlSZpx) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [fingers through my hair](https://open.spotify.com/album/4n1BftyPbar1dDf8sAI4VV) | 2:20 | 2023-04-11 | 2023-06-03 |
 | [Flimsier](https://open.spotify.com/track/2iVOSO9Q5lXStX7z57ImCI) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Flimsier](https://open.spotify.com/album/4zIogDwuESlSj3lUbgJ7CN) | 3:59 | 2023-06-30 |  |
@@ -165,7 +165,7 @@
 | [maybe](https://open.spotify.com/track/0IsAxgPis7CWtBHFIlzOyB) | [porch kiss](https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT) | [maybe](https://open.spotify.com/album/09pqA4YbFnuXeQ63qBmTnz) | 2:43 | 2024-03-05 |  |
 | [mean creek.](https://open.spotify.com/track/00AM3zuuier3pzRI0dFhSO) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [Elizabethtown.](https://open.spotify.com/album/7epCR4GKjfqGTuKZMyhtid) | 2:16 | 2023-05-12 | 2026-03-14 |
 | [Mercy](https://open.spotify.com/track/5vWAgdYgGN5WXzKvfNwx2E) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Mercy](https://open.spotify.com/album/6bLQpivQqQcSn5ACBdliRP) | 2:59 | 2023-02-09 | 2023-05-17 |
-| [Million Dollar Song](https://open.spotify.com/track/1iqpKs6dgT2zIiP0GbVo6b) | [VELVETEARS](https://open.spotify.com/artist/76uBpZUqkDljACPBsu2klS) | [Million Dollar Song](https://open.spotify.com/album/6wNVEZIRbIR8PwWsaafK0w) | 3:46 | 2023-04-11 |  |
+| [Million Dollar Song](https://open.spotify.com/track/1iqpKs6dgT2zIiP0GbVo6b) | [VELVETEARS](https://open.spotify.com/artist/76uBpZUqkDljACPBsu2klS) | [Million Dollar Song](https://open.spotify.com/album/6wNVEZIRbIR8PwWsaafK0w) | 3:46 | 2023-04-11 | 2026-08-08 |
 | [Mirrors](https://open.spotify.com/track/38PleSiXelEox4nUyO5apt) | [Coffee Stain](https://open.spotify.com/artist/2sXLxDkHv449hp1ZnQIvLv) | [From the bathroom floor](https://open.spotify.com/album/4mrRaqeKbrKIgLGzFT8Ovy) | 3:39 | 2023-06-23 |  |
 | [miss](https://open.spotify.com/track/21xIob7jppF4otgvEUhTrF) | [postcard nowhere](https://open.spotify.com/artist/78lD1azjm0P1ct7Trr82dI) | [Juvenilia](https://open.spotify.com/album/4M3APzhv4jdhwSlHeK48Fk) | 2:05 | 2023-04-11 |  |
 | [Mole in the Ground](https://open.spotify.com/track/61rCnWxjQVXUSghT56shzV) | [John Francis Flynn](https://open.spotify.com/artist/6Fk7AKTOKr4iB3Xth93KHX) | [Mole in the Ground](https://open.spotify.com/album/0yO4XXQEm4Rl9BJkhA5vIw) | 3:52 | 2023-11-14 |  |
@@ -174,6 +174,7 @@
 | [Need 2](https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Everything So Far](https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE) | 3:11 | 2023-06-02 |  |
 | [never find u](https://open.spotify.com/track/3nnw0R0etFai60nEGMpBhK) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [never find u](https://open.spotify.com/album/5pgZ9HbqybhEsQ2SuOGZfG) | 2:46 | 2023-05-19 |  |
 | [Never Know Why](https://open.spotify.com/track/59UGpoFWoZGeuE8T74HNrS) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [Far From This World](https://open.spotify.com/album/1iifPkSZrNgcOmc8LU2Xm6) | 3:36 | 2023-04-11 | 2023-07-08 |
+| [new look](https://open.spotify.com/track/11nRMMrQt6t0x7WQs9vKhq) | [cl444ireee](https://open.spotify.com/artist/3lzOhVEtsahKislZRrw0K2) | [under the starry winter night](https://open.spotify.com/album/1d4nnj09A7QUKEnP4wiz3v) | 4:12 | 2026-08-07 |  |
 | [No Blood, No Needles, Nothing](https://open.spotify.com/track/5G9Ix7zpWjV9jqFP7K7Hlg) | [ash tuesday](https://open.spotify.com/artist/3kEaS1rKstrWw6Zb9H5vBE) | [No Blood, No Needles, Nothing](https://open.spotify.com/album/3dlIQmR7BQIk9XSF3LFJmR) | 3:32 | 2023-04-11 |  |
 | [No One Will Find Us There](https://open.spotify.com/track/3qJk6yCcdJjC5pxPwjubrO) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [I Saw The TV Glow \(Original Motion Picture Score\)](https://open.spotify.com/album/2lrjzHRTMnuEZO00d9JS72) | 1:23 | 2024-05-17 | 2026-06-05 |
 | [No Surprises](https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [No Surprises](https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V) | 2:00 | 2023-02-24 | 2023-04-12 |
@@ -202,6 +203,7 @@
 | [save me](https://open.spotify.com/track/26AT9euQyfEWQa9vrFHHtD) | [how r u](https://open.spotify.com/artist/3vGe1PnnVqY1wS1hbs80Bv) | [save me](https://open.spotify.com/album/40FASGrF2C3zUSRBVU3rUz) | 2:00 | 2025-04-11 |  |
 | [Scaredy's World](https://open.spotify.com/track/3XOOdbkx0q2rjUxAPziH8S) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4), [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY) | [Scaredy's World](https://open.spotify.com/album/1IsvZYiU5FCpg4fDecerIX) | 2:31 | 2023-03-03 | 2023-07-22 |
 | [scrape my teeth](https://open.spotify.com/track/0VRXkVcObOF6LbaP1vGBe5) | [Indie Anthony](https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM) | [scrape my teeth](https://open.spotify.com/album/5g15UUA6l4Va6HmcCAeSwv) | 2:34 | 2023-08-18 |  |
+| [seadream](https://open.spotify.com/track/4QqyxyHV7WF4qvTdI5FRC9) | [parallel](https://open.spotify.com/artist/57GHGjRVnM7JTTXI7vXq7d) | [seadream](https://open.spotify.com/album/7zZo4XBPY2u4dp3qi91yGS) | 2:36 | 2026-08-07 |  |
 | [Secret](https://open.spotify.com/track/3qPZlJAvV95TnC4kFgTvnA) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Sckrpnch](https://open.spotify.com/album/46PCqFYcWdnQgra1P6Y7oz) | 1:41 | 2023-02-09 | 2023-05-17 |
 | [See Through](https://open.spotify.com/track/6qxeTdWUB0dAvv2Gp2Qdy9) | [Bedlocked](https://open.spotify.com/artist/7wgq6QJrXri0Mn31MCZmnt) | [Bedlocked](https://open.spotify.com/album/7A0OdpSoqCpNMX8SbzbKKO) | 3:09 | 2023-04-11 | 2026-03-14 |
 | [Self Fulfilling Prophecy](https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:49 | 2023-02-09 | 2026-05-09 |

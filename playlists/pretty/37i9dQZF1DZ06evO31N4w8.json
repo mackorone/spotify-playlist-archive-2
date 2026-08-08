@@ -1,12 +1,12 @@
 {
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 68985,
+  "num_followers": 68996,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAACWVCKXsBw0nSwa6G97FSC1",
+  "snapshot_id": "anPOgAAAAADZCecRpP1i9NWToqsd2Vfk",
   "tracks": [
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "No Volver\u00e9",
+      "url": "https://open.spotify.com/track/14rY0Ie4e2XqpHot0vWcaL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Libertad",
         "url": "https://open.spotify.com/album/30dzWWHrTkkPscEAMQbybh"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 197933,
       "name": "C\u00f3mo Fui A Enamorarme De Ti",
       "url": "https://open.spotify.com/track/1QaQ3sUbTOkPXWKfeMJjcj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "No Volver\u00e9",
-      "url": "https://open.spotify.com/track/14rY0Ie4e2XqpHot0vWcaL"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invencible",
-        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Ya Para Que",
-      "url": "https://open.spotify.com/track/17jm8TyGeg2ZHMUk0L9IL7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9xitos Recientes y Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/2ePeZ2R1SVuS0HzmJguVm1"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 181346,
       "name": "Gabino Barrera",
       "url": "https://open.spotify.com/track/1PL4HE40pSXt8SWkBND1la"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Ya Para Que",
+      "url": "https://open.spotify.com/track/17jm8TyGeg2ZHMUk0L9IL7"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entrega De Amor",
-        "url": "https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 189426,
-      "name": "Una Mujer Como T\u00fa",
-      "url": "https://open.spotify.com/track/62zSWES4N5m1tr7ovTMWf3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobre Los Rieles",
         "url": "https://open.spotify.com/album/2oMobAHjCHpW7yu5UuPsRS"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 162560,
       "name": "Estabas Tan Linda",
       "url": "https://open.spotify.com/track/389TrubBy5SMAcb3SK8nkj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 189426,
+      "name": "Una Mujer Como T\u00fa",
+      "url": "https://open.spotify.com/track/62zSWES4N5m1tr7ovTMWf3"
     },
     {
       "added_at": null,

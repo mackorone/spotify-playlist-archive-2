@@ -4,7 +4,7 @@
 
 > ايه الجديد؟ الغلاف: كايروكي
 
-1,778 songs - 4 day 2 hr 41 min
+1,779 songs - 4 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -935,6 +935,7 @@
 | [Senara](https://open.spotify.com/track/0nYNOK8uum8GicinHF1jfw) | [Mousa](https://open.spotify.com/artist/474tE69oXkn2YGBJhK81Kh) | [Senara](https://open.spotify.com/album/5oaz2190CAIz2DLMOWt1ka) | 3:08 | 2022-01-20 | 2022-04-08 |
 | [Seneen](https://open.spotify.com/track/78aKU80XVAIVX9L0Xur3PC) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Seneen](https://open.spotify.com/album/762Ih6Q3P5rhDn99oSCEbe) | 3:23 | 2022-02-17 | 2022-05-19 |
 | [Seneen](https://open.spotify.com/track/0g9uhQ0VxM6ATwuOwaxshA) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Seneen](https://open.spotify.com/album/3mkFc15UimdDFM8oX3KTKJ) | 3:34 | 2026-01-15 | 2026-04-09 |
+| [SENGARY](https://open.spotify.com/track/0KUmgVeluvgfpXbwxd5N1b) | [RAMY](https://open.spotify.com/artist/7nLFVXAvSbhHfbBMHbr0nS) | [روميو](https://open.spotify.com/album/7FjY0vyEd48SMhzHhWnwrC) | 3:01 | 2026-08-06 |  |
 | [Setohom](https://open.spotify.com/track/3EuYY09tMEEAytakj5AXYT) | [Habiba](https://open.spotify.com/artist/1usUiq1yUVpqCOJWMaBNtG) | [Setohom](https://open.spotify.com/album/0FUQtskWerR5kanIdP0uG2) | 2:29 | 2023-08-03 | 2023-08-24 |
 | [Setto Ana \(Maktoub Alya\)](https://open.spotify.com/track/1WwGDWDEdyUR5fKANFTxUY) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE), [Kareem Saleh](https://open.spotify.com/artist/4qe6Wv1Cjj0LyU0eWdde0Q) | [Setto Ana \(Maktoub Alya\)](https://open.spotify.com/album/6la9EzGFogBTcjm88alqTA) | 2:18 | 2022-04-07 | 2022-05-22 |
 | [Sha2lebty Routiny](https://open.spotify.com/track/0vTX33ZSAyGOrIcmp3Fa9x) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Sha2lebty Routiny](https://open.spotify.com/album/705AMg1ZwX2b3XENnfqKh6) | 2:41 | 2023-09-29 | 2024-01-05 |

@@ -4297,6 +4297,24 @@
     },
     {
       "album": {
+        "name": "Concrete Flow",
+        "url": "https://open.spotify.com/album/7cUCifmeck6JXR0I6qxHrh"
+      },
+      "artists": [
+        {
+          "name": "The Opposiz",
+          "url": "https://open.spotify.com/artist/13tDym30VZRg2NYyPv8DRA"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194117,
+      "name": "Concrete Flow",
+      "url": "https://open.spotify.com/track/2uZkiibufm8o8aIrKq3VlX"
+    },
+    {
+      "album": {
         "name": "Confiscate / Elucidate",
         "url": "https://open.spotify.com/album/2jwS9VvHOISz2oWF5z9rSb"
       },
@@ -16124,7 +16142,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 162428,
       "name": "Pegasus",
       "url": "https://open.spotify.com/track/1LQM4mFcHk1GQFucPaaD2o"
@@ -16798,7 +16816,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 244755,
       "name": "Promise",
       "url": "https://open.spotify.com/track/02iid7jLIDPuI4JyHTtyBz"
@@ -24810,6 +24828,24 @@
       "duration_ms": 142153,
       "name": "You Can't Stop Us",
       "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
+    },
+    {
+      "album": {
+        "name": "You Feel Mine",
+        "url": "https://open.spotify.com/album/6snYNYAZrc83URBjdgvXaw"
+      },
+      "artists": [
+        {
+          "name": "D72",
+          "url": "https://open.spotify.com/artist/6LwMT7S1AQrvSORZshZ9gt"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194072,
+      "name": "You Feel Mine",
+      "url": "https://open.spotify.com/track/14IJbUA9JoQ69aqkJGUbgy"
     },
     {
       "album": {

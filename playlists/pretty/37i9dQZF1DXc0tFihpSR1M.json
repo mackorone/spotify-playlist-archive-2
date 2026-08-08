@@ -1,12 +1,12 @@
 {
   "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d\nCover: Anna Lille",
-  "num_followers": 87408,
+  "num_followers": 87416,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALS1cx/68tykCtLZbcMAaMYVLJIW",
+  "snapshot_id": "AAAAALvPd+0fh5Ybj+5u19+rZUQ30Qbp",
   "tracks": [
     {
       "added_at": "2026-08-06 22:00:14",
@@ -351,18 +351,18 @@
     {
       "added_at": "2026-08-06 22:00:14",
       "album": {
-        "name": "Homewrecker",
-        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 209066,
-      "name": "Homewrecker",
-      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
+      "duration_ms": 184248,
+      "name": "petal",
+      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
     },
     {
       "added_at": "2026-08-06 22:00:14",
@@ -387,18 +387,18 @@
     {
       "added_at": "2026-08-06 22:00:14",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
+        "name": "Homewrecker",
+        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
       },
       "artists": [
         {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 158494,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
+      "duration_ms": 209066,
+      "name": "Homewrecker",
+      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
     },
     {
       "added_at": "2026-08-06 22:00:14",
@@ -419,18 +419,18 @@
     {
       "added_at": "2026-08-06 22:00:14",
       "album": {
-        "name": "petal",
-        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
         }
       ],
-      "duration_ms": 184248,
-      "name": "petal",
-      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
+      "duration_ms": 158494,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
     },
     {
       "added_at": "2026-08-06 22:00:14",
@@ -471,22 +471,6 @@
     {
       "added_at": "2026-08-06 22:00:14",
       "album": {
-        "name": "iloveitiloveitiloveit",
-        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
-      },
-      "artists": [
-        {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
-        }
-      ],
-      "duration_ms": 183237,
-      "name": "iloveitiloveitiloveit",
-      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
-    },
-    {
-      "added_at": "2026-08-06 22:00:14",
-      "album": {
         "name": "WHERE IS MY HUSBAND!",
         "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 197142,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+    },
+    {
+      "added_at": "2026-08-06 22:00:14",
+      "album": {
+        "name": "iloveitiloveitiloveit",
+        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
       "added_at": "2026-08-06 22:00:14",
@@ -1151,8 +1151,8 @@
     {
       "added_at": "2026-08-06 22:00:14",
       "album": {
-        "name": "From Down Here",
-        "url": "https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u"
+        "name": "d\u00a3aler",
+        "url": "https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde"
       },
       "artists": [
         {
@@ -1160,9 +1160,9 @@
           "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 241470,
-      "name": "From Down Here",
-      "url": "https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox"
+      "duration_ms": 160666,
+      "name": "d\u00a3aler",
+      "url": "https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R"
     },
     {
       "added_at": "2026-08-06 22:00:14",

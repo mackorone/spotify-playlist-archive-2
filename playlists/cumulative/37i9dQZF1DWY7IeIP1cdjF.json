@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Reggaeton hits from KAROL G, Omar Courtz, Bad Bunny and more. \ud83d\udd25\ud83c\udf51",
+  "description": "Reggaeton hits from De La Rose, KAROL G, Omar Courtz & Ozuna, Bad Bunny and more. \ud83d\udd25\ud83c\udf51",
   "name": "Baila Reggaeton",
   "tracks": [
     {
@@ -2282,6 +2282,24 @@
       "duration_ms": 139376,
       "name": "CARNET",
       "url": "https://open.spotify.com/track/1GKEH7oWPx8xDlDrggaEnJ"
+    },
+    {
+      "album": {
+        "name": "Mi Carpe Diem",
+        "url": "https://open.spotify.com/album/5xNpY6LGUqNbluWuLJRNSl"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173694,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/0aLgqklsBNnVValSEGssbz"
     },
     {
       "album": {
@@ -17066,6 +17084,28 @@
       "duration_ms": 206710,
       "name": "Yonaguni",
       "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
+    },
+    {
+      "album": {
+        "name": "ZIZI",
+        "url": "https://open.spotify.com/album/4f0YTBqSbvM1iJpuY9r3yQ"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242840,
+      "name": "ZIZI",
+      "url": "https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX"
     },
     {
       "album": {

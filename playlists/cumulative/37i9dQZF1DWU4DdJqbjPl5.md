@@ -2,9 +2,9 @@
 
 ### [afro&b ](https://open.spotify.com/playlist/37i9dQZF1DWU4DdJqbjPl5)
 
-> Intersection of R&B and afrobeats\. Cover:  Nasty C
+> Intersection of R&B and afrobeats\. Cover:  Nasty C & Tellaman
 
-609 songs - 1 day 7 hr 47 min
+609 songs - 1 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -535,6 +535,7 @@
 | [Therapy](https://open.spotify.com/track/6qIlzp4lZfTYJujSXw5o7r) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [5th Dimension](https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb) | 3:20 | 2023-04-27 | 2024-04-26 |
 | [There's Too Much Of You](https://open.spotify.com/track/2ZvxEQ6U9NJJEcVfKa5Jw7) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [What's Around The Corner](https://open.spotify.com/album/25svhynQhTgN0uUjHAdDth) | 2:18 | 2023-01-19 | 2023-01-21 |
 | [There's Too Much Of You](https://open.spotify.com/track/7ox53QO10ykeeAkrFvmn3f) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [What's Around The Corner](https://open.spotify.com/album/1RpUrBuml8USoJNuUAbVrH) | 2:18 | 2023-01-19 | 2023-01-28 |
+| [Throw Something](https://open.spotify.com/track/5Ahzftt1kLGb1daMiLOk8e) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA) | [What Does It Take to Bloom?](https://open.spotify.com/album/54ST4y3yA1Is8hXRhDpH2o) | 5:07 | 2026-08-07 |  |
 | [till forever ends](https://open.spotify.com/track/2ZVOWgbP2Nj76kctTF1jjX) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [little messages](https://open.spotify.com/album/7hDzyjqHrig751Igo5ebvN) | 2:56 | 2023-08-25 | 2023-09-15 |
 | [Time Of My Life](https://open.spotify.com/track/6DUINi3VBEZVCpFwyabLEO) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Good Old Days](https://open.spotify.com/album/5Al1lKbE9sfZD21V5gnnYR) | 3:47 | 2024-01-26 | 2024-06-07 |
 | [Tiny Apartment](https://open.spotify.com/track/23i0NB9OBq8S1Haizx1rQY) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:40 | 2024-06-21 | 2025-10-17 |
@@ -548,7 +549,6 @@
 | [Touché coulé \(feat\. Louzio, Tazeboy & Team Paiya\)](https://open.spotify.com/track/6LX6p2kiEzDHBcIJFHQt15) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Louzio](https://open.spotify.com/artist/1RpZELzUnXRdGMTrKB72WU), [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa), [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk) | [CYCLE](https://open.spotify.com/album/7iI0U5Wgr4GnDlzIKPzmYB) | 3:42 | 2026-03-13 | 2026-03-20 |
 | [TOXIC](https://open.spotify.com/track/4RYvU6CIPQu4toCLlLByG9) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a) | [My WorlD With U](https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm) | 3:27 | 2022-03-11 | 2022-11-15 |
 | [Toxic Arms](https://open.spotify.com/track/4I2IFTF3PzcpnP3q6J2GHS) | [Itha](https://open.spotify.com/artist/6HWsERr2RidXDuGI1viKtD), [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP), [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Let's Draw](https://open.spotify.com/album/3CdHQ0q84k7otucAHiUAPa) | 4:47 | 2026-03-06 | 2026-03-20 |
-| [Track 1](https://open.spotify.com/track/5Ahzftt1kLGb1daMiLOk8e) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA) | [What Does It Take to Bloom?](https://open.spotify.com/album/54ST4y3yA1Is8hXRhDpH2o) | 0:00 | 2026-08-07 |  |
 | [treat u right](https://open.spotify.com/track/38Mnfr1l5t2kckdzoJuXTl) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [treat u right](https://open.spotify.com/album/40A1rVfEkPBAri7GV6iCZE) | 2:57 | 2026-07-03 |  |
 | [True Love](https://open.spotify.com/track/4TEw5hpdE3xkMwOHIBpYJm) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [True Love](https://open.spotify.com/album/0Le8c3YsUvdoB8EsWEN6K5) | 2:50 | 2023-11-07 | 2024-10-26 |
 | [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:08 | 2023-04-20 | 2024-03-22 |

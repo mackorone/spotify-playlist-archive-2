@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-2,048 songs - 4 day 18 hr 39 min
+2,055 songs - 4 day 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Backstabbing Aside](https://open.spotify.com/track/5xz9coyceFfawPzjoeuarl) | [Apache Rose](https://open.spotify.com/artist/6UiyXCbm8nWQB3ODDyDkA7) | [Backstabbing Aside](https://open.spotify.com/album/1cx8aMWD7C78NH8LUwzmsV) | 4:20 | 2026-07-12 | 2026-08-01 |
 | [Backwards](https://open.spotify.com/track/4yjlLn64Pm9LwWUffWhd1P) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Backwards](https://open.spotify.com/album/2hMtwB5CvVyY0Xf3EAJNId) | 3:14 | 2025-11-27 | 2025-12-24 |
 | [Bad Choices](https://open.spotify.com/track/3hhlRXxj0u1VfsiWAHa55Y) | [Hangry Ghost](https://open.spotify.com/artist/2tx6v30pjmMHnXmkYafSjC) | [Echoes](https://open.spotify.com/album/16Z5fnX3eu85ypKufNZ3Ep) | 3:01 | 2026-04-29 | 2026-05-22 |
+| [Bad Moon Rising \- Suburban Sessions](https://open.spotify.com/track/7DrEIWrFe1FgoF6PHL1MJ6) | [According To Jack](https://open.spotify.com/artist/1JVc2ZCDndA1nBgc0nLNSs) | [Bad Moon Rising \(Suburban Sessions\)](https://open.spotify.com/album/0VVeJeNzRfABK9I842dej4) | 1:57 | 2026-08-07 |  |
 | [Bad Mothers Union](https://open.spotify.com/track/6Der5789VoX0fURxg5Qm9r) | [Bad Mothers Union](https://open.spotify.com/artist/0UuSPZoM9UNQPTOCJBlhtb) | [Sore Losers](https://open.spotify.com/album/6Bn83IxZVyvjjGm1wFoqgD) | 1:13 | 2026-03-20 | 2026-04-21 |
 | [Bald](https://open.spotify.com/track/0mkFpp2s4X5FX0VgpXW7KZ) | [Anglerfish](https://open.spotify.com/artist/1WLvmcSq3WYZ6KgNd1Lb2D) | [Dawn](https://open.spotify.com/album/1HsSxG0DlbFWAOWgnGaQDg) | 5:02 | 2026-05-26 | 2026-07-04 |
 | [BALLET BILLY](https://open.spotify.com/track/6s75SQOvQynztfiYTc5mrC) | [Cut Manners](https://open.spotify.com/artist/1OXL2MCFMKck1RMwKvcvNT) | [BALLET BILLY](https://open.spotify.com/album/1HUnj0XuLs6AQ6TxKrNr37) | 1:46 | 2026-06-27 | 2026-08-01 |
@@ -246,6 +247,7 @@
 | [Breakdown](https://open.spotify.com/track/1TcDvEIvZ6lonlK2ZuGX8u) | [ZYkR](https://open.spotify.com/artist/4N3QLa1mYQCzIkl97QFLPN) | [Breakdown](https://open.spotify.com/album/7qVmZP7hJ9vFsQaMd2PIj9) | 4:37 | 2026-03-12 | 2026-03-31 |
 | [Breaking Me](https://open.spotify.com/track/5cY9J2rpud610I2qTa3toF) | [December Daybreak](https://open.spotify.com/artist/6EKs2NrFlMNMuI9kNr4ky2) | [Breaking Me](https://open.spotify.com/album/5j1OiGLguSko1Gje70rx9D) | 4:05 | 2025-11-28 | 2025-12-24 |
 | [Breaking My Own Heart](https://open.spotify.com/track/4EwTDjUTCw6y8i5AvUSCn8) | [MODISTE](https://open.spotify.com/artist/5ErkxHtnf14rfcjMoPWtyL) | [Breaking My Own Heart](https://open.spotify.com/album/5gRaaUvQ4aia5WSLlApIjm) | 4:52 | 2026-03-08 | 2026-03-31 |
+| [Breaking My Pride](https://open.spotify.com/track/3CGNumEYGFbjr3wDygGu3d) | [Good Fortune](https://open.spotify.com/artist/5JlD0ywGbSXPatgnstoLIY) | [Breaking My Pride](https://open.spotify.com/album/36Ffv71Q1uYXSvDmZzH3tq) | 2:49 | 2026-08-07 |  |
 | [Breaking the Rules with a Smile On](https://open.spotify.com/track/2aHauPdAZxgXqBpJsLv7zb) | [Two Stories Away](https://open.spotify.com/artist/6pK1e6SbO06aoLnICdXNR4) | [Breaking the Rules with a Smile On](https://open.spotify.com/album/5BqUe4Yz6dJ4mKCouEI1Mj) | 3:17 | 2026-04-25 | 2026-05-27 |
 | [BREATHE](https://open.spotify.com/track/3ALJaDfdUCrARTslgZig5k) | [dmncles](https://open.spotify.com/artist/6AXQbXnTcpATjFnocZgBK3) | [BREATHE](https://open.spotify.com/album/3ngaCH0ImMqEuCnlO1F84m) | 2:34 | 2025-11-21 | 2025-12-24 |
 | [Breather](https://open.spotify.com/track/676IBfIXDIiidngkSKSJHY) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Frantic!](https://open.spotify.com/album/04HZkLDGricV1azqsq5yfV) | 0:42 | 2025-08-03 |  |
@@ -332,6 +334,7 @@
 | [circles](https://open.spotify.com/track/0d0HWMlBcsm2zB3ZaV8d7E) | [hideaways.](https://open.spotify.com/artist/69GTkLWVatpJWSJlmKNdUG), [Debbi Koh](https://open.spotify.com/artist/7Kee6lArbmE69gO5HY06G6) | [circles](https://open.spotify.com/album/0Lspo9U52hDPiLIetVX0uZ) | 3:30 | 2025-12-17 | 2026-01-06 |
 | [Circular](https://open.spotify.com/track/4iokmKzHidikwb92wvK2pz) | [Klidas](https://open.spotify.com/artist/2hR1G6mVtRjuPOHEPutdtP) | [No Harmony](https://open.spotify.com/album/1gyRigtJgj31N9ohUfn9I1) | 5:09 | 2026-01-17 | 2026-02-05 |
 | [Circumstances](https://open.spotify.com/track/5UYhHfd1LbFN1nspZB5eyX) | [Grandma's Chandelier](https://open.spotify.com/artist/6dtP5fyPl76HScmIsqell7) | [Circumstances](https://open.spotify.com/album/4K7aZj2hfShTAjiSoylJnU) | 4:28 | 2026-08-01 |  |
+| [Citylights](https://open.spotify.com/track/2cQPzcs1gAyoS2OuwU2zYY) | [Adil Diamond](https://open.spotify.com/artist/7disYdg5mq01jUjwC90S5Z) | [Citylights](https://open.spotify.com/album/1Po5D9atLpAMiGiPnHRJOt) | 2:32 | 2026-08-07 |  |
 | [Cleanse/Repeat](https://open.spotify.com/track/0PxMtB29M0Bo3U3psoONCZ) | [Mercers.](https://open.spotify.com/artist/0hUc6FIsCsAGv1muQXWDHZ) | [Cleanse/Repeat](https://open.spotify.com/album/6w64mKb0useRmhez94d7Mb) | 3:37 | 2026-06-11 | 2026-07-04 |
 | [Clicca qui](https://open.spotify.com/track/0ODBN35PcBl2HfFiPjJVN0) | [RAVE OVER](https://open.spotify.com/artist/663VaXhxdCLiwQhzNWaWOl) | [LA DROGA](https://open.spotify.com/album/6ahcTiekcAus3H3uiLV6v3) | 5:29 | 2025-12-28 | 2026-01-22 |
 | [cliché](https://open.spotify.com/track/5hCfaSnir1rVDynSIzVwiN) | [Demure](https://open.spotify.com/artist/6qyd5mXmcWDSJqFVY7UJmF) | [All That’s Left](https://open.spotify.com/album/753qKy92CL7i0LX1xTQSbU) | 2:32 | 2026-02-05 | 2026-02-27 |
@@ -440,6 +443,7 @@
 | [Desert Rain](https://open.spotify.com/track/1kF4Qbv0xdZzBT0iQUWA40) | [The Operating Room](https://open.spotify.com/artist/4EvlkZr3kmmMH3w3cZ7yfP) | [Desert Rain](https://open.spotify.com/album/73I0Frj5Kzq74qYKiNOCFh) | 3:45 | 2026-05-05 | 2026-06-06 |
 | [Desert Roll](https://open.spotify.com/track/1i3jPowCNmyemFeiJtvLSA) | [A VIOLET IN YOUTH](https://open.spotify.com/artist/3Gqlvwb5U3hbST19eSdJqB) | [Desert Roll, Exactly.](https://open.spotify.com/album/5s5LGNDHjvLzEkRDYKBkaE) | 3:21 | 2026-01-01 | 2026-05-08 |
 | [Desgraça Meritocrata](https://open.spotify.com/track/2toM8JC9BuVV2KWvNI3byX) | [Punkzilla!](https://open.spotify.com/artist/195RH0AAkd21C90BDdtaP9) | [Lutar pela Paz](https://open.spotify.com/album/5ivEjlX5im8gx8jEKzyTyx) | 2:29 | 2025-11-15 | 2025-12-10 |
+| [Despite the Outcome](https://open.spotify.com/track/3o61ISs4qBMzfjAnn6w0GJ) | [Max Rauch](https://open.spotify.com/artist/75ZAROPVCZeQCFKwraCWKN) | [Made an Album](https://open.spotify.com/album/4Vku1OHcKTG7uzELgzjdDW) | 3:18 | 2026-08-07 |  |
 | [Después de la Luz \(Remastered\)](https://open.spotify.com/track/53tXIga6t3hP9YnMpp3Agw) | [Peak Level](https://open.spotify.com/artist/3bM9OXS4SVUI0UW9DMw5ss) | [Después de la Luz \(Remastered\)](https://open.spotify.com/album/2nIkGEVas0sImcN9zdY9n0) | 5:42 | 2026-03-01 | 2026-03-21 |
 | [Destiny](https://open.spotify.com/track/3qQKz4xekRuwzNMNOlD28z) | [Drexl Bowie](https://open.spotify.com/artist/42gYTrrgVcmssefJRBi2Je) | [Destiny](https://open.spotify.com/album/0Ib4Sa441CofNTvVb8uvPk) | 3:29 | 2026-01-10 | 2026-02-11 |
 | [Dethroned \- Single Version](https://open.spotify.com/track/4qozyUj1G2qVakk2p7bn2t) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [Dethroned](https://open.spotify.com/album/2YANVUxhMLXy7CY1SYX8pk) | 2:57 | 2026-01-03 |  |
@@ -595,6 +599,7 @@
 | [February](https://open.spotify.com/track/26gEGxhko1zfphl2smhaVq) | [Drowning Spree](https://open.spotify.com/artist/3hQb3x5dtoqt0PGaNRA7ny) | [February](https://open.spotify.com/album/0NxBq522UIDPvCVL2m8P2v) | 3:57 | 2026-01-14 | 2026-02-24 |
 | [Feel the Men](https://open.spotify.com/track/0y8QYNa314rbXaGCbB4hG6) | [Required\*](https://open.spotify.com/artist/7rPSoYPbX5QCiZqf8bZDE6) | [Feel the Men](https://open.spotify.com/album/61oEI3locEfOR9f9gKK6Pv) | 3:39 | 2026-01-13 | 2026-02-03 |
 | [Feel The Monster XXV](https://open.spotify.com/track/51lTKWhkcup4B9x8CMHoQB) | [Killus](https://open.spotify.com/artist/0c44C54LrAHha0u92agfHM) | [XXV Years Feeding the Monster](https://open.spotify.com/album/7Dceor0eHgves2o51kfi6V) | 4:05 | 2026-03-26 | 2026-04-17 |
+| [Feeling Fine](https://open.spotify.com/track/7Ddu6z6olJSifdY5gTI3B3) | [Lost Fire](https://open.spotify.com/artist/4lbOe7bfk0TATIgtiNQOzh) | [Feeling Fine](https://open.spotify.com/album/69gxDk3RmebgKifV2T0q1v) | 1:44 | 2026-08-07 |  |
 | [Feeling of Doom](https://open.spotify.com/track/3mxMDW6oMQ7Yfmc4QDJuXw) | [Threat Level: Midnight](https://open.spotify.com/artist/0mBT9uL4Vxl8yrcsX8998v) | [Feeling of Doom](https://open.spotify.com/album/1mDrlp2bdOh1ZNHEcmdiIR) | 5:57 | 2026-04-09 | 2026-05-08 |
 | [Fell In Love With a Girl](https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 1:50 | 2025-08-03 |  |
 | [Feral Lane](https://open.spotify.com/track/43ve0SDtFW96YcHCYIv4Bd) | [Beyond Brookhaven](https://open.spotify.com/artist/0csy52k7kF3hehUZUd5G5g) | [Feral Lane](https://open.spotify.com/album/2OASBR0A91EgmBK8BnEiNc) | 3:22 | 2026-04-04 | 2026-05-06 |
@@ -772,6 +777,7 @@
 | [Hello You](https://open.spotify.com/track/58Mps9U6HpzFBzIm6FvVYu) | [CAN'T STOP TALKING](https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe) | [Nothing To Say](https://open.spotify.com/album/5NeEmefGoLWrjXzzKrU7dF) | 2:14 | 2025-08-03 | 2026-02-13 |
 | [Hello, Beautiful](https://open.spotify.com/track/231rZMis3ipEk8M7UPFPYd) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [LOUD NOISES](https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM) | 5:45 | 2025-08-03 | 2026-05-30 |
 | [Here](https://open.spotify.com/track/0clsGxg8oUCWpShEptVwvg) | [Joey Juste](https://open.spotify.com/artist/4KgkU6Dkf4MrgQO7QZUiw6) | [Here](https://open.spotify.com/album/2FJ59iP0Zs6hwkfShS82o5) | 3:28 | 2026-03-11 | 2026-04-08 |
+| [Here](https://open.spotify.com/track/4hELxfCdhxUTrH9An2FxDF) | [Jonny Amoral](https://open.spotify.com/artist/6NwioT96GnLXqYSS814noa) | [Delirium](https://open.spotify.com/album/6Geo6lAPXfRnOc6UVt4MrL) | 2:08 | 2026-08-07 |  |
 | [Here I Am](https://open.spotify.com/track/0FTBL9ylHOi6AVx6fn84eu) | [Eren Ayintap](https://open.spotify.com/artist/0K18HE2KC6yov0rrfwjF1D) | [A Timeless Echo](https://open.spotify.com/album/02bybNqQgeAxHm8zp2I5ZJ) | 3:12 | 2025-12-15 | 2026-01-06 |
 | [Here We Go](https://open.spotify.com/track/1AhqASK4Hs7kQ6naWHaVNW) | [TeethOut](https://open.spotify.com/artist/1zbyrACN47gprz5q97evPl) | [Here We Go](https://open.spotify.com/album/4EVGPprwwNEdaUa2ebv1Tx) | 2:48 | 2025-11-27 | 2025-12-24 |
 | [Heretic](https://open.spotify.com/track/0fnBes5T9MhY0nMWS70FtO) | [SECULAR](https://open.spotify.com/artist/4ByeCqfeGjf53fhWXBydM3) | [Heretic](https://open.spotify.com/album/1ROIsCaIxtRqY11d4LkB93) | 3:25 | 2026-06-15 | 2026-07-04 |
@@ -1352,6 +1358,7 @@
 | [Psycho Barbie](https://open.spotify.com/track/0FGlt4hpOGHV0Q92Wn71R2) | [Lady Rosalie](https://open.spotify.com/artist/698ijYtVSCmdMcFhch6bSj) | [Divine Dreams](https://open.spotify.com/album/1IXRRtyDYwtXUVcPEix0rj) | 2:59 | 2026-07-15 |  |
 | [PTSD Radio](https://open.spotify.com/track/2lJOJKrfxBKt0bvxuHBFLd) | [Castdoubt](https://open.spotify.com/artist/5dq0TJkDZ0JATOPtq73Muz) | [PTSD Radio](https://open.spotify.com/album/64ir1RUlB8c2oJSAdQBqFL) | 2:43 | 2025-12-29 | 2026-01-22 |
 | [Pulaski](https://open.spotify.com/track/7FQaCR1Frd8ovKIKq1IJtX) | [Autopsy Night](https://open.spotify.com/artist/42ujI6E2xSDHO3NdQ66s6a) | [Pulaski](https://open.spotify.com/album/3Hjvx0llaqSstlmgpMLwZC) | 3:25 | 2026-01-19 | 2026-02-20 |
+| [Pull the Trigger](https://open.spotify.com/track/1iQIsHQL0EM8VVwwuRcfPk) | [Jonny Amoral](https://open.spotify.com/artist/6NwioT96GnLXqYSS814noa) | [Delirium](https://open.spotify.com/album/6Geo6lAPXfRnOc6UVt4MrL) | 2:37 | 2026-08-07 |  |
 | [Pulse](https://open.spotify.com/track/3yeOxEljgsCVWMZmhD2lxg) | [Good Rifles](https://open.spotify.com/artist/44Aq2HIdcKz37kU4ZwKbXG) | [Every Noise at Once](https://open.spotify.com/album/5dtiaOmJcas10BtPy1NhjW) | 2:33 | 2026-08-05 |  |
 | [Punk Bunny Coffee](https://open.spotify.com/track/1RtXFLXKsP7NnImqmOjLAK) | [Riot Knight](https://open.spotify.com/artist/4K5FF5mvBikVq09ibbdDDh) | [Punk Bunny Coffee](https://open.spotify.com/album/09oW8llvKkkAaGFUPchXRV) | 2:41 | 2026-03-12 | 2026-04-13 |
 | [Punk Parrot](https://open.spotify.com/track/4CaImsMJmEbKg2ikcgyAJU) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [Punk Parrot](https://open.spotify.com/album/5LPgfFFpDiisyYSb4FpnqV) | 3:03 | 2026-06-02 | 2026-07-04 |

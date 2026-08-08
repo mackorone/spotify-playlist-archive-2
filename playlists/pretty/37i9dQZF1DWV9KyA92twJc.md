@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 
 > תחנת הרדיו הפרטית שלך\. שירים יפים מישראל והעולם\. קאבר: פול טראנק
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,743 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,744 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,10 +86,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 76 | [לא להמציא](https://open.spotify.com/track/6WDVPVfGdcL1d574NP7BVP) | [דודא](https://open.spotify.com/artist/5L1ugF8Mi2varnr83WO9do) | [שקוף](https://open.spotify.com/album/5YBVC6yXAL3Y5ENJpM0kbZ) | 3:47 |
 | 77 | [באמפרים](https://open.spotify.com/track/3FihyZ7YA7vrNiSUfWww10) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe) | [באמפרים](https://open.spotify.com/album/68jOubWGq2KpQexGxt6lP6) | 2:27 |
 | 78 | [מנגן ושר](https://open.spotify.com/track/2yPnlfwQ1AmhHauqQWDlWZ) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [THE LAST EPISODE](https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY) | 3:21 |
-| 79 | [Hurricane](https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Hurricane](https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p) | 2:58 |
-| 80 | [אמא שלך](https://open.spotify.com/track/3TQtybs90OnjGO8uaYSZi6) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [איש הפלא](https://open.spotify.com/album/7awg3nTypB4akCgkD1Oo3A) | 3:20 |
-| 81 | [אם זה זה – זה זה](https://open.spotify.com/track/5e1XuRHOjrgVhy6zrZWOCu) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [אם זה זה – זה זה](https://open.spotify.com/album/78VNDC9zHvBXKi8Nqz7jrE) | 2:53 |
-| 82 | [תהיה בנאדם](https://open.spotify.com/track/0BIn5KNnPdnDZrLJ2qLXnp) | [מתן חסן](https://open.spotify.com/artist/36TG4OFhKuCHnTFCa6BEh7) | [תהיה בנאדם](https://open.spotify.com/album/4d0DUXWVlWh3R7OzyPrUYI) | 1:57 |
+| 79 | [אמא שלך](https://open.spotify.com/track/3TQtybs90OnjGO8uaYSZi6) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [איש הפלא](https://open.spotify.com/album/7awg3nTypB4akCgkD1Oo3A) | 3:20 |
+| 80 | [Hurricane](https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Hurricane](https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p) | 2:58 |
+| 81 | [תהיה בנאדם](https://open.spotify.com/track/0BIn5KNnPdnDZrLJ2qLXnp) | [מתן חסן](https://open.spotify.com/artist/36TG4OFhKuCHnTFCa6BEh7) | [תהיה בנאדם](https://open.spotify.com/album/4d0DUXWVlWh3R7OzyPrUYI) | 1:57 |
+| 82 | [אם זה זה – זה זה](https://open.spotify.com/track/5e1XuRHOjrgVhy6zrZWOCu) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [אם זה זה – זה זה](https://open.spotify.com/album/78VNDC9zHvBXKi8Nqz7jrE) | 2:53 |
 | 83 | [מאחל לך טוב](https://open.spotify.com/track/2RNGK9C5zMQhKMTiPL5Q0T) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [גיטרה ולנשום](https://open.spotify.com/album/6MYR06lNvAzbzXmKTn3kpw) | 2:58 |
 | 84 | [מלודי](https://open.spotify.com/track/0hdDyhwaJpNW5nsJC3qYPe) | [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח 2](https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq) | 3:27 |
 | 85 | [SAD GENERATION, HAPPY PICTURES \(feat\. Flyana Boss\)](https://open.spotify.com/track/68XUfHBL2g8FTcXiCS76Gn) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [THE VANDALIST](https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 99 | [זזה עם הגוף](https://open.spotify.com/track/12ddpfSEpTUe2iixjUvLl6) | [LifeSwisa](https://open.spotify.com/artist/1fLzamJ7rVob2s7eAImDPu), [RONNY](https://open.spotify.com/artist/0d0SO6dDwEkIgMpucyP7o4) | [זזה עם הגוף](https://open.spotify.com/album/5XGGVgbzCrOmQR0aRUeOhM) | 3:15 |
 | 100 | [למי את מתקשרת](https://open.spotify.com/track/7owAy4b9jUAiNDNi0bJ9rW) | [ליאם גולן](https://open.spotify.com/artist/5Rp2o61i7NiMPtSuDj5IRX) | [למי את מתקשרת](https://open.spotify.com/album/0b1XLphWfOAzSaWA36Khrt) | 3:05 |
 
-Snapshot ID: `AAAAAHWc7AY4a5Nlzs7gFcvwu4k/vlIA`
+Snapshot ID: `AAAAAAU2Tqdft9PitydtQPFuczzZJS4w`

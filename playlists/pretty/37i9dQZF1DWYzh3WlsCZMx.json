@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36\">HBO's Rap Sh!t</a>",
-  "num_followers": 46336,
+  "num_followers": 46345,
   "original_name": "HBO Rap Sh!t's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACXJnyiRVgcFikql7+n8CXedaCsw",
+  "snapshot_id": "AAAAAEHZAEQ4BvpXCPt+qbA04ka5QmEI",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "ALIEN",
-        "url": "https://open.spotify.com/album/6To6T5lr8PLhCQ8ik3vPdv"
-      },
-      "artists": [
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
-        }
-      ],
-      "duration_ms": 205380,
-      "name": "FRIENDS",
-      "url": "https://open.spotify.com/track/28meAZD8uiVdp2sNcK8Ahl"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Hood Baby",
         "url": "https://open.spotify.com/album/3epVF8JDjLOAbMbWXL2SdO"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 160000,
       "name": "Hood Baby",
       "url": "https://open.spotify.com/track/5Elw813HnizJdMcnGAvVUK"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "ALIEN",
+        "url": "https://open.spotify.com/album/6To6T5lr8PLhCQ8ik3vPdv"
+      },
+      "artists": [
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "duration_ms": 205380,
+      "name": "FRIENDS",
+      "url": "https://open.spotify.com/track/28meAZD8uiVdp2sNcK8Ahl"
     },
     {
       "added_at": "2022-10-01 16:00:00",

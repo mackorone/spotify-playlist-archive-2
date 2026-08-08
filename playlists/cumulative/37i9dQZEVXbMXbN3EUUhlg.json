@@ -2077,6 +2077,28 @@
     },
     {
       "album": {
+        "name": "Al\u00e9m Do Tempo",
+        "url": "https://open.spotify.com/album/5wSMphnKqBeihlJzLaliuC"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        },
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147763,
+      "name": "Alguns Defeitos",
+      "url": "https://open.spotify.com/track/23AU70NKsQ4HfdSyd7lwZl"
+    },
+    {
+      "album": {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
       },
@@ -4652,7 +4674,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 218107,
       "name": "Bala Alojada",
       "url": "https://open.spotify.com/track/2VqS3nosBtSzujuUP6EoKq"
@@ -13886,7 +13908,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 162406,
       "name": "Eu N\u00e3o Sou Terapia - Ao Vivo",
       "url": "https://open.spotify.com/track/43M2EwcFfSxthlO3E58Men"
@@ -19062,7 +19084,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 164769,
       "name": "Jontex (fuma\u00e7a do ice)",
       "url": "https://open.spotify.com/track/7t1RoJiMrSZEkUjFmMP10x"
@@ -22224,7 +22246,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 177230,
       "name": "ME POSTOU NO DAILY - FESTA DO BIG G",
       "url": "https://open.spotify.com/track/4ukpXdplqDEMk3Fy2i30oI"
@@ -23528,7 +23550,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 179595,
       "name": "Meu Sil\u00eancio - Ao Vivo",
       "url": "https://open.spotify.com/track/0ycQtDnc4mOcefV6yyV6dm"
@@ -29608,7 +29630,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 184248,
       "name": "petal",
       "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
@@ -42882,7 +42904,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"

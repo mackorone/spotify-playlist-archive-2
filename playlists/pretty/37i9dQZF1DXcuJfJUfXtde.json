@@ -1,12 +1,12 @@
 {
   "description": "mis videos fav de Pop, s\u00f3lo en Premium \u2728",
-  "num_followers": 25709,
+  "num_followers": 25708,
   "original_name": "en ingles",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKV0lXroGW3i2MZR0x9Br8eRxRwO",
+  "snapshot_id": "AAAAAAq7HP1XwvdKlOuP0WXLVYT/k/oy",
   "tracks": [
     {
       "added_at": "2026-04-23 03:27:24",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-04-23 03:27:24",
       "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "added_at": "2026-04-23 03:27:24",
+      "album": {
         "name": "Good Girl Gone Bad: Reloaded",
         "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
       },
@@ -615,18 +631,18 @@
     {
       "added_at": "2026-04-23 03:27:24",
       "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+        "name": "(What's The Story) Morning Glory? [Remastered]",
+        "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+      "duration_ms": 258773,
+      "name": "Wonderwall - Remastered",
+      "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
     },
     {
       "added_at": "2026-04-23 03:27:24",
@@ -643,22 +659,6 @@
       "duration_ms": 217008,
       "name": "Die On This Hill",
       "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
-    },
-    {
-      "added_at": "2026-04-23 03:27:24",
-      "album": {
-        "name": "(What's The Story) Morning Glory? [Remastered]",
-        "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 258773,
-      "name": "Wonderwall - Remastered",
-      "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
     },
     {
       "added_at": "2026-04-23 03:27:24",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-04-23 03:27:24",
       "album": {
-        "name": "Mylo Xyloto",
-        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 278719,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
-    },
-    {
-      "added_at": "2026-04-23 03:27:24",
-      "album": {
         "name": "Justified",
         "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 267266,
       "name": "Rock Your Body",
       "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
+    },
+    {
+      "added_at": "2026-04-23 03:27:24",
+      "album": {
+        "name": "Mylo Xyloto",
+        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 278719,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
     },
     {
       "added_at": "2026-04-23 03:27:24",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-04-23 03:27:24",
       "album": {
-        "name": "Radical Optimism",
-        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/6D8y7Bck8h11byRY88Pt2z"
-    },
-    {
-      "added_at": "2026-04-23 03:27:24",
-      "album": {
         "name": "So Close To What",
         "url": "https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 165045,
       "name": "Sports car",
       "url": "https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S"
+    },
+    {
+      "added_at": "2026-04-23 03:27:24",
+      "album": {
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/6D8y7Bck8h11byRY88Pt2z"
     },
     {
       "added_at": "2026-04-23 03:27:24",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-04-23 03:27:24",
       "album": {
-        "name": "Girl on Fire (Remixes) - EP",
-        "url": "https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 224920,
-      "name": "Girl on Fire",
-      "url": "https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco"
-    },
-    {
-      "added_at": "2026-04-23 03:27:24",
-      "album": {
         "name": "Easy On My Eyes",
         "url": "https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 176666,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/6VhuP99TE6gYNQRJIlAWFD"
+    },
+    {
+      "added_at": "2026-04-23 03:27:24",
+      "album": {
+        "name": "Girl on Fire (Remixes) - EP",
+        "url": "https://open.spotify.com/album/3zZSz5VOYSu0jE4MkPCOvN"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 224920,
+      "name": "Girl on Fire",
+      "url": "https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco"
     },
     {
       "added_at": "2026-04-23 03:27:24",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-04-23 03:27:24",
       "album": {
-        "name": "Monkey Business",
-        "url": "https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 326960,
-      "name": "My Humps",
-      "url": "https://open.spotify.com/track/20jYtEun4dUdYZ9foaOC48"
-    },
-    {
-      "added_at": "2026-04-23 03:27:24",
-      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 228093,
       "name": "Rolling in the Deep",
       "url": "https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk"
+    },
+    {
+      "added_at": "2026-04-23 03:27:24",
+      "album": {
+        "name": "Monkey Business",
+        "url": "https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 326960,
+      "name": "My Humps",
+      "url": "https://open.spotify.com/track/20jYtEun4dUdYZ9foaOC48"
     },
     {
       "added_at": "2026-04-23 03:27:24",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 
 > Für ein bisschen mehr Leichtigkeit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,228 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,222 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 33 | [Feel Good](https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Feel Good](https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix) | 2:43 |
 | 34 | [How Beautiful This Life Is](https://open.spotify.com/track/7z8k59NKAcnwK6OOHt3i3k) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [How Beautiful This Life Is](https://open.spotify.com/album/0KYAQzaK5SAmll1FYTDNDx) | 3:14 |
 | 35 | [Walk](https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 2:32 |
-| 36 | [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 |
-| 37 | [Slow Dance \(For A Minute\)](https://open.spotify.com/track/3aMVeM9Bgdme3POWcdG6Tw) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Slow Dance \(For A Minute\)](https://open.spotify.com/album/7koTRiQmLO0hvhkg2unWF0) | 3:34 |
+| 36 | [Slow Dance \(For A Minute\)](https://open.spotify.com/track/3aMVeM9Bgdme3POWcdG6Tw) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Slow Dance \(For A Minute\)](https://open.spotify.com/album/7koTRiQmLO0hvhkg2unWF0) | 3:34 |
+| 37 | [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 |
 | 38 | [Better Days](https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR) | 3:18 |
 | 39 | [Lost The Breakup](https://open.spotify.com/track/58VF5ob7qRB3yUzOYEAhyf) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:09 |
 | 40 | [Ready To Be Loved](https://open.spotify.com/track/1DqxoM9tJrH8VElhileZ2v) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Ready To Be Loved](https://open.spotify.com/album/0n154sm1hveOmE5VKenM9n) | 3:00 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 64 | [Kreise](https://open.spotify.com/track/1ocmRsEMI6nO9d9BdQbXNI) | [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K) | [Kreise](https://open.spotify.com/album/7EJ7tw1jSJdW2C0enoLQXS) | 3:41 |
 | 65 | [Flashback](https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Flashback](https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV) | 2:49 |
 | 66 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 |
-| 67 | [Someday Soon](https://open.spotify.com/track/4rscYJB15d31PhkminLefg) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Someday Soon](https://open.spotify.com/album/04IbgD1muDZCVoku5hkns4) | 3:24 |
-| 68 | [Der letzte Tanz](https://open.spotify.com/track/3JtIS5WNPJokeMeEVnWWEM) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Der letzte Tanz](https://open.spotify.com/album/57V0HkA8vDHxpACqWNqQcO) | 3:20 |
+| 67 | [Der letzte Tanz](https://open.spotify.com/track/3JtIS5WNPJokeMeEVnWWEM) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Der letzte Tanz](https://open.spotify.com/album/57V0HkA8vDHxpACqWNqQcO) | 3:20 |
+| 68 | [Someday Soon](https://open.spotify.com/track/4rscYJB15d31PhkminLefg) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Someday Soon](https://open.spotify.com/album/04IbgD1muDZCVoku5hkns4) | 3:24 |
 | 69 | [20s](https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [20s](https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc) | 3:04 |
 | 70 | [Angel Eyes](https://open.spotify.com/track/5NId2tRxupzFAOPsRDfCxY) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Angel Eyes](https://open.spotify.com/album/0vHQE5yaLhJZmGc8lUnxCd) | 2:50 |
 
-Snapshot ID: `AAAAACvfxM1LKzpbZU226vlH1Vl92fiG`
+Snapshot ID: `AAAAAHZDoaLg5UH416otfWXEIAbDc1e+`

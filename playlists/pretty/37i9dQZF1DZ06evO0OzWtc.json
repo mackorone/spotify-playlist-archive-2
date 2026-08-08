@@ -1,12 +1,12 @@
 {
   "description": "This is Sebastian Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2229,
+  "num_followers": 2228,
   "original_name": "This Is Sebastian Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAADXu476e2V5H+zPJAwFn6Ge",
+  "snapshot_id": "anPOgAAAAAAXNXz+RKzo9dKDFc/BD2ID",
   "tracks": [
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Perro",
-        "url": "https://open.spotify.com/album/0JzOJEOu1USnuC6pNJOA36"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 151697,
-      "name": "De Perro",
-      "url": "https://open.spotify.com/track/00xrZYL6PeaEDOd5086vDh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pari Pari",
         "url": "https://open.spotify.com/album/13oqvn7XeZixU1JA5RRZxr"
       },
@@ -823,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "As\u00ed Fue",
-        "url": "https://open.spotify.com/album/0oxsgMoGr5NCV9Ng6KPhgQ"
+        "name": "De Perro",
+        "url": "https://open.spotify.com/album/0JzOJEOu1USnuC6pNJOA36"
       },
       "artists": [
         {
@@ -832,13 +812,13 @@
           "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
         },
         {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
         }
       ],
-      "duration_ms": 225770,
-      "name": "As\u00ed Fue",
-      "url": "https://open.spotify.com/track/4arTHAH4jzLahdiB5EhLk8"
+      "duration_ms": 151697,
+      "name": "De Perro",
+      "url": "https://open.spotify.com/track/00xrZYL6PeaEDOd5086vDh"
     },
     {
       "added_at": null,
@@ -855,6 +835,26 @@
       "duration_ms": 155818,
       "name": "Cartier en Mano",
       "url": "https://open.spotify.com/track/3cL0YHP6FIE3fWIujhdGCu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As\u00ed Fue",
+        "url": "https://open.spotify.com/album/0oxsgMoGr5NCV9Ng6KPhgQ"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "duration_ms": 225770,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/4arTHAH4jzLahdiB5EhLk8"
     },
     {
       "added_at": null,
@@ -975,6 +975,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ni Muy Ni\u00f1o Ni Muy Viejo",
+        "url": "https://open.spotify.com/album/71kYjtmfd7gZcTMM73LyPV"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 174704,
+      "name": "Ni Muy Ni\u00f1o Ni Muy Viejo",
+      "url": "https://open.spotify.com/track/0hgTaCVMiUVwp4cK4kmkDW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A 150",
         "url": "https://open.spotify.com/album/51g8xFmtl2Bm6TXRNidRkC"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 148317,
       "name": "A 150",
       "url": "https://open.spotify.com/track/1efOV43D7VeE2YyTZflN6F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ni Muy Ni\u00f1o Ni Muy Viejo",
-        "url": "https://open.spotify.com/album/71kYjtmfd7gZcTMM73LyPV"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 174704,
-      "name": "Ni Muy Ni\u00f1o Ni Muy Viejo",
-      "url": "https://open.spotify.com/track/0hgTaCVMiUVwp4cK4kmkDW"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from FLO, ROLE MODEL, Sam Smith, Overmono and more! ",
-  "num_followers": 1034008,
+  "num_followers": 1034910,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABerPF3pGUqx3AUzMmuTQ0s3IfbC",
+  "snapshot_id": "AAAAANR3q/ng8cFTNHoNxJCy9zgqmFE6",
   "tracks": [
     {
       "added_at": "2026-08-06 23:00:47",
@@ -1242,6 +1242,10 @@
         {
           "name": "Tinie Tempah",
           "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        },
+        {
+          "name": "Reggie",
+          "url": "https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X"
         }
       ],
       "duration_ms": 163790,
@@ -1678,10 +1682,18 @@
         {
           "name": "Coupdekat",
           "url": "https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0"
+        },
+        {
+          "name": "Natalie Red",
+          "url": "https://open.spotify.com/artist/38EW5PoQXJSd0tRuhmMbFL"
+        },
+        {
+          "name": "Ruby Bell",
+          "url": "https://open.spotify.com/artist/3V8Eb1ys7e90m3eXLIWRSO"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 9",
+      "duration_ms": 182879,
+      "name": "heyyy",
       "url": "https://open.spotify.com/track/1nmodCSw2Iny0LJcvbFq78"
     },
     {

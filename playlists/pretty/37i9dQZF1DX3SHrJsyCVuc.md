@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 
 > A new world of alternative noise\. Cover: DIIV
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,496 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,507 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 | 74 | [Ambulance!](https://open.spotify.com/track/3RCuSsrITvgcEFx35Dkx4j) | [Shock Corridor](https://open.spotify.com/artist/0JT08KMWRxr4z0J8sUp7Em) | [Ambulance!](https://open.spotify.com/album/6pO6ipcfEtTFGMRd8ibsJt) | 3:39 |
 | 75 | [Lucinda \(EM\)](https://open.spotify.com/track/0oocoADIlPjnJtdYbY1AkS) | [A Certain Ratio](https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk) | [Lucinda \(EM\)](https://open.spotify.com/album/6VlcwTjhb5fKroAM9309fR) | 4:31 |
 
-Snapshot ID: `AAAAAJxns499VgHIx+zjH7DZdMcw00U8`
+Snapshot ID: `AAAAAPJr17uF3e1rFrp2s1hdz8+My3BW`

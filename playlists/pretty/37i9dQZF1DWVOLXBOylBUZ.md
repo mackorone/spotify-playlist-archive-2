@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 ### [El Ritmo](https://open.spotify.com/playlist/37i9dQZF1DWVOLXBOylBUZ)
 
-> Latinoamérica baila al ritmo de JhonAlex.
+> Latinoamérica baila al ritmo de Bellakath.
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,922 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,906 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [COMO SE DEBE](https://open.spotify.com/track/5oFQFB3heyo28zgGHvuKL9) | [JhonAlex](https://open.spotify.com/artist/7CM7B0HfAsji2JCPipgQaI), [Noiss](https://open.spotify.com/artist/5nhjhOrmCpnfUR6GHyU9ca) | [COMO SE DEBE](https://open.spotify.com/album/6Hg8DqCUxGtmgD77xghb2W) | 2:11 |
-| 2 | [Se Le Ve](https://open.spotify.com/track/0ExNALbmBpY7IAZ2dzupnv) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei) | [Se Le Ve](https://open.spotify.com/album/2FbThz4XHG6MbcrF9shGN7) | 2:39 |
-| 3 | [Te Entiendo \- Remix](https://open.spotify.com/track/1VvliZHnsUj177MnuSY8G2) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Te Entiendo \(Remix\)](https://open.spotify.com/album/05OMViCaav7QFZig4FJJOB) | 5:35 |
+| 1 | [CRITICÓN](https://open.spotify.com/track/4joe8hhA3EPA7pZH5nLyu5) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [CRITICÓN](https://open.spotify.com/album/553rifH1VEpd2h2L9ntQVS) | 2:11 |
+| 2 | [COMO SE DEBE](https://open.spotify.com/track/5oFQFB3heyo28zgGHvuKL9) | [JhonAlex](https://open.spotify.com/artist/7CM7B0HfAsji2JCPipgQaI), [Noiss](https://open.spotify.com/artist/5nhjhOrmCpnfUR6GHyU9ca) | [COMO SE DEBE](https://open.spotify.com/album/6Hg8DqCUxGtmgD77xghb2W) | 2:11 |
+| 3 | [RIKI](https://open.spotify.com/track/37wfBdDJidbipEG2fEwkWX) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [RIKI](https://open.spotify.com/album/4bWpmQ8V75q46zbIfjVkdT) | 3:03 |
 | 4 | [AIRE](https://open.spotify.com/track/6nloIaklTZd2Sbpk4laaeJ) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ) | [AIRE](https://open.spotify.com/album/5X1QJwRKRpyteu2TsPiLJx) | 2:21 |
-| 5 | [TíRAteLo](https://open.spotify.com/track/2SQK0hM3vPpk7CBCno53gh) | [Jambeau](https://open.spotify.com/artist/294dt5FF6vPvuflq8O9FAZ) | [El Niño de Fuego](https://open.spotify.com/album/2UxSaEqW5dQ7Uw74dXwv4e) | 2:28 |
+| 5 | [ANTE LOS 20](https://open.spotify.com/track/5NPPbZVu9jBopufHq7NaHL) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [ANTE LOS 20](https://open.spotify.com/album/6SeRzhmhpvWliemVB1hCrx) | 3:08 |
 | 6 | [UNA NA MAS](https://open.spotify.com/track/1VQl8TsBw2XMhhgdA3WuFk) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [UNA NA MAS](https://open.spotify.com/album/4KsLRrdsmskz2N1nlFrACQ) | 3:16 |
 | 7 | [La Monda](https://open.spotify.com/track/7cIyY45Uw7NIWkVt3QkbsH) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [La Monda](https://open.spotify.com/album/2Z4jEq2zHhWK9XagSRjnTV) | 2:56 |
 | 8 | [Imagínate](https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Imagínate](https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 99 | [ILY](https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ILY](https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW) | 3:36 |
 | 100 | [PELINEGRA](https://open.spotify.com/track/2mRj0ZKy6kFAWIJ2fXHqyM) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [America Foster](https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO) | [HOPI SENDÉ](https://open.spotify.com/album/0Xe21PnOMP2JbgaUXZkyNM) | 1:57 |
 
-Snapshot ID: `AAAAADqMvBVF/nXQD0j53o0H3v2m9Be2`
+Snapshot ID: `AAAAAK+pm3WP94O5wkD058SExb+1Q6ab`

@@ -1,12 +1,12 @@
 {
   "description": "\ud83e\udee7  when everything lifts to a higher state \ud83e\udee7 <a href=\"spotify:genre:0JQ5DAqbMKFFfBKlpu08ru\">trance and progressive</a> with KI/KI",
-  "num_followers": 888838,
+  "num_followers": 888926,
   "original_name": "trance mission",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGb1eUTxjkXe8a4v9+8aIAro0fGW",
+  "snapshot_id": "AAAAANPmHZNnjaltnUHye5YWh7R+/zWl",
   "tracks": [
     {
       "added_at": "2026-08-06 22:02:37",
@@ -71,22 +71,22 @@
     {
       "added_at": "2026-08-06 22:02:37",
       "album": {
-        "name": "SOMA",
-        "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
+        "name": "Pumpin",
+        "url": "https://open.spotify.com/album/5HUcDxoU1KWBcjyLhlJDbM"
       },
       "artists": [
         {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+          "name": "Partiboi69",
+          "url": "https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL"
         },
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
         }
       ],
-      "duration_ms": 203571,
-      "name": "Noche Without You",
-      "url": "https://open.spotify.com/track/00FMfKay6lHHQpFLTSaCZe"
+      "duration_ms": 211197,
+      "name": "Pumpin",
+      "url": "https://open.spotify.com/track/51KLyIiHMGywXh2yh9Lk5d"
     },
     {
       "added_at": "2026-08-06 22:02:37",
@@ -107,22 +107,22 @@
     {
       "added_at": "2026-08-06 22:02:37",
       "album": {
-        "name": "Pumpin",
-        "url": "https://open.spotify.com/album/5HUcDxoU1KWBcjyLhlJDbM"
+        "name": "SOMA",
+        "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
       },
       "artists": [
         {
-          "name": "Partiboi69",
-          "url": "https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL"
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         },
         {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 211197,
-      "name": "Pumpin",
-      "url": "https://open.spotify.com/track/51KLyIiHMGywXh2yh9Lk5d"
+      "duration_ms": 203571,
+      "name": "Noche Without You",
+      "url": "https://open.spotify.com/track/00FMfKay6lHHQpFLTSaCZe"
     },
     {
       "added_at": "2026-08-06 22:02:37",
@@ -560,8 +560,8 @@
           "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 232306,
+      "name": "this is the moment (cuerpo)",
       "url": "https://open.spotify.com/track/1AF9gqUhT9jyOHDzDUTZMc"
     },
     {
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-08-06 22:02:37",
       "album": {
+        "name": "Into The Light",
+        "url": "https://open.spotify.com/album/74oTPAiZ7krqcYj67XOnhR"
+      },
+      "artists": [
+        {
+          "name": "Niels Van Gogh",
+          "url": "https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl"
+        }
+      ],
+      "duration_ms": 152216,
+      "name": "Into The Light",
+      "url": "https://open.spotify.com/track/5iRBjzPlwuT9AxD8faTAHT"
+    },
+    {
+      "added_at": "2026-08-06 22:02:37",
+      "album": {
         "name": "Ready to Fly",
         "url": "https://open.spotify.com/album/3ZtYDkyonSlzp6atr7LjEO"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 188811,
       "name": "Ready to Fly",
       "url": "https://open.spotify.com/track/4AUqJ9BYqjQO141t5qe4qC"
-    },
-    {
-      "added_at": "2026-08-06 22:02:37",
-      "album": {
-        "name": "Into The Light",
-        "url": "https://open.spotify.com/album/74oTPAiZ7krqcYj67XOnhR"
-      },
-      "artists": [
-        {
-          "name": "Niels Van Gogh",
-          "url": "https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl"
-        }
-      ],
-      "duration_ms": 152216,
-      "name": "Into The Light",
-      "url": "https://open.spotify.com/track/5iRBjzPlwuT9AxD8faTAHT"
     },
     {
       "added_at": "2026-08-06 22:02:37",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-08-06 22:02:37",
       "album": {
-        "name": "Glow Up",
-        "url": "https://open.spotify.com/album/72O9KbYw4uzkRAirxUtaOL"
-      },
-      "artists": [
-        {
-          "name": "B Jones",
-          "url": "https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Glow Up",
-      "url": "https://open.spotify.com/track/4UM7u9H76sdBGDsx3Kc8TK"
-    },
-    {
-      "added_at": "2026-08-06 22:02:37",
-      "album": {
         "name": "Reborn",
         "url": "https://open.spotify.com/album/0ik3Z4zEU1HbFCKUZmZR3w"
       },
@@ -1459,26 +1443,38 @@
     {
       "added_at": "2026-08-06 22:02:37",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/6bP4727zYW6NemjkYYoolB"
+        "name": "Glow Up",
+        "url": "https://open.spotify.com/album/72O9KbYw4uzkRAirxUtaOL"
       },
       "artists": [
         {
-          "name": "nilsix",
-          "url": "https://open.spotify.com/artist/00S0dnexJEwjUFTEMTUC9I"
-        },
-        {
-          "name": "Orjan Nilsen",
-          "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM"
-        },
-        {
-          "name": "Mark Sixma",
-          "url": "https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm"
+          "name": "B Jones",
+          "url": "https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq"
         }
       ],
-      "duration_ms": 169714,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/6gzCY0obpFYBdG09qAfWaC"
+      "duration_ms": 161000,
+      "name": "Glow Up",
+      "url": "https://open.spotify.com/track/4UM7u9H76sdBGDsx3Kc8TK"
+    },
+    {
+      "added_at": "2026-08-06 22:02:37",
+      "album": {
+        "name": "Catalyst",
+        "url": "https://open.spotify.com/album/2u5EOlY8jtEvnbkoGnqDaS"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        },
+        {
+          "name": "Marco V",
+          "url": "https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv"
+        }
+      ],
+      "duration_ms": 188260,
+      "name": "Catalyst",
+      "url": "https://open.spotify.com/track/4Z1iYzw4E1OOsJlESasSdc"
     },
     {
       "added_at": "2026-08-06 22:02:37",
@@ -1503,22 +1499,26 @@
     {
       "added_at": "2026-08-06 22:02:37",
       "album": {
-        "name": "Catalyst",
-        "url": "https://open.spotify.com/album/2u5EOlY8jtEvnbkoGnqDaS"
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/6bP4727zYW6NemjkYYoolB"
       },
       "artists": [
         {
-          "name": "Sander van Doorn",
-          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+          "name": "nilsix",
+          "url": "https://open.spotify.com/artist/00S0dnexJEwjUFTEMTUC9I"
         },
         {
-          "name": "Marco V",
-          "url": "https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv"
+          "name": "Orjan Nilsen",
+          "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM"
+        },
+        {
+          "name": "Mark Sixma",
+          "url": "https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm"
         }
       ],
-      "duration_ms": 188260,
-      "name": "Catalyst",
-      "url": "https://open.spotify.com/track/4Z1iYzw4E1OOsJlESasSdc"
+      "duration_ms": 169714,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/6gzCY0obpFYBdG09qAfWaC"
     },
     {
       "added_at": "2026-08-06 22:02:37",
@@ -1567,6 +1567,26 @@
     {
       "added_at": "2026-08-06 22:02:37",
       "album": {
+        "name": "Toca's Miracle",
+        "url": "https://open.spotify.com/album/19SdYXhuWPBITA4lILSj85"
+      },
+      "artists": [
+        {
+          "name": "Talla 2XLC",
+          "url": "https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ"
+        },
+        {
+          "name": "Fragma",
+          "url": "https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ"
+        }
+      ],
+      "duration_ms": 145634,
+      "name": "Toca's Miracle",
+      "url": "https://open.spotify.com/track/0hBfllV37fOnsMe0Iq57RZ"
+    },
+    {
+      "added_at": "2026-08-06 22:02:37",
+      "album": {
         "name": "Feel It Coming",
         "url": "https://open.spotify.com/album/2BKDavwQf5WkSTUCEQ5g2y"
       },
@@ -1591,22 +1611,22 @@
     {
       "added_at": "2026-08-06 22:02:37",
       "album": {
-        "name": "Toca's Miracle",
-        "url": "https://open.spotify.com/album/19SdYXhuWPBITA4lILSj85"
+        "name": "Papaye",
+        "url": "https://open.spotify.com/album/3ItzPOTiOBnYfbqxisibyn"
       },
       "artists": [
         {
-          "name": "Talla 2XLC",
-          "url": "https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ"
+          "name": "Mauro Picotto",
+          "url": "https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp"
         },
         {
-          "name": "Fragma",
-          "url": "https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ"
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
         }
       ],
-      "duration_ms": 145634,
-      "name": "Toca's Miracle",
-      "url": "https://open.spotify.com/track/0hBfllV37fOnsMe0Iq57RZ"
+      "duration_ms": 194142,
+      "name": "Papaye",
+      "url": "https://open.spotify.com/track/5NWO87WOv9rDXcYmqxh7h5"
     },
     {
       "added_at": "2026-08-06 22:02:37",
@@ -1635,6 +1655,22 @@
     {
       "added_at": "2026-08-06 22:02:37",
       "album": {
+        "name": "Stronger",
+        "url": "https://open.spotify.com/album/7aeGO2WgSPfzFkcGBXlNyb"
+      },
+      "artists": [
+        {
+          "name": "B Jones",
+          "url": "https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq"
+        }
+      ],
+      "duration_ms": 133250,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/5CSU4JAhrthmEap7ho6Iaz"
+    },
+    {
+      "added_at": "2026-08-06 22:02:37",
+      "album": {
         "name": "ResuRection",
         "url": "https://open.spotify.com/album/1huuNXEaRU60RRZ2T4x5LI"
       },
@@ -1655,38 +1691,6 @@
       "duration_ms": 179154,
       "name": "ResuRection",
       "url": "https://open.spotify.com/track/3avXtcd0oJNUVB7prZEDYn"
-    },
-    {
-      "added_at": "2026-08-06 22:02:37",
-      "album": {
-        "name": "Stronger",
-        "url": "https://open.spotify.com/album/7aeGO2WgSPfzFkcGBXlNyb"
-      },
-      "artists": [
-        {
-          "name": "B Jones",
-          "url": "https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq"
-        }
-      ],
-      "duration_ms": 133250,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/5CSU4JAhrthmEap7ho6Iaz"
-    },
-    {
-      "added_at": "2026-08-06 22:02:37",
-      "album": {
-        "name": "Madness",
-        "url": "https://open.spotify.com/album/2RxoQZVEWaNX5VLZIaBU73"
-      },
-      "artists": [
-        {
-          "name": "Nifra",
-          "url": "https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Madness",
-      "url": "https://open.spotify.com/track/1N0SMPZllogg6bH4ueBSw4"
     },
     {
       "added_at": "2026-08-06 22:02:37",
@@ -1715,6 +1719,22 @@
     {
       "added_at": "2026-08-06 22:02:37",
       "album": {
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/2RxoQZVEWaNX5VLZIaBU73"
+      },
+      "artists": [
+        {
+          "name": "Nifra",
+          "url": "https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/1N0SMPZllogg6bH4ueBSw4"
+    },
+    {
+      "added_at": "2026-08-06 22:02:37",
+      "album": {
         "name": "United in Trance",
         "url": "https://open.spotify.com/album/5KYV3aAydAMqVtc6iJXNf4"
       },
@@ -1727,26 +1747,6 @@
       "duration_ms": 187445,
       "name": "United in Trance",
       "url": "https://open.spotify.com/track/41TpNZA3eQXrLxQTncVph2"
-    },
-    {
-      "added_at": "2026-08-06 22:02:37",
-      "album": {
-        "name": "Papaye",
-        "url": "https://open.spotify.com/album/3ItzPOTiOBnYfbqxisibyn"
-      },
-      "artists": [
-        {
-          "name": "Mauro Picotto",
-          "url": "https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp"
-        },
-        {
-          "name": "T78",
-          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
-        }
-      ],
-      "duration_ms": 194142,
-      "name": "Papaye",
-      "url": "https://open.spotify.com/track/5NWO87WOv9rDXcYmqxh7h5"
     },
     {
       "added_at": "2026-08-06 22:02:37",
@@ -1863,18 +1863,18 @@
     {
       "added_at": "2026-08-06 22:02:37",
       "album": {
-        "name": "I Can See It",
-        "url": "https://open.spotify.com/album/0JqqBPdvtxHWYGMdJ0vKnm"
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/3xVfY9ZhHPuISECdkKFXuw"
       },
       "artists": [
         {
-          "name": "Nifra",
-          "url": "https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A"
+          "name": "Ben Hemsley",
+          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
         }
       ],
-      "duration_ms": 172202,
-      "name": "I Can See It",
-      "url": "https://open.spotify.com/track/1TCMIkuXpCSu2uDdGDF12o"
+      "duration_ms": 236996,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/1vh33YCfjLR1bX0QoJGukE"
     },
     {
       "added_at": "2026-08-06 22:02:37",
@@ -1899,18 +1899,18 @@
     {
       "added_at": "2026-08-06 22:02:37",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/3xVfY9ZhHPuISECdkKFXuw"
+        "name": "I Can See It",
+        "url": "https://open.spotify.com/album/0JqqBPdvtxHWYGMdJ0vKnm"
       },
       "artists": [
         {
-          "name": "Ben Hemsley",
-          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
+          "name": "Nifra",
+          "url": "https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A"
         }
       ],
-      "duration_ms": 236996,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/1vh33YCfjLR1bX0QoJGukE"
+      "duration_ms": 172202,
+      "name": "I Can See It",
+      "url": "https://open.spotify.com/track/1TCMIkuXpCSu2uDdGDF12o"
     },
     {
       "added_at": "2026-08-06 22:02:37",
@@ -1983,30 +1983,6 @@
     {
       "added_at": "2026-08-06 22:02:37",
       "album": {
-        "name": "Imagination",
-        "url": "https://open.spotify.com/album/0GmTEDii8a1j4O8geUc1LG"
-      },
-      "artists": [
-        {
-          "name": "DOREY",
-          "url": "https://open.spotify.com/artist/5P7dSJOFqnDQ3oY1Q7z0id"
-        },
-        {
-          "name": "Amy Wiles",
-          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
-        },
-        {
-          "name": "KLP",
-          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
-        }
-      ],
-      "duration_ms": 222978,
-      "name": "Imagination",
-      "url": "https://open.spotify.com/track/1eZVcDPxhC6lMYJvUZrmOy"
-    },
-    {
-      "added_at": "2026-08-06 22:02:37",
-      "album": {
         "name": "In Circles",
         "url": "https://open.spotify.com/album/27P7tEDJJfKCZXqrLrw4yr"
       },
@@ -2039,6 +2015,30 @@
       "duration_ms": 190344,
       "name": "Unified",
       "url": "https://open.spotify.com/track/1RrQr6asuzJOBFSjWtqOUn"
+    },
+    {
+      "added_at": "2026-08-06 22:02:37",
+      "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/0GmTEDii8a1j4O8geUc1LG"
+      },
+      "artists": [
+        {
+          "name": "DOREY",
+          "url": "https://open.spotify.com/artist/5P7dSJOFqnDQ3oY1Q7z0id"
+        },
+        {
+          "name": "Amy Wiles",
+          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
+        },
+        {
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+        }
+      ],
+      "duration_ms": 222978,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/1eZVcDPxhC6lMYJvUZrmOy"
     },
     {
       "added_at": "2026-08-06 22:02:37",
@@ -2099,26 +2099,6 @@
     {
       "added_at": "2026-08-06 22:02:37",
       "album": {
-        "name": "Eclipsed By You",
-        "url": "https://open.spotify.com/album/6GXYZFNGrahhCloUbWFpC5"
-      },
-      "artists": [
-        {
-          "name": "HALIENE",
-          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
-        },
-        {
-          "name": "Ilan Bluestone",
-          "url": "https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn"
-        }
-      ],
-      "duration_ms": 236521,
-      "name": "Eclipsed By You",
-      "url": "https://open.spotify.com/track/2Kv90dB4Bc0nXScJcQVc2C"
-    },
-    {
-      "added_at": "2026-08-06 22:02:37",
-      "album": {
         "name": "When I Found You",
         "url": "https://open.spotify.com/album/3gftFtNaaZxWSrPzOBGKM9"
       },
@@ -2135,6 +2115,26 @@
       "duration_ms": 267428,
       "name": "When I Found You",
       "url": "https://open.spotify.com/track/7sKNFCASmjb4USs8M0BScb"
+    },
+    {
+      "added_at": "2026-08-06 22:02:37",
+      "album": {
+        "name": "Eclipsed By You",
+        "url": "https://open.spotify.com/album/6GXYZFNGrahhCloUbWFpC5"
+      },
+      "artists": [
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        },
+        {
+          "name": "Ilan Bluestone",
+          "url": "https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn"
+        }
+      ],
+      "duration_ms": 236521,
+      "name": "Eclipsed By You",
+      "url": "https://open.spotify.com/track/2Kv90dB4Bc0nXScJcQVc2C"
     },
     {
       "added_at": "2026-08-06 22:02:37",
@@ -2163,6 +2163,22 @@
     {
       "added_at": "2026-08-06 22:02:37",
       "album": {
+        "name": "Broken Tides",
+        "url": "https://open.spotify.com/album/2VRO8WvL4g0TnIv2L0N7QQ"
+      },
+      "artists": [
+        {
+          "name": "Gareth Emery",
+          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
+        }
+      ],
+      "duration_ms": 175425,
+      "name": "Broken Tides",
+      "url": "https://open.spotify.com/track/0S2J2eSoA2Ml569yBCyyHU"
+    },
+    {
+      "added_at": "2026-08-06 22:02:37",
+      "album": {
         "name": "On Repeat",
         "url": "https://open.spotify.com/album/4OPGJJLMAVTTSua5snkDRa"
       },
@@ -2179,22 +2195,6 @@
       "duration_ms": 210236,
       "name": "On Repeat",
       "url": "https://open.spotify.com/track/6EWpyMOKacMLSPhJ5VS0dt"
-    },
-    {
-      "added_at": "2026-08-06 22:02:37",
-      "album": {
-        "name": "Broken Tides",
-        "url": "https://open.spotify.com/album/2VRO8WvL4g0TnIv2L0N7QQ"
-      },
-      "artists": [
-        {
-          "name": "Gareth Emery",
-          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
-        }
-      ],
-      "duration_ms": 175425,
-      "name": "Broken Tides",
-      "url": "https://open.spotify.com/track/0S2J2eSoA2Ml569yBCyyHU"
     },
     {
       "added_at": "2026-08-06 22:02:37",

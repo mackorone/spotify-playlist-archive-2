@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,292 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,310 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Footwork Crazy](https://open.spotify.com/track/6NGQ7vAeiLmmQllGuNXosU) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Footwork Crazy](https://open.spotify.com/album/5GCu1RDfOKCV2VsW5VNxsN) | 2:22 |
+| 1 | [Believe In You](https://open.spotify.com/track/3rRXw9ayjnqHp1UWgV4v3x) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Believe In You](https://open.spotify.com/album/4seRkR0rcLldozKkPl3KXj) | 3:39 |
 | 2 | [Neil deGrasse Tyson](https://open.spotify.com/track/0Wy2tFzRGHH3VK7MRC9wkM) | [Pierce Freelon](https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG), [Mega Ran](https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I) | [Neil deGrasse Tyson](https://open.spotify.com/album/3K0obbj9ol6zT5yUZYPl4z) | 1:59 |
-| 3 | [Buckle Up](https://open.spotify.com/track/2LPcjCZ1u3PTw1DbdicVQQ) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Buckle Up](https://open.spotify.com/album/0Qdd1cj1LjniPsVxgsXH4r) | 2:31 |
-| 4 | [My Best Friend](https://open.spotify.com/track/2AwvfJ4pOCIEgTrXEclwJl) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [My Best Friend](https://open.spotify.com/album/0UgTBWkzfSVKQcikrW9SGz) | 1:49 |
+| 3 | [My Best Friend](https://open.spotify.com/track/2AwvfJ4pOCIEgTrXEclwJl) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [My Best Friend](https://open.spotify.com/album/0UgTBWkzfSVKQcikrW9SGz) | 1:49 |
+| 4 | [Footwork Crazy](https://open.spotify.com/track/6NGQ7vAeiLmmQllGuNXosU) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Footwork Crazy](https://open.spotify.com/album/5GCu1RDfOKCV2VsW5VNxsN) | 2:22 |
 | 5 | [Harmony](https://open.spotify.com/track/3KIQbhimKhUdiychQWegda) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Aura V](https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY) | [Harmony](https://open.spotify.com/album/6LGNhLhl9W6noLznBi2QA9) | 3:28 |
 | 6 | [Look Around Look Around](https://open.spotify.com/track/7DCaL9HkPOOs9kTg9R2r2A) | [Yo Gabba Gabba](https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF), [Biz Markie](https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4) | [Fantastic Voyages \(Deluxe Edition\)](https://open.spotify.com/album/1xPbUITaqSNC6N18gHUwpA) | 1:55 |
 | 7 | [In The Wind](https://open.spotify.com/track/5w4uphD0BOR3TWZGOPqBiy) | [Heiress Harris](https://open.spotify.com/artist/5ZZ2drHJAqO3ShfAQ7iSFe) | [In The Wind](https://open.spotify.com/album/3BGUDAu8LL5GSqyRSzxSiF) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 49 | [Hold On To Hope](https://open.spotify.com/track/1LersStKnGeVNUT22jV93Z) | [DJ WILLY WOW!](https://open.spotify.com/artist/1wrWCOgGgDPnyplXzAyphY), [Armand Hutton](https://open.spotify.com/artist/2tTTLk0nX4eKLe7H2o1nAA) | [Hip Hope For Kids!](https://open.spotify.com/album/6EV4fFV1l6P6s43QQSlBCo) | 1:19 |
 | 50 | [Best Day Ever](https://open.spotify.com/track/5zNvK3AfYvmMfb458bzUFY) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Okay to Be Different](https://open.spotify.com/album/79hcqBz6rqKuv1aMCJfx23) | 2:30 |
 
-Snapshot ID: `AAAAACvRTK2rrpywstijfoZEoUucep9b`
+Snapshot ID: `AAAAAHFwPYrlNHDUA8nsoLtiBIeXOOQh`

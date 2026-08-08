@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 
 > 🌱🌸🌾🌼
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,599 likes - 85 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,587 likes - 85 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 43 | [Der du brente vår bro \- Spotify Singles](https://open.spotify.com/track/3JJrV0alnSfJ6n9EtiqRk9) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Der du brente vår bro \- Spotify Singles](https://open.spotify.com/album/1HoKUWp7mHeJErg7rRWp5q) | 2:53 |
 | 44 | [SKJORTE & SLIPS](https://open.spotify.com/track/0XX70hZPPFTnPQRL7NlWYO) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [SKJORTE & SLIPS](https://open.spotify.com/album/2EmNWkiQvPfcyXZqbVsNnM) | 3:02 |
 | 45 | [Heavy Hearts](https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Nobody Lives Here](https://open.spotify.com/album/779IZOhupymkjX6dzygMl9) | 2:57 |
-| 46 | [Trist Masochist](https://open.spotify.com/track/0yoeRODvYNwCZ48uU6UdIh) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Trist Masochist](https://open.spotify.com/album/7Cet2u75IbkKllXpavjmA6) | 3:01 |
-| 47 | [Kite](https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Kite](https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4) | 2:46 |
+| 46 | [Kite](https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Kite](https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4) | 2:46 |
+| 47 | [Trist Masochist](https://open.spotify.com/track/0yoeRODvYNwCZ48uU6UdIh) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Trist Masochist](https://open.spotify.com/album/7Cet2u75IbkKllXpavjmA6) | 3:01 |
 | 48 | [Det går bra](https://open.spotify.com/track/1a7vBJg7GDMy5ClHexkfvv) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv), [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Det går bra](https://open.spotify.com/album/3QIyVTcQmGRyUPjzvw6PwF) | 3:17 |
 | 49 | [Don't Let Me Go](https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Let Me Go](https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o) | 4:52 |
 | 50 | [Jeg spør for en venn](https://open.spotify.com/track/2icHHKPqztIkn5neapSswk) | [Zimmermann](https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB) | [Jeg spør for en venn](https://open.spotify.com/album/1fwGUwoY9ipUsVm45sCiJy) | 3:13 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 56 | [Love Freely](https://open.spotify.com/track/3tzRMtdyVxmfPCmOS6vD9q) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Love Freely](https://open.spotify.com/album/6D8D2LMhVQ1XSk8atnhWgs) | 3:52 |
 | 57 | [Tilgi meg](https://open.spotify.com/track/63vUyufO95aS79JbSStPQ3) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tilgi meg](https://open.spotify.com/album/0PeseGCutFbpKCQdW6Gbo0) | 4:24 |
 | 58 | [A Lovestory](https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [A Lovestory](https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT) | 3:04 |
-| 59 | [American Wedding](https://open.spotify.com/track/0hGpO1KkCV1DKmIp0Nt942) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [American Wedding](https://open.spotify.com/album/4zczMW68cS6edG4PEwrw8G) | 3:11 |
-| 60 | [Venter du](https://open.spotify.com/track/4MWldeK06AisUkSYARj8YD) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV), [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Venter du](https://open.spotify.com/album/33rnPbG5uBGM1klUO46Arc) | 2:37 |
+| 59 | [Venter du](https://open.spotify.com/track/4MWldeK06AisUkSYARj8YD) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV), [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Venter du](https://open.spotify.com/album/33rnPbG5uBGM1klUO46Arc) | 2:37 |
+| 60 | [American Wedding](https://open.spotify.com/track/0hGpO1KkCV1DKmIp0Nt942) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [American Wedding](https://open.spotify.com/album/4zczMW68cS6edG4PEwrw8G) | 3:11 |
 | 61 | [jeg holder pusten til du drar](https://open.spotify.com/track/17p6Y3tYZpnESAcFIMDPOJ) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [jeg holder pusten til du drar](https://open.spotify.com/album/3o43FGM9DQK2wqq27KBUxx) | 3:05 |
 | 62 | [Volare](https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Volare](https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg) | 2:38 |
 | 63 | [Delt i to](https://open.spotify.com/track/0kL2WXiMfgkDZFYwyRjvxZ) | [Ingrid Vårvik](https://open.spotify.com/artist/0EZzUcdUUvHZbw77Cmy5uU) | [Delt i to](https://open.spotify.com/album/1HZ2QKz0QAnDM7O6nk1cSN) | 3:15 |
@@ -86,12 +86,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 76 | [Oppe på månen](https://open.spotify.com/track/4PtFehKH1ric4In2Mc5Asg) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Oppe på månen](https://open.spotify.com/album/2D2Q25zXzCo9uu8OydjVyl) | 3:35 |
 | 77 | [Solgangsbrisen](https://open.spotify.com/track/626qkh7TKnfFExq5ii9Ydo) | [Erik Og Kriss](https://open.spotify.com/artist/2rCu8D8ST7i3lUILyB3yQR), [Postgirobygget](https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb) | [Solgangsbrisen](https://open.spotify.com/album/2ZZilqPweQYV1LiFkKC3V6) | 3:25 |
 | 78 | [Finaste så finns](https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Finaste så finns](https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1) | 3:10 |
-| 79 | [Automatic](https://open.spotify.com/track/0PEcIO2gpBApHbsVSlRaPh) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Automatic](https://open.spotify.com/album/43UHKjoE3zZjtiD9nmIt0A) | 2:57 |
-| 80 | [Skyfri himmel](https://open.spotify.com/track/1zQPWQuZRK63pvxAVhC9za) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [Skyfri himmel](https://open.spotify.com/album/1ZMfhQD8MkMGSqydaXAGgN) | 3:45 |
+| 79 | [Skyfri himmel](https://open.spotify.com/track/1zQPWQuZRK63pvxAVhC9za) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [Skyfri himmel](https://open.spotify.com/album/1ZMfhQD8MkMGSqydaXAGgN) | 3:45 |
+| 80 | [Automatic](https://open.spotify.com/track/0PEcIO2gpBApHbsVSlRaPh) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Automatic](https://open.spotify.com/album/43UHKjoE3zZjtiD9nmIt0A) | 2:57 |
 | 81 | [Hva vi kunne bli](https://open.spotify.com/track/11A6wBoTeemgHHuCotUL3u) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Hva vi kunne bli](https://open.spotify.com/album/0UG3jUBKtxD87IoznNgrev) | 2:55 |
 | 82 | [Gjesten på festen](https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Kanskje det går te helvete](https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8) | 2:26 |
 | 83 | [Alchemy \(Living Is Not For The Heart\)](https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Again, for the first time](https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd) | 3:39 |
 | 84 | [Unge til vi dør \(versjon for sene sommerkvelder\)](https://open.spotify.com/track/2HFsrCH2JYjZab8ri57IHu) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Unge til vi dør \(versjon for sene sommerkvelder\)](https://open.spotify.com/album/5STy4nlkQA5ENGxsUqXkX8) | 2:15 |
 | 85 | [Lykke til pappa](https://open.spotify.com/track/2i8HqCbclrZUaN1PexNjy9) | [Musti](https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Lykke til pappa](https://open.spotify.com/album/1C7ut96iQoRm9adHiyukPU) | 2:39 |
 
-Snapshot ID: `AAAAAMvwAonQRU61i8qB5fHzR5gglWCq`
+Snapshot ID: `AAAAABYGJFKMh+jYRvT47iNfZESASJBj`

@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 130561,
+  "num_followers": 130571,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAAJ8iUlCbeM0qHJlChH+ckM",
+  "snapshot_id": "anPOgAAAAABBEppktLfknQv+kokU8K0S",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Directo Hasta Arriba Vol.2",
-        "url": "https://open.spotify.com/album/4mKBizouQK5HBdsuIgcHSG"
+        "name": "Mala Fama, Buena Vidha",
+        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
       },
       "artists": [
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 237000,
-      "name": "Ey Mezcal",
-      "url": "https://open.spotify.com/track/61daymnimlsL1IkJuO5LeH"
+      "duration_ms": 263453,
+      "name": "Me Voy a Poner Bien Loco",
+      "url": "https://open.spotify.com/track/4xbNMe4G2amgUB6tntDw6c"
     },
     {
       "added_at": null,
@@ -435,6 +431,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Directo Hasta Arriba Vol.2",
+        "url": "https://open.spotify.com/album/4mKBizouQK5HBdsuIgcHSG"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Ey Mezcal",
+      "url": "https://open.spotify.com/track/61daymnimlsL1IkJuO5LeH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Diablo, La Muerte y Yo",
+        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 214210,
+      "name": "No te puedo olvidar",
+      "url": "https://open.spotify.com/track/1CGKE1aNJ9gW2jRsfD0mZv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mala Fama, Buena Vidha",
         "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
       },
@@ -444,15 +480,15 @@
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 263453,
-      "name": "Me Voy a Poner Bien Loco",
-      "url": "https://open.spotify.com/track/4xbNMe4G2amgUB6tntDw6c"
+      "duration_ms": 270093,
+      "name": "Mala Fama, Buena Vidha",
+      "url": "https://open.spotify.com/track/6Ov2J0ExzEMhj6hVirzpWt"
     },
     {
       "added_at": null,
       "album": {
-        "name": "ALV TODOS",
-        "url": "https://open.spotify.com/album/02lhVJUr51n29j8BesGnUM"
+        "name": "Directo Hasta Arriba",
+        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
       },
       "artists": [
         {
@@ -460,9 +496,9 @@
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 245333,
-      "name": "ALV TODOS",
-      "url": "https://open.spotify.com/track/76akywa2I8JChhWVpGQv01"
+      "duration_ms": 195986,
+      "name": "L\u00edrica On\u00edrica",
+      "url": "https://open.spotify.com/track/5mqq5G8HU0Ep1PUCE4dh31"
     },
     {
       "added_at": null,
@@ -487,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Directo Hasta Arriba",
-        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
+        "name": "ALV TODOS",
+        "url": "https://open.spotify.com/album/02lhVJUr51n29j8BesGnUM"
       },
       "artists": [
         {
@@ -496,45 +532,9 @@
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 195986,
-      "name": "L\u00edrica On\u00edrica",
-      "url": "https://open.spotify.com/track/5mqq5G8HU0Ep1PUCE4dh31"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mala Fama, Buena Vidha",
-        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 270093,
-      "name": "Mala Fama, Buena Vidha",
-      "url": "https://open.spotify.com/track/6Ov2J0ExzEMhj6hVirzpWt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Diablo, La Muerte y Yo",
-        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 214210,
-      "name": "No te puedo olvidar",
-      "url": "https://open.spotify.com/track/1CGKE1aNJ9gW2jRsfD0mZv"
+      "duration_ms": 245333,
+      "name": "ALV TODOS",
+      "url": "https://open.spotify.com/track/76akywa2I8JChhWVpGQv01"
     },
     {
       "added_at": null,
@@ -675,22 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "16 Toneladas",
-        "url": "https://open.spotify.com/album/38IwbkRgxq4eMIAR6MLU8j"
+        "name": "Recia",
+        "url": "https://open.spotify.com/album/2lCjZdvsSzI9W79U5nmp5p"
       },
       "artists": [
         {
-          "name": "Tiro Loko",
-          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
         },
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 206726,
-      "name": "16 Toneladas",
-      "url": "https://open.spotify.com/track/2zbrhonzYrXKiUbVx2czQt"
+      "duration_ms": 237419,
+      "name": "Recia",
+      "url": "https://open.spotify.com/track/1BXba3d3aIzvM4wgn8hSVC"
     },
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recia",
-        "url": "https://open.spotify.com/album/2lCjZdvsSzI9W79U5nmp5p"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 237419,
-      "name": "Recia",
-      "url": "https://open.spotify.com/track/1BXba3d3aIzvM4wgn8hSVC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VNDO",
         "url": "https://open.spotify.com/album/6IMVC2fXSxKfLJ8FI2rYp3"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 231529,
       "name": "VNDO",
       "url": "https://open.spotify.com/track/62lcIAirqahXFb9EM2gNjP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "16 Toneladas",
+        "url": "https://open.spotify.com/album/38IwbkRgxq4eMIAR6MLU8j"
+      },
+      "artists": [
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 206726,
+      "name": "16 Toneladas",
+      "url": "https://open.spotify.com/track/2zbrhonzYrXKiUbVx2czQt"
     },
     {
       "added_at": null,
@@ -827,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Diablo, La Muerte y Yo",
+        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 205196,
+      "name": "El Diablo, La Muerte y Yo",
+      "url": "https://open.spotify.com/track/175Ot7nFFqxNIZ34C0wcfw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Estrafalario",
         "url": "https://open.spotify.com/album/7lO0gX1rSWXYO9gnUqpY1p"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 160150,
       "name": "Sin Dormir (Ya Se Arm\u00f3)",
       "url": "https://open.spotify.com/track/1HfHDbNHzafjjxnLoAobRA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Diablo, La Muerte y Yo",
-        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 205196,
-      "name": "El Diablo, La Muerte y Yo",
-      "url": "https://open.spotify.com/track/175Ot7nFFqxNIZ34C0wcfw"
     },
     {
       "added_at": null,

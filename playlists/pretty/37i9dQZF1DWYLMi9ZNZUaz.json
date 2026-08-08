@@ -1,12 +1,12 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: RPT MCK\n",
-  "num_followers": 123447,
+  "num_followers": 123459,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKLY5j6Pmju5W6QeNcUwbcos1A5J",
+  "snapshot_id": "AAAAAAz3DRt1x65WFynJfg5Dbonuw1TM",
   "tracks": [
     {
       "added_at": "2026-07-30 17:00:28",
@@ -123,30 +123,6 @@
     {
       "added_at": "2026-07-30 17:00:28",
       "album": {
-        "name": "M\u1ed9t N\u1eeda S\u1ef1 Th\u1eadt",
-        "url": "https://open.spotify.com/album/0UgMx9HBZHHmpxg0l5A13I"
-      },
-      "artists": [
-        {
-          "name": "24k.Right",
-          "url": "https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0"
-        },
-        {
-          "name": "Ng\u1eafn",
-          "url": "https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P"
-        },
-        {
-          "name": "Hipz",
-          "url": "https://open.spotify.com/artist/3g8l4a4JtYNpYKqSMZMnK0"
-        }
-      ],
-      "duration_ms": 230036,
-      "name": "M\u1ed9t N\u1eeda S\u1ef1 Th\u1eadt",
-      "url": "https://open.spotify.com/track/0pavLg3wbL6PVXAgXoWv4S"
-    },
-    {
-      "added_at": "2026-07-30 17:00:28",
-      "album": {
         "name": "Ch\u1ecbu C\u00e1ch M\u00ecnh N\u00f3i Thua",
         "url": "https://open.spotify.com/album/6H01GjpEb6taXvwiqEzpFy"
       },
@@ -167,6 +143,30 @@
       "duration_ms": 181558,
       "name": "Ch\u1ecbu C\u00e1ch M\u00ecnh N\u00f3i Thua",
       "url": "https://open.spotify.com/track/3ZbZtdEw9U0uZW4tZItIwq"
+    },
+    {
+      "added_at": "2026-07-30 17:00:28",
+      "album": {
+        "name": "M\u1ed9t N\u1eeda S\u1ef1 Th\u1eadt",
+        "url": "https://open.spotify.com/album/0UgMx9HBZHHmpxg0l5A13I"
+      },
+      "artists": [
+        {
+          "name": "24k.Right",
+          "url": "https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0"
+        },
+        {
+          "name": "Ng\u1eafn",
+          "url": "https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P"
+        },
+        {
+          "name": "Hipz",
+          "url": "https://open.spotify.com/artist/3g8l4a4JtYNpYKqSMZMnK0"
+        }
+      ],
+      "duration_ms": 230036,
+      "name": "M\u1ed9t N\u1eeda S\u1ef1 Th\u1eadt",
+      "url": "https://open.spotify.com/track/0pavLg3wbL6PVXAgXoWv4S"
     },
     {
       "added_at": "2026-07-30 17:00:28",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-07-30 17:00:28",
       "album": {
-        "name": "\u0110\u00d4I CH\u00c2N \u0110I",
-        "url": "https://open.spotify.com/album/5RqSAt1rbN0shxXTcZkWRs"
-      },
-      "artists": [
-        {
-          "name": "Ricky Star",
-          "url": "https://open.spotify.com/artist/4jQZaxfgwiUJFQagCyZNV4"
-        }
-      ],
-      "duration_ms": 344276,
-      "name": "T\u1ea5m L\u00f2ng C\u1eedu Long",
-      "url": "https://open.spotify.com/track/6roVxIZN2frBQoXFomdWW5"
-    },
-    {
-      "added_at": "2026-07-30 17:00:28",
-      "album": {
         "name": "TO LOVE AND BE LOVED",
         "url": "https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ"
       },
@@ -903,6 +887,22 @@
     {
       "added_at": "2026-07-30 17:00:28",
       "album": {
+        "name": "\u0110\u00d4I CH\u00c2N \u0110I",
+        "url": "https://open.spotify.com/album/5RqSAt1rbN0shxXTcZkWRs"
+      },
+      "artists": [
+        {
+          "name": "Ricky Star",
+          "url": "https://open.spotify.com/artist/4jQZaxfgwiUJFQagCyZNV4"
+        }
+      ],
+      "duration_ms": 344276,
+      "name": "T\u1ea5m L\u00f2ng C\u1eedu Long",
+      "url": "https://open.spotify.com/track/6roVxIZN2frBQoXFomdWW5"
+    },
+    {
+      "added_at": "2026-07-30 17:00:28",
+      "album": {
         "name": "Cho B\u1ea3o",
         "url": "https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9"
       },
@@ -915,26 +915,6 @@
       "duration_ms": 244752,
       "name": "C\u00f2n Ai Ngo\u00e0i Anh V\u1edbi Em",
       "url": "https://open.spotify.com/track/0BR4Hdge19djSuyrU0kT9F"
-    },
-    {
-      "added_at": "2026-07-30 17:00:28",
-      "album": {
-        "name": "HOP ON DA SHOW",
-        "url": "https://open.spotify.com/album/3YLqrwhIaMVzzvpuPG1dmb"
-      },
-      "artists": [
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
-        },
-        {
-          "name": "Low G",
-          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
-        }
-      ],
-      "duration_ms": 175876,
-      "name": "HOP ON DA SHOW",
-      "url": "https://open.spotify.com/track/0SLzsfxED15vyUccX4bCqo"
     },
     {
       "added_at": "2026-07-30 17:00:28",
@@ -959,22 +939,22 @@
     {
       "added_at": "2026-07-30 17:00:28",
       "album": {
-        "name": "Ch\u01b0a Ph\u1ea3i L\u00e0 Y\u00eau",
-        "url": "https://open.spotify.com/album/4nW7OOyf9zwlzAfsfEpvbd"
+        "name": "HOP ON DA SHOW",
+        "url": "https://open.spotify.com/album/3YLqrwhIaMVzzvpuPG1dmb"
       },
       "artists": [
         {
-          "name": "HURRYKNG",
-          "url": "https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV"
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
         },
         {
-          "name": "REX",
-          "url": "https://open.spotify.com/artist/2cVTYSIzatkm0RXjOGsHb4"
+          "name": "Low G",
+          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
         }
       ],
-      "duration_ms": 192631,
-      "name": "Ch\u01b0a Ph\u1ea3i L\u00e0 Y\u00eau",
-      "url": "https://open.spotify.com/track/7CuYlxVy87LrB2pQOP6i9z"
+      "duration_ms": 175876,
+      "name": "HOP ON DA SHOW",
+      "url": "https://open.spotify.com/track/0SLzsfxED15vyUccX4bCqo"
     },
     {
       "added_at": "2026-07-30 17:00:28",
@@ -995,6 +975,26 @@
       "duration_ms": 340724,
       "name": "Mu\u1ed1n anh \u0111au",
       "url": "https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf"
+    },
+    {
+      "added_at": "2026-07-30 17:00:28",
+      "album": {
+        "name": "Ch\u01b0a Ph\u1ea3i L\u00e0 Y\u00eau",
+        "url": "https://open.spotify.com/album/4nW7OOyf9zwlzAfsfEpvbd"
+      },
+      "artists": [
+        {
+          "name": "HURRYKNG",
+          "url": "https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV"
+        },
+        {
+          "name": "REX",
+          "url": "https://open.spotify.com/artist/2cVTYSIzatkm0RXjOGsHb4"
+        }
+      ],
+      "duration_ms": 192631,
+      "name": "Ch\u01b0a Ph\u1ea3i L\u00e0 Y\u00eau",
+      "url": "https://open.spotify.com/track/7CuYlxVy87LrB2pQOP6i9z"
     },
     {
       "added_at": "2026-07-30 17:00:28",

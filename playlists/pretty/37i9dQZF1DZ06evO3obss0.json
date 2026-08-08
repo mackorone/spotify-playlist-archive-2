@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 189865,
+  "num_followers": 189921,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAADeI6+ssorX519VnETbzYG8",
+  "snapshot_id": "anPOgAAAAAAuDl08u2dSx7IfHhEhD69K",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "To Love Somebody",
-        "url": "https://open.spotify.com/album/5mjfq6PQcF4RIDw9X30Zm1"
+        "name": "Genesis.",
+        "url": "https://open.spotify.com/album/7hYLel5p7npCbhAbkaGqvW"
       },
       "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        },
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 241574,
-      "name": "Perfect Day - featuring RAYE",
-      "url": "https://open.spotify.com/track/2c9sIf5jLjqItQovMOZxqe"
+      "duration_ms": 208836,
+      "name": "Genesis, pt. ii",
+      "url": "https://open.spotify.com/track/1qvgsMTiNL4WwUnQ9yMz2m"
     },
     {
       "added_at": null,
@@ -539,18 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Genesis.",
-        "url": "https://open.spotify.com/album/7hYLel5p7npCbhAbkaGqvW"
+        "name": "To Love Somebody",
+        "url": "https://open.spotify.com/album/5mjfq6PQcF4RIDw9X30Zm1"
       },
       "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        },
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 208836,
-      "name": "Genesis, pt. ii",
-      "url": "https://open.spotify.com/track/1qvgsMTiNL4WwUnQ9yMz2m"
+      "duration_ms": 241574,
+      "name": "Perfect Day - featuring RAYE",
+      "url": "https://open.spotify.com/track/2c9sIf5jLjqItQovMOZxqe"
     },
     {
       "added_at": null,

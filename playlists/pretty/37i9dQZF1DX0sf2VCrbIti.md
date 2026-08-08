@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 
 > Que no falte la música, la familia y los amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,860 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,859 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 | 74 | [Cinco Pa' las 12](https://open.spotify.com/track/7mSmItMB11IWTIEOVKLxuG) | [Néstor Zavarce](https://open.spotify.com/artist/40hVyUyiL8MHh9BhvxI6Gr) | [Cinco Pa' las 12](https://open.spotify.com/album/1b14IxxvdVhUXvDmEgAzp2) | 3:01 |
 | 75 | [Viejo Año](https://open.spotify.com/track/3RLWyrjTXerpJrIXsuVxLr) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Las Mejores Gaitas Vol.2](https://open.spotify.com/album/7eDVGI2esAhKDPeNiOYx3S) | 3:16 |
 
-Snapshot ID: `AAAAADnrL3ApqZuvYC198iyZT6FQhzNC`
+Snapshot ID: `AAAAAAGYNsYp02gq419MwEAvKCukSw/I`

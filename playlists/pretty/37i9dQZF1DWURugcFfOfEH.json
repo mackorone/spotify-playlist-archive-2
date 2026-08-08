@@ -1,12 +1,12 @@
 {
   "description": "good vibes, all the time",
-  "num_followers": 453507,
+  "num_followers": 453557,
   "original_name": "good energy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGbqGKZlPZi8WGl8ox3pV7WsCxv9",
+  "snapshot_id": "AAAAAFwOOUETFf222CDoQVcEOOajf75G",
   "tracks": [
     {
       "added_at": "2026-06-18 20:32:33",
@@ -475,6 +475,22 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 116630,
+      "name": "Funny Thing",
+      "url": "https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
         "name": "Phone Numbers",
         "url": "https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 146826,
       "name": "Phone Numbers",
       "url": "https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 116630,
-      "name": "Funny Thing",
-      "url": "https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "Big Ideas",
-        "url": "https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 213116,
-      "name": "Soup",
-      "url": "https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 177666,
       "name": "3 Nights",
       "url": "https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "Big Ideas",
+        "url": "https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 213116,
+      "name": "Soup",
+      "url": "https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "Both Of Us",
-        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 229424,
-      "name": "Both Of Us - Edit",
-      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 186277,
       "name": "SEEIN\u2019 STARS",
       "url": "https://open.spotify.com/track/2Z4nIITCxUoaZvFug5FxtO"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "Both Of Us",
+        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 229424,
+      "name": "Both Of Us - Edit",
+      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "The Afterparty",
-        "url": "https://open.spotify.com/album/3eqH5aQKPKLKD1kFNBczwl"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 181550,
-      "name": "Lucky Again",
-      "url": "https://open.spotify.com/track/2MdZ3S4bMOqBRPvY2hlGNZ"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "No More Lies",
         "url": "https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 327217,
       "name": "No More Lies",
       "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "The Afterparty",
+        "url": "https://open.spotify.com/album/3eqH5aQKPKLKD1kFNBczwl"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 181550,
+      "name": "Lucky Again",
+      "url": "https://open.spotify.com/track/2MdZ3S4bMOqBRPvY2hlGNZ"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "L.U.C.K.Y",
-        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 138706,
-      "name": "L.U.C.K.Y",
-      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "Hyperdrama",
         "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
       },
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
+        "name": "L.U.C.K.Y",
+        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 138706,
+      "name": "L.U.C.K.Y",
+      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
         "name": "300 dreams",
         "url": "https://open.spotify.com/album/3IgDyLUkygCEyfG7CsZyzB"
       },
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": ":)",
-        "url": "https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo"
-      },
-      "artists": [
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        }
-      ],
-      "duration_ms": 180568,
-      "name": ":)",
-      "url": "https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "Earthstar Mountain",
         "url": "https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 246761,
       "name": "Summer Sweat",
       "url": "https://open.spotify.com/track/539XSJouqOZlQlz1wEiakF"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": ":)",
+        "url": "https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "duration_ms": 180568,
+      "name": ":)",
+      "url": "https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN"
     },
     {
       "added_at": "2026-06-18 20:32:33",

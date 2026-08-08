@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 14903,
+  "num_followers": 14910,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAACTOCZ+uUDg9ao2ZKzl0zN1",
+  "snapshot_id": "anPOgAAAAAC0voi1e/fuLSKqoMUBSIDr",
   "tracks": [
     {
       "added_at": null,
@@ -287,26 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Up and See",
-        "url": "https://open.spotify.com/album/3pv7jABm0LT7rfYMcZ5BFf"
-      },
-      "artists": [
-        {
-          "name": "King Paluta",
-          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 216737,
-      "name": "Give Up and See",
-      "url": "https://open.spotify.com/track/7oeDsbL96qpvc19iGFp59f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highest",
         "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 201750,
       "name": "Glory",
       "url": "https://open.spotify.com/track/5KLFqxmGAZKj3HpGzExiZR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give Up and See",
+        "url": "https://open.spotify.com/album/3pv7jABm0LT7rfYMcZ5BFf"
+      },
+      "artists": [
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 216737,
+      "name": "Give Up and See",
+      "url": "https://open.spotify.com/track/7oeDsbL96qpvc19iGFp59f"
     },
     {
       "added_at": null,
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Have Mercy 2",
-        "url": "https://open.spotify.com/album/4iVKlmCDADFXGJOP30ABDj"
-      },
-      "artists": [
-        {
-          "name": "Kofi Kinaata",
-          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 201627,
-      "name": "Have Mercy 2",
-      "url": "https://open.spotify.com/track/14EbD3WNLZCFvhd6mEuW8m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 185196,
       "name": "Coachella",
       "url": "https://open.spotify.com/track/28VXhY9rrvBAc8qcxyb8oA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Have Mercy 2",
+        "url": "https://open.spotify.com/album/4iVKlmCDADFXGJOP30ABDj"
+      },
+      "artists": [
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 201627,
+      "name": "Have Mercy 2",
+      "url": "https://open.spotify.com/track/14EbD3WNLZCFvhd6mEuW8m"
     },
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oluwa Ni (Wemi You)",
-        "url": "https://open.spotify.com/album/2gjBzVBVGgBun17xS9PJqz"
-      },
-      "artists": [
-        {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 197467,
-      "name": "Oluwa Ni (Wemi You)",
-      "url": "https://open.spotify.com/track/4mZkl4BhKlzkYnqgYweg1W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lavida Loca (feat. Lasmid)",
         "url": "https://open.spotify.com/album/36tSpQ2NiV5tpcQdXzTimB"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 159292,
       "name": "Lavida Loca (feat. Lasmid)",
       "url": "https://open.spotify.com/track/1u0z0PIBWpwoMtHef097fN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oluwa Ni (Wemi You)",
+        "url": "https://open.spotify.com/album/2gjBzVBVGgBun17xS9PJqz"
+      },
+      "artists": [
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 197467,
+      "name": "Oluwa Ni (Wemi You)",
+      "url": "https://open.spotify.com/track/4mZkl4BhKlzkYnqgYweg1W"
     },
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/00Z9ROeJxC7gmFMcNblg3U"
-      },
-      "artists": [
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 225349,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/1CHhtwarGh5rS9TsY4voW7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BADDIES <3 MOLIY",
         "url": "https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 170078,
       "name": "ACCRA GIRLS",
       "url": "https://open.spotify.com/track/2s01mh0dsFDn4lDCBbCnxD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/00Z9ROeJxC7gmFMcNblg3U"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 225349,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/1CHhtwarGh5rS9TsY4voW7"
     },
     {
       "added_at": null,
@@ -927,22 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sarkology",
-        "url": "https://open.spotify.com/album/7zNJevs3UMsQZ4pPMov7VB"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Original",
-      "url": "https://open.spotify.com/track/3AeYPcgBAAno6njUHKRixA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Love",
         "url": "https://open.spotify.com/album/4hPzCGUS1pXGK533LHm0gN"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 191719,
       "name": "Anadwo",
       "url": "https://open.spotify.com/track/727FNLOrz4Wj4KhTRMRlEv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sarkology",
+        "url": "https://open.spotify.com/album/7zNJevs3UMsQZ4pPMov7VB"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Original",
+      "url": "https://open.spotify.com/track/3AeYPcgBAAno6njUHKRixA"
     },
     {
       "added_at": null,
@@ -983,26 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rapperholic",
-        "url": "https://open.spotify.com/album/2LBG3MIAzKOQY17zmkC7w8"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "E.L",
-          "url": "https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel"
-        }
-      ],
-      "duration_ms": 225671,
-      "name": "U Go Kill Me",
-      "url": "https://open.spotify.com/track/5teexiiQGCgYUrZX1WUKsH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M3Gye Wo Girl",
         "url": "https://open.spotify.com/album/0Hj7mjkuVK8u6Lf4sGrV4t"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 206896,
       "name": "M3Gye Wo Girl",
       "url": "https://open.spotify.com/track/1GrasNMqiO24le1C5KTeKN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rapperholic",
+        "url": "https://open.spotify.com/album/2LBG3MIAzKOQY17zmkC7w8"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "E.L",
+          "url": "https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel"
+        }
+      ],
+      "duration_ms": 225671,
+      "name": "U Go Kill Me",
+      "url": "https://open.spotify.com/track/5teexiiQGCgYUrZX1WUKsH"
     }
   ],
   "unique_name": "This Is Sarkodie",

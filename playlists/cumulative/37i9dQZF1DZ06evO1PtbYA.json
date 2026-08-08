@@ -1213,6 +1213,28 @@
     },
     {
       "album": {
+        "name": "THAT GIRL!",
+        "url": "https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132817,
+      "name": "THAT GIRL!",
+      "url": "https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H"
+    },
+    {
+      "album": {
         "name": "REAL, Vol. 1",
         "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
       },

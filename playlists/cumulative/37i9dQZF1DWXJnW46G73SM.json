@@ -17619,6 +17619,24 @@
     },
     {
       "album": {
+        "name": "\u0631\u0648\u0645\u064a\u0648",
+        "url": "https://open.spotify.com/album/7FjY0vyEd48SMhzHhWnwrC"
+      },
+      "artists": [
+        {
+          "name": "RAMY",
+          "url": "https://open.spotify.com/artist/7nLFVXAvSbhHfbBMHbr0nS"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181898,
+      "name": "SENGARY",
+      "url": "https://open.spotify.com/track/0KUmgVeluvgfpXbwxd5N1b"
+    },
+    {
+      "album": {
         "name": "Setohom",
         "url": "https://open.spotify.com/album/0FUQtskWerR5kanIdP0uG2"
       },

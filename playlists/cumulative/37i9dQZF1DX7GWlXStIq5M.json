@@ -3106,7 +3106,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 136089,
       "name": "Bem Bem",
       "url": "https://open.spotify.com/track/4NrrOkdXOKs1Wpwhr7iwQm"
@@ -4014,6 +4014,32 @@
       "duration_ms": 138000,
       "name": "Calma, Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2PMQjmqO8zx7snTtDCemuM"
+    },
+    {
+      "album": {
+        "name": "calma\u00ea / cita\u00e7\u00e3o: baba",
+        "url": "https://open.spotify.com/album/6RhKtIVwurttohFmrZHRfO"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "calma\u00ea / cita\u00e7\u00e3o: baba",
+      "url": "https://open.spotify.com/track/5Q7BYad7ILgnS7OeU9Wp5N"
     },
     {
       "album": {
@@ -15558,7 +15584,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 179277,
       "name": "O Que Eu Fa\u00e7o Agora?",
       "url": "https://open.spotify.com/track/2TljaRKmDH3pWvzL2t0I9s"
@@ -24452,6 +24478,24 @@
       "duration_ms": 316293,
       "name": "Vergonha Pra M\u00eddia 2 - O Retorno do Jedi",
       "url": "https://open.spotify.com/track/2iHe4RNM0IzIoPH3dq34jv"
+    },
+    {
+      "album": {
+        "name": "Vers\u00e3o dos Fatos",
+        "url": "https://open.spotify.com/album/0vCIwEQEXgnA307CUkZnzB"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162532,
+      "name": "Vers\u00e3o dos Fatos",
+      "url": "https://open.spotify.com/track/74Pnj9e2bIOMjoCa5auwsk"
     },
     {
       "album": {

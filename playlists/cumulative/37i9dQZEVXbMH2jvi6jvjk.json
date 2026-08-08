@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 160104,
       "name": "Abakhongi",
       "url": "https://open.spotify.com/track/1mpiLPRPR1AYvpOICVA5wx"
@@ -3426,7 +3426,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-25",
+      "date_removed": null,
       "duration_ms": 293050,
       "name": "Amazwe",
       "url": "https://open.spotify.com/track/4A6U9iDOEAO2EfvbjBJuSN"
@@ -30334,7 +30334,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 305084,
       "name": "LALELA",
       "url": "https://open.spotify.com/track/4Ke3JZ2L1kvomFvDKwERxW"
@@ -31462,7 +31462,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 249120,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/7GaFYUqP2WdR4KTPk7cXoP"
@@ -47092,7 +47092,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-05",
+      "date_removed": null,
       "duration_ms": 284444,
       "name": "Sabela",
       "url": "https://open.spotify.com/track/18CIBGXAkIeZhwzJt4uT2k"
@@ -54206,6 +54206,28 @@
       "duration_ms": 308820,
       "name": "Texts Go Green",
       "url": "https://open.spotify.com/track/7a5fliY9SsZENrQWQBZron"
+    },
+    {
+      "album": {
+        "name": "TEZE",
+        "url": "https://open.spotify.com/album/07Mrm3YPvCqZidPGhiUtpy"
+      },
+      "artists": [
+        {
+          "name": "W4DE",
+          "url": "https://open.spotify.com/artist/0rkl0hmiFT3sfcRFm7gzHi"
+        },
+        {
+          "name": "Royal MusiQ",
+          "url": "https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350475,
+      "name": "TEZE",
+      "url": "https://open.spotify.com/track/22lzLVsOQasHbhIByuuJvj"
     },
     {
       "album": {

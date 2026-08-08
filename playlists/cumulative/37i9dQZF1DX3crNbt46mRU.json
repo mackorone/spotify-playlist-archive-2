@@ -13733,6 +13733,24 @@
     },
     {
       "album": {
+        "name": "Adiletten",
+        "url": "https://open.spotify.com/album/4iLFOJo02fshpnaRoFtOcr"
+      },
+      "artists": [
+        {
+          "name": "Filow",
+          "url": "https://open.spotify.com/artist/0BRUlYcw8Rr4MGHe8kRgTv"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155760,
+      "name": "Adiletten",
+      "url": "https://open.spotify.com/track/4zVzZIeVtPEEZg0iAoWEX7"
+    },
+    {
+      "album": {
         "name": "Adiletten & Wei\u00dfwein",
         "url": "https://open.spotify.com/album/0v4pbVrNxoSCBNopDYmCU4"
       },
@@ -277571,7 +277589,7 @@
         },
         {
           "name": "Maurice",
-          "url": "https://open.spotify.com/artist/5U8z7YZPfu66haFS221lgE"
+          "url": "https://open.spotify.com/artist/71ISd9r7s72oVofsujmIiu"
         }
       ],
       "date_added": "2026-08-06",
@@ -320000,12 +320018,12 @@
           "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
         },
         {
-          "name": "Gustav",
-          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
-        },
-        {
           "name": "Zachi",
           "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
+        },
+        {
+          "name": "Gustav",
+          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
         }
       ],
       "date_added": "2026-08-06",
@@ -328370,6 +328388,24 @@
       "duration_ms": 190282,
       "name": "Pour Your Heart Out",
       "url": "https://open.spotify.com/track/3N9ho4NMwJMJzlH0xa9AIJ"
+    },
+    {
+      "album": {
+        "name": "Maverick \u201cAlmost Forever\u201d EP",
+        "url": "https://open.spotify.com/album/4fClD0ZJtv7YfzCUEwotDo"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180369,
+      "name": "Poured",
+      "url": "https://open.spotify.com/track/3zPMFEgOwgYsdyFzRgw4Ly"
     },
     {
       "album": {
@@ -385167,6 +385203,28 @@
     },
     {
       "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220600,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF"
+    },
+    {
+      "album": {
         "name": "STILL (feat. Ab-Soul & Rapsody)",
         "url": "https://open.spotify.com/album/3N3vA5recDthv6aBGfnTEb"
       },
@@ -409121,6 +409179,24 @@
     },
     {
       "album": {
+        "name": "THIS & THAT",
+        "url": "https://open.spotify.com/album/0VDVnZhY399q6sIrdyjZWj"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "This & That",
+      "url": "https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP"
+    },
+    {
+      "album": {
         "name": "Elisabeth",
         "url": "https://open.spotify.com/album/1ojZ56lN40DofYZtvz78vp"
       },
@@ -409402,6 +409478,24 @@
       "duration_ms": 297187,
       "name": "This is Real (Disappear)",
       "url": "https://open.spotify.com/track/3z8BNqNO2H8vlu5gnb2vAO"
+    },
+    {
+      "album": {
+        "name": "LIFE",
+        "url": "https://open.spotify.com/album/0vL3Vv27UfbRVLL7B9j1ab"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232306,
+      "name": "this is the moment (cuerpo)",
+      "url": "https://open.spotify.com/track/1AF9gqUhT9jyOHDzDUTZMc"
     },
     {
       "album": {
@@ -417118,24 +417212,6 @@
       "duration_ms": 200722,
       "name": "Traces",
       "url": "https://open.spotify.com/track/02K9rGknqp9ZPLVCHLs2X4"
-    },
-    {
-      "album": {
-        "name": "LIFE",
-        "url": "https://open.spotify.com/album/0vL3Vv27UfbRVLL7B9j1ab"
-      },
-      "artists": [
-        {
-          "name": "Funk Tribu",
-          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
-        }
-      ],
-      "date_added": "2026-08-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/1AF9gqUhT9jyOHDzDUTZMc"
     },
     {
       "album": {

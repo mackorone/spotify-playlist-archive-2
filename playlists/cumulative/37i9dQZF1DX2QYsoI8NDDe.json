@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Nora Gonzalez",
+  "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Lucero",
   "name": "Women of M\u00fasica Mexicana",
   "tracks": [
     {
@@ -4308,6 +4308,24 @@
       "duration_ms": 189520,
       "name": "FUERTE",
       "url": "https://open.spotify.com/track/50BpQ4kAChtcx8EK3HywjN"
+    },
+    {
+      "album": {
+        "name": "Fuertes Declaraciones",
+        "url": "https://open.spotify.com/album/2r66uR6h6BTZivk268eW3A"
+      },
+      "artists": [
+        {
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151455,
+      "name": "Fuertes Declaraciones",
+      "url": "https://open.spotify.com/track/0LM3ZWJoMBd4r5cRaDhxp2"
     },
     {
       "album": {
@@ -10393,6 +10411,24 @@
     },
     {
       "album": {
+        "name": "Regresa La Reina",
+        "url": "https://open.spotify.com/album/75RCyGZ5HERcnZcsCmDvsY"
+      },
+      "artists": [
+        {
+          "name": "Mariana Millan",
+          "url": "https://open.spotify.com/artist/3Ow6OTEKHqwNT0FwzgBlxf"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155375,
+      "name": "Regresa La Reina",
+      "url": "https://open.spotify.com/track/1oQXRz158qna5qpKmJFa5r"
+    },
+    {
+      "album": {
         "name": "Renac\u00ed",
         "url": "https://open.spotify.com/album/4bYc4IzQRNqxzlL32IT3Cq"
       },
@@ -11022,6 +11058,24 @@
       "duration_ms": 207072,
       "name": "Si T\u00fa No Vuelves",
       "url": "https://open.spotify.com/track/5bVsmvc0Yc6fR32vhz5kPQ"
+    },
+    {
+      "album": {
+        "name": "Si Un D\u00eda Me Extra\u00f1as",
+        "url": "https://open.spotify.com/album/0h7ddj7I7SsXci0mOI9lgd"
+      },
+      "artists": [
+        {
+          "name": "RIA",
+          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206680,
+      "name": "Si Un D\u00eda Me Extra\u00f1as",
+      "url": "https://open.spotify.com/track/5PfOuTytmTRASLSjreZe2j"
     },
     {
       "album": {
@@ -12396,6 +12450,24 @@
       "duration_ms": 202300,
       "name": "Una Mentira M\u00e1s",
       "url": "https://open.spotify.com/track/6jGNM4ntC8xzMHo5t0YNDF"
+    },
+    {
+      "album": {
+        "name": "Herencias De Mi Madre",
+        "url": "https://open.spotify.com/album/2zWJjl983MZFO4moPTZT91"
+      },
+      "artists": [
+        {
+          "name": "Chayito Valdez Hija",
+          "url": "https://open.spotify.com/artist/0zrvtypngq8fmTJzlwKNIa"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Una Noche Me Embriague",
+      "url": "https://open.spotify.com/track/3rUwKx1dg3pBvzKlKNmiwj"
     },
     {
       "album": {

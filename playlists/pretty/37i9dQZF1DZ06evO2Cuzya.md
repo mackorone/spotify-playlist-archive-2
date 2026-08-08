@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cuzya.md) - [plain]
 
 > This is Gracie Abrams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,812 likes - 48 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,869 likes - 48 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cuzya.md) - [plain]
 | 24 | [Blowing Smoke](https://open.spotify.com/track/0MIJFuEJpmgSjNjkbq29TQ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP) | 3:52 |
 | 25 | [Cool](https://open.spotify.com/track/256nKlwQdp2GE6DYGvTDoG) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 3:49 |
 | 26 | [Stay](https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Stay](https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q) | 2:57 |
-| 27 | [Mews](https://open.spotify.com/track/53a2Gvqo4z5QBumJ4JXa53) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell](https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5) | 4:11 |
+| 27 | [Daughter from Hell](https://open.spotify.com/track/7yogqG9VriSe2gE9RKZKwG) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell](https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5) | 4:04 |
 | 28 | [Let It Happen](https://open.spotify.com/track/7mFhyM0k5ZKG8jxcwmPVYl) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:20 |
 | 29 | [For Real This Time](https://open.spotify.com/track/1cR29lpK5mJIlajSpRqfNF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:13 |
 | 30 | [Where do we go now?](https://open.spotify.com/track/47oXF9VHCqabVcjd2gZBpa) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:03 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cuzya.md) - [plain]
 | 47 | [Gave You I Gave You I](https://open.spotify.com/track/7GaLluiRWvNfhayWKIZ9Xt) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 4:29 |
 | 48 | [Under / Over](https://open.spotify.com/track/6e5UOAU8hWJq7FKbHGPp2y) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:21 |
 
-Snapshot ID: `anJ9AAAAAABzOW/ez+2FXWXJkBfzwj6h`
+Snapshot ID: `anPOgAAAAABAf1zzg9GvWUWm545rODB+`

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la d\u00e9cada. En portada: Joe Arroyo",
-  "num_followers": 808106,
+  "num_followers": 808185,
   "original_name": "Salsa: Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAqGKyVbOXMEeqQt4iMj48O43hlw",
+  "snapshot_id": "AAAAAA25oB+aPFJq7nQi6JsiZa4Q9+59",
   "tracks": [
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1459,22 +1459,18 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Lo Que Llevo Por Dentro",
-        "url": "https://open.spotify.com/album/1QTe8NivESo3klvIIhk2Bs"
+        "name": "No Me Compares",
+        "url": "https://open.spotify.com/album/7b6xEvGDEPsUEtT9VfPaFj"
       },
       "artists": [
         {
           "name": "Frankie Negr\u00f3n",
           "url": "https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16"
-        },
-        {
-          "name": "Ronnie Torres and Ramon Sanchez",
-          "url": "https://open.spotify.com/artist/2jebsUroQNfYr1931DQHge"
         }
       ],
-      "duration_ms": 292573,
-      "name": "Enamorado De Ti - Salsa Version",
-      "url": "https://open.spotify.com/track/5EOiyV8PrLDXBuvS1NdVu3"
+      "duration_ms": 297666,
+      "name": "Agua Pasada",
+      "url": "https://open.spotify.com/track/046WevUCvKfJC6FrowsePK"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1547,18 +1543,22 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "No Me Compares",
-        "url": "https://open.spotify.com/album/7b6xEvGDEPsUEtT9VfPaFj"
+        "name": "Lo Que Llevo Por Dentro",
+        "url": "https://open.spotify.com/album/1QTe8NivESo3klvIIhk2Bs"
       },
       "artists": [
         {
           "name": "Frankie Negr\u00f3n",
           "url": "https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16"
+        },
+        {
+          "name": "Ronnie Torres and Ramon Sanchez",
+          "url": "https://open.spotify.com/artist/2jebsUroQNfYr1931DQHge"
         }
       ],
-      "duration_ms": 297666,
-      "name": "Agua Pasada",
-      "url": "https://open.spotify.com/track/046WevUCvKfJC6FrowsePK"
+      "duration_ms": 292573,
+      "name": "Enamorado De Ti - Salsa Version",
+      "url": "https://open.spotify.com/track/5EOiyV8PrLDXBuvS1NdVu3"
     },
     {
       "added_at": "2024-07-12 19:20:44",

@@ -1,12 +1,12 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de iza tkm",
-  "num_followers": 93394,
+  "num_followers": 93400,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAYLHFEriUdnZaimIx5t7BIQP6eY",
+  "snapshot_id": "AAAAAMsFGYZpU69bDOTMO28jMH1A0w/t",
   "tracks": [
     {
       "added_at": "2026-07-17 06:00:21",
@@ -291,6 +291,38 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
+        "name": "Victoria Miller",
+        "url": "https://open.spotify.com/album/15fTPXkZZVfc7YqPxHBFbt"
+      },
+      "artists": [
+        {
+          "name": "Valdo Rodriguez",
+          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
+        }
+      ],
+      "duration_ms": 181080,
+      "name": "Victoria Miller",
+      "url": "https://open.spotify.com/track/1A4pMPkvusJScnQ9HsqAv0"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
+        "name": "PONME10",
+        "url": "https://open.spotify.com/album/2bCRH5sbizQ4IBmvBm1vPs"
+      },
+      "artists": [
+        {
+          "name": "luvKMI",
+          "url": "https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO"
+        }
+      ],
+      "duration_ms": 121714,
+      "name": "PONME10",
+      "url": "https://open.spotify.com/track/5uKqpK3w1rD5sHMAS6m5dC"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
         "name": "Millonari",
         "url": "https://open.spotify.com/album/6A7j3iU4dHUmnLeRANOpio"
       },
@@ -315,38 +347,6 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "PONME10",
-        "url": "https://open.spotify.com/album/2bCRH5sbizQ4IBmvBm1vPs"
-      },
-      "artists": [
-        {
-          "name": "luvKMI",
-          "url": "https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO"
-        }
-      ],
-      "duration_ms": 121714,
-      "name": "PONME10",
-      "url": "https://open.spotify.com/track/5uKqpK3w1rD5sHMAS6m5dC"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
-        "name": "Victoria Miller",
-        "url": "https://open.spotify.com/album/15fTPXkZZVfc7YqPxHBFbt"
-      },
-      "artists": [
-        {
-          "name": "Valdo Rodriguez",
-          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
-        }
-      ],
-      "duration_ms": 181080,
-      "name": "Victoria Miller",
-      "url": "https://open.spotify.com/track/1A4pMPkvusJScnQ9HsqAv0"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
         "name": "LO QUE QUIERAS DARME",
         "url": "https://open.spotify.com/album/1F3Oencni5u8m2cv2N8Cx4"
       },
@@ -363,22 +363,18 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "ME VEIA BIEN",
-        "url": "https://open.spotify.com/album/0L5kvaZLgtWyZmpRbQ8rY4"
+        "name": "i Music Listen",
+        "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
       },
       "artists": [
         {
-          "name": "Malo",
-          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
-        },
-        {
-          "name": "Novato El Flow",
-          "url": "https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP"
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
         }
       ],
-      "duration_ms": 148051,
-      "name": "ME VEIA BIEN",
-      "url": "https://open.spotify.com/track/7wGR4HVmHjH6ezMxp7h4SS"
+      "duration_ms": 198545,
+      "name": "t escucho al pensar",
+      "url": "https://open.spotify.com/track/2iKDc7w7jeZwjfjYsJZz4x"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -403,18 +399,22 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "i Music Listen",
-        "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
+        "name": "ME VEIA BIEN",
+        "url": "https://open.spotify.com/album/0L5kvaZLgtWyZmpRbQ8rY4"
       },
       "artists": [
         {
-          "name": "iza tkm",
-          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+          "name": "Malo",
+          "url": "https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb"
+        },
+        {
+          "name": "Novato El Flow",
+          "url": "https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP"
         }
       ],
-      "duration_ms": 198545,
-      "name": "t escucho al pensar",
-      "url": "https://open.spotify.com/track/2iKDc7w7jeZwjfjYsJZz4x"
+      "duration_ms": 148051,
+      "name": "ME VEIA BIEN",
+      "url": "https://open.spotify.com/track/7wGR4HVmHjH6ezMxp7h4SS"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -455,6 +455,22 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
+        "name": "i Music Listen",
+        "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
+      },
+      "artists": [
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        }
+      ],
+      "duration_ms": 166808,
+      "name": "le hablo a la luna de ti",
+      "url": "https://open.spotify.com/track/2F2qal7yD2QMzOxVFKAd1e"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
         "name": "Amor x Dosis (Deluxe)",
         "url": "https://open.spotify.com/album/2rHFxiVI5DgyChVksONf3n"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 107437,
       "name": "DRAMATIKA!",
       "url": "https://open.spotify.com/track/4snjC5yjWPQlodLW6iN2o9"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
-        "name": "i Music Listen",
-        "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
-      },
-      "artists": [
-        {
-          "name": "iza tkm",
-          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
-        }
-      ],
-      "duration_ms": 166808,
-      "name": "le hablo a la luna de ti",
-      "url": "https://open.spotify.com/track/2F2qal7yD2QMzOxVFKAd1e"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "HOSHI",
-        "url": "https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "la estrella que quer\u00eda brillar",
-      "url": "https://open.spotify.com/track/2gTOLXAJl7RqVJwFvlQWQU"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
         "name": "pa que",
         "url": "https://open.spotify.com/album/54zMR9xpK3l6DHhjitr4Qd"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 196946,
       "name": "pa que",
       "url": "https://open.spotify.com/track/5smAUZtCCJCcHv2qyknRgt"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
+        "name": "HOSHI",
+        "url": "https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "la estrella que quer\u00eda brillar",
+      "url": "https://open.spotify.com/track/2gTOLXAJl7RqVJwFvlQWQU"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
+        "name": "sobrio",
+        "url": "https://open.spotify.com/album/3KX8pZkvemWmxWpi4gIKpY"
+      },
+      "artists": [
+        {
+          "name": "sobresdylan",
+          "url": "https://open.spotify.com/artist/0SbzkSf8x2ilpGurk6IIxL"
+        }
+      ],
+      "duration_ms": 240687,
+      "name": "besos de esquimal",
+      "url": "https://open.spotify.com/track/6yTjkPMy3fxKhD6fCwqMIt"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
         "name": "Tempestad",
         "url": "https://open.spotify.com/album/3ROgzkUpea1ABUTLIVgtuE"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 255605,
       "name": "Tempestad",
       "url": "https://open.spotify.com/track/26MgGRiHVchclnV6kR4jLL"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
-        "name": "sobrio",
-        "url": "https://open.spotify.com/album/3KX8pZkvemWmxWpi4gIKpY"
-      },
-      "artists": [
-        {
-          "name": "sobresdylan",
-          "url": "https://open.spotify.com/artist/0SbzkSf8x2ilpGurk6IIxL"
-        }
-      ],
-      "duration_ms": 240687,
-      "name": "besos de esquimal",
-      "url": "https://open.spotify.com/track/6yTjkPMy3fxKhD6fCwqMIt"
     },
     {
       "added_at": "2026-07-17 06:00:21",

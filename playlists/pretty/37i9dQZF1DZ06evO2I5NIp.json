@@ -1,12 +1,12 @@
 {
   "description": "This is Shemekia Copeland. The essential tracks, all in one playlist.",
-  "num_followers": 6003,
+  "num_followers": 6002,
   "original_name": "This Is Shemekia Copeland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAB2Xc75BYn2tsL0NsqxTa8f",
+  "snapshot_id": "anPOgAAAAADh2dTVbjtq+nxtToe1d+Tm",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn The Heat Up!",
-        "url": "https://open.spotify.com/album/0g3GmMdeIuPgUAq4TnbWOf"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 229973,
-      "name": "I Always Get My Man",
-      "url": "https://open.spotify.com/track/2JyzzMO9KJVHNXy9YU5AkY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uncivil War",
         "url": "https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 216171,
       "name": "Money Makes You Ugly",
       "url": "https://open.spotify.com/track/5Hw9VgRNKsLb97dAoc1vGj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turn The Heat Up!",
+        "url": "https://open.spotify.com/album/0g3GmMdeIuPgUAq4TnbWOf"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 229973,
+      "name": "I Always Get My Man",
+      "url": "https://open.spotify.com/track/2JyzzMO9KJVHNXy9YU5AkY"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "America's Child",
-        "url": "https://open.spotify.com/album/6gxZYKQUyBWCAORiXWmcw5"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 319458,
-      "name": "Promised Myself",
-      "url": "https://open.spotify.com/track/0yaXKiab57hWIDIgDdi3m7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uncivil War",
         "url": "https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 266071,
       "name": "Clotilda's On Fire",
       "url": "https://open.spotify.com/track/5LOv9Q0IHQiqdVOaozRJRi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "America's Child",
+        "url": "https://open.spotify.com/album/6gxZYKQUyBWCAORiXWmcw5"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 319458,
+      "name": "Promised Myself",
+      "url": "https://open.spotify.com/track/0yaXKiab57hWIDIgDdi3m7"
     },
     {
       "added_at": null,
@@ -727,54 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 285990,
-      "name": "Uncivil War",
-      "url": "https://open.spotify.com/track/5LZpKuCUv8OoHj9DscLdAr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wicked",
-        "url": "https://open.spotify.com/album/0DaEqzbN2sKZR0aOmYgLNp"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 268893,
-      "name": "It's 2 A.M.",
-      "url": "https://open.spotify.com/track/004057Au60xNi5a6rvCTDE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blame It On Eve",
-        "url": "https://open.spotify.com/album/6NelbBXEEbRxQnXl8mRoTn"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 224325,
-      "name": "Is There Anybody Up There?",
-      "url": "https://open.spotify.com/track/2lnTvZxC4kILRg4fKNR0bR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outskirts of Love",
         "url": "https://open.spotify.com/album/43FppNzUwLeZqMFm59cuHf"
       },
@@ -795,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wicked",
+        "url": "https://open.spotify.com/album/0DaEqzbN2sKZR0aOmYgLNp"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 268893,
+      "name": "It's 2 A.M.",
+      "url": "https://open.spotify.com/track/004057Au60xNi5a6rvCTDE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Uncivil War",
         "url": "https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt"
       },
@@ -804,9 +772,25 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 190310,
-      "name": "Under My Thumb",
-      "url": "https://open.spotify.com/track/7180g7qzIg60eVmeUfxIlG"
+      "duration_ms": 285990,
+      "name": "Uncivil War",
+      "url": "https://open.spotify.com/track/5LZpKuCUv8OoHj9DscLdAr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/6NelbBXEEbRxQnXl8mRoTn"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 224325,
+      "name": "Is There Anybody Up There?",
+      "url": "https://open.spotify.com/track/2lnTvZxC4kILRg4fKNR0bR"
     },
     {
       "added_at": null,
@@ -843,6 +827,22 @@
       "duration_ms": 228066,
       "name": "The Push I Need",
       "url": "https://open.spotify.com/track/72jXCg5cXZMzT3FNdr0ioY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 190310,
+      "name": "Under My Thumb",
+      "url": "https://open.spotify.com/track/7180g7qzIg60eVmeUfxIlG"
     },
     {
       "added_at": null,

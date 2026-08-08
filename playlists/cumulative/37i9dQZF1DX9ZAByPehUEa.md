@@ -4,7 +4,7 @@
 
 > Welcome to DISCOLAND 🪩🕺🏽 it's a happy place
 
-815 songs - 2 day 0 hr 35 min
+816 songs - 2 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -757,6 +757,7 @@
 | [Trip To Your Mind \- Delfonic Radio Rework](https://open.spotify.com/track/5Nyh3D2hgcZjyEZVsXrKzM) | [Hudson People](https://open.spotify.com/artist/4Gq2njeNuSrg6dVZZkXUXA), [Delfonic](https://open.spotify.com/artist/58TCXxlvoKiZrNowJsfGKP) | [Trip To Your Mind \(The Reworks\)](https://open.spotify.com/album/3flPvV5ijIDccBN4TDUn0W) | 6:29 | 2025-05-12 | 2025-11-22 |
 | [Trouble](https://open.spotify.com/track/1tuAG0SRJUvRCUEU3O7c3j) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Owl Eyes](https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f) | [Trouble](https://open.spotify.com/album/7rmPhckC8SMZBnA12dbAWz) | 3:20 | 2024-03-01 | 2025-05-13 |
 | [True Desire](https://open.spotify.com/track/6PUUMmIRrF8x2oq8M001VI) | [George Reid](https://open.spotify.com/artist/4AhAa3kyJe8OVyN1mxEB6o), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [True Desire](https://open.spotify.com/album/3gyd7Tyt0V1WdpddExb32w) | 2:35 | 2026-01-23 |  |
+| [Tu sais me faire danser](https://open.spotify.com/track/4AIXofGG21C0LZEQ0lY0ty) | [Chloé French](https://open.spotify.com/artist/5x8WbkzuZXIKWNSDd5JcGa) | [Tu sais me faire danser](https://open.spotify.com/album/0111WnMvN7AnhIZYIH6TKX) | 2:53 | 2026-08-07 |  |
 | [Turn Back Time](https://open.spotify.com/track/442bwi2jfJTT739AT4Hfde) | [George Reid](https://open.spotify.com/artist/4AhAa3kyJe8OVyN1mxEB6o), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Turn Back Time](https://open.spotify.com/album/5XSLcgf6JSnl5DIkAR5cAR) | 3:24 | 2026-05-08 |  |
 | [Turning Point](https://open.spotify.com/track/7acNNBB5PObjYKnRNLH9vR) | [Pandar](https://open.spotify.com/artist/2zZ1SrHD5FqPVXgBIH7Xe1) | [Turning Point](https://open.spotify.com/album/6J5pC5wdHx2ODTdnKlKF0z) | 6:35 | 2022-05-10 | 2024-05-11 |
 | [Tutto va bene quando facciamo l'amore](https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Jo Wedin](https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB) | [Tutto va bene quando facciamo l'amore \(Remixes\)](https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj) | 3:25 | 2022-04-06 | 2024-07-10 |

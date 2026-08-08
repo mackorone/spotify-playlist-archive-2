@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 
 > Moody electronica for the night shift
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,393 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,395 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,15 +25,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 15 | [Blush](https://open.spotify.com/track/2Dnh5y1kaUPymUifmimhD7) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Blush](https://open.spotify.com/album/4QWYTWnk5Cb1a7zUXQLGts) | 3:45 |
 | 16 | [Whipbird Dub](https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg) | [SUBSET](https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl) | [Call of the Whipbird](https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1) | 6:28 |
 | 17 | [Ante](https://open.spotify.com/track/6zcnsH77evVFfbfCkdpgMT) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [Ante](https://open.spotify.com/album/0luWrdUTM961z0xjXPgJm7) | 4:20 |
-| 18 | [Keep On](https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Keep On](https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO) | 3:38 |
-| 19 | [Take Me Home](https://open.spotify.com/track/7COWdD8bEaTJJtc1MlZEG3) | [Nice Girl](https://open.spotify.com/artist/2y5CM4wbWQ9R4JTjB860lB) | [Take Me Home](https://open.spotify.com/album/5DSIVfyY6Ju3uoUJ68Jcck) | 4:30 |
+| 18 | [Take Me Home](https://open.spotify.com/track/7COWdD8bEaTJJtc1MlZEG3) | [Nice Girl](https://open.spotify.com/artist/2y5CM4wbWQ9R4JTjB860lB) | [Take Me Home](https://open.spotify.com/album/5DSIVfyY6Ju3uoUJ68Jcck) | 4:30 |
+| 19 | [Keep On](https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Keep On](https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO) | 3:38 |
 | 20 | [Change Your Mind](https://open.spotify.com/track/6KOngf9VGk1Q6oQgfuryQU) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Change Your Mind](https://open.spotify.com/album/2QV91V7AsQLDSKbcjSFYpG) | 5:17 |
 | 21 | [I Want an Earth](https://open.spotify.com/track/69932XkAB5hvIGpc5mvVfF) | [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [I Want an Earth](https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN) | 6:02 |
 | 22 | [Whatever Happens, Happens](https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Whatever Happens, Happens](https://open.spotify.com/album/1WJ9gGJIFiHEcAgTMMwtD8) | 3:47 |
-| 23 | [by the reservoir](https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [do you feel it too?](https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId) | 5:08 |
-| 24 | [RUSH \(Blush\)](https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [RUSH \(Blush\)](https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp) | 4:02 |
-| 25 | [You Need Somebody](https://open.spotify.com/track/3MOOLHyOlR0lzcTwoXSci8) | [Puppy Mountain](https://open.spotify.com/artist/5uKqqVe2DRZMZBwV5wYYAH) | [You Need Somebody](https://open.spotify.com/album/4oSnGMfEK0NCZlTLsFDtdi) | 3:20 |
-| 26 | [Blissda](https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [MY DEAR](https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1) | 5:43 |
+| 23 | [RUSH \(Blush\)](https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [RUSH \(Blush\)](https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp) | 4:02 |
+| 24 | [by the reservoir](https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [do you feel it too?](https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId) | 5:08 |
+| 25 | [Blissda](https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [MY DEAR](https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1) | 5:43 |
+| 26 | [You Need Somebody](https://open.spotify.com/track/3MOOLHyOlR0lzcTwoXSci8) | [Puppy Mountain](https://open.spotify.com/artist/5uKqqVe2DRZMZBwV5wYYAH) | [You Need Somebody](https://open.spotify.com/album/4oSnGMfEK0NCZlTLsFDtdi) | 3:20 |
 | 27 | [Cold](https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Cold](https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo) | 4:42 |
 | 28 | [Halcyon & On \- Logic1000 Mix](https://open.spotify.com/track/7aXyBkjhsB5sitA3kEINo9) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Halcyon \(30 Something\) \[Remixes\]](https://open.spotify.com/album/6Td21SsqDqTZcelggWYQ7W) | 4:52 |
 | 29 | [Contra](https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Contra](https://open.spotify.com/album/0ZdaI36GXajBAlo3GRo3D5) | 3:44 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Liv35LmYo1.md) - [plain]
 | 41 | [Blue Skies](https://open.spotify.com/track/4UKJbtE1rC2LaWm5CFTnfA) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Blue Spring](https://open.spotify.com/album/2WSYktq8Bu9EMn47nnzR35) | 3:23 |
 | 42 | [Desert](https://open.spotify.com/track/0a8LoorG8xRgwHltPh4iMT) | [WaTa](https://open.spotify.com/artist/0y4UlAL3MRNRaPWGzZrmT0) | [Desert](https://open.spotify.com/album/3J55fcmO15upttdki07D9U) | 4:02 |
 | 43 | [Jesper](https://open.spotify.com/track/7JNwNDg2I9SS79aGm6cxvF) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [Jesper](https://open.spotify.com/album/4VSoAgoOCnHThOIgGgx77C) | 4:21 |
-| 44 | [Corundrum](https://open.spotify.com/track/3RbD9sf6y6QxA4BGMvtXRr) | [Knopha](https://open.spotify.com/artist/3FgmBnQVnritfgmLRpwNAF) | [Kwong](https://open.spotify.com/album/16YCGbxqVsH1PAMqOS57JB) | 5:43 |
-| 45 | [Minoxidil Life crisis](https://open.spotify.com/track/3Jm3pKvN9CfiOY6pznlxha) | [Morgan Wright](https://open.spotify.com/artist/0ecgVFD6pNWAqcRNIj81d7) | [Minoxidil Life crisis](https://open.spotify.com/album/2hOQX3N7h2SaTE3UiFZwz3) | 5:14 |
+| 44 | [Minoxidil Life crisis](https://open.spotify.com/track/3Jm3pKvN9CfiOY6pznlxha) | [Morgan Wright](https://open.spotify.com/artist/0ecgVFD6pNWAqcRNIj81d7) | [Minoxidil Life crisis](https://open.spotify.com/album/2hOQX3N7h2SaTE3UiFZwz3) | 5:14 |
+| 45 | [Corundrum](https://open.spotify.com/track/3RbD9sf6y6QxA4BGMvtXRr) | [Knopha](https://open.spotify.com/artist/3FgmBnQVnritfgmLRpwNAF) | [Kwong](https://open.spotify.com/album/16YCGbxqVsH1PAMqOS57JB) | 5:43 |
 | 46 | [Violet \- DJ Python Remix](https://open.spotify.com/track/6JijA1sJukJFkEXlOnK9ZI) | [The Range](https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Mercury Remixes](https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ) | 3:27 |
 | 47 | [I Wanted More](https://open.spotify.com/track/3yJ1WMCnDLJr72kbQdZB3J) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | ['I Wanted More' EP](https://open.spotify.com/album/6ZPTQkazeYNUIN2XzInXqM) | 5:33 |
 | 48 | [ENCLOSURE](https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [ENCLOSURE](https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0) | 4:19 |
 | 49 | [Fortune Teller](https://open.spotify.com/track/3a6nQetpY79GE7nkqXKyVC) | [Polito](https://open.spotify.com/artist/6O6fqsTlbgAkpge0oKhATO) | [Fortune Teller](https://open.spotify.com/album/1bjM2LT6B6EUC95d01mqJ5) | 3:40 |
-| 50 | [Joint 2](https://open.spotify.com/track/6ReMJ5usS97047qn4aohMz) | [Unsolicited Joints](https://open.spotify.com/artist/7p5UQv94mUY8N9MSvJshlB) | [Unsolicited Joints](https://open.spotify.com/album/4voAyhSEWcXAiNCqeYcv3r) | 6:18 |
+| 50 | [BOY](https://open.spotify.com/track/6Q3z3LmFRjPTBFaLCbsHOd) | [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [BOY / if u wanna cry](https://open.spotify.com/album/79Wtz0l5ubAbkzlRJOk2Ie) | 3:03 |
 
-Snapshot ID: `AAAAANv7CZh701oeMALnh0WY7ZCZ5Kf0`
+Snapshot ID: `AAAAAK2tz6Z2DHl9t3qEBuDmYnL6CAxy`

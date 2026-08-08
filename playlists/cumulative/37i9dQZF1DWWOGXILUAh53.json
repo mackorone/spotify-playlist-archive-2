@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest new pop with all the drops. Cover: Swedish House Mafia & Lykke Li ",
+  "description": "The hottest new pop with all the drops. Cover: Empress Of & Cecile Believe",
   "name": "New Dance Pop",
   "tracks": [
     {
@@ -1266,6 +1266,24 @@
     {
       "album": {
         "name": "Alive",
+        "url": "https://open.spotify.com/album/2VXuMY40qncXU9Bhwsx5aY"
+      },
+      "artists": [
+        {
+          "name": "Aspyer",
+          "url": "https://open.spotify.com/artist/3LaBw0YCv8D35w9AvePFtF"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222089,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/75Mvnxpsa42JsQp5xeo00C"
+    },
+    {
+      "album": {
+        "name": "Alive",
         "url": "https://open.spotify.com/album/6E0Rq0myBzI2kD81jHp8Xt"
       },
       "artists": [
@@ -2434,7 +2452,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 180000,
       "name": "ANYTHING GOES",
       "url": "https://open.spotify.com/track/4JZCJxqwRond3dcrywlNnz"
@@ -3600,7 +3618,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 215433,
       "name": "Beautiful (with Joji)",
       "url": "https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2"
@@ -4514,7 +4532,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 175714,
       "name": "Blaze That Ass",
       "url": "https://open.spotify.com/track/4phLrBsqNbIIA4SA7iJn6z"
@@ -5218,7 +5236,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 222161,
       "name": "Bring Your Love",
       "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
@@ -7276,7 +7294,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 114875,
       "name": "COLORADO",
       "url": "https://open.spotify.com/track/5nOXtkJKRbxiWKMllo3DpJ"
@@ -7456,7 +7474,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 197250,
       "name": "Contact High",
       "url": "https://open.spotify.com/track/4rWYJr9R2j0YnbDx3dUMnZ"
@@ -10391,6 +10409,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Leave Me on the Dance Floor",
+        "url": "https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192520,
+      "name": "Don\u2019t Leave Me on the Dance Floor",
+      "url": "https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3"
+    },
+    {
+      "album": {
         "name": "Play (Extended Edition)",
         "url": "https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl"
       },
@@ -12076,6 +12112,32 @@
       "duration_ms": 158099,
       "name": "Eyes for U (feat. Conor Maynard & Gia Koka)",
       "url": "https://open.spotify.com/track/3xThx06ANxb5a4ftqJcJWO"
+    },
+    {
+      "album": {
+        "name": "Fade Into Nothing",
+        "url": "https://open.spotify.com/album/7HAyJCI8bHpvY9MxcXViRk"
+      },
+      "artists": [
+        {
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+        },
+        {
+          "name": "Arlo",
+          "url": "https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209576,
+      "name": "Fade Into Nothing",
+      "url": "https://open.spotify.com/track/3PmAydfzjWQoLFpSQDYehP"
     },
     {
       "album": {
@@ -17271,6 +17333,32 @@
     },
     {
       "album": {
+        "name": "Goodbye 2012!",
+        "url": "https://open.spotify.com/album/3tQeF8yT6b0WYUUZG8KTyi"
+      },
+      "artists": [
+        {
+          "name": "Coupdekat",
+          "url": "https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0"
+        },
+        {
+          "name": "Natalie Red",
+          "url": "https://open.spotify.com/artist/38EW5PoQXJSd0tRuhmMbFL"
+        },
+        {
+          "name": "Ruby Bell",
+          "url": "https://open.spotify.com/artist/3V8Eb1ys7e90m3eXLIWRSO"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182879,
+      "name": "heyyy",
+      "url": "https://open.spotify.com/track/1nmodCSw2Iny0LJcvbFq78"
+    },
+    {
+      "album": {
         "name": "Hiding (feat. Arizona Zervas)",
         "url": "https://open.spotify.com/album/5XTq7rGS6OYo9O1xf5BZTc"
       },
@@ -21328,7 +21416,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 169059,
       "name": "I\u2019m your girl right?",
       "url": "https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR"
@@ -21828,6 +21916,24 @@
       "duration_ms": 176148,
       "name": "Know Me Better",
       "url": "https://open.spotify.com/track/41AVceKYPXTFQNm8Sm9GP2"
+    },
+    {
+      "album": {
+        "name": "Know U",
+        "url": "https://open.spotify.com/album/7lSUo43H1gOjD28zjGVPjX"
+      },
+      "artists": [
+        {
+          "name": "INDI",
+          "url": "https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202388,
+      "name": "Know U",
+      "url": "https://open.spotify.com/track/0WVONyugDaPNyVfPQLILW0"
     },
     {
       "album": {
@@ -23988,7 +24094,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 247384,
       "name": "Love Is Kind",
       "url": "https://open.spotify.com/track/2xntLwIz7kwJXqD2OgWfGT"
@@ -24799,6 +24905,24 @@
     },
     {
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/63FJCARS25Km4QVmsmD6P4"
+      },
+      "artists": [
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192580,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/0l36pn7VQtGkqdarml0F9o"
+    },
+    {
+      "album": {
         "name": "MAGIC",
         "url": "https://open.spotify.com/album/48mGE9Z8VowqEVUHj3WN5H"
       },
@@ -25442,7 +25566,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 130811,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4WbI5sUN8pcl1Pn5k6USXL"
@@ -27029,6 +27153,28 @@
     },
     {
       "album": {
+        "name": "Das Ist Daddy",
+        "url": "https://open.spotify.com/album/2YebmkQzLA10QYQc6GOMM6"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169053,
+      "name": "My Darlin'",
+      "url": "https://open.spotify.com/track/3YCPMgglyGmlBAgIHE8KJw"
+    },
+    {
+      "album": {
         "name": "My Heart Goes (feat. Oaks)",
         "url": "https://open.spotify.com/album/4ldeQvtnsa2PrA1ergNyMS"
       },
@@ -27198,6 +27344,24 @@
       "duration_ms": 156591,
       "name": "My Oh My",
       "url": "https://open.spotify.com/track/5GmoIA9yhjMTpZ0J08Nyqk"
+    },
+    {
+      "album": {
+        "name": "My People",
+        "url": "https://open.spotify.com/album/6ypD23tp3wECaBpN14ATKD"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164317,
+      "name": "My People",
+      "url": "https://open.spotify.com/track/0IMnvDOnuuBvPWeZoiPVXC"
     },
     {
       "album": {
@@ -29805,6 +29969,24 @@
     },
     {
       "album": {
+        "name": "Only Girl",
+        "url": "https://open.spotify.com/album/6YT5QPVZzh7JIA7HK4gGHp"
+      },
+      "artists": [
+        {
+          "name": "Alice Pisano",
+          "url": "https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206048,
+      "name": "Only Girl",
+      "url": "https://open.spotify.com/track/7g1CPq2enxhjC3L9VB6v4B"
+    },
+    {
+      "album": {
         "name": "Only In My Mind",
         "url": "https://open.spotify.com/album/4JWnSrjQv0zOW594N76PMf"
       },
@@ -30662,7 +30844,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 148297,
       "name": "PARTIES IN LA",
       "url": "https://open.spotify.com/track/7ilxKzPgTaF5P8N8BBlKFW"
@@ -34010,7 +34192,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 186500,
       "name": "Satisfy",
       "url": "https://open.spotify.com/track/3AsOa3cNh8bqF4q1temSHE"
@@ -34684,6 +34866,28 @@
       "duration_ms": 164410,
       "name": "Serious",
       "url": "https://open.spotify.com/track/6hkoQqLTPQwpVmGvLIAPGD"
+    },
+    {
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/7igfzfElmtfpUYUeNVngSr"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Stan",
+          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
+        },
+        {
+          "name": "Dony",
+          "url": "https://open.spotify.com/artist/2vwh0HUGUXwQAha9E4NiI0"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133840,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/7MKIb9fIg1P7iPBqN0Qqdd"
     },
     {
       "album": {
@@ -38635,6 +38839,28 @@
     },
     {
       "album": {
+        "name": "SYW (feat. Cecile Believe)",
+        "url": "https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        },
+        {
+          "name": "Cecile Believe",
+          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166840,
+      "name": "SYW (feat. Cecile Believe)",
+      "url": "https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V"
+    },
+    {
+      "album": {
         "name": "S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
       },
@@ -39538,7 +39764,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 151959,
       "name": "terms and conditions",
       "url": "https://open.spotify.com/track/1NPfiTCBjiYUya7npwzbAY"
@@ -39970,6 +40196,24 @@
       "duration_ms": 167806,
       "name": "The Finger (feat. Georgia Ku)",
       "url": "https://open.spotify.com/track/7s5STnbx8NWbggIJDw1o9i"
+    },
+    {
+      "album": {
+        "name": "The Girl",
+        "url": "https://open.spotify.com/album/6peKOe2jNmiqvLarnjQmhy"
+      },
+      "artists": [
+        {
+          "name": "MNDR",
+          "url": "https://open.spotify.com/artist/1oYs6zcjeVnOAd9x2Jpbc7"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140409,
+      "name": "The Girl",
+      "url": "https://open.spotify.com/track/7c4Y1rjZZTAqCsETNQ7b8X"
     },
     {
       "album": {

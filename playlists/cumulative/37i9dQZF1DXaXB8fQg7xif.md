@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,381 songs - 3 day 1 hr 48 min
+1,382 songs - 3 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Always Forever](https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Always Forever](https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF) | 3:05 | 2024-06-07 | 2024-09-21 |
 | [Amor](https://open.spotify.com/track/160zbysYKia7DpELpVS0DW) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Amor](https://open.spotify.com/album/69p944ct529u1AuqBPvaNQ) | 2:35 | 2022-07-01 | 2022-10-01 |
 | [Amor](https://open.spotify.com/track/7oZZrKuJdFkqxxf1O27j1V) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Amor](https://open.spotify.com/album/4bgkjiptkmzGU2jDrQjH44) | 2:35 | 2022-12-14 | 2023-02-27 |
-| [Anaconda](https://open.spotify.com/track/2ZAWKUdW7jcRwYsQgKWheu) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Anaconda](https://open.spotify.com/album/3bYo2FlkgCAdGQxsKbu3lq) | 3:36 | 2026-06-26 |  |
+| [Anaconda](https://open.spotify.com/track/2ZAWKUdW7jcRwYsQgKWheu) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Anaconda](https://open.spotify.com/album/3bYo2FlkgCAdGQxsKbu3lq) | 3:36 | 2026-06-26 | 2026-08-08 |
 | [Animal Kingdom](https://open.spotify.com/track/68pyMFPW2TOrCrjnbytDk5) | [AmyElle](https://open.spotify.com/artist/1z1V8o4cq5VNtAU05T2q4W) | [Animal Kingdom](https://open.spotify.com/album/4eABXs2kDjjsBgjg0CeWIT) | 3:10 | 2021-04-21 | 2022-04-19 |
 | [Another Chance](https://open.spotify.com/track/2zJ5nuyOQi4jBvToG3HHys) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Another Chance](https://open.spotify.com/album/2duIDdyqxZxcvJkhoGi8Bp) | 4:14 | 2021-11-20 | 2022-07-28 |
 | [Another Life \(feat\. Alida\)](https://open.spotify.com/track/0NWVFwJxCMjBdTOCePlQdl) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Another Life \(feat\. Alida\)](https://open.spotify.com/album/1nRhHxZcQ3a5c23LdVTn7N) | 3:32 | 2020-12-18 | 2021-12-11 |
@@ -1361,6 +1361,7 @@
 | [World Hold On \- FISHER Rework](https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [World Hold On \(FISHER Rework\)](https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD) | 2:58 | 2022-07-14 | 2026-01-15 |
 | [World, Hold On \- FISHER Rework](https://open.spotify.com/track/6quGF3Kvzd5WYEEuCmvCe1) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [World, Hold On \(FISHER Rework\)](https://open.spotify.com/album/5a5yqCyb7xF3Hklvlwc3t3) | 2:58 | 2024-02-02 | 2024-04-19 |
 | [Worst Enemy](https://open.spotify.com/track/3HNB7P3nnZlGzHKPPXXYix) | [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Worst Enemy](https://open.spotify.com/album/74zgCRedFSiylNUsxCB14L) | 2:51 | 2022-04-01 | 2022-04-21 |
+| [wtf](https://open.spotify.com/track/0gsCoEAU0OOr4lXNEgXhgW) | [Broken Hill](https://open.spotify.com/artist/1hivPylohVo1WNOWyU1zRQ), [DvirNuns](https://open.spotify.com/artist/5RIPjT0oNRQ8XGPcnwBL8n), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [wtf](https://open.spotify.com/album/5PFTvSMbVO3FPNwYeRDtQK) | 3:17 | 2026-08-07 |  |
 | [WTF](https://open.spotify.com/track/18rxxU3lErSMcyoYIXR4k1) | [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz) | [WTF](https://open.spotify.com/album/6Qs4FQFYCMfLnuYEFATGEo) | 3:13 | 2025-09-19 |  |
 | [Wurk](https://open.spotify.com/track/4Ynibk8PO978n4voJ1Uzby) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Mihalis Safras](https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE) | [Wurk](https://open.spotify.com/album/2k0pwGmrqosMNaoDo01yp8) | 2:48 | 2022-07-14 | 2022-07-30 |
 | [X\-Rated](https://open.spotify.com/track/2vFabIc6h3F6GiZCsxq8zw) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Funkdoobiest](https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN) | [X\-Rated](https://open.spotify.com/album/64a4S0L82vMJcOppgnYxmo) | 3:04 | 2025-05-23 | 2026-05-09 |

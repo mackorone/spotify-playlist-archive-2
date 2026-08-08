@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 
 > Get down and jam out to these throwback '80s R&B and soul tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 872,441 likes - 40 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 872,494 likes - 40 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 | 29 | [She's A Bad Mama Jama \(She's Built, She's Stacked\) \- Single Version](https://open.spotify.com/track/7KEguG3CDoestm50v6XET5) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Gold \- '80s Soul](https://open.spotify.com/album/30zetsnd9mENuaA47D6wcr) | 3:54 |
 | 30 | [The Glamorous Life](https://open.spotify.com/track/179SfVFJ0ZN41toTxnpgRD) | [Sheila E.](https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P) | [The Glamorous Life](https://open.spotify.com/album/2fv3CMkuVgYRtQVnhv1rQW) | 9:03 |
 | 31 | [Fool's Paradise](https://open.spotify.com/track/2smHxX4ZmwamJ1Cu3BM3Os) | [Meli'sa Morgan](https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV) | [Do Me Baby](https://open.spotify.com/album/6opbkbcP5zbRBF6nPDqrFg) | 5:00 |
-| 32 | [Off on Your Own \(Girl\)](https://open.spotify.com/track/2GRMJEIAvKlqJd9UHZTjRD) | [Al B\. Sure!](https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk) | [In Effect Mode](https://open.spotify.com/album/3RjOQ5eRm9f5kf6ysRpByu) | 4:09 |
-| 33 | [Saturday Love \- 12" Extended Version](https://open.spotify.com/track/5W3Y5I9y5ps6M6rl09e7zg) | [Cherrelle](https://open.spotify.com/artist/4R2ZUCVWjJs5ef9pjnCVC4), [Alexander O'Neal](https://open.spotify.com/artist/047D9GgqEzyMoULd2oKr7G) | [Best Of](https://open.spotify.com/album/0j5lDdSXw3zuhDXHJVB07H) | 8:41 |
+| 32 | [Saturday Love \- 12" Extended Version](https://open.spotify.com/track/5W3Y5I9y5ps6M6rl09e7zg) | [Cherrelle](https://open.spotify.com/artist/4R2ZUCVWjJs5ef9pjnCVC4), [Alexander O'Neal](https://open.spotify.com/artist/047D9GgqEzyMoULd2oKr7G) | [Best Of](https://open.spotify.com/album/0j5lDdSXw3zuhDXHJVB07H) | 8:41 |
+| 33 | [Off on Your Own \(Girl\)](https://open.spotify.com/track/2GRMJEIAvKlqJd9UHZTjRD) | [Al B\. Sure!](https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk) | [In Effect Mode](https://open.spotify.com/album/3RjOQ5eRm9f5kf6ysRpByu) | 4:09 |
 | 34 | [The Pleasure Principle](https://open.spotify.com/track/1krKp0OXeCH6SI5SXl8tu5) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 4:57 |
 | 35 | [Funkin' for Jamaica](https://open.spotify.com/track/0xbkxTqSaW5blsYgRXpB5I) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Funkin' For Jamaica](https://open.spotify.com/album/3QEAp1Cp3DQq6QcQD90arq) | 4:40 |
 | 36 | [Object of My Desire](https://open.spotify.com/track/63Ql2zSLiBryLRPihaUToK) | [Starpoint](https://open.spotify.com/artist/6W9OZQ862LR0HM76QQJJY3) | [Restless](https://open.spotify.com/album/1RuIZ3XuB6TFN11ApV2tgG) | 5:06 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H8hDpv38Ju.md) - [plain]
 | 39 | [If Only You Knew](https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [I'm In Love Again](https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy) | 4:45 |
 | 40 | [Juicy Fruit](https://open.spotify.com/track/2hn1lerQkPC6fOI0QFjr8r) | [Mtume](https://open.spotify.com/artist/5bHSSREflcAADAyCMlmxmh) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 4:32 |
 
-Snapshot ID: `AAAAABl/Z/CukcBrdwCbTkvqThClCIeV`
+Snapshot ID: `AAAAAE6QtjEV2IzPFzZ8ksGp5B5PCVL5`

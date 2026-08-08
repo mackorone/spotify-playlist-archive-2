@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain]
 
 ### [Sad Mix](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
 
-> <a href=spotify:playlist:37i9dQZF1EIX93oX60vcj1>Alec Benjamin</a>, <a href=spotify:playlist:37i9dQZF1EIWSrcRlZfmEg>The Long Faces</a>, <a href=spotify:playlist:37i9dQZF1EIYcZwbbjckJd>Radiohead</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIZCxFUJomB5x>SIENNA SPIRO</a>, <a href=spotify:playlist:37i9dQZF1EIV1hAnuH1ilI>Justin Bieber</a>, <a href=spotify:playlist:37i9dQZF1EIZMGq5iNDWIK>Eminem</a> and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Let Me Down Slowly](https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 2:49 |
-| 2 | [Jane!](https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5) | [The Long Faces](https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40) | [Jane!](https://open.spotify.com/album/03HZu3A0gz8fPjrGfDKAsu) | 3:06 |
-| 3 | [Creep](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) | 3:58 |
+| 1 | [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 |
+| 2 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 |
+| 3 | [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 |
 | 4 | [Life is Beautiful](https://open.spotify.com/track/5rYpwP1dHWGVMrSZbTmt3e) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Come Over When You're Sober, Pt\. 2](https://open.spotify.com/album/52JymrguPgkmmwLaWIusst) | 3:27 |
 | 5 | [Broken](https://open.spotify.com/track/4W8sUeokQKfHt1uTXp0Jq0) | [Lund](https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR) | [Broken](https://open.spotify.com/album/2gMpqoJglKD1UJZot6YRZt) | 3:20 |
 | 6 | [If You Want Love](https://open.spotify.com/track/3i5qVV8azKqGFK4Gzdt5YS) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [Perception](https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain]
 | 49 | [In My Head](https://open.spotify.com/track/59AEmrpkoQGktLys9FsDPF) | [idkjack](https://open.spotify.com/artist/5KpPvlBtQQCf0Jt836PyJX), [Luvjools](https://open.spotify.com/artist/0sfP34rNWdSv3w5k6k6jS7) | [In My Head](https://open.spotify.com/album/3dHS3sKI04qZeehGCf2JyB) | 3:15 |
 | 50 | [Love Is a Drug](https://open.spotify.com/track/0Q06s7TNQH8irO2sfvuFnn) | [Papithbk](https://open.spotify.com/artist/33r8rPgsHXfVN1r3adlrWw) | [Thbk.](https://open.spotify.com/album/0CXFZPOf5NILkxS9fpL3Jo) | 1:40 |
 
-Snapshot ID: `AAAAAPOtlSmAJjrukB4ybKUO7FjhCA3I`
+Snapshot ID: `AAAAAMpjAtkhQWQI7UGdkibxaT8/YeSl`

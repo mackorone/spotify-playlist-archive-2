@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,382 likes - 100 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,443 likes - 100 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 21 | [Sleep Sound](https://open.spotify.com/track/4aNm6woQfV9XRkCmk51GSX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Girl/Sleep Sound](https://open.spotify.com/album/6ORIBhcatSSgmL3vhvhRYB) | 6:23 |
 | 22 | [Small Memory](https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF) | 1:40 |
 | 23 | [Moments In Love](https://open.spotify.com/track/2CxBaNFCjYVi0Iv2PpeZDG) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Late Night Tales: Floating Points](https://open.spotify.com/album/1K1xmrnPvQaHAoPrS8GV5t) | 9:23 |
-| 24 | [Always Returning \- Remastered 2005](https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:04 |
+| 24 | [Without](https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Dual](https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc) | 3:49 |
 | 25 | [The Colour In Anything](https://open.spotify.com/track/2YItmEbRbOhAHevysQ1QLr) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [The Colour In Anything](https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL) | 3:33 |
-| 26 | [Without](https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Dual](https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc) | 3:49 |
+| 26 | [Always Returning \- Remastered 2005](https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:04 |
 | 27 | [Enough](https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 5:22 |
 | 28 | [She Just Likes to Fight](https://open.spotify.com/track/2dxtGo6FGs3Hxyv73tDsx7) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [There Is Love in You \(Expanded Edition\)](https://open.spotify.com/album/1HSe7aUzdxkRSZy7gucJpr) | 4:41 |
 | 29 | [Without You](https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8), [Kerry Leatham](https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc) | [Nostalchic](https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV) | 5:26 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 78 | [Memories](https://open.spotify.com/track/0VvWm52C4RIGG5ONseFy8D) | [Tenashee](https://open.spotify.com/artist/2pxtbaUgYSasZSHOQKGC9s), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Ashee](https://open.spotify.com/artist/20NZhZk0qrMO7jImyuR3hz), [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv) | [Memories](https://open.spotify.com/album/17Xrkd8IgpkcbSayGmNvwG) | 3:19 |
 | 79 | [Of A Vessel](https://open.spotify.com/track/6H9EIZ81SWrwRTxwLcMgNz) | [Blank Gloss](https://open.spotify.com/artist/3ygskHdzS2MNz3ZsQfbkfB) | [Pop Ambient 2021](https://open.spotify.com/album/07YiA79O4x3dIVWAB5zhhJ) | 4:31 |
 | 80 | [Been Such a Long Time \- Luke Alessi Remix](https://open.spotify.com/track/57G4GO2Q2VPiQZjSnWhPgg) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [Been Such a Long Time \(Luke Alessi Remixes\)](https://open.spotify.com/album/1ygb2SakGO4F333VZEpkoo) | 4:41 |
-| 81 | [Vital Loop](https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Vital Loop](https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3) | 3:56 |
-| 82 | [Sun\_3hd](https://open.spotify.com/track/3SZNh86XYkpDumjfWaV1b0) | [Rein](https://open.spotify.com/artist/5RUjaQZcU0IX0ayjFQrQQt) | [Sun\_3hd](https://open.spotify.com/album/1h9XUarVfrkzHUk350s4K1) | 6:16 |
+| 81 | [Sun\_3hd](https://open.spotify.com/track/3SZNh86XYkpDumjfWaV1b0) | [Rein](https://open.spotify.com/artist/5RUjaQZcU0IX0ayjFQrQQt) | [Sun\_3hd](https://open.spotify.com/album/1h9XUarVfrkzHUk350s4K1) | 6:16 |
+| 82 | [Vital Loop](https://open.spotify.com/track/2AGWiecGcTXIX7JQTCy5Ht) | [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [Vital Loop](https://open.spotify.com/album/2tKPlH1XGX2nP1Bm0Q2MQ3) | 3:56 |
 | 83 | [locket](https://open.spotify.com/track/1jXxhzjFxH8hN1xmcnYhjs) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv), [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv), [Ari Liloia](https://open.spotify.com/artist/6rYxB2pEDc1emPnoDq8rg3) | [keepsakeFM](https://open.spotify.com/album/2i1cIbR3OSxc6Mwx1UDgyH) | 2:16 |
 | 84 | [](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 0:00 |
 | 85 | [Eon Lens](https://open.spotify.com/track/15qiprD5zSvHE0JF8duU3J) | [Next To Blue](https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco) | [Eon Lens](https://open.spotify.com/album/12ya6nZTDp02vO0W8uCwL6) | 5:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 99 | [So Many Details](https://open.spotify.com/track/5Z7cI9glyUTDTRtWSs8K9I) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Anything In Return](https://open.spotify.com/album/3xDRuOqakukb1SjHQG4WWc) | 4:45 |
 | 100 | [An Ending, a Beginning](https://open.spotify.com/track/321kAwKSTFjsQznjLpbfD9) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Other Lights](https://open.spotify.com/album/1Va8CigySsDYYoQiRneEwb) | 2:08 |
 
-Snapshot ID: `AAAAAG9YZNbT6J0L/hLko+h4pWkwgG2/`
+Snapshot ID: `AAAAAA2M39eloGgB+bxoeRmf1Z+Bscvr`

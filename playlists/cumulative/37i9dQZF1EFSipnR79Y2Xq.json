@@ -2137,6 +2137,24 @@
     },
     {
       "album": {
+        "name": "Medio Borracho",
+        "url": "https://open.spotify.com/album/3uI0TKhL3Yq5YRvCR1UCyc"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164102,
+      "name": "SAFO",
+      "url": "https://open.spotify.com/track/4jgooOoVjQkuB2WAj232SL"
+    },
+    {
+      "album": {
         "name": "Soy Sagitario",
         "url": "https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60"
       },

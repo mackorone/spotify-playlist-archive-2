@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 324800,
+  "num_followers": 324898,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAABwVD9R1wqInZ1T9YIGlN7P",
+  "snapshot_id": "anPOgAAAAACC9k7qr4GLvHzY1J4Y3yDH",
   "tracks": [
     {
       "added_at": null,
@@ -147,8 +147,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monalisa",
-        "url": "https://open.spotify.com/album/67gixCAUn6Sd1BXHr3xg3s"
+        "name": "Table Dance",
+        "url": "https://open.spotify.com/album/4nSjpMHDYUWAccg82HsmYM"
       },
       "artists": [
         {
@@ -156,17 +156,13 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         },
         {
-          "name": "ElReghosg",
-          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
-        },
-        {
-          "name": "Mickey Ojo Rojo Sg",
-          "url": "https://open.spotify.com/artist/0oxYBzQwBy2nmTquzJ447r"
+          "name": "Chino El Don",
+          "url": "https://open.spotify.com/artist/5jH7ecfniD5healoIkHVHa"
         }
       ],
-      "duration_ms": 247078,
-      "name": "Monalisa",
-      "url": "https://open.spotify.com/track/56ZMnyvW7uO9sJoTVHNBxs"
+      "duration_ms": 244308,
+      "name": "Table Dance",
+      "url": "https://open.spotify.com/track/2zylpNFyb4YzbppEdzGqv6"
     },
     {
       "added_at": null,
@@ -187,8 +183,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Table Dance",
-        "url": "https://open.spotify.com/album/4nSjpMHDYUWAccg82HsmYM"
+        "name": "Monalisa",
+        "url": "https://open.spotify.com/album/67gixCAUn6Sd1BXHr3xg3s"
       },
       "artists": [
         {
@@ -196,13 +192,17 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         },
         {
-          "name": "Chino El Don",
-          "url": "https://open.spotify.com/artist/5jH7ecfniD5healoIkHVHa"
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
+        },
+        {
+          "name": "Mickey Ojo Rojo Sg",
+          "url": "https://open.spotify.com/artist/0oxYBzQwBy2nmTquzJ447r"
         }
       ],
-      "duration_ms": 244308,
-      "name": "Table Dance",
-      "url": "https://open.spotify.com/track/2zylpNFyb4YzbppEdzGqv6"
+      "duration_ms": 247078,
+      "name": "Monalisa",
+      "url": "https://open.spotify.com/track/56ZMnyvW7uO9sJoTVHNBxs"
     },
     {
       "added_at": null,

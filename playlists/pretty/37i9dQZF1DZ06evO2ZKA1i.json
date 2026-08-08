@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 303091,
+  "num_followers": 303108,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAADzPeq19DFHDG5IwVc3bb4h",
+  "snapshot_id": "anPOgAAAAACWf/b23h+ov1AO1qeb5Pj1",
   "tracks": [
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 420320,
-      "name": "Uncommon Man",
-      "url": "https://open.spotify.com/track/7t49MeETMEZ3QaFM0oXw0C"
+      "duration_ms": 261493,
+      "name": "All the Time in the World",
+      "url": "https://open.spotify.com/track/34ZHOp9qnbLOR2BjNKlySt"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 261493,
-      "name": "All the Time in the World",
-      "url": "https://open.spotify.com/track/34ZHOp9qnbLOR2BjNKlySt"
+      "duration_ms": 420320,
+      "name": "Uncommon Man",
+      "url": "https://open.spotify.com/track/7t49MeETMEZ3QaFM0oXw0C"
     },
     {
       "added_at": null,

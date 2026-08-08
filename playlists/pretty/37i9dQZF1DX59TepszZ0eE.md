@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3?si=jG5MXQYQSyW7WpBXiv\_qew>Omega Khunou</a>"
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,657 likes - 100 songs - 11 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,681 likes - 100 songs - 11 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 17 | [Yesu Wena UnguMhlobo \- Live](https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 23 \- Live at the CTICC Cape Town](https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj) | 5:49 |
 | 18 | [O Tshepegile Morena \- Tsa Manyalo](https://open.spotify.com/track/75Lx8FKrcCbivpc1Ff541Y) | [Mmatema](https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG) | [Heart of Gratitude \(Live At The Pretoria State Theatre\)](https://open.spotify.com/album/4wGsUQ95NzDjG0s3wY4wRQ) | 5:38 |
 | 19 | [Esandleni](https://open.spotify.com/track/7LTDINonhUaOiWTyN3AxCI) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [Esandleni](https://open.spotify.com/album/4GG6rS5yCifLj4BpOzkmab) | 5:36 |
-| 20 | [Track 1](https://open.spotify.com/track/7z1CeYr4VpiyJ9r5HXtcSe) | [Sipho Makhabane](https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2) | [Ngiyabonga](https://open.spotify.com/album/7lgHRNpZbmmYHL6qnM0Kw3) | 0:00 |
+| 20 | [Ngiyabonga](https://open.spotify.com/track/7z1CeYr4VpiyJ9r5HXtcSe) | [Sipho Makhabane](https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2) | [Ngiyabonga](https://open.spotify.com/album/7lgHRNpZbmmYHL6qnM0Kw3) | 4:38 |
 | 21 | [South African Hymns Medley](https://open.spotify.com/track/2ISFvLQr4ids67oJbk82Wj) | [Halal Afrika](https://open.spotify.com/artist/5gX3emCuEZBBq99uBvA3yh), [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [South African Hymns Medley](https://open.spotify.com/album/1LbcounheZIUd5xbxVbBk1) | 17:55 |
 | 22 | [Uzugcin'impilo Yam'](https://open.spotify.com/track/56gSo5GFHsRTYmmLAETouv) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71) | [Spiritual Encounter](https://open.spotify.com/album/5g67VAWvcanS2t2TfH4er1) | 6:15 |
 | 23 | [Umbhedesho \- Live](https://open.spotify.com/track/7jfZmf6vXtVyum8Fh8blx9) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 17 \(Grateful\) \[Live\]](https://open.spotify.com/album/7gTaZx47Gn8gh9n4p1KkHY) | 4:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 99 | [What A Beautiful Name](https://open.spotify.com/track/5XCtjnFMKtCT7ycDwV3Kdh) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [What A Beautiful Name](https://open.spotify.com/album/5tYHku7MpOJjUecn5Ape0O) | 4:00 |
 | 100 | [Aneliswe Osweleyo](https://open.spotify.com/track/6ZgClg41sq8pnx8d0oIR4W) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3), [Mphostoli We Keyboard](https://open.spotify.com/artist/1lgM1mjTHzMVjWZv08fTIN) | [Aneliswe Osweleyo](https://open.spotify.com/album/4QAnQG6yJgyqxIni00sRGK) | 4:14 |
 
-Snapshot ID: `AAAAAJvBo3ZjcmB3uvf+oRj13PteP0Xx`
+Snapshot ID: `AAAAAFd2pA1xdjaWJte4KE4ApPIR/Fm1`

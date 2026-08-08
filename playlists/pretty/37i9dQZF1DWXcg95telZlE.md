@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 
 > Mellow songs from the 1950s\. Cover: Frank Sinatra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,475 likes - 82 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,527 likes - 82 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 | 4 | [Everyday](https://open.spotify.com/track/39lnzOIUCSNaQmgBHoz7rt) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D), [The Crickets](https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR) | [Buddy Holly](https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP) | 2:09 |
 | 5 | [Donna \- Single Version](https://open.spotify.com/track/0VE4ayVlGs5DBoqOdgJ0Zv) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 2:30 |
 | 6 | [What A Diff'rence A Day Made](https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:31 |
-| 7 | [Twilight Time \- Single Version](https://open.spotify.com/track/3MpGQae6zAFd7Z1FdLV9fV) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Flying Platters Around The World](https://open.spotify.com/album/0UvGTptcqQEJ2u5yACvlUH) | 2:48 |
+| 7 | [Blueberry Hill](https://open.spotify.com/track/06PdA0DLgF4BfAeUNZAbFG) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Fats Domino Swings](https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf) | 2:27 |
 | 8 | [Dream A Little Dream Of Me \- Single Version](https://open.spotify.com/track/78MI7mu1LV1k4IA2HzKmHe) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Love, Ella](https://open.spotify.com/album/1y5KGkUKO0NG32MhIIagCA) | 3:05 |
-| 9 | [Blueberry Hill](https://open.spotify.com/track/06PdA0DLgF4BfAeUNZAbFG) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Fats Domino Swings](https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf) | 2:27 |
+| 9 | [Twilight Time \- Single Version](https://open.spotify.com/track/3MpGQae6zAFd7Z1FdLV9fV) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Flying Platters Around The World](https://open.spotify.com/album/0UvGTptcqQEJ2u5yACvlUH) | 2:48 |
 | 10 | [Lonesome Town](https://open.spotify.com/track/0SsYlkXxZ5vkWOTsKxMfMz) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Ricky Sings Again \(Expanded Edition / Remastered\)](https://open.spotify.com/album/30csxUzrzcgwuOT5QVmFmg) | 2:14 |
 | 11 | [Come Rain or Come Shine](https://open.spotify.com/track/2htH7r8oqqEwp3BB6oh2cU) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Genius Of Ray Charles](https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1) | 3:41 |
 | 12 | [Love Is Here To Stay \- Remastered 1998](https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 2:42 |
@@ -34,13 +34,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 | 24 | [You Mean Everything to Me](https://open.spotify.com/track/18YPNs20cBfgqkY8YCJlOH) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Rock with Sedaka \(Expanded Edition\)](https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO) | 2:37 |
 | 25 | [Devoted to You](https://open.spotify.com/track/4FrMb1ckGBrhARbHySQKx5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:21 |
 | 26 | [Time After Time](https://open.spotify.com/track/5j9HUr2izjXctYvgKF4GoW) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Great Ladies Of Song / Spotlight On Margaret Whiting](https://open.spotify.com/album/1f7ZtwN1b8y3MjgDVMUExO) | 2:56 |
-| 27 | [Come Softly To Me](https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs) | [The Fleetwoods](https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX) | [Come Softly To Me: The Very Best Of The Fleetwoods](https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq) | 2:24 |
-| 28 | [Don't](https://open.spotify.com/track/4HVSaFbEwvptCAzLlOr2UZ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:48 |
+| 27 | [Don't](https://open.spotify.com/track/4HVSaFbEwvptCAzLlOr2UZ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Elvis 30 \#1 Hits](https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc) | 2:48 |
+| 28 | [Come Softly To Me](https://open.spotify.com/track/603N4XGJUTbK760GLCvIIs) | [The Fleetwoods](https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX) | [Come Softly To Me: The Very Best Of The Fleetwoods](https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq) | 2:24 |
 | 29 | [They Can't Take That Away From Me](https://open.spotify.com/track/1V4NaFlrUCK49MXcdOcVeS) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 4:40 |
 | 30 | [Let It Be Me](https://open.spotify.com/track/0Tjdbd83LEAWrA0atsXMDJ) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Best Of The Everly Brothers \- Rare Solo Classics](https://open.spotify.com/album/4rnq9VLTICIlomeKZ1N3mB) | 2:26 |
 | 31 | [Just Walkin' in the Rain](https://open.spotify.com/track/6zahbizoDqcpCbXkDhe4Er) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [16 Most Requested Songs](https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM) | 2:37 |
-| 32 | [Mr\. Blue](https://open.spotify.com/track/6bnFjTW3EnMG4BwreDnSHK) | [The Fleetwoods](https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX) | [Come Softly To Me: The Very Best Of The Fleetwoods](https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq) | 2:25 |
-| 33 | [Tears on My Pillow](https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [Greatest Hits](https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV) | 2:20 |
+| 32 | [Tears on My Pillow](https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [Greatest Hits](https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV) | 2:20 |
+| 33 | [Mr\. Blue](https://open.spotify.com/track/6bnFjTW3EnMG4BwreDnSHK) | [The Fleetwoods](https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX) | [Come Softly To Me: The Very Best Of The Fleetwoods](https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq) | 2:25 |
 | 34 | [To Be Loved](https://open.spotify.com/track/0CAzT38ct3vgDW3p6yIzUe) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [He's So Fine](https://open.spotify.com/album/4u4SJFMnkubwHu8VmNQJ9w) | 2:34 |
 | 35 | [Who's Sorry Now](https://open.spotify.com/track/4bzvhZFlV9UqQ3EmV2i8s4) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9) | 2:16 |
 | 36 | [Cry Me A River](https://open.spotify.com/track/4ydtQJImyQg6UDFFZBzgxp) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:30 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 | 81 | [Sugar Moon](https://open.spotify.com/track/5wA9Arn1DhtyyfdcT6c6jt) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [Backline Volume 57](https://open.spotify.com/album/297iVHqfvGBdDtjdaSQBBa) | 1:56 |
 | 82 | [Tennessee Waltz](https://open.spotify.com/track/7t8Tzd9FqVz2asFMCL0HpZ) | [Patti Page](https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF) | [Rockin' Gals Of The 1950's](https://open.spotify.com/album/27lZJLd8V0j7jQdmQ7ZNx4) | 3:03 |
 
-Snapshot ID: `AAAAAMgsCsopl6GkyyVPf6hz8aV+u6h6`
+Snapshot ID: `AAAAAIjeWdVBU9hW7LMWlLO8DEPHG1RM`

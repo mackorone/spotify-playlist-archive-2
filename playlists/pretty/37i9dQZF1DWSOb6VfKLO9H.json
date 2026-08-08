@@ -1,12 +1,12 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 110425,
+  "num_followers": 110454,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFLawhs0vPb/p+i9Sz2PcCJLriNV",
+  "snapshot_id": "AAAAACWrlNLmLRGWsRRi/1lD6MFSacYP",
   "tracks": [
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1559,30 +1559,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/2hq9K0REN6y1rvK3f1MEeE"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "Emms",
-          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
-        }
-      ],
-      "duration_ms": 243024,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/6FsZjiiklXIG1XvveAuOKF"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Hans Betaalt De Schade (feat. Chivv & Henkie T)",
         "url": "https://open.spotify.com/album/0BYPTyenqy6oj1LSkcWoz6"
       },
@@ -1611,6 +1587,30 @@
       "duration_ms": 174117,
       "name": "Hans Betaalt De Schade (feat. Chivv & Henkie T)",
       "url": "https://open.spotify.com/track/36UAh8lq8r62uopY9Du1w3"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/2hq9K0REN6y1rvK3f1MEeE"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Emms",
+          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
+        }
+      ],
+      "duration_ms": 243024,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/6FsZjiiklXIG1XvveAuOKF"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Give Dem",
-        "url": "https://open.spotify.com/album/2up2F1dBrCiIN8WPy8VPB9"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Chivv",
-          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
-        }
-      ],
-      "duration_ms": 189757,
-      "name": "Give Dem",
-      "url": "https://open.spotify.com/track/1u2XfTsJai4u33yapHLzap"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "IDALY",
         "url": "https://open.spotify.com/album/1UFy580iiYLKbgqjVEMzSA"
       },
@@ -1711,6 +1691,26 @@
       "duration_ms": 218753,
       "name": "fallin'",
       "url": "https://open.spotify.com/track/7dzeJHnEApWzQwm0akBxye"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Give Dem",
+        "url": "https://open.spotify.com/album/2up2F1dBrCiIN8WPy8VPB9"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Chivv",
+          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
+        }
+      ],
+      "duration_ms": 189757,
+      "name": "Give Dem",
+      "url": "https://open.spotify.com/track/1u2XfTsJai4u33yapHLzap"
     },
     {
       "added_at": "2024-07-19 06:38:33",

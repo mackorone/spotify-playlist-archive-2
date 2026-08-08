@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Jorsshh poniendo la M\u00fasica Mexicana en alto en la playlist sin fronteras. Powered by <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFGEKqSBDV3q2\">Belicofest</a> ",
+  "description": "El Rabbanito poniendo la M\u00fasica Mexicana en alto en la playlist sin fronteras. Powered by <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFGEKqSBDV3q2\">Belicofest</a> ",
   "name": "Los Que Mandan - M\u00fasica Mexicana",
   "tracks": [
     {
@@ -9613,6 +9613,28 @@
     },
     {
       "album": {
+        "name": "LEGENDARIO",
+        "url": "https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140104,
+      "name": "GUERRERO",
+      "url": "https://open.spotify.com/track/4G6KB0z16YYcIloutnbnyg"
+    },
+    {
+      "album": {
         "name": "Guerreros Aztecas",
         "url": "https://open.spotify.com/album/2C8J91k1UfZpeONBHE6UTi"
       },
@@ -13546,7 +13568,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 163250,
       "name": "ME MIRAN",
       "url": "https://open.spotify.com/track/6WIfQuAANJDv5akliU1DOu"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Rony Fuego
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,407 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,406 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 58 | [Mão de Sonhos](https://open.spotify.com/track/4AmFBFSgOrk0ZBvk0tjCy8) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Mão de Sonhos](https://open.spotify.com/album/1P4rGS3xRlS9qOqglHFGFe) | 3:14 |
 | 59 | [Ninfomaníaca](https://open.spotify.com/track/6HJCS09anJ7CAZhinCxxuB) | [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [Mulatooh](https://open.spotify.com/artist/5i3kAmcQVt7k2zHgolEAvo) | [Ninfomaníaca](https://open.spotify.com/album/7zrFlnyvrKnh8yx0xQvhEP) | 2:51 |
 | 60 | [Animal](https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Prodígio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI) | [Animal](https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs) | 3:18 |
-| 61 | [Infinito](https://open.spotify.com/track/2lJ43uf6sTBG9RV9YeXqtb) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Infinito](https://open.spotify.com/album/5PggQNNlmkNTw3jZFyn0qs) | 3:49 |
-| 62 | [Pé Descalço](https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Pé Descalço](https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d) | 3:34 |
+| 61 | [Pé Descalço](https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Pé Descalço](https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d) | 3:34 |
+| 62 | [Infinito](https://open.spotify.com/track/2lJ43uf6sTBG9RV9YeXqtb) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Infinito](https://open.spotify.com/album/5PggQNNlmkNTw3jZFyn0qs) | 3:49 |
 | 63 | [Já Não Aguento](https://open.spotify.com/track/4EKGPKSAzzwjoLYPD9xyWL) | [Dolce](https://open.spotify.com/artist/2XGXbQFvAcvkqXYATSNO4P) | [XVIII](https://open.spotify.com/album/1URmVSVwz1OAINOAv5gZtp) | 3:01 |
 | 64 | [Chama](https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Chama](https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7) | 2:33 |
 | 65 | [Tóxico \(feat\. Ivandro & WIU\)](https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [FIM DO NADA](https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc) | 3:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 74 | [Barco](https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Barco](https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn) | 3:36 |
 | 75 | [Nossa História](https://open.spotify.com/track/7fTEgp9TRGwEPVgfCLVjSb) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Nossa História](https://open.spotify.com/album/4ly1joTaalQ5wAP0rbwmPT) | 4:13 |
 
-Snapshot ID: `AAAAAIyRKyH6si3wyx+w5EKyQri6Xjtr`
+Snapshot ID: `AAAAAIR67/Q49choRnkDEfstIUGfCTFe`

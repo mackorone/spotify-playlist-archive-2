@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Pendergrass. The essential tracks, all in one playlist.",
-  "num_followers": 39388,
+  "num_followers": 39393,
   "original_name": "This Is Teddy Pendergrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAB1+FJVb2ROiSODUTQmBYOx",
+  "snapshot_id": "anPOgAAAAABUIOXoknO5H1kNCTUIkUox",
   "tracks": [
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truly Blessed",
-        "url": "https://open.spotify.com/album/4ZNl9QsJrlbWizJafSKQog"
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 279013,
-      "name": "How Can You Mend a Broken Heart",
-      "url": "https://open.spotify.com/track/7idH2ycyQPXvdAwX9GVWeX"
+      "duration_ms": 264573,
+      "name": "The More I Get, the More I Want",
+      "url": "https://open.spotify.com/track/6nkhaYvdho2vRH5JTrJX7f"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teddy Pendergrass",
-        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+        "name": "Truly Blessed",
+        "url": "https://open.spotify.com/album/4ZNl9QsJrlbWizJafSKQog"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 264573,
-      "name": "The More I Get, the More I Want",
-      "url": "https://open.spotify.com/track/6nkhaYvdho2vRH5JTrJX7f"
+      "duration_ms": 279013,
+      "name": "How Can You Mend a Broken Heart",
+      "url": "https://open.spotify.com/track/7idH2ycyQPXvdAwX9GVWeX"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
       "duration_ms": 320666,
       "name": "I'm Always Thinking About You",
       "url": "https://open.spotify.com/track/62vbkUH43O7M9fPMtyVbbq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 238386,
+      "name": "I Don't Love You Anymore",
+      "url": "https://open.spotify.com/track/2NLgJVAko27NbJo5wINukh"
     },
     {
       "added_at": null,
@@ -547,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teddy Pendergrass",
-        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 238386,
-      "name": "I Don't Love You Anymore",
-      "url": "https://open.spotify.com/track/2NLgJVAko27NbJo5wINukh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Little More Magic",
         "url": "https://open.spotify.com/album/7GE2doRJah7c0sUIfwRsjm"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 391733,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/4B2tdqnVaGEJd60FfLIbeB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 289813,
+      "name": "You're My Choice Tonight (Choose Me)",
+      "url": "https://open.spotify.com/track/2xKEAqAlHFqIR8irs6q651"
     },
     {
       "added_at": null,
@@ -595,22 +611,6 @@
       "duration_ms": 279426,
       "name": "To Be True (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/46Liv0Pkip7IL14eJeHHbu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Language",
-        "url": "https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 289813,
-      "name": "You're My Choice Tonight (Choose Me)",
-      "url": "https://open.spotify.com/track/2xKEAqAlHFqIR8irs6q651"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Time For Love",
-        "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 180346,
-      "name": "I Can't Live Without Your Love",
-      "url": "https://open.spotify.com/track/07iF2abYbJg0ndDc1hFdIT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 449426,
       "name": "Be for Real (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/2xxe3FVwBs4iBbPpcVJUlQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Time For Love",
+        "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 180346,
+      "name": "I Can't Live Without Your Love",
+      "url": "https://open.spotify.com/track/07iF2abYbJg0ndDc1hFdIT"
     },
     {
       "added_at": null,

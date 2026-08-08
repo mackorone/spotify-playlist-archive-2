@@ -512,6 +512,28 @@
     {
       "album": {
         "name": "Alive",
+        "url": "https://open.spotify.com/album/0jtYzOuoLYiGukF4qVQ256"
+      },
+      "artists": [
+        {
+          "name": "NOME.",
+          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
+        },
+        {
+          "name": "Merow",
+          "url": "https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/0R9Yx21kRzOGeHxw79CizW"
+    },
+    {
+      "album": {
+        "name": "Alive",
         "url": "https://open.spotify.com/album/4dvts8ZkUUsbQdGASHVmbi"
       },
       "artists": [
@@ -1610,7 +1632,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 139285,
       "name": "Axel F (Take It To The Floor) (with Gabry Ponte)",
       "url": "https://open.spotify.com/track/69akic9gR26niltxBY8pFm"
@@ -6603,6 +6625,24 @@
     },
     {
       "album": {
+        "name": "Redline EP",
+        "url": "https://open.spotify.com/album/38cuNahcMMdqLMrth08IWb"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156857,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/6TTlf62nzCbs09y9nPl5sW"
+    },
+    {
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/2iGZU0LNQmhZ5QbRDmCNZz"
       },
@@ -11128,7 +11168,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 162214,
       "name": "Listen To Me",
       "url": "https://open.spotify.com/track/3fPXv60Pp9jLGYrjd1RoNd"
@@ -12590,7 +12630,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 144000,
       "name": "Monster",
       "url": "https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9"
@@ -16062,7 +16102,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 191716,
       "name": "Repeat It",
       "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
@@ -20545,6 +20585,28 @@
     },
     {
       "album": {
+        "name": "Turn Up The Bass",
+        "url": "https://open.spotify.com/album/7CJm3F9qU26oPl30iRx81L"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147724,
+      "name": "Turn Up The Bass",
+      "url": "https://open.spotify.com/track/2QL5BIL8ngij9hgLjppSYW"
+    },
+    {
+      "album": {
         "name": "Twisted",
         "url": "https://open.spotify.com/album/41n9tQvEH5vhv5ZcG7ckQp"
       },
@@ -21052,6 +21114,28 @@
       "duration_ms": 174960,
       "name": "Walked Away",
       "url": "https://open.spotify.com/track/1k7SaOwbrIuGJZGXhCnoi8"
+    },
+    {
+      "album": {
+        "name": "Wanna Be Loved (feat. Moa Lisa)",
+        "url": "https://open.spotify.com/album/0jBiIpjj0iQhMDFRa80xNh"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Moa Lisa",
+          "url": "https://open.spotify.com/artist/0oUXA3boTncBMYFD5o6G2E"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137379,
+      "name": "Wanna Be Loved (feat. Moa Lisa)",
+      "url": "https://open.spotify.com/track/4cwx6DkpzB4OPN2xzzzpOF"
     },
     {
       "album": {

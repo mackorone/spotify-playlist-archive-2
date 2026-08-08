@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 
 > These early pioneers brought the underground to the foreground\. Cover: The Smiths
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,276,655 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,276,679 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 70 | [Mexican Radio](https://open.spotify.com/track/1BtOAYgTkPnv1KRcLHqyxO) | [Wall Of Voodoo](https://open.spotify.com/artist/6zPcUezmkw9aGjoRlBxYxw) | [Call Of The West](https://open.spotify.com/album/26Gb3ewRSm2zgEpmwowvDj) | 4:08 |
 | 71 | [Pretty In Pink](https://open.spotify.com/track/1Cl1J4Ai7NkuhLdaDHthTh) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [The Psychedelic Furs Superhits](https://open.spotify.com/album/4sdhLZRcO9DQmrs889H0tl) | 3:59 |
 | 72 | [To Cut A Long Story Short](https://open.spotify.com/track/2CfqGS6D9piBWM3SAjbUJM) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Gold \- The Best of Spandau Ballet](https://open.spotify.com/album/5UUutTu9xlQnG9duYrIIW7) | 3:21 |
-| 73 | [Mystery Achievement \- 2006 Remaster](https://open.spotify.com/track/2xTk109VtSva8rmQvb2Esn) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders](https://open.spotify.com/album/6AFFu3ilmlEDz1I9ZaNOZw) | 5:22 |
-| 74 | [Janitor](https://open.spotify.com/track/4qIrNr9OnHrQhpODZcmulH) | [Suburban Lawns](https://open.spotify.com/artist/7GbMKpjxObo2JZGvKQovjr) | [Suburban Lawns](https://open.spotify.com/album/73heWpQLwKGoedT3eM72Ra) | 2:31 |
+| 73 | [Janitor](https://open.spotify.com/track/4qIrNr9OnHrQhpODZcmulH) | [Suburban Lawns](https://open.spotify.com/artist/7GbMKpjxObo2JZGvKQovjr) | [Suburban Lawns](https://open.spotify.com/album/73heWpQLwKGoedT3eM72Ra) | 2:31 |
+| 74 | [Mystery Achievement \- 2006 Remaster](https://open.spotify.com/track/2xTk109VtSva8rmQvb2Esn) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders](https://open.spotify.com/album/6AFFu3ilmlEDz1I9ZaNOZw) | 5:22 |
 | 75 | [\(We Don't Need This\) Fascist Groove Thang \- Remastered 2006](https://open.spotify.com/track/5U1UqrvzDDj22eyFocTtmr) | [Heaven 17](https://open.spotify.com/artist/5PYuBRQMHh7nWmdV076sH9) | [Penthouse And Pavement](https://open.spotify.com/album/662vZghUEjQCywafYimHtK) | 4:21 |
 
-Snapshot ID: `AAAAANLPn5bU6PSRg5jK8zaEOmyBgP67`
+Snapshot ID: `AAAAACM6E57fmqHsLQNJdYR69VA4GP80`

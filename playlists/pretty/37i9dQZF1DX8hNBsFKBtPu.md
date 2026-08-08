@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her 💖 Saint Clara
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,962 likes - 201 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,964 likes - 201 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 | 5 | [Tættere På Hende](https://open.spotify.com/track/5g3MQe4UctqhsmR67BueRz) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz), [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Tættere På Hende](https://open.spotify.com/album/4X4omk579qRX2eKzj8UAa3) | 3:28 |
 | 6 | [My Body Isn't Ready](https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [My Body Isn't Ready](https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh) | 3:37 |
 | 7 | [En Som Dig \(feat\. Blæst, ADAAM & Back To Back\)](https://open.spotify.com/track/2zRpuPGERrbAfRXqjCAKix) | [Rune Rask](https://open.spotify.com/artist/3zuy1LOMq0y8aHZn4Ogax0), [Hampenberg](https://open.spotify.com/artist/7ssfFZ8qtx1YbG1XxYoTzY), [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Back To Back](https://open.spotify.com/artist/5EljmLww3poYYENLJK0wRO) | [En Som Dig \(feat\. Blæst, ADAAM & Back To Back\)](https://open.spotify.com/album/0egJx0r3KVGFeckHPcMHDs) | 2:45 |
-| 8 | [Track 6](https://open.spotify.com/track/3tlOXNiSKM8y67sn0jgPzQ) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [VÆRD AT ELSKE](https://open.spotify.com/album/5EzEAM6zAqc9VPM0xs6Muc) | 0:00 |
+| 8 | [CIRKLER \(feat\. wicky\)](https://open.spotify.com/track/3tlOXNiSKM8y67sn0jgPzQ) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9), [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP) | [VÆRD AT ELSKE](https://open.spotify.com/album/5EzEAM6zAqc9VPM0xs6Muc) | 2:46 |
 | 9 | [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 |
 | 10 | [When He’s Gone](https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [When He’s Gone](https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA) | 3:06 |
 | 11 | [DU MÅ IK GÅ](https://open.spotify.com/track/4t0hAlq0Zsy0kc6ctvJEEm) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [DU MÅ IK GÅ](https://open.spotify.com/album/47XpL93JCsPWssZ450ebjI) | 2:27 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 | 200 | [I'm Not There For You](https://open.spotify.com/track/3kLqlYcPuj5864tVB5LVL2) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I'm Not There For You](https://open.spotify.com/album/370b4ij3gUhdJsUF2Z1zEe) | 2:19 |
 | 201 | [Where's My Mind](https://open.spotify.com/track/0XUwVJci3g0hiU031KD6Hu) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Where's My Mind](https://open.spotify.com/album/13RSenTt0kuRapPWMMJO0h) | 3:56 |
 
-Snapshot ID: `AAAAAKaaRDNrsFtVtwgb5C9eEiAgaA+p`
+Snapshot ID: `AAAAAIvI7wiLkBqlQIwiire+Efpeo0gC`

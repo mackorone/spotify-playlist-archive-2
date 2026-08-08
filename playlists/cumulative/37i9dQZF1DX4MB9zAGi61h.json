@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Before It Hurts",
+        "url": "https://open.spotify.com/album/3pU8mqByPXNgWHRnV873fm"
+      },
+      "artists": [
+        {
+          "name": "Mattia Vlad Morleo",
+          "url": "https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89951,
+      "name": "Before It Hurts",
+      "url": "https://open.spotify.com/track/7hPp55WuMnbLDfRpwYkpYN"
+    },
+    {
+      "album": {
         "name": "Before the Rain",
         "url": "https://open.spotify.com/album/3JnAgnrdlJf7AlrUTyBGNc"
       },
@@ -182,6 +200,24 @@
       "duration_ms": 132266,
       "name": "Before the Rain",
       "url": "https://open.spotify.com/track/2HUTET60za3USQAg8WnSFK"
+    },
+    {
+      "album": {
+        "name": "Between Seasons",
+        "url": "https://open.spotify.com/album/5gbsDOTG5sXs1nPGBPgMaH"
+      },
+      "artists": [
+        {
+          "name": "Affinity88",
+          "url": "https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148625,
+      "name": "Between Seasons",
+      "url": "https://open.spotify.com/track/4XPUL6dYh97Yl7mFsU7qch"
     },
     {
       "album": {
@@ -257,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Chalford",
+        "url": "https://open.spotify.com/album/4QeoYBpW1fA9D9DwxIm06j"
+      },
+      "artists": [
+        {
+          "name": "Quentin Noire",
+          "url": "https://open.spotify.com/artist/1FXZ3lnXGrC1N5WGYOzmRm"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179636,
+      "name": "Chalford",
+      "url": "https://open.spotify.com/track/6CbJQ7uTJjW3RjXBG9sU0o"
+    },
+    {
+      "album": {
         "name": "Elysium",
         "url": "https://open.spotify.com/album/07H5h0uPqEH3HVGc2tiGLk"
       },
@@ -304,7 +358,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 139514,
       "name": "Garden Beneath the Waves",
       "url": "https://open.spotify.com/track/4qBXeJ5rrp5uYO7wMGhRtU"
@@ -387,6 +441,24 @@
     },
     {
       "album": {
+        "name": "If Only Briefly",
+        "url": "https://open.spotify.com/album/3PbYdzUubS5rNZ8T9QR0tA"
+      },
+      "artists": [
+        {
+          "name": "Aurelio Li",
+          "url": "https://open.spotify.com/artist/4TO9hcCQfJDVBofrM5ra12"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142264,
+      "name": "If Only Briefly",
+      "url": "https://open.spotify.com/track/5eRsZ4TqauBUcHz04FTCZd"
+    },
+    {
+      "album": {
         "name": "Imperfect",
         "url": "https://open.spotify.com/album/2My5Rx7qQquQ2VzBMfrGMt"
       },
@@ -402,6 +474,24 @@
       "duration_ms": 147971,
       "name": "Imperfect",
       "url": "https://open.spotify.com/track/3jBt4wJEK7Jlf9g3Y5CZQf"
+    },
+    {
+      "album": {
+        "name": "In My Hands",
+        "url": "https://open.spotify.com/album/4cGgXKblTBpFCUWj1KSMix"
+      },
+      "artists": [
+        {
+          "name": "Julian North",
+          "url": "https://open.spotify.com/artist/4fzhFLI71Hrc3ONAwaiK4a"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126723,
+      "name": "In My Hands",
+      "url": "https://open.spotify.com/track/5Oopx6vHp520tfFT0re0iq"
     },
     {
       "album": {
@@ -477,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Le Silence",
+        "url": "https://open.spotify.com/album/1UtTt0MEqC4FM43PCtDDpe"
+      },
+      "artists": [
+        {
+          "name": "Martin Rapide",
+          "url": "https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130250,
+      "name": "Le Silence",
+      "url": "https://open.spotify.com/track/3UQoMxRBowlYY6Bkp5zskI"
+    },
+    {
+      "album": {
         "name": "Letting Go",
         "url": "https://open.spotify.com/album/2bEhEPKQWwJ3u8acrFtJLK"
       },
@@ -528,6 +636,24 @@
       "duration_ms": 171550,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/7H7htG1WiHeKfwjfDMZQEW"
+    },
+    {
+      "album": {
+        "name": "Moonbeams Surrender",
+        "url": "https://open.spotify.com/album/1TCp1W9GjA1GVKcdTVyqXM"
+      },
+      "artists": [
+        {
+          "name": "Zale Foster",
+          "url": "https://open.spotify.com/artist/27JTZNNeGNDXRnzNH8w4On"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132077,
+      "name": "Moonbeams Surrender",
+      "url": "https://open.spotify.com/track/37wqS4GzPzkCRpHZESj8xM"
     },
     {
       "album": {
@@ -639,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Portsmouth Forage",
+        "url": "https://open.spotify.com/album/0cXFFXoDVz9ZkiXSNlb2Mf"
+      },
+      "artists": [
+        {
+          "name": "Mano E Mano",
+          "url": "https://open.spotify.com/artist/6ZTtCGJlH0694XxyTFbPZ9"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117330,
+      "name": "Portsmouth Forage",
+      "url": "https://open.spotify.com/track/3kZmCo5LRPT29iUnBwhG93"
+    },
+    {
+      "album": {
         "name": "Pr\u00e9sence",
         "url": "https://open.spotify.com/album/06LRjkAlOZFoPL7JaMw5JK"
       },
@@ -690,6 +834,24 @@
       "duration_ms": 134742,
       "name": "Relief",
       "url": "https://open.spotify.com/track/7qTIIiGSvDAWGqvyK7ZbVq"
+    },
+    {
+      "album": {
+        "name": "Reminisce",
+        "url": "https://open.spotify.com/album/00I4uPtckukweP7GVOqZsk"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Kraal",
+          "url": "https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151562,
+      "name": "Reminisce",
+      "url": "https://open.spotify.com/track/6JAgrPR2SsSQbMKQLKU3Li"
     },
     {
       "album": {
@@ -816,6 +978,24 @@
       "duration_ms": 106904,
       "name": "Sign Language",
       "url": "https://open.spotify.com/track/7tX5i08r7YXsHVWakYV2UB"
+    },
+    {
+      "album": {
+        "name": "Sincere",
+        "url": "https://open.spotify.com/album/1PDggbII89GrULGkfmmcko"
+      },
+      "artists": [
+        {
+          "name": "Miriam Juno",
+          "url": "https://open.spotify.com/artist/1W4zQyEDpirI3RZbQbhUTw"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139533,
+      "name": "Sincere",
+      "url": "https://open.spotify.com/track/4GDvopkoUYaXkjJWfEZTul"
     },
     {
       "album": {
@@ -1050,6 +1230,24 @@
       "duration_ms": 166466,
       "name": "Sunset Fields",
       "url": "https://open.spotify.com/track/2IJt0x091l14kWVucFSOnm"
+    },
+    {
+      "album": {
+        "name": "Sunside",
+        "url": "https://open.spotify.com/album/0ODokPId0OyxADfWzouGgL"
+      },
+      "artists": [
+        {
+          "name": "Syrene",
+          "url": "https://open.spotify.com/artist/6Q9ePrzgGlI5DW95Xskv4p"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148421,
+      "name": "Sunside",
+      "url": "https://open.spotify.com/track/1YjZyU94YBTuLgBp1Df86F"
     },
     {
       "album": {

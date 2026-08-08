@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 
 > 日本独自のポップカルチャー=アイドル。"楽曲推し"でお届けします。Cover: モフモフモー
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,698 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,714 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 | 49 | [でしょ？！](https://open.spotify.com/track/7IPDFyeMa7lktG2PHeAOaa) | [美味しい曖昧](https://open.spotify.com/artist/0DscuscJNYat9HEjbxpCMx) | [でしょ？！](https://open.spotify.com/album/3Dk8ETky7hSIgLoZY6CGNk) | 3:06 |
 | 50 | [星に願いを](https://open.spotify.com/track/7cMdjiTpYCK7Sw8axx5lxj) | [AKANECLUB.](https://open.spotify.com/artist/3AyKLWQ1H1jbJAcQ187W27) | [活動記録](https://open.spotify.com/album/4D6y5a6xH32fBKJBlUJ2YP) | 3:21 |
 
-Snapshot ID: `AAAAAGyHeBRQhNfwoRoBx1hFI7WWN1bi`
+Snapshot ID: `AAAAAJCTH0vVdLJgtTRmjCMNLRt2bZVb`

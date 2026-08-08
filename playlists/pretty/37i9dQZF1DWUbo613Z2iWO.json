@@ -1,28 +1,44 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Josh Levi",
-  "num_followers": 59908,
+  "description": "R&B of the moment by the artists of the future. Cover: Noah Guy",
+  "num_followers": 59911,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMGcQfIjF/F0Rj48wouRKQFPUw6H",
+  "snapshot_id": "AAAAAPrPz7OEd4gYGX+nA4pllgKv4EQc",
   "tracks": [
     {
-      "added_at": "2026-07-31 05:44:34",
+      "added_at": "2026-08-07 16:49:17",
       "album": {
-        "name": "SWERVE",
-        "url": "https://open.spotify.com/album/5ij7M5p7MKeR13lrZwoDSr"
+        "name": "Got You",
+        "url": "https://open.spotify.com/album/5JTDmoExrvACCEeP1me28m"
       },
       "artists": [
         {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+          "name": "Noah Guy",
+          "url": "https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5"
         }
       ],
-      "duration_ms": 171783,
-      "name": "SWERVE",
-      "url": "https://open.spotify.com/track/7hcutCVlcgyfX0j95G1UiV"
+      "duration_ms": 210989,
+      "name": "Got You",
+      "url": "https://open.spotify.com/track/6gBV04aaYCPgTYyzCWL4XO"
+    },
+    {
+      "added_at": "2026-08-07 16:49:17",
+      "album": {
+        "name": "Catch n' Release",
+        "url": "https://open.spotify.com/album/7xyEdU4cfiwBoiNu6GvIEJ"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 167287,
+      "name": "Red Wine Holiday",
+      "url": "https://open.spotify.com/track/7xRM7xmbUsTROH08OoxsEs"
     },
     {
       "added_at": "2026-07-24 04:56:43",
@@ -41,20 +57,20 @@
       "url": "https://open.spotify.com/track/3BNljvFH5CaT9T0gcq94qa"
     },
     {
-      "added_at": "2026-07-10 05:29:33",
+      "added_at": "2026-07-31 05:44:34",
       "album": {
-        "name": "'Til We Meet Again",
-        "url": "https://open.spotify.com/album/0r8AyEKhH2xnRysPfV0Rda"
+        "name": "SWERVE",
+        "url": "https://open.spotify.com/album/5ij7M5p7MKeR13lrZwoDSr"
       },
       "artists": [
         {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
         }
       ],
-      "duration_ms": 259066,
-      "name": "'Til We Meet Again",
-      "url": "https://open.spotify.com/track/3d9Bq1knalWiwoTjkMwISL"
+      "duration_ms": 171783,
+      "name": "SWERVE",
+      "url": "https://open.spotify.com/track/7hcutCVlcgyfX0j95G1UiV"
     },
     {
       "added_at": "2026-07-31 05:44:34",
@@ -93,20 +109,20 @@
       "url": "https://open.spotify.com/track/1wWJmkrJi5IaNb2512YEcF"
     },
     {
-      "added_at": "2026-07-17 04:38:08",
+      "added_at": "2026-08-07 16:49:17",
       "album": {
-        "name": "Proud",
-        "url": "https://open.spotify.com/album/6ILkn1UPASocgMd4o9HmZ6"
+        "name": "DO YOU SEE ME?",
+        "url": "https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc"
       },
       "artists": [
         {
-          "name": "Jaymin",
-          "url": "https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94"
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
         }
       ],
-      "duration_ms": 130068,
-      "name": "Proud",
-      "url": "https://open.spotify.com/track/4p0An2hPS9EIhsS99lbSOT"
+      "duration_ms": 173103,
+      "name": "silly boy",
+      "url": "https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P"
     },
     {
       "added_at": "2026-07-10 05:29:33",
@@ -123,6 +139,58 @@
       "duration_ms": 165652,
       "name": "what u want",
       "url": "https://open.spotify.com/track/68icwERFCZaV107eHjqt77"
+    },
+    {
+      "added_at": "2026-07-10 05:29:33",
+      "album": {
+        "name": "'Til We Meet Again",
+        "url": "https://open.spotify.com/album/0r8AyEKhH2xnRysPfV0Rda"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "duration_ms": 259066,
+      "name": "'Til We Meet Again",
+      "url": "https://open.spotify.com/track/3d9Bq1knalWiwoTjkMwISL"
+    },
+    {
+      "added_at": "2026-07-17 04:38:08",
+      "album": {
+        "name": "Proud",
+        "url": "https://open.spotify.com/album/6ILkn1UPASocgMd4o9HmZ6"
+      },
+      "artists": [
+        {
+          "name": "Jaymin",
+          "url": "https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94"
+        }
+      ],
+      "duration_ms": 130068,
+      "name": "Proud",
+      "url": "https://open.spotify.com/track/4p0An2hPS9EIhsS99lbSOT"
+    },
+    {
+      "added_at": "2026-08-07 16:49:17",
+      "album": {
+        "name": "from me to me",
+        "url": "https://open.spotify.com/album/0PbyLn7tTbHifvJFzi74rd"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9onie Barbot",
+          "url": "https://open.spotify.com/artist/3FtbcwEbxflXP8nItuw2rA"
+        },
+        {
+          "name": "ESTA.",
+          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
+        }
+      ],
+      "duration_ms": 137368,
+      "name": "why can't u n i b friends?",
+      "url": "https://open.spotify.com/track/6YA9DzD0YRCofMauyAgStz"
     },
     {
       "added_at": "2026-07-24 04:56:43",
@@ -789,22 +857,6 @@
       "url": "https://open.spotify.com/track/29CQnZlg4xzTqdaZaYnGZ7"
     },
     {
-      "added_at": "2026-07-10 05:29:33",
-      "album": {
-        "name": "Nobody Nobody",
-        "url": "https://open.spotify.com/album/5OeWWL9h4ujWCSoqSKcbX8"
-      },
-      "artists": [
-        {
-          "name": "Devin Tracy",
-          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
-        }
-      ],
-      "duration_ms": 121728,
-      "name": "Nobody Nobody",
-      "url": "https://open.spotify.com/track/7gyZG8D3U8kYFqvju6QFU1"
-    },
-    {
       "added_at": "2026-06-26 05:40:08",
       "album": {
         "name": "Payback Is A Dog",
@@ -899,22 +951,6 @@
       "duration_ms": 171910,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/0NWsPR62mulEiwUXF5W7Ql"
-    },
-    {
-      "added_at": "2026-06-12 05:12:18",
-      "album": {
-        "name": "Go To Hell",
-        "url": "https://open.spotify.com/album/1WtrlQC3TsKAOTlWjxVdkt"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Go To Hell",
-      "url": "https://open.spotify.com/track/55oEeRm8eGPqQODbj4iE6q"
     },
     {
       "added_at": "2026-06-26 05:40:08",
@@ -1863,22 +1899,6 @@
       "duration_ms": 177173,
       "name": "Hvnly (feat. JIHYO)",
       "url": "https://open.spotify.com/track/2PqFh92NTHhlbshWLOumzl"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "Firestorm",
-        "url": "https://open.spotify.com/album/1M6NTBZo0XT64XLlWIiHji"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        }
-      ],
-      "duration_ms": 149720,
-      "name": "Firestorm",
-      "url": "https://open.spotify.com/track/5Oqa07elZ6N9dd9YL28gNU"
     },
     {
       "added_at": "2026-05-29 04:02:53",
@@ -3203,26 +3223,6 @@
       "duration_ms": 192192,
       "name": "On Ur Time",
       "url": "https://open.spotify.com/track/2XX9DsMkC1KSECUs6WGUxd"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "NOTHING IS REAL",
-        "url": "https://open.spotify.com/album/30V0p5iiu7YQXoz47Tek3v"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        }
-      ],
-      "duration_ms": 186285,
-      "name": "NOTHING IS REAL",
-      "url": "https://open.spotify.com/track/24TSN5Uo9nyALzxWCJPuSe"
     },
     {
       "added_at": "2026-05-29 04:02:53",

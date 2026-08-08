@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
-  "num_followers": 159171,
+  "num_followers": 159197,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAbV5Gbk9r0r/P0UjxjWF9ZUWRTU",
+  "snapshot_id": "AAAAAFkGLE8YbRaZ2GvZqQ3+1HofDMOt",
   "tracks": [
     {
       "added_at": "2025-03-13 14:12:56",
@@ -387,22 +387,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "January",
         "url": "https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 345706,
       "name": "Diamonds And Pearls",
       "url": "https://open.spotify.com/track/3yArsNjOHHr7FF0pxDFhwo"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "If It's Magic",
-        "url": "https://open.spotify.com/album/6cetRsJJ96m3KmLsVwEhVW"
-      },
-      "artists": [
-        {
-          "name": "Brandee Younger",
-          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
-        }
-      ],
-      "duration_ms": 209338,
-      "name": "If It's Magic",
-      "url": "https://open.spotify.com/track/5r8SovegCSL6r9GrbRFJBP"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Everybody Loves Angels",
         "url": "https://open.spotify.com/album/2KVy7tButMpXOxtlRxeuYm"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 320460,
       "name": "Morning Has Broken",
       "url": "https://open.spotify.com/track/4BEfsQb4k8hAu4OYZ9nlHv"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "If It's Magic",
+        "url": "https://open.spotify.com/album/6cetRsJJ96m3KmLsVwEhVW"
+      },
+      "artists": [
+        {
+          "name": "Brandee Younger",
+          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+        }
+      ],
+      "duration_ms": 209338,
+      "name": "If It's Magic",
+      "url": "https://open.spotify.com/track/5r8SovegCSL6r9GrbRFJBP"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9"
-      },
-      "artists": [
-        {
-          "name": "Staci Griesbach",
-          "url": "https://open.spotify.com/artist/4AYJ30X58CPBmSpsXgWehO"
-        }
-      ],
-      "duration_ms": 309810,
-      "name": "Here You Come Again",
-      "url": "https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Songbird",
         "url": "https://open.spotify.com/album/3N4bJn9W92OsBk8caft5LO"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 281333,
       "name": "\uff37\uff4f\uff4e\uff44\uff45\uff52\uff57\uff41\uff4c\uff4c",
       "url": "https://open.spotify.com/track/3sODcw4hHaxjzUrTzgzdfl"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9"
+      },
+      "artists": [
+        {
+          "name": "Staci Griesbach",
+          "url": "https://open.spotify.com/artist/4AYJ30X58CPBmSpsXgWehO"
+        }
+      ],
+      "duration_ms": 309810,
+      "name": "Here You Come Again",
+      "url": "https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR"
     },
     {
       "added_at": "2025-03-13 14:12:56",

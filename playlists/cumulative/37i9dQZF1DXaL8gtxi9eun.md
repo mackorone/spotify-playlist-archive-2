@@ -4,7 +4,7 @@
 
 > كل ما هو جديد في عالم البوب المصري\. الغلاف: شرنوبي
 
-510 songs - 1 day 6 hr 19 min
+511 songs - 1 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [AS YOU KNOW](https://open.spotify.com/track/2VlrFHUhvGqiWugpCtRYS8) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL), [KUKII](https://open.spotify.com/artist/6qOEFZyFqonqgBEZn5lkK7) | [AS YOU KNOW](https://open.spotify.com/album/56gDPVpY2eebVpwePbfzH1) | 2:49 | 2026-07-06 |  |
 | [Aseblak Rohy](https://open.spotify.com/track/3baoeifxx1faQNpk5lzosv) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Aseblak Rohy](https://open.spotify.com/album/4bXYJcShNLa3oifePIGewn) | 3:55 | 2024-10-18 | 2025-07-18 |
 | [Asheq Majnoon](https://open.spotify.com/track/5orvt7dTDRMeAnP0xw5GEV) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Asheq Majnoon](https://open.spotify.com/album/0NZnWtguxnWFzjx3GTJadc) | 3:41 | 2023-05-17 | 2023-08-28 |
+| [ASHOUFEK TANY](https://open.spotify.com/track/7A4fyvqztBPYJ3YYfiXWJe) | [TAG](https://open.spotify.com/artist/5zLTKFtt1a3Ndt9p9i6Em2), [HatemBas](https://open.spotify.com/artist/5kapqwWcLC1LL2xjaxEwJU) | [ASHOUFEK TANY](https://open.spotify.com/album/7dON93Ih6jJchbNYmMaACq) | 2:53 | 2026-08-07 |  |
 | [Awel Kol Haga](https://open.spotify.com/track/0z7T5qNnbWZ4zDL0vNWXlO) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Meaddy El Nas](https://open.spotify.com/album/1mrzsRg8FgZKlB0LQl0IAr) | 4:41 | 2026-04-22 | 2026-07-07 |
 | [Awla beya \- أولي بيا](https://open.spotify.com/track/4PmUvKfUxjoWxXLkrusgbY) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [Awla beya \- أولي بيا](https://open.spotify.com/album/1fupgv37d7K6vUmtYTfQIo) | 3:17 | 2024-12-06 | 2025-10-17 |
 | [Ayesh Fel Dabab](https://open.spotify.com/track/0VgIjzbIUIBSl1UIA59722) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Ayesh Fel Dabab](https://open.spotify.com/album/3X3PqXNxJ5giXq2HIcngnH) | 3:16 | 2023-02-02 | 2023-07-18 |

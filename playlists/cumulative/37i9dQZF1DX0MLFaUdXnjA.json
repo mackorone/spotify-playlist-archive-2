@@ -665,6 +665,24 @@
     },
     {
       "album": {
+        "name": "4 Seasons",
+        "url": "https://open.spotify.com/album/047IMuHZhdPJ8vsTED0lwD"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217069,
+      "name": "4 Seasons",
+      "url": "https://open.spotify.com/track/2IGJRTV2O1ICf6V0Y2Ku8v"
+    },
+    {
+      "album": {
         "name": "Good Riddance (Deluxe)",
         "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
       },
@@ -1340,7 +1358,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 193056,
       "name": "after all",
       "url": "https://open.spotify.com/track/4UCuyeaovBIUlyeecxU9Q4"
@@ -2203,6 +2221,28 @@
     },
     {
       "album": {
+        "name": "Always on Your Side",
+        "url": "https://open.spotify.com/album/04qmxEtttzyhoSzWWe5Kb0"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208680,
+      "name": "Always on Your Side",
+      "url": "https://open.spotify.com/track/6jJTpzMquQLVuUkM2vVEIF"
+    },
+    {
+      "album": {
         "name": "A Star Is Born Soundtrack (Without Dialogue)",
         "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
       },
@@ -2662,7 +2702,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 157746,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/0mWmLVtSUrAqpbueDcDJ3U"
@@ -3594,7 +3634,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 194346,
       "name": "Back in Love",
       "url": "https://open.spotify.com/track/3eFBPuf0y3Vguk6GUCNpwP"
@@ -4132,7 +4172,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 190000,
       "name": "BEAUTY QUEEN",
       "url": "https://open.spotify.com/track/1LywLmiRljnPwvwGVXrHih"
@@ -11086,7 +11126,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 183230,
       "name": "Dive",
       "url": "https://open.spotify.com/track/3tWpj6eJQMW0Aq1L109VWe"
@@ -11654,7 +11694,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 234015,
       "name": "Door",
       "url": "https://open.spotify.com/track/3TFteVg7d3VCHrRv0ASyOo"
@@ -12862,7 +12902,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 162333,
       "name": "Evergreen Avenue",
       "url": "https://open.spotify.com/track/3gqQj7QUW3azBS5Pl39t7t"
@@ -13456,7 +13496,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 184417,
       "name": "Faking Smiles",
       "url": "https://open.spotify.com/track/4qJBRY3cL9vpjqjBPjnIu2"
@@ -14024,6 +14064,28 @@
       "duration_ms": 157974,
       "name": "Feel It (From \u201cInvincible\u201d)",
       "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
+    },
+    {
+      "album": {
+        "name": "Feel Like That (feat. JP Saxe)",
+        "url": "https://open.spotify.com/album/0tOApcOZE9rb7VIy3rPMs6"
+      },
+      "artists": [
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+        },
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Feel Like That (feat. JP Saxe)",
+      "url": "https://open.spotify.com/track/76xg7dQSTHprdcJOjVYJbk"
     },
     {
       "album": {
@@ -17044,7 +17106,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 175066,
       "name": "Happy Again",
       "url": "https://open.spotify.com/track/65v5jCRK3Pgac5GSlIRbzx"
@@ -17266,6 +17328,24 @@
       "duration_ms": 202133,
       "name": "Hard Work",
       "url": "https://open.spotify.com/track/6lxhClexlw4zNH0yuxv4An"
+    },
+    {
+      "album": {
+        "name": "Chuck Timely & The Hourglass",
+        "url": "https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261427,
+      "name": "Harmony",
+      "url": "https://open.spotify.com/track/57a0usyQgVXthMoFZotx85"
     },
     {
       "album": {
@@ -22737,6 +22817,24 @@
     },
     {
       "album": {
+        "name": "Joan of Arc",
+        "url": "https://open.spotify.com/album/2gkGN4xpTLFo0HFlWXhU81"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Coleman",
+          "url": "https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282240,
+      "name": "Joan of Arc",
+      "url": "https://open.spotify.com/track/2EEQ6GrxDHsyaX6nq9CJh7"
+    },
+    {
+      "album": {
         "name": "John Hughes Movie",
         "url": "https://open.spotify.com/album/0hkUCfDTq7ATw6j0MZn9oc"
       },
@@ -23382,7 +23480,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 183431,
       "name": "KISS ME",
       "url": "https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql"
@@ -23988,6 +24086,24 @@
       "duration_ms": 74825,
       "name": "Le Ciel",
       "url": "https://open.spotify.com/track/4QRu2eetLrRNGI9LIiD8Su"
+    },
+    {
+      "album": {
+        "name": "Lean In, Kiss Me",
+        "url": "https://open.spotify.com/album/3FbC4QiZOBbpKENEnk1Wj6"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158973,
+      "name": "Lean In, Kiss Me",
+      "url": "https://open.spotify.com/track/4W5TwNu9mgYlIltWW6FnEE"
     },
     {
       "album": {
@@ -25819,6 +25935,24 @@
     },
     {
       "album": {
+        "name": "Chuck Timely & The Hourglass",
+        "url": "https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262057,
+      "name": "Love I You",
+      "url": "https://open.spotify.com/track/5va7AdTu5BWzZcziPkdxSP"
+    },
+    {
+      "album": {
         "name": "Love Is",
         "url": "https://open.spotify.com/album/4WjjFiRYtO1Hfmd9iUr8NB"
       },
@@ -26726,7 +26860,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 212861,
       "name": "Maggie",
       "url": "https://open.spotify.com/track/4a2r6VPZAbFcSX1qf0Aw74"
@@ -34697,6 +34831,24 @@
     },
     {
       "album": {
+        "name": "Catch n' Release",
+        "url": "https://open.spotify.com/album/7xyEdU4cfiwBoiNu6GvIEJ"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167287,
+      "name": "Red Wine Holiday",
+      "url": "https://open.spotify.com/track/7xRM7xmbUsTROH08OoxsEs"
+    },
+    {
+      "album": {
         "name": "Redemption Song (Bob Marley: One Love - Music Inspired By The Film)",
         "url": "https://open.spotify.com/album/3tKfzRSjAhQQvbdmI37KQh"
       },
@@ -34994,7 +35146,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 235705,
       "name": "Reputation (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"
@@ -40791,6 +40943,24 @@
     },
     {
       "album": {
+        "name": "Sun and the Moon",
+        "url": "https://open.spotify.com/album/2fJDRamYu0aHqyQ1gvesZz"
+      },
+      "artists": [
+        {
+          "name": "Julia Gartha",
+          "url": "https://open.spotify.com/artist/0msMwWNlbZhRSsGqAQdPAs"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160888,
+      "name": "Sun and the Moon",
+      "url": "https://open.spotify.com/track/7uHS0ucrK3ThWWKoKdjAfH"
+    },
+    {
+      "album": {
         "name": "Breathing into Bloom",
         "url": "https://open.spotify.com/album/5eockBcRNJDpmFtuLdzVDg"
       },
@@ -43602,7 +43772,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 228908,
       "name": "The Visitor",
       "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
@@ -47807,6 +47977,24 @@
     },
     {
       "album": {
+        "name": "When He\u2019s Gone",
+        "url": "https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186360,
+      "name": "When He\u2019s Gone",
+      "url": "https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz"
+    },
+    {
+      "album": {
         "name": "A Wonderful Life (Epilogue)",
         "url": "https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry"
       },
@@ -48945,6 +49133,24 @@
     },
     {
       "album": {
+        "name": "Blue Island",
+        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210293,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/22TwGp4fTgPdljzpEgrfgz"
+    },
+    {
+      "album": {
         "name": "Wish You Well",
         "url": "https://open.spotify.com/album/7q1q1QmZumtecSST83J210"
       },
@@ -49780,7 +49986,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 207190,
       "name": "You Stole The Show",
       "url": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"

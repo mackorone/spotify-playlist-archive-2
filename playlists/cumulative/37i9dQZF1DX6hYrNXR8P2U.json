@@ -1446,7 +1446,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 143936,
       "name": "BENDITA",
       "url": "https://open.spotify.com/track/7nXV9qGCPnQm5nma1rUqth"
@@ -5484,7 +5484,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 161280,
       "name": "Kokedama",
       "url": "https://open.spotify.com/track/5llc2UsmRrTJEPK1nrB9Hw"
@@ -11221,6 +11221,24 @@
     },
     {
       "album": {
+        "name": "#puff",
+        "url": "https://open.spotify.com/album/4Ba8Wxdinf7HXDVKYTFNbe"
+      },
+      "artists": [
+        {
+          "name": "Masto",
+          "url": "https://open.spotify.com/artist/3lzNvbHluLevEUvTjGmtHX"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141965,
+      "name": "sin hielo",
+      "url": "https://open.spotify.com/track/7xdLWL7JhPCKEEgkuR2JY0"
+    },
+    {
+      "album": {
         "name": "sin mirar",
         "url": "https://open.spotify.com/album/256sP7HP2JdilDPCAmAs4t"
       },
@@ -12982,6 +13000,10 @@
         {
           "name": "Laura sad",
           "url": "https://open.spotify.com/artist/4IRXvbsbSP4oHm4adUdQlt"
+        },
+        {
+          "name": "Ego Bloy",
+          "url": "https://open.spotify.com/artist/0Zlhs2U3qndSBlfb9HHSYK"
         }
       ],
       "date_added": "2026-05-01",

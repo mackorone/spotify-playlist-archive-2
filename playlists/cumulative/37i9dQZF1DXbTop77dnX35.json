@@ -555,6 +555,32 @@
     },
     {
       "album": {
+        "name": "2 MAGARITA (with Blaqbonez & Noon Dave)",
+        "url": "https://open.spotify.com/album/4S0vrhEN2GxjfVVVQR78IB"
+      },
+      "artists": [
+        {
+          "name": "Chocolate City",
+          "url": "https://open.spotify.com/artist/3Ub0Cq3b0cXfIUoWP7Swnv"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Noon Dave",
+          "url": "https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "2 MAGARITA (with Blaqbonez & Noon Dave)",
+      "url": "https://open.spotify.com/track/0P5Ufp4vpPYecwrXomOKdP"
+    },
+    {
+      "album": {
         "name": "True To Self (Deluxe)",
         "url": "https://open.spotify.com/album/0FKIhRZXxjDsxccQLiUlbz"
       },
@@ -990,32 +1016,6 @@
       "duration_ms": 165970,
       "name": "2Kidney - Remix",
       "url": "https://open.spotify.com/track/6bkAOavs4hlbtBKLyqMOZg"
-    },
-    {
-      "album": {
-        "name": "2MAGARITAS (with Blaqbonez & Noon Dave)",
-        "url": "https://open.spotify.com/album/4S0vrhEN2GxjfVVVQR78IB"
-      },
-      "artists": [
-        {
-          "name": "Chocolate City",
-          "url": "https://open.spotify.com/artist/3Ub0Cq3b0cXfIUoWP7Swnv"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Noon Dave",
-          "url": "https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm"
-        }
-      ],
-      "date_added": "2026-08-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173142,
-      "name": "2MAGARITAS (with Blaqbonez & Noon Dave)",
-      "url": "https://open.spotify.com/track/0P5Ufp4vpPYecwrXomOKdP"
     },
     {
       "album": {
@@ -31029,7 +31029,7 @@
     },
     {
       "album": {
-        "name": "Do or Die (feat. Ric Hassani, Timi dre, Lovn, Morello, Bensh47 & Kpee)",
+        "name": "Do or Die (feat. Kpee, Morrelo & Bensh47)",
         "url": "https://open.spotify.com/album/2FI5NJjClaW9AHgOCaWeUh"
       },
       "artists": [
@@ -31047,26 +31047,26 @@
         },
         {
           "name": "Lovn",
-          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
-        },
-        {
-          "name": "Morello",
-          "url": "https://open.spotify.com/artist/2sbylx3aOr0XGW90udqDLl"
-        },
-        {
-          "name": "BENSH47",
-          "url": "https://open.spotify.com/artist/4zS8Ddu7VyywBFvx8ki7qw"
+          "url": "https://open.spotify.com/artist/00bzZREvy1UcM3GyxUKfaW"
         },
         {
           "name": "Kpee",
           "url": "https://open.spotify.com/artist/0R0U0reEPZrIBPCu9dp1Jf"
+        },
+        {
+          "name": "Morrelo",
+          "url": "https://open.spotify.com/artist/5NRc0M274Rv77nzXtH0avd"
+        },
+        {
+          "name": "BENSH47",
+          "url": "https://open.spotify.com/artist/4zS8Ddu7VyywBFvx8ki7qw"
         }
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 208074,
-      "name": "Do or Die (feat. Ric Hassani, Timi dre, Lovn, Morello, Bensh47 & Kpee)",
+      "name": "Do or Die (feat. Kpee, Morrelo & Bensh47)",
       "url": "https://open.spotify.com/track/1EtrtVvX6eHQ2FzUGCtvyY"
     },
     {
@@ -84459,7 +84459,7 @@
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 222047,
+      "duration_ms": 218267,
       "name": "Ninde",
       "url": "https://open.spotify.com/track/3vo4PVj2vnvOJQjKxfuGgH"
     },
@@ -99798,7 +99798,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 200314,
-      "name": "Private Chef",
+      "name": "Private Chef (feat. MC Morena)",
       "url": "https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt"
     },
     {
@@ -122611,6 +122611,24 @@
     },
     {
       "album": {
+        "name": "What Does It Take to Bloom?",
+        "url": "https://open.spotify.com/album/54ST4y3yA1Is8hXRhDpH2o"
+      },
+      "artists": [
+        {
+          "name": "Somi",
+          "url": "https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307660,
+      "name": "Throw Something",
+      "url": "https://open.spotify.com/track/5Ahzftt1kLGb1daMiLOk8e"
+    },
+    {
+      "album": {
         "name": "Pink Hell",
         "url": "https://open.spotify.com/album/55rL0l4dFnyycESlhE91NW"
       },
@@ -125148,24 +125166,6 @@
       "duration_ms": 0,
       "name": "Track 1",
       "url": "https://open.spotify.com/track/61j282lTW0Q2F2Zl7MDQZ9"
-    },
-    {
-      "album": {
-        "name": "What Does It Take to Bloom?",
-        "url": "https://open.spotify.com/album/54ST4y3yA1Is8hXRhDpH2o"
-      },
-      "artists": [
-        {
-          "name": "Somi",
-          "url": "https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA"
-        }
-      ],
-      "date_added": "2026-08-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/5Ahzftt1kLGb1daMiLOk8e"
     },
     {
       "album": {

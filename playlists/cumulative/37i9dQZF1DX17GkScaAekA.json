@@ -1117,6 +1117,28 @@
     },
     {
       "album": {
+        "name": "Opus 7 for String Quintet",
+        "url": "https://open.spotify.com/album/62woVfY3frYJwvYajDe9Co"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Felipe",
+          "url": "https://open.spotify.com/artist/2B3WqjVWqSqTR6oD4lnGIg"
+        },
+        {
+          "name": "DeComposers",
+          "url": "https://open.spotify.com/artist/1mI5STBm9NOoBFA0bjJX0S"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164010,
+      "name": "Esteio",
+      "url": "https://open.spotify.com/track/5lG49D1UTqkvQtVvi0vXVt"
+    },
+    {
+      "album": {
         "name": "In A Time Lapse",
         "url": "https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG"
       },
@@ -1653,6 +1675,28 @@
     },
     {
       "album": {
+        "name": "Massenet: \u00c9l\u00e9gie",
+        "url": "https://open.spotify.com/album/50AQI96UbXgi49K8dDzTle"
+      },
+      "artists": [
+        {
+          "name": "Jules Massenet",
+          "url": "https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124386,
+      "name": "Massenet: 10 Pi\u00e8ces de genre, Op. 10: No. 5, M\u00e9lodie \"\u00c9l\u00e9gie\"",
+      "url": "https://open.spotify.com/track/3p5sjpE5JjqvN3uVRMUaYW"
+    },
+    {
+      "album": {
         "name": "Resonances",
         "url": "https://open.spotify.com/album/15aPCHxkWKvv13S8KCGGeQ"
       },
@@ -2070,6 +2114,28 @@
       "duration_ms": 96466,
       "name": "Nocturne No. 4 in C Minor \"Bal fant\u00f4me\", FP 56/4",
       "url": "https://open.spotify.com/track/4haLpVH6I0absZMa2kiw16"
+    },
+    {
+      "album": {
+        "name": "Lunaris",
+        "url": "https://open.spotify.com/album/1SxpR5PUJS2tjgjbKq3drA"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Bruce Liu",
+          "url": "https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384613,
+      "name": "Nocturne No. 8 in D-Flat Major, Op. 27 No. 2",
+      "url": "https://open.spotify.com/track/4tr7NeQYGvvGGyxjhh5QyX"
     },
     {
       "album": {

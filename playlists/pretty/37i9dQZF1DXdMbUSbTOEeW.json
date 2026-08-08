@@ -1,12 +1,12 @@
 {
   "description": "India\u2019s biggest dance anthems, filling every dance floor right now. Cover: Dhurandhar",
-  "num_followers": 82702,
+  "num_followers": 82752,
   "original_name": "mint india",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEIAXjx2S4PilkUNMul3lRNBZKEQ",
+  "snapshot_id": "AAAAANVGn3QozIs6LA3okw548i06Knn0",
   "tracks": [
     {
       "added_at": "2026-07-20 06:52:00",
@@ -307,38 +307,6 @@
     {
       "added_at": "2026-07-20 06:52:00",
       "album": {
-        "name": "Jab Talak (From \u201cCocktail 2\u201d)",
-        "url": "https://open.spotify.com/album/13TFS2PsukoC4xLHULBClg"
-      },
-      "artists": [
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        },
-        {
-          "name": "AKASA",
-          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
-        },
-        {
-          "name": "Madhubanti Bagchi",
-          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
-        }
-      ],
-      "duration_ms": 192203,
-      "name": "Jab Talak - From \u201cCocktail 2\u201d",
-      "url": "https://open.spotify.com/track/3KZSwka3VHbj4edxiaqxfa"
-    },
-    {
-      "added_at": "2026-07-20 06:52:00",
-      "album": {
         "name": "Aaya Sher (From \"The Paradise\") (Telugu)",
         "url": "https://open.spotify.com/album/47i89HeDSUWHJGFT1wzAWP"
       },
@@ -395,42 +363,34 @@
     {
       "added_at": "2026-07-20 06:52:00",
       "album": {
-        "name": "Aura 10/10 (From \"Meesaya Murukku 2\")",
-        "url": "https://open.spotify.com/album/6HvRqIC1KLVpc5qNkqAgVC"
+        "name": "Jab Talak (From \u201cCocktail 2\u201d)",
+        "url": "https://open.spotify.com/album/13TFS2PsukoC4xLHULBClg"
       },
       "artists": [
         {
-          "name": "Hiphop Tamizha",
-          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
         },
         {
-          "name": "Thamizh Aadhavan",
-          "url": "https://open.spotify.com/artist/2naoxh21roEyvOd7NWwDUb"
-        }
-      ],
-      "duration_ms": 129251,
-      "name": "Aura 10/10 (From \"Meesaya Murukku 2\")",
-      "url": "https://open.spotify.com/track/0xYYUicaDPp0VPyL0z7xzB"
-    },
-    {
-      "added_at": "2026-07-20 06:52:00",
-      "album": {
-        "name": "Making Memories",
-        "url": "https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
         },
         {
-          "name": "Ikky",
-          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        },
+        {
+          "name": "AKASA",
+          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
         }
       ],
-      "duration_ms": 155161,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ"
+      "duration_ms": 192203,
+      "name": "Jab Talak - From \u201cCocktail 2\u201d",
+      "url": "https://open.spotify.com/track/3KZSwka3VHbj4edxiaqxfa"
     },
     {
       "added_at": "2026-07-20 06:52:00",
@@ -475,6 +435,46 @@
       "duration_ms": 155590,
       "name": "Dhurandhar - Title Track",
       "url": "https://open.spotify.com/track/5xKr4HfdnYLMDmAJZkOuBc"
+    },
+    {
+      "added_at": "2026-07-20 06:52:00",
+      "album": {
+        "name": "Making Memories",
+        "url": "https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "duration_ms": 155161,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ"
+    },
+    {
+      "added_at": "2026-07-20 06:52:00",
+      "album": {
+        "name": "Aura 10/10 (From \"Meesaya Murukku 2\")",
+        "url": "https://open.spotify.com/album/6HvRqIC1KLVpc5qNkqAgVC"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        },
+        {
+          "name": "Thamizh Aadhavan",
+          "url": "https://open.spotify.com/artist/2naoxh21roEyvOd7NWwDUb"
+        }
+      ],
+      "duration_ms": 129251,
+      "name": "Aura 10/10 (From \"Meesaya Murukku 2\")",
+      "url": "https://open.spotify.com/track/0xYYUicaDPp0VPyL0z7xzB"
     },
     {
       "added_at": "2026-07-20 06:52:00",
@@ -547,26 +547,6 @@
     {
       "added_at": "2026-07-20 06:52:00",
       "album": {
-        "name": "Shaky",
-        "url": "https://open.spotify.com/album/1Ws1Vt9nXhYx43sKw3h9Fi"
-      },
-      "artists": [
-        {
-          "name": "Sanju Rathod",
-          "url": "https://open.spotify.com/artist/4B9efXsA6sv4w3vts8E0T7"
-        },
-        {
-          "name": "G-SPXRK",
-          "url": "https://open.spotify.com/artist/7BcFJxi62f6cbPyxdTZGll"
-        }
-      ],
-      "duration_ms": 175138,
-      "name": "Shaky",
-      "url": "https://open.spotify.com/track/2HI1eYwbbiJGqi0XaeByOI"
-    },
-    {
-      "added_at": "2026-07-20 06:52:00",
-      "album": {
         "name": "Dhurandhar The Revenge",
         "url": "https://open.spotify.com/album/4jlyYLklV3kTBA6trX3bpj"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 210053,
       "name": "Dhurandhar The Revenge - Aari Aari",
       "url": "https://open.spotify.com/track/157BtwkY54FQ3Xl8DsTso1"
+    },
+    {
+      "added_at": "2026-07-20 06:52:00",
+      "album": {
+        "name": "Shaky",
+        "url": "https://open.spotify.com/album/1Ws1Vt9nXhYx43sKw3h9Fi"
+      },
+      "artists": [
+        {
+          "name": "Sanju Rathod",
+          "url": "https://open.spotify.com/artist/4B9efXsA6sv4w3vts8E0T7"
+        },
+        {
+          "name": "G-SPXRK",
+          "url": "https://open.spotify.com/artist/7BcFJxi62f6cbPyxdTZGll"
+        }
+      ],
+      "duration_ms": 175138,
+      "name": "Shaky",
+      "url": "https://open.spotify.com/track/2HI1eYwbbiJGqi0XaeByOI"
     },
     {
       "added_at": "2026-07-20 06:52:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2026-07-20 06:52:00",
       "album": {
+        "name": "Haider (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3JjCJkHvXRX8s2PgwVMXuL"
+      },
+      "artists": [
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        }
+      ],
+      "duration_ms": 365571,
+      "name": "Bismil",
+      "url": "https://open.spotify.com/track/7EadaXiYHu40vxlHyE1ib7"
+    },
+    {
+      "added_at": "2026-07-20 06:52:00",
+      "album": {
         "name": "Muqabla (From \"Street Dancer 3D\")",
         "url": "https://open.spotify.com/album/3cK9AtRTNgQNfb2WzyhyYW"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 176125,
       "name": "Muqabla (From \"Street Dancer 3D\")",
       "url": "https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8"
-    },
-    {
-      "added_at": "2026-07-20 06:52:00",
-      "album": {
-        "name": "Haider (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3JjCJkHvXRX8s2PgwVMXuL"
-      },
-      "artists": [
-        {
-          "name": "Sukhwinder Singh",
-          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
-        }
-      ],
-      "duration_ms": 365571,
-      "name": "Bismil",
-      "url": "https://open.spotify.com/track/7EadaXiYHu40vxlHyE1ib7"
     },
     {
       "added_at": "2026-07-20 06:52:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "The home of Latin R&B \u2764\ufe0f La casa del R&B Latino. Cover: Zulia",
+  "description": "The home of Latin R&B \u2764\ufe0f La casa del R&B Latino. Cover: Immasoul",
   "name": "Latin R&B",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 174093,
       "name": "19 HORAS",
       "url": "https://open.spotify.com/track/0TQ7ZzUutFsbyWPehDLdkG"
@@ -1269,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "Bendecida",
+        "url": "https://open.spotify.com/album/5OK16vusVUgFjpaN5cKQsH"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142285,
+      "name": "Bendecida",
+      "url": "https://open.spotify.com/track/3Ls9XiHTGnfvqqprSYYfoU"
+    },
+    {
+      "album": {
         "name": "Bendici\u00f3n Bye Bye",
         "url": "https://open.spotify.com/album/51N1A6D68k8H2L3D1EP5OU"
       },
@@ -1814,7 +1832,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 172496,
       "name": "Cantar\u00e9",
       "url": "https://open.spotify.com/track/2fWnWT3gpMywv1ojIPo7AY"
@@ -2356,7 +2374,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 186715,
       "name": "Contrabando",
       "url": "https://open.spotify.com/track/6eZzJzbyOwT01i8Tdgk2br"
@@ -3529,6 +3547,24 @@
     },
     {
       "album": {
+        "name": "Miss Me Much?",
+        "url": "https://open.spotify.com/album/1a84mOgwvjDxfwSBpJxoP2"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Isabel",
+          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197625,
+      "name": "El Premio",
+      "url": "https://open.spotify.com/track/15Qpoi7VSKdE5JNdfVfsgM"
+    },
+    {
+      "album": {
         "name": "el vuelo",
         "url": "https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3"
       },
@@ -3979,6 +4015,28 @@
     },
     {
       "album": {
+        "name": "Fine 4Me",
+        "url": "https://open.spotify.com/album/35BPFn1y5fQXlb1HaKh674"
+      },
+      "artists": [
+        {
+          "name": "Faus K",
+          "url": "https://open.spotify.com/artist/4Dp9S8ukWAo7FOIloXG2mp"
+        },
+        {
+          "name": "Ivan Armesto",
+          "url": "https://open.spotify.com/artist/2JCTGC05daU0leldfrJg0d"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154798,
+      "name": "Fine 4Me",
+      "url": "https://open.spotify.com/track/0f3admp88H8QV2ljYWczx9"
+    },
+    {
+      "album": {
         "name": "Fr\u00edo",
         "url": "https://open.spotify.com/album/251ubhwCkD47ljB7FLK9DN"
       },
@@ -4190,7 +4248,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 202478,
       "name": "Garabatos",
       "url": "https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye"
@@ -8604,6 +8662,24 @@
       "duration_ms": 190685,
       "name": "Siguiendo Tu Voz",
       "url": "https://open.spotify.com/track/2hPtSn5rWBtXUygMF1ibio"
+    },
+    {
+      "album": {
+        "name": "Sin M\u00ed",
+        "url": "https://open.spotify.com/album/33A5vKIqvwVGfvtnhx0GNh"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179186,
+      "name": "Sin M\u00ed",
+      "url": "https://open.spotify.com/track/0eUR25AAXUBYWTGhNoSX5u"
     },
     {
       "album": {

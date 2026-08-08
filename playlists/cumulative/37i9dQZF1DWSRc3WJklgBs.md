@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,605 songs - 3 day 20 hr 30 min
+1,607 songs - 3 day 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1124,6 +1124,7 @@
 | [Rest Of My Life](https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns) | [Rest Of My Life](https://open.spotify.com/album/7zeA4kJCW5R6Qef90r2zQM) | 3:25 | 2024-01-19 | 2025-08-30 |
 | [Restart](https://open.spotify.com/track/5uFFA1KyAntOLo0WYmzNFF) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Restart EP](https://open.spotify.com/album/2vQkBAkvDqzJND57bwMEMr) | 2:32 | 2020-12-05 | 2021-09-25 |
 | [Retrograded \- Wankelmut Remix](https://open.spotify.com/track/0MFf5ClNLSEfFSfs28GmDb) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH) | [Retrograded \(Wankelmut Remix\)](https://open.spotify.com/album/6GQSSSn59FvCTKxvRet1ZP) | 3:17 | 2019-08-09\* | 2019-09-27 |
+| [Return to Ojai](https://open.spotify.com/track/3g70GmoZQlHPOTIkPUxLd9) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Return to Ojai](https://open.spotify.com/album/5HiSFg20JTQ5KTcD5Xsini) | 4:19 | 2026-08-07 |  |
 | [Revelations](https://open.spotify.com/track/40zJbxW89dq6bEwUVLrxJS) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Revelations](https://open.spotify.com/album/6qYPN9DGpfMYQiPItLUjwN) | 3:28 | 2023-05-26 | 2025-08-30 |
 | [Reverie](https://open.spotify.com/track/2JjzEnHml6T2UjF8Evud85) | [Kyau & Albert](https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc), [Steve Brian](https://open.spotify.com/artist/4xSQ9zt3zGyyiCXazv4mhf) | [Wanderlust](https://open.spotify.com/album/5FDLJc6wSkoj1gstHyE5lA) | 2:58 | 2019-08-09\* | 2020-03-29 |
 | [Reverie \(feat\. King Deco\)](https://open.spotify.com/track/5xBw4KxEiFQwJ27U1Woy9l) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [King Deco](https://open.spotify.com/artist/4OEToyI1vqVhG1b9wxXzTV) | [Ashes](https://open.spotify.com/album/1aNWsfl6osnt0NO7Kubknx) | 4:59 | 2019-08-09\* | 2019-09-14 |
@@ -1322,6 +1323,7 @@
 | [Sweetest Thing](https://open.spotify.com/track/4BCda1bJa57fTMB2laaOeX) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [RNSOM](https://open.spotify.com/artist/0PDXIBsT4ZOJyqrF1MYnxh), [Davis](https://open.spotify.com/artist/1UMFvfUUhddeehpyd7D8dw) | [UNSOUND EP](https://open.spotify.com/album/5OntSYDFZdSm4byHGNiUOj) | 3:28 | 2022-01-21 | 2024-04-10 |
 | [Swimming In Your Eyes](https://open.spotify.com/track/1clNueVAJ6a3orfLksJ1Sk) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n) | [Swimming In Your Eyes](https://open.spotify.com/album/3s00JsMokTyY89ZERHP2QL) | 3:16 | 2021-11-13 | 2022-04-29 |
 | [Synapse Dynamics](https://open.spotify.com/track/7149PzASMowluOarCWzZcv) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1) | [Lucky Strike / Synapse Dynamics](https://open.spotify.com/album/3qRLXFFbdLa2Sirhp8J1BO) | 3:52 | 2019-08-09\* | 2019-08-27 |
+| [SYW \(feat\. Cecile Believe\)](https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [SYW \(feat\. Cecile Believe\)](https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9) | 2:46 | 2026-08-07 |  |
 | [Take](https://open.spotify.com/track/07HrxwZqh0R2QGg0mABuYA) | [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [Echos](https://open.spotify.com/album/0IMs2SyGSyl3fVRtFNeQdx) | 3:16 | 2019-08-09\* | 2019-09-14 |
 | [Take A Chance](https://open.spotify.com/track/75Nq7k2qnyeOlXIOiJ56HN) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Greatest Tits](https://open.spotify.com/album/3NV7lasFnUDfE4ZMvYKwQx) | 4:24 | 2023-06-30 | 2024-10-26 |
 | [Take A Chance On Me](https://open.spotify.com/track/6KJBwR1yrqviwL31XRpu3n) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Greatest Tits](https://open.spotify.com/album/3yZSOcz06tt6XFh5sWGnkI) | 4:24 | 2023-07-14 | 2024-04-19 |

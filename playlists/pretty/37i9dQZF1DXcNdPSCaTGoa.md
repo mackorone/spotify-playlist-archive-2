@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Celebrating South Africa's most beloved hits\. Cover: J'Something
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,351 likes - 60 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,396 likes - 60 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 26 | [Lwandle](https://open.spotify.com/track/6UQCZ9wUMdDX87eVYAqJy4) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Ibutho](https://open.spotify.com/album/5l4OrBtOd4rGfpCEzWrfi2) | 5:11 |
 | 27 | [Mambotjie \(feat\. 2Shot\)](https://open.spotify.com/track/0whydZVhYUiAQ7LIQErJeM) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [2 Shot](https://open.spotify.com/artist/1w7mqJk0lodbOOb7tZGPzX) | [Halloween](https://open.spotify.com/album/15SNp2BWjBL3oSs2KnExpF) | 4:22 |
 | 28 | [Doo Be Doo](https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 5:11 |
-| 29 | [Free](https://open.spotify.com/track/45k24cRKkfkLoA6nslCwHG) | [Lebo Mathosa](https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo) | [Legends](https://open.spotify.com/album/0kiATdsriTo3fErLWa1rBp) | 5:14 |
-| 30 | [Ingoma](https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe](https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM) | 6:12 |
-| 31 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
+| 29 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
+| 30 | [Free](https://open.spotify.com/track/45k24cRKkfkLoA6nslCwHG) | [Lebo Mathosa](https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo) | [Legends](https://open.spotify.com/album/0kiATdsriTo3fErLWa1rBp) | 5:14 |
+| 31 | [Ingoma](https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe](https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM) | 6:12 |
 | 32 | [Shibobo / The Final Countdown](https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:51 |
 | 33 | [I'd Like](https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 6:22 |
 | 34 | [Sana Luma \(Thats The Way Love Is\)](https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Khokhovula](https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK) | 5:17 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 54 | [Khona](https://open.spotify.com/track/300DzFkBAgf9PgPbl0ta4o) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN), [Uhuru](https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2) | [Evo Mix](https://open.spotify.com/album/5Vi28u2YzzR0X5OGszHajc) | 4:55 |
 | 55 | [Doc Shebeleza](https://open.spotify.com/track/1fRMv66SdJrWowk0rJduKM) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Tsholofelo \(Platinum Edition\)](https://open.spotify.com/album/367X12thcQ6YbzKYWLGXFc) | 3:51 |
 | 56 | [Zabalaza](https://open.spotify.com/track/7nLs6J61QEVgfJsCFBCl4S) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2) | 6:42 |
-| 57 | [Ungaphel' Umoya Son](https://open.spotify.com/track/497xN2vH7jrdMJwssIZkEt) | [Pro Kid](https://open.spotify.com/artist/5HE0pmik1Vo6uww4nZKxli) | [Heads and Tales](https://open.spotify.com/album/0H1DKASzcSdPOSrXc8Ovx6) | 4:36 |
-| 58 | [Tot Die Son Uitkom](https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 4:56 |
-| 59 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
+| 57 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
+| 58 | [Ungaphel' Umoya Son](https://open.spotify.com/track/497xN2vH7jrdMJwssIZkEt) | [Pro Kid](https://open.spotify.com/artist/5HE0pmik1Vo6uww4nZKxli) | [Heads and Tales](https://open.spotify.com/album/0H1DKASzcSdPOSrXc8Ovx6) | 4:36 |
+| 59 | [Tot Die Son Uitkom](https://open.spotify.com/track/4shIYnY3P1FAJZxldDI9JD) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 4:56 |
 | 60 | [Ndiredi](https://open.spotify.com/track/4AxFUQVcla7vyMSl4tGBZj) | [Simphiwe Dana](https://open.spotify.com/artist/5l39d1wBRlqBC1qhXmYCuu) | [Grand Masters](https://open.spotify.com/album/4pZt9qJUgqAevuCKmzw5Fj) | 4:56 |
 
-Snapshot ID: `AAAAAJdRrV/fSmaC0AmTRqGpWWPK3NvC`
+Snapshot ID: `AAAAABiyjnMCa6aUB00ccB8LDMQCgXFV`

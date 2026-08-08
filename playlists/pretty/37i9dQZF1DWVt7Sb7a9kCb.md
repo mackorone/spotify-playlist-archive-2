@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 
 > Llévatela tranqui con los hits más relajados del urbano\. ROBI y Wisin en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,777 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,793 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 | 31 | [30 Mil Pies](https://open.spotify.com/track/6A8ZNt71PS4PuBtxbdXV0L) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [30 Mil Pies](https://open.spotify.com/album/6ShLV3WRgmC5RtXA99g2sU) | 3:07 |
 | 32 | [Rojo](https://open.spotify.com/track/380HmhwTE2NJgawn1NwkXi) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 2:30 |
 | 33 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 |
-| 34 | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC) | 2:20 |
-| 35 | [Santa](https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Santa](https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia) | 3:13 |
+| 34 | [Santa](https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Santa](https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia) | 3:13 |
+| 35 | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC) | 2:20 |
 | 36 | [X TI](https://open.spotify.com/track/4TFjpINnVhINpTdrtNQIvx) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [POR SI ALGUIEN NOS ESCUCHA](https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe) | 3:35 |
 | 37 | [La Semana](https://open.spotify.com/track/4NMoJRudco3Fc2EO5DCtGe) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Semana](https://open.spotify.com/album/2vdBYs1jB7bAUC495Q1ZdO) | 3:30 |
 | 38 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 | 49 | [Pareja Del Año](https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Pareja Del Año](https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ) | 3:15 |
 | 50 | [Me Gustas Natural](https://open.spotify.com/track/1Sym1HsTqsa2pYKhYL1j15) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:50 |
 | 51 | [Hiekka](https://open.spotify.com/track/6OCNg7QchXJMww1LHMjIzb) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Hiekka](https://open.spotify.com/album/7yLjEgbX8qIr4N1JDanGN0) | 3:33 |
-| 52 | [No Te Quieren Conmigo](https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K) | [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [No Te Quieren Conmigo](https://open.spotify.com/album/2ScGgvceSV8y2Cx4nPPjYP) | 4:12 |
+| 52 | [CONTIGO VOY A MUERTE](https://open.spotify.com/track/615XWyY2RPfk3iuYcU6qvi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:39 |
 | 53 | [SOLEAO](https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [SOLEAO](https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP) | 3:38 |
-| 54 | [CONTIGO VOY A MUERTE](https://open.spotify.com/track/615XWyY2RPfk3iuYcU6qvi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:39 |
+| 54 | [No Te Quieren Conmigo](https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K) | [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [No Te Quieren Conmigo](https://open.spotify.com/album/2ScGgvceSV8y2Cx4nPPjYP) | 4:12 |
 | 55 | [sobelove](https://open.spotify.com/track/4GZOxR1IuvoRiUz0gpmASl) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [sobelove](https://open.spotify.com/album/3RkTny4UF5dEHzCsExXeOO) | 2:11 |
 | 56 | [Más Que Tú](https://open.spotify.com/track/6TzgG83Mj85lfnkWTuyO8O) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Más Que Tú](https://open.spotify.com/album/4SQs6PQwQFanCdSfF0CUd9) | 3:17 |
 | 57 | [LLEVA AL SOL](https://open.spotify.com/track/47zVKSB29KsEjcBPBrFSTB) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [love love FLAKK](https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be) | 1:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVt7Sb7a9kCb.md) - [plain]
 | 99 | [Quiero +](https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Quiero +](https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv) | 2:08 |
 | 100 | [Angelito](https://open.spotify.com/track/5zm5Ra1DVCmujK882R7QSP) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [Angelito](https://open.spotify.com/album/51XfF3Vuzhj33GNL4GFUWw) | 3:47 |
 
-Snapshot ID: `AAAAAOArCr8gRvVLOsfA9ce2liozZE5F`
+Snapshot ID: `AAAAAE1CsI0FSuEBg4FLQbiQiBgWe8X4`

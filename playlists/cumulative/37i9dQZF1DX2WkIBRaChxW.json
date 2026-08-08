@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "What's happening in r&b, right now \u2013 featuring Masego.",
+  "description": "What's happening in r&b, right now \u2013 featuring FLO.",
   "name": "R&B Right Now",
   "tracks": [
     {
@@ -2695,6 +2695,24 @@
     },
     {
       "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201450,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/41hDtBjgJ2rN4yUiYSPbfg"
+    },
+    {
+      "album": {
         "name": "GOD DID",
         "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
       },
@@ -3304,7 +3322,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 194400,
       "name": "Blood On The Strings",
       "url": "https://open.spotify.com/track/5dhRaReCkkoaJUgVilnd5B"
@@ -3836,7 +3854,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 134577,
       "name": "Brunch",
       "url": "https://open.spotify.com/track/2kNfvDTTZOFcDoPTyKoAdT"
@@ -4486,6 +4504,24 @@
       "duration_ms": 230795,
       "name": "Caught Up",
       "url": "https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ"
+    },
+    {
+      "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/374CWbM43yweqsdvTEn2oS"
+      },
+      "artists": [
+        {
+          "name": "Os\u00e9",
+          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187463,
+      "name": "cease & desist",
+      "url": "https://open.spotify.com/track/4Del9gOGUGuxbkVaHRkTjv"
     },
     {
       "album": {
@@ -5796,6 +5832,24 @@
       "duration_ms": 104070,
       "name": "Cry On You",
       "url": "https://open.spotify.com/track/488d0odzx7GHa427jIvnDv"
+    },
+    {
+      "album": {
+        "name": "THERAPY AT THE CLUB",
+        "url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159700,
+      "name": "Cry Ugly",
+      "url": "https://open.spotify.com/track/61p1mfca6giD6MP75hEu5m"
     },
     {
       "album": {
@@ -7228,7 +7282,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 259540,
       "name": "Driving Miss Daisy",
       "url": "https://open.spotify.com/track/5Pw1JjIwTA5pG2M9B8sGOB"
@@ -14545,6 +14599,24 @@
     },
     {
       "album": {
+        "name": "Icon (Director's Cut)",
+        "url": "https://open.spotify.com/album/6HDOmDgxzVWIhBAKDGI4tV"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200610,
+      "name": "like it was. [bonus track]",
+      "url": "https://open.spotify.com/track/2UgTHKJFCYqQ7CGmmslDeC"
+    },
+    {
+      "album": {
         "name": "Lil' Obsession",
         "url": "https://open.spotify.com/album/4w5kf2SU2JQ6NV0CZcTpTt"
       },
@@ -15951,6 +16023,24 @@
     },
     {
       "album": {
+        "name": "On The Road",
+        "url": "https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa"
+      },
+      "artists": [
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185973,
+      "name": "Masculine Love",
+      "url": "https://open.spotify.com/track/4qwFfzcMM1qoOxxmCJBti4"
+    },
+    {
+      "album": {
         "name": "Masego\u2019s Interlude",
         "url": "https://open.spotify.com/album/74uSNVth7Fl2J18RbFLqaH"
       },
@@ -16024,7 +16114,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 156802,
       "name": "medicine man",
       "url": "https://open.spotify.com/track/5Ct1Ch3I5ztFMQmlssjdLi"
@@ -16748,10 +16838,32 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 243896,
       "name": "MORNING DEW (DONK)",
       "url": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT"
+    },
+    {
+      "album": {
+        "name": "MORNING DEW (DONK) REMIX PACK",
+        "url": "https://open.spotify.com/album/6zaCeCipglDayKB85IVKRl"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217215,
+      "name": "MORNING DEW (DONK) REMIX FEAT JA\u0178-Z",
+      "url": "https://open.spotify.com/track/5sTOQbZvUnrX7lFfLRmpFw"
     },
     {
       "album": {
@@ -18847,6 +18959,24 @@
     },
     {
       "album": {
+        "name": "One Sided",
+        "url": "https://open.spotify.com/album/6LppWJEdvUgGInucQBWX34"
+      },
+      "artists": [
+        {
+          "name": "Myles Lloyd",
+          "url": "https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182474,
+      "name": "One Sided",
+      "url": "https://open.spotify.com/track/04Z06rmw8BMSBahqr3KvS4"
+    },
+    {
+      "album": {
         "name": "ONE TRACK MIND",
         "url": "https://open.spotify.com/album/2JOvmn8Eq4nwSUjeKfBEeQ"
       },
@@ -20128,7 +20258,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 266613,
       "name": "point blank",
       "url": "https://open.spotify.com/track/3iVIWU9iGw8bJ8x2mfwXnI"
@@ -20908,6 +21038,28 @@
       "duration_ms": 185692,
       "name": "Put On Repeat",
       "url": "https://open.spotify.com/track/4ADMbmfzTk6BWBeKOIdfF8"
+    },
+    {
+      "album": {
+        "name": "Put Up",
+        "url": "https://open.spotify.com/album/46yLNPmVixjtMo5zR0sQ4q"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        },
+        {
+          "name": "Lady London",
+          "url": "https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172008,
+      "name": "Put Up",
+      "url": "https://open.spotify.com/track/1di5wVDR3Y4tKOaiuhFQ5B"
     },
     {
       "album": {
@@ -22188,7 +22340,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 155670,
       "name": "Say Sumn",
       "url": "https://open.spotify.com/track/5sL4dsV605fLUKdepT7pif"
@@ -22950,6 +23102,24 @@
       "duration_ms": 220400,
       "name": "Sick (feat. 4batz)",
       "url": "https://open.spotify.com/track/3V8Cz6eVyTUCBWooVwNvR3"
+    },
+    {
+      "album": {
+        "name": "DO YOU SEE ME?",
+        "url": "https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173103,
+      "name": "silly boy",
+      "url": "https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P"
     },
     {
       "album": {
@@ -25102,7 +25272,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 223520,
       "name": "Sweet Sensation",
       "url": "https://open.spotify.com/track/08lMm17NyaTxqE2pnyLNi8"

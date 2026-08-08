@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 
 > Hypnotic bliss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 812,652 likes - 154 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,644 likes - 154 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 153 | [Nights Shining](https://open.spotify.com/track/4ntDp0FMEDnTxGF6GlLYiO) | [Dyfi Francis](https://open.spotify.com/artist/1JKh71Pj7aGLigPUqmoeqj) | [Nights Shining](https://open.spotify.com/album/3qlmZd1suoqPjmJ8P2lUcV) | 3:18 |
 | 154 | [Wherever We Go](https://open.spotify.com/track/0AFJiHFXZLXvM426b05kQA) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Wherever We Go](https://open.spotify.com/album/060ql2hG4jbNXknXA8sEIu) | 2:32 |
 
-Snapshot ID: `AAAAANt0GLW/t5TuHtzyYouB/7UluPbN`
+Snapshot ID: `AAAAAPyjnAE2P8uNwW/Kphvia227U/0N`

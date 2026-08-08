@@ -1,12 +1,12 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 458491,
+  "num_followers": 458499,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACMKyYypFLpiPxiqjepAbNHy8Pot",
+  "snapshot_id": "AAAAAJ5R6IP2GbRkRWLIOuWzYQb2K3qT",
   "tracks": [
     {
       "added_at": "2025-07-31 16:00:18",
@@ -647,26 +647,6 @@
     {
       "added_at": "2025-07-31 16:00:18",
       "album": {
-        "name": "I Was Made",
-        "url": "https://open.spotify.com/album/3zHqo2ygJlcfOyzxLyLevV"
-      },
-      "artists": [
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
-        },
-        {
-          "name": "Le Pedre",
-          "url": "https://open.spotify.com/artist/2nwk9rtXu9sJ4sh8LLyDUE"
-        }
-      ],
-      "duration_ms": 155399,
-      "name": "I Was Made",
-      "url": "https://open.spotify.com/track/0ieEZjHQO5eq9Uad7opItK"
-    },
-    {
-      "added_at": "2025-07-31 16:00:18",
-      "album": {
         "name": "Make Your Move",
         "url": "https://open.spotify.com/album/0MuTtOd6C9QlO1iWiIlXgq"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 168991,
       "name": "Make Your Move",
       "url": "https://open.spotify.com/track/4cuJbDiraxt9AsEeevmFuQ"
+    },
+    {
+      "added_at": "2025-07-31 16:00:18",
+      "album": {
+        "name": "I Was Made",
+        "url": "https://open.spotify.com/album/3zHqo2ygJlcfOyzxLyLevV"
+      },
+      "artists": [
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        },
+        {
+          "name": "Le Pedre",
+          "url": "https://open.spotify.com/artist/2nwk9rtXu9sJ4sh8LLyDUE"
+        }
+      ],
+      "duration_ms": 155399,
+      "name": "I Was Made",
+      "url": "https://open.spotify.com/track/0ieEZjHQO5eq9Uad7opItK"
     },
     {
       "added_at": "2025-07-31 16:00:18",
@@ -1051,22 +1051,22 @@
     {
       "added_at": "2025-07-31 16:00:18",
       "album": {
-        "name": "Thank You [Not So Bad]",
-        "url": "https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK"
+        "name": "Hear Me Tonight",
+        "url": "https://open.spotify.com/album/2kJHrTUZ21XbtKO9fEFzhG"
       },
       "artists": [
         {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "felix jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+          "name": "THRDL!FE",
+          "url": "https://open.spotify.com/artist/04O00MEN0lHEKWTwRjb1nS"
         }
       ],
-      "duration_ms": 197963,
-      "name": "Thank You [Not So Bad]",
-      "url": "https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81"
+      "duration_ms": 188500,
+      "name": "Hear Me Tonight",
+      "url": "https://open.spotify.com/track/0v8OKUrqZGoEbgEUXScRSQ"
     }
   ],
   "unique_name": "EDM Samplings",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Odeal",
+  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: FLO",
   "name": "Groovin' R&B",
   "tracks": [
     {
@@ -598,6 +598,32 @@
       "duration_ms": 182278,
       "name": "A Million More",
       "url": "https://open.spotify.com/track/7r0YOMoBepzw3405MOPfZ1"
+    },
+    {
+      "album": {
+        "name": "A.S.A.P (feat. Emi Okamoto & Aile The Shota)",
+        "url": "https://open.spotify.com/album/2aZCGyCCcTa4GN7SZa5v9l"
+      },
+      "artists": [
+        {
+          "name": "DJ KRUTCH",
+          "url": "https://open.spotify.com/artist/6quCZUk219wxHsLw2yt08t"
+        },
+        {
+          "name": "Emi Okamoto",
+          "url": "https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li"
+        },
+        {
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195541,
+      "name": "A.S.A.P (feat. Emi Okamoto & Aile The Shota)",
+      "url": "https://open.spotify.com/track/26mrB0e8pNwosIEc5MdU8X"
     },
     {
       "album": {
@@ -5023,6 +5049,24 @@
     },
     {
       "album": {
+        "name": "THERAPY AT THE CLUB",
+        "url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159700,
+      "name": "Cry Ugly",
+      "url": "https://open.spotify.com/track/61p1mfca6giD6MP75hEu5m"
+    },
+    {
+      "album": {
         "name": "Cry4U",
         "url": "https://open.spotify.com/album/6GEv6IcFNqpZv630uTxcz8"
       },
@@ -6469,6 +6513,28 @@
     },
     {
       "album": {
+        "name": "Emotional Spectrum",
+        "url": "https://open.spotify.com/album/1IpP4f1q4cGQ6X268bN4R7"
+      },
+      "artists": [
+        {
+          "name": "Lil' Leise But Gold",
+          "url": "https://open.spotify.com/artist/0u4knCwkqdkkwuG2ddLr4n"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120461,
+      "name": "Emotional Spectrum",
+      "url": "https://open.spotify.com/track/0yfS8ra9aDZuqPeZqYhV1F"
+    },
+    {
+      "album": {
         "name": "end love",
         "url": "https://open.spotify.com/album/0WUIKudyv240iuajZfMBoP"
       },
@@ -7314,6 +7380,32 @@
       "duration_ms": 221677,
       "name": "FK4 2.0",
       "url": "https://open.spotify.com/track/1YgIa9m3ZlcImBMghTfNWr"
+    },
+    {
+      "album": {
+        "name": "Flat Soda (feat. SPENSR)",
+        "url": "https://open.spotify.com/album/3U31uE2Dnn25hk7lDIqdN4"
+      },
+      "artists": [
+        {
+          "name": "AKIRA",
+          "url": "https://open.spotify.com/artist/6ssW8So4tdpbto3NUOktqv"
+        },
+        {
+          "name": "Kingo",
+          "url": "https://open.spotify.com/artist/0EQsho43hajeaj7OxSVVZP"
+        },
+        {
+          "name": "SPENSR",
+          "url": "https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204714,
+      "name": "Flat Soda (feat. SPENSR)",
+      "url": "https://open.spotify.com/track/3W4PBHhNqSh7qleArHFDUX"
     },
     {
       "album": {
@@ -8482,7 +8574,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 176417,
       "name": "Give It To Me Straight",
       "url": "https://open.spotify.com/track/5IHOFe5CC6Azp3aVIy5FV7"
@@ -9300,7 +9392,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 84855,
       "name": "head 2 toe",
       "url": "https://open.spotify.com/track/39TaWKQwe5maEDLZJhNpmI"
@@ -10528,7 +10620,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 286306,
       "name": "I Knew You Were Waiting (For Me) (with Cynthia Erivo)",
       "url": "https://open.spotify.com/track/06cz05YQ32UqnLjxYGrOvj"
@@ -10780,7 +10872,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 266013,
       "name": "I Try So Hard",
       "url": "https://open.spotify.com/track/5KZjnGM9r0dU4R7hrUGAYG"
@@ -11280,6 +11372,24 @@
       "duration_ms": 308551,
       "name": "Imperfections",
       "url": "https://open.spotify.com/track/6S6MXD4L4Zo8rUfUMTPM9i"
+    },
+    {
+      "album": {
+        "name": "Blue Island",
+        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "In & Out",
+      "url": "https://open.spotify.com/track/6KLLoGHAIYPfNYfRo4U1Ql"
     },
     {
       "album": {
@@ -14588,6 +14698,24 @@
       "duration_ms": 205920,
       "name": "MASC (feat. Teezo Touchdown)",
       "url": "https://open.spotify.com/track/4CphT44U2oOp2XzqWKUyeo"
+    },
+    {
+      "album": {
+        "name": "On The Road",
+        "url": "https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa"
+      },
+      "artists": [
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185973,
+      "name": "Masculine Love",
+      "url": "https://open.spotify.com/track/4qwFfzcMM1qoOxxmCJBti4"
     },
     {
       "album": {
@@ -19354,7 +19482,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 128000,
       "name": "Remedied",
       "url": "https://open.spotify.com/track/0kjt7clFnD75MjoN4mhdcj"
@@ -22311,6 +22439,28 @@
     },
     {
       "album": {
+        "name": "Square Up",
+        "url": "https://open.spotify.com/album/3kQLDzH2oF0sLcPUVdFgDn"
+      },
+      "artists": [
+        {
+          "name": "Dahi",
+          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
+        },
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182120,
+      "name": "Square Up",
+      "url": "https://open.spotify.com/track/6z23ALs89TA5LEckkkFTTm"
+    },
+    {
+      "album": {
         "name": "Squeeze",
         "url": "https://open.spotify.com/album/705LfArn43DdhivgfDYX8q"
       },
@@ -22962,7 +23112,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 213375,
       "name": "Sunday Afternoon",
       "url": "https://open.spotify.com/track/5xYzP7BZkXSJfVcduPIbqq"

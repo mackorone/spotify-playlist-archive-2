@@ -2,9 +2,9 @@
 
 ### [Québécois Contemporain](https://open.spotify.com/playlist/37i9dQZF1DX8X9gjW0N3D7)
 
-> De la musique québécoise pour tous les goûts\.  Photo: A Girl Named Sue
+> De la musique québécoise pour tous les goûts\.  Photo: Hansom Ēli
 
-567 songs - 1 day 7 hr 42 min
+570 songs - 1 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Ease Your Mind](https://open.spotify.com/track/73c34EROCHGpIDvSPUbqZ5) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Ease Your Mind](https://open.spotify.com/album/6dZrX3G7FhaEDIXSU5UgYA) | 3:02 | 2026-07-10 |  |
 | [Eau saline](https://open.spotify.com/track/7IkaPBIOjCVxEUlTVSUvrj) | [Mahéja](https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM) | [Eau saline](https://open.spotify.com/album/49WxLzNLiKZ9xOiztUOlhp) | 4:03 | 2025-09-12 | 2025-11-22 |
 | [Eh Oh!](https://open.spotify.com/track/0IeLLHkiaLRzaoFsHkI7xE) | [Vilain Pingouin](https://open.spotify.com/artist/7lS2jO7gRXSOtMYlhfjtbi) | [Eh Oh!](https://open.spotify.com/album/0JbvP9UVGoKONhiPcZ9E4F) | 2:36 | 2025-06-13 | 2025-11-22 |
+| [Emmêlé dans ses ch'veux](https://open.spotify.com/track/5jwqiVZBqEsNCup6rcx9rU) | [JF Pauzé](https://open.spotify.com/artist/39KOW7xbNWdI7SBMcXlo9d) | [Les amours de seconde main](https://open.spotify.com/album/3Hesk7w0WcahDmMjpTybob) | 4:43 | 2026-08-07 |  |
 | [Encore](https://open.spotify.com/track/0fwqRA13Is4S1HCDW5NeuS) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Encore](https://open.spotify.com/album/6UtBF8mZYbiL0lhmHvl13u) | 3:43 | 2024-11-08 | 2025-01-25 |
 | [ENCORE ENCORE](https://open.spotify.com/track/5BoKkmRZBVbpjrdoMe92TO) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [ENCORE ENCORE](https://open.spotify.com/album/5PVXBvRLA9BOPnRU0CYLae) | 3:11 | 2026-01-30 |  |
 | [Encore une nuit](https://open.spotify.com/track/5ggb2gpw01Bi0topzyAbFh) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj) | [Encore une nuit](https://open.spotify.com/album/6DGk9TbDgkGHGZppzfVfIg) | 2:30 | 2026-01-09 | 2026-02-21 |
@@ -188,6 +189,7 @@
 | [I Lost My Baby](https://open.spotify.com/track/2a4TQ1K4qKkjF5QsUcLbRw) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [I Lost My Baby](https://open.spotify.com/album/1tdEkNNmgbYuRnGLthjNdl) | 2:13 | 2024-06-28 | 2024-07-19 |
 | [I took off my heels](https://open.spotify.com/track/0oeBdq0kLwNv8Vcfz3cHBi) | [Avery Jane](https://open.spotify.com/artist/4ShbxQ4vJNnnFdMl0EMHCg) | [I took off my heels](https://open.spotify.com/album/2sn5qLIgKhTSXrd3LxvmDc) | 3:46 | 2026-02-06 | 2026-04-11 |
 | [Idiot](https://open.spotify.com/track/6CnnCExCfjAZcjmVWSv8fL) | [Jimmy Hunt](https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2) | [Royaume](https://open.spotify.com/album/4aP35HIeabWoSciYT7UBDi) | 3:57 | 2024-06-28 | 2024-08-24 |
+| [If Time ’26](https://open.spotify.com/track/4akzkJlxy9FDpa5axng9CE) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh) | [If Time '26](https://open.spotify.com/album/0iCNkmgtnmryJH1R59l3U6) | 3:12 | 2026-08-07 |  |
 | [Il faut que je migre](https://open.spotify.com/track/7eBfWRx7k41ufBTiokl96p) | [Irène](https://open.spotify.com/artist/5nK5s5oK58IWpRwWcoogYS) | [Il faut que je migre](https://open.spotify.com/album/4jRzUZY5FBu937fnIlv7em) | 3:00 | 2024-06-28 | 2024-08-17 |
 | [Il y a tant de moi en vous](https://open.spotify.com/track/49bqtZIf4uii8vOQQD4hsy) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8), [Patrick Krief](https://open.spotify.com/artist/3qLS4mXlfuL6vnKdDe2dK6) | [Scarabée](https://open.spotify.com/album/6y1UMNEMz5lFm0eZZ6v39f) | 3:37 | 2025-06-06 | 2025-10-18 |
 | [Imprudences](https://open.spotify.com/track/7y9gFcoaAmuO1hsFsakQKI) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [Imprudences](https://open.spotify.com/album/3PEbqGoks0gX4m9JuKLz0F) | 3:18 | 2025-04-25 | 2025-05-17 |
@@ -238,7 +240,7 @@
 | [L'amour est ma devise](https://open.spotify.com/track/2QOYRsXR5mHlkZOpqQeokD) | [Memony](https://open.spotify.com/artist/4fbbqtt94wbq0fJkc9LdZN), [Kingdom Street](https://open.spotify.com/artist/1lnUL64UOur97nIDHKEbNI) | [L'amour est ma devise](https://open.spotify.com/album/0iW1Nicw2U3pVRpDUWce5V) | 2:37 | 2025-09-26 | 2025-12-06 |
 | [L'amour est un jeu](https://open.spotify.com/track/6BRvdcso2N0DiV47ye9zxa) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [On s'enverra des fleurs](https://open.spotify.com/album/5C9adKmsorWrba3oDcgeGH) | 2:23 | 2025-10-03 | 2025-10-18 |
 | [L'autre hémisphère](https://open.spotify.com/track/7irvZlBqN7beslyn6EYJ3q) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [L'autre hémisphère](https://open.spotify.com/album/7FMTj5WXP0mLjPAiJIXluH) | 3:41 | 2024-08-09 | 2025-05-17 |
-| [L'avalanche](https://open.spotify.com/track/4epe5Hl4QCVyuPMMuV1qbi) | [Moses Belanger](https://open.spotify.com/artist/4LQlLBaLTEC9pzoded38hd) | [L'avalanche](https://open.spotify.com/album/1eQGR0F4cMZTIg5Xj6wjVO) | 3:24 | 2026-01-30 |  |
+| [L'avalanche](https://open.spotify.com/track/4epe5Hl4QCVyuPMMuV1qbi) | [Moses Belanger](https://open.spotify.com/artist/4LQlLBaLTEC9pzoded38hd) | [L'avalanche](https://open.spotify.com/album/1eQGR0F4cMZTIg5Xj6wjVO) | 3:24 | 2026-01-30 | 2026-08-08 |
 | [L'Eldorado](https://open.spotify.com/track/4JNSwi0Ianf7GehfFSQACX) | [Léyla Caminel](https://open.spotify.com/artist/13YIcrzTPUY7F5NtQ1ijFy) | [L'Eldorado](https://open.spotify.com/album/2szvSfOSMzU8Wc1NnB9usY) | 4:13 | 2026-02-27 | 2026-05-09 |
 | [L'embranchement](https://open.spotify.com/track/6YnVdI1YVBLsp2wBCrsTb3) | [Stéphane Archambault](https://open.spotify.com/artist/5mW94dZAqDWHpnj23vvXdF) | [Point](https://open.spotify.com/album/54amvrCm1neA2wWwLRX7Wo) | 3:52 | 2025-05-23 | 2025-11-15 |
 | [L'enfant](https://open.spotify.com/track/1IBiHeP00McsgUdaxV2zNa) | [Tomás Jensen](https://open.spotify.com/artist/6589fvi46EUYl0jInr8haq), [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [L'enfant](https://open.spotify.com/album/60PrtXtx5eA7QcW5IuQzAY) | 2:23 | 2026-06-19 |  |
@@ -372,6 +374,7 @@
 | [November](https://open.spotify.com/track/5KvvoUGjQbhvxXcy4uGv92) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [November](https://open.spotify.com/album/3uk1PrItz6lETT2ooiL8wI) | 3:00 | 2026-03-13 | 2026-05-02 |
 | [Néant ordinaire](https://open.spotify.com/track/23yrNim8H5GfXo8O1cSUiv) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Néant ordinaire](https://open.spotify.com/album/6nkpqHZt6rX5hQLUUWWcpg) | 3:17 | 2025-06-20 | 2025-11-15 |
 | [Névrose \(Radio Edit\)](https://open.spotify.com/track/2DJwnSFTpk2H59G0ahMgWb) | [Joseph Boonen](https://open.spotify.com/artist/75yQ1VHbMDt2zo4HAuO4GG) | [Névrose \(Radio Edit\)](https://open.spotify.com/album/6B2N4pA6JHfbwpAArzxjje) | 2:50 | 2024-08-23 | 2025-08-02 |
+| [Oh, My Lanta!](https://open.spotify.com/track/0dthKlUKUhIUN0YHluFXs7) | [Theo Day](https://open.spotify.com/artist/7kInTAGydeTIPx9JwrSApc) | [Oh, My Lanta!](https://open.spotify.com/album/5YI9qlHooRZbiEZfJi8fsM) | 2:54 | 2026-08-07 |  |
 | [Oiseau migrateur](https://open.spotify.com/track/2QOHrzgwSZg7oDrrLEshB0) | [Nana Quinn](https://open.spotify.com/artist/6oB1eI3s62d0KyLxrKG0x4) | [tout me quitte / tout vient à moi](https://open.spotify.com/album/6NzSqNUhcdFuOYlqgGVZJn) | 4:37 | 2026-01-30 | 2026-03-21 |
 | [Oiseaux de Paradis](https://open.spotify.com/track/4vQjdtvs6U5j7qtm3be4ii) | [Lewis Dice](https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea) | [Oiseaux de Paradis](https://open.spotify.com/album/0AXDQPjo1lF6EqO2maXujt) | 2:04 | 2026-02-13 |  |
 | [OLI](https://open.spotify.com/track/4tnXRWJqHTAvaS8kJSNs24) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [Malgré la tempête \(Deluxe\)](https://open.spotify.com/album/2LKIx3NVFNyalSbbvp4VAi) | 3:19 | 2026-06-12 |  |
@@ -426,7 +429,7 @@
 | [Quand vient le soir](https://open.spotify.com/track/4ElgKVuLY1tLvImEqFjpMh) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [Quand vient le soir](https://open.spotify.com/album/7JVCoH5a44JEupaJdMbN5R) | 3:45 | 2026-05-08 | 2026-06-27 |
 | [Que je vous aime](https://open.spotify.com/track/7x4DcnTpKSlQZrzMgpugv0) | [Gabriella Olivo](https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO) | [Que je vous aime](https://open.spotify.com/album/1AiiElsCE9tm1xryxCswZP) | 3:16 | 2026-03-27 | 2026-06-27 |
 | [Que ta lumière](https://open.spotify.com/track/7HnHrPmhNbpj7Dim9MhoiD) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Que ta lumière](https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO) | 3:52 | 2026-04-10 |  |
-| [Quel tourment !](https://open.spotify.com/track/5TTrU6eheAdQYyHSL7dnR7) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb), [Jeanne Côté](https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7), [Ponteix](https://open.spotify.com/artist/1v0LRrF0AKvsTKrzNqVTEl) | [Quel tourment !](https://open.spotify.com/album/5lH7pG039yqIIryX9XUmPO) | 3:22 | 2026-04-24 |  |
+| [Quel tourment !](https://open.spotify.com/track/5TTrU6eheAdQYyHSL7dnR7) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb), [Jeanne Côté](https://open.spotify.com/artist/2dNYXvbpBSHNjYc8eAvQB7), [Ponteix](https://open.spotify.com/artist/1v0LRrF0AKvsTKrzNqVTEl) | [Quel tourment !](https://open.spotify.com/album/5lH7pG039yqIIryX9XUmPO) | 3:22 | 2026-04-24 | 2026-08-08 |
 | [Quelque chose](https://open.spotify.com/track/4kU9TPu6WatoMCFwULSKVm) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Quelque chose](https://open.spotify.com/album/7p16VbgKxfQWbDpAX6w4OH) | 2:05 | 2025-09-12 | 2025-10-18 |
 | [Quelque part](https://open.spotify.com/track/0UHRWEgyy2q6VrF97datxO) | [Annie Villeneuve](https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa) | [Quelque part](https://open.spotify.com/album/1vfVX1lxSPPWOyNFtJE0qe) | 2:39 | 2024-09-20 | 2025-09-13 |
 | [Quitter la ville](https://open.spotify.com/track/2P27FSOybu4OXzkLkyCH4u) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj), [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Quitter la ville](https://open.spotify.com/album/4TuUgN6lJSQueUpDtjvBjG) | 3:05 | 2024-06-28 | 2024-11-09 |
@@ -435,7 +438,7 @@
 | [rappelle\-moi comme je t'aime](https://open.spotify.com/track/7t2FQ6axbPAIlvF0hL1fHo) | [Katrine Sansregret](https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw) | [rappelle\-moi comme je t'aime](https://open.spotify.com/album/1uOEvYoyBaPZiyoiGQloia) | 2:27 | 2026-02-20 |  |
 | [Rappelle\-moi ton nom](https://open.spotify.com/track/3MtXsHcd0EjV30p8wxh0HW) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Rappelle\-moi ton nom](https://open.spotify.com/album/7DScWywsdMi8hIELiaSk3t) | 3:29 | 2024-06-28 | 2024-07-13 |
 | [Rat Race](https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Rat Race](https://open.spotify.com/album/7g3bUniW4uLES5gHH5nRGA) | 3:10 | 2026-07-10 |  |
-| [Rebound](https://open.spotify.com/track/2NU1A3X5QujCGbAPdknQds) | [BLAMM](https://open.spotify.com/artist/1TbAGh6JkVh5HvZT6rYNx5) | [Rebound](https://open.spotify.com/album/7EsBLqMpkg846Of7Dz34j9) | 3:56 | 2026-07-10 |  |
+| [Rebound](https://open.spotify.com/track/2NU1A3X5QujCGbAPdknQds) | [BLAMM](https://open.spotify.com/artist/1TbAGh6JkVh5HvZT6rYNx5) | [Rebound](https://open.spotify.com/album/7EsBLqMpkg846Of7Dz34j9) | 3:56 | 2026-07-10 | 2026-08-08 |
 | [reel talk](https://open.spotify.com/track/5EByJp6cwNCzueuovl04Am) | [Alphonse Bisaillon](https://open.spotify.com/artist/2D6FbkaHZ4AYvKzp2E2Plt) | [t.o.m\. ou la trajectoire des perséides](https://open.spotify.com/album/7Knxggbd3Q6zv5jzad9hLY) | 3:19 | 2026-04-17 |  |
 | [Reflets](https://open.spotify.com/track/09D9HBU9x7hLNZUmgcJLCZ) | [dear•dree](https://open.spotify.com/artist/1HAU4BADFzqOCZr6dvV1DD) | [Reflets](https://open.spotify.com/album/7d1M8gX8nrbzju67TheCSs) | 3:26 | 2025-11-21 | 2026-02-07 |
 | [Replay](https://open.spotify.com/track/3Fu2ct0KmhS0Fg8gnUNpix) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [Replay](https://open.spotify.com/album/4XNkm49r2qUs1dEtImT5vH) | 2:36 | 2025-03-28 | 2025-10-25 |

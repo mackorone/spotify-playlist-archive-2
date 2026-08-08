@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,042,164 likes - 40 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,041,876 likes - 40 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 39 | [Pwede Ka Ba?](https://open.spotify.com/track/1RNCibCOmM49zenUyBXSLy) | [Frank Ely](https://open.spotify.com/artist/4wKXUX1hMeAmlAVOi7cfG0) | [Pwede Ka Ba?](https://open.spotify.com/album/2YyfEjYnbwlUttZNBlZ5Pf) | 4:58 |
 | 40 | [Mahika](https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mahika](https://open.spotify.com/album/3WaVt2pLL12vKhAwQgKld4) | 3:21 |
 
-Snapshot ID: `AAAAAH389IwVF6JGOuCFNIbmLuZLetKv`
+Snapshot ID: `AAAAAAvbhk5HuIlNZv4TD0qxxKBudeqn`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 
 > This is Ana Bárbara\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,574 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,577 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 | 25 | [La Jugada](https://open.spotify.com/track/4JYL9I4fOKA1uculx98rr0) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Bordado a Mano](https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh) | 3:53 |
 | 26 | [Reza y Reza](https://open.spotify.com/track/6Z6FqnImFvNvxg9aHW2HKz) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Las Que Más Amo](https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3) | 2:52 |
 | 27 | [Capullo Y Sorullo](https://open.spotify.com/track/7bLdwOQ7kLW7sWCIiewffp) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Cumbias Para Bailar](https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne) | 4:41 |
-| 28 | [Nada de Ti](https://open.spotify.com/track/5ikUjQaH48yITEb174TQIi) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Nada de Ti](https://open.spotify.com/album/1vMml3En3NNjiSmokeLg4q) | 3:43 |
-| 29 | [Eso No Es De Hombres](https://open.spotify.com/track/1ZdEnOa9OCyF2m2LXXz2aj) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Te Regalo La Lluvia](https://open.spotify.com/album/27OJXEuLv7BO55eHhc8FDg) | 3:11 |
+| 28 | [Eso No Es De Hombres](https://open.spotify.com/track/1ZdEnOa9OCyF2m2LXXz2aj) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Te Regalo La Lluvia](https://open.spotify.com/album/27OJXEuLv7BO55eHhc8FDg) | 3:11 |
+| 29 | [Nada de Ti](https://open.spotify.com/track/5ikUjQaH48yITEb174TQIi) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Nada de Ti](https://open.spotify.com/album/1vMml3En3NNjiSmokeLg4q) | 3:43 |
 | 30 | [Nadie Me Vera Llorar \- \(Versión Acústica\)](https://open.spotify.com/track/3RSLqRsPNCKNDoDufAPzDL) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Nadie Me Vera Llorar \(Versión Acústica\)](https://open.spotify.com/album/6OuUjx0eUvLzxHSOQCnPLn) | 3:03 |
 | 31 | [Engañada](https://open.spotify.com/track/4FJD2QyCnn7BfU0jQsgWMF) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Tu Decisión](https://open.spotify.com/album/3hLv1eT4pM0Lv0F97ZyWG1) | 3:06 |
 | 32 | [Quiero Verte](https://open.spotify.com/track/18Qh0YfnFo5wMb8P9756yK) | [Los Vasquez](https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Quiero Verte](https://open.spotify.com/album/0THRwX1TyZekzsCWn3wXxK) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 | 49 | [Los Caminos de la Vida](https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Los Caminos de la Vida](https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA) | 3:48 |
 | 50 | [Alma perdida](https://open.spotify.com/track/3iJ92AFAzuxuVMXZHlRkbA) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Alma Perdida](https://open.spotify.com/album/7lCJ9krfW84FJXkN8MkBOL) | 3:55 |
 
-Snapshot ID: `anJ9AAAAAABRoLGosM7q8duA9QbTcIBm`
+Snapshot ID: `anPOgAAAAAAoIn11f7zLUfsoSu34x4E8`

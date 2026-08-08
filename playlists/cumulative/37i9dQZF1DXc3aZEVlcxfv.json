@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "AGABA",
+        "url": "https://open.spotify.com/album/4VfMu1gbyTQEBuqLgOLKLT"
+      },
+      "artists": [
+        {
+          "name": "Blessing Lopez",
+          "url": "https://open.spotify.com/artist/3311Wqrg5A5Zji9GUitIHd"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163215,
+      "name": "AGABA",
+      "url": "https://open.spotify.com/track/2CljurYlwVbQ2qMtrY2Pys"
+    },
+    {
+      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/0dXEeBNXzUCMCrCdFfbe3P"
       },
@@ -6058,7 +6076,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 610039,
       "name": "I See The Lord - Live",
       "url": "https://open.spotify.com/track/38kUGVC4ZLfg6ekJ08IcUh"
@@ -6192,7 +6210,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 234500,
       "name": "If E No Be You Jesus",
       "url": "https://open.spotify.com/track/0RlbvNt1jx208AZAdsMpBv"
@@ -9112,7 +9130,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 138620,
       "name": "Nakupenda",
       "url": "https://open.spotify.com/track/4gxIaetYYaMI5uelXRpnfQ"

@@ -1,12 +1,12 @@
 {
   "description": "\u0643\u0644 \u0645\u0627 \u0647\u0648 \u062c\u062f\u064a\u062f \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u0634\u0631\u0646\u0648\u0628\u064a",
-  "num_followers": 282575,
+  "num_followers": 282626,
   "original_name": "\u0628\u0648\u0628 \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEMQs8jeq2RBN1llXQ/9a/fGIxfF",
+  "snapshot_id": "AAAAAGHjFwxgDAlVuQrv6bGMcdLjNpFm",
   "tracks": [
     {
       "added_at": "2026-08-07 00:01:19",
@@ -91,6 +91,26 @@
       "duration_ms": 193149,
       "name": "Keda Keda",
       "url": "https://open.spotify.com/track/1svLqzWG6vKf00O8nbtRWO"
+    },
+    {
+      "added_at": "2026-08-07 00:01:19",
+      "album": {
+        "name": "ASHOUFEK TANY",
+        "url": "https://open.spotify.com/album/7dON93Ih6jJchbNYmMaACq"
+      },
+      "artists": [
+        {
+          "name": "TAG",
+          "url": "https://open.spotify.com/artist/5zLTKFtt1a3Ndt9p9i6Em2"
+        },
+        {
+          "name": "HatemBas",
+          "url": "https://open.spotify.com/artist/5kapqwWcLC1LL2xjaxEwJU"
+        }
+      ],
+      "duration_ms": 173863,
+      "name": "ASHOUFEK TANY",
+      "url": "https://open.spotify.com/track/7A4fyvqztBPYJ3YYfiXWJe"
     },
     {
       "added_at": "2026-08-07 00:01:19",

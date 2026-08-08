@@ -4,7 +4,7 @@
 
 > The best Progressive House in the scene\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-271 songs - 15 hr 27 min
+273 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Persistence](https://open.spotify.com/track/4Lb2wyhJRGPYq7zpfcqc55) | [Helvetic Nerds](https://open.spotify.com/artist/5vKOPKIOlbrbysX7KrsCXS) | [Persistence](https://open.spotify.com/album/7oMOhtFYYV7ci02wZscfaC) | 3:11 | 2025-07-25 | 2025-08-23 |
 | [Pieces](https://open.spotify.com/track/2KwgEr9uSZFiUbrLRfyXy0) | [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej) | [Pieces](https://open.spotify.com/album/6D2UfaGb66nY5zRXB8ua8l) | 3:55 | 2025-07-11 |  |
 | [Pieces](https://open.spotify.com/track/0AovhHXreaDvf75BQONHSZ) | [Zack Martino](https://open.spotify.com/artist/2US2mjK9hW7QGSBNpprlbu), [Higher Lane](https://open.spotify.com/artist/1FlwGYjqpPXt0kzomFYgmX) | [Pieces](https://open.spotify.com/album/3J0XNOFDnIClZeYAlb6N5o) | 2:57 | 2025-07-11 | 2025-12-06 |
+| [Playa](https://open.spotify.com/track/4YPlh1nXyZxXgQPG5m0JIp) | [Lørean](https://open.spotify.com/artist/6MfPYmW3PWEPMKAdsffex4) | [Playa / Somebody](https://open.spotify.com/album/2YXr8pnbDjQWz8gEpwLypG) | 4:30 | 2026-08-07 |  |
 | [Portrait](https://open.spotify.com/track/3VBRIUavnyyKP228ZoCaMV) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Portrait](https://open.spotify.com/album/515X8yEwuxAThIDSwnm9Xi) | 2:24 | 2025-07-11 | 2026-08-01 |
 | [Positive](https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB) | [Positive](https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI) | 2:49 | 2025-11-07 | 2025-12-13 |
 | [Priceless](https://open.spotify.com/track/3C9kz0a6NzqtO4awIgwhBc) | [Hyperbits](https://open.spotify.com/artist/5HYYXGs19FM9JuSjmoE88Y), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [Pattern Interruption](https://open.spotify.com/album/3OOs0HPAMTMTlqsSvmYVKj) | 3:41 | 2025-08-01 |  |
@@ -221,6 +222,7 @@
 | [Silhouette](https://open.spotify.com/track/0HYmlwB0dIDK1A1wfuD9Nw) | [CVMRN](https://open.spotify.com/artist/7bywdy7GogO9U60ROyLSih), [Ro](https://open.spotify.com/artist/1MeAnyFGpDcuwi1VDMAXHV) | [Silhouette](https://open.spotify.com/album/7Do1M5vx7TVnNINdqS02Hk) | 3:35 | 2026-02-27 |  |
 | [Sirens](https://open.spotify.com/track/6vaVS18G68D4truU5Dodaa) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [Sirens](https://open.spotify.com/album/39U30lCHcQBZthMzknfAYf) | 3:24 | 2026-07-24 |  |
 | [So Hï \(VIP Mix\)](https://open.spotify.com/track/2E4ducuUkzT3utPrfElnUc) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [So Hï \(VIP Mix\)](https://open.spotify.com/album/2BgEBlTxbBl7H1sgqRH5Ae) | 4:20 | 2025-10-09 | 2025-11-15 |
+| [Somebody](https://open.spotify.com/track/3lehbHRUHJjChwIkLZgj2T) | [Lørean](https://open.spotify.com/artist/6MfPYmW3PWEPMKAdsffex4) | [Playa / Somebody](https://open.spotify.com/album/2YXr8pnbDjQWz8gEpwLypG) | 3:29 | 2026-08-07 |  |
 | [Something Real](https://open.spotify.com/track/2678BoumxAEUu69yEcu4bR) | [Craig Connelly](https://open.spotify.com/artist/78UUH1buA0gDtDnkX2dPgL), [Dani Sylvia](https://open.spotify.com/artist/4loap7SYpi11OpsZKnynZj) | [Something Real](https://open.spotify.com/album/0fXscY5gJPEtpKxGl22P1i) | 3:54 | 2026-07-03 |  |
 | [Starry Eyed Surprise](https://open.spotify.com/track/3aWmrNmz5vn2qj864CpFkm) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Shifty Shellshock](https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO) | [Starry Eyed Surprise](https://open.spotify.com/album/6LxeSyeNHN43FcXrI2P0P1) | 2:19 | 2025-10-10 |  |
 | [State Of Mind](https://open.spotify.com/track/769a3KrWIeyqIeAsKSyq2Y) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA) | [State Of Mind](https://open.spotify.com/album/3l1Cs2OVHkj5aLiFHyOlDg) | 4:39 | 2025-12-19 | 2026-02-28 |

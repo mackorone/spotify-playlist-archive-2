@@ -1675,6 +1675,24 @@
     },
     {
       "album": {
+        "name": "Hero too -10th Anniversary ver.-",
+        "url": "https://open.spotify.com/album/1chZouRJZKmY4XG7qOcsnz"
+      },
+      "artists": [
+        {
+          "name": "ERI Starring Myka Morton",
+          "url": "https://open.spotify.com/artist/5P9iQ7U9WY9MjMNaf92eZl"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255789,
+      "name": "Hero too -10th Anniversary ver.-",
+      "url": "https://open.spotify.com/track/37b9FiUzWlLIrI725CN1T5"
+    },
+    {
+      "album": {
         "name": "Please Excuse Me for Being Antisocial",
         "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
       },

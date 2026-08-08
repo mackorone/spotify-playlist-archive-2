@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,600 likes - 58 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,704 likes - 58 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 | 57 | [The Middle](https://open.spotify.com/track/5Rzymd9Rm6MnQOxqlnaOcK) | [Gabriela Silva](https://open.spotify.com/artist/7aG9ko9uh8oQK0py75VWDr) | [The Middle](https://open.spotify.com/album/4uG552NeMwBnvwyDqqR7ix) | 3:48 |
 | 58 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO) | 3:25 |
 
-Snapshot ID: `AAAAANx5DVF70MGUSeyx8YklfD13gqXG`
+Snapshot ID: `AAAAAPQq3og3foC6rfJLh6P9y7YuPJyZ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvHBEQLnV1N.md) - [plain]
 
 > Festive season staples and new holiday favourites 🎁
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,099,174 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,099,122 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvHBEQLnV1N.md) - [plain]
 | 12 | [Run Rudolph Run \- Spotify Singles Holiday](https://open.spotify.com/track/6pheMGrfMwwnypqafU7d4k) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Run Rudolph Run \- Spotify Singles Holiday](https://open.spotify.com/album/1pSxnWkixgHxo9jnGK66nb) | 2:35 |
 | 13 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 |
 | 14 | [Not Tonight Santa](https://open.spotify.com/track/55fhKXmY0UzzGT4AUwNvRe) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Chemistry](https://open.spotify.com/album/2ysysUy9AzjKZ1IKWX680w) | 2:41 |
-| 15 | [Hallelujah](https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 4:28 |
-| 16 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 |
+| 15 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 |
+| 16 | [Hallelujah](https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 4:28 |
 | 17 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 |
 | 18 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:32 |
 | 19 | [A Nonsense Christmas](https://open.spotify.com/track/73ye7F9Ub51dQ3CrnCHFhr) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 2:33 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvHBEQLnV1N.md) - [plain]
 | 40 | [Christmas Tree Farm](https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Christmas Tree Farm](https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF) | 3:48 |
 | 41 | [Cozy Little Christmas](https://open.spotify.com/track/02FaKXXL7KUtRc7K0k54tL) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Cozy Little Christmas](https://open.spotify.com/album/5IxObv8TvRsYE6DGKnbrXn) | 3:02 |
 | 42 | [Candy Cane Lane](https://open.spotify.com/track/4KevTcBXEIYxXVyPE78XXm) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:32 |
-| 43 | [DJ Play A Christmas Song](https://open.spotify.com/track/18uSfZqFBxQFi8CsXOIbhy) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:29 |
-| 44 | [Silent Night \- 1999 Remaster](https://open.spotify.com/track/5yNgdD8E6WruhULb4n2Con) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 2:26 |
+| 43 | [Silent Night \- 1999 Remaster](https://open.spotify.com/track/5yNgdD8E6WruhULb4n2Con) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 2:26 |
+| 44 | [DJ Play A Christmas Song](https://open.spotify.com/track/18uSfZqFBxQFi8CsXOIbhy) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:29 |
 | 45 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/2QpN1ZVw8eJO5f7WcvUA1k) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 2:24 |
 | 46 | [One More Sleep](https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 3:59 |
 | 47 | [Celebrate Me Home](https://open.spotify.com/track/4rVUzCFmxDor43ORzBKHcx) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Celebrate Me Home](https://open.spotify.com/album/4Zt3jkBQHa5gMiZL95xbaB) | 3:53 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvHBEQLnV1N.md) - [plain]
 | 56 | [Memory Lane](https://open.spotify.com/track/3yMQqcTCfTJUpwdZajJH1o) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Honor The Light](https://open.spotify.com/album/6NXHxEZBAedotZFvYiXOhI) | 3:12 |
 | 57 | [Fairytale of New York \(feat\. Kirsty MacColl\)](https://open.spotify.com/track/3wV9G5BhrJ1ntlCQYko0if) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [Kirsty MacColl](https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq) | [Fairytale of New York](https://open.spotify.com/album/2MJV1Nr37QoEDeAo9cz6mr) | 4:32 |
 | 58 | [Where Are You Christmas?](https://open.spotify.com/track/7zqv6rEbwXksyE0tk9RCO1) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Where Are You Christmas?](https://open.spotify.com/album/2ThNTAN9IGLdp0xuRLDy0J) | 3:08 |
-| 59 | [Gifts For Me](https://open.spotify.com/track/0nhpTFbJ3uX4qqL9qaQj5B) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Gifts For Me](https://open.spotify.com/album/1koxpBaSddYY1xd5YmEeN2) | 2:30 |
-| 60 | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x) | 2:46 |
+| 59 | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x) | 2:46 |
+| 60 | [Gifts For Me](https://open.spotify.com/track/0nhpTFbJ3uX4qqL9qaQj5B) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Gifts For Me](https://open.spotify.com/album/1koxpBaSddYY1xd5YmEeN2) | 2:30 |
 
-Snapshot ID: `AAAAAGNDOvs/i8Z49ghu/nPhSUcJ0pVJ`
+Snapshot ID: `AAAAAMuK6+ZyzfF2wJ7I0nriliXRZ6rf`

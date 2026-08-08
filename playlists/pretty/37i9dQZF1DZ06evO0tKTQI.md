@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tKTQI.md) - [plain]
 
 > This is Bratty\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,043 likes - 49 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,045 likes - 49 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tKTQI.md) - [plain]
 | 11 | [NADA ME LEVANTA](https://open.spotify.com/track/7npg53FrMEJC1VCdLk3seG) | [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [KOR KOR LAKE](https://open.spotify.com/album/5oAqoeVSSkUgq52mNXfppk) | 3:13 |
 | 12 | [Quiero Estar](https://open.spotify.com/track/7EjYMczG2zkInd4Rs5Y2Oc) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:13 |
 | 13 | [Aibo \(feat\. Bratty\)](https://open.spotify.com/track/0hvGU0lbDt8SWfEx797LuJ) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Soft Error](https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98) | 2:21 |
-| 14 | [la estrella que quería brillar](https://open.spotify.com/track/2gTOLXAJl7RqVJwFvlQWQU) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [HOSHI](https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT) | 2:58 |
+| 14 | [tu nombre](https://open.spotify.com/track/1VKlScFeMN3j1PGjvq3ZDN) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [HOSHI](https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT) | 3:31 |
 | 15 | [La Última Vez](https://open.spotify.com/track/18H0STg2CPkVKx0AqRsoLQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [TRES](https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu) | 3:34 |
 | 16 | [lejos](https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:22 |
 | 17 | [Linger \- Spanish Mix \(2026\)](https://open.spotify.com/track/34HvVFUB2RDNhsf71SiF5X) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Linger \[Spanish Mix \(2026\)\]](https://open.spotify.com/album/3tQd63g2Ydd2pNr08b4mAg) | 3:45 |
-| 18 | [tu nombre](https://open.spotify.com/track/1VKlScFeMN3j1PGjvq3ZDN) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [HOSHI](https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT) | 3:31 |
+| 18 | [la estrella que quería brillar](https://open.spotify.com/track/2gTOLXAJl7RqVJwFvlQWQU) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [HOSHI](https://open.spotify.com/album/3ZryHVPBurDqxS84K7QXaT) | 2:58 |
 | 19 | [Otros Colores](https://open.spotify.com/track/6VbEA6Zk7964dwD2fd2HbD) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Aroma A Nostalgia \(Deluxe Edition\)](https://open.spotify.com/album/3K6S0Mt1ZMrcjuCiOztmBJ) | 5:51 |
 | 20 | [jules](https://open.spotify.com/track/5FEcWUQNGBNuHtZnBqgxD3) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 4:27 |
 | 21 | [Que Yo A Tí](https://open.spotify.com/track/7gd0O7jx54YvV7dbQKxwVu) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [TRES](https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu) | 3:28 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tKTQI.md) - [plain]
 | 48 | [u.c.m.c.d.n.](https://open.spotify.com/track/0c6yROB8ARIwEGJXU8w0Dn) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn \(Deluxe\)](https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH) | 2:37 |
 | 49 | [Before Seeing Green](https://open.spotify.com/track/5QUegNZBmf8GbGz1gYWcl3) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Todo Está Cambiando](https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g) | 2:35 |
 
-Snapshot ID: `anJ9AAAAAAD2WpYIu4BB1+hFFA7ln/xa`
+Snapshot ID: `anPOgAAAAADUsBrPGtZO0BzFoldP8MGm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,056 likes - 103 songs - 5 hr 8 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,055 likes - 103 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

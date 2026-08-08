@@ -709,6 +709,28 @@
     },
     {
       "album": {
+        "name": "Leave Me Like A Backroad",
+        "url": "https://open.spotify.com/album/1cyg4sDFxAxGMQUcNYBbLP"
+      },
+      "artists": [
+        {
+          "name": "Brock Phillips",
+          "url": "https://open.spotify.com/artist/3AdkQoDWIwHRHuWTqn96AI"
+        },
+        {
+          "name": "Dallas Smith",
+          "url": "https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148026,
+      "name": "Leave Me Like A Backroad (feat. Dallas Smith)",
+      "url": "https://open.spotify.com/track/7g9MyX2HITNHqz2DqXotqd"
+    },
+    {
+      "album": {
         "name": "Liar Outta Me",
         "url": "https://open.spotify.com/album/6BN7Fn5p7UdbRai6HLClca"
       },
@@ -970,6 +992,24 @@
       "duration_ms": 234771,
       "name": "Open the Gate",
       "url": "https://open.spotify.com/track/6pamafD9p0K7FHfJPz6TYF"
+    },
+    {
+      "album": {
+        "name": "Out The Cage",
+        "url": "https://open.spotify.com/album/1dmCDOERxlijA6fRGF3LV9"
+      },
+      "artists": [
+        {
+          "name": "Sons of Legion",
+          "url": "https://open.spotify.com/artist/4WBCjNjq0MGPsvcXyOPWKW"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Out The Cage",
+      "url": "https://open.spotify.com/track/2ZSVEESrRTX6DsCDdQpsLN"
     },
     {
       "album": {

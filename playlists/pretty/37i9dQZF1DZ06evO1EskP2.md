@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 
 > This is Anuhea\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,129 likes - 46 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,131 likes - 46 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,15 +25,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 | 15 | [Island Inside Me](https://open.spotify.com/track/6PfgvDy4GisKnEgAtp6low) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/29PzlpPTCQcDVQHQA4ANNT) | 4:21 |
 | 16 | [Enough \(with Anuhea\)](https://open.spotify.com/track/4BRhxR8hMOsUWmsPckGYe3) | [Claire Wright](https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Holding on Tight](https://open.spotify.com/album/2DuhNaSXkO5DwUxgs3Ob8J) | 3:28 |
 | 17 | [Galaxy](https://open.spotify.com/track/0jJmMZ9utjrq7O2jTLluIV) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Lotus](https://open.spotify.com/album/5LAF7qiJaWB4m479AfZo8c) | 3:57 |
-| 18 | [Ain't Gonna Give Up](https://open.spotify.com/track/6ld1ONFLAWbgdMAiVWJ5oS) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Legacy](https://open.spotify.com/album/35oHGr2hJwc5vw9hKMeDoT) | 3:42 |
-| 19 | [Can't Fight the Moonlight](https://open.spotify.com/track/6HrInhRN8pJO8YG7Rua9OS) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Can't Fight the Moonlight](https://open.spotify.com/album/27pjHXgKai58NngyxDfePg) | 3:05 |
+| 18 | [Can't Fight the Moonlight](https://open.spotify.com/track/6HrInhRN8pJO8YG7Rua9OS) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Can't Fight the Moonlight](https://open.spotify.com/album/27pjHXgKai58NngyxDfePg) | 3:05 |
+| 19 | [Ain't Gonna Give Up](https://open.spotify.com/track/6ld1ONFLAWbgdMAiVWJ5oS) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Legacy](https://open.spotify.com/album/35oHGr2hJwc5vw9hKMeDoT) | 3:42 |
 | 20 | [You Had Me at Aloha](https://open.spotify.com/track/0IAx8D7mpLhIvI2tm4D2UE) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/7DsQYHPyTNcDyQ098QKtT2) | 3:21 |
 | 21 | [Perfect Day](https://open.spotify.com/track/56YJ6PDiJJUb2FBbHoex5L) | [Awa](https://open.spotify.com/artist/19LpP7w37NXREZFCZ0K87P), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Heartbeat](https://open.spotify.com/album/4ngV4717539caCp8SVI35A) | 4:52 |
 | 22 | [Hula Girl](https://open.spotify.com/track/0vAnneqWLwX3DbJKGOi6wA) | [Spawnbreezie](https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Hula Girl](https://open.spotify.com/album/3nNdWJwIkJXaS0rq7prKM1) | 3:15 |
 | 23 | [Ready and Willing](https://open.spotify.com/track/6X4AtYTfJD3fDWuwL0ZEoL) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Lotus](https://open.spotify.com/album/5LAF7qiJaWB4m479AfZo8c) | 3:30 |
 | 24 | [Crown Royal](https://open.spotify.com/track/0tNOyOw32Khwf0AuZemqXn) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/4Q82xjuVVNj9VsfQG6lWMi) | 3:56 |
-| 25 | [Shoulders](https://open.spotify.com/track/6Fir7LTgDuRgQ0FH0G02KY) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/29PzlpPTCQcDVQHQA4ANNT) | 3:53 |
-| 26 | [Like the Way It Feels](https://open.spotify.com/track/6U0rDiXIP2ziYHPOkpczu8) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/7DsQYHPyTNcDyQ098QKtT2) | 2:54 |
+| 25 | [Like the Way It Feels](https://open.spotify.com/track/6U0rDiXIP2ziYHPOkpczu8) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/7DsQYHPyTNcDyQ098QKtT2) | 2:54 |
+| 26 | [Shoulders](https://open.spotify.com/track/6Fir7LTgDuRgQ0FH0G02KY) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/29PzlpPTCQcDVQHQA4ANNT) | 3:53 |
 | 27 | [Just Keep Jamming](https://open.spotify.com/track/2MDt2q1u1loaFQ98d5JZCh) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Ariki foster](https://open.spotify.com/artist/49x0uShahCoBv7dz8WJNed) | [Lotus](https://open.spotify.com/album/5LAF7qiJaWB4m479AfZo8c) | 3:34 |
 | 28 | [I Just Want You Around](https://open.spotify.com/track/0Dd3YRhEe58Zc8MBlvpYqw) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 3:18 |
 | 29 | [High on Love](https://open.spotify.com/track/66wmn6eVaH1OKVu8bQZx13) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Butterflies: Live](https://open.spotify.com/album/3TOnJX3wwJt5BVirchXTzE) | 3:42 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 | 31 | [Lotus](https://open.spotify.com/track/0V2fIakdFvEuOGeLFDp1Ab) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Lotus](https://open.spotify.com/album/5LAF7qiJaWB4m479AfZo8c) | 3:50 |
 | 32 | [We Make It Look Easy](https://open.spotify.com/track/3Fq59TNyANNaRzAKnAwcdQ) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/7DsQYHPyTNcDyQ098QKtT2) | 3:08 |
 | 33 | [Here I Go Again](https://open.spotify.com/track/1Cy9L9plJX7ZAuQhfL5VR6) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 3:26 |
-| 34 | [True Colors/Kou ‘Ano Kü I’o \- Live](https://open.spotify.com/track/1hAfgLnhjQsu2KpYVHleq4) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [A10: Best of Anuhea](https://open.spotify.com/album/687WlNECcAuUrkAUnu2sOA) | 3:35 |
-| 35 | [Spam Musubi Song](https://open.spotify.com/track/27o8gy6qedG98OsEC5ati5) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Spam Musubi Song](https://open.spotify.com/album/4EZ6yx1LeF2J6vMMVWrIXk) | 2:20 |
+| 34 | [Spam Musubi Song](https://open.spotify.com/track/27o8gy6qedG98OsEC5ati5) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Spam Musubi Song](https://open.spotify.com/album/4EZ6yx1LeF2J6vMMVWrIXk) | 2:20 |
+| 35 | [True Colors/Kou ‘Ano Kü I’o \- Live](https://open.spotify.com/track/1hAfgLnhjQsu2KpYVHleq4) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [A10: Best of Anuhea](https://open.spotify.com/album/687WlNECcAuUrkAUnu2sOA) | 3:35 |
 | 36 | [Riddles](https://open.spotify.com/track/67QiUOzzs498guvlXmRxYW) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/7DsQYHPyTNcDyQ098QKtT2) | 3:07 |
 | 37 | [Haters \- Remix](https://open.spotify.com/track/2GXLbTBGnx0Aye2rwXvpuD) | [Kimié Miner](https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Irie Love](https://open.spotify.com/artist/74BpfOquem1y8pWMXcEaQn), [Eli\-Mac](https://open.spotify.com/artist/0Uze78PydtvTNQWhU7TVJK) | [Haters \(Remix\)](https://open.spotify.com/album/5AXqdEnnL69bGBt4DOUxQX) | 3:58 |
 | 38 | [Red, Gold & Green](https://open.spotify.com/track/4hOxeXbeTDjm5T4DoyEUGs) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Kimié Miner](https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61) | [Red, Gold & Green](https://open.spotify.com/album/1nzpKDlVM4c8ly5RZsAXPJ) | 3:49 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 | 45 | [Walk on Water](https://open.spotify.com/track/5UqcdUuxdv8jKR7cDs0uaN) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/29PzlpPTCQcDVQHQA4ANNT) | 3:46 |
 | 46 | [Rumors](https://open.spotify.com/track/69xu7QEf8ZNTDZl6BL961r) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 4:09 |
 
-Snapshot ID: `anJ9AAAAAAB29xgDwpsa3ssKmb/1Fsu3`
+Snapshot ID: `anPOgAAAAADRzmK+mqDDL2PI+RP3xfGY`

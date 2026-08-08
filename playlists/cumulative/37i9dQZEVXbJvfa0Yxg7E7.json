@@ -30136,10 +30136,28 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 166153,
       "name": "Lose Myself",
       "url": "https://open.spotify.com/track/0e5K24g47Xze7bR6eftsHT"
+    },
+    {
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
     },
     {
       "album": {
@@ -32768,7 +32786,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 189898,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
@@ -32786,7 +32804,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-03",
+      "date_removed": null,
       "duration_ms": 189898,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/7N1GSHGlLwXY3lN5gv3QLV"
@@ -33664,7 +33682,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 142200,
       "name": "Movin' To The Sun",
       "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
@@ -41510,7 +41528,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 195425,
       "name": "SAMMEN FOR NORGE",
       "url": "https://open.spotify.com/track/2dVBclLQDYL8mdsgPOgGFk"
@@ -54414,7 +54432,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
@@ -54432,7 +54450,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"

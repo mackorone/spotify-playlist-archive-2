@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 403278,
+  "num_followers": 403281,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALUfTbWwgKGnEl7VWju53JZl+iIq",
+  "snapshot_id": "AAAAAFob3eTqkUJ6jYuJp2D98a+2JMjO",
   "tracks": [
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
-        "name": "Home (Remixes)",
-        "url": "https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        },
-        {
-          "name": "Frank Wiedemann",
-          "url": "https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94"
-        }
-      ],
-      "duration_ms": 334867,
-      "name": "Holy (Frank Wiedemann Remix)",
-      "url": "https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
         "name": "Miyanosawa",
         "url": "https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 238095,
       "name": "Outside",
       "url": "https://open.spotify.com/track/3UaFSJ0Oycs0SVSEWgfGqO"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
+        "name": "Home (Remixes)",
+        "url": "https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        },
+        {
+          "name": "Frank Wiedemann",
+          "url": "https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94"
+        }
+      ],
+      "duration_ms": 334867,
+      "name": "Holy (Frank Wiedemann Remix)",
+      "url": "https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO"
     },
     {
       "added_at": "2024-08-09 18:28:29",

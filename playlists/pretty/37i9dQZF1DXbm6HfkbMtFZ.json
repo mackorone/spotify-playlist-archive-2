@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 842953,
+  "num_followers": 842978,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHq2HPIvadAvvKMyXZYWRNEELvHl",
+  "snapshot_id": "AAAAAEp/YkJ8JGqKM39yoHIU3K8NeAIY",
   "tracks": [
     {
       "added_at": "2026-07-28 22:35:25",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
-        "name": "Straight from the Heart (Remastered)",
-        "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 319893,
-      "name": "Remind Me - Remastered",
-      "url": "https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
         "name": "Running Away",
         "url": "https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 195086,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
+        "name": "Straight from the Heart (Remastered)",
+        "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 319893,
+      "name": "Remind Me - Remastered",
+      "url": "https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t"
     },
     {
       "added_at": "2026-07-28 22:35:25",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/4Bpt4fHYxxgqR2GjrxyR6D"
-      },
-      "artists": [
-        {
-          "name": "The Internet",
-          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
-        }
-      ],
-      "duration_ms": 201640,
-      "name": "Dontcha",
-      "url": "https://open.spotify.com/track/6dET51TwAJPrKV5wmA5Vhr"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
         "name": "Soundtrack For A Movie That Has Not Been Written Yet",
         "url": "https://open.spotify.com/album/64Mjew6Y6wqkhbz7qYLIxS"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 173640,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/4vlkvsD7xAB2MqOZYgSBlb"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/4Bpt4fHYxxgqR2GjrxyR6D"
+      },
+      "artists": [
+        {
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+        }
+      ],
+      "duration_ms": 201640,
+      "name": "Dontcha",
+      "url": "https://open.spotify.com/track/6dET51TwAJPrKV5wmA5Vhr"
     },
     {
       "added_at": "2026-07-28 22:35:25",
@@ -475,6 +475,22 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 297717,
+      "name": "Fight for Love",
+      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 170903,
       "name": "hello !",
       "url": "https://open.spotify.com/track/3eIVoDIJJduj7HDDI5yz1V"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 297717,
-      "name": "Fight for Love",
-      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
     },
     {
       "added_at": "2026-07-28 22:35:25",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
-        "name": "Telling The Truth",
-        "url": "https://open.spotify.com/album/7JAl7nvl1tO0xrIZxX8q0w"
-      },
-      "artists": [
-        {
-          "name": "Willie Wright",
-          "url": "https://open.spotify.com/artist/3dH7ZRgXMUUsJrhHeDPftx"
-        }
-      ],
-      "duration_ms": 222213,
-      "name": "Nantucket Island",
-      "url": "https://open.spotify.com/track/5Cl0T1nwxwxyMnrAXz9uQB"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
         "name": "Wanted Bossa Nova: From Diggers to Music Lovers",
         "url": "https://open.spotify.com/album/78QZeFmsqxeoh5BBDfmYRs"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 156537,
       "name": "Tenha F\u00e9, Pois Amanh\u00e3 um Lindo Dia Vai Nascer",
       "url": "https://open.spotify.com/track/6gq1nXRbVZYcOxtG20uC2t"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
+        "name": "Telling The Truth",
+        "url": "https://open.spotify.com/album/7JAl7nvl1tO0xrIZxX8q0w"
+      },
+      "artists": [
+        {
+          "name": "Willie Wright",
+          "url": "https://open.spotify.com/artist/3dH7ZRgXMUUsJrhHeDPftx"
+        }
+      ],
+      "duration_ms": 222213,
+      "name": "Nantucket Island",
+      "url": "https://open.spotify.com/track/5Cl0T1nwxwxyMnrAXz9uQB"
     },
     {
       "added_at": "2026-07-28 22:35:25",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
-        "name": "RISE",
-        "url": "https://open.spotify.com/album/3TWblAw43j83gbtK5IutiZ"
-      },
-      "artists": [
-        {
-          "name": "Darius",
-          "url": "https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK"
-        },
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 303871,
-      "name": "RISE",
-      "url": "https://open.spotify.com/track/2pOEcXFeoDdS7RAsrACVTn"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
         "name": "Always on My Mind (Acoustic)",
         "url": "https://open.spotify.com/album/2IXxnl8jWACV3QC8WtyHIt"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 214820,
       "name": "Always on My Mind (Acoustic)",
       "url": "https://open.spotify.com/track/4BzkIjqAMi2MYU5ZJoV9my"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/3TWblAw43j83gbtK5IutiZ"
+      },
+      "artists": [
+        {
+          "name": "Darius",
+          "url": "https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK"
+        },
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 303871,
+      "name": "RISE",
+      "url": "https://open.spotify.com/track/2pOEcXFeoDdS7RAsrACVTn"
     },
     {
       "added_at": "2026-07-28 22:35:25",
@@ -1519,6 +1519,26 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
+        "name": "Lotta Love",
+        "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        },
+        {
+          "name": "Flock of Dimes",
+          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+        }
+      ],
+      "duration_ms": 197624,
+      "name": "Lotta Love",
+      "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
         "name": "wait outside",
         "url": "https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E"
       },
@@ -1539,26 +1559,6 @@
       "duration_ms": 151500,
       "name": "wait outside",
       "url": "https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
-        "name": "Lotta Love",
-        "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        },
-        {
-          "name": "Flock of Dimes",
-          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
-        }
-      ],
-      "duration_ms": 197624,
-      "name": "Lotta Love",
-      "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
     },
     {
       "added_at": "2026-07-28 22:35:25",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
+        "name": "Last One Standing (Radio Edit)",
+        "url": "https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY"
+      },
+      "artists": [
+        {
+          "name": "Monophonics",
+          "url": "https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw"
+        }
+      ],
+      "duration_ms": 203589,
+      "name": "Last One Standing - Radio Edit",
+      "url": "https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
         "name": "Small Talk",
         "url": "https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 243365,
       "name": "Fossils",
       "url": "https://open.spotify.com/track/7KLL7EwBo7lMgRIKM74QXC"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
-        "name": "Last One Standing (Radio Edit)",
-        "url": "https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY"
-      },
-      "artists": [
-        {
-          "name": "Monophonics",
-          "url": "https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw"
-        }
-      ],
-      "duration_ms": 203589,
-      "name": "Last One Standing - Radio Edit",
-      "url": "https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz"
     },
     {
       "added_at": "2026-07-28 22:35:25",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2026-07-28 22:35:25",
       "album": {
-        "name": "Quadron",
-        "url": "https://open.spotify.com/album/5vtu0JY9LDxsJ7ynDSsTQJ"
-      },
-      "artists": [
-        {
-          "name": "Quadron",
-          "url": "https://open.spotify.com/artist/3GhVFlFT3pagjVkslQPqoJ"
-        }
-      ],
-      "duration_ms": 272466,
-      "name": "Slippin",
-      "url": "https://open.spotify.com/track/1CMIoi2skjKw1G0R5pYWeg"
-    },
-    {
-      "added_at": "2026-07-28 22:35:25",
-      "album": {
         "name": "Picture Frame",
         "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 195276,
       "name": "Picture Frame",
       "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
+    },
+    {
+      "added_at": "2026-07-28 22:35:25",
+      "album": {
+        "name": "Quadron",
+        "url": "https://open.spotify.com/album/5vtu0JY9LDxsJ7ynDSsTQJ"
+      },
+      "artists": [
+        {
+          "name": "Quadron",
+          "url": "https://open.spotify.com/artist/3GhVFlFT3pagjVkslQPqoJ"
+        }
+      ],
+      "duration_ms": 272466,
+      "name": "Slippin",
+      "url": "https://open.spotify.com/track/1CMIoi2skjKw1G0R5pYWeg"
     },
     {
       "added_at": "2026-07-28 22:35:25",

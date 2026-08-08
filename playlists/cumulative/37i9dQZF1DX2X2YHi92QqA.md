@@ -4,7 +4,7 @@
 
 > 🧘🏼‍♀️🌻🏕️🏞️🏊🏻‍♀️🌅🌷⛰️🚴🏼‍♂️🍺🌳
 
-272 songs - 14 hr 49 min
+273 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Всі ці фарби](https://open.spotify.com/track/6wr8FECmej9ungciGPSiNb) | [typeled](https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq) | [Більше ніж здається](https://open.spotify.com/album/1cj2zkpVBJdVyyCGDR6sRJ) | 3:00 | 2025-12-02 |  |
 | [Відлюбилося](https://open.spotify.com/track/34b1BsvwGHVsZ63g7MaKHF) | [Averin](https://open.spotify.com/artist/5yDenXpJFxaiNa57V8Tvtx), [CHURSANOV](https://open.spotify.com/artist/5UqC0WSLyRoS6xGD8NA55e) | [Відлюбилося](https://open.spotify.com/album/7Drh1GDYNdKQKjahIjDwPw) | 2:33 | 2024-09-01 | 2026-06-01 |
 | [Відчуваю](https://open.spotify.com/track/7hbReUDHAjZjenUeMjexi8) | [M1SHKA](https://open.spotify.com/artist/6x6LoUxvX9ScaOW5oP0P8i) | [Відчуваю](https://open.spotify.com/album/03tHU2rrYtYMqmin5fsQV2) | 2:33 | 2024-09-01 | 2024-09-10 |
+| [відчуття, що це щось прекрасне](https://open.spotify.com/track/14GDLuggfxzXzFUVEKc2ub) | [DENOMA](https://open.spotify.com/artist/1CIgr3yWzcyRxtmhuzaqSd) | [відчуття, що це щось прекрасне](https://open.spotify.com/album/2TMOC1BjJWDuulib8MW6DI) | 3:15 | 2026-07-24 |  |
 | [Вір мені](https://open.spotify.com/track/27k4QLPYGhiApZKCQI4c9y) | [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Вір мені](https://open.spotify.com/album/23yQRx1Jd5gPYuixowWL6C) | 2:16 | 2024-06-14 | 2024-09-02 |
 | [Гість](https://open.spotify.com/track/4QkqXbUMVAvsuZjTzw3dqr) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [HEARTBEAT](https://open.spotify.com/album/6Ep6BXKMZjgmrumX1ntPiY) | 2:48 | 2024-10-07 | 2026-06-01 |
 | [далеке майбутнє](https://open.spotify.com/track/5MZc08wudCcGMAAVm6IzTV) | [DENOMA](https://open.spotify.com/artist/1CIgr3yWzcyRxtmhuzaqSd), [Sofia Shanti](https://open.spotify.com/artist/546wSi6Jl1aMJnQ7ACGrsE) | [далеке майбутнє](https://open.spotify.com/album/3eQAwhd7PP1IVhlsYa5mTz) | 2:56 | 2026-03-02 | 2026-04-12 |
@@ -278,7 +279,7 @@
 | [Я тебе не чую](https://open.spotify.com/track/6OUfXrZk7Ti5mTh73Mw3Lj) | [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Я тебе не чую](https://open.spotify.com/album/02biUbwR7SZa0kO9FI68Op) | 2:35 | 2024-06-14 | 2026-07-25 |
 | [Я ще тут](https://open.spotify.com/track/5CguwUsbNl7N88jDUzc5Ws) | [Aspen Grove](https://open.spotify.com/artist/3PvkzQ5mrZ0EGltVg6SDPY) | [Я ще тут](https://open.spotify.com/album/5EigHrUJeiveGaVVe3vzLn) | 4:14 | 2024-11-30 | 2024-12-21 |
 | [я є рана / я є ніж](https://open.spotify.com/track/0RlHrI103DK2g6oI7YzE5O) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [я є рана / я є ніж](https://open.spotify.com/album/1Xu46wHIEnQ86soI44DtmG) | 3:05 | 2025-12-02 |  |
-| [Як же тобі там?](https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07) | [Лівінстон](https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9) | [Як же тобі там?](https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ) | 4:04 | 2024-06-14 |  |
+| [Як же тобі там?](https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07) | [Лівінстон](https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9) | [Як же тобі там?](https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ) | 4:04 | 2024-06-14 | 2026-08-08 |
 | [Як ніколи](https://open.spotify.com/track/7Bz3CO5CyU4GAPke4UNPhc) | [Okean Elzy](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS) | [Той день](https://open.spotify.com/album/2oGVobQJgAXMDJ5pl79iuo) | 4:30 | 2024-10-07 | 2026-06-01 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXX3HHYIWJwh.md) - [plain]
 
 > ホームパーティーを楽しむためのプレイリスト。女子会、ガールズナイトのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,459 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,465 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXX3HHYIWJwh.md) - [plain]
 | 45 | [TIT FOR TAT](https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TIT FOR TAT](https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz) | 2:57 |
 | 46 | [SPOT!](https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SPOT!](https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI) | 2:47 |
 | 47 | [CELEBRATION](https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CELEBRATION](https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL) | 2:33 |
-| 48 | [IS IT LOVE](https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT LOVE](https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH) | 3:07 |
+| 48 | [GGUM](https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [GGUM](https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V) | 2:31 |
 | 49 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 |
-| 50 | [GGUM](https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [GGUM](https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V) | 2:31 |
+| 50 | [IS IT LOVE](https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT LOVE](https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH) | 3:07 |
 
-Snapshot ID: `AAAAAIlzBLe/PjL63/ve1MG1Hzct3Bcp`
+Snapshot ID: `AAAAAOayvni0H+ztnDHpts2TFzWOg5aK`

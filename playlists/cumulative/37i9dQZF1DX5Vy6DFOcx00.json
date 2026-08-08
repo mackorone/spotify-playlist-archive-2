@@ -8348,7 +8348,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 256720,
       "name": "Distant Lover",
       "url": "https://open.spotify.com/track/7vpkmzisaB8R47XlxyTcfs"
@@ -13216,7 +13216,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
@@ -34919,6 +34919,24 @@
     },
     {
       "album": {
+        "name": "UNETHICAL",
+        "url": "https://open.spotify.com/album/7JGdeYz3PWV1n79hAUxhTc"
+      },
+      "artists": [
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219864,
+      "name": "UNETHICAL",
+      "url": "https://open.spotify.com/track/6QKpHmO41jkd9pTp0FfmHs"
+    },
+    {
+      "album": {
         "name": "A Girl Like Me",
         "url": "https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh"
       },
@@ -37158,7 +37176,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-14",
+      "date_removed": null,
       "duration_ms": 297262,
       "name": "Willing and Able",
       "url": "https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs"

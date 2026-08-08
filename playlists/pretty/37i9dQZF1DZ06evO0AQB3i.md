@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AQB3i.md) - [plain]
 
 > This is Alabama Shakes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,744 likes - 23 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,762 likes - 23 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Feel Hope Coming](https://open.spotify.com/track/6yFkQeeTv3DDhTQynN2WVV) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Feel Hope Coming](https://open.spotify.com/album/1lnUiFfaZhH6YHZpeWzyBZ) | 5:11 |
-| 2 | [Hold On](https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 3:46 |
-| 3 | [Always Alright](https://open.spotify.com/track/6ckUX8cgcqjoNGTd2A2Pvd) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Always Alright](https://open.spotify.com/album/5bnSQEjcDV0GXzxTtvI4xz) | 4:09 |
+| 1 | [Hold On](https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 3:46 |
+| 2 | [Always Alright](https://open.spotify.com/track/6ckUX8cgcqjoNGTd2A2Pvd) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Always Alright](https://open.spotify.com/album/5bnSQEjcDV0GXzxTtvI4xz) | 4:09 |
+| 3 | [I Feel Hope Coming](https://open.spotify.com/track/6yFkQeeTv3DDhTQynN2WVV) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Feel Hope Coming](https://open.spotify.com/album/1lnUiFfaZhH6YHZpeWzyBZ) | 5:11 |
 | 4 | [Don't Wanna Fight](https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color](https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY) | 3:52 |
 | 5 | [Sound & Color](https://open.spotify.com/track/7tHxwM0lDw0FwlCT4VAggT) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:02 |
 | 6 | [Hang Loose](https://open.spotify.com/track/5cDHV67TxLrdz4ITUVQswH) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 2:24 |
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AQB3i.md) - [plain]
 | 16 | [Heavy Chevy](https://open.spotify.com/track/4QpoJRn7I1YZ20yo0ngnJ9) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Heavy Chevy](https://open.spotify.com/album/0ZNuNVOpsdhcHZlgVWwqHp) | 2:26 |
 | 17 | [Gimme All Your Love](https://open.spotify.com/track/4kdqfbnSxyQdQwoyi3VwwD) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 4:03 |
 | 18 | [Be Mine](https://open.spotify.com/track/4nGil2gSvOVDRFGb1julsJ) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 4:14 |
-| 19 | [Until There's Nothing Left](https://open.spotify.com/track/0S6wKHJNqjACfIfGIGX6xR) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Dotr](https://open.spotify.com/album/4XyaObpQDL61LtLerqAeHx) | 3:50 |
-| 20 | [Garden](https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Garden](https://open.spotify.com/album/08S8Cftjk2s1H1HBtCOqYw) | 4:59 |
+| 19 | [Garden](https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Garden](https://open.spotify.com/album/08S8Cftjk2s1H1HBtCOqYw) | 4:59 |
+| 20 | [Until There's Nothing Left](https://open.spotify.com/track/0S6wKHJNqjACfIfGIGX6xR) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Dotr](https://open.spotify.com/album/4XyaObpQDL61LtLerqAeHx) | 3:50 |
 | 21 | [Shoegaze](https://open.spotify.com/track/09nDcxFx9DAkpfxDjse4gZ) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 2:59 |
 | 22 | [Rise To The Sun](https://open.spotify.com/track/4jdBFqrhH2ed69JnR1H27e) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 3:08 |
 | 23 | [Guess Who](https://open.spotify.com/track/45JLSLXRMQJabYtPtSuBmV) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Sound & Color \(Deluxe Edition\)](https://open.spotify.com/album/5CNzzqPfB7fho8J4vG37jE) | 3:15 |
 
-Snapshot ID: `anJ9AAAAAAB88QdGL4fF2+6ofqIv6JB6`
+Snapshot ID: `anPOgAAAAAC/wDyvI5MP+gjde/OIO+/J`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 
 > <a href="spotify:artist:2EFsfh1zewsSWhDINv7j1I">Logic1000's </a> favourite tracks\.  Updated regularly\. Curated by Logic1000\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,754 likes - 49 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,759 likes - 49 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbEGrb2ydWx.md) - [plain]
 | 48 | [VIRAL](https://open.spotify.com/track/7uJ55VI7pV9vbaODajix6S) | [El Baby R](https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET), [Papera](https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW) | [VIRAL](https://open.spotify.com/album/5GfDcwnaft6Ke6Hnp3WGju) | 2:15 |
 | 49 | [Sky Light](https://open.spotify.com/track/5T09fG328uz3tSc3bK1Tv2) | [Big Ever](https://open.spotify.com/artist/6S6PrVKF41V5qJxz4fZB56) | [Sky Light / Hollywood](https://open.spotify.com/album/53LVzwtFqNfUNUaA9ZcGxg) | 4:49 |
 
-Snapshot ID: `AAAAAEtPnYc2vQ8kVacw4EWW1l4k6Xmq`
+Snapshot ID: `AAAAAFMhBE+XsL104lEiGbMn7VH5NAyD`

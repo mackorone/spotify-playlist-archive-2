@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,418 likes - 90 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,430 likes - 90 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 37 | [Eterno Amor](https://open.spotify.com/track/1rlGQVfvXSSJteVJm2C6Ts) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg) | [Eterno Amor](https://open.spotify.com/album/5fw1AGfL8lCgbxBFD8aYrg) | 4:08 |
 | 38 | [Nunca Olvides](https://open.spotify.com/track/7uh4weyCU6SNgcNT4yyphY) | [Los Puesteros](https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY) | [Repechando la Senda](https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW) | 3:53 |
 | 39 | [El Punto Final](https://open.spotify.com/track/4YBxqpFfiPYkBUWEmupg7b) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [El Punto Final](https://open.spotify.com/album/1hfe0fdFG8n6sj6WOYOvcF) | 3:33 |
-| 40 | [Tonada del Viejo Amor](https://open.spotify.com/track/3XXTR1PxuCslxeQCpRHpmW) | [Eduardo Falú](https://open.spotify.com/artist/3GmAEo2lOqrVb7BrHvUS5M), [Lito Vitale](https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG) | [El Sueño de Mi Guitarra](https://open.spotify.com/album/0ngbYyZKSgybDqyaWtOGOR) | 4:01 |
-| 41 | [La Flor](https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx) | [Francisco Benitez](https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj) | [La Flor](https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv) | 3:10 |
+| 40 | [La Flor](https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx) | [Francisco Benitez](https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj) | [La Flor](https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv) | 3:10 |
+| 41 | [Tonada del Viejo Amor](https://open.spotify.com/track/3XXTR1PxuCslxeQCpRHpmW) | [Eduardo Falú](https://open.spotify.com/artist/3GmAEo2lOqrVb7BrHvUS5M), [Lito Vitale](https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG) | [El Sueño de Mi Guitarra](https://open.spotify.com/album/0ngbYyZKSgybDqyaWtOGOR) | 4:01 |
 | 42 | [Zambita pa' Enamorar](https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq) | [Franco Ramirez](https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a) | [De Barrio](https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7) | 3:12 |
 | 43 | [Justo Ahora \(Vivo Sinfónico\)](https://open.spotify.com/track/73dxMLbVH9qSs7cP4tLSFu) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW) | [Sinfónico \(En Vivo en el Teatro Coliseo\)](https://open.spotify.com/album/5AQpMlLv5eYj9odaCTeDfA) | 2:42 |
 | 44 | [Eterno Amor](https://open.spotify.com/track/7r16iJ5dJcdqFQJeh08GPs) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Eterno Amor](https://open.spotify.com/album/1Yxth9gcry4oASkewP9b6y) | 3:10 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 50 | [La del Olvido](https://open.spotify.com/track/3bCKQK2PKLBIRZvUL4kROh) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 4:09 |
 | 51 | [Por las costas entrerrianas](https://open.spotify.com/track/159w8FAaY0OVg8H0rXX26C) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Quien Me Quita Lo Cantado](https://open.spotify.com/album/74SPPqaCtI8Ny6PQiUBMdf) | 3:21 |
 | 52 | [Nada](https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Nada](https://open.spotify.com/album/0vfHVUcxFuIesJnzwubbbB) | 3:33 |
-| 53 | [La López Pereyra](https://open.spotify.com/track/7Lxx3XWGPNDnsfbw8dXXqf) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [La Historia Vol 3](https://open.spotify.com/album/1rfBblbUZrUaYmspitkgiq) | 3:36 |
+| 53 | [Colgando en tus Manos](https://open.spotify.com/track/7AuksYLEtoCWg3fzUJAHaH) | [Camila Saez](https://open.spotify.com/artist/7zomrr4pL53n3bIR24uN70), [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT) | [Colgando en tus Manos](https://open.spotify.com/album/0gpVfE431dfXOesgMuA1oq) | 3:24 |
 | 54 | [No Te Rindas](https://open.spotify.com/track/2duWyNfkGp0ve1VXPMjiwf) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW) | [No Te Rindas](https://open.spotify.com/album/6ogjTJpmQxnxaoOvyvajP6) | 3:39 |
-| 55 | [Colgando en tus Manos](https://open.spotify.com/track/7AuksYLEtoCWg3fzUJAHaH) | [Camila Saez](https://open.spotify.com/artist/7zomrr4pL53n3bIR24uN70), [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT) | [Colgando en tus Manos](https://open.spotify.com/album/0gpVfE431dfXOesgMuA1oq) | 3:24 |
+| 55 | [La López Pereyra](https://open.spotify.com/track/7Lxx3XWGPNDnsfbw8dXXqf) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [La Historia Vol 3](https://open.spotify.com/album/1rfBblbUZrUaYmspitkgiq) | 3:36 |
 | 56 | [Ya No Juegues Conmigo](https://open.spotify.com/track/46aBmruUOkNlmUQAyHwImt) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Tierra Mia](https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK) | 2:45 |
 | 57 | [Eso Eres Tú](https://open.spotify.com/track/4L5c16rJlYxpLrpKcdFxPX) | [Belén Herrera](https://open.spotify.com/artist/63VCBwAH0mfhJsOezGMbe4) | [Eso Eres Tú](https://open.spotify.com/album/5izPHVd1rA1ApYbukWKM2L) | 4:11 |
 | 58 | [La Guada](https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7) | [Mariana Baraj](https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq) | [Churita](https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e) | 3:03 |
@@ -85,12 +85,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 75 | [Recuerdos, Tristeza y Soledad](https://open.spotify.com/track/5RNwpUN7Orwbr4PkmzmJrz) | [Emiliano López](https://open.spotify.com/artist/08ziTcqYRzmsGdO63egTJ6), [Giannela Niwoyda](https://open.spotify.com/artist/4uJ43XefasN101iGtfRnbo) | [Recuerdos, Tristeza y Soledad](https://open.spotify.com/album/0bvdakizmjJ8idm7COAxLY) | 3:53 |
 | 76 | [Mil Momentos \- En Vivo](https://open.spotify.com/track/16sswACfv8q6ndVYSHVtrT) | [Guitarreros](https://open.spotify.com/artist/7Ky9MAWbIE0z5VtPSNiMvd) | [Mil Momentos \(En Vivo\)](https://open.spotify.com/album/35oe1PzRomgYknZMJ8MCqT) | 3:35 |
 | 77 | [La Desamorada](https://open.spotify.com/track/4d1wSBlKUlfRQIaPw9Qt0x) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [La Desamorada](https://open.spotify.com/album/7sQGoOzXHrxY9LcP4Ll6b3) | 4:01 |
-| 78 | [Todo Será Mejor](https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO) | [Todo Será Mejor](https://open.spotify.com/album/2IbkSqdOd9aEpVuXUSgc2q) | 3:59 |
+| 78 | [Amarte Sin Piedad](https://open.spotify.com/track/0Pfov0G5ZoskadtvAgwPl8) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO) | [Amarte Sin Piedad](https://open.spotify.com/album/62i9o08soByC7ONFYj67IB) | 3:31 |
 | 79 | [La Forma Perfecta](https://open.spotify.com/track/5cpScCtXXmeE9H4UhuIpwh) | [La Macha](https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc) | [La Forma Perfecta](https://open.spotify.com/album/5PHybIbCaOijo0dv0htTOF) | 3:13 |
 | 80 | [Ella](https://open.spotify.com/track/5tsmFR93fgtwVHxzwCOkpr) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [Ella](https://open.spotify.com/album/7D0Sn2AwvCRNM39eR8fu8J) | 3:05 |
 | 81 | [La Ley Y La Trampa](https://open.spotify.com/track/2sb31nQbx4QnFD9FQv2D28) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [La Ley Y La Trampa](https://open.spotify.com/album/4u22Umljn6A5UYjDfQSOjc) | 2:48 |
 | 82 | [Asuntos Pendientes](https://open.spotify.com/track/6kS0RzghvmItZOz99eutk2) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Asuntos Pendientes](https://open.spotify.com/album/5PC43L0Gftheh1WbrjW1VC) | 2:50 |
-| 83 | [Amarte Sin Piedad](https://open.spotify.com/track/0Pfov0G5ZoskadtvAgwPl8) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO) | [Amarte Sin Piedad](https://open.spotify.com/album/62i9o08soByC7ONFYj67IB) | 3:31 |
+| 83 | [Todo Será Mejor](https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO) | [Todo Será Mejor](https://open.spotify.com/album/2IbkSqdOd9aEpVuXUSgc2q) | 3:59 |
 | 84 | [Si Te Vas](https://open.spotify.com/track/3RwDtnK03C9b7aAMlSVpgj) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [Codigo de Barro](https://open.spotify.com/album/3IPQXVfpqayAQqDAFLpklU) | 5:13 |
 | 85 | [Ya te olvidé](https://open.spotify.com/track/5O1bcqKBlyEkYDFKXe8p7c) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Ya te olvidé](https://open.spotify.com/album/6gnArPx4Dq1UoKdvSNWp3r) | 2:27 |
 | 86 | [Si la Vieras](https://open.spotify.com/track/3HZz8dFHhpg1yZ7R9Az0Ye) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Si la Vieras](https://open.spotify.com/album/5oNhgIPJlLFZox7mRgMsuP) | 3:46 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 89 | [La Soñé](https://open.spotify.com/track/5lChWpKVL0eYsxP8An5qSt) | [Canto 4](https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq) | [Poncho](https://open.spotify.com/album/2793DUGV2AqWDV7cB5Vdbk) | 3:15 |
 | 90 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 |
 
-Snapshot ID: `AAAAAHy1m/v6gXgGzNVWsx6+hLmGkPcC`
+Snapshot ID: `AAAAAIPsJdiP3DmCdY1S71+/UQFyt4qN`

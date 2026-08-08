@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 
 > The biggest hits from country artists around the globe\. Cover: Wade Forster
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,440 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,518 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 | 65 | [Once Upon a Time](https://open.spotify.com/track/3KhEa6SCUPX0Fkma6j6qis) | [Chanel Yates](https://open.spotify.com/artist/5YABtAJlBJAzqxfIJA4nQd) | [Once Upon a Time](https://open.spotify.com/album/48JQD5fnaSZHlIvc1xsMag) | 2:51 |
 | 66 | [Play It Again](https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Crash My Party](https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB) | 3:46 |
 | 67 | [Life is a Highway](https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Cars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f) | 4:35 |
-| 68 | [Religiously](https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:58 |
-| 69 | [Night Shift](https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 2:52 |
+| 68 | [Night Shift](https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 2:52 |
+| 69 | [Religiously](https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:58 |
 | 70 | [Dream Baby](https://open.spotify.com/track/0yrG3eeWvuj9DJkVPsYWpJ) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Dream Baby](https://open.spotify.com/album/3IwClZfwpNZyHpbaS38D7V) | 3:37 |
 | 71 | [Need You Now](https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA) | 4:37 |
 | 72 | [Thought It Was Love](https://open.spotify.com/track/4fVoX6BG2jFhPx6uHKevpF) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [The Select](https://open.spotify.com/album/4tE4n1E0qtAfJTh8IPT9TN) | 4:06 |
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 | 76 | [We Ride](https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Poets & Old Souls](https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss) | 3:08 |
 | 77 | [She Had Me At Heads Carolina](https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Stereotype](https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa) | 3:26 |
 | 78 | [Cruise](https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:28 |
-| 79 | [Am I Okay?](https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:55 |
+| 79 | [Lady May](https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:03 |
 | 80 | [Take Me Backroad \(feat\. High Valley\)](https://open.spotify.com/track/1aqQ8YzJlkrfN7dqCYBTTg) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX), [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Take Me Backroad \(feat\. High Valley\)](https://open.spotify.com/album/1CyvTlYda5V9EnbwEUwUIa) | 3:13 |
-| 81 | [Lady May](https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:03 |
+| 81 | [Am I Okay?](https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:55 |
 | 82 | [Guy For That \(Feat\. Luke Combs\)](https://open.spotify.com/track/6StwwqB84sJeLr7tZDTxEX) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 2:44 |
 | 83 | [In Case You Didn't Know](https://open.spotify.com/track/10M2Ex445zw585Ducldzkw) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Brett Young](https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5) | 3:44 |
 | 84 | [You're Still The One](https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 | 99 | [Good News](https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Good News](https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w) | 3:19 |
 | 100 | [Backup Plan \(feat\. Luke Combs\)](https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Backup Plan \(feat\. Luke Combs\)](https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ) | 3:01 |
 
-Snapshot ID: `AAAAAMiYjZBedMP2xgGodNXzH6s8f0r8`
+Snapshot ID: `AAAAANcjtggCfYVAaP/RIPNs1eULPucB`

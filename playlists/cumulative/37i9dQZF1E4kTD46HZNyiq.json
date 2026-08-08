@@ -966,7 +966,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 219152,
       "name": "alive",
       "url": "https://open.spotify.com/track/0PMJWY6XwOqRMpGQjCx3cJ"
@@ -1584,7 +1584,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 204040,
       "name": "American Dream",
       "url": "https://open.spotify.com/track/6u1HWxWAVGYb3FDkyMeLsy"
@@ -3620,7 +3620,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 217893,
       "name": "Burn",
       "url": "https://open.spotify.com/track/0yN6WW3Icvw3847Xab21zt"
@@ -4162,7 +4162,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 320493,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/3uX0hLfztbtbZOs88lhHyh"
@@ -5980,7 +5980,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 292200,
       "name": "Don't Go Dark",
       "url": "https://open.spotify.com/track/1f4CgPlQUVrhXphghXUU3O"
@@ -8238,7 +8238,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 191791,
       "name": "Flood",
       "url": "https://open.spotify.com/track/2tBg5EICFT9Ff0DzxzzZ3s"
@@ -10692,7 +10692,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 217000,
       "name": "Hvanneyri",
       "url": "https://open.spotify.com/track/0NPQr0LzXcmbGHYX2ioDkn"
@@ -11154,6 +11154,24 @@
       "duration_ms": 180902,
       "name": "I See You",
       "url": "https://open.spotify.com/track/2RGWrbdINWdxBUll7sQzVL"
+    },
+    {
+      "album": {
+        "name": "stuck in my head",
+        "url": "https://open.spotify.com/album/7dOpmOJCF1pqahZmJbcElw"
+      },
+      "artists": [
+        {
+          "name": "Recent Rumors",
+          "url": "https://open.spotify.com/artist/4qdxWWLnahrzUknTg3uPQn"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248278,
+      "name": "i see you",
+      "url": "https://open.spotify.com/track/0fcJjhoncSxNjE1iv7ElmL"
     },
     {
       "album": {
@@ -11658,7 +11676,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 210909,
       "name": "I've Been Missing You",
       "url": "https://open.spotify.com/track/6vdWx67Wz7DdXQjjBGanjH"
@@ -13214,7 +13232,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 290388,
       "name": "Last Year",
       "url": "https://open.spotify.com/track/1q6dH6WXMtdTgfTwrBWfKA"
@@ -14876,7 +14894,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 234844,
       "name": "Many Worlds",
       "url": "https://open.spotify.com/track/3B0FgKP9VnPYal3FSLe002"
@@ -17932,7 +17950,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 211613,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/7AFTfujw3igAr8FZLxUXe6"
@@ -18468,7 +18486,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 234545,
       "name": "Present Tense",
       "url": "https://open.spotify.com/track/2ZzQw84swNCgc4IEHS7leB"
@@ -19340,7 +19358,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-03",
+      "date_removed": null,
       "duration_ms": 197706,
       "name": "Runaround",
       "url": "https://open.spotify.com/track/4EyroIb0uLZLqhnLn8ymCH"
@@ -23400,7 +23418,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 228000,
       "name": "Through the Silence",
       "url": "https://open.spotify.com/track/40pt5JgG38qE0Z2Bqx51lf"
@@ -23978,7 +23996,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 313400,
       "name": "Under Your Spell",
       "url": "https://open.spotify.com/track/7D5V8XA1vFvk5ZVUbE1R6M"
@@ -24538,7 +24556,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 219457,
       "name": "Washed Wine",
       "url": "https://open.spotify.com/track/6ZEdXD3Eeh34PPNXcF0Tdz"
@@ -26468,7 +26486,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 223932,
       "name": "Your Weather",
       "url": "https://open.spotify.com/track/0lTYWQMg4TufelFuXlKwCC"

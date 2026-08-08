@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: Kashus Culpepper
 
-186 songs - 12 hr 59 min
+187 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Better This Way](https://open.spotify.com/track/4Uja4YjvLeXNdgkvx3Fvj2) | [Eden Brent](https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx) | [Jigsaw Heart](https://open.spotify.com/album/1ypgfVxnEINJJpmIf3olHI) | 4:10 | 2020-11-05 |  |
 | [Blame it On Me](https://open.spotify.com/track/6t6mN09CvoFzDpRVNrXcdF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 5:47 | 2022-04-22 |  |
 | [Born To Be Loved](https://open.spotify.com/track/5fkfgB7MGOtX8A83SSXdB6) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Honeysuckle Switches: The Songs of Lucinda Williams](https://open.spotify.com/album/1jUwbZwLVILK3ALGQev5ZG) | 4:26 | 2023-11-24 |  |
-| [Broke Down Dream](https://open.spotify.com/track/5e6Il1kDEI0FfFjB6oWDKo) | [Garrett LeBeau](https://open.spotify.com/artist/5qzKP2802dITzjsTbj2zWr) | [Rise to the Grind](https://open.spotify.com/album/1HeTtiW6mFOjTJVu7F3hk9) | 6:00 | 2020-11-05 |  |
+| [Broke Down Dream](https://open.spotify.com/track/5e6Il1kDEI0FfFjB6oWDKo) | [Garrett LeBeau](https://open.spotify.com/artist/5qzKP2802dITzjsTbj2zWr) | [Rise to the Grind](https://open.spotify.com/album/1HeTtiW6mFOjTJVu7F3hk9) | 6:00 | 2020-11-05 | 2026-08-08 |
 | [Call on God](https://open.spotify.com/track/0MY6kBXw8kbDgJiAoO0RUk) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Soul of a Woman](https://open.spotify.com/album/6dQ4PANge8QXfOywlHNd2J) | 3:37 | 2020-11-05 | 2023-05-01 |
 | [Call on God](https://open.spotify.com/track/3dBH5NxeEfR7t2kh6jdcCC) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Soul of a Woman](https://open.spotify.com/album/6Y3Hr84DBJ7oV76c3BuInv) | 3:37 | 2020-11-05 | 2024-04-19 |
 | [Call On God](https://open.spotify.com/track/6S2WRQBK9uKW2J6RTJXY6N) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Call on God \- Single](https://open.spotify.com/album/4H7Zk2z3wYfj5UuwoPIoPl) | 3:37 | 2020-11-05 |  |
@@ -48,6 +48,7 @@
 | [Fool \(Live\)](https://open.spotify.com/track/60TAAGvOtUcY95dHgvluSw) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Fool \(Live\)](https://open.spotify.com/album/4ybMTnHNIQcBzVCFRRHuZZ) | 4:48 | 2023-04-07 |  |
 | [For Better or Worse](https://open.spotify.com/track/1wDDhcsJzOzICXpjLLaxX4) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Bluesamericana](https://open.spotify.com/album/1jeDlHBm4psoSmaphaCZeF) | 3:25 | 2020-11-05 |  |
 | [Forget Yourself](https://open.spotify.com/track/3fWcRT65iy7FIIEjitgfJ6) | [Natalia M\. King](https://open.spotify.com/artist/3fCXXnMGhzvgXkWwerk4hg) | [Forget Yourself](https://open.spotify.com/album/35jiIi7b9WKbmxXfVcT0ai) | 3:38 | 2021-10-15 |  |
+| [Garden](https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Garden](https://open.spotify.com/album/08S8Cftjk2s1H1HBtCOqYw) | 4:59 | 2026-08-07 |  |
 | [Gemini Heart](https://open.spotify.com/track/3gP6wL0DFyrJr4DzGgLhBq) | [Layla Zoe](https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU), [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [The Lily](https://open.spotify.com/album/1SvBVlFYgpG2VmbTqCs5h8) | 6:10 | 2020-11-05 |  |
 | [Get It While You Can \(feat\. Zkye Blue\)](https://open.spotify.com/track/33NwpQXKSjh8RDHWMvA4r2) | [The Lachy Doley Group](https://open.spotify.com/artist/1UFmab3kufN4YYyyFv7ajR), [Zkye Blue](https://open.spotify.com/artist/5g2FSHwgQFwNpbxPxWSKgT) | [Lovelight](https://open.spotify.com/album/2sldY4bgYk12oQO3PnAyrs) | 4:29 | 2020-11-05 |  |
 | [Gold](https://open.spotify.com/track/0okw8NRaGP97EFyBmvTyT1) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Last Light on the Highway](https://open.spotify.com/album/4vEdVmsibS4TDTvdJ07Xae) | 4:57 | 2020-11-05 |  |

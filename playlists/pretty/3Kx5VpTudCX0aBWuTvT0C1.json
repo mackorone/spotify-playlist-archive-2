@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\udd00 Hit shuffle &amp; meet new artists &amp; pop rock song. \u271a Each track also joins tailored playlists.  By @faceless.diversum \ud83d\udcf8 Insta. Follow, save &amp; share ! Submit here : ",
-  "num_followers": 2017,
+  "num_followers": 2020,
   "original_name": "\ud83c\udf99\ufe0f Pop Rock | \u2260 ",
   "owner": {
     "name": "DIVERSUM WORLD",
     "url": "https://open.spotify.com/user/1163990293"
   },
-  "snapshot_id": "AAACx3qInLbrbcQrsugfCyC3IUzsAgOz",
+  "snapshot_id": "AAACy1sXPWmrEyqtImKDoKy9F6fbxc/f",
   "tracks": [
     {
       "added_at": "2026-01-04 15:06:22",
@@ -1355,6 +1355,70 @@
       "duration_ms": 213146,
       "name": "Almost",
       "url": "https://open.spotify.com/track/2or6CHW3WWgqVF661h1FsO"
+    },
+    {
+      "added_at": "2026-08-07 08:45:37",
+      "album": {
+        "name": "Beautiful Life",
+        "url": "https://open.spotify.com/album/2YfXHWwI9zohX6W0Ulbld0"
+      },
+      "artists": [
+        {
+          "name": "The Last Good Feeling",
+          "url": "https://open.spotify.com/artist/6rI83ChWVND3pfcnYRV5B6"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Beautiful Life",
+      "url": "https://open.spotify.com/track/2oFFeEDTPRCUeDYEgvPCip"
+    },
+    {
+      "added_at": "2026-08-07 08:51:32",
+      "album": {
+        "name": "Popcorn and Candyfloss",
+        "url": "https://open.spotify.com/album/6WHzuoWP8SOb0v3FFBqWjD"
+      },
+      "artists": [
+        {
+          "name": "The Color Blew",
+          "url": "https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz"
+        }
+      ],
+      "duration_ms": 298369,
+      "name": "Popcorn and Candyfloss",
+      "url": "https://open.spotify.com/track/0MJhDoHPuvOs3hDD2Ilr89"
+    },
+    {
+      "added_at": "2026-08-07 08:53:06",
+      "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/59hsbFL5sW2u3NaqlsElv3"
+      },
+      "artists": [
+        {
+          "name": "O KANENAS",
+          "url": "https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa"
+        }
+      ],
+      "duration_ms": 236364,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/1gcMBn4OwoXv2idejjCCNp"
+    },
+    {
+      "added_at": "2026-08-07 08:53:46",
+      "album": {
+        "name": "Como deve ser",
+        "url": "https://open.spotify.com/album/7tAH2UnXN5GWdR3mOiVm3b"
+      },
+      "artists": [
+        {
+          "name": "Roger Silva",
+          "url": "https://open.spotify.com/artist/6HCBhMjKey19C9YvNx5RaP"
+        }
+      ],
+      "duration_ms": 189141,
+      "name": "Como deve ser",
+      "url": "https://open.spotify.com/track/6Kto9r484xrMQZ74XRJfBc"
     }
   ],
   "unique_name": "\ud83c\udf99\ufe0f Pop Rock | \u2260 ",

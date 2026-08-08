@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 
 > Clásicos de la bachata\. Timeless bachata hits\. Cover: Aventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 768,080 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 768,119 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,12 +84,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 74 | [Me Puedo Matar \- Remastered](https://open.spotify.com/track/34xtzPLF5pPZ8MTewOdBvx) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [The First \(Remastered\)](https://open.spotify.com/album/5Nx4z36d4h0wVrGyuxsyyR) | 4:23 |
 | 75 | [Dos Locos](https://open.spotify.com/track/1ePEbbeWx3scydfir7HBcq) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Exitos Y Mas](https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1) | 4:06 |
 | 76 | [Vagabundo, Borracho y Loco](https://open.spotify.com/track/1O2fScskNkmR91eEXvrcrv) | [Kiko Rodriguez](https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/6899xrJrb58bQ2NgyV9Tiq) | 4:29 |
-| 77 | [Bachata Rosa](https://open.spotify.com/track/3javh8nJiJ0OhZacdejqSR) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6) | 4:17 |
+| 77 | [Burbujas de Amor](https://open.spotify.com/track/4JvxxMnFK1zGtDb8rr5RmE) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6) | 4:10 |
 | 78 | [Estoy Perdido](https://open.spotify.com/track/2ZWOEMmcN5aerFmasiewTF) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Bachateando 2](https://open.spotify.com/album/3LHAUPocU5MvzVczvyhzEr) | 4:10 |
 | 79 | [Mi Niña](https://open.spotify.com/track/4khAnhMnwm94E7z759WqiM) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Serie 32](https://open.spotify.com/album/5yzUVRAmpuAWyqQDoayDWT) | 3:59 |
 | 80 | [Vocales de amor](https://open.spotify.com/track/5guZMseET21n74ZIIOoXD2) | [Joan Soriano](https://open.spotify.com/artist/6lNQpovRbGoGOWjRHkP8ry) | [El Duque de la Bachata](https://open.spotify.com/album/7hsUJxtjtkKwS1HksZ4dCi) | 5:10 |
 | 81 | [No la Quiero Ver Con Otro](https://open.spotify.com/track/4IFtTcUDafDN2ZjlH3rISG) | [Marino Perez](https://open.spotify.com/artist/4CUaw25QTAfWb6wA0yWPrN) | [Pura Bachata](https://open.spotify.com/album/5Ay43wmi8TkeMPIgF3jUIp) | 3:04 |
-| 82 | [Burbujas de Amor](https://open.spotify.com/track/4JvxxMnFK1zGtDb8rr5RmE) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6) | 4:10 |
+| 82 | [Bachata Rosa](https://open.spotify.com/track/3javh8nJiJ0OhZacdejqSR) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6) | 4:17 |
 | 83 | [Donde Estan Esos Amigos](https://open.spotify.com/track/2tTd0gQzJBkAMfFPRKregm) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Edición De Lujo](https://open.spotify.com/album/1HqqPsEcFEVzHCs2rVaOG5) | 4:30 |
 | 84 | [Siento Que Te Quiero](https://open.spotify.com/track/14tdzjrC0rHExDaosbJlfJ) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Tony Bachata Presents: Los Grandes Exitos de Bachata](https://open.spotify.com/album/1vRP8U5f0PLm1fQYMVOVDj) | 5:01 |
 | 85 | [Hoy Te Vi Pasar](https://open.spotify.com/track/0PG9RK1V62OsPRTmwKq566) | [Kiko Rodriguez](https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV) | [Los 12 Exitos De Kiko Rodriguez](https://open.spotify.com/album/5MEzNKw4IyHA4zbXXh2Vgn) | 4:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 99 | [Enseñame a Olvidar](https://open.spotify.com/track/79MlVxKj43tDISSISiVHJM) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [We Broke The Rules](https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd) | 5:48 |
 | 100 | [Carita de Inocente \(feat\. Myke Towers\) \- Remix](https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Carita de Inocente \(feat\. Myke Towers\) \[Remix\]](https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY) | 3:11 |
 
-Snapshot ID: `AAAAAO36c3337o8J88t3xjeLsA2rgTnX`
+Snapshot ID: `AAAAAENatmIWliX+wCn6tUIP4qpp2HPI`

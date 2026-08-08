@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Kanine",
-  "num_followers": 76311,
+  "num_followers": 76320,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADtchKTCQXKZNdfihMKdMmZidFzU",
+  "snapshot_id": "AAAAAEgYjuh3V2uJtGzCIpecT00Yrrzx",
   "tracks": [
     {
       "added_at": "2026-08-06 23:00:42",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-08-06 23:00:42",
       "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/3FiFg9HODL0wB96ORI5XbA"
-      },
-      "artists": [
-        {
-          "name": "Blossom",
-          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6"
-    },
-    {
-      "added_at": "2026-08-06 23:00:42",
-      "album": {
         "name": "Left 2 Right",
         "url": "https://open.spotify.com/album/5Geg97JMNRNsSh1kgw7yY6"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 202971,
       "name": "Left 2 Right",
       "url": "https://open.spotify.com/track/3dbCZLMW3xuBry6L8pBlkE"
+    },
+    {
+      "added_at": "2026-08-06 23:00:42",
+      "album": {
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/3FiFg9HODL0wB96ORI5XbA"
+      },
+      "artists": [
+        {
+          "name": "Blossom",
+          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6"
     },
     {
       "added_at": "2026-08-06 23:00:42",
@@ -903,6 +903,22 @@
       "duration_ms": 180689,
       "name": "RUN",
       "url": "https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2"
+    },
+    {
+      "added_at": "2026-08-06 23:00:42",
+      "album": {
+        "name": "Burner",
+        "url": "https://open.spotify.com/album/4aLilCwYZ1lV0GldFFQHyJ"
+      },
+      "artists": [
+        {
+          "name": "ring noord",
+          "url": "https://open.spotify.com/artist/2LG15MTQyH0AMfeCMjdr8A"
+        }
+      ],
+      "duration_ms": 206511,
+      "name": "Burner",
+      "url": "https://open.spotify.com/track/7k0ozQX1ZvVYCBwkeSWOct"
     },
     {
       "added_at": "2026-08-06 23:00:42",
@@ -971,22 +987,6 @@
     {
       "added_at": "2026-08-06 23:00:42",
       "album": {
-        "name": "Burner",
-        "url": "https://open.spotify.com/album/4aLilCwYZ1lV0GldFFQHyJ"
-      },
-      "artists": [
-        {
-          "name": "ring noord",
-          "url": "https://open.spotify.com/artist/2LG15MTQyH0AMfeCMjdr8A"
-        }
-      ],
-      "duration_ms": 206511,
-      "name": "Burner",
-      "url": "https://open.spotify.com/track/7k0ozQX1ZvVYCBwkeSWOct"
-    },
-    {
-      "added_at": "2026-08-06 23:00:42",
-      "album": {
         "name": "Reaper (feat. Comma Dee)",
         "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
       },
@@ -1003,6 +1003,26 @@
       "duration_ms": 213793,
       "name": "Reaper (feat. Comma Dee)",
       "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
+    },
+    {
+      "added_at": "2026-08-06 23:00:42",
+      "album": {
+        "name": "Violence",
+        "url": "https://open.spotify.com/album/2lLOq3l8TyB3Nzfqm0SmzB"
+      },
+      "artists": [
+        {
+          "name": "Murdock",
+          "url": "https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl"
+        },
+        {
+          "name": "Ma\u00eblie",
+          "url": "https://open.spotify.com/artist/0X5iBtXZZhEEXjIvnpsdY4"
+        }
+      ],
+      "duration_ms": 161034,
+      "name": "Violence",
+      "url": "https://open.spotify.com/track/0U4qvX9sqWki2Zxr3oL2Zz"
     },
     {
       "added_at": "2026-08-06 23:00:42",
@@ -1027,22 +1047,18 @@
     {
       "added_at": "2026-08-06 23:00:42",
       "album": {
-        "name": "Violence",
-        "url": "https://open.spotify.com/album/2lLOq3l8TyB3Nzfqm0SmzB"
+        "name": "So Deep",
+        "url": "https://open.spotify.com/album/19BcEmB0NP6wrnbUSKGjhq"
       },
       "artists": [
         {
-          "name": "Murdock",
-          "url": "https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl"
-        },
-        {
-          "name": "Ma\u00eblie",
-          "url": "https://open.spotify.com/artist/0X5iBtXZZhEEXjIvnpsdY4"
+          "name": "Prolix",
+          "url": "https://open.spotify.com/artist/3rNP0CUzTxxuNpc3ze8rXV"
         }
       ],
-      "duration_ms": 161034,
-      "name": "Violence",
-      "url": "https://open.spotify.com/track/0U4qvX9sqWki2Zxr3oL2Zz"
+      "duration_ms": 211034,
+      "name": "So Deep",
+      "url": "https://open.spotify.com/track/6uhZ7vPqzDtP6c9NyJMZZa"
     },
     {
       "added_at": "2026-08-06 23:00:42",
@@ -1079,22 +1095,6 @@
       "duration_ms": 189767,
       "name": "Dopamine Hits",
       "url": "https://open.spotify.com/track/2QNhQiUiQcqjqv1AXYDCBZ"
-    },
-    {
-      "added_at": "2026-08-06 23:00:42",
-      "album": {
-        "name": "So Deep",
-        "url": "https://open.spotify.com/album/19BcEmB0NP6wrnbUSKGjhq"
-      },
-      "artists": [
-        {
-          "name": "Prolix",
-          "url": "https://open.spotify.com/artist/3rNP0CUzTxxuNpc3ze8rXV"
-        }
-      ],
-      "duration_ms": 211034,
-      "name": "So Deep",
-      "url": "https://open.spotify.com/track/6uhZ7vPqzDtP6c9NyJMZZa"
     }
   ],
   "unique_name": "Jump Up!",

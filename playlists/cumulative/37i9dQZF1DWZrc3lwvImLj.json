@@ -3407,6 +3407,24 @@
     },
     {
       "album": {
+        "name": "Interwoven Reading",
+        "url": "https://open.spotify.com/album/5lzQFQk6FKuWIqamjoFXb4"
+      },
+      "artists": [
+        {
+          "name": "Drifreda",
+          "url": "https://open.spotify.com/artist/6KvPFVsqQeAyZxp9MUUGTW"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150209,
+      "name": "Interwoven Reading",
+      "url": "https://open.spotify.com/track/0GyDqL7GuYp7NnGJzH2aEN"
+    },
+    {
+      "album": {
         "name": "Into the Dark",
         "url": "https://open.spotify.com/album/3UMEUeoWsQn6DYTDIRCTSj"
       },

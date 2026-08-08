@@ -1,12 +1,12 @@
 {
   "description": "Feeling dramatic? All eyes on you. Cover: Mollie Elizabeth",
-  "num_followers": 566372,
+  "num_followers": 566422,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANYGWOM0OsyLvJNmXhuDoPRhKHM7",
+  "snapshot_id": "AAAAAGlI1FOa/y5cQ8OSksGutJf8CZ2z",
   "tracks": [
     {
       "added_at": "2026-07-31 04:00:20",
@@ -23,6 +23,22 @@
       "duration_ms": 182665,
       "name": "Puppet Show",
       "url": "https://open.spotify.com/track/3sXZgxkAkqbTYDZbBGr94W"
+    },
+    {
+      "added_at": "2026-08-07 05:15:42",
+      "album": {
+        "name": "You Are Never Gone From Me",
+        "url": "https://open.spotify.com/album/7czHkHTQJ2toJgow0V0zdQ"
+      },
+      "artists": [
+        {
+          "name": "Morgana",
+          "url": "https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d"
+        }
+      ],
+      "duration_ms": 212055,
+      "name": "You Are Never Gone From Me",
+      "url": "https://open.spotify.com/track/3X4aqjMeBDw4ISXy3M3Xtw"
     },
     {
       "added_at": "2026-07-31 04:00:20",
@@ -199,6 +215,22 @@
       "duration_ms": 202250,
       "name": "THE CINEMA",
       "url": "https://open.spotify.com/track/3l4jOaTbrXb71JnpXxAUyv"
+    },
+    {
+      "added_at": "2026-08-07 05:15:42",
+      "album": {
+        "name": "Porcelain",
+        "url": "https://open.spotify.com/album/11mxTxpDaTQUINE52Ar98c"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "duration_ms": 202880,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/4uiWXurzJvxA3yL1CvJTqo"
     },
     {
       "added_at": "2026-07-31 04:00:20",
@@ -497,22 +529,6 @@
       "url": "https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI"
     },
     {
-      "added_at": "2026-05-15 04:02:00",
-      "album": {
-        "name": "Woe Is Me",
-        "url": "https://open.spotify.com/album/1MSkrcKqmJE2uUB9V9ooqM"
-      },
-      "artists": [
-        {
-          "name": "Grace Enger",
-          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
-        }
-      ],
-      "duration_ms": 172892,
-      "name": "Woe Is Me",
-      "url": "https://open.spotify.com/track/7ru96z0mnGp61wlgaSg4dC"
-    },
-    {
       "added_at": "2026-04-10 04:00:34",
       "album": {
         "name": "Cruel World",
@@ -667,22 +683,6 @@
       "duration_ms": 210048,
       "name": "Don't Say That",
       "url": "https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6"
-    },
-    {
-      "added_at": "2026-03-13 00:00:08",
-      "album": {
-        "name": "Give A Little",
-        "url": "https://open.spotify.com/album/4PM2t0JoZrpWfjtg8OKXYi"
-      },
-      "artists": [
-        {
-          "name": "Grace Enger",
-          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
-        }
-      ],
-      "duration_ms": 175843,
-      "name": "Give A Little",
-      "url": "https://open.spotify.com/track/3m4sLkrfjpobclYxcLBMei"
     },
     {
       "added_at": "2026-02-27 05:00:49",

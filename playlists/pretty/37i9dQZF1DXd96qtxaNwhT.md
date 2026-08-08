@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 
 > Soak up the serenity with these beautiful melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,173 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,177 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 56 | [overthinking about you](https://open.spotify.com/track/3uxPJckvg3g5B686iNgqXU) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [overthinking about you](https://open.spotify.com/album/6HoiPGlbAGOrJRJ5ZRVnzn) | 3:16 |
 | 57 | [Say My Name In Your Sleep](https://open.spotify.com/track/12zzqWVkgNwlMf8BJ577I7) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Say My Name In Your Sleep](https://open.spotify.com/album/4hClukIu7dTzWcMTYT0Aoz) | 3:12 |
 | 58 | [Wonderful Life](https://open.spotify.com/track/5phSRJKDo1ihkqbwNlSTVp) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [A Wonderful Life](https://open.spotify.com/album/5sjDYH0h22YYNEWiRw9IH5) | 3:48 |
-| 59 | [Where Have You Been](https://open.spotify.com/track/4rvgToT6t8w9Vm9MbqjNHa) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Where Have You Been](https://open.spotify.com/album/6Kpy8J83AQc61i8f1RHL3y) | 3:57 |
-| 60 | [Hard To Be Human](https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hard To Be Human](https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71) | 2:50 |
+| 59 | [Hard To Be Human](https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hard To Be Human](https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71) | 2:50 |
+| 60 | [Where Have You Been](https://open.spotify.com/track/4rvgToT6t8w9Vm9MbqjNHa) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Where Have You Been](https://open.spotify.com/album/6Kpy8J83AQc61i8f1RHL3y) | 3:57 |
 | 61 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
 | 62 | [LOVE AGAIN](https://open.spotify.com/track/2VLwPqWsKHp28IVV6DubgY) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [LOVE AGAIN](https://open.spotify.com/album/4oa34knWDKegbx45qPDBrp) | 2:56 |
 | 63 | [not my job anymore](https://open.spotify.com/track/4i7mcbkECX4kqRvfjbBGQz) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [not my job anymore](https://open.spotify.com/album/4q2D6dkCSdkkTQ8Jqvh6VI) | 3:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96qtxaNwhT.md) - [plain]
 | 74 | [How I Love You](https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Songs I Cry 2](https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY) | 3:12 |
 | 75 | [While I Got Time](https://open.spotify.com/track/1rCCa9y1CHjPvphMTBtRbC) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [While I Got Time](https://open.spotify.com/album/2IYWJYYuElnW35H7JJJQCs) | 3:45 |
 
-Snapshot ID: `AAAAAHL8vSAVGJ5ZSsCI6tFqzas5zB3x`
+Snapshot ID: `AAAAADfmHLoLw5B07GZOGx1a+yvVLGJX`

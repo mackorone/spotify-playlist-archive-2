@@ -1,12 +1,12 @@
 {
   "description": "mostly furry",
-  "num_followers": 1241,
+  "num_followers": 1243,
   "original_name": "My favourite furry songs",
   "owner": {
     "name": "kiara",
     "url": "https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4"
   },
-  "snapshot_id": "AAAB6JUYM4SKDvi1jfuTzOqBzbc2dsZ1",
+  "snapshot_id": "AAAB6qlShgvKhnw61OXpWpsZzDo6QX35",
   "tracks": [
     {
       "added_at": "2024-01-31 19:21:57",
@@ -8455,6 +8455,42 @@
       "duration_ms": 241009,
       "name": "Summer's End - Instrumental",
       "url": "https://open.spotify.com/track/7zcnUaKqc5FfHCfOS9bHig"
+    },
+    {
+      "added_at": "2026-08-07 11:19:38",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/6SbAFH4KW09gm0incbJjMX"
+      },
+      "artists": [
+        {
+          "name": "Rei Caffie",
+          "url": "https://open.spotify.com/artist/3v5StcEvA3mtQ7HJVfmQqa"
+        }
+      ],
+      "duration_ms": 244256,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/7mXoq6rgDd05b618ZELgqY"
+    },
+    {
+      "added_at": "2026-08-07 11:19:39",
+      "album": {
+        "name": "Catdelions IIS",
+        "url": "https://open.spotify.com/album/1QX1Z2oES9tANgs5iE5sq6"
+      },
+      "artists": [
+        {
+          "name": "UrvTek",
+          "url": "https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh"
+        },
+        {
+          "name": "Artifyber",
+          "url": "https://open.spotify.com/artist/41B16M5LFJKcwUW3L75PVh"
+        }
+      ],
+      "duration_ms": 172109,
+      "name": "Catdelions IIS",
+      "url": "https://open.spotify.com/track/6TROIvKbmnmfIZhuN2v3Vj"
     }
   ],
   "unique_name": "My favourite furry songs",

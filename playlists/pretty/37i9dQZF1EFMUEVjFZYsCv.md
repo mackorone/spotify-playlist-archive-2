@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5rGEVA02BzuqceQxXAGrqE">James Arthur</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56 likes - 98 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 56 likes - 97 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,6 +105,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 | 95 | [Treehouse](https://open.spotify.com/track/251Sfkz551MKWoXFvL2TAd) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Treehouse](https://open.spotify.com/album/49GH2l6sWX15pBbNWc366o) | 2:52 |
 | 96 | [Burn Me Alive \(feat\. James Arthur\)](https://open.spotify.com/track/1avrqqjrHakyG5JrlNRkq4) | [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Things I've Seen](https://open.spotify.com/album/2ptUS7vVvBKOD5PUSXZsGi) | 3:50 |
 | 97 | [Lay My Body Down](https://open.spotify.com/track/6yTgkVCTkt840eGrnykWI4) | [MaRina](https://open.spotify.com/artist/5RYLofQHxZcrEl9Bl23MCS) | [On My Way](https://open.spotify.com/album/0jNDoWMJDR7dIXEq3bIhdv) | 3:19 |
-| 98 | [Rollercoaster](https://open.spotify.com/track/7nzR2Ix0xJE4U9foEqTEsf) | [Missy Five](https://open.spotify.com/artist/1HrQGnCZCDGCJVicgtGlqW) | [Groovy 90S Hits!](https://open.spotify.com/album/4LPAFPbrRwAQ8qQ24ZLma9) | 3:14 |
 
-Snapshot ID: `AcYzHgAAAAA4ISqHM1uG8KwyEsls7qoG`
+Snapshot ID: `AcY+SgAAAAAGwQW1WpQwOO8bz8EPNTSQ`

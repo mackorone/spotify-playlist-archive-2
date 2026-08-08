@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from Finn Wolfhard",
+  "description": "Explore all things indie rock right now. Featuring music from Florence Road",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -642,6 +642,24 @@
       "duration_ms": 207653,
       "name": "7-ELEVEn",
       "url": "https://open.spotify.com/track/3uqt1ZEFxhCEtqOda77tjK"
+    },
+    {
+      "album": {
+        "name": "7563",
+        "url": "https://open.spotify.com/album/7kIjf3ntzfOIwrotbZVMLL"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243302,
+      "name": "7563",
+      "url": "https://open.spotify.com/track/2vJPGLhq3pub8fG9wAFN0Y"
     },
     {
       "album": {
@@ -7431,6 +7449,24 @@
     },
     {
       "album": {
+        "name": "Clay Pigeons",
+        "url": "https://open.spotify.com/album/6D5WGK2o4UWgyY5X4GkAjq"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189240,
+      "name": "Clay Pigeons",
+      "url": "https://open.spotify.com/track/7GBU8Dvl64jIRPplVjieGw"
+    },
+    {
+      "album": {
         "name": "Clean Heart",
         "url": "https://open.spotify.com/album/4PBjg8iIHZH283BSRNIszV"
       },
@@ -14170,6 +14206,24 @@
       "duration_ms": 218386,
       "name": "Games",
       "url": "https://open.spotify.com/track/7HA1olc168EV5By8K7kWq5"
+    },
+    {
+      "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/08S8Cftjk2s1H1HBtCOqYw"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299042,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE"
     },
     {
       "album": {
@@ -25875,6 +25929,24 @@
     },
     {
       "album": {
+        "name": "Oh No Now My",
+        "url": "https://open.spotify.com/album/6Qex2dWIX0M5LPHLTJq4Sr"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188453,
+      "name": "Oh No Now My",
+      "url": "https://open.spotify.com/track/2MbLMnGeW92YVBbsyHM5WR"
+    },
+    {
+      "album": {
         "name": "Oh!",
         "url": "https://open.spotify.com/album/13YVOGugpbcH7MZCwDEWnE"
       },
@@ -34772,6 +34844,24 @@
       "duration_ms": 206571,
       "name": "The Feminine Urge",
       "url": "https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc"
+    },
+    {
+      "album": {
+        "name": "The Fountain",
+        "url": "https://open.spotify.com/album/5c0apRbvlzHy0JCWSk7x6E"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "The Fountain",
+      "url": "https://open.spotify.com/track/0HnLhPc4Vdg2HS1p6fJblv"
     },
     {
       "album": {

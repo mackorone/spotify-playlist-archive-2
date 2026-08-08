@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 
 > Nurse your emotional wounds with these heartbreak tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,623,165 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,623,026 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 57 | [Say You Won't Let Go](https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Say You Won't Let Go](https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC) | 3:31 |
 | 58 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 |
 | 59 | [Love You Goodbye](https://open.spotify.com/track/1ZWLWVqeEMWMKTlteS0yLH) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:16 |
-| 60 | [birthday cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [birthday cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 |
-| 61 | [Lost Boy](https://open.spotify.com/track/4h0zU3O9R5xzuTmNO7dNDU) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Lost Boy](https://open.spotify.com/album/7drYNu2imHk188vP81icR3) | 4:35 |
-| 62 | [That Home](https://open.spotify.com/track/6q4c1vPRZREh7nw3wG7Ixz) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB) | [Ma Fleur](https://open.spotify.com/album/5cPHT4yMCfETLRYAoBFcOZ) | 1:43 |
+| 60 | [Lost Boy](https://open.spotify.com/track/4h0zU3O9R5xzuTmNO7dNDU) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Lost Boy](https://open.spotify.com/album/7drYNu2imHk188vP81icR3) | 4:35 |
+| 61 | [That Home](https://open.spotify.com/track/6q4c1vPRZREh7nw3wG7Ixz) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB) | [Ma Fleur](https://open.spotify.com/album/5cPHT4yMCfETLRYAoBFcOZ) | 1:43 |
+| 62 | [birthday cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [birthday cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 |
 | 63 | [Please Don't Go](https://open.spotify.com/track/3cNjgVBKTJ1SvKhunrCdVy) | [Joel Adams](https://open.spotify.com/artist/36jaGQtMj5UWD0eO1fCVdD) | [Please Don't Go](https://open.spotify.com/album/2SF8Wbc61u8hlQkZYGVCnx) | 3:30 |
 | 64 | [Certain Things \(feat\. Chasing Grace\)](https://open.spotify.com/track/5zvJELVKAnPkscGc5aLKJI) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Chasing Grace](https://open.spotify.com/artist/5M6D2PqxdnZMVMCb1jNOTp) | [James Arthur \(Deluxe\)](https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0) | 3:53 |
 | 65 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Like I'm Gonna Lose You](https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58) | 3:52 |
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 84 | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/track/48wSJ6NhMFYYB6LjdnPNjM) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Ella Eyre](https://open.spotify.com/album/4zI5xpR9M6VLJsdb3zgzT5) | 3:50 |
 | 85 | [The Enemy](https://open.spotify.com/track/6xJOhSm4SvZwzy3uhWz26O) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Black Bear](https://open.spotify.com/album/2Objy4bpKyIT4JsUsBr8ka) | 4:46 |
 | 86 | [I Found](https://open.spotify.com/track/4lRuRtvftdSSUA7hLP7zAr) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [Pilot EP](https://open.spotify.com/album/6gYzypEY4tTiESfptdoOrB) | 4:34 |
-| 87 | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/album/4uJ6MjXT079RciBfHyecTy) | 2:35 |
-| 88 | [Don't Watch Me Cry](https://open.spotify.com/track/202lm9YX5WmAac83tOGlVn) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 3:10 |
+| 87 | [Don't Watch Me Cry](https://open.spotify.com/track/202lm9YX5WmAac83tOGlVn) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 3:10 |
+| 88 | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/album/4uJ6MjXT079RciBfHyecTy) | 2:35 |
 | 89 | [Dream](https://open.spotify.com/track/25DpvTS4zsmLiVLx8Zv3N0) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors](https://open.spotify.com/album/0gmsXcmrcnxdZBrD5EyJEL) | 4:18 |
 | 90 | [Crazy in Love](https://open.spotify.com/track/5iJS04ZXjMkQZ5nS0PsIeY) | [Eden Project](https://open.spotify.com/artist/26plsJBmW5se3wurhwzaEK) | [Crazy in Love](https://open.spotify.com/album/0W1rDqIMNC2lg5Rtq7kn2H) | 4:25 |
 | 91 | [Yours](https://open.spotify.com/track/0Mq0reDcNpgmQkjHfzpJrp) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Chapter One \(Deluxe Version\)](https://open.spotify.com/album/6FM2zi33hm46NY9mk5jIV8) | 2:48 |
 | 92 | [Samson](https://open.spotify.com/track/2JAUBPBVkimRLc5BGhAkfJ) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope](https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE) | 3:09 |
 | 93 | [when the party’s over](https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Covers](https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq) | 3:13 |
-| 94 | [It's Ok If You Forget Me](https://open.spotify.com/track/312zSwwbPU7C3sTmro4Wx9) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [It's Ok If You Forget Me](https://open.spotify.com/album/2C91kmyDRWZdm0wR8dK1Wn) | 3:24 |
-| 95 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 |
+| 94 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 |
+| 95 | [It's Ok If You Forget Me](https://open.spotify.com/track/312zSwwbPU7C3sTmro4Wx9) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [It's Ok If You Forget Me](https://open.spotify.com/album/2C91kmyDRWZdm0wR8dK1Wn) | 3:24 |
 | 96 | [that way \- with Jeremy Zucker](https://open.spotify.com/track/6W4SftknKhWj0iFoHN7aYU) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [that way \(with Jeremy Zucker\)](https://open.spotify.com/album/0XiGU8X2kdQscNbohqwyIs) | 2:54 |
 | 97 | [Losin Control](https://open.spotify.com/track/1jkIErXa3YNUX5QIyO6GGR) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Losin Control](https://open.spotify.com/album/2Xn8a3z0UPKpgz8VpaGcRk) | 3:57 |
 | 98 | [Godspeed](https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Godspeed](https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC) | 2:53 |
 | 99 | [5AM](https://open.spotify.com/track/4B4kunXhV2ZKnYcvDgAFoE) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [5AM \(Expanded Edition\)](https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L) | 4:17 |
 | 100 | [Anybody Else](https://open.spotify.com/track/5SR9WnrC9pGFfDld6xoil5) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [CITIZENS](https://open.spotify.com/album/3nh4uK04eRkHyrxIDWEfkp) | 3:20 |
 
-Snapshot ID: `AAAAAM0PQoZeItReiHDBayrt6tMxkW5b`
+Snapshot ID: `AAAAABkvbfNk9IUdsYLQwTBiOSuNXdmp`

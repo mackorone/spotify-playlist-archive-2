@@ -1,12 +1,12 @@
 {
   "description": "These are the talented women of Latin music. Cover: KAROL G",
-  "num_followers": 128550,
+  "num_followers": 128663,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB/0Mtqn5qfa7ycAY0cqvKbQScAH",
+  "snapshot_id": "AAAAAJVd4v4yzmlhyx+HJ7A8coiTXwlE",
   "tracks": [
     {
       "added_at": "2026-04-13 13:45:23",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-04-13 13:45:23",
       "album": {
-        "name": "CH\u00c9VERE (joes\u00f3n_type_beat)",
-        "url": "https://open.spotify.com/album/0Jm70JVol2XXCUpSggEk50"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 189223,
-      "name": "CH\u00c9VERE (joes\u00f3n_type_beat)",
-      "url": "https://open.spotify.com/track/5OQCghydcEeA76eGdJ6GEa"
-    },
-    {
-      "added_at": "2026-04-13 13:45:23",
-      "album": {
         "name": "LUX",
         "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 130506,
       "name": "Dios Es Un Stalker",
       "url": "https://open.spotify.com/track/6FdOGTRYvLCJ79d55YtGgZ"
+    },
+    {
+      "added_at": "2026-04-13 13:45:23",
+      "album": {
+        "name": "CH\u00c9VERE (joes\u00f3n_type_beat)",
+        "url": "https://open.spotify.com/album/0Jm70JVol2XXCUpSggEk50"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 189223,
+      "name": "CH\u00c9VERE (joes\u00f3n_type_beat)",
+      "url": "https://open.spotify.com/track/5OQCghydcEeA76eGdJ6GEa"
     },
     {
       "added_at": "2026-04-13 13:45:23",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-04-13 13:45:23",
       "album": {
-        "name": "PREGUNTAS A LAS 11:11",
-        "url": "https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 180949,
-      "name": "\u00bfTrato Hecho?",
-      "url": "https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx"
-    },
-    {
-      "added_at": "2026-04-13 13:45:23",
-      "album": {
         "name": "Eternamente Bella",
         "url": "https://open.spotify.com/album/1PhIfhQdduYiD72UKXIot9"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 206946,
       "name": "Eternamente Bella",
       "url": "https://open.spotify.com/track/0WZqP2WahJbKURqUK3fBPk"
+    },
+    {
+      "added_at": "2026-04-13 13:45:23",
+      "album": {
+        "name": "PREGUNTAS A LAS 11:11",
+        "url": "https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 180949,
+      "name": "\u00bfTrato Hecho?",
+      "url": "https://open.spotify.com/track/5q0Sa9ON8xcPsUlkOtf9yx"
     },
     {
       "added_at": "2026-04-13 13:45:23",

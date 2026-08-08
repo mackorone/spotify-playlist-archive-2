@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYHdtUb7Wil.md) - [plain]
 
 > Kick back to these chilled out essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,499 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,486 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYHdtUb7Wil.md) - [plain]
 | 74 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 |
 | 75 | [Why Would You Be Loved](https://open.spotify.com/track/378Ufdm9Bq9SjWRQ6d4jn1) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby! \(Special Edition\)](https://open.spotify.com/album/4qpvDzPCm5PLNLNINaEWM5) | 4:08 |
 
-Snapshot ID: `AAAAALNJU7hEDtB83ELkYe/QSfKlYUJQ`
+Snapshot ID: `AAAAAO9Pskjj1+ARDR80dIl5JK07L7QZ`

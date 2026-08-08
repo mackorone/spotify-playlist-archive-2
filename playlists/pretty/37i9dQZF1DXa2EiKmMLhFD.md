@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2EiKmMLhFD.md) - [plain]
 
 > Hits terpanas dari Tulus, Ariana Grande, SIENNA SPIRO,  eńau, Ari Lesmana, Olivia Rodrigo, serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,429,058 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,428,986 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2EiKmMLhFD.md) - [plain]
 | 49 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 |
 | 50 | [Sadrah](https://open.spotify.com/track/33UIshRVxXEBzITjCzo6al) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Sadrah](https://open.spotify.com/album/2w4AJncxdhdz2MIsBXgbyq) | 4:07 |
 
-Snapshot ID: `AAAAAI6g+RMfmll5djSoHvMVfBwdOXJ0`
+Snapshot ID: `AAAAADXkDUI7B5WPam3ovtXYOpl3GOEt`

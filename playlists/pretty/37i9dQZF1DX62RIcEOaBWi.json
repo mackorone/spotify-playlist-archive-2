@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica alegre para que el trabajo se te pase volando.",
-  "num_followers": 571406,
+  "num_followers": 571380,
   "original_name": "En el Trabajo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJcYCdsILd88Oe+dCyQpZJP4lMr5",
+  "snapshot_id": "AAAAAOsyXYU+/QsuUbidEwCj6LWxcxcK",
   "tracks": [
     {
       "added_at": "2026-06-29 14:06:42",
@@ -107,22 +107,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "Don't Play That Song (Mono)",
-        "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
-      },
-      "artists": [
-        {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
-        }
-      ],
-      "duration_ms": 180055,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "pa ti toa <3",
         "url": "https://open.spotify.com/album/2QVvlMjlbV445e9a5y2obD"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 213001,
       "name": "pa ti toa <3",
       "url": "https://open.spotify.com/track/54NQtnCL950bGIHlZUMMDH"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "Don't Play That Song (Mono)",
+        "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
+      },
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        }
+      ],
+      "duration_ms": 180055,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "Never Gonna Not Dance Again",
-        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 225789,
-      "name": "Never Gonna Not Dance Again",
-      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "Physical",
         "url": "https://open.spotify.com/album/5Vzq1wKBUXMxEZl3NPjJpS"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 219373,
       "name": "D\u00e9jala Que Baile (with Alejandro Sanz & Arkano)",
       "url": "https://open.spotify.com/track/2KK9N6iBAisA0booTu3bGd"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "Never Gonna Not Dance Again",
+        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 225789,
+      "name": "Never Gonna Not Dance Again",
+      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
+        "name": "Vida de Rico",
+        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 187406,
+      "name": "Vida de Rico",
+      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
         "name": "Shake",
         "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
       },
@@ -1939,18 +1955,18 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "Vida de Rico",
-        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
+        "name": "Canciones",
+        "url": "https://open.spotify.com/album/42Gjhf7f1h2dKvWTKDHd90"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
         }
       ],
-      "duration_ms": 187406,
-      "name": "Vida de Rico",
-      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
+      "duration_ms": 169773,
+      "name": "Cien gaviotas",
+      "url": "https://open.spotify.com/track/020Gj87SqDRvzGHELzcCEc"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -1987,22 +2003,6 @@
       "duration_ms": 202446,
       "name": "Con La Miel En Los Labios",
       "url": "https://open.spotify.com/track/2QJcrJNa4KGxQ6bw0MH3Zx"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
-        "name": "Canciones",
-        "url": "https://open.spotify.com/album/42Gjhf7f1h2dKvWTKDHd90"
-      },
-      "artists": [
-        {
-          "name": "Duncan Dhu",
-          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
-        }
-      ],
-      "duration_ms": 169773,
-      "name": "Cien gaviotas",
-      "url": "https://open.spotify.com/track/020Gj87SqDRvzGHELzcCEc"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -2087,6 +2087,22 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
+        "name": "Canciones para el tiempo y la distancia",
+        "url": "https://open.spotify.com/album/6684lqRy7QCfQCNVc4Ohxp"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ferreiro",
+          "url": "https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP"
+        }
+      ],
+      "duration_ms": 278333,
+      "name": "Turnedo",
+      "url": "https://open.spotify.com/track/541hgOF71B92Jpg4IU6kyx"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
         "name": "Amigos (con Maria Becerra)",
         "url": "https://open.spotify.com/album/3znR1F0VbgfKsDyTeC0Nt8"
       },
@@ -2103,22 +2119,6 @@
       "duration_ms": 233755,
       "name": "Amigos (con Maria Becerra)",
       "url": "https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
-        "name": "Canciones para el tiempo y la distancia",
-        "url": "https://open.spotify.com/album/6684lqRy7QCfQCNVc4Ohxp"
-      },
-      "artists": [
-        {
-          "name": "Ivan Ferreiro",
-          "url": "https://open.spotify.com/artist/3qUrABCNqnkb5gc2YmPVzP"
-        }
-      ],
-      "duration_ms": 278333,
-      "name": "Turnedo",
-      "url": "https://open.spotify.com/track/541hgOF71B92Jpg4IU6kyx"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -2359,26 +2359,18 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "Dharma",
-        "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
+        "name": "A Puerta Cerrada",
+        "url": "https://open.spotify.com/album/5oEdjJV5w3M9Odc7y2pWS1"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
-        },
-        {
-          "name": "Rosario",
-          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
         }
       ],
-      "duration_ms": 195760,
-      "name": "Dharma",
-      "url": "https://open.spotify.com/track/5tpAcJ47UgF4udM5YXcDd2"
+      "duration_ms": 224133,
+      "name": "Rojitas las orejas",
+      "url": "https://open.spotify.com/track/42R5irny7qThOYUThAL7VW"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -2407,18 +2399,26 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "A Puerta Cerrada",
-        "url": "https://open.spotify.com/album/5oEdjJV5w3M9Odc7y2pWS1"
+        "name": "Dharma",
+        "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
       },
       "artists": [
         {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Rosario",
+          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
         }
       ],
-      "duration_ms": 224133,
-      "name": "Rojitas las orejas",
-      "url": "https://open.spotify.com/track/42R5irny7qThOYUThAL7VW"
+      "duration_ms": 195760,
+      "name": "Dharma",
+      "url": "https://open.spotify.com/track/5tpAcJ47UgF4udM5YXcDd2"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "Sintiendonos La Piel",
-        "url": "https://open.spotify.com/album/4Zq9UhyMTcrEhvQx0Gm2TX"
-      },
-      "artists": [
-        {
-          "name": "Sergio Dalma",
-          "url": "https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ"
-        }
-      ],
-      "duration_ms": 276640,
-      "name": "Bailar Pegados",
-      "url": "https://open.spotify.com/track/4QkQmdvFjEVvjc1ONi6t6N"
-    },
-    {
-      "added_at": "2026-06-29 14:06:42",
-      "album": {
         "name": "Aqu\u00ed no sobra nadie",
         "url": "https://open.spotify.com/album/7m8RIp8c4rxCeuXdx1dpWO"
       },
@@ -2535,6 +2519,22 @@
       "duration_ms": 190768,
       "name": "Nidito de amor",
       "url": "https://open.spotify.com/track/6cHog7WNzEelSIxMFCkHWA"
+    },
+    {
+      "added_at": "2026-06-29 14:06:42",
+      "album": {
+        "name": "Sintiendonos La Piel",
+        "url": "https://open.spotify.com/album/4Zq9UhyMTcrEhvQx0Gm2TX"
+      },
+      "artists": [
+        {
+          "name": "Sergio Dalma",
+          "url": "https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ"
+        }
+      ],
+      "duration_ms": 276640,
+      "name": "Bailar Pegados",
+      "url": "https://open.spotify.com/track/4QkQmdvFjEVvjc1ONi6t6N"
     },
     {
       "added_at": "2026-06-29 14:06:42",
@@ -2679,18 +2679,18 @@
     {
       "added_at": "2026-06-29 14:06:42",
       "album": {
-        "name": "INFANCIA MAL CALIBRADA",
-        "url": "https://open.spotify.com/album/16xCvyLPONGbD1pij2GOQ1"
+        "name": "Todos Estamos Bailando La Misma Canci\u00f3n",
+        "url": "https://open.spotify.com/album/6XpGSdXg89IDyFZS1pWsir"
       },
       "artists": [
         {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
         }
       ],
-      "duration_ms": 278145,
-      "name": "VICTORIA",
-      "url": "https://open.spotify.com/track/39F3LM8cs7Wsj48deuXEzq"
+      "duration_ms": 248127,
+      "name": "Todos Estamos Bailando La Misma Canci\u00f3n",
+      "url": "https://open.spotify.com/track/6j23hE057HmBxUErUjoEt9"
     }
   ],
   "unique_name": "En el Trabajo",

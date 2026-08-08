@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 201618,
+  "num_followers": 201601,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPYQLchwFpjQCCzj3zTP3orM1T41",
+  "snapshot_id": "AAAAAOe7txsotBENY6cqg5gsLYsdclY3",
   "tracks": [
     {
       "added_at": "2025-09-18 22:01:59",
@@ -471,22 +471,6 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
-        "name": "Nulo",
-        "url": "https://open.spotify.com/album/34MqjCLcRf2VVNc6kqqbAq"
-      },
-      "artists": [
-        {
-          "name": "NVLO",
-          "url": "https://open.spotify.com/artist/7Gr3eqtmWKT8lF9eLDFU8k"
-        }
-      ],
-      "duration_ms": 150600,
-      "name": "\u00a1Qu\u00e9menlos!",
-      "url": "https://open.spotify.com/track/65qq9FT1BRPg8CQ5A4WUmK"
-    },
-    {
-      "added_at": "2025-09-18 22:01:59",
-      "album": {
         "name": "Lleva Tu Mente al Limite",
         "url": "https://open.spotify.com/album/394QJVw2uXdfwi31NcXj9H"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 189053,
       "name": "En la Eternidad",
       "url": "https://open.spotify.com/track/1qdL50KCmGmGjKTT0bT8Kd"
+    },
+    {
+      "added_at": "2025-09-18 22:01:59",
+      "album": {
+        "name": "Nulo",
+        "url": "https://open.spotify.com/album/34MqjCLcRf2VVNc6kqqbAq"
+      },
+      "artists": [
+        {
+          "name": "NVLO",
+          "url": "https://open.spotify.com/artist/7Gr3eqtmWKT8lF9eLDFU8k"
+        }
+      ],
+      "duration_ms": 150600,
+      "name": "\u00a1Qu\u00e9menlos!",
+      "url": "https://open.spotify.com/track/65qq9FT1BRPg8CQ5A4WUmK"
     },
     {
       "added_at": "2025-09-18 22:01:59",
@@ -519,22 +519,6 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
-        "name": "Llora Chiapas",
-        "url": "https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL"
-      },
-      "artists": [
-        {
-          "name": "Leprosy",
-          "url": "https://open.spotify.com/artist/01U6wng00lcRJt0j2W0O3x"
-        }
-      ],
-      "duration_ms": 312447,
-      "name": "Residentes Olvidados",
-      "url": "https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P"
-    },
-    {
-      "added_at": "2025-09-18 22:01:59",
-      "album": {
         "name": "Bajo la Cruz",
         "url": "https://open.spotify.com/album/66dGx46zunw5g7zcaAJ2Fj"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 295263,
       "name": "Vida Eterna",
       "url": "https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv"
+    },
+    {
+      "added_at": "2025-09-18 22:01:59",
+      "album": {
+        "name": "Llora Chiapas",
+        "url": "https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL"
+      },
+      "artists": [
+        {
+          "name": "Leprosy",
+          "url": "https://open.spotify.com/artist/01U6wng00lcRJt0j2W0O3x"
+        }
+      ],
+      "duration_ms": 312447,
+      "name": "Residentes Olvidados",
+      "url": "https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P"
     },
     {
       "added_at": "2025-09-18 22:01:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: PLUTO
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,775 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,754 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 46 | [Checkin In](https://open.spotify.com/track/3LP8UhaVYrkr4RRIZIcAjt) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Back To 304'n](https://open.spotify.com/album/01Q0we3MvUuyWfJrVq85gg) | 1:57 |
 | 47 | [Running Late](https://open.spotify.com/track/1CwnEKPRLebumbHmZ3yZly) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [Running Late](https://open.spotify.com/album/1zNusgtKW9KGyCBsd2NMpq) | 2:07 |
 | 48 | [BACK OUTSIDE \(feat\. Latto\)](https://open.spotify.com/track/5zHqXGQkZ1BSGePTAg6xSF) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [BACK OUTSIDE \(feat\. Latto\)](https://open.spotify.com/album/1NUu71LKvnQJHfrMvrYfap) | 2:53 |
-| 49 | [Fairy](https://open.spotify.com/track/735Ji1GzLR9nvteGdbqy8U) | [Myaap](https://open.spotify.com/artist/2QgCj5pd8aIys9jvr3A1GZ) | [Fairy](https://open.spotify.com/album/1RmNOVzmUpRHczpGYiUd10) | 2:22 |
-| 50 | [FREAKY \(feat\. Cardi B\)](https://open.spotify.com/track/5YoRDtZRUMiPX9cZDyOFVk) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:19 |
+| 49 | [FREAKY \(feat\. Cardi B\)](https://open.spotify.com/track/5YoRDtZRUMiPX9cZDyOFVk) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:19 |
+| 50 | [Fairy](https://open.spotify.com/track/735Ji1GzLR9nvteGdbqy8U) | [Myaap](https://open.spotify.com/artist/2QgCj5pd8aIys9jvr3A1GZ) | [Fairy](https://open.spotify.com/album/1RmNOVzmUpRHczpGYiUd10) | 2:22 |
 
-Snapshot ID: `AAAAAEpeRUONR1ND0MkqigjxmQRTp8Iw`
+Snapshot ID: `AAAAALvJ9ERbF9fFHs5h9WIx2/W7T3tL`

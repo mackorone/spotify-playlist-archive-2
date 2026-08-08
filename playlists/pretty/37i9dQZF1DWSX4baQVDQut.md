@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSX4baQVDQut.md) - [plain]
 
 > Nosotros ponemos la música y tú los pasos ;\)<br/>Can't stop, won't stop dancing!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,804,417 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,804,321 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSX4baQVDQut.md) - [plain]
 | 31 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 |
 | 32 | [NI BORRACHO](https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [NI BORRACHO](https://open.spotify.com/album/56abbxkslQf53jbbIInCD3) | 4:08 |
 | 33 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
-| 34 | [orióN](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [orióN](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 |
+| 34 | [China](https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [China](https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh) | 5:01 |
 | 35 | [OHNANA](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [OHNANA](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 |
-| 36 | [China](https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [China](https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh) | 5:01 |
+| 36 | [orióN](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [orióN](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 |
 | 37 | [Santa](https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Santa](https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia) | 3:13 |
 | 38 | [una noche con hugel](https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [una noche con hugel](https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT) | 3:11 |
 | 39 | [Vagabundo](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Vagabundo](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSX4baQVDQut.md) - [plain]
 | 80 | [Déjame Entrar](https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Déjame Entrar](https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe) | 4:14 |
 | 81 | [DESATAAA](https://open.spotify.com/track/2vh03XeMmNRwxiAztk01Pe) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [DESATAAA](https://open.spotify.com/album/7Ja7q53ewWXSOGM9MSmted) | 3:17 |
 | 82 | [COMO TU](https://open.spotify.com/track/0IXL5SPeI849hcz7Cynpk4) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [BABABA WORLD](https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS) | 2:34 |
-| 83 | [Mi Reina](https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Mi Reina](https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9) | 3:03 |
-| 84 | [san blaS](https://open.spotify.com/track/5I2MsBzDR7YmFG9W5SAWYg) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [SAN BLAS](https://open.spotify.com/album/0FftKMxAvrnFuynmLCvjQ0) | 2:28 |
+| 83 | [san blaS](https://open.spotify.com/track/5I2MsBzDR7YmFG9W5SAWYg) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [SAN BLAS](https://open.spotify.com/album/0FftKMxAvrnFuynmLCvjQ0) | 2:28 |
+| 84 | [Mi Reina](https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Mi Reina](https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9) | 3:03 |
 | 85 | [Si no no](https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:29 |
 | 86 | [ATARI](https://open.spotify.com/track/26Fvbip1soBIK5RWJYco05) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 2:56 |
 | 87 | [Enhorabuena](https://open.spotify.com/track/6Js2Fy0gdSAkpD780TYJGu) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Enhorabuena](https://open.spotify.com/album/1p2JgxJxYfju0cSvAnfuPo) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSX4baQVDQut.md) - [plain]
 | 99 | [INSOMNIO](https://open.spotify.com/track/2LnUHC7HB5n5e5LzHxQuJi) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [INSOMNIO](https://open.spotify.com/album/5uMSlAYTRCqjqGP32e30pC) | 3:38 |
 | 100 | [Corazón Partío](https://open.spotify.com/track/2LPDdnXn13fw5JmIemG4VE) | [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv), [Charly & Johayron](https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG) | [Corazón Partío](https://open.spotify.com/album/5zFpjiEauzmd0quSZxEXpy) | 3:15 |
 
-Snapshot ID: `AAAAAAT2VK3+vBx6MpJhSXs3wED46KFh`
+Snapshot ID: `AAAAAI6/rHOFEmloIhCUHGReapeSFF25`

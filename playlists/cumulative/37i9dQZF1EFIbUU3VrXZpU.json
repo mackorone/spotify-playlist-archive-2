@@ -917,6 +917,24 @@
     },
     {
       "album": {
+        "name": "BITCH",
+        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163390,
+      "name": "BITCH",
+      "url": "https://open.spotify.com/track/5Ob6j3t91qixhs7Fhzs0to"
+    },
+    {
+      "album": {
         "name": "Supa Dupa Fly",
         "url": "https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2"
       },

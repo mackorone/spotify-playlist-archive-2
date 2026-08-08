@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Andrea Bejar",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Joaquina",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -2380,7 +2380,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 192213,
       "name": "Baldosas Amarillas",
       "url": "https://open.spotify.com/track/7qEd0ZZUxcD0BhaAPrHZib"
@@ -6050,7 +6050,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 207599,
       "name": "Desconectado",
       "url": "https://open.spotify.com/track/42WCujGerdQ4TuVfFjZFou"
@@ -6928,7 +6928,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 204051,
       "name": "el d\u00eda que te marchaste",
       "url": "https://open.spotify.com/track/6hHa0trfXd5xLLzBqC59wG"
@@ -8650,6 +8650,24 @@
       "duration_ms": 178756,
       "name": "FIKSION",
       "url": "https://open.spotify.com/track/5W1imJxOa2bnPo30yBFyjD"
+    },
+    {
+      "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186792,
+      "name": "Final feliz",
+      "url": "https://open.spotify.com/track/3Oiirh2007ZHkNQtzEI1vH"
     },
     {
       "album": {
@@ -10734,6 +10752,24 @@
       "duration_ms": 184583,
       "name": "LA 17",
       "url": "https://open.spotify.com/track/5VvXKI2utC5crGwOrqFppP"
+    },
+    {
+      "album": {
+        "name": "Miss Me Much?",
+        "url": "https://open.spotify.com/album/1a84mOgwvjDxfwSBpJxoP2"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Isabel",
+          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114952,
+      "name": "La Baby Cambi\u00f3",
+      "url": "https://open.spotify.com/track/1qLnwbCwQ2YyubFYM0Pw1Z"
     },
     {
       "album": {
@@ -17532,7 +17568,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 206571,
       "name": "Platillos Voladores",
       "url": "https://open.spotify.com/track/05Tx4DtAXqFy8aKpptOygo"
@@ -21103,6 +21139,28 @@
     },
     {
       "album": {
+        "name": "Tal Vez Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/51elj8SNea5ht8B7Cd7l5N"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208465,
+      "name": "Tal Vez Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/7yoTLJ4DdQ62CtTEIMJuRM"
+    },
+    {
+      "album": {
         "name": "tan mona con la mini",
         "url": "https://open.spotify.com/album/3w9E7GSIGRywTMpsZur4xD"
       },
@@ -23290,6 +23348,24 @@
       "duration_ms": 171000,
       "name": "Verano Cruel",
       "url": "https://open.spotify.com/track/7cD9XsdYgNoKMdAVFak7y9"
+    },
+    {
+      "album": {
+        "name": "verano en la ciudad",
+        "url": "https://open.spotify.com/album/7esCAic9KXNGprLkyCSMDR"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212727,
+      "name": "verano en la ciudad",
+      "url": "https://open.spotify.com/track/2WzXAEN2FvbwjAi7NEOUeo"
     },
     {
       "album": {

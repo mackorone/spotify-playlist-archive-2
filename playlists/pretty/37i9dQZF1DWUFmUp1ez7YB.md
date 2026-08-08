@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 
 > Los éxitos de la salsa de ayer y hoy en un sólo lugar\. Foto: Willie Colón
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,132,455 likes - 90 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,132,751 likes - 90 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,10 +93,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 | 83 | [El Faisán](https://open.spotify.com/track/3BGiEoReFSNG1gUlYvWiWG) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [El Maestro](https://open.spotify.com/album/4rFrbQB32GXz7zs6vPCaTH) | 8:22 |
 | 84 | [Grecia \- Spotify Sessions](https://open.spotify.com/track/2mQm96LDVXWaryyaaJfDUN) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Elsa y Elmar \(Spotify Sessions\)](https://open.spotify.com/album/5jmAIf4GwcKVSFwHCLWh26) | 4:47 |
 | 85 | [Camino al Barrio \- Remastered 2026](https://open.spotify.com/track/2x2ZB7JPPc7zvGKrvmqZUd) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [El Baquiné de Angelitos Negros \(Remastered 2026\)](https://open.spotify.com/album/61KpECMgFWUqWOTZdLedDd) | 3:32 |
-| 86 | [Amor Traicionero](https://open.spotify.com/track/236m1GMOYO0k7WhbZ5Jdyq) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Edición Limitada](https://open.spotify.com/album/7JyQeX40JXO24zFZrdSWpl) | 4:46 |
-| 87 | [Enamórate Bailando](https://open.spotify.com/track/02zyl88XvRAQdwbzLQui8y) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Enamórate Bailando](https://open.spotify.com/album/2uZqdPaPuXHLngIvPGprkV) | 4:27 |
+| 86 | [Enamórate Bailando](https://open.spotify.com/track/02zyl88XvRAQdwbzLQui8y) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Enamórate Bailando](https://open.spotify.com/album/2uZqdPaPuXHLngIvPGprkV) | 4:27 |
+| 87 | [Amor Traicionero](https://open.spotify.com/track/236m1GMOYO0k7WhbZ5Jdyq) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Edición Limitada](https://open.spotify.com/album/7JyQeX40JXO24zFZrdSWpl) | 4:46 |
 | 88 | [Lagrimas](https://open.spotify.com/track/1xygRDEU3ZI63I3gISgAVn) | [Los Bravos de Panama](https://open.spotify.com/artist/6Lbj575WtaBDArzLuB3Vog) | [Salsa Dura, Vol\. 5](https://open.spotify.com/album/1uRY3jqUxtHVxvNdxD6dlR) | 6:35 |
 | 89 | [Comerte a Besos \- Salsa Version](https://open.spotify.com/track/5CTj6t8M4n8ft81jN8o1S7) | [Frankie Negrón](https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16), [Mario de Jesús](https://open.spotify.com/artist/6XjFh7IQknY7HAncX72nCU), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Por Tu Placer](https://open.spotify.com/album/7tapGmPdbl2LJ3Spdk6m5f) | 4:29 |
 | 90 | [Vacilando Rico Con Zaperoko](https://open.spotify.com/track/3ZbDXbJIUCVCJz8APyIUYE) | [ZAPEROKO La Resistencia Salsera del Callao](https://open.spotify.com/artist/2Wict4UYAJ0d0Lj6yasKif) | [Vacilando Rico Con Zaperoko](https://open.spotify.com/album/3jwWgq2Ajd7BuMMiEUqGm9) | 14:09 |
 
-Snapshot ID: `AAAAAPO0VMOfU852iisbIrfXAzcALXoX`
+Snapshot ID: `AAAAAGJokU2psqXVNMQZbA4v7PEsg5Fj`

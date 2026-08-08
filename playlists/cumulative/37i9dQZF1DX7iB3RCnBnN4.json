@@ -13289,6 +13289,24 @@
     },
     {
       "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467586,
+      "name": "Let It Happen",
+      "url": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed"
+    },
+    {
+      "album": {
         "name": "A Winter Romance",
         "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
       },

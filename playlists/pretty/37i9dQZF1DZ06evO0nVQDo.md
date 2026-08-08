@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nVQDo.md) - [plain]
 
 > This is Celia Hollander\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45 likes - 28 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 45 likes - 29 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,19 +22,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nVQDo.md) - [plain]
 | 12 | [Dense Dusk](https://open.spotify.com/track/2gwAB3X1wUtn3qPfP5hGeN) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA), [Evan Shornstein](https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv) | [Unexpected Music II](https://open.spotify.com/album/39OUhtfrInkdjDWezSaH1b) | 7:18 |
 | 13 | [Messenger](https://open.spotify.com/track/1Bxq46gZWqxJLTYgX8Smyy) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [2nd Draft](https://open.spotify.com/album/4mv6oCtJD78x7RGXcoMlTT) | 1:50 |
 | 14 | [4:36 PM](https://open.spotify.com/track/6BcXA332jXYmK0xC1SGk7E) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo) | 2:58 |
-| 15 | [Water / Fire](https://open.spotify.com/track/0z1HLe2IOp8rGwfeQgkIKy) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Perfect Conditions](https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX) | 1:54 |
+| 15 | [Air / Air](https://open.spotify.com/track/1rmAETkfG9OThL9kPKU6yU) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Perfect Conditions](https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX) | 1:20 |
 | 16 | [Shadow Spots](https://open.spotify.com/track/79WiybZ6Ul4FaSBx1Q0sah) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA), [Evan Shornstein](https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv) | [Unexpected Music II](https://open.spotify.com/album/39OUhtfrInkdjDWezSaH1b) | 4:36 |
 | 17 | [Receiver](https://open.spotify.com/track/631lOOn4M2iU8MhVM6zChC) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [2nd Draft](https://open.spotify.com/album/4mv6oCtJD78x7RGXcoMlTT) | 0:33 |
 | 18 | [6:58 PM](https://open.spotify.com/track/1DtTh0W0xqJuZSS3RsuIAS) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo) | 2:32 |
-| 19 | [Air / Air](https://open.spotify.com/track/1rmAETkfG9OThL9kPKU6yU) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Perfect Conditions](https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX) | 1:20 |
+| 19 | [Water / Water](https://open.spotify.com/track/3cZZ4DUMZ8VKuGxWPtgGH7) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Perfect Conditions](https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX) | 2:52 |
 | 20 | [Will O Wisp](https://open.spotify.com/track/6Nk16b0mopM3PzzCRmBnRN) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA), [Evan Shornstein](https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv) | [Unexpected Music II](https://open.spotify.com/album/39OUhtfrInkdjDWezSaH1b) | 5:27 |
-| 21 | [First Sustain](https://open.spotify.com/track/5QN78sb8FUoWJffvxiuOKE) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [2nd Draft](https://open.spotify.com/album/4mv6oCtJD78x7RGXcoMlTT) | 0:31 |
+| 21 | [2nd Wind](https://open.spotify.com/track/12ywSB3U66OMMHE23p57uK) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [2nd Draft](https://open.spotify.com/album/4mv6oCtJD78x7RGXcoMlTT) | 5:44 |
 | 22 | [1:17 PM](https://open.spotify.com/track/7gKej7VfNxa70InVtO8fn3) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo) | 3:29 |
-| 23 | [Air / Earth](https://open.spotify.com/track/1gQXtJnmO1w3LCpBATX6RU) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Perfect Conditions](https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX) | 4:12 |
+| 23 | [Water / Fire](https://open.spotify.com/track/0z1HLe2IOp8rGwfeQgkIKy) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Perfect Conditions](https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX) | 1:54 |
 | 24 | [Friendly Glow](https://open.spotify.com/track/1m7rLMGoH3EIHQhzgAgRFb) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA), [Evan Shornstein](https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv) | [Unexpected Music II](https://open.spotify.com/album/39OUhtfrInkdjDWezSaH1b) | 5:08 |
 | 25 | [Spared Time](https://open.spotify.com/track/2emWJLAHzIhDKZ8BlfM1fq) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Recent Futures](https://open.spotify.com/album/2IbeTTdPfRgsuW15b8DT9q) | 5:44 |
-| 26 | [Water / Water](https://open.spotify.com/track/3cZZ4DUMZ8VKuGxWPtgGH7) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Perfect Conditions](https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX) | 2:52 |
+| 26 | [Air / Earth](https://open.spotify.com/track/1gQXtJnmO1w3LCpBATX6RU) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Perfect Conditions](https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX) | 4:12 |
 | 27 | [You Have 3 New Telepathic Messages](https://open.spotify.com/track/3FMu8kzYmpw7pw84FcJY7y) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Recent Futures](https://open.spotify.com/album/2IbeTTdPfRgsuW15b8DT9q) | 1:06 |
 | 28 | [Big Talk](https://open.spotify.com/track/7xDE5QUC8CnVYLY6WMuSV7) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Recent Futures](https://open.spotify.com/album/2IbeTTdPfRgsuW15b8DT9q) | 11:44 |
+| 29 | [Vacant & Encouraging My Trophy Houseplant](https://open.spotify.com/track/2ofVGkLXke0899o5TmbWUk) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Recent Futures](https://open.spotify.com/album/2IbeTTdPfRgsuW15b8DT9q) | 3:49 |
 
-Snapshot ID: `anJ9AAAAAACiOeBS+5USfC4eGlq+a0BL`
+Snapshot ID: `anPOgAAAAAAXQ2KzMQlTKvDTUVofZH5/`

@@ -2,7 +2,7 @@
 
 ### [Nouvelle École](https://open.spotify.com/playlist/37i9dQZF1DX9dN9aE5QRR4)
 
-> La playlist officielle de Nouvelle École\. Saison 4, dispo sur Netflix.
+> La playlist officielle de Nouvelle École\. Saison 5, bientôt dispo sur Netflix !
 
 160 songs - 7 hr 28 min
 

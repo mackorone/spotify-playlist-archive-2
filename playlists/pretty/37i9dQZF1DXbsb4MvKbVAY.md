@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 
 > Mielenkiintoisimmat biisit ensisoitossa\. Kannessa Charli xcx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,684 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,686 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 33 | [First Light](https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [First Light](https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4) | 3:24 |
 | 34 | [Mannerheim](https://open.spotify.com/track/1XroWO4bK8wj5mYgvc9Dvo) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Mansion Music](https://open.spotify.com/album/3OHRVdYcu2pavk5YNz73py) | 2:48 |
 | 35 | [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Cerulean](https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ) | 3:52 |
-| 36 | [Hold Me In The Dark](https://open.spotify.com/track/23HNkYEt6W2Y3a0H8Jze3R) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Hold Me In The Dark](https://open.spotify.com/album/3EKZQWSkednDNMvpXFv0mg) | 3:17 |
-| 37 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 |
+| 36 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 |
+| 37 | [Hold Me In The Dark](https://open.spotify.com/track/23HNkYEt6W2Y3a0H8Jze3R) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Hold Me In The Dark](https://open.spotify.com/album/3EKZQWSkednDNMvpXFv0mg) | 3:17 |
 | 38 | [Sydän on rikki](https://open.spotify.com/track/4ekyr5DV8ZUBQjA25ux0co) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Sydän on rikki](https://open.spotify.com/album/5jcfKaqf0aEMasIpDoxpp2) | 3:01 |
 | 39 | [Palamaan](https://open.spotify.com/track/5oOeg8tJgIl4y2YFCj4tId) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Mansion Music](https://open.spotify.com/album/3OHRVdYcu2pavk5YNz73py) | 3:25 |
 | 40 | [Sisko ja sen veli](https://open.spotify.com/track/4QK7HRDhvO5ujhMhWG2wuD) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Sisko ja sen veli](https://open.spotify.com/album/1ZsxL73Hpo3JpiS4GqkqKg) | 3:08 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 95 | [Kamikaze](https://open.spotify.com/track/7yf2KZIKYUB9XABxpk3IcF) | [Molly Mae](https://open.spotify.com/artist/1id88vQlxSueQIddQeiKTl) | [Kamikaze](https://open.spotify.com/album/1cuRIt0mlB7vaUrYcBIpSj) | 2:02 |
 | 96 | [Come Back](https://open.spotify.com/track/0ELSvcZ3EKntkBHqARS0Vw) | [Killer](https://open.spotify.com/artist/2Ce4WjRfZtYR4Z8Z6fDkOQ) | [Come Back](https://open.spotify.com/album/7lol51cvjCqEr587nLcY6t) | 2:50 |
 | 97 | [Kangastus](https://open.spotify.com/track/3MEeDEiuTUOIeY8euj6Mwf) | [Otto](https://open.spotify.com/artist/3A8s2MMhh7HmdromfKDCBp) | [Kangastus](https://open.spotify.com/album/4tqjrdVVDFkNy0nF2cL9Mg) | 2:29 |
-| 98 | [Voitonpäivä](https://open.spotify.com/track/3gnmP08f5NywnLks1Myb1A) | [Purplape](https://open.spotify.com/artist/1f0beje3cU2AASjPmpGE7V) | [Voitonpäivä](https://open.spotify.com/album/5fT88RUsc4oSMtBSsecAaE) | 2:26 |
-| 99 | [I Wasn't Young, I Needed the Money](https://open.spotify.com/track/21CwcCRnNYHrSUNXvMwS9Y) | [Sin Cos Tan](https://open.spotify.com/artist/3maaZRO6VRwTf6oUik93ZJ) | [I Wasn't Young, I Needed the Money](https://open.spotify.com/album/5pS46ohbb8JBGY0FhqIkmi) | 3:27 |
+| 98 | [I Wasn't Young, I Needed the Money](https://open.spotify.com/track/21CwcCRnNYHrSUNXvMwS9Y) | [Sin Cos Tan](https://open.spotify.com/artist/3maaZRO6VRwTf6oUik93ZJ) | [I Wasn't Young, I Needed the Money](https://open.spotify.com/album/5pS46ohbb8JBGY0FhqIkmi) | 3:27 |
+| 99 | [Voitonpäivä](https://open.spotify.com/track/3gnmP08f5NywnLks1Myb1A) | [Purplape](https://open.spotify.com/artist/1f0beje3cU2AASjPmpGE7V) | [Voitonpäivä](https://open.spotify.com/album/5fT88RUsc4oSMtBSsecAaE) | 2:26 |
 | 100 | [Terveisii kotii](https://open.spotify.com/track/3lGmAr9GzYz09D0ObCbJcH) | [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Papin tytär](https://open.spotify.com/album/4BGEa2u0jTKeIc3chGvl9X) | 3:17 |
 
-Snapshot ID: `AAAAAFNmGFOs9vDj/TU14RT+VYovmhtJ`
+Snapshot ID: `AAAAAKe7NW3a7RX4/AvYzR0dlAHjIJS1`

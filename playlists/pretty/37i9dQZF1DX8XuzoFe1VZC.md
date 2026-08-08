@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XuzoFe1VZC.md) - [plain]
 
 > Una inyección de alegría para tus mañanas 🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,790 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,796 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XuzoFe1VZC.md) - [plain]
 | 39 | [lo que hay x aquí](https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [lo que hay x aquí](https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm) | 2:35 |
 | 40 | [Hey Mor](https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:16 |
 | 41 | [mi refe](https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [mi refe](https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM) | 2:39 |
-| 42 | [Myke Towers: Bzrp Music Sessions, Vol\. 42/66](https://open.spotify.com/track/6ixCgwWOAN6C07ozzRm9pj) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Myke Towers: Bzrp Music Sessions, Vol\. 42/66](https://open.spotify.com/album/2Ke2hlEudtDT0KDaNIZY9Z) | 3:09 |
+| 42 | [amoureux](https://open.spotify.com/track/172YRaBrecw8yp15qJhnzd) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [amoureux](https://open.spotify.com/album/5T9DEFeLiWDNvlY9saIoVh) | 2:13 |
 | 43 | [Aquel diciembre](https://open.spotify.com/track/6A2VAtuRu5p5LymL4RSCBG) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Do Not Disturb: Late Checkout](https://open.spotify.com/album/2h5VwiZ1SsUrPd04Zfd1jO) | 3:22 |
-| 44 | [amoureux](https://open.spotify.com/track/172YRaBrecw8yp15qJhnzd) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p) | [amoureux](https://open.spotify.com/album/5T9DEFeLiWDNvlY9saIoVh) | 2:13 |
+| 44 | [Myke Towers: Bzrp Music Sessions, Vol\. 42/66](https://open.spotify.com/track/6ixCgwWOAN6C07ozzRm9pj) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Myke Towers: Bzrp Music Sessions, Vol\. 42/66](https://open.spotify.com/album/2Ke2hlEudtDT0KDaNIZY9Z) | 3:09 |
 | 45 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 |
 | 46 | [Cosas Pendientes](https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cosas Pendientes](https://open.spotify.com/album/0MW80IhxQCfhIiIqBwWvov) | 3:04 |
 | 47 | [Te hacen falta dos](https://open.spotify.com/track/3Oohz3N32glZTOz0nuxGMD) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Apambichao](https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XuzoFe1VZC.md) - [plain]
 | 99 | [PROVENZA \- Sistek Remix](https://open.spotify.com/track/2SYfJeselsgIJ1yK0NgCto) | [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA \(Sistek Remix\)](https://open.spotify.com/album/2pbds46rDlZp6BjwcOi7vl) | 3:48 |
 | 100 | [MEJOR QUE VOS](https://open.spotify.com/track/2flrBZ6lxgk68ghaWBAfnt) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [MEJOR QUE VOS](https://open.spotify.com/album/5fvyO2WV94GZhB7NfTLNW2) | 2:46 |
 
-Snapshot ID: `AAAAAJGt9i/ddUBoTs7tbavK+bLXQAbd`
+Snapshot ID: `AAAAAMx8pLLduMsLznbM7m0is1hu7SoY`

@@ -1597,6 +1597,24 @@
     },
     {
       "album": {
+        "name": "brand new chanel$",
+        "url": "https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238505,
+      "name": "brand new chanel$",
+      "url": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2"
+    },
+    {
+      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },

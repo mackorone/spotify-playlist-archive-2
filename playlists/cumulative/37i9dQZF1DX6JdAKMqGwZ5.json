@@ -15921,6 +15921,24 @@
     },
     {
       "album": {
+        "name": "triste",
+        "url": "https://open.spotify.com/album/1wh8LOaXsBAJ53rJrprljr"
+      },
+      "artists": [
+        {
+          "name": "Hugo Serrano",
+          "url": "https://open.spotify.com/artist/2CdZKr2ePuktdkB8BZwrWj"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133591,
+      "name": "triste",
+      "url": "https://open.spotify.com/track/1VIj71VpDty5a0LmQJ3gU9"
+    },
+    {
+      "album": {
         "name": "Tr\u00e1mite",
         "url": "https://open.spotify.com/album/6as7JjgjSDm2R44zkMYsOR"
       },

@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "Jard\u00edn Del Amor",
+        "url": "https://open.spotify.com/album/2iZQVldZBZhB7uz4XVtl8M"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214040,
+      "name": "Dios No Lo Quiera",
+      "url": "https://open.spotify.com/track/4AS7TdXyndLscNSLybJuA9"
+    },
+    {
+      "album": {
         "name": "Es Demasiado Tarde",
         "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
       },
@@ -564,7 +582,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 168885,
       "name": "El Pr\u00f3fugo De Tijuana",
       "url": "https://open.spotify.com/track/5Yn20NlbZW7DLppF7y8Vwa"

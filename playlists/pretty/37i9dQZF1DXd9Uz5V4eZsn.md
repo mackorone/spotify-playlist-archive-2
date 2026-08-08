@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9Uz5V4eZsn.md) - [plain]
 
 > Ambient Indian sounds for your daily Yoga practise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,371 likes - 60 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,374 likes - 60 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9Uz5V4eZsn.md) - [plain]
 | 59 | [OM CHANTS](https://open.spotify.com/track/4M0HVS8WwKyPlEgLUJZ8wU) | [Rajkumar Bharathi](https://open.spotify.com/artist/7qmDhVWCrIHIvIAo7b7KTa) | [DIVINE CHANTS](https://open.spotify.com/album/5BYvQ5dsJXnSBpTnoGldOf) | 5:10 |
 | 60 | [Earth in Space](https://open.spotify.com/track/3d4lrPfdFxvtONXc0fbRec) | [Raajeev V Bhalla](https://open.spotify.com/artist/3M3uBX6WMgpjbX3Z8mPMax) | [Healing \(Vol 1\)](https://open.spotify.com/album/49vsK5SdsNgFzg73orXx7Z) | 10:17 |
 
-Snapshot ID: `AAAAAJMP1W9hsHlRuw71lsqOompQhla1`
+Snapshot ID: `AAAAAH9l9LC8aDog30eSFJ0DZ4akuEKk`

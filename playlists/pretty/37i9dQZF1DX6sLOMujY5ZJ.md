@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLOMujY5ZJ.md) - [plain]
 | 29 | [I Knew I'll Make It](https://open.spotify.com/track/70kGwtQF9g3JI8HcYRAey5) | [Bankroll Fresh](https://open.spotify.com/artist/7FBDXY8U17aasVTH3rgxbS) | [Life of a Hot Boy](https://open.spotify.com/album/4qrG8JSxpDIrJbCYIdaDPm) | 2:15 |
 | 30 | [Jasmine Tea!](https://open.spotify.com/track/2WlOzS0iQ0RndtuXUGJJlY) | [Bear1Boss](https://open.spotify.com/artist/6Cd6nNgWZWZrlfrc4q0qJD) | [BEAR1BOSS](https://open.spotify.com/album/3mxZb5vAZYgtT82nmVTVDu) | 2:30 |
 
-Snapshot ID: `AAAAAC8rpdyzkXlnyPovSEUnVd2sxPPh`
+Snapshot ID: `AAAAAPHqeNS7Rw6Dmra6bkuvei2vXgH1`

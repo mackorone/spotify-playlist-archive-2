@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 
 > La BO officielle de l'été 2026 🌞 Photo : Shakira x Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,012 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,466 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 | 49 | [Sé Miimii](https://open.spotify.com/track/46BNhNbHZi98svu6pFwYVq) | [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd), [DJ SKYCEE](https://open.spotify.com/artist/2LhAINHQMEMY2qL0AyNHmv) | [Sé Miimii](https://open.spotify.com/album/6POEgRFXk9dDYxWvQW8To4) | 2:01 |
 | 50 | [Dis\-le](https://open.spotify.com/track/58H3IsZi2NemGRCttisETY) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Dis\-le](https://open.spotify.com/album/27cdPx9msMd1V64HzU4DyF) | 4:07 |
 
-Snapshot ID: `AAAAAL8kLOSv3/TCsLCABit5voZ5sFJo`
+Snapshot ID: `AAAAAKPiAV5AmQfserGDzEbllHuCko1M`

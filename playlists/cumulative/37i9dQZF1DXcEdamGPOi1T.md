@@ -4,7 +4,7 @@
 
 > De la vitamine D en musique!
 
-545 songs - 1 day 4 hr 48 min
+546 songs - 1 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,7 @@
 | [Lost](https://open.spotify.com/track/5YLcn3phEgL6CPwZszT9Uu) | [Jonathan Roy](https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K) | [Lost](https://open.spotify.com/album/6IS8A4ifndtdmwvCY5r2rp) | 3:08 | 2022-05-27 | 2022-06-18 |
 | [LOST IN YOU \(feat\. Sun\)](https://open.spotify.com/track/2RPI6fPjqaSPIFllpVzmok) | [KEVIN DAVE](https://open.spotify.com/artist/16Qu3P3jA0IIlZoKvY51q4), [Sun](https://open.spotify.com/artist/37AvA9c8rndxYbojqst9At) | [LOST IN YOU \(feat\. Sun\)](https://open.spotify.com/album/2lTLB7ycN5uURBbRqf2pJs) | 3:15 | 2023-08-25 | 2023-09-09 |
 | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 | 2023-04-21 | 2023-06-18 |
-| [Louxor j'adore](https://open.spotify.com/track/60udb73Xe8KJ7IzBhn3ptV) | [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [Robots Après Tout](https://open.spotify.com/album/7hyeGnH5VdIBbfJ62zuKn9) | 3:02 | 2026-07-17 |  |
+| [Louxor j'adore](https://open.spotify.com/track/60udb73Xe8KJ7IzBhn3ptV) | [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [Robots Après Tout](https://open.spotify.com/album/7hyeGnH5VdIBbfJ62zuKn9) | 3:02 | 2026-07-17 | 2026-08-08 |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-06-04 |  |
 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 | 2022-05-27 | 2024-03-30 |
 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 | 2025-06-04 |  |
@@ -553,5 +553,6 @@
 | [Écoute Chérie](https://open.spotify.com/track/1zyUz3eZ3sytdaR9lfW17q) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 3:44 | 2026-07-17 |  |
 | [Étrange Mélange](https://open.spotify.com/track/6SDvUvw56XxqtKGDT232io) | [Claire Laffut](https://open.spotify.com/artist/69zVBf7wk5vKWsTF7zE5CC) | [Étrange Mélange](https://open.spotify.com/album/4S8j0Eh34tHtWLBOtvvevk) | 3:00 | 2022-05-27 | 2022-06-08 |
 | [Été avec toi](https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Été avec toi](https://open.spotify.com/album/5ExuPCbhP2IlrBgvdZvTLu) | 3:07 | 2026-05-29 |  |
+| [Été à Montréal](https://open.spotify.com/track/3fG437ZqIWMFgPZjysVdxe) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Été à Montréal](https://open.spotify.com/album/65XouOCdpWdWj78nnB4BV4) | 5:27 | 2026-08-07 |  |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

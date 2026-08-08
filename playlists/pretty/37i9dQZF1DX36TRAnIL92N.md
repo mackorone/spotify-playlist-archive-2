@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,300 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,447 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 20 | [Hooked on the Bassline](https://open.spotify.com/track/1XsCQKhLGFP714xLKHeLvZ) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Hooked on the Bassline](https://open.spotify.com/album/1hZM8Y4iNpgyjGICUkuTrv) | 3:17 |
 | 21 | [Holy Place](https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Holy Place](https://open.spotify.com/album/21ri3TvMHbRdPNmVE8gF8l) | 3:13 |
 | 22 | [Voices In My Head \- Amelie Lens Remix](https://open.spotify.com/track/13O1dd0pQzohHTKVBzCo54) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Voices In My Head \(Amelie Lens Remix\)](https://open.spotify.com/album/0Vuh5UNwqz3ObGMGhCiQr9) | 3:12 |
-| 23 | [No Mercy](https://open.spotify.com/track/4SHAlw3C9Y1Mfqwq0thxpw) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [No Mercy](https://open.spotify.com/album/5CQcbHQNwH9lQdLtebmmlu) | 2:35 |
-| 24 | [Falling For You](https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Falling For You](https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS) | 3:55 |
+| 23 | [Falling For You](https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Falling For You](https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS) | 3:55 |
+| 24 | [No Mercy](https://open.spotify.com/track/4SHAlw3C9Y1Mfqwq0thxpw) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [No Mercy](https://open.spotify.com/album/5CQcbHQNwH9lQdLtebmmlu) | 2:35 |
 | 25 | [ACID](https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [ACID](https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6) | 3:01 |
 | 26 | [Diamond Heart](https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Diamond Heart](https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W) | 2:32 |
 | 27 | [GIRLBOSS](https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [GIRLBOSS](https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v) | 3:13 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 29 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 |
 | 30 | [One Mind](https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [One Mind EP](https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm) | 5:45 |
 | 31 | [SCANDAL ANTHEM](https://open.spotify.com/track/08DchrgnFXBD6H142l4tvY) | [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy), [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN) | [SCANDAL ANTHEM](https://open.spotify.com/album/1KGIRYw9xdet38N9JKZp7l) | 4:04 |
-| 32 | [Heaven](https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Heaven](https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9) | 3:58 |
-| 33 | [4am In A Rave \(feat\. rhys from the sticks\)](https://open.spotify.com/track/5Q7g7bfuumI3oF9GaVtxWP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [4am In A Rave / Speed Is A Deed](https://open.spotify.com/album/7ngZxqJrBFRp5ijYA68orJ) | 2:27 |
+| 32 | [4am In A Rave \(feat\. rhys from the sticks\)](https://open.spotify.com/track/5Q7g7bfuumI3oF9GaVtxWP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [4am In A Rave / Speed Is A Deed](https://open.spotify.com/album/7ngZxqJrBFRp5ijYA68orJ) | 2:27 |
+| 33 | [Heaven](https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Heaven](https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9) | 3:58 |
 | 34 | [Bombacid](https://open.spotify.com/track/1DdByft8QSr5sf8ZhdxcXE) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Roberto Molinaro](https://open.spotify.com/artist/0mAQ0glGOQwK489YCodem9) | [Bombacid](https://open.spotify.com/album/2wuhp5q5agJgqllJdBpJdN) | 3:24 |
 | 35 | [Rave Harder Techno Bass](https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Rave Harder Techno Bass](https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe) | 6:00 |
 | 36 | [Testo Skin Part 1](https://open.spotify.com/track/2rAx3OdiLOWWlm95HqN3Wq) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Harmony](https://open.spotify.com/album/51EmZvgBe2KU6858cvotYi) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 49 | [Wavey](https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Wavey](https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB) | 2:23 |
 | 50 | [Returning Home](https://open.spotify.com/track/2J1RmBn30CRojpdfLpxnkF) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Returning Home](https://open.spotify.com/album/2M1pgphGdOG3Mu39g5nxZI) | 3:34 |
 
-Snapshot ID: `AAAAAIYMZcWcEo93197zJOw+K50PIyzc`
+Snapshot ID: `AAAAAOMm6XL3h1MTsIBiVmZ0HXvF+7eC`

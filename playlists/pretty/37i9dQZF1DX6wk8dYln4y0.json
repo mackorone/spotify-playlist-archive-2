@@ -1,12 +1,12 @@
 {
   "description": "pop that *hits different* featuring daine",
-  "num_followers": 630022,
+  "num_followers": 629961,
   "original_name": "*hits different*",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACoKMUt7HVH+oMa0pLCCF0uY9Azu",
+  "snapshot_id": "AAAAALEZgpjae4hbU0EzeC4JgAz0MnHo",
   "tracks": [
     {
       "added_at": "2026-07-30 14:00:28",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-07-30 14:00:28",
       "album": {
-        "name": "Piss In The Wind",
-        "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 128986,
-      "name": "Hotel California",
-      "url": "https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs"
-    },
-    {
-      "added_at": "2026-07-30 14:00:28",
-      "album": {
         "name": "Who's the Clown?",
         "url": "https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 185533,
       "name": "Thirst Trap",
       "url": "https://open.spotify.com/track/0xiySkh9JAa1f3r6MdBUa3"
+    },
+    {
+      "added_at": "2026-07-30 14:00:28",
+      "album": {
+        "name": "Piss In The Wind",
+        "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 128986,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs"
     },
     {
       "added_at": "2026-07-30 14:00:28",
@@ -1067,6 +1067,22 @@
       "duration_ms": 159324,
       "name": "Bad Apple",
       "url": "https://open.spotify.com/track/0nyD5KLTR52cRcPKeewrvA"
+    },
+    {
+      "added_at": "2026-07-30 14:00:28",
+      "album": {
+        "name": "Twiggy",
+        "url": "https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 209258,
+      "name": "Twiggy",
+      "url": "https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G"
     },
     {
       "added_at": "2026-07-30 14:00:28",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2026-07-30 14:00:28",
       "album": {
-        "name": "Twiggy",
-        "url": "https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 209258,
-      "name": "Twiggy",
-      "url": "https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G"
-    },
-    {
-      "added_at": "2026-07-30 14:00:28",
-      "album": {
         "name": "HALO",
         "url": "https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO"
       },
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2026-07-30 14:00:28",
       "album": {
+        "name": "Joven y Salvaje (with Bb trickz)",
+        "url": "https://open.spotify.com/album/7FfZfslQwa0TUrQkRFqeKk"
+      },
+      "artists": [
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        }
+      ],
+      "duration_ms": 122703,
+      "name": "Joven y Salvaje (with Bb trickz)",
+      "url": "https://open.spotify.com/track/2NyVUkfya4KZDw5qd4qWeZ"
+    },
+    {
+      "added_at": "2026-07-30 14:00:28",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7"
       },
@@ -1231,26 +1251,6 @@
       "duration_ms": 205720,
       "name": "When I Get Drunk (I Want You Boy)",
       "url": "https://open.spotify.com/track/69AtEHHdDYKRgWlO0vwjUY"
-    },
-    {
-      "added_at": "2026-07-30 14:00:28",
-      "album": {
-        "name": "Joven y Salvaje (with Bb trickz)",
-        "url": "https://open.spotify.com/album/7FfZfslQwa0TUrQkRFqeKk"
-      },
-      "artists": [
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "Bb trickz",
-          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
-        }
-      ],
-      "duration_ms": 122703,
-      "name": "Joven y Salvaje (with Bb trickz)",
-      "url": "https://open.spotify.com/track/2NyVUkfya4KZDw5qd4qWeZ"
     },
     {
       "added_at": "2026-07-30 14:00:28",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-07-30 14:00:28",
       "album": {
+        "name": "HALO",
+        "url": "https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "duration_ms": 224661,
+      "name": "SAME LA",
+      "url": "https://open.spotify.com/track/5PYrRnaRsCOOE0c65L4y2M"
+    },
+    {
+      "added_at": "2026-07-30 14:00:28",
+      "album": {
         "name": "How I Get",
         "url": "https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 219866,
       "name": "How I Get",
       "url": "https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi"
-    },
-    {
-      "added_at": "2026-07-30 14:00:28",
-      "album": {
-        "name": "Wishbone",
-        "url": "https://open.spotify.com/album/1Q0kTJx8DrQd8RJW9L7eIN"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 234228,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/7H5jHyfHk4sAYoS8J8f112"
     }
   ],
   "unique_name": "*hits different*",

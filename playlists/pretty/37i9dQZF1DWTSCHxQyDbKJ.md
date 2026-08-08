@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 
 > Necessities from LGBTQIA+ artists\. Cover: Jodie Harsh
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,028 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,032 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,15 +61,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 51 | [Friends In Low Places](https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Friends In Low Places](https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP) | 3:03 |
 | 52 | [Late To The Party](https://open.spotify.com/track/2zDfRGw37HXKFlJHZ7Oqy0) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Late To The Party](https://open.spotify.com/album/08YMpMJXbaxpIEqM946JoY) | 3:35 |
 | 53 | [Hot and Stupid](https://open.spotify.com/track/0B9yMae4fLWvjDQGFKon40) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [Hot and Stupid](https://open.spotify.com/album/3RmYXWeVscd3fLgjS0c7tW) | 2:23 |
-| 54 | [Boy Clothes](https://open.spotify.com/track/7nuCxvFvVT5YEAjSDd6Glr) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Boy Clothes](https://open.spotify.com/album/6WGqWtYCHsA1St6RupTo4F) | 2:14 |
-| 55 | [Glasgow](https://open.spotify.com/track/6bu97rYhlHjuEAq3KbmtR9) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Glasgow](https://open.spotify.com/album/5luIDZpDnPFdiTpMLLhRYK) | 3:34 |
-| 56 | [Statue In The Square](https://open.spotify.com/track/6QF34NPhm7aNhhgf5HtNLE) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Statue In The Square](https://open.spotify.com/album/6h6UEEPRimAPINCMxsJ5Pw) | 2:54 |
+| 54 | [Glasgow](https://open.spotify.com/track/6bu97rYhlHjuEAq3KbmtR9) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Glasgow](https://open.spotify.com/album/5luIDZpDnPFdiTpMLLhRYK) | 3:34 |
+| 55 | [Statue In The Square](https://open.spotify.com/track/6QF34NPhm7aNhhgf5HtNLE) | [Kae Tempest](https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw) | [Statue In The Square](https://open.spotify.com/album/6h6UEEPRimAPINCMxsJ5Pw) | 2:54 |
+| 56 | [Boy Clothes](https://open.spotify.com/track/7nuCxvFvVT5YEAjSDd6Glr) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Boy Clothes](https://open.spotify.com/album/6WGqWtYCHsA1St6RupTo4F) | 2:14 |
 | 57 | [Love Second Music First](https://open.spotify.com/track/6RbR55jkG3YoK1SeRT5mTN) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Love Second Music First](https://open.spotify.com/album/0eqsGq1tUB41BqmKLsouDe) | 4:05 |
 | 58 | [Thank Goodness](https://open.spotify.com/track/2mb9wKJz6WMD5Y0baavuIQ) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Thank Goodness](https://open.spotify.com/album/11jnSpOvbJLYh1MyJpU3NT) | 3:20 |
 | 59 | [Wahoo](https://open.spotify.com/track/4jIv2SOIG8cMTPu5qdmT6a) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Wahoo](https://open.spotify.com/album/1yodVXT8eKIzvq84OsKtoq) | 2:05 |
 | 60 | [Are You Ready Now?](https://open.spotify.com/track/4AxcUAv6Y87hSDLl4Lqq2s) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Heaven Can Wait](https://open.spotify.com/album/6dweyz4Y0Uyo3fVrz0vgsD) | 3:35 |
-| 61 | [Ever New \- Single Version](https://open.spotify.com/track/3TXjItvy5G7Td2OrhslAAY) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Red Hot Org](https://open.spotify.com/artist/7ydpneBAwLegNysaViOxHA) | [Ever New](https://open.spotify.com/album/2SOtQJ5vNtbbkQizTdqnEO) | 4:50 |
-| 62 | [Jupiter](https://open.spotify.com/track/3fDyWXe1JbCU6AgL7Z6soQ) | [Patrick Wolf](https://open.spotify.com/artist/6s92YZUPkTK1HL1WIGrPKE) | [Crying The Neck](https://open.spotify.com/album/3VOr1lxA6TQoijVvgIC1LL) | 5:17 |
+| 61 | [Jupiter](https://open.spotify.com/track/3fDyWXe1JbCU6AgL7Z6soQ) | [Patrick Wolf](https://open.spotify.com/artist/6s92YZUPkTK1HL1WIGrPKE) | [Crying The Neck](https://open.spotify.com/album/3VOr1lxA6TQoijVvgIC1LL) | 5:17 |
+| 62 | [Ever New \- Single Version](https://open.spotify.com/track/3TXjItvy5G7Td2OrhslAAY) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Red Hot Org](https://open.spotify.com/artist/7ydpneBAwLegNysaViOxHA) | [Ever New](https://open.spotify.com/album/2SOtQJ5vNtbbkQizTdqnEO) | 4:50 |
 | 63 | [Crying In The Carwash](https://open.spotify.com/track/6GiRACvCygC0xGbHxL8mz2) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Good Boy](https://open.spotify.com/album/5PXtIa4H7ymk17uflkzdKs) | 3:22 |
 | 64 | [ACT ALIVE](https://open.spotify.com/track/2z08ys8zu7XBd6WxM5QcC4) | [emily jeffri](https://open.spotify.com/artist/7j7NWasrRsalHoY7DgMLhK) | [ACT ALIVE](https://open.spotify.com/album/13ayQoD69KCSMRFSqo9u0a) | 4:12 |
 | 65 | [PROCESS](https://open.spotify.com/track/3x6lOFML8ac5n3YXx8SFD0) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [PROCESS](https://open.spotify.com/album/49gnJfMCTEctGmp4B6AeU5) | 2:38 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 87 | [Anyone I Want](https://open.spotify.com/track/1jf7Y78cYBAZKpmD25xJCm) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [Anyone I Want](https://open.spotify.com/album/50IJkSXxiseaTrNUQkp0eM) | 2:41 |
 | 88 | [An Angel](https://open.spotify.com/track/5XJ4yeRHNDMSwHLO47NTMP) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [Tom Rasmussen](https://open.spotify.com/artist/1FWk2wt5rW1viTKVsPd4Gf) | [An Angel / Girl Reborn](https://open.spotify.com/album/3v61eqpd90ZMP5iJy7w75i) | 3:56 |
 | 89 | [BETTER](https://open.spotify.com/track/68FZuay5wpGLYyIqcBanXa) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [BETTER](https://open.spotify.com/album/3gdyYWWdBC7gTW0fdghVfy) | 3:25 |
-| 90 | [I Wantchu](https://open.spotify.com/track/3N8xI9VR294kF43yVt1ANn) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [I Wantchu](https://open.spotify.com/album/0iMPteFFgQ5vdyayRjpIE6) | 2:50 |
-| 91 | [heaven/jealous](https://open.spotify.com/track/1esTX6gDLMuTfsCYp0AcjN) | [Orchid](https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV) | [heaven/jealous](https://open.spotify.com/album/3A3Kt4qO9NQL6gYuizHZdr) | 2:56 |
+| 90 | [heaven/jealous](https://open.spotify.com/track/1esTX6gDLMuTfsCYp0AcjN) | [Orchid](https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV) | [heaven/jealous](https://open.spotify.com/album/3A3Kt4qO9NQL6gYuizHZdr) | 2:56 |
+| 91 | [I Wantchu](https://open.spotify.com/track/3N8xI9VR294kF43yVt1ANn) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [I Wantchu](https://open.spotify.com/album/0iMPteFFgQ5vdyayRjpIE6) | 2:50 |
 | 92 | [Hearts Ain’t Gonna Lie 2024](https://open.spotify.com/track/3nvPRRE12tv4AL180tALJj) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Hearts Ain’t Gonna Lie 2024](https://open.spotify.com/album/64c5ZxsjekifKiHGAhKhVW) | 3:15 |
 | 93 | [Exhilarate \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/4JNOcgdDYesDZXCJgErW8N) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Exhilarate \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/5hjzYMk2CESQYfZo4a7fGL) | 4:23 |
 | 94 | [Going To My Head](https://open.spotify.com/track/5VT6K1GoBmMLkySKljNcZx) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Cabin Fever](https://open.spotify.com/album/724Umpj2VEH5ZAACzQMEAc) | 4:04 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 96 | [grit](https://open.spotify.com/track/3iXoBLx65Bpwyf4iyGvZk1) | [su i think](https://open.spotify.com/artist/0naoKcKsqj169ZzvaW4OR1), [s.g.cackle](https://open.spotify.com/artist/33sxw11HypPoCgM7wUaB3z) | [grit](https://open.spotify.com/album/5ubmNyomB7Z2H3BopcWbNr) | 2:13 |
 | 97 | [Cowboys!](https://open.spotify.com/track/3fa6yQ4cPzbGZ1iGdsLGps) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [Cowboys!](https://open.spotify.com/album/4E0ESe1xWk3PxnIjKWuyBS) | 2:54 |
 | 98 | [Isn't he pretty](https://open.spotify.com/track/2P3CDEQ033ZBdFFhRyB3Jj) | [Aidan Jones](https://open.spotify.com/artist/2A68p8T4eDrXJyKZ2LyhfK) | [Isn't he pretty](https://open.spotify.com/album/4qOvuUumGNpB3CYasKlXPF) | 2:55 |
-| 99 | [DONT MAKE THIS WEIRD](https://open.spotify.com/track/1ehrv4HqEm5kqAGDcwSCzS) | [DONT MAKE THIS WEIRD](https://open.spotify.com/artist/66tkgyJ2o4lzRX8G2zlN1p) | [DONT MAKE THIS WEIRD](https://open.spotify.com/album/4H0jM5yZsfEpdd9RBqUBbs) | 2:50 |
-| 100 | [go!](https://open.spotify.com/track/7CkimUHw3vqjfJmxXcq2ka) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [go!](https://open.spotify.com/album/1Jg6CxHmAxmkf4CE8b8x17) | 3:31 |
+| 99 | [go!](https://open.spotify.com/track/7CkimUHw3vqjfJmxXcq2ka) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [go!](https://open.spotify.com/album/1Jg6CxHmAxmkf4CE8b8x17) | 3:31 |
+| 100 | [DONT MAKE THIS WEIRD](https://open.spotify.com/track/1ehrv4HqEm5kqAGDcwSCzS) | [DONT MAKE THIS WEIRD](https://open.spotify.com/artist/66tkgyJ2o4lzRX8G2zlN1p) | [DONT MAKE THIS WEIRD](https://open.spotify.com/album/4H0jM5yZsfEpdd9RBqUBbs) | 2:50 |
 
-Snapshot ID: `AAAAAL3wRxNnOb27rstXDQzHAo0obVEq`
+Snapshot ID: `AAAAAIZpsl3nQA359USLD3zSK1Nu49TE`

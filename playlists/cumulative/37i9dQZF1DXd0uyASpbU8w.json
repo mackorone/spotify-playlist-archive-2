@@ -64117,6 +64117,40 @@
     },
     {
       "album": {
+        "name": "TWO WORLDS | ONE SOUND",
+        "url": "https://open.spotify.com/album/7qOjbWIVYGn4BHHkFLo3FE"
+      },
+      "artists": [
+        {
+          "name": "Lesego M",
+          "url": "https://open.spotify.com/artist/2iyasLW1Ei5nroB96ynres"
+        },
+        {
+          "name": "Leandra.Vert",
+          "url": "https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l"
+        },
+        {
+          "name": "Shazz RSA",
+          "url": "https://open.spotify.com/artist/1b6HUAPSQHR73XcfcVX0aB"
+        },
+        {
+          "name": "SLCK WAV",
+          "url": "https://open.spotify.com/artist/6rLDG4WD9hsiY8sTvYDboI"
+        },
+        {
+          "name": "TranquilloSir",
+          "url": "https://open.spotify.com/artist/7w8Dm5nDDbrbwqAfoOUEec"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480496,
+      "name": "Ezo Thando (feat. TranquilloSir)",
+      "url": "https://open.spotify.com/track/1g6FnvjrxwNx6SHol7Ysta"
+    },
+    {
+      "album": {
         "name": "Emakhaya",
         "url": "https://open.spotify.com/album/2brLb52IRODPWqVuwbLpgZ"
       },
@@ -139123,7 +139157,7 @@
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 275702,
+      "duration_ms": 275488,
       "name": "Meine Lieben",
       "url": "https://open.spotify.com/track/4gHmDgsGGrt6ds0fNPVHCa"
     },
@@ -140378,23 +140412,27 @@
           "url": "https://open.spotify.com/artist/2EcqJe3MVmmllzpwhPbGh3"
         },
         {
-          "name": "Tallrickyworldwide",
-          "url": "https://open.spotify.com/artist/2miB0vPO6RIi8mcK6XDIyS"
-        },
-        {
           "name": "PRXNCE ICIS",
           "url": "https://open.spotify.com/artist/3FxSuK09DqdlxhBl6RND9A"
         },
         {
           "name": "Creed oasis",
           "url": "https://open.spotify.com/artist/6ZoF6LKlVwaohaKiOlUNQF"
+        },
+        {
+          "name": "Tank Saviour",
+          "url": "https://open.spotify.com/artist/4spkghJN9s9AF6VsyxIp8Q"
+        },
+        {
+          "name": "Tallrickyworldwide",
+          "url": "https://open.spotify.com/artist/2miB0vPO6RIi8mcK6XDIyS"
         }
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 188689,
-      "name": "MGGAXO X CREED",
+      "name": "MGGAXO",
       "url": "https://open.spotify.com/track/1516NYuQjK7NaHmHdD68Uc"
     },
     {
@@ -154466,6 +154504,28 @@
       "duration_ms": 273103,
       "name": "Ngelinye iLanga (feat. DJ Kap)",
       "url": "https://open.spotify.com/track/7FA9aALIHZI81aox50l2Gf"
+    },
+    {
+      "album": {
+        "name": "KWANDA",
+        "url": "https://open.spotify.com/album/5p1fOfSeqTDG8Dm6O4bymM"
+      },
+      "artists": [
+        {
+          "name": "Mustbedubz",
+          "url": "https://open.spotify.com/artist/1BzSBZWwF5ApCmrziLqLXF"
+        },
+        {
+          "name": "Luigi Anywhere",
+          "url": "https://open.spotify.com/artist/5a9qc56VdoSQ7pw6d464GK"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358042,
+      "name": "Ngelosi",
+      "url": "https://open.spotify.com/track/2s9Mz8iNXM20Glo37BHpds"
     },
     {
       "album": {
@@ -205743,6 +205803,24 @@
     },
     {
       "album": {
+        "name": "Stellenbosch Drive",
+        "url": "https://open.spotify.com/album/3THdkt6wrpHVEBTuluF9uY"
+      },
+      "artists": [
+        {
+          "name": "Mick Man",
+          "url": "https://open.spotify.com/artist/2qyayQizFjGigmZVrwyuf9"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Strings",
+      "url": "https://open.spotify.com/track/1qDZIJh4aCifgsR5HiVdrY"
+    },
+    {
+      "album": {
         "name": "STRINGS (feat. JVKE & Bazzi)",
         "url": "https://open.spotify.com/album/7fjIIM9b9rJ7bu28VtLVxA"
       },
@@ -218953,6 +219031,24 @@
     },
     {
       "album": {
+        "name": "THIS & THAT",
+        "url": "https://open.spotify.com/album/0VDVnZhY399q6sIrdyjZWj"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "This & That",
+      "url": "https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP"
+    },
+    {
+      "album": {
         "name": "All We Know Is Falling (Deluxe)",
         "url": "https://open.spotify.com/album/4v7K8sgLM1fx69WSrQRKYo"
       },
@@ -219052,6 +219148,24 @@
       "duration_ms": 294773,
       "name": "This is the Killer Speaking",
       "url": "https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX"
+    },
+    {
+      "album": {
+        "name": "LIFE",
+        "url": "https://open.spotify.com/album/0vL3Vv27UfbRVLL7B9j1ab"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232306,
+      "name": "this is the moment (cuerpo)",
+      "url": "https://open.spotify.com/track/1AF9gqUhT9jyOHDzDUTZMc"
     },
     {
       "album": {
@@ -219870,6 +219984,24 @@
       "duration_ms": 173984,
       "name": "throw me down the stairs",
       "url": "https://open.spotify.com/track/7uj8EycHiVGWm7PLYeINQ2"
+    },
+    {
+      "album": {
+        "name": "What Does It Take to Bloom?",
+        "url": "https://open.spotify.com/album/54ST4y3yA1Is8hXRhDpH2o"
+      },
+      "artists": [
+        {
+          "name": "Somi",
+          "url": "https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307660,
+      "name": "Throw Something",
+      "url": "https://open.spotify.com/track/5Ahzftt1kLGb1daMiLOk8e"
     },
     {
       "album": {
@@ -223786,114 +223918,6 @@
       "duration_ms": 0,
       "name": "Track 1",
       "url": "https://open.spotify.com/track/0rIU6NfW2aSPdV1S5VBBYT"
-    },
-    {
-      "album": {
-        "name": "Stellenbosch Drive",
-        "url": "https://open.spotify.com/album/3THdkt6wrpHVEBTuluF9uY"
-      },
-      "artists": [
-        {
-          "name": "Mick Man",
-          "url": "https://open.spotify.com/artist/2qyayQizFjGigmZVrwyuf9"
-        }
-      ],
-      "date_added": "2026-08-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/1qDZIJh4aCifgsR5HiVdrY"
-    },
-    {
-      "album": {
-        "name": "What Does It Take to Bloom?",
-        "url": "https://open.spotify.com/album/54ST4y3yA1Is8hXRhDpH2o"
-      },
-      "artists": [
-        {
-          "name": "Somi",
-          "url": "https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA"
-        }
-      ],
-      "date_added": "2026-08-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/5Ahzftt1kLGb1daMiLOk8e"
-    },
-    {
-      "album": {
-        "name": "Ithonga",
-        "url": "https://open.spotify.com/album/13tWZqGNQN0V9B5B0UbmD4"
-      },
-      "artists": [
-        {
-          "name": "MusiholiQ",
-          "url": "https://open.spotify.com/artist/7J8TsAqwQVAIOlloWCuW60"
-        }
-      ],
-      "date_added": "2026-08-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/184nO8Izb4hWhTSpx7XG6L"
-    },
-    {
-      "album": {
-        "name": "LIFE",
-        "url": "https://open.spotify.com/album/0vL3Vv27UfbRVLL7B9j1ab"
-      },
-      "artists": [
-        {
-          "name": "Funk Tribu",
-          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
-        }
-      ],
-      "date_added": "2026-08-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/1AF9gqUhT9jyOHDzDUTZMc"
-    },
-    {
-      "album": {
-        "name": "TWO WORLDS | ONE SOUND",
-        "url": "https://open.spotify.com/album/7qOjbWIVYGn4BHHkFLo3FE"
-      },
-      "artists": [
-        {
-          "name": "Lesego M",
-          "url": "https://open.spotify.com/artist/2iyasLW1Ei5nroB96ynres"
-        }
-      ],
-      "date_added": "2026-08-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/1g6FnvjrxwNx6SHol7Ysta"
-    },
-    {
-      "album": {
-        "name": "KWANDA",
-        "url": "https://open.spotify.com/album/5p1fOfSeqTDG8Dm6O4bymM"
-      },
-      "artists": [
-        {
-          "name": "Mustbedubz",
-          "url": "https://open.spotify.com/artist/1BzSBZWwF5ApCmrziLqLXF"
-        }
-      ],
-      "date_added": "2026-08-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/2s9Mz8iNXM20Glo37BHpds"
     },
     {
       "album": {
@@ -230174,6 +230198,24 @@
       "duration_ms": 404753,
       "name": "Umhlaba",
       "url": "https://open.spotify.com/track/3S9VWaHWxT8aZ3otR8duzh"
+    },
+    {
+      "album": {
+        "name": "Ithonga",
+        "url": "https://open.spotify.com/album/13tWZqGNQN0V9B5B0UbmD4"
+      },
+      "artists": [
+        {
+          "name": "MusiholiQ",
+          "url": "https://open.spotify.com/artist/7J8TsAqwQVAIOlloWCuW60"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212808,
+      "name": "Umhlaba - (Ithonga soundtrack)",
+      "url": "https://open.spotify.com/track/184nO8Izb4hWhTSpx7XG6L"
     },
     {
       "album": {

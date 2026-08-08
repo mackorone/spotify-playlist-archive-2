@@ -2,9 +2,9 @@
 
 ### [Mood Ring ](https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3)
 
-> Your guide to R&B in Canada, with Osé from Brampton, ON.
+> Your guide to R&B in Canada, with Roy Woods from Brampton, ON.
 
-1,734 songs - 3 day 17 hr 52 min
+1,737 songs - 3 day 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Be Mine](https://open.spotify.com/track/5QYQYOCUsaI9rBUmsZLtU1) | [Myles Tulloch](https://open.spotify.com/artist/5NxWadR8NGGgfAWsqd2UsV) | [Detour](https://open.spotify.com/album/2BmsCIFopmCi5SFejerimW) | 3:15 | 2023-08-25 | 2023-09-30 |
 | [Beach](https://open.spotify.com/track/591OojQCkyOLyMqmJRVyyc) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Risk](https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo) | 2:06 | 2023-07-14 | 2024-02-10 |
 | [Beaming](https://open.spotify.com/track/2esWCaLHr60GmPyHt1Eaet) | [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Beaming](https://open.spotify.com/album/1q8mdcd3fNv5fBmiEme4l1) | 2:49 | 2025-09-12 | 2026-06-06 |
+| [Beautiful](https://open.spotify.com/track/41hDtBjgJ2rN4yUiYSPbfg) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [X](https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a) | 3:21 | 2026-08-07 |  |
 | [Beautiful Day](https://open.spotify.com/track/6sJONCa13pEDfik2GvGWhN) | [Shawn Desman](https://open.spotify.com/artist/4LOZt2Vt1xqIWRCVG4v6tV) | [Beautiful Day](https://open.spotify.com/album/6EtUw5SJKJyzHu348NQZef) | 2:16 | 2024-02-09 | 2024-07-06 |
 | [Beautiful Lies](https://open.spotify.com/track/6xVV9pZseSLEs6eC4gYzZw) | [Cameron James](https://open.spotify.com/artist/4L2lMQeDAR8VxA0ZiMR9hT), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk) | [Beautiful Lies](https://open.spotify.com/album/7wgWS6fEQRj3fiGJM2xzgX) | 2:48 | 2024-10-04 | 2024-10-12 |
 | [Beautiful Stranger](https://open.spotify.com/track/5OCxRvtrp2HNuj5bwGYphT) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [Infinite](https://open.spotify.com/album/0GagOm850EPgZJCDkztsYm) | 3:51 | 2022-11-11 | 2023-02-25 |
@@ -224,7 +225,7 @@
 | [Breathe](https://open.spotify.com/track/0TJDXaB0yYkfJogxqa7ilA) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Breathe](https://open.spotify.com/album/1jt5IPhxTMUvnXBC4KHzKW) | 3:08 | 2025-05-02 | 2025-07-26 |
 | [Broken](https://open.spotify.com/track/2oiYwCA2XB26ISvhKxWLU1) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Broken](https://open.spotify.com/album/1PrFwjRBnqMeOdhabi0y0C) | 3:08 | 2024-10-18 | 2024-11-23 |
 | [Bruce Wayne](https://open.spotify.com/track/2POzxzlAyRJ2yEMD8XyV7a) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Bruce Wayne](https://open.spotify.com/album/5BOehCpbaZHz4WDpQVFUvb) | 2:03 | 2022-09-30 | 2022-10-08 |
-| [Brunch](https://open.spotify.com/track/2kNfvDTTZOFcDoPTyKoAdT) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Brunch](https://open.spotify.com/album/0FOUc0eNZPZkBLYkYI2eWk) | 2:14 | 2026-07-17 |  |
+| [Brunch](https://open.spotify.com/track/2kNfvDTTZOFcDoPTyKoAdT) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Brunch](https://open.spotify.com/album/0FOUc0eNZPZkBLYkYI2eWk) | 2:14 | 2026-07-17 | 2026-08-08 |
 | [Buh Bye II](https://open.spotify.com/track/3nsO615nSOGigYCc9hCnIp) | [DrewsThatDude](https://open.spotify.com/artist/36UnfzYd835ufc9ajoT9Kk), [LOKRE](https://open.spotify.com/artist/5GZK6iJt7jRO73C3zH5sho) | [Buh Bye II](https://open.spotify.com/album/4HOVDeY2X4hB5dt6pfqz4l) | 4:24 | 2023-12-08 | 2024-03-09 |
 | [BULLSEYE](https://open.spotify.com/track/3OatXXexrQMaW6Hr3iQU4k) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [BULLSEYE](https://open.spotify.com/album/1BgDxKB8upXtUxGlNoUp57) | 3:36 | 2024-02-02 | 2024-03-30 |
 | [BURN LIKE FYA](https://open.spotify.com/track/6LBAvxT2JG8sz0MchIyx13) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [ATMANS](https://open.spotify.com/album/7N0q4kL78W1sQImoLTDdgx) | 2:08 | 2026-07-17 |  |
@@ -790,6 +791,7 @@
 | [Khartoum](https://open.spotify.com/track/1Kuz7MiQz9rUPVt5ggCMJ7) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Khartoum](https://open.spotify.com/album/1YOKyxfaTIT5rFF8uooQS1) | 3:31 | 2024-03-15 | 2024-06-15 |
 | [King of the Crop](https://open.spotify.com/track/62eCdSoP9bVA1kknmUfnLr) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Healing Phase](https://open.spotify.com/album/3PGgJjwXDoj59jPI5RCeQe) | 2:31 | 2023-02-24 | 2023-06-17 |
 | [Kissin' My Tattoos](https://open.spotify.com/track/09xQ2YpARX6KfVKKbiDaoY) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ) | [Kissin' My Tattoos](https://open.spotify.com/album/7ueCXrWwTa6Fe209cZuSYP) | 2:28 | 2023-06-16 | 2023-09-30 |
+| [Kissing Underwater](https://open.spotify.com/track/6bmcfa6rrkP63zqB3f3v9f) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [Kissing Underwater](https://open.spotify.com/album/2TgfwqCYZyTv4n8omjFnqK) | 2:39 | 2026-08-07 |  |
 | [Knackademus](https://open.spotify.com/track/684FU29L57XNQDMkMUfqB4) | [Slxm](https://open.spotify.com/artist/5qbuitLWN3ub1pmJAvrCJO) | [Knackademus](https://open.spotify.com/album/7i8JOdcJ7tIu3lsNs7SUdb) | 2:30 | 2022-02-18 | 2022-05-14 |
 | [Knockin'](https://open.spotify.com/track/4m10yzrt8CefJnI3OFoD2n) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [Knockin'](https://open.spotify.com/album/5GyrFIWlTnhplCIoai03IH) | 3:03 | 2025-08-29 | 2025-10-18 |
 | [L o s e M y M i n d](https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [L o s e M y M i n d](https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI) | 3:03 | 2024-04-12 | 2024-05-11 |
@@ -1245,7 +1247,7 @@
 | [Right My Wrongs](https://open.spotify.com/track/1Q4WpgUzBjR96f7nwhNF3B) | [LAVI$H](https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32) | [Who Am I? \(Vol\. 1\)](https://open.spotify.com/album/7CrKtotyjUQW6sHcaZkF13) | 3:13 | 2024-10-04 | 2025-02-08 |
 | [Right Ways](https://open.spotify.com/track/3NiL8u9KN1Wv5iU7vnimuI) | [Devaney](https://open.spotify.com/artist/40vPyR4z6ZSsTeWGU3Ga6w) | [Right Ways](https://open.spotify.com/album/0R1XiKj9c38iSpWCS5yfYz) | 3:53 | 2026-06-19 |  |
 | [Right Where You Left Me](https://open.spotify.com/track/7B4D7aJcJ7noYNxX0XqhlT) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y), [donSMITH](https://open.spotify.com/artist/3WO3ZmTFuGjryOViAqhT2M) | [Right Where You Left Me](https://open.spotify.com/album/1fo96bZL7ePiDc4y73s2Id) | 4:40 | 2025-11-07 | 2026-01-31 |
-| [Right Wit Us](https://open.spotify.com/track/2H378kaXwCiVzsD9CRViL1) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [Right Wit Us](https://open.spotify.com/album/55mCLrWcyfd5L3ujzrCc7C) | 2:21 | 2026-07-10 |  |
+| [Right Wit Us](https://open.spotify.com/track/2H378kaXwCiVzsD9CRViL1) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [Right Wit Us](https://open.spotify.com/album/55mCLrWcyfd5L3ujzrCc7C) | 2:21 | 2026-07-10 | 2026-08-08 |
 | [RIGIO \(fall 4 u\)](https://open.spotify.com/track/1IFZwCYqLH5tGfp0V9YP4L) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh) | [RIGIO \(fall 4 u\)](https://open.spotify.com/album/31iHGzTpg9XlyaL7jZi3Uq) | 2:58 | 2025-02-21 | 2025-04-18 |
 | [RIP](https://open.spotify.com/track/2uRFxSw7uEN9vlGHjwoS29) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [SCARLET](https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k) | 2:03 | 2022-03-11 | 2022-10-01 |
 | [Rising](https://open.spotify.com/track/5PVhswfrgXYdis2tFU3kzQ) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq) | [Rising](https://open.spotify.com/album/2SpYVIYV0SKTNxVN2mUKhn) | 2:52 | 2026-02-06 | 2026-02-21 |
@@ -1595,6 +1597,7 @@
 | [Trust You Now](https://open.spotify.com/track/1oVNPc9Cw5eFfjQLt8ezTt) | [Divine Lightbody](https://open.spotify.com/artist/4b9YacVLF5QegzWwfz0vIJ) | [Trust You Now](https://open.spotify.com/album/6NZ26QeaZQsUeUwRoGOzNq) | 3:02 | 2022-08-12 | 2022-10-08 |
 | [ttuctmd](https://open.spotify.com/track/7bsqStKmTP9TgMESunVxLX) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [ttuctmd](https://open.spotify.com/album/1ErqwoGil01Xr66CiUxU3u) | 2:00 | 2023-12-22 | 2024-07-13 |
 | [Tu T'en Souviens \- A COLORS SHOW](https://open.spotify.com/track/0Q5rXLOF7NxSfiNE9xEtuc) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Tu T'en Souviens \- A COLORS SHOW](https://open.spotify.com/album/76RFXXmVwMd7VpAwb2dpIR) | 2:52 | 2023-10-13 | 2024-02-03 |
+| [Turn You Up](https://open.spotify.com/track/1v2NgfMNk09EJgvACPDYFO) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [Turn You Up](https://open.spotify.com/album/7bnd5gu2eOz3zqOv8BUXp6) | 2:04 | 2026-08-07 |  |
 | [Twilight One](https://open.spotify.com/track/2wtcuo2Y0bSIFXsb49ZHG6) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Twilight One](https://open.spotify.com/album/7dnFnR9U4k8CvyQyQypzfI) | 3:17 | 2024-08-23 | 2024-11-09 |
 | [Twin \(feat\. Mr\. TalkBox\)](https://open.spotify.com/track/691C6QAbjiZdsgxkz6VffJ) | [LAVI$H](https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [Twin](https://open.spotify.com/album/0By4mCi2whe1Cq3hTolAAS) | 3:10 | 2024-09-13 | 2024-10-05 |
 | [Two Seater](https://open.spotify.com/track/7lmRIUh9wpC8Orglf8nkY2) | [DJ Agile](https://open.spotify.com/artist/3ypWgymPzuSt8QT4Tg09Ed), [August Rigo](https://open.spotify.com/artist/0j4KkLX4P2OPMJfXcatbQ3) | [Two Seater](https://open.spotify.com/album/6WjixDtKcOv7IMp1E9YfH6) | 3:07 | 2023-09-29 | 2023-12-09 |
@@ -1619,7 +1622,7 @@
 | [Ur Loss](https://open.spotify.com/track/3rvnZ6pD9XiYeoTpZYTqNK) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Ur Loss](https://open.spotify.com/album/3l5IDzNQrprO11pT86fP5o) | 3:38 | 2022-12-09 | 2023-01-28 |
 | [ur mine](https://open.spotify.com/track/6jhxnr1aivQvPY4fOTrUaP) | [Kaleia](https://open.spotify.com/artist/2F2CiwEgXu1t8kgQKnCTMr) | [ur mine](https://open.spotify.com/album/0bliReSpZNmIskXlhE5qq9) | 3:21 | 2024-09-20 | 2024-10-26 |
 | [USC](https://open.spotify.com/track/3RN2DysOt9NcUu0JUGeQPV) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [USC](https://open.spotify.com/album/5cfGuaVcSO8XL15VpKfgm8) | 2:11 | 2024-04-05 | 2024-06-08 |
-| [Utopia](https://open.spotify.com/track/2Yt5ktH0mRvgmAORp9GXPY) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Utopia](https://open.spotify.com/album/6QJ5GA0jF8EejngJcDB37o) | 3:24 | 2026-07-24 |  |
+| [Utopia](https://open.spotify.com/track/2Yt5ktH0mRvgmAORp9GXPY) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Utopia](https://open.spotify.com/album/6QJ5GA0jF8EejngJcDB37o) | 3:24 | 2026-07-24 | 2026-08-08 |
 | [Utopia](https://open.spotify.com/track/275KNpBTmpEriHiYRgLM8t) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [N.F.A\. DEMOS](https://open.spotify.com/album/2Pc1ndHdDmH32Z6Bslucaz) | 3:28 | 2024-04-05 | 2024-10-19 |
 | [Uuugly](https://open.spotify.com/track/0T0S3Ue6h1ozJRSu4A4uKs) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 1:55 | 2024-06-28 | 2025-03-01 |
 | [VAIN](https://open.spotify.com/track/5qLYOEY8aHWXcjo5CIRtcg) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [Suite 96 \(Side B\)](https://open.spotify.com/album/1ma4ZPGmGphf71OsTto5aX) | 1:28 | 2025-05-09 | 2025-06-28 |

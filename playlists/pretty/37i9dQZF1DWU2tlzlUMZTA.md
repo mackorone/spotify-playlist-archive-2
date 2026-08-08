@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 
 > Only hits! Cover\- 'Sahiba' by Jasleen Royal and Stebin Ben
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,047 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,081 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 | 45 | [Vaaste](https://open.spotify.com/track/0mJTAdmY8olbGQjopDYff3) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Vaaste](https://open.spotify.com/album/7b0RW9Inq2jLmTGonmqv11) | 3:16 |
 | 46 | [Sundari](https://open.spotify.com/track/5gsi1bSTPDIiW6Pi5kFmiU) | [Sanju Rathod](https://open.spotify.com/artist/4B9efXsA6sv4w3vts8E0T7), [G\-SPXRK](https://open.spotify.com/artist/7BcFJxi62f6cbPyxdTZGll) | [Sundari](https://open.spotify.com/album/3PsTebbjkIZRMvW6NB1nwM) | 2:41 |
 | 47 | [Dost Banke](https://open.spotify.com/track/2k0D2OXWXwuwBPXLQQYmZx) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz) | [Dost Banke](https://open.spotify.com/album/4Ira2DDLEUgXmL6t4UA95V) | 4:49 |
-| 48 | [Mahiye Jinna Sohna](https://open.spotify.com/track/0Jiaz0O4AqnJICa9PxHhaR) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 3:01 |
+| 48 | [Wakhra Swag](https://open.spotify.com/track/0gbk1PiLb6ISZ2hffSKLmq) | [Navv Inder](https://open.spotify.com/artist/7GPyedHMvKTiM2OfXc0MVv), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Navi Ferozpurwala](https://open.spotify.com/artist/78Wjtcr5lUroDSkK7cKfkp) | [Wakhra Swag](https://open.spotify.com/album/5bey8nBlZwmEVYXPL6T5jd) | 3:10 |
 | 49 | [Bijlee Bijlee](https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Bijlee Bijlee](https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8) | 2:48 |
-| 50 | [Wakhra Swag](https://open.spotify.com/track/0gbk1PiLb6ISZ2hffSKLmq) | [Navv Inder](https://open.spotify.com/artist/7GPyedHMvKTiM2OfXc0MVv), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Navi Ferozpurwala](https://open.spotify.com/artist/78Wjtcr5lUroDSkK7cKfkp) | [Wakhra Swag](https://open.spotify.com/album/5bey8nBlZwmEVYXPL6T5jd) | 3:10 |
+| 50 | [Mahiye Jinna Sohna](https://open.spotify.com/track/0Jiaz0O4AqnJICa9PxHhaR) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 3:01 |
 
-Snapshot ID: `AAAAABIMJvxn1EyQ/ELZP9j291OsR9M/`
+Snapshot ID: `AAAAABFkOFmVD2l0umPGqhUZ5GR2zyK5`

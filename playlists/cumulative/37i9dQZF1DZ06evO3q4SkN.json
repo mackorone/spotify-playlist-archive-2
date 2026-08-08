@@ -414,7 +414,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 83293,
       "name": "Big City Train",
       "url": "https://open.spotify.com/track/1QF7uHKcbn3pUylZMVL6lT"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-25",
+      "date_removed": null,
       "duration_ms": 50359,
       "name": "Bike Riding Fun",
       "url": "https://open.spotify.com/track/5QarMd5rCwO070YS4HDAHa"
@@ -522,7 +522,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 130640,
       "name": "Brunos siste syn",
       "url": "https://open.spotify.com/track/2XtA1Z21Um8dEZ0kbedxNk"
@@ -576,7 +576,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 52920,
       "name": "Campfire Stars",
       "url": "https://open.spotify.com/track/0cnlGHnpuI0xxGSInKKYLQ"
@@ -720,7 +720,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 83480,
       "name": "Cowboy Frank",
       "url": "https://open.spotify.com/track/64JVi4jEiHt652E4jrkA65"
@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 66893,
       "name": "Felipe's Theme",
       "url": "https://open.spotify.com/track/7DCnWWU7KEswRD2qoqFRbU"
@@ -1230,7 +1230,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 71400,
       "name": "George And Doris",
       "url": "https://open.spotify.com/track/6KeD0so6pe8IdCgl5giXck"
@@ -1776,7 +1776,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-03",
+      "date_removed": null,
       "duration_ms": 68306,
       "name": "Mad Because You Are Leaving",
       "url": "https://open.spotify.com/track/5to0lOyg0gqupUiQLLXgV9"
@@ -1870,7 +1870,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 32000,
       "name": "Margarita's Fantasy",
       "url": "https://open.spotify.com/track/6qLONqjljMGxxEQnlIjk7o"
@@ -1978,7 +1978,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 52093,
       "name": "Monkey Mixup",
       "url": "https://open.spotify.com/track/0Ou4tfO0Zel3VtA5gFQRAR"
@@ -2424,7 +2424,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 66040,
       "name": "Royal Jet",
       "url": "https://open.spotify.com/track/17rn7t2bif66IjAc9q3E3Y"
@@ -2666,7 +2666,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 167316,
       "name": "Tango De Las Mujeres",
       "url": "https://open.spotify.com/track/5juqZzFeCNW7xsY2FS82e5"
@@ -2702,7 +2702,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 98613,
       "name": "Ted Saves The Day",
       "url": "https://open.spotify.com/track/6xjjeZHIXcywmHT3pO0Zak"
@@ -3420,6 +3420,24 @@
       "duration_ms": 46040,
       "name": "\u00a1Hola Casita!",
       "url": "https://open.spotify.com/track/5X1kTi7KqUrAbQBohSV68x"
+    },
+    {
+      "album": {
+        "name": "Nasze Magiczne Encanto (Muzyka z filmu)",
+        "url": "https://open.spotify.com/album/1P1p0XsN1qQZmbX24Cy36C"
+      },
+      "artists": [
+        {
+          "name": "Germaine Franco",
+          "url": "https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200093,
+      "name": "\u015awieca",
+      "url": "https://open.spotify.com/track/4wgl1FUAk9r7YoZFFXoHcg"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3q4SkN"

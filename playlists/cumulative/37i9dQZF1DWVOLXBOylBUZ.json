@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de JhonAlex.",
+  "description": "Latinoam\u00e9rica baila al ritmo de Bellakath.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -2212,6 +2212,32 @@
       "duration_ms": 144444,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/0sj3zAkMQQNPNncP9D67Ja"
+    },
+    {
+      "album": {
+        "name": "ANTE LOS 20",
+        "url": "https://open.spotify.com/album/6SeRzhmhpvWliemVB1hCrx"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Drakomafia",
+          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
+        },
+        {
+          "name": "Piero 47",
+          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "ANTE LOS 20",
+      "url": "https://open.spotify.com/track/5NPPbZVu9jBopufHq7NaHL"
     },
     {
       "album": {
@@ -7214,6 +7240,24 @@
       "duration_ms": 210785,
       "name": "Cristalina",
       "url": "https://open.spotify.com/track/2ZHNyCDwtKIotmE2mpN8nM"
+    },
+    {
+      "album": {
+        "name": "CRITIC\u00d3N",
+        "url": "https://open.spotify.com/album/553rifH1VEpd2h2L9ntQVS"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131642,
+      "name": "CRITIC\u00d3N",
+      "url": "https://open.spotify.com/track/4joe8hhA3EPA7pZH5nLyu5"
     },
     {
       "album": {
@@ -25005,6 +25049,24 @@
     },
     {
       "album": {
+        "name": "RIKI",
+        "url": "https://open.spotify.com/album/4bWpmQ8V75q46zbIfjVkdT"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183934,
+      "name": "RIKI",
+      "url": "https://open.spotify.com/track/37wfBdDJidbipEG2fEwkWX"
+    },
+    {
+      "album": {
         "name": "Rio",
         "url": "https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl"
       },
@@ -25792,7 +25854,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 159183,
       "name": "Se Le Ve",
       "url": "https://open.spotify.com/track/0ExNALbmBpY7IAZ2dzupnv"
@@ -27920,7 +27982,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 335104,
       "name": "Te Entiendo - Remix",
       "url": "https://open.spotify.com/track/1VvliZHnsUj177MnuSY8G2"
@@ -29896,7 +29958,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 148085,
       "name": "T\u00edRAteLo",
       "url": "https://open.spotify.com/track/2SQK0hM3vPpk7CBCno53gh"

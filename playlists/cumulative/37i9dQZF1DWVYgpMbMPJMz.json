@@ -2805,6 +2805,28 @@
     },
     {
       "album": {
+        "name": "Breathe On Me, Breath Of God",
+        "url": "https://open.spotify.com/album/1MJ3IQ4qbD46JbmHKBKepU"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "Fernando Ortega",
+          "url": "https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201830,
+      "name": "Breathe On Me, Breath Of God",
+      "url": "https://open.spotify.com/track/5obRW0OPQ5SDXWN55mtLLk"
+    },
+    {
+      "album": {
         "name": "Broken Into Beautiful (Live)",
         "url": "https://open.spotify.com/album/6F5YWV5AkgtdeenIYDFepO"
       },
@@ -3310,7 +3332,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 251946,
       "name": "Christ the Lord is Risen Today",
       "url": "https://open.spotify.com/track/1jErRhC4lepiq76hLPFFTj"
@@ -5882,7 +5904,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 234844,
       "name": "God I'm Just Grateful - Radio Version",
       "url": "https://open.spotify.com/track/1PVWmMVBJ8RrHMsvL1c15o"
@@ -6392,6 +6414,28 @@
       "duration_ms": 293737,
       "name": "Grace Upon Grace",
       "url": "https://open.spotify.com/track/2UZDaWZRg4py71jHz92o9K"
+    },
+    {
+      "album": {
+        "name": "Gracefully Broken / Who The Son Sets Free",
+        "url": "https://open.spotify.com/album/7dQe2pkmZuaAwQSoCfqFGm"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358601,
+      "name": "Gracefully Broken/Who The Son Sets Free",
+      "url": "https://open.spotify.com/track/72UISIbGPOR0M3mj7EygOU"
     },
     {
       "album": {
@@ -9108,7 +9152,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 485754,
       "name": "I Will Follow - Extended",
       "url": "https://open.spotify.com/track/2MeZbydHrGiiXQpocZOE6m"
@@ -11804,6 +11848,24 @@
       "duration_ms": 563991,
       "name": "Love Of My Life - Live",
       "url": "https://open.spotify.com/track/7bLxvZFk8wQ0TsNzjyfUr0"
+    },
+    {
+      "album": {
+        "name": "Lover Of My Life (I Need You)",
+        "url": "https://open.spotify.com/album/18alLXqgRE0RdURGBaq8NB"
+      },
+      "artists": [
+        {
+          "name": "Charles Weems",
+          "url": "https://open.spotify.com/artist/4b55lXHPorwxp0HHq0W6ab"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247094,
+      "name": "Lover Of My Life (I Need You)",
+      "url": "https://open.spotify.com/track/6G3Gcl6sBKZC2qapjF8Ia6"
     },
     {
       "album": {
@@ -15210,7 +15272,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 478285,
       "name": "Promised Land",
       "url": "https://open.spotify.com/track/2IS9bxq9BqYmK5GdTA8yzB"
@@ -18909,6 +18971,32 @@
     },
     {
       "album": {
+        "name": "The Lord Is With Me (Collection)",
+        "url": "https://open.spotify.com/album/412uAbCZAV27uL1sD6Jxwx"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        },
+        {
+          "name": "Tyler Roberts",
+          "url": "https://open.spotify.com/artist/6sgNKfg3LWtqX7zvcaImo0"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219056,
+      "name": "The Lord Is With Me - Studio",
+      "url": "https://open.spotify.com/track/2tU46SZPQWIlkVZAQSK9ib"
+    },
+    {
+      "album": {
         "name": "The Lord My God",
         "url": "https://open.spotify.com/album/1kN3x8TKkYLlO6GCVfc2U3"
       },
@@ -20551,6 +20639,28 @@
     },
     {
       "album": {
+        "name": "Waiting To See What God Does (From Nashville)",
+        "url": "https://open.spotify.com/album/29YtzhtTyRSLnHJI39Goia"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        },
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254513,
+      "name": "Waiting To See What God Does - From Nashville",
+      "url": "https://open.spotify.com/track/2cmXYy8PXda1ey8BV4H6Pe"
+    },
+    {
+      "album": {
         "name": "Walk On Water (Live)",
         "url": "https://open.spotify.com/album/1G24vc9iGCGr77IELGJnGW"
       },
@@ -22052,7 +22162,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 317800,
       "name": "Yahweh",
       "url": "https://open.spotify.com/track/3P3BpjuFi9R9wCg1cUoaUl"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 
 > 528 hertz solfeggio frequency, tones and music for deep sleep and restful nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,637 likes - 190 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,741 likes - 190 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXlntHTG08uC.md) - [plain]
 | 189 | [528 Hz Drifting Away](https://open.spotify.com/track/5Zr2FYd3qTcrHd47AWVpfv) | [Holistic Harmony](https://open.spotify.com/artist/4oxvDeHOmb5ZzroTPJhs4W) | [528 Hz Drifting Away](https://open.spotify.com/album/4zWF35wVHC11bW4XfdTuNn) | 2:37 |
 | 190 | [528 Hz Peaceful Morning](https://open.spotify.com/track/4neGVEu2YcGEn64P4Mfkdn) | [Binaural Exploration Solfeggio](https://open.spotify.com/artist/69FqgXw1kDOqbP9rx3t7Kg) | [528 Hz Peaceful Morning](https://open.spotify.com/album/1ZsSN99r6azBkfwKygx6fw) | 2:27 |
 
-Snapshot ID: `AAAAAFC8j++aXiAkTQggIwgioKKi9VzF`
+Snapshot ID: `AAAAAK70CcLgi6OX6rLAUevBnV+TCnJb`

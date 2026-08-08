@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 
 > Is it your bias K\-Pop boy group? \(Cover: idntt\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,160 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,143 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 | 34 | [FEVER](https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 2:52 |
 | 35 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Face the Sun](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 |
 | 36 | [Love Language](https://open.spotify.com/track/3wBeIjb0vtiTwIQPce2stZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Love Language](https://open.spotify.com/album/5BeSpFkdJkSc9phzT3bJSs) | 2:57 |
-| 37 | [TOP 5](https://open.spotify.com/track/5cnWHHvU8MnHTjjAjeJffl) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Ascend\-](https://open.spotify.com/album/5E3pgifLkYtunLqxG2LVbe) | 2:27 |
-| 38 | [Monster](https://open.spotify.com/track/7GbUWl6qLW1gdngbEV2WDJ) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EX'ACT](https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc) | 3:41 |
+| 37 | [Monster](https://open.spotify.com/track/7GbUWl6qLW1gdngbEV2WDJ) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EX'ACT](https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc) | 3:41 |
+| 38 | [TOP 5](https://open.spotify.com/track/5cnWHHvU8MnHTjjAjeJffl) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Ascend\-](https://open.spotify.com/album/5E3pgifLkYtunLqxG2LVbe) | 2:27 |
 | 39 | [Vanilla Days](https://open.spotify.com/track/6J0lnKcH7C1Hu0tn5hv7pI) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [Training Day](https://open.spotify.com/album/7z5ZIN7o44Tk8EUkm7AVar) | 2:50 |
 | 40 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Attacca](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 |
 | 41 | [LO$ER=LO♡ER](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 | 49 | [ddok ddok ddok](https://open.spotify.com/track/5D5vkXfYyYeURaWIbMA2nP) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [ddok ddok ddok](https://open.spotify.com/album/24Y94uThWacq7o0gUF9dg2) | 2:35 |
 | 50 | [Rover](https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Rover \- The 3rd Mini Album](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) | 2:54 |
 
-Snapshot ID: `AAAAAEcNR7CRqcqY1PRsMSDRKtw/+khE`
+Snapshot ID: `AAAAALPlUUeojgIueFBLkfZrWEvpyz4g`

@@ -1,12 +1,12 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 31948,
+  "num_followers": 31947,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAADMW59IBBoOGMeeVGhFVewZ",
+  "snapshot_id": "anPOgAAAAACPjOdeYdu9Wi6JG7R/Dafj",
   "tracks": [
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Por Si Te Quieres Quedar",
+        "url": "https://open.spotify.com/album/5cKAoN0HixEqmJvIM9WyHC"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 214268,
+      "name": "Por Si Te Quieres Quedar",
+      "url": "https://open.spotify.com/track/1IOFN550MP5nd2qRfoDaTG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "50 Meses Tarde (Ptm)",
         "url": "https://open.spotify.com/album/3paLg9Sbgy1gPf0TjAsAkf"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 214557,
       "name": "50 Meses Tarde (Ptm)",
       "url": "https://open.spotify.com/track/4Op6B7yG5b12Bh9UH1PYJE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Por Si Te Quieres Quedar",
-        "url": "https://open.spotify.com/album/5cKAoN0HixEqmJvIM9WyHC"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 214268,
-      "name": "Por Si Te Quieres Quedar",
-      "url": "https://open.spotify.com/track/1IOFN550MP5nd2qRfoDaTG"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kintsugi",
-        "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 184986,
-      "name": "A Un Minuto",
-      "url": "https://open.spotify.com/track/7oTjieahX5dLL0qkSg6eJi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MALOS Y BUENOS RECUERDOS",
         "url": "https://open.spotify.com/album/6u0PTQ94r3btRrTLnz37BI"
       },
@@ -771,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 184986,
+      "name": "A Un Minuto",
+      "url": "https://open.spotify.com/track/7oTjieahX5dLL0qkSg6eJi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Dealer",
         "url": "https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp"
       },
@@ -787,6 +787,26 @@
       "duration_ms": 204511,
       "name": "YA VA A VENIR",
       "url": "https://open.spotify.com/track/5799eYyRl2Q4rtlk5sCF6B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00f3lo Muere Si Se Olvida (Deluxe)",
+        "url": "https://open.spotify.com/album/0KTZkb2lyXX2FZ8vGfqxtH"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 173720,
+      "name": "S\u00f3lo Muere Si Se Olvida",
+      "url": "https://open.spotify.com/track/7qYju6UwLKU7FAwt1Vo597"
     },
     {
       "added_at": null,
@@ -827,22 +847,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3lo Muere Si Se Olvida (Deluxe)",
-        "url": "https://open.spotify.com/album/0KTZkb2lyXX2FZ8vGfqxtH"
+        "name": "En Medio De Este Ruido (Deluxe)",
+        "url": "https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB"
       },
       "artists": [
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        },
         {
           "name": "KURT",
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 173720,
-      "name": "S\u00f3lo Muere Si Se Olvida",
-      "url": "https://open.spotify.com/track/7qYju6UwLKU7FAwt1Vo597"
+      "duration_ms": 213626,
+      "name": "Escap\u00e9monos",
+      "url": "https://open.spotify.com/track/6tdoaUH3gbANwwcIwa8Pkc"
     },
     {
       "added_at": null,
@@ -863,22 +879,6 @@
       "duration_ms": 218573,
       "name": "La Mujer Perfecta",
       "url": "https://open.spotify.com/track/4nhbJAwQUwWxF3t3JwTROe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Medio De Este Ruido (Deluxe)",
-        "url": "https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Escap\u00e9monos",
-      "url": "https://open.spotify.com/track/6tdoaUH3gbANwwcIwa8Pkc"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Relax. Abbandonati alla musica e ritrova la tua tranquillit\u00e0.",
-  "num_followers": 673792,
+  "num_followers": 673796,
   "original_name": "No Stress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJbHlUg8zSVvvRRuZh0ump3zKNrx",
+  "snapshot_id": "AAAAAEdKWyXwlBIAe/WauBiBEl0lgC+1",
   "tracks": [
     {
       "added_at": "2026-05-07 22:04:19",
@@ -635,18 +635,18 @@
     {
       "added_at": "2026-05-07 22:04:19",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK"
+        "name": "James Bay Spotify Session 2015",
+        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
       },
       "artists": [
         {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 278200,
-      "name": "Green & Gold",
-      "url": "https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6"
+      "duration_ms": 236786,
+      "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
+      "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
     },
     {
       "added_at": "2026-05-07 22:04:19",
@@ -667,18 +667,18 @@
     {
       "added_at": "2026-05-07 22:04:19",
       "album": {
-        "name": "James Bay Spotify Session 2015",
-        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK"
       },
       "artists": [
         {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
         }
       ],
-      "duration_ms": 236786,
-      "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
-      "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
+      "duration_ms": 278200,
+      "name": "Green & Gold",
+      "url": "https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6"
     },
     {
       "added_at": "2026-05-07 22:04:19",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-05-07 22:04:19",
       "album": {
+        "name": "Emily",
+        "url": "https://open.spotify.com/album/4eUkjbFmGRPNuFZ8v4ytJo"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 203002,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/7qGzlqZnl6j8qccvV70PhL"
+    },
+    {
+      "added_at": "2026-05-07 22:04:19",
+      "album": {
         "name": "Is It Just Me?",
         "url": "https://open.spotify.com/album/3DgJhCabZjQ3zMcw0E8zWX"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 203300,
       "name": "Is It Just Me? (feat. JP Cooper)",
       "url": "https://open.spotify.com/track/754zNJgoWQaGETFzSYVlmC"
-    },
-    {
-      "added_at": "2026-05-07 22:04:19",
-      "album": {
-        "name": "Emily",
-        "url": "https://open.spotify.com/album/4eUkjbFmGRPNuFZ8v4ytJo"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 203002,
-      "name": "Emily",
-      "url": "https://open.spotify.com/track/7qGzlqZnl6j8qccvV70PhL"
     },
     {
       "added_at": "2026-05-07 22:04:19",

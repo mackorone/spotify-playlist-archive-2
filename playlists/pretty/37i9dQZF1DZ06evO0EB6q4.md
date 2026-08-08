@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,382 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,412 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EB6q4.md) - [plain]
 | 49 | [TRAGO \#1 LOLOLO](https://open.spotify.com/track/4hwdIStMgDWTkFBoNSwlM8) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Altafulla](https://open.spotify.com/artist/0Tr6PMUYJ3MupljA0MS4Dy), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [TRAGO \#1 LOLOLO](https://open.spotify.com/album/1ASpVS2RnpVQ3PdBh2rhd8) | 3:05 |
 | 50 | [DE ROCE](https://open.spotify.com/track/4RUgTRaPNQqcIinIVZu1S2) | [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [DE ROCE](https://open.spotify.com/album/2lWUfYaJjdQsg3sLQ3XTJq) | 3:41 |
 
-Snapshot ID: `anJ9AAAAAAD0WpzAQ9blM2TwaqN4pMqG`
+Snapshot ID: `anPOgAAAAAAOCbziKW3SN4PPKOmS1zee`

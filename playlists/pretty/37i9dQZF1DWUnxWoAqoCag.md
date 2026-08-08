@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnxWoAqoCag.md) - [plain]
 
 > 歌詞を見ながら、ヒット曲を歌い尽くそう ！
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,694 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,712 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,18 +64,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnxWoAqoCag.md) - [plain]
 | 54 | [おつかれSUMMER](https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV) | [HALCALI](https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa) | [ハルカリベーコン](https://open.spotify.com/album/34DlUyrOTrblC8MYGPKO7c) | 3:59 |
 | 55 | [NIGHT DANCER](https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [NIGHT DANCER](https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy) | 3:30 |
 | 56 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 |
-| 57 | [怪獣](https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [怪獣](https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT) | 4:12 |
-| 58 | [愛を伝えたいだとか](https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 3:55 |
+| 57 | [愛を伝えたいだとか](https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 3:55 |
+| 58 | [怪獣](https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [怪獣](https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT) | 4:12 |
 | 59 | [怪獣の花唄](https://open.spotify.com/track/7dTW21YAJxnAOiUh7Rtu9S) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4gsij82NzREEwKhC0dTvHE) | 3:44 |
 | 60 | [Five](https://open.spotify.com/track/2cIqVZFyBH8h5dnrzBvtre) | [ARASHI](https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C) | [Five](https://open.spotify.com/album/2ZujTUIlfon5IhGbUfFaYO) | 4:27 |
 | 61 | [アイドルパワー](https://open.spotify.com/track/3NPdo1QXqBKIoQAX2xSCRJ) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [アイドルパワー](https://open.spotify.com/album/1CJyjDDAIrzKNn4nPWvgsR) | 3:50 |
-| 62 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 |
-| 63 | [マリーゴールド](https://open.spotify.com/track/2cKiHG16JBiqHdi7Llq0r7) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞬間的シックスセンス](https://open.spotify.com/album/7fIqmc4GIaueaiAoDifAaA) | 5:06 |
+| 62 | [マリーゴールド](https://open.spotify.com/track/2cKiHG16JBiqHdi7Llq0r7) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞬間的シックスセンス](https://open.spotify.com/album/7fIqmc4GIaueaiAoDifAaA) | 5:06 |
+| 63 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 |
 | 64 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 |
 | 65 | [僕のこと](https://open.spotify.com/track/0tnhoHUrHfcLi9hPknUFZ4) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Attitude](https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V) | 5:21 |
 | 66 | [奏\(かなで\)](https://open.spotify.com/track/5RbMlPFL4gVyEHW2lEOuzG) | [Sukima Switch](https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m) | [夏雲ノイズ](https://open.spotify.com/album/3YV5ztLRDjPYgtVvu8LswR) | 5:28 |
-| 67 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
-| 68 | [君はロックを聴かない](https://open.spotify.com/track/59eluCMn0XbOWqeWQ91FTM) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 4:06 |
+| 67 | [君はロックを聴かない](https://open.spotify.com/track/59eluCMn0XbOWqeWQ91FTM) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 4:06 |
+| 68 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
 | 69 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 |
 | 70 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 |
 | 71 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnxWoAqoCag.md) - [plain]
 | 87 | [Blue Jeans](https://open.spotify.com/track/5klNADgwB1K5j2quV0SCDL) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Blue Jeans](https://open.spotify.com/album/0VAZse9RXTDM3rOavD1tw6) | 3:26 |
 | 88 | [プロポーズ](https://open.spotify.com/track/2VmWOZiKDnLq373THopgWC) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [プロポーズ](https://open.spotify.com/album/6onUW6AACVL5Fl4HTGmLuq) | 2:58 |
 | 89 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 |
-| 90 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 |
-| 91 | [薄ら氷心中](https://open.spotify.com/track/1DxOabtnI3W4ouECc6AdyT) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [逆輸入 〜航空局〜](https://open.spotify.com/album/4IyZbkR6R4oIcuckwSrJQj) | 3:12 |
+| 90 | [薄ら氷心中](https://open.spotify.com/track/1DxOabtnI3W4ouECc6AdyT) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [逆輸入 〜航空局〜](https://open.spotify.com/album/4IyZbkR6R4oIcuckwSrJQj) | 3:12 |
+| 91 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 |
 | 92 | [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 |
 | 93 | [Mela!](https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Mela!](https://open.spotify.com/album/1a6MAP1V8kZfvmLFzhn0QG) | 4:02 |
 | 94 | [Mirage](https://open.spotify.com/track/3GVNp2UgIp2TN3ra67cxdg) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Mirage](https://open.spotify.com/album/2qveemGCix2UWsDkepaq7G) | 2:18 |
-| 95 | [Bad Girl](https://open.spotify.com/track/2bLQ0HMyuUWI7uPRzCy5Lo) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Bad Girl](https://open.spotify.com/album/3v96qe3pw2Jz8xw0BrNXAH) | 3:34 |
-| 96 | [丸ノ内サディスティック](https://open.spotify.com/track/1mWN1USPKg632qQXG9sfDL) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [無罪モラトリアム](https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2) | 3:55 |
-| 97 | [プラネタリウム](https://open.spotify.com/track/3zfyzbHuqcT2AAffAyLm02) | [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [LOVE COOK](https://open.spotify.com/album/1QxbZHEnnPpSRobXGQBjaZ) | 5:07 |
+| 95 | [丸ノ内サディスティック](https://open.spotify.com/track/1mWN1USPKg632qQXG9sfDL) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [無罪モラトリアム](https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2) | 3:55 |
+| 96 | [プラネタリウム](https://open.spotify.com/track/3zfyzbHuqcT2AAffAyLm02) | [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [LOVE COOK](https://open.spotify.com/album/1QxbZHEnnPpSRobXGQBjaZ) | 5:07 |
+| 97 | [Bad Girl](https://open.spotify.com/track/2bLQ0HMyuUWI7uPRzCy5Lo) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Bad Girl](https://open.spotify.com/album/3v96qe3pw2Jz8xw0BrNXAH) | 3:34 |
 | 98 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 |
 | 99 | [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 |
 | 100 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 |
 
-Snapshot ID: `AAAAAIzN5h84rTiUV+3nYqB0wSLK++ik`
+Snapshot ID: `AAAAAGTt3qandxIfXENdMzPG93x5xG+l`

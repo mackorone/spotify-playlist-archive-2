@@ -1,12 +1,12 @@
 {
   "description": "Amp up your commute with rock hits, new and old. ",
-  "num_followers": 611003,
+  "num_followers": 611110,
   "original_name": "Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACBfqVlDglTd6v6WoUveR4791uiv",
+  "snapshot_id": "AAAAAElIojuqg9UoAI09/ajVv51m3vOo",
   "tracks": [
     {
       "added_at": "2026-07-10 04:01:53",
@@ -107,18 +107,18 @@
     {
       "added_at": "2026-07-10 04:01:53",
       "album": {
-        "name": "Freakin\u2019 Out",
-        "url": "https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf"
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
       "artists": [
         {
-          "name": "Dexter and The Moonrocks",
-          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 217897,
-      "name": "Freakin\u2019 Out",
-      "url": "https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7"
+      "duration_ms": 250546,
+      "name": "Everlong",
+      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
     },
     {
       "added_at": "2026-07-10 04:01:53",
@@ -155,18 +155,18 @@
     {
       "added_at": "2026-07-10 04:01:53",
       "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+        "name": "Freakin\u2019 Out",
+        "url": "https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf"
       },
       "artists": [
         {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          "name": "Dexter and The Moonrocks",
+          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
         }
       ],
-      "duration_ms": 250546,
-      "name": "Everlong",
-      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
+      "duration_ms": 217897,
+      "name": "Freakin\u2019 Out",
+      "url": "https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7"
     },
     {
       "added_at": "2026-07-10 04:01:53",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-07-10 04:01:53",
       "album": {
-        "name": "Three Days Grace",
-        "url": "https://open.spotify.com/album/13topfW33NjnACjnRiZBX7"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 231480,
-      "name": "I Hate Everything About You",
-      "url": "https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi"
-    },
-    {
-      "added_at": "2026-07-10 04:01:53",
-      "album": {
         "name": "Americana",
         "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 180160,
       "name": "The Kids Aren't Alright",
       "url": "https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"
+    },
+    {
+      "added_at": "2026-07-10 04:01:53",
+      "album": {
+        "name": "Three Days Grace",
+        "url": "https://open.spotify.com/album/13topfW33NjnACjnRiZBX7"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 231480,
+      "name": "I Hate Everything About You",
+      "url": "https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi"
     },
     {
       "added_at": "2026-07-10 04:01:53",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-07-10 04:01:53",
       "album": {
-        "name": "Insomniac",
-        "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Brain Stew",
-      "url": "https://open.spotify.com/track/1nLnpLXvl68RZCSjfkyiaa"
-    },
-    {
-      "added_at": "2026-07-10 04:01:53",
-      "album": {
         "name": "Audioslave",
         "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 293960,
       "name": "Like a Stone",
       "url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"
+    },
+    {
+      "added_at": "2026-07-10 04:01:53",
+      "album": {
+        "name": "Insomniac",
+        "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Brain Stew",
+      "url": "https://open.spotify.com/track/1nLnpLXvl68RZCSjfkyiaa"
     },
     {
       "added_at": "2026-07-10 04:01:53",
@@ -507,18 +507,18 @@
     {
       "added_at": "2026-07-10 04:01:53",
       "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+        "name": "Break the Cycle",
+        "url": "https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
         }
       ],
-      "duration_ms": 153466,
-      "name": "Good Riddance (Time of Your Life)",
-      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
+      "duration_ms": 264706,
+      "name": "It's Been Awhile",
+      "url": "https://open.spotify.com/track/25CMmGsl22APKhfuj4Tp7j"
     },
     {
       "added_at": "2026-07-10 04:01:53",
@@ -535,22 +535,6 @@
       "duration_ms": 124554,
       "name": "I'm Never Gonna R.I.P.",
       "url": "https://open.spotify.com/track/30A5B0l4yBknR1UPYZIEU0"
-    },
-    {
-      "added_at": "2026-07-10 04:01:53",
-      "album": {
-        "name": "Break the Cycle",
-        "url": "https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt"
-      },
-      "artists": [
-        {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
-        }
-      ],
-      "duration_ms": 264706,
-      "name": "It's Been Awhile",
-      "url": "https://open.spotify.com/track/25CMmGsl22APKhfuj4Tp7j"
     },
     {
       "added_at": "2026-07-10 04:01:53",
@@ -615,6 +599,22 @@
       "duration_ms": 216933,
       "name": "By the Way",
       "url": "https://open.spotify.com/track/1f2V8U1BiWaC9aJWmpOARe"
+    },
+    {
+      "added_at": "2026-07-10 04:01:53",
+      "album": {
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 153466,
+      "name": "Good Riddance (Time of Your Life)",
+      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
     },
     {
       "added_at": "2026-07-10 04:01:53",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-07-10 04:01:53",
       "album": {
-        "name": "Wonder What's Next (Expanded Edition)",
-        "url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
-      },
-      "artists": [
-        {
-          "name": "Chevelle",
-          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "The Red",
-      "url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU"
-    },
-    {
-      "added_at": "2026-07-10 04:01:53",
-      "album": {
         "name": "The Sickness",
         "url": "https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 279213,
       "name": "Down with the Sickness",
       "url": "https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v"
+    },
+    {
+      "added_at": "2026-07-10 04:01:53",
+      "album": {
+        "name": "Wonder What's Next (Expanded Edition)",
+        "url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+      },
+      "artists": [
+        {
+          "name": "Chevelle",
+          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "The Red",
+      "url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU"
     },
     {
       "added_at": "2026-07-10 04:01:53",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-07-10 04:01:53",
       "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 193506,
-      "name": "Last Nite",
-      "url": "https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA"
-    },
-    {
-      "added_at": "2026-07-10 04:01:53",
-      "album": {
         "name": "Ten Thousand Fists",
         "url": "https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 245226,
       "name": "Stricken",
       "url": "https://open.spotify.com/track/6RJdYpFQwLyNfDc5FbjkgV"
+    },
+    {
+      "added_at": "2026-07-10 04:01:53",
+      "album": {
+        "name": "Is This It",
+        "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 193506,
+      "name": "Last Nite",
+      "url": "https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA"
     },
     {
       "added_at": "2026-07-10 04:01:53",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-07-10 04:01:53",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
-      },
-      "artists": [
-        {
-          "name": "Alien Ant Farm",
-          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "Smooth Criminal",
-      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
-    },
-    {
-      "added_at": "2026-07-10 04:01:53",
-      "album": {
         "name": "Evil Empire",
         "url": "https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 229466,
       "name": "Bulls On Parade",
       "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
+    },
+    {
+      "added_at": "2026-07-10 04:01:53",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
+      },
+      "artists": [
+        {
+          "name": "Alien Ant Farm",
+          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "Smooth Criminal",
+      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
     },
     {
       "added_at": "2026-07-10 04:01:53",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2026-07-10 04:01:53",
       "album": {
+        "name": "The Autumn Effect",
+        "url": "https://open.spotify.com/album/1VlMcoG1aI4E4kBIVoH5cp"
+      },
+      "artists": [
+        {
+          "name": "10 Years",
+          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
+        }
+      ],
+      "duration_ms": 229866,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/3pO37BXsjMC2wApALxGbuB"
+    },
+    {
+      "added_at": "2026-07-10 04:01:53",
+      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 186533,
       "name": "Hash Pipe",
       "url": "https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn"
-    },
-    {
-      "added_at": "2026-07-10 04:01:53",
-      "album": {
-        "name": "The Autumn Effect",
-        "url": "https://open.spotify.com/album/1VlMcoG1aI4E4kBIVoH5cp"
-      },
-      "artists": [
-        {
-          "name": "10 Years",
-          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
-        }
-      ],
-      "duration_ms": 229866,
-      "name": "Wasteland",
-      "url": "https://open.spotify.com/track/3pO37BXsjMC2wApALxGbuB"
     },
     {
       "added_at": "2026-07-10 04:01:53",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2026-07-10 04:01:53",
       "album": {
-        "name": "So Long, Astoria",
-        "url": "https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg"
-      },
-      "artists": [
-        {
-          "name": "The Ataris",
-          "url": "https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "The Boys of Summer",
-      "url": "https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy"
-    },
-    {
-      "added_at": "2026-07-10 04:01:53",
-      "album": {
         "name": "Renegades",
         "url": "https://open.spotify.com/album/6iVOwFVjFRoQPgj8GUwSsi"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 274160,
       "name": "Renegades Of Funk",
       "url": "https://open.spotify.com/track/5YBVDvTSSSiqv7KZDeUlXA"
+    },
+    {
+      "added_at": "2026-07-10 04:01:53",
+      "album": {
+        "name": "So Long, Astoria",
+        "url": "https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg"
+      },
+      "artists": [
+        {
+          "name": "The Ataris",
+          "url": "https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "The Boys of Summer",
+      "url": "https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy"
     },
     {
       "added_at": "2026-07-10 04:01:53",

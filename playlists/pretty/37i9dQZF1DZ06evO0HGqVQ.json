@@ -1,12 +1,12 @@
 {
   "description": "This is Los inquietos del vallenato. The essential tracks, all in one playlist.",
-  "num_followers": 32208,
+  "num_followers": 32212,
   "original_name": "This Is Los inquietos del vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAB1obZFaV1vZzzEqzahFHxS",
+  "snapshot_id": "anPOgAAAAACwz+YUus+9gI6i/jv8/DKV",
   "tracks": [
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU"
+        "name": "Volver a Triunfar",
+        "url": "https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 309426,
-      "name": "Toma Tu Recuerdo",
-      "url": "https://open.spotify.com/track/5dZUKXiKkDoVXGTmXajMQW"
+      "duration_ms": 255253,
+      "name": "Mi Soledad",
+      "url": "https://open.spotify.com/track/2WEhsbO6w0K33ag59IKpIW"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volver a Triunfar",
-        "url": "https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO"
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 255253,
-      "name": "Mi Soledad",
-      "url": "https://open.spotify.com/track/2WEhsbO6w0K33ag59IKpIW"
+      "duration_ms": 309426,
+      "name": "Toma Tu Recuerdo",
+      "url": "https://open.spotify.com/track/5dZUKXiKkDoVXGTmXajMQW"
     },
     {
       "added_at": null,

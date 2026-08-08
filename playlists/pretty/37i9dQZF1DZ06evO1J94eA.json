@@ -1,12 +1,12 @@
 {
   "description": "This is Herbie Hancock. The essential tracks, all in one playlist.",
-  "num_followers": 43064,
+  "num_followers": 43069,
   "original_name": "This Is Herbie Hancock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAA+uchKZxDOJ/OuZoo8nvth",
+  "snapshot_id": "anPOgAAAAABt9VAAGzZl19qaEt9LqSln",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fat Albert Rotunda",
-        "url": "https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 229026,
-      "name": "Fat Mama",
-      "url": "https://open.spotify.com/track/2UiZAyT2L529zh4PuDvH4J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Head Hunters",
         "url": "https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 944616,
       "name": "Chameleon",
       "url": "https://open.spotify.com/track/4Ce66JznW8QbeyTdSzdGwR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fat Albert Rotunda",
+        "url": "https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 229026,
+      "name": "Fat Mama",
+      "url": "https://open.spotify.com/track/2UiZAyT2L529zh4PuDvH4J"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gershwin's World",
-        "url": "https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 356160,
-      "name": "The Man I Love",
-      "url": "https://open.spotify.com/track/0L1S8G9IuCssiPQgr0uEBo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Man-Child",
         "url": "https://open.spotify.com/album/5ez9bb1h1hOLV8Wb5YCmkj"
       },
@@ -587,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Imagine Project",
+        "url": "https://open.spotify.com/album/418IYElTJziJTcSaxJy2PA"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 283706,
+      "name": "Tempo de Amor",
+      "url": "https://open.spotify.com/track/2sas1gLt9n02iHVKKlXj2s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maiden Voyage (Remastered 1999/Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
       },
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Imagine Project",
-        "url": "https://open.spotify.com/album/418IYElTJziJTcSaxJy2PA"
+        "name": "Gershwin's World",
+        "url": "https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 283706,
-      "name": "Tempo de Amor",
-      "url": "https://open.spotify.com/track/2sas1gLt9n02iHVKKlXj2s"
+      "duration_ms": 356160,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/0L1S8G9IuCssiPQgr0uEBo"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/67PT7U66Ql5HXNf5hP5zzC"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 538743,
-      "name": "I Thought It Was You",
-      "url": "https://open.spotify.com/track/0taRW8bPp2xW6ewm6PDMTZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Empyrean Isles (Expanded Edition)",
         "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 510653,
       "name": "Oliloqui Valley - Remastered",
       "url": "https://open.spotify.com/track/3NYiJLsWCBMBekvF6J4s0B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/67PT7U66Ql5HXNf5hP5zzC"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 538743,
+      "name": "I Thought It Was You",
+      "url": "https://open.spotify.com/track/0taRW8bPp2xW6ewm6PDMTZ"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Hands",
-        "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 385048,
-      "name": "Spiraling Prism",
-      "url": "https://open.spotify.com/track/1FeJFOwVnDVgXA5VCORBtY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Empyrean Isles (Expanded Edition)",
         "url": "https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu"
       },
@@ -779,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrust",
-        "url": "https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k"
+        "name": "Mr. Hands",
+        "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
       },
       "artists": [
         {
@@ -788,9 +772,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 581715,
-      "name": "Actual Proof",
-      "url": "https://open.spotify.com/track/1Aix42Q7mxGLMDglHhIOg3"
+      "duration_ms": 456104,
+      "name": "Just Around the Corner",
+      "url": "https://open.spotify.com/track/157EYJlm1CLRdjmEw3dCqG"
     },
     {
       "added_at": null,
@@ -815,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Hands",
-        "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k"
       },
       "artists": [
         {
@@ -824,9 +808,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 456104,
-      "name": "Just Around the Corner",
-      "url": "https://open.spotify.com/track/157EYJlm1CLRdjmEw3dCqG"
+      "duration_ms": 581715,
+      "name": "Actual Proof",
+      "url": "https://open.spotify.com/track/1Aix42Q7mxGLMDglHhIOg3"
     },
     {
       "added_at": null,
@@ -851,6 +835,22 @@
       "duration_ms": 293800,
       "name": "Don't Explain (feat. Damien Rice & Lisa Hannigan)",
       "url": "https://open.spotify.com/track/27lQw3vZM8nWPweH7nxnox"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Hands",
+        "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 385048,
+      "name": "Spiraling Prism",
+      "url": "https://open.spotify.com/track/1FeJFOwVnDVgXA5VCORBtY"
     }
   ],
   "unique_name": "This Is Herbie Hancock",

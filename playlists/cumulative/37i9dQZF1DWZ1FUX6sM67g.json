@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A Mi Tierra",
+        "url": "https://open.spotify.com/album/6GECy1dVAcB6J1uGjMnn03"
+      },
+      "artists": [
+        {
+          "name": "Adriana Lucia",
+          "url": "https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205325,
+      "name": "A Mi Tierra",
+      "url": "https://open.spotify.com/track/5YdfRELV93WXtfJ0W0bnM5"
+    },
+    {
+      "album": {
         "name": "Con Aroma de Mujer",
         "url": "https://open.spotify.com/album/09xubrMSDM95JYSUJQk0Ii"
       },
@@ -2105,6 +2123,24 @@
     },
     {
       "album": {
+        "name": "Andr\u00e9s Cepeda Big Band 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/0fHDVxeLaVosk2hNYpRoWz"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166549,
+      "name": "El Merecumb\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/3r1pPqfX80lPStJDuoagAi"
+    },
+    {
+      "album": {
         "name": "El Merengue",
         "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
       },
@@ -3622,7 +3658,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 173796,
       "name": "Le Viene Bien",
       "url": "https://open.spotify.com/track/7r13JeH7jMKCrAJvtcfiL3"
@@ -5416,7 +5452,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 264757,
       "name": "Se\u00f1or Juez",
       "url": "https://open.spotify.com/track/2PH533J1xudlfZ5GaHAdVX"

@@ -6,8 +6,24 @@
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAD72IPEpQ+wBqzT/uAcIIIUY0ayobW",
+  "snapshot_id": "AAAD+PHo+CBjYrTRDomo3U0xyj4k6k5B",
   "tracks": [
+    {
+      "added_at": "2026-08-07 15:56:33",
+      "album": {
+        "name": "In View (Live July 22 - August 20, 2016)",
+        "url": "https://open.spotify.com/album/0mYTOBcqWfaYuraLGpcyas"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "duration_ms": 232240,
+      "name": "In View - Live July 22 - August 20, 2016",
+      "url": "https://open.spotify.com/track/5QTVHUdzLlECMpW85caLcT"
+    },
     {
       "added_at": "2026-08-01 17:01:43",
       "album": {
@@ -23,6 +39,74 @@
       "duration_ms": 196866,
       "name": "Michelle (Take 1)",
       "url": "https://open.spotify.com/track/2uL6BUZXAz6DmyAvk7Eb9z"
+    },
+    {
+      "added_at": "2026-08-07 15:57:30",
+      "album": {
+        "name": "Watching The Detectives",
+        "url": "https://open.spotify.com/album/1azMmqkZ606Y5sKdJkntgK"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello",
+          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+        }
+      ],
+      "duration_ms": 169720,
+      "name": "Watching The Detectives - Live at Good Afternoon (Broadcast) / September 27th, 1977",
+      "url": "https://open.spotify.com/track/5MGyifUic4qgn8rAY01aus"
+    },
+    {
+      "added_at": "2026-08-07 15:57:59",
+      "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/08S8Cftjk2s1H1HBtCOqYw"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 299042,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE"
+    },
+    {
+      "added_at": "2026-08-07 15:58:22",
+      "album": {
+        "name": "Ben Folds Five",
+        "url": "https://open.spotify.com/album/2zNa1aZ0VaGfuiNqDbrQET"
+      },
+      "artists": [
+        {
+          "name": "Ben Folds Five",
+          "url": "https://open.spotify.com/artist/44gRHbEm4Uqa0ykW0rDTNk"
+        }
+      ],
+      "duration_ms": 276506,
+      "name": "Philosophy",
+      "url": "https://open.spotify.com/track/1e0xsmVXtQyK1qn9ySs2YM"
+    },
+    {
+      "added_at": "2026-08-07 15:58:34",
+      "album": {
+        "name": "Hungry Freaks, Daddy (1966 Mono Mix)",
+        "url": "https://open.spotify.com/album/05WtfV8JrQfObyPJL0DPCQ"
+      },
+      "artists": [
+        {
+          "name": "The Mothers Of Invention",
+          "url": "https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL"
+        },
+        {
+          "name": "Frank Zappa",
+          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+        }
+      ],
+      "duration_ms": 210407,
+      "name": "Hungry Freaks, Daddy - 1966 Mono Mix",
+      "url": "https://open.spotify.com/track/6Rgktxr6PvjqnAsotRGGN3"
     },
     {
       "added_at": "2026-08-01 17:01:53",

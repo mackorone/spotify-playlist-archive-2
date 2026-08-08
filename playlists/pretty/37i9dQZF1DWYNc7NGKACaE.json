@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 83230,
+  "num_followers": 83223,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACmPKIdLbLEYfpRA+n3GnLS+djQB",
+  "snapshot_id": "AAAAAGk0c1JVeXxOk1iKQTGnmMVw2h+q",
   "tracks": [
     {
       "added_at": "2024-07-08 19:10:57",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "NICOTINA",
+        "url": "https://open.spotify.com/album/7LKZ9qghbdNjUoJbgB7NqN"
+      },
+      "artists": [
+        {
+          "name": "JOTTAH",
+          "url": "https://open.spotify.com/artist/0RF6epzmUunILCJbvVdUhN"
+        }
+      ],
+      "duration_ms": 90240,
+      "name": "NICOTINA - Speed",
+      "url": "https://open.spotify.com/track/3t9hTeE5S3xPukz92FFRhU"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Sustenta a Botada",
         "url": "https://open.spotify.com/album/3Tu7tNLNVCZ4jREeuNDgde"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 144915,
       "name": "Sustenta a Botada - Speed",
       "url": "https://open.spotify.com/track/3NasCuQlgrfNliqJT9pSG9"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "NICOTINA",
-        "url": "https://open.spotify.com/album/7LKZ9qghbdNjUoJbgB7NqN"
-      },
-      "artists": [
-        {
-          "name": "JOTTAH",
-          "url": "https://open.spotify.com/artist/0RF6epzmUunILCJbvVdUhN"
-        }
-      ],
-      "duration_ms": 90240,
-      "name": "NICOTINA - Speed",
-      "url": "https://open.spotify.com/track/3t9hTeE5S3xPukz92FFRhU"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -991,6 +991,30 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
+        "url": "https://open.spotify.com/album/3xRQIsFyx99ERIDNL7T7eA"
+      },
+      "artists": [
+        {
+          "name": "ARTHUR DE AFC",
+          "url": "https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb"
+        },
+        {
+          "name": "Funk S\u00c9RIE GOLD",
+          "url": "https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n"
+        },
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 168615,
+      "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
+      "url": "https://open.spotify.com/track/7mSweyinAvjEFBy6sSTjkg"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "N\u00e3o Fosse T\u00e3o Tarde (Speed)",
         "url": "https://open.spotify.com/album/2sLiC8147QVvg2iOgxPz1u"
       },
@@ -1019,30 +1043,6 @@
       "duration_ms": 202452,
       "name": "Hoje Ela Pede Pandora ( Speed Up)",
       "url": "https://open.spotify.com/track/03iw5tUT1HLxI0pnlKKiKV"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Imprevisto \u2013 Speed",
-        "url": "https://open.spotify.com/album/7iU3KlCks9lXfrbTUu36ot"
-      },
-      "artists": [
-        {
-          "name": "Yago Oproprio",
-          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
-        },
-        {
-          "name": "Skeeter Beats",
-          "url": "https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H"
-        },
-        {
-          "name": "R\u00f4 Rosa",
-          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
-        }
-      ],
-      "duration_ms": 118666,
-      "name": "Imprevisto \u2013 Speed",
-      "url": "https://open.spotify.com/track/2mgnSTCwWvi61c12eYVGdy"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -1083,6 +1083,30 @@
       "duration_ms": 202666,
       "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
       "url": "https://open.spotify.com/track/05UzengsM8WqaRbwgLcn6f"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Imprevisto \u2013 Speed",
+        "url": "https://open.spotify.com/album/7iU3KlCks9lXfrbTUu36ot"
+      },
+      "artists": [
+        {
+          "name": "Yago Oproprio",
+          "url": "https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497"
+        },
+        {
+          "name": "Skeeter Beats",
+          "url": "https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H"
+        },
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        }
+      ],
+      "duration_ms": 118666,
+      "name": "Imprevisto \u2013 Speed",
+      "url": "https://open.spotify.com/track/2mgnSTCwWvi61c12eYVGdy"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -1159,22 +1183,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "O Que Adianta B\u00ea, Ser T\u00e3o Gostosa Se Ela \u00c9 da Farra, Bandida Treinada",
-        "url": "https://open.spotify.com/album/7df6QDvBmyLjLhrby1VfUW"
-      },
-      "artists": [
-        {
-          "name": "PL JUNIOR",
-          "url": "https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0"
-        }
-      ],
-      "duration_ms": 121543,
-      "name": "O Que Adianta B\u00ea, Ser T\u00e3o Gostosa Se Ela \u00c9 da Farra, Bandida Treinada",
-      "url": "https://open.spotify.com/track/6Q9cuXO5sgz7ValLDMyCMU"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
         "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
       },
@@ -1187,6 +1195,22 @@
       "duration_ms": 176538,
       "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
       "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "O Que Adianta B\u00ea, Ser T\u00e3o Gostosa Se Ela \u00c9 da Farra, Bandida Treinada",
+        "url": "https://open.spotify.com/album/7df6QDvBmyLjLhrby1VfUW"
+      },
+      "artists": [
+        {
+          "name": "PL JUNIOR",
+          "url": "https://open.spotify.com/artist/0aRFRMsUrV2E2pFu8VbMc0"
+        }
+      ],
+      "duration_ms": 121543,
+      "name": "O Que Adianta B\u00ea, Ser T\u00e3o Gostosa Se Ela \u00c9 da Farra, Bandida Treinada",
+      "url": "https://open.spotify.com/track/6Q9cuXO5sgz7ValLDMyCMU"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -1207,30 +1231,6 @@
       "duration_ms": 168857,
       "name": "Boa Noite, DEUS (Sped Up)",
       "url": "https://open.spotify.com/track/6JcfaecQ8RsDQXTFqs7zJl"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
-        "url": "https://open.spotify.com/album/3xRQIsFyx99ERIDNL7T7eA"
-      },
-      "artists": [
-        {
-          "name": "ARTHUR DE AFC",
-          "url": "https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb"
-        },
-        {
-          "name": "Funk S\u00c9RIE GOLD",
-          "url": "https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n"
-        },
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 168615,
-      "name": "TRABALHANDO MUITO, Quem \u00e9 Voc\u00ea Seu Com\u00e9dia",
-      "url": "https://open.spotify.com/track/7mSweyinAvjEFBy6sSTjkg"
     },
     {
       "added_at": "2024-07-08 19:10:57",

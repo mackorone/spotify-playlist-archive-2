@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 
 > Discover the path back to an era of enlightenment 🌅✨🧘‍♂️
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,018 likes - 100 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,047 likes - 100 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 41 | [The Fifth Wave \- Water Lullaby](https://open.spotify.com/track/48Ts7bGN2VeEVaLzKWet5U) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Seven Waves](https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3) | 5:47 |
 | 42 | [Formentera Sunset Clouds](https://open.spotify.com/track/0hds7dcDAF2XkSqD5fycti) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 4:50 |
 | 43 | [The Mermaid](https://open.spotify.com/track/121rsnNOWZusu5fTGCb1XY) | [Yanni](https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz) | [Out Of Silence](https://open.spotify.com/album/0G37K8IC27QEk9lNPjHjJz) | 3:47 |
-| 44 | [Hergest Ridge: Part One \- 2010 Stereo Mix](https://open.spotify.com/track/5v0CptwAhZ5HoNplFTk4CB) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [Hergest Ridge \(Deluxe Edition\)](https://open.spotify.com/album/1VvB8ygrV7cREvzpkqQWFG) | 19:21 |
-| 45 | [Cosmic Energy](https://open.spotify.com/track/4x27wFCcAxSDHQBvRp5o5p) | [Kitaro](https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY) | [Oasis \[Remastered\]](https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA) | 8:09 |
+| 44 | [Cosmic Energy](https://open.spotify.com/track/4x27wFCcAxSDHQBvRp5o5p) | [Kitaro](https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY) | [Oasis \[Remastered\]](https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA) | 8:09 |
+| 45 | [Hergest Ridge: Part One \- 2010 Stereo Mix](https://open.spotify.com/track/5v0CptwAhZ5HoNplFTk4CB) | [Mike Oldfield](https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn) | [Hergest Ridge \(Deluxe Edition\)](https://open.spotify.com/album/1VvB8ygrV7cREvzpkqQWFG) | 19:21 |
 | 46 | [Garden Of Paradise](https://open.spotify.com/track/4lNSQYwalYgYczSXfW72UI) | [Steve Hillage](https://open.spotify.com/artist/4ruO9Y424Hf796fUGMLKcC) | [Rainbow Dome Musick](https://open.spotify.com/album/4g631XQPF1MQrY5znRrc8D) | 23:14 |
 | 47 | [Carnation Lily Lily Rose](https://open.spotify.com/track/41SpUaJByH1FIxiYeZUmSi) | [David Arkenstone](https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0), [Andrew White](https://open.spotify.com/artist/6SkbDEpXcIA4hXjre6qFLT) | [Island](https://open.spotify.com/album/7FKNk8OPsuVSlAx9sBXtZr) | 4:48 |
 | 48 | [Crystal Petals](https://open.spotify.com/track/58FEt2axLMIzvw6LtGZAZP) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 3:20 |
@@ -79,11 +79,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 69 | [Glide III](https://open.spotify.com/track/6bmHCvu6qgO6roOubB3Ga5) | [Peter Davison](https://open.spotify.com/artist/5hLJQt5bIzxV7O0HvYNFqy) | [Glide/Star Gazer](https://open.spotify.com/album/2Rk837DGOC1KWlqBHjWz9K) | 8:25 |
 | 70 | [Stained\-Glass Morning](https://open.spotify.com/track/2FLfPTjk346lxtEkXoJSFK) | [Paul Winter](https://open.spotify.com/artist/4ZmNj7bRSU3YCtH0oaJSef) | [Missa Gaia \- Earth Mass](https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru) | 1:54 |
 | 71 | [Abraxas](https://open.spotify.com/track/6dwE9pYlCT9K1XDyUHk8d2) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Aum](https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo) | 1:56 |
-| 72 | [Lifeforce Celebration](https://open.spotify.com/track/5FI2qrfwNS8Leq5Vo3txcu) | [Emerald Web](https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe) | [Dragon Wings and Wizard Tales](https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf) | 4:09 |
+| 72 | [Pagnifico \- Remastered](https://open.spotify.com/track/0VDYvtQF5rtN9a7XshFZCd) | [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq) | [Open Like a Flute](https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP) | 17:21 |
 | 73 | [Soaring: Crown Chakra](https://open.spotify.com/track/7yCRHqTkHqgk5adoUbZyiP) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [A Rainbow Path](https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY) | 6:34 |
-| 74 | [Pagnifico \- Remastered](https://open.spotify.com/track/0VDYvtQF5rtN9a7XshFZCd) | [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq) | [Open Like a Flute](https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP) | 17:21 |
-| 75 | [For The Beauty Of The Earth \- Instrumental](https://open.spotify.com/track/5PjnCekj1D0FtZzaaCA4tU) | [Paul Winter](https://open.spotify.com/artist/4ZmNj7bRSU3YCtH0oaJSef) | [Missa Gaia \- Earth Mass](https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru) | 2:29 |
-| 76 | [Koto](https://open.spotify.com/track/7spWddYJhxpkPz8TFOSWtD) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Pathless Path](https://open.spotify.com/album/5XjnuZHb9Int91DwZka2ok) | 3:46 |
+| 74 | [Lifeforce Celebration](https://open.spotify.com/track/5FI2qrfwNS8Leq5Vo3txcu) | [Emerald Web](https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe) | [Dragon Wings and Wizard Tales](https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf) | 4:09 |
+| 75 | [Koto](https://open.spotify.com/track/7spWddYJhxpkPz8TFOSWtD) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Pathless Path](https://open.spotify.com/album/5XjnuZHb9Int91DwZka2ok) | 3:46 |
+| 76 | [For The Beauty Of The Earth \- Instrumental](https://open.spotify.com/track/5PjnCekj1D0FtZzaaCA4tU) | [Paul Winter](https://open.spotify.com/artist/4ZmNj7bRSU3YCtH0oaJSef) | [Missa Gaia \- Earth Mass](https://open.spotify.com/album/2L5R8WEPwsFSb1QUCog1ru) | 2:29 |
 | 77 | [Procession](https://open.spotify.com/track/0cHRNVH8Uo7CJL9QbPaZZB) | [Bernard Xolotl](https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e) | [Procession](https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3) | 7:27 |
 | 78 | [Oceans And Continents](https://open.spotify.com/track/6X1jdivZEvbFlOjVn4GyYP) | [Jan Hammer](https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy) | [The First Seven Days](https://open.spotify.com/album/4skF9SYKc4U4oA7gCSrmo1) | 6:16 |
 | 79 | [Equinoxe, Pt\. 4](https://open.spotify.com/track/362MZclYQ5wRw468UxT5Uf) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Equinoxe](https://open.spotify.com/album/41Dl68Kik63nV6zvn07NgY) | 7:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 99 | [Freefall](https://open.spotify.com/track/3XWjY5ywwVf134l4CnnxmY) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Albedo 0.39](https://open.spotify.com/album/7M2EhhKnJYcmluPNzmB35N) | 2:16 |
 | 100 | [Inside Celeste](https://open.spotify.com/track/7vGQ5QFaO8jnCr7R4L4kxA) | [Cobalt](https://open.spotify.com/artist/7dRNII6Q9yt3eH0lZa40tp) | [Astral Travels](https://open.spotify.com/album/6k6ghR0Lh0W0cCXCrbkFsU) | 2:57 |
 
-Snapshot ID: `AAAAANOuvgVONWnPTw1KFjbFpf5wZHlA`
+Snapshot ID: `AAAAAFe+Yxi01AcQl+D6DS4nsdqCamRJ`

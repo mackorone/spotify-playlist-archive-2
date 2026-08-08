@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx7CN2A7v6K.md) - [plain]
 
 > A  blend of J\-pop to soundtrack your perfect matcha moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,628 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,688 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx7CN2A7v6K.md) - [plain]
 | 61 | [光るなら](https://open.spotify.com/track/2BlDX1yfT0ea5wo0vjCKKa) | [Goose house](https://open.spotify.com/artist/7BzEKSgHp2yrNC6w5NkFhQ) | [Milk](https://open.spotify.com/album/0uF7LYXx0mDrWeMxZ3vRkz) | 4:12 |
 | 62 | [薄ら氷心中](https://open.spotify.com/track/1DxOabtnI3W4ouECc6AdyT) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [逆輸入 〜航空局〜](https://open.spotify.com/album/4IyZbkR6R4oIcuckwSrJQj) | 3:12 |
 | 63 | [ロビンソン](https://open.spotify.com/track/0sVnyL71jTOuMt9TZ59bws) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [ハチミツ](https://open.spotify.com/album/4mz1WjnsW88FxFfvtrfIAd) | 4:20 |
-| 64 | [ダーリン](https://open.spotify.com/track/62x4EMPyCFF2Ohv7qDjalp) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ダーリン](https://open.spotify.com/album/0lohqaCPMY89Sh4tDLby9u) | 4:40 |
-| 65 | [プラネタリウム](https://open.spotify.com/track/3zfyzbHuqcT2AAffAyLm02) | [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [LOVE COOK](https://open.spotify.com/album/1QxbZHEnnPpSRobXGQBjaZ) | 5:07 |
+| 64 | [プラネタリウム](https://open.spotify.com/track/3zfyzbHuqcT2AAffAyLm02) | [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [LOVE COOK](https://open.spotify.com/album/1QxbZHEnnPpSRobXGQBjaZ) | 5:07 |
+| 65 | [ダーリン](https://open.spotify.com/track/62x4EMPyCFF2Ohv7qDjalp) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ダーリン](https://open.spotify.com/album/0lohqaCPMY89Sh4tDLby9u) | 4:40 |
 | 66 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 |
 | 67 | [TSUNAMI](https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [TSUNAMI](https://open.spotify.com/album/3EVm3Pp0j7BO8TG0rEofss) | 5:15 |
 | 68 | [Prema](https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx7CN2A7v6K.md) - [plain]
 | 99 | [いいんですか?](https://open.spotify.com/track/7BBhAZPkDnJ6mYVua3O1F4) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [RADWIMPS 4 ～おかずのごはん～](https://open.spotify.com/album/27mMMU3UZQbsCcAURmGvPP) | 4:08 |
 | 100 | [群青](https://open.spotify.com/track/0T4AitQuq8IJhWBWuZwkFA) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [群青](https://open.spotify.com/album/4nLIK2uFzYUJqLAfJZYgLx) | 4:08 |
 
-Snapshot ID: `AAAAANTw6OWboGVhjxFC/IxniJREn1y3`
+Snapshot ID: `AAAAAKfkMdWsnzDCPJXoa9kCpvlYu1Fs`

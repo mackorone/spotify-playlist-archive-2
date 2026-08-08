@@ -2450,7 +2450,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 165714,
       "name": "Adieu",
       "url": "https://open.spotify.com/track/6LchyI3DOmqz4oyUMGuv1v"
@@ -5022,7 +5022,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 132000,
       "name": "Baciata",
       "url": "https://open.spotify.com/track/58JXOkFJ9P50s2L1pEOdPF"
@@ -30090,7 +30090,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-06",
+      "date_removed": null,
       "duration_ms": 109124,
       "name": "LEPA",
       "url": "https://open.spotify.com/track/5V209N14zVkCdrL7AOUxx0"
@@ -30796,6 +30796,24 @@
       "duration_ms": 209051,
       "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
       "url": "https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf"
+    },
+    {
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
     },
     {
       "album": {
@@ -31998,10 +32016,36 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 188678,
       "name": "Mallorca",
       "url": "https://open.spotify.com/track/2IlQ0htKldBlQ19xFmbYbJ"
+    },
+    {
+      "album": {
+        "name": "Cartel Season",
+        "url": "https://open.spotify.com/album/6b63vubXV8gSjUjG7MyZ50"
+      },
+      "artists": [
+        {
+          "name": "Hellfield",
+          "url": "https://open.spotify.com/artist/0PN0H94fqF9G9FiJrw1R3Q"
+        },
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        },
+        {
+          "name": "CrackHouse",
+          "url": "https://open.spotify.com/artist/0VUlwZP3CE5Nfjz1fYJxVr"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188678,
+      "name": "Mallorca",
+      "url": "https://open.spotify.com/track/6qtep64mtHs98Hj3FwBYu9"
     },
     {
       "album": {
@@ -32504,7 +32548,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 156081,
       "name": "MARBELLA",
       "url": "https://open.spotify.com/track/4GWnHZqrHozrGBBFItK5Oj"
@@ -38582,10 +38626,32 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 237000,
       "name": "NIEKO\u0143CZ\u0104CY Z\u0141Y SEN",
       "url": "https://open.spotify.com/track/3FdtNDLwfHRaStWQzCdXsQ"
+    },
+    {
+      "album": {
+        "name": "JEZU CHRYSTE KUBI",
+        "url": "https://open.spotify.com/album/7zL2CHSVPxPpviqfJaL8wu"
+      },
+      "artists": [
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        },
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "NIEKO\u0143CZ\u0104CY Z\u0141Y SEN",
+      "url": "https://open.spotify.com/track/4y5ilFt4kTUwusvWfnqoDn"
     },
     {
       "album": {
@@ -54822,7 +54888,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 191076,
       "name": "Talk To You (ft. 54 Ultra)",
       "url": "https://open.spotify.com/track/5zEcbencrcP0p5Z8508vWz"

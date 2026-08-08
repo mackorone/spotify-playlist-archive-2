@@ -604,7 +604,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-16",
+      "date_removed": null,
       "duration_ms": 179350,
       "name": "El Chamuco",
       "url": "https://open.spotify.com/track/5RGPch9I7US0JeQK8KAnSg"
@@ -802,7 +802,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 239243,
       "name": "El Trabajo del Hombre",
       "url": "https://open.spotify.com/track/3lAwswdOC4L8ng6X6VJy9p"
@@ -1048,7 +1048,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 280240,
       "name": "Ha Vuelto Ya",
       "url": "https://open.spotify.com/track/3MTq6Gbw6pDp5NZJ0e2idG"
@@ -1344,7 +1344,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 203918,
       "name": "Lanzagorta Swing",
       "url": "https://open.spotify.com/track/42vTFABe82aFxixhhXOjf3"
@@ -1434,7 +1434,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 359093,
       "name": "Luna Misteriosa",
       "url": "https://open.spotify.com/track/2vcXBSX5oVbBm8V76aQkVL"
@@ -1578,7 +1578,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 157426,
       "name": "Mi Nueva Naci\u00f3n - Remasterizada",
       "url": "https://open.spotify.com/track/03A23fX9P11AQQ1VHFr8Of"
@@ -1752,6 +1752,28 @@
       "duration_ms": 199093,
       "name": "No Pinches Mames",
       "url": "https://open.spotify.com/track/6uKMEHRAyURvyleRykDMPg"
+    },
+    {
+      "album": {
+        "name": "No Puedo M\u00e1s",
+        "url": "https://open.spotify.com/album/5uOcNRe7Mmxyh2MbPhoV3Q"
+      },
+      "artists": [
+        {
+          "name": "Juan Hern\u00e1ndez y Su Banda de Blues",
+          "url": "https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ"
+        },
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "No Puedo M\u00e1s",
+      "url": "https://open.spotify.com/track/27lDJbfLUkTxVAMqQaVT2a"
     },
     {
       "album": {
@@ -2185,6 +2207,24 @@
     },
     {
       "album": {
+        "name": "Rosarios de Mentiras",
+        "url": "https://open.spotify.com/album/2PWxvhKmKCHxYuPTqzMj8E"
+      },
+      "artists": [
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211193,
+      "name": "Rosarios de Mentiras",
+      "url": "https://open.spotify.com/track/6ZcYA5hCrgSJhhWcAowm5l"
+    },
+    {
+      "album": {
         "name": "40 A\u00f1os Vol. 1",
         "url": "https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1"
       },
@@ -2221,6 +2261,24 @@
     },
     {
       "album": {
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/17odbGabUqsFcBIuQU70q2"
+      },
+      "artists": [
+        {
+          "name": "Juan Hern\u00e1ndez y Su Banda de Blues",
+          "url": "https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222062,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/5hFhaf5vNWhm3o1bh2oEtv"
+    },
+    {
+      "album": {
         "name": "15 Rolitas de Amor",
         "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
       },
@@ -2236,6 +2294,28 @@
       "duration_ms": 336200,
       "name": "Silvia",
       "url": "https://open.spotify.com/track/130MYoc4M7pSTEdelFPq6F"
+    },
+    {
+      "album": {
+        "name": "Sola",
+        "url": "https://open.spotify.com/album/6CgeLxm2gWvzpRjue5Yev0"
+      },
+      "artists": [
+        {
+          "name": "Los Invictos",
+          "url": "https://open.spotify.com/artist/042BvqIgyWcC0IRkALJ3KS"
+        },
+        {
+          "name": "Tres Vallejo",
+          "url": "https://open.spotify.com/artist/0qV25r4EHYSKLyMelm5U5s"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139124,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/4oVUHZfTJpBrDpEKb09kev"
     },
     {
       "album": {
@@ -2322,10 +2402,28 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 241383,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/7JhlicoglQByCtUtksvndz"
+    },
+    {
+      "album": {
+        "name": "Te Hice Mujer",
+        "url": "https://open.spotify.com/album/1Zf94S2l91x1SP20ffp1KT"
+      },
+      "artists": [
+        {
+          "name": "Juan Hern\u00e1ndez y Su Banda de Blues",
+          "url": "https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190437,
+      "name": "Te Hice Mujer",
+      "url": "https://open.spotify.com/track/4FwfUoGxgFcfoa51RRm80G"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: 米津玄師
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,014,054 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,014,102 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [Love me forever!](https://open.spotify.com/track/2j7w4Q2yMxa9ekzCdGhKUc) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Love me forever!](https://open.spotify.com/album/66nqLuytRYSI9We2q35XOG) | 4:09 |
 | 50 | [花咲く道](https://open.spotify.com/track/7hsXgNruHoMTXrapRR1oNP) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [花咲く道](https://open.spotify.com/album/7aKEem9xZIhIzHhMeR77Op) | 3:08 |
 
-Snapshot ID: `AAAAAHC8WO+fhs38a3QCtvN2lQ6PUkLy`
+Snapshot ID: `AAAAAIPyaCv684AjwSZMDLOxOQ+SgwO8`

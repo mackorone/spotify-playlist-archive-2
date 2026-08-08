@@ -4,7 +4,7 @@
 
 > For those who like a little bit of coffee with their Jesus.
 
-528 songs - 1 day 9 hr 0 min
+530 songs - 1 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [All That I Am](https://open.spotify.com/track/1cmSJaNKWE4lJ1Eqiaiyyh) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8), [Hannah Boesen](https://open.spotify.com/artist/3jcuHlyRJaIgJEaAE4MPv9) | [All That I Am](https://open.spotify.com/album/1RlQyS6TsQgEdTBjwC0LKN) | 4:01 | 2025-10-19 |  |
 | [All Yours](https://open.spotify.com/track/1VbuyGK1bBv4ioZKcidXHH) | [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [All Yours](https://open.spotify.com/album/3dXXhI7NQBfvTWAQwfIIBZ) | 3:21 | 2026-07-29 |  |
 | [ALWAYS](https://open.spotify.com/track/5TDt4YuWyWYrZBBXYKrCkL) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [ALWAYS](https://open.spotify.com/album/1kMGQjZwn3aZFyBnA6DDZL) | 3:38 | 2026-07-29 |  |
+| [Always There](https://open.spotify.com/track/1d2SBptoBq4LrCVEdL0N1j) | [Kaitlyn Danos](https://open.spotify.com/artist/7GmgBosrGTp3T3mSQsUjJV) | [Always There](https://open.spotify.com/album/4aF7AZh7iB1qyA8yyPuUOf) | 2:39 | 2026-07-29 |  |
 | [always will be \- acoustic](https://open.spotify.com/track/4L1vwX3sseUZAsyPieVksK) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [the unknown](https://open.spotify.com/album/0mhF2Ygr1GQE7JrmkfUrZI) | 2:58 | 2025-12-12 | 2026-07-30 |
 | [Amazing Grace](https://open.spotify.com/track/64MrCcCsHkXim9Fdi7P6CY) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [The Hymns \(Spotify Version\)](https://open.spotify.com/album/3hsmfn4WeVjTgH7A6xx3Lp) | 4:13 | 2026-07-29 |  |
 | [Amazing Grace](https://open.spotify.com/track/76LGi5nwlRwu6ixb1VxtJr) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A), [Kings Kaleidoscope Hymns](https://open.spotify.com/artist/0phpMB8IBPaSPxDtz95eG7) | [Amazing Grace](https://open.spotify.com/album/4k07IjVvBgN8RUdTKZlKkY) | 2:56 | 2025-08-06 | 2026-03-24 |
@@ -117,6 +118,7 @@
 | [doomsday](https://open.spotify.com/track/6JF1iZOVOqo09Op0rcPrPf) | [Bianca Silver](https://open.spotify.com/artist/5pGOCZ0PkA35ZGyOxgBeHL) | [midnight saints](https://open.spotify.com/album/5ZLCETFlNn19TGFOltDWnV) | 2:31 | 2026-07-29 |  |
 | [Down To Earth](https://open.spotify.com/track/1LRbyxLBWWiWhqq7nTulnX) | [Hunter Plake](https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw) | [Down To Earth](https://open.spotify.com/album/76SsjAdqgbKJONWscEqhjb) | 3:41 | 2026-03-23 | 2026-05-17 |
 | [Dusty Bibles](https://open.spotify.com/track/4Ax4D1H5St8eDVkFgiKKZ9) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Dusty Bibles](https://open.spotify.com/album/47evnhp5JhC3d3CauNzEAU) | 3:10 | 2025-10-19 | 2026-03-24 |
+| [Dwell In The House](https://open.spotify.com/track/3Qo5Y6SA4fRJLmQ1DqLuWH) | [Victory House Worship](https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI) | [LoFi Reimagined, Vol\. 1](https://open.spotify.com/album/0f4sJaVr1cKSJaJRNMFpq3) | 3:57 | 2026-07-29 |  |
 | [Echoes Of Love](https://open.spotify.com/track/5Soqtv37Gb1ROUIAVCfOeW) | [Aremmic](https://open.spotify.com/artist/7BT40oP5mx0gTwoR8KmbCN) | [Echoes Of Love](https://open.spotify.com/album/1mUh5G47foAbuBVgVmbDzt) | 3:31 | 2024-06-23 | 2024-08-03 |
 | [Elohim](https://open.spotify.com/track/5Q4JduIFVtirezPnU9RggG) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [By The Water](https://open.spotify.com/album/5uPncwBKPjbBEwNfBfS0vn) | 2:50 | 2023-07-28 | 2024-06-24 |
 | [Emoji](https://open.spotify.com/track/1NslSQmmWld562HPeASfst) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Jordan G\. Welch](https://open.spotify.com/artist/7FoyFSZKYKQXPDfrITKxrs) | [Closer](https://open.spotify.com/album/7ug3T3uwftsFJqZiUhqYlH) | 4:40 | 2026-04-17 | 2026-07-30 |
@@ -270,7 +272,7 @@
 | [Light & Momentary](https://open.spotify.com/track/08DEpqd2B46uUj5MeagoC6) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [& Side A](https://open.spotify.com/album/0vFF7khThRFzf0roHQoA1i) | 4:28 | 2020-08-31 | 2024-04-19 |
 | [Light & Momentary](https://open.spotify.com/track/1KN2FBM6S6DVhCh95WmR7e) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [Light & Momentary](https://open.spotify.com/album/5SfOX91WxiZfYbERgSoLt2) | 4:28 | 2020-08-31 | 2025-10-11 |
 | [Light of Heaven](https://open.spotify.com/track/6USsf7jYhhvclACQuK4JPF) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Light of Heaven](https://open.spotify.com/album/09kgncLTX6pFf77R1bHOZx) | 3:50 | 2024-08-03 | 2026-07-30 |
-| [Light of the World \(John 8\)](https://open.spotify.com/track/6p7qWnVcx1lOXXX1U3ehCp) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Nadège Nightingale](https://open.spotify.com/artist/5xCWbBpvJpf8QSfFtgZRHa) | [Light of the World \(John 8\)](https://open.spotify.com/album/4rd7wAjNFrH9WdeH5kJsl3) | 3:19 | 2026-03-23 |  |
+| [Light of the World \(John 8\)](https://open.spotify.com/track/6p7qWnVcx1lOXXX1U3ehCp) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Nadège Nightingale](https://open.spotify.com/artist/5xCWbBpvJpf8QSfFtgZRHa) | [Light of the World \(John 8\)](https://open.spotify.com/album/4rd7wAjNFrH9WdeH5kJsl3) | 3:19 | 2026-03-23 | 2026-08-08 |
 | [Like the Dawn](https://open.spotify.com/track/1RH9Nsu2iiShLD1enwFLaC) | [Becky Higg](https://open.spotify.com/artist/5ttP4RmwYgmSnhINrRavZv) | [Maybe Just Maybe](https://open.spotify.com/album/564N7BUtsNurbaPUL5FRg8) | 5:19 | 2020-08-31 | 2025-10-11 |
 | [Like The Prodigal \(Come Home\)](https://open.spotify.com/track/7DBugFty697vJcT7so4kfl) | [Ian Austin](https://open.spotify.com/artist/1WP9r8KcRsPprUUHgH0lEd), [Brice Davis](https://open.spotify.com/artist/1b1HAA4FKPRckylVMBY9PM) | [Like The Prodigal \(Come Home\)](https://open.spotify.com/album/68N0FwU3ser9k5veW6JAGQ) | 4:41 | 2026-03-23 |  |
 | [Listen To Me](https://open.spotify.com/track/43CrPpG68FB1nfWSCDOoGs) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Listen To Me](https://open.spotify.com/album/3FZxruFhSuVqfEKtWvmkTJ) | 3:18 | 2026-07-29 |  |
@@ -476,7 +478,7 @@
 | [Waiting On The Weekends](https://open.spotify.com/track/1Ar5pOrp2x5LdZ1U0lqPFZ) | [Maddie Moon](https://open.spotify.com/artist/4Bpw0DO4ri8ngNl38rLkDS), [THE ONE HE LOVED](https://open.spotify.com/artist/19g5k95pW2wSOzj3Itd2f9) | [Waiting On The Weekends](https://open.spotify.com/album/6fD2t84TN3EHrfhJhlgpos) | 3:19 | 2026-07-29 |  |
 | [wake up](https://open.spotify.com/track/1qzWO4HCAMVwGEHaoqhnLb) | [Cade Biers](https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj) | [wake up](https://open.spotify.com/album/1Pnu2EthKCf1TTFkecWL4c) | 3:06 | 2026-03-23 |  |
 | [WAKE UP!](https://open.spotify.com/track/3C8xDEZWRvQYTni5pav1pQ) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [WAKE UP!](https://open.spotify.com/album/0vsxn90cgFyTztDnCuhhg7) | 1:49 | 2026-03-23 | 2026-06-07 |
-| [walk into the light](https://open.spotify.com/track/5M92wDH3MFb1MgVSLS2GOy) | [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [interlude ellipsis](https://open.spotify.com/album/2zJPJQt07jXEneZWIEJfNl) | 3:02 | 2025-12-12 |  |
+| [walk into the light](https://open.spotify.com/track/5M92wDH3MFb1MgVSLS2GOy) | [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [interlude ellipsis](https://open.spotify.com/album/2zJPJQt07jXEneZWIEJfNl) | 3:02 | 2025-12-12 | 2026-08-08 |
 | [walk on the water](https://open.spotify.com/track/4v6tIulXBEZA1or86c7qX1) | [Tenroc](https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i) | [walk on the water](https://open.spotify.com/album/4RjBTui1b6WaAgxJAN4pV3) | 2:54 | 2026-07-29 |  |
 | [Walk With Me](https://open.spotify.com/track/1YWNQDbaTcCZxhC1GpkOQ1) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Walk With Me](https://open.spotify.com/album/6lNIyJnOuyLhGvPod7YYJz) | 2:55 | 2026-03-23 |  |
 | [Wanderer](https://open.spotify.com/track/4lZvEE1UvtCEnxvUgLOkjv) | [Ire Toluhi](https://open.spotify.com/artist/1uLf3V4Z9jtKJHJOb4Tx7K) | [Wanderer](https://open.spotify.com/album/4e7n1hfpPjDB9s9jpeqAsP) | 3:50 | 2026-07-29 |  |

@@ -1,12 +1,12 @@
 {
   "description": "SPINGERE",
-  "num_followers": 117185,
+  "num_followers": 117194,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA25yrEe9SyPfrLYmNi2QvC9FtRR",
+  "snapshot_id": "AAAAADFF5sr5ZiS8FfPsv7WR1YUt12dC",
   "tracks": [
     {
       "added_at": "2026-08-05 08:16:35",
@@ -835,6 +835,34 @@
     {
       "added_at": "2026-08-05 08:16:35",
       "album": {
+        "name": "DALE (feat. Frezza, G.Mineiro, R3versal)",
+        "url": "https://open.spotify.com/album/7IKq8hAkstZ4EZ36x4j8JV"
+      },
+      "artists": [
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+        },
+        {
+          "name": "R3versal",
+          "url": "https://open.spotify.com/artist/3ynBgWFlyMRwLE5JnAAfFP"
+        },
+        {
+          "name": "G.Mineiro",
+          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "DALE (feat. Frezza, G.Mineiro, R3versal)",
+      "url": "https://open.spotify.com/track/3VjfNmIzBTYA4UFaUNpdY7"
+    },
+    {
+      "added_at": "2026-08-05 08:16:35",
+      "album": {
         "name": "WE THE SQUAD Vol.2",
         "url": "https://open.spotify.com/album/4Bs1suGfjXE0KV1CoK4hTE"
       },
@@ -907,34 +935,6 @@
       "duration_ms": 148148,
       "name": "VRP",
       "url": "https://open.spotify.com/track/0U2mw5WWH5LmeqHl59uWUh"
-    },
-    {
-      "added_at": "2026-08-05 08:16:35",
-      "album": {
-        "name": "DALE (feat. Frezza, G.Mineiro, R3versal)",
-        "url": "https://open.spotify.com/album/7IKq8hAkstZ4EZ36x4j8JV"
-      },
-      "artists": [
-        {
-          "name": "Yung Snapp",
-          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
-        },
-        {
-          "name": "Frezza",
-          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
-        },
-        {
-          "name": "R3versal",
-          "url": "https://open.spotify.com/artist/3ynBgWFlyMRwLE5JnAAfFP"
-        },
-        {
-          "name": "G.Mineiro",
-          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "DALE (feat. Frezza, G.Mineiro, R3versal)",
-      "url": "https://open.spotify.com/track/3VjfNmIzBTYA4UFaUNpdY7"
     },
     {
       "added_at": "2026-08-05 08:16:35",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2026-08-05 08:16:35",
       "album": {
-        "name": "X2VR",
-        "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 217538,
-      "name": "Gol",
-      "url": "https://open.spotify.com/track/1F4ARcz5U9kgtcjpcYNzTH"
-    },
-    {
-      "added_at": "2026-08-05 08:16:35",
-      "album": {
         "name": "Pookie (feat. Capo Plaza) [Remix]",
         "url": "https://open.spotify.com/album/75Y58W3tVyLOv1gOMXoNdq"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 188400,
       "name": "Pookie (feat. Capo Plaza) - Remix",
       "url": "https://open.spotify.com/track/1MtmXPxXP4ntSjfF5xnOyM"
+    },
+    {
+      "added_at": "2026-08-05 08:16:35",
+      "album": {
+        "name": "X2VR",
+        "url": "https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 217538,
+      "name": "Gol",
+      "url": "https://open.spotify.com/track/1F4ARcz5U9kgtcjpcYNzTH"
     },
     {
       "added_at": "2026-08-05 08:16:35",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2026-08-05 08:16:35",
       "album": {
+        "name": "Papaya",
+        "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "Papaya",
+      "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
+    },
+    {
+      "added_at": "2026-08-05 08:16:35",
+      "album": {
         "name": "Reinsertado 2.0",
         "url": "https://open.spotify.com/album/1dpi5vuuSZ0NILVDKhi8Ii"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 201600,
       "name": "Sentir",
       "url": "https://open.spotify.com/track/4HCdoZN1uawnzc3QKCRT4X"
-    },
-    {
-      "added_at": "2026-08-05 08:16:35",
-      "album": {
-        "name": "Papaya",
-        "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
-      },
-      "artists": [
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        }
-      ],
-      "duration_ms": 139714,
-      "name": "Papaya",
-      "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
     },
     {
       "added_at": "2026-08-05 08:16:35",
@@ -1831,6 +1831,22 @@
     {
       "added_at": "2026-08-05 08:16:35",
       "album": {
+        "name": "Haribo",
+        "url": "https://open.spotify.com/album/033qgPue0caWczYCMdcfFa"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "duration_ms": 136633,
+      "name": "Haribo",
+      "url": "https://open.spotify.com/track/1DiQcyWAklUoTLmBVVvTU6"
+    },
+    {
+      "added_at": "2026-08-05 08:16:35",
+      "album": {
         "name": "Petit Fou Fou (feat. ANNA)",
         "url": "https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 113737,
       "name": "Petit Fou Fou (feat. ANNA)",
       "url": "https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv"
-    },
-    {
-      "added_at": "2026-08-05 08:16:35",
-      "album": {
-        "name": "Haribo",
-        "url": "https://open.spotify.com/album/033qgPue0caWczYCMdcfFa"
-      },
-      "artists": [
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        }
-      ],
-      "duration_ms": 136633,
-      "name": "Haribo",
-      "url": "https://open.spotify.com/track/1DiQcyWAklUoTLmBVVvTU6"
     },
     {
       "added_at": "2026-08-05 08:16:35",

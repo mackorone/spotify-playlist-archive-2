@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 
 > Only music produced on a TR\-808 drum machine\. Cover: Egyptian Lover
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,852 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,906 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 | 49 | [Problèmes d'Amour](https://open.spotify.com/track/5BCD68l2CC8BdJB0ZGA3N9) | [Alexander Robotnick](https://open.spotify.com/artist/4ssHihhGpCx4eftfzAI3jq), [Martine Michellod](https://open.spotify.com/artist/7pIXHr4dSVcJmi6a4LOIZE) | [Ce n'est q'un début \(Remastered\)](https://open.spotify.com/album/4LIUpkPUBnNGUYkgNuCHAs) | 4:30 |
 | 50 | [Rock the Box](https://open.spotify.com/track/6gzUi6an8slC9kR2A2GLiE) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Rock the Box](https://open.spotify.com/album/7v0FikRO5HniiN7NV5Ciem) | 5:00 |
 
-Snapshot ID: `AAAAALp5ifxO93SOOddlnb1GOUsq79ky`
+Snapshot ID: `AAAAAE9OyHfqDEGQ9X+vMeT5quM8HyGK`

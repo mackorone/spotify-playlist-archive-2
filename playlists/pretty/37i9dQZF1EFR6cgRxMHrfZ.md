@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 61 | [Nobody Has to Know](https://open.spotify.com/track/015oVWITPHkpoDfiisMrb0) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Nobody Has to Know](https://open.spotify.com/album/0qsusdOTBlyyP9tvPFEG32) | 3:37 |
 | 62 | [Thick Skin](https://open.spotify.com/track/6AUdIUa9taPXjYv2IuyMh1) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [THE ART OF BEING A MESS \(DELUXE\)](https://open.spotify.com/album/1zv8XVn1rFyaZJS2Uih0xU) | 2:32 |
 | 63 | [Insomniac](https://open.spotify.com/track/5LFGS3o3H1OSIf6y9lH8oP) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 2:59 |
-| 64 | [Call For You](https://open.spotify.com/track/34HlyukOVl1gK1nfP5UXqs) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 3:38 |
-| 65 | [Pretty Little](https://open.spotify.com/track/7ci9LUxqlht8OegSfmQLk0) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 2:35 |
+| 64 | [Pretty Little](https://open.spotify.com/track/7ci9LUxqlht8OegSfmQLk0) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 2:35 |
+| 65 | [Call For You](https://open.spotify.com/track/34HlyukOVl1gK1nfP5UXqs) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 3:38 |
 | 66 | [Beast](https://open.spotify.com/track/6LxYLEHqoPvKDyhoTU0d9F) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours](https://open.spotify.com/album/7612v2NCnEexfvOHwK0Ttr) | 3:14 |
 | 67 | [Comedown](https://open.spotify.com/track/4BijsA9UwhonQHErVbzH4L) | [Taska Black](https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3) | [Comedown](https://open.spotify.com/album/0GiUcSBb1JXpGsPwX4eAfn) | 2:48 |
 | 68 | [Be Easy](https://open.spotify.com/track/1rVRvYpH6numR6NfRtwJAo) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [To Dream](https://open.spotify.com/album/4hXGxuxXLcpbVTQUqOSZCJ) | 3:11 |
@@ -181,4 +181,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 171 | [Drink Us Back Together](https://open.spotify.com/track/5dANkvVBO2q1vqty0jNp4i) | [17 Memphis](https://open.spotify.com/artist/4vqV8IpWyagD7V8RjMO63g) | [17 MEMPHIS FOREVER](https://open.spotify.com/album/2XYynyaDxQk1h2d6vWv4iI) | 3:12 |
 | 172 | [Give You Love](https://open.spotify.com/track/2UO5W95ydfVo5AmCQNzVxJ) | [Jackie Castro](https://open.spotify.com/artist/6blpGtm31QFko8NcqeOxvN) | [Give You Love](https://open.spotify.com/album/4AhCVQ2AZkSQD7N3Mp3ksC) | 3:04 |
 
-Snapshot ID: `AcY4yAAAAADJJ7rq2qKsZMe/QDiOG/Yt`
+Snapshot ID: `AcY+GAAAAABkIeePsJv+uyoQydOZHc5z`

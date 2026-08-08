@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,424 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,388 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,13 +67,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 | 57 | [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 |
 | 58 | [Homesick \(with Sam Fender\)](https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Homesick \(with Sam Fender\)](https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I) | 3:14 |
 | 59 | [We Go Down Together \(with Khalid\)](https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [We Go Down Together \(with Khalid\)](https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3) | 3:04 |
-| 60 | [Quite Miss Home](https://open.spotify.com/track/2deFH5zveEBEUuURpqTN3C) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:03 |
-| 61 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 |
+| 60 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 |
+| 61 | [Quite Miss Home](https://open.spotify.com/track/2deFH5zveEBEUuURpqTN3C) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:03 |
 | 62 | [You Will Be Found \(with Summer Walker\) \- From The “Dear Evan Hansen” Original Motion Picture Soundtrack](https://open.spotify.com/track/2URXzpbSUwOjltvpgtzXua) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [You Will Be Found \(with Summer Walker\) \[From The “Dear Evan Hansen” Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6Anzto8x93tfDjDghGqHQf) | 3:57 |
 | 63 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 |
 | 64 | [Somewhere Only We Know](https://open.spotify.com/track/3DDGhkxq3FeUorZppSgeLE) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Somewhere Only We Know](https://open.spotify.com/album/2BWTPrj9yBBC79fCByZ2Tv) | 3:28 |
-| 65 | [Heartbeat](https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Heartbeat](https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d) | 3:52 |
-| 66 | [Paper Crown](https://open.spotify.com/track/2fB0qwP98V9Yrv3mgR6IJJ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Paper Crown](https://open.spotify.com/album/7sQDzWYBQavRBvvamkslFe) | 3:12 |
+| 65 | [Paper Crown](https://open.spotify.com/track/2fB0qwP98V9Yrv3mgR6IJJ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Paper Crown](https://open.spotify.com/album/7sQDzWYBQavRBvvamkslFe) | 3:12 |
+| 66 | [Heartbeat](https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Heartbeat](https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d) | 3:52 |
 | 67 | [Satellite](https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Satellite](https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE) | 3:06 |
 | 68 | [DEPOIS DO UNIVERSO](https://open.spotify.com/track/6T5TyMUmqcg8ZIvTDYaJ1o) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [DEPOIS DO UNIVERSO](https://open.spotify.com/album/4jsJ7WsXvoyiwYFx16MlqG) | 3:04 |
 | 69 | [YOU & I \(feat\. Khalid\)](https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 3:25 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 | 92 | [Lighthouse](https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Lighthouse](https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S) | 3:11 |
 | 93 | [Ô Sorte](https://open.spotify.com/track/29qbLNBTJ2bYtMKkXobFHB) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Urbano](https://open.spotify.com/album/5Tur0ZCtTdgTVLj0UQF41A) | 2:09 |
 | 94 | [Swan Upon Leda](https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk) | 3:42 |
-| 95 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
-| 96 | [The Best Is Yet to Come](https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [The Best Is Yet to Come](https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS) | 2:46 |
+| 95 | [The Best Is Yet to Come](https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [The Best Is Yet to Come](https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS) | 2:46 |
+| 96 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
 | 97 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 |
 | 98 | [Sand](https://open.spotify.com/track/3HYUKa1HkaSRk4C0xK4O5q) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Sand](https://open.spotify.com/album/6K8VcnG6HUSp59xNOpEJhP) | 3:39 |
 | 99 | [Crying Over You](https://open.spotify.com/track/53bCcVMGv0S2aIYvfju2Tt) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Crying Over You](https://open.spotify.com/album/53KjVSjTOJXAyJ7Fdjjhwr) | 2:58 |
 | 100 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 |
 
-Snapshot ID: `AAAAAAHA24iZlYgpYMl7KE/YRnHUA8f0`
+Snapshot ID: `AAAAAHc5cmDtAA/pYryTCLm1jmWz8mha`

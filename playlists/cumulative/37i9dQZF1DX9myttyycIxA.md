@@ -2,9 +2,9 @@
 
 ### [undercurrents](https://open.spotify.com/playlist/37i9dQZF1DX9myttyycIxA)
 
-> Underground indie rock gems\. Cover: Trophy Wife
+> Underground indie rock gems\. Cover: man/woman/chainsaw
 
-1,940 songs - 4 day 16 hr 19 min
+1,945 songs - 4 day 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Candle](https://open.spotify.com/track/2Elr1Zc3CIhfAdxBA8oD58) | [Another Michael](https://open.spotify.com/artist/4I29IR2MABOOQXGDdcYA2q) | [Candle](https://open.spotify.com/album/5Gqr5h8mLjgcs3hUSAY24E) | 3:08 | 2023-08-24 | 2024-02-06 |
 | [Candle](https://open.spotify.com/track/66447TJUyw3jjyePECdqJY) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Candle](https://open.spotify.com/album/7mMmN1nphb2jlee4pYZLh2) | 3:06 | 2025-11-07 | 2026-03-21 |
 | [Cannibal Capital](https://open.spotify.com/track/2v5v3uK96QddzNNwE8YNMz) | [Guerilla Toss](https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO) | [Cannibal Capital](https://open.spotify.com/album/35eBeNmH2x9WK759IVikYJ) | 4:24 | 2022-03-26 | 2022-05-19 |
+| [Canyons](https://open.spotify.com/track/7cTEXdnW5DhRWtB5BAsVoP) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Cannonball](https://open.spotify.com/album/1yN1NPr6d4TvVJyUyuMHpK) | 2:53 | 2026-08-07 |  |
 | [Capital C](https://open.spotify.com/track/63uu2Px8EBJ3P4wBidbqZy) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [Capital C](https://open.spotify.com/album/7jPTQfu31KK6ENmcixwt3c) | 4:19 | 2024-11-22 | 2025-03-22 |
 | [Car Crash](https://open.spotify.com/track/17BELTAKQdOdV0TC5vDnvY) | [TEEN BLUSH](https://open.spotify.com/artist/1XW51qY5zDq92npZ5fHNRl) | [IT IS A PLEASURE TO BE HERE](https://open.spotify.com/album/5OBMqaogOHIO6bKWJj3hpK) | 3:30 | 2022-08-05 | 2022-12-15 |
 | [Car Crash in G Major](https://open.spotify.com/track/3zt5zKBpsliBi0aDldNBsX) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/43glATQ0nobuUZOCXPRbQM) | 2:12 | 2021-03-05 | 2022-07-09 |
@@ -545,6 +546,7 @@
 | [Endless Afternoon](https://open.spotify.com/track/43qnFgYuN5YMfLoghgTVws) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [Endless Afternoon](https://open.spotify.com/album/5Cx0Q4bHaAxNZ7xKaNYmuJ) | 4:35 | 2022-06-01 | 2022-07-29 |
 | [endless questions](https://open.spotify.com/track/6K0xzSgP4YOTBL6kZIhuwM) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [endless questions](https://open.spotify.com/album/4l1sZQPpcXhZUWonaH9lfD) | 2:47 | 2024-02-02 | 2024-06-29 |
 | [Endless thoughts of you](https://open.spotify.com/track/70QhKK8wJ5ajT3vnSVK2YB) | [BORNSTAR](https://open.spotify.com/artist/0TdTF5zoPQcUfUBnLVfoQG) | [Endless thoughts of you](https://open.spotify.com/album/6c8bNEWFHtLcjVXq4MaqDF) | 2:22 | 2024-05-31 | 2024-08-31 |
+| [Enough \(Dream Edition\)](https://open.spotify.com/track/0cwimyMGe6ZQ9QmIW3rzKo) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Enough / Rain \(Dream Editions\)](https://open.spotify.com/album/076F3kDE4CeCF5lfYeV1ZI) | 3:57 | 2026-08-07 |  |
 | [Entitled To](https://open.spotify.com/track/4a3AosNrplvGuvnOODh2WP) | [Mr Floyd Larry](https://open.spotify.com/artist/1k8ck5j4cuHYuzy3nPHDrM) | [Dream Punk](https://open.spotify.com/album/6vZVc2ApISADXou1bVzhF2) | 3:00 | 2022-02-25 | 2022-04-16 |
 | [Enything](https://open.spotify.com/track/2UKoazaZ4EJHGIa2UJRcPO) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Enything](https://open.spotify.com/album/5dOyFR717iZJDNeOoWtHQj) | 4:41 | 2025-01-24 | 2025-05-17 |
 | [ERUPT](https://open.spotify.com/track/3UrBQlFZijtZuWWbq3xtCe) | [Rain on Fridays](https://open.spotify.com/artist/1clbqsZIkv7ci3xQ9lmGPj) | [ERUPT](https://open.spotify.com/album/5tqV7K4XoM6Cjcf5BhsYRn) | 4:11 | 2022-09-02 | 2022-10-29 |
@@ -1349,6 +1351,7 @@
 | [Pulling Quotes](https://open.spotify.com/track/6iH3AXLQHlrbHfG6XGqjau) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Pulling Quotes](https://open.spotify.com/album/31yJkBf5Kp70ecygDPPSsc) | 4:42 | 2024-06-14 | 2024-10-12 |
 | [Pumpkin](https://open.spotify.com/track/1IQx5nJcdso6KsMloQSWza) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Pumpkin](https://open.spotify.com/album/6b5OV9K1FhzSTREVtpy8hs) | 4:17 | 2024-05-24 | 2024-06-22 |
 | [Punching Up](https://open.spotify.com/track/32Xt9yW9HLdMTtUpMooCr0) | [Garage Sale](https://open.spotify.com/artist/5mKieFMfRUdzfTKG1FtOXu) | [Punching Up](https://open.spotify.com/album/46URcwbxXPLxI6ATPCHnBt) | 3:23 | 2025-07-25 | 2025-09-14 |
+| [Punish My Mind](https://open.spotify.com/track/3TzL94FxRyskQA1LENtYrj) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Punish My Mind](https://open.spotify.com/album/5pqm3QIOrvYJ4UwPtUEO8O) | 3:04 | 2026-08-07 |  |
 | [Quantum Physics](https://open.spotify.com/track/5mI7nxjalLOnhoqeHLOSOX) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [Quantum Physics](https://open.spotify.com/album/4rRem8BYu1grDC7PMrlZ62) | 2:38 | 2021-03-05 | 2022-04-21 |
 | [Quarry](https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 4:07 | 2023-12-15 | 2024-05-18 |
 | [Quarter note rock](https://open.spotify.com/track/36Df5D2WsOPvI0n9o4NbnG) | [cootie catcher](https://open.spotify.com/artist/46ufOtURSipSKdxoz8KZzu) | [Quarter note rock](https://open.spotify.com/album/3RFIwf9BvE1BUJAwWpZ4Li) | 4:04 | 2026-02-27 |  |
@@ -1369,6 +1372,7 @@
 | [Raining All The Time](https://open.spotify.com/track/3Jvbp6UtnfNCTZqvlnAAbI) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Pain](https://open.spotify.com/album/2lWIcMPOiABeVkejfvHzoE) | 3:00 | 2023-11-03 | 2024-02-17 |
 | [rainwater on the windowsill](https://open.spotify.com/track/6wufmQ6faZ2AV5Q33JQfdh) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [there is one place we're all going](https://open.spotify.com/album/6cKsq444tN3btAELMAXHAq) | 3:08 | 2023-08-11 | 2023-08-25 |
 | [rainwater on the windowsill](https://open.spotify.com/track/7bpmQPNf2KYjI0ZbbShENj) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [rainwater on the windowsill](https://open.spotify.com/album/2w4pzTqX8lAeVLnJ0NGEsw) | 3:08 | 2023-07-07 | 2024-02-24 |
+| [raphael Bad as shit](https://open.spotify.com/track/00IKZzDVRw9ycGeQcPHvjc) | [god of war](https://open.spotify.com/artist/7o3wJo5yKVGHHkTojIZ7Xp), [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj), [Hooky](https://open.spotify.com/artist/17eGQ5SRFwIv2c8FsrQf8f) | [molly picture](https://open.spotify.com/album/5FBhw9VmY1xqmSXEW7sbzs) | 2:04 | 2026-08-07 |  |
 | [RAPID & COMPLETE RECOVERY](https://open.spotify.com/track/434j2XfgpKRzKFbE9tnxUH) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [ENTERTAINMENT, DEATH](https://open.spotify.com/album/7fQtF6nueGmgPXajwcATgJ) | 4:01 | 2021-04-13 | 2022-04-29 |
 | [Rat with Wings](https://open.spotify.com/track/3RA77OFWnwrChlzpz4c2bo) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Animaru](https://open.spotify.com/album/6giorr9WTWilWHmD0Ox4ow) | 4:40 | 2025-05-02 | 2025-10-18 |
 | [Rather B Dead](https://open.spotify.com/track/0BvwY3gLswQKxK3yvgWpw2) | [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [Time Is Elastic](https://open.spotify.com/album/0ccmoGBiZzB3B81rUC7zpH) | 3:01 | 2023-05-05 | 2023-06-10 |
@@ -1645,6 +1649,7 @@
 | [Taller Than Me](https://open.spotify.com/track/7Hz9Rlm3EvkQBro4WGzIhq) | [Hana Eid](https://open.spotify.com/artist/4F6hNOg84kZIkE5LvLYOsr) | [I Exist Because You Say So](https://open.spotify.com/album/44G1m9EFvbUtsl571DGzwd) | 3:32 | 2024-02-23 | 2024-10-05 |
 | [Target Offer](https://open.spotify.com/track/2RAmnQvB7mqv8JQKBeIXYg) | [The Convenience](https://open.spotify.com/artist/2PKfkrNktahdkVFB47NjGv) | [Like Cartoon Vampires](https://open.spotify.com/album/2A2py4eAMFQCUdvuY22Bum) | 3:16 | 2025-04-18 | 2025-07-05 |
 | [Tear It Apart](https://open.spotify.com/track/564EdN2zwo3VzYiMwfnedc) | [Lazylazy](https://open.spotify.com/artist/1TPIf8I6WXXXIRjjSWYiuD) | [Tear It Apart](https://open.spotify.com/album/7gSRTvnzdzujSgkhJMUjuY) | 3:39 | 2022-12-22 | 2023-02-18 |
+| [Tears Always Burn](https://open.spotify.com/track/5eRigJE4gYutJ6YY0aZL10) | [effe](https://open.spotify.com/artist/2QHeMiKzNUpV7tFFqudKEX) | [Solder](https://open.spotify.com/album/1AOP1mX5RvuMl8tLm2ZKcw) | 2:58 | 2026-08-07 |  |
 | [Tears of Change](https://open.spotify.com/track/0T1CmhCAJb8biFVLOSu4iS) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Myself in the Way](https://open.spotify.com/album/3hnuFFEOHQ4X1KGNx1HlLh) | 4:09 | 2022-11-11 | 2023-03-04 |
 | [Teenage Messiah](https://open.spotify.com/track/5BqaUUlhK73bzyN3edyvVA) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Teenage Messiah](https://open.spotify.com/album/0NQeE4xYtYeTOrbilll4Ao) | 4:56 | 2025-09-19 | 2026-02-07 |
 | [Teeth](https://open.spotify.com/track/32ZKfUxISWjSTgeaPldd7l) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [Teeth](https://open.spotify.com/album/4wLiI1xFR9EdYvJs6pF99n) | 3:46 | 2023-05-05 | 2023-06-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 
 > Le patrimoine de la chanson française\. Photo : Édith Piaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,732 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,746 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 84 | [Chez Laurette](https://open.spotify.com/track/4vLqJ8khGI4VpdINhXrxi9) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [Les 50 plus belles chansons](https://open.spotify.com/album/1RjaSfFBL6CkpHO7XW9A7D) | 3:30 |
 | 85 | [Que C'est Triste Venise](https://open.spotify.com/track/7H5Jw7GQh0ij0UMGwLkdKR) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Platinum Charles Aznavour](https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv) | 2:36 |
 
-Snapshot ID: `AAAAABaJSY59I0P6mxfH+BgiD+Rbh/3F`
+Snapshot ID: `AAAAAFfWpP5Qo0wq5XMcN1Zso9VEKNNN`

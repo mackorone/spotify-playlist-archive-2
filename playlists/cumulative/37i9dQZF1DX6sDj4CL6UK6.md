@@ -4,7 +4,7 @@
 
 > English songs from Indian artists.<br/>Cover: Tsumyoki
 
-404 songs - 23 hr 3 min
+405 songs - 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Dream Girl](https://open.spotify.com/track/669SiWtpzweozGGgO9bGVx) | [Jhalli](https://open.spotify.com/artist/4WYrwXBnVA79QFb6pI3xEf) | [Why Should I?](https://open.spotify.com/album/294eYYYdub5x8R5nwQCDRB) | 3:16 | 2022-04-28 | 2022-05-08 |
 | [Dreaming In My Mind](https://open.spotify.com/track/5d0vzUSG3l87BRtGR726RN) | [Jaden Maskie](https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0) | [Dreaming In My Mind](https://open.spotify.com/album/1pCyN5L4pRaw7l0ouq9AFF) | 3:14 | 2022-03-25 | 2023-08-24 |
 | [E.L.T](https://open.spotify.com/track/2jFZ4MBoB3GkKYYIppdrTg) | [Saachi](https://open.spotify.com/artist/4Gbsv1WfhPA5JxVdu1b4R7) | [Wishbone](https://open.spotify.com/album/702dFENFJw2NnwDVc6poeC) | 3:38 | 2025-10-07 |  |
+| [Ear Candy](https://open.spotify.com/track/6Pnf0VIWVFTZqRNytCpfDr) | [Malvika](https://open.spotify.com/artist/0amamV04S1qWI3XHMh9qpl) | [Ear Candy](https://open.spotify.com/album/6ca3CWTuYwsE66koP391Jz) | 3:21 | 2026-08-07 |  |
 | [Elevator Music \(OMG\)](https://open.spotify.com/track/4mYTYavKZErjx5MjDuaNW2) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Blueboy Must Die](https://open.spotify.com/album/7HxuP6eVdhcYH810tElmAg) | 2:44 | 2023-09-07 | 2024-06-22 |
 | [Eleven](https://open.spotify.com/track/1yQ7fGXsbp2oHzlCLCKeIW) | [Sunday Moon](https://open.spotify.com/artist/6hyHuSf5Ft5jkSCmTg1RNn) | [Eleven](https://open.spotify.com/album/5156bg3GMWbE5HG0fYIpIE) | 3:23 | 2023-05-24 | 2023-09-03 |
 | [Eleven](https://open.spotify.com/track/4hTSDYZuvejzX7lC667Qdt) | [Sunday Moon](https://open.spotify.com/artist/6hyHuSf5Ft5jkSCmTg1RNn) | [Eleven](https://open.spotify.com/album/6rWYgwW4ytO7sHkEQSKAMT) | 3:23 | 2023-08-29 | 2024-04-19 |

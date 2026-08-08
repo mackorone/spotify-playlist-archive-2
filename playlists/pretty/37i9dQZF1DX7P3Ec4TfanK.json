@@ -1,12 +1,12 @@
 {
   "description": "\u2615 \ud83d\udcaa\ud83c\udf73\ud83e\uddd8\u200d\u2640\ufe0f\ud83c\udfc3\u2600\ufe0f",
-  "num_followers": 393699,
+  "num_followers": 393663,
   "original_name": "Morning Routine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANZDD+gvXz1ThyXKC8WnBjoThBgq",
+  "snapshot_id": "AAAAAPVh4M+uGug0Xet+FflwIkY6gSLC",
   "tracks": [
     {
       "added_at": "2026-05-21 14:19:03",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2026-05-21 14:19:03",
       "album": {
+        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+        "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 210575,
+      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
+      "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
+    },
+    {
+      "added_at": "2026-05-21 14:19:03",
+      "album": {
         "name": "La La La",
         "url": "https://open.spotify.com/album/7L2vCH0rBeI5pKefCgWcV9"
       },
@@ -1427,34 +1443,22 @@
     {
       "added_at": "2026-05-21 14:19:03",
       "album": {
-        "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-        "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
+        "name": "Iko Iko (My Bestie)",
+        "url": "https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 210575,
-      "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
-      "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
-    },
-    {
-      "added_at": "2026-05-21 14:19:03",
-      "album": {
-        "name": "Per sempre s\u00ec",
-        "url": "https://open.spotify.com/album/32HEGXJyQkqHh888V70rdu"
-      },
-      "artists": [
+          "name": "Justin Wellington",
+          "url": "https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF"
+        },
         {
-          "name": "Sal Da Vinci",
-          "url": "https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR"
+          "name": "Small Jam",
+          "url": "https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8"
         }
       ],
-      "duration_ms": 175121,
-      "name": "Per sempre s\u00ec",
-      "url": "https://open.spotify.com/track/5W1mx7Oeg2HxmASrth1nTt"
+      "duration_ms": 182857,
+      "name": "Iko Iko (My Bestie)",
+      "url": "https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i"
     }
   ],
   "unique_name": "Morning Routine",

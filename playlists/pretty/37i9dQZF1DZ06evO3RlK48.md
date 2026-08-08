@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RlK48.md) - [plain]
 
 > This is MUNA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,079 likes - 37 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,088 likes - 37 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RlK48.md) - [plain]
 | 9 | [It Gets So Hot](https://open.spotify.com/track/7gaAXsjeXLtaRJPm1QvdKA) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 2:41 |
 | 10 | [Home By Now](https://open.spotify.com/track/5vYaBqOAT6JpZlAD3gO1AO) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:28 |
 | 11 | [Into Your Room \(with MUNA\)](https://open.spotify.com/track/3RaG1pAMRHFiCAqcE9KKNo) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Into Your Room \(with MUNA\)](https://open.spotify.com/album/5xoc8PmIs7xsuxaA7t4Oun) | 3:31 |
-| 12 | [Morning Pages](https://open.spotify.com/track/0hUUCxji9cN0gb8Twf0a0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:47 |
+| 12 | [Stayaway](https://open.spotify.com/track/3vnyzhfVRh3agMjP6nABJw) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 3:31 |
 | 13 | [On Call](https://open.spotify.com/track/3ktBsGHC3bilfpYNCrnzMm) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 2:35 |
 | 14 | [What I Want](https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:03 |
-| 15 | [Stayaway](https://open.spotify.com/track/3vnyzhfVRh3agMjP6nABJw) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 3:31 |
+| 15 | [Morning Pages](https://open.spotify.com/track/0hUUCxji9cN0gb8Twf0a0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:47 |
 | 16 | [Sometimes \- From "Fire Island"](https://open.spotify.com/track/18O6oj2DtAA9lPlP9Kl9R2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Sometimes \(From "Fire Island"\)](https://open.spotify.com/album/1OHC7T6smHk6ApFRemE8VE) | 3:03 |
 | 17 | [Girl's Girl](https://open.spotify.com/track/2BuLvHB2f5yWhPTYNF7CU8) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 3:13 |
 | 18 | [Solid](https://open.spotify.com/track/3TN26MWVgoxlt7rbtZ8Xb8) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 2:21 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RlK48.md) - [plain]
 | 36 | [Empathy \- MUNA Remix](https://open.spotify.com/track/2biwJRdhdBM2Zq4mHBje3z) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Empathy \(MUNA Remix\)](https://open.spotify.com/album/6PMsHKfKhE6hXSS7LDJVYG) | 3:08 |
 | 37 | [Crying On The Bathroom Floor](https://open.spotify.com/track/6nVKC0GCQrf9MQSJgYiaEr) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:15 |
 
-Snapshot ID: `anJ9AAAAAAAoF/ii5k+oORw9GYsWBTXO`
+Snapshot ID: `anPOgAAAAAAMPr18hq25Y+yuMiRZvZug`

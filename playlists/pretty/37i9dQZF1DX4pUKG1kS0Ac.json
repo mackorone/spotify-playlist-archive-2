@@ -1,12 +1,12 @@
 {
   "description": "You say guilty, we say non stop bangers!",
-  "num_followers": 3393264,
+  "num_followers": 3393298,
   "original_name": "Guilty Pleasures",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG/Bs9iQKlQuep7x0Cj6af2igkbS",
+  "snapshot_id": "AAAAAIoJWurhhp506kYwG1/QXCdPL1cr",
   "tracks": [
     {
       "added_at": "2024-07-02 21:25:40",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Rock n Roll Jesus",
-        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
-      },
-      "artists": [
-        {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        }
-      ],
-      "duration_ms": 297586,
-      "name": "All Summer Long",
-      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "souljaboytellem.com",
         "url": "https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 221933,
       "name": "Crank That (Soulja Boy)",
       "url": "https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "Rock n Roll Jesus",
+        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
+      },
+      "artists": [
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        }
+      ],
+      "duration_ms": 297586,
+      "name": "All Summer Long",
+      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
-      },
-      "artists": [
-        {
-          "name": "Alien Ant Farm",
-          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "Smooth Criminal",
-      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "The Best Of Earth, Wind & Fire Vol. 1",
         "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
       },
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
+      },
+      "artists": [
+        {
+          "name": "Alien Ant Farm",
+          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "Smooth Criminal",
+      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
         "name": "Please Hammer Don't Hurt 'Em",
         "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
       },
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Here's To The Good Times",
-        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
-      },
-      "artists": [
-        {
-          "name": "Florida Georgia Line",
-          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
-        }
-      ],
-      "duration_ms": 208960,
-      "name": "Cruise",
-      "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "Unleash The Dragon",
         "url": "https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 253733,
       "name": "Thong Song",
       "url": "https://open.spotify.com/track/5Mmk2ii6laakqfeCT7OnVD"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "Here's To The Good Times",
+        "url": "https://open.spotify.com/album/5MH765pytbQasmDxXArTah"
+      },
+      "artists": [
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        }
+      ],
+      "duration_ms": 208960,
+      "name": "Cruise",
+      "url": "https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Some Gave All",
-        "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
-      },
-      "artists": [
-        {
-          "name": "Billy Ray Cyrus",
-          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Achy Breaky Heart",
-      "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/4WiN45TcjcmOnnk8ZPzIIO"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 336840,
       "name": "Mr. Vain",
       "url": "https://open.spotify.com/track/2rTYgHxgcndkUrRoU7x0Sv"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "Some Gave All",
+        "url": "https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV"
+      },
+      "artists": [
+        {
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Achy Breaky Heart",
+      "url": "https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Cruisin'",
-        "url": "https://open.spotify.com/album/3kdp1PnxkKlshMP3qG2CUG"
-      },
-      "artists": [
-        {
-          "name": "Village People",
-          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
-        }
-      ],
-      "duration_ms": 286666,
-      "name": "Y.M.C.A.",
-      "url": "https://open.spotify.com/track/4YOJFyjqh8eAcbKFfv88mV"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/7wlnHCWKkBXBWtYgpaCaz7"
       },
@@ -2399,6 +2383,22 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
+        "name": "Cruisin'",
+        "url": "https://open.spotify.com/album/3kdp1PnxkKlshMP3qG2CUG"
+      },
+      "artists": [
+        {
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+        }
+      ],
+      "duration_ms": 286666,
+      "name": "Y.M.C.A.",
+      "url": "https://open.spotify.com/track/4YOJFyjqh8eAcbKFfv88mV"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
         "name": "Best Of Montell Jordan",
         "url": "https://open.spotify.com/album/6J9fX2iXc9W7ILQUWvEhAx"
       },
@@ -2415,22 +2415,6 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Tubthumper",
-        "url": "https://open.spotify.com/album/0x3uUHhj8bCoM5Uzi5FNIv"
-      },
-      "artists": [
-        {
-          "name": "Chumbawamba",
-          "url": "https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz"
-        }
-      ],
-      "duration_ms": 278960,
-      "name": "Tubthumping",
-      "url": "https://open.spotify.com/track/5YScXJKtefsgdskIy60N7A"
-    },
-    {
-      "added_at": "2024-07-02 21:25:40",
-      "album": {
         "name": "KC & the Sunshine Band",
         "url": "https://open.spotify.com/album/6S2ZnQo8V7k7EQZZEK3WcR"
       },
@@ -2443,6 +2427,22 @@
       "duration_ms": 185106,
       "name": "That's the Way (I Like It) - 2004 Remaster",
       "url": "https://open.spotify.com/track/1qiQduM84A0VeH8Y2uAbqi"
+    },
+    {
+      "added_at": "2024-07-02 21:25:40",
+      "album": {
+        "name": "Tubthumper",
+        "url": "https://open.spotify.com/album/0x3uUHhj8bCoM5Uzi5FNIv"
+      },
+      "artists": [
+        {
+          "name": "Chumbawamba",
+          "url": "https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz"
+        }
+      ],
+      "duration_ms": 278960,
+      "name": "Tubthumping",
+      "url": "https://open.spotify.com/track/5YScXJKtefsgdskIy60N7A"
     },
     {
       "added_at": "2024-07-02 21:25:40",
@@ -2483,18 +2483,18 @@
     {
       "added_at": "2024-07-02 21:25:40",
       "album": {
-        "name": "Every 1's a Winner",
-        "url": "https://open.spotify.com/album/2MdCe2CS9EcdJ9V20TKzxo"
+        "name": "Middle Of Nowhere",
+        "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
       },
       "artists": [
         {
-          "name": "Hot Chocolate",
-          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
+          "name": "Hanson",
+          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
         }
       ],
-      "duration_ms": 289266,
-      "name": "Every 1's a Winner - Single Version",
-      "url": "https://open.spotify.com/track/5MXXbGYNmRHR7ULMvZYo5R"
+      "duration_ms": 268653,
+      "name": "MMMBop",
+      "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
     }
   ],
   "unique_name": "Guilty Pleasures",

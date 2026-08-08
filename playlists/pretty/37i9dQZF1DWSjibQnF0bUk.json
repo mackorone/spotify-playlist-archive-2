@@ -1,12 +1,12 @@
 {
   "description": "Definitive African party starters, perfect for any jollof jam or braai! \"Spray\" money to these hits!",
-  "num_followers": 591463,
+  "num_followers": 591569,
   "original_name": "Afro Party Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKmRnVFyukiaSFpbi9572AMuYH6b",
+  "snapshot_id": "AAAAALUT9aqbWlvWzm9AmV7dlRfIJEoF",
   "tracks": [
     {
       "added_at": "2026-08-07 00:01:21",
@@ -147,26 +147,6 @@
     {
       "added_at": "2026-08-07 00:01:21",
       "album": {
-        "name": "treat u right",
-        "url": "https://open.spotify.com/album/40A1rVfEkPBAri7GV6iCZE"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 177565,
-      "name": "treat u right",
-      "url": "https://open.spotify.com/track/38Mnfr1l5t2kckdzoJuXTl"
-    },
-    {
-      "added_at": "2026-08-07 00:01:21",
-      "album": {
         "name": "Big Bum Bum",
         "url": "https://open.spotify.com/album/3sb9wp0YtrNwfHajHmWF8S"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 159183,
       "name": "Big Bum Bum",
       "url": "https://open.spotify.com/track/1heVYYJgIbEmeEQ8ye0YFX"
+    },
+    {
+      "added_at": "2026-08-07 00:01:21",
+      "album": {
+        "name": "treat u right",
+        "url": "https://open.spotify.com/album/40A1rVfEkPBAri7GV6iCZE"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 177565,
+      "name": "treat u right",
+      "url": "https://open.spotify.com/track/38Mnfr1l5t2kckdzoJuXTl"
     },
     {
       "added_at": "2026-08-07 00:01:21",
@@ -419,6 +419,22 @@
     {
       "added_at": "2026-08-07 00:01:21",
       "album": {
+        "name": "Business",
+        "url": "https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 146490,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/16TR0AiDrZRV9TFOXBcSE9"
+    },
+    {
+      "added_at": "2026-08-07 00:01:21",
+      "album": {
         "name": "Nakupenda",
         "url": "https://open.spotify.com/album/3xbbiXWEHWpCqxDAXKUu5d"
       },
@@ -455,38 +471,22 @@
     {
       "added_at": "2026-08-07 00:01:21",
       "album": {
-        "name": "Gimme Dat Ting",
-        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
+        "name": "Who\u2019s Dat Girl",
+        "url": "https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         },
         {
-          "name": "NO11",
-          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 243755,
-      "name": "Gimme Dat Ting (with NO11)",
-      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
-    },
-    {
-      "added_at": "2026-08-07 00:01:21",
-      "album": {
-        "name": "Business",
-        "url": "https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 146490,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/16TR0AiDrZRV9TFOXBcSE9"
+      "duration_ms": 172912,
+      "name": "Who's Dat Girl (feat. Rema)",
+      "url": "https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC"
     },
     {
       "added_at": "2026-08-07 00:01:21",
@@ -507,22 +507,22 @@
     {
       "added_at": "2026-08-07 00:01:21",
       "album": {
-        "name": "Who\u2019s Dat Girl",
-        "url": "https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW"
+        "name": "Gimme Dat Ting",
+        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         },
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
         }
       ],
-      "duration_ms": 172912,
-      "name": "Who's Dat Girl (feat. Rema)",
-      "url": "https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC"
+      "duration_ms": 243755,
+      "name": "Gimme Dat Ting (with NO11)",
+      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
     },
     {
       "added_at": "2026-08-07 00:01:21",
@@ -559,26 +559,6 @@
     {
       "added_at": "2026-08-07 00:01:21",
       "album": {
-        "name": "Oriad\u00e9",
-        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 150147,
-      "name": "Tell Everybody (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/23tywY9NLMzeejiRxMU4GY"
-    },
-    {
-      "added_at": "2026-08-07 00:01:21",
-      "album": {
         "name": "Mofe",
         "url": "https://open.spotify.com/album/6Pshl1rktRcEVRGlPO9BrB"
       },
@@ -591,26 +571,6 @@
       "duration_ms": 185000,
       "name": "Mofe",
       "url": "https://open.spotify.com/track/1w8lSGDuMUgRh7rygMp7VB"
-    },
-    {
-      "added_at": "2026-08-07 00:01:21",
-      "album": {
-        "name": "E No Easy",
-        "url": "https://open.spotify.com/album/2TPQ4alxvgfyHnKlZ3723j"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "DopeNation",
-          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
-        }
-      ],
-      "duration_ms": 190719,
-      "name": "E No Easy",
-      "url": "https://open.spotify.com/track/0AxUoDxP0qtepOj4Fh227x"
     },
     {
       "added_at": "2026-08-07 00:01:21",
@@ -635,6 +595,46 @@
     {
       "added_at": "2026-08-07 00:01:21",
       "album": {
+        "name": "E No Easy",
+        "url": "https://open.spotify.com/album/2TPQ4alxvgfyHnKlZ3723j"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "duration_ms": 190719,
+      "name": "E No Easy",
+      "url": "https://open.spotify.com/track/0AxUoDxP0qtepOj4Fh227x"
+    },
+    {
+      "added_at": "2026-08-07 00:01:21",
+      "album": {
+        "name": "Oriad\u00e9",
+        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 150147,
+      "name": "Tell Everybody (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/23tywY9NLMzeejiRxMU4GY"
+    },
+    {
+      "added_at": "2026-08-07 00:01:21",
+      "album": {
         "name": "Site 15",
         "url": "https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2"
       },
@@ -647,42 +647,6 @@
       "duration_ms": 236460,
       "name": "Over",
       "url": "https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B"
-    },
-    {
-      "added_at": "2026-08-07 00:01:21",
-      "album": {
-        "name": "REAL, Vol. 1",
-        "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 155773,
-      "name": "Alaye",
-      "url": "https://open.spotify.com/track/1juUeg0oAfCwO8xWj4rzZg"
-    },
-    {
-      "added_at": "2026-08-07 00:01:21",
-      "album": {
-        "name": "Buku Jero",
-        "url": "https://open.spotify.com/album/4F43Xeo1WqnVcZkXBwJIBL"
-      },
-      "artists": [
-        {
-          "name": "Mbosso",
-          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
-        }
-      ],
-      "duration_ms": 169166,
-      "name": "Buku Jero",
-      "url": "https://open.spotify.com/track/0XjxAKtHWLtC48h2IcuMIr"
     },
     {
       "added_at": "2026-08-07 00:01:21",
@@ -703,6 +667,42 @@
       "duration_ms": 188571,
       "name": "BB Lifestyle",
       "url": "https://open.spotify.com/track/2U6SxKaCtqPV3ppj2EBb2T"
+    },
+    {
+      "added_at": "2026-08-07 00:01:21",
+      "album": {
+        "name": "Buku Jero",
+        "url": "https://open.spotify.com/album/4F43Xeo1WqnVcZkXBwJIBL"
+      },
+      "artists": [
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "duration_ms": 169166,
+      "name": "Buku Jero",
+      "url": "https://open.spotify.com/track/0XjxAKtHWLtC48h2IcuMIr"
+    },
+    {
+      "added_at": "2026-08-07 00:01:21",
+      "album": {
+        "name": "REAL, Vol. 1",
+        "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 155773,
+      "name": "Alaye",
+      "url": "https://open.spotify.com/track/1juUeg0oAfCwO8xWj4rzZg"
     },
     {
       "added_at": "2026-08-07 00:01:21",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-08-07 00:01:21",
       "album": {
+        "name": "CAPTAIN",
+        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 204159,
+      "name": "Laye Mi",
+      "url": "https://open.spotify.com/track/28NElMiahjGMfcE1G8Y6TG"
+    },
+    {
+      "added_at": "2026-08-07 00:01:21",
+      "album": {
         "name": "EZIOKWU",
         "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 233571,
       "name": "BLOOD ON THE DANCE FLOOR (feat. Bloody Civilian and Wale)",
       "url": "https://open.spotify.com/track/35MU2MEhQMw0NhXZztAP9m"
-    },
-    {
-      "added_at": "2026-08-07 00:01:21",
-      "album": {
-        "name": "CAPTAIN",
-        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 204159,
-      "name": "Laye Mi",
-      "url": "https://open.spotify.com/track/28NElMiahjGMfcE1G8Y6TG"
     },
     {
       "added_at": "2026-08-07 00:01:21",

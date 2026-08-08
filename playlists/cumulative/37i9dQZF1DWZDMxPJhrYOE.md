@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-1,200 songs - 2 day 14 hr 35 min
+1,200 songs - 2 day 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Childhood](https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Loner](https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5) | 3:51 | 2025-07-17 | 2025-09-10 |
 | [Childlike Things](https://open.spotify.com/track/5GmXpNIK6yGwTtKBITIqzK) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 2:30 | 2025-01-24 | 2025-04-01 |
 | [Chimiyé](https://open.spotify.com/track/6xaoSNgphFog6VMIqGteYZ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Chimiyé](https://open.spotify.com/album/47cEV3nBAEdOqKQrq3dBaE) | 2:31 | 2025-02-24 | 2025-04-18 |
+| [CIRKLER \(feat\. wicky\)](https://open.spotify.com/track/3tlOXNiSKM8y67sn0jgPzQ) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9), [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP) | [VÆRD AT ELSKE](https://open.spotify.com/album/5EzEAM6zAqc9VPM0xs6Muc) | 2:46 | 2026-08-06 |  |
 | [CLEOPATRA](https://open.spotify.com/track/65C4AmFA6oyMJ2lwLNPiIB) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [CLEOPATRA](https://open.spotify.com/album/0r4JsF8r5F6np0Dyt5P4e6) | 2:15 | 2024-10-24 | 2025-01-25 |
 | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/track/5PspYmmQ8nKESNTcBY2LlX) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Click Clack Symphony\. \(feat\. Hans Zimmer\)](https://open.spotify.com/album/16dAl7WPULgJnqi536jTjh) | 5:01 | 2026-03-19 | 2026-05-22 |
 | [Clickbait](https://open.spotify.com/track/0sZVUPz6frFnRdwIfxZVko) | [KARLA](https://open.spotify.com/artist/1CEg4ddOkDrZnyNlIdhjNC) | [Clickbait](https://open.spotify.com/album/0GRSqKOh0PtQXj9XOKTzAJ) | 2:34 | 2025-11-13 | 2025-11-28 |
@@ -1083,7 +1084,6 @@
 | [TOO BAD](https://open.spotify.com/track/0GOqhXyouUxqPEw9ypTOLm) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Übermensch](https://open.spotify.com/album/4FviRd7FubuuGNVt2qME1G) | 2:33 | 2025-02-27 | 2025-04-18 |
 | [Tornado](https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Tornado](https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U) | 2:54 | 2026-06-11 |  |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-06 | 2025-02-25 |
-| [Track 6](https://open.spotify.com/track/3tlOXNiSKM8y67sn0jgPzQ) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [VÆRD AT ELSKE](https://open.spotify.com/album/5EzEAM6zAqc9VPM0xs6Muc) | 0:00 | 2026-08-06 |  |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-07-01 | 2024-08-01 |
 | [Tro På Det](https://open.spotify.com/track/1ZatLEMZsAslxDA5zw3S6V) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [SkyLL](https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x) | 2:58 | 2024-09-19 | 2025-01-25 |
 | [Tropical \(feat\. Gilli\)](https://open.spotify.com/track/52raIkLsg4Qhfb80DqzitG) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Tropical \(feat\. Gilli\)](https://open.spotify.com/album/1BiMjrMjAmDcXQh06wAKLH) | 2:11 | 2025-07-31 | 2025-08-22 |

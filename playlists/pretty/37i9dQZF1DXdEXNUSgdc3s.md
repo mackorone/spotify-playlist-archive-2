@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXNUSgdc3s.md) - [plain]
 
 > Alpha frequencies to reach the point of ultimate relaxation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,054 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,095 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXNUSgdc3s.md) - [plain]
 | 99 | [Pale Sky \(Alpha 105hz \- 115hz\)](https://open.spotify.com/track/2VWHcVd0PoHo71OZwce6XP) | [aerlyn](https://open.spotify.com/artist/75XLQ2rF3h04q9AoFXqJFE) | [Pale Sky \(Alpha 105hz \- 115hz\)](https://open.spotify.com/album/3alVl1qWPrVRjzmuNuXe2Y) | 2:46 |
 | 100 | [Brain Power \(Alpha Brain Waves\)](https://open.spotify.com/track/1NXMpaKY6ILSOk1BFqdV9k) | [Mc\_team](https://open.spotify.com/artist/3MJrefxSroHCVFRnck3EFm) | [Brain Power \(Alpha Brain Waves\)](https://open.spotify.com/album/0QqTxNoQLuiO5Uhkw9N6ID) | 2:15 |
 
-Snapshot ID: `AAAAAFzdYzv+HHlGMClOw4ceeKMPazry`
+Snapshot ID: `AAAAAHatSLJ9IRx8k4UkTHqs1S1JSuUs`

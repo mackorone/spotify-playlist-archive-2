@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30Mgh34Cry8.md) - [plain]
 
 > Music for all your adventures on Roblox\. Check out <a href="https://www.roblox.com/spotify">Spotify Island on Roblox</a> today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,318 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,308 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30Mgh34Cry8.md) - [plain]
 | 18 | [Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Cavetown](https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t) | 2:59 |
 | 19 | [Prom Night](https://open.spotify.com/track/7KhJdiu4zbPlhlImRLIyDl) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Prom Night](https://open.spotify.com/album/3ft78ZmPZcpVxpgzHTqcNZ) | 2:25 |
 | 20 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 |
-| 21 | [moment](https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m) | 2:09 |
-| 22 | [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 |
+| 21 | [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 |
+| 22 | [moment](https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m) | 2:09 |
 | 23 | [Raining Tacos](https://open.spotify.com/track/01apQz7E72krU1k1b4VWs7) | [Parry Gripp](https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc) | [Parry Gripp Mega\-Party \(2008 \- 2012\)](https://open.spotify.com/album/0xbbsauKysPCTQDd38P2CW) | 1:32 |
 | 24 | [Dandelions \- slowed + reverb](https://open.spotify.com/track/6fhG2KJgwO7CrNflRaRmvp) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl), [slater](https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7) | [Dandelions \(slowed + reverb\)](https://open.spotify.com/album/0W26SC6AcPdqk1Hz5hfWnj) | 4:28 |
 | 25 | [Gashina](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SUNMI SPECIAL EDITION \[Gashina\]](https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN) | 3:00 |
-| 26 | [Light](https://open.spotify.com/track/6jq6rcOikCZAmjliAgAmfT) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [Light](https://open.spotify.com/album/4k2ygY7kW4n1eVtR2i0F0H) | 3:59 |
-| 27 | [Black Mamba](https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Black Mamba](https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7) | 2:54 |
+| 26 | [Black Mamba](https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Black Mamba](https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7) | 2:54 |
+| 27 | [Light](https://open.spotify.com/track/6jq6rcOikCZAmjliAgAmfT) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [Light](https://open.spotify.com/album/4k2ygY7kW4n1eVtR2i0F0H) | 3:59 |
 | 28 | [Yucky Blucky Fruitcake](https://open.spotify.com/track/1j3SdMJfeRJXycCp50boYE) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 4:35 |
 | 29 | [Mood \(feat\. iann dior\)](https://open.spotify.com/track/0FOQOr2M57GI3aESpAgElX) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [El Dorado](https://open.spotify.com/album/0M0Zxu7KVzFZZ8q4z2i4gi) | 2:20 |
 | 30 | [NEVER MET! \(feat\. Glitch Gum\)](https://open.spotify.com/track/4Bh7x70sJfofaZMdq32DcR) | [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [MUSIC BOX](https://open.spotify.com/album/4FdAkhYfsuzkBy2z5elUAy) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30Mgh34Cry8.md) - [plain]
 | 49 | [Don't Call Me a Noob](https://open.spotify.com/track/5lj7W0CHHxC9n5Zs6qFafX) | [Mr Miln](https://open.spotify.com/artist/5fYpjzyIlOPN39ALSPv7fG) | [Don't Call Me a Noob](https://open.spotify.com/album/3rZhBwyKZWNP0iPzlaf9Zj) | 2:38 |
 | 50 | [FIGHT! \- Flyday Chinatown](https://open.spotify.com/track/5uSG2qFsXcAG1QV5D5jmML) | [Aests](https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu) | [The Classics](https://open.spotify.com/album/7JkklGVVb5DKH5lAEx23Ys) | 2:02 |
 
-Snapshot ID: `AAAAAPUojzxrZjXknJjUChJ3RpCeIZ3o`
+Snapshot ID: `AAAAAHlMZuHZWot8KSq+G5KerQ8H1jMD`

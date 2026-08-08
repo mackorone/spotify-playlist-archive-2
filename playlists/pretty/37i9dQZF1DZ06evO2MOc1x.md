@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 
 > This is Bonnie Raitt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,366 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,369 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 | 27 | [Louise \- 2008 Remaster](https://open.spotify.com/track/5hAXzCx8xvI15AcsHwEkEl) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Sweet Forgiveness](https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B) | 2:45 |
 | 28 | [I Feel the Same \- 2008 Remaster](https://open.spotify.com/track/0R5BQ3uQkPKITB7rDgNUhh) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Takin' My Time](https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra) | 4:39 |
 | 29 | [Feels Like Home](https://open.spotify.com/track/7mUQ0w8i88ObXwSnrUwfZO) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Music From The Motion Picture Michael](https://open.spotify.com/album/52LfK1ML8u7Xj1ArC8oC22) | 4:24 |
-| 30 | [I Will Not Be Broken](https://open.spotify.com/track/7dS8Pt5M2lsBJuPhTMvRuq) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Souls Alike](https://open.spotify.com/album/3iK0XCTRh5zfLjfrmO3agU) | 3:38 |
-| 31 | [I Don't Want Anything To Change \- Live](https://open.spotify.com/track/5LoxEEVJZexmsipbWNxSZs) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Bonnie Raitt And Friends](https://open.spotify.com/album/4qt6BOh1VgNCyNyKYnFb5A) | 5:00 |
+| 30 | [I Don't Want Anything To Change \- Live](https://open.spotify.com/track/5LoxEEVJZexmsipbWNxSZs) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Bonnie Raitt And Friends](https://open.spotify.com/album/4qt6BOh1VgNCyNyKYnFb5A) | 5:00 |
+| 31 | [I Will Not Be Broken](https://open.spotify.com/track/7dS8Pt5M2lsBJuPhTMvRuq) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Souls Alike](https://open.spotify.com/album/3iK0XCTRh5zfLjfrmO3agU) | 3:38 |
 | 32 | [Write Me a Few of Your Lines / Kokomo Blues \- 2008 Remaster](https://open.spotify.com/track/5Juf20LCeAalwUoeQQHaSP) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Takin' My Time](https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra) | 3:36 |
 | 33 | [Good Man, Good Woman](https://open.spotify.com/track/3ooyUyDHyNU7HfUoJky1Ei) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 3:33 |
-| 34 | [Kisses Sweeter than Wine](https://open.spotify.com/track/03XiG8UT6iWa3kDVGHcTW4) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Where Have All The Flowers Gone: The Songs Of Pete Seeger](https://open.spotify.com/album/7A34ZUoI1EdUKSHlDY6iRF) | 4:43 |
-| 35 | [Right Down The Line](https://open.spotify.com/track/1ciDeTaBbYEP3aBj2Eu5X4) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Slipstream](https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T) | 5:27 |
+| 34 | [Right Down The Line](https://open.spotify.com/track/1ciDeTaBbYEP3aBj2Eu5X4) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Slipstream](https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T) | 5:27 |
+| 35 | [Kisses Sweeter than Wine](https://open.spotify.com/track/03XiG8UT6iWa3kDVGHcTW4) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Where Have All The Flowers Gone: The Songs Of Pete Seeger](https://open.spotify.com/album/7A34ZUoI1EdUKSHlDY6iRF) | 4:43 |
 | 36 | [You've Been in Love Too Long \- 2008 Remaster](https://open.spotify.com/track/1jiYXUtNTeZzebDXDGgGQd) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Takin' My Time](https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra) | 3:43 |
 | 37 | [You](https://open.spotify.com/track/0gvmmdReQ6mZ9fVFiRaLOZ) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Longing In Their Hearts](https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI) | 4:27 |
 | 38 | [Your Sweet and Shiny Eyes \- 2008 Remaster](https://open.spotify.com/track/34FN0vnOsqW7okjKNJ2uUE) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Home Plate \(2008 Remaster\)](https://open.spotify.com/album/5yBKOUYfEPb2CgFLpgeFLX) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 | 49 | [Blame it On Me](https://open.spotify.com/track/6t6mN09CvoFzDpRVNrXcdF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 5:47 |
 | 50 | [Need You Tonight](https://open.spotify.com/track/0GNQAGdA4i46QxT8qZx0mG) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 3:19 |
 
-Snapshot ID: `anJ9AAAAAACk0SaXBPQrJuXY4AwEc5ug`
+Snapshot ID: `anPOgAAAAABahzjKUS+RafhdEwWlzgMm`

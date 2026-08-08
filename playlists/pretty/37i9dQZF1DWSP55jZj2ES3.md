@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 
 > Indie jams that sound like lounging under the sun with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,553 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,526 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 49 | [Window](https://open.spotify.com/track/42Fm8hxhh8i0Zx0Si7XIxd) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [If This Isn’t Nice, I Don’t Know What Is](https://open.spotify.com/album/0QnWm07An8WyO3eupjBDoP) | 2:19 |
 | 50 | [Beat 54 \(All Good Now\)](https://open.spotify.com/track/7CFbh9XfJ40XaYWgCbYX3H) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 4:06 |
 | 51 | [Campus](https://open.spotify.com/track/1eNrlXlW7Cj1QB1YUcZmpb) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:56 |
-| 52 | [Take Care](https://open.spotify.com/track/1igtKwX3EHjN95HanbkHNg) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e) | 5:48 |
-| 53 | [Iceblink Luck](https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:18 |
+| 52 | [Iceblink Luck](https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:18 |
+| 53 | [Take Care](https://open.spotify.com/track/1igtKwX3EHjN95HanbkHNg) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e) | 5:48 |
 | 54 | [Buttercup](https://open.spotify.com/track/6iCJCZqDJjmBxt07Oid6FI) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 3:46 |
 | 55 | [Prism](https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Prism](https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n) | 3:52 |
 | 56 | [Soaked](https://open.spotify.com/track/4zIiarkbaDt2cm6sukb1Xt) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 4:00 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 72 | [Tuesday](https://open.spotify.com/track/5LjKOTy2cNgmcmXVVMWGZe) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Tuesday](https://open.spotify.com/album/60WYgmEkFT4MpbjOovAkSG) | 3:11 |
 | 73 | [I Was Sad Last Night I'm OK Now](https://open.spotify.com/track/0gEcmyKlIUoi3sHTFVO1bE) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [Live on Ice](https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a) | 3:10 |
 | 74 | [Trouble On Central](https://open.spotify.com/track/3tsFWhe45D6CGFSMA77T3B) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Harlan & Alondra](https://open.spotify.com/album/5djciKtjqkY9ZQ1OhKICXN) | 3:07 |
-| 75 | [Enjoy Your Life](https://open.spotify.com/track/2wwXXUy6P0TCqDNsU0ygm5) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 4:00 |
-| 76 | [Early](https://open.spotify.com/track/6AcFiVsHvDtat3rmHNK2Nf) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Jafaris](https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg) | [Early](https://open.spotify.com/album/5Q7XISk90DAYHFghAvKYI9) | 3:13 |
+| 75 | [Early](https://open.spotify.com/track/6AcFiVsHvDtat3rmHNK2Nf) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Jafaris](https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg) | [Early](https://open.spotify.com/album/5Q7XISk90DAYHFghAvKYI9) | 3:13 |
+| 76 | [Enjoy Your Life](https://open.spotify.com/track/2wwXXUy6P0TCqDNsU0ygm5) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 4:00 |
 | 77 | [My Body ft Your Lips](https://open.spotify.com/track/4xkxhTvP9tmCKfAIO8GFJR) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy), [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:53 |
 | 78 | [Dapper \(feat\. Anderson .Paak\)](https://open.spotify.com/track/2Nh2cMryoXl7BrZoIeN2Pr) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Genesis](https://open.spotify.com/album/3mhZHDmHvIUAeAYH7MrXBW) | 3:13 |
 | 79 | [Moment](https://open.spotify.com/track/4CpqVGd8GCTFQqEifhgsTz) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [MOVIES! WORLDWIDE: PART I](https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md) | 2:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 99 | [In Your Mind](https://open.spotify.com/track/1pb3GpXukIdPvhwSEDLclz) | [Straats](https://open.spotify.com/artist/0higlnOzPAny6nOraITrsP) | [2 Be & In Your Mind](https://open.spotify.com/album/57mzzgh3cM00tUcFH8xeVe) | 2:35 |
 | 100 | [Slug](https://open.spotify.com/track/0BnQ1jQWb6Th7e0jMQhB3F) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Slug](https://open.spotify.com/album/1KtfoFXpZEzixT8iPzCmmK) | 3:00 |
 
-Snapshot ID: `AAAAAOvweeFGBb2QEPC1JJLbzJeQ6u8Z`
+Snapshot ID: `AAAAABMF3uNnLwPWy6MFB09Yt06u/sdp`

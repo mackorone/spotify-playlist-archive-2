@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 
 > This is Lil Tecca\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,326 likes - 46 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,358 likes - 46 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 | 18 | [I CAN’T LET GO](https://open.spotify.com/track/1Ftb0PK0Qqwax3gofiMd2X) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [PLAN A](https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL) | 2:30 |
 | 19 | [NEVER LEFT](https://open.spotify.com/track/0soNGRgFn7aq1T4LXtFDMb) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 2:48 |
 | 20 | [Half The Plot](https://open.spotify.com/track/3zAWhIscp6ehzXv3KHorwb) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:45 |
-| 21 | [Rover \(feat\. Lil Tecca\)](https://open.spotify.com/track/6E6RS1uUDxxYiWMmEKrxnh) | [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Rover \(feat\. Lil Tecca\)](https://open.spotify.com/album/4mywvojjCi9vsVNSPRCNfR) | 2:46 |
+| 21 | [Shots](https://open.spotify.com/track/6eSU1exzDvBEXmBRxspeh5) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 1:49 |
 | 22 | [TASTE](https://open.spotify.com/track/3IM6Cc6bK88qFYXrF8wh8t) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [PLAN A](https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL) | 2:50 |
-| 23 | [Shots](https://open.spotify.com/track/6eSU1exzDvBEXmBRxspeh5) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 1:49 |
+| 23 | [Rover \(feat\. Lil Tecca\)](https://open.spotify.com/track/6E6RS1uUDxxYiWMmEKrxnh) | [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Rover \(feat\. Lil Tecca\)](https://open.spotify.com/album/4mywvojjCi9vsVNSPRCNfR) | 2:46 |
 | 24 | [Boys Don’t Cry](https://open.spotify.com/track/6aCzWpIVNoaT8OTeQ3w8If) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:31 |
 | 25 | [Fell In Love \(with Ken Carson\)](https://open.spotify.com/track/302EsF6DE70LfngVNLlqo5) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 2:53 |
 | 26 | [NEVER LAST](https://open.spotify.com/track/7JKwHEhYWjEDiaAVqm0RZd) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [PLAN A](https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL) | 2:21 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 | 45 | [Memories in My Head](https://open.spotify.com/track/6FQtgWGaP23uTMtjfIs2tZ) | [icyslug](https://open.spotify.com/artist/2JjRgfsTKxurqJfBz8FgZu), [LouGotCash](https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Memories in My Head](https://open.spotify.com/album/78hRaefit0PBhkcXmFmZL2) | 3:11 |
 | 46 | [All Star \(with Lil Tjay\)](https://open.spotify.com/track/62uolmVjOio9xIfwDM1ZvC) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [All Star](https://open.spotify.com/album/45LIS5vxDcdMniZcD6biUD) | 3:00 |
 
-Snapshot ID: `anJ9AAAAAADyYcjAZkhtkOsMV5oyeNON`
+Snapshot ID: `anPOgAAAAABduxMigiChnoJoHEPucWLa`

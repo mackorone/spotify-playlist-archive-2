@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 
 > Jejeran artis perempuan inspiratif Indonesia\. Cover: Kris Dayanti
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,973 likes - 70 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,971 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 | 69 | [Bloom](https://open.spotify.com/track/31wZxPeJt5orIVYQGwqrWS) | [KLAV](https://open.spotify.com/artist/2Rzj6pwJrpcPvILalPsGjU) | [Bloom](https://open.spotify.com/album/1gGfU3AD1WJJMu3nG1x0SV) | 5:30 |
 | 70 | [Difference](https://open.spotify.com/track/1bhMxRHujv6SzNMDeFAw9T) | [safiradinda](https://open.spotify.com/artist/2dptqJyVPAcFp771zi3IOP) | [Difference](https://open.spotify.com/album/3Md6Ln2jgbj4Wakq37VS5q) | 3:08 |
 
-Snapshot ID: `AAAAAPSikboxr2B5gWvmlB0me+lwmFTC`
+Snapshot ID: `AAAAAG+u0Z0jaPWimtAWOGVxG+TR4w/T`

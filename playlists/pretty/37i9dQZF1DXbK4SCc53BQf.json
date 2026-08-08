@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 107800,
+  "num_followers": 107812,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIYpDSAGn7FZv3BGX9m3GylYeKQg",
+  "snapshot_id": "AAAAAArIZHRFPU0EFECMSRYiu9sffbQI",
   "tracks": [
     {
       "added_at": "2026-07-25 02:27:25",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
-        "name": "DIOS me dio colores",
-        "url": "https://open.spotify.com/album/6Ap9zoh5gSzckGmTXWbIJ5"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 183135,
-      "name": "DIOS me dio colores",
-      "url": "https://open.spotify.com/track/1VxbYLgB905OCiWWWb2bcm"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
         "name": "NO TIENES IGUAL",
         "url": "https://open.spotify.com/album/4Nrx6RkWTYqGr3IW2XLdNT"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 247983,
       "name": "NO TIENES IGUAL",
       "url": "https://open.spotify.com/track/3W2H4Ss0F4C0XqTJfa2ke9"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
+        "name": "DIOS me dio colores",
+        "url": "https://open.spotify.com/album/6Ap9zoh5gSzckGmTXWbIJ5"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "duration_ms": 183135,
+      "name": "DIOS me dio colores",
+      "url": "https://open.spotify.com/track/1VxbYLgB905OCiWWWb2bcm"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
-        "name": "Aleluya",
-        "url": "https://open.spotify.com/album/3YdRfqiRJegnQ51A6GXbOZ"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 197361,
-      "name": "Aleluya",
-      "url": "https://open.spotify.com/track/4ev4Iiff5CVXkiWSYgaqrO"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
         "name": "Bajo la Luna",
         "url": "https://open.spotify.com/album/16gdetmIdSQmGsOBN6YhfY"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 229040,
       "name": "Bajo la Luna",
       "url": "https://open.spotify.com/track/2Cox3krXGo7Fs1YiVAsn0Q"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
+        "name": "Aleluya",
+        "url": "https://open.spotify.com/album/3YdRfqiRJegnQ51A6GXbOZ"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "duration_ms": 197361,
+      "name": "Aleluya",
+      "url": "https://open.spotify.com/track/4ev4Iiff5CVXkiWSYgaqrO"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
-        "name": "Gozo Yo Quer\u00eda",
-        "url": "https://open.spotify.com/album/4lwDrOcwReevw8i5y0rhL7"
-      },
-      "artists": [
-        {
-          "name": "Gocho",
-          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
-        }
-      ],
-      "duration_ms": 195760,
-      "name": "Gozo Yo Quer\u00eda",
-      "url": "https://open.spotify.com/track/6WBzmHtKqAcv295zwIWwa6"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
         "name": "LUNARIO",
         "url": "https://open.spotify.com/album/1QEegFpH0aL5mbGSSGEYBC"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 267789,
       "name": "Aguacero",
       "url": "https://open.spotify.com/track/6S44kKuIGObYm0jvGpUaQW"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
+        "name": "Gozo Yo Quer\u00eda",
+        "url": "https://open.spotify.com/album/4lwDrOcwReevw8i5y0rhL7"
+      },
+      "artists": [
+        {
+          "name": "Gocho",
+          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
+        }
+      ],
+      "duration_ms": 195760,
+      "name": "Gozo Yo Quer\u00eda",
+      "url": "https://open.spotify.com/track/6WBzmHtKqAcv295zwIWwa6"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
+        "name": "30 A\u00f1os de Adoraci\u00f3n Tropical",
+        "url": "https://open.spotify.com/album/5CrNPfMYE1RZXCvABtn7Aq"
+      },
+      "artists": [
+        {
+          "name": "Puchi Colon",
+          "url": "https://open.spotify.com/artist/2SuLNlSmriMddkk59UkOdi"
+        }
+      ],
+      "duration_ms": 249576,
+      "name": "Coritos Medley 2.0",
+      "url": "https://open.spotify.com/track/0lECYI5HpJSQqpKk0BRp9z"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
         "name": "Yo la Tengo",
         "url": "https://open.spotify.com/album/4OskArflNrMkkkrFi7cv7e"
       },
@@ -795,22 +811,6 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
-        "name": "30 A\u00f1os de Adoraci\u00f3n Tropical",
-        "url": "https://open.spotify.com/album/5CrNPfMYE1RZXCvABtn7Aq"
-      },
-      "artists": [
-        {
-          "name": "Puchi Colon",
-          "url": "https://open.spotify.com/artist/2SuLNlSmriMddkk59UkOdi"
-        }
-      ],
-      "duration_ms": 249576,
-      "name": "Coritos Medley 2.0",
-      "url": "https://open.spotify.com/track/0lECYI5HpJSQqpKk0BRp9z"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
         "name": "Favor y Gracia",
         "url": "https://open.spotify.com/album/70RxgRw7Fije42VXWsUH1C"
       },
@@ -827,6 +827,22 @@
       "duration_ms": 224156,
       "name": "Esta Fiesta",
       "url": "https://open.spotify.com/track/1E9HwdcZoZ9NZGf2gPM8u2"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw"
+      },
+      "artists": [
+        {
+          "name": "ANMILY",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "duration_ms": 147672,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -867,22 +883,6 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw"
-      },
-      "artists": [
-        {
-          "name": "ANMILY",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
-        }
-      ],
-      "duration_ms": 147672,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
         "name": "Hombre Nuevo",
         "url": "https://open.spotify.com/album/5fwaqRiuPuWy20W0H8L33G"
       },
@@ -895,6 +895,22 @@
       "duration_ms": 178285,
       "name": "Hombre Nuevo",
       "url": "https://open.spotify.com/track/72WPumC5PUtjxDqei587sW"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
+        "name": "Alabar\u00e9, Hall\u00e9 un buen amigo, Hubo un cambio",
+        "url": "https://open.spotify.com/album/3ki0M3SV7T5YxxyC8wkPe1"
+      },
+      "artists": [
+        {
+          "name": "Omar Salas",
+          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
+        }
+      ],
+      "duration_ms": 229180,
+      "name": "Alabar\u00e9, Hall\u00e9 un buen amigo, Hubo un cambio",
+      "url": "https://open.spotify.com/track/1I4NvCYmKakgaYtFU2KHU1"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -915,22 +931,6 @@
       "duration_ms": 179000,
       "name": "Lejos",
       "url": "https://open.spotify.com/track/55N34N8Xnl6V6ZcMricxe4"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
-        "name": "Alabar\u00e9, Hall\u00e9 un buen amigo, Hubo un cambio",
-        "url": "https://open.spotify.com/album/3ki0M3SV7T5YxxyC8wkPe1"
-      },
-      "artists": [
-        {
-          "name": "Omar Salas",
-          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
-        }
-      ],
-      "duration_ms": 229180,
-      "name": "Alabar\u00e9, Hall\u00e9 un buen amigo, Hubo un cambio",
-      "url": "https://open.spotify.com/track/1I4NvCYmKakgaYtFU2KHU1"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
+        "name": "Ped\u00ed Un Deseo",
+        "url": "https://open.spotify.com/album/6denrjuHskfvkh4ag75SN7"
+      },
+      "artists": [
+        {
+          "name": "Yaronk Rouse",
+          "url": "https://open.spotify.com/artist/0X4lCAYlpMKKkNOcuL14eI"
+        }
+      ],
+      "duration_ms": 196156,
+      "name": "Ped\u00ed Un Deseo",
+      "url": "https://open.spotify.com/track/1efS7fzuIPrfiQFVoPxjg9"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
         "name": "CARTAGENA",
         "url": "https://open.spotify.com/album/1LKiiYDppMPV3xQCn9W65N"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 164877,
       "name": "CARTAGENA",
       "url": "https://open.spotify.com/track/5PfhsUM1oFLszzFO449aC7"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
-        "name": "Ped\u00ed Un Deseo",
-        "url": "https://open.spotify.com/album/6denrjuHskfvkh4ag75SN7"
-      },
-      "artists": [
-        {
-          "name": "Yaronk Rouse",
-          "url": "https://open.spotify.com/artist/0X4lCAYlpMKKkNOcuL14eI"
-        }
-      ],
-      "duration_ms": 196156,
-      "name": "Ped\u00ed Un Deseo",
-      "url": "https://open.spotify.com/track/1efS7fzuIPrfiQFVoPxjg9"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
+        "name": "Abr\u00e1zame M\u00e1s",
+        "url": "https://open.spotify.com/album/1M7xzoxBQ7HvS9UyRO045M"
+      },
+      "artists": [
+        {
+          "name": "David Muguercia",
+          "url": "https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu"
+        }
+      ],
+      "duration_ms": 172560,
+      "name": "Abr\u00e1zame M\u00e1s",
+      "url": "https://open.spotify.com/track/1x8TSwFJ3UGBt4UcDJXtLh"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
         "name": "Todo Y Nada / Seguir Vale La Pena (Live)",
         "url": "https://open.spotify.com/album/2wDOm4jVyuBFXFkROlGKKs"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 211000,
       "name": "Todo Y Nada - En Vivo",
       "url": "https://open.spotify.com/track/48MSoPdBnDQPSQP2pwwiTj"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
-        "name": "Abr\u00e1zame M\u00e1s",
-        "url": "https://open.spotify.com/album/1M7xzoxBQ7HvS9UyRO045M"
-      },
-      "artists": [
-        {
-          "name": "David Muguercia",
-          "url": "https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu"
-        }
-      ],
-      "duration_ms": 172560,
-      "name": "Abr\u00e1zame M\u00e1s",
-      "url": "https://open.spotify.com/track/1x8TSwFJ3UGBt4UcDJXtLh"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -1259,22 +1259,6 @@
       "duration_ms": 211891,
       "name": "CONMIGO VA",
       "url": "https://open.spotify.com/track/71bIRq6Bpt1CT6Luo6u12Z"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
-        "name": "Grande y Maravillosas Son Tus Obras",
-        "url": "https://open.spotify.com/album/14kFQmxzWMlUTQiZUOttWC"
-      },
-      "artists": [
-        {
-          "name": "Altar Vivo",
-          "url": "https://open.spotify.com/artist/0KWLKDSGdlJhOfd0Wkb2mr"
-        }
-      ],
-      "duration_ms": 246919,
-      "name": "Grande y Maravillosas Son Tus Obras",
-      "url": "https://open.spotify.com/track/1QyOxWPY0hOMWV7yEuk4cq"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -1347,6 +1331,22 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
+        "name": "Grande y Maravillosas Son Tus Obras",
+        "url": "https://open.spotify.com/album/14kFQmxzWMlUTQiZUOttWC"
+      },
+      "artists": [
+        {
+          "name": "Altar Vivo",
+          "url": "https://open.spotify.com/artist/0KWLKDSGdlJhOfd0Wkb2mr"
+        }
+      ],
+      "duration_ms": 246919,
+      "name": "Grande y Maravillosas Son Tus Obras",
+      "url": "https://open.spotify.com/track/1QyOxWPY0hOMWV7yEuk4cq"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
         "name": "Consejos",
         "url": "https://open.spotify.com/album/1B2IQoytSybgbWJFqgGlS2"
       },
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
-        "name": "Me Encontr\u00f3",
-        "url": "https://open.spotify.com/album/5phrKSVCrkrFV3dSJBAy1p"
-      },
-      "artists": [
-        {
-          "name": "Omar Salas",
-          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
-        }
-      ],
-      "duration_ms": 234432,
-      "name": "Me Encontr\u00f3",
-      "url": "https://open.spotify.com/track/63u65QjlAGPZeWFiqtRnUu"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
         "name": "Mi Creador",
         "url": "https://open.spotify.com/album/16X429nrjpTB4Slqplq98d"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 176038,
       "name": "Mi Creador",
       "url": "https://open.spotify.com/track/5VIG2ergnmxEFEU3is0dMj"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
+        "name": "Me Encontr\u00f3",
+        "url": "https://open.spotify.com/album/5phrKSVCrkrFV3dSJBAy1p"
+      },
+      "artists": [
+        {
+          "name": "Omar Salas",
+          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
+        }
+      ],
+      "duration_ms": 234432,
+      "name": "Me Encontr\u00f3",
+      "url": "https://open.spotify.com/track/63u65QjlAGPZeWFiqtRnUu"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
-        "name": "Cantar\u00e9",
-        "url": "https://open.spotify.com/album/4MnjTYf9BgX5bR0EsZZaff"
-      },
-      "artists": [
-        {
-          "name": "Omar Salas",
-          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
-        }
-      ],
-      "duration_ms": 243608,
-      "name": "Cantar\u00e9",
-      "url": "https://open.spotify.com/track/2X9UqOkHdY7tiRTnG98SO8"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/4EzCYYPYJhbpVVVYoNj1xy"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 185598,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/1tInXqQ3A80Y8IUonZOHM1"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
+        "name": "Cantar\u00e9",
+        "url": "https://open.spotify.com/album/4MnjTYf9BgX5bR0EsZZaff"
+      },
+      "artists": [
+        {
+          "name": "Omar Salas",
+          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
+        }
+      ],
+      "duration_ms": 243608,
+      "name": "Cantar\u00e9",
+      "url": "https://open.spotify.com/track/2X9UqOkHdY7tiRTnG98SO8"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
-        "name": "No Me Suelto",
-        "url": "https://open.spotify.com/album/6pJMpHLpR4mxBH0dL4kzZ8"
-      },
-      "artists": [
-        {
-          "name": "Grace Lopez",
-          "url": "https://open.spotify.com/artist/37DLAGaOdejnVAgRYIr3gb"
-        }
-      ],
-      "duration_ms": 196593,
-      "name": "No Me Suelto",
-      "url": "https://open.spotify.com/track/3SXbge7gwQjLBtWddYNJOS"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
         "name": "Agarra La Bendici\u00f3n",
         "url": "https://open.spotify.com/album/1tFLoCCwpnvd4IzbeO9syJ"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 191447,
       "name": "Agarra La Bendici\u00f3n",
       "url": "https://open.spotify.com/track/5YaiFwIsbm1m1bB9dFwMMh"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
+        "name": "No Me Suelto",
+        "url": "https://open.spotify.com/album/6pJMpHLpR4mxBH0dL4kzZ8"
+      },
+      "artists": [
+        {
+          "name": "Grace Lopez",
+          "url": "https://open.spotify.com/artist/37DLAGaOdejnVAgRYIr3gb"
+        }
+      ],
+      "duration_ms": 196593,
+      "name": "No Me Suelto",
+      "url": "https://open.spotify.com/track/3SXbge7gwQjLBtWddYNJOS"
     },
     {
       "added_at": "2026-07-25 02:27:25",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-07-25 02:27:25",
       "album": {
-        "name": "Te Entrego Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1zthoHj47DANo7hIwf0ZcT"
-      },
-      "artists": [
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        }
-      ],
-      "duration_ms": 207965,
-      "name": "Te Entrego Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3vjUs4D0CfYuABhwMyG50o"
-    },
-    {
-      "added_at": "2026-07-25 02:27:25",
-      "album": {
         "name": "Hombre Nuevo",
         "url": "https://open.spotify.com/album/3viv1vGNFkD2Sro7UtDqFe"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 202659,
       "name": "Hombre Nuevo",
       "url": "https://open.spotify.com/track/71YS4ykCSdZgBfXRLOd2Vk"
+    },
+    {
+      "added_at": "2026-07-25 02:27:25",
+      "album": {
+        "name": "Te Entrego Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1zthoHj47DANo7hIwf0ZcT"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        }
+      ],
+      "duration_ms": 207965,
+      "name": "Te Entrego Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3vjUs4D0CfYuABhwMyG50o"
     },
     {
       "added_at": "2026-07-25 02:27:25",

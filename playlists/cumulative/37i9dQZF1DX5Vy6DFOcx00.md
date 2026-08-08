@@ -4,7 +4,7 @@
 
 > iykyk
 
-1,996 songs - 4 day 12 hr 7 min
+1,997 songs - 4 day 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,7 +442,7 @@
 | [Dirty Cash \(Money Talks\)](https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [The Adventures Of Stevie V](https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2) | [Dirty Cash \(Money Talks\)](https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj) | 3:41 | 2024-12-27 | 2025-05-10 |
 | [Dirty Cash \(Money Talks\) \- Sold Out 7 Inch Mix](https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA) | [The Adventures Of Stevie V](https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2) | [Dirty Cash \(Money Talks\)](https://open.spotify.com/album/4fn4LgJYOLrRsYjRQUGmrs) | 4:03 | 2024-10-03 | 2024-12-27 |
 | [Disco](https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Disco](https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3) | 2:32 | 2024-08-12 | 2025-01-10 |
-| [Distant Lover](https://open.spotify.com/track/7vpkmzisaB8R47XlxyTcfs) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On \(Deluxe Edition\)](https://open.spotify.com/album/1pwi5nEtbeFghwkwRTcZFe) | 4:16 | 2026-02-09 |  |
+| [Distant Lover](https://open.spotify.com/track/7vpkmzisaB8R47XlxyTcfs) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On \(Deluxe Edition\)](https://open.spotify.com/album/1pwi5nEtbeFghwkwRTcZFe) | 4:16 | 2026-02-09 | 2026-08-08 |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-22 | 2023-01-18 |
 | [Diva](https://open.spotify.com/track/5Ssv6DaKrW0HczVqx6zXdl) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 3:20 | 2024-10-23 | 2025-04-11 |
 | [DIVE IN!](https://open.spotify.com/track/2I8EDARURigigunOxtg7oi) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [DIVE IN!](https://open.spotify.com/album/3QEPmn54oibH1jzd1gcYyD) | 1:40 | 2022-02-22 | 2022-05-10 |
@@ -694,7 +694,7 @@
 | [Harpy Hare](https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz) | 3:00 | 2024-07-17 | 2024-12-19 |
 | [Harvey](https://open.spotify.com/track/1zFbBrZmJr1Z49HYe84dBg) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Invitation to Her's](https://open.spotify.com/album/3w5PWzbOdhuHd2oTynfBJw) | 3:31 | 2025-04-08 | 2025-05-08 |
 | [Hate Me](https://open.spotify.com/track/0QpiyJbgWUjyAQNqjIA5tO) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Hate Me](https://open.spotify.com/album/5MqrNKRQ1OjwtSiXjrzkjy) | 2:41 | 2024-08-01 | 2024-08-27 |
-| [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 | 2026-05-29 |  |
+| [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 | 2026-05-29 | 2026-08-08 |
 | [Hate You](https://open.spotify.com/track/4TgyIbBZCW0UIwS8eua06z) | [Jordi](https://open.spotify.com/artist/5ZTJEC2UH1RXQT9K1mDCJ3) | [Hate You](https://open.spotify.com/album/31NZ6pVFfwKQssNexrqb7k) | 2:56 | 2022-11-18 | 2022-12-12 |
 | [Hater's Anthem](https://open.spotify.com/track/6zNDaCnyrI3uUuvYqLpnAO) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Hater's Anthem](https://open.spotify.com/album/55cVPdr31Rh54Oq2HX0c4x) | 2:51 | 2023-08-29 | 2023-09-09 |
 | [HAUNTED](https://open.spotify.com/track/2y3kTv2pxaLM7YEwyazSH7) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [HAUNTED](https://open.spotify.com/album/0NJhMR5JGpXyDaqCgKywvf) | 2:16 | 2022-03-28 | 2022-05-05 |
@@ -1817,6 +1817,7 @@
 | [Underrated](https://open.spotify.com/track/7x68OKWmVySSU51vSqHR5x) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Underrated](https://open.spotify.com/album/4ENTdxCVdDwfNw2c9TVvUW) | 2:35 | 2023-02-15 | 2023-03-04 |
 | [UNDERSTAND](https://open.spotify.com/track/72sfmdpuO5r8cBDgs7MqZZ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:30 | 2023-04-18 | 2023-06-08 |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-03-25 | 2025-05-31 |
+| [UNETHICAL](https://open.spotify.com/track/6QKpHmO41jkd9pTp0FfmHs) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [UNETHICAL](https://open.spotify.com/album/7JGdeYz3PWV1n79hAUxhTc) | 3:39 | 2026-08-07 |  |
 | [Unfaithful](https://open.spotify.com/track/13xxBnXOuiBxVxJI458B0i) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [A Girl Like Me](https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh) | 3:46 | 2025-10-06 | 2025-10-21 |
 | [Unforgettable](https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Jungle Rules](https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC) | 3:53 | 2026-05-28 | 2026-07-23 |
 | [Unhinged](https://open.spotify.com/track/5hvyS23Ya468Sp4VeL48U5) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Unhinged](https://open.spotify.com/album/3NQxrzLOQvUi82RbGIMgIA) | 3:04 | 2025-11-10 | 2025-12-24 |
@@ -1933,7 +1934,7 @@
 | [Wild Horses \- 2009 Mix](https://open.spotify.com/track/4HGGHqN2G0RowUQOHjKdcH) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Super Deluxe\)](https://open.spotify.com/album/0ucOpNNckY0op5B1yfW6pv) | 5:41 | 2025-08-10 | 2025-08-20 |
 | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/album/5yLgEnZGrpgxjmARNWP56g) | 2:21 | 2023-10-11 | 2023-10-28 |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-09-21 | 2024-12-27 |
-| [Willing and Able](https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:57 | 2026-05-06 | 2026-05-14 |
+| [Willing and Able](https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:57 | 2026-05-06 |  |
 | [Wish \(feat\. Trippie Redd\) \- Trippie Mix](https://open.spotify.com/track/0c0YHn3DIQLl1opsQDd9kO) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LIFE'S A TRIP](https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL) | 2:56 | 2025-09-22 | 2026-02-10 |
 | [Wobble](https://open.spotify.com/track/6JLcz9UGiVxAmEZXlCucn5) | [V.I.C.](https://open.spotify.com/artist/49mHZzhcsoQB1JXWv8Q9gU) | [Beast](https://open.spotify.com/album/2xaFAO5ejxbxjL5gund9Dk) | 5:21 | 2022-11-01 | 2022-11-16 |
 | [Wolves](https://open.spotify.com/track/0tBbt8CrmxbjRP0pueQkyU) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Wolves](https://open.spotify.com/album/5gQZvWM1o8NkQndueJtZcP) | 3:17 | 2025-10-06 | 2025-10-16 |

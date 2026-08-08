@@ -1,29 +1,13 @@
 {
   "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
-  "num_followers": 55412,
+  "num_followers": 55409,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAADn8jIh4IpsyS5XRpvxoJ0r",
+  "snapshot_id": "anPOgAAAAADGzfvvR3sobnpZdBxJSMYv",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oi AG!",
-        "url": "https://open.spotify.com/album/2URiIZ2kHFP1V2NLFE9AzI"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "Oi AG!",
-      "url": "https://open.spotify.com/track/2rBT5nSYEVhVKEhWsIzzWt"
-    },
     {
       "added_at": null,
       "album": {
@@ -107,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "wakage ga itaru",
-        "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
+        "name": "Oi AG!",
+        "url": "https://open.spotify.com/album/2URiIZ2kHFP1V2NLFE9AzI"
       },
       "artists": [
         {
@@ -116,9 +100,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 253400,
-      "name": "koi geba",
-      "url": "https://open.spotify.com/track/4Vvz2vcRqx8tYyl4QdOjoA"
+      "duration_ms": 212146,
+      "name": "Oi AG!",
+      "url": "https://open.spotify.com/track/2rBT5nSYEVhVKEhWsIzzWt"
     },
     {
       "added_at": null,
@@ -171,22 +155,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u9752\u6625\u6c38\u9060",
-        "url": "https://open.spotify.com/album/4klpOxb4XO8sEHQ7Ngv1gF"
+        "name": "wakage ga itaru",
+        "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
       },
       "artists": [
-        {
-          "name": "Shonan No Kaze",
-          "url": "https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p"
-        },
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 265053,
-      "name": "\u9752\u6625\u6c38\u9060",
-      "url": "https://open.spotify.com/track/1aO9Nxg1ImfpEs70YLAiuT"
+      "duration_ms": 253400,
+      "name": "koi geba",
+      "url": "https://open.spotify.com/track/4Vvz2vcRqx8tYyl4QdOjoA"
     },
     {
       "added_at": null,
@@ -239,22 +219,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Narani Narani (feat. ATARASHII GAKKO!)",
-        "url": "https://open.spotify.com/album/35sSZefnCfHDR4rGtKj9yw"
+        "name": "\u9752\u6625\u6c38\u9060",
+        "url": "https://open.spotify.com/album/4klpOxb4XO8sEHQ7Ngv1gF"
       },
       "artists": [
         {
-          "name": "Balming Tiger",
-          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
+          "name": "Shonan No Kaze",
+          "url": "https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p"
         },
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 224297,
-      "name": "Narani Narani (feat. ATARASHII GAKKO!)",
-      "url": "https://open.spotify.com/track/1g528rQTLYwfqtVtl2uyOJ"
+      "duration_ms": 265053,
+      "name": "\u9752\u6625\u6c38\u9060",
+      "url": "https://open.spotify.com/track/1aO9Nxg1ImfpEs70YLAiuT"
     },
     {
       "added_at": null,
@@ -291,22 +271,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u653e\u751f\u4f1a",
-        "url": "https://open.spotify.com/album/37asoWjHlM134Da94j5kAc"
+        "name": "Narani Narani (feat. ATARASHII GAKKO!)",
+        "url": "https://open.spotify.com/album/35sSZefnCfHDR4rGtKj9yw"
       },
       "artists": [
         {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+          "name": "Balming Tiger",
+          "url": "https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1"
         },
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 183000,
-      "name": "\u30c9\u30e9\uff11\u72ec\u8d70",
-      "url": "https://open.spotify.com/track/7Ij982d8c03oFU29uDoGy6"
+      "duration_ms": 224297,
+      "name": "Narani Narani (feat. ATARASHII GAKKO!)",
+      "url": "https://open.spotify.com/track/1g528rQTLYwfqtVtl2uyOJ"
     },
     {
       "added_at": null,
@@ -343,6 +323,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u653e\u751f\u4f1a",
+        "url": "https://open.spotify.com/album/37asoWjHlM134Da94j5kAc"
+      },
+      "artists": [
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        },
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "\u30c9\u30e9\uff11\u72ec\u8d70",
+      "url": "https://open.spotify.com/track/7Ij982d8c03oFU29uDoGy6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AG! Calling",
         "url": "https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb"
       },
@@ -371,22 +371,6 @@
       "duration_ms": 164267,
       "name": "Go Wild",
       "url": "https://open.spotify.com/track/7k0S7glb0p9AX7jj4a6w0J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One Heart",
-        "url": "https://open.spotify.com/album/2GDMGlqGHyx9w6wRMXUrPL"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 242250,
-      "name": "One Heart",
-      "url": "https://open.spotify.com/track/6ArjJicjIjgcbKOzBtcBkh"
     },
     {
       "added_at": null,
@@ -423,6 +407,22 @@
       "duration_ms": 212863,
       "name": "ARMSTRONG",
       "url": "https://open.spotify.com/track/0HF7GyNStcRigbS0YGXuIX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Heart",
+        "url": "https://open.spotify.com/album/2GDMGlqGHyx9w6wRMXUrPL"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 242250,
+      "name": "One Heart",
+      "url": "https://open.spotify.com/track/6ArjJicjIjgcbKOzBtcBkh"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SNACKTIME",
-        "url": "https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 165354,
-      "name": "CANDY",
-      "url": "https://open.spotify.com/track/61TJ4Gr1Erkmai1Y5R9XUN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AG! Calling",
         "url": "https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 159306,
       "name": "Drama (feat. MILLI)",
       "url": "https://open.spotify.com/track/0sh3PY1clLciTdqxe5ZZge"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SNACKTIME",
+        "url": "https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 165354,
+      "name": "CANDY",
+      "url": "https://open.spotify.com/track/61TJ4Gr1Erkmai1Y5R9XUN"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Edge",
-        "url": "https://open.spotify.com/album/6oDoxmNcFcGiO79PF5vwNx"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 163790,
-      "name": "The Edge",
-      "url": "https://open.spotify.com/track/0EAmmfAwFxNGnAKAd3red6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MANINGEN",
         "url": "https://open.spotify.com/album/0bI0wQeVFccV7pigdEJ1gR"
       },
@@ -767,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "maenarawanai",
-        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
+        "name": "The Edge",
+        "url": "https://open.spotify.com/album/6oDoxmNcFcGiO79PF5vwNx"
       },
       "artists": [
         {
@@ -776,9 +760,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 259333,
-      "name": "saisyu jinrui",
-      "url": "https://open.spotify.com/track/1kKh9DQIjd0ncdP6S2VJXI"
+      "duration_ms": 163790,
+      "name": "The Edge",
+      "url": "https://open.spotify.com/track/0EAmmfAwFxNGnAKAd3red6"
     },
     {
       "added_at": null,
@@ -799,6 +783,22 @@
       "duration_ms": 213500,
       "name": "Free Yourself feat. ATARASHII GAKKO!",
       "url": "https://open.spotify.com/track/1oholojJEuNCauGl8jcf3J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "maenarawanai",
+        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "saisyu jinrui",
+      "url": "https://open.spotify.com/track/1kKh9DQIjd0ncdP6S2VJXI"
     },
     {
       "added_at": null,

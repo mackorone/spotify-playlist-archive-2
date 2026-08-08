@@ -1,12 +1,12 @@
 {
   "description": "Romance a la antig\u00fcita con Tuffic en portada.",
-  "num_followers": 539741,
+  "num_followers": 539676,
   "original_name": "nuevo bolero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAnOvtljaFdJldq2kh3xMLM1p7yI",
+  "snapshot_id": "AAAAACPnz1MR8n7E2qadhhF4mDMu04DO",
   "tracks": [
     {
       "added_at": "2026-07-24 06:00:45",
@@ -791,26 +791,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "SER AMIGOS (olvida)",
-        "url": "https://open.spotify.com/album/6fjvO0I7QKkKLrpr4esvh1"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 247790,
-      "name": "SER AMIGOS (olvida)",
-      "url": "https://open.spotify.com/track/1Hgqs710QBTM5lp7Tbv8ad"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Bolero",
         "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 180986,
       "name": "Somos Novios",
       "url": "https://open.spotify.com/track/1XayYLI1oOaWNHDt3Zs78k"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "SER AMIGOS (olvida)",
+        "url": "https://open.spotify.com/album/6fjvO0I7QKkKLrpr4esvh1"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 247790,
+      "name": "SER AMIGOS (olvida)",
+      "url": "https://open.spotify.com/track/1Hgqs710QBTM5lp7Tbv8ad"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
+        "name": "Cuando Yo Fui Tu Clavel",
+        "url": "https://open.spotify.com/album/1MsQyfkAyCio9tBVjdJIBd"
+      },
+      "artists": [
+        {
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        }
+      ],
+      "duration_ms": 112500,
+      "name": "Cuando Yo Fui Tu Clavel",
+      "url": "https://open.spotify.com/track/1OgtfmFUelshO9fLczAjPl"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
         "name": "Por Si Ma\u00f1ana No Estoy",
         "url": "https://open.spotify.com/album/6UqYRF2EZCGEcOELkjT6O6"
       },
@@ -967,22 +983,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Cuando Yo Fui Tu Clavel",
-        "url": "https://open.spotify.com/album/1MsQyfkAyCio9tBVjdJIBd"
-      },
-      "artists": [
-        {
-          "name": "Soyiby",
-          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
-        }
-      ],
-      "duration_ms": 112500,
-      "name": "Cuando Yo Fui Tu Clavel",
-      "url": "https://open.spotify.com/track/1OgtfmFUelshO9fLczAjPl"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Cada Vez Te Extra\u00f1o Menos",
         "url": "https://open.spotify.com/album/4rS5g1pEmfxWV0Eg1kH0Is"
       },
@@ -999,26 +999,6 @@
       "duration_ms": 162209,
       "name": "Cada Vez Te Extra\u00f1o Menos",
       "url": "https://open.spotify.com/track/4X1h5E9JSl1hlyuRJNLnOe"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
-        "name": "Hazy x Ti",
-        "url": "https://open.spotify.com/album/3MuYnh1VWMP2ZPIdbbsMCh"
-      },
-      "artists": [
-        {
-          "name": "Loreto",
-          "url": "https://open.spotify.com/artist/3CIaj6zebZCp6FUdl4SBHh"
-        },
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 213749,
-      "name": "Hazy x Ti",
-      "url": "https://open.spotify.com/track/32PH9SwqGeEpmyHfe64bn9"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1055,6 +1035,26 @@
       "duration_ms": 161000,
       "name": "Farolito (with Gilberto Gil)",
       "url": "https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Hazy x Ti",
+        "url": "https://open.spotify.com/album/3MuYnh1VWMP2ZPIdbbsMCh"
+      },
+      "artists": [
+        {
+          "name": "Loreto",
+          "url": "https://open.spotify.com/artist/3CIaj6zebZCp6FUdl4SBHh"
+        },
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 213749,
+      "name": "Hazy x Ti",
+      "url": "https://open.spotify.com/track/32PH9SwqGeEpmyHfe64bn9"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
+        "name": "La Apuesta",
+        "url": "https://open.spotify.com/album/3YsjbaCHFK0qo8MIeRnw0f"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 173250,
+      "name": "La Apuesta",
+      "url": "https://open.spotify.com/track/1vnHzi9TUsfNInui1SzkI0"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
         "name": "Caso Cerrado",
         "url": "https://open.spotify.com/album/4QyAhMcjSCY1OjNMfIgSuq"
       },
@@ -1463,18 +1479,22 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "La Apuesta",
-        "url": "https://open.spotify.com/album/3YsjbaCHFK0qo8MIeRnw0f"
+        "name": "No me Importa",
+        "url": "https://open.spotify.com/album/6aXNeXAKR45CmOLgcGEuCb"
       },
       "artists": [
         {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        },
+        {
+          "name": "Mar\u00eda Centeno",
+          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
         }
       ],
-      "duration_ms": 173250,
-      "name": "La Apuesta",
-      "url": "https://open.spotify.com/track/1vnHzi9TUsfNInui1SzkI0"
+      "duration_ms": 177000,
+      "name": "No Me Importa",
+      "url": "https://open.spotify.com/track/3ha1HwC1ka0IPcIepD50HO"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1495,26 +1515,6 @@
       "duration_ms": 203750,
       "name": "Mirando desde afuera",
       "url": "https://open.spotify.com/track/4OMlNCvyT33krYLAtFy1Rx"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
-        "name": "No me Importa",
-        "url": "https://open.spotify.com/album/6aXNeXAKR45CmOLgcGEuCb"
-      },
-      "artists": [
-        {
-          "name": "Soyiby",
-          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
-        },
-        {
-          "name": "Mar\u00eda Centeno",
-          "url": "https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "No Me Importa",
-      "url": "https://open.spotify.com/track/3ha1HwC1ka0IPcIepD50HO"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "A escondidas",
-        "url": "https://open.spotify.com/album/42PNF3MKzjOVfVJnep4Ce4"
-      },
-      "artists": [
-        {
-          "name": "Cumbia Pedregal",
-          "url": "https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca"
-        }
-      ],
-      "duration_ms": 212019,
-      "name": "A escondidas",
-      "url": "https://open.spotify.com/track/4D3N95CZeCnsFQoGFDId84"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "L\u00e1grimas Negras",
         "url": "https://open.spotify.com/album/3j7YBot19H5ochk5dHuwiQ"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 318893,
       "name": "L\u00e1grimas Negras",
       "url": "https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "A escondidas",
+        "url": "https://open.spotify.com/album/42PNF3MKzjOVfVJnep4Ce4"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Pedregal",
+          "url": "https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca"
+        }
+      ],
+      "duration_ms": 212019,
+      "name": "A escondidas",
+      "url": "https://open.spotify.com/track/4D3N95CZeCnsFQoGFDId84"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Aquellos Ojos Verdes",
-        "url": "https://open.spotify.com/album/1n9kSE3g9kTSVfUlBEAImx"
-      },
-      "artists": [
-        {
-          "name": "Japonica",
-          "url": "https://open.spotify.com/artist/2cI95BrKbMFINYuR0IanPD"
-        }
-      ],
-      "duration_ms": 190985,
-      "name": "Aquellos Ojos Verdes",
-      "url": "https://open.spotify.com/track/7dtD3zuEh0Kx6HsVKHQIJg"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Cenicero",
         "url": "https://open.spotify.com/album/5iT7CyiJDHVZxOyLWlxV07"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 192000,
       "name": "Cenicero",
       "url": "https://open.spotify.com/track/7zUFhXRcQ9CiswkoiSGnZ9"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Aquellos Ojos Verdes",
+        "url": "https://open.spotify.com/album/1n9kSE3g9kTSVfUlBEAImx"
+      },
+      "artists": [
+        {
+          "name": "Japonica",
+          "url": "https://open.spotify.com/artist/2cI95BrKbMFINYuR0IanPD"
+        }
+      ],
+      "duration_ms": 190985,
+      "name": "Aquellos Ojos Verdes",
+      "url": "https://open.spotify.com/track/7dtD3zuEh0Kx6HsVKHQIJg"
     },
     {
       "added_at": "2026-07-24 06:00:45",

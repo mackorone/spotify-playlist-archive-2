@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LGEA8.md) - [plain]
 
 > This is La Santa Grifa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,800 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,898 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LGEA8.md) - [plain]
 | 6 | [Regresen el Tiempo](https://open.spotify.com/track/6Ydl0XXvzCjE25xDLbV7Qf) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 2:56 |
 | 7 | [Piel Con Piel](https://open.spotify.com/track/3R0PgPUdZUtd6dGq6yRwc7) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Piel Con Piel](https://open.spotify.com/album/7GxFfPCbKkOHhi1GFA1hSW) | 4:03 |
 | 8 | [Fúmale](https://open.spotify.com/track/3hGLX73IKzLla1OMNgh95F) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Poncho LKD](https://open.spotify.com/artist/24tQAc1EtBcQGZn9lADF6R) | [Nunca Voy a Morir](https://open.spotify.com/album/4MsP9iWrITXsRXgW1ebsyy) | 3:35 |
-| 9 | [Monalisa](https://open.spotify.com/track/56ZMnyvW7uO9sJoTVHNBxs) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [ElReghosg](https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3), [Mickey Ojo Rojo Sg](https://open.spotify.com/artist/0oxYBzQwBy2nmTquzJ447r) | [Monalisa](https://open.spotify.com/album/67gixCAUn6Sd1BXHr3xg3s) | 4:07 |
+| 9 | [Table Dance](https://open.spotify.com/track/2zylpNFyb4YzbppEdzGqv6) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Chino El Don](https://open.spotify.com/artist/5jH7ecfniD5healoIkHVHa) | [Table Dance](https://open.spotify.com/album/4nSjpMHDYUWAccg82HsmYM) | 4:04 |
 | 10 | [Solo Mintio](https://open.spotify.com/track/28SOEtquasClOf55g4PA6N) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 3:14 |
-| 11 | [Table Dance](https://open.spotify.com/track/2zylpNFyb4YzbppEdzGqv6) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Chino El Don](https://open.spotify.com/artist/5jH7ecfniD5healoIkHVHa) | [Table Dance](https://open.spotify.com/album/4nSjpMHDYUWAccg82HsmYM) | 4:04 |
+| 11 | [Monalisa](https://open.spotify.com/track/56ZMnyvW7uO9sJoTVHNBxs) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [ElReghosg](https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3), [Mickey Ojo Rojo Sg](https://open.spotify.com/artist/0oxYBzQwBy2nmTquzJ447r) | [Monalisa](https://open.spotify.com/album/67gixCAUn6Sd1BXHr3xg3s) | 4:07 |
 | 12 | [De Nube en Nube](https://open.spotify.com/track/6uKxRqcYPJtBRZXfOJeSOZ) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [De Nube en Nube](https://open.spotify.com/album/0QL23W1P1RARwrX55ywxWt) | 3:06 |
 | 13 | [Y la Verdad](https://open.spotify.com/track/4QXfUoHXNWTDMtNsxoak42) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Danzando Con Demonios](https://open.spotify.com/album/1lzcVgLEWrgsle0QwmGCRa) | 1:58 |
 | 14 | [LLEVARTE](https://open.spotify.com/track/7olLAAPSwNTbMes8uH8B5x) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [CRISTIAN](https://open.spotify.com/album/1g5DtpsRYh0UzdkxHEZY4F) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LGEA8.md) - [plain]
 | 49 | [Cumbia Morena](https://open.spotify.com/track/3Ce6AFsoLV98pysPJ8OgVs) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 3:30 |
 | 50 | [Amor al Arte](https://open.spotify.com/track/5ZmdCVprp0xw4LRT66Q65J) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Mal Ejemplo, Vol\. 3](https://open.spotify.com/album/3mIsCeIbeXeicXk0QmSQRM) | 5:00 |
 
-Snapshot ID: `anJ9AAAAAABwVD9R1wqInZ1T9YIGlN7P`
+Snapshot ID: `anPOgAAAAACC9k7qr4GLvHzY1J4Y3yDH`

@@ -1,12 +1,12 @@
 {
   "description": "This is Passion. The essential tracks, all in one playlist.",
-  "num_followers": 35582,
+  "num_followers": 35583,
   "original_name": "This Is Passion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAACKNtDaGG/gaBNVYd83zrSE",
+  "snapshot_id": "anPOgAAAAABzo5dPsRmWXOI5zteViZdF",
   "tracks": [
     {
       "added_at": null,
@@ -347,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: Awakening (Live)",
-        "url": "https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 328160,
-      "name": "Our God - Live",
-      "url": "https://open.spotify.com/track/1sYMNmv1Fu52OE3bFLADgJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just That Good",
         "url": "https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 516963,
       "name": "The Blood",
       "url": "https://open.spotify.com/track/09xDU2sMIEJ6eDNCb6j5hB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion: Awakening (Live)",
+        "url": "https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 328160,
+      "name": "Our God - Live",
+      "url": "https://open.spotify.com/track/1sYMNmv1Fu52OE3bFLADgJ"
     },
     {
       "added_at": null,
@@ -427,26 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call on Heaven (Live)",
-        "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 390020,
-      "name": "He Who Is To Come - Live From Passion 2024",
-      "url": "https://open.spotify.com/track/6SIyUCo2Sr7hPuBiZOaJYf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just That Good",
         "url": "https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 497606,
       "name": "Center",
       "url": "https://open.spotify.com/track/11zW4Z10CtSCzy9Wb0SFJN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Call on Heaven (Live)",
+        "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 390020,
+      "name": "He Who Is To Come - Live From Passion 2024",
+      "url": "https://open.spotify.com/track/6SIyUCo2Sr7hPuBiZOaJYf"
     },
     {
       "added_at": null,
@@ -527,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call on Heaven (Live)",
-        "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Rachel Halbach",
-          "url": "https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn"
-        }
-      ],
-      "duration_ms": 351817,
-      "name": "How Great Is Your Name - Live From Passion 2024",
-      "url": "https://open.spotify.com/track/2FUcVo7f064SqyjXWqkT6Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just That Good",
         "url": "https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 351978,
       "name": "What A Worthy Name",
       "url": "https://open.spotify.com/track/2lcqAh12uXNMwwQ50hpekn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Call on Heaven (Live)",
+        "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Rachel Halbach",
+          "url": "https://open.spotify.com/artist/4OjfvyOSdI1ojj25vZgDXn"
+        }
+      ],
+      "duration_ms": 351817,
+      "name": "How Great Is Your Name - Live From Passion 2024",
+      "url": "https://open.spotify.com/track/2FUcVo7f064SqyjXWqkT6Q"
     },
     {
       "added_at": null,
@@ -991,6 +991,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Passion: Our Love Is Loud (Live)",
+        "url": "https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 278440,
+      "name": "God Of Wonders - Live",
+      "url": "https://open.spotify.com/track/4VvhdAJYKkQoVqug73IeOL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Passion: Even So Come (Live)",
         "url": "https://open.spotify.com/album/5YONtiVkbckPYbUBJ6Q1cG"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 249013,
       "name": "King Of Glory - Live",
       "url": "https://open.spotify.com/track/38Gl5B0Ixqmeon96E2xsMl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Passion: Everything Glorious",
-        "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 396666,
-      "name": "I Stand Amazed (How Marvelous)",
-      "url": "https://open.spotify.com/track/5I49PGcxUCZFoMpZ6s9lj5"
     }
   ],
   "unique_name": "This Is Passion",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 
 > Grab your leg warmers and spandex: let's get physical!
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,565 likes - 80 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,644 likes - 80 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 | 25 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 |
 | 26 | [Upside Down](https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 4:05 |
 | 27 | [What A Feeling](https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What A Feeling](https://open.spotify.com/album/7C65CLdoGCQZ739kfYVcwY) | 4:04 |
-| 28 | [Call Me](https://open.spotify.com/track/4qO03RMQm88DdpTJcxlglY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Atomic/Atomix](https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6) | 3:32 |
-| 29 | [Venus](https://open.spotify.com/track/4XX1pFUkQOZTYp6Hb6a6Ae) | [Bananarama](https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx) | [True Confessions \(Collector's Edition\)](https://open.spotify.com/album/6CVuruIUWoYViZM97wgq9h) | 3:49 |
+| 28 | [Venus](https://open.spotify.com/track/4XX1pFUkQOZTYp6Hb6a6Ae) | [Bananarama](https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx) | [True Confessions \(Collector's Edition\)](https://open.spotify.com/album/6CVuruIUWoYViZM97wgq9h) | 3:49 |
+| 29 | [Call Me](https://open.spotify.com/track/4qO03RMQm88DdpTJcxlglY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Atomic/Atomix](https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6) | 3:32 |
 | 30 | [Love Is A Battlefield](https://open.spotify.com/track/41CoPVBGQyaO9edYV2BKnp) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [The Very Best Of Pat Benatar](https://open.spotify.com/album/4nMJ8gow0SfX2rfWzDfrE9) | 4:04 |
 | 31 | [Holiday](https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 6:10 |
 | 32 | [I'm Coming Out](https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 5:23 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 | 48 | [I'm So Excited](https://open.spotify.com/track/2u8MGAiS2hBVE7GZzTZLQI) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Best Of](https://open.spotify.com/album/4ZcnXch8ZI9zlizDVTea1X) | 3:49 |
 | 49 | [Sunglasses At Night](https://open.spotify.com/track/1QbQL5m30YNvukitIqAnFG) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [The Singles](https://open.spotify.com/album/5BDE3Z6clvwbPoWWwiSyGp) | 5:20 |
 | 50 | [Stomp! \- Single Version](https://open.spotify.com/track/3EG65y2LtxWjfydabHdItb) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Strawberry Letter 23: The Very Best Of The Brothers Johnson](https://open.spotify.com/album/4DUmxqvkQn3UJgDLjlYsyX) | 4:07 |
-| 51 | [Higher Love \- Single Version](https://open.spotify.com/track/17Ng10tIgnYmAitl0SgT3R) | [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:12 |
-| 52 | [Our Lips Are Sealed \- Single Version](https://open.spotify.com/track/1GVnAD8Iz45rux6EC657Yv) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Beauty And The Beat](https://open.spotify.com/album/1L4HE00En7eNK74voVZums) | 2:47 |
+| 51 | [Our Lips Are Sealed \- Single Version](https://open.spotify.com/track/1GVnAD8Iz45rux6EC657Yv) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Beauty And The Beat](https://open.spotify.com/album/1L4HE00En7eNK74voVZums) | 2:47 |
+| 52 | [Higher Love \- Single Version](https://open.spotify.com/track/17Ng10tIgnYmAitl0SgT3R) | [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:12 |
 | 53 | [It's Raining Men](https://open.spotify.com/track/5TgD3Wh5ZUZnUU4tmVvJbx) | [The Weather Girls](https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 3:32 |
 | 54 | [\(I've Had\) The Time of My Life \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/4BFMQ15vXr626UOoZL8bUI) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [Platinum & Gold Collection](https://open.spotify.com/album/2Ll0rYVkAHV0QT7P2vknQc) | 4:49 |
 | 55 | [Big in Japan \- 2019 Remaster](https://open.spotify.com/track/7wnagOAqma4Sg6JOGjWr5R) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young \(Super Deluxe Edition; 2019 Remaster\)](https://open.spotify.com/album/1BAmE3bdBnxej0umzyHQ5x) | 4:44 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 | 63 | [Let's Hear It for the Boy \- From "Footloose" Soundtrack](https://open.spotify.com/track/5kaF88lat4fWUiDXP6G48M) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Footloose \(15th Anniversary Collectors' Edition\)](https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC) | 4:21 |
 | 64 | [Ghostbusters \- from the "Ghostbusters" Original Motion Picture Soundtrack](https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Arista Heritage Series: Ray Parker](https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg) | 4:00 |
 | 65 | [Let It Whip](https://open.spotify.com/track/3h5IJ0EzVpkiaoL174GC3M) | [Dazz Band](https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l) | [20th Century Masters: The Millennium Collection: Best Of The Dazz Band](https://open.spotify.com/album/3wT0A6ZVGve1QkFKQrafJG) | 4:47 |
-| 66 | [Double Dutch Bus](https://open.spotify.com/track/20RHP0KD0gDz7xzmzZCGBo) | [Frankie Smith](https://open.spotify.com/artist/0CcGsPdBvdYS0JuxrTvTIF) | [Children Of Tomorrow](https://open.spotify.com/album/5jEBGG3MJ5gaEteo9EaqiI) | 5:20 |
-| 67 | [You Got It \(The Right Stuff\)](https://open.spotify.com/track/4buDeg67vos7KP1yHrS9wl) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Hangin' Tough](https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK) | 4:09 |
-| 68 | [Thriller](https://open.spotify.com/track/1D9KEXIrlmPUkMTdYzqgX4) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Michael Jackson's This Is It](https://open.spotify.com/album/7pMVCMwGykuEu9rzTHxLCm) | 5:57 |
+| 66 | [You Got It \(The Right Stuff\)](https://open.spotify.com/track/4buDeg67vos7KP1yHrS9wl) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Hangin' Tough](https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK) | 4:09 |
+| 67 | [Thriller](https://open.spotify.com/track/1D9KEXIrlmPUkMTdYzqgX4) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Michael Jackson's This Is It](https://open.spotify.com/album/7pMVCMwGykuEu9rzTHxLCm) | 5:57 |
+| 68 | [Double Dutch Bus](https://open.spotify.com/track/20RHP0KD0gDz7xzmzZCGBo) | [Frankie Smith](https://open.spotify.com/artist/0CcGsPdBvdYS0JuxrTvTIF) | [Children Of Tomorrow](https://open.spotify.com/album/5jEBGG3MJ5gaEteo9EaqiI) | 5:20 |
 | 69 | [Atomic Dog](https://open.spotify.com/track/4cgodXjv4TfrooNQxvlO4O) | [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [Computer Games](https://open.spotify.com/album/36FlhEnhgkDwk371cG8nav) | 4:47 |
 | 70 | [The Safety Dance](https://open.spotify.com/track/5ZpDiWqCG93McsnuHu9uCR) | [Men Without Hats](https://open.spotify.com/artist/34PLzyi7CdXUekiLHYyqXq) | [Rhythm of Youth](https://open.spotify.com/album/3kpkQJB2e5R1Ktr8lTs8yf) | 4:37 |
 | 71 | [Obsession](https://open.spotify.com/track/3N7GqZMpZJW69Te1bfUTc3) | [Animotion](https://open.spotify.com/artist/6eQHjJJa52LUGjBKP5UPos) | [Obsession: The Best Of Animotion](https://open.spotify.com/album/5BG5Z2wbth8YRlOtlrlAFC) | 5:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 | 79 | [The Glamorous Life](https://open.spotify.com/track/179SfVFJ0ZN41toTxnpgRD) | [Sheila E.](https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P) | [The Glamorous Life](https://open.spotify.com/album/2fv3CMkuVgYRtQVnhv1rQW) | 9:03 |
 | 80 | [Swing The Mood](https://open.spotify.com/track/3Aimpqxpvmz7jhJlNnEd5c) | [Jive Bunny and the Mastermixers](https://open.spotify.com/artist/4GzIiGnHYrOnq2LUiD6zdo) | [Jive Bunny And The Mastermixers The Biggest Party On The Planet](https://open.spotify.com/album/0ZtoKNv75D3PvB2i0vPrIP) | 4:19 |
 
-Snapshot ID: `AAAAADNMp76zMdeDTE1iE4ugRVamJbor`
+Snapshot ID: `AAAAAKkEgOBWI52yWhFC/MVQAGfukPfk`

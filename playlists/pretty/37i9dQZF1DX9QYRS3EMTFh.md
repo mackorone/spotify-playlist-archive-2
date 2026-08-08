@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Lycinaïs Jean
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,966 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,010 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 12 | [Y'A BLO](https://open.spotify.com/track/0kKrice1pNmJSOW8q5FnTx) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Y'A BLO](https://open.spotify.com/album/6sFyM6izpawV5ZL536dd1D) | 3:07 |
 | 13 | [Timing](https://open.spotify.com/track/1wGauyNnHfWc5GLMCqHcL4) | [Curtis Kane](https://open.spotify.com/artist/7LGeqJcTk3qJ23m7ROwIw6) | [Timing](https://open.spotify.com/album/6QALjWl4gKJf3wigT2VE1f) | 2:37 |
 | 14 | [Thug Life](https://open.spotify.com/track/2ibO3gPpV0r6sxCBvCJ47V) | [Tii Alexandre](https://open.spotify.com/artist/4y5BekShl9otQUj6ikj7Ao), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Lion Fiah](https://open.spotify.com/artist/4MvQy0WYny2XpZdGzpxZzN), [N'Ken](https://open.spotify.com/artist/7CiDghduh4uqMn0zSkPx1p), [BlackBoy](https://open.spotify.com/artist/390GislU2lqdtKcuFMIvjK), [Jozii](https://open.spotify.com/artist/1nDtmYJmQcZEXU56pz5R9d), [Junior](https://open.spotify.com/artist/5ZVc8t2irmJwaMSkDXY1Rj), [\#TUKS](https://open.spotify.com/artist/4ZpWvzEYDHCzUXVPPLd4EK), [T\-Jy](https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta) | [Thug Life](https://open.spotify.com/album/1vmeEuR3ijvYXXVQ7psHYy) | 3:44 |
-| 15 | [Tek di Miggle](https://open.spotify.com/track/2DBxYscCgdlywGrKrBDtil) | [Its Natascha](https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6), [Paille](https://open.spotify.com/artist/22odTnbJhyDIQFnp8z1PgA) | [Tek di Miggle](https://open.spotify.com/album/5E6u8Ei8mnQPpjXjyakTMF) | 2:09 |
+| 15 | [Tek di Miggle](https://open.spotify.com/track/2DBxYscCgdlywGrKrBDtil) | [Its Natascha](https://open.spotify.com/artist/6r5nslEUXZRMW9qpxKvxV6), [Paille](https://open.spotify.com/artist/22odTnbJhyDIQFnp8z1PgA) | [Tek di Miggle](https://open.spotify.com/album/5E6u8Ei8mnQPpjXjyakTMF) | 2:07 |
 | 16 | [BELLAGIO](https://open.spotify.com/track/2SvKMsz2OOhQZ6mFhFmh5Y) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ), [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [BELLAGIO](https://open.spotify.com/album/55iT6XicFo3InElwiHctFw) | 2:25 |
 | 17 | [Rété Zanmi](https://open.spotify.com/track/6VoWEjJzhISCOEYfqC9FJL) | [X\-Man](https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4), [Dj Glad](https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe) | [Rété Zanmi](https://open.spotify.com/album/7ppuRvk3xLeGhc02F6BBbt) | 2:13 |
 | 18 | [Caprison](https://open.spotify.com/track/7ADbFtqC6vr72KpOAuUIQZ) | [K\-RIM](https://open.spotify.com/artist/0II10Pn1LNFArIGqlxWrIm), [DJ SAURIER](https://open.spotify.com/artist/5FKogijn8UxQeGoSGgTpss) | [Caprison](https://open.spotify.com/album/16WvdpUgJ1vrXILN7LWOd3) | 2:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 49 | [golden boy](https://open.spotify.com/track/0y2O1cQchKi6V76ABHSjuv) | [Eve La Marka](https://open.spotify.com/artist/17tjZtS3t6aWW4qGVz4DuB), [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3), [Shaz](https://open.spotify.com/artist/4SINBSA4jou9ptE88AYQE9) | [golden boy](https://open.spotify.com/album/1iouT4L7K7DsrQ8KZN86S8) | 2:23 |
 | 50 | [2 min](https://open.spotify.com/track/7J8OTRdXb6noyWoKwlnjk6) | [Fallon](https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I) | [2 min](https://open.spotify.com/album/54GJMDQ2ahSAxe3lmCq9qg) | 2:33 |
 
-Snapshot ID: `AAAAAJ4PAM3BYPvty/50SVOchy4P5iYg`
+Snapshot ID: `AAAAAMXuIO+5VeXF4L3YjcKMfX1uzPJs`

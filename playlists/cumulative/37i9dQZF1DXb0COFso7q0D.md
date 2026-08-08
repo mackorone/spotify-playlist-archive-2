@@ -2,9 +2,9 @@
 
 ### [Los Que Mandan \- Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DXb0COFso7q0D)
 
-> Jorsshh poniendo la Música Mexicana en alto en la playlist sin fronteras\. Powered by <a href="https://open.spotify.com/genre/0JQ5DAqbMKFGEKqSBDV3q2">Belicofest</a>
+> El Rabbanito poniendo la Música Mexicana en alto en la playlist sin fronteras\. Powered by <a href="https://open.spotify.com/genre/0JQ5DAqbMKFGEKqSBDV3q2">Belicofest</a>
 
-1,180 songs - 2 day 12 hr 38 min
+1,181 songs - 2 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,6 +478,7 @@
 | [GTA](https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Corridos Bélicos, Vol\. IV \(Versión Deluxe\)](https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8) | 2:33 | 2024-03-01 | 2024-09-21 |
 | [Guason](https://open.spotify.com/track/4Wuwir9pHgQnCdSDIDgrhv) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Historias Mal Contadas](https://open.spotify.com/album/2FAIffGJUWJCB2el84y4Rj) | 3:11 | 2025-10-31 | 2025-12-06 |
 | [GUCCI LOS PAÑOS](https://open.spotify.com/track/3CNbrXrUrEARw8zeKNCdYo) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:06 | 2023-02-24 | 2023-04-09 |
+| [GUERRERO](https://open.spotify.com/track/4G6KB0z16YYcIloutnbnyg) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [LEGENDARIO](https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p) | 2:20 | 2026-08-07 |  |
 | [Guerreros Aztecas](https://open.spotify.com/track/2BKTRdo32SFyNrDjcHgVFW) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Guerreros Aztecas](https://open.spotify.com/album/2C8J91k1UfZpeONBHE6UTi) | 3:53 | 2023-09-29 | 2023-10-07 |
 | [Gula](https://open.spotify.com/track/4k1oaXf7i7KGHYniA8n4ul) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 3:04 | 2025-09-26 | 2025-12-06 |
 | [Hablemos \- Live](https://open.spotify.com/track/1puzMBz3y9RgaqfXAGv383) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Recordando Ariel Camacho \(Live\)](https://open.spotify.com/album/68m4BXWynI34UtRpglzFcq) | 3:32 | 2025-03-28 | 2025-04-19 |
@@ -669,7 +670,7 @@
 | [Me Haces Tan Bien](https://open.spotify.com/track/5mJ3ce2hMDnpGSuELoKUoL) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Me Haces Tan Bien](https://open.spotify.com/album/6vibWAte3CQY0K6EUxiPAv) | 2:48 | 2023-06-09 | 2023-09-02 |
 | [ME JALO](https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 3:32 | 2024-12-20 | 2025-09-27 |
 | [Me Metí En El Ruedo](https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corridos Bélicos, Vol\. 2](https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS) | 2:54 | 2021-12-21 | 2022-10-08 |
-| [ME MIRAN](https://open.spotify.com/track/6WIfQuAANJDv5akliU1DOu) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0) | [ME MIRAN](https://open.spotify.com/album/7lRfP9LDUnXeZzNpwlV30G) | 2:43 | 2026-07-24 |  |
+| [ME MIRAN](https://open.spotify.com/track/6WIfQuAANJDv5akliU1DOu) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0) | [ME MIRAN](https://open.spotify.com/album/7lRfP9LDUnXeZzNpwlV30G) | 2:43 | 2026-07-24 | 2026-08-08 |
 | [Me Pongo Belikon](https://open.spotify.com/track/3CPGCgJs3AVKxxzPNKYjsY) | [Máxima Ventaja](https://open.spotify.com/artist/5I8HriBeRyNsjTLSHsok0N), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Me Pongo Belikon](https://open.spotify.com/album/7dtzKzqSAivR4nxhKO8FX6) | 2:28 | 2024-03-22 | 2024-05-25 |
 | [Me Prometí](https://open.spotify.com/track/5uXL0CN1mQxHJSJRHN44Od) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Me Prometí](https://open.spotify.com/album/3uitW0pQMa3sZi80pjMNU4) | 2:51 | 2025-05-02 | 2025-12-06 |
 | [Me Rendí](https://open.spotify.com/track/4SdLUkVGNUm2gNF7YQdhY1) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Me Rendí](https://open.spotify.com/album/6hVo9wZ2AAyh9nDnzU86E6) | 3:40 | 2022-10-14 | 2022-12-24 |

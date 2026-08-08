@@ -4,7 +4,7 @@
 
 > The indie viral hits you can't escape\. Cover: Charli xcx
 
-235 songs - 13 hr 43 min
+236 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Champagne Coast](https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl) | 4:52 | 2024-03-20 |  |
 | [Chemistry](https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Chemistry](https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ) | 4:44 | 2025-03-11 | 2025-05-07 |
 | [Christmas Kids](https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 2:15 | 2023-11-29 | 2024-08-20 |
+| [Cico Buff](https://open.spotify.com/track/4csSjpkgRI06CpVeYfIjwM) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Blue Bell Knoll](https://open.spotify.com/album/3SXCY4kFMM4T4egq5DSUTa) | 3:46 | 2026-07-31 |  |
 | [cigarette smoke](https://open.spotify.com/track/0e4u0sFRGxHL4U2iFBrUvZ) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 5:40 | 2026-07-31 |  |
 | [Claw Foot](https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE) | 2:46 | 2024-05-09 | 2024-07-16 |
 | [Clay Pigeons](https://open.spotify.com/track/0XgRWgcs0Pcr9PSIdFWD4N) | [Michael Cera](https://open.spotify.com/artist/4xXQxNcBCtsaz6Gw1IblE3) | [True That](https://open.spotify.com/album/1uxnZdfM0xoRUhaXy2Iez5) | 3:06 | 2023-12-01 | 2024-01-09 |
@@ -154,7 +155,7 @@
 | [Mrs\. Hollywood](https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Mrs\. Hollywood](https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59) | 2:23 | 2023-11-29 | 2023-12-02 |
 | [Murder on the Dance Floor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 | 2024-02-19 | 2024-04-05 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-11-29 |  |
-| [My Moon My Man](https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:48 | 2025-12-19 |  |
+| [My Moon My Man](https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:48 | 2025-12-19 | 2026-08-08 |
 | [Need 2](https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Everything So Far](https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE) | 3:11 | 2023-11-29 | 2025-01-28 |
 | [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 | 2024-08-19 | 2024-10-18 |
 | [Nightcall](https://open.spotify.com/track/2KejCKgm7l3uefW9cFt8cH) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Nightcall](https://open.spotify.com/album/05OLq8nG4L5WYZXTfXVYM7) | 2:59 | 2026-07-29 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 960,
+  "num_followers": 966,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGkv3Y/A0Cg/Kcrrq8/sDazJwzRq",
+  "snapshot_id": "AAAAANCAZBVCqSZYwErR4uJ2K4FpLRad",
   "tracks": [
     {
       "added_at": "2025-11-10 09:53:18",
@@ -491,6 +491,26 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "School Rapper4 Semi Final 1",
+        "url": "https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et"
+      },
+      "artists": [
+        {
+          "name": "D.Ark",
+          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
+        },
+        {
+          "name": "SUPERBEE",
+          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "Cold (Feat. SUPERBEE) (Prod. Way Ched)",
+      "url": "https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 3",
         "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 247680,
       "name": "Holiday (Feat. lIlBOI, GIRIBOY) (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/44mJS0YRReMdwrY0jFu9Cd"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "School Rapper4 Semi Final 1",
-        "url": "https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et"
-      },
-      "artists": [
-        {
-          "name": "D.Ark",
-          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
-        },
-        {
-          "name": "SUPERBEE",
-          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "Cold (Feat. SUPERBEE) (Prod. Way Ched)",
-      "url": "https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -963,6 +963,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "BREATHE",
+        "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
+      },
+      "artists": [
+        {
+          "name": "YUMDDA",
+          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+        }
+      ],
+      "duration_ms": 193402,
+      "name": "\ud558\uc774\ud30c\uc774\ube0c HIGH-FIVE",
+      "url": "https://open.spotify.com/track/2GdqlrIDWp3QLN9hYniKjh"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "UNDERGROUND ROCKSTAR",
         "url": "https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 197266,
       "name": "Little Brothers (Feat. LIL GIMCHI)",
       "url": "https://open.spotify.com/track/3pJnCMY3ox7NCXYU1kERms"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "BREATHE",
-        "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
-      },
-      "artists": [
-        {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
-        }
-      ],
-      "duration_ms": 193402,
-      "name": "\ud558\uc774\ud30c\uc774\ube0c HIGH-FIVE",
-      "url": "https://open.spotify.com/track/2GdqlrIDWp3QLN9hYniKjh"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "GAROSAWK",
-        "url": "https://open.spotify.com/album/4WXMcC4tSLWowFlX67HMwi"
-      },
-      "artists": [
-        {
-          "name": "Khundi Panda",
-          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
-        },
-        {
-          "name": "DAMYE",
-          "url": "https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR"
-        }
-      ],
-      "duration_ms": 250195,
-      "name": "Story On Sale (Feat. DAMYE)",
-      "url": "https://open.spotify.com/track/5lsd20yGxXhJOGvkog7vn1"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "\uc8fd\uc744\ud798\uc744 \ub2e4\ud558\uc5ec",
         "url": "https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb"
       },
@@ -1675,6 +1655,26 @@
       "duration_ms": 223178,
       "name": "\uc9c4\uc800\ub9ac (Feat. \ub9b4\ub7ec\ub9d0\uc988 (Leellamarz), \uc81c\ub124 \ub354 \uc9c8\ub77c(ZENE THE ZILLA))",
       "url": "https://open.spotify.com/track/1XezSpf7NiagncEJPzypsH"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "GAROSAWK",
+        "url": "https://open.spotify.com/album/4WXMcC4tSLWowFlX67HMwi"
+      },
+      "artists": [
+        {
+          "name": "Khundi Panda",
+          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
+        },
+        {
+          "name": "DAMYE",
+          "url": "https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR"
+        }
+      ],
+      "duration_ms": 250195,
+      "name": "Story On Sale (Feat. DAMYE)",
+      "url": "https://open.spotify.com/track/5lsd20yGxXhJOGvkog7vn1"
     },
     {
       "added_at": "2025-11-10 09:53:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 
 > A mix of punk rock to get you through your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,139 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,116 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,14 +73,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 63 | [The Lighthouse](https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 2:51 |
 | 64 | [Motorcycle, No Motor?](https://open.spotify.com/track/26eAx27PRm8VpzpJxDSbYA) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc) | [Swig](https://open.spotify.com/album/44rTjYzn34A7DC3aXahGM9) | 2:30 |
 | 65 | [Do The Paranoid Style](https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 1:45 |
-| 66 | [Up and Comer](https://open.spotify.com/track/469d5BNae99knRggeaqA0n) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:46 |
-| 67 | [All My Friends are Nobodies](https://open.spotify.com/track/2iFFcHvg5F7a8thEKo65g5) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/3JKg0soC1sRle2yPenQa2j) | 3:03 |
+| 66 | [All My Friends are Nobodies](https://open.spotify.com/track/2iFFcHvg5F7a8thEKo65g5) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/3JKg0soC1sRle2yPenQa2j) | 3:03 |
+| 67 | [Up and Comer](https://open.spotify.com/track/469d5BNae99knRggeaqA0n) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:46 |
 | 68 | [Brick Wall](https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Brick Wall](https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA) | 3:30 |
 | 69 | [WEIRDO](https://open.spotify.com/track/46WTvn5j8rx0JRB8BMF2YQ) | [GANG!](https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C) | [WEIRDO](https://open.spotify.com/album/53RO0O7zjPj1yJuLegkzoz) | 2:35 |
 | 70 | [HOLIDAY](https://open.spotify.com/track/4kdJNsV5OrEkSJ1hfDKeKS) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [TURNSTILE LOVE CONNECTION](https://open.spotify.com/album/4Dx7TI0kECk72u90341I25) | 2:52 |
 | 71 | [Hit Like A Girl](https://open.spotify.com/track/3kfghhJVXyT2W2TlP2Vsw9) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Hit Like A Girl](https://open.spotify.com/album/4l3QmwKvZ9TR1lSnJvT6E0) | 3:59 |
-| 72 | [Criminal Energy](https://open.spotify.com/track/1sqEf1JGRZlxQBpSbvLcC0) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Surviving](https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI) | 3:11 |
-| 73 | [When Both Sides Suck, We're All Winners](https://open.spotify.com/track/6gWWwvoKdulgFX4I1wMQLQ) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr) | 3:03 |
+| 72 | [When Both Sides Suck, We're All Winners](https://open.spotify.com/track/6gWWwvoKdulgFX4I1wMQLQ) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr) | 3:03 |
+| 73 | [Criminal Energy](https://open.spotify.com/track/1sqEf1JGRZlxQBpSbvLcC0) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Surviving](https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI) | 3:11 |
 | 74 | [Bored of Being Sad](https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Bored of Being Sad](https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT) | 3:20 |
 | 75 | [survivors guilt//](https://open.spotify.com/track/7cOY6vXmsZS85mSCAaa5rF) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SURVIVORS GUILT: THE MIXTAPE//](https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY) | 2:17 |
 | 76 | [Act Violently](https://open.spotify.com/track/7ly7Em7Mwj89WKKSQKhOBK) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Act Violently](https://open.spotify.com/album/5z8XoC7FxcuPfT2PrT0xEK) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 99 | [Bland Is The New Black](https://open.spotify.com/track/2L74jTvqQv8vJJesWuwft3) | [Clowns](https://open.spotify.com/artist/2TuGrkN9bcjWU1GcrUarYn) | [Nature/Nurture](https://open.spotify.com/album/0fRg4WnrY1zcqCPrglnSzO) | 1:47 |
 | 100 | [Masquerade](https://open.spotify.com/track/2x3h75zzl2IudkzFbG3UuV) | [Mest](https://open.spotify.com/artist/1ToMIJExb7R5Klsff81NsK) | [Masquerade](https://open.spotify.com/album/35jjqAbXp2J7HUhI2oJTIf) | 3:36 |
 
-Snapshot ID: `AAAAAJ3vx+d1CniyMMtRUc9lw6wLP6ru`
+Snapshot ID: `AAAAAD/8CWehHhXlA1MTRIUat4Tgz9Ix`

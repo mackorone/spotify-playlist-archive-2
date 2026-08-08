@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: \u856d\u656c\u9a30 & A-Lin ",
+  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: \u6d3e\u5049\u4fca Patrick Brasca",
   "name": "\u6700Hit\u83ef\u8a9e\u699c",
   "tracks": [
     {
@@ -454,10 +454,28 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 155813,
       "name": "BAD IDEA",
       "url": "https://open.spotify.com/track/0MQQUWilQ2IauNHm3xUtXv"
+    },
+    {
+      "album": {
+        "name": "BAD IDEA",
+        "url": "https://open.spotify.com/album/2DOpZAVuMfTjrW7OnPGOhr"
+      },
+      "artists": [
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155813,
+      "name": "BAD IDEA",
+      "url": "https://open.spotify.com/track/4a5qPoRELzRjKrxHwPD4yI"
     },
     {
       "album": {
@@ -2748,7 +2766,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 184285,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/65Wzl9VIDmbFULck1mHWub"
@@ -3842,7 +3860,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 190000,
       "name": "\u4e00\u5ff5 (\u5f71\u89c6\u5267\u300a\u9010\u7389\u300b\u63d2\u66f2)",
       "url": "https://open.spotify.com/track/1iZVXRo5IcIradUoVYymRW"
@@ -7981,6 +7999,24 @@
     },
     {
       "album": {
+        "name": "BAD IDEA",
+        "url": "https://open.spotify.com/album/2DOpZAVuMfTjrW7OnPGOhr"
+      },
+      "artists": [
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260013,
+      "name": "\u53bb\u5e74\u4e0b\u7684\u90a3\u5834\u96ea",
+      "url": "https://open.spotify.com/track/5ZHoBTqDUm2M7DCuxnBTw5"
+    },
+    {
+      "album": {
         "name": "\u53bb\u98db\u7fd4",
         "url": "https://open.spotify.com/album/1xpRv4hS8KLQ3YHLyOs3U2"
       },
@@ -10033,6 +10069,24 @@
     },
     {
       "album": {
+        "name": "\u5982\u679c\u6bcf\u5929\u90fd\u53ef\u4ee5 happy happy \u8ab0\u60f3\u8981sad:)) - \u4e00\u8d77\u53bb\u5ea6\u5047",
+        "url": "https://open.spotify.com/album/4IVCRrXA13fqInFbyhN4y9"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5afa\u975c",
+          "url": "https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268117,
+      "name": "\u5982\u679c\u6bcf\u5929\u90fd\u53ef\u4ee5 happy happy \u8ab0\u60f3\u8981sad:))",
+      "url": "https://open.spotify.com/track/5u6xwrIwh9cPW9VXCODU7v"
+    },
+    {
+      "album": {
         "name": "\u5982\u679c\u7231\u5fd8\u4e86",
         "url": "https://open.spotify.com/album/45J2bLCq0GA5efgl0N6OQT"
       },
@@ -10254,6 +10308,24 @@
       "duration_ms": 225829,
       "name": "\u5b64\u7368\u4e0d\u662f\u7f6a",
       "url": "https://open.spotify.com/track/3yRkxh99v94JbWhS4MY59Z"
+    },
+    {
+      "album": {
+        "name": "\u5b64\u82b3\u81ea\u8cde",
+        "url": "https://open.spotify.com/album/3kWAPgQyHaWMmSZbYISZbk"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u6d69\u744b Howard Lee",
+          "url": "https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194577,
+      "name": "\u5b64\u82b3\u81ea\u8cde",
+      "url": "https://open.spotify.com/track/5rSDX95qZzbdjmB2IAKDzq"
     },
     {
       "album": {
@@ -11206,7 +11278,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 246554,
       "name": "\u5f88\u4e45\u5f88\u4e45",
       "url": "https://open.spotify.com/track/16e5HuKQQOBxJqO2wAljfL"
@@ -16060,7 +16132,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 214800,
       "name": "\u6709\u7dda\u8033\u6a5f",
       "url": "https://open.spotify.com/track/2PwNiCR8AbY4OhEVy6jrjh"
@@ -16580,7 +16652,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 192992,
       "name": "\u6c89\u9ed8\u90a3\u9ebc\u7684\u75db",
       "url": "https://open.spotify.com/track/4ATiLlS7SwjHQfq9RMDDMM"
@@ -18180,6 +18252,24 @@
       "duration_ms": 226541,
       "name": "\u751f\u65e5\u665a\u9910",
       "url": "https://open.spotify.com/track/30VXBKujwGZ8aQyh8W3Hkw"
+    },
+    {
+      "album": {
+        "name": "\u7532\u4e59\u4e19\u4e01",
+        "url": "https://open.spotify.com/album/30zNYNia7OQ2MWqIDNzP0V"
+      },
+      "artists": [
+        {
+          "name": "Jess Lee",
+          "url": "https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "\u7532\u4e59\u4e19\u4e01 - \u4f60\u6211\u600e\u4e48\u4e24\u6e05",
+      "url": "https://open.spotify.com/track/629FqLOdjtsXh5b45FTk43"
     },
     {
       "album": {
@@ -22924,6 +23014,24 @@
       "duration_ms": 222529,
       "name": "\u982d\u865f\u73a9\u5bb6 NO.1 Player",
       "url": "https://open.spotify.com/track/4ISiIOqo6mlHwmitZLaTmn"
+    },
+    {
+      "album": {
+        "name": "\u983b\u7387\u518d\u4e5f\u5c0d\u4e0d\u4e0a\u4e86",
+        "url": "https://open.spotify.com/album/4rZkzwzljQcXCEnCHaOlWk"
+      },
+      "artists": [
+        {
+          "name": "\u6591\u6069Ben",
+          "url": "https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197600,
+      "name": "\u983b\u7387\u518d\u4e5f\u5c0d\u4e0d\u4e0a\u4e86",
+      "url": "https://open.spotify.com/track/565hcmMjB2cTeFmmO3zvUe"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Matilda Mann
 
-580 songs - 1 day 8 hr 43 min
+582 songs - 1 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,7 @@
 | [I Don't Really Care for You](https://open.spotify.com/track/4CQv2F0m8ssGBVq7v8uBGu) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I’d Be Dead](https://open.spotify.com/album/6zn3DcldhCpu6f5HvV32bw) | 4:04 | 2021-12-03 | 2022-10-13 |
 | [I Don't Wanna Lie](https://open.spotify.com/track/6CgsttSWDA2sISZQp1upXK) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:01 | 2021-12-03 | 2023-01-28 |
 | [I Feel Fine](https://open.spotify.com/track/7nacC4F63OTGDt5weUvB7D) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [I Feel Fine](https://open.spotify.com/album/54tBEt7oZJJidCayrWiECX) | 3:07 | 2022-05-27 | 2025-02-01 |
-| [I Got a Feeling](https://open.spotify.com/track/361XkCyE6JIwjPsGYiy3yc) | [Benny G](https://open.spotify.com/artist/3QuQwLqdQBjhieJ1c6uLc8) | [I Got a Feeling](https://open.spotify.com/album/0ftERai3KKuXqNTH5ikOfV) | 3:13 | 2025-09-05 |  |
+| [I Got a Feeling](https://open.spotify.com/track/361XkCyE6JIwjPsGYiy3yc) | [Benny G](https://open.spotify.com/artist/3QuQwLqdQBjhieJ1c6uLc8) | [I Got a Feeling](https://open.spotify.com/album/0ftERai3KKuXqNTH5ikOfV) | 3:13 | 2025-09-05 | 2026-08-08 |
 | [I Got Your Love](https://open.spotify.com/track/27tSNC5BAGTPex0Oyuj9z0) | [Ryan Innes](https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79), [Seibold](https://open.spotify.com/artist/2K5tyaxKm3dWuyFyf0jtaR) | [I Got Your Love](https://open.spotify.com/album/6B2xUHx21ZnXjAuxBTJnTL) | 2:13 | 2023-05-26 | 2025-11-22 |
 | [I NEED YOU](https://open.spotify.com/track/0RDUnNaGubiseI1W9T3YTf) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:37 | 2021-12-03 | 2023-01-28 |
 | [I NEED YOU](https://open.spotify.com/track/0Rz33FuYUwWW0pcw2v9gI9) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [I NEED YOU](https://open.spotify.com/album/1m8ZRSrh5k7K7OiIbOwj4T) | 2:37 | 2021-12-03 | 2022-07-29 |
@@ -266,6 +266,7 @@
 | [If It's Love](https://open.spotify.com/track/0pPt7BzRUrYLiSdFrjN7QA) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [If It's Love](https://open.spotify.com/album/1KbxCIV9Zq8npEmyV8efqM) | 3:14 | 2021-12-03 | 2022-05-08 |
 | [If It's Love](https://open.spotify.com/track/1aK2wrsldTVOR0C1wMj3sR) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Bridge \(Deluxe\)](https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz) | 3:14 | 2021-12-03 | 2022-10-01 |
 | [If Standing Was Flying](https://open.spotify.com/track/6SG0ueYRAT8rIEqDjX82JH) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [If Standing Was Flying](https://open.spotify.com/album/01G5Yoz4ZnQTNYIlL7DgIV) | 4:09 | 2021-12-03 | 2022-07-29 |
+| [If You Ever Loved Me](https://open.spotify.com/track/1RzL3slVvnwjo06s4rgM6x) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [If You Ever Loved Me](https://open.spotify.com/album/1H4V4rCppexGI2Ubqs1N8V) | 2:52 | 2026-08-07 |  |
 | [If You Need Me, Don't](https://open.spotify.com/track/7KkMAQjDSxPFH9VY4XL6ow) | [Meghan Linsey](https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn) | [If You Need Me, Don't](https://open.spotify.com/album/78h9nHFcTuXx78rRBUJdVA) | 3:26 | 2022-06-03 | 2023-05-06 |
 | [If You Only Knew](https://open.spotify.com/track/2Tv98WrbvTsQfa2xH5OSwO) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Angels & Queens \- Part I](https://open.spotify.com/album/6XT2zsJKZ80o1FJndkQwdx) | 4:12 | 2022-09-30 | 2023-02-16 |
 | [In Water](https://open.spotify.com/track/2z6MgeDtMM8bpy3iJwr7QO) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [In Water](https://open.spotify.com/album/6oADPnUSjOQjUEl4FffwHU) | 3:47 | 2022-04-22 | 2024-03-16 |
@@ -322,6 +323,7 @@
 | [Love Me Twice](https://open.spotify.com/track/6RBWAgKA9mukk3nOs0doEk) | [Kerr Mercer](https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x) | [Love Me Twice](https://open.spotify.com/album/63R5hFgQ7DPeLdJijGmmoP) | 2:23 | 2026-03-13 | 2026-07-22 |
 | [LOVE NEVER FELT LIKE THIS](https://open.spotify.com/track/2h3slSQMBstt11fys4CFYb) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:55 | 2024-02-16 | 2026-03-21 |
 | [Love Over Glory](https://open.spotify.com/track/0FQroAJHjN85mvXb9Wu56D) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Love Over Glory](https://open.spotify.com/album/10q9pHSwBj611CT8gcN3pp) | 4:39 | 2024-05-10 | 2025-11-22 |
+| [Love Was Made of Stone](https://open.spotify.com/track/5HXoQhJCu7Axg0J1pBsCj2) | [Brooke Combe](https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO) | [Love Was Made of Stone](https://open.spotify.com/album/3tog0SBGhLT15iGueL35qG) | 3:22 | 2026-08-07 |  |
 | [Love You Better](https://open.spotify.com/track/0WSmvwsulStgy0hKJetRi4) | [Molly Grace](https://open.spotify.com/artist/21rtlXPLkzcyDnYycn4QXH) | [Love You Better](https://open.spotify.com/album/4gLEInK7qVTUEa4yj2Jou8) | 4:00 | 2023-03-31 | 2025-09-13 |
 | [LOVE, LOVE, LOVE](https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [LOVE, LOVE, LOVE](https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f) | 4:02 | 2026-03-06 | 2026-05-09 |
 | [Lover Girl](https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:44 | 2025-11-21 |  |
@@ -506,7 +508,7 @@
 | [Superbloom](https://open.spotify.com/track/56imCiO83oUJj6z9favCWt) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Superbloom](https://open.spotify.com/album/56sKKg6lpmwyvbvLw3nVCN) | 4:11 | 2026-04-17 |  |
 | [Supersonic](https://open.spotify.com/track/1TL8oEjxJqsB6nojBkBUgE) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l) | [Scary As Hell But I Love The Thrill](https://open.spotify.com/album/0RALiw4duBKgD7PXZBqzJd) | 2:55 | 2024-03-22 | 2026-03-24 |
 | [Supply & Demand](https://open.spotify.com/track/0tsUIJakq2RksuC1YixAHX) | [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Wilder Woods](https://open.spotify.com/album/35rWm0QieUmTizxsC7dXnG) | 3:16 | 2021-12-03 | 2023-01-28 |
-| [Sushi and Coca\-Cola](https://open.spotify.com/track/5pGdWJIkt47ovJcBOKHl2S) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sushi and Coca\-Cola](https://open.spotify.com/album/3QSjD8VyfUBGICacKVLzk4) | 2:37 | 2025-07-25 |  |
+| [Sushi and Coca\-Cola](https://open.spotify.com/track/5pGdWJIkt47ovJcBOKHl2S) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sushi and Coca\-Cola](https://open.spotify.com/album/3QSjD8VyfUBGICacKVLzk4) | 2:37 | 2025-07-25 | 2026-08-08 |
 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 | 2025-06-13 |  |
 | [Sweet \- Single Edit](https://open.spotify.com/track/7uYpvX8Gb7CUubdJcRt8E0) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [Sweet](https://open.spotify.com/album/0qDkNJ0azvJj9glUVIku8P) | 2:38 | 2022-07-22 | 2023-02-16 |
 | [Sweet Chamomile](https://open.spotify.com/track/0RfBLmmqsSP1pir9zu46d4) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Moments in Between](https://open.spotify.com/album/31YtUUKHFaKVhlELeptm1S) | 3:28 | 2021-12-03 | 2022-10-01 |

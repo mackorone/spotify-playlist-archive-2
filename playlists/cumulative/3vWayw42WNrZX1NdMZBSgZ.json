@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The perfect mix of the latest pop hits! Follow this playlist to enjoy Shakira, Alejandro Sanz, TINI, Camilo, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Mon Laferte",
-  "name": "Pop Latin Hits 2026",
+  "description": "The perfect mix of current Latin Pop hits! Enjoy Shakira, TINI, Camilo, Milo J, Emilia, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Alejandro Sanz, Eden Mu\u00f1oz",
+  "name": "LATIN POP HITS 2026 - \u00c9xitos del Pop Latino",
   "tracks": [
     {
       "album": {
@@ -4520,10 +4520,32 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
+    },
+    {
+      "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/0Q01cgQeoWTETkOvpoeng9"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222222,
+      "name": "Dai Dai - Spanish Version",
+      "url": "https://open.spotify.com/track/4FgqM9iu6uY5vJavkDrP6W"
     },
     {
       "album": {
@@ -5225,7 +5247,7 @@
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 275898,
+      "duration_ms": 268996,
       "name": "Despu\u00e9s de ti",
       "url": "https://open.spotify.com/track/6PbhFQkpQjoojWo2b6Ghoi"
     },

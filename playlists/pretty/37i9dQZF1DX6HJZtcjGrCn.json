@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Jasmim",
-  "num_followers": 39979,
+  "num_followers": 40050,
   "original_name": "Cena Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHJgw8D2QnYSCXXx3ds82Wxz71+E",
+  "snapshot_id": "AAAAAAGeW8ccmr/rO1txJicaEP//x6OW",
   "tracks": [
     {
       "added_at": "2026-08-06 23:00:26",
@@ -515,18 +515,22 @@
     {
       "added_at": "2026-08-06 23:00:26",
       "album": {
-        "name": "The Wave",
-        "url": "https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj"
+        "name": "Hyperdrama",
+        "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 202972,
-      "name": "The Wave",
-      "url": "https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W"
+      "duration_ms": 266493,
+      "name": "Neverender",
+      "url": "https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn"
     },
     {
       "added_at": "2026-08-06 23:00:26",
@@ -547,22 +551,18 @@
     {
       "added_at": "2026-08-06 23:00:26",
       "album": {
-        "name": "Hyperdrama",
-        "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj"
       },
       "artists": [
         {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
         }
       ],
-      "duration_ms": 266493,
-      "name": "Neverender",
-      "url": "https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn"
+      "duration_ms": 202972,
+      "name": "The Wave",
+      "url": "https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W"
     },
     {
       "added_at": "2026-08-06 23:00:26",

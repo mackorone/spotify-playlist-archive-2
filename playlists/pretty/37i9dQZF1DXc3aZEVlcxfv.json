@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADHLskeDt8YyGeF3UlpEN5/eyil8",
+  "snapshot_id": "AAAAAPRAZqU//RwgAv3v+axTePBafYB4",
   "tracks": [
     {
       "added_at": "2024-09-30 14:25:52",
@@ -365,6 +365,26 @@
       "url": "https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO"
     },
     {
+      "added_at": "2025-12-12 00:01:22",
+      "album": {
+        "name": "Good God",
+        "url": "https://open.spotify.com/album/7deIkmtEUfNPRRHUNmXTI4"
+      },
+      "artists": [
+        {
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 889180,
+      "name": "Good God",
+      "url": "https://open.spotify.com/track/3sj94nxEe8RNwUtew2FvFq"
+    },
+    {
       "added_at": "2026-03-13 00:01:18",
       "album": {
         "name": "Reckless Lover",
@@ -399,26 +419,6 @@
       "duration_ms": 296320,
       "name": "Nara",
       "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
-    },
-    {
-      "added_at": "2025-12-12 00:01:22",
-      "album": {
-        "name": "Good God",
-        "url": "https://open.spotify.com/album/7deIkmtEUfNPRRHUNmXTI4"
-      },
-      "artists": [
-        {
-          "name": "Minister GUC",
-          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
-        },
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 889180,
-      "name": "Good God",
-      "url": "https://open.spotify.com/track/3sj94nxEe8RNwUtew2FvFq"
     },
     {
       "added_at": "2025-01-31 00:01:08",
@@ -769,6 +769,26 @@
       "url": "https://open.spotify.com/track/4Qd1bY9uaOSL4e1IdLwYow"
     },
     {
+      "added_at": "2026-07-31 00:01:30",
+      "album": {
+        "name": "Beautiful One",
+        "url": "https://open.spotify.com/album/0pmidcdB8w4UxVjAYLFFxd"
+      },
+      "artists": [
+        {
+          "name": "Taiwo Oshin",
+          "url": "https://open.spotify.com/artist/7hZuTavDZ9G7EcIaPgpC8U"
+        },
+        {
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
+        }
+      ],
+      "duration_ms": 329042,
+      "name": "Beautiful One",
+      "url": "https://open.spotify.com/track/5Mvj01bwIhS4RYcCBgnmVQ"
+    },
+    {
       "added_at": "2026-05-29 00:01:36",
       "album": {
         "name": "Subscribed (Live)",
@@ -831,26 +851,6 @@
       "duration_ms": 836670,
       "name": "Covenant Keeping God",
       "url": "https://open.spotify.com/track/1hhgSr6jl97R9znizeUrM0"
-    },
-    {
-      "added_at": "2026-07-31 00:01:30",
-      "album": {
-        "name": "Beautiful One",
-        "url": "https://open.spotify.com/album/0pmidcdB8w4UxVjAYLFFxd"
-      },
-      "artists": [
-        {
-          "name": "Taiwo Oshin",
-          "url": "https://open.spotify.com/artist/7hZuTavDZ9G7EcIaPgpC8U"
-        },
-        {
-          "name": "Phil Thompson",
-          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
-        }
-      ],
-      "duration_ms": 329042,
-      "name": "Beautiful One",
-      "url": "https://open.spotify.com/track/5Mvj01bwIhS4RYcCBgnmVQ"
     },
     {
       "added_at": "2025-02-14 00:01:09",
@@ -1133,6 +1133,26 @@
       "url": "https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd"
     },
     {
+      "added_at": "2026-07-31 00:01:30",
+      "album": {
+        "name": "This Joy",
+        "url": "https://open.spotify.com/album/4W6pK9Jwm5Rt8WGXuZaMij"
+      },
+      "artists": [
+        {
+          "name": "God in This Music",
+          "url": "https://open.spotify.com/artist/2QJS4VZUhGBNzYp3z24l7K"
+        },
+        {
+          "name": "Seun Makay",
+          "url": "https://open.spotify.com/artist/6iTWmqUhTN5ig1UuD6lSQY"
+        }
+      ],
+      "duration_ms": 243692,
+      "name": "This Joy",
+      "url": "https://open.spotify.com/track/072Sq0ueJbKXahJvg21OC8"
+    },
+    {
       "added_at": "2026-03-13 00:01:18",
       "album": {
         "name": "Sonship",
@@ -1169,46 +1189,6 @@
       "url": "https://open.spotify.com/track/5my8ScRHzur1cdz2dnnZqL"
     },
     {
-      "added_at": "2026-07-10 00:01:15",
-      "album": {
-        "name": "Grace (Collab Version)",
-        "url": "https://open.spotify.com/album/26hi7AyFWMykRnAc3iIIxC"
-      },
-      "artists": [
-        {
-          "name": "Daniel Ojo",
-          "url": "https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r"
-        },
-        {
-          "name": "Godswill Oyor",
-          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
-        }
-      ],
-      "duration_ms": 193398,
-      "name": "Grace - Collab Version",
-      "url": "https://open.spotify.com/track/7iJLNphVZoKg1AAm3RagLa"
-    },
-    {
-      "added_at": "2026-07-31 00:01:30",
-      "album": {
-        "name": "This Joy",
-        "url": "https://open.spotify.com/album/4W6pK9Jwm5Rt8WGXuZaMij"
-      },
-      "artists": [
-        {
-          "name": "God in This Music",
-          "url": "https://open.spotify.com/artist/2QJS4VZUhGBNzYp3z24l7K"
-        },
-        {
-          "name": "Seun Makay",
-          "url": "https://open.spotify.com/artist/6iTWmqUhTN5ig1UuD6lSQY"
-        }
-      ],
-      "duration_ms": 243692,
-      "name": "This Joy",
-      "url": "https://open.spotify.com/track/072Sq0ueJbKXahJvg21OC8"
-    },
-    {
       "added_at": "2026-03-06 00:01:07",
       "album": {
         "name": "Overflow",
@@ -1227,6 +1207,26 @@
       "duration_ms": 130285,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/3tlvLZKwCJ5OHGqnWzroLt"
+    },
+    {
+      "added_at": "2026-07-10 00:01:15",
+      "album": {
+        "name": "Grace (Collab Version)",
+        "url": "https://open.spotify.com/album/26hi7AyFWMykRnAc3iIIxC"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ojo",
+          "url": "https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r"
+        },
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "duration_ms": 193398,
+      "name": "Grace - Collab Version",
+      "url": "https://open.spotify.com/track/7iJLNphVZoKg1AAm3RagLa"
     },
     {
       "added_at": "2026-07-10 00:01:15",
@@ -1289,22 +1289,6 @@
       "url": "https://open.spotify.com/track/54wWAAGkIHZG03JkcSd2cS"
     },
     {
-      "added_at": "2026-07-10 00:01:15",
-      "album": {
-        "name": "I'M BLESSED",
-        "url": "https://open.spotify.com/album/1PNHuxikN3sQWr1LbTOp4u"
-      },
-      "artists": [
-        {
-          "name": "Kevin Adams & Voices of Praise",
-          "url": "https://open.spotify.com/artist/1gjLvPTniUzZAzokFsuMDV"
-        }
-      ],
-      "duration_ms": 176841,
-      "name": "I'M BLESSED",
-      "url": "https://open.spotify.com/track/4YEafuhU1hLqlyGxP4fF5f"
-    },
-    {
       "added_at": "2026-07-17 00:01:08",
       "album": {
         "name": "Good News",
@@ -1325,6 +1309,22 @@
       "url": "https://open.spotify.com/track/6xRCBlLNQkvUePxFgUNnTN"
     },
     {
+      "added_at": "2026-04-24 00:01:08",
+      "album": {
+        "name": "Happy Song",
+        "url": "https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        }
+      ],
+      "duration_ms": 147452,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC"
+    },
+    {
       "added_at": "2026-07-31 00:01:30",
       "album": {
         "name": "Ina Son Ka",
@@ -1341,20 +1341,20 @@
       "url": "https://open.spotify.com/track/0O6Zxeej9w2w8cA4gG8xUu"
     },
     {
-      "added_at": "2026-04-24 00:01:08",
+      "added_at": "2026-07-10 00:01:15",
       "album": {
-        "name": "Happy Song",
-        "url": "https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX"
+        "name": "I'M BLESSED",
+        "url": "https://open.spotify.com/album/1PNHuxikN3sQWr1LbTOp4u"
       },
       "artists": [
         {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+          "name": "Kevin Adams & Voices of Praise",
+          "url": "https://open.spotify.com/artist/1gjLvPTniUzZAzokFsuMDV"
         }
       ],
-      "duration_ms": 147452,
-      "name": "Happy Song",
-      "url": "https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC"
+      "duration_ms": 176841,
+      "name": "I'M BLESSED",
+      "url": "https://open.spotify.com/track/4YEafuhU1hLqlyGxP4fF5f"
     },
     {
       "added_at": "2026-03-13 00:01:18",
@@ -1457,6 +1457,26 @@
       "url": "https://open.spotify.com/track/7yErAxvmSIVzWb0BFH0U4n"
     },
     {
+      "added_at": "2026-05-08 00:01:38",
+      "album": {
+        "name": "Ifeoma",
+        "url": "https://open.spotify.com/album/0AbMi8S3IA7tKKCNIHllNK"
+      },
+      "artists": [
+        {
+          "name": "Kelar Thrillz",
+          "url": "https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb"
+        },
+        {
+          "name": "Paul CleverLee",
+          "url": "https://open.spotify.com/artist/2OmRPEQ0DmK6myhfVFKLuY"
+        }
+      ],
+      "duration_ms": 211831,
+      "name": "Ifeoma",
+      "url": "https://open.spotify.com/track/3vSUYERQ3tudbBmsQQrBzT"
+    },
+    {
       "added_at": "2026-05-01 00:02:08",
       "album": {
         "name": "Hallelujah (My song forever)",
@@ -1489,26 +1509,6 @@
       "url": "https://open.spotify.com/track/2AUFfb517wmHQoDxxGg3TU"
     },
     {
-      "added_at": "2026-05-08 00:01:38",
-      "album": {
-        "name": "Ifeoma",
-        "url": "https://open.spotify.com/album/0AbMi8S3IA7tKKCNIHllNK"
-      },
-      "artists": [
-        {
-          "name": "Kelar Thrillz",
-          "url": "https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb"
-        },
-        {
-          "name": "Paul CleverLee",
-          "url": "https://open.spotify.com/artist/2OmRPEQ0DmK6myhfVFKLuY"
-        }
-      ],
-      "duration_ms": 211831,
-      "name": "Ifeoma",
-      "url": "https://open.spotify.com/track/3vSUYERQ3tudbBmsQQrBzT"
-    },
-    {
       "added_at": "2026-07-17 00:01:08",
       "album": {
         "name": "Give Am Praise",
@@ -1525,48 +1525,36 @@
       "url": "https://open.spotify.com/track/3PVoW55Hs6hfokXqnBc0u2"
     },
     {
-      "added_at": "2026-06-26 00:01:41",
+      "added_at": "2026-07-24 00:01:56",
       "album": {
-        "name": "If E No Be You Jesus",
-        "url": "https://open.spotify.com/album/6WV20H3NhF71GS2PDb2wPw"
+        "name": "AGABA",
+        "url": "https://open.spotify.com/album/4VfMu1gbyTQEBuqLgOLKLT"
       },
       "artists": [
         {
-          "name": "Blessings Ng",
-          "url": "https://open.spotify.com/artist/7pEGK08h9Nk2NyhuiZ2u9m"
-        },
-        {
-          "name": "Tkeyz",
-          "url": "https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI"
-        },
-        {
-          "name": "Elijah Daniel Omo Majemu",
-          "url": "https://open.spotify.com/artist/4lq5l1U6f3A8KwEOsvyTlG"
+          "name": "Blessing Lopez",
+          "url": "https://open.spotify.com/artist/3311Wqrg5A5Zji9GUitIHd"
         }
       ],
-      "duration_ms": 234500,
-      "name": "If E No Be You Jesus",
-      "url": "https://open.spotify.com/track/0RlbvNt1jx208AZAdsMpBv"
+      "duration_ms": 163215,
+      "name": "AGABA",
+      "url": "https://open.spotify.com/track/2CljurYlwVbQ2qMtrY2Pys"
     },
     {
-      "added_at": "2026-05-29 00:01:36",
+      "added_at": "2026-06-26 00:01:41",
       "album": {
-        "name": "I See The Lord (Live)",
-        "url": "https://open.spotify.com/album/3EbJqKDeDsAX4wv1RZ5Za3"
+        "name": "Nakupenda",
+        "url": "https://open.spotify.com/album/2FljmMMzvw2pJ9jqgm8Fml"
       },
       "artists": [
         {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
-        },
-        {
-          "name": "Ibquake",
-          "url": "https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u"
+          "name": "Toria Etuk",
+          "url": "https://open.spotify.com/artist/6DMhWPhBAGMzvCKlZqG4LR"
         }
       ],
-      "duration_ms": 610039,
-      "name": "I See The Lord - Live",
-      "url": "https://open.spotify.com/track/38kUGVC4ZLfg6ekJ08IcUh"
+      "duration_ms": 138620,
+      "name": "Nakupenda",
+      "url": "https://open.spotify.com/track/4gxIaetYYaMI5uelXRpnfQ"
     }
   ],
   "unique_name": "Blessed",

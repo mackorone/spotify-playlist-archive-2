@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 
 > Revisit stand out songs from these singer/songwriters\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,408 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,414 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 | 41 | [If We Were Vampires](https://open.spotify.com/track/250RLekaiL1q9qZer975Eg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:35 |
 | 42 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:58 |
 | 43 | [Haven \(from Life Is Strange\)](https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Haven \(from Life Is Strange\)](https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE) | 2:52 |
-| 44 | [Pretty Pimpin](https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [b'lieve i'm goin down...](https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR) | 4:58 |
-| 45 | [If You Need To, Keep Time on Me](https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Crack\-Up](https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v) | 3:30 |
+| 44 | [If You Need To, Keep Time on Me](https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Crack\-Up](https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v) | 3:30 |
+| 45 | [Pretty Pimpin](https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [b'lieve i'm goin down...](https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR) | 4:58 |
 | 46 | [Sadness As A Gift](https://open.spotify.com/track/1UpXhetX1s5OXTY5fRjWvu) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 4:19 |
 | 47 | [Me & My Dog](https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:26 |
-| 48 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 |
-| 49 | [The Joke](https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:39 |
+| 48 | [The Joke](https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:39 |
+| 49 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 |
 | 50 | [Elderberry Wine](https://open.spotify.com/track/00lSB9CSyOcsxKVtbPbniL) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:35 |
 | 51 | [Thinking 'Bout Love](https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To](https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW) | 3:19 |
 | 52 | [Good To Be](https://open.spotify.com/track/0rdGHLnsyAdnLcO4rz5sMK) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be](https://open.spotify.com/album/6lVzd7PgdTCzmN8P9rOA0o) | 2:27 |
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 | 72 | [Surrender](https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Surrender](https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5) | 3:54 |
 | 73 | [Alco](https://open.spotify.com/track/4gUSSMx93QZOFVHHmXWhHV) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Salt](https://open.spotify.com/album/28pyk4QKjNKAt7fXL27Jth) | 3:48 |
 | 74 | [Bright Green Vibrant Gray](https://open.spotify.com/track/6OvymCZ4OgIYA7MSXvPIsM) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Goodnight Summerland](https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn) | 3:39 |
-| 75 | [Ain't As Pretty A Blue](https://open.spotify.com/track/4dLDeBfAKzYuyEGwhTUowJ) | [Fleeland](https://open.spotify.com/artist/4Vkm5pdNrllKnkuHN5ifw4), [Frances Whitney](https://open.spotify.com/artist/5nlTKiR2DmLn3Ro0tPn58E), [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [Ain't As Pretty A Blue](https://open.spotify.com/album/462ULrUnmVxUH6vknoGjVU) | 3:57 |
-| 76 | [Appointments](https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Turn Out the Lights](https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O) | 4:33 |
-| 77 | [To Live a Life](https://open.spotify.com/track/4K00AQLpOhGUdDfDINDfYL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Ruins](https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR) | 3:13 |
+| 75 | [Appointments](https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Turn Out the Lights](https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O) | 4:33 |
+| 76 | [To Live a Life](https://open.spotify.com/track/4K00AQLpOhGUdDfDINDfYL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Ruins](https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR) | 3:13 |
+| 77 | [Ain't As Pretty A Blue](https://open.spotify.com/track/4dLDeBfAKzYuyEGwhTUowJ) | [Fleeland](https://open.spotify.com/artist/4Vkm5pdNrllKnkuHN5ifw4), [Frances Whitney](https://open.spotify.com/artist/5nlTKiR2DmLn3Ro0tPn58E), [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [Ain't As Pretty A Blue](https://open.spotify.com/album/462ULrUnmVxUH6vknoGjVU) | 3:57 |
 | 78 | [So You Are Tired](https://open.spotify.com/track/0pkm7xATstQUqHoitmE3ru) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:49 |
 | 79 | [Holocene](https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver, Bon Iver \(10th Anniversary Edition\)](https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD) | 5:36 |
 | 80 | [reverie](https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [isaac gracie \(extended edition\)](https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD) | 5:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 | 99 | [The Open Road](https://open.spotify.com/track/1Zc2f37KUAPwLEywMMHnbX) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Moments](https://open.spotify.com/album/1woKCA8dTokL647kKXySq6) | 3:20 |
 | 100 | [Consolation Prize](https://open.spotify.com/track/3QeznxbfXEQAy7BnYAqjGN) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Cerulean](https://open.spotify.com/album/6ItTL1YLeVn87SfJscm1KW) | 4:00 |
 
-Snapshot ID: `AAAAAPE28jE5Folp+uJi9oIidXvWWaJ4`
+Snapshot ID: `AAAAAHthVLHKLzewTfanUd+z/kuPMqn1`

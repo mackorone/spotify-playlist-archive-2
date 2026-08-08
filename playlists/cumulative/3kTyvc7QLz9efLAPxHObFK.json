@@ -15301,6 +15301,28 @@
     },
     {
       "album": {
+        "name": "DRAMA!",
+        "url": "https://open.spotify.com/album/0WBiOqZAD2LfP5C2AWGJbu"
+      },
+      "artists": [
+        {
+          "name": "Xelerate",
+          "url": "https://open.spotify.com/artist/0gPwvAURbtqpxkdMWh3iko"
+        },
+        {
+          "name": "Krause",
+          "url": "https://open.spotify.com/artist/6P4IBgSaCo8hhyP7IeTsSa"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141084,
+      "name": "DRAMA!",
+      "url": "https://open.spotify.com/track/0Rvut0gVpry8wvPjvJxwMl"
+    },
+    {
+      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/5umZsTreEdNKVhEHLncTGy"
       },

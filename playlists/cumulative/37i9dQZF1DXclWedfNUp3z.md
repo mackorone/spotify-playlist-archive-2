@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-481 songs - 1 day 9 hr 2 min
+482 songs - 1 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [1:17 PM](https://open.spotify.com/track/7sX3ulXwDyyE5q5g8z3yUN) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/4xBGAlIlejqITTgDkOBDIy) | 3:29 | 2021-10-20 | 2022-07-19 |
 | [4T Recordings](https://open.spotify.com/track/4Apw7hpz0mMcYeNhNZq3ml) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [4T Recordings](https://open.spotify.com/album/1TP8nDCTDUaVGFr6lfQ61r) | 3:17 | 2021-10-20 |  |
 | [8pm Crickets](https://open.spotify.com/track/554sCd11tHjsLk57OkM6Dh) | [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [Cicada Waves](https://open.spotify.com/album/4x027fiQuq8CqSCz02eTNp) | 6:22 | 2021-10-20 | 2022-07-29 |
-| [A Cat](https://open.spotify.com/track/2hZxWOOsHVGPrN3OsqAvJV) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [A Cat b/w Aran in Repose](https://open.spotify.com/album/5L4hjpNZ0IAMWCylo3YqS5) | 5:37 | 2021-10-20 |  |
+| [A Cat](https://open.spotify.com/track/2hZxWOOsHVGPrN3OsqAvJV) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [A Cat b/w Aran in Repose](https://open.spotify.com/album/5L4hjpNZ0IAMWCylo3YqS5) | 5:37 | 2021-10-20 | 2026-08-08 |
 | [A Healing Song](https://open.spotify.com/track/4nWzykTaCgZIOfEruzrCLv) | [Christopher Koehn Martínez](https://open.spotify.com/artist/7wGFFvXLrtufmUy5WUEER1), [Chris Koehn](https://open.spotify.com/artist/5wTNDQgcs23Cf2cJYLldIn), [Barbara Mori](https://open.spotify.com/artist/1255FEAystP6lFDp9sClBL) | [A Healing Song](https://open.spotify.com/album/2YVbnl6fzKwIBN9q4562ar) | 5:01 | 2025-02-04 | 2026-06-19 |
 | [A Ritual Study of the Phong Nha Cave](https://open.spotify.com/track/1iGnt81GTY848mNQhaFwCs) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [A Ritual Study of the Phong Nha Cave](https://open.spotify.com/album/6Ofm6zPrL1as8CaVAa1iAa) | 2:31 | 2021-10-20 | 2022-07-27 |
 | [A Short Story of the Mahale Mountains](https://open.spotify.com/track/1yON8AeGECjNVsxBH7QEzs) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [A Short Story of the Mahale Mountains](https://open.spotify.com/album/18PagmMWN9250w8cED8U8f) | 2:42 | 2021-10-20 | 2022-06-30 |
@@ -56,6 +56,7 @@
 | [Beginning, Becoming](https://open.spotify.com/track/3qhG4d1DcIqxxmdqXGBHu9) | [Christopher Stracey](https://open.spotify.com/artist/3OtCzBJs5hFZapz4lY6aWa) | [Music for Growing Plants](https://open.spotify.com/album/3QsGjN0ERhyBi1IxXpNxhM) | 6:04 | 2021-10-20 |  |
 | [Behind the Eyes](https://open.spotify.com/track/7oFocF6NHEyASI4A8y0aCS) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR), [FSOL](https://open.spotify.com/artist/3jOeWmwth0yR5cuXLWXNme) | [@0](https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3) | 6:26 | 2021-11-24 | 2024-09-17 |
 | [Besides You](https://open.spotify.com/track/0Ux83HlRGB8O4DPFXMPuT3) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Oliver](https://open.spotify.com/album/1Zy4HydcCJHo5KstRHgiRG) | 1:20 | 2021-10-20 | 2022-04-21 |
+| [BETA](https://open.spotify.com/track/3qw2hvViEGRFhJgUzD0JV8) | [Memory Garden](https://open.spotify.com/artist/6FpeEQFyQWeVRnEpQfBXd9) | [Dream Phases](https://open.spotify.com/album/0rhLfyF8ldsppYVg6qPjiW) | 6:32 | 2026-08-07 |  |
 | [Bird Language](https://open.spotify.com/track/0rdbZRjXBEbM3fP7IGVYaz) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Doff](https://open.spotify.com/album/1kWeNr74zt9BJaPT4HeYu8) | 3:27 | 2025-01-06 |  |
 | [Birdy Island](https://open.spotify.com/track/2YbmzDGhrwcl5s1X3lLU5O) | [Howie Lee](https://open.spotify.com/artist/5y2TmxjZITDjLsfUxjlkcD) | [Birdy Island](https://open.spotify.com/album/2Juy4gK69leZMQohtTDJKv) | 2:27 | 2021-10-20 | 2023-12-15 |
 | [Birdy Island](https://open.spotify.com/track/5NMOIpKNftWJ42W9wFGxct) | [Howie Lee](https://open.spotify.com/artist/5y2TmxjZITDjLsfUxjlkcD) | [Birdy Island](https://open.spotify.com/album/3n2XRVTEOWVzxs6o0NcXgJ) | 2:27 | 2021-10-20 | 2022-07-29 |

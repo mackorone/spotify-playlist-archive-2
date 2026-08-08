@@ -1,12 +1,12 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 139839,
+  "num_followers": 139856,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO6jyc1vunt3WC9oAG3WlNPZ/bxi",
+  "snapshot_id": "AAAAAFg241Do+wQwQaorwRkITgoaVqXj",
   "tracks": [
     {
       "added_at": "2024-07-17 12:24:10",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Presenting The Gerry Mulligan Sextet",
-        "url": "https://open.spotify.com/album/52A8U2TeGb5u9NeXNSTs4Y"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan Sextet",
-          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
-        }
-      ],
-      "duration_ms": 323373,
-      "name": "Everything Happens To Me",
-      "url": "https://open.spotify.com/track/2m8vNmDGz5GCGLxJfWIsJI"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "I'm All For You (Ballad Songbook)",
         "url": "https://open.spotify.com/album/4jdRWzxentnlaBY3ZCQsdL"
       },
@@ -543,18 +527,18 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "King Of The Tenors (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
+        "name": "Presenting The Gerry Mulligan Sextet",
+        "url": "https://open.spotify.com/album/52A8U2TeGb5u9NeXNSTs4Y"
       },
       "artists": [
         {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+          "name": "Gerry Mulligan Sextet",
+          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
         }
       ],
-      "duration_ms": 185800,
-      "name": "Don't Get Around Much Any More",
-      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
+      "duration_ms": 323373,
+      "name": "Everything Happens To Me",
+      "url": "https://open.spotify.com/track/2m8vNmDGz5GCGLxJfWIsJI"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -571,6 +555,22 @@
       "duration_ms": 200626,
       "name": "Warm Valley",
       "url": "https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "King Of The Tenors (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Don't Get Around Much Any More",
+      "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "The Bad Plus Joshua Redman",
+        "url": "https://open.spotify.com/album/2tzJagRYnAeB9j65wJx2j3"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "The Bad Plus",
+          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
+        }
+      ],
+      "duration_ms": 412613,
+      "name": "As This Moment Slips Away",
+      "url": "https://open.spotify.com/track/5CcAkJMkqpx7vwyYq1CQQd"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "Out To Lunch (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/3PIVqZzL1PnrxFZDzuT1aX"
       },
@@ -1087,26 +1107,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "The Bad Plus Joshua Redman",
-        "url": "https://open.spotify.com/album/2tzJagRYnAeB9j65wJx2j3"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        },
-        {
-          "name": "The Bad Plus",
-          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
-        }
-      ],
-      "duration_ms": 412613,
-      "name": "As This Moment Slips Away",
-      "url": "https://open.spotify.com/track/5CcAkJMkqpx7vwyYq1CQQd"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Page One",
         "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
       },
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "The Jimmy Giuffre 3",
-        "url": "https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Giuffre",
-          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
-        }
-      ],
-      "duration_ms": 231466,
-      "name": "That's the Way It Is",
-      "url": "https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Ben Webster's Finest Hour",
         "url": "https://open.spotify.com/album/6Hwb9XLwQVF3jbjs4P1HHe"
       },
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "The Jimmy Giuffre 3",
+        "url": "https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Giuffre",
+          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
+        }
+      ],
+      "duration_ms": 231466,
+      "name": "That's the Way It Is",
+      "url": "https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "Now!",
         "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
       },
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Art Pepper + Eleven: Modern Jazz Classics",
-        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 192493,
-      "name": "Opus De Funk",
-      "url": "https://open.spotify.com/track/3tj4JjIIW5gaQ6yi6Qmr9j"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "JuJu",
         "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 331306,
       "name": "Twelve More Bars To Go - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
       "url": "https://open.spotify.com/track/5NEYr07MeW3Kp64GobkQAk"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Art Pepper + Eleven: Modern Jazz Classics",
+        "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 192493,
+      "name": "Opus De Funk",
+      "url": "https://open.spotify.com/track/3tj4JjIIW5gaQ6yi6Qmr9j"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 454720,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/1iGtxVoabfF86qjcyfNsNy"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "Jutta Hipp With Zoot Sims (Expanded Edition)",
         "url": "https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 376400,
       "name": "Almost Like Being In Love",
       "url": "https://open.spotify.com/track/5T7Yd8dDaNLeFhv4dRfrkA"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 454720,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/1iGtxVoabfF86qjcyfNsNy"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "Jacknife (2002 Remastered)",
+        "url": "https://open.spotify.com/album/49ndPK2cXCBIY5V30rTLNM"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 754733,
+      "name": "On The Nile - 2002 Remastered",
+      "url": "https://open.spotify.com/track/1iA6TNNiKHrx8Tj1nmtcr4"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "Two Of A Mind",
         "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 395440,
       "name": "Blight of the Fumble Bee",
       "url": "https://open.spotify.com/track/7GKJ9q5mCCFhTFEHTjDe9O"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "Jacknife (2002 Remastered)",
-        "url": "https://open.spotify.com/album/49ndPK2cXCBIY5V30rTLNM"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 754733,
-      "name": "On The Nile - 2002 Remastered",
-      "url": "https://open.spotify.com/track/1iA6TNNiKHrx8Tj1nmtcr4"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "The Congregation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy"
-      },
-      "artists": [
-        {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        }
-      ],
-      "duration_ms": 449293,
-      "name": "I Remember You - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/0sh8fTiqQ7eAXvGKgmvZju"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/18bi2UuLLBj78oai30goPA"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 368053,
       "name": "Eco - Remastered",
       "url": "https://open.spotify.com/track/6XHR5Gs3ZbrBrqVPPA1tGa"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "The Congregation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy"
+      },
+      "artists": [
+        {
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        }
+      ],
+      "duration_ms": 449293,
+      "name": "I Remember You - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/0sh8fTiqQ7eAXvGKgmvZju"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Rhythm In Mind (The Carnegie Project)",
-        "url": "https://open.spotify.com/album/3glkJxDFG1vBLG64VJAYuH"
-      },
-      "artists": [
-        {
-          "name": "Steve Coleman",
-          "url": "https://open.spotify.com/artist/0vEcYt4JfhftX0oarZQLHZ"
-        }
-      ],
-      "duration_ms": 549520,
-      "name": "Zec",
-      "url": "https://open.spotify.com/track/2x5GOzTPdtiBlD2sukLxlp"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a"
       },
@@ -1879,6 +1863,22 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "Rhythm In Mind (The Carnegie Project)",
+        "url": "https://open.spotify.com/album/3glkJxDFG1vBLG64VJAYuH"
+      },
+      "artists": [
+        {
+          "name": "Steve Coleman",
+          "url": "https://open.spotify.com/artist/0vEcYt4JfhftX0oarZQLHZ"
+        }
+      ],
+      "duration_ms": 549520,
+      "name": "Zec",
+      "url": "https://open.spotify.com/track/2x5GOzTPdtiBlD2sukLxlp"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "Lenox Avenue Breakdown",
         "url": "https://open.spotify.com/album/0TjCtBbEIcqcRajdG0oro7"
       },
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Escaping Shadows",
-        "url": "https://open.spotify.com/album/0RDcQJnWgde7RGPMurpthW"
-      },
-      "artists": [
-        {
-          "name": "Benny Reid",
-          "url": "https://open.spotify.com/artist/72cz5YneQ6tzhicbgYJIhe"
-        }
-      ],
-      "duration_ms": 329200,
-      "name": "New Days",
-      "url": "https://open.spotify.com/track/7Eh4F3EYUc7pfZ5qWxJMim"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Contemporary Jazz",
         "url": "https://open.spotify.com/album/3NiRWYhEKaA3Keiqw8A9SJ"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 962320,
       "name": "Elysium",
       "url": "https://open.spotify.com/track/0ypNrOIuiIpusrTVLdtRPc"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Escaping Shadows",
+        "url": "https://open.spotify.com/album/0RDcQJnWgde7RGPMurpthW"
+      },
+      "artists": [
+        {
+          "name": "Benny Reid",
+          "url": "https://open.spotify.com/artist/72cz5YneQ6tzhicbgYJIhe"
+        }
+      ],
+      "duration_ms": 329200,
+      "name": "New Days",
+      "url": "https://open.spotify.com/track/7Eh4F3EYUc7pfZ5qWxJMim"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Warm Woods",
-        "url": "https://open.spotify.com/album/4lj7s0K81qfLbXdLaDt2Ba"
-      },
-      "artists": [
-        {
-          "name": "Phil Woods",
-          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "Blues In Pig Alley",
-      "url": "https://open.spotify.com/track/63FHjEdLJDR1VStrTg9LmY"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "On This Night",
         "url": "https://open.spotify.com/album/637UaZxeTffGluVJMOvBS3"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 447466,
       "name": "The Mac Man",
       "url": "https://open.spotify.com/track/26MG7HtLqPVfPRjrVhhb7t"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Warm Woods",
+        "url": "https://open.spotify.com/album/4lj7s0K81qfLbXdLaDt2Ba"
+      },
+      "artists": [
+        {
+          "name": "Phil Woods",
+          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "Blues In Pig Alley",
+      "url": "https://open.spotify.com/track/63FHjEdLJDR1VStrTg9LmY"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -2067,30 +2067,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/74XTSksd8h9wLA595z0A5Y"
-      },
-      "artists": [
-        {
-          "name": "Jan Garbarek",
-          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
-        },
-        {
-          "name": "Miroslav Vitous",
-          "url": "https://open.spotify.com/artist/0ztzt6g8n0NBcnwMGwMlxD"
-        },
-        {
-          "name": "Peter Erskine",
-          "url": "https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi"
-        }
-      ],
-      "duration_ms": 363333,
-      "name": "Lamenting",
-      "url": "https://open.spotify.com/track/49kINl7tEr7Hq45LD4OSnI"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Where Are You?",
         "url": "https://open.spotify.com/album/5UIu8Ra41XV49VoscOnMjT"
       },
@@ -2111,6 +2087,30 @@
       "duration_ms": 315520,
       "name": "Nigeria",
       "url": "https://open.spotify.com/track/0p9mkM9GtASH9tF73Qo5H3"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/74XTSksd8h9wLA595z0A5Y"
+      },
+      "artists": [
+        {
+          "name": "Jan Garbarek",
+          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
+        },
+        {
+          "name": "Miroslav Vitous",
+          "url": "https://open.spotify.com/artist/0ztzt6g8n0NBcnwMGwMlxD"
+        },
+        {
+          "name": "Peter Erskine",
+          "url": "https://open.spotify.com/artist/3Bm6MhzPUczH3Pej2FNqGi"
+        }
+      ],
+      "duration_ms": 363333,
+      "name": "Lamenting",
+      "url": "https://open.spotify.com/track/49kINl7tEr7Hq45LD4OSnI"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -2163,6 +2163,22 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "The Complete RCA Victor Recordings",
+        "url": "https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 346506,
+      "name": "That Old Feeling",
+      "url": "https://open.spotify.com/track/42Tiidz9wZVBQSm9HZlcQv"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "Triptykon",
         "url": "https://open.spotify.com/album/2YHM6e7Qd12cQwHvFnrBfb"
       },
@@ -2183,22 +2199,6 @@
       "duration_ms": 447600,
       "name": "J.E.V.",
       "url": "https://open.spotify.com/track/4o16N2cUPKqIzDikfo79Eg"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "The Complete RCA Victor Recordings",
-        "url": "https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 346506,
-      "name": "That Old Feeling",
-      "url": "https://open.spotify.com/track/42Tiidz9wZVBQSm9HZlcQv"
     },
     {
       "added_at": "2024-07-17 12:24:10",

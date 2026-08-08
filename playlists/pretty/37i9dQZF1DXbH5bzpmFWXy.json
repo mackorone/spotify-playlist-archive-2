@@ -1,12 +1,12 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... Lucky Brown y El Bogueto en portada.",
-  "num_followers": 310541,
+  "num_followers": 310531,
   "original_name": "El Barrio MP3 ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGrlzr0o8JKjnyac5+MXVlB0iSBU",
+  "snapshot_id": "AAAAAPKwavx4zQ9Fr9M9A+QIYw5CThQa",
   "tracks": [
     {
       "added_at": "2026-07-03 06:00:07",
@@ -775,26 +775,6 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
-        "name": "Un Pacto",
-        "url": "https://open.spotify.com/album/5U4L0ii38QNKx85bicBMCz"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        }
-      ],
-      "duration_ms": 146896,
-      "name": "Un Pacto",
-      "url": "https://open.spotify.com/track/1yxwBHV8dqJw4tCw6hlyMw"
-    },
-    {
-      "added_at": "2026-07-03 06:00:07",
-      "album": {
         "name": "a new star (1 9 9 3)",
         "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 223783,
       "name": "Un Desperdicio",
       "url": "https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm"
+    },
+    {
+      "added_at": "2026-07-03 06:00:07",
+      "album": {
+        "name": "Un Pacto",
+        "url": "https://open.spotify.com/album/5U4L0ii38QNKx85bicBMCz"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 146896,
+      "name": "Un Pacto",
+      "url": "https://open.spotify.com/track/1yxwBHV8dqJw4tCw6hlyMw"
     },
     {
       "added_at": "2026-07-03 06:00:07",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "R&B, Hip-Hop, Pop, Afrobeats and everything in between!  Cover: Destin Conrad",
+  "description": "R&B, Hip-Hop, Pop, Afrobeats and everything in between!  Cover: Ravyn  Lenae",
   "name": "Channel-X",
   "tracks": [
     {
@@ -874,7 +874,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 183906,
       "name": "Aftertaste - Inspired by the Original Motion Picture K-POPS!",
       "url": "https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX"
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 173913,
       "name": "Alright",
       "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
@@ -1791,6 +1791,28 @@
     },
     {
       "album": {
+        "name": "Blue Island",
+        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223066,
+      "name": "Babygirl (feat. Doechii)",
+      "url": "https://open.spotify.com/track/7b1ue9M7mNskt86uE3TlN7"
+    },
+    {
+      "album": {
         "name": "Back",
         "url": "https://open.spotify.com/album/26PeJZE5BuDDc95AM07vX5"
       },
@@ -1842,7 +1864,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 214757,
       "name": "Back and Forth (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4"
@@ -1998,7 +2020,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 225444,
       "name": "BAD BITCHES",
       "url": "https://open.spotify.com/track/5ld2rB0d5nG8RTQRRmkxNa"
@@ -2806,7 +2828,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 151573,
       "name": "BITCHES BREW",
       "url": "https://open.spotify.com/track/3mKMH0NA7Z3iHPmtqLyE9g"
@@ -2930,7 +2952,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 175057,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/5utUZ5nv6y6dR8irsnOQEj"
@@ -4814,10 +4836,28 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-04",
+      "date_removed": null,
       "duration_ms": 171507,
       "name": "Cry about it! (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
+    },
+    {
+      "album": {
+        "name": "THERAPY AT THE CLUB",
+        "url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159700,
+      "name": "Cry Ugly",
+      "url": "https://open.spotify.com/track/61p1mfca6giD6MP75hEu5m"
     },
     {
       "album": {
@@ -6808,7 +6848,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 209589,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq"
@@ -7932,7 +7972,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 206835,
       "name": "For The Moment",
       "url": "https://open.spotify.com/track/0Avl2ptgAslvucP3XxLMtV"
@@ -8092,7 +8132,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 168461,
       "name": "forever",
       "url": "https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj"
@@ -8524,7 +8564,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 155563,
       "name": "Genius",
       "url": "https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync"
@@ -9632,7 +9672,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 171000,
       "name": "Heart Of A Woman",
       "url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
@@ -10168,7 +10208,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 183692,
       "name": "hopeless romantic",
       "url": "https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In"
@@ -11126,7 +11166,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 188348,
       "name": "In My Bag (feat. GloRilla)",
       "url": "https://open.spotify.com/track/4l9xe2rcwWctjrI43UFkgA"
@@ -11706,7 +11746,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 147071,
       "name": "Jump",
       "url": "https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW"
@@ -13376,7 +13416,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 178041,
       "name": "Love Me JeJe",
       "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
@@ -13566,7 +13606,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 233114,
       "name": "Lullaby - mega remix",
       "url": "https://open.spotify.com/track/3UKsi5Qkp4L8quumXsKnie"
@@ -14090,7 +14130,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 192935,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
@@ -14134,7 +14174,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 187037,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
@@ -14590,7 +14630,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 137390,
       "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
@@ -14652,6 +14692,28 @@
       "duration_ms": 174562,
       "name": "More Than A Little Bit (feat. Tinashe)",
       "url": "https://open.spotify.com/track/5KZJIGQmNlBEcCljJLti9f"
+    },
+    {
+      "album": {
+        "name": "MORNING DEW (DONK) REMIX PACK",
+        "url": "https://open.spotify.com/album/6zaCeCipglDayKB85IVKRl"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217215,
+      "name": "MORNING DEW (DONK) REMIX FEAT JA\u0178-Z",
+      "url": "https://open.spotify.com/track/5sTOQbZvUnrX7lFfLRmpFw"
     },
     {
       "album": {
@@ -16218,7 +16280,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 230031,
       "name": "Oh Lala",
       "url": "https://open.spotify.com/track/7lbHonrDmzduOTFLO3wLKD"
@@ -16334,7 +16396,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 184258,
       "name": "On My Mama",
       "url": "https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM"
@@ -16370,7 +16432,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 267833,
       "name": "On Sight",
       "url": "https://open.spotify.com/track/0Tdpdo2ZD1CefcFTTbm0xx"
@@ -16926,7 +16988,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 202841,
       "name": "Outside All Night (feat. A$AP Rocky & N3WYRKLA)",
       "url": "https://open.spotify.com/track/1dbar1XukTbn7FQzQTqDQK"
@@ -17102,7 +17164,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 171814,
       "name": "PARTY FAVORS (feat. Big Sean)",
       "url": "https://open.spotify.com/track/5S8OovoD5Dc2R0qeKW0UFe"
@@ -17734,7 +17796,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 177562,
       "name": "Please Don't Fall In Love With Me",
       "url": "https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7"
@@ -17940,7 +18002,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 195516,
       "name": "Prague",
       "url": "https://open.spotify.com/track/7hAxgUuJmeIAyGvObHQ5MJ"
@@ -19500,7 +19562,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 186191,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
@@ -19536,7 +19598,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 172333,
       "name": "Save The Day - From \"Hoppers\"",
       "url": "https://open.spotify.com/track/1OLttIkaPLvRnYkLAIkmnb"
@@ -19720,7 +19782,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 231109,
       "name": "Sensational (feat. Davido & Lojay)",
       "url": "https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh"
@@ -20158,7 +20220,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 207400,
       "name": "Shower Tears (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/5g8frSfNnBYjSpLkLtFnCd"
@@ -20526,7 +20588,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 174288,
       "name": "SLIDE",
       "url": "https://open.spotify.com/track/0Jij0ywlT1cCn8MqmSmj4E"
@@ -20698,7 +20760,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 151133,
       "name": "Smoke n Drank",
       "url": "https://open.spotify.com/track/1ZdJs4bRHZ3SxQZbsN7GK1"
@@ -20716,7 +20778,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 201800,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
@@ -21088,7 +21150,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 136845,
       "name": "sos",
       "url": "https://open.spotify.com/track/43foJgvtRmkaSm4g5Jax4w"
@@ -22658,7 +22720,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-02",
+      "date_removed": null,
       "duration_ms": 218025,
       "name": "Tampa (feat. USHER)",
       "url": "https://open.spotify.com/track/1spHLxrlBblm3s12J4892k"
@@ -23996,7 +24058,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 190392,
       "name": "Truth or Dare",
       "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
@@ -24184,7 +24246,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 175788,
       "name": "Type Dangerous",
       "url": "https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3"
@@ -24432,7 +24494,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-26",
+      "date_removed": null,
       "duration_ms": 176666,
       "name": "Up Out & Gone",
       "url": "https://open.spotify.com/track/7cZWDSWe2F6eFuEw6PLWOV"

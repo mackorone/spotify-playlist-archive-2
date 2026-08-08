@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAps99vUd6z5z9LW7YnJf5nxv5oE",
+  "snapshot_id": "AAAAAEd1z/SvBpNa3mmm1uNkhpwZimO3",
   "tracks": [
     {
       "added_at": "2025-10-16 09:34:51",
@@ -47,30 +47,18 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "I Ciebie te\u017c, bardzo (feat. Daria Zawia\u0142ow, Dawid Podsiad\u0142o & Vito Bambino)",
-        "url": "https://open.spotify.com/album/01018kIpMNDTe0WrYornLN"
+        "name": "Mi\u0142o\u015b\u0107 w czasach popkultury",
+        "url": "https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ"
       },
       "artists": [
         {
-          "name": "M\u0119skie Granie Orkiestra",
-          "url": "https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG"
-        },
-        {
-          "name": "Daria Zawia\u0142ow",
-          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
-        },
-        {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
-        },
-        {
-          "name": "Vito Bambino",
-          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+          "name": "Myslovitz",
+          "url": "https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5"
         }
       ],
-      "duration_ms": 209655,
-      "name": "I Ciebie te\u017c, bardzo (feat. Daria Zawia\u0142ow, Dawid Podsiad\u0142o & Vito Bambino)",
-      "url": "https://open.spotify.com/track/64F1Z2LAsf04V346A75hi1"
+      "duration_ms": 251053,
+      "name": "D\u0142ugo\u015b\u0107 d\u017awi\u0119ku samotno\u015bci",
+      "url": "https://open.spotify.com/track/5ytkHKps6RVVDFZwAqVDCB"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -143,18 +131,30 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Mi\u0142o\u015b\u0107 w czasach popkultury",
-        "url": "https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ"
+        "name": "I Ciebie te\u017c, bardzo (feat. Daria Zawia\u0142ow, Dawid Podsiad\u0142o & Vito Bambino)",
+        "url": "https://open.spotify.com/album/01018kIpMNDTe0WrYornLN"
       },
       "artists": [
         {
-          "name": "Myslovitz",
-          "url": "https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5"
+          "name": "M\u0119skie Granie Orkiestra",
+          "url": "https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG"
+        },
+        {
+          "name": "Daria Zawia\u0142ow",
+          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
+        },
+        {
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        },
+        {
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
         }
       ],
-      "duration_ms": 251053,
-      "name": "D\u0142ugo\u015b\u0107 d\u017awi\u0119ku samotno\u015bci",
-      "url": "https://open.spotify.com/track/5ytkHKps6RVVDFZwAqVDCB"
+      "duration_ms": 209655,
+      "name": "I Ciebie te\u017c, bardzo (feat. Daria Zawia\u0142ow, Dawid Podsiad\u0142o & Vito Bambino)",
+      "url": "https://open.spotify.com/track/64F1Z2LAsf04V346A75hi1"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Revolving Door",
-        "url": "https://open.spotify.com/album/5AzZFFyTZnxQ8lqNlTOp88"
-      },
-      "artists": [
-        {
-          "name": "Piotr Zio\u0142a",
-          "url": "https://open.spotify.com/artist/70W7rQt07eDkynzl9JqHAB"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Safari",
-      "url": "https://open.spotify.com/track/6iWe35n6ufDWMQaNUTDXdN"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
         "url": "https://open.spotify.com/album/0z6QIndzIRBS2pDAL1XECw"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 249046,
       "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
       "url": "https://open.spotify.com/track/25vX1mMJilMWIc5Ht6hkGj"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Revolving Door",
+        "url": "https://open.spotify.com/album/5AzZFFyTZnxQ8lqNlTOp88"
+      },
+      "artists": [
+        {
+          "name": "Piotr Zio\u0142a",
+          "url": "https://open.spotify.com/artist/70W7rQt07eDkynzl9JqHAB"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/6iWe35n6ufDWMQaNUTDXdN"
     },
     {
       "added_at": "2025-10-16 09:34:51",

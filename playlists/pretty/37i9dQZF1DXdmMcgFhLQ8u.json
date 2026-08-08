@@ -1,12 +1,12 @@
 {
   "description": "These country songs know exactly how you feel. ",
-  "num_followers": 218893,
+  "num_followers": 218919,
   "original_name": "Country Heartache",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANlXEm5ezg6m3ZsvyfdD5AP1yTlG",
+  "snapshot_id": "AAAAADnG81g7cgZu3iOAQYqEOE0+EFcx",
   "tracks": [
     {
       "added_at": "2026-06-10 19:33:17",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-06-10 19:33:17",
       "album": {
-        "name": "HERO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 196421,
-      "name": "I Could Use a Love Song",
-      "url": "https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ"
-    },
-    {
-      "added_at": "2026-06-10 19:33:17",
-      "album": {
         "name": "Hard 2 Love",
         "url": "https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 234840,
       "name": "I Drive Your Truck",
       "url": "https://open.spotify.com/track/6aPc6SSWgTsiXrrUpJCPlj"
+    },
+    {
+      "added_at": "2026-06-10 19:33:17",
+      "album": {
+        "name": "HERO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 196421,
+      "name": "I Could Use a Love Song",
+      "url": "https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ"
     },
     {
       "added_at": "2026-06-10 19:33:17",

@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 614248,
+  "num_followers": 614389,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAC06+kydILVEsQ+zTkuDurF",
+  "snapshot_id": "anPOgAAAAABBhDcrQ2abFeKyYC74ump4",
   "tracks": [
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disintegration (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
+        "name": "Boys Don't Cry",
+        "url": "https://open.spotify.com/album/1jkKKIpXPmCFr7m815t8th"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 317346,
-      "name": "Plainsong - Remastered",
-      "url": "https://open.spotify.com/track/4gcfxHL1iRgP0RHCDYMNIo"
+      "duration_ms": 142733,
+      "name": "Killing An Arab",
+      "url": "https://open.spotify.com/track/1adtXXpTDkhVhfV5oUq3YQ"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boys Don't Cry",
-        "url": "https://open.spotify.com/album/1jkKKIpXPmCFr7m815t8th"
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 142733,
-      "name": "Killing An Arab",
-      "url": "https://open.spotify.com/track/1adtXXpTDkhVhfV5oUq3YQ"
+      "duration_ms": 317346,
+      "name": "Plainsong - Remastered",
+      "url": "https://open.spotify.com/track/4gcfxHL1iRgP0RHCDYMNIo"
     },
     {
       "added_at": null,

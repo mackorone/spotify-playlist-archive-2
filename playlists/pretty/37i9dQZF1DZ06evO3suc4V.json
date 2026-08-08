@@ -1,12 +1,12 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 11057,
+  "num_followers": 11076,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAApeTgiUdKBFfv5lWSKsBFT",
+  "snapshot_id": "anPOgAAAAACj0jG5M1s0T6JUjRiJJVEl",
   "tracks": [
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fancy Some More?",
-        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 132925,
-      "name": "Romeo + Ravyn Lenae",
-      "url": "https://open.spotify.com/track/5kXkNj56XlSPdHVj5RW5O9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Xtasy (Remix) [feat. Doechii]",
         "url": "https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 270497,
       "name": "Xtasy (Remix) [feat. Doechii]",
       "url": "https://open.spotify.com/track/610faOY46uYOBi3KXazpSj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 132925,
+      "name": "Romeo + Ravyn Lenae",
+      "url": "https://open.spotify.com/track/5kXkNj56XlSPdHVj5RW5O9"
     },
     {
       "added_at": null,
@@ -699,6 +699,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Room 25",
+        "url": "https://open.spotify.com/album/5GV2nBx7O67vu9NYHbMfXl"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 163616,
+      "name": "Montego Bae",
+      "url": "https://open.spotify.com/track/6QNaeyzCJBOS1R8N5GskR7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Live In A Society",
         "url": "https://open.spotify.com/album/2NvuDARjVRkDMZAHnx8ll5"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 169061,
       "name": "Is It Real (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/3tYxKs4D1Xqyt9xR8soVdr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Room 25",
-        "url": "https://open.spotify.com/album/5GV2nBx7O67vu9NYHbMfXl"
-      },
-      "artists": [
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        },
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 163616,
-      "name": "Montego Bae",
-      "url": "https://open.spotify.com/track/6QNaeyzCJBOS1R8N5GskR7"
     },
     {
       "added_at": null,
@@ -839,26 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remember (feat. Ravyn Lenae & Scrufizzer)",
-        "url": "https://open.spotify.com/album/0kZqWs6NFg0w3xY2yMD0YQ"
+        "name": "Soulection White Label - Monte Booker",
+        "url": "https://open.spotify.com/album/6bzDf8hYZbCuwjLoEPRvtE"
       },
       "artists": [
         {
-          "name": "BAMBII",
-          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+          "name": "monte booker",
+          "url": "https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo"
         },
         {
           "name": "Ravyn Lenae",
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
         }
       ],
-      "duration_ms": 165105,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/0Pr6mooJDSPrUJDwP8ZXUW"
+      "duration_ms": 186647,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/1AQtWYUKvPw5wYThfi5Uyo"
     },
     {
       "added_at": null,
@@ -895,22 +891,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soulection White Label - Monte Booker",
-        "url": "https://open.spotify.com/album/6bzDf8hYZbCuwjLoEPRvtE"
+        "name": "Remember (feat. Ravyn Lenae & Scrufizzer)",
+        "url": "https://open.spotify.com/album/0kZqWs6NFg0w3xY2yMD0YQ"
       },
       "artists": [
         {
-          "name": "monte booker",
-          "url": "https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo"
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
         },
         {
           "name": "Ravyn Lenae",
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
         }
       ],
-      "duration_ms": 186647,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/1AQtWYUKvPw5wYThfi5Uyo"
+      "duration_ms": 165105,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/0Pr6mooJDSPrUJDwP8ZXUW"
     },
     {
       "added_at": null,

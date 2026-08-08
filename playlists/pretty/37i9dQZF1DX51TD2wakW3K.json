@@ -1,12 +1,12 @@
 {
   "description": "The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today. Cover: Amy Taylor (Amyl and The Sniffers)",
-  "num_followers": 24928,
+  "num_followers": 25067,
   "original_name": "Women of Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHBQYkssUBRmVf6+PM/pnaVTGrQj",
+  "snapshot_id": "AAAAAECFsWqg6IKFrN47SmZMMJgj52s6",
   "tracks": [
     {
       "added_at": "2026-07-01 16:22:16",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-07-01 16:22:16",
       "album": {
-        "name": "The First Two Records",
-        "url": "https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze"
-      },
-      "artists": [
-        {
-          "name": "Bikini Kill",
-          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
-        }
-      ],
-      "duration_ms": 160860,
-      "name": "Double Dare Ya",
-      "url": "https://open.spotify.com/track/2tRI6j8RxFwrxoRKs7dnV8"
-    },
-    {
-      "added_at": "2026-07-01 16:22:16",
-      "album": {
         "name": "NIIS WORLD",
         "url": "https://open.spotify.com/album/6j1pjKXLri5eYuBjjW4Vul"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 171070,
       "name": "The Bow",
       "url": "https://open.spotify.com/track/50ZE3JmXxdylxW9Kikg07N"
+    },
+    {
+      "added_at": "2026-07-01 16:22:16",
+      "album": {
+        "name": "The First Two Records",
+        "url": "https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze"
+      },
+      "artists": [
+        {
+          "name": "Bikini Kill",
+          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
+        }
+      ],
+      "duration_ms": 160860,
+      "name": "Double Dare Ya",
+      "url": "https://open.spotify.com/track/2tRI6j8RxFwrxoRKs7dnV8"
     },
     {
       "added_at": "2026-07-01 16:22:16",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-07-01 16:22:16",
       "album": {
-        "name": "Nailed It",
-        "url": "https://open.spotify.com/album/2x0q1zOoj9ETJhN9nhCLg5"
-      },
-      "artists": [
-        {
-          "name": "Cheap Perfume",
-          "url": "https://open.spotify.com/artist/2vfwEEEv5PVpGMMnC5jajB"
-        }
-      ],
-      "duration_ms": 193013,
-      "name": "Fight Like a Girl",
-      "url": "https://open.spotify.com/track/1oB95k1m9xX1M7FkRxhFPS"
-    },
-    {
-      "added_at": "2026-07-01 16:22:16",
-      "album": {
         "name": "Secret Love",
         "url": "https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2026-07-01 16:22:16",
       "album": {
-        "name": "Luxury Problem",
-        "url": "https://open.spotify.com/album/5QZhFMU4gDHawZeZFCjKXr"
+        "name": "Nailed It",
+        "url": "https://open.spotify.com/album/2x0q1zOoj9ETJhN9nhCLg5"
       },
       "artists": [
         {
-          "name": "Lunachicks",
-          "url": "https://open.spotify.com/artist/3p3KAZ6zqhFkkH5ZdTuS5X"
+          "name": "Cheap Perfume",
+          "url": "https://open.spotify.com/artist/2vfwEEEv5PVpGMMnC5jajB"
         }
       ],
-      "duration_ms": 248893,
-      "name": "Bad Ass Bitch",
-      "url": "https://open.spotify.com/track/6RnIQtsHeCWSA9ILQgx6J1"
+      "duration_ms": 193013,
+      "name": "Fight Like a Girl",
+      "url": "https://open.spotify.com/track/1oB95k1m9xX1M7FkRxhFPS"
     },
     {
       "added_at": "2026-07-01 16:22:16",
@@ -1127,6 +1111,22 @@
       "duration_ms": 199520,
       "name": "Across The Line",
       "url": "https://open.spotify.com/track/4JJPlu2TWZ7p0MRgh5Td9T"
+    },
+    {
+      "added_at": "2026-07-01 16:22:16",
+      "album": {
+        "name": "Luxury Problem",
+        "url": "https://open.spotify.com/album/5QZhFMU4gDHawZeZFCjKXr"
+      },
+      "artists": [
+        {
+          "name": "Lunachicks",
+          "url": "https://open.spotify.com/artist/3p3KAZ6zqhFkkH5ZdTuS5X"
+        }
+      ],
+      "duration_ms": 248893,
+      "name": "Bad Ass Bitch",
+      "url": "https://open.spotify.com/track/6RnIQtsHeCWSA9ILQgx6J1"
     },
     {
       "added_at": "2026-07-01 16:22:16",

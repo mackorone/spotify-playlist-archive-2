@@ -1,12 +1,12 @@
 {
   "description": "This is Gregory Alan Isakov. The essential tracks, all in one playlist.",
-  "num_followers": 81812,
+  "num_followers": 81828,
   "original_name": "This Is Gregory Alan Isakov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAAgEjh/HI2qX1BKXtJqZbT0",
+  "snapshot_id": "anPOgAAAAACOzmZzXFoDwlqzIcsS5S4v",
   "tracks": [
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Empty Northern Hemisphere",
+        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 214226,
+      "name": "That Moon Song",
+      "url": "https://open.spotify.com/track/3lw0CSMQ88LcN0ZMP6DlWi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Middle of Nowhere",
         "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
       },
@@ -211,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Empty Northern Hemisphere",
-        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 214226,
-      "name": "That Moon Song",
-      "url": "https://open.spotify.com/track/3lw0CSMQ88LcN0ZMP6DlWi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Appaloosa Bones",
         "url": "https://open.spotify.com/album/73VuXbDamMLEdq8Yzd79dM"
       },
@@ -239,6 +239,22 @@
       "duration_ms": 207586,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/4a6XLiY6PQmsUufWTDgrXc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Weatherman",
+        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 167533,
+      "name": "Time Will Tell",
+      "url": "https://open.spotify.com/track/76PS07wzG7zYMy8rHPjL2t"
     },
     {
       "added_at": null,
@@ -259,22 +275,6 @@
       "duration_ms": 240629,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/1VO8Kwv6w3Yk1O1NMwNlba"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Weatherman",
-        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 167533,
-      "name": "Time Will Tell",
-      "url": "https://open.spotify.com/track/76PS07wzG7zYMy8rHPjL2t"
     },
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Weatherman",
+        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 236653,
+      "name": "Suitcase Full of Sparks",
+      "url": "https://open.spotify.com/track/6qfg00bGlM1dQJwq08lZGi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fade Into You",
         "url": "https://open.spotify.com/album/1hBXcVtSiaYkflIiqjQfAV"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 269875,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/37kGpZDrqQekpIQswHYHw6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Weatherman",
-        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 236653,
-      "name": "Suitcase Full of Sparks",
-      "url": "https://open.spotify.com/track/6qfg00bGlM1dQJwq08lZGi"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Empty Northern Hemisphere",
+        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 182333,
+      "name": "Master & A Hound",
+      "url": "https://open.spotify.com/track/7KxlQrTePk82UyI1Daz2Cr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Rain, No Rose (Vinyl)",
         "url": "https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 313078,
       "name": "I Am California (feat. Gregory Alan Isakov)",
       "url": "https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Empty Northern Hemisphere",
-        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 182333,
-      "name": "Master & A Hound",
-      "url": "https://open.spotify.com/track/7KxlQrTePk82UyI1Daz2Cr"
     },
     {
       "added_at": null,

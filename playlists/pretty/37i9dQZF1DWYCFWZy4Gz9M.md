@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 
 > Guembri, rhythmic krakebs and soulful chants.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,379 likes - 50 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,416 likes - 50 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 | 27 | [Bouderbala](https://open.spotify.com/track/0Z0siqa5ruMwizCAL6D2gw) | [Fehd Benchemsi](https://open.spotify.com/artist/1Z4qZRTqdRiefiqgbNg2ky) | [Live in Casablanca](https://open.spotify.com/album/25DdBbAFYrRhdi0xiYATKR) | 7:29 |
 | 28 | [Salat al Nabi](https://open.spotify.com/track/57dsHlSXgzqePeESJdVJcT) | [Gnawa de Marrakech](https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj), [Maalem Mahjoub](https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp) | [Lila](https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq) | 9:01 |
 | 29 | [Mrahba](https://open.spotify.com/track/2zKuTLrINginlVwg75onMg) | [Majid Bekkas](https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C), [Rachid Zeroual](https://open.spotify.com/artist/5SC5yIRmjZFE62gTfYkpPw), [Khalid Kouhen](https://open.spotify.com/artist/793iN9XLyORCyaD3NW3isz), [Paolo Radoni](https://open.spotify.com/artist/3huZDhwrKz3odYxyOzBhDa), [Marc Lelangue](https://open.spotify.com/artist/00dper4Tuw2YtHISDEZEet) | [African Gnaoua Blues](https://open.spotify.com/album/1re8yFWm97F3S2uD1ztase) | 6:02 |
-| 30 | [Hamadi](https://open.spotify.com/track/5iTnwSlkwGr0HX125tsfFR) | [Abdelkebir Merchane](https://open.spotify.com/artist/7iiuXYxFPuc2tMe000sxe4) | [Gnawa Home Songs](https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu) | 6:57 |
-| 31 | [Mimouna \- Les Mlouks](https://open.spotify.com/track/5fzYongwpcaLuVJs5ZofoQ) | [Maalem Si Mohamed Chaouqi](https://open.spotify.com/artist/0bBAwXTmf22PEhakYpllIr) | [Les Gnawa du Maroc \(Ouled El' Abdi\)](https://open.spotify.com/album/0ZNSizWo8rOBfzyXEp4JKK) | 7:58 |
+| 30 | [Mimouna \- Les Mlouks](https://open.spotify.com/track/5fzYongwpcaLuVJs5ZofoQ) | [Maalem Si Mohamed Chaouqi](https://open.spotify.com/artist/0bBAwXTmf22PEhakYpllIr) | [Les Gnawa du Maroc \(Ouled El' Abdi\)](https://open.spotify.com/album/0ZNSizWo8rOBfzyXEp4JKK) | 7:58 |
+| 31 | [Hamadi](https://open.spotify.com/track/5iTnwSlkwGr0HX125tsfFR) | [Abdelkebir Merchane](https://open.spotify.com/artist/7iiuXYxFPuc2tMe000sxe4) | [Gnawa Home Songs](https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu) | 6:57 |
 | 32 | [Baba Al Arabi](https://open.spotify.com/track/6kRpgupBsfIV93FpfA8p72) | [Hamid El Gnawi](https://open.spotify.com/artist/4xLi9gEjLRTw3MdQYwrfYG) | [Gnawa Fusion, Vol\. 1](https://open.spotify.com/album/1KYi4Hx9USuRDd8Ruu2Rap) | 4:14 |
 | 33 | [Katib Allah](https://open.spotify.com/track/2govhtf5ki65fhzPo54r8x) | [Hassan Boussou](https://open.spotify.com/artist/3FX6IGUTOn1zh4D8iMFpeI) | [Gnawa Home Songs](https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu) | 0:44 |
 | 34 | [Youbati \- Boulila](https://open.spotify.com/track/36SFAw8cptxZYvWd33kMa6) | [Innov Gnawa](https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV) | [Aicha](https://open.spotify.com/album/4zkfvTWN4y2oEm6uF6ayZD) | 8:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCFWZy4Gz9M.md) - [plain]
 | 49 | [Arabiato](https://open.spotify.com/track/2THND2AOdM0UKRIi5RJNZk) | [Simo Lagnawi](https://open.spotify.com/artist/5nL4NhY55Mr65tdAHvK0WK) | [Africa Soyo](https://open.spotify.com/album/0TS8sECdyoJTL0n7aKozrx) | 6:28 |
 | 50 | [Baba Arabi](https://open.spotify.com/track/1uj5Fhdsg5UvRVx70G22cN) | [Gnawa Njoum Experience](https://open.spotify.com/artist/2UbA6BI8ObVOPX5g3jiM4l) | [Gnawa Njoum Experience](https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh) | 6:15 |
 
-Snapshot ID: `AAAAAPN9FncD6STbkprzp813lFNtsQXE`
+Snapshot ID: `AAAAAIP+IxGgfXJ4ZUx9LOlhaAiTNi/y`

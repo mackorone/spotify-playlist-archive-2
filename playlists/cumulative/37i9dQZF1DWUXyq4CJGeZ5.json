@@ -3285,6 +3285,24 @@
     },
     {
       "album": {
+        "name": "Hippeastrum",
+        "url": "https://open.spotify.com/album/2OFrdeX7NQqBI5usv8FpK6"
+      },
+      "artists": [
+        {
+          "name": "Ferragno",
+          "url": "https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133636,
+      "name": "Hippeastrum",
+      "url": "https://open.spotify.com/track/2KURSE23ccOoBJK5D1pG1n"
+    },
+    {
+      "album": {
         "name": "Holding On To A Dream",
         "url": "https://open.spotify.com/album/7xWCR5yrTl5TquNUxPEnq4"
       },

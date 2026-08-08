@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 2,017 likes - 83 songs - 5 hr 0 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 2,020 likes - 87 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,5 +91,9 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 81 | [WishaBich Woods \- Full Band Version](https://open.spotify.com/track/3sW1sOM2N6XI2TCvnZN0JK) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [WishaBich Woods \(Full Band Version\)](https://open.spotify.com/album/57O0Tb7laMbm0lPz9lAEy0) | 4:03 |
 | 82 | [INSTINTOS](https://open.spotify.com/track/2dz1D6WQn8nZUVCxVuftas) | [REGIO](https://open.spotify.com/artist/0s0flUIzQsZF0HKCrqX2xL) | [INSTINTOS](https://open.spotify.com/album/5qA7tHnprPBLmki6WXQKk9) | 4:22 |
 | 83 | [Almost](https://open.spotify.com/track/2or6CHW3WWgqVF661h1FsO) | [Claire Hack](https://open.spotify.com/artist/7pqmpRMNXCv6dEKPHWdPMT) | [Almost](https://open.spotify.com/album/3f29YZftbtG4RrmTe7fVLn) | 3:33 |
+| 84 | [Beautiful Life](https://open.spotify.com/track/2oFFeEDTPRCUeDYEgvPCip) | [The Last Good Feeling](https://open.spotify.com/artist/6rI83ChWVND3pfcnYRV5B6) | [Beautiful Life](https://open.spotify.com/album/2YfXHWwI9zohX6W0Ulbld0) | 3:10 |
+| 85 | [Popcorn and Candyfloss](https://open.spotify.com/track/0MJhDoHPuvOs3hDD2Ilr89) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Popcorn and Candyfloss](https://open.spotify.com/album/6WHzuoWP8SOb0v3FFBqWjD) | 4:58 |
+| 86 | [Odyssey](https://open.spotify.com/track/1gcMBn4OwoXv2idejjCCNp) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa) | [Odyssey](https://open.spotify.com/album/59hsbFL5sW2u3NaqlsElv3) | 3:56 |
+| 87 | [Como deve ser](https://open.spotify.com/track/6Kto9r484xrMQZ74XRJfBc) | [Roger Silva](https://open.spotify.com/artist/6HCBhMjKey19C9YvNx5RaP) | [Como deve ser](https://open.spotify.com/album/7tAH2UnXN5GWdR3mOiVm3b) | 3:09 |
 
-Snapshot ID: `AAACx3qInLbrbcQrsugfCyC3IUzsAgOz`
+Snapshot ID: `AAACy1sXPWmrEyqtImKDoKy9F6fbxc/f`

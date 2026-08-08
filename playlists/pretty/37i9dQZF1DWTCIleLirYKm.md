@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 
 > a state of mind\. Cover: Charley Crockett
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,895 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,973 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 | 8 | [Big Iron](https://open.spotify.com/track/0AQquaENerGps8BQmbPw14) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl) | 3:55 |
 | 9 | [Whitehouse Road](https://open.spotify.com/track/0fbR95FEaJUxiQYaqZZukv) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 4:40 |
 | 10 | [How To Get Away With Murder](https://open.spotify.com/track/62JXETIcpRBOlNz7xldjS1) | [Jason Scott & The High Heat](https://open.spotify.com/artist/03IlJFWZVEYHlSKSBYlfAm) | [How To Get Away With Murder](https://open.spotify.com/album/4PyIO9NiEwHtHvIUihZvwD) | 2:51 |
-| 11 | [Copperhead Road](https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Copperhead Road](https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ) | 4:29 |
-| 12 | [Ring of Fire](https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Ring Of Fire: The Best Of Johnny Cash](https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2) | 2:38 |
-| 13 | [Devil Always Made Me Think Twice](https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:51 |
+| 11 | [Ring of Fire](https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Ring Of Fire: The Best Of Johnny Cash](https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2) | 2:38 |
+| 12 | [Devil Always Made Me Think Twice](https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:51 |
+| 13 | [Copperhead Road](https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Copperhead Road](https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ) | 4:29 |
 | 14 | [Mammas Don't Let Your Babies Grow up to Be Cowboys](https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Waylon & Willie](https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO) | 2:37 |
 | 15 | [Hurricane](https://open.spotify.com/track/3s5NrHgyTkuinl0TgHCHeK) | [The Band Of Heathens](https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7) | [Top Hat Crown & the Clapmaster's Son](https://open.spotify.com/album/0JGmK6gTeDeca4ijGPEUaf) | 5:19 |
 | 16 | [The Devil Went Down to Georgia](https://open.spotify.com/track/383Xl5QTigwj3QiA3Qc6S7) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [A Decade Of Hits](https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc) | 3:34 |
@@ -64,13 +64,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 | 54 | [Feelin' Good Again](https://open.spotify.com/track/4NpYrBb5iuDqW1S5qrU3b6) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [Walking Distance](https://open.spotify.com/album/0n7FDhF0uwZ7hKpEyH9Ycq) | 3:16 |
 | 55 | [Snake Farm](https://open.spotify.com/track/2vULyRIRIZH8dnw7lyXAcR) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Snake Farm](https://open.spotify.com/album/50TtZo1OeEN6eecHoCWTFV) | 3:53 |
 | 56 | [All Your'n](https://open.spotify.com/track/3AK75yY57gkBbSPOqzn6GW) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [All Your'n](https://open.spotify.com/album/3GnTjxsOBLdqm6A5yXTcaL) | 3:38 |
-| 57 | [I'm the Only Hell \(Mama Ever Raised\)](https://open.spotify.com/track/73zqRPuK9AEBiy8X9XFJXR) | [Johnny Paycheck](https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD) | [Super Hits](https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3) | 3:06 |
-| 58 | [Sunday Mornin' Comin' Down](https://open.spotify.com/track/4JwFrnLLSO4qqxOeHQATf4) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 4:35 |
+| 57 | [Sunday Mornin' Comin' Down](https://open.spotify.com/track/4JwFrnLLSO4qqxOeHQATf4) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 4:35 |
+| 58 | [I'm the Only Hell \(Mama Ever Raised\)](https://open.spotify.com/track/73zqRPuK9AEBiy8X9XFJXR) | [Johnny Paycheck](https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD) | [Super Hits](https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3) | 3:06 |
 | 59 | [Let the Big Dog Eat](https://open.spotify.com/track/6ElsMCwZ6b7uc7niDLHMn8) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i), [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [They Call Us The Lucky Ones](https://open.spotify.com/album/3DZjgdx3sRIqhPDgz16A7B) | 3:31 |
 | 60 | [Let the Rain Come Down](https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Straw in the Wind](https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x) | 3:19 |
 | 61 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 |
-| 62 | [My Last Drink Of Wine](https://open.spotify.com/track/3z5cIlHXa47eaa905sxo7Q) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Age of the Ram](https://open.spotify.com/album/7qSbOinSadHKhs2OkjKvEP) | 3:20 |
-| 63 | [Help Me Make It Through the Night](https://open.spotify.com/track/2KU944ARlycn1xv8W4I3Oe) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 2:27 |
+| 62 | [Help Me Make It Through the Night](https://open.spotify.com/track/2KU944ARlycn1xv8W4I3Oe) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 2:27 |
+| 63 | [My Last Drink Of Wine](https://open.spotify.com/track/3z5cIlHXa47eaa905sxo7Q) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Age of the Ram](https://open.spotify.com/album/7qSbOinSadHKhs2OkjKvEP) | 3:20 |
 | 64 | [25 & Wastin' Time](https://open.spotify.com/track/0tIRswIxHkAXTF0cx2Eodb) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Fried Chicken & Evil Women](https://open.spotify.com/album/1kdQ7i7iGL2yCMKV87m7ls) | 2:57 |
 | 65 | [Straw in the Wind](https://open.spotify.com/track/5Os2lSlPvvc40Wmun45Tz8) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Straw in the Wind](https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x) | 4:42 |
 | 66 | [I'm Not Lisa](https://open.spotify.com/track/2WQCzRvHubJxMIeCf2YhYG) | [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [I'm Jessi Colter](https://open.spotify.com/album/700kC30ThMEyenTwGfcOxa) | 3:23 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 | 79 | [Why You Been Gone so Long](https://open.spotify.com/track/33HkPcuNKgnPT81H9pO9SL) | [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [A Country Star Is Born](https://open.spotify.com/album/1u2ETFYboqz0DjqFZrZyae) | 3:08 |
 | 80 | [Bonfire At Tina's](https://open.spotify.com/track/3qNCc4GzLQKpAhTjXYBR8z) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Ashley McBryde Presents: Lindeville](https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq) | 3:40 |
 
-Snapshot ID: `AAAAAIOgrzQphtRROHE6Tk9V9dXwzk2L`
+Snapshot ID: `AAAAAMACOo4tlNGmQHpiUxvq8GRRHAUH`

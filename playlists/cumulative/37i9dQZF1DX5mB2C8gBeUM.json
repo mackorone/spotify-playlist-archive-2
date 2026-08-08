@@ -8437,6 +8437,24 @@
     },
     {
       "album": {
+        "name": "Sunset Marquis",
+        "url": "https://open.spotify.com/album/1Yt6FuJk4P5bR3PmqClGcb"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209933,
+      "name": "Sunset Marquis",
+      "url": "https://open.spotify.com/track/5PWgbO4uM1p0QGiIF0F6O3"
+    },
+    {
+      "album": {
         "name": "Sunshine Shine",
         "url": "https://open.spotify.com/album/7u7pAvJ12lZqTHFhyOaKml"
       },
@@ -9974,6 +9992,28 @@
       "duration_ms": 141367,
       "name": "Wild Ones (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz"
+    },
+    {
+      "album": {
+        "name": "WILD SIDE",
+        "url": "https://open.spotify.com/album/7tev3V6WBgnbVY0elpcetJ"
+      },
+      "artists": [
+        {
+          "name": "David J",
+          "url": "https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo"
+        },
+        {
+          "name": "Ryan Charles",
+          "url": "https://open.spotify.com/artist/2BQredfxFMAX642ezVqQOS"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128841,
+      "name": "WILD SIDE",
+      "url": "https://open.spotify.com/track/4RQELra8hbStDAn8cRb00x"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: Red Velvet\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,975 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,046 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 49 | [FANCY](https://open.spotify.com/track/2IZ6fFOq5d8lT0CxLDcxKz) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/1GRocMBU2hYD29hexD5UVF) | 3:33 |
 | 50 | [Ditto](https://open.spotify.com/track/5702raF31K9rvD6KZ6sCTo) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:05 |
 
-Snapshot ID: `AAAAAFAH5Nk8InpYAX0rVKDZnE4KaBTc`
+Snapshot ID: `AAAAANH9q4i/mBtbeMl62g+YETfRJhPB`

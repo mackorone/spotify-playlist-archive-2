@@ -4,7 +4,7 @@
 
 > She's actually kinda famous\. Welcome to Slayyyter summer
 
-353 songs - 19 hr 4 min
+354 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [7/11](https://open.spotify.com/track/02M6vucOvmRfMxTXDUwRXu) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 3:33 | 2022-01-12 | 2023-02-03 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2022-01-12 | 2023-02-03 |
 | [Afterbody](https://open.spotify.com/track/688F4WEXlJBlNYPMOpLmAx) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [SELLOUT II](https://open.spotify.com/album/1OAJ1g8pCfiJEPQ5h8V8cI) | 3:08 | 2025-11-28 |  |
+| [Ain't In LA](https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Ain't In LA](https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s) | 3:04 | 2026-08-07 |  |
 | [All The Way Up \(feat\. Infared\)](https://open.spotify.com/track/61QSuw5VlC0LTS8WMO356g) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [InfaRed](https://open.spotify.com/artist/4R529xQ7WQfRpSEXaHFbRg) | [All The Way Up \(feat\. Infared\)](https://open.spotify.com/album/7vzvohRzBtrnr3miUJrpAk) | 3:11 | 2022-01-12 | 2023-02-03 |
 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 | 2024-06-21 | 2024-09-21 |
 | [Alter Ego \(with JT\)](https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Alter Ego \(with JT\)](https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd) | 3:24 | 2024-03-29 |  |
@@ -79,7 +80,7 @@
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3yphjkz7V5xFXdfBEXVKL6) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73) | 2:53 | 2024-03-29 | 2024-04-19 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-07-06 | 2025-12-09 |
 | [Cupid's Chokehold / Breakfast in America](https://open.spotify.com/track/2Lhdl74nwwVGOE2Gv35QuK) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli) | [The Papercut Chronicles](https://open.spotify.com/album/4Ug3M4a8wAEebndVIF65fX) | 4:03 | 2022-01-12 | 2023-02-03 |
-| [CUT THE LINE \(feat\. DJ ADHD & Nikki Nair\)](https://open.spotify.com/track/3Fxebmm6QwVVS1HsuqyeqN) | [deBasement](https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [CUT THE LINE \(feat\. DJ ADHD & Nikki Nair\)](https://open.spotify.com/album/0Q3Qz11aspOYa9oUbVKQLH) | 4:41 | 2026-06-30 |  |
+| [CUT THE LINE \(feat\. DJ ADHD & Nikki Nair\)](https://open.spotify.com/track/3Fxebmm6QwVVS1HsuqyeqN) | [deBasement](https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [CUT THE LINE \(feat\. DJ ADHD & Nikki Nair\)](https://open.spotify.com/album/0Q3Qz11aspOYa9oUbVKQLH) | 4:41 | 2026-06-30 | 2026-08-08 |
 | [Daddy \(feat\. Sexyy Red\)](https://open.spotify.com/track/7oYjWdHi4gwPxOkRVWfSUc) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Daddy \(feat\. Sexyy Red\)](https://open.spotify.com/album/2aUz6JfGW97Min1HueLXmp) | 3:13 | 2023-12-31 | 2024-01-14 |
 | [Dance To This](https://open.spotify.com/track/2uPLbkypIfozwjuiJcgMLC) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Dance To This](https://open.spotify.com/album/7cxNzqHMqDlojW7WilPoUN) | 2:54 | 2026-04-24 |  |
 | [DANCE...](https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 4:47 | 2026-05-26 |  |

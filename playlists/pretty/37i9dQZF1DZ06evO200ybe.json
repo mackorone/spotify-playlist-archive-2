@@ -1,12 +1,12 @@
 {
   "description": "This is Chet Baker. The essential tracks, all in one playlist.",
-  "num_followers": 126155,
+  "num_followers": 126176,
   "original_name": "This Is Chet Baker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAAP0KCOZr+q+ox6LABYcd7A",
+  "snapshot_id": "anPOgAAAAABj+qEnY7RQKTEhWRGEUDkS",
   "tracks": [
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 184466,
-      "name": "But Not For Me - Vocal Version",
-      "url": "https://open.spotify.com/track/3pfbQmD5xGH9Tcc7GqGfSL"
+      "duration_ms": 215466,
+      "name": "It's Always You - Vocal Version",
+      "url": "https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe"
     },
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 215466,
-      "name": "It's Always You - Vocal Version",
-      "url": "https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe"
+      "duration_ms": 184466,
+      "name": "But Not For Me - Vocal Version",
+      "url": "https://open.spotify.com/track/3pfbQmD5xGH9Tcc7GqGfSL"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "Don't Explain",
+      "url": "https://open.spotify.com/track/5ZT1p3Elvxg6yu9qgWnH5r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ballads For Two",
         "url": "https://open.spotify.com/album/1wXiZcjOj0oUX4rJqUiOQl"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 230053,
       "name": "Waltz For Susan",
       "url": "https://open.spotify.com/track/6JgXwEGxn21fhmMLrOXCLi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baker's Holiday",
-        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "Don't Explain",
-      "url": "https://open.spotify.com/track/5ZT1p3Elvxg6yu9qgWnH5r"
     },
     {
       "added_at": null,

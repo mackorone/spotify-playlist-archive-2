@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 176832,
+  "num_followers": 176834,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACxnNNvGCZaqa8zdvWJ4jHYTMcKW",
+  "snapshot_id": "AAAAAFm/pQy2wdtxMk9Zaisr3sVSJVAB",
   "tracks": [
     {
       "added_at": "2026-06-12 04:02:08",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-06-12 04:02:08",
       "album": {
-        "name": "Going, Going, Gone (Acoustic)",
-        "url": "https://open.spotify.com/album/5RX6HtG6iq8geKRFduycI8"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 166101,
-      "name": "Going, Going, Gone - Acoustic",
-      "url": "https://open.spotify.com/track/261mlNfSZhoIZSFhRevAkE"
-    },
-    {
-      "added_at": "2026-06-12 04:02:08",
-      "album": {
         "name": "Simple Things (Piano Version)",
         "url": "https://open.spotify.com/album/7EjIKCV3OsHJqXObEbdGbz"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 186090,
       "name": "Simple Things - Piano Version",
       "url": "https://open.spotify.com/track/4wKvuWdzyKtXim12tL9JJj"
+    },
+    {
+      "added_at": "2026-06-12 04:02:08",
+      "album": {
+        "name": "Going, Going, Gone (Acoustic)",
+        "url": "https://open.spotify.com/album/5RX6HtG6iq8geKRFduycI8"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 166101,
+      "name": "Going, Going, Gone - Acoustic",
+      "url": "https://open.spotify.com/track/261mlNfSZhoIZSFhRevAkE"
     },
     {
       "added_at": "2026-06-12 04:02:08",
@@ -443,18 +443,18 @@
     {
       "added_at": "2026-06-12 04:02:08",
       "album": {
-        "name": "Growing Old With You (First Dance Version)",
-        "url": "https://open.spotify.com/album/5QANlPt4pDrn3MFfaQKyZD"
+        "name": "Hell Of A Way To Go (Acoustic)",
+        "url": "https://open.spotify.com/album/2o0kuOVzR4XdLQI0lQ0Vc9"
       },
       "artists": [
         {
-          "name": "Restless Road",
-          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 192668,
-      "name": "Growing Old With You - First Dance Version",
-      "url": "https://open.spotify.com/track/1qVLRuFLEzl2hcC6lqLMuf"
+      "duration_ms": 173126,
+      "name": "Hell Of A Way To Go - Acoustic",
+      "url": "https://open.spotify.com/track/66BMHt4OrLmqpOwmLOgf4W"
     },
     {
       "added_at": "2026-06-12 04:02:08",
@@ -491,18 +491,18 @@
     {
       "added_at": "2026-06-12 04:02:08",
       "album": {
-        "name": "Hell Of A Way To Go (Acoustic)",
-        "url": "https://open.spotify.com/album/2o0kuOVzR4XdLQI0lQ0Vc9"
+        "name": "Growing Old With You (First Dance Version)",
+        "url": "https://open.spotify.com/album/5QANlPt4pDrn3MFfaQKyZD"
       },
       "artists": [
         {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+          "name": "Restless Road",
+          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
         }
       ],
-      "duration_ms": 173126,
-      "name": "Hell Of A Way To Go - Acoustic",
-      "url": "https://open.spotify.com/track/66BMHt4OrLmqpOwmLOgf4W"
+      "duration_ms": 192668,
+      "name": "Growing Old With You - First Dance Version",
+      "url": "https://open.spotify.com/track/1qVLRuFLEzl2hcC6lqLMuf"
     },
     {
       "added_at": "2026-06-12 04:02:08",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-06-12 04:02:08",
       "album": {
-        "name": "Neon Moon",
-        "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 161052,
-      "name": "Neon Moon",
-      "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
-    },
-    {
-      "added_at": "2026-06-12 04:02:08",
-      "album": {
         "name": "Some Girls (Acoustic)",
         "url": "https://open.spotify.com/album/6EMXqG3KdHuNWfC3qwr1uz"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 191400,
       "name": "Some Girls - Acoustic",
       "url": "https://open.spotify.com/track/6C2d77cnFFiVPUTsjbJ5t2"
+    },
+    {
+      "added_at": "2026-06-12 04:02:08",
+      "album": {
+        "name": "Neon Moon",
+        "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 161052,
+      "name": "Neon Moon",
+      "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
     },
     {
       "added_at": "2026-06-12 04:02:08",

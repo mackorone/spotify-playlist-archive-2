@@ -1,12 +1,12 @@
 {
   "description": "'t\u00e1 na rua? traz salsinha?' (eternamente)",
-  "num_followers": 137245,
+  "num_followers": 137246,
   "original_name": "Cozinhando a Ceia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK5CH1aE2Hnoi+yMCHmobKnXuB5F",
+  "snapshot_id": "AAAAAHVpc5ebGLxpFaIu7OvRJjNWNZns",
   "tracks": [
     {
       "added_at": "2025-12-05 19:00:22",
@@ -319,6 +319,26 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
+        "name": "Um Mar Pra Cada Um,",
+        "url": "https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Curumin",
+          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
+        }
+      ],
+      "duration_ms": 222112,
+      "name": "Gamboa",
+      "url": "https://open.spotify.com/track/0ZaAT8SdM8LYoLPSaITLWt"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
         "name": "O Velho Fusca",
         "url": "https://open.spotify.com/album/21HGedzOEu60ECMttwUimn"
       },
@@ -359,26 +379,6 @@
       "duration_ms": 262933,
       "name": "Olha a Pipa",
       "url": "https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
-        "name": "Um Mar Pra Cada Um,",
-        "url": "https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Curumin",
-          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
-        }
-      ],
-      "duration_ms": 222112,
-      "name": "Gamboa",
-      "url": "https://open.spotify.com/track/0ZaAT8SdM8LYoLPSaITLWt"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -471,22 +471,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "ZAM ZAM",
-        "url": "https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 212433,
-      "name": "No Stress",
-      "url": "https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "Viver (Mais leve que o ar)",
         "url": "https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 259453,
       "name": "Gold Coast",
       "url": "https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "ZAM ZAM",
+        "url": "https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 212433,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "A Dan\u00e7a do Mundo",
-        "url": "https://open.spotify.com/album/0uMHpVW9LO4OL6b6ZHbhgE"
-      },
-      "artists": [
-        {
-          "name": "Leo Middea",
-          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
-        }
-      ],
-      "duration_ms": 202209,
-      "name": "Tibeth\u00e2nica",
-      "url": "https://open.spotify.com/track/57xQH9sXTDnbVOrcFksMIC"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "Apesar de Voc\u00ea",
         "url": "https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 275333,
       "name": "Apesar de Voc\u00ea",
       "url": "https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "A Dan\u00e7a do Mundo",
+        "url": "https://open.spotify.com/album/0uMHpVW9LO4OL6b6ZHbhgE"
+      },
+      "artists": [
+        {
+          "name": "Leo Middea",
+          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
+        }
+      ],
+      "duration_ms": 202209,
+      "name": "Tibeth\u00e2nica",
+      "url": "https://open.spotify.com/track/57xQH9sXTDnbVOrcFksMIC"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -975,26 +975,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "raiz",
-        "url": "https://open.spotify.com/album/0YetCaCRXkQxlnVAhWBJA5"
-      },
-      "artists": [
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "afro futurista",
-      "url": "https://open.spotify.com/track/707zgXxO0fchdraumiV1R9"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "Me Leva Tambor",
         "url": "https://open.spotify.com/album/0PiLCVHU6Wllg7h4vjvn5x"
       },
@@ -1019,18 +999,38 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Num Mundo de Paz",
-        "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
+        "name": "raiz",
+        "url": "https://open.spotify.com/album/0YetCaCRXkQxlnVAhWBJA5"
       },
       "artists": [
         {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 342514,
-      "name": "Num Mundo de Paz",
-      "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
+      "duration_ms": 246666,
+      "name": "afro futurista",
+      "url": "https://open.spotify.com/track/707zgXxO0fchdraumiV1R9"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Alma Bonita",
+        "url": "https://open.spotify.com/album/5fLZ3JHapAITqNBIBed2L9"
+      },
+      "artists": [
+        {
+          "name": "Marvyn",
+          "url": "https://open.spotify.com/artist/3XU1kxGF6EFSS0mcqMhkDU"
+        }
+      ],
+      "duration_ms": 187083,
+      "name": "Alma Bonita",
+      "url": "https://open.spotify.com/track/6UI1XaokPZv7j07vqPacPE"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Alma Bonita",
-        "url": "https://open.spotify.com/album/5fLZ3JHapAITqNBIBed2L9"
+        "name": "Num Mundo de Paz",
+        "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
       },
       "artists": [
         {
-          "name": "Marvyn",
-          "url": "https://open.spotify.com/artist/3XU1kxGF6EFSS0mcqMhkDU"
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
         }
       ],
-      "duration_ms": 187083,
-      "name": "Alma Bonita",
-      "url": "https://open.spotify.com/track/6UI1XaokPZv7j07vqPacPE"
+      "duration_ms": 342514,
+      "name": "Num Mundo de Paz",
+      "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
     },
     {
       "added_at": "2025-12-05 19:00:22",

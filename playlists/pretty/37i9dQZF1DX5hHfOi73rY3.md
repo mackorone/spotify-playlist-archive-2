@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Dance anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,318 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,339 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 33 | [Atmosphere](https://open.spotify.com/track/0yfJlRyn9VEZfonQUIPdkr) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/0HJyrlWLM8NLuxsjbvLejV) | 3:02 |
 | 34 | [Campeón](https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Campeón](https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy) | 2:53 |
 | 35 | [Step By Step](https://open.spotify.com/track/4lq48b16GxnFcPHUHJ3FK8) | [Marsolo](https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV) | [Step By Step](https://open.spotify.com/album/0EUqBRFMfBeVFXi9RfdQlO) | 2:59 |
-| 36 | [God Made Me Phunky \- Jess Bays Remix](https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB) | [God Made Me Phunky \(Jess Bays Remix\)](https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl) | 3:40 |
-| 37 | [stayinit](https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [stayinit](https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF) | 4:34 |
+| 36 | [stayinit](https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [stayinit](https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF) | 4:34 |
+| 37 | [God Made Me Phunky \- Jess Bays Remix](https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB) | [God Made Me Phunky \(Jess Bays Remix\)](https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl) | 3:40 |
 | 38 | [COLLECT THE COMMAS](https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [COLLECT THE COMMAS](https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY) | 3:41 |
 | 39 | [Good Lies](https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd) | 2:40 |
 | 40 | [Marvellous](https://open.spotify.com/track/5B1BpFH1FPUZpPC4B9s56e) | [Mason Collective](https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS), [YLAM](https://open.spotify.com/artist/2kixbJX46KWU5bGstDytVy) | [Marvellous](https://open.spotify.com/album/0Qal5nMPeJbTEnWDKFApfs) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 49 | [Raw Control](https://open.spotify.com/track/0JrEm4vEEzpHsdcxHlRJop) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Raw Control](https://open.spotify.com/album/1DwqsGfeJWh4P4cbd0AywD) | 2:30 |
 | 50 | [That's Right](https://open.spotify.com/track/34bvypiveNLMCrB0iGWviM) | [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [That's Right](https://open.spotify.com/album/5pkd3bdFVLqSUBGbYda4gU) | 3:39 |
 
-Snapshot ID: `AAAAALsaR45DnvGAWkadC4Y6fUQJ8rUR`
+Snapshot ID: `AAAAAKD4WI1DA2SSxfu97hQrAyvmoHuK`

@@ -1,12 +1,12 @@
 {
   "description": "IBZ szn. Cover: BLOND:ISH",
-  "num_followers": 412675,
+  "num_followers": 412747,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALIvmCgRBtLBY5EYFFhxAJ4KxVh1",
+  "snapshot_id": "AAAAAF1jt1Zic09Q6Ievls6RzkhSk2ru",
   "tracks": [
     {
       "added_at": "2026-08-06 22:00:59",
@@ -546,10 +546,18 @@
         {
           "name": "Alan Fitzpatrick",
           "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        },
+        {
+          "name": "Piem",
+          "url": "https://open.spotify.com/artist/08st4VKj9jjZJ5eKzAOHq8"
+        },
+        {
+          "name": "SLM",
+          "url": "https://open.spotify.com/artist/7CEy8XnNrNtDipTl5aYt9T"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 196744,
+      "name": "Questions",
       "url": "https://open.spotify.com/track/7dGiRNwZUp7vjY7vpmNAG5"
     },
     {

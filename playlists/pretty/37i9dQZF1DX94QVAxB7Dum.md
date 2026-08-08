@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 
 > Music from the award\-winning doc: The Black Power Mixtape 1967–1975.
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,350 likes - 69 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,412 likes - 69 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 14 | [Oh Girl](https://open.spotify.com/track/5tcR6nVpY1JRDyDcK0K60f) | [The Chi\-Lites](https://open.spotify.com/artist/7BFr36uI1dzJyo6tpa5Ued) | [The Ultimate Chi\-Lites](https://open.spotify.com/album/3sTSxqixe7nXq5STqXOGD3) | 3:37 |
 | 15 | [Me and Mrs\. Jones](https://open.spotify.com/track/5GYcaVfaFBHe2gzA6Oybgj) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 4:45 |
 | 16 | [Cissy Strut](https://open.spotify.com/track/7b8s4Z0abQQ4x4jpct4GjR) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [Funkify Your Life: The Meters Anthology](https://open.spotify.com/album/40VWlphQtyDSj3ldPNhDvz) | 3:05 |
-| 17 | [Why Can't We Live Together](https://open.spotify.com/track/5mBHcJ6yNXyYGLosWkuGqv) | [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B) | [Why Can't We Live Together: The Best Of The TK Years 1972\-'81](https://open.spotify.com/album/6SVDOGFshodeWxZt1Mz92Y) | 4:49 |
-| 18 | [\(If Loving You Is Wrong\) I Don't Want to Be Right](https://open.spotify.com/track/54K7o2yNOMZYCtEDnfD6wI) | [Luther Ingram](https://open.spotify.com/artist/5Pek6HAr0BoHD9P1RuA7d5) | [\(If Loving You Is Wrong\) I Don't Want to Be Right](https://open.spotify.com/album/3hiwk4q34fJTUJsAzrlNMD) | 3:36 |
+| 17 | [\(If Loving You Is Wrong\) I Don't Want to Be Right](https://open.spotify.com/track/54K7o2yNOMZYCtEDnfD6wI) | [Luther Ingram](https://open.spotify.com/artist/5Pek6HAr0BoHD9P1RuA7d5) | [\(If Loving You Is Wrong\) I Don't Want to Be Right](https://open.spotify.com/album/3hiwk4q34fJTUJsAzrlNMD) | 3:36 |
+| 18 | [Why Can't We Live Together](https://open.spotify.com/track/5mBHcJ6yNXyYGLosWkuGqv) | [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B) | [Why Can't We Live Together: The Best Of The TK Years 1972\-'81](https://open.spotify.com/album/6SVDOGFshodeWxZt1Mz92Y) | 4:49 |
 | 19 | [Ain't No Love In The Heart Of The City \- Single Version](https://open.spotify.com/track/14rTFBs1cCkOBp5JPUrJhw) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [Music For Groovin'](https://open.spotify.com/album/2kGXFgIy6EBmYZRrQjTtON) | 3:45 |
 | 20 | [Express Yourself \- Remastered Version](https://open.spotify.com/track/6gQZKkphKIMxZgca5r7ImA) | [Charles Wright & The Watts 103rd Street Rhythm Band](https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ) | [Express Yourself \(Remastered & Expanded\)](https://open.spotify.com/album/5qDWJPnZ9IXMMDBhAFQgq3) | 3:49 |
 | 21 | [See See Rider](https://open.spotify.com/track/1MW7hcqDWh0ODZA5hVunaO) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [See See Rider](https://open.spotify.com/album/4ngkRpyw98uagKb7lOlQ03) | 2:30 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 38 | [What's Going On](https://open.spotify.com/track/42PyxnviKRfOa8z39g8aZj) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Favorites](https://open.spotify.com/album/43Axle5un9qnVUp113oHzB) | 3:53 |
 | 39 | [Can't Get Enough Of Your Love, Babe](https://open.spotify.com/track/2dQXFXq40PRZyurt30uNxM) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Hit Pac \- 5 Series](https://open.spotify.com/album/4JRwDa5DgT6eaU6UoosSEM) | 4:02 |
 | 40 | [The Tracks Of My Tears](https://open.spotify.com/track/3AR9uXc8JbOVfe92kzmJTH) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/3k6u76lSaKt4FrxSphXPRj) | 2:54 |
-| 41 | [What Becomes Of The Brokenhearted \- Single Version](https://open.spotify.com/track/7hW7Ys2mtCQ9oU3ONdssUm) | [Jimmy Ruffin](https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy) | [Steve Wright’s Sunday Love Songs… Make\-Ups and Break\-Ups](https://open.spotify.com/album/50eWmQoJ1gflq9EY3WdisJ) | 2:59 |
-| 42 | [Drift Away](https://open.spotify.com/track/5S6lnVk3sQDN9lKMeSUGrI) | [Dobie Gray](https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV) | [Invincible](https://open.spotify.com/album/1BXZQGHBi7vwCqxr6UncIf) | 3:55 |
+| 41 | [Drift Away](https://open.spotify.com/track/5S6lnVk3sQDN9lKMeSUGrI) | [Dobie Gray](https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV) | [Invincible](https://open.spotify.com/album/1BXZQGHBi7vwCqxr6UncIf) | 3:55 |
+| 42 | [What Becomes Of The Brokenhearted \- Single Version](https://open.spotify.com/track/7hW7Ys2mtCQ9oU3ONdssUm) | [Jimmy Ruffin](https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy) | [Steve Wright’s Sunday Love Songs… Make\-Ups and Break\-Ups](https://open.spotify.com/album/50eWmQoJ1gflq9EY3WdisJ) | 2:59 |
 | 43 | [I Forgot To Be Your Lover](https://open.spotify.com/track/1yPWD2ZQ8kLPYJtuIWHpa6) | [William Bell](https://open.spotify.com/artist/33BiBNoSXa7sQ3ef8OLTQO) | [The Very Best Of William Bell](https://open.spotify.com/album/0JyBAA6AYVPsJc2KWj4x3D) | 2:20 |
 | 44 | [Didn't I Blow Your Mind This Time](https://open.spotify.com/track/77rb1lTjC0lpUA6ylghYL6) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Jackie Brown \- Music From The Mirmax Motion Picture](https://open.spotify.com/album/2RH9TP3pHVoQ9Lih5Dt0tf) | 3:20 |
 | 45 | [Now That We Found Love](https://open.spotify.com/track/6Ph1DMQe7fcEbtPI3NZLSL) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Love Songs](https://open.spotify.com/album/4tN52ruXf3GeKvUYyIEIMt) | 4:41 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 68 | [Rockin' Robin](https://open.spotify.com/track/0XFRGKNOzBElJCR3lz1NX0) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Number 1’s: The Jacksons Story](https://open.spotify.com/album/42oS02bWIcliOvLFHsDawf) | 2:32 |
 | 69 | [On Broadway](https://open.spotify.com/track/6uXhOcodsFEqQeHRkLgNp2) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [30 Greatest Hits](https://open.spotify.com/album/5urQ0YtsUuvtVyALtGpjDs) | 2:50 |
 
-Snapshot ID: `AAAAAEch5wxzB2GZmV8oiTKY9XiqcP2m`
+Snapshot ID: `AAAAAKw/kqNftumFCMyKCHgKKW6lAsR4`

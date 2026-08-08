@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKCgD4mJwbN.md) - [plain]
 
 > Puras rolitas pa' empinar el codo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,210,594 likes - 124 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,210,688 likes - 124 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKCgD4mJwbN.md) - [plain]
 | 48 | [Hoy Todo Cambio](https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 3:23 |
 | 49 | [Enculado](https://open.spotify.com/track/3RauwC9sLKjxVN7uNw0vAH) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 2:27 |
 | 50 | [El Indio Enamorado](https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [El Indio Enamorado](https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt) | 3:08 |
-| 51 | [Aguas](https://open.spotify.com/track/2KgzC2HaBfy67hMkSUDOys) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0) | [Aguas](https://open.spotify.com/album/3M2ysOq0MWdkpDydIVZ07K) | 2:52 |
-| 52 | [La Víctima](https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Víctima](https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr) | 2:36 |
+| 51 | [La Víctima](https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Víctima](https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr) | 2:36 |
+| 52 | [Aguas](https://open.spotify.com/track/2KgzC2HaBfy67hMkSUDOys) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0) | [Aguas](https://open.spotify.com/album/3M2ysOq0MWdkpDydIVZ07K) | 2:52 |
 | 53 | [FIRST LOVE](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [FIRST LOVE](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 |
 | 54 | [El Taquicardio](https://open.spotify.com/track/1QsoYk84HOt7F7iqjlydlW) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY) | 3:00 |
 | 55 | [Compré Una Cantina](https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:39 |
@@ -127,10 +127,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKCgD4mJwbN.md) - [plain]
 | 117 | [Enloquecido](https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI) | 3:32 |
 | 118 | [El Rescate](https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP) | 2:40 |
 | 119 | [Qué Onda Perdida](https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Qué Onda Perdida](https://open.spotify.com/album/6kbhZqFlf80O9LW2EAWz15) | 3:59 |
-| 120 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya No Somos Ni Seremos](https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo) | 3:05 |
-| 121 | [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 |
+| 120 | [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 |
+| 121 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya No Somos Ni Seremos](https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo) | 3:05 |
 | 122 | [Siempre Pendientes](https://open.spotify.com/track/5PfFHceiEv61KldMOuVrv8) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Siempre Pendientes](https://open.spotify.com/album/23UaQnh22hlEWcbGMJidJm) | 3:06 |
 | 123 | [Si Fuera Fácil](https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Si Fuera Fácil](https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE) | 2:50 |
 | 124 | [Ya Supérame \(En Vivo\)](https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Ya Supérame \(En Vivo\)](https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml) | 3:09 |
 
-Snapshot ID: `AAAAAMwTApNi46Erl3BWgyQoIqpkTkxR`
+Snapshot ID: `AAAAAM31audMO2O4E+Ov503Dhasot5qF`

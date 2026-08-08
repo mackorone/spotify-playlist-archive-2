@@ -1,13 +1,109 @@
 {
-  "description": "The home of Canadian country music. Cover: Lucas Mason",
+  "description": "The home of Canadian country music. Cover: Tenille Arts",
   "num_followers": 84182,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABhc/evynlwcCeuo3FC6gxSdxkbw",
+  "snapshot_id": "AAAAAPGkPeZKRuZgd43tN++tlVWqCqlj",
   "tracks": [
+    {
+      "added_at": "2026-08-07 04:03:23",
+      "album": {
+        "name": "The Right Drugs",
+        "url": "https://open.spotify.com/album/4WOGeT4i8Dj82RBPrmwmZD"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "duration_ms": 183386,
+      "name": "The Right Drugs",
+      "url": "https://open.spotify.com/track/4DCkuwPkIoIu0E6flgv8Cg"
+    },
+    {
+      "added_at": "2026-08-07 04:03:23",
+      "album": {
+        "name": "BOONDOCKS",
+        "url": "https://open.spotify.com/album/7yZBPvWThntIqoNcHyGOEP"
+      },
+      "artists": [
+        {
+          "name": "Morgan Griffiths",
+          "url": "https://open.spotify.com/artist/01rGBVJvFssZjs5soni9Cw"
+        }
+      ],
+      "duration_ms": 196473,
+      "name": "BOONDOCKS",
+      "url": "https://open.spotify.com/track/5w71UKvM1ZYbrnuGTaRrL0"
+    },
+    {
+      "added_at": "2026-08-07 04:03:23",
+      "album": {
+        "name": "Johnny Blue",
+        "url": "https://open.spotify.com/album/3erkApnVWwCR1wQOChCObA"
+      },
+      "artists": [
+        {
+          "name": "Zayne Zemoroz",
+          "url": "https://open.spotify.com/artist/5n4oKb1NvxrdaaTXihMsVp"
+        }
+      ],
+      "duration_ms": 188586,
+      "name": "Johnny Blue",
+      "url": "https://open.spotify.com/track/5s6tqSuCg0G9tS2ugLHvZF"
+    },
+    {
+      "added_at": "2026-08-07 04:03:23",
+      "album": {
+        "name": "Nowhere Town",
+        "url": "https://open.spotify.com/album/2Gw39R0Jykz65QynSgU4XF"
+      },
+      "artists": [
+        {
+          "name": "Mitch Zorn",
+          "url": "https://open.spotify.com/artist/0oIZCkRWLup8z9nLIEteQ7"
+        }
+      ],
+      "duration_ms": 154738,
+      "name": "Nowhere Town",
+      "url": "https://open.spotify.com/track/7tynHnjfKqq7YdJkWC3a0E"
+    },
+    {
+      "added_at": "2026-08-07 04:03:23",
+      "album": {
+        "name": "Whisky Wings",
+        "url": "https://open.spotify.com/album/1xzhakNCHHn9xmAkz1rut8"
+      },
+      "artists": [
+        {
+          "name": "The Washboard Union",
+          "url": "https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k"
+        }
+      ],
+      "duration_ms": 179199,
+      "name": "Whisky Wings",
+      "url": "https://open.spotify.com/track/5ZZCRrt667wQGQFnPXM6MT"
+    },
+    {
+      "added_at": "2026-08-07 04:03:23",
+      "album": {
+        "name": "Big Star",
+        "url": "https://open.spotify.com/album/0ic5iPIrKySA966odWB1Ax"
+      },
+      "artists": [
+        {
+          "name": "Caylie G",
+          "url": "https://open.spotify.com/artist/06HHBfxbUKh3oJctElsG23"
+        }
+      ],
+      "duration_ms": 242918,
+      "name": "Big Star",
+      "url": "https://open.spotify.com/track/089rhiq5YZMSbGWFxatk0I"
+    },
     {
       "added_at": "2026-07-31 04:03:45",
       "album": {
@@ -25,6 +121,90 @@
       "url": "https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI"
     },
     {
+      "added_at": "2026-08-07 04:03:23",
+      "album": {
+        "name": "Leave Me Like A Backroad",
+        "url": "https://open.spotify.com/album/1cyg4sDFxAxGMQUcNYBbLP"
+      },
+      "artists": [
+        {
+          "name": "Brock Phillips",
+          "url": "https://open.spotify.com/artist/3AdkQoDWIwHRHuWTqn96AI"
+        },
+        {
+          "name": "Dallas Smith",
+          "url": "https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC"
+        }
+      ],
+      "duration_ms": 148026,
+      "name": "Leave Me Like A Backroad (feat. Dallas Smith)",
+      "url": "https://open.spotify.com/track/7g9MyX2HITNHqz2DqXotqd"
+    },
+    {
+      "added_at": "2026-08-07 04:03:23",
+      "album": {
+        "name": "Different Light",
+        "url": "https://open.spotify.com/album/04FbF8dZQwvgvvJW4PeZq0"
+      },
+      "artists": [
+        {
+          "name": "Tony Stevens",
+          "url": "https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN"
+        }
+      ],
+      "duration_ms": 162965,
+      "name": "Different Light",
+      "url": "https://open.spotify.com/track/7MBxGodD0TMuqLbKxLjCla"
+    },
+    {
+      "added_at": "2026-08-07 04:03:23",
+      "album": {
+        "name": "Love Me Like No Other",
+        "url": "https://open.spotify.com/album/7oMtemwcbxae4SjeF7sxEA"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/7buSpDfGpMZwpTs45IT9uo"
+        }
+      ],
+      "duration_ms": 179251,
+      "name": "Love Me Like No Other",
+      "url": "https://open.spotify.com/track/1LD7ngKYEGdHkMJWOJo6DA"
+    },
+    {
+      "added_at": "2026-08-07 04:03:23",
+      "album": {
+        "name": "Dust In My Glove Box",
+        "url": "https://open.spotify.com/album/4oFo64F3ppV2zeG3h6ough"
+      },
+      "artists": [
+        {
+          "name": "Evan Burrison",
+          "url": "https://open.spotify.com/artist/429Zw6geVC0AUPv1sq0bf4"
+        }
+      ],
+      "duration_ms": 162273,
+      "name": "Dust In My Glove Box",
+      "url": "https://open.spotify.com/track/2aCmFHj0VkHEiwc0Bl14FU"
+    },
+    {
+      "added_at": "2026-08-07 04:03:23",
+      "album": {
+        "name": "Watering The Lawn",
+        "url": "https://open.spotify.com/album/0ZvABwbjvFoGCrWRz0UPJX"
+      },
+      "artists": [
+        {
+          "name": "Riley Taylor",
+          "url": "https://open.spotify.com/artist/6dmjczHicFnkqGNmDmjku9"
+        }
+      ],
+      "duration_ms": 207232,
+      "name": "Watering The Lawn",
+      "url": "https://open.spotify.com/track/01VCZZhGO8RBYH76rcbsq8"
+    },
+    {
       "added_at": "2026-07-31 04:03:45",
       "album": {
         "name": "Other Girls",
@@ -39,6 +219,134 @@
       "duration_ms": 144495,
       "name": "Other Girls",
       "url": "https://open.spotify.com/track/4xYrKRjvtJOcEkXM8ZO8K5"
+    },
+    {
+      "added_at": "2026-07-17 04:03:05",
+      "album": {
+        "name": "Men Into Boys",
+        "url": "https://open.spotify.com/album/6NpOvDlOyqKVOnQMXYGKXu"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 154448,
+      "name": "Men Into Boys",
+      "url": "https://open.spotify.com/track/5xe0QNOEkCivrqV7Loyz8R"
+    },
+    {
+      "added_at": "2026-08-07 04:03:23",
+      "album": {
+        "name": "It Was Always You",
+        "url": "https://open.spotify.com/album/6m5GFrZ4D3mkIVVXbnCX0R"
+      },
+      "artists": [
+        {
+          "name": "Aaron Pritchett",
+          "url": "https://open.spotify.com/artist/5cX6PE94aP77FQP0YVHNPX"
+        }
+      ],
+      "duration_ms": 187310,
+      "name": "It Was Always You",
+      "url": "https://open.spotify.com/track/3Ckmgu52wwsXH1LfNdwEiV"
+    },
+    {
+      "added_at": "2026-06-26 08:00:22",
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/1nRGVWoYLgEXzkbVMRMzTx"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "duration_ms": 181389,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/1D5jc3SEX95okcz9tkeXea"
+    },
+    {
+      "added_at": "2026-08-07 04:03:23",
+      "album": {
+        "name": "Anger Management",
+        "url": "https://open.spotify.com/album/6vdhFBxAy9YzmHz19l2qDN"
+      },
+      "artists": [
+        {
+          "name": "Dax",
+          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
+        }
+      ],
+      "duration_ms": 179757,
+      "name": "Happy Wife, Happy Life",
+      "url": "https://open.spotify.com/track/2FlTZQujBBpVmXxk1VUGG5"
+    },
+    {
+      "added_at": "2026-08-07 04:03:23",
+      "album": {
+        "name": "Cabin in the Woods",
+        "url": "https://open.spotify.com/album/0cF2hdkxg2UbUtjYmKs1nb"
+      },
+      "artists": [
+        {
+          "name": "Spencer Burton",
+          "url": "https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq"
+        }
+      ],
+      "duration_ms": 192461,
+      "name": "Cabin in the Woods",
+      "url": "https://open.spotify.com/track/6t3z7SzfJfMIscvCfc1MSb"
+    },
+    {
+      "added_at": "2026-06-26 08:00:22",
+      "album": {
+        "name": "The Tenth Album (Side A)",
+        "url": "https://open.spotify.com/album/6hE8XsXc342nRFRc1bSKyD"
+      },
+      "artists": [
+        {
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        }
+      ],
+      "duration_ms": 144790,
+      "name": "Death Of Me",
+      "url": "https://open.spotify.com/track/0y1dRDH0ygZFRznBaJaLGs"
+    },
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "Home In Your Broken Heart",
+        "url": "https://open.spotify.com/album/6UW0EYuBmuScXfzQmfolg9"
+      },
+      "artists": [
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "duration_ms": 222710,
+      "name": "Home In Your Broken Heart",
+      "url": "https://open.spotify.com/track/23jTdWCqELQZAPfOzG1jtB"
+    },
+    {
+      "added_at": "2026-07-03 04:03:19",
+      "album": {
+        "name": "seen enough",
+        "url": "https://open.spotify.com/album/0vlWL2GHdD970RvEDBs9N9"
+      },
+      "artists": [
+        {
+          "name": "Trudy",
+          "url": "https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS"
+        }
+      ],
+      "duration_ms": 209698,
+      "name": "seen enough",
+      "url": "https://open.spotify.com/track/51uPCxApVvtuYkc2lFP1E0"
     },
     {
       "added_at": "2026-07-31 04:03:45",
@@ -89,22 +397,6 @@
       "url": "https://open.spotify.com/track/79j8AeqPWwClJ1LKNwmXcr"
     },
     {
-      "added_at": "2026-07-17 04:03:05",
-      "album": {
-        "name": "Men Into Boys",
-        "url": "https://open.spotify.com/album/6NpOvDlOyqKVOnQMXYGKXu"
-      },
-      "artists": [
-        {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
-        }
-      ],
-      "duration_ms": 154448,
-      "name": "Men Into Boys",
-      "url": "https://open.spotify.com/track/5xe0QNOEkCivrqV7Loyz8R"
-    },
-    {
       "added_at": "2026-07-31 04:03:45",
       "album": {
         "name": "Stick Around",
@@ -153,38 +445,6 @@
       "url": "https://open.spotify.com/track/0ReSM5YJqbkHQuf7Tv7jJ9"
     },
     {
-      "added_at": "2026-06-26 08:00:22",
-      "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/1nRGVWoYLgEXzkbVMRMzTx"
-      },
-      "artists": [
-        {
-          "name": "James Barker Band",
-          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
-        }
-      ],
-      "duration_ms": 181389,
-      "name": "After Dark",
-      "url": "https://open.spotify.com/track/1D5jc3SEX95okcz9tkeXea"
-    },
-    {
-      "added_at": "2026-06-26 08:00:22",
-      "album": {
-        "name": "The Tenth Album (Side A)",
-        "url": "https://open.spotify.com/album/6hE8XsXc342nRFRc1bSKyD"
-      },
-      "artists": [
-        {
-          "name": "Dean Brody",
-          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
-        }
-      ],
-      "duration_ms": 144790,
-      "name": "Death Of Me",
-      "url": "https://open.spotify.com/track/0y1dRDH0ygZFRznBaJaLGs"
-    },
-    {
       "added_at": "2026-07-24 04:03:36",
       "album": {
         "name": "Little Miss Twain",
@@ -231,38 +491,6 @@
       "duration_ms": 193040,
       "name": "Chevrolaid Back",
       "url": "https://open.spotify.com/track/3CXEeYwt2GvT6n89ooL2j1"
-    },
-    {
-      "added_at": "2026-07-10 04:03:19",
-      "album": {
-        "name": "Home In Your Broken Heart",
-        "url": "https://open.spotify.com/album/6UW0EYuBmuScXfzQmfolg9"
-      },
-      "artists": [
-        {
-          "name": "Thelma & James",
-          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
-        }
-      ],
-      "duration_ms": 222710,
-      "name": "Home In Your Broken Heart",
-      "url": "https://open.spotify.com/track/23jTdWCqELQZAPfOzG1jtB"
-    },
-    {
-      "added_at": "2026-07-03 04:03:19",
-      "album": {
-        "name": "seen enough",
-        "url": "https://open.spotify.com/album/0vlWL2GHdD970RvEDBs9N9"
-      },
-      "artists": [
-        {
-          "name": "Trudy",
-          "url": "https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS"
-        }
-      ],
-      "duration_ms": 209698,
-      "name": "seen enough",
-      "url": "https://open.spotify.com/track/51uPCxApVvtuYkc2lFP1E0"
     },
     {
       "added_at": "2026-07-31 04:03:45",

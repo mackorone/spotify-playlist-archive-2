@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 
 > y nada más que pop ✨✨✨<br/>📷  Juliana Gattas
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,247 likes - 85 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,254 likes - 85 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,11 +87,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 77 | [Fuego y Pasión](https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Best Seller](https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7) | 3:44 |
 | 78 | [Nunca](https://open.spotify.com/track/6vG8TNz01vVOzLKeqh1IXe) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [ESCENAS](https://open.spotify.com/album/0L5d7bwkZoMJusCRo31iK8) | 3:05 |
 | 79 | [Mientes](https://open.spotify.com/track/34UvFr9iB7R5hojk6iNN1N) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Mientes](https://open.spotify.com/album/4OhPGq0bP1zqgxt8R9vpUX) | 2:40 |
-| 80 | [ESO Y MÁS](https://open.spotify.com/track/3dSIBA6tLeEKjYMPBbytRc) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [ESO Y MÁS](https://open.spotify.com/album/0u5fdWFGri22N2DYST1yNo) | 2:27 |
+| 80 | [Te Soñaba](https://open.spotify.com/track/5jhCXVjJEsmmJys48FEDIE) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Salvando las Distancias](https://open.spotify.com/album/2yM2f1BwK5B1xS1KugaqEt) | 3:55 |
 | 81 | [Kapun](https://open.spotify.com/track/0Ga0XkazLanxpcBHHJYTqM) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Kapun](https://open.spotify.com/album/5Eotsaakg0bfG9AM9UROwW) | 3:03 |
-| 82 | [Te Soñaba](https://open.spotify.com/track/5jhCXVjJEsmmJys48FEDIE) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Salvando las Distancias](https://open.spotify.com/album/2yM2f1BwK5B1xS1KugaqEt) | 3:55 |
+| 82 | [ESO Y MÁS](https://open.spotify.com/track/3dSIBA6tLeEKjYMPBbytRc) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [ESO Y MÁS](https://open.spotify.com/album/0u5fdWFGri22N2DYST1yNo) | 2:27 |
 | 83 | [María](https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 3:49 |
 | 84 | [Callejón de las baladas](https://open.spotify.com/track/023BIHVBBkeDf4uO26fs3j) | [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz) | [Callejón de las baladas](https://open.spotify.com/album/5CI2nC3nSEcQGun2tl46GV) | 2:36 |
-| 85 | [Santa Marta](https://open.spotify.com/track/4XIpKXTvQ3Wa94C2zsYfV1) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Viaje](https://open.spotify.com/album/4iQQnrUj7fhHgw2iOGTvpU) | 3:20 |
+| 85 | [Mil Horas](https://open.spotify.com/track/6c7s0wN0CahLzgB7VbWJKa) | [Cachorro Lopez](https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Mil Horas](https://open.spotify.com/album/6tJzhzcKJZVuUUOp4c2fUn) | 3:00 |
 
-Snapshot ID: `AAAAAGRJDpTXlMXSBgcWEjkLtVhQqw8G`
+Snapshot ID: `AAAAAIs0lA0GIwOl3+3JmU73KYvjIC4r`

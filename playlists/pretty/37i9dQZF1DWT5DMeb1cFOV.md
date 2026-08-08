@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5DMeb1cFOV.md) - [plain]
 
 > La colonna sonora perfetta per le giornate di lavoro da casa, alla scrivania o sul divano! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 747 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 755 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5DMeb1cFOV.md) - [plain]
 | 59 | [Miedito o Qué? \(feat\. KAROL G\)](https://open.spotify.com/track/7MoZgM6AsQaZw14WnKopuy) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Miedito o Qué? \(feat\. KAROL G\)](https://open.spotify.com/album/6TRoxZTx8HtZ2B3U7c1jVC) | 3:29 |
 | 60 | [If I Can't Have You](https://open.spotify.com/track/6LsAAHotRLMOHfCsSfYCsz) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [If I Can't Have You](https://open.spotify.com/album/1J2BrRxtQjVUa7X9Ne99xD) | 3:10 |
 
-Snapshot ID: `AAAAAGqqULqhIiulwhMvrTiY4txSRCt+`
+Snapshot ID: `AAAAAAoF49iFfEmYhg0yODwaFwNDqTvP`

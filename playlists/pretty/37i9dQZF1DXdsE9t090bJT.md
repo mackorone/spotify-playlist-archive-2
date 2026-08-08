@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 
 > Súbete a la troca ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,192 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,210 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 45 | [WISCACHOS](https://open.spotify.com/track/2rApWcTGUQuq4iDuB8n763) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Ya No Se Llevan Serenatas](https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6) | 2:58 |
 | 46 | [Amigos? No.](https://open.spotify.com/track/7hNgSEQ4Ho7kWBA2rKpDd9) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Amigos? No.](https://open.spotify.com/album/4b2QIGSCXrUQSURm2PnbUT) | 3:46 |
 | 47 | [Apaga El Cel](https://open.spotify.com/track/1sXr6moCwVxwKEgSPxhVvF) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Apaga El Cel](https://open.spotify.com/album/5Isy5T3w9NjggarK5RxrQZ) | 2:50 |
-| 48 | [Con Tus Besos](https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 3:46 |
-| 49 | [Mi Cuernito](https://open.spotify.com/track/40t8KIooUPZuaZanTgPIcB) | [Marcos Villalobos](https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi), [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [Mi Cuernito](https://open.spotify.com/album/31dSkzoXxdgF04j2pfvM4r) | 2:55 |
+| 48 | [Mi Cuernito](https://open.spotify.com/track/40t8KIooUPZuaZanTgPIcB) | [Marcos Villalobos](https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi), [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [Mi Cuernito](https://open.spotify.com/album/31dSkzoXxdgF04j2pfvM4r) | 2:55 |
+| 49 | [Con Tus Besos](https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 3:46 |
 | 50 | [Ojitos de Miel](https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Our Wave Nuestra Ola](https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo) | 3:59 |
 | 51 | [Asquerosamente Rico](https://open.spotify.com/track/27aWzQn0uCuEwHkNlKi1jP) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Rico o Muerto, Vol\. 1](https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO) | 3:15 |
 | 52 | [Me Prometí](https://open.spotify.com/track/5uXL0CN1mQxHJSJRHN44Od) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Me Prometí](https://open.spotify.com/album/3uitW0pQMa3sZi80pjMNU4) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 99 | [Casi Algo](https://open.spotify.com/track/2InFGvJZvQjiGZixFFvvj1) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Casi Algo](https://open.spotify.com/album/1Tk99mHlULtaxKGSjkrgEA) | 3:33 |
 | 100 | [HDTPM](https://open.spotify.com/track/0V1Pq0ToZh1ZP5VCSxgWA5) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [HDTPM](https://open.spotify.com/album/3LEGUBBcYTvxISyzxYanZ1) | 2:37 |
 
-Snapshot ID: `AAAAACav2se/sIsCU9KNqYtmRCwMQXFa`
+Snapshot ID: `AAAAALu7+tjwYCMBrX0gYBueTnECrJPw`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DVNE967JBk.md) - [plain]
 
 ### [Disneyland Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX8DVNE967JBk)
 
-> Come join in on the fun this summer with the top hits from Disneyland Resort.
+> Your Disneyland soundtrack is here all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,790 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,839 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DVNE967JBk.md) - [plain]
 | 74 | [The Mad Tea Party / The Unbirthday Song / Twinkle Twinkle / Clean Cup Move Down / Mad Watch](https://open.spotify.com/track/0uDuqVAWCOYEH4qM3vWe1g) | [Kathryn Beaumont](https://open.spotify.com/artist/762gpacQ6WcT75zlkrc3Ls), [Edwynn](https://open.spotify.com/artist/3XX7VQJvnPuFrCSaHgexf5), [James Macdonald](https://open.spotify.com/artist/6Wr4qA7iyTKRag1Pyyuv2g), [Jerry Colonna](https://open.spotify.com/artist/4Rg7sNSGzUzaP1qkc5qVhc) | [Alice In Wonderland \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Sfipn1VH7Q0ZSPfXz7oOx) | 4:31 |
 | 75 | [Disneyland's 10th Anniversary Special \(Pirates of the Caribbean Excerpt\)](https://open.spotify.com/track/580gh7y9uZwDbTL9ijOQlF) | [Walt Disney](https://open.spotify.com/artist/2qyTNQUXF8iFeYwTnExDch), [Julie Reihm](https://open.spotify.com/artist/6tLgvrxYLIfjoqnAnN7SVZ) | [Pirates of the Caribbean](https://open.spotify.com/album/6jhZnMDgxr21yLZnmslAQV) | 0:40 |
 
-Snapshot ID: `AAAAAO7Qo/6/5hHv6kXFRZFR/oInzTB3`
+Snapshot ID: `AAAAAFf6zXjLBLNwvptOxJk/RY+ej0LL`

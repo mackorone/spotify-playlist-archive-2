@@ -1,12 +1,12 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 190358,
+  "num_followers": 190348,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP+sWbOM5phj9BA1BCdN76FHbnsz",
+  "snapshot_id": "AAAAAOBm31Th+qWsYjGReN6gXyR34oy9",
   "tracks": [
     {
       "added_at": "2026-07-17 14:00:09",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "What Takes You Back",
-        "url": "https://open.spotify.com/album/3SSuQuEaXRiOs6Mw8Yka8T"
-      },
-      "artists": [
-        {
-          "name": "Zachary Bloemperk",
-          "url": "https://open.spotify.com/artist/4vgD2JQibsbjAHwsAyRsVi"
-        }
-      ],
-      "duration_ms": 275166,
-      "name": "What Takes You Back",
-      "url": "https://open.spotify.com/track/1ga3dk6EdsAfGFNWr4QiAJ"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "Always The Same (feat. St. Vincent)",
         "url": "https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 256875,
       "name": "Always The Same (feat. St. Vincent)",
       "url": "https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "What Takes You Back",
+        "url": "https://open.spotify.com/album/3SSuQuEaXRiOs6Mw8Yka8T"
+      },
+      "artists": [
+        {
+          "name": "Zachary Bloemperk",
+          "url": "https://open.spotify.com/artist/4vgD2JQibsbjAHwsAyRsVi"
+        }
+      ],
+      "duration_ms": 275166,
+      "name": "What Takes You Back",
+      "url": "https://open.spotify.com/track/1ga3dk6EdsAfGFNWr4QiAJ"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Wallflower (Acoustic)",
-        "url": "https://open.spotify.com/album/0JgBb2VFLW9zldC5LLlsrh"
-      },
-      "artists": [
-        {
-          "name": "Leah Rye",
-          "url": "https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn"
-        }
-      ],
-      "duration_ms": 157248,
-      "name": "Wallflower - Acoustic",
-      "url": "https://open.spotify.com/track/3Lq8hjZ7XOpqbtcVROOpTi"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "Arrow, Four",
         "url": "https://open.spotify.com/album/613LuczeoGm3FSaJfKggZz"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 282000,
       "name": "Bright Belief",
       "url": "https://open.spotify.com/track/4GJzoqPOhCylLzM7mtMQbw"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "Wallflower (Acoustic)",
+        "url": "https://open.spotify.com/album/0JgBb2VFLW9zldC5LLlsrh"
+      },
+      "artists": [
+        {
+          "name": "Leah Rye",
+          "url": "https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn"
+        }
+      ],
+      "duration_ms": 157248,
+      "name": "Wallflower - Acoustic",
+      "url": "https://open.spotify.com/track/3Lq8hjZ7XOpqbtcVROOpTi"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "i will be dead",
-        "url": "https://open.spotify.com/album/2viC44QGEFbbXZrnNYvVQt"
-      },
-      "artists": [
-        {
-          "name": "sura sol",
-          "url": "https://open.spotify.com/artist/6NzaphNJjxBoUIEJ18NEE1"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "dance & giggle",
-      "url": "https://open.spotify.com/track/3rQD8qYVXevzx1OLYmOMu4"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "sunflower boy",
         "url": "https://open.spotify.com/album/1GupNMDuAKHrKlhHJNrokM"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 146605,
       "name": "sunflower boy",
       "url": "https://open.spotify.com/track/2SVgcMYIiFJ1wQK1yiprjP"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "i will be dead",
+        "url": "https://open.spotify.com/album/2viC44QGEFbbXZrnNYvVQt"
+      },
+      "artists": [
+        {
+          "name": "sura sol",
+          "url": "https://open.spotify.com/artist/6NzaphNJjxBoUIEJ18NEE1"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "dance & giggle",
+      "url": "https://open.spotify.com/track/3rQD8qYVXevzx1OLYmOMu4"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Make It Rain (27 Tapes)",
-        "url": "https://open.spotify.com/album/25G0keXjFqywZnbHu8LA8G"
-      },
-      "artists": [
-        {
-          "name": "Michael Prins",
-          "url": "https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m"
-        }
-      ],
-      "duration_ms": 395370,
-      "name": "Make It Rain - 27 Tapes",
-      "url": "https://open.spotify.com/track/6BnGlmkbv9khP6ET0F2eAn"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "Richardson (feat. Cassandra Jenkins)",
         "url": "https://open.spotify.com/album/72T10FajAmf5Wu0M9scOpp"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 224093,
       "name": "Richardson - feat. Cassandra Jenkins",
       "url": "https://open.spotify.com/track/4Jrstw4tzEoFCE5hZMug96"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "Make It Rain (27 Tapes)",
+        "url": "https://open.spotify.com/album/25G0keXjFqywZnbHu8LA8G"
+      },
+      "artists": [
+        {
+          "name": "Michael Prins",
+          "url": "https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m"
+        }
+      ],
+      "duration_ms": 395370,
+      "name": "Make It Rain - 27 Tapes",
+      "url": "https://open.spotify.com/track/6BnGlmkbv9khP6ET0F2eAn"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -699,6 +699,22 @@
       "duration_ms": 172920,
       "name": "Never Again",
       "url": "https://open.spotify.com/track/0KwMTCtE9g1K3e6VoOjf0A"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "Something Ain't Right (Acoustic)",
+        "url": "https://open.spotify.com/album/1d0d9udPhXSTJEyWD0A3Cx"
+      },
+      "artists": [
+        {
+          "name": "Leah Rye",
+          "url": "https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn"
+        }
+      ],
+      "duration_ms": 160523,
+      "name": "Something Ain't Right - Acoustic",
+      "url": "https://open.spotify.com/track/2K5t7RDYD1C11XZmmT3KtT"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -763,22 +779,6 @@
       "duration_ms": 208944,
       "name": "I Don\u00b4t Feel",
       "url": "https://open.spotify.com/track/3wqEwrMnhMUboJRVx0cknF"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
-        "name": "Something Ain't Right (Acoustic)",
-        "url": "https://open.spotify.com/album/1d0d9udPhXSTJEyWD0A3Cx"
-      },
-      "artists": [
-        {
-          "name": "Leah Rye",
-          "url": "https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn"
-        }
-      ],
-      "duration_ms": 160523,
-      "name": "Something Ain't Right - Acoustic",
-      "url": "https://open.spotify.com/track/2K5t7RDYD1C11XZmmT3KtT"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/0hbVt302avAUnb1AER2uf6"
+      },
+      "artists": [
+        {
+          "name": "Ciska Ciska",
+          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
+        }
+      ],
+      "duration_ms": 204047,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4U7pnAXHXvMiiS6OPppAWf"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
         "name": "The Farm",
         "url": "https://open.spotify.com/album/40J82quNYkW4TBE5ebbHPs"
       },
@@ -883,22 +899,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/0hbVt302avAUnb1AER2uf6"
-      },
-      "artists": [
-        {
-          "name": "Ciska Ciska",
-          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
-        }
-      ],
-      "duration_ms": 204047,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/4U7pnAXHXvMiiS6OPppAWf"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "Mr. Beckett",
         "url": "https://open.spotify.com/album/5GmgDdcsrcwxePMDYTebeh"
       },
@@ -911,42 +911,6 @@
       "duration_ms": 223973,
       "name": "Mr. Beckett",
       "url": "https://open.spotify.com/track/2PuT4rCzGU7CXGVNAEihTe"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
-        "name": "Leaving - Reminisce",
-        "url": "https://open.spotify.com/album/2R1cDeLDQthyEMIlSZnPiZ"
-      },
-      "artists": [
-        {
-          "name": "Annelie",
-          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
-        }
-      ],
-      "duration_ms": 324453,
-      "name": "Leaving",
-      "url": "https://open.spotify.com/track/2BlK3gDtP5pgK11lVk3MsE"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
-        "name": "Blurrr",
-        "url": "https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D"
-      },
-      "artists": [
-        {
-          "name": "Joanne Robertson",
-          "url": "https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L"
-        },
-        {
-          "name": "Oliver Coates",
-          "url": "https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM"
-        }
-      ],
-      "duration_ms": 195999,
-      "name": "Gown",
-      "url": "https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -987,6 +951,42 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
+        "name": "Leaving - Reminisce",
+        "url": "https://open.spotify.com/album/2R1cDeLDQthyEMIlSZnPiZ"
+      },
+      "artists": [
+        {
+          "name": "Annelie",
+          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
+        }
+      ],
+      "duration_ms": 324453,
+      "name": "Leaving",
+      "url": "https://open.spotify.com/track/2BlK3gDtP5pgK11lVk3MsE"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "Blurrr",
+        "url": "https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D"
+      },
+      "artists": [
+        {
+          "name": "Joanne Robertson",
+          "url": "https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L"
+        },
+        {
+          "name": "Oliver Coates",
+          "url": "https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM"
+        }
+      ],
+      "duration_ms": 195999,
+      "name": "Gown",
+      "url": "https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
         "name": "Dark Sky Reserve",
         "url": "https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m"
       },
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "My Child, My Friend - Anchor",
-        "url": "https://open.spotify.com/album/63nOrTo9E93yU00AZvnCLD"
-      },
-      "artists": [
-        {
-          "name": "Annelie",
-          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
-        }
-      ],
-      "duration_ms": 152146,
-      "name": "My Child, My Friend",
-      "url": "https://open.spotify.com/track/4fJ1qHYvlGZVtCWkIbO7hQ"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "I do",
         "url": "https://open.spotify.com/album/2NgybCTiLpld17LTGcDymR"
       },
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Sunflower Sunset",
-        "url": "https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2"
+        "name": "My Child, My Friend - Anchor",
+        "url": "https://open.spotify.com/album/63nOrTo9E93yU00AZvnCLD"
       },
       "artists": [
         {
-          "name": "Future Husband",
-          "url": "https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI"
+          "name": "Annelie",
+          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
         }
       ],
-      "duration_ms": 308963,
-      "name": "Sunflower Sunset",
-      "url": "https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq"
+      "duration_ms": 152146,
+      "name": "My Child, My Friend",
+      "url": "https://open.spotify.com/track/4fJ1qHYvlGZVtCWkIbO7hQ"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -1079,6 +1063,22 @@
       "duration_ms": 264346,
       "name": "Rush Hour Traffic",
       "url": "https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "Sunflower Sunset",
+        "url": "https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2"
+      },
+      "artists": [
+        {
+          "name": "Future Husband",
+          "url": "https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI"
+        }
+      ],
+      "duration_ms": 308963,
+      "name": "Sunflower Sunset",
+      "url": "https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Boat",
-        "url": "https://open.spotify.com/album/27Df3AJdoQ94z0CD6XmKqA"
-      },
-      "artists": [
-        {
-          "name": "RAMAN.",
-          "url": "https://open.spotify.com/artist/5AwiKiIdwyrjQtRt0C0I86"
-        }
-      ],
-      "duration_ms": 308293,
-      "name": "Boat",
-      "url": "https://open.spotify.com/track/2nWj5r88reOB7RXxZc3DvE"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "Sincerely, Sevens",
         "url": "https://open.spotify.com/album/5v8vQHWZctWcuM6VpuLAFn"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 250306,
       "name": "Exit Wounds",
       "url": "https://open.spotify.com/track/4ExjFndsVBO5i2mAB5Eutf"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "Boat",
+        "url": "https://open.spotify.com/album/27Df3AJdoQ94z0CD6XmKqA"
+      },
+      "artists": [
+        {
+          "name": "RAMAN.",
+          "url": "https://open.spotify.com/artist/5AwiKiIdwyrjQtRt0C0I86"
+        }
+      ],
+      "duration_ms": 308293,
+      "name": "Boat",
+      "url": "https://open.spotify.com/track/2nWj5r88reOB7RXxZc3DvE"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Tardigrades",
-        "url": "https://open.spotify.com/album/6VI768BQ6QW6sSo6yswiYd"
+        "name": "Queen-Size Life",
+        "url": "https://open.spotify.com/album/7e5CvNi9fnhAIJ9ntZnlDB"
       },
       "artists": [
         {
-          "name": "Slow Res",
-          "url": "https://open.spotify.com/artist/0w5Ntkxa6z2RF00gXNRBrF"
+          "name": "Mountaineer",
+          "url": "https://open.spotify.com/artist/5ayGJVSrPdzT28dxwsxgOj"
         }
       ],
-      "duration_ms": 190631,
-      "name": "Tardigrades",
-      "url": "https://open.spotify.com/track/1Kihs06ERAUQiliX9AdK5Z"
+      "duration_ms": 216690,
+      "name": "Queen-Size Life",
+      "url": "https://open.spotify.com/track/3Ci3PhwCqFUTNlfQ59Nj3z"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Queen-Size Life",
-        "url": "https://open.spotify.com/album/7e5CvNi9fnhAIJ9ntZnlDB"
+        "name": "Tardigrades",
+        "url": "https://open.spotify.com/album/6VI768BQ6QW6sSo6yswiYd"
       },
       "artists": [
         {
-          "name": "Mountaineer",
-          "url": "https://open.spotify.com/artist/5ayGJVSrPdzT28dxwsxgOj"
+          "name": "Slow Res",
+          "url": "https://open.spotify.com/artist/0w5Ntkxa6z2RF00gXNRBrF"
         }
       ],
-      "duration_ms": 216690,
-      "name": "Queen-Size Life",
-      "url": "https://open.spotify.com/track/3Ci3PhwCqFUTNlfQ59Nj3z"
+      "duration_ms": 190631,
+      "name": "Tardigrades",
+      "url": "https://open.spotify.com/track/1Kihs06ERAUQiliX9AdK5Z"
     },
     {
       "added_at": "2026-07-17 14:00:09",

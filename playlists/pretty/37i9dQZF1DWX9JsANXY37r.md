@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 
 > drinks em casa, nada melhor
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,631 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,628 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 11 | [My Favorite Part](https://open.spotify.com/track/66wkCYWlXzSTQAfnsPBptt) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 3:36 |
 | 12 | [Flight's Booked](https://open.spotify.com/track/6Yj7Zhxt73uvwFFvzQXdxO) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:14 |
 | 13 | [On My Mind \(Jorja Smith X Preditah\)](https://open.spotify.com/track/1OxL1FWSEd7QmJoWLRP2NO) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Preditah](https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD) | [On My Mind \(Jorja Smith X Preditah\)](https://open.spotify.com/album/471LijcvJ7tV7ePoX4S0RE) | 3:01 |
-| 14 | [Best to You](https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Freetown Sound](https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY) | 3:45 |
-| 15 | [What You Need \(feat\. Charlotte Day Wilson\)](https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:03 |
+| 14 | [What You Need \(feat\. Charlotte Day Wilson\)](https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:03 |
+| 15 | [Best to You](https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Freetown Sound](https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY) | 3:45 |
 | 16 | [Pretty Please](https://open.spotify.com/track/6DXZiYUbrYgrVIhfX3U9Z2) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:14 |
 | 17 | [Supalonely](https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [STELLA & STEVE](https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8) | 3:43 |
 | 18 | [my future](https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [my future](https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5) | 3:28 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 40 | [Too Good](https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:41 |
 | 41 | [Cheesin’ \(with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS\)](https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW), [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp), [HXNS](https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0) | [Cheesin'](https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh) | 2:18 |
 | 42 | [Ruin](https://open.spotify.com/track/13b9uA4xt7VRbBRGM8cT9q) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Ruin](https://open.spotify.com/album/2XjN9yRFbKUZOmcudyoTpg) | 3:19 |
-| 43 | [Feel Your Weight](https://open.spotify.com/track/6bRVkUr1fyZVX4XwQ4RpaR) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Blood](https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S) | 3:09 |
-| 44 | [Groupie](https://open.spotify.com/track/220ha2YAksZhJzuMXvc8wX) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:30 |
+| 43 | [Groupie](https://open.spotify.com/track/220ha2YAksZhJzuMXvc8wX) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:30 |
+| 44 | [Feel Your Weight](https://open.spotify.com/track/6bRVkUr1fyZVX4XwQ4RpaR) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Blood](https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S) | 3:09 |
 | 45 | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/track/2jUO4Rbw8VizhpHS63jrq4) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 4:11 |
 | 46 | [i want war \(BUT I NEED PEACE\)](https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [TO FEEL ALIVE EP](https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E) | 2:39 |
 | 47 | [FIND YOUR WAY BACK](https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 2:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 59 | [Future Heat feat\. Keagan Raphael](https://open.spotify.com/track/1FLOo634zcxH7GM3yG1DpT) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX), [Keagan Raphael](https://open.spotify.com/artist/707OmZTNJHXFBvUXnc4XUo) | [MOMENT](https://open.spotify.com/album/2jligRxWSH9u3Sh5foJWTS) | 3:40 |
 | 60 | [Hope](https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 4:30 |
 
-Snapshot ID: `AAAAAKYDdhfFmSOP/AcuQFEJ3DZ5xNok`
+Snapshot ID: `AAAAADAQlC2xZ9B3O0RizdGbCR0cCT0Z`

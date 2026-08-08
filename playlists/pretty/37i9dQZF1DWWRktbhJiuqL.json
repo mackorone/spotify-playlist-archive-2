@@ -1,12 +1,12 @@
 {
   "description": "Various sounds, various decades, but with one thing in common.",
-  "num_followers": 2030530,
+  "num_followers": 2030550,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIoKy/xvRKjuVNlsI4PRr7ws+QWS",
+  "snapshot_id": "AAAAAJ6uniRt9R7DmecUQr2Ag+6QLOxt",
   "tracks": [
     {
       "added_at": "2026-07-17 00:16:35",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-07-17 00:16:35",
       "album": {
-        "name": "Damn The Torpedoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 201693,
-      "name": "Refugee",
-      "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
-    },
-    {
-      "added_at": "2026-07-17 00:16:35",
-      "album": {
         "name": "Lunatic",
         "url": "https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 211960,
       "name": "Come with Me Now",
       "url": "https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO"
+    },
+    {
+      "added_at": "2026-07-17 00:16:35",
+      "album": {
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 201693,
+      "name": "Refugee",
+      "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
     },
     {
       "added_at": "2026-07-17 00:16:35",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-07-17 00:16:35",
       "album": {
-        "name": "Mister Asylum",
-        "url": "https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM"
-      },
-      "artists": [
-        {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
-        }
-      ],
-      "duration_ms": 242560,
-      "name": "Lydia",
-      "url": "https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e"
-    },
-    {
-      "added_at": "2026-07-17 00:16:35",
-      "album": {
         "name": "The Attractions Of Youth",
         "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 197520,
       "name": "Fire",
       "url": "https://open.spotify.com/track/5w6B0sAH7XauCvMOAtplQj"
+    },
+    {
+      "added_at": "2026-07-17 00:16:35",
+      "album": {
+        "name": "Mister Asylum",
+        "url": "https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "duration_ms": 242560,
+      "name": "Lydia",
+      "url": "https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e"
     },
     {
       "added_at": "2026-07-17 00:16:35",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-07-17 00:16:35",
       "album": {
-        "name": "Highly Evolved",
-        "url": "https://open.spotify.com/album/14rRGdr4K5UoaEFVw9jqBG"
-      },
-      "artists": [
-        {
-          "name": "The Vines",
-          "url": "https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD"
-        }
-      ],
-      "duration_ms": 126573,
-      "name": "Get Free",
-      "url": "https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx"
-    },
-    {
-      "added_at": "2026-07-17 00:16:35",
-      "album": {
         "name": "Higher Truth",
         "url": "https://open.spotify.com/album/0n7hphNFF3s9pov8oaATFl"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 234426,
       "name": "Nearly Forgot My Broken Heart",
       "url": "https://open.spotify.com/track/7MjRtWS2teufvOiMM0BARZ"
+    },
+    {
+      "added_at": "2026-07-17 00:16:35",
+      "album": {
+        "name": "Highly Evolved",
+        "url": "https://open.spotify.com/album/14rRGdr4K5UoaEFVw9jqBG"
+      },
+      "artists": [
+        {
+          "name": "The Vines",
+          "url": "https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD"
+        }
+      ],
+      "duration_ms": 126573,
+      "name": "Get Free",
+      "url": "https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx"
     },
     {
       "added_at": "2026-07-17 00:16:35",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-07-17 00:16:35",
       "album": {
-        "name": "No Name",
-        "url": "https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 191813,
-      "name": "That's How I'm Feeling",
-      "url": "https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX"
-    },
-    {
-      "added_at": "2026-07-17 00:16:35",
-      "album": {
         "name": "FISSION",
         "url": "https://open.spotify.com/album/6PUmlxsIK7Z2Gr5OSTa5YA"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 213924,
       "name": "HURT",
       "url": "https://open.spotify.com/track/0E0GPPvheTzleZgWckjef2"
+    },
+    {
+      "added_at": "2026-07-17 00:16:35",
+      "album": {
+        "name": "No Name",
+        "url": "https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 191813,
+      "name": "That's How I'm Feeling",
+      "url": "https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX"
     },
     {
       "added_at": "2026-07-17 00:16:35",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2026-07-17 00:16:35",
       "album": {
-        "name": "All In Now",
-        "url": "https://open.spotify.com/album/1fxFvw95DNNmV4Zzoc5pvC"
-      },
-      "artists": [
-        {
-          "name": "Dogstar",
-          "url": "https://open.spotify.com/artist/74cm7dEfR07ca0ih4XKyQe"
-        }
-      ],
-      "duration_ms": 208586,
-      "name": "Math",
-      "url": "https://open.spotify.com/track/68xeZfznVHVBhzYHp2bEj8"
-    },
-    {
-      "added_at": "2026-07-17 00:16:35",
-      "album": {
         "name": "Mammoth II",
         "url": "https://open.spotify.com/album/4IBqnUmKDyB8WUv1q8ElSi"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 275739,
       "name": "I\u2019m Alright",
       "url": "https://open.spotify.com/track/1bjN2FLqJO3cU9efOFcRpS"
+    },
+    {
+      "added_at": "2026-07-17 00:16:35",
+      "album": {
+        "name": "All In Now",
+        "url": "https://open.spotify.com/album/1fxFvw95DNNmV4Zzoc5pvC"
+      },
+      "artists": [
+        {
+          "name": "Dogstar",
+          "url": "https://open.spotify.com/artist/74cm7dEfR07ca0ih4XKyQe"
+        }
+      ],
+      "duration_ms": 208586,
+      "name": "Math",
+      "url": "https://open.spotify.com/track/68xeZfznVHVBhzYHp2bEj8"
     },
     {
       "added_at": "2026-07-17 00:16:35",

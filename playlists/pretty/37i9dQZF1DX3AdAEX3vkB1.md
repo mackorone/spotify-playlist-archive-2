@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 
 > The biggest party hits of the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,981 likes - 145 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,031 likes - 145 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,25 +54,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 44 | [Baby I Need Your Loving](https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops](https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm) | 2:46 |
 | 45 | [Eight Days A Week \- Remastered 2009](https://open.spotify.com/track/1Dg4dFJr3HW7sbA7vPejre) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Beatles For Sale \(Remastered\)](https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a) | 2:43 |
 | 46 | [Come A Little Bit Closer](https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP) | [Jay & The Americans](https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs) | [Come A Little Bit Closer: The Best Of Jay & The Americans](https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6) | 2:46 |
-| 47 | [Mustang Sally](https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Wicked Pickett](https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC) | 3:07 |
-| 48 | [Louie Louie](https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ) | [Kingsmen](https://open.spotify.com/artist/5zboR3VfqxVb7nS5mo0qRX) | [The Best of The Kingsmen](https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx) | 2:45 |
+| 47 | [Louie Louie](https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ) | [Kingsmen](https://open.spotify.com/artist/5zboR3VfqxVb7nS5mo0qRX) | [The Best of The Kingsmen](https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx) | 2:45 |
+| 48 | [Mustang Sally](https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Wicked Pickett](https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC) | 3:07 |
 | 49 | [Nowhere To Run](https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 3:01 |
 | 50 | [I Feel Free](https://open.spotify.com/track/62nYkaIBesfvQSSwTjPnYS) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Fresh Cream](https://open.spotify.com/album/6iyKqDoL9pRSHUsDBYemlB) | 2:51 |
-| 51 | [Take Good Care Of My Baby](https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Take Good Care Of My Baby](https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu) | 2:29 |
-| 52 | [Knock on Wood](https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c) | [Eddie Floyd](https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF) | [Knock On Wood](https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF) | 3:09 |
+| 51 | [Knock on Wood](https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c) | [Eddie Floyd](https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF) | [Knock On Wood](https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF) | 3:09 |
+| 52 | [Take Good Care Of My Baby](https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Take Good Care Of My Baby](https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu) | 2:29 |
 | 53 | [Comin' Home Baby](https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Comin' Home Baby](https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22) | 2:45 |
 | 54 | [Mony Mony](https://open.spotify.com/track/23xk9Rf7oIHVUU1JvmXYFn) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Mony Mony](https://open.spotify.com/album/5X5DaYvnFqc4EatPOYSmnt) | 2:54 |
 | 55 | [\(Love Is Like A\) Heat Wave](https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Heat Wave](https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK) | 2:43 |
 | 56 | [The Wanderer](https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [The Best Of Dion](https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N) | 2:47 |
 | 57 | [The House of the Rising Sun](https://open.spotify.com/track/3TETmhGNWOcquUTtcr6RIR) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The House of the Rising Sun: Best of The Animals](https://open.spotify.com/album/2GkmC6hsvA8854l5kLsTOg) | 4:29 |
 | 58 | [It's Your Thing](https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Our Thing \(Expanded Edition\)](https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF) | 2:49 |
-| 59 | [Hang On Sloopy](https://open.spotify.com/track/0i7O5MtSTXvR4BEY7stpjF) | [The McCoys](https://open.spotify.com/artist/6etIM3JbzGPxTdfNWWfsVH) | [Hang On Sloopy: The Best Of The McCoys](https://open.spotify.com/album/17dRh7ma3OpZSdmWc5LT1H) | 3:51 |
-| 60 | [One Fine Day](https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 2:08 |
+| 59 | [One Fine Day](https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 2:08 |
+| 60 | [Hang On Sloopy](https://open.spotify.com/track/0i7O5MtSTXvR4BEY7stpjF) | [The McCoys](https://open.spotify.com/artist/6etIM3JbzGPxTdfNWWfsVH) | [Hang On Sloopy: The Best Of The McCoys](https://open.spotify.com/album/17dRh7ma3OpZSdmWc5LT1H) | 3:51 |
 | 61 | [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [The Ultimate Jackie Wilson](https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl) | 3:01 |
 | 62 | [Hello Mary Lou, Goodbye Heart \- Remastered](https://open.spotify.com/track/6ImmlZj8ysK2jDnqqbKp60) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Rick Is 21](https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe) | 2:18 |
 | 63 | [The Tears Of A Clown](https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Make It Happen](https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i) | 3:01 |
-| 64 | [Help Me, Rhonda \- Single Version/Remastered 2001](https://open.spotify.com/track/3haZcHm3HydDVxm3je3Zmg) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Summer Days \(And Summer Nights\) \[Remastered\]](https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0) | 2:48 |
-| 65 | [Hey! Baby \- Remastered](https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY) | [Bruce Channel](https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh) | [Hey! Baby \(Deluxe Edition Remastered\)](https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri) | 2:23 |
+| 64 | [Hey! Baby \- Remastered](https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY) | [Bruce Channel](https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh) | [Hey! Baby \(Deluxe Edition Remastered\)](https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri) | 2:23 |
+| 65 | [Help Me, Rhonda \- Single Version/Remastered 2001](https://open.spotify.com/track/3haZcHm3HydDVxm3je3Zmg) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Summer Days \(And Summer Nights\) \[Remastered\]](https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0) | 2:48 |
 | 66 | [Shakin' All Over](https://open.spotify.com/track/6Xv160PuntxAtb67Ed4t4I) | [Johnny Kidd & The Pirates](https://open.spotify.com/artist/52y1cRHUkI0kQqIXCg6JuZ) | [The Complete Johnny Kidd Vol 1 & 2](https://open.spotify.com/album/34pUE4ZtTaXTdvZ5l39OL1) | 2:21 |
 | 67 | [Surfin' Bird](https://open.spotify.com/track/7EjyzZcbLxW7PaaLua9Ksb) | [The Trashmen](https://open.spotify.com/artist/5QEA3sofVt5QckQA6QX2nN) | [Full Metal Jacket \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF) | 2:17 |
 | 68 | [He's So Fine \- Remastered 2000](https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 1:52 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 144 | [A Hard Day's Night \- Remastered](https://open.spotify.com/track/69d54YOS8TOQiUYjX57XeA) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [A Hard Day's Night \(Remastered\)](https://open.spotify.com/album/71Mwd9tntFQYUk4k2DwA0D) | 2:34 |
 | 145 | [She Loves You \- Mono / Remastered](https://open.spotify.com/track/2Fk411Ix3qnMG8t8Qa74ZX) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/5ju5Ouzan3QwXqQt1Tihbh) | 2:20 |
 
-Snapshot ID: `AAAAAP1uFjH/Y1MlhW4kkqI5ef4+D+E8`
+Snapshot ID: `AAAAAHQ6fgW85XeiS2zjSnYUkYBAflOP`

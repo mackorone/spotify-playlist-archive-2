@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: siso & ALICE U)",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: DAWN (\ub358))",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -10420,7 +10420,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 153333,
       "name": "Stuck in My Head",
       "url": "https://open.spotify.com/track/0oQWm8tjM9RT194in5CMe4"
@@ -11490,6 +11490,24 @@
       "duration_ms": 189019,
       "name": "Tonite",
       "url": "https://open.spotify.com/track/1RQ5RNrzQ5BD3X8idn8KOQ"
+    },
+    {
+      "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/439Uk5AQ2A9SQxvB5CHL4l"
+      },
+      "artists": [
+        {
+          "name": "DAWN \ub358",
+          "url": "https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189662,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/3ZMibEvGGGgBC9diuWS7hA"
     },
     {
       "album": {

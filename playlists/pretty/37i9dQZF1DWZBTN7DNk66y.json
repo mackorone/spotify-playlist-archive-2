@@ -1,12 +1,12 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Rosario Alfonso y San Pedro Bonfim.",
-  "num_followers": 29430,
+  "num_followers": 29433,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHEdvikfNg/5kycA+Nx70HV7BnFi",
+  "snapshot_id": "AAAAAJwOLBXKGa7BBDY1HivcEYKt52OD",
   "tracks": [
     {
       "added_at": "2026-03-10 15:20:53",
@@ -439,18 +439,22 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "los ausentes",
-        "url": "https://open.spotify.com/album/1EtqdQBg0c3m1iVJNctVF9"
+        "name": "Ojos De Fuego",
+        "url": "https://open.spotify.com/album/5SWUp6WuA1XmRHXNzpEToq"
       },
       "artists": [
         {
-          "name": "Juana Aguirre",
-          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+        },
+        {
+          "name": "Matanza",
+          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
         }
       ],
-      "duration_ms": 179635,
-      "name": "los ausentes",
-      "url": "https://open.spotify.com/track/5JgHXc7awzk6q5WoYUjSJj"
+      "duration_ms": 314996,
+      "name": "Ojos De Fuego",
+      "url": "https://open.spotify.com/track/4O0L4QnB2dYlNWa6OydjiQ"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -471,22 +475,18 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Ojos De Fuego",
-        "url": "https://open.spotify.com/album/5SWUp6WuA1XmRHXNzpEToq"
+        "name": "los ausentes",
+        "url": "https://open.spotify.com/album/1EtqdQBg0c3m1iVJNctVF9"
       },
       "artists": [
         {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
-        },
-        {
-          "name": "Matanza",
-          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
         }
       ],
-      "duration_ms": 314996,
-      "name": "Ojos De Fuego",
-      "url": "https://open.spotify.com/track/4O0L4QnB2dYlNWa6OydjiQ"
+      "duration_ms": 179635,
+      "name": "los ausentes",
+      "url": "https://open.spotify.com/track/5JgHXc7awzk6q5WoYUjSJj"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Alma Gitana",
-        "url": "https://open.spotify.com/album/09UYfumzxnNeYgzOtYPwfj"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Viola",
-          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
-        }
-      ],
-      "duration_ms": 171309,
-      "name": "El Oasis",
-      "url": "https://open.spotify.com/track/2Q464tEwoBbA7exfvzPBce"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Qui\u00e9n da M\u00e1s?",
         "url": "https://open.spotify.com/album/40enhfnwfBrUbOxe1QXHjk"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 272010,
       "name": "Qui\u00e9n da M\u00e1s?",
       "url": "https://open.spotify.com/track/0QOBCqqydSvpeapa87Edzw"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Alma Gitana",
+        "url": "https://open.spotify.com/album/09UYfumzxnNeYgzOtYPwfj"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Viola",
+          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
+        }
+      ],
+      "duration_ms": 171309,
+      "name": "El Oasis",
+      "url": "https://open.spotify.com/track/2Q464tEwoBbA7exfvzPBce"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Agua Viva",
-        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
-      },
-      "artists": [
-        {
-          "name": "In\u00e9s Errandonea",
-          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
-        }
-      ],
-      "duration_ms": 110762,
-      "name": "Iuju",
-      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Cenital",
         "url": "https://open.spotify.com/album/0QvnKhLge7VNaO29hCOAFK"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 209917,
       "name": "Cenital",
       "url": "https://open.spotify.com/track/60yhtT4KG6a07BMov9LZKr"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Agua Viva",
+        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Errandonea",
+          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
+        }
+      ],
+      "duration_ms": 110762,
+      "name": "Iuju",
+      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Otra Galaxia",
-        "url": "https://open.spotify.com/album/5RRNnY4IDP1uYewz5AzB1V"
-      },
-      "artists": [
-        {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        }
-      ],
-      "duration_ms": 189940,
-      "name": "Otra Galaxia",
-      "url": "https://open.spotify.com/track/1VVlUSD40U9aOZAiFB0E7k"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "\u00c1rboles",
         "url": "https://open.spotify.com/album/723CHSqVq5WP5MBgmKrtbA"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 139952,
       "name": "Siesta rosa",
       "url": "https://open.spotify.com/track/5hvRrwyKWzVLNe66ZicvTU"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Otra Galaxia",
+        "url": "https://open.spotify.com/album/5RRNnY4IDP1uYewz5AzB1V"
+      },
+      "artists": [
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "duration_ms": 189940,
+      "name": "Otra Galaxia",
+      "url": "https://open.spotify.com/track/1VVlUSD40U9aOZAiFB0E7k"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "Inflexion (En Vivo)",
+        "url": "https://open.spotify.com/album/7uikRUekVt8PqpdM5Q6ZOB"
+      },
+      "artists": [
+        {
+          "name": "An Espil",
+          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
+        }
+      ],
+      "duration_ms": 228789,
+      "name": "Inflexion - En Vivo",
+      "url": "https://open.spotify.com/track/6SttmMPiIprbCMIBW9iW5U"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "Traviarca",
         "url": "https://open.spotify.com/album/0snvLqi4RB3CSATwu9M51v"
       },
@@ -1411,38 +1427,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Inflexion (En Vivo)",
-        "url": "https://open.spotify.com/album/7uikRUekVt8PqpdM5Q6ZOB"
-      },
-      "artists": [
-        {
-          "name": "An Espil",
-          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
-        }
-      ],
-      "duration_ms": 228789,
-      "name": "Inflexion - En Vivo",
-      "url": "https://open.spotify.com/track/6SttmMPiIprbCMIBW9iW5U"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "SOL",
-        "url": "https://open.spotify.com/album/3Pw6e83RiUyQUy1RS8kHKp"
-      },
-      "artists": [
-        {
-          "name": "Fernando Milagros",
-          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
-        }
-      ],
-      "duration_ms": 274748,
-      "name": "Puzzle",
-      "url": "https://open.spotify.com/track/2jQQD23o4uQMCNVLwjKlCU"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Miel",
         "url": "https://open.spotify.com/album/1kOml1kbVw1MjzEFPKCPjP"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 190691,
       "name": "Miel",
       "url": "https://open.spotify.com/track/3ZAAdJvwII0gVVAWdUbnS8"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "SOL",
+        "url": "https://open.spotify.com/album/3Pw6e83RiUyQUy1RS8kHKp"
+      },
+      "artists": [
+        {
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+        }
+      ],
+      "duration_ms": 274748,
+      "name": "Puzzle",
+      "url": "https://open.spotify.com/track/2jQQD23o4uQMCNVLwjKlCU"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Los Ancestros",
-        "url": "https://open.spotify.com/album/2CUmklyaIJvfKBU65k5o24"
-      },
-      "artists": [
-        {
-          "name": "Lucio Mantel",
-          "url": "https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk"
-        },
-        {
-          "name": "La L\u00e1",
-          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
-        }
-      ],
-      "duration_ms": 250723,
-      "name": "Los Ancestros",
-      "url": "https://open.spotify.com/track/7epCtFajoM2z7QtbnY23W2"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Empez\u00e1",
         "url": "https://open.spotify.com/album/4UiDQjquvgXAKNNceTZldp"
       },
@@ -1687,6 +1667,26 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
+        "name": "Los Ancestros",
+        "url": "https://open.spotify.com/album/2CUmklyaIJvfKBU65k5o24"
+      },
+      "artists": [
+        {
+          "name": "Lucio Mantel",
+          "url": "https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk"
+        },
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        }
+      ],
+      "duration_ms": 250723,
+      "name": "Los Ancestros",
+      "url": "https://open.spotify.com/track/7epCtFajoM2z7QtbnY23W2"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
         "name": "Viaje",
         "url": "https://open.spotify.com/album/0axvfQLHypEXhvM6wccZHk"
       },
@@ -1699,26 +1699,6 @@
       "duration_ms": 178576,
       "name": "Soles en la Luna - Ma'\u1ebdna anga",
       "url": "https://open.spotify.com/track/4PHtYJhjIaK1PJHZxF10qJ"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
-        "name": "Desencanto",
-        "url": "https://open.spotify.com/album/4MUR4uKmrMVTVnRrB7MrEZ"
-      },
-      "artists": [
-        {
-          "name": "Mariana Maz\u00fa",
-          "url": "https://open.spotify.com/artist/1NUaigVJs90nBSzQvEttDE"
-        },
-        {
-          "name": "Noelia Sinkunas",
-          "url": "https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF"
-        }
-      ],
-      "duration_ms": 258269,
-      "name": "Desencanto",
-      "url": "https://open.spotify.com/track/28Ogsga4ZqyJGWExacxOsz"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1759,18 +1739,22 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Cantor",
-        "url": "https://open.spotify.com/album/7M4NafwTdGtmjXYDH5Wy5p"
+        "name": "Desencanto",
+        "url": "https://open.spotify.com/album/4MUR4uKmrMVTVnRrB7MrEZ"
       },
       "artists": [
         {
-          "name": "FLORIAN",
-          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+          "name": "Mariana Maz\u00fa",
+          "url": "https://open.spotify.com/artist/1NUaigVJs90nBSzQvEttDE"
+        },
+        {
+          "name": "Noelia Sinkunas",
+          "url": "https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF"
         }
       ],
-      "duration_ms": 211719,
-      "name": "Cantor",
-      "url": "https://open.spotify.com/track/30CfDST2mhTr7UoIktlZLb"
+      "duration_ms": 258269,
+      "name": "Desencanto",
+      "url": "https://open.spotify.com/track/28Ogsga4ZqyJGWExacxOsz"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1791,6 +1775,22 @@
       "duration_ms": 152381,
       "name": "Ba\u00f1era",
       "url": "https://open.spotify.com/track/2QRFcKwr8CZTWScbAGNm2q"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Cantor",
+        "url": "https://open.spotify.com/album/7M4NafwTdGtmjXYDH5Wy5p"
+      },
+      "artists": [
+        {
+          "name": "FLORIAN",
+          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+        }
+      ],
+      "duration_ms": 211719,
+      "name": "Cantor",
+      "url": "https://open.spotify.com/track/30CfDST2mhTr7UoIktlZLb"
     },
     {
       "added_at": "2026-03-10 15:20:53",
@@ -1855,26 +1855,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "SERENATA (En Vivo en Anfitri\u00f3n - TV P\u00fablica)",
-        "url": "https://open.spotify.com/album/0gFDlNWDmcA3HTxN36EXji"
-      },
-      "artists": [
-        {
-          "name": "Nahuel Briones",
-          "url": "https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR"
-        },
-        {
-          "name": "Lito Vitale",
-          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "SERENATA - En Vivo en Anfitri\u00f3n - TV P\u00fablica",
-      "url": "https://open.spotify.com/track/6GpGT7RTOhZ6YTMSDUorv5"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "El Sol Est\u00e1 Mojado",
         "url": "https://open.spotify.com/album/4qIKaK2QH6RHfRdTItl4zY"
       },
@@ -1895,18 +1875,38 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Esperanza/ Nunca te vayas",
-        "url": "https://open.spotify.com/album/0RN51pSdZYAHMKCxmNnUao"
+        "name": "SERENATA (En Vivo en Anfitri\u00f3n - TV P\u00fablica)",
+        "url": "https://open.spotify.com/album/0gFDlNWDmcA3HTxN36EXji"
       },
       "artists": [
         {
-          "name": "Chechi de Marcos",
-          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
+          "name": "Nahuel Briones",
+          "url": "https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR"
+        },
+        {
+          "name": "Lito Vitale",
+          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
         }
       ],
-      "duration_ms": 150200,
-      "name": "Esperanza",
-      "url": "https://open.spotify.com/track/6VD8rUInU3YGMlpeTosHUV"
+      "duration_ms": 264000,
+      "name": "SERENATA - En Vivo en Anfitri\u00f3n - TV P\u00fablica",
+      "url": "https://open.spotify.com/track/6GpGT7RTOhZ6YTMSDUorv5"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Sur",
+        "url": "https://open.spotify.com/album/1ktpb9wyvA5xAt3wP6lCLK"
+      },
+      "artists": [
+        {
+          "name": "Seba Alfaro",
+          "url": "https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk"
+        }
+      ],
+      "duration_ms": 193910,
+      "name": "Cobquecura",
+      "url": "https://open.spotify.com/track/5ZnFgUWXHN7mfxcLWb4adt"
     }
   ],
   "unique_name": "Voces del Sur",

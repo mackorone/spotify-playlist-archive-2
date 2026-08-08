@@ -1,12 +1,12 @@
 {
   "description": "Meet the future of music around the world. Cover: THE DO",
-  "num_followers": 86575,
+  "num_followers": 86577,
   "original_name": "RADAR Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ/g/7Okb8i1G+I8ywmnv0IOdQpL",
+  "snapshot_id": "AAAAAFEnSgpAXRYuqR8PABcl7eNzFnOt",
   "tracks": [
     {
       "added_at": "2026-07-24 13:00:01",
@@ -79,22 +79,6 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/5AMHlJNSFH1czaWSiTVxMZ"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        }
-      ],
-      "duration_ms": 220608,
-      "name": "Summer Nights",
-      "url": "https://open.spotify.com/track/01c7BY8nt9MEgaVdvRCely"
-    },
-    {
-      "added_at": "2026-07-24 13:00:01",
-      "album": {
         "name": "CONTACTO CONTACTO",
         "url": "https://open.spotify.com/album/3CWv28U3V5aGzuTt43nmF9"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 117300,
       "name": "CONTACTO CONTACTO",
       "url": "https://open.spotify.com/track/5QJy18IleL2NVnI9Kfhj5h"
+    },
+    {
+      "added_at": "2026-07-24 13:00:01",
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/5AMHlJNSFH1czaWSiTVxMZ"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "duration_ms": 220608,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/01c7BY8nt9MEgaVdvRCely"
     },
     {
       "added_at": "2026-07-24 13:00:01",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
-        "name": "When the lights turn on",
-        "url": "https://open.spotify.com/album/5qkXXP4wQ0Ope0ebh0fToi"
-      },
-      "artists": [
-        {
-          "name": "MICO",
-          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
-        }
-      ],
-      "duration_ms": 209267,
-      "name": "Your favorite flowers",
-      "url": "https://open.spotify.com/track/2krsl94ohFuchOMv4zsMux"
-    },
-    {
-      "added_at": "2026-07-24 13:00:01",
-      "album": {
         "name": "Solo Ama",
         "url": "https://open.spotify.com/album/0gUiuxsTkqRXZE6IUywRjh"
       },
@@ -239,34 +223,18 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
-        "name": "Multiplied",
-        "url": "https://open.spotify.com/album/1dSUYAnM09cURsfcPWjX0R"
+        "name": "When the lights turn on",
+        "url": "https://open.spotify.com/album/5qkXXP4wQ0Ope0ebh0fToi"
       },
       "artists": [
         {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
         }
       ],
-      "duration_ms": 182463,
-      "name": "Multiplied",
-      "url": "https://open.spotify.com/track/5ElEuV9r3cm5Ny7AX1HmBv"
-    },
-    {
-      "added_at": "2026-07-24 13:00:01",
-      "album": {
-        "name": "Pity",
-        "url": "https://open.spotify.com/album/0ogQlLcNvyYWwZAgR5PdBG"
-      },
-      "artists": [
-        {
-          "name": "rhyu",
-          "url": "https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ"
-        }
-      ],
-      "duration_ms": 177762,
-      "name": "Pity",
-      "url": "https://open.spotify.com/track/5SY2CcJNvfvgKnZMm8XrdT"
+      "duration_ms": 209267,
+      "name": "Your favorite flowers",
+      "url": "https://open.spotify.com/track/2krsl94ohFuchOMv4zsMux"
     },
     {
       "added_at": "2026-07-24 13:00:01",
@@ -287,22 +255,34 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
-        "name": "NYC",
-        "url": "https://open.spotify.com/album/1BZkx0gE9tmfxsv4XTbg93"
+        "name": "Pity",
+        "url": "https://open.spotify.com/album/0ogQlLcNvyYWwZAgR5PdBG"
       },
       "artists": [
         {
-          "name": "Mary Ann Alexander",
-          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
-        },
-        {
-          "name": "Hunna G",
-          "url": "https://open.spotify.com/artist/3K1jwN2afVgJiqwgoT38GP"
+          "name": "rhyu",
+          "url": "https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ"
         }
       ],
-      "duration_ms": 125714,
-      "name": "NYC",
-      "url": "https://open.spotify.com/track/6CXXFkeXci75sGBieR2LKA"
+      "duration_ms": 177762,
+      "name": "Pity",
+      "url": "https://open.spotify.com/track/5SY2CcJNvfvgKnZMm8XrdT"
+    },
+    {
+      "added_at": "2026-07-24 13:00:01",
+      "album": {
+        "name": "Multiplied",
+        "url": "https://open.spotify.com/album/1dSUYAnM09cURsfcPWjX0R"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "duration_ms": 182463,
+      "name": "Multiplied",
+      "url": "https://open.spotify.com/track/5ElEuV9r3cm5Ny7AX1HmBv"
     },
     {
       "added_at": "2026-07-24 13:00:01",
@@ -319,6 +299,26 @@
       "duration_ms": 188181,
       "name": "Bury It",
       "url": "https://open.spotify.com/track/3BEe362K23Vc1bliXqyQ4x"
+    },
+    {
+      "added_at": "2026-07-24 13:00:01",
+      "album": {
+        "name": "NYC",
+        "url": "https://open.spotify.com/album/1BZkx0gE9tmfxsv4XTbg93"
+      },
+      "artists": [
+        {
+          "name": "Mary Ann Alexander",
+          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
+        },
+        {
+          "name": "Hunna G",
+          "url": "https://open.spotify.com/artist/3K1jwN2afVgJiqwgoT38GP"
+        }
+      ],
+      "duration_ms": 125714,
+      "name": "NYC",
+      "url": "https://open.spotify.com/track/6CXXFkeXci75sGBieR2LKA"
     },
     {
       "added_at": "2026-07-24 13:00:01",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
-        "name": "Al\u0131\u015ft\u0131m",
-        "url": "https://open.spotify.com/album/7LrRZONcEPYPRDvwLC1U8M"
-      },
-      "artists": [
-        {
-          "name": "\u00fc\u00e7kuru\u015f",
-          "url": "https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Al\u0131\u015ft\u0131m",
-      "url": "https://open.spotify.com/track/3JTIs7oWHrhfJ9zmF7ALzR"
-    },
-    {
-      "added_at": "2026-07-24 13:00:01",
-      "album": {
         "name": "failed tailors",
         "url": "https://open.spotify.com/album/5WtwPe85WwbgAi3z2fnv05"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 162680,
       "name": "failed tailors",
       "url": "https://open.spotify.com/track/1Wo0SG49zVdZMR72F7N554"
+    },
+    {
+      "added_at": "2026-07-24 13:00:01",
+      "album": {
+        "name": "Al\u0131\u015ft\u0131m",
+        "url": "https://open.spotify.com/album/7LrRZONcEPYPRDvwLC1U8M"
+      },
+      "artists": [
+        {
+          "name": "\u00fc\u00e7kuru\u015f",
+          "url": "https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Al\u0131\u015ft\u0131m",
+      "url": "https://open.spotify.com/track/3JTIs7oWHrhfJ9zmF7ALzR"
     },
     {
       "added_at": "2026-07-24 13:00:01",

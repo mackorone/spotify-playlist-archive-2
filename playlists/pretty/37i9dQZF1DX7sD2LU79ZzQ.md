@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Lafa Pratomo, Feby Putri, Matter Mos
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,763 likes - 113 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,828 likes - 113 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 13 | [Masalahnya](https://open.spotify.com/track/4SVmhidgqzqXEsqp1wkTIS) | [Felicia](https://open.spotify.com/artist/7klnFY1JpF2t0FDcwf4BSS) | [Masalahnya](https://open.spotify.com/album/1yNc1nP57ezJ5FUJgsHxJa) | 4:03 |
 | 14 | [Building](https://open.spotify.com/track/3KeW6p83GJwuNUfegAGH1m) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Building](https://open.spotify.com/album/6TziaCeqD9bpWb2GlyULmW) | 3:58 |
 | 15 | [Background Character](https://open.spotify.com/track/5gRDEnGcUKTiju3DV7hPOf) | [Chris Andrian Yang](https://open.spotify.com/artist/74DSMvAfXpnN3c1KCfvFwQ) | [Background Character](https://open.spotify.com/album/6Wxf10EZwyYyfsnyjoVt6K) | 3:22 |
-| 16 | [Track 5](https://open.spotify.com/track/3l0Jjl2aSgzsMObFEDhbTN) | [Lukas Will](https://open.spotify.com/artist/2CY8nVYLln1sjeOcpp4hC7) | [the best i left behind](https://open.spotify.com/album/7eMW7C6Brs4HyLfzE8mJrk) | 0:00 |
+| 16 | [the best i left behind](https://open.spotify.com/track/3l0Jjl2aSgzsMObFEDhbTN) | [Lukas Will](https://open.spotify.com/artist/2CY8nVYLln1sjeOcpp4hC7) | [the best i left behind](https://open.spotify.com/album/7eMW7C6Brs4HyLfzE8mJrk) | 3:32 |
 | 17 | [Setelan Pabrik](https://open.spotify.com/track/1M4Y2qjqXhiULDcs5nUZek) | [Timun Jelita](https://open.spotify.com/artist/06KrsM9Nic0tGaJRBrJbtn) | [Setelan Pabrik](https://open.spotify.com/album/1x4T0LNgKWLFtoOacfwBHe) | 3:22 |
 | 18 | [Lupain Aku Plis](https://open.spotify.com/track/2kOglow8zWLuTtdktmZZ1W) | [NPD](https://open.spotify.com/artist/1TyOcqrycLx6L5U9ULfW40) | [Lupain Aku Plis](https://open.spotify.com/album/52tMvUN0P8r57eT8rXUe8O) | 4:16 |
 | 19 | [Terbentur](https://open.spotify.com/track/6ZS1HUUDf2MZ6E3GW9JiTC) | [Polka Wars](https://open.spotify.com/artist/18ss7hrVwa5Wgb278tcy8d) | [Terbentur](https://open.spotify.com/album/6bnxxGlVOK4BY3bgScSQ1M) | 4:02 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 112 | [Sama Sama Tau](https://open.spotify.com/track/7EAfwpMk0WWKiMyoKvfPVd) | [Amanda Caesa](https://open.spotify.com/artist/6Vcmx2wpCJzynUTes1ZGP1) | [Sama Sama Tau](https://open.spotify.com/album/3Kweuk4RWAQJ5jJ3Y8MsYp) | 2:59 |
 | 113 | [Unspoken Goodbye](https://open.spotify.com/track/4R2TH8TO2JkjcHbWiQIgoD) | [Jordy Riz](https://open.spotify.com/artist/02b3NF3lcXPtBGDsrWAbfo) | [Never Ours](https://open.spotify.com/album/7IZqcST46LL3ByZTt4nbRu) | 3:36 |
 
-Snapshot ID: `AAAAABMFbjkqHai44imY6BFtENJu7iib`
+Snapshot ID: `AAAAANxTEAeWxfnCxk9Rdo/mkA6ZyBur`

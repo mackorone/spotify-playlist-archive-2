@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/akademiks/">DJ Akademiks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,088 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,085 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUq7EFlkBFv.md) - [plain]
 | 49 | [30 \(feat\. Bizzy Banks\)](https://open.spotify.com/track/5nkzBlt92PJLVEvPXBd9WZ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Faith \(Deluxe\)](https://open.spotify.com/album/1n5t4LXCTAmiJmyMtbBxVU) | 3:48 |
 | 50 | [Ok Ok pt 2](https://open.spotify.com/track/1QCqedB1ibmRO9x7Ikb5LI) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:24 |
 
-Snapshot ID: `AAAAAEaPLDpaX3BBIjLFl1F2b2+y17Js`
+Snapshot ID: `AAAAANFmt1+MFIh7pd74XgB0Vpz5r/iC`

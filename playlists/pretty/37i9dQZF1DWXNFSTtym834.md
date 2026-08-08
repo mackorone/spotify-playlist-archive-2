@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 
 > The biggest metal songs of the 2000s\. Cover: Bullet For My Valentine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,406,796 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,406,894 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,19 +52,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 42 | [Nobody](https://open.spotify.com/track/581mukhDjta60CCwpvnjL9) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 3:56 |
 | 43 | [Lateralus](https://open.spotify.com/track/7tvuLLroI0n6uYBWuFig5d) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Lateralus](https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T) | 9:24 |
 | 44 | [The Heretic Anthem](https://open.spotify.com/track/3OYZWMm5m2DEwq2Tc1ukTh) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa \(10th Anniversary Edition\)](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:14 |
-| 45 | [Die MF Die](https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Life](https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx) | 3:06 |
-| 46 | [The Only](https://open.spotify.com/track/35ZmCVnfYRdK1iLGCxNhMa) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Shadow Zone](https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3) | 2:51 |
+| 45 | [The Only](https://open.spotify.com/track/35ZmCVnfYRdK1iLGCxNhMa) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Shadow Zone](https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3) | 2:51 |
+| 46 | [Die MF Die](https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Life](https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx) | 3:06 |
 | 47 | [Holy Diver](https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:10 |
 | 48 | [Wait](https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH) | [Earshot](https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA) | [Two](https://open.spotify.com/album/0LRzUvkIwBzRFDjKCo2cfe) | 3:33 |
 | 49 | [Bad Company](https://open.spotify.com/track/1UWGkn34CD31VQfdi4D8Zp) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War is the Answer](https://open.spotify.com/album/6UVYgnSnY4ytapGgBY4BzZ) | 4:22 |
 | 50 | [Right Now](https://open.spotify.com/track/19fYhk0wzXqUOoBqkPsYCP) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Take A Look In The Mirror](https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh) | 3:09 |
-| 51 | [Blood and Thunder](https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:48 |
-| 52 | [Rosenrot](https://open.spotify.com/track/50LmbBKCBeDRKYvpR7ApjG) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rosenrot](https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2) | 3:54 |
+| 51 | [Rosenrot](https://open.spotify.com/track/50LmbBKCBeDRKYvpR7ApjG) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rosenrot](https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2) | 3:54 |
+| 52 | [Blood and Thunder](https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:48 |
 | 53 | [Chelsea Smile](https://open.spotify.com/track/3WrJEnn2BDh3QQYdgEyk9Y) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Suicide Season](https://open.spotify.com/album/5gLPHzNPjPb2wfZRx7pwj6) | 5:02 |
 | 54 | [Hand Of Blood](https://open.spotify.com/track/1z3LsJRCvln5qO5TOLduQM) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/58TQcPpRD9XcXhUDWF5P27) | 3:36 |
 | 55 | [St\. Anger](https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [St\. Anger](https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM) | 7:21 |
-| 56 | [The Hand That Feeds](https://open.spotify.com/track/4L5r9XNiWJ7cbqcIiNvVes) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [With Teeth \(Bonus Tracks\)](https://open.spotify.com/album/1PuCoaLQNyCeaLBgGtNyW3) | 3:31 |
-| 57 | [Ich tu dir weh](https://open.spotify.com/track/7ritPWOWvsthxFDxOz1OjH) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \(Special Edition\)](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 5:01 |
+| 56 | [Ich tu dir weh](https://open.spotify.com/track/7ritPWOWvsthxFDxOz1OjH) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \(Special Edition\)](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 5:01 |
+| 57 | [The Hand That Feeds](https://open.spotify.com/track/4L5r9XNiWJ7cbqcIiNvVes) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [With Teeth \(Bonus Tracks\)](https://open.spotify.com/album/1PuCoaLQNyCeaLBgGtNyW3) | 3:31 |
 | 58 | [Hearts on Fire](https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Crimson Thunder](https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi) | 3:51 |
 | 59 | [Here To Stay](https://open.spotify.com/track/66LT15XEqCaWiMG44NGQRE) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untouchables](https://open.spotify.com/album/32H8ZczfX12FWWODVVr6NQ) | 4:30 |
 | 60 | [The Unforgiven III](https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Death Magnetic](https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V) | 7:46 |
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 76 | [I Am Loco](https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [Revolution Revolucion](https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ) | 3:30 |
 | 77 | [Bloodline](https://open.spotify.com/track/27uDL5cAoMijxbDLfaz9Xv) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [God Hates Us All](https://open.spotify.com/album/3MuaoZgcAFuanhg04e75LK) | 3:36 |
 | 78 | [Right Side Of The Bed](https://open.spotify.com/track/2cxbNLOKc9CtQ7hcH88ma3) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Curse \(Deluxe Edition\)](https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL) | 3:42 |
-| 79 | [Get Up Again](https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX) | [Flaw](https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7) | [Through The Eyes](https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM) | 2:56 |
+| 79 | [Oblivion](https://open.spotify.com/track/4Ynr1SPCeUI0W0YPeSFSIK) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:46 |
 | 80 | [Guardians Of Asgaard](https://open.spotify.com/track/2DR9AzDhYeStkHupvU08FC) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Twilight Of The Thunder God](https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz) | 4:23 |
-| 81 | [Oblivion](https://open.spotify.com/track/4Ynr1SPCeUI0W0YPeSFSIK) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:46 |
+| 81 | [Get Up Again](https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX) | [Flaw](https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7) | [Through The Eyes](https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM) | 2:56 |
 | 82 | [Nemesis](https://open.spotify.com/track/27sTzAelgljD6Uxp88BqA3) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 4:12 |
 | 83 | [As I Am](https://open.spotify.com/track/6hz6lrQtLcxOOjflnYjF9o) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Train of Thought](https://open.spotify.com/album/1yAbzShRcY4muLKsX8UWxj) | 7:47 |
 | 84 | [Blood Brothers \- 2015 Remaster](https://open.spotify.com/track/4q9YY8eorYGjpjk3Zko7l9) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Brave New World \(2015 Remaster\)](https://open.spotify.com/album/1hDF0QPIHVTnSJtxyQVguB) | 7:14 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 96 | [Move](https://open.spotify.com/track/5tXPbEbEouMSEbqQHO0qQa) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [The Art Of Breaking](https://open.spotify.com/album/1OfR6MaF4KVFTAe3pMrtYv) | 3:28 |
 | 97 | [The Way You Like It](https://open.spotify.com/track/6adhpSbrhat9S0WEVjf4HP) | [Adema](https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb) | [Adema](https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh) | 3:39 |
 | 98 | [Praise](https://open.spotify.com/track/3fXY1GLVF8QmzbTfNTTaFr) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Animosity](https://open.spotify.com/album/6csmoeDVSefHvffDtIgCw1) | 3:38 |
-| 99 | [Angel](https://open.spotify.com/track/0HSqXHUdHUbDjWxYIClohv) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Angel Of Retribution](https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1) | 4:24 |
-| 100 | [Frantic](https://open.spotify.com/track/2J3XzDLjbXkny8qhr33zTh) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [St\. Anger](https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM) | 5:50 |
+| 99 | [Frantic](https://open.spotify.com/track/2J3XzDLjbXkny8qhr33zTh) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [St\. Anger](https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM) | 5:50 |
+| 100 | [Angel](https://open.spotify.com/track/0HSqXHUdHUbDjWxYIClohv) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Angel Of Retribution](https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1) | 4:24 |
 
-Snapshot ID: `AAAAAAKUjmPB3cmaRlYJY7Af2kg4oHfB`
+Snapshot ID: `AAAAAFICR/ITML5qz0vkGsMduhG5UZks`

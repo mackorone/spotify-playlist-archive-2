@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: FLO
 
-2,454 songs - 5 day 4 hr 57 min
+2,455 songs - 5 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1980,6 +1980,7 @@
 | [Stay The Night](https://open.spotify.com/track/3CsUFsUp5guMgzaU9zSPj9) | [lùisa](https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa) | [Stay The Night](https://open.spotify.com/album/01ZXm2k9PdMIJE8I01gRqM) | 3:58 | 2025-11-27 | 2026-01-15 |
 | [Stay With Me](https://open.spotify.com/track/5Lu0RsvwyI37fzUAjIb6RL) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Stay With Me](https://open.spotify.com/album/5w4Va9YoVAS3MCAiyMbfkR) | 3:47 | 2026-02-26 | 2026-03-20 |
 | [Stem the Flow](https://open.spotify.com/track/2NEJSUekQg1nVvTI0ctJeA) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Stem the Flow](https://open.spotify.com/album/3veAU4R5iCyQrNKRHIvKrE) | 4:03 | 2026-05-07 | 2026-06-06 |
+| [Still](https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:40 | 2026-08-07 |  |
 | [Still Alive](https://open.spotify.com/track/6qHpOFvi7fxmz6ZsnGAHec) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Still Alive](https://open.spotify.com/album/695Glguk9UBEmdqBAr2zw0) | 2:41 | 2024-09-27 | 2024-10-25 |
 | [Still Bad](https://open.spotify.com/track/5UpdcedkGcuishA7jlnH8W) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Still Bad](https://open.spotify.com/album/3DwhFPQWTCMMTbllQrAIpL) | 3:28 | 2025-03-13 | 2025-04-11 |
 | [Still Don't Care](https://open.spotify.com/track/17tuuYUw3K1J9pDe4QrWNo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Still Don't Care](https://open.spotify.com/album/11XiRiJX157BvMuuc9ixuw) | 2:49 | 2025-11-13 | 2025-12-12 |

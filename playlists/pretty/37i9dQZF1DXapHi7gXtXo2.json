@@ -1,12 +1,12 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 94182,
+  "num_followers": 94187,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF1hx/hT9guXU5uFVpLg7esgN3af",
+  "snapshot_id": "AAAAAF1tYzxSIg9lVWfHUKg0pNqjWKk4",
   "tracks": [
     {
       "added_at": "2024-09-20 03:00:00",
@@ -619,22 +619,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "COMETIERRA REMIX",
-        "url": "https://open.spotify.com/album/4IGPLizzYYiDIRG35OMqtZ"
+        "name": "Delorean",
+        "url": "https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t"
       },
       "artists": [
         {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        },
-        {
-          "name": "legallyrxx",
-          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+          "name": "Mi$HNRZ",
+          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
         }
       ],
-      "duration_ms": 180923,
-      "name": "COMETIERRA REMIX",
-      "url": "https://open.spotify.com/track/73fztLrrdzBHSzLs5vubFU"
+      "duration_ms": 188400,
+      "name": "Delorean",
+      "url": "https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -655,18 +651,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Delorean",
-        "url": "https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t"
+        "name": "COMETIERRA REMIX",
+        "url": "https://open.spotify.com/album/4IGPLizzYYiDIRG35OMqtZ"
       },
       "artists": [
         {
-          "name": "Mi$HNRZ",
-          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        },
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
         }
       ],
-      "duration_ms": 188400,
-      "name": "Delorean",
-      "url": "https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP"
+      "duration_ms": 180923,
+      "name": "COMETIERRA REMIX",
+      "url": "https://open.spotify.com/track/73fztLrrdzBHSzLs5vubFU"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Polvo",
-        "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
-      },
-      "artists": [
-        {
-          "name": "Paula Maffia",
-          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
-        }
-      ],
-      "duration_ms": 249797,
-      "name": "Coraz\u00f3n Lic\u00e1ntropo",
-      "url": "https://open.spotify.com/track/4umKG3ktQIBlBcK5gNdn2y"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Ni tan Bien",
         "url": "https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 187690,
       "name": "Buen viaje",
       "url": "https://open.spotify.com/track/2Gb1ym9oVBPzkZA2BAJz3L"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Polvo",
+        "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
+      },
+      "artists": [
+        {
+          "name": "Paula Maffia",
+          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
+        }
+      ],
+      "duration_ms": 249797,
+      "name": "Coraz\u00f3n Lic\u00e1ntropo",
+      "url": "https://open.spotify.com/track/4umKG3ktQIBlBcK5gNdn2y"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "el gil",
-        "url": "https://open.spotify.com/album/5floVE8LEUynVJ14Pr9EHD"
-      },
-      "artists": [
-        {
-          "name": "Camar\u00fa",
-          "url": "https://open.spotify.com/artist/36yItyZJx0Tw3OpFQADb8z"
-        }
-      ],
-      "duration_ms": 272500,
-      "name": "el gil",
-      "url": "https://open.spotify.com/track/0j5MACLCW2AQVh82thXuJ7"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Oler A Ti",
         "url": "https://open.spotify.com/album/0dgD8Uj4j7dPMFoRFX6cZ5"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 225013,
       "name": "Oler A Ti",
       "url": "https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "el gil",
+        "url": "https://open.spotify.com/album/5floVE8LEUynVJ14Pr9EHD"
+      },
+      "artists": [
+        {
+          "name": "Camar\u00fa",
+          "url": "https://open.spotify.com/artist/36yItyZJx0Tw3OpFQADb8z"
+        }
+      ],
+      "duration_ms": 272500,
+      "name": "el gil",
+      "url": "https://open.spotify.com/track/0j5MACLCW2AQVh82thXuJ7"
     },
     {
       "added_at": "2024-09-20 03:00:00",

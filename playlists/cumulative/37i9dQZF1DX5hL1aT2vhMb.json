@@ -2259,6 +2259,32 @@
     },
     {
       "album": {
+        "name": "Fusion",
+        "url": "https://open.spotify.com/album/7vIii6eFrsiID9JpTXFbSs"
+      },
+      "artists": [
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Irene Delgado-Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/5KKt9lmn8yY9NX2jiSecr9"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150853,
+      "name": "Fusion",
+      "url": "https://open.spotify.com/track/1aWeybXlSTrOzD3gXmtrf8"
+    },
+    {
+      "album": {
         "name": "Satie: Gnossienne No. 1 (Arr. Dyens for Guitar)",
         "url": "https://open.spotify.com/album/6A31DVhBwEM8e7W7q2aNL4"
       },
@@ -4610,6 +4636,32 @@
       "duration_ms": 178026,
       "name": "Suite Italienne: II. Serenata",
       "url": "https://open.spotify.com/track/3iFtDNpG0GrscW621Rwibi"
+    },
+    {
+      "album": {
+        "name": "Dalberg: Symphony in C sharp minor: II. Andante sostenuto",
+        "url": "https://open.spotify.com/album/4r2RXF8f5xTXuzSHXUBnB0"
+      },
+      "artists": [
+        {
+          "name": "Nancy Dalberg",
+          "url": "https://open.spotify.com/artist/5c2fprcH1JdoFaXY6zT7kI"
+        },
+        {
+          "name": "Copenhagen Phil",
+          "url": "https://open.spotify.com/artist/5eXrd04vgoNHbdZs5ZTPb6"
+        },
+        {
+          "name": "Thomas Dausgaard",
+          "url": "https://open.spotify.com/artist/58CE0vlZwCJZ8pLzctnt2B"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 520280,
+      "name": "Symphony in C-Sharp Minor: II. Andante sostenuto",
+      "url": "https://open.spotify.com/track/1y2DZfPNArmZeNmQipa1BQ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiDhnQ2IIru.md) - [plain]
 
 > Hit the road to the soundtrack of these seventies classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,400,763 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,401,024 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiDhnQ2IIru.md) - [plain]
 | 22 | [Play That Funky Music](https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl) | [Wild Cherry](https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG) | [Wild Cherry](https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX) | 5:00 |
 | 23 | [Everything I Own](https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Baby I'm\-a Want You](https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5) | 3:07 |
 | 24 | [Lean on Me](https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 4:18 |
-| 25 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(2011 Remaster\)](https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU) | 3:29 |
-| 26 | [Sundown](https://open.spotify.com/track/0SjnBEHZVXgCKvOrpvzL2k) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Sundown](https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y) | 3:33 |
+| 25 | [Sundown](https://open.spotify.com/track/0SjnBEHZVXgCKvOrpvzL2k) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Sundown](https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y) | 3:33 |
+| 26 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(2011 Remaster\)](https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU) | 3:29 |
 | 27 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:37 |
 | 28 | [Life in the Fast Lane \- 2013 Remaster](https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 4:46 |
 | 29 | [Band On The Run \- 2010 Remaster](https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 5:13 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiDhnQ2IIru.md) - [plain]
 | 40 | [Copacabana \(At the Copa\) \- Short Version](https://open.spotify.com/track/5FMXrphygZ4z3gVDHGWxgl) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Dance Vault Mixes \- Copacabana \(At The Copa\)](https://open.spotify.com/album/52Ho5XgGwrNrPARqqXhJ5P) | 3:56 |
 | 41 | [Best of My Love](https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Rejoice](https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA) | 3:40 |
 | 42 | [Let Your Love Flow](https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Bellamy Brothers](https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0) | 3:16 |
-| 43 | [You Make Me Feel Like Dancing \- Remastered](https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Endless Flight](https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ) | 3:39 |
-| 44 | [Boys Don't Cry](https://open.spotify.com/track/2RKDbMwtJgKc76H9oPo7Cl) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Greatest Hits](https://open.spotify.com/album/34ozkv3AkFksZD8srOmOrX) | 2:37 |
+| 43 | [Boys Don't Cry](https://open.spotify.com/track/2RKDbMwtJgKc76H9oPo7Cl) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Greatest Hits](https://open.spotify.com/album/34ozkv3AkFksZD8srOmOrX) | 2:37 |
+| 44 | [You Make Me Feel Like Dancing \- Remastered](https://open.spotify.com/track/6gTrbqZnyljwXdYQTyBkSx) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Endless Flight](https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ) | 3:39 |
 | 45 | [Venus](https://open.spotify.com/track/0Z3xhSOhrawLV81YdiDiiJ) | [Shocking Blue](https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk) | [At Home](https://open.spotify.com/album/2vbAImlNuDjPBMdU6T1oRQ) | 3:07 |
 | 46 | [Moondance \- 2013 Remaster](https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance \(Deluxe Edition\)](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) | 4:34 |
 | 47 | [Hurricane](https://open.spotify.com/track/1lqMLr9Wj7SM2F9AikGcxN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 8:32 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiDhnQ2IIru.md) - [plain]
 | 76 | [Lake Shore Drive](https://open.spotify.com/track/46MX86XQqYCZRvwPpeq4Gi) | [Aliotta Haynes Jeremiah](https://open.spotify.com/artist/4VmWYQQ5M9N9AiAx14v2yg) | [Lake Shore Drive](https://open.spotify.com/album/24NY6n4z0tDzpt8QCiWEGV) | 3:55 |
 | 77 | [Maybe I’m Amazed \- Remastered 2011](https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney \(Archive Collection\)](https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT) | 3:49 |
 | 78 | [Magic Man](https://open.spotify.com/track/4sUlsy0tPv9n5nqrqeA0lE) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 5:28 |
-| 79 | [Silly Love Songs \- 2014 Remaster](https://open.spotify.com/track/3uiMBldZ07pW0ySHDX5gzE) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [At the Speed of Sound \(Archive Collection\)](https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D) | 5:54 |
-| 80 | [O\-o\-h Child](https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb) | [The Five Stairsteps](https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S) | [The First Family of Soul: The Best of The Five Stairsteps](https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid) | 3:17 |
+| 79 | [O\-o\-h Child](https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb) | [The Five Stairsteps](https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S) | [The First Family of Soul: The Best of The Five Stairsteps](https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid) | 3:17 |
+| 80 | [Silly Love Songs \- 2014 Remaster](https://open.spotify.com/track/3uiMBldZ07pW0ySHDX5gzE) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [At the Speed of Sound \(Archive Collection\)](https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D) | 5:54 |
 | 81 | [Friend of the Devil](https://open.spotify.com/track/5ZLzl6T8JwqMTMdoE0nCbU) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [American Beauty](https://open.spotify.com/album/7rqgm1BnAZ8I4d6hukpkdg) | 3:21 |
 | 82 | [Almost Cut My Hair](https://open.spotify.com/track/0gCJkpD0RhF2rjiALLHBQL) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 4:29 |
 | 83 | [Drift Away \- Single Version](https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP) | [Dobie Gray](https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV) | [Ultimate Collection: Dobie Gray](https://open.spotify.com/album/4EuAVxsazdEFr5ylShtllS) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiDhnQ2IIru.md) - [plain]
 | 99 | [Don't Stop \- 2004 Remaster](https://open.spotify.com/track/3CPeWqqaHR0hmyfsWhMJQs) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 3:13 |
 | 100 | [Stay with Me](https://open.spotify.com/track/7fLTytvnvxy653VWxflTRf) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [A Nod Is as Good as a Wink..\. to a Blind Horse](https://open.spotify.com/album/3mvdHEE56sgj1NtTnTF8qK) | 4:39 |
 
-Snapshot ID: `AAAAAJwDSJEHxqd4IKDsa21LaA+SGizI`
+Snapshot ID: `AAAAAEjIWUlzjGobHLNnBRJu3AfWwYYI`

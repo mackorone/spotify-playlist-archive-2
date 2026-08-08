@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGeEU3DbvDJ.md) - [plain]
 
 > The BBMAs returns with performances from your favorite chart\-topping artists! Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,313 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,307 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGeEU3DbvDJ.md) - [plain]
 | 37 | [Igual Que Un Ángel \(with Peso Pluma\)](https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 4:20 |
 | 38 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 |
 | 39 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 |
-| 40 | [In Between](https://open.spotify.com/track/3vA24UtKMDGaK5KkzsulYD) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Have A Nice Day](https://open.spotify.com/album/2xXY6j7QVSz6rpqEU9q1Ha) | 3:40 |
-| 41 | [Best Time](https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 1:22 |
+| 40 | [Best Time](https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 1:22 |
+| 41 | [In Between](https://open.spotify.com/track/3vA24UtKMDGaK5KkzsulYD) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Have A Nice Day](https://open.spotify.com/album/2xXY6j7QVSz6rpqEU9q1Ha) | 3:40 |
 | 42 | [CRAZY](https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY \(Party Remixes 1\)](https://open.spotify.com/album/6kAsgfuulBOuyYLytWX7e2) | 2:44 |
 | 43 | [CLASSY 101](https://open.spotify.com/track/1hZsWUnLbqRw09jLAMQSsb) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:15 |
 | 44 | [Wanna Be Loved](https://open.spotify.com/track/0htNDNNRkFmQuESkq4eoqj) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Made by These Moments](https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe) | 3:37 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGeEU3DbvDJ.md) - [plain]
 | 68 | [Counting My Blessings](https://open.spotify.com/track/2iqyErkSp4WMehvFy7FDID) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Counting My Blessings](https://open.spotify.com/album/4t6WQgunJKOb6ieHMXDD2P) | 3:29 |
 | 69 | [No Caller ID](https://open.spotify.com/track/2TOO5Dp8mlKhSq8xTGPXwX) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:28 |
 | 70 | [That's Who I Praise](https://open.spotify.com/track/3gVYa5bvsuvBegKEIEY8Mk) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [That's Who I Praise](https://open.spotify.com/album/4xgkNyFFCIWLi8RC6dTlCR) | 3:48 |
-| 71 | [For Cryin' Out Loud!](https://open.spotify.com/track/4nsd2DbMYqRwkvIQ51r4cp) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7) | 3:37 |
-| 72 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 |
-| 73 | [BELLAKEO](https://open.spotify.com/track/5Fohh8kl8403DSoq4KH7Ll) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 3:17 |
+| 71 | [BELLAKEO](https://open.spotify.com/track/5Fohh8kl8403DSoq4KH7Ll) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 3:17 |
+| 72 | [For Cryin' Out Loud!](https://open.spotify.com/track/4nsd2DbMYqRwkvIQ51r4cp) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7) | 3:37 |
+| 73 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 |
 | 74 | [In Jesus Name \(God Of Possible\)](https://open.spotify.com/track/18lQZaMVdNa4qwbi3tHPKP) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Jesus Changed My Life](https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82) | 3:42 |
 | 75 | [Ronald](https://open.spotify.com/track/2eKoPnGnuHqIpfph45z44W) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Alex Terrible](https://open.spotify.com/artist/5imFWt9rzlx5iGqS58ArtO) | [Popular Monster](https://open.spotify.com/album/2knEuvsxqHMAoxlQpIdpQD) | 3:16 |
 | 76 | [greedy](https://open.spotify.com/track/4kfSXPK13aXkLzuz02hCSC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGeEU3DbvDJ.md) - [plain]
 | 99 | [Angel Numbers / Ten Toes](https://open.spotify.com/track/6WUkjtKniX6z1JpH3twAry) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 5:06 |
 | 100 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/3MhdQkxCOkM41Q7oPFIABJ) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:37 |
 
-Snapshot ID: `AAAAAPLC0hBAXD7YEcpE0dY9BLCbqfgc`
+Snapshot ID: `AAAAAKvV2wJziWkJ2L1Ja8MhvAs866eW`

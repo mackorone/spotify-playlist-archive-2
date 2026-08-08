@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,693 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,691 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 51 | [Chase](https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [CHASE \- The 1st Mini Album](https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S) | 3:26 |
 | 52 | [Turn Off Your Phone \(Feat\. ELO\) \- Remix](https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [ELO](https://open.spotify.com/artist/33fY1P5TsAeEK2VgATvz1A) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 4:03 |
 | 53 | [Pick up your phone \(Feat\. MOON\)](https://open.spotify.com/track/5FMPLl79EfOnRZ4xn2Mck0) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 3:05 |
-| 54 | [Flicker \(Feat\. Car, the garden\)](https://open.spotify.com/track/1llrs3s4loOC4eMaV1yc1x) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [B side](https://open.spotify.com/album/7sEUUITszL8AQptgMEUrkz) | 3:17 |
-| 55 | [Habit](https://open.spotify.com/track/1RQqbSlookHZBgm5Cf3Sg4) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [OVERDRIVE](https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1) | 3:04 |
+| 54 | [Habit](https://open.spotify.com/track/1RQqbSlookHZBgm5Cf3Sg4) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [OVERDRIVE](https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1) | 3:04 |
+| 55 | [Flicker \(Feat\. Car, the garden\)](https://open.spotify.com/track/1llrs3s4loOC4eMaV1yc1x) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [B side](https://open.spotify.com/album/7sEUUITszL8AQptgMEUrkz) | 3:17 |
 | 56 | [Inside](https://open.spotify.com/track/2DQExJcuyW8ZuDIcOBx0EG) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Archive 1: \[Road Runner\]](https://open.spotify.com/album/7vD1S5S2T4qHQzAAmZaSwl) | 3:07 |
 | 57 | [Rebound](https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [SET](https://open.spotify.com/album/5FCXsnwWOFHbdIR13XYONv) | 2:58 |
 | 58 | [Hug Me](https://open.spotify.com/track/7J28iQgZUf4sCfGKRFUazO) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Crush on You](https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY) | 3:42 |
 | 59 | [At Night \(feat\. Kuzi\)](https://open.spotify.com/track/64biPdxhHIxYkFy5OSydKK) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [kuzi](https://open.spotify.com/artist/5rLQsLxJ2fFYVqH84xH7Oj) | [Stranger](https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6) | 2:23 |
 | 60 | [ERYKAH BADU \(Feat\. CAMO\)](https://open.spotify.com/track/5Ovvat3uPyNMFKPO63fD3O) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [WHAT HAVE WE DONE](https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT) | 2:44 |
 
-Snapshot ID: `AAAAAPij6hBVrv8HTOB+XkRe9Ro3dPa9`
+Snapshot ID: `AAAAAIlkwRnChKHGB6ckNpudqKdQzQ6B`

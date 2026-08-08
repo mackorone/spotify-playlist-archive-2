@@ -425,6 +425,28 @@
     },
     {
       "album": {
+        "name": "Alaakaa Loova (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Tamil]",
+        "url": "https://open.spotify.com/album/1QxshnBv2N7xiC2OmGpldW"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Rokesh",
+          "url": "https://open.spotify.com/artist/6R33h8YbB5fFg8RdJdQ6bL"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210197,
+      "name": "Alaakaa Loova (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Tamil]",
+      "url": "https://open.spotify.com/track/0JiGoqPHbvK65rBHadXYoB"
+    },
+    {
+      "album": {
         "name": "Ponniyin Selvan Part-1 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6efDS3Pp3DUkDnr5XgPyMN"
       },
@@ -720,6 +742,32 @@
       "duration_ms": 237235,
       "name": "Bullet Song (From \"The Warriorr \")(Tamil)",
       "url": "https://open.spotify.com/track/78g1KU3zvKQLS5emtG9Xiu"
+    },
+    {
+      "album": {
+        "name": "DC (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vedan",
+          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
+        },
+        {
+          "name": "Heisenberg",
+          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Bum Baa Diga Diga",
+      "url": "https://open.spotify.com/track/7sNHxjkI4mzpmz6ZVS6TF7"
     },
     {
       "album": {
@@ -1288,6 +1336,28 @@
       "duration_ms": 230400,
       "name": "Golden Sparrow (From \"Nilavuku En Mel Ennadi Kobam\")",
       "url": "https://open.spotify.com/track/3dHP1GUSR19PB1baWz37LN"
+    },
+    {
+      "album": {
+        "name": "DC (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Heisenberg",
+          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247816,
+      "name": "Hangova",
+      "url": "https://open.spotify.com/track/1W8MIxJT69pJTJpAbmIBGM"
     },
     {
       "album": {
@@ -3619,6 +3689,24 @@
     },
     {
       "album": {
+        "name": "DC (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131250,
+      "name": "Raga of Revenge",
+      "url": "https://open.spotify.com/track/6bbJpVAKx6JPAKaMFmaxvC"
+    },
+    {
+      "album": {
         "name": "Raga of Revenge (From \"DC\")",
         "url": "https://open.spotify.com/album/0E0UiqvTJlvYqnEaLuTaL8"
       },
@@ -3630,7 +3718,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 131250,
       "name": "Raga of Revenge (From \"DC\")",
       "url": "https://open.spotify.com/track/4cVgfaHzVDu3srYfJEP0AN"

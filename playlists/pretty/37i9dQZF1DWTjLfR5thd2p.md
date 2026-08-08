@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 
 > Unwind and enjoy the long summer evenings
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,761 likes - 126 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,816 likes - 126 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 | 125 | [Op Reis \(Traveling\)](https://open.spotify.com/track/7s90rbo8Hwm92XghvPxU3e) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Op Reis \(Traveling\)](https://open.spotify.com/album/5x1nANAZwlk8mtOLO8IDXm) | 3:39 |
 | 126 | [Ma meilleure année](https://open.spotify.com/track/6cxJxS35yFpNdN40G9hIw5) | [Amour Lesauvage](https://open.spotify.com/artist/6qx6GDbg4utV2vDQvS2I4k) | [Ma meilleure année](https://open.spotify.com/album/30w5d5wLvQ3zkV9jXAAded) | 2:35 |
 
-Snapshot ID: `AAAAAAX15kjp/mWxT48a+/gXSs4vad1K`
+Snapshot ID: `AAAAAJYcomU1E/j/vXVfEMI4QqGnfDHq`

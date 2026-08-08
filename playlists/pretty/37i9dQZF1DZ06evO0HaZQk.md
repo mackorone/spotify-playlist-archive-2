@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HaZQk.md) - [plain]
 
 > This is Natalia Lafourcade\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,372 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,377 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HaZQk.md) - [plain]
 | 45 | [Amarte Duele](https://open.spotify.com/track/6MjhVHsInlmsPlEJ3KmfP6) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [En el 2000](https://open.spotify.com/album/5C2bUVAqDyZOm63TxgGsJU) | 4:05 |
 | 46 | [Mi manera de querer](https://open.spotify.com/track/2rT9arG3oKOPquWNik5l73) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 3:53 |
 | 47 | [Son Amores \(That's Amore\) \(feat\. Los Macorinos\)](https://open.spotify.com/track/10HQmG706HZtAhXRypWw01) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol\. 1\)](https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt) | 3:44 |
-| 48 | [Una Mañana \(with Natalia Lafourcade\)](https://open.spotify.com/track/2ooHEUx2reFH7jzhgpGQ77) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [José José Duetos Volumen 1](https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT) | 2:59 |
-| 49 | [Caótica Belleza](https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:57 |
+| 48 | [Caótica Belleza](https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:57 |
+| 49 | [Una Mañana \(with Natalia Lafourcade\)](https://open.spotify.com/track/2ooHEUx2reFH7jzhgpGQ77) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [José José Duetos Volumen 1](https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT) | 2:59 |
 | 50 | [De todas las flores](https://open.spotify.com/track/3MAHwAmag1U1gLLuvEQNHU) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 5:22 |
 
-Snapshot ID: `anJ9AAAAAAAwywOD1hmIBa4aIJzRVRAf`
+Snapshot ID: `anPOgAAAAADnyrInVNrbhbz8+m6tTwjK`

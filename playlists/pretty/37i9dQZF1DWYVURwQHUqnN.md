@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Soolking
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,156,959 likes - 60 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,156,909 likes - 60 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 59 | [Ma vie est savage](https://open.spotify.com/track/5mLPJN1Q9nPUyY2j8ROBGU) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua), [Linema](https://open.spotify.com/artist/1JLLmatqNVWI9Ta5bIEvbl) | [Ma vie est savage](https://open.spotify.com/album/2oYh8xhIUK2vVtDB16ZuPh) | 2:50 |
 | 60 | [Pas bénef](https://open.spotify.com/track/0Yj8YEKajzJLetLzQA0DxK) | [JKSN](https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE) | [Pas bénef](https://open.spotify.com/album/2z1vNsKXAA72YzqFrAHd7s) | 2:38 |
 
-Snapshot ID: `AAAAAJ+QQw8acnTAkD5+m19uZKCMmz5H`
+Snapshot ID: `AAAAAKMCCQQWE4wPCujm+fI7Inyme7ni`

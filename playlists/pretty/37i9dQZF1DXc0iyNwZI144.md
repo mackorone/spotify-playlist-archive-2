@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 
 > A melhor trilha sonora pra se preparar pros dias mais quentes do ano!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,024,840 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,024,798 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 | 13 | [China](https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [China](https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh) | 5:01 |
 | 14 | [Promises \(with Sam Smith\)](https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Promises \(with Sam Smith\)](https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1) | 3:33 |
 | 15 | [Summer Days \(feat\. Macklemore & Patrick Stump of Fall Out Boy\)](https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Summer Days \(feat\. Macklemore & Patrick Stump of Fall Out Boy\)](https://open.spotify.com/album/0xbuJLlb5afBcmCpdOaszR) | 2:43 |
-| 16 | [Be Mine](https://open.spotify.com/track/2KklXplRtxMsBYo474Es0w) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Be Mine](https://open.spotify.com/album/3tD94EmwfRLAX1SaZQvDhC) | 2:41 |
-| 17 | [Something Just Like This](https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Something Just Like This](https://open.spotify.com/album/7IzpJkWQqgz1BTutQvSitX) | 4:07 |
+| 16 | [Something Just Like This](https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Something Just Like This](https://open.spotify.com/album/7IzpJkWQqgz1BTutQvSitX) | 4:07 |
+| 17 | [Be Mine](https://open.spotify.com/track/2KklXplRtxMsBYo474Es0w) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Be Mine](https://open.spotify.com/album/3tD94EmwfRLAX1SaZQvDhC) | 2:41 |
 | 18 | [Higher Love](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Higher Love](https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE) | 3:48 |
 | 19 | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/track/27rdGxbavYJeBphck5MZAF) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/album/2hBfao8GWZwHlUGDB8HVQO) | 3:37 |
 | 20 | [Swalla \(feat\. Nicki Minaj & Ty Dolla $ign\)](https://open.spotify.com/track/6kex4EBAj0WHXDKZMEJaaF) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Swalla \(feat\. Nicki Minaj & Ty Dolla $ign\)](https://open.spotify.com/album/2e5CxfyEwBW115beiwh7Mc) | 3:36 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0iyNwZI144.md) - [plain]
 | 69 | [Cry Dancing](https://open.spotify.com/track/7g2uEIBiSXUNkLmEUCv5nq) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Cry Dancing](https://open.spotify.com/album/6PLgk4A3mMtYCuYSwiQ4pl) | 2:59 |
 | 70 | [Metaphor](https://open.spotify.com/track/1UTXQrmAL4oladIwc1PWSh) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Metaphor](https://open.spotify.com/album/2ds371eeP7JXPUhBCk26eH) | 3:22 |
 
-Snapshot ID: `AAAAAPnaS252yGMz+A3DF8G1vEikr5LT`
+Snapshot ID: `AAAAAKwBlshi4UtmLZ+76tB9fdDqSsEl`

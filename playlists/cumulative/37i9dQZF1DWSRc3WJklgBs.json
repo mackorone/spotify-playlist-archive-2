@@ -24089,6 +24089,28 @@
     },
     {
       "album": {
+        "name": "Return to Ojai",
+        "url": "https://open.spotify.com/album/5HiSFg20JTQ5KTcD5Xsini"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        },
+        {
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259480,
+      "name": "Return to Ojai",
+      "url": "https://open.spotify.com/track/3g70GmoZQlHPOTIkPUxLd9"
+    },
+    {
+      "album": {
         "name": "Revelations",
         "url": "https://open.spotify.com/album/6qYPN9DGpfMYQiPItLUjwN"
       },
@@ -28302,6 +28324,28 @@
       "duration_ms": 232995,
       "name": "Synapse Dynamics",
       "url": "https://open.spotify.com/track/7149PzASMowluOarCWzZcv"
+    },
+    {
+      "album": {
+        "name": "SYW (feat. Cecile Believe)",
+        "url": "https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        },
+        {
+          "name": "Cecile Believe",
+          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166840,
+      "name": "SYW (feat. Cecile Believe)",
+      "url": "https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V"
     },
     {
       "album": {

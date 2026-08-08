@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdiK4WAVRUW.md) - [plain]
 
 > We're celebrating the 10th anniversary of  Maren Morris' album "HERO" on 2010s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 669,757 likes - 150 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 669,796 likes - 150 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdiK4WAVRUW.md) - [plain]
 | 26 | [Night Shift](https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 2:52 |
 | 27 | [Hurricane](https://open.spotify.com/track/6xHI9KjUjYT0FPtGO8Mxa1) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 3:43 |
 | 28 | [Cruise](https://open.spotify.com/track/0i5el041vd6nxrGEU8QRxy) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:28 |
-| 29 | [Barefoot Blue Jean Night](https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Barefoot Blue Jean Night](https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ) | 2:49 |
+| 29 | [In Case You Didn't Know](https://open.spotify.com/track/10M2Ex445zw585Ducldzkw) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Brett Young](https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5) | 3:44 |
 | 30 | [Merry Go 'Round](https://open.spotify.com/track/5UDqWOgDdixYMAgAyNbpgh) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:26 |
-| 31 | [In Case You Didn't Know](https://open.spotify.com/track/10M2Ex445zw585Ducldzkw) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Brett Young](https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5) | 3:44 |
+| 31 | [Barefoot Blue Jean Night](https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Barefoot Blue Jean Night](https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ) | 2:49 |
 | 32 | [One Number Away](https://open.spotify.com/track/4gB7HrYHbJVJ5RFOjxmoq4) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 3:42 |
 | 33 | [Girl In A Country Song](https://open.spotify.com/track/1GRiBe0kNCNYpjwCHIyynI) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Start Here](https://open.spotify.com/album/3MpmJPwKgMQ6hkGVlRwOpj) | 3:37 |
 | 34 | [Die A Happy Man](https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:47 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdiK4WAVRUW.md) - [plain]
 | 42 | [Every Little Thing](https://open.spotify.com/track/1Dm4iAvqwYrZjgSFJNW5TG) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Every Little Thing \(Big Machine Radio Release Special\)](https://open.spotify.com/album/39oSpHIfcM8sHBWh9340Aj) | 3:01 |
 | 43 | [Gettin' You Home](https://open.spotify.com/track/28Sc21lrWcZD9Ov4rRkPJq) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [The Man I Want To Be](https://open.spotify.com/album/6Aormv05kybauFdXCzUEcH) | 3:32 |
 | 44 | [Blown Away](https://open.spotify.com/track/0vFMQi8ZnOM2y8cuReZTZ2) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 4:00 |
-| 45 | [Somewhere With You](https://open.spotify.com/track/3pkzJjJXfdDjhpXx639MIH) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Hemingway's Whiskey](https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7) | 4:03 |
-| 46 | [Hard To Love](https://open.spotify.com/track/6E9V9TRlVOLjenGjHemzEH) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hard 2 Love](https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP) | 3:44 |
-| 47 | [House Party](https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:10 |
+| 45 | [Hard To Love](https://open.spotify.com/track/6E9V9TRlVOLjenGjHemzEH) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hard 2 Love](https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP) | 3:44 |
+| 46 | [Somewhere With You](https://open.spotify.com/track/3pkzJjJXfdDjhpXx639MIH) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Hemingway's Whiskey](https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7) | 4:03 |
+| 47 | [Why Don't We Just Dance](https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Haywire](https://open.spotify.com/album/4AwUix40p2isD6wvEBPpQ8) | 3:12 |
 | 48 | [Burning House](https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:51 |
-| 49 | [Why Don't We Just Dance](https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Haywire](https://open.spotify.com/album/4AwUix40p2isD6wvEBPpQ8) | 3:12 |
+| 49 | [House Party](https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:10 |
 | 50 | [Talladega](https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [The Outsiders](https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj) | 4:22 |
 | 51 | [Take A Back Road](https://open.spotify.com/track/7B6m8tHAYZsOKOKMU5SR2n) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [Take A Back Road](https://open.spotify.com/album/2qLz69eIC6A7GggjGvxEMp) | 3:28 |
 | 52 | [Tequila](https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:16 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdiK4WAVRUW.md) - [plain]
 | 71 | [American Honey](https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA) | 3:44 |
 | 72 | [Farmer's Daughter](https://open.spotify.com/track/5zGqTc1WQUe8XqqdnrpKTV) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [It's America](https://open.spotify.com/album/1bWrDfZLiqzpac2iNiFAJH) | 3:25 |
 | 73 | [Made in America](https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Clancy's Tavern](https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C) | 3:13 |
-| 74 | [Round Here](https://open.spotify.com/track/5T6DM9qjjngWnukcw0svkX) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:35 |
-| 75 | [Come Back Song](https://open.spotify.com/track/4sHOAALFZiNa4wukjPSBpq) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Charleston, SC 1966](https://open.spotify.com/album/6JfkOQdTGmLEwQvybMNMup) | 3:55 |
+| 74 | [Come Back Song](https://open.spotify.com/track/4sHOAALFZiNa4wukjPSBpq) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Charleston, SC 1966](https://open.spotify.com/album/6JfkOQdTGmLEwQvybMNMup) | 3:55 |
+| 75 | [Round Here](https://open.spotify.com/track/5T6DM9qjjngWnukcw0svkX) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:35 |
 | 76 | [My Girl](https://open.spotify.com/track/3izNaTiYdotdPL0Bs76JqO) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Dylan Scott \(Deluxe Edition\)](https://open.spotify.com/album/2zSuxzKE7PIi9LhCk3uL6o) | 3:17 |
 | 77 | [Chillin' It](https://open.spotify.com/track/0Utg7sirTPqrs6Cx0FbriQ) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Cole Swindell](https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH) | 3:16 |
 | 78 | [Honey Bee](https://open.spotify.com/track/0gY2iq0xJPRoIB1PScKSw4) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Red River Blue \(Deluxe Edition\)](https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ) | 3:30 |
@@ -97,9 +97,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdiK4WAVRUW.md) - [plain]
 | 87 | [Snapback](https://open.spotify.com/track/7I5fYc4qKJddht8Ozhqqdx) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Meat and Candy](https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf) | 3:26 |
 | 88 | [Just A Kiss](https://open.spotify.com/track/2OXidlnDThZR3zf36k6DVL) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Own The Night](https://open.spotify.com/album/2OecGqWoNWvW2VH4HUixjo) | 3:38 |
 | 89 | [Crash and Burn](https://open.spotify.com/track/2Fk0WwAqTBesLtKg97nojy) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:10 |
-| 90 | [Sunshine & Whiskey](https://open.spotify.com/track/6aNwDe5YH5YUPlpHkku52w) | [Frankie Ballard](https://open.spotify.com/artist/0dvKgSdNB2U1gfp6ZcekYi) | [Sunshine & Whiskey](https://open.spotify.com/album/5VYrfPF3z9311jpQYEWjof) | 3:02 |
-| 91 | [Leave The Night On](https://open.spotify.com/track/3wx2kQWPn9p5UppQbNhPAk) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:12 |
-| 92 | [It Don't Hurt Like It Used To](https://open.spotify.com/track/0iA1unTbTbDOWUSlbwJ1pS) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Summer Forever](https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW) | 3:04 |
+| 90 | [It Don't Hurt Like It Used To](https://open.spotify.com/track/0iA1unTbTbDOWUSlbwJ1pS) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Summer Forever](https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW) | 3:04 |
+| 91 | [Sunshine & Whiskey](https://open.spotify.com/track/6aNwDe5YH5YUPlpHkku52w) | [Frankie Ballard](https://open.spotify.com/artist/0dvKgSdNB2U1gfp6ZcekYi) | [Sunshine & Whiskey](https://open.spotify.com/album/5VYrfPF3z9311jpQYEWjof) | 3:02 |
+| 92 | [Leave The Night On](https://open.spotify.com/track/3wx2kQWPn9p5UppQbNhPAk) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:12 |
 | 93 | [Better Man](https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Breaker](https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh) | 4:23 |
 | 94 | [Get Me Some Of That](https://open.spotify.com/track/4O1CExxinEpKZi3861NlTK) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [It Goes Like This](https://open.spotify.com/album/2ZHYOFW5giX6a4n5eqTnUB) | 3:07 |
 | 95 | [Stuck Like Glue](https://open.spotify.com/track/0JcKdUGNR7zI4jJDLyYXbi) | [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD) | [The Incredible Machine](https://open.spotify.com/album/6tRJWFLsUW4HuiXHlOSnwf) | 4:07 |
@@ -153,10 +153,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdiK4WAVRUW.md) - [plain]
 | 143 | [Then](https://open.spotify.com/track/3XKbdb9GB6u3hsnUklQTav) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [American Saturday Night](https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x) | 5:21 |
 | 144 | [Black](https://open.spotify.com/track/2lFtnEmkIPm2ClN55e2chV) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Black](https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux) | 3:31 |
 | 145 | [Beachin'](https://open.spotify.com/track/5dNGORzxFb5z3v7vSAFkTU) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Days of Gold](https://open.spotify.com/album/59ePhOhLFvSOFG4L5FRGzp) | 3:11 |
-| 146 | [Better Dig Two](https://open.spotify.com/track/3z0a8G407NbxfjTRffvQiP) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [Pioneer](https://open.spotify.com/album/4oXEoK7WVM1lNbmB59IrJ1) | 3:14 |
-| 147 | [Drunk on Your Love](https://open.spotify.com/track/1jNNHFZmRGXZFHlil5uhei) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Illinois](https://open.spotify.com/album/5Og3UBs6tCL47yee1ukYgw) | 2:53 |
+| 146 | [Drunk on Your Love](https://open.spotify.com/track/1jNNHFZmRGXZFHlil5uhei) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Illinois](https://open.spotify.com/album/5Og3UBs6tCL47yee1ukYgw) | 2:53 |
+| 147 | [Better Dig Two](https://open.spotify.com/track/3z0a8G407NbxfjTRffvQiP) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [Pioneer](https://open.spotify.com/album/4oXEoK7WVM1lNbmB59IrJ1) | 3:14 |
 | 148 | [Cop Car](https://open.spotify.com/track/5vCgOg9VqRaAUbnflCO6P3) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Fuse \(Deluxe Edition\)](https://open.spotify.com/album/6LJH0InZpmgymwZ3hpsUYD) | 4:16 |
 | 149 | [You Don't Know Her Like I Do](https://open.spotify.com/track/4WnY4W5KrqglCdIus8X9Bo) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Halfway To Heaven \(Deluxe Edition\)](https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p) | 4:46 |
 | 150 | [Mine Would Be You](https://open.spotify.com/track/1zvQt99d5oTkEQLmSoO1yu) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Based on a True Story..\. \(Deluxe Edition\)](https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0) | 3:59 |
 
-Snapshot ID: `AAAAAOJ+ievic6BOU4cI3FNYPBje2J8g`
+Snapshot ID: `AAAAAFIs2AX6bBqS/DUxffMNOdcQhX97`

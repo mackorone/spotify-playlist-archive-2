@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 28519,
+  "num_followers": 28528,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE6Krh49R0fXiZslzlnZCP2EWkNw",
+  "snapshot_id": "AAAAAJvFLJktit8EGjn6H8VnTCgLo+z8",
   "tracks": [
     {
       "added_at": "2025-12-15 11:35:26",
@@ -219,30 +219,6 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
-        "name": "R. Strauss & Wagner: Lieder",
-        "url": "https://open.spotify.com/album/1NmpagLKKKQRweZly1Jmjd"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Adrianne Pieczonka",
-          "url": "https://open.spotify.com/artist/0i7wTrA2VeXFoVT8AsEmIj"
-        },
-        {
-          "name": "Brian Zeger",
-          "url": "https://open.spotify.com/artist/34c8ESHUzusi6jHnk1GEvB"
-        }
-      ],
-      "duration_ms": 155560,
-      "name": "5 Kleine Lieder, Op. 69, TrV 237: No. 3, Einerlei",
-      "url": "https://open.spotify.com/track/7DUQ9zWONU1BI36B71pdnW"
-    },
-    {
-      "added_at": "2025-12-15 11:35:26",
-      "album": {
         "name": "R. Strauss: Symphonische Dichtungen",
         "url": "https://open.spotify.com/album/6D2VcjVNlvEOP0IjbYxtLW"
       },
@@ -263,6 +239,30 @@
       "duration_ms": 1065373,
       "name": "Don Juan, Op. 20, TrV 156",
       "url": "https://open.spotify.com/track/7BZVwh7u01dn3fkqY9AvPd"
+    },
+    {
+      "added_at": "2025-12-15 11:35:26",
+      "album": {
+        "name": "R. Strauss & Wagner: Lieder",
+        "url": "https://open.spotify.com/album/1NmpagLKKKQRweZly1Jmjd"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Adrianne Pieczonka",
+          "url": "https://open.spotify.com/artist/0i7wTrA2VeXFoVT8AsEmIj"
+        },
+        {
+          "name": "Brian Zeger",
+          "url": "https://open.spotify.com/artist/34c8ESHUzusi6jHnk1GEvB"
+        }
+      ],
+      "duration_ms": 155560,
+      "name": "5 Kleine Lieder, Op. 69, TrV 237: No. 3, Einerlei",
+      "url": "https://open.spotify.com/track/7DUQ9zWONU1BI36B71pdnW"
     },
     {
       "added_at": "2025-12-15 11:35:26",
@@ -539,30 +539,6 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
-        "name": "Der Rosenkavalier, Op. 59, TrV 227: Walzerfolge (Arr. for Cello and Piano by Julian Riem)",
-        "url": "https://open.spotify.com/album/1re3YyWogEFDTePZHNO7uL"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Raphaela Gromes",
-          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
-        },
-        {
-          "name": "Julian Riem",
-          "url": "https://open.spotify.com/artist/7xblEPvRNj5mqQ1vzV0g2D"
-        }
-      ],
-      "duration_ms": 394089,
-      "name": "Der Rosenkavalier, Op. 59, TrV 227: Walzerfolge (Arr. for Cello and Piano by Julian Riem)",
-      "url": "https://open.spotify.com/track/1s2uSkX5bHKurbKWvZmuDI"
-    },
-    {
-      "added_at": "2025-12-15 11:35:26",
-      "album": {
         "name": "Strauss: Heimliche Aufforderung",
         "url": "https://open.spotify.com/album/7IwIpZ4Z6kWUuUdnmca7LG"
       },
@@ -587,6 +563,30 @@
       "duration_ms": 265000,
       "name": "Alphorn, o. Op.",
       "url": "https://open.spotify.com/track/0UWQtxUehtClFEDEOaQLGO"
+    },
+    {
+      "added_at": "2025-12-15 11:35:26",
+      "album": {
+        "name": "Der Rosenkavalier, Op. 59, TrV 227: Walzerfolge (Arr. for Cello and Piano by Julian Riem)",
+        "url": "https://open.spotify.com/album/1re3YyWogEFDTePZHNO7uL"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Raphaela Gromes",
+          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
+        },
+        {
+          "name": "Julian Riem",
+          "url": "https://open.spotify.com/artist/7xblEPvRNj5mqQ1vzV0g2D"
+        }
+      ],
+      "duration_ms": 394089,
+      "name": "Der Rosenkavalier, Op. 59, TrV 227: Walzerfolge (Arr. for Cello and Piano by Julian Riem)",
+      "url": "https://open.spotify.com/track/1s2uSkX5bHKurbKWvZmuDI"
     },
     {
       "added_at": "2025-12-15 11:35:26",
@@ -851,34 +851,6 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
-        "name": "Strauss, R.: Der Rosenkavalier",
-        "url": "https://open.spotify.com/album/3qTYJAHdCFOuBJBZG65sRa"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Ren\u00e9e Fleming",
-          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
-        },
-        {
-          "name": "Munich Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/5jSyEHI4tPkBgp84luyqpO"
-        },
-        {
-          "name": "Christian Thielemann",
-          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
-        }
-      ],
-      "duration_ms": 330920,
-      "name": "Der Rosenkavalier, Op. 59 / Act 1: \"Da geht er hin, der aufgeblasene schlechte Kerl\"",
-      "url": "https://open.spotify.com/track/0YxLutsTRZMJ1tHwFQiOeK"
-    },
-    {
-      "added_at": "2025-12-15 11:35:26",
-      "album": {
         "name": "Strauss: Elektra",
         "url": "https://open.spotify.com/album/6sL7ArNAaZelHIwfDSl1Mt"
       },
@@ -919,6 +891,34 @@
       "duration_ms": 369720,
       "name": "Elektra, Op. 58: \"Wo bleibt Elektra?\"",
       "url": "https://open.spotify.com/track/2b8b32NYy8iG2shSQNBepS"
+    },
+    {
+      "added_at": "2025-12-15 11:35:26",
+      "album": {
+        "name": "Strauss, R.: Der Rosenkavalier",
+        "url": "https://open.spotify.com/album/3qTYJAHdCFOuBJBZG65sRa"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "Munich Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5jSyEHI4tPkBgp84luyqpO"
+        },
+        {
+          "name": "Christian Thielemann",
+          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
+        }
+      ],
+      "duration_ms": 330920,
+      "name": "Der Rosenkavalier, Op. 59 / Act 1: \"Da geht er hin, der aufgeblasene schlechte Kerl\"",
+      "url": "https://open.spotify.com/track/0YxLutsTRZMJ1tHwFQiOeK"
     },
     {
       "added_at": "2025-12-15 11:35:26",

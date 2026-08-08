@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Sommerferien, Eis in der Hand und ganz viel Badespaß!
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,459 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,467 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 49 | [Was müssen das für Bäume sein](https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO) | [Ulla Meinecke](https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen](https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD) | 3:35 |
 | 50 | [Disco Kinder \(Minis Maxis\)](https://open.spotify.com/track/6eEyiLb4fZxdBZ6vWJMr5G) | [Isa Glücklich](https://open.spotify.com/artist/2qLRWpOpxPKpyVW3GdGVHh) | [Disco Kinder](https://open.spotify.com/album/3H4zFfJdiScYlYTARQBjPs) | 2:49 |
 
-Snapshot ID: `AAAAACOpvlxXJ4FgNXP5cqGJ2mz1+ofz`
+Snapshot ID: `AAAAAIzfZWxdkPi4Ne/5zKWg/tRSejFB`

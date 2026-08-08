@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40AQSQVhD0g.md) - [plain]
 
 > Buenas vibras para limpiar la casa! The best vibes to keep the house clean!
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,177 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,072 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40AQSQVhD0g.md) - [plain]
 | 30 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 |
 | 31 | [Tú Con Él](https://open.spotify.com/track/2eQFYGegTZaObk2kuBz83Z) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 4:49 |
 | 32 | [Ciega, Sordomuda](https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 4:27 |
-| 33 | [Bonita](https://open.spotify.com/track/0atfY1ew83Ql9nNnJiD2t5) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Bonita](https://open.spotify.com/album/5VVKOOGmPdCa8Iie0Jzydb) | 4:25 |
-| 34 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 |
+| 33 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 |
+| 34 | [Bonita](https://open.spotify.com/track/0atfY1ew83Ql9nNnJiD2t5) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Bonita](https://open.spotify.com/album/5VVKOOGmPdCa8Iie0Jzydb) | 4:25 |
 | 35 | [Corazón Sin Cara](https://open.spotify.com/track/0u4N6w5lBw5xMrzJitRWUo) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Prince Royce](https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh) | 3:31 |
 | 36 | [La Camisa Negra](https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 3:36 |
 | 37 | [Procura](https://open.spotify.com/track/2q9udNV9NK0BL3q9p6TLxf) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou), [Jandy Feliz](https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6) | [Pa' Otro La 'O](https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX) | 4:31 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40AQSQVhD0g.md) - [plain]
 | 63 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:07 |
 | 64 | [ALMA](https://open.spotify.com/track/3DNPOTO44kCKUV9RkYU77G) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bendito Verano](https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s) | 2:56 |
 | 65 | [La Vaca](https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [Con Su Loquera](https://open.spotify.com/album/4S18mM72RcD7OY9WiyHE8q) | 4:15 |
-| 66 | [Bailando por Ahi](https://open.spotify.com/track/0VamAmertqIxKM5axPSkCy) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Bailando por Ahi](https://open.spotify.com/album/5xmRspB1FQCAaEEBD9lJql) | 3:00 |
-| 67 | [CANCIÓN PARA REGRESAR](https://open.spotify.com/track/5dyDJ04aqWFuguQd6uWYWG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [CANCIÓN PARA REGRESAR](https://open.spotify.com/album/6ahlEbmAQ9NfewACpSbqG7) | 4:14 |
+| 66 | [CANCIÓN PARA REGRESAR](https://open.spotify.com/track/5dyDJ04aqWFuguQd6uWYWG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [CANCIÓN PARA REGRESAR](https://open.spotify.com/album/6ahlEbmAQ9NfewACpSbqG7) | 4:14 |
+| 67 | [Bailando por Ahi](https://open.spotify.com/track/0VamAmertqIxKM5axPSkCy) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Bailando por Ahi](https://open.spotify.com/album/5xmRspB1FQCAaEEBD9lJql) | 3:00 |
 | 68 | [La Bomba](https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb) | [Azul Azul](https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa) | [El Sapo](https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB) | 2:03 |
 | 69 | [Piel](https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Piel](https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy) | 2:21 |
 | 70 | [Mariposa Traicionera](https://open.spotify.com/track/0Pjsm4AaJGPOXHoB6xCgJB) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Revolución De Amor](https://open.spotify.com/album/6HrRHewMLfZLSkwJyZgr3V) | 4:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40AQSQVhD0g.md) - [plain]
 | 99 | [Que Me Quiera Má](https://open.spotify.com/track/5QHkVXsFE9f8WuQIReh8Fe) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Que Me Quiera Má](https://open.spotify.com/album/1OKm4LefVn9e6tomBI4FxM) | 2:51 |
 | 100 | [El Listón De Tu Pelo](https://open.spotify.com/track/4gPBK5eYojAxc2SldHkvTo) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew) | 3:34 |
 
-Snapshot ID: `AAAAAAwjyX9QPmNGp6MbGBjhlYjIf/XW`
+Snapshot ID: `AAAAAA5SZMfL0sNL8liwQEClvCkh3t50`

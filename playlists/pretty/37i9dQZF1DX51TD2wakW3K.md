@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 
 > The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today\. Cover: Amy Taylor \(Amyl and The Sniffers\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,928 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,067 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 38 | [Date With The Night](https://open.spotify.com/track/0EJHhccadE8UvdZ5wGI1SN) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 2:35 |
 | 39 | [Woo Hoo](https://open.spotify.com/track/6GA8fbPKP6KZ3fP75AIjRI) | [The 5.6.7.8's](https://open.spotify.com/artist/5MZqcO35TJh5QXaFmvXmUy) | [Bomb the Twist](https://open.spotify.com/album/61IsFgLDnUXc9buDJyi3Eo) | 2:02 |
 | 40 | [Never Say Never](https://open.spotify.com/track/02RkunUrCBLE5J6jY56QH3) | [Romeo Void](https://open.spotify.com/artist/20kRNjGAzhnBIflemL8JfY) | [Warm, In Your Coat](https://open.spotify.com/album/4prH6wEaDxG4lo02BaXbkG) | 5:53 |
-| 41 | [Double Dare Ya](https://open.spotify.com/track/2tRI6j8RxFwrxoRKs7dnV8) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The First Two Records](https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze) | 2:40 |
-| 42 | [The Bow](https://open.spotify.com/track/50ZE3JmXxdylxW9Kikg07N) | [Niis](https://open.spotify.com/artist/6USZzPyoOOFd3eusDLYt9X) | [NIIS WORLD](https://open.spotify.com/album/6j1pjKXLri5eYuBjjW4Vul) | 2:51 |
+| 41 | [The Bow](https://open.spotify.com/track/50ZE3JmXxdylxW9Kikg07N) | [Niis](https://open.spotify.com/artist/6USZzPyoOOFd3eusDLYt9X) | [NIIS WORLD](https://open.spotify.com/album/6j1pjKXLri5eYuBjjW4Vul) | 2:51 |
+| 42 | [Double Dare Ya](https://open.spotify.com/track/2tRI6j8RxFwrxoRKs7dnV8) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The First Two Records](https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze) | 2:40 |
 | 43 | [Bruise Violet](https://open.spotify.com/track/0o0fnK2CqZvI3jONRDv6ax) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Fontanelle](https://open.spotify.com/album/3fbPYfpyJtow8IF3ho7o09) | 2:52 |
 | 44 | [Second Skin \- 2024 Remaster](https://open.spotify.com/track/4Rvwe2nPrL4QiylcSD6lcy) | [The Gits](https://open.spotify.com/artist/4uHoGHfHZep6Z8YUn8ji5m) | [Frenching The Bully \(2024 Remaster\)](https://open.spotify.com/album/0unK1ttNt8xgj6bU0cMo2t) | 2:51 |
 | 45 | [HAMMS IN A GLASS](https://open.spotify.com/track/3yOfqcmYBcRZwOhApqfYr5) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [My Apologies To The Chef](https://open.spotify.com/album/2VKfhxfIcAcYObO8qJEXA0) | 2:26 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 63 | [Woman Driver](https://open.spotify.com/track/28Zo6zxUvjalBnftQpC8Qe) | [The Pill](https://open.spotify.com/artist/4XtMirRxOoonxsbLRJvlwO) | [Woman Driver](https://open.spotify.com/album/6SxfRfXTWGh20SiGGunINs) | 2:04 |
 | 64 | [Lucky Guy](https://open.spotify.com/track/2jSdbHZZRp6eLq8F5KPtoR) | [The Muffs](https://open.spotify.com/artist/4FYk4moRCGHdXIK3AMcelO) | [The Muffs](https://open.spotify.com/album/3f9SPyuKWxyufWWXdEmzT2) | 2:47 |
 | 65 | [Crimson Wave](https://open.spotify.com/track/6ixncUHZXJpLWbej9oOms2) | [Tacocat](https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW) | [NVM](https://open.spotify.com/album/1InarU1z2GghO47Wb4Nm9m) | 2:03 |
-| 66 | [Fight Like a Girl](https://open.spotify.com/track/1oB95k1m9xX1M7FkRxhFPS) | [Cheap Perfume](https://open.spotify.com/artist/2vfwEEEv5PVpGMMnC5jajB) | [Nailed It](https://open.spotify.com/album/2x0q1zOoj9ETJhN9nhCLg5) | 3:13 |
-| 67 | [Joy](https://open.spotify.com/track/6HpSFu3gX3y9IVP2MZ8p6R) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Secret Love](https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4) | 2:53 |
-| 68 | [Bad Ass Bitch](https://open.spotify.com/track/6RnIQtsHeCWSA9ILQgx6J1) | [Lunachicks](https://open.spotify.com/artist/3p3KAZ6zqhFkkH5ZdTuS5X) | [Luxury Problem](https://open.spotify.com/album/5QZhFMU4gDHawZeZFCjKXr) | 4:08 |
-| 69 | [Across The Line](https://open.spotify.com/track/4JJPlu2TWZ7p0MRgh5Td9T) | [Remember Sports](https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc) | [The Refrigerator](https://open.spotify.com/album/6BJcPDec1HjMQ0H3WyWckR) | 3:19 |
+| 66 | [Joy](https://open.spotify.com/track/6HpSFu3gX3y9IVP2MZ8p6R) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Secret Love](https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4) | 2:53 |
+| 67 | [Fight Like a Girl](https://open.spotify.com/track/1oB95k1m9xX1M7FkRxhFPS) | [Cheap Perfume](https://open.spotify.com/artist/2vfwEEEv5PVpGMMnC5jajB) | [Nailed It](https://open.spotify.com/album/2x0q1zOoj9ETJhN9nhCLg5) | 3:13 |
+| 68 | [Across The Line](https://open.spotify.com/track/4JJPlu2TWZ7p0MRgh5Td9T) | [Remember Sports](https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc) | [The Refrigerator](https://open.spotify.com/album/6BJcPDec1HjMQ0H3WyWckR) | 3:19 |
+| 69 | [Bad Ass Bitch](https://open.spotify.com/track/6RnIQtsHeCWSA9ILQgx6J1) | [Lunachicks](https://open.spotify.com/artist/3p3KAZ6zqhFkkH5ZdTuS5X) | [Luxury Problem](https://open.spotify.com/album/5QZhFMU4gDHawZeZFCjKXr) | 4:08 |
 | 70 | [Don't Dictate \- Demo](https://open.spotify.com/track/0LzCSYjFxH3LKSU4UIeRBk) | [Penetration](https://open.spotify.com/artist/0XLpzWw7BLdlsf32qlMXKV) | [Moving Targets](https://open.spotify.com/album/7LHgN8wNZITpIywXHVBRLb) | 2:56 |
 | 71 | [Love is Short](https://open.spotify.com/track/4lWBGCEsNyMEcNVHCb7Vxi) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [ITEKOMA HITS](https://open.spotify.com/album/0A7dXsu3QAMbs2Wu0FUdF4) | 2:11 |
 | 72 | [Husbands](https://open.spotify.com/track/5yoJk1yR5QmwE8Zj2qatpK) | [Savages](https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60) | [Silence Yourself](https://open.spotify.com/album/6LjrpgYliBD7FA670n4l31) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 99 | [You're All Talk](https://open.spotify.com/track/56laQa3PukNJ9Fg9k0bP4E) | [The Pandoras](https://open.spotify.com/artist/1IHit5q4Ut9MlbGZUZY94D) | [Stop Pretending](https://open.spotify.com/album/2TZAqOOjAs5lw5iUq2p3sB) | 2:52 |
 | 100 | [Twist Barbie](https://open.spotify.com/track/0cLMJ6Ajl5G2Av6PSu8xhM) | [Shonen Knife](https://open.spotify.com/artist/4ukJlDdlvuQOHZdD2NVsFD) | [Burning Farm](https://open.spotify.com/album/30e1Zd04RWU9KVMwCrYiO6) | 2:32 |
 
-Snapshot ID: `AAAAAHBQYkssUBRmVf6+PM/pnaVTGrQj`
+Snapshot ID: `AAAAAECFsWqg6IKFrN47SmZMMJgj52s6`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 
 > This is Eden Muñoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,257 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,424 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 36 | [Sangoloteadito \- En Vivo](https://open.spotify.com/track/1YccRG4LRtwmfQApetIieU) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Historia Debe Continuar \(TOUR EN VIVO\) \[En Vivo\]](https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek) | 4:14 |
 | 37 | [Otra Vez](https://open.spotify.com/track/59GRTQJEI4zSyiCVmHRR6k) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Regreso](https://open.spotify.com/album/4bq7eLWq5fazAwtsVnrQDM) | 4:00 |
 | 38 | [Creo en Ti](https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Creo en Ti](https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd) | 2:57 |
-| 39 | [Full](https://open.spotify.com/track/7M1HQslmDuV74HqOLTIMoh) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Eden](https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt) | 2:07 |
-| 40 | [Desde Que Llegaste \(con Eden Muñoz\)](https://open.spotify.com/track/2obhv9HkiRddA4bpqgpmDP) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [A Caballo](https://open.spotify.com/album/5QBM7AxynUoEX92nJho9hH) | 3:26 |
+| 39 | [Desde Que Llegaste \(con Eden Muñoz\)](https://open.spotify.com/track/2obhv9HkiRddA4bpqgpmDP) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [A Caballo](https://open.spotify.com/album/5QBM7AxynUoEX92nJho9hH) | 3:26 |
+| 40 | [Full](https://open.spotify.com/track/7M1HQslmDuV74HqOLTIMoh) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Eden](https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt) | 2:07 |
 | 41 | [Viejo](https://open.spotify.com/track/0uP9Sni25rINuhcfN2dwGb) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Historia Debe Continuar \(TOUR EN VIVO\) \[En Vivo\]](https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek) | 3:01 |
 | 42 | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW) | 3:31 |
 | 43 | [Tu Cariñito](https://open.spotify.com/track/60Q6p6nH92omdBlYILHpYm) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Eden Vol\. II](https://open.spotify.com/album/1XA7mSFpMYANghXkxe9eml) | 3:56 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 46 | [todo me vale madre](https://open.spotify.com/track/2JXwNWEICIo5Utov8kBot1) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [todo me vale madre](https://open.spotify.com/album/6Un1jeqwMNafxhOHfjYXEx) | 2:56 |
 | 47 | [Cómo Me Duele \- En Vivo](https://open.spotify.com/track/1uiTRczUXLbN8aR4SXzlPv) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Los Prohibidos en Concierto \(En Vivo\)](https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6) | 2:38 |
 | 48 | [Piedras a la Luna](https://open.spotify.com/track/2Cz7K3xFrJIYMkpxDbrqtu) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Piedras a la Luna](https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI) | 3:12 |
-| 49 | [Un Montón De Estrellas](https://open.spotify.com/track/0vQtxhm39aWCD3rcK00OZA) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Eden Vol\. II](https://open.spotify.com/album/1XA7mSFpMYANghXkxe9eml) | 4:28 |
-| 50 | [MX \- MAD](https://open.spotify.com/track/1CdFg273lkDDOA13pV8FXX) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 3:42 |
+| 49 | [MX \- MAD](https://open.spotify.com/track/1CdFg273lkDDOA13pV8FXX) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 3:42 |
+| 50 | [Un Montón De Estrellas](https://open.spotify.com/track/0vQtxhm39aWCD3rcK00OZA) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Eden Vol\. II](https://open.spotify.com/album/1XA7mSFpMYANghXkxe9eml) | 4:28 |
 
-Snapshot ID: `anJ9AAAAAAAQ01fq0tV9QuJmxlKC/AVw`
+Snapshot ID: `anPOgAAAAABC6CI5iYdXiF6HNkuoIYPp`

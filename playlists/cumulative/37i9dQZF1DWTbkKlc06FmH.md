@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,288 songs - 3 day 3 hr 44 min
+1,289 songs - 3 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -725,7 +725,7 @@
 | [no song without you](https://open.spotify.com/track/3KKUf8F2hktFscLgbH4YwR) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [no song without you](https://open.spotify.com/album/4Mxwp3dJCIEJOqQ4O03BMa) | 2:41 | 2022-10-20 | 2023-01-27 |
 | [NO SWEAT](https://open.spotify.com/track/7qNKOY7KThQExK66yIi4Dj) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [NO SWEAT](https://open.spotify.com/album/7mukzXWGZe0qrnwQ0QK4WE) | 2:18 | 2022-10-20 | 2022-11-09 |
 | [NO TIME](https://open.spotify.com/track/1yKNCtOGmtH7abfZGRV9Oc) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [NO TIME](https://open.spotify.com/album/27jDdZginjmRgglqUkcQ5N) | 2:40 | 2022-11-22 | 2022-12-21 |
-| [No.1 \(feat\. Tems\)](https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 | 2024-03-26 |  |
+| [No.1 \(feat\. Tems\)](https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 | 2024-03-26 | 2026-08-08 |
 | [NOBLE \(with The Kid LAROI\)](https://open.spotify.com/track/00meonIF1VYLe1eTcx3w9e) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [NOBLE \(with The Kid LAROI\)](https://open.spotify.com/album/2a7B8ngsOQDg0G5ejax0z2) | 3:05 | 2026-07-10 |  |
 | [Noidleap](https://open.spotify.com/track/5cxX4To7z0J2XlySIoBqea) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [noidleap](https://open.spotify.com/album/2P9VxOeGJpCu9SuqBXAujz) | 3:23 | 2023-09-19 | 2023-09-21 |
 | [Noidleap](https://open.spotify.com/track/6Frb0urydHcSQB8qGkp731) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [noidleap](https://open.spotify.com/album/5KYaSgNi77IKgGkxuqrp7R) | 3:23 | 2023-09-19 | 2023-10-18 |
@@ -869,6 +869,7 @@
 | [Salt](https://open.spotify.com/track/5yaek2XIbhZjsrl0yCAITG) | [DJ HASEBE](https://open.spotify.com/artist/1hmfvUtIXJ6c5odBY2kFqW), [磯野くん](https://open.spotify.com/artist/48UwOs44kquyWN7FoUZCTG) | [Salt](https://open.spotify.com/album/2RHhwut0QHcYyd1Dwf9SFE) | 3:26 | 2024-05-01 | 2024-06-04 |
 | [Samurai](https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH) | 3:14 | 2024-05-17 | 2024-08-04 |
 | [Sand Castle](https://open.spotify.com/track/2hwKCIEZB2sK5Z6Xfws0MK) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Sand Castle](https://open.spotify.com/album/2mw5HgtbMr4tSrq5VEqbxC) | 3:35 | 2026-06-18 | 2026-08-02 |
+| [satellite](https://open.spotify.com/track/3aGgVGFttTUFYEYwAXZae3) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [satellite](https://open.spotify.com/album/3AWFn6RSIc9wS8CAcfgVIX) | 3:13 | 2026-08-07 |  |
 | [Satellite Business 2.0](https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Satellite Business 2.0](https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb) | 4:53 | 2024-07-24 | 2024-10-13 |
 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2024-02-22 | 2024-05-15 |
 | [Say](https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Say](https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY) | 3:01 | 2024-07-12 | 2025-07-02 |

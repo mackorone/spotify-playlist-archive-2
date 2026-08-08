@@ -4,7 +4,7 @@
 
 > your honky tonk meets club playlist 🤠🪩 featuring Diplo
 
-275 songs - 14 hr 30 min
+276 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Carrying the Club](https://open.spotify.com/track/4NreLKfvwVCgrWmIsw6aLB) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb), [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ) | [Carrying the Club](https://open.spotify.com/album/67NJIEphGhAxR3z1zrV69E) | 2:58 | 2025-08-22 |  |
 | [Caught Up In The Country \(Sam Feldt Remix\)](https://open.spotify.com/track/6MYshGKhcheOSGquz6NKbC) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Caught Up In The Country \(Sam Feldt Remix\)](https://open.spotify.com/album/1b6BA0fpdHJyYsO04QQIb6) | 3:30 | 2021-12-10 |  |
 | [Cheatin’ Songs \- Montana Mix](https://open.spotify.com/track/62aWwK5NOED1ADf05zVepV) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Cheatin' Songs \(Montana Mix & Original\)](https://open.spotify.com/album/4de5W0Qd5KMwhImXPRmFpV) | 3:30 | 2021-12-10 | 2025-06-01 |
+| [CHOOSIN’ TEXAS \(Feat\. DINER\)](https://open.spotify.com/track/3CxxfN4YdbcSJ3tu1p5Rfp) | [Country Night](https://open.spotify.com/artist/5Q520C8g8SdHdWVjw4SEU3), [DINER](https://open.spotify.com/artist/7dvHlnKgD5EWy243QylvvC) | [CHOOSIN’ TEXAS \(Feat\. DINER\)](https://open.spotify.com/album/1vcsirZc8GNyIBC1hpGwS4) | 2:13 | 2026-08-07 |  |
 | [Cicadas](https://open.spotify.com/track/3vtqI9PL64e3QEZNH7M6yF) | [MC4D](https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI), [coasty](https://open.spotify.com/artist/2yvhvBMATIOiEwXOWiktUS) | [Cicadas](https://open.spotify.com/album/514A89AJBBRebXUNUTVlES) | 3:43 | 2024-04-26 | 2025-06-01 |
 | [Comeback Kid](https://open.spotify.com/track/3Apdb4wCwGOgF1nxGBg8Z7) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK) | [Comeback Kid](https://open.spotify.com/album/2aNaTXajKGYdbTVL5cPAQT) | 3:27 | 2024-06-28 |  |
 | [Cool Again \(feat\. Nelly\)](https://open.spotify.com/track/6SyYYyVnwYD7ovF5CdMOJp) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Cool Again \(feat\. Nelly\)](https://open.spotify.com/album/0D4IyhPBtTywxvZxbspqwW) | 2:55 | 2021-12-10 | 2024-08-24 |

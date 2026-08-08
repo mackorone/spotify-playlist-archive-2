@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82YGuqXy1YX.md) - [plain]
 
 > All the artists playing at FORM Arcosanti 2026.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8 likes - 37 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 25 likes - 37 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82YGuqXy1YX.md) - [plain]
 | 17 | [fafo](https://open.spotify.com/track/59N5Xs2k47ESLEeRB84hWW) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [shut the fuck up talking to me](https://open.spotify.com/album/2As0TCvNIO3mJ4yAthXtYZ) | 2:38 |
 | 18 | [Saturdays \(feat\. HAIM\)](https://open.spotify.com/track/5ClqcvP4dYDDX6Zv3jPQD1) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb), [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Caer](https://open.spotify.com/album/5eIgu8uJ3H18h8vVqJYggZ) | 3:25 |
 | 19 | [You Say I Love You](https://open.spotify.com/track/2kv2epe0oiyQs8msJXbn9w) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Blue Angel Sparkling Silver 2](https://open.spotify.com/album/6jWka3XgiDpdNIuo04NMor) | 3:06 |
-| 20 | [Summer love](https://open.spotify.com/track/7BK3QFosVThjZri2dDGRmE) | [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [Summer love](https://open.spotify.com/album/5rTsYX0iFZXRsKrKV0ao1Q) | 3:20 |
-| 21 | [Sunday](https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Surface Tension](https://open.spotify.com/album/632eFniptp1u6saHBEN06y) | 4:01 |
+| 20 | [Sunday](https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Surface Tension](https://open.spotify.com/album/632eFniptp1u6saHBEN06y) | 4:01 |
+| 21 | [Summer love](https://open.spotify.com/track/7BK3QFosVThjZri2dDGRmE) | [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [Summer love](https://open.spotify.com/album/5rTsYX0iFZXRsKrKV0ao1Q) | 3:20 |
 | 22 | [Confession](https://open.spotify.com/track/6mOZSB8gmObud9MwsOte3e) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi) | 4:32 |
 | 23 | [Flames shards goo](https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Suntub](https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax) | 3:48 |
 | 24 | [Hypersoft Lovejinx Junkdream](https://open.spotify.com/track/1C9fCrGgtkkqS8UsB8KwA4) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Friend](https://open.spotify.com/album/1TwmkxFywYn6qn4PFTejOe) | 4:03 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82YGuqXy1YX.md) - [plain]
 | 36 | [Needle Guy](https://open.spotify.com/track/5EfGtVw1Hpr8kgnDBJZ3Ar) | [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Needle Guy](https://open.spotify.com/album/6JMtoHuJt1jLi9iSY9p4kj) | 2:59 |
 | 37 | [Over the Dune](https://open.spotify.com/track/3cHLDKI6zWPFtczejY5kGw) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO), [David Moore](https://open.spotify.com/artist/7xEnx9zeKaSs5WeZWPnpW8), [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [Let the Moon Be a Planet](https://open.spotify.com/album/3wFY9XEusAnyUY5GxTE6vu) | 6:44 |
 
-Snapshot ID: `AAAAABsgaQ/6ea/TbZc/4kWH5+GATzpB`
+Snapshot ID: `AAAAAHLQXqT6ZtTX1U+f31805RwQJzi1`

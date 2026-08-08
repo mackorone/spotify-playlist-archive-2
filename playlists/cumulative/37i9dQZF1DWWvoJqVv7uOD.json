@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: ROLE MODEL",
+  "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: Ravyn Lenae",
   "name": "Everyday Favorites ",
   "tracks": [
     {
@@ -3280,7 +3280,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 210317,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/5EOhI3uwuyUnGshN7CsRqI"
@@ -3382,7 +3382,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -3976,7 +3976,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 186639,
       "name": "Easy Lover",
       "url": "https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg"
@@ -5956,7 +5956,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 188386,
       "name": "Gut Punch",
       "url": "https://open.spotify.com/track/0kG4t24uQCfcC1aZL3LyFu"
@@ -8100,6 +8100,24 @@
       "duration_ms": 158238,
       "name": "Imposter",
       "url": "https://open.spotify.com/track/5VqWwnkDTHNz3oXdlh2jn7"
+    },
+    {
+      "album": {
+        "name": "Blue Island",
+        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "In & Out",
+      "url": "https://open.spotify.com/track/6KLLoGHAIYPfNYfRo4U1Ql"
     },
     {
       "album": {
@@ -11885,6 +11903,28 @@
     },
     {
       "album": {
+        "name": "Crazy Rainbow",
+        "url": "https://open.spotify.com/album/7oyNub5nsPkJoyV6xatDcN"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136662,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/25daS9NP6OyeqyWgnsbBut"
+    },
+    {
+      "album": {
         "name": "people pleaser / sleep at night",
         "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
       },
@@ -12240,6 +12280,24 @@
       "duration_ms": 211167,
       "name": "Remind Me",
       "url": "https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8"
+    },
+    {
+      "album": {
+        "name": "RESCUER",
+        "url": "https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199166,
+      "name": "RESCUER",
+      "url": "https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye"
     },
     {
       "album": {
@@ -12915,6 +12973,24 @@
     },
     {
       "album": {
+        "name": "Secret Language",
+        "url": "https://open.spotify.com/album/5O70O8co709tMC46LDb8uF"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233785,
+      "name": "Secret Language",
+      "url": "https://open.spotify.com/track/1ccz8ZdpV5m0eGcIw4gZJA"
+    },
+    {
+      "album": {
         "name": "See Me",
         "url": "https://open.spotify.com/album/6YgCC8d3DSJVDYPBDkPsEb"
       },
@@ -13038,7 +13114,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 138653,
       "name": "she got a thing about her",
       "url": "https://open.spotify.com/track/1PyaesWoAa7Xz7TEbyyvcz"
@@ -16202,6 +16278,24 @@
       "duration_ms": 272266,
       "name": "When A Good Man Cries",
       "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
+    },
+    {
+      "album": {
+        "name": "When He\u2019s Gone",
+        "url": "https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186360,
+      "name": "When He\u2019s Gone",
+      "url": "https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Sommer, Sonne, Sommerhits \ud83d\ude42\u200d\u2194\ufe0f",
-  "num_followers": 1586621,
+  "num_followers": 1586777,
   "original_name": "Sommerhits 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPRAdKxe820HNvyToJIQ6otQO0nb",
+  "snapshot_id": "AAAAADjkN9fhAb74hZSZyQMvI7npxUOA",
   "tracks": [
     {
       "added_at": "2026-08-06 22:01:13",
@@ -411,18 +411,18 @@
     {
       "added_at": "2026-08-06 22:01:13",
       "album": {
-        "name": "L'undertaker, Pt. 1",
-        "url": "https://open.spotify.com/album/5tU1xjeA4dANiKn3a7wrwR"
+        "name": "Ain't In LA",
+        "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
       },
       "artists": [
         {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
         }
       ],
-      "duration_ms": 156076,
-      "name": "Pil\u00e9",
-      "url": "https://open.spotify.com/track/5sOXBp183GxCmKH56sH1yo"
+      "duration_ms": 184927,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
     },
     {
       "added_at": "2026-08-06 22:01:13",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-08-06 22:01:13",
       "album": {
-        "name": "Ain't In LA",
-        "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 184927,
-      "name": "Ain't In LA",
-      "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
-    },
-    {
-      "added_at": "2026-08-06 22:01:13",
-      "album": {
         "name": "Manchild",
         "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
+    },
+    {
+      "added_at": "2026-08-06 22:01:13",
+      "album": {
+        "name": "L'undertaker, Pt. 1",
+        "url": "https://open.spotify.com/album/5tU1xjeA4dANiKn3a7wrwR"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "duration_ms": 156076,
+      "name": "Pil\u00e9",
+      "url": "https://open.spotify.com/track/5sOXBp183GxCmKH56sH1yo"
     },
     {
       "added_at": "2026-08-06 22:01:13",
@@ -543,34 +543,6 @@
     {
       "added_at": "2026-08-06 22:01:13",
       "album": {
-        "name": "SHAKE IT TO THE MAX (FLY) (REMIX)",
-        "url": "https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs"
-      },
-      "artists": [
-        {
-          "name": "MOLIY",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        },
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        },
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        },
-        {
-          "name": "Silent Addy",
-          "url": "https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt"
-        }
-      ],
-      "duration_ms": 178775,
-      "name": "SHAKE IT TO THE MAX (FLY) - REMIX",
-      "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
-    },
-    {
-      "added_at": "2026-08-06 22:01:13",
-      "album": {
         "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
         "url": "https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz"
       },
@@ -607,6 +579,34 @@
       "duration_ms": 149666,
       "name": "Illegal",
       "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
+    },
+    {
+      "added_at": "2026-08-06 22:01:13",
+      "album": {
+        "name": "SHAKE IT TO THE MAX (FLY) (REMIX)",
+        "url": "https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs"
+      },
+      "artists": [
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        },
+        {
+          "name": "Silent Addy",
+          "url": "https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt"
+        }
+      ],
+      "duration_ms": 178775,
+      "name": "SHAKE IT TO THE MAX (FLY) - REMIX",
+      "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
     },
     {
       "added_at": "2026-08-06 22:01:13",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-08-06 22:01:13",
       "album": {
-        "name": "Your Body",
-        "url": "https://open.spotify.com/album/7BILrDqY2kO1SOhX2MUJVN"
-      },
-      "artists": [
-        {
-          "name": "Marten Lou",
-          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
-        }
-      ],
-      "duration_ms": 228099,
-      "name": "Your Body",
-      "url": "https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3"
-    },
-    {
-      "added_at": "2026-08-06 22:01:13",
-      "album": {
         "name": "Loosen Up",
         "url": "https://open.spotify.com/album/0zVdQCWZh8j3FARvnNr6sZ"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 180000,
       "name": "Loosen Up",
       "url": "https://open.spotify.com/track/2jWZ9NZotZb2hN5obKx2FA"
+    },
+    {
+      "added_at": "2026-08-06 22:01:13",
+      "album": {
+        "name": "Your Body",
+        "url": "https://open.spotify.com/album/7BILrDqY2kO1SOhX2MUJVN"
+      },
+      "artists": [
+        {
+          "name": "Marten Lou",
+          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
+        }
+      ],
+      "duration_ms": 228099,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3"
     },
     {
       "added_at": "2026-08-06 22:01:13",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-08-06 22:01:13",
       "album": {
-        "name": "SHOOK",
-        "url": "https://open.spotify.com/album/4lSYuGsPUTHGel906TJCqZ"
-      },
-      "artists": [
-        {
-          "name": "H33RA",
-          "url": "https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM"
-        }
-      ],
-      "duration_ms": 183743,
-      "name": "SHOOK",
-      "url": "https://open.spotify.com/track/0wdSmyHGxoNaJmLENqcaUj"
-    },
-    {
-      "added_at": "2026-08-06 22:01:13",
-      "album": {
         "name": "Best Day of My Life (BUNT. Version) (feat. Tom Odell)",
         "url": "https://open.spotify.com/album/17RvvPlMKDeaDB4XIwkX4C"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 170317,
       "name": "Best Day of My Life (BUNT. Version) (feat. Tom Odell)",
       "url": "https://open.spotify.com/track/7A1QLN9c3uKeQdhp05o0jp"
+    },
+    {
+      "added_at": "2026-08-06 22:01:13",
+      "album": {
+        "name": "SHOOK",
+        "url": "https://open.spotify.com/album/4lSYuGsPUTHGel906TJCqZ"
+      },
+      "artists": [
+        {
+          "name": "H33RA",
+          "url": "https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM"
+        }
+      ],
+      "duration_ms": 183743,
+      "name": "SHOOK",
+      "url": "https://open.spotify.com/track/0wdSmyHGxoNaJmLENqcaUj"
     },
     {
       "added_at": "2026-08-06 22:01:13",

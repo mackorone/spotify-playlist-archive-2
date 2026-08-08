@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 170057,
       "name": "California Dreamin'",
       "url": "https://open.spotify.com/track/1kq7feGMFG3NPRwm5XR5fs"
@@ -2697,6 +2697,24 @@
     },
     {
       "album": {
+        "name": "F U",
+        "url": "https://open.spotify.com/album/7tkEt619WLeFAQ7jvzKKF9"
+      },
+      "artists": [
+        {
+          "name": "SIDEQUEST",
+          "url": "https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "F U",
+      "url": "https://open.spotify.com/track/2eYfS1zUGVLZN0MAgeDqRP"
+    },
+    {
+      "album": {
         "name": "F.Y.U.",
         "url": "https://open.spotify.com/album/6VVz3SsKCYbokxhmfzm38Q"
       },
@@ -3318,6 +3336,28 @@
       "duration_ms": 173000,
       "name": "FUCK IT UP",
       "url": "https://open.spotify.com/track/5s5Iv5IJ0hz0KDLXi14jRY"
+    },
+    {
+      "album": {
+        "name": "Fux With Us (feat. TiaCorine)",
+        "url": "https://open.spotify.com/album/3hxSPaPvkCnM6qgm9ld1HR"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163537,
+      "name": "Fux With Us (feat. TiaCorine)",
+      "url": "https://open.spotify.com/track/0dMhvueZHZdHfJN99uMzcb"
     },
     {
       "album": {
@@ -4272,7 +4312,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 186666,
       "name": "HORSEPOWER",
       "url": "https://open.spotify.com/track/431KvcIeLTgVEqlz42WzU3"
@@ -7594,7 +7634,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 205241,
       "name": "Restless",
       "url": "https://open.spotify.com/track/2qcatm1Vvi5io4zmIQc2cp"
@@ -8032,7 +8072,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 196790,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/4MgH7JjZQAPgIBf0lrdbie"
@@ -9237,6 +9277,28 @@
     },
     {
       "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/43RbSseg8UTZ9Ypy8NwHxp"
+      },
+      "artists": [
+        {
+          "name": "Sully",
+          "url": "https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK"
+        },
+        {
+          "name": "Jiqui",
+          "url": "https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176571,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/72cOiHaGs0N7JSHcJiMzi7"
+    },
+    {
+      "album": {
         "name": "SHEEESH (The Remixes)",
         "url": "https://open.spotify.com/album/6MyjLsUkdDVPOuu21TG5MW"
       },
@@ -9656,6 +9718,24 @@
       "duration_ms": 180520,
       "name": "Through The Pain (feat. Pozer)",
       "url": "https://open.spotify.com/track/0AFTmRJtR1AorwJ6XlOn8I"
+    },
+    {
+      "album": {
+        "name": "Throw It Up",
+        "url": "https://open.spotify.com/album/32yCWDKsr3wEDexXr6dPZB"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201069,
+      "name": "Throw It Up",
+      "url": "https://open.spotify.com/track/0fLLrfJ4sikNitD6sDg2ne"
     },
     {
       "album": {

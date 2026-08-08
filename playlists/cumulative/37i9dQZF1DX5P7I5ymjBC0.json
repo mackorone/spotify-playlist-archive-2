@@ -1011,6 +1011,36 @@
     },
     {
       "album": {
+        "name": "Echoes from the Margins",
+        "url": "https://open.spotify.com/album/27iac2Z2C7QTFD1LmfnspP"
+      },
+      "artists": [
+        {
+          "name": "Rahul Deshpande",
+          "url": "https://open.spotify.com/artist/05TsqmnjBF2zgaB11M5tlT"
+        },
+        {
+          "name": "Samir Bodhi",
+          "url": "https://open.spotify.com/artist/2UpPoyTz1pbWWQEvxbYlRk"
+        },
+        {
+          "name": "Pt. Ronu Majumdar",
+          "url": "https://open.spotify.com/artist/63fTlFkkC12YNGgpfFEKkA"
+        },
+        {
+          "name": "Pratik Srivastava",
+          "url": "https://open.spotify.com/artist/1ioTOJcqbq3nIamjxAa7rA"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228260,
+      "name": "Echoes from the Margins",
+      "url": "https://open.spotify.com/track/7duWqlQB1gOpM5AupXPfWc"
+    },
+    {
+      "album": {
         "name": "Ee Premanthaa Neeve",
         "url": "https://open.spotify.com/album/1yucluSfbWVLGh9vQ6YfK5"
       },
@@ -3421,6 +3451,28 @@
     },
     {
       "album": {
+        "name": "Sacred Light",
+        "url": "https://open.spotify.com/album/3crq1LBvWjOM9sF4RiwQ44"
+      },
+      "artists": [
+        {
+          "name": "Ishaan Ghosh",
+          "url": "https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320470,
+      "name": "Sacred Light",
+      "url": "https://open.spotify.com/track/3m3bafQHxpGl4ARoTu9DK6"
+    },
+    {
+      "album": {
         "name": "Bapi Bari Jaa (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2eBYvjsfrgID51qApYWvDt"
       },
@@ -4192,7 +4244,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 536487,
       "name": "VIHAR",
       "url": "https://open.spotify.com/track/5g4nywaf2qGoY8J5iGvkyw"
@@ -4238,7 +4290,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 214640,
       "name": "We Are One (Raghupati Raghava)",
       "url": "https://open.spotify.com/track/0fE8GmOwbZXl6s6jH0W2TA"

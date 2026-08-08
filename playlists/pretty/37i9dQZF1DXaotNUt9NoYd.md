@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 
 > Its time to travel inwards & feel the bliss!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,480 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,489 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 38 | [Quantum](https://open.spotify.com/track/531T2IlqucxLsyDPtw6LSv) | [Matter and Energy](https://open.spotify.com/artist/0i2Fbuq612ktsHdQHAzV51) | [Matter and Energy](https://open.spotify.com/album/2SPL4RRbxY3iq8hX08TXlm) | 2:55 |
 | 39 | [Giant](https://open.spotify.com/track/1skdG0IokRBAJGHylNqMck) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [Jupiter Sunrise](https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv) | 2:35 |
 | 40 | [Wren](https://open.spotify.com/track/2BNIB51vC5Xf4s14N57VTH) | [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Near Dawn](https://open.spotify.com/album/1kwA8Ztf4Na8mlGciyedSS) | 3:36 |
-| 41 | [Back In Time](https://open.spotify.com/track/3DoRDvjKb1CMgF1oyko1GX) | [Amber Virena](https://open.spotify.com/artist/5OtQEaDqWy4oDqhgPAETSA) | [Back In Time](https://open.spotify.com/album/5u4gyoF73RoRCxTT40vUVD) | 2:49 |
+| 41 | [Healing Memories](https://open.spotify.com/track/7nd51y4iaZaNLZcbAyQZWK) | [Kumbhaka](https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO) | [Healing Memories](https://open.spotify.com/album/4TdhUIpSL4UeYpSIoCw7my) | 3:22 |
 | 42 | [Raga Des Alap](https://open.spotify.com/track/4a5DylC4oxQbPV11a7kW1X) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Introspection](https://open.spotify.com/album/2pDuvSYsImOFjzdlMf7XpQ) | 3:55 |
-| 43 | [Healing Memories](https://open.spotify.com/track/7nd51y4iaZaNLZcbAyQZWK) | [Kumbhaka](https://open.spotify.com/artist/51Uvstdjh6X74kTzxdopzO) | [Healing Memories](https://open.spotify.com/album/4TdhUIpSL4UeYpSIoCw7my) | 3:22 |
+| 43 | [Back In Time](https://open.spotify.com/track/3DoRDvjKb1CMgF1oyko1GX) | [Amber Virena](https://open.spotify.com/artist/5OtQEaDqWy4oDqhgPAETSA) | [Back In Time](https://open.spotify.com/album/5u4gyoF73RoRCxTT40vUVD) | 2:49 |
 | 44 | [Sweven](https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Sweven](https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS) | 3:13 |
 | 45 | [Om Mantra](https://open.spotify.com/track/3lSRMSkO5kSKrtst3OJ29L) | [Advaitas](https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8) | [Om Mantra](https://open.spotify.com/album/2Rg8NshqLJejf4MgLJK5qZ) | 3:39 |
 | 46 | [Mystiqal](https://open.spotify.com/track/3BHlTxvHcHkyPG5X7MXiaN) | [Vugh Gardens](https://open.spotify.com/artist/1HxBL3Ls3YdMjJjFCzqEm6) | [Mystiqal](https://open.spotify.com/album/5n0SyqxC9Tv3q8KrjNJNKC) | 3:28 |
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 62 | [Ajna \(Third Eye/Pineal Gland\) \[Chakra\]](https://open.spotify.com/track/5mnLT8Ze4ugZxUSt4FkDeq) | [Air With Air Rising](https://open.spotify.com/artist/5YZaXFoZZsyjaxoy029RYD) | [7 Om Chanting Meditations](https://open.spotify.com/album/4HOj7igZ84vM6pNfLgJNuX) | 5:40 |
 | 63 | [Andromeda](https://open.spotify.com/track/2vOE9PLXx3MTPy5E0dxPor) | [Zoe Handfield](https://open.spotify.com/artist/0ifYKOfttKEUMV86E0mxxL) | [Andromeda](https://open.spotify.com/album/4QF6bAGczBfA3IgNftiaem) | 2:52 |
 | 64 | [Om Shanti Shanti \(Edit\) \[Chant for Yoga Class\] \[feat\. Adham Shaikh\]](https://open.spotify.com/track/4wjYQMw7dg2oB9mrO8fQsl) | [The Yoga Mantra and Chant Music Project](https://open.spotify.com/artist/0zjett5LduAKxk0NfLC3NZ) | [Yoga Music Mantras & Chants](https://open.spotify.com/album/55qbMjcJd92Po54nkLmukm) | 3:58 |
-| 65 | [Dhyāna](https://open.spotify.com/track/4OGE31bP3woVbTTkelXBES) | [Elof Sunflower](https://open.spotify.com/artist/6BncFvDvMh4Z9JZ04ujVpa) | [Mindful Meditation](https://open.spotify.com/album/14NggUSq5mr6Zyo8Wovpw6) | 4:22 |
-| 66 | [Blue Aurora](https://open.spotify.com/track/32VnVQtjXPZfUSp5kHtMbz) | [The Art of Quiet Living](https://open.spotify.com/artist/0qpdyOYWA6WGS0DgWAhC5y) | [Piano Soundscapes & Nature Sounds for Meditation, Relaxation, Massage & Sleep](https://open.spotify.com/album/4ZxoQmUBik7bA5zSA5Qruf) | 3:19 |
+| 65 | [Blue Aurora](https://open.spotify.com/track/32VnVQtjXPZfUSp5kHtMbz) | [The Art of Quiet Living](https://open.spotify.com/artist/0qpdyOYWA6WGS0DgWAhC5y) | [Piano Soundscapes & Nature Sounds for Meditation, Relaxation, Massage & Sleep](https://open.spotify.com/album/4ZxoQmUBik7bA5zSA5Qruf) | 3:19 |
+| 66 | [Dhyāna](https://open.spotify.com/track/4OGE31bP3woVbTTkelXBES) | [Elof Sunflower](https://open.spotify.com/artist/6BncFvDvMh4Z9JZ04ujVpa) | [Mindful Meditation](https://open.spotify.com/album/14NggUSq5mr6Zyo8Wovpw6) | 4:22 |
 | 67 | [Our Beginning](https://open.spotify.com/track/48zUSuNPWf2yFkzGu0BTv8) | [chillchild](https://open.spotify.com/artist/1Wq0Ioaww8FtItli6QrP46) | [Long Distance \(Deep Sleep Drone Music\)](https://open.spotify.com/album/05IJiYAP4yFUioSrQ9GSGY) | 2:36 |
 | 68 | [Mantra Stress Killer \- Indian Relaxing Chant, Bells and Flutes for Stress Relief](https://open.spotify.com/track/36uM3lN9QEt40k2gElDV3X) | [TCO](https://open.spotify.com/artist/43l4vCSiImV9sIB8mEoB5j) | [Indian Healing Music \(1 Hour Relaxing Indian Music for Yoga and Meditation Performed on Indian Flutes, Tablas, Sitar, Drums and Chants\)](https://open.spotify.com/album/5iAMQTamIMMWUIVRraiDzy) | 4:42 |
 | 69 | [Venu](https://open.spotify.com/track/1jTpn2kEJNkajWSx7zng9x) | [H S Venugopal](https://open.spotify.com/artist/5G06dFniw81EaR7vZrs5Cx), [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy), [Shashank Jodidar](https://open.spotify.com/artist/26VFhqyzYKDMH5Eqiipo9L) | [Venu](https://open.spotify.com/album/3pfkWvBU3Y1EAUl4WMpu3c) | 3:26 |
 | 70 | [Spirits](https://open.spotify.com/track/7183jbbu97ZBhqkswLCIoi) | [Relaxing Music Therapy](https://open.spotify.com/artist/7xbVj2U2bY22gyZnh04TlN), [Massage Therapy Music](https://open.spotify.com/artist/4hKUd7Y5CiAGqVk2Z4NV9P), [Spa Relaxation](https://open.spotify.com/artist/3zDIu6wCHnyEtTHbQ1JKmB) | [Relaxing SPA & YOGA Moments](https://open.spotify.com/album/24o2VCBFB9p4LpQ2ZG8jkC) | 1:45 |
 | 71 | [Mindstiller](https://open.spotify.com/track/2IA4wO7fwVunvFQuWeksm8) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Sleeper](https://open.spotify.com/album/6IoRGJxNt4XSc7DbpSnMvm) | 3:36 |
 | 72 | [Bageshri](https://open.spotify.com/track/086xtupAgie6cOt9CnCzsy) | [Buddhadev DasGupta](https://open.spotify.com/artist/4CMEJPRpRGpW6qMvIsFgBU) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 5:58 |
-| 73 | [Deep Meditation](https://open.spotify.com/track/2EwfFUQNTUsf8nqJHUiBcM) | [Dharma Frequency](https://open.spotify.com/artist/3TTdwdIf7UUyeTnG9QWXfI) | [Yoga Retreat](https://open.spotify.com/album/0eAjruWl2AJFaEGFSZ9IR8) | 2:38 |
-| 74 | [Deep Awareness](https://open.spotify.com/track/2VdfLOw5SFQ1Py550Y2KJP) | [Forest Bathing](https://open.spotify.com/artist/6aJCmoJbcNSxH68H4hlVpY) | [Yoga Nidra \- Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes](https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF) | 5:14 |
+| 73 | [Deep Awareness](https://open.spotify.com/track/2VdfLOw5SFQ1Py550Y2KJP) | [Forest Bathing](https://open.spotify.com/artist/6aJCmoJbcNSxH68H4hlVpY) | [Yoga Nidra \- Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes](https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF) | 5:14 |
+| 74 | [Deep Meditation](https://open.spotify.com/track/2EwfFUQNTUsf8nqJHUiBcM) | [Dharma Frequency](https://open.spotify.com/artist/3TTdwdIf7UUyeTnG9QWXfI) | [Yoga Retreat](https://open.spotify.com/album/0eAjruWl2AJFaEGFSZ9IR8) | 2:38 |
 | 75 | [Celestial Space Reiki Harmony](https://open.spotify.com/track/7tmGvgpBA2khyoS3i3ekpY) | [Zoey Quinn](https://open.spotify.com/artist/3X6bhrMbkmIbJ6CFhWgJBo) | [Celestial Space Harmony](https://open.spotify.com/album/0zqWOg6YKuSkfKeL81oKW3) | 4:38 |
 
-Snapshot ID: `AAAAAL77v7VwNXsoPM90VywVThqnF/6H`
+Snapshot ID: `AAAAALr7XJgI52skRB97kI2SPOik57JY`

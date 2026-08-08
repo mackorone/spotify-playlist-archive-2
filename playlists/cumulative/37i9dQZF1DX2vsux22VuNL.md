@@ -2,7 +2,7 @@
 
 ### [brisa](https://open.spotify.com/playlist/37i9dQZF1DX2vsux22VuNL)
 
-> Aquele som que é pura brisa\. 🍃 Foto: Niina, N.I.N.A
+> Aquele som que é pura brisa\. 🍃 Foto: Bê Vieira
 
 524 songs - 1 day 3 hr 12 min
 

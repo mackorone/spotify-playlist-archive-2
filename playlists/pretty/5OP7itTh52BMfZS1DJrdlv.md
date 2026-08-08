@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5OP7itTh52BMfZS1DJrdlv.md) - [plain]
 
 > Christmas Songs 🎅 Classic Christmas Playlist 🎄 2026 Holiday Music ☃️ All Best Christmas Classics Hits Ever ❄️ Christmas Classics 🎁  Merry Christmas, Michael Bublé Christmas 🦌 Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,219,303 likes - 100 songs - 5 hr 25 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,219,246 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/5OP7itTh52BMfZS1DJrdlv.md) - [plain]
 | 12 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:32 |
 | 13 | [Driving Home for Christmas](https://open.spotify.com/track/3Z3QhZAZpqwZa1phsbQ3JZ) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [The Works](https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn) | 4:00 |
 | 14 | [DJ Play A Christmas Song](https://open.spotify.com/track/18uSfZqFBxQFi8CsXOIbhy) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:29 |
-| 15 | [I Wish It Could Be Christmas Everyday \- 2006 Remaster](https://open.spotify.com/track/6C8JkSqdFkE5LN2aXOa9cs) | [Wizzard](https://open.spotify.com/artist/7823Dim2TzjiQQ9wRQxyi9) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 4:49 |
-| 16 | [This Christmas](https://open.spotify.com/track/7MSYSOobsombc1mbDWFxtD) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Donny Hathaway](https://open.spotify.com/album/4yzozr59813IAXnxhWUl7i) | 3:51 |
+| 15 | [This Christmas](https://open.spotify.com/track/7MSYSOobsombc1mbDWFxtD) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Donny Hathaway](https://open.spotify.com/album/4yzozr59813IAXnxhWUl7i) | 3:51 |
+| 16 | [I Wish It Could Be Christmas Everyday \- 2006 Remaster](https://open.spotify.com/track/6C8JkSqdFkE5LN2aXOa9cs) | [Wizzard](https://open.spotify.com/artist/7823Dim2TzjiQQ9wRQxyi9) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 4:49 |
 | 17 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:57 |
 | 18 | [Feliz Navidad](https://open.spotify.com/track/2X9ZDo30Mck6whr2WzaEME) | [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [Christmas with The Tenors](https://open.spotify.com/album/3KPvwbNGc4WL7IzvD0fP2V) | 2:45 |
 | 19 | [Sleigh Ride](https://open.spotify.com/track/5ASM6Qjiav2xPe7gRkQMsQ) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/5OP7itTh52BMfZS1DJrdlv.md) - [plain]
 | 99 | [Believe](https://open.spotify.com/track/2vJAjPkVMPKkR3xd2wacZa) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [The Polar Express \(Original Motion Picture Soundtrack\) \[Special Edition\]](https://open.spotify.com/album/64jNt6b5Ds4itNEXTpk9Fk) | 4:18 |
 | 100 | [What Christmas Means To Me \(with Stevie Wonder\)](https://open.spotify.com/track/6DIA408m0Am7GDTqCzsI59) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 2:35 |
 
-Snapshot ID: `AAAHtcTSBJYx+6oWDuWoBlDDoraeH+AC`
+Snapshot ID: `AAAHtjUUUfg31geUJJpNzMYROZyDRrtb`

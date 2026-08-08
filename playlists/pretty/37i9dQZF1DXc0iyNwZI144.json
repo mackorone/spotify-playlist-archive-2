@@ -1,12 +1,12 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1024840,
+  "num_followers": 1024798,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPnaS252yGMz+A3DF8G1vEikr5LT",
+  "snapshot_id": "AAAAAKwBlshi4UtmLZ+76tB9fdDqSsEl",
   "tracks": [
     {
       "added_at": "2026-07-24 17:31:08",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-07-24 17:31:08",
       "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/3tD94EmwfRLAX1SaZQvDhC"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        }
-      ],
-      "duration_ms": 161322,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/2KklXplRtxMsBYo474Es0w"
-    },
-    {
-      "added_at": "2026-07-24 17:31:08",
-      "album": {
         "name": "Something Just Like This",
         "url": "https://open.spotify.com/album/7IzpJkWQqgz1BTutQvSitX"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 247626,
       "name": "Something Just Like This",
       "url": "https://open.spotify.com/track/1dNIEtp7AY3oDAKCGg2XkH"
+    },
+    {
+      "added_at": "2026-07-24 17:31:08",
+      "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/3tD94EmwfRLAX1SaZQvDhC"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        }
+      ],
+      "duration_ms": 161322,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/2KklXplRtxMsBYo474Es0w"
     },
     {
       "added_at": "2026-07-24 17:31:08",

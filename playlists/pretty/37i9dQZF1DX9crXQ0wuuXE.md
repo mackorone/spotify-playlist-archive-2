@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 
 > A blend of the best from years past—from indie folk and pop grass to roots rock and Americana\. Cover: The Lumineers
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,393 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,387 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mykonos](https://open.spotify.com/track/18ycL9Q5zLDeY9M2Lr3Ozw) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Sun Giant](https://open.spotify.com/album/2CBfjDdstyhyfOaNqLPOwg) | 4:35 |
 | 2 | [Work Song](https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:49 |
 | 3 | [Big Black Car](https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 3:37 |
-| 4 | [All the Pretty Girls](https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:29 |
-| 5 | [Mountain Sound](https://open.spotify.com/track/60ZGteAEtPCnGE6zevgUcd) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF) | 3:31 |
+| 4 | [Mountain Sound](https://open.spotify.com/track/60ZGteAEtPCnGE6zevgUcd) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF) | 3:31 |
+| 5 | [All the Pretty Girls](https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:29 |
 | 6 | [My Silver Lining](https://open.spotify.com/track/5BkNCuxzzid0gz9sx3NNbX) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Stay Gold](https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9) | 3:35 |
 | 7 | [Old Pine](https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 5:28 |
 | 8 | [WHERE WE ARE](https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 2:52 |
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 | 76 | [Good Woman](https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:17 |
 | 77 | [Violent Shiver](https://open.spotify.com/track/1kJP08Hra8FQBz5dG80k3m) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Benjamin Booker](https://open.spotify.com/album/3U5HIgBNjlWD7s83b5JVpu) | 2:46 |
 | 78 | [On the Frame](https://open.spotify.com/track/4ZeCZyI1Zhh1tVkThl34px) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Colony of Bees](https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU) | 3:39 |
-| 79 | [Rubber](https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Rubber](https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV) | 3:18 |
-| 80 | [Workin' Woman Blues](https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:05 |
-| 81 | [Kansas City](https://open.spotify.com/track/4p4YWRwlMj6XFcHkOrAbG7) | [The New Basement Tapes](https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK) | [Lost On The River](https://open.spotify.com/album/0P08GE8Ep1eBK9dOnaYdRq) | 4:04 |
+| 79 | [Kansas City](https://open.spotify.com/track/4p4YWRwlMj6XFcHkOrAbG7) | [The New Basement Tapes](https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK) | [Lost On The River](https://open.spotify.com/album/0P08GE8Ep1eBK9dOnaYdRq) | 4:04 |
+| 80 | [Rubber](https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Rubber](https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV) | 3:18 |
+| 81 | [Workin' Woman Blues](https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:05 |
 | 82 | [Steady](https://open.spotify.com/track/7nPISm9kJLgZVhkIozoLZS) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [If I Was \(Deluxe Edition\)](https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS) | 3:28 |
 | 83 | [Optimism](https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Optimism](https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd) | 1:59 |
 | 84 | [Wreck You](https://open.spotify.com/track/1Ee33iUeDRUA5sGshbsOWM) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Bird & the Rifle](https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 | 99 | [Altar Wine](https://open.spotify.com/track/0vWhZzjfCVGDHSoU7J8nKg) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | [Strip Me Bare](https://open.spotify.com/album/5b044uNakdk3iq3FoxFSu6) | 3:35 |
 | 100 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 |
 
-Snapshot ID: `AAAAAFzuXQS4zmlH4pYBfQPMBhnJhy/z`
+Snapshot ID: `AAAAAEXHY0qBPi0EsxmsDVkfT8rhTaF0`

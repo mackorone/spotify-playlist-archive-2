@@ -1708,7 +1708,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 197485,
       "name": "Chanza",
       "url": "https://open.spotify.com/track/3MVcDjWjWVmaxNLfHqcm6G"
@@ -6957,6 +6957,24 @@
     },
     {
       "album": {
+        "name": "No Puedo M\u00e1s",
+        "url": "https://open.spotify.com/album/1stWdnmPun1ltjryx4MWIp"
+      },
+      "artists": [
+        {
+          "name": "Ilusion Eterno",
+          "url": "https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187702,
+      "name": "No Puedo M\u00e1s",
+      "url": "https://open.spotify.com/track/668c13TJaMLiel3D86TNLv"
+    },
+    {
+      "album": {
         "name": "No Se Puede Decir Adi\u00f3s / Nuestra Canci\u00f3n",
         "url": "https://open.spotify.com/album/2hajlGHDWlqIzHh1bvST29"
       },
@@ -9631,6 +9649,24 @@
     },
     {
       "album": {
+        "name": "Si Un D\u00eda Me Extra\u00f1as",
+        "url": "https://open.spotify.com/album/0h7ddj7I7SsXci0mOI9lgd"
+      },
+      "artists": [
+        {
+          "name": "RIA",
+          "url": "https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206680,
+      "name": "Si Un D\u00eda Me Extra\u00f1as",
+      "url": "https://open.spotify.com/track/5PfOuTytmTRASLSjreZe2j"
+    },
+    {
+      "album": {
         "name": "Sigo Muerto",
         "url": "https://open.spotify.com/album/1aPO6B5MYdkyiZ4vYA1YSX"
       },
@@ -11630,7 +11666,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 154506,
       "name": "Una Vez Y Ya",
       "url": "https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD"

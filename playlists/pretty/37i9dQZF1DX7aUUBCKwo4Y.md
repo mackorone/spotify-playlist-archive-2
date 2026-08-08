@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aUUBCKwo4Y.md) - [plain]
 
 > Country music's 50 most played songs in the world\. Updated weekly\. Cover: Ella Langley
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,033,116 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,033,617 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Choosin' Texas](https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi) | 3:52 |
-| 2 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 |
-| 3 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
-| 4 | [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |
-| 5 | [Be Her](https://open.spotify.com/track/05CjWFAcAlY6O9po6Qwakk) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Be Her](https://open.spotify.com/album/0xY9ccawTTfHlwdVlkDT90) | 3:37 |
-| 6 | [Been By Now](https://open.spotify.com/track/3xwMjQriBVW0OGEvNKo9c0) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Been By Now](https://open.spotify.com/album/2CW0gIlEO8iQBUdtRyxnb4) | 3:33 |
-| 7 | [Be By You](https://open.spotify.com/track/7aLndReanHBzpTGE5Am9H8) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Be By You](https://open.spotify.com/album/5xDfjX4jwqezEfiRzFwHCs) | 3:17 |
-| 8 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 |
-| 9 | [Boston](https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Boston](https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2) | 2:50 |
+| 2 | [Been By Now](https://open.spotify.com/track/3xwMjQriBVW0OGEvNKo9c0) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Been By Now](https://open.spotify.com/album/2CW0gIlEO8iQBUdtRyxnb4) | 3:33 |
+| 3 | [Boston](https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Boston](https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2) | 2:50 |
+| 4 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 |
+| 5 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
+| 6 | [I Knew It, I Knew You \- From "Toy Story 5"](https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [I Knew It, I Knew You \(From "Toy Story 5"\)](https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6) | 2:58 |
+| 7 | [Be Her](https://open.spotify.com/track/05CjWFAcAlY6O9po6Qwakk) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Be Her](https://open.spotify.com/album/0xY9ccawTTfHlwdVlkDT90) | 3:37 |
+| 8 | [Be By You](https://open.spotify.com/track/7aLndReanHBzpTGE5Am9H8) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Be By You](https://open.spotify.com/album/5xDfjX4jwqezEfiRzFwHCs) | 3:17 |
+| 9 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 |
 | 10 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 |
 | 11 | [Worst Way](https://open.spotify.com/track/4u2pk0zATUkEeMtuuMtu46) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Worst Way](https://open.spotify.com/album/2pEZkJlkzLMBXPUPWyQJxn) | 3:40 |
 | 12 | [I Can't Love You Anymore](https://open.spotify.com/track/5aVBxVa0kz9uzv0F4gwdEn) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Can't Love You Anymore](https://open.spotify.com/album/5BFfobflVIOwebqy5RtBcP) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aUUBCKwo4Y.md) - [plain]
 | 49 | [Drinkin' Problem](https://open.spotify.com/track/1vBpwxsLVwaR4evBIaFmqD) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [On The Rocks](https://open.spotify.com/album/5p5lKDY6Ag62f8HWfIFzQ0) | 3:40 |
 | 50 | [Chicken Fried](https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 3:58 |
 
-Snapshot ID: `AAAAAImO4ddxNz5DQ4RZyUKnT9bGelOk`
+Snapshot ID: `AAAAADifbW+gZtDZ+klQvXQH2uVWSrLq`

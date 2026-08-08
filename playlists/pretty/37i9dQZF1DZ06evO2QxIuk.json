@@ -1,12 +1,12 @@
 {
   "description": "This is Earth, Wind & Fire. The essential tracks, all in one playlist.",
-  "num_followers": 375492,
+  "num_followers": 375501,
   "original_name": "This Is Earth, Wind & Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAAeYx5rpJf/U2vL+owSaURN",
+  "snapshot_id": "anPOgAAAAABqATvbUGADFdIpBh5spchn",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All 'N All",
-        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 308444,
-      "name": "Be Ever Wonderful",
-      "url": "https://open.spotify.com/track/1Q02TxUD4iUeqtkRSXBxrs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live in Rio",
         "url": "https://open.spotify.com/album/3gCFUQmjNT5kVnSIapZPvM"
       },
@@ -515,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+        "name": "All 'N All",
+        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
       },
       "artists": [
         {
@@ -524,9 +508,9 @@
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 265867,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/4e0Yl8XceW6RLi8zZpL1qW"
+      "duration_ms": 308444,
+      "name": "Be Ever Wonderful",
+      "url": "https://open.spotify.com/track/1Q02TxUD4iUeqtkRSXBxrs"
     },
     {
       "added_at": null,
@@ -547,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All 'N All",
-        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
       "artists": [
         {
@@ -556,9 +540,9 @@
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 191408,
-      "name": "Jupiter",
-      "url": "https://open.spotify.com/track/5ewxaF5cInYvQ8oeNKeN6d"
+      "duration_ms": 265867,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/4e0Yl8XceW6RLi8zZpL1qW"
     },
     {
       "added_at": null,
@@ -575,6 +559,22 @@
       "duration_ms": 141293,
       "name": "Would You Mind",
       "url": "https://open.spotify.com/track/5wnRvlX2POTq4K8p3ssP7Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All 'N All",
+        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 191408,
+      "name": "Jupiter",
+      "url": "https://open.spotify.com/track/5ewxaF5cInYvQ8oeNKeN6d"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All 'N All",
-        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 324635,
-      "name": "I'll Write a Song for You",
-      "url": "https://open.spotify.com/track/5RMTMx6CQ5g8ZoYTnh9dkB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sun Goddess",
         "url": "https://open.spotify.com/album/7F4lzjaoC7ghF162g0iGh5"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 509524,
       "name": "Sun Goddess (feat. Ramsey Lewis)",
       "url": "https://open.spotify.com/track/6NzOdf2JKluJVXEKjGDAMA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All 'N All",
+        "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 324635,
+      "name": "I'll Write a Song for You",
+      "url": "https://open.spotify.com/track/5RMTMx6CQ5g8ZoYTnh9dkB"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XrA0OT5b6M.md) - [plain]
 
 > Music from TV Anime "ONE PIECE" /TVアニメ「ONE PIECE」の楽曲を1つのプレイリストで。©️尾田栄一郎／集英社・フジテレビ・東映アニメーション
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,235 likes - 58 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,265 likes - 58 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XrA0OT5b6M.md) - [plain]
 | 11 | [ウィーアー!](https://open.spotify.com/track/1PdWDLJNk040dkuXoLLE2F) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ウィーアー! \(TVアニメ『ONE PIECE』オープニングテーマ\)](https://open.spotify.com/album/2vcNw2eDoavdqNTPVZ8T6u) | 4:01 |
 | 12 | [あーーっす！](https://open.spotify.com/track/3rki2mgXaUSL8av1syOWTB) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [あーーっす！](https://open.spotify.com/album/1Sv4GsJ3FXqyCXKgPXaVM1) | 3:17 |
 | 13 | [Dear sunrise](https://open.spotify.com/track/25EjH8afEtEVAo545MsfOi) | [Maki Otsuki](https://open.spotify.com/artist/2cZngrpi14BX8viqaPl5m5) | [Dear sunrise](https://open.spotify.com/album/5oi9Tau6QtV499bgMOEDZo) | 3:39 |
-| 14 | [TVアニメ『ONE PIECE』25周年！ 【きただにひろし×田中公平】あーーっす！スペシャル対談](https://open.spotify.com/episode/4YdvgzkkZPAnA0ntN176Bm) | [Spotify ANIZONE \- アニゾーン 【ワールド イズ ダンシング／ビデオポッドキャスト】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【ワールド イズ ダンシング／ビデオポッドキャスト】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 41:44 |
+| 14 | [TVアニメ『ONE PIECE』25周年！ 【きただにひろし×田中公平】あーーっす！スペシャル対談](https://open.spotify.com/episode/4YdvgzkkZPAnA0ntN176Bm) | [Spotify ANIZONE \- アニゾーン 【攻殻機動隊 THE GHOST IN THE SHELL／ビデオポッドキャスト】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【攻殻機動隊 THE GHOST IN THE SHELL／ビデオポッドキャスト】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 41:44 |
 | 15 | [最高到達点](https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最高到達点](https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN) | 3:47 |
 | 16 | [Raise](https://open.spotify.com/track/5VOPZfKO6Q03IAiVckyAvU) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [for you](https://open.spotify.com/album/0AL3p6UDvVaOrbb1NeYGY9) | 3:34 |
 | 17 | [おれの最高地点](https://open.spotify.com/track/0chKjPMdnbJ1KXiSjbb267) | [浜口史郎](https://open.spotify.com/artist/5FEPyIbmJMiYvBPmbYTdpG), [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE Original Soundtrack"GEAR5"](https://open.spotify.com/album/1jmR8jrRGykXMhptwhyUY0) | 3:03 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XrA0OT5b6M.md) - [plain]
 | 57 | [狂死郎参戦！新たな仲間](https://open.spotify.com/track/7D8JnXbtnRsrbcTEVppEPM) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE オリジナルサウンドトラック"WANOKUNI"](https://open.spotify.com/album/0DyIQWyWWthQ3f9xRP1hXa) | 1:54 |
 | 58 | [ビンクスの酒](https://open.spotify.com/track/0GTBuk8CRs2ra4KNK5r0lC) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b), [KAZBONGO](https://open.spotify.com/artist/6nvDGAhoidfJLJkCZuewDY) | [ONE PIECE Arrange Collection \(EDM\)](https://open.spotify.com/album/1rPBgOa02pHRy3sOvdW5Hf) | 3:27 |
 
-Snapshot ID: `AAAAADrLy5svcC1PuEURA8rAVhF2czQD`
+Snapshot ID: `AAAAAJK5YaRYxkGcCriRnFguLJOeTzS4`

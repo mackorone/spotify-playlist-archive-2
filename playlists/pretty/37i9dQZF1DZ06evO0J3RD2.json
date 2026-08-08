@@ -1,29 +1,13 @@
 {
   "description": "This is Movements. The essential tracks, all in one playlist.",
-  "num_followers": 10299,
+  "num_followers": 10301,
   "original_name": "This Is Movements",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAArlE+T7g5j+BK1beGT7Qf2",
+  "snapshot_id": "anPOgAAAAABJehEOfQyFKWDJt6fjqiMF",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Separate",
-        "url": "https://open.spotify.com/album/0g7GoM0FyngljVs9mBSKKx"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 236692,
-      "name": "Separate",
-      "url": "https://open.spotify.com/track/61ebglogYwWK4aBLr7AHi3"
-    },
     {
       "added_at": null,
       "album": {
@@ -75,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back in My Ways",
-        "url": "https://open.spotify.com/album/7HYOkNQbfd5qadZaJ2S3Ec"
+        "name": "Separate",
+        "url": "https://open.spotify.com/album/0g7GoM0FyngljVs9mBSKKx"
       },
       "artists": [
         {
@@ -84,9 +68,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 243286,
-      "name": "Back in My Ways",
-      "url": "https://open.spotify.com/track/4NPjrrOSlNtJAZL1hofOFP"
+      "duration_ms": 236692,
+      "name": "Separate",
+      "url": "https://open.spotify.com/track/61ebglogYwWK4aBLr7AHi3"
     },
     {
       "added_at": null,
@@ -103,6 +87,22 @@
       "duration_ms": 204786,
       "name": "Full Circle",
       "url": "https://open.spotify.com/track/4pdPJQqQNWuDQ6Swl2mW2u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back in My Ways",
+        "url": "https://open.spotify.com/album/7HYOkNQbfd5qadZaJ2S3Ec"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 243286,
+      "name": "Back in My Ways",
+      "url": "https://open.spotify.com/track/4NPjrrOSlNtJAZL1hofOFP"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cherry Thrill",
-        "url": "https://open.spotify.com/album/2M5bOmQDM8v3o9dDLBAP5p"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 199521,
-      "name": "Cherry Thrill",
-      "url": "https://open.spotify.com/track/3zrA9UNPZqSpgFD1GXIHhg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 220373,
       "name": "Colorblind",
       "url": "https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cherry Thrill",
+        "url": "https://open.spotify.com/album/2M5bOmQDM8v3o9dDLBAP5p"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 199521,
+      "name": "Cherry Thrill",
+      "url": "https://open.spotify.com/track/3zrA9UNPZqSpgFD1GXIHhg"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where I Lay",
-        "url": "https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 216741,
-      "name": "Where I Lay",
-      "url": "https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 226360,
       "name": "Third Degree",
       "url": "https://open.spotify.com/track/31ziLyxm1ZIy8vEXM6EzkF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where I Lay",
+        "url": "https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 216741,
+      "name": "Where I Lay",
+      "url": "https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Good Left To Give (B-Sides)",
-        "url": "https://open.spotify.com/album/5hHi9UqkmVQ1kDJO2ufgs8"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 188325,
-      "name": "Panic",
-      "url": "https://open.spotify.com/track/0qwoBdMnysN7dDT6tK3fcE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 284626,
       "name": "Suffer Through",
       "url": "https://open.spotify.com/track/3tNScF4XZyN4vVwuvgxOlR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Good Left To Give (B-Sides)",
+        "url": "https://open.spotify.com/album/5hHi9UqkmVQ1kDJO2ufgs8"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 188325,
+      "name": "Panic",
+      "url": "https://open.spotify.com/track/0qwoBdMnysN7dDT6tK3fcE"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Good Left To Give (B-Sides)",
-        "url": "https://open.spotify.com/album/5hHi9UqkmVQ1kDJO2ufgs8"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 237558,
-      "name": "No Silhouette",
-      "url": "https://open.spotify.com/track/2AUklDRxsrryo0AgL0Wcvo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 227840,
       "name": "Deadly Dull",
       "url": "https://open.spotify.com/track/4qod43EImMolOovemD03is"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Good Left To Give (B-Sides)",
+        "url": "https://open.spotify.com/album/5hHi9UqkmVQ1kDJO2ufgs8"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 237558,
+      "name": "No Silhouette",
+      "url": "https://open.spotify.com/track/2AUklDRxsrryo0AgL0Wcvo"
     },
     {
       "added_at": null,

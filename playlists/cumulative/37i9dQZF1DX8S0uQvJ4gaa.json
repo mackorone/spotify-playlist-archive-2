@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Break them in, wear them out. Cover: Wyatt Flores",
+  "description": "Break them in, wear them out. Cover: Dylan Gossett",
   "name": "New Boots",
   "tracks": [
     {
@@ -5632,7 +5632,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 161613,
       "name": "Boots Off",
       "url": "https://open.spotify.com/track/3MlvvRRwYfCpgIqUUPeYQ0"
@@ -12054,7 +12054,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 221826,
       "name": "Dogs Are Barking",
       "url": "https://open.spotify.com/track/5O8TLs9w3cTzhn97KQkBYt"
@@ -14070,7 +14070,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 156466,
       "name": "Every Single Summer",
       "url": "https://open.spotify.com/track/5goZ77KeX08Iii1KG1ukZO"
@@ -19869,6 +19869,24 @@
     },
     {
       "album": {
+        "name": "Happy For Myself",
+        "url": "https://open.spotify.com/album/6ikfoJwEotEUf1cxuNdA7e"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165366,
+      "name": "Happy For Myself",
+      "url": "https://open.spotify.com/track/36dsWcxFduUk1YJASw1lYp"
+    },
+    {
+      "album": {
         "name": "Happy For You",
         "url": "https://open.spotify.com/album/2T2KH9bJAcgNUqc8SShLZb"
       },
@@ -23132,7 +23150,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 195060,
       "name": "Honeysuckle",
       "url": "https://open.spotify.com/track/2SDysVSv74sRO77e4Av4ce"
@@ -28715,6 +28733,24 @@
     },
     {
       "album": {
+        "name": "Lean In, Kiss Me",
+        "url": "https://open.spotify.com/album/3FbC4QiZOBbpKENEnk1Wj6"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158973,
+      "name": "Lean In, Kiss Me",
+      "url": "https://open.spotify.com/track/4W5TwNu9mgYlIltWW6FnEE"
+    },
+    {
+      "album": {
         "name": "Learn From It",
         "url": "https://open.spotify.com/album/7vFiXBUWlapCxGcKni9vh0"
       },
@@ -31183,6 +31219,24 @@
     },
     {
       "album": {
+        "name": "Loving You Like That",
+        "url": "https://open.spotify.com/album/14mWqWNWb41eUWAHFiryiH"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265401,
+      "name": "Loving You Like That",
+      "url": "https://open.spotify.com/track/3LBOyssekEWeHA7TaGEksG"
+    },
+    {
+      "album": {
         "name": "LOW ROAD (feat. Avery Anna)",
         "url": "https://open.spotify.com/album/6IGH3D37Bkrko7WBfW9VEY"
       },
@@ -31432,7 +31486,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 225159,
       "name": "Made It A Memory",
       "url": "https://open.spotify.com/track/4L7KOhvgtGcu18mj8CfX95"
@@ -32240,6 +32294,24 @@
       "duration_ms": 189130,
       "name": "Me and Mine",
       "url": "https://open.spotify.com/track/7xs3L6QuuIwl7KUR0yNxcE"
+    },
+    {
+      "album": {
+        "name": "Me And Whiskey",
+        "url": "https://open.spotify.com/album/18E1qyOTtIIJ6NLiGlxgsj"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165906,
+      "name": "Me And Whiskey",
+      "url": "https://open.spotify.com/track/0IQrcA8XzsLwbJi3Q8ZjfM"
     },
     {
       "album": {
@@ -42554,7 +42626,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 211533,
       "name": "She Don\u2019t",
       "url": "https://open.spotify.com/track/5JBX2qzPTxZSOvJj9Q5U9P"
@@ -43056,6 +43128,24 @@
       "duration_ms": 165226,
       "name": "Side Piece",
       "url": "https://open.spotify.com/track/0DaWHCMOuyrdFPlbHBA5UE"
+    },
+    {
+      "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/7MT9amGXSnTJpeC2ATgNnc"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154536,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/7jhElwMOXDg8Zp0wJipK4e"
     },
     {
       "album": {
@@ -43770,6 +43860,24 @@
       "duration_ms": 150218,
       "name": "Small Town Girls",
       "url": "https://open.spotify.com/track/6Dm7r7IyaNLOnLKXs0MhKD"
+    },
+    {
+      "album": {
+        "name": "Small Town Heart",
+        "url": "https://open.spotify.com/album/7qdbxX4Q4SBBpA0W8o6tXm"
+      },
+      "artists": [
+        {
+          "name": "The Jack Wharff Band",
+          "url": "https://open.spotify.com/artist/7Hw6prEoT6M58ChR8A1Rlz"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172502,
+      "name": "Small Town Heart",
+      "url": "https://open.spotify.com/track/31N2lCZVZfGdLeyV5MB0an"
     },
     {
       "album": {
@@ -49507,6 +49615,28 @@
     },
     {
       "album": {
+        "name": "There You Go",
+        "url": "https://open.spotify.com/album/2j1E3Z7FdTlyMvmhnnH781"
+      },
+      "artists": [
+        {
+          "name": "Adam Doleac",
+          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
+        },
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202800,
+      "name": "There You Go",
+      "url": "https://open.spotify.com/track/4kT0MvN1llVpJFPQTdSCnf"
+    },
+    {
+      "album": {
         "name": "Singles Only",
         "url": "https://open.spotify.com/album/1iZv0S6Nbz5iz9ZB7wH8nn"
       },
@@ -52542,7 +52672,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 167152,
       "name": "Want For Nothing",
       "url": "https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI"

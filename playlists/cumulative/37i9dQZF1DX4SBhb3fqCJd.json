@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B lives. Cover: Odeal",
+  "description": "Where R&B lives. Cover: Brent Faiyaz",
   "name": "RNB X",
   "tracks": [
     {
@@ -2188,7 +2188,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 248297,
       "name": "butterflies.",
       "url": "https://open.spotify.com/track/4jyyma8YdFC4S4llusSFRu"
@@ -3636,7 +3636,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 224920,
       "name": "Don\u2019t Break Her Heart",
       "url": "https://open.spotify.com/track/4CBDC9hPTHAwYN8y9XUEw6"
@@ -8129,6 +8129,24 @@
     },
     {
       "album": {
+        "name": "Icon (Director's Cut)",
+        "url": "https://open.spotify.com/album/6HDOmDgxzVWIhBAKDGI4tV"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200610,
+      "name": "like it was. [bonus track]",
+      "url": "https://open.spotify.com/track/2UgTHKJFCYqQ7CGmmslDeC"
+    },
+    {
+      "album": {
         "name": "linknb",
         "url": "https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc"
       },
@@ -8888,7 +8906,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 232736,
       "name": "Man On A Mission (feat. Wizkid)",
       "url": "https://open.spotify.com/track/23wy2RcVfQRv0TYWTPfbep"
@@ -9338,10 +9356,32 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 243896,
       "name": "MORNING DEW (DONK)",
       "url": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT"
+    },
+    {
+      "album": {
+        "name": "MORNING DEW (DONK) REMIX PACK",
+        "url": "https://open.spotify.com/album/6zaCeCipglDayKB85IVKRl"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217215,
+      "name": "MORNING DEW (DONK) REMIX FEAT JA\u0178-Z",
+      "url": "https://open.spotify.com/track/5sTOQbZvUnrX7lFfLRmpFw"
     },
     {
       "album": {
@@ -12769,6 +12809,28 @@
     },
     {
       "album": {
+        "name": "THERAPY AT THE CLUB",
+        "url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Sex In Peace (ft. kwn)",
+      "url": "https://open.spotify.com/track/55LgZlNjXalYkfgdfiedMi"
+    },
+    {
+      "album": {
         "name": "Sex In The Porsche (and PARTYNEXTDOOR)",
         "url": "https://open.spotify.com/album/0uHHoKJvLxf4gGRhyTUpjy"
       },
@@ -12904,6 +12966,24 @@
       "duration_ms": 226835,
       "name": "Shoulda Woulda Coulda",
       "url": "https://open.spotify.com/track/24tiLnZ26wjYX3UiKUmVdK"
+    },
+    {
+      "album": {
+        "name": "THERAPY AT THE CLUB",
+        "url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/2mSdn53xu9DuJ7RBY8efTn"
     },
     {
       "album": {

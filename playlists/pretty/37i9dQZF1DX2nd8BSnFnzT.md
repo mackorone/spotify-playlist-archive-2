@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Lançamentos 100% rock brasileiro\. Foto: Lua Dultra
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,400 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,638 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 8 | [Amor de Aplicativo \- Ao Vivo na Serra Gaúcha](https://open.spotify.com/track/7FY9bRfnggfO6zmNrhLwt6) | [Vera Loca](https://open.spotify.com/artist/463Hk05MjkBYUyuB00luqt), [Carlinhos Carneiro](https://open.spotify.com/artist/1GdLxGsCiuIbhLh7JwIq7l) | [Amor de Aplicativo \- Ao Vivo na Serra Gaúcha](https://open.spotify.com/album/4MxUt1eAB8nRmglSyi0RIN) | 3:44 |
 | 9 | [Daddy](https://open.spotify.com/track/4YkqBAjXDi7dDJFlk5lrgP) | [Camarones Orquestra Guitarrística](https://open.spotify.com/artist/1lgCw7strGg0tVjf13Ou4Q) | [Daddy](https://open.spotify.com/album/1YmWJJyiJrnr7kyhrNeiv6) | 2:21 |
 | 10 | [Ao meu Amor](https://open.spotify.com/track/0p8DqXNXLlZnqDcKX6yIvB) | [Ivana Wonder](https://open.spotify.com/artist/2vVl1smWpL0tEKjzucRXM7), [CATTO](https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3) | [Ao meu Amor](https://open.spotify.com/album/1nEnx7CMdS8qrTuC4ibzj4) | 3:43 |
-| 11 | [Não Foi Difícil](https://open.spotify.com/track/3n8i4Nz4ItRrWvnfWn0zW5) | [Marcelo Nova](https://open.spotify.com/artist/3iveSsIHvm1TAWhJRJ2z58), [Drake Nova](https://open.spotify.com/artist/1e9MrfPBDLgHdpJ9CKhwmu) | [Não Foi Difícil](https://open.spotify.com/album/7doms2pf6GlfPb1O8oF09R) | 4:10 |
+| 11 | [Não Foi Difícil](https://open.spotify.com/track/3n8i4Nz4ItRrWvnfWn0zW5) | [Drake Nova](https://open.spotify.com/artist/1e9MrfPBDLgHdpJ9CKhwmu), [Marcelo Nova](https://open.spotify.com/artist/3iveSsIHvm1TAWhJRJ2z58) | [Não Foi Difícil](https://open.spotify.com/album/7doms2pf6GlfPb1O8oF09R) | 4:10 |
 | 12 | [Perto do Fim](https://open.spotify.com/track/50xsEuuSZs2TxVHxO804fp) | [Baleia Azul](https://open.spotify.com/artist/5MMSL3cpokev9oszleNCDC) | [Perto do Fim](https://open.spotify.com/album/3fPPpDehRoTYPeG2Z15REd) | 4:54 |
 | 13 | [Nova Paixão](https://open.spotify.com/track/4jJketS7IciufwvBiGsCRi) | [Bella e o Olmo da Bruxa](https://open.spotify.com/artist/62Tp9euxMx6wd0uyiZR4YM) | [AO VIVO NO CASARÃO](https://open.spotify.com/album/1cC4FAuuFdp05ywlf4KmGP) | 2:49 |
 | 14 | [Imediatamente](https://open.spotify.com/track/3ScNag6QaSo4NEK454KqNc) | [Muzgo](https://open.spotify.com/artist/3BYxdcsWhoQ4Tj4RNmOsZg) | [Imediatamente](https://open.spotify.com/album/2RuHJ13WuhMHKfu9Xx6SDO) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 49 | [Um Doce](https://open.spotify.com/track/1GxuSylGuKOmvwZjB30XZe) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [XXX](https://open.spotify.com/album/7hblqnTE9JBown6OuvVJNh) | 3:15 |
 | 50 | [o que você quiser](https://open.spotify.com/track/35NplPnYaCevijnRs2bmik) | [Dado Villa\-Lobos](https://open.spotify.com/artist/5hmsETFK65bzCg0ORAboDr) | [o que você quiser](https://open.spotify.com/album/6np4eVJ5I9pzNHYN6ywEkX) | 3:15 |
 
-Snapshot ID: `AAAAAMFb+ZaIDlbQy46yK1pMwPwsGcfo`
+Snapshot ID: `AAAAAOEgMWXJrkjQzFucOFNHnCwJVXi+`

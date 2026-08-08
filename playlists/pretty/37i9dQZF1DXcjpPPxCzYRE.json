@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 443780,
+  "num_followers": 443802,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD4q5CbL4lQoQdxvckD6HHcfoqh9",
+  "snapshot_id": "AAAAAOtGPptxRXwWVTvgGYk6GVMLKsuq",
   "tracks": [
     {
       "added_at": "2026-07-30 22:00:26",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "French Touch",
-        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/3sICyTPASesVzpfGc1nM2t"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "Already Gone",
         "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 300499,
       "name": "Into The Sun - EP Version",
       "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "French Touch",
+        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/3sICyTPASesVzpfGc1nM2t"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Small Changes",
-        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 271930,
-      "name": "One And Only",
-      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "Oh My Messy Mind",
         "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 225920,
       "name": "Bad",
       "url": "https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "Small Changes",
+        "url": "https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 271930,
+      "name": "One And Only",
+      "url": "https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "ThunderWave",
-        "url": "https://open.spotify.com/album/6X04Gtu90ik0MFHv09TOIL"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 194040,
-      "name": "ThunderWave",
-      "url": "https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "Dreamers",
         "url": "https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA"
       },
@@ -1071,18 +1051,22 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Otro perro andaluz (Cara A)",
-        "url": "https://open.spotify.com/album/2cOpckhbqB59KjU5DPZgFa"
+        "name": "ThunderWave",
+        "url": "https://open.spotify.com/album/6X04Gtu90ik0MFHv09TOIL"
       },
       "artists": [
         {
-          "name": "CABA",
-          "url": "https://open.spotify.com/artist/1Ykk8rtcNvLUvk9OVfQeNV"
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
         }
       ],
-      "duration_ms": 166336,
-      "name": "Un d\u00eda de julio",
-      "url": "https://open.spotify.com/track/0nTUUeFPxXnn2rLkQUeI52"
+      "duration_ms": 194040,
+      "name": "ThunderWave",
+      "url": "https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1119,6 +1103,22 @@
       "duration_ms": 217360,
       "name": "Hold Your Head Up High",
       "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "Otro perro andaluz (Cara A)",
+        "url": "https://open.spotify.com/album/2cOpckhbqB59KjU5DPZgFa"
+      },
+      "artists": [
+        {
+          "name": "CABA",
+          "url": "https://open.spotify.com/artist/1Ykk8rtcNvLUvk9OVfQeNV"
+        }
+      ],
+      "duration_ms": 166336,
+      "name": "Un d\u00eda de julio",
+      "url": "https://open.spotify.com/track/0nTUUeFPxXnn2rLkQUeI52"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Sendero",
-        "url": "https://open.spotify.com/album/6t2TdfdAexix1Q4RQtl5VG"
-      },
-      "artists": [
-        {
-          "name": "Twanguero",
-          "url": "https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS"
-        }
-      ],
-      "duration_ms": 292393,
-      "name": "Sendero",
-      "url": "https://open.spotify.com/track/1VMZhU40aZ47lvM0IE67M6"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "Sanadoras Voluntades",
         "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
       },
@@ -1371,22 +1355,18 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "amor 925.",
-        "url": "https://open.spotify.com/album/5WYIGMOLsblbp2MbZxBvL7"
+        "name": "Sendero",
+        "url": "https://open.spotify.com/album/6t2TdfdAexix1Q4RQtl5VG"
       },
       "artists": [
         {
-          "name": "Rodricc",
-          "url": "https://open.spotify.com/artist/2Xk1gzXNwqLrrT8gne7oyw"
-        },
-        {
-          "name": "Blue Lacey",
-          "url": "https://open.spotify.com/artist/7FV117P1Xq7hl9jQkCkWs8"
+          "name": "Twanguero",
+          "url": "https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS"
         }
       ],
-      "duration_ms": 209591,
-      "name": "No Valdr\u00e1 La Pena",
-      "url": "https://open.spotify.com/track/0Gbd4juv2LPIFj1kAQ7Ya5"
+      "duration_ms": 292393,
+      "name": "Sendero",
+      "url": "https://open.spotify.com/track/1VMZhU40aZ47lvM0IE67M6"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1419,6 +1399,26 @@
       "duration_ms": 176160,
       "name": "Time (For You)",
       "url": "https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "amor 925.",
+        "url": "https://open.spotify.com/album/5WYIGMOLsblbp2MbZxBvL7"
+      },
+      "artists": [
+        {
+          "name": "Rodricc",
+          "url": "https://open.spotify.com/artist/2Xk1gzXNwqLrrT8gne7oyw"
+        },
+        {
+          "name": "Blue Lacey",
+          "url": "https://open.spotify.com/artist/7FV117P1Xq7hl9jQkCkWs8"
+        }
+      ],
+      "duration_ms": 209591,
+      "name": "No Valdr\u00e1 La Pena",
+      "url": "https://open.spotify.com/track/0Gbd4juv2LPIFj1kAQ7Ya5"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Hoguera",
-        "url": "https://open.spotify.com/album/2pzAYYyDlNiKoZrVr0CjNq"
-      },
-      "artists": [
-        {
-          "name": "Ant Cosmos",
-          "url": "https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ"
-        },
-        {
-          "name": "Isa Izquierdo",
-          "url": "https://open.spotify.com/artist/0Nz4lEXz9C2hJ2Vvc4edfd"
-        }
-      ],
-      "duration_ms": 234913,
-      "name": "Hoguera",
-      "url": "https://open.spotify.com/track/0jZCz8xSgDL6TAESZ5YUJ8"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "mai adeu",
         "url": "https://open.spotify.com/album/584S9p8PaecDYYRpbP6uZY"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 103461,
       "name": "nada nada",
       "url": "https://open.spotify.com/track/3x2En8Qx8fcOT9eVEyBnqr"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "Hoguera",
+        "url": "https://open.spotify.com/album/2pzAYYyDlNiKoZrVr0CjNq"
+      },
+      "artists": [
+        {
+          "name": "Ant Cosmos",
+          "url": "https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ"
+        },
+        {
+          "name": "Isa Izquierdo",
+          "url": "https://open.spotify.com/artist/0Nz4lEXz9C2hJ2Vvc4edfd"
+        }
+      ],
+      "duration_ms": 234913,
+      "name": "Hoguera",
+      "url": "https://open.spotify.com/track/0jZCz8xSgDL6TAESZ5YUJ8"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "KERALA",
-        "url": "https://open.spotify.com/album/3BnqjgSiSoWbmVtGLHzkZJ"
-      },
-      "artists": [
-        {
-          "name": "Marina Sabadell",
-          "url": "https://open.spotify.com/artist/6gjf3pjPxXu7VUaj3fDt2V"
-        }
-      ],
-      "duration_ms": 213843,
-      "name": "KERALA",
-      "url": "https://open.spotify.com/track/3Faq4qZOlgxLvaBxhFOJ84"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
         "name": "Voy a pensar en ti",
         "url": "https://open.spotify.com/album/34PqcFBUnb8OYk1tNvvfoV"
       },
@@ -2027,50 +2011,18 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Dollhouse",
-        "url": "https://open.spotify.com/album/7KyMspVcsozaqonHmMoQVy"
+        "name": "KERALA",
+        "url": "https://open.spotify.com/album/3BnqjgSiSoWbmVtGLHzkZJ"
       },
       "artists": [
         {
-          "name": "Xenia",
-          "url": "https://open.spotify.com/artist/4A4iJY0b5mySlZkZveuuPR"
+          "name": "Marina Sabadell",
+          "url": "https://open.spotify.com/artist/6gjf3pjPxXu7VUaj3fDt2V"
         }
       ],
-      "duration_ms": 176517,
-      "name": "No volver\u00e1n",
-      "url": "https://open.spotify.com/track/3mE3e1YEIgUCzvoImXDu0h"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
-        "name": "Canci\u00f3n de Cuna para Gabriel y Nicol\u00e1s (Tema inclu\u00eddo en la Banda Sonora Original Blue & Malone Casos Imposibles)",
-        "url": "https://open.spotify.com/album/6r5nOWh4HQxbqAKULzg9QR"
-      },
-      "artists": [
-        {
-          "name": "Coque Malla",
-          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
-        }
-      ],
-      "duration_ms": 195541,
-      "name": "Canci\u00f3n de Cuna para Gabriel y Nicol\u00e1s - Tema inclu\u00eddo en la Banda Sonora Original \"Blue & Malone Casos Imposibles\"",
-      "url": "https://open.spotify.com/track/2Nj6b1tSxcMdLGNp9UOkGy"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
-        "name": "Lim\u00e3o",
-        "url": "https://open.spotify.com/album/4zNnHX6IxlhzI5TMXKxgow"
-      },
-      "artists": [
-        {
-          "name": "navxja",
-          "url": "https://open.spotify.com/artist/1H5AZwBOL8ETpshyqPvYQh"
-        }
-      ],
-      "duration_ms": 217043,
-      "name": "Lim\u00e3o",
-      "url": "https://open.spotify.com/track/0ND0hIRaK0GfPYIqELyp2Z"
+      "duration_ms": 213843,
+      "name": "KERALA",
+      "url": "https://open.spotify.com/track/3Faq4qZOlgxLvaBxhFOJ84"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -2087,22 +2039,6 @@
       "duration_ms": 201441,
       "name": "No quiero olvidar",
       "url": "https://open.spotify.com/track/3TQsgWjUstxYOHnX45kG6j"
-    },
-    {
-      "added_at": "2026-07-30 22:00:26",
-      "album": {
-        "name": "Lista de deseos",
-        "url": "https://open.spotify.com/album/2wADzv1uyKI64HIC7B2FWL"
-      },
-      "artists": [
-        {
-          "name": "Medianoche",
-          "url": "https://open.spotify.com/artist/0cdMQNFIPkvbCvtapjvbkk"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "Lista de deseos",
-      "url": "https://open.spotify.com/track/7r0X1bQXJbZFxttpw3VXG5"
     },
     {
       "added_at": "2026-07-30 22:00:26",
@@ -2127,18 +2063,82 @@
     {
       "added_at": "2026-07-30 22:00:26",
       "album": {
-        "name": "Todav\u00eda",
-        "url": "https://open.spotify.com/album/4pknWOYZ5TNA0ikGrTolxG"
+        "name": "Lim\u00e3o",
+        "url": "https://open.spotify.com/album/4zNnHX6IxlhzI5TMXKxgow"
       },
       "artists": [
         {
-          "name": "VVV [Trippin'you]",
-          "url": "https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU"
+          "name": "navxja",
+          "url": "https://open.spotify.com/artist/1H5AZwBOL8ETpshyqPvYQh"
         }
       ],
-      "duration_ms": 246600,
-      "name": "Todav\u00eda",
-      "url": "https://open.spotify.com/track/5M1C2wqiSk9OqEjZcJEYKe"
+      "duration_ms": 217043,
+      "name": "Lim\u00e3o",
+      "url": "https://open.spotify.com/track/0ND0hIRaK0GfPYIqELyp2Z"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "Canci\u00f3n de Cuna para Gabriel y Nicol\u00e1s (Tema inclu\u00eddo en la Banda Sonora Original Blue & Malone Casos Imposibles)",
+        "url": "https://open.spotify.com/album/6r5nOWh4HQxbqAKULzg9QR"
+      },
+      "artists": [
+        {
+          "name": "Coque Malla",
+          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
+        }
+      ],
+      "duration_ms": 195541,
+      "name": "Canci\u00f3n de Cuna para Gabriel y Nicol\u00e1s - Tema inclu\u00eddo en la Banda Sonora Original \"Blue & Malone Casos Imposibles\"",
+      "url": "https://open.spotify.com/track/2Nj6b1tSxcMdLGNp9UOkGy"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "Dollhouse",
+        "url": "https://open.spotify.com/album/7KyMspVcsozaqonHmMoQVy"
+      },
+      "artists": [
+        {
+          "name": "Xenia",
+          "url": "https://open.spotify.com/artist/4A4iJY0b5mySlZkZveuuPR"
+        }
+      ],
+      "duration_ms": 176517,
+      "name": "No volver\u00e1n",
+      "url": "https://open.spotify.com/track/3mE3e1YEIgUCzvoImXDu0h"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "Lista de deseos",
+        "url": "https://open.spotify.com/album/2wADzv1uyKI64HIC7B2FWL"
+      },
+      "artists": [
+        {
+          "name": "Medianoche",
+          "url": "https://open.spotify.com/artist/0cdMQNFIPkvbCvtapjvbkk"
+        }
+      ],
+      "duration_ms": 196666,
+      "name": "Lista de deseos",
+      "url": "https://open.spotify.com/track/7r0X1bQXJbZFxttpw3VXG5"
+    },
+    {
+      "added_at": "2026-07-30 22:00:26",
+      "album": {
+        "name": "The Inner City",
+        "url": "https://open.spotify.com/album/5UcxFtVIBjkmn6hOVtxlhI"
+      },
+      "artists": [
+        {
+          "name": "Echo Thrills",
+          "url": "https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF"
+        }
+      ],
+      "duration_ms": 180808,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d"
     }
   ],
   "unique_name": "Relax en casa",

@@ -1,13 +1,29 @@
 {
   "description": "The best in blues right now. Cover: Ruthie Foster",
-  "num_followers": 157464,
+  "num_followers": 157550,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACTHqek3ShAQDf5hIf2R1vesKF9T",
+  "snapshot_id": "AAAAAPL5xcLmu5xZ2XUGrOvpcQg0ifpN",
   "tracks": [
+    {
+      "added_at": "2026-08-07 04:00:21",
+      "album": {
+        "name": "Homeless",
+        "url": "https://open.spotify.com/album/7bVZAyerNqPFWxOJsYU8NX"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Krisko & The Broadcast",
+          "url": "https://open.spotify.com/artist/7EUd5VylN6IFwj3hb8VxkY"
+        }
+      ],
+      "duration_ms": 237360,
+      "name": "Homeless",
+      "url": "https://open.spotify.com/track/6WcWBarVaLWRR0PtASCdV2"
+    },
     {
       "added_at": "2026-07-31 04:00:18",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 254953,
       "name": "Tangled",
       "url": "https://open.spotify.com/track/4qZ9hEAVbeTAt3oNXDhs9O"
+    },
+    {
+      "added_at": "2026-08-07 04:00:21",
+      "album": {
+        "name": "Live Your Time",
+        "url": "https://open.spotify.com/album/606k6pqLiEi6a8icCT8rf7"
+      },
+      "artists": [
+        {
+          "name": "Robin Trower",
+          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "Live Your Time",
+      "url": "https://open.spotify.com/track/1fhP9kSniJqlSQl4xfRgq6"
     },
     {
       "added_at": "2026-07-31 04:00:18",
@@ -1395,22 +1427,6 @@
     {
       "added_at": "2025-04-04 04:00:13",
       "album": {
-        "name": "One Go Round",
-        "url": "https://open.spotify.com/album/6JIjH6Tiz0YKhO6wvAzaEX"
-      },
-      "artists": [
-        {
-          "name": "Robin Trower",
-          "url": "https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "One Go Round",
-      "url": "https://open.spotify.com/track/5vTmHsq8cBK4IWjR89Wszd"
-    },
-    {
-      "added_at": "2025-04-04 04:00:13",
-      "album": {
         "name": "Unbreakable",
         "url": "https://open.spotify.com/album/7hYyT1qYD7EaZl7UqbqxZ0"
       },
@@ -1843,34 +1859,6 @@
       "duration_ms": 210900,
       "name": "I Let You Think That You Do",
       "url": "https://open.spotify.com/track/5rhIUOc7EmYB5jbnXfCIhc"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "99 And 1/2 Won't Do",
-        "url": "https://open.spotify.com/album/4TWaiD0oviLCZ4d7pVA6TI"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        },
-        {
-          "name": "The Blind Boys Of Alabama",
-          "url": "https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH"
-        },
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        },
-        {
-          "name": "Dustbowl Revival",
-          "url": "https://open.spotify.com/artist/3cB0nIIeIGSuMlw6rnu1dm"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "99 And 1/2 Won't Do",
-      "url": "https://open.spotify.com/track/6SCLPf6RTXCwvYEhF5a2ME"
     }
   ],
   "unique_name": "Got Blues",

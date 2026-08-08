@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 
 > Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Penyair
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,294 likes - 76 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,303 likes - 76 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 | 3 | [Frío Sur](https://open.spotify.com/track/60tAwJoSqHoWL1cmADByHM) | [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [DeeJohend](https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1) | [Frío Sur](https://open.spotify.com/album/6JWMtrkFfWEpq9ObaSCGQ0) | 3:14 |
 | 4 | [El Remate](https://open.spotify.com/track/5ACjsEe2LIsR3EeXQ8ln7j) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe) | [El Remate](https://open.spotify.com/album/1gz8DR3AQVGHmjIMBkIgR5) | 4:04 |
 | 5 | [Nada](https://open.spotify.com/track/3fF7menvXCbyRBkeA24uQ5) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [La Ley del Todo](https://open.spotify.com/album/15s8xG2vM4C5j14G3LZ8tU) | 3:42 |
-| 6 | [Honesty](https://open.spotify.com/track/1I4eQkEfAhZRkcb9X7vlmI) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Honesty](https://open.spotify.com/album/4B9Nw5W4QywU2pgt9PXps8) | 5:43 |
+| 6 | [Honesty](https://open.spotify.com/track/1I4eQkEfAhZRkcb9X7vlmI) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [AL1 Producer](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Honesty](https://open.spotify.com/album/4B9Nw5W4QywU2pgt9PXps8) | 5:43 |
 | 7 | [Ya No Quiero](https://open.spotify.com/track/0q0MAvSFnHs5RBJoYZfFXm) | [chelo hop](https://open.spotify.com/artist/2CHBCYKsNfCltqmkl9yhQC), [Kuervo Negro](https://open.spotify.com/artist/0akKorQ1ve5dLYTYiyRuuz), [Astrallbass](https://open.spotify.com/artist/14dNhqhwFlu2nJuDZRuy8t) | [Ya No Quiero](https://open.spotify.com/album/0LgZgGnRkNiudKlR6OYMwK) | 3:37 |
 | 8 | [No Sabía Que Sabía](https://open.spotify.com/track/2gxHJJbhBCy7wrwn4QCdOV) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y) | [No Sabía Que Sabía](https://open.spotify.com/album/5rUtUBZASA1KrfFhIGR6X9) | 2:49 |
 | 9 | [Tiempos de Sequía](https://open.spotify.com/track/47KE9G86rxB7qR7leqWEpo) | [Afterclass](https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N), [Vic Deal](https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ), [Luis7Lunes](https://open.spotify.com/artist/6IQraFTvYMjzlx6AsrmsuB), [Maco Maat](https://open.spotify.com/artist/29W1vGuAmmxv2FhBDxmCg9) | [La Ausencia del Descanso](https://open.spotify.com/album/6AX2fPHjtS3QvlxCS8vCAq) | 3:04 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vnBrKB7FwM.md) - [plain]
 | 75 | [Deja](https://open.spotify.com/track/3rFQdyT9s0sg1zEaYQmJ45) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Mestizo](https://open.spotify.com/album/0eDsjuoAukMeT8fy9RDG9f) | 3:31 |
 | 76 | [Horas Extras](https://open.spotify.com/track/5oFX4zn4CIDN0l2RCVuObT) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53), [DJ Dmoe](https://open.spotify.com/artist/0UO7aldjXU5OjHiYKXUwrK) | [Todos Tienen Que Comer](https://open.spotify.com/album/6vPnYHNVtdT9V76xUy3e2d) | 3:52 |
 
-Snapshot ID: `AAAAALNhhUdxjTM60uuXdu3R2rqh4hBQ`
+Snapshot ID: `AAAAAD0Ztk2Oh1c5tRejSVoKtuAebmja`

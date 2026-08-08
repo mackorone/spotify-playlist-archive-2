@@ -2,9 +2,9 @@
 
 ### [New Music Friday Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWZMWLrh2UzwC)
 
-> New music from FLO, Ernie Zakri, Red Velvet, 蔡恩雨 Priscilla Abby, Layla Sania, Vanessa Reynauld, and more!
+> New music from FLO, Ernie Zakri, Stray Kids, Red Velvet, 蔡恩雨 Priscilla Abby, Layla Sania, Vanessa Reynauld, and more!
 
-22,550 songs - 51 day 22 hr 21 min
+22,554 songs - 51 day 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2219,6 +2219,7 @@
 | [BLUE](https://open.spotify.com/track/5ogl7JWflmR7b0fedAgQOI) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [BLUE b/w TWIRL](https://open.spotify.com/album/65VvEIy3GWf6o5Xk9gZYIq) | 3:05 | 2022-07-28 | 2022-08-05 |
 | [BLUE](https://open.spotify.com/track/5YR199TRrcmxY39l43ovI1) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [BLUE PARADISE](https://open.spotify.com/album/2aYKVVYN7aTK3HMMyQiVam) | 3:02 | 2025-02-27 | 2025-03-07 |
 | [Blue & Black](https://open.spotify.com/track/43BSk6dOW6THSGe4PyxNSn) | [HYOJUNG](https://open.spotify.com/artist/6seuyGQ3Fq56sS06YVPsOk), [ARIN](https://open.spotify.com/artist/34hCqjzOeeJjqmfsd38zuF), [JANGWONYOUNG](https://open.spotify.com/artist/2ZoHusq9SCsHGbe105EvSw), [LEESEO](https://open.spotify.com/artist/7Hn1uLW6kxd1Pvq83z93f8), [SERIM](https://open.spotify.com/artist/6PNb5DmTuZBGUSxXNbr1JO), [JUNGMO](https://open.spotify.com/artist/2aACxJmf5wuJMcmpdpipRV) | [Blue & Black](https://open.spotify.com/album/5n3Ny3eqXdOY4NzQCXsykh) | 3:21 | 2022-06-30 | 2022-07-08 |
+| [Blue Blood](https://open.spotify.com/track/4rbJwK22VEJd4uQLTCUXn1) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Hyper\-Ego>](https://open.spotify.com/album/4WNAVLZjqWurf55QfdHldD) | 2:27 | 2026-08-07 |  |
 | [blue daisy \(Feat\. Mulasaki Ima\)](https://open.spotify.com/track/60cwUqVU2BtRzZW2hnUD6X) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5), [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [can't be blue](https://open.spotify.com/album/2vdPz23c5T1CixcxLUBcTH) | 3:25 | 2026-06-25 | 2026-07-03 |
 | [blue eyes](https://open.spotify.com/track/3J7qngUlqAQOgyKEmYZkLp) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [blue eyes](https://open.spotify.com/album/7KIHq0QV9uwLcmbmZzU6LV) | 2:56 | 2025-01-09 | 2025-01-17 |
 | [Blue In You \(Duet With CHEEZE\)](https://open.spotify.com/track/7wjBq0g3hSdVDmi3Eol5hl) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Blue in You](https://open.spotify.com/album/30hV27Zqc5J4Bd3iMyR4HJ) | 3:18 | 2023-09-21 | 2023-09-29 |
@@ -3728,6 +3729,7 @@
 | [Counting Sheep](https://open.spotify.com/track/24WQUQk5XTrOykjDWiNLqT) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [Counting Sheep](https://open.spotify.com/album/0LPVbgPuKViyZeQMvRvtYZ) | 3:37 | 2022-06-30 | 2022-07-08 |
 | [Country Mile](https://open.spotify.com/track/5oD7ZW1uUJL2QMQ4cQyNJ0) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Country Mile / Picture Of You \(X+W\)](https://open.spotify.com/album/52GkmdDV5MIcPBgo5L4zFk) | 4:58 | 2024-09-27 | 2024-10-04 |
 | [Couple](https://open.spotify.com/track/5qlHFVgVy3WBFw7vBZPjaL) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92), [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Couple \- Special Single](https://open.spotify.com/album/5w9TtiYrHhiJsfVDrE5vWx) | 3:36 | 2025-03-20 | 2025-03-28 |
+| [courage](https://open.spotify.com/track/1GxXymBkVQJtSPZhiyl2wZ) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [bad pieces](https://open.spotify.com/album/3vyo8Ev3o6olStojgqpS6U) | 3:11 | 2026-08-07 |  |
 | [covent garden](https://open.spotify.com/track/0YIiDc0bIbvm2doecnf7fU) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [covent garden](https://open.spotify.com/album/4fz69J654PbUgnq2vkZzVH) | 3:01 | 2024-08-01 | 2024-08-09 |
 | [Cover Girl](https://open.spotify.com/track/60gTszvshnuyG0jsfjTOs8) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Cover Girl](https://open.spotify.com/album/1lIWNnzCSuLisjkiZaDI69) | 3:35 | 2025-09-04 | 2025-09-12 |
 | [Covidflu](https://open.spotify.com/track/0XbcFbxr9fOFFt9byUlAdE) | [F.Rider](https://open.spotify.com/artist/0IAkxUc3IVgyrDLwB3BLkq), [ForceParkBois](https://open.spotify.com/artist/2LgQQ0AwWzl3XoXKWVhFEV) | [Covidflu](https://open.spotify.com/album/5UibOLEYiDEBaM4kiKR4fh) | 3:25 | 2022-12-01 | 2022-12-09 |
@@ -16865,6 +16867,7 @@
 | [Sticky \(feat\. GloRilla, Sexyy Red & Lil Wayne\)](https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:15 | 2024-11-01 | 2024-11-08 |
 | [Sticky Fingers](https://open.spotify.com/track/6Nxj55nWZpi2uOXRVMfMY3) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Sticky Fingers](https://open.spotify.com/album/1ePJSgvvAndnUWpkHKg7p9) | 2:13 | 2025-08-28 | 2025-09-05 |
 | [still](https://open.spotify.com/track/6EoI0gxW5egUN3SFxgQb7H) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [still](https://open.spotify.com/album/4x7J5fPgM0IYVRJW6fwpZ3) | 2:59 | 2023-02-16 | 2023-02-24 |
+| [Still](https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:40 | 2026-08-07 |  |
 | [Still](https://open.spotify.com/track/7qACmdbzeUXh0DhIpsAjMo) | [Proud](https://open.spotify.com/artist/2PsiEj7iYboWZxwfw3wLbh) | [Still](https://open.spotify.com/album/2I9lPRjeNWQcI3eya6iz3e) | 3:39 | 2022-09-01 | 2022-09-09 |
 | [Still](https://open.spotify.com/track/6dExQEUJA20Lf6yO5CSqU4) | [Ravito](https://open.spotify.com/artist/2ieYexTvC9pgEIqpQPSWC4) | [Still](https://open.spotify.com/album/3IdOUjQsWmOmBBdycDLzdm) | 3:42 | 2022-03-31 | 2022-04-08 |
 | [STILL \(feat\. Ab\-Soul & Rapsody\)](https://open.spotify.com/track/5TLjEHlPV8jpxQTVTmQYY3) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [STILL \(feat\. Ab\-Soul & Rapsody\)](https://open.spotify.com/album/3N3vA5recDthv6aBGfnTEb) | 3:26 | 2025-08-28 | 2025-09-05 |
@@ -18390,6 +18393,7 @@
 | [Third Wheel](https://open.spotify.com/track/1RF6WXFDCKPnk5HrtzF7Cn) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Third Wheel](https://open.spotify.com/album/2G1VWNuQSHST4RhIduQDZA) | 2:46 | 2022-07-07 | 2022-07-15 |
 | [Thirst Trap](https://open.spotify.com/track/0xiySkh9JAa1f3r6MdBUa3) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Who's the Clown?](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP) | 3:05 | 2025-08-14 | 2025-08-22 |
 | [This & That](https://open.spotify.com/track/5X5o5YccPawQNUei3m5q5h) | [Shiha Zikir](https://open.spotify.com/artist/1S2qOJwpoeUkoJuToOZXU5) | [This & That](https://open.spotify.com/album/6mhDenLH5xCe48b5WSHbkm) | 3:14 | 2024-01-25 | 2024-02-02 |
+| [This & That](https://open.spotify.com/track/7AN7dJCtHqbL7f76QGyraa) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THIS & THAT](https://open.spotify.com/album/46TYlDjLrEsOLFgxfxNiUy) | 3:05 | 2026-08-07 |  |
 | [This Ain't Goodbye \- Бұл қоштасу емес](https://open.spotify.com/track/4PzOuFYzLkFiGeVkbLpnL9) | [Yazmin Aziz](https://open.spotify.com/artist/45zTHOPOnQwfIIKnnZ10NG) | [This Ain't Goodbye \(Бұл қоштасу емес\)](https://open.spotify.com/album/1tQhZklQr5NgNfHPQAs8tR) | 2:57 | 2025-11-20 | 2025-11-28 |
 | [This ain’t love](https://open.spotify.com/track/1WU5JW11ZiNqJnqxbJ9Wm3) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8), [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN) | [Elisabeth](https://open.spotify.com/album/1ojZ56lN40DofYZtvz78vp) | 3:26 | 2023-11-16 | 2023-11-24 |
 | [This Car Drives All by Itself](https://open.spotify.com/track/3kgUL6z42w6qC6Tp5FrZrU) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1) | 4:45 | 2022-01-13 | 2022-01-21 |

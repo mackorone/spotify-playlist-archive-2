@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Suaaaaaaave \ud83d\udcf8 Tino El Ping\u00fcino",
+  "description": "Suaaaaaaave \ud83d\udcf8 LNG/SHT y Jos\u00e9 Madero",
   "name": "Rap Latte ",
   "tracks": [
     {
@@ -4782,7 +4782,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 228218,
       "name": "METALLICA",
       "url": "https://open.spotify.com/track/4XeqABCbUqyznqTgB8Ckzj"
@@ -6178,6 +6178,28 @@
       "duration_ms": 180109,
       "name": "Planes",
       "url": "https://open.spotify.com/track/7lOEANaBcoI1yXoxG3xq2f"
+    },
+    {
+      "album": {
+        "name": "Pl\u00e1tica de hormigas Pt. 1 & 2",
+        "url": "https://open.spotify.com/album/2x66pPFSmvgAFpPBGJJOtM"
+      },
+      "artists": [
+        {
+          "name": "Lng Sht",
+          "url": "https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2"
+        },
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323233,
+      "name": "Pl\u00e1tica de hormigas Pt. 1 & 2",
+      "url": "https://open.spotify.com/track/0I8oJeaMsXCodBElgMYWeE"
     },
     {
       "album": {

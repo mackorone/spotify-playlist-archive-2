@@ -251,6 +251,28 @@
     },
     {
       "album": {
+        "name": "9 months & 50 hours",
+        "url": "https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238050,
+      "name": "Alvafro",
+      "url": "https://open.spotify.com/track/5PE1xJ7cIpJbVqqrKtQxJJ"
+    },
+    {
+      "album": {
         "name": "Amiga M\u00eda",
         "url": "https://open.spotify.com/album/1ZhjvXP3Frzxshp4OVKUvE"
       },
@@ -8534,6 +8556,24 @@
       "duration_ms": 170041,
       "name": "Think Of Me",
       "url": "https://open.spotify.com/track/3RvkuiK2x5BlSQWYqTYjIS"
+    },
+    {
+      "album": {
+        "name": "LIFE",
+        "url": "https://open.spotify.com/album/0vL3Vv27UfbRVLL7B9j1ab"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232306,
+      "name": "this is the moment (cuerpo)",
+      "url": "https://open.spotify.com/track/1AF9gqUhT9jyOHDzDUTZMc"
     },
     {
       "album": {

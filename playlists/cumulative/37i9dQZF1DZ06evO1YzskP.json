@@ -312,7 +312,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 162378,
       "name": "Canelo",
       "url": "https://open.spotify.com/track/1eaTDsdG9rfpvXrQw8rct7"
@@ -2650,6 +2650,24 @@
       "duration_ms": 192600,
       "name": "Somos Mayiza",
       "url": "https://open.spotify.com/track/4M6GLOcjYod234PrPPat4r"
+    },
+    {
+      "album": {
+        "name": "SUPERESTRELLA",
+        "url": "https://open.spotify.com/album/31bTbGhBUXIHosoC1BAbyA"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "SUPERESTRELLA",
+      "url": "https://open.spotify.com/track/06W6nXdcPEMCv4VD1g89Rt"
     },
     {
       "album": {

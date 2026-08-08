@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 
 > heavy vibes for cuffing season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,412 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,559 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 55 | [DISDAIN](https://open.spotify.com/track/2hEI5r6nDn9ZdNqHluhbdq) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [DISDAIN](https://open.spotify.com/album/7BPRvaesFamtH4Xo82I8nO) | 2:25 |
 | 56 | [Nervous Habits](https://open.spotify.com/track/3iIOUEPbQDG2XQNeckP62n) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a) | 3:51 |
 | 57 | [velvet](https://open.spotify.com/track/729zO7DaoSJMOLSvOh7UNN) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [velvet](https://open.spotify.com/album/2WGZh7y9KdsdA1q42eKzez) | 2:50 |
-| 58 | [Ghosts](https://open.spotify.com/track/33QpFUeut0hAVQ8dqhwsCM) | [Scarlet House](https://open.spotify.com/artist/7jWdMH4K9omZ4z2UkGkz6N) | [Homecoming](https://open.spotify.com/album/2vrDdwbqzL9edJ53azSCn6) | 1:53 |
-| 59 | [PLEASER](https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [PLEASER](https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc) | 2:45 |
+| 58 | [PLEASER](https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [PLEASER](https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc) | 2:45 |
+| 59 | [Ghosts](https://open.spotify.com/track/33QpFUeut0hAVQ8dqhwsCM) | [Scarlet House](https://open.spotify.com/artist/7jWdMH4K9omZ4z2UkGkz6N) | [Homecoming](https://open.spotify.com/album/2vrDdwbqzL9edJ53azSCn6) | 1:53 |
 | 60 | [Antimatter](https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Antimatter](https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ) | 3:41 |
 | 61 | [OMENS](https://open.spotify.com/track/73kLliVaEaxT3qsGjKyxDB) | [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm) | [OMENS](https://open.spotify.com/album/67A2X3ahwYQbykxxKGaJJW) | 3:25 |
 | 62 | [Drain](https://open.spotify.com/track/3k8ptnrHJn8LzQnvh413c5) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Drain](https://open.spotify.com/album/4td2lzPI1u95ohvolQfTkZ) | 3:22 |
@@ -90,13 +90,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 80 | [Wet Dreams](https://open.spotify.com/track/7gU7RWO1r3yUPVagFTfbi6) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Wet Dreams](https://open.spotify.com/album/0CpfMb1CvPursI3CGbzAWN) | 2:37 |
 | 81 | [Safe In Your Skin](https://open.spotify.com/track/1acjIzGS1YUrx6nSuktnqU) | [Title Fight](https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk) | [Shed](https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1) | 2:34 |
 | 82 | [I Shift](https://open.spotify.com/track/3Ci8VRojYttIlIm4YikgKo) | [Sable](https://open.spotify.com/artist/5rRyGasapvQWgfTijFs2mq) | [I Shift](https://open.spotify.com/album/49Jl8jC6BGOLuw0FoyXY0c) | 3:10 |
-| 83 | [Love me, slow](https://open.spotify.com/track/1AhkwjEBHLuvLTN2XSUgeZ) | [PALESKIN](https://open.spotify.com/artist/5eKP3s5CJQOYL65VzunrN1) | [Love me, slow](https://open.spotify.com/album/5I2v5h13rfLyFEVzEMoj6K) | 3:53 |
-| 84 | [my mistake...](https://open.spotify.com/track/5gUaMx5euG5hLsjSCKImIN) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [motionblur](https://open.spotify.com/album/3zXbRvUa5RiqdGUeB1Od40) | 5:16 |
+| 83 | [my mistake...](https://open.spotify.com/track/5gUaMx5euG5hLsjSCKImIN) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [motionblur](https://open.spotify.com/album/3zXbRvUa5RiqdGUeB1Od40) | 5:16 |
+| 84 | [Love me, slow](https://open.spotify.com/track/1AhkwjEBHLuvLTN2XSUgeZ) | [PALESKIN](https://open.spotify.com/artist/5eKP3s5CJQOYL65VzunrN1) | [Love me, slow](https://open.spotify.com/album/5I2v5h13rfLyFEVzEMoj6K) | 3:53 |
 | 85 | [Dissociate](https://open.spotify.com/track/6ulu17cqr52bymx8fXl8Yw) | [Extortionist](https://open.spotify.com/artist/3hdi1PRzSDS2LCTTwKsmVz) | [Dissociate](https://open.spotify.com/album/3wObYPAXqsIPRcPtgtC2Pk) | 4:17 |
 | 86 | [LOTUS](https://open.spotify.com/track/2rYj6DXSO7B0H7MajunV07) | [VIIZERO7](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [LOTUS](https://open.spotify.com/album/1xn196oTyd4kH1o2ZYZzPu) | 3:19 |
-| 87 | [CHILDREN OF SORROW](https://open.spotify.com/track/0m1JXimp3o6AP7yBtCXCKd) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [CHILDREN OF SORROW](https://open.spotify.com/album/7Kb3GTVE5cBCvXOPxoLzlr) | 3:20 |
-| 88 | [Valentina](https://open.spotify.com/track/6nFQW2MigtHWPLpOvqbod3) | [PALESKIN](https://open.spotify.com/artist/5eKP3s5CJQOYL65VzunrN1), [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Valentina](https://open.spotify.com/album/0KXe6LZTUtvVBbAMft6BpE) | 3:48 |
-| 89 | [Gorgeous](https://open.spotify.com/track/02i9hlZQCCb6vYxpBm6r5h) | [Cold Gawd](https://open.spotify.com/artist/4nD7mZ37GMiFBSjvWZIlDb) | [Gorgeous](https://open.spotify.com/album/3brN47YTTKHWEpB8hsOEa2) | 5:31 |
+| 87 | [Gorgeous](https://open.spotify.com/track/02i9hlZQCCb6vYxpBm6r5h) | [Cold Gawd](https://open.spotify.com/artist/4nD7mZ37GMiFBSjvWZIlDb) | [Gorgeous](https://open.spotify.com/album/3brN47YTTKHWEpB8hsOEa2) | 5:31 |
+| 88 | [CHILDREN OF SORROW](https://open.spotify.com/track/0m1JXimp3o6AP7yBtCXCKd) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [CHILDREN OF SORROW](https://open.spotify.com/album/7Kb3GTVE5cBCvXOPxoLzlr) | 3:20 |
+| 89 | [Valentina](https://open.spotify.com/track/6nFQW2MigtHWPLpOvqbod3) | [PALESKIN](https://open.spotify.com/artist/5eKP3s5CJQOYL65VzunrN1), [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Valentina](https://open.spotify.com/album/0KXe6LZTUtvVBbAMft6BpE) | 3:48 |
 | 90 | [Give Blood](https://open.spotify.com/track/1Ult8Ht7snBt5DOGcECkZV) | [SOM](https://open.spotify.com/artist/0l5d2oD9unQCRRogw47e2Q) | [Give Blood](https://open.spotify.com/album/6TNhU5xuppWcHNSvDEBpsv) | 4:22 |
 | 91 | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/track/6tRneEcItwpSxBtqgem5Dr) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 4:01 |
 | 92 | [Surrender](https://open.spotify.com/track/5gcuhVVuh0BFDJo5m62HJ0) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Surrender](https://open.spotify.com/album/4kGdD69S719G72vgoRxUEl) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 99 | [Alkaline](https://open.spotify.com/track/2bhO18WXe8NbFpc7sAQcEw) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/53PfSATgN0YM7IsfI2CDvs) | 3:34 |
 | 100 | [Adrenalize](https://open.spotify.com/track/0z09OVa4ZNJ4oQydl9XolX) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Blood](https://open.spotify.com/album/1azQBA4tlIPpqXcABHVYkl) | 4:15 |
 
-Snapshot ID: `AAAAANbvRdFB1nFnTMz0IoFnt/gmR1GE`
+Snapshot ID: `AAAAAC+fSCD3eru7gZoVdwg9uzERNA1B`

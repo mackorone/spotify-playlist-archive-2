@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U2Tf3iUany.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/stevenvictor/">Steven Victor</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,081 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,086 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U2Tf3iUany.md) - [plain]
 | 49 | [Guwop \(feat\. Quavo, Offset and Young Scooter\)](https://open.spotify.com/track/1BSA5I386L2IAmFQURYjIz) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [JEFFERY](https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H) | 5:15 |
 | 50 | [La Vie en rose](https://open.spotify.com/track/5yJrl2r0vr6u9BXqQXZE3V) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Portfolio](https://open.spotify.com/album/1omnfUAyi7BQRSLYcf3sZ4) | 7:28 |
 
-Snapshot ID: `AAAAAA0eEdb9m6nit0nahA5KSOtSjZJ5`
+Snapshot ID: `AAAAAOSOhRlMDTBGDJPo02pIh0j1GyC1`

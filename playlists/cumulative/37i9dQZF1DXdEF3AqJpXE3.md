@@ -2,9 +2,9 @@
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: Shakira
+> The best tracks from the world of music\. Cover: JENNIE
 
-686 songs - 1 day 13 hr 27 min
+688 songs - 1 day 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Adore U](https://open.spotify.com/track/5qQHPdQaiLkIrRjMBFTbuz) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Adore U](https://open.spotify.com/album/6TuqYkU9a9UNy7YxwATWDg) | 2:44 | 2024-06-19 | 2024-07-18 |
 | [Adrenaline](https://open.spotify.com/track/2VKGO4DNyUK5UxCQB3b3DF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.4](https://open.spotify.com/album/1FBxW4I6azDVjGallQ4wQk) | 3:39 | 2026-02-11 | 2026-04-30 |
 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 | 2024-01-17 | 2024-04-24 |
+| [Ain't In LA](https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Ain't In LA](https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s) | 3:04 | 2026-08-07 |  |
 | [Alamak Raya Lagi!](https://open.spotify.com/track/2VTLUKd4CbW14uKI973vl4) | [De Fam](https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK) | [Alamak Raya Lagi!](https://open.spotify.com/album/2Rggi2m4YvzePLbKMJg74o) | 2:47 | 2024-04-03 | 2024-04-24 |
 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-07-17 | 2024-10-10 |
 | [All at once](https://open.spotify.com/track/12fyTBfSQPdyQg11oiZJFM) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [All at once](https://open.spotify.com/album/04UfbQhE7ABx1X0jHbLkn8) | 4:00 | 2025-06-18 | 2025-07-10 |
@@ -119,7 +120,7 @@
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2024-01-17 | 2024-04-04 |
 | [curbside](https://open.spotify.com/track/5HuwUxCB958kIcSh9rqC05) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz), [isaacprease](https://open.spotify.com/artist/2Pa2Q2By2eVE6RT8SfgozN), [tylo](https://open.spotify.com/artist/0vOXId0a8VxdS7AiUoSQwI), [rae](https://open.spotify.com/artist/1mvjo1U4RVEab0pQRbyr0x) | [curbside](https://open.spotify.com/album/4xDlrjgB9tdap6zke6TgVB) | 2:30 | 2025-09-17 | 2025-10-09 |
 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 | 2026-06-26 |  |
-| [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-11 |  |
+| [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-11 | 2026-08-08 |
 | [DAM](https://open.spotify.com/track/1NNsL6tYk06TqTea3mKB9P) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [DAM](https://open.spotify.com/album/612lgzG3p1PYJCxZFFLztN) | 3:29 | 2025-03-05 | 2025-04-03 |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2024-01-17 | 2024-02-08 |
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-13 | 2024-12-12 |
@@ -285,7 +286,7 @@
 | [IWALY](https://open.spotify.com/track/4SwXtg8jDejWX18zLsZwCO) | [I\-LAND2 : N/a](https://open.spotify.com/artist/5wA7TzIKrDqmlnEFk6t1y4) | [I\-LAND2 : N/a \- 1:1 POSITION BATTLE](https://open.spotify.com/album/7zjYgWfGErSNv1Zs2IGDGl) | 3:03 | 2024-05-29 | 2024-06-13 |
 | [IYKYK](https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IYKYK](https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL) | 3:00 | 2024-10-23 | 2024-11-21 |
 | [I’m Not The Only One \(feat\. TAEYEON\)](https://open.spotify.com/track/7lJ3JlojP8p7fwKWyRIfmZ) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [I’m Not The Only One \(feat\. TAEYEON\)](https://open.spotify.com/album/1EkQ1dUNlc0J0xPhxv1DgY) | 3:59 | 2024-09-04 | 2024-10-17 |
-| [Janice STFU](https://open.spotify.com/track/514joG57v4yKTsfQmz7stz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:57 | 2026-06-03 |  |
+| [Janice STFU](https://open.spotify.com/track/514joG57v4yKTsfQmz7stz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:57 | 2026-06-03 | 2026-08-08 |
 | [Jealous Type](https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Jealous Type](https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5) | 2:43 | 2025-08-27 | 2025-11-20 |
 | [jelly](https://open.spotify.com/track/1aMMMRVw1Pxlgegal9Oxgq) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [jelly](https://open.spotify.com/album/1klSiILPiRaf102DqL7HvT) | 2:46 | 2024-08-14 | 2024-09-12 |
 | [Jodoh Lebaran](https://open.spotify.com/track/3BcxLgdfM9wR2cyfMuyHL9) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Jodoh Lebaran](https://open.spotify.com/album/1hDVBHpc3olc1owvjnqoyX) | 3:12 | 2026-03-18 | 2026-04-16 |
@@ -674,6 +675,7 @@
 | [烂片剧情](https://open.spotify.com/track/488IBZgAqHQmUDjg9kTQYG) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [烂片剧情](https://open.spotify.com/album/2Km6rWJjdJoli9PFE8nwxh) | 3:26 | 2025-04-09 | 2025-09-18 |
 | [爱情的名字](https://open.spotify.com/track/3mPzfTqSoufmb2xDv2K8mQ) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [爱情的名字](https://open.spotify.com/album/5uR3Pzbi07ArjB3ktHBec3) | 4:12 | 2024-11-29 | 2025-01-30 |
 | [玻璃](https://open.spotify.com/track/4lZVYNSHy3bKN1pqTxw9Zl) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [玻璃](https://open.spotify.com/album/1MCcGh977wVc1i7h4qXoPy) | 3:05 | 2026-05-27 |  |
+| [甲乙丙丁 \- 你我怎么两清](https://open.spotify.com/track/629FqLOdjtsXh5b45FTk43) | [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [甲乙丙丁](https://open.spotify.com/album/30zNYNia7OQ2MWqIDNzP0V) | 3:30 | 2026-08-07 |  |
 | [相信自己相信自己相信自己](https://open.spotify.com/track/7vYOhhgIK5KNPXVcoM1jUP) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [相信自己相信自己相信自己](https://open.spotify.com/album/4CIdGWnaU5tsdbptNCIUIV) | 4:20 | 2025-05-14 | 2025-06-18 |
 | [看着我的眼睛说](https://open.spotify.com/track/5cOXSOo4olhVLVSpQBvQaP) | [张远](https://open.spotify.com/artist/4Q6r8rqOodVCDkbAYm7F18) | [看着我的眼睛说](https://open.spotify.com/album/1QNyyhTWQ72AGuv88AJqOj) | 4:20 | 2025-06-18 | 2026-02-19 |
 | [瞬間的瞬間 \(電影《他年她日》主題曲\)](https://open.spotify.com/track/5HGAEdNPg1y5CesBg6ZNCR) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [瞬間的瞬間 \(電影《他年她日》主題曲\)](https://open.spotify.com/album/796MxC3IVgtFKuhrC5Fo0S) | 5:00 | 2025-09-24 | 2025-10-23 |

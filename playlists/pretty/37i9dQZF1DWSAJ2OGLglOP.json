@@ -1,12 +1,12 @@
 {
   "description": "\u30c9\u30e9\u30a4\u30d6\u7528\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01\u6e0b\u6ede\u3082\u6c17\u306b\u305b\u305a\u3001\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u697d\u66f2\u3092\u30bb\u30ec\u30af\u30c8\u3002",
-  "num_followers": 112634,
+  "num_followers": 112635,
   "original_name": "Drive Loud!: \u30c9\u30e9\u30a4\u30d6\u30fb\u30e9\u30a6\u30c9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHyTt4kij8Gg3dNnrleMYyVmZHoS",
+  "snapshot_id": "AAAAANWqNNDHhpMpeeWfRENXLQcF1BXl",
   "tracks": [
     {
       "added_at": "2026-06-25 15:55:52",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-04-27 06:02:35",
       "album": {
-        "name": "Prema",
-        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 262840,
-      "name": "Prema",
-      "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
-    },
-    {
-      "added_at": "2026-04-27 06:02:35",
-      "album": {
         "name": "When You're Gone",
         "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 172266,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
+    },
+    {
+      "added_at": "2026-04-27 06:02:35",
+      "album": {
+        "name": "Prema",
+        "url": "https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 262840,
+      "name": "Prema",
+      "url": "https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno"
     },
     {
       "added_at": "2026-07-16 15:00:52",
@@ -801,22 +801,6 @@
       "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
     },
     {
-      "added_at": "2026-07-09 15:00:39",
-      "album": {
-        "name": "Street Of Dreams",
-        "url": "https://open.spotify.com/album/1ivlBe4lilutfAmOoQWxxS"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 234657,
-      "name": "Street Of Dreams",
-      "url": "https://open.spotify.com/track/70X6SFkjCUZ0nRBUGXddTn"
-    },
-    {
       "added_at": "2026-04-27 06:02:35",
       "album": {
         "name": "SHOOTING STAR",
@@ -831,6 +815,22 @@
       "duration_ms": 203556,
       "name": "SHOOTING STAR",
       "url": "https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV"
+    },
+    {
+      "added_at": "2026-07-09 15:00:39",
+      "album": {
+        "name": "Street Of Dreams",
+        "url": "https://open.spotify.com/album/1ivlBe4lilutfAmOoQWxxS"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 234657,
+      "name": "Street Of Dreams",
+      "url": "https://open.spotify.com/track/70X6SFkjCUZ0nRBUGXddTn"
     },
     {
       "added_at": "2026-04-27 06:02:35",
@@ -1161,36 +1161,20 @@
       "url": "https://open.spotify.com/track/5m21ZR5lO6U0tp9KENxuCc"
     },
     {
-      "added_at": "2026-06-25 15:55:52",
+      "added_at": "2026-07-31 05:23:03",
       "album": {
-        "name": "This Mirror Weighs a Ton/See Out Loud",
-        "url": "https://open.spotify.com/album/53ZH0bU5CZ1QVfz92eImpl"
+        "name": "Memo",
+        "url": "https://open.spotify.com/album/0AEULDFYipP4rXzgSQyz1H"
       },
       "artists": [
         {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
         }
       ],
-      "duration_ms": 296746,
-      "name": "See Out Loud",
-      "url": "https://open.spotify.com/track/0xPCZvjwl2myKKPhw4Rqhj"
-    },
-    {
-      "added_at": "2026-06-25 15:55:52",
-      "album": {
-        "name": "Nightshift Superstar",
-        "url": "https://open.spotify.com/album/2mtNOqNWDFaMUfgL6L6oGm"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 247144,
-      "name": "Nightshift Superstar",
-      "url": "https://open.spotify.com/track/0ysOBzp8xSrbDenht9mQ9C"
+      "duration_ms": 191733,
+      "name": "Memo",
+      "url": "https://open.spotify.com/track/74ULkLG9L8FiqL8PyxbsFG"
     },
     {
       "added_at": "2026-04-27 06:02:35",
@@ -1225,6 +1209,22 @@
       "url": "https://open.spotify.com/track/3IYcbagYZ9z1Svaw8B33Pd"
     },
     {
+      "added_at": "2026-06-25 15:55:52",
+      "album": {
+        "name": "This Mirror Weighs a Ton/See Out Loud",
+        "url": "https://open.spotify.com/album/53ZH0bU5CZ1QVfz92eImpl"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        }
+      ],
+      "duration_ms": 296746,
+      "name": "See Out Loud",
+      "url": "https://open.spotify.com/track/0xPCZvjwl2myKKPhw4Rqhj"
+    },
+    {
       "added_at": "2026-04-27 06:02:35",
       "album": {
         "name": "\u7b2c\u30bc\u30ed\u611f",
@@ -1255,6 +1255,22 @@
       "duration_ms": 207958,
       "name": "\u821e\u53f0\u306b\u7acb\u3063\u3066",
       "url": "https://open.spotify.com/track/42lDvdAmBr7H5hLzvr882L"
+    },
+    {
+      "added_at": "2026-06-25 15:55:52",
+      "album": {
+        "name": "Nightshift Superstar",
+        "url": "https://open.spotify.com/album/2mtNOqNWDFaMUfgL6L6oGm"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 247144,
+      "name": "Nightshift Superstar",
+      "url": "https://open.spotify.com/track/0ysOBzp8xSrbDenht9mQ9C"
     },
     {
       "added_at": "2026-04-27 06:02:35",
@@ -1289,22 +1305,6 @@
       "url": "https://open.spotify.com/track/7zbsxhqTb3yDICWuNBCodY"
     },
     {
-      "added_at": "2026-05-21 15:00:22",
-      "album": {
-        "name": "everyone for ten minutes",
-        "url": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "we should talk",
-      "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
-    },
-    {
       "added_at": "2026-06-25 15:55:52",
       "album": {
         "name": "We Might as Well Be Strangers (ft. Wednesday)",
@@ -1325,20 +1325,20 @@
       "url": "https://open.spotify.com/track/5cSMck5t5uWKs0VH0ORtSB"
     },
     {
-      "added_at": "2026-06-25 15:55:52",
+      "added_at": "2026-05-21 15:00:22",
       "album": {
-        "name": "Jealous Lover",
-        "url": "https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM"
+        "name": "everyone for ten minutes",
+        "url": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
         }
       ],
-      "duration_ms": 229994,
-      "name": "Jealous Lover",
-      "url": "https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu"
+      "duration_ms": 184761,
+      "name": "we should talk",
+      "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
     },
     {
       "added_at": "2026-04-27 06:02:35",
@@ -1373,20 +1373,20 @@
       "url": "https://open.spotify.com/track/48Y23GvNKpVeXrMapKcPLP"
     },
     {
-      "added_at": "2026-07-31 05:23:03",
+      "added_at": "2026-06-25 15:55:52",
       "album": {
-        "name": "Memo",
-        "url": "https://open.spotify.com/album/0AEULDFYipP4rXzgSQyz1H"
+        "name": "Jealous Lover",
+        "url": "https://open.spotify.com/album/7ubZyifk1IUlccV9qKsOoM"
       },
       "artists": [
         {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 191733,
-      "name": "Memo",
-      "url": "https://open.spotify.com/track/74ULkLG9L8FiqL8PyxbsFG"
+      "duration_ms": 229994,
+      "name": "Jealous Lover",
+      "url": "https://open.spotify.com/track/2W1okJYTmZtO70IRDGEFVu"
     },
     {
       "added_at": "2026-04-27 06:02:35",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-07-09 15:00:39",
       "album": {
-        "name": "moisturizer (deluxe)",
-        "url": "https://open.spotify.com/album/2HnvB9ilRvh2hpoFesS5fl"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 102883,
-      "name": "hi from me",
-      "url": "https://open.spotify.com/track/60XzwYT67TQNhF5Bhu2sQR"
-    },
-    {
-      "added_at": "2026-07-09 15:00:39",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/07uewP6C55i9uDV9B2kdoy"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 189677,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0OgIjOcARxnYgm5iL5P6AA"
+    },
+    {
+      "added_at": "2026-07-09 15:00:39",
+      "album": {
+        "name": "moisturizer (deluxe)",
+        "url": "https://open.spotify.com/album/2HnvB9ilRvh2hpoFesS5fl"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 102883,
+      "name": "hi from me",
+      "url": "https://open.spotify.com/track/60XzwYT67TQNhF5Bhu2sQR"
     },
     {
       "added_at": "2026-04-27 06:02:35",
@@ -1537,22 +1537,6 @@
       "url": "https://open.spotify.com/track/7bVHnV7at3Bj8xdeSu6enh"
     },
     {
-      "added_at": "2026-06-25 15:55:52",
-      "album": {
-        "name": "Puberty 2 (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1HgxS3QtHoYbHvmjtHnsci"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 109431,
-      "name": "Fireproof",
-      "url": "https://open.spotify.com/track/5zIK1hBFlopgt6hZHfuTon"
-    },
-    {
       "added_at": "2026-07-09 15:00:39",
       "album": {
         "name": "\u732b\u3058\u3083\u3089\u3057",
@@ -1567,6 +1551,22 @@
       "duration_ms": 167173,
       "name": "\u732b\u3058\u3083\u3089\u3057",
       "url": "https://open.spotify.com/track/5Qq7kURxLlKg0tu2ZTGGvs"
+    },
+    {
+      "added_at": "2026-06-25 15:55:52",
+      "album": {
+        "name": "Puberty 2 (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1HgxS3QtHoYbHvmjtHnsci"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 109431,
+      "name": "Fireproof",
+      "url": "https://open.spotify.com/track/5zIK1hBFlopgt6hZHfuTon"
     },
     {
       "added_at": "2026-04-27 06:02:35",
@@ -1617,22 +1617,6 @@
       "url": "https://open.spotify.com/track/4VI45tdu3hZw5eugs9c6AX"
     },
     {
-      "added_at": "2026-04-27 06:02:35",
-      "album": {
-        "name": "Waffle House",
-        "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 145440,
-      "name": "Waffle House",
-      "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
-    },
-    {
       "added_at": "2026-07-09 15:00:39",
       "album": {
         "name": "\u904b\u547d\u306e\u541b",
@@ -1647,6 +1631,22 @@
       "duration_ms": 215067,
       "name": "\u904b\u547d\u306e\u541b",
       "url": "https://open.spotify.com/track/7yXDBF1sD0ouJniM3gnEZS"
+    },
+    {
+      "added_at": "2026-04-27 06:02:35",
+      "album": {
+        "name": "Waffle House",
+        "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 145440,
+      "name": "Waffle House",
+      "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
     },
     {
       "added_at": "2026-06-25 15:55:52",

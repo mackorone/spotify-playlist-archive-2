@@ -1,12 +1,12 @@
 {
   "description": "This is Natanael Cano. The essential tracks, all in one playlist.",
-  "num_followers": 862399,
+  "num_followers": 862526,
   "original_name": "This Is Natanael Cano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAACnLv1IeHZIr0thdVuVT/nu",
+  "snapshot_id": "anPOgAAAAACrgxgljMTqajrHwYKwtm5a",
   "tracks": [
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos Tumbados",
+        "url": "https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 142910,
+      "name": "El Drip",
+      "url": "https://open.spotify.com/track/5NCBP3ivrIDcHEtzHSW3k0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 174522,
       "name": "CARNAL",
       "url": "https://open.spotify.com/track/2bXJMQZSJND3UYq5mjV4cB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Tumbados",
-        "url": "https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 142910,
-      "name": "El Drip",
-      "url": "https://open.spotify.com/track/5NCBP3ivrIDcHEtzHSW3k0"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selfies",
-        "url": "https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 180007,
-      "name": "Selfies",
-      "url": "https://open.spotify.com/track/7JZCzh0bOodHRR4ctUdWft"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Mis 20",
         "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 200050,
       "name": "Ninguna Como Ella",
       "url": "https://open.spotify.com/track/14m4h509A1JJojv3eDxUDe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Selfies",
+        "url": "https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 180007,
+      "name": "Selfies",
+      "url": "https://open.spotify.com/track/7JZCzh0bOodHRR4ctUdWft"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Mis 20",
+        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 189243,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/391dJizAzRYufWsrP8SB35"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NataKong",
         "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 150000,
       "name": "Nataaoki",
       "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Mis 20",
-        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 189243,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/391dJizAzRYufWsrP8SB35"
     },
     {
       "added_at": null,

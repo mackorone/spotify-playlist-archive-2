@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Las mujeres de la M\u00fasica Mexicana! Rosalia Le\u00f3n en portada \ud83c\udf39",
-  "num_followers": 189988,
+  "num_followers": 190012,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAl+RdcnNJf2blDTGYoNPPhXEYiX",
+  "snapshot_id": "AAAAAENjl9AykYHY2Ndru1M+kDFfH3pC",
   "tracks": [
     {
       "added_at": "2026-02-13 06:00:00",
@@ -891,18 +891,18 @@
     {
       "added_at": "2026-02-13 06:00:00",
       "album": {
-        "name": "Besos y Copas",
-        "url": "https://open.spotify.com/album/5HTIRhX9JAFrHL1LVQK0xI"
+        "name": "Piel Azteca",
+        "url": "https://open.spotify.com/album/0zQpkq8x29yyopEtA5ownZ"
       },
       "artists": [
         {
-          "name": "Guadalupe Pineda",
-          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Besos y Copas",
-      "url": "https://open.spotify.com/track/2qHHBjkrs2KlzG1mb0A3Qc"
+      "duration_ms": 115537,
+      "name": "Piel Azteca",
+      "url": "https://open.spotify.com/track/7wLHic0DluPeQslKdbgvYm"
     },
     {
       "added_at": "2026-02-13 06:00:00",
@@ -923,18 +923,18 @@
     {
       "added_at": "2026-02-13 06:00:00",
       "album": {
-        "name": "Piel Azteca",
-        "url": "https://open.spotify.com/album/0zQpkq8x29yyopEtA5ownZ"
+        "name": "Besos y Copas",
+        "url": "https://open.spotify.com/album/5HTIRhX9JAFrHL1LVQK0xI"
       },
       "artists": [
         {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+          "name": "Guadalupe Pineda",
+          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
         }
       ],
-      "duration_ms": 115537,
-      "name": "Piel Azteca",
-      "url": "https://open.spotify.com/track/7wLHic0DluPeQslKdbgvYm"
+      "duration_ms": 181000,
+      "name": "Besos y Copas",
+      "url": "https://open.spotify.com/track/2qHHBjkrs2KlzG1mb0A3Qc"
     },
     {
       "added_at": "2026-02-13 06:00:00",
@@ -971,18 +971,22 @@
     {
       "added_at": "2026-02-13 06:00:00",
       "album": {
-        "name": "Desarmada - Spotify Singles",
-        "url": "https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih"
+        "name": "Veracruz",
+        "url": "https://open.spotify.com/album/6tCecFMuaL2t6XKMEpaik5"
       },
       "artists": [
         {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        },
+        {
+          "name": "Jos\u00e9 Carrillo",
+          "url": "https://open.spotify.com/artist/3kmTyamfgyWHD7CNRMS7Uz"
         }
       ],
-      "duration_ms": 151968,
-      "name": "Desarmada - Spotify Singles",
-      "url": "https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG"
+      "duration_ms": 222236,
+      "name": "Veracruz",
+      "url": "https://open.spotify.com/track/3PEV3y8RtnPxU90ACL0SIG"
     },
     {
       "added_at": "2026-02-13 06:00:00",
@@ -1003,22 +1007,18 @@
     {
       "added_at": "2026-02-13 06:00:00",
       "album": {
-        "name": "Veracruz",
-        "url": "https://open.spotify.com/album/6tCecFMuaL2t6XKMEpaik5"
+        "name": "Desarmada - Spotify Singles",
+        "url": "https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih"
       },
       "artists": [
         {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        },
-        {
-          "name": "Jos\u00e9 Carrillo",
-          "url": "https://open.spotify.com/artist/3kmTyamfgyWHD7CNRMS7Uz"
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
         }
       ],
-      "duration_ms": 222236,
-      "name": "Veracruz",
-      "url": "https://open.spotify.com/track/3PEV3y8RtnPxU90ACL0SIG"
+      "duration_ms": 151968,
+      "name": "Desarmada - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG"
     },
     {
       "added_at": "2026-02-13 06:00:00",

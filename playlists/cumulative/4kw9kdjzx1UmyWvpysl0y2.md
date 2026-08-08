@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,281 songs - 2 day 23 hr 3 min
+1,282 songs - 2 day 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Be Alright](https://open.spotify.com/track/4UFIbMph43OWFu3A7fC4TI) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [Be Alright](https://open.spotify.com/album/3hTztCPVLq2pPqQvQaAwSM) | 2:58 | 2023-07-10 | 2023-12-14 |
 | [Be Careful What You Say](https://open.spotify.com/track/296Fv8CqhmVqEol73p5y4Q) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Be Careful What You Say](https://open.spotify.com/album/4QsFsQhwDJLUbKLSeceD1w) | 3:30 | 2023-02-09 | 2023-04-29 |
 | [Be Here \(La La La\)](https://open.spotify.com/track/4JXgJ33UmguXF3F9B5LwlD) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [The Duchess](https://open.spotify.com/artist/5WxiAl23gqBkSToRgKsG8B) | [Be Here \(La La La\)](https://open.spotify.com/album/3c8WhTXdr0jNmaBxbOyxmM) | 2:20 | 2022-10-27 | 2023-01-19 |
+| [BE URS](https://open.spotify.com/track/2ySuwNs2HL3YtpeP2P753p) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [BE URS](https://open.spotify.com/album/7KUuZTM4vSUZNXlGeZZ9BK) | 2:57 | 2026-08-07 |  |
 | [Be With You](https://open.spotify.com/track/1VdCgotTRcPwbbRnCrzIfR) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Be With You](https://open.spotify.com/album/0kiZ251Slwv3rlGwdAHuRk) | 2:46 | 2023-05-01 | 2023-07-25 |
 | [Beacon](https://open.spotify.com/track/0QSgN6pgdJdCBSNCAxHyok) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY) | [Beacon](https://open.spotify.com/album/17xeRw9ytYLac0hjH8PAmB) | 3:20 | 2025-01-09 | 2025-04-02 |
 | [BEAMS](https://open.spotify.com/track/081pPUtsdE1iBqvyjw4kCS) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [BEAMS](https://open.spotify.com/album/5AYrW1k2Y0f3gpN3BlWmQS) | 2:58 | 2024-03-20 | 2024-06-07 |

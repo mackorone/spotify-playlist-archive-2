@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-878 songs - 1 day 19 hr 34 min
+880 songs - 1 day 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [ILYBB](https://open.spotify.com/track/3FpW4twa49qV5V3Uo8Vi8H) | [Ailow](https://open.spotify.com/artist/270jtLW7Wr3QPEVoE2HAkB), [Dionysus](https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b) | [ILYBB](https://open.spotify.com/album/744S9ynqev10AOzrFYWzaP) | 2:23 | 2025-09-18 |  |
 | [Immortal \(feat\. Josh Rubin\)](https://open.spotify.com/track/2RdwrJkx3swffe5ylzvfKR) | [CITYWLKR](https://open.spotify.com/artist/37195HH4Ces0cQkYr4rSCU), [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Immortal \(feat\. Josh Rubin\)](https://open.spotify.com/album/3OqnZbyxed8WsO2D1wlEUj) | 4:30 | 2023-04-14 | 2023-08-10 |
 | [In Bonfires Green](https://open.spotify.com/track/0fBsWX8BBEibjZutjIKQpI) | [Psylla](https://open.spotify.com/artist/0glz26CRdAXpDqL31326C8) | [In Bonfires Green](https://open.spotify.com/album/3zIWr5HZdX2G1JEmOCt9by) | 3:32 | 2024-04-30 | 2024-11-20 |
+| [In Motion](https://open.spotify.com/track/4FULaNlk1x5sEiccVAwGoq) | [L3VI](https://open.spotify.com/artist/7JFnLtsfELdcnYNvfISCQR) | [In Motion](https://open.spotify.com/album/2jQ9HOsvufGgdmvoEnNS4r) | 3:23 | 2026-08-07 |  |
 | [In My Head](https://open.spotify.com/track/1NK0ypmETjEOrPa14AkwTv) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [In My Head](https://open.spotify.com/album/4Mf0mMMSrcaZWoLvG5u0Rc) | 3:08 | 2022-04-01 | 2023-04-28 |
 | [IN MY HEAD](https://open.spotify.com/track/3qrLEiCbnG6oXeLeiPG1CB) | [SFRNG](https://open.spotify.com/artist/0PkBrqmi8Ma9hmKD0hB2W2), [SOVAGI](https://open.spotify.com/artist/6KH70BaOV5XPLKOufc83eN), [Aizu](https://open.spotify.com/artist/6tAUpk1pE9QXUrDSMbPn81) | [IN MY HEAD](https://open.spotify.com/album/52fwmtWqVz4nxVhg4gzNgO) | 2:31 | 2026-06-09 |  |
 | [Indecisive](https://open.spotify.com/track/6cflobyhOe9JT0AMCPr58z) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH) | [Indecisive](https://open.spotify.com/album/0fAyvEOFvQA2FcYxr9ftpz) | 3:34 | 2023-07-28 | 2023-08-28 |
@@ -413,6 +414,7 @@
 | [Island](https://open.spotify.com/track/0HLIREe3r8bkSm2YeYDssV) | [Almost Weekend](https://open.spotify.com/artist/6FCDyfws4NWiy6eQbZR40O), [Max Vermeulen](https://open.spotify.com/artist/35V85QUB0dxx7I4Q6AAc5w), [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Island](https://open.spotify.com/album/3Pm66oCioMJ8QZl51zzvBj) | 2:09 | 2022-06-21 | 2023-08-10 |
 | [ISORIA](https://open.spotify.com/track/20FC2sm506KUAmJaDOLLQw) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53), [kellapsage](https://open.spotify.com/artist/4TGsEz9x7p8SkARvMyklH4), [glossier](https://open.spotify.com/artist/0NS84XuaSPJTVRebjWQi7v) | [ISORIA](https://open.spotify.com/album/2ZcLKXUyxEJugsJFhiLoR0) | 2:25 | 2026-01-22 |  |
 | [ITTY BITTY](https://open.spotify.com/track/6mf4SH1vuqb9xAsnEMxAOT) | [Henri Werner](https://open.spotify.com/artist/0nuGLpGw9XwyMLIKZxeRzE), [EHLE](https://open.spotify.com/artist/2OaUwJcloDhX02J3qLPw7q) | [ITTY BITTY](https://open.spotify.com/album/13wVrN3VAiCg96SdahR25m) | 2:10 | 2023-03-28 | 2023-08-10 |
+| [jandro](https://open.spotify.com/track/1udrr10SBa9o872tfWRFWN) | [Sace](https://open.spotify.com/artist/7reSsIosg88LaPnn8KKlJA), [defyer](https://open.spotify.com/artist/4gzhQmub5TDvQ9cgvhvOUE) | [jandro](https://open.spotify.com/album/5Qhka7pCW1fm0dgHyGPoeq) | 2:22 | 2026-08-07 |  |
 | [jealous](https://open.spotify.com/track/0DBCLOzdcoeZaPn2MDW9Uq) | [The Trinity](https://open.spotify.com/artist/57tAzixFTk6KobOLhtuPsY) | [jealous](https://open.spotify.com/album/0ngCnLD4eswZVYN5m0tWk1) | 2:30 | 2024-07-16 | 2025-01-08 |
 | [jeans off.](https://open.spotify.com/track/4z5esQs8oMZ5QvNfaGHdnr) | [Jancs](https://open.spotify.com/artist/0WbqaXBH3Jt3IeCh32UFhK) | [jeans off.](https://open.spotify.com/album/6UmFt66s5lwgDbNw56fnyV) | 2:01 | 2026-02-19 | 2026-03-07 |
 | [Just Getting Started](https://open.spotify.com/track/7fXYHhCy6mBXpyCXID2leA) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Just Getting Started](https://open.spotify.com/album/3BNpy3V9UBpM1ekFrK7m74) | 2:27 | 2023-05-26 | 2023-08-10 |

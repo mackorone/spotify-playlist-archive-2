@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 74960,
+  "num_followers": 74971,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAD7tV1ONnugO7AGM56v4ZOu",
+  "snapshot_id": "anPOgAAAAAAmxT/YZfuero04hKu6d9W2",
   "tracks": [
     {
       "added_at": null,
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 152066,
-      "name": "Silver Dagger",
-      "url": "https://open.spotify.com/track/2hulWLdzjBexk2bxQpcUp7"
+      "duration_ms": 105973,
+      "name": "Girl Of Constant Sorrow",
+      "url": "https://open.spotify.com/track/3WZl07ITusPN7bQY3vzGdx"
     },
     {
       "added_at": null,
@@ -275,6 +275,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Any Day Now",
+        "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 267200,
+      "name": "Love Is Just A Four-Letter Word",
+      "url": "https://open.spotify.com/track/5NNSLOPIXs1rQE6hDNFS5e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joan Baez",
+        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 152066,
+      "name": "Silver Dagger",
+      "url": "https://open.spotify.com/track/2hulWLdzjBexk2bxQpcUp7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deportee / Oval Room",
         "url": "https://open.spotify.com/album/3GV4eATqhPkMEEj7bqHQM2"
       },
@@ -299,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Baez",
-        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 105973,
-      "name": "Girl Of Constant Sorrow",
-      "url": "https://open.spotify.com/track/3WZl07ITusPN7bQY3vzGdx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Farewell, Angelina",
         "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 139240,
       "name": "Daddy, You Been On My Mind",
       "url": "https://open.spotify.com/track/1M20O2xfTLnrLtURrbZsAM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Any Day Now",
-        "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 267200,
-      "name": "Love Is Just A Four-Letter Word",
-      "url": "https://open.spotify.com/track/5NNSLOPIXs1rQE6hDNFS5e"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete A&M Recordings",
-        "url": "https://open.spotify.com/album/1R5up0FfwnF2ZABN9ff85L"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Forever Young - Single Version",
-      "url": "https://open.spotify.com/track/5q5UESTbbcTM1vEyheQA4u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The First 10 Years",
         "url": "https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 195106,
       "name": "There But For Fortune",
       "url": "https://open.spotify.com/track/0kQmH9SFtYjlvat2XzL5mx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Complete A&M Recordings",
+        "url": "https://open.spotify.com/album/1R5up0FfwnF2ZABN9ff85L"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Forever Young - Single Version",
+      "url": "https://open.spotify.com/track/5q5UESTbbcTM1vEyheQA4u"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Winds Of The Old Days",
+      "url": "https://open.spotify.com/track/68bDt56iZFYpszQC8o4Z4v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Any Day Now",
         "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
       },
@@ -531,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamonds & Rust",
-        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
+        "name": "Blessed Are...",
+        "url": "https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye"
       },
       "artists": [
         {
@@ -540,9 +556,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 235560,
-      "name": "Winds Of The Old Days",
-      "url": "https://open.spotify.com/track/68bDt56iZFYpszQC8o4Z4v"
+      "duration_ms": 186160,
+      "name": "Blessed Are",
+      "url": "https://open.spotify.com/track/4fK3awsA0h8RcyULqw3XMS"
     },
     {
       "added_at": null,
@@ -579,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blessed Are...",
-        "url": "https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 186160,
-      "name": "Blessed Are",
-      "url": "https://open.spotify.com/track/4fK3awsA0h8RcyULqw3XMS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Complete Gold Castle Masters",
         "url": "https://open.spotify.com/album/7JEJFAm32YkLtwpDEimMOI"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 237173,
       "name": "A mi manera",
       "url": "https://open.spotify.com/track/656qqjnHVQCeNG3xHfDY1P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Any Day Now",
+        "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 274306,
+      "name": "Boots Of Spanish Leather",
+      "url": "https://open.spotify.com/track/0AYanyuDYbaNLNaDupBX9i"
     },
     {
       "added_at": null,
@@ -647,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Any Day Now",
-        "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 274306,
-      "name": "Boots Of Spanish Leather",
-      "url": "https://open.spotify.com/track/0AYanyuDYbaNLNaDupBX9i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come From The Shadows",
         "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Joan Baez",
-        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "The Water Is Wide - Live",
-      "url": "https://open.spotify.com/track/4IolXJ5kKsiDcF58BzHULu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Farewell, Angelina",
         "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 277600,
       "name": "The Wild Mountain Thyme",
       "url": "https://open.spotify.com/track/6t5Z3MLqcNu471STaCpGPj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Joan Baez",
+        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "The Water Is Wide - Live",
+      "url": "https://open.spotify.com/track/4IolXJ5kKsiDcF58BzHULu"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Joan Baez",
-        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        },
-        {
-          "name": "Mimi Fari\u00f1a",
-          "url": "https://open.spotify.com/artist/3CCf0ToNoY3qXMCnVJrSop"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "I Am A Poor Wayfaring Stranger",
-      "url": "https://open.spotify.com/track/5u59J9c465kkPk4aePlnDz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/2fm8pHor9hd3t6szmNZv1x"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 215240,
       "name": "Diamonds & Rust",
       "url": "https://open.spotify.com/track/3mq4d0XatVGY7vOMIhUBEz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Joan Baez",
+        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        },
+        {
+          "name": "Mimi Fari\u00f1a",
+          "url": "https://open.spotify.com/artist/3CCf0ToNoY3qXMCnVJrSop"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "I Am A Poor Wayfaring Stranger",
+      "url": "https://open.spotify.com/track/5u59J9c465kkPk4aePlnDz"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Joan Baez",
-        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
+        "name": "Joan Baez",
+        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 212226,
-      "name": "We Shall Overcome - Live",
-      "url": "https://open.spotify.com/track/3lM2es3TbqmWjOGAx35fyh"
+      "duration_ms": 157160,
+      "name": "Wildwood Flower",
+      "url": "https://open.spotify.com/track/1eZTRfESsrayUmRKGIuory"
     }
   ],
   "unique_name": "This Is Joan Baez",

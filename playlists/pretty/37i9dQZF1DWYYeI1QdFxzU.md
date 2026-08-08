@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 669,591 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 669,580 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 24 | [As If](https://open.spotify.com/track/3QiPB7sjCdwBFbI24ewr5s) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [As If](https://open.spotify.com/album/70l9yOwA3Hrycu1Ls3Zp8k) | 2:23 |
 | 25 | [Redbud](https://open.spotify.com/track/0TGxhLyUCOW7WjVQidU30k) | [Mossera](https://open.spotify.com/artist/6j0nPBfjnh8yjNNQPJOmXG) | [Redbud](https://open.spotify.com/album/1ocXYgSe77CXJ4nwHrsKz5) | 4:00 |
 | 26 | [Drown Me Slow](https://open.spotify.com/track/54KVbLZi755vI53RPEHI42) | [Christian Cohle](https://open.spotify.com/artist/17FYVu6ik77NQMZdl6zdsQ) | [Holy Trouble](https://open.spotify.com/album/4FRfrui9WYZE8wJpHbVzmt) | 4:31 |
-| 27 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |
-| 28 | [Miss Understood](https://open.spotify.com/track/7emOUo5DMccU8cg5X4uG79) | [Headache](https://open.spotify.com/artist/1iX0eIvL5iHnaDny7BBtWH), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Miss Understood](https://open.spotify.com/album/1hSNwF496ybl7F25PjHiqH) | 3:39 |
+| 27 | [Miss Understood](https://open.spotify.com/track/7emOUo5DMccU8cg5X4uG79) | [Headache](https://open.spotify.com/artist/1iX0eIvL5iHnaDny7BBtWH), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Miss Understood](https://open.spotify.com/album/1hSNwF496ybl7F25PjHiqH) | 3:39 |
+| 28 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |
 | 29 | [By](https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Hosoi](https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn) | 2:46 |
 | 30 | [slice \- Gold Panda Remix](https://open.spotify.com/track/2OrqhbF4qjcSki327nFA3l) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [slice \(Gold Panda Remix\)](https://open.spotify.com/album/37koGE4707P8UdATM25L62) | 4:11 |
 | 31 | [Joyfulness](https://open.spotify.com/track/04l9bUZEsUkF6zy7hIjbbT) | [Hector Plimmer](https://open.spotify.com/artist/7K64vyGna9ILfEEWnLKFEV), [Alexa Harley](https://open.spotify.com/artist/7vgZqCNS2Nah7tlpo7ZjC4) | [Next to Nothing](https://open.spotify.com/album/5Kl4wtgRETX1aQU5prjKQO) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 49 | [+1](https://open.spotify.com/track/39UdrvsKgh1M5enXtCxkPw) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [+1](https://open.spotify.com/album/4FvSyKog587pT37wscO9L5) | 3:23 |
 | 50 | [Second Chance](https://open.spotify.com/track/0IdaAvLilaPpPp4IDOpUud) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Second Chance](https://open.spotify.com/album/2rFoIkxEUTJBCZlZUk0lYS) | 4:30 |
 
-Snapshot ID: `AAAAAHmCtHbWFxHp9L91ijNxqlhM7R2i`
+Snapshot ID: `AAAAAEv5u5PR10lMJTYei4RNBoEamkTr`

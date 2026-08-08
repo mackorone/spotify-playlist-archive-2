@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 
 > A dreamy, beautiful musical companion to your time for rest and relaxation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,350 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,362 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QUXSrhM7mI.md) - [plain]
 | 74 | [AMERICAN DREAMS](https://open.spotify.com/track/6qZmQu0eIzO7VErrOVUCPc) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [Drugstore Cowgirl](https://open.spotify.com/album/2gfUHArIC05tLSlaB0rYj6) | 3:20 |
 | 75 | [MAYBE](https://open.spotify.com/track/1PS9AXcHyldKbcRWhNgjOq) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [MAYBE](https://open.spotify.com/album/3oAlz9200fyoVPB3t1Tcfo) | 3:14 |
 
-Snapshot ID: `AAAAAGHDHq+sJdXCyy5LkSPUas9U9cWU`
+Snapshot ID: `AAAAAEw0XGsQzM68OQdayiecxXlnNNFB`

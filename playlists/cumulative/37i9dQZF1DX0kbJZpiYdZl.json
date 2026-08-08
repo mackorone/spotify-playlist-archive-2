@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "The hottest tracks in the United States. Cover: AD\u00c9LA",
+  "description": "The hottest tracks in the United States. Cover: Ariana Grande",
   "name": "Hot Hits USA",
   "tracks": [
     {
@@ -562,6 +562,28 @@
       "duration_ms": 175866,
       "name": "AH HA",
       "url": "https://open.spotify.com/track/6fQeVMxEg2FSKfsQm5ArVR"
+    },
+    {
+      "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176568,
+      "name": "Ah\u00ed",
+      "url": "https://open.spotify.com/track/6DoUDG1GJrJf6eGQLUBBnm"
     },
     {
       "album": {
@@ -2310,6 +2332,24 @@
       "duration_ms": 166578,
       "name": "Boyz Don't Cry",
       "url": "https://open.spotify.com/track/5VXGNoY8O9qRJUYMciPTfc"
+    },
+    {
+      "album": {
+        "name": "brand new chanel$",
+        "url": "https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238505,
+      "name": "brand new chanel$",
+      "url": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2"
     },
     {
       "album": {
@@ -6482,7 +6522,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 248164,
       "name": "Good Reason",
       "url": "https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ"
@@ -7682,7 +7722,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
@@ -8376,7 +8416,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 174230,
       "name": "is it cool? (feat. SZA)",
       "url": "https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ"
@@ -9370,7 +9410,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 145680,
       "name": "Less than a Lover",
       "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
@@ -9690,6 +9730,24 @@
       "duration_ms": 204376,
       "name": "Loser",
       "url": "https://open.spotify.com/track/1BCXUbnU0486n4eeTyyVIj"
+    },
+    {
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
     },
     {
       "album": {
@@ -11622,6 +11680,24 @@
       "duration_ms": 185333,
       "name": "Oh U Went (feat. Drake)",
       "url": "https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB"
+    },
+    {
+      "album": {
+        "name": "Oh yeah?",
+        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170584,
+      "name": "oh yeah?",
+      "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8"
     },
     {
       "album": {
@@ -13924,7 +14000,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 188722,
       "name": "Shabang",
       "url": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
@@ -15026,6 +15102,28 @@
       "duration_ms": 255915,
       "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
       "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
+    },
+    {
+      "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220600,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF"
     },
     {
       "album": {

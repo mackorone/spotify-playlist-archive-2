@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Susto Stringband
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,655 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,669 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 99 | [Twilight Anesthesia](https://open.spotify.com/track/2AvqmzWt3qEkmrOs9vcG7V) | [Don Julin](https://open.spotify.com/artist/7fqbIY3YTlJvcXw1jmWb14) | [Twilight Anesthesia](https://open.spotify.com/album/7FblpfNbUrOSsNuNL5NUbA) | 4:03 |
 | 100 | [Weathered and Worn](https://open.spotify.com/track/5eDuOgtupzpY0Wqfvq3aK0) | [Cup O’Joe](https://open.spotify.com/artist/3ooGnJ9UPDeByu31PiBSYf) | [Weathered and Worn](https://open.spotify.com/album/1CPNweGhZECEtsPo9lFD5z) | 3:41 |
 
-Snapshot ID: `AAAAAA3DYyr1lD+dJYek9RcSa2vz7FhY`
+Snapshot ID: `AAAAAPdMD9ZsyfmufbqBWaaqD0T5jhW3`

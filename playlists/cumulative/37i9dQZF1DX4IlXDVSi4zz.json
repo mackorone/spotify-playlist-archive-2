@@ -1356,7 +1356,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 181846,
       "name": "Dame M\u00e1s (Gasolina)",
       "url": "https://open.spotify.com/track/5wGwW2DK549Mg9vyNzBCnt"
@@ -1598,6 +1598,24 @@
       "duration_ms": 323253,
       "name": "Doses & Mimosas",
       "url": "https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN"
+    },
+    {
+      "album": {
+        "name": "DRAMA club: Noche",
+        "url": "https://open.spotify.com/album/2BEBLiYOpSvpMvyDtSVsqS"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205518,
+      "name": "DRAMA club: Noche",
+      "url": "https://open.spotify.com/track/2LsOc55BssENnGvNIfGdVm"
     },
     {
       "album": {
@@ -5732,7 +5750,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 147269,
       "name": "Shine",
       "url": "https://open.spotify.com/track/5VhHd1NH4lxUGddilFQBmY"
@@ -6256,7 +6274,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 150660,
       "name": "Tambora",
       "url": "https://open.spotify.com/track/5Lm6Vl5RjOF77si7Tv5Usz"

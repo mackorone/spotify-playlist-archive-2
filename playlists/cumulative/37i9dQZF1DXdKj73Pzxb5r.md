@@ -8,7 +8,6 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ["obsessed"](https://open.spotify.com/track/0JdCGnIfvQWWm1SkMx3KfT) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | ["obsessed"](https://open.spotify.com/album/3hQ1Y0qo7qLFVeF7gDkVbH) | 2:50 | 2026-08-07 |  |
 | [+B\-3\-X+ \(Perunggu ver.\)](https://open.spotify.com/track/4L6oqjoKS0IlEOwrVjvMAD) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t), [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [DIFFERENT](https://open.spotify.com/album/0h7BShQP66wqF0tGgTXl4T) | 3:41 | 2025-03-21 | 2025-10-24 |
 | [20 Tahun](https://open.spotify.com/track/2IWpyADDSrmNvSCpWOBh5t) | [Nona Sepatu Kaca](https://open.spotify.com/artist/1dl0ubPoe0cD2Du6nujVJE) | [20 Tahun](https://open.spotify.com/album/3wNUDgGjBaWKHM1s23qGLw) | 5:01 | 2024-11-28 | 2025-10-24 |
 | [6 Years](https://open.spotify.com/track/6092TzQMKn8WgJuHHsy84h) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [6 Years](https://open.spotify.com/album/1pArqrd5AP2MuNvxAj6jDM) | 2:42 | 2026-05-15 |  |
@@ -373,6 +372,7 @@
 | [nulla](https://open.spotify.com/track/30LlunIkCklG8xjlpDKfAH) | [T\. Rucira](https://open.spotify.com/artist/1o0RBJNVBuMCyPxvLi0iMC) | [nulla, vol.1](https://open.spotify.com/album/4uagI2pWOO8sq0v9vl0V6q) | 3:48 | 2026-01-23 |  |
 | [Nyala Langit Jingga](https://open.spotify.com/track/4IfjMf4dRm8fEVbmmiWdec) | [Reruntuh](https://open.spotify.com/artist/3TXx6cyIVfjddsP6Vygy7a) | [Nyala Langit Jingga](https://open.spotify.com/album/6bd0WgxAawoN3PuAe5JLVz) | 5:25 | 2025-06-19 | 2025-10-03 |
 | [Nyali](https://open.spotify.com/track/5Xefj8Ap90LSfZCazbCk8R) | [Manjakani](https://open.spotify.com/artist/6bITofkrePxaLEJf90JjvX) | [Nyali](https://open.spotify.com/album/1IvsI2LopbvtDVu3uqKKpq) | 3:50 | 2025-02-13 | 2025-04-26 |
+| [obsessed](https://open.spotify.com/track/0JdCGnIfvQWWm1SkMx3KfT) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [obsessed](https://open.spotify.com/album/3hQ1Y0qo7qLFVeF7gDkVbH) | 2:50 | 2026-08-07 |  |
 | [Ode to an Old Man](https://open.spotify.com/track/0tUvRtES2L74EDxeZqs2lc) | [Texpack](https://open.spotify.com/artist/1OmBTwOooZHrYO3YUmSTIA) | [Gonggo Sound](https://open.spotify.com/album/05zhGBYMnpmqGFeVAeJOnx) | 2:01 | 2024-06-27 | 2024-11-01 |
 | [Oh Mengapa](https://open.spotify.com/track/3YdLD1PnI21Xsa8Nax9tGh) | [Sinajimasi](https://open.spotify.com/artist/5kyl7OeHkW1ZYHNpHDKtxD) | [Oh Mengapa](https://open.spotify.com/album/6xFlvBuwlGRgSGYkttTQk6) | 3:51 | 2024-06-27 | 2024-08-02 |
 | [Ok Not To Be Ok](https://open.spotify.com/track/6kCA2XMmaMhbXzvZC2MzBn) | [MAIVE.](https://open.spotify.com/artist/5k3veZatAzPSJKXiDlOUFk) | [Humanoid Heart](https://open.spotify.com/album/0dFsMYOJCh20Fk6tvxUcDe) | 3:12 | 2026-03-26 | 2026-07-24 |

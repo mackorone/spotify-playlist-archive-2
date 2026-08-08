@@ -1,12 +1,12 @@
 {
   "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 4816,
+  "num_followers": 4817,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAADMozjB3gCOEtri53pEZeik",
+  "snapshot_id": "anPOgAAAAAARKxZxJjKmdC6hQfrqPtmx",
   "tracks": [
     {
       "added_at": null,
@@ -182,11 +182,15 @@
         {
           "name": "Touch\u00e9 Amor\u00e9",
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
         }
       ],
-      "duration_ms": 173042,
-      "name": "Disasters",
-      "url": "https://open.spotify.com/track/3pHnXkd4Sh27LBQ0aOKd0h"
+      "duration_ms": 260885,
+      "name": "Goodbye For Now (feat. Julien Baker)",
+      "url": "https://open.spotify.com/track/0lPwT1JHuNFeXtIV6i6Eg2"
     },
     {
       "added_at": null,
@@ -246,15 +250,11 @@
         {
           "name": "Touch\u00e9 Amor\u00e9",
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
         }
       ],
-      "duration_ms": 260885,
-      "name": "Goodbye For Now (feat. Julien Baker)",
-      "url": "https://open.spotify.com/track/0lPwT1JHuNFeXtIV6i6Eg2"
+      "duration_ms": 173042,
+      "name": "Disasters",
+      "url": "https://open.spotify.com/track/3pHnXkd4Sh27LBQ0aOKd0h"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Searching For A Pulse/The Worth Of The World",
-        "url": "https://open.spotify.com/album/6tZip1UYmRLpKlI6wIfWQI"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 103520,
-      "name": "I'll Deserve Just That",
-      "url": "https://open.spotify.com/track/31Aw4lTh5VI3lnlifsIP4G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Is Survived By",
         "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
       },
@@ -451,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "...To the Beat of a Dead Horse",
-        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
+        "name": "Searching For A Pulse/The Worth Of The World",
+        "url": "https://open.spotify.com/album/6tZip1UYmRLpKlI6wIfWQI"
       },
       "artists": [
         {
@@ -460,9 +444,25 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 97429,
-      "name": "And Now It's Happening in Mine",
-      "url": "https://open.spotify.com/track/4i2ZnG3km6mvQ3zqcsEAio"
+      "duration_ms": 103520,
+      "name": "I'll Deserve Just That",
+      "url": "https://open.spotify.com/track/31Aw4lTh5VI3lnlifsIP4G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Covers Vol. 1",
+        "url": "https://open.spotify.com/album/7Mb0ExnQg3xbgj9OIdhelq"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 210154,
+      "name": "Hard to Explain",
+      "url": "https://open.spotify.com/track/4Ptjci84oTDIh4iSkygdNC"
     },
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "...To the Beat of a Dead Horse",
+        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 97429,
+      "name": "And Now It's Happening in Mine",
+      "url": "https://open.spotify.com/track/4i2ZnG3km6mvQ3zqcsEAio"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Searching For A Pulse/The Worth Of The World",
         "url": "https://open.spotify.com/album/6tZip1UYmRLpKlI6wIfWQI"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 94133,
       "name": "I'll Get My Just Deserve",
       "url": "https://open.spotify.com/track/5qpT7CVS0r3yfGsMvI7MwS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Covers Vol. 1",
-        "url": "https://open.spotify.com/album/7Mb0ExnQg3xbgj9OIdhelq"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 210154,
-      "name": "Hard to Explain",
-      "url": "https://open.spotify.com/track/4Ptjci84oTDIh4iSkygdNC"
     },
     {
       "added_at": null,

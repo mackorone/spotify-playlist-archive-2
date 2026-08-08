@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: SNIK
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,949 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,928 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 49 | [CHRISTIAN DIOR](https://open.spotify.com/track/2n2Kn5gGtVGrVJxvxtMDLB) | [SOLO](https://open.spotify.com/artist/3qed23BFf5AfvaRV0h8YX8), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou) | [P.S](https://open.spotify.com/album/7GXHGIEVtBjAlGVvRZJzCX) | 2:48 |
 | 50 | [Pano Ap' Ti Gi](https://open.spotify.com/track/2W3LV1pbvaLxre1TwOrhUN) | [Logos Timis](https://open.spotify.com/artist/1s3DdqnSPErYk7xQkRFZ0s), [Eleuthero Pneuma](https://open.spotify.com/artist/1ES4Fgglz6Q2ySlPsCAcgZ), [Desbow](https://open.spotify.com/artist/2IaqO9UIPrfzj6jO9uZd0C) | [Pano Ap' Ti Gi](https://open.spotify.com/album/0Zkj0Ctvyi5kyAsAXVCbnu) | 3:28 |
 
-Snapshot ID: `AAAAAKub4ZUZHa+ByPhLf6cTRYQjPgbK`
+Snapshot ID: `AAAAAD6ryfecrVD5yb7fObvm4+CrCz2W`

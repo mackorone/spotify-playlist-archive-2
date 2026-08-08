@@ -2087,6 +2087,24 @@
     },
     {
       "album": {
+        "name": "\u0432\u0456\u0434\u0447\u0443\u0442\u0442\u044f, \u0449\u043e \u0446\u0435 \u0449\u043e\u0441\u044c \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u0435",
+        "url": "https://open.spotify.com/album/2TMOC1BjJWDuulib8MW6DI"
+      },
+      "artists": [
+        {
+          "name": "DENOMA",
+          "url": "https://open.spotify.com/artist/1CIgr3yWzcyRxtmhuzaqSd"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "\u0432\u0456\u0434\u0447\u0443\u0442\u0442\u044f, \u0449\u043e \u0446\u0435 \u0449\u043e\u0441\u044c \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u0435",
+      "url": "https://open.spotify.com/track/14GDLuggfxzXzFUVEKc2ub"
+    },
+    {
+      "album": {
         "name": "\u0412\u0456\u0440 \u043c\u0435\u043d\u0456",
         "url": "https://open.spotify.com/album/23yQRx1Jd5gPYuixowWL6C"
       },
@@ -5144,7 +5162,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 244000,
       "name": "\u042f\u043a \u0436\u0435 \u0442\u043e\u0431\u0456 \u0442\u0430\u043c?",
       "url": "https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07"

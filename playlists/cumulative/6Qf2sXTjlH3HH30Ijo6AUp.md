@@ -4,7 +4,7 @@
 
 > Happy songs and good vibes! A real mood booster sure to make you smile and keep you feelin’ good 😊 😊 😊 Perfect for road trips and singing in the shower! A good playlist for pickme pop, feel good pop, and other positive music to boost your mood!
 
-415 songs - 23 hr 52 min
+416 songs - 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Brass in Pocket \- 2006 Remaster](https://open.spotify.com/track/2hvOsGJc6qll4WzW8Ljqc3) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders \(Expanded & Remastered\)](https://open.spotify.com/album/4oDYsMBe7KtOu12VNMO75k) | 3:05 | 2023-12-08 |  |
 | [Brave](https://open.spotify.com/track/5SfQhaZTGL7IewCIvMifFJ) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Brave](https://open.spotify.com/album/0mPhbDbLpPeCnjm35rSkql) | 3:21 | 2022-06-07 | 2023-01-18 |
 | [Breathless](https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [In Blue](https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY) | 3:27 | 2022-06-07 |  |
-| [Bring Your Love](https://open.spotify.com/track/4VozGoqMUNSIn4CT3T1y2c) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [CONFESSIONS II](https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ) | 3:42 | 2026-07-31 |  |
+| [Bring Your Love](https://open.spotify.com/track/4VozGoqMUNSIn4CT3T1y2c) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [CONFESSIONS II](https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ) | 3:42 | 2026-07-31 | 2026-08-08 |
 | [Bring Your Love](https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Bring Your Love](https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy) | 3:42 | 2026-05-19 |  |
 | [Budapest](https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:20 | 2022-06-24 | 2023-02-25 |
 | [Burning Down \(with Joe Jonas\)](https://open.spotify.com/track/3diSxgK7bRIZzqu5IqFgd1) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Burning Down \(with Joe Jonas\)](https://open.spotify.com/album/5sT7X6SG6Vc4jc68TbZKEp) | 2:59 | 2025-01-10 | 2026-04-01 |
@@ -260,6 +260,7 @@
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2022-06-07 | 2022-08-10 |
 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 | 2025-04-25 | 2026-07-08 |
 | [Natural](https://open.spotify.com/track/4Jlo0XmE2MeNcep7aRc5LC) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Natural](https://open.spotify.com/album/16pHEysNz5Sp0iI9Aw7KXR) | 2:42 | 2022-06-24 | 2022-07-19 |
+| [Need Your Love](https://open.spotify.com/track/6OfqavhjPgNg8oCtxJFcaM) | [JAYLER](https://open.spotify.com/artist/2cqlQm5f8HXjQ7LCMVsZ7f) | [Voices Unheard](https://open.spotify.com/album/048Da8fZU273Alslmxcfi9) | 3:20 | 2026-08-07 |  |
 | [Never Gonna Give You Up](https://open.spotify.com/track/6VPOVkex1tTqsMlMyH8Ebf) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [The Best of Me](https://open.spotify.com/album/09A5ujQAQP0zKYqxvrb1Wn) | 3:34 | 2022-06-07 | 2022-06-18 |
 | [New Rules](https://open.spotify.com/track/43oK4OAWUsRZUDVeHtKI4U) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Complete Edition\)](https://open.spotify.com/album/0obMz8EHnr3dg6NCUK4xWp) | 3:29 | 2022-07-18 | 2024-04-20 |
 | [New Shoes](https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:23 | 2022-06-07 | 2023-12-14 |

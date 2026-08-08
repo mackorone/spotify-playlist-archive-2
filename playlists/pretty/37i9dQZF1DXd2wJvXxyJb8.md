@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > as gigas da net
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,647,718 likes - 55 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,647,716 likes - 55 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 54 | [Até Quebrar a Cama 2.0](https://open.spotify.com/track/7aOv4uSAmiB9XKnkibqSdo) | [cjnobeat](https://open.spotify.com/artist/4fKJ81BAFxuwAFUI3B1BXM), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Até Quebrar a Cama 2.0](https://open.spotify.com/album/0M3Eqgtjept5qmPYWNdzWR) | 2:12 |
 | 55 | [Me Apaixonei Nessa Morena](https://open.spotify.com/track/7xcDd2JxnJtO87QQr8uY0O) | [Natanzinho Lima](https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU), [Mc Tato](https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2) | [Me Apaixonei Nessa Morena](https://open.spotify.com/album/1a7oLVsqFB25CEvqn3sZyU) | 2:51 |
 
-Snapshot ID: `AAAAAFftG7mX5PYxMq5p077axOnit0HZ`
+Snapshot ID: `AAAAALHn8a+0a9zLmBzfyO78rD0/xH4G`

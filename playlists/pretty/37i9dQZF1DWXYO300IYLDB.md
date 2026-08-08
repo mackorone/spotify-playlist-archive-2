@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドでリラックスしませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,094 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,091 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 72 | [Dakota](https://open.spotify.com/track/2LOEgB0Jk9suqAP5dDS4bp) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/4dl5Lo8s7uDNRAqqtW2wna) | 4:54 |
 | 73 | [Mr\. Brightside](https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Mr\. Brightside](https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z) | 3:35 |
 | 74 | [rain](https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rain](https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA) | 4:14 |
-| 75 | [Highlights](https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Highlights](https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt) | 2:32 |
-| 76 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 |
+| 75 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 |
+| 76 | [Highlights](https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Highlights](https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt) | 2:32 |
 | 77 | [Goodbye \(Don’t Tell Me\)](https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Forever Howlong](https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t) | 4:17 |
 | 78 | [My Maker](https://open.spotify.com/track/0CytapqefuNILUq2YdFw78) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [My Maker](https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4) | 4:19 |
 | 79 | [Sorry](https://open.spotify.com/track/6tbSgMKlQ31izXvorTATrn) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL COVER ALL](https://open.spotify.com/album/1290P26ZPIKJSHOrOyqLXD) | 2:49 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 92 | [Pure Shores](https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP) | [Colder Shoulders](https://open.spotify.com/artist/1zosZ3MRuDEtY3otoKE291) | [Pure Shores](https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU) | 3:19 |
 | 93 | [たのしいひとり](https://open.spotify.com/track/6jtS7UUrQNrzz8rvycH70P) | [Yujiro Kudo](https://open.spotify.com/artist/199lz68d4IMX2Ep1QA66NA) | [たのしいひとり](https://open.spotify.com/album/76mqPlKogdLjSxmPC7Wopt) | 2:31 |
 | 94 | [灯台 \(Live Session\)](https://open.spotify.com/track/2a3s6DyCghaqmS14lIlGez) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r) | 3:07 |
-| 95 | [Dreams \- Piano Version](https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [When I'm Alone: The Piano Retrospective](https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA) | 4:34 |
-| 96 | [あの日のままのぼくら](https://open.spotify.com/track/1Hezf2jAn3lSIID7BlRPfs) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [カーニバルの夢](https://open.spotify.com/album/0W4mCxf93Nzyb0Zl2G7x48) | 3:14 |
+| 95 | [あの日のままのぼくら](https://open.spotify.com/track/1Hezf2jAn3lSIID7BlRPfs) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [カーニバルの夢](https://open.spotify.com/album/0W4mCxf93Nzyb0Zl2G7x48) | 3:14 |
+| 96 | [Dreams \- Piano Version](https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [When I'm Alone: The Piano Retrospective](https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA) | 4:34 |
 | 97 | [このオンガクと共に](https://open.spotify.com/track/62d3DM93Vu7STtVQ9vPRxA) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [このオンガクと共に](https://open.spotify.com/album/3AH87XpZUKF8zknAiZAYe6) | 2:45 |
 | 98 | [Ding\-dong](https://open.spotify.com/track/7w0okOAHEpB4kJjUFIZbu0) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Ding\-dong](https://open.spotify.com/album/2eBnNZdjmBNfER5SuuKQGl) | 2:33 |
 | 99 | [Velvet Love](https://open.spotify.com/track/6ZbAqX6hEFVHKbyRKxUnqd) | [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Velvet Petals](https://open.spotify.com/album/6fFHDyWW8d4wTqkRbBKFcA) | 3:20 |
-| 100 | [柔らかい影](https://open.spotify.com/track/4JseUox8CQxSsjdvfsrez9) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [THE MAGICAL TOUCH](https://open.spotify.com/album/6NbFZ5FRVocK8Re3pSJu4t) | 3:17 |
+| 100 | [It's a Mirror](https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [It's a Mirror](https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz) | 3:32 |
 
-Snapshot ID: `AAAAAMb00WxYeCF4VEiiCQL3c1Eb5H6n`
+Snapshot ID: `AAAAANULankmdldmi3NsUuBF4SFYcTHx`

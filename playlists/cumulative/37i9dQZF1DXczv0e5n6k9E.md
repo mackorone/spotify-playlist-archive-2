@@ -4,7 +4,7 @@
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Bossikan
 
-821 songs - 1 day 13 hr 57 min
+822 songs - 1 day 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -613,7 +613,7 @@
 | [POSOSTA](https://open.spotify.com/track/21FXtFiJkX1D5V25s5WK73) | [Onad](https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV) | [POSOSTA](https://open.spotify.com/album/62oq819iE2U7O1JPvJiaf1) | 1:59 | 2024-12-19 | 2025-01-31 |
 | [POTE](https://open.spotify.com/track/0hEtvbRFwcHe8xPEPPtdih) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [CHEKKIS](https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO) | [POTE](https://open.spotify.com/album/4HVncWl87jExvllBJNPb0p) | 3:00 | 2026-07-09 |  |
 | [POU ISOUNA ESY](https://open.spotify.com/track/0a5fJ2zezbwEpB24cNQUzX) | [Mario Kush](https://open.spotify.com/artist/1o9oGVl9x0NWqJMrfti1rq), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [POU ISOUNA ESY](https://open.spotify.com/album/0Dqc3M1W0eyutMe0I8ecaS) | 2:55 | 2025-02-27 | 2025-03-21 |
-| [PRESVHS](https://open.spotify.com/track/2O4AqEMqtV8I6mXzlKKFKp) | [Merko](https://open.spotify.com/artist/3NBuryo6MsorZpU4VRpHOJ) | [PRESVHS](https://open.spotify.com/album/7cWDVIpickrrLaGqe7kxk4) | 1:50 | 2026-08-06 |  |
+| [PRESVHS](https://open.spotify.com/track/2O4AqEMqtV8I6mXzlKKFKp) | [Merko](https://open.spotify.com/artist/3NBuryo6MsorZpU4VRpHOJ), [Spize](https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm) | [PRESVHS](https://open.spotify.com/album/7cWDVIpickrrLaGqe7kxk4) | 1:50 | 2026-08-06 |  |
 | [Prezi](https://open.spotify.com/track/7pm3I8p2MWYcjEyZKoVMcd) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [Prezi](https://open.spotify.com/album/25W0wFI9LqcziSkZob1Smn) | 2:49 | 2025-09-25 | 2026-02-27 |
 | [PRIN](https://open.spotify.com/track/61XXv4jimPC4D6T8egfBvp) | [Nume](https://open.spotify.com/artist/62tV1e6rfkhuGPewxuOsjD), [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w) | [KIDS WITHOUT LUCK](https://open.spotify.com/album/5rPOPnLxTj0AMiHQBQqW4j) | 3:44 | 2025-12-04 | 2026-01-02 |
 | [Prin Mou Klepsoun Ta Poulia Ta Tragoudia](https://open.spotify.com/track/3kg3QT1BqgDEbTEMXyqNMB) | [Kako](https://open.spotify.com/artist/4Dsd6cAcZNwLHc3Gjg59vO), [Σημάδι](https://open.spotify.com/artist/5JQW45Lwdac4eo5juPw6gl) | [Prin Mou Klepsoun Ta Poulia Ta Tragoudia](https://open.spotify.com/album/5aSKZXlKxHEGDhidWoKlT5) | 4:16 | 2026-04-09 | 2026-04-17 |
@@ -781,6 +781,7 @@
 | [VARIKARIS](https://open.spotify.com/track/7ooZh160gRpB8nAdbWgxN5) | [YungKapa](https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG) | [VARIKARIS](https://open.spotify.com/album/1wygbz8b6lYlOsUgTVqlez) | 2:24 | 2025-07-10 | 2025-08-01 |
 | [VARKARIS](https://open.spotify.com/track/049yfS33wXFjQtwTnx0iM6) | [DAIMA](https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN), [Stanley](https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75) | [VARKARIS](https://open.spotify.com/album/6CeJ6Iz9RTIiRt7JvNadoU) | 2:15 | 2025-04-03 | 2025-05-16 |
 | [Verano](https://open.spotify.com/track/1iyeUhzobrowCtTwKf4BrY) | [Kimi](https://open.spotify.com/artist/6uhMFybh7MnkaBS2EgyzNw), [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q), [Echo](https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD) | [Verano](https://open.spotify.com/album/2eUmAm9rSyQtjXHLP3Cdas) | 3:15 | 2024-08-22 | 2024-10-04 |
+| [VERSACE](https://open.spotify.com/track/77Ncp4dEk7bVbDTpTwfj6I) | [Likeboss](https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [HermesHermes](https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY), [Echo](https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD) | [VERSACE](https://open.spotify.com/album/1uP4wBPulejvSucBlYl8Sv) | 3:16 | 2026-08-06 |  |
 | [Vgazeis Cafe](https://open.spotify.com/track/4jeAxO6RFFP04pcYgvxabz) | [Donn](https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv), [BLVD](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [Vgazeis Cafe](https://open.spotify.com/album/26fEd8HXmV6h9hZMiYGZbS) | 2:00 | 2026-04-16 | 2026-05-01 |
 | [VIETNAM](https://open.spotify.com/track/6ucqw4rZs6dXXGXffcDKIn) | [Yanek](https://open.spotify.com/artist/3qQbT0KRi9n6xs3dAd8hz5), [S9](https://open.spotify.com/artist/7kiySLsA3bSb8BfkZOWsFK) | [VIETNAM](https://open.spotify.com/album/5ncvRWnEGgACHtFyJsnYtI) | 3:12 | 2026-01-22 | 2026-02-13 |
 | [VILLA](https://open.spotify.com/track/5b5LRNnYD5RdspYyNjI5On) | [YungKapa](https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG) | [VILLA](https://open.spotify.com/album/23baFzwKiREF162Q0qObue) | 3:04 | 2025-07-31 | 2025-08-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 
 > lay back\. chill out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,215 likes - 80 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,268 likes - 80 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,12 +54,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 44 | [Any Time, Any Place](https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 7:08 |
 | 45 | [Between the Sheets](https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between the Sheets](https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu) | 5:40 |
 | 46 | [Closer](https://open.spotify.com/track/2UXEwIOtNGUUgGdXnds8V7) | [Goapele](https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq) | [Even Closer](https://open.spotify.com/album/7KgzSaFHNmywgJTxBcY3zw) | 3:49 |
-| 47 | [Good & Plenty](https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty](https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl) | 3:24 |
-| 48 | [Sweet Thing](https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Rufus Featuring Chaka Khan](https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX) | 3:20 |
+| 47 | [Sweet Thing](https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Rufus Featuring Chaka Khan](https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX) | 3:20 |
+| 48 | [Good & Plenty](https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty](https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl) | 3:24 |
 | 49 | [Comets + Gold](https://open.spotify.com/track/5OTOTazu9IXnD7jspyv43f) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Comets + Gold](https://open.spotify.com/album/2eZnw2HtWAVA9vDsJL7T1W) | 3:08 |
 | 50 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
-| 51 | [Back On 74 \- Full Crate Remix](https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Back on 74 \(Full Crate Remix\)](https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD) | 2:54 |
-| 52 | [What You Need](https://open.spotify.com/track/7IpDQcksaT8SxS7vOX4SRm) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 3:16 |
+| 51 | [What You Need](https://open.spotify.com/track/7IpDQcksaT8SxS7vOX4SRm) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 3:16 |
+| 52 | [Back On 74 \- Full Crate Remix](https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Back on 74 \(Full Crate Remix\)](https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD) | 2:54 |
 | 53 | [Fortunate](https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Fortunate](https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H) | 5:01 |
 | 54 | [Send It On](https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:56 |
 | 55 | [What a Difference a Day Makes \(from the Netflix Limited Series "Black Rabbit"\)](https://open.spotify.com/track/1cq6HORyFRru04fKA5PJ5Z) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [What a Difference a Day Makes \(from the Netflix Limited Series "Black Rabbit"\)](https://open.spotify.com/album/3GKIxiQ8p5H77TPsK2TZ0l) | 4:21 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 74 | [heal something](https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 3:01 |
 | 75 | [Bloom \(feat\. Strings From Paris\)](https://open.spotify.com/track/1zmm0RJr87jNbbLR08eaLV) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4), [Strings From Paris](https://open.spotify.com/artist/4c520eahgQwzeJopRch4k4) | [Bloom \(feat\. Strings From Paris\)](https://open.spotify.com/album/06hyNaRnnj4Byzh8IqyZQW) | 3:19 |
 | 76 | [Free](https://open.spotify.com/track/5aPVQqYEEZKREbFRxLiAp5) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Love Songs](https://open.spotify.com/album/5yRdzDUGp5EK8hoBvdUNNg) | 5:56 |
-| 77 | ["You hate Jazz?"](https://open.spotify.com/track/3tq1hLwEtiAJ7Cr9ghjshV) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Jaleel Shaw](https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv) | ["You hate Jazz?"](https://open.spotify.com/album/6JgmJqUrH4dlIHuwu2e6YF) | 2:40 |
-| 78 | [Fallen](https://open.spotify.com/track/75pAfYEpRXZf7GVORGhOgz) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Moodring](https://open.spotify.com/album/2syvgyDNiIraR35ncupC0H) | 3:34 |
-| 79 | [What It Feels Like](https://open.spotify.com/track/2v1amskPjMOOAZZc1VGPoT) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [What It Feels Like](https://open.spotify.com/album/0DqMZ3ToWJsTs5z8QcJVvc) | 3:09 |
+| 77 | [What It Feels Like](https://open.spotify.com/track/2v1amskPjMOOAZZc1VGPoT) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [What It Feels Like](https://open.spotify.com/album/0DqMZ3ToWJsTs5z8QcJVvc) | 3:09 |
+| 78 | ["You hate Jazz?"](https://open.spotify.com/track/3tq1hLwEtiAJ7Cr9ghjshV) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Jaleel Shaw](https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv) | ["You hate Jazz?"](https://open.spotify.com/album/6JgmJqUrH4dlIHuwu2e6YF) | 2:40 |
+| 79 | [Fallen](https://open.spotify.com/track/75pAfYEpRXZf7GVORGhOgz) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Moodring](https://open.spotify.com/album/2syvgyDNiIraR35ncupC0H) | 3:34 |
 | 80 | [Julia](https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Julia](https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV) | 3:09 |
 
-Snapshot ID: `AAAAAMvsZIDLdu2RmjRH8OAPF9epEmPy`
+Snapshot ID: `AAAAAEIcCcr7DnUaDA7hhXyoZWFyzXNd`

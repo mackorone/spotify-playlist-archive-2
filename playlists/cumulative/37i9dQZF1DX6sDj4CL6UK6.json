@@ -1833,6 +1833,24 @@
     },
     {
       "album": {
+        "name": "Ear Candy",
+        "url": "https://open.spotify.com/album/6ca3CWTuYwsE66koP391Jz"
+      },
+      "artists": [
+        {
+          "name": "Malvika",
+          "url": "https://open.spotify.com/artist/0amamV04S1qWI3XHMh9qpl"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Ear Candy",
+      "url": "https://open.spotify.com/track/6Pnf0VIWVFTZqRNytCpfDr"
+    },
+    {
+      "album": {
         "name": "Blueboy Must Die",
         "url": "https://open.spotify.com/album/7HxuP6eVdhcYH810tElmAg"
       },

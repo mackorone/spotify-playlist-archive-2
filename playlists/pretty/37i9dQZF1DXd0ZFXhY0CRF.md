@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 
 > The women whose music and influence rock our world\. Cover: Violet Grohl
 
-[Spotify](https://open.spotify.com/user/spotify) - 807,296 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 807,444 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 36 | [Spellbound](https://open.spotify.com/track/5Ng6UbryNd3eds2zQk9MUf) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 3:17 |
 | 37 | [This Is Why](https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:27 |
 | 38 | [Our Lips Are Sealed \- Single Version](https://open.spotify.com/track/1GVnAD8Iz45rux6EC657Yv) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Beauty And The Beat](https://open.spotify.com/album/1L4HE00En7eNK74voVZums) | 2:47 |
-| 39 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
+| 39 | [Pretend We're Dead](https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 3:55 |
 | 40 | [Just A Girl](https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 3:29 |
 | 41 | [Cornflake Girl](https://open.spotify.com/track/1300POeOaj8qho30FRHjgf) | [Tori Amos](https://open.spotify.com/artist/0rYOtTxWpZq04WpQivGX7T) | [Under the Pink](https://open.spotify.com/album/6VNuZLF98tsRYgqlIXAVCD) | 5:05 |
-| 42 | [Pretend We're Dead](https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 3:55 |
+| 42 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
 | 43 | [Down By The Water](https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 3:14 |
 | 44 | [White Horses](https://open.spotify.com/track/5FxdLsAmaOo8ofpNvsSun5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 4:29 |
 | 45 | [Mirtazapine](https://open.spotify.com/track/2FFXU4b8sIsiLiTo6EWO19) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b) | 3:21 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 53 | [Future Starts Slow](https://open.spotify.com/track/0A0RBBTrgfq9eClnw6ZXT7) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Blood Pressures](https://open.spotify.com/album/5kl3MEiOAGrmlamu3oP7mr) | 4:08 |
 | 54 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 |
 | 55 | [Seether](https://open.spotify.com/track/1SY2vughwKmVPm1Lmf5Nl7) | [Veruca Salt](https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP) | [American Thighs](https://open.spotify.com/album/5Mjt2iha5C99JBqTjJijg9) | 3:16 |
-| 56 | [Brass in Pocket \- 2006 Remaster](https://open.spotify.com/track/1QaJWSCk3UMKLotnPCIHh1) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders](https://open.spotify.com/album/6AFFu3ilmlEDz1I9ZaNOZw) | 3:05 |
-| 57 | [Come Over \(Again\)](https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Crawlers \- EP](https://open.spotify.com/album/4wePwIhGnXxJ3tRFAusMAE) | 4:14 |
+| 56 | [Come Over \(Again\)](https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Crawlers \- EP](https://open.spotify.com/album/4wePwIhGnXxJ3tRFAusMAE) | 4:14 |
+| 57 | [Brass in Pocket \- 2006 Remaster](https://open.spotify.com/track/1QaJWSCk3UMKLotnPCIHh1) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders](https://open.spotify.com/album/6AFFu3ilmlEDz1I9ZaNOZw) | 3:05 |
 | 58 | [For I Am Death](https://open.spotify.com/track/3K85nEutdOPbJuAJgoe2O4) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [For I Am Death](https://open.spotify.com/album/7LnfxsUCMGkJfwQm969CKM) | 3:39 |
 | 59 | [U Should Not Be Doing That](https://open.spotify.com/track/6zfVBdPDopmP36NeHd4O2m) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Cartoon Darkness](https://open.spotify.com/album/6yubtXRtg07Pd4REHb6lc7) | 3:24 |
 | 60 | [Standing in the Way of Control](https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Standing in the Way of Control](https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW) | 4:16 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 81 | [Victim Of Luck](https://open.spotify.com/track/5gH0Jr4nPOHPapmjfSYs4Y) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Victim Of Luck](https://open.spotify.com/album/4RcM2L1fg6E8uL3t1H355B) | 3:23 |
 | 82 | [You Look Like A Drunk Phoebe Bridgers](https://open.spotify.com/track/49z8uMXflgtt6eQ3x7NRTN) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [My Apologies To The Chef](https://open.spotify.com/album/2VKfhxfIcAcYObO8qJEXA0) | 2:54 |
 | 83 | [Modern Girl](https://open.spotify.com/track/2GOQVqZ3uVp7LKVAY1T0mk) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Woods](https://open.spotify.com/album/73ctstwnbNifu5U902X2zL) | 3:01 |
-| 84 | [catalogue](https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [my anti\-aircraft friend](https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ) | 3:14 |
-| 85 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
+| 84 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
+| 85 | [catalogue](https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [my anti\-aircraft friend](https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ) | 3:14 |
 | 86 | [WEAPON](https://open.spotify.com/track/0PAQ2onMF2K69b2IYtK8yX) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Somewhere In Between](https://open.spotify.com/album/5KJPUWvsYR8QKCITHAY9zG) | 2:27 |
 | 87 | [Psycho](https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Psycho](https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat) | 2:59 |
 | 88 | [mettle](https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [mettle](https://open.spotify.com/album/0QZNEGmnZrFhePN6CH6muw) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 99 | [By The Time You're Reading This](https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:10 |
 | 100 | [Dead End](https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Dead End](https://open.spotify.com/album/3wDIP40j3CcyfvmVjiN6v9) | 4:05 |
 
-Snapshot ID: `AAAAAEHlydcwLnbj1W2xMiqnwb0wKUav`
+Snapshot ID: `AAAAAKnDfr+uIPfdtZwfBpgbpHJe7gQe`

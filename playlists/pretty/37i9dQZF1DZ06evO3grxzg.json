@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 234533,
+  "num_followers": 234527,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAABIOJmvEZHrLFUVECSzfa8N",
+  "snapshot_id": "anPOgAAAAAAFXUNiIeIsuafajcIr1YE5",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
+        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 208626,
+      "name": "Valiente",
+      "url": "https://open.spotify.com/track/5bHUugTGfu636hC4knWtVP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/05fpdfFa3XDb7gA5X822JO"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 153109,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/1hgXogcqTeq5Ht1tn36460"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
-        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 208626,
-      "name": "Valiente",
-      "url": "https://open.spotify.com/track/5bHUugTGfu636hC4knWtVP"
     },
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atrevete A So\u00f1ar (Original Sountrack)",
-        "url": "https://open.spotify.com/album/2xxdR4FrSukKWJ18NuKfgu"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Mateo",
-          "url": "https://open.spotify.com/artist/3ZSqOgN2W2NrJ0kDoMj2g0"
-        }
-      ],
-      "duration_ms": 162440,
-      "name": "Quiero Quedarme Aqui",
-      "url": "https://open.spotify.com/track/5NbKBvXnw5YhkHbzMkfJSM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
         "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 202960,
       "name": "Amor De Ni\u00f1os",
       "url": "https://open.spotify.com/track/42Nsc9ulcdrZlAYuJGoKaN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atrevete A So\u00f1ar (Original Sountrack)",
+        "url": "https://open.spotify.com/album/2xxdR4FrSukKWJ18NuKfgu"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Mateo",
+          "url": "https://open.spotify.com/artist/3ZSqOgN2W2NrJ0kDoMj2g0"
+        }
+      ],
+      "duration_ms": 162440,
+      "name": "Quiero Quedarme Aqui",
+      "url": "https://open.spotify.com/track/5NbKBvXnw5YhkHbzMkfJSM"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Romper La Pi\u00f1ata",
+        "url": "https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Chiquita Pero Picosa - Versi\u00f3n Pop",
+      "url": "https://open.spotify.com/track/1Y6p6wf7CSisJGw4ijUNTF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Atr\u00e9vete A So\u00f1ar El Concierto (En Vivo)",
         "url": "https://open.spotify.com/album/4d5Xe8H0v3QQuYhjZNEno1"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 210853,
       "name": "Fiesta - En Vivo",
       "url": "https://open.spotify.com/track/7emn83W4E8qn6JSxzaIiuo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Romper La Pi\u00f1ata",
-        "url": "https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "Chiquita Pero Picosa - Versi\u00f3n Pop",
-      "url": "https://open.spotify.com/track/1Y6p6wf7CSisJGw4ijUNTF"
     },
     {
       "added_at": null,
@@ -915,6 +915,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Romper La Pi\u00f1ata",
+        "url": "https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 165613,
+      "name": "Pablo Y Andrea",
+      "url": "https://open.spotify.com/track/7q0iEiiHZgofj5gzkXmHkG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Atr\u00e9vete A So\u00f1ar El Concierto (En Vivo)",
         "url": "https://open.spotify.com/album/4d5Xe8H0v3QQuYhjZNEno1"
       },
@@ -947,22 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Romper La Pi\u00f1ata",
-        "url": "https://open.spotify.com/album/3GNl89v4dDBIoH91sXvazf"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 165613,
-      "name": "Pablo Y Andrea",
-      "url": "https://open.spotify.com/track/7q0iEiiHZgofj5gzkXmHkG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
         "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
       },
@@ -987,22 +987,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pop para los peques",
-        "url": "https://open.spotify.com/album/1ReWDCoZ2nzYT2lbxxSjyb"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 229666,
-      "name": "Ilarie",
-      "url": "https://open.spotify.com/track/1KngeaJmXTycyZbrQLHeVI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pasitos Poperos Vol. 3",
         "url": "https://open.spotify.com/album/3op100AmQIaxv3Ga4RXJdB"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 219693,
       "name": "Ag\u00fcita",
       "url": "https://open.spotify.com/track/3wbFJYQ6H3H3QRvisWQDKW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pop para los peques",
+        "url": "https://open.spotify.com/album/1ReWDCoZ2nzYT2lbxxSjyb"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 229666,
+      "name": "Ilarie",
+      "url": "https://open.spotify.com/track/1KngeaJmXTycyZbrQLHeVI"
     }
   ],
   "unique_name": "This Is Danna Paola",

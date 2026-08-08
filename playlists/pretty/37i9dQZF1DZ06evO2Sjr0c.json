@@ -1,12 +1,12 @@
 {
   "description": "This is Grateful Dead. The essential tracks, all in one playlist.",
-  "num_followers": 182150,
+  "num_followers": 182172,
   "original_name": "This Is Grateful Dead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAADIbl7G5z83lsV0UjEi0lKt",
+  "snapshot_id": "anPOgAAAAAB2AVe9TtFOyZUZCp0k93aD",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues for Allah (2013 Remaster)",
-        "url": "https://open.spotify.com/album/5BwjVdVJ4aOmbIYomznfCv"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 274942,
-      "name": "Franklin's Tower - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3PgIhd4XmwtmV2XGU5qhzZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Workingman's Dead",
         "url": "https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 265067,
       "name": "Casey Jones - 2013 Remaster",
       "url": "https://open.spotify.com/track/7LbfuQVct78YoghmoPtsQ8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues for Allah (2013 Remaster)",
+        "url": "https://open.spotify.com/album/5BwjVdVJ4aOmbIYomznfCv"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 274942,
+      "name": "Franklin's Tower - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3PgIhd4XmwtmV2XGU5qhzZ"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wake of the Flood (2013 Remaster)",
-        "url": "https://open.spotify.com/album/4wIEQMHtdye4aeSc2FYxI0"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 320502,
-      "name": "Eyes of the World - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5pHVAQ5LD3RgDG5m11r2Jt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Workingman's Dead",
         "url": "https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 284909,
       "name": "Uncle John's Band - 2013 Remaster",
       "url": "https://open.spotify.com/track/0kp728Knw5PYvU3QzMZ0yJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wake of the Flood (2013 Remaster)",
+        "url": "https://open.spotify.com/album/4wIEQMHtdye4aeSc2FYxI0"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 320502,
+      "name": "Eyes of the World - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5pHVAQ5LD3RgDG5m11r2Jt"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cornell 5/8/77 (Live)",
-        "url": "https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 348946,
-      "name": "Brown-Eyed Women - Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77",
-      "url": "https://open.spotify.com/track/1BlJdQjT6QYjRlfP0C1rz1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Workingman's Dead",
         "url": "https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku"
       },
@@ -299,38 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Beauty (2013 Remaster)",
-        "url": "https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 249064,
-      "name": "Brokedown Palace - 2013 Remaster",
-      "url": "https://open.spotify.com/track/362CS15hE1upuTKoWApzLn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Europe '72 (Live; 2001 Remaster)",
-        "url": "https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 332960,
-      "name": "China Cat Sunflower - Live in Paris 1972 Version",
-      "url": "https://open.spotify.com/track/3iPYTo54a7gimA0kdp8x13"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cornell 5/8/77 (Live)",
         "url": "https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ"
       },
@@ -340,41 +292,9 @@
           "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 389373,
-      "name": "Jack Straw - Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77",
-      "url": "https://open.spotify.com/track/0TtuYAtUBFlF3ylF57Qwyg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reckoning (Live)",
-        "url": "https://open.spotify.com/album/1T7YIthjEvwsxbUHZ7NdBD"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 274226,
-      "name": "Cassidy - Live",
-      "url": "https://open.spotify.com/track/3Ytea3b7VXXkVTN2mRpjvB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Workingman's Dead",
-        "url": "https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 194491,
-      "name": "Dire Wolf - 2013 Remaster",
-      "url": "https://open.spotify.com/track/6rLfU9QCwLUMRW5gGG7BWA"
+      "duration_ms": 348946,
+      "name": "Brown-Eyed Women - Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77",
+      "url": "https://open.spotify.com/track/1BlJdQjT6QYjRlfP0C1rz1"
     },
     {
       "added_at": null,
@@ -395,6 +315,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "American Beauty (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 249064,
+      "name": "Brokedown Palace - 2013 Remaster",
+      "url": "https://open.spotify.com/track/362CS15hE1upuTKoWApzLn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reckoning (Live)",
+        "url": "https://open.spotify.com/album/1T7YIthjEvwsxbUHZ7NdBD"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 274226,
+      "name": "Cassidy - Live",
+      "url": "https://open.spotify.com/track/3Ytea3b7VXXkVTN2mRpjvB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cornell 5/8/77 (Live)",
         "url": "https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ"
       },
@@ -404,9 +356,41 @@
           "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 370306,
-      "name": "Deal - Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77",
-      "url": "https://open.spotify.com/track/0pPvu1AGxIj7pvESvSg4wi"
+      "duration_ms": 389373,
+      "name": "Jack Straw - Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77",
+      "url": "https://open.spotify.com/track/0TtuYAtUBFlF3ylF57Qwyg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Europe '72 (Live; 2001 Remaster)",
+        "url": "https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 332960,
+      "name": "China Cat Sunflower - Live in Paris 1972 Version",
+      "url": "https://open.spotify.com/track/3iPYTo54a7gimA0kdp8x13"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Workingman's Dead",
+        "url": "https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 194491,
+      "name": "Dire Wolf - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6rLfU9QCwLUMRW5gGG7BWA"
     },
     {
       "added_at": null,
@@ -427,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Terrapin Station (2014 Remaster)",
-        "url": "https://open.spotify.com/album/0WVDqz6ty88sjpbfvMqF98"
+        "name": "Cornell 5/8/77 (Live)",
+        "url": "https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ"
       },
       "artists": [
         {
@@ -436,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 336578,
-      "name": "Estimated Prophet - 2014 Remaster",
-      "url": "https://open.spotify.com/track/3DI8C3OSwuXd8E947MWiSi"
+      "duration_ms": 370306,
+      "name": "Deal - Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77",
+      "url": "https://open.spotify.com/track/0pPvu1AGxIj7pvESvSg4wi"
     },
     {
       "added_at": null,
@@ -455,6 +439,22 @@
       "duration_ms": 361600,
       "name": "Ramble on Rose (Live at the Strand Lyceum, London, England, 5/26/72) - 2001 Remaster",
       "url": "https://open.spotify.com/track/24ei2BLeVEpGWLZ2qfLXJO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Terrapin Station (2014 Remaster)",
+        "url": "https://open.spotify.com/album/0WVDqz6ty88sjpbfvMqF98"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 336578,
+      "name": "Estimated Prophet - 2014 Remaster",
+      "url": "https://open.spotify.com/track/3DI8C3OSwuXd8E947MWiSi"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shakedown Street",
-        "url": "https://open.spotify.com/album/0MLCxvyIfAuh5xwPORv8p6"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 291342,
-      "name": "Good Lovin' - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3ARngx4lU4zYSWTiXm4Yag"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Europe '72 (Live; 2001 Remaster)",
         "url": "https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 197124,
       "name": "Cumberland Blues - 2013 Remaster",
       "url": "https://open.spotify.com/track/2op5szd2IY8bOPzumqmFY3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shakedown Street",
+        "url": "https://open.spotify.com/album/0MLCxvyIfAuh5xwPORv8p6"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 291342,
+      "name": "Good Lovin' - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3ARngx4lU4zYSWTiXm4Yag"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Europe '72 (Live; 2001 Remaster)",
-        "url": "https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 417293,
-      "name": "He's Gone - Live in Amsterdam, 1972; 2001 Remaster",
-      "url": "https://open.spotify.com/track/4SGS3okZJqz3GpEdruo9BK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Workingman's Dead",
         "url": "https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 299089,
       "name": "Easy Wind - 2013 Remaster",
       "url": "https://open.spotify.com/track/4n9pxaY7bTDMnw9biuCkhu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Europe '72 (Live; 2001 Remaster)",
+        "url": "https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 417293,
+      "name": "He's Gone - Live in Amsterdam, 1972; 2001 Remaster",
+      "url": "https://open.spotify.com/track/4SGS3okZJqz3GpEdruo9BK"
     },
     {
       "added_at": null,
@@ -651,38 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Go to Heaven",
-        "url": "https://open.spotify.com/album/6x3mttp1a5pLHj8rDDSEbT"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 216569,
-      "name": "Alabama Getaway - 2013 Remaster",
-      "url": "https://open.spotify.com/track/5WVF1Ftv5oxspRac9km99R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cornell 5/8/77 (Live)",
-        "url": "https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ"
-      },
-      "artists": [
-        {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 449453,
-      "name": "They Love Each Other - Live at Barton Hall, Cornell University, Ithaca, NY, 5/8/77",
-      "url": "https://open.spotify.com/track/4K5etmmA4jQApw5VBznEWK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Europe '72 (Live; 2001 Remaster)",
         "url": "https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9"
       },
@@ -723,6 +691,38 @@
       "duration_ms": 240733,
       "name": "You Win Again - Live in England, 1972; 2001 Remaster",
       "url": "https://open.spotify.com/track/2UdeTflun7YLrJOVRMtlNG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cornell 5/8/77 (Live)",
+        "url": "https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 449453,
+      "name": "They Love Each Other - Live at Barton Hall, Cornell University, Ithaca, NY, 5/8/77",
+      "url": "https://open.spotify.com/track/4K5etmmA4jQApw5VBznEWK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Go to Heaven",
+        "url": "https://open.spotify.com/album/6x3mttp1a5pLHj8rDDSEbT"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 216569,
+      "name": "Alabama Getaway - 2013 Remaster",
+      "url": "https://open.spotify.com/track/5WVF1Ftv5oxspRac9km99R"
     },
     {
       "added_at": null,

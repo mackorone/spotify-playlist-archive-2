@@ -1,12 +1,12 @@
 {
   "description": "for when you're leaning into that bad day feeling",
-  "num_followers": 3925513,
+  "num_followers": 3925332,
   "original_name": "Life Sucks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMgxXImoaCYjhj3Tg8TqI0kE1CgJ",
+  "snapshot_id": "AAAAAPey74qvgnFYJ44ljrMzVR0TEv00",
   "tracks": [
     {
       "added_at": "2026-05-01 14:14:17",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
-        "name": "SWAG II",
-        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 248902,
-      "name": "EVERYTHING HALLELUJAH",
-      "url": "https://open.spotify.com/track/5AwNJ5mr7mHyIhlKnQICEJ"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
         "name": "Saturn",
         "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 186191,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
+        "name": "SWAG II",
+        "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 248902,
+      "name": "EVERYTHING HALLELUJAH",
+      "url": "https://open.spotify.com/track/5AwNJ5mr7mHyIhlKnQICEJ"
     },
     {
       "added_at": "2026-05-01 14:14:17",

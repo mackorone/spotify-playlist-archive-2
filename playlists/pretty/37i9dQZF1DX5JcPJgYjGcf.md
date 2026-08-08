@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JcPJgYjGcf.md) - [plain]
 
 > All the megahits by the South Korean boy band are right here! We are one!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,083,868 likes - 120 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,083,804 likes - 120 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JcPJgYjGcf.md) - [plain]
 | 119 | [Underwater](https://open.spotify.com/track/7tIFeLQFS7A6DLcZ12Mv3U) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:19 |
 | 120 | [You](https://open.spotify.com/track/4r3k2iBOPJZHqnmkOFMJEv) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [You](https://open.spotify.com/album/0WxVZ3hfD1LKSIkbOriLGi) | 5:06 |
 
-Snapshot ID: `AAAAAIL1KwyuT/pfvo4Blim0CADcKIs3`
+Snapshot ID: `AAAAALl8TErjTxZ5q8dE8x5IGOFiStnI`

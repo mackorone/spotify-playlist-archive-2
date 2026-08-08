@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,457 likes - 50 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,468 likes - 50 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7RR1KZZuLBy.md) - [plain]
 | 49 | [Xa Ndiyekelelwa \(Live\)](https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Tshepiso](https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I), [Thando](https://open.spotify.com/artist/3bQm9hhUUYYmq9RHfReyhn) | [Spirit of Praise, Vol\. 5 \(Live\)](https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD) | 6:46 |
 | 50 | [Imisebenzi Yakho](https://open.spotify.com/track/0TUOxZgbRalGJJP9jbknEf) | [INNOVATIVE DJz](https://open.spotify.com/artist/1SHpF8TvU1p95Yqh0iQje6), [Icon Lamaf](https://open.spotify.com/artist/39EBQatJevxUioe4lnkNym), [Wade Yarrow](https://open.spotify.com/artist/0MpdjMIaFstNet9fbWNh6Y) | [Imisebenzi Yakho](https://open.spotify.com/album/4ZyZ3EgwP2c15JSB13tmqf) | 4:36 |
 
-Snapshot ID: `AAAAAOU5ZeVDwR+MVUrbAceFPyKdbJJG`
+Snapshot ID: `AAAAADN0jUEAgKHrvnJt3ozTgzMGYhyQ`

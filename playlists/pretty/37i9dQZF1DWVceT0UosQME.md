@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 
 > instrumental study beats for deep focus and concentration\. lock in, max productivity 📚 🎧 u got this!
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,108 likes - 91 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,098 likes - 91 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 37 | [Their Name Is Jazz](https://open.spotify.com/track/7k489KmPZjNkvEMgSZdY2g) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Their Name Is Jazz](https://open.spotify.com/album/1Z8CkZUbO8MXbOGEP9k7zj) | 2:15 |
 | 38 | [Melt](https://open.spotify.com/track/63q1dd02dA3rd9edigSUoZ) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Melt](https://open.spotify.com/album/3DIVjgLOSD8HeuNaIIEJzS) | 2:06 |
 | 39 | [Lisabon](https://open.spotify.com/track/08PythMQ97nIacc0AdIdnF) | [cmd f](https://open.spotify.com/artist/6Ykg4VJZl1anZljuqAJU25) | [Lisabon](https://open.spotify.com/album/7mMzc1YjMfdgLJ2wzckN86) | 2:29 |
-| 40 | [vinyl](https://open.spotify.com/track/3ZDHugxhMsEaSQ2xhH8dzM) | [faux kitsune](https://open.spotify.com/artist/77wxmMCyAJ6Nvkw8isSUNv) | [vinyl](https://open.spotify.com/album/14LEzEOuAfXpNFhDr9bfGU) | 2:06 |
-| 41 | [clouded](https://open.spotify.com/track/02yaLWrbBD6rjztw6b0cLL) | [ffoorreesstt](https://open.spotify.com/artist/7kR8pcIkkacGIHGiw8kNej) | [clouded](https://open.spotify.com/album/7mIPhNXOSRMWkqCwVPpuuE) | 2:37 |
+| 40 | [clouded](https://open.spotify.com/track/02yaLWrbBD6rjztw6b0cLL) | [ffoorreesstt](https://open.spotify.com/artist/7kR8pcIkkacGIHGiw8kNej) | [clouded](https://open.spotify.com/album/7mIPhNXOSRMWkqCwVPpuuE) | 2:37 |
+| 41 | [vinyl](https://open.spotify.com/track/3ZDHugxhMsEaSQ2xhH8dzM) | [faux kitsune](https://open.spotify.com/artist/77wxmMCyAJ6Nvkw8isSUNv) | [vinyl](https://open.spotify.com/album/14LEzEOuAfXpNFhDr9bfGU) | 2:06 |
 | 42 | [roadtrip](https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk) | [Trixie Muff](https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd) | [roadtrip](https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu) | 2:19 |
 | 43 | [Through the Portal](https://open.spotify.com/track/5wPmobhPmZI7p0jWIBb3eT) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Through the Portal](https://open.spotify.com/album/5EqjjRsjCN4Dwmg68bP05F) | 1:55 |
 | 44 | [projection](https://open.spotify.com/track/5ot2Nv3COru7DqNd8PaFy5) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [projection](https://open.spotify.com/album/64wr6u8ng4pFUfCvtLIbJ8) | 2:38 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 90 | [Brief Stack](https://open.spotify.com/track/2aJ4q1Y7Ks5NMKcLr3DUrZ) | [Vice Bertha](https://open.spotify.com/artist/4fQorNG5OR6L1XCK9r1RJX) | [Brief Stack](https://open.spotify.com/album/4eFJkuboRVGp7xYylyRgNQ) | 2:27 |
 | 91 | [peanut butter shake](https://open.spotify.com/track/6qlRjxUAkxCTVtbEIntkEZ) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [longing for](https://open.spotify.com/album/2P0nMU7WLtITurnReYqaH3) | 2:45 |
 
-Snapshot ID: `AAAAAL8iPYa9LfOdcKxvWXQQ/BjeQUmY`
+Snapshot ID: `AAAAALMZD+ylFo1TPkOBRtJ6zaMC5AE+`

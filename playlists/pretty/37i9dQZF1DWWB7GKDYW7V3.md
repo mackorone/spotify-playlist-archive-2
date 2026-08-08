@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB7GKDYW7V3.md) - [plain]
 
 > De Spotify muziekredactie tipt 40 acts voor LL26! Nieuwe namen bekend: Kelis, Celeste, Willem, ZEP, Lambrini Girls en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,887 likes - 125 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,892 likes - 125 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB7GKDYW7V3.md) - [plain]
 | 77 | [bad idea!](https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [bad idea!](https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl) | 3:39 |
 | 78 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 |
 | 79 | [Lean On](https://open.spotify.com/track/2YWjW3wwQIBLNhxWKBQd16) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Peace Is The Mission : Extended](https://open.spotify.com/album/2U0b5MfkMUgzdvRUI69mya) | 2:56 |
-| 80 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 |
-| 81 | [Cool Kids](https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:57 |
+| 80 | [Cool Kids](https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:57 |
+| 81 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 |
 | 82 | [Bangarang \(feat\. Sirah\)](https://open.spotify.com/track/6VRhkROS2SZHGlp0pxndbJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Sirah](https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38) | [Bangarang EP](https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe) | 3:35 |
 | 83 | [Intergalactic \- Remastered 2009](https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Hello Nasty \(Deluxe Edition/Remastered\)](https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB) | 3:51 |
 | 84 | [I'm Shipping Up To Boston](https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:33 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB7GKDYW7V3.md) - [plain]
 | 124 | [Woman](https://open.spotify.com/track/2pcwmk8c1pTYwX0COSVX52) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/0NV96Rqo10ytbCHlR14E8r) | 2:55 |
 | 125 | [Hoppípolla](https://open.spotify.com/track/6eTGxxQxiTFE6LfZHC33Wm) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Takk...](https://open.spotify.com/album/3sE83l3A58DipFp3EzNLiE) | 4:28 |
 
-Snapshot ID: `AAAAAPHQmJEuK7OwQr0jXTyCrgwgxI9M`
+Snapshot ID: `AAAAAPhzQMt+pZ2Syt4ZdtP9Uujw7EGn`

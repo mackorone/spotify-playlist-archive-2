@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "Virgin of the Sun God",
+        "url": "https://open.spotify.com/album/4tlpWPCaF7hTYWELyMg8wW"
+      },
+      "artists": [
+        {
+          "name": "Yma Sumac",
+          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181080,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/1EkCzVaup6vMoh6SF9d432"
+    },
+    {
+      "album": {
         "name": "Flahooley (original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW"
       },
@@ -272,7 +290,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 179200,
       "name": "Birds Enchantment",
       "url": "https://open.spotify.com/track/2K6LqhtH2Gm0F4KA9UsCet"
@@ -542,7 +560,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-10",
+      "date_removed": null,
       "duration_ms": 147666,
       "name": "Cocoanut Sweet",
       "url": "https://open.spotify.com/track/5t5yhqiKdxYe7gVYd8LciC"
@@ -1097,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "Flahooley (original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW"
+      },
+      "artists": [
+        {
+          "name": "Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast",
+          "url": "https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204813,
+      "name": "Finale",
+      "url": "https://open.spotify.com/track/74UDYaNIv3jAwERJggxVIF"
+    },
+    {
+      "album": {
         "name": "Calamity Jane",
         "url": "https://open.spotify.com/album/1LDcwXCTNBYc9hfv7uVRHX"
       },
@@ -1130,7 +1166,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 83600,
       "name": "Finale",
       "url": "https://open.spotify.com/track/3HqZLtVPKECOi3VB4z8ppn"
@@ -1244,10 +1280,36 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 70880,
       "name": "Flahooley",
       "url": "https://open.spotify.com/track/6EBbGJgMeDJCp5IBgCa3gB"
+    },
+    {
+      "album": {
+        "name": "Flahooley (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH"
+      },
+      "artists": [
+        {
+          "name": "Fay DeWitt",
+          "url": "https://open.spotify.com/artist/40nUAMSHP4c2RUqs6PdALd"
+        },
+        {
+          "name": "Marilyn Ross",
+          "url": "https://open.spotify.com/artist/7EJtsU71pEVGe16CyeRmur"
+        },
+        {
+          "name": "Original Broadway Cast Of 'Flahooley",
+          "url": "https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70880,
+      "name": "Flahooley!",
+      "url": "https://open.spotify.com/track/3DimCy9Nbgqx1tbIu3TEqw"
     },
     {
       "album": {
@@ -1359,6 +1421,24 @@
     },
     {
       "album": {
+        "name": "Souvenir Album (Vol. 5)",
+        "url": "https://open.spotify.com/album/1P8pstbCyVWuK4DNsw7br2"
+      },
+      "artists": [
+        {
+          "name": "Al Jolson",
+          "url": "https://open.spotify.com/artist/197mLk2Z62k4tvGxDL1pOa"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168880,
+      "name": "God's Country",
+      "url": "https://open.spotify.com/track/14VWmzwfHz5xNLXAAU46T9"
+    },
+    {
+      "album": {
         "name": "Remastered Classics, Vol. 234: Al Jolson",
         "url": "https://open.spotify.com/album/6UFQ8p3IkdCn6nj2fhzWJV"
       },
@@ -1370,7 +1450,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 163091,
       "name": "God's Country (Remastered 2022)",
       "url": "https://open.spotify.com/track/4j6CpdQi6vaMe5i4OhCAZq"
@@ -1816,10 +1896,28 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 183240,
       "name": "I Don't Think I'll End It All Today",
       "url": "https://open.spotify.com/track/1RqQQsHAO0Adfkn6xGyZCi"
+    },
+    {
+      "album": {
+        "name": "Stormy Weather (The Audio Pearls Collection)",
+        "url": "https://open.spotify.com/album/0cKZt5KRdA8bTF1eyi2p3b"
+      },
+      "artists": [
+        {
+          "name": "Lena Horne",
+          "url": "https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199266,
+      "name": "I Don't Think I'll End It All Today - Remastered",
+      "url": "https://open.spotify.com/track/5mw3lwzIz6x8N0UNNrl3jG"
     },
     {
       "album": {
@@ -2221,6 +2319,24 @@
     },
     {
       "album": {
+        "name": "Bob Crosby In Disco Order, Vol. 6",
+        "url": "https://open.spotify.com/album/2SYtzqUnGJRz7KavjBcLOC"
+      },
+      "artists": [
+        {
+          "name": "Bob Crosby",
+          "url": "https://open.spotify.com/artist/5lP4FZO4ThhC9glGDwlgrV"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193264,
+      "name": "In The Shade Of The New Apple Tree",
+      "url": "https://open.spotify.com/track/2hdkL1vyx1vKP9dfqRve9i"
+    },
+    {
+      "album": {
         "name": "Harold Sings Arlen (With Friend)",
         "url": "https://open.spotify.com/album/7gKHukqC50on673pzPsxhq"
       },
@@ -2232,7 +2348,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 242666,
       "name": "In the Shade of the New Apple Tree",
       "url": "https://open.spotify.com/track/6KodPm0skQZqVXSi9cSIiD"
@@ -2323,6 +2439,24 @@
     },
     {
       "album": {
+        "name": "Penny Serenade",
+        "url": "https://open.spotify.com/album/18mIvxqtwGyxCJB6uV18SV"
+      },
+      "artists": [
+        {
+          "name": "Al Bowlly",
+          "url": "https://open.spotify.com/artist/6l3iPTof4l2D75Wawq9w7R"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175297,
+      "name": "Isn't It Heavenly",
+      "url": "https://open.spotify.com/track/0upnE6IoCEZXS92mXzmzFx"
+    },
+    {
+      "album": {
         "name": "Pennies from Heaven - Original Soundtrack to the BBC Tv Series",
         "url": "https://open.spotify.com/album/29Y9Ghm6WvN82FYI4VJzOD"
       },
@@ -2356,7 +2490,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 189306,
       "name": "Isn't it Heavenly",
       "url": "https://open.spotify.com/track/5CI3mi8ojGOErfEuwJyo84"
@@ -2381,6 +2515,24 @@
     },
     {
       "album": {
+        "name": "Bloomer Girl",
+        "url": "https://open.spotify.com/album/0zr3DxVdGC4zyLUUQhRj52"
+      },
+      "artists": [
+        {
+          "name": "Celeste Holm",
+          "url": "https://open.spotify.com/artist/3fldBOtHGQCCvu7k5TikWZ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162994,
+      "name": "It Was Good Enough For Grandma",
+      "url": "https://open.spotify.com/track/6YH92DrCt8rOJJp3XCWmrR"
+    },
+    {
+      "album": {
         "name": "Bloomer Girl (Original Broadway Cast)",
         "url": "https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd"
       },
@@ -2392,7 +2544,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 163693,
       "name": "It Was Good Enough for Grandma",
       "url": "https://open.spotify.com/track/46YYzZT4lWVL4zeLZhZnhD"
@@ -2746,10 +2898,28 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 149908,
       "name": "Let's Put Our Heads Together",
       "url": "https://open.spotify.com/track/55eZdjrzbSDCdyGldVjeXW"
+    },
+    {
+      "album": {
+        "name": "The Henry Allen Collection Vol. 4 - 1936-1937",
+        "url": "https://open.spotify.com/album/0ZXMIt3ZQKt1Y5IIE3RXKz"
+      },
+      "artists": [
+        {
+          "name": "Henry \"Red\" Allen",
+          "url": "https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170786,
+      "name": "Let's Put Our Heads Together",
+      "url": "https://open.spotify.com/track/4KNNXGS1lrN7yjYzhU4D0B"
     },
     {
       "album": {
@@ -2857,6 +3027,24 @@
     },
     {
       "album": {
+        "name": "Four Classic Albums Plus (Judy in Love / Judy Garland at the Grove / That's Entertainment / The Garland Touch) (Digitally Remastered)",
+        "url": "https://open.spotify.com/album/47jeO93jDENxI68rTqGwWm"
+      },
+      "artists": [
+        {
+          "name": "Judy Garland",
+          "url": "https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220146,
+      "name": "Little Drops of Rain",
+      "url": "https://open.spotify.com/track/2TMR05j1HI3cH1KqDqCebH"
+    },
+    {
+      "album": {
         "name": "Gay Purr-ee O.S.T.",
         "url": "https://open.spotify.com/album/3t19c4lLYobOu1BMwgUBsz"
       },
@@ -2868,7 +3056,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 209093,
       "name": "Little Drops of Rain - Remastered Version",
       "url": "https://open.spotify.com/track/4jgiuuZQTarUsCzffzOmQ3"
@@ -3052,10 +3240,50 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 172662,
       "name": "Moanin' in the Mornin'",
       "url": "https://open.spotify.com/track/0r0JilaUrO2Iuj4tPHp81K"
+    },
+    {
+      "album": {
+        "name": "Right to Sing",
+        "url": "https://open.spotify.com/album/0SEV4kfGsJ8Z9CfFPJ2zzW"
+      },
+      "artists": [
+        {
+          "name": "Lee Wiley",
+          "url": "https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171800,
+      "name": "Moanin' in the Morning",
+      "url": "https://open.spotify.com/track/6B9Wvcri3tfwcyx3iQlcOw"
+    },
+    {
+      "album": {
+        "name": "Jamaica (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2aNrKWJGmEJyFld2QleeI7"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montalban",
+          "url": "https://open.spotify.com/artist/1I7f2VtT0KjfvYhZCz1vG1"
+        },
+        {
+          "name": "Jamaica Ensemble",
+          "url": "https://open.spotify.com/artist/2PrILzqFQnPyVpy19oWBXm"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "Monkey in the Mango Tree",
+      "url": "https://open.spotify.com/track/7eYaqMvxihmEgBKfCBBVfG"
     },
     {
       "album": {
@@ -3128,7 +3356,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 135293,
       "name": "Monkey in the Mango Tree (From \"Jamaica\")",
       "url": "https://open.spotify.com/track/2e2fDXDJp5VzDKgPCQXLcV"
@@ -3332,10 +3560,46 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 197026,
       "name": "Najala's Lament",
       "url": "https://open.spotify.com/track/55ywQy4eOEqOhyjSzefOZw"
+    },
+    {
+      "album": {
+        "name": "Voice Of The Xtabay",
+        "url": "https://open.spotify.com/album/2Efup29IjK4euR3BIJYeY2"
+      },
+      "artists": [
+        {
+          "name": "Yma Sumac",
+          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199306,
+      "name": "Najala's Lament",
+      "url": "https://open.spotify.com/track/5TEG7WVeRoxWSunkE2ajOS"
+    },
+    {
+      "album": {
+        "name": "The Singles..And Yma on Broadway!",
+        "url": "https://open.spotify.com/album/5EIG9rcXEeo6yjmBEL7npa"
+      },
+      "artists": [
+        {
+          "name": "Yma Sumac",
+          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80973,
+      "name": "Najala's Song for Joy - From the Musical ''flahooley''",
+      "url": "https://open.spotify.com/track/1ECnwDROSJDATa5PwgvQFb"
     },
     {
       "album": {
@@ -3350,7 +3614,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 79000,
       "name": "Najla's Song Of Joy",
       "url": "https://open.spotify.com/track/2BRGwFXYgsxRCfC7rNjqly"
@@ -4051,6 +4315,24 @@
     },
     {
       "album": {
+        "name": "Jamaica Jazz",
+        "url": "https://open.spotify.com/album/265JJ9qapHZKHriyJ6UiVq"
+      },
+      "artists": [
+        {
+          "name": "The Don Elliott Octet",
+          "url": "https://open.spotify.com/artist/1ICiBLRtAySYBDfaroMfr9"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362219,
+      "name": "Push De Button",
+      "url": "https://open.spotify.com/track/5NScIJgZ9PqoCs6E2yDhoP"
+    },
+    {
+      "album": {
         "name": "Priceless Jazz: Gil Evans",
         "url": "https://open.spotify.com/album/2Vrg0gyuBxMq1oGkibbRiO"
       },
@@ -4066,7 +4348,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 350466,
       "name": "Push De Button",
       "url": "https://open.spotify.com/track/5IetPwmlKV0hGhJTwEPGlC"
@@ -4127,6 +4409,24 @@
     },
     {
       "album": {
+        "name": "Four Classic Albums Plus (Judy in Love / Judy Garland at the Grove / That's Entertainment / The Garland Touch) (Digitally Remastered)",
+        "url": "https://open.spotify.com/album/47jeO93jDENxI68rTqGwWm"
+      },
+      "artists": [
+        {
+          "name": "Judy Garland",
+          "url": "https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125893,
+      "name": "Roses Red, Violets Blue",
+      "url": "https://open.spotify.com/track/0LY0pEJr69W2vD5YOvTRBS"
+    },
+    {
+      "album": {
         "name": "Gay Purr-ee O.S.T.",
         "url": "https://open.spotify.com/album/3t19c4lLYobOu1BMwgUBsz"
       },
@@ -4138,7 +4438,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 122066,
       "name": "Roses Red, Violets Blue - Remastered Version",
       "url": "https://open.spotify.com/track/2Vjw8cQQYuNFiiEUP5qush"
@@ -4379,6 +4679,24 @@
     },
     {
       "album": {
+        "name": "Bloomer Girl (Original Broadway Cast)",
+        "url": "https://open.spotify.com/album/2uFpKWySFrLFOLV75zcJbd"
+      },
+      "artists": [
+        {
+          "name": "Celeste Holm",
+          "url": "https://open.spotify.com/artist/3fldBOtHGQCCvu7k5TikWZ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90786,
+      "name": "Satin Gown and Silver Shoe",
+      "url": "https://open.spotify.com/track/4nPGOZMbM2ClIRJJisGElp"
+    },
+    {
+      "album": {
         "name": "Bloomer Girl",
         "url": "https://open.spotify.com/album/0zr3DxVdGC4zyLUUQhRj52"
       },
@@ -4390,7 +4708,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 201843,
       "name": "Satin Gown And Silver Shoe (Lullaby) - Liza Crossing The Ice",
       "url": "https://open.spotify.com/track/6f3dzgAFXE4FNDcMF1YhdN"
@@ -4419,6 +4737,24 @@
     },
     {
       "album": {
+        "name": "Plays Harold Arlen's Music from Jamaica",
+        "url": "https://open.spotify.com/album/05jRnFn99eXi3f33S8Ad9X"
+      },
+      "artists": [
+        {
+          "name": "Phineas Newborn Jr.",
+          "url": "https://open.spotify.com/artist/1WsMRWV5KEC2AxpYkeb2Cf"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248200,
+      "name": "Savanna",
+      "url": "https://open.spotify.com/track/16sdhZpJl4yXUcsOaC7RXl"
+    },
+    {
+      "album": {
         "name": "Jamaica (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/2aNrKWJGmEJyFld2QleeI7"
       },
@@ -4434,7 +4770,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 100666,
       "name": "Savannah",
       "url": "https://open.spotify.com/track/5nCSmCzPEiRxYj2ZbHhnZV"
@@ -4590,10 +4926,28 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 146000,
       "name": "Speaking Of Love",
       "url": "https://open.spotify.com/track/4B7AhGwyHhQUsPvHxsu7zE"
+    },
+    {
+      "album": {
+        "name": "Felicia Sanders At The Blue Angel",
+        "url": "https://open.spotify.com/album/1ECEBXSMBuaaWtIoZxxmoy"
+      },
+      "artists": [
+        {
+          "name": "Felicia Sanders",
+          "url": "https://open.spotify.com/artist/6ZjmF1Gx5FLslaon1yLnDH"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149694,
+      "name": "Speaking Of Love",
+      "url": "https://open.spotify.com/track/5KNeT4Jd6i8HOGjW7yvCsW"
     },
     {
       "album": {
@@ -4626,10 +4980,28 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 177145,
       "name": "Speaking of the Weather",
       "url": "https://open.spotify.com/track/0imL7I7SodvEK2xu05zk1k"
+    },
+    {
+      "album": {
+        "name": "I Know Now",
+        "url": "https://open.spotify.com/album/5dnoRdLN4VEQzlLaWkOKgj"
+      },
+      "artists": [
+        {
+          "name": "Dick Powell",
+          "url": "https://open.spotify.com/artist/5hGZNLPNm2t3W0v28geOIK"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179258,
+      "name": "Speaking of the Weather (Original Mix)",
+      "url": "https://open.spotify.com/track/5SWW4pjMKtXC2tnLReEAEU"
     },
     {
       "album": {
@@ -4669,6 +5041,24 @@
     },
     {
       "album": {
+        "name": "The Enduring Charm Of Adelaide Hall, Original Recordings 1927 \u2013 1944",
+        "url": "https://open.spotify.com/album/1vO1boD6qIHSQjSXvMSmMw"
+      },
+      "artists": [
+        {
+          "name": "Adelaide Hall",
+          "url": "https://open.spotify.com/artist/2KNWLhYlWnBjBJPVqFzqmI"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184506,
+      "name": "Strange As It Seems",
+      "url": "https://open.spotify.com/track/1RjWuQU17DJes5IuWWlgN0"
+    },
+    {
+      "album": {
         "name": "Anthology (1925-1936)",
         "url": "https://open.spotify.com/album/4AW133ZOLu4rAaImOP4cbE"
       },
@@ -4680,7 +5070,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 98012,
       "name": "Strange As It Seems",
       "url": "https://open.spotify.com/track/0LOxAo3BsLuUe0smgNEnYA"
@@ -5130,10 +5520,28 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 195626,
       "name": "The Rakish Young Man with the Whiskahs",
       "url": "https://open.spotify.com/track/1zySHyAUFSbiADrZ8D7EVM"
+    },
+    {
+      "album": {
+        "name": "Bloomer Girl",
+        "url": "https://open.spotify.com/album/0zr3DxVdGC4zyLUUQhRj52"
+      },
+      "artists": [
+        {
+          "name": "Celeste Holm",
+          "url": "https://open.spotify.com/artist/3fldBOtHGQCCvu7k5TikWZ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195078,
+      "name": "The Rakish Young Man With The Wiskahs",
+      "url": "https://open.spotify.com/track/2PNkish7q3n3Tq9sKs8MiF"
     },
     {
       "album": {
@@ -5900,6 +6308,24 @@
       "duration_ms": 265000,
       "name": "Whip-Poor-Will",
       "url": "https://open.spotify.com/track/4LmVQgpgIxcNQCNjHEVCMT"
+    },
+    {
+      "album": {
+        "name": "Isham Jones & His Orchestra",
+        "url": "https://open.spotify.com/album/2WIhmGbZdslUVxtkdhphX1"
+      },
+      "artists": [
+        {
+          "name": "Isham Jones",
+          "url": "https://open.spotify.com/artist/4OWTlYl5kkhaZEsyjUhouC"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184551,
+      "name": "Whipoorwill",
+      "url": "https://open.spotify.com/track/5QXLBAtHeNN41qG0KQwBDj"
     },
     {
       "album": {

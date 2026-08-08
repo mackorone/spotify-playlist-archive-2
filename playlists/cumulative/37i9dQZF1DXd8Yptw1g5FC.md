@@ -4,7 +4,7 @@
 
 > Ayse Hatun Onal, Çodur, Ozan Bayraşa ve haftanın en iyi çıkışları!
 
-9,160 songs - 19 day 12 hr 34 min
+9,161 songs - 19 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7593,6 +7593,7 @@
 | [Thin](https://open.spotify.com/track/1f7RdHnb5T18W5Koh3k6Np) | [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Thin](https://open.spotify.com/album/5op1DWXGDiIk0BYvkbSlNX) | 2:05 | 2026-03-12 | 2026-03-20 |
 | [Thinking About You \(feat\. Arkey\)](https://open.spotify.com/track/1DwY5BtXvfysoSv37frTER) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Arkey](https://open.spotify.com/artist/1fJWJg5SkXjmFhnT4wf5QH) | [Thinking About You \(feat\. Arkey\)](https://open.spotify.com/album/0wucRfhZNVV29wCeusc9gr) | 3:16 | 2025-12-11 | 2025-12-19 |
 | [third eye](https://open.spotify.com/track/0iPdq86Vjk9pEQCUh1fl02) | [Kamufle](https://open.spotify.com/artist/0JnDkp29FlLpGwsnub400t) | [SHERPA](https://open.spotify.com/album/6fRRN3F9qm7sAtrhv3CFNB) | 2:21 | 2026-04-16 | 2026-04-24 |
+| [This & That](https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THIS & THAT](https://open.spotify.com/album/0VDVnZhY399q6sIrdyjZWj) | 3:05 | 2026-08-06 |  |
 | [THIS IS FOR](https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [THIS IS FOR](https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ) | 2:11 | 2025-07-10 | 2025-07-18 |
 | [This is the Killer Speaking](https://open.spotify.com/track/1mduxXxLvhu5OzebDWMYqX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [This is the Killer Speaking](https://open.spotify.com/album/1ztxCUku3RIu2lBs0cJdDn) | 4:54 | 2025-07-17 | 2025-07-25 |
 | [This Is The Silence](https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Forest Is The Path \(Extended Edition\)](https://open.spotify.com/album/6irdOmMm1renAtesHgETEv) | 2:59 | 2025-03-13 | 2025-03-21 |
@@ -8917,7 +8918,6 @@
 | [Çizdim \- Deluxe Edition](https://open.spotify.com/track/3rS5sZM7cHebI8GkVd6QUS) | [Ayaz Kaplı](https://open.spotify.com/artist/2f0EKdKutjbTcz6kPR9z7i), [Kaplan](https://open.spotify.com/artist/5NpMXRQGV9IpcGfuT8n5qt), [Özlem Ceylan](https://open.spotify.com/artist/4QIgi0XEq4nbq2GLt6tsRx) | [Tam Zamanı](https://open.spotify.com/album/4LJyHQ90nuoEPssNPSObYp) | 3:04 | 2026-04-02 | 2026-04-10 |
 | [Çizildi Kader](https://open.spotify.com/track/1zxiZmrIX1k7oxfyAvXlM2) | [Irkil](https://open.spotify.com/artist/1lt4ifd0qPY5QYK1fpjE9f), [Bahtz](https://open.spotify.com/artist/6LsXHlp6hJr4BdNyjyzXMR) | [Çizildi Kader](https://open.spotify.com/album/6pM3SWugyjCzPn3aLuxDNb) | 2:38 | 2026-03-19 | 2026-03-27 |
 | [çiçek](https://open.spotify.com/track/0LMgkUhv7vd1lWRIsPs7IO) | [eski iki](https://open.spotify.com/artist/2Tk0PGJJaxn3NcAMfkp5J0) | [çiçek](https://open.spotify.com/album/0v5lklrLvTnE8J9CNDNAKM) | 2:07 | 2025-10-16 | 2025-10-24 |
-| [Çiçek](https://open.spotify.com/track/2hocdnC2IXLV59XdZMG1Py) | [Tenhv](https://open.spotify.com/artist/0lxWd2XlUhVzMAcPOfZRxl) | [Çiçek](https://open.spotify.com/album/0fJqcaouxmPqtFhSzpo6sr) | 2:19 | 2026-08-06 |  |
 | [Çiçek Açıyor](https://open.spotify.com/track/3HpWj8DChKRuR28pnrHK6p) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [Yarın Yoksa](https://open.spotify.com/album/5l7ypUMco5BLsIYBjIYWay) | 3:34 | 2025-03-13 | 2025-03-21 |
 | [Çiçek Böcek](https://open.spotify.com/track/4FK9uubo7chdmFeczR6xa7) | [Çağrı Sinci](https://open.spotify.com/artist/32d21ZV2sLX2sGdjefVMJg) | [Klasik Part 3 : Çiçek Böcek](https://open.spotify.com/album/6DnYAMzGPGlko2hLIqZ5rs) | 3:19 | 2026-03-26 | 2026-04-03 |
 | [Çiçek Çocuk](https://open.spotify.com/track/4W9JtjkT215aqnpmVbGbmt) | [Ati ve Aşk Üçgeni](https://open.spotify.com/artist/1Sz7X3TTFoLHGbi8wZ62tQ) | [Çiçek Çocuk](https://open.spotify.com/album/6rLFElljaUV6S9DyWAXUar) | 5:12 | 2025-05-22 | 2025-05-30 |
@@ -8926,6 +8926,7 @@
 | [Çiğ Köfte Ayran](https://open.spotify.com/track/7uqIC3yN3UwGRCUwTuDDiV) | [el momy](https://open.spotify.com/artist/0Yj9NDUbbdDDp5LKU58PB2), [kefo](https://open.spotify.com/artist/0Z3JwMejHZc82MMubb3iPE) | [Çiğ Köfte Ayran](https://open.spotify.com/album/7cSfsyUcrhKfP2uMtJtpTE) | 2:09 | 2025-05-08 | 2025-05-16 |
 | [Çiğköfteler \- Live](https://open.spotify.com/track/0Z7tKpkTYhYaMSVSXCmUgs) | [TurkodiRoma](https://open.spotify.com/artist/5ms13kENAqc7SAFQvPQz7L) | [Çiğköfteler \(Live\)](https://open.spotify.com/album/5zTz3zqNOB0q09Zl6BTFji) | 4:20 | 2026-02-05 | 2026-02-13 |
 | [ÇİNÇİN](https://open.spotify.com/track/3QTo0OsUc66c3v5xaksT8X) | [UZ4Y](https://open.spotify.com/artist/6u01CCedMmzWrjTyeup4mf) | [NADAS](https://open.spotify.com/album/52i12GTXptEYaDOYTvL6nO) | 1:54 | 2025-07-17 | 2025-07-25 |
+| [ÇİÇEK](https://open.spotify.com/track/2hocdnC2IXLV59XdZMG1Py) | [Tenhv](https://open.spotify.com/artist/0lxWd2XlUhVzMAcPOfZRxl) | [ÇİÇEK](https://open.spotify.com/album/0fJqcaouxmPqtFhSzpo6sr) | 2:19 | 2026-08-06 |  |
 | [Çocuk](https://open.spotify.com/track/3IKHQ0NqE18OkM283gMR6b) | [Geceyi Kurtar](https://open.spotify.com/artist/1zIb6ucwFl2fiewnPQNE5f) | [Çocuk](https://open.spotify.com/album/0p5Cf4TpLiRgJDhMXqJYgO) | 3:52 | 2025-03-06 | 2025-03-14 |
 | [ÇOK AĞLADIM](https://open.spotify.com/track/3iJA0Z7YyB9DrArNTvoDat) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [ÇOK AĞLADIM](https://open.spotify.com/album/3xDHI3UPennkKzJsmmtODd) | 1:54 | 2025-07-31 | 2025-08-09 |
 | [Çok Denedim](https://open.spotify.com/track/4XlESfrgi1effZ1PB91OBR) | [Vugar](https://open.spotify.com/artist/2wO0b4hd99sGYcy3K4ySku) | [Çok Denedim](https://open.spotify.com/album/1l6OBmlXbJWet8bKacwUTe) | 3:12 | 2025-11-20 | 2025-11-28 |

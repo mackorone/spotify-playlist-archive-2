@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,010 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,009 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,13 +62,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 52 | [You Are There](https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY) | [Kate Kortum](https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D) | [You Are There](https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM) | 5:45 |
 | 53 | [That’s My Desire](https://open.spotify.com/track/76UAKQQF3AylDr39Sm9uY6) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI), [Ray Stevens](https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj) | [Grover's Hat Project](https://open.spotify.com/album/03h6Ue9jM1mPnOpwx5PdE0) | 4:56 |
 | 54 | [It Ain't Over 'Til It's Over](https://open.spotify.com/track/5xtiAessAtry987cTy5maQ) | [Jamie Lancaster](https://open.spotify.com/artist/0iRoi077zFrRThy27nP4GR) | [Joyride](https://open.spotify.com/album/30zNfEzFZzFVSy4NFben4f) | 3:01 |
-| 55 | [How Long Has This Been Going On?](https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [In Blue](https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp) | 5:39 |
-| 56 | [A Kiss to Build a Dream On](https://open.spotify.com/track/4xsJ6KEsIjsHKWJA7D8GAI) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [A Wonderful World](https://open.spotify.com/album/626Y44MkmT99wZsqs5R8vY) | 3:23 |
-| 57 | [Me Dediqué a Perderte](https://open.spotify.com/track/4lmbcXDjftid5Vah3VyLXn) | [Bossa Nostra](https://open.spotify.com/artist/5snbG5YJBnNxJeFNwzzZWv) | [Bossa & Co.](https://open.spotify.com/album/2eJv6fkyn9RIdgsDtpz9Pl) | 4:20 |
-| 58 | [Allways on my mind](https://open.spotify.com/track/1Ppff3gyyUBG91dPwjaWTW) | [Inger Marie Gundersen](https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq) | [Make this moment](https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY) | 5:14 |
+| 55 | [A Kiss to Build a Dream On](https://open.spotify.com/track/4xsJ6KEsIjsHKWJA7D8GAI) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [A Wonderful World](https://open.spotify.com/album/626Y44MkmT99wZsqs5R8vY) | 3:23 |
+| 56 | [How Long Has This Been Going On?](https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [In Blue](https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp) | 5:39 |
+| 57 | [Allways on my mind](https://open.spotify.com/track/1Ppff3gyyUBG91dPwjaWTW) | [Inger Marie Gundersen](https://open.spotify.com/artist/1J2TFd0Li2fs50iJBS5MOq) | [Make this moment](https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY) | 5:14 |
+| 58 | [Me Dediqué a Perderte](https://open.spotify.com/track/4lmbcXDjftid5Vah3VyLXn) | [Bossa Nostra](https://open.spotify.com/artist/5snbG5YJBnNxJeFNwzzZWv) | [Bossa & Co.](https://open.spotify.com/album/2eJv6fkyn9RIdgsDtpz9Pl) | 4:20 |
 | 59 | [Say It](https://open.spotify.com/track/7hEJTSDvpUOlVF4x9C5nIv) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Say It](https://open.spotify.com/album/1UnBZXFNaQEGN8V5ZuZ7t5) | 4:18 |
-| 60 | [Rat In My Kitchen](https://open.spotify.com/track/5L9AhlWonCDOuv5frdT0bn) | [48th St\. Collective](https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn) | [Jazz and Essentials](https://open.spotify.com/album/3xdxSXdYCpmndfRGC1OZTY) | 3:17 |
-| 61 | [I Only Have Eyes For You](https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo) | [Chris Weeks](https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO) | [I Only Have Eyes For You](https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF) | 4:10 |
+| 60 | [I Only Have Eyes For You](https://open.spotify.com/track/7JiRVbyQC6P4tiP4ODmrXo) | [Chris Weeks](https://open.spotify.com/artist/1L1rPFMZ3V9GktNny7JkVO) | [I Only Have Eyes For You](https://open.spotify.com/album/131VG5VwoQVANxBMPQ5fZF) | 4:10 |
+| 61 | [Rat In My Kitchen](https://open.spotify.com/track/5L9AhlWonCDOuv5frdT0bn) | [48th St\. Collective](https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn) | [Jazz and Essentials](https://open.spotify.com/album/3xdxSXdYCpmndfRGC1OZTY) | 3:17 |
 | 62 | [The Very Thought of You](https://open.spotify.com/track/79Ri3SefpPjDQXFMYfGghm) | [Nnenna Freelon](https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS) | [Homefree](https://open.spotify.com/album/3Ausiihxo4ch3UYjYxvUqD) | 6:01 |
 | 63 | [You Only Live Twice](https://open.spotify.com/track/6V5laseFT7BWBwwziWQGfc) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Secrets of My Heart](https://open.spotify.com/album/086KHW1DUXz3QssYk3qXZ5) | 4:39 |
 | 64 | [To Have & to Hold](https://open.spotify.com/track/7HOyzeUeL7QUX0siA5T7FV) | [Heather Rigdon](https://open.spotify.com/artist/28C9ybIZUdN7uTb1NBzmBT) | [Young & Naïve](https://open.spotify.com/album/0cPAHgBYVCD2FcdGMxsPaa) | 3:51 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 72 | [Forbidden Fruit](https://open.spotify.com/track/5Whmxb8uv9XCLz0daWbOVr) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [Kandace Springs](https://open.spotify.com/album/3sgO2YhnSjDNGCkcm3tjrr) | 3:16 |
 | 73 | [I Walk A Little Faster](https://open.spotify.com/track/5MC9fQiDNNfIbh8BiNwVjC) | [Nicki Parrott](https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7) | [Dear Blossom,](https://open.spotify.com/album/5lXAZnMB843uXypgYs3t5c) | 3:53 |
 | 74 | [I Get Along Without You Very Well](https://open.spotify.com/track/36ijrUpp53t9EBJa31Yus4) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 3:32 |
-| 75 | [That’s All](https://open.spotify.com/track/6sSAu9luXXtIWDZ1Saw6d0) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [Hooray For Love](https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c) | 3:46 |
+| 75 | [Pelos Ares](https://open.spotify.com/track/4UkGdKjajEjkZQot1JfMt2) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Cantada](https://open.spotify.com/album/1CoJtIc5kpyvQMj375Rwel) | 3:23 |
 
-Snapshot ID: `AAAAAP5mopfa+W5AwzGRYXJSJByqGcOp`
+Snapshot ID: `AAAAAHtpHbvS+WsLRwzrf0sSZKOJkWQ3`

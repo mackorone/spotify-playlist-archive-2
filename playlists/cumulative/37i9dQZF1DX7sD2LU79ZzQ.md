@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Lafa Pratomo, Feby Putri, Matter Mos
 
-1,689 songs - 4 day 11 hr 0 min
+1,689 songs - 4 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1596,6 +1596,7 @@
 | [Teruskan Langkah Baikmu](https://open.spotify.com/track/6PprGtDcVdrdYopVukwFE9) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Teruskan Langkah Baikmu](https://open.spotify.com/album/6uTlq5Www4B4uiHDPpUPiW) | 2:56 | 2024-02-29 | 2024-03-29 |
 | [Tetap Bukan Kamu \(feat\. Rony Parulian\)](https://open.spotify.com/track/0taGkMseEIkIZ3noyFFfZA) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk), [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [ambiVert](https://open.spotify.com/album/4SVd1APxtjPLbghqMzqmBq) | 4:16 | 2025-06-26 | 2025-12-19 |
 | [TEU](https://open.spotify.com/track/6DgNxu6tT4hJc2XsaIVyUL) | [Naufal Syachreza](https://open.spotify.com/artist/3x1vHC0kthfGxbY5w8AiRE) | [TEU](https://open.spotify.com/album/37n69aC8grfk6seAbPU5zL) | 2:43 | 2025-12-18 | 2026-02-06 |
+| [the best i left behind](https://open.spotify.com/track/3l0Jjl2aSgzsMObFEDhbTN) | [Lukas Will](https://open.spotify.com/artist/2CY8nVYLln1sjeOcpp4hC7) | [the best i left behind](https://open.spotify.com/album/7eMW7C6Brs4HyLfzE8mJrk) | 3:32 | 2026-08-06 |  |
 | [The Bigger Person](https://open.spotify.com/track/4FrxmZDjajhbkLr5n7dBfB) | [Kendis](https://open.spotify.com/artist/5HLrlI5LdULY9s740CsAFZ) | [DISCO](https://open.spotify.com/album/5vvuakA6CVikfUwArrorTd) | 4:09 | 2025-09-26 | 2025-10-17 |
 | [The Girl That I Used To Be](https://open.spotify.com/track/1YuiSjDArp53gCzIOOYTLK) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [The Girl That I Used To Be](https://open.spotify.com/album/4tNsUBJJ9sI3BW24tKS332) | 3:11 | 2024-03-07 | 2024-05-03 |
 | [The Liar](https://open.spotify.com/track/0atEkXRq62mZybi556xuPI) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [The Liar](https://open.spotify.com/album/1wBu6C2xgJI6DaQ4pO4v5q) | 3:10 | 2025-05-29 | 2025-07-18 |
@@ -1620,7 +1621,6 @@
 | [Tolak Ukur](https://open.spotify.com/track/1AAySuGQ1gl02lYQsX0naQ) | [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Tolak Ukur](https://open.spotify.com/album/2itP4ZroM7SAonfToHunso) | 3:35 | 2024-07-18 | 2024-09-06 |
 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 | 2024-05-02 | 2024-08-30 |
 | [Torang Indonesia](https://open.spotify.com/track/1GRTMitA3ONVQVoEbjB5sv) | [Atta Halilintar](https://open.spotify.com/artist/03gm5A8C3DLE8LmTRdNp67), [Aurelie Hermansyah](https://open.spotify.com/artist/1Oaod2BEUHCaRav5EH1dva), [Ashanty](https://open.spotify.com/artist/5MMKUZqCug8M2r4N4cNru1), [Anang Hermansyah](https://open.spotify.com/artist/3wkifG8rc25f0r1dYZLJuy), [BDT Susi](https://open.spotify.com/artist/6wAx0noCWoCmQ4RrmPWU9D), [BDT Hasail](https://open.spotify.com/artist/3p3m76gsxXtPMZef9VSYGL), [Carmen Glovw](https://open.spotify.com/artist/4FDWj5SOT1NiM3UHs55JjJ), [Syafril Harsani](https://open.spotify.com/artist/2bSpv8MiYXWO6moinqX9BJ), [ALAN DARMAWAN](https://open.spotify.com/artist/7Ms3FUXVnCP4YEUMOOPo72) | [Torang Indonesia](https://open.spotify.com/album/1NOaWD1UDY99Gwhaq2LK0o) | 4:16 | 2024-08-15 | 2024-09-27 |
-| [Track 5](https://open.spotify.com/track/3l0Jjl2aSgzsMObFEDhbTN) | [Lukas Will](https://open.spotify.com/artist/2CY8nVYLln1sjeOcpp4hC7) | [the best i left behind](https://open.spotify.com/album/7eMW7C6Brs4HyLfzE8mJrk) | 0:00 | 2026-08-06 |  |
 | [Trouble](https://open.spotify.com/track/4U3n5CavIdChnVZj6uG26e) | [Amanda Caesa](https://open.spotify.com/artist/6Vcmx2wpCJzynUTes1ZGP1) | [Trouble](https://open.spotify.com/album/1PG0y6QaKNceo26VsK4ffT) | 2:12 | 2025-09-25 | 2025-11-07 |
 | [Trust Issue](https://open.spotify.com/track/1bbw0lMgWN3LeIREdadUpi) | [Vadel Nasir](https://open.spotify.com/artist/5aQ9whRm1qPaLSaYGP1vdk) | [Trust Issue](https://open.spotify.com/album/1C8XM0G2Yc6yhhwryYNaUC) | 4:05 | 2024-11-08 | 2024-11-29 |
 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 | 2024-07-25 | 2024-09-06 |

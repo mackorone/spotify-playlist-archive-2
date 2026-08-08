@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 
 > Suomen suurin ja paras rock\-soittolista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,113 likes - 99 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,115 likes - 99 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 | 98 | [Faster](https://open.spotify.com/track/4XBtYPGMAYJkuJu2w4pmYl) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 4:23 |
 | 99 | [Unravelling](https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Unravelling](https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh) | 3:58 |
 
-Snapshot ID: `AAAAALe+F92T4CjddBhqFCFZ5M4g+QJP`
+Snapshot ID: `AAAAAFqFYcFg7X2ZcaqLJUbC1dMMqFhu`

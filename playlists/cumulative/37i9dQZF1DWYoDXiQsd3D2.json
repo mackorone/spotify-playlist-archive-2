@@ -1641,6 +1641,32 @@
     },
     {
       "album": {
+        "name": "Eternity in an Hour: VIII. In an Hour",
+        "url": "https://open.spotify.com/album/3t53lVMYsAnqmvVWbeRF99"
+      },
+      "artists": [
+        {
+          "name": "Eric Whitacre",
+          "url": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+        },
+        {
+          "name": "Eric Whitacre Singers",
+          "url": "https://open.spotify.com/artist/2tPhboxrWrQ4LxOhWlXAeN"
+        },
+        {
+          "name": "Emma Denton",
+          "url": "https://open.spotify.com/artist/0W9hKiOL5yNId9xC24fFWg"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354133,
+      "name": "Eternity in an Hour: VIII. In an Hour",
+      "url": "https://open.spotify.com/track/07kSJb6z1A2O1yObCPGC7U"
+    },
+    {
+      "album": {
         "name": "A Possible Distance",
         "url": "https://open.spotify.com/album/3kvmIp2XtWBMJW6PtNoVJR"
       },
@@ -3672,7 +3698,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 204218,
       "name": "Reliance of Dawn",
       "url": "https://open.spotify.com/track/7B7UvhmhSnqnMN3CEyDLZX"
@@ -4646,7 +4672,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 203500,
       "name": "The Voice of the Earth",
       "url": "https://open.spotify.com/track/15jwOWUrqFxNpzkCh86lU8"

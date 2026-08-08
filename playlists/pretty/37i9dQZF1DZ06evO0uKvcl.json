@@ -1,12 +1,12 @@
 {
   "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 31411,
+  "num_followers": 31413,
   "original_name": "This Is Howlin' Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAAWuswx2uzGUqvWY6bOHSPQ",
+  "snapshot_id": "anPOgAAAAADI7lD5A5ACYiST87jyPfPa",
   "tracks": [
     {
       "added_at": null,
@@ -247,38 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 187533,
-      "name": "Commit A Crime",
-      "url": "https://open.spotify.com/track/2AZ3TMtCVzbrOI6KJHgaCw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Howlin' Wolf",
-        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 149400,
-      "name": "Little Red Rooster",
-      "url": "https://open.spotify.com/track/22o1qy3iZ7CyXUdK6BIf2n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Super Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
@@ -299,6 +267,38 @@
       "duration_ms": 289173,
       "name": "Goin' Down Slow",
       "url": "https://open.spotify.com/track/2DonFSnhEr0WQcuHcHb5ti"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 149400,
+      "name": "Little Red Rooster",
+      "url": "https://open.spotify.com/track/22o1qy3iZ7CyXUdK6BIf2n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 187533,
+      "name": "Commit A Crime",
+      "url": "https://open.spotify.com/track/2AZ3TMtCVzbrOI6KJHgaCw"
     },
     {
       "added_at": null,
@@ -359,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 154973,
+      "name": "Down In The Bottom - Single Version",
+      "url": "https://open.spotify.com/track/69YOG1vMCc64JBwhfg1OUg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Super Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 394173,
       "name": "Ooh, Baby / Wrecking My Love Life - Medley",
       "url": "https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Tail Dragger",
-      "url": "https://open.spotify.com/track/4NOGASaEbMZftUAq3u8mVB"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B"
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 154973,
-      "name": "Down In The Bottom - Single Version",
-      "url": "https://open.spotify.com/track/69YOG1vMCc64JBwhfg1OUg"
+      "duration_ms": 179400,
+      "name": "Tail Dragger",
+      "url": "https://open.spotify.com/track/4NOGASaEbMZftUAq3u8mVB"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Best, Vol.2",
-        "url": "https://open.spotify.com/album/5rL0QUmh9iE6LbR1GEBvvb"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "New Crawlin' King Snake - Single Version",
-      "url": "https://open.spotify.com/track/3rTrYU2iwNv3pnd7u4kfTX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Smokestack Lightning /The Complete Chess Masters 1951-1960",
         "url": "https://open.spotify.com/album/0Oc3QMGeNj9JC7f0rBaP8Q"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 157000,
       "name": "Howlin' Wolf Boogie",
       "url": "https://open.spotify.com/track/4N23sdWGe9hKdcxRto6bQx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Best, Vol.2",
+        "url": "https://open.spotify.com/album/5rL0QUmh9iE6LbR1GEBvvb"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "New Crawlin' King Snake - Single Version",
+      "url": "https://open.spotify.com/track/3rTrYU2iwNv3pnd7u4kfTX"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't Gonna Be Your Dog: Chess Collectibles Vol. 2",
-        "url": "https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 154440,
-      "name": "Midnight Blues - Alternate Take To \"Moaning For My Baby\"",
-      "url": "https://open.spotify.com/track/790M4TsGpZraL5sHqgSISD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Change My Way",
         "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 162093,
       "name": "I Better Go Now - Single Version",
       "url": "https://open.spotify.com/track/2YQclFbhN5AF54JZfZZM80"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't Gonna Be Your Dog: Chess Collectibles Vol. 2",
+        "url": "https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 154440,
+      "name": "Midnight Blues - Alternate Take To \"Moaning For My Baby\"",
+      "url": "https://open.spotify.com/track/790M4TsGpZraL5sHqgSISD"
     },
     {
       "added_at": null,
@@ -787,30 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Super Super Blues Band",
-        "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        },
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        },
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 311506,
-      "name": "Diddley Daddy",
-      "url": "https://open.spotify.com/track/1rgDmiw0dWFmMq7oIM2GL3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Change My Way",
         "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
       },
@@ -843,6 +819,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Super Super Blues Band",
+        "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        },
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 311506,
+      "name": "Diddley Daddy",
+      "url": "https://open.spotify.com/track/1rgDmiw0dWFmMq7oIM2GL3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live in Europe 1964 (2025 Remaster)",
         "url": "https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05"
       },
@@ -855,6 +855,22 @@
       "duration_ms": 249440,
       "name": "All My Life - Live in Europe 1964 - 2025 Remaster",
       "url": "https://open.spotify.com/track/1Cir0qnb0sdjzTtzisaGa3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Change My Way",
+        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 175733,
+      "name": "Just Like I Treat You - Single Version",
+      "url": "https://open.spotify.com/track/4rFIhtPEMIL63bc8mNWUrO"
     },
     {
       "added_at": null,
@@ -875,22 +891,6 @@
       "duration_ms": 227240,
       "name": "Cryin' at Daybreak",
       "url": "https://open.spotify.com/track/5qCis4a4VWrU4YbZ8gRQMW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Change My Way",
-        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 175733,
-      "name": "Just Like I Treat You - Single Version",
-      "url": "https://open.spotify.com/track/4rFIhtPEMIL63bc8mNWUrO"
     },
     {
       "added_at": null,

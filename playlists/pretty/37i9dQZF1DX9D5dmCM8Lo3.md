@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 
 > would you like to save before closing?
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,182 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,257 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 24 | [espial](https://open.spotify.com/track/1c9gFTn6ymqs3kF2KUnvdV) | [Oliver Buckland](https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b) | [espial](https://open.spotify.com/album/1xnJeMdd96RDhYRprSYrkx) | 4:11 |
 | 25 | [morrigan](https://open.spotify.com/track/2zWzQh571g7vTJh2ODmdh1) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [morrigan](https://open.spotify.com/album/2Xd2awJcKvh1HKpIKJqVm3) | 2:22 |
 | 26 | [Chiltonwalk.Temp](https://open.spotify.com/track/3TT7noqVKf7mwYs9nuQ3Ei) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [.Temp](https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3) | 1:56 |
-| 27 | [lain](https://open.spotify.com/track/0miB2Y7zYt8DMx8biwooN2) | [C4FF31N3](https://open.spotify.com/artist/2nfx8RFGKqdv3gFCYrODVy) | [lain](https://open.spotify.com/album/46hmpGRHhtVWAlc5HmvfCC) | 3:46 |
-| 28 | [Pink Origins](https://open.spotify.com/track/1q61syO9gqIiHhO2rsnLq7) | [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Pink Origins](https://open.spotify.com/album/5h2SFt5UpNmeAx8ZV0cX7H) | 2:17 |
+| 27 | [Pink Origins](https://open.spotify.com/track/1q61syO9gqIiHhO2rsnLq7) | [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Pink Origins](https://open.spotify.com/album/5h2SFt5UpNmeAx8ZV0cX7H) | 2:17 |
+| 28 | [lain](https://open.spotify.com/track/0miB2Y7zYt8DMx8biwooN2) | [C4FF31N3](https://open.spotify.com/artist/2nfx8RFGKqdv3gFCYrODVy) | [lain](https://open.spotify.com/album/46hmpGRHhtVWAlc5HmvfCC) | 3:46 |
 | 29 | [missing home](https://open.spotify.com/track/1JfnrTZYpne8zr3C9alx5q) | [nineishuman](https://open.spotify.com/artist/4hjeFoILTSzoAt6p1VJJsm) | [missing home](https://open.spotify.com/album/6L2RIyM2TCXiBEGcRVhz8N) | 2:04 |
 | 30 | [Triple Helix](https://open.spotify.com/track/2tqObZaOXyL8KKSME0nmxT) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Levitate](https://open.spotify.com/album/099BTOPRjbK5l6bCNfx4bM) | 3:35 |
 | 31 | [An Obsession With Kit](https://open.spotify.com/track/0xTEyuQcdlcctj53Ca3Bkm) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [An Obsession With Kit](https://open.spotify.com/album/5lrb7fAIftGbxGzBYADVf4) | 3:07 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 41 | [Googoo Lagoon](https://open.spotify.com/track/2WDhakxpi1P3Kzp6JT30ll) | [DR\. GABBA](https://open.spotify.com/artist/0PBXAVipMP5B7A554hJX0R) | [Googoo Lagoon](https://open.spotify.com/album/26lzqyZj9NtAe1JG1lejca) | 3:44 |
 | 42 | [PPPP PaPiPuPePo](https://open.spotify.com/track/3zyySoaik0chWbfEQAHyZD) | [emamouse](https://open.spotify.com/artist/4dJoDugNSycsvrfS5TAsx7) | [PPPP PaPiPuPePo](https://open.spotify.com/album/5GfPmmrh30B8UxVeauXCr6) | 3:28 |
 | 43 | [Loving Is Easy](https://open.spotify.com/track/7KTbdZRAZ3q3wYGz5mD4tR) | [death's dynamic shroud](https://open.spotify.com/artist/1F31FB7Y6ic4844PbqMf7c) | [I'll Try Living Like This](https://open.spotify.com/album/1BVQ0iqg1mFg3Q48OLlwOT) | 5:43 |
-| 44 | [Nightmare Fuel](https://open.spotify.com/track/1MzlJISHbDjR5Yp4PZHjBR) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [View\-Monster](https://open.spotify.com/album/2iKe0QhSWxNuyiUlzmJpTs) | 1:48 |
-| 45 | [Everything I Own](https://open.spotify.com/track/53FufLl4OfGMzdJv73Hpgg) | [Drive45](https://open.spotify.com/artist/1aP8KYuP9P8hmIRJqi5NfB) | [Everything I Own](https://open.spotify.com/album/4Fh7c02zxgLTSw7FKidgeA) | 3:21 |
+| 44 | [Everything I Own](https://open.spotify.com/track/53FufLl4OfGMzdJv73Hpgg) | [Drive45](https://open.spotify.com/artist/1aP8KYuP9P8hmIRJqi5NfB) | [Everything I Own](https://open.spotify.com/album/4Fh7c02zxgLTSw7FKidgeA) | 3:21 |
+| 45 | [Nightmare Fuel](https://open.spotify.com/track/1MzlJISHbDjR5Yp4PZHjBR) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [View\-Monster](https://open.spotify.com/album/2iKe0QhSWxNuyiUlzmJpTs) | 1:48 |
 | 46 | [Ascending Red](https://open.spotify.com/track/2VEs61ZoJ6xfkk7LUHQ2XY) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i), [Gavriel](https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ) | [Empty Hiding World](https://open.spotify.com/album/7B9eJo7vRYl1ztGxTOeK4R) | 3:05 |
 | 47 | [dreamcore](https://open.spotify.com/track/6dGzyNtHjwhhHgLlRn4igt) | [Yandere](https://open.spotify.com/artist/6Lr7JHaaQ4wLOWtNmOIOcr) | [dreamcore](https://open.spotify.com/album/6MVQrtpuPCEVRTVZ2KMRSE) | 1:40 |
 | 48 | [!!!!](https://open.spotify.com/track/5fZ40SBA9ylaf7lSpbjrug) | [Xxtarlit⚸](https://open.spotify.com/artist/0hY2DRaqiYfYIzB0M8tItc) | [!!!!](https://open.spotify.com/album/7B2VhmnMb6ks1ZqcqqzHGf) | 5:52 |
 | 49 | [░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓](https://open.spotify.com/track/2KjezXmSbeXFNBkulpTPTa) | [△▃△▓](https://open.spotify.com/artist/1RtQ5z4H1VISmdg0odatF8) | [░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓](https://open.spotify.com/album/7BRNzMepDKUV2Crung0tYp) | 3:05 |
 | 50 | [I'm full of spite mane I'm too fucking petty](https://open.spotify.com/track/7u6hkmIzrxaffZULmJQmF2) | [staysie atoms](https://open.spotify.com/artist/6q6WHn4XUvFiS5sx3dFHHd), [BISKHIT](https://open.spotify.com/artist/2pDFiiTBeRA0unegywq4HX) | [TOXIC SHAWTY ANTHEM](https://open.spotify.com/album/41VxLMH698S4R6pCMTG9Xx) | 3:27 |
 
-Snapshot ID: `AAAAAJbf5qLkxl1XjyIPZeqtQ2jB2Vbe`
+Snapshot ID: `AAAAAHSo84i+yPIq9blIVpZXox97vqyp`

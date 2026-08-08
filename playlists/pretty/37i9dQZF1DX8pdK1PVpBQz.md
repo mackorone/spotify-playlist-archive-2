@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Charisma Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,178 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,175 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [cute girls online](https://open.spotify.com/track/1aStOPLlxnzXx2Z8kjkTJI) | [eli wan](https://open.spotify.com/artist/0qhHbyKPbVyS51pjxelspT) | [cute girls online](https://open.spotify.com/album/7BTGogfM7cN5cEzVq1uq5q) | 2:53 |
 | 100 | [Westgarth](https://open.spotify.com/track/4GvNyCdF60aiz0js9CKozI) | [Margo Mann](https://open.spotify.com/artist/4WGpMtr9ad50DyrAJxckcA) | [Westgarth / Grace](https://open.spotify.com/album/54haRjf5Zvdx7VWbOfzPHq) | 3:47 |
 
-Snapshot ID: `AAAAAAOUeCM1OLNBCEG705eS8/u0QWuB`
+Snapshot ID: `AAAAANoTpyrfxYmxqnX45jcti+JoKZxB`

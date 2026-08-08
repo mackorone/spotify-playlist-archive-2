@@ -4,7 +4,7 @@
 
 > A complete collection of Chopin's Nocturnes.
 
-34 songs - 2 hr 57 min
+35 songs - 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Nocturne No\. 5 in F\-Sharp Major, Op\. 15, No\. 2](https://open.spotify.com/track/1Xpk5AoYnSfUWYrQHzLezk) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Become an Instant Expert: Chopin](https://open.spotify.com/album/6bEOIlQ9qaGFXzUPiLLVKT) | 3:49 | 2022-08-19 | 2022-11-13 |
 | [Nocturne No\. 6 in G Minor, Op\. 15 No\. 3](https://open.spotify.com/track/7Fs8VvfKUBq9QULOmXDvJ3) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Maria João Pires](https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs) | [Chopin: The Nocturnes](https://open.spotify.com/album/5sJtW03dyXYGzd7WRqT4Zk) | 4:26 | 2020-11-02 |  |
 | [Nocturne No\. 7 in C\-Sharp Minor, Op\. 27 No\. 1](https://open.spotify.com/track/6TkDRZTjNLZZcrSQyjUSZZ) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Vladimir Ashkenazy](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) | [Chopin: Nocturnes; Four Ballades](https://open.spotify.com/album/0lrM7kR5o7iqkajLKIlzRg) | 5:26 | 2020-11-02 |  |
+| [Nocturne No\. 8 in D\-Flat Major, Op\. 27 No\. 2](https://open.spotify.com/track/4tr7NeQYGvvGGyxjhh5QyX) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Bruce Liu](https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9) | [Lunaris](https://open.spotify.com/album/1SxpR5PUJS2tjgjbKq3drA) | 6:24 | 2026-08-07 |  |
 | [Nocturne No\. 9 in B, Op\. 32 No\. 1](https://open.spotify.com/track/1SItHiHPqABSEgLckb1WHd) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Kun\-Woo Paik](https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX) | [Chopin The Complete Nocturnes](https://open.spotify.com/album/7LKfwOdLM3y0lk4LSARD5t) | 5:09 | 2020-11-02 |  |
 | [Nocturnes, Op\. 15: No\. 2, Larghetto in F\-Sharp Major](https://open.spotify.com/track/3oriraGUD3nlYIJfqINnE4) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Nocturnes, Vol\. 1](https://open.spotify.com/album/5GogZxTGjrQ72jGSpXLLt9) | 3:49 | 2020-11-02 |  |
 | [Nocturnes, Op\. 27: No\. 2 in D Flat Major\. Lento sostenuto](https://open.spotify.com/track/5gOiyasbWfppG7fkNI6Byl) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Jan Lisiecki](https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy) | [Chopin: Complete Nocturnes](https://open.spotify.com/album/1mvFSxhBUzeOlOFU6SlhAw) | 7:13 | 2025-01-10 |  |

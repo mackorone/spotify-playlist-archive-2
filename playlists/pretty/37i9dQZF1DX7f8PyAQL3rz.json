@@ -1,12 +1,12 @@
 {
   "description": "amor \u00e9 bom mas ningu\u00e9m quer",
-  "num_followers": 1437280,
+  "num_followers": 1437181,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIGZWh+nGnJgZWjBfKNZVk7ZHDdu",
+  "snapshot_id": "AAAAAMPEZNBTVlV3I6uaipfa6Ly5cM1w",
   "tracks": [
     {
       "added_at": "2026-08-07 03:01:17",
@@ -171,26 +171,6 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
-        "name": "Rap da Lealdade",
-        "url": "https://open.spotify.com/album/1bOPoayIll75eZMxLV6lmp"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Prod.MTS",
-          "url": "https://open.spotify.com/artist/2Rw9NDTCadNKWenlBo4FJN"
-        }
-      ],
-      "duration_ms": 181417,
-      "name": "Rap da Lealdade",
-      "url": "https://open.spotify.com/track/4S9FqbHyKVul04EpbA2Jin"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
         "name": "Obra de Arte",
         "url": "https://open.spotify.com/album/5d5KT32kvHBXdOFJyqO7jQ"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 162015,
       "name": "Obra de Arte",
       "url": "https://open.spotify.com/track/7wKpKUJX0djYz9JZSybbvG"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
+        "name": "Rap da Lealdade",
+        "url": "https://open.spotify.com/album/1bOPoayIll75eZMxLV6lmp"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Prod.MTS",
+          "url": "https://open.spotify.com/artist/2Rw9NDTCadNKWenlBo4FJN"
+        }
+      ],
+      "duration_ms": 181417,
+      "name": "Rap da Lealdade",
+      "url": "https://open.spotify.com/track/4S9FqbHyKVul04EpbA2Jin"
     },
     {
       "added_at": "2026-08-07 03:01:17",
@@ -527,30 +527,6 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
-        "name": "F\u00f3rmula Perfeita",
-        "url": "https://open.spotify.com/album/6rr6YbZiL0L5i7C1TfkUgR"
-      },
-      "artists": [
-        {
-          "name": "Tapsounds",
-          "url": "https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO"
-        },
-        {
-          "name": "Sotam",
-          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
-        },
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        }
-      ],
-      "duration_ms": 215433,
-      "name": "F\u00f3rmula Perfeita",
-      "url": "https://open.spotify.com/track/0bdIp6sr80CK63171GHoeD"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
         "name": "Engaiolada (feat. Deekapz, Mc Morena & Yuri Redicopa)",
         "url": "https://open.spotify.com/album/4Ip6Qu6FKpjN5ExbgXumTN"
       },
@@ -575,6 +551,30 @@
       "duration_ms": 199351,
       "name": "Engaiolada (feat. Deekapz, Mc Morena & Yuri Redicopa)",
       "url": "https://open.spotify.com/track/0ydo9m41U6o1OpxEpRev0Y"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
+        "name": "F\u00f3rmula Perfeita",
+        "url": "https://open.spotify.com/album/6rr6YbZiL0L5i7C1TfkUgR"
+      },
+      "artists": [
+        {
+          "name": "Tapsounds",
+          "url": "https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO"
+        },
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        }
+      ],
+      "duration_ms": 215433,
+      "name": "F\u00f3rmula Perfeita",
+      "url": "https://open.spotify.com/track/0bdIp6sr80CK63171GHoeD"
     },
     {
       "added_at": "2026-08-07 03:01:17",
@@ -1211,30 +1211,6 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
-        "name": "Um Pouco Pensativo",
-        "url": "https://open.spotify.com/album/0VNFEm0ffYgY1w6jH0ldBQ"
-      },
-      "artists": [
-        {
-          "name": "Massaru",
-          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
-        },
-        {
-          "name": "tarisiix",
-          "url": "https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si"
-        },
-        {
-          "name": "Senna",
-          "url": "https://open.spotify.com/artist/0gq491BfYBBKfHDfjBQoDy"
-        }
-      ],
-      "duration_ms": 139033,
-      "name": "Um Pouco Pensativo",
-      "url": "https://open.spotify.com/track/23TjYw4HIOqBbSsdtsNE9J"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
         "name": "Dentro da Sua",
         "url": "https://open.spotify.com/album/6A7c82aLDbJiJVRbObW6wp"
       },
@@ -1263,6 +1239,30 @@
       "duration_ms": 136320,
       "name": "Dentro da Sua",
       "url": "https://open.spotify.com/track/5XnBTv0a5JjTG57mhZDVpz"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
+        "name": "Um Pouco Pensativo",
+        "url": "https://open.spotify.com/album/0VNFEm0ffYgY1w6jH0ldBQ"
+      },
+      "artists": [
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        },
+        {
+          "name": "tarisiix",
+          "url": "https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si"
+        },
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/0gq491BfYBBKfHDfjBQoDy"
+        }
+      ],
+      "duration_ms": 139033,
+      "name": "Um Pouco Pensativo",
+      "url": "https://open.spotify.com/track/23TjYw4HIOqBbSsdtsNE9J"
     },
     {
       "added_at": "2026-08-07 03:01:17",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
+        "name": "C\u00ea Nem Vai",
+        "url": "https://open.spotify.com/album/40RzgIh7TOIvdsVNJpki0v"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Delta7",
+          "url": "https://open.spotify.com/artist/4kZTC2MdZt3AgKWBvS17C3"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "C\u00ea Nem Vai Freestyle",
+      "url": "https://open.spotify.com/track/2IaCvikWA1HlIsBHbWxHjW"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
         "name": "Vida de Chefe",
         "url": "https://open.spotify.com/album/5Ae8CNqLVI1zHI5B8ZkKpw"
       },
@@ -1515,6 +1535,34 @@
       "duration_ms": 208000,
       "name": "Vida de Chefe",
       "url": "https://open.spotify.com/track/3Dam5n8I0yCplTnCu9VmQP"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
+        "name": "Fiquei Bonito...",
+        "url": "https://open.spotify.com/album/3E5mXFZLXppSoqT6zKWl6k"
+      },
+      "artists": [
+        {
+          "name": "LUKA",
+          "url": "https://open.spotify.com/artist/1qYaM9h5VHYbHxIlr4UIa0"
+        },
+        {
+          "name": "Mago de Tarso",
+          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
+        },
+        {
+          "name": "Penedo",
+          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
+        },
+        {
+          "name": "DJ Dael",
+          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
+        }
+      ],
+      "duration_ms": 134829,
+      "name": "Fiquei Bonito...",
+      "url": "https://open.spotify.com/track/3xmAIiw9f84lX8c1Qy2dRI"
     },
     {
       "added_at": "2026-08-07 03:01:17",
@@ -1567,54 +1615,6 @@
       "duration_ms": 214942,
       "name": "SEM PALA",
       "url": "https://open.spotify.com/track/4Lm84NyoIXijOHdNoTU5Ma"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
-        "name": "Fiquei Bonito...",
-        "url": "https://open.spotify.com/album/3E5mXFZLXppSoqT6zKWl6k"
-      },
-      "artists": [
-        {
-          "name": "LUKA",
-          "url": "https://open.spotify.com/artist/1qYaM9h5VHYbHxIlr4UIa0"
-        },
-        {
-          "name": "Mago de Tarso",
-          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
-        },
-        {
-          "name": "Penedo",
-          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
-        },
-        {
-          "name": "DJ Dael",
-          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
-        }
-      ],
-      "duration_ms": 178755,
-      "name": "Fiquei Bonito...",
-      "url": "https://open.spotify.com/track/3xmAIiw9f84lX8c1Qy2dRI"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
-        "name": "C\u00ea Nem Vai",
-        "url": "https://open.spotify.com/album/40RzgIh7TOIvdsVNJpki0v"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "Delta7",
-          "url": "https://open.spotify.com/artist/4kZTC2MdZt3AgKWBvS17C3"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "C\u00ea Nem Vai Freestyle",
-      "url": "https://open.spotify.com/track/2IaCvikWA1HlIsBHbWxHjW"
     },
     {
       "added_at": "2026-08-07 03:01:17",

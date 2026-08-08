@@ -1,12 +1,12 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Sof\u00eda Cristo.",
-  "num_followers": 22627,
+  "num_followers": 22628,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALY5r8MV+hCrT0gBZEvf6GwVr7f5",
+  "snapshot_id": "AAAAAG5V75ZAHEBzCS7KJK4jQAfTG2sK",
   "tracks": [
     {
       "added_at": "2026-07-13 22:00:02",
@@ -419,26 +419,18 @@
     {
       "added_at": "2026-07-13 22:00:02",
       "album": {
-        "name": "V.I.P",
-        "url": "https://open.spotify.com/album/2fzZquvDlzC9VlEbtYNST6"
+        "name": "La Insolaci\u00f3n",
+        "url": "https://open.spotify.com/album/2MXZYf9orI7MEZhgSs0j5j"
       },
       "artists": [
         {
-          "name": "Lapili",
-          "url": "https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN"
-        },
-        {
-          "name": "Jowell",
-          "url": "https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP"
-        },
-        {
-          "name": "Los del Control",
-          "url": "https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2"
+          "name": "Martin",
+          "url": "https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC"
         }
       ],
-      "duration_ms": 137872,
-      "name": "V.I.P",
-      "url": "https://open.spotify.com/track/0OYSvxPEI3Qfp0Xq8OJsF7"
+      "duration_ms": 187634,
+      "name": "D\u00e9jalo Ir",
+      "url": "https://open.spotify.com/track/3dwNV44galFE5WawZyK9Z7"
     },
     {
       "added_at": "2026-07-13 22:00:02",
@@ -539,18 +531,26 @@
     {
       "added_at": "2026-07-13 22:00:02",
       "album": {
-        "name": "La Insolaci\u00f3n",
-        "url": "https://open.spotify.com/album/2MXZYf9orI7MEZhgSs0j5j"
+        "name": "V.I.P",
+        "url": "https://open.spotify.com/album/2fzZquvDlzC9VlEbtYNST6"
       },
       "artists": [
         {
-          "name": "Martin",
-          "url": "https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC"
+          "name": "Lapili",
+          "url": "https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN"
+        },
+        {
+          "name": "Jowell",
+          "url": "https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP"
+        },
+        {
+          "name": "Los del Control",
+          "url": "https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2"
         }
       ],
-      "duration_ms": 187634,
-      "name": "D\u00e9jalo Ir",
-      "url": "https://open.spotify.com/track/3dwNV44galFE5WawZyK9Z7"
+      "duration_ms": 137872,
+      "name": "V.I.P",
+      "url": "https://open.spotify.com/track/0OYSvxPEI3Qfp0Xq8OJsF7"
     },
     {
       "added_at": "2026-07-13 22:00:02",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-07-13 22:00:02",
       "album": {
+        "name": "Hoy ya no",
+        "url": "https://open.spotify.com/album/0nP5xUA3mhn8T56eB6ZpfA"
+      },
+      "artists": [
+        {
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+        }
+      ],
+      "duration_ms": 160064,
+      "name": "Hoy ya no",
+      "url": "https://open.spotify.com/track/0rtC4k3M8DkZdiNeoO37bz"
+    },
+    {
+      "added_at": "2026-07-13 22:00:02",
+      "album": {
         "name": "Omaigach",
         "url": "https://open.spotify.com/album/453JEsE7EoOcvyBo4Qia7W"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 212411,
       "name": "TKM CNT XFA",
       "url": "https://open.spotify.com/track/3kHxYzvottpn4pmV5GBADA"
-    },
-    {
-      "added_at": "2026-07-13 22:00:02",
-      "album": {
-        "name": "Hoy ya no",
-        "url": "https://open.spotify.com/album/0nP5xUA3mhn8T56eB6ZpfA"
-      },
-      "artists": [
-        {
-          "name": "Yoly Saa",
-          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
-        }
-      ],
-      "duration_ms": 160064,
-      "name": "Hoy ya no",
-      "url": "https://open.spotify.com/track/0rtC4k3M8DkZdiNeoO37bz"
     },
     {
       "added_at": "2026-07-13 22:00:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: girlsweetvoiced
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,957 likes - 120 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,987 likes - 120 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 119 | [lemonlime](https://open.spotify.com/track/68utYAhxFqE4xK7cmObExo) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [lemonlime](https://open.spotify.com/album/4Wx1qHpwOLTt96L8I0Kt3u) | 3:25 |
 | 120 | [Echo From The Flames](https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Full Circle](https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U) | 4:11 |
 
-Snapshot ID: `AAAAAMKu0XkqEALr98T1iSTywVz6LYab`
+Snapshot ID: `AAAAAPtKHZ2QitjUqE87dW1KCr18+uTq`

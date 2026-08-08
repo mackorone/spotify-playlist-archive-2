@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 269187,
+  "num_followers": 269183,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAACmcOz9bk0emyXPsq/GuhGm",
+  "snapshot_id": "anPOgAAAAAA44tX7sLHMlSSzVduFQONQ",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Presen\u00e7a (Deluxe) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/1lapMenp91z3CCdPBr7S23"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 323308,
-      "name": "Meu Respirar / Meu Prazer - Ao Vivo",
-      "url": "https://open.spotify.com/track/3ceLGhHuFsoumAtxS4CVfq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poderoso Deus (Medley)",
         "url": "https://open.spotify.com/album/6inDdpqWMqmciGgui8JUnl"
       },
@@ -551,6 +535,26 @@
       "duration_ms": 455597,
       "name": "Poderoso Deus (Medley)",
       "url": "https://open.spotify.com/track/3ruNAACfSrIgiZddm3zlmt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si\u00e3o / Derrama (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5L110gAsaoP4ONmUYngUm9"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 508733,
+      "name": "Si\u00e3o / Derrama - Ao Vivo",
+      "url": "https://open.spotify.com/track/3wCoKihdYveDT1a1KJ5Xuc"
     },
     {
       "added_at": null,
@@ -587,22 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si\u00e3o / Derrama (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5L110gAsaoP4ONmUYngUm9"
+        "name": "A Presen\u00e7a (Deluxe) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/1lapMenp91z3CCdPBr7S23"
       },
       "artists": [
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        },
         {
           "name": "Gabriela Rocha",
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 508733,
-      "name": "Si\u00e3o / Derrama - Ao Vivo",
-      "url": "https://open.spotify.com/track/3wCoKihdYveDT1a1KJ5Xuc"
+      "duration_ms": 323308,
+      "name": "Meu Respirar / Meu Prazer - Ao Vivo",
+      "url": "https://open.spotify.com/track/3ceLGhHuFsoumAtxS4CVfq"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Igreja (Ao Vivo)",
-        "url": "https://open.spotify.com/album/12QoaLjXRGCh7zqLKkF67P"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 286452,
-      "name": "Agnus Dei - Ao Vivo",
-      "url": "https://open.spotify.com/track/4GUUcLp5OviLoV4Zpgf3Km"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pra Onde Iremos?",
         "url": "https://open.spotify.com/album/1ifW4VsChr6AgOvpmd8ZFo"
       },
@@ -711,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9s o Amor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER"
+        "name": "A Igreja (Ao Vivo)",
+        "url": "https://open.spotify.com/album/12QoaLjXRGCh7zqLKkF67P"
       },
       "artists": [
         {
@@ -720,9 +704,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 403538,
-      "name": "\u00c9s o Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE"
+      "duration_ms": 286452,
+      "name": "Agnus Dei - Ao Vivo",
+      "url": "https://open.spotify.com/track/4GUUcLp5OviLoV4Zpgf3Km"
     },
     {
       "added_at": null,
@@ -747,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ecoar 3",
-        "url": "https://open.spotify.com/album/5fjXzkdSY0mjnNIvS1uMmY"
+        "name": "\u00c9s o Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER"
       },
       "artists": [
         {
@@ -756,9 +740,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 270690,
-      "name": "Rompendo Em F\u00e9",
-      "url": "https://open.spotify.com/track/7x7E2Zr7dLMY3rPjgYBDlH"
+      "duration_ms": 403538,
+      "name": "\u00c9s o Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ecoar 3",
+        "url": "https://open.spotify.com/album/5fjXzkdSY0mjnNIvS1uMmY"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 270690,
+      "name": "Rompendo Em F\u00e9",
+      "url": "https://open.spotify.com/track/7x7E2Zr7dLMY3rPjgYBDlH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vou Seguir",
         "url": "https://open.spotify.com/album/7MKPG8Puatu6YPUCYwUKBy"
       },
@@ -807,22 +807,6 @@
       "duration_ms": 288022,
       "name": "Vou Seguir",
       "url": "https://open.spotify.com/track/7HQ4iOLhrrTAna6RuciH5E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ecoar 3",
-        "url": "https://open.spotify.com/album/5fjXzkdSY0mjnNIvS1uMmY"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 302624,
-      "name": "Cora\u00e7\u00e3o Igual Ao Teu",
-      "url": "https://open.spotify.com/track/2k7F2ih9W1yIyA03hzMp9F"
     },
     {
       "added_at": null,
@@ -863,6 +847,22 @@
       "duration_ms": 264374,
       "name": "Tu \u00c9s Real (feat. Fernandinho & Gabriela Rocha)",
       "url": "https://open.spotify.com/track/4DGIx4poXzDrzh0U1qguyT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ecoar 3",
+        "url": "https://open.spotify.com/album/5fjXzkdSY0mjnNIvS1uMmY"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 302624,
+      "name": "Cora\u00e7\u00e3o Igual Ao Teu",
+      "url": "https://open.spotify.com/track/2k7F2ih9W1yIyA03hzMp9F"
     }
   ],
   "unique_name": "This Is Gabriela Rocha",

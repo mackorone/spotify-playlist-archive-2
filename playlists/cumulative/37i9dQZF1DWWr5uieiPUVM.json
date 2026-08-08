@@ -15845,6 +15845,32 @@
     },
     {
       "album": {
+        "name": "Promessas de Amor",
+        "url": "https://open.spotify.com/album/4orC1pT0xedVn0W3slbVl3"
+      },
+      "artists": [
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174125,
+      "name": "Promessas de Amor",
+      "url": "https://open.spotify.com/track/5HnkzfWkrdligcrgPVboUw"
+    },
+    {
+      "album": {
         "name": "PR\u00caMIO MULTISHOW",
         "url": "https://open.spotify.com/album/05GAQLZV0Rp7O2lxRDyAur"
       },
@@ -16760,7 +16786,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 169754,
       "name": "SABOR TRAP",
       "url": "https://open.spotify.com/track/37p3zjEaoKlmoMPHdIwPYP"

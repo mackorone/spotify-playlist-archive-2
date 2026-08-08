@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Way Dynamic
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,243 likes - 99 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,249 likes - 99 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 5 | [Look Up](https://open.spotify.com/track/4Zluf3UZvWHcx3nDe6PrXs) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Look Up](https://open.spotify.com/album/4gvR5KMuBMZRFRX6Y0urnk) | 3:04 |
 | 6 | [Already Something](https://open.spotify.com/track/1vnbXbPXRoTzmCiMf8Vi0c) | [\#1 Dads](https://open.spotify.com/artist/0RCHY4NGqCJ5GLWCYz2OiI) | [Already Something](https://open.spotify.com/album/1Lq89F6X782xpwRl1tbZJI) | 3:36 |
 | 7 | [Celestial Bodies](https://open.spotify.com/track/6wqTGLc9DnD1I0zj969yXM) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Celestial Bodies](https://open.spotify.com/album/0jvsyrItr5n4mJXVrEulJt) | 3:47 |
-| 8 | [Track 5](https://open.spotify.com/track/4RfRFx4cbOk1CdaQKyeEJn) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Wabi Sabi](https://open.spotify.com/album/2NpZ3Px3zT9ifmVbeREscf) | 0:00 |
+| 8 | [Stairways](https://open.spotify.com/track/4RfRFx4cbOk1CdaQKyeEJn) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Wabi Sabi](https://open.spotify.com/album/2NpZ3Px3zT9ifmVbeREscf) | 3:09 |
 | 9 | [Take Me to Sunrise](https://open.spotify.com/track/5784KrKKqX0AVijoYlP3LU) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Take Me to Sunrise](https://open.spotify.com/album/1NT0szKQ4xFjSpNqovc3Qy) | 3:14 |
 | 10 | [Love Love \(Love Love\)](https://open.spotify.com/track/4gm8rReH16d2OHgIqMMdAX) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Love Love \(Love Love\)](https://open.spotify.com/album/7Mi2jctLtxnHi631v2zelF) | 3:07 |
 | 11 | [Lady In the GPS](https://open.spotify.com/track/3S5aeNMYlrbxZGgUK7uCHv) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Who Could Not Be Broken](https://open.spotify.com/album/0LFdvovLwaU4WQX1q3n6il) | 2:41 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 98 | [Because I Don’t Know](https://open.spotify.com/track/6Qymnl2KeKsdfafjZIJo0Y) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Mitch Sanders](https://open.spotify.com/artist/7HedZ72Eue9RBASoQXqQWf) | [Because I Don't Know](https://open.spotify.com/album/7CmB0dTJA6Kce2EuiOlbmU) | 4:33 |
 | 99 | [Girl, Intentions](https://open.spotify.com/track/3vSUyBAQm9SVlnPWT3IT7v) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Girl, Intentions](https://open.spotify.com/album/0zam2ZW2T22AhELRLudgoF) | 3:47 |
 
-Snapshot ID: `AAAAACtWwbANlqsxteLNkVlwcX5ekq44`
+Snapshot ID: `AAAAAAATdcNaWW/PAPeDLqoz1IBpYs2G`

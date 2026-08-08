@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 8842,
+  "num_followers": 8851,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAABdoYKNV8g0BKeCMemTugZK",
+  "snapshot_id": "anPOgAAAAADU8U22XvVayj4Pl2TOrC+E",
   "tracks": [
     {
       "added_at": null,
@@ -115,6 +115,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Symbol of Hope",
+        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Get Better",
+      "url": "https://open.spotify.com/track/7m2m1Wcf1M3HxuN19z1o3I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nakupenda",
         "url": "https://open.spotify.com/album/3xbbiXWEHWpCqxDAXKUu5d"
       },
@@ -147,26 +167,6 @@
       "duration_ms": 333451,
       "name": "Nakupenda",
       "url": "https://open.spotify.com/track/1p0zeYPLjmIGtw1DzmshZO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Symbol of Hope",
-        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Get Better",
-      "url": "https://open.spotify.com/track/7m2m1Wcf1M3HxuN19z1o3I"
     },
     {
       "added_at": null,
@@ -411,30 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Je m'appelle",
-        "url": "https://open.spotify.com/album/5lRDkN4fmcLGsqW0Ki4ZG2"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Chl\u00e9",
-          "url": "https://open.spotify.com/artist/78ExiA2p1L7zHf0qh3gvyv"
-        }
-      ],
-      "duration_ms": 243253,
-      "name": "Je m'appelle",
-      "url": "https://open.spotify.com/track/6eGPfRvMtXkP9yGT3KcXjV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dance for Jesus",
         "url": "https://open.spotify.com/album/12pkgxsoiyh5Kq7DreKBxp"
       },
@@ -455,6 +431,30 @@
       "duration_ms": 200948,
       "name": "Dance for Jesus",
       "url": "https://open.spotify.com/track/7ARtgoelqoU6QGi7fuoQnR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Je m'appelle",
+        "url": "https://open.spotify.com/album/5lRDkN4fmcLGsqW0Ki4ZG2"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Chl\u00e9",
+          "url": "https://open.spotify.com/artist/78ExiA2p1L7zHf0qh3gvyv"
+        }
+      ],
+      "duration_ms": 243253,
+      "name": "Je m'appelle",
+      "url": "https://open.spotify.com/track/6eGPfRvMtXkP9yGT3KcXjV"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 223531,
-      "name": "Killin Dem (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/7tZkNNRpseecV80chiIeDT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 153174,
       "name": "Account Balance",
       "url": "https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 223531,
+      "name": "Killin Dem (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/7tZkNNRpseecV80chiIeDT"
     },
     {
       "added_at": null,
@@ -715,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Last Son of a Widow",
+        "url": "https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr"
+      },
+      "artists": [
+        {
+          "name": "Ayox",
+          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 148375,
+      "name": "Walking Dead",
+      "url": "https://open.spotify.com/track/4LOd05CKYkYe08idPgp7wy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Family Time",
         "url": "https://open.spotify.com/album/5kbGns9MNOAyvRhadymdy2"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 222056,
       "name": "Family time",
       "url": "https://open.spotify.com/track/20hAjy3wYx3VW8pWr3AgGx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Last Son of a Widow",
-        "url": "https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr"
-      },
-      "artists": [
-        {
-          "name": "Ayox",
-          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 148375,
-      "name": "Walking Dead",
-      "url": "https://open.spotify.com/track/4LOd05CKYkYe08idPgp7wy"
     },
     {
       "added_at": null,
@@ -811,6 +811,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Killin Dem",
+        "url": "https://open.spotify.com/album/2Le6W3ospgVmqVJYWVzgXW"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 220884,
+      "name": "Killin Dem",
+      "url": "https://open.spotify.com/track/4cxyQw1AKCVqa9JVSN7njk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Good Time",
         "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
@@ -839,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killin Dem",
-        "url": "https://open.spotify.com/album/2Le6W3ospgVmqVJYWVzgXW"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 220884,
-      "name": "Killin Dem",
-      "url": "https://open.spotify.com/track/4cxyQw1AKCVqa9JVSN7njk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lagos Anthem",
         "url": "https://open.spotify.com/album/5d78fTQDQxh9ryCgymMZZr"
       },
@@ -871,6 +871,22 @@
       "duration_ms": 209747,
       "name": "Lagos Anthem",
       "url": "https://open.spotify.com/track/1vVLdumXpjKqiHF8OLdfSM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Omo Ologo",
+        "url": "https://open.spotify.com/album/6WVOGN9cZXklfo0aLKaCjj"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Omo Ologo",
+      "url": "https://open.spotify.com/track/1XqSILGQNyilzYxXSmtcxR"
     },
     {
       "added_at": null,
@@ -899,22 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Omo Ologo",
-        "url": "https://open.spotify.com/album/6WVOGN9cZXklfo0aLKaCjj"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Omo Ologo",
-      "url": "https://open.spotify.com/track/1XqSILGQNyilzYxXSmtcxR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emeka Must Shine",
         "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
@@ -931,26 +931,6 @@
       "duration_ms": 173333,
       "name": "BAD TILL ETERNITY (feat. Zlatan)",
       "url": "https://open.spotify.com/track/6vGIf9ajywvcQzIdQVGnwG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skeleton",
-        "url": "https://open.spotify.com/album/4qf70z1GM2v5MGbbXRtehp"
-      },
-      "artists": [
-        {
-          "name": "FEMI VEGA",
-          "url": "https://open.spotify.com/artist/6rfL4s0vo61eNX4RcuBMpf"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 144390,
-      "name": "Skeleton",
-      "url": "https://open.spotify.com/track/4XLhRj4ISLtlPBpARNsrT1"
     },
     {
       "added_at": null,
@@ -1011,6 +991,26 @@
       "duration_ms": 148820,
       "name": "Am I a Yahoo Boy",
       "url": "https://open.spotify.com/track/7lWPp0cGS1w5JYEJ8NB3n5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Skeleton",
+        "url": "https://open.spotify.com/album/4qf70z1GM2v5MGbbXRtehp"
+      },
+      "artists": [
+        {
+          "name": "FEMI VEGA",
+          "url": "https://open.spotify.com/artist/6rfL4s0vo61eNX4RcuBMpf"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 144390,
+      "name": "Skeleton",
+      "url": "https://open.spotify.com/track/4XLhRj4ISLtlPBpARNsrT1"
     },
     {
       "added_at": null,

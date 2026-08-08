@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 
 > It's the witching hours\. Cover: Florence + The Machine
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,337 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,328 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 69 | [willow \- moonlit witch version](https://open.spotify.com/track/5XkJj6sV2XLMaURdmdXgNx) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [willow \(moonlit witch version\)](https://open.spotify.com/album/5rZ2dHO8pco3A7cYToyvR0) | 3:28 |
 | 70 | [Bear Creek](https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Livelong Day](https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC) | 5:31 |
 | 71 | [Waking The Witch](https://open.spotify.com/track/1f4J04qKp7y3UJCxbUOr7z) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:18 |
-| 72 | [Lipstick](https://open.spotify.com/track/4YJMCZyLpwErIlfGh9q2Ok) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Lipstick](https://open.spotify.com/album/2KHQiWbDodCqph0HU9ltMk) | 3:36 |
-| 73 | [Same Old Energy](https://open.spotify.com/track/7qkfs7TdDhaZ9l4YUf2UeU) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Same Old Energy](https://open.spotify.com/album/6omiQi8kZwpEznvECFHDj0) | 3:28 |
+| 72 | [Same Old Energy](https://open.spotify.com/track/7qkfs7TdDhaZ9l4YUf2UeU) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Same Old Energy](https://open.spotify.com/album/6omiQi8kZwpEznvECFHDj0) | 3:28 |
+| 73 | [Lipstick](https://open.spotify.com/track/4YJMCZyLpwErIlfGh9q2Ok) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Lipstick](https://open.spotify.com/album/2KHQiWbDodCqph0HU9ltMk) | 3:36 |
 | 74 | [the warmth](https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [the warmth](https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy) | 4:30 |
 | 75 | [The Hanging Tree](https://open.spotify.com/track/2PaKvBW6cpNp6DxdpZyjn5) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [The Hanging Tree](https://open.spotify.com/album/2CuwE8reOOjtnd9bHLtDD0) | 2:51 |
 
-Snapshot ID: `AAAAANZUJXxWFeTIsXBiXbs3bU1xxRi6`
+Snapshot ID: `AAAAAEHSmthEARChGqIm5XkE+iGZsJYd`

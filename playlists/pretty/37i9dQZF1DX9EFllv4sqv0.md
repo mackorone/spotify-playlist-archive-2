@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EFllv4sqv0.md) - [plain]
 
 > Level up your gaming with these afro tracks\. Cover: Davido
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,377 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,498 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EFllv4sqv0.md) - [plain]
 | 25 | [Energy \(Stay Far Away\)](https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Energy \(Stay Far Away\)](https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB) | 3:19 |
 | 26 | [Hello](https://open.spotify.com/track/7LLy7WIoYCyE0HwZ5ph7C6) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Hello](https://open.spotify.com/album/0mjI7DMPNREcpIY9EtcVlr) | 2:50 |
 | 27 | [10 MINUTES](https://open.spotify.com/track/3aQgH5q3nN7b2AXhaAoAL6) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [10 MINUTES](https://open.spotify.com/album/3WPXFHULLXBBbVBsgiIpOT) | 2:35 |
-| 28 | [BLOOD ON THE DANCE FLOOR \(feat\. Bloody Civilian and Wale\)](https://open.spotify.com/track/35MU2MEhQMw0NhXZztAP9m) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 3:53 |
-| 29 | [Paparazzi](https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Paparazzi](https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX) | 2:27 |
+| 28 | [Paparazzi](https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Paparazzi](https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX) | 2:27 |
+| 29 | [BLOOD ON THE DANCE FLOOR \(feat\. Bloody Civilian and Wale\)](https://open.spotify.com/track/35MU2MEhQMw0NhXZztAP9m) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 3:53 |
 | 30 | [Worldwide](https://open.spotify.com/track/3n7kzSJ246VvIe4lRmxV9X) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:02 |
 | 31 | [Where I’m from](https://open.spotify.com/track/1oFabnkoJ01ksmSmyjELDl) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Timileyin 2.0](https://open.spotify.com/album/6VNmpnogjMbZKJyzuj6c2a) | 2:39 |
 | 32 | [Dimension \(feat\. Skepta & Rema\)](https://open.spotify.com/track/2Jy4EdqIZswDZvVDh5dx3A) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Dimension \(feat\. Skepta & Rema\)](https://open.spotify.com/album/0Zp33hB1LZhbpMQCNfzeVF) | 3:54 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EFllv4sqv0.md) - [plain]
 | 70 | [everyday](https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [everyday](https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7) | 2:46 |
 | 71 | [Favourite Girl \(with Rema\)](https://open.spotify.com/track/3eRaxLLhyYHKr8oiR6NeYI) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Favourite Girl \(with Rema\)](https://open.spotify.com/album/7LKevxlgs3jILWLe8VQlmW) | 3:04 |
 | 72 | [Morowore](https://open.spotify.com/track/3W3y3pGDnfhUQHeCoUwFLe) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 3:28 |
-| 73 | [PAIN III](https://open.spotify.com/track/7Drz9kZcuph4h7CXsBJkQt) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Saint Edrah](https://open.spotify.com/artist/2kbp8NOIpu2kWcYvzj54qG) | [CAME OF AGE](https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID) | 2:47 |
-| 74 | [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 |
+| 73 | [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 |
+| 74 | [PAIN III](https://open.spotify.com/track/7Drz9kZcuph4h7CXsBJkQt) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Saint Edrah](https://open.spotify.com/artist/2kbp8NOIpu2kWcYvzj54qG) | [CAME OF AGE](https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID) | 2:47 |
 | 75 | [Yawa \(Hosanna\)](https://open.spotify.com/track/6z8ar5d1V3YMtpa5KBWIAP) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Redemption Valley](https://open.spotify.com/album/5yrqs9rxblxjsZL7FEniJw) | 2:45 |
 | 76 | [Phenomena](https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Phenomena](https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7) | 3:22 |
 | 77 | [Be There Still](https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Be There Still](https://open.spotify.com/album/5VcdmNX0QGqDLPscRygfeL) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EFllv4sqv0.md) - [plain]
 | 99 | [Can't Breathe](https://open.spotify.com/track/1edi2KPh2oghMy8ExJiFBN) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Homeless](https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP) | 2:22 |
 | 100 | [Fuji Vibe](https://open.spotify.com/track/2WHM3orrvvqziSkG0xp8sy) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 5:22 |
 
-Snapshot ID: `AAAAAJZh84AlsWDmzWMRdC1qRvN6H4fH`
+Snapshot ID: `AAAAAHIG6qs5Sl/XhTgkL5/Dozvunsoi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uOqczKiNnG.md) - [plain]
 
 > Los más grandes éxitos de los 70 en Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,481 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,489 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uOqczKiNnG.md) - [plain]
 | 49 | [El Oso](https://open.spotify.com/track/42WA51ZqDPtp4ZhJj2ngAB) | [Moris](https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5) | [Treinta Minutos de Vida](https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT) | 2:54 |
 | 50 | [Ayer Nomás](https://open.spotify.com/track/20ILhYY5QbmsNc8KKBf8w5) | [Los Gatos](https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU) | [Los Gatos](https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G) | 2:10 |
 
-Snapshot ID: `AAAAAGDyqVJLI/lcUnMVtJBYgZqe1Vha`
+Snapshot ID: `AAAAAHXWD/HGwC7CWdsT8e1TUEQsv+cQ`

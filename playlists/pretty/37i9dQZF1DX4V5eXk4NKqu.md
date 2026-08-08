@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best of Latin Indie today, featuring rusowsky.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,418 likes - 58 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,415 likes - 58 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 27 | [PUERTA DEL SOL](https://open.spotify.com/track/6ERdA2L6d0aKnd0Pd7Tqox) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [ALTER EGO](https://open.spotify.com/album/6usRXLPp6yfNrzYrnLxXQ8) | 3:40 |
 | 28 | [zarcillos de plata](https://open.spotify.com/track/7DPqv56SdujBXE0eJhQjBh) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [zarcillos de plata](https://open.spotify.com/album/1QwiMdV2NkhUBxThH3y31c) | 3:18 |
 | 29 | [Eso Que Tú Llamas Amor](https://open.spotify.com/track/66qnFSBNzTAeOgVsadRkKi) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Eso Que Tú Llamas Amor](https://open.spotify.com/album/3o0rSyy7XEtDcFSiGvX8jI) | 2:55 |
-| 30 | [Tarde o temprano](https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:22 |
-| 31 | [miau](https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [miau](https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts) | 3:26 |
+| 30 | [miau](https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [miau](https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts) | 3:26 |
+| 31 | [Tarde o temprano](https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:22 |
 | 32 | [Mine](https://open.spotify.com/track/6V09S8iaQsKap9oL42kFOB) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Música Para Abrir El Cielo: Act 2](https://open.spotify.com/album/5ldBkVAD5y37hG1ymDlzCh) | 2:27 |
 | 33 | [Drogada de Emociones](https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [PALACIO](https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE) | 2:40 |
 | 34 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 39 | [Encuéntrame en Tokio](https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [ETHEREA](https://open.spotify.com/album/0hKkNYEMGdm5Zee2cItOZY) | 3:44 |
 | 40 | [PRISIONERO PERFECTO](https://open.spotify.com/track/6zqbssgW1Sz2eHwYN258DE) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [PRISIONERO PERFECTO](https://open.spotify.com/album/1iZUvTbyBqeHSX1L7X2rBf) | 3:24 |
 | 41 | [Q.I.S \- feat\. maye](https://open.spotify.com/track/5HRtkyn2GNDz5DD4BfEjnt) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Q.I.S](https://open.spotify.com/album/6bTKewCMHer6xH1SGu1CzH) | 3:43 |
-| 42 | [Choque](https://open.spotify.com/track/1ulnhZ9EhkiyokthZbGbXA) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Choque](https://open.spotify.com/album/5mM7KUXUGCCCa8xFyOPTv2) | 4:03 |
-| 43 | [CARRUSEL](https://open.spotify.com/track/479NIpJTkQaCyBpFTWicqa) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk) | 4:44 |
-| 44 | [Un Castigo](https://open.spotify.com/track/7EmcbgQbWJhn06t8gHckgX) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Un Castigo](https://open.spotify.com/album/73hHOb8aSNjaKjgxp2n57h) | 3:09 |
-| 45 | [IND 2 JFK](https://open.spotify.com/track/6lEAEa2rLSDMyw2I2wUek3) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [IND 2 JFK](https://open.spotify.com/album/0FqTf8CVWS4j9qfXryaqS7) | 2:33 |
+| 42 | [Un Castigo](https://open.spotify.com/track/7EmcbgQbWJhn06t8gHckgX) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Un Castigo](https://open.spotify.com/album/73hHOb8aSNjaKjgxp2n57h) | 3:09 |
+| 43 | [IND 2 JFK](https://open.spotify.com/track/6lEAEa2rLSDMyw2I2wUek3) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [IND 2 JFK](https://open.spotify.com/album/0FqTf8CVWS4j9qfXryaqS7) | 2:33 |
+| 44 | [Choque](https://open.spotify.com/track/1ulnhZ9EhkiyokthZbGbXA) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Choque](https://open.spotify.com/album/5mM7KUXUGCCCa8xFyOPTv2) | 4:03 |
+| 45 | [CARRUSEL](https://open.spotify.com/track/479NIpJTkQaCyBpFTWicqa) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk) | 4:44 |
 | 46 | [How’s That Working Out](https://open.spotify.com/track/6rKYbosg95SJuFsD4AEF3m) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [How’s That Working Out](https://open.spotify.com/album/09K7fBw1fMJKy0bEhnUbOm) | 3:00 |
 | 47 | [Vida Nueva](https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Vida Nueva](https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp) | 2:49 |
 | 48 | [El Ritmo](https://open.spotify.com/track/13VigTJf6awaWDBVbpcNmw) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Ritmo](https://open.spotify.com/album/3e0Im6f2QeMtz5ERCDynX3) | 5:08 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 57 | [ya no me llames](https://open.spotify.com/track/4V0x5rBCCGb5gMj3cjLiPi) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [ULTRA SODADE](https://open.spotify.com/album/3xZTQbbpRayiu75DmCNYNH) | 3:21 |
 | 58 | [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 |
 
-Snapshot ID: `AAAAAF1cKKDVO7veu653X97T4tuH09k/`
+Snapshot ID: `AAAAAFJZrRa0mHEqY8kODZxnP6nktYnt`

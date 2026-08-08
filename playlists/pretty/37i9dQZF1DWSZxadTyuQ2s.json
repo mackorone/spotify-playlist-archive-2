@@ -1,12 +1,12 @@
 {
   "description": "The sound of Afrobeats echoing around the world. Cover:  Darkoo & Asake",
-  "num_followers": 40710,
+  "num_followers": 40796,
   "original_name": "Global Afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIhhT8pQQlqsFoHBrHSELQylPizn",
+  "snapshot_id": "AAAAANwymXcg2k6VTVxvTyxi6HVj4IER",
   "tracks": [
     {
       "added_at": "2026-08-07 00:01:18",
@@ -295,6 +295,22 @@
     {
       "added_at": "2026-08-07 00:01:18",
       "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 178041,
+      "name": "Love Me JeJe",
+      "url": "https://open.spotify.com/track/1eDI5oU04SLsXl0TfxfwYf"
+    },
+    {
+      "added_at": "2026-08-07 00:01:18",
+      "album": {
         "name": "POPULAIR",
         "url": "https://open.spotify.com/album/5XIEGdAU9LWEL8Nqjos6bj"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 192786,
       "name": "POPULAIR",
       "url": "https://open.spotify.com/track/4y31VcNe2CESLzUZ7vQN7f"
-    },
-    {
-      "added_at": "2026-08-07 00:01:18",
-      "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 178041,
-      "name": "Love Me JeJe",
-      "url": "https://open.spotify.com/track/1eDI5oU04SLsXl0TfxfwYf"
     },
     {
       "added_at": "2026-08-07 00:01:18",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-08-07 00:01:18",
       "album": {
+        "name": "Me & U",
+        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 192935,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
+    },
+    {
+      "added_at": "2026-08-07 00:01:18",
+      "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
@@ -411,18 +427,18 @@
     {
       "added_at": "2026-08-07 00:01:18",
       "album": {
-        "name": "Me & U",
-        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
+        "name": "FUN",
+        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 192935,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
+      "duration_ms": 188981,
+      "name": "FUN",
+      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
     },
     {
       "added_at": "2026-08-07 00:01:18",
@@ -443,22 +459,6 @@
       "duration_ms": 207085,
       "name": "Alive (feat. Wizkid)",
       "url": "https://open.spotify.com/track/7KeboxD6ciOo8MHlkTgqMH"
-    },
-    {
-      "added_at": "2026-08-07 00:01:18",
-      "album": {
-        "name": "FUN",
-        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 188981,
-      "name": "FUN",
-      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
     },
     {
       "added_at": "2026-08-07 00:01:18",
@@ -527,30 +527,6 @@
     {
       "added_at": "2026-08-07 00:01:18",
       "album": {
-        "name": "COCA BODY",
-        "url": "https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 153055,
-      "name": "COCA BODY",
-      "url": "https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG"
-    },
-    {
-      "added_at": "2026-08-07 00:01:18",
-      "album": {
         "name": "Baby (Is it a Crime)",
         "url": "https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK"
       },
@@ -599,6 +575,30 @@
       "duration_ms": 231618,
       "name": "Ye",
       "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
+    },
+    {
+      "added_at": "2026-08-07 00:01:18",
+      "album": {
+        "name": "COCA BODY",
+        "url": "https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 153055,
+      "name": "COCA BODY",
+      "url": "https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG"
     },
     {
       "added_at": "2026-08-07 00:01:18",
@@ -795,6 +795,26 @@
     {
       "added_at": "2026-08-07 00:01:18",
       "album": {
+        "name": "For A Good Time...",
+        "url": "https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 222840,
+      "name": "Coming Home (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6"
+    },
+    {
+      "added_at": "2026-08-07 00:01:18",
+      "album": {
         "name": "Mussulo (feat. Doddy)",
         "url": "https://open.spotify.com/album/1eQf5lYWtCDIbuXnhMDQtO"
       },
@@ -839,6 +859,22 @@
     {
       "added_at": "2026-08-07 00:01:18",
       "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 174053,
+      "name": "Kese (Dance)",
+      "url": "https://open.spotify.com/track/6JvWMLscnWYkgX1zPufIGT"
+    },
+    {
+      "added_at": "2026-08-07 00:01:18",
+      "album": {
         "name": "Protect Sarz At All Costs",
         "url": "https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h"
       },
@@ -867,22 +903,6 @@
     {
       "added_at": "2026-08-07 00:01:18",
       "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 174053,
-      "name": "Kese (Dance)",
-      "url": "https://open.spotify.com/track/6JvWMLscnWYkgX1zPufIGT"
-    },
-    {
-      "added_at": "2026-08-07 00:01:18",
-      "album": {
         "name": "What I Like (with Moliy, Ayetian, & Tyga)",
         "url": "https://open.spotify.com/album/2SFaRmuiD59d9evBFmET8W"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 156140,
       "name": "What I Like (with Moliy, Ayetian, & Tyga)",
       "url": "https://open.spotify.com/track/6QOOnaoczEeWw4zEICAJyB"
-    },
-    {
-      "added_at": "2026-08-07 00:01:18",
-      "album": {
-        "name": "For A Good Time...",
-        "url": "https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 222840,
-      "name": "Coming Home (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6"
     },
     {
       "added_at": "2026-08-07 00:01:18",

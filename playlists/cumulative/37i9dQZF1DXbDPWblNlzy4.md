@@ -4,7 +4,7 @@
 
 > Los éxitos más POPulares en español los encuentras aquí\. Foto: Aitana
 
-590 songs - 1 day 6 hr 44 min
+591 songs - 1 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -567,6 +567,7 @@
 | [Vargas](https://open.spotify.com/track/12UopKNxZcsMedcVBehwHp) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Vargas](https://open.spotify.com/album/5lWCGxsJ2q6H93HAeA1EqE) | 2:25 | 2024-08-30 | 2024-10-12 |
 | [Vas a Destrozarme](https://open.spotify.com/track/0T58JhPBoafZ05W1rIYSKP) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Vas a Destrozarme](https://open.spotify.com/album/62SCTCXiiOVJWw7oxCoa4E) | 2:54 | 2023-10-06 | 2024-06-01 |
 | [Ve y Diles V2 \- Remix](https://open.spotify.com/track/3NO1321RAnd9GmZoJANxlI) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Ve y Diles V2 \(Remix\)](https://open.spotify.com/album/1JP7lfhnwCzHMStiqeL9QV) | 2:56 | 2024-06-28 | 2026-06-13 |
+| [verano en la ciudad](https://open.spotify.com/track/2WzXAEN2FvbwjAi7NEOUeo) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [verano en la ciudad](https://open.spotify.com/album/7esCAic9KXNGprLkyCSMDR) | 3:32 | 2026-08-07 |  |
 | [Verano En NY](https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Verano En NY](https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD) | 3:06 | 2023-09-22 | 2024-08-10 |
 | [Vestido Azul](https://open.spotify.com/track/1AhK0LVcXaZ4SRcaJvU6MK) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Vestido Azul](https://open.spotify.com/album/1cG0jWGYtjHLwkBDLu3evL) | 2:52 | 2023-04-21 | 2023-05-27 |
 | [Vida](https://open.spotify.com/track/3vyUFpEdEAWqfBSRGUKL7z) | [Nina Rodriguez](https://open.spotify.com/artist/2DJELwDLewsLp12JjJUwI6) | [Vida](https://open.spotify.com/album/0LJJXNz6QEpPs0R8gykGjP) | 3:08 | 2023-03-17 | 2023-07-22 |

@@ -1,13 +1,65 @@
 {
-  "description": "New jazz for open minds. Cover: DOMi & JD BECK",
+  "description": "New jazz for open minds. Cover: Dinner Party",
   "num_followers": 1049610,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACBqYNEMbFx/29djOvcoPPYP/Kw7",
+  "snapshot_id": "AAAAAIS3ypGUDnMhFlxgkGRAuwPTetba",
   "tracks": [
+    {
+      "added_at": "2026-08-07 04:01:37",
+      "album": {
+        "name": "Whatchu Bringing?",
+        "url": "https://open.spotify.com/album/6MbJ2c8J9rHWniycGG3AZT"
+      },
+      "artists": [
+        {
+          "name": "Dinner Party",
+          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Phoelix",
+          "url": "https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0"
+        }
+      ],
+      "duration_ms": 137984,
+      "name": "I Wonder (feat. Phoelix)",
+      "url": "https://open.spotify.com/track/23DXnuvmYOezDiKTFSt91l"
+    },
+    {
+      "added_at": "2026-08-07 04:01:37",
+      "album": {
+        "name": "Don't You Want Me",
+        "url": "https://open.spotify.com/album/4yMS0dBNInnEnN9R3KqPQj"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 275997,
+      "name": "Don\u2019t You Want Me (with Cat Power)",
+      "url": "https://open.spotify.com/track/2uadrfFrPg8kQccUr36aEc"
+    },
     {
       "added_at": "2026-07-31 04:01:41",
       "album": {
@@ -23,6 +75,66 @@
       "duration_ms": 173386,
       "name": "EXiT",
       "url": "https://open.spotify.com/track/4KyoBJTAQY13ZYsm6N7wO0"
+    },
+    {
+      "added_at": "2026-08-07 04:01:37",
+      "album": {
+        "name": "Joyce e Tutty Moreno JID027",
+        "url": "https://open.spotify.com/album/5nSgC0Vnj3Puu0uo5SY3Ht"
+      },
+      "artists": [
+        {
+          "name": "Joyce Moreno",
+          "url": "https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v"
+        },
+        {
+          "name": "Tutty Moreno",
+          "url": "https://open.spotify.com/artist/39izFmlD4c4skvllAT4zjH"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        }
+      ],
+      "duration_ms": 135390,
+      "name": "C\u00edrculo Vicioso",
+      "url": "https://open.spotify.com/track/5z5RjpwWizbV3KB7ofC9Gp"
+    },
+    {
+      "added_at": "2026-07-31 04:01:41",
+      "album": {
+        "name": "THINK OF YOU",
+        "url": "https://open.spotify.com/album/1La1PJeTkkBXGLde4onfkd"
+      },
+      "artists": [
+        {
+          "name": "Tyreek McDole",
+          "url": "https://open.spotify.com/artist/4CaP7lMH3pQeY7YboZJu7T"
+        }
+      ],
+      "duration_ms": 424475,
+      "name": "THINK OF YOU",
+      "url": "https://open.spotify.com/track/0F7EPqKLflTsdRExGL7Gm7"
+    },
+    {
+      "added_at": "2026-08-07 04:01:37",
+      "album": {
+        "name": "The Wise Ones",
+        "url": "https://open.spotify.com/album/055cTPGuEo3P8fAMmEPFoK"
+      },
+      "artists": [
+        {
+          "name": "Gretchen Parlato",
+          "url": "https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb"
+        },
+        {
+          "name": "Amber Navran",
+          "url": "https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH"
+        }
+      ],
+      "duration_ms": 329453,
+      "name": "The Wise Ones",
+      "url": "https://open.spotify.com/track/4eUcQGWAFhoYcKsLuFMroj"
     },
     {
       "added_at": "2026-07-31 04:01:41",
@@ -69,22 +181,6 @@
       "url": "https://open.spotify.com/track/1gMeaZS7kbxU0qeHyBz8FT"
     },
     {
-      "added_at": "2026-07-31 04:01:41",
-      "album": {
-        "name": "THINK OF YOU",
-        "url": "https://open.spotify.com/album/1La1PJeTkkBXGLde4onfkd"
-      },
-      "artists": [
-        {
-          "name": "Tyreek McDole",
-          "url": "https://open.spotify.com/artist/4CaP7lMH3pQeY7YboZJu7T"
-        }
-      ],
-      "duration_ms": 424475,
-      "name": "THINK OF YOU",
-      "url": "https://open.spotify.com/track/0F7EPqKLflTsdRExGL7Gm7"
-    },
-    {
       "added_at": "2026-07-24 04:01:32",
       "album": {
         "name": "A Supreme Blue",
@@ -103,38 +199,6 @@
       "duration_ms": 466786,
       "name": "Acknowledgement",
       "url": "https://open.spotify.com/track/4IjZDtzKy4udPAXl8t8NqL"
-    },
-    {
-      "added_at": "2026-07-24 04:01:32",
-      "album": {
-        "name": "Peace of Mind (feat. 9th Wonder)",
-        "url": "https://open.spotify.com/album/13MkqHdMyvgZD1DDC8iNYR"
-      },
-      "artists": [
-        {
-          "name": "Dinner Party",
-          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
-        },
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "9th Wonder",
-          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
-        }
-      ],
-      "duration_ms": 210430,
-      "name": "Peace of Mind (feat. 9th Wonder)",
-      "url": "https://open.spotify.com/track/21EuwZ7A0SxwVKNHXNF7ed"
     },
     {
       "added_at": "2026-07-24 04:01:32",
@@ -587,26 +651,6 @@
       "duration_ms": 489148,
       "name": "Midlife Madness",
       "url": "https://open.spotify.com/track/1TugTG9hrT6Tp42z7pruAJ"
-    },
-    {
-      "added_at": "2026-06-19 04:01:28",
-      "album": {
-        "name": "Rainbow",
-        "url": "https://open.spotify.com/album/56Vm4sUP1hRYDqBA7K0hGv"
-      },
-      "artists": [
-        {
-          "name": "Gretchen Parlato",
-          "url": "https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        }
-      ],
-      "duration_ms": 225960,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/528pHUtcTjp4D3UxouB4CE"
     },
     {
       "added_at": "2026-06-19 04:01:28",
@@ -1605,26 +1649,6 @@
       "url": "https://open.spotify.com/track/613oOKOga5hwD4KqFKJQUq"
     },
     {
-      "added_at": "2025-11-14 05:34:19",
-      "album": {
-        "name": "sMiLes",
-        "url": "https://open.spotify.com/album/3i5gmczfdLFefHHOJFzDCJ"
-      },
-      "artists": [
-        {
-          "name": "Jowee Omicil",
-          "url": "https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY"
-        },
-        {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
-        }
-      ],
-      "duration_ms": 174023,
-      "name": "SHouLd I sMiLe?",
-      "url": "https://open.spotify.com/track/343Vbk8eNtuA8BHSg3OkVz"
-    },
-    {
       "added_at": "2026-03-20 04:00:54",
       "album": {
         "name": "Alkebulan",
@@ -2055,26 +2079,6 @@
       "duration_ms": 189948,
       "name": "who knows",
       "url": "https://open.spotify.com/track/10jrV3ZR7tDBoKTCkAVaDw"
-    },
-    {
-      "added_at": "2025-11-14 05:34:19",
-      "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/1OjLx8J4i6GhNLBIJztwnC"
-      },
-      "artists": [
-        {
-          "name": "Theo Croker",
-          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
-        },
-        {
-          "name": "Sullivan Fortner",
-          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
-        }
-      ],
-      "duration_ms": 174680,
-      "name": "A Prayer for Peace",
-      "url": "https://open.spotify.com/track/5R3e5tMI5Ugr2HCzH90hpx"
     },
     {
       "added_at": "2025-11-14 05:34:19",

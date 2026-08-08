@@ -1,12 +1,12 @@
 {
   "description": "Las rom\u00e1nticas de hoy con las de siempre. Cover: Kany Garc\u00eda & Juan Luis Guerra",
-  "num_followers": 1941352,
+  "num_followers": 1941188,
   "original_name": "Pop Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGsCHok43OsIw/3ohjKKlE7/p4dd",
+  "snapshot_id": "AAAAALshaww4XpcnRMshWr/JGCGaWdKT",
   "tracks": [
     {
       "added_at": "2026-07-31 04:02:07",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-07-31 04:02:07",
       "album": {
-        "name": "Mi Vida Eres T\u00fa",
-        "url": "https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE"
-      },
-      "artists": [
-        {
-          "name": "Los Temerarios",
-          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
-        }
-      ],
-      "duration_ms": 250026,
-      "name": "Mi Vida Eres T\u00fa",
-      "url": "https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX"
-    },
-    {
-      "added_at": "2026-07-31 04:02:07",
-      "album": {
         "name": "Reik",
         "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 203226,
       "name": "Noviembre Sin Ti",
       "url": "https://open.spotify.com/track/2vCHDrXVN0k1GPTjSIZ69E"
+    },
+    {
+      "added_at": "2026-07-31 04:02:07",
+      "album": {
+        "name": "Mi Vida Eres T\u00fa",
+        "url": "https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE"
+      },
+      "artists": [
+        {
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+        }
+      ],
+      "duration_ms": 250026,
+      "name": "Mi Vida Eres T\u00fa",
+      "url": "https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX"
     },
     {
       "added_at": "2026-07-31 04:02:07",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-07-31 04:02:07",
       "album": {
-        "name": "Como Te Recuerdo",
-        "url": "https://open.spotify.com/album/4VwV8hjVXteVkVNDCYPN1M"
-      },
-      "artists": [
-        {
-          "name": "Los Temerarios",
-          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
-        }
-      ],
-      "duration_ms": 305293,
-      "name": "Como Te Recuerdo",
-      "url": "https://open.spotify.com/track/3CH8ti307xUz5NlaHoQBPR"
-    },
-    {
-      "added_at": "2026-07-31 04:02:07",
-      "album": {
         "name": "Reencuentro",
         "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 250200,
       "name": "Gavil\u00e1n o Paloma",
       "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
+    },
+    {
+      "added_at": "2026-07-31 04:02:07",
+      "album": {
+        "name": "Como Te Recuerdo",
+        "url": "https://open.spotify.com/album/4VwV8hjVXteVkVNDCYPN1M"
+      },
+      "artists": [
+        {
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+        }
+      ],
+      "duration_ms": 305293,
+      "name": "Como Te Recuerdo",
+      "url": "https://open.spotify.com/track/3CH8ti307xUz5NlaHoQBPR"
     },
     {
       "added_at": "2026-07-31 04:02:07",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-07-31 04:02:07",
       "album": {
-        "name": "Guerra (+ Sessions Recorded at Abbey Road)",
-        "url": "https://open.spotify.com/album/0sGgHg4QRIBACnetu6z45Z"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 213493,
-      "name": "Te Esperaba",
-      "url": "https://open.spotify.com/track/22t10FTx8y3pC5fjLuKJ8K"
-    },
-    {
-      "added_at": "2026-07-31 04:02:07",
-      "album": {
         "name": "Amor prohibido",
         "url": "https://open.spotify.com/album/6rV8qvncvelhF14cffRfun"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 236453,
       "name": "Yo no te pido la luna (Non voglio mica la luna)",
       "url": "https://open.spotify.com/track/09uE7kHv2ESkvtInKugpGM"
+    },
+    {
+      "added_at": "2026-07-31 04:02:07",
+      "album": {
+        "name": "Guerra (+ Sessions Recorded at Abbey Road)",
+        "url": "https://open.spotify.com/album/0sGgHg4QRIBACnetu6z45Z"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 213493,
+      "name": "Te Esperaba",
+      "url": "https://open.spotify.com/track/22t10FTx8y3pC5fjLuKJ8K"
     },
     {
       "added_at": "2026-07-31 04:02:07",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-07-31 04:02:07",
       "album": {
-        "name": "Lo Pasado Pasado",
-        "url": "https://open.spotify.com/album/5oddKuDpZE5aTn2uZ98Bbq"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Lo Que No Fue No Ser\u00e1",
-      "url": "https://open.spotify.com/track/3nlBG0lCutyuRX3jDRALw0"
-    },
-    {
-      "added_at": "2026-07-31 04:02:07",
-      "album": {
         "name": "Simplemente",
         "url": "https://open.spotify.com/album/5ktMfzQRYlQawZcnmIB1VW"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 288946,
       "name": "Yo Te Amo",
       "url": "https://open.spotify.com/track/2sKo5u6IppUEudIz265wYa"
+    },
+    {
+      "added_at": "2026-07-31 04:02:07",
+      "album": {
+        "name": "Lo Pasado Pasado",
+        "url": "https://open.spotify.com/album/5oddKuDpZE5aTn2uZ98Bbq"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Lo Que No Fue No Ser\u00e1",
+      "url": "https://open.spotify.com/track/3nlBG0lCutyuRX3jDRALw0"
     },
     {
       "added_at": "2026-07-31 04:02:07",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2026-07-31 04:02:07",
       "album": {
-        "name": "Mas Turbada Que Nunca",
-        "url": "https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "El Recuento de los Da\u00f1os",
-      "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
-    },
-    {
-      "added_at": "2026-07-31 04:02:07",
-      "album": {
         "name": "No Hay Imposibles",
         "url": "https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07"
       },
@@ -1363,22 +1347,6 @@
     {
       "added_at": "2026-07-31 04:02:07",
       "album": {
-        "name": "Un Segundo En El Tiempo",
-        "url": "https://open.spotify.com/album/2cdfwA47UN9VUx0Vnc6YNw"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 237866,
-      "name": "Es Mejor As\u00ed",
-      "url": "https://open.spotify.com/track/1LUIgyVglAOLb3AtA9ZgYb"
-    },
-    {
-      "added_at": "2026-07-31 04:02:07",
-      "album": {
         "name": "Como Te Recuerdo",
         "url": "https://open.spotify.com/album/4VwV8hjVXteVkVNDCYPN1M"
       },
@@ -1391,6 +1359,38 @@
       "duration_ms": 244693,
       "name": "Por Que Te Conoc\u00ed",
       "url": "https://open.spotify.com/track/5scw7DWTRzsKzeA05QtCQB"
+    },
+    {
+      "added_at": "2026-07-31 04:02:07",
+      "album": {
+        "name": "Mas Turbada Que Nunca",
+        "url": "https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "El Recuento de los Da\u00f1os",
+      "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
+    },
+    {
+      "added_at": "2026-07-31 04:02:07",
+      "album": {
+        "name": "Un Segundo En El Tiempo",
+        "url": "https://open.spotify.com/album/2cdfwA47UN9VUx0Vnc6YNw"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 237866,
+      "name": "Es Mejor As\u00ed",
+      "url": "https://open.spotify.com/track/1LUIgyVglAOLb3AtA9ZgYb"
     },
     {
       "added_at": "2026-07-31 04:02:07",
@@ -1423,6 +1423,30 @@
       "duration_ms": 234933,
       "name": "He Renunciado a Ti - Remasterizado",
       "url": "https://open.spotify.com/track/59Q0mA0Bq3bqfV5ySjfTbn"
+    },
+    {
+      "added_at": "2026-07-31 04:02:07",
+      "album": {
+        "name": "As\u00ed",
+        "url": "https://open.spotify.com/album/7HAGBrolfsdX5RVRNl5SdQ"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        }
+      ],
+      "duration_ms": 194727,
+      "name": "As\u00ed",
+      "url": "https://open.spotify.com/track/5EJiR3xJitCvsVoCf0oDKC"
     },
     {
       "added_at": "2026-07-31 04:02:07",
@@ -1579,22 +1603,6 @@
     {
       "added_at": "2026-07-31 04:02:07",
       "album": {
-        "name": "Yo Creo",
-        "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 211946,
-      "name": "\u00bfC\u00f3mo Pagarte?",
-      "url": "https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9"
-    },
-    {
-      "added_at": "2026-07-31 04:02:07",
-      "album": {
         "name": "Animal Nocturno",
         "url": "https://open.spotify.com/album/3BkE5kvMnXh6ljEvyCSR0I"
       },
@@ -1607,6 +1615,22 @@
       "duration_ms": 206000,
       "name": "Mujeres",
       "url": "https://open.spotify.com/track/7wNrk2vc0GUUNBFggJzEsI"
+    },
+    {
+      "added_at": "2026-07-31 04:02:07",
+      "album": {
+        "name": "Yo Creo",
+        "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 211946,
+      "name": "\u00bfC\u00f3mo Pagarte?",
+      "url": "https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9"
     },
     {
       "added_at": "2026-07-31 04:02:07",
@@ -1643,30 +1667,6 @@
       "duration_ms": 237720,
       "name": "Tan S\u00f3lo T\u00fa (feat. Alejandra Guzm\u00e1n) - Franco De Vita en Primera Fila",
       "url": "https://open.spotify.com/track/6dhnmkbc9Z7pGsUyUgZKGX"
-    },
-    {
-      "added_at": "2026-07-31 04:02:07",
-      "album": {
-        "name": "As\u00ed",
-        "url": "https://open.spotify.com/album/7HAGBrolfsdX5RVRNl5SdQ"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
-        }
-      ],
-      "duration_ms": 194727,
-      "name": "As\u00ed",
-      "url": "https://open.spotify.com/track/5EJiR3xJitCvsVoCf0oDKC"
     },
     {
       "added_at": "2026-07-31 04:02:07",

@@ -4,7 +4,7 @@
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-210 songs - 10 hr 33 min
+212 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,9 +167,11 @@
 | [Stay With Me](https://open.spotify.com/track/2pd2wOETmzx0aTj7tnW5ID) | [Ivan Ibáñez](https://open.spotify.com/artist/0fV6GdJtP7B0zT4rmLmpUK), [Telecinco](https://open.spotify.com/artist/0XObwctODgMjE22VStmpUZ) | [Stay With Me](https://open.spotify.com/album/7DHqNJ9J58QRnsBDfuPOm0) | 1:41 | 2022-05-20 | 2022-11-09 |
 | [Storybook](https://open.spotify.com/track/71G421mQ7cWLT81NM5cOmu) | [Geoff Zanelli](https://open.spotify.com/artist/0X5jj08FYkWPtmzUhhjOJd), [Jon Brion](https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP) | [Christopher Robin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Gb5WNBbET7YCwhyLd4ACK) | 1:22 | 2022-11-08 |  |
 | [Strength And Honor](https://open.spotify.com/track/0ZQaBlh43TG4X9Pr5NcALS) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Strength And Honor](https://open.spotify.com/album/34NEsQ9jea9FQQWfxtZoas) | 3:21 | 2024-11-15 |  |
+| [Sula bassana \- Excerpt I](https://open.spotify.com/track/0cJAmwulAgsD317x9wX2Co) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Sula bassana \(Excerpt I\)](https://open.spotify.com/album/2acxJ5miYMrVt9LjtZy5RG) | 2:38 | 2026-08-07 |  |
 | [Summer Fantasy \- From “Justice Online”](https://open.spotify.com/track/2pKV2fkNDcCyy7u0oHumAI) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [Shanghai Philharmonic Orchestra](https://open.spotify.com/artist/5lbyxC6xs46cRcvIVRSFp8) | [Summer Fantasy \(From “Justice Online”\)](https://open.spotify.com/album/2egmNxgYnLxHaHrNXgzMo2) | 2:34 | 2025-08-08 |  |
 | [Sunset on M\. \- felt piano version](https://open.spotify.com/track/7nuGDc7oNpIPz2tki0UFSU) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [Sunset on M\. 2025](https://open.spotify.com/album/03DU2edyH9fDxFAas8z3sh) | 4:47 | 2025-11-06 |  |
 | [Symphonic Suite 3rd Part \(From "Attack on Titan"\)](https://open.spotify.com/track/7ltG3epdRWH3UYoWchRH8u) | [Pop\-Up](https://open.spotify.com/artist/2X7XzvKER9pdR7rwYFy6r1), [NDR Radiophilharmonie](https://open.spotify.com/artist/6i9KFEJuHq78nMsQxeB1vR), [Michael England](https://open.spotify.com/artist/0hi3goRhw04R2VLGjvNrd6) | [Symphonic Suite 3rd Part \(From "Attack on Titan"\)](https://open.spotify.com/album/7x5WqXNlG1b4XfPKPQ8B5a) | 4:04 | 2025-08-08 |  |
+| [Symphony No\. 1 in G Minor, Op\. 13 "Winter Dreams": III\. Scherzo \- 2026](https://open.spotify.com/track/4Ky9w1ffKNQsKsHFBVDTcE) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [NDR Radiophilharmonie](https://open.spotify.com/artist/6i9KFEJuHq78nMsQxeB1vR), [Stanislav Kochanovsky](https://open.spotify.com/artist/5LrRQPjHQSI8zW7CltrexY) | [Symphony No\. 1 in G Minor, Op\. 13 "Winter Dreams": III\. Scherzo \(Live, Hannover, 2026\)](https://open.spotify.com/album/7wXJXyF416yqh0EUQfOjEv) | 7:29 | 2026-08-07 |  |
 | [Symphony No\. 2: III\. Allegrissimo](https://open.spotify.com/track/0gOExOyJxtnYmzi351ZWms) | [John McCabe](https://open.spotify.com/artist/3mHbFOOrXQYhy7FpYCLOW8), [Kenneth Woods](https://open.spotify.com/artist/7s7tlLVag6Bgnt1sDiyjhp), [BBC Scottish Symphony Orchestra](https://open.spotify.com/artist/3CufywuKIBC8WhWNvzTQr1) | [McCabe: Symphony No\. 2: III\. Allegrissimo](https://open.spotify.com/album/2v3O0TIt4sQvLtx1jFwxfl) | 3:52 | 2026-06-12 |  |
 | [take a breath](https://open.spotify.com/track/2dTVD9E1QsL5xWHRgiAjw6) | [FIL CRISTALLO](https://open.spotify.com/artist/1mhK0YcAZS8kTfYrUGYeTo) | [take a breath](https://open.spotify.com/album/1nm957F9G9h8Ma9vHgUr9H) | 3:48 | 2022-05-20 | 2022-11-09 |
 | [The Ballad of the Lake of Tears](https://open.spotify.com/track/0wGMUgcCclFNTW6Masy6WQ) | [Chris Palmer](https://open.spotify.com/artist/28VnidW62NnJOQAExf4HH6) | [The Ballad of the Lake of Tears](https://open.spotify.com/album/6vq1ayUsfwt6HsEZI973bM) | 2:21 | 2022-07-22 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALiDO1JzBMbnc96rYYtVeEDZo8NK",
+  "snapshot_id": "AAAAAHnxCNoVb7eJCeXK0HdckPo/Ihwz",
   "tracks": [
     {
       "added_at": "2026-08-04 15:00:46",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-08-04 15:00:46",
       "album": {
-        "name": "\u82bd\u5439\u304f\u3068\u304d",
-        "url": "https://open.spotify.com/album/3FO16Ay7UtFOnJeH33CJ2d"
-      },
-      "artists": [
-        {
-          "name": "yonige",
-          "url": "https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "\u82bd\u5439\u304f\u3068\u304d",
-      "url": "https://open.spotify.com/track/5B5sSaCM7BjL729CNMWNw5"
-    },
-    {
-      "added_at": "2026-08-04 15:00:46",
-      "album": {
         "name": "\u547d\u77ed\u3057\u5bfe\u3059\u308b\u4e59\u5973\u3088",
         "url": "https://open.spotify.com/album/5bHN3dSjlEq7AX09q4U9dC"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 228745,
       "name": "\u547d\u77ed\u3057\u5bfe\u3059\u308b\u4e59\u5973\u3088",
       "url": "https://open.spotify.com/track/3uXfyndmsK3fRNSMr7uWrI"
+    },
+    {
+      "added_at": "2026-08-04 15:00:46",
+      "album": {
+        "name": "\u82bd\u5439\u304f\u3068\u304d",
+        "url": "https://open.spotify.com/album/3FO16Ay7UtFOnJeH33CJ2d"
+      },
+      "artists": [
+        {
+          "name": "yonige",
+          "url": "https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "\u82bd\u5439\u304f\u3068\u304d",
+      "url": "https://open.spotify.com/track/5B5sSaCM7BjL729CNMWNw5"
     },
     {
       "added_at": "2026-08-04 15:00:46",
@@ -783,18 +783,18 @@
     {
       "added_at": "2026-08-04 15:00:46",
       "album": {
-        "name": "Greedy!!",
-        "url": "https://open.spotify.com/album/4tFQ0Z0lMpqFxDT686LEWy"
+        "name": "\u9b5a",
+        "url": "https://open.spotify.com/album/1a8sZEko8yhWxhtF1nrVIb"
       },
       "artists": [
         {
-          "name": "NELKE",
-          "url": "https://open.spotify.com/artist/0hLfZOfwBDMejvKITJksrG"
+          "name": "Atarayo",
+          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
         }
       ],
-      "duration_ms": 217533,
-      "name": "Greedy!!",
-      "url": "https://open.spotify.com/track/5wcuIVeXEFUb8uDIKIr8CA"
+      "duration_ms": 192695,
+      "name": "\u9b5a",
+      "url": "https://open.spotify.com/track/3c98GZdP2qgTOr4zxLLbZL"
     },
     {
       "added_at": "2026-08-04 15:00:46",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-08-04 15:00:46",
       "album": {
+        "name": "Greedy!!",
+        "url": "https://open.spotify.com/album/4tFQ0Z0lMpqFxDT686LEWy"
+      },
+      "artists": [
+        {
+          "name": "NELKE",
+          "url": "https://open.spotify.com/artist/0hLfZOfwBDMejvKITJksrG"
+        }
+      ],
+      "duration_ms": 217533,
+      "name": "Greedy!!",
+      "url": "https://open.spotify.com/track/5wcuIVeXEFUb8uDIKIr8CA"
+    },
+    {
+      "added_at": "2026-08-04 15:00:46",
+      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/4fhp7mvFmve4P2m2oBYEqt"
       },
@@ -831,18 +847,18 @@
     {
       "added_at": "2026-08-04 15:00:46",
       "album": {
-        "name": "\u9b5a",
-        "url": "https://open.spotify.com/album/1a8sZEko8yhWxhtF1nrVIb"
+        "name": "dedede",
+        "url": "https://open.spotify.com/album/1milw7dUgsSddL6wCxRQEI"
       },
       "artists": [
         {
-          "name": "Atarayo",
-          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
+          "name": "Haku.",
+          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
         }
       ],
-      "duration_ms": 192695,
-      "name": "\u9b5a",
-      "url": "https://open.spotify.com/track/3c98GZdP2qgTOr4zxLLbZL"
+      "duration_ms": 175247,
+      "name": "dedede",
+      "url": "https://open.spotify.com/track/6AXRnD6llYIIzhnvKAgIVB"
     },
     {
       "added_at": "2026-08-04 15:00:46",
@@ -863,22 +879,6 @@
       "duration_ms": 193925,
       "name": "MAISIE",
       "url": "https://open.spotify.com/track/24JAm9Rp43KfcCJAb3186t"
-    },
-    {
-      "added_at": "2026-08-04 15:00:46",
-      "album": {
-        "name": "dedede",
-        "url": "https://open.spotify.com/album/1milw7dUgsSddL6wCxRQEI"
-      },
-      "artists": [
-        {
-          "name": "Haku.",
-          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
-        }
-      ],
-      "duration_ms": 175247,
-      "name": "dedede",
-      "url": "https://open.spotify.com/track/6AXRnD6llYIIzhnvKAgIVB"
     },
     {
       "added_at": "2026-08-04 15:00:46",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-08-04 15:00:46",
       "album": {
-        "name": "\u521d\u604b",
-        "url": "https://open.spotify.com/album/02ULCKviJRoFg00ml8AL45"
-      },
-      "artists": [
-        {
-          "name": "Blooming Bungei",
-          "url": "https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "\u521d\u604b",
-      "url": "https://open.spotify.com/track/2ZHMS6pqwf4umlsmZfsS9W"
-    },
-    {
-      "added_at": "2026-08-04 15:00:46",
-      "album": {
         "name": "Bouquet",
         "url": "https://open.spotify.com/album/0zS093L9kzNadSjy9fjTHL"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 212720,
       "name": "Bouquet",
       "url": "https://open.spotify.com/track/05ye2p3KzCb5U3yO0pm2Df"
+    },
+    {
+      "added_at": "2026-08-04 15:00:46",
+      "album": {
+        "name": "\u521d\u604b",
+        "url": "https://open.spotify.com/album/02ULCKviJRoFg00ml8AL45"
+      },
+      "artists": [
+        {
+          "name": "Blooming Bungei",
+          "url": "https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "\u521d\u604b",
+      "url": "https://open.spotify.com/track/2ZHMS6pqwf4umlsmZfsS9W"
     },
     {
       "added_at": "2026-08-04 15:00:46",

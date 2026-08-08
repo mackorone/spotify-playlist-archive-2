@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: THAMI, Luedji Luna",
-  "num_followers": 190486,
+  "num_followers": 190512,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGuWl+RRggCLksJbVe5qoN71cAuV",
+  "snapshot_id": "AAAAADqVrKVPMBIZE0geVj5x+VLOKelm",
   "tracks": [
     {
       "added_at": "2026-08-07 03:01:14",
@@ -291,26 +291,6 @@
     {
       "added_at": "2026-08-07 03:01:14",
       "album": {
-        "name": "Amar\u00edssima",
-        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "10 Minutos",
-      "url": "https://open.spotify.com/track/7exzjXAlIdaZN72iALsc5W"
-    },
-    {
-      "added_at": "2026-08-07 03:01:14",
-      "album": {
         "name": "Duas Vezes",
         "url": "https://open.spotify.com/album/65zrJvV4qdmXSr18NeIEJ3"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 160784,
       "name": "Duas Vezes",
       "url": "https://open.spotify.com/track/29jtks0Ub0Ngt5K9WuF8uz"
+    },
+    {
+      "added_at": "2026-08-07 03:01:14",
+      "album": {
+        "name": "Amar\u00edssima",
+        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "10 Minutos",
+      "url": "https://open.spotify.com/track/7exzjXAlIdaZN72iALsc5W"
     },
     {
       "added_at": "2026-08-07 03:01:14",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-08-07 03:01:14",
       "album": {
+        "name": "Despacha",
+        "url": "https://open.spotify.com/album/1dci5uXicRuc34idbXrxdi"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 178557,
+      "name": "Despacha",
+      "url": "https://open.spotify.com/track/5m4Ok5eGb7Igrw6d6G4fqr"
+    },
+    {
+      "added_at": "2026-08-07 03:01:14",
+      "album": {
         "name": "off",
         "url": "https://open.spotify.com/album/3t4oSLCqgNCCU2VAE3DTn5"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 202106,
       "name": "off",
       "url": "https://open.spotify.com/track/3tnnX1Y2wtBaLbc5q6tDMi"
-    },
-    {
-      "added_at": "2026-08-07 03:01:14",
-      "album": {
-        "name": "Despacha",
-        "url": "https://open.spotify.com/album/1dci5uXicRuc34idbXrxdi"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 178557,
-      "name": "Despacha",
-      "url": "https://open.spotify.com/track/5m4Ok5eGb7Igrw6d6G4fqr"
     },
     {
       "added_at": "2026-08-07 03:01:14",

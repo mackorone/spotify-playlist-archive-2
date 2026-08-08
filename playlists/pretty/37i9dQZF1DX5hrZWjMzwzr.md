@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj zwycięzców i  nominowanych utworów w kategorii singiel roku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,708 likes - 79 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,705 likes - 79 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 78 | [OSINT](https://open.spotify.com/track/08Znuk592Y4r1lNNDouVeG) | [Dizkret](https://open.spotify.com/artist/5r7hanNIrLe99HTjW5ksF5), [Soulpete](https://open.spotify.com/artist/5ZdPxvZW2SJhHepZxAx7b5) | [OSINT](https://open.spotify.com/album/0jv42KQs0UezVYzBxUHsqs) | 1:39 |
 | 79 | [moja droga](https://open.spotify.com/track/4TuQGpxm1GtrVYrLLMnbJw) | [Anatom](https://open.spotify.com/artist/70xnUNebCk3l2syHZRFUgd), [SlvR Beatz](https://open.spotify.com/artist/7hMkWSRgWje8qZdAmzMtdi) | [moja droga](https://open.spotify.com/album/62WGIiW9W5GmiltZIVS0TI) | 2:27 |
 
-Snapshot ID: `AAAAAO1Bz7DAHxUywZZIeNyO8YJcdL3J`
+Snapshot ID: `AAAAAO10oyiPuyE1RxRBaRbM4Uiw5QDG`

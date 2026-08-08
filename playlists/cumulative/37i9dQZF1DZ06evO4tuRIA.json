@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 235711,
       "name": "El Ranchero",
       "url": "https://open.spotify.com/track/4UxemidpNmPXjC7CaycnFs"
@@ -2534,6 +2534,24 @@
       "duration_ms": 162750,
       "name": "Voy A Llegar",
       "url": "https://open.spotify.com/track/2j7IRsBja2cG0wP4gehyVw"
+    },
+    {
+      "album": {
+        "name": "LEGENDARIO",
+        "url": "https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119000,
+      "name": "WACHA",
+      "url": "https://open.spotify.com/track/4Pi7Vixpb3L3AVQScwp6uH"
     },
     {
       "album": {

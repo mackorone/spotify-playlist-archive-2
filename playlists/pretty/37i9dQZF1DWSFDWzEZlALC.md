@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 ### [Wilde Herzen](https://open.spotify.com/playlist/37i9dQZF1DWSFDWzEZlALC)
 
-> Indie, Pop und Rap mit deutschen Texten\. Cover: Amélia
+> Indie, Pop und Rap mit deutschen Texten\. Cover: lönneberger
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,432 likes - 74 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,507 likes - 74 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Drin \(prod\. by Dilla\)](https://open.spotify.com/track/51sOqS7mxHUpgmhlwfD25k) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Drin \(prod\. by Dilla\)](https://open.spotify.com/album/2ZRfbjo6OeezAjMsaXJ5dd) | 2:46 |
-| 2 | [Mein Babe](https://open.spotify.com/track/6bv7sIDsYTAiieEVYR21d9) | [Baumgart](https://open.spotify.com/artist/0246ulS40LyInkc84zSYcO) | [Mein Babe](https://open.spotify.com/album/2aIkMJNj8CWocvsxh9Pvlb) | 2:04 |
-| 3 | [du bist so schön](https://open.spotify.com/track/3c8HrgTCEET4fY1iPZMf66) | [selene](https://open.spotify.com/artist/3Mg9i6HVFg0ETCcGMqNhU9) | [du bist so schön](https://open.spotify.com/album/6tuAfBTGcGMC14iu5C27Rf) | 2:23 |
-| 4 | [new york/berlin](https://open.spotify.com/track/03vj0V1FhDuKL3g1d9H7XJ) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [new york/berlin](https://open.spotify.com/album/7bC5lRxkwv8kFhgWmD0gz5) | 2:18 |
-| 5 | [nach hause laufen](https://open.spotify.com/track/0gvaybSaQczeMcsdfVkLgK) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [nach hause laufen](https://open.spotify.com/album/6ExKxgzsDNXYcjbjKnW3yW) | 2:08 |
-| 6 | [rote gauloises](https://open.spotify.com/track/703SGxCdJ7N5O8WvMeVw1b) | [lönneberger](https://open.spotify.com/artist/1XVqVLT2sgaiJFThXBGPHc) | [rote gauloises](https://open.spotify.com/album/4bcu3MRbQ003865JYDBwTQ) | 2:14 |
+| 1 | [rote gauloises](https://open.spotify.com/track/703SGxCdJ7N5O8WvMeVw1b) | [lönneberger](https://open.spotify.com/artist/1XVqVLT2sgaiJFThXBGPHc) | [rote gauloises](https://open.spotify.com/album/4bcu3MRbQ003865JYDBwTQ) | 2:14 |
+| 2 | [Drin \(prod\. by Dilla\)](https://open.spotify.com/track/51sOqS7mxHUpgmhlwfD25k) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Drin \(prod\. by Dilla\)](https://open.spotify.com/album/2ZRfbjo6OeezAjMsaXJ5dd) | 2:46 |
+| 3 | [Mein Babe](https://open.spotify.com/track/6bv7sIDsYTAiieEVYR21d9) | [Baumgart](https://open.spotify.com/artist/0246ulS40LyInkc84zSYcO) | [Mein Babe](https://open.spotify.com/album/2aIkMJNj8CWocvsxh9Pvlb) | 2:04 |
+| 4 | [du bist so schön](https://open.spotify.com/track/3c8HrgTCEET4fY1iPZMf66) | [selene](https://open.spotify.com/artist/3Mg9i6HVFg0ETCcGMqNhU9) | [du bist so schön](https://open.spotify.com/album/6tuAfBTGcGMC14iu5C27Rf) | 2:23 |
+| 5 | [new york/berlin](https://open.spotify.com/track/03vj0V1FhDuKL3g1d9H7XJ) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [new york/berlin](https://open.spotify.com/album/7bC5lRxkwv8kFhgWmD0gz5) | 2:18 |
+| 6 | [nach hause laufen](https://open.spotify.com/track/0gvaybSaQczeMcsdfVkLgK) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [nach hause laufen](https://open.spotify.com/album/6ExKxgzsDNXYcjbjKnW3yW) | 2:08 |
 | 7 | [Tick Tack](https://open.spotify.com/track/5bcp0jqfueM7MrOzJr7wRh) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9), [Luca Noel](https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw) | [Tick Tack](https://open.spotify.com/album/6mZrCJQILMpTjWJnLE1JsG) | 2:22 |
 | 8 | [Du schaust gut aus!](https://open.spotify.com/track/2YAITIEtfKNNRJFXc4m1pV) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Rocknrollst★r](https://open.spotify.com/album/02AT7gDqIz5HyWgmdG365K) | 2:14 |
 | 9 | [Die sog\. Liebe](https://open.spotify.com/track/6ro5sKrS43YAOjczUic4uq) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA) | [Die sog\. Liebe](https://open.spotify.com/album/6DMmjQmKpBduJH2kd3XcJT) | 2:49 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 73 | [Druck Auf Meiner Lunge](https://open.spotify.com/track/2Sv3E8IkyLzW9xcomvJz6K) | [elia](https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I) | [Druck Auf Meiner Lunge](https://open.spotify.com/album/3jwFNS0ioF43fozZPon3ZK) | 3:52 |
 | 74 | [Rundgang](https://open.spotify.com/track/4llW6YfkiJVi97m9NzeIjX) | [GbR](https://open.spotify.com/artist/1PAQIPjvLHGZfcDwdR9eBm) | [Rundgang](https://open.spotify.com/album/1W78gU96QFWxZxPvf3ugnY) | 2:39 |
 
-Snapshot ID: `AAAAAJ3SkDblhWCvGdEXbkULiIhgmYrl`
+Snapshot ID: `AAAAAL6HMtbeWnCvMB+qql+caNA1HlfS`

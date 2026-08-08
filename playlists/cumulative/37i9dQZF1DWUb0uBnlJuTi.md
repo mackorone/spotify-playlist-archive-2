@@ -4,7 +4,7 @@
 
 > Jazz, but make it funky\. Cover: Skinny Hightower
 
-459 songs - 1 day 10 hr 53 min
+460 songs - 1 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,7 @@
 | [Not My President \(Instrumental\)](https://open.spotify.com/track/05haM30czJ4776KzI99MSw) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Rich Armstrong](https://open.spotify.com/artist/2FYsg0IZ8NSHCB9h4OiiZs), [Ross Eustis](https://open.spotify.com/artist/2vqMOVqXSTmAkUdIbj9BpD), [Tommy Occhiuto](https://open.spotify.com/artist/0a4fW2x0VhftiXiHhpJLCm) | [Not My President \(Instrumental\)](https://open.spotify.com/album/0ljh3b7jrx2uGQzgV1Ro8V) | 4:22 | 2024-03-15 | 2024-05-11 |
 | [Ode To Benny Liku](https://open.spotify.com/track/0InqZFiygFkZpMlLBHZV76) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz) | [Dear Pops \(My Tribute\)](https://open.spotify.com/album/6hgX3x5ONatp8wWMVWVEUn) | 6:20 | 2021-06-11 | 2024-04-19 |
 | [Ode To Benny Liku](https://open.spotify.com/track/1cQgDYOqOj7wgvUO7tOPHm) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz) | [Dear Pops \(My Tribute\)](https://open.spotify.com/album/15anBA9frAP9DxIFbskhFe) | 6:20 | 2021-06-11 |  |
-| [Ok Boomer](https://open.spotify.com/track/57zbii1xrWEJqiMYq2idih) | [Sam Fribush](https://open.spotify.com/artist/0L7BpYTrKRXYKyNppykAEx), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Calvin Napper](https://open.spotify.com/artist/2PPOE2P2KXO3TdVOFluIzz) | [People Please](https://open.spotify.com/album/6RN9cpqds047VYZhqUVzFN) | 4:19 | 2024-03-15 |  |
+| [Ok Boomer](https://open.spotify.com/track/57zbii1xrWEJqiMYq2idih) | [Sam Fribush](https://open.spotify.com/artist/0L7BpYTrKRXYKyNppykAEx), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Calvin Napper](https://open.spotify.com/artist/2PPOE2P2KXO3TdVOFluIzz) | [People Please](https://open.spotify.com/album/6RN9cpqds047VYZhqUVzFN) | 4:19 | 2024-03-15 | 2026-08-08 |
 | [Old World Monkeys](https://open.spotify.com/track/5uNCSQ78XR25TsBEb9lta3) | [The Seven Ups](https://open.spotify.com/artist/2ZRaLK1a4khCYr2t5HFjrp) | [Old World Monkeys](https://open.spotify.com/album/2TlwXYcBe0y2jUl0FMMjhM) | 4:43 | 2022-11-25 |  |
 | [On The Avenue](https://open.spotify.com/track/60Rz7gneyvKj2yevlgVMbt) | [Ronnie Foster](https://open.spotify.com/artist/4B5XByhwtjsqGxs91fYMhZ) | [On The Avenue](https://open.spotify.com/album/2q14UlkorFTgVm7HzLIBRp) | 6:14 | 2020-10-09 | 2025-09-27 |
 | [On The Hook](https://open.spotify.com/track/7LaDliDRfKkzKFNVOoBJTv) | [Misha Panfilov](https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [On The Hook](https://open.spotify.com/album/1LXYzCWmyLYBEOQciJXhH3) | 3:57 | 2023-05-26 |  |
@@ -446,6 +446,7 @@
 | [We Like It](https://open.spotify.com/track/5YMKZTKqRsivCEeZrwFOdq) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [Aspects](https://open.spotify.com/album/7hkJZ6OcdqRRFotfnz0fWt) | 5:11 | 2021-03-26 | 2022-07-29 |
 | [We Like It](https://open.spotify.com/track/6Z69u434EzVPJ570SYeQDf) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [Aspects](https://open.spotify.com/album/7IURTlkQKbyrNsyYEQ1gY5) | 5:11 | 2021-04-09 | 2023-08-12 |
 | [We Made It](https://open.spotify.com/track/5A6DupXNUwB2qtdcloYaei) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [We Made It](https://open.spotify.com/album/0tRH1FJ3WmpXkonezsObay) | 2:34 | 2021-05-07 | 2022-07-10 |
+| [What'd You Say](https://open.spotify.com/track/68FY4bod6Qt85A8bC4OGIi) | [Sam Fribush](https://open.spotify.com/artist/0L7BpYTrKRXYKyNppykAEx), [Corey Fonville](https://open.spotify.com/artist/7sX499OwcBpDPpk2eGgooP), [Alan Good Parker](https://open.spotify.com/artist/2OHoyYChJeN8HCzgwQHi53) | [What'd You Say](https://open.spotify.com/album/2AcIpQUiYFT4W9bTayqJ9e) | 3:19 | 2026-08-07 |  |
 | [What's the Matter](https://open.spotify.com/track/2t4Jta1l1mONdzyMAhjvYf) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [What's the Matter](https://open.spotify.com/album/5sqBcX9zowe2A8la0IdQkC) | 2:21 | 2021-06-18 | 2022-07-28 |
 | [Where's the Music](https://open.spotify.com/track/4AARZ2vuYpBYO9fCVJaBnp) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [Let's Go Everywhere](https://open.spotify.com/album/2Y03j0Ty27Ia0Lcee6ZzZk) | 3:14 | 2020-10-09 |  |
 | [Where’s Danny?](https://open.spotify.com/track/2WyPy28diXETSlcNSIc6At) | [Ghost\-Note](https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV) | [Where’s Danny?](https://open.spotify.com/album/0dao4XjiVYGQmNBn0omY4S) | 3:04 | 2024-02-23 |  |

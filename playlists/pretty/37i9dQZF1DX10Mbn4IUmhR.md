@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 66 | [Feel Something](https://open.spotify.com/track/0Rdt95TmRN3kzIesX6mUl4) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Feel Something](https://open.spotify.com/album/21S9OMKqLkJdLjNHRzGYH0) | 3:09 |
 | 67 | [Paracosm](https://open.spotify.com/track/1R9JXmdCyl0R05rbsT3Zw0) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/71kGp3mziaCpFdD8Owvw5P) | 3:23 |
 | 68 | [All The Things](https://open.spotify.com/track/0Wknp7wThnRkNl2xw4h19g) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [All The Things](https://open.spotify.com/album/2RGi75eKSdLPC99WnzMggs) | 3:01 |
-| 69 | [Love Is for Suckers](https://open.spotify.com/track/3t6EystzC1IMkeLD1EuVQ3) | [RAYNE](https://open.spotify.com/artist/3BfKXIXRTtUMCUSWK0f3CN) | [Love Is for Suckers](https://open.spotify.com/album/0B5RT0pvzVrH8TVPY63G66) | 3:01 |
-| 70 | [If U Love Me Now](https://open.spotify.com/track/7ejMPghq8mBbo6QzIAWWmi) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:14 |
+| 69 | [If U Love Me Now](https://open.spotify.com/track/7ejMPghq8mBbo6QzIAWWmi) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:14 |
+| 70 | [Love Is for Suckers](https://open.spotify.com/track/3t6EystzC1IMkeLD1EuVQ3) | [RAYNE](https://open.spotify.com/artist/3BfKXIXRTtUMCUSWK0f3CN) | [Love Is for Suckers](https://open.spotify.com/album/0B5RT0pvzVrH8TVPY63G66) | 3:01 |
 | 71 | [Be Like You](https://open.spotify.com/track/6FzeypIDYavtPv3gLPU7Vx) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [I Was Never Alone](https://open.spotify.com/album/5B1XzMm6IQwGvHKKkVAchY) | 2:26 |
 | 72 | [Popstar Party](https://open.spotify.com/track/6ijobO5xJ1NgPGiC7evca8) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Popstar Party](https://open.spotify.com/album/5qbv9ptUdlcivvSSOXc7UG) | 3:08 |
 | 73 | [Untimely Disclosure](https://open.spotify.com/track/7g6WhPV8EJb2Lxs1AX9Mho) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Jesse Clegg](https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv) | [Untimely Disclosure](https://open.spotify.com/album/6bt64LXnIIgNvpF5nzrKaq) | 3:43 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 79 | [Give It To Me](https://open.spotify.com/track/4SxNIsYJVeKx7crMsMNjf8) | [Jada Faith](https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL), [Lucky Jones](https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet) | [Give It To Me](https://open.spotify.com/album/0Muk4t1czK2RNtrisFJ4sV) | 2:28 |
 | 80 | [Hello Goodbye](https://open.spotify.com/track/42Ls6yMxH0HdVkZdbdB8fy) | [Lola Audreys](https://open.spotify.com/artist/1hAEiB06cyEmWTSyt1BFkp) | [Hello Goodbye](https://open.spotify.com/album/4oArlyQMejUAK1jdPWhfUz) | 3:05 |
 
-Snapshot ID: `AAAAAPw6BgnmXoKLrinxvyItPSMz1Qlb`
+Snapshot ID: `AAAAAI2gCE2PTUWhTlHpsCskhNjsjenh`

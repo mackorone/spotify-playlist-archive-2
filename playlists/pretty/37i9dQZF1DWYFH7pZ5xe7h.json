@@ -1,12 +1,12 @@
 {
   "description": "Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.",
-  "num_followers": 60791,
+  "num_followers": 60798,
   "original_name": "This Is Mahler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM1hnzSziXW9aYavztRUOFQuG90l",
+  "snapshot_id": "AAAAAFgaFDHJudNdWiF6QHQauZSEadOH",
   "tracks": [
     {
       "added_at": "2025-12-22 11:25:43",
@@ -683,6 +683,34 @@
     {
       "added_at": "2025-12-22 11:25:43",
       "album": {
+        "name": "Mahler: Des Knaben Wunderhorn",
+        "url": "https://open.spotify.com/album/2VMOxWRahor88AI0FXpHD3"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "George Szell",
+          "url": "https://open.spotify.com/artist/2CFaOiHKik5FgNGzZJ08sx"
+        },
+        {
+          "name": "Elisabeth Schwarzkopf",
+          "url": "https://open.spotify.com/artist/0B94ekfBARqVS2gwrTnvJ6"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 187720,
+      "name": "Mahler: Des Knaben Wunderhorn: No. 7, Rheinlegendchen",
+      "url": "https://open.spotify.com/track/1ndZ3nhH4ZzYaTkacGJzGi"
+    },
+    {
+      "added_at": "2025-12-22 11:25:43",
+      "album": {
         "name": "Mahler: Symphony No. 8 (Mahler 8)",
         "url": "https://open.spotify.com/album/0KQbrGXEyi2s9cgwuD4daL"
       },
@@ -751,34 +779,6 @@
       "duration_ms": 309209,
       "name": "Symphony No. 8 in E flat - \"Symphony of a Thousand\" - Part One: Hymnus \"Veni creator spiritus\": \"Accende lumen sensibus\"",
       "url": "https://open.spotify.com/track/2hurAdmJRAKfQBZCfVhNAM"
-    },
-    {
-      "added_at": "2025-12-22 11:25:43",
-      "album": {
-        "name": "Mahler: Des Knaben Wunderhorn",
-        "url": "https://open.spotify.com/album/2VMOxWRahor88AI0FXpHD3"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "George Szell",
-          "url": "https://open.spotify.com/artist/2CFaOiHKik5FgNGzZJ08sx"
-        },
-        {
-          "name": "Elisabeth Schwarzkopf",
-          "url": "https://open.spotify.com/artist/0B94ekfBARqVS2gwrTnvJ6"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 187720,
-      "name": "Mahler: Des Knaben Wunderhorn: No. 7, Rheinlegendchen",
-      "url": "https://open.spotify.com/track/1ndZ3nhH4ZzYaTkacGJzGi"
     },
     {
       "added_at": "2025-12-22 11:25:43",

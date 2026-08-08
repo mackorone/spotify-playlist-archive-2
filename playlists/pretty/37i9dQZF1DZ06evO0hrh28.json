@@ -1,12 +1,12 @@
 {
   "description": "This is Emilia. The essential tracks, all in one playlist.",
-  "num_followers": 256242,
+  "num_followers": 256224,
   "original_name": "This Is Emilia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAABFTfkFHDnGcUSfx1m0fgBz",
+  "snapshot_id": "anPOgAAAAADcjRkaRXE9bB7paqpaICyG",
   "tracks": [
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "pasarella \ud83d\udc60",
-        "url": "https://open.spotify.com/album/0DVus7APZKK2eIUkjkt0Md"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Six Sex",
-          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
-        }
-      ],
-      "duration_ms": 162245,
-      "name": "pasarella \ud83d\udc60",
-      "url": "https://open.spotify.com/track/67vjKw6LVD5wewFuoC1215"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "r\u00e1pido lento",
         "url": "https://open.spotify.com/album/7wrDNMoSx249yOV0xFdRzn"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 213000,
       "name": "r\u00e1pido lento",
       "url": "https://open.spotify.com/track/4xv2A022v5A8nyewDkYOkQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "pasarella \ud83d\udc60",
+        "url": "https://open.spotify.com/album/0DVus7APZKK2eIUkjkt0Md"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Six Sex",
+          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
+        }
+      ],
+      "duration_ms": 162245,
+      "name": "pasarella \ud83d\udc60",
+      "url": "https://open.spotify.com/track/67vjKw6LVD5wewFuoC1215"
     },
     {
       "added_at": null,

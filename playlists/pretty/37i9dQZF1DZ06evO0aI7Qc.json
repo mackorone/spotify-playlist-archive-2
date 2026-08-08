@@ -1,33 +1,13 @@
 {
   "description": "This is Luis R Conriquez. The essential tracks, all in one playlist.",
-  "num_followers": 394910,
+  "num_followers": 394961,
   "original_name": "This Is Luis R Conriquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAAxSP2+fM5IjEQM7UZV+413",
+  "snapshot_id": "anPOgAAAAADMPX2MImTdkBZ467SiS65I",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Muchacho Alegre",
-        "url": "https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 189847,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/4nEIoXy5SfO8BGSu6uqXRJ"
-    },
     {
       "added_at": null,
       "album": {
@@ -267,6 +247,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Muchacho Alegre",
+        "url": "https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 189847,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/4nEIoXy5SfO8BGSu6uqXRJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Locos Nunca Mueren",
         "url": "https://open.spotify.com/album/0fHfGnO6OOwP54PD9kPZyp"
       },
@@ -411,6 +411,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ay Weyy",
+        "url": "https://open.spotify.com/album/7CCnBjQRcWctQWGcyfxWlY"
+      },
+      "artists": [
+        {
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 158669,
+      "name": "Taco El Flaco",
+      "url": "https://open.spotify.com/track/1TKtOAr9HUZyF3dCdwwcJE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Muchacho Alegre",
         "url": "https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq"
       },
@@ -471,30 +495,6 @@
       "duration_ms": 176703,
       "name": "El Buho",
       "url": "https://open.spotify.com/track/1LwuBjjFT9Wc8qJqQV5xia"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ay Weyy",
-        "url": "https://open.spotify.com/album/7CCnBjQRcWctQWGcyfxWlY"
-      },
-      "artists": [
-        {
-          "name": "Jorsshh",
-          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 158669,
-      "name": "Taco El Flaco",
-      "url": "https://open.spotify.com/track/1TKtOAr9HUZyF3dCdwwcJE"
     },
     {
       "added_at": null,
@@ -903,6 +903,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
+        "url": "https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 180731,
+      "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
+      "url": "https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quiero Verte",
         "url": "https://open.spotify.com/album/5LisdCHCabIfd7kzP6MXne"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 221346,
       "name": "Quiero Verte",
       "url": "https://open.spotify.com/track/58BUlorkbBEPLOmTZkXKr7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
-        "url": "https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 180731,
-      "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
-      "url": "https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4"
     },
     {
       "added_at": null,

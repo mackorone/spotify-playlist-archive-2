@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 
 > This is Deorro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,686 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,689 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 32 | [ZAPATEADO ELECTRÓNICO](https://open.spotify.com/track/1WUTvWkKnI3DGiovrL4lxD) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Alacranes Musical](https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda) | [BOTAS & RAVE](https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz) | 3:43 |
 | 33 | [Bootie in Your Face \- No Rock Drop](https://open.spotify.com/track/7HsBPZz9DNjSoknVFsOwAh) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Bootie in Your Face \(No Rock Drop\)](https://open.spotify.com/album/4hgj3VBjPw9O7buz4GlFt9) | 3:41 |
 | 34 | [2 Da Floor](https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [J\. Cruze](https://open.spotify.com/artist/4GiK8nFWRB2wXQRmXwHd1V) | [2 Da Floor](https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L) | 3:05 |
-| 35 | [teksi](https://open.spotify.com/track/2GZZZxaN4jwXFfAaZVaKhd) | [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [pOCHO](https://open.spotify.com/album/7Htas2Bl8ae7bCTie70CAQ) | 2:48 |
+| 35 | [Tranki](https://open.spotify.com/track/3LiLeyIAbMNndaRvki0Ley) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Alexia Mariel](https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn), [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [Tranki](https://open.spotify.com/album/1IVAwFejxBcIERkI9sxrdh) | 4:16 |
 | 36 | [EL TOMATE](https://open.spotify.com/track/7v9AJ3O6wedDJ4zSnlTQSB) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [BOTAS & RAVE](https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz) | 4:19 |
-| 37 | [Tranki](https://open.spotify.com/track/3LiLeyIAbMNndaRvki0Ley) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Alexia Mariel](https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn), [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [Tranki](https://open.spotify.com/album/1IVAwFejxBcIERkI9sxrdh) | 4:16 |
+| 37 | [teksi](https://open.spotify.com/track/2GZZZxaN4jwXFfAaZVaKhd) | [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [pOCHO](https://open.spotify.com/album/7Htas2Bl8ae7bCTie70CAQ) | 2:48 |
 | 38 | [Rumba \(feat\. Jeon\)](https://open.spotify.com/track/3UC7By0PrxjqLgsqnQiRwk) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Jeon](https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:07 |
 | 39 | [Turn Back Time \(feat\. Teemu\)](https://open.spotify.com/track/02FZ7CS69ZwsLQMngR3rhW) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Teemu](https://open.spotify.com/artist/00FaHSRJeGv1dbHhnqhHqz) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:49 |
 | 40 | [Se Te Olvidó](https://open.spotify.com/track/61Ftf1b9VHXHvBxdLzKQ4s) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Se Te Olvidó](https://open.spotify.com/album/6OXrs7AD0MaJ0HZM9B6eBY) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 49 | [Discoteca \- Deorro Remix](https://open.spotify.com/track/5YZX840FQQuMpLFUXE9Cla) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [The Most Winning](https://open.spotify.com/album/0JTaJ6c4DJdF7VkWga0cty) | 3:10 |
 | 50 | [Canta y No Llores](https://open.spotify.com/track/07IWaJ7EWVFe0Zdo82zaml) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Canta y No Llores](https://open.spotify.com/album/6nddQ9X6LMHKeV2Wv4PpT0) | 5:02 |
 
-Snapshot ID: `anJ9AAAAAAClEoGnzdyJfgGpDshM26BE`
+Snapshot ID: `anPOgAAAAACPKr1qjliQhaIKVIEzI1+P`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 
 > we choose the bear
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,378 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,846 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 59 | [Pipe Down](https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:25 |
 | 60 | [because i liked a boy](https://open.spotify.com/track/32FhTAAjKZaBein150o3Px) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:16 |
 | 61 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 |
-| 62 | [I Don't Fuck With You](https://open.spotify.com/track/7FYH5AW3bVfZHJIQpq3UOA) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 4:44 |
-| 63 | [I Know The End](https://open.spotify.com/track/0pJW1Xw3aY4Eh6k5iuBkfI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 5:44 |
+| 62 | [I Know The End](https://open.spotify.com/track/0pJW1Xw3aY4Eh6k5iuBkfI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 5:44 |
+| 63 | [I Don't Fuck With You](https://open.spotify.com/track/7FYH5AW3bVfZHJIQpq3UOA) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 4:44 |
 | 64 | [You Don't Own Me \(feat\. G\-Eazy\)](https://open.spotify.com/track/6KI1ZpZWYAJLvmVhCJz65G) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [FMA](https://open.spotify.com/album/2AUhyBQANk5FKHD6WCbxja) | 3:21 |
 | 65 | [Norman fucking Rockwell](https://open.spotify.com/track/3RIgHHpnFKj5Rni1shokDj) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:08 |
 | 66 | [Throw Away](https://open.spotify.com/track/2ML7vSeIZEmOCOiLUmz7Sv) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Monster](https://open.spotify.com/album/6Q3VZtyPCZFMO4cPF4828q) | 5:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 74 | [All the Things She Said](https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [All the Things She Said](https://open.spotify.com/album/1ziZbo2KHanGDueyFqzsVZ) | 2:50 |
 | 75 | [Crush](https://open.spotify.com/track/0nsIevK1SeDfZzDOi6Si75) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/013WXRAOja0kZ6gnlTCwJ5) | 3:24 |
 
-Snapshot ID: `AAAAAAS9jbuBDCl2l7yBwvz7OX2qL2rh`
+Snapshot ID: `AAAAAOTseYEsJ7LrRT4Z5eC7Xp1lsu0i`

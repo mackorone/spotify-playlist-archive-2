@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 
 > เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: Palmy
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,783 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,785 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 | 49 | [หนึ่งคนตรงนี้ \(I'm here\)](https://open.spotify.com/track/5GwXBrY91rDCB18cwpjsBz) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [หนึ่งคนตรงนี้ \(I'm here\)](https://open.spotify.com/album/2S1NnWORdoVfgwFFHK2xww) | 3:56 |
 | 50 | [ของขวัญปีใหม่ \(Golden Night\)](https://open.spotify.com/track/43JyEMmiEB4LJDwMDnIqvz) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ของขวัญปีใหม่ \(Golden Night\)](https://open.spotify.com/album/4PmVt4yjh8yTVM031pigzp) | 3:59 |
 
-Snapshot ID: `AAAAAI7Ej6nAt351rGm1FXWrVxQpBrAq`
+Snapshot ID: `AAAAADwmYYdo5HGVvhkXi7zbFnSSpfTs`

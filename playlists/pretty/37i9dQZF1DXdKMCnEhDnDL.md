@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 
 > De beste Nederlandse liedjes\. Cover: Bente
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,535 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,564 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 99 | [Nu Wij Niet Meer Praten](https://open.spotify.com/track/7d89CDPikSfHfQjw0WYnxB) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Als Je Voor Me Staat](https://open.spotify.com/album/5UZsSAKI7ObtNEj2voabWw) | 3:12 |
 | 100 | [Waterdicht](https://open.spotify.com/track/2mCItSCHlUYysNfNk8Fyng) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Waterdicht](https://open.spotify.com/album/6GCt0ifIwBEcIKoBECBOKo) | 2:51 |
 
-Snapshot ID: `AAAAAHD7GJ8iPD14iE3cJCNKMazn/ZbU`
+Snapshot ID: `AAAAAFw82qnhh3kwi7mREalN3boMslhf`

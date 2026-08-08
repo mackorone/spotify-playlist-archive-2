@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: Trophy Wife",
+  "description": "Underground indie rock gems. Cover: man/woman/chainsaw",
   "name": "undercurrents",
   "tracks": [
     {
@@ -4953,6 +4953,24 @@
     },
     {
       "album": {
+        "name": "Cannonball",
+        "url": "https://open.spotify.com/album/1yN1NPr6d4TvVJyUyuMHpK"
+      },
+      "artists": [
+        {
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173987,
+      "name": "Canyons",
+      "url": "https://open.spotify.com/track/7cTEXdnW5DhRWtB5BAsVoP"
+    },
+    {
+      "album": {
         "name": "Capital C",
         "url": "https://open.spotify.com/album/7jPTQfu31KK6ENmcixwt3c"
       },
@@ -9864,6 +9882,24 @@
       "duration_ms": 142615,
       "name": "Endless thoughts of you",
       "url": "https://open.spotify.com/track/70QhKK8wJ5ajT3vnSVK2YB"
+    },
+    {
+      "album": {
+        "name": "Enough / Rain (Dream Editions)",
+        "url": "https://open.spotify.com/album/076F3kDE4CeCF5lfYeV1ZI"
+      },
+      "artists": [
+        {
+          "name": "PVA",
+          "url": "https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237750,
+      "name": "Enough (Dream Edition)",
+      "url": "https://open.spotify.com/track/0cwimyMGe6ZQ9QmIW3rzKo"
     },
     {
       "album": {
@@ -24571,6 +24607,24 @@
     },
     {
       "album": {
+        "name": "Punish My Mind",
+        "url": "https://open.spotify.com/album/5pqm3QIOrvYJ4UwPtUEO8O"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184853,
+      "name": "Punish My Mind",
+      "url": "https://open.spotify.com/track/3TzL94FxRyskQA1LENtYrj"
+    },
+    {
+      "album": {
         "name": "Quantum Physics",
         "url": "https://open.spotify.com/album/4rRem8BYu1grDC7PMrlZ62"
       },
@@ -24936,6 +24990,32 @@
       "duration_ms": 188000,
       "name": "rainwater on the windowsill",
       "url": "https://open.spotify.com/track/7bpmQPNf2KYjI0ZbbShENj"
+    },
+    {
+      "album": {
+        "name": "molly picture",
+        "url": "https://open.spotify.com/album/5FBhw9VmY1xqmSXEW7sbzs"
+      },
+      "artists": [
+        {
+          "name": "god of war",
+          "url": "https://open.spotify.com/artist/7o3wJo5yKVGHHkTojIZ7Xp"
+        },
+        {
+          "name": "They Are Gutting a Body of Water",
+          "url": "https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj"
+        },
+        {
+          "name": "Hooky",
+          "url": "https://open.spotify.com/artist/17eGQ5SRFwIv2c8FsrQf8f"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124165,
+      "name": "raphael Bad as shit",
+      "url": "https://open.spotify.com/track/00IKZzDVRw9ycGeQcPHvjc"
     },
     {
       "album": {
@@ -29988,6 +30068,24 @@
       "duration_ms": 219959,
       "name": "Tear It Apart",
       "url": "https://open.spotify.com/track/564EdN2zwo3VzYiMwfnedc"
+    },
+    {
+      "album": {
+        "name": "Solder",
+        "url": "https://open.spotify.com/album/1AOP1mX5RvuMl8tLm2ZKcw"
+      },
+      "artists": [
+        {
+          "name": "effe",
+          "url": "https://open.spotify.com/artist/2QHeMiKzNUpV7tFFqudKEX"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178773,
+      "name": "Tears Always Burn",
+      "url": "https://open.spotify.com/track/5eRigJE4gYutJ6YY0aZL10"
     },
     {
       "album": {

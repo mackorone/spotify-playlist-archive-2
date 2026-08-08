@@ -1,12 +1,12 @@
 {
   "description": "This is Kehlani. The essential tracks, all in one playlist.",
-  "num_followers": 337394,
+  "num_followers": 337433,
   "original_name": "This Is Kehlani",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAADHpHxGVuOep41tYvf4C1Qi",
+  "snapshot_id": "anPOgAAAAAARt2+zCBq7aPpPDpSD1Muy",
   "tracks": [
     {
       "added_at": null,
@@ -167,26 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIRLS (feat. Kehlani) [Remix]",
-        "url": "https://open.spotify.com/album/6e6UkAyTbXyxZOBK2o2AGe"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 152979,
-      "name": "GIRLS (feat. Kehlani) - Remix",
-      "url": "https://open.spotify.com/track/0ZjQfUwjNeKM4jPaC0IwPV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Outlaw Cherie Lee & Other Western Tales",
         "url": "https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 195952,
       "name": "Bullets & Blades (feat. Kehlani)",
       "url": "https://open.spotify.com/track/1mC3QkmmYh02CysAKb9NM2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GIRLS (feat. Kehlani) [Remix]",
+        "url": "https://open.spotify.com/album/6e6UkAyTbXyxZOBK2o2AGe"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 152979,
+      "name": "GIRLS (feat. Kehlani) - Remix",
+      "url": "https://open.spotify.com/track/0ZjQfUwjNeKM4jPaC0IwPV"
     },
     {
       "added_at": null,
@@ -259,6 +259,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kehlani (Uncut Edition)",
+        "url": "https://open.spotify.com/album/5IAfvzdgSu25KAnerb6YsJ"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 256615,
+      "name": "Out The Window",
+      "url": "https://open.spotify.com/track/1WJjatHZ4HRU7U1MUUsJmF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "It Was Good Until It Wasn't",
         "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 183019,
       "name": "Can You Blame Me (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/12xVuIohhHSklxvi1ItKGA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kehlani (Uncut Edition)",
-        "url": "https://open.spotify.com/album/5IAfvzdgSu25KAnerb6YsJ"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 256615,
-      "name": "Out The Window",
-      "url": "https://open.spotify.com/track/1WJjatHZ4HRU7U1MUUsJmF"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It Was Good Until It Wasn't",
-        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 168182,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "with all due respect",
         "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 213571,
       "name": "worst behaviour (feat. Kehlani)",
       "url": "https://open.spotify.com/track/5W67A7t9MWL3VtovrVrici"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Was Good Until It Wasn't",
+        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 168182,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It Was Good Until It Wasn't",
-        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 167810,
-      "name": "Can I",
-      "url": "https://open.spotify.com/track/0uDdI4fAXCuNhQbmxENdsO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "blue water road",
         "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 207551,
       "name": "everything",
       "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Was Good Until It Wasn't",
+        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 167810,
+      "name": "Can I",
+      "url": "https://open.spotify.com/track/0uDdI4fAXCuNhQbmxENdsO"
     },
     {
       "added_at": null,
@@ -763,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Like Dat",
-        "url": "https://open.spotify.com/album/6tFOjuF74joX0RHbimAZp3"
-      },
-      "artists": [
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 242085,
-      "name": "I Like Dat",
-      "url": "https://open.spotify.com/track/7KrlNS2VqiNNJ82RMQdxBn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 185426,
       "name": "Get Me (feat. Kehlani)",
       "url": "https://open.spotify.com/track/5VwwpU7KsLhgfbMEecedhJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Like Dat",
+        "url": "https://open.spotify.com/album/6tFOjuF74joX0RHbimAZp3"
+      },
+      "artists": [
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 242085,
+      "name": "I Like Dat",
+      "url": "https://open.spotify.com/track/7KrlNS2VqiNNJ82RMQdxBn"
     },
     {
       "added_at": null,

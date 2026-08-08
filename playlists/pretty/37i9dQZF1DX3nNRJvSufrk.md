@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,226 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,228 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 24 | [New Start](https://open.spotify.com/track/6lEFi0B4E7tYgN7ahY7HlB) | [Taso](https://open.spotify.com/artist/0zN0VIGQs6bYKzrB7EQYhC), [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [DJ Spinn](https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9) | [New Start](https://open.spotify.com/album/7hhPEiSLGSFdHJEheB8IL3) | 4:30 |
 | 25 | [She a Go](https://open.spotify.com/track/3RWDJd7eh6Scfoz94sJbsX) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [Spinn](https://open.spotify.com/artist/5gmgJUPTu5ApaV6Swjfb20), [Taso](https://open.spotify.com/artist/0zN0VIGQs6bYKzrB7EQYhC) | [Double Cup](https://open.spotify.com/album/4J7qkorMbPmJQy79SntDA8) | 3:37 |
 | 26 | [Never Created, Never Destroyed](https://open.spotify.com/track/6YhSkzyhPBK0N1xulfWlPV) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA) | [Black Origami](https://open.spotify.com/album/7526bnJCkFFnAMSQ9fsva9) | 3:31 |
-| 27 | [WFM](https://open.spotify.com/track/4V7vv7lvro6yMyJZm9Z96F) | [Heavee](https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw), [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [Gant\-Man](https://open.spotify.com/artist/0FRf7YoRwTB4L2HVVwzks4), [DJ Phil](https://open.spotify.com/artist/4L2n1xvdqgPgQjYxLHUAbG), [Sirr TMO](https://open.spotify.com/artist/7wMCA0Cx8O1adCSiTV1IMY) | [WFM](https://open.spotify.com/album/7jlA2sFirrhCJamcIvaEmy) | 3:03 |
-| 28 | [Elevate](https://open.spotify.com/track/11n4LmYCiLsXPfAO6t5Srd) | [Druguse](https://open.spotify.com/artist/7cacQtmSGJSf7HtEslj0xW) | [Hood Rich Life](https://open.spotify.com/album/2U51TV6gM2Sm3mknG4Bf1P) | 3:28 |
+| 27 | [Elevate](https://open.spotify.com/track/11n4LmYCiLsXPfAO6t5Srd) | [Druguse](https://open.spotify.com/artist/7cacQtmSGJSf7HtEslj0xW) | [Hood Rich Life](https://open.spotify.com/album/2U51TV6gM2Sm3mknG4Bf1P) | 3:28 |
+| 28 | [WFM](https://open.spotify.com/track/4V7vv7lvro6yMyJZm9Z96F) | [Heavee](https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw), [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [Gant\-Man](https://open.spotify.com/artist/0FRf7YoRwTB4L2HVVwzks4), [DJ Phil](https://open.spotify.com/artist/4L2n1xvdqgPgQjYxLHUAbG), [Sirr TMO](https://open.spotify.com/artist/7wMCA0Cx8O1adCSiTV1IMY) | [WFM](https://open.spotify.com/album/7jlA2sFirrhCJamcIvaEmy) | 3:03 |
 | 29 | [+3 \(feat\. DJ Rashad, DJ Paypal & Nasty Nigel\)](https://open.spotify.com/track/7LjIWJdk5Z70ZoclGOSOat) | [Nick Hook](https://open.spotify.com/artist/4ICbI408d4uYagVEL3xf7S), [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [DJ Paypal](https://open.spotify.com/artist/4hH4fEXPg3qpTDlmdNOO01), [Nasty Nigel](https://open.spotify.com/artist/42W0OUrWwVQXuHfKan5R49) | [Relationships](https://open.spotify.com/album/0x1yjRNnoer1e1H3bJOUiI) | 3:32 |
 | 30 | [Way You Move](https://open.spotify.com/track/4HJADIxeKfoDyE3HVLzxif) | [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7), [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Chap](https://open.spotify.com/artist/09SMSRxhT4hiqiEAtIv69G) | [Greenlight](https://open.spotify.com/album/39Ir1QmErVs5OlVthfAoFq) | 3:13 |
 | 31 | [Footworkin On Air](https://open.spotify.com/track/5YyTiraUCPWYDke6iwkMaz) | [Traxman](https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh) | [Da Mind Of Traxman](https://open.spotify.com/album/20gJfqZovoaiO5AmN1hoSV) | 4:01 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 79 | [Burnin Ya Boa \(feat\. DJ Manny\)](https://open.spotify.com/track/3CJhotfLdzJbbjAWlK7YFZ) | [DJ Taye](https://open.spotify.com/artist/4T1sY4aibm24hxfz9JnI7c) | [Move Out EP](https://open.spotify.com/album/4NgpWCSva4J1jkTUz2gn7v) | 3:30 |
 | 80 | [Big Booty Savage](https://open.spotify.com/track/7fQ6AGVEcds2qwnQeAdNyZ) | [EQ Why](https://open.spotify.com/artist/2XEjbBHqhnBlfydDBUp1Rf) | [Juke Pack Vol.1](https://open.spotify.com/album/0gMUmMf0xpZjctgUUmhj0p) | 2:37 |
 
-Snapshot ID: `AAAAAPGkT0ldXSodz5/CNgqkMMnjP000`
+Snapshot ID: `AAAAAJh0ZWZkKTeRksAD73BnvUnEqAsf`

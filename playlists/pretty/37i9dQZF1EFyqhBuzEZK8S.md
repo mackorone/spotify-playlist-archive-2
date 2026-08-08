@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0jdtXxGhcy0ycjSBMT5Qij">Jack Antonoff</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,289 likes - 365 songs - 22 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,290 likes - 365 songs - 22 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -186,8 +186,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 176 | [Want You In My Room](https://open.spotify.com/track/6cDPJqKw8PUBw5SigKszrL) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated](https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu) | 2:46 |
 | 177 | [The Man with the Axe](https://open.spotify.com/track/2mP9lPo7pv9k2HTVutEisM) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 4:15 |
 | 178 | [Partridge](https://open.spotify.com/track/4iBtktPvH4yfS5LR6oAQT1) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:13 |
-| 179 | [Judah Smith Interlude](https://open.spotify.com/track/4fFqFgMDP9lY8tqEoArFGq) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:36 |
-| 180 | [Isimo](https://open.spotify.com/track/3rNqa21S7XpJ5v1WjoAqee) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:23 |
+| 179 | [Isimo](https://open.spotify.com/track/3rNqa21S7XpJ5v1WjoAqee) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:23 |
+| 180 | [Judah Smith Interlude](https://open.spotify.com/track/4fFqFgMDP9lY8tqEoArFGq) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:36 |
 | 181 | [Be Calm](https://open.spotify.com/track/1mItgKNZhABGsy7hRHHkIR) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Aim and Ignite \(Deluxe Version\)](https://open.spotify.com/album/39vNHJ3nDr6oO9mWLrRpsI) | 4:09 |
 | 182 | [Masseduction](https://open.spotify.com/track/4L7kaptgY6py2G3nRW9BVQ) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 3:17 |
 | 183 | [This Love Isn't Crazy](https://open.spotify.com/track/03o4HPzUwftpgAPNQSuaBS) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated Side B](https://open.spotify.com/album/7oHKKCXCFIv3J1Yh5F08pu) | 3:53 |
@@ -274,8 +274,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 264 | [Who I Want You to Love](https://open.spotify.com/track/6ESXCUaK7TTcRuw1GV6RS4) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Strange Desire](https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9) | 4:50 |
 | 265 | [Young Man](https://open.spotify.com/track/3Dp2kZ4749xnDo1DTpRvMM) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 4:09 |
 | 266 | [Hope It's Something Good](https://open.spotify.com/track/4sTP7dRWuDR5P9G8BlI4NQ) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 4:05 |
-| 267 | [More Love](https://open.spotify.com/track/4ETbHYS9HC0V5PKIshtv6i) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [More Love \- Songs from Little Voice Season One](https://open.spotify.com/album/52fzvqGSm991mT6pBgAS6g) | 3:50 |
-| 268 | [we should talk](https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 3:04 |
+| 267 | [we should talk](https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 3:04 |
+| 268 | [More Love](https://open.spotify.com/track/4ETbHYS9HC0V5PKIshtv6i) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [More Love \- Songs from Little Voice Season One](https://open.spotify.com/album/52fzvqGSm991mT6pBgAS6g) | 3:50 |
 | 269 | [Set Me Free](https://open.spotify.com/track/6A22pFbf9JfA7WnXXg215G) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 3:18 |
 | 270 | [Daddy's Home](https://open.spotify.com/track/6DeE4f5DFeWycZz8f6UEht) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 3:19 |
 | 271 | [Honey](https://open.spotify.com/track/1yTqSNazh5S8ErHuU1H5z6) | [Red Hearse](https://open.spotify.com/artist/2922Q2qAcxb0hRD0LtPcFc) | [Red Hearse](https://open.spotify.com/album/1BrBVH1v92OAzRDijSyhj9) | 3:34 |
@@ -374,4 +374,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 364 | [W.95th Street High](https://open.spotify.com/track/6D4wRSYyOHfJkYs2VelrbW) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 4:21 |
 | 365 | [I Will Stay Here](https://open.spotify.com/track/0Je3AfZFiRde3KcvZYlCS0) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 5:46 |
 
-Snapshot ID: `AcY43AAAAABCgQzMsSG6scwLEKgLOxSw`
+Snapshot ID: `AcY+NgAAAACe03pDSKgcagcRX0A//5gI`

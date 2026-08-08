@@ -1,12 +1,12 @@
 {
   "description": "Su\u00e9ltala que ella baila sola. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>  ",
-  "num_followers": 12092,
+  "num_followers": 12099,
   "original_name": "Con B de Bichota",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOnEyyOi7wfsjWRwUUwfTT3991cv",
+  "snapshot_id": "AAAAAOpQdOFzDvlwA8aKtHBtxYoO4Vf4",
   "tracks": [
     {
       "added_at": "2023-07-28 18:06:51",
@@ -687,26 +687,6 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "Cazzu: Bzrp Music Sessions, Vol. 32/66",
-        "url": "https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 146106,
-      "name": "Cazzu: Bzrp Music Sessions, Vol. 32/66",
-      "url": "https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 156318,
       "name": "Mu\u00f1ecas",
       "url": "https://open.spotify.com/track/4yPmTUkWmUfLPQLCccp0DR"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
+        "name": "Cazzu: Bzrp Music Sessions, Vol. 32/66",
+        "url": "https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 146106,
+      "name": "Cazzu: Bzrp Music Sessions, Vol. 32/66",
+      "url": "https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -787,26 +787,6 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "intoxicao",
-        "url": "https://open.spotify.com/album/0Oe35eRgVyLthOLW1vurye"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 168510,
-      "name": "intoxicao",
-      "url": "https://open.spotify.com/track/2Znff2J1fAgQhXXEMW7y5V"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
         "name": "La Loto",
         "url": "https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 190666,
       "name": "La Loto",
       "url": "https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
+        "name": "intoxicao",
+        "url": "https://open.spotify.com/album/0Oe35eRgVyLthOLW1vurye"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 168510,
+      "name": "intoxicao",
+      "url": "https://open.spotify.com/track/2Znff2J1fAgQhXXEMW7y5V"
     },
     {
       "added_at": "2023-07-28 18:06:51",

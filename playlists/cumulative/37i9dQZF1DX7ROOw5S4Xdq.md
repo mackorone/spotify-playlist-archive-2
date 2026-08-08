@@ -4,7 +4,7 @@
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Fernandinho
 
-3,600 songs - 12 day 17 hr 4 min
+3,600 songs - 12 day 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2619,6 +2619,7 @@
 | [Que Ele Cresça](https://open.spotify.com/track/1V7Pu1MJH75ytuDjHKG6G8) | [Aline Souza](https://open.spotify.com/artist/0BHCwfUMWR6sfefxO9H0rI) | [Que Ele Cresça](https://open.spotify.com/album/3BjRUZeRVL5svE7TPTnmiV) | 4:45 | 2024-08-09 | 2024-08-17 |
 | [Que Ele Cresça \- Ao Vivo](https://open.spotify.com/track/0QedXioFfupwNKfgPc1j0w) | [Netto](https://open.spotify.com/artist/5awlcFnDX9Dst9FAu5zgFP) | [Que Ele Cresça \(Ao Vivo\)](https://open.spotify.com/album/6EDm9MgnHuwX4kx0G1KSsh) | 6:32 | 2023-10-20 | 2023-11-04 |
 | [Que Ele Cresça \- Ao Vivo](https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Nathanael Brito](https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK) | [Que Ele Cresça \(Ao Vivo\)](https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ) | 10:02 | 2023-09-25 | 2023-10-21 |
+| [Que Esse Fogo Não Se Apague \- Ao Vivo](https://open.spotify.com/track/5qW5Re2Qzs7cYAYEAc5XZE) | [Cultura do Céu](https://open.spotify.com/artist/2CzYWEDa8pdDgcwaazooQd), [Kaleb e Josh](https://open.spotify.com/artist/7lHNnOaw7HKhocFnGvCxpW), [Davi Fernandes](https://open.spotify.com/artist/6llGArQXTEY84S4Oto9Vll) | [Levantamos Nossa Fome \(Ao Vivo\)](https://open.spotify.com/album/1HHblapUDmMw1QAnlWf8d1) | 7:04 | 2026-08-07 |  |
 | [Que Eu Seja um Instrumento](https://open.spotify.com/track/1Ug1yCb7ySC8mthzPJE97e) | [Vitória Costa](https://open.spotify.com/artist/4ivt5LCWnYvngo0oxkDQHW), [Graça Music](https://open.spotify.com/artist/1VIjLJfUSIouLqdLQqT9U1) | [Que Eu Seja um Instrumento](https://open.spotify.com/album/78pzdk7ITANVYk567vMCLM) | 6:31 | 2025-02-21 | 2025-03-08 |
 | [Que Grande Amor](https://open.spotify.com/track/5P3pj7JPTsyYTZD7MUkSZ4) | [Deivison Pires](https://open.spotify.com/artist/4STGonJs3zY71VglZ1NkqT), [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al) | [Que Grande Amor](https://open.spotify.com/album/2o5QptigV392N1NttpUZQh) | 6:52 | 2024-08-09 | 2024-08-17 |
 | [Que Jesus Seja O Nome](https://open.spotify.com/track/1Huo6Vr9QSUCoo7TFMu81Z) | [Elevation Español](https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0), [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [El Nombre De Jesús](https://open.spotify.com/album/03Cx2YHp29O4yk6RvP9YY2) | 8:57 | 2026-02-13 | 2026-03-14 |
@@ -3187,7 +3188,6 @@
 | [Tomé](https://open.spotify.com/track/5FxGf4EkOjp9ipOJm63gE7) | [Anderson Barros](https://open.spotify.com/artist/0bfnp6ummqHWaclDkfga1A), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Tomé](https://open.spotify.com/album/4EdCKDsG1dLhfL0gG0ZrVD) | 4:05 | 2026-08-07 |  |
 | [Toque](https://open.spotify.com/track/1afnYuwXwdmO4akkdvPdFq) | [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00), [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Toque](https://open.spotify.com/album/4kQFY6U8Z976Zh8rS7toHV) | 2:53 | 2026-05-22 | 2026-06-19 |
 | [Trabalho Duro \- Deluxe](https://open.spotify.com/track/4GmyRRbamtB2G39PK7jhk7) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Trabalho Duro \- Deluxe](https://open.spotify.com/album/0JTucnGKKHiCUlUF1c3W9T) | 3:26 | 2024-08-30 | 2024-09-07 |
-| [Track 2](https://open.spotify.com/track/5qW5Re2Qzs7cYAYEAc5XZE) | [Cultura do Céu](https://open.spotify.com/artist/2CzYWEDa8pdDgcwaazooQd) | [Levantamos Nossa Fome \(Ao Vivo\)](https://open.spotify.com/album/1HHblapUDmMw1QAnlWf8d1) | 0:00 | 2026-08-07 |  |
 | [Tragam Suas Vasilhas \- Ao vivo](https://open.spotify.com/track/4ixDVetdu4PkAHQuojumDM) | [Altomonte](https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu), [Zoe Lilly](https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp) | [Tragam Suas Vasilhas \(Ao Vivo\)](https://open.spotify.com/album/7IISqDRueMy006SHDOFWIO) | 7:19 | 2024-06-14 | 2024-06-29 |
 | [TRAIÇÃO NA MESA](https://open.spotify.com/track/5klH9yQ6VRFvfdP654eIg4) | [Israel Santos](https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu) | [TRAIÇÃO NA MESA](https://open.spotify.com/album/0Eqbeu7lWpuIW2Kgsy3MOo) | 3:03 | 2025-09-05 | 2025-09-26 |
 | [Trajeto de Uma Oração](https://open.spotify.com/track/4oFTo955xdpdewPdkQUbh6) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Trajeto de Uma Oração](https://open.spotify.com/album/2KbS1m4cfGgPnolOC6KK7x) | 4:50 | 2024-09-27 | 2024-10-12 |

@@ -1,12 +1,12 @@
 {
   "description": "just trying our best \ud83d\udcf8 AD\u00c9LA ",
-  "num_followers": 1534253,
+  "num_followers": 1534036,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALdHtKx6uRJ+wgvNiEdsejLyugaA",
+  "snapshot_id": "AAAAAODj+JaC8JUYr+qkHVorS4BQ6klc",
   "tracks": [
     {
       "added_at": "2026-07-24 04:02:40",
@@ -43,6 +43,38 @@
     {
       "added_at": "2026-07-24 04:02:40",
       "album": {
+        "name": "Greetings From Bleak St.",
+        "url": "https://open.spotify.com/album/5y5tKFo4rsbw6cNpgFTvS1"
+      },
+      "artists": [
+        {
+          "name": "Josie Edwards",
+          "url": "https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq"
+        }
+      ],
+      "duration_ms": 226041,
+      "name": "Chemical Light",
+      "url": "https://open.spotify.com/track/3PpTiirc8IzcjqEwDyaBZK"
+    },
+    {
+      "added_at": "2026-08-07 04:02:19",
+      "album": {
+        "name": "Twiggy",
+        "url": "https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 209258,
+      "name": "Twiggy",
+      "url": "https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G"
+    },
+    {
+      "added_at": "2026-07-24 04:02:40",
+      "album": {
         "name": "Rocket",
         "url": "https://open.spotify.com/album/4EIVhy9IO28A79FIsVGcEd"
       },
@@ -55,6 +87,54 @@
       "duration_ms": 163333,
       "name": "Rocket",
       "url": "https://open.spotify.com/track/5MR4yF90kILGAksLchUtuH"
+    },
+    {
+      "added_at": "2026-08-07 04:02:19",
+      "album": {
+        "name": "That's a Year",
+        "url": "https://open.spotify.com/album/6U7cekaGWJ3dSMaWaXaNfA"
+      },
+      "artists": [
+        {
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+        }
+      ],
+      "duration_ms": 159171,
+      "name": "That's a Year",
+      "url": "https://open.spotify.com/track/0kZM3WMqxlJiIU43CkASer"
+    },
+    {
+      "added_at": "2026-08-07 04:02:19",
+      "album": {
+        "name": "honk!",
+        "url": "https://open.spotify.com/album/5PHqwsXzGYEwCia6TeT8Oc"
+      },
+      "artists": [
+        {
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
+        }
+      ],
+      "duration_ms": 135460,
+      "name": "honk!",
+      "url": "https://open.spotify.com/track/462r5jEYbiNo6sqwCcRqhU"
+    },
+    {
+      "added_at": "2026-08-07 04:02:19",
+      "album": {
+        "name": "Punch!",
+        "url": "https://open.spotify.com/album/7epVLBNXiDexRm6zQtoSgn"
+      },
+      "artists": [
+        {
+          "name": "Sophia Bacino",
+          "url": "https://open.spotify.com/artist/0JCSx0A726fp2K75sXBfWK"
+        }
+      ],
+      "duration_ms": 183413,
+      "name": "Punch!",
+      "url": "https://open.spotify.com/track/0KtEDhuatDxLCkXuidzTMg"
     },
     {
       "added_at": "2026-07-24 04:02:40",
@@ -71,6 +151,38 @@
       "duration_ms": 177225,
       "name": "Baby Girl",
       "url": "https://open.spotify.com/track/3tlp0uCJYzXztr2vIZ19Lv"
+    },
+    {
+      "added_at": "2026-08-07 04:02:19",
+      "album": {
+        "name": "Puppet Show",
+        "url": "https://open.spotify.com/album/4lhxNdyBmMtNhHexVzzl2w"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "duration_ms": 182665,
+      "name": "Puppet Show",
+      "url": "https://open.spotify.com/track/3sXZgxkAkqbTYDZbBGr94W"
+    },
+    {
+      "added_at": "2026-08-07 04:02:19",
+      "album": {
+        "name": "tokyo",
+        "url": "https://open.spotify.com/album/3fYkRi38mnzbWkeALrc77E"
+      },
+      "artists": [
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        }
+      ],
+      "duration_ms": 206030,
+      "name": "tokyo",
+      "url": "https://open.spotify.com/track/4dIYdBeZRIG0m1YDcbQRUO"
     },
     {
       "added_at": "2026-07-17 04:06:21",
@@ -121,20 +233,20 @@
       "url": "https://open.spotify.com/track/5by7y6dIZ6t0OJyxXTl0tA"
     },
     {
-      "added_at": "2026-07-24 04:02:40",
+      "added_at": "2026-08-07 04:02:19",
       "album": {
-        "name": "Greetings From Bleak St.",
-        "url": "https://open.spotify.com/album/5y5tKFo4rsbw6cNpgFTvS1"
+        "name": "One song away from crying",
+        "url": "https://open.spotify.com/album/5xQgMsnL5a1SmABhKGhtN3"
       },
       "artists": [
         {
-          "name": "Josie Edwards",
-          "url": "https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq"
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
         }
       ],
-      "duration_ms": 226041,
-      "name": "Chemical Light",
-      "url": "https://open.spotify.com/track/3PpTiirc8IzcjqEwDyaBZK"
+      "duration_ms": 219609,
+      "name": "One song away from crying",
+      "url": "https://open.spotify.com/track/7EzqmGOTlrzy1NxZRjeuVV"
     },
     {
       "added_at": "2026-07-24 04:02:40",
@@ -199,6 +311,22 @@
       "duration_ms": 205669,
       "name": "London Tonight",
       "url": "https://open.spotify.com/track/0e04OZxrOF4VrDPFRPfXcO"
+    },
+    {
+      "added_at": "2026-08-07 04:02:19",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/0p2jEcUPxiZd5R3m0VA0SX"
+      },
+      "artists": [
+        {
+          "name": "Jace Cameron",
+          "url": "https://open.spotify.com/artist/0eGobT6Pu6PU9Xf0kZ5yPw"
+        }
+      ],
+      "duration_ms": 230637,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1KGo4UjjOJJOJWOTtfB30u"
     },
     {
       "added_at": "2026-07-05 15:36:05",
@@ -1341,22 +1469,6 @@
       "url": "https://open.spotify.com/track/7tWnp2xzGbZXPSARvtu3ba"
     },
     {
-      "added_at": "2026-05-01 04:52:22",
-      "album": {
-        "name": "Ready",
-        "url": "https://open.spotify.com/album/1e50AHM2FkCz5SLww9qFzT"
-      },
-      "artists": [
-        {
-          "name": "Junior Varsity",
-          "url": "https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "Lost and Found",
-      "url": "https://open.spotify.com/track/0SYktSP2XOX3OipKS9W5vJ"
-    },
-    {
       "added_at": "2026-04-20 21:03:52",
       "album": {
         "name": "the apple tree under the sea",
@@ -1405,38 +1517,6 @@
       "url": "https://open.spotify.com/track/1noA2W44E4YqekIJwudFO2"
     },
     {
-      "added_at": "2026-04-10 05:02:50",
-      "album": {
-        "name": "A Matter of Time: The Final Hour",
-        "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 239333,
-      "name": "Madwoman",
-      "url": "https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN"
-    },
-    {
-      "added_at": "2026-03-27 05:09:53",
-      "album": {
-        "name": "better late than not at all",
-        "url": "https://open.spotify.com/album/1HabfmeLuEEgxBn7PHEpyu"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Jordan",
-          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
-        }
-      ],
-      "duration_ms": 177862,
-      "name": "if i'm lucky",
-      "url": "https://open.spotify.com/track/3OYUGNboEM3FBtlbpufq1v"
-    },
-    {
       "added_at": "2026-04-03 04:03:41",
       "album": {
         "name": "TIME",
@@ -1451,22 +1531,6 @@
       "duration_ms": 195000,
       "name": "TIME",
       "url": "https://open.spotify.com/track/0yGXheydoHP4EKZpfAs9zk"
-    },
-    {
-      "added_at": "2026-03-27 05:09:53",
-      "album": {
-        "name": "WHAT A GIRL WANTS",
-        "url": "https://open.spotify.com/album/0MuH1exx9t8ViZW33b7Sui"
-      },
-      "artists": [
-        {
-          "name": "Mckayla Twiggs",
-          "url": "https://open.spotify.com/artist/6cAwTZhJ1jlCrTlNGKzvAt"
-        }
-      ],
-      "duration_ms": 177194,
-      "name": "When Did You Get So Hot?",
-      "url": "https://open.spotify.com/track/2h6ipaJ4usnWA8WwkSrnVI"
     },
     {
       "added_at": "2026-03-13 04:00:49",
@@ -1521,54 +1585,6 @@
       "url": "https://open.spotify.com/track/6i2ifddYVX3yKRd9DO25mj"
     },
     {
-      "added_at": "2026-03-20 04:00:49",
-      "album": {
-        "name": "Letting Love Die",
-        "url": "https://open.spotify.com/album/61a4JwnOCbXaA2hUwuEynG"
-      },
-      "artists": [
-        {
-          "name": "Heidi Simpson",
-          "url": "https://open.spotify.com/artist/26bMUxnRSRnD7iv7iJ8hi9"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Letting Love Die",
-      "url": "https://open.spotify.com/track/20sCb0w64BoQzrRzmaSl4g"
-    },
-    {
-      "added_at": "2026-03-20 04:00:49",
-      "album": {
-        "name": "Arrow Heart",
-        "url": "https://open.spotify.com/album/6qS5D90JVQEZpBHccB577c"
-      },
-      "artists": [
-        {
-          "name": "Sade Olutola",
-          "url": "https://open.spotify.com/artist/3RnVqL6k23iwhe1uYh1JSm"
-        }
-      ],
-      "duration_ms": 147500,
-      "name": "2099",
-      "url": "https://open.spotify.com/track/4ooICmT2zrfMprazExomIi"
-    },
-    {
-      "added_at": "2026-02-13 20:08:25",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5OQHSj1cZeZUS34ePprYFq"
-      },
-      "artists": [
-        {
-          "name": "Lara Buchanan",
-          "url": "https://open.spotify.com/artist/2MpvmnNz8i4y2XPX2DLpPh"
-        }
-      ],
-      "duration_ms": 199322,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/3Cu4apMkDxFIIh8aKNFNPg"
-    },
-    {
       "added_at": "2026-02-13 05:00:46",
       "album": {
         "name": "Dancing On The Wall",
@@ -1599,22 +1615,6 @@
       "duration_ms": 167440,
       "name": "A Man Written by a Woman",
       "url": "https://open.spotify.com/track/3KMiZhglQNHEyMOoR2u2Yk"
-    },
-    {
-      "added_at": "2026-01-23 05:34:57",
-      "album": {
-        "name": "PAPERCUT",
-        "url": "https://open.spotify.com/album/1ZWy1gMLEjonQb9qytN3uo"
-      },
-      "artists": [
-        {
-          "name": "Britton",
-          "url": "https://open.spotify.com/artist/2VjEhHV3KaZlYg2js0Mqr0"
-        }
-      ],
-      "duration_ms": 194028,
-      "name": "PAPERCUT",
-      "url": "https://open.spotify.com/track/25AjbQVBqFYNsACWvMLI6h"
     }
   ],
   "unique_name": "young & free",

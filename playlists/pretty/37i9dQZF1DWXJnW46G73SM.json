@@ -1,12 +1,12 @@
 {
   "description": "\u0627\u064a\u0647 \u0627\u0644\u062c\u062f\u064a\u062f\u061f \u0627\u0644\u063a\u0644\u0627\u0641: \u0643\u0627\u064a\u0631\u0648\u0643\u064a",
-  "num_followers": 799,
+  "num_followers": 835,
   "original_name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPUDLOMNVsoBk4bNZEXaklnnUgeZ",
+  "snapshot_id": "AAAAAAAoKgzp/pIcQc6WOS9kMxRUcXWZ",
   "tracks": [
     {
       "added_at": "2026-08-06 21:01:43",
@@ -219,6 +219,22 @@
       "duration_ms": 157246,
       "name": "C\u2019est la vie",
       "url": "https://open.spotify.com/track/3wYjpbmdEzbyBsoFOubDPv"
+    },
+    {
+      "added_at": "2026-08-06 21:01:43",
+      "album": {
+        "name": "\u0631\u0648\u0645\u064a\u0648",
+        "url": "https://open.spotify.com/album/7FjY0vyEd48SMhzHhWnwrC"
+      },
+      "artists": [
+        {
+          "name": "RAMY",
+          "url": "https://open.spotify.com/artist/7nLFVXAvSbhHfbBMHbr0nS"
+        }
+      ],
+      "duration_ms": 181898,
+      "name": "SENGARY",
+      "url": "https://open.spotify.com/track/0KUmgVeluvgfpXbwxd5N1b"
     },
     {
       "added_at": "2026-08-06 21:01:43",

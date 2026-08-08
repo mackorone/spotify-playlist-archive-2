@@ -2163,6 +2163,28 @@
     },
     {
       "album": {
+        "name": "How Much Does It Take To Shift It All",
+        "url": "https://open.spotify.com/album/4Mttw5x47ye4BjX9zrVdKv"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "Lucy Park",
+          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153900,
+      "name": "How Much Does It Take To Shift It All",
+      "url": "https://open.spotify.com/track/0TgQDtN4IGHpUdAl97rXww"
+    },
+    {
+      "album": {
         "name": "i am not who i was",
         "url": "https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId"
       },
@@ -4288,7 +4310,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 231213,
       "name": "Souls x Mates",
       "url": "https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo"

@@ -22703,6 +22703,32 @@
     },
     {
       "album": {
+        "name": "Rhythm Of Your Soul",
+        "url": "https://open.spotify.com/album/0mJh6w67LcfuW43TBdDR14"
+      },
+      "artists": [
+        {
+          "name": "Calm Springs",
+          "url": "https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb"
+        },
+        {
+          "name": "Vitaly Gray",
+          "url": "https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8"
+        },
+        {
+          "name": "Spijk",
+          "url": "https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149196,
+      "name": "Rhythm Of Your Soul",
+      "url": "https://open.spotify.com/track/7Bh2Tzazp8kI7hPL7wAl5x"
+    },
+    {
+      "album": {
         "name": "Ride Away",
         "url": "https://open.spotify.com/album/3HWEN0QkWyZT4oyiqsJUVx"
       },

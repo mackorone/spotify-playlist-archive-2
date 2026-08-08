@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,879 likes - 331 songs - 18 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,880 likes - 331 songs - 18 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 6 | [Heaven \- From "Fifty Shades Freed" Soundtrack](https://open.spotify.com/track/3cysp2UU6xmV61ZlnQsa8s) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Heaven \[From "Fifty Shades Freed \(Original Motion Picture Soundtrack\)"\]](https://open.spotify.com/album/6L3gI00jSEv7LZB7bqt6rq) | 3:11 |
 | 7 | [Ain't My Fault](https://open.spotify.com/track/0ADG9OgdVTL7fgREP75BrZ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:44 |
 | 8 | [Final Song](https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Final Song](https://open.spotify.com/album/2gcqSlK5xTxcpuLZ1iik3Z) | 3:55 |
-| 9 | [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 |
-| 10 | [3:15 \(Breathe\)](https://open.spotify.com/track/0dGqP4VickYjtIaB5VOt4H) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [3:15 \(Breathe\)](https://open.spotify.com/album/6QYK9rRB1nJ1ZnhEiOKT1J) | 3:04 |
+| 9 | [3:15 \(Breathe\)](https://open.spotify.com/track/0dGqP4VickYjtIaB5VOt4H) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [3:15 \(Breathe\)](https://open.spotify.com/album/6QYK9rRB1nJ1ZnhEiOKT1J) | 3:04 |
+| 10 | [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 |
 | 11 | [THE LONELIEST](https://open.spotify.com/track/7exHT4swWOKL5addPeqkLP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 4:07 |
 | 12 | [Gecko \(Overdrive\)](https://open.spotify.com/track/3nNqmaZvoRqVV8RUOP9CCt) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Gecko \(Overdrive\)](https://open.spotify.com/album/0Sj3xIEjtRDCycGXNdv7bu) | 2:45 |
 | 13 | [Instruction \(feat\. Demi Lovato & Stefflon Don\)](https://open.spotify.com/track/06VsoIC668pU516T6qrgkJ) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Snacks](https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb) | 2:45 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 84 | [DNA](https://open.spotify.com/track/41za80kTVaQpZwtPfPtPYB) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [22 \(Deluxe\)](https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ) | 2:57 |
 | 85 | [Bloody Samaritan \- With Kelly Rowland / Remix](https://open.spotify.com/track/5otKSP6wPNniPDmTgDumU8) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Loud Urban Choir](https://open.spotify.com/artist/517Fqr6JP4GjULEtTW8TOC) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/5bTVLH0LZmaAdNN0wZAHYZ) | 3:09 |
 | 86 | [GIRLS LIKE US](https://open.spotify.com/track/4M0eE7cZ9lx4ygXSSbfAtp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/4Zy7aEg2i4mlS9DWXgVqve) | 2:38 |
-| 87 | [Who You Are](https://open.spotify.com/track/6seNHtKOxaLh7tzlRCkHki) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [22 \(Deluxe\)](https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ) | 3:25 |
-| 88 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 |
+| 87 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 |
+| 88 | [Who You Are](https://open.spotify.com/track/6seNHtKOxaLh7tzlRCkHki) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [22 \(Deluxe\)](https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ) | 3:25 |
 | 89 | [Eurosummer](https://open.spotify.com/track/2EhJHJV7itLmFGH1CQoK3i) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 2:52 |
 | 90 | [Not My Job](https://open.spotify.com/track/2W7LjZ16NzpnWaUCBsU7Wp) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Not My Job](https://open.spotify.com/album/4zOm1Hp4dZixYzNgYOYAf3) | 2:54 |
 | 91 | [The Rhythm](https://open.spotify.com/track/4laPvATil8SrIAlysZazYN) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Small Talk \- EP](https://open.spotify.com/album/6adnqzJgMLO8oJmzP0Kp28) | 4:06 |
@@ -254,8 +254,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 244 | [In My Eyes](https://open.spotify.com/track/4bldcOQqMQwjOFeWD1q0bt) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Night Work](https://open.spotify.com/album/1KtK7yRDwIkJBZrkeIHUdo) | 3:23 |
 | 245 | [Shy](https://open.spotify.com/track/0FEV2UdmSXQVHSDI8VJDg8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:17 |
 | 246 | [Who You Are \(Part 2\)](https://open.spotify.com/track/0cH19PG5Y0qx92HSog7MyG) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Who You Are \(Part 2\)](https://open.spotify.com/album/30hla16mTXRTbeqmFfSz0O) | 3:47 |
-| 247 | [Yours or Mine](https://open.spotify.com/track/012Q6yHuHJR7qkQ7q6zZv4) | [Rak\-Su](https://open.spotify.com/artist/5UyRaawCsdiVrro0WWgIVB) | [Yours or Mine](https://open.spotify.com/album/63FkQa3rp7kGD4qdr0vgvl) | 2:59 |
-| 248 | [downtime](https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [downtime](https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va) | 3:12 |
+| 247 | [downtime](https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [downtime](https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va) | 3:12 |
+| 248 | [Yours or Mine](https://open.spotify.com/track/012Q6yHuHJR7qkQ7q6zZv4) | [Rak\-Su](https://open.spotify.com/artist/5UyRaawCsdiVrro0WWgIVB) | [Yours or Mine](https://open.spotify.com/album/63FkQa3rp7kGD4qdr0vgvl) | 2:59 |
 | 249 | [under the rug](https://open.spotify.com/track/7cF9LyIGKAJOj8w4ndFCtC) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [wait 'til she gets her heart broken](https://open.spotify.com/album/4LUq1xd0C1Psv1Bc3cn6uJ) | 3:20 |
 | 250 | [Conversation](https://open.spotify.com/track/4B7SwMjUgJAp7zNDAJ3xIW) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Don't Look Down](https://open.spotify.com/album/1RAGs6JnmurAIytKWIbAxX) | 2:31 |
 | 251 | [Crazy World](https://open.spotify.com/track/2vzvAby7IKudoBV12P4s0A) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:46 |
@@ -340,4 +340,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 330 | [Hearsay \- Interlude](https://open.spotify.com/track/65sA0SEBGpcTadBiIWvfKB) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 0:15 |
 | 331 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 
-Snapshot ID: `AcY43AAAAADX7hy2jgIGDq++iaS1U+/m`
+Snapshot ID: `AcY+NgAAAADcIP3mtGIdF0ReTeFRRnim`

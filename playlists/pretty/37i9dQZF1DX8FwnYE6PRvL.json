@@ -1,12 +1,12 @@
 {
   "description": "The ultimate rock party playlist!",
-  "num_followers": 2774664,
+  "num_followers": 2774833,
   "original_name": "Rock Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ2IWwsC7Y6BzNGY0/R06svBQaNj",
+  "snapshot_id": "AAAAAME5NRVx6qK0bwGX82lHPA7Df9Nf",
   "tracks": [
     {
       "added_at": "2026-06-17 16:23:02",
@@ -59,18 +59,18 @@
     {
       "added_at": "2026-06-17 16:23:02",
       "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+        "name": "Only By The Night",
+        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
       },
       "artists": [
         {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 239600,
-      "name": "Pumped Up Kicks",
-      "url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
+      "duration_ms": 203346,
+      "name": "Sex on Fire",
+      "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
     },
     {
       "added_at": "2026-06-17 16:23:02",
@@ -91,18 +91,18 @@
     {
       "added_at": "2026-06-17 16:23:02",
       "album": {
-        "name": "Only By The Night",
-        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
       },
       "artists": [
         {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
         }
       ],
-      "duration_ms": 203346,
-      "name": "Sex on Fire",
-      "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
+      "duration_ms": 239600,
+      "name": "Pumped Up Kicks",
+      "url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
     },
     {
       "added_at": "2026-06-17 16:23:02",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-06-17 16:23:02",
       "album": {
-        "name": "Blur (Special Edition)",
-        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 121160,
-      "name": "Song 2 - 2012 Remaster",
-      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
-    },
-    {
-      "added_at": "2026-06-17 16:23:02",
-      "album": {
         "name": "Combat Rock (Remastered)",
         "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 188987,
       "name": "Should I Stay or Should I Go - Remastered",
       "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
+    },
+    {
+      "added_at": "2026-06-17 16:23:02",
+      "album": {
+        "name": "Blur (Special Edition)",
+        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 121160,
+      "name": "Song 2 - 2012 Remaster",
+      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
     },
     {
       "added_at": "2026-06-17 16:23:02",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-06-17 16:23:02",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
-      },
-      "artists": [
-        {
-          "name": "Alien Ant Farm",
-          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "Smooth Criminal",
-      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
-    },
-    {
-      "added_at": "2026-06-17 16:23:02",
-      "album": {
         "name": "Evil Empire",
         "url": "https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 178266,
       "name": "Fat Lip",
       "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
+    },
+    {
+      "added_at": "2026-06-17 16:23:02",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
+      },
+      "artists": [
+        {
+          "name": "Alien Ant Farm",
+          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "Smooth Criminal",
+      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
     },
     {
       "added_at": "2026-06-17 16:23:02",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-06-17 16:23:02",
       "album": {
-        "name": "Shake Your Money Maker",
-        "url": "https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3"
-      },
-      "artists": [
-        {
-          "name": "The Black Crowes",
-          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
-        }
-      ],
-      "duration_ms": 188066,
-      "name": "Hard To Handle",
-      "url": "https://open.spotify.com/track/05NYcsjJwOYq4jIiKPVj9p"
-    },
-    {
-      "added_at": "2026-06-17 16:23:02",
-      "album": {
         "name": "Dookie",
         "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 224133,
       "name": "Welcome to Paradise",
       "url": "https://open.spotify.com/track/5kr3j5Clb9rjEposoMyLVt"
+    },
+    {
+      "added_at": "2026-06-17 16:23:02",
+      "album": {
+        "name": "Shake Your Money Maker",
+        "url": "https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "duration_ms": 188066,
+      "name": "Hard To Handle",
+      "url": "https://open.spotify.com/track/05NYcsjJwOYq4jIiKPVj9p"
     },
     {
       "added_at": "2026-06-17 16:23:02",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-06-17 16:23:02",
       "album": {
-        "name": "Electric Warrior",
-        "url": "https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5"
-      },
-      "artists": [
-        {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
-        }
-      ],
-      "duration_ms": 262613,
-      "name": "Get It On",
-      "url": "https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF"
-    },
-    {
-      "added_at": "2026-06-17 16:23:02",
-      "album": {
         "name": "Origin of Symmetry",
         "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 218000,
       "name": "Plug in Baby",
       "url": "https://open.spotify.com/track/2UKARCqDrhkYDoVR4FN5Wi"
+    },
+    {
+      "added_at": "2026-06-17 16:23:02",
+      "album": {
+        "name": "Electric Warrior",
+        "url": "https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 262613,
+      "name": "Get It On",
+      "url": "https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF"
     },
     {
       "added_at": "2026-06-17 16:23:02",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-06-17 16:23:02",
       "album": {
-        "name": "Devil Without a Cause",
-        "url": "https://open.spotify.com/album/7nFlAxnXMrQRpM1R80pKQm"
-      },
-      "artists": [
-        {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        }
-      ],
-      "duration_ms": 265840,
-      "name": "Bawitdaba",
-      "url": "https://open.spotify.com/track/0f37VQs969vZUL4gVfHRV9"
-    },
-    {
-      "added_at": "2026-06-17 16:23:02",
-      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 186533,
       "name": "Hash Pipe",
       "url": "https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn"
+    },
+    {
+      "added_at": "2026-06-17 16:23:02",
+      "album": {
+        "name": "Devil Without a Cause",
+        "url": "https://open.spotify.com/album/7nFlAxnXMrQRpM1R80pKQm"
+      },
+      "artists": [
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Bawitdaba",
+      "url": "https://open.spotify.com/track/0f37VQs969vZUL4gVfHRV9"
     },
     {
       "added_at": "2026-06-17 16:23:02",

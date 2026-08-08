@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 86173,
+  "num_followers": 86218,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAAWS6OEuXgQYzdd61eOjOyP",
+  "snapshot_id": "anPOgAAAAABmfDWz/Sq+snUovFBiZ75r",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "TAKE CARE",
+        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 149573,
+      "name": "Take Care",
+      "url": "https://open.spotify.com/track/7KLZOdEqC0A2U3UtMthTqK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr.Trouble",
+        "url": "https://open.spotify.com/album/32x6rKzX540RpFKMLfFWBd"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Mr.Trouble",
+      "url": "https://open.spotify.com/track/4Yicqjumhd4OdKGTu7zNGn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "6WA",
         "url": "https://open.spotify.com/album/1ycJGUC68zkGwUHdlCqre0"
       },
@@ -407,38 +439,6 @@
       "duration_ms": 128493,
       "name": "6WA",
       "url": "https://open.spotify.com/track/3f0ZKyw7mIbnVJiF2iz3dN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mr.Trouble",
-        "url": "https://open.spotify.com/album/32x6rKzX540RpFKMLfFWBd"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Mr.Trouble",
-      "url": "https://open.spotify.com/track/4Yicqjumhd4OdKGTu7zNGn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TAKE CARE",
-        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 149573,
-      "name": "Take Care",
-      "url": "https://open.spotify.com/track/7KLZOdEqC0A2U3UtMthTqK"
     },
     {
       "added_at": null,
@@ -643,6 +643,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Recess",
+        "url": "https://open.spotify.com/album/5Bo68f3J0Ufnb0d9iHf4FZ"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 168041,
+      "name": "U and Me (feat. BigXthaPlug)",
+      "url": "https://open.spotify.com/track/7wM7yo16WS6YLzRNwegByw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TAKE CARE (DELUXE)",
+        "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 124480,
+      "name": "Life of a Boss",
+      "url": "https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "6WA",
         "url": "https://open.spotify.com/album/1ycJGUC68zkGwUHdlCqre0"
       },
@@ -675,42 +711,6 @@
       "duration_ms": 188586,
       "name": "6IXER PARTY (FEAT. SNOOP DOGG)",
       "url": "https://open.spotify.com/track/0bWbDcx2GyvCFjCOW9XvlH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TAKE CARE (DELUXE)",
-        "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 124480,
-      "name": "Life of a Boss",
-      "url": "https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recess",
-        "url": "https://open.spotify.com/album/5Bo68f3J0Ufnb0d9iHf4FZ"
-      },
-      "artists": [
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 168041,
-      "name": "U and Me (feat. BigXthaPlug)",
-      "url": "https://open.spotify.com/track/7wM7yo16WS6YLzRNwegByw"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TAKE CARE",
+        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 120066,
+      "name": "Rich Off Rap",
+      "url": "https://open.spotify.com/track/0NjuL8WPfpZsp6WoG1M9SZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "6WA",
         "url": "https://open.spotify.com/album/1ycJGUC68zkGwUHdlCqre0"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 179053,
       "name": "SAFE TO SAY",
       "url": "https://open.spotify.com/track/3LiKjOCPBdHptHFuVByheV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TAKE CARE",
-        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 120066,
-      "name": "Rich Off Rap",
-      "url": "https://open.spotify.com/track/0NjuL8WPfpZsp6WoG1M9SZ"
     },
     {
       "added_at": null,
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Run It",
-        "url": "https://open.spotify.com/album/3nNUt7aSmNi3mmiUgtitHI"
-      },
-      "artists": [
-        {
-          "name": "Ro$ama",
-          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 163626,
-      "name": "Who Run It",
-      "url": "https://open.spotify.com/track/3uhJIV80m8oKkuyvvS6rw2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Ville",
         "url": "https://open.spotify.com/album/4h19noQJ2iWAoyNW4zHYGQ"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 149767,
       "name": "No Love (feat. BigXthaPlug)",
       "url": "https://open.spotify.com/track/7fhLrdNbOB040rUZWR9XWs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Run It",
+        "url": "https://open.spotify.com/album/3nNUt7aSmNi3mmiUgtitHI"
+      },
+      "artists": [
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 163626,
+      "name": "Who Run It",
+      "url": "https://open.spotify.com/track/3uhJIV80m8oKkuyvvS6rw2"
     },
     {
       "added_at": null,

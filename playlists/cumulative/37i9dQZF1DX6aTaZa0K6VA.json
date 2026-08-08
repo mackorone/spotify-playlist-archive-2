@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Super mega hits!  Foto: AD\u00c9LA",
+  "description": "Super mega hits!  Foto: KAROL G",
   "name": "Pop Up",
   "tracks": [
     {
@@ -3797,6 +3797,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Leave Me on the Dance Floor",
+        "url": "https://open.spotify.com/album/2S2Jq28zIqLoil378gLtfI"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192520,
+      "name": "Don\u2019t Leave Me on the Dance Floor",
+      "url": "https://open.spotify.com/track/2CG3lX8ddjTEQL4kwBHkw3"
+    },
+    {
+      "album": {
         "name": "Double Fantasy",
         "url": "https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm"
       },
@@ -4080,7 +4098,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 250483,
       "name": "End of the World",
       "url": "https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c"
@@ -5726,7 +5744,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 128986,
       "name": "Hotel California",
       "url": "https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs"
@@ -8230,7 +8248,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 284068,
       "name": "Messy",
       "url": "https://open.spotify.com/track/2YuUy4hBCVm4L5IRHu0iVl"
@@ -9304,7 +9322,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 212534,
       "name": "Oh Mother",
       "url": "https://open.spotify.com/track/75XBJLey4l5zwRIAk3LAWl"
@@ -11911,6 +11929,28 @@
     },
     {
       "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220600,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF"
+    },
+    {
+      "album": {
         "name": "Still Don't Care",
         "url": "https://open.spotify.com/album/11XiRiJX157BvMuuc9ixuw"
       },
@@ -12455,6 +12495,28 @@
     },
     {
       "album": {
+        "name": "Talk To Me, Zara",
+        "url": "https://open.spotify.com/album/5geHXgOaOjbB15V5Yx1bqM"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193350,
+      "name": "Talk To Me, Zara",
+      "url": "https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk"
+    },
+    {
+      "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj"
       },
@@ -12466,7 +12528,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ"
@@ -12986,6 +13048,24 @@
       "duration_ms": 217783,
       "name": "These Walls",
       "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
+    },
+    {
+      "album": {
+        "name": "THIS & THAT",
+        "url": "https://open.spotify.com/album/0VDVnZhY399q6sIrdyjZWj"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "This & That",
+      "url": "https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP"
     },
     {
       "album": {
@@ -14150,6 +14230,24 @@
       "duration_ms": 174215,
       "name": "What Would You Do?",
       "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
+    },
+    {
+      "album": {
+        "name": "When He\u2019s Gone",
+        "url": "https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186360,
+      "name": "When He\u2019s Gone",
+      "url": "https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz"
     },
     {
       "album": {

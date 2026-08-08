@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRbZUjHUFIA.md) - [plain]
 
 > Keep your workout 100 with these Hip Hop motivators.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,341 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,368 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRbZUjHUFIA.md) - [plain]
 | 28 | [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:03 |
 | 29 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 |
 | 30 | [I Don't Fuck With You](https://open.spotify.com/track/7FYH5AW3bVfZHJIQpq3UOA) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 4:44 |
-| 31 | [POP DAT THANG](https://open.spotify.com/track/0kav2DxndmxlsiT3pqXZjG) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [POP DAT THANG](https://open.spotify.com/album/4coCUxqLrNyiAfm38MjF2d) | 2:18 |
-| 32 | [Stir Fry](https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 3:10 |
+| 31 | [Stir Fry](https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 3:10 |
+| 32 | [POP DAT THANG](https://open.spotify.com/track/0kav2DxndmxlsiT3pqXZjG) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [POP DAT THANG](https://open.spotify.com/album/4coCUxqLrNyiAfm38MjF2d) | 2:18 |
 | 33 | [Griddlë](https://open.spotify.com/track/1VvXLOfkv1zxa3LZ0zBXt2) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [ADL](https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3) | 2:37 |
 | 34 | [Taste \(feat\. Offset\)](https://open.spotify.com/track/2toVe5hfuIi97ytDPDbQFt) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 3:49 |
 | 35 | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [WAP \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ) | 3:07 |
-| 36 | [BOP](https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 2:39 |
-| 37 | [THAT GUY](https://open.spotify.com/track/6wNGHSpLlHc5N89We4OOKG) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [THAT GUY](https://open.spotify.com/album/7IhsOD81HB5CbNwPMt0lWn) | 2:47 |
+| 36 | [THAT GUY](https://open.spotify.com/track/6wNGHSpLlHc5N89We4OOKG) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [THAT GUY](https://open.spotify.com/album/7IhsOD81HB5CbNwPMt0lWn) | 2:47 |
+| 37 | [BOP](https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 2:39 |
 | 38 | [NISSAN ALTIMA](https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:06 |
 | 39 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 |
 | 40 | [Goosebumps \- Remix](https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps \(Remix\)](https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD) | 2:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRbZUjHUFIA.md) - [plain]
 | 59 | [Big Poe \(feat\. Sk8brd\)](https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:02 |
 | 60 | [King's Dead \(with Kendrick Lamar, Future & James Blake\)](https://open.spotify.com/track/51rXHuKN8Loc4sUlKPODgH) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [King's Dead \(with Kendrick Lamar, Future & James Blake\)](https://open.spotify.com/album/1NXM5lF9YB7a3f1e4R48oH) | 3:49 |
 
-Snapshot ID: `AAAAAAWxO/yeRWseV7PAZfGqaOgr6SgU`
+Snapshot ID: `AAAAAOnxsWCcWS4GqkQLRiTXnEfci4tU`

@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, LOVE.",
-  "num_followers": 209929,
+  "num_followers": 209940,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJrKwjdg28dLpL12mdeDoC+FfRzP",
+  "snapshot_id": "AAAAALzoQwHyaQLNLhu4nCorjbxAeRfK",
   "tracks": [
     {
       "added_at": "2026-07-29 15:15:10",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "DANCE (WITH YOUR SOUL)",
-        "url": "https://open.spotify.com/album/6VtVntYFN7Nj6OBUvCgltN"
-      },
-      "artists": [
-        {
-          "name": "Ryce",
-          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
-        }
-      ],
-      "duration_ms": 161469,
-      "name": "DANCE (WITH YOUR SOUL)",
-      "url": "https://open.spotify.com/track/1yqRwfP7sfUiDNDNIhbvHV"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 226155,
       "name": "Beautiful (feat. India.Arie)",
       "url": "https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "DANCE (WITH YOUR SOUL)",
+        "url": "https://open.spotify.com/album/6VtVntYFN7Nj6OBUvCgltN"
+      },
+      "artists": [
+        {
+          "name": "Ryce",
+          "url": "https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v"
+        }
+      ],
+      "duration_ms": 161469,
+      "name": "DANCE (WITH YOUR SOUL)",
+      "url": "https://open.spotify.com/track/1yqRwfP7sfUiDNDNIhbvHV"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "i do",
-        "url": "https://open.spotify.com/album/6qTSsWWkDt5kqb2ZjX0wQA"
-      },
-      "artists": [
-        {
-          "name": "Coby James",
-          "url": "https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J"
-        }
-      ],
-      "duration_ms": 151016,
-      "name": "i do",
-      "url": "https://open.spotify.com/track/2u93JxM9KC1dQMBJuHKYXv"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Down To Earth",
         "url": "https://open.spotify.com/album/76SsjAdqgbKJONWscEqhjb"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 221183,
       "name": "Down To Earth",
       "url": "https://open.spotify.com/track/1LRbyxLBWWiWhqq7nTulnX"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "i do",
+        "url": "https://open.spotify.com/album/6qTSsWWkDt5kqb2ZjX0wQA"
+      },
+      "artists": [
+        {
+          "name": "Coby James",
+          "url": "https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J"
+        }
+      ],
+      "duration_ms": 151016,
+      "name": "i do",
+      "url": "https://open.spotify.com/track/2u93JxM9KC1dQMBJuHKYXv"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/31y1WByVoNzysuTrvWa6no"
-      },
-      "artists": [
-        {
-          "name": "Sam Wilson",
-          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
-        }
-      ],
-      "duration_ms": 134124,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/0AfetTZfkKWszkFnQEkyEr"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/063TozOtRM8T8I7fGpLNsG"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 178387,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2CrAx85yam4L1C45LImiHv"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/31y1WByVoNzysuTrvWa6no"
+      },
+      "artists": [
+        {
+          "name": "Sam Wilson",
+          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
+        }
+      ],
+      "duration_ms": 134124,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/0AfetTZfkKWszkFnQEkyEr"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1192,8 +1192,8 @@
           "url": "https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod"
         },
         {
-          "name": "Ahjah Walls",
-          "url": "https://open.spotify.com/artist/6bMYwgJuOOGMEXr9L7UZoM"
+          "name": "AHJAH",
+          "url": "https://open.spotify.com/artist/4GAAdeyX5h9aUxbZ7m0OCF"
         },
         {
           "name": "Koryn Hawthorne",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Here for You",
-        "url": "https://open.spotify.com/album/460gb1Qn7I9OwESRjiXrHl"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 152600,
-      "name": "Here for You",
-      "url": "https://open.spotify.com/track/04D4ANfSUYYOZQqYjwt2ae"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "The One Out The Friendzone (Kevin Aleksander Remix)",
         "url": "https://open.spotify.com/album/34iEy5I9vJ3BUvYgbs9tiC"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 180240,
       "name": "The One Out The Friendzone - Kevin Aleksander Remix",
       "url": "https://open.spotify.com/track/25EsAdUP8d3ENGnlKsKcOc"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Here for You",
+        "url": "https://open.spotify.com/album/460gb1Qn7I9OwESRjiXrHl"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 152600,
+      "name": "Here for You",
+      "url": "https://open.spotify.com/track/04D4ANfSUYYOZQqYjwt2ae"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
+        "name": "fall (when we fell in love)",
+        "url": "https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm"
+      },
+      "artists": [
+        {
+          "name": "Xander Sallows",
+          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
+        }
+      ],
+      "duration_ms": 157990,
+      "name": "fall (when we fell in love)",
+      "url": "https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 198000,
       "name": "Only Time Will Tell",
       "url": "https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "fall (when we fell in love)",
-        "url": "https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm"
-      },
-      "artists": [
-        {
-          "name": "Xander Sallows",
-          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
-        }
-      ],
-      "duration_ms": 157990,
-      "name": "fall (when we fell in love)",
-      "url": "https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD"
     },
     {
       "added_at": "2026-07-29 15:15:10",

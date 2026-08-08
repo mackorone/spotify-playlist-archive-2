@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 474 likes - 350 songs - 18 hr 9 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 474 likes - 355 songs - 18 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -358,5 +358,10 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 348 | [Senescence](https://open.spotify.com/track/64Zz7p1BrUH9hlsHfJK3qi) | [Yenn](https://open.spotify.com/artist/6QRKylVfrExn0cIOQzpAIp), [Breakestine](https://open.spotify.com/artist/2rCvh2rrpCxd8mVD9seDNX) | [Senescence](https://open.spotify.com/album/6QtciNI2kObVgNjlOcqy9Q) | 2:13 |
 | 349 | [FUEGO Y MOTOR](https://open.spotify.com/track/7EdPeXsUJ3yy7ejpdgXeZD) | [Capotillo Freestyle](https://open.spotify.com/artist/1Zh8D2mb5oKdx4kudfbOlf) | [FUEGO Y MOTOR](https://open.spotify.com/album/2zzdH7Tb98W7RZ4gCQBHGI) | 2:48 |
 | 350 | [La timba la pongo yo](https://open.spotify.com/track/2MIb7sxR3zcLYJdFYLxaAS) | [Esney Morales](https://open.spotify.com/artist/1qTMcw6mJn18FhdmvhHDpH) | [La timba la pongo yo](https://open.spotify.com/album/15DFYO0nRzC4hfvAPlAG3g) | 3:05 |
+| 351 | [Horror](https://open.spotify.com/track/5nPn983ZIDMVrA8ZHxkHQ8) | [Jodye Faneto](https://open.spotify.com/artist/3v6SQTs83vlDVAIcQgs1r6) | [Horror](https://open.spotify.com/album/4ijMFM3IBYeNEfKkWX3qQP) | 2:22 |
+| 352 | [Caral](https://open.spotify.com/track/6abL28H0A5muvw4b4FtnT6) | [LYSERIUS](https://open.spotify.com/artist/6TSYnE6dlIHSSJ1aOxHcpp) | [Caral](https://open.spotify.com/album/0oK9L6z2HCW9bjh4y8BTyd) | 8:18 |
+| 353 | [Credits](https://open.spotify.com/track/08xOFmTJcF3M8b1r3XE5bQ) | [Riller](https://open.spotify.com/artist/2iLUU22DqBx4z35DRcnpmL) | [Credits](https://open.spotify.com/album/2NtgVixfWHgXwzCRxBKCZh) | 3:02 |
+| 354 | [Scamper](https://open.spotify.com/track/33cvxWouRD7uwhefSJfqXv) | [Constant Vertex](https://open.spotify.com/artist/5EL7W7lWmcIk3jhTIoPNoM) | [Disorder](https://open.spotify.com/album/5oRozT9emswgPLn4mjlNGz) | 3:15 |
+| 355 | [All the Days](https://open.spotify.com/track/1JKMMx5g3ShrVa0R7vjdqU) | [Tanya Winch](https://open.spotify.com/artist/0aWKzDAfDE0e9YAJ75fW51) | [All the Days](https://open.spotify.com/album/0Y08f2d57uXxG4dj1zIzHf) | 5:08 |
 
-Snapshot ID: `AAAed2/87TWWc/FHYfwD6p4RfKXPUTsW`
+Snapshot ID: `AAAefGvKoMwoZgJLf0lqCkMacmncWcGX`

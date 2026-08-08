@@ -2,7 +2,7 @@
 
 ### [Disney Princess](https://open.spotify.com/playlist/37i9dQZF1DX9fDcF6S4tuJ)
 
-> Embrace your inner Princess with your favorite Disney Princess songs including "I Am Moana." Disney's Moana, in theaters soon.
+> Music from all your favorite Disney Princesses, in one place!
 
 83 songs - 4 hr 3 min
 

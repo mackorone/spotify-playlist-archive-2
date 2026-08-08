@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E3bYEzXAcD.md) - [plain]
 
 > OYSTER kiest 20 tunes!  zomer ID: 🚗 dakje open\. <a href="spotify:genre:0JQ5DAqbMKFHoCrqEupC7P">Welke zomer ID ben jij?</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,513 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,522 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E3bYEzXAcD.md) - [plain]
 | 49 | [Range Sessie](https://open.spotify.com/track/6JEdbFSIuOI4P67EwomHu8) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Slaaptekort](https://open.spotify.com/album/62mwenWca7ZVvsUFaHYNwu) | 3:41 |
 | 50 | [Accepteren](https://open.spotify.com/track/6X2PJ1oPEf4GUcmyBuPOwm) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk) | [Levensles](https://open.spotify.com/album/4sBPiyibzraYzKn7MwPm2p) | 3:20 |
 
-Snapshot ID: `AAAAADt8iISIcKnnAzjQKRa5xNGqG4cY`
+Snapshot ID: `AAAAANWX7NRbPM0VSrBZPwtMahmIcShn`

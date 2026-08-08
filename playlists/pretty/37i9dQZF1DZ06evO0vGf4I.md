@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vGf4I.md) - [plain]
 
 > This is Travis Scott\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,633,337 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,633,362 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vGf4I.md) - [plain]
 | 38 | [TIL FURTHER NOTICE \(feat\. James Blake & 21 Savage\)](https://open.spotify.com/track/76gcXhY3Zv6wW0BTe9nHJo) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 5:14 |
 | 39 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 |
 | 40 | [When I’m Home](https://open.spotify.com/track/5nigMKgXqeNvaiqEBWwo9s) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Odyssey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR) | 5:26 |
-| 41 | [Raindrops \(Insane\) \[with Travis Scott\]](https://open.spotify.com/track/1pacwLXyRO47ka0v6LTIiY) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:08 |
-| 42 | [Dark Knight Dummo \(feat\. Travis Scott\)](https://open.spotify.com/track/1pfwOQKJsRRBf6NdYO4Qog) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [LIFE'S A TRIP](https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL) | 4:16 |
+| 41 | [Dark Knight Dummo \(feat\. Travis Scott\)](https://open.spotify.com/track/1pfwOQKJsRRBf6NdYO4Qog) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [LIFE'S A TRIP](https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL) | 4:16 |
+| 42 | [Raindrops \(Insane\) \[with Travis Scott\]](https://open.spotify.com/track/1pacwLXyRO47ka0v6LTIiY) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:08 |
 | 43 | [KICK OUT](https://open.spotify.com/track/2LgrNOU8GQYASgz7lIDVt3) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/5GBAHu7EH8HWX5tBCjL0SA) | 2:50 |
 | 44 | [Drugs You Should Try It](https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 3:28 |
 | 45 | [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vGf4I.md) - [plain]
 | 49 | [No Sense](https://open.spotify.com/track/5L9WFUodzACitS1TiGm7Mi) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 4:35 |
 | 50 | [TOPIA TWINS \(feat\. Rob49 & 21 Savage\)](https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:43 |
 
-Snapshot ID: `anJ9AAAAAABO6SX2nyzgQlrQAlevKBsg`
+Snapshot ID: `anPOgAAAAABhvY82ZNEvExq+GScY2vpP`

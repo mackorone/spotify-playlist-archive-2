@@ -1,12 +1,12 @@
 {
   "description": "Noi e il tuo specchio non ti giudicheremo mai, promesso \ud83e\udd1e\ud83c\udffc",
-  "num_followers": 366907,
+  "num_followers": 366926,
   "original_name": "Hit da cantare (come se nessuno ti stesse guardando)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALh7AMBFwy23blRvy8EeBkuHgip1",
+  "snapshot_id": "AAAAAJ50yfWDJxsnvPDmKy4ZE6R5D/tY",
   "tracks": [
     {
       "added_at": "2026-01-15 13:13:46",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-01-15 13:13:46",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Someone You Loved",
-      "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
-    },
-    {
-      "added_at": "2026-01-15 13:13:46",
-      "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+    },
+    {
+      "added_at": "2026-01-15 13:13:46",
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
     },
     {
       "added_at": "2026-01-15 13:13:46",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-01-15 13:13:46",
       "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "Call Me Maybe",
-      "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
-    },
-    {
-      "added_at": "2026-01-15 13:13:46",
-      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -443,18 +427,18 @@
     {
       "added_at": "2026-01-15 13:13:46",
       "album": {
-        "name": "Abbey Road (Remastered)",
-        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
         }
       ],
-      "duration_ms": 185733,
-      "name": "Here Comes The Sun - Remastered 2009",
-      "url": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2"
+      "duration_ms": 193400,
+      "name": "Call Me Maybe",
+      "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
     },
     {
       "added_at": "2026-01-15 13:13:46",
@@ -471,6 +455,22 @@
       "duration_ms": 242946,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
+    },
+    {
+      "added_at": "2026-01-15 13:13:46",
+      "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 185733,
+      "name": "Here Comes The Sun - Remastered 2009",
+      "url": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2"
     },
     {
       "added_at": "2026-01-15 13:13:46",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-01-15 13:13:46",
       "album": {
-        "name": "Jazz (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "Don't Stop Me Now - Remastered 2011",
-      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
-    },
-    {
-      "added_at": "2026-01-15 13:13:46",
-      "album": {
         "name": "Takin' It Back",
         "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
       },
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2026-01-15 13:13:46",
       "album": {
+        "name": "Jazz (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
+    },
+    {
+      "added_at": "2026-01-15 13:13:46",
+      "album": {
         "name": "Dancing With A Stranger (with Normani)",
         "url": "https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL"
       },
@@ -1039,6 +1039,22 @@
       "duration_ms": 171029,
       "name": "Dancing With A Stranger (with Normani)",
       "url": "https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki"
+    },
+    {
+      "added_at": "2026-01-15 13:13:46",
+      "album": {
+        "name": "I AM...SASHA FIERCE - Platinum Edition",
+        "url": "https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 249866,
+      "name": "If I Were a Boy",
+      "url": "https://open.spotify.com/track/1oQZk2bKBLgP1cbuFKvjkq"
     },
     {
       "added_at": "2026-01-15 13:13:46",
@@ -1063,18 +1079,18 @@
     {
       "added_at": "2026-01-15 13:13:46",
       "album": {
-        "name": "I AM...SASHA FIERCE - Platinum Edition",
-        "url": "https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9"
+        "name": "Out Of Our Heads",
+        "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 249866,
-      "name": "If I Were a Boy",
-      "url": "https://open.spotify.com/track/1oQZk2bKBLgP1cbuFKvjkq"
+      "duration_ms": 222813,
+      "name": "(I Can't Get No) Satisfaction - Mono",
+      "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
     },
     {
       "added_at": "2026-01-15 13:13:46",
@@ -1091,22 +1107,6 @@
       "duration_ms": 177348,
       "name": "AMOR",
       "url": "https://open.spotify.com/track/7vc09IDmFH0MfyPYHPEWRM"
-    },
-    {
-      "added_at": "2026-01-15 13:13:46",
-      "album": {
-        "name": "Out Of Our Heads",
-        "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 222813,
-      "name": "(I Can't Get No) Satisfaction - Mono",
-      "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
     },
     {
       "added_at": "2026-01-15 13:13:46",

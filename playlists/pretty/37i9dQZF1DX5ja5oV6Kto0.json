@@ -1,12 +1,12 @@
 {
   "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Zaylevelten ",
-  "num_followers": 112981,
+  "num_followers": 113001,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANhfrOaUIkZZu4ID4He6qUeljGHs",
+  "snapshot_id": "AAAAAIdNZcmvTJwAHG1/BORijlntVhFC",
   "tracks": [
     {
       "added_at": "2026-08-07 00:01:28",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-08-07 00:01:28",
       "album": {
-        "name": "REVIVAL",
-        "url": "https://open.spotify.com/album/3CQixxEVLChY4ILKkS1QmM"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        }
-      ],
-      "duration_ms": 178861,
-      "name": "J\u00f3",
-      "url": "https://open.spotify.com/track/60iZfOsrls9EXquR0MK2Q2"
-    },
-    {
-      "added_at": "2026-08-07 00:01:28",
-      "album": {
         "name": "Dide",
         "url": "https://open.spotify.com/album/5dB8XJyUhDbjfEZa0yxoS6"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 121025,
       "name": "Dide",
       "url": "https://open.spotify.com/track/2wMklzdPVo20FNBwNB0Q6E"
+    },
+    {
+      "added_at": "2026-08-07 00:01:28",
+      "album": {
+        "name": "REVIVAL",
+        "url": "https://open.spotify.com/album/3CQixxEVLChY4ILKkS1QmM"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "duration_ms": 178861,
+      "name": "J\u00f3",
+      "url": "https://open.spotify.com/track/60iZfOsrls9EXquR0MK2Q2"
     },
     {
       "added_at": "2026-08-07 00:01:28",
@@ -819,54 +819,6 @@
     {
       "added_at": "2026-08-07 00:01:28",
       "album": {
-        "name": "Heaven On Earth",
-        "url": "https://open.spotify.com/album/3EZETRmlze91iyz6HoyHfX"
-      },
-      "artists": [
-        {
-          "name": "IkeN",
-          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
-        }
-      ],
-      "duration_ms": 235636,
-      "name": "Heaven On Earth",
-      "url": "https://open.spotify.com/track/7r9qkWxCONSuZ3tDYrIBFi"
-    },
-    {
-      "added_at": "2026-08-07 00:01:28",
-      "album": {
-        "name": "BE",
-        "url": "https://open.spotify.com/album/6A8NgDp8BJR3tZEi268RiP"
-      },
-      "artists": [
-        {
-          "name": "Amaeya",
-          "url": "https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "BE",
-      "url": "https://open.spotify.com/track/2RMChoPeNN7CaPUD4QfsED"
-    },
-    {
-      "added_at": "2026-08-07 00:01:28",
-      "album": {
-        "name": "impossible",
-        "url": "https://open.spotify.com/album/0djaWlKgbcCWTQkkUxgY7M"
-      },
-      "artists": [
-        {
-          "name": "Tochi Bedford",
-          "url": "https://open.spotify.com/artist/1zeUMAJrOoMdWjU0BErMzn"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "impossible",
-      "url": "https://open.spotify.com/track/2vE3z6XBUsLuUgIA0MVbUe"
-    },
-    {
-      "added_at": "2026-08-07 00:01:28",
-      "album": {
         "name": "How Do The Flowers Bloom?",
         "url": "https://open.spotify.com/album/0zAYL4Km3huGSPB77FUobM"
       },
@@ -887,18 +839,50 @@
     {
       "added_at": "2026-08-07 00:01:28",
       "album": {
-        "name": "Do Not Disturb (DND)",
-        "url": "https://open.spotify.com/album/3uoKJof8T6N1Tkfr1nwfNy"
+        "name": "Heaven On Earth",
+        "url": "https://open.spotify.com/album/3EZETRmlze91iyz6HoyHfX"
       },
       "artists": [
         {
-          "name": "Lovn",
-          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
+          "name": "IkeN",
+          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
         }
       ],
-      "duration_ms": 172035,
-      "name": "Do Not Disturb (DND)",
-      "url": "https://open.spotify.com/track/31sL8nRhXMo4wtBNSMtrho"
+      "duration_ms": 235636,
+      "name": "Heaven On Earth",
+      "url": "https://open.spotify.com/track/7r9qkWxCONSuZ3tDYrIBFi"
+    },
+    {
+      "added_at": "2026-08-07 00:01:28",
+      "album": {
+        "name": "impossible",
+        "url": "https://open.spotify.com/album/0djaWlKgbcCWTQkkUxgY7M"
+      },
+      "artists": [
+        {
+          "name": "Tochi Bedford",
+          "url": "https://open.spotify.com/artist/1zeUMAJrOoMdWjU0BErMzn"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "impossible",
+      "url": "https://open.spotify.com/track/2vE3z6XBUsLuUgIA0MVbUe"
+    },
+    {
+      "added_at": "2026-08-07 00:01:28",
+      "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6A8NgDp8BJR3tZEi268RiP"
+      },
+      "artists": [
+        {
+          "name": "Amaeya",
+          "url": "https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "BE",
+      "url": "https://open.spotify.com/track/2RMChoPeNN7CaPUD4QfsED"
     },
     {
       "added_at": "2026-08-07 00:01:28",
@@ -915,6 +899,22 @@
       "duration_ms": 165415,
       "name": "Greedy",
       "url": "https://open.spotify.com/track/5cAMVFzVl7GqwZSrZkShoE"
+    },
+    {
+      "added_at": "2026-08-07 00:01:28",
+      "album": {
+        "name": "Do Not Disturb (DND)",
+        "url": "https://open.spotify.com/album/3uoKJof8T6N1Tkfr1nwfNy"
+      },
+      "artists": [
+        {
+          "name": "Lovn",
+          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
+        }
+      ],
+      "duration_ms": 172035,
+      "name": "Do Not Disturb (DND)",
+      "url": "https://open.spotify.com/track/31sL8nRhXMo4wtBNSMtrho"
     },
     {
       "added_at": "2026-08-07 00:01:28",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2026-08-07 00:01:28",
       "album": {
+        "name": "You're A Star",
+        "url": "https://open.spotify.com/album/2z4yesGQgMTNIHE4VFaYHT"
+      },
+      "artists": [
+        {
+          "name": "Kofee Bean",
+          "url": "https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV"
+        },
+        {
+          "name": "Supa Gaeta",
+          "url": "https://open.spotify.com/artist/7icmABGIHlSbuTXU206Obz"
+        }
+      ],
+      "duration_ms": 159190,
+      "name": "You're A Star",
+      "url": "https://open.spotify.com/track/1eiDVyDcfUZgmFROdnXz0Z"
+    },
+    {
+      "added_at": "2026-08-07 00:01:28",
+      "album": {
         "name": "Burtifly",
         "url": "https://open.spotify.com/album/0Dzx6g6v2rK8Pem6xfmZz5"
       },
@@ -1275,6 +1295,22 @@
     {
       "added_at": "2026-08-07 00:01:28",
       "album": {
+        "name": "Whiskey & a Blunt",
+        "url": "https://open.spotify.com/album/6ejb87TbQintXVwaH86EUB"
+      },
+      "artists": [
+        {
+          "name": "Juma Mufasa",
+          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
+        }
+      ],
+      "duration_ms": 121846,
+      "name": "Whiskey & a Blunt",
+      "url": "https://open.spotify.com/track/5mTGjHrAin8zH1TEmSnfHu"
+    },
+    {
+      "added_at": "2026-08-07 00:01:28",
+      "album": {
         "name": "Arewa Rockstar",
         "url": "https://open.spotify.com/album/5jaXB5pxa9NM9mKoCir61A"
       },
@@ -1303,42 +1339,6 @@
     {
       "added_at": "2026-08-07 00:01:28",
       "album": {
-        "name": "You're A Star",
-        "url": "https://open.spotify.com/album/2z4yesGQgMTNIHE4VFaYHT"
-      },
-      "artists": [
-        {
-          "name": "Kofee Bean",
-          "url": "https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV"
-        },
-        {
-          "name": "Supa Gaeta",
-          "url": "https://open.spotify.com/artist/7icmABGIHlSbuTXU206Obz"
-        }
-      ],
-      "duration_ms": 159190,
-      "name": "You're A Star",
-      "url": "https://open.spotify.com/track/1eiDVyDcfUZgmFROdnXz0Z"
-    },
-    {
-      "added_at": "2026-08-07 00:01:28",
-      "album": {
-        "name": "Whiskey & a Blunt",
-        "url": "https://open.spotify.com/album/6ejb87TbQintXVwaH86EUB"
-      },
-      "artists": [
-        {
-          "name": "Juma Mufasa",
-          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
-        }
-      ],
-      "duration_ms": 121846,
-      "name": "Whiskey & a Blunt",
-      "url": "https://open.spotify.com/track/5mTGjHrAin8zH1TEmSnfHu"
-    },
-    {
-      "added_at": "2026-08-07 00:01:28",
-      "album": {
         "name": "Only Water (Feat. Lady Donli)",
         "url": "https://open.spotify.com/album/7MEBWGWCwubTCxXZcis1wF"
       },
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-08-07 00:01:28",
       "album": {
-        "name": "Bad Decision",
-        "url": "https://open.spotify.com/album/6H5P86FsOUGSNamxMUYk2A"
-      },
-      "artists": [
-        {
-          "name": "Maali",
-          "url": "https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "Bad Decision",
-      "url": "https://open.spotify.com/track/7BkG45C1yI14XPRkGQckqo"
-    },
-    {
-      "added_at": "2026-08-07 00:01:28",
-      "album": {
         "name": "LUCKY UU",
         "url": "https://open.spotify.com/album/7jyadlhqz4EylDsyD77vwx"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 186818,
       "name": "The Midnight Wanderer",
       "url": "https://open.spotify.com/track/1WiAWAb50cD1eLqstTFer4"
+    },
+    {
+      "added_at": "2026-08-07 00:01:28",
+      "album": {
+        "name": "Bad Decision",
+        "url": "https://open.spotify.com/album/6H5P86FsOUGSNamxMUYk2A"
+      },
+      "artists": [
+        {
+          "name": "Maali",
+          "url": "https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Bad Decision",
+      "url": "https://open.spotify.com/track/7BkG45C1yI14XPRkGQckqo"
     },
     {
       "added_at": "2026-08-07 00:01:28",
@@ -1439,22 +1439,22 @@
     {
       "added_at": "2026-08-07 00:01:28",
       "album": {
-        "name": "Modern Fantasy",
-        "url": "https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy"
+        "name": "AZUMA!",
+        "url": "https://open.spotify.com/album/2Gaon2OnKHasvus5BD77ji"
       },
       "artists": [
         {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+          "name": "Nana Owusu",
+          "url": "https://open.spotify.com/artist/2AZLdjtb1CsfDh7n59PdZo"
         },
         {
-          "name": "Raytheboffin",
-          "url": "https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r"
+          "name": "BRYAN THE MENSAH",
+          "url": "https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2"
         }
       ],
-      "duration_ms": 212903,
-      "name": "Modern man",
-      "url": "https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y"
+      "duration_ms": 165245,
+      "name": "AZUMA!",
+      "url": "https://open.spotify.com/track/364eJvx7pljEHsDQuEOudz"
     },
     {
       "added_at": "2026-08-07 00:01:28",
@@ -1483,22 +1483,22 @@
     {
       "added_at": "2026-08-07 00:01:28",
       "album": {
-        "name": "AZUMA!",
-        "url": "https://open.spotify.com/album/2Gaon2OnKHasvus5BD77ji"
+        "name": "Modern Fantasy",
+        "url": "https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy"
       },
       "artists": [
         {
-          "name": "Nana Owusu",
-          "url": "https://open.spotify.com/artist/2AZLdjtb1CsfDh7n59PdZo"
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
         },
         {
-          "name": "BRYAN THE MENSAH",
-          "url": "https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2"
+          "name": "Raytheboffin",
+          "url": "https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r"
         }
       ],
-      "duration_ms": 165245,
-      "name": "AZUMA!",
-      "url": "https://open.spotify.com/track/364eJvx7pljEHsDQuEOudz"
+      "duration_ms": 212903,
+      "name": "Modern man",
+      "url": "https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y"
     },
     {
       "added_at": "2026-08-07 00:01:28",

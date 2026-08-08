@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-230 songs - 13 hr 0 min
+231 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,8 @@
 | [Moment](https://open.spotify.com/track/1FbZA1NUgt5VwTcLF2VlDw) | [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [FAME](https://open.spotify.com/album/3pF80DknR77Qb9gyd1CXM9) | 3:13 | 2024-01-29 |  |
 | [Mother & Father](https://open.spotify.com/track/3Nttjgkm2lDCRVFpMh22hv) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 3:07 | 2024-01-29 |  |
 | [Muscle](https://open.spotify.com/track/1CVh1re4QmrSmZ47cDiwz3) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Night Call \(Deluxe\)](https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC) | 3:07 | 2024-01-29 |  |
-| [My House](https://open.spotify.com/track/3B2X3bGdGclGZyR7EskZMC) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [My House](https://open.spotify.com/album/0BxEHJZBEsUQu4Tzz6eIDC) | 3:57 | 2024-01-29 |  |
+| [My House](https://open.spotify.com/track/3B2X3bGdGclGZyR7EskZMC) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [My House](https://open.spotify.com/album/0BxEHJZBEsUQu4Tzz6eIDC) | 3:57 | 2024-01-29 | 2026-08-08 |
+| [My House](https://open.spotify.com/track/41YvYKQyF7hyx11bI3OHiU) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 3:58 | 2026-08-07 |  |
 | [My Only \- Australian Version](https://open.spotify.com/track/01VFBMQLUpPQNToSqz2eIW) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always and Never](https://open.spotify.com/album/4p71f2M9TBAKbJC6F2eVu0) | 2:32 | 2024-11-10 |  |
 | [My Only \- Australian Version](https://open.spotify.com/track/2CWbf5NVt0SaqZgcAlnRss) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always And Never](https://open.spotify.com/album/0WMrKEAvHgKZAVz1LEZgwF) | 2:32 | 2024-01-29 | 2024-11-11 |
 | [Nerves](https://open.spotify.com/track/75QYZC0KgNZ2Kt7CZTtSsB) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/67NWJ3RuWpPohz3zvJmmOb) | 3:20 | 2024-01-29 |  |

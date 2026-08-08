@@ -1,12 +1,12 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 127290,
+  "num_followers": 127316,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOMLkJ+D4VSeJgTjRFfg/K9bRLV5",
+  "snapshot_id": "AAAAAM4be/ePbWFS/IzHKRls/9wykklh",
   "tracks": [
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/3Sgf6BKnsUYi1NhceV8Xgf"
+      },
+      "artists": [
+        {
+          "name": "Grupo Hechizo Chile",
+          "url": "https://open.spotify.com/artist/0vPUBMfIYujmPFD1OwdfTM"
+        }
+      ],
+      "duration_ms": 192496,
+      "name": "Romance Ilegal",
+      "url": "https://open.spotify.com/track/1hIO3CXZoRqO2457LOCAJt"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/5A55xJHGGZqrwiXvSF47iM"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 421026,
       "name": "Solo por Ella / Ya Te Olvide - Mujer",
       "url": "https://open.spotify.com/track/3I9THaUgfGOZh21DxuvJEx"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
-        "name": "Plato \u00danico Bailable",
-        "url": "https://open.spotify.com/album/14cao29REfwt7L3liH4hQh"
-      },
-      "artists": [
-        {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
-        }
-      ],
-      "duration_ms": 188053,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
+        "name": "Plato \u00danico Bailable",
+        "url": "https://open.spotify.com/album/14cao29REfwt7L3liH4hQh"
+      },
+      "artists": [
+        {
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
+        }
+      ],
+      "duration_ms": 188053,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
         "name": "Alg\u00fan D\u00eda Volver\u00e1s",
         "url": "https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i"
       },
@@ -1695,26 +1711,6 @@
       "duration_ms": 356938,
       "name": "La Santa Diabla",
       "url": "https://open.spotify.com/track/4FeUB6lhoT0Z3e43IHD4F8"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
-        "name": "Adi\u00f3s Amor",
-        "url": "https://open.spotify.com/album/14am71BKAcj6UvGOIXoo6e"
-      },
-      "artists": [
-        {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 259910,
-      "name": "Adi\u00f3s Amor",
-      "url": "https://open.spotify.com/track/367069JY6QWPaCJM21OVBC"
     },
     {
       "added_at": "2025-11-20 11:23:04",

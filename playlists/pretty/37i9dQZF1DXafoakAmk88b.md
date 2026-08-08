@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie from black artists driving the current\. Cover: girlsweetvoiced
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,487 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,488 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 47 | [Madonna](https://open.spotify.com/track/0cmFvQp6vy6TuwcGGdACZ6) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Hole Erth](https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe) | 2:52 |
 | 48 | [Emotions](https://open.spotify.com/track/5MIjWtoQYHEifN8KGHuPAU) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Like A Ribbon](https://open.spotify.com/album/7C0m3PiCmlHtpCVG0cwzwC) | 3:24 |
 | 49 | [Mononoke](https://open.spotify.com/track/5TWmdXXBJkNDZzRA94PwAr) | [Gabriela Richardson](https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu) | [Mononoke](https://open.spotify.com/album/6AVZ4BTxiIOhUdOve4Ops1) | 3:27 |
-| 50 | [You're Bleeding Everywhere](https://open.spotify.com/track/7Cz3M9HDUviKMdY3JOO1EC) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 3:46 |
+| 50 | [Petty Pete](https://open.spotify.com/track/3AoRetRPhYJ9dcBCXIXBD5) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Petty Pete](https://open.spotify.com/album/4Ofb1xAGY7BRXi5CCcWNg1) | 2:40 |
 
-Snapshot ID: `AAAAAM6UgFWm+QyO83YwIa6Cvs/3EW7+`
+Snapshot ID: `AAAAACy78GwnkbsDp7lZenPLss3iDy8K`

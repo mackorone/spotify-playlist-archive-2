@@ -723,6 +723,24 @@
     },
     {
       "album": {
+        "name": "Ain't In LA",
+        "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184927,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
+    },
+    {
+      "album": {
         "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
         "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
       },
@@ -3492,6 +3510,24 @@
       "duration_ms": 186106,
       "name": "boyfriend (with Social House)",
       "url": "https://open.spotify.com/track/0Ryd8975WihbObpp5cPW1t"
+    },
+    {
+      "album": {
+        "name": "brand new chanel$",
+        "url": "https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238505,
+      "name": "brand new chanel$",
+      "url": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2"
     },
     {
       "album": {
@@ -16556,7 +16592,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 223332,
       "name": "Mexico Honey",
       "url": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
@@ -19969,6 +20005,24 @@
     },
     {
       "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184248,
+      "name": "petal",
+      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
+    },
+    {
+      "album": {
         "name": "Physical",
         "url": "https://open.spotify.com/album/2U2oPaAXBB5oD0SW97HBo6"
       },
@@ -20194,7 +20248,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 138346,
       "name": "POP DAT THANG",
       "url": "https://open.spotify.com/track/0QgwjxR1VchizzckKXwyBu"
@@ -22750,7 +22804,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 176957,
       "name": "Show Me Love (with Tyla)",
       "url": "https://open.spotify.com/track/22YkP95GjCfXkWKyU5k1zZ"
@@ -24191,6 +24245,24 @@
     },
     {
       "album": {
+        "name": "Who's the Clown?",
+        "url": "https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP"
+      },
+      "artists": [
+        {
+          "name": "Audrey Hobert",
+          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170320,
+      "name": "Sue me",
+      "url": "https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy"
+    },
+    {
+      "album": {
         "name": "Sue me",
         "url": "https://open.spotify.com/album/73xv206EqdQ3iDNjpiSkkq"
       },
@@ -25356,7 +25428,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 221653,
       "name": "Taste Back",
       "url": "https://open.spotify.com/track/3xClevycpBON8bkyxFbAna"

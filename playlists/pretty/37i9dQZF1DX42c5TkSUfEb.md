@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 
 > La playlist idéale pour se détendre en musique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 894,265 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 894,237 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,11 +84,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 74 | [One More Second](https://open.spotify.com/track/6T8pTLAnRiN4LZKhN5ZrKE) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [One More Second](https://open.spotify.com/album/11wtIwzSbBoVffQGIEWfIN) | 5:22 |
 | 75 | [paradox](https://open.spotify.com/track/7caBLs17zpDr8qfRPoTPw3) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [paradox](https://open.spotify.com/album/3pexxVelQfabVmGJNTmq24) | 5:09 |
 | 76 | [Moon Not Mine](https://open.spotify.com/track/1r8plFPk6rUylJmclniQAM) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Singing](https://open.spotify.com/album/1h0ikRmxNYZFYR0s7xurzf) | 3:37 |
-| 77 | [Opening Night](https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Opening Night](https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr) | 3:31 |
-| 78 | [and we’ll leave it there…](https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Ella McRobb](https://open.spotify.com/artist/0NswlnGI3k9W3MHn5dEjdw) | [and we’ll leave it there…](https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d) | 3:39 |
+| 77 | [and we’ll leave it there…](https://open.spotify.com/track/55k261ZvchUvKnC62TYwK9) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Ella McRobb](https://open.spotify.com/artist/0NswlnGI3k9W3MHn5dEjdw) | [and we’ll leave it there…](https://open.spotify.com/album/1b7UmY5gAuMFrcotfQ8G6d) | 3:39 |
+| 78 | [Opening Night](https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Opening Night](https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr) | 3:31 |
 | 79 | [I Believe](https://open.spotify.com/track/2bntXLsnPeFoP4tC6IZGEK) | [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [Things I've Seen](https://open.spotify.com/album/2ptUS7vVvBKOD5PUSXZsGi) | 2:37 |
-| 80 | [only human](https://open.spotify.com/track/4EPemjVgAz4YbDgaRYUdta) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [only human](https://open.spotify.com/album/5qCvxLDPjQ7IPZz9IIhZgm) | 3:34 |
-| 81 | [Feel Myself](https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feel Myself / Wait For You](https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F) | 2:44 |
+| 80 | [Feel Myself](https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feel Myself / Wait For You](https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F) | 2:44 |
+| 81 | [only human](https://open.spotify.com/track/4EPemjVgAz4YbDgaRYUdta) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [only human](https://open.spotify.com/album/5qCvxLDPjQ7IPZz9IIhZgm) | 3:34 |
 | 82 | [Paris\-Madrid](https://open.spotify.com/track/0GMy6l9kM3Ll0ZMmnGjqFR) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9), [Inazio](https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl) | [Paris\-Madrid](https://open.spotify.com/album/3E2yaamBfiBRJ0EeL45NvH) | 3:19 |
 | 83 | [Brown Eyes](https://open.spotify.com/track/0E3JebQh1CbRvY9zPc668m) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Brown Eyes](https://open.spotify.com/album/42hKD3BSIxJEHJAsD6RwsE) | 3:17 |
 | 84 | [echo](https://open.spotify.com/track/79GcoDCWzmUB64NukpaMhh) | [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Mixtape Telecom](https://open.spotify.com/album/5iuLIPxKzU0X9FjaQLwN9r) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 99 | [If Only](https://open.spotify.com/track/5R0H0SoA4ZMGhdOfZTFjHR) | [Aiden](https://open.spotify.com/artist/4hQe9URLHobODCosOur1Ma) | [If Only](https://open.spotify.com/album/7d05HveiLG4742vBLElcSE) | 3:06 |
 | 100 | [On dansera encore](https://open.spotify.com/track/3FxG5LgtVQdWxaahxkdJgm) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [On dansera encore](https://open.spotify.com/album/7MTGS8vjJPrGfkEJIZfLJo) | 3:02 |
 
-Snapshot ID: `AAAAAECflapogh6dGRaFVZrUsas4M1aJ`
+Snapshot ID: `AAAAAAsDZBq47q8JOk14DEADVI4QMsk4`

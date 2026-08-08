@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gor\u0105ce nowo\u015bci i przeboje od \u015bwiatowych gwiazd muzyki pop. Cover: Robyn, Zara Larsson",
+  "description": "Gor\u0105ce nowo\u015bci i przeboje od \u015bwiatowych gwiazd muzyki pop. Cover: KAROL G",
   "name": "TOP POP 2026",
   "tracks": [
     {
@@ -5541,6 +5541,24 @@
     },
     {
       "album": {
+        "name": "Blue Island",
+        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "In & Out",
+      "url": "https://open.spotify.com/track/6KLLoGHAIYPfNYfRo4U1Ql"
+    },
+    {
+      "album": {
         "name": "In Another World",
         "url": "https://open.spotify.com/album/2PKwr5WeVaZlX6coR33aQ3"
       },
@@ -5722,7 +5740,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 187714,
       "name": "IS IT LOVE",
       "url": "https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d"
@@ -6610,6 +6628,24 @@
       "duration_ms": 181806,
       "name": "Loser",
       "url": "https://open.spotify.com/track/4NraHNL2oA3V88uAjIKqOu"
+    },
+    {
+      "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA"
     },
     {
       "album": {
@@ -8366,7 +8402,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 159771,
       "name": "PASSENGER",
       "url": "https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH"
@@ -9185,6 +9221,24 @@
     },
     {
       "album": {
+        "name": "RESCUER",
+        "url": "https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199166,
+      "name": "RESCUER",
+      "url": "https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye"
+    },
+    {
+      "album": {
         "name": "So Close To What",
         "url": "https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP"
       },
@@ -9376,7 +9430,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 209000,
       "name": "RUN IT",
       "url": "https://open.spotify.com/track/0ZYs2sRaCVomWCYP2PGH1j"
@@ -10494,6 +10548,28 @@
       "duration_ms": 255915,
       "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
       "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
+    },
+    {
+      "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220600,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF"
     },
     {
       "album": {

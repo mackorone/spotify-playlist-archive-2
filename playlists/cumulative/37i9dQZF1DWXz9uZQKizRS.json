@@ -21819,6 +21819,24 @@
     },
     {
       "album": {
+        "name": "Poczeka\u0142",
+        "url": "https://open.spotify.com/album/5hPeiqfWsxqUf6T0FzCrOE"
+      },
+      "artists": [
+        {
+          "name": "Odet",
+          "url": "https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180952,
+      "name": "Poczeka\u0142",
+      "url": "https://open.spotify.com/track/0bqpsSIM5UKnWrqQZ36u7e"
+    },
+    {
+      "album": {
         "name": "Pod czerwonym niebem",
         "url": "https://open.spotify.com/album/0o6ZJZEbk0FzH5RiQ0qJ6w"
       },

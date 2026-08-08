@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 
 > Lo mejor de los '70\. Foto: Ismael Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,035 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,082 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 34 | [Estamos en Salsa](https://open.spotify.com/track/4WkSEWIBJGXYQvPPgFdK64) | [Wayne Gorbea](https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD) | [La Salsa](https://open.spotify.com/album/3xAW3AUVOVmrWFse5Oo25G) | 4:50 |
 | 35 | [Yerberito Moderno](https://open.spotify.com/track/3IguFq76qBArN1TUBmA8dV) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Cuba](https://open.spotify.com/album/7C4Ju0QXdGSv9zquXxCktP) | 2:41 |
 | 36 | [Mi Gente](https://open.spotify.com/track/5K9yjxT0XGQbmD5GzjmqYz) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [La Voz](https://open.spotify.com/album/2Y2Kj57DPjmxAVgDRhLxrx) | 5:28 |
-| 37 | [Anacaona](https://open.spotify.com/track/7wYjQQeClyDQAug88iyMco) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Ponte Duro The Fania All Stars Story](https://open.spotify.com/album/4934XFQ9ZYdoK3R42MEwcv) | 7:17 |
-| 38 | [La Murga](https://open.spotify.com/track/54xmNCGfRurgboyVUkdyPa) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Asalto Navideño](https://open.spotify.com/album/6s2mOYixTdw49iz5CAObaI) | 5:34 |
+| 37 | [La Murga](https://open.spotify.com/track/54xmNCGfRurgboyVUkdyPa) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Asalto Navideño](https://open.spotify.com/album/6s2mOYixTdw49iz5CAObaI) | 5:34 |
+| 38 | [Anacaona](https://open.spotify.com/track/7wYjQQeClyDQAug88iyMco) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Ponte Duro The Fania All Stars Story](https://open.spotify.com/album/4934XFQ9ZYdoK3R42MEwcv) | 7:17 |
 | 39 | [Juliana](https://open.spotify.com/track/4HORNZa8fdeg2pjJBm51Zz) | [Cuco Valoy](https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE) | [Salsas Grandes Éxitos](https://open.spotify.com/album/5TZ0b6WVre1uW94NxmI4WP) | 4:20 |
 | 40 | [Traigo De Todo](https://open.spotify.com/track/4YJY8jFr8QKWKJaJVHqBAH) | [Ismael Rivera Y Sus Cachimbos](https://open.spotify.com/artist/0Hwc5FADPWA6QkkQuUYV93) | [Traigo De Todo](https://open.spotify.com/album/2LcTqOXdADXCBBQd6gcYkJ) | 4:22 |
 | 41 | [Aguanile](https://open.spotify.com/track/3EVhVW2ixQuzt92qmFWGD6) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Hector Lavoe El Cantante \-The Originals](https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4) | 6:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zJGRjWhK7Q.md) - [plain]
 | 49 | [El Nazareno](https://open.spotify.com/track/062vOe8esScYEDw4cPvBxs) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [La Herencia](https://open.spotify.com/album/7C94KIrL1IS3hHQwQ9BbGr) | 5:36 |
 | 50 | [Comedia](https://open.spotify.com/track/2HEtouKKbiZSOnZJmYj1h0) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Comedia](https://open.spotify.com/album/3TZvhtRWCC83hHykgTmu6G) | 3:31 |
 
-Snapshot ID: `AAAAAAFquELtFfMXxsq/szIqRkqTWtMz`
+Snapshot ID: `AAAAAG+jx79N+Ry98WKMqBTwrO3I3glj`

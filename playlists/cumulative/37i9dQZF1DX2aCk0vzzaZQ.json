@@ -1799,6 +1799,32 @@
     },
     {
       "album": {
+        "name": "Schumann: Complete Symphonies",
+        "url": "https://open.spotify.com/album/2vF3gEkqw232vquagLSjtk"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360066,
+      "name": "Symphony No. 4 in D Minor, Op. 120: III. Scherzo: Lebhaft",
+      "url": "https://open.spotify.com/track/6We190ROKii3KDegnfKPHv"
+    },
+    {
+      "album": {
         "name": "Mozart: Symphony No. 40 in G Minor, K. 550: I. Molto allegro",
         "url": "https://open.spotify.com/album/5ftkdxmHWSA3H7c8E8tVat"
       },

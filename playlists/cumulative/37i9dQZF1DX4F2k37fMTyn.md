@@ -2,9 +2,9 @@
 
 ### [Girl On Fire](https://open.spotify.com/playlist/37i9dQZF1DX4F2k37fMTyn)
 
-> 女性ポップアイコンを一つのプレイリストに。cover: Robyn & Zara Larsson
+> 女性ポップアイコンを一つのプレイリストに。cover: FLO
 
-828 songs - 1 day 18 hr 55 min
+830 songs - 1 day 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Charlie Brown](https://open.spotify.com/track/7Lyiudgr7LN36UQyeKWjMO) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Charlie Brown](https://open.spotify.com/album/0SvYyrNBJLoTcXcNixJ4g0) | 2:49 | 2023-06-15 | 2023-06-30 |
 | [Chase It \(Mmm Da Da Da\)](https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Chase It \(Mmm Da Da Da\)](https://open.spotify.com/album/7LWwnuLW7GNZ8qdw4yPKzN) | 2:34 | 2024-05-16 | 2024-06-01 |
 | [Chasin' \(feat\. Meghan Trainor\)](https://open.spotify.com/track/4FtJXKZofhG9jt9reeahSg) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Chasin' \(feat\. Meghan Trainor\)](https://open.spotify.com/album/5GzcpXxpQsBKJGPX2oDvvj) | 3:17 | 2024-07-25 | 2024-08-09 |
-| [CHAT](https://open.spotify.com/track/1hNixpTJ3KtIQGYIdGWLoz) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [CHAT](https://open.spotify.com/album/0PclhANYWtETZ53KYoEGo0) | 2:51 | 2026-07-17 |  |
+| [CHAT](https://open.spotify.com/track/1hNixpTJ3KtIQGYIdGWLoz) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [CHAT](https://open.spotify.com/album/0PclhANYWtETZ53KYoEGo0) | 2:51 | 2026-07-17 | 2026-08-08 |
 | [Cheeky](https://open.spotify.com/track/7xePsiaOdxT9lkTck9Uv8t) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Cheeky](https://open.spotify.com/album/6lLyrH0Und9dYATr4F9Pjh) | 2:22 | 2024-01-25 | 2024-04-27 |
 | [Cheeky But Charming \(feat\. KUROMI\)](https://open.spotify.com/track/2VqXiJCKjkEKbI1SChyG4m) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [KUROMI](https://open.spotify.com/artist/1nah1bp3mzMd4FhMUxhU4d) | [Cheeky But Charming \(feat\. KUROMI\)](https://open.spotify.com/album/3By2H5WNB4ZpLN5Llmwrr8) | 2:08 | 2023-10-26 | 2024-01-12 |
 | [Cherry On Top](https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Cherry On Top](https://open.spotify.com/album/3ZIjUhwlei1sT2yetvypvJ) | 2:55 | 2024-07-11 | 2024-10-31 |
@@ -163,6 +163,7 @@
 | [Crash Out](https://open.spotify.com/track/3IHTGwXvGyGslBbvHDDFrM) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Crash Out](https://open.spotify.com/album/49sTgQ60n6ADLJs9VozDyB) | 3:10 | 2026-07-17 | 2026-08-01 |
 | [CRAZY \(feat\. PinkPantheress\)](https://open.spotify.com/track/3lLH0FlC2pYCeZEf05zKQn) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [CRAZY \(feat\. PinkPantheress\)](https://open.spotify.com/album/6bZk9oecizspP2MeHIhKYL) | 2:48 | 2024-09-05 | 2024-09-27 |
 | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Cry about it! \(feat\. Ravyn Lenae\)](https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd) | 2:51 | 2025-09-11 | 2025-10-04 |
+| [Cry Ugly](https://open.spotify.com/track/61p1mfca6giD6MP75hEu5m) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [THERAPY AT THE CLUB](https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf) | 2:39 | 2026-08-07 |  |
 | [Cutterpillow](https://open.spotify.com/track/49jaaNDXs4MtSB385rYBmG) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Cutterpillow](https://open.spotify.com/album/4UWQh3BN66Ba2Q8FHFEujq) | 2:17 | 2025-05-29 | 2025-06-20 |
 | [cyaka](https://open.spotify.com/track/4tuQtpufLkjuSX8VYr3vvd) | [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [Chimera](https://open.spotify.com/album/40IVmdPsW41lwlpnqARYNl) | 3:00 | 2025-01-10 | 2025-01-24 |
 | [Daddy \(feat\. Sexyy Red\)](https://open.spotify.com/track/7oYjWdHi4gwPxOkRVWfSUc) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Daddy \(feat\. Sexyy Red\)](https://open.spotify.com/album/2aUz6JfGW97Min1HueLXmp) | 3:13 | 2023-12-07 | 2024-01-11 |
@@ -361,6 +362,7 @@
 | [IMA IMA IMA](https://open.spotify.com/track/53hS9eKKsLAtSsydsc9NUn) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [ネビュラロマンス 前篇](https://open.spotify.com/album/2IsZa7R866e4nDA3iME83H) | 3:35 | 2024-09-19 | 2024-09-27 |
 | [Imagining \(feat\. Amaarae\)](https://open.spotify.com/track/4H9yO3xQEpKHbLwF6n5ldj) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Hold The Girl \(Bonus Edition\)](https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb) | 3:40 | 2023-12-07 | 2024-04-27 |
 | [IMAN \(Two Of Us\)](https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [IMAN \(Two Of Us\)](https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb) | 2:02 | 2024-05-16 | 2024-08-23 |
+| [In & Out](https://open.spotify.com/track/6KLLoGHAIYPfNYfRo4U1Ql) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Blue Island](https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG) | 3:20 | 2026-08-07 |  |
 | [In Love With A Memory](https://open.spotify.com/track/4VruElIXifs4MixNrCd0uB) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [In Love With A Memory](https://open.spotify.com/album/1Kg8dxL57VOCutWzOqYYff) | 4:03 | 2025-01-30 | 2025-03-07 |
 | [In My Bag \(feat\. GloRilla\)](https://open.spotify.com/track/4l9xe2rcwWctjrI43UFkgA) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:08 | 2024-11-14 | 2024-12-06 |
 | [In The City](https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The City](https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT) | 2:56 | 2023-10-19 | 2023-11-17 |
@@ -393,7 +395,7 @@
 | [Kiss](https://open.spotify.com/track/31YoV8zUWlnEZWjoyEL1Yk) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Kiss](https://open.spotify.com/album/0ZLsgnTsexXc2QvVeUlI6s) | 2:19 | 2025-10-09 | 2025-10-24 |
 | [Kiss Me Again](https://open.spotify.com/track/2aeTUJ2VAXwTE0WayrkKT0) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Smitten](https://open.spotify.com/album/20L5ONbidQxNKj0yMP1mWO) | 2:55 | 2024-09-26 | 2024-10-25 |
 | [Kiss Me Thru The Phone pt 2 \(with PinkPantheress\)](https://open.spotify.com/track/4SC29UjZqGD3DaZNipthGk) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [BLACK STAR](https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV) | 3:38 | 2025-08-07 | 2025-08-22 |
-| [KISS N TELL](https://open.spotify.com/track/3Fse9qXqMNey4TL5mLy8IF) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [KISS N TELL](https://open.spotify.com/album/5pwhf4kv2qX10i6k2uJsFp) | 2:46 | 2026-07-31 |  |
+| [KISS N TELL](https://open.spotify.com/track/3Fse9qXqMNey4TL5mLy8IF) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [KISS N TELL](https://open.spotify.com/album/5pwhf4kv2qX10i6k2uJsFp) | 2:46 | 2026-07-31 | 2026-08-08 |
 | [L7 Blues](https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [L7 Blues](https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg) | 2:21 | 2023-05-11 | 2023-07-28 |
 | [La Loba](https://open.spotify.com/track/110ynMei3R2Kfn55ByPpy3) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [La Loba](https://open.spotify.com/album/3NKI08Hye3rR6FlOp2KwRp) | 3:32 | 2025-11-06 | 2025-11-14 |
 | [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 | 2025-11-06 | 2026-02-28 |

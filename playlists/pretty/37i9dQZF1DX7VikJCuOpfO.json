@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Pedro Fernandez \ud83d\udcf8",
-  "num_followers": 368347,
+  "num_followers": 368351,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACbHjFeZ3wkbstKD+vtgn5WbEFg1",
+  "snapshot_id": "AAAAAH5ezRkEzQ1x0ENh8Vrz46AYMR6l",
   "tracks": [
     {
       "added_at": "2026-07-24 06:00:42",
@@ -351,6 +351,22 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
+        "name": "D\u00f3nde y Cu\u00e1ndo",
+        "url": "https://open.spotify.com/album/3ZwteVEY5IEjLNwDSKyKzN"
+      },
+      "artists": [
+        {
+          "name": "Dayanara",
+          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
+        }
+      ],
+      "duration_ms": 163058,
+      "name": "D\u00f3nde y Cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/4d31MVRPbQOgBs1BT9s9ea"
+    },
+    {
+      "added_at": "2026-07-24 06:00:42",
+      "album": {
         "name": "Y a ti, \u00bfQu\u00e9 tal te va?",
         "url": "https://open.spotify.com/album/3SrmR3w0a5hEE7QydHFkjX"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 159466,
       "name": "Y a ti, \u00bfQu\u00e9 tal te va?",
       "url": "https://open.spotify.com/track/7eaCDVH7jAc7pFp64radbq"
-    },
-    {
-      "added_at": "2026-07-24 06:00:42",
-      "album": {
-        "name": "D\u00f3nde y Cu\u00e1ndo",
-        "url": "https://open.spotify.com/album/3ZwteVEY5IEjLNwDSKyKzN"
-      },
-      "artists": [
-        {
-          "name": "Dayanara",
-          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
-        }
-      ],
-      "duration_ms": 163058,
-      "name": "D\u00f3nde y Cu\u00e1ndo",
-      "url": "https://open.spotify.com/track/4d31MVRPbQOgBs1BT9s9ea"
     },
     {
       "added_at": "2026-07-24 06:00:42",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
-        "name": "Vives En M\u00ed",
-        "url": "https://open.spotify.com/album/1vQADX1pnQEI17CjpAe5UQ"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 210471,
-      "name": "Vives En M\u00ed",
-      "url": "https://open.spotify.com/track/5wWtNPiu1pd9jzdJ7MJqMm"
-    },
-    {
-      "added_at": "2026-07-24 06:00:42",
-      "album": {
         "name": "Cas\u00ed 16",
         "url": "https://open.spotify.com/album/1RTYkT9Z40oP1lASdKEGhB"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 192928,
       "name": "Cas\u00ed 16",
       "url": "https://open.spotify.com/track/1HnlNGgq9Y0tRJdh1jqz8i"
+    },
+    {
+      "added_at": "2026-07-24 06:00:42",
+      "album": {
+        "name": "Vives En M\u00ed",
+        "url": "https://open.spotify.com/album/1vQADX1pnQEI17CjpAe5UQ"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 210471,
+      "name": "Vives En M\u00ed",
+      "url": "https://open.spotify.com/track/5wWtNPiu1pd9jzdJ7MJqMm"
     },
     {
       "added_at": "2026-07-24 06:00:42",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
-        "name": "Bien, \u00bfy t\u00fa?",
-        "url": "https://open.spotify.com/album/6LSXEs2Wn7csYdSpDYOjDg"
-      },
-      "artists": [
-        {
-          "name": "Kakalo",
-          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Bien, \u00bfy t\u00fa?",
-      "url": "https://open.spotify.com/track/1OeX0eRRvPohNW6aaYDeZP"
-    },
-    {
-      "added_at": "2026-07-24 06:00:42",
-      "album": {
         "name": "La Nostalgia",
         "url": "https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 149569,
       "name": "\u2060Cuatro Caminos",
       "url": "https://open.spotify.com/track/1yVjUAt8Jn2ZCwXpWJ8Ohp"
+    },
+    {
+      "added_at": "2026-07-24 06:00:42",
+      "album": {
+        "name": "Bien, \u00bfy t\u00fa?",
+        "url": "https://open.spotify.com/album/6LSXEs2Wn7csYdSpDYOjDg"
+      },
+      "artists": [
+        {
+          "name": "Kakalo",
+          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Bien, \u00bfy t\u00fa?",
+      "url": "https://open.spotify.com/track/1OeX0eRRvPohNW6aaYDeZP"
     },
     {
       "added_at": "2026-07-24 06:00:42",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
-        "name": "Finjamos",
-        "url": "https://open.spotify.com/album/2mYgCInNQaJr7Xc5ZtPA9C"
-      },
-      "artists": [
-        {
-          "name": "Angela Fonte",
-          "url": "https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw"
-        }
-      ],
-      "duration_ms": 177891,
-      "name": "Finjamos",
-      "url": "https://open.spotify.com/track/1lHC7s7TW9gYePpDLBj0Sy"
-    },
-    {
-      "added_at": "2026-07-24 06:00:42",
-      "album": {
         "name": "MI \u00daLTIMA DESPEDIDA",
         "url": "https://open.spotify.com/album/0KLXDS5QaQWh82Ob59uUTL"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 205750,
       "name": "MI \u00daLTIMA DESPEDIDA",
       "url": "https://open.spotify.com/track/7rCGOjnuWBRA3iuhK60wTc"
+    },
+    {
+      "added_at": "2026-07-24 06:00:42",
+      "album": {
+        "name": "Finjamos",
+        "url": "https://open.spotify.com/album/2mYgCInNQaJr7Xc5ZtPA9C"
+      },
+      "artists": [
+        {
+          "name": "Angela Fonte",
+          "url": "https://open.spotify.com/artist/2vdlMsI7nRdp4DEfrm0oAw"
+        }
+      ],
+      "duration_ms": 177891,
+      "name": "Finjamos",
+      "url": "https://open.spotify.com/track/1lHC7s7TW9gYePpDLBj0Sy"
     },
     {
       "added_at": "2026-07-24 06:00:42",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
-        "name": "Angelito Sin Alas",
-        "url": "https://open.spotify.com/album/1X1ruDoYErT8r1phWKwTI5"
-      },
-      "artists": [
-        {
-          "name": "Las Posada",
-          "url": "https://open.spotify.com/artist/4A9rAqUsLJOh3tEr5YTyll"
-        }
-      ],
-      "duration_ms": 168238,
-      "name": "Angelito Sin Alas",
-      "url": "https://open.spotify.com/track/3qSXwUNvSMFAfmrs1m4FIp"
-    },
-    {
-      "added_at": "2026-07-24 06:00:42",
-      "album": {
         "name": "Pajarillo",
         "url": "https://open.spotify.com/album/5jH8BDn3zQe2FQ0aZdson7"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 229173,
       "name": "Pajarillo",
       "url": "https://open.spotify.com/track/0ZvSxLlYyF2qEs3PQj5X3w"
+    },
+    {
+      "added_at": "2026-07-24 06:00:42",
+      "album": {
+        "name": "Angelito Sin Alas",
+        "url": "https://open.spotify.com/album/1X1ruDoYErT8r1phWKwTI5"
+      },
+      "artists": [
+        {
+          "name": "Las Posada",
+          "url": "https://open.spotify.com/artist/4A9rAqUsLJOh3tEr5YTyll"
+        }
+      ],
+      "duration_ms": 168238,
+      "name": "Angelito Sin Alas",
+      "url": "https://open.spotify.com/track/3qSXwUNvSMFAfmrs1m4FIp"
     },
     {
       "added_at": "2026-07-24 06:00:42",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
-        "name": "Esa Perra Ya Me Mordi\u00f3",
-        "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 210592,
-      "name": "Esa Perra Ya Me Mordi\u00f3",
-      "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
-    },
-    {
-      "added_at": "2026-07-24 06:00:42",
-      "album": {
         "name": "Me Nace Del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0p1YpGbcw2bKllgY6Fc8Dr"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 164117,
       "name": "Me Nace Del Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3oGiGhavASAxgYT4RjISIa"
+    },
+    {
+      "added_at": "2026-07-24 06:00:42",
+      "album": {
+        "name": "Esa Perra Ya Me Mordi\u00f3",
+        "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 210592,
+      "name": "Esa Perra Ya Me Mordi\u00f3",
+      "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
     },
     {
       "added_at": "2026-07-24 06:00:42",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
-        "name": "Un Abrazo (Versi\u00f3n Regional)",
-        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 238500,
-      "name": "Un Abrazo - Versi\u00f3n Regional",
-      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
-    },
-    {
-      "added_at": "2026-07-24 06:00:42",
-      "album": {
         "name": "Fan De La Relaci\u00f3n",
         "url": "https://open.spotify.com/album/2Ofh0yVOz9neKuF7RLGDjl"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 204729,
       "name": "Fan De La Relaci\u00f3n",
       "url": "https://open.spotify.com/track/0avvoJ4ukQXaOTPSofnPo3"
+    },
+    {
+      "added_at": "2026-07-24 06:00:42",
+      "album": {
+        "name": "Un Abrazo (Versi\u00f3n Regional)",
+        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 238500,
+      "name": "Un Abrazo - Versi\u00f3n Regional",
+      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
     },
     {
       "added_at": "2026-07-24 06:00:42",

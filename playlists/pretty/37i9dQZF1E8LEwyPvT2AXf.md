@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8LEwyPvT2AXf.md) - [plain]
 
 > With Adele, Billie Eilish, Bruno Mars and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,358 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,357 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8LEwyPvT2AXf.md) - [plain]
 | 49 | [7 Years](https://open.spotify.com/track/7129iqBafaphfc3WPCGC0L) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham \(Blue Album\)](https://open.spotify.com/album/6NQ2RNksdSKdtnlFOLJo24) | 3:57 |
 | 50 | [How Do I Say Goodbye](https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 2:43 |
 
-Snapshot ID: `AAAAAED++KNzaj5yrAlf4EAXNKdhQgjs`
+Snapshot ID: `AAAAAFd+WonrS9Vdo0Z28x7xPRu0Nw+s`

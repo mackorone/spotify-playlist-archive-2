@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 
 > Favourites from Canadians who dominated the 1990s\. Cover: Céline Dion
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,040 likes - 101 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,048 likes - 101 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 100 | [Let It Rain](https://open.spotify.com/track/3iXaV9yTFnAnZAoVbY8AuT) | [Amanda Marshall](https://open.spotify.com/artist/2ON3fLFbL1rHfHEjeYNKsO) | [Amanda Marshall](https://open.spotify.com/album/0TyKRzOsoZgXrXrcXnPvqt) | 4:31 |
 | 101 | [Apparitions](https://open.spotify.com/track/7CosFlbml7Rhw7t4FrSkdz) | [Matthew Good Band](https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL) | [Underdogs](https://open.spotify.com/album/74Rz6pP4zcrT10smt1EALp) | 5:14 |
 
-Snapshot ID: `AAAAAJEYcyx5pY4yE4M7p48g4t4YVDFY`
+Snapshot ID: `AAAAAHIrvrZZN97APvzW9/K9/Q4zebAy`

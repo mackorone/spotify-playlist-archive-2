@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68aCfKW9xMy.md) - [plain]
 
 > La casa de los corazones rotos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,660,546 likes - 125 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,660,569 likes - 125 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68aCfKW9xMy.md) - [plain]
 | 16 | [Ojos Cerrados](https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ojos Cerrados](https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0) | 3:00 |
 | 17 | [Pongámonos De Acuerdo](https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 2:41 |
 | 18 | [Vete](https://open.spotify.com/track/1GtIK8iINes4gNt06F60NU) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 3:05 |
-| 19 | [Malabares](https://open.spotify.com/track/3pEZ2qP6CZzoE7htp2ZZBe) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Vuela Muy Alto](https://open.spotify.com/album/2lHx37g1SRidGYpGSJF7MK) | 3:31 |
-| 20 | [Ya Te Perdí La Fe](https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ojos En Blanco](https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb) | 2:27 |
+| 19 | [Ya Te Perdí La Fe](https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ojos En Blanco](https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb) | 2:27 |
+| 20 | [Malabares](https://open.spotify.com/track/3pEZ2qP6CZzoE7htp2ZZBe) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Vuela Muy Alto](https://open.spotify.com/album/2lHx37g1SRidGYpGSJF7MK) | 3:31 |
 | 21 | [Tengo Claro](https://open.spotify.com/track/2UAE43Y8K321CDAbnIXDD0) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Tengo Claro](https://open.spotify.com/album/6r2fG8QS313bzSxFEi7wnr) | 3:11 |
 | 22 | [Casi oficial](https://open.spotify.com/track/1tpTj9NAKWUFEabYfkzmRH) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:47 |
 | 23 | [Yo Todo Lo Doy](https://open.spotify.com/track/2fQrrBtuNVMWOHqLyk4EfO) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 3:22 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68aCfKW9xMy.md) - [plain]
 | 57 | [¿Por Qué Cambiaste De Opinión?](https://open.spotify.com/track/1j8gLQNfFOI0vs8qcVTWwa) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Mitad Y Mitad](https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R) | 4:01 |
 | 58 | [Lejos Estamos Mejor](https://open.spotify.com/track/2nitwmNHjes0WPAiOe0gnH) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Piedras a la Luna](https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI) | 2:58 |
 | 59 | [Volvere A Amar](https://open.spotify.com/track/5QFuPzUEkWsTszwYyswsbB) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Volveré a Amar](https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h) | 3:51 |
-| 60 | [Enhorabuena](https://open.spotify.com/track/7eensGADN6jTkmrtPPFcBO) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ) | [Te Voy A Amar](https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC) | 3:14 |
-| 61 | [Solo Un Dia \(Ahora Te Amo\)](https://open.spotify.com/track/51RcAoNIqe0G3284yxT8G0) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [Solo Un Dia…](https://open.spotify.com/album/6CpCo3owrPMEiQjREEFuk0) | 3:23 |
+| 60 | [Solo Un Dia \(Ahora Te Amo\)](https://open.spotify.com/track/51RcAoNIqe0G3284yxT8G0) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [Solo Un Dia…](https://open.spotify.com/album/6CpCo3owrPMEiQjREEFuk0) | 3:23 |
+| 61 | [Enhorabuena](https://open.spotify.com/track/7eensGADN6jTkmrtPPFcBO) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ) | [Te Voy A Amar](https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC) | 3:14 |
 | 62 | [Qué Agonía](https://open.spotify.com/track/4H6o1bxKRGzmsE0vzo968m) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 2:32 |
 | 63 | [Sentimientos De Cartón](https://open.spotify.com/track/7ctLV5QnYVq3V89EK3XNsa) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Necesito Más De Ti](https://open.spotify.com/album/2nRHIdZqsgd9ONSzrTKsf9) | 3:03 |
 | 64 | [Te Irá Mejor Sin Mí](https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Pegadito Al Corazón](https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7) | 2:56 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68aCfKW9xMy.md) - [plain]
 | 71 | [A Quién Vas a Amar Más Que a Mí](https://open.spotify.com/track/1IV8PlSxx5PUiaxKwVrlg9) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:47 |
 | 72 | [Acábame De Matar](https://open.spotify.com/track/6b70qcaryJFejODMi3VRl1) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Te Presumo](https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK) | 3:08 |
 | 73 | [La Historia \(En Vivo\)](https://open.spotify.com/track/0SnYsuBjmOlqdPQQQGcx7Z) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Desde La Playa "En Vivo desde Mazatlan, Sinaloa"](https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI) | 4:00 |
-| 74 | [La Número 20](https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [¿Quién Es Usted?](https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o) | 2:48 |
-| 75 | [Migajero](https://open.spotify.com/track/7DKnuyS5fAoUkLGoaLCTUR) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Migajero](https://open.spotify.com/album/0YliaYKdHWQ5EKmjNgBABI) | 4:27 |
+| 74 | [Migajero](https://open.spotify.com/track/7DKnuyS5fAoUkLGoaLCTUR) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Migajero](https://open.spotify.com/album/0YliaYKdHWQ5EKmjNgBABI) | 4:27 |
+| 75 | [La Número 20](https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [¿Quién Es Usted?](https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o) | 2:48 |
 | 76 | [Ni Te Conozco, Ni Me Saludes](https://open.spotify.com/track/4ybR1EefMYDu8n2onlvid9) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Eden](https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt) | 4:01 |
 | 77 | [¿Por Qué Terminamos?](https://open.spotify.com/track/1nK0XDR5ZdBfBMfkS5SXRF) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46) | 3:01 |
 | 78 | [Te Apuesto \- En vivo](https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo EP, Vol\. 1 \(En vivo\)](https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN) | 3:48 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68aCfKW9xMy.md) - [plain]
 | 124 | [Cuánto A Que Te Olvido](https://open.spotify.com/track/5EQDA6xM2wUfrKOoT6QoRn) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Cuánto A Que Te Olvido](https://open.spotify.com/album/7FkvXmGwNgh74yRwVAaQRw) | 3:23 |
 | 125 | [Dile al Amor](https://open.spotify.com/track/2hPsnHCGBAdT23UujS0HF7) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [Dile al Amor](https://open.spotify.com/album/6dDWFO1TnRUrO3Jf5nLMVx) | 2:54 |
 
-Snapshot ID: `AAAAAJmqgzYZJZPmhIWyD5yjcPBzc6bf`
+Snapshot ID: `AAAAALNNKMQIFM55ZpB/hjdgSxZXi7xK`

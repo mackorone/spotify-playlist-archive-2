@@ -4,7 +4,7 @@
 
 > Fijne muziek voor een rustige dag\. Doe lekker kalm aan met deze easy going liedjes van Olivia Dean, Lewis Capaldi, Royel Otis en meer
 
-198 songs - 11 hr 23 min
+200 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [FEAR](https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [FEAR](https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg) | 4:28 | 2026-02-25 | 2026-03-28 |
 | [Fire On Fire \- From "Watership Down"](https://open.spotify.com/track/5rFj8OzffT0iggSjcBaeND) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Fire On Fire \(From "Watership Down"\)](https://open.spotify.com/album/5utJfkRQ5yEIat3AIK6WIL) | 4:06 | 2025-09-08 | 2026-02-18 |
 | [From The Start](https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 2:49 | 2025-07-04 |  |
+| [Garden](https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Garden](https://open.spotify.com/album/08S8Cftjk2s1H1HBtCOqYw) | 4:59 | 2026-08-07 |  |
 | [Get It Right](https://open.spotify.com/track/4eycOJZ9ofGW7iqm1QEaDJ) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Get It Right](https://open.spotify.com/album/6qHejAKDb0fEkUvAax5nHs) | 2:52 | 2026-02-19 | 2026-03-14 |
 | [Give Me All Your Love](https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6) | 3:20 | 2025-09-05 |  |
 | [Good Reason](https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell](https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5) | 4:08 | 2026-07-17 |  |
@@ -102,7 +103,7 @@
 | [Liar](https://open.spotify.com/track/2OWXbIn2geYwaSLgBxwkOM) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Liar](https://open.spotify.com/album/5zGqHfBnD4Lpk3dTwQT2b9) | 3:37 | 2026-04-14 |  |
 | [Little By Little](https://open.spotify.com/track/4YNoaytMcFUCGXXxZfXLO1) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Little By Little](https://open.spotify.com/album/6ikb0NTrw0WF03RJREBc7i) | 3:01 | 2025-07-04 | 2025-09-13 |
 | [Look at My Life](https://open.spotify.com/track/65aS53swxB9LUGbHDKdvvB) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Look at My Life](https://open.spotify.com/album/7FTXtGd2zNyN3zZA3ntMZr) | 3:10 | 2026-06-26 | 2026-07-18 |
-| [Love Is A Stillness](https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Is A Stillness](https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl) | 1:54 | 2025-07-04 |  |
+| [Love Is A Stillness](https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Is A Stillness](https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl) | 1:54 | 2025-07-04 | 2026-08-08 |
 | [Love Like This](https://open.spotify.com/track/3h3HkjitXbdMk03GUnEFZY) | [Jesse Hydro](https://open.spotify.com/artist/2r9Lzj8IpPYpSqu47KYngJ) | [Love Like This](https://open.spotify.com/album/1MR6KkHvkKn51CrA0aAwAo) | 2:42 | 2026-07-03 |  |
 | [Love on the Weekend](https://open.spotify.com/track/0oiCeOPwm4zhwfyIpAE37y) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:32 | 2025-07-04 |  |
 | [Love The Way It Hurts](https://open.spotify.com/track/3u1UZ826Dbecx5Zl41tI4D) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [Love The Way It Hurts](https://open.spotify.com/album/6OqAYoh045njumidj7tobF) | 4:20 | 2025-07-11 | 2026-04-29 |
@@ -155,6 +156,7 @@
 | [Somewhere Only We Know](https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd) | 3:57 | 2025-07-04 | 2025-10-09 |
 | [Stay](https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:24 | 2026-02-20 |  |
 | [Stay Love](https://open.spotify.com/track/3CyM2SZsivBrwxynIvN2K3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive \- EP](https://open.spotify.com/album/4ScfyWincbVs9Ingpb0zw6) | 3:26 | 2026-04-20 |  |
+| [Still](https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:40 | 2026-08-07 |  |
 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 | 2025-07-04 |  |
 | [Summertime Blue](https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Summertime Blue](https://open.spotify.com/album/5idegdSAakRkQhgs0fy5dW) | 3:30 | 2025-07-04 | 2026-04-29 |
 | [Superpowers](https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 2:54 | 2025-10-08 |  |

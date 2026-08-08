@@ -4,7 +4,7 @@
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 MXKA en portada.
 
-650 songs - 1 day 11 hr 47 min
+652 songs - 1 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [CASI TÚ](https://open.spotify.com/track/7MklqPSMrs22DGXSDIgxeO) | [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [CASI TÚ](https://open.spotify.com/album/25u60Pgm4jnY8NU8Hy3ghn) | 2:37 | 2025-11-14 |  |
 | [CHANEL](https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [CHANEL](https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo) | 3:21 | 2023-06-09 | 2024-01-20 |
 | [Chanelita](https://open.spotify.com/track/4JhpZksyQOrf13HYgy7sFq) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe), [XODERICK](https://open.spotify.com/artist/6p4uhW3K5NmxiGswulf8PG), [MILAS](https://open.spotify.com/artist/3TKgamKsMMP7pmm1likOgY) | [Chanelita](https://open.spotify.com/album/6sYFY7He71eJ8kCm03IUcJ) | 3:13 | 2023-11-17 | 2024-01-06 |
-| [Chanza](https://open.spotify.com/track/3MVcDjWjWVmaxNLfHqcm6G) | [Drian](https://open.spotify.com/artist/5Tr65ixUewa8W6QdHpNJ2K) | [Chanza](https://open.spotify.com/album/0EWBoQ7P3gaM9DKHPkGW9E) | 3:17 | 2026-03-27 |  |
+| [Chanza](https://open.spotify.com/track/3MVcDjWjWVmaxNLfHqcm6G) | [Drian](https://open.spotify.com/artist/5Tr65ixUewa8W6QdHpNJ2K) | [Chanza](https://open.spotify.com/album/0EWBoQ7P3gaM9DKHPkGW9E) | 3:17 | 2026-03-27 | 2026-08-08 |
 | [chocolate](https://open.spotify.com/track/79iH0QxZ4NVlWLH0pDPnIU) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [chocolate](https://open.spotify.com/album/3kBSyGYB1vYb27M0scvgVL) | 3:03 | 2025-03-10 | 2025-05-17 |
 | [CHOLO](https://open.spotify.com/track/76m8kXyUf41NgbpzCLfWgs) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gael Valenzuela](https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar) | [DEPR</3$$ED MFKZ](https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos) | 3:41 | 2026-02-13 | 2026-02-28 |
 | [CHROME HEARTS](https://open.spotify.com/track/1VwgoKvj7L1PkQTFeFfS6F) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Ya No Se Llevan Serenatas \(Deluxe\)](https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO) | 3:16 | 2025-10-24 | 2026-03-28 |
@@ -364,6 +364,7 @@
 | [No Pasa Nada](https://open.spotify.com/track/7FbPMf2BoNVfpPG5Yv2hIe) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [No Pasa Nada](https://open.spotify.com/album/1ZIKJLkZXQwteGXiwfzwkR) | 2:26 | 2025-10-31 | 2026-04-04 |
 | [NO PIERDO LA VIDA](https://open.spotify.com/track/44zZM2dn9AcOUt5XKUMNJ3) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [NO PIERDO LA VIDA](https://open.spotify.com/album/7DueGhsMj4VYSbe1jgQ4H2) | 2:48 | 2024-09-13 | 2024-11-16 |
 | [No Podremos Ser Amigos](https://open.spotify.com/track/4DJwntLe5GWgAyRW1W4NLS) | [Ian Cordova](https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh) | [No Podremos Ser Amigos](https://open.spotify.com/album/4HpslmBkkHeTauk4yZiiQ8) | 3:08 | 2026-03-20 | 2026-05-24 |
+| [No Puedo Más](https://open.spotify.com/track/668c13TJaMLiel3D86TNLv) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [No Puedo Más](https://open.spotify.com/album/1stWdnmPun1ltjryx4MWIp) | 3:07 | 2026-08-07 |  |
 | [No Se Puede Decir Adiós](https://open.spotify.com/track/1B9Y0b1XIyw6jci2C7oTJc) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [No Se Puede Decir Adiós / Nuestra Canción](https://open.spotify.com/album/2hajlGHDWlqIzHh1bvST29) | 2:44 | 2023-03-31 | 2023-06-10 |
 | [NO SE VA](https://open.spotify.com/track/15zTvIhkmoEiCJU1dcagkd) | [juanitoo2x](https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf) | [NO SE VA](https://open.spotify.com/album/5z76Ks0UDPdGBXNwDbd3X4) | 4:11 | 2023-02-17 | 2023-06-24 |
 | [No Soy Pa Ti](https://open.spotify.com/track/7vd9QZJRkK3HlDeaB7ifwg) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [ETERNO](https://open.spotify.com/album/6yNzRHzjoxFZ4rpgvCudT7) | 2:38 | 2026-04-10 |  |
@@ -505,6 +506,7 @@
 | [Si Te Preguntan Por Mí](https://open.spotify.com/track/6s2CUMoVx3yEFfthbWIRdu) | [Los de la GS](https://open.spotify.com/artist/1mwAXk76AfeW98Xuuui7zW) | [Si Te Preguntan Por Mí](https://open.spotify.com/album/5z2ACicc7kloBwo78wDXTH) | 3:40 | 2023-05-12 | 2023-07-01 |
 | [Si Te Vas \(feat\. Los Aptos\)](https://open.spotify.com/track/6nf6tNacf31z8npZtl5FjV) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy), [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 2:55 | 2023-04-21 | 2023-05-13 |
 | [Si Tu Te Fueras De Mi](https://open.spotify.com/track/6WssB2o4BjzHzJMl7qprYg) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 3:07 | 2023-01-13 | 2023-02-18 |
+| [Si Un Día Me Extrañas](https://open.spotify.com/track/5PfOuTytmTRASLSjreZe2j) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Si Un Día Me Extrañas](https://open.spotify.com/album/0h7ddj7I7SsXci0mOI9lgd) | 3:26 | 2026-08-07 |  |
 | [Sigo Muerto](https://open.spotify.com/track/71S52xUjNYtBSsRcJSZJva) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Sigo Muerto](https://open.spotify.com/album/1aPO6B5MYdkyiZ4vYA1YSX) | 2:29 | 2023-06-30 | 2023-07-29 |
 | [Sigues En Mi](https://open.spotify.com/track/3p99gd9d8MpluLFC0DLCM0) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Solo](https://open.spotify.com/album/0bLjzsC83VGtiQYEQScyLx) | 2:59 | 2023-07-14 | 2023-09-30 |
 | [Sin Fin](https://open.spotify.com/track/59VTLzopXYTn3WM1osrdKY) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [Sin Fin](https://open.spotify.com/album/2PKNhsplra6ZyTiTcbdkhk) | 2:52 | 2026-02-06 | 2026-05-24 |
@@ -609,7 +611,7 @@
 | [Una Peda](https://open.spotify.com/track/4Owj7xIXIFyNYIfHzL1YV8) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 2:56 | 2022-04-08 | 2022-06-25 |
 | [Una Semana](https://open.spotify.com/track/1UUimiQLOO4pyS2pRUeXSA) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Una Semana](https://open.spotify.com/album/4QuVImSzXeKG40qXi9PzuL) | 3:23 | 2024-08-09 | 2024-10-26 |
 | [Una Vez Más](https://open.spotify.com/track/2mw2HxgWWgI5SktIxNO43z) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Una Vez Más](https://open.spotify.com/album/60v1tRIYwWeu1DSqNQYVhR) | 2:38 | 2024-05-17 | 2024-07-19 |
-| [Una Vez Y Ya](https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Una Vez Y Ya](https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR) | 2:34 | 2026-04-03 |  |
+| [Una Vez Y Ya](https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Una Vez Y Ya](https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR) | 2:34 | 2026-04-03 | 2026-08-08 |
 | [Va Pa' Largo](https://open.spotify.com/track/5hUUPFyteR0Fdiewtwj3EP) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j) | [Va Pa' Largo](https://open.spotify.com/album/1zedRAmOvIjof8CUNCNFog) | 2:43 | 2025-10-10 | 2025-12-06 |
 | [Vaciando Botellas](https://open.spotify.com/track/7bQwMC8m9vtcEMJ8qZyJ4r) | [Bajo Perfil](https://open.spotify.com/artist/04CzckYeljqT6be7fR954D) | [Vaciando Botellas](https://open.spotify.com/album/27oHZjpItCLVaag882oPuk) | 3:36 | 2025-03-21 | 2025-05-03 |
 | [VALLE DE $OMBRA$](https://open.spotify.com/track/2Frs0BjYgm78lYI9nbal46) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gael Valenzuela](https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar) | [DEPR</3$$ED MFKZ](https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos) | 3:47 | 2026-02-13 | 2026-02-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: GUrbane
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,280 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,282 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 37 | [Ẩn](https://open.spotify.com/track/2fEAbrP5PodWRONM6LVhkl) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [Linh Cáo](https://open.spotify.com/artist/0vTUa2hbNHke3omoGxuKFm) | [Ẩn](https://open.spotify.com/album/4BCmL4NwY1Kh8xX6T6oPJo) | 3:16 |
 | 38 | [5 10](https://open.spotify.com/track/6H5bXIY2XMaCZMn2O8HSG4) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [chơi trò yêu](https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2) | 2:25 |
 | 39 | [Do Em](https://open.spotify.com/track/2HB9qkxBo8wzvAjpLDT2u9) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc) | [AZA](https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22) | 2:40 |
-| 40 | [Da Key](https://open.spotify.com/track/1w1zYOYYyX45UMnn0LMHdI) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [Gentle Bad](https://open.spotify.com/album/1JIhbbT2XAp39t33rHMs3y) | 2:58 |
+| 40 | [ON MY WAY](https://open.spotify.com/track/0NKYhzHVkjRXipH1hFC5xT) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN), [M NAIVE](https://open.spotify.com/artist/2wqbmDDGHOrzvdOxAPe4JS) | [ON MY WAY](https://open.spotify.com/album/38eH6xovyDMbMXglge5ZNw) | 3:05 |
 | 41 | [Bạch Nguyệt Quang](https://open.spotify.com/track/5eR0WC8y4VLeRQouyV0tIW) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb), [Hoàng Duyên](https://open.spotify.com/artist/3LbBKYlyMaATS8IIe7HJ0d) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 3:05 |
 | 42 | [Leo Thăng](https://open.spotify.com/track/0lL8WwEu7WGPDTQ7GP5IxR) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [TIA](https://open.spotify.com/artist/6LrBtADUmDoLlcTrg448Qt) | [Leo Thăng](https://open.spotify.com/album/50qdwg6GoEAZpWDCmIJcBN) | 2:43 |
 | 43 | [mơ](https://open.spotify.com/track/7egXRAL5jmZMWcgu0OqzuQ) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [mơ](https://open.spotify.com/album/5uuAgeZeoZmEIYxg6LTvZM) | 3:10 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 46 | [Thua Người Ta](https://open.spotify.com/track/0jtKXWSesIai271sQT6VBC) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [Thua Người Ta](https://open.spotify.com/album/3SFXrBYmq1KiykPeasXh1L) | 3:16 |
 | 47 | [Hanoi 12AM \(Prod\. by Maiki, Hallowed\)](https://open.spotify.com/track/1Si3UwZHOEUvayn45lcwqA) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [NÂN](https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB) | [Hanoi 12AM \(Prod\. by Maiki, Hallowed\)](https://open.spotify.com/album/5mDCuDFwhlhKlmUBILSoRZ) | 3:07 |
 | 48 | [hắt xì hơi](https://open.spotify.com/track/3aEs5WVHT8oBPA95izGmIi) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [hắt xì hơi](https://open.spotify.com/album/1fiCWNNHDB9Fb4fhWN8KzE) | 3:35 |
-| 49 | [Say That You Love Me](https://open.spotify.com/track/42EOWpTWFoAn56fBRJxN0T) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [Gentle Bad](https://open.spotify.com/album/1JIhbbT2XAp39t33rHMs3y) | 3:36 |
+| 49 | [Da Key](https://open.spotify.com/track/1w1zYOYYyX45UMnn0LMHdI) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [Gentle Bad](https://open.spotify.com/album/1JIhbbT2XAp39t33rHMs3y) | 2:58 |
 | 50 | [UPTOWNINTRO](https://open.spotify.com/track/6sg0BSU861E6o7QP3N3B8o) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay) | [Siêu Trộm Kid \- The EP](https://open.spotify.com/album/6usk9OKVtyVMq6yd16tM8v) | 2:37 |
 
-Snapshot ID: `AAAAAKOrDLU+zy8XtIVuuPINqYP7PQk1`
+Snapshot ID: `AAAAANL08cnZS10rM2jiJlCsokc8uhwj`

@@ -4,7 +4,7 @@
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-191 songs - 8 hr 39 min
+192 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Apple of My Eye](https://open.spotify.com/track/7nzvfB4c708km3Y69qKj5k) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw) | [Family Tree](https://open.spotify.com/album/2ipWREGW50eHJTjXVVWiCj) | 4:15 | 2021-11-19 | 2024-01-31 |
 | [Aura V Anthem](https://open.spotify.com/track/3mjYCpOCqwyv2q4o7E8F0e) | [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Aura V](https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY) | [Aura V Anthem](https://open.spotify.com/album/4cxT3Qi0xKbDSsyHQ6cQVi) | 1:06 | 2025-05-09 | 2025-05-24 |
 | [Be You You You](https://open.spotify.com/track/7Eg3RbciQgucCxDanFjEbE) | [Uncle Jumbo](https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI) | [Taste The Sky](https://open.spotify.com/album/3j2LHcEsD5j3LY77fAitx5) | 3:02 | 2024-01-30 | 2026-01-15 |
+| [Believe In You](https://open.spotify.com/track/3rRXw9ayjnqHp1UWgV4v3x) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Believe In You](https://open.spotify.com/album/4seRkR0rcLldozKkPl3KXj) | 3:39 | 2026-08-07 |  |
 | [Believe In Yourself](https://open.spotify.com/track/4fodXSNCm0wF9IfCjqA9SF) | [Cali Sadé](https://open.spotify.com/artist/412wqueGF3MRBHjzYP5KQC) | [Believe In Yourself](https://open.spotify.com/album/6Cr8zKBlb8QtPCHlDaJey7) | 2:33 | 2024-01-30 |  |
 | [Best Day Ever](https://open.spotify.com/track/5zNvK3AfYvmMfb458bzUFY) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Okay to Be Different](https://open.spotify.com/album/79hcqBz6rqKuv1aMCJfx23) | 2:30 | 2024-01-30 |  |
 | [Big Feelings](https://open.spotify.com/track/3d05iVzuY8F9wjD87ciT0e) | [Uncle Apple](https://open.spotify.com/artist/07FHLWnXS1tigApNnuDp9M) | [Big Feelings](https://open.spotify.com/album/2aW9TbZPlTk74HCP2Zqpwn) | 3:01 | 2024-07-26 | 2025-03-08 |
@@ -28,7 +29,7 @@
 | [Boomerang](https://open.spotify.com/track/6c3ipL19bLPHrpoj5kKawy) | [123 Andrés](https://open.spotify.com/artist/1KrkVZFQx2EadAriogq5T9), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Rita Rosa](https://open.spotify.com/artist/3ZRSW9hN8aC1KiRGb4Bb0k), [Verny Varela](https://open.spotify.com/artist/63vWZsC4Qd6AAdeqWfVwdk) | [Hola, Amigo: Songs of Friendship](https://open.spotify.com/album/0V5TLnYXWxNFZ0Bmy5bOza) | 3:10 | 2021-11-19 | 2024-01-31 |
 | [Bored is a Bad Word](https://open.spotify.com/track/6l8PVMHkToebBTlJacW6Fa) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Underground Playground](https://open.spotify.com/album/41kgd9xgfuYAmKasunl4Sa) | 3:43 | 2021-11-19 | 2024-01-31 |
 | [Bubble Wrap Rap](https://open.spotify.com/track/3vyExFn4NbOCGkGR30i6AA) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Celebrate This!](https://open.spotify.com/album/5hukeI5hHKtT4qgMkL0Im6) | 2:18 | 2021-11-19 | 2024-01-31 |
-| [Buckle Up](https://open.spotify.com/track/2LPcjCZ1u3PTw1DbdicVQQ) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Buckle Up](https://open.spotify.com/album/0Qdd1cj1LjniPsVxgsXH4r) | 2:31 | 2026-03-20 |  |
+| [Buckle Up](https://open.spotify.com/track/2LPcjCZ1u3PTw1DbdicVQQ) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Buckle Up](https://open.spotify.com/album/0Qdd1cj1LjniPsVxgsXH4r) | 2:31 | 2026-03-20 | 2026-08-08 |
 | [Can I Kick It?](https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [People's Instinctive Travels and the Paths of Rhythm \(25th Anniversary Edition\)](https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck) | 4:11 | 2021-11-19 | 2024-01-31 |
 | [Celebrate!](https://open.spotify.com/track/0ud8GbjknpHxDrhGZxwrFl) | [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI), [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR) | [Celebrate!](https://open.spotify.com/album/2fqSsy31vWs78Ga6h5us2j) | 2:50 | 2024-06-21 |  |
 | [Cha Cha Slide](https://open.spotify.com/track/146IdUhpqJAKpfGPegGtd1) | [Freeze Dance DJ's](https://open.spotify.com/artist/2vnlIUooL0M6u8zJaJImU9) | [FREEZE DANCE PARTY](https://open.spotify.com/album/5IsGdDTrqIPHPumGqtWRL0) | 3:42 | 2021-11-19 | 2024-01-31 |

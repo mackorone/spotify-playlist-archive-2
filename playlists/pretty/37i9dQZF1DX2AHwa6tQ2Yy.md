@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Try a little tenderness\. Cover: Ella Thompson
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,324 likes - 70 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,331 likes - 70 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 38 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 |
 | 39 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 |
 | 40 | [Inner City Blues \(Make Me Wanna Holler\)](https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 5:27 |
-| 41 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:56 |
-| 42 | [Seems Like](https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS) | [Seems Like](https://open.spotify.com/album/2tap8Qg9edttnopPumKebe) | 3:14 |
+| 41 | [Seems Like](https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS) | [Seems Like](https://open.spotify.com/album/2tap8Qg9edttnopPumKebe) | 3:14 |
+| 42 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:56 |
 | 43 | [Shameful Game](https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [The Celestial Suite](https://open.spotify.com/album/74H9AkTLaEp1YsSlXqsXDN) | 3:05 |
 | 44 | [Chameleon](https://open.spotify.com/track/5MJuuUnNuOv3O1fJrLaEYk) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Change & Remain](https://open.spotify.com/album/54cLUzUwEVwArcZzFmxqln) | 2:55 |
 | 45 | [If You Want Me to Stay](https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 3:00 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 48 | [What They Do](https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Illadelph Halflife](https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL) | 5:57 |
 | 49 | [In Your Eyes](https://open.spotify.com/track/4jmLj7bALZTQoe93dT623W) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 4:07 |
 | 50 | [Strawberry Letter 23](https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Right On Time](https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe) | 4:59 |
-| 51 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
-| 52 | [Childhood](https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Loner](https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5) | 3:51 |
+| 51 | [Childhood](https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Loner](https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5) | 3:51 |
+| 52 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
 | 53 | [Elegantly Wasted \[Feat\. Leon Bridges\]](https://open.spotify.com/track/4cKkrTYbkWnu96lWNRFcRq) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Elegantly Wasted \[Feat\. Leon Bridges\]](https://open.spotify.com/album/6ttrLfwlXpHv4HwoImyqqR) | 3:33 |
 | 54 | [Almeda](https://open.spotify.com/track/6IAgarq2wDeYzpsY2Kx0Hw) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 3:56 |
 | 55 | [I'm a Rock](https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Honeycomb](https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc) | 3:24 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 65 | [One Inch Punch](https://open.spotify.com/track/6BdpQ5lDOUNbaER31ajumE) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [The Rabbit That Hunts Tigers](https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK) | 5:08 |
 | 66 | [Mahal](https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT) | 3:21 |
 | 67 | [Let's Straighten It Out](https://open.spotify.com/track/12n47FuVsiUGug0xkiGkSc) | [O.V\. Wright](https://open.spotify.com/artist/2eRG04xbRiI1AzY8uTCySk) | [The Bottom Line](https://open.spotify.com/album/0bDFKtBkBTJxTVLwZ8H80N) | 3:52 |
-| 68 | [Only Love \(feat\. Pa Salieu\)](https://open.spotify.com/track/3IDekoiX1w61kjN0iWKciq) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Only Love \(feat\. Pa Salieu\)](https://open.spotify.com/album/6nilpOGqIruVfH4w5UDJlY) | 3:22 |
-| 69 | [Thank You \- 2008 Remaster](https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 2:50 |
+| 68 | [Thank You \- 2008 Remaster](https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 2:50 |
+| 69 | [Only Love \(feat\. Pa Salieu\)](https://open.spotify.com/track/3IDekoiX1w61kjN0iWKciq) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Only Love \(feat\. Pa Salieu\)](https://open.spotify.com/album/6nilpOGqIruVfH4w5UDJlY) | 3:22 |
 | 70 | [Spanish Joint](https://open.spotify.com/track/4euxFlxLWVGmZZLyYARTyE) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:44 |
 
-Snapshot ID: `AAAAAGfCom/onERCsSK7GzNSK/yiEJNn`
+Snapshot ID: `AAAAAO+B5xHeltwCH1ryo4k9e6aQ6LGo`

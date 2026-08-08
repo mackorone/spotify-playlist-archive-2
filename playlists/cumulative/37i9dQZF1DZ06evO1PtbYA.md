@@ -4,7 +4,7 @@
 
 > This is Asake\. The essential tracks, all in one playlist.
 
-67 songs - 3 hr 13 min
+68 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [satisfaction \(feat\. Asake\)](https://open.spotify.com/track/4ZWwAR58cXnPhuLcK3AdxJ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:41 | 2025-09-09 | 2026-03-20 |
 | [Stubborn](https://open.spotify.com/track/6LTnqcYe8dq4QC5Lh7vneM) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 2:56 | 2025-07-12 |  |
 | [Terminator](https://open.spotify.com/track/5ycsqezujKrwviU3VFhci1) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:35 | 2025-07-12 |  |
+| [THAT GIRL!](https://open.spotify.com/track/2DgmLCX1ojv7lE6xk2PD0H) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [THAT GIRL!](https://open.spotify.com/album/6WqlTMTWck54798Lhpv39d) | 2:12 | 2026-08-08 |  |
 | [Turbulence](https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [REAL, Vol\. 1](https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF) | 2:25 | 2026-01-25 |  |
 | [Uhh Yeahh](https://open.spotify.com/track/42Xw4kv2Wy75UugmQ4kv8P) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:24 | 2025-07-12 |  |
 | [Uptown Disco](https://open.spotify.com/track/7vdGiPrjK0gJBoZE8UhDMJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 3:59 | 2025-07-12 | 2026-05-17 |

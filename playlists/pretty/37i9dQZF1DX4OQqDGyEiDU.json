@@ -1,12 +1,12 @@
 {
   "description": "Explore the current wave of VOCALOID culture. Cover: Tokyo Manaka",
-  "num_followers": 121221,
+  "num_followers": 121230,
   "original_name": "VOCALOID now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADbFJNcHotxFUmnqZXBCAs+EJlkW",
+  "snapshot_id": "AAAAAH1VqT56CH0hUsDho4ECISF8oTL7",
   "tracks": [
     {
       "added_at": "2026-08-04 15:00:44",
@@ -559,8 +559,8 @@
     {
       "added_at": "2026-08-04 15:00:44",
       "album": {
-        "name": "\u30c6\u30ec\u30d1\u30b7",
-        "url": "https://open.spotify.com/album/5s4PZUXRTi75Lf9vb9lSVh"
+        "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0 (Best Friend Remix)",
+        "url": "https://open.spotify.com/album/7LeSWBUQBEBUp0mguX4fQs"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
         }
       ],
-      "duration_ms": 137746,
-      "name": "\u30c6\u30ec\u30d1\u30b7",
-      "url": "https://open.spotify.com/track/76kJA3LUe1uREGjlaOypkL"
+      "duration_ms": 178383,
+      "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0 (Best Friend Remix)",
+      "url": "https://open.spotify.com/track/5an1RVI4IDE9xP7iBRVssg"
     },
     {
       "added_at": "2026-08-04 15:00:44",
@@ -639,8 +639,8 @@
     {
       "added_at": "2026-08-04 15:00:44",
       "album": {
-        "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0 (Best Friend Remix)",
-        "url": "https://open.spotify.com/album/7LeSWBUQBEBUp0mguX4fQs"
+        "name": "\u30c6\u30ec\u30d1\u30b7",
+        "url": "https://open.spotify.com/album/5s4PZUXRTi75Lf9vb9lSVh"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
         }
       ],
-      "duration_ms": 178383,
-      "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0 (Best Friend Remix)",
-      "url": "https://open.spotify.com/track/5an1RVI4IDE9xP7iBRVssg"
+      "duration_ms": 137746,
+      "name": "\u30c6\u30ec\u30d1\u30b7",
+      "url": "https://open.spotify.com/track/76kJA3LUe1uREGjlaOypkL"
     },
     {
       "added_at": "2026-08-04 15:00:44",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-08-04 15:00:44",
       "album": {
-        "name": "\u304f\u3089\u3057\u30a2\u30bd\u30fc\u30c8",
-        "url": "https://open.spotify.com/album/15bUakbuDdhL0sHTLsli39"
-      },
-      "artists": [
-        {
-          "name": "\u96fb\u01c2\u9be8",
-          "url": "https://open.spotify.com/artist/6xcEdIK4pJTFHXLyvuUaXm"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "\u7ae5\u8a71\u306b\u306a\u3063\u305f\u3089\u3044\u3044\u306e\u306b",
-      "url": "https://open.spotify.com/track/0ZWQbOQpHp9UzpduRGfISw"
-    },
-    {
-      "added_at": "2026-08-04 15:00:44",
-      "album": {
         "name": "\u304d\u3085\u3046\u304f\u3089\u308a\u3093",
         "url": "https://open.spotify.com/album/5sFoyRdTiMJ7rpIlgRUsm9"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2026-08-04 15:00:44",
       "album": {
-        "name": "\u3044\u307e\u3059\u3050\u8f2a\u5efb",
-        "url": "https://open.spotify.com/album/7INI4kXA59Vti239hZ9gwe"
+        "name": "\u304f\u3089\u3057\u30a2\u30bd\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/15bUakbuDdhL0sHTLsli39"
       },
       "artists": [
         {
-          "name": "NAKISO",
-          "url": "https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj"
+          "name": "\u96fb\u01c2\u9be8",
+          "url": "https://open.spotify.com/artist/6xcEdIK4pJTFHXLyvuUaXm"
         }
       ],
-      "duration_ms": 122482,
-      "name": "\u3044\u307e\u3059\u3050\u8f2a\u5efb",
-      "url": "https://open.spotify.com/track/2YZa7FpeKe423Wvme0yKNf"
+      "duration_ms": 195693,
+      "name": "\u7ae5\u8a71\u306b\u306a\u3063\u305f\u3089\u3044\u3044\u306e\u306b",
+      "url": "https://open.spotify.com/track/0ZWQbOQpHp9UzpduRGfISw"
     },
     {
       "added_at": "2026-08-04 15:00:44",
@@ -875,6 +859,22 @@
       "duration_ms": 138533,
       "name": "\u30aa\u30fc\u30d0\u30fc\u30e9\u30a4\u30c9",
       "url": "https://open.spotify.com/track/6HznFPNdvbxgzm5jJyNlwp"
+    },
+    {
+      "added_at": "2026-08-04 15:00:44",
+      "album": {
+        "name": "\u3044\u307e\u3059\u3050\u8f2a\u5efb",
+        "url": "https://open.spotify.com/album/7INI4kXA59Vti239hZ9gwe"
+      },
+      "artists": [
+        {
+          "name": "NAKISO",
+          "url": "https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj"
+        }
+      ],
+      "duration_ms": 122482,
+      "name": "\u3044\u307e\u3059\u3050\u8f2a\u5efb",
+      "url": "https://open.spotify.com/track/2YZa7FpeKe423Wvme0yKNf"
     },
     {
       "added_at": "2026-08-04 15:00:44",

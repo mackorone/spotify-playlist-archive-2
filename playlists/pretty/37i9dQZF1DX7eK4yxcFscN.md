@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eK4yxcFscN.md) - [plain]
 
 > Enjoy the TWS 24/7:FOR:YOU Tour LIVE SET including the voices from stage! \(TWS 맴버들의 무대 멘트가 포함된 24/7:FOR:YOU 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,016 likes - 23 songs - 54 min 26 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,034 likes - 23 songs - 54 min 26 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eK4yxcFscN.md) - [plain]
 | 22 | [Comment 3](https://open.spotify.com/track/1q09fFhXbOXIPokHa3GhWs) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS TOUR 24/7:FOR:YOU 2026 Audio Liners](https://open.spotify.com/album/3VaUYWEtfyUWb8BtezkrZv) | 0:22 |
 | 23 | [Comment 4](https://open.spotify.com/track/30Q6Gtd5DfMxFIheTBMUaw) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS TOUR 24/7:FOR:YOU 2026 Audio Liners](https://open.spotify.com/album/3VaUYWEtfyUWb8BtezkrZv) | 0:44 |
 
-Snapshot ID: `AAAAAHCgOxPOrwBxv/hKrnYFpAO/rBKg`
+Snapshot ID: `AAAAAHPzx7f8WuYjn19i0z0dNdWRZKuL`

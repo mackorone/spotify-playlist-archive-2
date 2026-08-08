@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Fernandinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,084 likes - 50 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,371 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 8 | [Dono da Promessa / Por Causa Dele \- Ao Vivo](https://open.spotify.com/track/2AHUQaIEEoYUfpVUzxaLul) | [Marcados Pagode Gospel](https://open.spotify.com/artist/1cyFEihCjqmV3ymkewYSAK), [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Dono da Promessa / Por Causa Dele \(Ao Vivo\)](https://open.spotify.com/album/6c6RnbbGt8w1E3SUK4rLDS) | 5:59 |
 | 9 | [Você Vai Chegar](https://open.spotify.com/track/4leQkS7OykGQT6isQoiLCr) | [Ramon e Rafael](https://open.spotify.com/artist/0ivA4QP4IYhr99InHqVOLV), [Irmã Maria Joana](https://open.spotify.com/artist/2aDf62jVAZFbdAInQ0iZQE), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [André Cavalcante](https://open.spotify.com/artist/7LNwdGKKXpM9DXEx3TagtG) | [Você Vai Chegar](https://open.spotify.com/album/1kG2m6EM1BwfJ0fYvIJ1v0) | 5:00 |
 | 10 | [Yeshua \- Ao Vivo](https://open.spotify.com/track/4NWLkMDaK5X1fo1IdpsfT7) | [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y), [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [Barco a Vela: Águas Mais Profundas \(Acústico\), Ep\. 2 \[Ao Vivo\]](https://open.spotify.com/album/4L1yRi7kFLAEqWedm3JgAn) | 4:09 |
-| 11 | [Track 2](https://open.spotify.com/track/5qW5Re2Qzs7cYAYEAc5XZE) | [Cultura do Céu](https://open.spotify.com/artist/2CzYWEDa8pdDgcwaazooQd) | [Levantamos Nossa Fome \(Ao Vivo\)](https://open.spotify.com/album/1HHblapUDmMw1QAnlWf8d1) | 0:00 |
+| 11 | [Que Esse Fogo Não Se Apague \- Ao Vivo](https://open.spotify.com/track/5qW5Re2Qzs7cYAYEAc5XZE) | [Cultura do Céu](https://open.spotify.com/artist/2CzYWEDa8pdDgcwaazooQd), [Kaleb e Josh](https://open.spotify.com/artist/7lHNnOaw7HKhocFnGvCxpW), [Davi Fernandes](https://open.spotify.com/artist/6llGArQXTEY84S4Oto9Vll) | [Levantamos Nossa Fome \(Ao Vivo\)](https://open.spotify.com/album/1HHblapUDmMw1QAnlWf8d1) | 7:04 |
 | 12 | [Imperfeito \- Ao Vivo](https://open.spotify.com/track/3sqLvSiwdtqXoYtQg2gXTB) | [Júlia Rebeca](https://open.spotify.com/artist/4yXzgu0k50y7aH9n1LRjXC), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Imperfeito \(Ao Vivo\)](https://open.spotify.com/album/2JZNenqOJINmbMbw8msRY9) | 5:31 |
 | 13 | [Conta as Bênçãos](https://open.spotify.com/track/40Hexa4vjEwwJDH9Pq8WMJ) | [Eduardo & Silvana](https://open.spotify.com/artist/2EXxd9FUQGnYiOAmQSvxNu), [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Conta as Bênçãos](https://open.spotify.com/album/2qzZoB2svc1vifjECC7pOr) | 4:56 |
 | 14 | [Isaías](https://open.spotify.com/track/36PKCPADlGkdPgQr1SmTjX) | [David Cardoso](https://open.spotify.com/artist/3Ogh2gtYE5AdFkucntqTqn), [ONE\-Sounds](https://open.spotify.com/artist/71awyf4ddRgZM3UXc9s7ki) | [Primeiros Versos](https://open.spotify.com/album/2nNZiOFimPlgD7BtW9q62a) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 49 | [Preparem o Caminho](https://open.spotify.com/track/4qjuwx4exGGzYSNGpLTrH2) | [Sarah Lanza](https://open.spotify.com/artist/6MdZMOTIGQlJUOjfT02Q2J) | [Preparem o Caminho](https://open.spotify.com/album/4xc1E3kAL5NVRpqb5JwyDF) | 6:08 |
 | 50 | [Adeus \- Acústico](https://open.spotify.com/track/2BPotMeeXclPu1i3ED3hVf) | [Priscila Olly](https://open.spotify.com/artist/5hK2DFyP32D2bS9oQzbwzy) | [Adeus \(Acústico\)](https://open.spotify.com/album/2LOyjuXvgbIZRnJR1nUcXO) | 3:26 |
 
-Snapshot ID: `AAAAADIUc6FFZoclTgkZcI3rWI9m5/oT`
+Snapshot ID: `AAAAAGFkXE5T02vjpjKkMW/+OcypeQRZ`

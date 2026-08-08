@@ -2,7 +2,7 @@
 
 ### [Wilde Herzen](https://open.spotify.com/playlist/37i9dQZF1DWSFDWzEZlALC)
 
-> Indie, Pop und Rap mit deutschen Texten\. Cover: Amélia
+> Indie, Pop und Rap mit deutschen Texten\. Cover: lönneberger
 
 1,910 songs - 3 day 18 hr 0 min
 

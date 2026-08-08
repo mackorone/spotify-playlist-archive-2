@@ -2953,6 +2953,24 @@
     },
     {
       "album": {
+        "name": "Lean In, Kiss Me",
+        "url": "https://open.spotify.com/album/3FbC4QiZOBbpKENEnk1Wj6"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158973,
+      "name": "Lean In, Kiss Me",
+      "url": "https://open.spotify.com/track/4W5TwNu9mgYlIltWW6FnEE"
+    },
+    {
+      "album": {
         "name": "Leather",
         "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
       },
@@ -4778,6 +4796,42 @@
       "duration_ms": 183480,
       "name": "Take Her Home",
       "url": "https://open.spotify.com/track/3izIv4f7gxEZglHtcuqYtj"
+    },
+    {
+      "album": {
+        "name": "Banks Of The Trinity",
+        "url": "https://open.spotify.com/album/5HXVIeGnVkbxonX7SCj2HD"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178573,
+      "name": "Take Me Back (Leave Me There)",
+      "url": "https://open.spotify.com/track/3eZcmEO0X0nsfV8E3NZelo"
+    },
+    {
+      "album": {
+        "name": "TAKES ME BACK",
+        "url": "https://open.spotify.com/album/01QHPTGz57pKchYM5DxnJw"
+      },
+      "artists": [
+        {
+          "name": "James Johnston",
+          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189224,
+      "name": "TAKES ME BACK",
+      "url": "https://open.spotify.com/track/5ayb2novvCrkXxzDImS8GJ"
     },
     {
       "album": {

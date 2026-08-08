@@ -1,13 +1,177 @@
 {
-  "description": "Songs that are 100% written, produced, and performed by Women! Co-Curated this month by:  Carrie K",
-  "num_followers": 90822,
+  "description": "Songs that are 100% written, produced, and performed by Women! Co-Curated this month by:  Niina",
+  "num_followers": 90845,
   "original_name": "Created by Women",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIEHcXzEJ3bPRfF+AR/GSoYfjfJq",
+  "snapshot_id": "AAAAANytK8LahtBDzF4oa2As9PI5kLvU",
   "tracks": [
+    {
+      "added_at": "2026-08-07 04:00:33",
+      "album": {
+        "name": "IF U WANT IT",
+        "url": "https://open.spotify.com/album/48MSJa9Wu6bfUeV3T1bKVk"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
+          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/2hcwPLGuTW6fc2oVNacyBH"
+    },
+    {
+      "added_at": "2026-08-07 04:00:33",
+      "album": {
+        "name": "IF U WANT IT",
+        "url": "https://open.spotify.com/album/48MSJa9Wu6bfUeV3T1bKVk"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
+          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
+        }
+      ],
+      "duration_ms": 340660,
+      "name": "I DON'T CARE",
+      "url": "https://open.spotify.com/track/3IgW7yMxkiGVMvadq8BKTt"
+    },
+    {
+      "added_at": "2026-08-07 04:00:33",
+      "album": {
+        "name": "Gimme Dat",
+        "url": "https://open.spotify.com/album/2b06j6NmZwWm03yspjQKLC"
+      },
+      "artists": [
+        {
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/00Yp7ztleUYQsQ3wtcEf5X"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Gimme Dat",
+      "url": "https://open.spotify.com/track/1MwIuhWqaLKTA3CrAaEZM5"
+    },
+    {
+      "added_at": "2026-08-07 04:00:33",
+      "album": {
+        "name": "Big city life",
+        "url": "https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd"
+      },
+      "artists": [
+        {
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
+        }
+      ],
+      "duration_ms": 160452,
+      "name": "Feisty",
+      "url": "https://open.spotify.com/track/5b3yINi6jbTdURfGU4nKoC"
+    },
+    {
+      "added_at": "2026-08-07 04:00:33",
+      "album": {
+        "name": "2nd",
+        "url": "https://open.spotify.com/album/2lKNKxM6N6Q1nkKEZw7kkJ"
+      },
+      "artists": [
+        {
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+        }
+      ],
+      "duration_ms": 115927,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/3xzNx6376GxNDor46whFE6"
+    },
+    {
+      "added_at": "2026-08-07 04:00:33",
+      "album": {
+        "name": "SweetSexySavage (Deluxe)",
+        "url": "https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 191720,
+      "name": "CRZY",
+      "url": "https://open.spotify.com/track/6Dwtha2FtZFoMEBh5GR2sq"
+    },
+    {
+      "added_at": "2026-08-07 04:00:33",
+      "album": {
+        "name": "SAD HAPPY BIRTHDAY",
+        "url": "https://open.spotify.com/album/20lp4fiy7CNy9xmKxPI1xq"
+      },
+      "artists": [
+        {
+          "name": "BABY B",
+          "url": "https://open.spotify.com/artist/4zYjNfiqFyPOpoQg7m83Fc"
+        },
+        {
+          "name": "Elsie Bay",
+          "url": "https://open.spotify.com/artist/4YpY98ig3QIOUX50xQ21GE"
+        }
+      ],
+      "duration_ms": 153898,
+      "name": "SAD HAPPY BIRTHDAY",
+      "url": "https://open.spotify.com/track/21PPFDegzMYGBBc6bIvls6"
+    },
+    {
+      "added_at": "2026-08-07 04:00:33",
+      "album": {
+        "name": "Tha Rhythm",
+        "url": "https://open.spotify.com/album/165YpAL9f9nKxb3wFQOfg0"
+      },
+      "artists": [
+        {
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
+        }
+      ],
+      "duration_ms": 195831,
+      "name": "Tha Rhythm",
+      "url": "https://open.spotify.com/track/1EA0Nnt49MfZdBOXZqFuje"
+    },
+    {
+      "added_at": "2026-08-07 04:00:33",
+      "album": {
+        "name": "Burnt Orange",
+        "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        }
+      ],
+      "duration_ms": 336885,
+      "name": "Burnt Orange",
+      "url": "https://open.spotify.com/track/2Ot2c0TFAg0ENgAiDfh3IO"
+    },
+    {
+      "added_at": "2026-08-07 04:00:33",
+      "album": {
+        "name": "DreamySpaceyBlue",
+        "url": "https://open.spotify.com/album/4U0pwwxuvYHaoH71qD6N8c"
+      },
+      "artists": [
+        {
+          "name": "Bella Boo",
+          "url": "https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C"
+        }
+      ],
+      "duration_ms": 355738,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/0rFEnMc3sD4FGlDVIlpkI7"
+    },
     {
       "added_at": "2026-07-03 04:23:31",
       "album": {
@@ -687,334 +851,6 @@
       "duration_ms": 238560,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "100% HER Contemporary Songs",
-        "url": "https://open.spotify.com/album/3dhsJaOxFtezDOVzPoLRkY"
-      },
-      "artists": [
-        {
-          "name": "Olive",
-          "url": "https://open.spotify.com/artist/4d4czVhvwZ2vTH0fdsoSVF"
-        }
-      ],
-      "duration_ms": 191311,
-      "name": "Toy",
-      "url": "https://open.spotify.com/track/3gY8vdYyXNS3k4Ffr2xWIy"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
-      },
-      "artists": [
-        {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
-        }
-      ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "Hounds of Love (2018 Remaster)",
-        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 300840,
-      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
-      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "Nobody Loves Me (feat. ELIO)",
-        "url": "https://open.spotify.com/album/65uQzQ8mRTTSEYhawsn1ZY"
-      },
-      "artists": [
-        {
-          "name": "Winona Oak",
-          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
-        },
-        {
-          "name": "ELIO",
-          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
-        }
-      ],
-      "duration_ms": 150763,
-      "name": "Nobody Loves Me (feat. ELIO)",
-      "url": "https://open.spotify.com/track/40CyjWHnex920T67TMP5zO"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "Jealousy",
-        "url": "https://open.spotify.com/album/3oL1oPIowhBU9A0hL6Qrgz"
-      },
-      "artists": [
-        {
-          "name": "Sval",
-          "url": "https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0"
-        }
-      ],
-      "duration_ms": 151254,
-      "name": "Jealousy",
-      "url": "https://open.spotify.com/track/2ZXHh2fow12ziw45GhNJf4"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "House Party",
-        "url": "https://open.spotify.com/album/5UXOGTJWJvIFGKQ8zY0KdJ"
-      },
-      "artists": [
-        {
-          "name": "Shontelle",
-          "url": "https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc"
-        }
-      ],
-      "duration_ms": 158111,
-      "name": "House Party",
-      "url": "https://open.spotify.com/track/3ZtKu3bvdoZY65UmB7oAq4"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "M!ssundaztood (Expanded Edition)",
-        "url": "https://open.spotify.com/album/57wJKO7qrPw56iOEKhTmg2"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 192533,
-      "name": "Get the Party Started",
-      "url": "https://open.spotify.com/track/02jcEwywffn3Tsb48fXmlW"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "Summer Fling",
-        "url": "https://open.spotify.com/album/1opDOrtEMWuAiAEl9OI6CE"
-      },
-      "artists": [
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 215789,
-      "name": "Summer Fling",
-      "url": "https://open.spotify.com/track/0370DYqDziz7hpwlMBKRx5"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/5ziOA3BzD49xDKsSJMMikl"
-      },
-      "artists": [
-        {
-          "name": "JOY.",
-          "url": "https://open.spotify.com/artist/2sphpXGg1u97VSzbm5gR2P"
-        }
-      ],
-      "duration_ms": 219803,
-      "name": "Out of Love",
-      "url": "https://open.spotify.com/track/2EY3pVlOb3gio2j2dk8Yg6"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "KISSING CONCRETE",
-        "url": "https://open.spotify.com/album/3gWbQloPE5DnaADqGHCyWN"
-      },
-      "artists": [
-        {
-          "name": "KANNER",
-          "url": "https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh"
-        }
-      ],
-      "duration_ms": 137250,
-      "name": "BAD AT MATH",
-      "url": "https://open.spotify.com/track/01Sa5D6Odl5TCylRxMJTse"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5OQHSj1cZeZUS34ePprYFq"
-      },
-      "artists": [
-        {
-          "name": "Lara Buchanan",
-          "url": "https://open.spotify.com/artist/2MpvmnNz8i4y2XPX2DLpPh"
-        }
-      ],
-      "duration_ms": 199322,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/3Cu4apMkDxFIIh8aKNFNPg"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "BOYS",
-        "url": "https://open.spotify.com/album/1wFvwQ7b3bpe4YbzFs7H4d"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Bugaboo",
-      "url": "https://open.spotify.com/track/4RqulYdOhSdFIoxZKNp1ot"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "Ungodly Hour",
-        "url": "https://open.spotify.com/album/2HIaUwS0PTUeqFFYHBBGAN"
-      },
-      "artists": [
-        {
-          "name": "Chloe x Halle",
-          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
-        }
-      ],
-      "duration_ms": 211586,
-      "name": "Wonder What She Thinks of Me",
-      "url": "https://open.spotify.com/track/4keqQBiftWkXbPOSsjK7EH"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 109906,
-      "name": "Fun Girl",
-      "url": "https://open.spotify.com/track/78mXeWyY9ZEqOCkTl3nGfI"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "Songs In A Minor",
-        "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 303333,
-      "name": "A Woman's Worth",
-      "url": "https://open.spotify.com/track/0rimetBQIYXE3uMCbuXBUa"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "stardust",
-        "url": "https://open.spotify.com/album/2HNjUP7VDUpyxQ2J3Cbch4"
-      },
-      "artists": [
-        {
-          "name": "Freya Skye",
-          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
-        }
-      ],
-      "duration_ms": 142088,
-      "name": "silent treatment",
-      "url": "https://open.spotify.com/track/1U3ZQNpnLslt4lCyQZzUx0"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "jonathan",
-        "url": "https://open.spotify.com/album/5fqzAMfT5w2xxvgtNR8k5e"
-      },
-      "artists": [
-        {
-          "name": "carobae",
-          "url": "https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd"
-        }
-      ],
-      "duration_ms": 208297,
-      "name": "jonathan",
-      "url": "https://open.spotify.com/track/1mHJ0Eol0og89OSe2qJ8zS"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "BUTTERF-LIES",
-        "url": "https://open.spotify.com/album/4bpXUnxUEyqVyQHGPVIgGI"
-      },
-      "artists": [
-        {
-          "name": "Mira Housey",
-          "url": "https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg"
-        }
-      ],
-      "duration_ms": 128445,
-      "name": "BUTTERF-LIES",
-      "url": "https://open.spotify.com/track/1noA2W44E4YqekIJwudFO2"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "WWE",
-        "url": "https://open.spotify.com/album/3tHsc212qluTxRO58PxzII"
-      },
-      "artists": [
-        {
-          "name": "Summer Overstreet",
-          "url": "https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz"
-        }
-      ],
-      "duration_ms": 200260,
-      "name": "WWE",
-      "url": "https://open.spotify.com/track/4oe7YRTpx8in784w0Ggxn1"
-    },
-    {
-      "added_at": "2026-07-03 04:23:31",
-      "album": {
-        "name": "Triple Shooting Star",
-        "url": "https://open.spotify.com/album/1aKpJBuspv01k8rfpD4wqR"
-      },
-      "artists": [
-        {
-          "name": "Annika Bennett",
-          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
-        },
-        {
-          "name": "Carol Ades",
-          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
-        }
-      ],
-      "duration_ms": 171684,
-      "name": "Like My Mother",
-      "url": "https://open.spotify.com/track/2zNuLLWvkMehRLKL1N3CTw"
     }
   ],
   "unique_name": "Created by Women",

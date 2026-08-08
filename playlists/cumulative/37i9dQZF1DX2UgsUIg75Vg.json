@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chill r&b. Cover: Jacquees",
+  "description": "Chill r&b. Cover: FLO",
   "name": "Chilled R&B",
   "tracks": [
     {
@@ -2364,6 +2364,28 @@
       "duration_ms": 175999,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/46emxvSTVCV9JNhR7vx0f1"
+    },
+    {
+      "album": {
+        "name": "Blue Island",
+        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223066,
+      "name": "Babygirl (feat. Doechii)",
+      "url": "https://open.spotify.com/track/7b1ue9M7mNskt86uE3TlN7"
     },
     {
       "album": {
@@ -4958,7 +4980,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 171789,
       "name": "Can't Explain It (with Girlfriend)",
       "url": "https://open.spotify.com/track/6Cb7FCGm6Gatt4vhpJsynC"
@@ -8240,6 +8262,28 @@
       "duration_ms": 185132,
       "name": "Drive",
       "url": "https://open.spotify.com/track/2qYbtIf8dRkBkKIcZVGFDq"
+    },
+    {
+      "album": {
+        "name": "DO YOU SEE ME?",
+        "url": "https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        },
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202136,
+      "name": "drive me off the wall (feat. Deb Never)",
+      "url": "https://open.spotify.com/track/6B8TMH1kpOFNv6SbGav2F0"
     },
     {
       "album": {
@@ -13536,7 +13580,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 188225,
       "name": "Home",
       "url": "https://open.spotify.com/track/6Q7w55fGJRW51X9En2A0wS"
@@ -14612,7 +14656,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 206222,
       "name": "i'm ready (feat. Odeal)",
       "url": "https://open.spotify.com/track/6E8TyGYNEu1Y5vns35uyHa"
@@ -16962,6 +17006,24 @@
       "duration_ms": 185223,
       "name": "Like I Want You - Acoustic",
       "url": "https://open.spotify.com/track/0qXu4pFQSIwkfTUgkE6WzF"
+    },
+    {
+      "album": {
+        "name": "Icon (Director's Cut)",
+        "url": "https://open.spotify.com/album/6HDOmDgxzVWIhBAKDGI4tV"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200610,
+      "name": "like it was. [bonus track]",
+      "url": "https://open.spotify.com/track/2UgTHKJFCYqQ7CGmmslDeC"
     },
     {
       "album": {
@@ -19459,6 +19521,24 @@
     },
     {
       "album": {
+        "name": "MORNING DEW (DONK)",
+        "url": "https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243896,
+      "name": "MORNING DEW (DONK)",
+      "url": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT"
+    },
+    {
+      "album": {
         "name": "Mortal",
         "url": "https://open.spotify.com/album/0HP25133R6A9o7HXKxVEPi"
       },
@@ -20266,7 +20346,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 172376,
       "name": "NEVER BE THE SAME",
       "url": "https://open.spotify.com/track/1bFObYeRf8zfPOh4IJqrYf"
@@ -24127,6 +24207,24 @@
     },
     {
       "album": {
+        "name": "Catch n' Release",
+        "url": "https://open.spotify.com/album/7xyEdU4cfiwBoiNu6GvIEJ"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167287,
+      "name": "Red Wine Holiday",
+      "url": "https://open.spotify.com/track/7xRM7xmbUsTROH08OoxsEs"
+    },
+    {
+      "album": {
         "name": "Reflection Station",
         "url": "https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk"
       },
@@ -26266,6 +26364,24 @@
       "duration_ms": 146363,
       "name": "Shut It Down",
       "url": "https://open.spotify.com/track/2lb2g8Otp8qDlpNFTVHjlh"
+    },
+    {
+      "album": {
+        "name": "THERAPY AT THE CLUB",
+        "url": "https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/2mSdn53xu9DuJ7RBY8efTn"
     },
     {
       "album": {
@@ -30958,7 +31074,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 131200,
       "name": "TREAT ME",
       "url": "https://open.spotify.com/track/1OzE3r605HVqgqwRi4nYYl"
@@ -32462,7 +32578,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 229112,
       "name": "Watching Us (with Leon Thomas)",
       "url": "https://open.spotify.com/track/1MWJ3pny2L1eiZTAYTaYwJ"

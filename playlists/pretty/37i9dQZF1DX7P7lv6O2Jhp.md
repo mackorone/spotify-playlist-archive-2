@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7P7lv6O2Jhp.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Scott Evans
 
-[Spotify](https://open.spotify.com/user/spotify) - 454 likes - 47 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 470 likes - 47 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7P7lv6O2Jhp.md) - [plain]
 | 46 | [Be Glad](https://open.spotify.com/track/5Zsji1nnvZqRDwysKs4XGR) | [LeeVon CrashCut](https://open.spotify.com/artist/2YocjJzRveNsyXbF2tks8b) | [I'm Not Ashamed of the Gospel](https://open.spotify.com/album/4sGeAl9nkUP65coQUKP2VQ) | 6:45 |
 | 47 | [psychofreak \(feat\. WILLOW\)](https://open.spotify.com/track/705dwKmZCd7ImAUyyD6Mpm) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 3:21 |
 
-Snapshot ID: `AAAAAHlaX/Uw0Ok5DA7jXXEfv8M+A313`
+Snapshot ID: `AAAAAHg1QdZf3xZr4mqslhY1NX/B/5Ka`

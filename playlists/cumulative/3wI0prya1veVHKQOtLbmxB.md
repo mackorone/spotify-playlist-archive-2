@@ -2,9 +2,9 @@
 
 ### [songs to fall in love to \| love songs 2026](https://open.spotify.com/playlist/3wI0prya1veVHKQOtLbmxB)
 
-> Uh oh! Feeling all the butterflies in your stomach? Constantly checking your phone to see if they texted back? Feel all the feels with this playlist\. You might be in love\. \#coversforlovers
+> Fall deeply in love 💖 with this romantic playlist! Featuring soulful ballads, acoustic love songs &amp; intimate tracks from Ed Sheeran, John Legend, Adele, Bruno Mars, and more\. Perfect for date nights or dreaming of romance\. Updated weekly\. Like &amp; Save!
 
-333 songs - 20 hr 4 min
+335 songs - 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [L O V E](https://open.spotify.com/track/4m4aQLiPbWFyE07xRoJPhc) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Call Me Irresponsible \(Deluxe\)](https://open.spotify.com/album/5dXU3rx7fHkNJ1kTzvRQb3) | 2:50 | 2025-02-12 |  |
 | [Last Request](https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:40 | 2025-01-14 |  |
 | [Lavender Haze](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:22 | 2023-04-21 | 2025-01-15 |
+| [Lean In, Kiss Me](https://open.spotify.com/track/4W5TwNu9mgYlIltWW6FnEE) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Lean In, Kiss Me](https://open.spotify.com/album/3FbC4QiZOBbpKENEnk1Wj6) | 2:38 | 2026-08-07 |  |
 | [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 | 2021-09-13 | 2023-03-11 |
 | [LEVII'S JEANS](https://open.spotify.com/track/2UDARQiksl207HcSduDpov) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:17 | 2024-04-05 | 2025-01-15 |
 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 | 2023-02-09 | 2023-04-29 |
@@ -251,6 +252,7 @@
 | [Purple Rain](https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9) | 8:41 | 2025-11-22 |  |
 | [r u gonna love me?](https://open.spotify.com/track/7lPQOKHFmCNsCoa10lDOV7) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [r u gonna love me?](https://open.spotify.com/album/7bAqvJp4f2XqND4G5MkFn2) | 3:03 | 2026-01-09 | 2026-04-16 |
 | [Religiously](https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:58 | 2023-08-11 | 2024-03-02 |
+| [RESCUER](https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [RESCUER](https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq) | 3:19 | 2026-08-07 |  |
 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2024-02-01 |  |
 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 | 2026-02-27 |  |
 | [Ruin My Life](https://open.spotify.com/track/4nyY8oVjbX2d4qzlpiVM5n) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/79y7DSLFQH3907u4ysOMGr) | 3:10 | 2026-01-09 | 2026-04-16 |

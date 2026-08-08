@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,314 likes - 65 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,317 likes - 65 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 30 | [Vem Curtir Com Jackson](https://open.spotify.com/track/5irR7SwEE5M0YqKGL7XiW9) | [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq) | [Ao Som do Fruto, Vol\. 02](https://open.spotify.com/album/4t9z4MjfN7DeHCP6KlGuSs) | 3:49 |
 | 31 | [Tchau Pra Você \- Ao Vivo em Portugal](https://open.spotify.com/track/3vtTlxjcAKKjPs3E6V9QCL) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Uma noite Amazônica \(Ao Vivo em Portugal\)](https://open.spotify.com/album/1UATryKcX3smDVVk4XWJ8R) | 3:50 |
 | 32 | [Eu Te Venero](https://open.spotify.com/track/2xPYB3pXXhW4dLY58esXJh) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Marcantes](https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX) | 4:56 |
-| 33 | [Clima de Rodeio](https://open.spotify.com/track/1WBLJW3c8uaEMe5FBPaqyF) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [Clima de Rodeio](https://open.spotify.com/album/1RKyc13s0UFhSd00vYdCEi) | 1:56 |
+| 33 | [Não Vou Te Deixar](https://open.spotify.com/track/5xe90Er7lM8ztWTTZQSoYR) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [TecnoShow](https://open.spotify.com/album/4kOyNVMQ2ve1jnEPajq9ua) | 3:38 |
 | 34 | [Ela Tá Beba Doida](https://open.spotify.com/track/2BybrcWAgQO8ZHtaIlkzOM) | [Banda Xeiro De Mel](https://open.spotify.com/artist/15fVYlG29onbGj5w3QhtKy) | [Banda Xeiro de Mel \(Tecnobrega \- O Ritmo Que Conquistou o Brasil\)](https://open.spotify.com/album/1Ll5NXrV9VDwaAw80KSl2N) | 3:35 |
 | 35 | [Paixão no Lendário Rubi](https://open.spotify.com/track/0XW5DXXvsCSUaD3IpSnKq6) | [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq), [Valéria Paiva](https://open.spotify.com/artist/2j2TgiOSC2bsZlRiN5MFaS) | [Paixão no Lendário Rubi](https://open.spotify.com/album/3TCx83Wfw1XcrqyCx7x2s3) | 4:23 |
 | 36 | [Agora Somos Ex](https://open.spotify.com/track/3XL2i8IhA4YJaOZ4gASuEx) | [Asas Livres](https://open.spotify.com/artist/0cyzEOy6DVvL0pPDnW61Xx) | [Agora Somos Ex](https://open.spotify.com/album/4m1SAIKfDy3s63InxRzLPX) | 3:40 |
 | 37 | [Grito Seu Nome](https://open.spotify.com/track/3JQLEtwCzTNwrjbbxoVDZE) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Sucessos](https://open.spotify.com/album/6UqGyxulGDAtJGQiy5gRP8) | 3:03 |
-| 38 | [Não Vou Te Deixar](https://open.spotify.com/track/5xe90Er7lM8ztWTTZQSoYR) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [TecnoShow](https://open.spotify.com/album/4kOyNVMQ2ve1jnEPajq9ua) | 3:38 |
+| 38 | [Clima de Rodeio](https://open.spotify.com/track/1WBLJW3c8uaEMe5FBPaqyF) | [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [Clima de Rodeio](https://open.spotify.com/album/1RKyc13s0UFhSd00vYdCEi) | 1:56 |
 | 39 | [Teu Sorriso](https://open.spotify.com/track/0ZfWvGIEbc3hhYsNMgMP2b) | [Banda AR\-15](https://open.spotify.com/artist/6wYo9f6kXFslXYtATvhM86), [HEIKON](https://open.spotify.com/artist/6oLO9UzEcaMB61uYNVRSWw) | [Teu Sorriso](https://open.spotify.com/album/7lV4fVTPnGuoqg3mQyQGVj) | 2:22 |
 | 40 | [Fica ou Sai \- Ao Vivo](https://open.spotify.com/track/7uFUgHj2oYSgnGQwnQbxpJ) | [Rebeca Lindsay](https://open.spotify.com/artist/3yMbb5fw0spHqSkVZpsuGq) | [Fica ou Sai \(Ao Vivo\)](https://open.spotify.com/album/0XRhuNGN7G2OKsDvKRoIJx) | 2:21 |
 | 41 | [Búfalo do Marajó](https://open.spotify.com/track/76tnBMbH2D5HbvZ3g5ZRSI) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Allanzinho](https://open.spotify.com/artist/73qBqoOL5FnxUSdtTl5JQ0) | [BOROGODÓ 2](https://open.spotify.com/album/19zfL8aj6RlLqajsgOwQKo) | 2:38 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 64 | [Vem Meu Amor](https://open.spotify.com/track/45bMR3o3SPGBRNf6CBFian) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj) | [Marcantes](https://open.spotify.com/album/1VUSKzW4PssDDqhGh0oKiX) | 4:36 |
 | 65 | [Olha Bem Pra Mim](https://open.spotify.com/track/4gLQDSMuWg9JOkTtURE0po) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj), [Solange Almeida](https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq) | [Olha Bem Pra Mim](https://open.spotify.com/album/0Bc2jtElw3UGoWFzL1CSzU) | 3:18 |
 
-Snapshot ID: `AAAAAI0U4NVjprQVZ3wb3QeFcflJ6RSK`
+Snapshot ID: `AAAAAF8UYWAHCccrgDPaua20VWJCrqGX`

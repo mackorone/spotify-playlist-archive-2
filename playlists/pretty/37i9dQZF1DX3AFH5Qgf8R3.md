@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AFH5Qgf8R3.md) - [plain]
 | 83 | [새벽한시 \(1AM\)](https://open.spotify.com/track/3JmlYV4mm5jdo2ZWzATLBv) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [RISE](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) | 3:11 |
 | 84 | [눈,코,입 \(Eyes, Nose, Lips\)](https://open.spotify.com/track/0lYtIvI7bO51PZSeK22Mbz) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [RISE](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) | 3:49 |
 
-Snapshot ID: `AAAAAB79dnBtKP+C6q/Fv141ywu/CoQS`
+Snapshot ID: `AAAAAPca0eWgrx7Lw1YE8CKfaJlZP805`

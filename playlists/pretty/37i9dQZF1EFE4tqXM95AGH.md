@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,441 likes - 190 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,442 likes - 190 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,9 +168,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 158 | [The Parking Lot](https://open.spotify.com/track/2VqSRyFEZkQpdcLK3bTuto) | [Score from the Motion Picture](https://open.spotify.com/artist/5aO9zrQvLB71hp1wtrIW2n) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 4:45 |
 | 159 | [No Bad Vibes](https://open.spotify.com/track/0TbvVq6TBqyDcnUQy8eJk5) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Communication](https://open.spotify.com/album/3ED7XEg0vYJlynJMpbUTSi) | 3:31 |
 | 160 | [I Could Never](https://open.spotify.com/track/0ynkaEihHTfzLS9qRL9Eiw) | [Keljet](https://open.spotify.com/artist/0aF0pIALJDBCfFgqiTaK2g), [Bridesmen](https://open.spotify.com/artist/6R3k2rJBwhOkDpd7zhh3uM) | [I Could Never](https://open.spotify.com/album/0CutQ6jJHpuTcxhVL89i8X) | 3:27 |
-| 161 | [Fake Smile](https://open.spotify.com/track/5zwzBgzOdQ3HaTHpBFzFo2) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Tough Boy](https://open.spotify.com/album/7cHOGdyjoxS0Ou57ax4Fws) | 2:29 |
-| 162 | [Good Time People](https://open.spotify.com/track/5wpQAyoihCL3cOVaza1rIp) | [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Good Time People](https://open.spotify.com/album/7f46jaoVkkKNBNeyyGn2e4) | 3:47 |
-| 163 | [SWIMMING POOLS](https://open.spotify.com/track/18mCnmIVtNQoQTMs9AclYh) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood](https://open.spotify.com/album/64AUWuw7LstVHT40CmFVg4) | 3:24 |
+| 161 | [SWIMMING POOLS](https://open.spotify.com/track/18mCnmIVtNQoQTMs9AclYh) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood](https://open.spotify.com/album/64AUWuw7LstVHT40CmFVg4) | 3:24 |
+| 162 | [Fake Smile](https://open.spotify.com/track/5zwzBgzOdQ3HaTHpBFzFo2) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Tough Boy](https://open.spotify.com/album/7cHOGdyjoxS0Ou57ax4Fws) | 2:29 |
+| 163 | [Good Time People](https://open.spotify.com/track/5wpQAyoihCL3cOVaza1rIp) | [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Good Time People](https://open.spotify.com/album/7f46jaoVkkKNBNeyyGn2e4) | 3:47 |
 | 164 | [Chainmail](https://open.spotify.com/track/0JhS4sHLmNN0St0YgXLwjd) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Ur an Angel I’m Just Particles](https://open.spotify.com/album/6rcYUB0G3fFJrRQSmIHO93) | 2:46 |
 | 165 | [1991](https://open.spotify.com/track/1RAoTgX7utbegR8hZWGthA) | [Kat Graham](https://open.spotify.com/artist/4rPZIJpeNz7GBm2t8YhR7j) | [Roxbury Drive](https://open.spotify.com/album/1e0lSv5aE8x3wAuaFFvv6r) | 3:15 |
 | 166 | [All My Issues](https://open.spotify.com/track/0QEQmLonfSYWYmU6w2l8TD) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Excuse Me \(Deluxe\)](https://open.spotify.com/album/3CEWoLRhNHEtBcw1wmgWd8) | 3:16 |
@@ -178,8 +178,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 168 | [FYI](https://open.spotify.com/track/0NFMRxhxAPudloawaWi3oq) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 3:24 |
 | 169 | [Two Thumbs](https://open.spotify.com/track/6jEVA2JVqQPZ5S5XtPcac1) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [lil kiiwi](https://open.spotify.com/album/0AUG7Sa8IIiCHTW6GONdf2) | 2:56 |
 | 170 | [Windows](https://open.spotify.com/track/2sDjAcLzPYZYUYOtfk5R4x) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 3:16 |
-| 171 | [This Hot](https://open.spotify.com/track/1rWU7p9FB66Q0p6amgjUJU) | [Queens of the Universe](https://open.spotify.com/artist/3QSHpTssLhVDrExX1O22Js) | [This Hot](https://open.spotify.com/album/72uQVTelpMHnNG7QnVL7Kb) | 1:59 |
-| 172 | [chateau](https://open.spotify.com/track/58aMAhdMkN5OO4y9oRjd8E) | [2charm](https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr) | [star scum city](https://open.spotify.com/album/0T5M2ccVJg6rJZaLAp5xmZ) | 3:41 |
+| 171 | [chateau](https://open.spotify.com/track/58aMAhdMkN5OO4y9oRjd8E) | [2charm](https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr) | [star scum city](https://open.spotify.com/album/0T5M2ccVJg6rJZaLAp5xmZ) | 3:41 |
+| 172 | [This Hot](https://open.spotify.com/track/1rWU7p9FB66Q0p6amgjUJU) | [Queens of the Universe](https://open.spotify.com/artist/3QSHpTssLhVDrExX1O22Js) | [This Hot](https://open.spotify.com/album/72uQVTelpMHnNG7QnVL7Kb) | 1:59 |
 | 173 | [RUM PUM PUM](https://open.spotify.com/track/3K64KNHsI85rLpAjCpYKGq) | [Matt Rogers](https://open.spotify.com/artist/437cckneXTy4cj15iUWAVZ) | [Have You Heard of Christmas?](https://open.spotify.com/album/24iTQVXRE5uO3sW7yBMyiC) | 2:22 |
 | 174 | [The Way It Felt To Love You](https://open.spotify.com/track/3fiMdp5V5W07qJQs29nZZU) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP) | [To Fall Asleep](https://open.spotify.com/album/4zst0WAtcY1VwixfMox4jB) | 3:18 |
 | 175 | [Horizontal](https://open.spotify.com/track/6Sb9PMrcPxtImC7tli7ubJ) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 2:59 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 189 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 190 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `AcY40gAAAAAV0TwHJgzAXef2Xke7UstU`
+Snapshot ID: `AcY+GAAAAAAD0m7jSMxsNZCpgWkFF+kW`

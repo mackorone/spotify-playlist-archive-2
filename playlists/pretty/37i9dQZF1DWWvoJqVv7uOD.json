@@ -1,13 +1,29 @@
 {
-  "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: ROLE MODEL",
-  "num_followers": 502690,
+  "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: Ravyn Lenae",
+  "num_followers": 502714,
   "original_name": "Everyday Favorites ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALSDAqluZ5gdEQRwKAGcIa7hLCj0",
+  "snapshot_id": "AAAAAGtdV3e7ykxUVEC6vkH/N6Ursukc",
   "tracks": [
+    {
+      "added_at": "2026-08-07 04:02:27",
+      "album": {
+        "name": "Blue Island",
+        "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "In & Out",
+      "url": "https://open.spotify.com/track/6KLLoGHAIYPfNYfRo4U1Ql"
+    },
     {
       "added_at": "2026-07-31 04:01:52",
       "album": {
@@ -39,6 +55,22 @@
       "duration_ms": 175763,
       "name": "Cowgirl",
       "url": "https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly"
+    },
+    {
+      "added_at": "2026-08-07 04:02:27",
+      "album": {
+        "name": "Secret Language",
+        "url": "https://open.spotify.com/album/5O70O8co709tMC46LDb8uF"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 233785,
+      "name": "Secret Language",
+      "url": "https://open.spotify.com/track/1ccz8ZdpV5m0eGcIw4gZJA"
     },
     {
       "added_at": "2026-07-10 04:02:16",
@@ -87,6 +119,22 @@
       "duration_ms": 185337,
       "name": "Tastes So Good",
       "url": "https://open.spotify.com/track/4gluSAEoFadJsa26yk6UHq"
+    },
+    {
+      "added_at": "2026-08-07 04:02:27",
+      "album": {
+        "name": "RESCUER",
+        "url": "https://open.spotify.com/album/3u6kbKgAZyBMCHSMT39ATq"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 199166,
+      "name": "RESCUER",
+      "url": "https://open.spotify.com/track/19Lnk1Q2FJcB3Hia0wfgye"
     },
     {
       "added_at": "2025-08-15 04:00:30",
@@ -151,6 +199,22 @@
       "duration_ms": 225985,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/0rjGD5jVtVbj131wDsfbJG"
+    },
+    {
+      "added_at": "2026-08-07 04:02:27",
+      "album": {
+        "name": "When He\u2019s Gone",
+        "url": "https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 186360,
+      "name": "When He\u2019s Gone",
+      "url": "https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz"
     },
     {
       "added_at": "2026-06-26 04:06:54",
@@ -549,6 +613,26 @@
       "url": "https://open.spotify.com/track/7Hst7K3DBhfogOf7SFlK9d"
     },
     {
+      "added_at": "2026-08-07 04:02:27",
+      "album": {
+        "name": "Crazy Rainbow",
+        "url": "https://open.spotify.com/album/7oyNub5nsPkJoyV6xatDcN"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 136662,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/25daS9NP6OyeqyWgnsbBut"
+    },
+    {
       "added_at": "2026-04-17 16:00:24",
       "album": {
         "name": "Kingdom of Fear",
@@ -647,26 +731,6 @@
       "duration_ms": 215709,
       "name": "The Time Of My Life",
       "url": "https://open.spotify.com/track/08JkZRttDnq5SkZ9vCPSjJ"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Die With A Smile",
-        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
       "added_at": "2025-11-28 05:20:46",
@@ -1041,38 +1105,6 @@
       "url": "https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV"
     },
     {
-      "added_at": "2025-05-30 04:00:32",
-      "album": {
-        "name": "Something Beautiful",
-        "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 186639,
-      "name": "Easy Lover",
-      "url": "https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg"
-    },
-    {
-      "added_at": "2025-08-15 04:00:30",
-      "album": {
-        "name": "Everywhere I Went, Led Me to Where I Didn't Want to Be",
-        "url": "https://open.spotify.com/album/11MZEo3reiFQw3T43pkbFM"
-      },
-      "artists": [
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 210317,
-      "name": "Diamond",
-      "url": "https://open.spotify.com/track/5EOhI3uwuyUnGshN7CsRqI"
-    },
-    {
       "added_at": "2026-05-15 23:14:14",
       "album": {
         "name": "Hit the Wall",
@@ -1201,22 +1233,6 @@
       "url": "https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL"
     },
     {
-      "added_at": "2025-07-11 04:00:28",
-      "album": {
-        "name": "she got a thing about her",
-        "url": "https://open.spotify.com/album/2CcfkAn9LW1d8UgG6eHqxy"
-      },
-      "artists": [
-        {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
-        }
-      ],
-      "duration_ms": 138653,
-      "name": "she got a thing about her",
-      "url": "https://open.spotify.com/track/1PyaesWoAa7Xz7TEbyyvcz"
-    },
-    {
       "added_at": "2026-05-15 23:14:14",
       "album": {
         "name": "FINE PLACE TO DIE",
@@ -1231,22 +1247,6 @@
       "duration_ms": 187423,
       "name": "FINE PLACE TO DIE",
       "url": "https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW"
-    },
-    {
-      "added_at": "2026-01-02 05:00:14",
-      "album": {
-        "name": "Gut Punch",
-        "url": "https://open.spotify.com/album/7EPAooBQphOBWLEnYrljAn"
-      },
-      "artists": [
-        {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
-        }
-      ],
-      "duration_ms": 188386,
-      "name": "Gut Punch",
-      "url": "https://open.spotify.com/track/0kG4t24uQCfcC1aZL3LyFu"
     }
   ],
   "unique_name": "Everyday Favorites ",

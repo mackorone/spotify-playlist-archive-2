@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd frisse hits! Cover: The Opposites
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,512 likes - 46 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,569 likes - 46 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 45 | [Weer Een Dagje Ouder](https://open.spotify.com/track/7zAYKczeN7LibBSPX48qrW) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Samen Is Leuker Dan Alleen](https://open.spotify.com/album/48Y7pJ00km4Md3neQJM9Tf) | 2:43 |
 | 46 | [Doors](https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 3:51 |
 
-Snapshot ID: `AAAAALvb9zXjpzdBT1mWoRg2ezj1NQQG`
+Snapshot ID: `AAAAADWju/ZhrhTR6dW3zmikJwYJGTFP`

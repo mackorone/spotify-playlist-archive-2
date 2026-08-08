@@ -2,9 +2,9 @@
 
 ### [Women of Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DX2QYsoI8NDDe)
 
-> ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Nora Gonzalez
+> ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Lucero
 
-711 songs - 1 day 14 hr 21 min
+715 songs - 1 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Fruta Prohibida](https://open.spotify.com/track/5SXHKeVmlPxpP5jNkOXo1B) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Que No Se Apague La Música](https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl) | 2:53 | 2022-01-07 | 2023-03-04 |
 | [Frágil](https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Frágil](https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2) | 2:40 | 2023-04-14 | 2026-02-21 |
 | [FUERTE](https://open.spotify.com/track/50BpQ4kAChtcx8EK3HywjN) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Diamantes](https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap) | 3:09 | 2024-06-07 | 2025-10-25 |
+| [Fuertes Declaraciones](https://open.spotify.com/track/0LM3ZWJoMBd4r5cRaDhxp2) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Fuertes Declaraciones](https://open.spotify.com/album/2r66uR6h6BTZivk268eW3A) | 2:31 | 2026-08-07 |  |
 | [Fumar Beber](https://open.spotify.com/track/7iWyYpsMYA8VUuJqeRn9B3) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G), [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v), [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd), [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK), [Designo Celestial](https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb) | [Fumar Beber](https://open.spotify.com/album/7t8IxeseGdriSRYY9lCUlw) | 3:14 | 2024-03-08 | 2025-10-11 |
 | [FÉNIX](https://open.spotify.com/track/6tkpFXONb3TLwIZUGeiXiB) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [FÉNIX](https://open.spotify.com/album/6Ex5X0AqZ7PvEtBr4ynksB) | 3:17 | 2025-10-24 | 2026-05-09 |
 | [G\. Blanco](https://open.spotify.com/track/3TjdNdUfbY6udjKPRZTUS8) | [GiGi](https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8) | [G\. Blanco](https://open.spotify.com/album/0lF7zHfnHCcTOafAqm3TBZ) | 2:58 | 2022-08-03 | 2025-09-27 |
@@ -556,6 +557,7 @@
 | [Qué Voy A Hacer Con Mi Amor](https://open.spotify.com/track/1SuDjTa8EZCOIazQQgvRP5) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Qué Voy A Hacer Con Mi Amor](https://open.spotify.com/album/6ibKPev9z3tn9kh1ABkoVS) | 3:14 | 2024-09-20 | 2026-01-15 |
 | [Quédate](https://open.spotify.com/track/3uwZWvCoFKldnlCiTBn5vi) | [Beatriz Gonzalez](https://open.spotify.com/artist/63xIVHz3HtaoAYSUhk9cWZ) | [Quédate](https://open.spotify.com/album/7vsZ1eLcc5cuB5RYHbtvAj) | 3:23 | 2024-08-30 | 2025-05-31 |
 | [Regalame una Noche](https://open.spotify.com/track/3mJ7vdxAelGjfLxRAvk55a) | [Arhian](https://open.spotify.com/artist/51RHZMpW7LcEybWvkZHrzT) | [Regalame una Noche](https://open.spotify.com/album/3ZeSujQTtsmXZRYjtucIWz) | 3:39 | 2025-11-21 | 2026-06-27 |
+| [Regresa La Reina](https://open.spotify.com/track/1oQXRz158qna5qpKmJFa5r) | [Mariana Millan](https://open.spotify.com/artist/3Ow6OTEKHqwNT0FwzgBlxf) | [Regresa La Reina](https://open.spotify.com/album/75RCyGZ5HERcnZcsCmDvsY) | 2:35 | 2026-08-07 |  |
 | [Renací](https://open.spotify.com/track/1Pi4A8aS5dAHYIPg0fnX5Z) | [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [Renací](https://open.spotify.com/album/4bYc4IzQRNqxzlL32IT3Cq) | 3:12 | 2024-09-20 | 2025-02-24 |
 | [Resulta](https://open.spotify.com/track/4OctdtMJirUTQ9R3jhdIty) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/4You1BWzCuVqMqDuxW7Bkl) | 4:23 | 2022-01-07 | 2022-07-29 |
 | [Resulta \- En Vivo](https://open.spotify.com/track/6Dt6PWJ6lRBhhUF9d9UVRg) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [En Vivo Vol.2](https://open.spotify.com/album/31hbmBJOtbKIlm4aJ1YUav) | 5:04 | 2022-01-07 | 2023-03-04 |
@@ -590,6 +592,7 @@
 | [Si Te Vas](https://open.spotify.com/track/3TdA1RbLEPsg3xYyUOy60b) | [Rubi Canseco](https://open.spotify.com/artist/4bXV1OuSS59mLTBUIuYq1E) | [Si Te Vas](https://open.spotify.com/album/64CGI1Cz8ZRMZWsoY4iRrs) | 3:37 | 2025-10-10 | 2026-04-25 |
 | [SI TÚ ERES MI HOMBRE Y YO TU MUJER \- EN VIVO](https://open.spotify.com/track/0E2Nw0aA2F5cHRybVGHhNP) | [Liz Ocampo](https://open.spotify.com/artist/41T07jnEGtuRN46wy778zx) | [SI TÚ ERES MI HOMBRE Y YO TU MUJER \(EN VIVO\)](https://open.spotify.com/album/4YnzTMA71h2DvfNSGhPk3w) | 3:53 | 2025-12-12 |  |
 | [Si Tú No Vuelves](https://open.spotify.com/track/5bVsmvc0Yc6fR32vhz5kPQ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Si Tú No Vuelves](https://open.spotify.com/album/6kauhrMCA9h8KT7PltZJ7T) | 3:27 | 2025-02-14 | 2025-11-22 |
+| [Si Un Día Me Extrañas](https://open.spotify.com/track/5PfOuTytmTRASLSjreZe2j) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Si Un Día Me Extrañas](https://open.spotify.com/album/0h7ddj7I7SsXci0mOI9lgd) | 3:26 | 2026-08-07 |  |
 | [Si Ya Te Valgo](https://open.spotify.com/track/1lQqIaZgT1wP1Pftp3f1is) | [Rubi Canseco](https://open.spotify.com/artist/4bXV1OuSS59mLTBUIuYq1E) | [Si Ya Te Valgo](https://open.spotify.com/album/0oARXF9EAgJSD7ZZVHXE4r) | 2:29 | 2025-11-14 | 2026-01-17 |
 | [Simplemente Gracias](https://open.spotify.com/track/3yJPDtrII0EVSQFdpSZIQR) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Covers A Mi Estilo](https://open.spotify.com/album/5VCYfrOsF7WzUl0QIQCYBc) | 3:04 | 2022-01-07 | 2022-07-24 |
 | [Sobrevivire](https://open.spotify.com/track/41ElxuhnIN7W5lozKT3EXl) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Singles](https://open.spotify.com/album/7uxeDavpgWJrgUnv7GU5EJ) | 3:20 | 2023-01-20 | 2023-03-04 |
@@ -663,6 +666,7 @@
 | [Un Nuevo Amor](https://open.spotify.com/track/1MpNLkX7pIDKcXRyrkJQ9x) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [Amante de Lo Bueno](https://open.spotify.com/album/52XnPZjDFD7zJa7mR3BWVS) | 3:56 | 2022-01-07 | 2022-07-29 |
 | [Una Lloradita](https://open.spotify.com/track/1smCMVhwmDYPdi8saWC6zE) | [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [Una Lloradita](https://open.spotify.com/album/5XCYg9ErySM1NF7eop7y3P) | 2:38 | 2026-07-24 |  |
 | [Una Mentira Más](https://open.spotify.com/track/6jGNM4ntC8xzMHo5t0YNDF) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx), [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Una Mentira Más](https://open.spotify.com/album/74pZFv3znRw9RbXOSYORcI) | 3:22 | 2022-01-07 | 2023-03-04 |
+| [Una Noche Me Embriague](https://open.spotify.com/track/3rUwKx1dg3pBvzKlKNmiwj) | [Chayito Valdez Hija](https://open.spotify.com/artist/0zrvtypngq8fmTJzlwKNIa) | [Herencias De Mi Madre](https://open.spotify.com/album/2zWJjl983MZFO4moPTZT91) | 2:35 | 2026-08-07 |  |
 | [Una Palomita \(En Vivo\)](https://open.spotify.com/track/5XVbUTxc9ltfFLmxA6DKWV) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Corridos Pa Mi Apá, Vol.2 \(En Vivo\)](https://open.spotify.com/album/7qzIMe84ejhMdeImLQDdpH) | 3:44 | 2026-05-01 |  |
 | [Una parte de mi](https://open.spotify.com/track/5parRjqc4Z2xqJkfLkcsQY) | [Dalia Haro](https://open.spotify.com/artist/6lF00mD1QugMwfEI5yo7MA) | [Una parte de mi](https://open.spotify.com/album/7hKugwIo5vkO3xgRnozWHK) | 2:56 | 2022-02-04 | 2022-02-08 |
 | [Una Tarde De Abril](https://open.spotify.com/track/2WP7Hffpxt4SuvZY0UG6PY) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Una Tarde De Abril](https://open.spotify.com/album/3lESpmcn3r1pR2prmtMrfh) | 2:53 | 2022-05-20 | 2022-08-04 |

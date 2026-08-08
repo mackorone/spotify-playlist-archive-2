@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > se pò spezzà nu ciore 'mmiez'ô viento, 'o viento senza ciore addora 'e niente 🩵
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,239 likes - 85 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,232 likes - 85 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 84 | [Forse](https://open.spotify.com/track/0Wq6bYSdGvhZWHKUhsxzvI) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Forse](https://open.spotify.com/album/3hIRufsYu9Zz40cXfjNgmg) | 3:29 |
 | 85 | [Ciao](https://open.spotify.com/track/2UCAwfF9k5cHmvTKuZq7Rn) | [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Ciao](https://open.spotify.com/album/19vyV3PnVDS44cM5CYyHyw) | 2:58 |
 
-Snapshot ID: `AAAAAIUq+Ip9qx9JLcbs12SeI6CEhOiv`
+Snapshot ID: `AAAAAMr2OhaEmBLeMXxLJz7oF7c4ywnn`

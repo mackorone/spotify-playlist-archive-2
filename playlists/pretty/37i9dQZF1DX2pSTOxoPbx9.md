@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 
 > Beautifully dark, dramatic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,985 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,995 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 44 | [Goodbye \(with Soap & Skin\)](https://open.spotify.com/track/6BJXuY0lY0EUtSDCgkYnqE) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot), [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [The Devil's Walk](https://open.spotify.com/album/5EHvg6pPmS7wBzcCjXZIs3) | 4:29 |
 | 45 | [Take The Journey](https://open.spotify.com/track/3cGblMVSNAG6UgIsro3kQ0) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [When You're Ready](https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV) | 2:42 |
 | 46 | [Deep Green](https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Deaf Heat EP](https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC) | 3:35 |
-| 47 | [Milk & Honey \- Alt Version](https://open.spotify.com/track/35ZHHlrMKr7CijbD239b0g) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 4:48 |
-| 48 | [I Can't Go on Without You](https://open.spotify.com/track/1OtGo99uypkRbMqshBVFnn) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [I Can't Go on Without You](https://open.spotify.com/album/1tZtANVlcwG88Rkdj5dR73) | 6:17 |
+| 47 | [I Can't Go on Without You](https://open.spotify.com/track/1OtGo99uypkRbMqshBVFnn) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [I Can't Go on Without You](https://open.spotify.com/album/1tZtANVlcwG88Rkdj5dR73) | 6:17 |
+| 48 | [Milk & Honey \- Alt Version](https://open.spotify.com/track/35ZHHlrMKr7CijbD239b0g) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 4:48 |
 | 49 | [Angel of Small Death and the Codeine Scene](https://open.spotify.com/track/3wT3WDdQrsST19f1I08Z1N) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Take Me to Church EP](https://open.spotify.com/album/4vPuWtVR7VLGRcdKWVwHBY) | 3:38 |
 | 50 | [I Of The Storm](https://open.spotify.com/track/3z8ypl55NHugzc6EDVVFdF) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Beneath The Skin \(Deluxe\)](https://open.spotify.com/album/1m3D8gkm3nOvIXNR1SvDFA) | 4:36 |
 | 51 | [Sleep Baby Sleep](https://open.spotify.com/track/0LCrNCOgGTgUL7Ubsdeuuj) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Broods](https://open.spotify.com/album/260VhALUsA6HdgBRfCLHh4) | 3:00 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 79 | [Through a Glass \(Quartet Version\)](https://open.spotify.com/track/5WtvoPeSpp6pIp9bG6arVS) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds Quartets](https://open.spotify.com/album/3UAvR6CXIWN1rChkxlZ1OM) | 3:53 |
 | 80 | [Fire Line](https://open.spotify.com/track/53DleDiH6Vaj0Vx8Opp6Kc) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Fire Line](https://open.spotify.com/album/0BdclIcrznTE1jZPb8BbT4) | 4:34 |
 | 81 | [I'll Be Gone](https://open.spotify.com/track/7ejUNmLIkfpdVe3gySTdPN) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [I'll Be Gone](https://open.spotify.com/album/206wJfi6TA85sHEFRy7UNv) | 2:24 |
-| 82 | [The Groundskeeper](https://open.spotify.com/track/36CxmmDpZdUJqIyo5NTyfw) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | [Strip Me Bare](https://open.spotify.com/album/5b044uNakdk3iq3FoxFSu6) | 6:23 |
-| 83 | [Washed Away](https://open.spotify.com/track/00p6D4NaakmWGNR3EUtxtS) | [Emily Jane White](https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh) | [Washed Away](https://open.spotify.com/album/5W4I4AE67xrN2SlOxSkVWT) | 3:56 |
+| 82 | [Washed Away](https://open.spotify.com/track/00p6D4NaakmWGNR3EUtxtS) | [Emily Jane White](https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh) | [Washed Away](https://open.spotify.com/album/5W4I4AE67xrN2SlOxSkVWT) | 3:56 |
+| 83 | [The Groundskeeper](https://open.spotify.com/track/36CxmmDpZdUJqIyo5NTyfw) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | [Strip Me Bare](https://open.spotify.com/album/5b044uNakdk3iq3FoxFSu6) | 6:23 |
 | 84 | [Drive](https://open.spotify.com/track/6is4HZ5UFpIPGxUNdVdKbV) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Drive](https://open.spotify.com/album/1uyjNRxaNNpqYFPBXMAXsZ) | 2:48 |
 | 85 | [What's It For](https://open.spotify.com/track/0b39vjnPaxVh6fY1Wj81MA) | [Hannah Cameron](https://open.spotify.com/artist/5YONmUkKMhcZ425zGUfhqF) | [What's It For](https://open.spotify.com/album/1Hcz2nPeG7HDcNYDiwAgGF) | 2:53 |
 | 86 | [Swan](https://open.spotify.com/track/7BI3sWF1edzH4iyK0xbZ7l) | [Monica Heldal](https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0) | [Waiting On The Fire](https://open.spotify.com/album/2W8rP0hqjDIL5yWeWXklyt) | 5:28 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 89 | [Devil Like Me](https://open.spotify.com/track/0HsGh7cboYz6cVMIyFrQ8j) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Seven + Mary](https://open.spotify.com/album/4lGNpgFI67TUq5BMfnPe3Z) | 3:08 |
 | 90 | [Come What May](https://open.spotify.com/track/3e9z2r0A75uBRuZG0czhvg) | [The Last Bison](https://open.spotify.com/artist/6eJRqkCcePqNJkhk98IDbc) | [VA](https://open.spotify.com/album/6azoLLvralYBZzrhDI4oE2) | 4:01 |
 | 91 | [I Need My Girl](https://open.spotify.com/track/7rbCL7W893Zonbfnevku5s) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/2JhR4tjuc3MIKa8v2JaKze) | 4:05 |
-| 92 | [Garden Song](https://open.spotify.com/track/5uQRmdIqyMmKPWJcot4UmV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:39 |
-| 93 | [Byegone](https://open.spotify.com/track/6MMojjMFcyv3btdSXFGeYc) | [Volcano Choir](https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO) | [Repave](https://open.spotify.com/album/589MwkeuVyR5wMAMP07ARA) | 4:22 |
+| 92 | [Byegone](https://open.spotify.com/track/6MMojjMFcyv3btdSXFGeYc) | [Volcano Choir](https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO) | [Repave](https://open.spotify.com/album/589MwkeuVyR5wMAMP07ARA) | 4:22 |
+| 93 | [Garden Song](https://open.spotify.com/track/5uQRmdIqyMmKPWJcot4UmV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:39 |
 | 94 | [When You Break](https://open.spotify.com/track/1oWSkX6hHx8ea2Wr0SE39g) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Agape](https://open.spotify.com/album/3q6hvgult6JS9gnDcKzAWS) | 4:45 |
 | 95 | [Sleep](https://open.spotify.com/track/6oLxKBr1xrrDAWoVYxVxx6) | [The Last Bison](https://open.spotify.com/artist/6eJRqkCcePqNJkhk98IDbc) | [VA](https://open.spotify.com/album/6azoLLvralYBZzrhDI4oE2) | 4:12 |
 | 96 | [Marked for Death](https://open.spotify.com/track/1fLOvLE1XRpvHpLkRHzSym) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC) | [Marked for Death](https://open.spotify.com/album/6e5Hr71kvlsrTaNoiuqWu4) | 3:39 |
 | 97 | [Notion](https://open.spotify.com/track/2DkRjzvzTxzeijk0pjSNBD) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Notion](https://open.spotify.com/album/295QySTXTwWvjhah3XVHvg) | 5:41 |
 | 98 | [Cold](https://open.spotify.com/track/66TaoPJqwSAK1oLxBsgG8n) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Woodgate, NY](https://open.spotify.com/album/3OswHF7nqo4htN5OpRH9dz) | 4:23 |
-| 99 | [Killer + The Sound](https://open.spotify.com/track/1xuA8vy1KA1cfP5UQ7NYSS) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Abby Gundersen](https://open.spotify.com/artist/5BlKoQLYxv24MSV5AD6i6q) | [Killer + The Sound](https://open.spotify.com/album/4vkODa4y4DQzFOOYfAK8EV) | 7:55 |
+| 99 | [Riverside](https://open.spotify.com/track/7kaub3iYrvVz5gaPVemsWE) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/7oTWCoBLYtzURvGTFysNf1) | 3:50 |
 | 100 | [I Feel Your Love \- Director's Cut](https://open.spotify.com/track/7CJHue95J5KJGc6t0jatb5) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Short Movie \(Director's Cut\)](https://open.spotify.com/album/6c8tHj60qPvbXZnczssdQC) | 2:53 |
 
-Snapshot ID: `AAAAAGjdEZS61kKsPby0+b/6t51ZUjsS`
+Snapshot ID: `AAAAAA6csgqGrLQXFVrqFB8HEvWnaKlu`

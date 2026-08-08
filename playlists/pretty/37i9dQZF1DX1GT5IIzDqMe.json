@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 104591,
+  "num_followers": 104604,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACLRqBzLIgK0Bwk9USgnWUHIjXVe",
+  "snapshot_id": "AAAAAA/iVSuLK0mGLDasfDJrxphv8tO9",
   "tracks": [
     {
       "added_at": "2025-08-29 04:00:36",
@@ -455,26 +455,6 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
-        "name": "Just Want Another Chance",
-        "url": "https://open.spotify.com/album/4XagqaRMPdxYcBibgCgCWH"
-      },
-      "artists": [
-        {
-          "name": "Reese",
-          "url": "https://open.spotify.com/artist/4ZZnndm8YgzLlG05uSmQOG"
-        },
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        }
-      ],
-      "duration_ms": 312894,
-      "name": "Just Want Another Chance - Original Mix",
-      "url": "https://open.spotify.com/track/2fLoViPlr6qskNBS19sO7j"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
         "name": "Oombah (Kevin Saunderson & Justin Cholewski Remix)",
         "url": "https://open.spotify.com/album/0CgtT4baVe2QEDKOA853DD"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 190947,
       "name": "Oombah - Kevin Saunderson & Justin Cholewski Remix",
       "url": "https://open.spotify.com/track/1KPHiod0TyJGPCAARAKfuS"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
+        "name": "Just Want Another Chance",
+        "url": "https://open.spotify.com/album/4XagqaRMPdxYcBibgCgCWH"
+      },
+      "artists": [
+        {
+          "name": "Reese",
+          "url": "https://open.spotify.com/artist/4ZZnndm8YgzLlG05uSmQOG"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        }
+      ],
+      "duration_ms": 312894,
+      "name": "Just Want Another Chance - Original Mix",
+      "url": "https://open.spotify.com/track/2fLoViPlr6qskNBS19sO7j"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -563,26 +563,6 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
-        "name": "Do It All Night (Honey Dijon Remix [Radio Edit])",
-        "url": "https://open.spotify.com/album/6Opkh7SR0vMoTDEfalZxc8"
-      },
-      "artists": [
-        {
-          "name": "DJ Minx",
-          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
-        },
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        }
-      ],
-      "duration_ms": 252720,
-      "name": "Do It All Night - Honey Dijon Remix [Radio Edit]",
-      "url": "https://open.spotify.com/track/2H39iFssrfIvFm66Bm43AR"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
         "name": "Heavenly Revisited Album",
         "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 209529,
       "name": "Savage & Beyond",
       "url": "https://open.spotify.com/track/0lkJ2mQVyImdu1qXDvKF6j"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
+        "name": "Do It All Night (Honey Dijon Remix [Radio Edit])",
+        "url": "https://open.spotify.com/album/6Opkh7SR0vMoTDEfalZxc8"
+      },
+      "artists": [
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        }
+      ],
+      "duration_ms": 252720,
+      "name": "Do It All Night - Honey Dijon Remix [Radio Edit]",
+      "url": "https://open.spotify.com/track/2H39iFssrfIvFm66Bm43AR"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
-        "name": "Tronic D",
-        "url": "https://open.spotify.com/album/5cPdg1ikgGzGbaqYU5MFBe"
-      },
-      "artists": [
-        {
-          "name": "DJ Minx",
-          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
-        }
-      ],
-      "duration_ms": 467520,
-      "name": "A Cocktail or Two",
-      "url": "https://open.spotify.com/track/5A5Y2BrzLzZ5NIZp4nze0z"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
         "name": "I Can't Believe",
         "url": "https://open.spotify.com/album/34rEmZ1C0e7HQjZHNcENUW"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 369016,
       "name": "I Can't Believe - Extended Mix",
       "url": "https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
+        "name": "Tronic D",
+        "url": "https://open.spotify.com/album/5cPdg1ikgGzGbaqYU5MFBe"
+      },
+      "artists": [
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        }
+      ],
+      "duration_ms": 467520,
+      "name": "A Cocktail or Two",
+      "url": "https://open.spotify.com/track/5A5Y2BrzLzZ5NIZp4nze0z"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -811,18 +811,18 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
-        "name": "Legendary Adventures Of A Filter King",
-        "url": "https://open.spotify.com/album/6oZag0We7gLZWfWTn6gVW6"
+        "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
+        "url": "https://open.spotify.com/album/505rV6smETxuNFTgRphph7"
       },
       "artists": [
         {
-          "name": "69",
-          "url": "https://open.spotify.com/artist/7L7l7toWdGA3T1wmFr83sg"
+          "name": "Psyche/BFC",
+          "url": "https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw"
         }
       ],
-      "duration_ms": 387371,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/0oe3RsEJZRr7XeofKjgvTq"
+      "duration_ms": 411999,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/4aZXoNpqXVZ8tAyoaLNrPh"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -843,18 +843,18 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
-        "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
-        "url": "https://open.spotify.com/album/505rV6smETxuNFTgRphph7"
+        "name": "Legendary Adventures Of A Filter King",
+        "url": "https://open.spotify.com/album/6oZag0We7gLZWfWTn6gVW6"
       },
       "artists": [
         {
-          "name": "Psyche/BFC",
-          "url": "https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw"
+          "name": "69",
+          "url": "https://open.spotify.com/artist/7L7l7toWdGA3T1wmFr83sg"
         }
       ],
-      "duration_ms": 411999,
-      "name": "Elements",
-      "url": "https://open.spotify.com/track/4aZXoNpqXVZ8tAyoaLNrPh"
+      "duration_ms": 387371,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/0oe3RsEJZRr7XeofKjgvTq"
     },
     {
       "added_at": "2025-08-29 04:00:36",

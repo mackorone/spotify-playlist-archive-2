@@ -4,7 +4,7 @@
 
 > The sound of spring.
 
-264 songs - 11 hr 30 min
+265 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Before We Leave](https://open.spotify.com/track/7H5L6f06Pxw0Lf8OO7dUa1) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Before We Leave](https://open.spotify.com/album/2LtsfGRWiqZqqCAuQYc2Jd) | 2:41 | 2025-03-11 | 2026-05-23 |
 | [Believe](https://open.spotify.com/track/3F58fYdt8S9jHUUPnziTpC) | [Pederosa Calafiori](https://open.spotify.com/artist/7rSGVYwxF7D59f76uaLaFq) | [Believe](https://open.spotify.com/album/5Q2CIcPYsX3hI0EpVMFXGb) | 2:36 | 2025-04-09 |  |
 | [Better Days](https://open.spotify.com/track/2PYywbKzaAsAo8EmNFOM4T) | [Jordan Mitchell\-Haines](https://open.spotify.com/artist/5xyZwXBV8D9F63Kiocws8R) | [Better Days](https://open.spotify.com/album/6TSlY3RFS8jbuKY2Fhovbo) | 2:16 | 2026-07-17 |  |
+| [Between Seasons](https://open.spotify.com/track/2kmUhj6yC85GBfqTH2mT1l) | [Aurelian Juno](https://open.spotify.com/artist/0clWZsJkYSrFdmUkQygfiQ) | [Between Seasons](https://open.spotify.com/album/4BCchfo6xxpImmdPD51Ar7) | 2:21 | 2026-08-07 |  |
 | [Beyond The Words](https://open.spotify.com/track/2rcjEdhxMASzFKFMLE0VyK) | [Phoebe Waits](https://open.spotify.com/artist/57E9IfMja5EiaW6JlxxPfF) | [Beyond The Words](https://open.spotify.com/album/2IXXs0F9tteFAxo2M1qUGh) | 2:32 | 2025-03-11 | 2026-05-02 |
 | [Blessed Days](https://open.spotify.com/track/2JCvAX5Htrxx2KVF5sVlVR) | [Xie Qi](https://open.spotify.com/artist/6HFojJ4dKdfE6sHHB1XZpb) | [Blessed Days](https://open.spotify.com/album/5m9rTnoDdOFYvQs2ovfcu4) | 2:07 | 2025-03-11 | 2026-06-13 |
 | [Blessedness](https://open.spotify.com/track/1cM4gjiaQ8PS0rz1lv75LF) | [Tom Kristiaan](https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk) | [Blessedness](https://open.spotify.com/album/17HyaDaI7IB2II45VvAT2M) | 2:33 | 2025-03-11 | 2025-04-03 |

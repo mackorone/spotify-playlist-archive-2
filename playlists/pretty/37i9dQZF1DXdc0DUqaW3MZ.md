@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > where future beats meet timeless soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,184 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,217 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [the bridge](https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [the bridge](https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z) | 3:53 |
-| 2 | [In This Darkness](https://open.spotify.com/track/0bmVH05tjN9jVh3kB1TfpR) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [In This Darkness](https://open.spotify.com/album/1mDPBagNyFaAuiTT7kUJBQ) | 3:17 |
-| 3 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 |
+| 2 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 |
+| 3 | [In This Darkness](https://open.spotify.com/track/0bmVH05tjN9jVh3kB1TfpR) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [In This Darkness](https://open.spotify.com/album/1mDPBagNyFaAuiTT7kUJBQ) | 3:17 |
 | 4 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 |
 | 5 | [Sweet Nothings](https://open.spotify.com/track/1xX614z6tmeEtKYU9eOyxH) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Sweet Nothings](https://open.spotify.com/album/5fVUL0aJVlZd0u6PkJR4yE) | 2:22 |
 | 6 | [Feel It](https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH) | [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [Milaa](https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB) | [Feel It](https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS) | 3:34 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 55 | [Summer In The Ends](https://open.spotify.com/track/3ttIBQv2qjIWXbHeoCnoVm) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [George The Poet](https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC) | [Sounds of My World](https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH) | 4:47 |
 | 56 | [DAY&NITE](https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV) | [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [DAY&NITE](https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB) | 3:25 |
 | 57 | [Found a Love](https://open.spotify.com/track/6OqBgRsLpDwn5XtXddAG3B) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [The Voices of Epoch](https://open.spotify.com/artist/1t9i9HWtjeM2BJeF8SL28r) | [Found a Love](https://open.spotify.com/album/4LyVO28zn4WX0WqUIO4reG) | 3:55 |
-| 58 | [Ching](https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK) | [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Ching](https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa) | 1:58 |
-| 59 | [Middle of Things, Beautiful Wife \(feat\. Xavier Omär\)\)](https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [North](https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP) | 3:42 |
+| 58 | [Middle of Things, Beautiful Wife \(feat\. Xavier Omär\)\)](https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [North](https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP) | 3:42 |
+| 59 | [Ching](https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK) | [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Ching](https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa) | 1:58 |
 | 60 | [UP DOWN BOUNCE](https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [daste.](https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT) | [UP DOWN BOUNCE](https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd) | 3:08 |
 | 61 | [Static on My Tongue](https://open.spotify.com/track/4ucIiJKTWchQX37ik3Lx6r) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Static on My Tongue](https://open.spotify.com/album/3QQvmDnFMMUb5QLpvooIxX) | 2:59 |
 | 62 | [Doing It Too](https://open.spotify.com/track/2MfqtpLWYQqhUwhCgWYbuB) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Doing It Too](https://open.spotify.com/album/7A3hX2xOQ25tJFpojEYIMk) | 3:26 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 69 | [Everything’s Beautiful](https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Everything’s Beautiful](https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt) | 2:50 |
 | 70 | [Set My Sun](https://open.spotify.com/track/1JIyH1ZTYPifq22XZuSme4) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As), [Eva Lazarus](https://open.spotify.com/artist/68eE2HHE6By6hOsOcsArcp) | [Set My Sun](https://open.spotify.com/album/3ouohDROreSNrFfJKGLcvH) | 3:40 |
 
-Snapshot ID: `AAAAAEZkuEUEYsn8FKcOxf1YfzE65+ve`
+Snapshot ID: `AAAAAOU679m4w7ADha1mxZJcKVnxdM6j`

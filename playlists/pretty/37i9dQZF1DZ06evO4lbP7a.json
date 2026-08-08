@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAA+WUbzMaVSEugyrb9BRTG9",
+  "snapshot_id": "anPOgAAAAAA6KSwF6GTfnnwts5aSart+",
   "tracks": [
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Versus the night",
-        "url": "https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 234600,
-      "name": "\u304f\u3073\u3063\u305f\u3051",
-      "url": "https://open.spotify.com/track/4N68vlWbWHDe8DeNgJaWtO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nerenaiyoruni ka-tenwoakete",
         "url": "https://open.spotify.com/album/4ZCMR8iFTEAZNOmJdKB9pn"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 197067,
       "name": "Sleeping town (feat. yama)",
       "url": "https://open.spotify.com/track/33l85q7YTdJGn7PrR3LU8G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Versus the night",
+        "url": "https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 234600,
+      "name": "\u304f\u3073\u3063\u305f\u3051",
+      "url": "https://open.spotify.com/track/4N68vlWbWHDe8DeNgJaWtO"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "; semicolon",
-        "url": "https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Film",
-      "url": "https://open.spotify.com/track/33Cdpy0wIKa6le6kNaD6Ya"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u6843\u6e90\u90f7",
         "url": "https://open.spotify.com/album/6aO1Ot1JoA9TPH73qX7ejE"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 228000,
       "name": "\u6843\u6e90\u90f7",
       "url": "https://open.spotify.com/track/3XpV0yCZRizTsCMEIkxZVm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "; semicolon",
+        "url": "https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Film",
+      "url": "https://open.spotify.com/track/33Cdpy0wIKa6le6kNaD6Ya"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "C.U.T - Studio Live -",
-        "url": "https://open.spotify.com/album/1IjFa85KpUrBEnnYPPKuGX"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 189700,
-      "name": "UPSIDE DOWN - Studio Live -",
-      "url": "https://open.spotify.com/track/6HtgBBcdUjcuuEipDTD28K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u6625\u3092\u544a\u3052\u308b - From THE FIRST TAKE",
         "url": "https://open.spotify.com/album/61OTGf8KiylPy39lihGoUs"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 300800,
       "name": "\u6625\u3092\u544a\u3052\u308b - From THE FIRST TAKE",
       "url": "https://open.spotify.com/track/0QDjYBER1ZqISxA2Gc0cJe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "C.U.T - Studio Live -",
+        "url": "https://open.spotify.com/album/1IjFa85KpUrBEnnYPPKuGX"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 189700,
+      "name": "UPSIDE DOWN - Studio Live -",
+      "url": "https://open.spotify.com/track/6HtgBBcdUjcuuEipDTD28K"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: DIIV
 
-2,205 songs - 5 day 8 hr 26 min
+2,206 songs - 5 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -665,7 +665,7 @@
 | [Falling out of Love](https://open.spotify.com/track/4ZxlsIHhSxQkbwKTZ76xu0) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Falling out of Love](https://open.spotify.com/album/6VokQYFXJb6vXJJfWtdsQJ) | 6:21 | 2026-05-14 |  |
 | [Fallout](https://open.spotify.com/track/2RrDkTF6bgjgYsYN5HaaFB) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Paper Hearts](https://open.spotify.com/album/4di62gnBZPDefkKwMBLXPb) | 3:17 | 2023-09-28 | 2023-10-06 |
 | [Fallout \- Reimagined](https://open.spotify.com/track/5WRglege8fY78WiS4D5kym) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Fallout \(Reimagined\)](https://open.spotify.com/album/32RUVBrBxzhAMzLY5JgXl7) | 4:25 | 2024-02-08 | 2024-02-16 |
-| [False Reaction](https://open.spotify.com/track/3TG5mHXETb6JyWzysmZ5RN) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [False Reaction](https://open.spotify.com/album/1799QCS7eeX8JKJn0Fp7X3) | 2:46 | 2026-05-28 |  |
+| [False Reaction](https://open.spotify.com/track/3TG5mHXETb6JyWzysmZ5RN) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [False Reaction](https://open.spotify.com/album/1799QCS7eeX8JKJn0Fp7X3) | 2:46 | 2026-05-28 | 2026-08-08 |
 | [Fangs](https://open.spotify.com/track/4zXA5VxlbMVvg21Hi5RjcC) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Fangs](https://open.spotify.com/album/3OgRSLmGbLqG8WtiaLgAhb) | 4:09 | 2026-06-26 |  |
 | [far away from here \- ACT I : The Setup](https://open.spotify.com/track/2WXIVz7W62BqMoYX0k8cm3) | [eleventwelfth](https://open.spotify.com/artist/2obLLc4blv37GYbFwqyE3t) | [11](https://open.spotify.com/album/3Wpl5sQURlpSfRKkU4K8Oh) | 3:39 | 2026-06-26 | 2026-07-03 |
 | [Farewell For Now](https://open.spotify.com/track/6Uildyl4k0erIATWZw7mYb) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Farewell For Now](https://open.spotify.com/album/4SU4ZVuuQzHhf55mE7QRWP) | 4:28 | 2023-06-08 | 2023-06-23 |
@@ -1377,6 +1377,7 @@
 | [Oh Caroline](https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:32 | 2023-04-27 | 2024-05-03 |
 | [Oh Cherry](https://open.spotify.com/track/3za8ekjl1gAknHhM6sSpwN) | [The Answer](https://open.spotify.com/artist/3STTKsLP1gSzGvOVCtNlWS) | [Sundowners](https://open.spotify.com/album/4SmK4ebONtQs18QLtpTlTx) | 3:43 | 2023-03-16 | 2023-03-25 |
 | [Oh No :: He Said What?](https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Oh No :: He Said What?](https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO) | 3:48 | 2024-02-01 | 2024-05-03 |
+| [Oh No Now My](https://open.spotify.com/track/2MbLMnGeW92YVBbsyHM5WR) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Oh No Now My](https://open.spotify.com/album/6Qex2dWIX0M5LPHLTJq4Sr) | 3:08 | 2026-08-07 |  |
 | [Oh No!](https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Oh No!](https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi) | 3:13 | 2025-09-04 | 2025-09-29 |
 | [Oh Sh\*t](https://open.spotify.com/track/7hS4QZUz5G5jnemk0QtO94) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Oh Sh\*t](https://open.spotify.com/album/2vaKS9XaEyMrGIqiht2Y8U) | 3:01 | 2024-03-07 | 2024-03-15 |
 | [Oh Shit](https://open.spotify.com/track/6RrAa9EThfrXsM3Yi6CJ3J) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Oh Shit](https://open.spotify.com/album/7ukfGmbgZaDTljhTnx3ydi) | 3:01 | 2024-03-07 | 2024-04-05 |
@@ -1745,6 +1746,7 @@
 | [SS26](https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SS26](https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze) | 2:47 | 2026-05-21 |  |
 | [St\. Agnes](https://open.spotify.com/track/1iXcHOr7lFCEsGgQvrr2G5) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Masquerade](https://open.spotify.com/album/29AoeHJhdqdvkZAh7EPoS4) | 2:09 | 2026-02-12 | 2026-04-06 |
 | [St\. Charles Square](https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [St\. Charles Square](https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK) | 3:55 | 2023-06-30 | 2023-07-21 |
+| [Stairways](https://open.spotify.com/track/4RfRFx4cbOk1CdaQKyeEJn) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Wabi Sabi](https://open.spotify.com/album/2NpZ3Px3zT9ifmVbeREscf) | 3:09 | 2026-08-06 |  |
 | [Star](https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Star](https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF) | 3:25 | 2026-03-12 | 2026-04-24 |
 | [Star](https://open.spotify.com/track/4Gv6lS9SMvaT6nS6yMYuUC) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Star b/w Heaven](https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU) | 2:59 | 2023-08-24 | 2023-09-29 |
 | [Star](https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:59 | 2023-10-26 | 2024-01-19 |
@@ -1964,7 +1966,6 @@
 | [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 | 2023-03-16 | 2024-02-16 |
 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 | 2023-06-30 | 2024-05-03 |
 | [tower of memories](https://open.spotify.com/track/0qhVpwKivK3u4OMLb7Z9Ah) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [tower of memories](https://open.spotify.com/album/5fZahPiBBEr15SgNs9h5s6) | 3:28 | 2025-07-24 | 2026-03-13 |
-| [Track 5](https://open.spotify.com/track/4RfRFx4cbOk1CdaQKyeEJn) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Wabi Sabi](https://open.spotify.com/album/2NpZ3Px3zT9ifmVbeREscf) | 0:00 | 2026-08-06 |  |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-26 | 2026-04-16 |
 | [Tremolo](https://open.spotify.com/track/2fLrRiiTmJM4Gdoq7mdXV9) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Romanticize The Dive](https://open.spotify.com/album/75oefoG5Cn2MbBc32uNPnu) | 3:43 | 2026-04-30 | 2026-05-24 |
 | [Trigger](https://open.spotify.com/track/4sOgK1FXdaCf2hsCtduj3C) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Trigger](https://open.spotify.com/album/2HHt7F17eJjPHFppWdSb8C) | 2:55 | 2024-01-04 | 2024-02-23 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Binomio de Oro. The essential tracks, all in one playlist.",
-  "num_followers": 11115,
+  "num_followers": 11121,
   "original_name": "This Is Binomio de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAAyKOAYOGNXvVKC036sCWwD",
+  "snapshot_id": "anPOgAAAAAAlayVbJFFUwoLz8uB1eEkJ",
   "tracks": [
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuera De Serie",
-        "url": "https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 311573,
-      "name": "Enamorado De Ti",
-      "url": "https://open.spotify.com/track/5j5Lb1HzrpUkYacIpQFff7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clase Aparte",
         "url": "https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK"
       },
@@ -679,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Binomio De Oro",
-        "url": "https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh"
+        "name": "Fuera De Serie",
+        "url": "https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8"
       },
       "artists": [
         {
@@ -688,9 +672,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 206040,
-      "name": "Eterno Enamorado",
-      "url": "https://open.spotify.com/track/21Sh1SFlSoMqE4evvJOnQl"
+      "duration_ms": 311573,
+      "name": "Enamorado De Ti",
+      "url": "https://open.spotify.com/track/5j5Lb1HzrpUkYacIpQFff7"
     },
     {
       "added_at": null,
@@ -715,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enamorado Como Siempre",
-        "url": "https://open.spotify.com/album/3OhlAnWNEYUiSah3Qwer4z"
+        "name": "El Binomio De Oro",
+        "url": "https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh"
       },
       "artists": [
         {
@@ -724,9 +708,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 249733,
-      "name": "Mundo de Ilusiones",
-      "url": "https://open.spotify.com/track/2zblES980vphzev9UT5ZF5"
+      "duration_ms": 206040,
+      "name": "Eterno Enamorado",
+      "url": "https://open.spotify.com/track/21Sh1SFlSoMqE4evvJOnQl"
     },
     {
       "added_at": null,
@@ -743,6 +727,22 @@
       "duration_ms": 254955,
       "name": "Quise Manchar Tu Alma",
       "url": "https://open.spotify.com/track/7vhO3vAmpiSNECd97UlT1j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enamorado Como Siempre",
+        "url": "https://open.spotify.com/album/3OhlAnWNEYUiSah3Qwer4z"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 249733,
+      "name": "Mundo de Ilusiones",
+      "url": "https://open.spotify.com/track/2zblES980vphzev9UT5ZF5"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enamorado Como Siempre",
-        "url": "https://open.spotify.com/album/3OhlAnWNEYUiSah3Qwer4z"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 234440,
-      "name": "Mi Mejor Canci\u00f3n",
-      "url": "https://open.spotify.com/track/2i7SWI1bVRznjvyjlW53t6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clase Aparte",
         "url": "https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 237540,
       "name": "Hab\u00edamos Terminado",
       "url": "https://open.spotify.com/track/3oIldtYrNvBqJzll1NqdPE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enamorado Como Siempre",
+        "url": "https://open.spotify.com/album/3OhlAnWNEYUiSah3Qwer4z"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 234440,
+      "name": "Mi Mejor Canci\u00f3n",
+      "url": "https://open.spotify.com/track/2i7SWI1bVRznjvyjlW53t6"
     },
     {
       "added_at": null,

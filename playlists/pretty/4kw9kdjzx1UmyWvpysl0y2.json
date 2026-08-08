@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123099,
+  "num_followers": 123088,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVpSPON6O+iW/bcuuuhYzeeTetANzD",
+  "snapshot_id": "AAAVpqUPYOSShqdS0ZbPGtceK8j1ZHD/",
   "tracks": [
+    {
+      "added_at": "2026-08-07 15:25:29",
+      "album": {
+        "name": "BE URS",
+        "url": "https://open.spotify.com/album/7KUuZTM4vSUZNXlGeZZ9BK"
+      },
+      "artists": [
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        }
+      ],
+      "duration_ms": 177775,
+      "name": "BE URS",
+      "url": "https://open.spotify.com/track/2ySuwNs2HL3YtpeP2P753p"
+    },
     {
       "added_at": "2026-08-06 14:52:02",
       "album": {

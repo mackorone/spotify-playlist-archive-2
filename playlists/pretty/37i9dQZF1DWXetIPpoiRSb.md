@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > pop's R&D department ⚡️🧪🧬 cover: Coupdekat
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,016 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,008 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 9](https://open.spotify.com/track/1nmodCSw2Iny0LJcvbFq78) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0) | [Goodbye 2012!](https://open.spotify.com/album/3tQeF8yT6b0WYUUZG8KTyi) | 0:00 |
+| 1 | [heyyy](https://open.spotify.com/track/1nmodCSw2Iny0LJcvbFq78) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0), [Natalie Red](https://open.spotify.com/artist/38EW5PoQXJSd0tRuhmMbFL), [Ruby Bell](https://open.spotify.com/artist/3V8Eb1ys7e90m3eXLIWRSO) | [Goodbye 2012!](https://open.spotify.com/album/3tQeF8yT6b0WYUUZG8KTyi) | 3:02 |
 | 2 | [brand new chanel$](https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [brand new chanel$](https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg) | 3:58 |
 | 3 | [FIANCHI](https://open.spotify.com/track/4Mrmo8tcADYG7lNU00lOWk) | [AMARA ctk100](https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy) | [FIANCHI](https://open.spotify.com/album/1LNpW6xFwBPn8gnMlsr9hx) | 2:26 |
 | 4 | [SYW \(feat\. Cecile Believe\)](https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [SYW \(feat\. Cecile Believe\)](https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9) | 2:46 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 79 | [I Feel Fantastic](https://open.spotify.com/track/2eqIYvwLkyGGBWEf6q9EHZ) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [I Feel Fantastic](https://open.spotify.com/album/3QaoD6p4DtTMsdzGKwSDEt) | 3:38 |
 | 80 | [Out My Body](https://open.spotify.com/track/1pA3PUVtJALwxZIQ6wj42X) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Out My Body](https://open.spotify.com/album/0PUCTG6UZVmyECMr5OjYZh) | 2:49 |
 
-Snapshot ID: `AAAAAHVpNPWqXTKSj4r7ql4L6xsgq5mA`
+Snapshot ID: `AAAAAMLfCFzzMCQLW8jLjzPizxwcnJDO`

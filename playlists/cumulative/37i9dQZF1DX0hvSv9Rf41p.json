@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring Tape B",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\udc9e\ud83e\udd2d featuring Crankdat & Wooli",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -364,6 +364,28 @@
       "duration_ms": 239562,
       "name": "A Little Bit",
       "url": "https://open.spotify.com/track/4hQBMULTIvpG8yzAhvSffX"
+    },
+    {
+      "album": {
+        "name": "A Long Time",
+        "url": "https://open.spotify.com/album/6SvpOqLSbE7x4aBRhSclcJ"
+      },
+      "artists": [
+        {
+          "name": "Daily Bread",
+          "url": "https://open.spotify.com/artist/4IsiG6RpDyRq6Frd2CvddW"
+        },
+        {
+          "name": "Late Night Radio",
+          "url": "https://open.spotify.com/artist/0FIRQJT2PBffTJEZvipVi2"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202608,
+      "name": "A Long Time",
+      "url": "https://open.spotify.com/track/4NJLBbS2NFDgbwBAHHpOXa"
     },
     {
       "album": {
@@ -1818,7 +1840,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 148965,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/2BRxZXodJKlPvC0eq5VZFn"
@@ -2883,6 +2905,46 @@
     },
     {
       "album": {
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/4xYP4WbxY4JViO6OLYjCbK"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "SAYAK DAS",
+          "url": "https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/0ZL0LiEdUas8eiMlhBWMh9"
+    },
+    {
+      "album": {
+        "name": "FROM DARKNESS, COMES LIGHT",
+        "url": "https://open.spotify.com/album/1EgMZxkVnf51SVEo5r5Kg0"
+      },
+      "artists": [
+        {
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139166,
+      "name": "BAD LINE",
+      "url": "https://open.spotify.com/track/4U8Cb7HJSR0VmsR8icbcHW"
+    },
+    {
+      "album": {
         "name": "Bad Taste",
         "url": "https://open.spotify.com/album/0Sm2yAul9Ih7CSac3ipoMo"
       },
@@ -2894,7 +2956,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 240000,
       "name": "Bad Taste",
       "url": "https://open.spotify.com/track/38NXnnLe2lph2AWFOyuC1o"
@@ -3218,7 +3280,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 135836,
       "name": "Bangarang",
       "url": "https://open.spotify.com/track/6CiFAikDkRPxUfDX8BtpSu"
@@ -3582,6 +3644,24 @@
       "duration_ms": 140645,
       "name": "Be Here (La La La)",
       "url": "https://open.spotify.com/track/4JXgJ33UmguXF3F9B5LwlD"
+    },
+    {
+      "album": {
+        "name": "BE URS",
+        "url": "https://open.spotify.com/album/7KUuZTM4vSUZNXlGeZZ9BK"
+      },
+      "artists": [
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177775,
+      "name": "BE URS",
+      "url": "https://open.spotify.com/track/2ySuwNs2HL3YtpeP2P753p"
     },
     {
       "album": {
@@ -7638,6 +7718,32 @@
       "duration_ms": 177931,
       "name": "COUNTRY RIDDIM",
       "url": "https://open.spotify.com/track/1dayiIC3odxNLViFQ7Iq4W"
+    },
+    {
+      "album": {
+        "name": "Cracks Begin To Show",
+        "url": "https://open.spotify.com/album/30IYhpkfsp1cIHyRJPabpI"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Freestylers",
+          "url": "https://open.spotify.com/artist/0zg9mF9dX2knvdTKnL22T1"
+        },
+        {
+          "name": "Belle Humble",
+          "url": "https://open.spotify.com/artist/5Uh9Oco0Khv18UvTo2PucM"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "Cracks Begin To Show",
+      "url": "https://open.spotify.com/track/2Vys0XlrWTjUxmGtRwHLGj"
     },
     {
       "album": {
@@ -11941,6 +12047,24 @@
     },
     {
       "album": {
+        "name": "F U",
+        "url": "https://open.spotify.com/album/7tkEt619WLeFAQ7jvzKKF9"
+      },
+      "artists": [
+        {
+          "name": "SIDEQUEST",
+          "url": "https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "F U",
+      "url": "https://open.spotify.com/track/2eYfS1zUGVLZN0MAgeDqRP"
+    },
+    {
+      "album": {
         "name": "F.Y.U.",
         "url": "https://open.spotify.com/album/6VVz3SsKCYbokxhmfzm38Q"
       },
@@ -14408,6 +14532,28 @@
       "duration_ms": 131076,
       "name": "Future Sip",
       "url": "https://open.spotify.com/track/0G5h3r3ExF7qBSOUPT7Tg9"
+    },
+    {
+      "album": {
+        "name": "Fux With Us (feat. TiaCorine)",
+        "url": "https://open.spotify.com/album/3hxSPaPvkCnM6qgm9ld1HR"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163537,
+      "name": "Fux With Us (feat. TiaCorine)",
+      "url": "https://open.spotify.com/track/0dMhvueZHZdHfJN99uMzcb"
     },
     {
       "album": {
@@ -17438,7 +17584,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 136551,
       "name": "Hot",
       "url": "https://open.spotify.com/track/3OWJaYSeQza1khF2lZfXkV"
@@ -17613,6 +17759,28 @@
     },
     {
       "album": {
+        "name": "How I Feel",
+        "url": "https://open.spotify.com/album/1rxJ0bA6PWSyd8R0jurIOJ"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "How I Feel",
+      "url": "https://open.spotify.com/track/0DiiIbyESdKbGnfD9p4UK0"
+    },
+    {
+      "album": {
         "name": "How To Feel",
         "url": "https://open.spotify.com/album/6ba78ms05fUHxnJZp2JZA2"
       },
@@ -17770,6 +17938,36 @@
       "duration_ms": 168879,
       "name": "Hurricane - Cyclops Remix",
       "url": "https://open.spotify.com/track/5oRaskkDmiWAWS3mPOYNjD"
+    },
+    {
+      "album": {
+        "name": "Asleep in the Garden of Infernal Stars & The Dreams Strange and Eternal - Remixes",
+        "url": "https://open.spotify.com/album/2vo8lxrsiRsRHUsUb4D7Ao"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Andrew Bayer",
+          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        },
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Hurricane - Riot Ten Remix",
+      "url": "https://open.spotify.com/track/560EpE0jS13RzydxTRX8pR"
     },
     {
       "album": {
@@ -18526,7 +18724,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 226551,
       "name": "IMPACT",
       "url": "https://open.spotify.com/track/4YLDVdlK5VNfHZJ7KxPjD9"
@@ -19116,7 +19314,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 137428,
       "name": "INSIDEOUT",
       "url": "https://open.spotify.com/track/6CJx4YMMJZv8G2CvDWBw0T"
@@ -19488,7 +19686,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 172189,
       "name": "Jazz Cabbage",
       "url": "https://open.spotify.com/track/0WZomj99qKEzipmSQIQktM"
@@ -25622,7 +25820,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 181324,
       "name": "OBSESSED",
       "url": "https://open.spotify.com/track/1eV4FSoEZKN7eIkAM8RzDQ"
@@ -27996,7 +28194,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 196056,
       "name": "Pop Off",
       "url": "https://open.spotify.com/track/4PolqZLqReEqc3yURJtzc4"
@@ -32469,6 +32667,28 @@
     },
     {
       "album": {
+        "name": "SIDESTEP",
+        "url": "https://open.spotify.com/album/4PMH0cmXcQ9uqNL7WLzGjh"
+      },
+      "artists": [
+        {
+          "name": "SPORTMODE",
+          "url": "https://open.spotify.com/artist/1kp5El0IY8pR8AGgVtgFhK"
+        },
+        {
+          "name": "Acyan",
+          "url": "https://open.spotify.com/artist/0o70ZPcBroPuIcUOOLWDI4"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "SIDESTEP",
+      "url": "https://open.spotify.com/track/4b5y4uI6XsMGjQQKDIisls"
+    },
+    {
+      "album": {
         "name": "Signal",
         "url": "https://open.spotify.com/album/6cEiwSWxau10hGkDHsYbhj"
       },
@@ -34838,7 +35058,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 228368,
       "name": "Swag Surfin'",
       "url": "https://open.spotify.com/track/4orH1YqyAjXBtBr0DfsqjV"
@@ -35396,7 +35616,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 164800,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/4CRKkzqCFATooA37D0koid"
@@ -36867,6 +37087,24 @@
     },
     {
       "album": {
+        "name": "Throw It Up",
+        "url": "https://open.spotify.com/album/32yCWDKsr3wEDexXr6dPZB"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201069,
+      "name": "Throw It Up",
+      "url": "https://open.spotify.com/track/0fLLrfJ4sikNitD6sDg2ne"
+    },
+    {
+      "album": {
         "name": "Throw Ya Body",
         "url": "https://open.spotify.com/album/4TADJ1eEDYHdmMfUN9fWwg"
       },
@@ -38050,7 +38288,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 264827,
       "name": "U Want Me",
       "url": "https://open.spotify.com/track/3ubOOFmrtp5E3lzfurjBpU"
@@ -39775,6 +40013,28 @@
     },
     {
       "album": {
+        "name": "WHATEVER HAPPENED TO DUBSTEP",
+        "url": "https://open.spotify.com/album/4D9Yp6XGuC6RO6xwWn58qd"
+      },
+      "artists": [
+        {
+          "name": "BARELY ALIVE",
+          "url": "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
+        },
+        {
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "WHATEVER HAPPENED TO DUBSTEP",
+      "url": "https://open.spotify.com/track/2emabNibRllH5L6CvwX8tP"
+    },
+    {
+      "album": {
         "name": "When I Fall",
         "url": "https://open.spotify.com/album/4Tjmwmy2Q0fJQm2WBjVrKq"
       },
@@ -39820,6 +40080,32 @@
       "duration_ms": 222400,
       "name": "When I'm Gone - NGHTMRE Remix",
       "url": "https://open.spotify.com/track/3wO31bU00RPlGXrZVxSnrz"
+    },
+    {
+      "album": {
+        "name": "When The Light Breaks",
+        "url": "https://open.spotify.com/album/1TUAfWl3NJj9yG1Bv9LwvA"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Heather Sommer",
+          "url": "https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213554,
+      "name": "When The Light Breaks",
+      "url": "https://open.spotify.com/track/5rPj0HY2HsT8qneZQL0jJk"
     },
     {
       "album": {
@@ -40586,7 +40872,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 178285,
       "name": "Word Scramble",
       "url": "https://open.spotify.com/track/080hAFjUF8vlrqr45hXQHd"

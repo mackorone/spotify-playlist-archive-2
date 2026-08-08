@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 343320,
+  "num_followers": 343358,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAADEb0sBqljrfKt02Fw0as0w",
+  "snapshot_id": "anPOgAAAAACHGMBiQ+XaG8c8GTk4+B/z",
   "tracks": [
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "Halfway To Hell",
-      "url": "https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Beautiful Disaster",
         "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 172421,
       "name": "Bottle and Mary Jane",
       "url": "https://open.spotify.com/track/5MbtltJOrf5hTldbvaEqdV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "Halfway To Hell",
+      "url": "https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27"
     },
     {
       "added_at": null,
@@ -531,6 +531,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SINS OF THE FATHER",
+        "url": "https://open.spotify.com/album/0pvGVyHiRMgYy8NSA6GmxT"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 215453,
+      "name": "BEGGING FOR CHANGE (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/6CaSjezkMHIsiWeLj5gsce"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lighter (FIFA World Cup 2026\u2122)",
         "url": "https://open.spotify.com/album/1MSm697OSJkLnNed3JY0Dh"
       },
@@ -575,22 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SINS OF THE FATHER",
-        "url": "https://open.spotify.com/album/0pvGVyHiRMgYy8NSA6GmxT"
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
       },
       "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        },
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 215453,
-      "name": "BEGGING FOR CHANGE (feat. Jelly Roll)",
-      "url": "https://open.spotify.com/track/6CaSjezkMHIsiWeLj5gsce"
+      "duration_ms": 220013,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/3XDm5Xh1chJePrcqNB2dwa"
     },
     {
       "added_at": null,
@@ -607,22 +623,6 @@
       "duration_ms": 198115,
       "name": "Only",
       "url": "https://open.spotify.com/track/4ZuiBNRL7M6ZIICenuF0zm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 220013,
-      "name": "Church",
-      "url": "https://open.spotify.com/track/3XDm5Xh1chJePrcqNB2dwa"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Crosses and Crossroads",
+        "url": "https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 206285,
+      "name": "Same Asshole",
+      "url": "https://open.spotify.com/track/1b4KQGFYbRqRe2Bx818Kqb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Thorns",
         "url": "https://open.spotify.com/album/6AMa9mH7ee5Q02TXf2LCGg"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 197343,
       "name": "My Only Enemy",
       "url": "https://open.spotify.com/track/210GmnYhUH2OwboYaMU4mf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crosses and Crossroads",
-        "url": "https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 206285,
-      "name": "Same Asshole",
-      "url": "https://open.spotify.com/track/1b4KQGFYbRqRe2Bx818Kqb"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 
 > Spain minus the S =
 
-[Spotify](https://open.spotify.com/user/spotify) - 589,499 likes - 150 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 589,562 likes - 150 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,12 +65,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 55 | [Miss Murder](https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 3:26 |
 | 56 | [Celebrity Skin](https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 2:42 |
 | 57 | [crushcrushcrush](https://open.spotify.com/track/3VA4sjTMSTTF02hFGmlpJh) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:09 |
-| 58 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:50 |
+| 58 | [forget me too \(feat\. Halsey\)](https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:51 |
 | 59 | [The Taste of Ink](https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:28 |
 | 60 | [Cherry Bomb](https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 2:18 |
 | 61 | [Ohio Is For Lovers](https://open.spotify.com/track/23DHUWJ7iEieNPMPKvjzBV) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 4:04 |
 | 62 | [REPULSIVE IN ITS SPLENDID BEAUTY](https://open.spotify.com/track/5VGAlq9o0u09jZavGLUfdo) | [Crowbar](https://open.spotify.com/artist/3xtIpqzIOfQUxKce8BU4Ka) | [Sonic Excess In Its Purest Form](https://open.spotify.com/album/4Davu5xpuijMwg3dohmKsZ) | 3:58 |
-| 63 | [forget me too \(feat\. Halsey\)](https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:51 |
+| 63 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:50 |
 | 64 | [Absolutely \(Story of a Girl\) \- Radio Mix](https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP) | [Nine Days](https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO) | [The Madding Crowd](https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD) | 3:09 |
 | 65 | [Until the Day I Die](https://open.spotify.com/track/0DKNNR9iDjwfCEpMiFXMJq) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:55 |
 | 66 | [Box Turtle, Magnificent Isn't She](https://open.spotify.com/track/4Dev97TQztwKYRMfR7HZCM) | [Lady Radiator](https://open.spotify.com/artist/5U2FH1VnxiZYbLcUVWGrov) | [Bounce Energy Hear Me Out](https://open.spotify.com/album/6KMS3Z8DZJI94pqwGTwCT6) | 5:14 |
@@ -122,12 +122,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 112 | [I Just Wanna Run](https://open.spotify.com/track/2S4CfxZG29GZWwDeMtBq2R) | [The Downtown Fiction](https://open.spotify.com/artist/7MRDkEKtdsGcYn11A4qgUL) | [Best I Never Had](https://open.spotify.com/album/5fXNchpJ8jblaAsFQgVjLH) | 3:19 |
 | 113 | [Outta My Head](https://open.spotify.com/track/3NcheXileql4RI8n6sLumL) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Outta My Head](https://open.spotify.com/album/3KIcGRLylPWgD0GF762Eln) | 2:52 |
 | 114 | [hurricane](https://open.spotify.com/track/7rBZUdVNrNxucV0E3bjgec) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [hurricane](https://open.spotify.com/album/6KrlbTeMwlqpaH0aAA18bW) | 2:44 |
-| 115 | [im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [misery](https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd) | 2:19 |
-| 116 | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw) | 2:27 |
+| 115 | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw) | 2:27 |
+| 116 | [im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [misery](https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd) | 2:19 |
 | 117 | [Vienna \(Everything’s Fine\)](https://open.spotify.com/track/4MZkA1wOfqYclYkQt7MUEd) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [Vienna \(Everything’s Fine\)](https://open.spotify.com/album/47wbE9QX926Oc3UIFAnKFQ) | 2:57 |
 | 118 | [KILL THE GHOST](https://open.spotify.com/track/3Irxv6FNc0sqF8WJbqJi8m) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [KILL THE GHOST](https://open.spotify.com/album/3BMM3Kv5iUtKkvjxLDkMzN) | 3:02 |
-| 119 | [RED GUITAR](https://open.spotify.com/track/6XxJPNJrLzr5ulspbPF9Rq) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [RED GUITAR](https://open.spotify.com/album/0vgXkq8T199cZ1wN8ppb51) | 2:27 |
-| 120 | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93) | 3:38 |
+| 119 | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93) | 3:38 |
+| 120 | [RED GUITAR](https://open.spotify.com/track/6XxJPNJrLzr5ulspbPF9Rq) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [RED GUITAR](https://open.spotify.com/album/0vgXkq8T199cZ1wN8ppb51) | 2:27 |
 | 121 | [My Mother Wants Me Dead](https://open.spotify.com/track/3ADDLOa2NjjLFQ7g2FTiYx) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [My Mother Wants Me Dead](https://open.spotify.com/album/0T6yUi3nWoE9c5krkoPYPK) | 1:45 |
 | 122 | [Blow It](https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Blow It](https://open.spotify.com/album/19O52p5ZCj30KUQ6rwPrpk) | 2:44 |
 | 123 | [Lonely Day \- Spotify Singles](https://open.spotify.com/track/2bmGjqYsvXVTt1CRfUicIH) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Lonely Day \- Spotify Singles](https://open.spotify.com/album/2GUhX1GveJBRtgpyUQhTSY) | 2:36 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 149 | [Good Girls \(Don’t Get Used\)](https://open.spotify.com/track/2yKNCN7jsi5XtwJL5jBG1z) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Good Girls \(Don’t Get Used\)](https://open.spotify.com/album/0fhPAKZGUPYLnK5gyoZB2G) | 3:35 |
 | 150 | [Hell](https://open.spotify.com/track/1DNrgnLWqHEC7CfTSRuvvW) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Hell](https://open.spotify.com/album/5f11kxQydj1NJONC9URJsU) | 2:06 |
 
-Snapshot ID: `AAAAAHcsiM0BY8GmR1Bvm/JVJzzeJPNB`
+Snapshot ID: `AAAAAEAKsKt0uY8zNTx+flgBXsJXEKRN`

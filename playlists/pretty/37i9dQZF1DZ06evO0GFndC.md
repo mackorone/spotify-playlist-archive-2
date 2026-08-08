@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GFndC.md) - [plain]
 
 > This is Grupo Los de la O\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,619 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,622 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GFndC.md) - [plain]
 | 38 | [Señor de la A \- En Vivo](https://open.spotify.com/track/4LmuzqcwGGERD1BvBhz4vy) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:14 |
 | 39 | [Según Te Extraño](https://open.spotify.com/track/6nI8ZKphg3xJ6k3Nm69XE8) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita Vol\. 4](https://open.spotify.com/album/3hNggryrDpZ8Z0MirfEskp) | 2:45 |
 | 40 | [Diez Mandamientos](https://open.spotify.com/track/1rkibuPk7ICzB33axkx8Bc) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Diez Mandamientos](https://open.spotify.com/album/5gWxmJhCpWPQlMsC2U9pDn) | 3:27 |
-| 41 | [Hoy Me Estoy Comiendo la Ciudad \- En Vivo](https://open.spotify.com/track/1lZWOA1c0YzqUvvmBpcc1s) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Hoy Me Estoy Comiendo La Ciudad \(En Vivo\)](https://open.spotify.com/album/4B2ByHupResD9l0PlPL7cb) | 3:54 |
+| 41 | [El Fabi](https://open.spotify.com/track/31ErKBwXb8AAtg1ia8mr90) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [El Fabi](https://open.spotify.com/album/6mbT8deP7lDf9PWxlibXic) | 2:40 |
 | 42 | [Porte Fino \- En Vivo](https://open.spotify.com/track/3eOU1OIeGUKvoBFHxDhhik) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:10 |
-| 43 | [El Fabi](https://open.spotify.com/track/31ErKBwXb8AAtg1ia8mr90) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [El Fabi](https://open.spotify.com/album/6mbT8deP7lDf9PWxlibXic) | 2:40 |
+| 43 | [Hoy Me Estoy Comiendo la Ciudad \- En Vivo](https://open.spotify.com/track/1lZWOA1c0YzqUvvmBpcc1s) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Hoy Me Estoy Comiendo La Ciudad \(En Vivo\)](https://open.spotify.com/album/4B2ByHupResD9l0PlPL7cb) | 3:54 |
 | 44 | [Problemas Mentales](https://open.spotify.com/track/5eEESdRtqJYTt5flYYg3jE) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Tras las Rejas](https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN) | 2:51 |
 | 45 | [En la Ciudad](https://open.spotify.com/track/0iDBiUWfjxXi3BAiAuxaeH) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [En la Ciudad](https://open.spotify.com/album/6fK7NyDOCaORkcEV6ravOd) | 3:06 |
 | 46 | [En las Calles Aprendi \- En Vivo](https://open.spotify.com/track/05qxEdJG2iRHDP20f4pMpc) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GFndC.md) - [plain]
 | 49 | [Ying Yang](https://open.spotify.com/track/1OYg0a4gAgjcACM7Rl1BnB) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita Vol\. 4](https://open.spotify.com/album/3hNggryrDpZ8Z0MirfEskp) | 2:36 |
 | 50 | [Mi Círculo Vicioso](https://open.spotify.com/track/5OAaWOy7nfXBCy4VRQ6tmS) | [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Mi Círculo Vicioso](https://open.spotify.com/album/6IgXzPjWIIBWJHCjRqGBiw) | 3:39 |
 
-Snapshot ID: `anJ9AAAAAABbicl4bJvJBA1YJazHT/Pt`
+Snapshot ID: `anPOgAAAAAC4WliSkKY+HrFWsT+S5utx`

@@ -1,12 +1,12 @@
 {
   "description": "John Otto, take 'em to the Matthews Bridge!",
-  "num_followers": 2296615,
+  "num_followers": 2296993,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGHQMGIJzxq6rWHn4Ts4VhDtZlZ1",
+  "snapshot_id": "AAAAAOUeQY+I7oL9h23DtDr7fa5aORro",
   "tracks": [
     {
       "added_at": "2026-07-16 22:35:35",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-07-16 22:35:35",
       "album": {
-        "name": "Proud Like a God",
-        "url": "https://open.spotify.com/album/1N5L209IqXQ6cqV2HFJU4G"
-      },
-      "artists": [
-        {
-          "name": "Guano Apes",
-          "url": "https://open.spotify.com/artist/4whxX965DKKqYkXmk33b4E"
-        }
-      ],
-      "duration_ms": 187560,
-      "name": "Open Your Eyes",
-      "url": "https://open.spotify.com/track/5oxpT46KeiEuckYnChgFFT"
-    },
-    {
-      "added_at": "2026-07-16 22:35:35",
-      "album": {
         "name": "Godsmack",
         "url": "https://open.spotify.com/album/1w7vC8hjYXhK1fS5cM2fUM"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 206200,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/6PHn6aXuM2FkzonGWJxY28"
+    },
+    {
+      "added_at": "2026-07-16 22:35:35",
+      "album": {
+        "name": "Proud Like a God",
+        "url": "https://open.spotify.com/album/1N5L209IqXQ6cqV2HFJU4G"
+      },
+      "artists": [
+        {
+          "name": "Guano Apes",
+          "url": "https://open.spotify.com/artist/4whxX965DKKqYkXmk33b4E"
+        }
+      ],
+      "duration_ms": 187560,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/5oxpT46KeiEuckYnChgFFT"
     },
     {
       "added_at": "2026-07-16 22:35:35",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-07-16 22:35:35",
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx"
-      },
-      "artists": [
-        {
-          "name": "Dope",
-          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "Die MF Die",
-      "url": "https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh"
-    },
-    {
-      "added_at": "2026-07-16 22:35:35",
-      "album": {
         "name": "Shadow Zone",
         "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 171106,
       "name": "The Only",
       "url": "https://open.spotify.com/track/35ZmCVnfYRdK1iLGCxNhMa"
+    },
+    {
+      "added_at": "2026-07-16 22:35:35",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx"
+      },
+      "artists": [
+        {
+          "name": "Dope",
+          "url": "https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "Die MF Die",
+      "url": "https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh"
     },
     {
       "added_at": "2026-07-16 22:35:35",

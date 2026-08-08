@@ -1,12 +1,12 @@
 {
   "description": "This is Glen Hansard. The essential tracks, all in one playlist.",
-  "num_followers": 32398,
+  "num_followers": 32629,
   "original_name": "This Is Glen Hansard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAACAVQHn5eKRDAZgucWwujWP",
+  "snapshot_id": "anPOgAAAAADMfOvJGHLVT/2p2GnScCTq",
   "tracks": [
     {
       "added_at": null,
@@ -71,8 +71,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Between Two Shores",
-        "url": "https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0"
+        "name": "Didn't He Ramble",
+        "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
       },
       "artists": [
         {
@@ -80,9 +80,9 @@
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         }
       ],
-      "duration_ms": 183293,
-      "name": "Why Woman",
-      "url": "https://open.spotify.com/track/7Kjh6A5voYQ1rFFnYEbYq6"
+      "duration_ms": 201826,
+      "name": "Winning Streak",
+      "url": "https://open.spotify.com/track/2vaoKrieU38LtJAYWXpeju"
     },
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Didn't He Ramble",
-        "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
+        "name": "Between Two Shores",
+        "url": "https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         }
       ],
-      "duration_ms": 201826,
-      "name": "Winning Streak",
-      "url": "https://open.spotify.com/track/2vaoKrieU38LtJAYWXpeju"
+      "duration_ms": 183293,
+      "name": "Why Woman",
+      "url": "https://open.spotify.com/track/7Kjh6A5voYQ1rFFnYEbYq6"
     },
     {
       "added_at": null,
@@ -135,6 +135,38 @@
       "duration_ms": 330053,
       "name": "Maybe Not Tonight",
       "url": "https://open.spotify.com/track/09GpXIZcLM34XWmsQeCZR3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Didn't He Ramble",
+        "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 266080,
+      "name": "My Little Ruin",
+      "url": "https://open.spotify.com/track/2aay5Exr9xPNdvLztiWl35"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Once (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 155320,
+      "name": "Say It To Me Now",
+      "url": "https://open.spotify.com/track/1DqVnXqaTYRgifxIMzIKBY"
     },
     {
       "added_at": null,
@@ -159,38 +191,6 @@
       "duration_ms": 287186,
       "name": "Low Rising",
       "url": "https://open.spotify.com/track/4TXEO5x60Xl3i85UOpr059"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Once (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 155320,
-      "name": "Say It To Me Now",
-      "url": "https://open.spotify.com/track/1DqVnXqaTYRgifxIMzIKBY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Didn't He Ramble",
-        "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 266080,
-      "name": "My Little Ruin",
-      "url": "https://open.spotify.com/track/2aay5Exr9xPNdvLztiWl35"
     },
     {
       "added_at": null,
@@ -739,22 +739,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cost",
-        "url": "https://open.spotify.com/album/27hjUL4KLOUjA0mhswsWuH"
+        "name": "Between Two Shores",
+        "url": "https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0"
       },
       "artists": [
-        {
-          "name": "The Frames",
-          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
-        },
         {
           "name": "Glen Hansard",
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         }
       ],
-      "duration_ms": 206413,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/4mHLZO8iKoHQSkxRVavhC1"
+      "duration_ms": 266242,
+      "name": "Time Will Be The Healer",
+      "url": "https://open.spotify.com/track/2Wl9dGzDkgW0jUrUzKO2Ln"
     },
     {
       "added_at": null,
@@ -775,18 +771,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Between Two Shores",
-        "url": "https://open.spotify.com/album/3tjUgeVvMqN457eeVeunb0"
+        "name": "The Cost",
+        "url": "https://open.spotify.com/album/27hjUL4KLOUjA0mhswsWuH"
       },
       "artists": [
+        {
+          "name": "The Frames",
+          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
+        },
         {
           "name": "Glen Hansard",
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
         }
       ],
-      "duration_ms": 266242,
-      "name": "Time Will Be The Healer",
-      "url": "https://open.spotify.com/track/2Wl9dGzDkgW0jUrUzKO2Ln"
+      "duration_ms": 206413,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/4mHLZO8iKoHQSkxRVavhC1"
     },
     {
       "added_at": null,
@@ -807,6 +807,30 @@
       "duration_ms": 246693,
       "name": "Lay Me Down | Ring of Fire",
       "url": "https://open.spotify.com/track/1pAAM0sXQkFN8pnPkAm5xW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/57mnXn8AGiqH6eulFq5fTQ"
+      },
+      "artists": [
+        {
+          "name": "The Swell Season",
+          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        },
+        {
+          "name": "Mark\u00e9ta Irglov\u00e1",
+          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
+        }
+      ],
+      "duration_ms": 231546,
+      "name": "Stuck In Reverse",
+      "url": "https://open.spotify.com/track/2rQVHibsV25SwAOLhdNUUp"
     },
     {
       "added_at": null,
@@ -907,30 +931,6 @@
       "duration_ms": 280339,
       "name": "Revelate (Funkhaus Version)",
       "url": "https://open.spotify.com/track/453oVdKnFk2PX89zV0QXfh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forward",
-        "url": "https://open.spotify.com/album/57mnXn8AGiqH6eulFq5fTQ"
-      },
-      "artists": [
-        {
-          "name": "The Swell Season",
-          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
-        },
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        },
-        {
-          "name": "Mark\u00e9ta Irglov\u00e1",
-          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
-        }
-      ],
-      "duration_ms": 231546,
-      "name": "Stuck In Reverse",
-      "url": "https://open.spotify.com/track/2rQVHibsV25SwAOLhdNUUp"
     },
     {
       "added_at": null,

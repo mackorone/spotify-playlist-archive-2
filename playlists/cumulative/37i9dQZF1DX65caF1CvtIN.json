@@ -495,6 +495,24 @@
     },
     {
       "album": {
+        "name": "Between Waves",
+        "url": "https://open.spotify.com/album/5u23NVUyWQXraSx1cWfPR8"
+      },
+      "artists": [
+        {
+          "name": "Nivellea",
+          "url": "https://open.spotify.com/artist/6fV1zumElkmOdLFGwBLr7f"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142577,
+      "name": "Between Waves",
+      "url": "https://open.spotify.com/track/0uSANLcPZyaND99ZyfoQqH"
+    },
+    {
+      "album": {
         "name": "Between Words",
         "url": "https://open.spotify.com/album/3a5s2mMbdQgLptCC384fPO"
       },

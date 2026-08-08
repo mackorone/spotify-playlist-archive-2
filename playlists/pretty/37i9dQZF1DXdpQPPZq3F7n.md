@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Let these songs be the background score to your love story\.  Cover \- Saiyaara
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,865,373 likes - 75 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,866,082 likes - 75 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 74 | [Phir Se](https://open.spotify.com/track/2NhPxmtxBFZQ8Nr583Iqqt) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Dhurandhar The Revenge](https://open.spotify.com/album/4jlyYLklV3kTBA6trX3bpj) | 5:54 |
 | 75 | [Jaate Hue Lamhon \(From "BORDER 2"\)](https://open.spotify.com/track/0BPm2ZCYW1DBMNfQKLSNpi) | [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00), [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Roop Kumar Rathod](https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [Jaate Hue Lamhon \(From "BORDER 2"\)](https://open.spotify.com/album/4CVNevhXz2vS2g8sA4iLl9) | 5:43 |
 
-Snapshot ID: `AAAAAMPGk6GrwXgKtluh5HaM9MK/+EoG`
+Snapshot ID: `AAAAAP47OEZV1zjBlRAWgK0iaOGdEaYF`

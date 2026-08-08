@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest out the South. Cover: Lil Baby",
+  "description": "The hottest out the South. Cover: Pooh Shiesty",
   "name": "No Cap",
   "tracks": [
     {
@@ -1848,7 +1848,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 233079,
       "name": "99 Build Freestyle",
       "url": "https://open.spotify.com/track/62tMGw9ce46XFOroYM0hrt"
@@ -2732,7 +2732,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 218000,
       "name": "All Love, Life Goes On",
       "url": "https://open.spotify.com/track/3T5O0MfxUykB0YKHoPAi3d"
@@ -3419,6 +3419,24 @@
     },
     {
       "album": {
+        "name": "Mr. Did It By Hisself 3",
+        "url": "https://open.spotify.com/album/6juCcyOTLHMxjwOqrvZt77"
+      },
+      "artists": [
+        {
+          "name": "FattMack",
+          "url": "https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Astronaut",
+      "url": "https://open.spotify.com/track/15Abt9MQ76aKspxZgFFqj5"
+    },
+    {
+      "album": {
         "name": "The Last Wun",
         "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
       },
@@ -3518,7 +3536,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 205185,
       "name": "ATL (APPR3CIAT3 TH3 LOV3)",
       "url": "https://open.spotify.com/track/2TiE2oSxAeaJFYWIMcCJsi"
@@ -4418,7 +4436,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 184714,
       "name": "BACK TO THE TRAP FREESTYLE",
       "url": "https://open.spotify.com/track/1xCduDc8aUoUfIQx8pVorZ"
@@ -4640,6 +4658,28 @@
       "duration_ms": 156617,
       "name": "Bad Ho's",
       "url": "https://open.spotify.com/track/2OTXDzDbBhIb2gXMrthc6G"
+    },
+    {
+      "album": {
+        "name": "GEEKLYFEE",
+        "url": "https://open.spotify.com/album/0wodZs0w9c3xl2olC21DFG"
+      },
+      "artists": [
+        {
+          "name": "333luhkell",
+          "url": "https://open.spotify.com/artist/4ONOKXE9p4g6F6HhhGDzF7"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97462,
+      "name": "Bad Shit",
+      "url": "https://open.spotify.com/track/40hgCwfD4ororMjvpYkfOv"
     },
     {
       "album": {
@@ -6782,7 +6822,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 138120,
       "name": "BLITZ",
       "url": "https://open.spotify.com/track/0VV5o7KcEmEJR9hvJEmQAA"
@@ -7444,6 +7484,32 @@
       "duration_ms": 146666,
       "name": "Booty (feat. Latto)",
       "url": "https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI"
+    },
+    {
+      "album": {
+        "name": "All Eyes on Shiest",
+        "url": "https://open.spotify.com/album/5bSBopVXXVyJlVCL5Lv7LI"
+      },
+      "artists": [
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143893,
+      "name": "Booty Club (feat. Sexyy Red, Tay Keith)",
+      "url": "https://open.spotify.com/track/04Ej3cJSaO2mZUUbagGNH8"
     },
     {
       "album": {
@@ -14570,7 +14636,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 158100,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/1kq6BFrLkZE7FMReMFIpIp"
@@ -19592,7 +19658,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 181586,
       "name": "Get Money Girl",
       "url": "https://open.spotify.com/track/6etwTzZtI9L64TYpfdOK0j"
@@ -19994,6 +20060,24 @@
       "duration_ms": 207443,
       "name": "Girls Gone Wild",
       "url": "https://open.spotify.com/track/1TYLYTMtSIqqPpOGJhmp0y"
+    },
+    {
+      "album": {
+        "name": "GIRLS WANT BOYS WHO STFU",
+        "url": "https://open.spotify.com/album/4TC5qKN9Ki29S5RuHLSo4k"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141058,
+      "name": "GIRLS WANT BOYS WHO STFU",
+      "url": "https://open.spotify.com/track/01FSlKPjxQ6LJj0MvhjYjl"
     },
     {
       "album": {
@@ -20541,6 +20625,24 @@
     },
     {
       "album": {
+        "name": "Street Fanci 5",
+        "url": "https://open.spotify.com/album/2hbLrnDfRSzuTJaguW2g77"
+      },
+      "artists": [
+        {
+          "name": "Tafia",
+          "url": "https://open.spotify.com/artist/75s3jBhtUyWmQLLqzhIub4"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162403,
+      "name": "Good At It",
+      "url": "https://open.spotify.com/track/2wI7XSysVR8ZjfLFjJh4DU"
+    },
+    {
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -20944,6 +21046,32 @@
       "duration_ms": 158659,
       "name": "Grind (feat. JP On Tha Track)",
       "url": "https://open.spotify.com/track/1IFpsjTi37PgJdwJ9RK2PI"
+    },
+    {
+      "album": {
+        "name": "Il Caos Parte 1",
+        "url": "https://open.spotify.com/album/1tr73fthAQbJqBrUqm6NP3"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Victor Victor Presents",
+          "url": "https://open.spotify.com/artist/6qiKUAYtRUe7XBgIJC0dCs"
+        },
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186791,
+      "name": "Grind Time",
+      "url": "https://open.spotify.com/track/1kxw6KJIFzbbTllzSiitwy"
     },
     {
       "album": {
@@ -22312,6 +22440,28 @@
       "duration_ms": 215958,
       "name": "Help Me 2",
       "url": "https://open.spotify.com/track/325bXTasDEqqaDPge70SVn"
+    },
+    {
+      "album": {
+        "name": "VERA VOLPE: THE PRELUDE",
+        "url": "https://open.spotify.com/album/4IFsmVvMq9sncizY7wuOxx"
+      },
+      "artists": [
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139753,
+      "name": "HERE AND THERE ft LIL BABY",
+      "url": "https://open.spotify.com/track/1cnwmw4IIrCef7g5yEuAKZ"
     },
     {
       "album": {
@@ -27923,6 +28073,24 @@
     },
     {
       "album": {
+        "name": "Last Man Breathin",
+        "url": "https://open.spotify.com/album/4xvAitL2IE5n0p4dLRQmv8"
+      },
+      "artists": [
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244280,
+      "name": "Last Man Breathin",
+      "url": "https://open.spotify.com/track/0yr6Sa2SLF4g6PTT3T3UkL"
+    },
+    {
+      "album": {
         "name": "Last Nite",
         "url": "https://open.spotify.com/album/0xkld7GL99iiAIMsFAz2N4"
       },
@@ -31539,6 +31707,24 @@
     },
     {
       "album": {
+        "name": "The Texture Tape 3",
+        "url": "https://open.spotify.com/album/3HpTvTzchwCTCAljGlVwjD"
+      },
+      "artists": [
+        {
+          "name": "Akeem Ali",
+          "url": "https://open.spotify.com/artist/5aTVaxCp68WGSX8qRkVM3X"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210133,
+      "name": "Mesh",
+      "url": "https://open.spotify.com/track/4oT1KmMpO1h8zm0aRhio7L"
+    },
+    {
+      "album": {
         "name": "Messiah (Devil's Diss)",
         "url": "https://open.spotify.com/album/0dzpAuuzU6f7OWAcxTD1UX"
       },
@@ -32548,6 +32734,24 @@
       "duration_ms": 186857,
       "name": "MONEYFLY",
       "url": "https://open.spotify.com/track/3vOzPs1jetSCO3BnkQGZ4Y"
+    },
+    {
+      "album": {
+        "name": "MONSTER",
+        "url": "https://open.spotify.com/album/67UBaBuoT0TiWBOmaa7T4k"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157837,
+      "name": "MONSTER",
+      "url": "https://open.spotify.com/track/2rSNj3zySzJ09yWUQar6Iz"
     },
     {
       "album": {
@@ -34868,7 +35072,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 144235,
       "name": "no ho in my bones",
       "url": "https://open.spotify.com/track/4SPMsUmurFDyxKgIi26xk9"
@@ -41105,6 +41309,24 @@
     },
     {
       "album": {
+        "name": "Put It On Me",
+        "url": "https://open.spotify.com/album/5GhZ74xpDRUOmjaX7FU3rT"
+      },
+      "artists": [
+        {
+          "name": "BAK Jay",
+          "url": "https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143424,
+      "name": "Put It On Me",
+      "url": "https://open.spotify.com/track/1D7V5uiMZ5aFJiR4qsnuxV"
+    },
+    {
+      "album": {
         "name": "SNOFALL",
         "url": "https://open.spotify.com/album/57KhbRYV5DpUmnn7nnJhbp"
       },
@@ -42374,7 +42596,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 163096,
       "name": "Rich Wizard",
       "url": "https://open.spotify.com/track/65kfzCDZRfiIsX28kK1WGk"
@@ -44177,6 +44399,28 @@
     },
     {
       "album": {
+        "name": "Set Ball",
+        "url": "https://open.spotify.com/album/2tlj1GQ4igb83VhLvTVcZp"
+      },
+      "artists": [
+        {
+          "name": "Stunna 4 Vegas",
+          "url": "https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8"
+        },
+        {
+          "name": "Bally Baby",
+          "url": "https://open.spotify.com/artist/7I0vkHapi0O00Yd6BZcl2Z"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163676,
+      "name": "Set Ball",
+      "url": "https://open.spotify.com/track/4nuHpP4ar4jTWf5hMFgfYq"
+    },
+    {
+      "album": {
         "name": "Set In Stone",
         "url": "https://open.spotify.com/album/13mpgWtvQho6iYmSvjcJDC"
       },
@@ -44722,7 +44966,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 137389,
       "name": "She Wit It",
       "url": "https://open.spotify.com/track/4RIXVXGuwHOm6HH3TRlLBX"
@@ -50995,6 +51239,24 @@
     },
     {
       "album": {
+        "name": "THOMASVILLE DAYS",
+        "url": "https://open.spotify.com/album/5DjZei9uXZZLrgevgN0z02"
+      },
+      "artists": [
+        {
+          "name": "Fatt Smaxk",
+          "url": "https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112266,
+      "name": "THOMASVILLE DAYS",
+      "url": "https://open.spotify.com/track/0Zt0bqKQ5NNKDR6IXzBJlz"
+    },
+    {
+      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW"
       },
@@ -51156,7 +51418,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 146938,
       "name": "Throw It",
       "url": "https://open.spotify.com/track/0XKQj4cBUZH7BCGsSV85uv"
@@ -51400,6 +51662,24 @@
       "duration_ms": 283196,
       "name": "To The Bone (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/4wRJHXHDJnKSPr9IVn0BFR"
+    },
+    {
+      "album": {
+        "name": "Cold Game",
+        "url": "https://open.spotify.com/album/5Ui4RLPNzdHxZAGB3aTK6o"
+      },
+      "artists": [
+        {
+          "name": "Whookilledkenny",
+          "url": "https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125353,
+      "name": "To The Max",
+      "url": "https://open.spotify.com/track/0A1uomjPh1KihRYSrfaTN3"
     },
     {
       "album": {
@@ -53492,7 +53772,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 137933,
       "name": "UP THE SCORE",
       "url": "https://open.spotify.com/track/35auUoo9WcaRMbFSWubRYT"
@@ -55205,6 +55485,28 @@
     },
     {
       "album": {
+        "name": "Born To Stunt",
+        "url": "https://open.spotify.com/album/6KKau0Ln7rroVVt07O1E76"
+      },
+      "artists": [
+        {
+          "name": "C Stunna",
+          "url": "https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF"
+        },
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173194,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/1bG5tQVcDf363nVGtJgTRN"
+    },
+    {
+      "album": {
         "name": "PARADISE",
         "url": "https://open.spotify.com/album/3GVcT0ZaiYTX3ZVETuP1aD"
       },
@@ -55742,7 +56044,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 199124,
       "name": "Who Am I Pleasing",
       "url": "https://open.spotify.com/track/1li0aKjKMedKzMWDsrqvxL"
@@ -57328,6 +57630,28 @@
       "duration_ms": 138303,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/3coWMNYxTTZutHpYObRZY7"
+    },
+    {
+      "album": {
+        "name": "Weathering The World",
+        "url": "https://open.spotify.com/album/21tXDFL17Oau3TtfZapUgD"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180869,
+      "name": "YK Where It's Goin",
+      "url": "https://open.spotify.com/track/2bBpDKh5gGUxCRVs74pWoA"
     },
     {
       "album": {

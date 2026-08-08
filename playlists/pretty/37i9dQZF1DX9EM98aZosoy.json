@@ -1,12 +1,12 @@
 {
   "description": "All killers, no fillers",
-  "num_followers": 1969645,
+  "num_followers": 1969509,
   "original_name": "Party Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOQ+5VgQAQ3wH+6RdXgMIp4vtq5f",
+  "snapshot_id": "AAAAAPtTLrM/4DYrPwTlCJGFLx3bXFc3",
   "tracks": [
     {
       "added_at": "2026-07-01 13:59:29",
@@ -239,6 +239,22 @@
     {
       "added_at": "2026-07-01 13:59:29",
       "album": {
+        "name": "TALKING IS HARD",
+        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
+      },
+      "artists": [
+        {
+          "name": "WALK THE MOON",
+          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Shut Up and Dance",
+      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
+    },
+    {
+      "added_at": "2026-07-01 13:59:29",
+      "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
-    },
-    {
-      "added_at": "2026-07-01 13:59:29",
-      "album": {
-        "name": "TALKING IS HARD",
-        "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
-      },
-      "artists": [
-        {
-          "name": "WALK THE MOON",
-          "url": "https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Shut Up and Dance",
-      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
     },
     {
       "added_at": "2026-07-01 13:59:29",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-07-01 13:59:29",
       "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
-        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 289133,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
-    },
-    {
-      "added_at": "2026-07-01 13:59:29",
-      "album": {
         "name": "The Days (NOTION Remix)",
         "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 233229,
       "name": "The Days - NOTION Remix",
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
+    },
+    {
+      "added_at": "2026-07-01 13:59:29",
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 289133,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
     },
     {
       "added_at": "2026-07-01 13:59:29",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-07-01 13:59:29",
       "album": {
-        "name": "Blur (Special Edition)",
-        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 121160,
-      "name": "Song 2 - 2012 Remaster",
-      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
-    },
-    {
-      "added_at": "2026-07-01 13:59:29",
-      "album": {
         "name": "Combat Rock (Remastered)",
         "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 188987,
       "name": "Should I Stay or Should I Go - Remastered",
       "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
+    },
+    {
+      "added_at": "2026-07-01 13:59:29",
+      "album": {
+        "name": "Blur (Special Edition)",
+        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 121160,
+      "name": "Song 2 - 2012 Remaster",
+      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
     },
     {
       "added_at": "2026-07-01 13:59:29",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-07-01 13:59:29",
       "album": {
-        "name": "Raise Your Glass",
-        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "Raise Your Glass",
-      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
-    },
-    {
-      "added_at": "2026-07-01 13:59:29",
-      "album": {
         "name": "Shock Value",
         "url": "https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 234026,
       "name": "Give It To Me",
       "url": "https://open.spotify.com/track/0wbDgMuAoy7O7pL3a69uZx"
+    },
+    {
+      "added_at": "2026-07-01 13:59:29",
+      "album": {
+        "name": "Raise Your Glass",
+        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 202960,
+      "name": "Raise Your Glass",
+      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
     },
     {
       "added_at": "2026-07-01 13:59:29",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2026-07-01 13:59:29",
       "album": {
-        "name": "Tomahawk Technique",
-        "url": "https://open.spotify.com/album/25o3xNsjPJahI22xQENaPd"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 227786,
-      "name": "She Doesn't Mind",
-      "url": "https://open.spotify.com/track/4odiyU3myG29Ld0wurMfE8"
-    },
-    {
-      "added_at": "2026-07-01 13:59:29",
-      "album": {
         "name": "LET'S GET FKD UP (feat. Tribbs)",
         "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
       },
@@ -1787,6 +1771,38 @@
     {
       "added_at": "2026-07-01 13:59:29",
       "album": {
+        "name": "Tomahawk Technique",
+        "url": "https://open.spotify.com/album/25o3xNsjPJahI22xQENaPd"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 227786,
+      "name": "She Doesn't Mind",
+      "url": "https://open.spotify.com/track/4odiyU3myG29Ld0wurMfE8"
+    },
+    {
+      "added_at": "2026-07-01 13:59:29",
+      "album": {
+        "name": "Fran\u00e7ois",
+        "url": "https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q"
+      },
+      "artists": [
+        {
+          "name": "Desireless",
+          "url": "https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2"
+        }
+      ],
+      "duration_ms": 266600,
+      "name": "Voyage voyage",
+      "url": "https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c"
+    },
+    {
+      "added_at": "2026-07-01 13:59:29",
+      "album": {
         "name": "Boyz In Paris (with VINAI)",
         "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 151589,
       "name": "Boyz In Paris (with VINAI)",
       "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
-    },
-    {
-      "added_at": "2026-07-01 13:59:29",
-      "album": {
-        "name": "Fran\u00e7ois",
-        "url": "https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q"
-      },
-      "artists": [
-        {
-          "name": "Desireless",
-          "url": "https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2"
-        }
-      ],
-      "duration_ms": 266600,
-      "name": "Voyage voyage",
-      "url": "https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c"
     },
     {
       "added_at": "2026-07-01 13:59:29",

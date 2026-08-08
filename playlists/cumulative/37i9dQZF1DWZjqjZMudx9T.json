@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "De la Calle a la Cima con J Balvin.",
+  "description": "De la Calle a la Cima con Ozuna y Omar Courtz.",
   "name": "MANSI\u00d3N REGGAET\u00d3N",
   "tracks": [
     {
@@ -837,6 +837,32 @@
     },
     {
       "album": {
+        "name": "DIABLO SANTO 2",
+        "url": "https://open.spotify.com/album/3HYMzWiVuq3BX102OH6VhY"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        },
+        {
+          "name": "DONNER",
+          "url": "https://open.spotify.com/artist/2agGIdhbRlnsnQVWv6jkA6"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206621,
+      "name": "Anestesia",
+      "url": "https://open.spotify.com/track/0eIORudF8TZvkZO3yWhRW4"
+    },
+    {
+      "album": {
         "name": "Antojo (with De La Ghetto)",
         "url": "https://open.spotify.com/album/2MS1YlHQkeWVVn9WAlk3Ww"
       },
@@ -1232,7 +1258,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 153566,
       "name": "Balenciaga",
       "url": "https://open.spotify.com/track/4VGFK69hVzkQ4K5qR4ypdF"
@@ -1992,7 +2018,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 214093,
       "name": "Caducaste",
       "url": "https://open.spotify.com/track/3k0au8hNwghIrLsfpP2W4z"
@@ -2142,6 +2168,24 @@
       "duration_ms": 204654,
       "name": "CANDY - Remix",
       "url": "https://open.spotify.com/track/3VjCEyc0bHfa4Ie34kbWyb"
+    },
+    {
+      "album": {
+        "name": "Mi Carpe Diem",
+        "url": "https://open.spotify.com/album/5xNpY6LGUqNbluWuLJRNSl"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173694,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/0aLgqklsBNnVValSEGssbz"
     },
     {
       "album": {
@@ -8301,6 +8345,24 @@
     },
     {
       "album": {
+        "name": "MATADORA",
+        "url": "https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144650,
+      "name": "MATADORA",
+      "url": "https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx"
+    },
+    {
+      "album": {
         "name": "Mayor Que Usted",
         "url": "https://open.spotify.com/album/39bS0KqiLzhJvitnTt7Y4W"
       },
@@ -9466,7 +9528,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 202628,
       "name": "No me mienta as\u00ed",
       "url": "https://open.spotify.com/track/57bgB2CZLNoipJVhdSDQ5V"
@@ -11776,7 +11838,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 234346,
       "name": "QU\u00c9 GANAS DE COMERTE",
       "url": "https://open.spotify.com/track/0MmbPDBxrlSLSgcfZPrGe0"
@@ -15686,6 +15748,28 @@
       "duration_ms": 202144,
       "name": "Yoshi",
       "url": "https://open.spotify.com/track/2wHtUYtX0RReivbfA8jD5K"
+    },
+    {
+      "album": {
+        "name": "ZIZI",
+        "url": "https://open.spotify.com/album/4f0YTBqSbvM1iJpuY9r3yQ"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242840,
+      "name": "ZIZI",
+      "url": "https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX"
     },
     {
       "album": {

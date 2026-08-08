@@ -2,9 +2,9 @@
 
 ### [New Music Friday BE](https://open.spotify.com/playlist/37i9dQZF1DXbUOvbOBAiPu)
 
-> New music from Amelie Lens x Angèle, Tayc x Didi B, Alex Warren and more...
+> New music from KAROL G x Bruno Mars, Amelie Lens x Angèle, Tayc x Didi B, Alex Warren and more...
 
-11,095 songs - 24 day 4 hr 13 min
+11,097 songs - 24 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7717,7 +7717,7 @@
 | [Printemps](https://open.spotify.com/track/4KMbIojhnl6R2BLuxdSguR) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Printemps](https://open.spotify.com/album/3QyeKFrKSgnwN1aMtvw6Gi) | 3:21 | 2025-09-19 | 2025-09-26 |
 | [Privacy](https://open.spotify.com/track/4uyekcXHQgFXCWUD3Z3hVY) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Privacy](https://open.spotify.com/album/3Y8tCScJlvlyZUhQdPmqSU) | 3:14 | 2026-07-23 | 2026-07-31 |
 | [Private](https://open.spotify.com/track/1735xgk2J8CHCGY2LS1HM6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Private](https://open.spotify.com/album/3ZHB2EDswWPDigqKXI59CL) | 3:49 | 2025-10-23 | 2025-10-31 |
-| [Private Chef](https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX) | [R.U\. \(Raw & Unfiltered\) Vol.1](https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE) | 3:20 | 2026-08-06 |  |
+| [Private Chef \(feat\. MC Morena\)](https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX) | [R.U\. \(Raw & Unfiltered\) Vol.1](https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE) | 3:20 | 2026-08-06 |  |
 | [Private Party](https://open.spotify.com/track/53fXpvHCU7XZLs0mqCIDNR) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Private Party](https://open.spotify.com/album/0YhnjhkoSSVrXu0jphHtuI) | 2:31 | 2025-11-06 | 2025-11-14 |
 | [Prizefighter](https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Prizefighter](https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X) | 3:29 | 2025-12-11 | 2025-12-19 |
 | [Prière pour reconstruire](https://open.spotify.com/track/3Mn9OM0hzV4JC7wJjC3yGA) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Prière pour reconstruire](https://open.spotify.com/album/4ROl2Euh00uo75istop8i4) | 4:07 | 2026-03-05 | 2026-03-13 |
@@ -9001,6 +9001,7 @@
 | [Sticky Fingers](https://open.spotify.com/track/6Nxj55nWZpi2uOXRVMfMY3) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Sticky Fingers](https://open.spotify.com/album/1ePJSgvvAndnUWpkHKg7p9) | 2:13 | 2025-08-28 | 2025-09-05 |
 | [Stigmates](https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Stigmates](https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe) | 4:53 | 2024-10-31 | 2024-11-08 |
 | [Stijlicoon](https://open.spotify.com/track/2jVSUHbPq3ARmFBfTS1uWU) | [Niels Destadsbader](https://open.spotify.com/artist/4AripACtwIVH69NdCbsJus) | [Stijlicoon](https://open.spotify.com/album/5iNLjXTpanf1xadW0ZSyI5) | 3:09 | 2024-09-26 | 2024-10-04 |
+| [Still](https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:40 | 2026-08-07 |  |
 | [still around](https://open.spotify.com/track/2Qe9pxPgnUBZMRDvonR0hK) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [still around](https://open.spotify.com/album/590XAhSjXQGT8BfHCOaZGp) | 3:37 | 2024-08-01 | 2024-08-09 |
 | [Still Bad](https://open.spotify.com/track/5UpdcedkGcuishA7jlnH8W) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Still Bad](https://open.spotify.com/album/3DwhFPQWTCMMTbllQrAIpL) | 3:28 | 2025-03-13 | 2025-03-21 |
 | [Still Breathing](https://open.spotify.com/track/55Ym4P3I3W7zteIu6DBl9N) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [Still Breathing](https://open.spotify.com/album/4GzuVetV8hd2PThv3yMY1M) | 3:39 | 2025-08-28 | 2025-09-05 |
@@ -9683,6 +9684,7 @@
 | [THINKING ABOUT YOU](https://open.spotify.com/track/5L8sLMsxXNwj8DbamUjs7c) | [EUROCLUB](https://open.spotify.com/artist/0O4Hy2bjefsM76Enm55XkR) | [EUROCLUB](https://open.spotify.com/album/3dErNe80z63631S7obJfB5) | 2:51 | 2025-11-27 | 2025-12-05 |
 | [Thirst](https://open.spotify.com/track/6USFQ4zfUMvZvwMeVKHbC5) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Thirst](https://open.spotify.com/album/1O1n5i2i7ZKRXk1A86jqfC) | 4:18 | 2025-05-15 | 2025-05-23 |
 | [Thirst Trap](https://open.spotify.com/track/0xiySkh9JAa1f3r6MdBUa3) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Who's the Clown?](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP) | 3:05 | 2025-08-14 | 2025-08-22 |
+| [This & That](https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THIS & THAT](https://open.spotify.com/album/0VDVnZhY399q6sIrdyjZWj) | 3:05 | 2026-08-07 |  |
 | [This Ain't Love](https://open.spotify.com/track/7aNnRM4mWrBdauDAwkEf5j) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4), [George Reid](https://open.spotify.com/artist/4AhAa3kyJe8OVyN1mxEB6o) | [This Ain't Love](https://open.spotify.com/album/12V6TWwLZOGaUWnHn8sLzG) | 2:40 | 2026-04-02 | 2026-04-10 |
 | [This House](https://open.spotify.com/track/5yJjTDwPGrUvpZ14FlzUUy) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [This House](https://open.spotify.com/album/3o8waJc4zXAfFqpjJoSapW) | 2:39 | 2025-02-13 | 2025-02-21 |
 | [This House \(That I've Built\)](https://open.spotify.com/track/1heokIzEsXUkwjlNHOJMhi) | [Aäron Koch](https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21) | [This House \(That I've Built\)](https://open.spotify.com/album/7bNicCBBPFxPshUM1q0CgZ) | 4:08 | 2025-04-24 | 2025-05-02 |

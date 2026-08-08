@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 
 > Mensagens de Fé por Gabriel Guedes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,181 likes - 31 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,166 likes - 31 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 | 22 | [Coritos de Fuego](https://open.spotify.com/track/0KKmrw8sL7MDGt5pzCBi2d) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Unified Sound](https://open.spotify.com/artist/6Y0QlQ95DbxecMvOq4KhXf), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7), [Lucia Parker](https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G), [Adrienne Bailon\-Houghton](https://open.spotify.com/artist/7yfn5P0P0V6r3uUcxd4d6u) | [Coritos de Fuego](https://open.spotify.com/album/0Lr0VOuAHm2lfsE5Lcct0X) | 9:36 |
 | 23 | [Glorioso Dia](https://open.spotify.com/track/2PgjvgT42YlURZgBaujKza) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Testemunho](https://open.spotify.com/album/5WL6YejG3O4C9TmMzWC3pz) | 4:25 |
 | 24 | [I'm So Blessed](https://open.spotify.com/track/2C0CRs9cwkD8VABHxrBkEd) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Rise Up](https://open.spotify.com/album/6J077INxLUE8Yq1xhRKx7E) | 2:55 |
-| 25 | [Gratidão](https://open.spotify.com/track/1UsJHUdF66XUQcEliF00oC) | [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS) | [Ministrações, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/52jYeYYOGfljWCtMFUW86n) | 6:36 |
+| 25 | [Gratidão \- Ao Vivo](https://open.spotify.com/track/1UsJHUdF66XUQcEliF00oC) | [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS) | [Ministrações, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/52jYeYYOGfljWCtMFUW86n) | 6:36 |
 | 26 | [Mensagem: Tudo Vai Ficar Bem](https://open.spotify.com/episode/2uKQj5fyuztd4vMiSMLB4b) | [Fé Pelo Ouvir](https://open.spotify.com/show/416QRsd3BNY6YUxDBBZP6E) | [Fé Pelo Ouvir](https://open.spotify.com/album/416QRsd3BNY6YUxDBBZP6E) | 0:54 |
 | 27 | [Tudo Vai Ficar Bem \(Be Alright\)](https://open.spotify.com/track/19KeQmcmi2nH2K7NtM1FC4) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [O Amor Que Encontrei](https://open.spotify.com/album/2MtP3RxBqIUGkXKoorkWRO) | 4:30 |
 | 28 | [Cheiro das Águas](https://open.spotify.com/track/76QuI47gkW52s0xjX7mHim) | [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [Razão da Esperança](https://open.spotify.com/album/7CybXHoarqFPVdqanU8D0X) | 3:54 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 | 30 | [You're Not Done \- Radio Version](https://open.spotify.com/track/3vlOekCXyaDER2FgMVVVRZ) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2), [Kari Jobe Carnes](https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3) | [You're Not Done \(Radio Version\)](https://open.spotify.com/album/2iyX92I8JBc3khUr1UP3pG) | 3:53 |
 | 31 | [Joy In The Morning](https://open.spotify.com/track/6VorEVnu2fEEk6dcG9vb5v) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Joy In The Morning](https://open.spotify.com/album/170FUziX94zYLzcV7arINC) | 8:48 |
 
-Snapshot ID: `AAAAALuItAuLcRVl1vOZ3BTCh2PNbGDN`
+Snapshot ID: `AAAAACRw/G+wFDbV1ZIQGwe3jwXFY2B6`

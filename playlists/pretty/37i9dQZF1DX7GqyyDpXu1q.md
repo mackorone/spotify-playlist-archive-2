@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Modern southern rock swagger served neat\. Cover: The Black Crowes
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,495 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,498 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 74 | [High Time](https://open.spotify.com/track/37cUGI1BZADBtseJQJ4Nld) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Get Rollin'](https://open.spotify.com/album/660c34OZzJ4gUd0rXe8ARp) | 3:54 |
 | 75 | [God's Gonna Cut You Down](https://open.spotify.com/track/40wrxy7MzdqNGbvHhRzzdb) | [The Native Howl](https://open.spotify.com/artist/4mPuqkxTxwhEhYhpjKzvM4) | [God's Gonna Cut You Down](https://open.spotify.com/album/2vQG7LRc8QrNS57X5LhSYt) | 3:30 |
 
-Snapshot ID: `AAAAAM9k0PqN8D/0mJH0m59idkI5D6iJ`
+Snapshot ID: `AAAAAHf9NVZfueXFknYyj5J1HErCocjq`

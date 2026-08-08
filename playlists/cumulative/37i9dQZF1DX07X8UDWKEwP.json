@@ -2590,7 +2590,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 212457,
       "name": "Cambio de planes",
       "url": "https://open.spotify.com/track/6iWDHYcAigQlAvU35bIU7W"
@@ -2612,7 +2612,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 184832,
       "name": "CAMINO",
       "url": "https://open.spotify.com/track/7HrQQQeBpXAaZkvdeX24yU"
@@ -7141,6 +7141,28 @@
     },
     {
       "album": {
+        "name": "Hilo Rojo [ I ]",
+        "url": "https://open.spotify.com/album/3a79uzcoGNi7vV6UvkoLLM"
+      },
+      "artists": [
+        {
+          "name": "Nella",
+          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174402,
+      "name": "Hilo Rojo [ I ]",
+      "url": "https://open.spotify.com/track/0WQGgbBXd3ZATAGrjVQsOK"
+    },
+    {
+      "album": {
         "name": "Hipnotizado",
         "url": "https://open.spotify.com/album/4Pdi3N3NtFJYx6sutIdnlD"
       },
@@ -11038,7 +11060,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 206236,
       "name": "Mujeres Bellas",
       "url": "https://open.spotify.com/track/4oqVNFdh2vaPfzneTL7k3c"
@@ -11648,6 +11670,24 @@
       "duration_ms": 181294,
       "name": "No Quiero Amarte",
       "url": "https://open.spotify.com/track/2MM82QZZjFlgXi2vFCPW2C"
+    },
+    {
+      "album": {
+        "name": "No Se Olvida",
+        "url": "https://open.spotify.com/album/4I16OBUHF6dp0IedbGrRZy"
+      },
+      "artists": [
+        {
+          "name": "Malu Trevejo",
+          "url": "https://open.spotify.com/artist/58GNHTqgNesANvRuoKzCwX"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149765,
+      "name": "No Se Olvida",
+      "url": "https://open.spotify.com/track/2imd4D4oRsVb5bNIcXp9nP"
     },
     {
       "album": {
@@ -13122,6 +13162,24 @@
       "duration_ms": 219992,
       "name": "Por Mala",
       "url": "https://open.spotify.com/track/0HyLFT1hrUHijlXG7D7WjX"
+    },
+    {
+      "album": {
+        "name": "Por No Perderte Te Perdi",
+        "url": "https://open.spotify.com/album/4AXp8On21o5752eVPV8Tlg"
+      },
+      "artists": [
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169342,
+      "name": "Por No Perderte Te Perdi",
+      "url": "https://open.spotify.com/track/57RM67Rt2vO9Dgjqc1eC5a"
     },
     {
       "album": {
@@ -16231,6 +16289,28 @@
     },
     {
       "album": {
+        "name": "Te vi",
+        "url": "https://open.spotify.com/album/4koSwd9nFH8Ai8edKqYeFS"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158408,
+      "name": "Te vi",
+      "url": "https://open.spotify.com/track/02gRSpvCv9BjnTxirDeFcX"
+    },
+    {
+      "album": {
         "name": "Tengo Ganas",
         "url": "https://open.spotify.com/album/4aTjVjqLbli8O4DNSn85Ce"
       },
@@ -17412,7 +17492,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 200000,
       "name": "Viral en Mi Mente",
       "url": "https://open.spotify.com/track/2WahHoz2VqJMet3A3OOzHd"
@@ -17456,6 +17536,24 @@
       "duration_ms": 253753,
       "name": "Vivir\u00e9",
       "url": "https://open.spotify.com/track/4Cvkj8t7pNQLfLpHMoKkMC"
+    },
+    {
+      "album": {
+        "name": "Vi\u00e9ndote de Lejos",
+        "url": "https://open.spotify.com/album/0m1ZGtpxHjB8jcZ0ezwatx"
+      },
+      "artists": [
+        {
+          "name": "Jeeiph",
+          "url": "https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202409,
+      "name": "Vi\u00e9ndote de Lejos",
+      "url": "https://open.spotify.com/track/7152ddHmoKsHJKc3eMglLS"
     },
     {
       "album": {
@@ -17510,6 +17608,24 @@
       "duration_ms": 256277,
       "name": "Volver a Enamorarnos",
       "url": "https://open.spotify.com/track/4SzRsSk3O4Qtk5tMzwsrxa"
+    },
+    {
+      "album": {
+        "name": "Voy Contigo",
+        "url": "https://open.spotify.com/album/4sS5gwh7Voxs4bENfhA30Q"
+      },
+      "artists": [
+        {
+          "name": "Amy Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159181,
+      "name": "Voy Contigo",
+      "url": "https://open.spotify.com/track/2eIcX9n25YfizA4B3Aw2gy"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the Nordic queendom. ",
-  "num_followers": 7944,
+  "num_followers": 7948,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFmEJraz5pV/7wRdY1iCXLLoX4A9",
+  "snapshot_id": "AAAAALdz220ax1EQhqBjyl6DrTVDf+UK",
   "tracks": [
     {
       "added_at": "2025-05-06 11:46:39",
@@ -643,6 +643,26 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
+        "name": "Pornography",
+        "url": "https://open.spotify.com/album/5bUZab9H9HH4z0RBwaRWuK"
+      },
+      "artists": [
+        {
+          "name": "Highasakite",
+          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
+        },
+        {
+          "name": "Emilie Nicolas",
+          "url": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Pornography",
+      "url": "https://open.spotify.com/track/3WYYCy17XlR8BXpwdU2Qd8"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
         "name": "Buffalo Stance",
         "url": "https://open.spotify.com/album/2PgI6x9bRitaXcU2Omh1HQ"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 307546,
       "name": "Buffalo Stance",
       "url": "https://open.spotify.com/track/1cz1jiZlsUlKbHAkJZ2Pec"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
-        "name": "Pornography",
-        "url": "https://open.spotify.com/album/5bUZab9H9HH4z0RBwaRWuK"
-      },
-      "artists": [
-        {
-          "name": "Highasakite",
-          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
-        },
-        {
-          "name": "Emilie Nicolas",
-          "url": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Pornography",
-      "url": "https://open.spotify.com/track/3WYYCy17XlR8BXpwdU2Qd8"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx"
+        "name": "HURT PEOPLE",
+        "url": "https://open.spotify.com/album/5Ui2vqU9Ta35ZeiM8kjoNY"
       },
       "artists": [
         {
-          "name": "Claudia Neuser",
-          "url": "https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq"
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
         }
       ],
-      "duration_ms": 218454,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E"
+      "duration_ms": 163218,
+      "name": "HURT PEOPLE",
+      "url": "https://open.spotify.com/track/2cr6TL0vLgqJCcgD0hWIbl"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "HURT PEOPLE",
-        "url": "https://open.spotify.com/album/5Ui2vqU9Ta35ZeiM8kjoNY"
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx"
       },
       "artists": [
         {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+          "name": "Claudia Neuser",
+          "url": "https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq"
         }
       ],
-      "duration_ms": 163218,
-      "name": "HURT PEOPLE",
-      "url": "https://open.spotify.com/track/2cr6TL0vLgqJCcgD0hWIbl"
+      "duration_ms": 218454,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E"
     },
     {
       "added_at": "2025-05-06 11:46:39",

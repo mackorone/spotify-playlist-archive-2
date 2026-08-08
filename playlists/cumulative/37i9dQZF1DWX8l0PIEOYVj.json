@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 183066,
       "name": "Are You With Me",
       "url": "https://open.spotify.com/track/5AQUoPHBy8jbmg5f5jmq6t"
@@ -1732,7 +1732,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 220800,
       "name": "Before We Say Goodbye",
       "url": "https://open.spotify.com/track/0Ew01g0wdjESoidUYRfWW6"
@@ -9216,6 +9216,32 @@
       "duration_ms": 288000,
       "name": "Illuminate",
       "url": "https://open.spotify.com/track/5kZwbhtdv1ymVtxv912PmR"
+    },
+    {
+      "album": {
+        "name": "In Between",
+        "url": "https://open.spotify.com/album/3EVUuJFVdAMhFVbFohidV7"
+      },
+      "artists": [
+        {
+          "name": "CADMIUM",
+          "url": "https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy"
+        },
+        {
+          "name": "Lost Identities",
+          "url": "https://open.spotify.com/artist/76BHKmTZPOUV3itxUUXmkQ"
+        },
+        {
+          "name": "my friends call me Mel",
+          "url": "https://open.spotify.com/artist/5vdoWLv7CdfFSlq4aqFrhs"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "In Between",
+      "url": "https://open.spotify.com/track/0dCGujCQMu9YEFBsaj0Q6h"
     },
     {
       "album": {
@@ -19134,6 +19160,32 @@
       "duration_ms": 222400,
       "name": "When I'm Gone - NGHTMRE Remix",
       "url": "https://open.spotify.com/track/3wO31bU00RPlGXrZVxSnrz"
+    },
+    {
+      "album": {
+        "name": "When The Light Breaks",
+        "url": "https://open.spotify.com/album/1TUAfWl3NJj9yG1Bv9LwvA"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Heather Sommer",
+          "url": "https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213554,
+      "name": "When The Light Breaks",
+      "url": "https://open.spotify.com/track/5rPj0HY2HsT8qneZQL0jJk"
     },
     {
       "album": {

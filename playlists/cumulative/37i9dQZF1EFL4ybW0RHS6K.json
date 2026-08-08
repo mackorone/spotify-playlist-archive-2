@@ -591,6 +591,28 @@
     },
     {
       "album": {
+        "name": "Buk",
+        "url": "https://open.spotify.com/album/4isSCBd0841Ju7NSplpfZP"
+      },
+      "artists": [
+        {
+          "name": "Caza",
+          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
+        },
+        {
+          "name": "Issairo",
+          "url": "https://open.spotify.com/artist/5plDUJR66Vb8TYzXu9L1YV"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179334,
+      "name": "Buk",
+      "url": "https://open.spotify.com/track/4FzKbi5Jy4X4xeANaBGlsm"
+    },
+    {
+      "album": {
         "name": "Catch My Drip",
         "url": "https://open.spotify.com/album/3cycoGXJcQkq1wFchUfw6d"
       },
@@ -610,6 +632,28 @@
       "duration_ms": 138496,
       "name": "Catch My Drip",
       "url": "https://open.spotify.com/track/4fEFdLOtj99mWgc2cH8QgO"
+    },
+    {
+      "album": {
+        "name": "CD van mij",
+        "url": "https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170453,
+      "name": "CD van mij",
+      "url": "https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif"
     },
     {
       "album": {
@@ -1800,6 +1844,24 @@
       "duration_ms": 189104,
       "name": "Lockdown",
       "url": "https://open.spotify.com/track/1a4rqo1v8hv75XRXOrW1v1"
+    },
+    {
+      "album": {
+        "name": "LOS",
+        "url": "https://open.spotify.com/album/4NkRtMQZ50XR3gd3GO4QR5"
+      },
+      "artists": [
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194873,
+      "name": "LOS",
+      "url": "https://open.spotify.com/track/7Ldgeb2tFhXB42322j16e9"
     },
     {
       "album": {

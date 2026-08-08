@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,988,633 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,988,715 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 16 | [The Show Must Go On](https://open.spotify.com/track/4GHk8YtewHGbk6HsVJ0mcT) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo](https://open.spotify.com/album/0CNfnxzURJtjzeyELCBfvj) | 4:31 |
 | 17 | [Cool Cat \- Remastered 2011](https://open.spotify.com/track/6Re2AwZUVlgBng04BZTauW) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Hot Space \(Deluxe Remastered Version\)](https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf) | 3:29 |
 | 18 | [Good Old\-Fashioned Lover Boy](https://open.spotify.com/track/1FXeqJV13iMAeOohMpwJnA) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition\)](https://open.spotify.com/album/32wu2qeQwVA6D8z1nWk68Q) | 2:52 |
-| 19 | [You're My Best Friend \- Remastered 2011](https://open.spotify.com/track/4OKf7CcYuw5H2HptkcKxcP) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Remastered Version\)](https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr) | 2:50 |
-| 20 | [Don't Stop Me Now \- ...Revisited](https://open.spotify.com/track/2JmZGZMlDu90ngd74T05Ue) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/69RZR37WFgxDDdfxAPz9pk) | 3:37 |
+| 19 | [Don't Stop Me Now \- ...Revisited](https://open.spotify.com/track/2JmZGZMlDu90ngd74T05Ue) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Bohemian Rhapsody \(The Original Soundtrack\)](https://open.spotify.com/album/69RZR37WFgxDDdfxAPz9pk) | 3:37 |
+| 20 | [You're My Best Friend](https://open.spotify.com/track/46gybz6M2g4oiVvt1aWOV4) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera](https://open.spotify.com/album/1TkbyIkf6GSrO5e7gWS4AM) | 2:52 |
 | 21 | [I Want It All \- Single Version](https://open.spotify.com/track/4w79VLgle2eoaAsstdpXAq) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(Collector's Edition\)](https://open.spotify.com/album/32SCJ9cqSEVHczInhCCwPs) | 4:01 |
 | 22 | [Too Much Love Will Kill You](https://open.spotify.com/track/3wFwjn2xygzaQfDlcui9w4) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(Deluxe Edition\)](https://open.spotify.com/album/4WHZOrekAUoBMQaajTIglO) | 4:19 |
 | 23 | [Hammer To Fall](https://open.spotify.com/track/1OuuQNfGJ0KwD4KUJ7tuzj) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits II](https://open.spotify.com/album/36ezh7pwcktRIhXmL2AFhp) | 3:40 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 44 | [The Invisible Man](https://open.spotify.com/track/770LXTeLm1POb8SLYkXSAa) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle](https://open.spotify.com/album/4Ck0kT7cw6fXjFVBL3DODw) | 4:02 |
 | 45 | [Somebody To Love \- Live At The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley / 1992](https://open.spotify.com/track/0muc9Lvuvz3V0XQjbrfNzz) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits III](https://open.spotify.com/album/5VeFHJvFbfmrigIKFqGa1e) | 5:07 |
 | 46 | [One Year Of Love](https://open.spotify.com/track/3B4lRypQs341Tcgef8gICJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(Deluxe Edition\)](https://open.spotify.com/album/3gAVJcYGZD5Jm8YaWOkSrZ) | 4:27 |
-| 47 | [Don't Try Suicide](https://open.spotify.com/track/4Fh9yqhihSjribDyjOV6n7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Edition\)](https://open.spotify.com/album/58bipcogQNQdIrGFWUSJM3) | 3:52 |
-| 48 | [Tie Your Mother Down](https://open.spotify.com/track/67diy3U3H033kNyox0Bt5x) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition\)](https://open.spotify.com/album/32wu2qeQwVA6D8z1nWk68Q) | 4:49 |
+| 47 | [Tie Your Mother Down](https://open.spotify.com/track/67diy3U3H033kNyox0Bt5x) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition\)](https://open.spotify.com/album/32wu2qeQwVA6D8z1nWk68Q) | 4:49 |
+| 48 | [Don't Try Suicide](https://open.spotify.com/track/4Fh9yqhihSjribDyjOV6n7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Edition\)](https://open.spotify.com/album/58bipcogQNQdIrGFWUSJM3) | 3:52 |
 | 49 | [There Must Be More To Life Than This \- William Orbit Mix](https://open.spotify.com/track/37wsnfOsPkbXkDMbVL242d) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Queen Forever](https://open.spotify.com/album/44tpjRgHiOt5ByV2KESi6K) | 3:27 |
 | 50 | [Who Wants to Live Forever \- Stranger Things Remix](https://open.spotify.com/track/3jhO40EobK5cQFo0QuUFaY) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Who Wants to Live Forever \(Stranger Things Remix\)](https://open.spotify.com/album/3apsijVtRaziEzZZn5Uc2a) | 2:47 |
 
-Snapshot ID: `anJ9AAAAAADt2suw6+E4uLLEd/jbYIWF`
+Snapshot ID: `anPOgAAAAABnZU05kST7yCsGC1OCB/BJ`

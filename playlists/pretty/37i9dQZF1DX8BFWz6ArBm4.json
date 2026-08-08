@@ -1,12 +1,12 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Giannis Ploutarhos",
-  "num_followers": 39459,
+  "num_followers": 39474,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJN3+p4rCnu6RqgSaGObX8hCgNj5",
+  "snapshot_id": "AAAAAPGQPPm3hbx6oHztD6tjUUNW2RDL",
   "tracks": [
     {
       "added_at": "2026-07-30 21:00:53",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-07-30 21:00:53",
       "album": {
-        "name": "Deutera",
-        "url": "https://open.spotify.com/album/09QOrsNfrqiAkgiiOewiOC"
-      },
-      "artists": [
-        {
-          "name": "Antonis Remos",
-          "url": "https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG"
-        }
-      ],
-      "duration_ms": 240222,
-      "name": "Deutera",
-      "url": "https://open.spotify.com/track/3LOXEAe5FMR1PRKiHAp9wt"
-    },
-    {
-      "added_at": "2026-07-30 21:00:53",
-      "album": {
         "name": "Ola Gia Ola",
         "url": "https://open.spotify.com/album/7x2obj5avH7SoylWDKlfLo"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 281503,
       "name": "Ola Gia Ola",
       "url": "https://open.spotify.com/track/51Sxai2iT4hMLcGMpb0oY6"
+    },
+    {
+      "added_at": "2026-07-30 21:00:53",
+      "album": {
+        "name": "Deutera",
+        "url": "https://open.spotify.com/album/09QOrsNfrqiAkgiiOewiOC"
+      },
+      "artists": [
+        {
+          "name": "Antonis Remos",
+          "url": "https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG"
+        }
+      ],
+      "duration_ms": 240222,
+      "name": "Deutera",
+      "url": "https://open.spotify.com/track/3LOXEAe5FMR1PRKiHAp9wt"
     },
     {
       "added_at": "2026-07-30 21:00:53",
@@ -599,18 +599,22 @@
     {
       "added_at": "2026-07-30 21:00:53",
       "album": {
-        "name": "Se Thelo Parafora",
-        "url": "https://open.spotify.com/album/513gKE8Un3MSuku5MtFpUb"
+        "name": "12 Tsigara",
+        "url": "https://open.spotify.com/album/42cuv51ZSnng9JYeWwepQZ"
       },
       "artists": [
         {
-          "name": "Nikos Makropoulos",
-          "url": "https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO"
+          "name": "Giorgos Tsalikis",
+          "url": "https://open.spotify.com/artist/7wdFPENV7NBZ4o3tHqsWhD"
+        },
+        {
+          "name": "Themis Adamantidis",
+          "url": "https://open.spotify.com/artist/5HYu4OrohE4gwR7IlHpbt8"
         }
       ],
-      "duration_ms": 201925,
-      "name": "Se Thelo Parafora",
-      "url": "https://open.spotify.com/track/4Ny6sPSlZ6KGy9DBmLAnge"
+      "duration_ms": 238777,
+      "name": "12 Tsigara",
+      "url": "https://open.spotify.com/track/3KjgRSqqVtkbs44g2dlRnQ"
     },
     {
       "added_at": "2026-07-30 21:00:53",
@@ -647,6 +651,22 @@
     {
       "added_at": "2026-07-30 21:00:53",
       "album": {
+        "name": "Se Thelo Parafora",
+        "url": "https://open.spotify.com/album/513gKE8Un3MSuku5MtFpUb"
+      },
+      "artists": [
+        {
+          "name": "Nikos Makropoulos",
+          "url": "https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO"
+        }
+      ],
+      "duration_ms": 201925,
+      "name": "Se Thelo Parafora",
+      "url": "https://open.spotify.com/track/4Ny6sPSlZ6KGy9DBmLAnge"
+    },
+    {
+      "added_at": "2026-07-30 21:00:53",
+      "album": {
         "name": "Ta Xano",
         "url": "https://open.spotify.com/album/6pVOST8S9KjooQavCagiHf"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 182574,
       "name": "Ta Xano",
       "url": "https://open.spotify.com/track/5P81M4o7l0SW7Eb0ijR2jr"
-    },
-    {
-      "added_at": "2026-07-30 21:00:53",
-      "album": {
-        "name": "12 Tsigara",
-        "url": "https://open.spotify.com/album/42cuv51ZSnng9JYeWwepQZ"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Tsalikis",
-          "url": "https://open.spotify.com/artist/7wdFPENV7NBZ4o3tHqsWhD"
-        },
-        {
-          "name": "Themis Adamantidis",
-          "url": "https://open.spotify.com/artist/5HYu4OrohE4gwR7IlHpbt8"
-        }
-      ],
-      "duration_ms": 238777,
-      "name": "12 Tsigara",
-      "url": "https://open.spotify.com/track/3KjgRSqqVtkbs44g2dlRnQ"
     },
     {
       "added_at": "2026-07-30 21:00:53",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-07-30 21:00:53",
       "album": {
+        "name": "Sou Eleipsa H Oxi?",
+        "url": "https://open.spotify.com/album/3Y3vGleylpZtWMQUySRcvI"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        }
+      ],
+      "duration_ms": 239482,
+      "name": "Sou Eleipsa H Oxi?",
+      "url": "https://open.spotify.com/track/3DjRWr61uRKkd6pe0DkO3e"
+    },
+    {
+      "added_at": "2026-07-30 21:00:53",
+      "album": {
         "name": "Pare Repo",
         "url": "https://open.spotify.com/album/6s2Yfh1CRyRPH8M7r3ER0o"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 226987,
       "name": "Xereis Pollous?",
       "url": "https://open.spotify.com/track/4oiQ25jJItB6XnfXAj3MgY"
-    },
-    {
-      "added_at": "2026-07-30 21:00:53",
-      "album": {
-        "name": "Sou Eleipsa H Oxi?",
-        "url": "https://open.spotify.com/album/3Y3vGleylpZtWMQUySRcvI"
-      },
-      "artists": [
-        {
-          "name": "Katerina Lioliou",
-          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
-        }
-      ],
-      "duration_ms": 239482,
-      "name": "Sou Eleipsa H Oxi?",
-      "url": "https://open.spotify.com/track/3DjRWr61uRKkd6pe0DkO3e"
     },
     {
       "added_at": "2026-07-30 21:00:53",

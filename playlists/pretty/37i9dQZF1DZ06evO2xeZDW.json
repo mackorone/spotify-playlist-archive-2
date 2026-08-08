@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Giacchino. The essential tracks, all in one playlist.",
-  "num_followers": 18488,
+  "num_followers": 18493,
   "original_name": "This Is Michael Giacchino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAB5T//5a7pgTJbFrRrVAXBy",
+  "snapshot_id": "anPOgAAAAADgRNnSc+EzSeR2T5WKLBYW",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
+        "name": "Spider-Man: Brand New Day (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6"
       },
       "artists": [
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        },
         {
           "name": "Michael Giacchino",
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 55093,
-      "name": "Zootopening",
-      "url": "https://open.spotify.com/track/38cxPonZ8DehreKbDEGctW"
+      "duration_ms": 250146,
+      "name": "A Good Day to Dive - from \"Spider-Man: Brand New Day\" Soundtrack",
+      "url": "https://open.spotify.com/track/20qocJgu4FllPhaoDO3NiL"
     },
     {
       "added_at": null,
@@ -435,18 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spider-Man: Brand New Day (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6"
+        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
       },
       "artists": [
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
         {
           "name": "Michael Giacchino",
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 250146,
-      "name": "A Good Day to Dive - from \"Spider-Man: Brand New Day\" Soundtrack",
-      "url": "https://open.spotify.com/track/20qocJgu4FllPhaoDO3NiL"
+      "duration_ms": 55093,
+      "name": "Zootopening",
+      "url": "https://open.spotify.com/track/38cxPonZ8DehreKbDEGctW"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
       "duration_ms": 351666,
       "name": "Jyn Erso & Hope Suite",
       "url": "https://open.spotify.com/track/4tD2tUs8Bf4X5dMS6CxccV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spider-Man: Brand New Day (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 156466,
+      "name": "Say Hero to My Little Friend - from \"Spider-Man: Brand New Day\" Soundtrack",
+      "url": "https://open.spotify.com/track/4CLeBGmCkGgLptLmO5r0ne"
     },
     {
       "added_at": null,
@@ -499,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spider-Man: Brand New Day (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 156466,
-      "name": "Say Hero to My Little Friend - from \"Spider-Man: Brand New Day\" Soundtrack",
-      "url": "https://open.spotify.com/track/4CLeBGmCkGgLptLmO5r0ne"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
       },
@@ -531,6 +531,22 @@
       "duration_ms": 112600,
       "name": "The Old Zoo Review",
       "url": "https://open.spotify.com/track/76HDMYEE9m0Y4eGt5LMVQf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spider-Man: Brand New Day (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 69400,
+      "name": "Ned Man Walking - from \"Spider-Man: Brand New Day\" Soundtrack",
+      "url": "https://open.spotify.com/track/1F3Mopuuv5PPPIgXiMbq4n"
     },
     {
       "added_at": null,
@@ -567,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spider-Man: Brand New Day (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 69400,
-      "name": "Ned Man Walking - from \"Spider-Man: Brand New Day\" Soundtrack",
-      "url": "https://open.spotify.com/track/1F3Mopuuv5PPPIgXiMbq4n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spider-Man: No Way Home (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL"
       },
@@ -595,38 +595,6 @@
       "duration_ms": 255296,
       "name": "Exit Through the Lobby - from \"Spider-Man: No Way Home\" Soundtrack",
       "url": "https://open.spotify.com/track/5CIOy79Y5MmXeInEiVikRC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "The Imperial Suite",
-      "url": "https://open.spotify.com/track/2NZhNbfb1rD1aRj3hZaoqk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Batman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 244573,
-      "name": "Can't Fight City Halloween",
-      "url": "https://open.spotify.com/track/31n5hquEG1tkwzizOAlj0K"
     },
     {
       "added_at": null,
@@ -647,6 +615,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Star Trek (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/0LGD98m43zunznpBrOsjqe"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 61160,
+      "name": "Star Trek",
+      "url": "https://open.spotify.com/track/7yfZybf51ZCHG1waqcDsiu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Batman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "duration_ms": 244573,
+      "name": "Can't Fight City Halloween",
+      "url": "https://open.spotify.com/track/31n5hquEG1tkwzizOAlj0K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spider-Man: No Way Home (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL"
       },
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Star Trek (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/0LGD98m43zunznpBrOsjqe"
+        "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
         }
       ],
-      "duration_ms": 61160,
-      "name": "Star Trek",
-      "url": "https://open.spotify.com/track/7yfZybf51ZCHG1waqcDsiu"
+      "duration_ms": 149760,
+      "name": "The Imperial Suite",
+      "url": "https://open.spotify.com/track/2NZhNbfb1rD1aRj3hZaoqk"
     },
     {
       "added_at": null,

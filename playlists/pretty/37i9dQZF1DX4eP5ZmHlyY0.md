@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: CORTIS & Juicy J
+> Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: Stray Kids
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,233 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,535 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [MOTION \(feat\. Juicy J\)](https://open.spotify.com/track/15EbINtnOI4c2jPXXskywy) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [MOTION \(feat\. Juicy J\)](https://open.spotify.com/album/7hkn5DHPOpLwrlUpxAbbnp) | 2:37 |
+| 1 | [This & That](https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THIS & THAT](https://open.spotify.com/album/0VDVnZhY399q6sIrdyjZWj) | 3:05 |
 | 2 | [BAD](https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.5](https://open.spotify.com/album/6Eg6B1mgGj2dGLBajzsVpV) | 2:36 |
-| 3 | [BRUCE WAYNE feat\. Flo Milli, ATL Jacob](https://open.spotify.com/track/41bI4N12BHk4wMGClHwBtF) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [BRUCE WAYNE feat\. Flo Milli, ATL Jacob](https://open.spotify.com/album/5me9Gj0brBgKZL9YdSvYZI) | 3:07 |
-| 4 | [REDRED](https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED](https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM) | 2:43 |
-| 5 | [WHATCHA DOIN](https://open.spotify.com/track/0jIdJN8ZjQNVLmikkg0mnF) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [WHATCHA DOIN](https://open.spotify.com/album/5bUWg5P0OFvGtGT0ePJsEb) | 3:22 |
-| 6 | [BUGS LIFE](https://open.spotify.com/track/3o9jxRsczWG6Juy1KTDNuG) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [BUGS LIFE](https://open.spotify.com/album/00iL5SyEZfu0gxcnN6Py4t) | 2:59 |
-| 7 | [Battle Ground \(Korean Version\)](https://open.spotify.com/track/6CoD4TwVhN69X49qHtp8bD) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY 2026 Pt.1](https://open.spotify.com/album/3lGjISBaDtPMM1rooDDmyZ) | 3:31 |
-| 8 | [Nice to Meet Ya](https://open.spotify.com/track/7y0C2c0wVLUivXy6kUM0nQ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Nice to Meet Ya](https://open.spotify.com/album/4fWoWnHmYFjMQVt7dZ9DmW) | 3:24 |
-| 9 | [LAWLESS](https://open.spotify.com/track/6DyUH0V8c8fy5hg40O16Jn) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [LAWLESS](https://open.spotify.com/album/1XCbkmrTVA218VmsuHiKp7) | 3:19 |
+| 3 | [REDRED](https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED](https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM) | 2:43 |
+| 4 | [BUGS LIFE](https://open.spotify.com/track/3o9jxRsczWG6Juy1KTDNuG) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [BUGS LIFE](https://open.spotify.com/album/00iL5SyEZfu0gxcnN6Py4t) | 2:59 |
+| 5 | [MOTION \(feat\. Juicy J\)](https://open.spotify.com/track/15EbINtnOI4c2jPXXskywy) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [MOTION \(feat\. Juicy J\)](https://open.spotify.com/album/7hkn5DHPOpLwrlUpxAbbnp) | 2:37 |
+| 6 | [BRUCE WAYNE feat\. Flo Milli, ATL Jacob](https://open.spotify.com/track/41bI4N12BHk4wMGClHwBtF) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [BRUCE WAYNE feat\. Flo Milli, ATL Jacob](https://open.spotify.com/album/5me9Gj0brBgKZL9YdSvYZI) | 3:07 |
+| 7 | [LAWLESS](https://open.spotify.com/track/6DyUH0V8c8fy5hg40O16Jn) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [LAWLESS](https://open.spotify.com/album/1XCbkmrTVA218VmsuHiKp7) | 3:19 |
+| 8 | [SAKURA](https://open.spotify.com/track/2AKVMux9oWObX2xbr7FHNU) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [SAKURA](https://open.spotify.com/album/7aHdo6NaGvifTKui2VsiWN) | 2:45 |
+| 9 | [Nice to Meet Ya](https://open.spotify.com/track/7y0C2c0wVLUivXy6kUM0nQ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Nice to Meet Ya](https://open.spotify.com/album/4fWoWnHmYFjMQVt7dZ9DmW) | 3:24 |
 | 10 | [Do your dance](https://open.spotify.com/track/0BlndWgd48bhj9ui9xiEtS) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Ⅱ \- The 2nd Mini Album](https://open.spotify.com/album/5r3alQ2vYnM5eFJnlNkaaU) | 2:57 |
 | 11 | [BEYOND THE SKY](https://open.spotify.com/track/19MFBrZX4xZkfk5GE5kMGb) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [BEYOND THE SKY](https://open.spotify.com/album/3nVNNK8x7GHYuRB2vk0BnS) | 3:27 |
 | 12 | [SODA SODA](https://open.spotify.com/track/57gjiXuk5Z992BWHrvncEa) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [SODA SODA](https://open.spotify.com/album/46CiVULXNIUuEfTtfHLQ3T) | 3:12 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 79 | [SANE](https://open.spotify.com/track/1xvKv2s1glXmM7r7onnU0s) | [ONE PACT](https://open.spotify.com/artist/6ypgjfzuOVkVw9FEyh2UD5) | [1'ONLY](https://open.spotify.com/album/6Edlwp9FVbvlxF0JYAUqg9) | 2:18 |
 | 80 | [KEYVITUP](https://open.spotify.com/track/5BKwXFDUy903O85ATXdu5e) | [KEYVITUP](https://open.spotify.com/artist/5t5DHjgbcPnJGZJyz3YCnv) | [1ST EP ALBUM \[KEYVITUP\]](https://open.spotify.com/album/4LP65OY24zeyZRNd4GxhCH) | 2:38 |
 
-Snapshot ID: `AAAAAJ3eKdTwxLR0HrM83Umie4olO0dN`
+Snapshot ID: `AAAAAKGiGYKkSJx7bUUv+KTMaT9Pt+RX`

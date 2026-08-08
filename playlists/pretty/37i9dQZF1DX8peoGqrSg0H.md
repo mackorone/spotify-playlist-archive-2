@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: VVV
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,171 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,178 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 49 | [Pretty Girl](https://open.spotify.com/track/6tB3Own6faovgVetrvNCiZ) | [KimGun](https://open.spotify.com/artist/12mLwmGdGDI6nZxur0atkl) | [Pretty Girl](https://open.spotify.com/album/08H6tDS77MOL0eL5RT2qqE) | 2:47 |
 | 50 | [ปักใจ \(Still\) \- Ost\. ภพเธอ Love Upon a Time Series](https://open.spotify.com/track/3xgbJWnKccTeGlLFjFeE1Z) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ปักใจ \(Still\) \[Ost\. ภพเธอ Love Upon a Time Series\]](https://open.spotify.com/album/4GyqFPxBc3cwlm8Y2c0eXs) | 3:31 |
 
-Snapshot ID: `AAAAANri6o8I9vvCs9R6m/Us2Y/ApVhm`
+Snapshot ID: `AAAAAMDAVLcPYxSSleVffR3nW705Nj9y`

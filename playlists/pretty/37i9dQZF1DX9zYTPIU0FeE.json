@@ -1,12 +1,12 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Linda Sikhakhane",
-  "num_followers": 14459,
+  "num_followers": 14460,
   "original_name": "Jazz NEXT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG5M6IajB5AXIZBLwrjUpgj8sL0e",
+  "snapshot_id": "AAAAAMhE9DDbYCOzUVngC3/M3PA38AJj",
   "tracks": [
     {
       "added_at": "2026-08-06 22:01:42",
@@ -263,6 +263,30 @@
     {
       "added_at": "2026-08-06 22:01:42",
       "album": {
+        "name": "Scatterlings (Johnny Clegg Reimagined)",
+        "url": "https://open.spotify.com/album/7f3nbz6bx26a15WKCzYQKT"
+      },
+      "artists": [
+        {
+          "name": "Johnny Clegg",
+          "url": "https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "Kyle Shepherd Trio",
+          "url": "https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx"
+        }
+      ],
+      "duration_ms": 295289,
+      "name": "Third World Child",
+      "url": "https://open.spotify.com/track/77eZpR8sSF7OKG6SON6cwH"
+    },
+    {
+      "added_at": "2026-08-06 22:01:42",
+      "album": {
         "name": "Ndilapha",
         "url": "https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax"
       },
@@ -291,30 +315,6 @@
       "duration_ms": 716000,
       "name": "Hymn For Hani",
       "url": "https://open.spotify.com/track/1dyINry7aQw296piLxPzUB"
-    },
-    {
-      "added_at": "2026-08-06 22:01:42",
-      "album": {
-        "name": "Scatterlings (Johnny Clegg Reimagined)",
-        "url": "https://open.spotify.com/album/7f3nbz6bx26a15WKCzYQKT"
-      },
-      "artists": [
-        {
-          "name": "Johnny Clegg",
-          "url": "https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O"
-        },
-        {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
-        },
-        {
-          "name": "Kyle Shepherd Trio",
-          "url": "https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx"
-        }
-      ],
-      "duration_ms": 295289,
-      "name": "Third World Child",
-      "url": "https://open.spotify.com/track/77eZpR8sSF7OKG6SON6cwH"
     },
     {
       "added_at": "2026-08-06 22:01:42",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-08-06 22:01:42",
       "album": {
-        "name": "In The Wake",
-        "url": "https://open.spotify.com/album/7vBYVegNxjgWj8eJwiXEWq"
-      },
-      "artists": [
-        {
-          "name": "Kujenga",
-          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
-        }
-      ],
-      "duration_ms": 602023,
-      "name": "Lesedi",
-      "url": "https://open.spotify.com/track/7yCLdDtr0RBqQ36gQ0OYhO"
-    },
-    {
-      "added_at": "2026-08-06 22:01:42",
-      "album": {
         "name": "Sankofa",
         "url": "https://open.spotify.com/album/5y7tFgFLl0d5AKExJC8Rsy"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 243046,
       "name": "xandibona wena feat. Thandi Ntuli",
       "url": "https://open.spotify.com/track/2i34qxXLo879bdRYDwyhQN"
+    },
+    {
+      "added_at": "2026-08-06 22:01:42",
+      "album": {
+        "name": "In The Wake",
+        "url": "https://open.spotify.com/album/7vBYVegNxjgWj8eJwiXEWq"
+      },
+      "artists": [
+        {
+          "name": "Kujenga",
+          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
+        }
+      ],
+      "duration_ms": 602023,
+      "name": "Lesedi",
+      "url": "https://open.spotify.com/track/7yCLdDtr0RBqQ36gQ0OYhO"
     },
     {
       "added_at": "2026-08-06 22:01:42",
@@ -527,18 +527,18 @@
     {
       "added_at": "2026-08-06 22:01:42",
       "album": {
-        "name": "Modeh Ani",
-        "url": "https://open.spotify.com/album/1CqHrW7AbDQhEfhc8JRTDx"
+        "name": "nomthandazo",
+        "url": "https://open.spotify.com/album/0yaSKg83zo7r7TfTRBORs1"
       },
       "artists": [
         {
-          "name": "Yosef Gutman",
-          "url": "https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr"
+          "name": "Zo\u00eb Modiga",
+          "url": "https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB"
         }
       ],
-      "duration_ms": 239107,
-      "name": "Modeh Ani",
-      "url": "https://open.spotify.com/track/3u1zpgT2edkhYKSoO0aTy8"
+      "duration_ms": 232533,
+      "name": "indlela",
+      "url": "https://open.spotify.com/track/4eajZbdg8VneL3FBe1BoHO"
     },
     {
       "added_at": "2026-08-06 22:01:42",
@@ -559,18 +559,18 @@
     {
       "added_at": "2026-08-06 22:01:42",
       "album": {
-        "name": "nomthandazo",
-        "url": "https://open.spotify.com/album/0yaSKg83zo7r7TfTRBORs1"
+        "name": "Modeh Ani",
+        "url": "https://open.spotify.com/album/1CqHrW7AbDQhEfhc8JRTDx"
       },
       "artists": [
         {
-          "name": "Zo\u00eb Modiga",
-          "url": "https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB"
+          "name": "Yosef Gutman",
+          "url": "https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr"
         }
       ],
-      "duration_ms": 232533,
-      "name": "indlela",
-      "url": "https://open.spotify.com/track/4eajZbdg8VneL3FBe1BoHO"
+      "duration_ms": 239107,
+      "name": "Modeh Ani",
+      "url": "https://open.spotify.com/track/3u1zpgT2edkhYKSoO0aTy8"
     },
     {
       "added_at": "2026-08-06 22:01:42",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-08-06 22:01:42",
       "album": {
+        "name": "Doodle Do - Diminished Light",
+        "url": "https://open.spotify.com/album/0Q9DsJOyrb0BoH9KnViXie"
+      },
+      "artists": [
+        {
+          "name": "Pilani Bubu",
+          "url": "https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Doodle Do - Diminished Light",
+      "url": "https://open.spotify.com/track/60zHgqXCIlAWf9NtNCmD0s"
+    },
+    {
+      "added_at": "2026-08-06 22:01:42",
+      "album": {
         "name": "Reawakening",
         "url": "https://open.spotify.com/album/6kXVFaMcxjNoB9X11MhxOb"
       },
@@ -711,18 +727,22 @@
     {
       "added_at": "2026-08-06 22:01:42",
       "album": {
-        "name": "Doodle Do - Diminished Light",
-        "url": "https://open.spotify.com/album/0Q9DsJOyrb0BoH9KnViXie"
+        "name": "Come Home (feat. Filah Lah Lah)",
+        "url": "https://open.spotify.com/album/4aotwHazC1DeazuX3hmLIW"
       },
       "artists": [
         {
-          "name": "Pilani Bubu",
-          "url": "https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be"
+          "name": "Ndabo Zulu",
+          "url": "https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33"
+        },
+        {
+          "name": "Filah Lah Lah",
+          "url": "https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw"
         }
       ],
-      "duration_ms": 244800,
-      "name": "Doodle Do - Diminished Light",
-      "url": "https://open.spotify.com/track/60zHgqXCIlAWf9NtNCmD0s"
+      "duration_ms": 366048,
+      "name": "Come Home (feat. Filah Lah Lah)",
+      "url": "https://open.spotify.com/track/6vMe5lYrd4xHK10r2kJCto"
     },
     {
       "added_at": "2026-08-06 22:01:42",
@@ -751,26 +771,6 @@
     {
       "added_at": "2026-08-06 22:01:42",
       "album": {
-        "name": "Come Home (feat. Filah Lah Lah)",
-        "url": "https://open.spotify.com/album/4aotwHazC1DeazuX3hmLIW"
-      },
-      "artists": [
-        {
-          "name": "Ndabo Zulu",
-          "url": "https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33"
-        },
-        {
-          "name": "Filah Lah Lah",
-          "url": "https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw"
-        }
-      ],
-      "duration_ms": 366048,
-      "name": "Come Home (feat. Filah Lah Lah)",
-      "url": "https://open.spotify.com/track/6vMe5lYrd4xHK10r2kJCto"
-    },
-    {
-      "added_at": "2026-08-06 22:01:42",
-      "album": {
         "name": "The Waters",
         "url": "https://open.spotify.com/album/6MSFydma7FJtUStM0FqTiU"
       },
@@ -783,22 +783,6 @@
       "duration_ms": 302022,
       "name": "The Waters",
       "url": "https://open.spotify.com/track/3jJ4WhN4qNSM5dkV79C4JW"
-    },
-    {
-      "added_at": "2026-08-06 22:01:42",
-      "album": {
-        "name": "Ransome",
-        "url": "https://open.spotify.com/album/1OVSlDC8KEWjuB7kpI2zHl"
-      },
-      "artists": [
-        {
-          "name": "Kujenga",
-          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
-        }
-      ],
-      "duration_ms": 322073,
-      "name": "Ransome, Pt. 1",
-      "url": "https://open.spotify.com/track/6Qq0U6mp8ziiObrYHiVFwU"
     },
     {
       "added_at": "2026-08-06 22:01:42",
@@ -819,6 +803,22 @@
       "duration_ms": 346924,
       "name": "kulungile",
       "url": "https://open.spotify.com/track/5IMyRcJrykW4EQKUEwOIrC"
+    },
+    {
+      "added_at": "2026-08-06 22:01:42",
+      "album": {
+        "name": "Ransome",
+        "url": "https://open.spotify.com/album/1OVSlDC8KEWjuB7kpI2zHl"
+      },
+      "artists": [
+        {
+          "name": "Kujenga",
+          "url": "https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha"
+        }
+      ],
+      "duration_ms": 322073,
+      "name": "Ransome, Pt. 1",
+      "url": "https://open.spotify.com/track/6Qq0U6mp8ziiObrYHiVFwU"
     },
     {
       "added_at": "2026-08-06 22:01:42",
@@ -859,30 +859,6 @@
     {
       "added_at": "2026-08-06 22:01:42",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/3s5eLz0oFuLKU6O0lo3mBH"
-      },
-      "artists": [
-        {
-          "name": "Charles Webster",
-          "url": "https://open.spotify.com/artist/4zMgFVljBxMaPn1U0SXGOh"
-        },
-        {
-          "name": "EMAMKAY",
-          "url": "https://open.spotify.com/artist/3BhUASI2Cb8vaJNUTcEzGv"
-        },
-        {
-          "name": "Bokang Ramatlapeng",
-          "url": "https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs"
-        }
-      ],
-      "duration_ms": 304495,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/1nsUHf6IzILt5Vh5UCDVrH"
-    },
-    {
-      "added_at": "2026-08-06 22:01:42",
-      "album": {
         "name": "ZINZA",
         "url": "https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv"
       },
@@ -903,6 +879,30 @@
       "duration_ms": 298400,
       "name": "Sombhuluka",
       "url": "https://open.spotify.com/track/48jlBxbv2YX3l29ivsYn8t"
+    },
+    {
+      "added_at": "2026-08-06 22:01:42",
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/3s5eLz0oFuLKU6O0lo3mBH"
+      },
+      "artists": [
+        {
+          "name": "Charles Webster",
+          "url": "https://open.spotify.com/artist/4zMgFVljBxMaPn1U0SXGOh"
+        },
+        {
+          "name": "EMAMKAY",
+          "url": "https://open.spotify.com/artist/3BhUASI2Cb8vaJNUTcEzGv"
+        },
+        {
+          "name": "Bokang Ramatlapeng",
+          "url": "https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs"
+        }
+      ],
+      "duration_ms": 304495,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1nsUHf6IzILt5Vh5UCDVrH"
     },
     {
       "added_at": "2026-08-06 22:01:42",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-08-06 22:01:42",
       "album": {
-        "name": "The Y-Factor Project",
-        "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
-      },
-      "artists": [
-        {
-          "name": "Billy Monama",
-          "url": "https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "Bawo Ndi Xolele (Hymn)",
-      "url": "https://open.spotify.com/track/5oDMLrjVqFN3ALJmsBAjtq"
-    },
-    {
-      "added_at": "2026-08-06 22:01:42",
-      "album": {
         "name": "ZINZA",
         "url": "https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 270120,
       "name": "Ngeke!",
       "url": "https://open.spotify.com/track/0Km8060UTy8Bd2pUnbRanR"
+    },
+    {
+      "added_at": "2026-08-06 22:01:42",
+      "album": {
+        "name": "The Y-Factor Project",
+        "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
+      },
+      "artists": [
+        {
+          "name": "Billy Monama",
+          "url": "https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "Bawo Ndi Xolele (Hymn)",
+      "url": "https://open.spotify.com/track/5oDMLrjVqFN3ALJmsBAjtq"
     },
     {
       "added_at": "2026-08-06 22:01:42",

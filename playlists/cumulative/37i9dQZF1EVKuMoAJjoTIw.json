@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIX93oX60vcj1>Alec Benjamin</a>, <a href=spotify:playlist:37i9dQZF1EIWSrcRlZfmEg>The Long Faces</a>, <a href=spotify:playlist:37i9dQZF1EIYcZwbbjckJd>Radiohead</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIZCxFUJomB5x>SIENNA SPIRO</a>, <a href=spotify:playlist:37i9dQZF1EIV1hAnuH1ilI>Justin Bieber</a>, <a href=spotify:playlist:37i9dQZF1EIZMGq5iNDWIK>Eminem</a> and more",
   "name": "Sad Mix",
   "tracks": [
     {
@@ -3782,7 +3782,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 238640,
       "name": "Creep",
       "url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"
@@ -6472,7 +6472,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-03",
+      "date_removed": null,
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
@@ -6700,6 +6700,24 @@
       "duration_ms": 185657,
       "name": "Grace",
       "url": "https://open.spotify.com/track/0pEkK8MqbmGSX7fT8WLMbR"
+    },
+    {
+      "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173975,
+      "name": "Great Expectation",
+      "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
     },
     {
       "album": {
@@ -9008,7 +9026,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 186986,
       "name": "Jane!",
       "url": "https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5"
@@ -10172,7 +10190,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 169353,
       "name": "Let Me Down Slowly",
       "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
@@ -12240,7 +12258,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"

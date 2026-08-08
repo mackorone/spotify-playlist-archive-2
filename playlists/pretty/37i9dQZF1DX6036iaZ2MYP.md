@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,090 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,367 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 4 | [Tu danses pas tu bois pas](https://open.spotify.com/track/20TUbbBCFlJr7oar6IiNdB) | [La Traine](https://open.spotify.com/artist/5tk0jsqb4leLOR0BFzg2ZR), [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Wiils](https://open.spotify.com/artist/5nlb9fduEXeYSS8K6IkFwj) | [Tu danses pas tu bois pas](https://open.spotify.com/album/4yZu1QWbLL4XoeL2Lemtz0) | 2:36 |
 | 5 | [Eja Meja \(feat\. Asake\)](https://open.spotify.com/track/5Ca1fyuX04EKHCc8Cnb791) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Eja Meja \(feat\. Asake\)](https://open.spotify.com/album/7BSNh9DOcw3giOwnBAv3qA) | 2:38 |
 | 6 | [Kilomètres](https://open.spotify.com/track/6qkGS6EK6PPk4e6IIfBZQi) | [Le D](https://open.spotify.com/artist/1q3qfgcLt7dhYNdWLEXgkX), [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Kilomètres](https://open.spotify.com/album/3Fo19HUYgagNhUbZo6q9VV) | 3:05 |
-| 7 | [Private Chef](https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX) | [R.U\. \(Raw & Unfiltered\) Vol.1](https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE) | 3:20 |
+| 7 | [Private Chef \(feat\. MC Morena\)](https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX) | [R.U\. \(Raw & Unfiltered\) Vol.1](https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE) | 3:20 |
 | 8 | [MARRAKECH](https://open.spotify.com/track/0WgP5mMrAcsntAw9pilJ5N) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [MARRAKECH](https://open.spotify.com/album/0KlUKaSSx57e4ealwtsNTp) | 2:22 |
 | 9 | [Okpeke \(Dance for Me\)](https://open.spotify.com/track/4vi0W5kYanPq7TzDMR51I3) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Okpeke \(Dance for Me\)](https://open.spotify.com/album/2YTlHepyfJXo6VdFNCs0y9) | 2:25 |
 | 10 | [MAYAH](https://open.spotify.com/track/6GgXkelC3Ws2zExxE5ib61) | [Jeady Jay](https://open.spotify.com/artist/4hXDK6hpOhP5dW2kuWZ6my) | [MAYAH](https://open.spotify.com/album/1WPRquYx4ShoAkLc5Liyox) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Pépin](https://open.spotify.com/track/6GEBHcjoJkUIccDac8LeaY) | [La Folie](https://open.spotify.com/artist/1a0V1vMdLVOZguN8iSJHoc), [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6) | [Pépin](https://open.spotify.com/album/3CtMWQgzKAnC1r46FHSUHF) | 2:23 |
 | 50 | [Moonlight](https://open.spotify.com/track/2fQpJcpE7EoVLVi7qoRcwQ) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Moonlight / Clean Run](https://open.spotify.com/album/7sT3iGUGe8PLZiYkp46TA1) | 3:20 |
 
-Snapshot ID: `AAAAAA994jeXA0DAHkA9NEMmkhET8hv9`
+Snapshot ID: `AAAAAIT05HmuRLHcgy2q2BQZEvdHW+Y9`

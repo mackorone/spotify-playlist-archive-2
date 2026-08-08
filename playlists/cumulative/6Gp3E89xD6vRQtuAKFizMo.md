@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every week!
 
-574 songs - 1 day 3 hr 25 min
+575 songs - 1 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Android](https://open.spotify.com/track/7MPdKQ3oeTZ8K9aOS8yymf) | [RANKZ](https://open.spotify.com/artist/6DjZSHY1ANtCvlwvy0A469) | [Android](https://open.spotify.com/album/4LWlEIlGzCjoru2PaLC8PO) | 4:01 | 2022-11-22 | 2023-02-04 |
 | [Anomaly](https://open.spotify.com/track/142M3fjuGwmMVK4hzjAGd6) | [shndō](https://open.spotify.com/artist/2AGKq9TDZ4m5cuSvFEShjH), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Anomaly \(feat\. Poo Bear\)](https://open.spotify.com/album/0bxZJbILJugZndu0H1CZPZ) | 3:49 | 2025-09-08 |  |
 | [Are You Ready?](https://open.spotify.com/track/0lst88mCipWJONkOLsIjpf) | [Polar Bears](https://open.spotify.com/artist/0Ec3BmyWtzjCid5QjMGmRI) | [Are You Ready?](https://open.spotify.com/album/61lNZGTygHR122bZnSjoLa) | 3:18 | 2025-04-26 |  |
+| [AREA](https://open.spotify.com/track/05V7BAZ1pEI5452r3wPgGP) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V), [herd.](https://open.spotify.com/artist/6SjZUnw89ZT8czspx9cCwS) | [AREA](https://open.spotify.com/album/4h1r0SbjYdIPwNAGbe5bxj) | 2:30 | 2026-08-07 |  |
 | [Arm's Length](https://open.spotify.com/track/57L7dmh277tu1jnctigapv) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy) | [Arm's Length](https://open.spotify.com/album/58ZUH38WuyiN1M0di6D4lL) | 2:53 | 2022-05-27 | 2022-11-05 |
 | [Artificial Intelligence](https://open.spotify.com/track/5EmqB3YZ6cARtlq5xPgtrz) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Sirona](https://open.spotify.com/artist/2ujhjcnmXKAC4IsW9fFw6G), [Heyder](https://open.spotify.com/artist/13zcQXoEQbyGdi7W78d4nc) | [Artificial Intelligence](https://open.spotify.com/album/5XqGAMi4EINRqAwwgDBNY2) | 2:29 | 2023-04-14 | 2025-04-27 |
 | [Ascent](https://open.spotify.com/track/71R8InTY1qrseVysUhGE8X) | [CORTR](https://open.spotify.com/artist/7tGnQKzE0tFRKKK7gf8cYV) | [Ascent](https://open.spotify.com/album/4IPhl0uklSlmoSzZpA0yGc) | 3:15 | 2022-10-11 | 2023-03-04 |

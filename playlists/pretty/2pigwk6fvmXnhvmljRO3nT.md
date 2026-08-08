@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,571 songs - 21 day 19 hr 20 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,574 songs - 21 day 19 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8579,5 +8579,8 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8569 | [Riptide](https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Deluxe Edition\)](https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT) | 3:24 |
 | 8570 | [Invitation of Windblume](https://open.spotify.com/track/5dDZCZJ8q7WGQUdAImxcUW) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- The Shimmering Voyage \(Original Game Soundtrack\)](https://open.spotify.com/album/3Zw9PiPgAvNtNUnusZAcva) | 1:27 |
 | 8571 | [Impostor Syndrome](https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd) | [Sidney Gish](https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI) | [No Dogs Allowed](https://open.spotify.com/album/7mXf592qrnsQ7qAvV7Aluz) | 4:54 |
+| 8572 | [顔](https://open.spotify.com/track/6MtEzxuKMIDEXcKoUGJjy1) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [Completeness](https://open.spotify.com/album/5i7bsC8RBELXhGeMViNwZX) | 4:02 |
+| 8573 | [猛独が襲う \(Cover\)](https://open.spotify.com/track/4UlTmk7DfT7QlatUZUiuV7) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [バンドリ！ カバーコレクション Extra Volume](https://open.spotify.com/album/1cGcrwckGaF4B8zKFH4kEb) | 4:14 |
+| 8574 | [堕天 \(Cover\)](https://open.spotify.com/track/5GGEx5ZSRaX6QaazJCnFcn) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [バンドリ！ カバーコレクション Extra Volume](https://open.spotify.com/album/1cGcrwckGaF4B8zKFH4kEb) | 3:03 |
 
-Snapshot ID: `AAAMlS0yys0lzV8rbG9Q0OlptOFpTq7J`
+Snapshot ID: `AAAMmLBsGeaQnzN5IAxBJq1kkkVKmMVx`

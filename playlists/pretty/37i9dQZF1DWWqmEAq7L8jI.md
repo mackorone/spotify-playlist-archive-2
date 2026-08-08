@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 
 > Dale play y que la música te acompañe  📸 RUGGERO
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,299 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,300 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 | 33 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 |
 | 34 | [23](https://open.spotify.com/track/03I0v50PLHMxgP5CjzCwt3) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [23](https://open.spotify.com/album/7c4Q9TaHo8VHacdzpGw2JI) | 3:07 |
 | 35 | [Canción Bonita](https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Canción Bonita](https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U) | 2:49 |
-| 36 | [el cielo](https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [el cielo](https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk) | 3:08 |
-| 37 | [Loco \(Tu Forma de Ser\) \[Ft\. Rubén Albarrán\] \- MTV Unplugged](https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 4:09 |
+| 36 | [Loco \(Tu Forma de Ser\) \[Ft\. Rubén Albarrán\] \- MTV Unplugged](https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 4:09 |
+| 37 | [el cielo](https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [el cielo](https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk) | 3:08 |
 | 38 | [Djadja \(feat\. Maluma\) \- Remix](https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Djadja \(feat\. Maluma\) \[Remix\]](https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV) | 2:46 |
 | 39 | [Machu Picchu](https://open.spotify.com/track/1LXb70u8SLsvBAPWHMCTMe) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Machu Picchu](https://open.spotify.com/album/7jqXGkhOKZ3wuZuD6IgTYR) | 2:59 |
 | 40 | [BUENOS AIRES](https://open.spotify.com/track/2my7K20Fv5OtE27cjG9sfu) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Calambre](https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF) | 4:00 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 | 92 | [La despedida](https://open.spotify.com/track/6MkJVM8XCjoBBJzmnDZY8y) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J), [Gauchito Club](https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj) | [La despedida](https://open.spotify.com/album/2a3Fn5kNzTeir9wOQPzrc5) | 3:34 |
 | 93 | [Te Creí](https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Te Creí](https://open.spotify.com/album/03IYqrR1pFpSIRi323LrwW) | 4:02 |
 | 94 | [cuerpo](https://open.spotify.com/track/5VLXFC7eczhehufGijWPC0) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [CUERPO](https://open.spotify.com/album/0yjY4nJkXaxV3Z9ad8g3ZX) | 3:18 |
-| 95 | [Niña](https://open.spotify.com/track/7p2DcY1E4IcPxCi1dxYfpX) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Niña](https://open.spotify.com/album/00V6VizOVi4q0XTlC1MOgM) | 3:42 |
-| 96 | [PUERTA DEL SOL](https://open.spotify.com/track/6ERdA2L6d0aKnd0Pd7Tqox) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [ALTER EGO](https://open.spotify.com/album/6usRXLPp6yfNrzYrnLxXQ8) | 3:40 |
+| 95 | [PUERTA DEL SOL](https://open.spotify.com/track/6ERdA2L6d0aKnd0Pd7Tqox) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [ALTER EGO](https://open.spotify.com/album/6usRXLPp6yfNrzYrnLxXQ8) | 3:40 |
+| 96 | [Niña](https://open.spotify.com/track/7p2DcY1E4IcPxCi1dxYfpX) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Niña](https://open.spotify.com/album/00V6VizOVi4q0XTlC1MOgM) | 3:42 |
 | 97 | [Tan fácil](https://open.spotify.com/track/2TCBSgAiuGGH3mENcP6VR7) | [K4OS](https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj) | [Tan fácil](https://open.spotify.com/album/2Mc3okZIvTnW3vXikb4rzN) | 3:03 |
 | 98 | [No siempre quedará París \- Remix](https://open.spotify.com/track/4TPugCH4s6bRqhWhGkb2qw) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [No siempre quedará París \(Remix\)](https://open.spotify.com/album/2tfshGlaDqIHUovmOcFL4q) | 3:06 |
 | 99 | [monumento..](https://open.spotify.com/track/5gA6oCSFTWxQif7HXqMN2s) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE), [Cocó](https://open.spotify.com/artist/7wO9ayWlYsOX16S5xa3EXi) | [monumento..](https://open.spotify.com/album/0K1DpRzofDbHqViJT3mnDl) | 2:50 |
 | 100 | [Corriendo Con Tijeras](https://open.spotify.com/track/0nhG5W3lqZw7nzaTnYvV0S) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Corriendo Con Tijeras](https://open.spotify.com/album/7vgUy35KgshZVXCB7MebBQ) | 3:15 |
 
-Snapshot ID: `AAAAALnVjdv8DpM8Al4rTKPTD4BZYZZ+`
+Snapshot ID: `AAAAAIa51g1jsVGx65ER5olrYth/+aWb`

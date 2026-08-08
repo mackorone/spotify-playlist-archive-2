@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Manuel Turizo & Maluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,920 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,915 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 18 | [Priti](https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Priti](https://open.spotify.com/album/6PJtmcd3jv2afBCZ3GSdsB) | 2:10 |
 | 19 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 |
 | 20 | [Tu Sonrisa](https://open.spotify.com/track/3IS5IWZuDJJdqBJ9XVqpbh) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:34 |
-| 21 | [Guallando](https://open.spotify.com/track/4jRxEVNituPZObHbCSBZL3) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [El Hombre Mas Famoso De La Tierra](https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98) | 3:25 |
-| 22 | [COCO LOCO](https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [COCO LOCO](https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB) | 2:46 |
+| 21 | [COCO LOCO](https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [COCO LOCO](https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB) | 2:46 |
+| 22 | [Guallando](https://open.spotify.com/track/4jRxEVNituPZObHbCSBZL3) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [El Hombre Mas Famoso De La Tierra](https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98) | 3:25 |
 | 23 | [Nadie Se Muere](https://open.spotify.com/track/2BnphYbwrZvdrGnc1A9kUe) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Los Reyes Del Ritmo](https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o) | 3:52 |
 | 24 | [Pedacito de Playa](https://open.spotify.com/track/1wEkEIBnVGiVDupJofBwVL) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [TROPICALIA](https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ) | 3:28 |
 | 25 | [Píntame](https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Pintame](https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB) | 4:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 99 | [Amapola](https://open.spotify.com/track/7lxyCH0EgKyrxzsyZybkDV) | [Francisco Ulloa](https://open.spotify.com/artist/1gvcnolIBj2EDKRk6nirCw) | [¡Que Vaina!](https://open.spotify.com/album/4JEpyD4AqWvqtlNlvievRS) | 3:27 |
 | 100 | [Bendecido](https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB) | [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Bendecido](https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00) | 3:23 |
 
-Snapshot ID: `AAAAAB7ONc/J2p3o3Ly0DLWDwJAdGzg7`
+Snapshot ID: `AAAAANPgRkZ00167FOJ0LtofLE3FtGuX`

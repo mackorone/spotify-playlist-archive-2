@@ -1,12 +1,12 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105649,
+  "num_followers": 105643,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHw4DB2BAFrsw4IWZBoEurJHbOCG",
+  "snapshot_id": "AAAAAJFNgSrti/b6/KnTZsAmLk39ne/d",
   "tracks": [
     {
       "added_at": "2026-08-06 22:01:41",
@@ -34,10 +34,14 @@
         {
           "name": "Mille",
           "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        },
+        {
+          "name": "wicky",
+          "url": "https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 6",
+      "duration_ms": 166307,
+      "name": "CIRKLER (feat. wicky)",
       "url": "https://open.spotify.com/track/3tlOXNiSKM8y67sn0jgPzQ"
     },
     {
@@ -479,6 +483,22 @@
     {
       "added_at": "2026-08-06 22:01:41",
       "album": {
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 174823,
+      "name": "Tornado",
+      "url": "https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM"
+    },
+    {
+      "added_at": "2026-08-06 22:01:41",
+      "album": {
         "name": "Twenty One",
         "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
       },
@@ -503,22 +523,6 @@
       "duration_ms": 147269,
       "name": "Shine",
       "url": "https://open.spotify.com/track/5VhHd1NH4lxUGddilFQBmY"
-    },
-    {
-      "added_at": "2026-08-06 22:01:41",
-      "album": {
-        "name": "Tornado",
-        "url": "https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 174823,
-      "name": "Tornado",
-      "url": "https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM"
     },
     {
       "added_at": "2026-08-06 22:01:41",
@@ -783,22 +787,6 @@
     {
       "added_at": "2026-08-06 22:01:41",
       "album": {
-        "name": "From Down Here",
-        "url": "https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 241470,
-      "name": "From Down Here",
-      "url": "https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox"
-    },
-    {
-      "added_at": "2026-08-06 22:01:41",
-      "album": {
         "name": "Switchblade",
         "url": "https://open.spotify.com/album/72NbWVcRBBATor0AmDVQTD"
       },
@@ -811,6 +799,22 @@
       "duration_ms": 181926,
       "name": "Switchblade",
       "url": "https://open.spotify.com/track/551ynJcmHdcUt4u28iE2sy"
+    },
+    {
+      "added_at": "2026-08-06 22:01:41",
+      "album": {
+        "name": "From Down Here",
+        "url": "https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 241470,
+      "name": "From Down Here",
+      "url": "https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox"
     },
     {
       "added_at": "2026-08-06 22:01:41",
@@ -847,22 +851,6 @@
     {
       "added_at": "2026-08-06 22:01:41",
       "album": {
-        "name": "Ringer Om Natten",
-        "url": "https://open.spotify.com/album/3297WTdhKEtKDa629GFO3m"
-      },
-      "artists": [
-        {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Ringer Om Natten",
-      "url": "https://open.spotify.com/track/3hVpBthKR5ma6GznWp5f1j"
-    },
-    {
-      "added_at": "2026-08-06 22:01:41",
-      "album": {
         "name": "Happiness Anytime: Part 1",
         "url": "https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH"
       },
@@ -875,6 +863,22 @@
       "duration_ms": 211562,
       "name": "Light the Way",
       "url": "https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j"
+    },
+    {
+      "added_at": "2026-08-06 22:01:41",
+      "album": {
+        "name": "Ringer Om Natten",
+        "url": "https://open.spotify.com/album/3297WTdhKEtKDa629GFO3m"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Ringer Om Natten",
+      "url": "https://open.spotify.com/track/3hVpBthKR5ma6GznWp5f1j"
     },
     {
       "added_at": "2026-08-06 22:01:41",
@@ -971,6 +975,26 @@
     {
       "added_at": "2026-08-06 22:01:41",
       "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/6ue29u7MnmM7oVtnHDXzAq"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 153245,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/49hQMAGfaJkoMJVBnvmiZG"
+    },
+    {
+      "added_at": "2026-08-06 22:01:41",
+      "album": {
         "name": "Temptation",
         "url": "https://open.spotify.com/album/1IDtCZaMHvE97OaHRKPq5d"
       },
@@ -1007,26 +1031,6 @@
       "duration_ms": 217960,
       "name": "On Your Mind (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/21C6u4k9di4S7w4JsQS1k7"
-    },
-    {
-      "added_at": "2026-08-06 22:01:41",
-      "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/6ue29u7MnmM7oVtnHDXzAq"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 153245,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/49hQMAGfaJkoMJVBnvmiZG"
     },
     {
       "added_at": "2026-08-06 22:01:41",
@@ -1143,22 +1147,6 @@
     {
       "added_at": "2026-08-06 22:01:41",
       "album": {
-        "name": "Dinner Party",
-        "url": "https://open.spotify.com/album/51ihz2jRNQwzVyqtFQRN3Z"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 185337,
-      "name": "Tastes So Good",
-      "url": "https://open.spotify.com/track/4gluSAEoFadJsa26yk6UHq"
-    },
-    {
-      "added_at": "2026-08-06 22:01:41",
-      "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc"
       },
@@ -1171,6 +1159,22 @@
       "duration_ms": 177576,
       "name": "Brutalist",
       "url": "https://open.spotify.com/track/3lE4ZuXxXKddwOZHsvTSsQ"
+    },
+    {
+      "added_at": "2026-08-06 22:01:41",
+      "album": {
+        "name": "Dinner Party",
+        "url": "https://open.spotify.com/album/51ihz2jRNQwzVyqtFQRN3Z"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 185337,
+      "name": "Tastes So Good",
+      "url": "https://open.spotify.com/track/4gluSAEoFadJsa26yk6UHq"
     },
     {
       "added_at": "2026-08-06 22:01:41",
@@ -1323,26 +1327,6 @@
     {
       "added_at": "2026-08-06 22:01:41",
       "album": {
-        "name": "Repeat It",
-        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 191716,
-      "name": "Repeat It",
-      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
-    },
-    {
-      "added_at": "2026-08-06 22:01:41",
-      "album": {
         "name": "Spr\u00e6kker ft. S\u00f8n",
         "url": "https://open.spotify.com/album/7zB2ONGvB3muGw7oTLejpF"
       },
@@ -1359,6 +1343,26 @@
       "duration_ms": 171412,
       "name": "Spr\u00e6kker ft. S\u00f8n",
       "url": "https://open.spotify.com/track/1n9crbeZNJCUnj6bZcJgxP"
+    },
+    {
+      "added_at": "2026-08-06 22:01:41",
+      "album": {
+        "name": "Repeat It",
+        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 191716,
+      "name": "Repeat It",
+      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
     },
     {
       "added_at": "2026-08-06 22:01:41",

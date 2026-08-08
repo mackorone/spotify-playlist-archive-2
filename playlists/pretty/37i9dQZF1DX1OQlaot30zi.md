@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di Nabi,  Villabanks, lildombaby, CARO WOW, Jasmin407 e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,950 likes - 100 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,962 likes - 100 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 63 | [MERCEDES](https://open.spotify.com/track/0S8V4U5BBkHEJzWwTak9q4) | [twentyone21](https://open.spotify.com/artist/4p631lz9dfbF3JbUDCkIyK) | [KILO1](https://open.spotify.com/album/6FdcTr6C4kvW625eQRTaif) | 2:21 |
 | 64 | [PIQUE PAULISTA](https://open.spotify.com/track/4ZRb9GPJt67Ygr7ntm68Z8) | [Kaio](https://open.spotify.com/artist/2BzZXUAluD524rcOBbVnG1) | [PIQUE PAULISTA](https://open.spotify.com/album/4xV3FJnmtrpGgqQEsNB3i6) | 2:02 |
 | 65 | [tutto sotto controllo \#326](https://open.spotify.com/track/7BY3ndZRTSeq9GRFqIF3xO) | [dedde](https://open.spotify.com/artist/4RrRLMqOAuHSbPhYIkdtMN) | [tutto sotto controllo \#326](https://open.spotify.com/album/2YsyzYwL1x6ZwewRL4AURF) | 2:15 |
-| 66 | [Avvelenati](https://open.spotify.com/track/1R7m6hnlUA5Fd4ybUlu8ST) | [Wayne](https://open.spotify.com/artist/4FiPwqm4GHYuJyldqILugY), [Ed Mars](https://open.spotify.com/artist/26LV5lhRjmkGpyqoi2hVB3), [Maska](https://open.spotify.com/artist/4s7lub6OTMblNwFn9wXClR), [Luke Giordano](https://open.spotify.com/artist/09lIjmoQKZWX7bgYrbAvn7) | [Avvelenati](https://open.spotify.com/album/6lsPYVy1EDXOLtgzQ7SNz2) | 2:17 |
+| 66 | [Avvelenati](https://open.spotify.com/track/1R7m6hnlUA5Fd4ybUlu8ST) | [Wayne](https://open.spotify.com/artist/4FiPwqm4GHYuJyldqILugY), [Ed Mars](https://open.spotify.com/artist/26LV5lhRjmkGpyqoi2hVB3), [Maska](https://open.spotify.com/artist/6SiEcWAwt9JaK8RwV3AFk7), [Luke Giordano](https://open.spotify.com/artist/09lIjmoQKZWX7bgYrbAvn7) | [Avvelenati](https://open.spotify.com/album/6lsPYVy1EDXOLtgzQ7SNz2) | 2:17 |
 | 67 | [Vampir](https://open.spotify.com/track/0a3ExYKSoPq3vHenZ0GZB1) | [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc), [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou), [EMDI](https://open.spotify.com/artist/1Qa7XkZpAw9Nk2nHiQLD6S) | [Vampir](https://open.spotify.com/album/6alKUQHE9qfMkv0Ff6kOu6) | 2:36 |
 | 68 | [ETERNAMENTE](https://open.spotify.com/track/0AFu0P10xID6xb0oh39A68) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [ETERNAMENTE](https://open.spotify.com/album/1pcK908IWiET7rz9K3H5QS) | 3:29 |
 | 69 | [LUIS DIAZ](https://open.spotify.com/track/19v2AI33zQcb8KJuFUKua7) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [LUIS DIAZ](https://open.spotify.com/album/2duPlhFaYymgppQvXWmPSS) | 2:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 99 | [CONTO FINO A 4](https://open.spotify.com/track/7oVBdUwzeMmsTxUYjND1GX) | [Spender](https://open.spotify.com/artist/1F5Nly0FV6dIoFNWPYTHMb) | [CONTO FINO A 4](https://open.spotify.com/album/1ZdECgnvHUbgJcHVdnTTcp) | 2:30 |
 | 100 | [LAGUCCI](https://open.spotify.com/track/51SbsQBfnba04dco4z8QPR) | [Dagood YL](https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw) | [LAGUCCI](https://open.spotify.com/album/0D5Bo8WAD32YcHkEl6zMeL) | 3:01 |
 
-Snapshot ID: `AAAAACdnLxOBfnf/qL24hp9t4AzpaHnZ`
+Snapshot ID: `AAAAAGE1qDT1xLm4kfw5Bd/jK1GDdzDi`

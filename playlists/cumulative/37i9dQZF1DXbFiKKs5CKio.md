@@ -4,7 +4,7 @@
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-197 songs - 11 hr 6 min
+198 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Codinome Exagerado](https://open.spotify.com/track/1r5xSeHHrnnAPlZD8s03N1) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Codinome Exagerado](https://open.spotify.com/album/0d8FtFqVUeUvxMZjJl4peh) | 3:09 | 2024-04-05 | 2024-05-25 |
 | [Codinome Exagerado](https://open.spotify.com/track/7DP5sAaCeg3hO46mVIKgCK) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67), [WE4Sessions](https://open.spotify.com/artist/22Rda48vM8L5smeaNuP54Y) | [Hodari: We4Sessions](https://open.spotify.com/album/0AbWAs2hebrx08IaDUVJnA) | 3:25 | 2024-09-27 | 2024-10-12 |
 | [Coisas Simples](https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Coisas Simples](https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s) | 2:37 | 2023-09-15 | 2024-10-12 |
-| [Cola Comigo](https://open.spotify.com/track/1tByapKE4iJ52uQBc1V183) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Cola Comigo](https://open.spotify.com/album/5eucL3nRasXK7SCOnOZjhw) | 3:28 | 2023-09-15 |  |
+| [Cola Comigo](https://open.spotify.com/track/1tByapKE4iJ52uQBc1V183) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Cola Comigo](https://open.spotify.com/album/5eucL3nRasXK7SCOnOZjhw) | 3:28 | 2023-09-15 | 2026-08-08 |
 | [Como Canta Gal](https://open.spotify.com/track/7IC9sOrydlTxfyAF8CM4mr) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Tudo Que Eu Sinto Faz Barulho](https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5) | 2:44 | 2025-12-15 |  |
 | [Compartilhando o céu](https://open.spotify.com/track/79o4A5fUPdeniOCFNIb4Ag) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Dissolução](https://open.spotify.com/album/7m90r6b0oCcJlMPMzW9NXB) | 2:59 | 2026-05-22 |  |
 | [Conexão](https://open.spotify.com/track/2EWaBErOpttybo792PEzIB) | [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [Conexão](https://open.spotify.com/album/3ZtPh7k9yk0F7f6KuiizWH) | 3:45 | 2023-09-22 | 2023-12-02 |
@@ -145,6 +145,7 @@
 | [PornStar](https://open.spotify.com/track/0i3twNh6yInr8SHkc2mQrQ) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [P★RN STAR](https://open.spotify.com/album/0g8YCzzDJCsDFnj5Jl6k5M) | 3:08 | 2024-12-13 | 2025-09-20 |
 | [PORTAIS](https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q) | [2:22](https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4), [Amanda Magno](https://open.spotify.com/artist/3oJrSk88w8dtDFRKjcMH0R) | [30ºC](https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE) | 2:40 | 2024-03-01 | 2026-03-02 |
 | [Pouco a Pouco](https://open.spotify.com/track/2XpLF91lmKXTduqNIAhsqe) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Os Garotin Session](https://open.spotify.com/album/1TmShjmZqjOqvhCbma8B4s) | 2:51 | 2023-09-15 | 2023-12-16 |
+| [Prisioneira de Mim](https://open.spotify.com/track/6wt6zTlUopQ8yR1rTUZIrA) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Relevuras](https://open.spotify.com/album/1OEJBUlrbK9kHySgk4w09h) | 3:17 | 2026-08-07 |  |
 | [Psicodelicia](https://open.spotify.com/track/0pHfXPGNMXytLdG3KOr13A) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR), [TALI](https://open.spotify.com/artist/2lI73BmF57aKMznK2wcy50) | [Cósmica](https://open.spotify.com/album/6YY5CRd5X2pp21SC6YYCcr) | 4:35 | 2025-12-15 | 2026-06-10 |
 | [Pulando](https://open.spotify.com/track/4zEKANXr86uqH5tPyhGSnT) | [Kélanie](https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c) | [Pulando](https://open.spotify.com/album/1Q6GcZEN6IU3l0j8b49CrN) | 2:44 | 2023-09-15 | 2024-07-27 |
 | [Pânico](https://open.spotify.com/track/6XqlM74zaJcniZAFLPDUYx) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Pânico](https://open.spotify.com/album/2PuVe8oGQB0VagYiO68qg5) | 3:03 | 2023-10-27 | 2025-03-02 |

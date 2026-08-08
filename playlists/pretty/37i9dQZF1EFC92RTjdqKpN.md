@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,183 likes - 201 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184 likes - 201 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 81 | [Take Me Higher](https://open.spotify.com/track/1x2nB4SHNWlp0aqtvBBvzu) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Take Me Higher](https://open.spotify.com/album/0LmEG3bIDEk1cpW0ckMOIn) | 3:00 |
 | 82 | [This Way](https://open.spotify.com/track/4g1yf8b1PQdBsKz5OphVgU) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Heartbreak on a Full Moon](https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp) | 4:02 |
 | 83 | [Way Back](https://open.spotify.com/track/38wnxXZdT2v7I31mHJ3Puv) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [TLC](https://open.spotify.com/album/0Etb5PXUH3sXTnC59r2MKZ) | 3:46 |
-| 84 | [Changed](https://open.spotify.com/track/6tyyxy6jFiNTUawKe9Q7UC) | [Stanaj](https://open.spotify.com/artist/3zrUX1hQrUB9aXcOiyQLmN) | [From A Distance](https://open.spotify.com/album/2ekHnPrPK0Fqxt0mSGDbZs) | 3:27 |
-| 85 | [Changing](https://open.spotify.com/track/3Fq2jP7WOh6Jmw82J0ZUv9) | [Kevin Jonas](https://open.spotify.com/artist/11bdWrCwHE2gCdVARdASuu) | [Changing](https://open.spotify.com/album/6mTrLn3lgmcX1Wj4sZNadR) | 3:02 |
+| 84 | [Changing](https://open.spotify.com/track/3Fq2jP7WOh6Jmw82J0ZUv9) | [Kevin Jonas](https://open.spotify.com/artist/11bdWrCwHE2gCdVARdASuu) | [Changing](https://open.spotify.com/album/6mTrLn3lgmcX1Wj4sZNadR) | 3:02 |
+| 85 | [Changed](https://open.spotify.com/track/6tyyxy6jFiNTUawKe9Q7UC) | [Stanaj](https://open.spotify.com/artist/3zrUX1hQrUB9aXcOiyQLmN) | [From A Distance](https://open.spotify.com/album/2ekHnPrPK0Fqxt0mSGDbZs) | 3:27 |
 | 86 | [Turn Back Time \(feat\. Teemu\)](https://open.spotify.com/track/02FZ7CS69ZwsLQMngR3rhW) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Teemu](https://open.spotify.com/artist/00FaHSRJeGv1dbHhnqhHqz) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:49 |
 | 87 | [Angel Eyes](https://open.spotify.com/track/1JdYhrkBQViINQU3loztRr) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/4KTxUa5hNsGpT41XcdLicL) | 3:04 |
 | 88 | [Wake The Giant](https://open.spotify.com/track/6fQoomNZcRthXGJmR8JulG) | [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [J Hart](https://open.spotify.com/artist/0CwAIKaq06Ep8gtTJ6zy0d) | [Wake The Giant](https://open.spotify.com/album/2YuMCVD5uKGBvI5gpEplpA) | 3:30 |
@@ -152,8 +152,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 142 | [Feel On Me](https://open.spotify.com/track/4kEM6BvhUtFry78gHUeDHh) | [Ghosted](https://open.spotify.com/artist/3TOyRHj6rptXMN5F97Fpuq), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Feel On Me](https://open.spotify.com/album/6UZnxCo6vgmJG3ONVc6y8b) | 2:54 |
 | 143 | [Love Controller](https://open.spotify.com/track/3rdKNTbCfCANSsZ3Ei7jnw) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It's Not That Deep \(Unless You Want It To Be\)](https://open.spotify.com/album/5tfhBGn7x0cYn9VMYhSnph) | 2:59 |
 | 144 | [Word Smith](https://open.spotify.com/track/0ycGgmtmbJWnMJRYiVsBcB) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Crystalline](https://open.spotify.com/album/1RAujeeZfUbofVGJUJ0qb8) | 2:58 |
-| 145 | [Hot All the Time](https://open.spotify.com/track/5geZbeWGx7ywfdIpNhjy3a) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB) | 3:01 |
-| 146 | [Energy](https://open.spotify.com/track/6pBkDdHNn7xujkpXYxqE2f) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Official FIFA World Cup 2026™ Album](https://open.spotify.com/album/3cLao7JVaEFsplFdY8TkJT) | 3:01 |
+| 145 | [Energy](https://open.spotify.com/track/6pBkDdHNn7xujkpXYxqE2f) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Official FIFA World Cup 2026™ Album](https://open.spotify.com/album/3cLao7JVaEFsplFdY8TkJT) | 3:01 |
+| 146 | [Hot All the Time](https://open.spotify.com/track/5geZbeWGx7ywfdIpNhjy3a) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB) | 3:01 |
 | 147 | [MUSCLE](https://open.spotify.com/track/2feyIPw7iHgdaMYRskMTuK) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [MUSCLE](https://open.spotify.com/album/7bzkCKNKQQTlHKbEdEuOBH) | 2:29 |
 | 148 | [blah blah blah](https://open.spotify.com/track/14DUyQybUWcWgZAxmVnWUJ) | [Reiley](https://open.spotify.com/artist/1nHcGkMVml7a44TVwfrAN8) | [blah blah blah](https://open.spotify.com/album/26Bub5fNcLKdDVgfRAlEei) | 2:37 |
 | 149 | [Met Me Now](https://open.spotify.com/track/21g8lqjrecVAqwBHZ91tdI) | [Track45](https://open.spotify.com/artist/1XgAKSqhg2XN2qrmhc3FJT) | [Small Town](https://open.spotify.com/album/0SIll9NoQGtfRFmfodvMos) | 3:08 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 200 | [Wasted Time With Folsom Prison Blues \- Live from the HIGH AND ALIVE WORLD TOUR](https://open.spotify.com/track/0g0Gbad2qQmYfFHwFlKSdp) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH AND A\(LIVE\)](https://open.spotify.com/album/1q6FBBTLay0BuSkMFgOVOL) | 8:10 |
 | 201 | [Let It Rain](https://open.spotify.com/track/1TG6k7kK3uHX1WyCh2xNpD) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 3:04 |
 
-Snapshot ID: `AcY43AAAAAB6/KB+y4C0aIU3l/NvRxhn`
+Snapshot ID: `AcY+NgAAAAB1T14doomIoxVDl4qAyBlZ`

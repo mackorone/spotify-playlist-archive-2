@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,157 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,166 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 12 | [Time Won’t Wait](https://open.spotify.com/track/3wbqx5euzFgiPWg6zQRK7J) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [Time Won’t Wait](https://open.spotify.com/album/53BphEUeLMphh5CCKe8Uo2) | 3:30 |
 | 13 | [O Bem](https://open.spotify.com/track/7pj80cYmGQvxudCfxGETrN) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Amores E Flores](https://open.spotify.com/album/6rqpxYPwbgn348n8b5j7ne) | 3:22 |
 | 14 | [Uma onda que passou \(E eu não dropei\) \- Ao vivo](https://open.spotify.com/track/5hmTjMenODKpZuE5c4XzCy) | [Tribo De Jah](https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv) | [15 Anos \(Ao vivo\)](https://open.spotify.com/album/1XRXhmwnkbjh8voQ5rIn0L) | 3:29 |
-| 15 | [Rindo À Toa \- Ao Vivo](https://open.spotify.com/track/6Pq6UIpaE63jczCOB2hIJs) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Rindo À Toa \(Ao Vivo\)](https://open.spotify.com/album/5gp2QQU4bgpE8OpZo10kBo) | 3:15 |
-| 16 | [Sessão Da Tarde](https://open.spotify.com/track/0Arp4flInFKFmRrVCOfw4w) | [Voraz](https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb), [Julies](https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN) | [Sessão Da Tarde](https://open.spotify.com/album/46rATcn57auCSZ1CS9Sp8Y) | 3:02 |
+| 15 | [Sessão Da Tarde](https://open.spotify.com/track/0Arp4flInFKFmRrVCOfw4w) | [Voraz](https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb), [Julies](https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN) | [Sessão Da Tarde](https://open.spotify.com/album/46rATcn57auCSZ1CS9Sp8Y) | 3:02 |
+| 16 | [Rindo À Toa \- Ao Vivo](https://open.spotify.com/track/6Pq6UIpaE63jczCOB2hIJs) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Rindo À Toa \(Ao Vivo\)](https://open.spotify.com/album/5gp2QQU4bgpE8OpZo10kBo) | 3:15 |
 | 17 | [Liberdade](https://open.spotify.com/track/3k7D91v3eUTY4yZbBwwbDZ) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD), [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Antídoto Pra Todo Tipo de Veneno](https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK) | 3:05 |
 | 18 | [Vitória](https://open.spotify.com/track/7Cm5N53OPd5szi1KsD4a1d) | [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Vitória](https://open.spotify.com/album/0ZVIlN470lRMTipVeCUkJw) | 3:29 |
 | 19 | [Pé na Areia](https://open.spotify.com/track/0rjLArKWivN8Yr92shllXF) | [MaLu](https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC) | [Café da MaLu, Vol\. 04](https://open.spotify.com/album/2QlHzW201MuSYycjwacPzD) | 2:43 |
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 32 | [Emaranhei](https://open.spotify.com/track/4cN88WMuH5CAVg6YhnBCIP) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [Emaranhei](https://open.spotify.com/album/75Q84Fp94DPjOYcxTtKUTR) | 2:51 |
 | 33 | [Rede no Coqueiro](https://open.spotify.com/track/4MUJnjOOaAlitUZKduaw3Q) | [Alma Djem](https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0), [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Entre Borboletas e Aviões](https://open.spotify.com/album/6YnU3FIZ2JZ5dNkU0TkpIC) | 3:27 |
 | 34 | [Meu Jeito de Ser](https://open.spotify.com/track/6g29kMXoD1vkx7HE8B6kuK) | [Voraz](https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb), [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [Meu Jeito de Ser](https://open.spotify.com/album/3ZaDi5SgfZY6tJcQQVI61N) | 2:56 |
-| 35 | [Pura Ingratidão \- Ao Vivo](https://open.spotify.com/track/4jsPYyPv2R3z1waJd0EADf) | [Papas Da Língua](https://open.spotify.com/artist/5q4N33QzlyTfRRNq4T1gH9) | [Pura Ingratidão \(Ao Vivo\)](https://open.spotify.com/album/3h5MMdQJZOo5N2Kt4WMVrf) | 4:18 |
-| 36 | [Um Sonho Na História](https://open.spotify.com/track/265ohdKNZslRdcjgaWNOhj) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [Linhas De Cerol](https://open.spotify.com/album/2FlRmhRPrCrTBBAEylGdtE) | 3:13 |
+| 35 | [Um Sonho Na História](https://open.spotify.com/track/265ohdKNZslRdcjgaWNOhj) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [Linhas De Cerol](https://open.spotify.com/album/2FlRmhRPrCrTBBAEylGdtE) | 3:13 |
+| 36 | [Pura Ingratidão \- Ao Vivo](https://open.spotify.com/track/4jsPYyPv2R3z1waJd0EADf) | [Papas Da Língua](https://open.spotify.com/artist/5q4N33QzlyTfRRNq4T1gH9) | [Pura Ingratidão \(Ao Vivo\)](https://open.spotify.com/album/3h5MMdQJZOo5N2Kt4WMVrf) | 4:18 |
 | 37 | [Pedra Preciosa](https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Pedra Preciosa](https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY) | 3:24 |
 | 38 | [Brisa e Mar \- Acústico](https://open.spotify.com/track/3k24pSrvDTQOuIIOHAQ85q) | [Alma Djem](https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0), [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Brisa e Mar](https://open.spotify.com/album/2ZjUzoMYq0dv7EjTETGNQN) | 3:12 |
-| 39 | [Pipa](https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO), [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW) | [Pipa](https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA) | 3:01 |
-| 40 | [Seu Herói](https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [TUDO VAI SER COMO DEVE SER \(Deluxe\)](https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb) | 3:22 |
+| 39 | [Seu Herói](https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [TUDO VAI SER COMO DEVE SER \(Deluxe\)](https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb) | 3:22 |
+| 40 | [Pipa](https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO), [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW) | [Pipa](https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA) | 3:01 |
 | 41 | [Em Paz Com o Mundo](https://open.spotify.com/track/0MgmxMEBSIa1PCPNG2DLs0) | [Adonai](https://open.spotify.com/artist/1PcD8HGOQMEGvnCCHnPcZN), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Em Paz Com o Mundo](https://open.spotify.com/album/6oqchEHdaJHysZvNeNXAqo) | 3:37 |
 | 42 | [Go Back](https://open.spotify.com/track/1CbfQxR8BrepwWRS8RwS3e) | [Patrícia Ahmaral](https://open.spotify.com/artist/2iWBU8uSOix81wnZtwDqLx), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Go Back](https://open.spotify.com/album/1XjmTQqDIvqsbR9oVQC39y) | 3:10 |
 | 43 | [Aeroporto \- Acústico](https://open.spotify.com/track/12KUH4m0NwR0l09s0l3jMG) | [Alma Djem](https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Aeroporto \(Acústico\)](https://open.spotify.com/album/1Qql9CAJrUhsGnZNyk1NY0) | 3:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 74 | [Esotérico \- Regravação Take 01](https://open.spotify.com/track/5B4daMtt3TIB14vjYNHsjl) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Um banda um](https://open.spotify.com/album/5UTteAAgtY5kX2vsb2EaWE) | 4:28 |
 | 75 | [Eu e Você](https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Eu e Você](https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO) | 3:05 |
 
-Snapshot ID: `AAAAAMjO/IxLXuoUt4yaOSqF7quZx9es`
+Snapshot ID: `AAAAABEp+OrmnAxCFAnO3AAFHCPAyU68`

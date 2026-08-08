@@ -4,7 +4,7 @@
 
 > back roads up loud with Fox N' Vead
 
-85 songs - 4 hr 45 min
+87 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [John Wayne](https://open.spotify.com/track/4TcpoeAXkbJnXfxvOjJzCy) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Tornillo](https://open.spotify.com/album/7zQvPIbond03mxCRO4c8zs) | 4:55 | 2025-09-05 |  |
 | [Kill Me](https://open.spotify.com/track/1zpePAy9O9znaLHlGfUmdf) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Love You, Goodnight](https://open.spotify.com/album/76GsHRqy08Ndqkx8Bwlr6K) | 2:43 | 2025-09-05 |  |
 | [Kill Me First](https://open.spotify.com/track/1mFvTywPa4teyAeo9frqAY) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E), [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Kill Me First](https://open.spotify.com/album/2SAoqo4aCJO8wshF6Lf1dX) | 3:07 | 2026-07-10 |  |
+| [Leave Me Like A Backroad \(feat\. Dallas Smith\)](https://open.spotify.com/track/7g9MyX2HITNHqz2DqXotqd) | [Brock Phillips](https://open.spotify.com/artist/3AdkQoDWIwHRHuWTqn96AI), [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Leave Me Like A Backroad](https://open.spotify.com/album/1cyg4sDFxAxGMQUcNYBbLP) | 2:28 | 2026-08-07 |  |
 | [Liar Outta Me](https://open.spotify.com/track/1IRmUVvrOgAjAZUdMbcJHE) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Liar Outta Me](https://open.spotify.com/album/6BN7Fn5p7UdbRai6HLClca) | 3:06 | 2026-06-09 |  |
 | [M.I.A](https://open.spotify.com/track/0h45L8tQrb6lwrQHUQovNn) | [Cole Barnhill](https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs) | [M.I.A](https://open.spotify.com/album/1K9hq2qxMtxu1LwJJmqywc) | 3:06 | 2025-09-26 |  |
 | [Make It Look Easy](https://open.spotify.com/track/2g6WCOlZS7mePH81Bxxa9s) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Make It Look Easy](https://open.spotify.com/album/1ylXu63fdiBSoVrdnx6YXE) | 2:33 | 2025-09-05 |  |
@@ -60,6 +61,7 @@
 | [No Vacancy](https://open.spotify.com/track/3pVs5Zehts89WLyBPiYfxG) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/21fAzUzwhkiSEHCzhtSC2x) | 4:04 | 2025-09-05 |  |
 | [Ode To Bourbon](https://open.spotify.com/track/4kvCtReby19JPkePLwy8Pq) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/21fAzUzwhkiSEHCzhtSC2x) | 4:01 | 2025-09-05 |  |
 | [Open the Gate](https://open.spotify.com/track/6pamafD9p0K7FHfJPz6TYF) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:54 | 2025-09-05 |  |
+| [Out The Cage](https://open.spotify.com/track/2ZSVEESrRTX6DsCDdQpsLN) | [Sons of Legion](https://open.spotify.com/artist/4WBCjNjq0MGPsvcXyOPWKW) | [Out The Cage](https://open.spotify.com/album/1dmCDOERxlijA6fRGF3LV9) | 3:11 | 2026-08-07 |  |
 | [Overrated](https://open.spotify.com/track/55BmlUAYuZTqpvM7bfSUuo) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Tejano Punk Boyz](https://open.spotify.com/album/4jNsjnBYtuXuprFqRhbA85) | 3:38 | 2025-09-05 |  |
 | [Pick Your Reason](https://open.spotify.com/track/5NBX2Jy2j9hJN9cxpRQAOh) | [Sterling Elza](https://open.spotify.com/artist/4KKiX98Tb5MRPiPnTmPgP0) | [Pick Your Reason](https://open.spotify.com/album/6JWfaf3toO5qwap20Of7DY) | 2:40 | 2026-01-16 |  |
 | [Pieces](https://open.spotify.com/track/73rxH6rYJQZtwfjKNb4mwZ) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Turn Back Time](https://open.spotify.com/album/1YTUy55SBqVmOTSJHJ8ken) | 3:16 | 2025-09-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2cN38f.md) - [plain]
 
 > This is Rochelle Jordan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,676 likes - 33 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,678 likes - 33 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,13 +18,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2cN38f.md) - [plain]
 | 8 | [The Boy](https://open.spotify.com/track/71opuLWkFhYlqcYYKPkkQw) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:34 |
 | 9 | [Follow Me](https://open.spotify.com/track/2gFb9birqiHSgS8A5IEcQr) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa) | 4:00 |
 | 10 | [Already](https://open.spotify.com/track/3i6hNFdgWCDYvDO3STjqib) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:57 |
-| 11 | [What You Done](https://open.spotify.com/track/6IlUok8RCbK7IxNWurTv8p) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [What You Done](https://open.spotify.com/album/7n1VuZeAEIHwTSFDGlr7vF) | 2:54 |
+| 11 | [New Wave Groove](https://open.spotify.com/track/5VtnOTbLAysyQAq8qzLTSp) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [The Nightlife](https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x) | 3:32 |
 | 12 | [Ladida](https://open.spotify.com/track/53v5RuuAux3F8anCHDNwXI) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:43 |
-| 13 | [New Wave Groove](https://open.spotify.com/track/5VtnOTbLAysyQAq8qzLTSp) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [The Nightlife](https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x) | 3:32 |
+| 13 | [What You Done](https://open.spotify.com/track/6IlUok8RCbK7IxNWurTv8p) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [What You Done](https://open.spotify.com/album/7n1VuZeAEIHwTSFDGlr7vF) | 2:54 |
 | 14 | [Love You Good](https://open.spotify.com/track/78UZHyUlhP71OhATPMFqZo) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:53 |
-| 15 | [Feel the Same Way](https://open.spotify.com/track/41maLNLFSpT2bJDLkZlpSU) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Origins](https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97) | 3:41 |
+| 15 | [Private Eye](https://open.spotify.com/track/3p9hpCzQhH2oz8KO9fZyhD) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [The Nightlife](https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x) | 3:17 |
 | 16 | [Bite The Bait](https://open.spotify.com/track/6pcXJ39XevPFNqXuUDClsf) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 4:06 |
-| 17 | [Private Eye](https://open.spotify.com/track/3p9hpCzQhH2oz8KO9fZyhD) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [The Nightlife](https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x) | 3:17 |
+| 17 | [Feel the Same Way](https://open.spotify.com/track/41maLNLFSpT2bJDLkZlpSU) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Origins](https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97) | 3:41 |
 | 18 | [Got Em](https://open.spotify.com/track/5WBwG2deJGFR4RllTdWCej) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW) | 3:46 |
 | 19 | [Ease Your Mind](https://open.spotify.com/track/6TSLDMY1tljUJPPiPKAZPz) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa) | 3:34 |
 | 20 | [Sum](https://open.spotify.com/track/3MIVJlKGcLfYNLso4pp6dn) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 4:09 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2cN38f.md) - [plain]
 | 32 | [Losing](https://open.spotify.com/track/2nZALEvdQ3n3tIP84kneP3) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Pressure](https://open.spotify.com/album/2eo6WfC2A5ePHLpNQN7dRB) | 3:30 |
 | 33 | [401](https://open.spotify.com/track/43X9h7tRxERIYgztKjHU6k) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [1021](https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa) | 3:07 |
 
-Snapshot ID: `anJ9AAAAAADM22heMbjt+AaxEVeBT9ip`
+Snapshot ID: `anPOgAAAAAAeIpdqagdy7xzG4d2BDef6`

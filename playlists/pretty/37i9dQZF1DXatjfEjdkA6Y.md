@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 
 > The highlights of Eurovision from the 50s, 60s & 70s\. Cover: ABBA
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,091 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,094 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 16 | [1, 2, 3](https://open.spotify.com/track/4AFbTE63GLKZyZv96eNmYK) | [Catherine Ferry](https://open.spotify.com/artist/42RTi99jGurzuXQqqr2g0A) | [Mélodie bleue](https://open.spotify.com/album/3Oa1HzOfHQPaHUtbNUJ6jm) | 2:30 |
 | 17 | [Bailemos un Vals](https://open.spotify.com/track/07HHIWiizlox1aoaxscHoj) | [José Velez](https://open.spotify.com/artist/7wM7apExOIkh5wtyDjDxvm) | [Lo Mejor de José Velez](https://open.spotify.com/album/5qv51ppTwXb5DE8iusnLl8) | 3:07 |
 | 18 | [Swiss Lady](https://open.spotify.com/track/0832pCssQRETuqoNPLOtpO) | [Pepe Lienhard Band](https://open.spotify.com/artist/5eCPVMIgv86yjbfmCp4faz) | [Swiss Lady](https://open.spotify.com/album/033LXpLUFi89URJiEqc2qf) | 2:58 |
-| 19 | [Judy min vän](https://open.spotify.com/track/1Z4zGDjmHURFmHAd0OAV2t) | [Tommy Körberg](https://open.spotify.com/artist/6R21HSNyo7HVac8pyqY3T2) | [Tommy Körberg \- Judy min vän \(Remastered 2011\)](https://open.spotify.com/album/2hpjbMakww7UotrWJHsxkI) | 2:20 |
-| 20 | [N'avoue Jamais](https://open.spotify.com/track/1vPCbI7QPZtU6T42uaeP8w) | [Guy Mardel](https://open.spotify.com/artist/7AeNQueeNvOLDKYylJPaB0) | [Best Of Vol.1, Les Succès De Guy Mardel](https://open.spotify.com/album/1atBdA3FXEvIhU19tXbIqD) | 2:52 |
+| 19 | [N'avoue Jamais](https://open.spotify.com/track/1vPCbI7QPZtU6T42uaeP8w) | [Guy Mardel](https://open.spotify.com/artist/7AeNQueeNvOLDKYylJPaB0) | [Best Of Vol.1, Les Succès De Guy Mardel](https://open.spotify.com/album/1atBdA3FXEvIhU19tXbIqD) | 2:52 |
+| 20 | [Judy min vän](https://open.spotify.com/track/1Z4zGDjmHURFmHAd0OAV2t) | [Tommy Körberg](https://open.spotify.com/artist/6R21HSNyo7HVac8pyqY3T2) | [Tommy Körberg \- Judy min vän \(Remastered 2011\)](https://open.spotify.com/album/2hpjbMakww7UotrWJHsxkI) | 2:20 |
 | 21 | [Jennifer Jennings](https://open.spotify.com/track/4nZ516wquSpoubxkqQ4ban) | [Louis Neefs](https://open.spotify.com/artist/4jmHq8tAQ2UziZo2BsPDDt) | [80](https://open.spotify.com/album/3ISffmPs7HEqXFUi9gXDXy) | 2:46 |
 | 22 | [Jennie Jennie](https://open.spotify.com/track/3BdAVTDazl0jW9Jpxz0VYh) | [Lasse Berghagen](https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY) | [Musik vi minns..\. / Lasse Berghagen](https://open.spotify.com/album/12dP4FPuOJu4ZDd2KXDEHH) | 3:26 |
 | 23 | [Yo soy aquél](https://open.spotify.com/track/6b3ub116kE1T15h1yzaiTy) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Grandes éxitos](https://open.spotify.com/album/2rG4mklkRJ3gltZM7dvVbl) | 2:39 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 63 | [Feuer \- Remastered 1996](https://open.spotify.com/track/1bBZVweXaAyLI8FkuhoOyb) | [Ireen Sheer](https://open.spotify.com/artist/6DtzOuUkjukrHLwgG4EnDw) | [Mega 50 \- Die 70er Jahre](https://open.spotify.com/album/4Jy5Oy9tA5kSnjsz0YyAls) | 3:03 |
 | 64 | [Primaballerina \- tysk Version](https://open.spotify.com/track/5I0IiNSEy5ww523Wvmgrmc) | [Siw Malmkvist](https://open.spotify.com/artist/2VWX6ZalDVTp1KMGN6JDSl) | [Primaballerina](https://open.spotify.com/album/4XJS3oPFX2Dh5GvDHI7lHy) | 2:42 |
 | 65 | [Brez besed \- Evrovizija 1966](https://open.spotify.com/track/3OZqPWY86jhuv6DV5TV0kK) | [Berta Ambroz](https://open.spotify.com/artist/04mSp2LAR4PNf4nWSJTXWq) | [Brez besed](https://open.spotify.com/album/17XZ6Nn2VQ1xbnUU27d8U9) | 2:45 |
-| 66 | [Tom Tom Tom](https://open.spotify.com/track/5r4mWGBL8NKQL02ARMP2dg) | [Marion Rung](https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym) | [Big\-5: Marion](https://open.spotify.com/album/1wLH0O9ZGMxKl9R9JbFM6U) | 2:55 |
-| 67 | [Tsarly Tsaplin](https://open.spotify.com/track/2BcjzwGE9Nwoqe6rqplYxD) | [Tania Tsanaklidou](https://open.spotify.com/artist/2M0MfjN3wqrrvKHXohxTfw) | [Tsarli Tsaplin](https://open.spotify.com/album/6PQTUHJ7dqG3mz1Qzi0DXM) | 2:51 |
+| 66 | [Tsarly Tsaplin](https://open.spotify.com/track/2BcjzwGE9Nwoqe6rqplYxD) | [Tania Tsanaklidou](https://open.spotify.com/artist/2M0MfjN3wqrrvKHXohxTfw) | [Tsarli Tsaplin](https://open.spotify.com/album/6PQTUHJ7dqG3mz1Qzi0DXM) | 2:51 |
+| 67 | [Tom Tom Tom](https://open.spotify.com/track/5r4mWGBL8NKQL02ARMP2dg) | [Marion Rung](https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym) | [Big\-5: Marion](https://open.spotify.com/album/1wLH0O9ZGMxKl9R9JbFM6U) | 2:55 |
 | 68 | [Come Back To Stay](https://open.spotify.com/track/7lTuANjyCyJnxHMsDuly99) | [Dickie Rock](https://open.spotify.com/artist/1lqsFXs93MiGGpZsETAWDC) | [20 Greatest Hits](https://open.spotify.com/album/1drtyYMRUABZkF1i2B3Suh) | 2:47 |
-| 69 | [That's What Friends Are For](https://open.spotify.com/track/1rz4rSUxJmeIF4CuYarTnp) | [The Swarbriggs](https://open.spotify.com/artist/2lDzSLqo8rRCm5koxElxRb) | [Reeling In The Decades](https://open.spotify.com/album/4FLE3sQpCWW9zwB1HE7erQ) | 2:53 |
-| 70 | [Telegram](https://open.spotify.com/track/72YL3BihTfLT3gfihtonfB) | [Silver Convention](https://open.spotify.com/artist/5QHvbEwccF3WANUD5lEIuA) | [Golden Girls](https://open.spotify.com/album/0bUaCbCLyGV2aneWfDSDcV) | 3:03 |
+| 69 | [Telegram](https://open.spotify.com/track/72YL3BihTfLT3gfihtonfB) | [Silver Convention](https://open.spotify.com/artist/5QHvbEwccF3WANUD5lEIuA) | [Golden Girls](https://open.spotify.com/album/0bUaCbCLyGV2aneWfDSDcV) | 3:03 |
+| 70 | [That's What Friends Are For](https://open.spotify.com/track/1rz4rSUxJmeIF4CuYarTnp) | [The Swarbriggs](https://open.spotify.com/artist/2lDzSLqo8rRCm5koxElxRb) | [Reeling In The Decades](https://open.spotify.com/album/4FLE3sQpCWW9zwB1HE7erQ) | 2:53 |
 
-Snapshot ID: `AAAAACzfs9WLErJDE8UYnM9DcNNCprRI`
+Snapshot ID: `AAAAAMw1ist1oI8piA9TRsCmF5beUgPo`

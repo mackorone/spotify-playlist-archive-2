@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "New music from Amelie Lens x Ang\u00e8le, Tayc x Didi B, Alex Warren and more...",
+  "description": "New music from KAROL G x Bruno Mars, Amelie Lens x Ang\u00e8le, Tayc x Didi B, Alex Warren and more...",
   "name": "New Music Friday BE",
   "tracks": [
     {
@@ -152772,7 +152772,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 200314,
-      "name": "Private Chef",
+      "name": "Private Chef (feat. MC Morena)",
       "url": "https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt"
     },
     {
@@ -178191,6 +178191,28 @@
     },
     {
       "album": {
+        "name": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220600,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF"
+    },
+    {
+      "album": {
         "name": "still around",
         "url": "https://open.spotify.com/album/590XAhSjXQGT8BfHCOaZGp"
       },
@@ -191564,6 +191586,24 @@
       "duration_ms": 185533,
       "name": "Thirst Trap",
       "url": "https://open.spotify.com/track/0xiySkh9JAa1f3r6MdBUa3"
+    },
+    {
+      "album": {
+        "name": "THIS & THAT",
+        "url": "https://open.spotify.com/album/0VDVnZhY399q6sIrdyjZWj"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "This & That",
+      "url": "https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP"
     },
     {
       "album": {

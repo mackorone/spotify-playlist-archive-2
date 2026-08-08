@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 | 49 | [Applejack](https://open.spotify.com/track/44H8pO6AOXOcsp3mikoTgq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [New Harvest...First Gathering](https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H) | 3:25 |
 | 50 | [Lovesick Blues \(with Patsy Cline\)](https://open.spotify.com/track/4VX5F5jHoVO8g9SiEFzBTb) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id), [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl), [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Honky Tonk Angels](https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w) | 2:18 |
 
-Snapshot ID: `anJ9AAAAAAAIK7WOjO8hAgq/DJhun1XH`
+Snapshot ID: `anPOgAAAAAAqOiOcFCBEF48q3XvG3ZrR`

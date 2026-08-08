@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > African women at full volume <br/>Cover: <a href="https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA?si=fEvOcYs0QCWksz\_4n\_cyVQ">Somi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,437 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,463 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 | 2 | [Who's Dat Girl \(feat\. Rema\)](https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Who’s Dat Girl](https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW) | 2:52 |
 | 3 | [JETSKI \(FRIKI\)](https://open.spotify.com/track/4PaGh5WYhivozW5rB30a1F) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [BADDIES <3 MOLIY](https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l) | 2:50 |
 | 4 | [Omo To Sexy](https://open.spotify.com/track/0Ra2JEiYVrZwDyyNzMWKmQ) | [BLNDE](https://open.spotify.com/artist/3ZA9FgX4nLjbfGgn7dOukU) | [Omo To Sexy](https://open.spotify.com/album/3ajUkC6s6WOUx64JZJZZsL) | 2:47 |
-| 5 | [Track 1](https://open.spotify.com/track/5Ahzftt1kLGb1daMiLOk8e) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA) | [What Does It Take to Bloom?](https://open.spotify.com/album/54ST4y3yA1Is8hXRhDpH2o) | 0:00 |
+| 5 | [Throw Something](https://open.spotify.com/track/5Ahzftt1kLGb1daMiLOk8e) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA) | [What Does It Take to Bloom?](https://open.spotify.com/album/54ST4y3yA1Is8hXRhDpH2o) | 5:07 |
 | 6 | [I love you](https://open.spotify.com/track/1OKfJO2tcqlUWn6hpu3QkM) | [Amma](https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm) | [to what we were](https://open.spotify.com/album/1s5prd8IhOJfzOQFrJIhq9) | 2:14 |
 | 7 | [Show Me Off](https://open.spotify.com/track/1p8MK9zOu7tfDJeS0qk2MM) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [V](https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d) | 3:17 |
 | 8 | [By The Time I Wake Up](https://open.spotify.com/track/1MzS45AX5NrN1gxpuu195L) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz) | [By The Time I Wake Up](https://open.spotify.com/album/7MV7YJxjstlQ2Nejqs2Zmj) | 3:32 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 | 79 | [Guqa \(My Prayer\)](https://open.spotify.com/track/2i640R1xpVapryc9QKdVeo) | [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86), [TBO](https://open.spotify.com/artist/64xQmd6s2PbIZkjqOXx0hp) | [Izinja Zam: Vol\. I](https://open.spotify.com/album/0HQLuYklJlPPnAH4Fk3IsH) | 7:05 |
 | 80 | [Dance](https://open.spotify.com/track/4Y4KJXhmmeHef6VEo8cGBG) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [RnBling](https://open.spotify.com/album/64oOYzTHkjaVWG864hiOSI) | 2:54 |
 
-Snapshot ID: `AAAAADo/DHPhHhDC+z/d/UXNhVtTvlLr`
+Snapshot ID: `AAAAADuMgKr78wGHNLa8yBCWJzaz2bGn`

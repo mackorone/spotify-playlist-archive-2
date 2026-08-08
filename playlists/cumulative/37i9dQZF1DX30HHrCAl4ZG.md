@@ -2,9 +2,9 @@
 
 ### [Today's Indie Rock](https://open.spotify.com/playlist/37i9dQZF1DX30HHrCAl4ZG)
 
-> Explore all things indie rock right now\. Featuring music from Finn Wolfhard
+> Explore all things indie rock right now\. Featuring music from Florence Road
 
-2,198 songs - 5 day 4 hr 36 min
+2,203 songs - 5 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [666](https://open.spotify.com/track/7yigKUgbzfQEak6g29SVNn) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [666](https://open.spotify.com/album/1ITW9O4YiphTqc3h6xUvXh) | 2:55 | 2023-05-26 | 2023-06-24 |
 | [7 Months](https://open.spotify.com/track/3QIprxybtXTK5mifthT4Q5) | [Forth Wanderers](https://open.spotify.com/artist/5UjbehtgZGbNmmanbVW9Bs) | [7 Months](https://open.spotify.com/album/2dLMn2hMMJP9SnO4aBYemA) | 2:32 | 2025-05-23 | 2025-10-18 |
 | [7\-ELEVEn](https://open.spotify.com/track/3uqt1ZEFxhCEtqOda77tjK) | [Buddha Trixie](https://open.spotify.com/artist/4VVh7MQx2qRX5YWmokQ8hT) | [7\-ELEVEn](https://open.spotify.com/album/45eR7ianPKFd5GxcOk4Mog) | 3:27 | 2023-08-25 | 2023-10-14 |
+| [7563](https://open.spotify.com/track/2vJPGLhq3pub8fG9wAFN0Y) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [7563](https://open.spotify.com/album/7kIjf3ntzfOIwrotbZVMLL) | 4:03 | 2026-08-07 |  |
 | [809](https://open.spotify.com/track/131EOtvTL1sy5OA8L9pr75) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [We Come In Pieces](https://open.spotify.com/album/5LE4OPOtsxFB5jvXSCf2Yn) | 3:14 | 2021-08-27 | 2022-04-18 |
 | [85 Down PCH](https://open.spotify.com/track/3Jnrl4vtLB92b6DtopKwjY) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Double Superfine](https://open.spotify.com/album/0xdmCxyGcXL1yCbHQcLnwx) | 2:16 | 2022-11-18 | 2022-12-08 |
 | [90 to 99](https://open.spotify.com/track/6J2qRzwQ0TFXKtCoBlC2MR) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [What's The Point](https://open.spotify.com/album/1vNeZt4KL1fVTU92ZLkJkD) | 2:49 | 2024-05-31 | 2024-08-31 |
@@ -413,6 +414,7 @@
 | [Circles](https://open.spotify.com/track/5uISR8YsSSO7eEQgoaXrXV) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [The Good Life](https://open.spotify.com/album/4zDORUOtdnZm1x4IhgMtAD) | 3:33 | 2023-07-28 | 2023-11-02 |
 | [Clandestino](https://open.spotify.com/track/0aGZXenXxYlbNuJypCHLgT) | [Nitefire](https://open.spotify.com/artist/6sIMsIWHy6VE1bbB1XP7fl) | [\[redacted\]](https://open.spotify.com/album/25TYH4rc3INhrbHtmAxo9q) | 2:46 | 2022-10-14 | 2022-11-12 |
 | [Claw Foot](https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE) | 2:46 | 2024-05-03 | 2024-09-14 |
+| [Clay Pigeons](https://open.spotify.com/track/7GBU8Dvl64jIRPplVjieGw) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Clay Pigeons](https://open.spotify.com/album/6D5WGK2o4UWgyY5X4GkAjq) | 3:09 | 2026-08-07 |  |
 | [Clean Heart](https://open.spotify.com/track/1tO3ZKiyVPOnEIwYTfD7PS) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Clean Heart](https://open.spotify.com/album/4PBjg8iIHZH283BSRNIszV) | 3:52 | 2025-03-28 | 2025-07-12 |
 | [Clear Bones](https://open.spotify.com/track/21NVIBYBZIp7oa0OONZBZo) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Pixel Bath](https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL) | 2:46 | 2021-08-10 | 2022-04-20 |
 | [Cleats](https://open.spotify.com/track/7HWONeQrWpcjflAPGbH5L3) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Cleats](https://open.spotify.com/album/0VZGFBmqzdTFhMgMl7rsxB) | 3:41 | 2024-09-13 | 2024-10-05 |
@@ -780,6 +782,7 @@
 | [Futureproof](https://open.spotify.com/track/68G22FmZ30XgaRh00pKIeV) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Futureproof](https://open.spotify.com/album/3WPv587cMDBKsIDpgrZeEX) | 3:27 | 2021-06-11 | 2022-04-21 |
 | [fuzz](https://open.spotify.com/track/2ctn0r5FOaCMKNC3JPojaG) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [fuzz](https://open.spotify.com/album/45jK0xCxf13uNLUKfpPMyR) | 2:46 | 2023-03-03 | 2023-04-22 |
 | [Games](https://open.spotify.com/track/7HA1olc168EV5By8K7kWq5) | [Telescreens](https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz) | [Games](https://open.spotify.com/album/1MkvXneCkP1Aki2PsIQ0Fm) | 3:38 | 2023-07-14 | 2023-11-18 |
+| [Garden](https://open.spotify.com/track/10PoXrzxGD2WaWTRuYU7VE) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Garden](https://open.spotify.com/album/08S8Cftjk2s1H1HBtCOqYw) | 4:59 | 2026-08-07 |  |
 | [Garden](https://open.spotify.com/track/2oh6OHvQ8BmsxzTthpuz7b) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Garden](https://open.spotify.com/album/5rV3o00UyA3MBnwPEpvmiC) | 3:00 | 2024-05-17 | 2024-07-27 |
 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 | 2022-01-14 | 2022-04-12 |
 | [Gasoline](https://open.spotify.com/track/1sAbFyl5tkdQyMBPNRjjVl) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Gasoline](https://open.spotify.com/album/3m2onmu3VRD4PBZKmBLLen) | 3:23 | 2026-01-09 |  |
@@ -1419,6 +1422,7 @@
 | [off the grid](https://open.spotify.com/track/2vxL1OQU2xlv4q2FGTFTdT) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid](https://open.spotify.com/album/0NKBvnl8MUkjXR9takqRVI) | 2:55 | 2022-05-20 | 2022-05-23 |
 | [Oh Dorian \(feat\. MJ Lenderman\)](https://open.spotify.com/track/685qwMjiZdSGaF3nV3LQir) | [Ben Kweller](https://open.spotify.com/artist/7bhMBjjQhgPX0q9S4Ajncn), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Oh Dorian \(feat\. MJ Lenderman\)](https://open.spotify.com/album/67KtVywVBqEkY44EAVm9pA) | 4:01 | 2025-05-30 | 2025-08-09 |
 | [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 | 2022-06-10 | 2022-10-15 |
+| [Oh No Now My](https://open.spotify.com/track/2MbLMnGeW92YVBbsyHM5WR) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Oh No Now My](https://open.spotify.com/album/6Qex2dWIX0M5LPHLTJq4Sr) | 3:08 | 2026-08-07 |  |
 | [Oh!](https://open.spotify.com/track/4e72LGraX8sW5iztJvS5fo) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Oh!](https://open.spotify.com/album/13YVOGugpbcH7MZCwDEWnE) | 2:35 | 2021-07-23 | 2022-04-20 |
 | [Ohio All The Time](https://open.spotify.com/track/63Kd061yhHz1K6UEztFmJ5) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Ohio All The Time](https://open.spotify.com/album/5gS0mVQdlowwHfpf4k5hJO) | 3:04 | 2024-10-25 | 2025-03-08 |
 | [Ohm](https://open.spotify.com/track/1Wo5tkzxPBoqOfwoTSMNJU) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Been Stellar](https://open.spotify.com/album/2GJ26CJoley2UA0ytkHteu) | 5:29 | 2022-08-12 | 2022-10-15 |
@@ -1901,6 +1905,7 @@
 | [The Dominoes](https://open.spotify.com/track/1xagIgxxNQre8ZhWjMTOdz) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [The Dominoes](https://open.spotify.com/album/4G8DoAVoxRS29Sdqic53B2) | 2:12 | 2022-11-18 | 2022-12-08 |
 | [The Drop](https://open.spotify.com/track/2fQ31yKKudLScWY0Tt84AF) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [The Drop](https://open.spotify.com/album/2L87oM02UDSd6H2VixIuOa) | 2:58 | 2022-08-05 | 2022-09-03 |
 | [The Feminine Urge](https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT) | 3:26 | 2024-02-02 | 2024-04-06 |
+| [The Fountain](https://open.spotify.com/track/0HnLhPc4Vdg2HS1p6fJblv) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [The Fountain](https://open.spotify.com/album/5c0apRbvlzHy0JCWSk7x6E) | 3:25 | 2026-08-07 |  |
 | [The Freedom to Fuck Off](https://open.spotify.com/track/2DTRZKLOfm8BQOdNljrF7K) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [The Freedom to Fuck Off](https://open.spotify.com/album/2vym6dm3afTUtwAj48681k) | 4:02 | 2023-09-01 | 2024-01-06 |
 | [The Fringe](https://open.spotify.com/track/0wgK70WRbb00WoWaiGzAMR) | [Cheekface](https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW) | [It's Sorted](https://open.spotify.com/album/3wccolEvxrZatyfmcvfrgH) | 2:36 | 2024-01-26 | 2024-03-30 |
 | [The Hole](https://open.spotify.com/track/1f2ef3Upp7f4On9KIoFoZZ) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [The Hole](https://open.spotify.com/album/4CT5At8cCKUiwtOWuTVKke) | 3:17 | 2025-06-27 | 2026-02-21 |

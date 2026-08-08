@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 180053,
+  "num_followers": 180136,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAABXdV4DCoPZEwC1MbHreap6",
+  "snapshot_id": "anPOgAAAAACWkbNzSNXfyzybHHItPcMq",
   "tracks": [
     {
       "added_at": null,
@@ -507,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinito",
-        "url": "https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 134277,
-      "name": "Me Voy A La Chingada",
-      "url": "https://open.spotify.com/track/297ql9Y4MLwYwt6wY1wFID"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
         "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 218693,
       "name": "XQ Te Pones As\u00ed",
       "url": "https://open.spotify.com/track/6JUMswocQ7Hp46kj9kyljT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 134277,
+      "name": "Me Voy A La Chingada",
+      "url": "https://open.spotify.com/track/297ql9Y4MLwYwt6wY1wFID"
     },
     {
       "added_at": null,
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MANIFESTING 20-05",
-        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 208386,
-      "name": "No Digas Na",
-      "url": "https://open.spotify.com/track/2iPoYcC5x7gylwRyCwzFxI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pierdo la Cabeza (Remix)",
         "url": "https://open.spotify.com/album/3YEcnOrALEkI04rGSJK4FH"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 287080,
       "name": "Pierdo la Cabeza - Remix",
       "url": "https://open.spotify.com/track/7dnOGJWp5Mspq4drP0oaxZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MANIFESTING 20-05",
+        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 208386,
+      "name": "No Digas Na",
+      "url": "https://open.spotify.com/track/2iPoYcC5x7gylwRyCwzFxI"
     },
     {
       "added_at": null,
@@ -823,6 +823,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "DEMBO$$",
+        "url": "https://open.spotify.com/album/7bp8TEGxs1Q8bCB3HbzghV"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 248589,
+      "name": "Dembow y Reggaeton",
+      "url": "https://open.spotify.com/track/3OB01aM0Nf7tWds1TLEL3j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bonita (Remix)",
         "url": "https://open.spotify.com/album/69GKfbYqlc7kXvD0nCUMKA"
       },
@@ -855,30 +879,6 @@
       "duration_ms": 322906,
       "name": "Bonita - Remix",
       "url": "https://open.spotify.com/track/4jKX16TcfQIrqY1ZzDIZb2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DEMBO$$",
-        "url": "https://open.spotify.com/album/7bp8TEGxs1Q8bCB3HbzghV"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 248589,
-      "name": "Dembow y Reggaeton",
-      "url": "https://open.spotify.com/track/3OB01aM0Nf7tWds1TLEL3j"
     },
     {
       "added_at": null,

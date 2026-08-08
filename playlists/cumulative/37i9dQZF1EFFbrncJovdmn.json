@@ -584,10 +584,28 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 162017,
       "name": "The Ocean",
       "url": "https://open.spotify.com/track/0El6tOnSI2n9KmMHOVpZYx"
+    },
+    {
+      "album": {
+        "name": "For the Loved and Lost",
+        "url": "https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm"
+      },
+      "artists": [
+        {
+          "name": "Kal Lavelle",
+          "url": "https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162602,
+      "name": "The Ocean",
+      "url": "https://open.spotify.com/track/0ZVm0ajK2xT6a1ezSdE9TG"
     },
     {
       "album": {

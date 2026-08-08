@@ -7673,6 +7673,32 @@
     },
     {
       "album": {
+        "name": "GET AWAY!",
+        "url": "https://open.spotify.com/album/3sGM3AsorNlGVUQ2hE7DPn"
+      },
+      "artists": [
+        {
+          "name": "Waking Suns",
+          "url": "https://open.spotify.com/artist/0ij2MrO7mTpg6peTK6q6et"
+        },
+        {
+          "name": "Mogwaa",
+          "url": "https://open.spotify.com/artist/0ZMvuGH9qIoI5xBA4g0Tqy"
+        },
+        {
+          "name": "Xin Seha",
+          "url": "https://open.spotify.com/artist/4kuTWggHz7FWxKVh3hdqA5"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260003,
+      "name": "GET AWAY!",
+      "url": "https://open.spotify.com/track/5cA0vKpix2JAaalGe1G7Q4"
+    },
+    {
+      "album": {
         "name": "GET LUCKY!",
         "url": "https://open.spotify.com/album/52sUuTeemfkKHHqwfMMzcm"
       },
@@ -17513,6 +17539,28 @@
     },
     {
       "album": {
+        "name": "Remember! (TOWA TEI REMIX)",
+        "url": "https://open.spotify.com/album/5pA3ECmhkTOcQnRdmxPhhP"
+      },
+      "artists": [
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+        },
+        {
+          "name": "TOWA TEI",
+          "url": "https://open.spotify.com/artist/5FLbE1s9bnHwJhmngtVXpD"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217360,
+      "name": "Remember! - TOWA TEI REMIX",
+      "url": "https://open.spotify.com/track/4Z0H9yvR5Wguva5aKowF5w"
+    },
+    {
+      "album": {
         "name": "Remembering",
         "url": "https://open.spotify.com/album/4xZnp0byuBiJzFiYUbOaCr"
       },
@@ -23276,7 +23324,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 149269,
       "name": "Waves",
       "url": "https://open.spotify.com/track/27MjCWV60aUNS4ZEfgWr72"

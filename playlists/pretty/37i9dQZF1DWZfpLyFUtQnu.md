@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 
 > Les plus belles ballades de la chanson française d'hier et d'aujourd'hui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,818 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,844 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 6 | [Des milliers de je t'aime](https://open.spotify.com/track/1NwjfTd5fsvRFtYGERuKzA) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Chroniques d’un cupidon](https://open.spotify.com/album/1a6v54PDHcrn6y5iA7wuT1) | 3:32 |
 | 7 | [Corps](https://open.spotify.com/track/7qx03NsIL42jM03zFphnRO) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Noir](https://open.spotify.com/album/71KbEOWntZKWUHRfYAumiB) | 5:13 |
 | 8 | [Je t'aimais, je t'aime, je t'aimerai \- Remastered](https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Samedi soir sur la terre \(Remastered\)](https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8) | 4:38 |
-| 9 | [Ceux qu'on était](https://open.spotify.com/track/57InPX86dWSiQexyA7xx5i) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde](https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm) | 2:54 |
-| 10 | [Le paradis blanc \- Remasterisé en 2002](https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Ça ne tient pas debout \(Remasterisé en 2002\)](https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM) | 6:36 |
+| 9 | [Le paradis blanc \- Remasterisé en 2002](https://open.spotify.com/track/6N6uTt8e1vLLgIZK5FgSYh) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Ça ne tient pas debout \(Remasterisé en 2002\)](https://open.spotify.com/album/2X3NWw5yXoj2yJJIGvFhKM) | 6:36 |
+| 10 | [Ceux qu'on était](https://open.spotify.com/track/57InPX86dWSiQexyA7xx5i) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde](https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm) | 2:54 |
 | 11 | [Tous les garçons et les filles \- Stereo Mix](https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Tous les garçons et les filles](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 3:07 |
 | 12 | [Longtemps](https://open.spotify.com/track/73yB2HMz9zu0VcueZ4P1UU) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Addictions \(Ultimate Version\)](https://open.spotify.com/album/3Pn9nKN7m8MKBhAtRzuugW) | 3:39 |
 | 13 | [Le sud](https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 4:35 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 46 | [Le tourbillon de la vie](https://open.spotify.com/track/5vLnGZWyrMu5S1792Xzh8l) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd), [Jeanne Moreau](https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP) | [Best Of & Variations](https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh) | 2:59 |
 | 47 | [Sensualité](https://open.spotify.com/track/0C9i6dklnUoFcp1jsP03ud) | [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [The Songs \(Acoustic\)](https://open.spotify.com/album/7p6VMQCrAaiFiRvg5vnUIJ) | 3:51 |
 | 48 | [So Far Away from L.A.](https://open.spotify.com/track/4OnWd9bQcVfjo5U63SLTXQ) | [Nicolas Peyrac](https://open.spotify.com/artist/5OGPLZXdTrhI3RMBjGi1rl) | [D'où venez\-vous ?](https://open.spotify.com/album/397PJkwZTSa8abMLaQwf88) | 4:12 |
-| 49 | [Quelques mots d'amour](https://open.spotify.com/track/29RZaYV4Ar2934c4QCAKeg) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Sanson comme ils l'imaginent](https://open.spotify.com/album/3rMGiHyaC4hbR5sDRzwCtU) | 3:50 |
-| 50 | [Beau \(feat\. Julien Doré\) \- Version acoustique](https://open.spotify.com/track/5reKvqw1x4bKPk7BcatWiU) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Beau \(feat\. Julien Doré\) \[Version acoustique\]](https://open.spotify.com/album/56nhvJWil0JYTO4v0MBEht) | 2:33 |
+| 49 | [Beau \(feat\. Julien Doré\) \- Version acoustique](https://open.spotify.com/track/5reKvqw1x4bKPk7BcatWiU) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Beau \(feat\. Julien Doré\) \[Version acoustique\]](https://open.spotify.com/album/56nhvJWil0JYTO4v0MBEht) | 2:33 |
+| 50 | [Quelques mots d'amour](https://open.spotify.com/track/29RZaYV4Ar2934c4QCAKeg) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Sanson comme ils l'imaginent](https://open.spotify.com/album/3rMGiHyaC4hbR5sDRzwCtU) | 3:50 |
 | 51 | [Secret](https://open.spotify.com/track/3g8XEpjHvbt2KfilEIh0Jj) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Secret](https://open.spotify.com/album/2uWPQsd3smibQTkgcjOUyw) | 3:10 |
 | 52 | [Elle, tu l'aimes](https://open.spotify.com/track/08nsSNtxmSCCjq546wZ2E7) | [Hélène Ségara](https://open.spotify.com/artist/4jqOuZDAtFnB3uGEnNxlvX) | [Au Nom D'Une Femme](https://open.spotify.com/album/3uaw8NfCYdRLPLpslvQMzu) | 5:05 |
 | 53 | [Quand tu danses](https://open.spotify.com/track/0NZTCM482lCDSDtvNgeeuz) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [En passant](https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs) | 4:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 74 | [Ici et là](https://open.spotify.com/track/72RNGuGXnvNhVrxi6OgjBz) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [Âme fifties](https://open.spotify.com/album/47muEu6fz7NIvfr5Ancw85) | 3:05 |
 | 75 | [Si j'avais su \- Acoustique](https://open.spotify.com/track/6JWxvM4BAy4YCGneIdJ4Lp) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Rose des vents \(Version deluxe\)](https://open.spotify.com/album/3Aex91qb2mhCvvcMlwMAwj) | 3:36 |
 
-Snapshot ID: `AAAAALyLqORychFWDW5b5PEtpbTvnjt1`
+Snapshot ID: `AAAAAOkj2U9VxhT1mx/h3feZSKks7j6p`

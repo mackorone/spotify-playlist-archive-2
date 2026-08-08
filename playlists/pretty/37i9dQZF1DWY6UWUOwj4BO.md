@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,061 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,082 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 | 49 | [Azizam \- Acoustic](https://open.spotify.com/track/2IQz2JtlZ4GjMuXcusYF2i) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam \(Acoustic\)](https://open.spotify.com/album/4vsBt7vutpoO2ebjuTinkn) | 2:40 |
 | 50 | [Save Your Tears \(Acoustic\)](https://open.spotify.com/track/1X6Kmaa2Yq70vF0cIQ6V0f) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape](https://open.spotify.com/album/707cK3j40hIquI15sOcYXP) | 3:03 |
 
-Snapshot ID: `AAAAADZqG9IBDtAur814Oy208JtgSLq9`
+Snapshot ID: `AAAAACoC0yOR2/3jreE0G6/8v2zrkLHq`

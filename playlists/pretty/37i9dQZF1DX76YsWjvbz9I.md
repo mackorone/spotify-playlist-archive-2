@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 
 > The unforgettable romantic Jazz songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,452 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,483 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,13 +54,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 44 | [You Make Me Feel so Young](https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [The Essential Rosemary Clooney](https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP) | 2:52 |
 | 45 | [When I Fall In Love](https://open.spotify.com/track/3qo1rizHmEmLPZbCwYSiKX) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Carmen McRae For Lovers](https://open.spotify.com/album/7clmDaiCZ59KoFu05W6CAU) | 3:49 |
 | 46 | [Fools Rush In](https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dream with Dean](https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL) | 3:05 |
-| 47 | [As Long As I'm In Your Arms](https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [September In The Rain](https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV) | 1:58 |
-| 48 | [I Only Have Eyes For You](https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:53 |
+| 47 | [I Only Have Eyes For You](https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 2:53 |
+| 48 | [As Long As I'm In Your Arms](https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [September In The Rain](https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV) | 1:58 |
 | 49 | [Let's Do It \(Let's Fall In Love\)](https://open.spotify.com/track/5mRF9wpnR4j6QnRXJCNgoO) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 8:41 |
 | 50 | [How Long Has This Been Going On?](https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [In Blue](https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp) | 5:39 |
 | 51 | [April In Paris](https://open.spotify.com/track/4NHNztFS67GSpnU611l74v) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8), [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 6:18 |
-| 52 | [It's Magic](https://open.spotify.com/track/3Dwj9k9GC0Tm8nDvE9U5Pg) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:41 |
-| 53 | [The Way You Look Tonight](https://open.spotify.com/track/3mADbrwcu80uRhrgrAaPTz) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [The Silver Lining \- The Songs of Jerome Kern](https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m) | 2:56 |
+| 52 | [The Way You Look Tonight](https://open.spotify.com/track/3mADbrwcu80uRhrgrAaPTz) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [The Silver Lining \- The Songs of Jerome Kern](https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m) | 2:56 |
+| 53 | [It's Magic](https://open.spotify.com/track/3Dwj9k9GC0Tm8nDvE9U5Pg) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:41 |
 | 54 | [Them There Eyes](https://open.spotify.com/track/069NmdhmDYDPQm363GsVWw) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Carmen McRae Sings Lover Man And Other Billie Holiday Classics](https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A) | 2:45 |
 | 55 | [Sunny](https://open.spotify.com/track/35jMzVgRFxGkSg7N0ZMVTw) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Jeff Rach](https://open.spotify.com/artist/6YAlFgtCMJB9VKgKncFlTN) | [Lush Life](https://open.spotify.com/album/29hewcqIIQfEFYlghRWYD2) | 3:59 |
 | 56 | [Teach Me Tonight](https://open.spotify.com/track/4waAobn5tpdqVoH9R8oDqc) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [L.A\. Is My Lady](https://open.spotify.com/album/4zvku3SSgsUaVRsvcCZ1aU) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 99 | [L\-O\-V\-E \- 2004 \- Remastered](https://open.spotify.com/track/5QjNF4TMjF2E72D3nAIty6) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The World Of Nat King Cole \- His Very Best \(UK Import Edition\)](https://open.spotify.com/album/0pBFpiQv2SmHShiysxDedE) | 2:34 |
 | 100 | [A Time For Love](https://open.spotify.com/track/4j6agW1zyunmyp6IYJZQyB) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Pointless Nostalgic](https://open.spotify.com/album/0T4B2RzILZxlRkHd1QbhDz) | 5:06 |
 
-Snapshot ID: `AAAAAJYOkFywKrPP173KhlAP5BRtax+j`
+Snapshot ID: `AAAAAHcS6i7KQwUghJclHUQnndTfTxGI`

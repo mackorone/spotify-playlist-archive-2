@@ -1,12 +1,12 @@
 {
   "description": "Kick nostalgia up a notch with these throwback bangers. ",
-  "num_followers": 81395,
+  "num_followers": 81427,
   "original_name": "Rewind: Naija Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIACKzG5aBFBjrMDvzB6z1HmuXKP",
+  "snapshot_id": "AAAAAIHACUOEL10yFjMURQwk72PAp6r9",
   "tracks": [
     {
       "added_at": "2025-08-26 11:12:59",
@@ -219,6 +219,26 @@
     {
       "added_at": "2025-08-26 11:12:59",
       "album": {
+        "name": "Double Trouble",
+        "url": "https://open.spotify.com/album/27Jz5SHt1hamUx7fD9A6VC"
+      },
+      "artists": [
+        {
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+        },
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+        }
+      ],
+      "duration_ms": 223587,
+      "name": "Collabo",
+      "url": "https://open.spotify.com/track/0hp62UwmajmzAjXkMKznhD"
+    },
+    {
+      "added_at": "2025-08-26 11:12:59",
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/5KBalcanPNHMGSNkyE7HG2"
       },
@@ -231,26 +251,6 @@
       "duration_ms": 252244,
       "name": "Fever",
       "url": "https://open.spotify.com/track/5mN3xSyvCmFy1jkdA98IfS"
-    },
-    {
-      "added_at": "2025-08-26 11:12:59",
-      "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/5ml5qP7IbT2FDujhSNpSRT"
-      },
-      "artists": [
-        {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 233012,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/4GW2SIyvB5fy8xtK1eO8PS"
     },
     {
       "added_at": "2025-08-26 11:12:59",
@@ -271,22 +271,22 @@
     {
       "added_at": "2025-08-26 11:12:59",
       "album": {
-        "name": "Double Trouble",
-        "url": "https://open.spotify.com/album/27Jz5SHt1hamUx7fD9A6VC"
+        "name": "Low",
+        "url": "https://open.spotify.com/album/5ml5qP7IbT2FDujhSNpSRT"
       },
       "artists": [
         {
-          "name": "P-Square",
-          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
         },
         {
-          "name": "Don Jazzy",
-          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 223587,
-      "name": "Collabo",
-      "url": "https://open.spotify.com/track/0hp62UwmajmzAjXkMKznhD"
+      "duration_ms": 233012,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/4GW2SIyvB5fy8xtK1eO8PS"
     },
     {
       "added_at": "2025-08-26 11:12:59",
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 225407,
-      "name": "Dangote",
-      "url": "https://open.spotify.com/track/7JbaXy70jy2d2kHLvks8Ei"
+      "duration_ms": 188717,
+      "name": "Anybody",
+      "url": "https://open.spotify.com/track/7iCSfoLBuenTKZoWIgqY9Q"
     },
     {
       "added_at": "2025-08-26 11:12:59",
@@ -379,6 +379,22 @@
     {
       "added_at": "2025-08-26 11:12:59",
       "album": {
+        "name": "If",
+        "url": "https://open.spotify.com/album/1N4On17z3onc2NH2XgHdLx"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 237714,
+      "name": "If",
+      "url": "https://open.spotify.com/track/0XQuWhRG7qD7OYHKsgt0BN"
+    },
+    {
+      "added_at": "2025-08-26 11:12:59",
+      "album": {
         "name": "God Over Everything",
         "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 221603,
       "name": "No Kissing Baby",
       "url": "https://open.spotify.com/track/16ygpIPe2ClOoOypX6QAuH"
-    },
-    {
-      "added_at": "2025-08-26 11:12:59",
-      "album": {
-        "name": "If",
-        "url": "https://open.spotify.com/album/1N4On17z3onc2NH2XgHdLx"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 237714,
-      "name": "If",
-      "url": "https://open.spotify.com/track/0XQuWhRG7qD7OYHKsgt0BN"
     },
     {
       "added_at": "2025-08-26 11:12:59",
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 188717,
-      "name": "Anybody",
-      "url": "https://open.spotify.com/track/7iCSfoLBuenTKZoWIgqY9Q"
+      "duration_ms": 225407,
+      "name": "Dangote",
+      "url": "https://open.spotify.com/track/7JbaXy70jy2d2kHLvks8Ei"
     },
     {
       "added_at": "2025-08-26 11:12:59",
@@ -627,18 +627,18 @@
     {
       "added_at": "2025-08-26 11:12:59",
       "album": {
-        "name": "Chulo Vibes",
-        "url": "https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q"
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/2FwDRA8NiC7IoaO9V3AH8k"
       },
       "artists": [
         {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+          "name": "Dr SID",
+          "url": "https://open.spotify.com/artist/1A1IEvjX2MyuMXDDsSW8sD"
         }
       ],
-      "duration_ms": 161684,
-      "name": "The Mood",
-      "url": "https://open.spotify.com/track/6gHUiXF4BiJ9d7biTNmdKR"
+      "duration_ms": 233920,
+      "name": "Over The Moon Ft. K-Switch",
+      "url": "https://open.spotify.com/track/3R963wuVpbDXyzKHUS25Tc"
     },
     {
       "added_at": "2025-08-26 11:12:59",
@@ -659,18 +659,18 @@
     {
       "added_at": "2025-08-26 11:12:59",
       "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/2FwDRA8NiC7IoaO9V3AH8k"
+        "name": "Chulo Vibes",
+        "url": "https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q"
       },
       "artists": [
         {
-          "name": "Dr SID",
-          "url": "https://open.spotify.com/artist/1A1IEvjX2MyuMXDDsSW8sD"
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 233920,
-      "name": "Over The Moon Ft. K-Switch",
-      "url": "https://open.spotify.com/track/3R963wuVpbDXyzKHUS25Tc"
+      "duration_ms": 161684,
+      "name": "The Mood",
+      "url": "https://open.spotify.com/track/6gHUiXF4BiJ9d7biTNmdKR"
     },
     {
       "added_at": "2025-08-26 11:12:59",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 
 ### [GLOW Songwriters](https://open.spotify.com/playlist/37i9dQZF1DX7ifvbzG8ryV)
 
-> From the LGBTQIA+ songwriters that make the music happen\. This month's cover: <a href="spotify:artist:6prmLEyn4LfHlD9NnXWlf7">Adam Lambert</a>
+> From the LGBTQIA+ songwriters that make the music happen\. This month's cover: Louis du Sauzay
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,889 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,891 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ifvbzG8ryV.md) - [plain]
 | 49 | [Let's Have A Kiki](https://open.spotify.com/track/4Q6K6M0HSiRboY3C97AxD4) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Magic Hour](https://open.spotify.com/album/2Uv5xoWfFbl2o7KdcCglOD) | 3:49 |
 | 50 | [Filthy / Gorgeous](https://open.spotify.com/track/2NNiCmCyITuhyYblpmhRWA) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Scissor Sisters](https://open.spotify.com/album/58RP9ZGsr39HptJZLaVvm4) | 3:47 |
 
-Snapshot ID: `AAAAAAQsUO1EQM+wNbGcyPTmZgaDX//K`
+Snapshot ID: `AAAAAMZLokYbwuK31bS9khMWQLPJjTAa`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 
 > ¡Ay Jalisco no te rajes! Así suena la Perla de Occidente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,981 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,960 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 7 | [Debo Entender](https://open.spotify.com/track/55mzJ0LftLnef8sxAjrMkU) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Debo Entender](https://open.spotify.com/album/1U4AU6ken2YH258a4lZyd8) | 3:58 |
 | 8 | [00:00](https://open.spotify.com/track/7l4cSfrED7RrtT0t5CSOzv) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt) | 3:35 |
 | 9 | [Oye Como Va](https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 4:20 |
-| 10 | [Me Pregunto](https://open.spotify.com/track/49EAN1FCYDbxfEHS3xJvby) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Dulce Beat](https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK) | 3:07 |
-| 11 | [Por Besarte](https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL) | [LU](https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C) | [Lu](https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq) | 3:37 |
+| 10 | [Por Besarte](https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL) | [LU](https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C) | [Lu](https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq) | 3:37 |
+| 11 | [Me Pregunto](https://open.spotify.com/track/49EAN1FCYDbxfEHS3xJvby) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Dulce Beat](https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK) | 3:07 |
 | 12 | [Afortunadamente No Eres Tu](https://open.spotify.com/track/4Nsa9NZJweWZGU3VKUZmIU) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Afortunadamente No Eres Tu](https://open.spotify.com/album/74G5glSkk6ej2DAr2bmFl1) | 3:08 |
 | 13 | [Me Vale](https://open.spotify.com/track/0NfdbvWFwlVMA183QibxCB) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:31 |
 | 14 | [Black Magic Woman \- Single Version](https://open.spotify.com/track/4YMQXzscifAREG0a7KNGhB) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana's Greatest Hits](https://open.spotify.com/album/1YrdGK2y2Edq2R5gFja2ai) | 3:19 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 79 | [Roaming](https://open.spotify.com/track/7qbSUZaGP6FyvadcKT59WF) | [La Fachada De Piedra](https://open.spotify.com/artist/4alM2y1QDZQ9NkVgdmO0f9) | [Rock en Avándaro Valle de Bravo](https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT) | 3:07 |
 | 80 | [Jalisco es México](https://open.spotify.com/track/0iaYJyhIQGnfPt3XvkN3xe) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [5ta\. Generación 2002](https://open.spotify.com/album/20ma35P21HiebE76OMe3P5) | 4:49 |
 
-Snapshot ID: `AAAAAJjX20sqwb53VX/wxSxQ15pIDMin`
+Snapshot ID: `AAAAAPtg7o2H7njWuMiCioYJnwGplTUc`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 
 > Get into the flow of the forest, with relaxing natural water sounds of small creeks and calming streams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,339 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,395 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 | 18 | [Mossy Mountain Calm](https://open.spotify.com/track/65Mbf2HRXivSYfCVBxORBL) | [Wax Walls](https://open.spotify.com/artist/0NFrRYq1HHu0AuTa81zmJp) | [Mossy Mountain Calm](https://open.spotify.com/album/6H0se40CddIdv18qdMnU6N) | 3:55 |
 | 19 | [A Babbling Brook](https://open.spotify.com/track/6SwFLZEH7gG2fxGLAdsj4m) | [The Nature Songs](https://open.spotify.com/artist/6lsjtEbWnSnZfl4uEG24vF) | [Babbling Stream in the Forest](https://open.spotify.com/album/0fN39o8AJyHObpdmuoVUda) | 3:21 |
 | 20 | [Pond Of Sleep](https://open.spotify.com/track/6sURZokRcztKu6xYfsatXm) | [Ambrook Glacier](https://open.spotify.com/artist/2nzv7rfJgsWoS068opqZDy) | [Pond Of Sleep](https://open.spotify.com/album/5ldXqn6VEKsa2TBnONcyV4) | 2:07 |
-| 21 | [Bankside Brook](https://open.spotify.com/track/1ZEFrqKC6alse3gc8VN9e9) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Rural Nature Sounds](https://open.spotify.com/album/2BaceU3ldmiPRUjPHb4imI) | 5:28 |
-| 22 | [Morning River in Austria](https://open.spotify.com/track/1fHGpH6KmYuXFbvbXOjiVc) | [Forest Treasures](https://open.spotify.com/artist/4JYeGAbcGu32UoJYNf4Awd) | [Morning River in Austria](https://open.spotify.com/album/5aPXBe0d45D4ZktK34JmKb) | 4:07 |
+| 21 | [Morning River in Austria](https://open.spotify.com/track/1fHGpH6KmYuXFbvbXOjiVc) | [Forest Treasures](https://open.spotify.com/artist/4JYeGAbcGu32UoJYNf4Awd) | [Morning River in Austria](https://open.spotify.com/album/5aPXBe0d45D4ZktK34JmKb) | 4:07 |
+| 22 | [Bankside Brook](https://open.spotify.com/track/1ZEFrqKC6alse3gc8VN9e9) | [Willow Drift](https://open.spotify.com/artist/2HWEeg2dzDuXcK0tD8nBfI) | [Rural Nature Sounds](https://open.spotify.com/album/2BaceU3ldmiPRUjPHb4imI) | 5:28 |
 | 23 | [Birds at the River Mouth](https://open.spotify.com/track/6OgaXzdlt8fOkiXUpytRCc) | [Solmer](https://open.spotify.com/artist/7eqdkq0HQG1Q53nCfjCIE4) | [Birds at the River Mouth](https://open.spotify.com/album/7LCP7Q9dZSJdgRBagA5tfj) | 2:02 |
 | 24 | [Forest River](https://open.spotify.com/track/4Tu5pGrLfIjkRSh8jileQ0) | [the river scout](https://open.spotify.com/artist/1s6tKatqOJNcoQ1H9otPIw) | [Relaxing River](https://open.spotify.com/album/0radw9ZUJL76TNkwwrVBcs) | 3:13 |
 | 25 | [Forest Creek](https://open.spotify.com/track/1LoOR1wpNLSRaVsYwBvJrD) | [Gentle Outdoors](https://open.spotify.com/artist/5FDSxvW83nezwSZgrEdOLv) | [Relaxing Nature](https://open.spotify.com/album/7CHcLv7WKxu3l96kbJkIgT) | 3:00 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 | 43 | [Lovely Stream](https://open.spotify.com/track/5cMoDHCfhjqmWuoeQKRxq5) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [River Spirit](https://open.spotify.com/album/6zw5YaZq3tuXwSvTcj79QT) | 4:11 |
 | 44 | [River Cleanse](https://open.spotify.com/track/7FH0vD04glSk5ovGAcpAOb) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Rivers and Forest Sounds](https://open.spotify.com/album/7epwX2vgkWFTttxGVlQ45m) | 2:56 |
 | 45 | [Watching a Stream](https://open.spotify.com/track/5i1szf4HOvoa8O0nNAdrzS) | [The One\-Lane Bridge](https://open.spotify.com/artist/22FY3gz7p5v6XbQ9SRDtiZ) | [Watching a Stream](https://open.spotify.com/album/4ybbKDO27Hq3uVbhEdGWrk) | 4:00 |
-| 46 | [Gentle River](https://open.spotify.com/track/1LN1hqYm2UNvSo3x4yjdFE) | [Four Winds](https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE) | [River Relaxation](https://open.spotify.com/album/3aoBFnSGb7lXY9qFK7vWmj) | 3:18 |
-| 47 | [Big and calm creek, distant wind in trees](https://open.spotify.com/track/5JH5HC1r8ljEGjXYq8Uzcd) | [Sounds of Scandinavia](https://open.spotify.com/artist/3SfbWy42IpSQrfjrIErmKt) | [Waters of the North](https://open.spotify.com/album/6eUzmobKzaTB4q8VhhNxMD) | 2:45 |
-| 48 | [Stream for Mind Balance](https://open.spotify.com/track/44Pn1Qi4iLLRYBnvEdSBSj) | [Field Rec Deluxe](https://open.spotify.com/artist/5Cmb5ilCwITgT75vaHmKFw) | [Mystic Stream](https://open.spotify.com/album/7H4w3hmgIveqzbEgGHBWNj) | 2:55 |
+| 46 | [Stream for Mind Balance](https://open.spotify.com/track/44Pn1Qi4iLLRYBnvEdSBSj) | [Field Rec Deluxe](https://open.spotify.com/artist/5Cmb5ilCwITgT75vaHmKFw) | [Mystic Stream](https://open.spotify.com/album/7H4w3hmgIveqzbEgGHBWNj) | 2:55 |
+| 47 | [Gentle River](https://open.spotify.com/track/1LN1hqYm2UNvSo3x4yjdFE) | [Four Winds](https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE) | [River Relaxation](https://open.spotify.com/album/3aoBFnSGb7lXY9qFK7vWmj) | 3:18 |
+| 48 | [Big and calm creek, distant wind in trees](https://open.spotify.com/track/5JH5HC1r8ljEGjXYq8Uzcd) | [Sounds of Scandinavia](https://open.spotify.com/artist/3SfbWy42IpSQrfjrIErmKt) | [Waters of the North](https://open.spotify.com/album/6eUzmobKzaTB4q8VhhNxMD) | 2:45 |
 | 49 | [Rippling Water](https://open.spotify.com/track/0oAaI5xIkUhztpphsElfh5) | [Monterio](https://open.spotify.com/artist/2FPcGoYsX7uC8f9EZae0of) | [River Creek](https://open.spotify.com/album/30VELFnoOR9DXklDdBQQWj) | 3:12 |
 | 50 | [Forest Creek for Sleeping](https://open.spotify.com/track/4z328Z1jztGtCgTSixowmY) | [Embracing Sounds](https://open.spotify.com/artist/3yrsA40P229aJh2vhsvn61) | [Forest Creek](https://open.spotify.com/album/4Gd0bYZO9u4i6UPN0rCSok) | 2:12 |
 
-Snapshot ID: `AAAAAD/Rc24ulWa3SkhavxQ22w3u6+Fd`
+Snapshot ID: `AAAAABNw5rTEx8LJjH9mBvjIlazdIIC4`

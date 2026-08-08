@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,777 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,782 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 50 | [Flora](https://open.spotify.com/track/4nt2VQt6uW3hfKISgx6rh4) | [Maciej Musiałowski](https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN) | [Flora](https://open.spotify.com/album/44cncbCJZmCv6KG46Er55K) | 3:30 |
 | 51 | [halo Houston](https://open.spotify.com/track/4kIqI8h1bxOgrI9siEkD62) | [Jasiek Piwowarczyk](https://open.spotify.com/artist/705MUvkld29STeOVijPoTe) | [halo Houston](https://open.spotify.com/album/0ASB9yWOXdBFSnjKlZmI87) | 2:23 |
 | 52 | [Póki Mam Ciebie](https://open.spotify.com/track/7I3rXFOYOXyHfimFAdOoC0) | [Smolasty](https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP), [IMI](https://open.spotify.com/artist/3u4cVaeeRXjComKa6guF0I), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Póki Mam Ciebie](https://open.spotify.com/album/6Vf7UxIJeTLSFazrwu6TDy) | 2:20 |
-| 53 | [TAK TAK](https://open.spotify.com/track/1z6OWmVrMRx32kwDOgtGA9) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [TAK TAK](https://open.spotify.com/album/67Es1oaMCYOJ5sxffNmGlV) | 3:24 |
+| 53 | [Lepiej już było](https://open.spotify.com/track/5SGUNlgK09cniVcUdjnGPH) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Lepiej już było](https://open.spotify.com/album/272O9DhND8UFU1uPMpqYjr) | 3:40 |
 | 54 | [DZIŚ SOBIE DAM](https://open.spotify.com/track/5xLyZIFsmew0xUhEJQYNJj) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [DZIŚ SOBIE DAM](https://open.spotify.com/album/2pqlWiXuaQM6gD05K2e3EP) | 2:47 |
 | 55 | [proszę pana](https://open.spotify.com/track/3S3ayOhVEJSZZP1tgeKEOB) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [proszę pana](https://open.spotify.com/album/4Atcfix3A3u1PefLTIW0j7) | 2:10 |
 | 56 | [A Nuż](https://open.spotify.com/track/31TGp1ujsdzJ65Qql26Ijv) | [Vixen](https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO), [Tabb](https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ) | [Światłocienie EP](https://open.spotify.com/album/2gT5d3yzS9w4wLEOiKLrKw) | 2:41 |
 | 57 | [Daj mi znać](https://open.spotify.com/track/2cbAtKKJilsNWu23iieJjo) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq), [Nita](https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi) | [Daj mi znać](https://open.spotify.com/album/2ODBwHAh1vKCNMXtcm4U7m) | 2:59 |
-| 58 | [Lepiej już było](https://open.spotify.com/track/5SGUNlgK09cniVcUdjnGPH) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Lepiej już było](https://open.spotify.com/album/272O9DhND8UFU1uPMpqYjr) | 3:40 |
+| 58 | [TAK TAK](https://open.spotify.com/track/1z6OWmVrMRx32kwDOgtGA9) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [TAK TAK](https://open.spotify.com/album/67Es1oaMCYOJ5sxffNmGlV) | 3:24 |
 | 59 | [Pierwszy raz](https://open.spotify.com/track/2ihiNri1NnpPqce4TbC9xE) | [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Znajdź mnie w tym](https://open.spotify.com/album/3ejpPh0fWw2YEzyd2Rl17R) | 2:49 |
 | 60 | [Dotknij](https://open.spotify.com/track/5a9izOBVjC242rMhmUxrsx) | [Daria Marx](https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u) | [Dotknij](https://open.spotify.com/album/5zqGQnNNJiDGcxCQIE3Kmh) | 2:34 |
 
-Snapshot ID: `AAAAAGZLNdhQHh7x49qdHqJDpZuAV3lf`
+Snapshot ID: `AAAAAHG7m+CVvoTqo/PvtIXQ9oW35Aa8`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 
 > This is HARDY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,061 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,079 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TRUCK BED](https://open.spotify.com/track/6CThut6kPrjot0pTJOTEer) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [the mockingbird & THE CROW](https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5) | 2:47 |
-| 2 | [Never Met Anyone Like You \(feat\. HARDY\)](https://open.spotify.com/track/4LXL1lRpybr8s4x0vkPQm5) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Never Met Anyone Like You \(feat\. HARDY\)](https://open.spotify.com/album/07v7okIuI77b0Y2twqEGDS) | 2:48 |
-| 3 | [McArthur](https://open.spotify.com/track/6yOHshc12fwMtM74xoy4je) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [McArthur](https://open.spotify.com/album/7tFDlNV1A2uRLdgArEKYuj) | 3:51 |
+| 2 | [McArthur](https://open.spotify.com/track/6yOHshc12fwMtM74xoy4je) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [McArthur](https://open.spotify.com/album/7tFDlNV1A2uRLdgArEKYuj) | 3:51 |
+| 3 | [Never Met Anyone Like You \(feat\. HARDY\)](https://open.spotify.com/track/4LXL1lRpybr8s4x0vkPQm5) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Never Met Anyone Like You \(feat\. HARDY\)](https://open.spotify.com/album/07v7okIuI77b0Y2twqEGDS) | 2:48 |
 | 4 | [GIVE HEAVEN SOME HELL](https://open.spotify.com/track/6kBbetvAHiBSNIpndZBs6W) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y) | 3:37 |
 | 5 | [wait in the truck](https://open.spotify.com/track/6fDlK6P4s3BVMls9EmfCWI) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [the mockingbird & THE CROW](https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5) | 4:37 |
 | 6 | [ONE BEER \(feat\. Lauren Alaina & Devin Dawson\)](https://open.spotify.com/track/2tev2oEdAUyNtR1U8gQ8c4) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 49 | [SIGNED, SOBER YOU](https://open.spotify.com/track/0JBGUNAiW0AcAMA3mSxBDc) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [WHERE TO FIND ME](https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF) | 3:28 |
 | 50 | [Luckiest Man Alive](https://open.spotify.com/track/4VJQplLkX6agarX99u0iDm) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY! COUNTRY!](https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc) | 2:59 |
 
-Snapshot ID: `anJ9AAAAAAD4e6JUKfuRK0/AMOKMRHDS`
+Snapshot ID: `anPOgAAAAAA6vSNpc1Mzzxo9cXEVu3ev`

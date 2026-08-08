@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Viniloversus",
-  "num_followers": 290301,
+  "num_followers": 290272,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALVk7TIqayn+vLFiWxab6kFOruzs",
+  "snapshot_id": "AAAAALUCp06oDv5kEp2yP/dxJRYtYFHW",
   "tracks": [
     {
       "added_at": "2026-04-27 16:06:56",
@@ -139,18 +139,22 @@
     {
       "added_at": "2026-04-27 16:06:56",
       "album": {
-        "name": "Greta Garbo",
-        "url": "https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn"
+        "name": "Jaula de Oro",
+        "url": "https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv"
       },
       "artists": [
         {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
         }
       ],
-      "duration_ms": 215346,
-      "name": "Nuestros mundos no obedecen a tus mapas",
-      "url": "https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3"
+      "duration_ms": 238926,
+      "name": "Jaula de Oro",
+      "url": "https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs"
     },
     {
       "added_at": "2026-04-27 16:06:56",
@@ -175,22 +179,18 @@
     {
       "added_at": "2026-04-27 16:06:56",
       "album": {
-        "name": "Jaula de Oro",
-        "url": "https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv"
+        "name": "Greta Garbo",
+        "url": "https://open.spotify.com/album/3jGqy8Nn97e7QC9GXbhzyn"
       },
       "artists": [
         {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
         }
       ],
-      "duration_ms": 238926,
-      "name": "Jaula de Oro",
-      "url": "https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs"
+      "duration_ms": 215346,
+      "name": "Nuestros mundos no obedecen a tus mapas",
+      "url": "https://open.spotify.com/track/6QtCUXSNyP612SK6pM0AM3"
     },
     {
       "added_at": "2026-04-27 16:06:56",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-04-27 16:06:56",
       "album": {
-        "name": "Nuestro A\u00f1o",
-        "url": "https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES"
-      },
-      "artists": [
-        {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
-        }
-      ],
-      "duration_ms": 171945,
-      "name": "\u00bfQu\u00e9 Hora Es All\u00e1?",
-      "url": "https://open.spotify.com/track/2tQeoo0c6jTGqRIgzEFyqh"
-    },
-    {
-      "added_at": "2026-04-27 16:06:56",
-      "album": {
         "name": "T\u00fa Ya No Dices Nada",
         "url": "https://open.spotify.com/album/5JKmZzEuM6FzRy12D5Br7n"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 215940,
       "name": "T\u00fa Ya No Dices Nada",
       "url": "https://open.spotify.com/track/453J04Y7iitrBquFXDKql1"
+    },
+    {
+      "added_at": "2026-04-27 16:06:56",
+      "album": {
+        "name": "Nuestro A\u00f1o",
+        "url": "https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES"
+      },
+      "artists": [
+        {
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+        }
+      ],
+      "duration_ms": 171945,
+      "name": "\u00bfQu\u00e9 Hora Es All\u00e1?",
+      "url": "https://open.spotify.com/track/2tQeoo0c6jTGqRIgzEFyqh"
     },
     {
       "added_at": "2026-04-27 16:06:56",

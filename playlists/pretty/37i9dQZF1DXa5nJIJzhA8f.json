@@ -1,12 +1,12 @@
 {
   "description": "Meticulously selected by Spotify music experts.",
-  "num_followers": 97460,
+  "num_followers": 97449,
   "original_name": "Editors' Picks: Best Songs of 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADafdE9iispa+z/Zdh4hiYPNyDD3",
+  "snapshot_id": "AAAAAInzotmBq5hyYPXEiOw4zA5nRAB3",
   "tracks": [
     {
       "added_at": "2026-02-04 14:24:46",
@@ -735,30 +735,6 @@
     {
       "added_at": "2026-02-04 14:24:46",
       "album": {
-        "name": "Life Is Beautiful",
-        "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 222640,
-      "name": "Munyon Canyon",
-      "url": "https://open.spotify.com/track/65F3PDyVWG6sYeiMJJEBly"
-    },
-    {
-      "added_at": "2026-02-04 14:24:46",
-      "album": {
         "name": "SABLE, fABLE",
         "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
       },
@@ -787,6 +763,30 @@
       "duration_ms": 135831,
       "name": "Uno II",
       "url": "https://open.spotify.com/track/4GCXxLQnqf6pP6SI7ljbZV"
+    },
+    {
+      "added_at": "2026-02-04 14:24:46",
+      "album": {
+        "name": "Life Is Beautiful",
+        "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 222640,
+      "name": "Munyon Canyon",
+      "url": "https://open.spotify.com/track/65F3PDyVWG6sYeiMJJEBly"
     },
     {
       "added_at": "2026-02-04 14:24:46",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-02-04 14:24:46",
       "album": {
-        "name": "If I Had Never Lost My Mind...",
-        "url": "https://open.spotify.com/album/0rdw28ZkCG4fAzRzIF4iah"
-      },
-      "artists": [
-        {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
-        }
-      ],
-      "duration_ms": 190998,
-      "name": "If I Had Never Lost My Mind...",
-      "url": "https://open.spotify.com/track/7Gv7nvp2Rg2tiB2Ru24ETH"
-    },
-    {
-      "added_at": "2026-02-04 14:24:46",
-      "album": {
         "name": "Tether",
         "url": "https://open.spotify.com/album/3SBuk7ZuXQCJQ6IfrOPfyz"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 270520,
       "name": "Villain",
       "url": "https://open.spotify.com/track/0sUJVa3AFcEqdy11QtiZCY"
+    },
+    {
+      "added_at": "2026-02-04 14:24:46",
+      "album": {
+        "name": "If I Had Never Lost My Mind...",
+        "url": "https://open.spotify.com/album/0rdw28ZkCG4fAzRzIF4iah"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 190998,
+      "name": "If I Had Never Lost My Mind...",
+      "url": "https://open.spotify.com/track/7Gv7nvp2Rg2tiB2Ru24ETH"
     },
     {
       "added_at": "2026-02-04 14:24:46",

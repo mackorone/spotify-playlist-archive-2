@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 
 > TURNSTILE SUMMER
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,043 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,046 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 39 | [Spike Island](https://open.spotify.com/track/6g6DnHs3W4U6qMERbKwpDd) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Spike Island](https://open.spotify.com/album/2g6yLR2pkP43lYZjz80oSy) | 4:42 |
 | 40 | [Crystal Roses](https://open.spotify.com/track/24sCYoOyqR880pCFfQsika) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Tsunami Sea](https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg) | 3:19 |
 | 41 | [Vertigo](https://open.spotify.com/track/2jzwJSLX8leUQVxwjAtODn) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Tunnel Vision](https://open.spotify.com/album/7cKYTJlA0TDjAFA24oglTN) | 2:28 |
-| 42 | [SEEIN’ STARS](https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 3:06 |
-| 43 | [Freak](https://open.spotify.com/track/3YhPmmnigtDxukWdqlQXrF) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 1:47 |
+| 42 | [Freak](https://open.spotify.com/track/3YhPmmnigtDxukWdqlQXrF) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 1:47 |
+| 43 | [SEEIN’ STARS](https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 3:06 |
 | 44 | [Mustang](https://open.spotify.com/track/0bfY2rrQgn4HqiwftGNP36) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:14 |
 | 45 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 |
 | 46 | [Do It Faster](https://open.spotify.com/track/51SDO6rVAyqVouNO5AadIy) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Life Under The Gun](https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi) | 1:47 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 79 | [Plucked](https://open.spotify.com/track/7bkTXTJgFgGvAeLw4Tateh) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Plucked](https://open.spotify.com/album/2DIAuUtBOj0fmoxbLUMHKZ) | 3:11 |
 | 80 | [High Beaming](https://open.spotify.com/track/5FtasByO6sDnqnG3mSoVjH) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [High Beaming](https://open.spotify.com/album/3oHY7GXtZp2EDsCiBhEDvY) | 3:34 |
 
-Snapshot ID: `AAAAADnEqv93Kur2J3a83NmTkGuCny78`
+Snapshot ID: `AAAAAGCWZUlz11Js65YoXtMhvclQaqOP`

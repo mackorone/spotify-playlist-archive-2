@@ -1,12 +1,12 @@
 {
   "description": "The most unforgettable love songs from the 80s.",
-  "num_followers": 2613405,
+  "num_followers": 2613413,
   "original_name": "80s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH+EesyuYbk/PEs+ZTTk+zaXeUAm",
+  "snapshot_id": "AAAAAAQmXIQrqQQKOA7gJA4RSUnXu9mr",
   "tracks": [
     {
       "added_at": "2026-02-25 17:39:27",
@@ -603,26 +603,6 @@
     {
       "added_at": "2026-02-25 17:39:27",
       "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        },
-        {
-          "name": "Siedah Garrett",
-          "url": "https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT"
-        }
-      ],
-      "duration_ms": 253784,
-      "name": "I Just Can't Stop Loving You (feat. Siedah Garrett) - 2012 Remaster",
-      "url": "https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm"
-    },
-    {
-      "added_at": "2026-02-25 17:39:27",
-      "album": {
         "name": "Chinese Wall",
         "url": "https://open.spotify.com/album/1F6HoOK69lMDIb3ujvwlTX"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 304506,
       "name": "Easy Lover",
       "url": "https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf"
+    },
+    {
+      "added_at": "2026-02-25 17:39:27",
+      "album": {
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
+        {
+          "name": "Siedah Garrett",
+          "url": "https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT"
+        }
+      ],
+      "duration_ms": 253784,
+      "name": "I Just Can't Stop Loving You (feat. Siedah Garrett) - 2012 Remaster",
+      "url": "https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm"
     },
     {
       "added_at": "2026-02-25 17:39:27",

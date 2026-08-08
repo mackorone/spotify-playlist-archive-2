@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 71818,
+  "num_followers": 71817,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAACgwJBWrdatKS+2VwFoWEJs",
+  "snapshot_id": "anPOgAAAAADWcbQ1rN5DPGJqHraQazNe",
   "tracks": [
     {
       "added_at": null,
@@ -203,26 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/312IUwFHyqdRyZ9Kx8ErXv"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 204593,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/7zVIFnJMkXrYfxnBJxQtNF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Like Home",
         "url": "https://open.spotify.com/album/0ucms0CpXIm7QLiHAGDCuW"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 200156,
       "name": "Like Home - Radio Edit",
       "url": "https://open.spotify.com/track/5FV75TYvdP3UzXHzE2veFL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/312IUwFHyqdRyZ9Kx8ErXv"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 204593,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/7zVIFnJMkXrYfxnBJxQtNF"
     },
     {
       "added_at": null,
@@ -427,30 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Wanna Dance",
-        "url": "https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 198805,
-      "name": "I Wanna Dance",
-      "url": "https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stargazing",
         "url": "https://open.spotify.com/album/05nQu4HN54vSMx506ajfrC"
       },
@@ -475,26 +451,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/3b9BQMfHHnjSGrBOV30qp6"
+        "name": "I Wanna Dance",
+        "url": "https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl"
       },
       "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
         {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "Deniz Koyu",
-          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
-        },
-        {
-          "name": "Walk off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
         }
       ],
-      "duration_ms": 215336,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/6N6BTxTwykM2YI06SeL1ap"
+      "duration_ms": 198805,
+      "name": "I Wanna Dance",
+      "url": "https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK"
     },
     {
       "added_at": null,
@@ -519,6 +495,30 @@
       "duration_ms": 182950,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/4Ld9Wvjpj1IOAIbnNy07AP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/3b9BQMfHHnjSGrBOV30qp6"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        },
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "duration_ms": 215336,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6N6BTxTwykM2YI06SeL1ap"
     },
     {
       "added_at": null,
@@ -863,6 +863,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Waiting For Me",
+        "url": "https://open.spotify.com/album/7AmzbrQgJx0ziEaObGoyR5"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Louis III",
+          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 138102,
+      "name": "Waiting For Me",
+      "url": "https://open.spotify.com/track/69FsZtKV3syfUMApe92Spf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Euphoria (with Alok) [Remixes]",
         "url": "https://open.spotify.com/album/6GtBFfPxRTQSOWUz6Pta2O"
       },
@@ -891,30 +915,6 @@
       "duration_ms": 226153,
       "name": "Euphoria (with Alok) - Nicky Romero Remix",
       "url": "https://open.spotify.com/track/6d0duxbMzPZJ4t0510fqhI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Waiting For Me",
-        "url": "https://open.spotify.com/album/7AmzbrQgJx0ziEaObGoyR5"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "Louis III",
-          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 138102,
-      "name": "Waiting For Me",
-      "url": "https://open.spotify.com/track/69FsZtKV3syfUMApe92Spf"
     },
     {
       "added_at": null,

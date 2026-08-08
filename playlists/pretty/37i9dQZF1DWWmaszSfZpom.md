@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,535 likes - 93 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,538 likes - 93 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 92 | [Bota pra Tremer \- Remix](https://open.spotify.com/track/7mxJfqH9F3GmgS0YbaKzUA) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [REMIXES!](https://open.spotify.com/album/48tCnhhdxuroW88LjTrIhH) | 1:48 |
 | 93 | [Devagarinho \- Remix](https://open.spotify.com/track/2XWIK4pG9LNstHUAZqZCV9) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Dennis Dj Apresenta: Funk Now](https://open.spotify.com/album/0do59jY4QowP4C8MkRlvz5) | 2:15 |
 
-Snapshot ID: `AAAAAAHsXEOgzBSA6ZbTnpRJc2ItOUjr`
+Snapshot ID: `AAAAADuqRNce38ZvOQfib5yTqTsBjD+2`

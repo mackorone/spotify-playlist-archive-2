@@ -1,12 +1,12 @@
 {
   "description": "The best new electronic music. Cover: Amelie Lens,  Ang\u00e8le\n",
-  "num_followers": 754011,
+  "num_followers": 754112,
   "original_name": "Electronic Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEujcnkGBIXxGIvboqOSNe4DxOrB",
+  "snapshot_id": "AAAAABlgZ03TEfVJznIiwFIaNylVm1+P",
   "tracks": [
     {
       "added_at": "2026-08-06 22:01:27",
@@ -148,8 +148,8 @@
           "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 232306,
+      "name": "this is the moment (cuerpo)",
       "url": "https://open.spotify.com/track/1AF9gqUhT9jyOHDzDUTZMc"
     },
     {
@@ -234,10 +234,18 @@
         {
           "name": "Alan Fitzpatrick",
           "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        },
+        {
+          "name": "Piem",
+          "url": "https://open.spotify.com/artist/08st4VKj9jjZJ5eKzAOHq8"
+        },
+        {
+          "name": "SLM",
+          "url": "https://open.spotify.com/artist/7CEy8XnNrNtDipTl5aYt9T"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 196744,
+      "name": "Questions",
       "url": "https://open.spotify.com/track/7dGiRNwZUp7vjY7vpmNAG5"
     },
     {

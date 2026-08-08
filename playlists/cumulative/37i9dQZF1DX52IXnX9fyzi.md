@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-586 songs - 1 day 1 hr 12 min
+589 songs - 1 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Heal](https://open.spotify.com/track/2fxcZyta2BeXV92mae22B3) | [Pieter Savenberg](https://open.spotify.com/artist/2S4k9mN8c0AUrenisHLpNp) | [Duality](https://open.spotify.com/album/69L1ipjKws5rY7QuECAicd) | 2:09 | 2022-05-26 | 2025-04-10 |
 | [Heartfelt](https://open.spotify.com/track/7hoho5MSIQZfluHupiNuq1) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Heartfelt](https://open.spotify.com/album/4n944iZef2VPY0Ahfnc8J9) | 2:16 | 2022-04-14 | 2022-05-14 |
 | [Heartsease](https://open.spotify.com/track/2VqdRIXLDBYtDHLBvWw0p4) | [Nadia Oak](https://open.spotify.com/artist/69kmTV1Yq4nmkwlrYSYeMa) | [Heartsease](https://open.spotify.com/album/2jVOyTHvkQHSQ0Y19arpqE) | 2:25 | 2022-09-13 | 2026-02-11 |
+| [Heather](https://open.spotify.com/track/5TeE1E52WeSDEsuE9jTWsQ) | [Celestial Aria](https://open.spotify.com/artist/3qpSThwNv7Jdfo1FLFaRKr) | [Heather](https://open.spotify.com/album/34rNjPWv9BJiWvqFXkiNKQ) | 3:31 | 2026-08-07 |  |
 | [Held between moments](https://open.spotify.com/track/72eJj4g5vJMWiIecEFjrbK) | [Justin Dell](https://open.spotify.com/artist/7nQzEyE1TWkfthJfE0fs43) | [Held between moments](https://open.spotify.com/album/5AYiyEIkW7p31Gn7xx6QQc) | 2:36 | 2026-02-10 |  |
 | [Hidden poetry](https://open.spotify.com/track/3KlDABftWLOMxlQUTkRmJI) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Hidden poetry](https://open.spotify.com/album/3hn4kKodyid2wx4agXY3rM) | 2:19 | 2023-10-24 | 2025-05-01 |
 | [Hind \- Voiceless \- Harpa Sessions](https://open.spotify.com/track/3xgrIw8JY1aqdD5yNAB5OH) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Hind / Aska \(Harpa Sessions\)](https://open.spotify.com/album/4wMVESeu9wtxdBBUteIKV2) | 1:38 | 2022-10-26 | 2024-02-03 |
@@ -349,6 +350,7 @@
 | [Nostalgia](https://open.spotify.com/track/2VLZp2Z7FLrkn2ysVgZGKY) | [Jacob Hall](https://open.spotify.com/artist/3QbJuIiSnvn9BHetzinMUM) | [Nostalgia](https://open.spotify.com/album/4tradG5YoXryCru3ftThli) | 2:12 | 2023-10-04 |  |
 | [Notes in the Distance](https://open.spotify.com/track/4VJZdPRBGUc2umlo43Q1Lf) | [Dave Sherman](https://open.spotify.com/artist/7p9avjMf6a7ZqxS011oeuO) | [Notes in the Distance](https://open.spotify.com/album/5sGxD9X76SonZy66wQBJ74) | 2:12 | 2025-09-16 |  |
 | [Now That You're Gone](https://open.spotify.com/track/4yfqgvcwevluJTGZ8odPYC) | [Art Bandini](https://open.spotify.com/artist/5qCbYD7FoGfRfi4UpgiVko) | [Now That You're Gone](https://open.spotify.com/album/4Y4chbdc4rcDnHFdCyz5WA) | 2:15 | 2023-08-22 | 2025-01-08 |
+| [nowhere else](https://open.spotify.com/track/73Uy9DIK3gFyn2pWWZbLYp) | [émil caron](https://open.spotify.com/artist/3CIclunycRScwkcMOLYh2d) | [nowhere else](https://open.spotify.com/album/0VvkldNa25Ucx31S9SkP3l) | 2:37 | 2026-08-07 |  |
 | [Numéro 13](https://open.spotify.com/track/6aXG0T4NOzpWGskxokvXHL) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Numéro 13](https://open.spotify.com/album/1bzvnR1w0tPL7pjZUiTXWb) | 2:18 | 2022-08-30 | 2024-10-23 |
 | [Nuxe](https://open.spotify.com/track/6h0V5bM7dDmwvrrmqHVlPE) | [Valla](https://open.spotify.com/artist/1nrQ489GYy77LqrmBOmtfh) | [lachlan](https://open.spotify.com/album/4upy9Hil2WVSEwu8eYEVWB) | 2:18 | 2022-12-22 | 2023-05-10 |
 | [Nyári séta](https://open.spotify.com/track/7CgSotbNO8YesINbIWsmaV) | [Bodor Vencel](https://open.spotify.com/artist/2XFPANK6NB66NDXFkLqfIF) | [Gyere velem](https://open.spotify.com/album/7zzn1Mlpv7S8SY8t80qR9H) | 2:13 | 2022-07-15 | 2025-04-10 |
@@ -498,6 +500,7 @@
 | [The Song Within](https://open.spotify.com/track/725oGRYkD3w6Fo1sp3rcG2) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [The Song Within](https://open.spotify.com/album/3D8JLUtWZJNstoThwui66A) | 2:52 | 2024-02-14 | 2026-08-01 |
 | [The Sound of Snow](https://open.spotify.com/track/2x90SHtWXagGmY5w0HVx1i) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [The Sound Of Snow](https://open.spotify.com/album/0WIVuD9M706cCtCSTGCFZY) | 2:35 | 2023-11-21 | 2026-02-11 |
 | [The Still](https://open.spotify.com/track/17C3G5g7bBxxRAe6XVWxHA) | [Erinthe](https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M) | [The Still](https://open.spotify.com/album/06eRSftUdtz4u5Zx9s7Ywc) | 2:09 | 2024-04-03 | 2026-05-23 |
+| [The Vital Spark](https://open.spotify.com/track/2ZFSfom84PrXCMokNB4MfU) | [Rombos Aran](https://open.spotify.com/artist/5urp8Oh8Gq6I7H53TgRjpi) | [The Vital Spark](https://open.spotify.com/album/447pD8DdZkAdw2pkn1KGWa) | 2:27 | 2026-08-07 |  |
 | [The Window](https://open.spotify.com/track/3HgFU2c59Il95DTMbv8NVO) | [OKSYO](https://open.spotify.com/artist/302vZHawaH0lS8ZExheGih) | [The Window](https://open.spotify.com/album/2FbcLAuBQwPwXss76SKQh8) | 2:29 | 2026-05-15 |  |
 | [Then I Saw You](https://open.spotify.com/track/7JdPDRXShJjWBhtZGDdgFx) | [Theordor Wessman](https://open.spotify.com/artist/0PakiWNpTSBhrIdGmVW9PA) | [Then I Saw You](https://open.spotify.com/album/11e0Rf3uYRPR4nQUOqKpOQ) | 3:06 | 2023-10-24 | 2025-01-08 |
 | [There Is Light](https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [There Is Light](https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg) | 2:58 | 2024-02-14 |  |

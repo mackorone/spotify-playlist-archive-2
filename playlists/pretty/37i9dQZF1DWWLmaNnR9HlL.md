@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 
 > La banda sonora para tus cenas en casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,971 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,937 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 75 | [Jesus, Etc.](https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:51 |
 | 76 | [Beggin'](https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru) | [The Four Seasons](https://open.spotify.com/artist/4uHsvbEomrfo1KXllQ9K3s) | [New Gold Hits](https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY) | 2:50 |
 | 77 | [Entre Dos Aguas](https://open.spotify.com/track/0bV0jAPUTN9xdVcW0nFos2) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw) | [Entre Dos Aguas](https://open.spotify.com/album/0gngm3t4XbkoINeHU4Pc6R) | 6:02 |
-| 78 | [Hang on Little Tomato](https://open.spotify.com/track/3Np6QCfJumv3C09gt3Iuxd) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ), [China Forbes](https://open.spotify.com/artist/3eBVmYkS103Lfh4IPH0H9A), [Thomas M\. Lauderdale](https://open.spotify.com/artist/6YTL8wArPzRzIUAIT7N80O), [Patrick Abbey](https://open.spotify.com/artist/656bsqVbqXfpSVH4L8kKim) | [Hang on Little Tomato](https://open.spotify.com/album/6DDLD8lHmQEXWRAnghp7io) | 3:16 |
-| 79 | [Somewhere Over The Rainbow \- Bossa Version](https://open.spotify.com/track/0n2I6f8lJ1BY0vNWPwOA8K) | [Olga Chung](https://open.spotify.com/artist/6UUbraIaaBKQGCZoSOmn0S) | [Bossa Nova Lounge](https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv) | 3:24 |
+| 78 | [Somewhere Over The Rainbow \- Bossa Version](https://open.spotify.com/track/0n2I6f8lJ1BY0vNWPwOA8K) | [Olga Chung](https://open.spotify.com/artist/6UUbraIaaBKQGCZoSOmn0S) | [Bossa Nova Lounge](https://open.spotify.com/album/2towbkhxHCPKLsyQuealHv) | 3:24 |
+| 79 | [Hang on Little Tomato](https://open.spotify.com/track/3Np6QCfJumv3C09gt3Iuxd) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ), [China Forbes](https://open.spotify.com/artist/3eBVmYkS103Lfh4IPH0H9A), [Thomas M\. Lauderdale](https://open.spotify.com/artist/6YTL8wArPzRzIUAIT7N80O), [Patrick Abbey](https://open.spotify.com/artist/656bsqVbqXfpSVH4L8kKim) | [Hang on Little Tomato](https://open.spotify.com/album/6DDLD8lHmQEXWRAnghp7io) | 3:16 |
 | 80 | [Cry to Me](https://open.spotify.com/track/1tYk5zABu6h8CMP1cSea56) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Solomon Burke's Greatest Hits](https://open.spotify.com/album/5wbo06FU4VwIgA0CdfJXI4) | 2:34 |
 | 81 | [Volver](https://open.spotify.com/track/1uhQ3H3TSDX9Bq9Oz6uHWV) | [Estrella Morente](https://open.spotify.com/artist/5gKJbL392PiokTPUoL7N6D) | [Mujeres](https://open.spotify.com/album/5oE1VEtOYkkJJiRkZ7KbgB) | 3:37 |
 | 82 | [Lágrimas negras](https://open.spotify.com/track/2G6bY2enGuwmluoAAMQ0mj) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Coleccion](https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp) | 3:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 99 | [Havana \- Bossa Nova](https://open.spotify.com/track/0Tl1pHPHtn8WHMakC5VrVM) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Jacira](https://open.spotify.com/artist/5OcIpjam1QtlWktCiKGNzd), [makita](https://open.spotify.com/artist/3ozTbB0bc4emEQAZVipNgT) | [Havana \(Bossa Nova\)](https://open.spotify.com/album/3b3HGOoRb1eTmI6ilMRvWG) | 4:10 |
 | 100 | [La Fugitiva \(with Kevin Johansen\)](https://open.spotify.com/track/1jmDkMtuAQJgSiN9AulFcx) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 3:14 |
 
-Snapshot ID: `AAAAAGlgSWoSCdqczYBah8hSc0fyzA2h`
+Snapshot ID: `AAAAAPy0EP+htCWymnbsEcAr5nNp1ryg`

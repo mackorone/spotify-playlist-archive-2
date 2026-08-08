@@ -4,7 +4,7 @@
 
 > C'est parti pour une bonne journée.
 
-308 songs - 19 hr 5 min
+309 songs - 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Homegrown](https://open.spotify.com/track/574uSIfe7tTBLCFjN38vij) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [All We've Known](https://open.spotify.com/album/70ZgNr9ZbfPqaOn0gfA50A) | 4:02 | 2023-12-13 | 2024-04-19 |
 | [Homegrown](https://open.spotify.com/track/6LGoGD6GV9BadApTSaUqcv) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [All We've Known](https://open.spotify.com/album/5kFNVejPETepNP6mrsoeox) | 4:02 | 2023-07-03 | 2023-10-16 |
 | [How Can I Do](https://open.spotify.com/track/50jue4YbgKXI4W27A7mAGx) | [Anwar](https://open.spotify.com/artist/0NXESLEJPcyXznlxQGxiud) | [Beautiful Sunrise](https://open.spotify.com/album/582V2xU2XzvbL1nNuB6SQV) | 4:55 | 2023-02-21 | 2025-05-23 |
+| [How Much Does It Take To Shift It All](https://open.spotify.com/track/0TgQDtN4IGHpUdAl97rXww) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [How Much Does It Take To Shift It All](https://open.spotify.com/album/4Mttw5x47ye4BjX9zrVdKv) | 2:33 | 2026-07-31 |  |
 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 | 2023-09-28 | 2025-04-16 |
 | [I Do](https://open.spotify.com/track/3uDEamEvGTIcuZiwYtCWG1) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [All Love Everything \(Deluxe\)](https://open.spotify.com/album/7xUEy3UR5uGEv3JvfrXKdb) | 3:37 | 2023-12-13 | 2024-03-28 |
 | [I Do](https://open.spotify.com/track/5UGsdm9LW7qzoOKuwFtFjT) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [All Love Everything \(Deluxe\)](https://open.spotify.com/album/2oA8BwC6GV58z35khUb1Tx) | 3:37 | 2023-07-27 | 2023-08-23 |
@@ -236,7 +237,7 @@
 | [Some Birds Don't Fly](https://open.spotify.com/track/3zUh0LEFrPjlnKUm3krD8C) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Some Birds Don't Fly](https://open.spotify.com/album/28GN4GapBzVeGu3fcYOTRo) | 3:26 | 2026-05-28 |  |
 | [Somebody To You](https://open.spotify.com/track/7oBgMg32SnVnS3IIbqf8AE) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Somebody To You](https://open.spotify.com/album/7Eg9y2rEHezE1vaK57eULG) | 2:57 | 2025-09-18 | 2026-01-15 |
 | [Sooner](https://open.spotify.com/track/30RggWBun99ELYfeCaQ0Dw) | [Waves](https://open.spotify.com/artist/6OAt6nE577DixeDhfNFVkH), [Artistic Palace](https://open.spotify.com/artist/1JOgYdFUQOpNlAq7oetsmK) | [Sooner](https://open.spotify.com/album/2kI8sTprcpyySpmMQEAJDR) | 3:27 | 2026-01-08 | 2026-02-20 |
-| [Souls x Mates](https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo) | [Dandi Noxx](https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz) | [Souls x Mates](https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA) | 3:51 | 2025-06-26 |  |
+| [Souls x Mates](https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo) | [Dandi Noxx](https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz) | [Souls x Mates](https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA) | 3:51 | 2025-06-26 | 2026-08-08 |
 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 | 2023-12-13 | 2025-04-16 |
 | [Spring Into Summer](https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 4:22 | 2025-05-22 | 2025-09-19 |
 | [Still In Love](https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Still In Love](https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS) | 2:41 | 2025-04-15 |  |

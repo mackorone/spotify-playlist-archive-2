@@ -1,12 +1,12 @@
 {
   "description": "Jean Sibelius: Finnish hero, notorious lobster enthusiast, and composer of truly monumental music. Discover his famous works in this essential playlist.",
-  "num_followers": 32373,
+  "num_followers": 32377,
   "original_name": "This Is Sibelius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHVswXeczuahlm7c4A9bAnJz+ELD",
+  "snapshot_id": "AAAAACiFErxyQDjqyJ2xaNnT27PYkdt3",
   "tracks": [
     {
       "added_at": "2025-12-15 12:16:59",
@@ -435,30 +435,6 @@
     {
       "added_at": "2025-12-15 12:16:59",
       "album": {
-        "name": "Sibelius: Essentials",
-        "url": "https://open.spotify.com/album/02VIadxooZpaFfKNDQomCM"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Gothenburg Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
-        },
-        {
-          "name": "Neeme J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
-        }
-      ],
-      "duration_ms": 727409,
-      "name": "Pohjola's Daughter, Op. 49",
-      "url": "https://open.spotify.com/track/4sOlhYFDDSdsHiQQMqReZu"
-    },
-    {
-      "added_at": "2025-12-15 12:16:59",
-      "album": {
         "name": "Grieg & Sibelius : Orchestral Songs",
         "url": "https://open.spotify.com/album/21FnafVuFwae4ciZcmf01t"
       },
@@ -487,8 +463,8 @@
     {
       "added_at": "2025-12-15 12:16:59",
       "album": {
-        "name": "Intimate Voices: Grieg, Nielsen, Sibelius",
-        "url": "https://open.spotify.com/album/7c0bdLGF2HeDHobb6xahAU"
+        "name": "Sibelius: Essentials",
+        "url": "https://open.spotify.com/album/02VIadxooZpaFfKNDQomCM"
       },
       "artists": [
         {
@@ -496,13 +472,17 @@
           "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
         },
         {
-          "name": "Emerson String Quartet",
-          "url": "https://open.spotify.com/artist/4IBl8k6ZsBagsI5zRjyXH7"
+          "name": "Gothenburg Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
         }
       ],
-      "duration_ms": 516200,
-      "name": "String Quartet in D Minor, Op. 56 \"Voces intimae\": III. Adagio di molto",
-      "url": "https://open.spotify.com/track/1qgDeM1iMOEP2yoRJ6tMqo"
+      "duration_ms": 727409,
+      "name": "Pohjola's Daughter, Op. 49",
+      "url": "https://open.spotify.com/track/4sOlhYFDDSdsHiQQMqReZu"
     },
     {
       "added_at": "2025-12-15 12:16:59",
@@ -527,8 +507,8 @@
     {
       "added_at": "2025-12-15 12:16:59",
       "album": {
-        "name": "Sibelius Piano Works",
-        "url": "https://open.spotify.com/album/7azglOe1PUdjuomHyXH2DO"
+        "name": "Intimate Voices: Grieg, Nielsen, Sibelius",
+        "url": "https://open.spotify.com/album/7c0bdLGF2HeDHobb6xahAU"
       },
       "artists": [
         {
@@ -536,13 +516,13 @@
           "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
         },
         {
-          "name": "Janne Mertanen",
-          "url": "https://open.spotify.com/artist/2qYhukUeIDcRRtE7CsqA8V"
+          "name": "Emerson String Quartet",
+          "url": "https://open.spotify.com/artist/4IBl8k6ZsBagsI5zRjyXH7"
         }
       ],
-      "duration_ms": 209880,
-      "name": "Ten Pieces, Op. 24: Idyll, Op. 24: No. 6",
-      "url": "https://open.spotify.com/track/2qvjgKcSEDndhfQyWRadRU"
+      "duration_ms": 516200,
+      "name": "String Quartet in D Minor, Op. 56 \"Voces intimae\": III. Adagio di molto",
+      "url": "https://open.spotify.com/track/1qgDeM1iMOEP2yoRJ6tMqo"
     },
     {
       "added_at": "2025-12-15 12:16:59",
@@ -571,6 +551,26 @@
       "duration_ms": 267962,
       "name": "Suite for Violin and String Orchestra, JS 185: II. Evening in Spring - Live",
       "url": "https://open.spotify.com/track/2zUwZxKDexOexKkQPHDqs6"
+    },
+    {
+      "added_at": "2025-12-15 12:16:59",
+      "album": {
+        "name": "Sibelius Piano Works",
+        "url": "https://open.spotify.com/album/7azglOe1PUdjuomHyXH2DO"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Janne Mertanen",
+          "url": "https://open.spotify.com/artist/2qYhukUeIDcRRtE7CsqA8V"
+        }
+      ],
+      "duration_ms": 209880,
+      "name": "Ten Pieces, Op. 24: Idyll, Op. 24: No. 6",
+      "url": "https://open.spotify.com/track/2qvjgKcSEDndhfQyWRadRU"
     },
     {
       "added_at": "2025-12-15 12:16:59",
@@ -711,26 +711,6 @@
     {
       "added_at": "2025-12-15 12:16:59",
       "album": {
-        "name": "Intimate Voices: Grieg, Nielsen, Sibelius",
-        "url": "https://open.spotify.com/album/7c0bdLGF2HeDHobb6xahAU"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Emerson String Quartet",
-          "url": "https://open.spotify.com/artist/4IBl8k6ZsBagsI5zRjyXH7"
-        }
-      ],
-      "duration_ms": 149093,
-      "name": "String Quartet in D Minor, Op. 56 \"Voces intimae\": II. Vivace",
-      "url": "https://open.spotify.com/track/7CBAYws0XMc8xNr7ylploe"
-    },
-    {
-      "added_at": "2025-12-15 12:16:59",
-      "album": {
         "name": "Sibelius Piano Works",
         "url": "https://open.spotify.com/album/7azglOe1PUdjuomHyXH2DO"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 209893,
       "name": "Ten Pieces, Op. 24: Nocturno Op. 24: No. 8",
       "url": "https://open.spotify.com/track/1eGxfn4HNrxee4x1uY0yfv"
+    },
+    {
+      "added_at": "2025-12-15 12:16:59",
+      "album": {
+        "name": "Intimate Voices: Grieg, Nielsen, Sibelius",
+        "url": "https://open.spotify.com/album/7c0bdLGF2HeDHobb6xahAU"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Emerson String Quartet",
+          "url": "https://open.spotify.com/artist/4IBl8k6ZsBagsI5zRjyXH7"
+        }
+      ],
+      "duration_ms": 149093,
+      "name": "String Quartet in D Minor, Op. 56 \"Voces intimae\": II. Vivace",
+      "url": "https://open.spotify.com/track/7CBAYws0XMc8xNr7ylploe"
     },
     {
       "added_at": "2025-12-15 12:16:59",

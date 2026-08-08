@@ -4,7 +4,7 @@
 
 > 
 
-8,787 songs - 22 day 8 hr 35 min
+8,790 songs - 22 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8112,6 +8112,7 @@
 | [嘘の火花](https://open.spotify.com/track/2SrAPLLBpIzVv7y1Cng63K) | [Kuroneko](https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p) | [嘘の火花 \(Special Edition\)](https://open.spotify.com/album/0l7jwt10x92VsNQdBgiKfC) | 3:43 | 2025-01-03 |  |
 | [嘘月](https://open.spotify.com/track/4MwVirVMyerMiHkFomOZay) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [創作](https://open.spotify.com/album/3BnM7AuvYkREVqNTPIxTRH) | 4:50 | 2025-01-15 |  |
 | [地球儀](https://open.spotify.com/track/6NffEVuGbmTvIpfSS93aMU) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [地球儀](https://open.spotify.com/album/486yrlQRriPBlck0MpnNRA) | 3:52 | 2024-12-05 |  |
+| [堕天 \(Cover\)](https://open.spotify.com/track/5GGEx5ZSRaX6QaazJCnFcn) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [バンドリ！ カバーコレクション Extra Volume](https://open.spotify.com/album/1cGcrwckGaF4B8zKFH4kEb) | 3:03 | 2026-08-07 |  |
 | [夏に散らした小さな恋](https://open.spotify.com/track/2p250Re1mT8foIzIoIUO19) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [残光](https://open.spotify.com/album/6yXvLJMTXfEiZVpk6o3No2) | 5:23 | 2025-01-03 |  |
 | [夏のまぼろし feat.ま に こ](https://open.spotify.com/track/4IG9I3S9xtWgXCdAXu1a7l) | [H△G](https://open.spotify.com/artist/7GsiDAKduqD0ezEeOWeldb), [ま に こ](https://open.spotify.com/artist/07D23hOscfSpiiZOLnpYtc) | [瞬きもせずに+](https://open.spotify.com/album/3hC5R5c8svH8T9qkHJDoqv) | 3:55 | 2025-11-04 |  |
 | [夏の在りか](https://open.spotify.com/track/3ly8fK8Fs0P0aOUS781xHf) | [H△G](https://open.spotify.com/artist/7GsiDAKduqD0ezEeOWeldb) | [夏の在りか](https://open.spotify.com/album/2Pb5Cm2HyP8vCVGoB7A1Wz) | 4:55 | 2025-01-03 |  |
@@ -8283,6 +8284,7 @@
 | [片っぽ](https://open.spotify.com/track/2zJ8finKxG3so4wDz59ASx) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [LOVE/LIKE/HATE](https://open.spotify.com/album/6o54CCBkUg46egcmBrHpIC) | 3:42 | 2025-01-03 |  |
 | [狂乱 Hey Kids!! \(Cover\)](https://open.spotify.com/track/5SIm184VJwJJPs6sbJ7gIm) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [バンドリ！ ガールズバンドパーティ！ カバーコレクションVol.8](https://open.spotify.com/album/38o1zf06XMEF0St6ok3PvI) | 4:09 | 2025-12-07 |  |
 | [独白](https://open.spotify.com/track/0EezPZ1SeEqTefiP6KXJva) | [H△G](https://open.spotify.com/artist/7GsiDAKduqD0ezEeOWeldb) | [青色フィルム](https://open.spotify.com/album/3MNnaWc6SGzYMT9abpQl4X) | 3:52 | 2025-01-03 |  |
+| [猛独が襲う \(Cover\)](https://open.spotify.com/track/4UlTmk7DfT7QlatUZUiuV7) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [バンドリ！ カバーコレクション Extra Volume](https://open.spotify.com/album/1cGcrwckGaF4B8zKFH4kEb) | 4:14 | 2026-08-07 |  |
 | [猫](https://open.spotify.com/track/6sIx7Cn37DGEhjy9hBP8Gx) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [僕たちがやりました](https://open.spotify.com/album/0jf58OGRFXs8NG5hcUCJb0) | 4:36 | 2025-01-03 |  |
 | [猫 〜THE FIRST TAKE ver.〜](https://open.spotify.com/track/38qQqIxE80HGZWbhCfN7hp) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [猫 〜THE FIRST TAKE ver.〜](https://open.spotify.com/album/6WSd8Dg4VqFhLMrrm0fLtm) | 4:33 | 2025-01-03 |  |
 | [生業](https://open.spotify.com/track/58KGAtwfY66hOMKJdK51Le) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [よふかしのうた](https://open.spotify.com/album/6peWfaCCNUTETgugcpNHed) | 3:52 | 2025-05-26 |  |
@@ -8411,6 +8413,7 @@
 | [青空のラプソディ](https://open.spotify.com/track/3YCdQK47w0Y3iLe7DCP8QZ) | [fhána](https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv) | [World Atlas](https://open.spotify.com/album/0xdILuOFDT1hMYjXYMwrWY) | 4:37 | 2025-01-03 |  |
 | [青空のラプソディ \(Cover\)](https://open.spotify.com/track/35nCjEZZjLGcwPdcOuHdKE) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [バンドリ！ ガールズバンドパーティ！ カバーコレクションVol.8](https://open.spotify.com/album/38o1zf06XMEF0St6ok3PvI) | 4:37 | 2025-12-07 |  |
 | [青空のラプソディ \- Cover](https://open.spotify.com/track/5msWPqgbn15uUeA2T2WuYD) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ), [fhána](https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv) | [バンドリ！ ガールズバンドパーティ！ カバーコレクションVol.8](https://open.spotify.com/album/0XItoAX0PgQGz9676FKNSh) | 4:37 | 2025-12-07 |  |
+| [顔](https://open.spotify.com/track/6MtEzxuKMIDEXcKoUGJjy1) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [Completeness](https://open.spotify.com/album/5i7bsC8RBELXhGeMViNwZX) | 4:02 | 2026-08-07 |  |
 | [願い](https://open.spotify.com/track/0ophTl8mevsVgtH7V0XV0g) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Negai / Higher Ground](https://open.spotify.com/album/4mYuDFiHBRDKA6O7yTEyV9) | 5:10 | 2026-02-20 |  |
 | [風の声を聴きながら](https://open.spotify.com/track/0jeeMn9Ct2lulZsbWA1oFv) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [風の声を聴きながら / コラージュ](https://open.spotify.com/album/684y2dviUajNwOktZJuUnV) | 4:02 | 2025-01-15 |  |
 | [風を食む](https://open.spotify.com/track/68OYaxreTGmAuD9cAztr2p) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [風を食む](https://open.spotify.com/album/2DLy9De7JWCiNVLk0IAHIJ) | 4:29 | 2025-01-15 |  |

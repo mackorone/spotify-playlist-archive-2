@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Acropolis",
+        "url": "https://open.spotify.com/album/33UdAsiRpjwn3UdauMrT0n"
+      },
+      "artists": [
+        {
+          "name": "gabriel",
+          "url": "https://open.spotify.com/artist/0Hm7cDeuRoPAqqRfnHYpu2"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174107,
+      "name": "Acropolis",
+      "url": "https://open.spotify.com/track/2hpVQBayFqLoNKO6XKnDGn"
+    },
+    {
+      "album": {
         "name": "All Over",
         "url": "https://open.spotify.com/album/390p2gSBx7nYnneguRlwn9"
       },
@@ -122,6 +140,24 @@
       "duration_ms": 300011,
       "name": "All Over",
       "url": "https://open.spotify.com/track/3J5cXnEVsVLcQCE5ImlXhg"
+    },
+    {
+      "album": {
+        "name": "Always Lovin",
+        "url": "https://open.spotify.com/album/3cFKjcFAu2te0pSOmfPXag"
+      },
+      "artists": [
+        {
+          "name": "Bienk",
+          "url": "https://open.spotify.com/artist/5knpBDWYqKF6j0pWtM2txp"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208524,
+      "name": "Always Lovin",
+      "url": "https://open.spotify.com/track/0Pvh7YW6yVwNWn8pFXk8SZ"
     },
     {
       "album": {
@@ -2396,7 +2432,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 183994,
       "name": "JFK Jr.",
       "url": "https://open.spotify.com/track/6QAlmU7YPm15JdZ8NJ9jFx"
@@ -3018,7 +3054,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 108788,
       "name": "Missing u",
       "url": "https://open.spotify.com/track/773lfCbUHbFc0WsCJftePE"

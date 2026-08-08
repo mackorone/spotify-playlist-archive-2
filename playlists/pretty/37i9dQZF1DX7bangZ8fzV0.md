@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek! Omslag: Karlien Van Jaarsveld en Zaan Sonnekus
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,205 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,271 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 41 | [Daai Gevoel](https://open.spotify.com/track/04DsO0XoYGNDACYf3k3BoC) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [Daai Gevoel](https://open.spotify.com/album/7EsYIKwbw2huLtVoNxhNpF) | 3:11 |
 | 42 | [NIE MÔRE NIE NOU](https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [NIE MÔRE NIE NOU](https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv) | 2:38 |
 | 43 | [Tina Tequila](https://open.spotify.com/track/2PYRlFXrmNfaZbZNzy8AZP) | [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J) | [Tina Tequila](https://open.spotify.com/album/6GzJ2540kUZMNhARYbKL61) | 3:21 |
-| 44 | [Sink In Die Hemel In](https://open.spotify.com/track/2GAksPn9Omb2JusaztzY6V) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Sink In Die Hemel In](https://open.spotify.com/album/6LqkflOHAHzsQSxaOrbfcU) | 3:07 |
+| 44 | [Belowe](https://open.spotify.com/track/3v9Ahqz0mVTgRXEarkJpT3) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Belowe](https://open.spotify.com/album/1EM0JVWmvuphxNLonT2Zpn) | 3:36 |
 | 45 | [Vra Net Vir Jou](https://open.spotify.com/track/6n5dI8KlITx2vRvsm9ddF0) | [Gerhard Steyn](https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t) | [Vra Net Vir Jou](https://open.spotify.com/album/17qeeLEcYt674KEQuHs6em) | 3:28 |
-| 46 | [Belowe](https://open.spotify.com/track/3v9Ahqz0mVTgRXEarkJpT3) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Belowe](https://open.spotify.com/album/1EM0JVWmvuphxNLonT2Zpn) | 3:36 |
+| 46 | [Sink In Die Hemel In](https://open.spotify.com/track/2GAksPn9Omb2JusaztzY6V) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Sink In Die Hemel In](https://open.spotify.com/album/6LqkflOHAHzsQSxaOrbfcU) | 3:07 |
 | 47 | [Regte Plekke](https://open.spotify.com/track/2bANJniJ1ThjaLOvTfJTy1) | [Bobby Van Jaarsveld](https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD) | [Regte Plekke](https://open.spotify.com/album/5KzZjYynM9m6tpHyh5JAwS) | 3:09 |
 | 48 | [Hop Hop Spinnekop](https://open.spotify.com/track/4NG32lh3Z2wHxrDptfiQd3) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [100%](https://open.spotify.com/album/2axcE5ad6XVpFn0Szm2auS) | 3:00 |
 | 49 | [Lei My Na Die Water](https://open.spotify.com/track/15bXmhHbsXEYa6YKESByDH) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Lei My Na Die Water](https://open.spotify.com/album/30Y6Kmoq8Kz5Ua9JHnbVgQ) | 3:41 |
@@ -77,16 +77,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 67 | [Kom Klop Weer](https://open.spotify.com/track/47EtqjVFxnOCu7qK6c53h4) | [EDEN](https://open.spotify.com/artist/6ow8mYGgzgpcTKcSJzKCiu) | [Kom Klop Weer](https://open.spotify.com/album/0WOG7BXSflSIEor7Bj7vkc) | 2:55 |
 | 68 | [Hemel Op Tafelberg](https://open.spotify.com/track/2qXMMOyrVGWjFVlELz0r7P) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Hemel Op Tafelberg](https://open.spotify.com/album/2yCjrIoLIw0v350IBQIODH) | 3:44 |
 | 69 | [Mia](https://open.spotify.com/track/6fqNmXtn5MYZZYZwoxZSUx) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Die Piesangskille](https://open.spotify.com/album/1JcQPXPd5FDmCJ37nk6uXC) | 4:06 |
-| 70 | [Madelein](https://open.spotify.com/track/1xk3eXx6BqFD1cpfvGQjry) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Omdat Jy Mag](https://open.spotify.com/album/7LirHLS54ZKI9uw3lozUdt) | 3:33 |
+| 70 | [308](https://open.spotify.com/track/0DZD8tLGZ01RtIXtwuzSi8) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [308](https://open.spotify.com/album/431xgZhPXYTOQ4wEdAZ7xY) | 2:47 |
 | 71 | [Country Girl Van Bloem](https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Country Girl Van Bloem](https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N) | 2:56 |
-| 72 | [308](https://open.spotify.com/track/0DZD8tLGZ01RtIXtwuzSi8) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [308](https://open.spotify.com/album/431xgZhPXYTOQ4wEdAZ7xY) | 2:47 |
+| 72 | [Madelein](https://open.spotify.com/track/1xk3eXx6BqFD1cpfvGQjry) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Omdat Jy Mag](https://open.spotify.com/album/7LirHLS54ZKI9uw3lozUdt) | 3:33 |
 | 73 | [Kroeg Cowboys](https://open.spotify.com/track/0J3OJrSPHZhrWkYPkPzc2e) | [Fran Prins](https://open.spotify.com/artist/5zh2qxLSYvBzIPLMhVNfUv), [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Kroeg Cowboys](https://open.spotify.com/album/393Eoz9i0wmaUTEc6SH5Lc) | 3:07 |
 | 74 | [Winter In Die Kaap](https://open.spotify.com/track/5O21NlOGDR1DNcuAgpe8ch) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q), [Bella](https://open.spotify.com/artist/6KZghn76x4DQ8OMHh4ApGh) | [Winter In Die Kaap](https://open.spotify.com/album/1wvsM5dEyjnyLE4csBs5Hn) | 3:26 |
-| 75 | [Hart soos 'n Hilux](https://open.spotify.com/track/5vM3rmcbKvOILwE4TyYa1R) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Hart soos 'n Hilux](https://open.spotify.com/album/5p2LWBsu5tiu0O8Of4fvqR) | 3:48 |
-| 76 | [Meisie wat kan Vasdans](https://open.spotify.com/track/7gjLQZDJgPsZJNWu63PAdn) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Meisie wat kan Vasdans](https://open.spotify.com/album/4OGhDNthF0LKgkaKEKFmec) | 3:19 |
-| 77 | [Dis Raak](https://open.spotify.com/track/4lXuqZUIkJ66ViPHOFN86v) | [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ) | [Dis Raak](https://open.spotify.com/album/6dLkeTp5fa8hwL8GXVqpa1) | 3:33 |
+| 75 | [Meisie wat kan Vasdans](https://open.spotify.com/track/7gjLQZDJgPsZJNWu63PAdn) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Meisie wat kan Vasdans](https://open.spotify.com/album/4OGhDNthF0LKgkaKEKFmec) | 3:19 |
+| 76 | [Dis Raak](https://open.spotify.com/track/4lXuqZUIkJ66ViPHOFN86v) | [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ) | [Dis Raak](https://open.spotify.com/album/6dLkeTp5fa8hwL8GXVqpa1) | 3:33 |
+| 77 | [Hart soos 'n Hilux](https://open.spotify.com/track/5vM3rmcbKvOILwE4TyYa1R) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Hart soos 'n Hilux](https://open.spotify.com/album/5p2LWBsu5tiu0O8Of4fvqR) | 3:48 |
 | 78 | [AVBOB Se Stoep](https://open.spotify.com/track/2gLVnU9kvjcY8KYhs2grNj) | [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J) | [AVBOB Se Stoep](https://open.spotify.com/album/0yUeMZgVg6YaTbBIIf2X9S) | 3:28 |
 | 79 | [Iemand Soos Jy](https://open.spotify.com/track/298k3iGimVSsClUG9KolBF) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp), [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Klein Dingetjies](https://open.spotify.com/album/6Vr6vWjW8ZZOpqbDrDUSmI) | 2:57 |
-| 80 | [Vêr Van Die Huis Af](https://open.spotify.com/track/2Tsi2JPhmT0p1AiD4TwUoo) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb) | [Vêr Van Die Huis Af](https://open.spotify.com/album/27vixl2BCIve2VNi5HY41G) | 2:39 |
+| 80 | [Witblits](https://open.spotify.com/track/5bJEHJ8BPTn7dYM7EYmwvE) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Hittegolf](https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH) | 3:07 |
 
-Snapshot ID: `AAAAAPOelSGt1empL2sMyjIhg6LNFx9d`
+Snapshot ID: `AAAAAAN+f2I/79IcSHrUi+ynfbNrzSvW`

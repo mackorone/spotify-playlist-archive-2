@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 427193,
+  "num_followers": 427199,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF/jlSOtJcZHjVO8vFb0qSRHVjVX",
+  "snapshot_id": "AAAAAI9J5eGju93hRMW9a7weqXoqKseI",
   "tracks": [
     {
       "added_at": "2026-07-24 15:37:17",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-07-24 15:37:17",
       "album": {
-        "name": "los d\u00edas en la sala",
-        "url": "https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 163411,
-      "name": "siempre te voy a querer",
-      "url": "https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe"
-    },
-    {
-      "added_at": "2026-07-24 15:37:17",
-      "album": {
         "name": "Ahyre",
         "url": "https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 269196,
       "name": "La Noche Sin Ti",
       "url": "https://open.spotify.com/track/3o9cQ5wp9QXhKXHAOAESFG"
+    },
+    {
+      "added_at": "2026-07-24 15:37:17",
+      "album": {
+        "name": "los d\u00edas en la sala",
+        "url": "https://open.spotify.com/album/6E2TF0rYiJCwIxyLqP61GE"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 163411,
+      "name": "siempre te voy a querer",
+      "url": "https://open.spotify.com/track/6HVnd5EXfbaLU4YuYElXEe"
     },
     {
       "added_at": "2026-07-24 15:37:17",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-07-24 15:37:17",
       "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 193246,
-      "name": "A\u00f1os Luz",
-      "url": "https://open.spotify.com/track/0BNtpLD6zsXJGroRtcixOE"
-    },
-    {
-      "added_at": "2026-07-24 15:37:17",
-      "album": {
         "name": "Ahyre",
         "url": "https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 236612,
       "name": "Bellasombra",
       "url": "https://open.spotify.com/track/5YJstLbbwtemVuiGJjNRvl"
+    },
+    {
+      "added_at": "2026-07-24 15:37:17",
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 193246,
+      "name": "A\u00f1os Luz",
+      "url": "https://open.spotify.com/track/0BNtpLD6zsXJGroRtcixOE"
     },
     {
       "added_at": "2026-07-24 15:37:17",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-07-24 15:37:17",
       "album": {
-        "name": "El lado B",
-        "url": "https://open.spotify.com/album/0herv01D7VruP9cPQli1xn"
-      },
-      "artists": [
-        {
-          "name": "Sofia Macchi",
-          "url": "https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu"
-        }
-      ],
-      "duration_ms": 204328,
-      "name": "Viaje Tropical - El lado B",
-      "url": "https://open.spotify.com/track/1T6pfCOc803RV2LlRYwojH"
-    },
-    {
-      "added_at": "2026-07-24 15:37:17",
-      "album": {
         "name": "Mi Primer D\u00eda Triste",
         "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 150859,
       "name": "Am\u00e1ndote",
       "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
+    },
+    {
+      "added_at": "2026-07-24 15:37:17",
+      "album": {
+        "name": "El lado B",
+        "url": "https://open.spotify.com/album/0herv01D7VruP9cPQli1xn"
+      },
+      "artists": [
+        {
+          "name": "Sofia Macchi",
+          "url": "https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu"
+        }
+      ],
+      "duration_ms": 204328,
+      "name": "Viaje Tropical - El lado B",
+      "url": "https://open.spotify.com/track/1T6pfCOc803RV2LlRYwojH"
     },
     {
       "added_at": "2026-07-24 15:37:17",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-07-24 15:37:17",
       "album": {
-        "name": "Feroza",
-        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 178756,
-      "name": "Susurrito",
-      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
-    },
-    {
-      "added_at": "2026-07-24 15:37:17",
-      "album": {
         "name": "Monoambiente en Capital",
         "url": "https://open.spotify.com/album/1HjSFjgizVFIZ9c1aG9VC7"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 181087,
       "name": "Monoambiente en Capital",
       "url": "https://open.spotify.com/track/1prdmkn7pO2S0FJChx0fN4"
+    },
+    {
+      "added_at": "2026-07-24 15:37:17",
+      "album": {
+        "name": "Feroza",
+        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 178756,
+      "name": "Susurrito",
+      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
     },
     {
       "added_at": "2026-07-24 15:37:17",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-07-24 15:37:17",
       "album": {
-        "name": "[PAULA] Compilaci\u00f3n VOL 1.",
-        "url": "https://open.spotify.com/album/4YFaiAtamHL4yL0TDFRenQ"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 66666,
-      "name": "Lo que elegiste.",
-      "url": "https://open.spotify.com/track/55qDpPBtGGoryXEZ3AyUPf"
-    },
-    {
-      "added_at": "2026-07-24 15:37:17",
-      "album": {
         "name": "Derrumbe",
         "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 131999,
       "name": "Derrumbe",
       "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
+    },
+    {
+      "added_at": "2026-07-24 15:37:17",
+      "album": {
+        "name": "[PAULA] Compilaci\u00f3n VOL 1.",
+        "url": "https://open.spotify.com/album/4YFaiAtamHL4yL0TDFRenQ"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 66666,
+      "name": "Lo que elegiste.",
+      "url": "https://open.spotify.com/track/55qDpPBtGGoryXEZ3AyUPf"
     },
     {
       "added_at": "2026-07-24 15:37:17",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-07-24 15:37:17",
       "album": {
-        "name": "Decir que s\u00ed",
-        "url": "https://open.spotify.com/album/52PFaNWnDjXTCuDyMdIFT0"
-      },
-      "artists": [
-        {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
-        }
-      ],
-      "duration_ms": 138065,
-      "name": "Dije que s\u00ed",
-      "url": "https://open.spotify.com/track/78rLvvoIpOAcdVPmQJNTnt"
-    },
-    {
-      "added_at": "2026-07-24 15:37:17",
-      "album": {
         "name": "AWCH (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 196004,
       "name": "AWCH - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
+    },
+    {
+      "added_at": "2026-07-24 15:37:17",
+      "album": {
+        "name": "Decir que s\u00ed",
+        "url": "https://open.spotify.com/album/52PFaNWnDjXTCuDyMdIFT0"
+      },
+      "artists": [
+        {
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+        }
+      ],
+      "duration_ms": 138065,
+      "name": "Dije que s\u00ed",
+      "url": "https://open.spotify.com/track/78rLvvoIpOAcdVPmQJNTnt"
     },
     {
       "added_at": "2026-07-24 15:37:17",
@@ -1383,22 +1383,6 @@
       "duration_ms": 229729,
       "name": "cuando pase la tormenta - Spotify Sessions",
       "url": "https://open.spotify.com/track/1wDzdboT18AyCJpRxXPW70"
-    },
-    {
-      "added_at": "2026-07-24 15:37:17",
-      "album": {
-        "name": "Todo el D\u00eda As\u00ed",
-        "url": "https://open.spotify.com/album/1hM9onmRwyME8M8E1X0OgR"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 215492,
-      "name": "Todo el D\u00eda As\u00ed",
-      "url": "https://open.spotify.com/track/1EAOYGRgF3eUJLZMSfin7P"
     },
     {
       "added_at": "2026-07-24 15:37:17",
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2026-07-24 15:37:17",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
+        "name": "Todo el D\u00eda As\u00ed",
+        "url": "https://open.spotify.com/album/1hM9onmRwyME8M8E1X0OgR"
       },
       "artists": [
         {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
         }
       ],
-      "duration_ms": 238128,
-      "name": "Los Paisajes",
-      "url": "https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn"
+      "duration_ms": 215492,
+      "name": "Todo el D\u00eda As\u00ed",
+      "url": "https://open.spotify.com/track/1EAOYGRgF3eUJLZMSfin7P"
     },
     {
       "added_at": "2026-07-24 15:37:17",
@@ -1479,18 +1463,18 @@
     {
       "added_at": "2026-07-24 15:37:17",
       "album": {
-        "name": "El Amor en Mi Vida",
-        "url": "https://open.spotify.com/album/0it2idFNTKDK9DzyxL6vy1"
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
       },
       "artists": [
         {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
         }
       ],
-      "duration_ms": 222406,
-      "name": "El Amor en Mi Vida",
-      "url": "https://open.spotify.com/track/2uBYq9tm9G5UapyQmbeU6K"
+      "duration_ms": 238128,
+      "name": "Los Paisajes",
+      "url": "https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn"
     },
     {
       "added_at": "2026-07-24 15:37:17",
@@ -1507,6 +1491,22 @@
       "duration_ms": 182764,
       "name": "D\u00cdA DEL AMOR",
       "url": "https://open.spotify.com/track/7B4fViGgWYNzc27j9fyTdU"
+    },
+    {
+      "added_at": "2026-07-24 15:37:17",
+      "album": {
+        "name": "El Amor en Mi Vida",
+        "url": "https://open.spotify.com/album/0it2idFNTKDK9DzyxL6vy1"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 222406,
+      "name": "El Amor en Mi Vida",
+      "url": "https://open.spotify.com/track/2uBYq9tm9G5UapyQmbeU6K"
     },
     {
       "added_at": "2026-07-24 15:37:17",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-07-24 15:37:17",
       "album": {
-        "name": "El Mundo Siempre Estuvo Dividido en Dos",
-        "url": "https://open.spotify.com/album/4DwDKGqyR2hp8roLeNrhYh"
-      },
-      "artists": [
-        {
-          "name": "Alan Sutton y las criaturitas de la ansiedad",
-          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
-        }
-      ],
-      "duration_ms": 125156,
-      "name": "El Mundo Siempre Estuvo Dividido en Dos",
-      "url": "https://open.spotify.com/track/2mdZOkJvBqGaPmuqLLMp88"
-    },
-    {
-      "added_at": "2026-07-24 15:37:17",
-      "album": {
         "name": "BIG BANG",
         "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 183131,
       "name": "BIG BANG",
       "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
+    },
+    {
+      "added_at": "2026-07-24 15:37:17",
+      "album": {
+        "name": "El Mundo Siempre Estuvo Dividido en Dos",
+        "url": "https://open.spotify.com/album/4DwDKGqyR2hp8roLeNrhYh"
+      },
+      "artists": [
+        {
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+        }
+      ],
+      "duration_ms": 125156,
+      "name": "El Mundo Siempre Estuvo Dividido en Dos",
+      "url": "https://open.spotify.com/track/2mdZOkJvBqGaPmuqLLMp88"
     }
   ],
   "unique_name": "T\u00e9 Para Tres",

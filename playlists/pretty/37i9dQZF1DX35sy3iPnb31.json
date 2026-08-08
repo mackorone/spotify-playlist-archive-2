@@ -1,12 +1,12 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: girlsweetvoiced",
-  "num_followers": 2257,
+  "num_followers": 2274,
   "original_name": "Editors' Picks: Best Canadian Songs of July",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABE0OSOENVIXqaEOyw5BD7fiNFUL",
+  "snapshot_id": "AAAAAKYtmVX8v+f2Asl9NjAysQ8A8O+x",
   "tracks": [
     {
       "added_at": "2026-07-31 15:05:53",
@@ -231,22 +231,6 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "DON'T DISTURB THE GROOVE: AFROSOUL",
-        "url": "https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5"
-      },
-      "artists": [
-        {
-          "name": "THEHONESTGUY",
-          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
-        }
-      ],
-      "duration_ms": 198948,
-      "name": "LET ME GO",
-      "url": "https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
         "name": "GHOST DOG.",
         "url": "https://open.spotify.com/album/5cWrcuhjAgmeLkhYUusSLE"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 179130,
       "name": "GHOST DOG.",
       "url": "https://open.spotify.com/track/64cz9KrVR9Aa0r53ECpaor"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
+        "name": "DON'T DISTURB THE GROOVE: AFROSOUL",
+        "url": "https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        }
+      ],
+      "duration_ms": 198948,
+      "name": "LET ME GO",
+      "url": "https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "Party Animal",
-        "url": "https://open.spotify.com/album/6i3GF9CpBa8eq5aQs55Xew"
-      },
-      "artists": [
-        {
-          "name": "Bolu Ajibade",
-          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Party Animal",
-      "url": "https://open.spotify.com/track/5eTwF5hRGuoWNhDgTZErwA"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
         "name": "Some Kind Of Life",
         "url": "https://open.spotify.com/album/7tns2iVsn2p6SSp3M0Ecv3"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 196923,
       "name": "Here & Now",
       "url": "https://open.spotify.com/track/2wKWrbIoKxMIFiD4HOgfo9"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
+        "name": "Party Animal",
+        "url": "https://open.spotify.com/album/6i3GF9CpBa8eq5aQs55Xew"
+      },
+      "artists": [
+        {
+          "name": "Bolu Ajibade",
+          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Party Animal",
+      "url": "https://open.spotify.com/track/5eTwF5hRGuoWNhDgTZErwA"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "Bruise",
-        "url": "https://open.spotify.com/album/0SNpZVQ3WWS8L4O0SV6JbQ"
-      },
-      "artists": [
-        {
-          "name": "Dj Cin\u00e9ma Quartier Latin",
-          "url": "https://open.spotify.com/artist/3nI698C0lc7EpVCIDShUgD"
-        }
-      ],
-      "duration_ms": 207346,
-      "name": "Tough",
-      "url": "https://open.spotify.com/track/29KCxeyJ8Fey6UrP1tSRYQ"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
         "name": "World Tour Freestyle",
         "url": "https://open.spotify.com/album/1T6zovINsDE46fupkeHo7a"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 131111,
       "name": "World Tour Freestyle",
       "url": "https://open.spotify.com/track/4GiJmFhOuGbfPl6gdKErwe"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
+        "name": "Bruise",
+        "url": "https://open.spotify.com/album/0SNpZVQ3WWS8L4O0SV6JbQ"
+      },
+      "artists": [
+        {
+          "name": "Dj Cin\u00e9ma Quartier Latin",
+          "url": "https://open.spotify.com/artist/3nI698C0lc7EpVCIDShUgD"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/29KCxeyJ8Fey6UrP1tSRYQ"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -667,6 +667,22 @@
       "duration_ms": 128640,
       "name": "Hershey Kiss",
       "url": "https://open.spotify.com/track/35FdQMOqXsK23qBA4c9nJg"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
+        "name": "La fin",
+        "url": "https://open.spotify.com/album/5IuaeN0TAUV2I3g3QNXEq4"
+      },
+      "artists": [
+        {
+          "name": "Grace of Arc",
+          "url": "https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t"
+        }
+      ],
+      "duration_ms": 220493,
+      "name": "La fin",
+      "url": "https://open.spotify.com/track/4v5IWJ2Z5ArbTZ3HvEQYTn"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -699,22 +715,6 @@
       "duration_ms": 163311,
       "name": "Dogs.",
       "url": "https://open.spotify.com/track/5vw1gkiEQF4avej3LNU8iY"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
-        "name": "La fin",
-        "url": "https://open.spotify.com/album/5IuaeN0TAUV2I3g3QNXEq4"
-      },
-      "artists": [
-        {
-          "name": "Grace of Arc",
-          "url": "https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "La fin",
-      "url": "https://open.spotify.com/track/4v5IWJ2Z5ArbTZ3HvEQYTn"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
+        "name": "Take Me Under",
+        "url": "https://open.spotify.com/album/1Ho7Ruke16uRkhixyX4SHQ"
+      },
+      "artists": [
+        {
+          "name": "RAJAN",
+          "url": "https://open.spotify.com/artist/1TwXokfbAj2rmDarneyVu3"
+        }
+      ],
+      "duration_ms": 159259,
+      "name": "Take Me Under",
+      "url": "https://open.spotify.com/track/0brTYG1hUEfpgqCcEhIr9B"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
         "name": "Nouveaux Langages",
         "url": "https://open.spotify.com/album/0uGm7gP2TlLQISgxs4I3P3"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 198000,
       "name": "Corps (feat. Lou-Adriane Cassidy)",
       "url": "https://open.spotify.com/track/48I3m74TUAtdBmk5xyklGO"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
-        "name": "Take Me Under",
-        "url": "https://open.spotify.com/album/1Ho7Ruke16uRkhixyX4SHQ"
-      },
-      "artists": [
-        {
-          "name": "RAJAN",
-          "url": "https://open.spotify.com/artist/1TwXokfbAj2rmDarneyVu3"
-        }
-      ],
-      "duration_ms": 159259,
-      "name": "Take Me Under",
-      "url": "https://open.spotify.com/track/0brTYG1hUEfpgqCcEhIr9B"
     },
     {
       "added_at": "2026-07-31 15:05:53",

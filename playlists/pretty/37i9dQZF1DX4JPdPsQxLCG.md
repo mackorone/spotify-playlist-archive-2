@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Epic tunes for the open road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,909 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,928 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 46 | [Yellow Eyes](https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:50 |
 | 47 | [Watch Me Go](https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [The Cosmic Selector Vol\. 1](https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp) | 3:06 |
 | 48 | [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 |
-| 49 | [Follow](https://open.spotify.com/track/6BkGs2ZNaqaEbrJNlQAt2x) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Fire From The Hip](https://open.spotify.com/album/43mE12XfH3PQ7iX3mPj2Ri) | 3:24 |
-| 50 | [Tropics](https://open.spotify.com/track/50kY9njISacBSyPLyR8cwk) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [bones](https://open.spotify.com/album/51ju8MHRhddaMJcz05B1yu) | 4:53 |
+| 49 | [Tropics](https://open.spotify.com/track/50kY9njISacBSyPLyR8cwk) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [bones](https://open.spotify.com/album/51ju8MHRhddaMJcz05B1yu) | 4:53 |
+| 50 | [Follow](https://open.spotify.com/track/6BkGs2ZNaqaEbrJNlQAt2x) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Fire From The Hip](https://open.spotify.com/album/43mE12XfH3PQ7iX3mPj2Ri) | 3:24 |
 | 51 | [Call On Me](https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Call On Me](https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu) | 2:49 |
 | 52 | [Ride Lonesome \(feat\. Sierra Ferrell\)](https://open.spotify.com/track/2lWk9Ik4LSAYKNGwBn86yJ) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Ride Lonesome \(feat\. Sierra Ferrell\)](https://open.spotify.com/album/4ProrUSimVgRttzO0LfZRj) | 4:24 |
 | 53 | [Everybody Scream](https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu) | 4:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 74 | [Not Dead Yet](https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Not Dead Yet](https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w) | 2:57 |
 | 75 | [Big Wheel](https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:15 |
 
-Snapshot ID: `AAAAANUn6ZhZAjK07kbsdzk8AOXN9KX/`
+Snapshot ID: `AAAAADRiTEMZw15iD+XMWHr/SXB4gLCC`

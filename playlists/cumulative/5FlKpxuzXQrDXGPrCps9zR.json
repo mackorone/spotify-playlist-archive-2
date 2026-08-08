@@ -2551,6 +2551,24 @@
     },
     {
       "album": {
+        "name": "Slow Dancin'",
+        "url": "https://open.spotify.com/album/53sKCJTcX1AnTBqU9XUCD8"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124001,
+      "name": "Slow Dancin'",
+      "url": "https://open.spotify.com/track/647YdG7a4EkucGiyDkfBRY"
+    },
+    {
+      "album": {
         "name": "Snow Angel",
         "url": "https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z"
       },
@@ -3050,6 +3068,24 @@
       "duration_ms": 212792,
       "name": "The Vow",
       "url": "https://open.spotify.com/track/59DtKdVcqOpvxoBGTXDz4j"
+    },
+    {
+      "album": {
+        "name": "Thinking 'bout You",
+        "url": "https://open.spotify.com/album/6k4bQKHw4hU7spl0fobR63"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140586,
+      "name": "Thinking 'bout You",
+      "url": "https://open.spotify.com/track/6pxf2SRlRfBwnQKcUZCm2s"
     },
     {
       "album": {

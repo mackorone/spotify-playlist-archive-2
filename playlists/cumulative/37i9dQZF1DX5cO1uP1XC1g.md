@@ -4,7 +4,7 @@
 
 > The Hottest Arabic Music.<br/>Cover: Saint Levant, Haifa Wehbe
 
-470 songs - 1 day 4 hr 3 min
+471 songs - 1 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Nano](https://open.spotify.com/track/6yrZoKcoa7EIx7e7uCCmPW) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Nano](https://open.spotify.com/album/3fv8OyR9optht1R8q7ReFk) | 3:36 | 2026-06-16 |  |
 | [Nebghik Ou Manbaynhach](https://open.spotify.com/track/7F96fzZwkdJTN9JlFa0895) | [DJ Adel](https://open.spotify.com/artist/6tqV6GRchcDLsgHJxwKQdu), [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1), [Maya](https://open.spotify.com/artist/6O72cUuzCnRB78cBCAHmBa) | [Nebghik Ou Manbaynhach](https://open.spotify.com/album/05DbEYXmplRR28kXZasjBF) | 4:40 | 2021-12-12 | 2022-02-08 |
 | [Negma Meadeya](https://open.spotify.com/track/42GbwrlUpjPbt5K5Bf0dJ1) | [Wama](https://open.spotify.com/artist/7yB2bLPVo9PoqeN9c1T6UN) | [Negma Meadeya](https://open.spotify.com/album/52CBXtNmcYutbQsNRn68Cq) | 3:22 | 2021-12-12 | 2022-11-05 |
+| [Nesena](https://open.spotify.com/track/43D4HrgNzOW3DOf5Skp7wg) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Supernova](https://open.spotify.com/album/6bMRDWTllCiFBjlbVwiKUh) | 3:35 | 2026-08-07 |  |
 | [Niya](https://open.spotify.com/track/61yI81mtTxFzp4C017qFkS) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [Niya](https://open.spotify.com/album/41Ezm9UZIgXHW7J9CocdjO) | 3:22 | 2021-12-12 | 2022-07-29 |
 | [No Me Interesa](https://open.spotify.com/track/3bZUHmDm7QCshN8gaMNoTW) | [Tiiwtiiw](https://open.spotify.com/artist/6OcVa1v58BotEENN2biu1M) | [No Me Interesa](https://open.spotify.com/album/164083ihJpa6yTojdijDZE) | 2:37 | 2021-12-12 | 2022-07-27 |
 | [Nota](https://open.spotify.com/track/5tPauDRDmFoM8GMEGRQPnt) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [Nota](https://open.spotify.com/album/6kLwbk0ix5h8oDblXNkImY) | 2:20 | 2021-12-12 | 2022-07-24 |

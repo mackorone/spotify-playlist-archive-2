@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: After
 
-2,487 songs - 5 day 12 hr 36 min
+2,488 songs - 5 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,6 +506,7 @@
 | [Crown Vic \(Black Cloud\)](https://open.spotify.com/track/6rtP4KRJr7iY8X4wV0oeen) | [joe p](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Emily Can't Sing](https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ) | 3:32 | 2021-10-22 | 2022-04-14 |
 | [crumble](https://open.spotify.com/track/2QxtLq8tLbq696srRS45J4) | [josh conway](https://open.spotify.com/artist/7Fg3bk6FxiFhFnrtXxJNR7) | [crumble](https://open.spotify.com/album/0z1hoiOLPE9tkX1gUXFH9i) | 4:50 | 2026-05-25 | 2026-06-27 |
 | [Crush](https://open.spotify.com/track/7jHMDHHLkFQxWnKTYq7Aan) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Crush](https://open.spotify.com/album/4aXpzEONl3ZdbGhPTYoigH) | 3:13 | 2020-10-13\* | 2021-05-28 |
+| [Crush On You](https://open.spotify.com/track/1DbYXCbGZe3xR8N1nVdhgH) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [Crush On You](https://open.spotify.com/album/3GHaB9uuOC97efCTFZnEhP) | 2:49 | 2026-07-31 |  |
 | [Crutch](https://open.spotify.com/track/35mvYlF92JzRqB2PYA9DIU) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Crutch](https://open.spotify.com/album/1jWZ7cC58wnlEfuknDCwoq) | 3:31 | 2026-05-01 |  |
 | [crutches](https://open.spotify.com/track/5Hf6nME2UxqODXQj9pP1qw) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [crutches](https://open.spotify.com/album/7i3jTmHGPr5PMVE8gYfQFX) | 2:30 | 2022-11-07 | 2022-12-10 |
 | [Cry Baby](https://open.spotify.com/track/6EhLEIwLKrqjf6VTx9eGOd) | [Kristiane](https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ) | [Cry Baby](https://open.spotify.com/album/6fjgfwIVFrvn4P7KlgOeyG) | 2:25 | 2022-04-25 | 2022-07-20 |
@@ -1584,7 +1585,7 @@
 | [Nothing Fits](https://open.spotify.com/track/6hj7ILX5Cf9eLpA0qvL6oh) | [Makk Mikkael](https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs) | [Nothing Fits](https://open.spotify.com/album/3kBp9RT2cqjJT5Fc5ccBIR) | 3:51 | 2021-11-13 | 2021-12-04 |
 | [Nothing Left To Give](https://open.spotify.com/track/5ti3pAj9M9HlnXrjUiO232) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Nothing Left To Give](https://open.spotify.com/album/0IVhJ8PzPajZB401x4lfkO) | 3:13 | 2023-04-14 | 2023-04-22 |
 | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/track/49rILSmVLmGmknARFACh3N) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Nothing Scares Me \- Spotify Singles](https://open.spotify.com/album/0QvkS38s3iUF88PeNqeXzt) | 2:38 | 2021-10-09 | 2021-10-16 |
-| [Nothing's Accidental](https://open.spotify.com/track/3kY3wfC4Z6hzYxLS3mb0EH) | [After Louise](https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W) | [Nothing's Accidental](https://open.spotify.com/album/5H2Ax7Hf3CXwmVjLYGpQGh) | 3:19 | 2026-06-12 |  |
+| [Nothing's Accidental](https://open.spotify.com/track/3kY3wfC4Z6hzYxLS3mb0EH) | [After Louise](https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W) | [Nothing's Accidental](https://open.spotify.com/album/5H2Ax7Hf3CXwmVjLYGpQGh) | 3:19 | 2026-06-12 | 2026-08-08 |
 | [NOTHINGTOLOSE](https://open.spotify.com/track/7CG1wypkvWy644LbTQUulJ) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [NOTHINGTOLOSE](https://open.spotify.com/album/7B6H4m4fM96SQ9aFrhoAW2) | 2:04 | 2021-11-12 | 2022-04-21 |
 | [Now I Know You](https://open.spotify.com/track/24ip7sFlOP3Ftl5EdxV6Zd) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Where Are You Going?](https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp) | 3:32 | 2023-08-04 | 2023-08-26 |
 | [Now That You're Gone](https://open.spotify.com/track/5oooQqwuBpqBsh6lEissKS) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Dance Called Memory](https://open.spotify.com/album/2fNPTFiU2sCY9m6tv3Ucqa) | 5:04 | 2025-09-19 | 2025-10-25 |

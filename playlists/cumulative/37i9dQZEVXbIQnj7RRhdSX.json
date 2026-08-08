@@ -5752,7 +5752,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 177934,
       "name": "Babyface",
       "url": "https://open.spotify.com/track/5LN0gLSxSEaigog3VjCci3"
@@ -12828,6 +12828,24 @@
       "duration_ms": 201139,
       "name": "CINEMA",
       "url": "https://open.spotify.com/track/1gyHmYu70kqUhLfEU5gPjA"
+    },
+    {
+      "album": {
+        "name": "D'Amore Di Morte E Di Altre Sciocchezze",
+        "url": "https://open.spotify.com/album/0jnltk3FFpm1MVE9cFsS2S"
+      },
+      "artists": [
+        {
+          "name": "Francesco Guccini",
+          "url": "https://open.spotify.com/artist/5Pa0BjjSDSiWuak0O1PbHL"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400933,
+      "name": "Cirano",
+      "url": "https://open.spotify.com/track/4TvXV9Adc1schud1QDwnZe"
     },
     {
       "album": {
@@ -30623,6 +30641,24 @@
     },
     {
       "album": {
+        "name": "Via Paolo Fabbri 43",
+        "url": "https://open.spotify.com/album/4VyvpCNTpWZJe6zOf4GHe0"
+      },
+      "artists": [
+        {
+          "name": "Francesco Guccini",
+          "url": "https://open.spotify.com/artist/5Pa0BjjSDSiWuak0O1PbHL"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275026,
+      "name": "L'Avvelenata - Remastered 2007",
+      "url": "https://open.spotify.com/track/4RAYvDsSSDtkFtdBOoCzNW"
+    },
+    {
+      "album": {
         "name": "IO NON HO PAURA",
         "url": "https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI"
       },
@@ -31826,7 +31862,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 222794,
       "name": "La musica non c'\u00e8",
       "url": "https://open.spotify.com/track/6cBM8x7RVG06MAkwP3JMvX"
@@ -32496,7 +32532,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 227321,
       "name": "Labirinto",
       "url": "https://open.spotify.com/track/2qf4KviAhT4cNGydUT28Qo"
@@ -40206,7 +40242,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 192750,
       "name": "MUCHACHA",
       "url": "https://open.spotify.com/track/4rDCRcln8WCHWPRt0YTFLs"

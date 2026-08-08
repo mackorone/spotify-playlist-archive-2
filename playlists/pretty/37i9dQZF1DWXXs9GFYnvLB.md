@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXs9GFYnvLB.md) - [plain]
 
 > The hottest tracks with the freshest hits! Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,424,044 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,423,948 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXs9GFYnvLB.md) - [plain]
 | 74 | [Rain](https://open.spotify.com/track/1zB4PS1IM9J1bisacyxAUZ) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Rain](https://open.spotify.com/album/2RtKnWQ5EI32NJxfmjTor6) | 3:28 |
 | 75 | [NOBLE](https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/0g2so560PUSwl895vWwaQK) | 3:05 |
 
-Snapshot ID: `AAAAAD4yAqMeE4BhDtyWe8OTmazPql8B`
+Snapshot ID: `AAAAADdCoh/7fzqVqfUx7llMlfsCmFRk`

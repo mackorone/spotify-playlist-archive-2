@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,275 likes - 70 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,299 likes - 70 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 | 52 | [恋](https://open.spotify.com/track/5Hu29JT4xtbRUBTZeOAjxW) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [恋](https://open.spotify.com/album/0DfuNg7whkEABLFek6IF27) | 4:13 |
 | 53 | [題名のない今日](https://open.spotify.com/track/6skNbV22epX2yHu4O2hYSx) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Life Goes On](https://open.spotify.com/album/6CK4JBvVs10dL8xn2nNZwe) | 3:13 |
 | 54 | [本当はね、](https://open.spotify.com/track/16yajBS7lk0QAa5CZnTHo9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 3:21 |
-| 55 | [怪盗](https://open.spotify.com/track/10Eyo4juZQFthKqlJgGMdp) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [怪盗](https://open.spotify.com/album/4WQ8gG1ItkCzFBnG7P20YR) | 3:16 |
-| 56 | [今宵の月のように](https://open.spotify.com/track/0wMfMGp7nz7JMNw7tei9f5) | [Elephant Kashimashi](https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm) | [明日に向かって走れ\-月夜の歌\-](https://open.spotify.com/album/515BiJpfiA4Cf6OD8iyom0) | 4:12 |
-| 57 | [Topping](https://open.spotify.com/track/59vn9z2EUT8GStAdmDNf3y) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Topping](https://open.spotify.com/album/41tisXYtO2LPc1kGG0kEKn) | 2:46 |
+| 55 | [今宵の月のように](https://open.spotify.com/track/0wMfMGp7nz7JMNw7tei9f5) | [Elephant Kashimashi](https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm) | [明日に向かって走れ\-月夜の歌\-](https://open.spotify.com/album/515BiJpfiA4Cf6OD8iyom0) | 4:12 |
+| 56 | [Topping](https://open.spotify.com/track/59vn9z2EUT8GStAdmDNf3y) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Topping](https://open.spotify.com/album/41tisXYtO2LPc1kGG0kEKn) | 2:46 |
+| 57 | [怪盗](https://open.spotify.com/track/10Eyo4juZQFthKqlJgGMdp) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [怪盗](https://open.spotify.com/album/4WQ8gG1ItkCzFBnG7P20YR) | 3:16 |
 | 58 | [ブルーアンビエンス](https://open.spotify.com/track/1S1WSh4uCprvucg6Hx57Eh) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [ブルーアンビエンス](https://open.spotify.com/album/4fbghPZI7ZAQIbO4V7yrVj) | 4:10 |
 | 59 | [姿](https://open.spotify.com/track/5okAqlWhkOADHjd61PKslW) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 3:27 |
 | 60 | [BAD LOVE](https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [BAD LOVE](https://open.spotify.com/album/6RQjez6K5zXMCxw70oDGwB) | 3:05 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 | 62 | [恋唄](https://open.spotify.com/track/3nmMpo6n2NcX6rU0TiQRXf) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [HOPE](https://open.spotify.com/album/7KDcEG3mcB0g6XWwFNZ6KR) | 5:00 |
 | 63 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
 | 64 | [世界が終わりました](https://open.spotify.com/track/5XyD56RYaj2XGxfyc34jQD) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [世界が終わりました](https://open.spotify.com/album/1Ztds5OynOrMcfkPLi47Ps) | 4:14 |
-| 65 | [Waltz for Lily](https://open.spotify.com/track/2s32faGqPq6hRh002FGQhf) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [Waltz for Lily](https://open.spotify.com/album/7Ki3941etyXLcskScwiXBV) | 4:04 |
-| 66 | [100万回の「I love you」](https://open.spotify.com/track/5InyPQKhL9u1kct8LiJ6tF) | [Rake](https://open.spotify.com/artist/3vQ2DVwzWWorNTS3kObltH) | [First Sight](https://open.spotify.com/album/3GA7KRuU7d9COOXaJZyFeR) | 3:58 |
-| 67 | [Nagisa](https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Nagisa](https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK) | 3:46 |
-| 68 | [ヒカリヘ](https://open.spotify.com/track/6Ko5MADnkgh7GZJfieBnln) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Delight](https://open.spotify.com/album/0avJe7D8ASPbuBk2uyPQPL) | 4:52 |
+| 65 | [100万回の「I love you」](https://open.spotify.com/track/5InyPQKhL9u1kct8LiJ6tF) | [Rake](https://open.spotify.com/artist/3vQ2DVwzWWorNTS3kObltH) | [First Sight](https://open.spotify.com/album/3GA7KRuU7d9COOXaJZyFeR) | 3:58 |
+| 66 | [Waltz for Lily](https://open.spotify.com/track/2s32faGqPq6hRh002FGQhf) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [Waltz for Lily](https://open.spotify.com/album/7Ki3941etyXLcskScwiXBV) | 4:04 |
+| 67 | [ヒカリヘ](https://open.spotify.com/track/6Ko5MADnkgh7GZJfieBnln) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Delight](https://open.spotify.com/album/0avJe7D8ASPbuBk2uyPQPL) | 4:52 |
+| 68 | [Nagisa](https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Nagisa](https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK) | 3:46 |
 | 69 | [僕のかわい子ちゃん](https://open.spotify.com/track/5Q6tUDmj1vipuU2geX6no7) | [MON7A](https://open.spotify.com/artist/1Ypw6Y7ks3rw8EUPIE1Iqi) | [僕のかわい子ちゃん](https://open.spotify.com/album/23mtg8QL60f69786FLmFMp) | 4:09 |
 | 70 | [ラブソング](https://open.spotify.com/track/2aC8t7OpwfBLTE4KWrJhN6) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Candle](https://open.spotify.com/album/2QKtmakVNgVWejUQRjZm1S) | 4:18 |
 
-Snapshot ID: `AAAAAH+NUDDS3gfnxtnoETkq+a4Hk/F8`
+Snapshot ID: `AAAAAIzrhb7d0v9hjbcbFxIYgz8m6FYb`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 
 > 日本のシンガーソングライターを特集。Featuring Japanese Singer\-Songwriters\. Cover: milet
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,608 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,629 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,34 +79,34 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 | 69 | [voicemail](https://open.spotify.com/track/1qQ6cYg7zyWPlQMyryQjvs) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [solitude](https://open.spotify.com/album/4Um3CxQQHfb7aWNuUxvkAb) | 2:30 |
 | 70 | [Yume ga sametara](https://open.spotify.com/track/5jaiXjlctHlJtpENWHPzoO) | [Naoto Koto](https://open.spotify.com/artist/5VFBlez79qfdVd4iEgrAbC) | [Yume ga sametara](https://open.spotify.com/album/1qLQNLPUlsFjpNTRixQFDT) | 4:32 |
 | 71 | [オリーブ](https://open.spotify.com/track/6BAlwGsVKqrJLoRtnnJgeu) | [川崎鷹也](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [オリーブ](https://open.spotify.com/album/24KmMEZaA9H6jvjgWAWpMM) | 3:37 |
-| 72 | [クラウン新車で買ってあげる](https://open.spotify.com/track/3TZhfwTNDdyFpBlkodbsMx) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [クラウン新車で買ってあげる](https://open.spotify.com/album/79IX9gKiY14TsuQ7UldJoS) | 5:47 |
-| 73 | [INSIDE](https://open.spotify.com/track/2ZZGr9MSx1WMcawXj4SxLQ) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [INSIDE](https://open.spotify.com/album/4ND5fiPqq9Qm93GK9lGTZr) | 3:41 |
+| 72 | [INSIDE](https://open.spotify.com/track/2ZZGr9MSx1WMcawXj4SxLQ) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [INSIDE](https://open.spotify.com/album/4ND5fiPqq9Qm93GK9lGTZr) | 3:41 |
+| 73 | [クラウン新車で買ってあげる](https://open.spotify.com/track/3TZhfwTNDdyFpBlkodbsMx) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [クラウン新車で買ってあげる](https://open.spotify.com/album/79IX9gKiY14TsuQ7UldJoS) | 5:47 |
 | 74 | [ノーマル](https://open.spotify.com/track/2t16JXtOvW6Z5agduqqqmI) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [ノーマル](https://open.spotify.com/album/4WUPtlNVOtxUZBaZWuYjAQ) | 4:28 |
 | 75 | [PLANETS](https://open.spotify.com/track/4dXAx6MlPTqRFC804zZZQ3) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [dialogue](https://open.spotify.com/album/0nFxDK8187xYJPMMph6c7y) | 3:04 |
 | 76 | [ただ美しい呪い](https://open.spotify.com/track/1U6rQ5PUF7XMtttxXEFIeq) | [Nakamura Hak](https://open.spotify.com/artist/3dyQzEg20lVCIo245spjoT) | [ただ美しい呪い](https://open.spotify.com/album/1tGGXTiU9sBCuOSy2Fuvi4) | 4:37 |
 | 77 | [OUR SEASON \(夏の気まぐれにkissを\)](https://open.spotify.com/track/7JWFrcLSJ2oknwqTzd7OTF) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [OUR SEASON \(夏の気まぐれにkissを\)](https://open.spotify.com/album/1x0JlP4jEeMsSm3hD4lfvL) | 3:39 |
-| 78 | [omoi](https://open.spotify.com/track/6kB44jxqus1x3P587VRTEb) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [omoi](https://open.spotify.com/album/1aXN5KsfSOEe08Tm3Wg0w8) | 3:09 |
-| 79 | [Clover](https://open.spotify.com/track/3vT5XVoVCjF6EujVPobNs3) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [Clover](https://open.spotify.com/album/5eMSxw5F43b9x6J9NCzoc2) | 2:56 |
+| 78 | [Clover](https://open.spotify.com/track/3vT5XVoVCjF6EujVPobNs3) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [Clover](https://open.spotify.com/album/5eMSxw5F43b9x6J9NCzoc2) | 2:56 |
+| 79 | [omoi](https://open.spotify.com/track/6kB44jxqus1x3P587VRTEb) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [omoi](https://open.spotify.com/album/1aXN5KsfSOEe08Tm3Wg0w8) | 3:09 |
 | 80 | [イクジナシ](https://open.spotify.com/track/4jeG0pnEjEFIphK0oLnGaW) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [イクジナシ](https://open.spotify.com/album/3o7fMvUbIBPcXLR7EK0xzL) | 4:04 |
-| 81 | [New Walk](https://open.spotify.com/track/4QQZw019EXzf6ZDi4ytD5Z) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [New Walk](https://open.spotify.com/album/1NlVIqlpnza7IfBNMNMUmC) | 4:00 |
-| 82 | [レンズ](https://open.spotify.com/track/71HguLdW670hpDJR9f5l8K) | [がらり](https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp) | [螺旋の街](https://open.spotify.com/album/78qeryjC8dhgyIVgyKFJEx) | 3:17 |
-| 83 | [satellite](https://open.spotify.com/track/6f2vyljUjS6mUT0EaKLW3X) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [satellite](https://open.spotify.com/album/4Zd4IpKqdyWaG3UAn5fTGh) | 2:22 |
+| 81 | [satellite](https://open.spotify.com/track/6f2vyljUjS6mUT0EaKLW3X) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [satellite](https://open.spotify.com/album/4Zd4IpKqdyWaG3UAn5fTGh) | 2:22 |
+| 82 | [New Walk](https://open.spotify.com/track/4QQZw019EXzf6ZDi4ytD5Z) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [New Walk](https://open.spotify.com/album/1NlVIqlpnza7IfBNMNMUmC) | 4:00 |
+| 83 | [レンズ](https://open.spotify.com/track/71HguLdW670hpDJR9f5l8K) | [がらり](https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp) | [螺旋の街](https://open.spotify.com/album/78qeryjC8dhgyIVgyKFJEx) | 3:17 |
 | 84 | [ロストライン](https://open.spotify.com/track/3qpUfBCfMzPvkAEiamCP2W) | [茉ひる](https://open.spotify.com/artist/5bWP5BvE7omi0VcYqs2S5R), [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [Cinema](https://open.spotify.com/album/6iKGgIPWAHykuvGWAU7nj3) | 3:18 |
 | 85 | [kimagure](https://open.spotify.com/track/6C57BHEiqIaatLzFzqYx4e) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [kimagure](https://open.spotify.com/album/4TP7lvpRDEPXlx2vTwuch4) | 3:29 |
-| 86 | [恋のつづき](https://open.spotify.com/track/3KCFS9OPt7r0u0vGdBZYHQ) | [舟津真翔](https://open.spotify.com/artist/01O1K2of8wkNZJhWRlRFcT) | [恋のつづき](https://open.spotify.com/album/6xFWcfVwaQYihZD6uT6lpr) | 3:52 |
-| 87 | [TIRED](https://open.spotify.com/track/1lKQWmM8EXP2q4VdrHb8ED) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [TIRED](https://open.spotify.com/album/1oOmZ1DNZjZcMFbXgIGIjP) | 4:09 |
-| 88 | [Dreamers](https://open.spotify.com/track/0TbCl2LrSNOmQFpFaAgGaV) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Dreamers](https://open.spotify.com/album/5UCZC1Rm7amPipQREylCXK) | 3:15 |
-| 89 | [Loved One](https://open.spotify.com/track/1JRGF0P4QeavZUxH86M1q0) | [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [Loved One](https://open.spotify.com/album/6swCMSD8cc9kCYg60SFlpc) | 4:26 |
-| 90 | [クローバー](https://open.spotify.com/track/6RbK8eVJ2Zo1VifYN7EFTw) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [クローバー](https://open.spotify.com/album/3IVDFFnyJdNRrZoPHthYwY) | 4:57 |
-| 91 | [BORDER](https://open.spotify.com/track/2EVi72lGGfHJFRo081x4bw) | [Eikichi Yazawa](https://open.spotify.com/artist/6r4KqrquvtAy0fcJUU2VGB) | [BORDER](https://open.spotify.com/album/4ODjWP6bjQWtfmOxCZgZxb) | 3:57 |
-| 92 | [Hearts Glow](https://open.spotify.com/track/0Wp9lawwW8ezR1sQhABCSg) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Hearts Glow](https://open.spotify.com/album/6o6MRc2BqslSwFVu3kdewI) | 3:54 |
-| 93 | [乱気](https://open.spotify.com/track/45pAexUCqZePSDy6HFNIAH) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [乱気](https://open.spotify.com/album/2CW8vP5hLBcFNJgPmg3Dn3) | 3:41 |
+| 86 | [TIRED](https://open.spotify.com/track/1lKQWmM8EXP2q4VdrHb8ED) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [TIRED](https://open.spotify.com/album/1oOmZ1DNZjZcMFbXgIGIjP) | 4:09 |
+| 87 | [恋のつづき](https://open.spotify.com/track/3KCFS9OPt7r0u0vGdBZYHQ) | [舟津真翔](https://open.spotify.com/artist/01O1K2of8wkNZJhWRlRFcT) | [恋のつづき](https://open.spotify.com/album/6xFWcfVwaQYihZD6uT6lpr) | 3:52 |
+| 88 | [Loved One](https://open.spotify.com/track/1JRGF0P4QeavZUxH86M1q0) | [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [Loved One](https://open.spotify.com/album/6swCMSD8cc9kCYg60SFlpc) | 4:26 |
+| 89 | [Dreamers](https://open.spotify.com/track/0TbCl2LrSNOmQFpFaAgGaV) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Dreamers](https://open.spotify.com/album/5UCZC1Rm7amPipQREylCXK) | 3:15 |
+| 90 | [Hearts Glow](https://open.spotify.com/track/0Wp9lawwW8ezR1sQhABCSg) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Hearts Glow](https://open.spotify.com/album/6o6MRc2BqslSwFVu3kdewI) | 3:54 |
+| 91 | [クローバー](https://open.spotify.com/track/6RbK8eVJ2Zo1VifYN7EFTw) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [クローバー](https://open.spotify.com/album/3IVDFFnyJdNRrZoPHthYwY) | 4:57 |
+| 92 | [BORDER](https://open.spotify.com/track/2EVi72lGGfHJFRo081x4bw) | [Eikichi Yazawa](https://open.spotify.com/artist/6r4KqrquvtAy0fcJUU2VGB) | [BORDER](https://open.spotify.com/album/4ODjWP6bjQWtfmOxCZgZxb) | 3:57 |
+| 93 | [Those days \-童神～天の子守唄～\-](https://open.spotify.com/track/3DsdQCQzWl6K6Fjwx6aSwe) | [佐久間龍星](https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO) | [Those days \-童神～天の子守唄～\-](https://open.spotify.com/album/5BR30mdzqjNa3a9nvDz7T5) | 3:42 |
 | 94 | [Hangover](https://open.spotify.com/track/7bhxfSyIU6iToIx7eJT5Tt) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe), [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [Hangover](https://open.spotify.com/album/4X3WPCSJweNP6heXa7YRZ2) | 3:26 |
-| 95 | [インスタントナイト](https://open.spotify.com/track/1EIrS41eC3e5siU3AwaavQ) | [OSHIKIKEIGO](https://open.spotify.com/artist/1Ez9f0zAhT2srrAYEXDMSw) | [インスタントナイト](https://open.spotify.com/album/4l1utK1rQkadl8fqFXUTFe) | 3:00 |
-| 96 | [フタリノセカイ](https://open.spotify.com/track/5DutfirTj8Eq463gBQES4Z) | [KeNN](https://open.spotify.com/artist/1jfCytaxko0WLzWfPqLbYH) | [フタリノセカイ](https://open.spotify.com/album/4vFiwzFinWIQQ0eXFcQq00) | 3:56 |
-| 97 | [君は恋人](https://open.spotify.com/track/2DpxUvpifasKCux95AMW4g) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [君は恋人](https://open.spotify.com/album/6llaqDfdsFoormsUrhdrbo) | 3:37 |
-| 98 | [力説](https://open.spotify.com/track/34GAppVIvEO2e6RIEUFMAI) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [力説](https://open.spotify.com/album/0tfLUSiyhCQBzTUiwVPDaN) | 4:50 |
-| 99 | [Those days \-童神～天の子守唄～\-](https://open.spotify.com/track/3DsdQCQzWl6K6Fjwx6aSwe) | [佐久間龍星](https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO) | [Those days \-童神～天の子守唄～\-](https://open.spotify.com/album/5BR30mdzqjNa3a9nvDz7T5) | 3:42 |
+| 95 | [乱気](https://open.spotify.com/track/45pAexUCqZePSDy6HFNIAH) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [乱気](https://open.spotify.com/album/2CW8vP5hLBcFNJgPmg3Dn3) | 3:41 |
+| 96 | [インスタントナイト](https://open.spotify.com/track/1EIrS41eC3e5siU3AwaavQ) | [OSHIKIKEIGO](https://open.spotify.com/artist/1Ez9f0zAhT2srrAYEXDMSw) | [インスタントナイト](https://open.spotify.com/album/4l1utK1rQkadl8fqFXUTFe) | 3:00 |
+| 97 | [フタリノセカイ](https://open.spotify.com/track/5DutfirTj8Eq463gBQES4Z) | [KeNN](https://open.spotify.com/artist/1jfCytaxko0WLzWfPqLbYH) | [フタリノセカイ](https://open.spotify.com/album/4vFiwzFinWIQQ0eXFcQq00) | 3:56 |
+| 98 | [君は恋人](https://open.spotify.com/track/2DpxUvpifasKCux95AMW4g) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [君は恋人](https://open.spotify.com/album/6llaqDfdsFoormsUrhdrbo) | 3:37 |
+| 99 | [力説](https://open.spotify.com/track/34GAppVIvEO2e6RIEUFMAI) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [力説](https://open.spotify.com/album/0tfLUSiyhCQBzTUiwVPDaN) | 4:50 |
 | 100 | [KAMINARI](https://open.spotify.com/track/500CTq16fcnpjFHvXDzjUV) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [KAMINARI](https://open.spotify.com/album/734RhFDmYZVpjaxZH1ddWO) | 3:20 |
 
-Snapshot ID: `AAAAAGMhsLuruv+vFS0o9SkN9S/fEzm/`
+Snapshot ID: `AAAAAEgPSZyJqRVmeNKS3QaVUKMyiq13`

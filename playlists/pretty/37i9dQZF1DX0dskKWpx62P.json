@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 68185,
+  "num_followers": 68206,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAImlXTs9LMM3hDn/0CtzVmo6wRjC",
+  "snapshot_id": "AAAAAG+lLYLbcyiPBO75St3nAKaWGyjK",
   "tracks": [
     {
       "added_at": "2024-06-24 17:38:16",
@@ -75,18 +75,18 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Caminando Y Cantando",
-        "url": "https://open.spotify.com/album/5qiNMwmbj1mzo925QVkHGI"
+        "name": "Huayno, Vol. 1",
+        "url": "https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P"
       },
       "artists": [
         {
-          "name": "Sentimiento Andino",
-          "url": "https://open.spotify.com/artist/24ekejeYKRsI7YE26PczBs"
+          "name": "Conjunto Condemayta de Acomayo",
+          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
         }
       ],
-      "duration_ms": 215800,
-      "name": "Valicha",
-      "url": "https://open.spotify.com/track/1RxVbw47XHuwtibKprzX3I"
+      "duration_ms": 159520,
+      "name": "Chall Huaschallay",
+      "url": "https://open.spotify.com/track/756FMK950mmLA7hFN05QT2"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -143,18 +143,18 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Huayno, Vol. 1",
-        "url": "https://open.spotify.com/album/5kHgLSrmQKlEAqY2jYz14P"
+        "name": "Caminando Y Cantando",
+        "url": "https://open.spotify.com/album/5qiNMwmbj1mzo925QVkHGI"
       },
       "artists": [
         {
-          "name": "Conjunto Condemayta de Acomayo",
-          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
+          "name": "Sentimiento Andino",
+          "url": "https://open.spotify.com/artist/24ekejeYKRsI7YE26PczBs"
         }
       ],
-      "duration_ms": 159520,
-      "name": "Chall Huaschallay",
-      "url": "https://open.spotify.com/track/756FMK950mmLA7hFN05QT2"
+      "duration_ms": 215800,
+      "name": "Valicha",
+      "url": "https://open.spotify.com/track/1RxVbw47XHuwtibKprzX3I"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -175,18 +175,22 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Como Siempre\u0085 Con El Mayor Cari\u00f1o",
-        "url": "https://open.spotify.com/album/6wvfzD7OBcegaxiW28Q5gn"
+        "name": "Conjunto Condemayta de Acomayo",
+        "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
       },
       "artists": [
         {
-          "name": "Trio Ayacucho",
-          "url": "https://open.spotify.com/artist/3RRRYXxdsZ7IoFGDALJIA8"
+          "name": "Conjunto Condemayta de Acomayo",
+          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
+        },
+        {
+          "name": "Dr.",
+          "url": "https://open.spotify.com/artist/1ADc6rVs3dlPYfVBF6tDX5"
         }
       ],
-      "duration_ms": 224773,
-      "name": "Adi\u00f3s Pueblo De Ayacucho",
-      "url": "https://open.spotify.com/track/43qqoWGmOa8UAXJZtScAfe"
+      "duration_ms": 164000,
+      "name": "Cuerpo Soltero",
+      "url": "https://open.spotify.com/track/1BcTZEHwY7sII7qRwsKEqg"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -243,22 +247,18 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Conjunto Condemayta de Acomayo",
-        "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
+        "name": "Como Siempre\u0085 Con El Mayor Cari\u00f1o",
+        "url": "https://open.spotify.com/album/6wvfzD7OBcegaxiW28Q5gn"
       },
       "artists": [
         {
-          "name": "Conjunto Condemayta de Acomayo",
-          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
-        },
-        {
-          "name": "Dr.",
-          "url": "https://open.spotify.com/artist/1ADc6rVs3dlPYfVBF6tDX5"
+          "name": "Trio Ayacucho",
+          "url": "https://open.spotify.com/artist/3RRRYXxdsZ7IoFGDALJIA8"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Cuerpo Soltero",
-      "url": "https://open.spotify.com/track/1BcTZEHwY7sII7qRwsKEqg"
+      "duration_ms": 224773,
+      "name": "Adi\u00f3s Pueblo De Ayacucho",
+      "url": "https://open.spotify.com/track/43qqoWGmOa8UAXJZtScAfe"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -295,6 +295,26 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
+        "name": "Conjunto Condemayta de Acomayo",
+        "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Condemayta de Acomayo",
+          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
+        },
+        {
+          "name": "Dr.",
+          "url": "https://open.spotify.com/artist/1ADc6rVs3dlPYfVBF6tDX5"
+        }
+      ],
+      "duration_ms": 173066,
+      "name": "Serenata Condemayta",
+      "url": "https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
         "name": "Lo Mejor del Incomparable...Mario Mendoza",
         "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
       },
@@ -323,26 +343,6 @@
       "duration_ms": 160640,
       "name": "Vas a Llorar",
       "url": "https://open.spotify.com/track/2MprqfkZ99YxetGfp8gZ6W"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
-        "name": "Conjunto Condemayta de Acomayo",
-        "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Condemayta de Acomayo",
-          "url": "https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD"
-        },
-        {
-          "name": "Dr.",
-          "url": "https://open.spotify.com/artist/1ADc6rVs3dlPYfVBF6tDX5"
-        }
-      ],
-      "duration_ms": 173066,
-      "name": "Serenata Condemayta",
-      "url": "https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -923,34 +923,6 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Huaynos corazon y alma",
-        "url": "https://open.spotify.com/album/4pZd4WaXRsP3WdXKHB9MgZ"
-      },
-      "artists": [
-        {
-          "name": "Pastorita Huaracina",
-          "url": "https://open.spotify.com/artist/75Orb0PXE3VANhXihfdxsF"
-        },
-        {
-          "name": "Estrellita de Pomabamba",
-          "url": "https://open.spotify.com/artist/6tnebocZfd2TonZ4j7zFkX"
-        },
-        {
-          "name": "Semilia Collas",
-          "url": "https://open.spotify.com/artist/1HouieVvOiJi7ccoVEFRPc"
-        },
-        {
-          "name": "Pallasquinita",
-          "url": "https://open.spotify.com/artist/7Jt2BKlQ4TjSYTOHLG7xZw"
-        }
-      ],
-      "duration_ms": 186723,
-      "name": "A los filos de un cuchillo",
-      "url": "https://open.spotify.com/track/5r5uesUoq0BbQEG78GrDqB"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
         "name": "La Chinita del Amor",
         "url": "https://open.spotify.com/album/21RqAKaHcfB7LyBn1F3BeP"
       },
@@ -999,6 +971,22 @@
       "duration_ms": 250533,
       "name": "Amor Verdadero (feat. Raices de Jauja)",
       "url": "https://open.spotify.com/track/6mfSHLAzJIg8WRPPiytos7"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "Y Su Per\u00fa Colores",
+        "url": "https://open.spotify.com/album/6cjhSXx1Q0zzS2fuitwPqB"
+      },
+      "artists": [
+        {
+          "name": "Pelo D'Ambrosio",
+          "url": "https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ"
+        }
+      ],
+      "duration_ms": 316696,
+      "name": "Juntito a T\u00ed",
+      "url": "https://open.spotify.com/track/1zL9sHcTeljBcBIMTp8KWi"
     }
   ],
   "unique_name": "Huaynos Cl\u00e1sicos",

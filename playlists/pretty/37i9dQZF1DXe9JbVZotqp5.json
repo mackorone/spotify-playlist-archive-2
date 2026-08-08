@@ -1,12 +1,12 @@
 {
   "description": "Easy rock for that peaceful, easy feeling. Cover: U2",
-  "num_followers": 692903,
+  "num_followers": 692914,
   "original_name": "Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEwjriNkV6Fx2yYQFPZmA0v/9odc",
+  "snapshot_id": "AAAAAEeBeB4T3jviwKmYfOsbP+ok/tb1",
   "tracks": [
     {
       "added_at": "2023-04-11 13:31:58",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Hi Infidelity (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N"
-      },
-      "artists": [
-        {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
-        }
-      ],
-      "duration_ms": 200293,
-      "name": "Keep on Loving You",
-      "url": "https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Misguided Roses",
         "url": "https://open.spotify.com/album/1JB1Zvcddt81PiipQQC319"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 266533,
       "name": "I'll Be",
       "url": "https://open.spotify.com/track/5K7AMlpc4796JRWXb26nCV"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Hi Infidelity (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 200293,
+      "name": "Keep on Loving You",
+      "url": "https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Woodface",
-        "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
-      },
-      "artists": [
-        {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
-        }
-      ],
-      "duration_ms": 224466,
-      "name": "Weather With You",
-      "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Marc Cohn",
         "url": "https://open.spotify.com/album/0Zndfz8u9OTb8sXDkve96m"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 252613,
       "name": "Walking in Memphis",
       "url": "https://open.spotify.com/track/5fgkjhICZnqFctrV0AyuQD"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Woodface",
+        "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 224466,
+      "name": "Weather With You",
+      "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Seals & Crofts' Greatest Hits",
-        "url": "https://open.spotify.com/album/4dkdQY484elFRfcVNY6uzj"
-      },
-      "artists": [
-        {
-          "name": "Seals and Crofts",
-          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/01UYpHuzHi4eB9PAbDoPY2"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "The Battle for Everything",
         "url": "https://open.spotify.com/album/6RWEJvVwr8aCQfRchRhjMq"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 244600,
       "name": "100 Years",
       "url": "https://open.spotify.com/track/2lFlveK1y13WWp3vnQtrr3"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Seals & Crofts' Greatest Hits",
+        "url": "https://open.spotify.com/album/4dkdQY484elFRfcVNY6uzj"
+      },
+      "artists": [
+        {
+          "name": "Seals and Crofts",
+          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/01UYpHuzHi4eB9PAbDoPY2"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 274706,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Leave a Whisper (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0gLVNSNAW4ghjFqHMDFA3l"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 371200,
       "name": "Do I Have To Say The Words?",
       "url": "https://open.spotify.com/track/5zDVyVBJoE0NVUmYcyvTny"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 274706,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
     },
     {
       "added_at": "2023-04-11 13:31:58",

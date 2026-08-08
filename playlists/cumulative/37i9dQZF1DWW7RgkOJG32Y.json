@@ -2373,6 +2373,24 @@
     },
     {
       "album": {
+        "name": "Sunburn Mixtape",
+        "url": "https://open.spotify.com/album/4sXvPhfap6905lHTMJB4gw"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203800,
+      "name": "Crazy To Yourself",
+      "url": "https://open.spotify.com/track/7FrvRHtpJM9ApODPbLx5F8"
+    },
+    {
+      "album": {
         "name": "Creek Will Rise",
         "url": "https://open.spotify.com/album/4UXS7my7tmdX117YcfpXnx"
       },
@@ -4599,6 +4617,28 @@
     },
     {
       "album": {
+        "name": "Hardwired",
+        "url": "https://open.spotify.com/album/7fDNpo4jPuAmeSN7j8OYPB"
+      },
+      "artists": [
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291676,
+      "name": "Hardwired (feat. Miranda Lambert)",
+      "url": "https://open.spotify.com/track/6A297r5nVjE6eXGI6h00SL"
+    },
+    {
+      "album": {
         "name": "The High Road",
         "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
       },
@@ -4800,7 +4840,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 191146,
       "name": "Here (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/5ovPv5nkmtM7fCPvr3OOE6"
@@ -5947,6 +5987,24 @@
     },
     {
       "album": {
+        "name": "Imagine That",
+        "url": "https://open.spotify.com/album/68ZuaQ3UjPkEfaSNBhwjKX"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219673,
+      "name": "Imagine That",
+      "url": "https://open.spotify.com/track/6ENZYKXPoqa5qOcb24pnR7"
+    },
+    {
+      "album": {
         "name": "In Case You Missed It",
         "url": "https://open.spotify.com/album/2c0ukSFnvvlpxZGsSEaln1"
       },
@@ -6190,7 +6248,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 161214,
       "name": "Just Believe",
       "url": "https://open.spotify.com/track/4wudj4XYQ1dqmK2vcZwudU"
@@ -7302,6 +7360,24 @@
       "duration_ms": 157200,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
+    },
+    {
+      "album": {
+        "name": "Memo",
+        "url": "https://open.spotify.com/album/0AEULDFYipP4rXzgSQyz1H"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191733,
+      "name": "Memo",
+      "url": "https://open.spotify.com/track/74ULkLG9L8FiqL8PyxbsFG"
     },
     {
       "album": {
@@ -12704,7 +12780,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 166173,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/0vuj9C2EaijzROiGd4yAvz"

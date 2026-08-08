@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 
 > Music paying tribute to the Heartland of America.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,012 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,018 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 | 17 | [Boys Back Home](https://open.spotify.com/track/6aMCyqX0t9BZGF4VCRJvud) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Raised](https://open.spotify.com/album/7tjtI8UJuD7gwNW7lBesUc) | 3:16 |
 | 18 | [Mamaw's House](https://open.spotify.com/track/3eNOyXmzuA46bUvi8FkIoW) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Mamaw's House](https://open.spotify.com/album/33U85sBjvKsbCsYo5DeEUa) | 3:07 |
 | 19 | [Buy Dirt](https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:47 |
-| 20 | [It's A Great Day To Be Alive](https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:01 |
+| 20 | [Good Directions](https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Doin' Somethin' Right](https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5) | 3:35 |
 | 21 | [American Kids](https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [The Big Revival](https://open.spotify.com/album/2R5PAxygJ4YeRuSwoalKam) | 3:02 |
 | 22 | [Different 'Round Here](https://open.spotify.com/track/4l5w5qGInIhwfvpYmPIYdK) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Different 'Round Here](https://open.spotify.com/album/1FkgWqBfOH8VaaiG8PRGxX) | 2:54 |
-| 23 | [Good Directions](https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Doin' Somethin' Right](https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5) | 3:35 |
+| 23 | [It's A Great Day To Be Alive](https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:01 |
 | 24 | [Favorite Country Song](https://open.spotify.com/track/3roJNjr7zRlLyr1bTPq0AS) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY!](https://open.spotify.com/album/3f1DEK9vqp8w3NL8w5F1s0) | 3:13 |
 | 25 | [Road Less Traveled](https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Road Less Traveled](https://open.spotify.com/album/296hswDnxvymjboFBxvmI5) | 3:36 |
 | 26 | [God's Country](https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [God's Country](https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx) | 3:25 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 | 75 | [Alabama Nights](https://open.spotify.com/track/0wKZraHIi51smdFZOjJgc5) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Alabama Nights](https://open.spotify.com/album/3oE0zEeUQbTKpnFyVUA1uj) | 3:10 |
 | 76 | [Blessings](https://open.spotify.com/track/7dnDBbHKyJNFXoeVwO8KBY) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Can't Say I Ain't Country](https://open.spotify.com/album/64nhe9s692yKECAoMcEQ8U) | 3:18 |
 | 77 | [Time’s Ticking](https://open.spotify.com/track/1lcsXjEeKLhYbnvmmqYY3l) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [This Is My Dirt](https://open.spotify.com/album/1itULb5WhYN3cBKplditfW) | 3:00 |
-| 78 | [The Long Way](https://open.spotify.com/track/5vuMtXS5kQ7F0o9V9rG1dG) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Brett Eldredge](https://open.spotify.com/album/1NUKNYLtePSiZnQj0QeZlo) | 3:28 |
-| 79 | [Save The Roses](https://open.spotify.com/track/4r8tnUcdD9kVETRZSTIa5E) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 3:21 |
+| 78 | [Save The Roses](https://open.spotify.com/track/4r8tnUcdD9kVETRZSTIa5E) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 3:21 |
+| 79 | [The Long Way](https://open.spotify.com/track/5vuMtXS5kQ7F0o9V9rG1dG) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Brett Eldredge](https://open.spotify.com/album/1NUKNYLtePSiZnQj0QeZlo) | 3:28 |
 | 80 | [Red Dirt Road](https://open.spotify.com/track/5QHElgktygMkgRdpPhXfn2) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 4:20 |
 | 81 | [Red Light](https://open.spotify.com/track/66EhdSD4MPXk5ZXljDJWI6) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [I'm About To Come Alive](https://open.spotify.com/album/33DAhrPxgxfXeljwzpgi0y) | 4:06 |
 | 82 | [My Town](https://open.spotify.com/track/5M8oqeozsjPMSXbkjo0SyD) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Something To Be Proud Of: Best Of 1999\-2005](https://open.spotify.com/album/5xPDOWC4cy0sS9FrF7HiHZ) | 4:45 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 | 86 | [Summertime](https://open.spotify.com/track/30ZGbfPsjDNCgL21Qzciuj) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Greatest Hits II](https://open.spotify.com/album/2d4eS9a7DRTlfeTKVJQ0kr) | 3:26 |
 | 87 | [A Little Dive Bar in Dahlonega](https://open.spotify.com/track/7qcRDEpmDWS0bLHaZRYE8c) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 3:29 |
 | 88 | [One Hell Of An Amen](https://open.spotify.com/track/2XEl9DfBj88c8p2bdfx1qu) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Just As I Am \(Platinum Edition\)](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:41 |
-| 89 | [Only In America](https://open.spotify.com/track/3e41nkMyqcAwaQCXJVj87G) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 4:28 |
-| 90 | [Buy Me a Boat](https://open.spotify.com/track/6y35xDJFzpy1FIa6qCMA59) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Buy Me a Boat](https://open.spotify.com/album/6sAHtElvOhT0UQzTII618a) | 2:59 |
+| 89 | [Buy Me a Boat](https://open.spotify.com/track/6y35xDJFzpy1FIa6qCMA59) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Buy Me a Boat](https://open.spotify.com/album/6sAHtElvOhT0UQzTII618a) | 2:59 |
+| 90 | [Only In America](https://open.spotify.com/track/3e41nkMyqcAwaQCXJVj87G) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 4:28 |
 | 91 | [Country On](https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Country On](https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm) | 3:56 |
 | 92 | [Bigger Houses](https://open.spotify.com/track/021oE3KXSweagIO0HsgzcI) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Save Me The Trouble, Heartbreak On The Map, Bigger Houses](https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF) | 3:17 |
 | 93 | [Something Like That](https://open.spotify.com/track/1zG6cEmeo4rv7Old8XD7vC) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Number One Hits](https://open.spotify.com/album/1ckBGyrkltenXO6WNFkqxj) | 3:03 |
 | 94 | [Out In The Middle](https://open.spotify.com/track/1pbUfl4W9KtQ5hNkT6RiXp) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Out in the Middle](https://open.spotify.com/album/3MVvgTvhFQrHXE6coxwl6I) | 2:46 |
 | 95 | [Famous In a Small Town](https://open.spotify.com/track/4oXOOBwZsHFnRRNBNXrr9X) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 4:05 |
 | 96 | [I Go Back](https://open.spotify.com/track/0Ox458KpvZQ1Kuj9mUNPLL) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Greatest Hits II](https://open.spotify.com/album/2d4eS9a7DRTlfeTKVJQ0kr) | 4:00 |
-| 97 | [Counting Chickens](https://open.spotify.com/track/3E53sAWFVi6yuhnfFhnHc9) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:34 |
-| 98 | [Temporary Home](https://open.spotify.com/track/0d0tJF80562KcMndcBcSfM) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 4:29 |
+| 97 | [Temporary Home](https://open.spotify.com/track/0d0tJF80562KcMndcBcSfM) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 4:29 |
+| 98 | [Counting Chickens](https://open.spotify.com/track/3E53sAWFVi6yuhnfFhnHc9) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:34 |
 | 99 | [Good Vibes](https://open.spotify.com/track/49oBFP6ZHPtd6t33LFTD3E) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Good Vibes](https://open.spotify.com/album/6eC1yisEI9vTlYLsPhCett) | 2:45 |
 | 100 | [Home Sweet](https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Home Sweet](https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8) | 3:25 |
 
-Snapshot ID: `AAAAAI2UtwyEjhTUH98UQIyZte6mbLVY`
+Snapshot ID: `AAAAAF9AEAH4UVgWWxc+YSfdIrdUBV0a`

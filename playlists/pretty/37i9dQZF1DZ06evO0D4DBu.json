@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 210788,
+  "num_followers": 210787,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAC/MtfUjvamp504FpiaZT7X",
+  "snapshot_id": "anPOgAAAAACN85KHMRJr/pG92bhJRvsA",
   "tracks": [
     {
       "added_at": null,
@@ -427,6 +427,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "YOU CAN ALWAYS COME BACK HOME",
+        "url": "https://open.spotify.com/album/2ZKYQ4pgjZ87oMJBhdDV1Q"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 231901,
+      "name": "YOU CAN ALWAYS COME BACK HOME",
+      "url": "https://open.spotify.com/track/1XCWAofU9kAmdHda2dJpbj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lost Boy",
         "url": "https://open.spotify.com/album/6Pb7PMZtW0fuEM1lCGvCDu"
       },
@@ -459,26 +479,6 @@
       "duration_ms": 216312,
       "name": "Acid Rain",
       "url": "https://open.spotify.com/track/1aYeBUofVM4l9Pc1XGwz5q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "YOU CAN ALWAYS COME BACK HOME",
-        "url": "https://open.spotify.com/album/2ZKYQ4pgjZ87oMJBhdDV1Q"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 231901,
-      "name": "YOU CAN ALWAYS COME BACK HOME",
-      "url": "https://open.spotify.com/track/1XCWAofU9kAmdHda2dJpbj"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
-  "num_followers": 1481501,
+  "num_followers": 1481733,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAB5nbmIeei+6kHqzjSOKz8Y",
+  "snapshot_id": "anPOgAAAAACp/WCcNnqyOyQW81ADqvN7",
   "tracks": [
     {
       "added_at": null,
@@ -579,6 +579,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BULLY - DELUXE",
         "url": "https://open.spotify.com/album/3hwveWhYFxGDLy6K6xlwFh"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 137142,
       "name": "I CAN\u2019T WAIT (feat. Ms. Lauryn Hill)",
       "url": "https://open.spotify.com/track/6ImNhLq3RabOnEHfoRdvd4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
     },
     {
       "added_at": null,
@@ -735,22 +735,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BULLY",
-        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
+        "name": "Donda",
+        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
       },
       "artists": [
         {
           "name": "Kanye West",
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ye",
-          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
         }
       ],
-      "duration_ms": 111157,
-      "name": "HIGHS AND LOWS",
-      "url": "https://open.spotify.com/track/565G1vHZu2xoxrnTyF06Qw"
+      "duration_ms": 226652,
+      "name": "Praise God",
+      "url": "https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T"
     },
     {
       "added_at": null,
@@ -811,18 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Donda",
-        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
+        "name": "BULLY",
+        "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
       },
       "artists": [
         {
           "name": "Kanye West",
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq"
         }
       ],
-      "duration_ms": 226652,
-      "name": "Praise God",
-      "url": "https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T"
+      "duration_ms": 111157,
+      "name": "HIGHS AND LOWS",
+      "url": "https://open.spotify.com/track/565G1vHZu2xoxrnTyF06Qw"
     },
     {
       "added_at": null,
@@ -871,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 181573,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BULLY",
         "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 126868,
       "name": "KING",
       "url": "https://open.spotify.com/track/4LP6bmyAxdMNrqUrMpaVQ8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Life Of Pablo",
-        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 181573,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL"
     },
     {
       "added_at": null,
@@ -963,6 +963,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Donda",
+        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 156091,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BULLY",
         "url": "https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 108334,
       "name": "PUNCH DRUNK",
       "url": "https://open.spotify.com/track/4bWZz15GR1EE8E8x23rDWV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Donda",
-        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 156091,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn"
     }
   ],
   "unique_name": "This Is Kanye West",

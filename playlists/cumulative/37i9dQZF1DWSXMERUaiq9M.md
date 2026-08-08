@@ -4,7 +4,7 @@
 
 > 🚀 when ur love language is bpm 🚀  Cover: southstar
 
-797 songs - 1 day 23 hr 16 min
+797 songs - 1 day 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -713,6 +713,7 @@
 | [The Wonderlightskin Condition](https://open.spotify.com/track/0o6wBUf9Qj8Vb6IadjsQWv) | [François X](https://open.spotify.com/artist/5sHHgrgK3vQ0jwKIT1D4xu) | [The Wonderlightskin Condition](https://open.spotify.com/album/4qa81DTQ6o6sTBCtpiHrhP) | 5:06 | 2023-06-05 | 2023-06-10 |
 | [Thinking Of You](https://open.spotify.com/track/63ylgloVqA0h7tEPgoahjq) | [dj try](https://open.spotify.com/artist/7E5PgS3pelJYovRn4EQv3F), [Pagan](https://open.spotify.com/artist/64DMGOuRN75gf19FY7eVme) | [Thinking Of You](https://open.spotify.com/album/17WtsvEEzvShSsGGeZE6kW) | 2:48 | 2026-07-02 | 2026-07-10 |
 | [This Goes Like That](https://open.spotify.com/track/4mVxB2MyU55hd3F46YG6EN) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [New Era](https://open.spotify.com/album/0zrZLUbF1TV5mwUi63qwQh) | 2:24 | 2026-03-26 | 2026-04-10 |
+| [this is the moment \(cuerpo\)](https://open.spotify.com/track/1AF9gqUhT9jyOHDzDUTZMc) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [LIFE](https://open.spotify.com/album/0vL3Vv27UfbRVLL7B9j1ab) | 3:52 | 2026-08-06 |  |
 | [Through My Veins \- Edit](https://open.spotify.com/track/17wUCYjzJFiGXiipM7QMIW) | [Marhu](https://open.spotify.com/artist/25az6IQ02a8MQRCKU4JEea) | [Through My Veins EP](https://open.spotify.com/album/3eWB6et4exOakZPKAD1nod) | 3:30 | 2023-04-06 | 2023-06-02 |
 | [Throw It Back](https://open.spotify.com/track/1RiUCViwSix0tpcJAkUikB) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR), [Bassfeature](https://open.spotify.com/artist/6gJ6e0zgqpzY9032oXvb8l) | [Throw It Back](https://open.spotify.com/album/2uONCUiqr7M16IVeBrgUzf) | 2:04 | 2024-10-25 | 2026-03-06 |
 | [TICK TOCK \(RAVE O'CLOCK\)](https://open.spotify.com/track/2l7PbkQGcwkyLQwtfCCMnF) | [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3), [JO KX](https://open.spotify.com/artist/60SpGg7FwnDgU2iBzOTGs5) | [TICK TOCK \(RAVE O'CLOCK\)](https://open.spotify.com/album/7uDj0bu6c0WZ3HdDjMU1j7) | 2:13 | 2026-06-11 | 2026-07-03 |
@@ -726,7 +727,6 @@
 | [Toter Schmetterling \- Single Edit](https://open.spotify.com/track/6IDywtwTrAkEsmJkPSNs27) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Sant](https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u) | [Toter Schmetterling](https://open.spotify.com/album/4TIt20JTmC6Vr99zuoSQlf) | 2:44 | 2025-09-18 | 2025-11-09 |
 | [Touch My Body](https://open.spotify.com/track/0iUwIi7QYV7ecwiwx5pCgd) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Touch My Body](https://open.spotify.com/album/2sFc58O2JuDvjGT11Gzgli) | 2:45 | 2024-08-29 | 2024-09-17 |
 | [Touch My Body](https://open.spotify.com/track/4phMw5RRSbWpVWCBvOwsoO) | [NOTMYTYPE](https://open.spotify.com/artist/7hjdOgAfEdNYBGViGyy28U), [IGDA](https://open.spotify.com/artist/0ak1kXL9XCay4yQq9ha2U8) | [Touch My Body](https://open.spotify.com/album/22tKTbDZGkrXRp4VDUZmDH) | 4:01 | 2024-06-13 | 2024-10-26 |
-| [Track 3](https://open.spotify.com/track/1AF9gqUhT9jyOHDzDUTZMc) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [LIFE](https://open.spotify.com/album/0vL3Vv27UfbRVLL7B9j1ab) | 0:00 | 2026-08-06 |  |
 | [Trajadão](https://open.spotify.com/track/3C9dOOUF0nUTy1hSvBEe7H) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Sun FM](https://open.spotify.com/album/16loyrI8kbGUd53IzTBXE3) | 2:42 | 2025-08-07 | 2025-08-16 |
 | [Transgender](https://open.spotify.com/track/2pgfgEF6CWsrPFF8HB6Xra) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [Police In Paris](https://open.spotify.com/artist/2NQvfk2OahqD2YybayOHC2), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Transgender](https://open.spotify.com/album/46muHUrkAVYiExmNO11XhI) | 2:56 | 2024-10-25 |  |
 | [Traum](https://open.spotify.com/track/0zsE0og8kz0nddQFeNrgPG) | [David Löhlein](https://open.spotify.com/artist/2RibmjRGf8SiwxdCQZ9N1C), [VELA](https://open.spotify.com/artist/4UQF8SErsJMBFjJedVPLOw) | [Traum](https://open.spotify.com/album/2nbJe0AgTzQsQYvd3ZXECP) | 3:34 | 2025-04-17 | 2026-03-20 |

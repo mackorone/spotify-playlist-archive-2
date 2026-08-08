@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0MYMXcPN7yx8kdLSKi3Rqb">Gabe Simon</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369 likes - 182 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 370 likes - 182 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 100 | [Gotta Get To Know Ya](https://open.spotify.com/track/2v8jqoNTcjzgS2W5UG9QhB) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [POWER](https://open.spotify.com/album/2gHwDJVrMGadBm6mPUnWt5) | 2:17 |
 | 101 | [Breakin'](https://open.spotify.com/track/2JkbiwiIiPeQyjkQtKGf4X) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Happy To Be Here](https://open.spotify.com/album/4fhcxulBSzmg4aENyGBZNT) | 4:23 |
 | 102 | [Automatic](https://open.spotify.com/track/5R8lOiAXEKj6IS1wJROpr7) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Portraits](https://open.spotify.com/album/0ntTitta8btOS93RiM3TrO) | 3:07 |
-| 103 | [I Did This To Me](https://open.spotify.com/track/0IM9Wi3nP3iHOXko69vnKg) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Across The Sheets](https://open.spotify.com/album/7nWjFzbfY7W4FxTAzKfhMu) | 3:32 |
-| 104 | [Sinner](https://open.spotify.com/track/6qlYqUpPEYimStKV3nhcix) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 4:02 |
+| 103 | [Sinner](https://open.spotify.com/track/6qlYqUpPEYimStKV3nhcix) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 4:02 |
+| 104 | [I Did This To Me](https://open.spotify.com/track/0IM9Wi3nP3iHOXko69vnKg) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Across The Sheets](https://open.spotify.com/album/7nWjFzbfY7W4FxTAzKfhMu) | 3:32 |
 | 105 | [Nowhere Fast](https://open.spotify.com/track/17QqHs8dXWR6HcELuqC04z) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 4:31 |
 | 106 | [Split Personality Blues](https://open.spotify.com/track/4nI1De11kRgTRO0GGsnrVe) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [A Quiet and Harmless Living](https://open.spotify.com/album/5egJ5566L6RrYEsz1JOYvd) | 3:55 |
 | 107 | [Black Widow](https://open.spotify.com/track/4ZatCCisvqrcIWx2Kshb33) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/6RqohXVE3YRsRbaS9sm5G2) | 2:50 |
@@ -135,8 +135,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 125 | [French Girls](https://open.spotify.com/track/1HFVDMxkXsYSF7MV2i9j4n) | [Swimming With Bears](https://open.spotify.com/artist/7fvjtxGJoVNFZf1rGddHSD) | [French Girls](https://open.spotify.com/album/3zRBTq4T2qOPfuqTC6kHv5) | 3:41 |
 | 126 | [Devastation \(with PAMÉ\)](https://open.spotify.com/track/6oxH7cP0JbbICm8DdVYta9) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03) | [Devastation \(with PAMÉ\)](https://open.spotify.com/album/1yFtcNjSezziWM0lXQAT5h) | 3:22 |
 | 127 | [Parallel Lines \(feat\. Aron Wright\)](https://open.spotify.com/track/1XZwJeg5jryK2LWFyPDWlE) | [Future Reference](https://open.spotify.com/artist/7sgujsUpd4gQyKWDGLcauv), [Aron Wright](https://open.spotify.com/artist/4MKVLp1MAwYFqaXhe1g8dA) | [Parallel Lines \(feat\. Aron Wright\)](https://open.spotify.com/album/60BgZECcvdJ4oINnmPYqTG) | 3:51 |
-| 128 | [Seasons](https://open.spotify.com/track/0jzuoUYtIxSMJLUktZXV9o) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Garrett Nash](https://open.spotify.com/artist/0rdndvV0SFiSHPRHHUNmR0) | [one](https://open.spotify.com/album/1tZ2W5PW2lyAf1K7sTM6iW) | 3:24 |
-| 129 | [Problem](https://open.spotify.com/track/0qGyFPcW68FQZpDYn1fLDw) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I'm Not Afraid Of Music Anymore](https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd) | 3:31 |
+| 128 | [Problem](https://open.spotify.com/track/0qGyFPcW68FQZpDYn1fLDw) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I'm Not Afraid Of Music Anymore](https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd) | 3:31 |
+| 129 | [Seasons](https://open.spotify.com/track/0jzuoUYtIxSMJLUktZXV9o) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Garrett Nash](https://open.spotify.com/artist/0rdndvV0SFiSHPRHHUNmR0) | [one](https://open.spotify.com/album/1tZ2W5PW2lyAf1K7sTM6iW) | 3:24 |
 | 130 | [I Believe](https://open.spotify.com/track/46wkwGumty9sQ28Y9mzekY) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Good Morning Stranger](https://open.spotify.com/album/3l68t2EXAFAy2owRv4lQPZ) | 2:46 |
 | 131 | [Portraits](https://open.spotify.com/track/2Req5uUF6yCH0eaBUhWsCz) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Portraits](https://open.spotify.com/album/0ntTitta8btOS93RiM3TrO) | 3:53 |
 | 132 | [Born Tough](https://open.spotify.com/track/3g8vcfT5SKoBtA7SYf6147) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/6RqohXVE3YRsRbaS9sm5G2) | 3:51 |
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 181 | [Own The Night](https://open.spotify.com/track/0BorUElU7vFO51qKnAx8kM) | [Proper Gentlemen](https://open.spotify.com/artist/5eTE3zXt71ehPvKzn0GuJh), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Own The Night](https://open.spotify.com/album/5Ph15urX6DYg3XRrw3Zw3X) | 3:34 |
 | 182 | [Going Nowhere](https://open.spotify.com/track/2Jcch257ODLARJyQENv541) | [WAITERS](https://open.spotify.com/artist/3mv2bMoIxhLVw3eRBFoO9h) | [Going Nowhere](https://open.spotify.com/album/4luFG6rwCdyRJvses0MjIx) | 3:20 |
 
-Snapshot ID: `AcY43AAAAABNmzcZ0XMIZ0sYD54FP8Wh`
+Snapshot ID: `AcY+NgAAAAAAr7G15d9Q5zTfshDDibUP`

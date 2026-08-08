@@ -2,9 +2,9 @@
 
 ### [ALT\_QC](https://open.spotify.com/playlist/37i9dQZF1DX03FBMYrWi0n)
 
-> L’alternatif québécois à plein volume\. Photo: Lewis Dice
+> L’alternatif québécois à plein volume\. Photo: Nicholas Cangiano
 
-611 songs - 1 day 10 hr 34 min
+613 songs - 1 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Cantalou](https://open.spotify.com/track/4LH1yovTzfMEVOg1con0BD) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Cantalou](https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd) | 3:31 | 2023-02-10 | 2025-10-11 |
 | [Carte du ciel](https://open.spotify.com/track/57nLBQ5B7m20grJpimsQyv) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Soleil '96](https://open.spotify.com/album/6gybIPCRMEkBMEfOhnziWE) | 2:49 | 2025-03-28 | 2025-09-28 |
 | [CashCash](https://open.spotify.com/track/5LwCGDHsiuGfDvRhPGiKEZ) | [Will Scott III](https://open.spotify.com/artist/6K3jWTMwwlx3Fww59I8KOt) | [CashCash](https://open.spotify.com/album/1OdB65XeDTURCXF2XVczRT) | 3:15 | 2026-05-08 |  |
-| [CASTLE WALLS](https://open.spotify.com/track/2THUiEvUWbVl71pqdsubSS) | [Coutchou](https://open.spotify.com/artist/6V4i9J5COuQb6HHKIbIqrR) | [CASTLE WALLS](https://open.spotify.com/album/3sXHEUHO8NLFxZMdcpJz4D) | 3:09 | 2026-05-08 |  |
+| [CASTLE WALLS](https://open.spotify.com/track/2THUiEvUWbVl71pqdsubSS) | [Coutchou](https://open.spotify.com/artist/6V4i9J5COuQb6HHKIbIqrR) | [CASTLE WALLS](https://open.spotify.com/album/3sXHEUHO8NLFxZMdcpJz4D) | 3:09 | 2026-05-08 | 2026-08-08 |
 | [Ce n'est pas de la chance](https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 4:52 | 2023-02-10 | 2025-10-11 |
 | [Ce qu'il reste de nous](https://open.spotify.com/track/1IQ65ML4nBZiyIHs3ooirm) | [Nana Quinn](https://open.spotify.com/artist/6oB1eI3s62d0KyLxrKG0x4) | [Ce qu'il reste de nous](https://open.spotify.com/album/2q1xOv4ke2mpZDN5mPOzkM) | 5:36 | 2026-01-09 | 2026-04-04 |
 | [Ce qu'on aura](https://open.spotify.com/track/7hHXK4lcDDjgfR7hwPYhhl) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Ce qu'on aura](https://open.spotify.com/album/4SPAxI22NjJMFzmLABVEhl) | 3:56 | 2024-01-26 | 2024-06-01 |
@@ -224,6 +224,7 @@
 | [graduation](https://open.spotify.com/track/3xsEofcAiQgpYqDOoAMJpK) | [hooper](https://open.spotify.com/artist/6xEOM5GlVNZpX1Db8f4jVp) | [graduation](https://open.spotify.com/album/29nnIgIqOY8pb1jYu9pH7V) | 2:27 | 2026-04-10 | 2026-05-30 |
 | [Gros truck](https://open.spotify.com/track/1FJkK7vNFpLvZjCKKROECx) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [P'tit Belliveau](https://open.spotify.com/album/5SZCCO2cJiLbQ5vUopQxh2) | 3:19 | 2025-10-31 | 2025-11-29 |
 | [Habitat](https://open.spotify.com/track/0L9PnZbx3ySxrQZgfQPJVX) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Habitat](https://open.spotify.com/album/04Tv2pBqM5gHrJQXOyLJNq) | 4:48 | 2025-10-31 | 2026-02-15 |
+| [half smile](https://open.spotify.com/track/0TpdlGxaVraIe1dDXdFehk) | [Hockitay](https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI) | [half smile](https://open.spotify.com/album/5G1gVUZZilR2abtg15VI6A) | 3:48 | 2026-08-07 |  |
 | [HALO](https://open.spotify.com/track/2qMV1xOeaYQnwAJZc6hYFG) | [Hugo Bolduc](https://open.spotify.com/artist/2vFxfMTdn9VsM2GjC8mbIk) | [HALO](https://open.spotify.com/album/5kH18xOvJmqwfkGcK9J5so) | 4:15 | 2026-03-06 | 2026-05-02 |
 | [hana](https://open.spotify.com/track/13Ue2YJXcvl8Wm5iv0TlMo) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Astral 2000](https://open.spotify.com/album/2qsyEK8oIuQEIUryUqL3jp) | 2:35 | 2025-02-06 | 2025-11-15 |
 | [hana](https://open.spotify.com/track/2Qvvb2wC3wPiRP2C0xxsc6) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [hana](https://open.spotify.com/album/2TkxPbXf8lg0cgHZh823Tg) | 2:35 | 2024-04-19 | 2024-11-13 |
@@ -499,6 +500,7 @@
 | [She's Not Coming](https://open.spotify.com/track/4QGZnFfBP8OGd5a8EphTgd) | [Apacalda](https://open.spotify.com/artist/7G8qJFWUYe3bsBN1cGjSq1) | [There’s a Shadow in My Room and It Isn’t Mine](https://open.spotify.com/album/0xQxPvuXME9IoWS2y3EwA6) | 3:44 | 2025-10-10 | 2025-12-13 |
 | [Shine](https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq) | [ALIAS](https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w) | [Shine](https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra) | 2:11 | 2023-02-10 | 2025-10-11 |
 | [Shoegaze](https://open.spotify.com/track/6t5COdf65qd8igj588vkET) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Fleur de l'Âge](https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev) | 3:22 | 2023-02-10 | 2025-10-11 |
+| [Shotgun](https://open.spotify.com/track/3FR6I74FRcFyT3DQqOzA6a) | [Nicholas Cangiano](https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg) | [Shotgun](https://open.spotify.com/album/1iZ0lfz4ICkV3iht0kcXOk) | 3:06 | 2026-08-07 |  |
 | [Shrala](https://open.spotify.com/track/0za6Bjao6YFkxIOc6pT6fx) | [Ping Pong Go](https://open.spotify.com/artist/5C3BsAXPHbkUKm3wi8GUMG), [Dolphin Hyperspace](https://open.spotify.com/artist/6tTZ6fX5qsm8Alc9GLwJ9q) | [Smash Combat](https://open.spotify.com/album/3wb0gR13hzmsFExK0AWCEG) | 3:33 | 2026-04-17 |  |
 | [Si j'te manque](https://open.spotify.com/track/1mlQyUkRTPTFqrDS3pyzfk) | [ēphębe](https://open.spotify.com/artist/77MvFNNivlJvRCWc9fRCyS), [LVJ](https://open.spotify.com/artist/6l8uonAXxnU5MOseYbEvEp) | [DÉCORS\-PRINTEMPS](https://open.spotify.com/album/50osQZVOPL8UXPQAZGF3l1) | 2:39 | 2026-06-26 |  |
 | [Si oui ou non](https://open.spotify.com/track/0OPEi21gk2S0fg8yMRcews) | [Vanwho](https://open.spotify.com/artist/71iQoMPHCdAMAQGlDyepk8) | [Si oui ou non](https://open.spotify.com/album/1BBSrtHVh6HuAmaOVgahGm) | 2:20 | 2023-06-02 | 2024-05-20 |
@@ -573,7 +575,7 @@
 | [Un, deux, trois](https://open.spotify.com/track/4uogzCWt6guhPUvB3qIPz8) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Un, deux, trois](https://open.spotify.com/album/60TeY4X9sTHrJtazAXnPv1) | 3:50 | 2025-11-14 | 2026-03-07 |
 | [Uncomfortable](https://open.spotify.com/track/41oTqHIO4rKtGCF7fINvkQ) | [def sera](https://open.spotify.com/artist/6TMQV1NysNlRhrDbEz6vtE), [Oatmilkandcodeine](https://open.spotify.com/artist/0j3PryakINdSkE4zVocQY3) | [Uncomfortable](https://open.spotify.com/album/1u9HjnmHxQeLpfwbuot74P) | 2:31 | 2026-07-24 |  |
 | [Une autre vie](https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Une autre vie](https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z) | 3:25 | 2023-05-15 | 2025-09-29 |
-| [usd freestyle](https://open.spotify.com/track/1pQXbtBuFBl9Mh6okzbCOO) | [whyhaze](https://open.spotify.com/artist/4QqnuHKfpTHncKt0om35AE) | [usd freestyle](https://open.spotify.com/album/7ah0FaZoAsVX8rekhDOaEo) | 1:05 | 2026-07-31 |  |
+| [usd freestyle](https://open.spotify.com/track/1pQXbtBuFBl9Mh6okzbCOO) | [whyhaze](https://open.spotify.com/artist/4QqnuHKfpTHncKt0om35AE) | [usd freestyle](https://open.spotify.com/album/7ah0FaZoAsVX8rekhDOaEo) | 1:05 | 2026-07-31 | 2026-08-08 |
 | [v\(.\)id](https://open.spotify.com/track/3ORFKDDcnkzQqJ4qCZ3SmW) | [Julien Fillion](https://open.spotify.com/artist/41meYWkE4vtiq0GELl6UVo) | [ego.alt](https://open.spotify.com/album/7oSkkA2IOjHVZ0eVgLf05R) | 4:51 | 2026-02-14 | 2026-03-28 |
 | [veux veux pas](https://open.spotify.com/track/33bMQErvWevcA7zMxXE0wS) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [tu penses\-tu + veux veux pas](https://open.spotify.com/album/0wp331DVEUGOSpXH91uDsy) | 3:10 | 2023-08-25 | 2025-09-13 |
 | [Viendras\-tu pleurer?](https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Viendras\-tu pleurer?](https://open.spotify.com/album/0vi46z2QfWE6AvGApoT6tm) | 3:27 | 2023-03-17 | 2024-04-30 |

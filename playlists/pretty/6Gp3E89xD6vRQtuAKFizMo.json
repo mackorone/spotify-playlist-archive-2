@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every week!",
-  "num_followers": 43340,
+  "num_followers": 43341,
   "original_name": "DIM MAK: IN ROTATION",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAay19Nhbc9r8lojhVt5K9LOtfYO/8A",
+  "snapshot_id": "AAAazeLZvPRy0RaHU1WdbGhJ0MYJSnx2",
   "tracks": [
+    {
+      "added_at": "2026-08-07 12:55:04",
+      "album": {
+        "name": "AREA",
+        "url": "https://open.spotify.com/album/4h1r0SbjYdIPwNAGbe5bxj"
+      },
+      "artists": [
+        {
+          "name": "Bok Nero",
+          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
+        },
+        {
+          "name": "herd.",
+          "url": "https://open.spotify.com/artist/6SjZUnw89ZT8czspx9cCwS"
+        }
+      ],
+      "duration_ms": 150447,
+      "name": "AREA",
+      "url": "https://open.spotify.com/track/05V7BAZ1pEI5452r3wPgGP"
+    },
     {
       "added_at": "2026-07-31 14:08:31",
       "album": {

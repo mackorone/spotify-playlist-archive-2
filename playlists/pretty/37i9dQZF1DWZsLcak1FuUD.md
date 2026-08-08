@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 
 > Fue durante los '70 que el Rock se manifestó como un gigante a nivel mundial\. Argentina no fue la excepción\.  Foto: <a href="spotify:artist:10vtHOCA3qPLmrGylgO2F1">Manal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,052 likes - 55 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,055 likes - 55 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 | 54 | [En el país de la libertad](https://open.spotify.com/track/0lfov5kPf3ejdXkhJA7aBB) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [León Gieco \(LP\)](https://open.spotify.com/album/3NCJaYCdXcXJTm042Yxxrs) | 3:09 |
 | 55 | [Libre y Natural](https://open.spotify.com/track/01f2S6GEXC6p7uyTqywAhb) | [Espiritu](https://open.spotify.com/artist/5QH5oyyvZkvgzAiENV3tph) | [Libre y Natural](https://open.spotify.com/album/0feWJCXh1sNsrfSPlweONV) | 4:09 |
 
-Snapshot ID: `AAAAANcrWlffL37ZzkCJAxO0JK9Aijiw`
+Snapshot ID: `AAAAAJh9vNvnMhpreomM4gW+hqcpvY0Q`

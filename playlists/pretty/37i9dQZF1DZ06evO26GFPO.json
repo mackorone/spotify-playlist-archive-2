@@ -1,12 +1,12 @@
 {
   "description": "This is LUDMILLA. The essential tracks, all in one playlist.",
-  "num_followers": 304585,
+  "num_followers": 304582,
   "original_name": "This Is LUDMILLA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAADoflClkyVeKkj1nNo5auyE",
+  "snapshot_id": "anPOgAAAAAAePfcPXw6+1cao9CNVqQwK",
   "tracks": [
     {
       "added_at": null,
@@ -351,18 +351,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
+        "name": "Sorriso Eu Gosto No Pagode - Lado B (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1lg7QOQAGyOQO0Fua7Izgv"
       },
       "artists": [
         {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
           "name": "LUDMILLA",
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Gamadinho",
+          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
         }
       ],
-      "duration_ms": 192870,
-      "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
+      "duration_ms": 206105,
+      "name": "Meu Plano - Ao Vivo",
+      "url": "https://open.spotify.com/track/1DpkhxZbO251cYItLJLevv"
     },
     {
       "added_at": null,
@@ -387,22 +395,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numanice (Ao vivo)",
-        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
       },
       "artists": [
         {
           "name": "LUDMILLA",
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
         }
       ],
-      "duration_ms": 220004,
-      "name": "Amor Dif\u00edcil - Ao vivo",
-      "url": "https://open.spotify.com/track/7vzfaxzAl0YNLBp2xA7T0b"
+      "duration_ms": 192870,
+      "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
     },
     {
       "added_at": null,
@@ -423,6 +427,26 @@
       "duration_ms": 154164,
       "name": "Falta de Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/2IGh6DnMiX408xwoJP9Lmb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Numanice (Ao vivo)",
+        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 220004,
+      "name": "Amor Dif\u00edcil - Ao vivo",
+      "url": "https://open.spotify.com/track/7vzfaxzAl0YNLBp2xA7T0b"
     },
     {
       "added_at": null,
@@ -467,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
-        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
-      },
-      "artists": [
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 233637,
-      "name": "Paci\u00eancia (Participa\u00e7\u00e3o especial de Ludmilla) - Ao vivo",
-      "url": "https://open.spotify.com/track/3jHsNUej99xBE7TX3fg1xD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Numanice #3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
       },
@@ -507,26 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorriso Eu Gosto No Pagode - Lado B (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1lg7QOQAGyOQO0Fua7Izgv"
+        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
+        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
       },
       "artists": [
         {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
         },
         {
           "name": "LUDMILLA",
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Gamadinho",
-          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
         }
       ],
-      "duration_ms": 206105,
-      "name": "Meu Plano - Ao Vivo",
-      "url": "https://open.spotify.com/track/1DpkhxZbO251cYItLJLevv"
+      "duration_ms": 233637,
+      "name": "Paci\u00eancia (Participa\u00e7\u00e3o especial de Ludmilla) - Ao vivo",
+      "url": "https://open.spotify.com/track/3jHsNUej99xBE7TX3fg1xD"
     },
     {
       "added_at": null,
@@ -631,6 +631,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mo\u00e7a",
+        "url": "https://open.spotify.com/album/5lKJXq6buEHcbd7LGmCs1z"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 134311,
+      "name": "Mo\u00e7a",
+      "url": "https://open.spotify.com/track/3hnFZQNmaYvNgroiiCKRcf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Numanice #2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 133610,
       "name": "Dia de Fluxo",
       "url": "https://open.spotify.com/track/6GmyQws2xpUFIN5dXBNTrl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mo\u00e7a",
-        "url": "https://open.spotify.com/album/5lKJXq6buEHcbd7LGmCs1z"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 134311,
-      "name": "Mo\u00e7a",
-      "url": "https://open.spotify.com/track/3hnFZQNmaYvNgroiiCKRcf"
     },
     {
       "added_at": null,
@@ -927,26 +927,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BOTA",
-        "url": "https://open.spotify.com/album/3dR7Ki6FZ7ZzERpGaDqizJ"
+        "name": "Ningu\u00e9m Merece Amar Sozinho",
+        "url": "https://open.spotify.com/album/4791KfaEDaxtKtv1kzxVh0"
       },
       "artists": [
         {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
           "name": "LUDMILLA",
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 178173,
-      "name": "BOTA",
-      "url": "https://open.spotify.com/track/6XRjI89oGBRJe0etKtI04L"
+      "duration_ms": 227720,
+      "name": "Ningu\u00e9m Merece Amar Sozinho",
+      "url": "https://open.spotify.com/track/3rCnVAG0josT5ql2MAFGmT"
     },
     {
       "added_at": null,
@@ -967,22 +963,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ningu\u00e9m Merece Amar Sozinho",
-        "url": "https://open.spotify.com/album/4791KfaEDaxtKtv1kzxVh0"
+        "name": "BOTA",
+        "url": "https://open.spotify.com/album/3dR7Ki6FZ7ZzERpGaDqizJ"
       },
       "artists": [
         {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        },
-        {
           "name": "LUDMILLA",
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 227720,
-      "name": "Ningu\u00e9m Merece Amar Sozinho",
-      "url": "https://open.spotify.com/track/3rCnVAG0josT5ql2MAFGmT"
+      "duration_ms": 178173,
+      "name": "BOTA",
+      "url": "https://open.spotify.com/track/6XRjI89oGBRJe0etKtI04L"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Lakeyah. The essential tracks, all in one playlist.",
-  "num_followers": 3980,
+  "num_followers": 3983,
   "original_name": "This Is Lakeyah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAADINjqodkU0tzZVqyPMeop9",
+  "snapshot_id": "anPOgAAAAABBPXUfcx7Kc91KkYJPPxSz",
   "tracks": [
     {
       "added_at": null,
@@ -230,15 +230,11 @@
         {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
         }
       ],
-      "duration_ms": 141512,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/7nOkNaXqygqopH34aDBmUl"
+      "duration_ms": 168997,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/43yavpJdlpq8CcEs8nIdyg"
     },
     {
       "added_at": null,
@@ -255,22 +251,6 @@
       "duration_ms": 113450,
       "name": "I Look Good",
       "url": "https://open.spotify.com/track/1qk4oqAEOI0cN8D1J9ato9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HERSKIII",
-        "url": "https://open.spotify.com/album/38JmIfXjU8a4rzXXfVhaYc"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 120774,
-      "name": "HERSKIII",
-      "url": "https://open.spotify.com/track/56S3eKpkoFAslFnVWlzlxx"
     },
     {
       "added_at": null,
@@ -303,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Due Time",
-        "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
+        "name": "HERSKIII",
+        "url": "https://open.spotify.com/album/38JmIfXjU8a4rzXXfVhaYc"
       },
       "artists": [
         {
@@ -312,9 +292,29 @@
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 168997,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/43yavpJdlpq8CcEs8nIdyg"
+      "duration_ms": 120774,
+      "name": "HERSKIII",
+      "url": "https://open.spotify.com/track/56S3eKpkoFAslFnVWlzlxx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Due Time",
+        "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "duration_ms": 141512,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/7nOkNaXqygqopH34aDBmUl"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time's Up",
-        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "2 Tone",
-      "url": "https://open.spotify.com/track/3Jnl2guSuAyunmKjC7OuO0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bridge Kard Blessings",
         "url": "https://open.spotify.com/album/4QtZPldoGdF4IqrF8s0Cxy"
       },
@@ -831,6 +815,38 @@
       "duration_ms": 146938,
       "name": "To The Money - feat. Lakeyah",
       "url": "https://open.spotify.com/track/3T5HI7UR2SktOZYI3Bd9dz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "2 Tone",
+      "url": "https://open.spotify.com/track/3Jnl2guSuAyunmKjC7OuO0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Pressure (Pt. 2)",
+        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 117600,
+      "name": "No Hook",
+      "url": "https://open.spotify.com/track/2qPevuRQkYmm5dvJYWDCny"
     },
     {
       "added_at": null,
@@ -855,38 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pressure (Pt. 2)",
-        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 117600,
-      "name": "No Hook",
-      "url": "https://open.spotify.com/track/2qPevuRQkYmm5dvJYWDCny"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Time's Up",
-        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 111158,
-      "name": "Basic",
-      "url": "https://open.spotify.com/track/6Gl7QRLReR3soZaOSQuKpc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Not Me It's You (Deluxe)",
         "url": "https://open.spotify.com/album/4JUp6qReEgKfOP76grq6v0"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 161684,
       "name": "Rich Bitch (feat. Lakeyah & Coi Leray)",
       "url": "https://open.spotify.com/track/0KIxQnTtdBtQmLA3oXzFEB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 111158,
+      "name": "Basic",
+      "url": "https://open.spotify.com/track/6Gl7QRLReR3soZaOSQuKpc"
     },
     {
       "added_at": null,

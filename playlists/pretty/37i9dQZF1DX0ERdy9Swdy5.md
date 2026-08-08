@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 
 > Lo mejor de la década\. En portada: Joe Arroyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 808,106 likes - 100 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 808,185 likes - 100 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 87 | [Bastó una Mirada](https://open.spotify.com/track/4j16ZetB2rjAvjtKJEmQ5J) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:52 |
 | 88 | [Mascarada](https://open.spotify.com/track/7DKmBQ6INFuFRNSQsnwqeX) | [Johnny Ray](https://open.spotify.com/artist/0pC0pFLfdKMboJmKgYgmuw) | [Exitos Eternos](https://open.spotify.com/album/4dY4pdEIlP4XX9Vdj915Qg) | 4:37 |
 | 89 | [Aparentemente](https://open.spotify.com/track/4SipDsIDlvpv37P41D7Ec3) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Oro Salsero](https://open.spotify.com/album/2tG9CZgoAY04Rr1iR5OstZ) | 5:05 |
-| 90 | [Enamorado De Ti \- Salsa Version](https://open.spotify.com/track/5EOiyV8PrLDXBuvS1NdVu3) | [Frankie Negrón](https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16), [Ronnie Torres and Ramon Sanchez](https://open.spotify.com/artist/2jebsUroQNfYr1931DQHge) | [Lo Que Llevo Por Dentro](https://open.spotify.com/album/1QTe8NivESo3klvIIhk2Bs) | 4:52 |
+| 90 | [Agua Pasada](https://open.spotify.com/track/046WevUCvKfJC6FrowsePK) | [Frankie Negrón](https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16) | [No Me Compares](https://open.spotify.com/album/7b6xEvGDEPsUEtT9VfPaFj) | 4:57 |
 | 91 | [O Ella O Yo](https://open.spotify.com/track/0jysCamDBv9EeAlfwj2Lla) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Serie Cinco Estrellas](https://open.spotify.com/album/0ks7E1ySIVQfx0Gle8zqqb) | 4:48 |
 | 92 | [Si Me Preguntan Por Ti](https://open.spotify.com/track/3kLOt4pxDk5ZYCprFXnTsZ) | [Brenda K\. Starr](https://open.spotify.com/artist/5Ne8hQEmy0eZu9hlE3j58B) | [No Lo Voy a Olvidar](https://open.spotify.com/album/5jMe7L01uhfNshwYuKvfVg) | 4:39 |
 | 93 | [El Apartamento](https://open.spotify.com/track/6ilUvSefuUnXgEqxj7SD5Z) | [Willie Rosario](https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Salsa de Amor Vol\. 3](https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ) | 4:18 |
 | 94 | [Discúlpeme Señora](https://open.spotify.com/track/1X8CGZ8BzIiCyfFAYHYMKu) | [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz) | [Greatest Hits \(Serie Cristal\)](https://open.spotify.com/album/2zWUGZTsdpLSDIQDasNUv6) | 4:38 |
-| 95 | [Agua Pasada](https://open.spotify.com/track/046WevUCvKfJC6FrowsePK) | [Frankie Negrón](https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16) | [No Me Compares](https://open.spotify.com/album/7b6xEvGDEPsUEtT9VfPaFj) | 4:57 |
+| 95 | [Enamorado De Ti \- Salsa Version](https://open.spotify.com/track/5EOiyV8PrLDXBuvS1NdVu3) | [Frankie Negrón](https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16), [Ronnie Torres and Ramon Sanchez](https://open.spotify.com/artist/2jebsUroQNfYr1931DQHge) | [Lo Que Llevo Por Dentro](https://open.spotify.com/album/1QTe8NivESo3klvIIhk2Bs) | 4:52 |
 | 96 | [Penas Penas](https://open.spotify.com/track/1rBFZSviyShjZuF27YDsbn) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Edición Limitada](https://open.spotify.com/album/7JyQeX40JXO24zFZrdSWpl) | 5:06 |
 | 97 | [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 |
 | 98 | [Te Va a Doler](https://open.spotify.com/track/2h6WIOkTPvHSAD7vR6lMSS) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo de Amor](https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL) | 4:52 |
 | 99 | [Caricias Prohibidas](https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ) | [Viti Ruiz](https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT) | [Sedúceme](https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy) | 5:21 |
 | 100 | [Virgen](https://open.spotify.com/track/5SIoLK4aqXc2UzNrhVHwtp) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Mas Que Nunca](https://open.spotify.com/album/1r7GpzIQ7EHHsYrTRey2lV) | 4:31 |
 
-Snapshot ID: `AAAAAAqGKyVbOXMEeqQt4iMj48O43hlw`
+Snapshot ID: `AAAAAA25oB+aPFJq7nQi6JsiZa4Q9+59`

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/thealiyajanell/\">Aliya Janell Brinson</a>",
-  "num_followers": 70104,
+  "num_followers": 70120,
   "original_name": "Aliya Janell's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPrrAppgFxvZJ1ugtorMZP55OLv+",
+  "snapshot_id": "AAAAADqNqp9BQCtcnZssMU2/Aqs0KaSC",
   "tracks": [
     {
       "added_at": "2022-10-01 16:21:24",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
-        "name": "EVERYTHING IS LOVE",
-        "url": "https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp"
-      },
-      "artists": [
-        {
-          "name": "The Carters",
-          "url": "https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu"
-        }
-      ],
-      "duration_ms": 264853,
-      "name": "APESHIT",
-      "url": "https://open.spotify.com/track/0E6PsO3ymCfUh7pJQjBgkj"
-    },
-    {
-      "added_at": "2022-10-01 16:21:24",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/1fRr47hbp60yegltnsvkEH"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 225533,
       "name": "Get Right",
       "url": "https://open.spotify.com/track/0rLzyBecRbTpnBWvMtPVFR"
+    },
+    {
+      "added_at": "2022-10-01 16:21:24",
+      "album": {
+        "name": "EVERYTHING IS LOVE",
+        "url": "https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp"
+      },
+      "artists": [
+        {
+          "name": "The Carters",
+          "url": "https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu"
+        }
+      ],
+      "duration_ms": 264853,
+      "name": "APESHIT",
+      "url": "https://open.spotify.com/track/0E6PsO3ymCfUh7pJQjBgkj"
     },
     {
       "added_at": "2022-10-01 16:21:24",

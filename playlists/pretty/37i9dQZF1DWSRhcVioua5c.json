@@ -1,12 +1,12 @@
 {
   "description": "Canciones de ayer y de hoy grabadas a fuego en el coraz\u00f3n.",
-  "num_followers": 92418,
+  "num_followers": 92430,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHy1m/v6gXgGzNVWsx6+hLmGkPcC",
+  "snapshot_id": "AAAAAIPsJdiP3DmCdY1S71+/UQFyt4qN",
   "tracks": [
     {
       "added_at": "2026-07-24 16:39:25",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-07-24 16:39:25",
       "album": {
+        "name": "La Flor",
+        "url": "https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv"
+      },
+      "artists": [
+        {
+          "name": "Francisco Benitez",
+          "url": "https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj"
+        }
+      ],
+      "duration_ms": 190113,
+      "name": "La Flor",
+      "url": "https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx"
+    },
+    {
+      "added_at": "2026-07-24 16:39:25",
+      "album": {
         "name": "El Sue\u00f1o de Mi Guitarra",
         "url": "https://open.spotify.com/album/0ngbYyZKSgybDqyaWtOGOR"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 241586,
       "name": "Tonada del Viejo Amor",
       "url": "https://open.spotify.com/track/3XXTR1PxuCslxeQCpRHpmW"
-    },
-    {
-      "added_at": "2026-07-24 16:39:25",
-      "album": {
-        "name": "La Flor",
-        "url": "https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv"
-      },
-      "artists": [
-        {
-          "name": "Francisco Benitez",
-          "url": "https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj"
-        }
-      ],
-      "duration_ms": 190113,
-      "name": "La Flor",
-      "url": "https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx"
     },
     {
       "added_at": "2026-07-24 16:39:25",
@@ -887,18 +887,22 @@
     {
       "added_at": "2026-07-24 16:39:25",
       "album": {
-        "name": "La Historia Vol 3",
-        "url": "https://open.spotify.com/album/1rfBblbUZrUaYmspitkgiq"
+        "name": "Colgando en tus Manos",
+        "url": "https://open.spotify.com/album/0gpVfE431dfXOesgMuA1oq"
       },
       "artists": [
         {
-          "name": "Los Chalchaleros",
-          "url": "https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw"
+          "name": "Camila Saez",
+          "url": "https://open.spotify.com/artist/7zomrr4pL53n3bIR24uN70"
+        },
+        {
+          "name": "Santhyago Rios",
+          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
         }
       ],
-      "duration_ms": 216764,
-      "name": "La L\u00f3pez Pereyra",
-      "url": "https://open.spotify.com/track/7Lxx3XWGPNDnsfbw8dXXqf"
+      "duration_ms": 204360,
+      "name": "Colgando en tus Manos",
+      "url": "https://open.spotify.com/track/7AuksYLEtoCWg3fzUJAHaH"
     },
     {
       "added_at": "2026-07-24 16:39:25",
@@ -919,22 +923,18 @@
     {
       "added_at": "2026-07-24 16:39:25",
       "album": {
-        "name": "Colgando en tus Manos",
-        "url": "https://open.spotify.com/album/0gpVfE431dfXOesgMuA1oq"
+        "name": "La Historia Vol 3",
+        "url": "https://open.spotify.com/album/1rfBblbUZrUaYmspitkgiq"
       },
       "artists": [
         {
-          "name": "Camila Saez",
-          "url": "https://open.spotify.com/artist/7zomrr4pL53n3bIR24uN70"
-        },
-        {
-          "name": "Santhyago Rios",
-          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
+          "name": "Los Chalchaleros",
+          "url": "https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw"
         }
       ],
-      "duration_ms": 204360,
-      "name": "Colgando en tus Manos",
-      "url": "https://open.spotify.com/track/7AuksYLEtoCWg3fzUJAHaH"
+      "duration_ms": 216764,
+      "name": "La L\u00f3pez Pereyra",
+      "url": "https://open.spotify.com/track/7Lxx3XWGPNDnsfbw8dXXqf"
     },
     {
       "added_at": "2026-07-24 16:39:25",
@@ -1327,8 +1327,8 @@
     {
       "added_at": "2026-07-24 16:39:25",
       "album": {
-        "name": "Todo Ser\u00e1 Mejor",
-        "url": "https://open.spotify.com/album/2IbkSqdOd9aEpVuXUSgc2q"
+        "name": "Amarte Sin Piedad",
+        "url": "https://open.spotify.com/album/62i9o08soByC7ONFYj67IB"
       },
       "artists": [
         {
@@ -1336,9 +1336,9 @@
           "url": "https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO"
         }
       ],
-      "duration_ms": 239365,
-      "name": "Todo Ser\u00e1 Mejor",
-      "url": "https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5"
+      "duration_ms": 211410,
+      "name": "Amarte Sin Piedad",
+      "url": "https://open.spotify.com/track/0Pfov0G5ZoskadtvAgwPl8"
     },
     {
       "added_at": "2026-07-24 16:39:25",
@@ -1407,8 +1407,8 @@
     {
       "added_at": "2026-07-24 16:39:25",
       "album": {
-        "name": "Amarte Sin Piedad",
-        "url": "https://open.spotify.com/album/62i9o08soByC7ONFYj67IB"
+        "name": "Todo Ser\u00e1 Mejor",
+        "url": "https://open.spotify.com/album/2IbkSqdOd9aEpVuXUSgc2q"
       },
       "artists": [
         {
@@ -1416,9 +1416,9 @@
           "url": "https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO"
         }
       ],
-      "duration_ms": 211410,
-      "name": "Amarte Sin Piedad",
-      "url": "https://open.spotify.com/track/0Pfov0G5ZoskadtvAgwPl8"
+      "duration_ms": 239365,
+      "name": "Todo Ser\u00e1 Mejor",
+      "url": "https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5"
     },
     {
       "added_at": "2026-07-24 16:39:25",

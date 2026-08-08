@@ -1404,7 +1404,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 232173,
       "name": "fine",
       "url": "https://open.spotify.com/track/02XUvebzfQJZnX96mNxtRK"
@@ -2890,7 +2890,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 226853,
       "name": "Million Dollar Song",
       "url": "https://open.spotify.com/track/1iqpKs6dgT2zIiP0GbVo6b"
@@ -3042,6 +3042,24 @@
       "duration_ms": 216541,
       "name": "Never Know Why",
       "url": "https://open.spotify.com/track/59UGpoFWoZGeuE8T74HNrS"
+    },
+    {
+      "album": {
+        "name": "under the starry winter night",
+        "url": "https://open.spotify.com/album/1d4nnj09A7QUKEnP4wiz3v"
+      },
+      "artists": [
+        {
+          "name": "cl444ireee",
+          "url": "https://open.spotify.com/artist/3lzOhVEtsahKislZRrw0K2"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252991,
+      "name": "new look",
+      "url": "https://open.spotify.com/track/11nRMMrQt6t0x7WQs9vKhq"
     },
     {
       "album": {
@@ -3566,6 +3584,24 @@
       "duration_ms": 154464,
       "name": "scrape my teeth",
       "url": "https://open.spotify.com/track/0VRXkVcObOF6LbaP1vGBe5"
+    },
+    {
+      "album": {
+        "name": "seadream",
+        "url": "https://open.spotify.com/album/7zZo4XBPY2u4dp3qi91yGS"
+      },
+      "artists": [
+        {
+          "name": "parallel",
+          "url": "https://open.spotify.com/artist/57GHGjRVnM7JTTXI7vXq7d"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156276,
+      "name": "seadream",
+      "url": "https://open.spotify.com/track/4QqyxyHV7WF4qvTdI5FRC9"
     },
     {
       "album": {

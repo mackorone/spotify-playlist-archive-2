@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 
 > Allerbeste songs van de 80's! Cover: U2
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,092 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,138 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,15 +52,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 42 | [Wonderful Life](https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM) | [Black](https://open.spotify.com/artist/0KmvHxNnawB6P5yqdWktCW) | [Wonderful Life](https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ) | 4:47 |
 | 43 | [Gold](https://open.spotify.com/track/2X9fsxb6O6bYEopJYmUbNC) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Gold \- The Best of Spandau Ballet](https://open.spotify.com/album/5UUutTu9xlQnG9duYrIIW7) | 3:51 |
 | 44 | [Town Called Malice](https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift](https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG) | 2:53 |
-| 45 | [Radio Ga Ga \- Remastered 2011](https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(2011 Remaster\)](https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa) | 5:48 |
-| 46 | [Sledgehammer](https://open.spotify.com/track/029NqmIySn1kOY305AAhxT) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(Remastered\)](https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm) | 5:13 |
+| 45 | [Sledgehammer](https://open.spotify.com/track/029NqmIySn1kOY305AAhxT) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(Remastered\)](https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm) | 5:13 |
+| 46 | [Radio Ga Ga \- Remastered 2011](https://open.spotify.com/track/1nQRg9q9uwALGzouOX5OyQ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(2011 Remaster\)](https://open.spotify.com/album/5RS9xkMuDmeVISqGDBmnSa) | 5:48 |
 | 47 | [Didn't We Almost Have It All](https://open.spotify.com/track/19wadMw1A8XejDV4p5wMt1) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 5:07 |
 | 48 | [The Reflex \- Single Version; 2010 Remaster](https://open.spotify.com/track/4sz1Ng2Cgidfqqiy0pNL6R) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Seven and the Ragged Tiger \(Deluxe Edition\)](https://open.spotify.com/album/0jBIq5EY9zRBZJuCE9iuM1) | 4:27 |
 | 49 | [I'm So Excited](https://open.spotify.com/track/2u8MGAiS2hBVE7GZzTZLQI) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Best Of](https://open.spotify.com/album/4ZcnXch8ZI9zlizDVTea1X) | 3:49 |
 | 50 | [Girls Just Want to Have Fun](https://open.spotify.com/track/7sMGwiS4vOMcz86ZY3vKYM) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [The Best Of The 80's](https://open.spotify.com/album/1WNKfSND9D7t30sBPDo1gr) | 3:48 |
-| 51 | [A Kind Of Magic \- Remastered 2011](https://open.spotify.com/track/5RYLa5P4qweEAKq5U1gdcK) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(2011 Remaster\)](https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn) | 4:24 |
-| 52 | [\(I've Had\) The Time of My Life \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/4BFMQ15vXr626UOoZL8bUI) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [Platinum & Gold Collection](https://open.spotify.com/album/2Ll0rYVkAHV0QT7P2vknQc) | 4:49 |
-| 53 | [Holiday](https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/1DWWb4Q39mp1T3NgyscowF) | 6:10 |
+| 51 | [\(I've Had\) The Time of My Life \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/4BFMQ15vXr626UOoZL8bUI) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [Platinum & Gold Collection](https://open.spotify.com/album/2Ll0rYVkAHV0QT7P2vknQc) | 4:49 |
+| 52 | [Holiday](https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/1DWWb4Q39mp1T3NgyscowF) | 6:10 |
+| 53 | [A Kind Of Magic \- Remastered 2011](https://open.spotify.com/track/5RYLa5P4qweEAKq5U1gdcK) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(2011 Remaster\)](https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn) | 4:24 |
 | 54 | [Don't Get Me Wrong \- 2007 Remaster](https://open.spotify.com/track/6Wiamk8BAAP50gAAJopsy2) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Get Close \(Expanded & Remastered\)](https://open.spotify.com/album/1d7D1MLaFW6rp9N1kBZDn3) | 3:47 |
 | 55 | [1999](https://open.spotify.com/track/2H7PHVdQ3mXqEHXcvclTB0) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999](https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67) | 6:19 |
 | 56 | [The Riddle](https://open.spotify.com/track/6sn3FHCq2csvNkq2h9Au8V) | [Nik Kershaw](https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac) | [The Riddle \(Expanded Edition\)](https://open.spotify.com/album/2CqELgQ8dNxGgBuIic49Gq) | 3:54 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 82 | [Ik Weet Niet Hoe](https://open.spotify.com/track/17tJLDBm76LdZoHG2t587G) | [Benny Neyman](https://open.spotify.com/artist/31QaP8ttyZpVIXabCmWKc2) | [Ik Weet Niet Hoe](https://open.spotify.com/album/6Emyi23IU3uRiPajFYyZG4) | 3:26 |
 | 83 | [How Many Times](https://open.spotify.com/track/5VkAKKliyRHqeEL3N2vlJq) | [Lori Spee](https://open.spotify.com/artist/1E6ogGNGAoSqr3sm20PVaU) | [Behind Those Eyes](https://open.spotify.com/album/3SOELAr03f95mbmVE5ys6w) | 4:01 |
 | 84 | [I Save The Day](https://open.spotify.com/track/3Ciofce12krSe0kpBO7UpL) | [Roberto Jacketti & The Scooters](https://open.spotify.com/artist/0tncX2ikoA4Vzhu2a3Paun) | [De Top 10 Van](https://open.spotify.com/album/02G0YlzB2Tu9mrWE21cl7i) | 3:12 |
-| 85 | [Zwart Wit](https://open.spotify.com/track/2NjUjtsJ7rs40IiQk48j3J) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Het Mooiste & Het Beste](https://open.spotify.com/album/3XiJiFN96NyaWs728epe59) | 3:05 |
-| 86 | [It's The First Time \- Bonus Track](https://open.spotify.com/track/654dt49Xo0k44VF0xUhypy) | [Loïs Lane](https://open.spotify.com/artist/6XtqgoAYl2mXQhn9ZmDEdt) | [Fortune Fairytales](https://open.spotify.com/album/0zruE1rfLXfU4MG2SSWrZn) | 3:58 |
+| 85 | [It's The First Time \- Bonus Track](https://open.spotify.com/track/654dt49Xo0k44VF0xUhypy) | [Loïs Lane](https://open.spotify.com/artist/6XtqgoAYl2mXQhn9ZmDEdt) | [Fortune Fairytales](https://open.spotify.com/album/0zruE1rfLXfU4MG2SSWrZn) | 3:58 |
+| 86 | [Zwart Wit](https://open.spotify.com/track/2NjUjtsJ7rs40IiQk48j3J) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Het Mooiste & Het Beste](https://open.spotify.com/album/3XiJiFN96NyaWs728epe59) | 3:05 |
 | 87 | [You're a Friend of Mine](https://open.spotify.com/track/2BSm925aJog65vjU9FU1R3) | [Clarence Clemons](https://open.spotify.com/artist/7hiRmH8QebrJgMZYAbFtoO), [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Rescue / Hero](https://open.spotify.com/album/0tl7YJWMDU4zYj50yrkf0f) | 4:50 |
 | 88 | [Twilight Zone](https://open.spotify.com/track/0UELrOrtGeATsDJDBx8y13) | [Golden Earring](https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS) | [Golden Earring Biggest Hits](https://open.spotify.com/album/4aLXgpBzfiugiGHtZhgHkm) | 7:58 |
 | 89 | [She's a Liar](https://open.spotify.com/track/2WoozePgluOVStfhp6jKsD) | [Dolly Dots](https://open.spotify.com/artist/7jQDCbxYM9t8bLCd2n8ONI) | [Hit Story](https://open.spotify.com/album/2J1TbXAta6c4XDQTmzRArs) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24qPmFcsLjy.md) - [plain]
 | 99 | [You Can't Hurry Love](https://open.spotify.com/track/4YUlGNZfYA6EUE5KDsGqpC) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Hello, I Must Be Going](https://open.spotify.com/album/0FqbBSfKYpnhGWa5M1TxkY) | 2:55 |
 | 100 | [Invisible Touch \- Remastered 2007](https://open.spotify.com/track/480dDrqG7LO6qDaphHeXlM) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch](https://open.spotify.com/album/5BDGtXKMQ6k267KX4PoGhP) | 3:30 |
 
-Snapshot ID: `AAAAAPIfLXOqG2TxR9uMwEMLNaXy1tNs`
+Snapshot ID: `AAAAAKeiY7Ndxdj+1/jOR2ZAGmxHtFsl`

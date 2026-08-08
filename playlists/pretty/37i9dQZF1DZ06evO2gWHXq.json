@@ -1,12 +1,12 @@
 {
   "description": "This is MC Davo. The essential tracks, all in one playlist.",
-  "num_followers": 227445,
+  "num_followers": 227444,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAB3ERwmU6LPJb1dRI94i+kG",
+  "snapshot_id": "anPOgAAAAADgeqApUe0NKbXanFzEcSi/",
   "tracks": [
     {
       "added_at": null,
@@ -191,26 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voy Por El Sueno de Muchos",
-        "url": "https://open.spotify.com/album/3i3hD84ypGIseYsZw8m05P"
-      },
-      "artists": [
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 170770,
-      "name": "Vuelve (feat. MC Davo)",
-      "url": "https://open.spotify.com/track/7hwR6340SkyisqZWFkWErP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00bfQui\u00e9n Te Crees?",
         "url": "https://open.spotify.com/album/2KSCqFRagwcAC4q7mPIxvw"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 185493,
       "name": "\u00bfQui\u00e9n Te Crees?",
       "url": "https://open.spotify.com/track/2LXOSAYiSrTfIf8smheLaz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voy Por El Sueno de Muchos",
+        "url": "https://open.spotify.com/album/3i3hD84ypGIseYsZw8m05P"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 170770,
+      "name": "Vuelve (feat. MC Davo)",
+      "url": "https://open.spotify.com/track/7hwR6340SkyisqZWFkWErP"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psicosis 2",
-        "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 205430,
-      "name": "Ella Es Una Amenaza",
-      "url": "https://open.spotify.com/track/1lhlIrjvx7855s8JXZg5pF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
         "url": "https://open.spotify.com/album/58a7npneCuVfs5wqIT64TY"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 196000,
       "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
       "url": "https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psicosis 2",
+        "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 205430,
+      "name": "Ella Es Una Amenaza",
+      "url": "https://open.spotify.com/track/1lhlIrjvx7855s8JXZg5pF"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psicosis 2",
-        "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 180018,
-      "name": "Mis Defectos",
-      "url": "https://open.spotify.com/track/3DSMLWrSbDTQj6k6ZAhJvv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Dominio",
         "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 180053,
       "name": "Debes de saber",
       "url": "https://open.spotify.com/track/06T04xn5eDNWfzblgZ88P8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psicosis 2",
+        "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 180018,
+      "name": "Mis Defectos",
+      "url": "https://open.spotify.com/track/3DSMLWrSbDTQj6k6ZAhJvv"
     },
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LULULEMON",
-        "url": "https://open.spotify.com/album/5UYYe9GIpJPCOwlkLMrjd5"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Miranda Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14"
-        }
-      ],
-      "duration_ms": 171891,
-      "name": "LULULEMON",
-      "url": "https://open.spotify.com/track/1WnG8q6f09ebulThpq3E5V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Round 7",
         "url": "https://open.spotify.com/album/5ynjByApIoTlaO6Hszz59N"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 214864,
       "name": "Round 7",
       "url": "https://open.spotify.com/track/32IndMzD07SrdRxWQ7G7Fd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LULULEMON",
+        "url": "https://open.spotify.com/album/5UYYe9GIpJPCOwlkLMrjd5"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Miranda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14"
+        }
+      ],
+      "duration_ms": 171891,
+      "name": "LULULEMON",
+      "url": "https://open.spotify.com/track/1WnG8q6f09ebulThpq3E5V"
     },
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Acostumbraste",
-        "url": "https://open.spotify.com/album/5EkipqfG0SB3Rph3JfPf0U"
+        "name": "Canciones Mamalonas 3",
+        "url": "https://open.spotify.com/album/2sLUDN7rY8R4groR12KFbL"
       },
       "artists": [
         {
@@ -800,13 +800,17 @@
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         },
         {
-          "name": "Sandro Malandro",
-          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        },
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
         }
       ],
-      "duration_ms": 182168,
-      "name": "Te Acostumbraste",
-      "url": "https://open.spotify.com/track/1ftjXBuN56PNoY3qj80zdf"
+      "duration_ms": 206500,
+      "name": "Por si pego",
+      "url": "https://open.spotify.com/track/6f7FcB2WIxmu8IJPqxY1nq"
     },
     {
       "added_at": null,
@@ -827,6 +831,26 @@
       "duration_ms": 196880,
       "name": "El ma\u00f1ana (feat. Meny M\u00e9ndez)",
       "url": "https://open.spotify.com/track/7sHbmQpTnRLdXJMCeQGPcv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Acostumbraste",
+        "url": "https://open.spotify.com/album/5EkipqfG0SB3Rph3JfPf0U"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        }
+      ],
+      "duration_ms": 182168,
+      "name": "Te Acostumbraste",
+      "url": "https://open.spotify.com/track/1ftjXBuN56PNoY3qj80zdf"
     },
     {
       "added_at": null,
@@ -879,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Si Pego",
-        "url": "https://open.spotify.com/album/6dQluBGGicYXtzTmzj0j8c"
+        "name": "Canciones Mamalonas 3",
+        "url": "https://open.spotify.com/album/2sLUDN7rY8R4groR12KFbL"
       },
       "artists": [
         {
@@ -888,17 +912,13 @@
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         },
         {
-          "name": "Kodigo",
-          "url": "https://open.spotify.com/artist/75UT76qjyWvxN3wtxHExhA"
-        },
-        {
-          "name": "TREN LOKOTE",
-          "url": "https://open.spotify.com/artist/4oQnaHAoScFnKnirYAk1C0"
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
         }
       ],
-      "duration_ms": 206500,
-      "name": "Por Si Pego",
-      "url": "https://open.spotify.com/track/1y6gxADhtRpNq3V8xpYHJb"
+      "duration_ms": 191917,
+      "name": "Todo menso",
+      "url": "https://open.spotify.com/track/5jTyfDxDgdCFLmqzT1UM1e"
     },
     {
       "added_at": null,
@@ -923,26 +943,6 @@
       "duration_ms": 201000,
       "name": "Tengo Que Probar",
       "url": "https://open.spotify.com/track/0iRtpJoX4pVQx3vUHzaNSU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones Mamalonas 3",
-        "url": "https://open.spotify.com/album/2sLUDN7rY8R4groR12KFbL"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        }
-      ],
-      "duration_ms": 191917,
-      "name": "Todo menso",
-      "url": "https://open.spotify.com/track/5jTyfDxDgdCFLmqzT1UM1e"
     },
     {
       "added_at": null,

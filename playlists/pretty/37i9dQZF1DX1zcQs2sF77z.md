@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zcQs2sF77z.md) - [plain]
 
 > La playlist des plus grands hits Electro & Dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,269 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,358 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zcQs2sF77z.md) - [plain]
 | 38 | [Saturday Night \- Radio Mix](https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9) | [Whigfield](https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq) | [Saturday Night Single](https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud) | 4:07 |
 | 39 | [Dirty Cash \(Money Talks\) \- Sold Out 7 Inch Mix](https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA) | [The Adventures Of Stevie V](https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2) | [Dirty Cash \(Money Talks\)](https://open.spotify.com/album/4fn4LgJYOLrRsYjRQUGmrs) | 4:03 |
 | 40 | [Unbelievable](https://open.spotify.com/track/5VYTKiOnHw4iTrB9pG3yum) | [EMF](https://open.spotify.com/artist/39oSLGo3HkaeYXzUEGgAGQ) | [Schubert Dip](https://open.spotify.com/album/475PE6J6LTBGBpt26rRrHe) | 3:29 |
-| 41 | [Gonna Make You Sweat \(Everybody Dance Now\) \(feat\. Freedom Williams\)](https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF) | [C & C Music Factory](https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF), [Freedom Williams](https://open.spotify.com/artist/08MVPakTEdRJimQNV61NFR) | [Super Hits](https://open.spotify.com/album/7wlnHCWKkBXBWtYgpaCaz7) | 4:04 |
-| 42 | [Seek Bromance \- Avicii Vocal Edit](https://open.spotify.com/track/7tSO7DrrYpiMXX3zM4b3oM) | [Tim Berg](https://open.spotify.com/artist/7iLc4hrjOjQPfg1E3cCHg1), [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Seek Bromance](https://open.spotify.com/album/45LS90ZFHzPbUECiK1JdtZ) | 3:20 |
+| 41 | [Seek Bromance \- Avicii Vocal Edit](https://open.spotify.com/track/7tSO7DrrYpiMXX3zM4b3oM) | [Tim Berg](https://open.spotify.com/artist/7iLc4hrjOjQPfg1E3cCHg1), [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Seek Bromance](https://open.spotify.com/album/45LS90ZFHzPbUECiK1JdtZ) | 3:20 |
+| 42 | [Gonna Make You Sweat \(Everybody Dance Now\) \(feat\. Freedom Williams\)](https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF) | [C & C Music Factory](https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF), [Freedom Williams](https://open.spotify.com/artist/08MVPakTEdRJimQNV61NFR) | [Super Hits](https://open.spotify.com/album/7wlnHCWKkBXBWtYgpaCaz7) | 4:04 |
 | 43 | [The Sound Of San Francisco \- Progressive Album Mix](https://open.spotify.com/track/60tsXfCcG6Ljxsr8whOXL5) | [Global Deejays](https://open.spotify.com/artist/5M0Y6NBi3Wfwo2H1gtPl1L) | [Network \- taken from Superstar](https://open.spotify.com/album/3NBCC4dPJwOG5JNCpXUlNL) | 3:44 |
 | 44 | [Smack My Bitch Up](https://open.spotify.com/track/48vDCZIRmrFO33fH4QU4ij) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [The Fat of the Land](https://open.spotify.com/album/4fdgcEVMdJe0KVgupMNJAP) | 5:43 |
 | 45 | [Encore Une Fois \- Future Breeze Edit](https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [Future Breeze](https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls) | [It's My Life](https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zcQs2sF77z.md) - [plain]
 | 49 | [Blah Blah Blah](https://open.spotify.com/track/2xkrujtSjZz7EKAYGbIIzH) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Blah Blah Blah](https://open.spotify.com/album/1oqv6oabMXbNpgZ6gmjAIN) | 3:03 |
 | 50 | [Stereo Love](https://open.spotify.com/track/1AguHaKOuggrVTebp7cZEI) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [Stereo Love](https://open.spotify.com/album/0tGht9KBhk71vOJCHZzhVk) | 3:04 |
 
-Snapshot ID: `AAAAAHIq74FTJ8zLTjzTqHgODOGeKOT/`
+Snapshot ID: `AAAAAOAjhK+T6PlRcx5R/Wrt0ZkTCk62`

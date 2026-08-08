@@ -1,12 +1,12 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 696542,
+  "num_followers": 696552,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACs1zjN+Nn+Q3pTknZqMgdu7x/5y",
+  "snapshot_id": "AAAAABZPWrcIHFSqxkS5hr5L9kES2M2P",
   "tracks": [
     {
       "added_at": "2026-06-19 03:00:21",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
+        "name": "POSEIDON",
+        "url": "https://open.spotify.com/album/0oHVJ97dewqN8vxZGNn79L"
+      },
+      "artists": [
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        }
+      ],
+      "duration_ms": 142234,
+      "name": "POSEIDON",
+      "url": "https://open.spotify.com/track/174aKoJaBUSw87F0erUV5y"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
         "name": "DISCOTEKA (feat. Locura Mix)",
         "url": "https://open.spotify.com/album/64rUVVmLA2xspGjE2nt6dx"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 204480,
       "name": "DISCOTEKA (feat. Locura Mix)",
       "url": "https://open.spotify.com/track/5w7RsSgxxBwdVTSyQDj8Bi"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
-        "name": "POSEIDON",
-        "url": "https://open.spotify.com/album/0oHVJ97dewqN8vxZGNn79L"
-      },
-      "artists": [
-        {
-          "name": "Peipper",
-          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
-        }
-      ],
-      "duration_ms": 142234,
-      "name": "POSEIDON",
-      "url": "https://open.spotify.com/track/174aKoJaBUSw87F0erUV5y"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -631,26 +631,6 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "Bar",
-        "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 160212,
-      "name": "Bar",
-      "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
         "name": "P\u00c9GATE",
         "url": "https://open.spotify.com/album/1FSiNmVh42DRSWKWm0jrYB"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 137331,
       "name": "P\u00c9GATE",
       "url": "https://open.spotify.com/track/3YZWI2eI7X2B0xuSHNFCc2"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
+        "name": "Bar",
+        "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 160212,
+      "name": "Bar",
+      "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "DJ ALEX, ALEJO ISAKK - INDIQUEN | E3",
-        "url": "https://open.spotify.com/album/0tR8VEP2fcNDGdQFEOpfAo"
-      },
-      "artists": [
-        {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
-        },
-        {
-          "name": "Alejo Isakk",
-          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "DJ ALEX, ALEJO ISAKK - INDIQUEN | E3",
-      "url": "https://open.spotify.com/track/0mrioCB3wq09Zz7YN3Q4C4"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
         "name": "Vikingos",
         "url": "https://open.spotify.com/album/50fDCiIhdGoiJLSYXdLbt9"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 166963,
       "name": "Vikingos",
       "url": "https://open.spotify.com/track/6t82eltBDEw70ePnk5GGe4"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
+        "name": "DJ ALEX, ALEJO ISAKK - INDIQUEN | E3",
+        "url": "https://open.spotify.com/album/0tR8VEP2fcNDGdQFEOpfAo"
+      },
+      "artists": [
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "Alejo Isakk",
+          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "DJ ALEX, ALEJO ISAKK - INDIQUEN | E3",
+      "url": "https://open.spotify.com/track/0mrioCB3wq09Zz7YN3Q4C4"
     },
     {
       "added_at": "2026-06-19 03:00:21",

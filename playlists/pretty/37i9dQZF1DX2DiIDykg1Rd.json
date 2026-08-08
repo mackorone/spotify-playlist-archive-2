@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGkFCkR+4K748sBexPHMAgw8dM6b",
+  "snapshot_id": "AAAAAHwkPgCN3uheBaymjJ3AVZRZHPpL",
   "tracks": [
     {
       "added_at": "2023-01-01 05:00:00",
@@ -163,6 +163,22 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
+        "name": "ASTROWORLD",
+        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 218283,
+      "name": "NO BYSTANDERS",
+      "url": "https://open.spotify.com/track/6OaVWaGfhXn70ZJfdVcabn"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
         "name": "Journals",
         "url": "https://open.spotify.com/album/7Cz0XcQzoxUi7L7sfgXLml"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 248133,
       "name": "Confident",
       "url": "https://open.spotify.com/track/5Isz0twJeFdduOQEFQLezv"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
-        "name": "ASTROWORLD",
-        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 218283,
-      "name": "NO BYSTANDERS",
-      "url": "https://open.spotify.com/track/6OaVWaGfhXn70ZJfdVcabn"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/261LWEVYViMXijB95mAty3"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 220386,
-      "name": "Show Me",
-      "url": "https://open.spotify.com/track/2uuJs2nltcYFh9pkKP7bW4"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
         "name": "Swimming",
         "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 345213,
       "name": "Jet Fuel",
       "url": "https://open.spotify.com/track/2JmFRXaJrkAUD2cs6U20KG"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/261LWEVYViMXijB95mAty3"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 220386,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/2uuJs2nltcYFh9pkKP7bW4"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "Lyf\u00eb",
-        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 175998,
-      "name": "Krank",
-      "url": "https://open.spotify.com/track/6vddKOUj2Fx4LEAYxmsT8p"
-    },
-    {
-      "added_at": "2023-01-01 05:00:00",
-      "album": {
         "name": "The Backend Child",
         "url": "https://open.spotify.com/album/5Qg5XiK1Ovgen4JBztGbPr"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 235263,
       "name": "Ghetto Angels",
       "url": "https://open.spotify.com/track/0T6DHuLI3NANOAFPgE8AXR"
+    },
+    {
+      "added_at": "2023-01-01 05:00:00",
+      "album": {
+        "name": "Lyf\u00eb",
+        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 175998,
+      "name": "Krank",
+      "url": "https://open.spotify.com/track/6vddKOUj2Fx4LEAYxmsT8p"
     },
     {
       "added_at": "2023-01-01 05:00:00",

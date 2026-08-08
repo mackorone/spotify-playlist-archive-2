@@ -1,12 +1,12 @@
 {
   "description": "This is Anti-Flag. The essential tracks, all in one playlist.",
-  "num_followers": 16649,
+  "num_followers": 16648,
   "original_name": "This Is Anti-Flag",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAALWhvvL3A2FwfpLGk5rwrW",
+  "snapshot_id": "anPOgAAAAABT5bF29K5Hfuea/JPz6RZx",
   "tracks": [
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "You Make Me Sick",
-      "url": "https://open.spotify.com/track/0a65BKVhV9DF9hp8bZocJE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cease Fires",
         "url": "https://open.spotify.com/album/5g0lMotkrRemJUW1DbXblA"
       },
@@ -735,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Underground Network",
-        "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
       },
       "artists": [
         {
@@ -744,9 +728,25 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 134893,
-      "name": "Bring Out Your Dead",
-      "url": "https://open.spotify.com/track/5suFYy1caOoi9pdiMirhPs"
+      "duration_ms": 181133,
+      "name": "You Make Me Sick",
+      "url": "https://open.spotify.com/track/0a65BKVhV9DF9hp8bZocJE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Fall",
+        "url": "https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 169426,
+      "name": "Finish What We Started",
+      "url": "https://open.spotify.com/track/1XZVctTif3B1ojGOqXkoze"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Fall",
-        "url": "https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts"
+        "name": "Underground Network",
+        "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 169426,
-      "name": "Finish What We Started",
-      "url": "https://open.spotify.com/track/1XZVctTif3B1ojGOqXkoze"
+      "duration_ms": 134893,
+      "name": "Bring Out Your Dead",
+      "url": "https://open.spotify.com/track/5suFYy1caOoi9pdiMirhPs"
     },
     {
       "added_at": null,

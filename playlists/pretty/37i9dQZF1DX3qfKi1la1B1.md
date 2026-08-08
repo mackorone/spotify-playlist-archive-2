@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,008 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,009 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 35 | [Essex\_Honey.mp3](https://open.spotify.com/track/6PMSpoBxswOQOkgWXv0ih3) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex\_Honey.mp3](https://open.spotify.com/album/7Em98ENzbDnIoXXPaZ4mFY) | 4:49 |
 | 36 | [Me and You](https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Me and You](https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD) | 3:49 |
 | 37 | [the older you get, the less you cry](https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx \(deluxe\)](https://open.spotify.com/album/77Df1klImSWFeDQh96h626) | 3:22 |
-| 38 | [Lookalike](https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:40 |
-| 39 | [Something About You \(with Rudimental\) \- Chill Mix](https://open.spotify.com/track/6sgqf4wXFWSAmjL1TEXNvZ) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Something About You \(with Rudimental\) \[Alternate Versions\]](https://open.spotify.com/album/4T4QEtrQvAUYtvpX20DO3z) | 2:46 |
+| 38 | [Something About You \(with Rudimental\) \- Chill Mix](https://open.spotify.com/track/6sgqf4wXFWSAmjL1TEXNvZ) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Something About You \(with Rudimental\) \[Alternate Versions\]](https://open.spotify.com/album/4T4QEtrQvAUYtvpX20DO3z) | 2:46 |
+| 39 | [Lookalike](https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:40 |
 | 40 | [エイリアンズ](https://open.spotify.com/track/5NclFtKE9l08xM8XhDKyzx) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [3](https://open.spotify.com/album/6wiUifStt7pdwsn1k3ROfH) | 6:04 |
 | 41 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 |
 | 42 | [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 51 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 |
 | 52 | [Another autumn](https://open.spotify.com/track/3mFbJ6Ur7gSAAqxQaY3sbq) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 2:32 |
 | 53 | [Over \[Feat\. Yebba\]](https://open.spotify.com/track/07vCZWjQXstwOCWLG6HYdg) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Black Radio III](https://open.spotify.com/album/0rLSX7OMtwRHDjjCWL6tHC) | 4:55 |
-| 54 | [I might say something stupid featuring the 1975 & jon hopkins](https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 4:10 |
-| 55 | [K\-Bar](https://open.spotify.com/track/1RfA5fJ1ZTl7y13zB9nJeo) | [Ciarán](https://open.spotify.com/artist/5HgoNOsxY7EPHk2MvsECfc) | [K\-Bar](https://open.spotify.com/album/01k8CFJfaStbTxeNsVgN8C) | 3:33 |
+| 54 | [K\-Bar](https://open.spotify.com/track/1RfA5fJ1ZTl7y13zB9nJeo) | [Ciarán](https://open.spotify.com/artist/5HgoNOsxY7EPHk2MvsECfc) | [K\-Bar](https://open.spotify.com/album/01k8CFJfaStbTxeNsVgN8C) | 3:33 |
+| 55 | [I might say something stupid featuring the 1975 & jon hopkins](https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 4:10 |
 | 56 | [Gold　～また逢う日まで～](https://open.spotify.com/track/6hasQfFdygcQow58WNA614) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Gold　～また逢う日まで～](https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk) | 4:14 |
 | 57 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 |
 | 58 | [IKAROS](https://open.spotify.com/track/4ct5cffZGIcSJ6P8iEToG2) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:38 |
 | 59 | [Tell Me](https://open.spotify.com/track/1oKgrBYuFR7zq5k80OiwEe) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Tell Me](https://open.spotify.com/album/1bEGUR0TXyAEETEGIuRw0S) | 3:26 |
-| 60 | [2 Many Days](https://open.spotify.com/track/5xKsdMU9ssxhKSre7iMflV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [2 Many Days](https://open.spotify.com/album/5C9EToByF5XDM3DXx4WewZ) | 3:05 |
+| 60 | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu) | 3:21 |
 
-Snapshot ID: `AAAAAPoMlNw7ypLK6mgVG+kmA+dpo1Bo`
+Snapshot ID: `AAAAAOym8rZKPxPtd0LZjs0kG4XuJ5mH`

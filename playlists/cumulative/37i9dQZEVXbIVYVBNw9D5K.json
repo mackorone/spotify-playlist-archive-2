@@ -720,7 +720,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 263799,
       "name": "A Can\u0131m",
       "url": "https://open.spotify.com/track/50SocgmOJdl1UPjOcFLSCm"
@@ -16768,7 +16768,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-03",
+      "date_removed": null,
       "duration_ms": 224962,
       "name": "Kalpsiz Bir Serseri - Live",
       "url": "https://open.spotify.com/track/5PdcxLk48vWQqMeY4qqdsZ"
@@ -19058,6 +19058,24 @@
       "duration_ms": 179394,
       "name": "Lolipop",
       "url": "https://open.spotify.com/track/55ARJ5VVPCaspTSX7STCbU"
+    },
+    {
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
     },
     {
       "album": {
@@ -24558,7 +24576,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 147692,
       "name": "Sakla - Erhan Boraer Remix",
       "url": "https://open.spotify.com/track/4kvMdpK0F1aEiAoI0rPo9a"
@@ -26384,7 +26402,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 291866,
       "name": "Son A\u015fk\u0131m - Remastered",
       "url": "https://open.spotify.com/track/1GGBucUcIOxXZ208i3jNGT"
@@ -32178,7 +32196,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 153339,
       "name": "\u015e\u0131mar\u0131k",
       "url": "https://open.spotify.com/track/1YLHRVAsWnNFCeLMfqz2dh"

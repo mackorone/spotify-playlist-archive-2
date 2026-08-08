@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nkam6FKfgM.md) - [plain]
 
 > summer has landed
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,929 likes - 85 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,968 likes - 85 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nkam6FKfgM.md) - [plain]
 | 69 | [Piece of Your Love](https://open.spotify.com/track/51vU8qy0LN1SD8wf1U6WLp) | [GRESLEY](https://open.spotify.com/artist/3jH7tPNd2gFLXAekbpUCOf) | [Songs I Wrote Since She Left](https://open.spotify.com/album/3aNf0dE1084J6qV0NvLbQP) | 3:25 |
 | 70 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 |
 | 71 | [Backseat](https://open.spotify.com/track/6joa4w2yIUVroOguntE5s4) | [Julia Campbell](https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud) | [Sick of Staying](https://open.spotify.com/album/65a1oTXKKKPfOCyy2V7jFU) | 3:26 |
-| 72 | [Después de ti](https://open.spotify.com/track/6PbhFQkpQjoojWo2b6Ghoi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Greg Gonzalez](https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU) | [Después de ti](https://open.spotify.com/album/2jNfHpGR3OkcVqNucroI92) | 4:35 |
+| 72 | [Después de ti](https://open.spotify.com/track/6PbhFQkpQjoojWo2b6Ghoi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Greg Gonzalez](https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU) | [Después de ti](https://open.spotify.com/album/2jNfHpGR3OkcVqNucroI92) | 4:28 |
 | 73 | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b) | 3:15 |
 | 74 | [Slide \(feat\. Frank Ocean & Migos\)](https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 3:50 |
 | 75 | [Miami](https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:17 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nkam6FKfgM.md) - [plain]
 | 84 | [Summerlove](https://open.spotify.com/track/4NYW5QDoVtzl0WfKfd96qD) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Dance Dance \(Don't Go\)](https://open.spotify.com/album/4D5ZRbx0gRMbd0Nf81qG8m) | 2:21 |
 | 85 | [Loving Is Easy](https://open.spotify.com/track/7ASFZh1D0DPZro7UXUKGmd) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Loving is Easy](https://open.spotify.com/album/3GgV5IZzgFljVfmxFeHsLY) | 2:35 |
 
-Snapshot ID: `AAAAAFSDCsv2WtSDlTEDFpefG1zcjwwn`
+Snapshot ID: `AAAAAPkZqpxULh0H0wP7CkcsxF1twC5q`

@@ -4,7 +4,7 @@
 
 > Calming and inspiring piano music for yoga.
 
-189 songs - 8 hr 28 min
+192 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Epiphania](https://open.spotify.com/track/3ZkHsyYw4go5gyXNhTzXB7) | [Lewis Bird](https://open.spotify.com/artist/4McPLMM7aYZPv43M5VPXyp) | [Epiphania](https://open.spotify.com/album/3qouyLfbJvV6Q4rNjgzuc7) | 2:26 | 2022-02-16 |  |
 | [Et øyeblikk](https://open.spotify.com/track/4wwtlq6dqi0ztt989n4yiQ) | [Tine Mydland](https://open.spotify.com/artist/2EvTWBcDR6yBKnXj4aCgQp) | [Et øyeblikk](https://open.spotify.com/album/3Th1olVBm5YAxu68k1q4Qn) | 2:41 | 2022-01-19 | 2025-05-15 |
 | [Ever Since You](https://open.spotify.com/track/35Yml7NjICscuKAGuX3iZx) | [Ethan Beckett](https://open.spotify.com/artist/35PZNZuBewGvF2MycMMNNa) | [Ever Since You](https://open.spotify.com/album/2K7cEgnd8671eQfCqyMWMe) | 2:22 | 2022-01-19 | 2025-04-03 |
+| [Everglade](https://open.spotify.com/track/7173jaWbYJ7IUVp7qOQdg1) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Everglade](https://open.spotify.com/album/3YHfqah0l7d2EzOnvKmx7S) | 2:34 | 2026-08-07 |  |
 | [Finalement](https://open.spotify.com/track/0X1yIZPqq7RJv3QtSy2W83) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [Finalement](https://open.spotify.com/album/7smRBKywYWDRKGrLQx5p4H) | 2:56 | 2022-01-19 | 2022-02-03 |
 | [Finding The Heavens](https://open.spotify.com/track/5iVgHr0hrCFOvem4Yc75Gc) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Finding The Heavens](https://open.spotify.com/album/4GUm4q0aC3WpHFhMc4YZBQ) | 2:47 | 2022-02-02 | 2025-05-15 |
 | [Float](https://open.spotify.com/track/2nxxWyhDLU3zOdlAt1c290) | [Elion Headford](https://open.spotify.com/artist/3DtXDehf7i5tjLgcwhXaM0) | [Float](https://open.spotify.com/album/12mB7gCU0NSZj50OI4d1UD) | 2:42 | 2026-07-24 |  |
@@ -84,6 +85,7 @@
 | [Light in the Dark](https://open.spotify.com/track/7I7vKYp5h3Xl5qQkNLyYEj) | [Joseph Alphane](https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr) | [Oxygen](https://open.spotify.com/album/5QTd2js25VRvD3ZK5DYWeu) | 2:35 | 2022-01-19 |  |
 | [Like a Midnight Song](https://open.spotify.com/track/7rcPf1DadsmKWosd9XGwZd) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Like a Midnight Song](https://open.spotify.com/album/6rMhuu5kFBL7fkgKOA8g6Y) | 3:17 | 2022-01-19 | 2024-11-14 |
 | [Like A Whisper](https://open.spotify.com/track/4C4B9L1O7JCiDSniF64rbJ) | [Lydia Barnes](https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN) | [Harbour](https://open.spotify.com/album/1YZbiOwmyO8HbKqGub0Tzi) | 3:57 | 2022-01-19 | 2024-12-18 |
+| [Like Before](https://open.spotify.com/track/7lHdqhGIV1EPETXlIflFO3) | [Denis Rial](https://open.spotify.com/artist/6kLSeA8bMNkur1A9Tnhde9) | [Like Before](https://open.spotify.com/album/0BLxLf2tdPTtvhgcFkn6bO) | 2:48 | 2026-08-07 |  |
 | [Lonely Hearts](https://open.spotify.com/track/2NHvznYFCm8Fx7UE7sTZGa) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Summer Memories](https://open.spotify.com/album/1qf7trVq03K5jA7hCiy1Vi) | 2:45 | 2022-01-19 | 2022-02-03 |
 | [Look Ahead](https://open.spotify.com/track/6YCLKWqMCgiAu7GR2eFMKL) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Look Ahead](https://open.spotify.com/album/70ccS4xYLs6F0jqnLMvlhQ) | 2:40 | 2022-01-19 | 2025-01-30 |
 | [Looking Down](https://open.spotify.com/track/1whoKvX0cT6hfZf7GryEmB) | [Maude Laterre](https://open.spotify.com/artist/0nwgXD1Bn0yjWbtK61GPna) | [Looking Down](https://open.spotify.com/album/2im2O70VjW36ctZ41lWUd8) | 2:38 | 2022-01-19 | 2025-04-16 |
@@ -137,6 +139,7 @@
 | [Rós](https://open.spotify.com/track/1HVMOiJZzq3F8o8VEQsh77) | [Jonny Colgan](https://open.spotify.com/artist/6LfM1oqPkRMSylbEKjmOvA) | [Rós](https://open.spotify.com/album/6PIDeurwsuW0AEex2B59Rn) | 2:28 | 2022-01-19 |  |
 | [Sea Terms](https://open.spotify.com/track/25BD0YQAjKvVqP4G8VhPd5) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Deeper Still](https://open.spotify.com/album/00lmL7tTXFcXRgNcRRHuhk) | 2:56 | 2022-01-19 |  |
 | [Sequoia](https://open.spotify.com/track/52uw4LhiFFnIHduoLVILMm) | [Klaangen](https://open.spotify.com/artist/2xxo04jMvlUrFLCdjwGgkz) | [Sequoia](https://open.spotify.com/album/4U2fDSXlwwWY8ZXsgej9S1) | 2:53 | 2022-01-19 |  |
+| [Serene Dale](https://open.spotify.com/track/0crTcFNZJOtNitpDRJx0Il) | [Nazomi](https://open.spotify.com/artist/3yCSMqBC0KBXeNWetRYFzt) | [Serene Dale](https://open.spotify.com/album/00nCz4HN6TOn4oum3fB9fp) | 2:22 | 2026-08-07 |  |
 | [Serene Reflections](https://open.spotify.com/track/0TT2Tzi8mEETCqYZ1ffiHh) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Serene Reflections](https://open.spotify.com/album/56qdyXFvkjg9Ja5YByyghv) | 3:09 | 2024-10-08 |  |
 | [Shadow Of A Thought](https://open.spotify.com/track/4X3GY7d1dAwOjLFsLl67Y6) | [Marcel Riviera](https://open.spotify.com/artist/6BMtPOM3rP39ICFOBxe5w7) | [Shadow Of A Thought](https://open.spotify.com/album/6eTmkgvSAZ0o3IpjOj44SF) | 2:41 | 2022-01-19 |  |
 | [Short and Peaceful](https://open.spotify.com/track/3hNo5tuFvOT5O9EjUKQYdD) | [Walter Giulini](https://open.spotify.com/artist/59sSHs1swsdokd6UX7cvYO) | [Note of Reflections](https://open.spotify.com/album/7yqwhrAIh7IaolxlwcMfw8) | 2:15 | 2022-01-19 |  |

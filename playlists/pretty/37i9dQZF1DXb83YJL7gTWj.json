@@ -1,12 +1,12 @@
 {
   "description": "Press play and enjoy a relaxing meal. Easy!",
-  "num_followers": 2422,
+  "num_followers": 2431,
   "original_name": "Chill Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAClkWdd7/IO6n7EdmwNTFMSdVzFR",
+  "snapshot_id": "AAAAAJp5LIDntykk3uJd/z5Tfhf850YP",
   "tracks": [
     {
       "added_at": "2024-07-15 19:31:50",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-07-15 19:31:50",
       "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 265284,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
-    },
-    {
-      "added_at": "2024-07-15 19:31:50",
-      "album": {
         "name": "Wanted on Voyage (Expanded Edition)",
         "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 200573,
       "name": "Budapest",
       "url": "https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1"
+    },
+    {
+      "added_at": "2024-07-15 19:31:50",
+      "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 265284,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
       "added_at": "2024-07-15 19:31:50",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-07-15 19:31:50",
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 222650,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj"
-    },
-    {
-      "added_at": "2024-07-15 19:31:50",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 201541,
       "name": "Blue",
       "url": "https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN"
+    },
+    {
+      "added_at": "2024-07-15 19:31:50",
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 222650,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj"
     },
     {
       "added_at": "2024-07-15 19:31:50",

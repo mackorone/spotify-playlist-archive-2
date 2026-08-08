@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Ludovic",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Codinome Winchester",
   "name": "alt BR",
   "tracks": [
     {
@@ -500,6 +500,24 @@
       "duration_ms": 188473,
       "name": "A Vista",
       "url": "https://open.spotify.com/track/0u8PfBqEG82KR2IrQtLjEE"
+    },
+    {
+      "album": {
+        "name": "A \u00daltima Polka",
+        "url": "https://open.spotify.com/album/2qOjsrYwLJNUK7JYy2caED"
+      },
+      "artists": [
+        {
+          "name": "Codinome Winchester",
+          "url": "https://open.spotify.com/artist/0oxzuDPaVqVeGDKQfp36QZ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220666,
+      "name": "A \u00daltima Polka",
+      "url": "https://open.spotify.com/track/2WjfSuQJnJBgZ47zbgeVde"
     },
     {
       "album": {
@@ -1784,7 +1802,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 184303,
       "name": "Avenida",
       "url": "https://open.spotify.com/track/6u0BVelvhC0p80pKEtAHLG"
@@ -12914,7 +12932,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 158410,
       "name": "Pouco",
       "url": "https://open.spotify.com/track/5WcrYJKJPbkbFbhAWw8Scg"
@@ -14446,6 +14464,24 @@
       "duration_ms": 175326,
       "name": "Se Voc\u00ea Quiser",
       "url": "https://open.spotify.com/track/6GinDJJ5NGdbrkSUrivGkz"
+    },
+    {
+      "album": {
+        "name": "Existem Coisas Que N\u00e3o Podem Esperar",
+        "url": "https://open.spotify.com/album/0A8rmCzj7F7wNfSkPCWejO"
+      },
+      "artists": [
+        {
+          "name": "Porf\u00edrio",
+          "url": "https://open.spotify.com/artist/2qYaT54xotxq8bRuytCzWz"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234863,
+      "name": "Se Voc\u00ea Quisesse",
+      "url": "https://open.spotify.com/track/09ZK2vh6egoRvHxRx6x3sz"
     },
     {
       "album": {
@@ -16107,6 +16143,24 @@
     },
     {
       "album": {
+        "name": "toda vez que ele sai / correntes",
+        "url": "https://open.spotify.com/album/6WjNusLEmLzXDj2wW2YmkQ"
+      },
+      "artists": [
+        {
+          "name": "pedro lanches",
+          "url": "https://open.spotify.com/artist/44PNMjjw6oTqDPzOdcGAI7"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165717,
+      "name": "toda vez que ele sai",
+      "url": "https://open.spotify.com/track/5BGaDsUQ3Ita2NE0WXDtZV"
+    },
+    {
+      "album": {
         "name": "Todacor",
         "url": "https://open.spotify.com/album/3HVQ90NJxJMGBj0nAZh9qs"
       },
@@ -16664,7 +16718,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 171589,
       "name": "T\u00e1 Foda",
       "url": "https://open.spotify.com/track/4NmGGeaEyyfv69VxfXjdRH"
@@ -16892,7 +16946,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 217875,
       "name": "Um m\u00f3bile no furac\u00e3o",
       "url": "https://open.spotify.com/track/67IP2oQ9598zodGsgAOLja"
@@ -18130,6 +18184,24 @@
       "duration_ms": 111467,
       "name": "Vqvcssmefmt (Vi Que Voc\u00ea Saiu Sem Mim e Fiquei Muito Triste)",
       "url": "https://open.spotify.com/track/3y7WDGziuaDdYbnwtex42U"
+    },
+    {
+      "album": {
+        "name": "v\u00e9spera",
+        "url": "https://open.spotify.com/album/6EJi3irsbiLg6xZ2XojYX7"
+      },
+      "artists": [
+        {
+          "name": "guandu",
+          "url": "https://open.spotify.com/artist/6kF4KHZ94ltqD6JetcWtoJ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196144,
+      "name": "v\u00e9spera",
+      "url": "https://open.spotify.com/track/73H1LR2JBpreJKv9TiqZH7"
     },
     {
       "album": {

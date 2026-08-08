@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05G4EKYbiXi.md) - [plain]
 | 9 | [Satellite](https://open.spotify.com/track/2UjNsh4ipNrmog6wdS2JVv) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [My Cassette Player](https://open.spotify.com/album/59U7vMcBXR5Mo680WLCR4w) | 2:55 |
 | 10 | [Wunder gibt es immer wieder](https://open.spotify.com/track/6IMHt7twGawKKakedElhbf) | [Katja Ebstein](https://open.spotify.com/artist/4wvxXnEKj4ModbmMLGAKYZ) | [Meine größten Erfolge](https://open.spotify.com/album/0ofUaE6WeOrGrehtOvC5g5) | 3:32 |
 
-Snapshot ID: `AAAAADpg+LQBFDcFO3G+mNxPy26hNTP/`
+Snapshot ID: `AAAAAPGwD/uxfLEA4EIKRHsK6D5NQtW5`

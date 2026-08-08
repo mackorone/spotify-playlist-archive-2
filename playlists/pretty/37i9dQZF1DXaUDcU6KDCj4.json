@@ -1,13 +1,249 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Buffalo Traffic Jam\n",
-  "num_followers": 878256,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Sierra Ferrell\n",
+  "num_followers": 878580,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFQKWJqa2Bj6vTAYlepCSf0WPZCE",
+  "snapshot_id": "AAAAAEj3oPTtFxFQjUnaTLBkpVfQflIW",
   "tracks": [
+    {
+      "added_at": "2026-08-07 04:00:10",
+      "album": {
+        "name": "Second Song",
+        "url": "https://open.spotify.com/album/3gHpW0CfeuhuPuimyuhIUU"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        },
+        {
+          "name": "neil young and the chrome hearts",
+          "url": "https://open.spotify.com/artist/35S7T09aV4E9CC0R2RgTXK"
+        }
+      ],
+      "duration_ms": 680485,
+      "name": "Second Song",
+      "url": "https://open.spotify.com/track/2SPukgvVWtpdnGfywLUP6Z"
+    },
+    {
+      "added_at": "2026-08-07 04:00:10",
+      "album": {
+        "name": "Trying to Love You",
+        "url": "https://open.spotify.com/album/0EkpTvE8v9vackhs5lxMXk"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 290141,
+      "name": "Trying to Love You",
+      "url": "https://open.spotify.com/track/4kJ0V9jYljXTK9sWcLFzYZ"
+    },
+    {
+      "added_at": "2026-08-07 04:00:10",
+      "album": {
+        "name": "Officially",
+        "url": "https://open.spotify.com/album/2JLycznyORfKJDAxKa5Zbv"
+      },
+      "artists": [
+        {
+          "name": "Way Dynamic",
+          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
+        }
+      ],
+      "duration_ms": 205144,
+      "name": "Officially",
+      "url": "https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy"
+    },
+    {
+      "added_at": "2026-08-07 04:00:10",
+      "album": {
+        "name": "Her Eyes Dart Round",
+        "url": "https://open.spotify.com/album/4d1Bz3PslXUTI4ofL2VqC1"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        },
+        {
+          "name": "Felice County Fair",
+          "url": "https://open.spotify.com/artist/7JRfo5LndFUxvOZzE41JIL"
+        }
+      ],
+      "duration_ms": 173024,
+      "name": "Her Eyes Dart Round",
+      "url": "https://open.spotify.com/track/19usgOmcdzZMRx5XKJZlmV"
+    },
+    {
+      "added_at": "2026-08-07 04:00:10",
+      "album": {
+        "name": "4 songs",
+        "url": "https://open.spotify.com/album/3I3n7l0MBqm17NREZdGGCU"
+      },
+      "artists": [
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        },
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 184540,
+      "name": "pull me out",
+      "url": "https://open.spotify.com/track/0JEV4lg8RqwkLQCqWl5aWC"
+    },
+    {
+      "added_at": "2026-08-07 04:00:10",
+      "album": {
+        "name": "Feelings Are Forever",
+        "url": "https://open.spotify.com/album/01rDa3R9E2OMXOISdH1295"
+      },
+      "artists": [
+        {
+          "name": "Yana",
+          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
+        }
+      ],
+      "duration_ms": 168146,
+      "name": "It Just So Happens",
+      "url": "https://open.spotify.com/track/39VskX4yIWsxCSE1x7Wa8j"
+    },
+    {
+      "added_at": "2026-08-07 04:00:10",
+      "album": {
+        "name": "Oh No Now My",
+        "url": "https://open.spotify.com/album/6Qex2dWIX0M5LPHLTJq4Sr"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "duration_ms": 188453,
+      "name": "Oh No Now My",
+      "url": "https://open.spotify.com/track/2MbLMnGeW92YVBbsyHM5WR"
+    },
+    {
+      "added_at": "2026-08-07 04:00:10",
+      "album": {
+        "name": "Drywall",
+        "url": "https://open.spotify.com/album/01OSOU9YnGYjkpf2YORl6j"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "duration_ms": 254743,
+      "name": "Drywall",
+      "url": "https://open.spotify.com/track/4ygcbHjrfBz5ULRFb0G3OV"
+    },
+    {
+      "added_at": "2026-08-07 04:00:10",
+      "album": {
+        "name": "Ellen Forever",
+        "url": "https://open.spotify.com/album/7KllU4dJAaIwt4vL601PCD"
+      },
+      "artists": [
+        {
+          "name": "Sorcha Richardson",
+          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
+        }
+      ],
+      "duration_ms": 181063,
+      "name": "Ellen Forever",
+      "url": "https://open.spotify.com/track/5TTN9RKqzURTGMTssbu2JS"
+    },
+    {
+      "added_at": "2026-08-07 04:00:10",
+      "album": {
+        "name": "Days",
+        "url": "https://open.spotify.com/album/4ZQoBXedhDE2cpJE7MGslJ"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 153408,
+      "name": "Days",
+      "url": "https://open.spotify.com/track/1OdbXmMh5o7HG4rEebwOrp"
+    },
+    {
+      "added_at": "2026-08-07 04:00:10",
+      "album": {
+        "name": "Pretty Eyes",
+        "url": "https://open.spotify.com/album/6V7xQwlAToBV6x1jNBjW0t"
+      },
+      "artists": [
+        {
+          "name": "Futurebirds",
+          "url": "https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O"
+        }
+      ],
+      "duration_ms": 257640,
+      "name": "Pretty Eyes",
+      "url": "https://open.spotify.com/track/7xMxVFSDCxj86pqtAv53XR"
+    },
+    {
+      "added_at": "2026-08-07 04:00:10",
+      "album": {
+        "name": "Hollywood Sign",
+        "url": "https://open.spotify.com/album/3HwKCIvbJEv5F2OyF0dxHF"
+      },
+      "artists": [
+        {
+          "name": "Aaron Rowe",
+          "url": "https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke"
+        }
+      ],
+      "duration_ms": 241169,
+      "name": "Hollywood Sign",
+      "url": "https://open.spotify.com/track/4VEDiZ3uZ4mnGHiJ0oYi1k"
+    },
+    {
+      "added_at": "2026-08-07 04:00:10",
+      "album": {
+        "name": "Kansas Tornado",
+        "url": "https://open.spotify.com/album/5Yrpd6zYr1VGNk0NhBN8wQ"
+      },
+      "artists": [
+        {
+          "name": "BAILEN",
+          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
+        }
+      ],
+      "duration_ms": 192621,
+      "name": "Kansas Tornado",
+      "url": "https://open.spotify.com/track/3IXnoahxOwwJ20M1GnNVHc"
+    },
+    {
+      "added_at": "2026-08-07 04:00:10",
+      "album": {
+        "name": "Flip A Coin",
+        "url": "https://open.spotify.com/album/5Zr6qzv6A6piAd6lA7rOjY"
+      },
+      "artists": [
+        {
+          "name": "Oscar Lindsey",
+          "url": "https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB"
+        }
+      ],
+      "duration_ms": 133240,
+      "name": "Flip A Coin",
+      "url": "https://open.spotify.com/track/0Udqb4v3iY2g7khaU6u0QF"
+    },
     {
       "added_at": "2026-07-31 04:01:47",
       "album": {
@@ -2467,278 +2703,6 @@
       "duration_ms": 210517,
       "name": "I Was Wrong",
       "url": "https://open.spotify.com/track/6UJPMPsiXUFl2tI0XlZzh6"
-    },
-    {
-      "added_at": "2026-06-05 04:00:55",
-      "album": {
-        "name": "Quick!",
-        "url": "https://open.spotify.com/album/0UPXDCCxvncoCCmBxoakpK"
-      },
-      "artists": [
-        {
-          "name": "Tasha",
-          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
-        }
-      ],
-      "duration_ms": 318274,
-      "name": "Quick!",
-      "url": "https://open.spotify.com/track/783ZfLVvxPRcSOzLmsxk7E"
-    },
-    {
-      "added_at": "2026-06-05 04:00:55",
-      "album": {
-        "name": "Georgia the Ceremonialist",
-        "url": "https://open.spotify.com/album/6Yu79pXvnZMBTyKoanjVVu"
-      },
-      "artists": [
-        {
-          "name": "Maya Donovan",
-          "url": "https://open.spotify.com/artist/1KduWbg9UCZKnRNfYNG9IX"
-        }
-      ],
-      "duration_ms": 276095,
-      "name": "Georgia the Ceremonialist",
-      "url": "https://open.spotify.com/track/5gfHOVYnO8aJ6RLSFIfxvW"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Philadelphia's been good to me",
-        "url": "https://open.spotify.com/album/5AfELtBFbN1hM75hgqc7FI"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 335650,
-      "name": "Rock o\u2019 Stone",
-      "url": "https://open.spotify.com/track/21CU5fG0Pp0LUbXRDG1d48"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Down Debbie/Reservoir",
-        "url": "https://open.spotify.com/album/1kKx979DVgL3MNOA1F7G6v"
-      },
-      "artists": [
-        {
-          "name": "The Army, The Navy",
-          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
-        }
-      ],
-      "duration_ms": 210918,
-      "name": "Down Debbie/Reservoir",
-      "url": "https://open.spotify.com/track/01M4zeod1IYrXGRSie9CmQ"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "for love's sake",
-        "url": "https://open.spotify.com/album/6Gili2PS0vC97P5HIZRPJG"
-      },
-      "artists": [
-        {
-          "name": "Abby Powledge",
-          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
-        }
-      ],
-      "duration_ms": 194453,
-      "name": "for love's sake",
-      "url": "https://open.spotify.com/track/3bAoL5RpaXCs40ndVBsj54"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Fallen Angel",
-        "url": "https://open.spotify.com/album/3ZLm8xE9pOYo3HRRI1pXbX"
-      },
-      "artists": [
-        {
-          "name": "Baby J",
-          "url": "https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Fallen Angel",
-      "url": "https://open.spotify.com/track/194Q4Tsfip4DMYa8ZuS7Oc"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Beauty Land",
-        "url": "https://open.spotify.com/album/60obFnzuMGgVR5bHKioyX2"
-      },
-      "artists": [
-        {
-          "name": "Greg Mendez",
-          "url": "https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h"
-        }
-      ],
-      "duration_ms": 179422,
-      "name": "So Mean",
-      "url": "https://open.spotify.com/track/1owPAAItZvWa1lc8rmNmJB"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "orange : the ep",
-        "url": "https://open.spotify.com/album/3YOtJDFGokdJ99r1Qp85CP"
-      },
-      "artists": [
-        {
-          "name": "King Howe",
-          "url": "https://open.spotify.com/artist/7AUxtXhXm1FrUo1YyspgiV"
-        }
-      ],
-      "duration_ms": 239640,
-      "name": "orange : v2",
-      "url": "https://open.spotify.com/track/1dLW515RvXJektDP5NBPBK"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Maybe The Best Is Now",
-        "url": "https://open.spotify.com/album/02MdxAPMDDyWb2kCofWQQ1"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 256920,
-      "name": "Maybe The Best Is Now",
-      "url": "https://open.spotify.com/track/3BQsnAOYYCh7fCXM7fOqPb"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Life On The Run",
-        "url": "https://open.spotify.com/album/7yAO3o6qdWfWgJNHeNwu7Z"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 229816,
-      "name": "Life On The Run",
-      "url": "https://open.spotify.com/track/0hQCfLsKgUJbupwRcXKpKI"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "As I Was",
-        "url": "https://open.spotify.com/album/07EaJNBPpgbmeC2N0nzi97"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 187478,
-      "name": "As I Was",
-      "url": "https://open.spotify.com/track/02Je1UjJerrrKoaUi2KeRW"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Taboo",
-        "url": "https://open.spotify.com/album/1g3VI1UlJcKDPP4bDihhdB"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 218333,
-      "name": "Taboo",
-      "url": "https://open.spotify.com/track/5r6asxdvB5xJtNiSMjWTjB"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Whatever It Takes (Break Your Heart)",
-        "url": "https://open.spotify.com/album/56CtdMCjb4yQVBXSNXsFIM"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 175588,
-      "name": "Whatever It Takes (Break Your Heart)",
-      "url": "https://open.spotify.com/track/5zmo0fUtVQfixc7by6G5NZ"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Masks Off",
-        "url": "https://open.spotify.com/album/2UPRZN5yCe0o7xQZ7teXEz"
-      },
-      "artists": [
-        {
-          "name": "Jesse Welles",
-          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
-        }
-      ],
-      "duration_ms": 204559,
-      "name": "Masks Off",
-      "url": "https://open.spotify.com/track/6KAPMJ5hQTPtOFkagbb7Z7"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Love Is Overtaking Me (Redux)",
-        "url": "https://open.spotify.com/album/72Hh7NaXG3r7E5sHhAnLCN"
-      },
-      "artists": [
-        {
-          "name": "Arthur Russell",
-          "url": "https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj"
-        }
-      ],
-      "duration_ms": 331130,
-      "name": "Apple to the Orange",
-      "url": "https://open.spotify.com/track/3rX1lDnL0lcdNX3LwRzDfp"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "Never Gonna Die",
-        "url": "https://open.spotify.com/album/70zapZKxf5icAenwRvAzBm"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "Never Gonna Die",
-      "url": "https://open.spotify.com/track/6978Sdhiq3l0VrHy4V9D8O"
-    },
-    {
-      "added_at": "2026-05-29 04:01:01",
-      "album": {
-        "name": "valley of my prime",
-        "url": "https://open.spotify.com/album/1UnbjUKJUVDSnRkaf2rnnc"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 207702,
-      "name": "the way you do",
-      "url": "https://open.spotify.com/track/2Sgz95fxgQYxDAS2yKJLGL"
     }
   ],
   "unique_name": "Fresh Folk",

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - South Korea.",
-  "num_followers": 173954,
+  "num_followers": 174021,
   "original_name": "Top 50 - South Korea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mgf9UAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Mgk+aAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
       "album": {
         "name": "REDRED",
         "url": "https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
       "album": {
         "name": "SCENEDROME",
         "url": "https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
       "album": {
         "name": "Less than a Lover",
         "url": "https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn"
@@ -57,55 +57,7 @@
       "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
-      "album": {
-        "name": "LEMONADE - The 2nd Album (NINGNING Special Version)",
-        "url": "https://open.spotify.com/album/437o5FFGCf3CszTjO3wVAi"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "LEMONADE",
-      "url": "https://open.spotify.com/track/1Hv8KIKhK6Dz02ROKT63lV"
-    },
-    {
-      "added_at": "2026-08-06 16:00:33",
-      "album": {
-        "name": "Pretty Girl - Special Single",
-        "url": "https://open.spotify.com/album/5fooRwtJmNvt64WhLN5Chy"
-      },
-      "artists": [
-        {
-          "name": "RESCENE",
-          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Pretty Girl",
-      "url": "https://open.spotify.com/track/26GehcyfHwgzfS0ok9yDYk"
-    },
-    {
-      "added_at": "2026-08-06 16:00:33",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 170887,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
-    },
-    {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
       "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
@@ -125,7 +77,55 @@
       "url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
+      "album": {
+        "name": "LEMONADE - The 2nd Album (NINGNING Special Version)",
+        "url": "https://open.spotify.com/album/437o5FFGCf3CszTjO3wVAi"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/1Hv8KIKhK6Dz02ROKT63lV"
+    },
+    {
+      "added_at": "2026-08-07 15:34:23",
+      "album": {
+        "name": "Pretty Girl - Special Single",
+        "url": "https://open.spotify.com/album/5fooRwtJmNvt64WhLN5Chy"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/26GehcyfHwgzfS0ok9yDYk"
+    },
+    {
+      "added_at": "2026-08-07 15:34:23",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 170887,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
+    },
+    {
+      "added_at": "2026-08-07 15:34:23",
       "album": {
         "name": "MAMIHLAPINATAPAI",
         "url": "https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
       "album": {
         "name": "Lemon Tang - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/39xlBHb1gQvMVqRZLjaTjI"
@@ -157,23 +157,7 @@
       "url": "https://open.spotify.com/track/0NGFAcYQVHCIdQea2qSs1I"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
-      "album": {
-        "name": "GOLDEN HOUR : Part.5",
-        "url": "https://open.spotify.com/album/6Eg6B1mgGj2dGLBajzsVpV"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 156034,
-      "name": "BAD",
-      "url": "https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3"
-    },
-    {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
       "album": {
         "name": "JAMONG SALGU CLUB",
         "url": "https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ"
@@ -189,7 +173,23 @@
       "url": "https://open.spotify.com/track/3sOAwRg5esaxDcWnUigWPv"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
+      "album": {
+        "name": "GOLDEN HOUR : Part.5",
+        "url": "https://open.spotify.com/album/6Eg6B1mgGj2dGLBajzsVpV"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 156034,
+      "name": "BAD",
+      "url": "https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3"
+    },
+    {
+      "added_at": "2026-08-07 15:34:23",
       "album": {
         "name": "Dearest",
         "url": "https://open.spotify.com/album/2oXZPVj5JczGoUR82tc28h"
@@ -205,23 +205,7 @@
       "url": "https://open.spotify.com/track/1pBUzZE9PoKLoPxo6QxsG6"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
-      "album": {
-        "name": "RUDE!",
-        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
-      },
-      "artists": [
-        {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "RUDE!",
-      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
-    },
-    {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
       "album": {
         "name": "I.O.I 3rd MINI ALBUM [I.O.I : LOOP]",
         "url": "https://open.spotify.com/album/09oicnXd9BtWOqgzgCi6gp"
@@ -237,7 +221,23 @@
       "url": "https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
+      "album": {
+        "name": "RUDE!",
+        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "RUDE!",
+      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
+    },
+    {
+      "added_at": "2026-08-07 15:34:23",
       "album": {
         "name": "Take-off",
         "url": "https://open.spotify.com/album/5NUuj9AlcNI1khPYJJAVtV"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/3WvM2dIR9iIxMGNMP7WsNw"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
       "album": {
         "name": "Velvet Summer - Summer Mini Album",
         "url": "https://open.spotify.com/album/0AzIvsw9Pq9De3vYFA01Rr"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/3caqaSvtldUKLY5Fd5msk2"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
       "album": {
         "name": "Glow ME",
         "url": "https://open.spotify.com/album/5TavW70ILrvXyPabrm5z29"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/70RQYCjVacuJgeYAmU2sXd"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
       "album": {
         "name": "Delulu Pack",
         "url": "https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8"
@@ -301,7 +301,39 @@
       "url": "https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
+      "album": {
+        "name": "Let Me Love My Youth",
+        "url": "https://open.spotify.com/album/7bRI9NhWadLpdKCWvzsuWJ"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 248407,
+      "name": "Let Me Love My Youth",
+      "url": "https://open.spotify.com/track/4KA9VMFIKUUMjEcnwiylr1"
+    },
+    {
+      "added_at": "2026-08-07 15:34:23",
+      "album": {
+        "name": "LOVE CATCHER",
+        "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Catch Catch",
+      "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
+    },
+    {
+      "added_at": "2026-08-07 15:34:23",
       "album": {
         "name": "OO-LI",
         "url": "https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4"
@@ -317,7 +349,7 @@
       "url": "https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -337,55 +369,7 @@
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
-      "album": {
-        "name": "LOVE CATCHER",
-        "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
-      },
-      "artists": [
-        {
-          "name": "YENA",
-          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Catch Catch",
-      "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
-    },
-    {
-      "added_at": "2026-08-06 16:00:33",
-      "album": {
-        "name": "Let Me Love My Youth",
-        "url": "https://open.spotify.com/album/7bRI9NhWadLpdKCWvzsuWJ"
-      },
-      "artists": [
-        {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
-        }
-      ],
-      "duration_ms": 248407,
-      "name": "Let Me Love My Youth",
-      "url": "https://open.spotify.com/track/4KA9VMFIKUUMjEcnwiylr1"
-    },
-    {
-      "added_at": "2026-08-06 16:00:33",
-      "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
-      },
-      "artists": [
-        {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
-        }
-      ],
-      "duration_ms": 180716,
-      "name": "Don\u2019t Say You Love Me",
-      "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
-    },
-    {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
       "album": {
         "name": "If I have you only (My love X Nerd Connection)",
         "url": "https://open.spotify.com/album/2UleuA3LPZK5gynTHcma1b"
@@ -401,7 +385,23 @@
       "url": "https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 180716,
+      "name": "Don\u2019t Say You Love Me",
+      "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
+    },
+    {
+      "added_at": "2026-08-07 15:34:23",
       "album": {
         "name": "Heavy Serenade",
         "url": "https://open.spotify.com/album/18i8wouCElE4oR6OqfFecg"
@@ -417,119 +417,7 @@
       "url": "https://open.spotify.com/track/1404zSB6dqMIiStHLI7gg4"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
-      "album": {
-        "name": "Traveler",
-        "url": "https://open.spotify.com/album/17gzvH2FPpVhpuqalLFi9j"
-      },
-      "artists": [
-        {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
-        }
-      ],
-      "duration_ms": 326842,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/15HNdxGKNCIO9pgaY4n7FU"
-    },
-    {
-      "added_at": "2026-08-06 16:00:33",
-      "album": {
-        "name": "Forever Has Always Been",
-        "url": "https://open.spotify.com/album/4zbGo5oU2rocTxouxbt6Df"
-      },
-      "artists": [
-        {
-          "name": "Redoor",
-          "url": "https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS"
-        }
-      ],
-      "duration_ms": 237160,
-      "name": "Forever Has Always Been",
-      "url": "https://open.spotify.com/track/3tbHqU6PKS2bIGWx9cn082"
-    },
-    {
-      "added_at": "2026-08-06 16:00:33",
-      "album": {
-        "name": "J-POP REMAKE Vol.1",
-        "url": "https://open.spotify.com/album/6TrdV55NrcCxlod6cXsTNu"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Bansanka",
-      "url": "https://open.spotify.com/track/0KgetoSLg8qfJWIwoAQxBf"
-    },
-    {
-      "added_at": "2026-08-06 16:00:33",
-      "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 159007,
-      "name": "SWIM",
-      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
-    },
-    {
-      "added_at": "2026-08-06 16:00:33",
-      "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
-      },
-      "artists": [
-        {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "for lovers who hesitate",
-      "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
-    },
-    {
-      "added_at": "2026-08-06 16:00:33",
-      "album": {
-        "name": "FLOWERING",
-        "url": "https://open.spotify.com/album/0e4X6KNw1He0mlZ2BK9Loz"
-      },
-      "artists": [
-        {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        }
-      ],
-      "duration_ms": 218480,
-      "name": "Paradise of Rumors",
-      "url": "https://open.spotify.com/track/5dxiriLgC9mu2FbSNqudld"
-    },
-    {
-      "added_at": "2026-08-06 16:00:33",
-      "album": {
-        "name": "Remapping the Human Soul",
-        "url": "https://open.spotify.com/album/0dcpWdZ9nKIbxgZma4NhMa"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "Love Love Love",
-      "url": "https://open.spotify.com/track/7hlEhmg5h9XuFtaGfgvqjF"
-    },
-    {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
       "album": {
         "name": "We Are",
         "url": "https://open.spotify.com/album/67d43ZuedVWtZMc4nOm90J"
@@ -553,55 +441,55 @@
       "url": "https://open.spotify.com/track/2SMq0lOqCTHayWa9juoI0d"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/6wL6HetMdQwsTqZzCBpGGJ"
+        "name": "Traveler",
+        "url": "https://open.spotify.com/album/17gzvH2FPpVhpuqalLFi9j"
       },
       "artists": [
         {
-          "name": "RESCENE",
-          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/1x0mG2CyQW5mjBX17ZfTUG"
+      "duration_ms": 326842,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/15HNdxGKNCIO9pgaY4n7FU"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
       "album": {
-        "name": "STYLE",
-        "url": "https://open.spotify.com/album/2bCF7O4JPKcxtlOw7AtphB"
+        "name": "Forever Has Always Been",
+        "url": "https://open.spotify.com/album/4zbGo5oU2rocTxouxbt6Df"
       },
       "artists": [
         {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+          "name": "Redoor",
+          "url": "https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS"
         }
       ],
-      "duration_ms": 209671,
-      "name": "STYLE",
-      "url": "https://open.spotify.com/track/5EoV2HmAlkqN1XvsIjOBZZ"
+      "duration_ms": 237160,
+      "name": "Forever Has Always Been",
+      "url": "https://open.spotify.com/track/3tbHqU6PKS2bIGWx9cn082"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
       "album": {
-        "name": "FOCUS - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b"
+        "name": "J-POP REMAKE Vol.1",
+        "url": "https://open.spotify.com/album/6TrdV55NrcCxlod6cXsTNu"
       },
       "artists": [
         {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         }
       ],
-      "duration_ms": 177052,
-      "name": "FOCUS",
-      "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
+      "duration_ms": 219000,
+      "name": "Bansanka",
+      "url": "https://open.spotify.com/track/0KgetoSLg8qfJWIwoAQxBf"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
       "album": {
         "name": "Please Summer!",
         "url": "https://open.spotify.com/album/4PdIcl4swrv6gta9ZSzLZG"
@@ -617,7 +505,103 @@
       "url": "https://open.spotify.com/track/2D5IrHXQhnltOsi0gE9YqV"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
+      "album": {
+        "name": "Remapping the Human Soul",
+        "url": "https://open.spotify.com/album/0dcpWdZ9nKIbxgZma4NhMa"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Love Love Love",
+      "url": "https://open.spotify.com/track/7hlEhmg5h9XuFtaGfgvqjF"
+    },
+    {
+      "added_at": "2026-08-07 15:34:23",
+      "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 159007,
+      "name": "SWIM",
+      "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
+    },
+    {
+      "added_at": "2026-08-07 15:34:23",
+      "album": {
+        "name": "FLOWERING",
+        "url": "https://open.spotify.com/album/0e4X6KNw1He0mlZ2BK9Loz"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "duration_ms": 218480,
+      "name": "Paradise of Rumors",
+      "url": "https://open.spotify.com/track/5dxiriLgC9mu2FbSNqudld"
+    },
+    {
+      "added_at": "2026-08-07 15:34:23",
+      "album": {
+        "name": "STYLE",
+        "url": "https://open.spotify.com/album/2bCF7O4JPKcxtlOw7AtphB"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "duration_ms": 209671,
+      "name": "STYLE",
+      "url": "https://open.spotify.com/track/5EoV2HmAlkqN1XvsIjOBZZ"
+    },
+    {
+      "added_at": "2026-08-07 15:34:23",
+      "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "for lovers who hesitate",
+      "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
+    },
+    {
+      "added_at": "2026-08-07 15:34:23",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/6wL6HetMdQwsTqZzCBpGGJ"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/1x0mG2CyQW5mjBX17ZfTUG"
+    },
+    {
+      "added_at": "2026-08-07 15:34:23",
       "album": {
         "name": "15",
         "url": "https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD"
@@ -633,7 +617,7 @@
       "url": "https://open.spotify.com/track/075HUD50Nuea3rNaABIsNZ"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
       "album": {
         "name": "yours",
         "url": "https://open.spotify.com/album/7mvY0s2fwo5aaRw4zCyCA6"
@@ -649,55 +633,23 @@
       "url": "https://open.spotify.com/track/7JQH2lBMZ10ztDnpoeq6Ki"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
       "album": {
-        "name": "FLYING HIGH WITH U",
-        "url": "https://open.spotify.com/album/3DNb7rjCY6ShyXkExKIbSz"
+        "name": "FOCUS - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b"
       },
       "artists": [
         {
-          "name": "VINXEN",
-          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
         }
       ],
-      "duration_ms": 207186,
-      "name": "FLYING HIGH WITH U",
-      "url": "https://open.spotify.com/track/4iZIvaus7v4wSjFvdF83NA"
+      "duration_ms": 177052,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
-      "album": {
-        "name": "\u200eGood Night Good Dream",
-        "url": "https://open.spotify.com/album/4VLZnvJ9dnuEnF57Pbashc"
-      },
-      "artists": [
-        {
-          "name": "Nerd Connection",
-          "url": "https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK"
-        }
-      ],
-      "duration_ms": 265983,
-      "name": "\u200eGood Night Good Dream",
-      "url": "https://open.spotify.com/track/3s761CQaziQ0GEN1yUkIsG"
-    },
-    {
-      "added_at": "2026-08-06 16:00:33",
-      "album": {
-        "name": "petal",
-        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 197949,
-      "name": "hate that i made you love me",
-      "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
-    },
-    {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
       "album": {
         "name": "COLOR OUTSIDE THE LINES",
         "url": "https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf"
@@ -713,7 +665,7 @@
       "url": "https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
       "album": {
         "name": "SUPER REAL ME",
         "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
@@ -729,23 +681,39 @@
       "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
       "album": {
-        "name": "IM HERO 2",
-        "url": "https://open.spotify.com/album/19z4SOpETLOt3bKKcJJ84O"
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
       },
       "artists": [
         {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Eternal Moment",
-      "url": "https://open.spotify.com/track/2aSfmbpproCPOe2j01WT2a"
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
+      "album": {
+        "name": "FLYING HIGH WITH U",
+        "url": "https://open.spotify.com/album/3DNb7rjCY6ShyXkExKIbSz"
+      },
+      "artists": [
+        {
+          "name": "VINXEN",
+          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
+        }
+      ],
+      "duration_ms": 207186,
+      "name": "FLYING HIGH WITH U",
+      "url": "https://open.spotify.com/track/4iZIvaus7v4wSjFvdF83NA"
+    },
+    {
+      "added_at": "2026-08-07 15:34:23",
       "album": {
         "name": "GREENGREEN",
         "url": "https://open.spotify.com/album/2zEdi42kfgLEySoikGJMFT"
@@ -761,23 +729,23 @@
       "url": "https://open.spotify.com/track/7Ldcvhcl4Xj4eOTSWpZus5"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
       "album": {
-        "name": "EROS",
-        "url": "https://open.spotify.com/album/4ay1EPfn8KVGqO2CpV5Ws8"
+        "name": "\u200eGood Night Good Dream",
+        "url": "https://open.spotify.com/album/4VLZnvJ9dnuEnF57Pbashc"
       },
       "artists": [
         {
-          "name": "LEE CHANHYUK",
-          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
+          "name": "Nerd Connection",
+          "url": "https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK"
         }
       ],
-      "duration_ms": 220202,
-      "name": "Endangered Love",
-      "url": "https://open.spotify.com/track/06o2o3TpyR8eGU2ANK21Lp"
+      "duration_ms": 265983,
+      "name": "\u200eGood Night Good Dream",
+      "url": "https://open.spotify.com/track/3s761CQaziQ0GEN1yUkIsG"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
       "album": {
         "name": "Show Me The Money 12 Episode 2",
         "url": "https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ"
@@ -801,7 +769,39 @@
       "url": "https://open.spotify.com/track/1alWuqrk1v7xzECNR8ovRo"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
+      "album": {
+        "name": "EROS",
+        "url": "https://open.spotify.com/album/4ay1EPfn8KVGqO2CpV5Ws8"
+      },
+      "artists": [
+        {
+          "name": "LEE CHANHYUK",
+          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
+        }
+      ],
+      "duration_ms": 220202,
+      "name": "Endangered Love",
+      "url": "https://open.spotify.com/track/06o2o3TpyR8eGU2ANK21Lp"
+    },
+    {
+      "added_at": "2026-08-07 15:34:23",
+      "album": {
+        "name": "IM HERO 2",
+        "url": "https://open.spotify.com/album/19z4SOpETLOt3bKKcJJ84O"
+      },
+      "artists": [
+        {
+          "name": "Lim Young Woong",
+          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Eternal Moment",
+      "url": "https://open.spotify.com/track/2aSfmbpproCPOe2j01WT2a"
+    },
+    {
+      "added_at": "2026-08-07 15:34:23",
       "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
@@ -821,20 +821,20 @@
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
     },
     {
-      "added_at": "2026-08-06 16:00:33",
+      "added_at": "2026-08-07 15:34:23",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
       },
       "artists": [
         {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 158494,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
+      "duration_ms": 179026,
+      "name": "Hype Boy",
+      "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
     }
   ],
   "unique_name": "Top 50 - South Korea",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7U1OVzZor41.md) - [plain]
 
 > 在KTV里，这些都是必点必唱的华语K歌。你准备好了吗？
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,527 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,531 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7U1OVzZor41.md) - [plain]
 | 38 | [猜不透](https://open.spotify.com/track/5FGzM47D9MUa0y7qb2D0Ix) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [我愛上的](https://open.spotify.com/album/4s6z6tx4tMRKjjtyhtPQzb) | 3:53 |
 | 39 | [倒帶](https://open.spotify.com/track/4XipvtwRgtUrGb2j2l0wNG) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [城堡](https://open.spotify.com/album/6OeSMtENnJV8FpGb1eZheV) | 4:25 |
 | 40 | [再見](https://open.spotify.com/track/5UAGQJmL7Rn4gn7wlkMyqS) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [新的心跳](https://open.spotify.com/album/1tEl9cDFkTKGmaRpZLB7zW) | 3:26 |
-| 41 | [魚仔 \- 電視劇<花甲男孩轉大人>主題曲](https://open.spotify.com/track/2sb6AZQLeoD3VgA4zglQB6) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [魚仔](https://open.spotify.com/album/5m26LRbGYAZIr0YE1IC3x6) | 4:40 |
-| 42 | [背叛](https://open.spotify.com/track/48VzfSDNpxIfWohA9bZgfo) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [Superman](https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN) | 5:21 |
+| 41 | [背叛](https://open.spotify.com/track/48VzfSDNpxIfWohA9bZgfo) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [Superman](https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN) | 5:21 |
+| 42 | [魚仔 \- 電視劇<花甲男孩轉大人>主題曲](https://open.spotify.com/track/2sb6AZQLeoD3VgA4zglQB6) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [魚仔](https://open.spotify.com/album/5m26LRbGYAZIr0YE1IC3x6) | 4:40 |
 | 43 | [那些年](https://open.spotify.com/track/3v8FOuA8jxAC5SOA2uN6Mg) | [Hu Xia](https://open.spotify.com/artist/3iRqbMhzyOyoCkmmMRxLWR) | [燃點](https://open.spotify.com/album/2lFXvFUkCw1HgK6My78Ldk) | 6:09 |
 | 44 | [心牆](https://open.spotify.com/track/0FjrLvldGA3kiwLBxv2PSD) | [Claire Kuo](https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf) | [在樹上唱歌](https://open.spotify.com/album/7q4J2UTcJJsHlaxCWnc8ih) | 3:46 |
 | 45 | [有一種悲傷 \- 電影《比悲傷更悲傷的故事》主題曲](https://open.spotify.com/track/3ayrHkyorPEpeOBvZ76SwG) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [有一種悲傷 \(電影《比悲傷更悲傷的故事》主題曲\)](https://open.spotify.com/album/68NAOLFISOsBsyMLA2fUPf) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7U1OVzZor41.md) - [plain]
 | 49 | [他一定很愛你](https://open.spotify.com/track/1n3TbqMfvALAI0BjtiF6Lt) | [A\-do](https://open.spotify.com/artist/24C7uNrWX2Iidb6X63vTGz) | [天黑](https://open.spotify.com/album/2j7oLWPom1E8cLCN8wkDg6) | 3:30 |
 | 50 | [拿走了什麼](https://open.spotify.com/track/7gXiPiffMrqPe3Q1vzD6uM) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [罪惡感](https://open.spotify.com/album/7MRgaADR9IFjG9NgdEkarv) | 4:56 |
 
-Snapshot ID: `AAAAAIF7SKNoJwY7uLvK2fZoiF0rmi/w`
+Snapshot ID: `AAAAAKRVOz7999emEYpjMxfrEdriNbjA`

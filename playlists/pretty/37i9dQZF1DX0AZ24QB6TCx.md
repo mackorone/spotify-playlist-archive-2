@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,278 likes - 70 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,281 likes - 70 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 64 | [Blissda](https://open.spotify.com/track/5trIxTDiFfTeqnRiRjW0A8) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Blissda](https://open.spotify.com/album/1ZHRTJ5kAhqFbfm3MFCxZ9) | 5:43 |
 | 65 | [Ve](https://open.spotify.com/track/5HngP2bVbIcEC4tHVkCgNc) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Ve](https://open.spotify.com/album/1yEmW3JlHzrmKNoheAyYNA) | 5:04 |
 | 66 | [Nightflower](https://open.spotify.com/track/7dL08ackWZClIZzOSD7PHt) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Phenomena I](https://open.spotify.com/album/1DchSTqin2FDbr8r82iI1v) | 3:49 |
-| 67 | [Holy \(Frank Wiedemann Remix\)](https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94) | [Home \(Remixes\)](https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq) | 5:34 |
-| 68 | [Miyanosawa](https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Miyanosawa](https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu) | 3:28 |
-| 69 | [Outside](https://open.spotify.com/track/3UaFSJ0Oycs0SVSEWgfGqO) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Outside](https://open.spotify.com/album/1sJDL3FIePJVTbHo2ffJ17) | 3:58 |
+| 67 | [Miyanosawa](https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Miyanosawa](https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu) | 3:28 |
+| 68 | [Outside](https://open.spotify.com/track/3UaFSJ0Oycs0SVSEWgfGqO) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Outside](https://open.spotify.com/album/1sJDL3FIePJVTbHo2ffJ17) | 3:58 |
+| 69 | [Holy \(Frank Wiedemann Remix\)](https://open.spotify.com/track/49Imb1YVmhSFvKmgSQlykO) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94) | [Home \(Remixes\)](https://open.spotify.com/album/2whcMWhKWfBMDbrl2SBujq) | 5:34 |
 | 70 | [Living Machines](https://open.spotify.com/track/1cfutc0JBTMA9VW4tYBVq1) | [Jai Cuzco](https://open.spotify.com/artist/2qjkEXePHEV3eMJkFil4be) | [Underyourskin 100](https://open.spotify.com/album/1mC0vIpZHi9VCPsYB1ciFj) | 5:07 |
 
-Snapshot ID: `AAAAALUfTbWwgKGnEl7VWju53JZl+iIq`
+Snapshot ID: `AAAAAFob3eTqkUJ6jYuJp2D98a+2JMjO`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 
 > Los clásicos no pasan de moda\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,285 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,369 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnX16cvcI94.md) - [plain]
 | 49 | [Hoy \(feat\. Daddy Yankee, J\-Alvarez & Jory\)](https://open.spotify.com/track/2MrP2Sv5Zbj1qckTKD1pVn) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [Hoy \(feat\. Daddy Yankee, J\-Alvarez & Jory\)](https://open.spotify.com/album/63KShmoudDQpMk8eFWBLjb) | 4:53 |
 | 50 | [Hay Algo en Ti](https://open.spotify.com/track/15PxHZffHMndHQjmzYuGUv) | [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Noriega](https://open.spotify.com/artist/3P4VNQLuN1qQQnL8rMaIkL), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [Mas Flow, Vol\. 1](https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot) | 3:52 |
 
-Snapshot ID: `AAAAAEwmMesL1Ohs5WIkLe8JQ7uidPVb`
+Snapshot ID: `AAAAAJBA9t9ub4JL2i5QnNFb62FX5zWA`

@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sjMWzrf4d9.md) - [plain]
 | 19 | [Consideration](https://open.spotify.com/track/6t90Z9XkdsHD8xMxro6KRP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 2:41 |
 | 20 | [Goodies \(feat\. Petey Pablo\)](https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Petey Pablo](https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9) | [Goodies](https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3) | 3:43 |
 | 21 | [1 Thing](https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Touch](https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf) | 3:58 |
-| 22 | [Kevin’s Heart](https://open.spotify.com/track/6tZ3b7ik1QDXFAZlXib0YZ) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [KOD](https://open.spotify.com/album/4Wv5UAieM1LDEYVq5WmqDd) | 3:20 |
-| 23 | [Love Like This](https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 4:35 |
+| 22 | [Love Like This](https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 4:35 |
+| 23 | [Kevin’s Heart](https://open.spotify.com/track/6tZ3b7ik1QDXFAZlXib0YZ) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [KOD](https://open.spotify.com/album/4Wv5UAieM1LDEYVq5WmqDd) | 3:20 |
 | 24 | [Int'l Players Anthem \(I Choose You\) \(feat\. Outkast\)](https://open.spotify.com/track/4ns1XFP3W5JPyzvnAjMdHD) | [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [UGK \(Underground Kingz\)](https://open.spotify.com/album/4GXlMz68LyGZeHzJcetFi1) | 4:19 |
 | 25 | [ELEMENT.](https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:28 |
 | 26 | [Toxic](https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sjMWzrf4d9.md) - [plain]
 | 49 | [Pussy is Mine](https://open.spotify.com/track/0tmQ3hHXa8MGwUKUm6rAyF) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream](https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD) | 2:53 |
 | 50 | [Rich Sex \(feat\. Lil Wayne\)](https://open.spotify.com/track/2D1MK9oaxy7axXggy3iVbp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 3:12 |
 
-Snapshot ID: `AAAAACHF7bIOAjncnDuwCR4jvIbtZ5MU`
+Snapshot ID: `AAAAAI37Mt7r6TAMZN1oYBFUotU6FPWG`

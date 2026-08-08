@@ -4,7 +4,7 @@
 
 > Today's top country music! Cover: Cameron Whitcomb
 
-311 songs - 16 hr 40 min
+314 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Kiss My Glass](https://open.spotify.com/track/2jvj8Ujx1atOIE7QIMCekC) | [Savannah Jade](https://open.spotify.com/artist/26QKf6FL7JcSuAkoos1WW5) | [Kiss My Glass](https://open.spotify.com/album/1hLmkh1BrKnjhTpv2j6uPz) | 2:53 | 2026-07-02 |  |
 | [Last One To Know](https://open.spotify.com/track/7Eb9i3xmiLuY5MiY6AhzzL) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Last One To Know](https://open.spotify.com/album/4zzLitRvQXzr4Eu2UVz0Nh) | 2:57 | 2025-09-13 |  |
 | [Last Rodeo](https://open.spotify.com/track/2zktqQLyXilXPmGIoly5M9) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Last Rodeo](https://open.spotify.com/album/13C5YrXTkUryrL7xkJ25mQ) | 3:26 | 2026-02-27 |  |
+| [Lean In, Kiss Me](https://open.spotify.com/track/4W5TwNu9mgYlIltWW6FnEE) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Lean In, Kiss Me](https://open.spotify.com/album/3FbC4QiZOBbpKENEnk1Wj6) | 2:38 | 2026-08-07 |  |
 | [Leather](https://open.spotify.com/track/5Z4RdNOVrxle5k7rHeaROb) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:13 | 2023-12-08 | 2024-01-27 |
 | [Leave The Light On \(feat\. Alexandra Kay\)](https://open.spotify.com/track/7zXm5RfPShKDVnbMQb7gJ7) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 3:20 | 2024-07-22 | 2025-09-13 |
 | [Left Me In The Dusk](https://open.spotify.com/track/06gWq2O5V29LniLkheByNS) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Left Me In The Dusk](https://open.spotify.com/album/4fTR9hPpT2xTd4YaY78ql5) | 2:50 | 2023-12-08 | 2024-11-02 |
@@ -260,6 +261,8 @@
 | [Take A Broken Heart](https://open.spotify.com/track/2xAD7x9ZZ0JRzTg9X63Yxt) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Take A Broken Heart](https://open.spotify.com/album/2Gdv4H1aIjyLMklwti30lM) | 2:49 | 2023-12-08 | 2024-11-02 |
 | [Take Her Home](https://open.spotify.com/track/0Jagf5iAYYiWAs0BEoWbWZ) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Take Her Home](https://open.spotify.com/album/0be6zO5PTMEctXmGMb7R75) | 3:02 | 2023-12-08 | 2024-02-03 |
 | [Take Her Home](https://open.spotify.com/track/3izIv4f7gxEZglHtcuqYtj) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Born](https://open.spotify.com/album/2Hg5u4WLNI85GHVISRXMna) | 3:03 | 2024-03-22 | 2025-06-04 |
+| [Take Me Back \(Leave Me There\)](https://open.spotify.com/track/3eZcmEO0X0nsfV8E3NZelo) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Banks Of The Trinity](https://open.spotify.com/album/5HXVIeGnVkbxonX7SCj2HD) | 2:58 | 2026-08-07 |  |
+| [TAKES ME BACK](https://open.spotify.com/track/5ayb2novvCrkXxzDImS8GJ) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [TAKES ME BACK](https://open.spotify.com/album/01QHPTGz57pKchYM5DxnJw) | 3:09 | 2026-08-07 |  |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 | 2024-02-16 | 2024-06-06 |
 | [Thank God She's a Country Girl](https://open.spotify.com/track/5rKW8ILxOxr8fjEFxpiC6g) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Thank God She's A Country Girl](https://open.spotify.com/album/0B2BpeQPuGLSjx3RJGIVaa) | 2:08 | 2023-12-08 | 2024-11-02 |
 | [Thank You for the Music](https://open.spotify.com/track/1hh9bpvDAaF2qGEF36bWxC) | [Lemon Cash](https://open.spotify.com/artist/2QgUS0sRpv7kBOad5vhy7n) | [Thank You for the Music](https://open.spotify.com/album/5DzUuOF4W29ywVtCyOjIhc) | 3:46 | 2024-02-09 | 2024-07-23 |

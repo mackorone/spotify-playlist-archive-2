@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 
 > smooth, crisp, not too tannic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,090 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,153 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,13 +19,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 | 9 | [Red Moon](https://open.spotify.com/track/44tb4TdFVliafU17EQg28J) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Red Moon](https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa) | 3:32 |
 | 10 | [Pieces](https://open.spotify.com/track/3w9TwHXJrfuti3lFQhLEwh) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Pieces](https://open.spotify.com/album/7BHfasb0FXKXz5XjjqLcwj) | 2:47 |
 | 11 | [Going Good](https://open.spotify.com/track/3OkCBX6SixDGJDfhQeKlEV) | [Amir Bresler](https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1) | [See What Happens](https://open.spotify.com/album/1W26VVmX3AxUTNzDvDKsBf) | 1:11 |
-| 12 | [Waiting](https://open.spotify.com/track/0ecKLqDfhBU9BIrSfo97w6) | [Willy Delphia](https://open.spotify.com/artist/3cOrJsMYcSXlIhz5eQ7dzX), [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF) | [Waiting](https://open.spotify.com/album/2emcK2s7FxbczdlFqKlDKC) | 5:04 |
+| 12 | [Feels Like Home \(Away\)](https://open.spotify.com/track/3BvdzMZg3CqljSsv4vZaok) | [Osas](https://open.spotify.com/artist/4psqSKodkpuB8kIbbVl5GQ) | [Wish We Had More Time](https://open.spotify.com/album/2bKwPlKPfe2bVs1hMHLF0W) | 3:41 |
 | 13 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
 | 14 | [Feliz](https://open.spotify.com/track/5eiK2HgzkMrnuW8OXiJxXb) | [Alsogood](https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG) | [1000 Smiles](https://open.spotify.com/album/2coGljzacUFergWPnD8hoF) | 2:33 |
 | 15 | [Lady Lady](https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Lady Lady](https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39) | 3:29 |
 | 16 | [Margaretas sång](https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Margaretas sång](https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn) | 4:12 |
 | 17 | [Glory Box](https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:08 |
-| 18 | [Be Honest](https://open.spotify.com/track/3NpJgGsYYpzhRdTmLnhJTk) | [Toribio](https://open.spotify.com/artist/1pvkxX6Q1JG8rnyBZ3t2MQ), [musclecars](https://open.spotify.com/artist/1Rd3VMOwsZQjTxWaYZYd1R) | [Be Honest](https://open.spotify.com/album/3rOSVrdaNaYAUT6ehUNt4N) | 5:58 |
+| 18 | [Evening](https://open.spotify.com/track/5VZPJnHTXhk02E2wu5K4Ey) | [Grey Oakes](https://open.spotify.com/artist/2su9PLwnsCwRW2tCYSVaNg) | [Evening](https://open.spotify.com/album/6VGzzotsO8fOEUFujMORad) | 2:44 |
 | 19 | [Summer Nights](https://open.spotify.com/track/6czrE7pdeJF7yxTvEVHBr6) | [Dana and Alden](https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr) | [Summer Nights](https://open.spotify.com/album/24uo5KRoLMnZUSlCSlDGdw) | 3:29 |
 | 20 | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/track/193kHBMzUKdtk8ZZC0YGXj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/album/1xitk8JdGXMqinTYk5HdpL) | 2:58 |
 | 21 | [Outta Here](https://open.spotify.com/track/2mcnza8Cwx05ZBnkT39QDQ) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Outta Here](https://open.spotify.com/album/7EFEOFpZfcvkHODOCCSUF3) | 2:35 |
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 | 24 | [Closer To Me \- edit](https://open.spotify.com/track/4E8hQ27gkecDsvl9sropEM) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Closer To Me](https://open.spotify.com/album/0Ee564wJB77RPEtpur1p1C) | 3:42 |
 | 25 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 |
 | 26 | [Empire \(feat\. John Carroll Kirby\)](https://open.spotify.com/track/2UTGBS4LQQHR46UnM2fMmV) | [Eddie Chacon](https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD), [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Lay Low](https://open.spotify.com/album/4soTMRGtMufO0SL6x3LMgv) | 2:59 |
-| 27 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
+| 27 | [At Last](https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:59 |
 | 28 | [passport picture](https://open.spotify.com/track/786J186GBhQ9z0jJvH18Vu) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs) | [passport picture](https://open.spotify.com/album/4Mwjj2PJsvXBSg7KOFF2Np) | 3:11 |
-| 29 | [At Last](https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:59 |
+| 29 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 |
 | 30 | [Low Sun](https://open.spotify.com/track/4TwFXylgQheM8AUgY00G7C) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Low Sun](https://open.spotify.com/album/7nC5WtMQ8DJcfQzhFy2oqa) | 3:08 |
 | 31 | [Will I See You Again?](https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Will I See You Again?](https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN) | 4:00 |
 | 32 | [Lead It Up](https://open.spotify.com/track/4vcdHDZWVNRCOrEq1LlvsU) | [GENA](https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [Lead It Up](https://open.spotify.com/album/63449DHEaCWCuCwgn8A4bB) | 2:48 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 | 45 | [Why Why Why Why Why](https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 3:58 |
 | 46 | [How Much Does It Take To Shift It All](https://open.spotify.com/track/0TgQDtN4IGHpUdAl97rXww) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [How Much Does It Take To Shift It All](https://open.spotify.com/album/4Mttw5x47ye4BjX9zrVdKv) | 2:33 |
 | 47 | [Goodie Bag](https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R) | 2:26 |
-| 48 | [Monsters](https://open.spotify.com/track/3yDV0PzSV2okw1w9jno0me) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [Monsters](https://open.spotify.com/album/199hyVqmka83Ubpm9Qs8jx) | 6:03 |
+| 48 | [22 Durnham Dew](https://open.spotify.com/track/7FIdb3RznfvfDgGPY8b4ab) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [22 Durnham Dew](https://open.spotify.com/album/3eZ0xeHq1CMzaxxQXQi5Nd) | 3:19 |
 | 49 | [Gamesofluck](https://open.spotify.com/track/0rdWkO7ncrh1lrJGDmLq9L) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Gamesofluck](https://open.spotify.com/album/0ugE0qpkFDNLYFmNiUOOKA) | 5:48 |
 | 50 | [Dream Suite](https://open.spotify.com/track/1rqGes0oHiWQRoIhsWqcGo) | [Marinero](https://open.spotify.com/artist/3nO1K3saAuSThsVWi1uxGF) | [La La La](https://open.spotify.com/album/5MFJ8Hny410K6fXlZPG9r0) | 3:54 |
 | 51 | [Heaven Knows](https://open.spotify.com/track/5Hg1m5uhSPL75ejQgPOmyc) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Heaven Knows](https://open.spotify.com/album/1epDNJxNJsI7FsptoEWEIg) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 | 99 | [Easy To Love](https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Tom McFarland](https://open.spotify.com/artist/2Lk6Kznui3rNEKOhjGtwM7) | [Easy To Love](https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S) | 3:19 |
 | 100 | [Maria También](https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 3:10 |
 
-Snapshot ID: `AAAAAAXxTp0KkWkVqgFI1xY31JsvLPyL`
+Snapshot ID: `AAAAAMKHN8Nr8yyVkAsOkFmmLUwEX3XH`

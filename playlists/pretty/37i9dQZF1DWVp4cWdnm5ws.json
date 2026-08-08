@@ -1,15 +1,83 @@
 {
-  "description": "Introducing RADAR Philippines Cast of 2026. Cover: Kenaniah",
-  "num_followers": 135791,
+  "description": "Introducing RADAR Philippines Cast of 2026. Cover: NEW LORE",
+  "num_followers": 135782,
   "original_name": "RADAR Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKiw+Nu9k4pbxhiY8XO2rFEjJGyX",
+  "snapshot_id": "AAAAAHcquPYYpY9yRiWRh9gHeVlnULUi",
   "tracks": [
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
+      "album": {
+        "name": "Kingdom",
+        "url": "https://open.spotify.com/album/7LoB6EOEi6fvjRTkOlT1e6"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        }
+      ],
+      "duration_ms": 227184,
+      "name": "Kingdom",
+      "url": "https://open.spotify.com/track/742EtNLdFsrSGAZ1Dni3t5"
+    },
+    {
+      "added_at": "2026-08-07 11:06:20",
+      "album": {
+        "name": "2RARE (feat. Rjay Ty)",
+        "url": "https://open.spotify.com/album/1yxMYncEzuI97jWp30tKZh"
+      },
+      "artists": [
+        {
+          "name": "Waiian",
+          "url": "https://open.spotify.com/artist/3p5RE0gW2l4oFW82SgMv29"
+        },
+        {
+          "name": "Rjay Ty",
+          "url": "https://open.spotify.com/artist/6LCHWj94a1aMMGf3L3CVhx"
+        }
+      ],
+      "duration_ms": 224142,
+      "name": "2RARE (feat. Rjay Ty)",
+      "url": "https://open.spotify.com/track/3qx8Em06TXzybe6uXYGlIc"
+    },
+    {
+      "added_at": "2026-08-07 11:06:20",
+      "album": {
+        "name": "My Angel",
+        "url": "https://open.spotify.com/album/4MzpF0DXfUExI3oJaDONA7"
+      },
+      "artists": [
+        {
+          "name": "Elh\u00e9",
+          "url": "https://open.spotify.com/artist/2cISyyoc7B4kws6seWRzao"
+        }
+      ],
+      "duration_ms": 212898,
+      "name": "My Angel",
+      "url": "https://open.spotify.com/track/2CAqMCmhrfJVzuNtKBSscB"
+    },
+    {
+      "added_at": "2026-08-07 11:06:20",
+      "album": {
+        "name": "Purgatoryo",
+        "url": "https://open.spotify.com/album/3HcEMi3hhykdzTUXNRUXK0"
+      },
+      "artists": [
+        {
+          "name": "fitterkarma",
+          "url": "https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr"
+        }
+      ],
+      "duration_ms": 135249,
+      "name": "Purgatoryo",
+      "url": "https://open.spotify.com/track/2ww7tsDpQujEz4hY4PKW6g"
+    },
+    {
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "Amoeba",
         "url": "https://open.spotify.com/album/7c17U6VtyH0xRoWqfDcKrn"
@@ -25,7 +93,7 @@
       "url": "https://open.spotify.com/track/1z3yelL9joxerhXDqG96vy"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "Ai Shite Ruyo",
         "url": "https://open.spotify.com/album/0s74hT3Ar02cQZA7VHhxnn"
@@ -41,7 +109,7 @@
       "url": "https://open.spotify.com/track/7lN50K8eny7KTRXKvd95Wt"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "maryclaire",
         "url": "https://open.spotify.com/album/1meZYCtadHPVjd8GYH6mTr"
@@ -57,7 +125,7 @@
       "url": "https://open.spotify.com/track/2kxOkocyK75spxRWoSaufB"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "Ganun Pa Rin",
         "url": "https://open.spotify.com/album/78LyI9YGLRQmLbjxvrEriu"
@@ -73,7 +141,7 @@
       "url": "https://open.spotify.com/track/4KY8kJGQqVA9VzPzvNKTrH"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "Kung May Problema Ka",
         "url": "https://open.spotify.com/album/4Z53qocPuKq5tnMghl15pA"
@@ -89,7 +157,7 @@
       "url": "https://open.spotify.com/track/4MutWazZvqokE6WM6QoOvj"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "GOOD GOOD JUJU",
         "url": "https://open.spotify.com/album/41dS4BOeE4FevIShpb2dEf"
@@ -105,7 +173,7 @@
       "url": "https://open.spotify.com/track/4Xapw9FuPoxd4SWobsfgMA"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "IT STARTS WITH A WINK",
         "url": "https://open.spotify.com/album/4YR7xycIlOYT3Nn738VvSN"
@@ -121,7 +189,7 @@
       "url": "https://open.spotify.com/track/6YEqmic5LtdlOcaCqR9lA2"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "KEMBOT",
         "url": "https://open.spotify.com/album/40ZY9W7XiC0atnYcJOtPX9"
@@ -145,7 +213,7 @@
       "url": "https://open.spotify.com/track/6DeMGenzdbi7BOKK3I3GCH"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "your playlist is a lie",
         "url": "https://open.spotify.com/album/05MD4lnSBfqHGV6pYldPSa"
@@ -165,7 +233,7 @@
       "url": "https://open.spotify.com/track/7rtzMVusuwTZtK2crtdtpO"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "my crush and i will crush the system baby",
         "url": "https://open.spotify.com/album/3V7AG5cXmnhZLiEDuIVfDZ"
@@ -181,7 +249,7 @@
       "url": "https://open.spotify.com/track/3X97K3qe31iHwbZTiib3tQ"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "girlhood",
         "url": "https://open.spotify.com/album/3bfl3J5n57QdWtbaelu5RH"
@@ -197,7 +265,7 @@
       "url": "https://open.spotify.com/track/38PXyRblkgEYvJRAwX6XGD"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "DANCE WITH ME",
         "url": "https://open.spotify.com/album/63EnT6IyINg2wXeove6VaV"
@@ -229,7 +297,7 @@
       "url": "https://open.spotify.com/track/5q6J1vJEa0hEvVi2x0CYLe"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "nananabik",
         "url": "https://open.spotify.com/album/78HaiGq1MIsdl8MZGiYdVr"
@@ -245,7 +313,7 @@
       "url": "https://open.spotify.com/track/0Qo45W6C2QeMz6o4bJ1m9b"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "Stranger's Funeral",
         "url": "https://open.spotify.com/album/5n9BwlAdpF815L01sIed5l"
@@ -261,7 +329,7 @@
       "url": "https://open.spotify.com/track/0xsKzUbzpcqQ9kGLV1tZ16"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "Misfire",
         "url": "https://open.spotify.com/album/0UmM7cmL7Mxy4ZUCDdD41e"
@@ -277,7 +345,7 @@
       "url": "https://open.spotify.com/track/3LB91BYKAZqcQG7Q2TGepV"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "ELH\u00c9VATE",
         "url": "https://open.spotify.com/album/5OsAMhWYPohj7fBlpafmD0"
@@ -297,7 +365,7 @@
       "url": "https://open.spotify.com/track/1xusvBFG2P3CjqQi7Ez4rb"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "Pag-Ibig ay Kanibalismo II",
         "url": "https://open.spotify.com/album/2T523YMzbCSM86LYZDCZLI"
@@ -313,7 +381,7 @@
       "url": "https://open.spotify.com/track/410fyfFghBsxNu45LiNJ24"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "Curiosity Killed the Cat",
         "url": "https://open.spotify.com/album/5duuHmLrcRq26ePcf7XBFd"
@@ -329,7 +397,7 @@
       "url": "https://open.spotify.com/track/5da5VCHTC3516y0y8p40Ee"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "Bahala Na",
         "url": "https://open.spotify.com/album/38K1I3Ij268DtPqJqYcY6U"
@@ -345,7 +413,7 @@
       "url": "https://open.spotify.com/track/0kDeE8TezXDY1QadpjAQQq"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "substack girl",
         "url": "https://open.spotify.com/album/21DkCT5JXgHgaVWPoaDGTl"
@@ -361,7 +429,7 @@
       "url": "https://open.spotify.com/track/1KtQOlLH1dKEYVys18V3Fz"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "POGI",
         "url": "https://open.spotify.com/album/19KMiGDK3ZQWqc4qPFRM8p"
@@ -377,7 +445,7 @@
       "url": "https://open.spotify.com/track/1PmTiq3Z2ZExb7r8Xf8dVi"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "sana ako nalang",
         "url": "https://open.spotify.com/album/5E8RS7T4SThZ3As7hH5Fdc"
@@ -393,7 +461,7 @@
       "url": "https://open.spotify.com/track/1wK9jXMNHGSE8VfIxza8sF"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "Kailan Ka Aamin",
         "url": "https://open.spotify.com/album/4ODOctDusqgxRCNDHzs3qf"
@@ -409,7 +477,7 @@
       "url": "https://open.spotify.com/track/6RZMDe1W0oEqPCnzDn3qJD"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "BACKSHOTS",
         "url": "https://open.spotify.com/album/07C49ixINtIqUa1VZpVGxT"
@@ -425,7 +493,7 @@
       "url": "https://open.spotify.com/track/7L06ZlTxpT3AdTyrox2you"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "BACKSHOTS",
         "url": "https://open.spotify.com/album/07C49ixINtIqUa1VZpVGxT"
@@ -445,7 +513,7 @@
       "url": "https://open.spotify.com/track/3dExO5BNaY0x25xE1jDiQy"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "Baduy",
         "url": "https://open.spotify.com/album/3cWQjlFiNPCECdS8GRu625"
@@ -469,7 +537,7 @@
       "url": "https://open.spotify.com/track/7lWjLBwQUHmaAzYkl9eG8b"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "Kisame",
         "url": "https://open.spotify.com/album/0a0UdCKsKEGjFGBi9mGAMe"
@@ -485,7 +553,7 @@
       "url": "https://open.spotify.com/track/4XSIv5hJzP6kEQqsLli1eE"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "Ballin N Tha Hood",
         "url": "https://open.spotify.com/album/3YlsWjUyWni8120jlDqZIr"
@@ -501,7 +569,7 @@
       "url": "https://open.spotify.com/track/6OGp6i6alAI8RAeaa48QgZ"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "grief cake",
         "url": "https://open.spotify.com/album/15qeFNHjbFLptqqnnYqYQg"
@@ -517,7 +585,7 @@
       "url": "https://open.spotify.com/track/35yGcCaxgQ6Rr0enjctMSe"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "Nahihiya",
         "url": "https://open.spotify.com/album/5KUGAemrEcNvLizkRXmgVz"
@@ -533,7 +601,7 @@
       "url": "https://open.spotify.com/track/5jnguhkFqipMdzBfu5jJbD"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "Pagmamahal",
         "url": "https://open.spotify.com/album/4veS7T0v7QLIXnpT3pkMci"
@@ -549,7 +617,7 @@
       "url": "https://open.spotify.com/track/2wDKvXRpikiUEvNBEjGRPa"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "Kalapastangan",
         "url": "https://open.spotify.com/album/3a6kSazBwMHk4rJU07hQCg"
@@ -565,7 +633,7 @@
       "url": "https://open.spotify.com/track/1udOOSbJnytCdgvbgYOF5s"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "ELH\u00c9VATE",
         "url": "https://open.spotify.com/album/5OsAMhWYPohj7fBlpafmD0"
@@ -581,7 +649,7 @@
       "url": "https://open.spotify.com/track/47MuTRFIMpxY05ZLyfX5Pg"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "What Could've Been",
         "url": "https://open.spotify.com/album/3YYNvTkhVMUjiLF1LiJofZ"
@@ -597,7 +665,7 @@
       "url": "https://open.spotify.com/track/0SVm1Cj1Sfu3YIj5u97G2X"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "Gabriel",
         "url": "https://open.spotify.com/album/3fUbpL3J76htVZ5jaXPdI4"
@@ -613,7 +681,7 @@
       "url": "https://open.spotify.com/track/4REI81emLt3HljJd5FmyfP"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "ITABI MO",
         "url": "https://open.spotify.com/album/3XcTVWWePCLeDukbNHFOi0"
@@ -629,7 +697,7 @@
       "url": "https://open.spotify.com/track/5BOE9wj3l7tzU7iCZVIJZL"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "Aswang sa Maynila",
         "url": "https://open.spotify.com/album/3cy4nnkHXOvsOxS9803bst"
@@ -649,7 +717,7 @@
       "url": "https://open.spotify.com/track/424bBEqg4ggyNtEy1GtvPA"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "Curiosity Killed the Cat",
         "url": "https://open.spotify.com/album/5duuHmLrcRq26ePcf7XBFd"
@@ -665,7 +733,7 @@
       "url": "https://open.spotify.com/track/0R37bhrdCE5pRb3SfLLT3Q"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "Huli Na Ba Ang Lahat?",
         "url": "https://open.spotify.com/album/30HSXwqaY5H8BWofJok9PL"
@@ -681,7 +749,7 @@
       "url": "https://open.spotify.com/track/1KPwDC5T93NQsrqR5QXiKw"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "i know u by heart",
         "url": "https://open.spotify.com/album/4S9WhrFR0EHAICu879RR5e"
@@ -697,7 +765,7 @@
       "url": "https://open.spotify.com/track/6jF4LqY2Ow84SyBBVpZCoY"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "POUGIE",
         "url": "https://open.spotify.com/album/5memt33CElB8G5zmtTg3UE"
@@ -725,7 +793,7 @@
       "url": "https://open.spotify.com/track/1CssWC5CRsBy4M8FqCEOxm"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "ano na?",
         "url": "https://open.spotify.com/album/4pdjDYCoUzkUxx6OOx9U4s"
@@ -741,7 +809,7 @@
       "url": "https://open.spotify.com/track/4gkzPjkYp7ktLcAflF5aPa"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "Tatlong Hiling",
         "url": "https://open.spotify.com/album/1w4BO15BOKWYPZdGtVTADV"
@@ -757,7 +825,7 @@
       "url": "https://open.spotify.com/track/1q0l294XTsmggN3RqXAzwc"
     },
     {
-      "added_at": "2026-07-13 08:38:04",
+      "added_at": "2026-08-07 11:06:20",
       "album": {
         "name": "BACKSHOTS",
         "url": "https://open.spotify.com/album/07C49ixINtIqUa1VZpVGxT"

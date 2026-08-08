@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: DIIV
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,461,617 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,461,567 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 79 | [Do What's Right \(Happy\)](https://open.spotify.com/track/0uRZ0XwepbMqdPXohjdYj4) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Alone Together](https://open.spotify.com/album/2itfvUrApVCygurzgNzXJg) | 3:11 |
 | 80 | [The Mud Never Dries](https://open.spotify.com/track/1X28Q4iqqoLunMSxRVm7ff) | [TV Priest](https://open.spotify.com/artist/61ujMGJVHgF9LPrIZw4MaI) | [The Mud Never Dries](https://open.spotify.com/album/5Bl0eyoYZSa8VVWqvEy2xV) | 3:17 |
 
-Snapshot ID: `AAAAACk5AlMjdFlkjKfTGAISELwanGLC`
+Snapshot ID: `AAAAAD+LmAO6GSQLVDsKcstONe4UewJu`

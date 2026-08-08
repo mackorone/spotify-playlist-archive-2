@@ -2,9 +2,9 @@
 
 ### [Hot Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DXc51TI5dx7RC)
 
-> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: Ariana Grande
+> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: Mirrr, BLVCKHEART
 
-282 songs - 16 hr 56 min
+283 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-20 | 2025-03-10 |
 | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 | 2025-02-21 | 2025-04-03 |
 | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc) | 3:01 | 2025-10-13 | 2025-11-22 |
-| [Faded \- Special Version](https://open.spotify.com/track/5b2OC2aaioNReqHlQs1TbR) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [Faded \(Special Version\)](https://open.spotify.com/album/7J06yijTctAn2FkYe4xZOI) | 3:49 | 2025-04-28 |  |
+| [Faded \- Special Version](https://open.spotify.com/track/5b2OC2aaioNReqHlQs1TbR) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [Faded \(Special Version\)](https://open.spotify.com/album/7J06yijTctAn2FkYe4xZOI) | 3:49 | 2025-04-28 | 2026-08-08 |
 | [FOREVER](https://open.spotify.com/track/0Md02V4hwKO5Vu5B7GD8tQ) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [FOREVER](https://open.spotify.com/album/0OY9cZ5lO1htGmLYC4eX4B) | 3:32 | 2024-07-11 | 2024-07-29 |
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2024-06-20 | 2024-08-17 |
 | [FXCK UP THE WORLD \(feat\. Future\)](https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:04 | 2025-02-27 | 2025-05-09 |
@@ -254,6 +254,7 @@
 | [สุดแต่ใจจะไขว่คว้า](https://open.spotify.com/track/6QdPlI3flfUFMy4JNpsWcG) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [สุดแต่ใจจะไขว่คว้า](https://open.spotify.com/album/6qchbQmRxZCl0WS4ZER8Xn) | 5:14 | 2025-01-31 | 2026-01-23 |
 | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/track/28uUXmHx13AZ1nkl57vCwN) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/album/7HfFwe6RcWEiSMxNSTWf6f) | 3:17 | 2024-06-20 | 2025-04-11 |
 | [หนึ่งคนตรงนี้ \(I'm here\)](https://open.spotify.com/track/5GwXBrY91rDCB18cwpjsBz) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [หนึ่งคนตรงนี้ \(I'm here\)](https://open.spotify.com/album/2S1NnWORdoVfgwFFHK2xww) | 3:56 | 2026-02-27 |  |
+| [หลุมอากาศ](https://open.spotify.com/track/75FEJ1dyr39vGXC20EyQYb) | [Palmy](https://open.spotify.com/artist/3yfUy4dhvq5DwrSMsEE6od) | [หลุมอากาศ](https://open.spotify.com/album/4L5tegjCajfCK99LLZ0Kk0) | 4:27 | 2026-08-07 |  |
 | [หล่น \(Faded\)](https://open.spotify.com/track/4c17U06F2ngjTOF5z70Yyy) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [หล่น \(Faded\)](https://open.spotify.com/album/1fAuGPKljtvREJTpeGwCfx) | 3:13 | 2025-10-15 | 2025-12-19 |
 | [หวานใจผมน่ารักกว่าใคร](https://open.spotify.com/track/6vAH43fkKUA2Ysgf7jIw6R) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW), [สยาโม](https://open.spotify.com/artist/4AJ2vsPrlHwJMpGB4RHuvG) | [หวานใจผมน่ารักกว่าใคร](https://open.spotify.com/album/0E2eCd2zuv1Iuk4MnKdros) | 3:05 | 2025-04-16 | 2025-06-14 |
 | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL) | 3:39 | 2025-06-20 |  |

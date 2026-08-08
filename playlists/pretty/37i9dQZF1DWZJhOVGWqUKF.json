@@ -1,12 +1,12 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: April Art",
-  "num_followers": 337643,
+  "num_followers": 337655,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB+4JBNoz6dhYnuD4WTUHJHL/1PV",
+  "snapshot_id": "AAAAAHl9o1S1D6ZqJnF0dYNwgr+gml2g",
   "tracks": [
     {
       "added_at": "2026-08-06 22:00:49",
@@ -347,26 +347,6 @@
     {
       "added_at": "2026-08-06 22:00:49",
       "album": {
-        "name": "Twisting The Knife (feat. Mckenna Grace)",
-        "url": "https://open.spotify.com/album/5dvN1KoTSr93iYDPvr5ZL4"
-      },
-      "artists": [
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        },
-        {
-          "name": "Mckenna Grace",
-          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
-        }
-      ],
-      "duration_ms": 201477,
-      "name": "Twisting The Knife (feat. Mckenna Grace)",
-      "url": "https://open.spotify.com/track/2DaR6GuQKi78Lq32oRv38C"
-    },
-    {
-      "added_at": "2026-08-06 22:00:49",
-      "album": {
         "name": "Rattle The Cage",
         "url": "https://open.spotify.com/album/5hbtrsOIA000ijlL7vzGdU"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 234583,
       "name": "Rattle The Cage",
       "url": "https://open.spotify.com/track/3btjsK6AnfPZjAYnqy54gB"
+    },
+    {
+      "added_at": "2026-08-06 22:00:49",
+      "album": {
+        "name": "Twisting The Knife (feat. Mckenna Grace)",
+        "url": "https://open.spotify.com/album/5dvN1KoTSr93iYDPvr5ZL4"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        },
+        {
+          "name": "Mckenna Grace",
+          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
+        }
+      ],
+      "duration_ms": 201477,
+      "name": "Twisting The Knife (feat. Mckenna Grace)",
+      "url": "https://open.spotify.com/track/2DaR6GuQKi78Lq32oRv38C"
     },
     {
       "added_at": "2026-08-06 22:00:49",
@@ -459,6 +459,22 @@
     {
       "added_at": "2026-08-06 22:00:49",
       "album": {
+        "name": "Saw You Stand",
+        "url": "https://open.spotify.com/album/0nJNVpLzyGyYcS7Qz0qkQT"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 289187,
+      "name": "Saw You Stand",
+      "url": "https://open.spotify.com/track/5bfBYLi32nYvrKbtPi78ek"
+    },
+    {
+      "added_at": "2026-08-06 22:00:49",
+      "album": {
         "name": "Big Ole Album Vol. 1",
         "url": "https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 225229,
       "name": "Evolution",
       "url": "https://open.spotify.com/track/2vpO3zMJ82SxEY1MzjNNrp"
-    },
-    {
-      "added_at": "2026-08-06 22:00:49",
-      "album": {
-        "name": "Saw You Stand",
-        "url": "https://open.spotify.com/album/0nJNVpLzyGyYcS7Qz0qkQT"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 289187,
-      "name": "Saw You Stand",
-      "url": "https://open.spotify.com/track/5bfBYLi32nYvrKbtPi78ek"
     },
     {
       "added_at": "2026-08-06 22:00:49",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-08-06 22:00:49",
       "album": {
-        "name": "Stray Dogs",
-        "url": "https://open.spotify.com/album/6wwFB0YmjCiqCwyrQVXAkU"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 323605,
-      "name": "Stray Dogs",
-      "url": "https://open.spotify.com/track/2PPfvgdNJqXzHjg61y9AWh"
-    },
-    {
-      "added_at": "2026-08-06 22:00:49",
-      "album": {
         "name": "Emergence",
         "url": "https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 386253,
       "name": "Emergence",
       "url": "https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6"
+    },
+    {
+      "added_at": "2026-08-06 22:00:49",
+      "album": {
+        "name": "Stray Dogs",
+        "url": "https://open.spotify.com/album/6wwFB0YmjCiqCwyrQVXAkU"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 323605,
+      "name": "Stray Dogs",
+      "url": "https://open.spotify.com/track/2PPfvgdNJqXzHjg61y9AWh"
     },
     {
       "added_at": "2026-08-06 22:00:49",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-08-06 22:00:49",
       "album": {
-        "name": "Something Wicked",
-        "url": "https://open.spotify.com/album/4EKw9Gf8OIFl04bGM8VZJb"
-      },
-      "artists": [
-        {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
-        }
-      ],
-      "duration_ms": 208947,
-      "name": "Something Wicked",
-      "url": "https://open.spotify.com/track/7qf6pX0T9CsTLs4kcqSNes"
-    },
-    {
-      "added_at": "2026-08-06 22:00:49",
-      "album": {
         "name": "The Laugh Track",
         "url": "https://open.spotify.com/album/6uo9LWc5MS8CZ2QWFMEyrz"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 195434,
       "name": "The Laugh Track",
       "url": "https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx"
+    },
+    {
+      "added_at": "2026-08-06 22:00:49",
+      "album": {
+        "name": "Something Wicked",
+        "url": "https://open.spotify.com/album/4EKw9Gf8OIFl04bGM8VZJb"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "duration_ms": 208947,
+      "name": "Something Wicked",
+      "url": "https://open.spotify.com/track/7qf6pX0T9CsTLs4kcqSNes"
     },
     {
       "added_at": "2026-08-06 22:00:49",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-08-06 22:00:49",
       "album": {
-        "name": "Bullshit",
-        "url": "https://open.spotify.com/album/5ZS5O2upVRhSgeRiAlosYr"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 215384,
-      "name": "Bullshit",
-      "url": "https://open.spotify.com/track/7oA1ZNByPOTeJYz3tBGXas"
-    },
-    {
-      "added_at": "2026-08-06 22:00:49",
-      "album": {
         "name": "The Great Unknown",
         "url": "https://open.spotify.com/album/6fE894gRLhqsRjiW2sgLTP"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 181956,
       "name": "The Great Unknown",
       "url": "https://open.spotify.com/track/76Pd81B06OSC8AuuDWxsEQ"
+    },
+    {
+      "added_at": "2026-08-06 22:00:49",
+      "album": {
+        "name": "Bullshit",
+        "url": "https://open.spotify.com/album/5ZS5O2upVRhSgeRiAlosYr"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 215384,
+      "name": "Bullshit",
+      "url": "https://open.spotify.com/track/7oA1ZNByPOTeJYz3tBGXas"
     },
     {
       "added_at": "2026-08-06 22:00:49",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-08-06 22:00:49",
       "album": {
-        "name": "Nightshift Superstar",
-        "url": "https://open.spotify.com/album/2mtNOqNWDFaMUfgL6L6oGm"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 247144,
-      "name": "Nightshift Superstar",
-      "url": "https://open.spotify.com/track/0ysOBzp8xSrbDenht9mQ9C"
-    },
-    {
-      "added_at": "2026-08-06 22:00:49",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 240151,
       "name": "Wonderwall - Spotify Singles",
       "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
+    },
+    {
+      "added_at": "2026-08-06 22:00:49",
+      "album": {
+        "name": "Nightshift Superstar",
+        "url": "https://open.spotify.com/album/2mtNOqNWDFaMUfgL6L6oGm"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 247144,
+      "name": "Nightshift Superstar",
+      "url": "https://open.spotify.com/track/0ysOBzp8xSrbDenht9mQ9C"
     },
     {
       "added_at": "2026-08-06 22:00:49",
@@ -927,38 +927,6 @@
     {
       "added_at": "2026-08-06 22:00:49",
       "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 253266,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91"
-    },
-    {
-      "added_at": "2026-08-06 22:00:49",
-      "album": {
-        "name": "Cryogen",
-        "url": "https://open.spotify.com/album/4uW6onE6t6FUwLV9yr2E9f"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 301825,
-      "name": "Cryogen",
-      "url": "https://open.spotify.com/track/5ITICFtTKxzcbR43ehRvsI"
-    },
-    {
-      "added_at": "2026-08-06 22:00:49",
-      "album": {
         "name": "Drum Show",
         "url": "https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo"
       },
@@ -987,6 +955,38 @@
       "duration_ms": 229977,
       "name": "Wake Up Calling",
       "url": "https://open.spotify.com/track/1rkpbebpB9LyLbR0lvOjtW"
+    },
+    {
+      "added_at": "2026-08-06 22:00:49",
+      "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 253266,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91"
+    },
+    {
+      "added_at": "2026-08-06 22:00:49",
+      "album": {
+        "name": "Cryogen",
+        "url": "https://open.spotify.com/album/4uW6onE6t6FUwLV9yr2E9f"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 301825,
+      "name": "Cryogen",
+      "url": "https://open.spotify.com/track/5ITICFtTKxzcbR43ehRvsI"
     },
     {
       "added_at": "2026-08-06 22:00:49",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-08-06 22:00:49",
       "album": {
+        "name": "Don't Play Nice",
+        "url": "https://open.spotify.com/album/02keESBeIDZcNcfiK5fzWp"
+      },
+      "artists": [
+        {
+          "name": "Unroyal",
+          "url": "https://open.spotify.com/artist/6x83PgJ6DhWHY3ch90e5pY"
+        }
+      ],
+      "duration_ms": 158347,
+      "name": "Don't Play Nice",
+      "url": "https://open.spotify.com/track/4ypwF2SzLJ0sf9IKoKt8V8"
+    },
+    {
+      "added_at": "2026-08-06 22:00:49",
+      "album": {
         "name": "Nightmare Tripping",
         "url": "https://open.spotify.com/album/5PrXYFUyJMPvpGLFg1cqOe"
       },
@@ -1163,6 +1179,22 @@
       "duration_ms": 212287,
       "name": "True Believers (Feat. Sam Carter)",
       "url": "https://open.spotify.com/track/6bzbBeqibhl70svGOboJDN"
+    },
+    {
+      "added_at": "2026-08-06 22:00:49",
+      "album": {
+        "name": "TAPDAT",
+        "url": "https://open.spotify.com/album/5Px1m7A7KMovRNG2JGAGV6"
+      },
+      "artists": [
+        {
+          "name": "Chiodos",
+          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
+        }
+      ],
+      "duration_ms": 246767,
+      "name": "TAPDAT",
+      "url": "https://open.spotify.com/track/0pQ9gtLMkVhioRBVl5yCHs"
     },
     {
       "added_at": "2026-08-06 22:00:49",
@@ -1199,38 +1231,6 @@
     {
       "added_at": "2026-08-06 22:00:49",
       "album": {
-        "name": "Don't Play Nice",
-        "url": "https://open.spotify.com/album/02keESBeIDZcNcfiK5fzWp"
-      },
-      "artists": [
-        {
-          "name": "Unroyal",
-          "url": "https://open.spotify.com/artist/6x83PgJ6DhWHY3ch90e5pY"
-        }
-      ],
-      "duration_ms": 158347,
-      "name": "Don't Play Nice",
-      "url": "https://open.spotify.com/track/4ypwF2SzLJ0sf9IKoKt8V8"
-    },
-    {
-      "added_at": "2026-08-06 22:00:49",
-      "album": {
-        "name": "TAPDAT",
-        "url": "https://open.spotify.com/album/5Px1m7A7KMovRNG2JGAGV6"
-      },
-      "artists": [
-        {
-          "name": "Chiodos",
-          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
-        }
-      ],
-      "duration_ms": 246767,
-      "name": "TAPDAT",
-      "url": "https://open.spotify.com/track/0pQ9gtLMkVhioRBVl5yCHs"
-    },
-    {
-      "added_at": "2026-08-06 22:00:49",
-      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/1WP6aYgLJBke188sm4T3Up"
       },
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2026-08-06 22:00:49",
       "album": {
-        "name": "Hexagons",
-        "url": "https://open.spotify.com/album/3KoOHa3ZGsWo85OQv6fRSV"
+        "name": "Empty Hands",
+        "url": "https://open.spotify.com/album/5lBm36eO5Us3NpTXaA9t9C"
       },
       "artists": [
         {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
         }
       ],
-      "duration_ms": 326599,
-      "name": "Hexagons",
-      "url": "https://open.spotify.com/track/6dN6m9zDXxLKtckqbLxaPX"
+      "duration_ms": 207200,
+      "name": "Time Will Tell",
+      "url": "https://open.spotify.com/track/1v9OAyGabSeIOH2VWIJ0wx"
     },
     {
       "added_at": "2026-08-06 22:00:49",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2026-08-06 22:00:49",
       "album": {
-        "name": "Empty Hands",
-        "url": "https://open.spotify.com/album/5lBm36eO5Us3NpTXaA9t9C"
+        "name": "Hexagons",
+        "url": "https://open.spotify.com/album/3KoOHa3ZGsWo85OQv6fRSV"
       },
       "artists": [
         {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 207200,
-      "name": "Time Will Tell",
-      "url": "https://open.spotify.com/track/1v9OAyGabSeIOH2VWIJ0wx"
+      "duration_ms": 326599,
+      "name": "Hexagons",
+      "url": "https://open.spotify.com/track/6dN6m9zDXxLKtckqbLxaPX"
     },
     {
       "added_at": "2026-08-06 22:00:49",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-08-06 22:00:49",
       "album": {
-        "name": "Dear God",
-        "url": "https://open.spotify.com/album/3sE3S6k6OA1UXWMKQEiaDY"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 276096,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/3m4YAWyI7QypBz2qBUQCOO"
-    },
-    {
-      "added_at": "2026-08-06 22:00:49",
-      "album": {
         "name": "EP #2",
         "url": "https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 233289,
       "name": "To Space",
       "url": "https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk"
+    },
+    {
+      "added_at": "2026-08-06 22:00:49",
+      "album": {
+        "name": "Dear God",
+        "url": "https://open.spotify.com/album/3sE3S6k6OA1UXWMKQEiaDY"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 276096,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/3m4YAWyI7QypBz2qBUQCOO"
     },
     {
       "added_at": "2026-08-06 22:00:49",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-08-06 22:00:49",
       "album": {
-        "name": "For I Am Death",
-        "url": "https://open.spotify.com/album/7LnfxsUCMGkJfwQm969CKM"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 219395,
-      "name": "For I Am Death",
-      "url": "https://open.spotify.com/track/3K85nEutdOPbJuAJgoe2O4"
-    },
-    {
-      "added_at": "2026-08-06 22:00:49",
-      "album": {
         "name": "Idols (Complete)",
         "url": "https://open.spotify.com/album/0cUFNGzV90YdrBfTBjxjjM"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 279798,
       "name": "Suburban Requiem",
       "url": "https://open.spotify.com/track/7qtFxBjONSOPOsHopgAwH3"
+    },
+    {
+      "added_at": "2026-08-06 22:00:49",
+      "album": {
+        "name": "For I Am Death",
+        "url": "https://open.spotify.com/album/7LnfxsUCMGkJfwQm969CKM"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 219395,
+      "name": "For I Am Death",
+      "url": "https://open.spotify.com/track/3K85nEutdOPbJuAJgoe2O4"
     },
     {
       "added_at": "2026-08-06 22:00:49",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2026-08-06 22:00:49",
       "album": {
+        "name": "Easter Lily EP",
+        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 273906,
+      "name": "In A Life",
+      "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
+    },
+    {
+      "added_at": "2026-08-06 22:00:49",
+      "album": {
         "name": "G.O.D. And The Broken Ribs / Derecho Demonico",
         "url": "https://open.spotify.com/album/1BUodZgT8bLd2c22axeeJR"
       },
@@ -1507,18 +1523,18 @@
     {
       "added_at": "2026-08-06 22:00:49",
       "album": {
-        "name": "Easter Lily EP",
-        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
+        "name": "Everything Is Fine",
+        "url": "https://open.spotify.com/album/1nXFy9tqZLTLsKLBK9cWtT"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
         }
       ],
-      "duration_ms": 273906,
-      "name": "In A Life",
-      "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
+      "duration_ms": 217189,
+      "name": "Everything Is Fine",
+      "url": "https://open.spotify.com/track/6BerQ9av2hnOFNAYJnl704"
     },
     {
       "added_at": "2026-08-06 22:00:49",
@@ -1539,22 +1555,6 @@
       "duration_ms": 239582,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/2iWsTTbLNy658UrUR14T9k"
-    },
-    {
-      "added_at": "2026-08-06 22:00:49",
-      "album": {
-        "name": "Everything Is Fine",
-        "url": "https://open.spotify.com/album/1nXFy9tqZLTLsKLBK9cWtT"
-      },
-      "artists": [
-        {
-          "name": "Paleface Swiss",
-          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
-        }
-      ],
-      "duration_ms": 217189,
-      "name": "Everything Is Fine",
-      "url": "https://open.spotify.com/track/6BerQ9av2hnOFNAYJnl704"
     },
     {
       "added_at": "2026-08-06 22:00:49",
@@ -1587,6 +1587,26 @@
       "duration_ms": 360216,
       "name": "WE ARE EMPIRE",
       "url": "https://open.spotify.com/track/6ose7JySKEZszL4eisoFhM"
+    },
+    {
+      "added_at": "2026-08-06 22:00:49",
+      "album": {
+        "name": "Date Night",
+        "url": "https://open.spotify.com/album/4rSBYJKVfytsfeXw2PYjNv"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "Roman Morello",
+          "url": "https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju"
+        }
+      ],
+      "duration_ms": 227116,
+      "name": "Date Night",
+      "url": "https://open.spotify.com/track/3kddxpf7WLApBv8pRTCn49"
     },
     {
       "added_at": "2026-08-06 22:00:49",
@@ -1639,22 +1659,6 @@
       "duration_ms": 186237,
       "name": "Drag Me",
       "url": "https://open.spotify.com/track/459NVRkYEftpuwkmSH1U1H"
-    },
-    {
-      "added_at": "2026-08-06 22:00:49",
-      "album": {
-        "name": "Kid In A Candy Store",
-        "url": "https://open.spotify.com/album/1rIgwnBWlFTwfMfsMMzHVq"
-      },
-      "artists": [
-        {
-          "name": "Airbourne",
-          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
-        }
-      ],
-      "duration_ms": 248043,
-      "name": "Kid In A Candy Store",
-      "url": "https://open.spotify.com/track/4PVg0EjwywuSYHm8MqCG5y"
     }
   ],
   "unique_name": "Rock Rotation",

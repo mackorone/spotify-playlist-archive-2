@@ -4,7 +4,7 @@
 
 > We got you! Den bedste nye pop er samlet her 💖 Saint Clara
 
-951 songs - 2 day 0 hr 27 min
+951 songs - 2 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Chemistry](https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Chemistry](https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ) | 4:44 | 2025-02-27 | 2025-04-11 |
 | [childhood](https://open.spotify.com/track/3pCL063bVHTECvWdQx6EvK) | [Luke Alvin](https://open.spotify.com/artist/484n5top8RJk6NL3mGasDc) | [a reason, a season or a lifetime](https://open.spotify.com/album/7K0Vo61YLhzVuZVHs4poyM) | 2:18 | 2025-11-27 |  |
 | [Cinema](https://open.spotify.com/track/0Dg4pl4snFzlqdNzOvlere) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Cinema](https://open.spotify.com/album/4drpWXZD2MKFOEF0lCAk42) | 3:16 | 2026-06-11 | 2026-06-20 |
+| [CIRKLER \(feat\. wicky\)](https://open.spotify.com/track/3tlOXNiSKM8y67sn0jgPzQ) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9), [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP) | [VÆRD AT ELSKE](https://open.spotify.com/album/5EzEAM6zAqc9VPM0xs6Muc) | 2:46 | 2026-08-06 |  |
 | [Clean](https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole \(Deluxe\)](https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC) | 3:12 | 2025-10-23 | 2026-01-15 |
 | [CLEOPATRA](https://open.spotify.com/track/65C4AmFA6oyMJ2lwLNPiIB) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [CLEOPATRA](https://open.spotify.com/album/0r4JsF8r5F6np0Dyt5P4e6) | 2:15 | 2024-09-26 | 2025-04-25 |
 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-06-27 | 2024-11-08 |
@@ -851,7 +852,6 @@
 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 | 2026-01-22 | 2026-02-20 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-27 | 2024-07-30 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-01-24 |
-| [Track 6](https://open.spotify.com/track/3tlOXNiSKM8y67sn0jgPzQ) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [VÆRD AT ELSKE](https://open.spotify.com/album/5EzEAM6zAqc9VPM0xs6Muc) | 0:00 | 2026-08-06 |  |
 | [Trampoline](https://open.spotify.com/track/1seCBPXlQclXNQbDmjWAsQ) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Trampoline](https://open.spotify.com/album/1vkq5KBggKzpt7P6ZETmJb) | 3:21 | 2025-05-22 | 2025-06-27 |
 | [Trip Trip](https://open.spotify.com/track/7dFT2thcuAmKMC59rRuZ9A) | [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW) | [Bby's Corner](https://open.spotify.com/album/2fOY9CevU5A47Rs5kp82cr) | 3:21 | 2025-10-02 | 2025-10-17 |
 | [Tristan & Isolde](https://open.spotify.com/track/361guhUskLY7XA6X178aEk) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Honey](https://open.spotify.com/album/3aPakmsCVj19Gz1zoLuYOf) | 4:50 | 2025-10-02 |  |

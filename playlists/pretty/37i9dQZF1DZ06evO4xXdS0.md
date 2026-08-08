@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xXdS0.md) - [plain]
 
 > This is Nina Simone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,719 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,736 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xXdS0.md) - [plain]
 | 28 | [Since I Fell for You](https://open.spotify.com/track/0S8wQT9YkE41gHIGwXvgep) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:50 |
 | 29 | [The Look of Love](https://open.spotify.com/track/0EiGzshQIaM98eOXdKTGaD) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Silk & Soul \(Expanded Edition\)](https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3) | 2:22 |
 | 30 | [Work Song](https://open.spotify.com/track/628A54HsxBPfgJPShyD7gx) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [High Priestess Of Soul](https://open.spotify.com/album/1M2ktinB3DcTbrVXD45jxn) | 3:03 |
-| 31 | [He Needs Me \(2013 \- Remaster\)](https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 2:29 |
-| 32 | [Take Care Of Business](https://open.spotify.com/track/2YwjSPeznyCvkUYvqKbXa9) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:05 |
+| 31 | [Take Care Of Business](https://open.spotify.com/track/2YwjSPeznyCvkUYvqKbXa9) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:05 |
+| 32 | [He Needs Me \(2013 \- Remaster\)](https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 2:29 |
 | 33 | [Do I Move You?](https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:44 |
 | 34 | [Mood Indigo](https://open.spotify.com/track/1BaAzMva4yf7cWeOGwp7H4) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Let It All Out](https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD) | 2:26 |
-| 35 | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/track/0fpohcklLKNLo3FyjVjEsE) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 4:17 |
-| 36 | [Tomorrow Is My Turn](https://open.spotify.com/track/3cfz4PB3iCqG12StNkKvRo) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:48 |
+| 35 | [Tomorrow Is My Turn](https://open.spotify.com/track/3cfz4PB3iCqG12StNkKvRo) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:48 |
+| 36 | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/track/0fpohcklLKNLo3FyjVjEsE) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 4:17 |
 | 37 | [My Way](https://open.spotify.com/track/2Yg4GGGKqGwoqM5OgdhpAj) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 5:14 |
 | 38 | [Lilac Wine](https://open.spotify.com/track/3Hi4KlRtdgJbyIUpeFBckY) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Wild Is The Wind](https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr) | 4:13 |
 | 39 | [Nobody's Fault but Mine](https://open.spotify.com/track/5EIXKDfVw1y9gqRwOgtrK7) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone & Piano \(Expanded Edition\)](https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xXdS0.md) - [plain]
 | 49 | [Four Women \- DESIREE Remix](https://open.spotify.com/track/1cusd5LAzVfobD23bB2YdJ) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Four Women \(DESIREE Remix\)](https://open.spotify.com/album/0eHZsn0A8VZXHJ0vRf4hLe) | 4:08 |
 | 50 | [Go to Hell](https://open.spotify.com/track/0xJIP7dF3yRrL2FUKQF4IO) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Silk & Soul \(Expanded Edition\)](https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3) | 2:48 |
 
-Snapshot ID: `anJ9AAAAAACm1iFeGp5nCRayX3Uuh8Ts`
+Snapshot ID: `anPOgAAAAACT28l+4ht5wi/cx/cBoI22`

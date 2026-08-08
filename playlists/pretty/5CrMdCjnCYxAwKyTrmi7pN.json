@@ -1,12 +1,12 @@
 {
   "description": "Geniet van de zon met deze lijst vol zomer vibes! Met muziek van Flaire, HUGEL, 54 Ultra en meer...",
-  "num_followers": 128937,
+  "num_followers": 128966,
   "original_name": "Zomer Hits 2026",
   "owner": {
     "name": "Digster Nederland",
     "url": "https://open.spotify.com/user/digsternl"
   },
-  "snapshot_id": "AAA9YWHD5ylQWse3OScKbZMG3D5NwMba",
+  "snapshot_id": "AAA9bPgdyXlbFz9w+iilkcIxCdgwYA8W",
   "tracks": [
     {
       "added_at": "2026-07-27 14:14:13",
@@ -369,6 +369,22 @@
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
+      "added_at": "2026-08-07 09:31:14",
+      "album": {
+        "name": "Wendo",
+        "url": "https://open.spotify.com/album/1JaPWmGF9oT4CLS6XbeKMf"
+      },
+      "artists": [
+        {
+          "name": "Sonan",
+          "url": "https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb"
+        }
+      ],
+      "duration_ms": 181743,
+      "name": "Wendo",
+      "url": "https://open.spotify.com/track/1VfedtroIqHdCFk8uovKm8"
+    },
+    {
       "added_at": "2026-07-27 14:14:13",
       "album": {
         "name": "Love?",
@@ -509,6 +525,22 @@
       "url": "https://open.spotify.com/track/5e9Khkn595gnsBiVxUofLm"
     },
     {
+      "added_at": "2026-08-07 09:33:33",
+      "album": {
+        "name": "Music Sounds",
+        "url": "https://open.spotify.com/album/0CzI8SUmd570thVYe4KYJc"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 159551,
+      "name": "Music Sounds",
+      "url": "https://open.spotify.com/track/3OLpCe3H6oGcEsvEjNDXHm"
+    },
+    {
       "added_at": "2026-07-27 14:14:13",
       "album": {
         "name": "Manchild",
@@ -523,6 +555,22 @@
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
+    },
+    {
+      "added_at": "2026-08-07 11:11:03",
+      "album": {
+        "name": "haven\u2019t found love.",
+        "url": "https://open.spotify.com/album/5adelMOkx04sITILgdP5tw"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Schub",
+          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
+        }
+      ],
+      "duration_ms": 176324,
+      "name": "haven\u2019t found love.",
+      "url": "https://open.spotify.com/track/2SMQtb6HabOW6Uo8ocVske"
     },
     {
       "added_at": "2026-07-27 14:14:13",
@@ -1567,22 +1615,6 @@
       "duration_ms": 284066,
       "name": "Messy",
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
-    },
-    {
-      "added_at": "2026-07-27 14:14:13",
-      "album": {
-        "name": "Relationships",
-        "url": "https://open.spotify.com/album/1suyd6SSJJq9yOu1tH4LB1"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Relationships",
-      "url": "https://open.spotify.com/track/3QBNfI9ZyLVSgWoF9xw413"
     }
   ],
   "unique_name": "Zomer Hits 2026",

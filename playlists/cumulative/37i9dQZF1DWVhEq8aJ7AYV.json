@@ -680,7 +680,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 148026,
       "name": "Brebaje de Amor No. 9",
       "url": "https://open.spotify.com/track/3mGhpbgbsA9ntxCq7OTwsM"
@@ -1668,7 +1668,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 126336,
       "name": "Fuera Ropa: XX A\u00f1os",
       "url": "https://open.spotify.com/track/1Q5WdqThl9eOa7yfOiMEKY"
@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 163455,
       "name": "Huevos Al Motor",
       "url": "https://open.spotify.com/track/49dC4peDBvX1jjxaxgXaPs"
@@ -2353,6 +2353,24 @@
     },
     {
       "album": {
+        "name": "La Cumbia Enmascarada",
+        "url": "https://open.spotify.com/album/3vGprUc6PFRykRqw0eEHHX"
+      },
+      "artists": [
+        {
+          "name": "Sr. Bikini",
+          "url": "https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157380,
+      "name": "La Cumbia Enmascarada",
+      "url": "https://open.spotify.com/track/6blyzykwYTgBbTZER9v5Ar"
+    },
+    {
+      "album": {
         "name": "La Dosis Perfecta",
         "url": "https://open.spotify.com/album/6YCHADzZp1iYWHO1fpPjOn"
       },
@@ -2574,6 +2592,36 @@
       "duration_ms": 259058,
       "name": "Lejos de ti",
       "url": "https://open.spotify.com/track/5m9zpVXgiTzKL6VdDiV3Nn"
+    },
+    {
+      "album": {
+        "name": "Lobo",
+        "url": "https://open.spotify.com/album/2ccIuEUPSjMrosAhmRUCkI"
+      },
+      "artists": [
+        {
+          "name": "Sys Malakian",
+          "url": "https://open.spotify.com/artist/38HkiEfzlG45wSNIjjvyEk"
+        },
+        {
+          "name": "Richard Bourque",
+          "url": "https://open.spotify.com/artist/5dzkUM5TKfMNWe8t1NLS1b"
+        },
+        {
+          "name": "Greg Wilson",
+          "url": "https://open.spotify.com/artist/3XMjFpEnRHUdd30R3acr91"
+        },
+        {
+          "name": "Pieter Dedoncker",
+          "url": "https://open.spotify.com/artist/5jWsQoAnX8yJot1d1eno1O"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126200,
+      "name": "Lobo",
+      "url": "https://open.spotify.com/track/4RcfJJjy3o9YloE3vof5Ke"
     },
     {
       "album": {
@@ -3542,6 +3590,24 @@
       "duration_ms": 154000,
       "name": "Popcorno Revenge",
       "url": "https://open.spotify.com/track/2Ix5WVkZhrljeTTiKDPUcP"
+    },
+    {
+      "album": {
+        "name": "PPV",
+        "url": "https://open.spotify.com/album/3IJKpmDmGHCDdF6UVf2uyu"
+      },
+      "artists": [
+        {
+          "name": "PERRA BRAVA",
+          "url": "https://open.spotify.com/artist/4ODjjfjx4SqJixJYVqeUrE"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193700,
+      "name": "PPV",
+      "url": "https://open.spotify.com/track/6KS8bwPWTQdi6CHst8OpBu"
     },
     {
       "album": {

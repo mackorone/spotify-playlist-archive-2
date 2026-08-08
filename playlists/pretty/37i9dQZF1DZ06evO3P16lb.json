@@ -1,12 +1,12 @@
 {
   "description": "This is Lupita Infante. The essential tracks, all in one playlist.",
-  "num_followers": 2564,
+  "num_followers": 2596,
   "original_name": "This Is Lupita Infante",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAA0qXAsGkNw5wIL9CLVEFcF",
+  "snapshot_id": "anPOgAAAAAA445N8HaUMKEkV2B/euAQd",
   "tracks": [
     {
       "added_at": null,
@@ -199,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 237029,
+      "name": "Dejar\u00e9",
+      "url": "https://open.spotify.com/track/74UeUWEOPMtVyhXNHitGi8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tengo Ganas de Llorar",
         "url": "https://open.spotify.com/album/6rDpKWvEOQt3TYNxOZYsvT"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 173538,
       "name": "Tengo Ganas de Llorar",
       "url": "https://open.spotify.com/track/0wU4lzUqRBluQoqxsJ7B1n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Serenata",
-        "url": "https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 237029,
-      "name": "Dejar\u00e9",
-      "url": "https://open.spotify.com/track/74UeUWEOPMtVyhXNHitGi8"
     },
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Corona Es M\u00eda",
-        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
+        "name": "Puras de Mi Abuelo, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 144765,
-      "name": "La Corona Es M\u00eda",
-      "url": "https://open.spotify.com/track/6bCdnaCEvVsezasjOBaiNW"
+      "duration_ms": 194705,
+      "name": "Cien A\u00f1os - En Vivo",
+      "url": "https://open.spotify.com/track/0abywAZKp30hCllOLhq8P6"
     },
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras de Mi Abuelo, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk"
+        "name": "La Corona Es M\u00eda",
+        "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
       },
       "artists": [
         {
@@ -396,25 +396,9 @@
           "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
         }
       ],
-      "duration_ms": 194705,
-      "name": "Cien A\u00f1os - En Vivo",
-      "url": "https://open.spotify.com/track/0abywAZKp30hCllOLhq8P6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cucurrucuc\u00fa Paloma",
-        "url": "https://open.spotify.com/album/3yIXEqENgPgtJnJC7oYIci"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 190090,
-      "name": "Cucurrucuc\u00fa Paloma",
-      "url": "https://open.spotify.com/track/1piJQpsNncvOCmF8dHX8FS"
+      "duration_ms": 144765,
+      "name": "La Corona Es M\u00eda",
+      "url": "https://open.spotify.com/track/6bCdnaCEvVsezasjOBaiNW"
     },
     {
       "added_at": null,
@@ -435,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mundo (En Vivo)",
-        "url": "https://open.spotify.com/album/4iDJSotLOOfiPlHRNAjrpS"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 212983,
-      "name": "El Mundo - En Vivo",
-      "url": "https://open.spotify.com/track/6PIFSo9nndPgQzZrnvOGZc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puras de Mi Abuelo, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk"
       },
@@ -463,6 +431,38 @@
       "duration_ms": 345911,
       "name": "Ella - Tu Recuerdo y Yo - Canta, Canta, Canta - En Vivo",
       "url": "https://open.spotify.com/track/1UppMIrayJYVKtFTxWYyF1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cucurrucuc\u00fa Paloma",
+        "url": "https://open.spotify.com/album/3yIXEqENgPgtJnJC7oYIci"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 190090,
+      "name": "Cucurrucuc\u00fa Paloma",
+      "url": "https://open.spotify.com/track/1piJQpsNncvOCmF8dHX8FS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mundo (En Vivo)",
+        "url": "https://open.spotify.com/album/4iDJSotLOOfiPlHRNAjrpS"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 212983,
+      "name": "El Mundo - En Vivo",
+      "url": "https://open.spotify.com/track/6PIFSo9nndPgQzZrnvOGZc"
     },
     {
       "added_at": null,
@@ -519,42 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras de Mi Abuelo, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 202259,
-      "name": "Siempre, Siempre - En Vivo",
-      "url": "https://open.spotify.com/track/62pCEqKU6Nx2tJmXdYEBYf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un Consejo",
-        "url": "https://open.spotify.com/album/5WkRqZkVSZNJ1Oyr4Me3el"
-      },
-      "artists": [
-        {
-          "name": "Lety L\u00f3pez",
-          "url": "https://open.spotify.com/artist/1ertdtyDaz22UDqYNA4CVp"
-        },
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 175980,
-      "name": "Un Consejo",
-      "url": "https://open.spotify.com/track/5aru21ww1W92GM4zuWZiEu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor Como en las Pel\u00edculas de Antes",
         "url": "https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW"
       },
@@ -567,6 +531,22 @@
       "duration_ms": 188104,
       "name": "C\u00f3mo Olvidarte",
       "url": "https://open.spotify.com/track/5TcLdIf7BgSRvidCtrs4Vw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puras de Mi Abuelo, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 202259,
+      "name": "Siempre, Siempre - En Vivo",
+      "url": "https://open.spotify.com/track/62pCEqKU6Nx2tJmXdYEBYf"
     },
     {
       "added_at": null,
@@ -587,6 +567,26 @@
       "duration_ms": 212803,
       "name": "Al\u00e9rgica",
       "url": "https://open.spotify.com/track/1cedYyc32Bpp6VFHAnoFGp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Consejo",
+        "url": "https://open.spotify.com/album/5WkRqZkVSZNJ1Oyr4Me3el"
+      },
+      "artists": [
+        {
+          "name": "Lety L\u00f3pez",
+          "url": "https://open.spotify.com/artist/1ertdtyDaz22UDqYNA4CVp"
+        },
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 175980,
+      "name": "Un Consejo",
+      "url": "https://open.spotify.com/track/5aru21ww1W92GM4zuWZiEu"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Facilito",
-        "url": "https://open.spotify.com/album/6VVI613WDbwhIMB5ImpJLa"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 156329,
-      "name": "Que Facilito",
-      "url": "https://open.spotify.com/track/1TW2q02eRkvbAol6smqoCC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luna de Octubre",
         "url": "https://open.spotify.com/album/6IhmFfKfKtrcoGhqIEVGW8"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 194932,
       "name": "Luna de Octubre",
       "url": "https://open.spotify.com/track/5MXS3tVsNlONTl56cIW3rv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Facilito",
+        "url": "https://open.spotify.com/album/6VVI613WDbwhIMB5ImpJLa"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 156329,
+      "name": "Que Facilito",
+      "url": "https://open.spotify.com/track/1TW2q02eRkvbAol6smqoCC"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Amor de Mi Vida",
-        "url": "https://open.spotify.com/album/1FhXUMF28q1d6dJBl1Nj1S"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 186117,
-      "name": "El Amor De Mi Vida",
-      "url": "https://open.spotify.com/track/1SIuzHNrctmvWo5geNIFyi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor Como en las Pel\u00edculas de Antes",
         "url": "https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 196022,
       "name": "El Amor Perfecto",
       "url": "https://open.spotify.com/track/5Kg8hGm0Hpya8UveUTElKz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Amor de Mi Vida",
+        "url": "https://open.spotify.com/album/1FhXUMF28q1d6dJBl1Nj1S"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 186117,
+      "name": "El Amor De Mi Vida",
+      "url": "https://open.spotify.com/track/1SIuzHNrctmvWo5geNIFyi"
     },
     {
       "added_at": null,

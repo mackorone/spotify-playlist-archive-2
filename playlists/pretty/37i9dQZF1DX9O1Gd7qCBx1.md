@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,068 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,063 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,13 +21,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 11 | [Amor Eterno](https://open.spotify.com/track/1h84pMokuANUjHQe87sOnq) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn), [Hijo de Lope](https://open.spotify.com/artist/6oFThPHvAjFpHTS7JnkgJ6) | [Amor Eterno](https://open.spotify.com/album/2vnXyDHxgdKmrPZ66vPuuB) | 4:24 |
 | 12 | [Y Qué Tal Si Te Escapas Del Cielo](https://open.spotify.com/track/4ZMfEFMhh3MjulypN7jR2T) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Y Qué Tal Si Te Escapas Del Cielo](https://open.spotify.com/album/0jAU4Tz7C1eHEGn233Zx9i) | 3:31 |
 | 13 | [Mátenme Porque Me Muero](https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 3:33 |
-| 14 | [El Día De Los Muertos](https://open.spotify.com/track/6J4MbIlBn50XGo31UTdD3D) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:23 |
-| 15 | [Descansando](https://open.spotify.com/track/3QXBaUQ8iwP2WI1GpQIP18) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Descansando](https://open.spotify.com/album/4n05Mdr8HuetVr4V6TWnWI) | 3:45 |
+| 14 | [Descansando](https://open.spotify.com/track/3QXBaUQ8iwP2WI1GpQIP18) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Descansando](https://open.spotify.com/album/4n05Mdr8HuetVr4V6TWnWI) | 3:45 |
+| 15 | [El Día De Los Muertos](https://open.spotify.com/track/6J4MbIlBn50XGo31UTdD3D) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:23 |
 | 16 | [Destino](https://open.spotify.com/track/78KzU9VKRmDrEO6EvZlQRG) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 3:59 |
 | 17 | [Cruz De Madera](https://open.spotify.com/track/4FcYptmG7nIfAH9XW8R4YA) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Cruz De Madera](https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V) | 2:52 |
 | 18 | [Descansa Mi Amor](https://open.spotify.com/track/7GFIRU9DfwqiLQaDDlyVp3) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Cazador](https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD) | 3:05 |
-| 19 | [El Diablo](https://open.spotify.com/track/51PKgx0ep9pIKJxJvTBnqx) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Mundo Feliz](https://open.spotify.com/album/0K1gJZEM3OPo9hnxUDZBW6) | 3:35 |
-| 20 | [Me Tocó Morir](https://open.spotify.com/track/6k9zUQ7Gngrs8ULzQOyDDV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 2:24 |
+| 19 | [Me Tocó Morir](https://open.spotify.com/track/6k9zUQ7Gngrs8ULzQOyDDV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 2:24 |
+| 20 | [El Diablo](https://open.spotify.com/track/51PKgx0ep9pIKJxJvTBnqx) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Mundo Feliz](https://open.spotify.com/album/0K1gJZEM3OPo9hnxUDZBW6) | 3:35 |
 | 21 | [Calaveras y Diablitos](https://open.spotify.com/track/7mPx5N0Yg9s5U0Cd13WA8q) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Originales \- 20 Exitos](https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc) | 4:20 |
 | 22 | [Sobre La Tumba De Mi Padre](https://open.spotify.com/track/6jVcf6qobg1VLoYah4jomr) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Íconos 25 Éxitos](https://open.spotify.com/album/0GKxtrQuqpABUvukziRENV) | 3:51 |
 | 23 | [La Despedida](https://open.spotify.com/track/136nrRA3pcFuerzpyFL5Y4) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Joyas De Dos Siglos](https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e) | 2:54 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 38 | [La muerte chiquita](https://open.spotify.com/track/4JH1M62gVDNDhDAUiQB3Qv) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Tiempo transcurrido](https://open.spotify.com/album/4IGFOWjEuIfnmeQYEEglUz) | 2:51 |
 | 39 | [Son de Difuntos](https://open.spotify.com/track/0nw90AIXzNTfb9acnlM9Mg) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Balas y Chocolate](https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq) | 3:37 |
 | 40 | [Paloma negra](https://open.spotify.com/track/2ib9PWWqtNyw9rff0qcm5G) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Serie Diamante \(USA\)](https://open.spotify.com/album/2eoBGUFrJZobGxGpwZ7dAp) | 3:15 |
-| 41 | [Boda Negra \(El Enterrador\)](https://open.spotify.com/track/5hUYlquq3LbUg9YsxvsxyQ) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Joyas De Dos Siglos](https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e) | 3:46 |
-| 42 | [La vida es un sueño](https://open.spotify.com/track/3jiw1dB4dz2AeyTAINvBQA) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Pedro Infante interpreta a José Alfredo Jiménez Vol\. 2](https://open.spotify.com/album/6IXzOZdEJfqgoLtrpGEEVe) | 3:10 |
+| 41 | [La vida es un sueño](https://open.spotify.com/track/3jiw1dB4dz2AeyTAINvBQA) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Pedro Infante interpreta a José Alfredo Jiménez Vol\. 2](https://open.spotify.com/album/6IXzOZdEJfqgoLtrpGEEVe) | 3:10 |
+| 42 | [Boda Negra \(El Enterrador\)](https://open.spotify.com/track/5hUYlquq3LbUg9YsxvsxyQ) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Joyas De Dos Siglos](https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e) | 3:46 |
 | 43 | [La llorona](https://open.spotify.com/track/45rQqSqb95p5lkZy13Tl1u) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [La Llorona](https://open.spotify.com/album/1UdavcEuofRFCq2Mq2278f) | 8:31 |
 | 44 | [Recuérdame](https://open.spotify.com/track/4zw8KSRiHzzaF9QHwzpXqo) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Un Canto por México, Vol\. II](https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0) | 4:24 |
 | 45 | [Canción de las Brujas \- Remasterizado](https://open.spotify.com/track/6ybGIJN1T8O7XtUMhG5r83) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 99 | [Ruego](https://open.spotify.com/track/1UBSaHHpwcWFJ20avaUC1g) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Ruego](https://open.spotify.com/album/4gmmqKd8zu7O02ZmCk0g3o) | 3:40 |
 | 100 | [Viento](https://open.spotify.com/track/3FtjzxyG9fs1bKuT1E5DZn) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Chao](https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz) | 5:09 |
 
-Snapshot ID: `AAAAACbvCh8nuZZKzA01GMZQRD1eq5Bv`
+Snapshot ID: `AAAAAJKyJMZcQbLtmU70MM0JhUoQhcca`

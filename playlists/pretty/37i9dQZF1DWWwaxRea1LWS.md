@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > \#SpotifyTBT celebrates 60 years of Revolver\. Cover: The Beatles
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,267,679 likes - 30 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,267,521 likes - 30 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 29 | [Daydream](https://open.spotify.com/track/3c06k9x6MHHdPQi3ix68yF) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Daydream](https://open.spotify.com/album/678WzpMIeszIatLVnczSnS) | 2:19 |
 | 30 | [Silent Sun](https://open.spotify.com/track/7gp81LrAecPY2tcx332igt) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [From Genesis to Revelation](https://open.spotify.com/album/7ykLKrLtN920GC9SBKhpp9) | 2:13 |
 
-Snapshot ID: `AAAAAPdU9xhe8u49BoUug8cMUk3lJhKk`
+Snapshot ID: `AAAAALlHThd7OjvwlC36G/ngGGInPEm7`

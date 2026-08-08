@@ -1,13 +1,33 @@
 {
-  "description": "Remi Wolf, we missed you \ud83e\udd1d <a href=\"https://loremandfriends.substack.com/p/millennial-optimism-we-missed-you\">(p.s. read our substack!)</a>   ",
-  "num_followers": 1184665,
+  "description": "\ud83d\udc40 Mackeeper <a href=\"https://loremandfriends.substack.com/p/millennial-optimism-we-missed-you\">(p.s. read our substack!)</a>   ",
+  "num_followers": 1184750,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANx63p/QzGt20ODSTe1Pyhwa9L3q",
+  "snapshot_id": "AAAAAO+oQYMRjTw9Nnug9U/qhDASoYkc",
   "tracks": [
+    {
+      "added_at": "2026-08-07 04:02:01",
+      "album": {
+        "name": "Can't Get Over Losing You (feat. Portraits Of Tracy)",
+        "url": "https://open.spotify.com/album/077lZ5kUWMRaFAkXdvwWW0"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Portraits Of Tracy",
+          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
+        }
+      ],
+      "duration_ms": 169613,
+      "name": "Can't Get Over Losing You (feat. Portraits Of Tracy)",
+      "url": "https://open.spotify.com/track/2LfIvkV7kBvqo3tx1H9sqw"
+    },
     {
       "added_at": "2026-07-31 04:02:08",
       "album": {
@@ -41,20 +61,36 @@
       "url": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2"
     },
     {
-      "added_at": "2026-07-24 04:02:04",
+      "added_at": "2026-08-07 04:02:01",
       "album": {
-        "name": "Lovesweet",
-        "url": "https://open.spotify.com/album/6N28jc2uCBf2mswIramLRa"
+        "name": "DO YOU SEE ME?",
+        "url": "https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc"
       },
       "artists": [
         {
-          "name": "girlsweetvoiced",
-          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
         }
       ],
-      "duration_ms": 194149,
-      "name": "Cranberry",
-      "url": "https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O"
+      "duration_ms": 173103,
+      "name": "silly boy",
+      "url": "https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P"
+    },
+    {
+      "added_at": "2026-08-07 04:02:01",
+      "album": {
+        "name": "Chuck Timely & The Hourglass",
+        "url": "https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 262057,
+      "name": "Love I You",
+      "url": "https://open.spotify.com/track/5va7AdTu5BWzZcziPkdxSP"
     },
     {
       "added_at": "2026-07-24 04:02:04",
@@ -73,20 +109,120 @@
       "url": "https://open.spotify.com/track/2dnaSoyIqAulyklbaj8d9d"
     },
     {
-      "added_at": "2026-07-24 04:02:04",
+      "added_at": "2026-08-07 04:02:01",
       "album": {
-        "name": "LOVE IS THE LAW",
-        "url": "https://open.spotify.com/album/570VyuVvfNUQBm2cSvPLT0"
+        "name": "Truth or Dare",
+        "url": "https://open.spotify.com/album/4MKe28WDs1OdlvueCEeMvj"
       },
       "artists": [
         {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+          "name": "Mackeeper",
+          "url": "https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX"
         }
       ],
-      "duration_ms": 205497,
-      "name": "Don't Touch",
-      "url": "https://open.spotify.com/track/5mKk0BWGXLydgV1hP7C6jm"
+      "duration_ms": 154498,
+      "name": "Truth or Dare",
+      "url": "https://open.spotify.com/track/62CSylX8QyL5bvcSCE2He0"
+    },
+    {
+      "added_at": "2026-08-07 17:40:00",
+      "album": {
+        "name": "molly picture",
+        "url": "https://open.spotify.com/album/5FBhw9VmY1xqmSXEW7sbzs"
+      },
+      "artists": [
+        {
+          "name": "god of war",
+          "url": "https://open.spotify.com/artist/7o3wJo5yKVGHHkTojIZ7Xp"
+        },
+        {
+          "name": "They Are Gutting a Body of Water",
+          "url": "https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj"
+        },
+        {
+          "name": "Hooky",
+          "url": "https://open.spotify.com/artist/17eGQ5SRFwIv2c8FsrQf8f"
+        }
+      ],
+      "duration_ms": 124165,
+      "name": "raphael Bad as shit",
+      "url": "https://open.spotify.com/track/00IKZzDVRw9ycGeQcPHvjc"
+    },
+    {
+      "added_at": "2026-08-07 04:02:01",
+      "album": {
+        "name": "The World Keeps Spinning",
+        "url": "https://open.spotify.com/album/32ZClhFaEcuum0aEvXbDwo"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        },
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "duration_ms": 135306,
+      "name": "The World Keeps Spinning",
+      "url": "https://open.spotify.com/track/3kjo18jDL7MvyRO8sMCVgO"
+    },
+    {
+      "added_at": "2026-07-31 04:02:08",
+      "album": {
+        "name": "Beatback (Justin Strauss en La Piscina Remix)",
+        "url": "https://open.spotify.com/album/5payx78rc3mqZH07AjL15O"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        },
+        {
+          "name": "Justin Strauss",
+          "url": "https://open.spotify.com/artist/0Ffu60mxLNLa7b7Z3VSS01"
+        },
+        {
+          "name": "Andrew Raposo",
+          "url": "https://open.spotify.com/artist/2T6hvyFSKlGuNM8J7NGYZR"
+        }
+      ],
+      "duration_ms": 450247,
+      "name": "Beatback - Justin Strauss en La Piscina Remix",
+      "url": "https://open.spotify.com/track/7zPQPdeMPec0LqYjC8c1an"
+    },
+    {
+      "added_at": "2026-08-07 04:02:01",
+      "album": {
+        "name": "Billboard Style",
+        "url": "https://open.spotify.com/album/5J68BHB4bwuKeNXx6UjgIL"
+      },
+      "artists": [
+        {
+          "name": "Billboard Style",
+          "url": "https://open.spotify.com/artist/3oqmZ1rujvoBP7ZyMBKqUQ"
+        }
+      ],
+      "duration_ms": 170196,
+      "name": "Billboard Style",
+      "url": "https://open.spotify.com/track/35ve61xDrQy5Q4U20CCttN"
+    },
+    {
+      "added_at": "2026-08-07 04:02:01",
+      "album": {
+        "name": "If I Could",
+        "url": "https://open.spotify.com/album/10jnGJSwHlbX6wkUb4v0Bb"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "duration_ms": 231716,
+      "name": "If I Could",
+      "url": "https://open.spotify.com/track/7t3sr53O7D8sPYKrU3ALh8"
     },
     {
       "added_at": "2026-07-31 04:02:08",
@@ -105,6 +241,54 @@
       "url": "https://open.spotify.com/track/6v1d0oFmJnq0Md14QjTnAB"
     },
     {
+      "added_at": "2026-07-24 04:02:04",
+      "album": {
+        "name": "Lovesweet",
+        "url": "https://open.spotify.com/album/6N28jc2uCBf2mswIramLRa"
+      },
+      "artists": [
+        {
+          "name": "girlsweetvoiced",
+          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
+        }
+      ],
+      "duration_ms": 194149,
+      "name": "Cranberry",
+      "url": "https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O"
+    },
+    {
+      "added_at": "2026-08-07 04:02:01",
+      "album": {
+        "name": "Chuck Timely & The Hourglass",
+        "url": "https://open.spotify.com/album/7fZFja60WuvgF48NW1au0R"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 251335,
+      "name": "Honeydew",
+      "url": "https://open.spotify.com/track/1o656MCao56taI8DPKW4HD"
+    },
+    {
+      "added_at": "2026-07-24 04:02:04",
+      "album": {
+        "name": "LOVE IS THE LAW",
+        "url": "https://open.spotify.com/album/570VyuVvfNUQBm2cSvPLT0"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 205497,
+      "name": "Don't Touch",
+      "url": "https://open.spotify.com/track/5mKk0BWGXLydgV1hP7C6jm"
+    },
+    {
       "added_at": "2026-08-04 23:27:08",
       "album": {
         "name": "Oh yeah?",
@@ -119,6 +303,118 @@
       "duration_ms": 170584,
       "name": "oh yeah?",
       "url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8"
+    },
+    {
+      "added_at": "2026-08-04 23:27:08",
+      "album": {
+        "name": "Return To Cookie Mountain",
+        "url": "https://open.spotify.com/album/4sD8WQQ8f1x3L4YFa9qFIO"
+      },
+      "artists": [
+        {
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+        }
+      ],
+      "duration_ms": 287720,
+      "name": "Wolf Like Me",
+      "url": "https://open.spotify.com/track/6Zgd7SomLTZkL1WPh4CUnV"
+    },
+    {
+      "added_at": "2026-07-31 04:02:08",
+      "album": {
+        "name": "Nowhere EP",
+        "url": "https://open.spotify.com/album/0qIP58YoRrNXLq25L4DRau"
+      },
+      "artists": [
+        {
+          "name": "venturing",
+          "url": "https://open.spotify.com/artist/13xKCVJaX32BL7EN9IOiCM"
+        }
+      ],
+      "duration_ms": 187706,
+      "name": "Drunk lullaby",
+      "url": "https://open.spotify.com/track/3Au7vtaP1SxHi2OfGSCGnW"
+    },
+    {
+      "added_at": "2026-07-09 16:50:07",
+      "album": {
+        "name": "trees for the woods",
+        "url": "https://open.spotify.com/album/5a1qNYmQldBmdb5NMLGi7a"
+      },
+      "artists": [
+        {
+          "name": "Amie Blu",
+          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
+        }
+      ],
+      "duration_ms": 247540,
+      "name": "trees for the woods",
+      "url": "https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk"
+    },
+    {
+      "added_at": "2026-07-31 04:02:08",
+      "album": {
+        "name": "its not about me!",
+        "url": "https://open.spotify.com/album/3EcqQco9MASQejGgqBGGAu"
+      },
+      "artists": [
+        {
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+        }
+      ],
+      "duration_ms": 171392,
+      "name": "its not about me!",
+      "url": "https://open.spotify.com/track/02UI5paChJe2PHsi0nikly"
+    },
+    {
+      "added_at": "2026-07-24 04:02:04",
+      "album": {
+        "name": "Hearth Room",
+        "url": "https://open.spotify.com/album/7658DvD6zXuDdo4VhblGsd"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 202466,
+      "name": "Marigold",
+      "url": "https://open.spotify.com/track/0WNbDmRfutNy9njFxQhLDS"
+    },
+    {
+      "added_at": "2026-07-31 04:02:08",
+      "album": {
+        "name": "deep end",
+        "url": "https://open.spotify.com/album/5Fk2Z7snYZVaGJPh8wB9BS"
+      },
+      "artists": [
+        {
+          "name": "josie",
+          "url": "https://open.spotify.com/artist/7Bh9Pns9Yl4iZWjOhA2MRR"
+        }
+      ],
+      "duration_ms": 202880,
+      "name": "deep end",
+      "url": "https://open.spotify.com/track/4PYs8qD6tLUGKP6B27Fij1"
+    },
+    {
+      "added_at": "2026-07-07 21:07:18",
+      "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "The Peace",
+      "url": "https://open.spotify.com/track/6wm3t4VpTxSFfOUgTMlHZM"
     },
     {
       "added_at": "2026-07-24 04:02:04",
@@ -153,38 +449,6 @@
       "url": "https://open.spotify.com/track/21z8SSZUf7OQ9h4Is0yAZS"
     },
     {
-      "added_at": "2026-07-24 04:02:04",
-      "album": {
-        "name": "Music, Fashion, Film",
-        "url": "https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 124045,
-      "name": "2007",
-      "url": "https://open.spotify.com/track/7GVLyPEpJtQZiYt95LF0ng"
-    },
-    {
-      "added_at": "2026-08-04 23:27:08",
-      "album": {
-        "name": "Return To Cookie Mountain",
-        "url": "https://open.spotify.com/album/4sD8WQQ8f1x3L4YFa9qFIO"
-      },
-      "artists": [
-        {
-          "name": "TV On The Radio",
-          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
-        }
-      ],
-      "duration_ms": 287720,
-      "name": "Wolf Like Me",
-      "url": "https://open.spotify.com/track/6Zgd7SomLTZkL1WPh4CUnV"
-    },
-    {
       "added_at": "2026-08-06 16:56:08",
       "album": {
         "name": "Swans Today",
@@ -215,6 +479,22 @@
       "duration_ms": 216138,
       "name": "Molly In The Club",
       "url": "https://open.spotify.com/track/1ngbCM8cVBEcE3yCFdelAU"
+    },
+    {
+      "added_at": "2026-07-24 04:02:04",
+      "album": {
+        "name": "Music, Fashion, Film",
+        "url": "https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 124045,
+      "name": "2007",
+      "url": "https://open.spotify.com/track/7GVLyPEpJtQZiYt95LF0ng"
     },
     {
       "added_at": "2026-07-27 22:33:43",
@@ -267,30 +547,6 @@
     {
       "added_at": "2026-07-31 04:02:08",
       "album": {
-        "name": "Beatback (Justin Strauss en La Piscina Remix)",
-        "url": "https://open.spotify.com/album/5payx78rc3mqZH07AjL15O"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        },
-        {
-          "name": "Justin Strauss",
-          "url": "https://open.spotify.com/artist/0Ffu60mxLNLa7b7Z3VSS01"
-        },
-        {
-          "name": "Andrew Raposo",
-          "url": "https://open.spotify.com/artist/2T6hvyFSKlGuNM8J7NGYZR"
-        }
-      ],
-      "duration_ms": 450247,
-      "name": "Beatback - Justin Strauss en La Piscina Remix",
-      "url": "https://open.spotify.com/track/7zPQPdeMPec0LqYjC8c1an"
-    },
-    {
-      "added_at": "2026-07-31 04:02:08",
-      "album": {
         "name": "FU : ILY",
         "url": "https://open.spotify.com/album/0s5WRpopYusuMFTmedJMIN"
       },
@@ -319,54 +575,6 @@
       "duration_ms": 167272,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/3mDdkv8881MzLmSB7z8Ogy"
-    },
-    {
-      "added_at": "2026-07-31 04:02:08",
-      "album": {
-        "name": "Nowhere EP",
-        "url": "https://open.spotify.com/album/0qIP58YoRrNXLq25L4DRau"
-      },
-      "artists": [
-        {
-          "name": "venturing",
-          "url": "https://open.spotify.com/artist/13xKCVJaX32BL7EN9IOiCM"
-        }
-      ],
-      "duration_ms": 187706,
-      "name": "Drunk lullaby",
-      "url": "https://open.spotify.com/track/3Au7vtaP1SxHi2OfGSCGnW"
-    },
-    {
-      "added_at": "2026-07-09 16:50:07",
-      "album": {
-        "name": "trees for the woods",
-        "url": "https://open.spotify.com/album/5a1qNYmQldBmdb5NMLGi7a"
-      },
-      "artists": [
-        {
-          "name": "Amie Blu",
-          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
-        }
-      ],
-      "duration_ms": 247540,
-      "name": "trees for the woods",
-      "url": "https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk"
-    },
-    {
-      "added_at": "2026-07-31 04:02:08",
-      "album": {
-        "name": "its not about me!",
-        "url": "https://open.spotify.com/album/3EcqQco9MASQejGgqBGGAu"
-      },
-      "artists": [
-        {
-          "name": "Jahson Paynter",
-          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
-        }
-      ],
-      "duration_ms": 171392,
-      "name": "its not about me!",
-      "url": "https://open.spotify.com/track/02UI5paChJe2PHsi0nikly"
     },
     {
       "added_at": "2026-07-31 04:02:08",
@@ -467,22 +675,6 @@
     {
       "added_at": "2026-07-24 04:02:04",
       "album": {
-        "name": "Hearth Room",
-        "url": "https://open.spotify.com/album/7658DvD6zXuDdo4VhblGsd"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        }
-      ],
-      "duration_ms": 202466,
-      "name": "Marigold",
-      "url": "https://open.spotify.com/track/0WNbDmRfutNy9njFxQhLDS"
-    },
-    {
-      "added_at": "2026-07-24 04:02:04",
-      "album": {
         "name": "Camera",
         "url": "https://open.spotify.com/album/2P5WYw7vAwb5jeFPIU1lMc"
       },
@@ -495,22 +687,6 @@
       "duration_ms": 151438,
       "name": "Camera",
       "url": "https://open.spotify.com/track/1C95XJLGL9xyMlsES1uVDQ"
-    },
-    {
-      "added_at": "2026-07-31 04:02:08",
-      "album": {
-        "name": "deep end",
-        "url": "https://open.spotify.com/album/5Fk2Z7snYZVaGJPh8wB9BS"
-      },
-      "artists": [
-        {
-          "name": "josie",
-          "url": "https://open.spotify.com/artist/7Bh9Pns9Yl4iZWjOhA2MRR"
-        }
-      ],
-      "duration_ms": 202880,
-      "name": "deep end",
-      "url": "https://open.spotify.com/track/4PYs8qD6tLUGKP6B27Fij1"
     },
     {
       "added_at": "2026-07-24 04:02:04",
@@ -623,22 +799,6 @@
       "duration_ms": 212195,
       "name": "PQC",
       "url": "https://open.spotify.com/track/0bP1I4aL8vehpEkXQ3dmgO"
-    },
-    {
-      "added_at": "2026-07-07 21:07:18",
-      "album": {
-        "name": "U",
-        "url": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "The Peace",
-      "url": "https://open.spotify.com/track/6wm3t4VpTxSFfOUgTMlHZM"
     },
     {
       "added_at": "2026-07-07 21:07:18",

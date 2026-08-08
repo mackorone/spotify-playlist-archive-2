@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 142857,
+  "num_followers": 142863,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAC4FT6TPu9GvSw3yu631rU2",
+  "snapshot_id": "anPOgAAAAACFF72RHF+f1u2Wz8mHH/Ns",
   "tracks": [
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pollinator",
-        "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 259493,
-      "name": "Fun",
-      "url": "https://open.spotify.com/track/7sEVKrakaGrSvzHIQhWOTI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Panic of Girls",
         "url": "https://open.spotify.com/album/3taJK6ccQov0Z5FlKox65t"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 197533,
       "name": "What I Heard",
       "url": "https://open.spotify.com/track/77mO1n1s6ouUD2EIZk56NH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pollinator",
+        "url": "https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 259493,
+      "name": "Fun",
+      "url": "https://open.spotify.com/track/7sEVKrakaGrSvzHIQhWOTI"
     },
     {
       "added_at": null,

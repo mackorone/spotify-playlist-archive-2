@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0TPLQWa7jU.md) - [plain]
 
 > Get your energy boost for your Ramadan workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,145 likes - 56 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,144 likes - 56 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0TPLQWa7jU.md) - [plain]
 | 32 | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 |
 | 33 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/album/04m06KhJUuwe1Q487puIud) | 3:23 |
 | 34 | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj) | 3:01 |
-| 35 | [Secrets](https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs) | 2:56 |
-| 36 | [Pepas \- Tiësto Remix](https://open.spotify.com/track/1bFgMkoazsyZGSflpCzYm6) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Pepas \(Tiësto Remix\)](https://open.spotify.com/album/5Auj1vFNdvZDtyV0rqfVIQ) | 3:43 |
+| 35 | [Pepas \- Tiësto Remix](https://open.spotify.com/track/1bFgMkoazsyZGSflpCzYm6) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Pepas \(Tiësto Remix\)](https://open.spotify.com/album/5Auj1vFNdvZDtyV0rqfVIQ) | 3:43 |
+| 36 | [Secrets](https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs) | 2:56 |
 | 37 | [You Little Beauty](https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [You Little Beauty](https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b) | 3:26 |
 | 38 | [This Is How We Do](https://open.spotify.com/track/5vL0yvddknhGj7IrBc6UTj) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:24 |
 | 39 | [Brazil](https://open.spotify.com/track/6cpTq72SH9QSocMTnGEKg5) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [SAN STEFANO](https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1) | 3:32 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0TPLQWa7jU.md) - [plain]
 | 55 | [Promises \- Sonny Fodera Remix](https://open.spotify.com/track/2vX9CCDImtyL6c4163Cg9y) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Promises \(Sonny Fodera Remix\)](https://open.spotify.com/album/6Ya9D7yahLhjpu3fbuLd2z) | 3:57 |
 | 56 | [Lean On](https://open.spotify.com/track/5bcYCYn63zNOjBv3KPOLjd) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Peace Is The Mission \(Extended\)](https://open.spotify.com/album/0ct1bK2jijAkf6IxP9B0st) | 2:56 |
 
-Snapshot ID: `AAAAAIB2UxooFNmPpUAsSJe8tlpiJK1q`
+Snapshot ID: `AAAAAIwVB4JEP5tvwOqnwTCGQ/ikbj8Z`

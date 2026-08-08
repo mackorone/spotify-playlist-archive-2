@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-359 songs - 20 hr 31 min
+359 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [So Easy](https://open.spotify.com/track/3Gdve0JjwoBtmwqMLLcnUb) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Soft Power](https://open.spotify.com/album/5h60bfevDWgv7i0NTXRk3C) | 3:28 | 2024-11-28 | 2025-06-12 |
 | [So Good](https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [So Good](https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM) | 3:21 | 2024-08-22 |  |
 | [Some Kind of Angel](https://open.spotify.com/track/1Hmj8zqZaub8poKxtDcaef) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Some Kind of Angel / Split Lip](https://open.spotify.com/album/0fwNIDQweUkRYQZf4CsuMw) | 4:34 | 2024-08-15 | 2025-01-04 |
+| [Stairways](https://open.spotify.com/track/4RfRFx4cbOk1CdaQKyeEJn) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Wabi Sabi](https://open.spotify.com/album/2NpZ3Px3zT9ifmVbeREscf) | 3:09 | 2026-08-06 |  |
 | [STALKER \(feat\. Ramirez\)](https://open.spotify.com/track/0DqMDEZk9dFM631sQOPVJh) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2) | [STALKER \(feat\. Ramirez\)](https://open.spotify.com/album/4e9pi8Kqj9VWDEUa39o6mt) | 2:32 | 2025-04-24 |  |
 | [Stand Straight](https://open.spotify.com/track/0QjI4Om7eyIugP2C67Ac21) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [SLO MO](https://open.spotify.com/album/6jPR5JBH1FvKG4yLVaWeiJ) | 5:35 | 2024-11-07 | 2025-01-15 |
 | [State of Mind](https://open.spotify.com/track/09NiadAHVDJ3t8kCPgbkUW) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 5:37 | 2024-05-20 |  |
@@ -334,7 +335,6 @@
 | [TN's](https://open.spotify.com/track/3VMArMhE9WcFyEmcn2PXkh) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [TN's](https://open.spotify.com/album/6re07313Esj1OipNfjjUdh) | 3:16 | 2025-07-17 | 2026-03-27 |
 | [tomato baby](https://open.spotify.com/track/126hNkonJst3ARf4I2ACqW) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [tomato baby](https://open.spotify.com/album/7J8vbSM16wFVxHnXfiLGIV) | 2:48 | 2026-05-25 |  |
 | [Too Busy](https://open.spotify.com/track/0SPLtdmnEr2h0lL6C5uaBO) | [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb) | [Too Busy](https://open.spotify.com/album/0jA7TBoL1ctiW0t9m92YjY) | 2:15 | 2024-10-03 | 2024-11-08 |
-| [Track 5](https://open.spotify.com/track/4RfRFx4cbOk1CdaQKyeEJn) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Wabi Sabi](https://open.spotify.com/album/2NpZ3Px3zT9ifmVbeREscf) | 0:00 | 2026-08-06 |  |
 | [Troubles](https://open.spotify.com/track/6yjUcWU2Se6A26htiGZkPS) | [EDYONTHEBEAT](https://open.spotify.com/artist/5rO3cIUpqwYXBNk6cdSdGC), [Donson PK](https://open.spotify.com/artist/0Ffe4obY6qq9TzAvYm7fqg) | [Troubles](https://open.spotify.com/album/5kNqMZgBP1lh5as2AVerBY) | 3:15 | 2026-07-09 |  |
 | [Try](https://open.spotify.com/track/6pVFYKsXXQyIv7imo8s6NN) | [The Butlers](https://open.spotify.com/artist/4fNyHJVpejfDhaaWk9jOfN) | [Try](https://open.spotify.com/album/07E0R5RVXE04BzSapxwGwS) | 3:33 | 2024-11-07 | 2024-11-29 |
 | [Try \(Just a little\)](https://open.spotify.com/track/4jJutsIi6rFhBNTmXsE4J5) | [ELENA](https://open.spotify.com/artist/7tnARU2BsPiwHkK9ryyBwU), [Jaevan](https://open.spotify.com/artist/6yJBRzKZFT12hdhYF6evzD) | [Try \(Just a little\)](https://open.spotify.com/album/2wy1Z44RfSo1oWNV2Ws27c) | 2:43 | 2024-05-20 | 2024-11-08 |

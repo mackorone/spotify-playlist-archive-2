@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Namasenda 💚
 
-269 songs - 14 hr 25 min
+271 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Kyyneleet sateessa](https://open.spotify.com/track/4TH0P04EyFhq31tQjYD7om) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [ULTRAVIOLETTI](https://open.spotify.com/album/0v7kaOJYUoOnNxaNlzOnEb) | 2:48 | 2026-03-19 |  |
 | [la meg ligge](https://open.spotify.com/track/3VkvAWxTrCO0AcAqJB9VwU) | [Michelle Ullestad](https://open.spotify.com/artist/0ftXswGpAsqomAAg0YN1pI) | [ingenting varer evig](https://open.spotify.com/album/4HFklOVFMC0Qrnr7MuJuAl) | 3:30 | 2026-03-05 | 2026-03-20 |
 | [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 | 2026-06-02 |  |
+| [lao wai](https://open.spotify.com/track/1Kz4kdsoG9XqZReNL3RWZ4) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h), [Shushu](https://open.spotify.com/artist/1UNqLt4phNW6lI5mPSL52P) | [lao wai](https://open.spotify.com/album/4gaBhPu0VextnFP4Y86xsC) | 2:31 | 2026-08-07 |  |
 | [Late to the Party](https://open.spotify.com/track/19Jls5dSTovXdG46yNyLTD) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [How did I let this get so serious?](https://open.spotify.com/album/05Ubk2mvbh4XsKR5mCDDUU) | 3:06 | 2026-03-05 | 2026-03-20 |
 | [Let go, let love](https://open.spotify.com/track/55PdmbaGR0nvQIJtMuIsd7) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [Let go, let love](https://open.spotify.com/album/410eCJLlIkTe2s8GPJ1VCV) | 3:12 | 2026-03-05 | 2026-04-08 |
 | [Lies For A Liar](https://open.spotify.com/track/0Ejai5fHGxGTEHYZEEeacm) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Lies For A Liar](https://open.spotify.com/album/11744phe7F2hQOcngFjXih) | 2:51 | 2026-03-19 | 2026-06-03 |
@@ -255,6 +256,7 @@
 | [Try To Forget You](https://open.spotify.com/track/4owTp0ISJEukMDPpbiYVTF) | [May](https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE) | [Bloom](https://open.spotify.com/album/3bbmQ862f9gNMC3I5eH5Qx) | 3:24 | 2026-03-05 | 2026-04-08 |
 | [Trøllabundin](https://open.spotify.com/track/3MdEnYp8pv39XHynVC8Lq0) | [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [Slør](https://open.spotify.com/album/54GSg6YH72DvPf5G1egXY2) | 4:30 | 2026-06-30 | 2026-08-05 |
 | [TV](https://open.spotify.com/track/6RLMAUSoJP0GZZAnnLrTlX) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [TV](https://open.spotify.com/album/6c91028rOTzQnHvmYgK6I4) | 3:15 | 2026-05-05 | 2026-06-03 |
+| [Tígrisdýr](https://open.spotify.com/track/1gOizp5qByisN2mKI64Eox) | [Alaska1867](https://open.spotify.com/artist/2yyLYHJEdPcHJyfvn7OWHk), [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z) | [Tígrisdýr](https://open.spotify.com/album/5avpFx1jpMBAkvnCQzYWHP) | 2:56 | 2026-08-07 |  |
 | [Tømmermænd \- Radio Edit](https://open.spotify.com/track/6rIOedNez2EcpEX0Dxd2B5) | [Katinka](https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ) | [Tømmermænd \(Radio Edit\)](https://open.spotify.com/album/3gqNQfQmJJ3Vjlvy7gbusk) | 2:53 | 2026-03-05 | 2026-05-06 |
 | [Unforgivable Sinner](https://open.spotify.com/track/0OAfv038kxh9xLGjJ7fRLi) | [Lene Marlin](https://open.spotify.com/artist/5TrH0BhpRgs2gkOb992bGC) | [Playing My Game](https://open.spotify.com/album/2uOhhD5z1ANhNgEmnROk0N) | 3:59 | 2026-03-05 | 2026-05-06 |
 | [Uranium Heart](https://open.spotify.com/track/5O9j5J7eMaBKHqNqupnu0i) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Uranium Heart](https://open.spotify.com/album/0XLCfcLsv31oEwcvEDC8v6) | 3:59 | 2026-03-19 |  |

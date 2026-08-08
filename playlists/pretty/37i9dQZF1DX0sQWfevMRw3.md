@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > 🇳🇴🤝🇸🇪
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,409 likes - 118 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,419 likes - 118 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 25 | [Sunnanvind](https://open.spotify.com/track/4lBiRh68gJguY2GInzXb6I) | [KaptenX](https://open.spotify.com/artist/5m1kkyZcYNKkjeAh6o9XLp) | [Sunnanvind](https://open.spotify.com/album/2fYINDjJ1eX5g4GFACpyd2) | 2:13 |
 | 26 | [Soppatorsk](https://open.spotify.com/track/4ptpBLhEblqkjt48lttmrY) | [Ronny & Ragge](https://open.spotify.com/artist/5pyF7nerLdGc4ZV3U72tdQ) | [Soppatorsk](https://open.spotify.com/album/1kAr0tigrW16cScaRRcK6v) | 2:51 |
 | 27 | [Plaster \(Capetown\)](https://open.spotify.com/track/1VSoF8alH1Z9hGw8oUKAjX) | [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7) | [Plaster \(Capetown\)](https://open.spotify.com/album/5kifSxHnHof86Kj6sJSpe7) | 2:21 |
-| 28 | [Stockhom \(Lillesøster\)](https://open.spotify.com/track/7vzQ6xakWuKWs7I1IqhO7U) | [FERDY](https://open.spotify.com/artist/208RE1Kcvc7w4N1dqnhJPw), [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7) | [Stockhom \(Lillesøster\)](https://open.spotify.com/album/6Co0E7pAJG12oqjf3Uq0Sn) | 2:25 |
+| 28 | [Stockholm \(Lillesøster\)](https://open.spotify.com/track/7vzQ6xakWuKWs7I1IqhO7U) | [FERDY](https://open.spotify.com/artist/208RE1Kcvc7w4N1dqnhJPw), [Kudos](https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7) | [Stockholm \(Lillesøster\)](https://open.spotify.com/album/6Co0E7pAJG12oqjf3Uq0Sn) | 2:25 |
 | 29 | [Lever bara en gång](https://open.spotify.com/track/318hdxsMrrwgtSJOggc0kp) | [Silje Bakke](https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c) | [Lever bara en gång](https://open.spotify.com/album/6dGbrcXanYmy0PT83lbscS) | 2:56 |
 | 30 | [Dansa Runt Min Stång](https://open.spotify.com/track/2Vnn4SOxszcaiC1MloEO9c) | [Rivstart](https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj) | [Dansa Runt Min Stång](https://open.spotify.com/album/7dcm0KlH1HZh0FNioc3Eb2) | 2:49 |
 | 31 | [All in för Sverige \(VM\-låt 2026\)](https://open.spotify.com/track/3AGFGLUAhu0Cwv1Mkea3d4) | [Brandsta City Släckers](https://open.spotify.com/artist/10bzvni38ThO7h6KOaHO9l) | [All in för Sverige \(VM\-låt 2026\)](https://open.spotify.com/album/4gZvTQm8EXL0tJtHU3cY3w) | 3:12 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 117 | [FUCK MITT EX](https://open.spotify.com/track/5uZbNtwrtQKOCkXFoVOGxX) | [Kaptenen](https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl) | [FUCK MITT EX](https://open.spotify.com/album/1FzUlKjvO9lEdKj5XUcrvU) | 2:50 |
 | 118 | [Det Løser Seg](https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Det Løser Seg](https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W) | 2:12 |
 
-Snapshot ID: `AAAAAFqRgVv4JDcUHLwlnZ7CWO7R6ezA`
+Snapshot ID: `AAAAAIwyc/vQzEIZAmDi8mlYLkKH/rtD`

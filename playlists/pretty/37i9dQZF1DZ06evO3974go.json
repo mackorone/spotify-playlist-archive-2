@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 21105,
+  "num_followers": 21106,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAACPlhOdzRQQNrog4o7ALegZ",
+  "snapshot_id": "anPOgAAAAADf5WXOSR6MuGIzb4vDx8U/",
   "tracks": [
     {
       "added_at": null,
@@ -371,6 +371,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Label Vol. 2",
+        "url": "https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 224261,
+      "name": "I Just Might",
+      "url": "https://open.spotify.com/track/5rcHN0ApxrVS6F6nq3uyGc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Got Yo Wingz",
         "url": "https://open.spotify.com/album/4jdQt9s1NisPjtryGLSzqa"
       },
@@ -383,22 +403,6 @@
       "duration_ms": 155000,
       "name": "Got Yo Wingz",
       "url": "https://open.spotify.com/track/6EqyEmLrxlmEB1iBxRVMjZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "To Be Worried",
-        "url": "https://open.spotify.com/album/7dBWtsYsTuctAU51lKiSWf"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 182303,
-      "name": "To Be Worried",
-      "url": "https://open.spotify.com/track/71fuwhvrbiuxfpBspkR93A"
     },
     {
       "added_at": null,
@@ -419,22 +423,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Label Vol. 2",
-        "url": "https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj"
+        "name": "To Be Worried",
+        "url": "https://open.spotify.com/album/7dBWtsYsTuctAU51lKiSWf"
       },
       "artists": [
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 224261,
-      "name": "I Just Might",
-      "url": "https://open.spotify.com/track/5rcHN0ApxrVS6F6nq3uyGc"
+      "duration_ms": 182303,
+      "name": "To Be Worried",
+      "url": "https://open.spotify.com/track/71fuwhvrbiuxfpBspkR93A"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legacy of Hits",
+        "url": "https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 188010,
+      "name": "Reloaded",
+      "url": "https://open.spotify.com/track/0hW0lUzRekaRofT8XiLSSj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2 Rounds [Remix] (feat. Rich Homie Quan & Kevin Gates)",
         "url": "https://open.spotify.com/album/7stv82Fq3iVD7tZ1JTmWXs"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 247384,
       "name": "2 Rounds [Remix] (feat. Rich Homie Quan & Kevin Gates)",
       "url": "https://open.spotify.com/track/3vk2vqP66qXKYoC5NU4qtO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legacy of Hits",
-        "url": "https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 188010,
-      "name": "Reloaded",
-      "url": "https://open.spotify.com/track/0hW0lUzRekaRofT8XiLSSj"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rich Homie Cartel Vol 1",
-        "url": "https://open.spotify.com/album/65LaTW7Q12QKrF9xcMFN8M"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "Freestyle",
-      "url": "https://open.spotify.com/track/48SBWnRiIs0SNfCRzM3kiN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life After Fame",
         "url": "https://open.spotify.com/album/3IYaSINx79h33UY51uylld"
       },
@@ -920,6 +900,26 @@
       "added_at": null,
       "album": {
         "name": "Rich Homie Cartel Vol 1",
+        "url": "https://open.spotify.com/album/65LaTW7Q12QKrF9xcMFN8M"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/48SBWnRiIs0SNfCRzM3kiN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rich Homie Cartel Vol 1",
         "url": "https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt"
       },
       "artists": [
@@ -935,22 +935,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby On Baby",
-        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
+        "name": "The Young OG Project",
+        "url": "https://open.spotify.com/album/6x0bSKJ5z02Z5QsSPs9jg9"
       },
       "artists": [
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
         },
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 192773,
-      "name": "Celebrate (feat. Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/7uxbabRF4omY1MhmIgaZ6Y"
+      "duration_ms": 256506,
+      "name": "We Good",
+      "url": "https://open.spotify.com/track/11B2LpmjMH4BH1XwynLT9R"
     }
   ],
   "unique_name": "This Is Rich Homie Quan",

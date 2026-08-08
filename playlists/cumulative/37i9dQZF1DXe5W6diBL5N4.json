@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: Young K) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: wave to earth) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -33083,6 +33083,24 @@
     },
     {
       "album": {
+        "name": "<Hyper-Ego>",
+        "url": "https://open.spotify.com/album/72WSQszRmD09u9eIOZQAeR"
+      },
+      "artists": [
+        {
+          "name": "ARTMS",
+          "url": "https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Blue Blood",
+      "url": "https://open.spotify.com/track/0U0H8jRrRV3uItkvfD6c6k"
+    },
+    {
+      "album": {
         "name": "blue blue",
         "url": "https://open.spotify.com/album/0lJr0Nh5kpZ9R9ljZaDCt1"
       },
@@ -53158,6 +53176,24 @@
       "duration_ms": 230266,
       "name": "Courage",
       "url": "https://open.spotify.com/track/2lxsoaZnBEskDsi6uReF4F"
+    },
+    {
+      "album": {
+        "name": "bad pieces",
+        "url": "https://open.spotify.com/album/3vyo8Ev3o6olStojgqpS6U"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191910,
+      "name": "courage",
+      "url": "https://open.spotify.com/track/1GxXymBkVQJtSPZhiyl2wZ"
     },
     {
       "album": {
@@ -142245,6 +142281,24 @@
     },
     {
       "album": {
+        "name": "LOVE METHOD",
+        "url": "https://open.spotify.com/album/5zost1gA608aEdWJDqDm5n"
+      },
+      "artists": [
+        {
+          "name": "JUNHEE",
+          "url": "https://open.spotify.com/artist/19edNqjH3rTGrvHs9VF9Xe"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "LA LA LA LUNE",
+      "url": "https://open.spotify.com/track/6XTVVnu5nsIslTKdW60K3K"
+    },
+    {
+      "album": {
         "name": "Backspace",
         "url": "https://open.spotify.com/album/4A56c0HYteRx4pkGzXF7Ia"
       },
@@ -184390,6 +184444,24 @@
       "duration_ms": 165493,
       "name": "No MBTI",
       "url": "https://open.spotify.com/track/0ElgcgukyFblmSOu1IDFhu"
+    },
+    {
+      "album": {
+        "name": "Flex x Cop 2, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2hnqhAR3MYrbMFXwyY8Rxd"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "No Mercy (Flex x Cop 2 : Original Television Soundtrack)",
+      "url": "https://open.spotify.com/track/3UEeQLXPC2NdIIAIt8TlcG"
     },
     {
       "album": {
@@ -235096,6 +235168,24 @@
     {
       "album": {
         "name": "Someday",
+        "url": "https://open.spotify.com/album/3kCOfgr7Y32GPtDFoYBbUU"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223973,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/0iqIjgBCbWsJLZ27FWqy49"
+    },
+    {
+      "album": {
+        "name": "Someday",
         "url": "https://open.spotify.com/album/35bPymZ8g5lxGljWDL888d"
       },
       "artists": [
@@ -249168,7 +249258,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 156611,
       "name": "Sunkiss (Feat. Junji)",
       "url": "https://open.spotify.com/track/3L8DI63VYDUtdmlQK8KjjA"
@@ -264381,6 +264471,24 @@
     },
     {
       "album": {
+        "name": "THIS & THAT",
+        "url": "https://open.spotify.com/album/1iiy1LLzQC0HPFmhWyWyhl"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "This & That",
+      "url": "https://open.spotify.com/track/5fpxAkg76WAje8y1RPNEQ3"
+    },
+    {
+      "album": {
         "name": "Cold WRLD",
         "url": "https://open.spotify.com/album/5Z1YnjWBqrlmRdWbCXtlqW"
       },
@@ -270602,6 +270710,24 @@
       "duration_ms": 255013,
       "name": "too late to love you",
       "url": "https://open.spotify.com/track/1zVva32WyvjVO5SHcmBP6u"
+    },
+    {
+      "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/439Uk5AQ2A9SQxvB5CHL4l"
+      },
+      "artists": [
+        {
+          "name": "DAWN \ub358",
+          "url": "https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189662,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/3ZMibEvGGGgBC9diuWS7hA"
     },
     {
       "album": {
@@ -283616,6 +283742,24 @@
       "duration_ms": 163773,
       "name": "Way U Are (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP"
+    },
+    {
+      "album": {
+        "name": "WAYF BOYS DO",
+        "url": "https://open.spotify.com/album/1TUior96JLdFph4eqmQHcS"
+      },
+      "artists": [
+        {
+          "name": "WAYF BOYS",
+          "url": "https://open.spotify.com/artist/1jTKZZY2LPLQxovKq7vIFC"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166793,
+      "name": "WAYF BOYS DO",
+      "url": "https://open.spotify.com/track/7fqDQwY9YBGrEPaoicaVpV"
     },
     {
       "album": {
@@ -301186,6 +301330,24 @@
       "duration_ms": 168000,
       "name": "You are so perfect (2025)",
       "url": "https://open.spotify.com/track/6yyA90sgGlDxn5fXhfoUOr"
+    },
+    {
+      "album": {
+        "name": "You are so pretty \u3008Sanullim's 50th Anniversary Collaboration Album\u3009",
+        "url": "https://open.spotify.com/album/5PuA51HWIecxYSLzhvFhPg"
+      },
+      "artists": [
+        {
+          "name": "MGFF",
+          "url": "https://open.spotify.com/artist/0gnodTptHI3U140iAE7HDl"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "You are so pretty",
+      "url": "https://open.spotify.com/track/1NDOD8gL13w97fh3ess75o"
     },
     {
       "album": {

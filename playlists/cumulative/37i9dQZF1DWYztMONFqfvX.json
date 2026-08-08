@@ -1644,7 +1644,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 315378,
       "name": "Gulon Mein Rang Bhare",
       "url": "https://open.spotify.com/track/57TekJn37PJuZyHoVP1bgM"
@@ -4198,6 +4198,36 @@
       "duration_ms": 266094,
       "name": "Tere Pyaar Mein",
       "url": "https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm"
+    },
+    {
+      "album": {
+        "name": "Tere Sang (Arijit Singh Reprise) [From \"Echoes Of Us\"]",
+        "url": "https://open.spotify.com/album/6q1yGDlhNS7eL7HiTspcFU"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Iulia Vantur",
+          "url": "https://open.spotify.com/artist/2zLJk6hSb9TMtU8XZ6Ne7t"
+        },
+        {
+          "name": "Vaishnavi Sharma",
+          "url": "https://open.spotify.com/artist/74LHircUHAQEM7oBJAPr2Z"
+        },
+        {
+          "name": "Shivai Vyas",
+          "url": "https://open.spotify.com/artist/37q4Yd87zFhJmXx5Xn7v35"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Tere Sang (Arijit Singh Reprise) [From \"Echoes Of Us\"]",
+      "url": "https://open.spotify.com/track/1QBLCHKxit3hSl1cZjFYiR"
     },
     {
       "album": {

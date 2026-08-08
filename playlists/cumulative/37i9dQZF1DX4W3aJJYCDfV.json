@@ -168568,6 +168568,10 @@
         {
           "name": "Tinie Tempah",
           "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        },
+        {
+          "name": "Reggie",
+          "url": "https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X"
         }
       ],
       "date_added": "2026-08-06",
@@ -171404,6 +171408,32 @@
       "duration_ms": 189680,
       "name": "HEYA",
       "url": "https://open.spotify.com/track/1jXkl4Jv3iiX0Maj77witN"
+    },
+    {
+      "album": {
+        "name": "Goodbye 2012!",
+        "url": "https://open.spotify.com/album/3tQeF8yT6b0WYUUZG8KTyi"
+      },
+      "artists": [
+        {
+          "name": "Coupdekat",
+          "url": "https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0"
+        },
+        {
+          "name": "Natalie Red",
+          "url": "https://open.spotify.com/artist/38EW5PoQXJSd0tRuhmMbFL"
+        },
+        {
+          "name": "Ruby Bell",
+          "url": "https://open.spotify.com/artist/3V8Eb1ys7e90m3eXLIWRSO"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182879,
+      "name": "heyyy",
+      "url": "https://open.spotify.com/track/1nmodCSw2Iny0LJcvbFq78"
     },
     {
       "album": {
@@ -405248,24 +405278,6 @@
       "duration_ms": 246078,
       "name": "Tracing Lines",
       "url": "https://open.spotify.com/track/3HD4vh1AGcy0ub2OMfzPJL"
-    },
-    {
-      "album": {
-        "name": "Goodbye 2012!",
-        "url": "https://open.spotify.com/album/3tQeF8yT6b0WYUUZG8KTyi"
-      },
-      "artists": [
-        {
-          "name": "Coupdekat",
-          "url": "https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0"
-        }
-      ],
-      "date_added": "2026-08-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/1nmodCSw2Iny0LJcvbFq78"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Unwind and relax to the soft sound of jazz piano. ",
-  "num_followers": 369559,
+  "num_followers": 369572,
   "original_name": "Relaxing Jazz Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGW3pVaIc4fNyrfeRuGwczamEfOD",
+  "snapshot_id": "AAAAAB63aF4VoanqdcTbKBeCsNeqXoCz",
   "tracks": [
     {
       "added_at": "2026-05-25 14:11:39",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Evening Stillness",
-        "url": "https://open.spotify.com/album/21ilrSeAMjosU30MpOoa0v"
-      },
-      "artists": [
-        {
-          "name": "John B\u00fclow",
-          "url": "https://open.spotify.com/artist/4OEyfZj87mjPEIZWQZITep"
-        }
-      ],
-      "duration_ms": 198437,
-      "name": "Evening Stillness",
-      "url": "https://open.spotify.com/track/5WEjTSODeUsYMsQVEHBs1E"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "Everyone Will Know",
         "url": "https://open.spotify.com/album/1c19UtVFYbhGNPIPkAbHL9"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 173318,
       "name": "Everyone Will Know",
       "url": "https://open.spotify.com/track/1ZWDi0dUOje7fcTGS14rzC"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "Evening Stillness",
+        "url": "https://open.spotify.com/album/21ilrSeAMjosU30MpOoa0v"
+      },
+      "artists": [
+        {
+          "name": "John B\u00fclow",
+          "url": "https://open.spotify.com/artist/4OEyfZj87mjPEIZWQZITep"
+        }
+      ],
+      "duration_ms": 198437,
+      "name": "Evening Stillness",
+      "url": "https://open.spotify.com/track/5WEjTSODeUsYMsQVEHBs1E"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "A Fourth Thought",
-        "url": "https://open.spotify.com/album/2C2Qx2Gu3J2rpV1nflr0zE"
-      },
-      "artists": [
-        {
-          "name": "Alur Mcrose",
-          "url": "https://open.spotify.com/artist/4yKXNGfD6RAqqj8VmLQSvF"
-        }
-      ],
-      "duration_ms": 147690,
-      "name": "A Fourth Thought",
-      "url": "https://open.spotify.com/track/163uckCvEz1DOUbpDqjJ7V"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "promenade",
         "url": "https://open.spotify.com/album/7Ctg2u11AefozpBYpyT9qb"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 163566,
       "name": "promenade",
       "url": "https://open.spotify.com/track/2r451wKpR4AKtqD0bvAyAR"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "A Fourth Thought",
+        "url": "https://open.spotify.com/album/2C2Qx2Gu3J2rpV1nflr0zE"
+      },
+      "artists": [
+        {
+          "name": "Alur Mcrose",
+          "url": "https://open.spotify.com/artist/4yKXNGfD6RAqqj8VmLQSvF"
+        }
+      ],
+      "duration_ms": 147690,
+      "name": "A Fourth Thought",
+      "url": "https://open.spotify.com/track/163uckCvEz1DOUbpDqjJ7V"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Midnight on 5th Avenue",
-        "url": "https://open.spotify.com/album/5e3YlISXye6cegkORKd27J"
-      },
-      "artists": [
-        {
-          "name": "Hans Bukowski",
-          "url": "https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi"
-        }
-      ],
-      "duration_ms": 180259,
-      "name": "Midnight on 5th Avenue",
-      "url": "https://open.spotify.com/track/6qSZ4ntHZPh6FplkbDwOdv"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "Bewitched",
         "url": "https://open.spotify.com/album/2Q5XyVFJf8Lloo3zLhltgJ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 159615,
       "name": "Bewitched",
       "url": "https://open.spotify.com/track/1cnHFlrnkjFcXA7np39uAd"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "Midnight on 5th Avenue",
+        "url": "https://open.spotify.com/album/5e3YlISXye6cegkORKd27J"
+      },
+      "artists": [
+        {
+          "name": "Hans Bukowski",
+          "url": "https://open.spotify.com/artist/3Vc2GbgFE5kQCvG6Td2vDi"
+        }
+      ],
+      "duration_ms": 180259,
+      "name": "Midnight on 5th Avenue",
+      "url": "https://open.spotify.com/track/6qSZ4ntHZPh6FplkbDwOdv"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "The old train",
-        "url": "https://open.spotify.com/album/0AMT378RSZtNOXrzDNkkZJ"
-      },
-      "artists": [
-        {
-          "name": "Stefan Scholz",
-          "url": "https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy"
-        }
-      ],
-      "duration_ms": 183109,
-      "name": "The old train",
-      "url": "https://open.spotify.com/track/5ymsU4g64so81Y4LyFs2PJ"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "Last thought",
         "url": "https://open.spotify.com/album/3xJcKbBZtAWKeSEOOeLDAe"
       },
@@ -1191,22 +1175,6 @@
       "duration_ms": 169952,
       "name": "Last thought",
       "url": "https://open.spotify.com/track/4NxOiE9mgIrdo3aCyD0vCi"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
-        "name": "Says Nothing",
-        "url": "https://open.spotify.com/album/1SkzCnyBGWs8cw3MESTZ9m"
-      },
-      "artists": [
-        {
-          "name": "Gottfried Barber",
-          "url": "https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl"
-        }
-      ],
-      "duration_ms": 164351,
-      "name": "Says Nothing",
-      "url": "https://open.spotify.com/track/6OmanS9tVYUZhYdOOlbowM"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -1227,6 +1195,38 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
+        "name": "The old train",
+        "url": "https://open.spotify.com/album/0AMT378RSZtNOXrzDNkkZJ"
+      },
+      "artists": [
+        {
+          "name": "Stefan Scholz",
+          "url": "https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy"
+        }
+      ],
+      "duration_ms": 183109,
+      "name": "The old train",
+      "url": "https://open.spotify.com/track/5ymsU4g64so81Y4LyFs2PJ"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "Says Nothing",
+        "url": "https://open.spotify.com/album/1SkzCnyBGWs8cw3MESTZ9m"
+      },
+      "artists": [
+        {
+          "name": "Gottfried Barber",
+          "url": "https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl"
+        }
+      ],
+      "duration_ms": 164351,
+      "name": "Says Nothing",
+      "url": "https://open.spotify.com/track/6OmanS9tVYUZhYdOOlbowM"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
         "name": "At The Core",
         "url": "https://open.spotify.com/album/37eEka6JOchS6lvRD1k9VF"
       },
@@ -1239,22 +1239,6 @@
       "duration_ms": 190882,
       "name": "At The Core",
       "url": "https://open.spotify.com/track/6T5aKm6NU1JGdhYe4dqRVT"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
-        "name": "You're glowing",
-        "url": "https://open.spotify.com/album/5IJeiLHGAAjCYSos8mkp02"
-      },
-      "artists": [
-        {
-          "name": "Stefan Scholz",
-          "url": "https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy"
-        }
-      ],
-      "duration_ms": 161950,
-      "name": "You're glowing",
-      "url": "https://open.spotify.com/track/5TsR9Rig5dmMzMuAhz9XSM"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -1287,6 +1271,22 @@
       "duration_ms": 184272,
       "name": "Grindavik",
       "url": "https://open.spotify.com/track/6GWCFQA9xGMcwN5kkzPqXf"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "You're glowing",
+        "url": "https://open.spotify.com/album/5IJeiLHGAAjCYSos8mkp02"
+      },
+      "artists": [
+        {
+          "name": "Stefan Scholz",
+          "url": "https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy"
+        }
+      ],
+      "duration_ms": 161950,
+      "name": "You're glowing",
+      "url": "https://open.spotify.com/track/5TsR9Rig5dmMzMuAhz9XSM"
     },
     {
       "added_at": "2026-05-25 14:11:39",

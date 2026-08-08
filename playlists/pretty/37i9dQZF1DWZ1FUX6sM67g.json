@@ -1,12 +1,12 @@
 {
   "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Silvestre Dangond y Elena Rose",
-  "num_followers": 476051,
+  "num_followers": 476049,
   "original_name": "Punto Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIr0ayuziv56X345p3JESuKEFiiO",
+  "snapshot_id": "AAAAADveqOUDSspKi1NWz3hXA1vBdJRc",
   "tracks": [
     {
       "added_at": "2026-07-31 04:59:17",
@@ -29,6 +29,22 @@
       "url": "https://open.spotify.com/track/3ZBeHVnqHHMOmv1ofhq6T0"
     },
     {
+      "added_at": "2026-08-07 04:59:17",
+      "album": {
+        "name": "A Mi Tierra",
+        "url": "https://open.spotify.com/album/6GECy1dVAcB6J1uGjMnn03"
+      },
+      "artists": [
+        {
+          "name": "Adriana Lucia",
+          "url": "https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o"
+        }
+      ],
+      "duration_ms": 205325,
+      "name": "A Mi Tierra",
+      "url": "https://open.spotify.com/track/5YdfRELV93WXtfJ0W0bnM5"
+    },
+    {
       "added_at": "2026-05-15 04:59:16",
       "album": {
         "name": "Tu recuerdo",
@@ -43,22 +59,6 @@
       "duration_ms": 235714,
       "name": "Tu recuerdo",
       "url": "https://open.spotify.com/track/1RqUyxhNCRqfXOzA2Z2NEf"
-    },
-    {
-      "added_at": "2026-05-29 04:59:20",
-      "album": {
-        "name": "La Voz Favorita",
-        "url": "https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 282216,
-      "name": "Rubio",
-      "url": "https://open.spotify.com/track/1koGYZiLV7pcmxT2FF8LNw"
     },
     {
       "added_at": "2026-06-12 04:59:22",
@@ -119,6 +119,22 @@
       "duration_ms": 220407,
       "name": "mariposas en el est\u00f3mago",
       "url": "https://open.spotify.com/track/5tn1VPSdS9fHnvX58JjBIT"
+    },
+    {
+      "added_at": "2026-05-29 04:59:20",
+      "album": {
+        "name": "La Voz Favorita",
+        "url": "https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 282216,
+      "name": "Rubio",
+      "url": "https://open.spotify.com/track/1koGYZiLV7pcmxT2FF8LNw"
     },
     {
       "added_at": "2026-03-26 19:01:46",
@@ -351,6 +367,22 @@
       "duration_ms": 207333,
       "name": "Vale la Pena",
       "url": "https://open.spotify.com/track/4vpii4xtBH8pAgUn8acSGy"
+    },
+    {
+      "added_at": "2026-08-07 04:59:17",
+      "album": {
+        "name": "Andr\u00e9s Cepeda Big Band 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/0fHDVxeLaVosk2hNYpRoWz"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "duration_ms": 166549,
+      "name": "El Merecumb\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/3r1pPqfX80lPStJDuoagAi"
     },
     {
       "added_at": "2026-03-26 19:01:46",
@@ -887,26 +919,6 @@
     {
       "added_at": "2026-03-26 19:01:46",
       "album": {
-        "name": "D\u00e9cimo Cuarto",
-        "url": "https://open.spotify.com/album/6r3VanD8h5L9I155ahVVi2"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 173796,
-      "name": "Le Viene Bien",
-      "url": "https://open.spotify.com/track/7r13JeH7jMKCrAJvtcfiL3"
-    },
-    {
-      "added_at": "2026-03-26 19:01:46",
-      "album": {
         "name": "Si T\u00fa Me Quieres",
         "url": "https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY"
       },
@@ -1079,26 +1091,6 @@
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
-    },
-    {
-      "added_at": "2026-03-26 19:01:46",
-      "album": {
-        "name": "Se\u00f1or Juez",
-        "url": "https://open.spotify.com/album/7jAArelViCK8oA7Anmlw5v"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 264757,
-      "name": "Se\u00f1or Juez",
-      "url": "https://open.spotify.com/track/2PH533J1xudlfZ5GaHAdVX"
     },
     {
       "added_at": "2026-03-26 19:01:46",

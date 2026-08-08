@@ -2,9 +2,9 @@
 
 ### [Sora Ambient](https://open.spotify.com/playlist/37i9dQZF1DWZqNqPemiefM)
 
-> The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: Jonny Nash × Tomo Katsurada
+> The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: maya ongaku
 
-1,071 songs - 3 day 8 hr 39 min
+1,072 songs - 3 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -655,6 +655,7 @@
 | [People On Sunday](https://open.spotify.com/track/5GY0OnbXEa7rMivlDo13Xl) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/28FDXQ7lbkhDQBN7fhxbh4) | 3:45 | 2025-08-29 | 2026-01-24 |
 | [perfect drawing](https://open.spotify.com/track/6To87kWCF7WHTV1JnPuOVn) | [birds humming the beat](https://open.spotify.com/artist/1uDjTj9C93enyzFd5lJ0sZ) | [perfect drawing](https://open.spotify.com/album/1Bc92sRV3kRlmRaI80tnk1) | 4:51 | 2022-04-28 | 2022-07-29 |
 | [Permanent Vacation](https://open.spotify.com/track/2TB6VjgjeY6lElURwtB5Eg) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Permanent Vacation](https://open.spotify.com/album/5gAZ3nPwUIKqsljcfaUlI1) | 4:16 | 2026-03-12 | 2026-06-26 |
+| [Permanent Waves](https://open.spotify.com/track/1DIGN9sQIfLV16ebqVQloc) | [maya ongaku](https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5) | [Nothing Space Music](https://open.spotify.com/album/0LVls3YIcjSXh0Mv08HYep) | 5:09 | 2026-08-07 |  |
 | [Photosynthese](https://open.spotify.com/track/5qYwa7b6oBMg3L1Lrr7bib) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Sonne und Wasser](https://open.spotify.com/album/0DPw8nGwiZBAQGlA2fv9wf) | 8:02 | 2022-03-31 | 2022-07-27 |
 | [Pierrepont](https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Pierrepont](https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR) | 4:30 | 2022-09-22 | 2023-10-11 |
 | [Pierrepont](https://open.spotify.com/track/1Nf9vSy4tVnT3yMsnR5CVP) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [unpeople](https://open.spotify.com/album/1Ot0Gz2lPVgWSKK0ErnCxI) | 4:33 | 2024-02-08 | 2026-05-10 |

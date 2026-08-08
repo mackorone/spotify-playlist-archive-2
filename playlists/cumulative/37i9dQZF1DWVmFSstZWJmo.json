@@ -306,7 +306,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 297312,
       "name": "ARE U OK",
       "url": "https://open.spotify.com/track/06vzV7ce5wetdKDnIGHA7L"
@@ -778,7 +778,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 145266,
       "name": "Cousins",
       "url": "https://open.spotify.com/track/4tFOkEWNXiheSDnURpmGTp"
@@ -3150,7 +3150,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 165000,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/4jnzloLGQNJy7sYjabVSaZ"
@@ -3935,6 +3935,24 @@
     },
     {
       "album": {
+        "name": "Read My Lips",
+        "url": "https://open.spotify.com/album/0DkRtOUeRlLA5Hi5JrAiVU"
+      },
+      "artists": [
+        {
+          "name": "aka Vinnie",
+          "url": "https://open.spotify.com/artist/6UnSeTHLUTc13ReMW40rJe"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198306,
+      "name": "Read My Lips",
+      "url": "https://open.spotify.com/track/27yzgKLVz9UZ40aPpFSdTu"
+    },
+    {
+      "album": {
         "name": "Made In The Dark",
         "url": "https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ"
       },
@@ -4058,6 +4076,24 @@
       "duration_ms": 229893,
       "name": "Rill Rill",
       "url": "https://open.spotify.com/track/0Z7b5GlC70FAES1YduhhqQ"
+    },
+    {
+      "album": {
+        "name": "rockstar",
+        "url": "https://open.spotify.com/album/5YcoWm7QkA3DfPOy3Vh32Y"
+      },
+      "artists": [
+        {
+          "name": "Romeo Has A Gun",
+          "url": "https://open.spotify.com/artist/229hIWTYgfF2OQxd7UqifF"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "rockstar",
+      "url": "https://open.spotify.com/track/58hxnWxcd21upu3864JX8P"
     },
     {
       "album": {

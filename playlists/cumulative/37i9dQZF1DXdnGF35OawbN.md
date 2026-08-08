@@ -4,7 +4,7 @@
 
 > El soundtrack del verano 2026 🏝️ Cover: Kapo
 
-455 songs - 1 day 0 hr 31 min
+456 songs - 1 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,7 +370,7 @@
 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2024-06-21 |  |
 | [SI NO ES CONTIGO](https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [SI NO ES CONTIGO](https://open.spotify.com/album/4ecjQGViGCD4snnZ3QJOEL) | 2:36 | 2024-05-31 | 2025-05-24 |
 | [si te pillara](https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 3:04 | 2025-07-01 |  |
-| [Si tú supieras…](https://open.spotify.com/track/6aPlrDbqDmON1KAkUn4D6U) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [babylona blue](https://open.spotify.com/album/6Q4c6DexERmNLUyDeTj738) | 2:20 | 2026-07-03 |  |
+| [Si tú supieras…](https://open.spotify.com/track/6aPlrDbqDmON1KAkUn4D6U) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [babylona blue](https://open.spotify.com/album/6Q4c6DexERmNLUyDeTj738) | 2:20 | 2026-07-03 | 2026-08-08 |
 | [Sigo Enamorau'](https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:14 | 2024-04-30 | 2024-07-13 |
 | [Sin Gato \(MIAU!\)](https://open.spotify.com/track/7fHyvps8HsC8dFO3mQ3Itv) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [AfroLOVA' 23](https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP) | 2:28 | 2023-08-16 | 2023-11-18 |
 | [SINCERAMENTE](https://open.spotify.com/track/7xqF5MczPpjW4NLXF2CL88) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [LOS MUCHACHOS](https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa) | 3:19 | 2023-12-07 | 2024-01-07 |
@@ -462,6 +462,7 @@
 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-03-07 | 2024-04-27 |
 | [YO y TÚ](https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [YO y TÚ](https://open.spotify.com/album/1PxEMXkwLR7sfCMAuX50jM) | 3:18 | 2025-07-01 |  |
 | [YOTULOKO](https://open.spotify.com/track/49kkoKoXAnjNRlxot1ZnlW) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [YOTULOKO](https://open.spotify.com/album/3V37s4pn223tqV4S1roCNW) | 3:33 | 2024-07-12 | 2025-03-27 |
+| [ZIZI](https://open.spotify.com/track/5BsvzSvw98mLqpZznMjuLX) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [ZIZI](https://open.spotify.com/album/4f0YTBqSbvM1iJpuY9r3yQ) | 4:02 | 2026-08-07 |  |
 | [Ánimo](https://open.spotify.com/track/1J7l2ogr9ar2kqpzjhZdB7) | [Gotay "El Autentiko"](https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o) | [C.A.N.T.](https://open.spotify.com/album/3Qz1yODjYJ1osGBmxNZj4d) | 3:23 | 2021-11-10 | 2022-06-13 |
 
 \*This playlist was first scraped on 2022-01-13. Prior content cannot be recovered.

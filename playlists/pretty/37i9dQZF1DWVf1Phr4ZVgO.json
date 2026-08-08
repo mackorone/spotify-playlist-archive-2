@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1204200,
+  "num_followers": 1204280,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH5IQnYEK48PwVG4Pdy+tD6H1Y57",
+  "snapshot_id": "AAAAACIFrNj7FcesYhOq7oCrFJxc9H8z",
   "tracks": [
     {
       "added_at": "2026-02-09 08:20:39",
@@ -363,26 +363,6 @@
     {
       "added_at": "2026-02-09 08:20:39",
       "album": {
-        "name": "Johnny's Greatest Hits",
-        "url": "https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1"
-      },
-      "artists": [
-        {
-          "name": "Johnny Mathis",
-          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
-        },
-        {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
-        }
-      ],
-      "duration_ms": 182450,
-      "name": "Chances Are (with Ray Conniff & His Orchestra)",
-      "url": "https://open.spotify.com/track/6sAcECONsANle5n0rnP2at"
-    },
-    {
-      "added_at": "2026-02-09 08:20:39",
-      "album": {
         "name": "Skylark (Std. Version)",
         "url": "https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 283093,
       "name": "When I Fall in Love (feat. Chris Botti)",
       "url": "https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT"
+    },
+    {
+      "added_at": "2026-02-09 08:20:39",
+      "album": {
+        "name": "Johnny's Greatest Hits",
+        "url": "https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        },
+        {
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+        }
+      ],
+      "duration_ms": 182450,
+      "name": "Chances Are (with Ray Conniff & His Orchestra)",
+      "url": "https://open.spotify.com/track/6sAcECONsANle5n0rnP2at"
     },
     {
       "added_at": "2026-02-09 08:20:39",

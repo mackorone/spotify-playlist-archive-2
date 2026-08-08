@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 
 > This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,411 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,434 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 21 | [B.A.S\. \(feat\. Kyle Richh\)](https://open.spotify.com/track/3pR7ZToCrzeNkfEf6n2rVR) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 3:26 |
 | 22 | [LOVER GIRL](https://open.spotify.com/track/3t6kNqWEd1CPE2nPz6wcQg) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [LOVER GIRL](https://open.spotify.com/album/5919KmtJqUR1VqkXJEH2US) | 4:24 |
 | 23 | [Body](https://open.spotify.com/track/0A1hoCfMLkiAgvhWkkucJa) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:51 |
-| 24 | [Motion Party \(Remix\)](https://open.spotify.com/track/6ZSDvXbaeuGeCwiPJCfOwG) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Motion Party \(Remix\)](https://open.spotify.com/album/4zMIJXXO6hA9UgJXlb6zvQ) | 2:36 |
-| 25 | [Savage](https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Suga](https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI) | 2:35 |
+| 24 | [Savage](https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Suga](https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI) | 2:35 |
+| 25 | [Motion Party \(Remix\)](https://open.spotify.com/track/6ZSDvXbaeuGeCwiPJCfOwG) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Motion Party \(Remix\)](https://open.spotify.com/album/4zMIJXXO6hA9UgJXlb6zvQ) | 2:36 |
 | 26 | [Otaku Hot Girl](https://open.spotify.com/track/6saYisCUAZXc505blie9kZ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:38 |
 | 27 | [Girls in the Hood](https://open.spotify.com/track/7yiSvALPjMrBLDDrbcDRNy) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:34 |
 | 28 | [Her](https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:17 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 31 | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/track/474VqnPDr0251lsQBB8sQB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Butter \(Megan Thee Stallion Remix\)](https://open.spotify.com/album/0ze8IhE4fLLfu5lET12g5v) | 2:44 |
 | 32 | [HISS](https://open.spotify.com/track/1a9dUxIQ2ehPH3992H9uPe) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 3:12 |
 | 33 | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ) | 2:55 |
-| 34 | [Rapunzel \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/03qZDQKRYZdjhKsQ5G5H0t) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 2:45 |
-| 35 | [He Think I Love Him](https://open.spotify.com/track/1BllxkhLaC2xvKNLSEZIKL) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN: ACT II](https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR) | 1:35 |
+| 34 | [He Think I Love Him](https://open.spotify.com/track/1BllxkhLaC2xvKNLSEZIKL) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN: ACT II](https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR) | 1:35 |
+| 35 | [Rapunzel \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/03qZDQKRYZdjhKsQ5G5H0t) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 2:45 |
 | 36 | [Where Them Girls At](https://open.spotify.com/track/2OUK5td58k4BV2GvFdfdzr) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 3:11 |
 | 37 | [Anxiety](https://open.spotify.com/track/6Ve9MNsl8OFg6rHd227bYh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:15 |
 | 38 | [Captain Hook](https://open.spotify.com/track/1E3VQQWFQAPJkXfYHjqWoI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Suga](https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 49 | [Budget \(feat\. Latto\)](https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 3:21 |
 | 50 | [Right Now](https://open.spotify.com/track/6qzZLA8bDM3wsAzTK4PvSX) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN: ACT II](https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR) | 2:52 |
 
-Snapshot ID: `anJ9AAAAAABwKEcCr2eh0SztM+Kzo9iu`
+Snapshot ID: `anPOgAAAAADgtS/t21yK4dad2vkLNkw7`

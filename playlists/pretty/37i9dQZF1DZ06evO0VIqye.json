@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Jett & the Blackhearts. The essential tracks, all in one playlist.",
-  "num_followers": 62515,
+  "num_followers": 62518,
   "original_name": "This Is Joan Jett & the Blackhearts",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAADF2RcCY/wJR137vD20RV33",
+  "snapshot_id": "anPOgAAAAAAEnuRYPPfCKLF89iKyEQ4z",
   "tracks": [
     {
       "added_at": null,
@@ -371,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Essentials",
+        "url": "https://open.spotify.com/album/0eSjKB1TVEDXH1QAJNj9PG"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "You Drive Me Wild",
+      "url": "https://open.spotify.com/track/2ZSDEBnyfkCHNdllWJqxNG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bad Reputation (Expanded Edition)",
         "url": "https://open.spotify.com/album/4xAJmkDRtJcSmRWpAEtRRB"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 168400,
       "name": "Shout",
       "url": "https://open.spotify.com/track/1DydpBvRaDWShDDhLWt9pb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "First Sessions",
-        "url": "https://open.spotify.com/album/7i1OFBJxdffF2n51eE8DWv"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 161066,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/3k3HYJsn50Gq3dEwD43tA1"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Essentials",
-        "url": "https://open.spotify.com/album/0eSjKB1TVEDXH1QAJNj9PG"
+        "name": "First Sessions",
+        "url": "https://open.spotify.com/album/7i1OFBJxdffF2n51eE8DWv"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 232333,
-      "name": "You Drive Me Wild",
-      "url": "https://open.spotify.com/track/2ZSDEBnyfkCHNdllWJqxNG"
+      "duration_ms": 161066,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/3k3HYJsn50Gq3dEwD43tA1"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Music",
-        "url": "https://open.spotify.com/album/2bwQ6NSbu002DTWRKIbk6D"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 345000,
-      "name": "Good Music",
-      "url": "https://open.spotify.com/track/3H3e9wWaEjGDjPxZYVkNHp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/6qang4P5Ki0TKkQUl61hZc"
       },
@@ -611,22 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake Friends",
-        "url": "https://open.spotify.com/album/6mEhhqIxasWb9MAc2thrPR"
+        "name": "Good Music",
+        "url": "https://open.spotify.com/album/2bwQ6NSbu002DTWRKIbk6D"
       },
       "artists": [
-        {
-          "name": "L7",
-          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
-        },
         {
           "name": "Joan Jett & the Blackhearts",
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 188880,
-      "name": "Fake Friends (feat. Joan Jett)",
-      "url": "https://open.spotify.com/track/7l24L0JxuMCU14BJk5rTPS"
+      "duration_ms": 345000,
+      "name": "Good Music",
+      "url": "https://open.spotify.com/track/3H3e9wWaEjGDjPxZYVkNHp"
     },
     {
       "added_at": null,
@@ -659,6 +639,26 @@
       "duration_ms": 182800,
       "name": "I Love Playin' With Fire",
       "url": "https://open.spotify.com/track/3umY8W04g6IleknmXNEPVV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fake Friends",
+        "url": "https://open.spotify.com/album/6mEhhqIxasWb9MAc2thrPR"
+      },
+      "artists": [
+        {
+          "name": "L7",
+          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
+        },
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 188880,
+      "name": "Fake Friends (feat. Joan Jett)",
+      "url": "https://open.spotify.com/track/7l24L0JxuMCU14BJk5rTPS"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Changeup (Acoustic)",
-        "url": "https://open.spotify.com/album/4WC5cA9ntbziydoSV7bMlT"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Long Time - (Acoustic)",
-      "url": "https://open.spotify.com/track/0JbcL4u8q5BScIsMsz9Bb5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dr. Demento Covered In Punk",
         "url": "https://open.spotify.com/album/2uGft4b3hT4lbPEeg89wh3"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 234795,
       "name": "Science Fiction/Double Feature",
       "url": "https://open.spotify.com/track/4Ox0knu2d0pShadIkPIjeh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Changeup (Acoustic)",
+        "url": "https://open.spotify.com/album/4WC5cA9ntbziydoSV7bMlT"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Long Time - (Acoustic)",
+      "url": "https://open.spotify.com/track/0JbcL4u8q5BScIsMsz9Bb5"
     },
     {
       "added_at": null,

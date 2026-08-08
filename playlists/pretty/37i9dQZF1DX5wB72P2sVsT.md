@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 
 > HUGEL au top des bangers dance/electro du moment !
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,438 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,458 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 | 39 | [Awake Tonight](https://open.spotify.com/track/4Vdes3GjtIqdFskoWbVYnP) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Awake Tonight](https://open.spotify.com/album/2JVYUljpOqknjBvxeSIFB0) | 3:10 |
 | 40 | [Boys Don't Cry](https://open.spotify.com/track/0TDWLRlQZolhApIkNePfNp) | [Bormin’](https://open.spotify.com/artist/2DCCeNy7EIhIt2TceZELw5), [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq) | [Boys Don't Cry](https://open.spotify.com/album/3eUdaXbeIq9JGh3nBsyGX0) | 2:13 |
 
-Snapshot ID: `AAAAAC38L+liifpbpHBXShv58x1aLIV4`
+Snapshot ID: `AAAAACPFJPraW9YFwaF6f+U8zM9VvcTm`

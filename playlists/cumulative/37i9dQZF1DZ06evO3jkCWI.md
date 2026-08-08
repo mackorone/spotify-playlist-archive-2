@@ -4,7 +4,7 @@
 
 > This is Los Invasores De Nuevo León\. The essential tracks, all in one playlist.
 
-110 songs - 5 hr 27 min
+111 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Degenerado](https://open.spotify.com/track/413NV5nNVfbEh7vG1x2GTl) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Mi Héroe](https://open.spotify.com/album/1Flg5XJrhqjvd70wX6QV9C) | 2:39 | 2022-06-01 |  |
 | [Derrotado Corazón](https://open.spotify.com/track/0rCMtvxL1xtZe4qkEm2cix) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Aguanta Corazón](https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5) | 2:51 | 2022-06-06 | 2026-04-26 |
 | [Dios No Lo Quiera](https://open.spotify.com/track/3ujr1xnvt5kxuEfAwxuvKf) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 3:27 | 2022-06-01 | 2026-04-05 |
+| [Dios No Lo Quiera](https://open.spotify.com/track/4AS7TdXyndLscNSLybJuA9) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Jardín Del Amor](https://open.spotify.com/album/2iZQVldZBZhB7uz4XVtl8M) | 3:34 | 2026-08-08 |  |
 | [Distancia Maldita](https://open.spotify.com/track/3RhNtiTs0FwK9RpZpP7Xf8) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Es Demasiado Tarde](https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx) | 3:06 | 2022-06-01 |  |
 | [El Amor De Nosotros](https://open.spotify.com/track/2APZe1mAUx8lMfFVP2f7AA) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Mi Flor De Naranjo](https://open.spotify.com/album/5phLi5dStR0wTk1hGYC2Q3) | 2:30 | 2022-06-17 |  |
 | [El Calabaceado](https://open.spotify.com/track/1oJHl4NMi38rzFTlEItTHF) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [El Calabaceado](https://open.spotify.com/album/70CuV3x2GVtz0b6LI48r4S) | 2:40 | 2025-01-12 | 2025-02-23 |
@@ -38,7 +39,7 @@
 | [El Preso de Nuevo León](https://open.spotify.com/track/6wxe34W9Vy8PWwlkIy0Bf4) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [22 Exitos](https://open.spotify.com/album/1Clyyw4jsXIdcZ9ZXV8GOk) | 3:01 | 2022-06-01 | 2022-10-13 |
 | [El Preso De Nuevo León](https://open.spotify.com/track/3lu45Zgfj4pRDen29QsZGx) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:04 | 2024-01-31 | 2025-11-16 |
 | [El Profugo De Tijuana](https://open.spotify.com/track/48tDkYg8Ih9b7YuPKyufEl) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos De Pegue](https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q) | 2:44 | 2022-06-02 | 2022-10-05 |
-| [El Prófugo De Tijuana](https://open.spotify.com/track/5Yn20NlbZW7DLppF7y8Vwa) | [Explosion Nortena](https://open.spotify.com/artist/3iAoPIsx4h1blFVmNMSJG9), [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [El Prófugo De Tijuana](https://open.spotify.com/album/5IxubunJ6DG3BLd7CKKg5N) | 2:48 | 2026-07-12 |  |
+| [El Prófugo De Tijuana](https://open.spotify.com/track/5Yn20NlbZW7DLppF7y8Vwa) | [Explosion Nortena](https://open.spotify.com/artist/3iAoPIsx4h1blFVmNMSJG9), [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [El Prófugo De Tijuana](https://open.spotify.com/album/5IxubunJ6DG3BLd7CKKg5N) | 2:48 | 2026-07-12 | 2026-08-08 |
 | [El Subteniente De Linares](https://open.spotify.com/track/2BYl5gcl27mUpslIRy8MUX) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos De Pegue](https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q) | 3:31 | 2022-06-01 |  |
 | [El Ultimo Cartucho](https://open.spotify.com/track/3khgsGxNwXijlqyStMvpfh) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:21 | 2022-06-01 | 2026-02-23 |
 | [El Ultimo Cartucho](https://open.spotify.com/track/4wk68kSA8ejJZODXivIc1d) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Aguanta Corazón](https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5) | 3:21 | 2026-02-23 |  |

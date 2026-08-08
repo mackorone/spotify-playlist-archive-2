@@ -1,12 +1,12 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 175039,
+  "num_followers": 175082,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADB0GQCZ/XlSS1GK2GDyTNDiKBzz",
+  "snapshot_id": "AAAAAGmmuCHQzd1PFG8VaIRpQtFxasKb",
   "tracks": [
     {
       "added_at": "2026-06-08 18:17:51",
@@ -219,6 +219,22 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
+        "name": "Con La Fuerza Del Destino",
+        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "C\u00f3mo Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
       },
@@ -235,18 +251,18 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Con La Fuerza Del Destino",
-        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+        "name": "Se Quitan El Sombrero",
+        "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
       },
       "artists": [
         {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 177106,
-      "name": "C\u00f3mo Est\u00e1s T\u00fa",
-      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
+      "duration_ms": 206733,
+      "name": "Compr\u00e9ndala",
+      "url": "https://open.spotify.com/track/1hoWZj7mw3khkTYobkDgcM"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -267,22 +283,6 @@
       "duration_ms": 156710,
       "name": "Pelotero A La Bola",
       "url": "https://open.spotify.com/track/2HjRqfkjGe33JGlOdTtswE"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
-        "name": "Se Quitan El Sombrero",
-        "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 206733,
-      "name": "Compr\u00e9ndala",
-      "url": "https://open.spotify.com/track/1hoWZj7mw3khkTYobkDgcM"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Fuego Contra Fuego",
-        "url": "https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 156320,
-      "name": "Soy Lo Peor",
-      "url": "https://open.spotify.com/track/5bdgoOTegXYsGdEjoIZDSL"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/42y9XMsHd4bHlbtB5HLUJL"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 209160,
       "name": "Cada D\u00eda M\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/3JGkx0qK6mh7O7qz9zCLXM"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Fuego Contra Fuego",
+        "url": "https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 156320,
+      "name": "Soy Lo Peor",
+      "url": "https://open.spotify.com/track/5bdgoOTegXYsGdEjoIZDSL"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Artilleria Pesada, Presenta:",
-        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 381186,
-      "name": "Ileso",
-      "url": "https://open.spotify.com/track/15cuGrCRcbTwSA3yVTGLnq"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Algo en ti",
         "url": "https://open.spotify.com/album/3oZu2VPa8zKrrcWk6VXTqi"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 248666,
       "name": "Hay Algo en ti",
       "url": "https://open.spotify.com/track/5xNqXLwdG5m5RrJfFkigVW"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Artilleria Pesada, Presenta:",
+        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 381186,
+      "name": "Ileso",
+      "url": "https://open.spotify.com/track/15cuGrCRcbTwSA3yVTGLnq"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Ser Como T\u00fa",
-        "url": "https://open.spotify.com/album/6wDGjaHs0dLNcF31n25LZo"
+        "name": "Con Ganas De T\u00ed",
+        "url": "https://open.spotify.com/album/5A7OXdZt9pNJbhjdelWlpr"
       },
       "artists": [
         {
-          "name": "Los Reyes Del Camino",
-          "url": "https://open.spotify.com/artist/0zvfEGBFjOX2F5jpEm6dv3"
+          "name": "El Poder Del Norte",
+          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
         }
       ],
-      "duration_ms": 183400,
-      "name": "En Tu Basura",
-      "url": "https://open.spotify.com/track/0hA8FSVXGdkCcT6T1OtA3f"
+      "duration_ms": 177440,
+      "name": "De Qu\u00e9 Sirvi\u00f3",
+      "url": "https://open.spotify.com/track/2pDoCPfvoR5CE8AUH6JT2l"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Con Ganas De T\u00ed",
-        "url": "https://open.spotify.com/album/5A7OXdZt9pNJbhjdelWlpr"
+        "name": "Ser Como T\u00fa",
+        "url": "https://open.spotify.com/album/6wDGjaHs0dLNcF31n25LZo"
       },
       "artists": [
         {
-          "name": "El Poder Del Norte",
-          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
+          "name": "Los Reyes Del Camino",
+          "url": "https://open.spotify.com/artist/0zvfEGBFjOX2F5jpEm6dv3"
         }
       ],
-      "duration_ms": 177440,
-      "name": "De Qu\u00e9 Sirvi\u00f3",
-      "url": "https://open.spotify.com/track/2pDoCPfvoR5CE8AUH6JT2l"
+      "duration_ms": 183400,
+      "name": "En Tu Basura",
+      "url": "https://open.spotify.com/track/0hA8FSVXGdkCcT6T1OtA3f"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "15 Boleros De Oro",
-        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 158893,
-      "name": "La Vieja Banca",
-      "url": "https://open.spotify.com/track/48sgC9LwPwCUBR4MpuVW0R"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Cholos al Punto",
         "url": "https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 159056,
       "name": "Cholos al Punto",
       "url": "https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "15 Boleros De Oro",
+        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 158893,
+      "name": "La Vieja Banca",
+      "url": "https://open.spotify.com/track/48sgC9LwPwCUBR4MpuVW0R"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "15 Boleros De Oro",
-        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 177973,
-      "name": "En Eso No Quedamos",
-      "url": "https://open.spotify.com/track/1FUQ3tfR1LuZmptkavWTQa"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Rigo Tovar '81",
         "url": "https://open.spotify.com/album/6g5zpIsB6jo8QkIz5wLXdd"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 218440,
       "name": "Vuelve A Encender Mi Fuego",
       "url": "https://open.spotify.com/track/6xsGdPEjDFBd5QTuugaA5P"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "15 Boleros De Oro",
+        "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 177973,
+      "name": "En Eso No Quedamos",
+      "url": "https://open.spotify.com/track/1FUQ3tfR1LuZmptkavWTQa"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 184920,
-      "name": "La Rosa",
-      "url": "https://open.spotify.com/track/0HiDvAV1NFSt1rLXvrTO49"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Recordando Monterrey",
         "url": "https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 165493,
       "name": "Cuando Tu Cari\u00f1o",
       "url": "https://open.spotify.com/track/1eVAsvppzlVxt1BK3JbCLJ"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 184920,
+      "name": "La Rosa",
+      "url": "https://open.spotify.com/track/0HiDvAV1NFSt1rLXvrTO49"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Llegando a ti",
-        "url": "https://open.spotify.com/album/57eTNIfpwExlKvp6w8pfQi"
-      },
-      "artists": [
-        {
-          "name": "Los Herederos De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
-        }
-      ],
-      "duration_ms": 164306,
-      "name": "Tres Vueltas",
-      "url": "https://open.spotify.com/track/4AidyOWtaZ2PrHwyX4Hrh6"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "El M\u00fasico Chiflado",
         "url": "https://open.spotify.com/album/4SXJ0wQipresGFmEsQDy0v"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 193266,
       "name": "El M\u00fasico Chiflado",
       "url": "https://open.spotify.com/track/0taP3xZzS7do4KjaGx1kRG"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Llegando a ti",
+        "url": "https://open.spotify.com/album/57eTNIfpwExlKvp6w8pfQi"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
+        }
+      ],
+      "duration_ms": 164306,
+      "name": "Tres Vueltas",
+      "url": "https://open.spotify.com/track/4AidyOWtaZ2PrHwyX4Hrh6"
     },
     {
       "added_at": "2026-06-08 18:17:51",

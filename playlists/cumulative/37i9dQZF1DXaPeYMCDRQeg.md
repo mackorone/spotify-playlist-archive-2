@@ -4,7 +4,7 @@
 
 > My love language is all of em, do all that $\#\*!
 
-517 songs - 1 day 7 hr 41 min
+522 songs - 1 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [All Mine](https://open.spotify.com/track/1NTkBmlvXj3R4nHNbRvQhI) | [Bahja Rodriguez](https://open.spotify.com/artist/7BmPndqloczpnUH2Xu8G29) | [All Mine](https://open.spotify.com/album/5HfRomFAcnSvhGJEDMFE3J) | 2:49 | 2023-02-14 | 2024-02-01 |
 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 | 2023-02-10 | 2024-02-01 |
 | [All My Life](https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Love Always](https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu) | 5:31 | 2024-06-20 | 2024-06-30 |
+| [All On You](https://open.spotify.com/track/1lfLfFAKcRmWqwsYiUZ20S) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7) | [Weathering The World](https://open.spotify.com/album/21tXDFL17Oau3TtfZapUgD) | 1:29 | 2026-08-07 |  |
 | [All That Matters \(with Leon Thomas & AZ Chike\)](https://open.spotify.com/track/0k0Fj2tp6jGWLGR0HevNYP) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [Love is the New Gangsta](https://open.spotify.com/album/0DUJdzFUyxiNUheVGbdWrd) | 3:43 | 2026-05-22 |  |
 | [Already Lost](https://open.spotify.com/track/2q5KwOx7FDpEFhpPPVgnxA) | [Jay Glavany](https://open.spotify.com/artist/6aT5HlqkUdmkXLk5dc4o3Q) | [Already Lost \(Singhara Remix\)](https://open.spotify.com/album/4Dk5hkydLtH8S0p9FiHI5i) | 3:33 | 2023-02-10 | 2024-02-01 |
 | [Already There](https://open.spotify.com/track/67MpXN05qxu09WaM98n6RD) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Already There](https://open.spotify.com/album/2Yz7RFQXL1Ug3lkv2OXbgN) | 3:32 | 2021-12-15 | 2022-07-29 |
@@ -300,6 +301,7 @@
 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 | 2026-01-16 |  |
 | [Maneater](https://open.spotify.com/track/1idMCdMGbEvVPHc66ukBag) | [Lee Lewis](https://open.spotify.com/artist/3tRVUPgHPgsvchAc7zGu4D) | [Maneater](https://open.spotify.com/album/2EgNLCN3pXzI4Fyr5Dr7CP) | 3:34 | 2025-10-17 | 2026-03-21 |
 | [Marvins Room](https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:47 | 2023-02-10 |  |
+| [Masculine Love](https://open.spotify.com/track/4qwFfzcMM1qoOxxmCJBti4) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [On The Road](https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa) | 3:05 | 2026-08-07 |  |
 | [Maybe](https://open.spotify.com/track/1aBmMmWmtkLw13OzY1SaVt) | [Nali](https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Maybe](https://open.spotify.com/album/1gJkv3Nxw6gA1iDHLDktAm) | 3:02 | 2026-02-27 | 2026-05-19 |
 | [Me in 20 Years](https://open.spotify.com/track/3LuaxVf1C3jAJO6kzQgbIg) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [græ](https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm) | 3:40 | 2024-06-20 | 2024-06-30 |
 | [Me So Horny](https://open.spotify.com/track/3EgvmOhP3NQUHY7d6PDOUg) | [2 LIVE CREW](https://open.spotify.com/artist/58Dx4HPzeOO3dbpD9YYEes) | [As Nasty As They Wanna Be](https://open.spotify.com/album/5E27A8RO0L5fEkJut86TXb) | 4:36 | 2024-06-20 | 2024-06-30 |
@@ -474,6 +476,7 @@
 | [Touch Me \(feat\. Kehlani\) \- Remix](https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Touch Me \(feat\. Kehlani\) \[Remix\]](https://open.spotify.com/album/4ICez0IybCtHZbAXl5ENWJ) | 3:07 | 2021-12-15 | 2023-02-11 |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 | 2026-03-21 |
 | [Trap Queen](https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw) | 3:42 | 2026-01-27 |  |
+| [trees for the woods](https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [trees for the woods](https://open.spotify.com/album/5a1qNYmQldBmdb5NMLGi7a) | 4:07 | 2026-08-07 |  |
 | [Try To Love](https://open.spotify.com/track/23En19UauVOU4UxVL7H7lv) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Leaks](https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1) | 2:23 | 2025-12-05 | 2026-01-15 |
 | [Twin Flame](https://open.spotify.com/track/1J315Sfz0otWt1JDyaNlaF) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Twin Flame](https://open.spotify.com/album/73A0KaDyV4R6Qnsy6ewoJd) | 3:06 | 2026-01-09 | 2026-01-24 |
 | [Typa](https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Typa](https://open.spotify.com/album/296t8NLKxtLZ8jBOa0eGSY) | 2:04 | 2025-06-06 |  |
@@ -498,6 +501,7 @@
 | [what u want](https://open.spotify.com/track/68icwERFCZaV107eHjqt77) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [what u want](https://open.spotify.com/album/1612UsrmvEmTZjKSYtJblo) | 2:45 | 2026-07-21 |  |
 | [What You Deserve](https://open.spotify.com/track/1y5G5QFWuUmEF7O2CSck9v) | [Femme It Forward](https://open.spotify.com/artist/3rw1MKkbLTZw46AqC7gRpH), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [Big Femme Energy Volume 1](https://open.spotify.com/album/7mRnNfdDMiu6xuLNzXgcHB) | 2:55 | 2021-12-15 | 2022-07-29 |
 | [What You Need](https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 3:54 | 2026-04-17 |  |
+| [What You Want](https://open.spotify.com/track/1bG5tQVcDf363nVGtJgTRN) | [C Stunna](https://open.spotify.com/artist/5Gsj3FkPmxWlrvS79SWDCF), [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [Born To Stunt](https://open.spotify.com/album/6KKau0Ln7rroVVt07O1E76) | 2:53 | 2026-08-07 |  |
 | [Whateva U Need](https://open.spotify.com/track/0gvHiQLsM6Uj7M39Hpfcec) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Body \(EP\)](https://open.spotify.com/album/0EeLytWRO33IvucFEilT2p) | 3:57 | 2021-12-15 | 2023-02-11 |
 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 | 2024-08-07 |  |
 | [Whatever You Want](https://open.spotify.com/track/6yl6TMw87Nq0mWBQtw9muQ) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 4:50 | 2021-12-15 | 2023-02-11 |
@@ -508,6 +512,7 @@
 | [Who](https://open.spotify.com/track/7x6cvijxh6AhFznZffC1ZG) | [Rashad](https://open.spotify.com/artist/2ArflDzdsIvn33h04y8X0x) | [I Was Told There'd Be Gold](https://open.spotify.com/album/6KkeWBuXs66qkOxjbDCr8k) | 2:45 | 2026-03-06 | 2026-05-19 |
 | [Whoa](https://open.spotify.com/track/38EhHqsV5NX9JrC2D2qXNI) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD) | 3:19 | 2023-02-10 | 2024-02-01 |
 | [Wifey](https://open.spotify.com/track/3NEzjZbeSCy72Kx1clSYgC) | [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Platinum & Gold Collection](https://open.spotify.com/album/6OlIbU9i7OaBrBqx7ZYAFS) | 4:03 | 2024-01-31 |  |
+| [WOMAN, MY LADY](https://open.spotify.com/track/2hHuCTQCKMAMmNGT6nnlee) | [Carver Jones](https://open.spotify.com/artist/2cQgX3pb2k7rgJG4rxNfid) | [WOMAN, MY LADY](https://open.spotify.com/album/6ZI3sHthdaVKKfCt4uzZir) | 2:57 | 2026-08-07 |  |
 | [Work](https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:39 | 2024-01-31 | 2025-02-15 |
 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 | 2025-06-17 |  |
 | [WORTH IT \(feat\. Don Toliver\)](https://open.spotify.com/track/08oo0eCDQZ9XC3zQR8q44y) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [WORTH IT \(feat\. Don Toliver\)](https://open.spotify.com/album/1TLxAcly1q7a0tyavTGeNq) | 3:08 | 2024-04-24 | 2025-08-30 |

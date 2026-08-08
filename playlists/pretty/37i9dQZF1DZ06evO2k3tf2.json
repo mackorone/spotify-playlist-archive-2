@@ -1,12 +1,12 @@
 {
   "description": "This is Twenty One Pilots. The essential tracks, all in one playlist.",
-  "num_followers": 1447260,
+  "num_followers": 1447382,
   "original_name": "This Is Twenty One Pilots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAABS45wC62dEHW+prbAvfvE0",
+  "snapshot_id": "anPOgAAAAABJb/Nrpp+4JuoX7KW0MkL/",
   "tracks": [
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 203826,
-      "name": "Drum Show",
-      "url": "https://open.spotify.com/track/20BFo9REyGdCxrlPmD3xph"
+      "duration_ms": 228173,
+      "name": "Center Mass",
+      "url": "https://open.spotify.com/track/2BHSRlGgJwzTPfYvAax28m"
     },
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 228173,
-      "name": "Center Mass",
-      "url": "https://open.spotify.com/track/2BHSRlGgJwzTPfYvAax28m"
+      "duration_ms": 203826,
+      "name": "Drum Show",
+      "url": "https://open.spotify.com/track/20BFo9REyGdCxrlPmD3xph"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Anakin Larios, Erick TQ
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,688 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,736 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 49 | [Bad Boys](https://open.spotify.com/track/3os0klWOObu0OPb3CSZMXE) | [Operativo JT](https://open.spotify.com/artist/0pwnl4csnCqMvA3LoMbN8B) | [Bad Boys](https://open.spotify.com/album/4pFHfwh79N77qw2tnOb7f2) | 3:07 |
 | 50 | [Las Letras](https://open.spotify.com/track/28GhdoJn2rgCikXkNTNKwN) | [Vinny](https://open.spotify.com/artist/2gX9hN1LNECaS7279JbnTH) | [Las Letras](https://open.spotify.com/album/7kZ0yXUSE42DPjqOyh1K3p) | 3:36 |
 
-Snapshot ID: `AAAAAHvd7RztX3EG61FSYB5Oh81yt3HT`
+Snapshot ID: `AAAAACPOSd8ZNKBsKljj5YxF06bEh5e/`

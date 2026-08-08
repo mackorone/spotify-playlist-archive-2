@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Alex Warren
 
-2,945 songs - 6 day 8 hr 20 min
+2,947 songs - 6 day 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,6 +509,7 @@
 | [cool, calm and collected](https://open.spotify.com/track/4akBeMezHwcSH1xhxJAxrC) | [Monica Lalut](https://open.spotify.com/artist/3eFwtxzPKmIoc6GLjrfyxT) | [cool, calm and collected](https://open.spotify.com/album/5ajutQW6cInAa2twYWxN6q) | 3:12 | 2025-06-26 | 2025-08-15 |
 | [Could I Be](https://open.spotify.com/track/5anCWZImCKaZgbQhSCS1oH) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Could I Be](https://open.spotify.com/album/5Q0OUyjEuF2Wb3ML1jhzIv) | 2:45 | 2026-05-21 | 2026-06-19 |
 | [Counterfeit You](https://open.spotify.com/track/7j6RiA3qaw6d10GoTCwCL7) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [Counterfeit You](https://open.spotify.com/album/4xoOJXaKTxzlwERR0s62zp) | 3:11 | 2024-05-30 | 2024-06-21 |
+| [courage](https://open.spotify.com/track/1GxXymBkVQJtSPZhiyl2wZ) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [bad pieces](https://open.spotify.com/album/3vyo8Ev3o6olStojgqpS6U) | 3:11 | 2026-08-07 |  |
 | [crash](https://open.spotify.com/track/1ICocn9Em7QmW5FD4sinJM) | [drest](https://open.spotify.com/artist/6iQHZkkQy6VuuOE0ASK6Ye) | [crash](https://open.spotify.com/album/2shTyT6jVEBkvO4vIJWPuH) | 3:17 | 2024-02-01 | 2024-02-16 |
 | [Crash Test](https://open.spotify.com/track/3wngr4Yhd93jCoI59sqBkB) | [Gia Darcy](https://open.spotify.com/artist/5asUNjuXqcxAs2PmpQxGK1) | [Crash Test](https://open.spotify.com/album/2V8TurDquhzFAyeEY7c11l) | 3:25 | 2024-07-12 | 2024-08-23 |
 | [Craters](https://open.spotify.com/track/1iQsw5gNlJejMG210AFFZx) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [The Second Act](https://open.spotify.com/album/5n1BwgJrmwAUKYNbg7RzFr) | 3:15 | 2024-09-05 | 2024-10-04 |
@@ -1736,7 +1737,7 @@
 | [My Mouth \(la la la\)](https://open.spotify.com/track/7kuF2t0nCCcDw1L7o1NwzY) | [ISHAN](https://open.spotify.com/artist/4bOSK7fslWnqp8M4YQRBzm) | [My Mouth \(la la la\)](https://open.spotify.com/album/41JIT907XyLYcUYlyXWAj7) | 3:11 | 2024-03-21 | 2024-04-19 |
 | [My Oh My](https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [My Oh My](https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed) | 2:36 | 2024-04-04 | 2024-05-10 |
 | [My Regards](https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [My Regards](https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2) | 3:11 | 2026-02-05 | 2026-03-13 |
-| [My Tragic Love Story](https://open.spotify.com/track/6fIkgdMrq2OzoHKcpEYO8z) | [Olivia C\. Dacal](https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa) | [My Tragic Love Story](https://open.spotify.com/album/7gBAcyjxQLSIWvfgha6KYx) | 3:18 | 2026-06-25 |  |
+| [My Tragic Love Story](https://open.spotify.com/track/6fIkgdMrq2OzoHKcpEYO8z) | [Olivia C\. Dacal](https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa) | [My Tragic Love Story](https://open.spotify.com/album/7gBAcyjxQLSIWvfgha6KYx) | 3:18 | 2026-06-25 | 2026-08-08 |
 | [My World](https://open.spotify.com/track/0nKVI2mlBFkdjAdZH61rLF) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [My World](https://open.spotify.com/album/3a7cMtEKE1BMV0BoH9MwvV) | 3:23 | 2024-10-03 | 2024-11-29 |
 | [MYOHMY!](https://open.spotify.com/track/5Oz6jlEdLG6iqlDDFWbSjS) | [byjaye](https://open.spotify.com/artist/2lAY2uQZNhOkCfPtj76Aoy) | [MYOHMY!](https://open.spotify.com/album/7wvRY9gp0zjBwPyhJ5rTSh) | 2:45 | 2025-06-19 | 2025-08-01 |
 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 | 2025-04-24 | 2025-05-23 |
@@ -2333,6 +2334,7 @@
 | [Step Back](https://open.spotify.com/track/4sDGLlaH25cN1i3KFxIGsl) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Signals](https://open.spotify.com/album/7EKQ3Mw77tsyP4Ymaa5hlM) | 3:04 | 2026-04-10 | 2026-05-15 |
 | [Sticky](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Sticky](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) | 2:37 | 2024-07-04 | 2024-08-02 |
 | [Sticky Fingers](https://open.spotify.com/track/6Nxj55nWZpi2uOXRVMfMY3) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Sticky Fingers](https://open.spotify.com/album/1ePJSgvvAndnUWpkHKg7p9) | 2:13 | 2025-08-28 | 2025-09-19 |
+| [Still](https://open.spotify.com/track/1dj1bE6SpLu8jLotrzWsJF) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:40 | 2026-08-07 |  |
 | [Still Bad](https://open.spotify.com/track/5UpdcedkGcuishA7jlnH8W) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Still Bad](https://open.spotify.com/album/3DwhFPQWTCMMTbllQrAIpL) | 3:28 | 2025-03-13 | 2025-04-25 |
 | [Still Be Here](https://open.spotify.com/track/3SXNECzv2FyQyOJL75m9JP) | [HALES](https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K), [Lepani](https://open.spotify.com/artist/2BP4XXvv9754tQZ0Pumcml) | [Still Be Here](https://open.spotify.com/album/7Ki1Yo8IAB569iXLrKG7fh) | 3:01 | 2023-06-15 | 2023-07-28 |
 | [Still Dancing](https://open.spotify.com/track/1NK6TP83C0mP1Edu61irn0) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor), [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Still Dancing](https://open.spotify.com/album/7aV53ErTs72wwaxBVz4eIO) | 2:58 | 2026-06-25 |  |

@@ -683,6 +683,28 @@
     },
     {
       "album": {
+        "name": "Lunaris",
+        "url": "https://open.spotify.com/album/1SxpR5PUJS2tjgjbKq3drA"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Bruce Liu",
+          "url": "https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384613,
+      "name": "Nocturne No. 8 in D-Flat Major, Op. 27 No. 2",
+      "url": "https://open.spotify.com/track/4tr7NeQYGvvGGyxjhh5QyX"
+    },
+    {
+      "album": {
         "name": "Chopin The Complete Nocturnes",
         "url": "https://open.spotify.com/album/7LKfwOdLM3y0lk4LSARD5t"
       },

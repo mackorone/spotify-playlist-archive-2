@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAClyYHpNsbZ4qlP4tfood1T",
+  "snapshot_id": "anPOgAAAAAASsxGG1JjJAFCjbehmAP83",
   "tracks": [
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Maddee Ritter",
-          "url": "https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "How Can It Be (feat. Maddee)",
-      "url": "https://open.spotify.com/track/6YVTj0QZozXD9nOq2iDeUx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Once Upon A Time",
         "url": "https://open.spotify.com/album/2OOe8tEaUQcdAW1CK80hLX"
       },
@@ -639,46 +619,6 @@
       "duration_ms": 219069,
       "name": "Once Upon A Time",
       "url": "https://open.spotify.com/track/3uDG2oirP5VieBeTqXZGfR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Checkpoint Titanium",
-        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Ryan Hemsworth",
-          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Vanilla",
-      "url": "https://open.spotify.com/track/0lK55ix3ArSvC2VSEFuPGZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Apricity",
-        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Ralph",
-          "url": "https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8"
-        }
-      ],
-      "duration_ms": 182907,
-      "name": "Your Girl",
-      "url": "https://open.spotify.com/track/4YXTXi7mcbTUsLIztAdiAt"
     },
     {
       "added_at": null,
@@ -703,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Maddee Ritter",
-          "url": "https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "She's Strong (feat. Maddee)",
-      "url": "https://open.spotify.com/track/7FNogqUqm8ow3FAu0HDQnw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Checkpoint Titanium",
         "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
       },
@@ -739,22 +659,82 @@
     {
       "added_at": null,
       "album": {
-        "name": "ROLLERCOASTER",
-        "url": "https://open.spotify.com/album/4oWbW5NLt8xodgis39xx1K"
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
       },
       "artists": [
         {
-          "name": "Cadence Weapon",
-          "url": "https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS"
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         },
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8"
+        }
+      ],
+      "duration_ms": 182907,
+      "name": "Your Girl",
+      "url": "https://open.spotify.com/track/4YXTXi7mcbTUsLIztAdiAt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
+      },
+      "artists": [
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Maddee Ritter",
+          "url": "https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A"
         }
       ],
-      "duration_ms": 207238,
-      "name": "tl;dr",
-      "url": "https://open.spotify.com/track/48eqDFwHLzwlDVwpCa4t87"
+      "duration_ms": 240000,
+      "name": "How Can It Be (feat. Maddee)",
+      "url": "https://open.spotify.com/track/6YVTj0QZozXD9nOq2iDeUx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Checkpoint Titanium",
+        "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Ryan Hemsworth",
+          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/0lK55ix3ArSvC2VSEFuPGZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Maddee Ritter",
+          "url": "https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "She's Strong (feat. Maddee)",
+      "url": "https://open.spotify.com/track/7FNogqUqm8ow3FAu0HDQnw"
     },
     {
       "added_at": null,

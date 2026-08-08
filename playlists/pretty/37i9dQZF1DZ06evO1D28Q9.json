@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAAAdJ8ilShLeuFbMQeYf6w+t",
+  "snapshot_id": "anPOgAAAAACFGHD5lSndQxB/gcUlF5LX",
   "tracks": [
     {
       "added_at": null,
@@ -159,6 +159,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Movimento R\u00e1pido dos Olhos",
+        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 207071,
+      "name": "Na Entrada Do C\u00e9u",
+      "url": "https://open.spotify.com/track/2qyctDCiic8LglZE7NM2Hq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2D: Sob Medida / Gosto Bom",
         "url": "https://open.spotify.com/album/0lpEFCr3FAPB3UY9GYI4Ch"
       },
@@ -183,26 +203,6 @@
       "duration_ms": 272671,
       "name": "Sob Medida",
       "url": "https://open.spotify.com/track/0bUdbJq7cwyhPtGHCEysmj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Movimento R\u00e1pido dos Olhos",
-        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 207071,
-      "name": "Na Entrada Do C\u00e9u",
-      "url": "https://open.spotify.com/track/2qyctDCiic8LglZE7NM2Hq"
     },
     {
       "added_at": null,
@@ -551,30 +551,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Rap \u00e9 PRETO! pt. 2",
-        "url": "https://open.spotify.com/album/49sXlIhtbRTaRDud1qZNR0"
+        "name": "Liberdade",
+        "url": "https://open.spotify.com/album/0KzNvhi6othcvW3HyYdj2W"
       },
       "artists": [
         {
-          "name": "Nego Max",
-          "url": "https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8"
-        },
-        {
-          "name": "Kamau",
-          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
-        },
-        {
-          "name": "Dropallien",
-          "url": "https://open.spotify.com/artist/59uO2uoCSPFwU4pZYhhqyD"
+          "name": "Jonathan Ferr",
+          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
         },
         {
           "name": "Stefanie",
           "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         }
       ],
-      "duration_ms": 247745,
-      "name": "O Rap \u00e9 PRETO! pt. 2",
-      "url": "https://open.spotify.com/track/5FmPre7XLYJ3U2nJJa8flw"
+      "duration_ms": 223146,
+      "name": "Rio Nilo",
+      "url": "https://open.spotify.com/track/4HFDkgSNKq7XFuq3pDi9Zk"
     },
     {
       "added_at": null,
@@ -627,26 +623,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liberdade",
-        "url": "https://open.spotify.com/album/0KzNvhi6othcvW3HyYdj2W"
+        "name": "O Rap \u00e9 PRETO! pt. 2",
+        "url": "https://open.spotify.com/album/49sXlIhtbRTaRDud1qZNR0"
       },
       "artists": [
         {
-          "name": "Jonathan Ferr",
-          "url": "https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG"
+          "name": "Nego Max",
+          "url": "https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8"
         },
+        {
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
+        },
+        {
+          "name": "Dropallien",
+          "url": "https://open.spotify.com/artist/59uO2uoCSPFwU4pZYhhqyD"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 247745,
+      "name": "O Rap \u00e9 PRETO! pt. 2",
+      "url": "https://open.spotify.com/track/5FmPre7XLYJ3U2nJJa8flw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pelos Meus Amores",
+        "url": "https://open.spotify.com/album/3VafRcbvbzqwP9hPeXpPak"
+      },
+      "artists": [
         {
           "name": "Stefanie",
           "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
         },
         {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+          "name": "Lino Krizz",
+          "url": "https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg"
         }
       ],
-      "duration_ms": 223146,
-      "name": "Rio Nilo",
-      "url": "https://open.spotify.com/track/4HFDkgSNKq7XFuq3pDi9Zk"
+      "duration_ms": 227377,
+      "name": "Pelos Meus Amores",
+      "url": "https://open.spotify.com/track/43Gm484d6Vmkvhb3FutdT9"
     },
     {
       "added_at": null,
@@ -691,26 +711,6 @@
       "duration_ms": 364682,
       "name": "Elza",
       "url": "https://open.spotify.com/track/303Ggzkhj1cUVhV5BbQL0d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pelos Meus Amores",
-        "url": "https://open.spotify.com/album/3VafRcbvbzqwP9hPeXpPak"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Lino Krizz",
-          "url": "https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg"
-        }
-      ],
-      "duration_ms": 227377,
-      "name": "Pelos Meus Amores",
-      "url": "https://open.spotify.com/track/43Gm484d6Vmkvhb3FutdT9"
     },
     {
       "added_at": null,
@@ -763,6 +763,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Rima N\u00e3o Para",
+        "url": "https://open.spotify.com/album/4O4w0TyToNeUq9uchdlRfm"
+      },
+      "artists": [
+        {
+          "name": "Arnaldo Tifu",
+          "url": "https://open.spotify.com/artist/2C1NxCWJbCkONI77zMisTx"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "En\u00e9zimo",
+          "url": "https://open.spotify.com/artist/5zYUMGYILLHjpsQwBJa3Xu"
+        },
+        {
+          "name": "DJ Nato_PK",
+          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "Fofoqueiro",
+      "url": "https://open.spotify.com/track/1L32CFDyMZXNiJQg82t9rD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Mensagem",
         "url": "https://open.spotify.com/album/5IZnL82jrW1t4GC7CD5Wlh"
       },
@@ -795,34 +823,6 @@
       "duration_ms": 382450,
       "name": "N\u00f3s Somos Pesados",
       "url": "https://open.spotify.com/track/3cwrz2YQVXWvN7zhPEUJyN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Rima N\u00e3o Para",
-        "url": "https://open.spotify.com/album/4O4w0TyToNeUq9uchdlRfm"
-      },
-      "artists": [
-        {
-          "name": "Arnaldo Tifu",
-          "url": "https://open.spotify.com/artist/2C1NxCWJbCkONI77zMisTx"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "En\u00e9zimo",
-          "url": "https://open.spotify.com/artist/5zYUMGYILLHjpsQwBJa3Xu"
-        },
-        {
-          "name": "DJ Nato_PK",
-          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
-        }
-      ],
-      "duration_ms": 262400,
-      "name": "Fofoqueiro",
-      "url": "https://open.spotify.com/track/1L32CFDyMZXNiJQg82t9rD"
     },
     {
       "added_at": null,
@@ -923,6 +923,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reencontro",
+        "url": "https://open.spotify.com/album/2G32naK5o9ksPPwxMQ0Si7"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "DCazz",
+          "url": "https://open.spotify.com/artist/5tyku1FcTAjQWHkl1Mtpx0"
+        }
+      ],
+      "duration_ms": 219753,
+      "name": "Reencontro",
+      "url": "https://open.spotify.com/track/6ykaQsrgTBybTtQNQJmsEv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Na Atividade (feat. IZA)",
         "url": "https://open.spotify.com/album/4h1LY8YXe9xLXZl3wmU4gR"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 140444,
       "name": "Na Atividade (feat. IZA)",
       "url": "https://open.spotify.com/track/5QMXwNwtiPrHUBngQ1u3q8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reencontro",
-        "url": "https://open.spotify.com/album/2G32naK5o9ksPPwxMQ0Si7"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "DCazz",
-          "url": "https://open.spotify.com/artist/5tyku1FcTAjQWHkl1Mtpx0"
-        }
-      ],
-      "duration_ms": 219753,
-      "name": "Reencontro",
-      "url": "https://open.spotify.com/track/6ykaQsrgTBybTtQNQJmsEv"
     },
     {
       "added_at": null,
@@ -1075,22 +1075,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pau-de-d\u00e1-em-Doido Mixtape Vol. 01",
-        "url": "https://open.spotify.com/album/7qmVSFFpB6EYDxrnDXASQU"
+        "name": "Chato",
+        "url": "https://open.spotify.com/album/5Mn8uqytuDFSSV8PJuqP0k"
       },
       "artists": [
-        {
-          "name": "DJ Nato_PK",
-          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
-        },
         {
           "name": "Stefanie",
           "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
         }
       ],
-      "duration_ms": 206524,
-      "name": "Minha Parte",
-      "url": "https://open.spotify.com/track/5u0H6FMEotfZ97ps5AFcQj"
+      "duration_ms": 187634,
+      "name": "Chato",
+      "url": "https://open.spotify.com/track/16WYzKanXUPLm06EC2Q1OA"
     },
     {
       "added_at": null,
@@ -1139,18 +1135,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chato",
-        "url": "https://open.spotify.com/album/5Mn8uqytuDFSSV8PJuqP0k"
+        "name": "Pau-de-d\u00e1-em-Doido Mixtape Vol. 01",
+        "url": "https://open.spotify.com/album/7qmVSFFpB6EYDxrnDXASQU"
       },
       "artists": [
+        {
+          "name": "DJ Nato_PK",
+          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
+        },
         {
           "name": "Stefanie",
           "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
         }
       ],
-      "duration_ms": 187634,
-      "name": "Chato",
-      "url": "https://open.spotify.com/track/16WYzKanXUPLm06EC2Q1OA"
+      "duration_ms": 206524,
+      "name": "Minha Parte",
+      "url": "https://open.spotify.com/track/5u0H6FMEotfZ97ps5AFcQj"
     },
     {
       "added_at": null,

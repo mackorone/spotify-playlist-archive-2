@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-27",
-  "description": "Discover new christian and gospel music. Cover: Diana Hamilton",
+  "description": "Discover new christian and gospel music. Cover: Prinx Emmanuel",
   "name": "Fresh Gospel Africa",
   "tracks": [
     {
@@ -2592,6 +2592,24 @@
       "duration_ms": 177345,
       "name": "Adura",
       "url": "https://open.spotify.com/track/4BFVRbZYAWHZ78csQTfrut"
+    },
+    {
+      "album": {
+        "name": "Adura",
+        "url": "https://open.spotify.com/album/2DRtJkxM2DjQ7GeeaKTF3y"
+      },
+      "artists": [
+        {
+          "name": "Oluwajenyo",
+          "url": "https://open.spotify.com/artist/5VMLcHJIvePoeIJlsCdPtC"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408000,
+      "name": "Adura",
+      "url": "https://open.spotify.com/track/1MdzECwninBrvwnVKNl96Q"
     },
     {
       "album": {
@@ -13590,6 +13608,24 @@
       "duration_ms": 174315,
       "name": "BABA SAANU",
       "url": "https://open.spotify.com/track/5solCPoM5lNcPkndd3LZMB"
+    },
+    {
+      "album": {
+        "name": "BABA SIYABONGA",
+        "url": "https://open.spotify.com/album/6yH43drdOZTVRNgLvmWfyZ"
+      },
+      "artists": [
+        {
+          "name": "Umlazi Gospel Choir The Original",
+          "url": "https://open.spotify.com/artist/0V7olBRdnevHisGlCmbz02"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422352,
+      "name": "Baba Siyabonga",
+      "url": "https://open.spotify.com/track/3P5iI9ugl1d0P5muGcT3Q8"
     },
     {
       "album": {
@@ -108142,6 +108178,24 @@
     {
       "album": {
         "name": "Ngiyabonga",
+        "url": "https://open.spotify.com/album/7lgHRNpZbmmYHL6qnM0Kw3"
+      },
+      "artists": [
+        {
+          "name": "Sipho Makhabane",
+          "url": "https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278719,
+      "name": "Ngiyabonga",
+      "url": "https://open.spotify.com/track/7z1CeYr4VpiyJ9r5HXtcSe"
+    },
+    {
+      "album": {
+        "name": "Ngiyabonga",
         "url": "https://open.spotify.com/album/7CYoNDGaHw0sN1xWVpifbO"
       },
       "artists": [
@@ -118654,6 +118708,24 @@
       "duration_ms": 214000,
       "name": "One Thing",
       "url": "https://open.spotify.com/track/2MIQtWqm7YIGr5prgbdRnp"
+    },
+    {
+      "album": {
+        "name": "One Touch",
+        "url": "https://open.spotify.com/album/0aCehsq2FMWrBFy30UoNSF"
+      },
+      "artists": [
+        {
+          "name": "Minstrel John Leke",
+          "url": "https://open.spotify.com/artist/4Y9c0hrqtHikpZFb7lif8o"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125248,
+      "name": "One Touch",
+      "url": "https://open.spotify.com/track/7LRE9XbTrjK69iK0ylO6gX"
     },
     {
       "album": {
@@ -155465,42 +155537,6 @@
     },
     {
       "album": {
-        "name": "Ngiyabonga",
-        "url": "https://open.spotify.com/album/7lgHRNpZbmmYHL6qnM0Kw3"
-      },
-      "artists": [
-        {
-          "name": "Sipho Makhabane",
-          "url": "https://open.spotify.com/artist/5sFc16mtmgH8IiVYtJ2rF2"
-        }
-      ],
-      "date_added": "2026-08-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/7z1CeYr4VpiyJ9r5HXtcSe"
-    },
-    {
-      "album": {
-        "name": "BABA SIYABONGA",
-        "url": "https://open.spotify.com/album/6yH43drdOZTVRNgLvmWfyZ"
-      },
-      "artists": [
-        {
-          "name": "Umlazi Gospel Choir The Original",
-          "url": "https://open.spotify.com/artist/0V7olBRdnevHisGlCmbz02"
-        }
-      ],
-      "date_added": "2026-08-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/3P5iI9ugl1d0P5muGcT3Q8"
-    },
-    {
-      "album": {
         "name": "Transitions",
         "url": "https://open.spotify.com/album/7Gz5EoGHx4kRNzkTSelrF9"
       },
@@ -159650,6 +159686,24 @@
       "duration_ms": 401743,
       "name": "Uyongithwala (feat. Class Lekgwathi)",
       "url": "https://open.spotify.com/track/5ipIJ7LtbeTIkxUg5KZJR6"
+    },
+    {
+      "album": {
+        "name": "Uzube Nami Moyongcwele",
+        "url": "https://open.spotify.com/album/3D5ZTJi5aSulC1crs3YVOp"
+      },
+      "artists": [
+        {
+          "name": "Inqola Yevangeli Gospel Choir",
+          "url": "https://open.spotify.com/artist/0vgDCac0p7wWnXsgIzDBON"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300329,
+      "name": "Uzube Nami Moyongcwele",
+      "url": "https://open.spotify.com/track/0K6QYs5rY29RORQwX2Boye"
     },
     {
       "album": {
@@ -168280,6 +168334,24 @@
       "duration_ms": 840456,
       "name": "Worship Medley 19",
       "url": "https://open.spotify.com/track/5lGRDbW4Cc7955JgeSmdsA"
+    },
+    {
+      "album": {
+        "name": "Worship medley, Metamor4sis 2026 (Live)",
+        "url": "https://open.spotify.com/album/7eo0HEl0jI9DFxvu8EvUgB"
+      },
+      "artists": [
+        {
+          "name": "TEHGAH",
+          "url": "https://open.spotify.com/artist/4scHETu7kmTovJLCQq8Rla"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1190568,
+      "name": "Worship medley, Metamor4sis 2026 (Live)",
+      "url": "https://open.spotify.com/track/0UtNS4UMhFfEvp7MjQ1niu"
     },
     {
       "album": {

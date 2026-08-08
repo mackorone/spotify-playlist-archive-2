@@ -377,6 +377,24 @@
     },
     {
       "album": {
+        "name": "Pure Devotion",
+        "url": "https://open.spotify.com/album/0DS9OxHBt693YOs3TDira2"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195285,
+      "name": "After The Rain",
+      "url": "https://open.spotify.com/track/0rclr5nd7iwF4rJTYRLlJq"
+    },
+    {
+      "album": {
         "name": "Again?",
         "url": "https://open.spotify.com/album/4J3BlmFLY8OSr5Gbxx0Nyj"
       },
@@ -1194,6 +1212,24 @@
       "duration_ms": 168387,
       "name": "Brakelights",
       "url": "https://open.spotify.com/track/5bJ3cuvn0fMdSV8tkJVpNY"
+    },
+    {
+      "album": {
+        "name": "brand new chanel$",
+        "url": "https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238505,
+      "name": "brand new chanel$",
+      "url": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2"
     },
     {
       "album": {
@@ -5742,7 +5778,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 173334,
       "name": "No Audience",
       "url": "https://open.spotify.com/track/5YIhyQTdOcuwn0VMeVwvAp"
@@ -6964,7 +7000,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 186616,
       "name": "ROCCO",
       "url": "https://open.spotify.com/track/1QAulqNUI1RBfBco1PxqXv"

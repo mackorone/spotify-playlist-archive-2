@@ -1,12 +1,12 @@
 {
   "description": "Lancez la playlist et jetez vous \u00e0 l'eau !",
-  "num_followers": 513831,
+  "num_followers": 513818,
   "original_name": "Sous la douche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALlLiCvzcO+zyAHOR1DFnxzZmzEc",
+  "snapshot_id": "AAAAAITVGH9ZyVA5cB12H2nKsFQrp8Rs",
   "tracks": [
     {
       "added_at": "2026-04-10 14:59:17",
@@ -279,22 +279,18 @@
     {
       "added_at": "2026-04-10 14:59:17",
       "album": {
-        "name": "Raymond v Raymond (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
       },
       "artists": [
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 220800,
-      "name": "DJ Got Us Fallin' In Love (feat. Pitbull)",
-      "url": "https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn"
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
       "added_at": "2026-04-10 14:59:17",
@@ -315,18 +311,22 @@
     {
       "added_at": "2026-04-10 14:59:17",
       "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+        "name": "Raymond v Raymond (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         }
       ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+      "duration_ms": 220800,
+      "name": "DJ Got Us Fallin' In Love (feat. Pitbull)",
+      "url": "https://open.spotify.com/track/4356Typ82hUiFAynbLYbPn"
     },
     {
       "added_at": "2026-04-10 14:59:17",

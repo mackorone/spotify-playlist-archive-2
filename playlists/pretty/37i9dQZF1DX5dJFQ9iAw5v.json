@@ -1,12 +1,12 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 34161,
+  "num_followers": 34160,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANMkTrfILhprJqBhGwb6+VJOYghH",
+  "snapshot_id": "AAAAAGghmZz5LNPG7zKSHPmwWLLzXISX",
   "tracks": [
     {
       "added_at": "2025-04-14 14:58:34",
@@ -43,8 +43,8 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "B\u00e9same Mucho",
-        "url": "https://open.spotify.com/album/0rqeGYuxdTWXiWekx5J1H5"
+        "name": "GRABACIONES RECUPERADAS",
+        "url": "https://open.spotify.com/album/3u0TegUGeLCo0VtxNBUeJ4"
       },
       "artists": [
         {
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/6WlZKlAR4zNkqXreMiZ2aK"
         }
       ],
-      "duration_ms": 169586,
-      "name": "Tico Tico No Fub\u00e0",
-      "url": "https://open.spotify.com/track/3Q8ZbV1ebQ1vVZHcst39I8"
+      "duration_ms": 132266,
+      "name": "B\u00e9same Mucho",
+      "url": "https://open.spotify.com/track/5mP6m2m775f2VYYLddc6qa"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -131,8 +131,8 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "GRABACIONES RECUPERADAS",
-        "url": "https://open.spotify.com/album/3u0TegUGeLCo0VtxNBUeJ4"
+        "name": "B\u00e9same Mucho",
+        "url": "https://open.spotify.com/album/0rqeGYuxdTWXiWekx5J1H5"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/6WlZKlAR4zNkqXreMiZ2aK"
         }
       ],
-      "duration_ms": 132266,
-      "name": "B\u00e9same Mucho",
-      "url": "https://open.spotify.com/track/5mP6m2m775f2VYYLddc6qa"
+      "duration_ms": 169586,
+      "name": "Tico Tico No Fub\u00e0",
+      "url": "https://open.spotify.com/track/3Q8ZbV1ebQ1vVZHcst39I8"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Danza",
-        "url": "https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN"
-      },
-      "artists": [
-        {
-          "name": "Mariano Otero",
-          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
-        }
-      ],
-      "duration_ms": 280635,
-      "name": "Pop",
-      "url": "https://open.spotify.com/track/4c0rGPqFucB6I2OJS8XtpU"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Puertos: Music from International Waters",
         "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 468087,
       "name": "Sol La, Al Sol",
       "url": "https://open.spotify.com/track/22Iyd8cBIkbaJMPXBoxEzb"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Danza",
+        "url": "https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN"
+      },
+      "artists": [
+        {
+          "name": "Mariano Otero",
+          "url": "https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV"
+        }
+      ],
+      "duration_ms": 280635,
+      "name": "Pop",
+      "url": "https://open.spotify.com/track/4c0rGPqFucB6I2OJS8XtpU"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Atemporal",
-        "url": "https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY"
-      },
-      "artists": [
-        {
-          "name": "Emi Gimenez",
-          "url": "https://open.spotify.com/artist/1EkFFmRwoIW1p0YAKHHImZ"
-        }
-      ],
-      "duration_ms": 356723,
-      "name": "De Pie",
-      "url": "https://open.spotify.com/track/5eoBPPZSZM6Rchf6bCtAQ8"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Fragmentos del mundo",
         "url": "https://open.spotify.com/album/0YIdJlNDggyPgR5MUyVozG"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 329264,
       "name": "El cristal de los otros",
       "url": "https://open.spotify.com/track/0lgUHiqSw3Y5k8Kfvi1eb0"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY"
+      },
+      "artists": [
+        {
+          "name": "Emi Gimenez",
+          "url": "https://open.spotify.com/artist/1EkFFmRwoIW1p0YAKHHImZ"
+        }
+      ],
+      "duration_ms": 356723,
+      "name": "De Pie",
+      "url": "https://open.spotify.com/track/5eoBPPZSZM6Rchf6bCtAQ8"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Atemporal",
-        "url": "https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY"
-      },
-      "artists": [
-        {
-          "name": "Emi Gimenez",
-          "url": "https://open.spotify.com/artist/1EkFFmRwoIW1p0YAKHHImZ"
-        }
-      ],
-      "duration_ms": 292572,
-      "name": "Creer en las Hojas",
-      "url": "https://open.spotify.com/track/0Chc816otZHFCSuGo8kHcM"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Paisajes de un Venidero Retorno",
         "url": "https://open.spotify.com/album/0fJpxzaGDLhADAGBMKEvsJ"
       },
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY"
+      },
+      "artists": [
+        {
+          "name": "Emi Gimenez",
+          "url": "https://open.spotify.com/artist/1EkFFmRwoIW1p0YAKHHImZ"
+        }
+      ],
+      "duration_ms": 292572,
+      "name": "Creer en las Hojas",
+      "url": "https://open.spotify.com/track/0Chc816otZHFCSuGo8kHcM"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "Jazz Bazar II (feat. Pat\u00e1n Vidal)",
         "url": "https://open.spotify.com/album/7zFU0yE4XcMWXWSA2kqGLv"
       },
@@ -1179,22 +1179,6 @@
       "duration_ms": 198960,
       "name": "Eleanor Rigby",
       "url": "https://open.spotify.com/track/4G9yziRWIvfbrHDAScv4jj"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Camino",
-        "url": "https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl"
-      },
-      "artists": [
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        }
-      ],
-      "duration_ms": 220532,
-      "name": "Lago de Forma Mia",
-      "url": "https://open.spotify.com/track/4OSzjErsAek3EJ2spyisYI"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1223,6 +1207,22 @@
       "duration_ms": 471146,
       "name": "Promesas Sobre el Bidet",
       "url": "https://open.spotify.com/track/10U3XS2qEsDX8YUErjgMeJ"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Camino",
+        "url": "https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl"
+      },
+      "artists": [
+        {
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
+        }
+      ],
+      "duration_ms": 220532,
+      "name": "Lago de Forma Mia",
+      "url": "https://open.spotify.com/track/4OSzjErsAek3EJ2spyisYI"
     },
     {
       "added_at": "2025-04-14 14:58:34",

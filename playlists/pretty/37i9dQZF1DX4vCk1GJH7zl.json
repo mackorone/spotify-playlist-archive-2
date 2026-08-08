@@ -1,12 +1,12 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Maglore",
-  "num_followers": 156346,
+  "num_followers": 156363,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANsNpM34QRDf8XOz2EJK4AYFFNbd",
+  "snapshot_id": "AAAAABb2FTP8Lu0+fgi9LJQPsIpxv1sM",
   "tracks": [
     {
       "added_at": "2026-08-07 03:03:34",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-08-07 03:03:34",
       "album": {
-        "name": "R\u00e1dio",
-        "url": "https://open.spotify.com/album/7xu0pmJOYMawx9p4KW7pTH"
-      },
-      "artists": [
-        {
-          "name": "Colomy",
-          "url": "https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "R\u00e1dio",
-      "url": "https://open.spotify.com/track/4s2b5kTiv1T3iPbCdROE9E"
-    },
-    {
-      "added_at": "2026-08-07 03:03:34",
-      "album": {
         "name": "Tudo Agora",
         "url": "https://open.spotify.com/album/7anK66Wh4q8e7W8PgFOwKo"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 226624,
       "name": "Alquimia",
       "url": "https://open.spotify.com/track/4NmZEzKC42IGwAZAyFoid1"
+    },
+    {
+      "added_at": "2026-08-07 03:03:34",
+      "album": {
+        "name": "R\u00e1dio",
+        "url": "https://open.spotify.com/album/7xu0pmJOYMawx9p4KW7pTH"
+      },
+      "artists": [
+        {
+          "name": "Colomy",
+          "url": "https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "R\u00e1dio",
+      "url": "https://open.spotify.com/track/4s2b5kTiv1T3iPbCdROE9E"
     },
     {
       "added_at": "2026-08-07 03:03:34",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-08-07 03:03:34",
       "album": {
-        "name": "P\u00e1ssaro Livre",
-        "url": "https://open.spotify.com/album/6GaTdxbCc8Q6BzAKUMO9UA"
-      },
-      "artists": [
-        {
-          "name": "Colomy",
-          "url": "https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp"
-        }
-      ],
-      "duration_ms": 268160,
-      "name": "P\u00e1ssaro Livre",
-      "url": "https://open.spotify.com/track/0x5cpU5Hup1Rtv8X7tyEx9"
-    },
-    {
-      "added_at": "2026-08-07 03:03:34",
-      "album": {
         "name": "N\u00e3o Somos Mais",
         "url": "https://open.spotify.com/album/04zr2V5S16hd7v2uFJQMmZ"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 250431,
       "name": "N\u00e3o Somos Mais",
       "url": "https://open.spotify.com/track/5JroLyVYe3GIijBdxgwPBt"
+    },
+    {
+      "added_at": "2026-08-07 03:03:34",
+      "album": {
+        "name": "P\u00e1ssaro Livre",
+        "url": "https://open.spotify.com/album/6GaTdxbCc8Q6BzAKUMO9UA"
+      },
+      "artists": [
+        {
+          "name": "Colomy",
+          "url": "https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp"
+        }
+      ],
+      "duration_ms": 268160,
+      "name": "P\u00e1ssaro Livre",
+      "url": "https://open.spotify.com/track/0x5cpU5Hup1Rtv8X7tyEx9"
     },
     {
       "added_at": "2026-08-07 03:03:34",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-08-07 03:03:34",
       "album": {
-        "name": "Tudo Fica Bem (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3ELasphaer4uFY996px5iC"
-      },
-      "artists": [
-        {
-          "name": "Tianastacia",
-          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
-        }
-      ],
-      "duration_ms": 165489,
-      "name": "Tudo Fica Bem - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5IQiul9hH6sL4WNm8QS397"
-    },
-    {
-      "added_at": "2026-08-07 03:03:34",
-      "album": {
         "name": "Vida Real",
         "url": "https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 230565,
       "name": "Vida Real",
       "url": "https://open.spotify.com/track/2WZpf1SuDwLWtu5rFFd9il"
+    },
+    {
+      "added_at": "2026-08-07 03:03:34",
+      "album": {
+        "name": "Tudo Fica Bem (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3ELasphaer4uFY996px5iC"
+      },
+      "artists": [
+        {
+          "name": "Tianastacia",
+          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
+        }
+      ],
+      "duration_ms": 165489,
+      "name": "Tudo Fica Bem - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5IQiul9hH6sL4WNm8QS397"
     },
     {
       "added_at": "2026-08-07 03:03:34",
@@ -995,6 +995,22 @@
     {
       "added_at": "2026-08-07 03:03:34",
       "album": {
+        "name": "MENINA VENENO",
+        "url": "https://open.spotify.com/album/1VDiXRgtgdHPfWIrEAKIft"
+      },
+      "artists": [
+        {
+          "name": "HOZE",
+          "url": "https://open.spotify.com/artist/2CIUcv8pXYRUuU4Z5IvelB"
+        }
+      ],
+      "duration_ms": 168107,
+      "name": "MENINA VENENO",
+      "url": "https://open.spotify.com/track/4RjyulOffxqkRxtPujLqQQ"
+    },
+    {
+      "added_at": "2026-08-07 03:03:34",
+      "album": {
         "name": "PITTYNANDO \u2013 As Suas, As Minhas e As Nossas (Ao Vivo)",
         "url": "https://open.spotify.com/album/5GXMquIjfejiBifabM0Tny"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 252699,
       "name": "Stonehenge - Live",
       "url": "https://open.spotify.com/track/6BcpYt1509EnqN4TR9CVzw"
-    },
-    {
-      "added_at": "2026-08-07 03:03:34",
-      "album": {
-        "name": "MENINA VENENO",
-        "url": "https://open.spotify.com/album/1VDiXRgtgdHPfWIrEAKIft"
-      },
-      "artists": [
-        {
-          "name": "HOZE",
-          "url": "https://open.spotify.com/artist/2CIUcv8pXYRUuU4Z5IvelB"
-        }
-      ],
-      "duration_ms": 168107,
-      "name": "MENINA VENENO",
-      "url": "https://open.spotify.com/track/4RjyulOffxqkRxtPujLqQQ"
     }
   ],
   "unique_name": "Rock Leve",

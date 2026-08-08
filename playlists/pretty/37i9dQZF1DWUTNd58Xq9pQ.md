@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTNd58Xq9pQ.md) - [plain]
 
 > Sign up for False Idols at Drumsheds <a href="https://register.broadwicklive.com/false\-idols\-london?ref=dsweb">here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,798 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,799 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTNd58Xq9pQ.md) - [plain]
 | 27 | [Domino](https://open.spotify.com/track/4Kag7UC3ZCiEYJ0QYC2Mpk) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Domino](https://open.spotify.com/album/5aI6axDIHP6Z9PgUbQNmQU) | 3:35 |
 | 28 | [Hectic](https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Hectic](https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB) | 2:37 |
 | 29 | [f0rbiidden l0ve$tory](https://open.spotify.com/track/6krQyQ8XW0ZiNB9fjui2ur) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [f0rbiidden l0ve$tory](https://open.spotify.com/album/0Ef1aaC3SD8EPr72sOYceZ) | 2:06 |
-| 30 | [MADELINE \- Sam Girling Remix](https://open.spotify.com/track/53Az0orgzVQOMQHsjribTZ) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki), [Sam Girling](https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS) | [MADELINE \(Remixes\)](https://open.spotify.com/album/7kbuL98bYaEhxX3q69p5lE) | 3:25 |
-| 31 | [The Dark, The Light \(Edit\)](https://open.spotify.com/track/0lBXFOrDC2JlIPp6soVYpR) | [Bozart](https://open.spotify.com/artist/0P9fjhNfuSTdiwuEo1MxqI), [Jen Cardini](https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf) | [The Dark, The Light](https://open.spotify.com/album/5ZfJiJQqkWCRA61daHr4b5) | 3:54 |
+| 30 | [The Dark, The Light \(Edit\)](https://open.spotify.com/track/0lBXFOrDC2JlIPp6soVYpR) | [Bozart](https://open.spotify.com/artist/0P9fjhNfuSTdiwuEo1MxqI), [Jen Cardini](https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf) | [The Dark, The Light](https://open.spotify.com/album/5ZfJiJQqkWCRA61daHr4b5) | 3:54 |
+| 31 | [MADELINE \- Sam Girling Remix](https://open.spotify.com/track/53Az0orgzVQOMQHsjribTZ) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki), [Sam Girling](https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS) | [MADELINE \(Remixes\)](https://open.spotify.com/album/7kbuL98bYaEhxX3q69p5lE) | 3:25 |
 | 32 | [All I Need](https://open.spotify.com/track/6TDatI1isX5XlhT1QQ8kO6) | [Demi Riquísimo](https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac), [Michelle Manetti](https://open.spotify.com/artist/5LcNSaw8X9bRD2r0GU3DyI) | [All I Need](https://open.spotify.com/album/1wywTRTdBa44D3fDwS8yyR) | 4:12 |
 | 33 | [Affirmations](https://open.spotify.com/track/6kTxmVtwFSqOLatUYH57FH) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Perfect Picture](https://open.spotify.com/album/1ChwZuPoRvA8Z5uprRsO2P) | 3:34 |
 | 34 | [Make Time](https://open.spotify.com/track/55WKq24vogr2aeB0f41K1S) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Make Time](https://open.spotify.com/album/1S0RtAabyNrG88zre9tDWa) | 8:35 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTNd58Xq9pQ.md) - [plain]
 | 46 | [Chez Moi \(Waiting For You\) \- Club Mix](https://open.spotify.com/track/1lZ6m220kXb3EFvnjzFbyo) | [CC:DISCO!](https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Chez Moi \(Waiting For You\)](https://open.spotify.com/album/5HwZIHl2vkaEGzuvNorz84) | 6:25 |
 | 47 | [Fashion Nympho](https://open.spotify.com/track/36DpqHlVo4uw3ZbcMCgsZx) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Fashion Nympho](https://open.spotify.com/album/6iu5ClhbjsWLrTHr8evGl9) | 2:56 |
 | 48 | [Real Hot n Naughty](https://open.spotify.com/track/1hPBJwV6CK6d8IgC9OUmqW) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [Felix Mufti](https://open.spotify.com/artist/1N4X5hZ0hEXhhFdg1q0AlN) | [Real Hot n Naughty](https://open.spotify.com/album/1AUPiPnIbLT7FkOgEfaPGa) | 3:34 |
-| 49 | [Tryna Call \- Me n U \- Mixed](https://open.spotify.com/track/5qWCGBGmnHi6Lcz47IYspB) | [Felix Geith](https://open.spotify.com/artist/52wus9Sd4fER2u5lP26mku) | [Mixmag Presents Logic1000](https://open.spotify.com/album/5RtXdNzE9CUqaAvzgDhi1X) | 3:26 |
-| 50 | [Honey Child](https://open.spotify.com/track/4s8pYCTyKtpW6InPbyxj8O) | [Ammara](https://open.spotify.com/artist/7GqNimUoiYFht4cYL0cT0I) | [Honey Child](https://open.spotify.com/album/4QXPVtv2HI92XulT9TsS71) | 2:31 |
+| 49 | [Honey Child](https://open.spotify.com/track/4s8pYCTyKtpW6InPbyxj8O) | [Ammara](https://open.spotify.com/artist/7GqNimUoiYFht4cYL0cT0I) | [Honey Child](https://open.spotify.com/album/4QXPVtv2HI92XulT9TsS71) | 2:31 |
+| 50 | [Tryna Call \- Me n U \- Mixed](https://open.spotify.com/track/5qWCGBGmnHi6Lcz47IYspB) | [Felix Geith](https://open.spotify.com/artist/52wus9Sd4fER2u5lP26mku) | [Mixmag Presents Logic1000](https://open.spotify.com/album/5RtXdNzE9CUqaAvzgDhi1X) | 3:26 |
 
-Snapshot ID: `AAAAAGpyaievp3+Gw6E3/7Ja94nJ/E0A`
+Snapshot ID: `AAAAAPDxF3Uo2X9d9oRHhYHKshb1F6If`

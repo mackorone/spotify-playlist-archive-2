@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: OURBIRTHDAY\)
+> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: ARTMS\)
 
-638 songs - 1 day 8 hr 53 min
+639 songs - 1 day 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Black Mamba](https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Black Mamba](https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7) | 2:54 | 2020-12-01 | 2021-03-18 |
 | [Black Or White](https://open.spotify.com/track/11wbEfF8uFBY6T2gNH7cI5) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 3:24 | 2021-01-18 | 2021-01-18 |
 | [BLACKHOLE](https://open.spotify.com/track/0MtiWniV24IBXmBPeW1v1m) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/28fYAUhRzVQM5nu4EmlDvo) | 3:14 | 2026-02-23 | 2026-03-13 |
+| [Blue Blood](https://open.spotify.com/track/0U0H8jRrRV3uItkvfD6c6k) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Hyper\-Ego>](https://open.spotify.com/album/72WSQszRmD09u9eIOZQAeR) | 2:27 | 2026-08-07 |  |
 | [Blue Valentine](https://open.spotify.com/track/0FKR7mQJnYqdEmHAMhgQjw) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW) | 3:06 | 2025-10-13 | 2025-11-18 |
 | [BLUE!](https://open.spotify.com/track/6S5e72PcYpNHTGxTtAYUyg) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [BLUE!](https://open.spotify.com/album/4WzgkY9lqsZ4A8ZrT9PegM) | 3:16 | 2025-08-26 | 2025-10-11 |
 | [BOCA](https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ) | 3:09 | 2020-10-13\* | 2022-06-04 |
@@ -266,7 +267,7 @@
 | [How To Twerk \(Prod\. Czaer\)](https://open.spotify.com/track/1ckjVyV85YJob7nFZlEHIo) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Street Woman Fighter2 \(SWF2\) Class Mission](https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb) | 2:56 | 2023-09-06 | 2023-10-13 |
 | [How You Like That](https://open.spotify.com/track/3vAn0qZzdyuHamcrpkfiX3) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [How You Like That](https://open.spotify.com/album/19LMUlWN7xU2NW80pZSeuH) | 3:01 | 2020-10-13\* | 2022-05-21 |
 | [How You Like That](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:02 | 2022-07-25 | 2024-04-19 |
-| [HUNGRY \(Side A\)](https://open.spotify.com/track/2VtyGQFxbJMOF6MRU07ild) | [OURBIRTHDAY](https://open.spotify.com/artist/1mXRWMer8YDbBPbj872tmo) | [HUNGRY \(Side A\)](https://open.spotify.com/album/7kRrsdT9O7U4BXyziyea2S) | 2:17 | 2026-07-28 |  |
+| [HUNGRY \(Side A\)](https://open.spotify.com/track/2VtyGQFxbJMOF6MRU07ild) | [OURBIRTHDAY](https://open.spotify.com/artist/1mXRWMer8YDbBPbj872tmo) | [HUNGRY \(Side A\)](https://open.spotify.com/album/7kRrsdT9O7U4BXyziyea2S) | 2:17 | 2026-07-28 | 2026-08-08 |
 | [HURRICANE](https://open.spotify.com/track/6oOQzwWhv7RW0QmuPupgQX) | [BADVILLAIN](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) | [HURRICANE](https://open.spotify.com/album/7sRIyO45mBnqimcG7Sk4k4) | 2:29 | 2024-06-24 | 2024-07-01 |
 | [HWAA](https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 3:17 | 2021-01-18 | 2022-07-29 |
 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,229 likes - 90 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,232 likes - 90 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 9 | [Kom van dat dak af](https://open.spotify.com/track/4I07xdkqgw91HqlP4t5h9B) | [Peter Koelewijn en Zijn Rockets](https://open.spotify.com/artist/4inB4rmxwWnwbszg23w4yj) | [Favorieten van Toen](https://open.spotify.com/album/3cFCIbnr6p0ITYXEmsA2Y1) | 2:39 |
 | 10 | [Sammy](https://open.spotify.com/track/2yeViE7XgsOare6ypIIXsB) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Ramses Shaffy \- Laat Me](https://open.spotify.com/album/68G1Wx6lZkRrw4Tn8W8Y73) | 2:14 |
 | 11 | [Het Land Van Maas En Waal](https://open.spotify.com/track/2nk4SnUS6xe1iB5SeIBbgo) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Het Beste Van Boudewijn De Groot](https://open.spotify.com/album/3jQCW6iuKAnDYZN9j67eiD) | 2:58 |
-| 12 | [Op Een Mooie Pinksterdag](https://open.spotify.com/track/7JQszt5pkJe43vlr0MUtLJ) | [Andre Van Den Heuvel](https://open.spotify.com/artist/761xE3Wn7hz2BXKeKxccx2), [Leen Jongewaard](https://open.spotify.com/artist/4vXx2olYpSrm2B1jLm4p10) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:25 |
-| 13 | [Eenzaam Zonder Jou](https://open.spotify.com/track/7LGNLoTk2YjtEdgoRELelP) | [Will Tura](https://open.spotify.com/artist/4HS0xcnX3oDHfCLJpHlUT8) | [The Real..\. Will Tura](https://open.spotify.com/album/1ePKQbue1TcYAXS396gBq6) | 2:28 |
+| 12 | [Eenzaam Zonder Jou](https://open.spotify.com/track/7LGNLoTk2YjtEdgoRELelP) | [Will Tura](https://open.spotify.com/artist/4HS0xcnX3oDHfCLJpHlUT8) | [The Real..\. Will Tura](https://open.spotify.com/album/1ePKQbue1TcYAXS396gBq6) | 2:28 |
+| 13 | [Op Een Mooie Pinksterdag](https://open.spotify.com/track/7JQszt5pkJe43vlr0MUtLJ) | [Andre Van Den Heuvel](https://open.spotify.com/artist/761xE3Wn7hz2BXKeKxccx2), [Leen Jongewaard](https://open.spotify.com/artist/4vXx2olYpSrm2B1jLm4p10) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:25 |
 | 14 | [Mijn Vlakke Land](https://open.spotify.com/track/1UlztlUKod6mibYwJEWbsp) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [De Vertedering \- De 60 Mooiste Luisterliedjes](https://open.spotify.com/album/7wychIhuEA1yc9YClKzR17) | 2:52 |
 | 15 | [Kom Uit De Bedstee M'n Liefste](https://open.spotify.com/track/4DRM9sJB3gThCiic3nH01l) | [Egbert Douwe](https://open.spotify.com/artist/6P88irnnuZ1Nk5UyGNXfp2) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:21 |
 | 16 | [Verdronken Vlinder](https://open.spotify.com/track/7IEaiB0xfLdXzwHCG39cj5) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Het Beste Van Boudewijn De Groot](https://open.spotify.com/album/3jQCW6iuKAnDYZN9j67eiD) | 2:24 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 64 | [Da Doo Ron Ron](https://open.spotify.com/track/7CaFlYMP3S0nzP6rFu9NNx) | [Anneke Gronloh](https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y) | [De Regenboog Serie: Anneke Grönloh](https://open.spotify.com/album/4roRCYfTzJwP7dzOCPddx9) | 2:17 |
 | 65 | [Ik Vraag Het Aan De Sterren](https://open.spotify.com/track/6lyKdpQyifZpfBC7TDwgrb) | [Trea Dobbs](https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:32 |
 | 66 | [Verboden Vruchten](https://open.spotify.com/track/4EAzFow27dcGBbLyuEMa1e) | [Ronnie Tober](https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm) | [Het Beste van Ronnie Tober](https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3) | 2:47 |
-| 67 | [Teddybeer](https://open.spotify.com/track/7Abqdhr2qG6SdczwtyEXMY) | [Reggy Van Der Burgt](https://open.spotify.com/artist/0tc045Mrv3v0OFBSaMEY42) | [Teddybeer](https://open.spotify.com/album/4c6viEUmnbWPVgetFhChEM) | 2:22 |
-| 68 | [Wil u een stekkie? In een rijtuigie\. Op een mooie Pinksterdag\. M'n opa.](https://open.spotify.com/track/0iY2Ju7FiPTP505dYq3A6T) | [Harry Bannink](https://open.spotify.com/artist/1p8ZTsL8Oyog1jwhp9X3Fd) | [Zingt](https://open.spotify.com/album/1KoK4OFIIoQffVwLee1T4R) | 8:13 |
+| 67 | [Wil u een stekkie? In een rijtuigie\. Op een mooie Pinksterdag\. M'n opa.](https://open.spotify.com/track/0iY2Ju7FiPTP505dYq3A6T) | [Harry Bannink](https://open.spotify.com/artist/1p8ZTsL8Oyog1jwhp9X3Fd) | [Zingt](https://open.spotify.com/album/1KoK4OFIIoQffVwLee1T4R) | 8:13 |
+| 68 | [Teddybeer](https://open.spotify.com/track/7Abqdhr2qG6SdczwtyEXMY) | [Reggy Van Der Burgt](https://open.spotify.com/artist/0tc045Mrv3v0OFBSaMEY42) | [Teddybeer](https://open.spotify.com/album/4c6viEUmnbWPVgetFhChEM) | 2:22 |
 | 69 | [Jij Bent Voor Mij Alleen](https://open.spotify.com/track/2eNAWjONbl5l4Ju1Yywvmu) | [De Heikrekels](https://open.spotify.com/artist/3GOkYicm1xxsurU3bGY5JR) | [Het Beste van De Heikrekels \- Instrumentaal](https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG) | 2:51 |
 | 70 | [Dans met mij](https://open.spotify.com/track/5MHLaWXrjk9cBAckEY3MfY) | [Ben Cramer](https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U) | [Hollands Glorie](https://open.spotify.com/album/5wF0HLp8MOoEkaF7HW0bzK) | 2:39 |
 | 71 | [Arrivederci Ans](https://open.spotify.com/track/7xu8NzGEawIl7MztxduoGv) | [Ronnie Tober](https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm) | [Het Beste van Ronnie Tober](https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3) | 3:11 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 77 | [Parel Van De Zuidzee](https://open.spotify.com/track/3CA9D4W9IGIwaJvqEluwqt) | [Trea Dobbs](https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe) | [Dit Is De Nacht](https://open.spotify.com/album/10Q5R2eGFjQMYwjD4ovGyk) | 2:28 |
 | 78 | [Beestjes](https://open.spotify.com/track/5bNlDs2IvevjBJ3MH0FluN) | [Ronnie](https://open.spotify.com/artist/4T7ASdOjsGw9IwfeBt7ZjO), [De Ronnies](https://open.spotify.com/artist/4RSK0PChFYVDOyk9yHrhjC) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 2:48 |
 | 79 | [Anja\- De laatste dans](https://open.spotify.com/track/3ZKJvMeGf3nyvXYUbRZyLm) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [16 Vlaamse Hits](https://open.spotify.com/album/0joha6r0Q7FUybe1YodKsc) | 3:02 |
-| 80 | [Oh Was Ik Maar Bij Moeder Thuis Gebleven](https://open.spotify.com/track/3IKPbGsMMEZS2ngXYcrVNC) | [Johnny Hoes](https://open.spotify.com/artist/1Mi47bz9As8xAtRrVDTn3x) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 3:08 |
-| 81 | [Ik Heb Me Weer Vergist](https://open.spotify.com/track/0Uyl6ZCHXgiBW1EfEPjZjt) | [Bob Smit & the Duke City Sextet](https://open.spotify.com/artist/4yFGeDevG1iIHEryWKl7iL) | [The Story of Indo Rock, Vol\. 5](https://open.spotify.com/album/7aRjoPQ3OjMqUQS10W8B1t) | 3:02 |
+| 80 | [Ik Heb Me Weer Vergist](https://open.spotify.com/track/0Uyl6ZCHXgiBW1EfEPjZjt) | [Bob Smit & the Duke City Sextet](https://open.spotify.com/artist/4yFGeDevG1iIHEryWKl7iL) | [The Story of Indo Rock, Vol\. 5](https://open.spotify.com/album/7aRjoPQ3OjMqUQS10W8B1t) | 3:02 |
+| 81 | [Oh Was Ik Maar Bij Moeder Thuis Gebleven](https://open.spotify.com/track/3IKPbGsMMEZS2ngXYcrVNC) | [Johnny Hoes](https://open.spotify.com/artist/1Mi47bz9As8xAtRrVDTn3x) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 3:08 |
 | 82 | [Glaasje Op ..\. Laat Je Rijden](https://open.spotify.com/track/05yFbot05gXlbBErzpdLzk) | [Sjakie Schram](https://open.spotify.com/artist/2KnzTjr0eagWmhB5JHZD8i) | [De Beste Amsterdamse Hits Ooit](https://open.spotify.com/album/480v7dRWwISKjCTiBmnGGk) | 2:29 |
 | 83 | [Ik Ben Gelukkig Zonder Jou](https://open.spotify.com/track/2nfbogbSpAe2nsHEUXzXab) | [Conny Vandenbos](https://open.spotify.com/artist/4U9bAa04kxvEeWVVAGQiVC) | [Favorieten Expres](https://open.spotify.com/album/17bcpuAsqRKMw7Y7HXiWAL) | 2:28 |
 | 84 | [Mexico](https://open.spotify.com/track/00LS9wY7MHuurmWfefavb9) | [Zangeres Zonder Naam](https://open.spotify.com/artist/6m9EYPGGPleNS457wrg9p9) | [Alle 40 Goed](https://open.spotify.com/album/7E0mYawKN4S3u4gK0mwq88) | 3:36 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 89 | [Suzanne \- Original Version](https://open.spotify.com/track/1q6BHWlhkW6suda3M1s8G2) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [Herman Van Veen I & II](https://open.spotify.com/album/0YSFiNXQAS9JDztNj5Lyfl) | 3:49 |
 | 90 | [Vaarwel Ik Zal Geen Traan Meer Om Je Laten](https://open.spotify.com/track/5B3Ks1FRxvLRFcFEnV79BD) | [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [60 Hits](https://open.spotify.com/album/18JsD3oxq36xy7uEIzya6B) | 3:32 |
 
-Snapshot ID: `AAAAABzVRJFinI+h0YA12rHWzsyHTeLz`
+Snapshot ID: `AAAAAAkJS5u8kIF9AUYqqmGBHRzUIK09`

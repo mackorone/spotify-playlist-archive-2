@@ -2906,7 +2906,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 208024,
       "name": "bad thing (bunny hop)",
       "url": "https://open.spotify.com/track/4zmXWmILSBkn7gTvIyCiNi"
@@ -3750,7 +3750,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 173622,
       "name": "big feelings",
       "url": "https://open.spotify.com/track/6MFSqc8pzXlwfzXqWZEKd4"
@@ -11372,7 +11372,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 199809,
       "name": "freak",
       "url": "https://open.spotify.com/track/6QhsCYcFdfyMbPWCiViI8K"
@@ -11870,6 +11870,32 @@
       "duration_ms": 193733,
       "name": "GHOST TOWN",
       "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
+    },
+    {
+      "album": {
+        "name": "Giants",
+        "url": "https://open.spotify.com/album/5tVxztZyP1rprzf4RMs994"
+      },
+      "artists": [
+        {
+          "name": "Iman Fandi",
+          "url": "https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg"
+        },
+        {
+          "name": "weish",
+          "url": "https://open.spotify.com/artist/3Wda211uQlgobdoSJ7i8SW"
+        },
+        {
+          "name": "NDPeeps",
+          "url": "https://open.spotify.com/artist/1BhtFoW6keQNCZBQEDFmmT"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179368,
+      "name": "Giants",
+      "url": "https://open.spotify.com/track/6Lj4wUXcGOzrwVmBIlLy34"
     },
     {
       "album": {
@@ -18841,6 +18867,24 @@
     },
     {
       "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223069,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
+    },
+    {
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
       },
@@ -22512,7 +22556,7 @@
       ],
       "date_added": "2026-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 172001,
       "name": "nowhere, nobody",
       "url": "https://open.spotify.com/track/5JbnupagBhD0AanbkCELdH"
@@ -28386,7 +28430,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-02",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -34846,7 +34890,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
@@ -36070,7 +36114,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
@@ -39128,7 +39172,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 295890,
       "name": "\u904e\u4e86\u5e7e\u5929(\u5408\u5531\u7248)",
       "url": "https://open.spotify.com/track/4GEWZ1vDFVkmhG55zpKFLO"

@@ -1,12 +1,12 @@
 {
   "description": "Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...",
-  "num_followers": 261659,
+  "num_followers": 261721,
   "original_name": "Las Rancheras de Pap\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADzOyLnCY3hLbge/MRXJWNLGpJml",
+  "snapshot_id": "AAAAAG3p1mTr4eCLU52UeVNElFF76Qo+",
   "tracks": [
     {
       "added_at": "2024-07-11 01:00:12",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Antonio Aguilar Con Tambora, Vol. 2",
-        "url": "https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 188395,
-      "name": "Un Pu\u00f1o De Tierra",
-      "url": "https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Vicente Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 156866,
       "name": "Hermoso Cari\u00f1o",
       "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Antonio Aguilar Con Tambora, Vol. 2",
+        "url": "https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 188395,
+      "name": "Un Pu\u00f1o De Tierra",
+      "url": "https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 175400,
-      "name": "La Farsante",
-      "url": "https://open.spotify.com/track/1o0tPc9qFFFuGK4ka2IkCp"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "El Cantinero",
         "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 158400,
       "name": "Te Solt\u00e9 la Rienda",
       "url": "https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 175400,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/1o0tPc9qFFFuGK4ka2IkCp"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "15 Anos De Exitos",
-        "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 177013,
-      "name": "Se Me Olvid\u00f3 Otra Vez",
-      "url": "https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Gracias (with Mariachi Vargas de Tecalitl\u00e1n)",
         "url": "https://open.spotify.com/album/6nhkBmPqfBjoJwLMVClgxH"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 137120,
       "name": "En el \u00daltimo Trago",
       "url": "https://open.spotify.com/track/6i6tTUmg1i9PDwETgb5v7J"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "15 Anos De Exitos",
+        "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 177013,
+      "name": "Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Mi Buena Suerte",
-        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 163680,
-      "name": "Apenas Te Fuistes Ayer",
-      "url": "https://open.spotify.com/track/6V79WQFVLdiCLrlsYpdQTV"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Nuestra Historia",
         "url": "https://open.spotify.com/album/2aRhJtFFfvHtPv9EUegbVd"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 241386,
       "name": "El Caminante",
       "url": "https://open.spotify.com/track/4Mfepu07REoaF3fxJBtpzi"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Mi Buena Suerte",
+        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 163680,
+      "name": "Apenas Te Fuistes Ayer",
+      "url": "https://open.spotify.com/track/6V79WQFVLdiCLrlsYpdQTV"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Con Mariachi",
-        "url": "https://open.spotify.com/album/6ZmAvrZsc7atoSDqqODDVF"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "Besando La Cruz - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/4WYshCZOAaCGFRcXfJiOEZ"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
         "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 128400,
       "name": "Libro Abierto",
       "url": "https://open.spotify.com/track/6squwxmGYNEgrk3Ai0piCi"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Con Mariachi",
+        "url": "https://open.spotify.com/album/6ZmAvrZsc7atoSDqqODDVF"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "Besando La Cruz - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/4WYshCZOAaCGFRcXfJiOEZ"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Boleros-Boleros-Bole",
-        "url": "https://open.spotify.com/album/7m8PpfxncQ37a8m3xkI8sl"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 131626,
-      "name": "Media Vuelta",
-      "url": "https://open.spotify.com/track/2KGMcEzHuO83lqDTU0KORh"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Un Hombre Derecho",
         "url": "https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 188604,
       "name": "Nadie Es Eterno",
       "url": "https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Boleros-Boleros-Bole",
+        "url": "https://open.spotify.com/album/7m8PpfxncQ37a8m3xkI8sl"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 131626,
+      "name": "Media Vuelta",
+      "url": "https://open.spotify.com/track/2KGMcEzHuO83lqDTU0KORh"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Ya Pa'que",
-        "url": "https://open.spotify.com/album/4IHpbUl6G1dneIv8EM8Qt3"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Con Que Me Pagas",
-      "url": "https://open.spotify.com/track/6rLlQDuwozeLWJEXZtTxrl"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Lo Mejor De Lo Mejor De RCA Victor",
         "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 199626,
       "name": "T\u00fa y las Nubes",
       "url": "https://open.spotify.com/track/4kwF7GLFxdHxhI6yE7N7DH"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Ya Pa'que",
+        "url": "https://open.spotify.com/album/4IHpbUl6G1dneIv8EM8Qt3"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Con Que Me Pagas",
+      "url": "https://open.spotify.com/track/6rLlQDuwozeLWJEXZtTxrl"
     },
     {
       "added_at": "2024-07-11 01:00:12",

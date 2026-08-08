@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 
 > The biggest party hits of the 1970s\. Cover: The Jacksons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,681 likes - 150 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,914 likes - 150 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 38 | [Mamma Mia](https://open.spotify.com/track/2TxCwUlqaOH3TIyJqGgR91) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Abba](https://open.spotify.com/album/1kM6xcSYO5ASJaWgygznL7) | 3:33 |
 | 39 | [Stuck In The Middle With You](https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT) | [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki) | [Stealers Wheel](https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll) | 3:28 |
 | 40 | [Burning Love](https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 2:51 |
-| 41 | [The Bitch Is Back \- Remastered 1995](https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 3:44 |
-| 42 | [Da Ya Think I'm Sexy?](https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Blondes Have More Fun](https://open.spotify.com/album/38tXOrjXUUfQWWV2DRwMio) | 5:31 |
+| 41 | [Da Ya Think I'm Sexy?](https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Blondes Have More Fun](https://open.spotify.com/album/38tXOrjXUUfQWWV2DRwMio) | 5:31 |
+| 42 | [The Bitch Is Back \- Remastered 1995](https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 3:44 |
 | 43 | [Long Train Runnin'](https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:27 |
 | 44 | [Daddy Cool](https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 3:28 |
-| 45 | [ABC](https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc) | 2:54 |
-| 46 | [Born to Be Alive \- The Original](https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5) | [Patrick Hernandez](https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z) | [Born to Be Alive \(The Original\)](https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD) | 3:08 |
+| 45 | [Born to Be Alive \- The Original](https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5) | [Patrick Hernandez](https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z) | [Born to Be Alive \(The Original\)](https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD) | 3:08 |
+| 46 | [ABC](https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc) | 2:54 |
 | 47 | [You Sexy Thing](https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Hot Chocolate](https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni) | 4:04 |
 | 48 | [Don't Stop \- 2004 Remaster](https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:13 |
 | 49 | [Sunny](https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 4:02 |
@@ -127,15 +127,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 117 | [Ain't No Stoppin' Us Now](https://open.spotify.com/track/4Ymk3pqpkGx19gyxxUj5LK) | [McFadden & Whitehead](https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY) | [McFadden & Whitehead](https://open.spotify.com/album/49y7YFLvKz54gVZZzHbAzs) | 7:00 |
 | 118 | [Give Up The Funk \(Tear The Roof Off The Sucker\)](https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Mothership Connection](https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2) | 5:48 |
 | 119 | [Jet Airliner](https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Book Of Dreams](https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd) | 4:25 |
-| 120 | [Hollywood Swinging](https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Wild And Peaceful](https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI) | 4:39 |
-| 121 | [I'm Gonna Love You Just A Little More Baby](https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [I've Got So Much To Give](https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI) | 7:11 |
+| 120 | [I'm Gonna Love You Just A Little More Baby](https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [I've Got So Much To Give](https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI) | 7:11 |
+| 121 | [Hollywood Swinging](https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Wild And Peaceful](https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI) | 4:39 |
 | 122 | [Love Is The Drug](https://open.spotify.com/track/3wtMkvedoWMQ3XTKv7tqcZ) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Siren](https://open.spotify.com/album/5Tpor3YZBVEJ9tWD5L31mH) | 4:11 |
 | 123 | [It's A Shame](https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [2nd Time Around \(Expanded Edition\)](https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG) | 3:10 |
 | 124 | [Dancing In The Moonlight](https://open.spotify.com/track/55GxhCTq6SY3tFTVh7z1nR) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing In The Moonlight](https://open.spotify.com/album/2gvwC6eFsQH5rlvrZyhs3s) | 2:58 |
 | 125 | [Back Stabbers](https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 3:06 |
 | 126 | [Boogie Oogie Oogie \- Remastered 2004](https://open.spotify.com/track/07NrCEN3egNvw8td2LxqJO) | [A Taste Of Honey](https://open.spotify.com/artist/1ii6e2pv8VIRwnTER71rMl) | [A Taste Of Honey](https://open.spotify.com/album/4QJA3YXQdpLhuIztkSgrpo) | 5:38 |
-| 127 | [Rockin' Robin](https://open.spotify.com/track/2aadUB2b4hugbdIPU8Aypk) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Got To Be There](https://open.spotify.com/album/6pam66S3gqDo0Yy4cjlR9G) | 2:31 |
-| 128 | [Heaven Must Be Missing An Angel \- Pt\. 1](https://open.spotify.com/track/7qQzkUWsbvoTDbNpW3FHQu) | [Tavares](https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0) | [It Only Takes a Minute: A Lifetime with Tavares](https://open.spotify.com/album/1Qe9DoLXWCIwguQieoTcQh) | 6:29 |
+| 127 | [Heaven Must Be Missing An Angel \- Pt\. 1](https://open.spotify.com/track/7qQzkUWsbvoTDbNpW3FHQu) | [Tavares](https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0) | [It Only Takes a Minute: A Lifetime with Tavares](https://open.spotify.com/album/1Qe9DoLXWCIwguQieoTcQh) | 6:29 |
+| 128 | [Rockin' Robin](https://open.spotify.com/track/2aadUB2b4hugbdIPU8Aypk) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Got To Be There](https://open.spotify.com/album/6pam66S3gqDo0Yy4cjlR9G) | 2:31 |
 | 129 | [Vehicle](https://open.spotify.com/track/6hnyQ0YpiO35rutiLLHLmr) | [The Ides Of March](https://open.spotify.com/artist/1Csjn2SQV7R9szDhhR7Aji) | [Vehicle](https://open.spotify.com/album/23mdYErK9fS7hxWuFBGUob) | 2:58 |
 | 130 | [You See The Trouble With Me](https://open.spotify.com/track/3O48gtvD20jxiNtT7tWr4C) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Let The Music Play](https://open.spotify.com/album/2e9sKnS0ISiTbrrn181xlM) | 3:29 |
 | 131 | [Don't Leave Me This Way](https://open.spotify.com/track/4Af8yzidDPc520TFd4TmkE) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [The Best Of](https://open.spotify.com/album/6lap95wPl0DwJva1FLGIfx) | 3:37 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 149 | [Car Wash \- Long Version](https://open.spotify.com/track/2pbWkjtGtjkzBdZ95GFINm) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [Car Wash](https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz) | 5:07 |
 | 150 | [Travelin' Band](https://open.spotify.com/track/0INUNNYfsp4qr6kJdY46mY) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(Expanded Edition\)](https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK) | 2:07 |
 
-Snapshot ID: `AAAAABFkREJWq3jB4YvxcvuU3PuIfU32`
+Snapshot ID: `AAAAAOjhcUD95Cd/lzvWT+uxpz2zs/7Q`

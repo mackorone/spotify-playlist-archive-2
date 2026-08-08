@@ -1,12 +1,12 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Yammi",
-  "num_followers": 11079,
+  "num_followers": 11093,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIGzWZQ2618o8sQ+OcC3Pl4IAXe5",
+  "snapshot_id": "AAAAAEdOWPzUWOxmCpqJYQoZ09/mrbRv",
   "tracks": [
     {
       "added_at": "2026-08-06 23:59:15",
@@ -343,6 +343,22 @@
     {
       "added_at": "2026-08-06 23:59:15",
       "album": {
+        "name": "Naoa",
+        "url": "https://open.spotify.com/album/4m1seE9FusFaKvjPKhBQI2"
+      },
+      "artists": [
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        }
+      ],
+      "duration_ms": 237898,
+      "name": "Naoa",
+      "url": "https://open.spotify.com/track/1Vm5Ka4woQQnVYG8HJtc12"
+    },
+    {
+      "added_at": "2026-08-06 23:59:15",
+      "album": {
         "name": "Ganda",
         "url": "https://open.spotify.com/album/3fouXgLz0yUNZzTUuQnFW8"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 196040,
       "name": "Ganda",
       "url": "https://open.spotify.com/track/3jLHB3D1Nk2eH15et5avoL"
-    },
-    {
-      "added_at": "2026-08-06 23:59:15",
-      "album": {
-        "name": "Naoa",
-        "url": "https://open.spotify.com/album/4m1seE9FusFaKvjPKhBQI2"
-      },
-      "artists": [
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
-        }
-      ],
-      "duration_ms": 237898,
-      "name": "Naoa",
-      "url": "https://open.spotify.com/track/1Vm5Ka4woQQnVYG8HJtc12"
     },
     {
       "added_at": "2026-08-06 23:59:15",
@@ -811,8 +811,8 @@
     {
       "added_at": "2026-08-06 23:59:15",
       "album": {
-        "name": "Si Unajua? Remix",
-        "url": "https://open.spotify.com/album/4R5I496lwxdWgmVhiM4SqW"
+        "name": "Wewe Hapo",
+        "url": "https://open.spotify.com/album/5DUQwTD3jaPFr02UKR2Ejl"
       },
       "artists": [
         {
@@ -820,33 +820,13 @@
           "url": "https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc"
         },
         {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+          "name": "Mr Blue",
+          "url": "https://open.spotify.com/artist/68II63kR4auffzAj6s4Mrf"
         }
       ],
-      "duration_ms": 198241,
-      "name": "Si Unajua? - Remix",
-      "url": "https://open.spotify.com/track/0ZXAiN5TV38BEuFIK7RlvI"
-    },
-    {
-      "added_at": "2026-08-06 23:59:15",
-      "album": {
-        "name": "Ex Arudiwi",
-        "url": "https://open.spotify.com/album/1wrIhtY5ABU4fmk26qKf2m"
-      },
-      "artists": [
-        {
-          "name": "AbduKiba",
-          "url": "https://open.spotify.com/artist/61UXsInLB2mt0OynwmL75T"
-        },
-        {
-          "name": "D Voice",
-          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
-        }
-      ],
-      "duration_ms": 199132,
-      "name": "Ex Arudiwi",
-      "url": "https://open.spotify.com/track/1nURRVhNIxYTnFGL3amjQh"
+      "duration_ms": 148036,
+      "name": "Wewe Hapo",
+      "url": "https://open.spotify.com/track/4lYawUXlGMUMRB75BiuXGf"
     },
     {
       "added_at": "2026-08-06 23:59:15",
@@ -887,38 +867,22 @@
     {
       "added_at": "2026-08-06 23:59:15",
       "album": {
-        "name": "Stress",
-        "url": "https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD"
+        "name": "Ex Arudiwi",
+        "url": "https://open.spotify.com/album/1wrIhtY5ABU4fmk26qKf2m"
       },
       "artists": [
         {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL"
-        }
-      ],
-      "duration_ms": 252043,
-      "name": "Stress",
-      "url": "https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg"
-    },
-    {
-      "added_at": "2026-08-06 23:59:15",
-      "album": {
-        "name": "Wewe Hapo",
-        "url": "https://open.spotify.com/album/5DUQwTD3jaPFr02UKR2Ejl"
-      },
-      "artists": [
-        {
-          "name": "Msomali",
-          "url": "https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc"
+          "name": "AbduKiba",
+          "url": "https://open.spotify.com/artist/61UXsInLB2mt0OynwmL75T"
         },
         {
-          "name": "Mr Blue",
-          "url": "https://open.spotify.com/artist/68II63kR4auffzAj6s4Mrf"
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
         }
       ],
-      "duration_ms": 148036,
-      "name": "Wewe Hapo",
-      "url": "https://open.spotify.com/track/4lYawUXlGMUMRB75BiuXGf"
+      "duration_ms": 199132,
+      "name": "Ex Arudiwi",
+      "url": "https://open.spotify.com/track/1nURRVhNIxYTnFGL3amjQh"
     },
     {
       "added_at": "2026-08-06 23:59:15",
@@ -939,6 +903,42 @@
       "duration_ms": 283884,
       "name": "Umekopwa",
       "url": "https://open.spotify.com/track/2n7tGYrsfxxMTfdUFpaokG"
+    },
+    {
+      "added_at": "2026-08-06 23:59:15",
+      "album": {
+        "name": "Si Unajua? Remix",
+        "url": "https://open.spotify.com/album/4R5I496lwxdWgmVhiM4SqW"
+      },
+      "artists": [
+        {
+          "name": "Msomali",
+          "url": "https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc"
+        },
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "duration_ms": 198241,
+      "name": "Si Unajua? - Remix",
+      "url": "https://open.spotify.com/track/0ZXAiN5TV38BEuFIK7RlvI"
+    },
+    {
+      "added_at": "2026-08-06 23:59:15",
+      "album": {
+        "name": "Stress",
+        "url": "https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD"
+      },
+      "artists": [
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL"
+        }
+      ],
+      "duration_ms": 252043,
+      "name": "Stress",
+      "url": "https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg"
     },
     {
       "added_at": "2026-08-06 23:59:15",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-08-06 23:59:15",
       "album": {
-        "name": "Makombolelo singeli version",
-        "url": "https://open.spotify.com/album/09SURbkZtHwTdhzZ2akoQb"
-      },
-      "artists": [
-        {
-          "name": "Mazegele Boy",
-          "url": "https://open.spotify.com/artist/3w8cMeLYZiZ0k2N7wqhGZJ"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "Makombolelo singeli version",
-      "url": "https://open.spotify.com/track/7mA3HuBQGoPo2CQNg3MRqs"
-    },
-    {
-      "added_at": "2026-08-06 23:59:15",
-      "album": {
         "name": "Nikizipata",
         "url": "https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 206200,
       "name": "Mtaani Kwetu",
       "url": "https://open.spotify.com/track/7wHcrG6ULMo6MtPfVro6je"
+    },
+    {
+      "added_at": "2026-08-06 23:59:15",
+      "album": {
+        "name": "Makombolelo singeli version",
+        "url": "https://open.spotify.com/album/09SURbkZtHwTdhzZ2akoQb"
+      },
+      "artists": [
+        {
+          "name": "Mazegele Boy",
+          "url": "https://open.spotify.com/artist/3w8cMeLYZiZ0k2N7wqhGZJ"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Makombolelo singeli version",
+      "url": "https://open.spotify.com/track/7mA3HuBQGoPo2CQNg3MRqs"
     },
     {
       "added_at": "2026-08-06 23:59:15",
@@ -1351,38 +1351,6 @@
     {
       "added_at": "2026-08-06 23:59:15",
       "album": {
-        "name": "Chura",
-        "url": "https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm"
-      },
-      "artists": [
-        {
-          "name": "Snura",
-          "url": "https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9"
-        }
-      ],
-      "duration_ms": 272933,
-      "name": "Chura",
-      "url": "https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g"
-    },
-    {
-      "added_at": "2026-08-06 23:59:15",
-      "album": {
-        "name": "Maokoto",
-        "url": "https://open.spotify.com/album/42BkNLDMP0zEbvzJaS3JuG"
-      },
-      "artists": [
-        {
-          "name": "Mocco Genius",
-          "url": "https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Maokoto",
-      "url": "https://open.spotify.com/track/5NV9jkFToD1sqTwKqOTZUe"
-    },
-    {
-      "added_at": "2026-08-06 23:59:15",
-      "album": {
         "name": "Jiangalie",
         "url": "https://open.spotify.com/album/13ANj5VXI99symiSXYggqI"
       },
@@ -1403,26 +1371,50 @@
     {
       "added_at": "2026-08-06 23:59:15",
       "album": {
-        "name": "Natafuta Hela",
-        "url": "https://open.spotify.com/album/1R7nqRuAyCeoox1AAo7zAp"
+        "name": "Maokoto",
+        "url": "https://open.spotify.com/album/42BkNLDMP0zEbvzJaS3JuG"
       },
       "artists": [
         {
-          "name": "DJ Jukk",
-          "url": "https://open.spotify.com/artist/32nFfq390c9vyz1ZqDGpZl"
-        },
-        {
-          "name": "G Nako",
-          "url": "https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC"
-        },
-        {
-          "name": "K Pizo",
-          "url": "https://open.spotify.com/artist/2B5oYAod3fGCDamm4YdUWV"
+          "name": "Mocco Genius",
+          "url": "https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9"
         }
       ],
-      "duration_ms": 224545,
-      "name": "Natafuta Hela",
-      "url": "https://open.spotify.com/track/3kKrn6c9edbzPVXnReWadK"
+      "duration_ms": 154838,
+      "name": "Maokoto",
+      "url": "https://open.spotify.com/track/5NV9jkFToD1sqTwKqOTZUe"
+    },
+    {
+      "added_at": "2026-08-06 23:59:15",
+      "album": {
+        "name": "Chura",
+        "url": "https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm"
+      },
+      "artists": [
+        {
+          "name": "Snura",
+          "url": "https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9"
+        }
+      ],
+      "duration_ms": 272933,
+      "name": "Chura",
+      "url": "https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g"
+    },
+    {
+      "added_at": "2026-08-06 23:59:15",
+      "album": {
+        "name": "Shobo",
+        "url": "https://open.spotify.com/album/1BXDsftgGPlLb7tGHCqquQ"
+      },
+      "artists": [
+        {
+          "name": "Barnaba",
+          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
+        }
+      ],
+      "duration_ms": 186193,
+      "name": "Shobo",
+      "url": "https://open.spotify.com/track/2JjBpdexI7ov1iDdfZPISk"
     }
   ],
   "unique_name": "Singeli Sounds",

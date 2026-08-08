@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Michigander along with the hottest alternative songs right now.\n",
+  "description": "Weezer along with the hottest alternative songs right now.\n",
   "name": "ALT NOW",
   "tracks": [
     {
@@ -2895,6 +2895,24 @@
     },
     {
       "album": {
+        "name": "C.E.O.",
+        "url": "https://open.spotify.com/album/02x4x22HOnv0j9Zk1FJpeY"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174253,
+      "name": "C.E.O.",
+      "url": "https://open.spotify.com/track/6ZsVaTDPoRFCX9evH3x1U7"
+    },
+    {
+      "album": {
         "name": "Caffeine",
         "url": "https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO"
       },
@@ -3310,6 +3328,24 @@
       "duration_ms": 188514,
       "name": "catch these fists",
       "url": "https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw"
+    },
+    {
+      "album": {
+        "name": "Caught In A Jam",
+        "url": "https://open.spotify.com/album/6MDmeqzitvQIK0n7q5Ob5X"
+      },
+      "artists": [
+        {
+          "name": "Portraits Of Tracy",
+          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253250,
+      "name": "Caught In A Jam",
+      "url": "https://open.spotify.com/track/67aVjLV3z4QqlXMBrGoOOJ"
     },
     {
       "album": {
@@ -6882,7 +6918,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 193733,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi"
@@ -7232,7 +7268,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 170826,
       "name": "Half A Spark",
       "url": "https://open.spotify.com/track/7FciOLJQatqLi7F813PrzE"
@@ -9096,7 +9132,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 253266,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91"
@@ -14982,6 +15018,24 @@
       "duration_ms": 182186,
       "name": "Save me now",
       "url": "https://open.spotify.com/track/59ledUSDBtJ0f4YEAf8Fxi"
+    },
+    {
+      "album": {
+        "name": "Saw You Stand",
+        "url": "https://open.spotify.com/album/0nJNVpLzyGyYcS7Qz0qkQT"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289187,
+      "name": "Saw You Stand",
+      "url": "https://open.spotify.com/track/5bfBYLi32nYvrKbtPi78ek"
     },
     {
       "album": {

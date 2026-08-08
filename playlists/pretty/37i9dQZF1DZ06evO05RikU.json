@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 43824,
+  "num_followers": 43826,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anJ9AAAAAABS+JoikKD8B1JjfupTwO5z",
+  "snapshot_id": "anPOgAAAAAAc7ds+srWO5UCxfxyU2Cmn",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "MILAMORES",
-        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
+        "name": "Final Minutes",
+        "url": "https://open.spotify.com/album/4BQki3gnvnzI2mTWWrmIbo"
       },
       "artists": [
+        {
+          "name": "LMNT 115",
+          "url": "https://open.spotify.com/artist/2uhgJK13algiylq9MtKRWu"
+        },
         {
           "name": "Sof\u00eda Reyes",
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         },
         {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
         }
       ],
-      "duration_ms": 166081,
-      "name": "COBARDE",
-      "url": "https://open.spotify.com/track/0R2cYqQ0pwNJ3Ii1kzj0kF"
+      "duration_ms": 195148,
+      "name": "Final Minutes",
+      "url": "https://open.spotify.com/track/6jTyOuZb23nhz43kwJHp4Q"
     },
     {
       "added_at": null,
@@ -227,26 +231,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Final Minutes",
-        "url": "https://open.spotify.com/album/4BQki3gnvnzI2mTWWrmIbo"
+        "name": "MILAMORES",
+        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
       },
       "artists": [
-        {
-          "name": "LMNT 115",
-          "url": "https://open.spotify.com/artist/2uhgJK13algiylq9MtKRWu"
-        },
         {
           "name": "Sof\u00eda Reyes",
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         },
         {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 195148,
-      "name": "Final Minutes",
-      "url": "https://open.spotify.com/track/6jTyOuZb23nhz43kwJHp4Q"
+      "duration_ms": 166081,
+      "name": "COBARDE",
+      "url": "https://open.spotify.com/track/0R2cYqQ0pwNJ3Ii1kzj0kF"
     },
     {
       "added_at": null,
@@ -363,30 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dancing On Dangerous (feat. Sof\u00eda Reyes)",
-        "url": "https://open.spotify.com/album/2JxYl1wEAY8SUgZdUMYQ6Z"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "Dancing On Dangerous (feat. Sof\u00eda Reyes)",
-      "url": "https://open.spotify.com/track/6OYZvwKN8GaauTrJS1TuuH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mal De Amores",
         "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },
@@ -407,6 +383,30 @@
       "duration_ms": 187200,
       "name": "R.I.P. (feat. Rita Ora & Anitta)",
       "url": "https://open.spotify.com/track/7JsIEz27QU9kk7z1EEp9kt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dancing On Dangerous (feat. Sof\u00eda Reyes)",
+        "url": "https://open.spotify.com/album/2JxYl1wEAY8SUgZdUMYQ6Z"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "Dancing On Dangerous (feat. Sof\u00eda Reyes)",
+      "url": "https://open.spotify.com/track/6OYZvwKN8GaauTrJS1TuuH"
     },
     {
       "added_at": null,
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         }
       ],
-      "duration_ms": 133604,
-      "name": "Si Me Ven Llorando",
-      "url": "https://open.spotify.com/track/6gUeEvhTyXO9oZxuimoN6e"
+      "duration_ms": 128669,
+      "name": "De To'",
+      "url": "https://open.spotify.com/track/6DqcnWUGHiPYXPmlfiyAKu"
     },
     {
       "added_at": null,
@@ -948,9 +948,9 @@
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         }
       ],
-      "duration_ms": 128669,
-      "name": "De To'",
-      "url": "https://open.spotify.com/track/6DqcnWUGHiPYXPmlfiyAKu"
+      "duration_ms": 133604,
+      "name": "Si Me Ven Llorando",
+      "url": "https://open.spotify.com/track/6gUeEvhTyXO9oZxuimoN6e"
     },
     {
       "added_at": null,
@@ -1043,26 +1043,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "coRaZ\u00d3n fR\u00edO",
-        "url": "https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn"
-      },
-      "artists": [
-        {
-          "name": "nic",
-          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 204633,
-      "name": "coRaZ\u00d3n fR\u00edO",
-      "url": "https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sped Up Songs Vol. 1",
         "url": "https://open.spotify.com/album/0aWkwVZqDzu02AIUhdqX7L"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 170765,
       "name": "1, 2, 3 - Sped Up",
       "url": "https://open.spotify.com/track/2RJnhDvc6Z4xwMX6hhkeRX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "coRaZ\u00d3n fR\u00edO",
+        "url": "https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn"
+      },
+      "artists": [
+        {
+          "name": "nic",
+          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 204633,
+      "name": "coRaZ\u00d3n fR\u00edO",
+      "url": "https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3"
     }
   ],
   "unique_name": "This Is Sof\u00eda Reyes",

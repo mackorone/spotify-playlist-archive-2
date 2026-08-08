@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Makalister, Luiz Barata, Montosz, Nitcho
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,863 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,859 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Quem É Você ?](https://open.spotify.com/track/0XLbjpLEfZmvF0rTl51plG) | [Gyylo](https://open.spotify.com/artist/0SU90Y0GlSJKkS3zelkgbS), [OrdinaryJoe](https://open.spotify.com/artist/5YXq4N2hgx1FyPkhbRZAxN) | [Quem É Você ?](https://open.spotify.com/album/2PAOTuYYVflDdkiQ7HNf2H) | 2:01 |
 | 75 | [Contas Pagas](https://open.spotify.com/track/5TIuyixiZOUdnYGOiyPBZE) | [pedrvso](https://open.spotify.com/artist/1dPnN5JbjdsN3E4IyQyiuw), [Lis Mc](https://open.spotify.com/artist/5OfwMhn4XgysSIxSxBvTDE), [Thalin](https://open.spotify.com/artist/5dTZiJpPZA6dvt0KWhi5Yd), [Sujoground](https://open.spotify.com/artist/2sngdu3B3WLqIsadMhHDa2) | [Direitos Não Reservados](https://open.spotify.com/album/09ixUAnB4zcOmB7YU4F0Gm) | 2:15 |
 
-Snapshot ID: `AAAAAL3RJI84evVM3uR0XJ1KxFaRZGQf`
+Snapshot ID: `AAAAAM4P43lWkJnexoUhnlFC7YZCrq9F`

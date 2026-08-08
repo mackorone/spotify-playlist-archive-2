@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Shawty lo que necesitas es darle flow.  Oscar Maydon en portada",
+  "description": "Shawty lo que necesitas es darle flow.  De La Rose en portada",
   "name": "Dale Flow",
   "tracks": [
     {
@@ -970,6 +970,32 @@
       "duration_ms": 161632,
       "name": "Anoche so\u00f1\u00e9 contigo",
       "url": "https://open.spotify.com/track/2rxEj3rHTDE6GZUsUv2Owp"
+    },
+    {
+      "album": {
+        "name": "ANTE LOS 20",
+        "url": "https://open.spotify.com/album/6SeRzhmhpvWliemVB1hCrx"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Drakomafia",
+          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
+        },
+        {
+          "name": "Piero 47",
+          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "ANTE LOS 20",
+      "url": "https://open.spotify.com/track/5NPPbZVu9jBopufHq7NaHL"
     },
     {
       "album": {
@@ -2798,7 +2824,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 163201,
       "name": "B\u00e1ilame",
       "url": "https://open.spotify.com/track/23QqKMGDcUgIIfcEeVkNDF"
@@ -3036,6 +3062,24 @@
       "duration_ms": 139376,
       "name": "CARNET",
       "url": "https://open.spotify.com/track/1GKEH7oWPx8xDlDrggaEnJ"
+    },
+    {
+      "album": {
+        "name": "Mi Carpe Diem",
+        "url": "https://open.spotify.com/album/5xNpY6LGUqNbluWuLJRNSl"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173694,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/0aLgqklsBNnVValSEGssbz"
     },
     {
       "album": {
@@ -9718,7 +9762,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 213103,
       "name": "La Misi\u00f3n",
       "url": "https://open.spotify.com/track/5cCa5ALttVFieHY2jCm89o"
@@ -10322,6 +10366,24 @@
       "duration_ms": 165408,
       "name": "Las de Octubre",
       "url": "https://open.spotify.com/track/570gZiXUFd5phvmvh2gGCc"
+    },
+    {
+      "album": {
+        "name": "Las Fotos",
+        "url": "https://open.spotify.com/album/12H2GukasyoPShDZkTicVv"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169150,
+      "name": "Las Fotos",
+      "url": "https://open.spotify.com/track/3CYX8cFIuYtniThns4zvLx"
     },
     {
       "album": {
@@ -15392,7 +15454,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 222068,
       "name": "Perdona mi amor",
       "url": "https://open.spotify.com/track/2BV0Mk5ceP9oYbzuZqoawo"
@@ -18923,6 +18985,28 @@
     },
     {
       "album": {
+        "name": "sin 1 ok",
+        "url": "https://open.spotify.com/album/5dHc7SRmXSeAuQN3mW4bEc"
+      },
+      "artists": [
+        {
+          "name": "Roby Damian",
+          "url": "https://open.spotify.com/artist/1ZZuCXECSRpnxKceMooLk5"
+        },
+        {
+          "name": "Zizzy",
+          "url": "https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194526,
+      "name": "sin 1 ok",
+      "url": "https://open.spotify.com/track/4QHQ1Wzx9RcU6TfGayFHEf"
+    },
+    {
+      "album": {
         "name": "Sin Gps",
         "url": "https://open.spotify.com/album/3TYIfFHZY1VobGddvBbebD"
       },
@@ -19036,7 +19120,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 156000,
       "name": "SINALOKA",
       "url": "https://open.spotify.com/track/23meQ8JXeFHiInKkO1jyV2"

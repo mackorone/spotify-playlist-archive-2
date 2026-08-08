@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-15",
-  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! 008RACCA en portada. ",
+  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Pielroja en portada. ",
   "name": "Rimas Frescas ",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 274714,
       "name": "10 de Mayo",
       "url": "https://open.spotify.com/track/4CStCO1MNI5nyNxtzzvbx4"
@@ -800,7 +800,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 221538,
       "name": "A D\u00f3nde Vayas",
       "url": "https://open.spotify.com/track/6L50F7d4Z3tE9oqd5dIUCU"
@@ -1878,7 +1878,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 167740,
       "name": "Alma Vacia",
       "url": "https://open.spotify.com/track/79L5SGH5O7i2oIyqFLx3PC"
@@ -2551,6 +2551,44 @@
     },
     {
       "album": {
+        "name": "ASCENSO",
+        "url": "https://open.spotify.com/album/4Jr5h8Jn3duOW1cu9BIDpw"
+      },
+      "artists": [
+        {
+          "name": "LA CONTRA CORRIENTE",
+          "url": "https://open.spotify.com/artist/6byoOCKsZ6FDdsfOmpnnme"
+        },
+        {
+          "name": "Big Sempa",
+          "url": "https://open.spotify.com/artist/5aroBdSzO56ovglkIfI9Uf"
+        },
+        {
+          "name": "Maneyx",
+          "url": "https://open.spotify.com/artist/30YKmHaCzvXsPMtbI2pSVi"
+        },
+        {
+          "name": "Arizpe",
+          "url": "https://open.spotify.com/artist/5SU1Zp5WmMwNYZHbcqxbi0"
+        },
+        {
+          "name": "Refugee",
+          "url": "https://open.spotify.com/artist/65GZg7V2p8KsgXcr72slTx"
+        },
+        {
+          "name": "Astro12k",
+          "url": "https://open.spotify.com/artist/5uPZ5W9sJoxfGzfzh3AryI"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167755,
+      "name": "ASCENSO",
+      "url": "https://open.spotify.com/track/7n71UM8MmPt6UytXDANvjR"
+    },
+    {
+      "album": {
         "name": "ASTROLABIO",
         "url": "https://open.spotify.com/album/53eyokP8ftEscw10esDxtG"
       },
@@ -2644,7 +2682,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 209489,
       "name": "Atr\u00e9vete",
       "url": "https://open.spotify.com/track/1VMwXqyPNq6OUxjpmliimG"
@@ -3942,7 +3980,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 197647,
       "name": "Branquias",
       "url": "https://open.spotify.com/track/6ygEQuBYdtQivsFonT1shl"
@@ -4082,6 +4120,28 @@
       "duration_ms": 399230,
       "name": "Bueno Pa Lo Malo",
       "url": "https://open.spotify.com/track/37Wk4Hhm4MIy6Q1Vg8nVMO"
+    },
+    {
+      "album": {
+        "name": "Buenos Dias Apocalipsis",
+        "url": "https://open.spotify.com/album/3qiNHyXzTHJsORazDDtybq"
+      },
+      "artists": [
+        {
+          "name": "Lng Sht",
+          "url": "https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2"
+        },
+        {
+          "name": "LF Ants",
+          "url": "https://open.spotify.com/artist/34d8dSeOuJisT3TNcJazVQ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239170,
+      "name": "Buenos d\u00edas Apocalipsis",
+      "url": "https://open.spotify.com/track/3fJ6N9xFuQOOVNblgoORUb"
     },
     {
       "album": {
@@ -5428,7 +5488,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 188700,
       "name": "Cholo En Un Low 2.0",
       "url": "https://open.spotify.com/track/0zbv3ROTor3M1JzdFsBZJE"
@@ -7372,6 +7432,24 @@
       "duration_ms": 158731,
       "name": "De Revista",
       "url": "https://open.spotify.com/track/10gQ003tvEF4VsO95jJIYY"
+    },
+    {
+      "album": {
+        "name": "De Todos Modos",
+        "url": "https://open.spotify.com/album/1U9wMvJt0SDSLvlj7j6skD"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153428,
+      "name": "De Todos Modos",
+      "url": "https://open.spotify.com/track/6LMBX9i51zvjldytTBwv9c"
     },
     {
       "album": {
@@ -10544,7 +10622,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 235304,
       "name": "Fer y Juan",
       "url": "https://open.spotify.com/track/1LBFCbfZAWEmVKUvhHdZTB"
@@ -11835,6 +11913,32 @@
     },
     {
       "album": {
+        "name": "Habito",
+        "url": "https://open.spotify.com/album/78P5zEf8u7ccZTWR2cPmfl"
+      },
+      "artists": [
+        {
+          "name": "Capo",
+          "url": "https://open.spotify.com/artist/5gDp77vDBzGgId5KVS3ycs"
+        },
+        {
+          "name": "Dee",
+          "url": "https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk"
+        },
+        {
+          "name": "The Phronetic",
+          "url": "https://open.spotify.com/artist/5eT2QrOMAyULipOMCj3fav"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134550,
+      "name": "Habito",
+      "url": "https://open.spotify.com/track/0MIofyxRQOPbWndFnYe5c3"
+    },
+    {
+      "album": {
         "name": "Hablamos Depues",
         "url": "https://open.spotify.com/album/5LY1clBYUi4kT2eoyQTSgi"
       },
@@ -11876,6 +11980,32 @@
       "duration_ms": 189376,
       "name": "HACE FR\u00cdO",
       "url": "https://open.spotify.com/track/03m06Ozh6j3ODMTITm9FOZ"
+    },
+    {
+      "album": {
+        "name": "Kaomojis",
+        "url": "https://open.spotify.com/album/7ew2UPAcs1dlkP0xoKGxBy"
+      },
+      "artists": [
+        {
+          "name": "Tino El Ping\u00fcino",
+          "url": "https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF"
+        },
+        {
+          "name": "Aquarium",
+          "url": "https://open.spotify.com/artist/6kG4btRmDnNmKYRjKwpffH"
+        },
+        {
+          "name": "MZCLBR",
+          "url": "https://open.spotify.com/artist/5xxbFcLZDjyuvb8QLPsR4t"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234735,
+      "name": "Haint",
+      "url": "https://open.spotify.com/track/64CekM4QQrBaXh9V2i5Bvx"
     },
     {
       "album": {
@@ -12114,7 +12244,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 181132,
       "name": "HIJO DE P",
       "url": "https://open.spotify.com/track/5iIpWGnsZM6Em76qUAIcRz"
@@ -15717,6 +15847,32 @@
     },
     {
       "album": {
+        "name": "Los Due\u00f1os Del Juego",
+        "url": "https://open.spotify.com/album/650bXXwlMiSlzBetEftSSN"
+      },
+      "artists": [
+        {
+          "name": "Bardero$",
+          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113818,
+      "name": "Los Due\u00f1os Del Juego",
+      "url": "https://open.spotify.com/track/36u7WoFgbenOCmCP4Tztun"
+    },
+    {
+      "album": {
         "name": "NYCOL",
         "url": "https://open.spotify.com/album/3g7QEeblQzIG1wg9tkzXv9"
       },
@@ -17633,6 +17789,28 @@
     },
     {
       "album": {
+        "name": "Brujeria",
+        "url": "https://open.spotify.com/album/3mZvlyXJG9iBjTfdCMnN6N"
+      },
+      "artists": [
+        {
+          "name": "Pielroja",
+          "url": "https://open.spotify.com/artist/1g58TQnLHp7eOEnYXfa63k"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115247,
+      "name": "Mi Vida Parece Pel\u00edcula",
+      "url": "https://open.spotify.com/track/5Sudr7eFMUNiQbi8n1mQOE"
+    },
+    {
+      "album": {
         "name": "Mictlan",
         "url": "https://open.spotify.com/album/7qdu4wl5M5BnDZ7iPAGHZ5"
       },
@@ -18248,6 +18426,24 @@
       "duration_ms": 189176,
       "name": "Morira El Sol",
       "url": "https://open.spotify.com/track/72ltAazPswu6uHZBNpfhGl"
+    },
+    {
+      "album": {
+        "name": "MOV00445",
+        "url": "https://open.spotify.com/album/5usUFMmjcUYq7njl6g7rGE"
+      },
+      "artists": [
+        {
+          "name": "008RACCA",
+          "url": "https://open.spotify.com/artist/4V8v5JEf8rsMh9g90GZBLM"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136629,
+      "name": "MOV00445",
+      "url": "https://open.spotify.com/track/4jQar7poXIKpICuanvMZR2"
     },
     {
       "album": {
@@ -21959,6 +22155,24 @@
     },
     {
       "album": {
+        "name": "Por Mi Callej\u00f3n",
+        "url": "https://open.spotify.com/album/4nNfoilMIXIfg9KqlaBYvl"
+      },
+      "artists": [
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233440,
+      "name": "Por Mi Callej\u00f3n",
+      "url": "https://open.spotify.com/track/6YW2GrJurVbUuGxGHwozWx"
+    },
+    {
+      "album": {
         "name": "N\u00fameros Rojos",
         "url": "https://open.spotify.com/album/7cTeoXinvTobUW5QS1e35R"
       },
@@ -22820,7 +23034,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 142677,
       "name": "Quieto",
       "url": "https://open.spotify.com/track/06esPmZZwz8QXHf0rdKFiE"
@@ -26022,7 +26236,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 193874,
       "name": "Suerte",
       "url": "https://open.spotify.com/track/35M8GAq1rLlHK9MTfGsn9E"
@@ -26052,6 +26266,32 @@
       "duration_ms": 300000,
       "name": "Sue\u00f1o de un Writer - Versi\u00f3n 20 Aniversario",
       "url": "https://open.spotify.com/track/1pVHfaqgQ3wA50PCfbKEYM"
+    },
+    {
+      "album": {
+        "name": "La Pura Neta (El Borracho y El Marijuano)",
+        "url": "https://open.spotify.com/album/5JGzRGTM8QRtOnfDiQqvE3"
+      },
+      "artists": [
+        {
+          "name": "Negros De La Raza",
+          "url": "https://open.spotify.com/artist/6kBv1ur7kpE0I0TTmNZe4y"
+        },
+        {
+          "name": "Sen Dog",
+          "url": "https://open.spotify.com/artist/5CjSfZN385ZURm90nUeGsN"
+        },
+        {
+          "name": "Kemo The Blaxican",
+          "url": "https://open.spotify.com/artist/3ARkK5SVTmR3IxAb7pBEyf"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202596,
+      "name": "Super Vato",
+      "url": "https://open.spotify.com/track/5vHBJ5OQB18yDXZx0X0gXq"
     },
     {
       "album": {

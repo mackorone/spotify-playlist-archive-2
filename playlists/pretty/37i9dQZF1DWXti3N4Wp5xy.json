@@ -1,12 +1,12 @@
 {
   "description": "A perfect little pop party. ",
-  "num_followers": 810542,
+  "num_followers": 810659,
   "original_name": "Pop Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOiwWX9nOKjMpInl2AOfJPXXbOIh",
+  "snapshot_id": "AAAAAPz/f5St3YWDfuVml/o24nmmJ1/F",
   "tracks": [
     {
       "added_at": "2026-05-15 19:29:11",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-05-15 19:29:11",
       "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 200786,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
-    },
-    {
-      "added_at": "2026-05-15 19:29:11",
-      "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
+    },
+    {
+      "added_at": "2026-05-15 19:29:11",
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 200786,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
     },
     {
       "added_at": "2026-05-15 19:29:11",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-05-15 19:29:11",
       "album": {
-        "name": "WHERE IS MY HUSBAND!",
-        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "WHERE IS MY HUSBAND!",
-      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
-    },
-    {
-      "added_at": "2026-05-15 19:29:11",
-      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 173991,
       "name": "Watermelon Sugar",
       "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
+    },
+    {
+      "added_at": "2026-05-15 19:29:11",
+      "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
       "added_at": "2026-05-15 19:29:11",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-05-15 19:29:11",
       "album": {
+        "name": "Millennium",
+        "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 213306,
+      "name": "I Want It That Way",
+      "url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
+    },
+    {
+      "added_at": "2026-05-15 19:29:11",
+      "album": {
         "name": "Loose",
         "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
       },
@@ -751,18 +767,18 @@
     {
       "added_at": "2026-05-15 19:29:11",
       "album": {
-        "name": "Millennium",
-        "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
       },
       "artists": [
         {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 213306,
-      "name": "I Want It That Way",
-      "url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
+      "duration_ms": 267266,
+      "name": "Rock Your Body",
+      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
     },
     {
       "added_at": "2026-05-15 19:29:11",
@@ -783,22 +799,6 @@
       "duration_ms": 208666,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
-    },
-    {
-      "added_at": "2026-05-15 19:29:11",
-      "album": {
-        "name": "Justified",
-        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 267266,
-      "name": "Rock Your Body",
-      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
     },
     {
       "added_at": "2026-05-15 19:29:11",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-05-15 19:29:11",
       "album": {
-        "name": "200 KM/H In The Wrong Lane (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB"
-      },
-      "artists": [
-        {
-          "name": "t.A.T.u.",
-          "url": "https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "All The Things She Said",
-      "url": "https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg"
-    },
-    {
-      "added_at": "2026-05-15 19:29:11",
-      "album": {
         "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 158040,
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
+    },
+    {
+      "added_at": "2026-05-15 19:29:11",
+      "album": {
+        "name": "200 KM/H In The Wrong Lane (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB"
+      },
+      "artists": [
+        {
+          "name": "t.A.T.u.",
+          "url": "https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "All The Things She Said",
+      "url": "https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg"
     },
     {
       "added_at": "2026-05-15 19:29:11",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-05-15 19:29:11",
       "album": {
-        "name": "Manchild",
-        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 213645,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
-    },
-    {
-      "added_at": "2026-05-15 19:29:11",
-      "album": {
         "name": "Camila",
         "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 217308,
       "name": "Havana (feat. Young Thug)",
       "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
+    },
+    {
+      "added_at": "2026-05-15 19:29:11",
+      "album": {
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 213645,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
     },
     {
       "added_at": "2026-05-15 19:29:11",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-05-15 19:29:11",
       "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186365,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/2tHwzyyOLoWSFqYNjeVMzj"
-    },
-    {
-      "added_at": "2026-05-15 19:29:11",
-      "album": {
         "name": "Wild Ones",
         "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 232946,
       "name": "Wild Ones (feat. Sia)",
       "url": "https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"
+    },
+    {
+      "added_at": "2026-05-15 19:29:11",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/2tHwzyyOLoWSFqYNjeVMzj"
     },
     {
       "added_at": "2026-05-15 19:29:11",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-05-15 19:29:11",
       "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 160183,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
-    },
-    {
-      "added_at": "2026-05-15 19:29:11",
-      "album": {
         "name": "Confessions on a Dance Floor",
         "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 337733,
       "name": "Hung Up",
       "url": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH"
+    },
+    {
+      "added_at": "2026-05-15 19:29:11",
+      "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 160183,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
     },
     {
       "added_at": "2026-05-15 19:29:11",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-05-15 19:29:11",
       "album": {
-        "name": "how i'm feeling now",
-        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 296653,
-      "name": "party 4 u",
-      "url": "https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE"
-    },
-    {
-      "added_at": "2026-05-15 19:29:11",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 239026,
       "name": "Believe",
       "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
+    },
+    {
+      "added_at": "2026-05-15 19:29:11",
+      "album": {
+        "name": "how i'm feeling now",
+        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 296653,
+      "name": "party 4 u",
+      "url": "https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE"
     },
     {
       "added_at": "2026-05-15 19:29:11",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-05-15 19:29:11",
       "album": {
-        "name": "CHANEL",
-        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 188059,
-      "name": "CHANEL",
-      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
-    },
-    {
-      "added_at": "2026-05-15 19:29:11",
-      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 253390,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
+    },
+    {
+      "added_at": "2026-05-15 19:29:11",
+      "album": {
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 188059,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
     },
     {
       "added_at": "2026-05-15 19:29:11",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2026-05-15 19:29:11",
       "album": {
+        "name": "Queen Of The Clouds",
+        "url": "https://open.spotify.com/album/47C7w4o1resDhr7jvYEpxE"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "Habits (Stay High)",
+      "url": "https://open.spotify.com/track/14OxJlLdcHNpgsm4DRwDOB"
+    },
+    {
+      "added_at": "2026-05-15 19:29:11",
+      "album": {
         "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 213241,
       "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
-    },
-    {
-      "added_at": "2026-05-15 19:29:11",
-      "album": {
-        "name": "Queen Of The Clouds",
-        "url": "https://open.spotify.com/album/47C7w4o1resDhr7jvYEpxE"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "Habits (Stay High)",
-      "url": "https://open.spotify.com/track/14OxJlLdcHNpgsm4DRwDOB"
     },
     {
       "added_at": "2026-05-15 19:29:11",
@@ -1955,8 +1955,8 @@
     {
       "added_at": "2026-05-15 19:29:11",
       "album": {
-        "name": "Stronger (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0VmE95pr5TSpZWucfyhO5e"
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
       },
       "artists": [
         {
@@ -1964,25 +1964,9 @@
           "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 221946,
-      "name": "Stronger (What Doesn't Kill You)",
-      "url": "https://open.spotify.com/track/1nInOsHbtotAmEOQhtvnzP"
-    },
-    {
-      "added_at": "2026-05-15 19:29:11",
-      "album": {
-        "name": "Lil Boo Thang",
-        "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
-      },
-      "artists": [
-        {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
-        }
-      ],
-      "duration_ms": 114233,
-      "name": "Lil Boo Thang",
-      "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
+      "duration_ms": 188960,
+      "name": "Since U Been Gone",
+      "url": "https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd"
     },
     {
       "added_at": "2026-05-15 19:29:11",
@@ -2023,6 +2007,22 @@
     {
       "added_at": "2026-05-15 19:29:11",
       "album": {
+        "name": "Lil Boo Thang",
+        "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        }
+      ],
+      "duration_ms": 114233,
+      "name": "Lil Boo Thang",
+      "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
+    },
+    {
+      "added_at": "2026-05-15 19:29:11",
+      "album": {
         "name": "Aquarium (Special Edition)",
         "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
       },
@@ -2039,8 +2039,8 @@
     {
       "added_at": "2026-05-15 19:29:11",
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
+        "name": "Stronger (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0VmE95pr5TSpZWucfyhO5e"
       },
       "artists": [
         {
@@ -2048,9 +2048,9 @@
           "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 188960,
-      "name": "Since U Been Gone",
-      "url": "https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd"
+      "duration_ms": 221946,
+      "name": "Stronger (What Doesn't Kill You)",
+      "url": "https://open.spotify.com/track/1nInOsHbtotAmEOQhtvnzP"
     },
     {
       "added_at": "2026-05-15 19:29:11",
@@ -2579,6 +2579,22 @@
     {
       "added_at": "2026-05-15 19:29:11",
       "album": {
+        "name": "Sorry For Party Rocking (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5EuNq3rYUESwy6Vcsz2PZe"
+      },
+      "artists": [
+        {
+          "name": "LMFAO",
+          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "Sexy And I Know It",
+      "url": "https://open.spotify.com/track/0obBFrPYkSoBJbvHfUIhkv"
+    },
+    {
+      "added_at": "2026-05-15 19:29:11",
+      "album": {
         "name": "Bring Your Love",
         "url": "https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy"
       },
@@ -2595,22 +2611,6 @@
       "duration_ms": 222161,
       "name": "Bring Your Love",
       "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
-    },
-    {
-      "added_at": "2026-05-15 19:29:11",
-      "album": {
-        "name": "Sorry For Party Rocking (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5EuNq3rYUESwy6Vcsz2PZe"
-      },
-      "artists": [
-        {
-          "name": "LMFAO",
-          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
-        }
-      ],
-      "duration_ms": 199480,
-      "name": "Sexy And I Know It",
-      "url": "https://open.spotify.com/track/0obBFrPYkSoBJbvHfUIhkv"
     },
     {
       "added_at": "2026-05-15 19:29:11",

@@ -2230,10 +2230,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 159059,
       "name": "Una Pagina Mas",
       "url": "https://open.spotify.com/track/0PaJt0W8xP4VpnVBMWvOvI"
+    },
+    {
+      "album": {
+        "name": "Los Aut\u00e9nticos",
+        "url": "https://open.spotify.com/album/5thl5PvQuIr1UIF1q8HEwo"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161600,
+      "name": "Una P\u00e1gina M\u00e1s",
+      "url": "https://open.spotify.com/track/1cCJjLOxsy1qrKfAVF7rM3"
     },
     {
       "album": {

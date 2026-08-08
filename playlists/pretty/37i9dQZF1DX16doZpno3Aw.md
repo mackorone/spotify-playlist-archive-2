@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 
 > all the best instrumentals & sounds from the internet  ∼ 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,677 likes - 120 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,877 likes - 120 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 | 119 | [Succession \(Main Title Theme\)](https://open.spotify.com/track/0bSHwuTOZVJUXWT03H9oD2) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Succession: Season 1 \(HBO Original Series Soundtrack\)](https://open.spotify.com/album/7IONINkxycqA3eIKlVZ7Bj) | 1:42 |
 | 120 | [Song on the Beach](https://open.spotify.com/track/606R1WLtU2hPgl0YNfSJ4j) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB), [Owen Pallett](https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68) | [Her \(Original Score\)](https://open.spotify.com/album/7xBJ2XXlDFfACXAnOE86t8) | 3:35 |
 
-Snapshot ID: `AAAAAD/BHmPgxbMNzwN7dfjF5tDC5ok7`
+Snapshot ID: `AAAAAKqG6cHBBeBwRK9B063hsLappCfE`

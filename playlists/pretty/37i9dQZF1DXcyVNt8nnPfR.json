@@ -1,12 +1,12 @@
 {
   "description": "Relax with these seriously laid-back classics.",
-  "num_followers": 849450,
+  "num_followers": 849447,
   "original_name": "Chilled Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE2/QqnHR5s1Q9Ylhr1VDP8ogMcS",
+  "snapshot_id": "AAAAAEEdXVjwoVMVhx3CalUKL7qCleCl",
   "tracks": [
     {
       "added_at": "2022-03-27 23:13:05",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-03-27 23:13:05",
       "album": {
-        "name": "Toulouse Street",
-        "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Listen to the Music",
-      "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
-    },
-    {
-      "added_at": "2022-03-27 23:13:05",
-      "album": {
         "name": "The Temptations Sing Smokey",
         "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 165000,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
+    },
+    {
+      "added_at": "2022-03-27 23:13:05",
+      "album": {
+        "name": "Toulouse Street",
+        "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Listen to the Music",
+      "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
     },
     {
       "added_at": "2022-03-27 23:13:05",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-03-27 23:13:05",
       "album": {
-        "name": "Stealers Wheel",
-        "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
-      },
-      "artists": [
-        {
-          "name": "Stealers Wheel",
-          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
-        }
-      ],
-      "duration_ms": 208946,
-      "name": "Stuck In The Middle With You",
-      "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
-    },
-    {
-      "added_at": "2022-03-27 23:13:05",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 264906,
       "name": "Gypsy",
       "url": "https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG"
+    },
+    {
+      "added_at": "2022-03-27 23:13:05",
+      "album": {
+        "name": "Stealers Wheel",
+        "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
+      },
+      "artists": [
+        {
+          "name": "Stealers Wheel",
+          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "Stuck In The Middle With You",
+      "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
     },
     {
       "added_at": "2022-03-27 23:13:05",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-03-27 23:13:05",
       "album": {
-        "name": "The Gambler",
-        "url": "https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "The Gambler",
-      "url": "https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0"
-    },
-    {
-      "added_at": "2022-03-27 23:13:05",
-      "album": {
         "name": "Fleetwood Mac",
         "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 252773,
       "name": "Rhiannon",
       "url": "https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR"
+    },
+    {
+      "added_at": "2022-03-27 23:13:05",
+      "album": {
+        "name": "The Gambler",
+        "url": "https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "The Gambler",
+      "url": "https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0"
     },
     {
       "added_at": "2022-03-27 23:13:05",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-03-27 23:13:05",
       "album": {
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 291685,
+      "name": "One of These Nights - 2013 Remaster",
+      "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
+    },
+    {
+      "added_at": "2022-03-27 23:13:05",
+      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 223866,
       "name": "What a Fool Believes",
       "url": "https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK"
-    },
-    {
-      "added_at": "2022-03-27 23:13:05",
-      "album": {
-        "name": "One of These Nights (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 291685,
-      "name": "One of These Nights - 2013 Remaster",
-      "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
     },
     {
       "added_at": "2022-03-27 23:13:05",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-03-27 23:13:05",
       "album": {
-        "name": "Double Fantasy",
-        "url": "https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 245693,
-      "name": "Beautiful Boy (Darling Boy) - Remastered 2010",
-      "url": "https://open.spotify.com/track/5URfZHMlUWTWxPvvSBWcPk"
-    },
-    {
-      "added_at": "2022-03-27 23:13:05",
-      "album": {
         "name": "Just Once In My Life",
         "url": "https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 218013,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz"
+    },
+    {
+      "added_at": "2022-03-27 23:13:05",
+      "album": {
+        "name": "Double Fantasy",
+        "url": "https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 245693,
+      "name": "Beautiful Boy (Darling Boy) - Remastered 2010",
+      "url": "https://open.spotify.com/track/5URfZHMlUWTWxPvvSBWcPk"
     }
   ],
   "unique_name": "Chilled Classics",

@@ -1,12 +1,12 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
-  "num_followers": 251284,
+  "num_followers": 251308,
   "original_name": "Doo-Wop Dee Doo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALCw24UcftEEc0SVuR/D//Gn/6CV",
+  "snapshot_id": "AAAAAKMbLuDMwbmc9jMKKWKDym0zTkmw",
   "tracks": [
     {
       "added_at": "2024-07-14 11:36:52",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
-        "name": "Del Vikings Doo Wop",
-        "url": "https://open.spotify.com/album/0GalVuWWpgt6JrmEb8MwLa"
-      },
-      "artists": [
-        {
-          "name": "The Del-Vikings",
-          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
-        }
-      ],
-      "duration_ms": 160467,
-      "name": "Come Go With Me",
-      "url": "https://open.spotify.com/track/4eRdlW0SvlRpq285jI9uf5"
-    },
-    {
-      "added_at": "2024-07-14 11:36:52",
-      "album": {
         "name": "Doo Wop Classics Vol. 1",
         "url": "https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 170000,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/3OQws3wO9koGb1g2QP2YsN"
+    },
+    {
+      "added_at": "2024-07-14 11:36:52",
+      "album": {
+        "name": "Del Vikings Doo Wop",
+        "url": "https://open.spotify.com/album/0GalVuWWpgt6JrmEb8MwLa"
+      },
+      "artists": [
+        {
+          "name": "The Del-Vikings",
+          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
+        }
+      ],
+      "duration_ms": 160467,
+      "name": "Come Go With Me",
+      "url": "https://open.spotify.com/track/4eRdlW0SvlRpq285jI9uf5"
     },
     {
       "added_at": "2024-07-14 11:36:52",

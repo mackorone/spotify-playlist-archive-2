@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 
 > The Country Coffeehouse is open! Grab a cup and lean back to some low\-key country.
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,887 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,872 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 20 | [Where You Are \- Acoustic](https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Living Room Worktapes](https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3) | 4:03 |
 | 21 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 |
 | 22 | [Your Place At My Place](https://open.spotify.com/track/2cMO1LFtsP2EBjWgG4JHZl) | [Joshua Slone](https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9) | [Thinking Too Much](https://open.spotify.com/album/0EfmgCn8nNDDvZY5v1b4N1) | 3:36 |
-| 23 | [Girl Goin' Nowhere](https://open.spotify.com/track/2lyEpuvVOnNGzV5c89Vnpf) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 3:27 |
-| 24 | [Wait Up For Me](https://open.spotify.com/track/1pLbS57mLE8iG4njSQIAtX) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD) | 3:45 |
+| 23 | [Wait Up For Me](https://open.spotify.com/track/1pLbS57mLE8iG4njSQIAtX) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD) | 3:45 |
+| 24 | [Girl Goin' Nowhere](https://open.spotify.com/track/2lyEpuvVOnNGzV5c89Vnpf) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 3:27 |
 | 25 | [Sunday Drive](https://open.spotify.com/track/2TIdEu4aruzo33MTEUDGcf) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 4:53 |
 | 26 | [The Time I've Wasted](https://open.spotify.com/track/1JtvwshkJMxfm4oRhJp93C) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Numbered Doors](https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y) | 3:33 |
 | 27 | [Most Good Things Do \- Acoustic](https://open.spotify.com/track/4S44OIOTYXBssJibn6iMQI) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Dandelion](https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH) | 2:58 |
@@ -56,17 +56,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 46 | [The Love That We Need](https://open.spotify.com/track/31dEh1OeZGv61RZzDIixue) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Lovers and Leavers](https://open.spotify.com/album/7z5FvJZESvRTwHTJT2uKc4) | 4:08 |
 | 47 | [This Town Still Talks About You](https://open.spotify.com/track/7yPmspgKN5MPOVlyAWFtsa) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Puxico](https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA) | 4:28 |
 | 48 | [Breakups \- Acoustic](https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Breakups \(Acoustic\)](https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i) | 3:47 |
-| 49 | [Supernova](https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova](https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb) | 2:36 |
-| 50 | [Dance With You \- Acoustic](https://open.spotify.com/track/4Hr2ypEKFXox6oxw9dTkSS) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Dance With You \(Acoustic\)](https://open.spotify.com/album/3XqasHAHTOSZkFUtX4frj0) | 3:10 |
+| 49 | [Dance With You \- Acoustic](https://open.spotify.com/track/4Hr2ypEKFXox6oxw9dTkSS) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Dance With You \(Acoustic\)](https://open.spotify.com/album/3XqasHAHTOSZkFUtX4frj0) | 3:10 |
+| 50 | [Supernova](https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova](https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb) | 2:36 |
 | 51 | [Where the Heart Is](https://open.spotify.com/track/4qaBHFw6eN6Oxa7gBXOvxv) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 4:07 |
 | 52 | [Swimming Alone](https://open.spotify.com/track/3rGe3ed1wHvPNgAlwNO686) | [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT) | [Swimming Alone](https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk) | 3:40 |
 | 53 | [Because Of Yours](https://open.spotify.com/track/71gcKI3CKHIrkJPkk20USG) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Because Of Yours](https://open.spotify.com/album/1brc4oeT2JHZmmVXXTrrrS) | 4:00 |
 | 54 | [half of my hometown \- ballerini album version](https://open.spotify.com/track/3YJOCGSlrb78vNwu6meBSf) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [ballerini](https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk) | 3:56 |
 | 55 | [Pretty Hands](https://open.spotify.com/track/0daO3mhf7lmqH1vNsGEFCJ) | [Jeffrey Foucault](https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK) | [Blood Brothers](https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN) | 2:20 |
 | 56 | [Settling Things](https://open.spotify.com/track/0XDGhfW6CS8syWE7gh9ei4) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [The Heartbroken Record](https://open.spotify.com/album/5JGn3VCsHcB2xaqY5bdclK) | 2:52 |
-| 57 | [Miles Away](https://open.spotify.com/track/0QnOPRxrCRLeRUEJKqecaG) | [Krysta Nick](https://open.spotify.com/artist/3hld0M8pAutQUblD6tI1ol) | [Miles Away](https://open.spotify.com/album/5TdJYg0fQ7IvBxFqwtChfv) | 3:40 |
+| 57 | [20/10 TN](https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV) | [Tucker Beathard](https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk) | [KING](https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj) | 3:25 |
 | 58 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 |
-| 59 | [20/10 TN](https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV) | [Tucker Beathard](https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk) | [KING](https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj) | 3:25 |
+| 59 | [Miles Away](https://open.spotify.com/track/0QnOPRxrCRLeRUEJKqecaG) | [Krysta Nick](https://open.spotify.com/artist/3hld0M8pAutQUblD6tI1ol) | [Miles Away](https://open.spotify.com/album/5TdJYg0fQ7IvBxFqwtChfv) | 3:40 |
 | 60 | [Cheap Suit](https://open.spotify.com/track/2yWTcrs09YISrT3yXZB5Bp) | [Jeffrey Foucault](https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK) | [Blood Brothers](https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN) | 2:38 |
 | 61 | [Cowgirl](https://open.spotify.com/track/2KeIYazn8x4IobcS1aXram) | [Nelly Joy](https://open.spotify.com/artist/5LpodItaIbBuZQUyR65lGZ) | [Cowgirl](https://open.spotify.com/album/7nv5BlYzkMnp9VEo8OX0Dg) | 3:39 |
 | 62 | [Yearbook](https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 74 | [End of the Rain](https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep) | [Jason Blaine](https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ) | [End of the Rain](https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb) | 3:15 |
 | 75 | [Brighter Shade of Blue](https://open.spotify.com/track/1yyXmUb99vQ1BI1ee9gkFh) | [Jordan DePaul](https://open.spotify.com/artist/5uUIZ5FnQjqfOamzj0yK3h) | [Forces \- EP](https://open.spotify.com/album/3Q7yRMDkHa2DM3G7jx3p7I) | 3:48 |
 
-Snapshot ID: `AAAAAB9dXsxv8AMUwnRX7oSnu/zv3GlH`
+Snapshot ID: `AAAAAAC6z0/L0TgGaOM42za60UiOUCNc`

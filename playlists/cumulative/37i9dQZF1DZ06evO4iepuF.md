@@ -4,7 +4,7 @@
 
 > This is Kittydog\. The essential tracks, all in one playlist.
 
-137 songs - 4 hr 22 min
+138 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [gamer](https://open.spotify.com/track/6YKBe2rIEOruhhQyMz3gZH) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [gamer](https://open.spotify.com/album/0jiXdQvAuGADyf3eszdcOd) | 1:11 | 2025-07-20 | 2025-09-16 |
 | [God has me in Her design \- Instrumental](https://open.spotify.com/track/3vAOyqTWfCQSE41M81H4Aa) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 2:08 | 2026-07-23 | 2026-07-31 |
 | [happy forever](https://open.spotify.com/track/3bUF2XOsKeHVMHUDsRs7ua) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kd 2019\-2022 sc songs \(compilation\)](https://open.spotify.com/album/7CTDYGKWvh45e7nOrXZyl3) | 2:08 | 2026-03-09 |  |
+| [hbb \(tw\)](https://open.spotify.com/track/5cHy6ArDP3vNOy1L6X5riC) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kd 2019\-2022 sc songs \(compilation\)](https://open.spotify.com/album/7CTDYGKWvh45e7nOrXZyl3) | 1:23 | 2026-08-08 |  |
 | [heartbreaker feelings](https://open.spotify.com/track/5UDJZgIyoF6vvAbWeXsd0c) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 1:32 | 2024-12-15 | 2026-06-24 |
 | [hello sunshine](https://open.spotify.com/track/4oCMMohIA7ytsyo3zoAMwu) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [hello sunshine](https://open.spotify.com/album/4ZXZ7Uc5qTQD8HWSRWcm44) | 1:39 | 2024-12-14 |  |
 | [Highlighted and Underlined](https://open.spotify.com/track/3vKLIvioZ1Dz02Qw3GCuWH) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [Highlighted and Underlined](https://open.spotify.com/album/4ifTA4qzcBkinIqTunikCO) | 1:44 | 2025-03-01 | 2026-06-14 |
@@ -75,7 +76,7 @@
 | [i'm done wasting my time](https://open.spotify.com/track/3R8sCNH2lPWFe58PAadQBd) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [autotune garbage](https://open.spotify.com/album/4Wjjhnw8bt7Q0qUv8aylOi) | 0:59 | 2024-12-14 | 2025-02-28 |
 | [i'm down](https://open.spotify.com/track/4GFcBGQ5pMFFgeVhLSm2X9) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Peachii](https://open.spotify.com/artist/3iB8jGXtuPgCJFk4vEA2Bn), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [i'm down](https://open.spotify.com/album/57K2bPZI0lDBQdKUTxSFjM) | 4:38 | 2025-03-05 | 2025-03-06 |
 | [idk how to make music whore](https://open.spotify.com/track/7KMQ7rpiU7eqq8uYtfqaBy) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [autotune garbage](https://open.spotify.com/album/4Wjjhnw8bt7Q0qUv8aylOi) | 1:04 | 2025-09-04 | 2025-09-16 |
-| [im not in love im just a mixed bag](https://open.spotify.com/track/0cmRCKzJsbxr4L1cVW5LWs) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kd 2019\-2022 sc songs \(compilation\)](https://open.spotify.com/album/7CTDYGKWvh45e7nOrXZyl3) | 1:20 | 2026-05-25 |  |
+| [im not in love im just a mixed bag](https://open.spotify.com/track/0cmRCKzJsbxr4L1cVW5LWs) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kd 2019\-2022 sc songs \(compilation\)](https://open.spotify.com/album/7CTDYGKWvh45e7nOrXZyl3) | 1:20 | 2026-05-25 | 2026-08-08 |
 | [im part of the PAWblem​!​!](https://open.spotify.com/track/5eNXQgN4mtfLuMkBtYbB0l) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [im part of the PAWblem​!​!](https://open.spotify.com/album/660oyPv15JOys26fZXNdE7) | 1:40 | 2024-12-14 |  |
 | [im so sad and in love \(remake\)](https://open.spotify.com/track/3kvtYKmQzXnWI9kmhHtLVr) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kd 2019\-2022 sc songs \(compilation\)](https://open.spotify.com/album/7CTDYGKWvh45e7nOrXZyl3) | 1:09 | 2026-04-27 | 2026-04-29 |
 | [in my heart](https://open.spotify.com/track/1mMYgbdQWu6nvXVq7LRFio) | [Joshua Lanuarii](https://open.spotify.com/artist/5UrcSa9Z62ghyOdApP1Uyw), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v), [nbmusic](https://open.spotify.com/artist/2MJLDXe5MaU4v11KLWXR9J) | [in my heart](https://open.spotify.com/album/7sm8W3YCS0Mq5H06ArFOqx) | 2:14 | 2024-12-14 | 2026-07-27 |

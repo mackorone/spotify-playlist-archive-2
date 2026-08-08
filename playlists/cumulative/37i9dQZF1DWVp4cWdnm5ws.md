@@ -2,14 +2,15 @@
 
 ### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
-> Introducing RADAR Philippines Cast of 2026\. Cover: Kenaniah
+> Introducing RADAR Philippines Cast of 2026\. Cover: NEW LORE
 
-346 songs - 20 hr 27 min
+350 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Di Naman](https://open.spotify.com/track/4Wmi7Sy5S9jjsw9rJ5t9Yk) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | ['Di Naman](https://open.spotify.com/album/3RhTarxAG6Gc5jQXESwlZq) | 4:25 | 2024-10-04 | 2025-03-28 |
 | ['Sapababy](https://open.spotify.com/track/3VppPV6mcNB0W6Jd0fGvMJ) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD) | ['Sapababy](https://open.spotify.com/album/1lJ2R5PuJSDXLrzdX4dAPZ) | 3:58 | 2025-03-27 | 2026-04-07 |
+| [2RARE \(feat\. Rjay Ty\)](https://open.spotify.com/track/3qx8Em06TXzybe6uXYGlIc) | [Waiian](https://open.spotify.com/artist/3p5RE0gW2l4oFW82SgMv29), [Rjay Ty](https://open.spotify.com/artist/6LCHWj94a1aMMGf3L3CVhx) | [2RARE \(feat\. Rjay Ty\)](https://open.spotify.com/album/1yxMYncEzuI97jWp30tKZh) | 3:44 | 2026-08-07 |  |
 | [3:33](https://open.spotify.com/track/55rICajyesqUiny8nmtioj) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [3: 33](https://open.spotify.com/album/4cIP6UY95sLoJuMM6JQKdI) | 3:32 | 2022-04-21 | 2022-12-01 |
 | [3rd Eye](https://open.spotify.com/track/1Rmg6e9FO4C0RLtXpFtA4G) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [3rd Eye](https://open.spotify.com/album/4AD7IVbMSuXMZWES5pZCKg) | 2:45 | 2022-09-01 | 2022-12-01 |
 | [5678](https://open.spotify.com/track/2hAoi72sQzqmRwj4eXRjeh) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [5678](https://open.spotify.com/album/0UYm7AHI0WoaCDajD1Dwdt) | 2:51 | 2023-04-13 | 2024-04-03 |
@@ -161,6 +162,7 @@
 | [Kaya](https://open.spotify.com/track/79o5nlwnNk8oiK1cR6YC5i) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Kaya](https://open.spotify.com/album/1domLnNrgElxmpiDSSCYaC) | 4:28 | 2022-03-24 | 2023-04-14 |
 | [kbye](https://open.spotify.com/track/4B1pUZ8PlVG9Pbdjw9jMND) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [kbye](https://open.spotify.com/album/5RrHk4eQajkuqG03iNChlF) | 3:34 | 2021-11-25 | 2022-03-25 |
 | [KEMBOT](https://open.spotify.com/track/6DeMGenzdbi7BOKK3I3GCH) | [Paul N Ballin](https://open.spotify.com/artist/0Hd8r7OHPwGn4ao1e0PYAu), [Playboy Baby](https://open.spotify.com/artist/2nCzMC3g3hmRg348Eyot8d), [Sordan](https://open.spotify.com/artist/1uC1cHZPMFyqkgTpc2rwyn) | [KEMBOT](https://open.spotify.com/album/40ZY9W7XiC0atnYcJOtPX9) | 3:24 | 2026-05-29 |  |
+| [Kingdom](https://open.spotify.com/track/742EtNLdFsrSGAZ1Dni3t5) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [Kingdom](https://open.spotify.com/album/7LoB6EOEi6fvjRTkOlT1e6) | 3:47 | 2026-08-07 |  |
 | [Kisame](https://open.spotify.com/track/4XSIv5hJzP6kEQqsLli1eE) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [Kisame](https://open.spotify.com/album/0a0UdCKsKEGjFGBi9mGAMe) | 3:32 | 2026-04-06 |  |
 | [Kulay \(Miss Universe Philippines 2021\)](https://open.spotify.com/track/55HcwpBtgFIKmY1v1OZss8) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Kulay \(Miss Universe Philippines 2021\)](https://open.spotify.com/album/34MnMmfkCLs4Y4HTXz9fqJ) | 4:09 | 2021-11-25 | 2022-03-25 |
 | [Kung Di Mo Alam](https://open.spotify.com/track/73lcuoa9ZIRQhXNVRo81Kc) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [Kung Di Mo Alam](https://open.spotify.com/album/1DRvYTu2nZlcKKixTQ7iIQ) | 2:57 | 2025-10-06 | 2026-04-07 |
@@ -207,6 +209,7 @@
 | [Munchies](https://open.spotify.com/track/1vXc5zGgyzKsNjA6USRzkd) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Munchies](https://open.spotify.com/album/7MKpOuvtAQlOYTjPeRAgXk) | 3:28 | 2024-04-26 | 2025-03-28 |
 | [Musika](https://open.spotify.com/track/7bAVndaTleEnfizm6h2d3i) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Musika](https://open.spotify.com/album/3A0K1ImYGMKTYDLe5EgLWv) | 4:06 | 2024-04-02 | 2025-03-28 |
 | [Musika](https://open.spotify.com/track/33DMX9LvLFdgbVaZKCD8t4) | [G22](https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU) | [Musika](https://open.spotify.com/album/4m5n14fVI1ZteLeQC8CPxx) | 3:57 | 2023-10-02 | 2024-04-03 |
+| [My Angel](https://open.spotify.com/track/2CAqMCmhrfJVzuNtKBSscB) | [Elhé](https://open.spotify.com/artist/2cISyyoc7B4kws6seWRzao) | [My Angel](https://open.spotify.com/album/4MzpF0DXfUExI3oJaDONA7) | 3:32 | 2026-08-07 |  |
 | [my crush and i will crush the system baby](https://open.spotify.com/track/3X97K3qe31iHwbZTiib3tQ) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [my crush and i will crush the system baby](https://open.spotify.com/album/3V7AG5cXmnhZLiEDuIVfDZ) | 1:57 | 2026-05-15 |  |
 | [Na Na Na](https://open.spotify.com/track/1apdXuG82uFNmWmx3zWc8u) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Labyu with an Accent \(Original Soundtrack\)](https://open.spotify.com/album/0AYxV6cAIuHMsO22fJz2P9) | 4:11 | 2023-04-13 | 2023-06-06 |
 | [Na Na Na](https://open.spotify.com/track/4aqkICleG6HLRc2ygpWqN1) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Born To Win](https://open.spotify.com/album/28rgW6IXDsrk4YtTcFtGGK) | 4:11 | 2023-04-13 | 2024-04-03 |
@@ -255,6 +258,7 @@
 | [PRETTY PLEASE](https://open.spotify.com/track/2mNL99gN0yxhPPXpyhFlcS) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [PRETTY PLEASE](https://open.spotify.com/album/7tw9n1syMTgFz6KI9hsqSO) | 3:04 | 2023-06-16 | 2024-04-03 |
 | [Promise](https://open.spotify.com/track/5UOvuk2PlJcSYOtRcGgWLn) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [Promise](https://open.spotify.com/album/73LceCGDR2PwTzCp4jPpS5) | 3:33 | 2021-11-25 | 2022-03-25 |
 | [Pulso](https://open.spotify.com/track/1CqkZpujqmMS55qlCLpSZ7) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ), [L8ching](https://open.spotify.com/artist/3vkcJL0rXaCK63ef9gMzbf) | [Pulso](https://open.spotify.com/album/4FEuHvrAkV2mwgaqGNN2fv) | 3:08 | 2024-09-30 | 2025-03-28 |
+| [Purgatoryo](https://open.spotify.com/track/2ww7tsDpQujEz4hY4PKW6g) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr) | [Purgatoryo](https://open.spotify.com/album/3HcEMi3hhykdzTUXNRUXK0) | 2:15 | 2026-08-07 |  |
 | [RARARA](https://open.spotify.com/track/29LpgyzY0QsvhsNO6XXQ6c) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [RARARA](https://open.spotify.com/album/6OqJxk4hjts59iSTpRPg35) | 3:46 | 2025-12-03 | 2026-01-18 |
 | [Relapse](https://open.spotify.com/track/7kzbzi1LYrwRLyfynDnRDs) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [Relapse](https://open.spotify.com/album/6NdbN7a1rHRikiaCORR40S) | 3:32 | 2025-12-03 | 2026-01-18 |
 | [Rest](https://open.spotify.com/track/3M3Uw8SisAcJoZs4mdHJVC) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [Rest](https://open.spotify.com/album/6GIs1YEU99gkhIyLttwcK9) | 4:37 | 2021-11-25 | 2022-03-25 |

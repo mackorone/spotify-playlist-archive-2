@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,769 likes - 146 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,769 likes - 147 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,5 +154,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 144 | [Hasta La Vista](https://open.spotify.com/track/7Hqkibl2LIjY1gWtqTb4HW) | [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV), [Static Revenger](https://open.spotify.com/artist/4Q08msBV0v3oEN91O7ubsD) | [Hasta La Vista](https://open.spotify.com/album/7tyoTr3dPhTbDZ8QDmfopy) | 2:48 |
 | 145 | [Let Me Live](https://open.spotify.com/track/2qjXFcLQ3sCFz0b225XVk9) | [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK) | [Hotel Rock Bottom](https://open.spotify.com/album/1eMHqaoJVquw5uorVOtCiu) | 3:36 |
 | 146 | [Make It Happen](https://open.spotify.com/track/1E1dsesLy4AYVTPtTyQEe8) | [Hybrid the Rapper](https://open.spotify.com/artist/5Ewzso9cYxwUpYYfDgcBo0), [Double](https://open.spotify.com/artist/4NOA8osMRoNN1FZ5vrR4y2) | [King of Collab](https://open.spotify.com/album/3ISMRSukyD4PM2t4HpBO1p) | 3:29 |
+| 147 | [Favorite](https://open.spotify.com/track/33IYQIbLGAeATtDHuhcp24) | [Silver Otto](https://open.spotify.com/artist/1Zi3XzucRhWF2njLeWEWTF) | [Favorite](https://open.spotify.com/album/0gXHLfKyAcWEdwcM67qyE4) | 3:57 |
 
-Snapshot ID: `AcY43AAAAAB/yDfgU2eaIRxJ/PZq9zFt`
+Snapshot ID: `AcY+NgAAAADFbBin8pO9btRSgBYnD+ws`

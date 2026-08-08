@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-285 songs - 12 hr 31 min
+286 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Beginnings](https://open.spotify.com/track/07Z42sQFooVNSyoJjknCDz) | [Néer](https://open.spotify.com/artist/5yYwQWCRkaZAIOThUKNo5n) | [Beginnings](https://open.spotify.com/album/4wtOORXX25j7SZSMbb5VmY) | 2:16 | 2024-09-09 |  |
 | [believed](https://open.spotify.com/track/6dEKvEjO2aKRW8sETTH7Pv) | [Esperance](https://open.spotify.com/artist/4HphhPtgKql1Mzeo4snWgg) | [believed](https://open.spotify.com/album/65TinZpS9iX0S4aOvXYUAl) | 2:38 | 2024-09-02 | 2026-06-11 |
 | [Bells](https://open.spotify.com/track/698afgx5ev4sqwZBTqHpoW) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Bells](https://open.spotify.com/album/22blhd4TSXEcQCJ13UmToB) | 3:21 | 2022-08-03 | 2023-06-21 |
+| [Between Waves](https://open.spotify.com/track/0uSANLcPZyaND99ZyfoQqH) | [Nivellea](https://open.spotify.com/artist/6fV1zumElkmOdLFGwBLr7f) | [Between Waves](https://open.spotify.com/album/5u23NVUyWQXraSx1cWfPR8) | 2:22 | 2026-08-07 |  |
 | [Between Words](https://open.spotify.com/track/5MB63o3BqXmPAPtzmhEb4o) | [Kelli Carswell](https://open.spotify.com/artist/1EYt9z9E0wab4f22IvFAJ4) | [Between Words](https://open.spotify.com/album/3a5s2mMbdQgLptCC384fPO) | 2:26 | 2022-10-24 | 2026-06-11 |
 | [Beyond the Horizon](https://open.spotify.com/track/6ojIStkLsOtuMVNNPeMQKX) | [Asger Rykker](https://open.spotify.com/artist/1dkPa7IPiPu8k4vNJbql0B) | [Beyond the Horizon](https://open.spotify.com/album/2sbVJ2PKVZ7xZlzs0jmkhS) | 2:17 | 2026-05-08 |  |
 | [Bloom](https://open.spotify.com/track/1U8oMLEJi3eLtjOECmNiqI) | [Holly Jones](https://open.spotify.com/artist/6Ub8jxQatQvncgReWsJ5XC) | [Bloom](https://open.spotify.com/album/1TPLD9SVitfUDGLFybZ7Et) | 2:06 | 2022-08-26 | 2026-06-11 |

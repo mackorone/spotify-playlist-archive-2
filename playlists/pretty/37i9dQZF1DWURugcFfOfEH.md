@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURugcFfOfEH.md) - [plain]
 
 > good vibes, all the time
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,507 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,557 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURugcFfOfEH.md) - [plain]
 | 27 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
 | 28 | [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 |
 | 29 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 |
-| 30 | [Phone Numbers](https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Phone Numbers](https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT) | 2:26 |
-| 31 | [Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 1:56 |
+| 30 | [Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 1:56 |
+| 31 | [Phone Numbers](https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Phone Numbers](https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT) | 2:26 |
 | 32 | [The Wave](https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [The Wave](https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj) | 3:22 |
 | 33 | [Delete Ya](https://open.spotify.com/track/7tFI5cqfAoR7MIvmbw1qd8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux](https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ) | 3:23 |
 | 34 | [car crash](https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [car crash](https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0) | 2:40 |
 | 35 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 |
-| 36 | [Soup](https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:33 |
-| 37 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 |
+| 36 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 |
+| 37 | [Soup](https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:33 |
 | 38 | [STORM II](https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [STORM](https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA) | 2:53 |
 | 39 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 |
 | 40 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURugcFfOfEH.md) - [plain]
 | 63 | [Tangerine](https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:20 |
 | 64 | [Alive!](https://open.spotify.com/track/28cm9uWSKVAfZ0HDBlq4rS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:52 |
 | 65 | [Day 1 ◑](https://open.spotify.com/track/6ZzYETKetIfNUsZUb23jgG) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Love Me / Love Me Not](https://open.spotify.com/album/0fwZXPXf41aF6H0CN3UtXV) | 3:53 |
-| 66 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
-| 67 | [SEEIN’ STARS](https://open.spotify.com/track/2Z4nIITCxUoaZvFug5FxtO) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:06 |
+| 66 | [SEEIN’ STARS](https://open.spotify.com/track/2Z4nIITCxUoaZvFug5FxtO) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:06 |
+| 67 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
 | 68 | [Eastside Girls](https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 3:50 |
 | 69 | [Bon Bon](https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Bon Bon](https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT) | 3:30 |
 | 70 | [Lets Go Surfing](https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [The Drums](https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4) | 2:54 |
@@ -82,15 +82,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURugcFfOfEH.md) - [plain]
 | 72 | [Lose My Cool](https://open.spotify.com/track/3G9zeErd0kMx012kmYUrm7) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:34 |
 | 73 | [Feels Right](https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Feels Right](https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn) | 3:19 |
 | 74 | [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 |
-| 75 | [Lucky Again](https://open.spotify.com/track/2MdZ3S4bMOqBRPvY2hlGNZ) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [The Afterparty](https://open.spotify.com/album/3eqH5aQKPKLKD1kFNBczwl) | 3:01 |
-| 76 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
+| 75 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
+| 76 | [Lucky Again](https://open.spotify.com/track/2MdZ3S4bMOqBRPvY2hlGNZ) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [The Afterparty](https://open.spotify.com/album/3eqH5aQKPKLKD1kFNBczwl) | 3:01 |
 | 77 | [idk idk](https://open.spotify.com/track/3CZ0ba4RIVdv40FbjHpOEA) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [idk idk](https://open.spotify.com/album/1ovpuKaHI7hSKSUTQtLfJ1) | 2:26 |
 | 78 | [Sunny](https://open.spotify.com/track/42AsgO0005lineLVc1aSOL) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Sunny](https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh) | 2:37 |
-| 79 | [L.U.C.K.Y](https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [L.U.C.K.Y](https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0) | 2:18 |
-| 80 | [Mannequin Love](https://open.spotify.com/track/4csm3bIilOko37LEVW1v8P) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [The Flints](https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 3:27 |
+| 79 | [Mannequin Love](https://open.spotify.com/track/4csm3bIilOko37LEVW1v8P) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [The Flints](https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 3:27 |
+| 80 | [L.U.C.K.Y](https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [L.U.C.K.Y](https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0) | 2:18 |
 | 81 | [300 dreams](https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [300 dreams](https://open.spotify.com/album/3IgDyLUkygCEyfG7CsZyzB) | 3:08 |
-| 82 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 |
-| 83 | [Summer Sweat](https://open.spotify.com/track/539XSJouqOZlQlz1wEiakF) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF) | 4:06 |
+| 82 | [Summer Sweat](https://open.spotify.com/track/539XSJouqOZlQlz1wEiakF) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF) | 4:06 |
+| 83 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 |
 | 84 | [East Village](https://open.spotify.com/track/4u7PldCNunQc6vehxJbgVB) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Exit Wounds](https://open.spotify.com/album/6PQDSp0rzDXHqHbP9jmwgr) | 3:31 |
 | 85 | [1st Time](https://open.spotify.com/track/4udjo5nLK61pKajakfrndc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [1st Time](https://open.spotify.com/album/1ecGfFfdYXsJnRRLuENEtG) | 3:01 |
 | 86 | [hello !](https://open.spotify.com/track/3eIVoDIJJduj7HDDI5yz1V) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [man oh man !](https://open.spotify.com/album/3ceQB5KZjY2EI7F2b9h1pQ) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURugcFfOfEH.md) - [plain]
 | 99 | [Senses ft\. Sampha](https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Ambiguous Desire](https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS) | 4:02 |
 | 100 | [Cloudy Day](https://open.spotify.com/track/0mA7zotmg2ZFMRALljdZsS) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Cloudy Day](https://open.spotify.com/album/3IbmFFjHMuAkhfk1zFDSow) | 3:05 |
 
-Snapshot ID: `AAAAAGbqGKZlPZi8WGl8ox3pV7WsCxv9`
+Snapshot ID: `AAAAAFwOOUETFf222CDoQVcEOOajf75G`

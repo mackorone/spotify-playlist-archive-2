@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLSN7iG21yC.md) - [plain]
 
 > Clock in from the comfort of your own home and let the music carry you through the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,663 likes - 127 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 825,628 likes - 127 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLSN7iG21yC.md) - [plain]
 | 44 | [Let Somebody Go](https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 4:01 |
 | 45 | [Jericho](https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Jericho](https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh) | 2:38 |
 | 46 | [Girls Like You](https://open.spotify.com/track/6OEHjJJvdkk1Ln0p0AZdyz) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:35 |
-| 47 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 |
-| 48 | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT) | 2:45 |
+| 47 | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT) | 2:45 |
+| 48 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 |
 | 49 | [Next Thing You Know](https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Next Thing You Know](https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp) | 2:55 |
 | 50 | [A Song To Sing](https://open.spotify.com/track/7L9N5bxblTyzTknaxo7duX) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [A Song To Sing](https://open.spotify.com/album/4iqnGca3K2uMJiDSrNbpfd) | 2:59 |
 | 51 | [Here’s Your Perfect \(with salem ilese\)](https://open.spotify.com/track/4Cw1fQBX3TaiZQwOAyddnj) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Here’s Your Perfect \(with salem ilese\)](https://open.spotify.com/album/5GniWbyYasCTUi8UZO6JZA) | 2:38 |
@@ -117,16 +117,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLSN7iG21yC.md) - [plain]
 | 107 | [Let Her Go](https://open.spotify.com/track/0JmiBCpWc1IAc0et7Xm7FL) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All the Little Lights \(Deluxe Version\)](https://open.spotify.com/album/0yWveEIgWbV3oPq4ZA6BAj) | 4:12 |
 | 108 | [Good To Be](https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be](https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW) | 2:27 |
 | 109 | [No One Dies From Love](https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [No One Dies From Love](https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv) | 3:06 |
-| 110 | [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 |
+| 110 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 |
 | 111 | [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 |
-| 112 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 |
+| 112 | [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 |
 | 113 | [Let's Fall in Love for the Night](https://open.spotify.com/track/7kQkmyoHCEqwe7QwDbkSXM) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Let’s Fall In Love For The Night](https://open.spotify.com/album/3LONldJV06J1AHEph6lopK) | 3:10 |
 | 114 | [Last Train Home](https://open.spotify.com/track/1fzf9Aad4y1RWrmwosAK5y) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Last Train Home](https://open.spotify.com/album/0N81gHRK0RnJY0vMAOKVyi) | 3:07 |
 | 115 | [Better Days](https://open.spotify.com/track/2vCKQ9NNCTXoAF8ltW0Zv9) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/41pm4Q8TIe9zixjdIuvgBZ) | 3:18 |
 | 116 | [Move](https://open.spotify.com/track/46UPxQScuRtw2jvE23vuYJ) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC), [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Move](https://open.spotify.com/album/1I3BqSode2tMfk4IbbTQnK) | 2:45 |
 | 117 | [favorite kind of high](https://open.spotify.com/track/3lxias37bJGSqIOLkQBJF9) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [favorite kind of high](https://open.spotify.com/album/0ovV62VKM8ADN9BZIlrQMn) | 2:55 |
-| 118 | [Plus & Minus](https://open.spotify.com/track/6K7TDfj9Ne1FMIsKH3pUFF) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV), [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Plus & Minus](https://open.spotify.com/album/0DUmnbozJygIO0DNx0aN3s) | 3:08 |
-| 119 | [Never A Good Time](https://open.spotify.com/track/1ZxxfkeHKl0YKcPjKzeS4c) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Never A Good Time](https://open.spotify.com/album/0QlfV5dcIdMnywIB5qyNRG) | 2:47 |
+| 118 | [Never A Good Time](https://open.spotify.com/track/1ZxxfkeHKl0YKcPjKzeS4c) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Never A Good Time](https://open.spotify.com/album/0QlfV5dcIdMnywIB5qyNRG) | 2:47 |
+| 119 | [Plus & Minus](https://open.spotify.com/track/6K7TDfj9Ne1FMIsKH3pUFF) | [David Gray](https://open.spotify.com/artist/7J2lZBANizgPNfUzux31PV), [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Plus & Minus](https://open.spotify.com/album/0DUmnbozJygIO0DNx0aN3s) | 3:08 |
 | 120 | [Older](https://open.spotify.com/track/4qeHV9T5N3S7KAKryZQp8s) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Older](https://open.spotify.com/album/7Hz2GKXQniSyGHdNjRs7PP) | 2:44 |
 | 121 | [altar](https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [altar](https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI) | 4:03 |
 | 122 | [Feels Like](https://open.spotify.com/track/5AsUMMM0euIPrmRrLfb7ly) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Feels Like](https://open.spotify.com/album/6WzV6DBxklzmYlqELv77Qh) | 2:32 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLSN7iG21yC.md) - [plain]
 | 126 | [Scorpio Season](https://open.spotify.com/track/4L02unXGhakMU3dyqZE3b7) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Scorpio Season](https://open.spotify.com/album/0anO2F4PaCbLy3yRpaT1xi) | 3:05 |
 | 127 | [wish you well](https://open.spotify.com/track/4IjQfvDhOA5AkEC4kEGVJQ) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/19Nw7Jat25JYGPSWwMA7Ce) | 3:02 |
 
-Snapshot ID: `AAAAAL76SCjLpD2Xi1fxA4oaQoQ/NQid`
+Snapshot ID: `AAAAAHxfoUko7KqnfVhvHYBI3m+81Pxz`

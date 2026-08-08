@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,611 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,613 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 24 | [La Mami Que Mas Quiero](https://open.spotify.com/track/0GFknDDycu3HvtlFlBK5h6) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Eres](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:24 |
 | 25 | [Paso la Vida Pensando](https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Paso la Vida Pensando](https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG) | 4:02 |
 | 26 | [Hamaca Paraguaya](https://open.spotify.com/track/0oHEwoLk8e2dCwaFxtQ1qq) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [Hamaca Paraguaya](https://open.spotify.com/album/7ja8ZfNGuWbvS3lre15CFp) | 2:38 |
-| 27 | [Vienes y Te Vas](https://open.spotify.com/track/4L81kjuMNo9Gg6h1Bkyi0F) | [Grupo Ternura](https://open.spotify.com/artist/1f8KqVQNiSJ95tiWLjTevq) | [El Rey del Norte](https://open.spotify.com/album/3AtBWO9bJ7HzPoVXkfrVKf) | 3:18 |
-| 28 | [No Llores por Mí](https://open.spotify.com/track/7BZSJ9WnmFStbcwSv6j0In) | [Chapa C](https://open.spotify.com/artist/6x87eYql5aUn7gBRe1KEKb) | [I Will Be: Like Big Stars!](https://open.spotify.com/album/502vjSngsd5WnCtyK1gxjn) | 3:37 |
+| 27 | [No Llores por Mí](https://open.spotify.com/track/7BZSJ9WnmFStbcwSv6j0In) | [Chapa C](https://open.spotify.com/artist/6x87eYql5aUn7gBRe1KEKb) | [I Will Be: Like Big Stars!](https://open.spotify.com/album/502vjSngsd5WnCtyK1gxjn) | 3:37 |
+| 28 | [Vienes y Te Vas](https://open.spotify.com/track/4L81kjuMNo9Gg6h1Bkyi0F) | [Grupo Ternura](https://open.spotify.com/artist/1f8KqVQNiSJ95tiWLjTevq) | [El Rey del Norte](https://open.spotify.com/album/3AtBWO9bJ7HzPoVXkfrVKf) | 3:18 |
 | 29 | [Quiero!](https://open.spotify.com/track/6uUEOBVkxDJZpcDGRnTPRq) | [Paiko](https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd) | [Agua Para El Mar](https://open.spotify.com/album/5INujTECiddlYoZWh72FGZ) | 3:05 |
 | 30 | [A Tu Lado](https://open.spotify.com/track/4CB6Ih8Zuj8XqA9Z0dv0dw) | [Flou](https://open.spotify.com/artist/0YubN7dhD1kcJe7KtALAHk) | [Tácito](https://open.spotify.com/album/4AmKPsiZ7EfXD753LkqFj3) | 4:03 |
 | 31 | [La Semilla](https://open.spotify.com/track/4fzVmLfaolqU7L6J8i8byS) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [El Equilibrio](https://open.spotify.com/album/2k1L3yDGHfoWxqYvgcY2fJ) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 49 | [Alpha](https://open.spotify.com/track/3694uSFilgXYyEGFalAlJV) | [Flou](https://open.spotify.com/artist/0YubN7dhD1kcJe7KtALAHk) | [Alpha](https://open.spotify.com/album/16r1WIgldvVmCchytQQT2S) | 3:18 |
 | 50 | [Auto](https://open.spotify.com/track/2deq9FLu0FHizs9pPsPCNv) | [El Culto Casero](https://open.spotify.com/artist/5FXQksBW1lPVyzT8QQVwzW), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Auto](https://open.spotify.com/album/3ZdRSfSaKDElyVwAvpRaQf) | 2:22 |
 
-Snapshot ID: `AAAAAOMcSLxfgHgWhJhgs2H8DBi1iwAX`
+Snapshot ID: `AAAAAEdjVl5NW2HsBPBUZQDlwQuWt0Xf`

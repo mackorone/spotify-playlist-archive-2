@@ -2,7 +2,7 @@
 
 ### [GLOW Songwriters](https://open.spotify.com/playlist/37i9dQZF1DX7ifvbzG8ryV)
 
-> From the LGBTQIA+ songwriters that make the music happen\. This month's cover: <a href="spotify:artist:6prmLEyn4LfHlD9NnXWlf7">Adam Lambert</a>
+> From the LGBTQIA+ songwriters that make the music happen\. This month's cover: Louis du Sauzay
 
 216 songs - 11 hr 58 min
 

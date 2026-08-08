@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 
 > ストロボライトのように光り輝く楽曲で、今日という日をスタートしよう。 Cover art painted by <a href="spotify:artist:2IUl3m1H1EQ7QfNbNWvgru">Vaundy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,955 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,961 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 | 20 | [セレナーデ](https://open.spotify.com/track/0CWAQlHsvfqcKJVVz9up2R) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [深海](https://open.spotify.com/album/5bPtxy1zsivShMZKJVrzfF) | 3:39 |
 | 21 | [bubble days](https://open.spotify.com/track/6p8BKrC23uEKe3jPUC5Mzc) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [bubble days](https://open.spotify.com/album/4DNQwljwK8Y2shHwubMYqQ) | 4:04 |
 | 22 | [Theater](https://open.spotify.com/track/6iltt0n1DkQ0AtCcwxXNZJ) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [STARRING](https://open.spotify.com/album/32NZKUbT5ls5kYZy1j6yAM) | 3:20 |
-| 23 | [風と町](https://open.spotify.com/track/1ZcCFpGA7ufRBPsNIsTKa8) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [風と町](https://open.spotify.com/album/4jlx47gbscPwSz3TbExN9W) | 3:38 |
-| 24 | [どうしてもどうしても](https://open.spotify.com/track/6hlYmR30RGaHIz4UlVOG2U) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [どうしてもどうしても](https://open.spotify.com/album/1FrDTcNmbqprRXn9s9kk8Y) | 3:46 |
+| 23 | [どうしてもどうしても](https://open.spotify.com/track/6hlYmR30RGaHIz4UlVOG2U) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [どうしてもどうしても](https://open.spotify.com/album/1FrDTcNmbqprRXn9s9kk8Y) | 3:46 |
+| 24 | [風と町](https://open.spotify.com/track/1ZcCFpGA7ufRBPsNIsTKa8) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [風と町](https://open.spotify.com/album/4jlx47gbscPwSz3TbExN9W) | 3:38 |
 | 25 | [BOUNCE \(feat\. C.O.S.A.\)](https://open.spotify.com/track/0yMqE8BPui92vB2It7NpWJ) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [BOUNCE \(feat\. C.O.S.A.\)](https://open.spotify.com/album/44D0vIz4TIkfyRU1f4h374) | 2:37 |
 | 26 | [TEST ME](https://open.spotify.com/track/1chmVQLbEPT5890S0X55pe) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [TEST ME](https://open.spotify.com/album/4zWZzoe6u8FdjSYowVPKeZ) | 2:51 |
 | 27 | [サイレン](https://open.spotify.com/track/3eUiKQbxK0wknnKodmvOlA) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [サイレン](https://open.spotify.com/album/67i9p8iI1wU1tszaQjM0lM) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 | 49 | [飛行艇](https://open.spotify.com/track/5vsM9UppL2iTgOfenMB6Gz) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [CEREMONY](https://open.spotify.com/album/1IYJeRjWNruxAKls5cBtqm) | 4:20 |
 | 50 | [Pretender](https://open.spotify.com/track/58dxGXavrcagRqA58fNB0Z) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Traveler](https://open.spotify.com/album/2vwgYzudvFwyFe1Ho9gdUQ) | 5:26 |
 
-Snapshot ID: `AAAAAPBYkq0VkbzkjRIi0RwegdeJS7qE`
+Snapshot ID: `AAAAAK3DF06vohYD46ijy3mDhx6togqh`

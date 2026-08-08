@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Tyler Ballgame",
-  "num_followers": 89591,
+  "num_followers": 89607,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD4jWqAsc4JSKy0FW0lBca9FyaHd",
+  "snapshot_id": "AAAAAKtz5Yafwj3YcGBEXyPG/EsU10ub",
   "tracks": [
     {
       "added_at": "2026-05-15 15:12:25",
@@ -767,18 +767,18 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "Walking Through The Water",
-        "url": "https://open.spotify.com/album/0ItIepNO0BfrtzARhUcqfB"
+        "name": "I Saw The Mountains",
+        "url": "https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK"
       },
       "artists": [
         {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
         }
       ],
-      "duration_ms": 301376,
-      "name": "Walking Through The Water",
-      "url": "https://open.spotify.com/track/4eZ5yY3JOU2yD2GA7u7afs"
+      "duration_ms": 264664,
+      "name": "I Saw The Mountains",
+      "url": "https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -803,18 +803,18 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "I Saw The Mountains",
-        "url": "https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK"
+        "name": "Walking Through The Water",
+        "url": "https://open.spotify.com/album/0ItIepNO0BfrtzARhUcqfB"
       },
       "artists": [
         {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
         }
       ],
-      "duration_ms": 264664,
-      "name": "I Saw The Mountains",
-      "url": "https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44"
+      "duration_ms": 301376,
+      "name": "Walking Through The Water",
+      "url": "https://open.spotify.com/track/4eZ5yY3JOU2yD2GA7u7afs"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -875,26 +875,6 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
-        "name": "Hen's Teeth",
-        "url": "https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        },
-        {
-          "name": "I'm With Her",
-          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
-        }
-      ],
-      "duration_ms": 225231,
-      "name": "Wait Up (feat. I'm With Her)",
-      "url": "https://open.spotify.com/track/4bKT1G7Q6kInM0idAtnP3p"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
         "name": "Don't Put It All On Me (feat. Fleet Foxes)",
         "url": "https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 247306,
       "name": "Don't Put It All On Me (feat. Fleet Foxes)",
       "url": "https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
+        "name": "Hen's Teeth",
+        "url": "https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        },
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        }
+      ],
+      "duration_ms": 225231,
+      "name": "Wait Up (feat. I'm With Her)",
+      "url": "https://open.spotify.com/track/4bKT1G7Q6kInM0idAtnP3p"
     },
     {
       "added_at": "2026-05-15 15:12:25",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2026-05-15 15:12:25",
       "album": {
+        "name": "The Surface",
+        "url": "https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "The Surface",
+      "url": "https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn"
+    },
+    {
+      "added_at": "2026-05-15 15:12:25",
+      "album": {
         "name": "You and Me Time",
         "url": "https://open.spotify.com/album/0m6wO7RR5ugYzk0wZW5ori"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 225559,
       "name": "You and Me Time (feat. Sheryl Crow)",
       "url": "https://open.spotify.com/track/4v0bYGAGo7GjTDQeoaSsp7"
-    },
-    {
-      "added_at": "2026-05-15 15:12:25",
-      "album": {
-        "name": "The Surface",
-        "url": "https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "The Surface",
-      "url": "https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn"
     },
     {
       "added_at": "2026-05-15 15:12:25",

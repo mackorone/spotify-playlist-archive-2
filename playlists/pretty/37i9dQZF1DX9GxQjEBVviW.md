@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,284 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,308 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 29 | [Blue Moon](https://open.spotify.com/track/2CghtwfbA6zkqfxRlSsSJG) | [The Marcels](https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3) | [The Marcels](https://open.spotify.com/album/7aRLy6IzAiasWqxy62lubc) | 2:16 |
 | 30 | [Little Girl of Mine](https://open.spotify.com/track/6YI7hHSjotVuw7czjRNCBN) | [The Cleftones](https://open.spotify.com/artist/1rOxU7RUhK3hFKAsCTt5XU) | [The Best Of The Cleftones](https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN) | 3:12 |
 | 31 | [Hey Senorita](https://open.spotify.com/track/4Glf7Hbi4w2PQ1cdTSZ7Hc) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [The Best Of The Penguins](https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox) | 1:46 |
-| 32 | [Come Go With Me](https://open.spotify.com/track/4eRdlW0SvlRpq285jI9uf5) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Del Vikings Doo Wop](https://open.spotify.com/album/0GalVuWWpgt6JrmEb8MwLa) | 2:40 |
-| 33 | [Maybe](https://open.spotify.com/track/3OQws3wO9koGb1g2QP2YsN) | [The Chantels](https://open.spotify.com/artist/08kLJJHCIH3KZGk4FZmWSK) | [Doo Wop Classics Vol\. 1](https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp) | 2:50 |
+| 32 | [Maybe](https://open.spotify.com/track/3OQws3wO9koGb1g2QP2YsN) | [The Chantels](https://open.spotify.com/artist/08kLJJHCIH3KZGk4FZmWSK) | [Doo Wop Classics Vol\. 1](https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp) | 2:50 |
+| 33 | [Come Go With Me](https://open.spotify.com/track/4eRdlW0SvlRpq285jI9uf5) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Del Vikings Doo Wop](https://open.spotify.com/album/0GalVuWWpgt6JrmEb8MwLa) | 2:40 |
 | 34 | [Shop Around](https://open.spotify.com/track/1VMncXCJ34SIAosUKhzjHy) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [Greatest Hits: From The Beginning](https://open.spotify.com/album/5XmTHDRdxXFdrctu02TLMP) | 2:49 |
 | 35 | [Can't We Be Sweethearts](https://open.spotify.com/track/6vF8EUUjVNkKf1Yb2lmovx) | [The Cleftones](https://open.spotify.com/artist/1rOxU7RUhK3hFKAsCTt5XU) | [The Best Of The Cleftones](https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN) | 2:59 |
 | 36 | [Devil or Angel \- 2007 Remaster](https://open.spotify.com/track/1YKj6Yx5bHj15lThWYkKCz) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [Down In The Alley: The Best Of The Clovers](https://open.spotify.com/album/39FLNjOqur5u3WbvsoFg6S) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 49 | [Little Darlin'](https://open.spotify.com/track/0f7JTPN46BnWiRGb5A1fft) | [The Diamonds](https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga) | [The Best Of The Diamonds](https://open.spotify.com/album/5zsNB8XxgBrMHJeQjYJ7QH) | 2:09 |
 | 50 | [Why Do Fools Fall In Love? \- Single Version](https://open.spotify.com/track/0QlHvmgHQ66FFaSbKkVYJM) | [Frankie Lymon & The Teenagers](https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt) | [American Graffiti](https://open.spotify.com/album/3ZQMECQRA5pu9YP6LtiiIC) | 2:19 |
 
-Snapshot ID: `AAAAALCw24UcftEEc0SVuR/D//Gn/6CV`
+Snapshot ID: `AAAAAKMbLuDMwbmc9jMKKWKDym0zTkmw`

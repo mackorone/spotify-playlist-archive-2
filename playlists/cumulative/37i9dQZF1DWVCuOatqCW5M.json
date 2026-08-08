@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Armaan Malik, Aditya Rikhari, Shaan and more.",
+  "description": "Latest music from Darshan Raval, Simran Choudhary, Adnan Sami,  Shekhar Ravjiani and more.",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -662,6 +662,28 @@
       "duration_ms": 179955,
       "name": "Aaja Baija Tu (from \"Brand Bollywood Downunder\")",
       "url": "https://open.spotify.com/track/7n2su2GYTS1jNLSWtJ9sKp"
+    },
+    {
+      "album": {
+        "name": "Aaja Re Piya",
+        "url": "https://open.spotify.com/album/29ESWyP2Waa639JBQSwkxf"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Khushi Pareek",
+          "url": "https://open.spotify.com/artist/4XklST8Nob4VrG6o933En8"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154782,
+      "name": "Aaja Re Piya",
+      "url": "https://open.spotify.com/track/1jk5EKgpuQCMRZ5PTO7MFO"
     },
     {
       "album": {
@@ -4471,6 +4493,32 @@
     },
     {
       "album": {
+        "name": "Barsaat Lagdi Ae",
+        "url": "https://open.spotify.com/album/0DVXVJZHAu4mBhjMxmlN6k"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        },
+        {
+          "name": "Simran Choudhary",
+          "url": "https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu"
+        },
+        {
+          "name": "Youngveer",
+          "url": "https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186134,
+      "name": "Barsaat Lagdi Ae",
+      "url": "https://open.spotify.com/track/7xbRQfVgKHGyp5grJErFop"
+    },
+    {
+      "album": {
         "name": "Barsai Badaria",
         "url": "https://open.spotify.com/album/51aqJSZN2StD5c2h7PNqsX"
       },
@@ -5048,6 +5096,32 @@
       "duration_ms": 220263,
       "name": "Behosh",
       "url": "https://open.spotify.com/track/5b4liCyMaLHS2qMUYsZTXp"
+    },
+    {
+      "album": {
+        "name": "Behte Jana Hai",
+        "url": "https://open.spotify.com/album/5FbDVzw5Y0OiYj5qocRLyA"
+      },
+      "artists": [
+        {
+          "name": "Aroob Khan",
+          "url": "https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a"
+        },
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        },
+        {
+          "name": "Rana Sotal",
+          "url": "https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Behte Jana Hai",
+      "url": "https://open.spotify.com/track/0TjfzgRac1kPfD0pSAs066"
     },
     {
       "album": {
@@ -12324,7 +12398,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 168075,
       "name": "giraft",
       "url": "https://open.spotify.com/track/7xAAZ00Ijvf3sHQFjW39Nh"
@@ -12686,7 +12760,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 181440,
       "name": "Guzara",
       "url": "https://open.spotify.com/track/5llGxmF2mDHmormgVmWiIY"
@@ -13568,7 +13642,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 199821,
       "name": "Has Do Zara",
       "url": "https://open.spotify.com/track/45bw63cA87hmked0CCmYZk"
@@ -15771,6 +15845,24 @@
     },
     {
       "album": {
+        "name": "Ishq Tamasha",
+        "url": "https://open.spotify.com/album/1KQNSPBTNMU1i2n1tDzQUa"
+      },
+      "artists": [
+        {
+          "name": "Adnan Sami",
+          "url": "https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289411,
+      "name": "Ishq Tamasha",
+      "url": "https://open.spotify.com/track/4xp2oaVZ4gjhV5wKepTilN"
+    },
+    {
+      "album": {
         "name": "Article 370",
         "url": "https://open.spotify.com/album/3aPH5BvO8bxZCTJjVMXWwY"
       },
@@ -16196,6 +16288,24 @@
       "duration_ms": 263645,
       "name": "Jaadugar",
       "url": "https://open.spotify.com/track/702aSTeNYc27sU1JerBGYE"
+    },
+    {
+      "album": {
+        "name": "Jaadugari",
+        "url": "https://open.spotify.com/album/0r6Tm9sQ4FEwryHcpsgZSt"
+      },
+      "artists": [
+        {
+          "name": "AMAN",
+          "url": "https://open.spotify.com/artist/2fbOTJal9uKzOkYEWxaiCK"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171932,
+      "name": "Jaadugari",
+      "url": "https://open.spotify.com/track/1EN4WMiQwUpEiuHkXzhKJk"
     },
     {
       "album": {
@@ -23394,7 +23504,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 210000,
       "name": "Mainu Ki Pata",
       "url": "https://open.spotify.com/track/1A9fAmJca9d0HlN39iwY4h"
@@ -23948,6 +24058,36 @@
       "duration_ms": 152258,
       "name": "Marham",
       "url": "https://open.spotify.com/track/7iHlzTnuXuolLgt6ZWoAfg"
+    },
+    {
+      "album": {
+        "name": "Yours With Love",
+        "url": "https://open.spotify.com/album/7oouBOnCI783kJYmHZhdk2"
+      },
+      "artists": [
+        {
+          "name": "maahi",
+          "url": "https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Kalki",
+          "url": "https://open.spotify.com/artist/3bQQocqN6y43hFBAUPP5v5"
+        },
+        {
+          "name": "Devendra Dangi",
+          "url": "https://open.spotify.com/artist/00Rd0QgyKTupYWGE2eVoqd"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186479,
+      "name": "Marz - E - Dawa",
+      "url": "https://open.spotify.com/track/1o1kpJl4TuWaPBAsHTqfLa"
     },
     {
       "album": {
@@ -24666,7 +24806,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 213552,
       "name": "Mehsoos Kar",
       "url": "https://open.spotify.com/track/7urhpFTtnZz3gPKQVAQvch"
@@ -29335,6 +29475,32 @@
     },
     {
       "album": {
+        "name": "Piya Bedardi",
+        "url": "https://open.spotify.com/album/102HFBKjLWhjdPToQpOIBE"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        },
+        {
+          "name": "Buddhaa M",
+          "url": "https://open.spotify.com/artist/78NOPLmBy6GWf6U7WcEZPC"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223578,
+      "name": "Piya Bedardi",
+      "url": "https://open.spotify.com/track/5hdztw08uTjf2HT7bj26zJ"
+    },
+    {
+      "album": {
         "name": "Piya Ki Najariya",
         "url": "https://open.spotify.com/album/2JXX1LP63cd0b8Nkkkngz0"
       },
@@ -29982,7 +30148,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 410625,
       "name": "Qaraar",
       "url": "https://open.spotify.com/track/3S31XTwTQFEG7R5DbDCMbc"
@@ -33520,7 +33686,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 331251,
       "name": "Savere Savere",
       "url": "https://open.spotify.com/track/2N8Ja80ZE2w06VPBxuqj6d"
@@ -36089,6 +36255,36 @@
     },
     {
       "album": {
+        "name": "Tera Naam",
+        "url": "https://open.spotify.com/album/6o0YWtF4qL4vHOOulCHlRu"
+      },
+      "artists": [
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "name": "Saaj Bhatt",
+          "url": "https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj"
+        },
+        {
+          "name": "Aditya Dev",
+          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224285,
+      "name": "Tera Naam",
+      "url": "https://open.spotify.com/track/239bznfUwyrrkXf2hLiTjz"
+    },
+    {
+      "album": {
         "name": "Tera Nishaan",
         "url": "https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I"
       },
@@ -37158,7 +37354,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-08",
       "duration_ms": 239410,
       "name": "Teri Umeed - Aaj Bhi",
       "url": "https://open.spotify.com/track/5pE1cy4IXmXlQWvxD94iLs"
