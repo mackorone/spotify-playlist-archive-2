@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from KAROL G y Drake, Ravyn Lenae, ROLE MODEL, Rema, Roy Woods, Jutes, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,729 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,739 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

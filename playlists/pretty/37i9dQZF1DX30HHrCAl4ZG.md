@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Florence Road
 
-[Spotify](https://open.spotify.com/user/spotify) - 804,589 likes - 130 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 804,568 likes - 130 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

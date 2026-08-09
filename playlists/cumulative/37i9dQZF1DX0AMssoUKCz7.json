@@ -8200,6 +8200,28 @@
     {
       "album": {
         "name": "Lost Without Your Love",
+        "url": "https://open.spotify.com/album/1gaSy9WO8DEiekbJ130SUc"
+      },
+      "artists": [
+        {
+          "name": "DT James",
+          "url": "https://open.spotify.com/artist/4a5dX5Y0Q6ib3nR6zzpHwX"
+        },
+        {
+          "name": "Kimbo",
+          "url": "https://open.spotify.com/artist/2Kb9FvBUAZE5fyXOMhxmOA"
+        }
+      ],
+      "date_added": "2026-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141255,
+      "name": "Lost Without Your Love",
+      "url": "https://open.spotify.com/track/6bFndneu95W7IbKRd0vr8S"
+    },
+    {
+      "album": {
+        "name": "Lost Without Your Love",
         "url": "https://open.spotify.com/album/2UrgGKofRKdTKP6KdtqgEy"
       },
       "artists": [
@@ -9624,7 +9646,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 182000,
       "name": "Never Be Alone",
       "url": "https://open.spotify.com/track/0Kn1X518zDKy02CQoVP5c3"

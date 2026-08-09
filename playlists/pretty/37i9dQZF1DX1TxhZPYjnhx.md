@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: DAYOUNG, Jay Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,522 likes - 88 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,521 likes - 88 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

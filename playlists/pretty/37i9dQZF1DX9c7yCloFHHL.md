@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new, contemporary Ambient, Atmospheric & Neo\-Classical 🪐 Cover: TWO LANES
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,328 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,389 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 6 | [Arunachala](https://open.spotify.com/track/4hmGl0K4KGWz2JM8qVG5pZ) | [HUG](https://open.spotify.com/artist/0fPTd29x2F2C4lHNVUwFEs), [Gyan Riley](https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf), [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [Arunachala](https://open.spotify.com/album/5eAKqqqyqEnB0N9efco2A4) | 4:54 |
 | 7 | [Circle 72 \(Summer Hum\)](https://open.spotify.com/track/4GaMNPn6H4UtLFxHuyeBI8) | [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd), [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Circle 72 \(Summer Hum\)](https://open.spotify.com/album/3w8hHfe15rdE2PLQeFjw8C) | 4:56 |
 | 8 | [float](https://open.spotify.com/track/0ZJmYqQYvB6E39fhFoRaUX) | [inertia.](https://open.spotify.com/artist/3g0TdQT1NW2ZQUiertTxxH) | [float](https://open.spotify.com/album/6SvsFev6G3fGbkDTLXPukB) | 2:06 |
-| 9 | [Those Who Watch](https://open.spotify.com/track/2R4UqbFM2ALEfsaf258Zwx) | [Sorekara](https://open.spotify.com/artist/1iKVCznm9JPkYn8x9xjQw7), [Other Planes](https://open.spotify.com/artist/7yYuFVLnw8TTjoqT9aGMCT), [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2), [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Those Who Watch](https://open.spotify.com/album/26K242MeEbpIi84jpJNDLd) | 3:36 |
+| 9 | [Those Who Watch](https://open.spotify.com/track/2R4UqbFM2ALEfsaf258Zwx) | [Sorekara](https://open.spotify.com/artist/1iKVCznm9JPkYn8x9xjQw7), [Other Planes](https://open.spotify.com/artist/6BhLfio1QiL5cbaQSwh7u6), [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2), [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Those Who Watch](https://open.spotify.com/album/26K242MeEbpIi84jpJNDLd) | 3:36 |
 | 10 | [When You're Floating](https://open.spotify.com/track/6S74pju7gb5O1jtlNx1RlE) | [Marcela Le Gal](https://open.spotify.com/artist/7tjzvt6MOgX1033xcYAPtV) | [When You're Floating](https://open.spotify.com/album/6ldv4dYLTbCz6BVaIFKKvb) | 1:32 |
 | 11 | [At Dusk](https://open.spotify.com/track/1LWyWq9aFDOlsJuWhERWq5) | [Roy Montgomery](https://open.spotify.com/artist/0g15pJOpHp0RMVScdAXzLH), [Martha Skye Murphy](https://open.spotify.com/artist/4riGlB4lkpPDgJscJid8FA), [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Nebular](https://open.spotify.com/album/1dv09O3lu7XgJ5Y6rUFfLp) | 4:13 |
 | 12 | [PianissimoPage29](https://open.spotify.com/track/5reuMJWRhOKJUdeJVos7gR) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [PianissimoPage29](https://open.spotify.com/album/3Tst4jotooddMEulHHpBLY) | 4:18 |

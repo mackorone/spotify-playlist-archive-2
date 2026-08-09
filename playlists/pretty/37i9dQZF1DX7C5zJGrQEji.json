@@ -1,6 +1,6 @@
 {
   "description": "Tracks crediting NATURE support its conservation.",
-  "num_followers": 15284,
+  "num_followers": 15300,
   "original_name": "feat. NATURE",
   "owner": {
     "name": "Spotify",
@@ -655,26 +655,22 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "Tu Bi Xer Hat\u00ee (feat. NATURE)",
-        "url": "https://open.spotify.com/album/4ZwkLK9fernytb3aZvPoAl"
+        "name": "The River and the Sea Monster (feat. NATURE)",
+        "url": "https://open.spotify.com/album/2y0QixJxSnnyuMJMCgTHtH"
       },
       "artists": [
         {
-          "name": "AySay",
-          "url": "https://open.spotify.com/artist/5Py5TK2D6YiXZeivaPkRhE"
+          "name": "Yann Tiersen",
+          "url": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
         },
         {
           "name": "NATURE",
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "Biophonica",
-          "url": "https://open.spotify.com/artist/1jgAKg29HhmZMWRGfjELQC"
         }
       ],
-      "duration_ms": 170500,
-      "name": "Tu Bi Xer Hat\u00ee (feat. NATURE)",
-      "url": "https://open.spotify.com/track/4348UXOK0dbQb4oBQUM31f"
+      "duration_ms": 413613,
+      "name": "The River and the Sea Monster (feat. NATURE)",
+      "url": "https://open.spotify.com/track/700of47YXxOgYspt3wjqbg"
     },
     {
       "added_at": "2026-04-21 10:00:28",
@@ -703,22 +699,26 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "The River and the Sea Monster (feat. NATURE)",
-        "url": "https://open.spotify.com/album/2y0QixJxSnnyuMJMCgTHtH"
+        "name": "Tu Bi Xer Hat\u00ee (feat. NATURE)",
+        "url": "https://open.spotify.com/album/4ZwkLK9fernytb3aZvPoAl"
       },
       "artists": [
         {
-          "name": "Yann Tiersen",
-          "url": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+          "name": "AySay",
+          "url": "https://open.spotify.com/artist/5Py5TK2D6YiXZeivaPkRhE"
         },
         {
           "name": "NATURE",
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Biophonica",
+          "url": "https://open.spotify.com/artist/1jgAKg29HhmZMWRGfjELQC"
         }
       ],
-      "duration_ms": 413613,
-      "name": "The River and the Sea Monster (feat. NATURE)",
-      "url": "https://open.spotify.com/track/700of47YXxOgYspt3wjqbg"
+      "duration_ms": 170500,
+      "name": "Tu Bi Xer Hat\u00ee (feat. NATURE)",
+      "url": "https://open.spotify.com/track/4348UXOK0dbQb4oBQUM31f"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -943,26 +943,6 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "T\u042fA\u018eH \u042fUOY OT YAWH\u04d8IH (feat. NATURE)",
-        "url": "https://open.spotify.com/album/4lCf9D3zpFQR1VzOkmA96R"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 242227,
-      "name": "T\u042fA\u018eH \u042fUOY OT YAWH\u04d8IH (feat. NATURE)",
-      "url": "https://open.spotify.com/track/0Igvv0J4XBf1v11srSggjI"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
         "name": "Dar (feat. NATURE)",
         "url": "https://open.spotify.com/album/3pKjNLOnBzVgxSDkgSIdRh"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 326311,
       "name": "Dar (feat. NATURE)",
       "url": "https://open.spotify.com/track/6TLZz8jKRZJ6qZ00UOqt9a"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "T\u042fA\u018eH \u042fUOY OT YAWH\u04d8IH (feat. NATURE)",
+        "url": "https://open.spotify.com/album/4lCf9D3zpFQR1VzOkmA96R"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 242227,
+      "name": "T\u042fA\u018eH \u042fUOY OT YAWH\u04d8IH (feat. NATURE)",
+      "url": "https://open.spotify.com/track/0Igvv0J4XBf1v11srSggjI"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1145,26 +1145,6 @@
       "url": "https://open.spotify.com/track/0fYg8DpVBD8xSY3Y2slmrR"
     },
     {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "Shelter Me (feat. NATURE)",
-        "url": "https://open.spotify.com/album/1nI0Jl5fJmAT3Ouzdujft6"
-      },
-      "artists": [
-        {
-          "name": "Jenny Sturgeon",
-          "url": "https://open.spotify.com/artist/1bzktbHrIylEk8EpIbywZJ"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 254975,
-      "name": "Shelter Me (feat. NATURE)",
-      "url": "https://open.spotify.com/track/00TdCnlbgAGIJE3rWqP1hU"
-    },
-    {
       "added_at": "2026-04-21 10:00:28",
       "album": {
         "name": "Rain across the Earth",
@@ -1183,6 +1163,26 @@
       "duration_ms": 176093,
       "name": "Rain across the Earth",
       "url": "https://open.spotify.com/track/5zWbuxWPjOoG5selkjxuBA"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "Shelter Me (feat. NATURE)",
+        "url": "https://open.spotify.com/album/1nI0Jl5fJmAT3Ouzdujft6"
+      },
+      "artists": [
+        {
+          "name": "Jenny Sturgeon",
+          "url": "https://open.spotify.com/artist/1bzktbHrIylEk8EpIbywZJ"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 254975,
+      "name": "Shelter Me (feat. NATURE)",
+      "url": "https://open.spotify.com/track/00TdCnlbgAGIJE3rWqP1hU"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
+        "name": "Chronograph (feat. NATURE)",
+        "url": "https://open.spotify.com/album/68hUXfnVgzdoxUU2YT6MMo"
+      },
+      "artists": [
+        {
+          "name": "Daniel Thorne",
+          "url": "https://open.spotify.com/artist/09FKyu3X3nWAQDfidfHPyu"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 373514,
+      "name": "Chronograph (feat. NATURE)",
+      "url": "https://open.spotify.com/track/6JQpt3ptJvRgvTLmzIPBSV"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
         "name": "Loved & Lost Reprise (feat. NATURE)",
         "url": "https://open.spotify.com/album/1MNmWztxAHe91S9W2ocyaL"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 274822,
       "name": "Loved & Lost Reprise (feat. NATURE)",
       "url": "https://open.spotify.com/track/5uold1wGpiF1Fj2monmTVP"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "Chronograph (feat. NATURE)",
-        "url": "https://open.spotify.com/album/68hUXfnVgzdoxUU2YT6MMo"
-      },
-      "artists": [
-        {
-          "name": "Daniel Thorne",
-          "url": "https://open.spotify.com/artist/09FKyu3X3nWAQDfidfHPyu"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 373514,
-      "name": "Chronograph (feat. NATURE)",
-      "url": "https://open.spotify.com/track/6JQpt3ptJvRgvTLmzIPBSV"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
+        "name": "Hot Dog on a Stick (feat. NATURE)",
+        "url": "https://open.spotify.com/album/6quHYanKkIKirUeoNWJ3ew"
+      },
+      "artists": [
+        {
+          "name": "Quinn Christopherson",
+          "url": "https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 168260,
+      "name": "Hot Dog on a Stick (feat. NATURE)",
+      "url": "https://open.spotify.com/track/30Ebq0g8zqlTk074KyvfKh"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
         "name": "Lesser Spotted (feat. NATURE)",
         "url": "https://open.spotify.com/album/3MN0OGSZUjsetEhOHlDdX8"
       },
@@ -1319,26 +1339,6 @@
       "duration_ms": 202122,
       "name": "Lesser Spotted (feat. NATURE)",
       "url": "https://open.spotify.com/track/0KP19nnFanB8K2h8bQp1Yv"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "Orange Skies - Chapter 2 (feat. NATURE)",
-        "url": "https://open.spotify.com/album/4jgHswvb5geQh6pI6EBRur"
-      },
-      "artists": [
-        {
-          "name": "Rozzi",
-          "url": "https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 206877,
-      "name": "Orange Skies - Chapter 2 (feat. NATURE)",
-      "url": "https://open.spotify.com/track/4Y2ZhE91YTh1LCZfbW7LhW"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
+        "name": "Orange Skies - Chapter 2 (feat. NATURE)",
+        "url": "https://open.spotify.com/album/4jgHswvb5geQh6pI6EBRur"
+      },
+      "artists": [
+        {
+          "name": "Rozzi",
+          "url": "https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 206877,
+      "name": "Orange Skies - Chapter 2 (feat. NATURE)",
+      "url": "https://open.spotify.com/track/4Y2ZhE91YTh1LCZfbW7LhW"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
         "name": "A Day In The Life Of A Tree (feat. NATURE)",
         "url": "https://open.spotify.com/album/5iq6YJ2CDuKGsPNpeZOsrd"
       },
@@ -1395,26 +1415,6 @@
       "duration_ms": 230499,
       "name": "A Day In The Life Of A Tree (feat. NATURE)",
       "url": "https://open.spotify.com/track/0cc6MJ4oHnWJdOImTcU1d0"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "Hot Dog on a Stick (feat. NATURE)",
-        "url": "https://open.spotify.com/album/6quHYanKkIKirUeoNWJ3ew"
-      },
-      "artists": [
-        {
-          "name": "Quinn Christopherson",
-          "url": "https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 168260,
-      "name": "Hot Dog on a Stick (feat. NATURE)",
-      "url": "https://open.spotify.com/track/30Ebq0g8zqlTk074KyvfKh"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1835,6 +1835,26 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
+        "name": "Hell To The Liars (feat. NATURE)",
+        "url": "https://open.spotify.com/album/40a83SZsulnzS0WiDkHqZc"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 571168,
+      "name": "Hell To The Liars (feat. NATURE)",
+      "url": "https://open.spotify.com/track/0zla5mx2a2pKGHzAmo3rxC"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
         "name": "Algo Est\u00e1 Cambiando - Earth Remix (feat. NATURE)",
         "url": "https://open.spotify.com/album/4RunvFZUr0PFdzg3VWINMD"
       },
@@ -1855,26 +1875,6 @@
       "duration_ms": 292544,
       "name": "Algo Est\u00e1 Cambiando - Earth Remix (feat. NATURE)",
       "url": "https://open.spotify.com/track/6onn77nAEdFVIbI0gIlXjH"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "Hell To The Liars (feat. NATURE)",
-        "url": "https://open.spotify.com/album/40a83SZsulnzS0WiDkHqZc"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 571168,
-      "name": "Hell To The Liars (feat. NATURE)",
-      "url": "https://open.spotify.com/track/0zla5mx2a2pKGHzAmo3rxC"
     },
     {
       "added_at": "2026-02-05 08:45:41",

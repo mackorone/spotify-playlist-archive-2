@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WSnLRtI26o.md) - [plain]
 
 > Let your favorite pop guide you through your daily commute! Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,412 likes - 194 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,417 likes - 194 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,8 +194,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WSnLRtI26o.md) - [plain]
 | 184 | [Move](https://open.spotify.com/track/46UPxQScuRtw2jvE23vuYJ) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC), [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Move](https://open.spotify.com/album/1I3BqSode2tMfk4IbbTQnK) | 2:45 |
 | 185 | [A Second to Midnight](https://open.spotify.com/track/3YY9Yu1JsgVfF1lOXEenq9) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [A Second to Midnight](https://open.spotify.com/album/6kp91tuVBPtw7HvwTJjDHr) | 3:27 |
 | 186 | [Never A Good Time](https://open.spotify.com/track/1ZxxfkeHKl0YKcPjKzeS4c) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Never A Good Time](https://open.spotify.com/album/0QlfV5dcIdMnywIB5qyNRG) | 2:47 |
-| 187 | [Virtual Insanity \- Remastered](https://open.spotify.com/track/3rpeUtH3p22qBhJRpKxrW6) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times \- Singles 1992\-2006](https://open.spotify.com/album/0H0vrl0pFZ2u8CrSeuPCLO) | 3:49 |
-| 188 | [Ho Hey](https://open.spotify.com/track/2tw76iTsjl2SwMZJCqDFHm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/28ya0mzqImptc7CPEA6a2D) | 2:43 |
+| 187 | [Ho Hey](https://open.spotify.com/track/2tw76iTsjl2SwMZJCqDFHm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/28ya0mzqImptc7CPEA6a2D) | 2:43 |
+| 188 | [Virtual Insanity \- Remastered](https://open.spotify.com/track/3rpeUtH3p22qBhJRpKxrW6) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times \- Singles 1992\-2006](https://open.spotify.com/album/0H0vrl0pFZ2u8CrSeuPCLO) | 3:49 |
 | 189 | [Hands To Myself](https://open.spotify.com/track/7jGpa7ynADyaSmcprXgO7I) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival](https://open.spotify.com/album/3qsdWsIePeTOvpsRJV5yQB) | 3:20 |
 | 190 | [Silver and Gold \(feat\. Sam Fischer & Pink Sweat$\)](https://open.spotify.com/track/0xHeGspdxuVIm49iNXDO2u) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Silver and Gold](https://open.spotify.com/album/5RG5m64csMJpvGF0wZkQrS) | 2:57 |
 | 191 | [SING](https://open.spotify.com/track/73qyiny4KFB8kh4n2TUkOX) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [SING](https://open.spotify.com/album/1o3sKhWeAePQIl0DQegPla) | 3:11 |

@@ -4,7 +4,7 @@
 
 > This is Stefanie\. The essential tracks, all in one playlist.
 
-69 songs - 5 hr 0 min
+70 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Espelho](https://open.spotify.com/track/7b92fkV1fDdL8FdO9hgryf) | [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe) | [Espelho](https://open.spotify.com/album/0mr29hP4Qls88f2ImXd3s6) | 3:13 | 2023-09-18 | 2026-03-19 |
 | [Fofoqueiro](https://open.spotify.com/track/1L32CFDyMZXNiJQg82t9rD) | [Arnaldo Tifu](https://open.spotify.com/artist/2C1NxCWJbCkONI77zMisTx), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Enézimo](https://open.spotify.com/artist/5zYUMGYILLHjpsQwBJa3Xu), [DJ Nato\_PK](https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W) | [A Rima Não Para](https://open.spotify.com/album/4O4w0TyToNeUq9uchdlRfm) | 4:22 | 2023-12-21 |  |
 | [FUGIR NÃO ADIANTA](https://open.spotify.com/track/463cD2sfyCzpK8f8q9idTI) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [BUNMI](https://open.spotify.com/album/6sjV2tmRDy7Wql7El5rPPX) | 3:00 | 2025-04-27 |  |
+| [Intro](https://open.spotify.com/track/0EoMhqqtXrpdhfvaQpGEXZ) | [Xaolin Records](https://open.spotify.com/artist/3zvHDYmK5iKPtylVWnWxsm), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Paola Spena](https://open.spotify.com/artist/2qjS6yiDEeaxWrl9YgMDNX), [Madre Beatz](https://open.spotify.com/artist/4GU1CeOF51IJbREWohSNBj) | [Camping das Minas 2.0](https://open.spotify.com/album/3N4FpTwywyESRY3gs2HNHe) | 0:15 | 2026-08-09 |  |
 | [Ladies In tha House](https://open.spotify.com/track/3EzALboYhTsi6r62EgyN4X) | [DJ Nato\_PK](https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W), [Indee](https://open.spotify.com/artist/0A0owYhwabaVE440FurVAg), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe) | [Pau\-de\-dá\-em\-Doido, Vol\. 2](https://open.spotify.com/album/47CLbdINpTt6L03VgNLfac) | 2:59 | 2024-08-03 |  |
 | [MAAT](https://open.spotify.com/track/6491xSLJFuKKn4jc1oakvo) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [BUNMI](https://open.spotify.com/album/6sjV2tmRDy7Wql7El5rPPX) | 4:06 | 2025-08-07 |  |
 | [MAAT](https://open.spotify.com/track/7IKiC1BaSvThBivwwa0fkC) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [MAAT](https://open.spotify.com/album/5x6yxTaMj9qb9x5u90wyds) | 4:06 | 2025-04-27 | 2025-07-20 |

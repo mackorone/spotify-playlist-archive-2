@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden keşifler! Kapak: Elsu Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,245 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,247 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 49 | [Ölüyor Gibi](https://open.spotify.com/track/4af2fC7Yhb974cH0ePjaIk) | [eskibeyaz](https://open.spotify.com/artist/2ucU5WA8LChzvpiTgWfoky) | [Pas I](https://open.spotify.com/album/54dWQqds8QZo2IZxpvjuDL) | 3:34 |
 | 50 | [YAMYAM](https://open.spotify.com/track/2c5kTGTtyzwcqT1TchXTWd) | [Devrjm](https://open.spotify.com/artist/3gXJYXyCdgAgdd8hKygyEy) | [YAMYAM](https://open.spotify.com/album/5d4uVZSPpQnRzhXKpwC6VG) | 2:04 |
 
-Snapshot ID: `AAAAAHOMRRm8Tk2JbZOTl/ROpxHB5Yb4`
+Snapshot ID: `AAAAAA/PRf785RVRSeAACGiMoGxSJ8QJ`

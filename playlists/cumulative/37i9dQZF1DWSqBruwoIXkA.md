@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like sad hour, with Noah Kahan
 
-1,090 songs - 2 day 12 hr 0 min
+1,091 songs - 2 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,7 +301,7 @@
 | [fiimy \- fuck it, i miss you](https://open.spotify.com/track/4BWtx4oafnboNpyH1x8zEc) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [fiimy \(fuck it, i miss you\)](https://open.spotify.com/album/4Vygyz6oY8L618erw7bx99) | 3:58 | 2022-02-04 | 2022-05-20 |
 | [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 | 2022-07-22 | 2023-07-17 |
 | [Fingers Crossed](https://open.spotify.com/track/4wH7ZoqgETaACS9BlUkvuY) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror](https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT) | 2:55 | 2023-06-16 | 2024-04-19 |
-| [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-01-07 |  |
+| [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-01-07 | 2026-08-09 |
 | [Finish Line](https://open.spotify.com/track/3O9zNcKGwoNLq4vUSqPekJ) | [HANA](https://open.spotify.com/artist/0PuSBKhWgCshAY7m8hbDlj) | [Finish Line](https://open.spotify.com/album/0lHlWcm8GT3PGJWxYIhAJJ) | 2:10 | 2025-08-15 | 2025-09-14 |
 | [First Heartbreak](https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [First Heartbreak](https://open.spotify.com/album/1QGOpJ2KxpQ4TryPQfPq9n) | 3:00 | 2024-09-13 | 2025-03-26 |
 | [First Love](https://open.spotify.com/track/5MRPUeJGuyCwmwWzYgYI1t) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [First Love](https://open.spotify.com/album/0FjpV9YcHraLYooBKCmu2l) | 3:41 | 2025-08-01 | 2025-11-09 |
@@ -583,6 +583,7 @@
 | [LET EM GO](https://open.spotify.com/track/2RnBxdoRGOBzy2yvThWtMe) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [LET EM GO](https://open.spotify.com/album/38ZOCVj7a6GRwhcNerWZs3) | 3:01 | 2023-01-20 | 2026-07-22 |
 | [let go of me slowly](https://open.spotify.com/track/5X0QI12MERu54ghfLYF76f) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [let go of me slowly](https://open.spotify.com/album/4lbmpXfOb9FxBMxap9AQ0T) | 3:27 | 2024-04-12 | 2024-04-27 |
 | [Let Him](https://open.spotify.com/track/6DxHIapiBmSNbKkivqFJyB) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Let Him](https://open.spotify.com/album/7qYQ9IHjdHc5kkVkEbtWt6) | 2:30 | 2026-02-20 | 2026-05-05 |
+| [Let It Die](https://open.spotify.com/track/4DsFw6tYSCof1P6DZ32Clk) | [Abbie Gordon](https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy) | [Let It Die](https://open.spotify.com/album/6Uel6cr5Fpp6WSlQDkbsxJ) | 3:32 | 2026-08-07 |  |
 | [Let Me Down Slowly](https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 2:49 | 2022-01-07 | 2022-04-21 |
 | [Let Somebody Go](https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 4:01 | 2021-12-17 | 2023-11-22 |
 | [LET THE GRASS GROW](https://open.spotify.com/track/2BN5ZMErVAhbEroB99b3no) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [LET THE GRASS GROW](https://open.spotify.com/album/160bnYxuf2qbEscs8B4QOu) | 2:55 | 2022-03-11 | 2023-08-19 |

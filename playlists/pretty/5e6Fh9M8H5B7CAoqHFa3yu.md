@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 349 likes - 2,531 songs - 6 day 4 hr 51 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 349 likes - 2,535 songs - 6 day 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2539,5 +2539,9 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2529 | [LOADSTONE \- SINGOLO](https://open.spotify.com/track/2yLJnJl5fZWU1r5AUkNiBl) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [LOADSTONE \(SINGOLO\)](https://open.spotify.com/album/1Cx5pyhdifjYwPVZESXdJT) | 3:23 |
 | 2530 | [Héroe](https://open.spotify.com/track/6Ch3Cw2zSpBDOEvCJz7f07) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Héroe](https://open.spotify.com/album/6J63RWGRhO59R406st0Z0X) | 3:29 |
 | 2531 | [Genesi Floreale](https://open.spotify.com/track/0WDMdyAwu69j25S7BGj36i) | [Mishu Cerri](https://open.spotify.com/artist/2Az66PYe7XDPUqUTgSrmfq) | [Genesi Floreale](https://open.spotify.com/album/6ZbiL3FEMWxGp1R74rAkMT) | 3:40 |
+| 2532 | [Magia Fuerte](https://open.spotify.com/track/5rSdLF3KzTBeHxKawlCOOz) | [Esteban Paez](https://open.spotify.com/artist/06aRITQAb5TMXELGTFBaXW) | [Perro Loco](https://open.spotify.com/album/1HbLEb1wJGZthL0iFzmu7H) | 2:36 |
+| 2533 | [Never Trust A Pig](https://open.spotify.com/track/0amXYhhJnE5jby745KLxIg) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Never Trust A Pig](https://open.spotify.com/album/2pDvvEkFY7ymQKO480r1Ar) | 3:36 |
+| 2534 | [Urlo](https://open.spotify.com/track/4Q07s0mx7ztU5qpLdqZ0jL) | [Vitojazzband](https://open.spotify.com/artist/7vfInUCMKJLnqxxm7WSukQ) | [Urlo](https://open.spotify.com/album/3f9JbGTjZf1SJoHa7HUlgT) | 2:26 |
+| 2535 | [L'été](https://open.spotify.com/track/1QCUwsbi0gzZjZWbBTfvNS) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [L'été](https://open.spotify.com/album/2Sc22SbioaEC7xBfK94JUc) | 3:58 |
 
-Snapshot ID: `AAAKvRYFj8AWhfmUPNIG9KhHl5fnHBq9`
+Snapshot ID: `AAAKwaXBS93Ya59W1WEP/GF2i2TGPmiJ`

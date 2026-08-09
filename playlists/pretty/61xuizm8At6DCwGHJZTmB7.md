@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! Soaking worship music \| Jelly Roll gospel \. cinco de mayo , gospel songs jelly roll christian
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 116,976 likes - 183 songs - 16 hr 49 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 116,965 likes - 183 songs - 16 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,7 +181,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 171 | [Look At What The Blood Has Done \- Live](https://open.spotify.com/track/7i2ELDMeAw0I3HtFYbUmws) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [Look At What The Blood Has Done \(Live\)](https://open.spotify.com/album/7zCjHQRVh97TQZFeD3yS0U) | 5:50 |
 | 172 | [A Thousand Hallelujahs \- Live](https://open.spotify.com/track/3iJpkw9KKdzMNZQVrdRzsl) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [SEVEN \(Live\)](https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt) | 5:09 |
 | 173 | [Covered By The Blood \- Live](https://open.spotify.com/track/2cRg97KMU2c1H40omy8rKN) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Covered By The Blood \(Live\)](https://open.spotify.com/album/66yQEX1xivwEPM0nVAoc5Z) | 7:12 |
-| 174 | [If I Could Have Anything](https://open.spotify.com/track/1Ujc3cNf2JxHHhoLjzHRbL) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Blake Wiggins](https://open.spotify.com/artist/5NW1jC5KUjGRgiiI9Yd8mV), [Ahjah Walls](https://open.spotify.com/artist/3ndbQOJkH1hZns1W0k4tPY) | [If I Could Have Anything](https://open.spotify.com/album/2WUzFHWLFCMCGNwqznfntm) | 7:10 |
+| 174 | [If I Could Have Anything](https://open.spotify.com/track/1Ujc3cNf2JxHHhoLjzHRbL) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Blake Wiggins](https://open.spotify.com/artist/5NW1jC5KUjGRgiiI9Yd8mV), [AHJAH](https://open.spotify.com/artist/4GAAdeyX5h9aUxbZ7m0OCF) | [If I Could Have Anything](https://open.spotify.com/album/2WUzFHWLFCMCGNwqznfntm) | 7:10 |
 | 175 | [Presence Of The Lord \- Live](https://open.spotify.com/track/2QcJrVRd2WkyL17vMe48i4) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Derek Johnson](https://open.spotify.com/artist/3967KnQedbgX8KdNTXhm7y) | [Worthy Of Hallelujah \(Live\)](https://open.spotify.com/album/3wtjYn5O0FawhiX7M5XodK) | 5:21 |
 | 176 | [The Blessing \- Live From Europe](https://open.spotify.com/track/5IhJcSvpwhWCimFQgLzUpM) | [Kari Jobe Carnes](https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Live From Europe](https://open.spotify.com/album/5htXe6Yr7XvTglqWJs2JBB) | 8:09 |
 | 177 | [Outnumbered \- Live](https://open.spotify.com/track/2Dt3MmWoQKytfShbkCjIYw) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Outnumbered \(Live\)](https://open.spotify.com/album/5hgMAQ7rrWZBFRbUddgOfu) | 5:05 |

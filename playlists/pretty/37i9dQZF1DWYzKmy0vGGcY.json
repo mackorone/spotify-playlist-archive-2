@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James",
-  "num_followers": 653805,
+  "num_followers": 653948,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "If You Can Believe Your Eyes And Ears",
-        "url": "https://open.spotify.com/album/6zK7GV2JCqLknAdTeIhooB"
-      },
-      "artists": [
-        {
-          "name": "The Mamas & The Papas",
-          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
-        }
-      ],
-      "duration_ms": 157960,
-      "name": "California Dreamin'",
-      "url": "https://open.spotify.com/track/63rva3TBizr6x1Yp5uwKfD"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Abbey Road (Remastered)",
         "url": "https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 185733,
       "name": "Here Comes The Sun - Remastered",
       "url": "https://open.spotify.com/track/45yEy5WJywhJ3sDI28ajTm"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "If You Can Believe Your Eyes And Ears",
+        "url": "https://open.spotify.com/album/6zK7GV2JCqLknAdTeIhooB"
+      },
+      "artists": [
+        {
+          "name": "The Mamas & The Papas",
+          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+        }
+      ],
+      "duration_ms": 157960,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/63rva3TBizr6x1Yp5uwKfD"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2069,22 +2069,6 @@
       "url": "https://open.spotify.com/track/0sDqo9UPzPUtu9wEkI3zRB"
     },
     {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "Hits'n'Flips",
-        "url": "https://open.spotify.com/album/4fKEheMhcigQBenkttp5CU"
-      },
-      "artists": [
-        {
-          "name": "Procol Harum",
-          "url": "https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C"
-        }
-      ],
-      "duration_ms": 248946,
-      "name": "A Whiter Shade of Pale - Original Single Version",
-      "url": "https://open.spotify.com/track/78ZqE2tjAxbqEGGlvGnQfT"
-    },
-    {
       "added_at": "2022-05-30 13:00:37",
       "album": {
         "name": "Rubber Soul (Remastered)",
@@ -2099,6 +2083,22 @@
       "duration_ms": 146333,
       "name": "In My Life - Remastered",
       "url": "https://open.spotify.com/track/5QqdvVeYLL1xvZ1ndUjxnO"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "Hits'n'Flips",
+        "url": "https://open.spotify.com/album/4fKEheMhcigQBenkttp5CU"
+      },
+      "artists": [
+        {
+          "name": "Procol Harum",
+          "url": "https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C"
+        }
+      ],
+      "duration_ms": 248946,
+      "name": "A Whiter Shade of Pale - Original Single Version",
+      "url": "https://open.spotify.com/track/78ZqE2tjAxbqEGGlvGnQfT"
     },
     {
       "added_at": "2022-05-30 13:00:37",

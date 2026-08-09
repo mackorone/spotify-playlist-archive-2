@@ -1,12 +1,12 @@
 {
   "description": "This is Angela Torres. The essential tracks, all in one playlist.",
-  "num_followers": 8298,
+  "num_followers": 8306,
   "original_name": "This Is Angela Torres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAACj7yGWkif/gx8mSmmQz1I9",
+  "snapshot_id": "anUgAAAAAACoR+MCgzJW6Z/5hVK43fGz",
   "tracks": [
     {
       "added_at": null,
@@ -623,6 +623,26 @@
       "duration_ms": 198803,
       "name": "AMOR DEL WENO",
       "url": "https://open.spotify.com/track/2StKy6GrZrk8G9ChNNCb1T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Favorita (En Vivo)",
+        "url": "https://open.spotify.com/album/1n4aXYVrnqSV8ahYenLZGo"
+      },
+      "artists": [
+        {
+          "name": "Cindy Cats",
+          "url": "https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv"
+        },
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 260244,
+      "name": "Favorita (En Vivo)",
+      "url": "https://open.spotify.com/track/6zTK7QwntQ9CuDJowNVFSS"
     },
     {
       "added_at": null,

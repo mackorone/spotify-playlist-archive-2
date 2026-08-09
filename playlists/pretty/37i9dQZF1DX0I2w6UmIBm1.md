@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 
 > Uplift your spirit with these faith\-filled folk melodies\. Cover: Sanctus Real
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,415 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,445 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 | 74 | [Met a Girl in Arizona](https://open.spotify.com/track/2JwJ4IK2NSPf4mdJTopdqJ) | [Sam Wilson](https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5) | [Uncharted](https://open.spotify.com/album/30MQEIZYa80QfqigFff3B6) | 2:34 |
 | 75 | [Flying Kites](https://open.spotify.com/track/1qHYI1dvyZmIcErE1qhXYY) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Flying Kites](https://open.spotify.com/album/6JlCqPeHZUbN3hRSBbMOFR) | 3:16 |
 
-Snapshot ID: `AAAAAGSB7jyDmIPQtvk+cTVskzzRhcEG`
+Snapshot ID: `AAAAAL1Fggr9EfxhkXNsnhxW/0y1hHgv`

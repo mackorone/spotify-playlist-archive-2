@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Pagode do Adame
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,397 likes - 75 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,030 likes - 75 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 11 | [Apaga / Medo Bobo / Notificação Preferida \- Ao Vivo](https://open.spotify.com/track/1voNjZWuJlVVYByeJJF7sj) | [Grupo Presença](https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9) | [CBF \(Cerveja, Batucada e Futebol\) \[Ao Vivo\]](https://open.spotify.com/album/6su7EViSNwpG1XcWte56X8) | 6:29 |
 | 12 | [Duvido / Ideias do Amor / Meu Amigo \- Ao Vivo](https://open.spotify.com/track/6ZA8vyBFshzyqRYDj3Q6jR) | [Imaginasamba](https://open.spotify.com/artist/1DEukDFi4pMT4Y0bfGxJTB) | [Imagina pra Namorar, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/0zxfKH3fV097N0frpzKmOE) | 5:11 |
 | 13 | [Dorme com Deus / Pra Não Pensar Em Você \- Ao Vivo](https://open.spotify.com/track/5w3YtgXqR7BD0hZctqWgLR) | [Filtr Music Brasil](https://open.spotify.com/artist/3HS6PhyJJP5YNb5OFw1E5Q), [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy), [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Pagode Daquele Jeito \(Ao Vivo\)](https://open.spotify.com/album/11B1LkMEiDnkSoXtR2ZLHP) | 5:03 |
-| 14 | [Valeu Pra Aprender / Pura Adrenalina \- Ao Vivo](https://open.spotify.com/track/5Z2ic2M3Oge2azIAfFcidx) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Turma Futebol Clube \- Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/28LUE8am6HvOXs8U4DzcJl) | 3:59 |
+| 14 | [Pura Adrenalina / Valeu Pra Aprender \- Ao Vivo](https://open.spotify.com/track/5Z2ic2M3Oge2azIAfFcidx) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [Turma Futebol Clube \- Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/28LUE8am6HvOXs8U4DzcJl) | 3:59 |
 | 15 | [Tudo Pode Acontecer / Vai Me Dando Corda / A Casa Caiu \- Ao Vivo](https://open.spotify.com/track/16lHwvxBdG8gp8iJAcxgjT) | [Grupo Bom Astral](https://open.spotify.com/artist/7nqAVYCMjEMcKe1TP4nkJb) | [Bom Astral À Vontade \(Audiovisual, Ao Vivo\)](https://open.spotify.com/album/5A1B1bSJzKzmpFBGCgoYcw) | 4:40 |
 | 16 | [Gamei / Ponto Final \- Ao Vivo](https://open.spotify.com/track/4QenQI5EgJUFInEil9acwD) | [Kamisa 10](https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs), [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy) | [Hoje Tem Folga \(Ao Vivo\)](https://open.spotify.com/album/5PC0kn0rvDjxhRinVG2ZJy) | 3:52 |
 | 17 | [Falando Sério / Nuvens de Algodão / Abrigo \- Ao Vivo](https://open.spotify.com/track/79u3pV9FZYnzi767bpHcp3) | [Délcio Luiz](https://open.spotify.com/artist/6HAIIkjqIjLqsJvuUfmX4a), [Fabinho](https://open.spotify.com/artist/7p47atayUept3xqqBbVXlN) | [Falando Sério / Nuvens de Algodão / Abrigo \(Ao Vivo\)](https://open.spotify.com/album/3rM7w0mjOp5fsMGEi3i1CK) | 5:18 |

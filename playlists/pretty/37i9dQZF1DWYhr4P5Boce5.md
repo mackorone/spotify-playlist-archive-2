@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, LOVE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,940 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,952 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 99 | [If It Wasn't You](https://open.spotify.com/track/1a6Se5IcVFKWdqyVayKPRW) | [Airr](https://open.spotify.com/artist/0DLfOrQvWzfwx0DWmSY8dz) | [If It Wasn't You](https://open.spotify.com/album/6Y1mcYfavUoOKSjygq1O4N) | 3:06 |
 | 100 | [Ride or Die](https://open.spotify.com/track/1MDYOI1rPyR0BfrS7E8eMv) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Ride or Die](https://open.spotify.com/album/2jcpIxfkydmBZ0tdF8F7St) | 2:52 |
 
-Snapshot ID: `AAAAALzoQwHyaQLNLhu4nCorjbxAeRfK`
+Snapshot ID: `AAAAAHWZZk8/B1Jir9H5VX/KbIvV4umq`

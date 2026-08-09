@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYnfT1sbdZv.md) - [plain]
 
 > Music from "THE IDOLM@STER CINDERELLA GIRLS"\.  THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,783 likes - 75 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,789 likes - 75 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYnfT1sbdZv.md) - [plain]
 | 68 | [モーレツ★世直しギルティ! \- GAME VERSION](https://open.spotify.com/track/5K0Kw3rMq2kl5GdNJitY0U) | [堀裕子 \(CV: 鈴木絵理\)](https://open.spotify.com/artist/2OvevE2Jl8jkb20YBAyPcH), [片桐早苗 \(CV: 和氣あず未\)](https://open.spotify.com/artist/7oK9kaJVvqTn5thxs5EVfX), [及川雫 \(CV: のぐちゆり\)](https://open.spotify.com/artist/7bCFFwyITV8Sip1CE3YutG) | [THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 11〜20 GAME VERSION](https://open.spotify.com/album/5XQBMoTcyUNP6m5BDUg4dj) | 2:06 |
 | 69 | [Hotel Moonside \- GAME VERSION](https://open.spotify.com/track/4WGc4QiR2MVeqomqsH1ITB) | [速水奏 \(CV: 飯田友子\)](https://open.spotify.com/artist/6XEQlTi52pVJTPXekbdAiq) | [THE IDOLM@STER CINDERELLA MASTER 031〜040 GAME VERSION](https://open.spotify.com/album/2ivKZLvwrnqv0zu0060q4T) | 2:08 |
 | 70 | [Twilight Sky](https://open.spotify.com/track/0EDzvWWK7PoCBONGUOVtLh) | [多田李衣菜 \(CV: 青木瑠璃子\)](https://open.spotify.com/artist/3C2o7JTalFKOqCXesixYte) | [THE IDOLM@STER CINDERELLA GIRLS ANIMATION PROJECT 00 ST@RTER BEST](https://open.spotify.com/album/36GVSCiTkbzjWycetm9GNb) | 4:24 |
-| 71 | [NUDIE★ \- GAME VERSION](https://open.spotify.com/track/073IGFGBhpgoKRzfEDoedE) | [城ヶ崎美嘉 \(CV: 佳村はるか\)](https://open.spotify.com/artist/58B9VjzwsrMdm3fVM3oHNs) | [THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER SERIES GAME VERSION SONG COLLECTION Vol.1](https://open.spotify.com/album/0dX5bHw1IkAyS827s1XcY8) | 2:00 |
-| 72 | [Radio Happy \- GAME VERSION](https://open.spotify.com/track/0Wh4a90tCUaBkv3a4RUGYA) | [大槻唯 \(CV: 山下七海\)](https://open.spotify.com/artist/7u7eXSWnUjT4sgkPsWcOhs) | [THE IDOLM@STER CINDERELLA MASTER 041〜050 GAME VERSION](https://open.spotify.com/album/1DzZkroTqMlLfkTB93o8qI) | 2:09 |
+| 71 | [Radio Happy \- GAME VERSION](https://open.spotify.com/track/0Wh4a90tCUaBkv3a4RUGYA) | [大槻唯 \(CV: 山下七海\)](https://open.spotify.com/artist/7u7eXSWnUjT4sgkPsWcOhs) | [THE IDOLM@STER CINDERELLA MASTER 041〜050 GAME VERSION](https://open.spotify.com/album/1DzZkroTqMlLfkTB93o8qI) | 2:09 |
+| 72 | [NUDIE★ \- GAME VERSION](https://open.spotify.com/track/073IGFGBhpgoKRzfEDoedE) | [城ヶ崎美嘉 \(CV: 佳村はるか\)](https://open.spotify.com/artist/58B9VjzwsrMdm3fVM3oHNs) | [THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER SERIES GAME VERSION SONG COLLECTION Vol.1](https://open.spotify.com/album/0dX5bHw1IkAyS827s1XcY8) | 2:00 |
 | 73 | [躍るFLAGSHIP \- GAME VERSION](https://open.spotify.com/track/7KxFpBdrDOsfolQcP2ZfC4) | [小日向美穂 \(CV: 津田美波\)](https://open.spotify.com/artist/4dalrZzIs50pqdS89Bgj6H), [佐藤心 \(CV: 花守ゆみり\)](https://open.spotify.com/artist/74oOpO97XkXnYtjYoArPvw), [北条加蓮 \(CV: 渕上 舞\)](https://open.spotify.com/artist/76fScb3El7MBuQ4siASuTR) | [THE IDOLM@STER CINDERELLA MASTER 3chord SERIES GAME VERSION SONG COLLECTION](https://open.spotify.com/album/4U9LWJHJdm1jrSImzpMPvD) | 2:15 |
-| 74 | [凸凹スピードスター \- GAME VERSION](https://open.spotify.com/track/07V6TltekjZudqZEXQkf2V) | [安部菜々 \(CV: 三宅麻理恵\)](https://open.spotify.com/artist/0EeF7ArEo2Xv1Qg6XoJ1Ua), [佐藤心 \(CV: 花守ゆみり\)](https://open.spotify.com/artist/74oOpO97XkXnYtjYoArPvw) | [THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 21〜30 GAME VERSION](https://open.spotify.com/album/1U7f3KJ4Xu4UwFNFlmXXMf) | 2:08 |
-| 75 | [Majoram Therapie](https://open.spotify.com/track/5DbAEwEIKoaCIOEo5CqHjv) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [Majoram Therapie](https://open.spotify.com/album/2zExIClgNEbClrbpB7ilvr) | 4:23 |
+| 74 | [Majoram Therapie](https://open.spotify.com/track/5DbAEwEIKoaCIOEo5CqHjv) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [Majoram Therapie](https://open.spotify.com/album/2zExIClgNEbClrbpB7ilvr) | 4:23 |
+| 75 | [凸凹スピードスター \- GAME VERSION](https://open.spotify.com/track/07V6TltekjZudqZEXQkf2V) | [安部菜々 \(CV: 三宅麻理恵\)](https://open.spotify.com/artist/0EeF7ArEo2Xv1Qg6XoJ1Ua), [佐藤心 \(CV: 花守ゆみり\)](https://open.spotify.com/artist/74oOpO97XkXnYtjYoArPvw) | [THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 21〜30 GAME VERSION](https://open.spotify.com/album/1U7f3KJ4Xu4UwFNFlmXXMf) | 2:08 |
 
 Snapshot ID: `AAAAALAyRA+raLLttiMQiUwVhKLVgV8w`

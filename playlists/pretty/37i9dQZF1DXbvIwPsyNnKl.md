@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 
 > The best of Pinoy hip\-hop\. KALYE Natin 'To\. Cover: Bugoy Na Koykoy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,516,111 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,516,241 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

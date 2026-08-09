@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from New music from DJ Zinhle, REMA, De Mthuda,  Elaine, PLG Chanty and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,309 likes - 80 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,345 likes - 80 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 24 | [Stop The Wedding!](https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Stop The Wedding!](https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc) | 3:18 |
 | 25 | [Thatha](https://open.spotify.com/track/12WystJneoZaXLZXtR4vdl) | [Nobantu Vilakazi](https://open.spotify.com/artist/3qo2q05gFa09MXrEZltr7q), [Mr Amigo](https://open.spotify.com/artist/2qj2xwsbNlPlMoCJDiYHQq), [Justin99](https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI), [Hotfurze](https://open.spotify.com/artist/2PcrSfvcTT1DWugs6BdhQE) | [Thatha](https://open.spotify.com/album/1SGInamCimsWq0TVYcsSwy) | 6:35 |
 | 26 | [Pavlovian Effect](https://open.spotify.com/track/1lojtDkGxoRfnwLQdZORgp) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [Pavlovian Effect](https://open.spotify.com/album/5VWaNHB7mytsp0O76lGw4L) | 4:38 |
-| 27 | [Sengkhathele](https://open.spotify.com/track/3KOhk82gaMh4VEj4UaCdK7) | [Zingah](https://open.spotify.com/artist/76Xz6GsYrxBnuKkSphL7FH) | [Sengkhathele](https://open.spotify.com/album/0vJJ33y8zadxg9oMwalry8) | 2:55 |
+| 27 | [Sengkhathele](https://open.spotify.com/track/3KOhk82gaMh4VEj4UaCdK7) | [Zingah](https://open.spotify.com/artist/76Xz6GsYrxBnuKkSphL7FH) | [Sengkhathele](https://open.spotify.com/album/0vJJ33y8zadxg9oMwalry8) | 2:28 |
 | 28 | [When He’s Gone](https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [When He’s Gone](https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA) | 3:06 |
 | 29 | [Strings](https://open.spotify.com/track/1qDZIJh4aCifgsR5HiVdrY) | [Mick Man](https://open.spotify.com/artist/2qyayQizFjGigmZVrwyuf9) | [Stellenbosch Drive](https://open.spotify.com/album/3THdkt6wrpHVEBTuluF9uY) | 6:00 |
 | 30 | [Red Wine Holiday](https://open.spotify.com/track/7xRM7xmbUsTROH08OoxsEs) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Catch n' Release](https://open.spotify.com/album/7xyEdU4cfiwBoiNu6GvIEJ) | 2:47 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: Elaine
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,528 likes - 58 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,595 likes - 58 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

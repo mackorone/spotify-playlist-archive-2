@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,635 songs - 3 day 10 hr 2 min
+1,637 songs - 3 day 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [AFFETMEM](https://open.spotify.com/track/3WCrBnWabeuTk2wr6UwaYV) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [AFFETMEM](https://open.spotify.com/album/0vbSMu4srfpPlajCl3bWcg) | 3:02 | 2023-01-15 | 2024-03-22 |
 | [Affettim](https://open.spotify.com/track/3lSuzS3jEkys1ZXw4tAcRR) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Affettim](https://open.spotify.com/album/5i6lQ4n7Fk4TgmXivjXc5Q) | 3:19 | 2022-01-15 | 2022-09-10 |
 | [AGZI BOZUK](https://open.spotify.com/track/5gI05YsEMs7cKOBhqJybDD) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [YOUNGSTA](https://open.spotify.com/album/65dEDwbxXWzx93f6Vs5A0Q) | 2:06 | 2023-11-25 | 2023-11-27 |
+| [Ah Be Manolya](https://open.spotify.com/track/6jufCZrWWPnuL8ozXjMqIp) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Ah Be Manolya](https://open.spotify.com/album/0w21vGqaC3h0KLyXsNSAb8) | 2:54 | 2026-08-08 |  |
 | [Ah Canım Sevgilim \- Demo](https://open.spotify.com/track/5kpkEb0M49YM516trGUSWS) | [Rei 6](https://open.spotify.com/artist/2hiKZUSxd7c4Ab57KAQ3SW) | [Dibe İniyorum \(Demo\)](https://open.spotify.com/album/0rFC7uGCJIBQFnEBP5W2jd) | 3:10 | 2021-12-01 | 2023-03-05 |
 | [Ah Ellerim Kırılaydı](https://open.spotify.com/track/4D36ZNHfLE3joglWbDLn5X) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Ah Ellerim Kırılaydı](https://open.spotify.com/album/3MRK2TWYUJkpNZM8LmTIN5) | 3:00 | 2021-03-27\* | 2021-07-14 |
 | [Ahu](https://open.spotify.com/track/5dIFM4dkwEjMnFppbHTsEA) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Gök Nerede](https://open.spotify.com/album/7sekCrynyTpbFhD3zVlxl0) | 3:34 | 2024-08-18 | 2025-07-05 |
@@ -602,7 +603,7 @@
 | [GELMEZSEN GELME](https://open.spotify.com/track/4qcngMZ8yF98sAnFKlvXPN) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 1:33 | 2022-03-20 | 2023-06-04 |
 | [Gemiler \- Ozan Bayraşa](https://open.spotify.com/track/33Zta5czbTRQS8SIRu3vLN) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 2:57 | 2025-06-28 | 2025-06-30 |
 | [Geri Dönemedim](https://open.spotify.com/track/10Sa2Mpma0EHWKLuyyrBdq) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geri Dönemedim](https://open.spotify.com/album/2EsFEiIxSLfij6dy5vd1SC) | 2:18 | 2023-05-06 | 2024-09-22 |
-| [Geri Ver](https://open.spotify.com/track/0XZx9qu1r2sUXeoHCqsRiP) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [CURCUNA](https://open.spotify.com/album/5CQCXwMHs5IuOOKpCUqaDD) | 2:49 | 2026-02-21 |  |
+| [Geri Ver](https://open.spotify.com/track/0XZx9qu1r2sUXeoHCqsRiP) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [CURCUNA](https://open.spotify.com/album/5CQCXwMHs5IuOOKpCUqaDD) | 2:49 | 2026-02-21 | 2026-08-09 |
 | [Geri Ver](https://open.spotify.com/track/6fCS2Zg9OKiWh51TbFFWXG) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Geri Ver](https://open.spotify.com/album/5mFTXf9dPQ6cTxbt7nuHpw) | 2:49 | 2025-11-15 | 2026-02-22 |
 | [Geriye Dönemem](https://open.spotify.com/track/33rOlLnsXLBumU1hnNi65f) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Kalite](https://open.spotify.com/album/3OYu2np3Hm0zpkcNBFV0V9) | 2:05 | 2022-12-17 | 2022-12-25 |
 | [Gerçekleşebilir](https://open.spotify.com/track/1KwiqA75C5lIIdMBoiEffe) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [Gerçekleşebilir](https://open.spotify.com/album/6tkwRvL9npE0otgeyibMls) | 3:49 | 2021-11-28 | 2021-12-10 |
@@ -1382,6 +1383,7 @@
 | [SÜR](https://open.spotify.com/track/3SLOjhcE08rzXXBMN8c6UM) | [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [SÜR](https://open.spotify.com/album/0JMhNmkcLl9dZf9U7uDVkK) | 3:26 | 2022-08-06 | 2022-08-13 |
 | [Sıfırdan Zirveye](https://open.spotify.com/track/4DYpSlYDrQyAvfQhORjyGM) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Sıfırdan Zirveye](https://open.spotify.com/album/5pNZZwx87US89C5MTkUFI2) | 2:38 | 2025-08-16 | 2025-09-14 |
 | [Sır](https://open.spotify.com/track/1qfaoZIi4RuWa1eS8vYS2L) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Sır](https://open.spotify.com/album/1DAMEAIqb27PCErT8HjCDx) | 3:09 | 2021-08-01 | 2021-08-13 |
+| [Ta Burama](https://open.spotify.com/track/1ljQ6p7H1xYqiuOYF67MUQ) | [KARM6](https://open.spotify.com/artist/6NDMASsBLAUDX3QsJvki3r), [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Ta Burama](https://open.spotify.com/album/4Ze8NzsnRkfOU2J3qJhPaq) | 2:44 | 2026-08-08 |  |
 | [Ta Ki Seni Görene Kadar](https://open.spotify.com/track/6eElMjMKHIbYLfB9yEqxJW) | [Anadolu Rock Cover](https://open.spotify.com/artist/0D9WyHpRKA8jiN3R9uqrYK) | [Ta Ki Seni Görene Kadar](https://open.spotify.com/album/64sKEsa11MZOacj6EeYFHs) | 3:34 | 2026-03-22 | 2026-03-24 |
 | [TAK TAK TAK](https://open.spotify.com/track/28TeosAOQZvsftj5ZxucaX) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [TAK TAK TAK](https://open.spotify.com/album/5QWdCZD91757ow6zCrYTnr) | 1:30 | 2025-08-02 | 2026-04-14 |
 | [Take My Breath](https://open.spotify.com/track/0XvDZGVqGYM7P4rgzRnWhq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU) | 5:39 | 2022-01-08 | 2022-01-10 |
@@ -1570,7 +1572,7 @@
 | [Zamansızdık](https://open.spotify.com/track/7qrXYKwZWOMdnrxN0HKm5x) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 2:49 | 2025-06-14 |  |
 | [ZAR ZOR](https://open.spotify.com/track/3IcAfhBe6frmou4B6zC8M5) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd) | [DANS](https://open.spotify.com/album/2IoW1Qu0zuMSgzUZyUUZYC) | 3:23 | 2024-05-28 | 2024-06-14 |
 | [Zehir](https://open.spotify.com/track/1bV9ZIvvlsv68FFX5pBNk7) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf), [Pango](https://open.spotify.com/artist/1wRU9DVyKSF1BCHE0PXDuE) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 3:04 | 2025-06-14 | 2025-07-13 |
-| [Zehir \- Motive Remix](https://open.spotify.com/track/2OCqhgRAssguuVopUMfGL8) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Pango](https://open.spotify.com/artist/1wRU9DVyKSF1BCHE0PXDuE) | [manifestival \(deluxe\)](https://open.spotify.com/album/0MpedZcfZuHSMgIHacjRFL) | 3:52 | 2025-09-10 |  |
+| [Zehir \- Motive Remix](https://open.spotify.com/track/2OCqhgRAssguuVopUMfGL8) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Pango](https://open.spotify.com/artist/1wRU9DVyKSF1BCHE0PXDuE) | [manifestival \(deluxe\)](https://open.spotify.com/album/0MpedZcfZuHSMgIHacjRFL) | 3:52 | 2025-09-10 | 2026-08-09 |
 | [ZEHİRLİ GÜL](https://open.spotify.com/track/0SwRpscOdj6PBhudNVIGpW) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [OBSESIF](https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic) | 2:56 | 2024-09-14 | 2025-12-03 |
 | [Zeki Müren](https://open.spotify.com/track/4bSc4Mpi9KcN4hS88F9ByL) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Zeki Müren](https://open.spotify.com/album/3eVrMsuPjOStJExES8clDg) | 2:15 | 2022-06-11 | 2022-06-19 |
 | [Zemin](https://open.spotify.com/track/5WT3ohLdg04eUy9Bz2sRsi) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Zemin](https://open.spotify.com/album/3GhtXj3VtpblJcDThh0m49) | 2:56 | 2021-03-27\* | 2021-03-27 |

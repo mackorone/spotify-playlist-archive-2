@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,643 likes - 150 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,689 likes - 150 songs - 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 107 | [Empty Space](https://open.spotify.com/track/6YjlOZqj0Cy2JiyA8hy0jQ) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Empty Space](https://open.spotify.com/album/3Nw5LQwrewAs5dIzDkf89I) | 4:17 |
 | 108 | [Sister Species](https://open.spotify.com/track/0xi81plszmA40tDw7cefN1) | [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [Meridians](https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC) | 5:04 |
 | 109 | [Jolly Pranks](https://open.spotify.com/track/4QeUbmB2aKz1KOatrjLW1K) | [Ron Geesin](https://open.spotify.com/artist/4daGH8VML8ZuDWhWytZdGa) | [Kpm 1000 Series: Atmospheres](https://open.spotify.com/album/1WQBoxhs1nkpZLdSQrZo5u) | 2:09 |
-| 110 | [STARS](https://open.spotify.com/track/0WSIufID4rzjlJaBneODBc) | [Sunsick](https://open.spotify.com/artist/0bXf3YSy8qNsLYYNy5vs5v) | [Firstsun](https://open.spotify.com/album/0cCW4DkYaH4YHeDmnlYyKe) | 3:08 |
-| 111 | [](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 0:00 |
+| 110 | [](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 0:00 |
+| 111 | [STARS](https://open.spotify.com/track/0WSIufID4rzjlJaBneODBc) | [Sunsick](https://open.spotify.com/artist/0bXf3YSy8qNsLYYNy5vs5v) | [Firstsun](https://open.spotify.com/album/0cCW4DkYaH4YHeDmnlYyKe) | 3:08 |
 | 112 | [Nautilus](https://open.spotify.com/track/3LAB79eJTC9M6B39E6GjJx) | [Jake Slazenger](https://open.spotify.com/artist/7tDwkE4GtB5MKlmXfIEqMh) | [Das Ist Ein Groovybeat, Ja](https://open.spotify.com/album/01yJzz91YLSKPTGNO27WyS) | 6:19 |
 | 113 | [Meridians](https://open.spotify.com/track/0iJDit15B3kgxEvuSEzqK5) | [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [Meridians](https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC) | 4:43 |
 | 114 | [Z](https://open.spotify.com/track/19G1b84wBvs8AB4mpkaLQb) | [Entele](https://open.spotify.com/artist/5S4KGrV1TY9Dqi8dS5LbPo) | [Z](https://open.spotify.com/album/1V3eYXwUbFiGsdLrFp8efN) | 3:55 |
@@ -144,12 +144,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 134 | [Happy Cycling](https://open.spotify.com/track/6G4Iu30Hp9SHWQ1k2Fow7i) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 7:52 |
 | 135 | [From The Seams](https://open.spotify.com/track/1JnBldJPPq06C2OPpapjPz) | [Tristan Arp](https://open.spotify.com/artist/5PvxHyYKtHsyyI5XjdqnD9) | [Sculpturegardening](https://open.spotify.com/album/4emr9Zigmx0ZzqXF2FGEs3) | 4:17 |
 | 136 | [sol](https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Grethel Ross](https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg) | [sol](https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg) | 1:59 |
-| 137 | [The Red Line](https://open.spotify.com/track/49d3Ukzxtx0lyYCztnY1Y4) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [The Red Line](https://open.spotify.com/album/4x3TyH5d8USGNgLowZ1n9w) | 2:38 |
-| 138 | [Run](https://open.spotify.com/track/4mhrqvqLes5QzRelxP3klq) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV), [Ólavur Jákupsson](https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG) | [Run](https://open.spotify.com/album/1tWka09kn2nK24LI9pEWi6) | 5:11 |
-| 139 | [Aquarius](https://open.spotify.com/track/4ZX7QjwBqZTelll7to0d5S) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 5:58 |
-| 140 | [Kodomotachi](https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:06 |
-| 141 | [lux](https://open.spotify.com/track/6PAV1uC2gERxuqdvjzYk7Z) | [The Surrealist](https://open.spotify.com/artist/54muyMofzFuDNq0oJfI8Gy), [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM) | [lux](https://open.spotify.com/album/6xhpUQ1gT0rvATP1QMmTDs) | 3:15 |
-| 142 | [Ferrari Rocher](https://open.spotify.com/track/7KFHq7A8fDPv3vzGDWJ7Tf) | [The Golden Age of Wrestling](https://open.spotify.com/artist/1oWYlDyBHWNG3jeilUrDwp) | [Scorpion Deathlock](https://open.spotify.com/album/1t5hEdGsyJsZaYqeeuq8fF) | 2:53 |
+| 137 | [Kodomotachi](https://open.spotify.com/track/4Q15uJ0IAUhLmbfMBx4X5c) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 4:06 |
+| 138 | [lux](https://open.spotify.com/track/6PAV1uC2gERxuqdvjzYk7Z) | [The Surrealist](https://open.spotify.com/artist/54muyMofzFuDNq0oJfI8Gy), [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM) | [lux](https://open.spotify.com/album/6xhpUQ1gT0rvATP1QMmTDs) | 3:15 |
+| 139 | [Orange Romeda](https://open.spotify.com/track/6vKJnXQ3k3BodEj0XXIt9T) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [We Are Reasonable People](https://open.spotify.com/album/2llsDTPNUbOw46ruEeGThR) | 4:51 |
+| 140 | [Ferrari Rocher](https://open.spotify.com/track/7KFHq7A8fDPv3vzGDWJ7Tf) | [The Golden Age of Wrestling](https://open.spotify.com/artist/1oWYlDyBHWNG3jeilUrDwp) | [Scorpion Deathlock](https://open.spotify.com/album/1t5hEdGsyJsZaYqeeuq8fF) | 2:53 |
+| 141 | [The Red Line](https://open.spotify.com/track/49d3Ukzxtx0lyYCztnY1Y4) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [The Red Line](https://open.spotify.com/album/4x3TyH5d8USGNgLowZ1n9w) | 2:38 |
+| 142 | [Run](https://open.spotify.com/track/4mhrqvqLes5QzRelxP3klq) | [QUINQUIS](https://open.spotify.com/artist/10FKxn7w2iNuFkI0uKm9KH), [Gareth Jones](https://open.spotify.com/artist/1W9zmk9JQsQaKSpphFHkUV), [Ólavur Jákupsson](https://open.spotify.com/artist/0gfdV2BOENhfosiHzk0MCG) | [Run](https://open.spotify.com/album/1tWka09kn2nK24LI9pEWi6) | 5:11 |
 | 143 | [Thurs Jung Yout](https://open.spotify.com/track/0gG7H4snjFftZCReVrdZBj) | [Proc Fiskal](https://open.spotify.com/artist/1eFFmUlWRIvt26lnUzdduk) | [Thurs Jung Yout](https://open.spotify.com/album/00wPi6Nswwcpr7oZTcj5gQ) | 3:41 |
 | 144 | [CREEK](https://open.spotify.com/track/6UYWctsd0e6g2m9JvXzErv) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 4:53 |
 | 145 | [Head Above The Parakeets](https://open.spotify.com/track/7y8FyoBIwkxSyfpIIcXYn8) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Put Your Head Above The Parakeets](https://open.spotify.com/album/6d1CSnZChE0mkkVvRFlKVH) | 7:16 |

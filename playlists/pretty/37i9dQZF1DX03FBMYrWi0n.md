@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > L’alternatif québécois à plein volume\. Photo: Nicholas Cangiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,749 likes - 77 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,752 likes - 77 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

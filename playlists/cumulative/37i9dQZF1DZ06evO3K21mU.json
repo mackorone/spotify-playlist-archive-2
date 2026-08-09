@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Birthday Blizzard \u201826",
+        "url": "https://open.spotify.com/album/5jydEh8Ck5yNP92arzgntO"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233079,
+      "name": "99 Build Freestyle",
+      "url": "https://open.spotify.com/track/62tMGw9ce46XFOroYM0hrt"
+    },
+    {
+      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -1812,7 +1830,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 209080,
       "name": "She's Mine Pt. 1",
       "url": "https://open.spotify.com/track/0HtOJj7Kl74s1Ngf3MWeif"

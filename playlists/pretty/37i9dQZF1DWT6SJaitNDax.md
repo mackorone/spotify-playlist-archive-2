@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Cover: Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 784,178 likes - 111 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 784,402 likes - 111 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1686,7 +1686,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 244000,
       "name": "In the Ballroom",
       "url": "https://open.spotify.com/track/3JGytgIZZpiouiHn38pSXl"
@@ -1954,7 +1954,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-04",
+      "date_removed": null,
       "duration_ms": 148593,
       "name": "Kent Country Train",
       "url": "https://open.spotify.com/track/3ZfjmvEQOCYwahIfCCQGQc"
@@ -2286,7 +2286,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 161706,
       "name": "Monju-1",
       "url": "https://open.spotify.com/track/7skmHTJZz8l3xm2QgiJdXj"
@@ -3558,7 +3558,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 106068,
       "name": "Transit",
       "url": "https://open.spotify.com/track/5m5wPIfu6GDnl0xtdcJ2LB"

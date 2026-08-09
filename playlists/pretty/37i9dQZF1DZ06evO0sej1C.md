@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,102 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,104 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 35 | [Otra Oportunidad](https://open.spotify.com/track/0BXk6oUSkehJkZOv2TBzgG) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Otra Oportunidad](https://open.spotify.com/album/73fsMmzD84KtQeKzL497C3) | 3:51 |
 | 36 | [Rosas y Serpientes](https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Rosas y Serpientes](https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39) | 4:30 |
 | 37 | [Solo Tuya](https://open.spotify.com/track/2QR0qwPUXtOt5sG8pwhmAv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Solo Tuya](https://open.spotify.com/album/1DZHhHW4gI7Kt8fJYrhBCV) | 3:46 |
-| 38 | [No quiero que amanezca](https://open.spotify.com/track/1ujwLJ7na5L4zjOShTTTXD) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Pipo Ti](https://open.spotify.com/artist/5IxU70PZhE8uqCBOGHZHgJ) | [ROMA](https://open.spotify.com/album/2a41sz8sMlWxR31PGTFLyW) | 3:48 |
-| 39 | [Tequila y Miel](https://open.spotify.com/track/0tSB1fuRtQbdQbE5h1fW6M) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Tequila y Miel](https://open.spotify.com/album/3qIzssaVo8bUhfHxwbeDua) | 3:31 |
+| 38 | [Tequila y Miel](https://open.spotify.com/track/0tSB1fuRtQbdQbE5h1fW6M) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Tequila y Miel](https://open.spotify.com/album/3qIzssaVo8bUhfHxwbeDua) | 3:31 |
+| 39 | [No quiero que amanezca](https://open.spotify.com/track/1ujwLJ7na5L4zjOShTTTXD) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Pipo Ti](https://open.spotify.com/artist/5IxU70PZhE8uqCBOGHZHgJ) | [ROMA](https://open.spotify.com/album/2a41sz8sMlWxR31PGTFLyW) | 3:48 |
 | 40 | [Lo Que Quedó](https://open.spotify.com/track/1SU9MrVBKY2CZXWZP1F3BC) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Lo Que Quedó](https://open.spotify.com/album/1rSjJvh3GZ9c4xjAdS2LkN) | 3:27 |
 | 41 | [De Roll](https://open.spotify.com/track/2sdKmNpQJmgVSPoiyXcq0t) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Pato Machete](https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2) | [De Roll](https://open.spotify.com/album/6a8vWL0w3KFrSw7DqpPxSa) | 3:46 |
 | 42 | [Loudness Master 8](https://open.spotify.com/track/3Rlip4RDb7EJVqKanPOgLG) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [ElReghosg](https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3), [Neztor mvl](https://open.spotify.com/artist/2gTGdg07eySakTX6AJDrcY), [Kalako Parga Oficial](https://open.spotify.com/artist/65tKh5isRC3fRYblBAdHHt), [Carlos Luengo](https://open.spotify.com/artist/3mHjgfw3MBXjD8fuSf8s6e), [Gaby Lee](https://open.spotify.com/artist/28paf34QZFUtS4RtGtGmDi) | [Loudness Master 8](https://open.spotify.com/album/4GeANE9yjLb92A4jd1oaXx) | 4:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 49 | [Aquí Estamos](https://open.spotify.com/track/7AQGYyve2qTrEiIUitZhqy) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Aquí Estamos](https://open.spotify.com/album/3ZFGpnouTmOuER9kTaom0s) | 3:03 |
 | 50 | [Entre Mis Manos](https://open.spotify.com/track/41WuR767LDesQv7lwU8biR) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Adehese](https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi) | [Entre Mis Manos](https://open.spotify.com/album/1l2ELHhHYUZOLjunbwWRJK) | 3:40 |
 
-Snapshot ID: `anPOgAAAAADy+JMcOs4pMHKk2RSTZLrC`
+Snapshot ID: `anUgAAAAAADIN99Kt6kjYD9FPnecS7pE`

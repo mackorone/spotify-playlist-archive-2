@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 130,323 likes - 222 songs - 9 hr 35 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 130,821 likes - 223 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 126 | [Stereotype](https://open.spotify.com/track/016auAOhnOdM2ykwqEIw8v) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Stereotype](https://open.spotify.com/album/0ookwE9DzMDydriNbUiJUQ) | 2:24 |
 | 127 | [Feelin'](https://open.spotify.com/track/3kJZ09ZjKL8SQPHmMt0KN3) | [Cale](https://open.spotify.com/artist/4pE5amRArtmThtna3eGERQ) | [Feelin'](https://open.spotify.com/album/2aWBbPqYzH3ji6JGRedEya) | 2:15 |
 | 128 | [Another Day](https://open.spotify.com/track/72YjbcJ9gjTsUmOEOtVUrY) | [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT), [Maréva](https://open.spotify.com/artist/5yflQy84fSowPAeRfTseCV), [Luke James Shaffer](https://open.spotify.com/artist/5rhcXbjwP1pnyqjlNo4AoP), [Garnic](https://open.spotify.com/artist/3MgJmPTPtbAPvxiFQHxEGi) | [Another Day](https://open.spotify.com/album/3w9e5o5f2WqSwQ7pEyIVEY) | 2:25 |
-| 129 | [Butterflies](https://open.spotify.com/track/2sKb6TTgeNNsvZ5b2c12iO) | [Léne](https://open.spotify.com/artist/5DNOrvevLUcm1S9hIS4L6h), [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM) | [Butterflies](https://open.spotify.com/album/44RvOoT6C7RalZYX9aHPxy) | 2:44 |
+| 129 | [Do You Ever](https://open.spotify.com/track/1NjqQgPO0LsjKVZjFYf1tZ) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Do You Ever](https://open.spotify.com/album/2gVQetCqlkTXIYf95OzJUt) | 2:14 |
 | 130 | [Be Somebody](https://open.spotify.com/track/2tW9Ktaxm5RpesLlEK0jIP) | [ENVOL](https://open.spotify.com/artist/5h8U1AIYA23J6XR0mgNOD4) | [Be Somebody](https://open.spotify.com/album/4QT8iakj5GLx5Vzl7lQ2tp) | 2:31 |
 | 131 | [Island In The Sun](https://open.spotify.com/track/2LOB6N7o0h9Q53JS50AJWn) | [BUSTGAARD](https://open.spotify.com/artist/451tFFjAS3oTsjT1DGOp8M), [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I), [Kin Alura](https://open.spotify.com/artist/5UbieAXGfZvPmsbbvdb3Xc) | [Island In The Sun](https://open.spotify.com/album/6P2gaGZ06slaH9R41fxDiy) | 2:28 |
 | 132 | [Keep Me Close](https://open.spotify.com/track/1xUNcHDeD5yl2RpVS85q0a) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [Sickluv](https://open.spotify.com/artist/0VKlKyeBQek2wH0MTxUuWe), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Keep Me Close](https://open.spotify.com/album/442k8gJJ7jTh4uokubtnbi) | 3:17 |
@@ -173,7 +173,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 163 | [Flowers](https://open.spotify.com/track/67P8NxXLKkwdBx6LjzndgR) | [Bjarne Hendrik](https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2) | [Flowers](https://open.spotify.com/album/2I2VoGHrwQ8k8RpUzJSbyd) | 3:02 |
 | 164 | [Wasting Colors](https://open.spotify.com/track/7h45k1RvHYFzGBswoDky3c) | [Calm Springs](https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb), [Haisten](https://open.spotify.com/artist/7dd7gUFKUAa0EtdPzUroyx) | [Wasting Colors](https://open.spotify.com/album/5vnuf5b8bOcbO3f4nDd5dH) | 2:43 |
 | 165 | [Hypnotized](https://open.spotify.com/track/7HozH1ZYWBEqfJsmEvlpVm) | [Second Sun](https://open.spotify.com/artist/4ITZhADtXQl7SXvQOlMmPS), [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe) | [Hypnotized](https://open.spotify.com/album/11Sf69jXErrwRUmhD2pKmX) | 2:12 |
-| 166 | [The Unknown](https://open.spotify.com/track/6ePTPWzvKDysiFOPPFyltg) | [SHOEN](https://open.spotify.com/artist/3HV3sOGe69O8nWmv1kzgIs), [Steve Pontex](https://open.spotify.com/artist/6EgHkHqPyITQxFZHXma5vh) | [The Unknown](https://open.spotify.com/album/4v75tDnXnFX094cTrPH53i) | 3:15 |
+| 166 | [Love \(Don't Let Me Go\)](https://open.spotify.com/track/5hc56lMOxpabPSFUBPk7Mt) | [L.B\. One](https://open.spotify.com/artist/42D00VQsIgAb68LZK0zWYS) | [Love \(Don't Let Me Go\)](https://open.spotify.com/album/3T2nlYcJtwIAMH8Ky32Sta) | 2:39 |
 | 167 | [There For You](https://open.spotify.com/track/3TPYOpX9qaLUv2mVWYkhBD) | [Willow](https://open.spotify.com/artist/4YH3yvWJyMhJdmZTumulrb) | [There For You](https://open.spotify.com/album/7m7TiLJUQeSys6WE9rwcRI) | 2:54 |
 | 168 | [Gravity](https://open.spotify.com/track/6pZgmYZYLsBTKhyrUqskfC) | [The kid in blue](https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS) | [Gravity](https://open.spotify.com/album/1Fnhdr36yE2iM2liWQ5DL9) | 2:21 |
 | 169 | [comethru](https://open.spotify.com/track/4zoxk2PDfddqoXLxGHmeOS) | [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li), [Dohdo](https://open.spotify.com/artist/1mJodmcNOJqBItwNVdofvU), [Kin Alura](https://open.spotify.com/artist/5UbieAXGfZvPmsbbvdb3Xc) | [comethru](https://open.spotify.com/album/2q7Eff5Zu4nfLQ4wBOYBMS) | 2:30 |
@@ -230,5 +230,6 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 220 | [Put It On Me](https://open.spotify.com/track/0pVUmZGwePqv5u2VrzngzF) | [Lavender Shore](https://open.spotify.com/artist/2s8rz2Ode8wGoAWIUBdoSB) | [Put It On Me](https://open.spotify.com/album/35m6Fv1Xt7mwraEHGxtAsU) | 3:05 |
 | 221 | [Happiness Is So Sad](https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happiness Is So Sad](https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW) | 3:52 |
 | 222 | [Rhythm Of Your Soul](https://open.spotify.com/track/7Bh2Tzazp8kI7hPL7wAl5x) | [Calm Springs](https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb), [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX) | [Rhythm Of Your Soul](https://open.spotify.com/album/0mJh6w67LcfuW43TBdDR14) | 2:29 |
+| 223 | [Coasting](https://open.spotify.com/track/35zduYKb7Eh7ynK7RyKVix) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [De Rien](https://open.spotify.com/artist/1cXMEOMaLm3TNWP8lo4AsS) | [Coasting](https://open.spotify.com/album/0tt700HMfIwXdp1WsiSBm3) | 3:15 |
 
-Snapshot ID: `AABU7kGqqKZQC/nuuNf1mpPtMMlxIOL3`
+Snapshot ID: `AABU9pOSpszhX1hPHPVx1WTYC74xYyeH`

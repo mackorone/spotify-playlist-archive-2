@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,950 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,965 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 88 | [Malamba](https://open.spotify.com/track/0ennKDzGT6vSWpXDKP4LGY) | [Mavi Diaz &  Las Folkies](https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z) | [Malamba](https://open.spotify.com/album/5pcgasBTVmcfKnbdIXgRaP) | 2:37 |
 | 89 | [Lo Que Estalla](https://open.spotify.com/track/6bN08F3lWNE1fci3QMuZYj) | [Vero Marjbein](https://open.spotify.com/artist/6xZKJnHq8zpj0c9tCjwhGi) | [Lo Que Estalla](https://open.spotify.com/album/57sdxUSlMMQbOA2zqACToE) | 2:15 |
 | 90 | [Caminante](https://open.spotify.com/track/0Tvd59KWbv8rPMMtmZmRI2) | [Soema Montenegro](https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO) | [Caminante](https://open.spotify.com/album/1SsiLXLCEC4J4EZvapU1K0) | 3:28 |
-| 91 | [Luna De Cabotaje](https://open.spotify.com/track/5qn2JqkaXBDhDSsAxiiiON) | [Sylvia Zabzuk](https://open.spotify.com/artist/2ZJNcuNJm104OqLjD9LY3M) | [De Piedra y Agua](https://open.spotify.com/album/6BOdeQ0LrixZT3UngksPJZ) | 5:19 |
-| 92 | [Tres Cerritos](https://open.spotify.com/track/1ojVanhVcmk2OrrTZDGhQy) | [Sara Mamani](https://open.spotify.com/artist/4ZgW26OroMoXsH8Tb7nHA3) | [Trazos](https://open.spotify.com/album/53Q0VkXRSkBMMQhdAMYpeF) | 4:16 |
+| 91 | [Tres Cerritos](https://open.spotify.com/track/1ojVanhVcmk2OrrTZDGhQy) | [Sara Mamani](https://open.spotify.com/artist/4ZgW26OroMoXsH8Tb7nHA3) | [Trazos](https://open.spotify.com/album/53Q0VkXRSkBMMQhdAMYpeF) | 4:16 |
+| 92 | [Luna De Cabotaje](https://open.spotify.com/track/5qn2JqkaXBDhDSsAxiiiON) | [Sylvia Zabzuk](https://open.spotify.com/artist/2ZJNcuNJm104OqLjD9LY3M) | [De Piedra y Agua](https://open.spotify.com/album/6BOdeQ0LrixZT3UngksPJZ) | 5:19 |
 | 93 | [Ojalá te enamores](https://open.spotify.com/track/3DouRunRt5ZRorT4K1rTfI) | [Ariadna Prime](https://open.spotify.com/artist/1TVF9sJWVWR6TmGHeYUVjY) | [Noche, día y madrugada](https://open.spotify.com/album/6CunOUfNEYq1oIiUP4ImDc) | 3:13 |
 | 94 | [Espejo](https://open.spotify.com/track/1QqycFHW1tFsrgA7HQcBzn) | [Vero Marjbein](https://open.spotify.com/artist/6xZKJnHq8zpj0c9tCjwhGi) | [Espejo](https://open.spotify.com/album/07hqhMGFTYQm25XQpdEzXu) | 4:59 |
 | 95 | [Dueles](https://open.spotify.com/track/6NlpZcm4KjiPPY6AzVYHNv) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Grandes Éxitos](https://open.spotify.com/album/1dRVRm0ZCt2OVx1Tg805HU) | 4:09 |

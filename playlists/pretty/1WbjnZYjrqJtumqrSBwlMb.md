@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,280 songs - 3 day 6 hr 59 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,286 songs - 3 day 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1288,5 +1288,11 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1278 | [Speed Dealer](https://open.spotify.com/track/4FuIagU6Rfw9cIQO4cUA9V) | [Cameron Avery](https://open.spotify.com/artist/17qKi2b7CPrc03OEvQz9Tr) | [Speed Dealer](https://open.spotify.com/album/5BL6SsxWXFOlmHunSjvEky) | 5:10 |
 | 1279 | [So Long](https://open.spotify.com/track/3xun1vv9RHLZzUOBuWY8UZ) | [Cameron Avery](https://open.spotify.com/artist/17qKi2b7CPrc03OEvQz9Tr) | [Speed Dealer](https://open.spotify.com/album/5BL6SsxWXFOlmHunSjvEky) | 4:40 |
 | 1280 | [Enough Is Enough](https://open.spotify.com/track/4BKlAqMNx0YMFTuU39aKb3) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/3iE2EtiK9bWxYqhkzCgea0) | 2:46 |
+| 1281 | [Wildflower](https://open.spotify.com/track/44ZdzQCcGwjyweRELhs5qM) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv) | 3:39 |
+| 1282 | [Circles](https://open.spotify.com/track/4jXl6VtkFFKIt3ycUQc5LT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Circles](https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb) | 2:50 |
+| 1283 | [Swimming](https://open.spotify.com/track/72z7FgU5p0iJ6cXGtAZ0f3) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Swimming](https://open.spotify.com/album/1IE30kKZBn4jPRcznfLjvq) | 3:08 |
+| 1284 | [I'll Try Anything Once \("You Only Live Once" demo\) \- Heart In a Cage B\-Side](https://open.spotify.com/track/3wJpoTNAR3pURNjZV6j6VQ) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Heart In A Cage](https://open.spotify.com/album/4xlbif5abpjdwbF1QRCIHR) | 3:15 |
+| 1285 | [Look On Down From The Bridge](https://open.spotify.com/track/010ALbbh5KlQ4fKWgSdhRd) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [Among My Swan](https://open.spotify.com/album/4mhpbf7jYc0L1nBceoebIE) | 4:47 |
+| 1286 | [Graceland Too](https://open.spotify.com/track/1WCjhRs2WBgyeGaybCX2Po) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:56 |
 
-Snapshot ID: `AAAKBG31345WOy2fospO+wpDA5QScR7i`
+Snapshot ID: `AAAKClj5btDGkAqjUpozxi3u/NKhZFTq`

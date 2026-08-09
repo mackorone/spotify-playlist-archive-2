@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5Jdaphc81Z.md) - [plain]
 
 > Argy is taking over mykonos season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,779 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,918 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Murilo Huff, Matheus Fernandes
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,055,239 likes - 38 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,054,918 likes - 38 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 8 | [Calcinha de Renda \- Ao Vivo](https://open.spotify.com/track/332rqteO5O475UV5zgSKPQ) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Fora do Padrão Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/2ePhRW37XiA1Fog7YsDZB4) | 3:19 |
 | 9 | [Saudade Estranha \- Du Nada \- Ao Vivo](https://open.spotify.com/track/3LZcSnTOCRalXwMXvkZnLZ) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Saudade Estranha \- Du Nada \(Ao Vivo\)](https://open.spotify.com/album/4oSSmxah3nxooXXpHiosbY) | 2:54 |
 | 10 | [Lembrança Boa](https://open.spotify.com/track/34Kc1t0lNHHH0OYIvFCWFh) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Louca de Saudade](https://open.spotify.com/album/3F9jUoykqtz4OelTXFd2N5) | 2:13 |
-| 11 | [Quarto 67 \- Ao Vivo](https://open.spotify.com/track/22E5DzxkTROdxSmSz3kaIo) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Guilherme](https://open.spotify.com/artist/3nvjgKlhQ6FVnzHYLDtvLG), [Benuto](https://open.spotify.com/artist/5nFks3u2NaFS8BPWgEXg82) | [Quarto 67 \(Ao Vivo\)](https://open.spotify.com/album/3APhFHDM0ZOkMaM08rN3qQ) | 2:58 |
+| 11 | [Quarto 67 \- Ao Vivo](https://open.spotify.com/track/22E5DzxkTROdxSmSz3kaIo) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Quarto 67 \(Ao Vivo\)](https://open.spotify.com/album/3APhFHDM0ZOkMaM08rN3qQ) | 2:58 |
 | 12 | [Foi por Conveniência](https://open.spotify.com/track/6niGCULksHzD0NHyX3zCuB) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Foi por Conveniência](https://open.spotify.com/album/1xkOIj7siMBQZKzdFNwt0U) | 3:25 |
 | 13 | [Amnésia \- Ao Vivo](https://open.spotify.com/track/1DYbj7SoFq9VKe83d1JIZt) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Impulso \(Ao Vivo\)](https://open.spotify.com/album/7HIETAJyLMywY7JBGnlTYS) | 2:46 |
 | 14 | [Admita \- Ao Vivo](https://open.spotify.com/track/2YKc5o2kQ6e1Pch1DwpjkO) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Admita \(Ao Vivo\)](https://open.spotify.com/album/5LSlkNPGCk88r7UzXC33e2) | 2:55 |

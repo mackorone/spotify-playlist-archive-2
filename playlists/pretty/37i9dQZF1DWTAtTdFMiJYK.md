@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover: Mary Ann Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,142 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,257 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 74 | [Kehndi Hai](https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE) | [Zanai Bhosle](https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX), [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Kehndi Hai](https://open.spotify.com/album/6LwC2nt0yfSGOjE5UPghLN) | 2:29 |
 | 75 | [Mulaqaat](https://open.spotify.com/track/0ks1BVAA92yo6x447oBasd) | [Rajan Batra](https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c) | [Mulaqaat](https://open.spotify.com/album/119PjDCBDmx0VcThsZ3hLe) | 3:31 |
 
-Snapshot ID: `AAAAAJ7Yv75q4dgQhQy4hAJWX5JNQ1dZ`
+Snapshot ID: `AAAAAODumzGhTAuFDYmrAp240oKYjCb1`

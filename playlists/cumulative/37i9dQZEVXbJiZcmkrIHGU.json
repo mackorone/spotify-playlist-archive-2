@@ -4517,6 +4517,24 @@
     },
     {
       "album": {
+        "name": "44 ME",
+        "url": "https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm"
+      },
+      "artists": [
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143130,
+      "name": "ALLEIN",
+      "url": "https://open.spotify.com/track/1NdsWLtQVYABhM72vF3oit"
+    },
+    {
+      "album": {
         "name": "Gl\u00fccklich Unzufrieden",
         "url": "https://open.spotify.com/album/4v7FIDgOzJkbBfYTsn3h4b"
       },
@@ -8398,7 +8416,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -22800,7 +22818,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -41169,6 +41187,28 @@
     },
     {
       "album": {
+        "name": "Juana",
+        "url": "https://open.spotify.com/album/01jh0svzT8sxJuVxgVD1hF"
+      },
+      "artists": [
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        },
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127419,
+      "name": "Juana",
+      "url": "https://open.spotify.com/track/1KaGQY8CNpAq1YjLWOxS39"
+    },
+    {
+      "album": {
         "name": "GOVA",
         "url": "https://open.spotify.com/album/4yeuPlDecjfycHYXWlfk6v"
       },
@@ -53188,7 +53228,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 166401,
       "name": "misery.",
       "url": "https://open.spotify.com/track/6De8sirPzVyAoBDlQpcutY"
@@ -60028,7 +60068,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 284866,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
@@ -67331,6 +67371,24 @@
     },
     {
       "album": {
+        "name": "ROOF VOLLER STARS",
+        "url": "https://open.spotify.com/album/5urtVhXHdXiKCGSL2nyTwT"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183257,
+      "name": "ROOF VOLLER STARS",
+      "url": "https://open.spotify.com/track/27daTOuLKfly6Qu518HNJD"
+    },
+    {
+      "album": {
         "name": "Rookie de l'ann\u00e9e",
         "url": "https://open.spotify.com/album/7DnUxvmq4OTTlAE88P7TAq"
       },
@@ -70642,7 +70700,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 151741,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/6xupcsJHo3wW2tSVKwu4mf"
@@ -71820,6 +71878,28 @@
       "duration_ms": 204447,
       "name": "SIRENS",
       "url": "https://open.spotify.com/track/7LSpFCvRZZot2AlmkUzy9k"
+    },
+    {
+      "album": {
+        "name": "SIXPACK",
+        "url": "https://open.spotify.com/album/6jpoAhgaWeMNuLUjIXBGAw"
+      },
+      "artists": [
+        {
+          "name": "AK AUSSERKONTROLLE",
+          "url": "https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw"
+        },
+        {
+          "name": "Nizi19",
+          "url": "https://open.spotify.com/artist/2IVvZIe3P9BMuCI6h48Bjg"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138855,
+      "name": "SIXPACK",
+      "url": "https://open.spotify.com/track/2f5YQWx6uqfR9QUnLzmwTg"
     },
     {
       "album": {
@@ -78184,7 +78264,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -78820,6 +78900,24 @@
       "duration_ms": 164241,
       "name": "they don\u2019t know \u2019bout us",
       "url": "https://open.spotify.com/track/0b61A7v9agI08BG21jJPQ9"
+    },
+    {
+      "album": {
+        "name": "THIS & THAT",
+        "url": "https://open.spotify.com/album/46TYlDjLrEsOLFgxfxNiUy"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "This & That",
+      "url": "https://open.spotify.com/track/7AN7dJCtHqbL7f76QGyraa"
     },
     {
       "album": {
@@ -87210,7 +87308,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 147884,
       "name": "WER BIST DU DENN?",
       "url": "https://open.spotify.com/track/0gKGWokeCq8WkXQB66ZSTw"
@@ -89286,7 +89384,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
@@ -89304,7 +89402,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
@@ -89889,6 +89987,32 @@
     },
     {
       "album": {
+        "name": "YMM",
+        "url": "https://open.spotify.com/album/4fCN7NRYbZDp6VDUgNpYsg"
+      },
+      "artists": [
+        {
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+        },
+        {
+          "name": "Saliou",
+          "url": "https://open.spotify.com/artist/0IVTMmy722V3uUa9dqIHnY"
+        },
+        {
+          "name": "Toujour",
+          "url": "https://open.spotify.com/artist/38LdoxnKXV3OQl0hgpuZVv"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146470,
+      "name": "YMM",
+      "url": "https://open.spotify.com/track/7w4mUC2hLqH6lZ2v5jm8nD"
+    },
+    {
+      "album": {
         "name": "you broke me first",
         "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
       },
@@ -90194,6 +90318,24 @@
       "duration_ms": 148653,
       "name": "Yugo jebe dugo",
       "url": "https://open.spotify.com/track/60slX18toWLokyfTvL4Mkz"
+    },
+    {
+      "album": {
+        "name": "Yugo Sport",
+        "url": "https://open.spotify.com/album/6Tev4WYJF8UWyDbCRTSZh3"
+      },
+      "artists": [
+        {
+          "name": "Olexesh",
+          "url": "https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117796,
+      "name": "Yugo Sport",
+      "url": "https://open.spotify.com/track/6qjAzUYvZu4W2zfjluva7W"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAABisoPy0/5+K388pTPcf19E",
+  "snapshot_id": "anUgAAAAAAClUr01Sl/aOkP5LjMF3STa",
   "tracks": [
     {
       "added_at": null,
@@ -172,7 +172,7 @@
       "added_at": null,
       "album": {
         "name": "Half Life",
-        "url": "https://open.spotify.com/album/12SAJRcHa3vXsoYWD6qfhA"
+        "url": "https://open.spotify.com/album/1eWUfDObUGdJBwdXp0vT2r"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 173120,
-      "name": "Neighbourhood",
-      "url": "https://open.spotify.com/track/5vLwcysj8bfgH620ckWY3N"
+      "duration_ms": 169764,
+      "name": "Half Life",
+      "url": "https://open.spotify.com/track/07ALgj0iEgN4ut0xRoyly2"
     },
     {
       "added_at": null,
@@ -212,15 +212,15 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 198306,
-      "name": "Every Day",
-      "url": "https://open.spotify.com/track/3o8UQtesePTnARKOkjo71f"
+      "duration_ms": 195173,
+      "name": "Heavy Handed",
+      "url": "https://open.spotify.com/track/0KVdDZCYaEidgt0PY2TuBU"
     },
     {
       "added_at": null,
       "album": {
         "name": "Half Life",
-        "url": "https://open.spotify.com/album/1eWUfDObUGdJBwdXp0vT2r"
+        "url": "https://open.spotify.com/album/12SAJRcHa3vXsoYWD6qfhA"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 169764,
-      "name": "Half Life",
-      "url": "https://open.spotify.com/track/07ALgj0iEgN4ut0xRoyly2"
+      "duration_ms": 173120,
+      "name": "Neighbourhood",
+      "url": "https://open.spotify.com/track/5vLwcysj8bfgH620ckWY3N"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 195173,
-      "name": "Heavy Handed",
-      "url": "https://open.spotify.com/track/0KVdDZCYaEidgt0PY2TuBU"
+      "duration_ms": 198306,
+      "name": "Every Day",
+      "url": "https://open.spotify.com/track/3o8UQtesePTnARKOkjo71f"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 208693,
-      "name": "Animal Skin",
-      "url": "https://open.spotify.com/track/3meRt7aFNpF6oEGlVHe9K3"
+      "duration_ms": 232680,
+      "name": "Better To Forget",
+      "url": "https://open.spotify.com/track/01V86NvJiv4c8yFqCWk4U3"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 165613,
-      "name": "Smother",
-      "url": "https://open.spotify.com/track/0UyJzQAVx5FS31p4JXqddU"
+      "duration_ms": 155840,
+      "name": "Knife",
+      "url": "https://open.spotify.com/track/7nYdaV5VZvuYFCvQQBjWBN"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 232680,
-      "name": "Better To Forget",
-      "url": "https://open.spotify.com/track/01V86NvJiv4c8yFqCWk4U3"
+      "duration_ms": 208693,
+      "name": "Animal Skin",
+      "url": "https://open.spotify.com/track/3meRt7aFNpF6oEGlVHe9K3"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 155840,
-      "name": "Knife",
-      "url": "https://open.spotify.com/track/7nYdaV5VZvuYFCvQQBjWBN"
+      "duration_ms": 165613,
+      "name": "Smother",
+      "url": "https://open.spotify.com/track/0UyJzQAVx5FS31p4JXqddU"
     },
     {
       "added_at": null,

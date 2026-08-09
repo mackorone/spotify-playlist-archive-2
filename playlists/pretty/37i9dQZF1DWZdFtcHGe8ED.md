@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Megadeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,386 likes - 200 songs - 14 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,384 likes - 200 songs - 14 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -205,8 +205,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 195 | [Our Lady of Speed](https://open.spotify.com/track/6IyY9BnIAP6Dkh52TxuQ6Z) | [Bewitcher](https://open.spotify.com/artist/3uqoS4269hIwo4DzfT15Wi) | [Deep Cuts & Shallow Graves](https://open.spotify.com/album/3US4p7WnEXUyu6Yk2rJHmS) | 3:50 |
 | 196 | [Mochado](https://open.spotify.com/track/40LeUqlvSejNaIFfDMscmA) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Mochado](https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ) | 2:55 |
 | 197 | [Friendly Fire](https://open.spotify.com/track/0k2A0pdiTyiGoO60sRU1Zp) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Friendly Fire](https://open.spotify.com/album/3ee6hHayuMEKTFgx561n7R) | 3:36 |
-| 198 | [I DON'T CARE](https://open.spotify.com/track/7HrJJfe4Aey9LaTUCE9mU8) | [Rebellix](https://open.spotify.com/artist/14vv7UPCgmn92Dw72ZJi5O) | [I DON'T CARE](https://open.spotify.com/album/6hqGICaMW5DYamLbFJKV6B) | 3:13 |
-| 199 | [In Thrash We Trust](https://open.spotify.com/track/7pqsRGZ99q4Cl6uI9TmlJ2) | [Artillery](https://open.spotify.com/artist/6N62Sla6F2uuEzNALo6720) | [In Thrash We Trust](https://open.spotify.com/album/2lnSedpTsd2fw33TmgDUQU) | 4:09 |
+| 198 | [In Thrash We Trust](https://open.spotify.com/track/7pqsRGZ99q4Cl6uI9TmlJ2) | [Artillery](https://open.spotify.com/artist/6N62Sla6F2uuEzNALo6720) | [In Thrash We Trust](https://open.spotify.com/album/2lnSedpTsd2fw33TmgDUQU) | 4:09 |
+| 199 | [I DON'T CARE](https://open.spotify.com/track/7HrJJfe4Aey9LaTUCE9mU8) | [Rebellix](https://open.spotify.com/artist/14vv7UPCgmn92Dw72ZJi5O) | [I DON'T CARE](https://open.spotify.com/album/6hqGICaMW5DYamLbFJKV6B) | 3:13 |
 | 200 | [Bleed Them Dry](https://open.spotify.com/track/4sf35u9nKrEGQL7lqORuQJ) | [Morbid Saint](https://open.spotify.com/artist/4jcj3BdKlh7LFhByepe02p) | [Swallowed by Hell](https://open.spotify.com/album/0pK6hmgfrQiEeRDHKkDQG2) | 5:23 |
 
 Snapshot ID: `AAAAAFdAjOles13HL+9FHUkS7JUNnDkT`

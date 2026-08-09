@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,367 songs - 3 day 7 hr 25 min
+1,370 songs - 3 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Boiling Hot](https://open.spotify.com/track/5iNqv4rUHi27ud7mxsuOJi) | [Mischa Plus](https://open.spotify.com/artist/7JS3DVlq1iHThu4k2OcmNh) | [Boiling Hot](https://open.spotify.com/album/3MruevULXHS23YScLZkUHE) | 3:13 | 2026-07-13 |  |
 | [Boldly Piano Remake](https://open.spotify.com/track/2vrDMBBmTFGxhjGGktCv30) | [eKbeats](https://open.spotify.com/artist/1gpShRgOkgvzSV822BqQ50), [Eastman](https://open.spotify.com/artist/6sVZtMLp71Ky4TFGdz97yZ) | [Boldly Piano Remake](https://open.spotify.com/album/3L6SigtNYKcjDl2dyckOrv) | 2:19 | 2026-07-29 |  |
 | [Boltneck](https://open.spotify.com/track/6igTRenZofbW7sR9zElLja) | [The Trespassers](https://open.spotify.com/artist/4uLDuEBgtKBoOjCjBYMrtF) | [Boltneck](https://open.spotify.com/album/2GZSgTWpVYLXapQsOfjgYZ) | 4:20 | 2025-12-16 | 2026-01-15 |
+| [Bomboclat](https://open.spotify.com/track/7iJykwxcRyzWcJazK3hyrU) | [LUVVY BLAZE](https://open.spotify.com/artist/15PHS0SuounNY9wPmSxxe4) | [Bomboclat](https://open.spotify.com/album/7C8g2GrGqJtmTv4wMLYaRY) | 2:38 | 2026-08-08 |  |
 | [Book Of The Year](https://open.spotify.com/track/3LWoSvKMSDb8u9fCe9AUk2) | [Cardinal Verlengo](https://open.spotify.com/artist/7qTS4fsJD0uBmFW0H7cdh1) | [Book Of The Year](https://open.spotify.com/album/5I0bWkG5rFppcyHwWKjwvu) | 3:01 | 2026-07-22 |  |
 | [BORN OF LOVE](https://open.spotify.com/track/5JEBbEpMBo1ndQdtMD9RhL) | [Crazy Trottles](https://open.spotify.com/artist/6N3TSJcbEEqiHeiv6qqFxz) | [BORN OF LOVE](https://open.spotify.com/album/4iqBnm4G4xEOz4YSDSOJEQ) | 2:28 | 2026-08-01 |  |
 | [Bossa](https://open.spotify.com/track/4YqjBKMp0QekJsGedjTNUI) | [J.T](https://open.spotify.com/artist/3x5QUokzTmSvhQxAkTGong) | [Take 1](https://open.spotify.com/album/4EnaDPAzy3jeEzx0L8Fgi2) | 2:57 | 2026-01-14 | 2026-02-20 |
@@ -576,6 +577,7 @@
 | [Just A Good Time 80s Jam](https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Just A Good Time 80s Jam](https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq) | 2:34 | 2026-01-01 | 2026-02-03 |
 | [Just Another Cliché](https://open.spotify.com/track/435l6Hs0Bckdc8mlQLLqDI) | [Frans Jansenn](https://open.spotify.com/artist/4kCFzQFXYADvVKwcvvXWV2) | [1961](https://open.spotify.com/album/5tqOMHrYpkTYarpfJDD4Ok) | 3:46 | 2026-01-14 | 2026-02-20 |
 | [Just Fine](https://open.spotify.com/track/3JLT6C7CoyxBhXKX2nZJWk) | [Evrod Cassimy](https://open.spotify.com/artist/79fiDRFteZu6dW75vx7ol5) | [Mister Cassimy](https://open.spotify.com/album/3QurtUCxNdwv5fbAVzTrFW) | 2:54 | 2026-01-04 | 2026-02-03 |
+| [Just Human](https://open.spotify.com/track/1ph19dy5HOqRQU0QOVOPal) | [Modjo Atmodjo](https://open.spotify.com/artist/28QDPpgHwt46auRYwz9679) | [Just Human](https://open.spotify.com/album/4CfKQUWU0oSfBey94KBYHt) | 3:46 | 2026-08-08 |  |
 | [Kabungah \(Happiness\)](https://open.spotify.com/track/0VsPnsXdo8mMDDUgIYYZFb) | [Nirvan Channel](https://open.spotify.com/artist/5CrcSowv9jp8dX1WCmoB5x) | [Kabungah \(Happiness\)](https://open.spotify.com/album/5xHDhkusrljpHJVwZMjp5X) | 4:09 | 2026-05-25 | 2026-07-03 |
 | [Kali Was Right About You](https://open.spotify.com/track/3U5JmWFAPrhnQeslCwHby5) | [Grae Taylor](https://open.spotify.com/artist/5CNQyudyZMr34ru2t7MlFf) | [Kali Was Right About You](https://open.spotify.com/album/623mi3Iwh3GVVimTgSEbGF) | 3:38 | 2025-12-22 | 2026-01-24 |
 | [Kavanagh](https://open.spotify.com/track/2mxMn8pXBqlkAAQEXbFIgx) | [Alejandro Fernandez Lecce](https://open.spotify.com/artist/5gaUw9fLlbZiMuLE00w8re) | [Buenos Aires Lounge Deluxe Vol\. 1](https://open.spotify.com/album/66LHz8fhFosaTNeBl8A02G) | 3:19 | 2024-09-19 | 2025-12-21 |
@@ -1199,6 +1201,7 @@
 | [Tiempos malos](https://open.spotify.com/track/58Ew7nIxymuVUtR8hWFQVk) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Mal Presagio](https://open.spotify.com/album/0IhrnjkKKD2Gf9u87acMLR) | 2:20 | 2025-12-09 | 2026-01-05 |
 | [Time, a Precious Thing](https://open.spotify.com/track/3gO58ZltrU855Iy1LqJm71) | [Juan El Grande](https://open.spotify.com/artist/1EKGn7PcgUA19OXlhZ7xgS) | [Wide Open](https://open.spotify.com/album/0pWpys0WNsG2CMAbn83RdF) | 3:50 | 2026-04-13 | 2026-05-14 |
 | [Tita](https://open.spotify.com/track/3szBoeI0YAihQVqTI70Dgz) | [Last Song Bea](https://open.spotify.com/artist/4EMwMsHZTGFZSE4Mxl3dhV) | [Tita](https://open.spotify.com/album/27TYK7VqoPwcGZFhU880y7) | 5:08 | 2026-05-19 | 2026-07-03 |
+| [Together Forever](https://open.spotify.com/track/52iZ8XgcPT09O8zs4KZz48) | [Distortion Peak](https://open.spotify.com/artist/7f6wI2Pt4JIYxcvjwyfCix) | [Together Forever](https://open.spotify.com/album/6rRWrGfD2j9MsJIIYwlRCR) | 2:45 | 2026-08-08 |  |
 | [Told You](https://open.spotify.com/track/6pZsGdDiSmd3LprU64nkJZ) | [Tanner Boyle](https://open.spotify.com/artist/0z56LGlbYts7mFcxurWIbt) | [Told You](https://open.spotify.com/album/3dhWJaOEj6IPGewYz7x46O) | 3:23 | 2026-04-21 | 2026-06-05 |
 | [Tomando lo que me hace bien](https://open.spotify.com/track/5liTgR5jBraxJwnBdY9uy8) | [Orlando Vitale](https://open.spotify.com/artist/2CQ4n8I7rMZiujKRFlQqZa) | [Tomando lo que me hace bien](https://open.spotify.com/album/4242ndADN3vGSm0Yw1EqHf) | 5:05 | 2026-04-24 | 2026-06-05 |
 | [tomorrow I'll try](https://open.spotify.com/track/4MoKm1Ze37SlGoNy9YrCls) | [Sweetshirt](https://open.spotify.com/artist/7uNgpGi95W3yBlDs2kB6cI) | [tomorrow I'll try](https://open.spotify.com/album/30HI6lQJkora43ky42u5mX) | 2:35 | 2026-05-28 | 2026-07-03 |

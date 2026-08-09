@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-555 songs - 1 day 7 hr 30 min
+556 songs - 1 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Espaço Nave](https://open.spotify.com/track/2Ypv5BYy1j8sE2NZzQrnHn) | [ZTREEX™](https://open.spotify.com/artist/5SiZ0DVf11mAwQOcilRnce) | [Espaço Nave](https://open.spotify.com/album/25dbUSbSEBAeSINVVl1PdA) | 3:10 | 2025-11-17 | 2026-01-05 |
 | [Espressione d'algebra](https://open.spotify.com/track/0FGJZRLxvynpWFhhMzia7W) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY), [Radice Cubica](https://open.spotify.com/artist/1EPX2ajmQSw5TIbAdp8GFl) | [Espressione d'algebra](https://open.spotify.com/album/5VdsafQTceOkatMfr6lm0G) | 2:18 | 2026-07-21 |  |
 | [Eternal Rest](https://open.spotify.com/track/0CvstCW3erF8eWPYlNxg2i) | [Saint Petrus](https://open.spotify.com/artist/6JmOrTTiKwoznKQlZ8gNFh) | [Eternal Rest](https://open.spotify.com/album/0GrNoVykYtQeOBFI14FkJa) | 3:10 | 2025-11-10 | 2025-12-01 |
+| [Everyday Grind](https://open.spotify.com/track/5PvQKRMTzW4k0gEBzzuRdH) | [Mr Boswell Thomas](https://open.spotify.com/artist/2SQtBpZsYVYPybYXQQ1xQo), [Declaime](https://open.spotify.com/artist/0IWhrIU65vvKiggTlWKDZw), [Dudley Perkins](https://open.spotify.com/artist/08xLtQbGdIZfVfk6QTgYIW) | [Everyday Grind](https://open.spotify.com/album/4srqXN0EkNZEvnBkIDSlrK) | 2:46 | 2026-08-08 |  |
 | [Exurbia](https://open.spotify.com/track/709623tJrfsBIS0EYzRf4a) | [Gianna Sanzen](https://open.spotify.com/artist/0dOmfZPNH7WYPXVtUGG58d) | [Exurbia](https://open.spotify.com/album/35nM4mGD7u3f89almFVhxv) | 3:45 | 2025-11-17 | 2026-01-05 |
 | [Fading Inbetween](https://open.spotify.com/track/2gDwnYkg9beSsnTuLcOALl) | [Velour](https://open.spotify.com/artist/2gnFFtzPgBpwBepDNSPZO7) | [Hidden Fears EP](https://open.spotify.com/album/09ppLzddbk0ZuEB6rfDYsd) | 3:23 | 2025-11-01 | 2025-12-01 |
 | [Faith](https://open.spotify.com/track/5rxxCShjsfENHyTEFxm2LX) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Lifelike Figures](https://open.spotify.com/album/2eRVXNj2T29DPJqFsB7A7H) | 4:57 | 2026-01-24 | 2026-02-21 |

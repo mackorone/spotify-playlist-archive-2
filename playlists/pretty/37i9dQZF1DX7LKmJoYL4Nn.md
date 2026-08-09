@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,176 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,179 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 | 68 | [パラダイム・リバーシ! \- Game Edit](https://open.spotify.com/track/7cYaHEeUt6Kdk1W7rLeah2) | [Puffy☆Bunny/日々樹 渉\(CV.江口 拓也\)、葵 ひなた\(CV.斉藤 壮馬\)、仙石 忍\(CV.新田 杏樹\)、天城 一彩\(CV.梶原 岳人\)、影片 みか\(CV.大須賀 純\)](https://open.spotify.com/artist/7sjszWcNjZM6sAKH3PRfyn) | [あんさんぶるスターズ！！ Puffy☆Bunny「パラダイム・リバーシ! 」 \(Game Edit\)](https://open.spotify.com/album/7xbBxtVFkI3g9PKY1WwFLP) | 2:14 |
 | 69 | [ALTA MODA \-アルタ・モーダ\-](https://open.spotify.com/track/29c5z1PTpP8LWWBIVEggiT) | [瀬名 泉\(CV.伊藤 マサミ\)](https://open.spotify.com/artist/6SnZppEs1Cpthc4gNQKEHv) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Knights](https://open.spotify.com/album/3qcoVnc807jEOc4SJJqYHP) | 3:14 |
 | 70 | [聖少年遊戯](https://open.spotify.com/track/4iiMii9sMiAJSqxCeU4NsY) | [Valkyrie/斎宮 宗\(CV.高橋広樹\)、影片みか\(CV.大須賀 純\)、仁兎なずな\(CV.米内佑希\)](https://open.spotify.com/artist/4HzGqYlLXDoEFKbsQWEoPR) | [あんさんぶるスターズ！アルバムシリーズ Valkyrie](https://open.spotify.com/album/12klK02DpZrlngD2fG9Joa) | 4:08 |
-| 71 | [Melody in the Dark](https://open.spotify.com/track/31lx7Gh3CIcdAGT8oVcb7L) | [UNDEAD/朔間零\(CV.増田俊樹\)、羽風薫\(CV.細貝圭\)、大神晃牙\(CV.小野友樹\)、乙狩アドニス\(CV.羽多野渉\)](https://open.spotify.com/artist/018xyFp4b4AbcZE9Zp13DP) | [あんさんぶるスターズ！ アルバムシリーズ UNDEAD](https://open.spotify.com/album/43lqUwR27wqSsy84ZFoySR) | 4:29 |
+| 71 | [Believe 4 leaves](https://open.spotify.com/track/7af3Y6VWFzceOzaR4HHIgf) | [ALKALOID/天城 一彩\(CV.梶原 岳人\)、白鳥 藍良\(CV.天﨑 滉平\)、礼瀬 マヨイ\(CV.重松 千晴\)、風早 巽\(CV.中澤 まさとも\)](https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv) | [ALKALOID「Believe 4 leaves」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/7aQDesep26GWfrEGjKrN1m) | 3:00 |
 | 72 | [Dance in the Apocalypse](https://open.spotify.com/track/4ao9YSHAFBAZf4qtH9klK9) | [Eden/乱 凪砂\(CV.諏訪部順一\)、巴 日和\(CV.花江夏樹\)、七種 茨\(CV.逢坂良太\)、漣 ジュン\(CV.内田雄馬\)](https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK) | [あんさんぶるスターズ！アルバムシリーズ Eden](https://open.spotify.com/album/41p5yD65w3ZFWb60JuXqAC) | 4:58 |
-| 73 | [Believe 4 leaves](https://open.spotify.com/track/7af3Y6VWFzceOzaR4HHIgf) | [ALKALOID/天城 一彩\(CV.梶原 岳人\)、白鳥 藍良\(CV.天﨑 滉平\)、礼瀬 マヨイ\(CV.重松 千晴\)、風早 巽\(CV.中澤 まさとも\)](https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv) | [ALKALOID「Believe 4 leaves」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/7aQDesep26GWfrEGjKrN1m) | 3:00 |
-| 74 | [Noir Neige](https://open.spotify.com/track/1vbPlABBS2aegeAEI5X68e) | [La Mort/朔間 零\(CV.増田 俊樹\)、朔間 凛月\(CV.山下 大輝\)、桜河 こはく\(CV.海渡 翼\)、乱 凪砂\(CV.諏訪部 順一\)、礼瀬 マヨイ\(CV.重松 千晴\)](https://open.spotify.com/artist/5xqD2ghxWZj83s7a5o74UF) | [あんさんぶるスターズ！！ シャッフルユニットソング コレクション \(vol.02\)](https://open.spotify.com/album/4nBfk9YeeWQpCBJl83GU2k) | 3:07 |
+| 73 | [Noir Neige](https://open.spotify.com/track/1vbPlABBS2aegeAEI5X68e) | [La Mort/朔間 零\(CV.増田 俊樹\)、朔間 凛月\(CV.山下 大輝\)、桜河 こはく\(CV.海渡 翼\)、乱 凪砂\(CV.諏訪部 順一\)、礼瀬 マヨイ\(CV.重松 千晴\)](https://open.spotify.com/artist/5xqD2ghxWZj83s7a5o74UF) | [あんさんぶるスターズ！！ シャッフルユニットソング コレクション \(vol.02\)](https://open.spotify.com/album/4nBfk9YeeWQpCBJl83GU2k) | 3:07 |
+| 74 | [Melody in the Dark](https://open.spotify.com/track/31lx7Gh3CIcdAGT8oVcb7L) | [UNDEAD/朔間零\(CV.増田俊樹\)、羽風薫\(CV.細貝圭\)、大神晃牙\(CV.小野友樹\)、乙狩アドニス\(CV.羽多野渉\)](https://open.spotify.com/artist/018xyFp4b4AbcZE9Zp13DP) | [あんさんぶるスターズ！ アルバムシリーズ UNDEAD](https://open.spotify.com/album/43lqUwR27wqSsy84ZFoySR) | 4:29 |
 | 75 | [Feather Heartache](https://open.spotify.com/track/5EhbB2JE14rfPZmrBOMF3H) | [羽風薫\(CV.細貝圭\)](https://open.spotify.com/artist/1NGLXc2R8LmIwSxahZatzy) | [あんさんぶるスターズ！ アルバムシリーズ UNDEAD](https://open.spotify.com/album/43lqUwR27wqSsy84ZFoySR) | 4:23 |
 
 Snapshot ID: `AAAAAKIq77kuEPbsw11JgeF72vDtuw6r`

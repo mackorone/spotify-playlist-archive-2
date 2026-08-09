@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > One night only\. Cover: Ink Waruntorn, SERIOUS BACON
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,651 likes - 30 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,644 likes - 30 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 | 29 | [ดีใจด้วยนะ](https://open.spotify.com/track/4NThLQDTayuRMmulVLAX8T) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [INK](https://open.spotify.com/album/0JNJWgPz8qDH61v2dgWsyI) | 4:39 |
 | 30 | [สายตาหลอกกันไม่ได้](https://open.spotify.com/track/6VLp0TwZt3N7NNmaKJIVos) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [INK](https://open.spotify.com/album/0JNJWgPz8qDH61v2dgWsyI) | 3:08 |
 
-Snapshot ID: `AAAAANvlOhJtj5r/syTfu2H8wnCQ0n/K`
+Snapshot ID: `AAAAAMP3ItHWXvme6rMkqWuIicLLu/Zw`

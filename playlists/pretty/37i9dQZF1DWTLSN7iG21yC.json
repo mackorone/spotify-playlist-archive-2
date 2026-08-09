@@ -1,6 +1,6 @@
 {
   "description": "Clock in from the comfort of your own home and let the music carry you through the day.",
-  "num_followers": 825628,
+  "num_followers": 825555,
   "original_name": "Work From Home",
   "owner": {
     "name": "Spotify",
@@ -2003,26 +2003,6 @@
     {
       "added_at": "2025-08-08 04:00:40",
       "album": {
-        "name": "Never A Good Time",
-        "url": "https://open.spotify.com/album/0QlfV5dcIdMnywIB5qyNRG"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 167232,
-      "name": "Never A Good Time",
-      "url": "https://open.spotify.com/track/1ZxxfkeHKl0YKcPjKzeS4c"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
         "name": "Plus & Minus",
         "url": "https://open.spotify.com/album/0DUmnbozJygIO0DNx0aN3s"
       },
@@ -2039,6 +2019,26 @@
       "duration_ms": 188264,
       "name": "Plus & Minus",
       "url": "https://open.spotify.com/track/6K7TDfj9Ne1FMIsKH3pUFF"
+    },
+    {
+      "added_at": "2025-08-08 04:00:40",
+      "album": {
+        "name": "Never A Good Time",
+        "url": "https://open.spotify.com/album/0QlfV5dcIdMnywIB5qyNRG"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "duration_ms": 167232,
+      "name": "Never A Good Time",
+      "url": "https://open.spotify.com/track/1ZxxfkeHKl0YKcPjKzeS4c"
     },
     {
       "added_at": "2025-08-08 04:00:40",

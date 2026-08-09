@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > estatística não esconde lírica comum // Rincon Sapiência
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,126,853 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,126,707 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Segunda Chance](https://open.spotify.com/track/4pMuVA8t24Gnbu95a11thE) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [LeodoKick](https://open.spotify.com/artist/1WZNkLRhjvZKzZlSKL7FxX), [H4lfmeasures](https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd) | [Segunda Chance](https://open.spotify.com/album/0uDDj3QQ7ziTjKTzwW5kuc) | 2:44 |
 | 50 | [NOITES TRAIÇOEIRAS](https://open.spotify.com/track/5FuRslm40ttLrTJSP8EgUI) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP), [Mahai](https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy) | [Você Precisa do Álibi](https://open.spotify.com/album/4530wDuVkqhhnJsGma5qKX) | 2:45 |
 
-Snapshot ID: `AAAAAL/DbqYBG9BOe7WKh0rJHbnu/Chp`
+Snapshot ID: `AAAAAAtNty1f2XPJQiRr50QkzYtnLty0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Stella Lefty
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,355,142 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,354,820 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 45 | [Satisfaction](https://open.spotify.com/track/6k5DKQMC96daK6fSvAxdQv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Satisfaction](https://open.spotify.com/album/62hlQlBO241sKpVTPgwAOi) | 2:35 |
 | 46 | [Fortnight \(feat\. Post Malone\) \- BLOND:ISH Remix](https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Fortnight \(feat\. Post Malone\) \[BLOND:ISH Remix\]](https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu) | 3:36 |
 | 47 | [Bittersweet Goodbye \- Tiësto’s Hardcore Remix](https://open.spotify.com/track/4UWDgSvethiugRKFdbaiik) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Bittersweet Goodbye \(Tiësto’s Hardcore Remix\)](https://open.spotify.com/album/3PELjYBsaayCNLTWJARJ4P) | 2:38 |
-| 48 | [Dai Dai \- Clean Bandit Remix](https://open.spotify.com/track/6fA1rWHTpUfprPJzsBKZZr) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/7lbnCc3sLLeQXso4Jn3kvc) | 3:01 |
+| 48 | [Dai Dai \- Clean Bandit Remix](https://open.spotify.com/track/6fA1rWHTpUfprPJzsBKZZr) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [Dai Dai](https://open.spotify.com/album/7lbnCc3sLLeQXso4Jn3kvc) | 3:01 |
 | 49 | [I Just Might \- Austin Millz Remix](https://open.spotify.com/track/3NFyvuSE0PnDoXgpjBEAyh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [I Just Might \(Austin Millz Remix\)](https://open.spotify.com/album/0Nskh9VqoqUMDvyEPyuyJR) | 3:16 |
 | 50 | [Hide Away \- Alan Walker Remix](https://open.spotify.com/track/2hTlaUQWoevROx9V9oYt7f) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Hide Away \(Alan Walker Remix\)](https://open.spotify.com/album/2nJlv1pIys7dtM2vhiUL2N) | 2:17 |
 | 51 | [About Damn Time \- Purple Disco Machine Remix](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [About Damn Time \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6) | 3:38 |

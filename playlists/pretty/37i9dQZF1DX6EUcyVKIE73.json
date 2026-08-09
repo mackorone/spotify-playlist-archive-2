@@ -1,6 +1,6 @@
 {
   "description": "Selections of North Indian classical music.",
-  "num_followers": 92050,
+  "num_followers": 92061,
   "original_name": "Hindustani Classical",
   "owner": {
     "name": "Spotify",
@@ -731,18 +731,22 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Lifestory of a Legend",
-        "url": "https://open.spotify.com/album/4Fk777rcuGlOspuSEdGkSh"
+        "name": "Natyasangeet",
+        "url": "https://open.spotify.com/album/6XI48xvEXJZ4djjqhmKWnj"
       },
       "artists": [
         {
           "name": "Pandit Bhimsen Joshi",
           "url": "https://open.spotify.com/artist/5MHTQcUQIhxhZdB6Glwmmk"
+        },
+        {
+          "name": "Purushottam Walawalkar",
+          "url": "https://open.spotify.com/artist/7C5NA726B5bcUP5N4NHtZQ"
         }
       ],
-      "duration_ms": 1937347,
-      "name": "Raga Jog",
-      "url": "https://open.spotify.com/track/3NPx1Llm6Ys8lK77BzcLeI"
+      "duration_ms": 813666,
+      "name": "Sur Sukh Khani, Natyageet",
+      "url": "https://open.spotify.com/track/1GSYhLtmtU1hKqfk0GYf1U"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -823,22 +827,18 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Natyasangeet",
-        "url": "https://open.spotify.com/album/6XI48xvEXJZ4djjqhmKWnj"
+        "name": "Lifestory of a Legend",
+        "url": "https://open.spotify.com/album/4Fk777rcuGlOspuSEdGkSh"
       },
       "artists": [
         {
           "name": "Pandit Bhimsen Joshi",
           "url": "https://open.spotify.com/artist/5MHTQcUQIhxhZdB6Glwmmk"
-        },
-        {
-          "name": "Purushottam Walawalkar",
-          "url": "https://open.spotify.com/artist/7C5NA726B5bcUP5N4NHtZQ"
         }
       ],
-      "duration_ms": 813666,
-      "name": "Sur Sukh Khani, Natyageet",
-      "url": "https://open.spotify.com/track/1GSYhLtmtU1hKqfk0GYf1U"
+      "duration_ms": 1937347,
+      "name": "Raga Jog",
+      "url": "https://open.spotify.com/track/3NPx1Llm6Ys8lK77BzcLeI"
     },
     {
       "added_at": "2026-07-29 09:24:36",

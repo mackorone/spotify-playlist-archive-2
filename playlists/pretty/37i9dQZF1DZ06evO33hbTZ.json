@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAADTpQd5659l4K+LsC+4tXCq",
+  "snapshot_id": "anUgAAAAAAB1coKGWk7mi6QR46HBI/CJ",
   "tracks": [
     {
       "added_at": null,
@@ -83,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Has Done",
-        "url": "https://open.spotify.com/album/1ziaEKFSpubNis50aiMcrg"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 179817,
-      "name": "God Has Done",
-      "url": "https://open.spotify.com/track/3k3Ax0x2M9OJGLOEtix5YB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Psalm 8",
         "url": "https://open.spotify.com/album/6bofpfSpiFNcdUC8TS8534"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 199250,
       "name": "Psalm 8",
       "url": "https://open.spotify.com/track/1lXslR0zZxDkdEK9uWaJQc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God Has Done",
+        "url": "https://open.spotify.com/album/1ziaEKFSpubNis50aiMcrg"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 179817,
+      "name": "God Has Done",
+      "url": "https://open.spotify.com/track/3k3Ax0x2M9OJGLOEtix5YB"
     },
     {
       "added_at": null,
@@ -239,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Not Moved",
+        "url": "https://open.spotify.com/album/04gvFEpR8FICwnjxuf7B4Z"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 280403,
+      "name": "Not Moved",
+      "url": "https://open.spotify.com/track/13j5QYsM8B4s8K5l1vTIKI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Subscribed (Live)",
         "url": "https://open.spotify.com/album/7wUZqwtHb0JwuZytdKrrQE"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 198518,
       "name": "Subscribed - Live",
       "url": "https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Not Moved",
-        "url": "https://open.spotify.com/album/04gvFEpR8FICwnjxuf7B4Z"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 280403,
-      "name": "Not Moved",
-      "url": "https://open.spotify.com/track/13j5QYsM8B4s8K5l1vTIKI"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Urhobo/Isoko Worship Medley",
-        "url": "https://open.spotify.com/album/2zt8IYtst7tlmKowEtf9uY"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 363781,
-      "name": "Urhobo/Isoko Worship Medley",
-      "url": "https://open.spotify.com/track/5f8gZfxdVnY8PEQQj0OisD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Calm",
         "url": "https://open.spotify.com/album/2o5zh0Zz3MOgeeehAW7NVw"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 195124,
       "name": "Calm",
       "url": "https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Urhobo/Isoko Worship Medley",
+        "url": "https://open.spotify.com/album/2zt8IYtst7tlmKowEtf9uY"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 363781,
+      "name": "Urhobo/Isoko Worship Medley",
+      "url": "https://open.spotify.com/track/5f8gZfxdVnY8PEQQj0OisD"
     },
     {
       "added_at": null,
@@ -582,15 +582,11 @@
         {
           "name": "Victor Thompson",
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Greatman Takit",
-          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Uwese",
-      "url": "https://open.spotify.com/track/2Qsf7cbzB82dFjrUkuXZFA"
+      "duration_ms": 190500,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/4zKGsQ2ryuPyP4yNIQDRB6"
     },
     {
       "added_at": null,
@@ -631,38 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
-        "url": "https://open.spotify.com/album/0Ps1VCtgbPKz7k2w7T9B2q"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 2509230,
-      "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
-      "url": "https://open.spotify.com/track/4QCQwMqwtiq1ev7aabM8PL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/4zKGsQ2ryuPyP4yNIQDRB6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You are Lifted (Spontaneous Worship)",
         "url": "https://open.spotify.com/album/3GL93N3e9sBtznX6BIHzng"
       },
@@ -675,6 +639,42 @@
       "duration_ms": 2461616,
       "name": "You are Lifted (Spontaneous Worship)",
       "url": "https://open.spotify.com/track/4O9kmanzq6i11XhGOyNXfN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Uwese",
+      "url": "https://open.spotify.com/track/2Qsf7cbzB82dFjrUkuXZFA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
+        "url": "https://open.spotify.com/album/0Ps1VCtgbPKz7k2w7T9B2q"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 2509230,
+      "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
+      "url": "https://open.spotify.com/track/4QCQwMqwtiq1ev7aabM8PL"
     },
     {
       "added_at": null,

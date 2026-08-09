@@ -4,7 +4,7 @@
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-111 songs - 8 hr 18 min
+112 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Give Thanks To God](https://open.spotify.com/track/4Ox0ZgzigtRmNipYiZrY9h) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Give Thanks To God](https://open.spotify.com/album/4sp4pvAi81nztpcuPWNa3g) | 3:34 | 2024-09-23 |  |
 | [Go Tell It \(Gloria\)](https://open.spotify.com/track/3rBe2uBbzPxN1ldJpe2RAM) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [The Choir Room](https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK) | [Go Tell It \(Gloria\)](https://open.spotify.com/album/0zyVJyBQiTJ5XEiRJMThbJ) | 3:19 | 2023-12-13 | 2026-03-13 |
 | [God, Turn It Around \(feat\. Matt Maher\) \- Live Version](https://open.spotify.com/track/3h6jF4dFCELdphlOk0wlFc) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [God, Turn It Around](https://open.spotify.com/album/7MUAMw8GcvLQmtDZ6mADWU) | 4:40 | 2024-08-03 |  |
-| [Gonna Be Alright](https://open.spotify.com/track/34o0jKHmE2oIGbPwv5BmF7) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Gonna Be Alright](https://open.spotify.com/album/20K7rSCSVzGYAD5CfakY18) | 3:50 | 2026-05-03 |  |
+| [Gonna Be Alright](https://open.spotify.com/track/34o0jKHmE2oIGbPwv5BmF7) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Gonna Be Alright](https://open.spotify.com/album/20K7rSCSVzGYAD5CfakY18) | 3:50 | 2026-05-03 | 2026-08-09 |
+| [Gonna Be Alright \(Todo Estará Bien\)](https://open.spotify.com/track/65EukCTNmdBVGJaB8Oz5Jr) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Simon Dumas](https://open.spotify.com/artist/217ig6NvB8SVOuz4eXAChJ) | [Gonna Be Alright \(Todo Estará Bien\)](https://open.spotify.com/album/5AzfsjFlTlOWe79xTIGjYS) | 3:48 | 2026-08-09 |  |
 | [Hallelujah Anyway](https://open.spotify.com/track/3Cp0A3E8eC9NYJkRdA9Pg9) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Hallelujah Anyway](https://open.spotify.com/album/1sndI5DfQfIDCxOG7vBIwy) | 3:45 | 2023-12-13 |  |
 | [Hallelujah, You Are Good \(feat\. Matt Maher\)](https://open.spotify.com/track/3XenID3zL7KUMTgBhNp9Iz) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Worship And Believe \(Deluxe Edition\)](https://open.spotify.com/album/2x3pEnvjOnFfn6er1yGlf4) | 3:30 | 2022-09-14 | 2025-07-21 |
 | [Hold Us Together](https://open.spotify.com/track/7IPldKTGN7pssmDl66DrMG) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 3:27 | 2022-09-14 |  |

@@ -2314,10 +2314,28 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 211013,
       "name": "Ruin Your Night",
       "url": "https://open.spotify.com/track/6yq8YMCw3dHMgZO46OcmIv"
+    },
+    {
+      "album": {
+        "name": "Ruin Your Night",
+        "url": "https://open.spotify.com/album/2frSU8Ww4v8nzFpWKK4lBV"
+      },
+      "artists": [
+        {
+          "name": "Megan McKenna",
+          "url": "https://open.spotify.com/artist/0aAQxfnyKfbTRfkUfxSCIu"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211013,
+      "name": "Ruin Your Night",
+      "url": "https://open.spotify.com/track/72dYMoL2SGUC2RNAvBw4L1"
     },
     {
       "album": {

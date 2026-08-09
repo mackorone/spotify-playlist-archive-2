@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 
 > 😈 welcome to the rave 😈  Cover: Nico Moreno, Novah
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,438 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,781 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 | 99 | [Data Corrupted](https://open.spotify.com/track/4jA66zbGyEIOO7axqn4kSM) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC), [Kruelty](https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD) | [Data Corrupted](https://open.spotify.com/album/2yyPlGLHjaWi5Dv1JO9G4H) | 2:27 |
 | 100 | [Afterlife](https://open.spotify.com/track/2qt1p3NHil24W9gd8IrEK5) | [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [Afterlife](https://open.spotify.com/album/5ZP7RD3NOFLPg9wuq52C2q) | 4:00 |
 
-Snapshot ID: `AAAAADpUb7PVGEfkTK/g4v1Um4aUHJ7Y`
+Snapshot ID: `AAAAAHxB/FqGW2AgdOOG9tdMl5bWUq4Q`

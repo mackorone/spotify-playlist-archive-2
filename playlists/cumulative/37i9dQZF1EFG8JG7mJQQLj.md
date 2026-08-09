@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-640 songs - 1 day 12 hr 10 min
+641 songs - 1 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Hurt Me \- From "Songland"](https://open.spotify.com/track/1zHmzN75pKHflokUGZh7sA) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Hurt Me \(From "Songland"\)](https://open.spotify.com/album/4YP60BnlLCXFtfKun5GBje) | 3:17 | 2024-01-29 | 2025-04-12 |
 | [Hurt Me Tomorrow](https://open.spotify.com/track/3SdAoQZr0azIpNV3ogNkAd) | [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB) | [Country, God Or The Girl \(Deluxe\)](https://open.spotify.com/album/6b7Cs5avLSsnEnXWM9pzVB) | 3:47 | 2024-01-29 |  |
 | [hurt my feelings](https://open.spotify.com/track/4mFcwFOlSCxp6hjemRXwpd) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:02 | 2024-01-29 |  |
-| [I Ain't Worried](https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [OneRepublic \(Japan Paradise Tour Edition\)](https://open.spotify.com/album/33inEak0hNKMDePhjGxE61) | 2:28 | 2024-01-30 | 2026-08-07 |
+| [I Ain't Worried](https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [OneRepublic \(Japan Paradise Tour Edition\)](https://open.spotify.com/album/33inEak0hNKMDePhjGxE61) | 2:28 | 2024-01-30 |  |
 | [I Ain't Worried](https://open.spotify.com/track/1bNapzbrWh3wI8gqd06ejG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried](https://open.spotify.com/album/7vFwTbOPsY6pMaYDcvCyCr) | 2:34 | 2024-01-29 | 2024-02-02 |
 | [I Ain't Worried \(feat\. Becky G\) \- Latin Version](https://open.spotify.com/track/0kljJKo5ibiYiLQkzEXKsG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [I Ain’t Worried \(Versions\)](https://open.spotify.com/album/5Xl3sLXOwckPLzoBYIte7O) | 2:16 | 2024-01-29 |  |
 | [I Am The Future](https://open.spotify.com/track/5OApmelG95UKLMeLDRTZZy) | [Jacaranda](https://open.spotify.com/artist/44inTD4saAbXecbkXmYYPr) | [I Am The Future](https://open.spotify.com/album/6gHZPgoxaigaATAmyFU6y5) | 2:02 | 2025-04-25 |  |
@@ -419,7 +419,8 @@
 | [Particular Taste](https://open.spotify.com/track/4BH9zDv1Ys6kw0j3lU1hTx) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 2:55 | 2024-01-29 |  |
 | [Passenger](https://open.spotify.com/track/3LzDGNWo1EuIN1bW2RTw2x) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up \(Deluxe\)](https://open.spotify.com/album/6EuKoCk8R63UfuPLa9qr7U) | 4:00 | 2024-01-29 |  |
 | [Perfect Skin \(From "Songland"\)](https://open.spotify.com/track/7oUvdezBuPiU9Ohpp2aiZH) | [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [Perfect Skin \(From "Songland"\)](https://open.spotify.com/album/1dT7cwZI3FSXBXIo9sR48m) | 3:39 | 2024-01-29 |  |
-| [Pierre](https://open.spotify.com/track/31c1V9xUONZYk78NE4Id8D) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4) | 3:22 | 2024-01-29 |  |
+| [Pierre](https://open.spotify.com/track/31c1V9xUONZYk78NE4Id8D) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4) | 3:22 | 2024-01-29 | 2026-08-09 |
+| [Pierre](https://open.spotify.com/track/3CXMSW5XgXufE9adOjPdMp) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [Morning Commute](https://open.spotify.com/album/7lNUiysETOeZ6hF7jJaqC0) | 3:22 | 2026-08-08 |  |
 | [Pill for This \(from Songland\)](https://open.spotify.com/track/7IQlF0sWkkztpejeIKnftW) | [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0) | [Pill for This \(from Songland\)](https://open.spotify.com/album/2r1WiGYZP7wsuC0RBZucGe) | 2:53 | 2024-01-29 |  |
 | [Plastic Hearts](https://open.spotify.com/track/6qCsKKS7Ol63SJW3LOIX5R) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:25 | 2024-01-29 |  |
 | [Play](https://open.spotify.com/track/3qdtOI4KHrYS4drA8PLajG) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh) | 2:51 | 2024-05-25 |  |

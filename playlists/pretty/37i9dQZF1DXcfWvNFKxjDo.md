@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Funk Tribu
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,319 likes - 78 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,397 likes - 78 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

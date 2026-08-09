@@ -1,12 +1,12 @@
 {
   "description": "This is Clara Schumann. The essential tracks, all in one playlist.",
-  "num_followers": 2002,
+  "num_followers": 2004,
   "original_name": "This Is Clara Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAAB2ISlxvuPCnCcf52D01rAI",
+  "snapshot_id": "anUgAAAAAACKuVylIIPav1Nj/q/XnN3/",
   "tracks": [
     {
       "added_at": null,
@@ -143,30 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clara Schumann: Piano Concerto & Works by Hiller, Herz & Kalkbrenner (Hyperion Romantic Piano Concerto 78)",
-        "url": "https://open.spotify.com/album/1YtkDggGRGVofgTb5CItJP"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Howard Shelley",
-          "url": "https://open.spotify.com/artist/3pxt6077A2xXBAgMrgHRPg"
-        },
-        {
-          "name": "Tasmanian Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/3WEe5Cpg29CUvsWWv4vRTT"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "Piano Concerto in A Minor, Op. 7: II. Romanze. Andante non troppo con grazia \u2013",
-      "url": "https://open.spotify.com/track/4BLPyQHCxj1sCP1peVHOJE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brahms: Violin Sonatas Nos. 1, 2 & 3",
         "url": "https://open.spotify.com/album/2fhhBK14NAYGlr43SfW9WQ"
       },
@@ -187,6 +163,30 @@
       "duration_ms": 212293,
       "name": "3 Romances, Op. 22: I. Andante molto",
       "url": "https://open.spotify.com/track/1KxmMkQOGGz16gwjp4Uoid"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clara Schumann: Piano Concerto & Works by Hiller, Herz & Kalkbrenner (Hyperion Romantic Piano Concerto 78)",
+        "url": "https://open.spotify.com/album/1YtkDggGRGVofgTb5CItJP"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Howard Shelley",
+          "url": "https://open.spotify.com/artist/3pxt6077A2xXBAgMrgHRPg"
+        },
+        {
+          "name": "Tasmanian Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/3WEe5Cpg29CUvsWWv4vRTT"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "Piano Concerto in A Minor, Op. 7: II. Romanze. Andante non troppo con grazia \u2013",
+      "url": "https://open.spotify.com/track/4BLPyQHCxj1sCP1peVHOJE"
     },
     {
       "added_at": null,
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/3WEe5Cpg29CUvsWWv4vRTT"
         }
       ],
-      "duration_ms": 363560,
-      "name": "Piano Concerto in A Minor, Op. 7: I. Allegro maestoso \u2013",
-      "url": "https://open.spotify.com/track/0ZQCcfeL14tv6iTsNjstc2"
+      "duration_ms": 631906,
+      "name": "Piano Concerto in A Minor, Op. 7: III. Finale. Allegro non troppo",
+      "url": "https://open.spotify.com/track/2nuMDKqYbDnaAK6pqkYwz2"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/3WEe5Cpg29CUvsWWv4vRTT"
         }
       ],
-      "duration_ms": 631906,
-      "name": "Piano Concerto in A Minor, Op. 7: III. Finale. Allegro non troppo",
-      "url": "https://open.spotify.com/track/2nuMDKqYbDnaAK6pqkYwz2"
+      "duration_ms": 363560,
+      "name": "Piano Concerto in A Minor, Op. 7: I. Allegro maestoso \u2013",
+      "url": "https://open.spotify.com/track/0ZQCcfeL14tv6iTsNjstc2"
     },
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clara Schumann: Piano Sonata in G Minor",
-        "url": "https://open.spotify.com/album/57cUGwG3O0kO8v0puKP1V9"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Sharon Su",
-          "url": "https://open.spotify.com/artist/2AMO3bJWEATyOhjJnu6gwl"
-        }
-      ],
-      "duration_ms": 512721,
-      "name": "Piano Sonata in G Minor: I. Allegro",
-      "url": "https://open.spotify.com/track/13EXQBwEJHb5520ov15a2r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clara Schumann & Fanny Mendelssohn: Piano Trios & String Quartet",
         "url": "https://open.spotify.com/album/5o01sGGWRABtuoKC6TS03I"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 628133,
       "name": "Piano Trio in G Minor, Op. 17: I. Allegro moderato",
       "url": "https://open.spotify.com/track/1iDvTbEI7goxi0frO50MyM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clara Schumann: Piano Sonata in G Minor",
+        "url": "https://open.spotify.com/album/57cUGwG3O0kO8v0puKP1V9"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Sharon Su",
+          "url": "https://open.spotify.com/artist/2AMO3bJWEATyOhjJnu6gwl"
+        }
+      ],
+      "duration_ms": 512721,
+      "name": "Piano Sonata in G Minor: I. Allegro",
+      "url": "https://open.spotify.com/track/13EXQBwEJHb5520ov15a2r"
     },
     {
       "added_at": null,
@@ -883,6 +883,26 @@
       "duration_ms": 179072,
       "name": "Vier Polonaisen op. 1 - Polonaise Nr. 3",
       "url": "https://open.spotify.com/track/2dRrRkjVX3nEYBZq94D3Tm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clara Schumann: Soir\u00e9es musicales, Op. 6: II. Notturno. Andante con moto",
+        "url": "https://open.spotify.com/album/4dwWhzWt7VFxgk0wRL1UYG"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Susan Tomes",
+          "url": "https://open.spotify.com/artist/3OP4EwLAnli8pp9rvEossC"
+        }
+      ],
+      "duration_ms": 267666,
+      "name": "Soir\u00e9es musicales, Op. 6: II. Notturno. Andante con moto",
+      "url": "https://open.spotify.com/track/22VPLWkRWyUCFAcaRnwSc7"
     }
   ],
   "unique_name": "This Is Clara Schumann",

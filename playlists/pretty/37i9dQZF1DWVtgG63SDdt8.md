@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: Jon Keith
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,899 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,926 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 62 | [David Danced](https://open.spotify.com/track/5x2UwKWIZQBL9Vi95KYi16) | [IMRHAN](https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3) | [David Danced](https://open.spotify.com/album/05ArbOEiejmCQMgOj31oks) | 3:10 |
 | 63 | [clsr](https://open.spotify.com/track/7DHs3N3wnXmXe8snRziWpj) | [SizzlePRO](https://open.spotify.com/artist/5XW6aqpVAAC7GJGvNeytdf), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [bbystps](https://open.spotify.com/artist/68fREiCxsehECNOgx2dTym) | [clsr](https://open.spotify.com/album/0vmy4Cf1Qh0RsWmO69K6vN) | 3:00 |
 | 64 | [TALK ABOUT IT](https://open.spotify.com/track/0YjjOiBjdvp0oOqICrXbxM) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru) | [I’M OKAY NOW, BUT I WASN’T FOR A WHILE](https://open.spotify.com/album/0EEbdJAgd1LfTuQBwGONJV) | 2:03 |
-| 65 | [Becoming](https://open.spotify.com/track/1lDtM5Nqoo45DzY1ftYLhd) | [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3) | [Becoming](https://open.spotify.com/album/3C4REww4VAXUkh4WpGDMAl) | 2:43 |
+| 65 | [Becoming](https://open.spotify.com/track/1lDtM5Nqoo45DzY1ftYLhd) | [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3) | [Becoming](https://open.spotify.com/album/3C4REww4VAXUkh4WpGDMAl) | 2:42 |
 | 66 | [Back To My Love \- Live Acoustic](https://open.spotify.com/track/5KpEbyxxsJRdMQcaLTHOkH) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Back To My Love \(Live Acoustic\)](https://open.spotify.com/album/3KfFYuQhBtXwlqbsbpJzkf) | 3:24 |
 | 67 | [Sinner 2 Winner](https://open.spotify.com/track/2aq0XbEOoxJH3t3o7iZp6y) | [Natalie Okri](https://open.spotify.com/artist/003ZYdCrDxEZWWeaqhCP3j) | [Sinner 2 Winner](https://open.spotify.com/album/1ElsAvq1I2kv4JKdxmqSob) | 2:42 |
 | 68 | [In A Little Bit](https://open.spotify.com/track/1F3Fdvm2JuazlTUe24wVPj) | [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [In A Little Bit](https://open.spotify.com/album/3EqyfB3y4QclkVZpoLZNFp) | 3:42 |

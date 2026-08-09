@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 
 > Male artists singing about love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,318 likes - 150 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 824,382 likes - 150 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,22 +141,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 131 | [With You](https://open.spotify.com/track/1j3H54xdahpAkNI0q6S89q) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Exclusive](https://open.spotify.com/album/5t7BjMUC2HXa5cWDOWmnVg) | 4:12 |
 | 132 | [Morning Has Broken](https://open.spotify.com/track/3BqqF8suAIzW8655yJfcvh) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Teaser And The Firecat](https://open.spotify.com/album/2B719vL1xtPTwYs0j5BuAo) | 3:20 |
 | 133 | [Fire and Rain](https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James](https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ) | 3:20 |
-| 134 | [Against All Odds \(Take A Look At Me Now\)](https://open.spotify.com/track/2hMF7H2dO3oMz1WwIQnQw1) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...Hits](https://open.spotify.com/album/7hV0YSxAQSng8H0zMR0HBf) | 3:24 |
-| 135 | [With Or Without You](https://open.spotify.com/track/2JZfTvWWtpaE8NohqRXqFr) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best of 1980\-1990 & B\-Sides](https://open.spotify.com/album/1WupyTEE8twuMK5iEoBcm2) | 4:55 |
-| 136 | [Little Things](https://open.spotify.com/track/7kSLdGdXLey7pzLsWpdg1h) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home: Yearbook Edition](https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF) | 3:39 |
+| 134 | [Little Things](https://open.spotify.com/track/7kSLdGdXLey7pzLsWpdg1h) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home: Yearbook Edition](https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF) | 3:39 |
+| 135 | [Against All Odds \(Take A Look At Me Now\)](https://open.spotify.com/track/2hMF7H2dO3oMz1WwIQnQw1) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...Hits](https://open.spotify.com/album/7hV0YSxAQSng8H0zMR0HBf) | 3:24 |
+| 136 | [With Or Without You](https://open.spotify.com/track/2JZfTvWWtpaE8NohqRXqFr) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best of 1980\-1990 & B\-Sides](https://open.spotify.com/album/1WupyTEE8twuMK5iEoBcm2) | 4:55 |
 | 137 | [More Than Words](https://open.spotify.com/track/7z0JcZ8PQoAfUaLIXvbyTH) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [The Best Of Extreme \(An Accidental Collication Of Atoms\)](https://open.spotify.com/album/4hgVjEoyjjCXhMg5dZtGiI) | 5:35 |
 | 138 | [Your Song](https://open.spotify.com/track/17VegeBoHvMlIByrdu64KR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John \(Remastered Version\)](https://open.spotify.com/album/7dtLYwLOdYQa2S8Vjeuxci) | 4:04 |
 | 139 | [Don't give up on us](https://open.spotify.com/track/23IWhAK0cYRwnBT5EE8i3u) | [David Soul](https://open.spotify.com/artist/2eFkm34OMSYRUwP4RAtXaT) | [David Soul](https://open.spotify.com/album/3bK8cxPBLUFkeBeoqzoWtx) | 3:38 |
-| 140 | [Too Good At Goodbyes \- Edit](https://open.spotify.com/track/0mel2N9Ws9r4yLQn5QE21Y) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Too Good At Goodbyes](https://open.spotify.com/album/7oiRNdTfUWmsx6DAjEe7DB) | 3:21 |
-| 141 | [I'm Not In Love](https://open.spotify.com/track/6cuKJ1bFFy4OjfkCI9YBqc) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [The Original Soundtrack](https://open.spotify.com/album/7pHLyF1GWxk65WE6Rkrod3) | 6:06 |
+| 140 | [I'm Not In Love](https://open.spotify.com/track/6cuKJ1bFFy4OjfkCI9YBqc) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [The Original Soundtrack](https://open.spotify.com/album/7pHLyF1GWxk65WE6Rkrod3) | 6:06 |
+| 141 | [Too Good At Goodbyes \- Edit](https://open.spotify.com/track/0mel2N9Ws9r4yLQn5QE21Y) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Too Good At Goodbyes](https://open.spotify.com/album/7oiRNdTfUWmsx6DAjEe7DB) | 3:21 |
 | 142 | [Love Someone](https://open.spotify.com/track/6r3baE6njwU4aoJq6zPukG) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Love Someone](https://open.spotify.com/album/1y36YwGaSrqhDsxilR95iH) | 3:25 |
 | 143 | [To Be With You](https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Deep Cuts: The Best Of The Ballads](https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR) | 3:28 |
 | 144 | [My Love](https://open.spotify.com/track/19LoYrMj3ZlqQUrxa1ADQh) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Greatest Hits](https://open.spotify.com/album/3Iq8rXgxwlSPpRsIacNLgK) | 3:50 |
-| 145 | [Stay With Me](https://open.spotify.com/track/7IHOIqZUUInxjVkko181PB) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Deluxe Edition\)](https://open.spotify.com/album/7p7RFI5jtwYDknwhnQgmlp) | 2:52 |
-| 146 | [Nothing's Gonna Change My Love for You](https://open.spotify.com/track/2EnZ9bpgUtLgKkRFehp8xS) | [Glenn Medeiros](https://open.spotify.com/artist/0bByarMN8ryEFQsRo6iCUN) | [Glenn Medeiros](https://open.spotify.com/album/65kb5QQ9XBwQmxTdcyF1I8) | 3:52 |
-| 147 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/76qB2ZEZlEJAMqMqUjKusp) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/0RhmLffWf3oRr6ahOS6G47) | 6:33 |
+| 145 | [Nothing's Gonna Change My Love for You](https://open.spotify.com/track/2EnZ9bpgUtLgKkRFehp8xS) | [Glenn Medeiros](https://open.spotify.com/artist/0bByarMN8ryEFQsRo6iCUN) | [Glenn Medeiros](https://open.spotify.com/album/65kb5QQ9XBwQmxTdcyF1I8) | 3:52 |
+| 146 | [Stay With Me](https://open.spotify.com/track/7IHOIqZUUInxjVkko181PB) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Deluxe Edition\)](https://open.spotify.com/album/7p7RFI5jtwYDknwhnQgmlp) | 2:52 |
+| 147 | [Bed Of Roses](https://open.spotify.com/track/03427kbUxnfR3iTwE6byxP) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Bon Jovi Greatest Hits \- The Ultimate Collection \(Int'l Deluxe Package\)](https://open.spotify.com/album/0Bkb9wdEeOPBJnLYmQqVR2) | 6:35 |
 | 148 | [Because I Love You \(The Postman Song\)](https://open.spotify.com/track/6VmodO1LYuO5RVpaqn5kwp) | [Stevie B](https://open.spotify.com/artist/6V7pNWhlJpD0s0bMdB1PU9) | [Love And Emotion](https://open.spotify.com/album/0ruAWd75Hr6xtUS2ht8HW1) | 5:03 |
-| 149 | [Bed Of Roses](https://open.spotify.com/track/03427kbUxnfR3iTwE6byxP) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Bon Jovi Greatest Hits \- The Ultimate Collection \(Int'l Deluxe Package\)](https://open.spotify.com/album/0Bkb9wdEeOPBJnLYmQqVR2) | 6:35 |
+| 149 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/76qB2ZEZlEJAMqMqUjKusp) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/0RhmLffWf3oRr6ahOS6G47) | 6:33 |
 | 150 | [Say You, Say Me](https://open.spotify.com/track/0I9M3okWVRJXWT6G7cbIdx) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/1b81mEDt3DmqDdQrZg3i8F) | 4:01 |
 
 Snapshot ID: `AAAAAN/6gdAtSllBfbQ0DPEd8zXllggk`

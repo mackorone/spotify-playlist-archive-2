@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 254100,
+  "num_followers": 254109,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAACb1vDe7VvtjsjyB5kiDcpG",
+  "snapshot_id": "anUgAAAAAACRweWgc9lWNIFW1WUvF3tr",
   "tracks": [
     {
       "added_at": null,
@@ -23,26 +23,6 @@
       "duration_ms": 162665,
       "name": "Giddy Up!",
       "url": "https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Faded Blue Jeans",
-        "url": "https://open.spotify.com/album/7jbfvhV7NYQoXYVFdJwhD2"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        },
-        {
-          "name": "Josh Homme",
-          "url": "https://open.spotify.com/artist/03xb2BUdIFzuRQ6o88yfCB"
-        }
-      ],
-      "duration_ms": 151962,
-      "name": "Faded Blue Jeans (feat. Josh Homme)",
-      "url": "https://open.spotify.com/track/5Zdks1bLKiYAP9HJEh65kc"
     },
     {
       "added_at": null,
@@ -499,22 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets: Friends & Legends",
-        "url": "https://open.spotify.com/album/6BaLWbrpawEf3ZqO9xgtWd"
+        "name": "Faded Blue Jeans",
+        "url": "https://open.spotify.com/album/7jbfvhV7NYQoXYVFdJwhD2"
       },
       "artists": [
         {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
-        },
-        {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "Josh Homme",
+          "url": "https://open.spotify.com/artist/03xb2BUdIFzuRQ6o88yfCB"
         }
       ],
-      "duration_ms": 222413,
-      "name": "You Needed Me",
-      "url": "https://open.spotify.com/track/5wiVesLugAu5CL46hMwFEd"
+      "duration_ms": 151962,
+      "name": "Faded Blue Jeans (feat. Josh Homme)",
+      "url": "https://open.spotify.com/track/5Zdks1bLKiYAP9HJEh65kc"
     },
     {
       "added_at": null,
@@ -535,6 +515,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Duets: Friends & Legends",
+        "url": "https://open.spotify.com/album/6BaLWbrpawEf3ZqO9xgtWd"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        },
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 222413,
+      "name": "You Needed Me",
+      "url": "https://open.spotify.com/track/5wiVesLugAu5CL46hMwFEd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Woman In Me",
         "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
       },
@@ -547,22 +547,6 @@
       "duration_ms": 289573,
       "name": "The Woman In Me (Needs The Man In You)",
       "url": "https://open.spotify.com/track/4wkXHkv0WTzsyMZpADgZOB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dirty Rosie",
-        "url": "https://open.spotify.com/album/3uN1RhHEbmFjBXfpPVU1qb"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 166792,
-      "name": "Dirty Rosie",
-      "url": "https://open.spotify.com/track/3VH36DZ4tw28lOymJSnORC"
     },
     {
       "added_at": null,
@@ -595,6 +579,22 @@
       "duration_ms": 190349,
       "name": "Scary Little Thing",
       "url": "https://open.spotify.com/track/4g8Gqzb6Oh3Zpa4h3aFB0f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dirty Rosie",
+        "url": "https://open.spotify.com/album/3uN1RhHEbmFjBXfpPVU1qb"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 166792,
+      "name": "Dirty Rosie",
+      "url": "https://open.spotify.com/track/3VH36DZ4tw28lOymJSnORC"
     },
     {
       "added_at": null,
@@ -636,26 +636,6 @@
       "added_at": null,
       "album": {
         "name": "Little Miss Twain",
-        "url": "https://open.spotify.com/album/6DwJRbrjM1mMF4e4S6YQUc"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        },
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        }
-      ],
-      "duration_ms": 255883,
-      "name": "Little Miss Twain (feat. Tanya Tucker)",
-      "url": "https://open.spotify.com/track/5HxmVxSA0jpEz67sk3bCXA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Little Miss Twain",
         "url": "https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa"
       },
       "artists": [
@@ -687,6 +667,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Little Miss Twain",
+        "url": "https://open.spotify.com/album/6DwJRbrjM1mMF4e4S6YQUc"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "duration_ms": 255883,
+      "name": "Little Miss Twain (feat. Tanya Tucker)",
+      "url": "https://open.spotify.com/track/5HxmVxSA0jpEz67sk3bCXA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Waking Up Dreaming",
         "url": "https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn"
       },
@@ -699,22 +699,6 @@
       "duration_ms": 198802,
       "name": "Waking Up Dreaming",
       "url": "https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Now (Deluxe)",
-        "url": "https://open.spotify.com/album/5L1fa5sInW8EeKIXAGycMD"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 220173,
-      "name": "Life's About To Get Good",
-      "url": "https://open.spotify.com/track/4h5uOWibuxo0qrtejla7Pb"
     },
     {
       "added_at": null,
@@ -735,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Now (Deluxe)",
+        "url": "https://open.spotify.com/album/5L1fa5sInW8EeKIXAGycMD"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 220173,
+      "name": "Life's About To Get Good",
+      "url": "https://open.spotify.com/track/4h5uOWibuxo0qrtejla7Pb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Up!",
         "url": "https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 240533,
       "name": "Thank You Baby! (For Makin' Someday Come So Soon) - Red Version",
       "url": "https://open.spotify.com/track/6Hlr4MQ98pLjc9R3zKnsdW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 219693,
-      "name": "Black Eyes, Blue Tears",
-      "url": "https://open.spotify.com/track/43c6l8nrX8hHkwf1yuUKki"
     },
     {
       "added_at": null,
@@ -795,6 +779,22 @@
       "duration_ms": 204542,
       "name": "Problematic",
       "url": "https://open.spotify.com/track/74IV9ki3DphxwgUgbSChvf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 219693,
+      "name": "Black Eyes, Blue Tears",
+      "url": "https://open.spotify.com/track/43c6l8nrX8hHkwf1yuUKki"
     },
     {
       "added_at": null,

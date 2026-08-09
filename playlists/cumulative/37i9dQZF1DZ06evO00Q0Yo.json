@@ -950,7 +950,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 137263,
       "name": "Fruit Loop",
       "url": "https://open.spotify.com/track/2vgoeRVrxhxuE7vvUSOVim"
@@ -1290,6 +1290,32 @@
       "duration_ms": 125853,
       "name": "Mean",
       "url": "https://open.spotify.com/track/3PXi72ZtSqx1PZc40KS0Qj"
+    },
+    {
+      "album": {
+        "name": "Mink Mink Mink",
+        "url": "https://open.spotify.com/album/0WxJcdS1Ai4pP7dOIkKQu4"
+      },
+      "artists": [
+        {
+          "name": "RosarioRay",
+          "url": "https://open.spotify.com/artist/5W3SmWcjyOgRyPJIK0tzgZ"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "Big Money Blitz",
+          "url": "https://open.spotify.com/artist/5u7vwAzFX2vW9KdLwpGOr9"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176808,
+      "name": "Mink Mink Mink",
+      "url": "https://open.spotify.com/track/2kJilDliZeKAoCdaiISVZH"
     },
     {
       "album": {

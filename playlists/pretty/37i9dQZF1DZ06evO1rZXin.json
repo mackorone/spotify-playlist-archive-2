@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 7469,
+  "num_followers": 7471,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAADdyggVg+5rXYKs4mgD6NrX",
+  "snapshot_id": "anUgAAAAAADU3SFk5tXW9NGpP33+67Tm",
   "tracks": [
     {
       "added_at": null,
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 166666,
-      "name": "Domingo Corrales",
-      "url": "https://open.spotify.com/track/0mFnbLPjZ2tAqxOJx31pAQ"
+      "duration_ms": 162693,
+      "name": "Palo Bonito",
+      "url": "https://open.spotify.com/track/3p4dd79mwiFMQDExCzbCFO"
     },
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 162693,
-      "name": "Palo Bonito",
-      "url": "https://open.spotify.com/track/3p4dd79mwiFMQDExCzbCFO"
+      "duration_ms": 166666,
+      "name": "Domingo Corrales",
+      "url": "https://open.spotify.com/track/0mFnbLPjZ2tAqxOJx31pAQ"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebrando En Grande",
-        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Tu Eres",
-      "url": "https://open.spotify.com/track/2j41ukCckXffKAgtyUpACd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa'Yo (29 Aniversario)",
         "url": "https://open.spotify.com/album/6z65xfT72GrvHDTwWduVdZ"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 171135,
       "name": "Pa'Yo (29 Aniversario)",
       "url": "https://open.spotify.com/track/7sWfYlWAg41RecShBHPmQy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Celebrando En Grande",
+        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Tu Eres",
+      "url": "https://open.spotify.com/track/2j41ukCckXffKAgtyUpACd"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
-        "url": "https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 144440,
-      "name": "Insensible",
-      "url": "https://open.spotify.com/track/6Ob7lSosBDxx4C51LXRZSV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "35 A\u00f1os de Fiesta",
         "url": "https://open.spotify.com/album/227ypUZTqPBOyiKgj2rqL6"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 156832,
       "name": "No Sigas Llorando",
       "url": "https://open.spotify.com/track/3xPqutXnfGurimsUi02CQj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
+        "url": "https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 144440,
+      "name": "Insensible",
+      "url": "https://open.spotify.com/track/6Ob7lSosBDxx4C51LXRZSV"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
-        "url": "https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 180026,
-      "name": "Te Voy A Olvidar",
-      "url": "https://open.spotify.com/track/7t7onEgU8E9ayFIVh9FI7G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meneaito",
         "url": "https://open.spotify.com/album/4ZxRWf6Xu68bDuJoxnYuG4"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 217234,
       "name": "Meneaito",
       "url": "https://open.spotify.com/track/3cNGzLHjdhX7qizTBt08WD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
+        "url": "https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 180026,
+      "name": "Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/7t7onEgU8E9ayFIVh9FI7G"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 
 > Reggaeton hits from De La Rose, KAROL G, Omar Courtz & Ozuna, Bad Bunny and more\. 🔥🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,142,866 likes - 52 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,141,741 likes - 52 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

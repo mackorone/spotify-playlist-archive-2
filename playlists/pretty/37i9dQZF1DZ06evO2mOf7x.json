@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 47577,
+  "num_followers": 47581,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAAAoIn11f7zLUfsoSu34x4E8",
+  "snapshot_id": "anUgAAAAAAA9v2gEaFTDa7D1ySd5rM/o",
   "tracks": [
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Metiste",
+        "url": "https://open.spotify.com/album/1fulO1nte9iyff5EOhVj37"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "Te Metiste",
+      "url": "https://open.spotify.com/track/3TGHcASjfvxAdjg92V63y5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Rey, Mi Santo",
         "url": "https://open.spotify.com/album/6Mw6BYuc79mmmSI2uYObYe"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 164400,
       "name": "Mi Rey, Mi Santo",
       "url": "https://open.spotify.com/track/5n4BnFiMplTaN0p4rHxKAf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Metiste",
-        "url": "https://open.spotify.com/album/1fulO1nte9iyff5EOhVj37"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 224160,
-      "name": "Te Metiste",
-      "url": "https://open.spotify.com/track/3TGHcASjfvxAdjg92V63y5"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Trampa",
-        "url": "https://open.spotify.com/album/41LNC8lKIULgtaDWJMNfbN"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "No S\u00e9 Qu\u00e9 Voy A Hacer",
-      "url": "https://open.spotify.com/track/4cskZ7EXgVW4Pwbd6vAr7L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Que M\u00e1s Amo",
         "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 209732,
       "name": "Amor y Veneno",
       "url": "https://open.spotify.com/track/1abOezww4bOklPZsAGgvqT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Trampa",
+        "url": "https://open.spotify.com/album/41LNC8lKIULgtaDWJMNfbN"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "No S\u00e9 Qu\u00e9 Voy A Hacer",
+      "url": "https://open.spotify.com/track/4cskZ7EXgVW4Pwbd6vAr7L"
     },
     {
       "added_at": null,
@@ -979,22 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Caminos de la Vida",
-        "url": "https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 228436,
-      "name": "Los Caminos de la Vida",
-      "url": "https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alma Perdida",
         "url": "https://open.spotify.com/album/7lCJ9krfW84FJXkN8MkBOL"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 235180,
       "name": "Alma perdida",
       "url": "https://open.spotify.com/track/3iJ92AFAzuxuVMXZHlRkbA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Caminos de la Vida",
+        "url": "https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 228436,
+      "name": "Los Caminos de la Vida",
+      "url": "https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa"
     }
   ],
   "unique_name": "This Is Ana B\u00e1rbara",

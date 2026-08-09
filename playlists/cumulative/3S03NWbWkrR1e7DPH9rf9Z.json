@@ -5125,6 +5125,28 @@
     },
     {
       "album": {
+        "name": "Turn Up The Bass",
+        "url": "https://open.spotify.com/album/7CJm3F9qU26oPl30iRx81L"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147724,
+      "name": "Turn Up The Bass",
+      "url": "https://open.spotify.com/track/2QL5BIL8ngij9hgLjppSYW"
+    },
+    {
+      "album": {
         "name": "Turn Up The Volume",
         "url": "https://open.spotify.com/album/0fqsIXjekfrVEPggWdgvFg"
       },

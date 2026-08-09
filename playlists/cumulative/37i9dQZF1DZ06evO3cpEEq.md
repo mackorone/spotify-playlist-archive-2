@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Little Joy](https://open.spotify.com/track/0esDL5PvbZHLiGBk0BAbrA) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 4:14 | 2024-05-17 |  |
+| [A Little Joy](https://open.spotify.com/track/0esDL5PvbZHLiGBk0BAbrA) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 4:14 | 2024-05-17 | 2026-08-09 |
 | [All Good Fun](https://open.spotify.com/track/3NwwLJlmS7OXkXFhkJtt3W) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Landing Lights](https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs) | 3:33 | 2023-08-10 |  |
 | [All Good Fun \- Live @ Studio Goonga, 2019](https://open.spotify.com/track/6b051VFccFPDnLXwDOJX2Z) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [All Good Fun \(Live @ Studio Goonga, 2019\)](https://open.spotify.com/album/37BOImeDfA77dEkVWqvAJG) | 3:43 | 2023-09-18 | 2024-06-14 |
 | [Amazing](https://open.spotify.com/track/2eWvmojw75d2yaPARaKj22) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 3:01 | 2023-06-17 | 2026-07-13 |
@@ -81,7 +81,7 @@
 | [Spare Parts](https://open.spotify.com/track/3e8b4NpRzzvGq8oNfadFNl) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [Spare Parts](https://open.spotify.com/album/5oI0hHIg2p3P7XcvdLMwRn) | 3:15 | 2025-01-23 | 2025-03-05 |
 | [Spare Parts](https://open.spotify.com/track/7bVkZG3zltN9bYyFmjcJqu) | [Felicity Urquhart and Josh Cunningham](https://open.spotify.com/artist/29TsUV0ZWC6uui8HAmNF21) | [The Song Club](https://open.spotify.com/album/4LJ7i3oggMdAbTpDJHDB59) | 3:15 | 2023-06-17 | 2025-01-18 |
 | [Speck of Dust](https://open.spotify.com/track/12HXebA19zhK2imE3q6xTD) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 4:40 | 2023-06-25 |  |
-| [Still Alive](https://open.spotify.com/track/4J7jfVlt6A1GjDIW70B5FC) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 4:14 | 2023-06-17 | 2026-08-04 |
+| [Still Alive](https://open.spotify.com/track/4J7jfVlt6A1GjDIW70B5FC) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 4:14 | 2023-06-17 |  |
 | [Strawberry Footprints](https://open.spotify.com/track/1GgjyW2LWQ7Nw5a892i8c1) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 2:36 | 2023-06-17 |  |
 | [Sugar Town](https://open.spotify.com/track/6kqwN65FEBCatSX3z38670) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 3:02 | 2023-06-26 |  |
 | [Sugarloaf Hill](https://open.spotify.com/track/0OrucddVnrIsZHNb1Vtk9k) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 4:21 | 2023-06-22 | 2026-07-14 |

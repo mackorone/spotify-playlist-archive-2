@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 1092,
+  "num_followers": 1093,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAAENRwDF1pZEgeXgaCcanYMgvp+8ISC",
+  "snapshot_id": "AAAENhkC0LEGYm29GUE/XvbtSqN6hCKU",
   "tracks": [
     {
       "added_at": "2026-06-05 18:13:27",
@@ -847,6 +847,30 @@
       "duration_ms": 212044,
       "name": "Take My Love",
       "url": "https://open.spotify.com/track/0zuN03E9Htt59XaXxtJLZ5"
+    },
+    {
+      "added_at": "2026-08-08 15:40:47",
+      "album": {
+        "name": "Everyday Grind",
+        "url": "https://open.spotify.com/album/4srqXN0EkNZEvnBkIDSlrK"
+      },
+      "artists": [
+        {
+          "name": "Mr Boswell Thomas",
+          "url": "https://open.spotify.com/artist/2SQtBpZsYVYPybYXQQ1xQo"
+        },
+        {
+          "name": "Declaime",
+          "url": "https://open.spotify.com/artist/0IWhrIU65vvKiggTlWKDZw"
+        },
+        {
+          "name": "Dudley Perkins",
+          "url": "https://open.spotify.com/artist/08xLtQbGdIZfVfk6QTgYIW"
+        }
+      ],
+      "duration_ms": 166588,
+      "name": "Everyday Grind",
+      "url": "https://open.spotify.com/track/5PvQKRMTzW4k0gEBzzuRdH"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

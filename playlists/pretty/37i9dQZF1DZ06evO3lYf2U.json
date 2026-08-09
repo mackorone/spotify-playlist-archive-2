@@ -1,12 +1,12 @@
 {
   "description": "This is Central Cee. The essential tracks, all in one playlist.",
-  "num_followers": 338487,
+  "num_followers": 338568,
   "original_name": "This Is Central Cee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAAAPEAkaVNJHd3lMiXKrDw/t",
+  "snapshot_id": "anUgAAAAAAAUozfKNdkTei4zXy0WFFIb",
   "tracks": [
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Up",
-        "url": "https://open.spotify.com/album/51A9bnCs9oq6vjFZIDza97"
+        "name": "Wild West",
+        "url": "https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 160000,
-      "name": "One Up",
-      "url": "https://open.spotify.com/track/4FAQjmX7e7JJaFE363uj86"
+      "duration_ms": 188689,
+      "name": "Day in the Life",
+      "url": "https://open.spotify.com/track/1o6x7iRcDQPEEg8YPgLeVA"
     },
     {
       "added_at": null,
@@ -583,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild West",
-        "url": "https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ"
+        "name": "One Up",
+        "url": "https://open.spotify.com/album/51A9bnCs9oq6vjFZIDza97"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 188689,
-      "name": "Day in the Life",
-      "url": "https://open.spotify.com/track/1o6x7iRcDQPEEg8YPgLeVA"
+      "duration_ms": 160000,
+      "name": "One Up",
+      "url": "https://open.spotify.com/track/4FAQjmX7e7JJaFE363uj86"
     },
     {
       "added_at": null,
@@ -615,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No More Leaks",
-        "url": "https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0"
+        "name": "Wild West",
+        "url": "https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 114580,
-      "name": "Chapters",
-      "url": "https://open.spotify.com/track/5DT2fVrYGbXNhMYCnEFfg2"
+      "duration_ms": 148750,
+      "name": "6 For 6",
+      "url": "https://open.spotify.com/track/1tLV0GD0WXQ1Z8BKOQscti"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild West",
-        "url": "https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ"
+        "name": "No More Leaks",
+        "url": "https://open.spotify.com/album/1HTdVIlFgO8o2Oby5rdXs0"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 148750,
-      "name": "6 For 6",
-      "url": "https://open.spotify.com/track/1tLV0GD0WXQ1Z8BKOQscti"
+      "duration_ms": 114580,
+      "name": "Chapters",
+      "url": "https://open.spotify.com/track/5DT2fVrYGbXNhMYCnEFfg2"
     },
     {
       "added_at": null,

@@ -8,8 +8,8 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Abyssal](https://open.spotify.com/track/1WIXu6MwuNvUkviVHRX5Yh) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Contour](https://open.spotify.com/album/7aHlT9RPOvaePp5Woe6Nqg) | 7:03 | 2026-03-21 |  |
-| [Abyssal](https://open.spotify.com/track/20cam3yFQStfMT7eSzjpRn) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Contour](https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY) | 7:03 | 2026-03-19 | 2026-08-08 |
+| [Abyssal](https://open.spotify.com/track/1WIXu6MwuNvUkviVHRX5Yh) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Contour](https://open.spotify.com/album/7aHlT9RPOvaePp5Woe6Nqg) | 7:03 | 2026-03-21 | 2026-08-09 |
+| [Abyssal](https://open.spotify.com/track/20cam3yFQStfMT7eSzjpRn) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Contour](https://open.spotify.com/album/4FK4lSfiEml4SJk4zuYYUY) | 7:03 | 2026-03-19 |  |
 | [Asleep / Sea](https://open.spotify.com/track/2GR0bz98UKhRhcMvp0qpx3) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Sense/Margin](https://open.spotify.com/album/79fRwUPPG9KtGUoxTASTgC) | 6:12 | 2026-03-19 |  |
 | [Awake / Lakeside](https://open.spotify.com/track/6hWeib7zTcBoLVJndRLYft) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Sense/Margin](https://open.spotify.com/album/79fRwUPPG9KtGUoxTASTgC) | 5:41 | 2026-03-19 |  |
 | [bath](https://open.spotify.com/track/0jbhVWhsKxi3GHMDARwEmJ) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [bath](https://open.spotify.com/album/5O38jKRwlHHkDN4mu9M2cQ) | 3:56 | 2026-03-19 |  |

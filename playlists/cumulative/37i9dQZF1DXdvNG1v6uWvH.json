@@ -54034,7 +54034,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 259500,
       "name": "Dreams Are Made Underground",
       "url": "https://open.spotify.com/track/0qLfFA45jGpFsqB5yBOLhT"
@@ -113381,6 +113381,24 @@
     },
     {
       "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/4T6vJEQ27RqNrjeGU9ALCH"
+      },
+      "artists": [
+        {
+          "name": "Carver Jones",
+          "url": "https://open.spotify.com/artist/2cQgX3pb2k7rgJG4rxNfid"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217910,
+      "name": "LAST CIGARETTE",
+      "url": "https://open.spotify.com/track/22LiKzhB3PCwqbfc5ErOey"
+    },
+    {
+      "album": {
         "name": "last dance",
         "url": "https://open.spotify.com/album/6JkLYZkwucyZOLo7058LmX"
       },
@@ -115616,7 +115634,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 129056,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/15Pb3d4f76GHAdQiyBPgrJ"
@@ -160178,7 +160196,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 378945,
       "name": "qu\u00e9 les pas\u00f3 a mis amigos?",
       "url": "https://open.spotify.com/track/5m1V6BHPqQr9yNNoMfkdot"
@@ -195676,7 +195694,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 192000,
       "name": "TEA",
       "url": "https://open.spotify.com/track/1qObCJRmQydvmwO6Z0BMbK"
@@ -208262,24 +208280,6 @@
       "duration_ms": 187500,
       "name": "traces (feat. Molina)",
       "url": "https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa"
-    },
-    {
-      "album": {
-        "name": "your best boy",
-        "url": "https://open.spotify.com/album/3kS8v3bSEdWjAkB9QAjDwn"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "date_added": "2026-08-07",
-      "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/3HBYNcxuqU2JZCfJIQoV6W"
     },
     {
       "album": {
@@ -229896,6 +229896,24 @@
       "duration_ms": 189647,
       "name": "Younger And Hotter Than Me",
       "url": "https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM"
+    },
+    {
+      "album": {
+        "name": "your best boy",
+        "url": "https://open.spotify.com/album/3kS8v3bSEdWjAkB9QAjDwn"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "your best boy",
+      "url": "https://open.spotify.com/track/3HBYNcxuqU2JZCfJIQoV6W"
     },
     {
       "album": {

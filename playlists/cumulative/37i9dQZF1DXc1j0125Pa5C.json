@@ -5131,6 +5131,24 @@
     },
     {
       "album": {
+        "name": "Turma Futebol Clube - Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/28LUE8am6HvOXs8U4DzcJl"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239423,
+      "name": "Pura Adrenalina / Valeu Pra Aprender - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Z2ic2M3Oge2azIAfFcidx"
+    },
+    {
+      "album": {
         "name": "P\u00e9ssimo Neg\u00f3cio / Ref\u00e9m / Trov\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/2VjDCC1GIVrejsUnUmXXU3"
       },
@@ -6824,24 +6842,6 @@
       "duration_ms": 235142,
       "name": "Valeu pra Aprender / Pra Gente Ficar Numa Boa - Ao Vivo",
       "url": "https://open.spotify.com/track/2kHuEHBarkDHAcsBVk2vEm"
-    },
-    {
-      "album": {
-        "name": "Turma Futebol Clube - Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/28LUE8am6HvOXs8U4DzcJl"
-      },
-      "artists": [
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        }
-      ],
-      "date_added": "2026-08-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 239423,
-      "name": "Valeu Pra Aprender / Pura Adrenalina - Ao Vivo",
-      "url": "https://open.spotify.com/track/5Z2ic2M3Oge2azIAfFcidx"
     },
     {
       "album": {

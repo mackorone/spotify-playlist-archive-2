@@ -890,10 +890,32 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 230377,
       "name": "Gonna Be Alright",
       "url": "https://open.spotify.com/track/34o0jKHmE2oIGbPwv5BmF7"
+    },
+    {
+      "album": {
+        "name": "Gonna Be Alright (Todo Estar\u00e1 Bien)",
+        "url": "https://open.spotify.com/album/5AzfsjFlTlOWe79xTIGjYS"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Simon Dumas",
+          "url": "https://open.spotify.com/artist/217ig6NvB8SVOuz4eXAChJ"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228628,
+      "name": "Gonna Be Alright (Todo Estar\u00e1 Bien)",
+      "url": "https://open.spotify.com/track/65EukCTNmdBVGJaB8Oz5Jr"
     },
     {
       "album": {

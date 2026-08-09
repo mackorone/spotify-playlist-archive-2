@@ -686,7 +686,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 185142,
       "name": "Aarzu (with Asim Azhar)",
       "url": "https://open.spotify.com/track/1GnZH0wek1fkGCQnUsK6D0"
@@ -6152,7 +6152,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 337233,
       "name": "Deewaana Deewaana",
       "url": "https://open.spotify.com/track/47RTQoh3pzjhWLUMllNRRJ"
@@ -26329,6 +26329,32 @@
     },
     {
       "album": {
+        "name": "Deewar Ke Uss Paar",
+        "url": "https://open.spotify.com/album/5pf8fOWonD7NQ3ChzyHNkc"
+      },
+      "artists": [
+        {
+          "name": "Farak",
+          "url": "https://open.spotify.com/artist/1gbYkP3zeoGen1itU6pO9a"
+        },
+        {
+          "name": "10A",
+          "url": "https://open.spotify.com/artist/1qAdkJbLIPX8QCtNh6EJMh"
+        },
+        {
+          "name": "Saswat Balan",
+          "url": "https://open.spotify.com/artist/32usn7ItgyYDjproXWuZMz"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154473,
+      "name": "Taare",
+      "url": "https://open.spotify.com/track/2iVj11OdEBNIGUv9f7jGPK"
+    },
+    {
+      "album": {
         "name": "Taaron Ke Shehar",
         "url": "https://open.spotify.com/album/6gPsylHkKTVVNLXRN9RLYy"
       },
@@ -26776,7 +26802,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-03",
+      "date_removed": null,
       "duration_ms": 347040,
       "name": "Tera Mera Rishta",
       "url": "https://open.spotify.com/track/23T4WcVkvuaAEOgXr848i1"

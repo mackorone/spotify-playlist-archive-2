@@ -1,6 +1,6 @@
 {
   "description": "Dance Hits - EDM, Summer and dance floor favourites from Calvin Harris, Lost Frequencies, Kygo, Tiesto, David Guetta! Cover: Lost Frequencies",
-  "num_followers": 53599,
+  "num_followers": 53593,
   "original_name": "Dance Hits ",
   "owner": {
     "name": "Filtr Nederland",
@@ -1098,6 +1098,10 @@
         {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
         }
       ],
       "duration_ms": 181709,

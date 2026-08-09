@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,857 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,855 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,14 +84,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 | 74 | [El Año Viejo](https://open.spotify.com/track/6zpp925GKli7ewqZ7EsuSv) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Estrellas de Navidad](https://open.spotify.com/album/0jUakt5QsrlOsrGV4u8TxU) | 3:18 |
 | 75 | [El Mejor Día Del Año](https://open.spotify.com/track/1O4oJxeeu5alzp2MLBDn65) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Jerry Christmas](https://open.spotify.com/album/3rUqGxUgnf7MPugBN4oQa9) | 3:44 |
 | 76 | [Navidad Es Amor](https://open.spotify.com/track/58VzmExhFVXfOuqP24e8Q9) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq), [Lourdes Robles](https://open.spotify.com/artist/1c6mqbZk70GyrR8ltrRBtm), [José Nogueras](https://open.spotify.com/artist/1z8Vc58XjwvSENCaae5j0D) | [Versos de Nuestra Cultura](https://open.spotify.com/album/1EuDECMiIY2t7ti1kYHWnK) | 4:21 |
-| 77 | [Navidad Con Pique](https://open.spotify.com/track/7dTSe9TgOWqusoI0H1l7qV) | [Nelsón de la Olla y la Banda Chula](https://open.spotify.com/artist/4jKdcrQmQbdNba1NKkXdIt) | [Fiesta en Navidad 35 Exitos](https://open.spotify.com/album/4czT2iX93Cox7I0HdEYzUU) | 3:21 |
-| 78 | [Feliz Navidad](https://open.spotify.com/track/7DIeziYfgC6i2chzXCh5Vc) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Duelo Cumbiambero En Navidad](https://open.spotify.com/album/1RlMpDTvsBxwqaTIzKc8iy) | 2:58 |
+| 77 | [Feliz Navidad](https://open.spotify.com/track/7DIeziYfgC6i2chzXCh5Vc) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Duelo Cumbiambero En Navidad](https://open.spotify.com/album/1RlMpDTvsBxwqaTIzKc8iy) | 2:58 |
+| 78 | [Navidad Con Pique](https://open.spotify.com/track/7dTSe9TgOWqusoI0H1l7qV) | [Nelsón de la Olla y la Banda Chula](https://open.spotify.com/artist/4jKdcrQmQbdNba1NKkXdIt) | [Fiesta en Navidad 35 Exitos](https://open.spotify.com/album/4czT2iX93Cox7I0HdEYzUU) | 3:21 |
 | 79 | [Estas Navidades](https://open.spotify.com/track/5qpk1hG83n2PGTzoJQRVK3) | [Darlyn y Los Herederos](https://open.spotify.com/artist/39XswCAVtjHfOcjH5OOEi3) | [Navidad en Merengue \(Versión Editada\)](https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M) | 4:04 |
 | 80 | [Las Pascuas](https://open.spotify.com/track/2a3ZuVuGnY3izSvAb1VJrN) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Jerry Christmas](https://open.spotify.com/album/3rUqGxUgnf7MPugBN4oQa9) | 3:53 |
 | 81 | [La Olla Navideña](https://open.spotify.com/track/3Y97hfTMjCPlXF4r2rUzQG) | [Sol Caliente](https://open.spotify.com/artist/1POX55DusR2weUbAm2JEMv) | [Fiesta en Navidad 35 Exitos](https://open.spotify.com/album/4czT2iX93Cox7I0HdEYzUU) | 4:36 |
-| 82 | [Traicionera](https://open.spotify.com/track/3Dw69iKKgj2U3JzeeftBbx) | [Vallenatos Nativos](https://open.spotify.com/artist/5SdcPt2f884fB3DITvFqok) | [Latin Vallenatos](https://open.spotify.com/album/0uWkTYkohs30DzAhSMIf3D) | 3:34 |
+| 82 | [Aguinaldo Navideño](https://open.spotify.com/track/3rFwtBGwM0kxJKGfh5TmXt) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Diciembre Colombiano](https://open.spotify.com/album/1k4QeqeqrihPty4qrv9Kqa) | 4:13 |
 | 83 | [Alegre Vengo](https://open.spotify.com/track/3jrDZWJQ13ZBVk57Lzyiq1) | [Jorge Morel](https://open.spotify.com/artist/4UInbVItXnUwebTiUjN9mP) | [Fiesta en Navidad 35 Exitos](https://open.spotify.com/album/4czT2iX93Cox7I0HdEYzUU) | 4:42 |
-| 84 | [Aguinaldo Navideño](https://open.spotify.com/track/3rFwtBGwM0kxJKGfh5TmXt) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Diciembre Colombiano](https://open.spotify.com/album/1k4QeqeqrihPty4qrv9Kqa) | 4:13 |
+| 84 | [Traicionera](https://open.spotify.com/track/3Dw69iKKgj2U3JzeeftBbx) | [Vallenatos Nativos](https://open.spotify.com/artist/5SdcPt2f884fB3DITvFqok) | [Latin Vallenatos](https://open.spotify.com/album/0uWkTYkohs30DzAhSMIf3D) | 3:34 |
 | 85 | [Linda Parranda](https://open.spotify.com/track/6roVyEGav4GUvmX1FKbiA9) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Jerry Christmas](https://open.spotify.com/album/3rUqGxUgnf7MPugBN4oQa9) | 3:23 |
 | 86 | [Esta Parranda Te la Debía](https://open.spotify.com/track/5digKW6ClEPvvOw8dumMk8) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq), [José Nogueras](https://open.spotify.com/artist/1z8Vc58XjwvSENCaae5j0D) | [Versos de Nuestra Cultura](https://open.spotify.com/album/1EuDECMiIY2t7ti1kYHWnK) | 3:33 |
 | 87 | [Alegre Vengo Cantando](https://open.spotify.com/track/1RoUwy8Rfsp0SPaddPUmBu) | [José Nogueras](https://open.spotify.com/artist/1z8Vc58XjwvSENCaae5j0D), [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Versos de Nuestra Cultura](https://open.spotify.com/album/1EuDECMiIY2t7ti1kYHWnK) | 3:50 |

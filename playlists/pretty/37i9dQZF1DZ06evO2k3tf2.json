@@ -1,12 +1,12 @@
 {
   "description": "This is Twenty One Pilots. The essential tracks, all in one playlist.",
-  "num_followers": 1447382,
+  "num_followers": 1447504,
   "original_name": "This Is Twenty One Pilots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAABJb/Nrpp+4JuoX7KW0MkL/",
+  "snapshot_id": "anUgAAAAAACoflsV1hAubNBuT/sqIyXi",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 236000,
       "name": "Overcompensate",
       "url": "https://open.spotify.com/track/0wEGo9LsSrSUz9HOtraWAO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Than We Ever Imagined (Live in Mexico City)",
+        "url": "https://open.spotify.com/album/7dUxfVqKIjBK0vqR1GxAjr"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Routines In The Night - Live in Mexico City",
+      "url": "https://open.spotify.com/track/4iSFMzpg9wkvAufvq1b012"
     },
     {
       "added_at": null,
@@ -107,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clancy",
-        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 202600,
-      "name": "Routines In The Night",
-      "url": "https://open.spotify.com/track/4bDIAWaOBGAAk95nyXI6zJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Breach",
         "url": "https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH"
       },
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blurryface",
-        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 191493,
-      "name": "Doubt",
-      "url": "https://open.spotify.com/track/57yL3161hUMuw06zzzUCHi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clancy",
         "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 223106,
       "name": "Navigating",
       "url": "https://open.spotify.com/track/3gy21TwRSP40aUMwcY7Rtq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blurryface",
+        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 191493,
+      "name": "Doubt",
+      "url": "https://open.spotify.com/track/57yL3161hUMuw06zzzUCHi"
     },
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blurryface",
-        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 188493,
-      "name": "Tear in My Heart",
-      "url": "https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trench",
         "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 229120,
       "name": "My Blood",
       "url": "https://open.spotify.com/track/5HeKOKc4phmLn8e4I7EkzD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blurryface",
+        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 188493,
+      "name": "Tear in My Heart",
+      "url": "https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blurryface",
-        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "Heavydirtysoul",
-      "url": "https://open.spotify.com/track/7i9763l5SSfOnqZ35VOcfy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vessel",
         "url": "https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 267720,
       "name": "Car Radio",
       "url": "https://open.spotify.com/track/5cbpoIu3YjoOwbBDGUEp3P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blurryface",
+        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "Heavydirtysoul",
+      "url": "https://open.spotify.com/track/7i9763l5SSfOnqZ35VOcfy"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blurryface",
-        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 234946,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/40sRwFjfrRnaTdYPJIg4CP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scaled And Icy",
         "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
       },
@@ -383,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blurryface",
+        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 234946,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/40sRwFjfrRnaTdYPJIg4CP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Breach",
         "url": "https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH"
       },
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 228173,
-      "name": "Center Mass",
-      "url": "https://open.spotify.com/track/2BHSRlGgJwzTPfYvAax28m"
+      "duration_ms": 203826,
+      "name": "Drum Show",
+      "url": "https://open.spotify.com/track/20BFo9REyGdCxrlPmD3xph"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vessel",
-        "url": "https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 163880,
-      "name": "House of Gold",
-      "url": "https://open.spotify.com/track/36tghkPg1AO4HsAzo6YpPp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scaled And Icy",
         "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
       },
@@ -447,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vessel",
+        "url": "https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 163880,
+      "name": "House of Gold",
+      "url": "https://open.spotify.com/track/36tghkPg1AO4HsAzo6YpPp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Breach",
         "url": "https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH"
       },
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 203826,
-      "name": "Drum Show",
-      "url": "https://open.spotify.com/track/20BFo9REyGdCxrlPmD3xph"
+      "duration_ms": 228173,
+      "name": "Center Mass",
+      "url": "https://open.spotify.com/track/2BHSRlGgJwzTPfYvAax28m"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Level of Concern",
-        "url": "https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY"
+        "name": "Clancy",
+        "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 220051,
-      "name": "Level of Concern",
-      "url": "https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8"
+      "duration_ms": 203853,
+      "name": "At The Risk Of Feeling Dumb",
+      "url": "https://open.spotify.com/track/0ZucyPms79Cydv0RMYV2Oi"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twenty One Pilots",
-        "url": "https://open.spotify.com/album/6rgWZP4QFBjEFF0n6JWEOa"
+        "name": "Level of Concern",
+        "url": "https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Fall Away",
-      "url": "https://open.spotify.com/track/6aeKPkMywDDYWtPBsbfO50"
+      "duration_ms": 220051,
+      "name": "Level of Concern",
+      "url": "https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
       "duration_ms": 223065,
       "name": "Choker",
       "url": "https://open.spotify.com/track/732E6ibFkQR5lNIPEeiEnx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twenty One Pilots",
+        "url": "https://open.spotify.com/album/6rgWZP4QFBjEFF0n6JWEOa"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Fall Away",
+      "url": "https://open.spotify.com/track/6aeKPkMywDDYWtPBsbfO50"
     },
     {
       "added_at": null,

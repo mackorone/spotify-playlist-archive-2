@@ -1864,10 +1864,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 206285,
       "name": "Same Asshole",
       "url": "https://open.spotify.com/track/1b4KQGFYbRqRe2Bx818Kqb"
+    },
+    {
+      "album": {
+        "name": "Crosses and Crossroads",
+        "url": "https://open.spotify.com/album/0PnpzSoWGvZxURnBRYT0Uu"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206285,
+      "name": "Same Asshole",
+      "url": "https://open.spotify.com/track/4fPF8I4P041i7KYVcPcs15"
     },
     {
       "album": {

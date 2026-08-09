@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 37233,
+  "num_followers": 37243,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAABWs3x4TdfyrylEas+c/N/8",
+  "snapshot_id": "anUgAAAAAADnnfj+2rYYS6MA7EuEf+ai",
   "tracks": [
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 167586,
-      "name": "october",
-      "url": "https://open.spotify.com/track/65MVDci6jCmNj55alfHx3E"
+      "duration_ms": 155066,
+      "name": "drunk thought",
+      "url": "https://open.spotify.com/track/0LDgdxnp94Ut3f5d4Yxzcb"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 155066,
-      "name": "drunk thought",
-      "url": "https://open.spotify.com/track/0LDgdxnp94Ut3f5d4Yxzcb"
+      "duration_ms": 167586,
+      "name": "october",
+      "url": "https://open.spotify.com/track/65MVDci6jCmNj55alfHx3E"
     },
     {
       "added_at": null,

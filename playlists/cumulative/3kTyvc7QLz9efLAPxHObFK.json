@@ -27907,6 +27907,24 @@
     },
     {
       "album": {
+        "name": "BLACK & RED",
+        "url": "https://open.spotify.com/album/1YjLCRKKmpquuNK3qpYw81"
+      },
+      "artists": [
+        {
+          "name": "El Desperado",
+          "url": "https://open.spotify.com/artist/2ajGq9BEnKOi6B5wTZ7uWn"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "I AM A GABBER",
+      "url": "https://open.spotify.com/track/7cyPMhZD30tupPQzIJmcdI"
+    },
+    {
+      "album": {
         "name": "I CAN TAKE YOU THERE",
         "url": "https://open.spotify.com/album/4BnE4qdmD1Z9Dx2a7COyUj"
       },

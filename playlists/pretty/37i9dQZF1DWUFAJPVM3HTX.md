@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/0wccm4Qe9ErYas4CRed0yJ?si=eecfd04e89de4853">Elliott Skinner</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,056 likes - 150 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,084 likes - 150 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 149 | [Move on](https://open.spotify.com/track/2x3ysVnMpdIwtski9oYQPJ) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Move on](https://open.spotify.com/album/2nLoFygVWZrgN2Bxf3B40q) | 2:30 |
 | 150 | [raindance](https://open.spotify.com/track/127BebV29M41FmJqcl8k20) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [raindance](https://open.spotify.com/album/5xSBMTCqNGDgmIoZgcfVGD) | 3:38 |
 
-Snapshot ID: `AAAAAKKvF4m9sjXZK0nzQzQUYFY13cRt`
+Snapshot ID: `AAAAABnCoXgLU4rjQ93aS0iKvFfxsdro`

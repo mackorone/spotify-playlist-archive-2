@@ -2276,7 +2276,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 382160,
       "name": "Miss Sarajevo - Live",
       "url": "https://open.spotify.com/track/5a376mA6M7RgxwrZFfJOYf"
@@ -3186,6 +3186,28 @@
       "duration_ms": 129660,
       "name": "Strange Light - Remastered 2005",
       "url": "https://open.spotify.com/track/4aj2jVlgfEhisRdGdxdcoU"
+    },
+    {
+      "album": {
+        "name": "Everything That Happens Will Happen Today (Deluxe)",
+        "url": "https://open.spotify.com/album/4MdYyQLYp5fO6zfigE8NHc"
+      },
+      "artists": [
+        {
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257448,
+      "name": "Strange Overtones",
+      "url": "https://open.spotify.com/track/3vnQlfyuXK4aW011bAhJru"
     },
     {
       "album": {

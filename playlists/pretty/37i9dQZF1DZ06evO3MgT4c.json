@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 439617,
+  "num_followers": 439633,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAADZDEh16jIZa2F9ZnL8UZ5o",
+  "snapshot_id": "anUgAAAAAACm+JbOX39/66Hk70g3C52d",
   "tracks": [
     {
       "added_at": null,
@@ -315,30 +315,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Family (feat. Migos) [from \"The Addams Family\"]",
-        "url": "https://open.spotify.com/album/6C9Wzv1cnhqbXytAzby4K2"
+        "name": "The Bedroom Tour Playlist",
+        "url": "https://open.spotify.com/album/6Rkm6kbTaw7ViHDUrhWa1u"
       },
       "artists": [
+        {
+          "name": "Niykee Heaton",
+          "url": "https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ"
+        },
         {
           "name": "Migos",
           "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         },
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Rock Mafia",
-          "url": "https://open.spotify.com/artist/4pzAvicKWenQtv9zIQim47"
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
         }
       ],
-      "duration_ms": 177352,
-      "name": "My Family - from \"The Addams Family\"",
-      "url": "https://open.spotify.com/track/62rchuhJrm5JSlIfHz7cH3"
+      "duration_ms": 245722,
+      "name": "Bad Intentions",
+      "url": "https://open.spotify.com/track/5W3UniuRMkHHIpaiQo1hAW"
     },
     {
       "added_at": null,
@@ -403,26 +399,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bedroom Tour Playlist",
-        "url": "https://open.spotify.com/album/6Rkm6kbTaw7ViHDUrhWa1u"
+        "name": "My Family (feat. Migos) [from \"The Addams Family\"]",
+        "url": "https://open.spotify.com/album/6C9Wzv1cnhqbXytAzby4K2"
       },
       "artists": [
-        {
-          "name": "Niykee Heaton",
-          "url": "https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ"
-        },
         {
           "name": "Migos",
           "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         },
         {
-          "name": "OG Parker",
-          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Rock Mafia",
+          "url": "https://open.spotify.com/artist/4pzAvicKWenQtv9zIQim47"
         }
       ],
-      "duration_ms": 245722,
-      "name": "Bad Intentions",
-      "url": "https://open.spotify.com/track/5W3UniuRMkHHIpaiQo1hAW"
+      "duration_ms": 177352,
+      "name": "My Family - from \"The Addams Family\"",
+      "url": "https://open.spotify.com/track/62rchuhJrm5JSlIfHz7cH3"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cocoon",
+        "url": "https://open.spotify.com/album/6JtYy6EVN5e6o09gpM5Q7X"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 297800,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/7E09pB6FdMumBbWQAKwS1M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quality Control: Control The Streets Volume 1",
         "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 295997,
       "name": "Too Hotty",
       "url": "https://open.spotify.com/track/3hWUIMNBwLNug1O8o2PPRW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cocoon",
-        "url": "https://open.spotify.com/album/6JtYy6EVN5e6o09gpM5Q7X"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 297800,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/7E09pB6FdMumBbWQAKwS1M"
     },
     {
       "added_at": null,
@@ -567,6 +567,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Peek A Boo",
+        "url": "https://open.spotify.com/album/4lPh818nqtqiPwqOGEGA1b"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 247612,
+      "name": "Peek A Boo",
+      "url": "https://open.spotify.com/track/1iTWoKAdilGEmit6xhQZje"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quality Control: Control The Streets Volume 1",
         "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 214586,
       "name": "Danger (with Migos & Marshmello)",
       "url": "https://open.spotify.com/track/0nhVrTiCGiGRCoZOJiWzm1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peek A Boo",
-        "url": "https://open.spotify.com/album/4lPh818nqtqiPwqOGEGA1b"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 247612,
-      "name": "Peek A Boo",
-      "url": "https://open.spotify.com/track/1iTWoKAdilGEmit6xhQZje"
     },
     {
       "added_at": null,

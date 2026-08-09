@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 ### [𑣲𝓳](https://open.spotify.com/playlist/1UDtZQ2RZtGRjPy7PCzuzA)
 
-> life too short love the one you got
+> massive ass playlist but yk what else is massive
 
 [julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,148 songs - 2 day 17 hr 17 min
 
@@ -1157,4 +1157,4 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1147 | [Summer's End](https://open.spotify.com/track/1GOcYcVoojwz4FH1aD8ZKP) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Broken Hearts & Dirty Windows: Songs of John Prine, Vol\. 2](https://open.spotify.com/album/1zeu2tjunNLjS6rWNWCZ70) | 3:29 |
 | 1148 | [Pushin' against a Stone](https://open.spotify.com/track/0BikvdxnBECsZwa5avyplB) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' against a Stone](https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z) | 5:14 |
 
-Snapshot ID: `AAALdAd0ogJgNHzfHPaPnrhhMGvfaCXa`
+Snapshot ID: `AAALdfTKNLY2GxclKEdohdL4Vw9awkb6`

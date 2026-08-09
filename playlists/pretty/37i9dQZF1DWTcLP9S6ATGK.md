@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Ziva Magnolya
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,569 likes - 106 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,572 likes - 106 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

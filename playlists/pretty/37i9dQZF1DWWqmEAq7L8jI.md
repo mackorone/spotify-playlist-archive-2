@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 
 > Dale play y que la música te acompañe  📸 RUGGERO
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,300 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,296 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqmEAq7L8jI.md) - [plain]
 | 99 | [monumento..](https://open.spotify.com/track/5gA6oCSFTWxQif7HXqMN2s) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE), [Cocó](https://open.spotify.com/artist/7wO9ayWlYsOX16S5xa3EXi) | [monumento..](https://open.spotify.com/album/0K1DpRzofDbHqViJT3mnDl) | 2:50 |
 | 100 | [Corriendo Con Tijeras](https://open.spotify.com/track/0nhG5W3lqZw7nzaTnYvV0S) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Corriendo Con Tijeras](https://open.spotify.com/album/7vgUy35KgshZVXCB7MebBQ) | 3:15 |
 
-Snapshot ID: `AAAAAIa51g1jsVGx65ER5olrYth/+aWb`
+Snapshot ID: `AAAAADDdcoHKALT9DcYeZ2zPyFMBwVfz`

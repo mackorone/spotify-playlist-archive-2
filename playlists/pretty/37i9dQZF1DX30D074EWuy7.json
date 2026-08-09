@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 34940,
+  "num_followers": 34951,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
+        "name": "Cratere",
+        "url": "https://open.spotify.com/album/1ZohHIxPBGgFYNqWhRK4UD"
+      },
+      "artists": [
+        {
+          "name": "Amalafede",
+          "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
+        }
+      ],
+      "duration_ms": 223874,
+      "name": "Cratere",
+      "url": "https://open.spotify.com/track/3v04PkwVyrgZrnSTbwfDaq"
+    },
+    {
+      "added_at": "2026-08-04 12:28:31",
+      "album": {
         "name": "Norma (Arr. for Jazz Orchestra)",
         "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 584075,
       "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
       "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
-    },
-    {
-      "added_at": "2026-08-04 12:28:31",
-      "album": {
-        "name": "Cratere",
-        "url": "https://open.spotify.com/album/1ZohHIxPBGgFYNqWhRK4UD"
-      },
-      "artists": [
-        {
-          "name": "Amalafede",
-          "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
-        }
-      ],
-      "duration_ms": 223874,
-      "name": "Cratere",
-      "url": "https://open.spotify.com/track/3v04PkwVyrgZrnSTbwfDaq"
     },
     {
       "added_at": "2026-08-04 12:28:31",

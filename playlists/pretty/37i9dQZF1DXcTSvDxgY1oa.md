@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTSvDxgY1oa.md) - [plain]
 
 > Popronde is een jaarlijks reizend festival in NL met de grootste talenten\. Cover: Säm Wilder
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,004 likes - 89 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,005 likes - 89 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,20 +55,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTSvDxgY1oa.md) - [plain]
 | 45 | [Brother Please](https://open.spotify.com/track/6hnYOM7IWCuKnbInSrY6jY) | [In Good Spirit](https://open.spotify.com/artist/7u1aQcQm4rqUgaW4uax6jD) | [Comfort on its Knees](https://open.spotify.com/album/09VUFdPP1EKvhNHVZ5oRvm) | 4:48 |
 | 46 | [SKIN](https://open.spotify.com/track/3qsdHJxDcAmKP0WD7U6R0P) | [Anna Joan](https://open.spotify.com/artist/5iBu6NZycOXhSNLzBTJY6l) | [SKIN](https://open.spotify.com/album/4Xh0HmsYyQN41QfbfMqrnn) | 2:29 |
 | 47 | [WAS DIT ALLES?](https://open.spotify.com/track/2Aw00zuz5TT0etL5L8rKuO) | [GIB](https://open.spotify.com/artist/4lt4kKPq6vh6wQOhR1Qv7h) | [WAS DIT ALLES?](https://open.spotify.com/album/3qynNfzFUxUb2YaQNSTDrn) | 2:12 |
-| 48 | [Mad Again](https://open.spotify.com/track/24b08Mfa4LGOzEzAs5iuNY) | [Doris Vosters](https://open.spotify.com/artist/4g4WlP6okyN27pzkAOaT3b) | [Mad Again](https://open.spotify.com/album/6Y6uRRoutQyDd0sMNN5PaV) | 4:22 |
-| 49 | [Acid to Fascists](https://open.spotify.com/track/7J38jvMFpESlnq2sEmg9gH) | [Throwing Bricks](https://open.spotify.com/artist/05jSnBtEkxDJ7TIR4KVjSr), [Ontaard](https://open.spotify.com/artist/2Ek8RuzywWzQEKjBnUcC8c) | [Something to Lose](https://open.spotify.com/album/5XQIG5emze3Wqs82FVzSBC) | 9:06 |
+| 48 | [Acid to Fascists](https://open.spotify.com/track/7J38jvMFpESlnq2sEmg9gH) | [Throwing Bricks](https://open.spotify.com/artist/05jSnBtEkxDJ7TIR4KVjSr), [Ontaard](https://open.spotify.com/artist/2Ek8RuzywWzQEKjBnUcC8c) | [Something to Lose](https://open.spotify.com/album/5XQIG5emze3Wqs82FVzSBC) | 9:06 |
+| 49 | [Mad Again](https://open.spotify.com/track/24b08Mfa4LGOzEzAs5iuNY) | [Doris Vosters](https://open.spotify.com/artist/4g4WlP6okyN27pzkAOaT3b) | [Mad Again](https://open.spotify.com/album/6Y6uRRoutQyDd0sMNN5PaV) | 4:22 |
 | 50 | [İkimiz Bir Fidanız](https://open.spotify.com/track/1GbgUy28jOenqqC5oFOgXb) | [Duygu Alkan](https://open.spotify.com/artist/2s3KgqITgw54THeZStF6MP) | [İkimiz Bir Fidanız](https://open.spotify.com/album/6u2vTsJZKwSqvtc1QPJBk5) | 3:14 |
 | 51 | [Nothing Means Anything](https://open.spotify.com/track/0QW8TkIi5e3c5dhBVhA285) | [SWANSLAUGHTER](https://open.spotify.com/artist/7GZdTPMQImAvAXCrVnz9BI) | [Make A Wish](https://open.spotify.com/album/0NEDeJj0Knbr5yJxs4Dw5z) | 1:54 |
-| 52 | [leave the party \. ݁₊ ⊹ .](https://open.spotify.com/track/3LcQCbXUE7v49SnCRHfEvh) | [Nelles](https://open.spotify.com/artist/7MjBGtTl4ki7xS6w8dUlLG) | [leave the party \. ݁₊ ⊹ .](https://open.spotify.com/album/2ygqPrtyd9kniEMFrjFo21) | 3:21 |
-| 53 | [Crane](https://open.spotify.com/track/5eICNslaj4U86WXF1g0fHa) | [Post Ella](https://open.spotify.com/artist/1y0PcaqzO0RtNXlo5Mqj6e) | [Crane](https://open.spotify.com/album/4TC16w0nLS3pKMJLJ95oQ7) | 2:44 |
-| 54 | [ZO MOE](https://open.spotify.com/track/48BI01laihNq62N9Z0pPrb) | [WABR](https://open.spotify.com/artist/3oOqFzbLfXGYSCr0nJCtIx) | [ZO MOE](https://open.spotify.com/album/6XEJsdeFhVE9boZbIKXTpI) | 3:55 |
+| 52 | [Crane](https://open.spotify.com/track/5eICNslaj4U86WXF1g0fHa) | [Post Ella](https://open.spotify.com/artist/1y0PcaqzO0RtNXlo5Mqj6e) | [Crane](https://open.spotify.com/album/4TC16w0nLS3pKMJLJ95oQ7) | 2:44 |
+| 53 | [ZO MOE](https://open.spotify.com/track/48BI01laihNq62N9Z0pPrb) | [WABR](https://open.spotify.com/artist/3oOqFzbLfXGYSCr0nJCtIx) | [ZO MOE](https://open.spotify.com/album/6XEJsdeFhVE9boZbIKXTpI) | 3:55 |
+| 54 | [leave the party \. ݁₊ ⊹ .](https://open.spotify.com/track/3LcQCbXUE7v49SnCRHfEvh) | [Nelles](https://open.spotify.com/artist/7MjBGtTl4ki7xS6w8dUlLG) | [leave the party \. ݁₊ ⊹ .](https://open.spotify.com/album/2ygqPrtyd9kniEMFrjFo21) | 3:21 |
 | 55 | [Way Out](https://open.spotify.com/track/6k0Yi9T1s1PAlYxTDHjRZt) | [Wilson A.](https://open.spotify.com/artist/5brK3zQCrbjQMdfAaiwlL2) | [Way Out](https://open.spotify.com/album/0C8G0veIQjoen0waDLfhU8) | 3:11 |
 | 56 | [deadbeat \(how long\)](https://open.spotify.com/track/48F4w5Wxe5jCpjv2pl9bep) | [crashing](https://open.spotify.com/artist/6brUoKxN2RCw6j1aVVIoqr) | [deadbeat \(how long\)](https://open.spotify.com/album/5I59rSj4lUsrpoam0Ae23c) | 4:00 |
 | 57 | [Kleine Liefde](https://open.spotify.com/track/3run92YHEJHsOa8EIttJru) | [Marit Nygård](https://open.spotify.com/artist/4FKvA5jaSSTDdt0AW0Jeqx), [De Medemensen](https://open.spotify.com/artist/0QXL4XMo9nOXrtQGxGwfXx) | [Kleine Liefde](https://open.spotify.com/album/6sFDVWQB3cmpkCSlTuDJ5t) | 2:11 |
 | 58 | [Chemicals](https://open.spotify.com/track/1byGTZVTR9oQkgIapiLsLu) | [Grandad](https://open.spotify.com/artist/3cYgV9Bxor0DFHme9eLbD0) | [Chemicals](https://open.spotify.com/album/5gQxxMdJzf5mNQWDX1Daw1) | 3:36 |
 | 59 | [Red Car](https://open.spotify.com/track/7beZWdJVztwfhrhobHRuYF) | [The Hook](https://open.spotify.com/artist/66y3ZygySfpK16S3oZvumu) | [Red Car](https://open.spotify.com/album/0a2L8sKFL6M1bRMAFUVjRo) | 2:29 |
-| 60 | [Life](https://open.spotify.com/track/0oYLbiAgKfmqB4PWUMumg1) | [JAH](https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659) | [Life](https://open.spotify.com/album/3OtdgROQDSxVNJOPeTLX2y) | 2:09 |
-| 61 | [Elusive](https://open.spotify.com/track/5vF3crzWldigIceAdkpcNo) | [Lucy Fabienne](https://open.spotify.com/artist/2N8YfPuSR8FkNYGoz5mqVv) | [Elusive](https://open.spotify.com/album/3UgScVytbOnforkl8HT2x5) | 3:07 |
+| 60 | [Elusive](https://open.spotify.com/track/5vF3crzWldigIceAdkpcNo) | [Lucy Fabienne](https://open.spotify.com/artist/2N8YfPuSR8FkNYGoz5mqVv) | [Elusive](https://open.spotify.com/album/3UgScVytbOnforkl8HT2x5) | 3:07 |
+| 61 | [Life](https://open.spotify.com/track/0oYLbiAgKfmqB4PWUMumg1) | [JAH](https://open.spotify.com/artist/5Mtx1K2I4k44IIlsCSf659) | [Life](https://open.spotify.com/album/3OtdgROQDSxVNJOPeTLX2y) | 2:09 |
 | 62 | [Trepanationforthenationalhealth](https://open.spotify.com/track/0l6mlfoFZH3PPDTmq8ZmHT) | [aquelarre\*](https://open.spotify.com/artist/00u4579gwIGUFUcgyjYGqj) | [1](https://open.spotify.com/album/0BTi5qLvMLhaf197QJxVNo) | 2:45 |
 | 63 | [Max](https://open.spotify.com/track/46fRys6UjCRJESL2yv0gcp) | [Amani](https://open.spotify.com/artist/1vPf9jEoO5z0WeqfgVB8F3) | [Max](https://open.spotify.com/album/7JThK5VKLEQDzwChzoUVy6) | 2:00 |
 | 64 | [see\-through](https://open.spotify.com/track/28vbdzBGYdT36yLtxRdHpK) | [NEBULA](https://open.spotify.com/artist/12diO4yzHt1BQYmM1L8rNJ) | [see\-through](https://open.spotify.com/album/1i4QaI3u06CjXje10LPa2z) | 3:56 |

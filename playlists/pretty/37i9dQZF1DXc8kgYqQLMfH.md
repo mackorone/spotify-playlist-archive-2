@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,103,840 likes - 130 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,103,877 likes - 130 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

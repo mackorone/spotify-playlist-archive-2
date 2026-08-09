@@ -291,6 +291,28 @@
     },
     {
       "album": {
+        "name": "Favorita (En Vivo)",
+        "url": "https://open.spotify.com/album/1n4aXYVrnqSV8ahYenLZGo"
+      },
+      "artists": [
+        {
+          "name": "Cindy Cats",
+          "url": "https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv"
+        },
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260244,
+      "name": "Favorita (En Vivo)",
+      "url": "https://open.spotify.com/track/6zTK7QwntQ9CuDJowNVFSS"
+    },
+    {
+      "album": {
         "name": "Fiebre",
         "url": "https://open.spotify.com/album/5sMP31RiHju3dGZ5tPdPWj"
       },

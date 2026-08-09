@@ -1931,6 +1931,24 @@
     },
     {
       "album": {
+        "name": "Pasajero",
+        "url": "https://open.spotify.com/album/6rqW7TAHIXzkr01UnxhxQL"
+      },
+      "artists": [
+        {
+          "name": "La Expansion",
+          "url": "https://open.spotify.com/artist/3TMPTLwsdt24hPu8TActJN"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150314,
+      "name": "Pasajero",
+      "url": "https://open.spotify.com/track/3DoQFGUtHLapsaKut2MOPB"
+    },
+    {
+      "album": {
         "name": "Catarsis",
         "url": "https://open.spotify.com/album/6VOicOVSb15t7plM3aGn0v"
       },

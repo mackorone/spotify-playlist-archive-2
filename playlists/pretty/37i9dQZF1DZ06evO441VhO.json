@@ -1,12 +1,12 @@
 {
   "description": "This is zebrahead. The essential tracks, all in one playlist.",
-  "num_followers": 18825,
+  "num_followers": 18831,
   "original_name": "This Is zebrahead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAABzHKjh65fQVztHKdeVhwH+",
+  "snapshot_id": "anUgAAAAAACEuRiljJ7uilFwolM+TiLi",
   "tracks": [
     {
       "added_at": null,
@@ -175,8 +175,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Perfect Life Is Such a Bore",
-        "url": "https://open.spotify.com/album/69q5aNZhzJbg75rLaAvVFU"
+        "name": "Broadcast to the World",
+        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
       },
       "artists": [
         {
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 201305,
-      "name": "A Perfect Life Is Such a Bore",
-      "url": "https://open.spotify.com/track/0nysC7wd6eb7Pd0d2qWpW7"
+      "duration_ms": 156440,
+      "name": "Lobotomy For Dummies",
+      "url": "https://open.spotify.com/track/66OAAgbg7SmKJHxZoaSe34"
     },
     {
       "added_at": null,
@@ -207,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broadcast to the World",
-        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
+        "name": "A Perfect Life Is Such a Bore",
+        "url": "https://open.spotify.com/album/69q5aNZhzJbg75rLaAvVFU"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 156440,
-      "name": "Lobotomy For Dummies",
-      "url": "https://open.spotify.com/track/66OAAgbg7SmKJHxZoaSe34"
+      "duration_ms": 201305,
+      "name": "A Perfect Life Is Such a Bore",
+      "url": "https://open.spotify.com/track/0nysC7wd6eb7Pd0d2qWpW7"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broadcast to the World",
-        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 165386,
-      "name": "Postcards From Hell",
-      "url": "https://open.spotify.com/track/6x5AHaFSlfgeVm6U95CNtr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brain Invaders",
         "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
       },
@@ -463,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
+        "name": "Broadcast to the World",
+        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
       },
       "artists": [
         {
@@ -472,9 +456,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 239505,
-      "name": "The Juggernauts",
-      "url": "https://open.spotify.com/track/4ZTjAr4g4qKliDJ2SitZ5K"
+      "duration_ms": 165386,
+      "name": "Postcards From Hell",
+      "url": "https://open.spotify.com/track/6x5AHaFSlfgeVm6U95CNtr"
     },
     {
       "added_at": null,
@@ -491,6 +475,22 @@
       "duration_ms": 177666,
       "name": "Playmate of the Year",
       "url": "https://open.spotify.com/track/1m3wdcuORJ0NFChz9hYSk7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 239505,
+      "name": "The Juggernauts",
+      "url": "https://open.spotify.com/track/4ZTjAr4g4qKliDJ2SitZ5K"
     },
     {
       "added_at": null,

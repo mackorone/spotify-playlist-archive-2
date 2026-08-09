@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAACHUEmOIywvJFJ1aiNN1O+q",
+  "snapshot_id": "anUgAAAAAAB+9G4NUkHwi8pdMvy6uPhD",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "stories 2",
+        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 120400,
+      "name": "ur mine",
+      "url": "https://open.spotify.com/track/4N3FaGxd5KRhdHahKDbbql"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/2nWaVG4ZaLj1J41LBBwzLA"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 192941,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/1YnewALtpmHPZg86MgB1C0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "stories 2",
-        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 120400,
-      "name": "ur mine",
-      "url": "https://open.spotify.com/track/4N3FaGxd5KRhdHahKDbbql"
     },
     {
       "added_at": null,
@@ -615,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whirlwind Of Malevolence",
-        "url": "https://open.spotify.com/album/1JeoBLRWk8AKSagFSNG5EC"
-      },
-      "artists": [
-        {
-          "name": "SONIKKU",
-          "url": "https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 139090,
-      "name": "Enter The Chat",
-      "url": "https://open.spotify.com/track/1gBwEnUsHgGDp6WkrjxNo7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "stories 2",
         "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
       },
@@ -647,26 +627,6 @@
       "duration_ms": 142142,
       "name": "into me",
       "url": "https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Push N Pull",
-        "url": "https://open.spotify.com/album/6NJUaLB7QJap4J0rTWwYrV"
-      },
-      "artists": [
-        {
-          "name": "Runyu Qian",
-          "url": "https://open.spotify.com/artist/4ImAOESUJEOZ44ubwuoj1X"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Push N Pull",
-      "url": "https://open.spotify.com/track/1Ze2YUR6IEAUhfhJgsP6f8"
     },
     {
       "added_at": null,
@@ -715,6 +675,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Push N Pull",
+        "url": "https://open.spotify.com/album/6NJUaLB7QJap4J0rTWwYrV"
+      },
+      "artists": [
+        {
+          "name": "Runyu Qian",
+          "url": "https://open.spotify.com/artist/4ImAOESUJEOZ44ubwuoj1X"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Push N Pull",
+      "url": "https://open.spotify.com/track/1Ze2YUR6IEAUhfhJgsP6f8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whirlwind Of Malevolence",
+        "url": "https://open.spotify.com/album/1JeoBLRWk8AKSagFSNG5EC"
+      },
+      "artists": [
+        {
+          "name": "SONIKKU",
+          "url": "https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 139090,
+      "name": "Enter The Chat",
+      "url": "https://open.spotify.com/track/1gBwEnUsHgGDp6WkrjxNo7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spend It",
         "url": "https://open.spotify.com/album/1Ra1BUIxleKoOHU3ewv1Cw"
       },
@@ -731,26 +731,6 @@
       "duration_ms": 180000,
       "name": "Spend It",
       "url": "https://open.spotify.com/track/2DAGWDwSJycVZ2erxi5Uzq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quiet As Kept, F.O.G. (Extended Cut)",
-        "url": "https://open.spotify.com/album/5o0OzTCm1JqNniLfxlwVSL"
-      },
-      "artists": [
-        {
-          "name": "Kai Whiston",
-          "url": "https://open.spotify.com/artist/0hktkVFcCRG9z2NTXE6jhl"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 262928,
-      "name": "Kissing Practise",
-      "url": "https://open.spotify.com/track/0Fmj0CquXZqPHMpb8D8Ro7"
     },
     {
       "added_at": null,
@@ -779,6 +759,26 @@
       "duration_ms": 185000,
       "name": "Mind Games",
       "url": "https://open.spotify.com/track/62sJa0KNYdItPUkxyeRYzC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiet As Kept, F.O.G. (Extended Cut)",
+        "url": "https://open.spotify.com/album/5o0OzTCm1JqNniLfxlwVSL"
+      },
+      "artists": [
+        {
+          "name": "Kai Whiston",
+          "url": "https://open.spotify.com/artist/0hktkVFcCRG9z2NTXE6jhl"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 262928,
+      "name": "Kissing Practise",
+      "url": "https://open.spotify.com/track/0Fmj0CquXZqPHMpb8D8Ro7"
     }
   ],
   "unique_name": "This Is BAYLI",

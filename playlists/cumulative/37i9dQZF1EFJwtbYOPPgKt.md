@@ -4,14 +4,15 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4faXS5M3wmHrYeRCoMXyUg">Katharina Emendoerfer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-75 songs - 3 hr 11 min
+76 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5/10](https://open.spotify.com/track/5rIYn6fgIIraBGl6kvY3g3) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Moody](https://open.spotify.com/album/3NeQAa6mtrJdgvbu2pEaAN) | 2:29 | 2024-01-29 |  |
 | [Aeroplane](https://open.spotify.com/track/7uVTcHHuwwhMmx6dj4iSIG) | [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ), [Jean Juan](https://open.spotify.com/artist/0BdqSoiFVJSplPq3KSySFz), [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [Aeroplane](https://open.spotify.com/album/4gy64rXzUg5hwrL3aTZb3U) | 2:25 | 2024-01-29 |  |
 | [Another Galaxy](https://open.spotify.com/track/7w0YikkZoA9h8d06IxrobU) | [KREMIK](https://open.spotify.com/artist/6JWRJCM7ErCEi55aWhHodD), [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [Another Galaxy](https://open.spotify.com/album/4yNYesDLNVRKgq8p8l2ORi) | 2:11 | 2024-08-22 |  |
-| [Around U](https://open.spotify.com/track/7o6nwolKiJxY7zMBdlVEwe) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Around U](https://open.spotify.com/album/4ZdPEKBfORZ1EeWiHwubXA) | 3:28 | 2024-01-29 |  |
+| [Around U](https://open.spotify.com/track/66jWfshP3IBZ1nYj5tDRaA) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Around U](https://open.spotify.com/album/2tsQi1j1y67hsY5h1SpEAh) | 3:28 | 2026-08-08 |  |
+| [Around U](https://open.spotify.com/track/7o6nwolKiJxY7zMBdlVEwe) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG) | [Around U](https://open.spotify.com/album/4ZdPEKBfORZ1EeWiHwubXA) | 3:28 | 2024-01-29 | 2026-08-09 |
 | [BESTIE BOO](https://open.spotify.com/track/3BDjECqVu4bZtxJv32Xev3) | [Harina](https://open.spotify.com/artist/3G20t9ua4kf5JEsuqSTdJG), [WLHELMINA](https://open.spotify.com/artist/0XKPkyNYSExK4hjtSDwBQ4) | [BESTIE BOO](https://open.spotify.com/album/2mmLKqwyfgGrJJQyTFLQJ2) | 3:26 | 2024-01-29 |  |
 | [Boom Boom](https://open.spotify.com/track/0WJblMHthgE1EZNwKk2Rlh) | [HADES](https://open.spotify.com/artist/10MePwUrEFRfJ3lN2FLs4b), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs), [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [Boom Boom](https://open.spotify.com/album/1fChPEAP4ZYDbMu7aluGtn) | 2:34 | 2024-06-22 |  |
 | [Boys Make Me Cry](https://open.spotify.com/track/1rGnLwL6mJ7ULB19szUUfm) | [BELLA X](https://open.spotify.com/artist/4jjfOnLNOdOKlHScCytZzV) | [Boys Make Me Cry](https://open.spotify.com/album/1yjPO13ze1nY2a6FmLSnWt) | 2:07 | 2024-01-29 |  |

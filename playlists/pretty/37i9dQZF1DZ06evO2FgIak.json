@@ -1,12 +1,12 @@
 {
   "description": "This is Muddy Waters. The essential tracks, all in one playlist.",
-  "num_followers": 52554,
+  "num_followers": 52557,
   "original_name": "This Is Muddy Waters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAAAVjF0sFFIkifjYqoi2qY5N",
+  "snapshot_id": "anUgAAAAAADtLZ2h8XBqXWz/3tYCW3uk",
   "tracks": [
     {
       "added_at": null,
@@ -123,18 +123,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muddy Waters Sings Big Bill Broonzy",
-        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
+        "name": "Sternstunden",
+        "url": "https://open.spotify.com/album/4G7bjZ0EeL3tG1quahiidj"
       },
       "artists": [
         {
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
           "name": "Muddy Waters",
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "D! Williams",
+          "url": "https://open.spotify.com/artist/5BiWdJOs69IQUk4J3rGYIF"
+        },
+        {
+          "name": "Mike Settle",
+          "url": "https://open.spotify.com/artist/3nONeBwPCQfjzWhp4ph4Cl"
+        },
+        {
+          "name": "Preston Foster",
+          "url": "https://open.spotify.com/artist/3h2wJi6uqXuhC0YPBd1P03"
         }
       ],
-      "duration_ms": 174573,
-      "name": "I Feel So Good",
-      "url": "https://open.spotify.com/track/2pdRmHCY8d3u4oEVLWvws2"
+      "duration_ms": 197866,
+      "name": "When I'm With You",
+      "url": "https://open.spotify.com/track/0pkICgml5grZoS3Sxx6TtL"
     },
     {
       "added_at": null,
@@ -171,38 +191,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sternstunden",
-        "url": "https://open.spotify.com/album/4G7bjZ0EeL3tG1quahiidj"
+        "name": "Muddy Waters Sings Big Bill Broonzy",
+        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
       },
       "artists": [
         {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
           "name": "Muddy Waters",
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        },
-        {
-          "name": "D! Williams",
-          "url": "https://open.spotify.com/artist/5BiWdJOs69IQUk4J3rGYIF"
-        },
-        {
-          "name": "Mike Settle",
-          "url": "https://open.spotify.com/artist/3nONeBwPCQfjzWhp4ph4Cl"
-        },
-        {
-          "name": "Preston Foster",
-          "url": "https://open.spotify.com/artist/3h2wJi6uqXuhC0YPBd1P03"
         }
       ],
-      "duration_ms": 197866,
-      "name": "When I'm With You",
-      "url": "https://open.spotify.com/track/0pkICgml5grZoS3Sxx6TtL"
+      "duration_ms": 174573,
+      "name": "I Feel So Good",
+      "url": "https://open.spotify.com/track/2pdRmHCY8d3u4oEVLWvws2"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Ready",
-        "url": "https://open.spotify.com/album/4mh3XUBkBiIpCCriJ4mYNP"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 304640,
-      "name": "Screamin' and Cryin'",
-      "url": "https://open.spotify.com/track/0T8mys4YwJPSRDRAw4Co1g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Muddy Waters: Live (At Mr. Kelly's) [Reissue]",
         "url": "https://open.spotify.com/album/4aOBXSIhfR0jqT0cLdHXqk"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 280293,
       "name": "What Is That She Got - Live At Mr. Kelly's/1971",
       "url": "https://open.spotify.com/track/6f42YOJ6Lc3s6osTbVQAZ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Ready",
+        "url": "https://open.spotify.com/album/4mh3XUBkBiIpCCriJ4mYNP"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 304640,
+      "name": "Screamin' and Cryin'",
+      "url": "https://open.spotify.com/track/0T8mys4YwJPSRDRAw4Co1g"
     },
     {
       "added_at": null,
@@ -728,25 +728,33 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 165106,
-      "name": "You Need Love",
-      "url": "https://open.spotify.com/track/7Ak1aR9cK5b4yKHdhIhNVq"
+      "duration_ms": 162000,
+      "name": "Trouble No More",
+      "url": "https://open.spotify.com/track/3wFXuJfiiQYZquZmNnH3m6"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT"
+        "name": "The Super Super Blues Band",
+        "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
       "artists": [
         {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        },
+        {
           "name": "Muddy Waters",
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 164293,
-      "name": "Walkin' Thru The Park",
-      "url": "https://open.spotify.com/track/4MWQ0HRkPlWq70BKxeY1S1"
+      "duration_ms": 394173,
+      "name": "Ooh, Baby / Wrecking My Love Life - Medley",
+      "url": "https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X"
     },
     {
       "added_at": null,
@@ -800,33 +808,25 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Trouble No More",
-      "url": "https://open.spotify.com/track/3wFXuJfiiQYZquZmNnH3m6"
+      "duration_ms": 165106,
+      "name": "You Need Love",
+      "url": "https://open.spotify.com/track/7Ak1aR9cK5b4yKHdhIhNVq"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Super Super Blues Band",
-        "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT"
       },
       "artists": [
         {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        },
-        {
           "name": "Muddy Waters",
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        },
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 394173,
-      "name": "Ooh, Baby / Wrecking My Love Life - Medley",
-      "url": "https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X"
+      "duration_ms": 164293,
+      "name": "Walkin' Thru The Park",
+      "url": "https://open.spotify.com/track/4MWQ0HRkPlWq70BKxeY1S1"
     },
     {
       "added_at": null,

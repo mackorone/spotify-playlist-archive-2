@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
+| 1 | [Wannabe](https://open.spotify.com/track/68DUL7LbMhXzOzq97F5XhJ) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice \(25th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/6VIvQiUIOBMxjme8LYiUlU) | 2:53 |
 | 2 | [One More Sleep](https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 3:59 |
 | 3 | [Spice Girl](https://open.spotify.com/track/4HW5kSQ8M2IQWZhSxERvla) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Good For You](https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p) | 2:53 |
 | 4 | [2 Become 1](https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 4:01 |
@@ -169,8 +169,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 159 | [Don't Weigh Me Down](https://open.spotify.com/track/2S2GEzXQjblhoGmUN5TEB4) | [Joana Zimmer](https://open.spotify.com/artist/340O8IdnPypHteCD0Z5DPL) | [The Voice In Me](https://open.spotify.com/album/6c3SCdN0M0AlbxxxlGduQk) | 4:10 |
 | 160 | [Apology](https://open.spotify.com/track/0LZIIs3wJW9LuvWbdyuk68) | [Ant & Dec](https://open.spotify.com/artist/2gmeFH5Iz8UEA7K0OHDePQ) | [The Cult of Ant & Dec](https://open.spotify.com/album/6AaAZLF9kR8Y5vzgcAU9G9) | 13:14 |
 | 161 | [Daydreaming](https://open.spotify.com/track/5WS84S6J67LJT8tHyE7otp) | [Alice Wondering](https://open.spotify.com/artist/2fz7bKNbqtzbbNN0slkUBp) | [Daydreaming](https://open.spotify.com/album/3EJfRbY1iKcv8oqG1BglzY) | 4:35 |
-| 162 | [Universal Sun](https://open.spotify.com/track/0EQgFVJGA5jNBao9xj2mAi) | [Ant & Dec](https://open.spotify.com/artist/2gmeFH5Iz8UEA7K0OHDePQ) | [The Cult of Ant & Dec](https://open.spotify.com/album/6AaAZLF9kR8Y5vzgcAU9G9) | 3:27 |
-| 163 | [XMAS](https://open.spotify.com/track/4vEvgcU9aSuI7yQyAXHDsl) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas \(Fully Wrapped\)](https://open.spotify.com/album/1ujy9xmGf7fnbPLIZnBLO5) | 3:15 |
+| 162 | [XMAS](https://open.spotify.com/track/4vEvgcU9aSuI7yQyAXHDsl) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas \(Fully Wrapped\)](https://open.spotify.com/album/1ujy9xmGf7fnbPLIZnBLO5) | 3:15 |
+| 163 | [Universal Sun](https://open.spotify.com/track/0EQgFVJGA5jNBao9xj2mAi) | [Ant & Dec](https://open.spotify.com/artist/2gmeFH5Iz8UEA7K0OHDePQ) | [The Cult of Ant & Dec](https://open.spotify.com/album/6AaAZLF9kR8Y5vzgcAU9G9) | 3:27 |
 | 164 | [This Is Who I Am](https://open.spotify.com/track/61PIBw1SyHVuhhVqPMK5S6) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Let It Go](https://open.spotify.com/album/2GHrQuz0yU6lrpZNMvMZHh) | 3:54 |
 | 165 | [Sometimes](https://open.spotify.com/track/7gIzrXwDeh8WlsThxPRQ2F) | [Jay Bird](https://open.spotify.com/artist/2TrjvaUmQgHOhqzOiIPPLD) | [FMI, Vol\. 1](https://open.spotify.com/album/426KOY0VXOqkbOFEyjpclx) | 3:58 |
 | 166 | [Wannabe](https://open.spotify.com/track/1F4rxpxuwGu2FdugC1iQkY) | [I'me](https://open.spotify.com/artist/2it5LXzCl301gyPGRrE0rA) | [Wannabe \(Originally by Spice Girls\)](https://open.spotify.com/album/1C3bGMs9VIxx87QF1rEGS8) | 3:01 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 172 | [Gonna Get It This Time](https://open.spotify.com/track/4GhrAsUbo4HmTZvXYlxSke) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Let It Go \(Bonus Tracks\)](https://open.spotify.com/album/2ubU9zi8NfQ1qXRNGkLIoi) | 4:03 |
 | 173 | [Never Give Up](https://open.spotify.com/track/1nlGXptwifSiUIrInybCae) | [Jason L\. Smith](https://open.spotify.com/artist/73ynyjKxPklTyMqh11aMog) | [British Dance Invasion, Vol\. 1](https://open.spotify.com/album/23emBcbDlbBqg2sSzXpmNN) | 4:16 |
 
-Snapshot ID: `AcY+SgAAAADyAtF1w4++TDHXbwyzDLV3`
+Snapshot ID: `AcZDrgAAAADs3jsTNn759WRAgfRHV3Tz`

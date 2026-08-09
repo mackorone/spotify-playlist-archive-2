@@ -1,12 +1,12 @@
 {
   "description": "This is Oliver Tree. The essential tracks, all in one playlist.",
-  "num_followers": 177022,
+  "num_followers": 177140,
   "original_name": "This Is Oliver Tree",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAAA20J9dDwHg76jtw4cU2S2L",
+  "snapshot_id": "anUgAAAAAAA/lbDDIUYHq0+Ktl9FO3SS",
   "tracks": [
     {
       "added_at": null,
@@ -667,38 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All You Ever Wanted",
-        "url": "https://open.spotify.com/album/4KUpiZ42WqvNZ5gT3ZfNRm"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 119934,
-      "name": "All You Ever Wanted",
-      "url": "https://open.spotify.com/track/4TLx9SRerOh8eKkNEJ8Bty"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love You Madly Hate You Badly",
-        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 165523,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/01PiUx0e8rAKQIka0w8PQa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turn It Up (feat. Tommy Cash)",
         "url": "https://open.spotify.com/album/6QtloaQlP1TQEDBMJsTtG8"
       },
@@ -719,6 +687,38 @@
       "duration_ms": 129621,
       "name": "Turn It Up (feat. Tommy Cash)",
       "url": "https://open.spotify.com/track/1LqGBnl9m1duX1XWopugaf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love You Madly Hate You Badly",
+        "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 165523,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/01PiUx0e8rAKQIka0w8PQa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All You Ever Wanted",
+        "url": "https://open.spotify.com/album/4KUpiZ42WqvNZ5gT3ZfNRm"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 119934,
+      "name": "All You Ever Wanted",
+      "url": "https://open.spotify.com/track/4TLx9SRerOh8eKkNEJ8Bty"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 65718,
+  "num_followers": 65722,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Claroscuro",
+        "url": "https://open.spotify.com/album/11r4oKZ7DA9XEnCmhlN08o"
+      },
+      "artists": [
+        {
+          "name": "Cha/Co Project",
+          "url": "https://open.spotify.com/artist/5CbKyLdwHF109D2YqnDxsK"
+        }
+      ],
+      "duration_ms": 384415,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/2ozAiy8UhKYlwAdxZ997Tv"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Triology",
         "url": "https://open.spotify.com/album/5C5oSHXWJZW48TAhCkPnuS"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 428720,
       "name": "Once I Loved",
       "url": "https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Claroscuro",
-        "url": "https://open.spotify.com/album/11r4oKZ7DA9XEnCmhlN08o"
-      },
-      "artists": [
-        {
-          "name": "Cha/Co Project",
-          "url": "https://open.spotify.com/artist/5CbKyLdwHF109D2YqnDxsK"
-        }
-      ],
-      "duration_ms": 384415,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/2ozAiy8UhKYlwAdxZ997Tv"
     },
     {
       "added_at": "2021-07-28 16:44:28",

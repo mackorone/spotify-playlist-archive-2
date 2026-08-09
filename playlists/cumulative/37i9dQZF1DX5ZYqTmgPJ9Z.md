@@ -4,7 +4,7 @@
 
 > Grab a drink and let us help you see off the evening.
 
-113 songs - 6 hr 57 min
+114 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [fashion](https://open.spotify.com/track/4qDHWmO7CiHNtX0Y5gk6O9) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd), [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [fashion](https://open.spotify.com/album/5k6RHg5QRy9E4erIcJgZiC) | 2:15 | 2024-12-17 |  |
 | [Favourite Kind Of Girl](https://open.spotify.com/track/0dnEIYy2AhUkLO7JIjaF0O) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Flikka](https://open.spotify.com/artist/58NhC3elOj4PRVbqDviKJc) | [Favourite Kind Of Girl](https://open.spotify.com/album/7qtJSgzNGaSIxNWaL4aTxo) | 4:37 | 2024-12-17 |  |
 | [Feral Guest](https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [When You Gonna Tell 'Em the Truth, Aaron?](https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba) | 3:53 | 2024-12-17 |  |
-| [Follow](https://open.spotify.com/track/2uROM73VxtppgLSE2k27nf) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Reverie](https://open.spotify.com/album/5zAiufzCS4SXV7fHNSJPm9) | 3:45 | 2024-12-17 |  |
+| [Follow](https://open.spotify.com/track/2uROM73VxtppgLSE2k27nf) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Reverie](https://open.spotify.com/album/5zAiufzCS4SXV7fHNSJPm9) | 3:45 | 2024-12-17 | 2026-08-09 |
 | [Found You](https://open.spotify.com/track/7ym383h5MQfBNVLG92d5fh) | [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa) | [Found You](https://open.spotify.com/album/6GCdFbDYs475UfiHP4rnKX) | 3:20 | 2024-12-17 |  |
 | [Friend Of A Friend](https://open.spotify.com/track/3Mn22PKkfTR2CjaRt4ziNj) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Friend Of A Friend](https://open.spotify.com/album/7w5rD7XcQufZshgBmTjDIJ) | 4:35 | 2024-12-17 |  |
 | [Golden](https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/0hNccp1ktroLsmDFPvUh0l) | 3:09 | 2024-12-17 | 2026-07-11 |
@@ -64,6 +64,7 @@
 | [Lost](https://open.spotify.com/track/3tklDxHjsNDIMlPjHbUQ4R) | [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF) | [Lost](https://open.spotify.com/album/7BmwUvHlY5PhqSJaV3kwLg) | 3:12 | 2024-12-17 |  |
 | [Love The Things You Do](https://open.spotify.com/track/1ONzZIqZm1F9dEOPMDjdEi) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Love The Things You Do](https://open.spotify.com/album/4PWJm5KgebAlYm2c1pg11p) | 3:53 | 2024-12-17 |  |
 | [Love Theme For Leisure Trip](https://open.spotify.com/track/1v0gfS8rwkD3Vgnm12NslK) | [Hemai](https://open.spotify.com/artist/0eOlWPcqRSIbrJ1i9ESFhz), [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Love Theme For Leisure Trip](https://open.spotify.com/album/4mtqjAKgZTaqenC7XcI6TT) | 3:29 | 2024-12-17 |  |
+| [Lullaby](https://open.spotify.com/track/5t7m5uvtN5aQLU5HNeYDdB) | [Barney Artist](https://open.spotify.com/artist/5iRM7qYip6UNfQaPe2reCz), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Home Is Where the Art Is](https://open.spotify.com/album/1GpJeoYxcez8hKdk6tforL) | 4:00 | 2024-12-17 |  |
 | [Mad About You](https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 | 2024-12-17 |  |
 | [Malibu Jane](https://open.spotify.com/track/4NbOXgHL0Gu5ga0qD6z2WN) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [To Memphis](https://open.spotify.com/album/5DtQQgT9d9Ut0I5SoZYfPJ) | 3:38 | 2024-12-17 |  |
 | [meanie](https://open.spotify.com/track/48Feq4hOZdIMhVkIGkzNQI) | [Kayleigh Noble](https://open.spotify.com/artist/5t5cteO6lFQ506pSuFXARH) | [Just a Girl \(stripped\)](https://open.spotify.com/album/2tjb8brG7VnVrR3kW1QxYl) | 4:08 | 2024-12-17 |  |

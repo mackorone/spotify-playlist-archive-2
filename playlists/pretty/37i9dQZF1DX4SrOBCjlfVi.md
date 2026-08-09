@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Pooh Shiesty, Hurricane Wisdom,  Nino Paid and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,404 likes - 54 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,496 likes - 54 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

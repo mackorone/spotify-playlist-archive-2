@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,253,811 likes - 141 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,253,755 likes - 141 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,9 +145,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 135 | [Where You Are Is Home](https://open.spotify.com/track/40O1HVeE12pexNHXAZA6ok) | [Super Duper](https://open.spotify.com/artist/5zFMLXUnqxwdgTpLCX9LDj) | [Where You Are Is Home](https://open.spotify.com/album/4bFSnX1NLDrV3RonGtDtoL) | 3:28 |
 | 136 | [Make Me Wanna](https://open.spotify.com/track/3a9GL4vO0HnWHosQAvYava) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Back on the Floor](https://open.spotify.com/album/422wyUBWorTg7TuAjzDmFA) | 3:22 |
 | 137 | [Tell Me That You Love Me](https://open.spotify.com/track/5twVbF7fNd93mdVs2MpbKN) | [Jacob Vallen](https://open.spotify.com/artist/4cpsDjOCHa98YDBMlkjaUl) | [Tell Me That You Love Me](https://open.spotify.com/album/6u5miPvMbyHLzqNE7YOdjR) | 2:23 |
-| 138 | [Safe In Your Love](https://open.spotify.com/track/7n9Kvdjl3Mjvz6tQWXsNiz) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [25, spring](https://open.spotify.com/album/2sVbAuD8grp9PsAp9ak1Ks) | 2:33 |
-| 139 | [Everything Changes \(But I Won't\)](https://open.spotify.com/track/2WGOTUuDEW2NxuJVFWvmcB) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Louder, Please](https://open.spotify.com/album/79SqMfih2FN1NaLtZUcccG) | 3:51 |
-| 140 | [Where You Are](https://open.spotify.com/track/0inGMCDxu6EX9Ga6xzBlu6) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Closer](https://open.spotify.com/album/27C4TnvDfltBYqM4AxWRM7) | 3:14 |
-| 141 | [SYW \(feat\. Cecile Believe\)](https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [SYW \(feat\. Cecile Believe\)](https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9) | 2:46 |
+| 138 | [SYW \(feat\. Cecile Believe\)](https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [SYW \(feat\. Cecile Believe\)](https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9) | 2:46 |
+| 139 | [Safe In Your Love](https://open.spotify.com/track/7n9Kvdjl3Mjvz6tQWXsNiz) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [25, spring](https://open.spotify.com/album/2sVbAuD8grp9PsAp9ak1Ks) | 2:33 |
+| 140 | [Everything Changes \(But I Won't\)](https://open.spotify.com/track/2WGOTUuDEW2NxuJVFWvmcB) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Louder, Please](https://open.spotify.com/album/79SqMfih2FN1NaLtZUcccG) | 3:51 |
+| 141 | [Where You Are](https://open.spotify.com/track/0inGMCDxu6EX9Ga6xzBlu6) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Closer](https://open.spotify.com/album/27C4TnvDfltBYqM4AxWRM7) | 3:14 |
 
 Snapshot ID: `AAAAAPvY5eigds/LIVS8YI9g/abXNaTg`

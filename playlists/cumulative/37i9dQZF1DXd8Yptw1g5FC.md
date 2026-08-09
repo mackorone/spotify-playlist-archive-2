@@ -4,7 +4,7 @@
 
 > Ayse Hatun Onal, Çodur, Ozan Bayraşa ve haftanın en iyi çıkışları!
 
-9,161 songs - 19 day 12 hr 38 min
+9,161 songs - 19 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4892,7 +4892,7 @@
 | [Krom](https://open.spotify.com/track/12Q3EVE09mxKXXxef8uEMX) | [Dantefaze](https://open.spotify.com/artist/0AeLkz0ssxE9Ion4Ene5TK) | [Krom](https://open.spotify.com/album/7ki7ABSM2OnzFjydFSn2Ry) | 1:46 | 2025-08-07 | 2025-08-15 |
 | [Kromkalpler](https://open.spotify.com/track/2R3TFDgjbFnOH2Y5QqtSHj) | [Aqtaii](https://open.spotify.com/artist/6Dg5SYLT3x8OBSBRJkx6gX) | [Kromkalpler](https://open.spotify.com/album/1R9xTcVCFTFLZrYzR4peQB) | 2:32 | 2025-05-08 | 2025-05-16 |
 | [KTS](https://open.spotify.com/track/0T9wqk6MpJWBMEAyyQGVAK) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [KTS](https://open.spotify.com/album/5FHUBFUyPhl9guiqM5z1DR) | 2:26 | 2025-05-15 | 2025-05-23 |
-| [KuBa ÇiTa](https://open.spotify.com/track/0DpFaqfdDxJktAYmGmXFun) | [Eraxxl](https://open.spotify.com/artist/3TC87XrZgZoAlvzU5XmXDI), [Uğur Öztürk](https://open.spotify.com/artist/20KmGoOPKwrKLDN0s7pRsI), [vayti](https://open.spotify.com/artist/0fyQ33tn2XxAquioC4Fprb) | [KuBa ÇiTa](https://open.spotify.com/album/133uRDy30zbeDD9qdHFC3M) | 2:25 | 2026-08-06 |  |
+| [KuBa ÇiTa](https://open.spotify.com/track/0DpFaqfdDxJktAYmGmXFun) | [Eraxxl](https://open.spotify.com/artist/3TC87XrZgZoAlvzU5XmXDI), [Uğur Öztürk](https://open.spotify.com/artist/20KmGoOPKwrKLDN0s7pRsI), [vayti](https://open.spotify.com/artist/0fyQ33tn2XxAquioC4Fprb) | [KuBa ÇiTa](https://open.spotify.com/album/133uRDy30zbeDD9qdHFC3M) | 1:58 | 2026-08-06 |  |
 | [Kukla Kral](https://open.spotify.com/track/1lfwVy0J0ylcTpMrGM2Rf0) | [Dalgakıran](https://open.spotify.com/artist/7vBbFZP3e28NENy44RxRlq) | [Kukla Kral](https://open.spotify.com/album/1b8e5XUiIQGYqCsSGwRlFm) | 4:03 | 2026-06-18 | 2026-06-26 |
 | [Kuklacı](https://open.spotify.com/track/0Zz8fRHLVSTejpR64iVi4b) | [Sinem Güngör](https://open.spotify.com/artist/1vTXBkyauHdQNZGts985Vj) | [Kuklacı](https://open.spotify.com/album/4UtBsdahOj9A3khSIhqy11) | 3:41 | 2025-03-13 | 2025-03-21 |
 | [Kulak Misafiri](https://open.spotify.com/track/07MaVS6Po0StuCAA2U52qT) | [Hakan Kursun](https://open.spotify.com/artist/3gZSwjQFq9wXEdnkB32MsM) | [Kulak Misafiri](https://open.spotify.com/album/52fRkQp0R8UbFWfO5S3F1G) | 3:15 | 2025-10-09 | 2025-10-17 |

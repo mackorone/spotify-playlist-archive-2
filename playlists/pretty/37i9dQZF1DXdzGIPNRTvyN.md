@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,363 likes - 250 songs - 11 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,594 likes - 250 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 249 | [Lúnaris](https://open.spotify.com/track/7ottqeiDfzhvwfobW4tfBc) | [Lóni Alma](https://open.spotify.com/artist/4RHP8exT811Zult13Shp7n) | [Lúnaris](https://open.spotify.com/album/3yZZHbaqERyyHeCXwsoPQz) | 2:29 |
 | 250 | [Aeolian](https://open.spotify.com/track/5x2OsAflQhIXyAQ1zeTFII) | [Qualeis](https://open.spotify.com/artist/6HaHca1Dcrxamb4r1b0eig) | [Aeolian](https://open.spotify.com/album/5UfZsuUAgakVV1gRBUNxDX) | 2:39 |
 
-Snapshot ID: `AAAAABP7yhtJoUIxtQZOi5SbyEv9458e`
+Snapshot ID: `AAAAABCeUdoAlVUmuKl2dQJdsjbliIVU`

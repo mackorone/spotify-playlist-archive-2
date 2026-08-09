@@ -1,6 +1,6 @@
 {
   "description": "The soft sound of some of the smoothest and sweetest vocal Jazz.",
-  "num_followers": 294350,
+  "num_followers": 294442,
   "original_name": "Sweet Jazz",
   "owner": {
     "name": "Spotify",
@@ -3243,6 +3243,26 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
+        "name": "All the Way (feat. Jordan Officer)",
+        "url": "https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb"
+      },
+      "artists": [
+        {
+          "name": "Susie Arioli",
+          "url": "https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9"
+        },
+        {
+          "name": "Jordan Officer",
+          "url": "https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL"
+        }
+      ],
+      "duration_ms": 174973,
+      "name": "Here's That Rainy Day",
+      "url": "https://open.spotify.com/track/2nyYXojNPvue6b6wvMcmoJ"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
         "name": "I Wish You Love",
         "url": "https://open.spotify.com/album/6jmvc0SSvjpUSDwuxsFrSY"
       },
@@ -3271,26 +3291,6 @@
       "duration_ms": 185239,
       "name": "I Wish You Love",
       "url": "https://open.spotify.com/track/5eg751DjyXstfd7xwdHZ62"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
-        "name": "All the Way (feat. Jordan Officer)",
-        "url": "https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb"
-      },
-      "artists": [
-        {
-          "name": "Susie Arioli",
-          "url": "https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9"
-        },
-        {
-          "name": "Jordan Officer",
-          "url": "https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL"
-        }
-      ],
-      "duration_ms": 174973,
-      "name": "Here's That Rainy Day",
-      "url": "https://open.spotify.com/track/2nyYXojNPvue6b6wvMcmoJ"
     },
     {
       "added_at": "2026-07-03 04:00:58",
@@ -3351,6 +3351,22 @@
     {
       "added_at": "2026-07-03 04:00:58",
       "album": {
+        "name": "Moon Lover",
+        "url": "https://open.spotify.com/album/05an8UcHjgcT3AIt1Sw1ye"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/4DEOJOUfwi3jErNGJcW6Vu"
+    },
+    {
+      "added_at": "2026-07-03 04:00:58",
+      "album": {
         "name": "At Long Last Love (Live)",
         "url": "https://open.spotify.com/album/2U1H2DJYHC4TGCcnjA4be1"
       },
@@ -3375,22 +3391,6 @@
       "duration_ms": 171760,
       "name": "At Long Last Love (Live)",
       "url": "https://open.spotify.com/track/2w945NuM37wWFP4oU0jMqE"
-    },
-    {
-      "added_at": "2026-07-03 04:00:58",
-      "album": {
-        "name": "Moon Lover",
-        "url": "https://open.spotify.com/album/05an8UcHjgcT3AIt1Sw1ye"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/4DEOJOUfwi3jErNGJcW6Vu"
     },
     {
       "added_at": "2026-07-03 04:00:58",

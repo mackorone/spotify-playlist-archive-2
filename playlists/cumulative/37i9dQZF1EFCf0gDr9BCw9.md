@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-258 songs - 19 hr 16 min
+260 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Ballad for Very Tired and Very Sad Lotus Eaters](https://open.spotify.com/track/5NMgzDlzo9W5T79vXWojYV) | [Ken Peplowski](https://open.spotify.com/artist/6RMpBHKpst3s0GQju2rNyz), [Ben Aronov](https://open.spotify.com/artist/3w6qP6pyMiI7BtwsgYLVHc), [Greg Cohen](https://open.spotify.com/artist/5bQEjfrwsAPa0d9PaPkXvn), [Lewis Nash](https://open.spotify.com/artist/2v2TVDl1P2YDSy9jXntWFt) | [Lost in the Stars](https://open.spotify.com/album/06yc1XbrVnYOGyfwgJ5ggG) | 4:33 | 2026-06-25 | 2026-07-24 |
 | [Ballad for Very Tired and Very Sad Lotus\-Eaters](https://open.spotify.com/track/27FZbnHwv9efYUVyj9V14l) | [Fred Hersch](https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx) | [Passion Flower: Fred Hersch Plays Billy Strayhorn](https://open.spotify.com/album/4Z3NZPyMPAZh4hC3xdaoUT) | 5:10 | 2026-07-23 |  |
 | [Ballet of the Flyin' Saucers](https://open.spotify.com/track/6vRq5rh1qGnRLyTTEbtFRh) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 4:48 | 2022-09-08 |  |
+| [Barefoot Stomper](https://open.spotify.com/track/0stKOZV1Agri5NeptzXq18) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Concert In The Virgin Islands](https://open.spotify.com/album/4toQQBpDcDpwGG7XWuZhBZ) | 2:50 | 2026-08-08 |  |
 | [Big Fat Alice's Blues](https://open.spotify.com/track/5p0hnipiGSOZkBSpFCeTkJ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Concert In The Virgin Islands](https://open.spotify.com/album/4toQQBpDcDpwGG7XWuZhBZ) | 3:56 | 2022-09-08 |  |
 | [Blood Count](https://open.spotify.com/track/2FN3icajFPjlWRlhSqe37u) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [And His Mother Called Him Bill](https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g) | 4:19 | 2024-10-17 |  |
 | [Blood Count](https://open.spotify.com/track/0kX3qTP8uPVAxXV2oqOg1g) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Lush Life: The Music of Billy Strayhorn](https://open.spotify.com/album/79ih1hMMqaYaMXhdlXDxku) | 7:19 | 2024-09-15 | 2024-10-18 |
@@ -115,6 +116,7 @@
 | [Johnny Come Lately](https://open.spotify.com/track/6klmQRMwixVFcjxUndqTp3) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Lush Life: The Music of Billy Strayhorn](https://open.spotify.com/album/79ih1hMMqaYaMXhdlXDxku) | 6:29 | 2026-02-18 |  |
 | [Juanita](https://open.spotify.com/track/4Af3a5GQkggFmsjylz5Psn) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Nutcracker Suite \(Expanded Edition\)](https://open.spotify.com/album/6QHkNHDNvVkR3G8CDvF1Ug) | 3:17 | 2022-12-11 |  |
 | [Juanita](https://open.spotify.com/track/4MkCMbWsZ1J3MSkc5EAn1l) | [Ray Charles Singers](https://open.spotify.com/artist/716xTLDou3FHSi9mXOMU1Z) | [In the Evening by the Moonlight](https://open.spotify.com/album/6Gm70RcgXviUTf189V247x) | 3:22 | 2022-09-08 | 2022-12-12 |
+| [Jungle Kitty](https://open.spotify.com/track/4pW2Ji64uDyBX0HytEWJyd) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Concert In The Virgin Islands](https://open.spotify.com/album/4toQQBpDcDpwGG7XWuZhBZ) | 2:58 | 2026-08-08 |  |
 | [Just A\-Settin' and A\-Rockin'](https://open.spotify.com/track/5jIeCSEggQhrx7GslAmUlr) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Breakfast Dance](https://open.spotify.com/album/1kTsLf63qRz5wdDH8G3Lwx) | 3:35 | 2023-12-13 | 2026-02-20 |
 | [Just A\-Sittin' And A\-Rockin'](https://open.spotify.com/track/4wNPjcAq34ujuulEGeKOo8) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX) | 3:34 | 2023-09-25 | 2025-11-03 |
 | [Just A\-Sittin' And A\-Rockin'](https://open.spotify.com/track/6R7v9XCNRFNmGThLqPf8K6) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 3:34 | 2022-09-08 | 2023-09-26 |

@@ -736,7 +736,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 179373,
       "name": "DE M\u00c9XICO SOY",
       "url": "https://open.spotify.com/track/5SWAFRGGudgYZ0hIgPzDfn"
@@ -2516,6 +2516,28 @@
       "duration_ms": 199213,
       "name": "NO TE VAYAS",
       "url": "https://open.spotify.com/track/4mlKCvR8Rowgm9MKEFa8H4"
+    },
+    {
+      "album": {
+        "name": "NO VALES LA PENA",
+        "url": "https://open.spotify.com/album/53R9heP6IvNl21FvJpEUje"
+      },
+      "artists": [
+        {
+          "name": "Oswaldo_NR",
+          "url": "https://open.spotify.com/artist/1n3pTG4kkZiuepmOINVStx"
+        },
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155648,
+      "name": "NO VALES LA PENA",
+      "url": "https://open.spotify.com/track/09xXKzhzutZtyX1uUnVVgw"
     },
     {
       "album": {

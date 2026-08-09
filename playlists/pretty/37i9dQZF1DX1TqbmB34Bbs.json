@@ -3743,22 +3743,6 @@
     {
       "added_at": "2026-08-07 06:14:47",
       "album": {
-        "name": "Am I Trippin'?",
-        "url": "https://open.spotify.com/album/0U8JxnnjXex1ZYi2MK2adm"
-      },
-      "artists": [
-        {
-          "name": "Yung Blesh",
-          "url": "https://open.spotify.com/artist/4brsMLGzcBIcMFiow8fRfZ"
-        }
-      ],
-      "duration_ms": 116470,
-      "name": "Hands Up High",
-      "url": "https://open.spotify.com/track/5N19TtvLUnA0VF93qxWFhl"
-    },
-    {
-      "added_at": "2026-08-07 06:14:47",
-      "album": {
         "name": "ANT",
         "url": "https://open.spotify.com/album/7oUfLoY5S2RvT7oo30s3LB"
       },
@@ -3775,6 +3759,22 @@
       "duration_ms": 168321,
       "name": "Got yourself a gun (feat. ZICO)",
       "url": "https://open.spotify.com/track/5CbclM71moaB0zPy8zRDsG"
+    },
+    {
+      "added_at": "2026-08-07 06:14:47",
+      "album": {
+        "name": "Am I Trippin'?",
+        "url": "https://open.spotify.com/album/0U8JxnnjXex1ZYi2MK2adm"
+      },
+      "artists": [
+        {
+          "name": "Yung Blesh",
+          "url": "https://open.spotify.com/artist/4brsMLGzcBIcMFiow8fRfZ"
+        }
+      ],
+      "duration_ms": 116470,
+      "name": "Hands Up High",
+      "url": "https://open.spotify.com/track/5N19TtvLUnA0VF93qxWFhl"
     },
     {
       "added_at": "2026-08-07 06:14:47",
@@ -3819,46 +3819,6 @@
     {
       "added_at": "2026-08-07 06:14:47",
       "album": {
-        "name": "ALBATROSS",
-        "url": "https://open.spotify.com/album/60is5WFC317kNquQ5ZmpU6"
-      },
-      "artists": [
-        {
-          "name": "KHAN",
-          "url": "https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "ALBATROSS",
-      "url": "https://open.spotify.com/track/0ErbwCsSL8LZGhpc2BzRtH"
-    },
-    {
-      "added_at": "2026-08-07 06:14:47",
-      "album": {
-        "name": "Am I Trippin'?",
-        "url": "https://open.spotify.com/album/0U8JxnnjXex1ZYi2MK2adm"
-      },
-      "artists": [
-        {
-          "name": "Yung Blesh",
-          "url": "https://open.spotify.com/artist/4brsMLGzcBIcMFiow8fRfZ"
-        },
-        {
-          "name": "LIL GIMCHI",
-          "url": "https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ"
-        },
-        {
-          "name": "TOMMY YANG",
-          "url": "https://open.spotify.com/artist/4AO9H2yVIGvb6aTpQ7jW0y"
-        }
-      ],
-      "duration_ms": 183895,
-      "name": "Yes (feat. LIL GIMCHI, TOMMY YANG)",
-      "url": "https://open.spotify.com/track/12Zfn5KmIOAakGtR4J7jhJ"
-    },
-    {
-      "added_at": "2026-08-07 06:14:47",
-      "album": {
         "name": "northfacegawd",
         "url": "https://open.spotify.com/album/0ty8kxXYecxa6cRiyaGgmW"
       },
@@ -3899,6 +3859,46 @@
       "duration_ms": 246413,
       "name": "PRICELESS (Feat. toigo)",
       "url": "https://open.spotify.com/track/3ugYRBISHignwAHvbWhxbZ"
+    },
+    {
+      "added_at": "2026-08-07 06:14:47",
+      "album": {
+        "name": "Am I Trippin'?",
+        "url": "https://open.spotify.com/album/0U8JxnnjXex1ZYi2MK2adm"
+      },
+      "artists": [
+        {
+          "name": "Yung Blesh",
+          "url": "https://open.spotify.com/artist/4brsMLGzcBIcMFiow8fRfZ"
+        },
+        {
+          "name": "LIL GIMCHI",
+          "url": "https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ"
+        },
+        {
+          "name": "TOMMY YANG",
+          "url": "https://open.spotify.com/artist/4AO9H2yVIGvb6aTpQ7jW0y"
+        }
+      ],
+      "duration_ms": 183895,
+      "name": "Yes (feat. LIL GIMCHI, TOMMY YANG)",
+      "url": "https://open.spotify.com/track/12Zfn5KmIOAakGtR4J7jhJ"
+    },
+    {
+      "added_at": "2026-08-07 06:14:47",
+      "album": {
+        "name": "ALBATROSS",
+        "url": "https://open.spotify.com/album/60is5WFC317kNquQ5ZmpU6"
+      },
+      "artists": [
+        {
+          "name": "KHAN",
+          "url": "https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "ALBATROSS",
+      "url": "https://open.spotify.com/track/0ErbwCsSL8LZGhpc2BzRtH"
     },
     {
       "added_at": "2026-08-07 06:14:47",
@@ -3991,26 +3991,6 @@
     {
       "added_at": "2026-08-07 06:14:47",
       "album": {
-        "name": "HUMAN, the album",
-        "url": "https://open.spotify.com/album/1QcboLvSvaTm6f8kjT6d21"
-      },
-      "artists": [
-        {
-          "name": "untell",
-          "url": "https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8"
-        },
-        {
-          "name": "NECTA",
-          "url": "https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Where are you from? (feat. NECTA)",
-      "url": "https://open.spotify.com/track/2GpU8WGTgYymEM3cAL0dvA"
-    },
-    {
-      "added_at": "2026-08-07 06:14:47",
-      "album": {
         "name": "2 Kids On The Block - Part.3",
         "url": "https://open.spotify.com/album/7IbrzIkXcdevPIE4HnnFuR"
       },
@@ -4027,6 +4007,26 @@
       "duration_ms": 233840,
       "name": "Dramatic (Feat. Huh) (Narration by Jung Man Sik)",
       "url": "https://open.spotify.com/track/30RQT8bhjPyT5tdFSmj54M"
+    },
+    {
+      "added_at": "2026-08-07 06:14:47",
+      "album": {
+        "name": "HUMAN, the album",
+        "url": "https://open.spotify.com/album/1QcboLvSvaTm6f8kjT6d21"
+      },
+      "artists": [
+        {
+          "name": "untell",
+          "url": "https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8"
+        },
+        {
+          "name": "NECTA",
+          "url": "https://open.spotify.com/artist/41aotofRYK9RvrKFk5ZY5U"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Where are you from? (feat. NECTA)",
+      "url": "https://open.spotify.com/track/2GpU8WGTgYymEM3cAL0dvA"
     },
     {
       "added_at": "2026-08-07 06:14:47",

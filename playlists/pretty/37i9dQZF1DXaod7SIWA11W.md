@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Koryn Hawthorne
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,506 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,525 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 11 | [All Night!](https://open.spotify.com/track/1ZxPgRT70IBQr3lw807Uk2) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG), [Lady Audri](https://open.spotify.com/artist/75HzJOTVySISxmtIxZnqke) | [All Night!](https://open.spotify.com/album/36Z3i7sXy6540WFQQNiHIo) | 2:35 |
 | 12 | [REMEMBER ME](https://open.spotify.com/track/1GVMYvF7uINf7ZUGb6uvMZ) | [Stanley Brown](https://open.spotify.com/artist/2SkIiDmOxLJlgSq7oeKH2W), [Jessica Reedy](https://open.spotify.com/artist/53AfsMeg6Tr5kAejn7pON6) | [REMEMBER ME](https://open.spotify.com/album/4knnVaNOKU8OYLZxNDjTYY) | 3:24 |
 | 13 | [Everything New!](https://open.spotify.com/track/5OjaxPok6yizxx08OnHGPV) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1) | [Everything New!](https://open.spotify.com/album/6ZN8gMlt5JkJ0gH3i8A1PJ) | 2:18 |
-| 14 | [Becoming](https://open.spotify.com/track/1lDtM5Nqoo45DzY1ftYLhd) | [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3) | [Becoming](https://open.spotify.com/album/3C4REww4VAXUkh4WpGDMAl) | 2:43 |
+| 14 | [Becoming](https://open.spotify.com/track/1lDtM5Nqoo45DzY1ftYLhd) | [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3) | [Becoming](https://open.spotify.com/album/3C4REww4VAXUkh4WpGDMAl) | 2:42 |
 | 15 | [Soli Deo Gloria](https://open.spotify.com/track/2bUGMRtFRUSxoDbhGtiutI) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Soli Deo Gloria](https://open.spotify.com/album/0QBE22A4wBg6TH3ajwRY5S) | 4:17 |
 | 16 | [Paper\-Maché](https://open.spotify.com/track/2owq5W4qdVVwTUqwwiud1d) | [Lloyd Nicks](https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh) | [Paper\-Maché](https://open.spotify.com/album/0SZl4SKFc6Dt984f9MyICb) | 3:09 |
 | 17 | [Amazing Grace](https://open.spotify.com/track/4jIeGLnr8EW9vP57lEZZ4e) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Amazing Grace](https://open.spotify.com/album/4Q4figToWWYSpahEbedraH) | 2:56 |

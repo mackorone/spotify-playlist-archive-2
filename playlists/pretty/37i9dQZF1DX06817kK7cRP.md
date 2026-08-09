@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,969 likes - 134 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,982 likes - 134 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,9 +136,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 | 126 | [Air Castles](https://open.spotify.com/track/35UFkxj74k0NpzuLfnUYIE) | [Mama Aiuto](https://open.spotify.com/artist/1PSOEqcIZLUk8nkWH2rr9x), [Daphné](https://open.spotify.com/artist/6s3ZnLuOA2OTJijcjriiOs) | [Green Memory Grass](https://open.spotify.com/album/00ZmLKljHmPHYtB3nJtDFX) | 2:05 |
 | 127 | [Peach Rings](https://open.spotify.com/track/3nt0tWlN3r4JPCqWBulqYS) | [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx), [Nosmoh](https://open.spotify.com/artist/7MZx3uoMDM7wE8An0kdHwa) | [Daybreak](https://open.spotify.com/album/4JBCzFSYDYV4tP0Ty07jOj) | 2:41 |
 | 128 | [Heatwave](https://open.spotify.com/track/03gunYpOFHu4swpyry4QKX) | [Danny James](https://open.spotify.com/artist/2v04CAaxpr6sSELBPMOkoQ), [Es\-K](https://open.spotify.com/artist/0Ece4RFAFNTEpYaTHZWuhe), [John Culbreth](https://open.spotify.com/artist/1KfQchWVE79W6evo9dDBUN) | [Heatwave](https://open.spotify.com/album/5ifo18NW9f8DwVhvpTNJLg) | 3:11 |
-| 129 | [Golden Age](https://open.spotify.com/track/1ZVi3Mfl9UO3i26SXU43Ta) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Golden Age](https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9) | 2:22 |
-| 130 | [Making It Rain](https://open.spotify.com/track/7pCnG3kLCGZwp4lGT5C2xm) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Making It Rain / Buckets](https://open.spotify.com/album/1xIEHNtF2PiFZmC9jK1N0z) | 2:27 |
-| 131 | [Amber](https://open.spotify.com/track/2vgb3IA5TbrEoenhqFdpmO) | [.Sinh](https://open.spotify.com/artist/0qRgQLC8mPlcJ5Zo6mlcuG), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9), [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF) | [Notes](https://open.spotify.com/album/5OWNwdm8CWn52XZUfTK5Ld) | 2:15 |
+| 129 | [Making It Rain](https://open.spotify.com/track/7pCnG3kLCGZwp4lGT5C2xm) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Making It Rain / Buckets](https://open.spotify.com/album/1xIEHNtF2PiFZmC9jK1N0z) | 2:27 |
+| 130 | [Amber](https://open.spotify.com/track/2vgb3IA5TbrEoenhqFdpmO) | [.Sinh](https://open.spotify.com/artist/0qRgQLC8mPlcJ5Zo6mlcuG), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9), [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF) | [Notes](https://open.spotify.com/album/5OWNwdm8CWn52XZUfTK5Ld) | 2:15 |
+| 131 | [Golden Age](https://open.spotify.com/track/1ZVi3Mfl9UO3i26SXU43Ta) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Golden Age](https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9) | 2:22 |
 | 132 | [Right The Wrongs](https://open.spotify.com/track/6U3eutbPaGTh57clKGJJze) | [L E F](https://open.spotify.com/artist/6OtbmwnrAgCOlEN9ZTugNV) | [Right The Wrongs](https://open.spotify.com/album/6j8q1j8BQInOLD0pBO89nW) | 2:34 |
 | 133 | [Gelato](https://open.spotify.com/track/7nhFat90m89TNhlHdqjOM5) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Easely EP](https://open.spotify.com/album/6vRg935QEJInaajnUHSF9t) | 2:17 |
 | 134 | [Bergamot](https://open.spotify.com/track/6WNRv5EhU3pi2kH71qoYuw) | [.Sinh](https://open.spotify.com/artist/0qRgQLC8mPlcJ5Zo6mlcuG), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Notes](https://open.spotify.com/album/5OWNwdm8CWn52XZUfTK5Ld) | 2:04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 
 > Aqui quem manda são elas! Ouça grandes MCs do hip hop nacional\. Foto: Jovem MK, Majis, CRYSTAYLE, MC KTRINE, Paola Spena
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,119 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,141 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

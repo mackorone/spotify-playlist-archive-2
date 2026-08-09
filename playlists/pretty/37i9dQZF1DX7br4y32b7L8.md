@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > \#fyp songs voor je playlist Cover: DJ LARITA, Afro Bros, Billy Dans & Carmell
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,614 likes - 61 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,641 likes - 61 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 17 | [Lemonade](https://open.spotify.com/track/5vEmp91Mv1X3ZW2AnpxpC3) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Lemonade](https://open.spotify.com/album/65qJlvvVCf44wnTqKMeaxq) | 2:09 |
 | 18 | [RUBBERZ](https://open.spotify.com/track/1iTBTk4xtwo4lBMcPVNoPh) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Purps On The Beat](https://open.spotify.com/artist/5Ti1bgVXlEFiheTsdiHhRd) | [RUBBERZ](https://open.spotify.com/album/5nh5SWvNLfdyPqJD5zvDNV) | 2:53 |
 | 19 | [Just The Way You Are](https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Just The Way You Are](https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y) | 2:39 |
-| 20 | [Punta cana](https://open.spotify.com/track/6zDGORdshSWpR5nYMnEUZH) | [ADF](https://open.spotify.com/artist/6VT2Npi6yGDqn3H07qI1DY), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Carel](https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX), [ADF Antje](https://open.spotify.com/artist/0CKK7htZL4Vhg1OycK8FFP), [Trapmoneybiggie](https://open.spotify.com/artist/2chklSpWYaRe261GLkvKrv) | [Punta cana \(feat\. ADF Antje & Trapmoneybiggie\)](https://open.spotify.com/album/3EZYBf3uZB5ilS6Olfammf) | 2:28 |
+| 20 | [PUNTA CANA](https://open.spotify.com/track/6zDGORdshSWpR5nYMnEUZH) | [ADF](https://open.spotify.com/artist/6VT2Npi6yGDqn3H07qI1DY), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [DJ DYLVN](https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l), [Carel](https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX), [ADF Antje](https://open.spotify.com/artist/0CKK7htZL4Vhg1OycK8FFP), [Trapmoneybiggie](https://open.spotify.com/artist/2chklSpWYaRe261GLkvKrv) | [Punta cana \(feat\. ADF Antje & Trapmoneybiggie\)](https://open.spotify.com/album/3EZYBf3uZB5ilS6Olfammf) | 2:28 |
 | 21 | [Beauty And A Beat](https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe \(Deluxe Edition\)](https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9) | 3:47 |
 | 22 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj) | 2:36 |
 | 23 | [On The Floor](https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Love?](https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE) | 4:44 |

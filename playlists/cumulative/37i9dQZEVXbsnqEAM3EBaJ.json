@@ -29486,7 +29486,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 204761,
       "name": "I'm Down - Live at Roosevelt Stadium, Jersey City, NJ, 6/17/1976",
       "url": "https://open.spotify.com/track/0lBb1UBpqjnnjL06c2utLL"
@@ -36602,7 +36602,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 236295,
       "name": "Livin' In A World Without You (feat. The Rasmus)",
       "url": "https://open.spotify.com/track/3slzozJrq6HmNLbslDP7H4"
@@ -37868,7 +37868,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 280757,
       "name": "Love Will Keep Us Alive (feat. The Rasmus)",
       "url": "https://open.spotify.com/track/0mo4vZVZDFs1IuDhu4cRaP"
@@ -44298,7 +44298,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 215967,
       "name": "Olias of Sunhillow (Excerpt) - Live at Roosevelt Stadium, Jersey City, NJ, 6/17/1976",
       "url": "https://open.spotify.com/track/57a6igA99PzVtahpvxhZ9X"
@@ -50674,7 +50674,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 421333,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/3ZXfxyxl4vMIUSg4CjgkhA"
@@ -53591,6 +53591,36 @@
     },
     {
       "album": {
+        "name": "Interplay Radio Episode 619",
+        "url": "https://open.spotify.com/album/1OiohB4ck91ihRjh37gTBE"
+      },
+      "artists": [
+        {
+          "name": "Ciaran McAuley",
+          "url": "https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi"
+        },
+        {
+          "name": "Azam Ali",
+          "url": "https://open.spotify.com/artist/5FjTtbpfWj8SBN3SGjkY0W"
+        },
+        {
+          "name": "Jeff Rona",
+          "url": "https://open.spotify.com/artist/7EVrVA4VnT3DGeyIZjWLRZ"
+        },
+        {
+          "name": "Eli",
+          "url": "https://open.spotify.com/artist/4FuLRxyXzv6w73J8FnWxig"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231828,
+      "name": "Serenity (Interplay 619) - Ciaran McAuley pres Eli Remix",
+      "url": "https://open.spotify.com/track/4G1OqvUp45C5hJTVFCdKEP"
+    },
+    {
+      "album": {
         "name": "Serenity (Ciaran McAuley pres. Eli Remix)",
         "url": "https://open.spotify.com/album/0YCBIXFDuSOzRMnfu7A461"
       },
@@ -53614,7 +53644,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 406000,
       "name": "Serenity - Ciaran McAuley, EL\u00cf Extended Remix",
       "url": "https://open.spotify.com/track/4vXBVJG5tOl3q7AdsMNOEo"
@@ -70266,6 +70296,24 @@
       "duration_ms": 260976,
       "name": "We'll Meet Again - Live 1988",
       "url": "https://open.spotify.com/track/3dA5SalnsGT8upC33BqsWG"
+    },
+    {
+      "album": {
+        "name": "Side",
+        "url": "https://open.spotify.com/album/441rOxvd0v0aRJdyCLn8aH"
+      },
+      "artists": [
+        {
+          "name": "Human Tetris",
+          "url": "https://open.spotify.com/artist/3wIDY01itbfdsQpMsyRZVG"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315328,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/45dRyIf6cnEPImhqpkXnOu"
     },
     {
       "album": {

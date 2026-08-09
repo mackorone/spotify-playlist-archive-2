@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from KAROL G x Bruno Mars, Amelie Lens x Angèle, Tayc x Didi B, Alex Warren and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,908 likes - 81 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,904 likes - 81 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

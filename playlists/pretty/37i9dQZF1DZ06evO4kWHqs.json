@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAACT4UOxa2EF3xHt4biTS4X8",
+  "snapshot_id": "anUgAAAAAABhEqg0dqFGxHxzyfpYfB9u",
   "tracks": [
     {
       "added_at": null,
@@ -627,18 +627,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me 10's",
-        "url": "https://open.spotify.com/album/7AjHCXA9aLlZSXrPNBnTji"
+        "name": "DRY CRY",
+        "url": "https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6"
       },
       "artists": [
         {
           "name": "SadBoi",
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
         }
       ],
-      "duration_ms": 116800,
-      "name": "Give Me 10's",
-      "url": "https://open.spotify.com/track/6LQztHqq9tpqEvJAcOh4Vy"
+      "duration_ms": 169208,
+      "name": "cunty (feat. Duquesa)",
+      "url": "https://open.spotify.com/track/4VZXiqqOV4fNg4IS2SecgL"
     },
     {
       "added_at": null,
@@ -663,22 +667,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DRY CRY",
-        "url": "https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6"
+        "name": "Give Me 10's",
+        "url": "https://open.spotify.com/album/7AjHCXA9aLlZSXrPNBnTji"
       },
       "artists": [
         {
           "name": "SadBoi",
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        },
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
         }
       ],
-      "duration_ms": 169208,
-      "name": "cunty (feat. Duquesa)",
-      "url": "https://open.spotify.com/track/4VZXiqqOV4fNg4IS2SecgL"
+      "duration_ms": 116800,
+      "name": "Give Me 10's",
+      "url": "https://open.spotify.com/track/6LQztHqq9tpqEvJAcOh4Vy"
     },
     {
       "added_at": null,
@@ -703,6 +703,26 @@
       "duration_ms": 142914,
       "name": "Blue Sky (feat. LYZZA & SadBoi)",
       "url": "https://open.spotify.com/track/5BDA6UhjGlZeIOfg5wpY68"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DRY CRY",
+        "url": "https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        },
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "L's",
+      "url": "https://open.spotify.com/track/0nftwM7FVkH2yFuWJMmh5P"
     },
     {
       "added_at": null,
@@ -743,26 +763,6 @@
       "duration_ms": 146548,
       "name": "U Dun Kno",
       "url": "https://open.spotify.com/track/4xBkOH8QEUSsrObywcUWyf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DRY CRY",
-        "url": "https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        },
-        {
-          "name": "Blanco",
-          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "L's",
-      "url": "https://open.spotify.com/track/0nftwM7FVkH2yFuWJMmh5P"
     },
     {
       "added_at": null,
@@ -871,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "whose fault",
-        "url": "https://open.spotify.com/album/6vyMro0Iy40nk9Y1ZdtEaz"
+        "name": "his sweater",
+        "url": "https://open.spotify.com/album/3j9430eB54S43NfA9JgXvV"
       },
       "artists": [
         {
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 126168,
-      "name": "whose fault",
-      "url": "https://open.spotify.com/track/2jiqncSuSFEoo7pxrA2aT1"
+      "duration_ms": 161400,
+      "name": "his sweater",
+      "url": "https://open.spotify.com/track/5wqDRHhLsthAPQXrwpzdEI"
     },
     {
       "added_at": null,
@@ -903,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "his sweater",
-        "url": "https://open.spotify.com/album/3j9430eB54S43NfA9JgXvV"
+        "name": "whose fault",
+        "url": "https://open.spotify.com/album/6vyMro0Iy40nk9Y1ZdtEaz"
       },
       "artists": [
         {
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 161400,
-      "name": "his sweater",
-      "url": "https://open.spotify.com/track/5wqDRHhLsthAPQXrwpzdEI"
+      "duration_ms": 126168,
+      "name": "whose fault",
+      "url": "https://open.spotify.com/track/2jiqncSuSFEoo7pxrA2aT1"
     },
     {
       "added_at": null,

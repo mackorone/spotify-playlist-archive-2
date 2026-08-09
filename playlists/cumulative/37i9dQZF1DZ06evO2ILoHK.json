@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Colourmeinkindness",
+        "url": "https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321415,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/1ilCZg0IzDbh5tdP0hyV37"
+    },
+    {
+      "album": {
         "name": "Breathe (alt version)",
         "url": "https://open.spotify.com/album/3SLx9AyAbtj8gFPlzLSlBI"
       },
@@ -250,7 +268,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 139130,
       "name": "Comfort",
       "url": "https://open.spotify.com/track/3hMDOqyTB73cXHaTnu9WhL"

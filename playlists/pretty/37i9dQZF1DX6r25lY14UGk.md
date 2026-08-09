@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Sesame Street
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,525 likes - 99 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,572 likes - 99 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

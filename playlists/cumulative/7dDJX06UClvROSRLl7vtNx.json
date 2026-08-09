@@ -3540,7 +3540,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 164000,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/2sKb6TTgeNNsvZ5b2c12iO"
@@ -4762,7 +4762,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 195164,
       "name": "Coasting",
       "url": "https://open.spotify.com/track/35zduYKb7Eh7ynK7RyKVix"
@@ -6310,6 +6310,28 @@
       "duration_ms": 178643,
       "name": "Do We Learn (From Broken Dreams)",
       "url": "https://open.spotify.com/track/3vmmSqgA61Ow0c4GFEpg7F"
+    },
+    {
+      "album": {
+        "name": "Do You Ever",
+        "url": "https://open.spotify.com/album/2gVQetCqlkTXIYf95OzJUt"
+      },
+      "artists": [
+        {
+          "name": "Panuma",
+          "url": "https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH"
+        },
+        {
+          "name": "Idun Nicoline",
+          "url": "https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134887,
+      "name": "Do You Ever",
+      "url": "https://open.spotify.com/track/1NjqQgPO0LsjKVZjFYf1tZ"
     },
     {
       "album": {
@@ -17100,6 +17122,24 @@
       "duration_ms": 173543,
       "name": "Love",
       "url": "https://open.spotify.com/track/3fSdGxtm9tod3B7LGMcc1P"
+    },
+    {
+      "album": {
+        "name": "Love (Don't Let Me Go)",
+        "url": "https://open.spotify.com/album/3T2nlYcJtwIAMH8Ky32Sta"
+      },
+      "artists": [
+        {
+          "name": "L.B. One",
+          "url": "https://open.spotify.com/artist/42D00VQsIgAb68LZK0zWYS"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159941,
+      "name": "Love (Don't Let Me Go)",
+      "url": "https://open.spotify.com/track/5hc56lMOxpabPSFUBPk7Mt"
     },
     {
       "album": {
@@ -28268,7 +28308,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 195855,
       "name": "The Unknown",
       "url": "https://open.spotify.com/track/6ePTPWzvKDysiFOPPFyltg"

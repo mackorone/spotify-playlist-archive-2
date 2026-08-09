@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,825 likes - 220 songs - 11 hr 9 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,826 likes - 227 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -222,11 +222,18 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 212 | [Day Over Night](https://open.spotify.com/track/09zHsEmES1XK4sawUvMzY7) | [Leyhausen](https://open.spotify.com/artist/4A3YHYnYKh3NOEewx8fE8z) | [Day Over Night](https://open.spotify.com/album/7aohC1rvldlwtAlJK6X21c) | 3:08 |
 | 213 | [A Box To Grow \(Burn\)](https://open.spotify.com/track/3zPOWzV3LP7rHbzWatCtrd) | [Ceramics](https://open.spotify.com/artist/4XtfdGn6rSGua0VIL79eFi) | [A Box To Grow \(Burn\)](https://open.spotify.com/album/2Rr0Qa4uFghLkP0B8UXNR8) | 3:00 |
 | 214 | [on me](https://open.spotify.com/track/7xRUVS3AP1QiMuDGh5OdW1) | [KYROZ](https://open.spotify.com/artist/7EvAOYSMHwqSkXBJrwBrny) | [on me](https://open.spotify.com/album/0cpIgqMRbeMVFAmLtVYWlA) | 2:27 |
-| 215 | [Don't Play with Fire](https://open.spotify.com/track/36Z7MHTZoR25HDvGpEoqYj) | [Fendi Efendi](https://open.spotify.com/artist/7eK1q2YvhATeTS3bH6MgJY) | [Don't Play with Fire](https://open.spotify.com/album/4hCXc3vRaU8LZmb3D1f93y) | 3:07 |
+| 215 | [Don't Play with Fire](https://open.spotify.com/track/36Z7MHTZoR25HDvGpEoqYj) | [Fendi Efendi](https://open.spotify.com/artist/6ONeyIk8dmIHnqYlID3uef) | [Don't Play with Fire](https://open.spotify.com/album/4hCXc3vRaU8LZmb3D1f93y) | 3:07 |
 | 216 | [Fly Away](https://open.spotify.com/track/6cjI0Hwsocw6aZYvn3Xr9g) | [Luca Mele](https://open.spotify.com/artist/4IDzZiQ5eLD1HpsLtKqkXQ) | [Fly Away](https://open.spotify.com/album/65a1UVUnP4D2TLo2OkxUah) | 3:12 |
 | 217 | [SATELLITES IN LOVE](https://open.spotify.com/track/433whUDqRLdB6lGSvS0nCD) | [CIRCA 99](https://open.spotify.com/artist/4NzBc7IjdrdtMp7Pbj1VWi) | [SATELLITES IN LOVE](https://open.spotify.com/album/6YusMAYuNoNspx6t03cdfr) | 2:57 |
 | 218 | [The Ambient Rhythm](https://open.spotify.com/track/2AA5NVq8GYQtzgQ6gR8D0S) | [Lil Cam 5 1](https://open.spotify.com/artist/1IMt4WYpEKfzXRHev8wlnb) | [Poetry Is In The Motion](https://open.spotify.com/album/4HIVge0yIMjPKf0XZ9KXBR) | 1:22 |
 | 219 | [Let's Dance](https://open.spotify.com/track/10yIfqlreo2Hu37eqKlmJh) | [Chris Ceee](https://open.spotify.com/artist/3xvbsexUenyFLSigMZ42fq) | [Let's Dance](https://open.spotify.com/album/4ZrUtzZMHfIJIdHo2omgq7) | 2:31 |
 | 220 | [Take me or leave me](https://open.spotify.com/track/6XKIcXRuqMhaP0hLJmrhJI) | [Kamil Koksa](https://open.spotify.com/artist/04pKt1XbNWhUv9qpWXIqPw) | [Take me or leave me](https://open.spotify.com/album/5r4hwAhcBzy1KYHaTIsPo2) | 2:56 |
+| 221 | [Triangle \- Radio Edit](https://open.spotify.com/track/543GCJ4pha6NR5nKOY0dg0) | [NuSkript](https://open.spotify.com/artist/3HaDs5KOPlKWZoSawrsihg) | [Between the Lines](https://open.spotify.com/album/2sVf0v0ZWYwlBdVMWMV5d6) | 3:03 |
+| 222 | [This Is Your Life \- Radio Edit](https://open.spotify.com/track/11EVC4AaUTn0lw8srOW9dA) | [Ben Teal](https://open.spotify.com/artist/54V4Kp3UzknXS0R2AXOwfF) | [This Is Your Life](https://open.spotify.com/album/244hFKTiO78mnoYc5SNtMo) | 2:29 |
+| 223 | [What Should I Name This](https://open.spotify.com/track/2TgLzxlqxUIwWaB48gk2Gz) | [Lil Cam 5 1](https://open.spotify.com/artist/1IMt4WYpEKfzXRHev8wlnb) | [What Should I Name This](https://open.spotify.com/album/5UCy77QScrnxdDPHdWUdF1) | 2:43 |
+| 224 | [Tell Me More \(Live from the Wrong Timeline\)](https://open.spotify.com/track/4rOCHEeyxFIROj8aFDGRn4) | [Skyler 404](https://open.spotify.com/artist/30nlJtNzPne652Z6QHWtPE) | [Tell Me More \(live version\)](https://open.spotify.com/album/0Uqwy1EZthpaBTCFsesmqK) | 3:37 |
+| 225 | [Suno Killed The Analog Star](https://open.spotify.com/track/2VDLHk7gpJ0nHKTTBCbTQi) | [Lil Cam 5 1](https://open.spotify.com/artist/1IMt4WYpEKfzXRHev8wlnb) | [Suno Killed The Analog Star](https://open.spotify.com/album/7ra15JBCLcLgh0ErYqwaol) | 3:29 |
+| 226 | [We're There](https://open.spotify.com/track/1dd0FKj77F6GV7s26ypcw8) | [Lil Cam 5 1](https://open.spotify.com/artist/1IMt4WYpEKfzXRHev8wlnb) | [We're There](https://open.spotify.com/album/6jkZSAT6RBxtuProjX5WsE) | 1:46 |
+| 227 | [Picture People \- Live with Orchestra](https://open.spotify.com/track/7a0v60WJ3mfOjeNGtEdi8C) | [THELIOS](https://open.spotify.com/artist/6Ihtg3drn9LpLO1f1QWEGu), [Child](https://open.spotify.com/artist/7DnZ5HljfpX93xMXHywtF6), [Zentralschweizer Jugendsinfonieorchester](https://open.spotify.com/artist/1Gls995GcYI5SIipyn3DZ5) | [Picture People \(Live with Orchestra\)](https://open.spotify.com/album/6MZYMjKZ9yzO6R2CTNiO1T) | 3:09 |
 
-Snapshot ID: `AAA7P2FS0Z57asUjjLmn61wGjkdDEnKl`
+Snapshot ID: `AAA7Ro4JOs5RAbAqsO/aSwVOfTu7adXB`

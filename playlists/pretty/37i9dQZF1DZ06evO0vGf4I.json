@@ -1,12 +1,12 @@
 {
   "description": "This is Travis Scott. The essential tracks, all in one playlist.",
-  "num_followers": 1633362,
+  "num_followers": 1633373,
   "original_name": "This Is Travis Scott",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAABhvY82ZNEvExq+GScY2vpP",
+  "snapshot_id": "anUgAAAAAAAA4dBrkrGUopl2NoyZtqAU",
   "tracks": [
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 150043,
-      "name": "YOSEMITE",
-      "url": "https://open.spotify.com/track/7lAK3oHbfEnvUQWosrMMpR"
+      "duration_ms": 198408,
+      "name": "CAN'T SAY",
+      "url": "https://open.spotify.com/track/27a1mYSG5tYg7dmEjWBcmL"
     },
     {
       "added_at": null,
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 198408,
-      "name": "CAN'T SAY",
-      "url": "https://open.spotify.com/track/27a1mYSG5tYg7dmEjWBcmL"
+      "duration_ms": 150043,
+      "name": "YOSEMITE",
+      "url": "https://open.spotify.com/track/7lAK3oHbfEnvUQWosrMMpR"
     },
     {
       "added_at": null,

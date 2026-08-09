@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Lucero
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,432 likes - 111 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,442 likes - 111 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 104 | [SI TÚ ERES MI HOMBRE Y YO TU MUJER \- EN VIVO](https://open.spotify.com/track/0E2Nw0aA2F5cHRybVGHhNP) | [Liz Ocampo](https://open.spotify.com/artist/41T07jnEGtuRN46wy778zx) | [SI TÚ ERES MI HOMBRE Y YO TU MUJER \(EN VIVO\)](https://open.spotify.com/album/4YnzTMA71h2DvfNSGhPk3w) | 3:53 |
 | 105 | [Amé](https://open.spotify.com/track/5fWOE0l5UDeNo2TkNOMpFL) | [Ximena Ocampo](https://open.spotify.com/artist/3NWb6W7xGBAxFUGp2e21ho) | [Noche Bohemia](https://open.spotify.com/album/7FbLBvk0oXvWPPEsNYduH4) | 4:11 |
 | 106 | [La Bruta \- En Vivo](https://open.spotify.com/track/163temcvEe9TOytyKIBM0r) | [Perla Valenzuela](https://open.spotify.com/artist/7lGS8PPqjf2dH9NOotYNxH) | [La Bruta \(En Vivo\)](https://open.spotify.com/album/2c0n8wO3gVg2WhmOIUtpGA) | 2:54 |
-| 107 | [Que Te Cambie La Suerte](https://open.spotify.com/track/6Nizs15mTJ4fpYmBW2MIV2) | [Briseyda Solis](https://open.spotify.com/artist/06TVyjDIGaOlWTLAf5M6oi) | [Que Te Cambie La Suerte](https://open.spotify.com/album/2duxFBKEQTlUXKLwqM3fpZ) | 3:27 |
-| 108 | [Amor Migajero](https://open.spotify.com/track/7A0uJAjQ3oH8lsDhDF8g0m) | [Alejandra Mango](https://open.spotify.com/artist/5fgxNxx4wLPlyGSvHH0LSo) | [Amor Migajero](https://open.spotify.com/album/1DnyW8BiuysCcr6RgnRXEf) | 2:56 |
+| 107 | [Amor Migajero](https://open.spotify.com/track/7A0uJAjQ3oH8lsDhDF8g0m) | [Alejandra Mango](https://open.spotify.com/artist/5fgxNxx4wLPlyGSvHH0LSo) | [Amor Migajero](https://open.spotify.com/album/1DnyW8BiuysCcr6RgnRXEf) | 2:56 |
+| 108 | [Que Te Cambie La Suerte](https://open.spotify.com/track/6Nizs15mTJ4fpYmBW2MIV2) | [Briseyda Solis](https://open.spotify.com/artist/06TVyjDIGaOlWTLAf5M6oi) | [Que Te Cambie La Suerte](https://open.spotify.com/album/2duxFBKEQTlUXKLwqM3fpZ) | 3:27 |
 | 109 | [Mi México \(Radio Edit\)](https://open.spotify.com/track/2Ba99BWC1xQ0sVn2TP5lAf) | [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN) | [Canciones Sin Tiempo](https://open.spotify.com/album/0uKJ1IJ62Bx0xvy4pdXD1y) | 2:59 |
 | 110 | [Llámame](https://open.spotify.com/track/3epYKxNu8M9NWbQw4xGSBQ) | [Ximena Castillo](https://open.spotify.com/artist/2nwTpQh0MCA68YOmNw5TJC) | [Llámame](https://open.spotify.com/album/2iiS8LdnVfyNSs2yrtdC4X) | 3:12 |
 | 111 | [El Conejo De La Luna](https://open.spotify.com/track/0mOoIPkofPXdxAC4ZIjt34) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Mariachi Romanza de Rodrigo Rodriguez](https://open.spotify.com/artist/7CDk4Vxdjm4mXXqgXbscyL) | [Run Gūey](https://open.spotify.com/album/1uPT6nqizAziQXfE3asZqt) | 3:38 |

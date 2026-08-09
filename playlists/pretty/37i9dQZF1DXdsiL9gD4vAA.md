@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,155 likes - 75 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,196 likes - 75 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 69 | [Ab Ke Tajdeed](https://open.spotify.com/track/0PCZxQpYkk493Apz9oBOXG) | [Akshay Dabhadkar](https://open.spotify.com/artist/2Upf6WojA7HrgTi2PACRaN), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Ab Ke Tajdeed](https://open.spotify.com/album/5Uquc5yiGw4Tgp1bRcilG3) | 4:48 |
 | 70 | [Dil Ke Behlane Ki](https://open.spotify.com/track/0j8bQyja91hw3OM4GaTx37) | [Gayatri Asokan](https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK) | [Dil Ke Behlane Ki](https://open.spotify.com/album/48AZkKOndaRtYysnmyWqnl) | 3:44 |
 | 71 | [Tere Naina](https://open.spotify.com/track/79W60eqjZUix0MLbNKHXFw) | [Suraj Bhartti](https://open.spotify.com/artist/6PfVdIgCgiV31RiOPgJGkG) | [Tere Naina](https://open.spotify.com/album/0JwYOcs056DFfR8YzTtJGu) | 4:36 |
-| 72 | [Hum Bhi Tum Bhi](https://open.spotify.com/track/27DSXISrpyBlMFQndmKVbJ) | [Anurag Sharma](https://open.spotify.com/artist/0RD2rIVPpv1UUggDFAqFd4) | [Hum Bhi Tum Bhi](https://open.spotify.com/album/6L0s6jok49CK1AkK8vnAmM) | 3:53 |
-| 73 | [Main Khayal Hoo](https://open.spotify.com/track/24Vy5CToYsC5yvxhk6vNnx) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Ghazals](https://open.spotify.com/album/7uqpHCXyHSUqiWEtWQ4t5x) | 6:10 |
+| 72 | [Main Khayal Hoo](https://open.spotify.com/track/24Vy5CToYsC5yvxhk6vNnx) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Ghazals](https://open.spotify.com/album/7uqpHCXyHSUqiWEtWQ4t5x) | 6:10 |
+| 73 | [Hum Bhi Tum Bhi](https://open.spotify.com/track/27DSXISrpyBlMFQndmKVbJ) | [Anurag Sharma](https://open.spotify.com/artist/0RD2rIVPpv1UUggDFAqFd4) | [Hum Bhi Tum Bhi](https://open.spotify.com/album/6L0s6jok49CK1AkK8vnAmM) | 3:53 |
 | 74 | [Wajah Dhoondh Rahi Hoon](https://open.spotify.com/track/6S9QMBT09F27PmBSttpQ0m) | [Rubai](https://open.spotify.com/artist/6tBTqKtxRUei3EWE8sl10r), [Gufy](https://open.spotify.com/artist/6fGoY0h9sQa81gzIw3e6Qv) | [Wajah Dhoondh Rahi Hoon](https://open.spotify.com/album/38CLfNETJOIYjRCz9ug5fe) | 3:46 |
 | 75 | [Isse Pehle](https://open.spotify.com/track/4KCtJWeuJTh4n7geCGG4nO) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Ahmad Faraz](https://open.spotify.com/artist/2LJEfT1Ljm07p3iAU2Gclr) | [Fauji 2](https://open.spotify.com/album/6cxpqLhzdx09wp7qRfLp8B) | 4:16 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of all the genres of Christian & Gospel music!  Cover: Sarai Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,282 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,295 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 31 | [At The Cross](https://open.spotify.com/track/1IAhLdE6jDVfLyV10b68cG) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [At The Cross](https://open.spotify.com/album/7IYkLgcSw21e6uBRiXJKHI) | 3:39 |
 | 32 | [Full 180](https://open.spotify.com/track/0E3wOAQr8WfP3zSbTjuKpG) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Full 180](https://open.spotify.com/album/1sU8oLWvSLNfkxCfBYfiRh) | 2:55 |
 | 33 | [Stay Here](https://open.spotify.com/track/2S4HKddVaa6hK6jaLcAtDZ) | [Bri Babineaux](https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF) | [Briana](https://open.spotify.com/album/5PVBgsc821POgqQ1dBcQ8i) | 3:51 |
-| 34 | [Becoming](https://open.spotify.com/track/1lDtM5Nqoo45DzY1ftYLhd) | [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3) | [Becoming](https://open.spotify.com/album/3C4REww4VAXUkh4WpGDMAl) | 2:43 |
+| 34 | [Becoming](https://open.spotify.com/track/1lDtM5Nqoo45DzY1ftYLhd) | [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3) | [Becoming](https://open.spotify.com/album/3C4REww4VAXUkh4WpGDMAl) | 2:42 |
 | 35 | [Give Me Joy](https://open.spotify.com/track/65g5hAMnsr9Zug4vGWrPgS) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Give Me Joy](https://open.spotify.com/album/6sTnl17phWJeWoEMOm3wQ7) | 4:43 |
 | 36 | [I'm Going](https://open.spotify.com/track/1x7ymQpO53Ln9wiTDTTbmM) | [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [I'm Going](https://open.spotify.com/album/2hGXHWbl2zxJmfZpzBnc2X) | 3:59 |
 | 37 | [121](https://open.spotify.com/track/2BY91hDa8x9KOdqANAUEHW) | [Elyssa Figueroa](https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l) | [121](https://open.spotify.com/album/6HUjGX2FG08WsjYzcHqBp8) | 4:37 |

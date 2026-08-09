@@ -836,7 +836,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 286026,
       "name": "Always Everything",
       "url": "https://open.spotify.com/track/48CU1fIgGHmuLgtQacWqh4"
@@ -3315,6 +3315,24 @@
     },
     {
       "album": {
+        "name": "Games of the XXI Olympiad",
+        "url": "https://open.spotify.com/album/0hGtugyrMPDtalaYPbuF1I"
+      },
+      "artists": [
+        {
+          "name": "Black Cab",
+          "url": "https://open.spotify.com/artist/0VcbeRonbiXxtXv98HXi56"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280541,
+      "name": "Combat Boots",
+      "url": "https://open.spotify.com/track/1rAjkYvW55s8G9Nlu1d4Ea"
+    },
+    {
+      "album": {
         "name": "Come Away With Me",
         "url": "https://open.spotify.com/album/6Hz5supO2FCCiOicqBTbxQ"
       },
@@ -5160,7 +5178,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 292602,
       "name": "Eccentric",
       "url": "https://open.spotify.com/track/2RPkIwbzMR0Pk4nLNEMZaF"
@@ -5355,6 +5373,24 @@
     },
     {
       "album": {
+        "name": "Impact",
+        "url": "https://open.spotify.com/album/0m5P0elmnYpzajYbQmdUOh"
+      },
+      "artists": [
+        {
+          "name": "Marmur",
+          "url": "https://open.spotify.com/artist/0T0MyNurrWxY2I31EoKrU2"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313928,
+      "name": "Ember",
+      "url": "https://open.spotify.com/track/6f3VIa4jtkRjZtacDdmzsY"
+    },
+    {
+      "album": {
         "name": "Embers Are My Crown",
         "url": "https://open.spotify.com/album/7pRniM5SuqfWgqFTpzpyWC"
       },
@@ -5388,6 +5424,24 @@
       "duration_ms": 277626,
       "name": "Encouragement",
       "url": "https://open.spotify.com/track/4xnUGPmXaszCcVEIAWrdyC"
+    },
+    {
+      "album": {
+        "name": "Endless Lovers Story",
+        "url": "https://open.spotify.com/album/1j9v4IgMHmYDlCPzxm8Rdx"
+      },
+      "artists": [
+        {
+          "name": "Rorschach",
+          "url": "https://open.spotify.com/artist/3hBNt22u2iu8Xu4bpMtOaA"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260079,
+      "name": "Endless Lovers Story",
+      "url": "https://open.spotify.com/track/6haxQP3HmWLc3ccN8d6KGm"
     },
     {
       "album": {
@@ -5608,7 +5662,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 264906,
       "name": "Exit Body - Exit Mind",
       "url": "https://open.spotify.com/track/2Y8DFWHWIrj8e2YBLRKutf"
@@ -8798,7 +8852,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 236843,
       "name": "Interval",
       "url": "https://open.spotify.com/track/42DhpGWoPU1cPjoK0usfTK"
@@ -9360,7 +9414,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 186803,
       "name": "Just Like Honey",
       "url": "https://open.spotify.com/track/4468rcPpL0NyU9uu2NCPQm"
@@ -12511,6 +12565,24 @@
     },
     {
       "album": {
+        "name": "Everywhere I Go Is Silence",
+        "url": "https://open.spotify.com/album/6uyHia5YvgDjbLAyRP2DTg"
+      },
+      "artists": [
+        {
+          "name": "Box And The Twins",
+          "url": "https://open.spotify.com/artist/6CtrtybA3qx7crB67ZHy6z"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293750,
+      "name": "Perfume Well",
+      "url": "https://open.spotify.com/track/5rjUPdlJ02ARcI8izdrc4S"
+    },
+    {
+      "album": {
         "name": "Pet",
         "url": "https://open.spotify.com/album/4Qi205DGFBRe5oVors4uTi"
       },
@@ -12816,7 +12888,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 302000,
       "name": "Pretty Privilege",
       "url": "https://open.spotify.com/track/4Pe9cgCDHwmZOH6afOYPLE"
@@ -13228,7 +13300,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 272118,
       "name": "Refugium",
       "url": "https://open.spotify.com/track/3gTzcWZTrxg1xU909TYKmq"
@@ -13358,6 +13430,28 @@
       "duration_ms": 256264,
       "name": "Revelation",
       "url": "https://open.spotify.com/track/5Wejm3L4dqlEhmqfLd66n1"
+    },
+    {
+      "album": {
+        "name": "FATE",
+        "url": "https://open.spotify.com/album/692GYdYEPVyPoPCmifpqmw"
+      },
+      "artists": [
+        {
+          "name": "SCYTHE",
+          "url": "https://open.spotify.com/artist/3eYM1T2JiaygD6pmS2cfCk"
+        },
+        {
+          "name": "Crossparty",
+          "url": "https://open.spotify.com/artist/6fYvyj8razige7PRfHoi9c"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257678,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/2jFA4wH9BKIIvz1B10zixk"
     },
     {
       "album": {
@@ -14202,7 +14296,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 190000,
       "name": "Shadow Projection",
       "url": "https://open.spotify.com/track/7tlIYcO8HcsXn0FM8niJAx"
@@ -16010,7 +16104,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 240744,
       "name": "Sweet Nightmare",
       "url": "https://open.spotify.com/track/3FCyLMarwPGkjLi9TWbgcO"
@@ -16752,7 +16846,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 199636,
       "name": "The Girl In Room 9",
       "url": "https://open.spotify.com/track/7683Gi3KrQNDnVaUyB0Du4"
@@ -19514,6 +19608,28 @@
       "duration_ms": 219840,
       "name": "Where The Bubbles Rise",
       "url": "https://open.spotify.com/track/1f51VHAE7BIiWy2oUlErCU"
+    },
+    {
+      "album": {
+        "name": "Where the Stars are Swallowed by the Mist",
+        "url": "https://open.spotify.com/album/7hrq35hWS4vPE6Z4i6OQOr"
+      },
+      "artists": [
+        {
+          "name": "Storm Kingdom",
+          "url": "https://open.spotify.com/artist/5XgHWolhNhGCCYkTbmDtFY"
+        },
+        {
+          "name": "Across the Frostlands",
+          "url": "https://open.spotify.com/artist/65m1udpn7yPQe04sDRH55y"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296045,
+      "name": "Where the Stars are Swallowed by the Mist",
+      "url": "https://open.spotify.com/track/3KkovUPqM3W0FaBOVSXvyO"
     },
     {
       "album": {

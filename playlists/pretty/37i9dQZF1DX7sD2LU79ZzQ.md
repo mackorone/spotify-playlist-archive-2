@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Lafa Pratomo, Feby Putri, Matter Mos
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,828 likes - 113 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,849 likes - 113 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

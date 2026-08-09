@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,773 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,829 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 87 | [H I M](https://open.spotify.com/track/3OGNJCG3qpQmPbHTfkFWLf) | [Louis Amanti](https://open.spotify.com/artist/00qkKppMjnPRz16SLZekPu) | [H I M](https://open.spotify.com/album/0LUSruguMIMs9obYyOIEyi) | 3:40 |
 | 88 | [Wake up Everybody](https://open.spotify.com/track/1Ms6GZ1xSR0Pd5i65s5bvk) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Wake up Everybody](https://open.spotify.com/album/2j6xisFb0opzqbMyX7JdWN) | 4:54 |
 | 89 | [Snowflakes](https://open.spotify.com/track/3Hbylm12DZXnOJQBdBkOaf) | [Jorunn Westeraas](https://open.spotify.com/artist/6h4qPRsCLMPKVrW7nbLn18), [Hege Saugstad](https://open.spotify.com/artist/5qsnbEMK2eQMFSAyP6BsNT), [Monika Gellein Mathisen](https://open.spotify.com/artist/4ItYdjOC69BL5Y6yETcTym) | [Snowflakes](https://open.spotify.com/album/7M6CJaL7NXBG7EWRnsizuI) | 3:44 |
-| 90 | [Sleepy Time](https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr) | [Imajjine](https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL) | [Sleepy Time](https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV) | 2:38 |
-| 91 | [There is a place](https://open.spotify.com/track/5hGtLvLqN33BWKzNtEguUB) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf) | [There is a place](https://open.spotify.com/album/1GQuklEK5WQisonLLQJjqG) | 4:07 |
-| 92 | [Catwoman](https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE) | [Stephanie Domet](https://open.spotify.com/artist/03vbrO2FBrwjmzWk9ukzSZ) | [Catwoman](https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj) | 3:31 |
-| 93 | [It's Complicated](https://open.spotify.com/track/7s2Y7jBaXuAEy8iGkaFGS2) | [Andy Jordan](https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj) | [It's Complicated](https://open.spotify.com/album/7rIEAwoVxuIs8iXJMfuA80) | 3:28 |
-| 94 | [Thinking of You](https://open.spotify.com/track/2uqVepDuWS6R39JMwIxUuW) | [Wilson's Prom](https://open.spotify.com/artist/0bOBdnpYotkdGUEdcFoa9M), [Feelds](https://open.spotify.com/artist/74W4mKE9RR576xVZiMGE8W), [Merpire](https://open.spotify.com/artist/453zlrMQd9y8WApAIe9tkV) | [Thinking of You](https://open.spotify.com/album/5UZgnCc9E19cfNuhLKD2Pg) | 3:04 |
-| 95 | [Before I Do](https://open.spotify.com/track/2oSH6sOAP0YOq6qMuO0ZMK) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:18 |
+| 90 | [Thinking of You](https://open.spotify.com/track/2uqVepDuWS6R39JMwIxUuW) | [Wilson's Prom](https://open.spotify.com/artist/0bOBdnpYotkdGUEdcFoa9M), [Feelds](https://open.spotify.com/artist/74W4mKE9RR576xVZiMGE8W), [Merpire](https://open.spotify.com/artist/453zlrMQd9y8WApAIe9tkV) | [Thinking of You](https://open.spotify.com/album/5UZgnCc9E19cfNuhLKD2Pg) | 3:04 |
+| 91 | [Sleepy Time](https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr) | [Imajjine](https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL) | [Sleepy Time](https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV) | 2:38 |
+| 92 | [There is a place](https://open.spotify.com/track/5hGtLvLqN33BWKzNtEguUB) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf) | [There is a place](https://open.spotify.com/album/1GQuklEK5WQisonLLQJjqG) | 4:07 |
+| 93 | [Before I Do](https://open.spotify.com/track/2oSH6sOAP0YOq6qMuO0ZMK) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:18 |
+| 94 | [Catwoman](https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE) | [Stephanie Domet](https://open.spotify.com/artist/03vbrO2FBrwjmzWk9ukzSZ) | [Catwoman](https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj) | 3:31 |
+| 95 | [It's Complicated](https://open.spotify.com/track/7s2Y7jBaXuAEy8iGkaFGS2) | [Andy Jordan](https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj) | [It's Complicated](https://open.spotify.com/album/7rIEAwoVxuIs8iXJMfuA80) | 3:28 |
 | 96 | [If I'd Had Your Heart](https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c) | [Untitled Band](https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I) | [Reverie](https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ) | 3:49 |
 | 97 | [Your Hands](https://open.spotify.com/track/0wPGEY8OnnC8VXXAqitxVc) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/2jHSlpoC38GtuXY3xwLRng) | 4:53 |
-| 98 | [Take Me Off to Dreamland](https://open.spotify.com/track/1oMnqVt779JEPlsLPZyql7) | [Imajjine](https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL) | [Take Me Off to Dreamland](https://open.spotify.com/album/0EmfCjSWHg8evy7OS31JGC) | 4:48 |
-| 99 | [I Can’t Make You Love Me](https://open.spotify.com/track/3qFYOX9Rmu5OsEiqGLZva0) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [I Can’t Make You Love Me](https://open.spotify.com/album/1sn4P6Jxru5Yph7lNqXLoz) | 5:03 |
-| 100 | [The Birds and the Bees](https://open.spotify.com/track/5skQwY8m3gZ1LUg0ZXlpgb) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:50 |
+| 98 | [The Birds and the Bees](https://open.spotify.com/track/5skQwY8m3gZ1LUg0ZXlpgb) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:50 |
+| 99 | [Take Me Off to Dreamland](https://open.spotify.com/track/1oMnqVt779JEPlsLPZyql7) | [Imajjine](https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL) | [Take Me Off to Dreamland](https://open.spotify.com/album/0EmfCjSWHg8evy7OS31JGC) | 4:48 |
+| 100 | [I Can’t Make You Love Me](https://open.spotify.com/track/3qFYOX9Rmu5OsEiqGLZva0) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [I Can’t Make You Love Me](https://open.spotify.com/album/1sn4P6Jxru5Yph7lNqXLoz) | 5:03 |
 
 Snapshot ID: `AAAAAIVjzqRwwX8gvk2I4TEdU3PLoEXi`

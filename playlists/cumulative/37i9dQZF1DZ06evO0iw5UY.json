@@ -308,7 +308,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 219026,
       "name": "Can't Control Myself",
       "url": "https://open.spotify.com/track/16tUjfbOz2vzcOC9KlMMfz"
@@ -1624,6 +1624,24 @@
       "duration_ms": 191420,
       "name": "TH2C",
       "url": "https://open.spotify.com/track/5vnxTBEsJQs090J05EQl7X"
+    },
+    {
+      "album": {
+        "name": "the blueprint",
+        "url": "https://open.spotify.com/album/2NET7sWOvYpiFKtrQwpWLc"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190603,
+      "name": "the blueprint",
+      "url": "https://open.spotify.com/track/5CpV2AyTNHN0HLb9tzLktS"
     },
     {
       "album": {

@@ -2558,10 +2558,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 248013,
       "name": "Something I Said",
       "url": "https://open.spotify.com/track/0lhU93mkq0mpXOO6GYKAOU"
+    },
+    {
+      "album": {
+        "name": "Something I Said",
+        "url": "https://open.spotify.com/album/2IUckyI6j37ShT0rgQGGWd"
+      },
+      "artists": [
+        {
+          "name": "Moli",
+          "url": "https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248013,
+      "name": "Something I Said",
+      "url": "https://open.spotify.com/track/6G580OEhNGxpoIhESLGJer"
     },
     {
       "album": {

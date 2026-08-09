@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena! Foto: La Descendencia Chilena
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,028 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,065 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 82 | [Amor Salvaje](https://open.spotify.com/track/0lMyqrSIdwDgOfBOMN4AeU) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U), [LOS FLORES DE YUNGAY](https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD) | [Amor Salvaje](https://open.spotify.com/album/3OlgaCIkeTik7DXfCzI0R4) | 5:07 |
 | 83 | [Mix del Recuerdo \- Que de Raro Tiene/El Tío Borrachales /Tragos de Amargo Licor / El Mil Amores 1](https://open.spotify.com/track/0RTPEIJqt0hcGMzwjQ6CrT) | [Grupo el duelo](https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv) | [Mix del Recuerdo](https://open.spotify.com/album/0wqOsDjQf1WsBqOKYjI1bt) | 5:03 |
 | 84 | [De los Besos Que Te Di](https://open.spotify.com/track/4LUaS5jz52YHteRwv6HClW) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU) | [De los Besos Que Te Di](https://open.spotify.com/album/7C6m8Ksv2KePPs31KhrWpD) | 2:43 |
-| 85 | [El Cabro Curao](https://open.spotify.com/track/0f9eUTpRbz2KxLN6ZzEXCF) | [Los Villanos de Coltauco](https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk) | [El Cabro Curao](https://open.spotify.com/album/4K0oyBxGYlW7jEpTre1yOj) | 3:06 |
+| 85 | [Estoy Con Otro en la Cama](https://open.spotify.com/track/5LOhedbcSswrPBsfMpRGnN) | [Las Patronas de Chile](https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk) | [Estoy Con Otro en la Cama](https://open.spotify.com/album/7xECaOAPUu81Mz8AQCgwY1) | 3:19 |
 | 86 | [Palomita de Alas Blancas](https://open.spotify.com/track/3Zh8ZpBFRe8OBSNdxTY4VG) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [Palomita de Alas Blancas](https://open.spotify.com/album/3ntXjITCrt7BlOgTVith78) | 1:55 |
-| 87 | [Estoy Con Otro en la Cama](https://open.spotify.com/track/5LOhedbcSswrPBsfMpRGnN) | [Las Patronas de Chile](https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk) | [Estoy Con Otro en la Cama](https://open.spotify.com/album/7xECaOAPUu81Mz8AQCgwY1) | 3:19 |
+| 87 | [El Cabro Curao](https://open.spotify.com/track/0f9eUTpRbz2KxLN6ZzEXCF) | [Los Villanos de Coltauco](https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk) | [El Cabro Curao](https://open.spotify.com/album/4K0oyBxGYlW7jEpTre1yOj) | 3:06 |
 | 88 | [La Vida No Vale Nada](https://open.spotify.com/track/1nPSdGeHjbW8MLhburOjs7) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U) | [La Vida No Vale Nada](https://open.spotify.com/album/6F4yHIATU6fAEsSnUUlyuC) | 3:24 |
 | 89 | [Los Mandados](https://open.spotify.com/track/0Lwi83xdc4c31ACSrezAqT) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU) | [Los Mandados](https://open.spotify.com/album/0DKgDIESuYHyMCRtoPrSjw) | 3:17 |
 | 90 | [La Micaela](https://open.spotify.com/track/0Ftlv1wH2frm0dQ75jsEbi) | [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [La Micaela](https://open.spotify.com/album/63JxxwL5j49odPATTA2PPT) | 3:15 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 94 | [Heroica Matamoro](https://open.spotify.com/track/5QEhl8Q4J86rbiKWo3ihZ8) | [Los Super Rancheros](https://open.spotify.com/artist/4UWijF2yUrmtdhVZQ9Jie3), [Aquiles Salas](https://open.spotify.com/artist/6ndTfundAyvdOLwfhdkNLc), [German meza](https://open.spotify.com/artist/33JyGRE0aoE4VVsc3YDX7W), [Alejandro Ramirez](https://open.spotify.com/artist/0f4LDQu2Wo0MdWjH7Kcms5), [Pedro Toledo](https://open.spotify.com/artist/4W42QCkcQNUo5TePWWTVvb), [Felipe Huenteñanco](https://open.spotify.com/artist/0QBFa0YTKTkz9ltTqWYgc5) | [Que Milagro Chaparrita](https://open.spotify.com/album/2RqDzWaYPzUhV8E7EwImN8) | 2:52 |
 | 95 | [La Sustancia](https://open.spotify.com/track/1z36T7YUnNnuEjhaTFkTRk) | [Los Súper Sicarios](https://open.spotify.com/artist/0aGvFAZ4mcb0ol4Acc0kk4) | [La Sustancia](https://open.spotify.com/album/6WzUzJJ94oV4CppZb9rdd1) | 3:26 |
 | 96 | [En las Cantinas](https://open.spotify.com/track/119sdfjLdMUYwDenaxhcjF) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [En las Cantinas](https://open.spotify.com/album/6qPi1a0ULXJSvbRlMEmkvL) | 2:49 |
-| 97 | [Dame una Respuesta](https://open.spotify.com/track/43IZE1ADlu0YHtYWDOHqsj) | [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Dame una Respuesta](https://open.spotify.com/album/2kyt4HXFRO29nVujrMkl2B) | 3:43 |
-| 98 | [Anillo Grabado](https://open.spotify.com/track/6infY4q8h4b7FZcfKkFZtX) | [Furia Ranchera](https://open.spotify.com/artist/6pSGncstKllo6JhEGZ4Nvz) | [Anillo Grabado](https://open.spotify.com/album/76gwh4l3sby0LZsji6NSpC) | 4:12 |
-| 99 | [Vivo en Tinieblas](https://open.spotify.com/track/7gsqaAQnw82QZAkTWVc8Dt) | [Zumba Ranchera](https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu) | [Vivo en Tinieblas](https://open.spotify.com/album/6ixTedoHSZlAvXdoGqxjCZ) | 3:46 |
+| 97 | [Vivo en Tinieblas](https://open.spotify.com/track/7gsqaAQnw82QZAkTWVc8Dt) | [Zumba Ranchera](https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu) | [Vivo en Tinieblas](https://open.spotify.com/album/6ixTedoHSZlAvXdoGqxjCZ) | 3:46 |
+| 98 | [Dame una Respuesta](https://open.spotify.com/track/43IZE1ADlu0YHtYWDOHqsj) | [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Dame una Respuesta](https://open.spotify.com/album/2kyt4HXFRO29nVujrMkl2B) | 3:43 |
+| 99 | [Anillo Grabado](https://open.spotify.com/track/6infY4q8h4b7FZcfKkFZtX) | [Furia Ranchera](https://open.spotify.com/artist/6pSGncstKllo6JhEGZ4Nvz) | [Anillo Grabado](https://open.spotify.com/album/76gwh4l3sby0LZsji6NSpC) | 4:12 |
 | 100 | [Tio Borrachales](https://open.spotify.com/track/51RQ8sG1m8gldM1oEM0OkE) | [Los Súper Sicarios](https://open.spotify.com/artist/0aGvFAZ4mcb0ol4Acc0kk4) | [La Sustancia](https://open.spotify.com/album/6WzUzJJ94oV4CppZb9rdd1) | 2:53 |
 
-Snapshot ID: `AAAAAEFhqrkB4lOWCYKEQsP/uzW39ENC`
+Snapshot ID: `AAAAAMQi+jbVt//of2PuDVmC0o/3v2r7`

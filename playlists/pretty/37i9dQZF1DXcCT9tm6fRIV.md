@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,839 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,851 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 62 | [Fruta Amarga](https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Aldo Saralegui](https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:29 |
 | 63 | [Trenzas](https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2) | [Antología, Vol.2: Viejas Alegrias](https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS) | 3:24 |
 | 64 | [Fuimos \- En Vivo](https://open.spotify.com/track/3wN0brdVqbMYJdGJ0wD0Za) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Andrés Linetzky](https://open.spotify.com/artist/4KJdL42Z7VOZj01tWZCznH) | [Intimos, Vol\. 1 en vivo en Bebop](https://open.spotify.com/album/4KEVZmkt2zitBzugvPR0mg) | 5:20 |
-| 65 | [Todo Es Amor](https://open.spotify.com/track/1cj8FcBF6bs8mWXqAfwgoH) | [Cristian Chinellato](https://open.spotify.com/artist/3jcTbMxvNkZAzH52lzHsLy) | [Todo Es Amor](https://open.spotify.com/album/2kV8huoq9yaO65m6LeCkl5) | 4:13 |
-| 66 | [Soledad](https://open.spotify.com/track/0H4KhjWDe4TftcaXr6dFru) | [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE), [Kastiello](https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X) | [Castiellos](https://open.spotify.com/album/54xztW047EbGLz0wkr1QST) | 4:01 |
+| 65 | [Soledad](https://open.spotify.com/track/0H4KhjWDe4TftcaXr6dFru) | [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE), [Kastiello](https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X) | [Castiellos](https://open.spotify.com/album/54xztW047EbGLz0wkr1QST) | 4:01 |
+| 66 | [Todo Es Amor](https://open.spotify.com/track/1cj8FcBF6bs8mWXqAfwgoH) | [Cristian Chinellato](https://open.spotify.com/artist/3jcTbMxvNkZAzH52lzHsLy) | [Todo Es Amor](https://open.spotify.com/album/2kV8huoq9yaO65m6LeCkl5) | 4:13 |
 | 67 | [Tangos \(Arr\. Vidal\): Decaríssimo](https://open.spotify.com/track/05YK08skpEuov8RyVmMMPM) | [Pablo Mainetti](https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ), [Lluís Vidal](https://open.spotify.com/artist/0vVVbsITxDW6vAYpb6AqYH), [Orquestra De Cambra Teatre Lliure](https://open.spotify.com/artist/6Fn7bZEbHf7dwH8sEn54Tr), [Josep Pons](https://open.spotify.com/artist/1TlFTSPL1hXKUTjHIqqFvV) | [Piazzolla: Bandonéon Concerto; Tangos](https://open.spotify.com/album/5vnrz99hncA1GHJ9sAt4AN) | 2:43 |
 | 68 | [Si Tu Quisieras](https://open.spotify.com/track/627r41lcqFbypDLnKg9uuY) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2) | [Antología, Vol\. 3: Yuyo Verde](https://open.spotify.com/album/7kuPFrlocZ0Rgw6gBujNeT) | 2:13 |
 | 69 | [Loca bohemia](https://open.spotify.com/track/5pCCa6M4u3fbJXfiM3ddBq) | [Nestor Marconi Trio](https://open.spotify.com/artist/1G1S4RnaMY4LeQ6G04lKus), [Jorge "Portugues" Da Silva](https://open.spotify.com/artist/5nTwqgPRtI1pkoUeJilnIj) | [Bien de Arriba](https://open.spotify.com/album/2VYKIZq8hhxRJnvHzgKOOw) | 5:39 |

@@ -4,7 +4,7 @@
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-169 songs - 9 hr 18 min
+170 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Cupido Loco](https://open.spotify.com/track/4a1J8YDX879u2KNNvXT7HW) | [grupo linea sierreña](https://open.spotify.com/artist/5Ar9OdmLFyuloqjh25NIri), [Impresionantes De Sinaloa](https://open.spotify.com/artist/2kvwWTIotgzIb7HmZrOVUG), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Cupido Loco](https://open.spotify.com/album/4cGbwXhx9SVsZvvjnuaGQg) | 2:13 | 2025-07-15 |  |
 | [De Cero](https://open.spotify.com/track/5UCOFCpcZuAqZhB3pwmA6X) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [AMEN](https://open.spotify.com/album/628Kex6bcmoIkHin6sdBS6) | 3:51 | 2024-01-29 |  |
 | [De Los Cerros La Escuela](https://open.spotify.com/track/1wYaJCv6agf7B6ZrxDBItf) | [El De Las R's](https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [De Los Cerros La Escuela](https://open.spotify.com/album/5EWHeFaUAITcGjIITQHteo) | 2:22 | 2025-08-17 |  |
-| [DE MÉXICO SOY](https://open.spotify.com/track/5SWAFRGGudgYZ0hIgPzDfn) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LUCES ROJAS](https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O) | 2:59 | 2025-11-03 |  |
+| [DE MÉXICO SOY](https://open.spotify.com/track/5SWAFRGGudgYZ0hIgPzDfn) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LUCES ROJAS](https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O) | 2:59 | 2025-11-03 | 2026-08-09 |
 | [De Negra a Negra](https://open.spotify.com/track/2PJfn1KMAIupqjdHOvp1AY) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [De Negra a Negra](https://open.spotify.com/album/7LCKyNYcDIA6pHGmGxxuGp) | 2:45 | 2024-01-29 | 2026-02-25 |
 | [De Verde Una Hectárea](https://open.spotify.com/track/4Epr5XuIyiVQhCC5SMVXtw) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [De Verde Una Hectárea](https://open.spotify.com/album/0Ki6JrEdXYE7HqsQAktUYq) | 2:23 | 2024-01-29 | 2024-06-25 |
 | [Disfruto Lo Malo \- En Vivo](https://open.spotify.com/track/1geW1av0p8JpwONb9HVGPv) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Fiesta Privada Desde El 602 \(En Vivo\)](https://open.spotify.com/album/2BMdhDB0AwzTxRoo8EQ2Te) | 3:22 | 2025-12-21 |  |
@@ -133,6 +133,7 @@
 | [NO SOMOS DE ACERO \- En Vivo](https://open.spotify.com/track/0LTbcJRYKe0t9Hiqj81L3E) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Desconocidos Del Valle](https://open.spotify.com/artist/0tByJxiEmQmHJgD0Q49q9m) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 3:55 | 2025-03-04 | 2025-10-30 |
 | [NO TE VAYAS](https://open.spotify.com/track/0K7Zwhax5MtOrNTWHq7l0r) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [NO TE VAYAS](https://open.spotify.com/album/5pdbBSD9DXBPzquZ0g5RxL) | 3:18 | 2024-03-23 | 2024-09-15 |
 | [NO TE VAYAS](https://open.spotify.com/track/4mlKCvR8Rowgm9MKEFa8H4) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Y.T.L.S.V.](https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq) | 3:19 | 2024-10-25 | 2025-05-07 |
+| [NO VALES LA PENA](https://open.spotify.com/track/09xXKzhzutZtyX1uUnVVgw) | [Oswaldo\_NR](https://open.spotify.com/artist/1n3pTG4kkZiuepmOINVStx), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [NO VALES LA PENA](https://open.spotify.com/album/53R9heP6IvNl21FvJpEUje) | 2:35 | 2026-08-09 |  |
 | [NOCHE ARREGLADA](https://open.spotify.com/track/4ZWy7q1vy2KAOESS3HOjHX) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LUCES ROJAS](https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O) | 2:43 | 2025-11-21 | 2025-11-30 |
 | [Pa Que Sepan De Una Vez](https://open.spotify.com/track/2xS2oBq0mCa7O4RbdxBtxL) | [Carlos Y Los Del Monte Sinai](https://open.spotify.com/artist/3bNAwmmGrAz6YTioxIBmXc), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Pa Que Sepan De Una Vez](https://open.spotify.com/album/5lFgevGf7iLk3WOe7Uhz3G) | 2:57 | 2024-01-29 |  |
 | [PLAKA](https://open.spotify.com/track/2guRQXwtWXSs2fdjqApG5N) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LUCES ROJAS](https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O) | 2:54 | 2025-11-03 |  |

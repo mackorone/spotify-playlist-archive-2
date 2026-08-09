@@ -1,6 +1,6 @@
 {
   "description": "All great, all British.",
-  "num_followers": 767347,
+  "num_followers": 767355,
   "original_name": "Best of British",
   "owner": {
     "name": "Spotify",
@@ -4043,22 +4043,6 @@
     {
       "added_at": "2026-02-27 15:10:20",
       "album": {
-        "name": "Only Revolutions",
-        "url": "https://open.spotify.com/album/6UuQatBlB5QYszvOsBawSD"
-      },
-      "artists": [
-        {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
-        }
-      ],
-      "duration_ms": 258573,
-      "name": "Many of Horror",
-      "url": "https://open.spotify.com/track/0Au4QRVX0hwIRVv1svcqhD"
-    },
-    {
-      "added_at": "2026-02-27 15:10:20",
-      "album": {
         "name": "The Innocents (21st Anniversary Edition) [Remastered]",
         "url": "https://open.spotify.com/album/4luFEgzuthldQbhDpPkLIx"
       },
@@ -4071,6 +4055,22 @@
       "duration_ms": 213986,
       "name": "A Little Respect - 2009 - Remaster",
       "url": "https://open.spotify.com/track/1QRvbZIBvpQmoCyGNyaIwq"
+    },
+    {
+      "added_at": "2026-02-27 15:10:20",
+      "album": {
+        "name": "Only Revolutions",
+        "url": "https://open.spotify.com/album/6UuQatBlB5QYszvOsBawSD"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 258573,
+      "name": "Many of Horror",
+      "url": "https://open.spotify.com/track/0Au4QRVX0hwIRVv1svcqhD"
     },
     {
       "added_at": "2026-02-27 15:10:20",

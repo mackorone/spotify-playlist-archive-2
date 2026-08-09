@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 68582,
+  "num_followers": 68633,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAACfMuBtTznlPRSE3ECM2NcN",
+  "snapshot_id": "anUgAAAAAACeZD2kahCzJowmCMaHhik/",
   "tracks": [
     {
       "added_at": null,
@@ -255,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SUPERESTRELLA",
+        "url": "https://open.spotify.com/album/31bTbGhBUXIHosoC1BAbyA"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "SUPERESTRELLA",
+      "url": "https://open.spotify.com/track/06W6nXdcPEMCv4VD1g89Rt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LO LOGRAMOS",
         "url": "https://open.spotify.com/album/3b3xjKsM9yLxa4Cob0Qn22"
       },
@@ -479,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUPERESTRELLA",
-        "url": "https://open.spotify.com/album/31bTbGhBUXIHosoC1BAbyA"
+        "name": "Corridos Aesthetic",
+        "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
       },
       "artists": [
         {
@@ -488,9 +504,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 156923,
-      "name": "SUPERESTRELLA",
-      "url": "https://open.spotify.com/track/06W6nXdcPEMCv4VD1g89Rt"
+      "duration_ms": 193800,
+      "name": "La Invitaci\u00f3n",
+      "url": "https://open.spotify.com/track/2pao3nCEFbEz6E4xp6RfWi"
     },
     {
       "added_at": null,
@@ -511,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Aesthetic",
-        "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
+        "name": "Corridos Asombrerados",
+        "url": "https://open.spotify.com/album/71tQtGC4f82VbhikchHliX"
       },
       "artists": [
         {
@@ -520,9 +536,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 193800,
-      "name": "La Invitaci\u00f3n",
-      "url": "https://open.spotify.com/track/2pao3nCEFbEz6E4xp6RfWi"
+      "duration_ms": 167321,
+      "name": "No Voy Con Rodeos",
+      "url": "https://open.spotify.com/track/6bCk2kMU5E5wV3WBLugNnG"
     },
     {
       "added_at": null,
@@ -547,18 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Asombrerados",
-        "url": "https://open.spotify.com/album/71tQtGC4f82VbhikchHliX"
+        "name": "Dueles",
+        "url": "https://open.spotify.com/album/4lfBoIBFoa7FhKBp86EmdN"
       },
       "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS"
+        },
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 167321,
-      "name": "No Voy Con Rodeos",
-      "url": "https://open.spotify.com/track/6bCk2kMU5E5wV3WBLugNnG"
+      "duration_ms": 175375,
+      "name": "Dueles",
+      "url": "https://open.spotify.com/track/3im5S9PWPI0vQJsgyRTK2t"
     },
     {
       "added_at": null,
@@ -591,26 +611,6 @@
       "duration_ms": 210541,
       "name": "Lo Que Construimos",
       "url": "https://open.spotify.com/track/7GlfNhJutjN1rhKwhR779E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dueles",
-        "url": "https://open.spotify.com/album/4lfBoIBFoa7FhKBp86EmdN"
-      },
-      "artists": [
-        {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 175375,
-      "name": "Dueles",
-      "url": "https://open.spotify.com/track/3im5S9PWPI0vQJsgyRTK2t"
     },
     {
       "added_at": null,

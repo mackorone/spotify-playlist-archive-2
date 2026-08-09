@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 
 > Legendary euro\- trance & progressive tracks  from the 90s and 00s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,986 likes - 82 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,025 likes - 82 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 56 | [Resurection \(Radio Edit\)](https://open.spotify.com/track/3ijxShVha6D2BS4biQWfo5) | [PPK](https://open.spotify.com/artist/6kGGvTWOWaF26tZF5hy19z) | [Resurection Legacy](https://open.spotify.com/album/2CvJkjqqEq0iG3yywrokNg) | 3:16 |
 | 57 | [Better Off Alone](https://open.spotify.com/track/6eDEHsdHPNwmV3JpeftN5f) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/6dykJlw4E4k9XhIYB3HGPE) | 3:35 |
 | 58 | [On The Move \- Radio Edit](https://open.spotify.com/track/0sNdLboAT8M7IoC1teapP4) | [Barthezz](https://open.spotify.com/artist/2ikrIhCYSKmzCgWb9EM3aT) | [On the Move](https://open.spotify.com/album/2dyNhjsccNcbYfEr4JOxJT) | 3:36 |
-| 59 | [Luvstruck \- Radio Edit](https://open.spotify.com/track/5zaRPiIB5mtXLPye8w2xSb) | [Southside Spinners](https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb) | [Luvstruck](https://open.spotify.com/album/4I7aN6i2uvGefJXZxmEffY) | 3:17 |
-| 60 | [Gouryella \- Radio Edit](https://open.spotify.com/track/1EAxDiugDns3MDRYENPjko) | [Gouryella](https://open.spotify.com/artist/1JKDQ9CDwfLKUrhO6KYaki) | [Gouryella](https://open.spotify.com/album/0qRJZ8hAlDxAVrnJpzqL6O) | 3:42 |
+| 59 | [Gouryella \- Radio Edit](https://open.spotify.com/track/1EAxDiugDns3MDRYENPjko) | [Gouryella](https://open.spotify.com/artist/1JKDQ9CDwfLKUrhO6KYaki) | [Gouryella](https://open.spotify.com/album/0qRJZ8hAlDxAVrnJpzqL6O) | 3:42 |
+| 60 | [Luvstruck \- Radio Edit](https://open.spotify.com/track/5zaRPiIB5mtXLPye8w2xSb) | [Southside Spinners](https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb) | [Luvstruck](https://open.spotify.com/album/4I7aN6i2uvGefJXZxmEffY) | 3:17 |
 | 61 | [Out of the Blue \- Radio Edit](https://open.spotify.com/track/0t8fgj3EHfChyTeCT2th22) | [System F](https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i) | [Out Of The Blue Remastered](https://open.spotify.com/album/6Opf5LVPBWGOhCSYY5yTQZ) | 3:54 |
 | 62 | [Will I Ever](https://open.spotify.com/track/42vplZSyKjmELGTcD44miF) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Will I Ever](https://open.spotify.com/album/1hc7cfd7WdYtx2WVYiz78E) | 3:14 |
 | 63 | [You](https://open.spotify.com/track/2x7eD4StqS1n9XTBJDOn7A) | [La Cream](https://open.spotify.com/artist/1042GWtxzEb5XrVoUJkiXc) | [La Cream](https://open.spotify.com/album/6QfZW2wYR43ZpVVXruPbpQ) | 3:07 |

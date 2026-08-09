@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Orville Peck
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,340 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,339 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 99 | [Whole Lotta Talkin'](https://open.spotify.com/track/2A5KiEwjnjihPdMlk1Ic7z) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Whole Lotta Talkin'](https://open.spotify.com/album/4bt4gStS58TFuSUwA75OIn) | 2:43 |
 | 100 | [Weakened](https://open.spotify.com/track/5lezbuSpR8TpBS8uV5kCmS) | [Lambchop](https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78) | [Weakened](https://open.spotify.com/album/0dPcISAwpw4XcEunbaPxwK) | 5:37 |
 
-Snapshot ID: `AAAAABq6/9yiFeHwmKB74VhJsx5vreUN`
+Snapshot ID: `AAAAAN+GSjdb/HqXk2oo+3R+o+2zwzY0`

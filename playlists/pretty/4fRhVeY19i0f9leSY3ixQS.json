@@ -1,12 +1,12 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 1653,
+  "num_followers": 1664,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAASwpo5709XDiKIQKknQXHOiC7R7FUq",
+  "snapshot_id": "AAASyX68dnYW70HRXaeJmMDaNwKV8Wyk",
   "tracks": [
     {
       "added_at": "2026-07-14 13:59:29",
@@ -5413,6 +5413,22 @@
       "url": "https://open.spotify.com/track/0ohpnfuPKfxJvb96LTnfso"
     },
     {
+      "added_at": "2026-08-08 07:52:52",
+      "album": {
+        "name": "Fortune Cookie",
+        "url": "https://open.spotify.com/album/6I1qXbQEWTe9tbDbMUuOqp"
+      },
+      "artists": [
+        {
+          "name": "Nakace7",
+          "url": "https://open.spotify.com/artist/79WqBie5aUELM4nIUaNqZs"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "Fortune Cookie",
+      "url": "https://open.spotify.com/track/5pSAAjvei4PdkRhEo1rFgG"
+    },
+    {
       "added_at": "2026-08-06 05:55:41",
       "album": {
         "name": "\ud835\ude12\ud835\ude10\ud835\ude13\ud835\ude1b\ud835\ude0c\ud835\ude19",
@@ -5523,6 +5539,106 @@
       "duration_ms": 152942,
       "name": "Citylights",
       "url": "https://open.spotify.com/track/2cQPzcs1gAyoS2OuwU2zYY"
+    },
+    {
+      "added_at": "2026-08-08 04:26:25",
+      "album": {
+        "name": "It's All Been Done Before",
+        "url": "https://open.spotify.com/album/59VLejIEJLJnh7Nv0e7tyS"
+      },
+      "artists": [
+        {
+          "name": "ZUSTRA",
+          "url": "https://open.spotify.com/artist/1cIilB8ckONPBhSG6IvxSu"
+        }
+      ],
+      "duration_ms": 154332,
+      "name": "It's All Been Done Before",
+      "url": "https://open.spotify.com/track/3uUPrgIBCbDpyoxsrsFYDj"
+    },
+    {
+      "added_at": "2026-08-08 04:27:06",
+      "album": {
+        "name": "We Figure It Out",
+        "url": "https://open.spotify.com/album/2krYrF8v8fiuj7ybunnSfK"
+      },
+      "artists": [
+        {
+          "name": "Alex Hellcat",
+          "url": "https://open.spotify.com/artist/0Ucc4c5tJDgp23eZyrwlei"
+        }
+      ],
+      "duration_ms": 153428,
+      "name": "We Figure It Out",
+      "url": "https://open.spotify.com/track/2JWTeR7vtJCZUo6uMGHeqW"
+    },
+    {
+      "added_at": "2026-08-08 04:29:00",
+      "album": {
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/6PYulOmBCJBpqTYlbjE6hG"
+      },
+      "artists": [
+        {
+          "name": "Evan Fahey",
+          "url": "https://open.spotify.com/artist/5UQEmHxArWrbjMM94TFVFi"
+        }
+      ],
+      "duration_ms": 156623,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/0Qr1SJI2KiE6LgPf7AUECd"
+    },
+    {
+      "added_at": "2026-08-08 04:30:33",
+      "album": {
+        "name": "Neighborhood Wars",
+        "url": "https://open.spotify.com/album/6yyYAqp5BWI4e9BoXyHsaz"
+      },
+      "artists": [
+        {
+          "name": "The Sun Sets West",
+          "url": "https://open.spotify.com/artist/0xwRKbc6fbnlh0AdFfGGKq"
+        },
+        {
+          "name": "Laurelhurst",
+          "url": "https://open.spotify.com/artist/4yBxUSF756XD6GHmco9Kxv"
+        }
+      ],
+      "duration_ms": 235479,
+      "name": "Neighborhood Wars",
+      "url": "https://open.spotify.com/track/1R4OFtLqgLWSldLx1M5zZn"
+    },
+    {
+      "added_at": "2026-08-08 07:49:42",
+      "album": {
+        "name": "Go Get It",
+        "url": "https://open.spotify.com/album/5SnDMuXrJ99biN9htpsYJ1"
+      },
+      "artists": [
+        {
+          "name": "Surprise Asteroid",
+          "url": "https://open.spotify.com/artist/4POY53CgtEnd2FUGxE8IGe"
+        }
+      ],
+      "duration_ms": 161950,
+      "name": "Go Get It",
+      "url": "https://open.spotify.com/track/6zqPB23owpXNvIFqn3zGNZ"
+    },
+    {
+      "added_at": "2026-08-08 22:12:30",
+      "album": {
+        "name": "Help Needed",
+        "url": "https://open.spotify.com/album/6ovx0Mm6OpxWvy478wA6TY"
+      },
+      "artists": [
+        {
+          "name": "MaxRipper93",
+          "url": "https://open.spotify.com/artist/7I8LiOaMjFk7cooksEr60L"
+        }
+      ],
+      "duration_ms": 196079,
+      "name": "Picking flowers",
+      "url": "https://open.spotify.com/track/2Qt1oPbvCCwvg3Z65Nh3uN"
     }
   ],
   "unique_name": "Spotify Radio",

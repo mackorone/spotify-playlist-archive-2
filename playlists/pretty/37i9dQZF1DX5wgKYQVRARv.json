@@ -1,6 +1,6 @@
 {
   "description": "New and recent favorites of Prog Metal. Cover: Periphery",
-  "num_followers": 570637,
+  "num_followers": 570643,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
@@ -2287,6 +2287,22 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
+        "name": "Subatlantic",
+        "url": "https://open.spotify.com/album/5EeaoNCpy5e8lI6NbV6h21"
+      },
+      "artists": [
+        {
+          "name": "The Ocean",
+          "url": "https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq"
+        }
+      ],
+      "duration_ms": 415666,
+      "name": "Subatlantic",
+      "url": "https://open.spotify.com/track/5aQwquM8wHf0X7OktRg69P"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
         "name": "\u8607\u9192 II: Frailty",
         "url": "https://open.spotify.com/album/3Qqr84sZDMRNuDeIdqIbMH"
       },
@@ -2303,22 +2319,6 @@
       "duration_ms": 302094,
       "name": "\u6de8\u5316 Purge (feat. Devin Townsend)",
       "url": "https://open.spotify.com/track/1ghjSbOICxweO2X9toPij4"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
-        "name": "Subatlantic",
-        "url": "https://open.spotify.com/album/5EeaoNCpy5e8lI6NbV6h21"
-      },
-      "artists": [
-        {
-          "name": "The Ocean",
-          "url": "https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq"
-        }
-      ],
-      "duration_ms": 415666,
-      "name": "Subatlantic",
-      "url": "https://open.spotify.com/track/5aQwquM8wHf0X7OktRg69P"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -2427,6 +2427,22 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
+        "name": "Envy",
+        "url": "https://open.spotify.com/album/2VA3u3c4lz0rZMisWxCIqN"
+      },
+      "artists": [
+        {
+          "name": "Theraphosa",
+          "url": "https://open.spotify.com/artist/6KbRoNB73W0QozKoQ7T2Ge"
+        }
+      ],
+      "duration_ms": 270344,
+      "name": "Envy",
+      "url": "https://open.spotify.com/track/3BoLYG2QSpR1bCOhuTUsYR"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
         "name": "PANIK",
         "url": "https://open.spotify.com/album/1QQOGKzJOjLtCQGPEhQWH0"
       },
@@ -2443,22 +2459,6 @@
       "duration_ms": 214000,
       "name": "PANIK",
       "url": "https://open.spotify.com/track/3cETXA1GfQYdAajbUDohJZ"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
-        "name": "Envy",
-        "url": "https://open.spotify.com/album/2VA3u3c4lz0rZMisWxCIqN"
-      },
-      "artists": [
-        {
-          "name": "Theraphosa",
-          "url": "https://open.spotify.com/artist/6KbRoNB73W0QozKoQ7T2Ge"
-        }
-      ],
-      "duration_ms": 270344,
-      "name": "Envy",
-      "url": "https://open.spotify.com/track/3BoLYG2QSpR1bCOhuTUsYR"
     },
     {
       "added_at": "2026-05-15 04:02:10",

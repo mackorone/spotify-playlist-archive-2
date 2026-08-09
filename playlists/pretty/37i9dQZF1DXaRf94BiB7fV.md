@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover \- Ankita Barwad
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,528 likes - 53 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,556 likes - 53 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

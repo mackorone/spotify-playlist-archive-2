@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,574 songs - 21 day 19 hr 31 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,577 songs - 21 day 19 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8582,5 +8582,8 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8572 | [顔](https://open.spotify.com/track/6MtEzxuKMIDEXcKoUGJjy1) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [Completeness](https://open.spotify.com/album/5i7bsC8RBELXhGeMViNwZX) | 4:02 |
 | 8573 | [猛独が襲う \(Cover\)](https://open.spotify.com/track/4UlTmk7DfT7QlatUZUiuV7) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [バンドリ！ カバーコレクション Extra Volume](https://open.spotify.com/album/1cGcrwckGaF4B8zKFH4kEb) | 4:14 |
 | 8574 | [堕天 \(Cover\)](https://open.spotify.com/track/5GGEx5ZSRaX6QaazJCnFcn) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [バンドリ！ カバーコレクション Extra Volume](https://open.spotify.com/album/1cGcrwckGaF4B8zKFH4kEb) | 3:03 |
+| 8575 | [天球\(そら\)のMúsica](https://open.spotify.com/track/7fh1kd9kH1F6aw1zjFOI6X) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [Completeness](https://open.spotify.com/album/5i7bsC8RBELXhGeMViNwZX) | 4:39 |
+| 8576 | [Linger](https://open.spotify.com/track/3HHehSGzW9dhs2V7Sod4jX) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Stars: The Best Of The Cranberries 1992\-2002](https://open.spotify.com/album/1JXjYl5WVr3wFgV3DMIHMl) | 4:34 |
+| 8577 | [VOLTAGE](https://open.spotify.com/track/2rBRTTF0clCIfQklzKjOIH) | [スペシャルウィーク \(CV\. 和氣あず未\)](https://open.spotify.com/artist/7pjDXnwr8n3sxNCJbSQ5f2), [ブエナビスタ \(CV\. 和泉風花\)](https://open.spotify.com/artist/3ma40KMu3hLS3xNTSmUrjd), [ブラストワンピース \(CV\. 紫月杏朱彩\)](https://open.spotify.com/artist/5A3644CLTedHWaYEcZmQ6k), [アーモンドアイ \(CV\. 石原夏織\)](https://open.spotify.com/artist/74UuDtgGrBWSKA2cjYgpnx), [ラッキーライラック \(CV\. 中島由貴\)](https://open.spotify.com/artist/2dZ9wJnskzGHIuRqiLwmZ5), [ラヴズオンリーユー \(CV\. 久保田未夢\)](https://open.spotify.com/artist/26OO93RbesL5b0MWWhn38K), [キセキ \(CV\. 星希成奏\)](https://open.spotify.com/artist/46k38IseKUMNxNfKtTdwlE), [フォーエバーヤング \(CV\. 海弓シュリ\)](https://open.spotify.com/artist/1QF8S0FYYobIi8k8T5Q5qa), [マルシュロレーヌ \(CV\. 近貞月乃\)](https://open.spotify.com/artist/5pIRmsPrHSVycMf9kDtZ1S), [エピファネイア \(CV\. 千賀光莉\)](https://open.spotify.com/artist/7vI36mvsWrpfa834C53X81), [ロゴタイプ \(CV\. 髙橋美空\)](https://open.spotify.com/artist/51pb9lS7U3nemKSk5vNAgU), [ヴィクトワールピサ \(CV\. 嶋野 花\)](https://open.spotify.com/artist/348qmJy6ym6VYVcxpviRMr), [ローズキングダム \(CV\. 菊池ゆりな\)](https://open.spotify.com/artist/13HAu0gc7NAs11pqpVwoGg), [ルーラーシップ \(CV\. 海野水玉\)](https://open.spotify.com/artist/5BSVB6yLcPsN0xpqQKce5Z) | [VOLTAGE](https://open.spotify.com/album/5oQocFLydGnL5lEco4gBwh) | 3:50 |
 
-Snapshot ID: `AAAMmLBsGeaQnzN5IAxBJq1kkkVKmMVx`
+Snapshot ID: `AAAMm8nK8NIeJd/+J4BANRxZy68YYo6d`

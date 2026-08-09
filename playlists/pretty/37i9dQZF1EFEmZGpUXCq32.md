@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 67 | [Black Man](https://open.spotify.com/track/5YeEoDVrHAMxkr415ZIGMx) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 3:23 |
 | 68 | [Grey \(feat\. Jay White\)](https://open.spotify.com/track/7AP7Z0CgYWosOaAKdriNXt) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Jay White](https://open.spotify.com/artist/69p9DNc1W1xZ4EzekPCSNf) | [Gotcha Now Doc](https://open.spotify.com/album/7pHAuTN3sOfBQyouX96uOd) | 8:39 |
 | 69 | [Dedicated](https://open.spotify.com/track/6d9300vLY1yGZg98A8YelW) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 2:55 |
-| 70 | [Up the Road](https://open.spotify.com/track/41W11tB5n4diSijDunvrHF) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 4:25 |
-| 71 | [Ghetto Earth](https://open.spotify.com/track/5NfgQXvYnftognhelAZtR8) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [The Heart, The Mind, The Soul](https://open.spotify.com/album/014ic5Pp0IrYiDZRty0wKB) | 3:31 |
+| 70 | [Ghetto Earth](https://open.spotify.com/track/5NfgQXvYnftognhelAZtR8) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [The Heart, The Mind, The Soul](https://open.spotify.com/album/014ic5Pp0IrYiDZRty0wKB) | 3:31 |
+| 71 | [Up the Road](https://open.spotify.com/track/41W11tB5n4diSijDunvrHF) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 4:25 |
 | 72 | [Testify \(Live in LA\)](https://open.spotify.com/track/0tAfjwAoZwDJZS0KRn2SGQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [The Funk Apostles](https://open.spotify.com/artist/4ICnj5CaliESpsWrhYjBrD) | [Art of Love \(Live in LA\)](https://open.spotify.com/album/7575MmvKNIEh6puvpyMfoL) | 7:03 |
 | 73 | [Waterfall](https://open.spotify.com/track/55svzLRbfbsISEmxzvpFce) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 5:10 |
 | 74 | [2AM](https://open.spotify.com/track/2eejBNyr1D9QDOxOSwS9DU) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Best of Me](https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P) | 3:34 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 120 | [Right Time](https://open.spotify.com/track/2ozIlUOSzWuS4xt6I0IWtW) | [The PRVLG](https://open.spotify.com/artist/2BWNNDrfiAwUHbkihc16I4) | [Lover Girl's Playlist Pt\. 1](https://open.spotify.com/album/2AMZkJYM8t5bloohspD4y6) | 2:26 |
 | 121 | [Offering Song Address](https://open.spotify.com/track/4VotLKO4qyqCJqI75bAiFQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 0:18 |
 
-Snapshot ID: `AcY+SgAAAACaV72fuwN8l769WCIpxlbQ`
+Snapshot ID: `AcZD6gAAAABTApGdybwntgsgxw4HKjPv`

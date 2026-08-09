@@ -4,7 +4,7 @@
 
 > This is Clara Schumann\. The essential tracks, all in one playlist.
 
-94 songs - 6 hr 52 min
+95 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Soirées Musicales, Op\. 6 – II\. Notturno](https://open.spotify.com/track/1sBAPSAECKgoyBG9hgFm0a) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Klaus Reimann](https://open.spotify.com/artist/3rMuMOKxKZuW98Y7WoQo56) | [Original Classics, Vol\. 422: Clara Schumann, Piano Dreams](https://open.spotify.com/album/3lmHgytw2ZWi7Mg5l8phhW) | 3:58 | 2025-11-12 | 2026-02-11 |
 | [Soirées Musicales, Op\. 6 – III\. Mazurka](https://open.spotify.com/track/7z1zQ1oBwubJHapQejxrB3) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Klaus Reimann](https://open.spotify.com/artist/3rMuMOKxKZuW98Y7WoQo56) | [Original Classics, Vol\. 422: Clara Schumann, Piano Dreams](https://open.spotify.com/album/3lmHgytw2ZWi7Mg5l8phhW) | 3:10 | 2025-11-14 | 2026-03-15 |
 | [Soirées Musicales, Op\. 6 – IV\. Ballade](https://open.spotify.com/track/6aSi1yOt0iC8kfZPT1GxHI) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Klaus Reimann](https://open.spotify.com/artist/3rMuMOKxKZuW98Y7WoQo56) | [Original Classics, Vol\. 422: Clara Schumann, Piano Dreams](https://open.spotify.com/album/3lmHgytw2ZWi7Mg5l8phhW) | 6:03 | 2025-11-20 | 2025-11-21 |
+| [Soirées musicales, Op\. 6: II\. Notturno\. Andante con moto](https://open.spotify.com/track/22VPLWkRWyUCFAcaRnwSc7) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Susan Tomes](https://open.spotify.com/artist/3OP4EwLAnli8pp9rvEossC) | [Clara Schumann: Soirées musicales, Op\. 6: II\. Notturno\. Andante con moto](https://open.spotify.com/album/4dwWhzWt7VFxgk0wRL1UYG) | 4:27 | 2026-08-09 |  |
 | [Soirées musicales, Op\. 6: II\. Notturno\. Andante con moto \(Version for Harp\)](https://open.spotify.com/track/7msodaosInbttzEEJ9MRfq) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Magdalena Hoffmann](https://open.spotify.com/artist/6Rq4dclwT2EHEG8lhvWqBT) | [C\. Schumann: Soirées musicales, Op\. 6: II\. Notturno\. Andante con moto \(Version for Harp\)](https://open.spotify.com/album/5BVP1Pfk82ukSEHCgEi88Q) | 5:18 | 2025-08-12 |  |
 | [Soirées musicales, Op\. 6: IV\. Ballade \(Arr\. for Wind Ensemble\)](https://open.spotify.com/track/6XF1fHkEZBfEB05NsnRFF5) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Swedish Wind Ensemble](https://open.spotify.com/artist/1buVOqH2p4OsCK0LQSlCvT), [Cathrine Winnes](https://open.spotify.com/artist/6mu7Aa7awnK1xo2PmX81c4) | [Breaking Waves](https://open.spotify.com/album/5iILSPeMu6TIEhGHccDVub) | 6:58 | 2026-05-09 |  |
 | [Sonata in G Minor: I\. Allegro](https://open.spotify.com/track/7dFWxHqtehbfIr3gKro77j) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Anna Lipiak](https://open.spotify.com/artist/5Mnmx3vEygn2dsVO3E15WM) | [Female Power: Piano Works](https://open.spotify.com/album/4WvZYjBRErBfLaXllxLMhQ) | 6:09 | 2025-08-12 | 2026-03-14 |

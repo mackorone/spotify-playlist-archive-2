@@ -4382,7 +4382,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -5502,7 +5502,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 182608,
       "name": "Blodigt (feat. Annika)",
       "url": "https://open.spotify.com/track/5fFVI2cNXckUEkttuVOumi"
@@ -8021,6 +8021,28 @@
     },
     {
       "album": {
+        "name": "V\u00c6RD AT ELSKE",
+        "url": "https://open.spotify.com/album/5EzEAM6zAqc9VPM0xs6Muc"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        },
+        {
+          "name": "wicky",
+          "url": "https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166307,
+      "name": "CIRKLER (feat. wicky)",
+      "url": "https://open.spotify.com/track/3tlOXNiSKM8y67sn0jgPzQ"
+    },
+    {
+      "album": {
         "name": "I Told Them...",
         "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
       },
@@ -10382,7 +10404,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 201863,
       "name": "Det Modsatte",
       "url": "https://open.spotify.com/track/6vdsc40TnfCdZsWj7GecQV"
@@ -14418,7 +14440,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 144530,
       "name": "FARLIGT",
       "url": "https://open.spotify.com/track/4TEYRDBEb8KPbgPOyEs5Dr"
@@ -39375,6 +39397,24 @@
     },
     {
       "album": {
+        "name": "Shen Mao",
+        "url": "https://open.spotify.com/album/46XqGM4PmPoyrMYEyUhbif"
+      },
+      "artists": [
+        {
+          "name": "Kundo",
+          "url": "https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158568,
+      "name": "Shen Mao",
+      "url": "https://open.spotify.com/track/087oAJywUltu0v3jetQzAm"
+    },
+    {
+      "album": {
         "name": "Shirt",
         "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
       },
@@ -46747,6 +46787,28 @@
     },
     {
       "album": {
+        "name": "T\u00e6ttere P\u00e5 Hende",
+        "url": "https://open.spotify.com/album/4X4omk579qRX2eKzj8UAa3"
+      },
+      "artists": [
+        {
+          "name": "Ella Augusta",
+          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
+        },
+        {
+          "name": "Pil",
+          "url": "https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208400,
+      "name": "T\u00e6ttere P\u00e5 Hende",
+      "url": "https://open.spotify.com/track/5g3MQe4UctqhsmR67BueRz"
+    },
+    {
+      "album": {
         "name": "nu hvor vi er her",
         "url": "https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc"
       },
@@ -49620,7 +49682,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 134310,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/6L3OQkay5RpXCQQSOwcyFo"

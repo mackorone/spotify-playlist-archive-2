@@ -1,12 +1,12 @@
 {
   "description": "This is Autechre. The essential tracks, all in one playlist.",
-  "num_followers": 8746,
+  "num_followers": 8745,
   "original_name": "This Is Autechre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAAD30razkK1sEJwU8aMJ2ocI",
+  "snapshot_id": "anUgAAAAAABUjKHTYVDZtXJ5A2UASBgK",
   "tracks": [
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Garbage",
-        "url": "https://open.spotify.com/album/7d7WtcAp4qNtfwOqzAPQMJ"
+        "name": "SIGN",
+        "url": "https://open.spotify.com/album/6bZID6hhfiOoLYwAm3fliK"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 457013,
-      "name": "PIOBmx",
-      "url": "https://open.spotify.com/track/6u3LT0WFk9Fq0WrnvUirWf"
+      "duration_ms": 360456,
+      "name": "Metaz form8",
+      "url": "https://open.spotify.com/track/0pvtBgXF0GosDiDwLgQdP6"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Garbage",
+        "url": "https://open.spotify.com/album/7d7WtcAp4qNtfwOqzAPQMJ"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 457013,
+      "name": "PIOBmx",
+      "url": "https://open.spotify.com/track/6u3LT0WFk9Fq0WrnvUirWf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quaristice",
         "url": "https://open.spotify.com/album/21mZBXYBKljtRluyCoCqCK"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 300013,
       "name": "Simmm",
       "url": "https://open.spotify.com/track/6Hf0sfpzzlxDF61jwbWCLZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SIGN",
-        "url": "https://open.spotify.com/album/6bZID6hhfiOoLYwAm3fliK"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 360456,
-      "name": "Metaz form8",
-      "url": "https://open.spotify.com/track/0pvtBgXF0GosDiDwLgQdP6"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Artificial Intelligence II",
-        "url": "https://open.spotify.com/album/3fh4Vu48JvywRujURbLW1R"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 456226,
-      "name": "Chatter",
-      "url": "https://open.spotify.com/track/3BL2l8agZkzkNIqv8fqlL7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Exai",
         "url": "https://open.spotify.com/album/2lx0qyNEcAQ9y6NJrpXKjs"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 254142,
       "name": "jatevee C",
       "url": "https://open.spotify.com/track/2ptKkTrviQKApgvsUo00Q9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Artificial Intelligence II",
+        "url": "https://open.spotify.com/album/3fh4Vu48JvywRujURbLW1R"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 456226,
+      "name": "Chatter",
+      "url": "https://open.spotify.com/track/3BL2l8agZkzkNIqv8fqlL7"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confield",
-        "url": "https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ"
-      },
-      "artists": [
-        {
-          "name": "Autechre",
-          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
-        }
-      ],
-      "duration_ms": 363666,
-      "name": "Parhelic Triangle",
-      "url": "https://open.spotify.com/track/6h90s8v73fSTBRe2bfKEA4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anvil Vapre",
         "url": "https://open.spotify.com/album/2I4swXdlP0c14GvK2iR92G"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 465200,
       "name": "Second Scepe",
       "url": "https://open.spotify.com/track/48qVlT1rzxD87lIVsGiQSw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confield",
+        "url": "https://open.spotify.com/album/7fMTyCtIeBoYck15biPRaQ"
+      },
+      "artists": [
+        {
+          "name": "Autechre",
+          "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
+        }
+      ],
+      "duration_ms": 363666,
+      "name": "Parhelic Triangle",
+      "url": "https://open.spotify.com/track/6h90s8v73fSTBRe2bfKEA4"
     },
     {
       "added_at": null,

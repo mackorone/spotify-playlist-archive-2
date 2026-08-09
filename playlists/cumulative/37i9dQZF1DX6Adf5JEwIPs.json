@@ -55107,28 +55107,6 @@
     },
     {
       "album": {
-        "name": "De Sonora A Chihuahua",
-        "url": "https://open.spotify.com/album/0mgHUfCpaihSguk7LLGPyj"
-      },
-      "artists": [
-        {
-          "name": "Elio Vega",
-          "url": "https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg"
-        },
-        {
-          "name": "Jos\u00e9 Ponce y El Nuevo Equipo",
-          "url": "https://open.spotify.com/artist/1WF4RGjRhzQRdtTowIt4fX"
-        }
-      ],
-      "date_added": "2026-08-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 198000,
-      "name": "El Bazucaso",
-      "url": "https://open.spotify.com/track/54zzYLB6l0d5xuIeQIPsHI"
-    },
-    {
-      "album": {
         "name": "Corridos Desde Guanatos A Culiac\u00e1n",
         "url": "https://open.spotify.com/album/0HnOYMkAzAex0LNabxNkRI"
       },
@@ -55148,6 +55126,28 @@
       "duration_ms": 195640,
       "name": "El Bazucaso",
       "url": "https://open.spotify.com/track/5jvjfiRnyZC6IkeL4jIySv"
+    },
+    {
+      "album": {
+        "name": "De Sonora A Chihuahua",
+        "url": "https://open.spotify.com/album/0mgHUfCpaihSguk7LLGPyj"
+      },
+      "artists": [
+        {
+          "name": "Elio Vega",
+          "url": "https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg"
+        },
+        {
+          "name": "Jos\u00e9 Ponce y El Nuevo Equipo",
+          "url": "https://open.spotify.com/artist/1WF4RGjRhzQRdtTowIt4fX"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "El Bazucazo",
+      "url": "https://open.spotify.com/track/54zzYLB6l0d5xuIeQIPsHI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo de música tropical 📸  Dyango & Damas Gratis
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,038 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,054 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 42 | [La Cumbia Sabrosa](https://open.spotify.com/track/731EQdMSG596LmY59OmavK) | [Mokuanes](https://open.spotify.com/artist/0PKCsM6dEBFB7Cd48NhdYg) | [La Cumbia Sabrosa](https://open.spotify.com/album/5YXIz5I9c3jxloFBWxXppN) | 3:12 |
 | 43 | [Un Recuerdo Que Se Escapó](https://open.spotify.com/track/7ec2bkaSyAkm3zmm7DpfZv) | [Eduardo Moreno & Okocán](https://open.spotify.com/artist/5tmlU7NGmne8DiX1pnHJ5L) | [Lo Más Bello Es Lo Más Simple](https://open.spotify.com/album/792xOhgkylaqrPYx18Lc4X) | 4:15 |
 | 44 | [Con El Pie](https://open.spotify.com/track/4ESh4RpTyOnl7OnqJV6Zx2) | [John Jairo Perez](https://open.spotify.com/artist/6YYFrDR353NrmPc0cA5b6H) | [Con El Pie](https://open.spotify.com/album/1zeieDrdXQAHojmA768ucO) | 3:23 |
-| 45 | [Lo Que No Nace](https://open.spotify.com/track/3QLUnFGgnmKjrlhFnrY8hx) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF) | [Lo Que No Nace](https://open.spotify.com/album/6AyBiH2Ddj9jLXaYnPT9hb) | 3:38 |
+| 45 | [Lo Que No Nace](https://open.spotify.com/track/3QLUnFGgnmKjrlhFnrY8hx) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF) | [Lo Que No Nace](https://open.spotify.com/album/6AyBiH2Ddj9jLXaYnPT9hb) | 3:42 |
 | 46 | [Quieto Corazón](https://open.spotify.com/track/68mo9PLJ3kE7xa9k499Imq) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [La Tribu](https://open.spotify.com/artist/5cBRx4BHZmUPvZQsLwj7uQ) | [Te Toca](https://open.spotify.com/album/3yt8HzzL48nIREtwXoYIIJ) | 2:40 |
 | 47 | [Acariciame](https://open.spotify.com/track/3kRjyf6bVVcISBaBfWaEwJ) | [Vinny Rivera](https://open.spotify.com/artist/16KwTAKkQMkBVS0Fuz2vpt), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu), [DJ Taga'Da](https://open.spotify.com/artist/34ZN3DFdLhF5zIN59IvBiO) | [Acariciame](https://open.spotify.com/album/0dkhjUPDl26CDencw7wjuG) | 3:48 |
 | 48 | [Todo Tiene Su Fin](https://open.spotify.com/track/5pUqhIf1yVMabVN008u0ac) | [Los Pasteles Verdes](https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y) | [Lado V](https://open.spotify.com/album/3r5Y4ENK0vG9gEbUckANsW) | 3:21 |

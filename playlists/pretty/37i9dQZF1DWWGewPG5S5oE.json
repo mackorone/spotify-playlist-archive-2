@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u77f3\u5ddd\u7d05\u5948",
-  "num_followers": 50485,
+  "num_followers": 50503,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -1623,26 +1623,18 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "Trio IV: The City, It Whispers",
-        "url": "https://open.spotify.com/album/1TcfzFpZm4kmi5zMiZ3crA"
+        "name": "URAH",
+        "url": "https://open.spotify.com/album/2r1B1VZu7DXsismv94sH0h"
       },
       "artists": [
         {
-          "name": "Marty Holoubek",
-          "url": "https://open.spotify.com/artist/5EUnnSIFldgDzlrPvvwTZF"
-        },
-        {
-          "name": "Shun Ishiwaka",
-          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
-        },
-        {
-          "name": "\u6e21\u8fba\u7fd4\u592a",
-          "url": "https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr"
+          "name": "\u30d1\u30b8\u30e3\u30de\u3067\u6d77\u306a\u3093\u304b\u3044\u304b\u306a\u3044",
+          "url": "https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac"
         }
       ],
-      "duration_ms": 294344,
-      "name": "Disturbed Utopia",
-      "url": "https://open.spotify.com/track/6zgFQddklalR8m5YN2wi4s"
+      "duration_ms": 223100,
+      "name": "URAH",
+      "url": "https://open.spotify.com/track/0Yb57OXbeD7SLeYlfWcTCr"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -1667,18 +1659,26 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "URAH",
-        "url": "https://open.spotify.com/album/2r1B1VZu7DXsismv94sH0h"
+        "name": "Trio IV: The City, It Whispers",
+        "url": "https://open.spotify.com/album/1TcfzFpZm4kmi5zMiZ3crA"
       },
       "artists": [
         {
-          "name": "\u30d1\u30b8\u30e3\u30de\u3067\u6d77\u306a\u3093\u304b\u3044\u304b\u306a\u3044",
-          "url": "https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac"
+          "name": "Marty Holoubek",
+          "url": "https://open.spotify.com/artist/5EUnnSIFldgDzlrPvvwTZF"
+        },
+        {
+          "name": "Shun Ishiwaka",
+          "url": "https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R"
+        },
+        {
+          "name": "\u6e21\u8fba\u7fd4\u592a",
+          "url": "https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr"
         }
       ],
-      "duration_ms": 223100,
-      "name": "URAH",
-      "url": "https://open.spotify.com/track/0Yb57OXbeD7SLeYlfWcTCr"
+      "duration_ms": 294344,
+      "name": "Disturbed Utopia",
+      "url": "https://open.spotify.com/track/6zgFQddklalR8m5YN2wi4s"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
+        "name": "HARU",
+        "url": "https://open.spotify.com/album/5A2GCI8off7bbcyfqafcuu"
+      },
+      "artists": [
+        {
+          "name": "\u30d1\u30b8\u30e3\u30de\u3067\u6d77\u306a\u3093\u304b\u3044\u304b\u306a\u3044",
+          "url": "https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac"
+        }
+      ],
+      "duration_ms": 311935,
+      "name": "HARU",
+      "url": "https://open.spotify.com/track/5JhwlmQCauaK3cxXXRo5wz"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
         "name": "Today Is Another Day",
         "url": "https://open.spotify.com/album/1rfz7JSqXPVU4w2gxm49Yf"
       },
@@ -1751,22 +1767,6 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "HARU",
-        "url": "https://open.spotify.com/album/5A2GCI8off7bbcyfqafcuu"
-      },
-      "artists": [
-        {
-          "name": "\u30d1\u30b8\u30e3\u30de\u3067\u6d77\u306a\u3093\u304b\u3044\u304b\u306a\u3044",
-          "url": "https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac"
-        }
-      ],
-      "duration_ms": 311935,
-      "name": "HARU",
-      "url": "https://open.spotify.com/track/5JhwlmQCauaK3cxXXRo5wz"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
         "name": "PRIME",
         "url": "https://open.spotify.com/album/3qYiZbuFnbQlBqJqjuGw00"
       },
@@ -1787,22 +1787,6 @@
       "duration_ms": 227295,
       "name": "PRIME",
       "url": "https://open.spotify.com/track/3JsN2Kmll3HJolxA1gaPSF"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
-        "name": "Soy Califa",
-        "url": "https://open.spotify.com/album/4R0gpdP9V7vyK1N18KtnHF"
-      },
-      "artists": [
-        {
-          "name": "Shunosuke Ishikawa",
-          "url": "https://open.spotify.com/artist/4NHbJ9owmGLA39C8yzjvu0"
-        }
-      ],
-      "duration_ms": 312564,
-      "name": "Soy Califa",
-      "url": "https://open.spotify.com/track/4nAQpP8dFX9rU9UO1WrR7D"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -1839,6 +1823,22 @@
       "duration_ms": 362559,
       "name": "Bird Of Beauty",
       "url": "https://open.spotify.com/track/5OmSzWSzMLHpTK1tp4zm95"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
+        "name": "Soy Califa",
+        "url": "https://open.spotify.com/album/4R0gpdP9V7vyK1N18KtnHF"
+      },
+      "artists": [
+        {
+          "name": "Shunosuke Ishikawa",
+          "url": "https://open.spotify.com/artist/4NHbJ9owmGLA39C8yzjvu0"
+        }
+      ],
+      "duration_ms": 312564,
+      "name": "Soy Califa",
+      "url": "https://open.spotify.com/track/4nAQpP8dFX9rU9UO1WrR7D"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "\u306a\u306b\u3082\u306a\u3044",
-        "url": "https://open.spotify.com/album/7AEnNBzCHRHUNFvnqz6ifr"
-      },
-      "artists": [
-        {
-          "name": "Ryo Takaiwa",
-          "url": "https://open.spotify.com/artist/19z1uIJW41iCghBEJMyEqd"
-        }
-      ],
-      "duration_ms": 332569,
-      "name": "\u306a\u306b\u3082\u306a\u3044",
-      "url": "https://open.spotify.com/track/6ZXt2LnoyvwrpuJKd92cy4"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
         "name": "Life Is Beautiful",
         "url": "https://open.spotify.com/album/6NuhtNddVOorha4bfhfmjv"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 306502,
       "name": "Life Is Beautiful",
       "url": "https://open.spotify.com/track/243O6DF6CLbvpDaTLel2Bk"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
+        "name": "\u306a\u306b\u3082\u306a\u3044",
+        "url": "https://open.spotify.com/album/7AEnNBzCHRHUNFvnqz6ifr"
+      },
+      "artists": [
+        {
+          "name": "Ryo Takaiwa",
+          "url": "https://open.spotify.com/artist/19z1uIJW41iCghBEJMyEqd"
+        }
+      ],
+      "duration_ms": 332569,
+      "name": "\u306a\u306b\u3082\u306a\u3044",
+      "url": "https://open.spotify.com/track/6ZXt2LnoyvwrpuJKd92cy4"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -2035,6 +2035,22 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
+        "name": "Lifescape",
+        "url": "https://open.spotify.com/album/2MNDC5RYGbzZb0s6yzJ4VL"
+      },
+      "artists": [
+        {
+          "name": "Taka Nawashiro",
+          "url": "https://open.spotify.com/artist/4vpy3zfDYYedH3KuT2l68c"
+        }
+      ],
+      "duration_ms": 307186,
+      "name": "Kobune",
+      "url": "https://open.spotify.com/track/2M1BHPPX9QEHxvT43t2eVO"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
         "name": "Danse Macabre",
         "url": "https://open.spotify.com/album/32snEbymf2b2ZwqVAYT1oG"
       },
@@ -2059,22 +2075,6 @@
       "duration_ms": 394065,
       "name": "Danse Macabre",
       "url": "https://open.spotify.com/track/7yhQ6CwshrZgwlW4JipRPQ"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
-        "name": "Lifescape",
-        "url": "https://open.spotify.com/album/2MNDC5RYGbzZb0s6yzJ4VL"
-      },
-      "artists": [
-        {
-          "name": "Taka Nawashiro",
-          "url": "https://open.spotify.com/artist/4vpy3zfDYYedH3KuT2l68c"
-        }
-      ],
-      "duration_ms": 307186,
-      "name": "Kobune",
-      "url": "https://open.spotify.com/track/2M1BHPPX9QEHxvT43t2eVO"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "The Duality of My Soul",
-        "url": "https://open.spotify.com/album/5ei1dg73EB8jSnUQgNSOxL"
-      },
-      "artists": [
-        {
-          "name": "Mayuko Katakura",
-          "url": "https://open.spotify.com/artist/5eP9be2Y1fGaWTQqvbF4hG"
-        }
-      ],
-      "duration_ms": 363416,
-      "name": "Pursuit",
-      "url": "https://open.spotify.com/track/7IJpgWJNIc0HvsOjJmR6Hl"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
         "name": "Ray Chatani Orchestra",
         "url": "https://open.spotify.com/album/4FydYamzGtzRNIAwVcJj4p"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 337845,
       "name": "One Finger Snap",
       "url": "https://open.spotify.com/track/4AKkklT755XpgM5uPLY5PZ"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
+        "name": "The Duality of My Soul",
+        "url": "https://open.spotify.com/album/5ei1dg73EB8jSnUQgNSOxL"
+      },
+      "artists": [
+        {
+          "name": "Mayuko Katakura",
+          "url": "https://open.spotify.com/artist/5eP9be2Y1fGaWTQqvbF4hG"
+        }
+      ],
+      "duration_ms": 363416,
+      "name": "Pursuit",
+      "url": "https://open.spotify.com/track/7IJpgWJNIc0HvsOjJmR6Hl"
     },
     {
       "added_at": "2026-07-21 15:00:18",
@@ -2627,22 +2627,6 @@
     {
       "added_at": "2026-07-21 15:00:18",
       "album": {
-        "name": "Don't let me down / \u4eca\u591c\u306f\u30d6\u30ae\u30fc\u30fb\u30d0\u30c3\u30af",
-        "url": "https://open.spotify.com/album/3djgKDFOpfICX31bkOZ9uN"
-      },
-      "artists": [
-        {
-          "name": "cleaned",
-          "url": "https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3"
-        }
-      ],
-      "duration_ms": 256273,
-      "name": "\u4eca\u591c\u306f\u30d6\u30ae\u30fc\u30fb\u30d0\u30c3\u30af",
-      "url": "https://open.spotify.com/track/5FGYRvymVBG0Fbhje3unXJ"
-    },
-    {
-      "added_at": "2026-07-21 15:00:18",
-      "album": {
         "name": "Moonlit",
         "url": "https://open.spotify.com/album/7bbgoL1AjCJupyQZQPzlSy"
       },
@@ -2655,6 +2639,22 @@
       "duration_ms": 658906,
       "name": "Departure",
       "url": "https://open.spotify.com/track/4g7sbGRPB5h1oZ265SVz86"
+    },
+    {
+      "added_at": "2026-07-21 15:00:18",
+      "album": {
+        "name": "Don't let me down / \u4eca\u591c\u306f\u30d6\u30ae\u30fc\u30fb\u30d0\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3djgKDFOpfICX31bkOZ9uN"
+      },
+      "artists": [
+        {
+          "name": "cleaned",
+          "url": "https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3"
+        }
+      ],
+      "duration_ms": 256273,
+      "name": "\u4eca\u591c\u306f\u30d6\u30ae\u30fc\u30fb\u30d0\u30c3\u30af",
+      "url": "https://open.spotify.com/track/5FGYRvymVBG0Fbhje3unXJ"
     },
     {
       "added_at": "2026-07-21 15:00:18",

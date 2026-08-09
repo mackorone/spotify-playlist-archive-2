@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover:  Ladipoe
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,089 likes - 68 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,103 likes - 68 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

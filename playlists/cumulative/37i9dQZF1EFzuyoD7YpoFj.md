@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-776 songs - 1 day 17 hr 47 min
+777 songs - 1 day 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -769,8 +769,9 @@
 | [You'll Never Get Rich](https://open.spotify.com/track/15C6kgeHsiGFmQqwR7BsVQ) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter & Freed](https://open.spotify.com/album/0n4c2MgarqOeY4pxl0KzlR) | 0:56 | 2024-07-24 |  |
 | [You're A Bad Influence On Me](https://open.spotify.com/track/0B0uNg6dEwDsgQD5RrXZ7f) | [Carol Sloane](https://open.spotify.com/artist/2CJx2Ijs1UBPmFE2LhhbZM) | [Something Cool](https://open.spotify.com/album/32OPsUnxSRCsY7O0gSC0DY) | 4:07 | 2026-04-05 |  |
 | [You're A Bad Influence On Me](https://open.spotify.com/track/7ygWOl8HyMix1J3BpXRZRU) | [Carol Sloane](https://open.spotify.com/artist/2CJx2Ijs1UBPmFE2LhhbZM) | [Something Cool](https://open.spotify.com/album/2unSzRDCPismEAcknbV2na) | 4:07 | 2024-07-24 | 2026-04-06 |
-| [You're Just Too Too!](https://open.spotify.com/track/0lujjNlHG58ykdMJXt1k6e) | [Gene Kelly](https://open.spotify.com/artist/1mhlGWeiNrWnhJJc2EufYk), [Kay Kendall](https://open.spotify.com/artist/0LsmnoIOr2u5lu2dhLytJx) | [Les Girls \(Original Film Soundtrack\)](https://open.spotify.com/album/4E3iFrSaNfIpAIkJU1o99e) | 2:02 | 2026-08-07 |  |
+| [You're Just Too Too!](https://open.spotify.com/track/0lujjNlHG58ykdMJXt1k6e) | [Gene Kelly](https://open.spotify.com/artist/1mhlGWeiNrWnhJJc2EufYk), [Kay Kendall](https://open.spotify.com/artist/0LsmnoIOr2u5lu2dhLytJx) | [Les Girls \(Original Film Soundtrack\)](https://open.spotify.com/album/4E3iFrSaNfIpAIkJU1o99e) | 2:02 | 2026-08-07 | 2026-08-09 |
 | [You're Just Too, Too!](https://open.spotify.com/track/6yMFCN5ohHra2A7x2iw899) | [Gene Kelly](https://open.spotify.com/artist/1mhlGWeiNrWnhJJc2EufYk) | [I Got Rhythm](https://open.spotify.com/album/6eTcIUVYY214XsgfTlnl2h) | 1:59 | 2024-07-24 | 2026-08-08 |
+| [You're Just Too, Too! \(From "Les Girls"\)](https://open.spotify.com/track/7foR4wFSraMWlJRtT9j5lt) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Gene Kelly](https://open.spotify.com/artist/1mhlGWeiNrWnhJJc2EufYk), [Mitzi Gaynor](https://open.spotify.com/artist/3RWxCgaw6DuD472vn1HyV6), [Betty Wand](https://open.spotify.com/artist/0thVG8jyFpXHRXX6ZP2R0K), [Thora Mathiason](https://open.spotify.com/artist/0w2ulxTJA3dEg1E3vcANhK), [MGM Studio Orchestra](https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1), [Adolph Deutsch](https://open.spotify.com/artist/5XfGFIgAuLp6WecQAJoIHJ) | [Cole Porter's Aladdin](https://open.spotify.com/album/6bdWnW9YfcjQKoTrimT8Af) | 1:59 | 2026-08-08 |  |
 | [You're Sensational](https://open.spotify.com/track/1bbSaQGStvic6NcwS1KI2C) | [Eric Reed Trio](https://open.spotify.com/artist/6lX8wa641FsHnSseVqnG4Q) | [ブルー・トレイン](https://open.spotify.com/album/4oSv9oi3eTM7ati3AuJXkI) | 6:52 | 2024-07-24 |  |
 | [You're Sensational](https://open.spotify.com/track/6LVGUVtdGyGp7iQSxJrwVQ) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [FRANK SINATRA INTEGRAL 1953 \- 1956](https://open.spotify.com/album/3xQiGu3QVKalhMdfTpYq2q) | 3:53 | 2024-07-24 | 2025-07-10 |
 | [You're The Top](https://open.spotify.com/track/1Bj7jBKBnVDRewSxC8oQj2) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:49 | 2024-07-24 |  |

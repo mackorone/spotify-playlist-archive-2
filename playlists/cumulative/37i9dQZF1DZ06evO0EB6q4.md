@@ -4,7 +4,7 @@
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-139 songs - 7 hr 38 min
+140 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Contrato](https://open.spotify.com/track/7DXzrGiWlriwwd5gQ9N76O) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 2:52 | 2025-02-07 | 2025-02-15 |
 | [Cuando Vienes](https://open.spotify.com/track/6cDSD4Okz3E3Yv94kHbCbc) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Cuando Vienes](https://open.spotify.com/album/6LQ41hNMwz53V9deC2X191) | 3:08 | 2024-10-07 | 2025-07-29 |
 | [Cuidado en Quien Confias](https://open.spotify.com/track/34LnKrUc7W3N9zqrdPtts3) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Cualquier Parecido con La Realidad](https://open.spotify.com/album/1fWIXSbLLG41HN0WFdkjGb) | 4:33 | 2024-05-27 | 2024-08-02 |
-| [DE ROCE](https://open.spotify.com/track/4RUgTRaPNQqcIinIVZu1S2) | [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [DE ROCE](https://open.spotify.com/album/2lWUfYaJjdQsg3sLQ3XTJq) | 3:41 | 2026-06-21 |  |
+| [DE ROCE](https://open.spotify.com/track/4RUgTRaPNQqcIinIVZu1S2) | [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [DE ROCE](https://open.spotify.com/album/2lWUfYaJjdQsg3sLQ3XTJq) | 3:41 | 2026-06-21 | 2026-08-09 |
 | [Desarmados](https://open.spotify.com/track/7Mcf8uGggfDxoW2XWVlGns) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Desarmados](https://open.spotify.com/album/6QQSmerojNi78RbZxlyKMW) | 3:35 | 2025-11-25 | 2026-01-24 |
 | [Desde el Fondo](https://open.spotify.com/track/0j8q4omzZCCL62GsxixOCO) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [ZPU](https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb) | [Desde el Fondo](https://open.spotify.com/album/4xDD54XJqrbcLH8FtGjylv) | 3:39 | 2024-12-22 | 2025-09-19 |
 | [Desde el Fondo](https://open.spotify.com/track/6EmMnV672C5ZCgi39Otuhm) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [ZPU](https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb) | [Desde el Fondo](https://open.spotify.com/album/7tm0MO5pYRfglAJn1xJXHr) | 3:39 | 2023-12-30 | 2024-12-22 |
@@ -73,6 +73,7 @@
 | [LQRA Session \#7](https://open.spotify.com/track/0MAYG47TdvfnbqjOzpdHqP) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [LQRA Session \#7](https://open.spotify.com/album/17vGxG6mILdNoMLOpiIJCW) | 2:49 | 2023-12-30 |  |
 | [Mal Mal Mal](https://open.spotify.com/track/1Yrm0hOIWwZtfMf6xS3D3E) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Mal Mal Mal](https://open.spotify.com/album/6iB3O3TKxj76KRjhG71OXf) | 3:48 | 2024-12-20 | 2026-01-15 |
 | [Mal Mal Mal](https://open.spotify.com/track/4ejRdkyeBOCiiBwXRZPywX) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Mal Mal Mal](https://open.spotify.com/album/3x7JpBJgdqWUEDM0M3Tuv5) | 3:48 | 2023-12-30 | 2024-12-20 |
+| [Mamá no llores](https://open.spotify.com/track/11SBTPsqws2Mv33168HXzz) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [MelyMel](https://open.spotify.com/artist/4tM8sp8yDce3Km1pYHQb6Y) | [Mamá no llores](https://open.spotify.com/album/2zyp0bH9VGscc8mruh7OFq) | 3:04 | 2026-08-09 |  |
 | [Me Da Lo Mismo](https://open.spotify.com/track/1UCUqFUvptc9hIAYAbFlXh) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [HECHO M13RD4](https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY) | 4:06 | 2024-06-30 | 2024-12-11 |
 | [Me Da Lo Mismo](https://open.spotify.com/track/220yXgkadQ5amhAdgRAlnl) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Me Da Lo Mismo](https://open.spotify.com/album/3gyF757c6nzibRCWttR1nS) | 4:06 | 2023-12-30 | 2024-06-30 |
 | [Me Da Lo Mismo](https://open.spotify.com/track/5Gd3xX8XfF0BtJifRndvRK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 4:06 | 2024-12-11 |  |

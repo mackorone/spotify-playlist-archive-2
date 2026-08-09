@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Folk latino de estación\. Foto: J18
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,297 likes - 97 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,294 likes - 97 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

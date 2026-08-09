@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w6SaJ.md) - [plain]
 | 17 | [Skulls and Stars \- Original Demo](https://open.spotify.com/track/57v5dmDHj2nsEGc8z9TgGC) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Hurt You So Bad](https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq) | 3:48 |
 | 18 | [Think Fast \- Explicit Album Version](https://open.spotify.com/track/6crdw80t2FE2xPlooMopLp) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/4hLQA4V348qQjKKDGlYEYV) | 3:52 |
 | 19 | [Backpack](https://open.spotify.com/track/3rP37J9X3qMHk99IGYiy0P) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Bishop Lamont](https://open.spotify.com/artist/4RV0poOKGzij1Xe9dsO57h), [Fann](https://open.spotify.com/artist/45R5D1DlUbEW43Q1OHA3ft) | [The Brimstone Sluggers](https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp) | 4:15 |
-| 20 | [Tattoo Dreams](https://open.spotify.com/track/2TMiO4a3idv2vBOpIa7AQ3) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Harvest](https://open.spotify.com/album/3yPR90KJOLOvnWqoQHsmAH) | 3:31 |
-| 21 | [Change](https://open.spotify.com/track/632Ph3SO4KPqoCFviG1sa6) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:44 |
+| 20 | [Change](https://open.spotify.com/track/632Ph3SO4KPqoCFviG1sa6) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:44 |
+| 21 | [Tattoo Dreams](https://open.spotify.com/track/2TMiO4a3idv2vBOpIa7AQ3) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Harvest](https://open.spotify.com/album/3yPR90KJOLOvnWqoQHsmAH) | 3:31 |
 | 22 | [Lollipop Porn \- Explicit Album Version](https://open.spotify.com/track/5DFOPFAEKax83BRIJefrV6) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/4hLQA4V348qQjKKDGlYEYV) | 3:54 |
 | 23 | [Baby You Don't Know](https://open.spotify.com/track/347222YpEP2tSehBnN8b3T) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Fann](https://open.spotify.com/artist/45R5D1DlUbEW43Q1OHA3ft) | [The Brimstone Sluggers](https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp) | 3:09 |
 | 24 | [Cake](https://open.spotify.com/track/1tqVqhZmiiqu4cGjhCHp9D) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Flirting With Disaster](https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC) | 3:02 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w6SaJ.md) - [plain]
 | 38 | [Beautiful](https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:16 |
 | 39 | [Take It To The Bridge](https://open.spotify.com/track/51pnpNaAkB5YWAXZhsW3Fh) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [darkhorse](https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b) | 3:16 |
 
-Snapshot ID: `anPOgAAAAACIVCVOaAMDUC204+Fjzad5`
+Snapshot ID: `anUgAAAAAAAZ+pAsmQvGfad5D7CCFE5p`

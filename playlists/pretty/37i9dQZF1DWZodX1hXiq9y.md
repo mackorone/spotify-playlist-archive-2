@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 
 > The greatest saxophonists in Jazz\. Cover: John Coltrane
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,856 likes - 150 songs - 15 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,876 likes - 150 songs - 15 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,13 +120,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 110 | [Joshua](https://open.spotify.com/track/1F8VmUxEtg73rrugqyMUqU) | [Ernie Watts](https://open.spotify.com/artist/2savq7Id5eDV0DVsoug0wH) | [Analog Man](https://open.spotify.com/album/1CO7OMJS4alGJG1gKOnKlP) | 10:05 |
 | 111 | [Zec](https://open.spotify.com/track/2x5GOzTPdtiBlD2sukLxlp) | [Steve Coleman](https://open.spotify.com/artist/0vEcYt4JfhftX0oarZQLHZ) | [Rhythm In Mind \(The Carnegie Project\)](https://open.spotify.com/album/3glkJxDFG1vBLG64VJAYuH) | 9:09 |
 | 112 | [Slidin' Through](https://open.spotify.com/track/4VgZG06JbEJG6CUU2ZxlKU) | [Arthur Blythe](https://open.spotify.com/artist/2vCGDtmVCSZoGIarYvJK33) | [Lenox Avenue Breakdown](https://open.spotify.com/album/0TjCtBbEIcqcRajdG0oro7) | 9:38 |
-| 113 | [Elysium](https://open.spotify.com/track/0ypNrOIuiIpusrTVLdtRPc) | [Branford Marsalis Quartet](https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9) | [Contemporary Jazz](https://open.spotify.com/album/3NiRWYhEKaA3Keiqw8A9SJ) | 16:02 |
-| 114 | [New Days](https://open.spotify.com/track/7Eh4F3EYUc7pfZ5qWxJMim) | [Benny Reid](https://open.spotify.com/artist/72cz5YneQ6tzhicbgYJIhe) | [Escaping Shadows](https://open.spotify.com/album/0RDcQJnWgde7RGPMurpthW) | 5:29 |
+| 113 | [New Days](https://open.spotify.com/track/7Eh4F3EYUc7pfZ5qWxJMim) | [Benny Reid](https://open.spotify.com/artist/72cz5YneQ6tzhicbgYJIhe) | [Escaping Shadows](https://open.spotify.com/album/0RDcQJnWgde7RGPMurpthW) | 5:29 |
+| 114 | [Elysium](https://open.spotify.com/track/0ypNrOIuiIpusrTVLdtRPc) | [Branford Marsalis Quartet](https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9) | [Contemporary Jazz](https://open.spotify.com/album/3NiRWYhEKaA3Keiqw8A9SJ) | 16:02 |
 | 115 | [Haghia Sophia](https://open.spotify.com/track/3koWLVebFC6KtgEQ5ZMOgd) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Quartets](https://open.spotify.com/album/13sMOpWaJbtf0qNLzBN2Yk) | 7:24 |
 | 116 | [Pannonica](https://open.spotify.com/track/4iuYeo7alKHLLyNBIWbt88) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [Joyous Encounter](https://open.spotify.com/album/7JJAVKH0nRCW4NzpAqUhGu) | 8:05 |
 | 117 | [Kalypso](https://open.spotify.com/track/3WHxN3ZV7Fdvz6iVghJ7yJ) | [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [The Sirens](https://open.spotify.com/album/23gMMqGims4UxU7Q9fzUDK) | 8:24 |
-| 118 | [The Mac Man](https://open.spotify.com/track/26MG7HtLqPVfPRjrVhhb7t) | [Archie Shepp](https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh) | [On This Night](https://open.spotify.com/album/637UaZxeTffGluVJMOvBS3) | 7:27 |
-| 119 | [Blues In Pig Alley](https://open.spotify.com/track/63FHjEdLJDR1VStrTg9LmY) | [Phil Woods](https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f) | [Warm Woods](https://open.spotify.com/album/4lj7s0K81qfLbXdLaDt2Ba) | 3:07 |
+| 118 | [Blues In Pig Alley](https://open.spotify.com/track/63FHjEdLJDR1VStrTg9LmY) | [Phil Woods](https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f) | [Warm Woods](https://open.spotify.com/album/4lj7s0K81qfLbXdLaDt2Ba) | 3:07 |
+| 119 | [The Mac Man](https://open.spotify.com/track/26MG7HtLqPVfPRjrVhhb7t) | [Archie Shepp](https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh) | [On This Night](https://open.spotify.com/album/637UaZxeTffGluVJMOvBS3) | 7:27 |
 | 120 | [Blues in G Flat](https://open.spotify.com/track/0Ue2r9lo6Af2Ix8V1OJWy4) | [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D), [Dave Cliff](https://open.spotify.com/artist/766o096cn0XlOgdB9IB5Cy), [Niels\-Henning Ørsted Pedersen](https://open.spotify.com/artist/673nUEedXxOIdNlPvxXLiM), [Alan Levitt](https://open.spotify.com/artist/5Akzw2vZjeRvDamf6c4FJW) | [The Unissued Copenhagen Studio Session](https://open.spotify.com/album/2x0fbyQOBccjXwUZPVTvWc) | 7:26 |
 | 121 | [Salt And Pepper](https://open.spotify.com/track/1FISZKmm2qIIbh5dZttoFi) | [Fly Trio](https://open.spotify.com/artist/7ygwEivK0GOVKlrtEPK1y7) | [Year Of The Snake](https://open.spotify.com/album/7qVhLKleQh9hqqUdTtZJSh) | 5:04 |
 | 122 | [The Forest](https://open.spotify.com/track/5IxPx8zwI30weoTTaNu2vk) | [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Moving In](https://open.spotify.com/album/6ApnelkoRtJZEQjyORY77D) | 7:43 |

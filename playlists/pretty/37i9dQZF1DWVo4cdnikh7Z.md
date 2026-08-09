@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : DC
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,865 likes - 91 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 758,030 likes - 91 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > ilovemycomputer.2017malware.zip.hyper\_sleaze.electro\_glitch\_\[FINAL\]\_\[REAL\]\_\_coverartists.NinaPorter
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,369,388 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,369,314 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

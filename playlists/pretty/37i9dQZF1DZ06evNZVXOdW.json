@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 9705,
+  "num_followers": 9704,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAAAqaqMErHsqFfG0E9Yhq/Ua",
+  "snapshot_id": "anUgAAAAAAApl7Wa1wk8gZu/ggVCWrEO",
   "tracks": [
     {
       "added_at": null,
@@ -183,18 +183,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siren Islands",
-        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
+        "name": "Trip the Night Fantastic",
+        "url": "https://open.spotify.com/album/1q5gdBspvO2o1fkcHAAMh0"
       },
       "artists": [
         {
+          "name": "Terri Lyne Carrington",
+          "url": "https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP"
+        },
+        {
+          "name": "Social Science",
+          "url": "https://open.spotify.com/artist/5DUkrv5eaZkCU9embIoyr5"
+        },
+        {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Moor Mother",
+          "url": "https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA"
+        },
+        {
+          "name": "Rashaan Carter",
+          "url": "https://open.spotify.com/artist/0aDfV9CStk7AwSQCurBKsQ"
+        },
+        {
+          "name": "Morgan Guerin",
+          "url": "https://open.spotify.com/artist/17j0vWqj5tc8GO1U3izp8d"
         }
       ],
-      "duration_ms": 481220,
-      "name": "Island No. 1",
-      "url": "https://open.spotify.com/track/2m8vgajbox6jm2BbUYMqQf"
+      "duration_ms": 337717,
+      "name": "Prayer Song",
+      "url": "https://open.spotify.com/track/4dfxyErdt8o8WceKTpXTTQ"
     },
     {
       "added_at": null,
@@ -235,38 +255,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trip the Night Fantastic",
-        "url": "https://open.spotify.com/album/1q5gdBspvO2o1fkcHAAMh0"
+        "name": "Siren Islands",
+        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
       },
       "artists": [
         {
-          "name": "Terri Lyne Carrington",
-          "url": "https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP"
-        },
-        {
-          "name": "Social Science",
-          "url": "https://open.spotify.com/artist/5DUkrv5eaZkCU9embIoyr5"
-        },
-        {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Moor Mother",
-          "url": "https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA"
-        },
-        {
-          "name": "Rashaan Carter",
-          "url": "https://open.spotify.com/artist/0aDfV9CStk7AwSQCurBKsQ"
-        },
-        {
-          "name": "Morgan Guerin",
-          "url": "https://open.spotify.com/artist/17j0vWqj5tc8GO1U3izp8d"
         }
       ],
-      "duration_ms": 337717,
-      "name": "Prayer Song",
-      "url": "https://open.spotify.com/track/4dfxyErdt8o8WceKTpXTTQ"
+      "duration_ms": 481220,
+      "name": "Island No. 1",
+      "url": "https://open.spotify.com/track/2m8vgajbox6jm2BbUYMqQf"
     },
     {
       "added_at": null,

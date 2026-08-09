@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 524 likes - 385 songs - 19 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 525 likes - 385 songs - 19 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -246,7 +246,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 236 | [Who Said Gay Paree?](https://open.spotify.com/track/6ZlC37ukvbBzVn3KFaFnUm) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole \- Cole Sings Porter \- Recordings Of Cole Porter Singing Music From Can\-can And Jubilee](https://open.spotify.com/album/32QWIcKipvxNykK5bnwcFs) | 3:31 |
 | 237 | [You Never Know](https://open.spotify.com/track/35wTwYw2BZs5t9rFpg14Pk) | [Donna McKechnie](https://open.spotify.com/artist/72BQq4TmDRWwv4XtiGM4ZF) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 2:43 |
 | 238 | [I Hate You, Darling](https://open.spotify.com/track/5k7jUuI9f0AKQgnfQQPyHu) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Bobby Short Loves Cole Porter](https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP) | 3:08 |
-| 239 | [You're Just Too Too!](https://open.spotify.com/track/0lujjNlHG58ykdMJXt1k6e) | [Gene Kelly](https://open.spotify.com/artist/1mhlGWeiNrWnhJJc2EufYk), [Kay Kendall](https://open.spotify.com/artist/0LsmnoIOr2u5lu2dhLytJx) | [Les Girls \(Original Film Soundtrack\)](https://open.spotify.com/album/4E3iFrSaNfIpAIkJU1o99e) | 2:02 |
+| 239 | [You're Just Too, Too! \(From "Les Girls"\)](https://open.spotify.com/track/7foR4wFSraMWlJRtT9j5lt) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Gene Kelly](https://open.spotify.com/artist/1mhlGWeiNrWnhJJc2EufYk), [Mitzi Gaynor](https://open.spotify.com/artist/3RWxCgaw6DuD472vn1HyV6), [Betty Wand](https://open.spotify.com/artist/0thVG8jyFpXHRXX6ZP2R0K), [Thora Mathiason](https://open.spotify.com/artist/0w2ulxTJA3dEg1E3vcANhK), [MGM Studio Orchestra](https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1), [Adolph Deutsch](https://open.spotify.com/artist/5XfGFIgAuLp6WecQAJoIHJ) | [Cole Porter's Aladdin](https://open.spotify.com/album/6bdWnW9YfcjQKoTrimT8Af) | 1:59 |
 | 240 | [The Law](https://open.spotify.com/track/2BmUV89Lac3uczBg7jRWmj) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Porter, Cole \- Cole Sings Porter \- Recordings Of Cole Porter Singing Music From Can\-can And Jubilee](https://open.spotify.com/album/32QWIcKipvxNykK5bnwcFs) | 3:48 |
 | 241 | [What Shall I Do? \(feat\. David Garrison & Harry Groener\)](https://open.spotify.com/track/0NkceLa3wcYsgtkxzAnSfV) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q), [David Garrison](https://open.spotify.com/artist/4HtdJYR72ol9zSQJRLJWO4), [Harry Groener](https://open.spotify.com/artist/6S61JShQr2Td7pyjOKFEpQ) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 3:07 |
 | 242 | [The Cocotte](https://open.spotify.com/track/0RnpokAzF37svUwKqLmClo) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Cole Porter](https://open.spotify.com/album/6QPbQjalVm7jeB1L7hyq3q) | 2:46 |
@@ -394,4 +394,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 384 | [Hey, Babe, Hey!](https://open.spotify.com/track/2AtJDtWp8xywuhbGQEooyY) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Forgotten Compositions](https://open.spotify.com/album/6e8n4UEP3B71zl6G6WBvYg) | 2:29 |
 | 385 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AcY+IgAAAAClbJpA2XIwXLkbJDV8ohaf`
+Snapshot ID: `AcZD6gAAAAAIuVTAJJV+6N8iNTBh+kjO`

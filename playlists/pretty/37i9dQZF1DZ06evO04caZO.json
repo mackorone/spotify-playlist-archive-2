@@ -1,12 +1,12 @@
 {
   "description": "This is The Strokes. The essential tracks, all in one playlist.",
-  "num_followers": 500448,
+  "num_followers": 500552,
   "original_name": "This Is The Strokes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAAAV1TkPV3KUDjmRNkeRWaCa",
+  "snapshot_id": "anUgAAAAAACFDB3+enRjMZxJlmfzV9qg",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 323800,
-      "name": "Psycho Shit",
-      "url": "https://open.spotify.com/track/1bsPoGSrs4Vv8iuUs9GQI7"
+      "duration_ms": 258506,
+      "name": "Going Shopping",
+      "url": "https://open.spotify.com/track/18bHbpAKgsf8dor8F6qXHF"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 290773,
-      "name": "Liar's Remorse",
-      "url": "https://open.spotify.com/track/2DqVYGuRxSdzZ2ZQMbwY6M"
+      "duration_ms": 308093,
+      "name": "The Fruits of Conquest",
+      "url": "https://open.spotify.com/track/4VyIPdTdDzJ1zkq2vvBmrW"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 308093,
-      "name": "The Fruits of Conquest",
-      "url": "https://open.spotify.com/track/4VyIPdTdDzJ1zkq2vvBmrW"
+      "duration_ms": 290773,
+      "name": "Liar's Remorse",
+      "url": "https://open.spotify.com/track/2DqVYGuRxSdzZ2ZQMbwY6M"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 258506,
-      "name": "Going Shopping",
-      "url": "https://open.spotify.com/track/18bHbpAKgsf8dor8F6qXHF"
+      "duration_ms": 323800,
+      "name": "Psycho Shit",
+      "url": "https://open.spotify.com/track/1bsPoGSrs4Vv8iuUs9GQI7"
     },
     {
       "added_at": null,

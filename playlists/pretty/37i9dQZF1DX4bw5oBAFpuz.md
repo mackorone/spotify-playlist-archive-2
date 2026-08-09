@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bw5oBAFpuz.md) - [plain]
 
 > Ideale muziek voor de werkdag
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,694 likes - 250 songs - 13 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,689 likes - 250 songs - 13 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -244,15 +244,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bw5oBAFpuz.md) - [plain]
 | 234 | [Plage](https://open.spotify.com/track/3WU1BGMLe9Tg2QuVmRPpw6) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Star of Love \(+ acoustic version\)](https://open.spotify.com/album/5z6klKjs2g01A8z5sHljhQ) | 3:50 |
 | 235 | [Die For You](https://open.spotify.com/track/64tOhYVyesLmhhky9R5RAE) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Die For You](https://open.spotify.com/album/6EetSjlBdamHHg82She66u) | 3:06 |
 | 236 | [Space for Two](https://open.spotify.com/track/2vNyWYQtbrgOKcSG64SZMJ) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Space for Two](https://open.spotify.com/album/6QdFacG9oVksFA7py1AltG) | 3:26 |
-| 237 | [COMPLETE MESS](https://open.spotify.com/track/48kpWTPYYy5Edp3CHwrrOj) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:26 |
+| 237 | [How Am I Gonna Love Myself](https://open.spotify.com/track/2XQZn07ixmAvy4VwCYZ0R0) | [Rianne](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb), [Marcel Veenendaal](https://open.spotify.com/artist/0hfRYFpwyGSFZtOPfEqUHD) | [How Am I Gonna Love Myself](https://open.spotify.com/album/5x9kqNOUiD5qinQu58cRDB) | 3:17 |
 | 238 | [Nobody Knows](https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Nobody Knows](https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj) | 2:32 |
-| 239 | [Louder](https://open.spotify.com/track/1F3tkkKZrYFxQJ9d8EKePh) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Louder](https://open.spotify.com/album/5sIGXhcUk3h0RyJVw0Mag3) | 3:49 |
-| 240 | [How Am I Gonna Love Myself](https://open.spotify.com/track/2XQZn07ixmAvy4VwCYZ0R0) | [Rianne](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb), [Marcel Veenendaal](https://open.spotify.com/artist/0hfRYFpwyGSFZtOPfEqUHD) | [How Am I Gonna Love Myself](https://open.spotify.com/album/5x9kqNOUiD5qinQu58cRDB) | 3:17 |
+| 239 | [COMPLETE MESS](https://open.spotify.com/track/48kpWTPYYy5Edp3CHwrrOj) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:26 |
+| 240 | [Louder](https://open.spotify.com/track/1F3tkkKZrYFxQJ9d8EKePh) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Louder](https://open.spotify.com/album/5sIGXhcUk3h0RyJVw0Mag3) | 3:49 |
 | 241 | [Tell Me That You Love Me](https://open.spotify.com/track/2wHA4yJKT8TJhGz20QxUqX) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Tell Me That You Love Me](https://open.spotify.com/album/4oWsCEo45zfCdw8piPQUYm) | 3:14 |
 | 242 | [Swim With Sam \- rerecorded](https://open.spotify.com/track/7HWxIBizOFNo505Ljw6IcV) | [a balladeer](https://open.spotify.com/artist/5MUNbMtqB3EOKxwSJBVJ1U) | [Swim With Sam](https://open.spotify.com/album/3NSLHcKHZ8422YD7MQO8Ch) | 4:23 |
 | 243 | [Hunter](https://open.spotify.com/track/0tu3IW9kbapTXjdgp7ClFL) | [Sandra van Nieuwland](https://open.spotify.com/artist/255PaovXNzjBcODZn42QgC) | [Hunter](https://open.spotify.com/album/5PmxMLXItoWNckYoSPgKfY) | 3:05 |
-| 244 | [Before It Might Be Gone](https://open.spotify.com/track/4QqixSXWSTWq1rC5DzCz92) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Before It Might Be Gone](https://open.spotify.com/album/3EVICWZusdGvnKGYkY9AGM) | 4:56 |
-| 245 | [Be Yours](https://open.spotify.com/track/46lJyMkWR3BXZ6XLdZzhZ5) | [Rianne](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Be Yours](https://open.spotify.com/album/5niw3k5NSVyeBxDcdA3umi) | 3:15 |
+| 244 | [Be Yours](https://open.spotify.com/track/46lJyMkWR3BXZ6XLdZzhZ5) | [Rianne](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Be Yours](https://open.spotify.com/album/5niw3k5NSVyeBxDcdA3umi) | 3:15 |
+| 245 | [Before It Might Be Gone](https://open.spotify.com/track/4QqixSXWSTWq1rC5DzCz92) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Before It Might Be Gone](https://open.spotify.com/album/3EVICWZusdGvnKGYkY9AGM) | 4:56 |
 | 246 | [Divide](https://open.spotify.com/track/0PbCOBEUjlnvBCe5uCdLlw) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:23 |
 | 247 | [Drown Us Out](https://open.spotify.com/track/7Jfz5QUZE8T6ZRrNfAO04V) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Drown Us Out](https://open.spotify.com/album/7cVVLx6eUOcKPU9dKs7axq) | 3:16 |
 | 248 | [I Guess I'm Sure](https://open.spotify.com/track/6UsRZit9dmciyAigtef9tn) | [Orange Skyline](https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx) | [I Guess I'm Sure](https://open.spotify.com/album/1zYpgbsAIdkbSQH2UDRiXG) | 3:32 |

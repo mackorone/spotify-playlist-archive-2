@@ -1,13 +1,29 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1332,
+  "num_followers": 1333,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAWrNNyJN91znWDKq6aYFZ0patAS7cd",
+  "snapshot_id": "AAAWr6pBJBCE+RulAfy7jfMVueqog70l",
   "tracks": [
+    {
+      "added_at": "2026-08-08 16:10:37",
+      "album": {
+        "name": "Just Human",
+        "url": "https://open.spotify.com/album/4CfKQUWU0oSfBey94KBYHt"
+      },
+      "artists": [
+        {
+          "name": "Modjo Atmodjo",
+          "url": "https://open.spotify.com/artist/28QDPpgHwt46auRYwz9679"
+        }
+      ],
+      "duration_ms": 226789,
+      "name": "Just Human",
+      "url": "https://open.spotify.com/track/1ph19dy5HOqRQU0QOVOPal"
+    },
     {
       "added_at": "2026-07-02 22:11:30",
       "album": {
@@ -2511,6 +2527,38 @@
       "duration_ms": 148414,
       "name": "Ciego",
       "url": "https://open.spotify.com/track/15apmAe5SqNBGzG0FXrrqj"
+    },
+    {
+      "added_at": "2026-08-08 09:22:30",
+      "album": {
+        "name": "Together Forever",
+        "url": "https://open.spotify.com/album/6rRWrGfD2j9MsJIIYwlRCR"
+      },
+      "artists": [
+        {
+          "name": "Distortion Peak",
+          "url": "https://open.spotify.com/artist/7f6wI2Pt4JIYxcvjwyfCix"
+        }
+      ],
+      "duration_ms": 165688,
+      "name": "Together Forever",
+      "url": "https://open.spotify.com/track/52iZ8XgcPT09O8zs4KZz48"
+    },
+    {
+      "added_at": "2026-08-08 09:22:33",
+      "album": {
+        "name": "Bomboclat",
+        "url": "https://open.spotify.com/album/7C8g2GrGqJtmTv4wMLYaRY"
+      },
+      "artists": [
+        {
+          "name": "LUVVY BLAZE",
+          "url": "https://open.spotify.com/artist/15PHS0SuounNY9wPmSxxe4"
+        }
+      ],
+      "duration_ms": 158550,
+      "name": "Bomboclat",
+      "url": "https://open.spotify.com/track/7iJykwxcRyzWcJazK3hyrU"
     }
   ],
   "unique_name": "New Indie Music",

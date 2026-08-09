@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:0rmQ0vdPMgWqE68a1njhTv">segunda terapia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,064 likes - 17 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,065 likes - 17 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,4 +26,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 | 16 | [a filha única \#86](https://open.spotify.com/episode/6ChdXpsSrra1Yd8S5r1eWd) | [bom mesmo é ser emocionada](https://open.spotify.com/show/27BapqwMhGJQ28paJU8bDE) | [bom mesmo é ser emocionada](https://open.spotify.com/album/27BapqwMhGJQ28paJU8bDE) | 20:44 |
 | 17 | [O QUE TEM NA SUA CARTEIRA? \#82 \| Pequena Lô, psicóloga e humorista](https://open.spotify.com/episode/1fHGeAt9X9w4kKMt8qMfMK) | [O que tem na sua carteira?](https://open.spotify.com/show/0TAMn2YGFdRgi3odrRdlQG) | [O que tem na sua carteira?](https://open.spotify.com/album/0TAMn2YGFdRgi3odrRdlQG) | 1:02:21 |
 
-Snapshot ID: `AAAAAA10a6vsaTa9aAHhlTKmKxO/GDMh`
+Snapshot ID: `AAAAAG9wOd2zWX12buyOMSq5m0uUchK7`

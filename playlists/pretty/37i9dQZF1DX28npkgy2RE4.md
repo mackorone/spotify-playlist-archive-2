@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 
 > New styles, deep sounds\. Cover: Helado Negro
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,415 likes - 150 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,409 likes - 150 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 97 | [Heroes](https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Heroes](https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks) | 3:13 |
 | 98 | [Diamonds In The Snow](https://open.spotify.com/track/45FWmYpboXilptta3D9fxD) | [Scott McMicken and THE EVER\-EXPANDING](https://open.spotify.com/artist/47xDbhx3J0JVT6hnPTIRCc) | [Shabang](https://open.spotify.com/album/673d0gEuxw2dsPfNFR61gv) | 4:10 |
 | 99 | [Star Nation](https://open.spotify.com/track/1jE0hqBMtVp7TLy28cZwVq) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Star Nation](https://open.spotify.com/album/3SwurzELHbFxDLqPYDGTNG) | 4:06 |
-| 100 | [Strange Weather](https://open.spotify.com/track/12O9MpMmewwdDkxZC9uqvS) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Strange Weather](https://open.spotify.com/album/3lXZxaI5WDRQjNPSGNG7RF) | 3:28 |
-| 101 | [Everything](https://open.spotify.com/track/3tQXwwGZOYrz6xbl7e7yZg) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Everything](https://open.spotify.com/album/0OvSbzmj1pyI5z4PNNFnDA) | 3:17 |
+| 100 | [Everything](https://open.spotify.com/track/3tQXwwGZOYrz6xbl7e7yZg) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Everything](https://open.spotify.com/album/0OvSbzmj1pyI5z4PNNFnDA) | 3:17 |
+| 101 | [Strange Weather](https://open.spotify.com/track/12O9MpMmewwdDkxZC9uqvS) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Strange Weather](https://open.spotify.com/album/3lXZxaI5WDRQjNPSGNG7RF) | 3:28 |
 | 102 | [Dublin, Texas](https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c) | [RF Shannon](https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5) | [Dublin, Texas](https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW) | 4:29 |
 | 103 | [Coast](https://open.spotify.com/track/1oI37bcVXsXl53sybDjABv) | [Participant](https://open.spotify.com/artist/7G3EOvlud2ZumHznucmZPc) | [Coast](https://open.spotify.com/album/2UWQ6ykErgoDdlR2b0Rows) | 3:55 |
 | 104 | [Stranger Danger](https://open.spotify.com/track/6XXk2EZcBg3hbaX2HN8GyA) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Stranger Danger](https://open.spotify.com/album/2bpaU06D3UgJvJiCWBnWNS) | 4:41 |
@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 111 | [Mouth \(feat\. Luke Krutzke\)](https://open.spotify.com/track/0m9kuJ9oqrFggrKRSoUjHi) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3), [Luke Krutzke](https://open.spotify.com/artist/6t9hzWxvuXL8ReWPxOJSCL) | [Mouth \(feat\. Luke Krutzke\)](https://open.spotify.com/album/5gB9ZVjB13bC5jheVAEOtg) | 3:56 |
 | 112 | [First Time Feeling](https://open.spotify.com/track/35q6uD5WsqzRPEblLjj5dw) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/3qm2g5r2eWFVYiIGZVt4Ro) | 3:06 |
 | 113 | [Desire](https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Desire](https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld) | 2:59 |
-| 114 | [Not Healthy Anymore](https://open.spotify.com/track/5miGESqEVwfKAdjE164WXx) | [Cale Tyson](https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy) | [Narcissist \- EP](https://open.spotify.com/album/66d8LWhYAHdrzp1W3xQ4hT) | 4:01 |
-| 115 | [Wisteria](https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Wisteria](https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU) | 2:49 |
+| 114 | [Wisteria](https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Wisteria](https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU) | 2:49 |
+| 115 | [Not Healthy Anymore](https://open.spotify.com/track/5miGESqEVwfKAdjE164WXx) | [Cale Tyson](https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy) | [Narcissist \- EP](https://open.spotify.com/album/66d8LWhYAHdrzp1W3xQ4hT) | 4:01 |
 | 116 | [100 Proof](https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [100 Proof](https://open.spotify.com/album/3bzFV8jpkLzzCB5mmz1sDi) | 3:58 |
 | 117 | [Third Way](https://open.spotify.com/track/3IMUCgc92c7ciudifIGkLf) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Begin Again \- EP](https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN) | 4:47 |
 | 118 | [On the Outside](https://open.spotify.com/track/0fUo33Ryw7ValBsv9YhIGS) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE) | [On the Outside](https://open.spotify.com/album/2qnDuMSAFO9PADlED1CnLt) | 3:09 |

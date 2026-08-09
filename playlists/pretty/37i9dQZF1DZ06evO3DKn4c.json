@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAAB2LMRfQ1oEj5ObL/MXaylL",
+  "snapshot_id": "anUgAAAAAABZKYlZQDYByNlJVQy0nHPv",
   "tracks": [
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
-      },
-      "artists": [
-        {
-          "name": "Planet Hemp",
-          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 220709,
-      "name": "ZEROVINTEUM - Ao Vivo",
-      "url": "https://open.spotify.com/track/4w2BuOQ6nwRujsT1clIj8j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como Eu Te Quero (Remix)",
         "url": "https://open.spotify.com/album/202XFQhcWaClPP1PbwDb5y"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 190476,
       "name": "Como Eu Te Quero - Remix",
       "url": "https://open.spotify.com/track/028kyZPJ1bWNSDrtmj6CWM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BASEADO EM FATOS REAIS: 30 ANOS DE FUMA\u00c7A (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew"
+      },
+      "artists": [
+        {
+          "name": "Planet Hemp",
+          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 220709,
+      "name": "ZEROVINTEUM - Ao Vivo",
+      "url": "https://open.spotify.com/track/4w2BuOQ6nwRujsT1clIj8j"
     },
     {
       "added_at": null,
@@ -639,30 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fast Five (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4m2xhUYfu1TIPoSDpQAOp8"
-      },
-      "artists": [
-        {
-          "name": "Tejo",
-          "url": "https://open.spotify.com/artist/1v43iHOxg4GZtganT7wcjH"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "Speed",
-          "url": "https://open.spotify.com/artist/0jO4EktP5hJgHvd4fhN5p7"
-        }
-      ],
-      "duration_ms": 187746,
-      "name": "Follow Me Follow Me (Quem Que Caguetou?) - Fast 5 Hybrid Remix",
-      "url": "https://open.spotify.com/track/186BCL46iM9FeZNNHfBU02"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bambas & Biritas, Vol. 1",
         "url": "https://open.spotify.com/album/6VXrWuih63rlLPkWHI0Lqa"
       },
@@ -683,6 +659,30 @@
       "duration_ms": 307253,
       "name": "Na Noite Se Resolve",
       "url": "https://open.spotify.com/track/0LudrxIEUQT7P2f8DkBfDU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fast Five (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4m2xhUYfu1TIPoSDpQAOp8"
+      },
+      "artists": [
+        {
+          "name": "Tejo",
+          "url": "https://open.spotify.com/artist/1v43iHOxg4GZtganT7wcjH"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/0jO4EktP5hJgHvd4fhN5p7"
+        }
+      ],
+      "duration_ms": 187746,
+      "name": "Follow Me Follow Me (Quem Que Caguetou?) - Fast 5 Hybrid Remix",
+      "url": "https://open.spotify.com/track/186BCL46iM9FeZNNHfBU02"
     },
     {
       "added_at": null,

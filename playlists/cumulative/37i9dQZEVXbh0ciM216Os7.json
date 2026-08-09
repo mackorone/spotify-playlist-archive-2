@@ -25746,7 +25746,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 186656,
       "name": "Funny Style",
       "url": "https://open.spotify.com/track/4XQ2DSQgiOSgQdoVzrSJ0V"
@@ -28916,6 +28916,28 @@
       "duration_ms": 156861,
       "name": "H to the Wu",
       "url": "https://open.spotify.com/track/2HX8oEPPmLYezVrGE7KhO2"
+    },
+    {
+      "album": {
+        "name": "Dragon's Breath",
+        "url": "https://open.spotify.com/album/4YBEbDFrRJQPGD8tUiYGFZ"
+      },
+      "artists": [
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        },
+        {
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "H.E.C.T.O.R.",
+      "url": "https://open.spotify.com/track/60ODzTFphuuDMVAvoAveNY"
     },
     {
       "album": {
@@ -33531,6 +33553,40 @@
     },
     {
       "album": {
+        "name": "Whatchu Bringing?",
+        "url": "https://open.spotify.com/album/6MbJ2c8J9rHWniycGG3AZT"
+      },
+      "artists": [
+        {
+          "name": "Dinner Party",
+          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Phoelix",
+          "url": "https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137984,
+      "name": "I Wonder (feat. Phoelix)",
+      "url": "https://open.spotify.com/track/23DXnuvmYOezDiKTFSt91l"
+    },
+    {
+      "album": {
         "name": "I'll Be Around",
         "url": "https://open.spotify.com/album/19FgcQw8fRGL25HZsKYmZP"
       },
@@ -34466,7 +34522,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 2218040,
       "name": "In a Silent Way / What About Time - Live at Big Ears",
       "url": "https://open.spotify.com/track/15VTTCmsGg3eT5lszhYiQq"
@@ -61048,7 +61104,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 1499360,
       "name": "Shhh / Shalom - Live at Big Ears",
       "url": "https://open.spotify.com/track/1skcKONGXjFfYvh2kIOTmj"
@@ -65252,7 +65308,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 163935,
       "name": "Stop Being Late (feat. J. Ivy)",
       "url": "https://open.spotify.com/track/4vi1vMGebwMS8KzumrEPDw"

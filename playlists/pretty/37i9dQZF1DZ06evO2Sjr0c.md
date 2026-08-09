@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 
 > This is Grateful Dead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,172 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,208 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 | 46 | [Hell in a Bucket \- 2013 Remaster](https://open.spotify.com/track/2T2bhluy0slS4CZIMiAvYE) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [In the Dark](https://open.spotify.com/album/1KytsXm6VQcyX5B5m8HBNa) | 5:37 |
 | 47 | [Help on the Way / Slipknot! \- 2013 Remaster](https://open.spotify.com/track/5mWhyozge9IIMdfIboHgGI) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Blues for Allah \(2013 Remaster\)](https://open.spotify.com/album/5BwjVdVJ4aOmbIYomznfCv) | 7:21 |
 | 48 | [The Golden Road \- 2013 Remaster](https://open.spotify.com/track/22W574PUUECix1yNCWalgx) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [The Grateful Dead](https://open.spotify.com/album/2Qkp6ALKO8kcONs4zq1t2D) | 2:12 |
-| 49 | [Mississippi Half\-Step Uptown Toodeloo \- 2013 Remaster](https://open.spotify.com/track/6AobkjMl8MdQwFOOmgzEaC) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Wake of the Flood \(2013 Remaster\)](https://open.spotify.com/album/4wIEQMHtdye4aeSc2FYxI0) | 5:44 |
-| 50 | [Wharf Rat \- Live at Fillmore East, New York, NY, April 26, 1971](https://open.spotify.com/track/0JKWRYAxDyWqS14WmtLFOf) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Grateful Dead \(Skull & Roses\) \[Live\]](https://open.spotify.com/album/0ObxRAQTpVO1u7bT3VxrIN) | 8:31 |
+| 49 | [Wharf Rat \- Live at Fillmore East, New York, NY, April 26, 1971](https://open.spotify.com/track/0JKWRYAxDyWqS14WmtLFOf) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Grateful Dead \(Skull & Roses\) \[Live\]](https://open.spotify.com/album/0ObxRAQTpVO1u7bT3VxrIN) | 8:31 |
+| 50 | [Mississippi Half\-Step Uptown Toodeloo \- 2013 Remaster](https://open.spotify.com/track/6AobkjMl8MdQwFOOmgzEaC) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Wake of the Flood \(2013 Remaster\)](https://open.spotify.com/album/4wIEQMHtdye4aeSc2FYxI0) | 5:44 |
 
-Snapshot ID: `anPOgAAAAAB2AVe9TtFOyZUZCp0k93aD`
+Snapshot ID: `anUgAAAAAADBcUeWIVjMMDvqzgnSeKTU`

@@ -1,6 +1,6 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 55168,
+  "num_followers": 55177,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-08-07 10:55:48",
       "album": {
-        "name": "Sushi In Tokyo",
-        "url": "https://open.spotify.com/album/4VaSmqWNTq0WV2YO0NKJHx"
-      },
-      "artists": [
-        {
-          "name": "DVNA",
-          "url": "https://open.spotify.com/artist/6yADvjIe1epS2B0tUJcfu1"
-        }
-      ],
-      "duration_ms": 211999,
-      "name": "Sushi In Tokyo",
-      "url": "https://open.spotify.com/track/4SYjKQ4GmsRNfC4odrRENP"
-    },
-    {
-      "added_at": "2026-08-07 10:55:48",
-      "album": {
         "name": "So Long So Blue",
         "url": "https://open.spotify.com/album/1FfNRADiycPsvyQ1CoYcfZ"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 225600,
       "name": "Goodbye Blurry Days",
       "url": "https://open.spotify.com/track/7GGo7J2kWtuBqJ8AyuRCop"
+    },
+    {
+      "added_at": "2026-08-07 10:55:48",
+      "album": {
+        "name": "Sushi In Tokyo",
+        "url": "https://open.spotify.com/album/4VaSmqWNTq0WV2YO0NKJHx"
+      },
+      "artists": [
+        {
+          "name": "DVNA",
+          "url": "https://open.spotify.com/artist/6yADvjIe1epS2B0tUJcfu1"
+        }
+      ],
+      "duration_ms": 211999,
+      "name": "Sushi In Tokyo",
+      "url": "https://open.spotify.com/track/4SYjKQ4GmsRNfC4odrRENP"
     },
     {
       "added_at": "2026-08-07 10:55:48",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-08-07 10:55:48",
       "album": {
-        "name": "yomichi",
-        "url": "https://open.spotify.com/album/048Hs52yaVV2YrTTVHeMnj"
-      },
-      "artists": [
-        {
-          "name": "The LASTTRAK",
-          "url": "https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "yomichi",
-      "url": "https://open.spotify.com/track/5tEn5wDeLSd0fX98oGGKJQ"
-    },
-    {
-      "added_at": "2026-08-07 10:55:48",
-      "album": {
         "name": "rias",
         "url": "https://open.spotify.com/album/5VTcKFRS2N17XvHvutoF2A"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 283170,
       "name": "rias",
       "url": "https://open.spotify.com/track/3CZCrLdOuNdpprDXXjeH0S"
+    },
+    {
+      "added_at": "2026-08-07 10:55:48",
+      "album": {
+        "name": "yomichi",
+        "url": "https://open.spotify.com/album/048Hs52yaVV2YrTTVHeMnj"
+      },
+      "artists": [
+        {
+          "name": "The LASTTRAK",
+          "url": "https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "yomichi",
+      "url": "https://open.spotify.com/track/5tEn5wDeLSd0fX98oGGKJQ"
     },
     {
       "added_at": "2026-08-07 10:55:48",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2026-08-07 10:55:48",
       "album": {
-        "name": "cycling break",
-        "url": "https://open.spotify.com/album/6NdjDaNui5lhGKM8qY4MuP"
-      },
-      "artists": [
-        {
-          "name": "\u30a2\u30c4\u30e0\u30ef\u30f3\u30c0\u30d5\u30eb",
-          "url": "https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW"
-        },
-        {
-          "name": "\u4e00\u670dtrack",
-          "url": "https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed"
-        }
-      ],
-      "duration_ms": 306000,
-      "name": "cycling break",
-      "url": "https://open.spotify.com/track/0oR80EdfVbRs0gJgNMEsq4"
-    },
-    {
-      "added_at": "2026-08-07 10:55:48",
-      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/6hI75GsBZzJ5MaMXgdgFeB"
       },
@@ -1215,6 +1195,26 @@
     {
       "added_at": "2026-08-07 10:55:48",
       "album": {
+        "name": "cycling break",
+        "url": "https://open.spotify.com/album/6NdjDaNui5lhGKM8qY4MuP"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30c4\u30e0\u30ef\u30f3\u30c0\u30d5\u30eb",
+          "url": "https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW"
+        },
+        {
+          "name": "\u4e00\u670dtrack",
+          "url": "https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed"
+        }
+      ],
+      "duration_ms": 306000,
+      "name": "cycling break",
+      "url": "https://open.spotify.com/track/0oR80EdfVbRs0gJgNMEsq4"
+    },
+    {
+      "added_at": "2026-08-07 10:55:48",
+      "album": {
         "name": "Purity",
         "url": "https://open.spotify.com/album/6JJ0yNDRmtA0hRAOD6CI7B"
       },
@@ -1227,22 +1227,6 @@
       "duration_ms": 245200,
       "name": "Purity",
       "url": "https://open.spotify.com/track/76wrOGIeIvg7yA8yCUvqNj"
-    },
-    {
-      "added_at": "2026-08-07 10:55:48",
-      "album": {
-        "name": "Chamomile",
-        "url": "https://open.spotify.com/album/6xsSwoYLUzO1g2eVATDlbQ"
-      },
-      "artists": [
-        {
-          "name": "KOTARO SAITO",
-          "url": "https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX"
-        }
-      ],
-      "duration_ms": 196250,
-      "name": "Chamomile",
-      "url": "https://open.spotify.com/track/6LvQFF9REVEO1aYfG07e0z"
     },
     {
       "added_at": "2026-08-07 10:55:48",
@@ -1299,6 +1283,22 @@
     {
       "added_at": "2026-08-07 10:55:48",
       "album": {
+        "name": "Chamomile",
+        "url": "https://open.spotify.com/album/6xsSwoYLUzO1g2eVATDlbQ"
+      },
+      "artists": [
+        {
+          "name": "KOTARO SAITO",
+          "url": "https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "Chamomile",
+      "url": "https://open.spotify.com/track/6LvQFF9REVEO1aYfG07e0z"
+    },
+    {
+      "added_at": "2026-08-07 10:55:48",
+      "album": {
         "name": "Blue Notes",
         "url": "https://open.spotify.com/album/7v1n7XIcKDaYLFOTZwyNVf"
       },
@@ -1315,26 +1315,6 @@
       "duration_ms": 198369,
       "name": "Blue Notes",
       "url": "https://open.spotify.com/track/6tzQ5fqJVqEnw36qwdliJs"
-    },
-    {
-      "added_at": "2026-08-07 10:55:48",
-      "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/1ITqSRuosyfNyvy4QPVOQP"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        },
-        {
-          "name": "Akacia",
-          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/1A78vsnQhQCGqeaX14LUhB"
     },
     {
       "added_at": "2026-08-07 10:55:48",
@@ -1367,6 +1347,26 @@
       "duration_ms": 196875,
       "name": "Ghost Town - Side-B",
       "url": "https://open.spotify.com/track/2vXiZpZWU2Lp4tbSkpKEnS"
+    },
+    {
+      "added_at": "2026-08-07 10:55:48",
+      "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/1ITqSRuosyfNyvy4QPVOQP"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        },
+        {
+          "name": "Akacia",
+          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1A78vsnQhQCGqeaX14LUhB"
     },
     {
       "added_at": "2026-08-07 10:55:48",
@@ -1755,22 +1755,18 @@
     {
       "added_at": "2026-08-07 10:55:48",
       "album": {
-        "name": "FADE AWAY",
-        "url": "https://open.spotify.com/album/4dXqGDJUhy6JUqulb1aAP1"
+        "name": "\u30a2\u30a4\u30eb",
+        "url": "https://open.spotify.com/album/3iPvyiDqZv85VVHWqCSfjQ"
       },
       "artists": [
         {
-          "name": "JIDA",
-          "url": "https://open.spotify.com/artist/0Yr4WTbWPoSarkxhU1eS5b"
-        },
-        {
-          "name": "Rachel Lim",
-          "url": "https://open.spotify.com/artist/4LY4Kd3wNEZxMwZygueoqc"
+          "name": "haruka nakamura",
+          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
         }
       ],
-      "duration_ms": 213098,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/523JhlyXKv5nUyRUFbYSlS"
+      "duration_ms": 245500,
+      "name": "\u54c0\u3057\u3044\u4e88\u611f / \u30ea\u30ea\u30a6\u30e0",
+      "url": "https://open.spotify.com/track/0Ov5RZIZfDD8A2d9nOWUgQ"
     }
   ],
   "unique_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! August ambassador: <a href="spotify:artist:2sGGaKKex7GgNlH1DRXZSa">Inez</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,357 likes - 65 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,366 likes - 65 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

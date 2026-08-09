@@ -1,12 +1,12 @@
 {
   "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
-  "num_followers": 88514,
+  "num_followers": 88537,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAADL3WXnv+PAgYmBIuLMxli4",
+  "snapshot_id": "anUgAAAAAACNy8asOqMnDs5zU1+xOYBj",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elliott Smith",
-        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 166320,
-      "name": "Clementine",
-      "url": "https://open.spotify.com/track/1pTwsLvnN8xPULDGzRjnfd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 280106,
       "name": "Waltz #2 (XO)",
       "url": "https://open.spotify.com/track/5AMrnF761nziCWUfjBgRUI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elliott Smith",
+        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 166320,
+      "name": "Clementine",
+      "url": "https://open.spotify.com/track/1pTwsLvnN8xPULDGzRjnfd"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 223400,
-      "name": "Alameda",
-      "url": "https://open.spotify.com/track/7hg9DGPDztq8fjIr2YweZb"
+      "duration_ms": 181293,
+      "name": "Speed Trials",
+      "url": "https://open.spotify.com/track/05lmqBrKGLHAmqsADEuU9a"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 181293,
-      "name": "Speed Trials",
-      "url": "https://open.spotify.com/track/05lmqBrKGLHAmqsADEuU9a"
+      "duration_ms": 223400,
+      "name": "Alameda",
+      "url": "https://open.spotify.com/track/7hg9DGPDztq8fjIr2YweZb"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 216960,
-      "name": "Roman Candle",
-      "url": "https://open.spotify.com/track/3zUkBorysSm42GV4akxnoB"
+      "duration_ms": 183053,
+      "name": "No Name #1",
+      "url": "https://open.spotify.com/track/5fKfzL3IVXqilKqFu1E8is"
     },
     {
       "added_at": null,
@@ -468,29 +468,25 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 183053,
-      "name": "No Name #1",
-      "url": "https://open.spotify.com/track/5fKfzL3IVXqilKqFu1E8is"
+      "duration_ms": 216960,
+      "name": "Roman Candle",
+      "url": "https://open.spotify.com/track/3zUkBorysSm42GV4akxnoB"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Heaven Adores You Soundtrack",
-        "url": "https://open.spotify.com/album/7Ilu6VpX49cnTkgklQpz4M"
+        "name": "From a Basement on the Hill",
+        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
       },
       "artists": [
-        {
-          "name": "Heatmiser",
-          "url": "https://open.spotify.com/artist/59IPo3F7aZifhZtHnoGHbo"
-        },
         {
           "name": "Elliott Smith",
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 300520,
-      "name": "Christian Brothers",
-      "url": "https://open.spotify.com/track/1QUXSToImDkW7CUzJwRrWQ"
+      "duration_ms": 207733,
+      "name": "The Last Hour",
+      "url": "https://open.spotify.com/track/4w3lNFu4Vwkq2nW1mofie6"
     },
     {
       "added_at": null,
@@ -543,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "From a Basement on the Hill",
-        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
+        "name": "Heaven Adores You Soundtrack",
+        "url": "https://open.spotify.com/album/7Ilu6VpX49cnTkgklQpz4M"
       },
       "artists": [
+        {
+          "name": "Heatmiser",
+          "url": "https://open.spotify.com/artist/59IPo3F7aZifhZtHnoGHbo"
+        },
         {
           "name": "Elliott Smith",
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 207733,
-      "name": "The Last Hour",
-      "url": "https://open.spotify.com/track/4w3lNFu4Vwkq2nW1mofie6"
+      "duration_ms": 300520,
+      "name": "Christian Brothers",
+      "url": "https://open.spotify.com/track/1QUXSToImDkW7CUzJwRrWQ"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Figure 8 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5EUL6RGTIuVJCaCWGOedan"
+        "name": "From A Basement On The Hill",
+        "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 139973,
-      "name": "Because",
-      "url": "https://open.spotify.com/track/0W78mVK0xVPpOD7oh4medH"
+      "duration_ms": 33800,
+      "name": "Ostrich And Chirping",
+      "url": "https://open.spotify.com/track/25OfkVstO0W60e8OHCggox"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From A Basement On The Hill",
-        "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
+        "name": "Figure 8 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5EUL6RGTIuVJCaCWGOedan"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 33800,
-      "name": "Ostrich And Chirping",
-      "url": "https://open.spotify.com/track/25OfkVstO0W60e8OHCggox"
+      "duration_ms": 139973,
+      "name": "Because",
+      "url": "https://open.spotify.com/track/0W78mVK0xVPpOD7oh4medH"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roman Candle",
-        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
+        "name": "From a Basement on the Hill",
+        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 278013,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/0f0zWocUiTXlNcV6s0Ulfp"
+      "duration_ms": 285733,
+      "name": "Pretty (Ugly Before)",
+      "url": "https://open.spotify.com/track/4f76iWvbHC3mgm0hLmYKEv"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From a Basement on the Hill",
-        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
+        "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 285733,
-      "name": "Pretty (Ugly Before)",
-      "url": "https://open.spotify.com/track/4f76iWvbHC3mgm0hLmYKEv"
+      "duration_ms": 278013,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/0f0zWocUiTXlNcV6s0Ulfp"
     },
     {
       "added_at": null,

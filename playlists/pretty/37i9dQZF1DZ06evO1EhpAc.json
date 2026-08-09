@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 9725,
+  "num_followers": 9726,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAABUcCwAxNKz59V/mLE38wdx",
+  "snapshot_id": "anUgAAAAAAAbwp3SVs3KyPS1xPDdxxwd",
   "tracks": [
     {
       "added_at": null,
@@ -143,6 +143,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "One More",
+        "url": "https://open.spotify.com/album/0UDppr3BotMNXgIGmXddGt"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 202537,
+      "name": "One More",
+      "url": "https://open.spotify.com/track/6KngJ7ZEPy9o4zlg6fyh5N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "booboo2",
         "url": "https://open.spotify.com/album/1IsFIHJqTpK5M5ibPdbCEF"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 219666,
       "name": "booboo2",
       "url": "https://open.spotify.com/track/3FmjoFY4SfTVLs3hhCxHCM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One More",
-        "url": "https://open.spotify.com/album/0UDppr3BotMNXgIGmXddGt"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 202537,
-      "name": "One More",
-      "url": "https://open.spotify.com/track/6KngJ7ZEPy9o4zlg6fyh5N"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "easy breezy",
-        "url": "https://open.spotify.com/album/3oiZnlQEBv4kVT0yoSr86S"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 199880,
-      "name": "easy breezy",
-      "url": "https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EP2",
         "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 201446,
       "name": "Drink I\u2019m Sippin On",
       "url": "https://open.spotify.com/track/7pCirXrdJ4xN1Dqmm0DuAz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "easy breezy",
+        "url": "https://open.spotify.com/album/3oiZnlQEBv4kVT0yoSr86S"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 199880,
+      "name": "easy breezy",
+      "url": "https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j"
     },
     {
       "added_at": null,
@@ -319,6 +319,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mine or Yours (Yaeji Remix)",
+        "url": "https://open.spotify.com/album/0lMxf0CKJDFeN1U6cTnawv"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 255582,
+      "name": "Mine or Yours (Yaeji Remix)",
+      "url": "https://open.spotify.com/track/3FV0YFGD7tTqhMbwm3oTgM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Your Fantasy (Remix)",
         "url": "https://open.spotify.com/album/50Y11BDvO8tZf453abGL8Q"
       },
@@ -339,22 +359,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mine or Yours (Yaeji Remix)",
-        "url": "https://open.spotify.com/album/0lMxf0CKJDFeN1U6cTnawv"
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
       },
       "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        },
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 255582,
-      "name": "Mine or Yours (Yaeji Remix)",
-      "url": "https://open.spotify.com/track/3FV0YFGD7tTqhMbwm3oTgM"
+      "duration_ms": 218910,
+      "name": "After That",
+      "url": "https://open.spotify.com/track/48wFUJgjPLELDleMsJ9xlY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "With A Hammer",
+        "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 172613,
+      "name": "Done (Let's Get It)",
+      "url": "https://open.spotify.com/track/6kmrQVMDgQGKU7zW460x3I"
     },
     {
       "added_at": null,
@@ -379,38 +411,6 @@
       "duration_ms": 186873,
       "name": "SPELL \uc8fc\ubb38",
       "url": "https://open.spotify.com/track/2a03sGTTkUFXpNKwDpdB3B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "With A Hammer",
-        "url": "https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 172613,
-      "name": "Done (Let's Get It)",
-      "url": "https://open.spotify.com/track/6kmrQVMDgQGKU7zW460x3I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 218910,
-      "name": "After That",
-      "url": "https://open.spotify.com/track/48wFUJgjPLELDleMsJ9xlY"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 205677,
-      "name": "Noonside",
-      "url": "https://open.spotify.com/track/6fMipfFtGlw86Bzf5EMGPB"
+      "duration_ms": 209230,
+      "name": "Full of It",
+      "url": "https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 209230,
-      "name": "Full of It",
-      "url": "https://open.spotify.com/track/7DMoMt5E67FmZPO6uDceQF"
+      "duration_ms": 205677,
+      "name": "Noonside",
+      "url": "https://open.spotify.com/track/6fMipfFtGlw86Bzf5EMGPB"
     },
     {
       "added_at": null,

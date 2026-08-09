@@ -1,12 +1,12 @@
 {
   "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 88352,
+  "num_followers": 88369,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAACBMxBgHKZxZY1lIDEdB8Hl",
+  "snapshot_id": "anUgAAAAAAC8yr5ivftRh7bsGgNT0rId",
   "tracks": [
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 226426,
-      "name": "Dead and Gone",
-      "url": "https://open.spotify.com/track/5SqZCOOwTRYeGXiGvXekAC"
+      "duration_ms": 249653,
+      "name": "The Ghost That's Haunting You",
+      "url": "https://open.spotify.com/track/07lzBPTz5NnraM9qjp4JpO"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 249653,
-      "name": "The Ghost That's Haunting You",
-      "url": "https://open.spotify.com/track/07lzBPTz5NnraM9qjp4JpO"
+      "duration_ms": 226426,
+      "name": "Dead and Gone",
+      "url": "https://open.spotify.com/track/5SqZCOOwTRYeGXiGvXekAC"
     },
     {
       "added_at": null,

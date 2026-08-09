@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVNUz8WZk9Y.md) - [plain]
 
 > Enjoy music from Doraemon the movie! ⓒFujiko\-Pro, Shogakukan, TV\-Asahi, Shin\-ei, and ADK 2026
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,056 likes - 41 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,083 likes - 41 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

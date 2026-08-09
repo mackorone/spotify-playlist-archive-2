@@ -1,12 +1,12 @@
 {
   "description": "This is Ludwig G\u00f6ransson. The essential tracks, all in one playlist.",
-  "num_followers": 15807,
+  "num_followers": 15827,
   "original_name": "This Is Ludwig G\u00f6ransson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAAA8VMysjAgWCrcmo/oVS6/g",
+  "snapshot_id": "anUgAAAAAAAh8CUHau9ANq/Lu7b01B4N",
   "tracks": [
     {
       "added_at": null,
@@ -439,22 +439,6 @@
       "duration_ms": 294925,
       "name": "Lord Knows / Fighting Stronger",
       "url": "https://open.spotify.com/track/767T5vqvDToZ8LtqT8iZx9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everything, Everything (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/4iH6tmjBXE7mHONZn9KylD"
-      },
-      "artists": [
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        }
-      ],
-      "duration_ms": 114600,
-      "name": "Truths (From \"Everything, Everything\" Score)",
-      "url": "https://open.spotify.com/track/4lGzvVyw3ETJPiBD5YR1w4"
     }
   ],
   "unique_name": "This Is Ludwig G\u00f6ransson",

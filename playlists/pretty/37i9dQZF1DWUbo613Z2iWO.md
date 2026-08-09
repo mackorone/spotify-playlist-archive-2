@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Noah Guy
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,911 likes - 198 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,927 likes - 198 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Got You](https://open.spotify.com/track/6gBV04aaYCPgTYyzCWL4XO) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [Got You](https://open.spotify.com/album/5JTDmoExrvACCEeP1me28m) | 3:30 |
+| 1 | [GOT YOU](https://open.spotify.com/track/6gBV04aaYCPgTYyzCWL4XO) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [GOT YOU](https://open.spotify.com/album/5JTDmoExrvACCEeP1me28m) | 3:30 |
 | 2 | [Red Wine Holiday](https://open.spotify.com/track/7xRM7xmbUsTROH08OoxsEs) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Catch n' Release](https://open.spotify.com/album/7xyEdU4cfiwBoiNu6GvIEJ) | 2:47 |
 | 3 | [LUV MYSELF](https://open.spotify.com/track/3BNljvFH5CaT9T0gcq94qa) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [DREAMS ON THE PASSENGER SEAT](https://open.spotify.com/album/7KfrXVxJfWwJfYXwNy6puK) | 2:28 |
 | 4 | [SWERVE](https://open.spotify.com/track/7hcutCVlcgyfX0j95G1UiV) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [SWERVE](https://open.spotify.com/album/5ij7M5p7MKeR13lrZwoDSr) | 2:51 |

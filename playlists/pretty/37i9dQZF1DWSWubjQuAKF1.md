@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 
 > świeże brzmienia na horyzoncie ✨ Cover: Basia Małecka
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,388 likes - 65 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,384 likes - 65 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 32 | [dancefloor?](https://open.spotify.com/track/5GV9AMBtRstMTBuWaS55rn) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR), [kurtis baker](https://open.spotify.com/artist/3r9YAOUaPgQV22zcFmHMXv) | [dancefloor?](https://open.spotify.com/album/3i5O62x02dnd85CGy3vdSw) | 3:21 |
 | 33 | [ADA](https://open.spotify.com/track/4TxgjXRNWI6IlKc1wRxjDg) | [Jeremi Sikorski](https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw) | [ADA](https://open.spotify.com/album/6eHTt0NphxjV4cGoclBjfd) | 2:33 |
 | 34 | [Po nocach](https://open.spotify.com/track/33eaJUreX0C9HnLs0fjZTy) | [Natalia Zastępa](https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno) | [Po nocach](https://open.spotify.com/album/0KLbKLuIrEAGYIXgFPkAbC) | 3:31 |
-| 35 | [Esmeralda \- we współpracy z PZU](https://open.spotify.com/track/1zlYK4S2HHhQWntlXq2t6P) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Esmeralda \(we współpracy z PZU\)](https://open.spotify.com/album/7rRxYzy6yDNhY7KWQ0NSCl) | 2:51 |
+| 35 | [Esmeralda](https://open.spotify.com/track/1zlYK4S2HHhQWntlXq2t6P) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Esmeralda](https://open.spotify.com/album/7rRxYzy6yDNhY7KWQ0NSCl) | 2:51 |
 | 36 | [narcyz](https://open.spotify.com/track/44y8Xzr5pLcdaQDAN9R7LB) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs), [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq) | [narcyz](https://open.spotify.com/album/3UHSRBAWsOVucoSl8uULCs) | 3:32 |
 | 37 | [disco polo](https://open.spotify.com/track/5NbCT5QeNlMAx8ajdL1ujx) | [Izabela Zabielska](https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ) | [disco polo](https://open.spotify.com/album/7GbztmbuYf6NogISYjaD6P) | 3:04 |
 | 38 | [NASA](https://open.spotify.com/track/4iFIvFP6aYf9luSL2ToG7R) | [Hania](https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa), [samunowak](https://open.spotify.com/artist/0MYLB6VEVrATlmgPaBoQmt) | [NASA](https://open.spotify.com/album/2TDnSI84aFkmUPBl7mrLfF) | 2:24 |

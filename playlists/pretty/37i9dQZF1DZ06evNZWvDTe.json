@@ -1,33 +1,13 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 14910,
+  "num_followers": 14918,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAAC0voi1e/fuLSKqoMUBSIDr",
+  "snapshot_id": "anUgAAAAAABX/LVvbJ1WuXCY64vuz8ir",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Major League",
-        "url": "https://open.spotify.com/album/48GHXPVO558BxtRQ97swGy"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kweku Smoke",
-          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
-        }
-      ],
-      "duration_ms": 177931,
-      "name": "Major League",
-      "url": "https://open.spotify.com/track/4uzf6Vyc2b9UHVcGOkR38J"
-    },
     {
       "added_at": null,
       "album": {
@@ -67,6 +47,46 @@
       "duration_ms": 246792,
       "name": "Blessed & Alive",
       "url": "https://open.spotify.com/track/6pILkyvhZy9IQKDiaJQFAO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "E No Easy",
+        "url": "https://open.spotify.com/album/2TPQ4alxvgfyHnKlZ3723j"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "duration_ms": 190719,
+      "name": "E No Easy",
+      "url": "https://open.spotify.com/track/0AxUoDxP0qtepOj4Fh227x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Major League",
+        "url": "https://open.spotify.com/album/48GHXPVO558BxtRQ97swGy"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "Major League",
+      "url": "https://open.spotify.com/track/4uzf6Vyc2b9UHVcGOkR38J"
     },
     {
       "added_at": null,
@@ -515,6 +535,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lavida Loca (feat. Lasmid)",
+        "url": "https://open.spotify.com/album/36tSpQ2NiV5tpcQdXzTimB"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 159292,
+      "name": "Lavida Loca (feat. Lasmid)",
+      "url": "https://open.spotify.com/track/1u0z0PIBWpwoMtHef097fN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grind Day (Remix) [feat. Sarkodie & Medikal]",
         "url": "https://open.spotify.com/album/0OgcD1QZoeHTbxzFvBLFez"
       },
@@ -535,26 +575,6 @@
       "duration_ms": 242860,
       "name": "Grind Day (Remix) [feat. Sarkodie & Medikal]",
       "url": "https://open.spotify.com/track/1fzWiGhmYO15nxapbpKHbm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lavida Loca (feat. Lasmid)",
-        "url": "https://open.spotify.com/album/36tSpQ2NiV5tpcQdXzTimB"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 159292,
-      "name": "Lavida Loca (feat. Lasmid)",
-      "url": "https://open.spotify.com/track/1u0z0PIBWpwoMtHef097fN"
     },
     {
       "added_at": null,
@@ -763,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wins & Losses",
-        "url": "https://open.spotify.com/album/57SzMLliAmulps9UDpDOLk"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Yaadman fka Yung L",
-          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
-        }
-      ],
-      "duration_ms": 179825,
-      "name": "Wins & Losses",
-      "url": "https://open.spotify.com/track/7ax7PkGEpJueZLT0nD6sBS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jailer",
         "url": "https://open.spotify.com/album/3ikyOGpU9GzXGDCSc65Rin"
       },
@@ -799,6 +799,26 @@
       "duration_ms": 230588,
       "name": "Jailer",
       "url": "https://open.spotify.com/track/4YIGk7VneqverAJPWTMVJR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wins & Losses",
+        "url": "https://open.spotify.com/album/57SzMLliAmulps9UDpDOLk"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Yaadman fka Yung L",
+          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
+        }
+      ],
+      "duration_ms": 179825,
+      "name": "Wins & Losses",
+      "url": "https://open.spotify.com/track/7ax7PkGEpJueZLT0nD6sBS"
     },
     {
       "added_at": null,
@@ -867,6 +887,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LOMO (League On My Own)",
+        "url": "https://open.spotify.com/album/1270NwzRh39zsb43lqGPMh"
+      },
+      "artists": [
+        {
+          "name": "Strongman",
+          "url": "https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 224052,
+      "name": "LOMO (League On My Own)",
+      "url": "https://open.spotify.com/track/7Im6qCPwCter92NXAUDdvr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "As Promised",
         "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
       },
@@ -907,22 +947,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOMO (League On My Own)",
-        "url": "https://open.spotify.com/album/1270NwzRh39zsb43lqGPMh"
+        "name": "The Championship",
+        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
       },
       "artists": [
         {
-          "name": "Strongman",
-          "url": "https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9"
-        },
-        {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Xlimkid",
+          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
         }
       ],
-      "duration_ms": 224052,
-      "name": "LOMO (League On My Own)",
-      "url": "https://open.spotify.com/track/7Im6qCPwCter92NXAUDdvr"
+      "duration_ms": 168000,
+      "name": "TRAUMA",
+      "url": "https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym"
     },
     {
       "added_at": null,
@@ -959,46 +999,6 @@
       "duration_ms": 246000,
       "name": "Original",
       "url": "https://open.spotify.com/track/3AeYPcgBAAno6njUHKRixA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Championship",
-        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Xlimkid",
-          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "TRAUMA",
-      "url": "https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M3Gye Wo Girl",
-        "url": "https://open.spotify.com/album/0Hj7mjkuVK8u6Lf4sGrV4t"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        }
-      ],
-      "duration_ms": 206896,
-      "name": "M3Gye Wo Girl",
-      "url": "https://open.spotify.com/track/1GrasNMqiO24le1C5KTeKN"
     },
     {
       "added_at": null,

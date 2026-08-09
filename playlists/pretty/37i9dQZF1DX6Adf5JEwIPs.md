@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: RIA 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,224 likes - 67 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,270 likes - 67 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 20 | [Buchanans](https://open.spotify.com/track/3nHciQqhpYkxE0ehBPIl0F) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Buchanans](https://open.spotify.com/album/3scizdgROa6VlPaQJpSETV) | 2:37 |
 | 21 | [Fresh Club](https://open.spotify.com/track/6pfVH6G1jvGyxtTCmlr85P) | [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk) | [Fresh Club](https://open.spotify.com/album/6cQ6KSK1YAoNYnhyGtMJcg) | 3:23 |
 | 22 | [Yo Si Me Enamore](https://open.spotify.com/track/4UbOKPYQLQ4EvhvUqIswyS) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Segundo Aire](https://open.spotify.com/album/34vh6LPcoPG4O4VSqTg08e) | 2:55 |
-| 23 | [El Bazucaso](https://open.spotify.com/track/54zzYLB6l0d5xuIeQIPsHI) | [Elio Vega](https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg), [José Ponce y El Nuevo Equipo](https://open.spotify.com/artist/1WF4RGjRhzQRdtTowIt4fX) | [De Sonora A Chihuahua](https://open.spotify.com/album/0mgHUfCpaihSguk7LLGPyj) | 3:18 |
+| 23 | [El Bazucazo](https://open.spotify.com/track/54zzYLB6l0d5xuIeQIPsHI) | [Elio Vega](https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg), [José Ponce y El Nuevo Equipo](https://open.spotify.com/artist/1WF4RGjRhzQRdtTowIt4fX) | [De Sonora A Chihuahua](https://open.spotify.com/album/0mgHUfCpaihSguk7LLGPyj) | 3:18 |
 | 24 | [Hermosísimo Lucero \- En Vivo](https://open.spotify.com/track/79EbYZpNx4Jy1869GuuzWU) | [Grupo 3 Mandos](https://open.spotify.com/artist/30NWCe5fNf3m9yC6wbPltS), [La Edición de Culiacán](https://open.spotify.com/artist/14DIWXxTBoAzGJNsAFvNWU) | [Hermosísimo Lucero \(En Vivo\)](https://open.spotify.com/album/0ykYzxu3pc7DOWTCuc49zQ) | 3:50 |
 | 25 | [El De La Costa 2](https://open.spotify.com/track/1vqe5izzMQKZYGgVF4y6aL) | [Los Juniors De Mexicali](https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou) | [El De La Costa 2](https://open.spotify.com/album/2w637pYfG6d2g6o8ypE5sd) | 2:44 |
 | 26 | [TAROT](https://open.spotify.com/track/79X3LXOjdJ5ONTTwwHdXU6) | [Joaquin Jaimee](https://open.spotify.com/artist/5Kfm7dlmVDSiTKc94TLV73), [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [TAROT](https://open.spotify.com/album/7B4vTW5jJfA7sNBHuhV1mH) | 3:05 |

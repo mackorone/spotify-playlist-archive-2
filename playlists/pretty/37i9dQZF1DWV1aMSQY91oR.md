@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, updated weekly\. Cover: Derin Falana
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,423 likes - 53 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,434 likes - 53 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

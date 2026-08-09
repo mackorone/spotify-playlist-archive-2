@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,451 songs - 6 day 0 hr 19 min
+2,455 songs - 6 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1145,6 +1145,7 @@
 | [L'odore Dei Perdenti](https://open.spotify.com/track/7gUBZkKmRJaz6g2HUcy8v7) | [Giuseppe Luca Rossitto](https://open.spotify.com/artist/5QnhAqWKyLyvz2mVeyp1So), [Gianluca Di Liberto](https://open.spotify.com/artist/1E2mnomYzAUhjDsShhKO30) | [L'odore Dei Perdenti](https://open.spotify.com/album/7livorKfwNz4zVX8okr9wS) | 4:35 | 2025-01-21 |  |
 | [L'unica cosa che hai](https://open.spotify.com/track/0HMqDH4izWE7AXBiqZUKCK) | [Lucrezia Arcifa](https://open.spotify.com/artist/1x5hFkZWr1fO5bNVXilaNy) | [L'unica cosa che hai](https://open.spotify.com/album/5Qj3UJkalltFa574HiExKM) | 3:09 | 2024-06-13 |  |
 | [L'unica cosa che hai \(Piano Version\)](https://open.spotify.com/track/0qWpVwkDpRjBR4pDvdxBp8) | [Lucrezia Arcifa](https://open.spotify.com/artist/1x5hFkZWr1fO5bNVXilaNy) | [L'unica cosa che hai \(Piano Version\)](https://open.spotify.com/album/1a20fETULIZnHRL7kzEI25) | 3:22 | 2024-06-21 |  |
+| [L'été](https://open.spotify.com/track/1QCUwsbi0gzZjZWbBTfvNS) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [L'été](https://open.spotify.com/album/2Sc22SbioaEC7xBfK94JUc) | 3:58 | 2026-08-08 |  |
 | [La calle de la alegría](https://open.spotify.com/track/37LUExe8QBouKJhLAyeuTt) | [Javi Cobo](https://open.spotify.com/artist/3LCeawe313weY7jgIYBzkQ) | [La calle de la alegría](https://open.spotify.com/album/4WaspnySUvKQXHtGrnjIom) | 3:39 | 2026-01-20 |  |
 | [La Divisione Del Piacere](https://open.spotify.com/track/7lXQVtnuYlRQa1UTbPn2xF) | [Giuseppe Luca Rossitto](https://open.spotify.com/artist/5QnhAqWKyLyvz2mVeyp1So) | [La Divisione Del Piacere](https://open.spotify.com/album/6b8msGD271vEFaO0FuOgNk) | 4:41 | 2025-01-10 |  |
 | [La esclavitud remunerada](https://open.spotify.com/track/7kyVEfDvVgiYGdZsWxnRY7) | [La GueRRa DeL FLeTaN](https://open.spotify.com/artist/1AY0PqR58XigQxyYGtXabA) | [I](https://open.spotify.com/album/1PXIHiV2QqnJsVaN9MnonA) | 3:20 | 2025-03-21 |  |
@@ -1276,6 +1277,7 @@
 | [Mad Sunday](https://open.spotify.com/track/2ZggWhP07MF2KeIwzGSFA1) | [Mexican Stepper](https://open.spotify.com/artist/0LkpURD28re1NOBsAWSZQq) | [The Mad Sunday](https://open.spotify.com/album/22xvWyrGCj7bk8GTA5buRd) | 5:58 | 2024-05-01 |  |
 | [Madera y cartón](https://open.spotify.com/track/1QQRPLYdGLqvpbgnmDQpQj) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Distancias](https://open.spotify.com/album/0f6YPVRdJql2lBmpkqxxRz) | 4:02 | 2026-04-12 |  |
 | [Madre Tierra \(Arkawa Edit\)](https://open.spotify.com/track/2D8ocyp94eSor1RKnzJBd6) | [Julia Zahn](https://open.spotify.com/artist/3Xif1ihsO2iQa5iWeWEIML) | [Madre Tierra \(Arkawa Edit\)](https://open.spotify.com/album/6vqGL9hn4BSADeGXs8pH7q) | 3:28 | 2025-09-30 |  |
+| [Magia Fuerte](https://open.spotify.com/track/5rSdLF3KzTBeHxKawlCOOz) | [Esteban Paez](https://open.spotify.com/artist/06aRITQAb5TMXELGTFBaXW) | [Perro Loco](https://open.spotify.com/album/1HbLEb1wJGZthL0iFzmu7H) | 2:36 | 2026-08-08 |  |
 | [Magic & Dust](https://open.spotify.com/track/3luZ5u1upzKsl3lSy9TRAw) | [ASH QUEENS](https://open.spotify.com/artist/5gxrqah9KzW1xHCbfK9wCz) | [Magic & Dust](https://open.spotify.com/album/7BXOpUZWgISAgbzV9liadB) | 4:28 | 2026-04-23 |  |
 | [Magic Square](https://open.spotify.com/track/61kW7UUZIbqr9cYJJfyGBf) | [Lake Malice](https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO) | [Magic Square](https://open.spotify.com/album/385TEg660nr7p0yNkLwE86) | 3:07 | 2024-03-04 |  |
 | [Main Character](https://open.spotify.com/track/0mYJh4pla4cc6U78XeJXvl) | [Oscat!](https://open.spotify.com/artist/7gLeWgrrsswx6MYFL4c3SA) | [Main Character](https://open.spotify.com/album/3VzIA4A5teHDVVjxdu5My8) | 2:58 | 2026-04-12 |  |
@@ -1456,6 +1458,7 @@
 | [Never Falter](https://open.spotify.com/track/6dcbaMf35hCcp0I78wup5u) | [Elastica Dub](https://open.spotify.com/artist/1nyZ7QOTyzJ0lhHLGaikIW), [Gabriel Blue](https://open.spotify.com/artist/2z0BjCl7p9XrswyaknMFMJ) | [Never Falter](https://open.spotify.com/album/7zMkTFFh1GyudNN1XPPkwk) | 3:56 | 2025-07-18 |  |
 | [Never Let It Loose](https://open.spotify.com/track/4H1XryI3AQSI1qmBJihT49) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [Never Let It Loose](https://open.spotify.com/album/0Hu7KcSdawQtwuF1lUMusr) | 2:57 | 2025-10-18 |  |
 | [Never Let It Loose](https://open.spotify.com/track/6rBb0xui7iO1KctH7iX4Rm) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 2:57 | 2025-12-01 |  |
+| [Never Trust A Pig](https://open.spotify.com/track/0amXYhhJnE5jby745KLxIg) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Never Trust A Pig](https://open.spotify.com/album/2pDvvEkFY7ymQKO480r1Ar) | 3:36 | 2026-08-08 |  |
 | [New You](https://open.spotify.com/track/6yBbrJTELv33sNGSqg5ipe) | [Springworks](https://open.spotify.com/artist/351ok85APWNYv1RcU0UMcn) | [New You](https://open.spotify.com/album/7feMMk06r83T7zZUyYUuch) | 4:53 | 2025-05-06 |  |
 | [News From The World](https://open.spotify.com/track/4TxooFhkj2B1i4jqNuYM9V) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Melana](https://open.spotify.com/artist/5Wm3mlWwE7B8OrfjORsAz7) | [News From The World](https://open.spotify.com/album/0K2QmHIMelMxMVbLVeA0XQ) | 4:22 | 2025-04-25 |  |
 | [Next 2 U](https://open.spotify.com/track/1EfnmdAQzEKy5L6fRqZFyw) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [New Old Friends xx](https://open.spotify.com/album/56h5V73ud9WeiTURv7u5sv) | 3:51 | 2025-07-02 |  |
@@ -2238,6 +2241,7 @@
 | [Uno Nessuno Centomila](https://open.spotify.com/track/1tWJSEjoSpicBkbt7UB0Qp) | [Giuseppe Luca Rossitto](https://open.spotify.com/artist/5QnhAqWKyLyvz2mVeyp1So) | [Uno Nessuno Centomila](https://open.spotify.com/album/7h8x2zembFqYKnuTH9UD8p) | 3:10 | 2024-08-06 |  |
 | [Unremember \- Radio Mix](https://open.spotify.com/track/3LAG9KaMrAHQvH19ZuNelC) | [Russell Watson](https://open.spotify.com/artist/2hrfuB0LtVmFZ6MvPMIHTK), [Helen Jane Long](https://open.spotify.com/artist/4AChEoOg2kLbShMIN3jgxX) | [Unremember \(Radio Mix\)](https://open.spotify.com/album/3Nubv2yI34gb2QGp9DDk5i) | 2:48 | 2025-09-08 |  |
 | [Upwood Radio](https://open.spotify.com/track/1IeQdgV1Lf8MN5Z0ICZIPI) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Upwood Radio](https://open.spotify.com/album/1xjavmAznuIFkQZeE9mxXz) | 3:35 | 2025-12-09 |  |
+| [Urlo](https://open.spotify.com/track/4Q07s0mx7ztU5qpLdqZ0jL) | [Vitojazzband](https://open.spotify.com/artist/7vfInUCMKJLnqxxm7WSukQ) | [Urlo](https://open.spotify.com/album/3f9JbGTjZf1SJoHa7HUlgT) | 2:26 | 2026-08-08 |  |
 | [USCITO DI GALERA](https://open.spotify.com/track/01DXwNf1GzEJkYTbXgL0eb) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:52 | 2023-03-15 |  |
 | [Used to Be Us](https://open.spotify.com/track/3ItonadAKb8Geav45ryoEx) | [Euclid Aguilar](https://open.spotify.com/artist/6IZqOzOISYVL9HkRykSz0j) | [Used to Be Us](https://open.spotify.com/album/4GoVabsZrc2ekcGErFxdov) | 2:23 | 2025-10-15 |  |
 | [Utopía](https://open.spotify.com/track/6MumbXiQavTkKqDJxmFLet) | [Lactuca Sativa](https://open.spotify.com/artist/0f6kNvxTGK9uwUUB5fuRjK) | [Utopía](https://open.spotify.com/album/3gwGTgtSA8D34QOebUkELo) | 4:05 | 2025-07-28 |  |

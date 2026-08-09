@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Moli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-168 songs - 8 hr 45 min
+169 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [Sleepless \(feat\. GoldFord\)](https://open.spotify.com/track/3NO0uDaqtPzSSU9GAj39hC) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Sleepless \(feat\. GoldFord\)](https://open.spotify.com/album/3748XL91ovL1Tpni1BWAor) | 2:17 | 2024-01-29 |  |
 | [So Bad](https://open.spotify.com/track/59uj1ZeGNnj1GaeEthJZVj) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [So Bad](https://open.spotify.com/album/2h5vAOf9Z6R1NpyLgTqemo) | 3:05 | 2026-05-02 |  |
 | [So Jealous](https://open.spotify.com/track/0BwB0EYF9aMeluMCjFWeHz) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [On the Weekend](https://open.spotify.com/album/3Is1jufEUK7Nb3yeJ09i85) | 3:12 | 2024-01-29 |  |
-| [Something I Said](https://open.spotify.com/track/0lhU93mkq0mpXOO6GYKAOU) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Something I Said](https://open.spotify.com/album/41nxQC0tLiUmELqgc5Grbx) | 4:08 | 2024-01-29 |  |
+| [Something I Said](https://open.spotify.com/track/0lhU93mkq0mpXOO6GYKAOU) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Something I Said](https://open.spotify.com/album/41nxQC0tLiUmELqgc5Grbx) | 4:08 | 2024-01-29 | 2026-08-09 |
+| [Something I Said](https://open.spotify.com/track/6G580OEhNGxpoIhESLGJer) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Something I Said](https://open.spotify.com/album/2IUckyI6j37ShT0rgQGGWd) | 4:08 | 2026-08-08 |  |
 | [Speak](https://open.spotify.com/track/0UHdsqznjCoqPzZJTJZ5Kb) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Speak](https://open.spotify.com/album/3ZSfzqjAgOZv7S23jASBdt) | 2:53 | 2024-01-29 |  |
 | [starry eyes](https://open.spotify.com/track/0LiCuKbMYM2pF00U502RH7) | [Cobuz & Bustta](https://open.spotify.com/artist/3m7M07iLR1ragTqZ1Wm1NX), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [starry eyes](https://open.spotify.com/album/0tuz8EWdPCBjUBMgPuZZtk) | 3:04 | 2026-06-29 |  |
 | [Stay](https://open.spotify.com/track/6EiciPnoJR1o4D0vtaHqjl) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Remember Me](https://open.spotify.com/album/2VYn7cSOxVkl8MwEJr7UCF) | 2:52 | 2024-02-04 |  |

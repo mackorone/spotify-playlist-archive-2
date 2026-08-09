@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 
 > The best in romantic tunes from Tamil cinema.<br/>Cover : Sirai
 
-[Spotify](https://open.spotify.com/user/spotify) - 661,562 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 661,701 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 | 66 | [Uyir Uruvaatha \- From "Iravukku Aayiram Kangal"](https://open.spotify.com/track/5dmT9CGPfulrQxLZDKnujW) | [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Adiyae Azhagae](https://open.spotify.com/album/5xKHvZGvhLHfsp7AgzL1kK) | 4:13 |
 | 67 | [Asku Laska](https://open.spotify.com/track/3PzkxdshpgSkWrEeVqTsDe) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [SUVI](https://open.spotify.com/artist/5gP4aEL0OvBlxgvod5C8jL) | [Nanban \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oIX27371oNgnMqdg2NeKT) | 6:20 |
 | 68 | [Yaen Ennai Pirindhaai](https://open.spotify.com/track/2GYzXSeNa3Y0BfIfS1VJj3) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Adithya Varma](https://open.spotify.com/album/3IvKduSq7d2SnZiwxA7hJK) | 3:18 |
-| 69 | [Laali Laali](https://open.spotify.com/track/1DVzoi8VvpTDVg4Knd1IQs) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Pragathi Guruprasad](https://open.spotify.com/artist/1IMZlbjHW9DCrW6xbtjI6F) | [Theeran Adhigaaram Ondru](https://open.spotify.com/album/64OQ2PzSo9idwKf0dCMScA) | 3:51 |
-| 70 | [Munbe Vaa](https://open.spotify.com/track/6vZj02bcQqLTYRAi4jRkw7) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI) | [Silunu Oru Kadhal](https://open.spotify.com/album/2V66QirokxORBvsvLCkX75) | 5:56 |
+| 69 | [Munbe Vaa](https://open.spotify.com/track/6vZj02bcQqLTYRAi4jRkw7) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI) | [Silunu Oru Kadhal](https://open.spotify.com/album/2V66QirokxORBvsvLCkX75) | 5:56 |
+| 70 | [Laali Laali](https://open.spotify.com/track/1DVzoi8VvpTDVg4Knd1IQs) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Pragathi Guruprasad](https://open.spotify.com/artist/1IMZlbjHW9DCrW6xbtjI6F) | [Theeran Adhigaaram Ondru](https://open.spotify.com/album/64OQ2PzSo9idwKf0dCMScA) | 3:51 |
 | 71 | [Mehabooba](https://open.spotify.com/track/6y6zXps3xIZ7Fw8ykuwWPY) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8), [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Madhurakavi](https://open.spotify.com/artist/4HNFPBEsradUUxFbtQNPKh) | [Kgf Chapter 2](https://open.spotify.com/album/1CdnFGEFzIpGRzpEL1qNub) | 3:32 |
 | 72 | [Vaseegara](https://open.spotify.com/track/3vxy9D4qd7TO4j6Gi2zmXo) | [Bombay Jayashri](https://open.spotify.com/artist/5OTt6O4Q22YsqZDaWV6FqC) | [Minnale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/41ZjHZm4QK6Swalxpt5hqA) | 4:59 |
 | 73 | [Ennadi Maayavi Nee](https://open.spotify.com/track/47Cd4WP1ZOK8WXC68kqZ03) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [VadaChennai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5oZttbNRyrYfBLhej6HAY7) | 4:11 |

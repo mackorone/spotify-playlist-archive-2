@@ -1418,7 +1418,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 220227,
       "name": "Revenger",
       "url": "https://open.spotify.com/track/0xjB3RUDdOgwUY7iLZBnuF"
@@ -1444,6 +1444,28 @@
       "duration_ms": 220227,
       "name": "Revenger",
       "url": "https://open.spotify.com/track/39G4lx75wNFd1rU74WhmqK"
+    },
+    {
+      "album": {
+        "name": "VINDICATE (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/33VjmcPP77gcF1cCtI918F"
+      },
+      "artists": [
+        {
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        },
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220227,
+      "name": "Revenger",
+      "url": "https://open.spotify.com/track/6wCwqhgCQjWUDlrQgD5bl1"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 
 > 
 
-[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 1 like - 74 songs - 5 hr 18 min
+[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 1 like - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,5 +82,6 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 | 72 | [Sirens](https://open.spotify.com/track/6i7olOxVWLxv9khPk8tvBO) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Odyssey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR) | 2:39 |
 | 73 | [Love is in the Air, Pt\. 1](https://open.spotify.com/track/77Aup1j7jR1zxWFQes0Kav) | [Rock Burwell](https://open.spotify.com/artist/54zR4Rx1DyqpoUgcNPyscl) | [Obsession \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/295aVJ1pcfkOGRMODulEYs) | 2:04 |
 | 74 | [Wet Dreamz](https://open.spotify.com/track/4tqcoej1zPvwePZCzuAjJd) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 3:59 |
+| 75 | [The Let Out](https://open.spotify.com/track/2aNaJLXE4SXbm9L23qpHTG) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 4:14 |
 
-Snapshot ID: `AAAHBKAp6+T8QoC0HPuYBX2WWIBdt8S8`
+Snapshot ID: `AAAHBT95SdLiDTGLxiYwjn9xlduEK5Ia`

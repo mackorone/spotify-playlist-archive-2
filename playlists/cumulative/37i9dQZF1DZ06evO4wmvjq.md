@@ -4,7 +4,7 @@
 
 > This is Terry Riley\. The essential tracks, all in one playlist.
 
-252 songs - 1 day 12 hr 59 min
+253 songs - 1 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Celestial Valley](https://open.spotify.com/track/0qoFbRRIO9V8Pz99TkFk0H) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Terry Riley: Shri Camel](https://open.spotify.com/album/4TwkvQCs6tCmhivdM6prT6) | 11:33 | 2022-05-29 |  |
 | [Chanting The Light Of Foresight](https://open.spotify.com/track/4ZIiQPOLqbcdzzalG9yZll) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Chanting The Light Of Foresight](https://open.spotify.com/album/2nqvQX2JMumuvwVvA0WPqp) | 8:52 | 2026-02-17 | 2026-04-24 |
 | [Chorale of the Blessed Day](https://open.spotify.com/track/4D7PdsN9vnlJTKVhg7m7dg) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: Songs for the 10 Voices of the 2 Prophets](https://open.spotify.com/album/1rUKtbAhqtIv9dQmFZ5V6g) | 11:26 | 2022-05-29 | 2022-11-25 |
-| [Chorale of the Blessed Day](https://open.spotify.com/track/6M3wuYlpmlHwFkWPCaL1Xz) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: Songs for the Ten Voices of the Two Prophets](https://open.spotify.com/album/1VZ8fH3tI616b9sUhqQowD) | 11:26 | 2026-03-04 |  |
+| [Chorale of the Blessed Day](https://open.spotify.com/track/6M3wuYlpmlHwFkWPCaL1Xz) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: Songs for the Ten Voices of the Two Prophets](https://open.spotify.com/album/1VZ8fH3tI616b9sUhqQowD) | 11:26 | 2026-03-04 | 2026-08-09 |
 | [Chorale of the Blessed Day](https://open.spotify.com/track/71h21JUZxC8oO2WDpRvv5b) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: Descending Moonshine Dervishes / Songs for the 10 Voices of the 2 Prophets](https://open.spotify.com/album/6kCgBOS9D3UOlTtk15Xyt8) | 11:26 | 2024-08-21 | 2026-06-04 |
 | [Church of Anthrax](https://open.spotify.com/track/21UCyo72hcHcZnH0OZfhxm) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Church of Anthrax](https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9) | 9:05 | 2022-05-29 |  |
 | [Coming](https://open.spotify.com/track/6eINOLaSeuRVdkxZcgRVnj) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [\*Michael McClure](https://open.spotify.com/artist/0pEXXYU5Ygc0Mk4unN8FfZ) | [I Like Your Eyes Liberty](https://open.spotify.com/album/2lGodELWQLcCvbAfC5STpx) | 6:38 | 2025-04-23 | 2026-07-31 |
@@ -96,6 +96,7 @@
 | [Folk Song](https://open.spotify.com/track/1pHfqvY7jHDbGFyGSdD9Eu) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Gyan Riley](https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf) | [Way Out Yonder](https://open.spotify.com/album/336G74NrqpBt6A3cXEoUg7) | 4:27 | 2022-07-18 | 2023-03-26 |
 | [Folk Song](https://open.spotify.com/track/7AJn9PpxCEqppoaV8OkAle) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Gyan Riley](https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf) | [Way Out Yonder](https://open.spotify.com/album/5m94wx3KAPf5yh5shKaqwJ) | 4:27 | 2026-01-01 | 2026-01-02 |
 | [Folk Song](https://open.spotify.com/track/7kzKvLlHUUFOSczPUE1LMk) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Gyan Riley](https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf) | [Way Out Yonder](https://open.spotify.com/album/2ln3J4rzNtWmGnpCBDfZ7m) | 4:27 | 2024-04-13 | 2025-09-22 |
+| [FOREVER MORE](https://open.spotify.com/track/3UQNQ36DXe77h3CzrhS2Va) | [Alaine](https://open.spotify.com/artist/62I2kfviQAwxvxNMvTj1Mc), [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [CHILLIN' LOVERS](https://open.spotify.com/album/1dQIMYoRsYFzE2hMEWX5mJ) | 3:53 | 2026-08-09 |  |
 | [Francesco en Paraiso](https://open.spotify.com/track/6PU7ov0CYZzsEOWoFlRFBK) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The book Of Abbeyozzud](https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE) | 5:06 | 2022-05-29 |  |
 | [Frm:Me 2:U \(feat\. O'fficial\)](https://open.spotify.com/track/5z4Qhe1VarVgGdx3WiG5fZ) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Official](https://open.spotify.com/artist/1XSHcM66IcuyqOVpKbqElb) | [Frm:Me 2:U \(feat\. O'fficial\)](https://open.spotify.com/album/3RrC7JI8mdjBR99j5TyyQf) | 3:43 | 2025-08-08 | 2025-08-12 |
 | [G Song](https://open.spotify.com/track/1WvX1J8vS5Jt9AXBnDtC3e) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Les Yeux Fermés / Lifespan](https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r) | 3:07 | 2022-05-29 |  |

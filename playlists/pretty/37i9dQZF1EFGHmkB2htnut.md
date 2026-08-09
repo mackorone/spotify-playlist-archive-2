@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 44 | [The Good Parts](https://open.spotify.com/track/4hzvOErdtm0SndvqzWVWyU) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:17 |
 | 45 | [cross ur mind](https://open.spotify.com/track/7o6004WEpQsptuigMjYvyb) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century](https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch) | 3:13 |
 | 46 | [Nothing's All The Time](https://open.spotify.com/track/71CdOHxHHarGkr21kVJ3MG) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Survive My Own Mind](https://open.spotify.com/album/1ywqaWYRgovlH12fhAFdpN) | 2:42 |
-| 47 | [Play Dumb](https://open.spotify.com/track/4inINyEpZqgKGDYqf5Knb1) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Play Dumb \(New Jersey Version\)](https://open.spotify.com/album/6wvUSE3RrPncqFLJSDXikw) | 2:53 |
-| 48 | [Mile Away](https://open.spotify.com/track/4ZwJ25jbonqnzlYTB89aQK) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Mile Away](https://open.spotify.com/album/3jWJ0eFI78vTuyZwNpZfrD) | 3:26 |
+| 47 | [Mile Away](https://open.spotify.com/track/4ZwJ25jbonqnzlYTB89aQK) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Mile Away](https://open.spotify.com/album/3jWJ0eFI78vTuyZwNpZfrD) | 3:26 |
+| 48 | [Play Dumb](https://open.spotify.com/track/4inINyEpZqgKGDYqf5Knb1) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Play Dumb \(New Jersey Version\)](https://open.spotify.com/album/6wvUSE3RrPncqFLJSDXikw) | 2:53 |
 | 49 | [knowing you exist](https://open.spotify.com/track/2TRtmJg3JGtfKKnNOkU5Dn) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:24 |
 | 50 | [Buy A Round](https://open.spotify.com/track/7lvADxBCa2EMfsK3B0kuZd) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Buy A Round](https://open.spotify.com/album/0OjtOOVcpqJSySkEmsOlFK) | 3:01 |
 | 51 | [graveyard shift](https://open.spotify.com/track/32GhlLgrx9mXXKHf2ltF7U) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [georgia got colder](https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2) | 2:27 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 85 | [Revenge](https://open.spotify.com/track/3RxfooaHT4gwpZrbI71BrS) | [Jez Dior](https://open.spotify.com/artist/2tmWjaROlvLpahIZcvPLwi) | [Handle With Care](https://open.spotify.com/album/52WqdSNr8hQioPuM1mHNIF) | 3:21 |
 | 86 | [Merry Bitchmas](https://open.spotify.com/track/4yryO4jfyCAl8mfVS4C66r) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Merry Bitchmas](https://open.spotify.com/album/7jbt7HV8zmCJcQI4HgcSgW) | 3:24 |
 | 87 | [321](https://open.spotify.com/track/6uXbGI1bxyK8LSdztpcbFV) | [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0) | [321](https://open.spotify.com/album/2ORKOz6jqkqbE9kRpYRsA8) | 2:53 |
-| 88 | [Space](https://open.spotify.com/track/4on6Xseo0OdXhSsgIW7q6W) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [The Project](https://open.spotify.com/album/4iHXcNSnljATcFMO1UiEDy) | 3:08 |
-| 89 | [Don't Tell Me](https://open.spotify.com/track/5GNuzi2mSkuuOCrCjLSoWF) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Growing Pains](https://open.spotify.com/album/44k4i0meNs3Ug5F1iPnTcG) | 3:10 |
+| 88 | [Don't Tell Me](https://open.spotify.com/track/5GNuzi2mSkuuOCrCjLSoWF) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Growing Pains](https://open.spotify.com/album/44k4i0meNs3Ug5F1iPnTcG) | 3:10 |
+| 89 | [Space](https://open.spotify.com/track/4on6Xseo0OdXhSsgIW7q6W) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [The Project](https://open.spotify.com/album/4iHXcNSnljATcFMO1UiEDy) | 3:08 |
 | 90 | [good, not great](https://open.spotify.com/track/6FRP4bqIl1mVZz53WM36QP) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [\(L\)only Child](https://open.spotify.com/album/5Hnz7UVM87JZyhahIEmdOQ) | 2:34 |
 | 91 | [Pink Cadillac](https://open.spotify.com/track/2W3PyvVjEin1abo9O1iiai) | [Mags Duval](https://open.spotify.com/artist/7epku2Ukk67TDYWYyCOAz0) | [Pink Cadillac](https://open.spotify.com/album/3HeqMhX52CgQbiLozSehtu) | 3:28 |
 | 92 | [Daffodils](https://open.spotify.com/track/6KbzHdUehItEUjJYAVYy5j) | [Rosse](https://open.spotify.com/artist/0rUWPf3mbRGeUusm1P3Z4i) | [Daffodils](https://open.spotify.com/album/6kGxq7A0BaPGLYX9MPracQ) | 2:55 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 113 | [You Don't Cross My Mind](https://open.spotify.com/track/1EuOCEo4KS803rI8seoVOM) | [Ghosthood](https://open.spotify.com/artist/09Z9ELukzMBGYvy2D25odv) | [You Don't Cross My Mind](https://open.spotify.com/album/5iGFfwsCQTNQAZAfdk6ed3) | 3:19 |
 | 114 | [Father Figures](https://open.spotify.com/track/1hWSPugygFE4ydR12fNOb0) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Fumbling Towards Glory](https://open.spotify.com/album/5qb2qACHP6yi0GLmonfeyj) | 3:46 |
 
-Snapshot ID: `AcY+QAAAAADpwG8MJFfuxtCgPFisAHLp`
+Snapshot ID: `AcZD4AAAAACtdluRWzGC9xyryfHvqjpS`

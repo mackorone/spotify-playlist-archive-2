@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Damara De
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,480 likes - 116 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,580 likes - 116 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

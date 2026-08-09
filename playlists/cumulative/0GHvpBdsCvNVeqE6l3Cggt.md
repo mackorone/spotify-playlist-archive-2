@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-140 songs - 8 hr 5 min
+141 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Love’s Sweet Tide](https://open.spotify.com/track/5ULZ7VWAHFq7q2seEOIBRJ) | [Holographica](https://open.spotify.com/artist/5jZcEwt43lueHOgtTtgljQ) | [Mechanical Ghost](https://open.spotify.com/album/1Sd2bvyyjmIgjA8z9WLgpH) | 3:11 | 2026-03-23 | 2026-04-18 |
 | [Lunar Soul](https://open.spotify.com/track/2JNS1Wvp2Te7qxdoGsibKl) | [Gobaith](https://open.spotify.com/artist/1EVXqPW8qgjyv1649P1t80) | [Lunar Soul](https://open.spotify.com/album/5RxwaPBm2DHD5b02JfaYcq) | 2:39 | 2025-10-13 |  |
 | [Límite](https://open.spotify.com/track/7jVQXWrwoQq9lOQpGXlJRv) | [Javzye](https://open.spotify.com/artist/1AM71cIOWu0sM8D6yju4xX) | [Límite](https://open.spotify.com/album/3nxdgNuSPdm0oibOiS1J4d) | 2:48 | 2026-03-02 | 2026-03-17 |
+| [MAX OUT](https://open.spotify.com/track/5pDkBCb5021OJNNTmtLfOV) | [dummy co.](https://open.spotify.com/artist/6r4qoWqXf8eQXCPHawb3RF), [Kool Karlo](https://open.spotify.com/artist/3dHzT8qGSboKwYhi7SMQUb) | [MAX OUT](https://open.spotify.com/album/4RHWCqUVZOGnbhYie712hF) | 3:12 | 2026-08-08 |  |
 | [MEDUSA](https://open.spotify.com/track/7jUrziB9wx75HUm7FBstrQ) | [Megan Summersby](https://open.spotify.com/artist/5vxVb5DTT9V7V8QWkjFBJF) | [MEDUSA](https://open.spotify.com/album/5MWi0gKJigS1MbLRsAegES) | 3:33 | 2025-11-26 | 2025-12-13 |
 | [Memoria](https://open.spotify.com/track/7lHiBXwoCvOY1ZJUBWicse) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm) | 3:00 | 2025-10-13 |  |
 | [Minority](https://open.spotify.com/track/7EahJBzq7oNuxktGieAJa4) | [Catii](https://open.spotify.com/artist/5VWLPyWRDkbnaiV5LYSnXv) | [Minority](https://open.spotify.com/album/1T9q32c5d8PPBg72mbu12Q) | 4:14 | 2026-04-07 | 2026-05-21 |

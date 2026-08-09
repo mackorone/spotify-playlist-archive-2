@@ -1,12 +1,12 @@
 {
   "description": "This is Rochelle Jordan. The essential tracks, all in one playlist.",
-  "num_followers": 1678,
+  "num_followers": 1680,
   "original_name": "This Is Rochelle Jordan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAAAeIpdqagdy7xzG4d2BDef6",
+  "snapshot_id": "anUgAAAAAABejxooOFo6u5TFY67pvR3v",
   "tracks": [
     {
       "added_at": null,
@@ -83,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play With The Changes",
-        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 318917,
-      "name": "Dancing Elephants",
-      "url": "https://open.spotify.com/track/0HiS65pePN8wDgCR6iypZu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play With The Changes (Remixed)",
         "url": "https://open.spotify.com/album/26w4mlBTB8ykwRpJK3iOr1"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 284606,
       "name": "All Along - Kaytranada Remix",
       "url": "https://open.spotify.com/track/0tdFXgtx5qTAAkUlP1bVGy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 318917,
+      "name": "Dancing Elephants",
+      "url": "https://open.spotify.com/track/0HiS65pePN8wDgCR6iypZu"
     },
     {
       "added_at": null,
@@ -327,18 +327,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "1021",
-        "url": "https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa"
+        "name": "I'm Your Muse (Ron Trent Remix)",
+        "url": "https://open.spotify.com/album/2Sb9r7GIuHmpKQFhhgR3MF"
       },
       "artists": [
         {
           "name": "Rochelle Jordan",
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        },
+        {
+          "name": "Ron Trent",
+          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
         }
       ],
-      "duration_ms": 214746,
-      "name": "Ease Your Mind",
-      "url": "https://open.spotify.com/track/6TSLDMY1tljUJPPiPKAZPz"
+      "duration_ms": 476763,
+      "name": "I'm Your Muse - Ron Trent Remix",
+      "url": "https://open.spotify.com/track/1Ibi14wy23kq9YxWu5BOUn"
     },
     {
       "added_at": null,
@@ -359,22 +363,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Your Muse (Ron Trent Remix)",
-        "url": "https://open.spotify.com/album/2Sb9r7GIuHmpKQFhhgR3MF"
+        "name": "1021",
+        "url": "https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa"
       },
       "artists": [
         {
           "name": "Rochelle Jordan",
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        },
-        {
-          "name": "Ron Trent",
-          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
         }
       ],
-      "duration_ms": 476763,
-      "name": "I'm Your Muse - Ron Trent Remix",
-      "url": "https://open.spotify.com/track/1Ibi14wy23kq9YxWu5BOUn"
+      "duration_ms": 214746,
+      "name": "Ease Your Mind",
+      "url": "https://open.spotify.com/track/6TSLDMY1tljUJPPiPKAZPz"
     },
     {
       "added_at": null,

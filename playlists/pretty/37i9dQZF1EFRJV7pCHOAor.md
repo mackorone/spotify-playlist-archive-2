@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/79M2N87L8igKvfAOgqndLY">Carter Lang</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 772 likes - 223 songs - 12 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 778 likes - 223 songs - 12 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,8 +163,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 153 | [Do Not Disturb](https://open.spotify.com/track/31yeukBk5aAtzOoayBHsvg) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [The Everlasting Wave](https://open.spotify.com/album/6AcXp7TeRyCNbyeNJSEMIL) | 3:56 |
 | 154 | [Mr\. Neighbor](https://open.spotify.com/track/5k9f5oNVRSBdDoGa5W9toI) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:46 |
 | 155 | [Bet Up](https://open.spotify.com/track/46kj7wlaxNfNz4MpvD8l67) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [Superstar Creature](https://open.spotify.com/album/6FaFi9FuUH3VoXDZzQl02N) | 2:07 |
-| 156 | [All 4 You](https://open.spotify.com/track/155T05pTy8or2yEZvWf8na) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Yuna](https://open.spotify.com/artist/5pSxbbf8JGXDduOw9jKUEX) | [Smyle \(Extended\)](https://open.spotify.com/album/5MGG3wbTyV7JcaWIR67g9Y) | 4:35 |
-| 157 | [Calypso](https://open.spotify.com/track/0xDX2eQsx9F4xHVMNPvVge) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Calypso](https://open.spotify.com/album/7rfrQpTh58BeQfjmA4n2Yi) | 2:31 |
+| 156 | [Calypso](https://open.spotify.com/track/0xDX2eQsx9F4xHVMNPvVge) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Calypso](https://open.spotify.com/album/7rfrQpTh58BeQfjmA4n2Yi) | 2:31 |
+| 157 | [All 4 You](https://open.spotify.com/track/155T05pTy8or2yEZvWf8na) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Yuna](https://open.spotify.com/artist/5pSxbbf8JGXDduOw9jKUEX) | [Smyle \(Extended\)](https://open.spotify.com/album/5MGG3wbTyV7JcaWIR67g9Y) | 4:35 |
 | 158 | [Pretty Boy](https://open.spotify.com/track/1E95q68SQxX1dDzYGjHJ1s) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 3:09 |
 | 159 | [Be Careful With Me](https://open.spotify.com/track/4JOsabaJ1et99Ulb1E9GIE) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/0bIXnppwOEeFqEUV0vqJJn) | 3:16 |
 | 160 | [buzzin](https://open.spotify.com/track/4gwQdnkAHy5WTrKaTWS1o8) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [CROSSOVER \(Deluxe\)](https://open.spotify.com/album/3blh2LrECEQA15PwechWtO) | 3:35 |
@@ -183,8 +183,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 173 | [While U Can](https://open.spotify.com/track/4xRHL8plvkNMq36UMO47bp) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/0bIXnppwOEeFqEUV0vqJJn) | 3:06 |
 | 174 | [Lately](https://open.spotify.com/track/6HuAHUe9EpFhGBSdAtFmBy) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [HEAVN](https://open.spotify.com/album/669sonZhhw67k7o1GhlSCd) | 2:42 |
 | 175 | [Snowed In](https://open.spotify.com/track/1BixipQ6yoZCmkXs6buImL) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Merry Christmas Lil Mama: The Gift That Keeps On Giving](https://open.spotify.com/album/1ytfpLuUC11zEpbq4yM9Uu) | 4:04 |
-| 176 | [40 Below](https://open.spotify.com/track/7kzKE8BVcHn7ohQWLqTQCU) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Wave\[s\]](https://open.spotify.com/album/5yXvXFTwuqoAHFuPeliqvZ) | 3:25 |
-| 177 | [Black Void \(feat\. Thundercat & Eryn Allen Kane\)](https://open.spotify.com/track/0fmDqeTBrZhWDgK6qBtiPu) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Better Me Than You](https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd) | 4:12 |
+| 176 | [Black Void \(feat\. Thundercat & Eryn Allen Kane\)](https://open.spotify.com/track/0fmDqeTBrZhWDgK6qBtiPu) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Better Me Than You](https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd) | 4:12 |
+| 177 | [40 Below](https://open.spotify.com/track/7kzKE8BVcHn7ohQWLqTQCU) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Wave\[s\]](https://open.spotify.com/album/5yXvXFTwuqoAHFuPeliqvZ) | 3:25 |
 | 178 | [HAPPY HURTS](https://open.spotify.com/track/2r2l2KmLnaULSmaeB7Df8b) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [EYEYE](https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4) | 4:56 |
 | 179 | [do you have a soul?](https://open.spotify.com/track/06nHXSt8RPzvdiXNrz3Ocv) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Pointy Heights](https://open.spotify.com/album/7KonH0i4kmFvTrYbeIQts2) | 2:03 |
 | 180 | [Keep You Close](https://open.spotify.com/track/11dHX8VXt8oRJRSgiTYVxR) | [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Paradise](https://open.spotify.com/album/0yCW3blpXzA0owDGQVQ5xY) | 3:33 |
@@ -232,4 +232,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRJV7pCHOAor.md) - [plain]
 | 222 | [In the Dark \(Originally Performed by Swae Lee & Jhené Aiko\) \[Instrumental Version\]](https://open.spotify.com/track/3mBIGDPh57hQiy0tkFPe6G) | [Backing Business](https://open.spotify.com/artist/2X7pI6n8xuBbsdry2JHoju) | [Pristine Karaoke, Vol\. 46](https://open.spotify.com/album/7gSaZP3yShQTGSN8vXXZNv) | 3:05 |
 | 223 | [Without You \- Downtempo Workout Mix](https://open.spotify.com/track/09dEqoOt2ERaafwHplzjAf) | [Workout Music](https://open.spotify.com/artist/5njMahLKD1tLJ5bejvqseV) | [50 Pop Workout Downtempo](https://open.spotify.com/album/6kuOWQcfva1CAmyJ3IifMN) | 4:36 |
 
-Snapshot ID: `AcY+GAAAAACFX5vsyq0ZXLyKCulSDHeP`
+Snapshot ID: `AcZD6gAAAADLjnX4rtfMFPtH4bwRpSw4`

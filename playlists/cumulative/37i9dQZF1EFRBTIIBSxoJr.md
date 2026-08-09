@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-173 songs - 9 hr 40 min
+174 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [Remember This](https://open.spotify.com/track/1zZZlIA8xcYwbEakQFwH96) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Remember This](https://open.spotify.com/album/3PeXFl2X5nsH70O8jacaD4) | 3:46 | 2024-03-01 | 2025-10-11 |
 | [Remember This](https://open.spotify.com/track/4GaXpQAh6e0ItV1jFHOzPK) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Remember This](https://open.spotify.com/album/0JeBuIbqH1NaM0cvICe9J3) | 3:46 | 2025-10-10 |  |
 | [Rivers](https://open.spotify.com/track/4EW2QK7Fw8AtE0tZ3c3XS7) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [Rivers](https://open.spotify.com/album/22ZVcZ2qJSbcQR5VCugOPk) | 2:57 | 2024-03-01 |  |
-| [Ruin Your Night](https://open.spotify.com/track/6yq8YMCw3dHMgZO46OcmIv) | [Megan McKenna](https://open.spotify.com/artist/0aAQxfnyKfbTRfkUfxSCIu) | [Ruin Your Night](https://open.spotify.com/album/4yvQ82S9afUKOy3sVxmtHq) | 3:31 | 2026-04-18 |  |
+| [Ruin Your Night](https://open.spotify.com/track/6yq8YMCw3dHMgZO46OcmIv) | [Megan McKenna](https://open.spotify.com/artist/0aAQxfnyKfbTRfkUfxSCIu) | [Ruin Your Night](https://open.spotify.com/album/4yvQ82S9afUKOy3sVxmtHq) | 3:31 | 2026-04-18 | 2026-08-09 |
+| [Ruin Your Night](https://open.spotify.com/track/72dYMoL2SGUC2RNAvBw4L1) | [Megan McKenna](https://open.spotify.com/artist/0aAQxfnyKfbTRfkUfxSCIu) | [Ruin Your Night](https://open.spotify.com/album/2frSU8Ww4v8nzFpWKK4lBV) | 3:31 | 2026-08-08 |  |
 | [Runaway Train \(feat\. RuthAnne\)](https://open.spotify.com/track/6wE4dMcWmaEvDcQGGjYHZc) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Runaway Train \(feat\. RuthAnne\)](https://open.spotify.com/album/4coGBdg0K0f6SSttAa4OXI) | 2:16 | 2025-06-14 |  |
 | [Runnin'](https://open.spotify.com/track/1ea2dRo2tSRhxMagoX7EWj) | [Nadine Coyle](https://open.spotify.com/artist/3fWTpVNnrGmdo0jMbsRsRf) | [Insatiable](https://open.spotify.com/album/0T3zANiTRRlO1J5rmGp3na) | 4:05 | 2024-03-01 |  |
 | [Safe Place](https://open.spotify.com/track/2pzdG9wrLHiLtOZxGnpThj) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Safe Place](https://open.spotify.com/album/3sEoI3sYBqimCSIhbyr1YW) | 2:36 | 2024-03-01 | 2025-10-11 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With MIK's Reaction, Motor Ballet, Autoimmune and more",
+  "description": "With Haneke Twins, MIK's Reaction, Autoimmune and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "(Don`t Wait For) The Next Call - Feat Sixxkiller",
       "url": "https://open.spotify.com/track/6rORsjerzCWPwCawd8T76m"
@@ -334,7 +334,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 172021,
       "name": "Agartha (A.G.A.R.T.H.A.)",
       "url": "https://open.spotify.com/track/6uIm6FvY147PjdFd6zj0O3"
@@ -442,7 +442,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 236000,
       "name": "Alles Historie",
       "url": "https://open.spotify.com/track/6jL04UjI8xLC9FOzL6iQVA"
@@ -720,7 +720,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 178000,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/4szCcgfvoz89xloFDOdgUS"
@@ -800,7 +800,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 343573,
       "name": "Ave",
       "url": "https://open.spotify.com/track/7pardS8RjEfqQ0FrGDeHNM"
@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 386261,
       "name": "Blue",
       "url": "https://open.spotify.com/track/5BRv38laitXilURqULV2nH"
@@ -1938,7 +1938,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 226206,
       "name": "Climb",
       "url": "https://open.spotify.com/track/4LYUSnqU51fCWufLaXZLK4"
@@ -2190,7 +2190,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -3899,6 +3899,24 @@
     },
     {
       "album": {
+        "name": "Eternally Is Here (Live)",
+        "url": "https://open.spotify.com/album/4AgJY4KLKugjbWnxIZT3jn"
+      },
+      "artists": [
+        {
+          "name": "The Dark Wave",
+          "url": "https://open.spotify.com/artist/6GbtXHV0tq76xiP1zv1fnr"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197367,
+      "name": "Eternally Is Here - Live",
+      "url": "https://open.spotify.com/track/3JIqxNoCnnaWfoVR5s53y4"
+    },
+    {
+      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/2HRTm8pphs6EpcSzx5X9eN"
       },
@@ -4184,7 +4202,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 194086,
       "name": "Faith",
       "url": "https://open.spotify.com/track/2ii9ti5D0BJCLRxgrDZjWf"
@@ -4238,7 +4256,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 261821,
       "name": "Fake News",
       "url": "https://open.spotify.com/track/5bpsccASJsBhAibqbEq3A8"
@@ -4476,7 +4494,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 177352,
       "name": "Feel the Burn",
       "url": "https://open.spotify.com/track/4M3fdKeOdFbZS7uBbY56Km"
@@ -4678,7 +4696,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 330737,
       "name": "Flieg Vogel flieg",
       "url": "https://open.spotify.com/track/4D1e1mUnr2huaOxcEZv08G"
@@ -5140,7 +5158,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 248451,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/7unT6Ykkw38roexHf453ur"
@@ -5876,7 +5894,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 297735,
       "name": "I Consider My Own",
       "url": "https://open.spotify.com/track/0NvwPZNNlbcuiiyyhexD7u"
@@ -6096,7 +6114,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 223862,
       "name": "I've been There",
       "url": "https://open.spotify.com/track/3GwfRlpH6Fo1w6DUWRxDj1"
@@ -6366,7 +6384,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 299655,
       "name": "IO",
       "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
@@ -6644,7 +6662,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -6756,7 +6774,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 246000,
       "name": "Kings Men Come",
       "url": "https://open.spotify.com/track/5gZl3UvODHXkqkNi66KxZk"
@@ -8738,7 +8756,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 299896,
       "name": "My Remains",
       "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
@@ -9052,7 +9070,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 160076,
       "name": "No Fun (In the World)",
       "url": "https://open.spotify.com/track/03Ov5dy5byg3PzkT0kEzXd"
@@ -9316,7 +9334,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 287800,
       "name": "N\u00e1tthagi",
       "url": "https://open.spotify.com/track/5CqFBcZyQGu2EfUGAUvfWa"
@@ -9670,7 +9688,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 249272,
       "name": "Only What You Love",
       "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
@@ -10352,7 +10370,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 147278,
       "name": "Power Trip",
       "url": "https://open.spotify.com/track/7hund5bivOghcZsQu1PdNp"
@@ -11254,7 +11272,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 164829,
       "name": "Shadows of Tomorrow",
       "url": "https://open.spotify.com/track/6QIGBSPAtC2Bg6Ccl72TZy"
@@ -12064,7 +12082,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "Stikk Av",
       "url": "https://open.spotify.com/track/7lhF3iYxfrHxxWrsdLnNxE"
@@ -13002,7 +13020,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 246373,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/4BF5hPw2t0JYqLSKuPLmfy"
@@ -13110,7 +13128,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 394040,
       "name": "The Hole",
       "url": "https://open.spotify.com/track/4kvSx0xBweaAidCPRyzsFO"
@@ -13634,7 +13652,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 239999,
       "name": "The Watch",
       "url": "https://open.spotify.com/track/6BRoDKsvlWjjPxS4cJ7ESG"
@@ -14891,6 +14909,24 @@
     },
     {
       "album": {
+        "name": "Virus Potus (Extended)",
+        "url": "https://open.spotify.com/album/2S6SKZ9P1Fw5rsRhNousSF"
+      },
+      "artists": [
+        {
+          "name": "Vii-Pii",
+          "url": "https://open.spotify.com/artist/1yHisc887E51cW9ljgjnVZ"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128600,
+      "name": "Virus Potus",
+      "url": "https://open.spotify.com/track/53uCwcLsShSd664eg4eOSz"
+    },
+    {
+      "album": {
         "name": "Void Kingdom",
         "url": "https://open.spotify.com/album/0NAm2kQcInVcuMMuP78iZ8"
       },
@@ -15310,7 +15346,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 259200,
       "name": "What Can I Do",
       "url": "https://open.spotify.com/track/05dhDS71slztWsT4jn31fa"
@@ -15898,7 +15934,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 231936,
       "name": "Your Heart in My Soul",
       "url": "https://open.spotify.com/track/1rwQ3Ej9SsGD5FTlmnMqw8"
@@ -15934,7 +15970,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 190128,
       "name": "Your Voice",
       "url": "https://open.spotify.com/track/5IxEX1Y98L9087btcAQ6n0"

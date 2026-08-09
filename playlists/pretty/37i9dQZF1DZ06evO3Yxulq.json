@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAADQ0rTJez7IZPMvQ/c9Kx/C",
+  "snapshot_id": "anUgAAAAAABYZn2kKghEzsdVkSRckw8W",
   "tracks": [
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eterno (Live)",
-        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 350858,
-      "name": "M\u00e1s Alto Honor",
-      "url": "https://open.spotify.com/track/4ktw8BW1kGxifJEiKQoOjB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bethel Music en Espa\u00f1ol (Live)",
         "url": "https://open.spotify.com/album/6vwX3cU4LYtzNsltDuKBqn"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 305986,
       "name": "Promesas No Fallar\u00e1n (En Vivo)",
       "url": "https://open.spotify.com/track/4Xx3CG7n0KhCv37EQfEEkR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 350858,
+      "name": "M\u00e1s Alto Honor",
+      "url": "https://open.spotify.com/track/4ktw8BW1kGxifJEiKQoOjB"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
       "duration_ms": 245973,
       "name": "Donde Est\u00e1 El Esp\u00edritu de Dios",
       "url": "https://open.spotify.com/track/3ataDpjKHhWEii3cKbdS1Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 308533,
+      "name": "Magnifico",
+      "url": "https://open.spotify.com/track/28rwizC0dHCb2iHf5NdIOE"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s Profundo",
-        "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 308533,
-      "name": "Magnifico",
-      "url": "https://open.spotify.com/track/28rwizC0dHCb2iHf5NdIOE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corriente / Un D\u00eda A La Vez (Medley)",
         "url": "https://open.spotify.com/album/4HGdkSc64Tg2l1T061A3iR"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 231742,
       "name": "Corriente / Un D\u00eda A La Vez (Medley)",
       "url": "https://open.spotify.com/track/7eReRSzohm05KEZ1RFBGV5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eterno (Live)",
-        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 362977,
-      "name": "Eterno (Con Cuando los Santos Marchen Ya)",
-      "url": "https://open.spotify.com/track/6Bg0B8U2GIiLVZhyYkrbPp"
     },
     {
       "added_at": null,
@@ -771,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 362977,
+      "name": "Eterno (Con Cuando los Santos Marchen Ya)",
+      "url": "https://open.spotify.com/track/6Bg0B8U2GIiLVZhyYkrbPp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emanuel",
         "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
       },
@@ -783,6 +783,26 @@
       "duration_ms": 458993,
       "name": "Mi Padre Me Ama - Adoraci\u00f3n Espont\u00e1nea",
       "url": "https://open.spotify.com/track/18Xx6rRsGhSjThPrTKzE1X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ambientes de Cuna",
+        "url": "https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu"
+      },
+      "artists": [
+        {
+          "name": "Aliento Kids",
+          "url": "https://open.spotify.com/artist/3YizQtvjJAAx4IJSRxVBYt"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 452354,
+      "name": "Como Dijiste",
+      "url": "https://open.spotify.com/track/7eTHXbvKavcvhSoD5L7D5J"
     },
     {
       "added_at": null,
@@ -819,26 +839,6 @@
       "duration_ms": 267326,
       "name": "Ruge",
       "url": "https://open.spotify.com/track/5XFN4MfcdDMw07igrG43LO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ambientes de Cuna",
-        "url": "https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu"
-      },
-      "artists": [
-        {
-          "name": "Aliento Kids",
-          "url": "https://open.spotify.com/artist/3YizQtvjJAAx4IJSRxVBYt"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 452354,
-      "name": "Como Dijiste",
-      "url": "https://open.spotify.com/track/7eTHXbvKavcvhSoD5L7D5J"
     },
     {
       "added_at": null,

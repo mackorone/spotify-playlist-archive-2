@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2shzuwwKw0y.md) - [plain]
 
 > Del rancho a la ciudad, las historias que pocos se atreven a contar\. Cover: Novilllos de la Sierra
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,432,928 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,432,839 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [El Quilin](https://open.spotify.com/track/3d12eWHA9P7LUjUcY3vQp7) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro) | [El Quilin](https://open.spotify.com/album/0uf02vcbAZFQPpIeWUrYlB) | 3:42 |
-| 2 | [El Bazucaso](https://open.spotify.com/track/54zzYLB6l0d5xuIeQIPsHI) | [Elio Vega](https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg), [José Ponce y El Nuevo Equipo](https://open.spotify.com/artist/1WF4RGjRhzQRdtTowIt4fX) | [De Sonora A Chihuahua](https://open.spotify.com/album/0mgHUfCpaihSguk7LLGPyj) | 3:18 |
+| 2 | [El Bazucazo](https://open.spotify.com/track/54zzYLB6l0d5xuIeQIPsHI) | [Elio Vega](https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg), [José Ponce y El Nuevo Equipo](https://open.spotify.com/artist/1WF4RGjRhzQRdtTowIt4fX) | [De Sonora A Chihuahua](https://open.spotify.com/album/0mgHUfCpaihSguk7LLGPyj) | 3:18 |
 | 3 | [El De La Costa 2](https://open.spotify.com/track/1vqe5izzMQKZYGgVF4y6aL) | [Los Juniors De Mexicali](https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou) | [El De La Costa 2](https://open.spotify.com/album/2w637pYfG6d2g6o8ypE5sd) | 2:44 |
 | 4 | [La Meta Es Ser](https://open.spotify.com/track/6XXuLRprNFfcZjHLvOBBmh) | [Grupo Primer Grado](https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7) | [La Meta Es Ser](https://open.spotify.com/album/01BRbJbk8itR8nCetRX16p) | 2:50 |
 | 5 | [Pa la Maña](https://open.spotify.com/track/0ggQhh7y2cWtud9Wg45tvl) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Pa la Maña](https://open.spotify.com/album/0Nqi2OJOdFPu9MzUudp9MC) | 2:39 |

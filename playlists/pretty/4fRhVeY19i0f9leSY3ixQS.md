@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,653 likes - 339 songs - 18 hr 55 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,664 likes - 346 songs - 19 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -340,12 +340,19 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 330 | [Behind](https://open.spotify.com/track/3isMrvMyIT5xnmJMOxssx9) | [Em Armstrong](https://open.spotify.com/artist/59QA9gTkN6AelC13trJ1Oh) | [Behind](https://open.spotify.com/album/7sqy34kAW0gLFJwdLSMMnA) | 2:48 |
 | 331 | [Bro\-trayal](https://open.spotify.com/track/3piWmDSJJ5okDmUImTT60Q) | [Beat Riff](https://open.spotify.com/artist/2TJdRHhIYmqaO5z7HhTKN7) | [Hard Turn](https://open.spotify.com/album/4lXWK5r5YmCjltZMO663p3) | 3:36 |
 | 332 | [Need 2 Love](https://open.spotify.com/track/0ohpnfuPKfxJvb96LTnfso) | [KAMEKA](https://open.spotify.com/artist/1WFHQowEm1xVKi4X9WfaUP) | [Need 2 Love](https://open.spotify.com/album/2YRkK0QfRGxmV4qBBvfREn) | 2:36 |
-| 333 | [Piece Of Mind](https://open.spotify.com/track/3qBGVZLkP0tBiHoXc3RptT) | [Tinned Meats](https://open.spotify.com/artist/5klWxFqNqXFUjX0HpAFvGr) | [𝘒𝘐𝘓𝘛𝘌𝘙](https://open.spotify.com/album/2NmLYy2iZ7sCfHbSb6VklO) | 2:29 |
-| 334 | [Blame](https://open.spotify.com/track/1pBQ8RbM3wSYcdv273TwrE) | [Bless Your Dead](https://open.spotify.com/artist/35lpIaFDWbZga2fVCUw2ZW) | [Blame](https://open.spotify.com/album/36qqc57Vyu1LUOIAmQBykA) | 2:35 |
-| 335 | [Pull the Trigger](https://open.spotify.com/track/1iQIsHQL0EM8VVwwuRcfPk) | [Jonny Amoral](https://open.spotify.com/artist/6NwioT96GnLXqYSS814noa) | [Delirium](https://open.spotify.com/album/6Geo6lAPXfRnOc6UVt4MrL) | 2:37 |
-| 336 | [Bad Moon Rising \- Suburban Sessions](https://open.spotify.com/track/7DrEIWrFe1FgoF6PHL1MJ6) | [According To Jack](https://open.spotify.com/artist/1JVc2ZCDndA1nBgc0nLNSs) | [Bad Moon Rising \(Suburban Sessions\)](https://open.spotify.com/album/0VVeJeNzRfABK9I842dej4) | 1:57 |
-| 337 | [Breaking My Pride](https://open.spotify.com/track/3CGNumEYGFbjr3wDygGu3d) | [Good Fortune](https://open.spotify.com/artist/5JlD0ywGbSXPatgnstoLIY) | [Breaking My Pride](https://open.spotify.com/album/36Ffv71Q1uYXSvDmZzH3tq) | 2:49 |
-| 338 | [Here](https://open.spotify.com/track/4hELxfCdhxUTrH9An2FxDF) | [Jonny Amoral](https://open.spotify.com/artist/6NwioT96GnLXqYSS814noa) | [Delirium](https://open.spotify.com/album/6Geo6lAPXfRnOc6UVt4MrL) | 2:08 |
-| 339 | [Citylights](https://open.spotify.com/track/2cQPzcs1gAyoS2OuwU2zYY) | [Adil Diamond](https://open.spotify.com/artist/7disYdg5mq01jUjwC90S5Z) | [Citylights](https://open.spotify.com/album/1Po5D9atLpAMiGiPnHRJOt) | 2:32 |
+| 333 | [Fortune Cookie](https://open.spotify.com/track/5pSAAjvei4PdkRhEo1rFgG) | [Nakace7](https://open.spotify.com/artist/79WqBie5aUELM4nIUaNqZs) | [Fortune Cookie](https://open.spotify.com/album/6I1qXbQEWTe9tbDbMUuOqp) | 3:49 |
+| 334 | [Piece Of Mind](https://open.spotify.com/track/3qBGVZLkP0tBiHoXc3RptT) | [Tinned Meats](https://open.spotify.com/artist/5klWxFqNqXFUjX0HpAFvGr) | [𝘒𝘐𝘓𝘛𝘌𝘙](https://open.spotify.com/album/2NmLYy2iZ7sCfHbSb6VklO) | 2:29 |
+| 335 | [Blame](https://open.spotify.com/track/1pBQ8RbM3wSYcdv273TwrE) | [Bless Your Dead](https://open.spotify.com/artist/35lpIaFDWbZga2fVCUw2ZW) | [Blame](https://open.spotify.com/album/36qqc57Vyu1LUOIAmQBykA) | 2:35 |
+| 336 | [Pull the Trigger](https://open.spotify.com/track/1iQIsHQL0EM8VVwwuRcfPk) | [Jonny Amoral](https://open.spotify.com/artist/6NwioT96GnLXqYSS814noa) | [Delirium](https://open.spotify.com/album/6Geo6lAPXfRnOc6UVt4MrL) | 2:37 |
+| 337 | [Bad Moon Rising \- Suburban Sessions](https://open.spotify.com/track/7DrEIWrFe1FgoF6PHL1MJ6) | [According To Jack](https://open.spotify.com/artist/1JVc2ZCDndA1nBgc0nLNSs) | [Bad Moon Rising \(Suburban Sessions\)](https://open.spotify.com/album/0VVeJeNzRfABK9I842dej4) | 1:57 |
+| 338 | [Breaking My Pride](https://open.spotify.com/track/3CGNumEYGFbjr3wDygGu3d) | [Good Fortune](https://open.spotify.com/artist/5JlD0ywGbSXPatgnstoLIY) | [Breaking My Pride](https://open.spotify.com/album/36Ffv71Q1uYXSvDmZzH3tq) | 2:49 |
+| 339 | [Here](https://open.spotify.com/track/4hELxfCdhxUTrH9An2FxDF) | [Jonny Amoral](https://open.spotify.com/artist/6NwioT96GnLXqYSS814noa) | [Delirium](https://open.spotify.com/album/6Geo6lAPXfRnOc6UVt4MrL) | 2:08 |
+| 340 | [Citylights](https://open.spotify.com/track/2cQPzcs1gAyoS2OuwU2zYY) | [Adil Diamond](https://open.spotify.com/artist/7disYdg5mq01jUjwC90S5Z) | [Citylights](https://open.spotify.com/album/1Po5D9atLpAMiGiPnHRJOt) | 2:32 |
+| 341 | [It's All Been Done Before](https://open.spotify.com/track/3uUPrgIBCbDpyoxsrsFYDj) | [ZUSTRA](https://open.spotify.com/artist/1cIilB8ckONPBhSG6IvxSu) | [It's All Been Done Before](https://open.spotify.com/album/59VLejIEJLJnh7Nv0e7tyS) | 2:34 |
+| 342 | [We Figure It Out](https://open.spotify.com/track/2JWTeR7vtJCZUo6uMGHeqW) | [Alex Hellcat](https://open.spotify.com/artist/0Ucc4c5tJDgp23eZyrwlei) | [We Figure It Out](https://open.spotify.com/album/2krYrF8v8fiuj7ybunnSfK) | 2:33 |
+| 343 | [Upside Down](https://open.spotify.com/track/0Qr1SJI2KiE6LgPf7AUECd) | [Evan Fahey](https://open.spotify.com/artist/5UQEmHxArWrbjMM94TFVFi) | [Upside Down](https://open.spotify.com/album/6PYulOmBCJBpqTYlbjE6hG) | 2:36 |
+| 344 | [Neighborhood Wars](https://open.spotify.com/track/1R4OFtLqgLWSldLx1M5zZn) | [The Sun Sets West](https://open.spotify.com/artist/0xwRKbc6fbnlh0AdFfGGKq), [Laurelhurst](https://open.spotify.com/artist/4yBxUSF756XD6GHmco9Kxv) | [Neighborhood Wars](https://open.spotify.com/album/6yyYAqp5BWI4e9BoXyHsaz) | 3:55 |
+| 345 | [Go Get It](https://open.spotify.com/track/6zqPB23owpXNvIFqn3zGNZ) | [Surprise Asteroid](https://open.spotify.com/artist/4POY53CgtEnd2FUGxE8IGe) | [Go Get It](https://open.spotify.com/album/5SnDMuXrJ99biN9htpsYJ1) | 2:41 |
+| 346 | [Picking flowers](https://open.spotify.com/track/2Qt1oPbvCCwvg3Z65Nh3uN) | [MaxRipper93](https://open.spotify.com/artist/7I8LiOaMjFk7cooksEr60L) | [Help Needed](https://open.spotify.com/album/6ovx0Mm6OpxWvy478wA6TY) | 3:16 |
 
-Snapshot ID: `AAASwpo5709XDiKIQKknQXHOiC7R7FUq`
+Snapshot ID: `AAASyX68dnYW70HRXaeJmMDaNwKV8Wyk`

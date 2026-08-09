@@ -1,12 +1,12 @@
 {
   "description": "This is The Slits. The essential tracks, all in one playlist.",
-  "num_followers": 3275,
+  "num_followers": 3277,
   "original_name": "This Is The Slits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAABmkAxQglGp9P4tIh56KpT1",
+  "snapshot_id": "anUgAAAAAAAIOC3Zz7ZxpU7zGyh01gyX",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 213906,
-      "name": "FM",
-      "url": "https://open.spotify.com/track/3uSfy9p7AQRmKt6MHcdtnV"
+      "duration_ms": 195693,
+      "name": "Spend, Spend, Spend",
+      "url": "https://open.spotify.com/track/0bPIKFrGacMfW0kvqMMk67"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 195693,
-      "name": "Spend, Spend, Spend",
-      "url": "https://open.spotify.com/track/0bPIKFrGacMfW0kvqMMk67"
+      "duration_ms": 213906,
+      "name": "FM",
+      "url": "https://open.spotify.com/track/3uSfy9p7AQRmKt6MHcdtnV"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 261853,
-      "name": "Face Place",
-      "url": "https://open.spotify.com/track/5b7PGHS5XOiLwWtg7voKJM"
+      "duration_ms": 267293,
+      "name": "Improperly Dressed",
+      "url": "https://open.spotify.com/track/6hp8fyy5Yx1VUjA7EeCXzN"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 267293,
-      "name": "Improperly Dressed",
-      "url": "https://open.spotify.com/track/6hp8fyy5Yx1VUjA7EeCXzN"
+      "duration_ms": 261853,
+      "name": "Face Place",
+      "url": "https://open.spotify.com/track/5b7PGHS5XOiLwWtg7voKJM"
     },
     {
       "added_at": null,

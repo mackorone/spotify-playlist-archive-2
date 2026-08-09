@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 
 > Creadores que necesitas tener en el RADAR\. En la portada: <a href="spotify:show:629ovTrIOVUyoyv4L2dyqR">Los Tripl3ts </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,034 likes - 9 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,035 likes - 9 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

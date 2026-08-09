@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Todavía queda verano que celebrar y con el nuevo álbum de RØZ, mejor! Escucha lo más relevante de la semana aquí mero
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,217,826 likes - 82 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,218,425 likes - 82 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 73 | [Pensándote](https://open.spotify.com/track/61WS8cUwjz7wMYBx67m9AE) | [Kevin Cuadras](https://open.spotify.com/artist/5rB9nhJrkE9OTWujBUKJWA), [Mosmo](https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr) | [Pensándote](https://open.spotify.com/album/1baS9h5jWKD5kCbYVR8HKp) | 2:28 |
 | 74 | [La Fama](https://open.spotify.com/track/3eZNWGX9RyJimcR2TJB0Mp) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [NO 3S UN 3RROR](https://open.spotify.com/album/2o07994JJSeGpcRhUKoBOf) | 3:27 |
 | 75 | [A Solas](https://open.spotify.com/track/6mOaJN1BXMw5VqfTQ35IDl) | [Happykid](https://open.spotify.com/artist/3tTFvAvXhP8GtGZ35GN7J2), [Mendoza](https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP) | [A Solas](https://open.spotify.com/album/0Py1nV2j9bTuOtMmSJeBPy) | 2:38 |
-| 76 | [ya no me siento tan mal](https://open.spotify.com/track/4IbuDQX7h2tS2irfLkxSPi) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam), [FLAKKO SAMMY](https://open.spotify.com/artist/2wCQnQL6kShe1GiGMGQkWr) | [PINK LEMONADE](https://open.spotify.com/album/3tSL8w5vDmwtTJJ44wJiYb) | 3:53 |
+| 76 | [ya no me siento tan mal](https://open.spotify.com/track/4IbuDQX7h2tS2irfLkxSPi) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam), [FLAKKO SAMMY](https://open.spotify.com/artist/2wCQnQL6kShe1GiGMGQkWr) | [PINK LEMONADE](https://open.spotify.com/album/3tSL8w5vDmwtTJJ44wJiYb) | 3:49 |
 | 77 | [mAldito](https://open.spotify.com/track/5lzzIQiRMy37c90TFzXocj) | [Emiliano Athie](https://open.spotify.com/artist/1qho775jbZoPnNUR9Xtjzr) | [mAldito](https://open.spotify.com/album/3L8HcFlC3bEgM0miV0Yvmd) | 2:40 |
 | 78 | [Chico Shy](https://open.spotify.com/track/25SinfEnxKfMkD7Iw50lx8) | [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo), [Luna Martínez](https://open.spotify.com/artist/1ka3TeE9jJYFat26butHIR) | [Chico Shy](https://open.spotify.com/album/7rcRElKOPMsXZqTHO2prx9) | 3:08 |
 | 79 | [sin 1 ok](https://open.spotify.com/track/4QHQ1Wzx9RcU6TfGayFHEf) | [Roby Damian](https://open.spotify.com/artist/1ZZuCXECSRpnxKceMooLk5), [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS) | [sin 1 ok](https://open.spotify.com/album/5dHc7SRmXSeAuQN3mW4bEc) | 3:14 |

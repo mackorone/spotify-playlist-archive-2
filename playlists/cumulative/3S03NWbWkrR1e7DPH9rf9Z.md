@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-260 songs - 12 hr 41 min
+261 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Trippin](https://open.spotify.com/track/27ekQRCAsBNinImk4GE7Hl) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM) | [Trippin](https://open.spotify.com/album/42yJ828gmop6RvNRbBCab0) | 3:06 | 2025-07-04 | 2026-07-24 |
 | [Tsunami \- Original Mix](https://open.spotify.com/track/3felG0BIvmmOoCIeE2A5vq) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [Tsunami \(Original Mix\)](https://open.spotify.com/album/11bkt0bAaSycDHNd4OYH3R) | 3:56 | 2025-07-04 |  |
 | [Turn It Up](https://open.spotify.com/track/68SvGw2QuLY9eZ3pN07DDp) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Turn It Up](https://open.spotify.com/album/5mQaSzlFbbTR1XgxBuJJJL) | 2:49 | 2025-07-04 | 2025-09-06 |
+| [Turn Up The Bass](https://open.spotify.com/track/2QL5BIL8ngij9hgLjppSYW) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Turn Up The Bass](https://open.spotify.com/album/7CJm3F9qU26oPl30iRx81L) | 2:27 | 2026-08-08 |  |
 | [Turn Up The Volume](https://open.spotify.com/track/6eA17OjmhaKOaLsSdkzQxk) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Gaz Meeko](https://open.spotify.com/artist/6kkKiBUNMmJk9NnsSKMuE6) | [Turn Up The Volume](https://open.spotify.com/album/0fqsIXjekfrVEPggWdgvFg) | 2:30 | 2026-02-05 |  |
 | [Unobsidian](https://open.spotify.com/track/7hK5LzrcxkYFDrrWTL2La3) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Kx5](https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg) | 6:11 | 2025-07-04 |  |
 | [Unstoppable](https://open.spotify.com/track/1mbxcxfklTT0S2r4xcOKgH) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Unstoppable](https://open.spotify.com/album/2c2tM8qDfR7ELliJ4hatPa) | 3:05 | 2026-07-31 |  |

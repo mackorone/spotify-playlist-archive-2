@@ -996,7 +996,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 128026,
       "name": "CURRY SLIDE",
       "url": "https://open.spotify.com/track/3fwvaufxWAwdqCtiHlejPM"
@@ -1796,6 +1796,24 @@
       "duration_ms": 103528,
       "name": "Get Him (feat. Psleaze00)",
       "url": "https://open.spotify.com/track/0ovql0MVGcLDutI2vaguq1"
+    },
+    {
+      "album": {
+        "name": "Self Stylist",
+        "url": "https://open.spotify.com/album/3a1Ao3nMVlLb5leLAfiPxx"
+      },
+      "artists": [
+        {
+          "name": "LOOK KILLA",
+          "url": "https://open.spotify.com/artist/4VJIWtFR6cPbxNSWEgkqxf"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178906,
+      "name": "GHOST",
+      "url": "https://open.spotify.com/track/4ewa3IkNWrv1XG9qIWwIvt"
     },
     {
       "album": {
@@ -3188,7 +3206,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 160052,
       "name": "Mon\u00eby so big",
       "url": "https://open.spotify.com/track/4Se3fXoHJkcraQzJXo2IYn"
@@ -4451,6 +4469,24 @@
     },
     {
       "album": {
+        "name": "Grails",
+        "url": "https://open.spotify.com/album/1f6GQhQ22QLR08bdAFBGto"
+      },
+      "artists": [
+        {
+          "name": "Lohily",
+          "url": "https://open.spotify.com/artist/6vO2KGZh1rvFhv8qa3DDdx"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216973,
+      "name": "Smith & Wesson",
+      "url": "https://open.spotify.com/track/5zb7hZVZyhLhKEq3coGmPx"
+    },
+    {
+      "album": {
         "name": "snakes",
         "url": "https://open.spotify.com/album/3mOmWWY41mroTCYiDbanPp"
       },
@@ -5540,7 +5576,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 143112,
       "name": "Which 1 / Klueless",
       "url": "https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq"
@@ -5710,7 +5746,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 138814,
       "name": "Ya Ya",
       "url": "https://open.spotify.com/track/1zX4htZC4Xj60xoCM9RlX0"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7P7lv6O2Jhp.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Scott Evans
 
-[Spotify](https://open.spotify.com/user/spotify) - 470 likes - 47 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 491 likes - 47 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

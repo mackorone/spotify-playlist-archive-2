@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from KAROL G, Ravyn Lenae, ROLE MODEL,  Pooh Shiesty and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,613,134 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,613,501 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 59 | [Hollywood Sign](https://open.spotify.com/track/4VEDiZ3uZ4mnGHiJ0oYi1k) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Hollywood Sign](https://open.spotify.com/album/3HwKCIvbJEv5F2OyF0dxHF) | 4:01 |
 | 60 | [Sunset Marquis](https://open.spotify.com/track/5PWgbO4uM1p0QGiIF0F6O3) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Sunset Marquis](https://open.spotify.com/album/1Yt6FuJk4P5bR3PmqClGcb) | 3:29 |
 | 61 | [Madness](https://open.spotify.com/track/2mwam3Np6drIyCModkUGET) | [Ceremony](https://open.spotify.com/artist/5n3811iYeaFM01gSJMQuRH) | [Tell Me Your Dream](https://open.spotify.com/album/1kTGPhQpZfXDaqKMorgpn7) | 3:11 |
-| 62 | [Got You](https://open.spotify.com/track/6gBV04aaYCPgTYyzCWL4XO) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [Got You](https://open.spotify.com/album/5JTDmoExrvACCEeP1me28m) | 3:30 |
+| 62 | [GOT YOU](https://open.spotify.com/track/6gBV04aaYCPgTYyzCWL4XO) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [GOT YOU](https://open.spotify.com/album/5JTDmoExrvACCEeP1me28m) | 3:30 |
 | 63 | [UNSPOKEN](https://open.spotify.com/track/3iqbrX8xXlBI7nV3xPVsF8) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [UNSPOKEN](https://open.spotify.com/album/6pVedvicWUkoO0Fmk5zqpC) | 2:33 |
 | 64 | [Lifeline](https://open.spotify.com/track/5ZlWVb9NKKqsM1OgwWdVuB) | [Carly Ann Taylor](https://open.spotify.com/artist/6luRRfyc4vswfvPuCm9jg4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Lifeline](https://open.spotify.com/album/0O58WT2gmjZS7xpuX5nWPA) | 3:33 |
 | 65 | [Sun and Moon](https://open.spotify.com/track/2fFRrdy3GqiHtQZTratRhe) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Sun and Moon](https://open.spotify.com/album/6ITj3yKsmfFQXCk3Z1p3Wb) | 2:31 |

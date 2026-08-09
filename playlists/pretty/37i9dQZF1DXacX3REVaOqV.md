@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacX3REVaOqV.md) - [plain]
 
 > The best in house music
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,549 likes - 108 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,575 likes - 108 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacX3REVaOqV.md) - [plain]
 | 107 | [Mountain](https://open.spotify.com/track/6LxIy9MYS2C76HcXph8zFq) | [Lucky](https://open.spotify.com/artist/1FQPIdgxuXaEIYuCbWjTcF), [Thierry Ganz](https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV) | [Mountain](https://open.spotify.com/album/4vGmdK64DMH2W3LgCexMOF) | 3:32 |
 | 108 | [Tu Es Tout](https://open.spotify.com/track/34OVYem9gbZQwKFdOC6Hxs) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Tu Es Tout](https://open.spotify.com/album/4sM2As0l2xCulpfdU1n0xo) | 3:01 |
 
-Snapshot ID: `AAAAAGB9ifp3VaKwk1I836PXP7t3B2KY`
+Snapshot ID: `AAAAAJiMw7+80BSO+tU9vLUdqbneV0Pg`

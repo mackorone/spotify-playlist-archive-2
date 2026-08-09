@@ -232,7 +232,7 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 155702,
       "name": "As Ruas Sabem",
       "url": "https://open.spotify.com/track/76Xgs4hU5z7cTxknWRnQcP"
@@ -1984,7 +1984,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 119172,
       "name": "Jersey Culture BR",
       "url": "https://open.spotify.com/track/3FhjtSYUo9lOCXnCH1W96h"
@@ -2718,7 +2718,7 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 167463,
       "name": "N\u00edvel Profissional",
       "url": "https://open.spotify.com/track/58c4sw9sv6XfeQixMeLWAb"
@@ -2770,6 +2770,48 @@
       "duration_ms": 185142,
       "name": "N\u00f3is \u00e9 o Trem - Brunoso Remix",
       "url": "https://open.spotify.com/track/4tuHuPFGkFf8axtJvoU1ez"
+    },
+    {
+      "album": {
+        "name": "Camping das Minas 2.0",
+        "url": "https://open.spotify.com/album/3N4FpTwywyESRY3gs2HNHe"
+      },
+      "artists": [
+        {
+          "name": "Xaolin Records",
+          "url": "https://open.spotify.com/artist/3zvHDYmK5iKPtylVWnWxsm"
+        },
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Beatriz Denaro",
+          "url": "https://open.spotify.com/artist/08dLjh5rmk0p3o562zICJ6"
+        },
+        {
+          "name": "Luana Maia",
+          "url": "https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6"
+        },
+        {
+          "name": "Jovem MK",
+          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
+        },
+        {
+          "name": "MC KTRINE",
+          "url": "https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283"
+        },
+        {
+          "name": "Madre Beatz",
+          "url": "https://open.spotify.com/artist/4GU1CeOF51IJbREWohSNBj"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250299,
+      "name": "N\u00f3s J\u00e1 Sabemos",
+      "url": "https://open.spotify.com/track/4Au1FgvdKfBGnKeYclu5FY"
     },
     {
       "album": {

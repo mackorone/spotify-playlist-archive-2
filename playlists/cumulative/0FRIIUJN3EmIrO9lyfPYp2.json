@@ -1311,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "as before",
+        "url": "https://open.spotify.com/album/2xqMqxe6WgI5s80oLLImbs"
+      },
+      "artists": [
+        {
+          "name": "METAHESH",
+          "url": "https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105580,
+      "name": "as before",
+      "url": "https://open.spotify.com/track/5ZtW1pAPHXUEkZm90W7ZO4"
+    },
+    {
+      "album": {
         "name": "as days go by",
         "url": "https://open.spotify.com/album/3atfeqQOGmFXZFo4KAcpSd"
       },
@@ -1754,6 +1772,24 @@
       "duration_ms": 91515,
       "name": "be breaking a butterfly on a wheel",
       "url": "https://open.spotify.com/track/407MKypcWpFMtXEKAGsJ6y"
+    },
+    {
+      "album": {
+        "name": "Bear / Love is in the Air, Pt. 1 (Ambient Versions)",
+        "url": "https://open.spotify.com/album/6GqMAWjOKI9VoVpZTlKSYY"
+      },
+      "artists": [
+        {
+          "name": "alixe.",
+          "url": "https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119400,
+      "name": "Bear (Ambient Version)",
+      "url": "https://open.spotify.com/track/11IdX7qrTA1LzdvhfLA9OS"
     },
     {
       "album": {
@@ -6089,6 +6125,24 @@
     },
     {
       "album": {
+        "name": "feather of birds",
+        "url": "https://open.spotify.com/album/2WUTph7nUd7FNQTns5ct60"
+      },
+      "artists": [
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92727,
+      "name": "feather of birds",
+      "url": "https://open.spotify.com/track/6lROmJNV0CTYQ11ELQ6m7L"
+    },
+    {
+      "album": {
         "name": "feel gone",
         "url": "https://open.spotify.com/album/4Y9veydjIsZCnKJOTHPwRw"
       },
@@ -6878,6 +6932,24 @@
       "duration_ms": 111826,
       "name": "ghost hunters adventure club",
       "url": "https://open.spotify.com/track/4SlL7zuiqIbcYAfgrZcQtc"
+    },
+    {
+      "album": {
+        "name": "ghostlight",
+        "url": "https://open.spotify.com/album/4BQ2Dupf1CEizRxwtbMH00"
+      },
+      "artists": [
+        {
+          "name": "ID10",
+          "url": "https://open.spotify.com/artist/6AZ1XtXdaFlXxadYdUijtX"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105600,
+      "name": "ghostlight",
+      "url": "https://open.spotify.com/track/0txYMsbtqFj2Nc5OmsCDTb"
     },
     {
       "album": {
@@ -8570,6 +8642,24 @@
       "duration_ms": 88631,
       "name": "i want my life back",
       "url": "https://open.spotify.com/track/4pBOr5SouVTv5ENS0Ya05G"
+    },
+    {
+      "album": {
+        "name": "i want to start over",
+        "url": "https://open.spotify.com/album/4fZ9csJPVNlzMYHsZSyeBi"
+      },
+      "artists": [
+        {
+          "name": "mzzz",
+          "url": "https://open.spotify.com/artist/6MP8apwI0LmBEG5tmh8hyI"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105895,
+      "name": "i want to start over",
+      "url": "https://open.spotify.com/track/0sMdpDmLy3GqZ8cYPWLdJy"
     },
     {
       "album": {
@@ -10644,6 +10734,24 @@
       "duration_ms": 105714,
       "name": "lotus",
       "url": "https://open.spotify.com/track/4l2zSRsQzFL6WzXVLR5OZu"
+    },
+    {
+      "album": {
+        "name": "Bear / Love is in the Air, Pt. 1 (Ambient Versions)",
+        "url": "https://open.spotify.com/album/6GqMAWjOKI9VoVpZTlKSYY"
+      },
+      "artists": [
+        {
+          "name": "alixe.",
+          "url": "https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111579,
+      "name": "Love is in the Air, Pt. 1 (Ambient Version)",
+      "url": "https://open.spotify.com/track/1aT81LH0y23c9VOv57KuWM"
     },
     {
       "album": {
@@ -14299,6 +14407,28 @@
     },
     {
       "album": {
+        "name": "she won't leave my mind",
+        "url": "https://open.spotify.com/album/7LLGns1pcizYd3dpqSgrtU"
+      },
+      "artists": [
+        {
+          "name": "empty street",
+          "url": "https://open.spotify.com/artist/7ELpHgqHZTRYMlIt1vm89X"
+        },
+        {
+          "name": "alixe.",
+          "url": "https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "she won't leave my mind",
+      "url": "https://open.spotify.com/track/41GqpFejD8Xudm7lmeqOBH"
+    },
+    {
+      "album": {
         "name": "she's gone",
         "url": "https://open.spotify.com/album/0rQxRoo32gJ2v9NU8So2R8"
       },
@@ -17439,6 +17569,28 @@
     },
     {
       "album": {
+        "name": "watchtower",
+        "url": "https://open.spotify.com/album/2qy8Cm6B2brU0jsfRZqSrR"
+      },
+      "artists": [
+        {
+          "name": "arancina",
+          "url": "https://open.spotify.com/artist/5YdVyeU1XSouFk8VBSfLAO"
+        },
+        {
+          "name": "sombrum",
+          "url": "https://open.spotify.com/artist/7wRLYqMe86wYOuLoRwoRlO"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113446,
+      "name": "watchtower",
+      "url": "https://open.spotify.com/track/6AjP0VIbxDCi8Vq2XczJek"
+    },
+    {
+      "album": {
         "name": "wavelight",
         "url": "https://open.spotify.com/album/5rtfmhl1cxhy604aiahZbK"
       },
@@ -18268,6 +18420,24 @@
       "duration_ms": 134665,
       "name": "wish you would care",
       "url": "https://open.spotify.com/track/7ryGb06g9ttkbTAtz3YAGW"
+    },
+    {
+      "album": {
+        "name": "wishes",
+        "url": "https://open.spotify.com/album/5S6YmjCN58M9etIImqyAlu"
+      },
+      "artists": [
+        {
+          "name": "Bluegaze",
+          "url": "https://open.spotify.com/artist/01pwFek4TL5JjzczP9lriM"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106751,
+      "name": "wishes",
+      "url": "https://open.spotify.com/track/44eYgaIjLxdPWc47OS5pPH"
     },
     {
       "album": {

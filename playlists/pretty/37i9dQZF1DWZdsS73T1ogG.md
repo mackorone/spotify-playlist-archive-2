@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: FANTA ROSARIO, Jon Z, Hades66, Ñengo Flow, Luar La L
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,188 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,213 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 19 | [Millon Freestyle](https://open.spotify.com/track/6EHfLvGE2osEmEbdOOJlBT) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [Millon Freestyle](https://open.spotify.com/album/4xVsVTOU6CxrB7jKLUs5uc) | 2:06 |
 | 20 | [Cuando Llegaste](https://open.spotify.com/track/4WdSCcPxKXoXwKTqi25WF6) | [Young Fatty](https://open.spotify.com/artist/2v2UIkZpgupzvSNS9wicgV) | [Cuando Llegaste](https://open.spotify.com/album/0QhHF32Hqwj6Dp5R3TWaqt) | 2:54 |
 | 21 | [MILLONETA](https://open.spotify.com/track/2DNN1f2MOdTYWY1GnST9kr) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Raven la R](https://open.spotify.com/artist/0CfmWLXx6Ttp9rNUggslVq) | [MILLONETA](https://open.spotify.com/album/24GhQrJxVWIbnRNLCrvdLx) | 2:40 |
-| 22 | [terminamos & REpito](https://open.spotify.com/track/4X0FNn5bCV4RpdMHSL8Hca) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [terminamos & REpito](https://open.spotify.com/album/2MP5aQclaSdr3LFZrNlaCn) | 3:27 |
+| 22 | [terminamos & REpito \(feat\. Jay Wheeler\)](https://open.spotify.com/track/4X0FNn5bCV4RpdMHSL8Hca) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [terminamos & REpito \(feat\. Jay Wheeler\)](https://open.spotify.com/album/2MP5aQclaSdr3LFZrNlaCn) | 3:27 |
 | 23 | [Edén](https://open.spotify.com/track/61fgZURTNzheJ0Z3gp96TC) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Edén](https://open.spotify.com/album/2tTQvPUdft4dmPxBWy8Fa7) | 2:51 |
 | 24 | [No Se Olvida](https://open.spotify.com/track/5coMeY1kngonsppyyPhxu9) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [No Se Olvida](https://open.spotify.com/album/7yWWNKkBJ2WPt3c9GDP1Yz) | 2:38 |
 | 25 | [SINALOKA](https://open.spotify.com/track/23meQ8JXeFHiInKkO1jyV2) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [SINALOKA](https://open.spotify.com/album/0HrSq9bMMXc79CizTD1k6A) | 2:36 |

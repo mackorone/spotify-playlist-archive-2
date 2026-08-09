@@ -1451,6 +1451,28 @@
     },
     {
       "album": {
+        "name": "MAX OUT",
+        "url": "https://open.spotify.com/album/4RHWCqUVZOGnbhYie712hF"
+      },
+      "artists": [
+        {
+          "name": "dummy co.",
+          "url": "https://open.spotify.com/artist/6r4qoWqXf8eQXCPHawb3RF"
+        },
+        {
+          "name": "Kool Karlo",
+          "url": "https://open.spotify.com/artist/3dHzT8qGSboKwYhi7SMQUb"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192413,
+      "name": "MAX OUT",
+      "url": "https://open.spotify.com/track/5pDkBCb5021OJNNTmtLfOV"
+    },
+    {
+      "album": {
         "name": "MEDUSA",
         "url": "https://open.spotify.com/album/5MWi0gKJigS1MbLRsAegES"
       },

@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-250 songs - 14 hr 48 min
+251 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Don't Cry \(feat\. Benerl\)](https://open.spotify.com/track/4gSNoczwZgkB0Wz6xxjaoT) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Benerl](https://open.spotify.com/artist/6FpN7gwehZgxVAgVHUMh1L) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:52 | 2021-12-30 | 2022-08-17 |
 | [Down on One \(feat\. Fuse Odg\)](https://open.spotify.com/track/3elGAya8lU9d2dC1J4QYuh) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 3:47 | 2021-12-28 | 2022-10-13 |
 | [Dw3](https://open.spotify.com/track/4ISf9ZEUJyhcTBC4C8NP6l) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [KRYMI](https://open.spotify.com/artist/34wXzU4pMFOuQejyLtMWjO), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Dw3](https://open.spotify.com/album/4taXdW8VaokKg5ycpjgLl6) | 3:33 | 2022-09-11 | 2024-01-25 |
+| [E No Easy](https://open.spotify.com/track/0AxUoDxP0qtepOj4Fh227x) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [E No Easy](https://open.spotify.com/album/2TPQ4alxvgfyHnKlZ3723j) | 3:10 | 2026-08-09 |  |
 | [Edwom Te S3n](https://open.spotify.com/track/55gLrEzwxy9dNfospB2qQ1) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Mary](https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo) | 3:35 | 2022-02-28 | 2022-08-24 |
 | [Efya\-Am In Luv With U\(prod\. By Killbeatz\) \(feat\. Efya\)](https://open.spotify.com/track/0pE5QY5MzbQZ4LxrBBnOny) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 5:45 | 2021-12-31 | 2022-10-13 |
 | [Elijah \(feat\. Obrafour\)](https://open.spotify.com/track/5A5TegAvaWSqOgC7GJUS0u) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 5:16 | 2022-09-02 | 2022-09-04 |
@@ -147,7 +148,7 @@
 | [Lucky](https://open.spotify.com/track/2ChuNrtRECfBmGlW34Bq0Q) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Rudeboy](https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT) | [Black Love](https://open.spotify.com/album/4hPzCGUS1pXGK533LHm0gN) | 4:27 | 2026-01-27 |  |
 | [Lucky \(feat\. Rudeboy\)](https://open.spotify.com/track/466oku5g8KzlaYGMGluENO) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Rudeboy](https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT) | [Black Love](https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s) | 4:27 | 2025-04-13 | 2026-01-25 |
 | [Lucky \(feat\. Rudeboy\)](https://open.spotify.com/track/6GT0hsZ50fyAHHdknAd314) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Rudeboy](https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 4:27 | 2021-12-28 | 2025-04-10 |
-| [M3Gye Wo Girl](https://open.spotify.com/track/1GrasNMqiO24le1C5KTeKN) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [M3Gye Wo Girl](https://open.spotify.com/album/0Hj7mjkuVK8u6Lf4sGrV4t) | 3:26 | 2025-11-16 |  |
+| [M3Gye Wo Girl](https://open.spotify.com/track/1GrasNMqiO24le1C5KTeKN) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [M3Gye Wo Girl](https://open.spotify.com/album/0Hj7mjkuVK8u6Lf4sGrV4t) | 3:26 | 2025-11-16 | 2026-08-09 |
 | [M3gye Wo Girl \(feat\. Shatta Wale\)](https://open.spotify.com/track/3niXSFCV15azk4ziV8woxH) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [M3gye Wo Girl \(feat\. Shatta Wale\)](https://open.spotify.com/album/4MaseQ5e2j7Au8NaYrtyd4) | 3:31 | 2021-12-28 | 2025-11-16 |
 | [Major League](https://open.spotify.com/track/4uzf6Vyc2b9UHVcGOkR38J) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Major League](https://open.spotify.com/album/48GHXPVO558BxtRQ97swGy) | 2:57 | 2026-07-12 |  |
 | [Makoma](https://open.spotify.com/track/4Tmh5bkwWsz0oJpkSaOOm8) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ) | [Makoma](https://open.spotify.com/album/5g6ob8kQyPRGIr0g9UQRlm) | 3:16 | 2025-09-04 | 2025-09-05 |

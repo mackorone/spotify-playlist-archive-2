@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: DAY6(\ub370\uc774\uc2dd\uc2a4))",
-  "num_followers": 152220,
+  "num_followers": 152199,
   "original_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        }
+      ],
+      "duration_ms": 269012,
+      "name": "Save Our Christmas",
+      "url": "https://open.spotify.com/track/7aHBGcIkKffL8JGz5czTeA"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
         "name": "My Winter Trip",
         "url": "https://open.spotify.com/album/4VVH0BD7z9Cs4iORPbZ2Ci"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 165493,
       "name": "Christmas Gift (feat. Ashley Alisha & Sonny Zero)",
       "url": "https://open.spotify.com/track/3c1Dp25RwHWmTuqx5jHMW4"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
-      },
-      "artists": [
-        {
-          "name": "John Park",
-          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
-        }
-      ],
-      "duration_ms": 269012,
-      "name": "Save Our Christmas",
-      "url": "https://open.spotify.com/track/7aHBGcIkKffL8JGz5czTeA"
     },
     {
       "added_at": "2026-01-20 05:01:24",

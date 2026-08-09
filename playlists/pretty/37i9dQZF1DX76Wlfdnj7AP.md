@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76Wlfdnj7AP.md) - [plain]
 
 > Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,060,207 likes - 150 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,060,195 likes - 150 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76Wlfdnj7AP.md) - [plain]
 | 149 | [Sunshine \(My Girl\)](https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Sunshine \(My Girl\)](https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As) | 2:11 |
 | 150 | [Eu Sento Gabu!](https://open.spotify.com/track/24WBge8e53iDTeXOtVB02s) | [PXLWYSE](https://open.spotify.com/artist/6OwbqUSj4XbZdjexPsKkdH) | [Eu Sento Gabu!](https://open.spotify.com/album/51F5iHYpECc8dd9Wjqv15o) | 1:23 |
 
-Snapshot ID: `AAAAAIkg9RNyTrEumBvB+WNIPAFLLmS7`
+Snapshot ID: `AAAAAH8la+bSaAELU9BtT9NzBH6Pnh85`

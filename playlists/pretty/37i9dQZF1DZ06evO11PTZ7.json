@@ -1,12 +1,12 @@
 {
   "description": "This is Sick Of It All. The essential tracks, all in one playlist.",
-  "num_followers": 8106,
+  "num_followers": 8109,
   "original_name": "This Is Sick Of It All",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAAAbQRnl/asNdUXe7MIRyaXJ",
+  "snapshot_id": "anUgAAAAAADWZqj9ymiuOk6Wt8kD1mqO",
   "tracks": [
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call to Arms",
-        "url": "https://open.spotify.com/album/5W2cHsMZjPa6iYtfIUvntU"
-      },
-      "artists": [
-        {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
-        }
-      ],
-      "duration_ms": 108200,
-      "name": "Call to Arms",
-      "url": "https://open.spotify.com/track/5VeaXLqDmSM1WcmVLBBn6M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blood, Sweat & No Tears",
         "url": "https://open.spotify.com/album/4toIJJY78eKd9ZLw267mN0"
       },
@@ -363,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Call to Arms",
+        "url": "https://open.spotify.com/album/5W2cHsMZjPa6iYtfIUvntU"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "duration_ms": 108200,
+      "name": "Call to Arms",
+      "url": "https://open.spotify.com/track/5VeaXLqDmSM1WcmVLBBn6M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Scratch the Surface",
         "url": "https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc"
       },
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 144293,
-      "name": "Maladjusted",
-      "url": "https://open.spotify.com/track/1pALvpCp59kO9qPJPMm2jD"
+      "duration_ms": 178266,
+      "name": "No Cure",
+      "url": "https://open.spotify.com/track/5s2Z5o4780r1nFQ9gmpfhF"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 178266,
-      "name": "No Cure",
-      "url": "https://open.spotify.com/track/5s2Z5o4780r1nFQ9gmpfhF"
+      "duration_ms": 144293,
+      "name": "Maladjusted",
+      "url": "https://open.spotify.com/track/1pALvpCp59kO9qPJPMm2jD"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Based On A True Story",
-        "url": "https://open.spotify.com/album/0j5btQuKiIItbfTJ7ZECy3"
+        "name": "Blood, Sweat & No Tears",
+        "url": "https://open.spotify.com/album/4toIJJY78eKd9ZLw267mN0"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 171200,
-      "name": "Death Or Jail",
-      "url": "https://open.spotify.com/track/1UKnxebB3vbl2amZs3Y4vv"
+      "duration_ms": 108266,
+      "name": "Clobberin' Time / Pay the Price",
+      "url": "https://open.spotify.com/track/6pcjL64MiDoF6HSvWyigDt"
     },
     {
       "added_at": null,
@@ -564,15 +564,15 @@
           "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 58093,
-      "name": "Self Important Shithead",
-      "url": "https://open.spotify.com/track/3ULS41Bx8vkzKz1lbB69jJ"
+      "duration_ms": 114240,
+      "name": "Inner Vision",
+      "url": "https://open.spotify.com/track/1TsHbUg7QB71VUx8hbyg79"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Blood, Sweat & No Tears",
-        "url": "https://open.spotify.com/album/4toIJJY78eKd9ZLw267mN0"
+        "name": "Based On A True Story",
+        "url": "https://open.spotify.com/album/0j5btQuKiIItbfTJ7ZECy3"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 108266,
-      "name": "Clobberin' Time / Pay the Price",
-      "url": "https://open.spotify.com/track/6pcjL64MiDoF6HSvWyigDt"
+      "duration_ms": 171200,
+      "name": "Death Or Jail",
+      "url": "https://open.spotify.com/track/1UKnxebB3vbl2amZs3Y4vv"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 114240,
-      "name": "Inner Vision",
-      "url": "https://open.spotify.com/track/1TsHbUg7QB71VUx8hbyg79"
+      "duration_ms": 58093,
+      "name": "Self Important Shithead",
+      "url": "https://open.spotify.com/track/3ULS41Bx8vkzKz1lbB69jJ"
     },
     {
       "added_at": null,

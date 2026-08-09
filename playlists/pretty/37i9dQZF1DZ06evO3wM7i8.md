@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM7i8.md) - [plain]
 
 > This is Django Reinhardt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,645 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,653 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Out of Nowhere](https://open.spotify.com/track/6OZ210lsvCsoIqjBZcGYvm) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [All Star Sessions](https://open.spotify.com/album/1xUtY0bgOkiu3CS96r6pi3) | 3:20 |
 | 2 | [Brazil](https://open.spotify.com/track/1j3dgBGVjeVe20ch5VXVEK) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179) | 2:48 |
-| 3 | [I'll See You in My Dreams](https://open.spotify.com/track/52yEkn1b6BiOZad3x7x6PP) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol9 / 1939 \- 1940](https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun) | 2:33 |
-| 4 | [Minor Swing](https://open.spotify.com/track/0NDjQezJaEC1KX9TfwEfzf) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [Djangologie Vol6 / 1937](https://open.spotify.com/album/2l8CUbWOm6tJHb7bzr5XPf) | 3:16 |
+| 3 | [Minor Swing](https://open.spotify.com/track/0NDjQezJaEC1KX9TfwEfzf) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [Djangologie Vol6 / 1937](https://open.spotify.com/album/2l8CUbWOm6tJHb7bzr5XPf) | 3:16 |
+| 4 | [I'll See You in My Dreams](https://open.spotify.com/track/52yEkn1b6BiOZad3x7x6PP) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol9 / 1939 \- 1940](https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun) | 2:33 |
 | 5 | [Django's Tiger](https://open.spotify.com/track/7D0Vzk7rZ6ncTFZj3AqT84) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol15 / 1946 \- 1947](https://open.spotify.com/album/1sUg8G0j9lPHSQExj5Q797) | 2:38 |
 | 6 | [Honeysuckle Rose](https://open.spotify.com/track/10Hiskp06jZeXKjiYbkuj7) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32), [Hawkins C\. All Star Jam Band](https://open.spotify.com/artist/5X1Mxd7SrBRbdsT9i1AxN4) | [Djangologie Vol.4 / 1937](https://open.spotify.com/album/46Ffy1LBhLRzUAz53jMIVI) | 2:46 |
 | 7 | [Beyond The Sea \(La Mer\)](https://open.spotify.com/track/1iqYqVkzPJAQ6Kgc0Kn2I5) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangology 49](https://open.spotify.com/album/7JHX9w5tOLvxZQDqXIaBlq) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM7i8.md) - [plain]
 | 49 | [Georgia on My Mind](https://open.spotify.com/track/6U2wGOpg002zQ57gXoIy0S) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Freddie Taylor](https://open.spotify.com/artist/4R98XdySyxwAaEcpkkFO5j), [Stephan Grapelly](https://open.spotify.com/artist/4bNXDGfNR9bMJWOfLJZZtv), [Hot Club de France Quintet](https://open.spotify.com/artist/4eFuQsZBH24bpZruMJ2ZPj) | [European Swing Giants, Vol.9: Django Reinhardt, Vol\. 2,The HMV / Electrola Sessions \(Recorded 1936\-1937 in Paris\) and Django in Brussels \(The RhythmeSessions Part 2, Recorded 1942\)](https://open.spotify.com/album/3OnFWYSM6NqlAVjEt6QZVP) | 3:12 |
 | 50 | [The Sheik of Araby](https://open.spotify.com/track/6RKY7AM4QBgUM8KTVm6wXl) | [Ted Snyder](https://open.spotify.com/artist/3EHU46gc1iN9wYecT3uFRs), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Hot Club de France Quintet](https://open.spotify.com/artist/4eFuQsZBH24bpZruMJ2ZPj) | [Reinhardt, Django: Swingin' With Django \(1937\)](https://open.spotify.com/album/0bpNyv4X1eyYKRSnbtkpX3) | 3:08 |
 
-Snapshot ID: `anPOgAAAAADS0Y9Q9+xeLxWigmuJNR8M`
+Snapshot ID: `anUgAAAAAADpeJpQLuSSxSekgP7Ghia+`

@@ -4,11 +4,12 @@
 
 > This is Young Thug\. The essential tracks, all in one playlist.
 
-138 songs - 7 hr 58 min
+139 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 Miles](https://open.spotify.com/track/0mML7BvfV5Gnfd65OdVtJB) | [Alek Sandar](https://open.spotify.com/artist/7iKaa1hqYHYwiD5Zqasb7p), [Marco Nobel](https://open.spotify.com/artist/5PZS7XY3NZHDnI6g3wGyAB), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [1000 Miles](https://open.spotify.com/album/6lXpFK3dOV7kS8F4YUBmBt) | 2:48 | 2024-03-10 | 2024-03-30 |
+| [About the Money](https://open.spotify.com/track/37uaJAJDAYRsJyrgz4jZ72) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Paperwork \(Deluxe Explicit\)](https://open.spotify.com/album/6NJT4jSQtCoVAFhTmskP0h) | 5:02 | 2026-08-09 |  |
 | [Again \(feat\. Gucci Mane\)](https://open.spotify.com/track/59arK2KUTpNWYavlhY8EpL) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Slime Season](https://open.spotify.com/album/3KSeRpEslZsZGRnJHe5nXt) | 2:57 | 2025-01-12 | 2025-01-13 |
 | [Ashin' the Blunt \(with Young Thug\)](https://open.spotify.com/track/5adWDt4mPuryG0IoC1ZKu1) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Ashin' the Blunt \(with Young Thug\)](https://open.spotify.com/album/4y46BTmwP9S67I2GgecbEL) | 3:48 | 2026-05-16 | 2026-07-14 |
 | [Bad Bad Bad \(feat\. Lil Baby\)](https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 2:29 | 2023-06-07 |  |
@@ -80,7 +81,7 @@
 | [Millions](https://open.spotify.com/track/43YQDj1KOPMFAUcTEPKy4p) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [So Much Fun \(Deluxe\)](https://open.spotify.com/album/24jAbLMFzCTlIv3kQ94HwK) | 2:37 | 2025-06-17 | 2025-09-28 |
 | [Miss My Dogs](https://open.spotify.com/track/7hJXix8JyfDuQ2wqvsvjWs) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Miss My Dogs](https://open.spotify.com/album/4gg4WF1614e90qTq8sDMFD) | 7:02 | 2025-09-19 | 2025-11-22 |
 | [Money \(feat\. Juice WRLD & Nicki Minaj\)](https://open.spotify.com/track/6bFsZCWWJaCyE9uly2NhAH) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [BUSINESS IS BUSINESS \(Metro's Version\)](https://open.spotify.com/album/0z2a9VgdVmkr0DInVJUgu6) | 4:26 | 2023-06-28 | 2023-11-11 |
-| [Money On Money \(feat\. Future\)](https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Money On Money \(feat\. Future\)](https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO) | 3:56 | 2025-04-27 |  |
+| [Money On Money \(feat\. Future\)](https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Money On Money \(feat\. Future\)](https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO) | 3:56 | 2025-04-27 | 2026-08-09 |
 | [Money On The Dresser](https://open.spotify.com/track/0k88aN0xmk8Xn1zdnyTiPG) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 2:13 | 2023-06-24 | 2023-06-26 |
 | [My wrist \(with Young Thug\)](https://open.spotify.com/track/2beD5W9IkefQ04IO39XF7w) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [My wrist \(with Young Thug\)](https://open.spotify.com/album/05zSfoTPUX9IFb4AYbBaBz) | 3:10 | 2023-06-07 | 2026-01-15 |
 | [Never Hating \(feat\. Young Thug\)](https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:40 | 2023-06-07 |  |

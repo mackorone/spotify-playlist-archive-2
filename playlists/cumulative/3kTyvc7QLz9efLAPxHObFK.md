@@ -4,7 +4,7 @@
 
 > 
 
-3,176 songs - 6 day 19 hr 30 min
+3,177 songs - 6 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1357,6 +1357,7 @@
 | [HYPNOTISED](https://open.spotify.com/track/3myc4hzNkPXqEkEo1rWHMm) | [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b), [Carola](https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp) | [HYPNOTISED](https://open.spotify.com/album/4q5xJnNx7uTlYM6TdawDRA) | 2:34 | 2024-11-27 |  |
 | [Hypnotize](https://open.spotify.com/track/5HYZotlXy7fN0Pey2ORkww) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Hypnotize](https://open.spotify.com/album/3PZJPUfgs3H0Z2j6jp1XQR) | 2:17 | 2024-10-19 |  |
 | [Hypnotized](https://open.spotify.com/track/0ii30NXqG1tIG2YBdzYS0C) | [D.O.N](https://open.spotify.com/artist/42c4pJO8Opk39FSraBPUDC) | [Hypnotized](https://open.spotify.com/album/4hJoO1T2TBDdccEsp3Wdxw) | 2:41 | 2025-08-13 |  |
+| [I AM A GABBER](https://open.spotify.com/track/7cyPMhZD30tupPQzIJmcdI) | [El Desperado](https://open.spotify.com/artist/2ajGq9BEnKOi6B5wTZ7uWn) | [BLACK & RED](https://open.spotify.com/album/1YjLCRKKmpquuNK3qpYw81) | 2:40 | 2026-08-08 |  |
 | [I CAN TAKE YOU THERE](https://open.spotify.com/track/4uYkxNpJGBcNr5jc4SEw6x) | [OKVH](https://open.spotify.com/artist/2KlhZOYTfG8pidklQFSSRQ) | [I CAN TAKE YOU THERE](https://open.spotify.com/album/4BnE4qdmD1Z9Dx2a7COyUj) | 1:34 | 2024-10-20 |  |
 | [I Can't Believe It](https://open.spotify.com/track/2DResotZIBdRApCGHVt9rx) | [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [ICONS](https://open.spotify.com/album/238RrEHfu6nESSaOgw46xc) | 3:24 | 2023-04-16 |  |
 | [I Can't Call You Mine](https://open.spotify.com/track/1j7GJmfnxV8MNeml1hGrfn) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [I Can't Call You Mine](https://open.spotify.com/album/2zhDAlLGThfPeNfSvc0ZTg) | 2:58 | 2024-04-01 |  |

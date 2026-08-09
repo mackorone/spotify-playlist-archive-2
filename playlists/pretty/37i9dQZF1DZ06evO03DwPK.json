@@ -1,12 +1,12 @@
 {
   "description": "This is Bruno Mars. The essential tracks, all in one playlist.",
-  "num_followers": 4324260,
+  "num_followers": 4324673,
   "original_name": "This Is Bruno Mars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAACc2rMnPzMJ3XXlSz6KmXqH",
+  "snapshot_id": "anUgAAAAAAA3bXHFDdALXTzb4pX8j67g",
   "tracks": [
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
         }
       ],
-      "duration_ms": 219389,
-      "name": "Fly As Me",
-      "url": "https://open.spotify.com/track/3a6FcTyvSf0ED3VXeH3PJ5"
+      "duration_ms": 307014,
+      "name": "Love's Train",
+      "url": "https://open.spotify.com/track/2JUQ7mV1AHk2owXLydmN4Z"
     },
     {
       "added_at": null,
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
         }
       ],
-      "duration_ms": 307014,
-      "name": "Love's Train",
-      "url": "https://open.spotify.com/track/2JUQ7mV1AHk2owXLydmN4Z"
+      "duration_ms": 219389,
+      "name": "Fly As Me",
+      "url": "https://open.spotify.com/track/3a6FcTyvSf0ED3VXeH3PJ5"
     }
   ],
   "unique_name": "This Is Bruno Mars",

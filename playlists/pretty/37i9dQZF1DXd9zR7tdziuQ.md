@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 
 > Relájate con tus canciones favoritas en versión acústica / Descontrai com versões acústicas das tuas músicas preferidas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 965,791 likes - 150 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 965,829 likes - 150 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,13 +148,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 | 138 | [Mama \- Acoustic](https://open.spotify.com/track/3VOtM6x5KXZuxSzHaaf9oO) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Mama \(Acoustic\)](https://open.spotify.com/album/0AIZFcHSbXf5B7XLRaPLN5) | 3:12 |
 | 139 | [Attention \- Acoustic](https://open.spotify.com/track/2bKS7HtZ9Cy4K7NGeRlePF) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Attention \(Acoustic\)](https://open.spotify.com/album/08BovLE1x4JHA0zJz07Oaw) | 3:26 |
 | 140 | [Havana \- Acoustic](https://open.spotify.com/track/6WocEbaRB9G2QEnklpIhLd) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [Havana \(Acoustic\)](https://open.spotify.com/album/6h1bLyGqSOqyh1kjN4yz3T) | 2:21 |
-| 141 | [Send Me on My Way \(Acoustic\)](https://open.spotify.com/track/61tV4cFi7ECPLVdmcoTTf9) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Send Me on My Way \(Acoustic\)](https://open.spotify.com/album/1iAVTWqne8RsvIoicto48v) | 3:07 |
-| 142 | [Mr\. Brightside](https://open.spotify.com/track/4hh1aGOyYlqVEeHWTghR6v) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [Mr\. Brightside](https://open.spotify.com/album/79BHHa7ok6SfZGELIOeBXp) | 4:32 |
+| 141 | [Mr\. Brightside](https://open.spotify.com/track/4hh1aGOyYlqVEeHWTghR6v) | [Run River North](https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk) | [Mr\. Brightside](https://open.spotify.com/album/79BHHa7ok6SfZGELIOeBXp) | 4:32 |
+| 142 | [Send Me on My Way \(Acoustic\)](https://open.spotify.com/track/61tV4cFi7ECPLVdmcoTTf9) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Send Me on My Way \(Acoustic\)](https://open.spotify.com/album/1iAVTWqne8RsvIoicto48v) | 3:07 |
 | 143 | [Call On Me \- Acoustic Version](https://open.spotify.com/track/7eTkIKmFgeb9MQmkTC2jCi) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV) | [Call On Me \(Acoustic Version\)](https://open.spotify.com/album/1CKFN0JYtkyPOgEIkIvBz2) | 2:28 |
 | 144 | [Slow Hands \- Acoustic](https://open.spotify.com/track/7tAPTpA6VmKAeu3S5w9RVW) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Slow Hands \(Acoustic\)](https://open.spotify.com/album/3Uab8u2BzV3lvjD6LsUBVo) | 2:40 |
 | 145 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/5FwD0r8W7XSBtXc7Jb4HuC) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/0w8ZP4LJNTahWf43STWyIA) | 2:54 |
-| 146 | [Let It Go](https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Let It Go](https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG) | 3:14 |
-| 147 | [If I Ain't Got You \- Piano & Vocal Version](https://open.spotify.com/track/5CSEiDTVH3JnjitvcL39XP) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Vault Playlist Vol\. 1](https://open.spotify.com/album/5CyqXyKJeRU4PGTahuE4i5) | 3:51 |
+| 146 | [If I Ain't Got You \- Piano & Vocal Version](https://open.spotify.com/track/5CSEiDTVH3JnjitvcL39XP) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Vault Playlist Vol\. 1](https://open.spotify.com/album/5CyqXyKJeRU4PGTahuE4i5) | 3:51 |
+| 147 | [Let It Go](https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Let It Go](https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG) | 3:14 |
 | 148 | [Stolen Dance](https://open.spotify.com/track/6tXrb9kJTmgGOZqpq1powO) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr), [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Stolen Dance](https://open.spotify.com/album/0Qt0bpaJqOxRqDy3eiGXAO) | 3:55 |
 | 149 | [I Can't Make You Love Me](https://open.spotify.com/track/0hL7pMYm3WQhoywLYFdF3t) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [I Can't Make You Love Me/Immigrant Song](https://open.spotify.com/album/7EyotZp8SIypYNsBKA1yLk) | 4:51 |
 | 150 | [I Feel It Coming \- Acoustic Live Lounge](https://open.spotify.com/track/2JeQGU3gmi7HEG6tCFNgzI) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [Acoustic Favourites](https://open.spotify.com/album/1wpciFEPWX1fdgmIHO19Ez) | 2:06 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,704 likes - 58 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,840 likes - 58 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sweater Weather](https://open.spotify.com/track/1PT9mPduuWaA7iSu7EcJzP) | [Anita Donndorff](https://open.spotify.com/artist/4zEAhb4jlJ5tLMijg87cOZ) | [Sweater Weather](https://open.spotify.com/album/2usrQMrixvve1ylNkorhg1) | 3:31 |
+| 1 | [Sweater Weather](https://open.spotify.com/track/1PT9mPduuWaA7iSu7EcJzP) | [Anita Donndorff](https://open.spotify.com/artist/4zEAhb4jlJ5tLMijg87cOZ) | [Sweater Weather](https://open.spotify.com/album/2usrQMrixvve1ylNkorhg1) | 3:30 |
 | 2 | [Die With A Smile](https://open.spotify.com/track/0wqWfQbKus3jQQVgIy4OZn) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Die With A Smile](https://open.spotify.com/album/4CzSuhPhuQ32fVxENdbY9a) | 4:18 |
 | 3 | [Somebody That I Used to Know](https://open.spotify.com/track/56uNXSNJzOeP9cWGO2gWcx) | [Calore Amore](https://open.spotify.com/artist/404FUFalLSmGrSm81VXc6W) | [Somebody That I Used to Know](https://open.spotify.com/album/0AFEHFVPWyRLCgA7EXZRCM) | 4:14 |
 | 4 | [Bad Habits](https://open.spotify.com/track/0Gm1NYXKBLB4ifBNjOaAki) | [Lully Hill](https://open.spotify.com/artist/4CnQQJwzE4Hv2WDDVwLc8M) | [Paraíso](https://open.spotify.com/album/3sckjzwxVqQB4xKue9o7kg) | 4:02 |

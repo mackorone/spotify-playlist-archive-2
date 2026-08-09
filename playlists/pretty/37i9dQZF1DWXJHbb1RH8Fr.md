@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJHbb1RH8Fr.md) - [plain]
 
 > Ruhunu dinlendireceğin bu kutsal ayda yolculuğuna eşlik edecek ney ezgileri\. Görsel: Sultanahmet Camii
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,535 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,534 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ney Taksim](https://open.spotify.com/track/7B0THRVrOyoeFybZVWBlg4) | [Sufi Music Ensemble](https://open.spotify.com/artist/1ix9du49JgezeHOdRlAq8B) | [Himma](https://open.spotify.com/album/69pxnvITOgpIJ4aPwDecbQ) | 2:49 |
 | 2 | [Taksim Makam Nihavend, Ney](https://open.spotify.com/track/4M9rrFjx83iwrklBODb9RM) | [Nezih Uzel](https://open.spotify.com/artist/7yR3CI7I696oV6Op35hhhW), [Kudsi Erguner](https://open.spotify.com/artist/5BlN5l4Xh3Hsbj91NyP9lI) | [Turquie\. Musique Soufie\. Turkey\. Sufi Music.](https://open.spotify.com/album/2BJatdG67NSLoDIiCTM72H) | 4:57 |
 | 3 | [Nice Bir Uyursun](https://open.spotify.com/track/4DNjmnF7aj1fRuzibubWzq) | [Yunus Emre](https://open.spotify.com/artist/7CVv3iuSoKUaEwbMF452rZ) | [The Nay 2](https://open.spotify.com/album/4PSqBhWXCXztSv6ByTI7Q2) | 3:12 |
-| 4 | [Göğe Açılan Eller](https://open.spotify.com/track/61Dnebn1Q96qRBCQRG0eoQ) | [Anıl Şimşek](https://open.spotify.com/artist/6LCBshRpwFHopVuenF6y01) | [Sufi, Vol\. 4 \(Ney & Bendir\)](https://open.spotify.com/album/1VBBwn33WFkN8YnRqijXVm) | 1:57 |
-| 5 | [Huşu](https://open.spotify.com/track/5sZXuc3dx52N1N5uY5tw7v) | [Murat Dağlı](https://open.spotify.com/artist/5597pcDzVHJa1wUmVt6Vtr), [Rıfat Çalışkan](https://open.spotify.com/artist/7pfeyAQRfwuEX3DPWEzPeD) | [Sufi Ney\-II](https://open.spotify.com/album/2JeR64azmA15vUXz0GUc4f) | 4:58 |
+| 4 | [Huşu](https://open.spotify.com/track/5sZXuc3dx52N1N5uY5tw7v) | [Murat Dağlı](https://open.spotify.com/artist/5597pcDzVHJa1wUmVt6Vtr), [Rıfat Çalışkan](https://open.spotify.com/artist/7pfeyAQRfwuEX3DPWEzPeD) | [Sufi Ney\-II](https://open.spotify.com/album/2JeR64azmA15vUXz0GUc4f) | 4:58 |
+| 5 | [Göğe Açılan Eller](https://open.spotify.com/track/61Dnebn1Q96qRBCQRG0eoQ) | [Anıl Şimşek](https://open.spotify.com/artist/6LCBshRpwFHopVuenF6y01) | [Sufi, Vol\. 4 \(Ney & Bendir\)](https://open.spotify.com/album/1VBBwn33WFkN8YnRqijXVm) | 1:57 |
 | 6 | [Hüseyni Saz Semaisi](https://open.spotify.com/track/6kyKxCLATMgXi0zDBuoW8S) | [Süleyman Yardım](https://open.spotify.com/artist/5VwrOti5uGssmr8KOrFSB9), [Mehmet Uçak](https://open.spotify.com/artist/4F0KK8MFGuIB6mzoaeMd8m) | [Kandil 2 Ney & Ud](https://open.spotify.com/album/2DfVKzTfSjfcHpEHxitJVX) | 5:12 |
 | 7 | [Huzur](https://open.spotify.com/track/0KeejjurbY9OjXu8espe8s) | [Kazım Girit](https://open.spotify.com/artist/0VdsemSaQ4B9K4Hbhwc519), [Murat Dağlı](https://open.spotify.com/artist/5597pcDzVHJa1wUmVt6Vtr) | [Mevlana Mevlevi \(Turkish Mysticism Sounds\)](https://open.spotify.com/album/5RTvwAV001kuyu3Bs7pMW2) | 3:39 |
 | 8 | [Kabenin Yolları](https://open.spotify.com/track/2v6lbiYkIw9ePZq52oFC4v) | [Yunus Emre](https://open.spotify.com/artist/7CVv3iuSoKUaEwbMF452rZ) | [The Nay 2](https://open.spotify.com/album/4PSqBhWXCXztSv6ByTI7Q2) | 2:46 |
-| 9 | [Bahar](https://open.spotify.com/track/7FUtGyiSNK2WNNPeWITnv2) | [Yansımalar](https://open.spotify.com/artist/4jsnmssl9zb8t0liXybjYD) | [Mektup](https://open.spotify.com/album/4QucsOQHLZ44FXNvsQKU0d) | 6:55 |
-| 10 | [Gül Bahçesi](https://open.spotify.com/track/764idkmt4QTajFaD4LGG21) | [Murat Dağlı](https://open.spotify.com/artist/5597pcDzVHJa1wUmVt6Vtr), [Rıfat Çalışkan](https://open.spotify.com/artist/7pfeyAQRfwuEX3DPWEzPeD) | [Sufi Ney\-II](https://open.spotify.com/album/2JeR64azmA15vUXz0GUc4f) | 3:49 |
+| 9 | [Gül Bahçesi](https://open.spotify.com/track/764idkmt4QTajFaD4LGG21) | [Murat Dağlı](https://open.spotify.com/artist/5597pcDzVHJa1wUmVt6Vtr), [Rıfat Çalışkan](https://open.spotify.com/artist/7pfeyAQRfwuEX3DPWEzPeD) | [Sufi Ney\-II](https://open.spotify.com/album/2JeR64azmA15vUXz0GUc4f) | 3:49 |
+| 10 | [Bahar](https://open.spotify.com/track/7FUtGyiSNK2WNNPeWITnv2) | [Yansımalar](https://open.spotify.com/artist/4jsnmssl9zb8t0liXybjYD) | [Mektup](https://open.spotify.com/album/4QucsOQHLZ44FXNvsQKU0d) | 6:55 |
 | 11 | [Ney'le Zalimsin Hicazkar Taksim](https://open.spotify.com/track/3HmjKUnDbOGaghDFlW2yL5) | [Murat Akman](https://open.spotify.com/artist/5pUZ3fAOzfIIqCh7x62kTe) | [Ney Taksimleri](https://open.spotify.com/album/5lzWrB4y6Cz6Su3QVYhoDD) | 1:50 |
 | 12 | [Hakikat](https://open.spotify.com/track/12Uxmwn0kopbL8ejceA5sz) | [Kazım Girit](https://open.spotify.com/artist/0VdsemSaQ4B9K4Hbhwc519), [Murat Dağlı](https://open.spotify.com/artist/5597pcDzVHJa1wUmVt6Vtr) | [Mevlana Mevlevi \(Turkish Mysticism Sounds\)](https://open.spotify.com/album/5RTvwAV001kuyu3Bs7pMW2) | 4:29 |
 | 13 | [Ben Yürürüm](https://open.spotify.com/track/0BmoZp6aDQOak3MKe9Ufy1) | [Yunus Emre](https://open.spotify.com/artist/7CVv3iuSoKUaEwbMF452rZ) | [The Nay 2](https://open.spotify.com/album/4PSqBhWXCXztSv6ByTI7Q2) | 2:18 |

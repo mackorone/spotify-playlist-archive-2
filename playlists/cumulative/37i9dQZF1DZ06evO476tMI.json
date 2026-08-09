@@ -866,7 +866,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 288203,
       "name": "Lover for Life",
       "url": "https://open.spotify.com/track/2tYPx6gPuRDKOmoBZOGfNJ"
@@ -924,6 +924,36 @@
       "duration_ms": 261573,
       "name": "My Love Is Your Love",
       "url": "https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ"
+    },
+    {
+      "album": {
+        "name": "WH1TNEY (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4kpef1wDrE01s55A9z1Qwb"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Monie Love",
+          "url": "https://open.spotify.com/artist/7dupCiguCFkYZRisA3foPu"
+        },
+        {
+          "name": "The LaFace Family",
+          "url": "https://open.spotify.com/artist/4C8dGtZJrN91HFbJDKqYCu"
+        },
+        {
+          "name": "Keith Cohen",
+          "url": "https://open.spotify.com/artist/3KZJLwUnET681SyD2qu54E"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357423,
+      "name": "My Name Is Not Susan (feat. Monie Love) - L.A. Reid & Babyface Remix",
+      "url": "https://open.spotify.com/track/0M4s1VDI9WK2VUhCRkAsbu"
     },
     {
       "album": {

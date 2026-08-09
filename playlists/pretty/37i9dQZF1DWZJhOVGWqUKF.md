@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJhOVGWqUKF.md) - [plain]
 
 > Sechs Saiten für ein Halleluja\. Cover: April Art
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,655 likes - 99 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,671 likes - 99 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

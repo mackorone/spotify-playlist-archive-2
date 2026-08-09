@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,359 likes - 163 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,352 likes - 163 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

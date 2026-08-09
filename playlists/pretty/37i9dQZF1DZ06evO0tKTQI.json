@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 14045,
+  "num_followers": 14046,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAADUsBrPGtZO0BzFoldP8MGm",
+  "snapshot_id": "anUgAAAAAADtS/RHsAweDq2O5rVEUiTE",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Things will be fine (Bratty Remix)",
-        "url": "https://open.spotify.com/album/5ibxjOZ4u3mPv6V23h7nB1"
+        "name": "\u307e\u305f\u540c\u3058\u65e5",
+        "url": "https://open.spotify.com/album/6cVWLxrUKoczPWr0wFYgsL"
       },
       "artists": [
         {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        },
-        {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Things will be fine - Bratty Remix",
-      "url": "https://open.spotify.com/track/4Af2TwsKHF9Hn10ltZ8xmg"
+      "duration_ms": 145705,
+      "name": "\u307e\u305f\u540c\u3058\u65e5",
+      "url": "https://open.spotify.com/track/3P1zpNFH8PFA2FAVv8x7C9"
     },
     {
       "added_at": null,
@@ -455,22 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u307e\u305f\u540c\u3058\u65e5",
-        "url": "https://open.spotify.com/album/6cVWLxrUKoczPWr0wFYgsL"
+        "name": "Things will be fine (Bratty Remix)",
+        "url": "https://open.spotify.com/album/5ibxjOZ4u3mPv6V23h7nB1"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
         },
         {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 145705,
-      "name": "\u307e\u305f\u540c\u3058\u65e5",
-      "url": "https://open.spotify.com/track/3P1zpNFH8PFA2FAVv8x7C9"
+      "duration_ms": 200000,
+      "name": "Things will be fine - Bratty Remix",
+      "url": "https://open.spotify.com/track/4Af2TwsKHF9Hn10ltZ8xmg"
     },
     {
       "added_at": null,
@@ -563,18 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delusi\u00f3n",
-        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
+        "name": "Chocolate y Nata",
+        "url": "https://open.spotify.com/album/0r5bm1TyiIze1pqjpnT06w"
       },
       "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        },
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 138866,
-      "name": "Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/2VGAj6WgbcQhxzb0PVMW0f"
+      "duration_ms": 181384,
+      "name": "Chocolate y Nata",
+      "url": "https://open.spotify.com/track/45nk1Xq2y9yobawOJ7rvE3"
     },
     {
       "added_at": null,
@@ -595,22 +599,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chocolate y Nata",
-        "url": "https://open.spotify.com/album/0r5bm1TyiIze1pqjpnT06w"
+        "name": "Delusi\u00f3n",
+        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
       },
       "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        },
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 181384,
-      "name": "Chocolate y Nata",
-      "url": "https://open.spotify.com/track/45nk1Xq2y9yobawOJ7rvE3"
+      "duration_ms": 138866,
+      "name": "Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/2VGAj6WgbcQhxzb0PVMW0f"
     },
     {
       "added_at": null,

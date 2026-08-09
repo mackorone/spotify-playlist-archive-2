@@ -1,6 +1,6 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 966,
+  "num_followers": 967,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
@@ -1303,30 +1303,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "IT\u2032S YOUR WAY",
-        "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
-      },
-      "artists": [
-        {
-          "name": "Way Ched",
-          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
-        },
-        {
-          "name": "Skinny Brown",
-          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
-        },
-        {
-          "name": "Ck",
-          "url": "https://open.spotify.com/artist/4Kp3kXbpeN2OGh0K14rzYy"
-        }
-      ],
-      "duration_ms": 189834,
-      "name": "Double Up (Feat. skinny brown, CK)",
-      "url": "https://open.spotify.com/track/3TfIXDBZJqZzjDHnw50yDL"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "Show Me The Money 9 Final",
         "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
       },
@@ -1351,6 +1327,30 @@
       "duration_ms": 284613,
       "name": "Still Hungry (Feat. Mommy Son & Paloalto) (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/53Hp37eNMMaDzUJLYsSUJi"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "IT\u2032S YOUR WAY",
+        "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
+      },
+      "artists": [
+        {
+          "name": "Way Ched",
+          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
+        },
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        },
+        {
+          "name": "Ck",
+          "url": "https://open.spotify.com/artist/4Kp3kXbpeN2OGh0K14rzYy"
+        }
+      ],
+      "duration_ms": 189834,
+      "name": "Double Up (Feat. skinny brown, CK)",
+      "url": "https://open.spotify.com/track/3TfIXDBZJqZzjDHnw50yDL"
     },
     {
       "added_at": "2025-11-10 09:53:18",

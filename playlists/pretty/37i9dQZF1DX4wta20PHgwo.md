@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,181,039 likes - 150 songs - 13 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,181,010 likes - 150 songs - 13 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 | 84 | [Designs](https://open.spotify.com/track/0FwP04wAnbpflZg05NRBH2) | [Dave Liebman](https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn) | [Trust and Honesty](https://open.spotify.com/album/6q0OYWv7DtOV9iY0yryzWh) | 4:38 |
 | 85 | [Round Midnight](https://open.spotify.com/track/77Ws7XMrgFRt0wAulJ6UHF) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [Par\-Ola Landin](https://open.spotify.com/artist/3NJu7iWtCAtWMAWhaWKwEr), [Karl\-Henrik Ousbäck](https://open.spotify.com/artist/4S3y6LL6sBcjwwSEYknBwV) | [Round Midnight](https://open.spotify.com/album/2Pu9QJRzryo3Nxy8Yej26u) | 6:19 |
 | 86 | [Quiet Corner](https://open.spotify.com/track/21jcuHw9kBHPvvkAjYOOi6) | [Shalosh](https://open.spotify.com/artist/519anAuR84lP1B6ykrGSNX) | [Broken Balance](https://open.spotify.com/album/2JRzhqWp6sE6vyN5i73TZb) | 2:40 |
-| 87 | [Stormy Weather](https://open.spotify.com/track/2ZT6cJhnJtaaEMJpwRIEPT) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Western Music Box](https://open.spotify.com/album/2bV9dprqJ9PLxR9GZKGuf1) | 6:31 |
+| 87 | [Stormy Weather](https://open.spotify.com/track/2ZT6cJhnJtaaEMJpwRIEPT) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn) | [Western Music Box](https://open.spotify.com/album/2bV9dprqJ9PLxR9GZKGuf1) | 6:31 |
 | 88 | [Ballad For Bernt](https://open.spotify.com/track/4Jl4pV7gwpSGav8VC2UQaD) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Ballad For Bernt](https://open.spotify.com/album/2YkspzNzQEkKA7byABIRmh) | 5:57 |
 | 89 | [Oblique Two\-Step](https://open.spotify.com/track/02McZ2EWQf34IsdK8P3FjB) | [Le Boeuf Brothers](https://open.spotify.com/artist/4CKGMKn8tVtZOjILTE2Uc7) | [Oblique Two\-Step](https://open.spotify.com/album/0mbTP0QGR7WRF7bDkYelW6) | 3:40 |
 | 90 | [Monet](https://open.spotify.com/track/4Fi55jZVjXPYU26m5BR15J) | [Mikkel Ploug](https://open.spotify.com/artist/19fHei2TbnDhbaSHqAHT26), [Mark Turner](https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP), [Sean Carpio](https://open.spotify.com/artist/6egRA0J421FPvzToMWwk1f), [Jeppe Skovbakke](https://open.spotify.com/artist/4YjU6tK5dmAg6ktpm0rkeg) | [Nocturnes](https://open.spotify.com/album/1vI7Q4cGXlKWOJbG3KNGPV) | 6:24 |

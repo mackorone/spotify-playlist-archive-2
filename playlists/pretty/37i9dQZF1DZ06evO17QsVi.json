@@ -1,12 +1,12 @@
 {
   "description": "This is 2Pac. The essential tracks, all in one playlist.",
-  "num_followers": 1234992,
+  "num_followers": 1235059,
   "original_name": "This Is 2Pac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAAByGuakFAoy0mohPsNrBpv6",
+  "snapshot_id": "anUgAAAAAAAQGq2p1rwjPAbFQ5bN+8Oj",
   "tracks": [
     {
       "added_at": null,
@@ -823,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Above The Rim (Original Motion Picture Soundtrack) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Stretch",
-          "url": "https://open.spotify.com/artist/77dfG8syy9JTl5gA2l5ylj"
-        }
-      ],
-      "duration_ms": 274626,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/0YYLatZXRuNdjgu1Hduwry"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Untouchable",
         "url": "https://open.spotify.com/album/1VGaIPb6Cy7dLVC2fMbaLx"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 300693,
       "name": "Smile",
       "url": "https://open.spotify.com/track/4vROonGbqcc0F6XC3rHH3f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Above The Rim (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Stretch",
+          "url": "https://open.spotify.com/artist/77dfG8syy9JTl5gA2l5ylj"
+        }
+      ],
+      "duration_ms": 274626,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/0YYLatZXRuNdjgu1Hduwry"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Celebra con saz\u00f3n. A holiday playlist with tropical flavor. ",
-  "num_followers": 41857,
+  "num_followers": 41855,
   "original_name": "Navidad Con Sabor",
   "owner": {
     "name": "Spotify",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-12-05 16:12:43",
       "album": {
-        "name": "Fiesta en Navidad 35 Exitos",
-        "url": "https://open.spotify.com/album/4czT2iX93Cox7I0HdEYzUU"
-      },
-      "artists": [
-        {
-          "name": "Nels\u00f3n de la Olla y la Banda Chula",
-          "url": "https://open.spotify.com/artist/4jKdcrQmQbdNba1NKkXdIt"
-        }
-      ],
-      "duration_ms": 201213,
-      "name": "Navidad Con Pique",
-      "url": "https://open.spotify.com/track/7dTSe9TgOWqusoI0H1l7qV"
-    },
-    {
-      "added_at": "2025-12-05 16:12:43",
-      "album": {
         "name": "Duelo Cumbiambero En Navidad",
         "url": "https://open.spotify.com/album/1RlMpDTvsBxwqaTIzKc8iy"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 178400,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/7DIeziYfgC6i2chzXCh5Vc"
+    },
+    {
+      "added_at": "2025-12-05 16:12:43",
+      "album": {
+        "name": "Fiesta en Navidad 35 Exitos",
+        "url": "https://open.spotify.com/album/4czT2iX93Cox7I0HdEYzUU"
+      },
+      "artists": [
+        {
+          "name": "Nels\u00f3n de la Olla y la Banda Chula",
+          "url": "https://open.spotify.com/artist/4jKdcrQmQbdNba1NKkXdIt"
+        }
+      ],
+      "duration_ms": 201213,
+      "name": "Navidad Con Pique",
+      "url": "https://open.spotify.com/track/7dTSe9TgOWqusoI0H1l7qV"
     },
     {
       "added_at": "2025-12-05 16:12:43",
@@ -1387,18 +1387,22 @@
     {
       "added_at": "2025-12-05 16:12:43",
       "album": {
-        "name": "Latin Vallenatos",
-        "url": "https://open.spotify.com/album/0uWkTYkohs30DzAhSMIf3D"
+        "name": "Diciembre Colombiano",
+        "url": "https://open.spotify.com/album/1k4QeqeqrihPty4qrv9Kqa"
       },
       "artists": [
         {
-          "name": "Vallenatos Nativos",
-          "url": "https://open.spotify.com/artist/5SdcPt2f884fB3DITvFqok"
+          "name": "Bobby Cruz",
+          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
+        },
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
         }
       ],
-      "duration_ms": 214840,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/3Dw69iKKgj2U3JzeeftBbx"
+      "duration_ms": 253506,
+      "name": "Aguinaldo Navide\u00f1o",
+      "url": "https://open.spotify.com/track/3rFwtBGwM0kxJKGfh5TmXt"
     },
     {
       "added_at": "2025-12-05 16:12:43",
@@ -1419,22 +1423,18 @@
     {
       "added_at": "2025-12-05 16:12:43",
       "album": {
-        "name": "Diciembre Colombiano",
-        "url": "https://open.spotify.com/album/1k4QeqeqrihPty4qrv9Kqa"
+        "name": "Latin Vallenatos",
+        "url": "https://open.spotify.com/album/0uWkTYkohs30DzAhSMIf3D"
       },
       "artists": [
         {
-          "name": "Bobby Cruz",
-          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
-        },
-        {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+          "name": "Vallenatos Nativos",
+          "url": "https://open.spotify.com/artist/5SdcPt2f884fB3DITvFqok"
         }
       ],
-      "duration_ms": 253506,
-      "name": "Aguinaldo Navide\u00f1o",
-      "url": "https://open.spotify.com/track/3rFwtBGwM0kxJKGfh5TmXt"
+      "duration_ms": 214840,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/3Dw69iKKgj2U3JzeeftBbx"
     },
     {
       "added_at": "2025-12-05 16:12:43",

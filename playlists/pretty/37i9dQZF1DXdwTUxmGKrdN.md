@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,799 likes - 150 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,831 likes - 150 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,8 +145,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 135 | [Chasing the Dream](https://open.spotify.com/track/7DoHYeSKTtlvvu0bjybY2f) | [Tony Saunders](https://open.spotify.com/artist/5OLFOdnwdWsZry0VUo3b2Q), [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB), [Jeff Ryan](https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY) | [Sexy Somethin](https://open.spotify.com/album/3bmCfOCQF2wsR7L7XwvMwa) | 4:34 |
 | 136 | [It Keeps Coming Back](https://open.spotify.com/track/6n5vmGSzSdv1aRTdZyEbZf) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Let It Go](https://open.spotify.com/album/3xF6GiC3kZccbl1a7v6D9N) | 4:09 |
 | 137 | [Forever Yours](https://open.spotify.com/track/3A8ZJNLPBYKLt2r1pbRKeQ) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Retro Forward](https://open.spotify.com/album/6UHWGNhNxr24TCqUVUkUTh) | 4:09 |
-| 138 | [Encantadora \(feat\. Najee\)](https://open.spotify.com/track/5iFDAezQ6Tg4rmTlN8rntx) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Encantadora \(feat\. Najee\)](https://open.spotify.com/album/06Q5kbMS2XxLG03OAtYgGz) | 4:09 |
-| 139 | [High Five](https://open.spotify.com/track/7ma00O08o0Lt5GZNwvJndk) | [Chuck Loeb](https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ) | [\#1 Smooth Jazz Radio Hits!](https://open.spotify.com/album/6xHtFEfao5zXEbu1BJXFyY) | 4:57 |
+| 138 | [High Five](https://open.spotify.com/track/7ma00O08o0Lt5GZNwvJndk) | [Chuck Loeb](https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ) | [\#1 Smooth Jazz Radio Hits!](https://open.spotify.com/album/6xHtFEfao5zXEbu1BJXFyY) | 4:57 |
+| 139 | [Encantadora \(feat\. Najee\)](https://open.spotify.com/track/5iFDAezQ6Tg4rmTlN8rntx) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Encantadora \(feat\. Najee\)](https://open.spotify.com/album/06Q5kbMS2XxLG03OAtYgGz) | 4:09 |
 | 140 | [Workin'](https://open.spotify.com/track/73PMlacQVhln12IqZi16ep) | [Jazz Holdouts](https://open.spotify.com/artist/1opzXqZeqkYLVzBsXw45qJ) | [Workin'](https://open.spotify.com/album/4A7dd18P9hBcBImg4tf3np) | 4:06 |
 | 141 | [What The Wind Knows](https://open.spotify.com/track/0PrN59cfD9Dkvtnsmje9WE) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o), [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Unified](https://open.spotify.com/album/5CHXhccisUukWWv9yGxq5f) | 3:34 |
 | 142 | [Feels Like Friday Night](https://open.spotify.com/track/28sKYtJT2YHLyhevt94R1m) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [Shakedown](https://open.spotify.com/album/6ft9InAWvNoaKFlYn7WOlq) | 4:19 |

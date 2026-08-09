@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/27oxH68ZhwZ4Td6jZztQqs">Caza</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-130 songs - 6 hr 0 min
+131 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Luider](https://open.spotify.com/track/1WO6kJRmnDjty4xwvsTGh1) | [GLOWINTHEDARK](https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Lituatie 2 Aftershock](https://open.spotify.com/album/2TunBtADntRoHSoGlBrwV5) | 2:45 | 2025-10-03 |  |
 | [Luider](https://open.spotify.com/track/2QRnvYBBSFUIRi4in10AFj) | [GLOWINTHEDARK](https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Lituatie 2 Aftershock](https://open.spotify.com/album/1C7APDdiwBmVB5O4LF3Alz) | 2:45 | 2024-01-29 | 2025-10-04 |
 | [Ma Bella](https://open.spotify.com/track/02EnBHV0Kr0Lb8TONbGDFC) | [Gambler](https://open.spotify.com/artist/7eBnrX5XdAJsbr6voavmTC), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Ma Bella](https://open.spotify.com/album/3jn2SXCnLlUv91c9oT5GT0) | 2:30 | 2024-01-29 |  |
-| [Money & Shine](https://open.spotify.com/track/2Wn07fQXqIxn74fL30JnBX) | [Famke Louise](https://open.spotify.com/artist/4Dm1MX4VPbtLssAQeBhHFo) | [Money & Shine](https://open.spotify.com/album/65JoVecMLwZ9UBns4HcDwz) | 1:51 | 2024-01-29 |  |
+| [Money & Shine](https://open.spotify.com/track/0bvjCba78JVTq0XfKj6gBr) | [Famke Louise](https://open.spotify.com/artist/4Dm1MX4VPbtLssAQeBhHFo) | [Money & Shine](https://open.spotify.com/album/0quQgAQ4COZ2LMJawlpaa0) | 1:51 | 2026-08-08 |  |
+| [Money & Shine](https://open.spotify.com/track/2Wn07fQXqIxn74fL30JnBX) | [Famke Louise](https://open.spotify.com/artist/4Dm1MX4VPbtLssAQeBhHFo) | [Money & Shine](https://open.spotify.com/album/65JoVecMLwZ9UBns4HcDwz) | 1:51 | 2024-01-29 | 2026-08-09 |
 | [NIET TE KOOP](https://open.spotify.com/track/2pKJbxcREpR2LQ0cfw5Yaw) | [Gierige Gasten](https://open.spotify.com/artist/1GfGX6fO8YeFkyWkj5h4Sr), [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS) | [NIET TE KOOP](https://open.spotify.com/album/1GYysfa4m7UkEN7wH8ugnR) | 3:25 | 2024-01-29 |  |
 | [No Crown \(feat\. Caza\)](https://open.spotify.com/track/1Cen6JcfsfSiYE1hN84EDC) | [Vlado](https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Trap Phone](https://open.spotify.com/album/74AVyCfx2HgawZ84ZT1ULq) | 2:33 | 2024-01-29 |  |
 | [Oh Macarena \(feat\. F1rstman & Caza\)](https://open.spotify.com/track/2zopod0eSpiwtYCAHv52Yp) | [Diaz & Bruno](https://open.spotify.com/artist/6FGZPlL2dhssxgQlpb7I7W), [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7), [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Oh Macarena \(feat\. F1rstman & Caza\)](https://open.spotify.com/album/5GbANsuEa38SzL7TcfTo0B) | 2:51 | 2024-01-29 |  |

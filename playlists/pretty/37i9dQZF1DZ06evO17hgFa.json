@@ -1,12 +1,12 @@
 {
   "description": "This is Billie Holiday. The essential tracks, all in one playlist.",
-  "num_followers": 150257,
+  "num_followers": 150269,
   "original_name": "This Is Billie Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAADZV5Ef1czyNvW3L6pIWtSS",
+  "snapshot_id": "anUgAAAAAACjLrw8mqI8ZmPWWoZs0BX2",
   "tracks": [
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Music For Torching",
+        "url": "https://open.spotify.com/album/127Jwx8NAD3DPnLDDucazY"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 264373,
+      "name": "Come Rain Or Come Shine",
+      "url": "https://open.spotify.com/track/20lPX0g0lacr7c72M8A0OR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Blues Are Brewin'",
         "url": "https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 193800,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/4XmnvVsJcKk2fy3jX5Hl6e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music For Torching",
-        "url": "https://open.spotify.com/album/127Jwx8NAD3DPnLDDucazY"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 264373,
-      "name": "Come Rain Or Come Shine",
-      "url": "https://open.spotify.com/track/20lPX0g0lacr7c72M8A0OR"
     },
     {
       "added_at": null,

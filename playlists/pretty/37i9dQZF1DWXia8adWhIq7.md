@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Gui Neris
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,782 likes - 85 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,785 likes - 85 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,18 +71,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 61 | [Enganoso Coração](https://open.spotify.com/track/61vB9Mg9vX8G4uwLKmn2n9) | [Bea Rodrigues](https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i) | [Enganoso Coração](https://open.spotify.com/album/3bH6OZFff0l1tkhJg28nUx) | 3:10 |
 | 62 | [Amor Perfeito](https://open.spotify.com/track/0obHBNT5xglQUlQxfMElRx) | [Gui Hazel](https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP), [Jana Vitória](https://open.spotify.com/artist/3iOSS7l3Np373ttFNtDwEb), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Amor Perfeito](https://open.spotify.com/album/5hMUO0OGBZZ2JB25RwMmWK) | 2:35 |
 | 63 | [Selo do Perdão \(Legado\)](https://open.spotify.com/track/4CPCxW7WZUUKyOrMNfERFA) | [Carlinhos Félix](https://open.spotify.com/artist/4fKC35zqqRm5Xs8hINEKf4) | [Selo do Perdão \(Legado\)](https://open.spotify.com/album/4JJ0Zaa6iXKKMkMQfVNd7Q) | 4:10 |
-| 64 | [A Gente Aprende a Ser](https://open.spotify.com/track/3Icpn3LFDFf2jKYZujlntR) | [Grupo Versos](https://open.spotify.com/artist/3R4RUXjmQuMktdO8CHCCPk), [Julia Costa](https://open.spotify.com/artist/5aLsHlPCjfRhvBlCTLBe24) | [A Gente Aprende a Ser](https://open.spotify.com/album/6itU1pUMHCd6d98B9AOjdz) | 4:08 |
-| 65 | [Ponto de Paz](https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Ponto de Paz](https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP) | 3:00 |
+| 64 | [Ponto de Paz](https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Ponto de Paz](https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP) | 3:00 |
+| 65 | [A Gente Aprende a Ser](https://open.spotify.com/track/3Icpn3LFDFf2jKYZujlntR) | [Grupo Versos](https://open.spotify.com/artist/3R4RUXjmQuMktdO8CHCCPk), [Julia Costa](https://open.spotify.com/artist/5aLsHlPCjfRhvBlCTLBe24) | [A Gente Aprende a Ser](https://open.spotify.com/album/6itU1pUMHCd6d98B9AOjdz) | 4:08 |
 | 66 | [Voltar](https://open.spotify.com/track/7nGWHqmxy7YbXSW2bQ3gwM) | [Eric Cortes](https://open.spotify.com/artist/7Mvuu6yhnhyYtZATxe5C8F) | [Voltar](https://open.spotify.com/album/7IhZtnkevW11CFBDn0MtMw) | 4:16 |
 | 67 | [Seu Amor](https://open.spotify.com/track/0v0lWoA3TVcsPYkHNP388C) | [Jana Vitória](https://open.spotify.com/artist/3iOSS7l3Np373ttFNtDwEb), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Seu Amor](https://open.spotify.com/album/6LcTSFHZhMgI4qcfcVoRLs) | 2:46 |
 | 68 | [Me Leva Além](https://open.spotify.com/track/0OVWqVO7oWrCnyM657ZTiC) | [Geovanne Oliveira](https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR) | [Me Leva Além](https://open.spotify.com/album/2iwdXuyuljCkNwooRrWCIU) | 3:35 |
-| 69 | [Deixa Esse Medo](https://open.spotify.com/track/7fKi87WxPP93vIVPxBfX4u) | [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [Urban Music](https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY) | [Deixa Esse Medo](https://open.spotify.com/album/6E2eSQG04ZY7zep1UAicvN) | 2:05 |
-| 70 | [Mostra\-Me Tua Glória](https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Mostra\-Me Tua Glória](https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK) | 3:50 |
+| 69 | [Mostra\-Me Tua Glória](https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Mostra\-Me Tua Glória](https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK) | 3:50 |
+| 70 | [Deixa Esse Medo](https://open.spotify.com/track/7fKi87WxPP93vIVPxBfX4u) | [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [Urban Music](https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY) | [Deixa Esse Medo](https://open.spotify.com/album/6E2eSQG04ZY7zep1UAicvN) | 2:05 |
 | 71 | [Casulo](https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs) | [Isabella Lopes](https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds) | [Casulo](https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva) | 3:39 |
 | 72 | [Teu Calor](https://open.spotify.com/track/4VCJzN8CnPPyRtzfYaWtIT) | [Thais Castro](https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Teu Calor](https://open.spotify.com/album/3vPE8PhgjRTYSJATjYDRNm) | 3:44 |
 | 73 | [Pense Bem](https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Pense Bem](https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ) | 4:00 |
-| 74 | [Deixar para Trás](https://open.spotify.com/track/7ufGcPQPvEPstuBOyxUiWt) | [Jessi Dias](https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83), [Guimarães Beats](https://open.spotify.com/artist/30dIfXffH1eGAXDb3cZVlo) | [Deixar para Trás](https://open.spotify.com/album/3hr6fsLFfPQprq1u4uibdZ) | 2:48 |
-| 75 | [Te Vejo](https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Te Vejo](https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv) | 3:30 |
+| 74 | [Te Vejo](https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Te Vejo](https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv) | 3:30 |
+| 75 | [Deixar para Trás](https://open.spotify.com/track/7ufGcPQPvEPstuBOyxUiWt) | [Jessi Dias](https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83), [Guimarães Beats](https://open.spotify.com/artist/30dIfXffH1eGAXDb3cZVlo) | [Deixar para Trás](https://open.spotify.com/album/3hr6fsLFfPQprq1u4uibdZ) | 2:48 |
 | 76 | [Contigo](https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV) | [Contigo](https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0) | 3:19 |
 | 77 | [Leve](https://open.spotify.com/track/43PrjY4XPBRPx1ugdHhVPr) | [LAGOINHA ORLANDO MUSIC](https://open.spotify.com/artist/1X2NjbUvZ268C6npB0IF6Z), [Samuel Mizrahy](https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7) | [Leve](https://open.spotify.com/album/0SUxq8peQ8l86JC3YSXZBf) | 3:24 |
 | 78 | [Tudo em Mim](https://open.spotify.com/track/3OKmHJqGnGVCfA4BFoQXKw) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Tudo em Mim](https://open.spotify.com/album/2Xzp0ZlJZXb3n7OWVFTvrj) | 4:05 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 84 | [O Amor de Deus](https://open.spotify.com/track/6AwPTRmGAmVQi1Gz2JyByH) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [Yuri DSR](https://open.spotify.com/artist/3P5R5KRLnpElqxP6av8N2B), [Jotta X](https://open.spotify.com/artist/3gMrLffCIkO3TWMKXvjEOl) | [O Amor de Deus](https://open.spotify.com/album/515oStHHdiKU8YVM7rZi9p) | 2:36 |
 | 85 | [Sinal de Aviso](https://open.spotify.com/track/5PY2MOXyMqxtEhrWQyiQkj) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Sinal de Aviso](https://open.spotify.com/album/0b9NRTT6BnPxZXrdW7CBZI) | 3:15 |
 
-Snapshot ID: `AAAAAFqUMumykYd8WQC7fD7S3grgTPYc`
+Snapshot ID: `AAAAADo+oFSHxZNs8dquconILM/NEWYE`

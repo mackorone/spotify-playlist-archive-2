@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Fana Hues
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118,777 likes - 275 songs - 14 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,118,787 likes - 275 songs - 14 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 11 | [Sun and Moon](https://open.spotify.com/track/2fFRrdy3GqiHtQZTratRhe) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Sun and Moon](https://open.spotify.com/album/6ITj3yKsmfFQXCk3Z1p3Wb) | 2:31 |
 | 12 | [enough](https://open.spotify.com/track/1FjTCllP7nZXcMqasi874T) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [enough](https://open.spotify.com/album/72mQIeIwbBBF7QonM82K8E) | 3:21 |
 | 13 | [fr this time](https://open.spotify.com/track/094v7so6IDknjeGNfbp2TV) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [me rn](https://open.spotify.com/album/0gs0m3DJnymKwGp2X7IgOb) | 2:11 |
-| 14 | [Got You](https://open.spotify.com/track/6gBV04aaYCPgTYyzCWL4XO) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [Got You](https://open.spotify.com/album/5JTDmoExrvACCEeP1me28m) | 3:30 |
+| 14 | [GOT YOU](https://open.spotify.com/track/6gBV04aaYCPgTYyzCWL4XO) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [GOT YOU](https://open.spotify.com/album/5JTDmoExrvACCEeP1me28m) | 3:30 |
 | 15 | [why can't u n i b friends?](https://open.spotify.com/track/6YA9DzD0YRCofMauyAgStz) | [Léonie Barbot](https://open.spotify.com/artist/3FtbcwEbxflXP8nItuw2rA), [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO) | [from me to me](https://open.spotify.com/album/0PbyLn7tTbHifvJFzi74rd) | 2:17 |
 | 16 | [Masculine Love](https://open.spotify.com/track/4qwFfzcMM1qoOxxmCJBti4) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [On The Road](https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa) | 3:05 |
 | 17 | [So Cold](https://open.spotify.com/track/4lkU34NongPL0RudJ15prK) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa), [India Shawn](https://open.spotify.com/artist/3jEdcm3DRvwH63URelXWmi) | [So Cold](https://open.spotify.com/album/710l3HgugkMiMa055jehVf) | 3:15 |

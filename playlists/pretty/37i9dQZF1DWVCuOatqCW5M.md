@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Darshan Raval, Simran Choudhary, Adnan Sami,  Shekhar Ravjiani and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,691 likes - 48 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,732 likes - 48 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 12 | [God Knows!](https://open.spotify.com/track/5yc050oPGKzbzXCnqLA7JP) | [Mohammad Faiz](https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60), [Samay](https://open.spotify.com/artist/6TOSyTilnA2kieWziVH8Bl), [Armaan Lahoria](https://open.spotify.com/artist/4KLQtsULex87FN5sg05g8C) | [God Knows!](https://open.spotify.com/album/3zXSzkx3uOIIAIHhEw0TWx) | 3:38 |
 | 13 | [Batiya](https://open.spotify.com/track/0wF6dcueSIQLOfujm4fZzy) | [Arjuna Harjai](https://open.spotify.com/artist/6EwLfbS1MI8kZXTIwkGfHN), [Surabhi Dashputra](https://open.spotify.com/artist/5OAB0WGU0xp8UY2lihPD3F) | [Batiya](https://open.spotify.com/album/4sXrAO2ACocWaLs8Q0VxTM) | 3:07 |
 | 14 | [Jhoom](https://open.spotify.com/track/2ubWqBb3Ohw422pJGJX2wy) | [Antara Nandy](https://open.spotify.com/artist/5t0Sf8M5KByD2fIBiVKavT), [Ankita Nandy](https://open.spotify.com/artist/1t1aTcSp29BcX955AI8JlW), [Sukhamrit\-Sachin](https://open.spotify.com/artist/4ZzECUqkTanDNwETVQ0v3P) | [Jhoom](https://open.spotify.com/album/1d7hoXaTBPQlGC31mYc8bw) | 2:57 |
-| 15 | [Sharmayi Janda Ae](https://open.spotify.com/track/4ZScsMKCoBsDqkE00GqBb6) | [Pragati Nagpal](https://open.spotify.com/artist/5LUjJOXtKNWa7AmUOJbWgH), [Harry Arora](https://open.spotify.com/artist/0Hv1cidXFr7vPUtWijAoMQ), [Swarup Chattopadhyay](https://open.spotify.com/artist/1yatlDm4IYtiBSR7EtOh2Y), [REHAN RAZA](https://open.spotify.com/artist/5B0Y5tk4OSEJ2Xshc8M4nE) | [Phases](https://open.spotify.com/album/7w6BvL5bduPJK21avWJAmA) | 2:23 |
+| 15 | [Sharmayi Janda Ae](https://open.spotify.com/track/4ZScsMKCoBsDqkE00GqBb6) | [Pragati Nagpal](https://open.spotify.com/artist/5LUjJOXtKNWa7AmUOJbWgH), [Harry Arora](https://open.spotify.com/artist/0Hv1cidXFr7vPUtWijAoMQ), [Swarup Chattopadhyay](https://open.spotify.com/artist/1yatlDm4IYtiBSR7EtOh2Y), [Rehan Raza](https://open.spotify.com/artist/23nYdzovTzwUqrdj7yIB0s) | [Phases](https://open.spotify.com/album/7w6BvL5bduPJK21avWJAmA) | 2:23 |
 | 16 | [Apni Uljhan \(Sar\-e\-Shaam \- Mehfilz with Papon\) \(From The Living Room\)](https://open.spotify.com/track/0SLWCkL2Fh4DPi8C16Unuk) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Apni Uljhan \(Sar\-e\-Shaam \- Mehfilz with Papon\) \(From The Living Room\)](https://open.spotify.com/album/4Ef6x5BoSQaCJEr5AHMMNt) | 4:04 |
 | 17 | [Dua](https://open.spotify.com/track/2wrmQ6sj8IJxJ5nrZc1bvU) | [Krish Mondal](https://open.spotify.com/artist/3JGOBJUPbwIb3fri0dcqbt), [Kishore Mondal](https://open.spotify.com/artist/6RHkm1pS4aeURu2w9jDaPX), [Shafaat Ali](https://open.spotify.com/artist/0yo4hq252dnqbVxVU7RGrT), [A.M\. Turaz](https://open.spotify.com/artist/7uvFUOwVvse3izyeVufnl9) | [Dua](https://open.spotify.com/album/0PYvcQL3tYympM9MgOcSOX) | 3:29 |
 | 18 | [Maahi Ve](https://open.spotify.com/track/6dsTKjwVmDo1e5jSt4TMC9) | [Danny](https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv), [Suyash](https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR) | [Maahi Ve](https://open.spotify.com/album/0ypNqEigLgZHAFWlry9liJ) | 2:49 |

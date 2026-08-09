@@ -8209,6 +8209,24 @@
     },
     {
       "album": {
+        "name": "How could you?",
+        "url": "https://open.spotify.com/album/6bSQQeQsouM4cBwxnOYHW2"
+      },
+      "artists": [
+        {
+          "name": "Nancy Kwai",
+          "url": "https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238246,
+      "name": "How could you?",
+      "url": "https://open.spotify.com/track/2BIkSwJSMwjEysdPRXz8eH"
+    },
+    {
+      "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
@@ -8926,7 +8944,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 177982,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
@@ -18239,6 +18257,24 @@
     },
     {
       "album": {
+        "name": "THIS & THAT",
+        "url": "https://open.spotify.com/album/46TYlDjLrEsOLFgxfxNiUy"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "This & That",
+      "url": "https://open.spotify.com/track/7AN7dJCtHqbL7f76QGyraa"
+    },
+    {
+      "album": {
         "name": "THIS IS FOR",
         "url": "https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ"
       },
@@ -24176,7 +24212,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 205933,
       "name": "\u601d\u89ba\u5931\u8abf",
       "url": "https://open.spotify.com/track/3H9gYJcdtqeUiM8WX8YrZz"
@@ -24544,7 +24580,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 269118,
       "name": "\u61f7\u7591\u4eba\u751f",
       "url": "https://open.spotify.com/track/64DtUTH1ZtBURnXIDzBzx1"
@@ -26074,7 +26110,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 273437,
       "name": "\u6771\u90aa",
       "url": "https://open.spotify.com/track/4Yr6otFebxk170q2TbpEbS"
@@ -28170,6 +28206,24 @@
       "duration_ms": 260842,
       "name": "\u7b46\u53cb (\u96fb\u5f71\u300a\u6211\u8ac7\u7684\u90a3\u5834\u6200\u611b\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/6K0vTwio6ps1a33FWv06KT"
+    },
+    {
+      "album": {
+        "name": "\u7b49\u7b49\u7b49\u7b49",
+        "url": "https://open.spotify.com/album/00sAouVtf5hLjB5gPYsWhS"
+      },
+      "artists": [
+        {
+          "name": "Joey Yung",
+          "url": "https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194733,
+      "name": "\u7b49\u7b49\u7b49\u7b49",
+      "url": "https://open.spotify.com/track/4onaCxh4EYxcNHQfbC1gdT"
     },
     {
       "album": {
@@ -30568,7 +30622,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 219385,
       "name": "\u9ed1\u73bb\u7483",
       "url": "https://open.spotify.com/track/65TyCkIJtF8hDF599vCXwe"

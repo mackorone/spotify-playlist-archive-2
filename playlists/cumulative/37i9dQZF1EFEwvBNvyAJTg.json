@@ -733,6 +733,24 @@
     },
     {
       "album": {
+        "name": "Closer To The Sound",
+        "url": "https://open.spotify.com/album/6MYgxvoK0O110Rb0FMlA7q"
+      },
+      "artists": [
+        {
+          "name": "Two Shell",
+          "url": "https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263931,
+      "name": "Closer To The Sound",
+      "url": "https://open.spotify.com/track/6raJZ0uUQ2OkwQ59nmKkRJ"
+    },
+    {
+      "album": {
         "name": "Coffee Shop",
         "url": "https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U"
       },

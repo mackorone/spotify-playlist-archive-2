@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 
 > The new school \- Alternative R&B\. Cover: Q
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,312,500 likes - 150 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,312,431 likes - 150 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 | 149 | [intention 4 u](https://open.spotify.com/track/4Xn4gMIwy5bpgbE7HAOKTq) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [intention 4 u](https://open.spotify.com/album/5xouGwfdwpVnhldVCy9L57) | 4:00 |
 | 150 | [First Time](https://open.spotify.com/track/1KUAR4EL6XLMwQKjnKhVRn) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Cruzafied](https://open.spotify.com/album/1QZpj0VyOifnOFn49qEeKv) | 3:37 |
 
-Snapshot ID: `AAAAAJpyoj2A7kse4Z38fnNTTfVmGB8d`
+Snapshot ID: `AAAAABEJINi9BnDaY6ldkkP3YCkHg28n`

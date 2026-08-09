@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKvRYFj8AWhfmUPNIG9KhHl5fnHBq9",
+  "snapshot_id": "AAAKwaXBS93Ya59W1WEP/GF2i2TGPmiJ",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -42983,6 +42983,70 @@
       "duration_ms": 220000,
       "name": "Genesi Floreale",
       "url": "https://open.spotify.com/track/0WDMdyAwu69j25S7BGj36i"
+    },
+    {
+      "added_at": "2026-08-08 09:50:11",
+      "album": {
+        "name": "Perro Loco",
+        "url": "https://open.spotify.com/album/1HbLEb1wJGZthL0iFzmu7H"
+      },
+      "artists": [
+        {
+          "name": "Esteban Paez",
+          "url": "https://open.spotify.com/artist/06aRITQAb5TMXELGTFBaXW"
+        }
+      ],
+      "duration_ms": 156549,
+      "name": "Magia Fuerte",
+      "url": "https://open.spotify.com/track/5rSdLF3KzTBeHxKawlCOOz"
+    },
+    {
+      "added_at": "2026-08-08 09:50:26",
+      "album": {
+        "name": "Never Trust A Pig",
+        "url": "https://open.spotify.com/album/2pDvvEkFY7ymQKO480r1Ar"
+      },
+      "artists": [
+        {
+          "name": "Kevin ISM",
+          "url": "https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9"
+        }
+      ],
+      "duration_ms": 216232,
+      "name": "Never Trust A Pig",
+      "url": "https://open.spotify.com/track/0amXYhhJnE5jby745KLxIg"
+    },
+    {
+      "added_at": "2026-08-08 12:23:09",
+      "album": {
+        "name": "Urlo",
+        "url": "https://open.spotify.com/album/3f9JbGTjZf1SJoHa7HUlgT"
+      },
+      "artists": [
+        {
+          "name": "Vitojazzband",
+          "url": "https://open.spotify.com/artist/7vfInUCMKJLnqxxm7WSukQ"
+        }
+      ],
+      "duration_ms": 146990,
+      "name": "Urlo",
+      "url": "https://open.spotify.com/track/4Q07s0mx7ztU5qpLdqZ0jL"
+    },
+    {
+      "added_at": "2026-08-08 18:30:51",
+      "album": {
+        "name": "L'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/2Sc22SbioaEC7xBfK94JUc"
+      },
+      "artists": [
+        {
+          "name": "ToloV",
+          "url": "https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q"
+        }
+      ],
+      "duration_ms": 238159,
+      "name": "L'\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/1QCUwsbi0gzZjZWbBTfvNS"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 37415,
+  "num_followers": 37414,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anPOgAAAAABc06xuGeP5npAmXlBjhcXa",
+  "snapshot_id": "anUgAAAAAAC16MRzqJWsgtdeX4glUsRq",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 329973,
-      "name": "Ngizilalhlela Kuwe",
-      "url": "https://open.spotify.com/track/4pyla5gfRMQicI3X7Z84pp"
+      "duration_ms": 374106,
+      "name": "My Baby",
+      "url": "https://open.spotify.com/track/6fWKHcXxJQHV2xCiQCSTWu"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 374106,
-      "name": "My Baby",
-      "url": "https://open.spotify.com/track/6fWKHcXxJQHV2xCiQCSTWu"
+      "duration_ms": 329973,
+      "name": "Ngizilalhlela Kuwe",
+      "url": "https://open.spotify.com/track/4pyla5gfRMQicI3X7Z84pp"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/3gMIm1DzHL4BFdfzarGX42"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 270133,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/1pLVv5izG6cj2GiQdsEreq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Piano Republik",
         "url": "https://open.spotify.com/album/4EPyqparNEvWk2gbHgXPzO"
       },
@@ -703,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/3gMIm1DzHL4BFdfzarGX42"
+        "name": "Malibongwe",
+        "url": "https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6"
       },
       "artists": [
         {
@@ -712,9 +728,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 270133,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/1pLVv5izG6cj2GiQdsEreq"
+      "duration_ms": 245249,
+      "name": "Sum' Bulala",
+      "url": "https://open.spotify.com/track/6VLBus4MvXYJ0wdV0GLv1Y"
     },
     {
       "added_at": null,
@@ -731,22 +747,6 @@
       "duration_ms": 275960,
       "name": "Soon And Very Soon - 99 Remix",
       "url": "https://open.spotify.com/track/03ms4BB4zAfsAn9wGp4UeG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Malibongwe",
-        "url": "https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 245249,
-      "name": "Sum' Bulala",
-      "url": "https://open.spotify.com/track/6VLBus4MvXYJ0wdV0GLv1Y"
     },
     {
       "added_at": null,

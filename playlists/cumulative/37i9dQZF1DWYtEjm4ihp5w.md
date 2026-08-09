@@ -2,7 +2,7 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Cover: 7ari
+> Cover: Lvbel C5, ElGrandeToto
 
 542 songs - 1 day 4 hr 5 min
 

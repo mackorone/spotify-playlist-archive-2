@@ -4,7 +4,7 @@
 
 > This is Angela Torres\. The essential tracks, all in one playlist.
 
-37 songs - 1 hr 48 min
+38 songs - 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [DEMASIADO](https://open.spotify.com/track/1FnX52b2XTa1YlBKQGJpwe) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [NO ME OLVIDES](https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT) | 1:30 | 2026-03-20 |  |
 | [El Camino \(feat\. Ángela Torres\)](https://open.spotify.com/track/0BEIXJ00DmdrERdf1WwhI4) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Buena Vida](https://open.spotify.com/album/1awXzHG1Y8xFuJQ75tnnO2) | 3:27 | 2026-03-20 |  |
 | [FAVORITA](https://open.spotify.com/track/6EhX9FjpQZ5CohoGeqUM2u) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [NO ME OLVIDES](https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT) | 2:53 | 2026-03-20 |  |
+| [Favorita \(En Vivo\)](https://open.spotify.com/track/6zTK7QwntQ9CuDJowNVFSS) | [Cindy Cats](https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Favorita \(En Vivo\)](https://open.spotify.com/album/1n4aXYVrnqSV8ahYenLZGo) | 4:20 | 2026-08-09 |  |
 | [Fiebre](https://open.spotify.com/track/3pNi7px9XVXGlwqr0fZHXo) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Fiebre](https://open.spotify.com/album/5sMP31RiHju3dGZ5tPdPWj) | 2:20 | 2026-03-20 |  |
 | [FINGIA](https://open.spotify.com/track/2pZxYnAllqxKvuy7CSs6aA) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [FINGIA](https://open.spotify.com/album/7cFQqo1RKjFHI8S2Kae7U0) | 2:20 | 2026-05-23 |  |
 | [FLOTANDO](https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [FLOTANDO](https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY) | 2:42 | 2026-03-20 |  |

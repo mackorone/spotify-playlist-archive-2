@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop releases\. Cover: Frank van Etten
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,343 likes - 108 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,353 likes - 108 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

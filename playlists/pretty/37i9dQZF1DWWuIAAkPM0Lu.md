@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag og ny musik bl.a\. fra Mille, Pil & Ella Augusta ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,034 likes - 98 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,036 likes - 98 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

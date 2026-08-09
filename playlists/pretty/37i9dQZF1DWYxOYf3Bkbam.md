@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,152 likes - 90 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,165 likes - 90 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 83 | [Recuerdos, Tristeza y Soledad](https://open.spotify.com/track/5RNwpUN7Orwbr4PkmzmJrz) | [Emiliano López](https://open.spotify.com/artist/08ziTcqYRzmsGdO63egTJ6), [Giannela Niwoyda](https://open.spotify.com/artist/4uJ43XefasN101iGtfRnbo) | [Recuerdos, Tristeza y Soledad](https://open.spotify.com/album/0bvdakizmjJ8idm7COAxLY) | 3:53 |
 | 84 | [Compañera](https://open.spotify.com/track/1uoa6sDuL8PJnsnQAxKLF2) | [Toto Maidana](https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:19 |
 | 85 | [Felicidades madrecita](https://open.spotify.com/track/2LWUha71rbLXW9mVgZcFwe) | [Mario Romero canta Espindola Escobar](https://open.spotify.com/artist/4PXkyeCfB42yxfDlR0dE6n) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:40 |
-| 86 | [Porque te fuiste](https://open.spotify.com/track/1bjm33yl3ulDy3NZuKlr3D) | [Duo Aranda Palacio](https://open.spotify.com/artist/7C9BHhkvyUhC9HvP6WhC2M) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:04 |
-| 87 | [Camino a las cuchillas](https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT) | [Los hermanos Cena](https://open.spotify.com/artist/24QlAxZc1ITOKpqu42UIgj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:50 |
+| 86 | [Camino a las cuchillas](https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT) | [Los hermanos Cena](https://open.spotify.com/artist/24QlAxZc1ITOKpqu42UIgj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:50 |
+| 87 | [Porque te fuiste](https://open.spotify.com/track/1bjm33yl3ulDy3NZuKlr3D) | [Duo Aranda Palacio](https://open.spotify.com/artist/7C9BHhkvyUhC9HvP6WhC2M) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:04 |
 | 88 | [Por Siempre Chamamé](https://open.spotify.com/track/4jTm8wb7chFcVFwcWXhHpN) | [Miguel Arce y La Yunta del Chamamé](https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM) | [Por Siempre Chamamé](https://open.spotify.com/album/0KQtJNmeSj88kxgtresuLu) | 2:25 |
 | 89 | [La dama misteriosa](https://open.spotify.com/track/53eK40Lxn2ZAohjTsqb2jw) | [Toto Maidana](https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:14 |
 | 90 | [La Changa de los Domingos \- Chamamé](https://open.spotify.com/track/1C58csh64wznZj64hwV9gx) | [Anibal Maldonado](https://open.spotify.com/artist/6WEUDx5pkVqSRslfQxIVYi), [Silvio Quintana](https://open.spotify.com/artist/3Q4nmjdBoFnPBbrnHNvcgZ) | [Si el Campo Crece, Crece el País](https://open.spotify.com/album/3TrPDaLtRXg4iuXuMHgNqZ) | 4:07 |

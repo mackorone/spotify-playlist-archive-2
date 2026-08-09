@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: \[Ian Penn\]\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,680 likes - 68 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,679 likes - 68 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

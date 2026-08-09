@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 
 > Instrumentals from the North Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,591 likes - 48 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,599 likes - 48 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 | 30 | [Raga Purvi](https://open.spotify.com/track/3MggyCyjiU4wxbKtrgV6kn) | [Kala Ramnath](https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ) | [Young Masters \- Kala Ramnath](https://open.spotify.com/album/3Cw8FheJhkCRk5a2QDQIhW) | 9:46 |
 | 31 | [Darbari Kanada, Alap](https://open.spotify.com/track/4VXkCcN0Rk0sIOrotrNsnD) | [Vasant Rai](https://open.spotify.com/artist/0weh3Q47P9QCdXInoUNXxt) | [Live At Washington Square Church 1981](https://open.spotify.com/album/4WP2uHgYTDFCFOCEIfCNVE) | 26:13 |
 | 32 | [Tilak Kamod](https://open.spotify.com/track/1B9Y1TJJYIqtdCZcMXIEv0) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 20:36 |
-| 33 | [Raag Jhinjhoti 7.5 beats](https://open.spotify.com/track/0nY3sZQ0seYfr64U0YWWw7) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P), [Ojas Adhiya](https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ) | [Raag Jhinjhoti by Ronu Majumdar](https://open.spotify.com/album/7l5QepzzzRX79oT2Yu4qWI) | 21:24 |
+| 33 | [Dynamic Tabla Solo \- Excerpts From Live Solo in 11 Beats](https://open.spotify.com/track/64aLobbdqbUORxgYEZLssW) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [Timeless Tabla](https://open.spotify.com/album/51tTT1nhtvQ7y5Tfw90ECL) | 4:20 |
 | 34 | [Rag Hemant](https://open.spotify.com/track/4pC7qAyC6kcW1JDswFrgNd) | [Ali Akbar Khan](https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Indian Architexture](https://open.spotify.com/album/4XLInOcNNNzsE6AzZ1coHI) | 28:51 |
-| 35 | [Dynamic Tabla Solo \- Excerpts From Live Solo in 11 Beats](https://open.spotify.com/track/64aLobbdqbUORxgYEZLssW) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [Timeless Tabla](https://open.spotify.com/album/51tTT1nhtvQ7y5Tfw90ECL) | 4:20 |
+| 35 | [Raag Jhinjhoti 7.5 beats](https://open.spotify.com/track/0nY3sZQ0seYfr64U0YWWw7) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P), [Ojas Adhiya](https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ) | [Raag Jhinjhoti by Ronu Majumdar](https://open.spotify.com/album/7l5QepzzzRX79oT2Yu4qWI) | 21:24 |
 | 36 | [Gat Drut](https://open.spotify.com/track/1tNhPY0R3XT6ShwSgpwZJX) | [Pandit Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Classical Instrumental \- Pt\. Shivkumar Sharma](https://open.spotify.com/album/4bPvlIsznjSGNfFsVByrEF) | 5:45 |
 | 37 | [Bhairavi](https://open.spotify.com/track/41qRjfa7Lpxs9nN0RdFAfZ) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 12:48 |
 | 38 | [Raag Hament \(Tintal, 16 beats\) \[arr\. T\. Bhattacharya\]](https://open.spotify.com/track/0TVyDdq8zgk1t3YYJOolFu) | [Tarun Bhattacharya](https://open.spotify.com/artist/75pVYyeJxeZZMforYr50pA), [Shiv Shankar Ray](https://open.spotify.com/artist/7AzfrIUqSS0ebgQm7MplWf), [Jayashree Acharya](https://open.spotify.com/artist/6RdLFlouF6vZX4LDxI23rQ) | [The Best of Indian Santur](https://open.spotify.com/album/0jtXyO8dEmcslU37nVa9kc) | 8:48 |

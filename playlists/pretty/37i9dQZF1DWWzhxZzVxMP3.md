@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 
 > Well\-known songs in a soft, chill Bossa vibe🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,487 likes - 104 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,566 likes - 104 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzhxZzVxMP3.md) - [plain]
 | 6 | [Mood \- Bossa Nova](https://open.spotify.com/track/13TDegmsMuGR3MvHQNJPyS) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Mood \- Bossa Nova](https://open.spotify.com/album/4Hq7ktIPIDKy9ynNWhqozY) | 2:58 |
 | 7 | [Flowers](https://open.spotify.com/track/14sckurQpwnPZgnKHaPUT6) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Flowers](https://open.spotify.com/album/5lxqBoml0iNrkwNU9nRGnP) | 3:36 |
 | 8 | [Blinding Lights](https://open.spotify.com/track/3Iy7HHDobkkXJuBrSbuoU0) | [Ouvindo](https://open.spotify.com/artist/5L0QMeigP4hG0iVXspQVid) | [Blinding Lights](https://open.spotify.com/album/7K77V3y6amFewbD01gZhby) | 3:37 |
-| 9 | [Sweater Weather](https://open.spotify.com/track/1PT9mPduuWaA7iSu7EcJzP) | [Anita Donndorff](https://open.spotify.com/artist/4zEAhb4jlJ5tLMijg87cOZ) | [Sweater Weather](https://open.spotify.com/album/2usrQMrixvve1ylNkorhg1) | 3:31 |
+| 9 | [Sweater Weather](https://open.spotify.com/track/1PT9mPduuWaA7iSu7EcJzP) | [Anita Donndorff](https://open.spotify.com/artist/4zEAhb4jlJ5tLMijg87cOZ) | [Sweater Weather](https://open.spotify.com/album/2usrQMrixvve1ylNkorhg1) | 3:30 |
 | 10 | [Die With A Smile](https://open.spotify.com/track/0wqWfQbKus3jQQVgIy4OZn) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Die With A Smile](https://open.spotify.com/album/4CzSuhPhuQ32fVxENdbY9a) | 4:18 |
 | 11 | [Birds of a feather](https://open.spotify.com/track/4OSX3HcQkcEbYYm8200QIb) | [The Bacalhau Quintet](https://open.spotify.com/artist/6tK6HFxCJ3PUpeYkgse2Ya) | [Birds of a feather](https://open.spotify.com/album/01YqFMlRp2ajINHPbOB6Ub) | 3:04 |
 | 12 | [Best Day of my life](https://open.spotify.com/track/4wtrK6RBsunXTxiKJqg1y8) | [Altozano](https://open.spotify.com/artist/45abbsTxbatVK1zPypX2kt) | [Best Day of my life](https://open.spotify.com/album/6EIR0cybgt68aCZtVDoMlr) | 2:16 |

@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance music</a> for the heart <3",
-  "num_followers": 1253811,
+  "num_followers": 1253755,
   "original_name": "Heart Beats",
   "owner": {
     "name": "Spotify",
@@ -2679,6 +2679,26 @@
     {
       "added_at": "2026-08-07 04:01:20",
       "album": {
+        "name": "SYW (feat. Cecile Believe)",
+        "url": "https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        },
+        {
+          "name": "Cecile Believe",
+          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
+        }
+      ],
+      "duration_ms": 166840,
+      "name": "SYW (feat. Cecile Believe)",
+      "url": "https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V"
+    },
+    {
+      "added_at": "2026-08-07 04:01:20",
+      "album": {
         "name": "25, spring",
         "url": "https://open.spotify.com/album/2sVbAuD8grp9PsAp9ak1Ks"
       },
@@ -2723,26 +2743,6 @@
       "duration_ms": 194666,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/0inGMCDxu6EX9Ga6xzBlu6"
-    },
-    {
-      "added_at": "2026-08-07 04:01:20",
-      "album": {
-        "name": "SYW (feat. Cecile Believe)",
-        "url": "https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        },
-        {
-          "name": "Cecile Believe",
-          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
-        }
-      ],
-      "duration_ms": 166840,
-      "name": "SYW (feat. Cecile Believe)",
-      "url": "https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V"
     }
   ],
   "unique_name": "Heart Beats",

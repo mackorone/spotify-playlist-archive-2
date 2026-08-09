@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1803519,
+  "num_followers": 1803729,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -1595,6 +1595,26 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Believer (feat. Wynter Gordon) [Club Mixes]",
+        "url": "https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR"
+      },
+      "artists": [
+        {
+          "name": "Freemasons",
+          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
+        },
+        {
+          "name": "Wynter Gordon",
+          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
+        }
+      ],
+      "duration_ms": 189388,
+      "name": "Believer (feat. Wynter Gordon) - Radio Edit",
+      "url": "https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Back 2 House",
         "url": "https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm"
       },
@@ -1643,26 +1663,6 @@
       "duration_ms": 281516,
       "name": "Day 'N' Night - Club Mix",
       "url": "https://open.spotify.com/track/5BsRZqHI8oLMc1YKsHtauE"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Believer (feat. Wynter Gordon) [Club Mixes]",
-        "url": "https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR"
-      },
-      "artists": [
-        {
-          "name": "Freemasons",
-          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
-        },
-        {
-          "name": "Wynter Gordon",
-          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
-        }
-      ],
-      "duration_ms": 189388,
-      "name": "Believer (feat. Wynter Gordon) - Radio Edit",
-      "url": "https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "I Am The Club Rocker",
-        "url": "https://open.spotify.com/album/6aZyOf8v33rs3CJGTctkM6"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 224533,
-      "name": "Sun Is Up - Play & Win Radio Edit",
-      "url": "https://open.spotify.com/track/6eU60ONpRUQPIOiWaxfWOF"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 489373,
       "name": "Love Comes Again",
       "url": "https://open.spotify.com/track/4D869p0uPTcU4e1ClLB8Kj"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "I Am The Club Rocker",
+        "url": "https://open.spotify.com/album/6aZyOf8v33rs3CJGTctkM6"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 224533,
+      "name": "Sun Is Up - Play & Win Radio Edit",
+      "url": "https://open.spotify.com/track/6eU60ONpRUQPIOiWaxfWOF"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Put Your Hands Up For Detroit",
-        "url": "https://open.spotify.com/album/0u8AX0mzDNIeS8y2Xfwye1"
-      },
-      "artists": [
-        {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
-        }
-      ],
-      "duration_ms": 393333,
-      "name": "Put Your Hands Up for Detroit - MC Mario Edit",
-      "url": "https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 453146,
       "name": "Sweet Misery",
       "url": "https://open.spotify.com/track/5O71Sv4uv46dV9stV8Cujv"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Put Your Hands Up For Detroit",
+        "url": "https://open.spotify.com/album/0u8AX0mzDNIeS8y2Xfwye1"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "duration_ms": 393333,
+      "name": "Put Your Hands Up for Detroit - MC Mario Edit",
+      "url": "https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Best of Alter Ego",
-        "url": "https://open.spotify.com/album/3f5NedtW0S20UEB4Kl34TM"
-      },
-      "artists": [
-        {
-          "name": "Alter Ego",
-          "url": "https://open.spotify.com/artist/1bnxrGpNXaVSzgbwEFL0qj"
-        }
-      ],
-      "duration_ms": 288053,
-      "name": "Rocker",
-      "url": "https://open.spotify.com/track/0TqVsIuKYQTNsh1pmAF6Kn"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 524933,
       "name": "Just Be",
       "url": "https://open.spotify.com/track/2AnEHhSLWVJJMSQECOcyyx"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Best of Alter Ego",
+        "url": "https://open.spotify.com/album/3f5NedtW0S20UEB4Kl34TM"
+      },
+      "artists": [
+        {
+          "name": "Alter Ego",
+          "url": "https://open.spotify.com/artist/1bnxrGpNXaVSzgbwEFL0qj"
+        }
+      ],
+      "duration_ms": 288053,
+      "name": "Rocker",
+      "url": "https://open.spotify.com/track/0TqVsIuKYQTNsh1pmAF6Kn"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Moby",
-        "url": "https://open.spotify.com/album/3odtsxIywNIQBqlP7UFyv4"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/2EQA1eRfXvbHKMjSnzUtFD"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "presents Traffic Signs",
         "url": "https://open.spotify.com/album/6imAcRHAFRTMRKa7qlQ0q9"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 384983,
       "name": "The Big Fake",
       "url": "https://open.spotify.com/track/1o6xUqNNTV2bsWcNoV7zTQ"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Moby",
+        "url": "https://open.spotify.com/album/3odtsxIywNIQBqlP7UFyv4"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2EQA1eRfXvbHKMjSnzUtFD"
     },
     {
       "added_at": "2024-07-12 15:40:20",

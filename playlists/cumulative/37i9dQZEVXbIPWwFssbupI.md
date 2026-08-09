@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-2,767 songs - 6 day 0 hr 44 min
+2,768 songs - 6 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,7 @@
 | [BIGLAF](https://open.spotify.com/track/5irK6xxnLIgC0KVzqII4O8) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [BIGLAF](https://open.spotify.com/album/1TDKG6UHfzhfH2JKdqkBCg) | 1:36 | 2024-09-07 | 2024-09-09 |
 | [Bikini Bottom](https://open.spotify.com/track/2HdMfuPAVAEzp7nQ58H4t9) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Chambre 140 \(Part.2\)](https://open.spotify.com/album/7vrXUFuevPiXzR76uGPbBZ) | 2:42 | 2024-01-27 | 2024-02-02 |
 | [Bill Clinton](https://open.spotify.com/track/7ebeLiT7gklzZkqM17e2VC) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [ADC](https://open.spotify.com/album/4EsdvWk2Agy9jmUEWAzZWM) | 3:29 | 2023-09-12 | 2023-09-25 |
-| [Billie Jean](https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:53 | 2026-04-24 |  |
+| [Billie Jean](https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:53 | 2026-04-24 | 2026-08-09 |
 | [Bimbo](https://open.spotify.com/track/3ieLcaMIyl1Avm7JtHSk0d) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Again](https://open.spotify.com/album/2BiGqGlzHFZ7KdYuKI1riz) | 2:43 | 2021-06-03 | 2021-08-21 |
 | [Binks to Binks 7](https://open.spotify.com/track/3jJB4kVDO6k77JnErb57JY) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Binks to Binks 7](https://open.spotify.com/album/1dY6hViGRg867Abd5NzinS) | 4:05 | 2021-12-02 | 2021-12-06 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-05-18 | 2025-04-13 |
@@ -2671,6 +2671,7 @@
 | [Várias Queixas](https://open.spotify.com/track/5HFvMPiNjclAq8DbEAPWMw) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Várias Queixas](https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp) | 2:50 | 2025-01-29 | 2025-01-31 |
 | [Vérité](https://open.spotify.com/track/1O1EqgvgRyj1ejZPUxI0UX) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:19 | 2021-12-05 | 2022-05-27 |
 | [wacced out murals](https://open.spotify.com/track/5gOfC9UzZQzTyShqPMrpjT) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 5:17 | 2024-11-24 | 2024-11-26 |
+| [Wagyu](https://open.spotify.com/track/3GDssdiukyRw4OQuH7m6MX) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Wagyu](https://open.spotify.com/album/6xi9IqY00Ip9MXX8IJO616) | 1:57 | 2026-08-08 |  |
 | [Wake Me Up \(feat\. Justice\)](https://open.spotify.com/track/5ehXToeJ8Tgc4wMhY42Oul) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Hurry Up Tomorrow](https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM) | 5:08 | 2025-02-01 | 2025-02-07 |
 | [Waribana](https://open.spotify.com/track/0rWKdhSlW2U0EBj2lxqlar) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [GOAT](https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ) | 2:54 | 2024-10-26 | 2024-11-02 |
 | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B) | 2:19 | 2021-03-27\* | 2021-06-27 |

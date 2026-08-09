@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 
 > 🍾
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,202 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,294 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 | 59 | [MISTRAL EN HIVER](https://open.spotify.com/track/18K1Ho4UzlXHAsgCl9QQ05) | [Ajar](https://open.spotify.com/artist/46OlTXwi8hanoxXHTE7E5z) | [MISTRAL EN HIVER](https://open.spotify.com/album/6CwGh54TpRCawYWGa5GsYY) | 2:30 |
 | 60 | [Everyone Moves To LA \(feat\. Felicia Douglass\)](https://open.spotify.com/track/2UauebcRqmfb6NXRxBF5Re) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Felicia Douglass](https://open.spotify.com/artist/3uKe1tF6HSEHFFKfHgpGnj) | [CLUSTERFUNK](https://open.spotify.com/album/4iLyenp5vruRWu6tgV03WT) | 3:57 |
 
-Snapshot ID: `AAAAACnGFSA7eK6AoefMehHgUFAK4/da`
+Snapshot ID: `AAAAABDgrk3gLuzOg8W/uLwObla8uxzS`

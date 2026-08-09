@@ -1064,7 +1064,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 225137,
       "name": "Alf Meraya",
       "url": "https://open.spotify.com/track/0o0teHnewOLGb94JrXQS6B"
@@ -2482,7 +2482,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 215172,
       "name": "Be3teeny Leh | Red Bull Mazzika Salonat",
       "url": "https://open.spotify.com/track/2fOoMpwfcLaOw3rPrbHgyO"
@@ -5100,7 +5100,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 281785,
       "name": "Enta Habeeby",
       "url": "https://open.spotify.com/track/7bHp6LhAGExiF15hU8vuWY"
@@ -6886,6 +6886,28 @@
       "duration_ms": 211502,
       "name": "Hamoot Men Gherha",
       "url": "https://open.spotify.com/track/2W4rmDnrHNGqT2xlsjmEWX"
+    },
+    {
+      "album": {
+        "name": "Sadeek El Bernameg",
+        "url": "https://open.spotify.com/album/1GH8hyS9kFWIu5m0EE2kvn"
+      },
+      "artists": [
+        {
+          "name": "TUL8TE",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        },
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206804,
+      "name": "Haneish",
+      "url": "https://open.spotify.com/track/1QSCmmgw4FNQzaOFB9vaJI"
     },
     {
       "album": {
@@ -16259,6 +16281,24 @@
     },
     {
       "album": {
+        "name": "Sadeek El Bernameg",
+        "url": "https://open.spotify.com/album/1GH8hyS9kFWIu5m0EE2kvn"
+      },
+      "artists": [
+        {
+          "name": "TUL8TE",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184354,
+      "name": "Wala Ash Wala Kan",
+      "url": "https://open.spotify.com/track/0Bcrb7ZOOxkVgcZEtPWxXy"
+    },
+    {
+      "album": {
         "name": "Ya Fatenny",
         "url": "https://open.spotify.com/album/3PiLAHM8hDtVxWkwg1LStr"
       },
@@ -23252,7 +23292,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 192284,
       "name": "\u0645\u0639\u0627\u064a\u0627",
       "url": "https://open.spotify.com/track/345lSp1DYHYk3owbmodz3c"

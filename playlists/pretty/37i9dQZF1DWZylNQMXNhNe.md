@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Bia Soull
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,963 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,961 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 62 | [nada sério](https://open.spotify.com/track/1Y8Gi9zCJZJ6KoLZD71OGw) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [nada sério](https://open.spotify.com/album/5IGmeu79E1pW35B6MmsReV) | 2:46 |
 | 63 | [2 PUNKS NEON](https://open.spotify.com/track/1XgY1znA20HBXAPxyeNuSn) | [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [2 PUNKS NEON](https://open.spotify.com/album/3Q1SvCmxFExYyTHO6g2I6g) | 3:55 |
 | 64 | [Eu Ådoro](https://open.spotify.com/track/1VlgDdol500DOKk0H4xu7d) | [Davi Sabbag](https://open.spotify.com/artist/5XqH779LPE3MY0wFSg9JY8), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t), [DJ ÅNJO](https://open.spotify.com/artist/2dYbMv07G72igGiZeFkctO), [Pedrowl](https://open.spotify.com/artist/7nN3aHdHgE8O13q4UWkR7o) | [Eu Ådoro](https://open.spotify.com/album/5VS4W67U1VxG3qMGMFSMdW) | 2:37 |
-| 65 | [Receita](https://open.spotify.com/track/2oVWlKVMpnwgMst98oAeQh) | [Pepita](https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa), [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP), [Madre Beatz](https://open.spotify.com/artist/4GU1CeOF51IJbREWohSNBj), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Receita](https://open.spotify.com/album/7cbSSJogZZiNcjjyYriIud) | 2:03 |
-| 66 | [Bom Demais](https://open.spotify.com/track/29Jk3zMKGd3iQiPNRbleNo) | [leffs](https://open.spotify.com/artist/4sFBNLSdFWLvPkQjAwZubs) | [Bom Demais](https://open.spotify.com/album/6jDyFTVuHjSAzCKrjtEqLF) | 2:23 |
+| 65 | [Bom Demais](https://open.spotify.com/track/29Jk3zMKGd3iQiPNRbleNo) | [leffs](https://open.spotify.com/artist/4sFBNLSdFWLvPkQjAwZubs) | [Bom Demais](https://open.spotify.com/album/6jDyFTVuHjSAzCKrjtEqLF) | 2:23 |
+| 66 | [Receita](https://open.spotify.com/track/2oVWlKVMpnwgMst98oAeQh) | [Pepita](https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa), [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP), [Madre Beatz](https://open.spotify.com/artist/4GU1CeOF51IJbREWohSNBj), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Receita](https://open.spotify.com/album/7cbSSJogZZiNcjjyYriIud) | 2:03 |
 | 67 | [AMOR PROIBIDO](https://open.spotify.com/track/0IYpbxDn2SzqblvhHFYlgH) | [Gael Vicci](https://open.spotify.com/artist/4UvtyhDzRrxhiUB90syNQw), [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [AMOR PROIBIDO](https://open.spotify.com/album/0yx6KV0T94PNSOyq4aYILS) | 2:22 |
 | 68 | [Funk Triste](https://open.spotify.com/track/2AZUEqoZdB4PBEmwvywHQ3) | [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP), [Mc Bola](https://open.spotify.com/artist/4ulY4o7oEoqJlqc0V6R3Bc) | [Funk Triste](https://open.spotify.com/album/4Uuyx6mIRKziWkhaqS8pzE) | 2:52 |
 | 69 | [na minha mente](https://open.spotify.com/track/3d417Hpt0CvBjXhB1Gyh3u) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [na minha mente](https://open.spotify.com/album/37GoCoDgWWqsGUl0NAjSLx) | 2:12 |

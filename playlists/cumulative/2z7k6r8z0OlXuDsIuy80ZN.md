@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/2z7k6r8z0OlXuDsIuy80ZN.md) - cumulative - [plain](/playlists/plain/2z7k6r8z0OlXuDsIuy80ZN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/2z7k6r8z0OlXuDsIuy80ZN)
 
-### [Lista de LOS40 \(Oficial\) \- Madonna & Sabrina Carpenter en el Nº1](https://open.spotify.com/playlist/2z7k6r8z0OlXuDsIuy80ZN)
+### [Lista de LOS40 \(Oficial\) \- Quevedo y Elvis Crespo en el Nº1](https://open.spotify.com/playlist/2z7k6r8z0OlXuDsIuy80ZN)
 
 > ¡Los 40 principales éxitos de la radio musical en la única e inimitable lista de LOS40! Actualizamos cada sábado, tras el repaso a la nueva lista en Del 40 al 1 con Tony Aguilar\. Escucha a Taylor Swift, Rosalía, Rels B, HUNTR/X, y muchos más
 
-412 songs - 21 hr 31 min
+413 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Los Ángeles](https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Los Ángeles](https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI) | 2:38 | 2023-04-08 | 2023-12-24 |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2024-02-17 | 2025-03-09 |
 | [LOVE](https://open.spotify.com/track/3YmFH8V7TUtLAYhnlswkdQ) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [LOVE](https://open.spotify.com/album/5mgrmxXmQpIwXyEwXzou29) | 2:52 | 2026-03-20 | 2026-06-28 |
+| [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2026-08-08 |  |
 | [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 | 2024-03-09 | 2024-12-22 |
 | [Lárgate](https://open.spotify.com/track/6xMEkgHI4X3biKg9fQ45RI) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Lárgate](https://open.spotify.com/album/4ae7YIU9iWRBCCV7I23Nit) | 3:00 | 2025-10-18 | 2026-05-10 |
 | [M4TR1X](https://open.spotify.com/track/7bwUjHKGv8HqCMCBZQE23u) | [La Beba](https://open.spotify.com/artist/3VrdQuBgabaPZXXuNBVWXJ) | [M4TR1X](https://open.spotify.com/album/4XMxwbxTHYIRSRzqFlt9tt) | 2:50 | 2025-02-08 | 2025-06-22 |
@@ -419,6 +420,6 @@
 | [¿Y si lo hacemos? \(feat\. Valeria Castro\)](https://open.spotify.com/track/1VamVCJejLZh212lNhygVw) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC), [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [La Jauría](https://open.spotify.com/album/4cAjvCWbcfaDhuiJxew1Sw) | 4:35 | 2025-09-06 | 2026-05-10 |
 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 | 2022-01-15 | 2022-05-22 |
 | [Última Bala](https://open.spotify.com/track/5TnAz2CbcJqN7aAjRaM2Mv) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [No Lo Sé Ni Yo](https://open.spotify.com/album/6tTg5qkO15q5uT9exNeyFy) | 3:00 | 2025-10-18 | 2026-05-17 |
-| [⁠LUCIÉRNAGAS](https://open.spotify.com/track/7wUntegNzggkzQ0hAI4RAk) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [TUTTO PASSA](https://open.spotify.com/album/7I5m6lJa5Erzjeh6LIgEL9) | 2:40 | 2026-02-21 |  |
+| [⁠LUCIÉRNAGAS](https://open.spotify.com/track/7wUntegNzggkzQ0hAI4RAk) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [TUTTO PASSA](https://open.spotify.com/album/7I5m6lJa5Erzjeh6LIgEL9) | 2:40 | 2026-02-21 | 2026-08-09 |
 
 \*This playlist was first scraped on 2022-01-15. Prior content cannot be recovered.

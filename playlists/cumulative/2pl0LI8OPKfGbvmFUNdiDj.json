@@ -2953,6 +2953,32 @@
     },
     {
       "album": {
+        "name": "Everyday Grind",
+        "url": "https://open.spotify.com/album/4srqXN0EkNZEvnBkIDSlrK"
+      },
+      "artists": [
+        {
+          "name": "Mr Boswell Thomas",
+          "url": "https://open.spotify.com/artist/2SQtBpZsYVYPybYXQQ1xQo"
+        },
+        {
+          "name": "Declaime",
+          "url": "https://open.spotify.com/artist/0IWhrIU65vvKiggTlWKDZw"
+        },
+        {
+          "name": "Dudley Perkins",
+          "url": "https://open.spotify.com/artist/08xLtQbGdIZfVfk6QTgYIW"
+        }
+      ],
+      "date_added": "2026-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166588,
+      "name": "Everyday Grind",
+      "url": "https://open.spotify.com/track/5PvQKRMTzW4k0gEBzzuRdH"
+    },
+    {
+      "album": {
         "name": "Exurbia",
         "url": "https://open.spotify.com/album/35nM4mGD7u3f89almFVhxv"
       },

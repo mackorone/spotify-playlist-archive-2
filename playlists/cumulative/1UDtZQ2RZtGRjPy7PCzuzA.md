@@ -2,7 +2,7 @@
 
 ### [𑣲𝓳](https://open.spotify.com/playlist/1UDtZQ2RZtGRjPy7PCzuzA)
 
-> life too short love the one you got
+> massive ass playlist but yk what else is massive
 
 1,580 songs - 3 day 18 hr 12 min
 

@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Besos Pendientes",
+        "url": "https://open.spotify.com/album/3UiJZvZHh5VNDX8HM5C0oJ"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132746,
+      "name": "Besos Pendientes",
+      "url": "https://open.spotify.com/track/0mxWQ2nVDq7m2QrKLewLIe"
+    },
+    {
+      "album": {
         "name": "10/10",
         "url": "https://open.spotify.com/album/0kGyBvtwZXCcZK4kTdXuQb"
       },
@@ -374,7 +392,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 171016,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3YabOtt3reMLrd6RoWCkFg"

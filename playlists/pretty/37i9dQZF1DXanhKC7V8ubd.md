@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanhKC7V8ubd.md) - [plain]
 
 > Disfruta la música de la serie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,302 likes - 40 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,333 likes - 40 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

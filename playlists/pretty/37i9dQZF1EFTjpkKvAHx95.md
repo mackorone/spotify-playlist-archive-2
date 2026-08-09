@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,132 likes - 173 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,133 likes - 173 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 36 | [Potential](https://open.spotify.com/track/4YNrBVo8fv6qiTNwHLVDai) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:53 |
 | 37 | [Throw It Away](https://open.spotify.com/track/21DN44aYlSoyfOQcboC0IP) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 2:31 |
 | 38 | [WATER](https://open.spotify.com/track/5vIiGOCqhPwnQDZhWhewGU) | [Salatiel](https://open.spotify.com/artist/3jO7uMLDPJngUhguQlaDFP), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 2:32 |
-| 39 | [Like It \(with 6LACK\)](https://open.spotify.com/track/4CNzuSQoL5jgCxzYmuMvcz) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:51 |
-| 40 | [Bad Angel \(with LISA\)](https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Bad Angel \(with LISA\)](https://open.spotify.com/album/4RyojhEO0VsnNacY6C3te7) | 2:33 |
+| 39 | [Bad Angel \(with LISA\)](https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Bad Angel \(with LISA\)](https://open.spotify.com/album/4RyojhEO0VsnNacY6C3te7) | 2:33 |
+| 40 | [Like It \(with 6LACK\)](https://open.spotify.com/track/4CNzuSQoL5jgCxzYmuMvcz) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:51 |
 | 41 | [F&MU](https://open.spotify.com/track/24QjawKdGJmsAIVe3EhzGH) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:14 |
 | 42 | [FXCK UP THE WORLD \(Vixi Solo Version\)](https://open.spotify.com/track/6a3HxWNiBhr3tNYoqaCbLt) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 2:55 |
 | 43 | [D & G \(feat\. Summer Walker\)](https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 2:52 |
@@ -164,8 +164,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 154 | [Back Outside](https://open.spotify.com/track/1Nm7BWm30PrTmfb6cuyhTb) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [What I Didn't Say](https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk) | 3:09 |
 | 155 | [DROWN IN MY CUP](https://open.spotify.com/track/12vEQQFrOLlxGCc53YLDuN) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [NICE GIRLS FINISH LAST: CUIDADO](https://open.spotify.com/album/76VLDGFn8MiyKRIMV2S4J7) | 3:07 |
 | 156 | [Who Is It](https://open.spotify.com/track/1IwEhO9YkJeXM60zi5YSAD) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [Who Is It](https://open.spotify.com/album/7kZ3QBPe6c7OFNAdpzEb37) | 2:54 |
-| 157 | [I Just Called](https://open.spotify.com/track/56u2bkmxyvO5yT1LPV7TfV) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [What I Didn't Say](https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk) | 3:03 |
-| 158 | [Mine](https://open.spotify.com/track/6hJLU6wfRj9JAJd6vFhpIY) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [God Must Really Love Me](https://open.spotify.com/album/2PgYxXmW7geBRncBAgpzNL) | 3:34 |
+| 157 | [Mine](https://open.spotify.com/track/6hJLU6wfRj9JAJd6vFhpIY) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [God Must Really Love Me](https://open.spotify.com/album/2PgYxXmW7geBRncBAgpzNL) | 3:34 |
+| 158 | [I Just Called](https://open.spotify.com/track/56u2bkmxyvO5yT1LPV7TfV) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [What I Didn't Say](https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk) | 3:03 |
 | 159 | [Hiatus](https://open.spotify.com/track/0R39oVT0h8jmmLADI7dkdy) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [Young HeartThrob](https://open.spotify.com/album/7lmS1zDxOuTlJrJ8C1NHEW) | 3:02 |
 | 160 | [Things We Do](https://open.spotify.com/track/2sRG4WyPyGNLC20djAMXAL) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [What I Didn't Say](https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk) | 2:59 |
 | 161 | [Coming Home \(with G Herbo\)](https://open.spotify.com/track/3acmzjQZIKY6mwMiQ5vW4f) | [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Coming Home \(with G Herbo\)](https://open.spotify.com/album/4DDwMmoet9t03wznydkh0j) | 3:32 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 172 | [Wild Wild](https://open.spotify.com/track/4amxzY7kxQga4kZadCSWLY) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [What I Didn't Say](https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk) | 3:02 |
 | 173 | [Can't Be Friends](https://open.spotify.com/track/6TwTDw7wzxk4PJeKd4pYOR) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [What I Didn't Say](https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk) | 2:30 |
 
-Snapshot ID: `AcY+SgAAAADIbhbtUA4PZqfnYou1d+4+`
+Snapshot ID: `AcZD6gAAAAAnQ8QnB7JNxyYbtDbjA7Tr`

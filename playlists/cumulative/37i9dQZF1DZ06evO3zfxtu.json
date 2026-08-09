@@ -860,7 +860,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 182292,
       "name": "Don't Look Down",
       "url": "https://open.spotify.com/track/76Q9VH6V8XfWu1AjXoYceU"
@@ -916,6 +916,24 @@
       "duration_ms": 172588,
       "name": "F IT, I MADE IT",
       "url": "https://open.spotify.com/track/1bG5ACvGTilKYj1QKGkrjP"
+    },
+    {
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/3o2l9vFx5QY1ltPv8t3Rlo"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223384,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/11iD3CoX0BKKpBH9lMo6Af"
     },
     {
       "album": {
@@ -1160,7 +1178,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-09",
       "duration_ms": 162600,
       "name": "I Been Doing Great (You Can Stop MFing Asking)",
       "url": "https://open.spotify.com/track/3MQFwwFy7Wua20rsN4DzbI"
@@ -1942,7 +1960,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 140835,
       "name": "QUIET",
       "url": "https://open.spotify.com/track/3Wfv17RlbuKYJq4LKX1OCR"

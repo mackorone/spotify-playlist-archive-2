@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie en español, con GRLS en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,535 likes - 49 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,515 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ya no me siento tan mal](https://open.spotify.com/track/4IbuDQX7h2tS2irfLkxSPi) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam), [FLAKKO SAMMY](https://open.spotify.com/artist/2wCQnQL6kShe1GiGMGQkWr) | [PINK LEMONADE](https://open.spotify.com/album/3tSL8w5vDmwtTJJ44wJiYb) | 3:53 |
+| 1 | [ya no me siento tan mal](https://open.spotify.com/track/4IbuDQX7h2tS2irfLkxSPi) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam), [FLAKKO SAMMY](https://open.spotify.com/artist/2wCQnQL6kShe1GiGMGQkWr) | [PINK LEMONADE](https://open.spotify.com/album/3tSL8w5vDmwtTJJ44wJiYb) | 3:49 |
 | 2 | [creiziiii](https://open.spotify.com/track/7F37hWsqlVNux3dATtr4ls) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [PINK LEMONADE](https://open.spotify.com/album/0Zv6IMPprJQeSqKsMpCVLq) | 3:55 |
 | 3 | [Lo Que Por Ti Yo Siento](https://open.spotify.com/track/6aHGeK3qr3AwH0kpBgQDxS) | [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Lo Que Por Ti Yo Siento](https://open.spotify.com/album/5dtuOhCwLaaa3amP38t1Ft) | 3:20 |
 | 4 | [el invierno](https://open.spotify.com/track/5nKOSIedbLEcm7jTcHepnO) | [ooes](https://open.spotify.com/artist/0aXi5kveuKNm6t5vGVeUBM) | [el invierno](https://open.spotify.com/album/4yiD3SpT58G9WdYLjyTcJg) | 2:28 |

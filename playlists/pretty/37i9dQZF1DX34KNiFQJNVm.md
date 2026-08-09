@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem ContryBeat com Mari Fernandez, KAROL G, Grupo Benzadeus com Ivete Sangalo, Ed Motta, FLO e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,307,397 likes - 86 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,307,499 likes - 86 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 62 | [Metas](https://open.spotify.com/track/11tlxytoLAQels8RQYYP6r) | [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM), [JayPluggz](https://open.spotify.com/artist/5plOn7vFrwAlvqDfDCtM1M) | [Metas](https://open.spotify.com/album/0KiEZZqY77pCSjWovkzMq8) | 1:27 |
 | 63 | [DNA DE BRUTO](https://open.spotify.com/track/6InD18lSHrIvpKt7aP68QR) | [João Nelore & Texano](https://open.spotify.com/artist/1znNLduZAHoADY3lXy5tbw), [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN) | [DNA DE BRUTO](https://open.spotify.com/album/4d1jBKFOH4zAMQNs6SS9tP) | 2:36 |
 | 64 | [Super Crônico](https://open.spotify.com/track/33Wtqpoi0rggUMMBxZYzOX) | [Crônicas de um Babaca](https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Super Crônico](https://open.spotify.com/album/0PX9a8xbZnCLuQPuMyp2rl) | 2:57 |
-| 65 | [Contagem Regressiva](https://open.spotify.com/track/65TWLpEX1uca55cogMKnsn) | [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG), [Tulinho](https://open.spotify.com/artist/4YECqT6rp19cjeH8XNvf4C), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [Contagem Regressiva](https://open.spotify.com/album/6Q9ubqcCbgGuZMD0Adr6BE) | 4:39 |
+| 65 | [CONTAGEM REGRESSIVA!](https://open.spotify.com/track/65TWLpEX1uca55cogMKnsn) | [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG), [Tulinho](https://open.spotify.com/artist/4YECqT6rp19cjeH8XNvf4C), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [CONTAGEM REGRESSIVA!](https://open.spotify.com/album/6Q9ubqcCbgGuZMD0Adr6BE) | 4:39 |
 | 66 | [Medida Protetiva](https://open.spotify.com/track/19hZU3jUFBXu9TDfKWkgE3) | [Natália Sarraff](https://open.spotify.com/artist/5G2UEnLePXQSAI7t1eukd6), [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Medida Protetiva](https://open.spotify.com/album/1a9QY3mao2wiEufFAYwxCF) | 2:38 |
 | 67 | [Stop The Wedding!](https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Stop The Wedding!](https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc) | 3:18 |
 | 68 | [Ver o Mar](https://open.spotify.com/track/1doW8i9pJlLb0wndZtT1RZ) | [UCHA](https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c), [Niina](https://open.spotify.com/artist/45YF7LLMa3GpWSHYifDJDa), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Sonora Sessions](https://open.spotify.com/artist/2SmVpn0TqIghCNuc4lDeqb) | [Ver o Mar](https://open.spotify.com/album/1kNv2xQt9IUQAYYxUyPETs) | 3:07 |

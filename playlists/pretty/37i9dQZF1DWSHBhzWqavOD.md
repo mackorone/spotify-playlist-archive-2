@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHBhzWqavOD.md) - [plain]
 
 > The Biggest Afrobeats festival in World
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,078 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,157 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
