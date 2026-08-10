@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 90s.",
-  "num_followers": 1901961,
+  "num_followers": 1902643,
   "original_name": "Soft 90s",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Ten Summoner's Tales",
-        "url": "https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 279226,
-      "name": "Shape Of My Heart",
-      "url": "https://open.spotify.com/track/6CKoWCWAqEVWVjpeoJXyNH"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "Seal",
         "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
       },
@@ -219,18 +203,34 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
+        "name": "Ten Summoner's Tales",
+        "url": "https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
         }
       ],
-      "duration_ms": 384460,
-      "name": "Heal the World",
-      "url": "https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K"
+      "duration_ms": 279226,
+      "name": "Shape Of My Heart",
+      "url": "https://open.spotify.com/track/6CKoWCWAqEVWVjpeoJXyNH"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "Crazysexycool",
+        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "duration_ms": 279506,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -251,18 +251,18 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Crazysexycool",
-        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
       },
       "artists": [
         {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 279506,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
+      "duration_ms": 384460,
+      "name": "Heal the World",
+      "url": "https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Crazy World",
-        "url": "https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF"
-      },
-      "artists": [
-        {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
-        }
-      ],
-      "duration_ms": 273333,
-      "name": "Send Me An Angel",
-      "url": "https://open.spotify.com/track/1bKQ48M9onID2kbSpRy8kK"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "Last of the Independents",
         "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 240760,
       "name": "I'll Stand by You",
       "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "Crazy World",
+        "url": "https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 273333,
+      "name": "Send Me An Angel",
+      "url": "https://open.spotify.com/track/1bKQ48M9onID2kbSpRy8kK"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Still Got The Blues",
-        "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 370866,
-      "name": "Still Got The Blues",
-      "url": "https://open.spotify.com/track/0DnGfA1r8pAssJCuq4ojla"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "Ray of Light",
         "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 367333,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/2II03llydk4YnkBBvoYB3B"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "Still Got The Blues",
+        "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 370866,
+      "name": "Still Got The Blues",
+      "url": "https://open.spotify.com/track/0DnGfA1r8pAssJCuq4ojla"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Michael Learns To Rock",
-        "url": "https://open.spotify.com/album/1QIn6Ei16FidIGiHgylZDB"
-      },
-      "artists": [
-        {
-          "name": "Michael Learns To Rock",
-          "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Take Me to Your Heart",
-      "url": "https://open.spotify.com/track/7rdtBpPpe4knfd7aD98h9X"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "Rush Street",
         "url": "https://open.spotify.com/album/0hNMHkt0vLHIioGUoOTk0F"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 317306,
       "name": "Hazard",
       "url": "https://open.spotify.com/track/1ntKYuqLlmV3sTZoNyeHhM"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "Michael Learns To Rock",
+        "url": "https://open.spotify.com/album/1QIn6Ei16FidIGiHgylZDB"
+      },
+      "artists": [
+        {
+          "name": "Michael Learns To Rock",
+          "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "Take Me to Your Heart",
+      "url": "https://open.spotify.com/track/7rdtBpPpe4knfd7aD98h9X"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -1227,38 +1227,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Angels",
-        "url": "https://open.spotify.com/album/15lwLTwByJddohg3GvxICy"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 265333,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/7CKbqqrs0AS1si1ZgaQdcj"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
-        "name": "Strange Foreign Beauty",
-        "url": "https://open.spotify.com/album/1dW7iWMMhRzMLLGrLjL6tO"
-      },
-      "artists": [
-        {
-          "name": "Michael Learns To Rock",
-          "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
-        }
-      ],
-      "duration_ms": 253093,
-      "name": "That's Why You Go Away",
-      "url": "https://open.spotify.com/track/2ccW4vFSVKRgVjkZzvdjRw"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "Diva",
         "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
       },
@@ -1287,6 +1255,38 @@
       "duration_ms": 251160,
       "name": "The Power of Good-Bye",
       "url": "https://open.spotify.com/track/01VFDkHBNJcCNUjzD3flWg"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "Strange Foreign Beauty",
+        "url": "https://open.spotify.com/album/1dW7iWMMhRzMLLGrLjL6tO"
+      },
+      "artists": [
+        {
+          "name": "Michael Learns To Rock",
+          "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
+        }
+      ],
+      "duration_ms": 253093,
+      "name": "That's Why You Go Away",
+      "url": "https://open.spotify.com/track/2ccW4vFSVKRgVjkZzvdjRw"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/15lwLTwByJddohg3GvxICy"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 265333,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/7CKbqqrs0AS1si1ZgaQdcj"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Spellbound",
-        "url": "https://open.spotify.com/album/6gHhunUztPgpyBmzeie6MH"
+        "name": "Bedtime Stories",
+        "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
       },
       "artists": [
         {
-          "name": "Paula Abdul",
-          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 292933,
-      "name": "Rush Rush",
-      "url": "https://open.spotify.com/track/015qd1I4v00JIoK7yOUgKC"
+      "duration_ms": 321360,
+      "name": "Take a Bow",
+      "url": "https://open.spotify.com/track/5oqukcHWfqq7HGjyKwLX1y"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Bedtime Stories",
-        "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
+        "name": "Spellbound",
+        "url": "https://open.spotify.com/album/6gHhunUztPgpyBmzeie6MH"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Paula Abdul",
+          "url": "https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j"
         }
       ],
-      "duration_ms": 321360,
-      "name": "Take a Bow",
-      "url": "https://open.spotify.com/track/5oqukcHWfqq7HGjyKwLX1y"
+      "duration_ms": 292933,
+      "name": "Rush Rush",
+      "url": "https://open.spotify.com/track/015qd1I4v00JIoK7yOUgKC"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Brian McKnight",
-        "url": "https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG"
-      },
-      "artists": [
-        {
-          "name": "Brian McKnight",
-          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
-        }
-      ],
-      "duration_ms": 295357,
-      "name": "One Last Cry",
-      "url": "https://open.spotify.com/track/3l9OCOG3Vt6c2lxeMyGSIY"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "Said And Done",
         "url": "https://open.spotify.com/album/3N73NWzGPFcMZ23e0xPSX4"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 218133,
       "name": "Love Me For A Reason",
       "url": "https://open.spotify.com/track/2GBoo6ufWtMy1s6lqgbjJ8"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "Brian McKnight",
+        "url": "https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG"
+      },
+      "artists": [
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        }
+      ],
+      "duration_ms": 295357,
+      "name": "One Last Cry",
+      "url": "https://open.spotify.com/track/3l9OCOG3Vt6c2lxeMyGSIY"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Jon Secada",
-        "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
-      },
-      "artists": [
-        {
-          "name": "Jon Secada",
-          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
-        }
-      ],
-      "duration_ms": 275040,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/543d68hZ4dzVePFfdVc0Ki"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "The Lion King: Special Edition Original Soundtrack (Swedish Version)",
         "url": "https://open.spotify.com/album/1Dn2s7K0vTc55MtRTBN9sx"
       },
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+        "name": "Jon Secada",
+        "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
       },
       "artists": [
         {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
         }
       ],
-      "duration_ms": 274706,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
+      "duration_ms": 275040,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/543d68hZ4dzVePFfdVc0Ki"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -1699,6 +1683,22 @@
       "duration_ms": 353160,
       "name": "The One",
       "url": "https://open.spotify.com/track/2stzPKoUdtHcA4LlEu2ayw"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 274706,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
-        "name": "Candle In The Wind 1997 / Something About ...",
-        "url": "https://open.spotify.com/album/3g61rwvRs1NPeVBxuAMmHZ"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 250106,
-      "name": "Candle In The Wind 1997",
-      "url": "https://open.spotify.com/track/3DUcaEvPO72PijivCjtZcU"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
         "name": "Saxuality",
         "url": "https://open.spotify.com/album/5Y7iHcYmk13cAa6Vp6x5Q6"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 260200,
       "name": "Lily Was Here (feat. Candy Dulfer)",
       "url": "https://open.spotify.com/track/5HVqftYQ37bJx3y0SI4obk"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
+        "name": "Candle In The Wind 1997 / Something About ...",
+        "url": "https://open.spotify.com/album/3g61rwvRs1NPeVBxuAMmHZ"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 250106,
+      "name": "Candle In The Wind 1997",
+      "url": "https://open.spotify.com/track/3DUcaEvPO72PijivCjtZcU"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -2131,6 +2131,22 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
+        "name": "Colours",
+        "url": "https://open.spotify.com/album/15X5BqlPEMcr748gxnWCny"
+      },
+      "artists": [
+        {
+          "name": "Michael Learns To Rock",
+          "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Sleeping Child - 2014 Remaster",
+      "url": "https://open.spotify.com/track/19Md3QtTuHJyxptkRKf15p"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/7wPvUyod3Rxkcm830TmZIE"
       },
@@ -2147,22 +2163,6 @@
       "duration_ms": 267447,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/7qnNnQTGxdzI2wZWpa0vDD"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
-        "name": "Colours",
-        "url": "https://open.spotify.com/album/15X5BqlPEMcr748gxnWCny"
-      },
-      "artists": [
-        {
-          "name": "Michael Learns To Rock",
-          "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Sleeping Child - 2014 Remaster",
-      "url": "https://open.spotify.com/track/19Md3QtTuHJyxptkRKf15p"
     },
     {
       "added_at": "2024-07-02 21:50:37",
@@ -2443,6 +2443,22 @@
     {
       "added_at": "2024-07-02 21:50:37",
       "album": {
+        "name": "Metallica",
+        "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 388733,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/3ZFwuJwUpIl0GeXsvF1ELf"
+    },
+    {
+      "added_at": "2024-07-02 21:50:37",
+      "album": {
         "name": "Ladies And Gentlemen... The Best Of George Michael",
         "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
       },
@@ -2459,22 +2475,6 @@
       "duration_ms": 282040,
       "name": "As",
       "url": "https://open.spotify.com/track/7r3KzVwHtr2iMZtqJvFn9A"
-    },
-    {
-      "added_at": "2024-07-02 21:50:37",
-      "album": {
-        "name": "Metallica",
-        "url": "https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 388733,
-      "name": "Nothing Else Matters",
-      "url": "https://open.spotify.com/track/3ZFwuJwUpIl0GeXsvF1ELf"
     }
   ],
   "unique_name": "Soft 90s",

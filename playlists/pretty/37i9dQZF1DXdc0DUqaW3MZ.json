@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 377245,
+  "num_followers": 377256,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -259,26 +259,6 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "TIMELESS",
-        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 219035,
-      "name": "Spit It Out (feat. Rochelle Jordan)",
-      "url": "https://open.spotify.com/track/3sc1W8OHwAFoPe6mS7AJUT"
-    },
-    {
-      "added_at": "2026-07-09 16:18:31",
-      "album": {
         "name": "Fancy Some More?",
         "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 293308,
       "name": "Girl Like Me + Kaytranada",
       "url": "https://open.spotify.com/track/76AtpWLCarPl4okCl8XCwS"
+    },
+    {
+      "added_at": "2026-07-09 16:18:31",
+      "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 219035,
+      "name": "Spit It Out (feat. Rochelle Jordan)",
+      "url": "https://open.spotify.com/track/3sc1W8OHwAFoPe6mS7AJUT"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "Elm",
-        "url": "https://open.spotify.com/album/25t2b2lJcV28ZwmZo75ENB"
-      },
-      "artists": [
-        {
-          "name": "Dusky",
-          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
-        }
-      ],
-      "duration_ms": 227358,
-      "name": "Elm",
-      "url": "https://open.spotify.com/track/0wgC8RFkVlCV082J6E2Lfe"
-    },
-    {
-      "added_at": "2026-07-09 16:18:31",
-      "album": {
         "name": "All This Love",
         "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 222534,
       "name": "Not Enough",
       "url": "https://open.spotify.com/track/7dISfR6j4PwVPU4nTY4zis"
+    },
+    {
+      "added_at": "2026-07-09 16:18:31",
+      "album": {
+        "name": "Elm",
+        "url": "https://open.spotify.com/album/25t2b2lJcV28ZwmZo75ENB"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "duration_ms": 227358,
+      "name": "Elm",
+      "url": "https://open.spotify.com/track/0wgC8RFkVlCV082J6E2Lfe"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -751,22 +751,18 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "DARLING DRIVE",
-        "url": "https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm"
+        "name": "Curses Broken",
+        "url": "https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY"
       },
       "artists": [
         {
-          "name": "METTE",
-          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
-        },
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+          "name": "Gerry Read",
+          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
         }
       ],
-      "duration_ms": 199497,
-      "name": "DARLING DRIVE",
-      "url": "https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2"
+      "duration_ms": 277838,
+      "name": "Better Let It Go",
+      "url": "https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -791,18 +787,22 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "Curses Broken",
-        "url": "https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY"
+        "name": "DARLING DRIVE",
+        "url": "https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm"
       },
       "artists": [
         {
-          "name": "Gerry Read",
-          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
+          "name": "METTE",
+          "url": "https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL"
+        },
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
         }
       ],
-      "duration_ms": 277838,
-      "name": "Better Let It Go",
-      "url": "https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd"
+      "duration_ms": 199497,
+      "name": "DARLING DRIVE",
+      "url": "https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -975,30 +975,6 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "Pathways",
-        "url": "https://open.spotify.com/album/4At5TGxv4cu0CCj5wcItia"
-      },
-      "artists": [
-        {
-          "name": "Sensur\u00e9",
-          "url": "https://open.spotify.com/artist/7q5Ts0GQ7rTUmx8I5WSCYm"
-        },
-        {
-          "name": "Miller Blue",
-          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
-        },
-        {
-          "name": "Rastreep",
-          "url": "https://open.spotify.com/artist/28AQ0xmVq80qpvXyXwulTw"
-        }
-      ],
-      "duration_ms": 166909,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/0GfuStA0KqawkDglVRJ3ne"
-    },
-    {
-      "added_at": "2026-07-09 16:18:31",
-      "album": {
         "name": "This World Of Mine",
         "url": "https://open.spotify.com/album/67qqzqcaVGJ0FBAkfy6J38"
       },
@@ -1019,6 +995,30 @@
       "duration_ms": 186691,
       "name": "This World Of Mine",
       "url": "https://open.spotify.com/track/6bttpK4KFgtKwCfQ8oIaWQ"
+    },
+    {
+      "added_at": "2026-07-09 16:18:31",
+      "album": {
+        "name": "Pathways",
+        "url": "https://open.spotify.com/album/4At5TGxv4cu0CCj5wcItia"
+      },
+      "artists": [
+        {
+          "name": "Sensur\u00e9",
+          "url": "https://open.spotify.com/artist/7q5Ts0GQ7rTUmx8I5WSCYm"
+        },
+        {
+          "name": "Miller Blue",
+          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
+        },
+        {
+          "name": "Rastreep",
+          "url": "https://open.spotify.com/artist/28AQ0xmVq80qpvXyXwulTw"
+        }
+      ],
+      "duration_ms": 166909,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/0GfuStA0KqawkDglVRJ3ne"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "Fantasy (feat. Franc Moody)",
-        "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 212922,
-      "name": "Fantasy (feat. Franc Moody)",
-      "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
-    },
-    {
-      "added_at": "2026-07-09 16:18:31",
-      "album": {
         "name": "Promises (feat. Rochelle Jordan)",
         "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 208375,
       "name": "Promises (feat. Rochelle Jordan)",
       "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
+    },
+    {
+      "added_at": "2026-07-09 16:18:31",
+      "album": {
+        "name": "Fantasy (feat. Franc Moody)",
+        "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 212922,
+      "name": "Fantasy (feat. Franc Moody)",
+      "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "Doing It Too",
-        "url": "https://open.spotify.com/album/7A3hX2xOQ25tJFpojEYIMk"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 206003,
-      "name": "Doing It Too",
-      "url": "https://open.spotify.com/track/2MfqtpLWYQqhUwhCgWYbuB"
-    },
-    {
-      "added_at": "2026-07-09 16:18:31",
-      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 218973,
       "name": "Naked",
       "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
+    },
+    {
+      "added_at": "2026-07-09 16:18:31",
+      "album": {
+        "name": "Doing It Too",
+        "url": "https://open.spotify.com/album/7A3hX2xOQ25tJFpojEYIMk"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 206003,
+      "name": "Doing It Too",
+      "url": "https://open.spotify.com/track/2MfqtpLWYQqhUwhCgWYbuB"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -1311,6 +1311,30 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
+        "name": "Tom\u00e1s",
+        "url": "https://open.spotify.com/album/19BB8M6tNxHMOUWKbxBL0c"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Tom\u00e1s",
+      "url": "https://open.spotify.com/track/0DYtqHz0Rav6PyIWbS1gFa"
+    },
+    {
+      "added_at": "2026-07-09 16:18:31",
+      "album": {
         "name": "APRIL",
         "url": "https://open.spotify.com/album/6enVPVB1Otbs8ufah2hvgS"
       },
@@ -1363,26 +1387,6 @@
       "duration_ms": 170479,
       "name": "Everything\u2019s Beautiful",
       "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
-    },
-    {
-      "added_at": "2026-07-09 16:18:31",
-      "album": {
-        "name": "Set My Sun",
-        "url": "https://open.spotify.com/album/3ouohDROreSNrFfJKGLcvH"
-      },
-      "artists": [
-        {
-          "name": "Crackazat",
-          "url": "https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As"
-        },
-        {
-          "name": "Eva Lazarus",
-          "url": "https://open.spotify.com/artist/68eE2HHE6By6hOsOcsArcp"
-        }
-      ],
-      "duration_ms": 220952,
-      "name": "Set My Sun",
-      "url": "https://open.spotify.com/track/1JIyH1ZTYPifq22XZuSme4"
     }
   ],
   "unique_name": "Soultronic",

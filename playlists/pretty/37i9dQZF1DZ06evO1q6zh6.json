@@ -1,12 +1,12 @@
 {
   "description": "This is Judas Priest. The essential tracks, all in one playlist.",
-  "num_followers": 185135,
+  "num_followers": 185146,
   "original_name": "This Is Judas Priest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anUgAAAAAAA6G+ptHPhpXoLQm+S0zHz8",
+  "snapshot_id": "anZxgAAAAAC3xO6beAT43hsfV+IfGBpk",
   "tracks": [
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ram It Down",
-        "url": "https://open.spotify.com/album/1t2M4YmH8x9Tplcxq08H5l"
+        "name": "Redeemer of Souls (Deluxe)",
+        "url": "https://open.spotify.com/album/0RIfXMHvRpLqHsZ0FZE3mS"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 288693,
-      "name": "Ram It Down",
-      "url": "https://open.spotify.com/track/2MgefjgzhPfBjLdQ0lJchF"
+      "duration_ms": 364075,
+      "name": "Halls of Valhalla",
+      "url": "https://open.spotify.com/track/4zX2bEgFHUIZV8rR3qsLor"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Redeemer of Souls (Deluxe)",
-        "url": "https://open.spotify.com/album/0RIfXMHvRpLqHsZ0FZE3mS"
+        "name": "Ram It Down",
+        "url": "https://open.spotify.com/album/1t2M4YmH8x9Tplcxq08H5l"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 364075,
-      "name": "Halls of Valhalla",
-      "url": "https://open.spotify.com/track/4zX2bEgFHUIZV8rR3qsLor"
+      "duration_ms": 288693,
+      "name": "Ram It Down",
+      "url": "https://open.spotify.com/track/2MgefjgzhPfBjLdQ0lJchF"
     },
     {
       "added_at": null,

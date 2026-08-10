@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\uddd8\ud83c\udffc\u200d\u2640\ufe0f\ud83c\udf3b\ud83c\udfd5\ufe0f\ud83c\udfde\ufe0f\ud83c\udfca\ud83c\udffb\u200d\u2640\ufe0f\ud83c\udf05\ud83c\udf37\u26f0\ufe0f\ud83d\udeb4\ud83c\udffc\u200d\u2642\ufe0f\ud83c\udf7a\ud83c\udf33",
-  "num_followers": 39786,
+  "num_followers": 39793,
   "original_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-07-24 14:04:54",
       "album": {
-        "name": "\u043e\u0431\u0435\u0440\u0435\u0436\u043d\u043e! \u0440\u043e\u0437\u0431\u0438\u0442\u0435!",
-        "url": "https://open.spotify.com/album/7zH9MCmyBWI9P03w3mn34i"
-      },
-      "artists": [
-        {
-          "name": "The Soul Delusion",
-          "url": "https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "\u043e\u0431\u0435\u0440\u0435\u0436\u043d\u043e! \u0440\u043e\u0437\u0431\u0438\u0442\u0435!",
-      "url": "https://open.spotify.com/track/23os5lle4XZzaOQmMTKaPM"
-    },
-    {
-      "added_at": "2026-07-24 14:04:54",
-      "album": {
         "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456 \u0434\u043d\u0456 \u043b\u0456\u0442\u0430",
         "url": "https://open.spotify.com/album/1AnEqWNGG6zADfC3VEUmam"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 210248,
       "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456 \u0434\u043d\u0456 \u043b\u0456\u0442\u0430",
       "url": "https://open.spotify.com/track/031XeWxYnh6nAeXRPOtilL"
+    },
+    {
+      "added_at": "2026-07-24 14:04:54",
+      "album": {
+        "name": "\u043e\u0431\u0435\u0440\u0435\u0436\u043d\u043e! \u0440\u043e\u0437\u0431\u0438\u0442\u0435!",
+        "url": "https://open.spotify.com/album/7zH9MCmyBWI9P03w3mn34i"
+      },
+      "artists": [
+        {
+          "name": "The Soul Delusion",
+          "url": "https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "\u043e\u0431\u0435\u0440\u0435\u0436\u043d\u043e! \u0440\u043e\u0437\u0431\u0438\u0442\u0435!",
+      "url": "https://open.spotify.com/track/23os5lle4XZzaOQmMTKaPM"
     },
     {
       "added_at": "2026-07-24 14:04:54",
@@ -659,26 +659,6 @@
     {
       "added_at": "2026-07-24 14:04:54",
       "album": {
-        "name": "\u041a\u0430\u0441\u0435\u0442\u0430",
-        "url": "https://open.spotify.com/album/1sw8pB9yJTdZhesv8Jf5LA"
-      },
-      "artists": [
-        {
-          "name": "Tof",
-          "url": "https://open.spotify.com/artist/6uflAfOcyhgcTzIO5f8c3y"
-        },
-        {
-          "name": "\u0411\u0456\u043b\u0438\u0439 \u0411\u043e",
-          "url": "https://open.spotify.com/artist/5jA8GsN4qtk88Pc0pMWRWM"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "\u041a\u0430\u0441\u0435\u0442\u0430",
-      "url": "https://open.spotify.com/track/2FQ7IeXv68DH72sTHdR9tn"
-    },
-    {
-      "added_at": "2026-07-24 14:04:54",
-      "album": {
         "name": "\u0417\u0430\u0431\u0443\u0434\u044c \u043c\u0435\u043d\u0435",
         "url": "https://open.spotify.com/album/7qOH8jaMcqpIFa3ktnEbKw"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 153333,
       "name": "\u0417\u0430\u0431\u0443\u0434\u044c \u043c\u0435\u043d\u0435",
       "url": "https://open.spotify.com/track/38GSd0ICt6kGMJlBaVYdPf"
+    },
+    {
+      "added_at": "2026-07-24 14:04:54",
+      "album": {
+        "name": "\u041a\u0430\u0441\u0435\u0442\u0430",
+        "url": "https://open.spotify.com/album/1sw8pB9yJTdZhesv8Jf5LA"
+      },
+      "artists": [
+        {
+          "name": "Tof",
+          "url": "https://open.spotify.com/artist/6uflAfOcyhgcTzIO5f8c3y"
+        },
+        {
+          "name": "\u0411\u0456\u043b\u0438\u0439 \u0411\u043e",
+          "url": "https://open.spotify.com/artist/5jA8GsN4qtk88Pc0pMWRWM"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "\u041a\u0430\u0441\u0435\u0442\u0430",
+      "url": "https://open.spotify.com/track/2FQ7IeXv68DH72sTHdR9tn"
     },
     {
       "added_at": "2026-07-24 14:04:54",
@@ -755,26 +755,6 @@
     {
       "added_at": "2026-07-24 14:04:54",
       "album": {
-        "name": "I Was Afraid of Stone Rooms",
-        "url": "https://open.spotify.com/album/1BmVGUIQE2Vf3JDm3oLYuO"
-      },
-      "artists": [
-        {
-          "name": "Hyphen Dash",
-          "url": "https://open.spotify.com/artist/7yarlsp9DnjnP2qQ3JoCqs"
-        },
-        {
-          "name": "Borys Mohylevskyi",
-          "url": "https://open.spotify.com/artist/6ifXwxpDgOK2R5hL7em39z"
-        }
-      ],
-      "duration_ms": 481415,
-      "name": "IWASR X",
-      "url": "https://open.spotify.com/track/5IpHYhIj9JS0pT0Nfcgykn"
-    },
-    {
-      "added_at": "2026-07-24 14:04:54",
-      "album": {
         "name": "\u041f\u0440\u043e \u0442\u0435\u0431\u0435, \u0437\u0432\u0456\u0441\u043d\u043e",
         "url": "https://open.spotify.com/album/4b4bnSXcYx3WyYmhZt3wco"
       },
@@ -795,22 +775,6 @@
     {
       "added_at": "2026-07-24 14:04:54",
       "album": {
-        "name": "\u041d\u0430 \u0441\u0430\u043c\u043e\u0442\u0456",
-        "url": "https://open.spotify.com/album/786cElizhWDpDRC44iXLmT"
-      },
-      "artists": [
-        {
-          "name": "Phil It",
-          "url": "https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe"
-        }
-      ],
-      "duration_ms": 336594,
-      "name": "\u041d\u0430 \u0441\u0430\u043c\u043e\u0442\u0456",
-      "url": "https://open.spotify.com/track/2QCiHiZdEJLywIL28vbrcd"
-    },
-    {
-      "added_at": "2026-07-24 14:04:54",
-      "album": {
         "name": "\u0413\u0423\u0420\u041c\u0410",
         "url": "https://open.spotify.com/album/7oHTphOuMNRNykMvbk9GIC"
       },
@@ -827,6 +791,42 @@
       "duration_ms": 141488,
       "name": "\u0422\u0438\u0445\u043e \u0442\u0438\u0445\u043e",
       "url": "https://open.spotify.com/track/0oLYBXATXB2eLkJA24A0nr"
+    },
+    {
+      "added_at": "2026-07-24 14:04:54",
+      "album": {
+        "name": "I Was Afraid of Stone Rooms",
+        "url": "https://open.spotify.com/album/1BmVGUIQE2Vf3JDm3oLYuO"
+      },
+      "artists": [
+        {
+          "name": "Hyphen Dash",
+          "url": "https://open.spotify.com/artist/7yarlsp9DnjnP2qQ3JoCqs"
+        },
+        {
+          "name": "Borys Mohylevskyi",
+          "url": "https://open.spotify.com/artist/6ifXwxpDgOK2R5hL7em39z"
+        }
+      ],
+      "duration_ms": 481415,
+      "name": "IWASR X",
+      "url": "https://open.spotify.com/track/5IpHYhIj9JS0pT0Nfcgykn"
+    },
+    {
+      "added_at": "2026-07-24 14:04:54",
+      "album": {
+        "name": "\u041d\u0430 \u0441\u0430\u043c\u043e\u0442\u0456",
+        "url": "https://open.spotify.com/album/786cElizhWDpDRC44iXLmT"
+      },
+      "artists": [
+        {
+          "name": "Phil It",
+          "url": "https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe"
+        }
+      ],
+      "duration_ms": 336594,
+      "name": "\u041d\u0430 \u0441\u0430\u043c\u043e\u0442\u0456",
+      "url": "https://open.spotify.com/track/2QCiHiZdEJLywIL28vbrcd"
     },
     {
       "added_at": "2026-07-24 14:04:54",
@@ -863,18 +863,18 @@
     {
       "added_at": "2026-07-24 14:04:54",
       "album": {
-        "name": "\u0431\u0443\u0442\u0438 \u043e\u043f\u0442\u0438\u043c\u0456\u0441\u0442\u043e\u043c",
-        "url": "https://open.spotify.com/album/4kHNdGMPIu00fBtXV5m9es"
+        "name": "\u0421\u0442\u0430\u043d\u0435\u043c\u043e \u0442\u0438\u0448\u0435\u044e",
+        "url": "https://open.spotify.com/album/3EajDdMOQJCs2j2m6fKIPG"
       },
       "artists": [
         {
-          "name": "Liza Bibikova",
-          "url": "https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz"
+          "name": "Kadnay",
+          "url": "https://open.spotify.com/artist/5uXIaMULUstVp4F5Jq1irJ"
         }
       ],
-      "duration_ms": 180988,
-      "name": "\u0431\u0443\u0442\u0438 \u043e\u043f\u0442\u0438\u043c\u0456\u0441\u0442\u043e\u043c",
-      "url": "https://open.spotify.com/track/3VwyqCE0bV1t4bY1rp5w5p"
+      "duration_ms": 189890,
+      "name": "\u0421\u0442\u0430\u043d\u0435\u043c\u043e \u0442\u0438\u0448\u0435\u044e",
+      "url": "https://open.spotify.com/track/2FnTCTmdUdOt3PlWDThCQs"
     },
     {
       "added_at": "2026-07-24 14:04:54",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-07-24 14:04:54",
       "album": {
+        "name": "\u0431\u0443\u0442\u0438 \u043e\u043f\u0442\u0438\u043c\u0456\u0441\u0442\u043e\u043c",
+        "url": "https://open.spotify.com/album/4kHNdGMPIu00fBtXV5m9es"
+      },
+      "artists": [
+        {
+          "name": "Liza Bibikova",
+          "url": "https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz"
+        }
+      ],
+      "duration_ms": 180988,
+      "name": "\u0431\u0443\u0442\u0438 \u043e\u043f\u0442\u0438\u043c\u0456\u0441\u0442\u043e\u043c",
+      "url": "https://open.spotify.com/track/3VwyqCE0bV1t4bY1rp5w5p"
+    },
+    {
+      "added_at": "2026-07-24 14:04:54",
+      "album": {
         "name": "\u0415\u043a\u0441\u043a\u0443\u0440\u0441\u0456\u0457 \u043f\u043e \u0433\u043e\u0440\u043e\u0434\u0443",
         "url": "https://open.spotify.com/album/1orSqMtnDMqO5QEXN4FaVd"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 258521,
       "name": "\u0421\u0432\u0456\u0442 \u043f\u043e\u0432\u0435\u043d \u043b\u044e\u0431\u0432\u0456",
       "url": "https://open.spotify.com/track/3WxE8ZoW9BYxfWFEVMJuGR"
-    },
-    {
-      "added_at": "2026-07-24 14:04:54",
-      "album": {
-        "name": "\u0421\u0442\u0430\u043d\u0435\u043c\u043e \u0442\u0438\u0448\u0435\u044e",
-        "url": "https://open.spotify.com/album/3EajDdMOQJCs2j2m6fKIPG"
-      },
-      "artists": [
-        {
-          "name": "Kadnay",
-          "url": "https://open.spotify.com/artist/5uXIaMULUstVp4F5Jq1irJ"
-        }
-      ],
-      "duration_ms": 189890,
-      "name": "\u0421\u0442\u0430\u043d\u0435\u043c\u043e \u0442\u0438\u0448\u0435\u044e",
-      "url": "https://open.spotify.com/track/2FnTCTmdUdOt3PlWDThCQs"
     },
     {
       "added_at": "2026-07-24 14:04:54",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-07-24 14:04:54",
       "album": {
-        "name": "\u0412\u043e\u044f\u0436",
-        "url": "https://open.spotify.com/album/4XhJmmWPWjytr2YBGYThOr"
-      },
-      "artists": [
-        {
-          "name": "YARIMA",
-          "url": "https://open.spotify.com/artist/1nZ0jfkEdCujq7nFxlk9Uc"
-        }
-      ],
-      "duration_ms": 136943,
-      "name": "\u0417\u043b\u043e\u0432\u0438 \u043c\u0435\u043d\u0435",
-      "url": "https://open.spotify.com/track/0NsMhvgrvPKj0gMVQcyuue"
-    },
-    {
-      "added_at": "2026-07-24 14:04:54",
-      "album": {
         "name": "ellipsis",
         "url": "https://open.spotify.com/album/3n60c52OZfy9rrlPgEVruQ"
       },
@@ -1007,18 +991,34 @@
     {
       "added_at": "2026-07-24 14:04:54",
       "album": {
-        "name": "\u0432\u0456\u0434\u0447\u0443\u0442\u0442\u044f, \u0449\u043e \u0446\u0435 \u0449\u043e\u0441\u044c \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u0435",
-        "url": "https://open.spotify.com/album/2TMOC1BjJWDuulib8MW6DI"
+        "name": "\u0412\u043e\u044f\u0436",
+        "url": "https://open.spotify.com/album/4XhJmmWPWjytr2YBGYThOr"
       },
       "artists": [
         {
-          "name": "DENOMA",
-          "url": "https://open.spotify.com/artist/1CIgr3yWzcyRxtmhuzaqSd"
+          "name": "YARIMA",
+          "url": "https://open.spotify.com/artist/1nZ0jfkEdCujq7nFxlk9Uc"
         }
       ],
-      "duration_ms": 195000,
-      "name": "\u0432\u0456\u0434\u0447\u0443\u0442\u0442\u044f, \u0449\u043e \u0446\u0435 \u0449\u043e\u0441\u044c \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u0435",
-      "url": "https://open.spotify.com/track/14GDLuggfxzXzFUVEKc2ub"
+      "duration_ms": 136943,
+      "name": "\u0417\u043b\u043e\u0432\u0438 \u043c\u0435\u043d\u0435",
+      "url": "https://open.spotify.com/track/0NsMhvgrvPKj0gMVQcyuue"
+    },
+    {
+      "added_at": "2026-07-24 14:04:54",
+      "album": {
+        "name": "\u041a\u043e\u0433\u043e \u0442\u0438 \u0432\u0438\u0433\u0430\u0434\u0430\u0432?",
+        "url": "https://open.spotify.com/album/0zzcXw3obSrwf3HRjx0zYO"
+      },
+      "artists": [
+        {
+          "name": "Lely45",
+          "url": "https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw"
+        }
+      ],
+      "duration_ms": 186724,
+      "name": "\u041a\u043e\u0433\u043e \u0442\u0438 \u0432\u0438\u0433\u0430\u0434\u0430\u0432?",
+      "url": "https://open.spotify.com/track/3ZHshNzetuJ6CWsMoYSZbB"
     },
     {
       "added_at": "2026-07-24 14:04:54",

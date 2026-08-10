@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 | 3 | [Intro](https://open.spotify.com/track/0gssRfxoOFfBeOIdclrTjF) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [High & Hungrig 2](https://open.spotify.com/album/67p5Ktm0ramlZ87r39fxNg) | 2:54 |
 | 4 | [Diamantstein](https://open.spotify.com/track/3UhJb0BOiY6joXpAANMe9R) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Ich wünschte, es würd' mich kümmern](https://open.spotify.com/album/0N5tvHsq4LEOH7snMpeRbW) | 2:12 |
 | 5 | [Fussballer ⚽️](https://open.spotify.com/track/6FGPpwHlUBnl0TLGKyN4Nl) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Fussballer ⚽️](https://open.spotify.com/album/0vY4PEsfG24NoCi71jLpY7) | 1:23 |
-| 6 | [Das ist Bonez 💀](https://open.spotify.com/track/6tJxEvSIBU46PrbcK5TDnM) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [LOVELINE EP 💔](https://open.spotify.com/album/4nWp5yeh1jfCgTDnsYALlC) | 2:23 |
-| 7 | [LOBSTER](https://open.spotify.com/track/06X1jf46YLupZP2dWHgmqX) | [Tom Hengst](https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc) | [LOBSTER](https://open.spotify.com/album/1hOfmAqTU8E3wQtb4sPyVn) | 2:20 |
+| 6 | [LOBSTER](https://open.spotify.com/track/06X1jf46YLupZP2dWHgmqX) | [Tom Hengst](https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc) | [LOBSTER](https://open.spotify.com/album/1hOfmAqTU8E3wQtb4sPyVn) | 2:20 |
+| 7 | [Das ist Bonez 💀](https://open.spotify.com/track/6tJxEvSIBU46PrbcK5TDnM) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [LOVELINE EP 💔](https://open.spotify.com/album/4nWp5yeh1jfCgTDnsYALlC) | 2:23 |
 | 8 | [Maske weg](https://open.spotify.com/track/3eVgCJOjrVgBa087nZ7jWE) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 2:58 |
 | 9 | [Tränen](https://open.spotify.com/track/653cdEL1j2MkpBYDUDuVz1) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [Tränen](https://open.spotify.com/album/2ky9BhNZIjorR4hQUCxF7b) | 2:34 |
 | 10 | [Unerlaubtes Fahren](https://open.spotify.com/track/4wiqWPFnkb3Y0ZOvpA0vFn) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Freitag der 13.](https://open.spotify.com/album/2bu4H49Po6Jk5NDXInKdEM) | 2:44 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM8W7LTsCrZx.md) - [plain]
 | 98 | [Gas nur mit dir](https://open.spotify.com/track/58m3LEsLbH2ZBJqLZ87vHB) | [Yous39](https://open.spotify.com/artist/5dLEzOHOPykRTvRoan7DBK), [eightyoneace](https://open.spotify.com/artist/6aLtq5w4tLiDEMMBtyDluE) | [Gas nur mit dir](https://open.spotify.com/album/7s3S0KPiQJkpCOhWAUj182) | 2:11 |
 | 99 | [Catwoman](https://open.spotify.com/track/4p2zIDZA4oglBJuPJl6oOF) | [Jano](https://open.spotify.com/artist/7L47OSdJj97aLcHuHVm6k3) | [Catwoman](https://open.spotify.com/album/52SI4Qw2cWcwRV0YNIFHqJ) | 2:16 |
 
-Snapshot ID: `AcZD6gAAAABsH9X127r6LWQmvBPgccMs`
+Snapshot ID: `AcZJgAAAAADPPZWqXxT2i7bcNmbFP3bI`

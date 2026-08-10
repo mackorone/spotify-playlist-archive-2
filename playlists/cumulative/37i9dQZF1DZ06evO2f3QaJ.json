@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "Zulu: de C\u00e9sar a Cristo (Vol.2)",
+        "url": "https://open.spotify.com/album/1LyBmcNMqiFH5KSUgTXVMT"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Wesley Camilo",
+          "url": "https://open.spotify.com/artist/7zMhTkT27OwM0G9qkZPbZT"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331581,
+      "name": "AFORTUNADO",
+      "url": "https://open.spotify.com/track/62OXYcRxQENTFUN9dqXl4L"
+    },
+    {
+      "album": {
         "name": "Zulu: Quarta Parede, Vol.3",
         "url": "https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ"
       },
@@ -1154,7 +1176,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 270405,
       "name": "MATRIX",
       "url": "https://open.spotify.com/track/1rMVg1PXOVwy5bG9WSVVC4"

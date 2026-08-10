@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Pedro Fernandez \ud83d\udcf8",
-  "num_followers": 368358,
+  "num_followers": 368360,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
-        "name": "Contigo Quiero (A Caballo)",
-        "url": "https://open.spotify.com/album/4EsebZYxCbdKCa8HHGmpL5"
-      },
-      "artists": [
-        {
-          "name": "Reyli Barba",
-          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
-        }
-      ],
-      "duration_ms": 251149,
-      "name": "Contigo Quiero (A Caballo)",
-      "url": "https://open.spotify.com/track/0A0SUCIQPukRmRMHhCe52z"
-    },
-    {
-      "added_at": "2026-07-24 06:00:42",
-      "album": {
         "name": "Si Nos Dejan",
         "url": "https://open.spotify.com/album/5j9hSlNRtpGy9I3g3Yl9wN"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 154903,
       "name": "Si Nos Dejan",
       "url": "https://open.spotify.com/track/6vjXvBlZCDxWhHinj2UkSl"
+    },
+    {
+      "added_at": "2026-07-24 06:00:42",
+      "album": {
+        "name": "Contigo Quiero (A Caballo)",
+        "url": "https://open.spotify.com/album/4EsebZYxCbdKCa8HHGmpL5"
+      },
+      "artists": [
+        {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        }
+      ],
+      "duration_ms": 251149,
+      "name": "Contigo Quiero (A Caballo)",
+      "url": "https://open.spotify.com/track/0A0SUCIQPukRmRMHhCe52z"
     },
     {
       "added_at": "2026-07-24 06:00:42",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
+        "name": "La Nostalgia",
+        "url": "https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 149569,
+      "name": "\u2060Cuatro Caminos",
+      "url": "https://open.spotify.com/track/1yVjUAt8Jn2ZCwXpWJ8Ohp"
+    },
+    {
+      "added_at": "2026-07-24 06:00:42",
+      "album": {
         "name": "Coleccionando Corazones",
         "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 124785,
       "name": "No soy para ti",
       "url": "https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi"
-    },
-    {
-      "added_at": "2026-07-24 06:00:42",
-      "album": {
-        "name": "La Nostalgia",
-        "url": "https://open.spotify.com/album/3kX6Sov6xamwye4u7n5aJr"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 149569,
-      "name": "\u2060Cuatro Caminos",
-      "url": "https://open.spotify.com/track/1yVjUAt8Jn2ZCwXpWJ8Ohp"
     },
     {
       "added_at": "2026-07-24 06:00:42",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
-        "name": "Rolitas Para Mis Abuelos",
-        "url": "https://open.spotify.com/album/5usns2sPfiQDKJBVWXLZ4U"
-      },
-      "artists": [
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        }
-      ],
-      "duration_ms": 230802,
-      "name": "100 Horas",
-      "url": "https://open.spotify.com/track/4H6mswx8rA37krmNa0Q6JD"
-    },
-    {
-      "added_at": "2026-07-24 06:00:42",
-      "album": {
         "name": "En Las Cantinas (En vivo)",
         "url": "https://open.spotify.com/album/2Y37D3boCOXZSf1IHURy9N"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 196377,
       "name": "No Me Amenaces (En Vivo)",
       "url": "https://open.spotify.com/track/4wSyFpCLJp4LBB7epKQZ1F"
+    },
+    {
+      "added_at": "2026-07-24 06:00:42",
+      "album": {
+        "name": "Rolitas Para Mis Abuelos",
+        "url": "https://open.spotify.com/album/5usns2sPfiQDKJBVWXLZ4U"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        }
+      ],
+      "duration_ms": 230802,
+      "name": "100 Horas",
+      "url": "https://open.spotify.com/track/4H6mswx8rA37krmNa0Q6JD"
     },
     {
       "added_at": "2026-07-24 06:00:42",
@@ -895,18 +895,18 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
-        "name": "\u00c9chenle Sal a la Herida",
-        "url": "https://open.spotify.com/album/2cisjg5dxHmq2DccUoyY1E"
+        "name": "Una Limosna",
+        "url": "https://open.spotify.com/album/6EYfW56o1eEgwuhPSthvnN"
       },
       "artists": [
         {
-          "name": "Laraim",
-          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
         }
       ],
-      "duration_ms": 199887,
-      "name": "Este Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6hYcfxnJxSdErfjN61a7db"
+      "duration_ms": 172422,
+      "name": "Una Limosna",
+      "url": "https://open.spotify.com/track/15z7cJ1vKveZ6drvbM5DeJ"
     },
     {
       "added_at": "2026-07-24 06:00:42",
@@ -927,18 +927,18 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
-        "name": "Una Limosna",
-        "url": "https://open.spotify.com/album/6EYfW56o1eEgwuhPSthvnN"
+        "name": "\u00c9chenle Sal a la Herida",
+        "url": "https://open.spotify.com/album/2cisjg5dxHmq2DccUoyY1E"
       },
       "artists": [
         {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
         }
       ],
-      "duration_ms": 172422,
-      "name": "Una Limosna",
-      "url": "https://open.spotify.com/track/15z7cJ1vKveZ6drvbM5DeJ"
+      "duration_ms": 199887,
+      "name": "Este Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6hYcfxnJxSdErfjN61a7db"
     },
     {
       "added_at": "2026-07-24 06:00:42",
@@ -959,18 +959,18 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
-        "name": "Lo Que Se Dice Amor",
-        "url": "https://open.spotify.com/album/4Ok20KmkESQQ0rRvpciMbI"
+        "name": "Los Amigos Asi",
+        "url": "https://open.spotify.com/album/0kcnRSs7sG2RgGb2MyQO7t"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Los Periquines de Don Ramon Torres",
+          "url": "https://open.spotify.com/artist/1TiZXq8MXu42KTrkRumlTZ"
         }
       ],
-      "duration_ms": 192935,
-      "name": "Lo Que Se Dice Amor",
-      "url": "https://open.spotify.com/track/14aDLVA80RCtKbOdS0eVG7"
+      "duration_ms": 207830,
+      "name": "Los Amigos Asi",
+      "url": "https://open.spotify.com/track/2ShRtZ8WAWcZQ3aVnh9yIK"
     },
     {
       "added_at": "2026-07-24 06:00:42",
@@ -995,18 +995,18 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
-        "name": "Angelito Sin Alas",
-        "url": "https://open.spotify.com/album/1X1ruDoYErT8r1phWKwTI5"
+        "name": "Lo Que Se Dice Amor",
+        "url": "https://open.spotify.com/album/4Ok20KmkESQQ0rRvpciMbI"
       },
       "artists": [
         {
-          "name": "Las Posada",
-          "url": "https://open.spotify.com/artist/4A9rAqUsLJOh3tEr5YTyll"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 168238,
-      "name": "Angelito Sin Alas",
-      "url": "https://open.spotify.com/track/3qSXwUNvSMFAfmrs1m4FIp"
+      "duration_ms": 192935,
+      "name": "Lo Que Se Dice Amor",
+      "url": "https://open.spotify.com/track/14aDLVA80RCtKbOdS0eVG7"
     },
     {
       "added_at": "2026-07-24 06:00:42",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
-        "name": "Los Amigos Asi",
-        "url": "https://open.spotify.com/album/0kcnRSs7sG2RgGb2MyQO7t"
+        "name": "Angelito Sin Alas",
+        "url": "https://open.spotify.com/album/1X1ruDoYErT8r1phWKwTI5"
       },
       "artists": [
         {
-          "name": "Los Periquines de Don Ramon Torres",
-          "url": "https://open.spotify.com/artist/1TiZXq8MXu42KTrkRumlTZ"
+          "name": "Las Posada",
+          "url": "https://open.spotify.com/artist/4A9rAqUsLJOh3tEr5YTyll"
         }
       ],
-      "duration_ms": 207830,
-      "name": "Los Amigos Asi",
-      "url": "https://open.spotify.com/track/2ShRtZ8WAWcZQ3aVnh9yIK"
+      "duration_ms": 168238,
+      "name": "Angelito Sin Alas",
+      "url": "https://open.spotify.com/track/3qSXwUNvSMFAfmrs1m4FIp"
     },
     {
       "added_at": "2026-07-24 06:00:42",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
-        "name": "Antes",
-        "url": "https://open.spotify.com/album/2KwDc1W3vu3mXC9x8Pun2i"
-      },
-      "artists": [
-        {
-          "name": "Marco Torres",
-          "url": "https://open.spotify.com/artist/6MBN1HxRdb0f4WorVxJF5H"
-        }
-      ],
-      "duration_ms": 184167,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/0t9cMv6daD2yN3QwOyQYux"
-    },
-    {
-      "added_at": "2026-07-24 06:00:42",
-      "album": {
         "name": "El Target",
         "url": "https://open.spotify.com/album/0jVQrG7MOjYvKP77Bgp5RQ"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 165693,
       "name": "El Target",
       "url": "https://open.spotify.com/track/6RBuiU0CCxBEMCwTT2LsqL"
+    },
+    {
+      "added_at": "2026-07-24 06:00:42",
+      "album": {
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/2KwDc1W3vu3mXC9x8Pun2i"
+      },
+      "artists": [
+        {
+          "name": "Marco Torres",
+          "url": "https://open.spotify.com/artist/6MBN1HxRdb0f4WorVxJF5H"
+        }
+      ],
+      "duration_ms": 184167,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/0t9cMv6daD2yN3QwOyQYux"
     },
     {
       "added_at": "2026-07-24 06:00:42",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
-        "name": "El Hielo Est\u00e1 Quemando",
-        "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 189884,
-      "name": "El Hielo Est\u00e1 Quemando",
-      "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
-    },
-    {
-      "added_at": "2026-07-24 06:00:42",
-      "album": {
         "name": "Porque la vida fue tan injusta",
         "url": "https://open.spotify.com/album/1mqinqq5gulmdyVKo2yFG9"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 182424,
       "name": "Porque la vida fue tan injusta",
       "url": "https://open.spotify.com/track/0UFITqMeRXH6cqgSIYN1pr"
+    },
+    {
+      "added_at": "2026-07-24 06:00:42",
+      "album": {
+        "name": "El Hielo Est\u00e1 Quemando",
+        "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 189884,
+      "name": "El Hielo Est\u00e1 Quemando",
+      "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
     },
     {
       "added_at": "2026-07-24 06:00:42",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
-        "name": "Un Abrazo (Versi\u00f3n Regional)",
-        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 238500,
-      "name": "Un Abrazo - Versi\u00f3n Regional",
-      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
-    },
-    {
-      "added_at": "2026-07-24 06:00:42",
-      "album": {
         "name": "Me Gustas",
         "url": "https://open.spotify.com/album/6cYMpnl0sZOgF1XmjhzYwy"
       },
@@ -1447,18 +1431,18 @@
     {
       "added_at": "2026-07-24 06:00:42",
       "album": {
-        "name": "Olvidarte",
-        "url": "https://open.spotify.com/album/4k2PMe609GRbQjzUztSDWh"
+        "name": "Un Abrazo (Versi\u00f3n Regional)",
+        "url": "https://open.spotify.com/album/5gwNUXcnQpmaik21UHDS5H"
       },
       "artists": [
         {
-          "name": "Horacio de Jes\u00fas",
-          "url": "https://open.spotify.com/artist/7KKH9zlrjetM4JvkzrvDNY"
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         }
       ],
-      "duration_ms": 158866,
-      "name": "Olvidarte",
-      "url": "https://open.spotify.com/track/2TD16DpXgveHeMqrKzCc0W"
+      "duration_ms": 238500,
+      "name": "Un Abrazo - Versi\u00f3n Regional",
+      "url": "https://open.spotify.com/track/0QO0d6FjUjvcb65xu832YQ"
     },
     {
       "added_at": "2026-07-24 06:00:42",
@@ -1475,6 +1459,22 @@
       "duration_ms": 222080,
       "name": "Pintando sue\u00f1os",
       "url": "https://open.spotify.com/track/4UKmYn5sjGpalQ30l1ixwG"
+    },
+    {
+      "added_at": "2026-07-24 06:00:42",
+      "album": {
+        "name": "Olvidarte",
+        "url": "https://open.spotify.com/album/4k2PMe609GRbQjzUztSDWh"
+      },
+      "artists": [
+        {
+          "name": "Horacio de Jes\u00fas",
+          "url": "https://open.spotify.com/artist/7KKH9zlrjetM4JvkzrvDNY"
+        }
+      ],
+      "duration_ms": 158866,
+      "name": "Olvidarte",
+      "url": "https://open.spotify.com/track/2TD16DpXgveHeMqrKzCc0W"
     },
     {
       "added_at": "2026-07-24 06:00:42",

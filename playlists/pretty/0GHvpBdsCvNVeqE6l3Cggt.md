@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,290 likes - 42 songs - 2 hr 44 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,290 likes - 43 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,5 +50,6 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 40 | [Encore](https://open.spotify.com/track/5eZSfaYMxkv5ewOQZ0ym3A) | [Dead Cig](https://open.spotify.com/artist/40exCTjWyMDi5Dz2EjdQJk), [Yukari](https://open.spotify.com/artist/47ON3kEf9Ju9wgGSKlANVW) | [Encore](https://open.spotify.com/album/0ejCM55cONRZ8sn1ovtwoi) | 3:55 |
 | 41 | [Is there a chance of love in outer space? \- live](https://open.spotify.com/track/0J4r8L8PIgBHPMFH2bKUKk) | [Vitamin Dream](https://open.spotify.com/artist/3miIpoYoSTSZK65dHLXRlE) | [Is there a chance of love in outer space? \(live\)](https://open.spotify.com/album/3TREYrIvrCqg7vZkqYIZ3u) | 4:50 |
 | 42 | [MAX OUT](https://open.spotify.com/track/5pDkBCb5021OJNNTmtLfOV) | [dummy co.](https://open.spotify.com/artist/6r4qoWqXf8eQXCPHawb3RF), [Kool Karlo](https://open.spotify.com/artist/3dHzT8qGSboKwYhi7SMQUb) | [MAX OUT](https://open.spotify.com/album/4RHWCqUVZOGnbhYie712hF) | 3:12 |
+| 43 | [Boys Wear Blue](https://open.spotify.com/track/6uLG0kC1IyMhhj2DPydi2d) | [Left Out](https://open.spotify.com/artist/0u5lJCQCtzpkMkfckgeTwr) | [Boys Wear Blue](https://open.spotify.com/album/41291ChmIYkSjvsfJH4oKY) | 4:23 |
 
-Snapshot ID: `AAAkW63izTZNCpvXfTgaSInLTZewfRta`
+Snapshot ID: `AAAkXH4Sow2Zu2V+/3H6ZGMe4hvUpU06`

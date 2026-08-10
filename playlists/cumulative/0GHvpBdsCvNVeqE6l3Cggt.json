@@ -297,6 +297,24 @@
     },
     {
       "album": {
+        "name": "Boys Wear Blue",
+        "url": "https://open.spotify.com/album/41291ChmIYkSjvsfJH4oKY"
+      },
+      "artists": [
+        {
+          "name": "Left Out",
+          "url": "https://open.spotify.com/artist/0u5lJCQCtzpkMkfckgeTwr"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263808,
+      "name": "Boys Wear Blue",
+      "url": "https://open.spotify.com/track/6uLG0kC1IyMhhj2DPydi2d"
+    },
+    {
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/7zJxan3akf2KbCg6snqX3L"
       },

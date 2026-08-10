@@ -1,6 +1,6 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 12488,
+  "num_followers": 12500,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
+        "name": "The Encounter",
+        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 204795,
+      "name": "Akokyem Nyame",
+      "url": "https://open.spotify.com/track/1LSikFgLBvM5zoYAlFNmE8"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
         "name": "Wobeye Kese",
         "url": "https://open.spotify.com/album/19Pot8xfxGm7MiV1aruupT"
       },
@@ -539,22 +555,6 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "Cindy's Messiah",
-        "url": "https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD"
-      },
-      "artists": [
-        {
-          "name": "Cindy Thompson",
-          "url": "https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd"
-        }
-      ],
-      "duration_ms": 305213,
-      "name": "Nyame Eguamba",
-      "url": "https://open.spotify.com/track/3rlWZJJR3L0RunfNccDCWB"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
         "name": "Ghana Gospel Classics, Vol. 1",
         "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
       },
@@ -567,6 +567,38 @@
       "duration_ms": 331389,
       "name": "Enyi Me Mma",
       "url": "https://open.spotify.com/track/3jT6EePgDYEyeXCyH6GPYS"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/2c8wWhCqIkrZLiNwix2PUv"
+      },
+      "artists": [
+        {
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+        }
+      ],
+      "duration_ms": 269169,
+      "name": "Mo Ne Yo",
+      "url": "https://open.spotify.com/track/2dopQvR9fcAJwlR40o3yLD"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
+        "name": "Cindy's Messiah",
+        "url": "https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD"
+      },
+      "artists": [
+        {
+          "name": "Cindy Thompson",
+          "url": "https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd"
+        }
+      ],
+      "duration_ms": 305213,
+      "name": "Nyame Eguamba",
+      "url": "https://open.spotify.com/track/3rlWZJJR3L0RunfNccDCWB"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -607,38 +639,6 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/2c8wWhCqIkrZLiNwix2PUv"
-      },
-      "artists": [
-        {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
-        }
-      ],
-      "duration_ms": 269169,
-      "name": "Mo Ne Yo",
-      "url": "https://open.spotify.com/track/2dopQvR9fcAJwlR40o3yLD"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
-        "name": "Cindy's Messiah",
-        "url": "https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD"
-      },
-      "artists": [
-        {
-          "name": "Cindy Thompson",
-          "url": "https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd"
-        }
-      ],
-      "duration_ms": 377280,
-      "name": "Awanwan Do",
-      "url": "https://open.spotify.com/track/3u08knojRQ81BB2GXTAHXz"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
         "name": "The Altar",
         "url": "https://open.spotify.com/album/6aGS6hhyjFgwrO1voxYyk4"
       },
@@ -671,6 +671,38 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
+        "name": "Cindy's Messiah",
+        "url": "https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD"
+      },
+      "artists": [
+        {
+          "name": "Cindy Thompson",
+          "url": "https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd"
+        }
+      ],
+      "duration_ms": 377280,
+      "name": "Awanwan Do",
+      "url": "https://open.spotify.com/track/3u08knojRQ81BB2GXTAHXz"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
+        "name": "Afe Ato Me",
+        "url": "https://open.spotify.com/album/1QaWoExSDXeUkEEP7WKr8Q"
+      },
+      "artists": [
+        {
+          "name": "Stella Seal",
+          "url": "https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI"
+        }
+      ],
+      "duration_ms": 314148,
+      "name": "Ebenezer",
+      "url": "https://open.spotify.com/track/1F4U4726baiMPBAaXCVolt"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
         "name": "Yesu Do",
         "url": "https://open.spotify.com/album/2zGL04iYPYg8nKkGe4Mk8k"
       },
@@ -683,90 +715,6 @@
       "duration_ms": 350328,
       "name": "Yesu Do",
       "url": "https://open.spotify.com/track/0sfKnmCHt4H48vqNyho6Jn"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
-        "name": "The Encounter",
-        "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 204795,
-      "name": "Akokyem Nyame",
-      "url": "https://open.spotify.com/track/1LSikFgLBvM5zoYAlFNmE8"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
-        "name": "Mahunu Awurade",
-        "url": "https://open.spotify.com/album/220ot3O4EpWJ7xdeaTyJnS"
-      },
-      "artists": [
-        {
-          "name": "Stella Seal",
-          "url": "https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI"
-        }
-      ],
-      "duration_ms": 359366,
-      "name": "Okura Yen Mu",
-      "url": "https://open.spotify.com/track/5pvcXgJ57PxmzkrQI9UP6p"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
-        "name": "Cindy's Messiah",
-        "url": "https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD"
-      },
-      "artists": [
-        {
-          "name": "Cindy Thompson",
-          "url": "https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd"
-        }
-      ],
-      "duration_ms": 462000,
-      "name": "Awurade Kasa",
-      "url": "https://open.spotify.com/track/5mInFrdNxVsfBUeoUazXmo"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
-        "name": "Sacrifice",
-        "url": "https://open.spotify.com/album/2QMBRCMuXbK1J8gq9F1BGm"
-      },
-      "artists": [
-        {
-          "name": "Dsp Kofi Sarpong",
-          "url": "https://open.spotify.com/artist/5n5XQctzehn4LwiGS2A0el"
-        }
-      ],
-      "duration_ms": 378666,
-      "name": "Ayeyi Ndowm",
-      "url": "https://open.spotify.com/track/1aiVyCnIAwKXX19mySlqu1"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
-        "name": "I Am Noble",
-        "url": "https://open.spotify.com/album/6DRvrYraGgKanmBJIfqwVF"
-      },
-      "artists": [
-        {
-          "name": "Noble Nketsiah",
-          "url": "https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd"
-        },
-        {
-          "name": "Joyce Blessing",
-          "url": "https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI"
-        }
-      ],
-      "duration_ms": 244297,
-      "name": "Ayeyi",
-      "url": "https://open.spotify.com/track/6EfsJGWyEb7ja8zInmtRNY"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -787,6 +735,38 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
+        "name": "Sacrifice",
+        "url": "https://open.spotify.com/album/2QMBRCMuXbK1J8gq9F1BGm"
+      },
+      "artists": [
+        {
+          "name": "Dsp Kofi Sarpong",
+          "url": "https://open.spotify.com/artist/5n5XQctzehn4LwiGS2A0el"
+        }
+      ],
+      "duration_ms": 378666,
+      "name": "Ayeyi Ndowm",
+      "url": "https://open.spotify.com/track/1aiVyCnIAwKXX19mySlqu1"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
+        "name": "Cindy's Messiah",
+        "url": "https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD"
+      },
+      "artists": [
+        {
+          "name": "Cindy Thompson",
+          "url": "https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd"
+        }
+      ],
+      "duration_ms": 462000,
+      "name": "Awurade Kasa",
+      "url": "https://open.spotify.com/track/5mInFrdNxVsfBUeoUazXmo"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
         "name": "Afe Ato Me",
         "url": "https://open.spotify.com/album/1QaWoExSDXeUkEEP7WKr8Q"
       },
@@ -796,9 +776,29 @@
           "url": "https://open.spotify.com/artist/4xoLUMaBonp3ZZyAzrl3WI"
         }
       ],
-      "duration_ms": 314148,
-      "name": "Ebenezer",
-      "url": "https://open.spotify.com/track/1F4U4726baiMPBAaXCVolt"
+      "duration_ms": 331520,
+      "name": "Ayeyi",
+      "url": "https://open.spotify.com/track/2OjAeyBRxMlPDGN9LeIfuC"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
+        "name": "I Am Noble",
+        "url": "https://open.spotify.com/album/6DRvrYraGgKanmBJIfqwVF"
+      },
+      "artists": [
+        {
+          "name": "Noble Nketsiah",
+          "url": "https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd"
+        },
+        {
+          "name": "Joyce Blessing",
+          "url": "https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI"
+        }
+      ],
+      "duration_ms": 244297,
+      "name": "Ayeyi",
+      "url": "https://open.spotify.com/track/6EfsJGWyEb7ja8zInmtRNY"
     },
     {
       "added_at": "2025-01-09 09:53:00",

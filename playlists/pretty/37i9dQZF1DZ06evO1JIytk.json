@@ -1,12 +1,12 @@
 {
   "description": "This is Anti-Flag. The essential tracks, all in one playlist.",
-  "num_followers": 16649,
+  "num_followers": 16652,
   "original_name": "This Is Anti-Flag",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anUgAAAAAACn26e9jR2J3DBG2djxlQrH",
+  "snapshot_id": "anZxgAAAAABV/Uj+kC3L6cTWC77Bqrtt",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Underground Network",
-        "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Stars And Stripes",
-      "url": "https://open.spotify.com/track/3gLAEYt0z19cKt7XnmNdpX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A New Kind of Army",
         "url": "https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 153991,
       "name": "Captain Anarchy",
       "url": "https://open.spotify.com/track/1tqC8SbK0zAPOOhq0YXc5Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Underground Network",
+        "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Stars And Stripes",
+      "url": "https://open.spotify.com/track/3gLAEYt0z19cKt7XnmNdpX"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Underground Network",
-        "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 98120,
-      "name": "This Machine Kills Fascists",
-      "url": "https://open.spotify.com/track/0QROJn3UK5EoA7BzvDTRGq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The People Or the Gun",
         "url": "https://open.spotify.com/album/4NS1jEndIEIYDwLT7HaaYu"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 170400,
       "name": "Sodom, Gomorrah, Washington D.C. (Sheep in Shepherds Clothing)",
       "url": "https://open.spotify.com/track/2chElQHFe6YyegzUbFBd1Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Underground Network",
+        "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 98120,
+      "name": "This Machine Kills Fascists",
+      "url": "https://open.spotify.com/track/0QROJn3UK5EoA7BzvDTRGq"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Fall",
-        "url": "https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts"
+        "name": "The Terror State",
+        "url": "https://open.spotify.com/album/0TLPBodu3hDPeudOo37sZA"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 169426,
-      "name": "Finish What We Started",
-      "url": "https://open.spotify.com/track/1XZVctTif3B1ojGOqXkoze"
+      "duration_ms": 136773,
+      "name": "Sold As Freedom",
+      "url": "https://open.spotify.com/track/4aWMR6vD0wxCqP76DmCc8M"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Terror State",
-        "url": "https://open.spotify.com/album/0TLPBodu3hDPeudOo37sZA"
+        "name": "Hooligans United a Tribute to Rancid",
+        "url": "https://open.spotify.com/album/3fNR9RPA8gWdl8DHyEylPv"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 136773,
-      "name": "Sold As Freedom",
-      "url": "https://open.spotify.com/track/4aWMR6vD0wxCqP76DmCc8M"
+      "duration_ms": 77992,
+      "name": "Maxwell Murder",
+      "url": "https://open.spotify.com/track/2FSHOstfVfHia9eBS6vz9t"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hooligans United a Tribute to Rancid",
-        "url": "https://open.spotify.com/album/3fNR9RPA8gWdl8DHyEylPv"
+        "name": "American Fall",
+        "url": "https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 77992,
-      "name": "Maxwell Murder",
-      "url": "https://open.spotify.com/track/2FSHOstfVfHia9eBS6vz9t"
+      "duration_ms": 169426,
+      "name": "Finish What We Started",
+      "url": "https://open.spotify.com/track/1XZVctTif3B1ojGOqXkoze"
     },
     {
       "added_at": null,

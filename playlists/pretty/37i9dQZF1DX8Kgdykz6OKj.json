@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1588856,
+  "num_followers": 1588934,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-08-07 04:00:26",
       "album": {
-        "name": "Samurai",
-        "url": "https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 194786,
-      "name": "Samurai",
-      "url": "https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ"
-    },
-    {
-      "added_at": "2026-08-07 04:00:26",
-      "album": {
         "name": "Todas Son Iguales",
         "url": "https://open.spotify.com/album/7zklsb4VVTzrEHWlA2GiPm"
       },
@@ -947,18 +931,38 @@
     {
       "added_at": "2026-08-07 04:00:26",
       "album": {
-        "name": "RBT",
-        "url": "https://open.spotify.com/album/7tRd6qHR20ZfJKcGYGXbai"
+        "name": "Samurai",
+        "url": "https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 194786,
+      "name": "Samurai",
+      "url": "https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ"
+    },
+    {
+      "added_at": "2026-08-07 04:00:26",
+      "album": {
+        "name": "1995",
+        "url": "https://open.spotify.com/album/5ZqVzbaifdjMAYbIRDfFGy"
       },
       "artists": [
         {
           "name": "Freddie Gibbs",
           "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 147504,
-      "name": "Axxtion",
-      "url": "https://open.spotify.com/track/2Uv3ZRtLNlAGvKPPga3Cru"
+      "duration_ms": 289426,
+      "name": "1995",
+      "url": "https://open.spotify.com/track/0Qopdd7xJyhNd3tcvZEAgG"
     },
     {
       "added_at": "2026-08-07 04:00:26",
@@ -1003,22 +1007,6 @@
     {
       "added_at": "2026-08-07 04:00:26",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/3E7lljIMKcipr3i5LT4sOp"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 236759,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/48h1wMdyPIasyZ8thTVoQU"
-    },
-    {
-      "added_at": "2026-08-07 04:00:26",
-      "album": {
         "name": "Done By The Forces Of Nature",
         "url": "https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V"
       },
@@ -1035,38 +1023,34 @@
     {
       "added_at": "2026-08-07 04:00:26",
       "album": {
-        "name": "1995",
-        "url": "https://open.spotify.com/album/5ZqVzbaifdjMAYbIRDfFGy"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/3E7lljIMKcipr3i5LT4sOp"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 236759,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/48h1wMdyPIasyZ8thTVoQU"
+    },
+    {
+      "added_at": "2026-08-07 04:00:26",
+      "album": {
+        "name": "RBT",
+        "url": "https://open.spotify.com/album/7tRd6qHR20ZfJKcGYGXbai"
       },
       "artists": [
         {
           "name": "Freddie Gibbs",
           "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 289426,
-      "name": "1995",
-      "url": "https://open.spotify.com/track/0Qopdd7xJyhNd3tcvZEAgG"
-    },
-    {
-      "added_at": "2026-08-07 04:00:26",
-      "album": {
-        "name": "The LP",
-        "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
-      },
-      "artists": [
-        {
-          "name": "Large Professor",
-          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "The LP",
-      "url": "https://open.spotify.com/track/3TGJJERElA998ZlJcfA1Qz"
+      "duration_ms": 147504,
+      "name": "Axxtion",
+      "url": "https://open.spotify.com/track/2Uv3ZRtLNlAGvKPPga3Cru"
     },
     {
       "added_at": "2026-08-07 04:00:26",
@@ -1083,6 +1067,22 @@
       "duration_ms": 238573,
       "name": "Memories Live",
       "url": "https://open.spotify.com/track/0kHIEdWbOvnrvTmRfPtHDN"
+    },
+    {
+      "added_at": "2026-08-07 04:00:26",
+      "album": {
+        "name": "The LP",
+        "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
+      },
+      "artists": [
+        {
+          "name": "Large Professor",
+          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "The LP",
+      "url": "https://open.spotify.com/track/3TGJJERElA998ZlJcfA1Qz"
     },
     {
       "added_at": "2026-08-07 04:00:26",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2026-08-07 04:00:26",
       "album": {
+        "name": "Dontsweatit!",
+        "url": "https://open.spotify.com/album/5D7mogWyOLJ0yyC8ySmZst"
+      },
+      "artists": [
+        {
+          "name": "Mike Shabb",
+          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
+        },
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        }
+      ],
+      "duration_ms": 134430,
+      "name": "Dontsweatit!",
+      "url": "https://open.spotify.com/track/3OoyHdTCzRyrBHKFyuaP7q"
+    },
+    {
+      "added_at": "2026-08-07 04:00:26",
+      "album": {
         "name": "POETRY JAM (feat. Foggieraw)",
         "url": "https://open.spotify.com/album/080MkxfDcHTrtEs0JGkb1z"
       },
@@ -1219,22 +1239,6 @@
     {
       "added_at": "2026-08-07 04:00:26",
       "album": {
-        "name": "A Fine African Man",
-        "url": "https://open.spotify.com/album/5U3QsEVbwluoPEPIElii3d"
-      },
-      "artists": [
-        {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
-        }
-      ],
-      "duration_ms": 163666,
-      "name": "MASQUERADE",
-      "url": "https://open.spotify.com/track/4rFOEXj5IdCmvGCQAYBN4V"
-    },
-    {
-      "added_at": "2026-08-07 04:00:26",
-      "album": {
         "name": "vitamins n minerals",
         "url": "https://open.spotify.com/album/5cg0UpSJLtYi9Ehy49tzy0"
       },
@@ -1247,6 +1251,22 @@
       "duration_ms": 150312,
       "name": "vitamins n minerals",
       "url": "https://open.spotify.com/track/67Z4kW9iuiiSIl5UnodaKr"
+    },
+    {
+      "added_at": "2026-08-07 04:00:26",
+      "album": {
+        "name": "A Fine African Man",
+        "url": "https://open.spotify.com/album/5U3QsEVbwluoPEPIElii3d"
+      },
+      "artists": [
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "duration_ms": 163666,
+      "name": "MASQUERADE",
+      "url": "https://open.spotify.com/track/4rFOEXj5IdCmvGCQAYBN4V"
     },
     {
       "added_at": "2026-08-07 04:00:26",
@@ -1607,30 +1627,6 @@
     {
       "added_at": "2026-08-07 04:00:26",
       "album": {
-        "name": "Please Don't Cry",
-        "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
-      },
-      "artists": [
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Niko Brim",
-          "url": "https://open.spotify.com/artist/1leUdTmVH8GDaAQIqhvq7r"
-        }
-      ],
-      "duration_ms": 164656,
-      "name": "Raw (feat. Lil Wayne & Niko Brim)",
-      "url": "https://open.spotify.com/track/70MJj7zBmquKRFSUXJ5y8b"
-    },
-    {
-      "added_at": "2026-08-07 04:00:26",
-      "album": {
         "name": "IMMORTAL",
         "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
       },
@@ -1667,8 +1663,32 @@
     {
       "added_at": "2026-08-07 04:00:26",
       "album": {
-        "name": "e.t.d.s. A Mixtape by .idk.",
-        "url": "https://open.spotify.com/album/0CfaDINhy5bFTz9UwM7WAF"
+        "name": "Please Don't Cry",
+        "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Niko Brim",
+          "url": "https://open.spotify.com/artist/1leUdTmVH8GDaAQIqhvq7r"
+        }
+      ],
+      "duration_ms": 164656,
+      "name": "Raw (feat. Lil Wayne & Niko Brim)",
+      "url": "https://open.spotify.com/track/70MJj7zBmquKRFSUXJ5y8b"
+    },
+    {
+      "added_at": "2026-08-07 04:00:26",
+      "album": {
+        "name": "PRiNCE GEORGE",
+        "url": "https://open.spotify.com/album/7KgX5kBpWVvLiYLjSo6po1"
       },
       "artists": [
         {
@@ -1676,17 +1696,13 @@
           "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
         },
         {
-          "name": "Black Thought",
-          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
-        },
-        {
-          "name": "Likkle Jordee",
-          "url": "https://open.spotify.com/artist/67nc9inFEDdyhAXaFXqUZB"
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
         }
       ],
-      "duration_ms": 178342,
-      "name": "P.O",
-      "url": "https://open.spotify.com/track/7KIriYANPEsBGTZoF5WwUB"
+      "duration_ms": 165853,
+      "name": "PRiNCE GEORGE",
+      "url": "https://open.spotify.com/track/3E25CVg6Am2imRZTBVtfVZ"
     },
     {
       "added_at": "2026-08-07 04:00:26",
@@ -1775,8 +1791,8 @@
     {
       "added_at": "2026-08-07 04:00:26",
       "album": {
-        "name": "PRiNCE GEORGE",
-        "url": "https://open.spotify.com/album/7KgX5kBpWVvLiYLjSo6po1"
+        "name": "e.t.d.s. A Mixtape by .idk.",
+        "url": "https://open.spotify.com/album/0CfaDINhy5bFTz9UwM7WAF"
       },
       "artists": [
         {
@@ -1784,13 +1800,17 @@
           "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
         },
         {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        },
+        {
+          "name": "Likkle Jordee",
+          "url": "https://open.spotify.com/artist/67nc9inFEDdyhAXaFXqUZB"
         }
       ],
-      "duration_ms": 165853,
-      "name": "PRiNCE GEORGE",
-      "url": "https://open.spotify.com/track/3E25CVg6Am2imRZTBVtfVZ"
+      "duration_ms": 178342,
+      "name": "P.O",
+      "url": "https://open.spotify.com/track/7KIriYANPEsBGTZoF5WwUB"
     },
     {
       "added_at": "2026-08-07 04:00:26",
@@ -1819,6 +1839,26 @@
     {
       "added_at": "2026-08-07 04:00:26",
       "album": {
+        "name": "Syrup Sandwiches (feat. Joey Bada$$)",
+        "url": "https://open.spotify.com/album/1w9YQWImmASvP0wGitaF4i"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 173320,
+      "name": "Syrup Sandwiches (feat. Joey Bada$$)",
+      "url": "https://open.spotify.com/track/2BYffiV0F3ZGKVLuQjmjY2"
+    },
+    {
+      "added_at": "2026-08-07 04:00:26",
+      "album": {
         "name": "UP & AWAY!",
         "url": "https://open.spotify.com/album/2jlmcvz0xlwOsOGbiMFz7b"
       },
@@ -1839,26 +1879,6 @@
       "duration_ms": 157500,
       "name": "UP & AWAY!",
       "url": "https://open.spotify.com/track/5yMM5wMKQJC0oIC8kFnMAD"
-    },
-    {
-      "added_at": "2026-08-07 04:00:26",
-      "album": {
-        "name": "Syrup Sandwiches (feat. Joey Bada$$)",
-        "url": "https://open.spotify.com/album/1w9YQWImmASvP0wGitaF4i"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 173320,
-      "name": "Syrup Sandwiches (feat. Joey Bada$$)",
-      "url": "https://open.spotify.com/track/2BYffiV0F3ZGKVLuQjmjY2"
     },
     {
       "added_at": "2026-08-07 04:00:26",
@@ -1899,26 +1919,6 @@
       "duration_ms": 187941,
       "name": "We Do It (Jazz Spastiks Remix)",
       "url": "https://open.spotify.com/track/4K34pgg236OrVDAS6ArcMi"
-    },
-    {
-      "added_at": "2026-08-07 04:00:26",
-      "album": {
-        "name": "Modal Soul",
-        "url": "https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS"
-      },
-      "artists": [
-        {
-          "name": "Nujabes",
-          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
-        },
-        {
-          "name": "Cise Starr & Akin from CYNE",
-          "url": "https://open.spotify.com/artist/0NQ5kUvKwC9r53V095i0np"
-        }
-      ],
-      "duration_ms": 175360,
-      "name": "Feather (feat. Cise Starr & Akin from CYNE)",
-      "url": "https://open.spotify.com/track/2ej1A2Ze6P2EOW7KfIosZR"
     },
     {
       "added_at": "2026-08-07 04:00:26",
@@ -1987,26 +1987,22 @@
     {
       "added_at": "2026-08-07 04:00:26",
       "album": {
-        "name": "THE FALL",
-        "url": "https://open.spotify.com/album/1QgFO7rwG1CZafxysAP6zP"
+        "name": "Modal Soul",
+        "url": "https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS"
       },
       "artists": [
         {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
         },
         {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        },
-        {
-          "name": "Braxton Cook",
-          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+          "name": "Cise Starr & Akin from CYNE",
+          "url": "https://open.spotify.com/artist/0NQ5kUvKwC9r53V095i0np"
         }
       ],
-      "duration_ms": 200989,
-      "name": "THE FALL",
-      "url": "https://open.spotify.com/track/26Zg7dZQtAMYIpEHD3SYci"
+      "duration_ms": 175360,
+      "name": "Feather (feat. Cise Starr & Akin from CYNE)",
+      "url": "https://open.spotify.com/track/2ej1A2Ze6P2EOW7KfIosZR"
     }
   ],
   "unique_name": "Jazz Rap",

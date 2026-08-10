@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Yammi",
-  "num_followers": 11108,
+  "num_followers": 11120,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -359,26 +359,6 @@
     {
       "added_at": "2026-08-06 23:59:15",
       "album": {
-        "name": "Ganda",
-        "url": "https://open.spotify.com/album/3fouXgLz0yUNZzTUuQnFW8"
-      },
-      "artists": [
-        {
-          "name": "Mzee wa Bwax",
-          "url": "https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9"
-        },
-        {
-          "name": "D Voice",
-          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Ganda",
-      "url": "https://open.spotify.com/track/3jLHB3D1Nk2eH15et5avoL"
-    },
-    {
-      "added_at": "2026-08-06 23:59:15",
-      "album": {
         "name": "A DAY TO REMEMBER",
         "url": "https://open.spotify.com/album/5dclc98AKoG0OmQBLndQFJ"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 244645,
       "name": "EX WA NANI",
       "url": "https://open.spotify.com/track/20RY7KkpJUxhhH4glf4Tzt"
+    },
+    {
+      "added_at": "2026-08-06 23:59:15",
+      "album": {
+        "name": "Ganda",
+        "url": "https://open.spotify.com/album/3fouXgLz0yUNZzTUuQnFW8"
+      },
+      "artists": [
+        {
+          "name": "Mzee wa Bwax",
+          "url": "https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9"
+        },
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Ganda",
+      "url": "https://open.spotify.com/track/3jLHB3D1Nk2eH15et5avoL"
     },
     {
       "added_at": "2026-08-06 23:59:15",
@@ -887,22 +887,18 @@
     {
       "added_at": "2026-08-06 23:59:15",
       "album": {
-        "name": "Umekopwa",
-        "url": "https://open.spotify.com/album/2Kp8OjPf5MXnFVwddqNy8X"
+        "name": "Stress",
+        "url": "https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD"
       },
       "artists": [
         {
-          "name": "MABANTU",
-          "url": "https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8"
-        },
-        {
-          "name": "D Voice",
-          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL"
         }
       ],
-      "duration_ms": 283884,
-      "name": "Umekopwa",
-      "url": "https://open.spotify.com/track/2n7tGYrsfxxMTfdUFpaokG"
+      "duration_ms": 252043,
+      "name": "Stress",
+      "url": "https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg"
     },
     {
       "added_at": "2026-08-06 23:59:15",
@@ -927,18 +923,22 @@
     {
       "added_at": "2026-08-06 23:59:15",
       "album": {
-        "name": "Stress",
-        "url": "https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD"
+        "name": "Umekopwa",
+        "url": "https://open.spotify.com/album/2Kp8OjPf5MXnFVwddqNy8X"
       },
       "artists": [
         {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL"
+          "name": "MABANTU",
+          "url": "https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8"
+        },
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
         }
       ],
-      "duration_ms": 252043,
-      "name": "Stress",
-      "url": "https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg"
+      "duration_ms": 283884,
+      "name": "Umekopwa",
+      "url": "https://open.spotify.com/track/2n7tGYrsfxxMTfdUFpaokG"
     },
     {
       "added_at": "2026-08-06 23:59:15",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-08-06 23:59:15",
       "album": {
-        "name": "Nikizipata",
-        "url": "https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4"
-      },
-      "artists": [
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Nikizipata",
-      "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"
-    },
-    {
-      "added_at": "2026-08-06 23:59:15",
-      "album": {
         "name": "Kumi Za Moto",
         "url": "https://open.spotify.com/album/7vTszg8Bz4fiLkDqryx2xL"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 206200,
       "name": "Mtaani Kwetu",
       "url": "https://open.spotify.com/track/7wHcrG6ULMo6MtPfVro6je"
+    },
+    {
+      "added_at": "2026-08-06 23:59:15",
+      "album": {
+        "name": "Nikizipata",
+        "url": "https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4"
+      },
+      "artists": [
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Nikizipata",
+      "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"
     },
     {
       "added_at": "2026-08-06 23:59:15",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-08-06 23:59:15",
       "album": {
-        "name": "Dua",
-        "url": "https://open.spotify.com/album/3zr0XmzcH06k2mejKtW2A7"
-      },
-      "artists": [
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
-        }
-      ],
-      "duration_ms": 282984,
-      "name": "Dua",
-      "url": "https://open.spotify.com/track/5CZXDKVNmd2NGJtrtuhnT1"
-    },
-    {
-      "added_at": "2026-08-06 23:59:15",
-      "album": {
         "name": "Maturity EP",
         "url": "https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 270460,
       "name": "Hatujui",
       "url": "https://open.spotify.com/track/5TRX2T7BNBFINuTOCpb8ZN"
+    },
+    {
+      "added_at": "2026-08-06 23:59:15",
+      "album": {
+        "name": "Dua",
+        "url": "https://open.spotify.com/album/3zr0XmzcH06k2mejKtW2A7"
+      },
+      "artists": [
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "duration_ms": 282984,
+      "name": "Dua",
+      "url": "https://open.spotify.com/track/5CZXDKVNmd2NGJtrtuhnT1"
     },
     {
       "added_at": "2026-08-06 23:59:15",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2026-08-06 23:59:15",
       "album": {
+        "name": "Alisema Ananipenda",
+        "url": "https://open.spotify.com/album/6ZOhQ5ArzHgpHAmWNnp3NQ"
+      },
+      "artists": [
+        {
+          "name": "Msomali",
+          "url": "https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc"
+        },
+        {
+          "name": "Jb Mabaga",
+          "url": "https://open.spotify.com/artist/0krCWwIqylCQnAqHJ2MhAj"
+        }
+      ],
+      "duration_ms": 185286,
+      "name": "Alisema Ananipenda",
+      "url": "https://open.spotify.com/track/3ojYtb6d8mksXZizPp7koX"
+    },
+    {
+      "added_at": "2026-08-06 23:59:15",
+      "album": {
         "name": "Maokoto",
         "url": "https://open.spotify.com/album/42BkNLDMP0zEbvzJaS3JuG"
       },
@@ -1399,22 +1419,6 @@
       "duration_ms": 272933,
       "name": "Chura",
       "url": "https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g"
-    },
-    {
-      "added_at": "2026-08-06 23:59:15",
-      "album": {
-        "name": "Shobo",
-        "url": "https://open.spotify.com/album/1BXDsftgGPlLb7tGHCqquQ"
-      },
-      "artists": [
-        {
-          "name": "Barnaba",
-          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
-        }
-      ],
-      "duration_ms": 186193,
-      "name": "Shobo",
-      "url": "https://open.spotify.com/track/2JjBpdexI7ov1iDdfZPISk"
     }
   ],
   "unique_name": "Singeli Sounds",

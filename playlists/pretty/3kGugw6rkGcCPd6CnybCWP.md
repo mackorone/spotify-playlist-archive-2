@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,165 likes - 76 songs - 4 hr 34 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,165 likes - 77 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,5 +84,6 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 74 | [BALLET BILLY](https://open.spotify.com/track/6s75SQOvQynztfiYTc5mrC) | [Cut Manners](https://open.spotify.com/artist/1OXL2MCFMKck1RMwKvcvNT) | [BALLET BILLY](https://open.spotify.com/album/1HUnj0XuLs6AQ6TxKrNr37) | 1:46 |
 | 75 | [Forgot Yourself](https://open.spotify.com/track/4gjVeBKRlrYomqpxVTTsdo) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [NOISY NOISY NOISY](https://open.spotify.com/album/4oHDtLPLddcvThx2SDwMBm) | 2:52 |
 | 76 | [A Million Miles Away](https://open.spotify.com/track/4rU2hKYGURP7h18SYQ0Nzf) | [Whisky Sugar](https://open.spotify.com/artist/6OqFOZbNzmvC2BodLx9Iw6) | [A Million Miles Away](https://open.spotify.com/album/5NNokKgXWExS1Pu54fIJ6G) | 7:12 |
+| 77 | [Leave](https://open.spotify.com/track/24eQ0gaztPwAT44pHozFI5) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Leave](https://open.spotify.com/album/2CadloDYbh46qgdzOWfoQ0) | 3:08 |
 
-Snapshot ID: `AAAPuC88dETtQpG3/Lyik4HaHo1df7K4`
+Snapshot ID: `AAAPuTWpNJ0X2VVUhoK65xJK1O8e5RfD`

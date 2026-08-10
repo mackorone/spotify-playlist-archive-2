@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,324 songs - 5 day 0 hr 32 min
+2,325 songs - 5 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,7 @@
 | [Brighter Life](https://open.spotify.com/track/1UxaiijiAG3CLAhID10Cqo) | [Kristin Amparo](https://open.spotify.com/artist/2vxWDuk2inw00eo3Hag2QR) | [Brighter Life](https://open.spotify.com/album/1F3NJS50TEnU0RbLGV284n) | 3:05 | 2024-03-07 | 2024-04-19 |
 | [Bring it on, bring it all \- BIJI Remix](https://open.spotify.com/track/3RSnTjmCxNadbi4zKlrVWF) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc), [BIJI](https://open.spotify.com/artist/2spZzA9c41ahb6OIXkYJgy) | [Bring it on, bring it all \(BIJI Remix\)](https://open.spotify.com/album/4WfZemYndRi5j4INB3qC72) | 3:42 | 2025-05-22 | 2025-08-16 |
 | [Brinner](https://open.spotify.com/track/0emeZAXCygTTC6in4gEVtK) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Brinner](https://open.spotify.com/album/5xEDiyvCJ4v7SoepIV9Ne6) | 3:41 | 2023-03-30 | 2023-05-07 |
-| [Brogatan](https://open.spotify.com/track/2xDsMtle47sbnSTRM94XxO) | [Klara Almström](https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3) | [Brogatan](https://open.spotify.com/album/0DOsLquaCnBPZhJujGFidL) | 3:04 | 2026-07-02 |  |
+| [Brogatan](https://open.spotify.com/track/2xDsMtle47sbnSTRM94XxO) | [Klara Almström](https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3) | [Brogatan](https://open.spotify.com/album/0DOsLquaCnBPZhJujGFidL) | 3:04 | 2026-07-02 | 2026-08-10 |
 | [Broken Halo](https://open.spotify.com/track/3Gg8RDjN0ewyQ2mFWPpIYH) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Broken Halo](https://open.spotify.com/album/04j1OTKs16Db2n40x6Hrh4) | 2:56 | 2025-06-26 | 2025-09-19 |
 | [Bruises](https://open.spotify.com/track/4bUPB5OTmN7L6l82MC1pa4) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Bruises](https://open.spotify.com/album/7jgXloTEyFpZ3p366I0PO1) | 4:04 | 2023-10-19 | 2023-11-06 |
 | [Bryr du dig?](https://open.spotify.com/track/12SwCJOrLV1Kga1KvlFpV8) | [Frida Lif](https://open.spotify.com/artist/69qWf1qLvLjd5Pu9APRL0Y) | [Bryr du dig?](https://open.spotify.com/album/35uChkVg1hcrWAc0oC6HW8) | 3:42 | 2024-05-02 | 2024-05-24 |
@@ -623,6 +623,7 @@
 | [Farstaglitter](https://open.spotify.com/track/2vNZOd1Yj32A5dfonkf2vB) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Rathana Club](https://open.spotify.com/album/25S91oeTVaNfdmvSuk17Vw) | 2:51 | 2021-12-16 | 2022-03-10 |
 | [Fartdårar](https://open.spotify.com/track/7KxEJiz9780bNowu0ukBb0) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Fartdårar](https://open.spotify.com/album/5Y1MsRF1YHUv5Vzfk8tIJU) | 2:40 | 2026-04-16 | 2026-05-05 |
 | [Farväl](https://open.spotify.com/track/78ojtQHsb5KBUjjTIJGvf1) | [Nardn](https://open.spotify.com/artist/0G8ErRr1bYNudAR1otxbvp) | [Farväl](https://open.spotify.com/album/4xrJlXt3MvNTbfNPuQfHrK) | 2:32 | 2024-04-18 | 2024-05-17 |
+| [Fast Lane](https://open.spotify.com/track/0KraHSiibM4cJR5pgfbI97) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Fast Lane](https://open.spotify.com/album/2vMgit0PMLiycYbYeu1Zas) | 2:54 | 2026-08-06 |  |
 | [Fast med dig](https://open.spotify.com/track/2KIzBv4vFeLtO50WBbHGKk) | [Ness Hakin](https://open.spotify.com/artist/73SA7OgBvMc1GGRyius3UN) | [Fast med dig](https://open.spotify.com/album/1ENEtJUy1nmsK4isB1YXl6) | 2:38 | 2022-05-26 | 2022-07-29 |
 | [Fattiga & Rika](https://open.spotify.com/track/2EIxY5QoWuXUNNyPrnHg3b) | [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Fattiga & Rika](https://open.spotify.com/album/1DMi8QGUj1fzhgqG0XodjI) | 2:41 | 2025-05-01 | 2025-05-25 |
 | [Feberdrömmar](https://open.spotify.com/track/3sk4gzlXoaylQ3DR3NdnKK) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen // Feberdrömmar](https://open.spotify.com/album/44SPK7QVLYgoYVB7A3auuS) | 3:23 | 2025-05-16 | 2025-09-14 |
@@ -869,7 +870,7 @@
 | [Higher Power](https://open.spotify.com/track/5X72zZ8sbbYXXEARdbZpgG) | [Anna Bergendahl](https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9) | [Higher Power](https://open.spotify.com/album/7LXf4A7JFlFBoH8eppUo0H) | 3:00 | 2022-03-10 | 2022-09-16 |
 | [Highway](https://open.spotify.com/track/2YauDO4935sBGnV5C7M7r7) | [Julius](https://open.spotify.com/artist/0z3L14pVgawbyez74SLf1U) | [Highway](https://open.spotify.com/album/1FUt5mvfCu2xChvr9PdUNG) | 3:30 | 2022-06-23 | 2022-06-25 |
 | [HIGHWAY TO YOUR HEART](https://open.spotify.com/track/1ejiXFwhoCVvM1z0uh32fr) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [HIGHWAY TO YOUR HEART](https://open.spotify.com/album/5Ribl5MGlDtgUfWKQI10Ew) | 3:59 | 2022-04-22 | 2022-04-28 |
-| [Hillbillyn i mig](https://open.spotify.com/track/7Ie1Fr2n3bBLp2Q17rbf9a) | [Erika Jonsson](https://open.spotify.com/artist/3hmxqVdRQUfpPNDpV5VqLx) | [Hillbillyn i mig](https://open.spotify.com/album/6jbSOtNryn2EwKgqFT9G8v) | 2:50 | 2026-07-30 | 2026-08-07 |
+| [Hillbillyn i mig](https://open.spotify.com/track/7Ie1Fr2n3bBLp2Q17rbf9a) | [Erika Jonsson](https://open.spotify.com/artist/3hmxqVdRQUfpPNDpV5VqLx) | [Hillbillyn i mig](https://open.spotify.com/album/6jbSOtNryn2EwKgqFT9G8v) | 2:50 | 2026-07-30 |  |
 | [Himlavalvet](https://open.spotify.com/track/46vGHCzuuYkTQgjo1LfTDb) | [Zacke](https://open.spotify.com/artist/3jKd96grbdWoh56whvFnX2), [Alma Augusta](https://open.spotify.com/artist/6gLUeiwk4tkbg7tJ8xg6ck) | [Noir](https://open.spotify.com/album/63xg12h0P4PtLPHP5FTEKo) | 4:02 | 2024-10-10 | 2024-11-11 |
 | [Himlen i handen \(feat\. Thomas Stenström\)](https://open.spotify.com/track/1m2cKncanBJAAMVO1WkCRQ) | [Division 7](https://open.spotify.com/artist/3z6F8NIRs126ddMywopmfP), [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Himlen i handen \(feat\. Thomas Stenström\)](https://open.spotify.com/album/5snT9oFQy7RVPfsYxrsdRN) | 4:03 | 2026-01-22 | 2026-06-12 |
 | [Himlen kan vänta](https://open.spotify.com/track/49YQrm6c4eOrYfzmbYS3jG) | [WAHL](https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z), [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Himlen kan vänta](https://open.spotify.com/album/2kS8HnTbJCr6AtCYUCJZyO) | 3:16 | 2022-04-07 | 2022-07-23 |
@@ -1632,7 +1633,7 @@
 | [Regnblöta skor](https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Regnblöta skor](https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt) | 2:30 | 2024-08-08 | 2025-03-14 |
 | [RIDE](https://open.spotify.com/track/3D4RIZPQz299XfUEge0YRp) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [RIDE](https://open.spotify.com/album/6obIhl2Q0t8ingZMMSCQtO) | 3:58 | 2022-06-16 | 2022-07-27 |
 | [Right?](https://open.spotify.com/track/0rlQX2kAXfahhZdju8woGk) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Right?](https://open.spotify.com/album/4jSF49BrBnMJHw60Aoowmw) | 2:56 | 2024-06-06 | 2024-08-09 |
-| [Ring mig](https://open.spotify.com/track/04OVPwGPTvOe5A88zHZsub) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [Ring mig](https://open.spotify.com/album/7b6XoHCw7wYunL5SuEN7PA) | 2:26 | 2026-05-14 |  |
+| [Ring mig](https://open.spotify.com/track/04OVPwGPTvOe5A88zHZsub) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [Ring mig](https://open.spotify.com/album/7b6XoHCw7wYunL5SuEN7PA) | 2:26 | 2026-05-14 | 2026-08-10 |
 | [Ringar på vatten](https://open.spotify.com/track/0TKpAnZTeEnPkVbbTD2tHY) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Ringar på vatten](https://open.spotify.com/album/0TLgK4U330eUAGOJok5Anc) | 2:33 | 2025-08-14 | 2026-01-02 |
 | [Ringar på vattnet](https://open.spotify.com/track/3OdKjjuVdUhtVI69DHBRRC) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Ringar på vattnet](https://open.spotify.com/album/7DEgBk8CBHmxiIgznhJFaY) | 2:42 | 2021-12-16 | 2022-03-11 |
 | [Rise](https://open.spotify.com/track/4pIqEyfEnHL3Am3ig8G8ar) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Rise](https://open.spotify.com/album/5FZ5wrX285cl3UTyjY7B96) | 3:43 | 2022-10-06 | 2023-08-11 |

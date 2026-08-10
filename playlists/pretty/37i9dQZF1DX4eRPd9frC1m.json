@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a> ",
-  "num_followers": 2570935,
+  "num_followers": 2570873,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -731,42 +731,6 @@
     {
       "added_at": "2026-08-07 04:02:25",
       "album": {
-        "name": "Lock It",
-        "url": "https://open.spotify.com/album/5su5O4VTUXWkRpK56jHg96"
-      },
-      "artists": [
-        {
-          "name": "Flowidus",
-          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
-        },
-        {
-          "name": "Loboski",
-          "url": "https://open.spotify.com/artist/6GzqzmyvgpTUPzIOpJfVeS"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Lock It",
-      "url": "https://open.spotify.com/track/3Uzj3nb1oMb7gD7K7MKlQz"
-    },
-    {
-      "added_at": "2026-08-07 04:02:25",
-      "album": {
-        "name": "CHARIOT",
-        "url": "https://open.spotify.com/album/6rxJtynr8rSzkzwecAtUYA"
-      },
-      "artists": [
-        {
-          "name": "ROSSY",
-          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "move! (that body)",
-      "url": "https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn"
-    },
-    {
-      "added_at": "2026-08-07 04:02:25",
-      "album": {
         "name": "Fuck It Up",
         "url": "https://open.spotify.com/album/2ByC6BK9XEUuK043NpUGB3"
       },
@@ -787,6 +751,42 @@
       "duration_ms": 132974,
       "name": "Fuck It Up",
       "url": "https://open.spotify.com/track/0PBQS0GycsYJ4yJJRjAIXU"
+    },
+    {
+      "added_at": "2026-08-07 04:02:25",
+      "album": {
+        "name": "CHARIOT",
+        "url": "https://open.spotify.com/album/6rxJtynr8rSzkzwecAtUYA"
+      },
+      "artists": [
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "move! (that body)",
+      "url": "https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn"
+    },
+    {
+      "added_at": "2026-08-07 04:02:25",
+      "album": {
+        "name": "Lock It",
+        "url": "https://open.spotify.com/album/5su5O4VTUXWkRpK56jHg96"
+      },
+      "artists": [
+        {
+          "name": "Flowidus",
+          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+        },
+        {
+          "name": "Loboski",
+          "url": "https://open.spotify.com/artist/6GzqzmyvgpTUPzIOpJfVeS"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Lock It",
+      "url": "https://open.spotify.com/track/3Uzj3nb1oMb7gD7K7MKlQz"
     },
     {
       "added_at": "2026-08-07 04:02:25",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-08-07 04:02:25",
       "album": {
+        "name": "F*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3",
+        "url": "https://open.spotify.com/album/784znju28Nz5zSuRuthPcO"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 129629,
+      "name": "VOLTAGE",
+      "url": "https://open.spotify.com/track/227u7P0lZxYfBH9KjT1gsf"
+    },
+    {
+      "added_at": "2026-08-07 04:02:25",
+      "album": {
         "name": "Move Your Body",
         "url": "https://open.spotify.com/album/2h4HitkMjJBl62Nq8dHcdY"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 205249,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/4N83wAazucqM5dhLMWEv0r"
-    },
-    {
-      "added_at": "2026-08-07 04:02:25",
-      "album": {
-        "name": "F*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3",
-        "url": "https://open.spotify.com/album/784znju28Nz5zSuRuthPcO"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 129629,
-      "name": "VOLTAGE",
-      "url": "https://open.spotify.com/track/227u7P0lZxYfBH9KjT1gsf"
     },
     {
       "added_at": "2026-08-07 04:02:25",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-08-07 04:02:25",
       "album": {
+        "name": "LIKE ME",
+        "url": "https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "duration_ms": 207964,
+      "name": "LIKE ME",
+      "url": "https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5"
+    },
+    {
+      "added_at": "2026-08-07 04:02:25",
+      "album": {
         "name": "Name Drop",
         "url": "https://open.spotify.com/album/6mrEmNiDqgKLM38kUpyrbp"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 228800,
       "name": "Name Drop",
       "url": "https://open.spotify.com/track/02yaX0Reb1fQYIQdri4Ow8"
-    },
-    {
-      "added_at": "2026-08-07 04:02:25",
-      "album": {
-        "name": "LIKE ME",
-        "url": "https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        }
-      ],
-      "duration_ms": 207964,
-      "name": "LIKE ME",
-      "url": "https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5"
     },
     {
       "added_at": "2026-08-07 04:02:25",
@@ -1207,18 +1207,22 @@
     {
       "added_at": "2026-08-07 04:02:25",
       "album": {
-        "name": "Make You Move",
-        "url": "https://open.spotify.com/album/6Ivi4D1oC0lM7gDgyvq7gr"
+        "name": "Pour Your Heart Out (feat. 070 Shake)",
+        "url": "https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T"
       },
       "artists": [
         {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Make You Move",
-      "url": "https://open.spotify.com/track/5FwShfnXbAeoEVtS3d37cQ"
+      "duration_ms": 223561,
+      "name": "Pour Your Heart Out (feat. 070 Shake)",
+      "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
     },
     {
       "added_at": "2026-08-07 04:02:25",
@@ -1239,22 +1243,18 @@
     {
       "added_at": "2026-08-07 04:02:25",
       "album": {
-        "name": "Pour Your Heart Out (feat. 070 Shake)",
-        "url": "https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T"
+        "name": "Make You Move",
+        "url": "https://open.spotify.com/album/6Ivi4D1oC0lM7gDgyvq7gr"
       },
       "artists": [
         {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
         }
       ],
-      "duration_ms": 223561,
-      "name": "Pour Your Heart Out (feat. 070 Shake)",
-      "url": "https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT"
+      "duration_ms": 144000,
+      "name": "Make You Move",
+      "url": "https://open.spotify.com/track/5FwShfnXbAeoEVtS3d37cQ"
     },
     {
       "added_at": "2026-08-07 04:02:25",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2026-08-07 04:02:25",
       "album": {
+        "name": "IN THE ALLEY",
+        "url": "https://open.spotify.com/album/1ULgYsHVDh6c1zn5UPIqGh"
+      },
+      "artists": [
+        {
+          "name": "ALLEYCVT",
+          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
+        }
+      ],
+      "duration_ms": 162206,
+      "name": "IN THE ALLEY",
+      "url": "https://open.spotify.com/track/6rLZY5Jlr3PJVsMf9k6ixF"
+    },
+    {
+      "added_at": "2026-08-07 04:02:25",
+      "album": {
         "name": "MINDFULL",
         "url": "https://open.spotify.com/album/7sS3QPN6balmYBP3JPvjMb"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 176000,
       "name": "Gyrate (ft. Wreckno)",
       "url": "https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA"
-    },
-    {
-      "added_at": "2026-08-07 04:02:25",
-      "album": {
-        "name": "IN THE ALLEY",
-        "url": "https://open.spotify.com/album/1ULgYsHVDh6c1zn5UPIqGh"
-      },
-      "artists": [
-        {
-          "name": "ALLEYCVT",
-          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
-        }
-      ],
-      "duration_ms": 162206,
-      "name": "IN THE ALLEY",
-      "url": "https://open.spotify.com/track/6rLZY5Jlr3PJVsMf9k6ixF"
     },
     {
       "added_at": "2026-08-07 04:02:25",
@@ -1563,26 +1563,26 @@
     {
       "added_at": "2026-08-07 04:02:25",
       "album": {
-        "name": "Blue Mile",
-        "url": "https://open.spotify.com/album/77I9ebOxX1nxDk8vlJNUH9"
+        "name": "HORSEPOWER",
+        "url": "https://open.spotify.com/album/1aTPCuMzOFFEZrVLny4LTw"
       },
       "artists": [
         {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
         },
         {
-          "name": "Barclay Crenshaw",
-          "url": "https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR"
+          "name": "Jkyl & Hyde",
+          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
         },
         {
-          "name": "Strategy",
-          "url": "https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3"
+          "name": "CREG",
+          "url": "https://open.spotify.com/artist/3BoSgaNGMiAiEyRxECZgc9"
         }
       ],
-      "duration_ms": 212571,
-      "name": "Blue Mile",
-      "url": "https://open.spotify.com/track/5EIyuLTiZwAmmlsqxdLJC0"
+      "duration_ms": 186666,
+      "name": "HORSEPOWER",
+      "url": "https://open.spotify.com/track/431KvcIeLTgVEqlz42WzU3"
     }
   ],
   "unique_name": "Hype",

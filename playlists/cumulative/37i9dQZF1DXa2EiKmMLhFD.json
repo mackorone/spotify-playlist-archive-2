@@ -955,6 +955,28 @@
     },
     {
       "album": {
+        "name": "Bulan Bintang, Garis Menyilang",
+        "url": "https://open.spotify.com/album/2yz71Y5q037CryRvOsILS9"
+      },
+      "artists": [
+        {
+          "name": "Wijaya 80",
+          "url": "https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX"
+        },
+        {
+          "name": "Sal Priadi",
+          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332654,
+      "name": "Bulan Bintang, Garis Menyilang",
+      "url": "https://open.spotify.com/track/4XjtlZNz9eOA55q3Em4P3B"
+    },
+    {
+      "album": {
         "name": "Bulan Dikekang Malam (From ''Ayat Ayat Cinta 2'')",
         "url": "https://open.spotify.com/album/50mMnTDrXLCCFEE5zzWS69"
       },
@@ -2862,7 +2884,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 191141,
       "name": "Kata Mereka Ini Berlebihan",
       "url": "https://open.spotify.com/track/15xaVF0miqkphP0O0TZRs7"
@@ -3040,6 +3062,24 @@
       "duration_ms": 236752,
       "name": "Kita Bikin Romantis",
       "url": "https://open.spotify.com/track/7geh51STedQfizitdiNPCg"
+    },
+    {
+      "album": {
+        "name": "Kita Lewati Berdua",
+        "url": "https://open.spotify.com/album/5MUKAQZAisxQQqMmfTx4M4"
+      },
+      "artists": [
+        {
+          "name": "Overnight",
+          "url": "https://open.spotify.com/artist/0ZkNSRvBK767bNOCdXKeYK"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239629,
+      "name": "Kita Lewati Berdua",
+      "url": "https://open.spotify.com/track/5Enpui55il1ZW0HgwRTSds"
     },
     {
       "album": {
@@ -6216,7 +6256,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 191079,
       "name": "Tak Ada Yang Sepertimu",
       "url": "https://open.spotify.com/track/5Yh1sTQAU3BTIKMp3K5ZOX"

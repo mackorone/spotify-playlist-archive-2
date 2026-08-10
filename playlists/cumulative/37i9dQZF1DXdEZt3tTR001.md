@@ -4,7 +4,7 @@
 
 > lay back\. chill out.
 
-430 songs - 1 day 3 hr 7 min
+431 songs - 1 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Insecurities \(feat\. Moses Sumney\)](https://open.spotify.com/track/3IiaROiVHOVkwfX1DCHM31) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Perceive Its Beauty, Acknowledge Its Grace](https://open.spotify.com/album/6vIwPo3D1kZ3ZmlR1fyjm7) | 4:39 | 2024-04-17 | 2024-06-01 |
 | [Inside My Love](https://open.spotify.com/track/7yngji6ogBXvAJdeOSBHAP) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Adventures In Paradise](https://open.spotify.com/album/0OoRiTZs9hsRz7KxB8JkSX) | 4:48 | 2023-03-01 |  |
 | [Insomnia](https://open.spotify.com/track/7b5zrhSZ2UNKVza8Fnfv6N) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08) | [Insomnia](https://open.spotify.com/album/1I8HPrHRyiVzrySgQTOY9A) | 2:59 | 2025-08-15 | 2025-08-23 |
+| [its not about me!](https://open.spotify.com/track/02UI5paChJe2PHsi0nikly) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [its not about me!](https://open.spotify.com/album/3EcqQco9MASQejGgqBGGAu) | 2:51 | 2026-07-31 |  |
 | [I’D MISS THE BIRDS](https://open.spotify.com/track/2uIsTZsypUTHzRunshIcNd) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I’D MISS THE BIRDS](https://open.spotify.com/album/4HzZEBP0zL6DKUg85QtfkW) | 3:09 | 2024-09-16 | 2024-10-24 |
 | [I’ll Go Anywhere](https://open.spotify.com/track/2K4XkJgiPjUGtnwSIM6xxi) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Dunya](https://open.spotify.com/album/16sGrLUTzqz0Z43j9qMn8S) | 2:34 | 2024-10-04 | 2025-03-30 |
 | [J'adore](https://open.spotify.com/track/2WMuRiY7bRE6jHErx5vT6L) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [J'adore](https://open.spotify.com/album/3FlEgJw00sq1LuZjWgAJYu) | 3:26 | 2024-08-16 | 2024-10-05 |
@@ -211,7 +212,7 @@
 | [Janice STFU](https://open.spotify.com/track/4QRj2ITD1uws1n3PqW58DJ) | [Strings From Paris](https://open.spotify.com/artist/4c520eahgQwzeJopRch4k4) | [Janice STFU](https://open.spotify.com/album/7txPCAreOj79ldBCLmv6xC) | 2:48 | 2026-06-12 |  |
 | [Jeans \(fall on my knees\)](https://open.spotify.com/track/4HQRpId1zdfYT9GaZyd58g) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Jeans \(fall on my knees\)](https://open.spotify.com/album/56wlH7RJiq4cy2HiVVz16g) | 2:58 | 2025-01-23 | 2025-05-02 |
 | [Jill Scott \(feat\. Jill Scott\)](https://open.spotify.com/track/7ajm1QlAaMFkNFlpZbcceL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 4:05 | 2022-04-22 | 2023-05-08 |
-| [Julia](https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Julia](https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV) | 3:09 | 2025-07-25 |  |
+| [Julia](https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Julia](https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV) | 3:09 | 2025-07-25 | 2026-08-10 |
 | [JUNGLE FEVER](https://open.spotify.com/track/13UTxl4QLqbrTpQ9drcKGa) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:31 | 2025-05-09 | 2025-09-28 |
 | [Just Because](https://open.spotify.com/track/1SQNrrJNmUaqkOg3i7Q4Lb) | [Conya Doss](https://open.spotify.com/artist/67ONfRSpITV4rWHCQGSS3R) | [Just Because](https://open.spotify.com/album/4llnsu7PbYbDxLOw0oXd17) | 3:51 | 2021-08-18 | 2022-08-13 |
 | [Just Wait A Minute](https://open.spotify.com/track/2XBcAlAlbXsx13Q4Czs6cG) | [Elysia Biro](https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L) | [Just Wait A Minute](https://open.spotify.com/album/05pfw7Rs7dirnwvQc8LnxQ) | 3:22 | 2025-09-12 | 2025-09-28 |

@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAPuC88dETtQpG3/Lyik4HaHo1df7K4",
+  "snapshot_id": "AAAPuTWpNJ0X2VVUhoK65xJK1O8e5RfD",
   "tracks": [
     {
       "added_at": "2026-06-01 22:08:37",
@@ -1255,6 +1255,22 @@
       "duration_ms": 432810,
       "name": "A Million Miles Away",
       "url": "https://open.spotify.com/track/4rU2hKYGURP7h18SYQ0Nzf"
+    },
+    {
+      "added_at": "2026-08-09 12:41:54",
+      "album": {
+        "name": "Leave",
+        "url": "https://open.spotify.com/album/2CadloDYbh46qgdzOWfoQ0"
+      },
+      "artists": [
+        {
+          "name": "The Color Blew",
+          "url": "https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz"
+        }
+      ],
+      "duration_ms": 188083,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/24eQ0gaztPwAT44pHozFI5"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

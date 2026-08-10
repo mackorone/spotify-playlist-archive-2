@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 368217,
+  "num_followers": 368205,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "Good Without",
-        "url": "https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 182121,
-      "name": "Good Without",
-      "url": "https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 176040,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
+        "name": "Good Without",
+        "url": "https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 182121,
+      "name": "Good Without",
+      "url": "https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/0HAb43LIP2Gf9bYwRfBgY6"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/5wtSei6pJpDEB1iKqPHhfU"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
         "name": "Kuss.",
         "url": "https://open.spotify.com/album/6o39VGaYw6CC8gJL3e0rGs"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 198218,
       "name": "Sch\u00f6n genug",
       "url": "https://open.spotify.com/track/2S5FeDvQmmI9iLq8SdCsB2"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/0HAb43LIP2Gf9bYwRfBgY6"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/5wtSei6pJpDEB1iKqPHhfU"
     },
     {
       "added_at": "2026-08-06 22:00:47",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-08-06 22:00:47",
       "album": {
-        "name": "Flugmodus",
-        "url": "https://open.spotify.com/album/3c5nMaXOVRSlECOQPB4TAy"
-      },
-      "artists": [
-        {
-          "name": "Clueso",
-          "url": "https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW"
-        }
-      ],
-      "duration_ms": 178469,
-      "name": "Flugmodus",
-      "url": "https://open.spotify.com/track/2iNzRQE0MlCaSHbHGzmbN2"
-    },
-    {
-      "added_at": "2026-08-06 22:00:47",
-      "album": {
         "name": "Good Old Days",
         "url": "https://open.spotify.com/album/0oHB2HAnWAToJvn7c4qZIt"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 179893,
       "name": "Good Old Days",
       "url": "https://open.spotify.com/track/4oWMKNeoD1ghLCy37m0wQ1"
+    },
+    {
+      "added_at": "2026-08-06 22:00:47",
+      "album": {
+        "name": "Flugmodus",
+        "url": "https://open.spotify.com/album/3c5nMaXOVRSlECOQPB4TAy"
+      },
+      "artists": [
+        {
+          "name": "Clueso",
+          "url": "https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW"
+        }
+      ],
+      "duration_ms": 178469,
+      "name": "Flugmodus",
+      "url": "https://open.spotify.com/track/2iNzRQE0MlCaSHbHGzmbN2"
     },
     {
       "added_at": "2026-08-06 22:00:47",

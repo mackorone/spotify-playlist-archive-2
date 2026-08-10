@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: saveaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,145 likes - 80 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,199 likes - 80 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "a state of mind. Cover: Charley Crockett",
-  "num_followers": 225088,
+  "num_followers": 225155,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 231720,
-      "name": "Devil Always Made Me Think Twice",
-      "url": "https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX"
-    },
-    {
-      "added_at": "2026-07-24 04:01:57",
-      "album": {
         "name": "Copperhead Road",
         "url": "https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 269920,
       "name": "Copperhead Road",
       "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
+    },
+    {
+      "added_at": "2026-07-24 04:01:57",
+      "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 231720,
+      "name": "Devil Always Made Me Think Twice",
+      "url": "https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX"
     },
     {
       "added_at": "2026-07-24 04:01:57",
@@ -579,18 +579,18 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/7m37BYCQsU73ZHxF1EPg1Z"
+        "name": "Montana Caf\u00e9",
+        "url": "https://open.spotify.com/album/4Wp49MODsJfTP1n0ZspbHf"
       },
       "artists": [
         {
-          "name": "The Steeldrivers",
-          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
         }
       ],
-      "duration_ms": 374440,
-      "name": "Ghosts Of Mississippi",
-      "url": "https://open.spotify.com/track/0H7ROR8cZTsh6YUgnlqjM2"
+      "duration_ms": 237866,
+      "name": "Country State Of Mind",
+      "url": "https://open.spotify.com/track/262r1LfhrukxXCMymvPaTA"
     },
     {
       "added_at": "2026-07-24 04:01:57",
@@ -627,18 +627,18 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
-        "name": "Montana Caf\u00e9",
-        "url": "https://open.spotify.com/album/4Wp49MODsJfTP1n0ZspbHf"
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/7m37BYCQsU73ZHxF1EPg1Z"
       },
       "artists": [
         {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+          "name": "The Steeldrivers",
+          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
         }
       ],
-      "duration_ms": 237866,
-      "name": "Country State Of Mind",
-      "url": "https://open.spotify.com/track/262r1LfhrukxXCMymvPaTA"
+      "duration_ms": 374440,
+      "name": "Ghosts Of Mississippi",
+      "url": "https://open.spotify.com/track/0H7ROR8cZTsh6YUgnlqjM2"
     },
     {
       "added_at": "2026-07-24 04:01:57",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
+        "name": "A Decade Of Hits",
+        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
+      },
+      "artists": [
+        {
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+        }
+      ],
+      "duration_ms": 240106,
+      "name": "Long Haired Country Boy",
+      "url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
+    },
+    {
+      "added_at": "2026-07-24 04:01:57",
+      "album": {
         "name": "The Essential Merle Haggard: The Epic Years",
         "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 287626,
       "name": "Pancho and Lefty",
       "url": "https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6"
-    },
-    {
-      "added_at": "2026-07-24 04:01:57",
-      "album": {
-        "name": "A Decade Of Hits",
-        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
-      },
-      "artists": [
-        {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
-        }
-      ],
-      "duration_ms": 240106,
-      "name": "Long Haired Country Boy",
-      "url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
     },
     {
       "added_at": "2026-07-24 04:01:57",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
-        "name": "All Your'n",
-        "url": "https://open.spotify.com/album/3GnTjxsOBLdqm6A5yXTcaL"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 218280,
-      "name": "All Your'n",
-      "url": "https://open.spotify.com/track/3AK75yY57gkBbSPOqzn6GW"
-    },
-    {
-      "added_at": "2026-07-24 04:01:57",
-      "album": {
         "name": "Kristofferson",
         "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 275690,
       "name": "Sunday Mornin' Comin' Down",
       "url": "https://open.spotify.com/track/4JwFrnLLSO4qqxOeHQATf4"
+    },
+    {
+      "added_at": "2026-07-24 04:01:57",
+      "album": {
+        "name": "All Your'n",
+        "url": "https://open.spotify.com/album/3GnTjxsOBLdqm6A5yXTcaL"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 218280,
+      "name": "All Your'n",
+      "url": "https://open.spotify.com/track/3AK75yY57gkBbSPOqzn6GW"
     },
     {
       "added_at": "2026-07-24 04:01:57",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
-        "name": "Car Wheels On A Gravel Road",
-        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-        }
-      ],
-      "duration_ms": 284560,
-      "name": "Car Wheels On A Gravel Road",
-      "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
-    },
-    {
-      "added_at": "2026-07-24 04:01:57",
-      "album": {
         "name": "Kristofferson",
         "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 147909,
       "name": "Help Me Make It Through the Night",
       "url": "https://open.spotify.com/track/2KU944ARlycn1xv8W4I3Oe"
+    },
+    {
+      "added_at": "2026-07-24 04:01:57",
+      "album": {
+        "name": "Car Wheels On A Gravel Road",
+        "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+        }
+      ],
+      "duration_ms": 284560,
+      "name": "Car Wheels On A Gravel Road",
+      "url": "https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty"
     },
     {
       "added_at": "2026-07-24 04:01:57",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
-        "name": "HANDMADE HORSEPOWER",
-        "url": "https://open.spotify.com/album/15Raa91N9o1zEJWGa3PN3c"
-      },
-      "artists": [
-        {
-          "name": "Colby Acuff",
-          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
-        }
-      ],
-      "duration_ms": 167002,
-      "name": "MATTER OF TIME",
-      "url": "https://open.spotify.com/track/2HqhM00bAu7wmIWOueIVVJ"
-    },
-    {
-      "added_at": "2026-07-24 04:01:57",
-      "album": {
         "name": "Corralling the Blues",
         "url": "https://open.spotify.com/album/1GWoPqXhA9YAUTb95Y4V8t"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 213888,
       "name": "White River",
       "url": "https://open.spotify.com/track/7aPheHQPhcxNxohoVAtB7Q"
+    },
+    {
+      "added_at": "2026-07-24 04:01:57",
+      "album": {
+        "name": "HANDMADE HORSEPOWER",
+        "url": "https://open.spotify.com/album/15Raa91N9o1zEJWGa3PN3c"
+      },
+      "artists": [
+        {
+          "name": "Colby Acuff",
+          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
+        }
+      ],
+      "duration_ms": 167002,
+      "name": "MATTER OF TIME",
+      "url": "https://open.spotify.com/track/2HqhM00bAu7wmIWOueIVVJ"
     },
     {
       "added_at": "2026-07-24 04:01:57",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {
+        "name": "I'm Just an Old Chunk of Coal...But I'm Gonna Be a Diamond Someday",
+        "url": "https://open.spotify.com/album/2xT7Iz0twqRnDbGCRLDygq"
+      },
+      "artists": [
+        {
+          "name": "Billy Joe Shaver",
+          "url": "https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz"
+        }
+      ],
+      "duration_ms": 121400,
+      "name": "I'm Just an Old Chunk of Coal (But I'm Gonna Be a Diamond Someday)",
+      "url": "https://open.spotify.com/track/0TOKl39WfOPXEvARhG92oj"
+    },
+    {
+      "added_at": "2026-07-24 04:01:57",
+      "album": {
         "name": "Outlaw Shit (feat. Shooter Jennings)",
         "url": "https://open.spotify.com/album/0wL6TUhFe9DutCDj6oIjDq"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 245046,
       "name": "Outlaw Shit (feat. Shooter Jennings)",
       "url": "https://open.spotify.com/track/1KLNhIijEB83TXz78CIK72"
-    },
-    {
-      "added_at": "2026-07-24 04:01:57",
-      "album": {
-        "name": "I'm Just an Old Chunk of Coal...But I'm Gonna Be a Diamond Someday",
-        "url": "https://open.spotify.com/album/2xT7Iz0twqRnDbGCRLDygq"
-      },
-      "artists": [
-        {
-          "name": "Billy Joe Shaver",
-          "url": "https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz"
-        }
-      ],
-      "duration_ms": 121400,
-      "name": "I'm Just an Old Chunk of Coal (But I'm Gonna Be a Diamond Someday)",
-      "url": "https://open.spotify.com/track/0TOKl39WfOPXEvARhG92oj"
     },
     {
       "added_at": "2026-07-24 04:01:57",

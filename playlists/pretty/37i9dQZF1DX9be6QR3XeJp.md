@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Abbie Gordon
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,358 likes - 292 songs - 15 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,357 likes - 292 songs - 15 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

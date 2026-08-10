@@ -1,13 +1,89 @@
 {
   "description": "The best tracks from the world of music. Cover: JENNIE",
-  "num_followers": 175701,
+  "num_followers": 175700,
   "original_name": "Hot Hits Singapore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABdpPiBfxNTbimgHQWvThWjylEig",
+  "snapshot_id": "AAAAAKGK9TyuPVNDc9ubzHloTsz2NtDf",
   "tracks": [
+    {
+      "added_at": "2026-08-10 00:56:59",
+      "album": {
+        "name": "You'll Be Okay",
+        "url": "https://open.spotify.com/album/4MGDkbrawtP1xI5Ie3KVcN"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Sokko",
+          "url": "https://open.spotify.com/artist/3risOBDAx6GGVaCcBuhswz"
+        },
+        {
+          "name": "NDPeeps",
+          "url": "https://open.spotify.com/artist/1BhtFoW6keQNCZBQEDFmmT"
+        }
+      ],
+      "duration_ms": 199413,
+      "name": "You'll Be Okay",
+      "url": "https://open.spotify.com/track/1MFuooecaIR6vQYRIV9xvP"
+    },
+    {
+      "added_at": "2026-08-07 04:00:38",
+      "album": {
+        "name": "Giants",
+        "url": "https://open.spotify.com/album/5tVxztZyP1rprzf4RMs994"
+      },
+      "artists": [
+        {
+          "name": "Iman Fandi",
+          "url": "https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg"
+        },
+        {
+          "name": "weish",
+          "url": "https://open.spotify.com/artist/3Wda211uQlgobdoSJ7i8SW"
+        },
+        {
+          "name": "NDPeeps",
+          "url": "https://open.spotify.com/artist/1BhtFoW6keQNCZBQEDFmmT"
+        }
+      ],
+      "duration_ms": 179368,
+      "name": "Giants",
+      "url": "https://open.spotify.com/track/6Lj4wUXcGOzrwVmBIlLy34"
+    },
+    {
+      "added_at": "2026-08-07 04:00:38",
+      "album": {
+        "name": "Less than a Lover",
+        "url": "https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 145680,
+      "name": "Less than a Lover",
+      "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
+    },
+    {
+      "added_at": "2026-08-07 04:00:38",
+      "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
+    },
     {
       "added_at": "2026-08-07 04:00:38",
       "album": {
@@ -63,22 +139,6 @@
     {
       "added_at": "2026-08-07 04:00:38",
       "album": {
-        "name": "Less than a Lover",
-        "url": "https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 145680,
-      "name": "Less than a Lover",
-      "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
-    },
-    {
-      "added_at": "2026-08-07 04:00:38",
-      "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
       },
@@ -111,22 +171,6 @@
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
-    },
-    {
-      "added_at": "2026-08-07 04:00:38",
-      "album": {
-        "name": "hate that i made you love me",
-        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 197949,
-      "name": "hate that i made you love me",
-      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     },
     {
       "added_at": "2026-08-07 04:00:38",
@@ -175,30 +219,6 @@
       "duration_ms": 178186,
       "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
       "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
-    },
-    {
-      "added_at": "2026-08-07 04:00:38",
-      "album": {
-        "name": "Giants",
-        "url": "https://open.spotify.com/album/5tVxztZyP1rprzf4RMs994"
-      },
-      "artists": [
-        {
-          "name": "Iman Fandi",
-          "url": "https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg"
-        },
-        {
-          "name": "weish",
-          "url": "https://open.spotify.com/artist/3Wda211uQlgobdoSJ7i8SW"
-        },
-        {
-          "name": "NDPeeps",
-          "url": "https://open.spotify.com/artist/1BhtFoW6keQNCZBQEDFmmT"
-        }
-      ],
-      "duration_ms": 179368,
-      "name": "Giants",
-      "url": "https://open.spotify.com/track/6Lj4wUXcGOzrwVmBIlLy34"
     },
     {
       "added_at": "2026-08-07 04:00:38",

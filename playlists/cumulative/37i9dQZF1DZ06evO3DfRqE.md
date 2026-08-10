@@ -4,7 +4,7 @@
 
 > This is Jake Shimabukuro\. The essential tracks, all in one playlist.
 
-128 songs - 8 hr 16 min
+129 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Rockin' In The Free World](https://open.spotify.com/track/1aikBqRTEOiBxBZPG4IIaa) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Blues Experience](https://open.spotify.com/album/4Irc6LTFXbMTg9orx3rbRd) | 5:46 | 2024-10-20 | 2024-11-18 |
 | [Rollin' N Tumblin'](https://open.spotify.com/track/4wIGQTAORbmEcAkbP5PFmk) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Blues Experience](https://open.spotify.com/album/4WAq1gvzRrbbcS7LwMGQS0) | 4:59 | 2024-12-04 | 2025-01-02 |
 | [Rollin' N Tumblin'](https://open.spotify.com/track/5PeO4GVNykhNsxk3TozEDn) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Rollin' N Tumblin'](https://open.spotify.com/album/4hemZ4G0rSN9cOfqcSgTOO) | 4:59 | 2024-07-21 | 2024-08-18 |
-| [Rose](https://open.spotify.com/track/4oNjzsETy0n1XP6O3zKop5) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Pop Experience](https://open.spotify.com/album/1nZGYKgarNbqKpUAXJb3si) | 3:04 | 2026-07-22 |  |
+| [Rose](https://open.spotify.com/track/4oNjzsETy0n1XP6O3zKop5) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Pop Experience](https://open.spotify.com/album/1nZGYKgarNbqKpUAXJb3si) | 3:04 | 2026-07-22 | 2026-08-10 |
 | [Sailin'](https://open.spotify.com/track/5HjXPn273UhYAC5ELFrUZJ) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Henry Kapono](https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E) | [Grateful](https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc) | 5:39 | 2024-01-29 | 2025-11-02 |
 | [Smokin' Strings](https://open.spotify.com/track/3Z2LqgIaQKK0VgHejLktIj) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 7:09 | 2024-01-29 |  |
 | [Songbird](https://open.spotify.com/track/0VSBPvzXfOtlUZvy5o6xjP) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Blues Experience](https://open.spotify.com/album/4WAq1gvzRrbbcS7LwMGQS0) | 4:15 | 2025-04-05 | 2025-04-22 |
@@ -122,6 +122,7 @@
 | [ドラゴン](https://open.spotify.com/track/2eygl6Uw7mWGmYBe4YZniA) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Dragon](https://open.spotify.com/album/4GxCWMR2RNzyC3s8XbbPoZ) | 4:06 | 2025-01-14 | 2025-02-05 |
 | [ハートビート \- リプリース](https://open.spotify.com/track/16sJhBAwKFfXO8HEjGsh6m) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ウォーキング・ダウン・レインヒル](https://open.spotify.com/album/5UouzqwCT3k6kOvAI3HtC6) | 2:44 | 2024-08-15 | 2025-10-24 |
 | [ピアノ・フォルテ \- ソロピアノ](https://open.spotify.com/track/6qYWZDPk1UQw8DDKpoJk3P) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ザ・ミュージック・オブ・サイドウェイズ](https://open.spotify.com/album/74v6LEEjD11r3GwFtrn4D5) | 1:09 | 2025-12-03 | 2025-12-29 |
+| [フラガール](https://open.spotify.com/track/4wVNMIDZ4nK4Hy2FcSTvZL) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ロック・コレクション](https://open.spotify.com/album/6R5igDFoWprigYQpsOZR1m) | 3:43 | 2026-08-10 |  |
 | [フラガール](https://open.spotify.com/track/5C43UUvEzv0ReAgQCx1dAP) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 3:44 | 2024-01-29 | 2026-07-19 |
 | [フラガール \- アコースティック・ヴァージョン](https://open.spotify.com/track/0jiLI2Bh6Rc3uLapCjwMhX) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [フラガール　\-オリジナル・サウンドトラック\-](https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2) | 3:39 | 2024-01-29 |  |
 | [フラガール \-虹を\-](https://open.spotify.com/track/3gT4ZSs2oMp8aDFYlZaZy6) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Miho Teruya](https://open.spotify.com/artist/5rbx6VW8D4lpHU4J1wY0FB) | [フラガール　\-オリジナル・サウンドトラック\-](https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2) | 3:38 | 2024-01-29 |  |

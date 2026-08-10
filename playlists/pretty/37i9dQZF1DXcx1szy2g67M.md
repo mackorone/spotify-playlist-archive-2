@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 
 > De playlist voor het zomergevoel van 2026!
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,127 likes - 110 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,449 likes - 110 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

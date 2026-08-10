@@ -4,7 +4,7 @@
 
 > Go hard or go home\. Cover: Kanine
 
-372 songs - 23 hr 36 min
+373 songs - 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Don't Let Me Go](https://open.spotify.com/track/3UGNkp6UluxzrztoMu9q1C) | [Captain Bass](https://open.spotify.com/artist/1XS6lKOHQLnfn6HKRwU5VG), [Amplify](https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n) | [Don't Let Me Go](https://open.spotify.com/album/4whr45Olu7a2aO7GLEVWWP) | 3:05 | 2024-09-12 | 2025-01-31 |
 | [Don't Stop](https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Don't Stop](https://open.spotify.com/album/0PPTQ6w442u34twxct76hc) | 2:56 | 2023-12-01 | 2026-01-16 |
 | [Dopamine](https://open.spotify.com/track/1LIiaUqhedu2DyXHRFypCF) | [Trex](https://open.spotify.com/artist/6mjeZiv0fgNA0mbDWlSSug) | [Dopamine / One Time](https://open.spotify.com/album/5EGr1peMZY9wFHaS4K2k09) | 4:27 | 2022-05-06 | 2022-07-20 |
-| [Dopamine Hits](https://open.spotify.com/track/2QNhQiUiQcqjqv1AXYDCBZ) | [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [Dopamine Hits](https://open.spotify.com/album/0repDZaNnjgoPqa38JDjST) | 3:09 | 2024-10-24 |  |
+| [Dopamine Hits](https://open.spotify.com/track/2QNhQiUiQcqjqv1AXYDCBZ) | [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [Dopamine Hits](https://open.spotify.com/album/0repDZaNnjgoPqa38JDjST) | 3:09 | 2024-10-24 | 2026-08-10 |
 | [Double Vision](https://open.spotify.com/track/1PgRBwqqo6HWujY3zLWd0N) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes) | [Double Vision](https://open.spotify.com/album/4EB5lFgeQTuq7xPpuBvEj5) | 2:26 | 2025-09-04 | 2026-01-27 |
 | [Dreaming](https://open.spotify.com/track/77clpxiqqJYBFfKNa7NJLO) | [ACP](https://open.spotify.com/artist/1qmlLdbLYrvNcB5nyN942Q) | [Dreaming](https://open.spotify.com/album/2u8hFIHE6i9T4c01c2wa1z) | 4:23 | 2023-12-27 | 2024-01-12 |
 | [Drop It](https://open.spotify.com/track/4I9vO5QOgxfGCOo3iwyW6v) | [Georgie Riot](https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi) | [Drop It](https://open.spotify.com/album/4KHGh98gIT10KOj65f9jEC) | 4:09 | 2025-02-21 | 2025-05-30 |
@@ -155,6 +155,7 @@
 | [High Energy](https://open.spotify.com/track/1RKSSo63jM1JVH6aZ8MU30) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [High Energy](https://open.spotify.com/album/1V56p7Zy759zwU8DCHZRD4) | 3:03 | 2024-11-15 |  |
 | [High Roller](https://open.spotify.com/track/7DHBGIYp3wvsjtetJEpCHZ) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes) | [High Roller](https://open.spotify.com/album/5UeNqJ34X9HjC2szyJZkwM) | 4:35 | 2022-05-06 | 2023-12-27 |
 | [Hijack](https://open.spotify.com/track/0GHfI7rdYSibiQTR8D1lTl) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Hijack](https://open.spotify.com/album/4Tzxhm1EfOEUu6VelOuS3h) | 2:35 | 2025-05-29 |  |
+| [Holy Moly \- VIP](https://open.spotify.com/track/2lR38u65dPKs0ZJ3BHVoz6) | [Document One](https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu) | [Holy Moly \(VIP\)](https://open.spotify.com/album/1IRwkwVuNeReBF1E9ANuxJ) | 4:13 | 2026-08-06 |  |
 | [Home Run](https://open.spotify.com/track/3Viz3RJtlaQcML3N9FwM1K) | [T\-Lex](https://open.spotify.com/artist/3diWJAdGxsO9OT4cRe0khL) | [Home Run / The Inspector](https://open.spotify.com/album/4PB7CBFGjWQ6pLvRXVkB5e) | 3:44 | 2025-03-21 | 2025-05-30 |
 | [Hot One](https://open.spotify.com/track/6dOzrKH4AkC0QKVyhB7yBc) | [Teej](https://open.spotify.com/artist/6Ul7DXJIfPhwGBIP3J96U7), [Trex](https://open.spotify.com/artist/6mjeZiv0fgNA0mbDWlSSug), [Medic MC](https://open.spotify.com/artist/5LJaCsgkAQDsyjvGaoXGYN) | [Hot One](https://open.spotify.com/album/0YvOq6M3HWa5lokBUNwfwi) | 3:40 | 2022-05-06 | 2022-07-29 |
 | [Hurt \- Kendrick Remix](https://open.spotify.com/track/2G7P0r5rDpLHheJ0IN2CYc) | [Slipz](https://open.spotify.com/artist/3hqvu8FKfYOg5xytMKjXFO), [Kendrick](https://open.spotify.com/artist/70mqJs2YSPZndK6UuHh4PO) | [Hurt \(Kendrick Remix\)](https://open.spotify.com/album/0KZXfQhOx8ayT3HiZkpXee) | 3:39 | 2022-05-06 | 2022-07-23 |

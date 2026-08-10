@@ -1,6 +1,6 @@
 {
   "description": "SPINGERE",
-  "num_followers": 117225,
+  "num_followers": 117242,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2026-08-05 08:16:35",
       "album": {
+        "name": "Pink Tape",
+        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4Ls53fBNVfaXTROBi6X8Hw"
+    },
+    {
+      "added_at": "2026-08-05 08:16:35",
+      "album": {
         "name": "Moulaga",
         "url": "https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 179868,
       "name": "Moulaga",
       "url": "https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC"
-    },
-    {
-      "added_at": "2026-08-05 08:16:35",
-      "album": {
-        "name": "Pink Tape",
-        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4Ls53fBNVfaXTROBi6X8Hw"
     },
     {
       "added_at": "2026-08-05 08:16:35",
@@ -687,6 +687,34 @@
     {
       "added_at": "2026-08-05 08:16:35",
       "album": {
+        "name": "DALE (feat. Frezza, G.Mineiro, R3versal)",
+        "url": "https://open.spotify.com/album/7IKq8hAkstZ4EZ36x4j8JV"
+      },
+      "artists": [
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+        },
+        {
+          "name": "R3versal",
+          "url": "https://open.spotify.com/artist/3ynBgWFlyMRwLE5JnAAfFP"
+        },
+        {
+          "name": "G.Mineiro",
+          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "DALE (feat. Frezza, G.Mineiro, R3versal)",
+      "url": "https://open.spotify.com/track/3VjfNmIzBTYA4UFaUNpdY7"
+    },
+    {
+      "added_at": "2026-08-05 08:16:35",
+      "album": {
         "name": "SIRIO",
         "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
       },
@@ -831,34 +859,6 @@
       "duration_ms": 160282,
       "name": "BIANCA (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/420QMNPnHsbAqkkxBt2ifJ"
-    },
-    {
-      "added_at": "2026-08-05 08:16:35",
-      "album": {
-        "name": "DALE (feat. Frezza, G.Mineiro, R3versal)",
-        "url": "https://open.spotify.com/album/7IKq8hAkstZ4EZ36x4j8JV"
-      },
-      "artists": [
-        {
-          "name": "Yung Snapp",
-          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
-        },
-        {
-          "name": "Frezza",
-          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
-        },
-        {
-          "name": "R3versal",
-          "url": "https://open.spotify.com/artist/3ynBgWFlyMRwLE5JnAAfFP"
-        },
-        {
-          "name": "G.Mineiro",
-          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "DALE (feat. Frezza, G.Mineiro, R3versal)",
-      "url": "https://open.spotify.com/track/3VjfNmIzBTYA4UFaUNpdY7"
     },
     {
       "added_at": "2026-08-05 08:16:35",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2026-08-05 08:16:35",
       "album": {
+        "name": "WAO",
+        "url": "https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD"
+      },
+      "artists": [
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        },
+        {
+          "name": "Blssd",
+          "url": "https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0"
+        }
+      ],
+      "duration_ms": 149464,
+      "name": "WAO",
+      "url": "https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ"
+    },
+    {
+      "added_at": "2026-08-05 08:16:35",
+      "album": {
         "name": "MACHETE MIXTAPE 4",
         "url": "https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 177036,
       "name": "HO PAURA DI USCIRE 2 - prod. Mace",
       "url": "https://open.spotify.com/track/0nFCpnM7nistUWXRZpzOWM"
-    },
-    {
-      "added_at": "2026-08-05 08:16:35",
-      "album": {
-        "name": "WAO",
-        "url": "https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD"
-      },
-      "artists": [
-        {
-          "name": "Niky Savage",
-          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
-        },
-        {
-          "name": "Blssd",
-          "url": "https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0"
-        }
-      ],
-      "duration_ms": 149464,
-      "name": "WAO",
-      "url": "https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ"
     },
     {
       "added_at": "2026-08-05 08:16:35",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2026-08-05 08:16:35",
       "album": {
+        "name": "FERITE",
+        "url": "https://open.spotify.com/album/1mpy3NJNqmNhzKNorb6pkl"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Takagi & Ketra",
+          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
+        }
+      ],
+      "duration_ms": 157168,
+      "name": "Fino All'Alba",
+      "url": "https://open.spotify.com/track/3twPYZvOOoVjLx5BclA2mT"
+    },
+    {
+      "added_at": "2026-08-05 08:16:35",
+      "album": {
         "name": "Tip Tap",
         "url": "https://open.spotify.com/album/2tSal9T7uUzWFIGwO4jUN5"
       },
@@ -1315,26 +1335,6 @@
       "duration_ms": 129795,
       "name": "Tip Tap",
       "url": "https://open.spotify.com/track/2O8jjjtyEfXliQ6vdtdPvH"
-    },
-    {
-      "added_at": "2026-08-05 08:16:35",
-      "album": {
-        "name": "FERITE",
-        "url": "https://open.spotify.com/album/1mpy3NJNqmNhzKNorb6pkl"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
-        {
-          "name": "Takagi & Ketra",
-          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
-        }
-      ],
-      "duration_ms": 157168,
-      "name": "Fino All'Alba",
-      "url": "https://open.spotify.com/track/3twPYZvOOoVjLx5BclA2mT"
     },
     {
       "added_at": "2026-08-05 08:16:35",
@@ -1519,42 +1519,6 @@
     {
       "added_at": "2026-08-05 08:16:35",
       "album": {
-        "name": "Effetto notte",
-        "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
-      },
-      "artists": [
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "ON FIRE - paid in full",
-      "url": "https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb"
-    },
-    {
-      "added_at": "2026-08-05 08:16:35",
-      "album": {
-        "name": "Cancelo",
-        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Cancelo",
-      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
-    },
-    {
-      "added_at": "2026-08-05 08:16:35",
-      "album": {
         "name": "Apparecchiato (feat. Nerissima Serpe)",
         "url": "https://open.spotify.com/album/5dSZpDWUqAEZUGTjWpJEgv"
       },
@@ -1575,6 +1539,42 @@
       "duration_ms": 158624,
       "name": "Apparecchiato (feat. Nerissima Serpe)",
       "url": "https://open.spotify.com/track/64phbsUhT5naqkPA3L0vXz"
+    },
+    {
+      "added_at": "2026-08-05 08:16:35",
+      "album": {
+        "name": "Cancelo",
+        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Cancelo",
+      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
+    },
+    {
+      "added_at": "2026-08-05 08:16:35",
+      "album": {
+        "name": "Effetto notte",
+        "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "ON FIRE - paid in full",
+      "url": "https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb"
     },
     {
       "added_at": "2026-08-05 08:16:35",
@@ -1611,6 +1611,34 @@
       "duration_ms": 158769,
       "name": "Ma Jolie (feat. ANNA)",
       "url": "https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy"
+    },
+    {
+      "added_at": "2026-08-05 08:16:35",
+      "album": {
+        "name": "Trap Fatta Bene",
+        "url": "https://open.spotify.com/album/6zOYd3ULQWAauhgVyCL143"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Kuremino",
+          "url": "https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Fritu",
+          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Mattone (feat. Kuremino, Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/3TE8sw3fWmWficRYKRKkqx"
     },
     {
       "added_at": "2026-08-05 08:16:35",
@@ -1663,34 +1691,6 @@
       "duration_ms": 133858,
       "name": "Pel\u00e9",
       "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
-    },
-    {
-      "added_at": "2026-08-05 08:16:35",
-      "album": {
-        "name": "Trap Fatta Bene",
-        "url": "https://open.spotify.com/album/6zOYd3ULQWAauhgVyCL143"
-      },
-      "artists": [
-        {
-          "name": "Papa V",
-          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
-        },
-        {
-          "name": "Kuremino",
-          "url": "https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n"
-        },
-        {
-          "name": "Nerissima Serpe",
-          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
-        },
-        {
-          "name": "Fritu",
-          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Mattone (feat. Kuremino, Nerissima Serpe)",
-      "url": "https://open.spotify.com/track/3TE8sw3fWmWficRYKRKkqx"
     },
     {
       "added_at": "2026-08-05 08:16:35",
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2026-08-05 08:16:35",
       "album": {
-        "name": "Reinsertado 2.0",
-        "url": "https://open.spotify.com/album/1dpi5vuuSZ0NILVDKhi8Ii"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        },
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Sentir",
-      "url": "https://open.spotify.com/track/4HCdoZN1uawnzc3QKCRT4X"
-    },
-    {
-      "added_at": "2026-08-05 08:16:35",
-      "album": {
         "name": "THE BIGGEST SBLAO",
         "url": "https://open.spotify.com/album/7CgOXOllcrg4B889ovCsPp"
       },
@@ -1791,6 +1771,26 @@
       "duration_ms": 157795,
       "name": "BISEX (feat. Yung Snapp)",
       "url": "https://open.spotify.com/track/1N7cE9RdKR5FRkB9cxsjH4"
+    },
+    {
+      "added_at": "2026-08-05 08:16:35",
+      "album": {
+        "name": "Reinsertado 2.0",
+        "url": "https://open.spotify.com/album/1dpi5vuuSZ0NILVDKhi8Ii"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Sentir",
+      "url": "https://open.spotify.com/track/4HCdoZN1uawnzc3QKCRT4X"
     },
     {
       "added_at": "2026-08-05 08:16:35",

@@ -1,6 +1,6 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 71339,
+  "num_followers": 71342,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
@@ -475,18 +475,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Leva",
-        "url": "https://open.spotify.com/album/2gJ3K86IBOXtF8nBeOGEKh"
+        "name": "Fr\u00e5n och med Du",
+        "url": "https://open.spotify.com/album/4roiBkmOkDwfZHpI6spw6G"
       },
       "artists": [
         {
-          "name": "Issify",
-          "url": "https://open.spotify.com/artist/46roUvrV8tmvJKelIEPCeM"
+          "name": "Antonio D",
+          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
+        },
+        {
+          "name": "Wha Gwaan Band",
+          "url": "https://open.spotify.com/artist/519ozfPMom8eTzU0xjRPbG"
         }
       ],
-      "duration_ms": 176613,
-      "name": "Leva",
-      "url": "https://open.spotify.com/track/1sAPHDjzEslM7YL6tFgRds"
+      "duration_ms": 260000,
+      "name": "Fr\u00e5n och med Du",
+      "url": "https://open.spotify.com/track/2wStsM878RWyPXv0yMfpca"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -507,22 +511,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Fr\u00e5n och med Du",
-        "url": "https://open.spotify.com/album/4roiBkmOkDwfZHpI6spw6G"
+        "name": "Leva",
+        "url": "https://open.spotify.com/album/2gJ3K86IBOXtF8nBeOGEKh"
       },
       "artists": [
         {
-          "name": "Antonio D",
-          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
-        },
-        {
-          "name": "Wha Gwaan Band",
-          "url": "https://open.spotify.com/artist/519ozfPMom8eTzU0xjRPbG"
+          "name": "Issify",
+          "url": "https://open.spotify.com/artist/46roUvrV8tmvJKelIEPCeM"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Fr\u00e5n och med Du",
-      "url": "https://open.spotify.com/track/2wStsM878RWyPXv0yMfpca"
+      "duration_ms": 176613,
+      "name": "Leva",
+      "url": "https://open.spotify.com/track/1sAPHDjzEslM7YL6tFgRds"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
+        "name": "Pirret",
+        "url": "https://open.spotify.com/album/5zvIrBTquTxatX4YerGuzM"
+      },
+      "artists": [
+        {
+          "name": "Antonio D",
+          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
+        }
+      ],
+      "duration_ms": 260079,
+      "name": "Pirret",
+      "url": "https://open.spotify.com/track/5ign6ygkGPmRsfJiRnU84g"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
         "name": "K\u00e4rlek & Verkan",
         "url": "https://open.spotify.com/album/2kshyxJqohs7VpPEjTHP4I"
       },
@@ -599,22 +615,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Pirret",
-        "url": "https://open.spotify.com/album/5zvIrBTquTxatX4YerGuzM"
-      },
-      "artists": [
-        {
-          "name": "Antonio D",
-          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
-        }
-      ],
-      "duration_ms": 260079,
-      "name": "Pirret",
-      "url": "https://open.spotify.com/track/5ign6ygkGPmRsfJiRnU84g"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Allting ordnar sig",
         "url": "https://open.spotify.com/album/7yzPNzLoG1ZaJFu6Lk2jBf"
       },
@@ -647,6 +647,26 @@
       "duration_ms": 196459,
       "name": "Min Zina",
       "url": "https://open.spotify.com/track/0JpkJkAD2li7buwV9dL9gu"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Baluns",
+        "url": "https://open.spotify.com/album/71rcv1SUcbmo6CB6vo0NxN"
+      },
+      "artists": [
+        {
+          "name": "Antonio D",
+          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
+        },
+        {
+          "name": "Dirty Jens",
+          "url": "https://open.spotify.com/artist/1re0NOBZGoyheVxR4tLev7"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "Baluns",
+      "url": "https://open.spotify.com/track/6CGJTlDyAIqUAjnHTlP2O3"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -691,26 +711,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Baluns",
-        "url": "https://open.spotify.com/album/71rcv1SUcbmo6CB6vo0NxN"
-      },
-      "artists": [
-        {
-          "name": "Antonio D",
-          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
-        },
-        {
-          "name": "Dirty Jens",
-          "url": "https://open.spotify.com/artist/1re0NOBZGoyheVxR4tLev7"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "Baluns",
-      "url": "https://open.spotify.com/track/6CGJTlDyAIqUAjnHTlP2O3"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Sverigefiende (Fest mot v\u00e5ldsgrupp)",
         "url": "https://open.spotify.com/album/1jFdSfYFWx0qE3OsZ4iPjG"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 198500,
       "name": "H\u00e5ll i dig",
       "url": "https://open.spotify.com/track/2MrxF1kIwTtWFzpGYm2aYd"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "S\u00e4g Till Mig",
+        "url": "https://open.spotify.com/album/36p7buidQlnzHhmXWnkGLW"
+      },
+      "artists": [
+        {
+          "name": "Antonio D",
+          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "S\u00e4g Till Mig",
+      "url": "https://open.spotify.com/track/2hwH19DHE3ZUY0mFamo9wL"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -783,22 +799,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "S\u00e4g Till Mig",
-        "url": "https://open.spotify.com/album/36p7buidQlnzHhmXWnkGLW"
-      },
-      "artists": [
-        {
-          "name": "Antonio D",
-          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "S\u00e4g Till Mig",
-      "url": "https://open.spotify.com/track/2hwH19DHE3ZUY0mFamo9wL"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "S\u00e5 fakking fin",
         "url": "https://open.spotify.com/album/3YvgJQ8Tp2pDZWX7iBjdKA"
       },
@@ -831,18 +831,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Common Sense",
-        "url": "https://open.spotify.com/album/0i8wOJrM6kSOQ1fRB88o4y"
+        "name": "V\u00e5r Dans",
+        "url": "https://open.spotify.com/album/2BVFkcAdtAu3vAQZ3jLUS6"
       },
       "artists": [
         {
-          "name": "Marx Gallo",
-          "url": "https://open.spotify.com/artist/4sHsAEoZZJLuskIZPuXE1H"
+          "name": "Antonio D",
+          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
+        },
+        {
+          "name": "Admiral P",
+          "url": "https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD"
         }
       ],
-      "duration_ms": 221800,
-      "name": "Common Sense",
-      "url": "https://open.spotify.com/track/0cpUwH9Ostfo7K6H8LXvMt"
+      "duration_ms": 181115,
+      "name": "V\u00e5r Dans",
+      "url": "https://open.spotify.com/track/0akrglttILrVEe2ncifHsH"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -867,22 +871,18 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "V\u00e5r Dans",
-        "url": "https://open.spotify.com/album/2BVFkcAdtAu3vAQZ3jLUS6"
+        "name": "Common Sense",
+        "url": "https://open.spotify.com/album/0i8wOJrM6kSOQ1fRB88o4y"
       },
       "artists": [
         {
-          "name": "Antonio D",
-          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
-        },
-        {
-          "name": "Admiral P",
-          "url": "https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD"
+          "name": "Marx Gallo",
+          "url": "https://open.spotify.com/artist/4sHsAEoZZJLuskIZPuXE1H"
         }
       ],
-      "duration_ms": 181115,
-      "name": "V\u00e5r Dans",
-      "url": "https://open.spotify.com/track/0akrglttILrVEe2ncifHsH"
+      "duration_ms": 221800,
+      "name": "Common Sense",
+      "url": "https://open.spotify.com/track/0cpUwH9Ostfo7K6H8LXvMt"
     },
     {
       "added_at": "2024-06-24 11:19:01",

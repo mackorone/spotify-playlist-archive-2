@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19376,
+  "num_followers": 19375,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "Bless the Broken Road",
-        "url": "https://open.spotify.com/album/5i90JXIcuT8DjYnyh13I0D"
-      },
-      "artists": [
-        {
-          "name": "Myshaan",
-          "url": "https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "Bless the Broken Road",
-      "url": "https://open.spotify.com/track/2M4KSVZ6hcCPljuCkXQCFQ"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
         "name": "Chrysalis",
         "url": "https://open.spotify.com/album/0l0eWxEsoBXZ415CRKDJuB"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 170676,
       "name": "pretend",
       "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
+        "name": "Bless the Broken Road",
+        "url": "https://open.spotify.com/album/5i90JXIcuT8DjYnyh13I0D"
+      },
+      "artists": [
+        {
+          "name": "Myshaan",
+          "url": "https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "Bless the Broken Road",
+      "url": "https://open.spotify.com/track/2M4KSVZ6hcCPljuCkXQCFQ"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "Everything Is Going To Be Alright",
-        "url": "https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU"
-      },
-      "artists": [
-        {
-          "name": "Princess Chelsea",
-          "url": "https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t"
-        }
-      ],
-      "duration_ms": 191812,
-      "name": "Forever Is A Charm",
-      "url": "https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
         "name": "The//Glow",
         "url": "https://open.spotify.com/album/0zKngSkNENfHZqjZsaDTXz"
       },
@@ -691,34 +675,18 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "Have You Ever Seen the Rain",
-        "url": "https://open.spotify.com/album/6Xi9D8l2wWFU1zGhzPnMX9"
+        "name": "Everything Is Going To Be Alright",
+        "url": "https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU"
       },
       "artists": [
         {
-          "name": "House of Shem",
-          "url": "https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845"
+          "name": "Princess Chelsea",
+          "url": "https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t"
         }
       ],
-      "duration_ms": 193509,
-      "name": "Have You Ever Seen the Rain",
-      "url": "https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
-        "name": "Off The Rails",
-        "url": "https://open.spotify.com/album/55SaOAkogbiNQQkrX8gFZw"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 107266,
-      "name": "Off The Rails",
-      "url": "https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv"
+      "duration_ms": 191812,
+      "name": "Forever Is A Charm",
+      "url": "https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -735,6 +703,22 @@
       "duration_ms": 201480,
       "name": "So Good",
       "url": "https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
+        "name": "Off The Rails",
+        "url": "https://open.spotify.com/album/55SaOAkogbiNQQkrX8gFZw"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 107266,
+      "name": "Off The Rails",
+      "url": "https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -759,6 +743,22 @@
       "duration_ms": 170691,
       "name": "Maumahara Noa Ahau",
       "url": "https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
+        "name": "Have You Ever Seen the Rain",
+        "url": "https://open.spotify.com/album/6Xi9D8l2wWFU1zGhzPnMX9"
+      },
+      "artists": [
+        {
+          "name": "House of Shem",
+          "url": "https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845"
+        }
+      ],
+      "duration_ms": 193509,
+      "name": "Have You Ever Seen the Rain",
+      "url": "https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "drag",
-        "url": "https://open.spotify.com/album/2nTAc6jYcRAHf7C7gf0tFu"
-      },
-      "artists": [
-        {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
-        }
-      ],
-      "duration_ms": 229683,
-      "name": "drag",
-      "url": "https://open.spotify.com/track/5VTEwE0fYvTNxwmIelS6XF"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
         "name": "STALKER (feat. Ramirez)",
         "url": "https://open.spotify.com/album/4e9pi8Kqj9VWDEUa39o6mt"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
+        "name": "drag",
+        "url": "https://open.spotify.com/album/2nTAc6jYcRAHf7C7gf0tFu"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "duration_ms": 229683,
+      "name": "drag",
+      "url": "https://open.spotify.com/track/5VTEwE0fYvTNxwmIelS6XF"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
         "name": "East Coast",
         "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
       },
@@ -847,38 +847,6 @@
       "duration_ms": 194933,
       "name": "East Coast",
       "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
-        "name": "call me yours",
-        "url": "https://open.spotify.com/album/3G59mbte7ztS4KeNPZ19Gz"
-      },
-      "artists": [
-        {
-          "name": "hanbee",
-          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
-        }
-      ],
-      "duration_ms": 204622,
-      "name": "call me yours",
-      "url": "https://open.spotify.com/track/6pMBi9UarWDtL6aA1ADKfm"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
-        "name": "CURSE",
-        "url": "https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41"
-      },
-      "artists": [
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 148525,
-      "name": "DEATH COMES FROM THE SKY",
-      "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -903,22 +871,34 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "I Want More",
-        "url": "https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD"
+        "name": "CURSE",
+        "url": "https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41"
       },
       "artists": [
         {
-          "name": "Sons of Zion",
-          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
-        },
-        {
-          "name": "TAWAZ",
-          "url": "https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH"
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 177989,
-      "name": "I Want More",
-      "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
+      "duration_ms": 148525,
+      "name": "DEATH COMES FROM THE SKY",
+      "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
+        "name": "call me yours",
+        "url": "https://open.spotify.com/album/3G59mbte7ztS4KeNPZ19Gz"
+      },
+      "artists": [
+        {
+          "name": "hanbee",
+          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
+        }
+      ],
+      "duration_ms": 204622,
+      "name": "call me yours",
+      "url": "https://open.spotify.com/track/6pMBi9UarWDtL6aA1ADKfm"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -939,18 +919,38 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "Game",
-        "url": "https://open.spotify.com/album/2vOXCLZiFRBAHiTbjnEfpo"
+        "name": "I Want More",
+        "url": "https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD"
       },
       "artists": [
         {
-          "name": "Jonathan Bree",
-          "url": "https://open.spotify.com/artist/2IlTe9Gm5w5qrt2kKdOvAh"
+          "name": "Sons of Zion",
+          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
+        },
+        {
+          "name": "TAWAZ",
+          "url": "https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH"
         }
       ],
-      "duration_ms": 337188,
-      "name": "Game",
-      "url": "https://open.spotify.com/track/5sTjwlAYJdvRpNEpdSATs7"
+      "duration_ms": 177989,
+      "name": "I Want More",
+      "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp"
+      },
+      "artists": [
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        }
+      ],
+      "duration_ms": 156055,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -971,18 +971,34 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0SflKaUmjrhPMAaIwLTaMp"
+        "name": "Game",
+        "url": "https://open.spotify.com/album/2vOXCLZiFRBAHiTbjnEfpo"
       },
       "artists": [
         {
-          "name": "SACHI",
-          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+          "name": "Jonathan Bree",
+          "url": "https://open.spotify.com/artist/2IlTe9Gm5w5qrt2kKdOvAh"
         }
       ],
-      "duration_ms": 156055,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/3P7EBoqZz6ZcPRluURhann"
+      "duration_ms": 337188,
+      "name": "Game",
+      "url": "https://open.spotify.com/track/5sTjwlAYJdvRpNEpdSATs7"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
+        "name": "BLEED",
+        "url": "https://open.spotify.com/album/4FktMKYNJxcz6c0jYapEs2"
+      },
+      "artists": [
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 215783,
+      "name": "BLEED",
+      "url": "https://open.spotify.com/track/6yWHYAtM5mkcmJRoZRZ8Py"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -1015,38 +1031,6 @@
       "duration_ms": 160946,
       "name": "me > you",
       "url": "https://open.spotify.com/track/0aZJvezapQq2aKdIA8T9fG"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
-        "name": "BLEED",
-        "url": "https://open.spotify.com/album/4FktMKYNJxcz6c0jYapEs2"
-      },
-      "artists": [
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 215783,
-      "name": "BLEED",
-      "url": "https://open.spotify.com/track/6yWHYAtM5mkcmJRoZRZ8Py"
-    },
-    {
-      "added_at": "2026-08-06 14:00:15",
-      "album": {
-        "name": "TRY MY LUCK X PLAY WITH MY NAME X BAD INTENTIONS",
-        "url": "https://open.spotify.com/album/3rjENvhrDfiGAzHVmIIAWj"
-      },
-      "artists": [
-        {
-          "name": "Kings",
-          "url": "https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp"
-        }
-      ],
-      "duration_ms": 145654,
-      "name": "TRY MY LUCK",
-      "url": "https://open.spotify.com/track/2ANN7DgIBa2YkpEsHGwviX"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2026-08-06 14:00:15",
       "album": {
-        "name": "tomato baby",
-        "url": "https://open.spotify.com/album/7J8vbSM16wFVxHnXfiLGIV"
+        "name": "TRY MY LUCK X PLAY WITH MY NAME X BAD INTENTIONS",
+        "url": "https://open.spotify.com/album/3rjENvhrDfiGAzHVmIIAWj"
       },
       "artists": [
         {
-          "name": "hanbee",
-          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
+          "name": "Kings",
+          "url": "https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp"
         }
       ],
-      "duration_ms": 168582,
-      "name": "tomato baby",
-      "url": "https://open.spotify.com/track/126hNkonJst3ARf4I2ACqW"
+      "duration_ms": 145654,
+      "name": "TRY MY LUCK",
+      "url": "https://open.spotify.com/track/2ANN7DgIBa2YkpEsHGwviX"
     },
     {
       "added_at": "2026-08-06 14:00:15",
@@ -1151,6 +1135,22 @@
       "duration_ms": 193987,
       "name": "Don't You Die",
       "url": "https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0"
+    },
+    {
+      "added_at": "2026-08-06 14:00:15",
+      "album": {
+        "name": "tomato baby",
+        "url": "https://open.spotify.com/album/7J8vbSM16wFVxHnXfiLGIV"
+      },
+      "artists": [
+        {
+          "name": "hanbee",
+          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
+        }
+      ],
+      "duration_ms": 168582,
+      "name": "tomato baby",
+      "url": "https://open.spotify.com/track/126hNkonJst3ARf4I2ACqW"
     },
     {
       "added_at": "2026-08-06 14:00:15",

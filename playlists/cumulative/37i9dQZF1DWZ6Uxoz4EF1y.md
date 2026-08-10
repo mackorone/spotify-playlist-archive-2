@@ -4,7 +4,7 @@
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-187 songs - 17 hr 16 min
+188 songs - 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Jesús](https://open.spotify.com/track/7tRG2dgIkcZUPvZINWfR7B) | [caminodevida música](https://open.spotify.com/artist/26uYihnzGQPWmX5208Hdiq) | [Tetelestai \(Todo hecho está\)](https://open.spotify.com/album/2kJ9Wkj82r6N9rq8XAAkzc) | 7:23 | 2025-04-06 |  |
 | [Jesús](https://open.spotify.com/track/5epQs3E7iHTteEvvxghYNg) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Jesús Salva](https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw) | 4:53 | 2023-04-09 | 2024-04-19 |
 | [Jesús](https://open.spotify.com/track/0bbazu3GjvnPGxZ39vaqsO) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Jesús](https://open.spotify.com/album/5M4JXbkdCzKij4fwOCELqC) | 5:22 | 2026-03-29 |  |
-| [Jesús \(feat\. Marcos Witt\)](https://open.spotify.com/track/5u1wkV8C7Q0Vw8hK969grA) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Jesús Salva](https://open.spotify.com/album/40uXjgQEurDWfvxlKE85cX) | 4:53 | 2024-03-20 |  |
+| [Jesús \(feat\. Marcos Witt\)](https://open.spotify.com/track/5u1wkV8C7Q0Vw8hK969grA) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Jesús Salva](https://open.spotify.com/album/40uXjgQEurDWfvxlKE85cX) | 4:53 | 2024-03-20 | 2026-08-10 |
 | [Jesús Eres Mi Buen Pastor](https://open.spotify.com/track/11bb5n9uOzwP1VX6u1iPel) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Enciende una Luz](https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO) | 6:50 | 2023-04-09 | 2024-04-19 |
 | [Jesús Eres Mi Buen Pastor](https://open.spotify.com/track/5DLOY3NkSG3wgZHHQHLwVs) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Enciende una Luz](https://open.spotify.com/album/7n2yPfXkNLfY5jU1LyutYE) | 6:50 | 2024-07-01 | 2026-08-01 |
 | [Jesús Mi Fiel Amigo \(En Vivo\)](https://open.spotify.com/track/3PjVBq8W5RaxNn9vTtoKxT) | [Abel Zavala](https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1) | [Jesús Mi Fiel Amigo \(En Vivo\)](https://open.spotify.com/album/1Gfe5J0a7yrs4FsDtuAiQA) | 6:50 | 2020-09-18 |  |
@@ -146,6 +146,7 @@
 | [Poema de salvación](https://open.spotify.com/track/2hrTXb6LVeQW0F18e9neuZ) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Eres Mi Pasión](https://open.spotify.com/album/0xPzP6ceN9y2CwTWlljy8F) | 3:12 | 2023-04-09 | 2024-04-19 |
 | [Poema de salvación](https://open.spotify.com/track/58MfbVYQQATU1ifuqjQsEj) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Eres Mi Pasión](https://open.spotify.com/album/3dTLWiG20Njj51aeTo3qqz) | 3:12 | 2024-07-01 |  |
 | [Por Amor](https://open.spotify.com/track/7j2pRAjkERWLyg4ULzxWTR) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [El Poder De Tu Amor](https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW) | 4:29 | 2023-04-09 | 2026-08-04 |
+| [Por las Llagas](https://open.spotify.com/track/3IoIzDjBLx2UObchfh7tb1) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Digno Es el Señor](https://open.spotify.com/album/4prQ3uAC1aPsYwcjG3hSAi) | 5:00 | 2026-04-04 |  |
 | [Por Las Llagas](https://open.spotify.com/track/127BY9LPFhtLMu3pkmXcrh) | [Vino Nuevo](https://open.spotify.com/artist/5Bqc3c0Op9Wvv0E5fhuLqX) | [Ven Y Llena Esta Casa](https://open.spotify.com/album/5M3Y7vUdrfZgtIbzUhepuN) | 5:00 | 2023-04-09 | 2024-04-19 |
 | [Por Su Gracia](https://open.spotify.com/track/3lTfA15qXGXNKadA1XVXMs) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [People En Español](https://open.spotify.com/album/3TJCEB18pWSsmbsHTIIEzi) | 6:00 | 2023-04-09 | 2024-04-19 |
 | [Por Su Gracia](https://open.spotify.com/track/6fZJwVu9LcQwnZfG3sy12T) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [People \- En Español](https://open.spotify.com/album/3UoN9QrWC7Kbvs0QMuNAXa) | 6:00 | 2024-03-20 |  |

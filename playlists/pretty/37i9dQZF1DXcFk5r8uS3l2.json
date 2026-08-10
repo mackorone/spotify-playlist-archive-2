@@ -1,6 +1,6 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Keb' Mo'",
-  "num_followers": 1068909,
+  "num_followers": 1068896,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
+        "name": "Dark and Stormy",
+        "url": "https://open.spotify.com/album/5mR5SYkDxay9IuM5624fDx"
+      },
+      "artists": [
+        {
+          "name": "The Brudi Brothers",
+          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Dark and Stormy",
+      "url": "https://open.spotify.com/track/0jC82twXzqYaIiOQKaOlTl"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
         "name": "Satisfied",
         "url": "https://open.spotify.com/album/4IqsiNwUfcrA7RrUHwAo6k"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 191454,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/3RWOkWVdve8HZG4vIg6bkF"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
-        "name": "Dark and Stormy",
-        "url": "https://open.spotify.com/album/5mR5SYkDxay9IuM5624fDx"
-      },
-      "artists": [
-        {
-          "name": "The Brudi Brothers",
-          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Dark and Stormy",
-      "url": "https://open.spotify.com/track/0jC82twXzqYaIiOQKaOlTl"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
-        "name": "LONG WAY FROM THE BOTTOM",
-        "url": "https://open.spotify.com/album/2BZdAFl884lkn6ButA2MUT"
-      },
-      "artists": [
-        {
-          "name": "Colby Acuff",
-          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
-        }
-      ],
-      "duration_ms": 153730,
-      "name": "LONG WAY FROM THE BOTTOM",
-      "url": "https://open.spotify.com/track/4tbiu83l7TZjLEq5ycyqEF"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
         "name": "Greyhound Bus Blues",
         "url": "https://open.spotify.com/album/5ZUDaN0h2tX01R0EYd9nOv"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 152824,
       "name": "Greyhound Bus Blues",
       "url": "https://open.spotify.com/track/3kFo9yQT1AcBMUQjwExLd2"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
+        "name": "LONG WAY FROM THE BOTTOM",
+        "url": "https://open.spotify.com/album/2BZdAFl884lkn6ButA2MUT"
+      },
+      "artists": [
+        {
+          "name": "Colby Acuff",
+          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
+        }
+      ],
+      "duration_ms": 153730,
+      "name": "LONG WAY FROM THE BOTTOM",
+      "url": "https://open.spotify.com/track/4tbiu83l7TZjLEq5ycyqEF"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
-        "name": "Bloodline Maintenance",
-        "url": "https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 187027,
-      "name": "More Than Love",
-      "url": "https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
         "name": "Roll Mega",
         "url": "https://open.spotify.com/album/1LliP2A3k2e090yvBJcE5l"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 282857,
       "name": "Twist Your Arm",
       "url": "https://open.spotify.com/track/69p1PZzleCCgTMDISqhibX"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
+        "name": "Bloodline Maintenance",
+        "url": "https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 187027,
+      "name": "More Than Love",
+      "url": "https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -833,38 +833,6 @@
       "url": "https://open.spotify.com/track/1I9Uda51gz1rbjh0z7Xu6T"
     },
     {
-      "added_at": "2026-06-26 04:00:26",
-      "album": {
-        "name": "Swamp Dogg Contemplates The Afterlife",
-        "url": "https://open.spotify.com/album/16JqcSxNQDfq9hq6KCpVjx"
-      },
-      "artists": [
-        {
-          "name": "Swamp Dogg",
-          "url": "https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX"
-        }
-      ],
-      "duration_ms": 238158,
-      "name": "Final Approach",
-      "url": "https://open.spotify.com/track/5YPcwXfi1uGuUSMDCq6Asv"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
-        "name": "Sweet Southern Sounds",
-        "url": "https://open.spotify.com/album/6eAO9mBoyOKyh8CLcopqzB"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        }
-      ],
-      "duration_ms": 301430,
-      "name": "Sweet Southern Sounds",
-      "url": "https://open.spotify.com/track/0MSeSaQgYPbcDcvsUMNA0d"
-    },
-    {
       "added_at": "2026-06-05 04:00:36",
       "album": {
         "name": "Lahaina (feat. Mick Fleetwood, Jake Shimabukuro & Henry Kapono)",
@@ -895,18 +863,18 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
-        "name": "Watch Me Gone",
-        "url": "https://open.spotify.com/album/6gefEZB1b5wlbCj9zLYagj"
+        "name": "Sweet Southern Sounds",
+        "url": "https://open.spotify.com/album/6eAO9mBoyOKyh8CLcopqzB"
       },
       "artists": [
         {
-          "name": "Mark Knopfler",
-          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
         }
       ],
-      "duration_ms": 302346,
-      "name": "Watch Me Gone",
-      "url": "https://open.spotify.com/track/00GkFHBAxQe5yr55TtacF8"
+      "duration_ms": 301430,
+      "name": "Sweet Southern Sounds",
+      "url": "https://open.spotify.com/track/0MSeSaQgYPbcDcvsUMNA0d"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -927,6 +895,38 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
+        "name": "Watch Me Gone",
+        "url": "https://open.spotify.com/album/6gefEZB1b5wlbCj9zLYagj"
+      },
+      "artists": [
+        {
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+        }
+      ],
+      "duration_ms": 302346,
+      "name": "Watch Me Gone",
+      "url": "https://open.spotify.com/track/00GkFHBAxQe5yr55TtacF8"
+    },
+    {
+      "added_at": "2026-06-26 04:00:26",
+      "album": {
+        "name": "Swamp Dogg Contemplates The Afterlife",
+        "url": "https://open.spotify.com/album/16JqcSxNQDfq9hq6KCpVjx"
+      },
+      "artists": [
+        {
+          "name": "Swamp Dogg",
+          "url": "https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX"
+        }
+      ],
+      "duration_ms": 238158,
+      "name": "Final Approach",
+      "url": "https://open.spotify.com/track/5YPcwXfi1uGuUSMDCq6Asv"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
         "name": "House On Fire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj"
       },
@@ -939,22 +939,6 @@
       "duration_ms": 201733,
       "name": "Saviour - Unplugged",
       "url": "https://open.spotify.com/track/3tZ3CSFytTQT6ZfYedDebH"
-    },
-    {
-      "added_at": "2026-07-03 04:00:33",
-      "album": {
-        "name": "Days Of Unrest",
-        "url": "https://open.spotify.com/album/48Pi5bbsz8A0ND4rAEfrX1"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Can\u2019t Stand Still",
-      "url": "https://open.spotify.com/track/34DP3hpitJRMYp3nUtc2jC"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -971,6 +955,22 @@
       "duration_ms": 292786,
       "name": "Let's Walk",
       "url": "https://open.spotify.com/track/749934L9Ujz8uNMBwGD4or"
+    },
+    {
+      "added_at": "2026-07-03 04:00:33",
+      "album": {
+        "name": "Days Of Unrest",
+        "url": "https://open.spotify.com/album/48Pi5bbsz8A0ND4rAEfrX1"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Can\u2019t Stand Still",
+      "url": "https://open.spotify.com/track/34DP3hpitJRMYp3nUtc2jC"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
-        "name": "Crossroads",
-        "url": "https://open.spotify.com/album/4Ll4o9sr0YtDyYzJYq4VpN"
-      },
-      "artists": [
-        {
-          "name": "The Imaginaries",
-          "url": "https://open.spotify.com/artist/2ND76XrIKlvo3w0cHsy66L"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 227453,
-      "name": "Crossroads",
-      "url": "https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/0Skl6by8nLaYc2GnRUqJoa"
       },
@@ -1179,18 +1159,22 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
-        "name": "Best Believe",
-        "url": "https://open.spotify.com/album/1mqN7FXBKeUsL7mNxyOmE9"
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/4Ll4o9sr0YtDyYzJYq4VpN"
       },
       "artists": [
         {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+          "name": "The Imaginaries",
+          "url": "https://open.spotify.com/artist/2ND76XrIKlvo3w0cHsy66L"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 228192,
-      "name": "Best Believe",
-      "url": "https://open.spotify.com/track/25RTJhQWS4t1pjGqSV0i6U"
+      "duration_ms": 227453,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
+        "name": "Best Believe",
+        "url": "https://open.spotify.com/album/1mqN7FXBKeUsL7mNxyOmE9"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 228192,
+      "name": "Best Believe",
+      "url": "https://open.spotify.com/track/25RTJhQWS4t1pjGqSV0i6U"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
         "name": "You Can't Love Me",
         "url": "https://open.spotify.com/album/7tijSpRn4KSVy4w7foF55l"
       },
@@ -1255,22 +1255,6 @@
       "duration_ms": 251946,
       "name": "You Can't Love Me",
       "url": "https://open.spotify.com/track/4dHYQ1XOK8iTCRlTh9TDNE"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
-        "name": "Roots & Wings",
-        "url": "https://open.spotify.com/album/31VSvPpkcluGFzHwBWP9uL"
-      },
-      "artists": [
-        {
-          "name": "Amani Burnham",
-          "url": "https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Roots & Wings",
-      "url": "https://open.spotify.com/track/7eGKkTJGAjTHckLuIEsmjG"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -1291,6 +1275,22 @@
       "duration_ms": 219453,
       "name": "Reconcile",
       "url": "https://open.spotify.com/track/40KisYYaB1CQZ32qDkdo2L"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
+        "name": "Roots & Wings",
+        "url": "https://open.spotify.com/album/31VSvPpkcluGFzHwBWP9uL"
+      },
+      "artists": [
+        {
+          "name": "Amani Burnham",
+          "url": "https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Roots & Wings",
+      "url": "https://open.spotify.com/track/7eGKkTJGAjTHckLuIEsmjG"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
-        "name": "Let's Get Loud",
-        "url": "https://open.spotify.com/album/3p4c8IRujfvliWsiA0jS8n"
+        "name": "Companions",
+        "url": "https://open.spotify.com/album/53QsuWFAeqe5ihfdsL8VsN"
       },
       "artists": [
         {
-          "name": "Zach Person",
-          "url": "https://open.spotify.com/artist/0lgtMXcZRhFOUU2ZPddLoA"
+          "name": "Adam Douglas",
+          "url": "https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG"
         }
       ],
-      "duration_ms": 288256,
-      "name": "Muddy Water",
-      "url": "https://open.spotify.com/track/02FcRwLxP00Bwx3ZNTIMzw"
+      "duration_ms": 225106,
+      "name": "My Own Disguise",
+      "url": "https://open.spotify.com/track/0vIbWBOYgO6TTkWe4ZarrH"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
-        "name": "Companions",
-        "url": "https://open.spotify.com/album/53QsuWFAeqe5ihfdsL8VsN"
+        "name": "Let's Get Loud",
+        "url": "https://open.spotify.com/album/3p4c8IRujfvliWsiA0jS8n"
       },
       "artists": [
         {
-          "name": "Adam Douglas",
-          "url": "https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG"
+          "name": "Zach Person",
+          "url": "https://open.spotify.com/artist/0lgtMXcZRhFOUU2ZPddLoA"
         }
       ],
-      "duration_ms": 225106,
-      "name": "My Own Disguise",
-      "url": "https://open.spotify.com/track/0vIbWBOYgO6TTkWe4ZarrH"
+      "duration_ms": 288256,
+      "name": "Muddy Water",
+      "url": "https://open.spotify.com/track/02FcRwLxP00Bwx3ZNTIMzw"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
-        "name": "Crisscross Way",
-        "url": "https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb"
-      },
-      "artists": [
-        {
-          "name": "ggwendolyn",
-          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
-        }
-      ],
-      "duration_ms": 164344,
-      "name": "Crisscross Way",
-      "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
         "name": "Ugly",
         "url": "https://open.spotify.com/album/7EfWvQIahrZafZL6xiyBQ3"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 335658,
       "name": "Cover Me",
       "url": "https://open.spotify.com/track/3BSJNXL0i0hBNNBI8qLMaQ"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
+        "name": "Crisscross Way",
+        "url": "https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb"
+      },
+      "artists": [
+        {
+          "name": "ggwendolyn",
+          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
+        }
+      ],
+      "duration_ms": 164344,
+      "name": "Crisscross Way",
+      "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
+        "name": "Shoulda Been",
+        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
+      },
+      "artists": [
+        {
+          "name": "Bryan Elijah Smith",
+          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
+        }
+      ],
+      "duration_ms": 157125,
+      "name": "Man I Used To Be",
+      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
         "name": "Revelations",
         "url": "https://open.spotify.com/album/3HWmAVWwH6PGfEdePj3ik9"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 221239,
       "name": "Revelations",
       "url": "https://open.spotify.com/track/6O3eodXH5dYjU1uhFW7v3F"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
-        "name": "Shoulda Been",
-        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
-      },
-      "artists": [
-        {
-          "name": "Bryan Elijah Smith",
-          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
-        }
-      ],
-      "duration_ms": 157125,
-      "name": "Man I Used To Be",
-      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
     },
     {
       "added_at": "2026-06-05 04:00:36",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2026-06-05 04:00:36",
       "album": {
+        "name": "Seasons Change",
+        "url": "https://open.spotify.com/album/1DjF9YaLZ3PKdzmwNPdwok"
+      },
+      "artists": [
+        {
+          "name": "Chadwick Johnson",
+          "url": "https://open.spotify.com/artist/21iVIpVgIhkCIkz7yQfKgV"
+        }
+      ],
+      "duration_ms": 207931,
+      "name": "Seasons Change",
+      "url": "https://open.spotify.com/track/6s9DuDzSqgGqKoGTSWdpPu"
+    },
+    {
+      "added_at": "2026-06-05 04:00:36",
+      "album": {
         "name": "Run Out of Love (with Lisa Loeb)",
         "url": "https://open.spotify.com/album/6QKfjajavauKgHu9faeZNJ"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 277026,
       "name": "Run Out of Love - with Lisa Loeb",
       "url": "https://open.spotify.com/track/34JpLfR2gIJtsq93RnbRCu"
-    },
-    {
-      "added_at": "2026-06-05 04:00:36",
-      "album": {
-        "name": "Seasons Change",
-        "url": "https://open.spotify.com/album/1DjF9YaLZ3PKdzmwNPdwok"
-      },
-      "artists": [
-        {
-          "name": "Chadwick Johnson",
-          "url": "https://open.spotify.com/artist/21iVIpVgIhkCIkz7yQfKgV"
-        }
-      ],
-      "duration_ms": 207931,
-      "name": "Seasons Change",
-      "url": "https://open.spotify.com/track/6s9DuDzSqgGqKoGTSWdpPu"
     }
   ],
   "unique_name": "Blues Roots",

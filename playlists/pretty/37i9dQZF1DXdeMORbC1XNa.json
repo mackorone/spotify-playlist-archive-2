@@ -1,6 +1,6 @@
 {
   "description": "A perfect link up to soundtrack your day. Cover: Asake",
-  "num_followers": 320649,
+  "num_followers": 320643,
   "original_name": "The ACS",
   "owner": {
     "name": "Spotify",
@@ -227,26 +227,6 @@
     {
       "added_at": "2026-07-23 23:00:54",
       "album": {
-        "name": "Till The Wheels Fall Off",
-        "url": "https://open.spotify.com/album/6TxDe2gHUaquCy80v8aFQm"
-      },
-      "artists": [
-        {
-          "name": "LeoStayTrill",
-          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "Till The Wheels Fall Off",
-      "url": "https://open.spotify.com/track/2L3CJQFfnVTewLPdQ0iR19"
-    },
-    {
-      "added_at": "2026-07-23 23:00:54",
-      "album": {
         "name": "Talk To Me Nuh",
         "url": "https://open.spotify.com/album/2m47uENn2jQv3q5muu3z1S"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 126042,
       "name": "Talk To Me Nuh",
       "url": "https://open.spotify.com/track/57OHpXh84fu4FwL02ykMoI"
+    },
+    {
+      "added_at": "2026-07-23 23:00:54",
+      "album": {
+        "name": "Till The Wheels Fall Off",
+        "url": "https://open.spotify.com/album/6TxDe2gHUaquCy80v8aFQm"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "Till The Wheels Fall Off",
+      "url": "https://open.spotify.com/track/2L3CJQFfnVTewLPdQ0iR19"
     },
     {
       "added_at": "2026-07-23 23:00:54",
@@ -419,18 +419,22 @@
     {
       "added_at": "2026-07-23 23:00:54",
       "album": {
-        "name": "Shy Lover",
-        "url": "https://open.spotify.com/album/0MFGCY6DDl4rA0Y10S8W5I"
+        "name": "Escaladizzy",
+        "url": "https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k"
       },
       "artists": [
         {
           "name": "Mavo",
           "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "WAVE$TAR",
+          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
         }
       ],
-      "duration_ms": 163404,
-      "name": "Shy Lover",
-      "url": "https://open.spotify.com/track/7miAnx549SadDs2wFvAzSZ"
+      "duration_ms": 164745,
+      "name": "Escaladizzy",
+      "url": "https://open.spotify.com/track/78lEwmE6xpWtwHhS8D9Fw2"
     },
     {
       "added_at": "2026-07-23 23:00:54",
@@ -507,22 +511,34 @@
     {
       "added_at": "2026-07-23 23:00:54",
       "album": {
-        "name": "Escaladizzy",
-        "url": "https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k"
+        "name": "Shy Lover",
+        "url": "https://open.spotify.com/album/0MFGCY6DDl4rA0Y10S8W5I"
       },
       "artists": [
         {
           "name": "Mavo",
           "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        },
-        {
-          "name": "WAVE$TAR",
-          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
         }
       ],
-      "duration_ms": 164745,
-      "name": "Escaladizzy",
-      "url": "https://open.spotify.com/track/78lEwmE6xpWtwHhS8D9Fw2"
+      "duration_ms": 163404,
+      "name": "Shy Lover",
+      "url": "https://open.spotify.com/track/7miAnx549SadDs2wFvAzSZ"
+    },
+    {
+      "added_at": "2026-07-23 23:00:54",
+      "album": {
+        "name": "Boasty",
+        "url": "https://open.spotify.com/album/42n8NMDi7al7lkUgcb2hEY"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Boasty",
+      "url": "https://open.spotify.com/track/5QNkPqJgBEVWp8cOvYnudA"
     },
     {
       "added_at": "2026-07-23 23:00:54",
@@ -543,22 +559,6 @@
       "duration_ms": 156666,
       "name": "Formation",
       "url": "https://open.spotify.com/track/687RJSOAS8xDed1hoFxum1"
-    },
-    {
-      "added_at": "2026-07-23 23:00:54",
-      "album": {
-        "name": "Boasty",
-        "url": "https://open.spotify.com/album/42n8NMDi7al7lkUgcb2hEY"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Boasty",
-      "url": "https://open.spotify.com/track/5QNkPqJgBEVWp8cOvYnudA"
     },
     {
       "added_at": "2026-07-23 23:00:54",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-07-23 23:00:54",
       "album": {
+        "name": "TEMPERATURE",
+        "url": "https://open.spotify.com/album/4kWBSyni5DjUpti2gGPcZy"
+      },
+      "artists": [
+        {
+          "name": "Skeete",
+          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
+        }
+      ],
+      "duration_ms": 157727,
+      "name": "TEMPERATURE",
+      "url": "https://open.spotify.com/track/4IorLTuFO12aXjTGAXVsM6"
+    },
+    {
+      "added_at": "2026-07-23 23:00:54",
+      "album": {
         "name": "Cyah Behave",
         "url": "https://open.spotify.com/album/23u2ssQcJy2eaZ4fRhax9G"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 146626,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/5ihk7LYUhUcGVVvUAqViTt"
-    },
-    {
-      "added_at": "2026-07-23 23:00:54",
-      "album": {
-        "name": "TEMPERATURE",
-        "url": "https://open.spotify.com/album/4kWBSyni5DjUpti2gGPcZy"
-      },
-      "artists": [
-        {
-          "name": "Skeete",
-          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
-        }
-      ],
-      "duration_ms": 157727,
-      "name": "TEMPERATURE",
-      "url": "https://open.spotify.com/track/4IorLTuFO12aXjTGAXVsM6"
     },
     {
       "added_at": "2026-07-23 23:00:54",
@@ -775,6 +775,26 @@
     {
       "added_at": "2026-07-23 23:00:54",
       "album": {
+        "name": "See What We've Done",
+        "url": "https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 185719,
+      "name": "See What We've Done",
+      "url": "https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b"
+    },
+    {
+      "added_at": "2026-07-23 23:00:54",
+      "album": {
         "name": "CiCi (Deluxe)",
         "url": "https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 159272,
       "name": "Nice n' Sweet (feat. MOLIY)",
       "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"
-    },
-    {
-      "added_at": "2026-07-23 23:00:54",
-      "album": {
-        "name": "See What We've Done",
-        "url": "https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 185719,
-      "name": "See What We've Done",
-      "url": "https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b"
     },
     {
       "added_at": "2026-07-23 23:00:54",

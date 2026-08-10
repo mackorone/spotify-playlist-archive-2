@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-463 songs - 1 day 2 hr 54 min
+464 songs - 1 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Last Man On Earth](https://open.spotify.com/track/55P8rIE0Lva9mR2QYLFeE3) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Goodbye \(If You Call That Gone\)](https://open.spotify.com/album/1svJQc2WYWqzXp75ZaxFH4) | 3:36 | 2026-03-10 | 2026-04-16 |
 | [Lawless \- Live](https://open.spotify.com/track/5ITVgTTBvXKfljsjnH32bP) | [Daisy Dooks](https://open.spotify.com/artist/14FaxA5641sUwJ48atvveo) | [Live at The Albany](https://open.spotify.com/album/3GorY4S66WCmQ1hiuzPDoC) | 3:56 | 2025-10-30 | 2025-12-12 |
 | [Le monde part en fusée](https://open.spotify.com/track/2I86BkId64ZJMxJ32H7FYG) | [Maël Jones](https://open.spotify.com/artist/7vG6jtcybDsUbuFm6iKxNC) | [Sous contrôle](https://open.spotify.com/album/4IGoZE6Rp1P0JQDDo7MJip) | 3:17 | 2026-03-10 | 2026-04-16 |
+| [Leave](https://open.spotify.com/track/24eQ0gaztPwAT44pHozFI5) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Leave](https://open.spotify.com/album/2CadloDYbh46qgdzOWfoQ0) | 3:08 | 2026-08-09 |  |
 | [Leave My Mess Behind](https://open.spotify.com/track/5OrY0h7bLAx3m69fulxRrL) | [Wishwell](https://open.spotify.com/artist/4ujbmiDbRtguC5T4JecZgv) | [Leave My Mess Behind](https://open.spotify.com/album/2DxH4WogmQNgtN9amI11YV) | 3:23 | 2026-06-25 |  |
 | [Left on Red](https://open.spotify.com/track/7hvIooRdwasrzBFf1zuzMi) | [Left Out](https://open.spotify.com/artist/0u5lJCQCtzpkMkfckgeTwr) | [Left on Red](https://open.spotify.com/album/1oYLH8UaTxWb2mQawgCAci) | 4:38 | 2026-06-03 |  |
 | [Legos](https://open.spotify.com/track/1n6e2lkiVY7jiqIbGETKhk) | [K\-NON](https://open.spotify.com/artist/2whXftjghPIBw9A5rWkjZY), [Vepy](https://open.spotify.com/artist/37eGmYLzLX8gA7Eh9mgVRi) | [Legos](https://open.spotify.com/album/7u35zpzp6buERBScBvujJi) | 3:28 | 2026-02-19 | 2026-04-16 |

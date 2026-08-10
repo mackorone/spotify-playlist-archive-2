@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover: Feza
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,097 likes - 101 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,216 likes - 101 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

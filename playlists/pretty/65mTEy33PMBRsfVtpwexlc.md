@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/65mTEy33PMBRsfVtpwexlc.md) - [plain]
 
 > Best of 90s alternative rock music including iconic throwback alt rock songs from Red Hot Chili Peppers, The Goo Goo Dolls, Blur, blink\-182, Nirvana, and more!
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 56,991 likes - 116 songs - 7 hr 41 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 56,982 likes - 116 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Seyi Vibez. The essential tracks, all in one playlist.",
-  "num_followers": 52546,
+  "num_followers": 52580,
   "original_name": "This Is Seyi Vibez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anUgAAAAAADWRXqz+ad+oCvC+lolVM8b",
+  "snapshot_id": "anZxgAAAAAAH4cJJZ51RmdrD1xl35mEI",
   "tracks": [
     {
       "added_at": null,
@@ -267,26 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "OPERA MINI",
-        "url": "https://open.spotify.com/album/4XZ3Ls59KQA8sM6XRjTfHi"
-      },
-      "artists": [
-        {
-          "name": "Poco Lee",
-          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 151836,
-      "name": "OPERA MINI",
-      "url": "https://open.spotify.com/track/41SH4tiHf1tblXPqQKujG9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Instagram",
         "url": "https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 140606,
       "name": "Instagram",
       "url": "https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OPERA MINI",
+        "url": "https://open.spotify.com/album/4XZ3Ls59KQA8sM6XRjTfHi"
+      },
+      "artists": [
+        {
+          "name": "Poco Lee",
+          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 151836,
+      "name": "OPERA MINI",
+      "url": "https://open.spotify.com/track/41SH4tiHf1tblXPqQKujG9"
     },
     {
       "added_at": null,

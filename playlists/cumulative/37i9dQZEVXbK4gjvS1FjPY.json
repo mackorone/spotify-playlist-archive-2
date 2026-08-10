@@ -13978,7 +13978,7 @@
       ],
       "date_added": "2021-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-13",
+      "date_removed": null,
       "duration_ms": 254520,
       "name": "Home",
       "url": "https://open.spotify.com/track/1vo8399T9sWFZ9vbrEcTL5"
@@ -17318,7 +17318,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 219584,
       "name": "kiss me",
       "url": "https://open.spotify.com/track/0lok0VDJn0zRvHLBCITSSw"
@@ -18410,7 +18410,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 167333,
       "name": "like i do",
       "url": "https://open.spotify.com/track/3d1oTMjtfVySbAYQp3v4MU"
@@ -21720,7 +21720,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 228857,
       "name": "never get over me",
       "url": "https://open.spotify.com/track/55srcWA7TioKV0LZVNXltY"
@@ -22816,7 +22816,7 @@
       ],
       "date_added": "2026-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 196166,
       "name": "oh well",
       "url": "https://open.spotify.com/track/5DZOKNtaoVEssXu9ltcMjx"
@@ -27588,7 +27588,7 @@
       ],
       "date_added": "2023-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 213333,
       "name": "Shine Your Light",
       "url": "https://open.spotify.com/track/6gK7zSvaNXzwUTowopQuwW"
@@ -28430,7 +28430,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -29770,6 +29770,32 @@
     {
       "album": {
         "name": "Stronger Together",
+        "url": "https://open.spotify.com/album/1WxQfTYdzT4MwuIopKiIox"
+      },
+      "artists": [
+        {
+          "name": "NDPeeps",
+          "url": "https://open.spotify.com/artist/1BhtFoW6keQNCZBQEDFmmT"
+        },
+        {
+          "name": "Taufik Batisah",
+          "url": "https://open.spotify.com/artist/2lUOtL7ynpi6qacshqiA5m"
+        },
+        {
+          "name": "The Island Voices",
+          "url": "https://open.spotify.com/artist/6qlXAApftEMUSOCpaFiMKR"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253943,
+      "name": "Stronger Together",
+      "url": "https://open.spotify.com/track/28DCQm7qHUSXoXUOjtJzF3"
+    },
+    {
+      "album": {
+        "name": "Stronger Together",
         "url": "https://open.spotify.com/album/3vw2l0iFPFc9ehFfWbcDvj"
       },
       "artists": [
@@ -30114,7 +30140,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 157560,
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY"
@@ -32638,7 +32664,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 185000,
       "name": "This & That",
       "url": "https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP"
@@ -33574,7 +33600,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 187973,
       "name": "Treat You Better",
       "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
@@ -34934,7 +34960,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
@@ -35468,7 +35494,7 @@
       ],
       "date_added": "2021-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 183160,
       "name": "Where I Belong",
       "url": "https://open.spotify.com/track/0u0a0p4hWefiy09bYqzZ2A"
@@ -38828,7 +38854,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 210461,
       "name": "\u7532\u4e59\u4e19\u4e01 - \u4f60\u6211\u600e\u4e48\u4e24\u6e05",
       "url": "https://open.spotify.com/track/629FqLOdjtsXh5b45FTk43"

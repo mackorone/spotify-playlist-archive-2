@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 76488,
+  "num_followers": 76492,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anUgAAAAAADhlNjKs35BU2qRSpp4xPeA",
+  "snapshot_id": "anZxgAAAAABupa+8ki2dUpzvDKC6SIuF",
   "tracks": [
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hecatombe Disco",
+        "url": "https://open.spotify.com/album/2ZGCpjlSEH00JNwAPjY1o0"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Est\u00fapida",
+      "url": "https://open.spotify.com/track/6IiCJye3u6X8C83pR1WWLy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Pachanga",
         "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
       },
@@ -567,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hecatombe Disco",
-        "url": "https://open.spotify.com/album/2ZGCpjlSEH00JNwAPjY1o0"
+        "name": "Histeria",
+        "url": "https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G"
       },
       "artists": [
         {
@@ -576,9 +592,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 211666,
-      "name": "Est\u00fapida",
-      "url": "https://open.spotify.com/track/6IiCJye3u6X8C83pR1WWLy"
+      "duration_ms": 257021,
+      "name": "La Noche Que Yo Te Vi",
+      "url": "https://open.spotify.com/track/6UwLuzW1kxFiBniDJbv3R9"
     },
     {
       "added_at": null,
@@ -595,22 +611,6 @@
       "duration_ms": 243185,
       "name": "Me Siento Loco",
       "url": "https://open.spotify.com/track/01TJE0vRdTfmFjcj2Z6Q4U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Histeria",
-        "url": "https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 257021,
-      "name": "La Noche Que Yo Te Vi",
-      "url": "https://open.spotify.com/track/6UwLuzW1kxFiBniDJbv3R9"
     },
     {
       "added_at": null,
@@ -731,22 +731,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bailalo",
-        "url": "https://open.spotify.com/album/6xgu82r1BESKZptFU9E0cv"
+        "name": "Histeria",
+        "url": "https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G"
       },
       "artists": [
-        {
-          "name": "Agus Cassano",
-          "url": "https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY"
-        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 159590,
-      "name": "Bailalo",
-      "url": "https://open.spotify.com/track/79gJbOIC4eUBfvWPiUPQcz"
+      "duration_ms": 293035,
+      "name": "Ya Ves",
+      "url": "https://open.spotify.com/track/3ETi80uYYe1gyGNir04jem"
     },
     {
       "added_at": null,
@@ -767,18 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Histeria",
-        "url": "https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G"
+        "name": "Bailalo",
+        "url": "https://open.spotify.com/album/6xgu82r1BESKZptFU9E0cv"
       },
       "artists": [
+        {
+          "name": "Agus Cassano",
+          "url": "https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY"
+        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 293035,
-      "name": "Ya Ves",
-      "url": "https://open.spotify.com/track/3ETi80uYYe1gyGNir04jem"
+      "duration_ms": 159590,
+      "name": "Bailalo",
+      "url": "https://open.spotify.com/track/79gJbOIC4eUBfvWPiUPQcz"
     },
     {
       "added_at": null,

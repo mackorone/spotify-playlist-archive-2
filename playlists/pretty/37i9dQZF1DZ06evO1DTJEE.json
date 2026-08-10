@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 77688,
+  "num_followers": 77753,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anUgAAAAAADD7fgesK8iGKKgxfgx5HY2",
+  "snapshot_id": "anZxgAAAAAAyDjLx/dziuwioTvLBYAYZ",
   "tracks": [
     {
       "added_at": null,
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't My Last Rodeo",
-        "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
+        "name": "Hell Of A Way To Go",
+        "url": "https://open.spotify.com/album/3RxpA45wGZ0WxTWqTozgGf"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 211466,
-      "name": "Damn Good Day To Leave",
-      "url": "https://open.spotify.com/track/68kxxoYgSw8HnZMUDn2slR"
+      "duration_ms": 166133,
+      "name": "Hell Of A Way To Go",
+      "url": "https://open.spotify.com/track/4vfTyv3PkLAac4zTn5P82d"
     },
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hell Of A Way To Go",
-        "url": "https://open.spotify.com/album/3RxpA45wGZ0WxTWqTozgGf"
+        "name": "Ain't My Last Rodeo",
+        "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 166133,
-      "name": "Hell Of A Way To Go",
-      "url": "https://open.spotify.com/track/4vfTyv3PkLAac4zTn5P82d"
+      "duration_ms": 211466,
+      "name": "Damn Good Day To Leave",
+      "url": "https://open.spotify.com/track/68kxxoYgSw8HnZMUDn2slR"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Listen hot and new Korean classical & new age  music in here! (Cover: \uc870\uc218\ubbf8(Sumi Jo)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 5785,
+  "num_followers": 5787,
   "original_name": "Classics Korea",
   "owner": {
     "name": "Spotify",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
+        "name": "THE WAR",
+        "url": "https://open.spotify.com/album/36vxVW2Dnh8vpwOR7wdSNs"
+      },
+      "artists": [
+        {
+          "name": "LA POEM",
+          "url": "https://open.spotify.com/artist/0FnUIVrcXuabu4ec2Wu1tG"
+        }
+      ],
+      "duration_ms": 212986,
+      "name": "The War",
+      "url": "https://open.spotify.com/track/6XxWCHSggKK5lmUGRe1oa0"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
         "name": "Rachmaninoff: Piano Concerto No. 3 in D Minor, Op. 30: I. Allegro ma non tanto (Opening) [Live from the 2022 Cliburn Competition]",
         "url": "https://open.spotify.com/album/29W8zV1rUNtJZOu4r9wKuE"
       },
@@ -1187,24 +1203,8 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "THE WAR",
-        "url": "https://open.spotify.com/album/36vxVW2Dnh8vpwOR7wdSNs"
-      },
-      "artists": [
-        {
-          "name": "LA POEM",
-          "url": "https://open.spotify.com/artist/0FnUIVrcXuabu4ec2Wu1tG"
-        }
-      ],
-      "duration_ms": 212986,
-      "name": "The War",
-      "url": "https://open.spotify.com/track/6XxWCHSggKK5lmUGRe1oa0"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "Hello Future (Orchestra Version)",
-        "url": "https://open.spotify.com/album/64wbFWrfJGu8mxeB64nr1X"
+        "name": "2022 Winter SMTOWN : SMCU PALACE",
+        "url": "https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw"
       },
       "artists": [
         {
@@ -1212,25 +1212,9 @@
           "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
         }
       ],
-      "duration_ms": 265120,
-      "name": "Hello Future - Orchestra Version",
-      "url": "https://open.spotify.com/track/5OEMZULG7kkUTuh6WAgVm4"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "Growl (Orchestra Version)",
-        "url": "https://open.spotify.com/album/65qB92gNunjYGnLsfJ6cXR"
-      },
-      "artists": [
-        {
-          "name": "Seoul Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/4jeL1MqtTmuyNb04ZuzGR7"
-        }
-      ],
-      "duration_ms": 244918,
-      "name": "Growl - Orchestra Version",
-      "url": "https://open.spotify.com/track/11xLAKc6AdEsSbosVOpRUk"
+      "duration_ms": 129440,
+      "name": "Welcome To SMCU PALACE",
+      "url": "https://open.spotify.com/track/3EyZKeSteCNatEQuVlkm9a"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1271,6 +1255,22 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
+        "name": "Growl (Orchestra Version)",
+        "url": "https://open.spotify.com/album/65qB92gNunjYGnLsfJ6cXR"
+      },
+      "artists": [
+        {
+          "name": "Seoul Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4jeL1MqtTmuyNb04ZuzGR7"
+        }
+      ],
+      "duration_ms": 244918,
+      "name": "Growl - Orchestra Version",
+      "url": "https://open.spotify.com/track/11xLAKc6AdEsSbosVOpRUk"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/5qPEipNj8HRvGayK7rePRl"
       },
@@ -1303,8 +1303,8 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "2022 Winter SMTOWN : SMCU PALACE",
-        "url": "https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw"
+        "name": "Hello Future (Orchestra Version)",
+        "url": "https://open.spotify.com/album/64wbFWrfJGu8mxeB64nr1X"
       },
       "artists": [
         {
@@ -1312,9 +1312,9 @@
           "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
         }
       ],
-      "duration_ms": 129440,
-      "name": "Welcome To SMCU PALACE",
-      "url": "https://open.spotify.com/track/3EyZKeSteCNatEQuVlkm9a"
+      "duration_ms": 265120,
+      "name": "Hello Future - Orchestra Version",
+      "url": "https://open.spotify.com/track/5OEMZULG7kkUTuh6WAgVm4"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/6LEG1YD9VAOl6UQIxlHw35"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "duration_ms": 209186,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/4cn253p3x8Rm42HbzXpHlz"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
         "name": "Rachmaninoff, A Reflection",
         "url": "https://open.spotify.com/album/1ETZFwejOUfhRVxkhG8WmC"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 41733,
       "name": "Variations on a Theme of Corelli, Op. 42: Var. 1. Poco pi\u00f9 mosso",
       "url": "https://open.spotify.com/track/0N6gEgu138TistgGvFFaeW"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "The River",
-        "url": "https://open.spotify.com/album/6LEG1YD9VAOl6UQIxlHw35"
-      },
-      "artists": [
-        {
-          "name": "jung jaeil",
-          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
-        }
-      ],
-      "duration_ms": 209186,
-      "name": "The River",
-      "url": "https://open.spotify.com/track/4cn253p3x8Rm42HbzXpHlz"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1831,22 +1831,26 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Remembering That Time",
-        "url": "https://open.spotify.com/album/4t169pzs8XwsLblqQ1Pfhy"
+        "name": "BACH",
+        "url": "https://open.spotify.com/album/7b33CBpLX0MdeTERTqWLtY"
       },
       "artists": [
         {
-          "name": "Jung Hwan Ho",
-          "url": "https://open.spotify.com/artist/04uSLKMyRP1TSXa46Rione"
+          "name": "Wilhelm Friedemann Bach",
+          "url": "https://open.spotify.com/artist/5fz5lcOIakwBiRF7vzfm0u"
         },
         {
-          "name": "Jisoo Sohn",
-          "url": "https://open.spotify.com/artist/3XgJe3mjSMAKFB6jIHsj0V"
+          "name": "Sung-hyun Cho",
+          "url": "https://open.spotify.com/artist/3nkgtAm4BJW72KgeKjDokb"
+        },
+        {
+          "name": "Kyeong Ham",
+          "url": "https://open.spotify.com/artist/108Taje6uEORRRZqqaVYdl"
         }
       ],
-      "duration_ms": 267986,
-      "name": "Remembering That Time",
-      "url": "https://open.spotify.com/track/7x9ycPYAFFqQ8o2AnBO9Kb"
+      "duration_ms": 361853,
+      "name": "Duet for Flute and Oboe No. 1 in E Minor, F. 54: I. Allegro",
+      "url": "https://open.spotify.com/track/4xglnE2yA87Ym31aVxBQnW"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1895,46 +1899,6 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "FLOWER",
-        "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
-      },
-      "artists": [
-        {
-          "name": "YOONHAN",
-          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Camellia",
-      "url": "https://open.spotify.com/track/777FLvGcK65H7Ljf4K3PNl"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "BACH",
-        "url": "https://open.spotify.com/album/7b33CBpLX0MdeTERTqWLtY"
-      },
-      "artists": [
-        {
-          "name": "Wilhelm Friedemann Bach",
-          "url": "https://open.spotify.com/artist/5fz5lcOIakwBiRF7vzfm0u"
-        },
-        {
-          "name": "Sung-hyun Cho",
-          "url": "https://open.spotify.com/artist/3nkgtAm4BJW72KgeKjDokb"
-        },
-        {
-          "name": "Kyeong Ham",
-          "url": "https://open.spotify.com/artist/108Taje6uEORRRZqqaVYdl"
-        }
-      ],
-      "duration_ms": 361853,
-      "name": "Duet for Flute and Oboe No. 1 in E Minor, F. 54: I. Allegro",
-      "url": "https://open.spotify.com/track/4xglnE2yA87Ym31aVxBQnW"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
         "name": "Beethoven: Complete Piano Sonatas",
         "url": "https://open.spotify.com/album/1aZMeJFNESnJsxelEwbCmK"
       },
@@ -1951,6 +1915,42 @@
       "duration_ms": 516492,
       "name": "Piano Sonata No. 7 in D Major, Op. 10 No. 3: II. Largo e mesto",
       "url": "https://open.spotify.com/track/1OLeHLfNNpm4J0az1zLhN5"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
+        "name": "FLOWER",
+        "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
+      },
+      "artists": [
+        {
+          "name": "YOONHAN",
+          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Camellia",
+      "url": "https://open.spotify.com/track/777FLvGcK65H7Ljf4K3PNl"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
+        "name": "Remembering That Time",
+        "url": "https://open.spotify.com/album/4t169pzs8XwsLblqQ1Pfhy"
+      },
+      "artists": [
+        {
+          "name": "Jung Hwan Ho",
+          "url": "https://open.spotify.com/artist/04uSLKMyRP1TSXa46Rione"
+        },
+        {
+          "name": "Jisoo Sohn",
+          "url": "https://open.spotify.com/artist/3XgJe3mjSMAKFB6jIHsj0V"
+        }
+      ],
+      "duration_ms": 267986,
+      "name": "Remembering That Time",
+      "url": "https://open.spotify.com/track/7x9ycPYAFFqQ8o2AnBO9Kb"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1991,6 +1991,26 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
+        "name": "Beethoven: Complete Piano Sonatas",
+        "url": "https://open.spotify.com/album/1aZMeJFNESnJsxelEwbCmK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "HieYon Choi",
+          "url": "https://open.spotify.com/artist/2IJ32s9WsLzXb7SCLYa4wB"
+        }
+      ],
+      "duration_ms": 441320,
+      "name": "Piano Sonata No. 1 in F Minor, Op. 2 No. 1: IV. Prestissimo",
+      "url": "https://open.spotify.com/track/4w5ukjojktIUJSGJMcPqNb"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
         "name": "Cantar",
         "url": "https://open.spotify.com/album/12OfHAPonuauia8yGSyl3s"
       },
@@ -2023,26 +2043,6 @@
       "duration_ms": 184000,
       "name": "Blooming",
       "url": "https://open.spotify.com/track/3CHPzAuqAM2UBSSN42RSW3"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "Beethoven: Complete Piano Sonatas",
-        "url": "https://open.spotify.com/album/1aZMeJFNESnJsxelEwbCmK"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "HieYon Choi",
-          "url": "https://open.spotify.com/artist/2IJ32s9WsLzXb7SCLYa4wB"
-        }
-      ],
-      "duration_ms": 441320,
-      "name": "Piano Sonata No. 1 in F Minor, Op. 2 No. 1: IV. Prestissimo",
-      "url": "https://open.spotify.com/track/4w5ukjojktIUJSGJMcPqNb"
     }
   ],
   "unique_name": "Classics Korea",

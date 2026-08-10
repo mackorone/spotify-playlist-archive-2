@@ -3426,7 +3426,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 293050,
       "name": "Amazwe",
       "url": "https://open.spotify.com/track/4A6U9iDOEAO2EfvbjBJuSN"
@@ -7166,7 +7166,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-04",
+      "date_removed": null,
       "duration_ms": 358008,
       "name": "Bengicela (feat. JAZZWRLD)",
       "url": "https://open.spotify.com/track/6xlxghvkH5yDv93NoHlWOx"
@@ -24914,7 +24914,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 244218,
       "name": "Incenge Kancane",
       "url": "https://open.spotify.com/track/3x9eb22Epgzw3GAR3gig5t"
@@ -26038,7 +26038,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 237662,
       "name": "Isibaya Sikababa",
       "url": "https://open.spotify.com/track/2rHahLGm4dlLrEGmEN3lOb"
@@ -35240,7 +35240,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 286746,
       "name": "Menateng (feat. Patron West, Gallarbass & Stellenbosch)",
       "url": "https://open.spotify.com/track/5QHQ4qcm5VgvAWaKXP7zOA"
@@ -36602,7 +36602,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 272033,
       "name": "Mopepe",
       "url": "https://open.spotify.com/track/6L1PVPyrnb20UrFzuBBqoy"
@@ -39494,7 +39494,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 264437,
       "name": "Ngixolele Mtanami",
       "url": "https://open.spotify.com/track/1FUVQbcP23lIgLSTY2r8SV"
@@ -47092,7 +47092,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 284444,
       "name": "Sabela",
       "url": "https://open.spotify.com/track/18CIBGXAkIeZhwzJt4uT2k"
@@ -48444,7 +48444,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 278073,
       "name": "Sekuzolunga Mama",
       "url": "https://open.spotify.com/track/6W8CWNHx5yktT9EPIPBYFR"
@@ -52588,7 +52588,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 215745,
       "name": "STOP and GO",
       "url": "https://open.spotify.com/track/5xqgBnOpJHAqN0IbGEodh9"
@@ -60047,6 +60047,28 @@
     },
     {
       "album": {
+        "name": "Ischaka Esiziqhenyayo",
+        "url": "https://open.spotify.com/album/3YKt95RVvqp6WKWjx4xIzY"
+      },
+      "artists": [
+        {
+          "name": "Maganga Thishela",
+          "url": "https://open.spotify.com/artist/1xknAXnwx9bFkJLJY4X0J0"
+        },
+        {
+          "name": "kaMaphanga",
+          "url": "https://open.spotify.com/artist/1CaFAQOgHlWzQEePRRK0RR"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198009,
+      "name": "Uyajola lo",
+      "url": "https://open.spotify.com/track/4oqN0vEjGjzwppSJFaFuuH"
+    },
+    {
+      "album": {
         "name": "Lindiwe",
         "url": "https://open.spotify.com/album/7iUCCiZJQEiqKw4k6e0ved"
       },
@@ -65308,7 +65330,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 308241,
       "name": "ZEP (feat. Uncool MC)",
       "url": "https://open.spotify.com/track/532TYCPXAL8dY7C6KItN6F"

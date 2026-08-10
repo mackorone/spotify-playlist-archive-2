@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: Winter Back)",
-  "num_followers": 37904,
+  "num_followers": 37912,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -439,18 +439,26 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "Standing Next to You (The Remixes)",
-        "url": "https://open.spotify.com/album/18U7qF5UYXzGP5C11y9rmq"
+        "name": "3D (feat. Jack Harlow) (MK Remix)",
+        "url": "https://open.spotify.com/album/5zmAW0z1LtRIkw4OHsV3tW"
       },
       "artists": [
         {
           "name": "Jung Kook",
           "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
         }
       ],
-      "duration_ms": 197160,
-      "name": "Standing Next to You (Future Funk Remix)",
-      "url": "https://open.spotify.com/track/0nCAwowgJ2bV2g5EOE67Yi"
+      "duration_ms": 186241,
+      "name": "3D (feat. Jack Harlow) (MK Remix)",
+      "url": "https://open.spotify.com/track/1amaLBTe7l6zyWrWoq2Acy"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -527,26 +535,18 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "3D (feat. Jack Harlow) (MK Remix)",
-        "url": "https://open.spotify.com/album/5zmAW0z1LtRIkw4OHsV3tW"
+        "name": "Standing Next to You (The Remixes)",
+        "url": "https://open.spotify.com/album/18U7qF5UYXzGP5C11y9rmq"
       },
       "artists": [
         {
           "name": "Jung Kook",
           "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
         }
       ],
-      "duration_ms": 186241,
-      "name": "3D (feat. Jack Harlow) (MK Remix)",
-      "url": "https://open.spotify.com/track/1amaLBTe7l6zyWrWoq2Acy"
+      "duration_ms": 197160,
+      "name": "Standing Next to You (Future Funk Remix)",
+      "url": "https://open.spotify.com/track/0nCAwowgJ2bV2g5EOE67Yi"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
+        "name": "FIX OFF Desire Project 1",
+        "url": "https://open.spotify.com/album/2HMHEGg6vqtM2xCFhCbX8f"
+      },
+      "artists": [
+        {
+          "name": "MINGI",
+          "url": "https://open.spotify.com/artist/3ZHodgUsqkIUsek6ke65bO"
+        }
+      ],
+      "duration_ms": 124637,
+      "name": "ROAR (Raiden Hard Techno Ver.)",
+      "url": "https://open.spotify.com/track/6KaoziVUc3ONLYv9D2Vz95"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
         "name": "INSA",
         "url": "https://open.spotify.com/album/6OXsPmbBUVrlVFr6QJGVLK"
       },
@@ -659,38 +675,6 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "FIX OFF Desire Project 1",
-        "url": "https://open.spotify.com/album/2HMHEGg6vqtM2xCFhCbX8f"
-      },
-      "artists": [
-        {
-          "name": "MINGI",
-          "url": "https://open.spotify.com/artist/3ZHodgUsqkIUsek6ke65bO"
-        }
-      ],
-      "duration_ms": 124637,
-      "name": "ROAR (Raiden Hard Techno Ver.)",
-      "url": "https://open.spotify.com/track/6KaoziVUc3ONLYv9D2Vz95"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
-        "name": "11111101",
-        "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
-      },
-      "artists": [
-        {
-          "name": "IDIOTAPE",
-          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
-        }
-      ],
-      "duration_ms": 300771,
-      "name": "Melodie",
-      "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
         "name": "Billyeoon Goyangi (Do the Dance) (Remixes)",
         "url": "https://open.spotify.com/album/0ywumXNrnINKlPDkli38ni"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 195177,
       "name": "Billyeoon Goyangi (Do the Dance) (Snail's House Remix)",
       "url": "https://open.spotify.com/track/5PHwWZbsXcu5vjsV7EVrpl"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
+        "name": "11111101",
+        "url": "https://open.spotify.com/album/4PMQfe2LQME3EBJkKLBFCh"
+      },
+      "artists": [
+        {
+          "name": "IDIOTAPE",
+          "url": "https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z"
+        }
+      ],
+      "duration_ms": 300771,
+      "name": "Melodie",
+      "url": "https://open.spotify.com/track/1dBK30swlPUpcE9DC9iAiy"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -747,46 +747,6 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "Eu li EP",
-        "url": "https://open.spotify.com/album/2I9SmVc4Pk5LecDTu52uDG"
-      },
-      "artists": [
-        {
-          "name": "Mr. Ho",
-          "url": "https://open.spotify.com/artist/44LzZsFXgy7Ft4EsT3WlI8"
-        },
-        {
-          "name": "Mogwaa",
-          "url": "https://open.spotify.com/artist/0ZMvuGH9qIoI5xBA4g0Tqy"
-        }
-      ],
-      "duration_ms": 472841,
-      "name": "Bail-E",
-      "url": "https://open.spotify.com/track/4q5UlYGp3arPnpSFdyWsga"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
-        "name": "Falling In Love (feat. Natalie Major)",
-        "url": "https://open.spotify.com/album/0beKxJgICAAgI8WUwT4zks"
-      },
-      "artists": [
-        {
-          "name": "SakaZan",
-          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
-        },
-        {
-          "name": "Natalie Major",
-          "url": "https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ"
-        }
-      ],
-      "duration_ms": 214758,
-      "name": "Falling In Love (feat. Natalie Major)",
-      "url": "https://open.spotify.com/track/7FIiiND0OckRPn4olaNFEd"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
         "name": "NO DRUGS",
         "url": "https://open.spotify.com/album/3UTPtWpVQ8d2IEBNOLQN0M"
       },
@@ -807,6 +767,26 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
+        "name": "Eu li EP",
+        "url": "https://open.spotify.com/album/2I9SmVc4Pk5LecDTu52uDG"
+      },
+      "artists": [
+        {
+          "name": "Mr. Ho",
+          "url": "https://open.spotify.com/artist/44LzZsFXgy7Ft4EsT3WlI8"
+        },
+        {
+          "name": "Mogwaa",
+          "url": "https://open.spotify.com/artist/0ZMvuGH9qIoI5xBA4g0Tqy"
+        }
+      ],
+      "duration_ms": 472841,
+      "name": "Bail-E",
+      "url": "https://open.spotify.com/track/4q5UlYGp3arPnpSFdyWsga"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
         "name": "MONA LISA (Remix so fine)",
         "url": "https://open.spotify.com/album/7F8rn56kgdWo2Vnn5NhMYp"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 185142,
       "name": "MONA LISA (Afro House Remix)",
       "url": "https://open.spotify.com/track/2lN3Z7lWjGcR0CJ1jOyb9W"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
+        "name": "Falling In Love (feat. Natalie Major)",
+        "url": "https://open.spotify.com/album/0beKxJgICAAgI8WUwT4zks"
+      },
+      "artists": [
+        {
+          "name": "SakaZan",
+          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
+        },
+        {
+          "name": "Natalie Major",
+          "url": "https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ"
+        }
+      ],
+      "duration_ms": 214758,
+      "name": "Falling In Love (feat. Natalie Major)",
+      "url": "https://open.spotify.com/track/7FIiiND0OckRPn4olaNFEd"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "We The One",
-        "url": "https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP"
-      },
-      "artists": [
-        {
-          "name": "SakaZan",
-          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
-        }
-      ],
-      "duration_ms": 195964,
-      "name": "We The One",
-      "url": "https://open.spotify.com/track/50h9twZAayX6uTyu8yNZoB"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
         "name": "Mirror ball (feat. Moon Sujin)",
         "url": "https://open.spotify.com/album/74CFvy0bKedlpwjOKzwilo"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 237133,
       "name": "Love Eternally (feat. JUNNY)",
       "url": "https://open.spotify.com/track/20YNEkOUj8r3jHscotaGpe"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
+        "name": "We The One",
+        "url": "https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP"
+      },
+      "artists": [
+        {
+          "name": "SakaZan",
+          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
+        }
+      ],
+      "duration_ms": 195964,
+      "name": "We The One",
+      "url": "https://open.spotify.com/track/50h9twZAayX6uTyu8yNZoB"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "allez, pousse!",
-        "url": "https://open.spotify.com/album/5nNboTh99GgVWdyJnD6wsL"
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/1VFB78LC4Lv3Y0J3W2tz9F"
       },
       "artists": [
         {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+          "name": "Kimmy gone",
+          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
         }
       ],
-      "duration_ms": 190151,
-      "name": "allez, pousse!",
-      "url": "https://open.spotify.com/track/37QuoY5RacNd54FJnqCIfK"
+      "duration_ms": 169883,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/2qSCVrKlaiJSwmCqS2bUBx"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -1279,18 +1279,34 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "Enemy",
-        "url": "https://open.spotify.com/album/1VFB78LC4Lv3Y0J3W2tz9F"
+        "name": "allez, pousse!",
+        "url": "https://open.spotify.com/album/5nNboTh99GgVWdyJnD6wsL"
       },
       "artists": [
         {
-          "name": "Kimmy gone",
-          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
         }
       ],
-      "duration_ms": 169883,
-      "name": "Enemy",
-      "url": "https://open.spotify.com/track/2qSCVrKlaiJSwmCqS2bUBx"
+      "duration_ms": 190151,
+      "name": "allez, pousse!",
+      "url": "https://open.spotify.com/track/37QuoY5RacNd54FJnqCIfK"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
+        "name": "Love Crime",
+        "url": "https://open.spotify.com/album/7MxqlhBt338i4PjAvXGR0h"
+      },
+      "artists": [
+        {
+          "name": "Rockett",
+          "url": "https://open.spotify.com/artist/43A3PsJWoDgpFw5y9dEJV2"
+        }
+      ],
+      "duration_ms": 154712,
+      "name": "Felony",
+      "url": "https://open.spotify.com/track/1om32xXgoiPoqrZnG3UQBz"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -1311,22 +1327,6 @@
       "duration_ms": 139419,
       "name": "Back for More (with Anitta) (House Remix)",
       "url": "https://open.spotify.com/track/7KK7A6niqD66y0duJ6iupC"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
-        "name": "Love Crime",
-        "url": "https://open.spotify.com/album/7MxqlhBt338i4PjAvXGR0h"
-      },
-      "artists": [
-        {
-          "name": "Rockett",
-          "url": "https://open.spotify.com/artist/43A3PsJWoDgpFw5y9dEJV2"
-        }
-      ],
-      "duration_ms": 154712,
-      "name": "Felony",
-      "url": "https://open.spotify.com/track/1om32xXgoiPoqrZnG3UQBz"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "My Bad (feat. SHAUN)",
-        "url": "https://open.spotify.com/album/2L22h8Oxq7vbnKTv5SDfUu"
-      },
-      "artists": [
-        {
-          "name": "Advanced",
-          "url": "https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY"
-        },
-        {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
-        }
-      ],
-      "duration_ms": 209656,
-      "name": "My Bad (feat. SHAUN)",
-      "url": "https://open.spotify.com/track/7dQFzMYhTXTtIYyoiiHdr8"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
         "name": "wo ai ni / break it even",
         "url": "https://open.spotify.com/album/2GMtWkMoiQifiJB7qDW4XY"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 211525,
       "name": "wo ai ni",
       "url": "https://open.spotify.com/track/4Tu9m6n8UUrCWo2ULTGm3n"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
+        "name": "My Bad (feat. SHAUN)",
+        "url": "https://open.spotify.com/album/2L22h8Oxq7vbnKTv5SDfUu"
+      },
+      "artists": [
+        {
+          "name": "Advanced",
+          "url": "https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY"
+        },
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "duration_ms": 209656,
+      "name": "My Bad (feat. SHAUN)",
+      "url": "https://open.spotify.com/track/7dQFzMYhTXTtIYyoiiHdr8"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
+        "name": "silkysmooth 01",
+        "url": "https://open.spotify.com/album/0ozNLYHixaeddRLPLL9o8S"
+      },
+      "artists": [
+        {
+          "name": "Silly Silky",
+          "url": "https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s"
+        }
+      ],
+      "duration_ms": 242014,
+      "name": "murmur",
+      "url": "https://open.spotify.com/track/6KqF60TpACu4mtCCvqkNoN"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
         "name": "BLUSH",
         "url": "https://open.spotify.com/album/7sglyvDA3F3q0YBmgAz1Jg"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 152505,
       "name": "Bad B**ch (Feat. Sik-K)",
       "url": "https://open.spotify.com/track/5adaDy3RlstXNVvniuBkRX"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
-        "name": "silkysmooth 01",
-        "url": "https://open.spotify.com/album/0ozNLYHixaeddRLPLL9o8S"
-      },
-      "artists": [
-        {
-          "name": "Silly Silky",
-          "url": "https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s"
-        }
-      ],
-      "duration_ms": 242014,
-      "name": "murmur",
-      "url": "https://open.spotify.com/track/6KqF60TpACu4mtCCvqkNoN"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "firefly",
-        "url": "https://open.spotify.com/album/6POxibMWodpZmXdkkV97Lf"
-      },
-      "artists": [
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 269222,
-      "name": "firefly",
-      "url": "https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
         "name": "Into the Light",
         "url": "https://open.spotify.com/album/3zx7uivDY6DW2UrvPs9wua"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 243165,
       "name": "\ucc9c\uc0dd\uc5f0\ubd84 Destiny (Fyke Remix)",
       "url": "https://open.spotify.com/track/0BZgJV9s7ib3ysp75hSW8x"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
+        "name": "firefly",
+        "url": "https://open.spotify.com/album/6POxibMWodpZmXdkkV97Lf"
+      },
+      "artists": [
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "duration_ms": 269222,
+      "name": "firefly",
+      "url": "https://open.spotify.com/track/1mdLdKPzoh4MK0CztqySzf"
     },
     {
       "added_at": "2026-08-07 06:11:04",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2026-08-07 06:11:04",
       "album": {
-        "name": "silkysmooth 05",
-        "url": "https://open.spotify.com/album/02B7XrNEuKS2aIXf9OaJVp"
-      },
-      "artists": [
-        {
-          "name": "Silly Silky",
-          "url": "https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s"
-        }
-      ],
-      "duration_ms": 181536,
-      "name": "Seoul",
-      "url": "https://open.spotify.com/track/0h9vglVUaK4UmXtoVx8k2p"
-    },
-    {
-      "added_at": "2026-08-07 06:11:04",
-      "album": {
         "name": "MOONLIGHT (MOTi Remix)",
         "url": "https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 163500,
       "name": "MOONLIGHT - MOTi Remix",
       "url": "https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW"
+    },
+    {
+      "added_at": "2026-08-07 06:11:04",
+      "album": {
+        "name": "silkysmooth 05",
+        "url": "https://open.spotify.com/album/02B7XrNEuKS2aIXf9OaJVp"
+      },
+      "artists": [
+        {
+          "name": "Silly Silky",
+          "url": "https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s"
+        }
+      ],
+      "duration_ms": 181536,
+      "name": "Seoul",
+      "url": "https://open.spotify.com/track/0h9vglVUaK4UmXtoVx8k2p"
     }
   ],
   "unique_name": "Electronii[K]",

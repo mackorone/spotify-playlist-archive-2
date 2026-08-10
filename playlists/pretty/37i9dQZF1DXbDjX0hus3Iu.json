@@ -1,6 +1,6 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 539771,
+  "num_followers": 539821,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
@@ -223,18 +223,18 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "It'll Shine When It Shines",
-        "url": "https://open.spotify.com/album/558WlMriwRXU9I2Hq6JMzG"
+        "name": "Sailin' Shoes",
+        "url": "https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt"
       },
       "artists": [
         {
-          "name": "The Ozark Mountain Daredevils",
-          "url": "https://open.spotify.com/artist/7jM2XoJBKhdL8oNnDr4re9"
+          "name": "Little Feat",
+          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
         }
       ],
-      "duration_ms": 250120,
-      "name": "Jackie Blue",
-      "url": "https://open.spotify.com/track/1R9EHsvzpXwOvlGkgDmE55"
+      "duration_ms": 174573,
+      "name": "Willin'",
+      "url": "https://open.spotify.com/track/0jMyU6bO52IYhAEoWbT4K9"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -287,8 +287,24 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Sailin' Shoes",
-        "url": "https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt"
+        "name": "It'll Shine When It Shines",
+        "url": "https://open.spotify.com/album/558WlMriwRXU9I2Hq6JMzG"
+      },
+      "artists": [
+        {
+          "name": "The Ozark Mountain Daredevils",
+          "url": "https://open.spotify.com/artist/7jM2XoJBKhdL8oNnDr4re9"
+        }
+      ],
+      "duration_ms": 250120,
+      "name": "Jackie Blue",
+      "url": "https://open.spotify.com/track/1R9EHsvzpXwOvlGkgDmE55"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "Dixie Chicken",
+        "url": "https://open.spotify.com/album/4xtCtXkGuTbHQwTaVd5FCF"
       },
       "artists": [
         {
@@ -296,25 +312,9 @@
           "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
         }
       ],
-      "duration_ms": 174573,
-      "name": "Willin'",
-      "url": "https://open.spotify.com/track/0jMyU6bO52IYhAEoWbT4K9"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
-        "name": "Strikes",
-        "url": "https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM"
-      },
-      "artists": [
-        {
-          "name": "Blackfoot",
-          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
-        }
-      ],
-      "duration_ms": 216693,
-      "name": "Train, Train",
-      "url": "https://open.spotify.com/track/5bSpsKGoGKXOOfg7F3ZtKz"
+      "duration_ms": 239106,
+      "name": "Dixie Chicken",
+      "url": "https://open.spotify.com/track/0eTHlx53lUn95HVsJtR6Qx"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -351,6 +351,22 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
+        "name": "Strikes",
+        "url": "https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM"
+      },
+      "artists": [
+        {
+          "name": "Blackfoot",
+          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "Train, Train",
+      "url": "https://open.spotify.com/track/5bSpsKGoGKXOOfg7F3ZtKz"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
         "name": "A Decade Of Hits",
         "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
       },
@@ -363,38 +379,6 @@
       "duration_ms": 240106,
       "name": "Long Haired Country Boy",
       "url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
-        "name": "Dixie Chicken",
-        "url": "https://open.spotify.com/album/4xtCtXkGuTbHQwTaVd5FCF"
-      },
-      "artists": [
-        {
-          "name": "Little Feat",
-          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
-        }
-      ],
-      "duration_ms": 239106,
-      "name": "Dixie Chicken",
-      "url": "https://open.spotify.com/track/0eTHlx53lUn95HVsJtR6Qx"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
-        "name": "Strikes",
-        "url": "https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM"
-      },
-      "artists": [
-        {
-          "name": "Blackfoot",
-          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
-        }
-      ],
-      "duration_ms": 450333,
-      "name": "Highway Song",
-      "url": "https://open.spotify.com/track/0R5nPSbAqQoNjKBByWnN95"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -447,6 +431,22 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
+        "name": "Strikes",
+        "url": "https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM"
+      },
+      "artists": [
+        {
+          "name": "Blackfoot",
+          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
+        }
+      ],
+      "duration_ms": 450333,
+      "name": "Highway Song",
+      "url": "https://open.spotify.com/track/0R5nPSbAqQoNjKBByWnN95"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
         "name": "I'm No Angel",
         "url": "https://open.spotify.com/album/6x8lu9zMzEAz2GKB63kKAe"
       },
@@ -459,22 +459,6 @@
       "duration_ms": 222893,
       "name": "I'm No Angel",
       "url": "https://open.spotify.com/track/2Yt2u7vNSCkPUy1awRFSPV"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
-        "name": "Strikes",
-        "url": "https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM"
-      },
-      "artists": [
-        {
-          "name": "Blackfoot",
-          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
-        }
-      ],
-      "duration_ms": 277960,
-      "name": "Left Turn on a Red Light",
-      "url": "https://open.spotify.com/track/16pGi1ZNrsPvx5TD8oFleb"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -523,6 +507,22 @@
       "duration_ms": 177386,
       "name": "Battleship Chains",
       "url": "https://open.spotify.com/track/0dJEQ01IPN4ukqRsPrm4ab"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "Strikes",
+        "url": "https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM"
+      },
+      "artists": [
+        {
+          "name": "Blackfoot",
+          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
+        }
+      ],
+      "duration_ms": 277960,
+      "name": "Left Turn on a Red Light",
+      "url": "https://open.spotify.com/track/16pGi1ZNrsPvx5TD8oFleb"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -895,18 +895,18 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Cats On The Coast",
-        "url": "https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR"
+        "name": "Just Before The Bullets Fly",
+        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
       },
       "artists": [
         {
-          "name": "Sea Level",
-          "url": "https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP"
+          "name": "The Gregg Allman Band",
+          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
         }
       ],
-      "duration_ms": 316600,
-      "name": "That's Your Secret",
-      "url": "https://open.spotify.com/track/4cPgzpdeKtOkgBYqHNLe9P"
+      "duration_ms": 220533,
+      "name": "Before the Bullets Fly",
+      "url": "https://open.spotify.com/track/5xvuT6wnNLBkKQebgAQd82"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -927,18 +927,18 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Just Before The Bullets Fly",
-        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
+        "name": "Cats On The Coast",
+        "url": "https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR"
       },
       "artists": [
         {
-          "name": "The Gregg Allman Band",
-          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
+          "name": "Sea Level",
+          "url": "https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP"
         }
       ],
-      "duration_ms": 220533,
-      "name": "Before the Bullets Fly",
-      "url": "https://open.spotify.com/track/5xvuT6wnNLBkKQebgAQd82"
+      "duration_ms": 316600,
+      "name": "That's Your Secret",
+      "url": "https://open.spotify.com/track/4cPgzpdeKtOkgBYqHNLe9P"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Cats On The Coast",
-        "url": "https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR"
-      },
-      "artists": [
-        {
-          "name": "Sea Level",
-          "url": "https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "It Hurts To Want It So Bad",
-      "url": "https://open.spotify.com/track/7HdVnKXXDuFz003iLaky53"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "Potlatch",
         "url": "https://open.spotify.com/album/2eKxdmLv9lVT0cLDfWknLq"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 280346,
       "name": "Warrior",
       "url": "https://open.spotify.com/track/4M2we5cIRbXIIz5iCb7qQe"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "Cats On The Coast",
+        "url": "https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR"
+      },
+      "artists": [
+        {
+          "name": "Sea Level",
+          "url": "https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "It Hurts To Want It So Bad",
+      "url": "https://open.spotify.com/track/7HdVnKXXDuFz003iLaky53"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Ghost Train from Georgia",
-        "url": "https://open.spotify.com/album/3CzO7hK3zGqFozpM84ZPMD"
-      },
-      "artists": [
-        {
-          "name": "Grinderswitch",
-          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
-        }
-      ],
-      "duration_ms": 355226,
-      "name": "Miss Understanding",
-      "url": "https://open.spotify.com/track/4sfYUnIVr30sro1cyg2Xsc"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "Just Before The Bullets Fly",
         "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 252466,
       "name": "Thorn And A Wild Rose",
       "url": "https://open.spotify.com/track/547dyoV9eT7pPO8QbiexoI"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "Ghost Train from Georgia",
+        "url": "https://open.spotify.com/album/3CzO7hK3zGqFozpM84ZPMD"
+      },
+      "artists": [
+        {
+          "name": "Grinderswitch",
+          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
+        }
+      ],
+      "duration_ms": 355226,
+      "name": "Miss Understanding",
+      "url": "https://open.spotify.com/track/4sfYUnIVr30sro1cyg2Xsc"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Stacked Deck (Remastered)",
-        "url": "https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9"
-      },
-      "artists": [
-        {
-          "name": "Amazing Rhythm Aces",
-          "url": "https://open.spotify.com/artist/5wpS6LUdQYMoAreKITVtrH"
-        }
-      ],
-      "duration_ms": 142346,
-      "name": "Hit the Nail on the Head - Remastered",
-      "url": "https://open.spotify.com/track/4p5RiUTn5fcn05ACSWgZAg"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "Just Before The Bullets Fly",
         "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 255840,
       "name": "Island",
       "url": "https://open.spotify.com/track/0UHSZ1m3t9vcL1MYqTJSge"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "Stacked Deck (Remastered)",
+        "url": "https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9"
+      },
+      "artists": [
+        {
+          "name": "Amazing Rhythm Aces",
+          "url": "https://open.spotify.com/artist/5wpS6LUdQYMoAreKITVtrH"
+        }
+      ],
+      "duration_ms": 142346,
+      "name": "Hit the Nail on the Head - Remastered",
+      "url": "https://open.spotify.com/track/4p5RiUTn5fcn05ACSWgZAg"
     },
     {
       "added_at": "2025-07-11 17:42:51",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Pullin' Together",
-        "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
-      },
-      "artists": [
-        {
-          "name": "Grinderswitch",
-          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Open Road",
-      "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Atlanta Rhythm Section",
         "url": "https://open.spotify.com/album/72HlYFr3YD7gWjFacHOZ6f"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 293800,
       "name": "Georgia Rhythm",
       "url": "https://open.spotify.com/track/7aV9xwnPgzTWj3yG0nAURt"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "Pullin' Together",
+        "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
+      },
+      "artists": [
+        {
+          "name": "Grinderswitch",
+          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
+        }
+      ],
+      "duration_ms": 249626,
+      "name": "Open Road",
+      "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1527,8 +1527,8 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "The Marshall Tucker Band",
-        "url": "https://open.spotify.com/album/1w7JOjdpfTBz4rvhWQDWJz"
+        "name": "Where a Country Boy Belongs",
+        "url": "https://open.spotify.com/album/0rP1zFi6WyUG9TxKmGknG1"
       },
       "artists": [
         {
@@ -1536,9 +1536,9 @@
           "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
         }
       ],
-      "duration_ms": 375600,
-      "name": "Take the Highway",
-      "url": "https://open.spotify.com/track/4BH6AYJ1aIPPTk6l1oMIY7"
+      "duration_ms": 295666,
+      "name": "Heard It in a Love Song",
+      "url": "https://open.spotify.com/track/3T3aWHBbX85hqRPsd8vhJB"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1607,8 +1607,8 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Where a Country Boy Belongs",
-        "url": "https://open.spotify.com/album/0rP1zFi6WyUG9TxKmGknG1"
+        "name": "The Marshall Tucker Band",
+        "url": "https://open.spotify.com/album/1w7JOjdpfTBz4rvhWQDWJz"
       },
       "artists": [
         {
@@ -1616,9 +1616,9 @@
           "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
         }
       ],
-      "duration_ms": 295666,
-      "name": "Heard It in a Love Song",
-      "url": "https://open.spotify.com/track/3T3aWHBbX85hqRPsd8vhJB"
+      "duration_ms": 375600,
+      "name": "Take the Highway",
+      "url": "https://open.spotify.com/track/4BH6AYJ1aIPPTk6l1oMIY7"
     }
   ],
   "unique_name": "Southern Rock",

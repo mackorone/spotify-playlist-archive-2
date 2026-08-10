@@ -362,7 +362,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 212805,
       "name": "Apparently",
       "url": "https://open.spotify.com/track/386DhHFXyxwwWG0AUZoiGS"
@@ -866,7 +866,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 219847,
       "name": "Cold Game",
       "url": "https://open.spotify.com/track/3qnfpioCY8qxwtkB32tPLy"
@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 184685,
       "name": "Faith (feat. Aktual)",
       "url": "https://open.spotify.com/track/5qUVwTGo5gAgLFElaVqxWU"
@@ -1434,7 +1434,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 290722,
       "name": "Foo Fambino",
       "url": "https://open.spotify.com/track/5nv2npB23rED5Vihxj3wPg"
@@ -1570,7 +1570,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 243624,
       "name": "Fun",
       "url": "https://open.spotify.com/track/72DsNI2W3LaHgFRqKXg9pv"
@@ -1802,7 +1802,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 152973,
       "name": "God Said It",
       "url": "https://open.spotify.com/track/35U2IpCtyStfdDINC57O5t"
@@ -2158,6 +2158,28 @@
       "duration_ms": 246550,
       "name": "How You Feel (feat. Kari Epps)",
       "url": "https://open.spotify.com/track/0PxFm2UljjnyLeASgsVmb9"
+    },
+    {
+      "album": {
+        "name": "The Year Of The Underdogz",
+        "url": "https://open.spotify.com/album/1dx23xoRwbjHAocCBxW1de"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Gage Gully",
+          "url": "https://open.spotify.com/artist/6AQJQwybpIlfvLzWfvbRPO"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276834,
+      "name": "Hustleholic (feat. Krayzie Bone)",
+      "url": "https://open.spotify.com/track/67WiXNyUXdKgqxjNeuWb7m"
     },
     {
       "album": {
@@ -2922,6 +2944,28 @@
       "duration_ms": 206000,
       "name": "Lucky Number 7",
       "url": "https://open.spotify.com/track/0db0d5hqGUdGDdhwlgyFDT"
+    },
+    {
+      "album": {
+        "name": "Growth",
+        "url": "https://open.spotify.com/album/3N7Og743HnTDJ9qWk0E5u2"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Deuce Deuce",
+          "url": "https://open.spotify.com/artist/076I9mh0LL6igSU0alHNzF"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163650,
+      "name": "Luv Is Gone",
+      "url": "https://open.spotify.com/track/4hsyhJTr0fgdAAlUrE2yiK"
     },
     {
       "album": {
@@ -4238,7 +4282,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 212367,
       "name": "Ruff Juveniles",
       "url": "https://open.spotify.com/track/6F731cdWDwX5MHFpbFhVlP"
@@ -4518,7 +4562,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 216813,
       "name": "Streets Don't Change",
       "url": "https://open.spotify.com/track/05rxL89qgHxwkGvGjzWtDq"
@@ -4580,7 +4624,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 162063,
       "name": "Supposed 2 Do",
       "url": "https://open.spotify.com/track/4mH3Vekwwjg8EIGlO1RTeO"
@@ -4778,7 +4822,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 222533,
       "name": "The End",
       "url": "https://open.spotify.com/track/28d2ijVgLxk7iieu2T8xLR"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anUgAAAAAACnVeYpcRMYECAbUrI11QWe",
+  "snapshot_id": "anZxgAAAAAAKEtWkuw/1LdHZbl4M+dMJ",
   "tracks": [
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "wish you were here",
-        "url": "https://open.spotify.com/album/4HLnnflwmy0nklqam1JvxJ"
+        "name": "favorite girl",
+        "url": "https://open.spotify.com/album/75YCAbBtHvShKgO0dN2T6G"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 202706,
-      "name": "wish you were here",
-      "url": "https://open.spotify.com/track/6KtJt7GzE8W5V29xgVGC0K"
+      "duration_ms": 204051,
+      "name": "favorite girl",
+      "url": "https://open.spotify.com/track/2ZqUy3M1XreBBcQ9OIALDc"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "favorite girl",
-        "url": "https://open.spotify.com/album/75YCAbBtHvShKgO0dN2T6G"
+        "name": "wish you were here",
+        "url": "https://open.spotify.com/album/4HLnnflwmy0nklqam1JvxJ"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 204051,
-      "name": "favorite girl",
-      "url": "https://open.spotify.com/track/2ZqUy3M1XreBBcQ9OIALDc"
+      "duration_ms": 202706,
+      "name": "wish you were here",
+      "url": "https://open.spotify.com/track/6KtJt7GzE8W5V29xgVGC0K"
     },
     {
       "added_at": null,

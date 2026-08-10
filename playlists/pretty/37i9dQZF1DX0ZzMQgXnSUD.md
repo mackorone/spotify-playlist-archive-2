@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZzMQgXnSUD.md) - [plain]
 
 > Shaken, not stirred..\. Cover: Lana Del Rey
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,985 likes - 29 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,987 likes - 29 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anUgAAAAAAAroCshF2h5uaERl/tX2g7B",
+  "snapshot_id": "anZxgAAAAAC0m+PlIP+6R5JKA/RAFzgg",
   "tracks": [
     {
       "added_at": null,
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Alice",
-      "url": "https://open.spotify.com/track/2yxEakHVn3iOGKnxcvuOQ6"
+      "duration_ms": 398320,
+      "name": "Atascadero (Denouement)",
+      "url": "https://open.spotify.com/track/755e7xFM0mBUpN0uFPBaVj"
     },
     {
       "added_at": null,
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 398320,
-      "name": "Atascadero (Denouement)",
-      "url": "https://open.spotify.com/track/755e7xFM0mBUpN0uFPBaVj"
+      "duration_ms": 178000,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/2yxEakHVn3iOGKnxcvuOQ6"
     },
     {
       "added_at": null,

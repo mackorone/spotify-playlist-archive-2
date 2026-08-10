@@ -1,6 +1,6 @@
 {
   "description": "Sweet songs for sunny days. ",
-  "num_followers": 1643162,
+  "num_followers": 1642955,
   "original_name": "Summer Acoustic",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
+        "name": "Light Upon the Lake",
+        "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 242093,
+      "name": "Golden Days",
+      "url": "https://open.spotify.com/track/7midhUSAQfwD3aFwQrLZYc"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
         "name": "Fine (feat. Paul Kelly)",
         "url": "https://open.spotify.com/album/1ZmehdFS3WXShPPt2WMztb"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 262840,
       "name": "Fine (feat. Paul Kelly)",
       "url": "https://open.spotify.com/track/6MQ2BFdh2Rtn6uYX4NWffi"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
-        "name": "Light Upon the Lake",
-        "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 242093,
-      "name": "Golden Days",
-      "url": "https://open.spotify.com/track/7midhUSAQfwD3aFwQrLZYc"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
-        "name": "Down The Way",
-        "url": "https://open.spotify.com/album/0C29hfEJQdcyzpTHy8tTXr"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 239120,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/2fbXJ0VpxhW7j0qcg1DnoZ"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
         "name": "Theatre",
         "url": "https://open.spotify.com/album/0EoYsG4MursZcQp8DGp5pH"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 317838,
       "name": "Twin",
       "url": "https://open.spotify.com/track/4l7sD2PFNFdeJpQueQR2YK"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
+        "name": "Down The Way",
+        "url": "https://open.spotify.com/album/0C29hfEJQdcyzpTHy8tTXr"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 239120,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/2fbXJ0VpxhW7j0qcg1DnoZ"
     },
     {
       "added_at": "2026-07-09 23:27:48",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-07-09 23:27:48",
       "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Scott Street",
+      "url": "https://open.spotify.com/track/0jqFM7E9z1PLYtPVCuFwAi"
+    },
+    {
+      "added_at": "2026-07-09 23:27:48",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1MIrKfOLcpv4bBLRJg8AnH"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 110560,
       "name": "Flowers In Your Hair",
       "url": "https://open.spotify.com/track/5WObuDOxPHlQaoYUf2W4lh"
-    },
-    {
-      "added_at": "2026-07-09 23:27:48",
-      "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Scott Street",
-      "url": "https://open.spotify.com/track/0jqFM7E9z1PLYtPVCuFwAi"
     },
     {
       "added_at": "2026-07-09 23:27:48",

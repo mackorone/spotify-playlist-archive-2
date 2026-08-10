@@ -1,12 +1,12 @@
 {
   "description": "This is CKay. The essential tracks, all in one playlist.",
-  "num_followers": 24548,
+  "num_followers": 24554,
   "original_name": "This Is CKay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anUgAAAAAADPBh8yITTOcqSuI2F83+pM",
+  "snapshot_id": "anZxgAAAAABKl4q4Ag/i1p+YInCeQGA2",
   "tracks": [
     {
       "added_at": null,
@@ -547,58 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CKay The Second",
-        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 238515,
-      "name": "nothing spoil",
-      "url": "https://open.spotify.com/track/2E8pricPqOChg1bWIf6fLS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sad Romance",
-        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 196713,
-      "name": "mmadu",
-      "url": "https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EMOTIONS",
-        "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "FALL IN LUV",
-      "url": "https://open.spotify.com/track/4cdLwShxb26m7e5T64GhRk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "love nwantiti x dumebi (Mid\u00e9 Naike Remix)",
         "url": "https://open.spotify.com/album/7AzISzDV84yvlneRn6OL3j"
       },
@@ -619,6 +567,58 @@
       "duration_ms": 194181,
       "name": "love nwantiti x dumebi - Mid\u00e9 Naike Remix",
       "url": "https://open.spotify.com/track/5h3lq0x9KKwYhPcWAUVdOj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CKay The Second",
+        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 238515,
+      "name": "nothing spoil",
+      "url": "https://open.spotify.com/track/2E8pricPqOChg1bWIf6fLS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EMOTIONS",
+        "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "FALL IN LUV",
+      "url": "https://open.spotify.com/track/4cdLwShxb26m7e5T64GhRk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 196713,
+      "name": "mmadu",
+      "url": "https://open.spotify.com/track/1PiqBod2OqGJub07PAkoGx"
     },
     {
       "added_at": null,
@@ -703,6 +703,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BANGER BOY",
+        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "ZERO",
+      "url": "https://open.spotify.com/track/0A0guIoWqPINmiLwWu2Phg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Age of Pleasure",
         "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
       },
@@ -751,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CKay The First",
+        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 159813,
+      "name": "kalakuta",
+      "url": "https://open.spotify.com/track/0X5yARwJLSCTFhuJTSXvFU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CKay The Second",
         "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
       },
@@ -767,18 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CKay The First",
-        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
+        "name": "BANGER BOY",
+        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
       },
       "artists": [
         {
           "name": "CKay",
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         }
       ],
-      "duration_ms": 159813,
-      "name": "kalakuta",
-      "url": "https://open.spotify.com/track/0X5yARwJLSCTFhuJTSXvFU"
+      "duration_ms": 203894,
+      "name": "PARA",
+      "url": "https://open.spotify.com/track/10pjc5OzTnqCwzVQLuDtqi"
     },
     {
       "added_at": null,
@@ -850,15 +890,11 @@
         {
           "name": "CKay",
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
         }
       ],
-      "duration_ms": 165600,
-      "name": "ZERO",
-      "url": "https://open.spotify.com/track/0A0guIoWqPINmiLwWu2Phg"
+      "duration_ms": 134769,
+      "name": "PPOWER",
+      "url": "https://open.spotify.com/track/5PCs0fCPcLM5spCGgNVwYE"
     },
     {
       "added_at": null,
@@ -919,46 +955,6 @@
       "duration_ms": 152920,
       "name": "MYSTERIOUS LOVE",
       "url": "https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CKay The Second",
-        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 175615,
-      "name": "permit me",
-      "url": "https://open.spotify.com/track/0UdlBInYiNqclTU4bGm7dN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Boy Blaq Re-Up",
-        "url": "https://open.spotify.com/album/5V1wP5lWuEmHqNn6Sj5m2V"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "BOJ",
-          "url": "https://open.spotify.com/artist/4FIbqFLuP3OJZ2ngKFKbJq"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 251204,
-      "name": "Good Boy (feat. BOJ and Ckay)",
-      "url": "https://open.spotify.com/track/5zTd3IXhLC0XLEgPpMSxrI"
     }
   ],
   "unique_name": "This Is CKay",

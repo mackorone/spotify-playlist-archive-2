@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Niños Del Cerro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,231 likes - 34 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,219 likes - 34 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

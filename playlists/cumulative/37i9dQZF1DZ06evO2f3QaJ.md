@@ -4,12 +4,13 @@
 
 > This is Zudizilla\. The essential tracks, all in one playlist.
 
-140 songs - 8 hr 46 min
+141 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2090](https://open.spotify.com/track/5JUmUQ2s1EecIwGEYbddT6) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3) | 2:04 | 2023-09-18 | 2023-11-11 |
 | [24hs](https://open.spotify.com/track/4XMAR4YrL2Yhygkw0YlXko) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [GvsnoBeat](https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [24hs](https://open.spotify.com/album/7CWUChdbiLrXe7ZYQH29na) | 2:22 | 2026-05-17 |  |
+| [AFORTUNADO](https://open.spotify.com/track/62OXYcRxQENTFUN9dqXl4L) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Wesley Camilo](https://open.spotify.com/artist/7zMhTkT27OwM0G9qkZPbZT) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/1LyBmcNMqiFH5KSUgTXVMT) | 5:31 | 2026-08-10 |  |
 | [Alvo](https://open.spotify.com/track/0fmvJwN5m8wJy8RTwON7vN) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 2:38 | 2023-09-18 | 2025-11-26 |
 | [Alvo](https://open.spotify.com/track/7nG2vsMFNE9W4McyrQu7BF) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/7sawPIwTZC4ObF1QopFHti) | 2:38 | 2025-11-29 |  |
 | [Ameixa](https://open.spotify.com/track/0RKU7xrrWghLqn69RlO3rx) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J), [Fejuca](https://open.spotify.com/artist/7kR1hPZP8S60x03NHKgEM3) | [Ameixa](https://open.spotify.com/album/2RJTbJmnJ5MsSXo6JjJ5nD) | 4:06 | 2025-11-28 |  |
@@ -61,7 +62,7 @@
 | [Karma](https://open.spotify.com/track/5J3fgcOgOkb19CYSTeBP9g) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Um Mar Pra Cada Um,](https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh) | 4:41 | 2025-06-07 |  |
 | [Luzes](https://open.spotify.com/track/0xHHFkz6LBAkDc4yOrRI9c) | [RND](https://open.spotify.com/artist/4QzF7cdbEoTv4MZA8VcoDK), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Luzes](https://open.spotify.com/album/5bjiU7VDGurwUxD2Ef0yyS) | 3:11 | 2023-09-18 |  |
 | [Lá Fora](https://open.spotify.com/track/6HkTq6DiKf78zkPbX5yPgC) | [Jonathan Ferr](https://open.spotify.com/artist/50c0dnVoxvTMbfY0KSocJG), [Coruja](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Lossio](https://open.spotify.com/artist/3AQxHBg7YeOuvqdvfzj95r) | [Lá Fora](https://open.spotify.com/album/3IUmoVhpfCpA2QMaAIgjXe) | 3:11 | 2023-11-10 | 2026-08-02 |
-| [MATRIX](https://open.spotify.com/track/1rMVg1PXOVwy5bG9WSVVC4) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Coruja](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/1LyBmcNMqiFH5KSUgTXVMT) | 4:30 | 2026-02-26 |  |
+| [MATRIX](https://open.spotify.com/track/1rMVg1PXOVwy5bG9WSVVC4) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Coruja](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/1LyBmcNMqiFH5KSUgTXVMT) | 4:30 | 2026-02-26 | 2026-08-10 |
 | [Minha Cultura](https://open.spotify.com/track/0EAzWBm9hawgoNgmFUyxbQ) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Karol de Souza](https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8), [Laudz](https://open.spotify.com/artist/3xRm6hPQpFfaPFZTjLIYHh), [Cabes](https://open.spotify.com/artist/00RYM1fJO6kr6Z2jOuD9BW) | [A Mensagem](https://open.spotify.com/album/2VuAaT3eTjX109FTmDlIf9) | 3:32 | 2024-10-28 | 2025-10-29 |
 | [Modo Avião](https://open.spotify.com/track/3kKPlymNRMSgw72fOmIsPY) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Le Fauve](https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm) | 3:59 | 2025-01-14 | 2026-03-17 |
 | [Mão Direita / Amor](https://open.spotify.com/track/3iGj0sw5wX6DiKFzVhuKK1) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3) | 3:22 | 2023-09-18 | 2023-11-11 |

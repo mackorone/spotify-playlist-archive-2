@@ -543,6 +543,22 @@
     {
       "added_at": "2026-07-03 07:28:10",
       "album": {
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/2RhEisiqycAq2YrXJcUL4r"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 241676,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/3bHE2Q0boauLBF8iJLUIga"
+    },
+    {
+      "added_at": "2026-07-03 07:28:10",
+      "album": {
         "name": "SHOW ME THE MONEY 11 Final",
         "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 236524,
       "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
       "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
-    },
-    {
-      "added_at": "2026-07-03 07:28:10",
-      "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/2RhEisiqycAq2YrXJcUL4r"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 241676,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/3bHE2Q0boauLBF8iJLUIga"
     },
     {
       "added_at": "2026-07-03 07:28:10",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-07-03 07:28:10",
       "album": {
-        "name": "Who Are You : School 2015 (Original Television Soundtrack), Pt.3",
-        "url": "https://open.spotify.com/album/5rbk6PfoQk7m9KB6iaC6eG"
-      },
-      "artists": [
-        {
-          "name": "Mirae Yoon",
-          "url": "https://open.spotify.com/artist/7spkVN3BEcaQ4yWSzxPwra"
-        }
-      ],
-      "duration_ms": 194439,
-      "name": "I will listen never alone",
-      "url": "https://open.spotify.com/track/5Ny8dTK7mUgpL04RV07gee"
-    },
-    {
-      "added_at": "2026-07-03 07:28:10",
-      "album": {
         "name": "Take You Home - SM STATION",
         "url": "https://open.spotify.com/album/35xEwaC2WlMzkllTa3XwhK"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 234954,
       "name": "Take You Home",
       "url": "https://open.spotify.com/track/54Nx0KMNIIA0tAPewmd69X"
+    },
+    {
+      "added_at": "2026-07-03 07:28:10",
+      "album": {
+        "name": "Who Are You : School 2015 (Original Television Soundtrack), Pt.3",
+        "url": "https://open.spotify.com/album/5rbk6PfoQk7m9KB6iaC6eG"
+      },
+      "artists": [
+        {
+          "name": "Mirae Yoon",
+          "url": "https://open.spotify.com/artist/7spkVN3BEcaQ4yWSzxPwra"
+        }
+      ],
+      "duration_ms": 194439,
+      "name": "I will listen never alone",
+      "url": "https://open.spotify.com/track/5Ny8dTK7mUgpL04RV07gee"
     },
     {
       "added_at": "2026-07-03 07:28:10",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-07-03 07:28:10",
       "album": {
-        "name": "Soar - The 2nd Album",
-        "url": "https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9"
-      },
-      "artists": [
-        {
-          "name": "DOYOUNG",
-          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "Wake From The Dark",
-      "url": "https://open.spotify.com/track/1MGf5Vz5BHzMmwDTzweKyU"
-    },
-    {
-      "added_at": "2026-07-03 07:28:10",
-      "album": {
         "name": "A-TEEN2 Part.1",
         "url": "https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 210000,
       "name": "Lean On Me",
       "url": "https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0"
+    },
+    {
+      "added_at": "2026-07-03 07:28:10",
+      "album": {
+        "name": "Soar - The 2nd Album",
+        "url": "https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "duration_ms": 173026,
+      "name": "Wake From The Dark",
+      "url": "https://open.spotify.com/track/1MGf5Vz5BHzMmwDTzweKyU"
     },
     {
       "added_at": "2026-07-03 07:28:10",

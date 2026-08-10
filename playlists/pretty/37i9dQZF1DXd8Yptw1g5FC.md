@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Ayse Hatun Onal, Çodur, Ozan Bayraşa ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,346 likes - 122 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,327 likes - 122 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

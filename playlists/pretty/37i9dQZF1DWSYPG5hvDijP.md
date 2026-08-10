@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Byg Smyle
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,905 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,916 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 72 | [3 Khaat](https://open.spotify.com/track/5AqWP2XSoIR6x65tRGvg2G) | [Duryodhan Rana](https://open.spotify.com/artist/0nwH3VdpmJakhuISQ0i9jX), [Prodbysoundscape](https://open.spotify.com/artist/43ttS6rFRzusm2okv9LDqX) | [3 Khaat](https://open.spotify.com/album/0T3MmqzkGQhE75fkpmjhE8) | 2:39 |
 | 73 | [Big K](https://open.spotify.com/track/4m6FTkXBpE5nsgdKBr7Oei) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F) | [Big K](https://open.spotify.com/album/2BsTIof41i4s9jLFzTLnru) | 4:56 |
 | 74 | [Udta Teer](https://open.spotify.com/track/5cS97WF3rABzd60m48QKiJ) | [Wicked Sunny](https://open.spotify.com/artist/3jOWtMZBEsXsCFp4SuzlQa), [Cyril Gabriel](https://open.spotify.com/artist/2netGerqSenOlPiDpObZum) | [Udta Teer](https://open.spotify.com/album/3qAWj5Of2pDJy7iTfsL8dF) | 2:53 |
-| 75 | [FACHADI](https://open.spotify.com/track/4Ixg5F2QXudeV0axwIuQgj) | [YUNG DSA](https://open.spotify.com/artist/5e8gOu2fk8b1txcXWlX1Pl) | [FACHADI](https://open.spotify.com/album/0EgDWdzul08tOPXIalY060) | 3:21 |
+| 75 | [FACHADI](https://open.spotify.com/track/4Ixg5F2QXudeV0axwIuQgj) | [YUNG DSA](https://open.spotify.com/artist/5e8gOu2fk8b1txcXWlX1Pl), [COSMO DROP](https://open.spotify.com/artist/5jH1odKXF9EoKhWnSi59rL) | [FACHADI](https://open.spotify.com/album/0EgDWdzul08tOPXIalY060) | 3:21 |
 
 Snapshot ID: `AAAAAIdCeLBr2yFMsmWlO0VKBdPMsx/c`

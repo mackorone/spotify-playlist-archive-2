@@ -4,12 +4,12 @@
 
 > La fiesta se enciende con cumbia.
 
-254 songs - 15 hr 20 min
+255 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3 AM](https://open.spotify.com/track/5uyUokRn9ryuEJ7hczuAcg) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [3 AM](https://open.spotify.com/album/0DkYroeRYdlhcp3kklyomb) | 3:13 | 2023-10-27 | 2024-03-06 |
-| [Acercate MI Amor](https://open.spotify.com/track/0drMB4P0bjoRrSQTKKlpkx) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Onda Tropical](https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu) | 4:15 | 2024-03-29 |  |
+| [Acercate MI Amor](https://open.spotify.com/track/0drMB4P0bjoRrSQTKKlpkx) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Onda Tropical](https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu) | 4:15 | 2024-03-29 | 2026-08-10 |
 | [ADIÓS](https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:40 | 2023-08-25 |  |
 | [Adiós Amor](https://open.spotify.com/track/0QWVUw5wIoqVEu94F8dquj) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Adiós Amor](https://open.spotify.com/album/6vGU2CXxFbL36Qhx0f8qWs) | 4:19 | 2024-02-27 | 2024-04-19 |
 | [Adiós Amor](https://open.spotify.com/track/367069JY6QWPaCJM21OVBC) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Adiós Amor](https://open.spotify.com/album/14am71BKAcj6UvGOIXoo6e) | 4:19 | 2024-03-29 | 2026-08-08 |
@@ -165,6 +165,7 @@
 | [No Quiero Dormir](https://open.spotify.com/track/7f7xS49CafNLc5nInF6Lyb) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Inmenso](https://open.spotify.com/album/2roYPReN5FJxE0iGXpkD21) | 3:34 | 2024-02-27 | 2024-04-19 |
 | [No Te Creas Tan Importante](https://open.spotify.com/track/6EEDCnXpC745TnDPSeRjGl) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [No Te Creas Tan Importante](https://open.spotify.com/album/2jcXcf2sDbK3w6YsFhxhOj) | 3:46 | 2024-10-18 |  |
 | [No Te Creas Tan Importante \- En Vivo](https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [No Te Creas Tan Importante \(En Vivo\)](https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s) | 3:59 | 2023-08-25 |  |
+| [No Te Dejes](https://open.spotify.com/track/1wxtqsneeTjeuUa86ZE6zX) | [Grupo Hechizo Chile](https://open.spotify.com/artist/0vPUBMfIYujmPFD1OwdfTM) | [Grandes Exitos](https://open.spotify.com/album/3Sgf6BKnsUYi1NhceV8Xgf) | 3:30 | 2025-11-20 |  |
 | [No te lo puedo creer](https://open.spotify.com/track/2mtlU0zHtox2WJPMdfZzyr) | [La Rosa](https://open.spotify.com/artist/2ygN6IDI4WyTRlIk2czz6i) | [La Pasión Florece](https://open.spotify.com/album/3ajxuhibornCsqd160ASSU) | 3:48 | 2023-08-25 | 2024-04-19 |
 | [No Te Marches](https://open.spotify.com/track/2p6NdfaJywYmZOfGsQvzXQ) | [Potencia](https://open.spotify.com/artist/26SwMaLuxWolyBYLyjG8NQ) | [Destruye](https://open.spotify.com/album/696bj0AMsu8y5wED4IJCVC) | 3:08 | 2024-02-27 | 2024-04-12 |
 | [No te vi más](https://open.spotify.com/track/3b5urxTG2NZVjoHdFWxtsk) | [La Rosa](https://open.spotify.com/artist/2ygN6IDI4WyTRlIk2czz6i) | [Perfume De Cumbia](https://open.spotify.com/album/0NQV1IrZHzey6XqYs3Iyie) | 2:57 | 2024-02-27 | 2024-04-17 |

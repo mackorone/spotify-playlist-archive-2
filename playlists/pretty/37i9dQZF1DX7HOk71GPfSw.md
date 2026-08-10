@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > heyyy Coupdekat
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,752 likes - 110 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,926 likes - 110 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

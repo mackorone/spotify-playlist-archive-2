@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Zoumer & Chicks On Speed✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,788 likes - 273 songs - 14 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,795 likes - 273 songs - 14 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

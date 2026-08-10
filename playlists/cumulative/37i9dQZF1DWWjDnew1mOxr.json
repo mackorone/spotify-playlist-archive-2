@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "7563",
+        "url": "https://open.spotify.com/album/7kIjf3ntzfOIwrotbZVMLL"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243302,
+      "name": "7563",
+      "url": "https://open.spotify.com/track/2vJPGLhq3pub8fG9wAFN0Y"
+    },
+    {
+      "album": {
         "name": "A Bit Like James Bond",
         "url": "https://open.spotify.com/album/3KDe2kXtkphSAfCYbwg6A0"
       },
@@ -1255,6 +1273,24 @@
     },
     {
       "album": {
+        "name": "Cannonball",
+        "url": "https://open.spotify.com/album/1yN1NPr6d4TvVJyUyuMHpK"
+      },
+      "artists": [
+        {
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173987,
+      "name": "Canyons",
+      "url": "https://open.spotify.com/track/7cTEXdnW5DhRWtB5BAsVoP"
+    },
+    {
+      "album": {
         "name": "Songs For The Spine",
         "url": "https://open.spotify.com/album/3Cev9xMaHpqf4QOdwkm4hc"
       },
@@ -1626,7 +1662,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 181081,
       "name": "Coming of Age",
       "url": "https://open.spotify.com/track/0jnPGD9FIVHa5SsM9upOr0"
@@ -1972,6 +2008,24 @@
       "duration_ms": 190914,
       "name": "Do You Want It?",
       "url": "https://open.spotify.com/track/14Z6bWa5MGCXoRm8JCBxCs"
+    },
+    {
+      "album": {
+        "name": "Dobro",
+        "url": "https://open.spotify.com/album/1sI3ddpa7pZZvPfL0RHkTq"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165258,
+      "name": "Dobro",
+      "url": "https://open.spotify.com/track/3tL4ZLFEXLcjJTkbdOwcjW"
     },
     {
       "album": {
@@ -3736,7 +3790,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 219173,
       "name": "I Love America And She Hates Me",
       "url": "https://open.spotify.com/track/57YAiU79py7qXu05oW0cNI"
@@ -3852,6 +3906,24 @@
       "duration_ms": 183797,
       "name": "I'm Feeling it now",
       "url": "https://open.spotify.com/track/2cKCMoQu3dQ6y5QfT8rKRn"
+    },
+    {
+      "album": {
+        "name": "If I Could",
+        "url": "https://open.spotify.com/album/10jnGJSwHlbX6wkUb4v0Bb"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231716,
+      "name": "If I Could",
+      "url": "https://open.spotify.com/track/7t3sr53O7D8sPYKrU3ALh8"
     },
     {
       "album": {
@@ -6106,7 +6178,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 188287,
       "name": "Put On A Record Tommy",
       "url": "https://open.spotify.com/track/3ltV7o6cES5QLAOnudIRl1"
@@ -6852,7 +6924,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 200729,
       "name": "Something's Wrong",
       "url": "https://open.spotify.com/track/45afJugFs63B3KaDO3pcVa"

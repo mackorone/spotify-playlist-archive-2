@@ -59,6 +59,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Strings Attached",
+        "url": "https://open.spotify.com/album/7xVrnsfXIbVF5NikvzdiGZ"
+      },
+      "artists": [
+        {
+          "name": "AZIEDOESNTEXIST",
+          "url": "https://open.spotify.com/artist/13BgU01okousPOFvmiwecU"
+        },
+        {
+          "name": "TopOppGen",
+          "url": "https://open.spotify.com/artist/0TZD5e7AMfl6KIOoBrAoye"
+        }
+      ],
+      "duration_ms": 107716,
+      "name": "Strings Attached (feat. TopOppGen)",
+      "url": "https://open.spotify.com/track/7GHiehPcW6YJ892iZA92ga"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sanity Evaded",
+        "url": "https://open.spotify.com/album/5CkmOdUGDcPcdJvH3sVcIv"
+      },
+      "artists": [
+        {
+          "name": "YFG FATSO",
+          "url": "https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO"
+        }
+      ],
+      "duration_ms": 151722,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/6BQtUSJ3vfkcM53gdXscgB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "not enn a diss",
+        "url": "https://open.spotify.com/album/5dtJIvqX2O1XBbH3kRSFQL"
+      },
+      "artists": [
+        {
+          "name": "Taewitdak",
+          "url": "https://open.spotify.com/artist/11hMddoHgub1AGz7APSTjF"
+        }
+      ],
+      "duration_ms": 81176,
+      "name": "not enn a diss",
+      "url": "https://open.spotify.com/track/3uqA4hsYPKP5uOWlHYBGBO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pink6 Vol. 1",
         "url": "https://open.spotify.com/album/6YdkhzUmMcCWor28vavQ6y"
       },
@@ -83,74 +135,6 @@
       "duration_ms": 117002,
       "name": "NODDING OFF",
       "url": "https://open.spotify.com/track/5cKcbgcUcog96MzgE4guYS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Strings Attached",
-        "url": "https://open.spotify.com/album/7xVrnsfXIbVF5NikvzdiGZ"
-      },
-      "artists": [
-        {
-          "name": "AZIEDOESNTEXIST",
-          "url": "https://open.spotify.com/artist/13BgU01okousPOFvmiwecU"
-        },
-        {
-          "name": "TopOppGen",
-          "url": "https://open.spotify.com/artist/0TZD5e7AMfl6KIOoBrAoye"
-        }
-      ],
-      "duration_ms": 107716,
-      "name": "Strings Attached (feat. TopOppGen)",
-      "url": "https://open.spotify.com/track/7GHiehPcW6YJ892iZA92ga"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "not enn a diss",
-        "url": "https://open.spotify.com/album/5dtJIvqX2O1XBbH3kRSFQL"
-      },
-      "artists": [
-        {
-          "name": "Taewitdak",
-          "url": "https://open.spotify.com/artist/11hMddoHgub1AGz7APSTjF"
-        }
-      ],
-      "duration_ms": 81176,
-      "name": "not enn a diss",
-      "url": "https://open.spotify.com/track/3uqA4hsYPKP5uOWlHYBGBO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sanity Evaded",
-        "url": "https://open.spotify.com/album/5CkmOdUGDcPcdJvH3sVcIv"
-      },
-      "artists": [
-        {
-          "name": "YFG FATSO",
-          "url": "https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO"
-        }
-      ],
-      "duration_ms": 151722,
-      "name": "Come Home",
-      "url": "https://open.spotify.com/track/6BQtUSJ3vfkcM53gdXscgB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Self Stylist",
-        "url": "https://open.spotify.com/album/3a1Ao3nMVlLb5leLAfiPxx"
-      },
-      "artists": [
-        {
-          "name": "LOOK KILLA",
-          "url": "https://open.spotify.com/artist/4VJIWtFR6cPbxNSWEgkqxf"
-        }
-      ],
-      "duration_ms": 178906,
-      "name": "GHOST",
-      "url": "https://open.spotify.com/track/4ewa3IkNWrv1XG9qIWwIvt"
     },
     {
       "added_at": null,
@@ -203,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bloody Bruddas",
-        "url": "https://open.spotify.com/album/5rFMgfUL0AqhSPjI0MFT0i"
-      },
-      "artists": [
-        {
-          "name": "Bloodhound Lil Jeff",
-          "url": "https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ"
-        }
-      ],
-      "duration_ms": 128312,
-      "name": "AR-15",
-      "url": "https://open.spotify.com/track/0y81SHgKhCA9pwuOPQPG9z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "reject you",
         "url": "https://open.spotify.com/album/2jUfOBlsRrESV1C52DCTnC"
       },
@@ -235,22 +203,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mike In What",
-        "url": "https://open.spotify.com/album/2GgHhGR9f5QGUw4lnSyYfe"
+        "name": "Bloody Bruddas",
+        "url": "https://open.spotify.com/album/5rFMgfUL0AqhSPjI0MFT0i"
       },
       "artists": [
         {
-          "name": "Hood Radio",
-          "url": "https://open.spotify.com/artist/6hvER802DD3HhaYobfVdSZ"
-        },
-        {
-          "name": "reemknock",
-          "url": "https://open.spotify.com/artist/1WBHMVEqVPbT2755BkU1YH"
+          "name": "Bloodhound Lil Jeff",
+          "url": "https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ"
         }
       ],
-      "duration_ms": 115937,
-      "name": "Mike In What",
-      "url": "https://open.spotify.com/track/7oXKwqPb8ew1CTX5kFrcUF"
+      "duration_ms": 128312,
+      "name": "AR-15",
+      "url": "https://open.spotify.com/track/0y81SHgKhCA9pwuOPQPG9z"
     },
     {
       "added_at": null,
@@ -303,6 +267,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mike In What",
+        "url": "https://open.spotify.com/album/2GgHhGR9f5QGUw4lnSyYfe"
+      },
+      "artists": [
+        {
+          "name": "Hood Radio",
+          "url": "https://open.spotify.com/artist/6hvER802DD3HhaYobfVdSZ"
+        },
+        {
+          "name": "reemknock",
+          "url": "https://open.spotify.com/artist/1WBHMVEqVPbT2755BkU1YH"
+        }
+      ],
+      "duration_ms": 115937,
+      "name": "Mike In What",
+      "url": "https://open.spotify.com/track/7oXKwqPb8ew1CTX5kFrcUF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Militia",
         "url": "https://open.spotify.com/album/16oIr5VESM6EX3czVoOoM5"
       },
@@ -319,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "catastrophe",
-        "url": "https://open.spotify.com/album/1JZmYxLAjD3XgMFnhuiPPd"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 130422,
-      "name": "catastrophe",
-      "url": "https://open.spotify.com/track/7LLIyWvrVCoOW35WqG9Jx7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me & Mine, Pt. 1",
         "url": "https://open.spotify.com/album/32IMKd48Sp6pe9sW473ono"
       },
@@ -347,6 +315,22 @@
       "duration_ms": 198149,
       "name": "Bonnie & Clyde",
       "url": "https://open.spotify.com/track/3zls854dRathxLF4aoMJm2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "catastrophe",
+        "url": "https://open.spotify.com/album/1JZmYxLAjD3XgMFnhuiPPd"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 130422,
+      "name": "catastrophe",
+      "url": "https://open.spotify.com/track/7LLIyWvrVCoOW35WqG9Jx7"
     },
     {
       "added_at": null,
@@ -443,62 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE SQUIDFATHER 2",
-        "url": "https://open.spotify.com/album/3CIqtma4xiI9roddle2h58"
-      },
-      "artists": [
-        {
-          "name": "Hariroc",
-          "url": "https://open.spotify.com/artist/3P0Ts5pJZKOyfWjuORxn5U"
-        },
-        {
-          "name": "Zukenee",
-          "url": "https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc"
-        }
-      ],
-      "duration_ms": 94782,
-      "name": "beaver",
-      "url": "https://open.spotify.com/track/35JBdERw52rF5vNn2Zujbl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Digital",
-        "url": "https://open.spotify.com/album/1l1rE7pfYyhKXrpgNGDAY2"
-      },
-      "artists": [
-        {
-          "name": "Omari Lyseight",
-          "url": "https://open.spotify.com/artist/09RM5xq551CU3IQWBTimtF"
-        },
-        {
-          "name": "454",
-          "url": "https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4"
-        }
-      ],
-      "duration_ms": 141686,
-      "name": "East End",
-      "url": "https://open.spotify.com/track/7FUFhDdoIfkQZchG9nrujV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "STARSTRUCK",
-        "url": "https://open.spotify.com/album/4qkgoGNJTqhpSLdbxUr8tV"
-      },
-      "artists": [
-        {
-          "name": "okxyvro!",
-          "url": "https://open.spotify.com/artist/5TsEhWdJyal3IvCsy98s6m"
-        }
-      ],
-      "duration_ms": 99567,
-      "name": "Repent",
-      "url": "https://open.spotify.com/track/3aoqI500xmOZ4JmYkvSbRo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Practical Basketball (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5UBETmTHsqERFsbAz8zrpJ"
       },
@@ -523,18 +451,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teen X",
-        "url": "https://open.spotify.com/album/0NMHUXzCJRMrrwS5UDI8rM"
+        "name": "Self Stylist",
+        "url": "https://open.spotify.com/album/3a1Ao3nMVlLb5leLAfiPxx"
       },
       "artists": [
         {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+          "name": "LOOK KILLA",
+          "url": "https://open.spotify.com/artist/4VJIWtFR6cPbxNSWEgkqxf"
         }
       ],
-      "duration_ms": 106533,
-      "name": "Yale",
-      "url": "https://open.spotify.com/track/66yPalPs9DrhbGb9gR3vD9"
+      "duration_ms": 178906,
+      "name": "GHOST",
+      "url": "https://open.spotify.com/track/4ewa3IkNWrv1XG9qIWwIvt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Digital",
+        "url": "https://open.spotify.com/album/1l1rE7pfYyhKXrpgNGDAY2"
+      },
+      "artists": [
+        {
+          "name": "Omari Lyseight",
+          "url": "https://open.spotify.com/artist/09RM5xq551CU3IQWBTimtF"
+        },
+        {
+          "name": "454",
+          "url": "https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4"
+        }
+      ],
+      "duration_ms": 141686,
+      "name": "East End",
+      "url": "https://open.spotify.com/track/7FUFhDdoIfkQZchG9nrujV"
     },
     {
       "added_at": null,
@@ -555,34 +503,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "F That Alcohol",
-        "url": "https://open.spotify.com/album/2cu3dVY8ZnOOgKgBimsdaU"
+        "name": "STARSTRUCK",
+        "url": "https://open.spotify.com/album/4qkgoGNJTqhpSLdbxUr8tV"
       },
       "artists": [
         {
-          "name": "Ygb Hakim",
-          "url": "https://open.spotify.com/artist/1ZA7X7hcCf695nBgF4iU4Y"
+          "name": "okxyvro!",
+          "url": "https://open.spotify.com/artist/5TsEhWdJyal3IvCsy98s6m"
         }
       ],
-      "duration_ms": 141849,
-      "name": "F That Alcohol",
-      "url": "https://open.spotify.com/track/4lTIAiaW6Qrjk8bhLhhjim"
+      "duration_ms": 99567,
+      "name": "Repent",
+      "url": "https://open.spotify.com/track/3aoqI500xmOZ4JmYkvSbRo"
     },
     {
       "added_at": null,
       "album": {
-        "name": "5 OCLOCK IN THE MORNING",
-        "url": "https://open.spotify.com/album/6OryIpYsy7YUEAciWZA8mf"
+        "name": "Teen X",
+        "url": "https://open.spotify.com/album/0NMHUXzCJRMrrwS5UDI8rM"
       },
       "artists": [
         {
-          "name": "56ca$h",
-          "url": "https://open.spotify.com/artist/2k6zErWUU8W0nwFtzYJIZt"
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 109557,
-      "name": "5 OCLOCK IN THE MORNING",
-      "url": "https://open.spotify.com/track/0HXhtllINu2TodAMieRvFv"
+      "duration_ms": 106533,
+      "name": "Yale",
+      "url": "https://open.spotify.com/track/66yPalPs9DrhbGb9gR3vD9"
     },
     {
       "added_at": null,
@@ -599,6 +547,22 @@
       "duration_ms": 145841,
       "name": "Telephones",
       "url": "https://open.spotify.com/track/1AKsJHv1KawhTIKa9ZD2FU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F That Alcohol",
+        "url": "https://open.spotify.com/album/2cu3dVY8ZnOOgKgBimsdaU"
+      },
+      "artists": [
+        {
+          "name": "Ygb Hakim",
+          "url": "https://open.spotify.com/artist/1ZA7X7hcCf695nBgF4iU4Y"
+        }
+      ],
+      "duration_ms": 141849,
+      "name": "F That Alcohol",
+      "url": "https://open.spotify.com/track/4lTIAiaW6Qrjk8bhLhhjim"
     },
     {
       "added_at": null,
@@ -623,18 +587,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jersey",
-        "url": "https://open.spotify.com/album/22VaD5pmMG9ZEmbEIfbXIH"
+        "name": "Voices In My Head",
+        "url": "https://open.spotify.com/album/7qGgYsuOOTVWPJgaDebx74"
       },
       "artists": [
         {
-          "name": "Cl4pers",
-          "url": "https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ"
+          "name": "Rayy Dubb",
+          "url": "https://open.spotify.com/artist/5JkD3p2fJbGwVagjQSfD7h"
         }
       ],
-      "duration_ms": 163062,
-      "name": "Jersey",
-      "url": "https://open.spotify.com/track/4fFG5J3kEBFQ0tL6YVKrdn"
+      "duration_ms": 165575,
+      "name": "Voices In My Head",
+      "url": "https://open.spotify.com/track/6ZWgyxB0rdb1vur4J2hSCQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fire in my heart",
+        "url": "https://open.spotify.com/album/4anMKTkHRHemr55s8Ovh8T"
+      },
+      "artists": [
+        {
+          "name": "1400 Vault",
+          "url": "https://open.spotify.com/artist/5HGDY5ljhjmfMCWvTDShiQ"
+        }
+      ],
+      "duration_ms": 229738,
+      "name": "Fire in my heart",
+      "url": "https://open.spotify.com/track/5XZN4J4EQeNYfxWBb9kBog"
     },
     {
       "added_at": null,
@@ -659,34 +639,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fire in my heart",
-        "url": "https://open.spotify.com/album/4anMKTkHRHemr55s8Ovh8T"
+        "name": "Jersey",
+        "url": "https://open.spotify.com/album/22VaD5pmMG9ZEmbEIfbXIH"
       },
       "artists": [
         {
-          "name": "1400 Vault",
-          "url": "https://open.spotify.com/artist/5HGDY5ljhjmfMCWvTDShiQ"
+          "name": "Cl4pers",
+          "url": "https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ"
         }
       ],
-      "duration_ms": 229738,
-      "name": "Fire in my heart",
-      "url": "https://open.spotify.com/track/5XZN4J4EQeNYfxWBb9kBog"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scarecrow",
-        "url": "https://open.spotify.com/album/6VrC29ahnGNino6ddscM8h"
-      },
-      "artists": [
-        {
-          "name": "BLP KOSHER",
-          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
-        }
-      ],
-      "duration_ms": 194594,
-      "name": "Pub Sub",
-      "url": "https://open.spotify.com/track/0vtfVaApMNkfJr5yhEmnX4"
+      "duration_ms": 163062,
+      "name": "Jersey",
+      "url": "https://open.spotify.com/track/4fFG5J3kEBFQ0tL6YVKrdn"
     },
     {
       "added_at": null,
@@ -707,34 +671,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
+        "name": "Scarecrow",
+        "url": "https://open.spotify.com/album/6VrC29ahnGNino6ddscM8h"
       },
       "artists": [
         {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+          "name": "BLP KOSHER",
+          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
         }
       ],
-      "duration_ms": 182791,
-      "name": "Nightcore 2",
-      "url": "https://open.spotify.com/track/6p1j9OP2IBdzR5tgtyJk10"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everybody Hates 10",
-        "url": "https://open.spotify.com/album/2Ljs7S5f0oExfgdCPJKko1"
-      },
-      "artists": [
-        {
-          "name": "10cellphones",
-          "url": "https://open.spotify.com/artist/3IBVsmzlYvtNgo76uhM2Pv"
-        }
-      ],
-      "duration_ms": 106728,
-      "name": "Air Bender",
-      "url": "https://open.spotify.com/track/0SC10wGF4YMLIdL1QMGlm8"
+      "duration_ms": 194594,
+      "name": "Pub Sub",
+      "url": "https://open.spotify.com/track/0vtfVaApMNkfJr5yhEmnX4"
     },
     {
       "added_at": null,
@@ -755,34 +703,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voices In My Head",
-        "url": "https://open.spotify.com/album/7qGgYsuOOTVWPJgaDebx74"
+        "name": "A Great Chaos",
+        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
       },
       "artists": [
         {
-          "name": "Rayy Dubb",
-          "url": "https://open.spotify.com/artist/5JkD3p2fJbGwVagjQSfD7h"
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 165575,
-      "name": "Voices In My Head",
-      "url": "https://open.spotify.com/track/6ZWgyxB0rdb1vur4J2hSCQ"
+      "duration_ms": 182791,
+      "name": "Nightcore 2",
+      "url": "https://open.spotify.com/track/6p1j9OP2IBdzR5tgtyJk10"
     },
     {
       "added_at": null,
       "album": {
-        "name": "dookie",
-        "url": "https://open.spotify.com/album/2mrDKY2bOnxJASxQfrh9XX"
+        "name": "Wealthi",
+        "url": "https://open.spotify.com/album/6VPdDIZ8XvSfPaQh4bwfH9"
       },
       "artists": [
         {
-          "name": "rseskii",
-          "url": "https://open.spotify.com/artist/4KndFRSXIzFVbypa6yKCWh"
+          "name": "Phobu",
+          "url": "https://open.spotify.com/artist/1O9Vke6Wm4oBG9lXUIk5ha"
         }
       ],
-      "duration_ms": 175055,
-      "name": "dookie",
-      "url": "https://open.spotify.com/track/1AomQIauqXD5c6jpI18l8v"
+      "duration_ms": 140326,
+      "name": "Won't Change",
+      "url": "https://open.spotify.com/track/0xdMI51U6FoTqKRPYLH96w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Live, I Die, I Live Again (Resurrected)",
+        "url": "https://open.spotify.com/album/6JqKTBpbRpGZ9RMUlPCbM2"
+      },
+      "artists": [
+        {
+          "name": "Chuckyy",
+          "url": "https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "No Blickout",
+      "url": "https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg"
     },
     {
       "added_at": null,
@@ -819,18 +783,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Live, I Die, I Live Again (Resurrected)",
-        "url": "https://open.spotify.com/album/6JqKTBpbRpGZ9RMUlPCbM2"
+        "name": "LORD",
+        "url": "https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn"
       },
       "artists": [
         {
-          "name": "Chuckyy",
-          "url": "https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h"
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         }
       ],
-      "duration_ms": 160000,
-      "name": "No Blickout",
-      "url": "https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg"
+      "duration_ms": 143112,
+      "name": "Which 1 / Klueless",
+      "url": "https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": ">Music",
+        "url": "https://open.spotify.com/album/1qSTmkNLnqc42ysyt43cba"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        }
+      ],
+      "duration_ms": 156815,
+      "name": "Straight Forward",
+      "url": "https://open.spotify.com/track/5QFebQipvG6fMprVVWlmvo"
     },
     {
       "added_at": null,
@@ -851,18 +831,42 @@
     {
       "added_at": null,
       "album": {
-        "name": ">Music",
-        "url": "https://open.spotify.com/album/1qSTmkNLnqc42ysyt43cba"
+        "name": "Disagree",
+        "url": "https://open.spotify.com/album/670icObNVMYesRcjmyXdT2"
       },
       "artists": [
         {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+          "name": "Duwap Kaine",
+          "url": "https://open.spotify.com/artist/5fBcVfTWenqUDOYR5SjzEQ"
         }
       ],
-      "duration_ms": 156815,
-      "name": "Straight Forward",
-      "url": "https://open.spotify.com/track/5QFebQipvG6fMprVVWlmvo"
+      "duration_ms": 136045,
+      "name": "Disagree",
+      "url": "https://open.spotify.com/track/0j1oCSyf33qqdmQ49Iro7r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Ah Kidz",
+        "url": "https://open.spotify.com/album/0S6JdLMY0py4wBLkKfZfLO"
+      },
+      "artists": [
+        {
+          "name": "1900Rugrat",
+          "url": "https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5"
+        },
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        },
+        {
+          "name": "BAK Jay",
+          "url": "https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Ain't No Love (feat. BabyChiefDoit & BAK Jay)",
+      "url": "https://open.spotify.com/track/6bI8DN3LF8EzHkYbh065Ei"
     }
   ],
   "unique_name": "Taewitdak Radio",

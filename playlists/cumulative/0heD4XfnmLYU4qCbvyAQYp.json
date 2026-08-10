@@ -945,6 +945,24 @@
     },
     {
       "album": {
+        "name": "En Fin",
+        "url": "https://open.spotify.com/album/4nZsWk64LWVpk3Dui3czf8"
+      },
+      "artists": [
+        {
+          "name": "Nico Tallac",
+          "url": "https://open.spotify.com/artist/7afY95ejJDhYH50Ce2mgsT"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272727,
+      "name": "Guau Guau",
+      "url": "https://open.spotify.com/track/6c63incVIBg4FCtvxFUqZX"
+    },
+    {
+      "album": {
         "name": "Hear My Voice",
         "url": "https://open.spotify.com/album/05TOrRce9UGmuBLmSWHPpg"
       },
@@ -2330,6 +2348,24 @@
       "duration_ms": 275433,
       "name": "The Cycle",
       "url": "https://open.spotify.com/track/1Mwm0XKriYrpPL6xhSH9U4"
+    },
+    {
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/3GUpTkiyxktNs6yGJnF2rV"
+      },
+      "artists": [
+        {
+          "name": "Sammy Vulcano",
+          "url": "https://open.spotify.com/artist/1L3MIDDjLX2WaGGEv1bWCW"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168533,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/1zuRRBvbWoZxwMdbchaR30"
     },
     {
       "album": {

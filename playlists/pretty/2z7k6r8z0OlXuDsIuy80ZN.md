@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2z7k6r8z0OlXuDsIuy80ZN.md) - [plain]
 
 > ¡Los 40 principales éxitos de la radio musical en la única e inimitable lista de LOS40! Actualizamos cada sábado, tras el repaso a la nueva lista en Del 40 al 1 con Tony Aguilar\. Escucha a Taylor Swift, Rosalía, Rels B, HUNTR/X, y muchos más
 
-[LOS40](https://open.spotify.com/user/los40_spain) - 153,973 likes - 40 songs - 2 hr 8 min
+[LOS40](https://open.spotify.com/user/los40_spain) - 153,975 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/2z7k6r8z0OlXuDsIuy80ZN.md) - [plain]
 | 39 | [las guapas no morimos de verdad](https://open.spotify.com/track/1Q7xmcaclrfJlzsUKPo90N) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [las guapas no morimos de verdad](https://open.spotify.com/album/42aGQSUuZFZMRWn5Cw6Y3z) | 3:30 |
 | 40 | [Algo de mí](https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Algo de mí](https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm) | 3:01 |
 
-Snapshot ID: `AAAtY4DiqGvw/FwwQsTEYrcgNXhVT+wm`
+Snapshot ID: `AAAtZtnS0bgnHSoz/YJSw6zpnwVtVcGE`

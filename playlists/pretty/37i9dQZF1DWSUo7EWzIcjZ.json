@@ -243,8 +243,8 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Resistire",
-        "url": "https://open.spotify.com/album/7pjcMXlN1lxfgBu0Z3ODFy"
+        "name": "Lo Mejor De...To\u00f1o Rosario",
+        "url": "https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t"
       },
       "artists": [
         {
@@ -252,15 +252,15 @@
           "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
         }
       ],
-      "duration_ms": 310226,
-      "name": "Resistire",
-      "url": "https://open.spotify.com/track/7FsESZMkzIJYQAekB2BsIb"
+      "duration_ms": 281760,
+      "name": "Desnudate Mujer",
+      "url": "https://open.spotify.com/track/33cVlyik4hIaS4gwiLCNcY"
     },
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Amame",
-        "url": "https://open.spotify.com/album/1wqyouKLBvlZlKkoGiXZAx"
+        "name": "Atrevido",
+        "url": "https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
         }
       ],
-      "duration_ms": 289973,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/1haZNySpzQtVzEE2TA4Kgg"
+      "duration_ms": 296613,
+      "name": "Devorame Otra Vez",
+      "url": "https://open.spotify.com/track/1gLzHAYHH02lOTmkCmQaIy"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -323,8 +323,8 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Lo Mejor De...To\u00f1o Rosario",
-        "url": "https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t"
+        "name": "Resistire",
+        "url": "https://open.spotify.com/album/7pjcMXlN1lxfgBu0Z3ODFy"
       },
       "artists": [
         {
@@ -332,15 +332,15 @@
           "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
         }
       ],
-      "duration_ms": 281760,
-      "name": "Desnudate Mujer",
-      "url": "https://open.spotify.com/track/33cVlyik4hIaS4gwiLCNcY"
+      "duration_ms": 310226,
+      "name": "Resistire",
+      "url": "https://open.spotify.com/track/7FsESZMkzIJYQAekB2BsIb"
     },
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Atrevido",
-        "url": "https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt"
+        "name": "Amame",
+        "url": "https://open.spotify.com/album/1wqyouKLBvlZlKkoGiXZAx"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
         }
       ],
-      "duration_ms": 296613,
-      "name": "Devorame Otra Vez",
-      "url": "https://open.spotify.com/track/1gLzHAYHH02lOTmkCmQaIy"
+      "duration_ms": 289973,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/1haZNySpzQtVzEE2TA4Kgg"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Pochi Y Su Cocoband",
-        "url": "https://open.spotify.com/album/2SNsF2uUEnmLDHNxSGxWlL"
-      },
-      "artists": [
-        {
-          "name": "Pochy Y Su Cocoband",
-          "url": "https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu"
-        }
-      ],
-      "duration_ms": 230906,
-      "name": "La Faldita",
-      "url": "https://open.spotify.com/track/1y6JPeMsa7aac0mw9Fz00d"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Esta Noche!",
         "url": "https://open.spotify.com/album/4mk7v0ZkHoY6JnpWsXjTIJ"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 277440,
       "name": "Volvio Juanita",
       "url": "https://open.spotify.com/track/16aBbOfpk7SOVSCSagWRkZ"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Pochi Y Su Cocoband",
+        "url": "https://open.spotify.com/album/2SNsF2uUEnmLDHNxSGxWlL"
+      },
+      "artists": [
+        {
+          "name": "Pochy Y Su Cocoband",
+          "url": "https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "La Faldita",
+      "url": "https://open.spotify.com/track/1y6JPeMsa7aac0mw9Fz00d"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1367,6 +1367,22 @@
       "duration_ms": 264515,
       "name": "Tu Me Vas a Dejar",
       "url": "https://open.spotify.com/track/70my3NPh8BlUxmpSeRBSzY"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Noches Latinas",
+        "url": "https://open.spotify.com/album/78mFtQUxBPYxrb2p2LNc0d"
+      },
+      "artists": [
+        {
+          "name": "Rubby Perez",
+          "url": "https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC"
+        }
+      ],
+      "duration_ms": 264800,
+      "name": "Locamente Enamorado",
+      "url": "https://open.spotify.com/track/77lij4KlT9qORwjpMe3FHE"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Chic\u00e1n",
-        "url": "https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Del Can",
-          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
-        }
-      ],
-      "duration_ms": 262321,
-      "name": "Como una Loba",
-      "url": "https://open.spotify.com/track/7imf1muwG5clrKid7c41Yr"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Por un Poco de Amor",
         "url": "https://open.spotify.com/album/2mN7A45bIPrIZgArQ0VZDN"
       },
@@ -1447,6 +1447,22 @@
       "duration_ms": 221100,
       "name": "Que Pasara",
       "url": "https://open.spotify.com/track/1lmzFjc5xPnnHwGO73bHTo"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Chic\u00e1n",
+        "url": "https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Del Can",
+          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
+        }
+      ],
+      "duration_ms": 262321,
+      "name": "Como una Loba",
+      "url": "https://open.spotify.com/track/7imf1muwG5clrKid7c41Yr"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1499,22 +1515,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Coleccion Salsa Discotheque - Vol. 1",
-        "url": "https://open.spotify.com/album/63SHFLiJKJeMQ4KoXNlLxH"
-      },
-      "artists": [
-        {
-          "name": "Oro Negro",
-          "url": "https://open.spotify.com/artist/0iEGlLKhtlzQeKBnXQWOzF"
-        }
-      ],
-      "duration_ms": 266400,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/0RPbC2qs3vGJG4iFyJdMME"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Exitos Inolvidables de Benny Sadel",
         "url": "https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM"
       },
@@ -1527,6 +1527,22 @@
       "duration_ms": 262426,
       "name": "Amor, Amor",
       "url": "https://open.spotify.com/track/31Tuftk7aZpz0SqrO4TukY"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Coleccion Salsa Discotheque - Vol. 1",
+        "url": "https://open.spotify.com/album/63SHFLiJKJeMQ4KoXNlLxH"
+      },
+      "artists": [
+        {
+          "name": "Oro Negro",
+          "url": "https://open.spotify.com/artist/0iEGlLKhtlzQeKBnXQWOzF"
+        }
+      ],
+      "duration_ms": 266400,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/0RPbC2qs3vGJG4iFyJdMME"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1579,22 +1595,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "La Cartita",
-        "url": "https://open.spotify.com/album/68mEpO3bp4lsLlC6auxCWD"
-      },
-      "artists": [
-        {
-          "name": "Fernando Villalona",
-          "url": "https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu"
-        }
-      ],
-      "duration_ms": 291735,
-      "name": "Soy Dominicano",
-      "url": "https://open.spotify.com/track/7kxbZkurFVuJNDqnvg4auZ"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "La Negra Mia",
         "url": "https://open.spotify.com/album/5x4cKnzSCXbgNOEW4mz3SK"
       },
@@ -1607,6 +1607,22 @@
       "duration_ms": 254511,
       "name": "Maldita Sea",
       "url": "https://open.spotify.com/track/5YjpYs0P1BcT486h5IIAss"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "La Cartita",
+        "url": "https://open.spotify.com/album/68mEpO3bp4lsLlC6auxCWD"
+      },
+      "artists": [
+        {
+          "name": "Fernando Villalona",
+          "url": "https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu"
+        }
+      ],
+      "duration_ms": 291735,
+      "name": "Soy Dominicano",
+      "url": "https://open.spotify.com/track/7kxbZkurFVuJNDqnvg4auZ"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1659,38 +1675,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "El Mayimbe",
-        "url": "https://open.spotify.com/album/5wIvzXgpFdveTZ8OzKkSNf"
-      },
-      "artists": [
-        {
-          "name": "Fernando Villalona",
-          "url": "https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu"
-        }
-      ],
-      "duration_ms": 307640,
-      "name": "Cama Y Mesa",
-      "url": "https://open.spotify.com/track/5w8uBAoUDhjGab0EACmmaO"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Noches Latinas",
-        "url": "https://open.spotify.com/album/78mFtQUxBPYxrb2p2LNc0d"
-      },
-      "artists": [
-        {
-          "name": "Rubby Perez",
-          "url": "https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "Locamente Enamorado",
-      "url": "https://open.spotify.com/track/77lij4KlT9qORwjpMe3FHE"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Miriam Collection",
         "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 226520,
       "name": "Que Me Perdone Tu Se\u00f1ora",
       "url": "https://open.spotify.com/track/66bQ3XrXyNL2fKPbKanSfI"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "El Mayimbe",
+        "url": "https://open.spotify.com/album/5wIvzXgpFdveTZ8OzKkSNf"
+      },
+      "artists": [
+        {
+          "name": "Fernando Villalona",
+          "url": "https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu"
+        }
+      ],
+      "duration_ms": 307640,
+      "name": "Cama Y Mesa",
+      "url": "https://open.spotify.com/track/5w8uBAoUDhjGab0EACmmaO"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Merengues Cl\u00e1sicos de los 80\u00b4s, Vol. 2",
-        "url": "https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE"
-      },
-      "artists": [
-        {
-          "name": "Aramis Camilo",
-          "url": "https://open.spotify.com/artist/2uXrtZz6GmQnXEJR1eh97C"
-        }
-      ],
-      "duration_ms": 224784,
-      "name": "El Motor",
-      "url": "https://open.spotify.com/track/1rr7wEzQXoxS2LFAdMkAT7"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Miriam Collection",
         "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 241506,
       "name": "Esa Loca",
       "url": "https://open.spotify.com/track/2xaQcwMDgoDvq6wF81cN9k"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Merengues Cl\u00e1sicos de los 80\u00b4s, Vol. 2",
+        "url": "https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE"
+      },
+      "artists": [
+        {
+          "name": "Aramis Camilo",
+          "url": "https://open.spotify.com/artist/2uXrtZz6GmQnXEJR1eh97C"
+        }
+      ],
+      "duration_ms": 224784,
+      "name": "El Motor",
+      "url": "https://open.spotify.com/track/1rr7wEzQXoxS2LFAdMkAT7"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Chic\u00e1n",
-        "url": "https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Del Can",
-          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
-        }
-      ],
-      "duration_ms": 299546,
-      "name": "Juana la Cubana",
-      "url": "https://open.spotify.com/track/4Zw8m6Zuhv3eFKKQy5MWTs"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Miriam Collection",
         "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 271013,
       "name": "Que Ganas De No Verte Nunca Mas",
       "url": "https://open.spotify.com/track/2FnRMLwYTrrKgUbHNRfDr7"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Chic\u00e1n",
+        "url": "https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Del Can",
+          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
+        }
+      ],
+      "duration_ms": 299546,
+      "name": "Juana la Cubana",
+      "url": "https://open.spotify.com/track/4Zw8m6Zuhv3eFKKQy5MWTs"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "The Last Kiss (Latin Edition)",
-        "url": "https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG"
-      },
-      "artists": [
-        {
-          "name": "El Zafiro",
-          "url": "https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E"
-        }
-      ],
-      "duration_ms": 228746,
-      "name": "El Cantante del Amor",
-      "url": "https://open.spotify.com/track/5RPWLHocWVJxJlDNH96YJn"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Miriam Collection",
         "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 233533,
       "name": "Es Cosa De El",
       "url": "https://open.spotify.com/track/2BTqbQyPEdUG62hqIa7ccc"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "The Last Kiss (Latin Edition)",
+        "url": "https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG"
+      },
+      "artists": [
+        {
+          "name": "El Zafiro",
+          "url": "https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E"
+        }
+      ],
+      "duration_ms": 228746,
+      "name": "El Cantante del Amor",
+      "url": "https://open.spotify.com/track/5RPWLHocWVJxJlDNH96YJn"
     },
     {
       "added_at": "2024-06-28 21:55:14",

@@ -1,6 +1,6 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover: Big Naughty)",
-  "num_followers": 1097884,
+  "num_followers": 1097798,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-08-07 02:48:17",
       "album": {
+        "name": "Twenty-Five Twenty-One OST Part 4",
+        "url": "https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 204229,
+      "name": "Your Existence",
+      "url": "https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC"
+    },
+    {
+      "added_at": "2026-08-07 02:48:17",
+      "album": {
         "name": "Lullaby Remix",
         "url": "https://open.spotify.com/album/31mReIClap5NQNlYVt8TDB"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 217000,
       "name": "Lullaby Remix",
       "url": "https://open.spotify.com/track/6WnMFDIiDJR0Yg9JaBwVQx"
-    },
-    {
-      "added_at": "2026-08-07 02:48:17",
-      "album": {
-        "name": "Twenty-Five Twenty-One OST Part 4",
-        "url": "https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 204229,
-      "name": "Your Existence",
-      "url": "https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC"
     },
     {
       "added_at": "2026-08-07 02:48:17",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-08-07 02:48:17",
       "album": {
-        "name": "Savage - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Lucid Dream",
-      "url": "https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH"
-    },
-    {
-      "added_at": "2026-08-07 02:48:17",
-      "album": {
         "name": "Bambi - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 213053,
       "name": "Bambi",
       "url": "https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En"
+    },
+    {
+      "added_at": "2026-08-07 02:48:17",
+      "album": {
+        "name": "Savage - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Lucid Dream",
+      "url": "https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH"
     },
     {
       "added_at": "2026-08-07 02:48:17",
@@ -823,18 +823,22 @@
     {
       "added_at": "2026-08-07 02:48:17",
       "album": {
-        "name": "ABG",
-        "url": "https://open.spotify.com/album/2ffzFWbrwSDrnKYQo5HHlI"
+        "name": "VIBE (feat. Jimin of BTS)",
+        "url": "https://open.spotify.com/album/664YJTJqj4tcY4y74AWgvz"
       },
       "artists": [
         {
-          "name": "Joh!",
-          "url": "https://open.spotify.com/artist/13Gmz7fhew38A0i3bkkgp6"
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         }
       ],
-      "duration_ms": 110103,
-      "name": "ABG",
-      "url": "https://open.spotify.com/track/4wMXivIRf9HsR3eKXBWVgF"
+      "duration_ms": 175775,
+      "name": "VIBE (feat. Jimin of BTS)",
+      "url": "https://open.spotify.com/track/14XLUySagFhP9KoqOTg5ka"
     },
     {
       "added_at": "2026-08-07 02:48:17",
@@ -855,18 +859,18 @@
     {
       "added_at": "2026-08-07 02:48:17",
       "album": {
-        "name": "Unconditional",
-        "url": "https://open.spotify.com/album/4Q6W1RKslZCLWZPmagDEy9"
+        "name": "ABG",
+        "url": "https://open.spotify.com/album/2ffzFWbrwSDrnKYQo5HHlI"
       },
       "artists": [
         {
-          "name": "JAEHYUN",
-          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
+          "name": "Joh!",
+          "url": "https://open.spotify.com/artist/13Gmz7fhew38A0i3bkkgp6"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Unconditional",
-      "url": "https://open.spotify.com/track/4j0W96NZvBFqwIyhCb9uGX"
+      "duration_ms": 110103,
+      "name": "ABG",
+      "url": "https://open.spotify.com/track/4wMXivIRf9HsR3eKXBWVgF"
     },
     {
       "added_at": "2026-08-07 02:48:17",
@@ -887,22 +891,18 @@
     {
       "added_at": "2026-08-07 02:48:17",
       "album": {
-        "name": "VIBE (feat. Jimin of BTS)",
-        "url": "https://open.spotify.com/album/664YJTJqj4tcY4y74AWgvz"
+        "name": "Unconditional",
+        "url": "https://open.spotify.com/album/4Q6W1RKslZCLWZPmagDEy9"
       },
       "artists": [
         {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        },
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+          "name": "JAEHYUN",
+          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
         }
       ],
-      "duration_ms": 175775,
-      "name": "VIBE (feat. Jimin of BTS)",
-      "url": "https://open.spotify.com/track/14XLUySagFhP9KoqOTg5ka"
+      "duration_ms": 184000,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/4j0W96NZvBFqwIyhCb9uGX"
     },
     {
       "added_at": "2026-08-07 02:48:17",
@@ -947,18 +947,18 @@
     {
       "added_at": "2026-08-07 02:48:17",
       "album": {
-        "name": "Forever Only - SM STATION : NCT LAB",
-        "url": "https://open.spotify.com/album/519WmtnoFNzzyyh7Czfhi8"
+        "name": "Bam Yang Gang",
+        "url": "https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O"
       },
       "artists": [
         {
-          "name": "JAEHYUN",
-          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
         }
       ],
-      "duration_ms": 196120,
-      "name": "Forever Only",
-      "url": "https://open.spotify.com/track/0fN27m84ofEpWHGwJ0THYz"
+      "duration_ms": 146197,
+      "name": "Bam Yang Gang",
+      "url": "https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy"
     },
     {
       "added_at": "2026-08-07 02:48:17",
@@ -979,26 +979,18 @@
     {
       "added_at": "2026-08-07 02:48:17",
       "album": {
-        "name": "Breaking Through",
-        "url": "https://open.spotify.com/album/21uBDpJNMAs8iQEC9JkY0j"
+        "name": "Forever Only - SM STATION : NCT LAB",
+        "url": "https://open.spotify.com/album/519WmtnoFNzzyyh7Czfhi8"
       },
       "artists": [
         {
-          "name": "EL CAPITXN",
-          "url": "https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a"
-        },
-        {
-          "name": "TAEHYUN",
-          "url": "https://open.spotify.com/artist/1kpVcaBKejm2ZrLYZkKdM8"
-        },
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+          "name": "JAEHYUN",
+          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
         }
       ],
-      "duration_ms": 252800,
-      "name": "Breaking Through",
-      "url": "https://open.spotify.com/track/02jSnbMfNzX1aLR7HPyvpH"
+      "duration_ms": 196120,
+      "name": "Forever Only",
+      "url": "https://open.spotify.com/track/0fN27m84ofEpWHGwJ0THYz"
     },
     {
       "added_at": "2026-08-07 02:48:17",
@@ -1023,22 +1015,6 @@
     {
       "added_at": "2026-08-07 02:48:17",
       "album": {
-        "name": "Bam Yang Gang",
-        "url": "https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 146197,
-      "name": "Bam Yang Gang",
-      "url": "https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy"
-    },
-    {
-      "added_at": "2026-08-07 02:48:17",
-      "album": {
         "name": "love you twice",
         "url": "https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4"
       },
@@ -1051,6 +1027,30 @@
       "duration_ms": 172189,
       "name": "love you twice",
       "url": "https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8"
+    },
+    {
+      "added_at": "2026-08-07 02:48:17",
+      "album": {
+        "name": "Breaking Through",
+        "url": "https://open.spotify.com/album/21uBDpJNMAs8iQEC9JkY0j"
+      },
+      "artists": [
+        {
+          "name": "EL CAPITXN",
+          "url": "https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a"
+        },
+        {
+          "name": "TAEHYUN",
+          "url": "https://open.spotify.com/artist/1kpVcaBKejm2ZrLYZkKdM8"
+        },
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "duration_ms": 252800,
+      "name": "Breaking Through",
+      "url": "https://open.spotify.com/track/02jSnbMfNzX1aLR7HPyvpH"
     },
     {
       "added_at": "2026-08-07 02:48:17",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2026-08-07 02:48:17",
       "album": {
-        "name": "TR.EE",
-        "url": "https://open.spotify.com/album/2yrZF5spBs5ltr8LIe2nJA"
+        "name": "COME CLOSER",
+        "url": "https://open.spotify.com/album/2rdXzqWmDgzIfjUPUovQiD"
       },
       "artists": [
         {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+          "name": "LEO",
+          "url": "https://open.spotify.com/artist/6xr9i4ozDKCobWg5lUKHPj"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Layback",
-      "url": "https://open.spotify.com/track/6svaR3ZzkDtHv0a2EHhOY7"
+      "duration_ms": 163000,
+      "name": "Come Closer",
+      "url": "https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm"
     },
     {
       "added_at": "2026-08-07 02:48:17",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-08-07 02:48:17",
       "album": {
-        "name": "COME CLOSER",
-        "url": "https://open.spotify.com/album/2rdXzqWmDgzIfjUPUovQiD"
-      },
-      "artists": [
-        {
-          "name": "LEO",
-          "url": "https://open.spotify.com/artist/6xr9i4ozDKCobWg5lUKHPj"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Come Closer",
-      "url": "https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm"
-    },
-    {
-      "added_at": "2026-08-07 02:48:17",
-      "album": {
         "name": "Know me",
         "url": "https://open.spotify.com/album/4iV5wZtnTcuKrdhxb8wLVN"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 214613,
       "name": "Know me",
       "url": "https://open.spotify.com/track/5bvVA6idKl1R38C5G4tuxC"
+    },
+    {
+      "added_at": "2026-08-07 02:48:17",
+      "album": {
+        "name": "TR.EE",
+        "url": "https://open.spotify.com/album/2yrZF5spBs5ltr8LIe2nJA"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Layback",
+      "url": "https://open.spotify.com/track/6svaR3ZzkDtHv0a2EHhOY7"
     },
     {
       "added_at": "2026-08-07 02:48:17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,577 songs - 21 day 19 hr 44 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,581 songs - 21 day 20 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8585,5 +8585,9 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8575 | [天球\(そら\)のMúsica](https://open.spotify.com/track/7fh1kd9kH1F6aw1zjFOI6X) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [Completeness](https://open.spotify.com/album/5i7bsC8RBELXhGeMViNwZX) | 4:39 |
 | 8576 | [Linger](https://open.spotify.com/track/3HHehSGzW9dhs2V7Sod4jX) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Stars: The Best Of The Cranberries 1992\-2002](https://open.spotify.com/album/1JXjYl5WVr3wFgV3DMIHMl) | 4:34 |
 | 8577 | [VOLTAGE](https://open.spotify.com/track/2rBRTTF0clCIfQklzKjOIH) | [スペシャルウィーク \(CV\. 和氣あず未\)](https://open.spotify.com/artist/7pjDXnwr8n3sxNCJbSQ5f2), [ブエナビスタ \(CV\. 和泉風花\)](https://open.spotify.com/artist/3ma40KMu3hLS3xNTSmUrjd), [ブラストワンピース \(CV\. 紫月杏朱彩\)](https://open.spotify.com/artist/5A3644CLTedHWaYEcZmQ6k), [アーモンドアイ \(CV\. 石原夏織\)](https://open.spotify.com/artist/74UuDtgGrBWSKA2cjYgpnx), [ラッキーライラック \(CV\. 中島由貴\)](https://open.spotify.com/artist/2dZ9wJnskzGHIuRqiLwmZ5), [ラヴズオンリーユー \(CV\. 久保田未夢\)](https://open.spotify.com/artist/26OO93RbesL5b0MWWhn38K), [キセキ \(CV\. 星希成奏\)](https://open.spotify.com/artist/46k38IseKUMNxNfKtTdwlE), [フォーエバーヤング \(CV\. 海弓シュリ\)](https://open.spotify.com/artist/1QF8S0FYYobIi8k8T5Q5qa), [マルシュロレーヌ \(CV\. 近貞月乃\)](https://open.spotify.com/artist/5pIRmsPrHSVycMf9kDtZ1S), [エピファネイア \(CV\. 千賀光莉\)](https://open.spotify.com/artist/7vI36mvsWrpfa834C53X81), [ロゴタイプ \(CV\. 髙橋美空\)](https://open.spotify.com/artist/51pb9lS7U3nemKSk5vNAgU), [ヴィクトワールピサ \(CV\. 嶋野 花\)](https://open.spotify.com/artist/348qmJy6ym6VYVcxpviRMr), [ローズキングダム \(CV\. 菊池ゆりな\)](https://open.spotify.com/artist/13HAu0gc7NAs11pqpVwoGg), [ルーラーシップ \(CV\. 海野水玉\)](https://open.spotify.com/artist/5BSVB6yLcPsN0xpqQKce5Z) | [VOLTAGE](https://open.spotify.com/album/5oQocFLydGnL5lEco4gBwh) | 3:50 |
+| 8578 | [Harvey](https://open.spotify.com/track/1zFbBrZmJr1Z49HYe84dBg) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Invitation to Her's](https://open.spotify.com/album/3w5PWzbOdhuHd2oTynfBJw) | 3:31 |
+| 8579 | [Show Me How \- Garage Session](https://open.spotify.com/track/3WftyL45naEhUaYa9AMq4h) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Forever Live Sessions](https://open.spotify.com/album/1zAmMlu6tYriPRdobmejRa) | 3:50 |
+| 8580 | [Gohan Wa Okazu](https://open.spotify.com/track/1i8sVUbbbSaFqRDDb7GRSN) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Ho\-Kago Tea Time II \(From "K\-On!!"\)](https://open.spotify.com/album/3SJPNJ3dMplHK8UeFy295k) | 3:11 |
+| 8581 | [夢疾風](https://open.spotify.com/track/3zeTpCit5Q5j6D6Ujx0bbT) | [ミスターシービー \(CV\. 天海由梨奈\)](https://open.spotify.com/artist/1FaFRBt4a0XMz0VB2wiYVr) | [『ウマ娘 プリティーダービー』WINNING LIVE 24](https://open.spotify.com/album/5Yz7vK4nu9lMIEm8VwPjrZ) | 5:00 |
 
-Snapshot ID: `AAAMm8nK8NIeJd/+J4BANRxZy68YYo6d`
+Snapshot ID: `AAAMn4rRF6Z2h/wnkyWiP5WE7K9uKv5Y`

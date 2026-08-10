@@ -4,14 +4,14 @@
 
 > New makes old\. Cover:  Presley Haile
 
-275 songs - 16 hr 9 min
+277 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$10 Cowboy](https://open.spotify.com/track/77tSuH7nEYx2IWJm9TboDX) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [$10 Cowboy](https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za) | 3:35 | 2024-07-05 |  |
 | [\(I’m Gonna Get Over This\) Some Day](https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 2:52 | 2021-11-12 |  |
 | [All by Myself](https://open.spotify.com/track/5P2bdFon08MYGVWkfCZKyJ) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1) | [All by Myself](https://open.spotify.com/album/2ktryIUSQpGrB26hovAMY3) | 3:19 | 2021-11-12 | 2025-05-09 |
-| [All Fifty States](https://open.spotify.com/track/3UqKsB0FyJWHOo9rQpFCQA) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX), [Theo Lawrence](https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2) | [All Fifty States](https://open.spotify.com/album/4W2oK0yvYz7pOLwFkdZzpW) | 3:30 | 2025-09-26 |  |
+| [All Fifty States](https://open.spotify.com/track/3UqKsB0FyJWHOo9rQpFCQA) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX), [Theo Lawrence](https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2) | [All Fifty States](https://open.spotify.com/album/4W2oK0yvYz7pOLwFkdZzpW) | 3:30 | 2025-09-26 | 2026-08-10 |
 | [All My Exes Live in L.A.](https://open.spotify.com/track/3ixSiGWX59GYPNf8gnXU0c) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [All My Exes Live in L.A.](https://open.spotify.com/album/0YDQ6x3Lf2bfReLsZfOLYw) | 3:18 | 2024-07-05 |  |
 | [All The Way Back](https://open.spotify.com/track/74Om3rXwl9V1JMzjf1nToZ) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Come June](https://open.spotify.com/album/6ymIp6VYMvGrIjtzlj0gzi) | 3:01 | 2023-10-06 | 2026-06-14 |
 | [Analog](https://open.spotify.com/track/10QRXbDcXL9CosifxpjbZP) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [South Texas Suite](https://open.spotify.com/album/6jtK4NrygZZTIKrzBzDnFJ) | 3:24 | 2021-11-12 | 2022-07-29 |
@@ -57,6 +57,7 @@
 | [Earthquake](https://open.spotify.com/track/3tvlD4NK5C1bGjCu6GM76u) | [The Black Lillies](https://open.spotify.com/artist/06Y4yJmsrlzPrwIG46ce7X) | [Stranger to Me](https://open.spotify.com/album/1LKG0NrEfPFaMP05vlwQzn) | 3:21 | 2021-11-12 | 2026-03-07 |
 | [Easy On The Eyes](https://open.spotify.com/track/0FKafClDhDTAjjNGr7wV5t) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Easy On The Eyes](https://open.spotify.com/album/3JQfqboxnLDsxsHE4ut65G) | 3:44 | 2026-03-06 |  |
 | [Evangelina](https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Evangelina](https://open.spotify.com/album/6icdCuxBDJTsRFwxQqU9ib) | 3:47 | 2023-07-14 |  |
+| [Fast As I Can Crawl](https://open.spotify.com/track/3DDoP7OhS85NKjnuEwb4Pq) | [Jason Scott & The High Heat](https://open.spotify.com/artist/03IlJFWZVEYHlSKSBYlfAm) | [Fast As I Can Crawl](https://open.spotify.com/album/7wTXnx3KkxWFcqWhYiseg4) | 3:21 | 2026-08-07 |  |
 | [Fastest Gun Alive](https://open.spotify.com/track/4pYANf4zaNS1KG5u6eOjEt) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Fastest Gun Alive](https://open.spotify.com/album/3vTJF6ShAhmkuoBwQdSIi1) | 3:07 | 2026-03-27 |  |
 | [Femme Fatale](https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS) | [Skylar Gudasz](https://open.spotify.com/artist/0isq0T851tBgpJagOHHYHQ) | [Cinema](https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w) | 4:46 | 2021-11-12 |  |
 | [Finger on the Button](https://open.spotify.com/track/50VFQDQZoTelHkraVW7jL3) | [Blue Cactus](https://open.spotify.com/artist/6rouro6xhJxK6NxCHLp26n) | [Finger on the Button](https://open.spotify.com/album/6M67smO8BLiTWRmCfny73r) | 3:44 | 2021-11-12 | 2026-07-04 |
@@ -172,6 +173,7 @@
 | [Margo](https://open.spotify.com/track/5Mn82vItGPWekMoCE4GrhU) | [Haroula Rose](https://open.spotify.com/artist/7AhCTepWX7n4dQFh3Ro3YG) | [Margo](https://open.spotify.com/album/4tSX4JSEeC1bedmrv0KjJk) | 3:40 | 2021-11-12 | 2026-05-28 |
 | [Marriage Ain't the End of Being Lonely](https://open.spotify.com/track/2Z5aLcm4qBIXteTIzX1iMN) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [Magnolia Queen](https://open.spotify.com/album/2iYnQ4u3aQqKx0fW6NvU8B) | 3:46 | 2021-11-12 |  |
 | [May Your Kindness Remain](https://open.spotify.com/track/71pFxGowi0CXkBJ9wgSwgf) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [May Your Kindness Remain](https://open.spotify.com/album/2243YLxNEgz5YJLgfDU9vb) | 3:54 | 2021-11-12 | 2026-04-18 |
+| [Mellow](https://open.spotify.com/track/2PD23eZV0pO15j27UCmISk) | [Solon Holt](https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz) | [Songs About You](https://open.spotify.com/album/75zGvMsabnuDzWZmhY5duZ) | 3:07 | 2026-08-07 |  |
 | [Memphis Rain](https://open.spotify.com/track/7pwi5x6uNPnOeG8vM9boCo) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Silver Tears](https://open.spotify.com/album/2JG1zKeTogtW6HUSJD0K6L) | 3:38 | 2021-11-12 | 2024-07-06 |
 | [Mint Condition](https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 4:02 | 2021-11-12 |  |
 | [Mississippi](https://open.spotify.com/track/2MzuBHUg1YLezoTZqfBfVl) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [You're Dreaming](https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG) | 4:01 | 2021-11-12 |  |
@@ -196,7 +198,7 @@
 | [Only Lies](https://open.spotify.com/track/72glNsoRmefP9dHyPevxnz) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [The Lights from the Chemical Plant](https://open.spotify.com/album/1W2D0Ob8aA26OAdueRAaJP) | 3:50 | 2022-04-01 | 2024-07-03 |
 | [Oporto\-Madrid Blvd](https://open.spotify.com/track/2v8pXJPPFUP6mUl9ZihUfD) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Angels In Science Fiction](https://open.spotify.com/album/3PNavLo012ZTOzWvt4lqQF) | 3:29 | 2023-04-21 | 2024-04-19 |
 | [Oporto\-Madrid Blvd](https://open.spotify.com/track/3sPLA6G4cB8P8diBopToGT) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Oporto\-Madrid Blvd](https://open.spotify.com/album/4Uyxs83rYhuwBDKJschbYw) | 3:29 | 2023-04-21 | 2023-04-25 |
-| [Oporto\-Madrid Blvd](https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Oporto\-Madrid Blvd](https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo) | 3:29 | 2023-10-06 |  |
+| [Oporto\-Madrid Blvd](https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Oporto\-Madrid Blvd](https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo) | 3:29 | 2023-10-06 | 2026-08-10 |
 | [Out To Sea](https://open.spotify.com/track/1JRVodzHiHJmuDRa83QO20) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [The Avenues](https://open.spotify.com/album/5qet4b9g14WGegggOOxz6s) | 5:51 | 2021-11-12 | 2022-07-24 |
 | [Out to Sea](https://open.spotify.com/track/37B5EOUbYGfLjayLDQblv2) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [The Avenues](https://open.spotify.com/album/3zZGcZMTRjI6nVk361JwSE) | 5:51 | 2023-10-06 | 2024-04-19 |
 | [P\-Town](https://open.spotify.com/track/5VdaNqBdJ1PCLIboEnqge2) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [Walking Proof](https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a) | 2:46 | 2021-11-12 | 2024-07-06 |

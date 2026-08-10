@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: Overmono
 
-3,544 songs - 8 day 6 hr 14 min
+3,545 songs - 8 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2528,7 +2528,7 @@
 | [Real Here Now](https://open.spotify.com/track/4sUUqLfVKhX3DGnT1CyFHI) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Real Here Now / Water](https://open.spotify.com/album/3bFNjFl0eSYs6ne5MaM5kp) | 5:00 | 2026-05-15 |  |
 | [Real Magic](https://open.spotify.com/track/5qi6vF2iHAcLJth9XdsTYC) | [Ricky Reed](https://open.spotify.com/artist/5Q7Fmn2aPAdijQIUzobRdZ), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Real Magic](https://open.spotify.com/album/6PaZ9EoIwmLnXtYjJMgoXy) | 4:02 | 2020-07-02 | 2020-11-13 |
 | [REAL TRUTH \(feat\. Tkay Maidza\)](https://open.spotify.com/track/5XMPoZWjH8Q90zpV2qE8h2) | [J\-E\-T\-S](https://open.spotify.com/artist/3pOnPfJ9MReuu20YnLFRej), [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [ZOOSPA](https://open.spotify.com/album/7K6E7lNcQ6KYhN1Oe6UJ1Y) | 3:03 | 2019-07-30\* | 2019-10-18 |
-| [Real Vibes, Real Music](https://open.spotify.com/track/3pZE2T0v6NAbwLZVBfJGTH) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV) | [Real Vibes, Real Music](https://open.spotify.com/album/4SZRVSzvpvFFrMW6iiXxXw) | 3:27 | 2026-07-10 |  |
+| [Real Vibes, Real Music](https://open.spotify.com/track/3pZE2T0v6NAbwLZVBfJGTH) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV) | [Real Vibes, Real Music](https://open.spotify.com/album/4SZRVSzvpvFFrMW6iiXxXw) | 3:27 | 2026-07-10 | 2026-08-10 |
 | [Really, Really](https://open.spotify.com/track/5GrO19oHIMSAVSPWjRhaRT) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Goodnight Dreamer](https://open.spotify.com/album/4N5BV2JlYBvLi1g3BSwMdi) | 2:26 | 2022-03-04 | 2022-04-09 |
 | [Rearrange My World](https://open.spotify.com/track/3Ku0VYAQ4b6IomnonhjdVv) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Rearrange My World / There’s a Field \(That's Only Yours\)](https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn) | 3:48 | 2025-02-14 | 2025-05-10 |
 | [Reason](https://open.spotify.com/track/0REGWAoURfSLQe5hQhlsKK) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 2:11 | 2021-10-16 | 2021-12-07 |
@@ -2765,6 +2765,7 @@
 | [Silent Assassin](https://open.spotify.com/track/4mbAgzlDrW35mp0dz4zE40) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Sweet Justice](https://open.spotify.com/album/2TvE3Ck4cUcXwwD7bkO7pl) | 2:07 | 2023-11-03 | 2023-12-16 |
 | [Silent Hill](https://open.spotify.com/track/3lzUeaCbcCDB5IXYfqWRlF) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:40 | 2022-05-20 | 2022-09-10 |
 | [Silent Hill](https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:40 | 2022-05-20 | 2022-07-29 |
+| [silly boy](https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [DO YOU SEE ME?](https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc) | 2:53 | 2026-08-09 |  |
 | [Silver Screen](https://open.spotify.com/track/6rmbjUQFF6KMG90ukMIT2O) | [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze) | [Daybreak](https://open.spotify.com/album/2fl52wlcdpihJq265RoeYq) | 3:33 | 2021-02-19 | 2021-06-12 |
 | [Silver Thread Golden Needle](https://open.spotify.com/track/36j1SeSsw7OZsTO3ogFKEM) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Silver Thread Golden Needle](https://open.spotify.com/album/5tAtDEcbyj78RJ3q4SpYM1) | 9:56 | 2024-01-05 | 2024-02-17 |
 | [Simulation \(feat\. Swamp Dogg, Justin Vernon\)](https://open.spotify.com/track/2Ehyi5CODAtKcIQGSJopfn) | [Naeem](https://open.spotify.com/artist/2HmiQV6GQR2VlOZmjEmtnX), [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX), [Justin Vernon](https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV) | [Simulation \(feat\. Swamp Dogg, Justin Vernon\)](https://open.spotify.com/album/4BL6pRfuGLJe4azwgxAnDs) | 4:03 | 2020-04-16 | 2020-07-24 |

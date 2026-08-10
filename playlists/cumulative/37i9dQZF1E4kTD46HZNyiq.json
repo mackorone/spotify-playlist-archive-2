@@ -2936,7 +2936,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "Big City",
       "url": "https://open.spotify.com/track/3uf7jjUpzDhNT6XEdNHUQt"
@@ -7631,6 +7631,28 @@
     },
     {
       "album": {
+        "name": "Waiting for the Moment",
+        "url": "https://open.spotify.com/album/6KyfV7Xs0a1N811H3woIc4"
+      },
+      "artists": [
+        {
+          "name": "Walden",
+          "url": "https://open.spotify.com/artist/7IspetvXSZ5EjAymJEGJTF"
+        },
+        {
+          "name": "audrey.",
+          "url": "https://open.spotify.com/artist/5vDmL6Nr1oJABEM18UJ3Dw"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217996,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/5T8a0Zg9oceeIbkDD9mRDo"
+    },
+    {
+      "album": {
         "name": "Far Out Dust",
         "url": "https://open.spotify.com/album/1rgoWhCjpJu9xKqGkg8PGv"
       },
@@ -8750,7 +8772,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 206400,
       "name": "Get Better",
       "url": "https://open.spotify.com/track/63a8sFZAZ6HgskOUatU7Ye"
@@ -9752,7 +9774,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 193714,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/3RKdsUIRmpcYQRI50CV7Bj"
@@ -9986,7 +10008,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 252200,
       "name": "hey, u up?",
       "url": "https://open.spotify.com/track/26tfWIJV39o1MXBnGCqKt1"
@@ -10494,7 +10516,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 213000,
       "name": "Hotspot",
       "url": "https://open.spotify.com/track/0MQtMtaxoXE5ybt6pOgqnw"
@@ -11186,7 +11208,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 248278,
       "name": "i see you",
       "url": "https://open.spotify.com/track/0fcJjhoncSxNjE1iv7ElmL"
@@ -11694,7 +11716,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 210909,
       "name": "I've Been Missing You",
       "url": "https://open.spotify.com/track/6vdWx67Wz7DdXQjjBGanjH"
@@ -14696,7 +14718,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 233467,
       "name": "Magic",
       "url": "https://open.spotify.com/track/5Z4DxvV4ifNFpJIyvuZBcx"
@@ -14732,7 +14754,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 237272,
       "name": "Magic",
       "url": "https://open.spotify.com/track/6Pij7wPMJHDgpaq4ooqoit"
@@ -17382,7 +17404,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 276480,
       "name": "On the Corner Where You Live",
       "url": "https://open.spotify.com/track/4BEI01RMjIuA2geFPZIVHS"
@@ -17950,7 +17972,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-03",
+      "date_removed": null,
       "duration_ms": 206600,
       "name": "Pale Ash",
       "url": "https://open.spotify.com/track/5udeA3sg1rTBxSBMmc9o5y"
@@ -18504,7 +18526,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 234545,
       "name": "Present Tense",
       "url": "https://open.spotify.com/track/2ZzQw84swNCgc4IEHS7leB"
@@ -21590,7 +21612,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 202129,
       "name": "Summer Eyes",
       "url": "https://open.spotify.com/track/1l9GWlY0FPr5Z7xRNoyNcV"
@@ -23132,7 +23154,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 229685,
       "name": "Things I Can't Explain",
       "url": "https://open.spotify.com/track/278dQxBy7NH5eA0WaNw6Gq"
@@ -23240,7 +23262,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 236330,
       "name": "Thoughts in Progress",
       "url": "https://open.spotify.com/track/7DJwq1g845tYWMuZ0hzfiK"
@@ -24014,7 +24036,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 313400,
       "name": "Under Your Spell",
       "url": "https://open.spotify.com/track/7D5V8XA1vFvk5ZVUbE1R6M"
@@ -25620,7 +25642,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 222750,
       "name": "With You",
       "url": "https://open.spotify.com/track/1eZfQxzuj9HzQ0SrPJAhOy"

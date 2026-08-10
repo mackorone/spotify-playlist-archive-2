@@ -4810,7 +4810,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 184000,
       "name": "Brogatan",
       "url": "https://open.spotify.com/track/2xDsMtle47sbnSTRM94XxO"
@@ -11503,6 +11503,24 @@
     },
     {
       "album": {
+        "name": "Fast Lane",
+        "url": "https://open.spotify.com/album/2vMgit0PMLiycYbYeu1Zas"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174347,
+      "name": "Fast Lane",
+      "url": "https://open.spotify.com/track/0KraHSiibM4cJR5pgfbI97"
+    },
+    {
+      "album": {
         "name": "Fast med dig",
         "url": "https://open.spotify.com/album/1ENEtJUy1nmsK4isB1YXl6"
       },
@@ -16110,7 +16128,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 170735,
       "name": "Hillbillyn i mig",
       "url": "https://open.spotify.com/track/7Ie1Fr2n3bBLp2Q17rbf9a"
@@ -30404,7 +30422,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 146822,
       "name": "Ring mig",
       "url": "https://open.spotify.com/track/04OVPwGPTvOe5A88zHZsub"

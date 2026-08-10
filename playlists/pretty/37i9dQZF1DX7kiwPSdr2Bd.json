@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Fabiana Sinfr\u00f4nio",
-  "num_followers": 369983,
+  "num_followers": 369990,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2026-08-07 14:18:25",
       "album": {
+        "name": "Amor Infinito / A Mensagem da Cruz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2v1jvE1DqhO2JfGbeNJ2qI"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 355322,
+      "name": "Amor Infinito / A Mensagem da Cruz - Ao Vivo",
+      "url": "https://open.spotify.com/track/3u1g3zx0ckdvqBwRCj7Yhb"
+    },
+    {
+      "added_at": "2026-08-07 14:18:25",
+      "album": {
         "name": "Jesus te Amamos (Ao Vivo)",
         "url": "https://open.spotify.com/album/2LMOlA7SNUShLKkgJBrKdL"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 415435,
       "name": "Jesus te Amamos - Ao Vivo",
       "url": "https://open.spotify.com/track/1lKhV7gDhuyiztoAQ6LDKv"
-    },
-    {
-      "added_at": "2026-08-07 14:18:25",
-      "album": {
-        "name": "Amor Infinito / A Mensagem da Cruz (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2v1jvE1DqhO2JfGbeNJ2qI"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 355322,
-      "name": "Amor Infinito / A Mensagem da Cruz - Ao Vivo",
-      "url": "https://open.spotify.com/track/3u1g3zx0ckdvqBwRCj7Yhb"
     },
     {
       "added_at": "2026-08-07 14:18:25",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-08-07 14:18:25",
       "album": {
-        "name": "Santo Pra Sempre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3JqjzQ21A4XJrwMNc0bG1d"
-      },
-      "artists": [
-        {
-          "name": "Marine Friesen",
-          "url": "https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Santo Pra Sempre (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0IL4DmLKRKMt3QzRl1HebC"
-    },
-    {
-      "added_at": "2026-08-07 14:18:25",
-      "album": {
         "name": "Imperfeito (Ao Vivo)",
         "url": "https://open.spotify.com/album/2JZNenqOJINmbMbw8msRY9"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 331786,
       "name": "Imperfeito - Ao Vivo",
       "url": "https://open.spotify.com/track/3sqLvSiwdtqXoYtQg2gXTB"
+    },
+    {
+      "added_at": "2026-08-07 14:18:25",
+      "album": {
+        "name": "Santo Pra Sempre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3JqjzQ21A4XJrwMNc0bG1d"
+      },
+      "artists": [
+        {
+          "name": "Marine Friesen",
+          "url": "https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Santo Pra Sempre (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0IL4DmLKRKMt3QzRl1HebC"
     },
     {
       "added_at": "2026-08-07 14:18:25",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-08-07 14:18:25",
       "album": {
-        "name": "Santo pra Sempre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3X0PjwhyTDFdcEScpjEMnr"
-      },
-      "artists": [
-        {
-          "name": "Ana N\u00f3brega",
-          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
-        }
-      ],
-      "duration_ms": 327756,
-      "name": "Santo para Sempre - Ao Vivo",
-      "url": "https://open.spotify.com/track/48EVizWqKCp2WRa1L5OGDg"
-    },
-    {
-      "added_at": "2026-08-07 14:18:25",
-      "album": {
         "name": "Dependente (Ao Vivo)",
         "url": "https://open.spotify.com/album/724QZLpvmUYnZ8FwbgAkZ9"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 354173,
       "name": "Dependente",
       "url": "https://open.spotify.com/track/6jTbdr0MpxuP6nyJOXcMqW"
+    },
+    {
+      "added_at": "2026-08-07 14:18:25",
+      "album": {
+        "name": "Santo pra Sempre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3X0PjwhyTDFdcEScpjEMnr"
+      },
+      "artists": [
+        {
+          "name": "Ana N\u00f3brega",
+          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
+        }
+      ],
+      "duration_ms": 327756,
+      "name": "Santo para Sempre - Ao Vivo",
+      "url": "https://open.spotify.com/track/48EVizWqKCp2WRa1L5OGDg"
     },
     {
       "added_at": "2026-08-07 14:18:25",
@@ -699,6 +699,26 @@
     {
       "added_at": "2026-08-07 14:18:25",
       "album": {
+        "name": "Chegou Um Tempo Novo",
+        "url": "https://open.spotify.com/album/1pJOzwn6LVrNtB5BvDQBYf"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Sinfr\u00f4nio",
+          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 286293,
+      "name": "Chegou Um Tempo Novo",
+      "url": "https://open.spotify.com/track/2fwtvB5PDJ88Cnm3BuabjF"
+    },
+    {
+      "added_at": "2026-08-07 14:18:25",
+      "album": {
         "name": "Deus Preparou Tudo (Ao Vivo)",
         "url": "https://open.spotify.com/album/66xy1byfUOXw74XkABTNqn"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 264220,
       "name": "Me Atraiu (Reimagined)",
       "url": "https://open.spotify.com/track/3gEU9E8o5EdwwqNGBqTPQ6"
-    },
-    {
-      "added_at": "2026-08-07 14:18:25",
-      "album": {
-        "name": "Chegou Um Tempo Novo",
-        "url": "https://open.spotify.com/album/1pJOzwn6LVrNtB5BvDQBYf"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Sinfr\u00f4nio",
-          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
-        },
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 286293,
-      "name": "Chegou Um Tempo Novo",
-      "url": "https://open.spotify.com/track/2fwtvB5PDJ88Cnm3BuabjF"
     },
     {
       "added_at": "2026-08-07 14:18:25",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-08-07 14:18:25",
       "album": {
+        "name": "Tudo Que Eu Mais Quero (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6W8Ch6uLZ9ockPgmPJpBlu"
+      },
+      "artists": [
+        {
+          "name": "Rachel Novaes",
+          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
+        }
+      ],
+      "duration_ms": 255207,
+      "name": "Tudo Que Eu Mais Quero - Ao Vivo",
+      "url": "https://open.spotify.com/track/5VB7JfCSoz3RMa8GEEvHci"
+    },
+    {
+      "added_at": "2026-08-07 14:18:25",
+      "album": {
         "name": "Jesus Cristo Basta (Jesucristo Basta) [Ao Vivo]",
         "url": "https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 287120,
       "name": "Jesus Cristo Basta (Jesucristo Basta) - Ao Vivo",
       "url": "https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH"
-    },
-    {
-      "added_at": "2026-08-07 14:18:25",
-      "album": {
-        "name": "Tudo Que Eu Mais Quero (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6W8Ch6uLZ9ockPgmPJpBlu"
-      },
-      "artists": [
-        {
-          "name": "Rachel Novaes",
-          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
-        }
-      ],
-      "duration_ms": 255207,
-      "name": "Tudo Que Eu Mais Quero - Ao Vivo",
-      "url": "https://open.spotify.com/track/5VB7JfCSoz3RMa8GEEvHci"
     },
     {
       "added_at": "2026-08-07 14:18:25",

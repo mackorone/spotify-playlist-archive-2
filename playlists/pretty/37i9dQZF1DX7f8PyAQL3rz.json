@@ -1,6 +1,6 @@
 {
   "description": "amor \u00e9 bom mas ningu\u00e9m quer",
-  "num_followers": 1437074,
+  "num_followers": 1436964,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,30 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
+        "name": "Obra de Arte",
+        "url": "https://open.spotify.com/album/5d5KT32kvHBXdOFJyqO7jQ"
+      },
+      "artists": [
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "DJ DAVI DOGDOG",
+          "url": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9"
+        }
+      ],
+      "duration_ms": 162015,
+      "name": "Obra de Arte",
+      "url": "https://open.spotify.com/track/7wKpKUJX0djYz9JZSybbvG"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
         "name": "PAL\u00c1CIO DE LONA",
         "url": "https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3"
       },
@@ -171,30 +195,6 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
-        "name": "Obra de Arte",
-        "url": "https://open.spotify.com/album/5d5KT32kvHBXdOFJyqO7jQ"
-      },
-      "artists": [
-        {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "DJ DAVI DOGDOG",
-          "url": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9"
-        }
-      ],
-      "duration_ms": 162015,
-      "name": "Obra de Arte",
-      "url": "https://open.spotify.com/track/7wKpKUJX0djYz9JZSybbvG"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
         "name": "Rap da Lealdade",
         "url": "https://open.spotify.com/album/1bOPoayIll75eZMxLV6lmp"
       },
@@ -231,46 +231,6 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
-        "name": "MIXTAPE DE VER\u00c3O: GOSTOSAS OUVEM TZ",
-        "url": "https://open.spotify.com/album/2xw0YXpsLD1tXSayir7arv"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        }
-      ],
-      "duration_ms": 217941,
-      "name": "VAI DESCE BABY",
-      "url": "https://open.spotify.com/track/44U1er1LxgRNu42fbbz78T"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
-        "name": "Foca em mim - Spotify Singles",
-        "url": "https://open.spotify.com/album/4Use2gMU5KB1uVS2Ejl6XN"
-      },
-      "artists": [
-        {
-          "name": "Ci\u00e7a",
-          "url": "https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4"
-        },
-        {
-          "name": "Bruce Slim Beats",
-          "url": "https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD"
-        }
-      ],
-      "duration_ms": 131615,
-      "name": "Foca em mim - Spotify Singles",
-      "url": "https://open.spotify.com/track/3H6MZFtzwidLB7bKKaDZe7"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
         "name": "Presentinho",
         "url": "https://open.spotify.com/album/24nlfVasQri1ennoqY0SRb"
       },
@@ -303,6 +263,46 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
+        "name": "Foca em mim - Spotify Singles",
+        "url": "https://open.spotify.com/album/4Use2gMU5KB1uVS2Ejl6XN"
+      },
+      "artists": [
+        {
+          "name": "Ci\u00e7a",
+          "url": "https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4"
+        },
+        {
+          "name": "Bruce Slim Beats",
+          "url": "https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD"
+        }
+      ],
+      "duration_ms": 131615,
+      "name": "Foca em mim - Spotify Singles",
+      "url": "https://open.spotify.com/track/3H6MZFtzwidLB7bKKaDZe7"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
+        "name": "MIXTAPE DE VER\u00c3O: GOSTOSAS OUVEM TZ",
+        "url": "https://open.spotify.com/album/2xw0YXpsLD1tXSayir7arv"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        }
+      ],
+      "duration_ms": 217941,
+      "name": "VAI DESCE BABY",
+      "url": "https://open.spotify.com/track/44U1er1LxgRNu42fbbz78T"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
         "name": "COLAPSO GLOBAL",
         "url": "https://open.spotify.com/album/214OaJv3XycWX4oqydN2Ic"
       },
@@ -323,58 +323,6 @@
       "duration_ms": 199685,
       "name": "FACECARD",
       "url": "https://open.spotify.com/track/0qotc7S3TQU4uLtnfTrM3w"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
-        "name": "Rugal & Bomfino",
-        "url": "https://open.spotify.com/album/1HRUTHTACSZ3IH7uTvc0Lf"
-      },
-      "artists": [
-        {
-          "name": "MC Vinny",
-          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
-        },
-        {
-          "name": "Bomfino",
-          "url": "https://open.spotify.com/artist/4husm50pr6Alqw34LaHzGl"
-        },
-        {
-          "name": "MC Leozinho ZS",
-          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
-        },
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        }
-      ],
-      "duration_ms": 204562,
-      "name": "Pique B.I.G",
-      "url": "https://open.spotify.com/track/6qIpf3Z88KXtczMiQc7zfY"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
-        "name": "BOMBOCLATT (REMIX)",
-        "url": "https://open.spotify.com/album/4A24PsSv0IDrilceG6Mfou"
-      },
-      "artists": [
-        {
-          "name": "Ruas Mc",
-          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
-        },
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "Andr\u00e9 Miquelotti",
-          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "BOMBOCLATT (REMIX)",
-      "url": "https://open.spotify.com/track/1B2ce5cV00pzS17Ynvc0RA"
     },
     {
       "added_at": "2026-08-07 03:01:17",
@@ -447,6 +395,58 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
+        "name": "Rugal & Bomfino",
+        "url": "https://open.spotify.com/album/1HRUTHTACSZ3IH7uTvc0Lf"
+      },
+      "artists": [
+        {
+          "name": "MC Vinny",
+          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
+        },
+        {
+          "name": "Bomfino",
+          "url": "https://open.spotify.com/artist/4husm50pr6Alqw34LaHzGl"
+        },
+        {
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        }
+      ],
+      "duration_ms": 204562,
+      "name": "Pique B.I.G",
+      "url": "https://open.spotify.com/track/6qIpf3Z88KXtczMiQc7zfY"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
+        "name": "BOMBOCLATT (REMIX)",
+        "url": "https://open.spotify.com/album/4A24PsSv0IDrilceG6Mfou"
+      },
+      "artists": [
+        {
+          "name": "Ruas Mc",
+          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Andr\u00e9 Miquelotti",
+          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "BOMBOCLATT (REMIX)",
+      "url": "https://open.spotify.com/track/1B2ce5cV00pzS17Ynvc0RA"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
         "name": "Particular",
         "url": "https://open.spotify.com/album/1xXlj4lES5cohacVSro9v4"
       },
@@ -499,34 +499,6 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
-        "name": "MANEIRINHO VIBES 2",
-        "url": "https://open.spotify.com/album/6xu0pmocFeuNlsbihrFPpv"
-      },
-      "artists": [
-        {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        },
-        {
-          "name": "Mc J Mito",
-          "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
-        },
-        {
-          "name": "Regufe",
-          "url": "https://open.spotify.com/artist/6dzrhhawUizL8jtwi1ELQ5"
-        },
-        {
-          "name": "Pariz Beat",
-          "url": "https://open.spotify.com/artist/5kpVs7WlaoiHEZW0H7Axyq"
-        }
-      ],
-      "duration_ms": 118153,
-      "name": "ENGAJAMENTO",
-      "url": "https://open.spotify.com/track/6EsxCrPmQ4VGqoFVOZC2hG"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
         "name": "Engaiolada (feat. Deekapz, Mc Morena & Yuri Redicopa)",
         "url": "https://open.spotify.com/album/4Ip6Qu6FKpjN5ExbgXumTN"
       },
@@ -551,6 +523,34 @@
       "duration_ms": 199351,
       "name": "Engaiolada (feat. Deekapz, Mc Morena & Yuri Redicopa)",
       "url": "https://open.spotify.com/track/0ydo9m41U6o1OpxEpRev0Y"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
+        "name": "MANEIRINHO VIBES 2",
+        "url": "https://open.spotify.com/album/6xu0pmocFeuNlsbihrFPpv"
+      },
+      "artists": [
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "Mc J Mito",
+          "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
+        },
+        {
+          "name": "Regufe",
+          "url": "https://open.spotify.com/artist/6dzrhhawUizL8jtwi1ELQ5"
+        },
+        {
+          "name": "Pariz Beat",
+          "url": "https://open.spotify.com/artist/5kpVs7WlaoiHEZW0H7Axyq"
+        }
+      ],
+      "duration_ms": 118153,
+      "name": "ENGAJAMENTO",
+      "url": "https://open.spotify.com/track/6EsxCrPmQ4VGqoFVOZC2hG"
     },
     {
       "added_at": "2026-08-07 03:01:17",
@@ -727,6 +727,26 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
+        "name": "C\u00ea Nem Vai",
+        "url": "https://open.spotify.com/album/40RzgIh7TOIvdsVNJpki0v"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Delta7",
+          "url": "https://open.spotify.com/artist/4kZTC2MdZt3AgKWBvS17C3"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "C\u00ea Nem Vai Freestyle",
+      "url": "https://open.spotify.com/track/2IaCvikWA1HlIsBHbWxHjW"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
         "name": "BASE: Climinha",
         "url": "https://open.spotify.com/album/2d09hK3Q5aWnNd56bTjahR"
       },
@@ -791,30 +811,6 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
-        "name": "COMO Q OFUSCA O BRILHO? (STUDIO#9)",
-        "url": "https://open.spotify.com/album/4TVYzJGGuEIEGFfN9sfoA6"
-      },
-      "artists": [
-        {
-          "name": "Ruas Mc",
-          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
-        },
-        {
-          "name": "Honaiser",
-          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
-        },
-        {
-          "name": "Paulo DK",
-          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
-        }
-      ],
-      "duration_ms": 136170,
-      "name": "COMO Q OFUSCA O BRILHO?",
-      "url": "https://open.spotify.com/track/3rjEHukg1FWFoTVj9PT5pf"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
         "name": "PLATA O PLOMO",
         "url": "https://open.spotify.com/album/04YE4SzQn55927shW5TDjA"
       },
@@ -847,6 +843,30 @@
       "duration_ms": 158896,
       "name": "CA\u00c7A DO TESOURO",
       "url": "https://open.spotify.com/track/39ndb5aaoDJh5opNildstN"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
+        "name": "COMO Q OFUSCA O BRILHO? (STUDIO#9)",
+        "url": "https://open.spotify.com/album/4TVYzJGGuEIEGFfN9sfoA6"
+      },
+      "artists": [
+        {
+          "name": "Ruas Mc",
+          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        },
+        {
+          "name": "Paulo DK",
+          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
+        }
+      ],
+      "duration_ms": 136170,
+      "name": "COMO Q OFUSCA O BRILHO?",
+      "url": "https://open.spotify.com/track/3rjEHukg1FWFoTVj9PT5pf"
     },
     {
       "added_at": "2026-08-07 03:01:17",
@@ -943,30 +963,6 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
-        "name": "Sem Amor",
-        "url": "https://open.spotify.com/album/5S1omAhCLsW0LEDZJBHBUC"
-      },
-      "artists": [
-        {
-          "name": "SUELMK",
-          "url": "https://open.spotify.com/artist/1pYqTSk5Nn2IDucSEN24Ox"
-        },
-        {
-          "name": "Nilo",
-          "url": "https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco"
-        },
-        {
-          "name": "Raul GR",
-          "url": "https://open.spotify.com/artist/5myuJmuzkHTOKTrRdjOX6g"
-        }
-      ],
-      "duration_ms": 156086,
-      "name": "Sem Amor",
-      "url": "https://open.spotify.com/track/23rYWQa36hf2vqkMeeB0oA"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
         "name": "DOISMILEVINTEHOJE",
         "url": "https://open.spotify.com/album/2MmHJyDkIZTxHq8rWnS5Nw"
       },
@@ -999,22 +995,6 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
-        "name": "Que toda dor vire dinheiro",
-        "url": "https://open.spotify.com/album/6ebVCYkVqBKawOWNp7JvSF"
-      },
-      "artists": [
-        {
-          "name": "SNIF",
-          "url": "https://open.spotify.com/artist/63ZrK9TMmqROQh6geNQXsw"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Que toda dor vire dinheiro",
-      "url": "https://open.spotify.com/track/3Zu5Qj8Vm1wEaaChmnsKOQ"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
         "name": "Milimetricamente",
         "url": "https://open.spotify.com/album/2bLC72Tw2KnX4TtZzjGdjP"
       },
@@ -1035,22 +1015,42 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
-        "name": "Muito Rom\u00e2ntico",
-        "url": "https://open.spotify.com/album/12huOOShCMRppercsnKCdS"
+        "name": "Sem Amor",
+        "url": "https://open.spotify.com/album/5S1omAhCLsW0LEDZJBHBUC"
       },
       "artists": [
         {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+          "name": "SUELMK",
+          "url": "https://open.spotify.com/artist/1pYqTSk5Nn2IDucSEN24Ox"
         },
         {
-          "name": "Meio Feel",
-          "url": "https://open.spotify.com/artist/1Fm4cFyLxFxY3nIIMCmxO3"
+          "name": "Nilo",
+          "url": "https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco"
+        },
+        {
+          "name": "Raul GR",
+          "url": "https://open.spotify.com/artist/5myuJmuzkHTOKTrRdjOX6g"
         }
       ],
-      "duration_ms": 148965,
-      "name": "Perigos&Macetes",
-      "url": "https://open.spotify.com/track/35WTDGdqXQjwQBhQgtBAbh"
+      "duration_ms": 156086,
+      "name": "Sem Amor",
+      "url": "https://open.spotify.com/track/23rYWQa36hf2vqkMeeB0oA"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
+        "name": "Que toda dor vire dinheiro",
+        "url": "https://open.spotify.com/album/6ebVCYkVqBKawOWNp7JvSF"
+      },
+      "artists": [
+        {
+          "name": "SNIF",
+          "url": "https://open.spotify.com/artist/63ZrK9TMmqROQh6geNQXsw"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Que toda dor vire dinheiro",
+      "url": "https://open.spotify.com/track/3Zu5Qj8Vm1wEaaChmnsKOQ"
     },
     {
       "added_at": "2026-08-07 03:01:17",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
+        "name": "Muito Rom\u00e2ntico",
+        "url": "https://open.spotify.com/album/12huOOShCMRppercsnKCdS"
+      },
+      "artists": [
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "Meio Feel",
+          "url": "https://open.spotify.com/artist/1Fm4cFyLxFxY3nIIMCmxO3"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Perigos&Macetes",
+      "url": "https://open.spotify.com/track/35WTDGdqXQjwQBhQgtBAbh"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
         "name": "Felina",
         "url": "https://open.spotify.com/album/6uM0C9M3hxJUsm1DuRc3Gj"
       },
@@ -1099,30 +1119,6 @@
       "duration_ms": 135272,
       "name": "Felina",
       "url": "https://open.spotify.com/track/0LrgfmbODV3jFMZujIMxDF"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
-        "name": "Sol Na Lata",
-        "url": "https://open.spotify.com/album/4wklLp5vNXVkdJGTKRK8IZ"
-      },
-      "artists": [
-        {
-          "name": "Tevito",
-          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
-        },
-        {
-          "name": "Dj TC",
-          "url": "https://open.spotify.com/artist/5b5iPEtmmilqQQJ673Va4s"
-        },
-        {
-          "name": "DJ PEPI",
-          "url": "https://open.spotify.com/artist/1IMM2r6o40xc7kjaHCEttC"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Sol Na Lata",
-      "url": "https://open.spotify.com/track/7egSBZjH8xrLtJcfJbMpjx"
     },
     {
       "added_at": "2026-08-07 03:01:17",
@@ -1155,6 +1151,30 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
+        "name": "Sol Na Lata",
+        "url": "https://open.spotify.com/album/4wklLp5vNXVkdJGTKRK8IZ"
+      },
+      "artists": [
+        {
+          "name": "Tevito",
+          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
+        },
+        {
+          "name": "Dj TC",
+          "url": "https://open.spotify.com/artist/5b5iPEtmmilqQQJ673Va4s"
+        },
+        {
+          "name": "DJ PEPI",
+          "url": "https://open.spotify.com/artist/1IMM2r6o40xc7kjaHCEttC"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Sol Na Lata",
+      "url": "https://open.spotify.com/track/7egSBZjH8xrLtJcfJbMpjx"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
         "name": "Open Mic",
         "url": "https://open.spotify.com/album/4iSACzKKk0q7A0XDtwwS6u"
       },
@@ -1171,6 +1191,38 @@
       "duration_ms": 222692,
       "name": "Voc\u00ea Me Vira A Cabe\u00e7a",
       "url": "https://open.spotify.com/track/1koaKYLJGl8f4GfZXPkIQi"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
+        "name": "Dentro da Sua",
+        "url": "https://open.spotify.com/album/6A7c82aLDbJiJVRbObW6wp"
+      },
+      "artists": [
+        {
+          "name": "Tar\u00e7a",
+          "url": "https://open.spotify.com/artist/7xXwZ6higu8YI4BWzBhxE9"
+        },
+        {
+          "name": "Majis",
+          "url": "https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX"
+        },
+        {
+          "name": "Rob",
+          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
+        },
+        {
+          "name": "Z\u0112EM",
+          "url": "https://open.spotify.com/artist/2ej2zxwfjuUV4okQRuhpDM"
+        },
+        {
+          "name": "Matheus Aloha",
+          "url": "https://open.spotify.com/artist/5BgmkOYey7lEd765RZGdpG"
+        }
+      ],
+      "duration_ms": 136320,
+      "name": "Dentro da Sua",
+      "url": "https://open.spotify.com/track/5XnBTv0a5JjTG57mhZDVpz"
     },
     {
       "added_at": "2026-08-07 03:01:17",
@@ -1211,38 +1263,6 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
-        "name": "Dentro da Sua",
-        "url": "https://open.spotify.com/album/6A7c82aLDbJiJVRbObW6wp"
-      },
-      "artists": [
-        {
-          "name": "Tar\u00e7a",
-          "url": "https://open.spotify.com/artist/7xXwZ6higu8YI4BWzBhxE9"
-        },
-        {
-          "name": "Majis",
-          "url": "https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX"
-        },
-        {
-          "name": "Rob",
-          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
-        },
-        {
-          "name": "Z\u0112EM",
-          "url": "https://open.spotify.com/artist/2ej2zxwfjuUV4okQRuhpDM"
-        },
-        {
-          "name": "Matheus Aloha",
-          "url": "https://open.spotify.com/artist/5BgmkOYey7lEd765RZGdpG"
-        }
-      ],
-      "duration_ms": 136320,
-      "name": "Dentro da Sua",
-      "url": "https://open.spotify.com/track/5XnBTv0a5JjTG57mhZDVpz"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
         "name": "Um Pouco Pensativo",
         "url": "https://open.spotify.com/album/0VNFEm0ffYgY1w6jH0ldBQ"
       },
@@ -1263,6 +1283,34 @@
       "duration_ms": 139033,
       "name": "Um Pouco Pensativo",
       "url": "https://open.spotify.com/track/23TjYw4HIOqBbSsdtsNE9J"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
+        "name": "Fiquei Bonito...",
+        "url": "https://open.spotify.com/album/3E5mXFZLXppSoqT6zKWl6k"
+      },
+      "artists": [
+        {
+          "name": "LUKA",
+          "url": "https://open.spotify.com/artist/1qYaM9h5VHYbHxIlr4UIa0"
+        },
+        {
+          "name": "Mago de Tarso",
+          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
+        },
+        {
+          "name": "Penedo",
+          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
+        },
+        {
+          "name": "DJ Dael",
+          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
+        }
+      ],
+      "duration_ms": 134829,
+      "name": "Fiquei Bonito...",
+      "url": "https://open.spotify.com/track/3xmAIiw9f84lX8c1Qy2dRI"
     },
     {
       "added_at": "2026-08-07 03:01:17",
@@ -1435,6 +1483,38 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
+        "name": "BASE: Quem t\u00e1 s\u00e3o ELAS",
+        "url": "https://open.spotify.com/album/1euGq1BCACZBwctS6t10ly"
+      },
+      "artists": [
+        {
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        },
+        {
+          "name": "Janvi",
+          "url": "https://open.spotify.com/artist/2tPIG7AhyjtuKf58E5SFaJ"
+        },
+        {
+          "name": "Ci\u00e7a",
+          "url": "https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4"
+        }
+      ],
+      "duration_ms": 415238,
+      "name": "Eu tenho uma FACA o nome dela \u00e9 RIMA",
+      "url": "https://open.spotify.com/track/46xLAN8xDeeJarAoyUldGu"
+    },
+    {
+      "added_at": "2026-08-07 03:01:17",
+      "album": {
         "name": "MANDAQUI MANDELA",
         "url": "https://open.spotify.com/album/5RnV1xTomy2Pd5AlfiBpWy"
       },
@@ -1495,26 +1575,6 @@
     {
       "added_at": "2026-08-07 03:01:17",
       "album": {
-        "name": "C\u00ea Nem Vai",
-        "url": "https://open.spotify.com/album/40RzgIh7TOIvdsVNJpki0v"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "Delta7",
-          "url": "https://open.spotify.com/artist/4kZTC2MdZt3AgKWBvS17C3"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "C\u00ea Nem Vai Freestyle",
-      "url": "https://open.spotify.com/track/2IaCvikWA1HlIsBHbWxHjW"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
         "name": "Vida de Chefe",
         "url": "https://open.spotify.com/album/5Ae8CNqLVI1zHI5B8ZkKpw"
       },
@@ -1535,34 +1595,6 @@
       "duration_ms": 208000,
       "name": "Vida de Chefe",
       "url": "https://open.spotify.com/track/3Dam5n8I0yCplTnCu9VmQP"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
-        "name": "Fiquei Bonito...",
-        "url": "https://open.spotify.com/album/3E5mXFZLXppSoqT6zKWl6k"
-      },
-      "artists": [
-        {
-          "name": "LUKA",
-          "url": "https://open.spotify.com/artist/1qYaM9h5VHYbHxIlr4UIa0"
-        },
-        {
-          "name": "Mago de Tarso",
-          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
-        },
-        {
-          "name": "Penedo",
-          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
-        },
-        {
-          "name": "DJ Dael",
-          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
-        }
-      ],
-      "duration_ms": 134829,
-      "name": "Fiquei Bonito...",
-      "url": "https://open.spotify.com/track/3xmAIiw9f84lX8c1Qy2dRI"
     },
     {
       "added_at": "2026-08-07 03:01:17",
@@ -1615,38 +1647,6 @@
       "duration_ms": 214942,
       "name": "SEM PALA",
       "url": "https://open.spotify.com/track/4Lm84NyoIXijOHdNoTU5Ma"
-    },
-    {
-      "added_at": "2026-08-07 03:01:17",
-      "album": {
-        "name": "BASE: Quem t\u00e1 s\u00e3o ELAS",
-        "url": "https://open.spotify.com/album/1euGq1BCACZBwctS6t10ly"
-      },
-      "artists": [
-        {
-          "name": "Podpah Records",
-          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        },
-        {
-          "name": "Maru2D",
-          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
-        },
-        {
-          "name": "Janvi",
-          "url": "https://open.spotify.com/artist/2tPIG7AhyjtuKf58E5SFaJ"
-        },
-        {
-          "name": "Ci\u00e7a",
-          "url": "https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4"
-        }
-      ],
-      "duration_ms": 415238,
-      "name": "Eu tenho uma FACA o nome dela \u00e9 RIMA",
-      "url": "https://open.spotify.com/track/46xLAN8xDeeJarAoyUldGu"
     }
   ],
   "unique_name": "creme",

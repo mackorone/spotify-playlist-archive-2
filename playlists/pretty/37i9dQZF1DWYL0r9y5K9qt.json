@@ -1,6 +1,6 @@
 {
   "description": "time to strike a couple of poses. cover: i-dle",
-  "num_followers": 626126,
+  "num_followers": 626075,
   "original_name": "poses",
   "owner": {
     "name": "Spotify",
@@ -611,8 +611,8 @@
     {
       "added_at": "2026-07-16 15:00:40",
       "album": {
-        "name": "NON STOP",
-        "url": "https://open.spotify.com/album/204nfufsRpeYrfkr0L0Z8B"
+        "name": "BAD LOVE",
+        "url": "https://open.spotify.com/album/6RQjez6K5zXMCxw70oDGwB"
       },
       "artists": [
         {
@@ -620,25 +620,9 @@
           "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
         }
       ],
-      "duration_ms": 173633,
-      "name": "NON STOP",
-      "url": "https://open.spotify.com/track/6U2jlLB3zyqpUiHwCfxcyA"
-    },
-    {
-      "added_at": "2026-07-16 15:00:40",
-      "album": {
-        "name": "THIS IS FOR",
-        "url": "https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 131097,
-      "name": "THIS IS FOR",
-      "url": "https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa"
+      "duration_ms": 185437,
+      "name": "BAD LOVE",
+      "url": "https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN"
     },
     {
       "added_at": "2026-07-16 15:00:40",
@@ -655,6 +639,22 @@
       "duration_ms": 169000,
       "name": "I Choose You",
       "url": "https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub"
+    },
+    {
+      "added_at": "2026-07-16 15:00:40",
+      "album": {
+        "name": "THIS IS FOR",
+        "url": "https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 131097,
+      "name": "THIS IS FOR",
+      "url": "https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa"
     },
     {
       "added_at": "2026-07-16 15:00:40",
@@ -691,8 +691,8 @@
     {
       "added_at": "2026-07-16 15:00:40",
       "album": {
-        "name": "BAD LOVE",
-        "url": "https://open.spotify.com/album/6RQjez6K5zXMCxw70oDGwB"
+        "name": "NON STOP",
+        "url": "https://open.spotify.com/album/204nfufsRpeYrfkr0L0Z8B"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
         }
       ],
-      "duration_ms": 185437,
-      "name": "BAD LOVE",
-      "url": "https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN"
+      "duration_ms": 173633,
+      "name": "NON STOP",
+      "url": "https://open.spotify.com/track/6U2jlLB3zyqpUiHwCfxcyA"
     },
     {
       "added_at": "2026-07-16 15:00:40",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-07-16 15:00:40",
       "album": {
-        "name": "Haru Ni Mau",
-        "url": "https://open.spotify.com/album/7f9bIpflA9HDFbcdhfPHSn"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 238180,
-      "name": "Haru Ni Mau",
-      "url": "https://open.spotify.com/track/5jJQMbBIXk43XQiIwTtV8q"
-    },
-    {
-      "added_at": "2026-07-16 15:00:40",
-      "album": {
         "name": "HOT SAUCE",
         "url": "https://open.spotify.com/album/3nHSqRN4fE3Jb1DrVpm8V2"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 147807,
       "name": "HOT SAUCE",
       "url": "https://open.spotify.com/track/0zXGUUy3TtLH9Oo0FRgbB8"
+    },
+    {
+      "added_at": "2026-07-16 15:00:40",
+      "album": {
+        "name": "Haru Ni Mau",
+        "url": "https://open.spotify.com/album/7f9bIpflA9HDFbcdhfPHSn"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "duration_ms": 238180,
+      "name": "Haru Ni Mau",
+      "url": "https://open.spotify.com/track/5jJQMbBIXk43XQiIwTtV8q"
     },
     {
       "added_at": "2026-07-16 15:00:40",

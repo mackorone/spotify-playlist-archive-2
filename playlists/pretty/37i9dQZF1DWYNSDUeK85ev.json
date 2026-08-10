@@ -1,6 +1,6 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 696566,
+  "num_followers": 696561,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAABZPWrcIHFSqxkS5hr5L9kES2M2P",
   "tracks": [
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 188080,
+      "name": "Se Prepar\u00f3",
+      "url": "https://open.spotify.com/track/1m69ELEgE6k5ZWsap40ozt"
+    },
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 217142,
       "name": "El Efecto",
       "url": "https://open.spotify.com/track/4SJHHpKhcuXwDsCsPqshXj"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 188080,
-      "name": "Se Prepar\u00f3",
-      "url": "https://open.spotify.com/track/1m69ELEgE6k5ZWsap40ozt"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "ALEJO ISAKK | DJ TAO Turreo Sessions #14",
-        "url": "https://open.spotify.com/album/0keCqTJB00DAwHML5qknRH"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "Alejo Isakk",
-          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
-        }
-      ],
-      "duration_ms": 160171,
-      "name": "ALEJO ISAKK | DJ TAO Turreo Sessions #14",
-      "url": "https://open.spotify.com/track/5OZ4ske7GzEE6fOy9qjWdh"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
         "name": "LATI2",
         "url": "https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am"
       },
@@ -1247,6 +1227,26 @@
       "duration_ms": 204146,
       "name": "LATI2",
       "url": "https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
+        "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
+        "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 140109,
+      "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
+      "url": "https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
-        "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 140109,
-      "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
-      "url": "https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
         "name": "No Me Digas Adios",
         "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 152666,
       "name": "Como Te Lo Digo",
       "url": "https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
+        "name": "ALEJO ISAKK | DJ TAO Turreo Sessions #14",
+        "url": "https://open.spotify.com/album/0keCqTJB00DAwHML5qknRH"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Alejo Isakk",
+          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
+        }
+      ],
+      "duration_ms": 160171,
+      "name": "ALEJO ISAKK | DJ TAO Turreo Sessions #14",
+      "url": "https://open.spotify.com/track/5OZ4ske7GzEE6fOy9qjWdh"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -1407,6 +1407,30 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
+        "name": "Vikingos",
+        "url": "https://open.spotify.com/album/50fDCiIhdGoiJLSYXdLbt9"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "duration_ms": 166963,
+      "name": "Vikingos",
+      "url": "https://open.spotify.com/track/6t82eltBDEw70ePnk5GGe4"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
         "name": "Remake",
         "url": "https://open.spotify.com/album/1lmLSU1UmoOSl4U7z5lR0U"
       },
@@ -1439,30 +1463,6 @@
       "duration_ms": 332000,
       "name": "Remake",
       "url": "https://open.spotify.com/track/2B8r5MFRP3EvQDWkm5LxsU"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
-        "name": "Vikingos",
-        "url": "https://open.spotify.com/album/50fDCiIhdGoiJLSYXdLbt9"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        }
-      ],
-      "duration_ms": 166963,
-      "name": "Vikingos",
-      "url": "https://open.spotify.com/track/6t82eltBDEw70ePnk5GGe4"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -1587,6 +1587,26 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
+        "name": "Que Nadie Se Entere (Remix)",
+        "url": "https://open.spotify.com/album/5UUhwDh5I27Gq0bB8MvLWM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 186183,
+      "name": "Que Nadie Se Entere - Remix",
+      "url": "https://open.spotify.com/track/5qedxsxuH7owySXk4LHZNp"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
         "name": "Pistola Remix",
         "url": "https://open.spotify.com/album/5uvaIwoUvjtR3wETfwB95T"
       },
@@ -1611,26 +1631,6 @@
       "duration_ms": 136806,
       "name": "Pistola Remix",
       "url": "https://open.spotify.com/track/10cA6m379GINGe7ZF6g3q1"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
-        "name": "Que Nadie Se Entere (Remix)",
-        "url": "https://open.spotify.com/album/5UUhwDh5I27Gq0bB8MvLWM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Play",
-          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 186183,
-      "name": "Que Nadie Se Entere - Remix",
-      "url": "https://open.spotify.com/track/5qedxsxuH7owySXk4LHZNp"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -1879,26 +1879,6 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "DJ ALEX, L-GANTE - ANDA SOLA | E10",
-        "url": "https://open.spotify.com/album/20jtIUp8bNLreDyvfw7P85"
-      },
-      "artists": [
-        {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 143874,
-      "name": "DJ ALEX, L-GANTE - ANDA SOLA | E10",
-      "url": "https://open.spotify.com/track/5gRQJ2wGJdIWE8CsvBQI2E"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
         "name": "Conmigo Te Gust\u00f3 (Remix)",
         "url": "https://open.spotify.com/album/2HXFOExRpfkFVr1ITCjKJX"
       },
@@ -1915,6 +1895,26 @@
       "duration_ms": 193728,
       "name": "Conmigo Te Gust\u00f3 - Remix",
       "url": "https://open.spotify.com/track/5B1lEFQdwgP8xiS9fizQZK"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
+        "name": "DJ ALEX, L-GANTE - ANDA SOLA | E10",
+        "url": "https://open.spotify.com/album/20jtIUp8bNLreDyvfw7P85"
+      },
+      "artists": [
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 143874,
+      "name": "DJ ALEX, L-GANTE - ANDA SOLA | E10",
+      "url": "https://open.spotify.com/track/5gRQJ2wGJdIWE8CsvBQI2E"
     },
     {
       "added_at": "2026-06-19 03:00:21",

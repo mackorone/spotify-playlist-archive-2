@@ -1,6 +1,6 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 85829,
+  "num_followers": 85850,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "Pala",
+        "url": "https://open.spotify.com/album/6cLebEH9n07yXZGQj5G7qG"
+      },
+      "artists": [
+        {
+          "name": "Friendly Fires",
+          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
+        }
+      ],
+      "duration_ms": 302573,
+      "name": "Hurting",
+      "url": "https://open.spotify.com/track/5Dt2gX8GCNJ85oWOlNUlTB"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "Bonafide (feat. Chiiild)",
         "url": "https://open.spotify.com/album/03Zv5MqL3Gj3FjcMtQ69Hd"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 177409,
       "name": "Bonafide (feat. Chiiild)",
       "url": "https://open.spotify.com/track/5AHSYSrni7xVCzlanStMRf"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
-        "name": "Pala",
-        "url": "https://open.spotify.com/album/6cLebEH9n07yXZGQj5G7qG"
-      },
-      "artists": [
-        {
-          "name": "Friendly Fires",
-          "url": "https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p"
-        }
-      ],
-      "duration_ms": 302573,
-      "name": "Hurting",
-      "url": "https://open.spotify.com/track/5Dt2gX8GCNJ85oWOlNUlTB"
     },
     {
       "added_at": "2024-06-28 21:13:36",

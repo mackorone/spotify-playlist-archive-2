@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Last Train",
-  "num_followers": 58390,
+  "num_followers": 58401,
   "original_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "Matador",
-        "url": "https://open.spotify.com/album/7ELKvakLxSb8aesWRLdYo7"
-      },
-      "artists": [
-        {
-          "name": "Mickey 3d",
-          "url": "https://open.spotify.com/artist/4Zdj4TMYyTqmh6ppJDLwgF"
-        }
-      ],
-      "duration_ms": 186440,
-      "name": "Matador",
-      "url": "https://open.spotify.com/track/4eNR2akrNSKuDAJSJ8qLor"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
         "name": "Qui de nous deux",
         "url": "https://open.spotify.com/album/4RGGnIevJw3BObQqMPffAc"
       },
@@ -251,6 +235,22 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
+        "name": "Matador",
+        "url": "https://open.spotify.com/album/7ELKvakLxSb8aesWRLdYo7"
+      },
+      "artists": [
+        {
+          "name": "Mickey 3d",
+          "url": "https://open.spotify.com/artist/4Zdj4TMYyTqmh6ppJDLwgF"
+        }
+      ],
+      "duration_ms": 186440,
+      "name": "Matador",
+      "url": "https://open.spotify.com/track/4eNR2akrNSKuDAJSJ8qLor"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
         "name": "La cerise",
         "url": "https://open.spotify.com/album/5sN0weTtwIRLDQmbvXG6XC"
       },
@@ -263,22 +263,6 @@
       "duration_ms": 215760,
       "name": "La cerise",
       "url": "https://open.spotify.com/track/2quLcKfpSNzpnqSnR41MA5"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
-        "name": "The Geeks and the Jerkin' Socks",
-        "url": "https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK"
-      },
-      "artists": [
-        {
-          "name": "Shaka Ponk",
-          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
-        }
-      ],
-      "duration_ms": 238133,
-      "name": "I'm Picky",
-      "url": "https://open.spotify.com/track/4LIN465EXxcZwgGsQsG0TC"
     },
     {
       "added_at": "2025-11-13 09:07:41",
@@ -315,6 +299,22 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
+        "name": "The Geeks and the Jerkin' Socks",
+        "url": "https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK"
+      },
+      "artists": [
+        {
+          "name": "Shaka Ponk",
+          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
+        }
+      ],
+      "duration_ms": 238133,
+      "name": "I'm Picky",
+      "url": "https://open.spotify.com/track/4LIN465EXxcZwgGsQsG0TC"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
         "name": "\u00c7a me vexe",
         "url": "https://open.spotify.com/album/2uI9jvUZPBUFXiDbpwF9F0"
       },
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "The Geeks and the Jerkin' Socks",
-        "url": "https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK"
-      },
-      "artists": [
-        {
-          "name": "Shaka Ponk",
-          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
-        }
-      ],
-      "duration_ms": 207132,
-      "name": "My Name Is Stain",
-      "url": "https://open.spotify.com/track/5CGoooF86pFWxjbkIfl5q4"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
         "name": "Wow",
         "url": "https://open.spotify.com/album/1Ihd1Ym29lWWA0XYAXpJMt"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 283093,
       "name": "Je n'veux pas rester sage",
       "url": "https://open.spotify.com/track/1zPGduhDQB86IhxmK9uxaR"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
+        "name": "The Geeks and the Jerkin' Socks",
+        "url": "https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK"
+      },
+      "artists": [
+        {
+          "name": "Shaka Ponk",
+          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
+        }
+      ],
+      "duration_ms": 207132,
+      "name": "My Name Is Stain",
+      "url": "https://open.spotify.com/track/5CGoooF86pFWxjbkIfl5q4"
     },
     {
       "added_at": "2025-11-13 09:07:41",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "LOOV",
-        "url": "https://open.spotify.com/album/56ycgKlSswpmfEHsAcOjd8"
-      },
-      "artists": [
-        {
-          "name": "Mat Bastard",
-          "url": "https://open.spotify.com/artist/3g6cGlqNvWcTGwvse4VQVB"
-        }
-      ],
-      "duration_ms": 198693,
-      "name": "Stand As One",
-      "url": "https://open.spotify.com/track/1RgcWiVrG3QwkqftEvrfBV"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
         "name": "L'Homme Fleur",
         "url": "https://open.spotify.com/album/1XTxNFUiQHU304hDMg5mHM"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 267760,
       "name": "La crois\u00e9e",
       "url": "https://open.spotify.com/track/7AlVE4SVUoXpe5L6kO77xE"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
+        "name": "LOOV",
+        "url": "https://open.spotify.com/album/56ycgKlSswpmfEHsAcOjd8"
+      },
+      "artists": [
+        {
+          "name": "Mat Bastard",
+          "url": "https://open.spotify.com/artist/3g6cGlqNvWcTGwvse4VQVB"
+        }
+      ],
+      "duration_ms": 198693,
+      "name": "Stand As One",
+      "url": "https://open.spotify.com/track/1RgcWiVrG3QwkqftEvrfBV"
     },
     {
       "added_at": "2025-11-13 09:07:41",

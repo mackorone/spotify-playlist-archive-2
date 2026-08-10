@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: True Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,991 likes - 178 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,214 likes - 178 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

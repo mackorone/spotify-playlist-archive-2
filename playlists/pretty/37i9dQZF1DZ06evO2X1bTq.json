@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1267624,
+  "num_followers": 1267672,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anUgAAAAAABOXod4OPVqdcqD0g3hmB2u",
+  "snapshot_id": "anZxgAAAAAC0zJdb3imAqy7Ziwq8W0l7",
   "tracks": [
     {
       "added_at": null,
@@ -75,18 +75,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Unforgettable Fire (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY"
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/6VYjqAdWExFAfDdAudVT23"
       },
       "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
         {
           "name": "U2",
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 228426,
-      "name": "Pride (In The Name Of Love) - Remastered 2009",
-      "url": "https://open.spotify.com/track/65E62rOSbm7SZbAMYjNTJq"
+      "duration_ms": 263767,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/1gbPA7apUePF8do9EfUYmq"
     },
     {
       "added_at": null,
@@ -107,22 +111,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fireflies",
-        "url": "https://open.spotify.com/album/6VYjqAdWExFAfDdAudVT23"
+        "name": "The Unforgettable Fire (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY"
       },
       "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
         {
           "name": "U2",
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 263767,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/1gbPA7apUePF8do9EfUYmq"
+      "duration_ms": 228426,
+      "name": "Pride (In The Name Of Love) - Remastered 2009",
+      "url": "https://open.spotify.com/track/65E62rOSbm7SZbAMYjNTJq"
     },
     {
       "added_at": null,

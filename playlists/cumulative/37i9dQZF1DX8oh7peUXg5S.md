@@ -4,7 +4,7 @@
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-422 songs - 1 day 2 hr 49 min
+423 songs - 1 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Virxe Do Portovello](https://open.spotify.com/track/0yXXN5T9QYHuFHhgdlNGzM) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Tanxugueiras](https://open.spotify.com/artist/1iHb53TMjvMaXZm0s4RWZi) | [Matriz](https://open.spotify.com/album/0on1wrBTVafDAbhBp8y06d) | 3:25 | 2022-11-10 | 2022-12-24 |
 | [Abissal](https://open.spotify.com/track/4l4fUar7kJNq1pNZrSTvNw) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Oral\_Abisal](https://open.spotify.com/album/7BMy6fDG6vh9ln4IjZWHqu) | 3:31 | 2026-05-07 | 2026-06-29 |
 | [Acaso](https://open.spotify.com/track/39tmRtKKAWb6PyvUioJOD1) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c), [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Acaso](https://open.spotify.com/album/4wALhbk6F1YilNThaNPDhC) | 3:42 | 2023-10-26 | 2023-12-15 |
-| [Adios rios, adios fontes](https://open.spotify.com/track/5QYwFUayrzxqwVV7GEMXM3) | [Amancio Prada](https://open.spotify.com/artist/2zzdcDYrrZE11oQ4xo2Ufr) | [Rosalia de Castro](https://open.spotify.com/album/3DnXxEHxaVU2J1QjYPwKc7) | 2:36 | 2022-06-09 |  |
+| [Adios rios, adios fontes](https://open.spotify.com/track/5QYwFUayrzxqwVV7GEMXM3) | [Amancio Prada](https://open.spotify.com/artist/2zzdcDYrrZE11oQ4xo2Ufr) | [Rosalia de Castro](https://open.spotify.com/album/3DnXxEHxaVU2J1QjYPwKc7) | 2:36 | 2022-06-09 | 2026-08-10 |
 | [Agua](https://open.spotify.com/track/5omgFpiMt1CGHjQGfkwzvz) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Depende](https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx) | 4:14 | 2022-06-09 |  |
 | [Agua](https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Agua](https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu) | 4:00 | 2022-06-09 |  |
 | [Ahora Que Te Encuentro](https://open.spotify.com/track/6hCgPpGpAgV6ExrOj9MGXH) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [La Llamada](https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21) | 7:22 | 2022-08-11 |  |
@@ -253,6 +253,7 @@
 | [Moreno](https://open.spotify.com/track/0fjLfvd70UrT4Gbx5krquK) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Moreno](https://open.spotify.com/album/4hk5ODgRTAVk9jv4Mo6n8N) | 2:59 | 2026-02-05 | 2026-03-27 |
 | [Morna \(con Buika\)](https://open.spotify.com/track/09g1iDhRyOiK9q8yyTnw93) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El), [Buika](https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy) | [Morna \(con Buika\)](https://open.spotify.com/album/0joEMwV6uGHWctmL0BFtJ7) | 3:15 | 2022-06-09 | 2026-05-01 |
 | [Mujer verano](https://open.spotify.com/track/03rIkwO4y1bYM9uRjcRxZR) | [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO) | [Mujer verano](https://open.spotify.com/album/2mmPxDQaKXi1soZMQNip9Z) | 3:36 | 2026-08-06 |  |
+| [Méritos Y Merecimientos](https://open.spotify.com/track/5Q8ZcIv6mysLIuTr2c43HT) | [Fernando Cabrera](https://open.spotify.com/artist/6SgzbJKexV8Ouadaaa6PVy), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Méritos Y Merecimientos](https://open.spotify.com/album/6ruWQDL06KMQJhCWA1ufXc) | 3:40 | 2026-08-06 |  |
 | [Nada de Nada](https://open.spotify.com/track/33ztBCzJNrfd4mb1Wo1Bza) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Millon De Sueños \(Los Grandes Exitos\)](https://open.spotify.com/album/5tiaA0wQBryyelJzkHzRqi) | 2:58 | 2022-06-09 | 2022-07-27 |
 | [Nada por Hecho \(feat\. Leiva\)](https://open.spotify.com/track/44XbWNRHal0zmIFVdxdG18) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Nada por Hecho \(feat\. Leiva\)](https://open.spotify.com/album/6dD5pmen05khim74MHtYC9) | 3:28 | 2023-10-10 | 2023-11-09 |
 | [nana triste](https://open.spotify.com/track/7zH4rnKKGm5vACoSEXBEDe) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [nana triste](https://open.spotify.com/album/6piXewR2Si4LT96r9mUXl2) | 3:07 | 2022-06-30 | 2022-09-23 |

@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Sof\u00eda Cristo.",
-  "num_followers": 22627,
+  "num_followers": 22625,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,26 @@
     {
       "added_at": "2026-07-13 22:00:02",
       "album": {
+        "name": "CULPA NUESTRA",
+        "url": "https://open.spotify.com/album/6ZaPk664xTwSQL0v70J4Po"
+      },
+      "artists": [
+        {
+          "name": "Safree",
+          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
+        },
+        {
+          "name": "STRANGEL0VE",
+          "url": "https://open.spotify.com/artist/6IsXcpSH7ewL9FTTqSPFfP"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "CULPA NUESTRA",
+      "url": "https://open.spotify.com/track/4qUiG9rcbKpFry7Mxsax9Y"
+    },
+    {
+      "added_at": "2026-07-13 22:00:02",
+      "album": {
         "name": "V.I.P",
         "url": "https://open.spotify.com/album/2fzZquvDlzC9VlEbtYNST6"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 137872,
       "name": "V.I.P",
       "url": "https://open.spotify.com/track/0OYSvxPEI3Qfp0Xq8OJsF7"
-    },
-    {
-      "added_at": "2026-07-13 22:00:02",
-      "album": {
-        "name": "CULPA NUESTRA",
-        "url": "https://open.spotify.com/album/6ZaPk664xTwSQL0v70J4Po"
-      },
-      "artists": [
-        {
-          "name": "Safree",
-          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
-        },
-        {
-          "name": "STRANGEL0VE",
-          "url": "https://open.spotify.com/artist/6IsXcpSH7ewL9FTTqSPFfP"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "CULPA NUESTRA",
-      "url": "https://open.spotify.com/track/4qUiG9rcbKpFry7Mxsax9Y"
     },
     {
       "added_at": "2026-07-13 22:00:02",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-07-13 22:00:02",
       "album": {
-        "name": "Pantal\u00f3n",
-        "url": "https://open.spotify.com/album/1kkCB6Bojsi2NWWToffYSU"
-      },
-      "artists": [
-        {
-          "name": "BAJOCERO X",
-          "url": "https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq"
-        }
-      ],
-      "duration_ms": 125753,
-      "name": "Pantal\u00f3n",
-      "url": "https://open.spotify.com/track/0A7IGl98y4xBSZaSV5UVjD"
-    },
-    {
-      "added_at": "2026-07-13 22:00:02",
-      "album": {
         "name": "Hoy ya no",
         "url": "https://open.spotify.com/album/0nP5xUA3mhn8T56eB6ZpfA"
       },
@@ -827,6 +811,38 @@
       "duration_ms": 160064,
       "name": "Hoy ya no",
       "url": "https://open.spotify.com/track/0rtC4k3M8DkZdiNeoO37bz"
+    },
+    {
+      "added_at": "2026-07-13 22:00:02",
+      "album": {
+        "name": "TKM CNT XFA",
+        "url": "https://open.spotify.com/album/7E3vNnKm7alB2ayeYuaO3Q"
+      },
+      "artists": [
+        {
+          "name": "Ladilla Rusa",
+          "url": "https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF"
+        }
+      ],
+      "duration_ms": 212411,
+      "name": "TKM CNT XFA",
+      "url": "https://open.spotify.com/track/3kHxYzvottpn4pmV5GBADA"
+    },
+    {
+      "added_at": "2026-07-13 22:00:02",
+      "album": {
+        "name": "Pantal\u00f3n",
+        "url": "https://open.spotify.com/album/1kkCB6Bojsi2NWWToffYSU"
+      },
+      "artists": [
+        {
+          "name": "BAJOCERO X",
+          "url": "https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq"
+        }
+      ],
+      "duration_ms": 125753,
+      "name": "Pantal\u00f3n",
+      "url": "https://open.spotify.com/track/0A7IGl98y4xBSZaSV5UVjD"
     },
     {
       "added_at": "2026-07-13 22:00:02",
@@ -847,22 +863,6 @@
       "duration_ms": 214545,
       "name": "Omaigach",
       "url": "https://open.spotify.com/track/0CUf3C7SNW7y4PyWgWFFK6"
-    },
-    {
-      "added_at": "2026-07-13 22:00:02",
-      "album": {
-        "name": "TKM CNT XFA",
-        "url": "https://open.spotify.com/album/7E3vNnKm7alB2ayeYuaO3Q"
-      },
-      "artists": [
-        {
-          "name": "Ladilla Rusa",
-          "url": "https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF"
-        }
-      ],
-      "duration_ms": 212411,
-      "name": "TKM CNT XFA",
-      "url": "https://open.spotify.com/track/3kHxYzvottpn4pmV5GBADA"
     },
     {
       "added_at": "2026-07-13 22:00:02",

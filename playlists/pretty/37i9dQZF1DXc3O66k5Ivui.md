@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3O66k5Ivui.md) - [plain]
 
 > Enjoy the BTS "NORMAL" music video and spend a normal day with BTS! This playlist features the top 3 tracks voted by fans for each member's "NORMAL Day" playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,461 likes - 23 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,664 likes - 23 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

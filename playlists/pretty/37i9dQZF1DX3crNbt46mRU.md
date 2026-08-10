@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Marlon Hoffstadt, Rose Gray, Juju, Alex Warren, Kauta, Sam Smith & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,863 likes - 99 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,846 likes - 99 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

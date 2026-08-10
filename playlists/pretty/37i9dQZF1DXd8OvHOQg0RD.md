@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8OvHOQg0RD.md) - [plain]
 
 > García Márquez decía que Cien años de soledad era "un vallenato de 350 páginas"\. ¿A qué sonaba Macondo?
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,908 likes - 30 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,931 likes - 30 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

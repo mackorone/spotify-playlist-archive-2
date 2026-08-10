@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23376,
+  "num_followers": 23377,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,26 @@
     {
       "added_at": "2026-08-07 14:28:28",
       "album": {
+        "name": "R.U. (Raw & Unfiltered) Vol.1",
+        "url": "https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        }
+      ],
+      "duration_ms": 200314,
+      "name": "Private Chef (feat. MC Morena)",
+      "url": "https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt"
+    },
+    {
+      "added_at": "2026-08-07 14:28:28",
+      "album": {
         "name": "PAY ME",
         "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
       },
@@ -259,22 +279,6 @@
     {
       "added_at": "2026-08-07 14:28:28",
       "album": {
-        "name": "ENCORE",
-        "url": "https://open.spotify.com/album/022Ky25HgtR8oMa8mzrCSD"
-      },
-      "artists": [
-        {
-          "name": "Low Jay",
-          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "ENCORE",
-      "url": "https://open.spotify.com/track/2x9HB7pnBoOd876fwH0ukU"
-    },
-    {
-      "added_at": "2026-08-07 14:28:28",
-      "album": {
         "name": "KayBlack & Burna Boy - Spotify Sessions",
         "url": "https://open.spotify.com/album/72I7qkTVZYZZX3WaRkXB1Z"
       },
@@ -291,6 +295,22 @@
       "duration_ms": 165540,
       "name": "TaTaTa - Spotify Sessions",
       "url": "https://open.spotify.com/track/06sFcSZXIEGVgebMjnRwXr"
+    },
+    {
+      "added_at": "2026-08-07 14:28:28",
+      "album": {
+        "name": "ENCORE",
+        "url": "https://open.spotify.com/album/022Ky25HgtR8oMa8mzrCSD"
+      },
+      "artists": [
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "ENCORE",
+      "url": "https://open.spotify.com/track/2x9HB7pnBoOd876fwH0ukU"
     },
     {
       "added_at": "2026-08-07 14:28:28",
@@ -463,26 +483,6 @@
     {
       "added_at": "2026-08-07 14:28:28",
       "album": {
-        "name": "R.U. (Raw & Unfiltered) Vol.1",
-        "url": "https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Mc Morena",
-          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
-        }
-      ],
-      "duration_ms": 200314,
-      "name": "Private Chef (feat. MC Morena)",
-      "url": "https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt"
-    },
-    {
-      "added_at": "2026-08-07 14:28:28",
-      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/7pDIW45Fh8ILGQ8lvxqYNH"
       },
@@ -531,26 +531,6 @@
     {
       "added_at": "2026-08-07 14:28:28",
       "album": {
-        "name": "QUERO (AI AI AI)",
-        "url": "https://open.spotify.com/album/36oAKD2fmUrRz4z6hcAhpx"
-      },
-      "artists": [
-        {
-          "name": "Yan Cloud",
-          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
-        },
-        {
-          "name": "Thifany Kauany",
-          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
-        }
-      ],
-      "duration_ms": 132244,
-      "name": "QUERO (AI AI AI)",
-      "url": "https://open.spotify.com/track/6kFinaKmlxjlslZ1lVJ9U1"
-    },
-    {
-      "added_at": "2026-08-07 14:28:28",
-      "album": {
         "name": "CORTAVENTO",
         "url": "https://open.spotify.com/album/7nyXHb7J8I4piuHtHodwKF"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 230580,
       "name": "AYE O",
       "url": "https://open.spotify.com/track/2XiCGFrIxDm7PhOTCRbtm2"
+    },
+    {
+      "added_at": "2026-08-07 14:28:28",
+      "album": {
+        "name": "QUERO (AI AI AI)",
+        "url": "https://open.spotify.com/album/36oAKD2fmUrRz4z6hcAhpx"
+      },
+      "artists": [
+        {
+          "name": "Yan Cloud",
+          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
+        },
+        {
+          "name": "Thifany Kauany",
+          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
+        }
+      ],
+      "duration_ms": 132244,
+      "name": "QUERO (AI AI AI)",
+      "url": "https://open.spotify.com/track/6kFinaKmlxjlslZ1lVJ9U1"
     },
     {
       "added_at": "2026-08-07 14:28:28",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-08-07 14:28:28",
       "album": {
+        "name": "C\u00ea Decide",
+        "url": "https://open.spotify.com/album/4oZMdfYEB5sTsJlwRFuwDX"
+      },
+      "artists": [
+        {
+          "name": "Scardinni",
+          "url": "https://open.spotify.com/artist/18LTJax6PTlio8utZE2YLO"
+        }
+      ],
+      "duration_ms": 116035,
+      "name": "C\u00ea Decide",
+      "url": "https://open.spotify.com/track/74Xa1p6kyCTyTtidZOPAUZ"
+    },
+    {
+      "added_at": "2026-08-07 14:28:28",
+      "album": {
         "name": "Fora do Normal",
         "url": "https://open.spotify.com/album/2Hn8berMzeeQHZfR1OFnm5"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 174000,
       "name": "Fora do Normal",
       "url": "https://open.spotify.com/track/2sDGcExhySyvzQNXk0RTWs"
-    },
-    {
-      "added_at": "2026-08-07 14:28:28",
-      "album": {
-        "name": "C\u00ea Decide",
-        "url": "https://open.spotify.com/album/4oZMdfYEB5sTsJlwRFuwDX"
-      },
-      "artists": [
-        {
-          "name": "Scardinni",
-          "url": "https://open.spotify.com/artist/18LTJax6PTlio8utZE2YLO"
-        }
-      ],
-      "duration_ms": 116035,
-      "name": "C\u00ea Decide",
-      "url": "https://open.spotify.com/track/74Xa1p6kyCTyTtidZOPAUZ"
     },
     {
       "added_at": "2026-08-07 14:28:28",
@@ -999,6 +999,30 @@
     {
       "added_at": "2026-08-07 14:28:28",
       "album": {
+        "name": "Sem nada",
+        "url": "https://open.spotify.com/album/5x0K9eHmy0ZSVj1nej5zyF"
+      },
+      "artists": [
+        {
+          "name": "Devasto Prod",
+          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
+        },
+        {
+          "name": "Junior Lord",
+          "url": "https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP"
+        },
+        {
+          "name": "Marvvila",
+          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
+        }
+      ],
+      "duration_ms": 156038,
+      "name": "Sem nada",
+      "url": "https://open.spotify.com/track/6ZlTGWsNYigSj5LTCK3Uy4"
+    },
+    {
+      "added_at": "2026-08-07 14:28:28",
+      "album": {
         "name": "RINGUE",
         "url": "https://open.spotify.com/album/5U60uRO6qeJOfwIiluPyTk"
       },
@@ -1023,30 +1047,6 @@
       "duration_ms": 182455,
       "name": "RINGUE",
       "url": "https://open.spotify.com/track/5fwp4Me529FOYNKxyVAz1n"
-    },
-    {
-      "added_at": "2026-08-07 14:28:28",
-      "album": {
-        "name": "Sem nada",
-        "url": "https://open.spotify.com/album/5x0K9eHmy0ZSVj1nej5zyF"
-      },
-      "artists": [
-        {
-          "name": "Devasto Prod",
-          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
-        },
-        {
-          "name": "Junior Lord",
-          "url": "https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP"
-        },
-        {
-          "name": "Marvvila",
-          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
-        }
-      ],
-      "duration_ms": 156038,
-      "name": "Sem nada",
-      "url": "https://open.spotify.com/track/6ZlTGWsNYigSj5LTCK3Uy4"
     }
   ],
   "unique_name": "pique afrobeats",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Siri Xander
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,102 likes - 92 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,122 likes - 92 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 13 | [Anbin Nadhiye](https://open.spotify.com/track/6aNNNwoULBgMkO2QfrPc1X) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Anbin Nadhiye](https://open.spotify.com/album/4Cx3sNXn94a97lcbP6bL2i) | 3:21 |
 | 14 | [Sillakku Sirukki](https://open.spotify.com/track/3yo6nlOUqnL1lL0VQdJzzL) | [Aditya Ganesh](https://open.spotify.com/artist/20TF9zs0MDa4wwUXVFhBLr), [Kaushik Mahalengam](https://open.spotify.com/artist/7DtfoijsVtoll8W6IgINsA) | [Sillakku Sirukki](https://open.spotify.com/album/0WgNi6NcbQbLpWbDsHZG4F) | 3:54 |
 | 15 | [Pona Pottum](https://open.spotify.com/track/4Aiha3P8OtqKaEvWzVg2eK) | [Trend Gana Sanjay](https://open.spotify.com/artist/1nd25HMG3vm12Srl2Rf3IB), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [I\-Popstar Tamil \| Ep 04](https://open.spotify.com/album/0lgBHRvA0yhWe9KcylaCLJ) | 3:16 |
-| 16 | [Mayakaran \(Tamil\)](https://open.spotify.com/track/1yTDrGo2n2PizWQ3oHUZI5) | [Bala Murali](https://open.spotify.com/artist/4zfAILaUS8UCyPxg7NNwb7), [Suraj Sabu](https://open.spotify.com/artist/0mUwmquIWiNDB0pW5Rvvvg), [Sneha Muralidharan](https://open.spotify.com/artist/6VH7FyKpyhiJzURSQPNBxF), [Solomon Steven](https://open.spotify.com/artist/50zLA3D6CwH4Nm7Hp0u2mw) | [Mayakaran \(Tamil\)](https://open.spotify.com/album/1MLRAxOlTqTjiL0041igPF) | 3:03 |
+| 16 | [Mayakaran \(Tamil\)](https://open.spotify.com/track/1yTDrGo2n2PizWQ3oHUZI5) | [Bala Murali](https://open.spotify.com/artist/7wS1TJGzgwhhSs43mWgDJD), [Suraj Sabu](https://open.spotify.com/artist/0mUwmquIWiNDB0pW5Rvvvg), [Sneha Muralidharan](https://open.spotify.com/artist/6VH7FyKpyhiJzURSQPNBxF), [Solomon Steven](https://open.spotify.com/artist/50zLA3D6CwH4Nm7Hp0u2mw) | [Mayakaran \(Tamil\)](https://open.spotify.com/album/1MLRAxOlTqTjiL0041igPF) | 3:03 |
 | 17 | [Superhero](https://open.spotify.com/track/3LWzYA7qw4gbWyI148zLaf) | [Joshua Aaron](https://open.spotify.com/artist/3q3ikUy0tmXkAonQpYDORq) | [Superhero](https://open.spotify.com/album/2VgaTCQSIGOYFNWK3W0RCP) | 2:36 |
 | 18 | [MAYAKAMA](https://open.spotify.com/track/3HUBdnP13iIzMAT92kKmQ3) | [Stanley Xavier](https://open.spotify.com/artist/5eErWHlCjgBDcY9OYBecEj) | [MAYAKAMA](https://open.spotify.com/album/4R9vaMLhUaRRPxCetrq4jG) | 3:29 |
 | 19 | [Bodha Kannadi](https://open.spotify.com/track/2ZXFfdzEDMhDR718lRhiNv) | [Hemi](https://open.spotify.com/artist/7MP4gHewke7qLeU0Yqlhvi), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [I\-Popstar Tamil \| Ep 01](https://open.spotify.com/album/7vI2aiu7ChxhLKwXMnhgjD) | 2:54 |

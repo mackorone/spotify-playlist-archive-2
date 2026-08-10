@@ -4,7 +4,7 @@
 
 > This is Terry Riley\. The essential tracks, all in one playlist.
 
-253 songs - 1 day 13 hr 3 min
+254 songs - 1 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Garden of Earthly Delights](https://open.spotify.com/track/1ikh8xH14iF7NgvNz48btv) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Gyan Riley](https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf) | [Way Out Yonder](https://open.spotify.com/album/2ln3J4rzNtWmGnpCBDfZ7m) | 5:40 | 2024-05-10 | 2025-11-05 |
 | [Gha Ten In Darbari](https://open.spotify.com/track/1qGRUrhjIFl2xAcW0kihtX) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Atlantis Nath](https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH) | 4:39 | 2022-12-20 | 2026-07-24 |
 | [GIMME LIKKLE ONE DROP](https://open.spotify.com/track/1hIKpBKkdz2r7XZXwbzlgO) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [TROPICAL ESCAPE riddim](https://open.spotify.com/album/2hhxH2bK8GTTO26t90nCYC) | 2:54 | 2022-10-12 | 2026-06-24 |
+| [GIMME LIKKLE ONE DROP](https://open.spotify.com/track/3VUsvV12pqwrdqkpKooFS6) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [TROPICAL ESCAPE riddim](https://open.spotify.com/album/1AencwAAJl9a5xjIllNiZB) | 2:54 | 2026-08-10 |  |
 | [Goodbye Goodtimes Blues for Millenium's Child](https://open.spotify.com/track/2ADdzpJNVdYWByi0CxM49T) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Paul Dresher Ensemble](https://open.spotify.com/artist/59OLF0W5mXpXwjfnAhpIWF) | [Banana Humberto](https://open.spotify.com/album/4F8QZyltxqZJXe7UtvWGBY) | 15:39 | 2026-01-24 | 2026-07-20 |
 | [Grahhrr](https://open.spotify.com/track/2JEICUjcRT7kMHuZnQurwY) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [\*Michael McClure](https://open.spotify.com/artist/0pEXXYU5Ygc0Mk4unN8FfZ) | [I Like Your Eyes Liberty](https://open.spotify.com/album/2lGodELWQLcCvbAfC5STpx) | 3:23 | 2023-03-14 | 2026-07-24 |
 | [Happy Ending](https://open.spotify.com/track/1ANtwKTLblLWqpDSG5W5CV) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Les Yeux Fermés / Lifespan](https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r) | 18:26 | 2022-05-29 | 2026-03-10 |
@@ -180,7 +181,7 @@
 | [Plum Stones](https://open.spotify.com/track/5zsuuF9LbOFjlbEjiCvjoS) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [\*Michael McClure](https://open.spotify.com/artist/0pEXXYU5Ygc0Mk4unN8FfZ) | [I Like Your Eyes Liberty](https://open.spotify.com/album/2lGodELWQLcCvbAfC5STpx) | 3:06 | 2026-07-18 | 2026-08-05 |
 | [Poppy Nogood and the Phantom Band](https://open.spotify.com/track/6fD1B6kBhP55xoQ7Hkocp9) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [A Rainbow In Curved Air](https://open.spotify.com/album/6mJBD78Ohy7Ch8VVcniS10) | 21:38 | 2024-06-27 |  |
 | [Poppy Nogood and the Phantom Band \- Instrumental](https://open.spotify.com/track/7yX6clhxwVHuKMNcCXAyB9) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Terry Riley: A Rainbow in Curved Air & Poppy Nogood and the Phantom Band](https://open.spotify.com/album/7tMM2MIBklhAtmmsgbQrAq) | 21:38 | 2022-05-29 | 2024-06-15 |
-| [Poppy Nogood and the Phantom Band All Night Flight: SUNY Buffalo, New York, 22 March 1968](https://open.spotify.com/track/4dDdGh1VQTPYLm2bLl4M5m) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Poppy Nogood and the Phantom Band All Night Flight: SUNY Buffalo, New York, 22 March 1968](https://open.spotify.com/album/3cFjiTCXi7SYwyoEii2ERi) | 39:48 | 2022-05-29 |  |
+| [Poppy Nogood and the Phantom Band All Night Flight: SUNY Buffalo, New York, 22 March 1968](https://open.spotify.com/track/4dDdGh1VQTPYLm2bLl4M5m) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Poppy Nogood and the Phantom Band All Night Flight: SUNY Buffalo, New York, 22 March 1968](https://open.spotify.com/album/3cFjiTCXi7SYwyoEii2ERi) | 39:48 | 2022-05-29 | 2026-08-10 |
 | [Premonition Rag](https://open.spotify.com/track/0OnxvzakK3YBnacYSrlDvY) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The Padova Concert](https://open.spotify.com/album/2K65cUKmsCVlMJJTuGPipW) | 13:10 | 2022-10-21 | 2026-01-21 |
 | [Quijote](https://open.spotify.com/track/52wOLvktzmhJQACPJbdoxE) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [The book Of Abbeyozzud](https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE) | 4:33 | 2022-05-30 | 2026-02-17 |
 | [Raga Mishra Bhairavi: Alap](https://open.spotify.com/track/6z2LwiOdHFUhPTvp3nxoNv) | [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3), [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Wu Man](https://open.spotify.com/artist/4IprWBsqvdeQGZ5z5qfF4y) | [Kronos Explorer Series](https://open.spotify.com/album/4hKc7Avac3V0YcfugTetkM) | 7:02 | 2024-06-24 |  |

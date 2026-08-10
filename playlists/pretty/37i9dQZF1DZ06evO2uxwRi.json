@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 43951,
+  "num_followers": 43953,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anUgAAAAAAC6DfpCVI3bpP7Hl/R3F+7U",
+  "snapshot_id": "anZxgAAAAAACOr5XYdLgcGHGMfnrVlgF",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Whole New Sound",
-        "url": "https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP"
+        "name": "From The Screen To Your Stereo 3",
+        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
       },
       "artists": [
         {
           "name": "New Found Glory",
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 178823,
-      "name": "Part of Your World",
-      "url": "https://open.spotify.com/track/231Lyv9h2X1y3p1EKZIwtQ"
+      "duration_ms": 196562,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/5RRPVODLjU7eQmxOek8DHQ"
     },
     {
       "added_at": null,
@@ -351,18 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Screen To Your Stereo 3",
-        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
+        "name": "A Whole New Sound",
+        "url": "https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP"
       },
       "artists": [
         {
           "name": "New Found Glory",
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 196562,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/5RRPVODLjU7eQmxOek8DHQ"
+      "duration_ms": 178823,
+      "name": "Part of Your World",
+      "url": "https://open.spotify.com/track/231Lyv9h2X1y3p1EKZIwtQ"
     },
     {
       "added_at": null,

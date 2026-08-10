@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40841,
+  "num_followers": 40846,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anUgAAAAAAANyiwkWU2lEoli0fAI8qUj",
+  "snapshot_id": "anZxgAAAAAC3sZ+NXoHSndcRcIO+p2/X",
   "tracks": [
     {
       "added_at": null,
@@ -835,30 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "YSIV",
-        "url": "https://open.spotify.com/album/1lyjkFTJ6yxUyNYysWVBo9"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "John Lindahl",
-          "url": "https://open.spotify.com/artist/2ei3ToTz5SL3pVp17X0Vkd"
-        }
-      ],
-      "duration_ms": 353453,
-      "name": "100 Miles and Running (ft. Wale & John Lindahl)",
-      "url": "https://open.spotify.com/track/4CstQ0SUkl0YkoeZkIZlIx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Never Visit Me (feat. Wale & Enny)",
         "url": "https://open.spotify.com/album/5768qKkadOnArtFfrupjLe"
       },
@@ -879,6 +855,30 @@
       "duration_ms": 264000,
       "name": "You Never Visit Me (feat. Wale & Enny)",
       "url": "https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YSIV",
+        "url": "https://open.spotify.com/album/1lyjkFTJ6yxUyNYysWVBo9"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "John Lindahl",
+          "url": "https://open.spotify.com/artist/2ei3ToTz5SL3pVp17X0Vkd"
+        }
+      ],
+      "duration_ms": 353453,
+      "name": "100 Miles and Running (ft. Wale & John Lindahl)",
+      "url": "https://open.spotify.com/track/4CstQ0SUkl0YkoeZkIZlIx"
     },
     {
       "added_at": null,

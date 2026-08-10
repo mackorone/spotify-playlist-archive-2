@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "Amanama (Money)",
+        "url": "https://open.spotify.com/album/2u389h9mVr6bR45sT4hHqe"
+      },
+      "artists": [
+        {
+          "name": "DJ Antoine vs. Timati",
+          "url": "https://open.spotify.com/artist/39xY7JStVYcLWGsAgQpEvm"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257167,
+      "name": "Amanama (Money) - DJ Antoine vs Mad Mark Deluxe Edit",
+      "url": "https://open.spotify.com/track/1mIUcecYVNE0iiqJGnINXk"
+    },
+    {
+      "album": {
         "name": "Welcome to DJ Antoine",
         "url": "https://open.spotify.com/album/5MtCt1WcTLyZ631UcvdWki"
       },
@@ -938,7 +956,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 172540,
       "name": "Big Energy",
       "url": "https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT"
@@ -4544,7 +4562,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 486379,
       "name": "Megamix",
       "url": "https://open.spotify.com/track/1EZprjfxjpyGlEFNQ0AZRZ"
@@ -7316,6 +7334,28 @@
       "duration_ms": 231233,
       "name": "We Can't Stop",
       "url": "https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH"
+    },
+    {
+      "album": {
+        "name": "Welcome To St Tropez",
+        "url": "https://open.spotify.com/album/6yoVUh5ZaKkjPLzHDvE9gh"
+      },
+      "artists": [
+        {
+          "name": "Dj Antoine vs Timati",
+          "url": "https://open.spotify.com/artist/6uCpLZSsr3yInW4r3xsShz"
+        },
+        {
+          "name": "Kalenna",
+          "url": "https://open.spotify.com/artist/2NoFr6doacvN58q9p9EFky"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195192,
+      "name": "Welcome To St Tropez",
+      "url": "https://open.spotify.com/track/2uhEXYOwmbEWH3ZEdAi0jT"
     },
     {
       "album": {

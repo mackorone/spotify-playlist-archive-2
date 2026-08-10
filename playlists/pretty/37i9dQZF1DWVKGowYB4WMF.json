@@ -1,6 +1,6 @@
 {
   "description": "Jelly, arcades and a man on the moon, this one's for you!",
-  "num_followers": 99086,
+  "num_followers": 99106,
   "original_name": "Born in the 60s",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "Madman Across The Water",
-        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 377093,
-      "name": "Tiny Dancer",
-      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "Self Control",
         "url": "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 246440,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "Madman Across The Water",
+        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 377093,
+      "name": "Tiny Dancer",
+      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
     },
     {
       "added_at": "2024-03-26 13:49:34",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "Sheer Heart Attack (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "Killer Queen - Remastered 2011",
-      "url": "https://open.spotify.com/track/4cIPLtg1avt2Jm3ne9S1zy"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/0ESCnyuOCpztPojn8m0uqi"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 172733,
       "name": "Please Mr. Postman",
       "url": "https://open.spotify.com/track/74jZhGv0fdLaf9q8AZZ15k"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "Sheer Heart Attack (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "Killer Queen - Remastered 2011",
+      "url": "https://open.spotify.com/track/4cIPLtg1avt2Jm3ne9S1zy"
     },
     {
       "added_at": "2024-03-26 13:49:34",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "Siren",
-        "url": "https://open.spotify.com/album/5Tpor3YZBVEJ9tWD5L31mH"
-      },
-      "artists": [
-        {
-          "name": "Roxy Music",
-          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
-        }
-      ],
-      "duration_ms": 251333,
-      "name": "Love Is The Drug",
-      "url": "https://open.spotify.com/track/3wtMkvedoWMQ3XTKv7tqcZ"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "Metro Music",
         "url": "https://open.spotify.com/album/3XyR0jp0zJGjhLJjnltNaX"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 219866,
       "name": "Echo Beach",
       "url": "https://open.spotify.com/track/49wHCjiu34kM3VRgumQ1tJ"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "Siren",
+        "url": "https://open.spotify.com/album/5Tpor3YZBVEJ9tWD5L31mH"
+      },
+      "artists": [
+        {
+          "name": "Roxy Music",
+          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+        }
+      ],
+      "duration_ms": 251333,
+      "name": "Love Is The Drug",
+      "url": "https://open.spotify.com/track/3wtMkvedoWMQ3XTKv7tqcZ"
     },
     {
       "added_at": "2024-03-26 13:49:34",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "King Of The World",
-        "url": "https://open.spotify.com/album/5CtsuslrRP5CNsmuZQ8UIr"
-      },
-      "artists": [
-        {
-          "name": "Sheila",
-          "url": "https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu"
-        }
-      ],
-      "duration_ms": 354240,
-      "name": "Spacer",
-      "url": "https://open.spotify.com/track/2HnfVsBDEesQJPcXSyB7L2"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "Platinum & Gold Collection",
         "url": "https://open.spotify.com/album/5sZeWcdXYHq9MbNDSOMqCP"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 220226,
       "name": "Tell It to My Heart",
       "url": "https://open.spotify.com/track/6jJCk7oHNwyowOUaF3gXEu"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "King Of The World",
+        "url": "https://open.spotify.com/album/5CtsuslrRP5CNsmuZQ8UIr"
+      },
+      "artists": [
+        {
+          "name": "Sheila",
+          "url": "https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu"
+        }
+      ],
+      "duration_ms": 354240,
+      "name": "Spacer",
+      "url": "https://open.spotify.com/track/2HnfVsBDEesQJPcXSyB7L2"
     },
     {
       "added_at": "2024-03-26 13:49:34",

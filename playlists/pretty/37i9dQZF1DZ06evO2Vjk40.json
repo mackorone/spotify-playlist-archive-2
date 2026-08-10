@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 727749,
+  "num_followers": 727850,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anUgAAAAAAD8XXhajORZImMSilbp9gMk",
+  "snapshot_id": "anZxgAAAAADEQwP/cqcF8L9WX/q/+Dud",
   "tracks": [
     {
       "added_at": null,
@@ -703,6 +703,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blessings and Miracles",
+        "url": "https://open.spotify.com/album/5BsYeVFVdAihPY4srh9Ac7"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 226853,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/1VGeBBGNjnscSsWToLV8cJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No.6 Collaborations Project",
         "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 209120,
       "name": "BLOW (with Chris Stapleton & Bruno Mars)",
       "url": "https://open.spotify.com/track/7hvO2qCwJVZxiyoA7c9i5d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blessings and Miracles",
-        "url": "https://open.spotify.com/album/5BsYeVFVdAihPY4srh9Ac7"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 226853,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/1VGeBBGNjnscSsWToLV8cJ"
     },
     {
       "added_at": null,

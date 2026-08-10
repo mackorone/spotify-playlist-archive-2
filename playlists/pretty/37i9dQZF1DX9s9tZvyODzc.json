@@ -1,12 +1,12 @@
 {
   "description": "Dale play y dej\u00e1 que la m\u00fasica te lleve.",
-  "num_followers": 222674,
+  "num_followers": 222723,
   "original_name": "Ruta 2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACrDlpUkUhAXR/TeQZuiDSvfxHSo",
+  "snapshot_id": "AAAAAL0Hg4aWAD5fRFu7LrH5C482SMYi",
   "tracks": [
     {
       "added_at": "2026-07-31 03:00:15",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
-        "name": "El Calor Del Pleno Invierno",
-        "url": "https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 185866,
-      "name": "Ese Maldito Momento",
-      "url": "https://open.spotify.com/track/6MuJUSYCqA4FpMogUHzb2R"
-    },
-    {
-      "added_at": "2026-07-31 03:00:15",
-      "album": {
         "name": "Sistema Nervioso Central",
         "url": "https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4"
       },
@@ -491,6 +475,22 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 316426,
+      "name": "Luna de Miel en la Mano",
+      "url": "https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv"
+    },
+    {
+      "added_at": "2026-07-31 03:00:15",
+      "album": {
         "name": "Ya hice todo mal",
         "url": "https://open.spotify.com/album/6pCHzkR50IbSRy22FHTem8"
       },
@@ -507,18 +507,18 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
-        "name": "Locura",
-        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
+        "name": "El Calor Del Pleno Invierno",
+        "url": "https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3"
       },
       "artists": [
         {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
         }
       ],
-      "duration_ms": 316426,
-      "name": "Luna de Miel en la Mano",
-      "url": "https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv"
+      "duration_ms": 185866,
+      "name": "Ese Maldito Momento",
+      "url": "https://open.spotify.com/track/6MuJUSYCqA4FpMogUHzb2R"
     },
     {
       "added_at": "2026-07-31 03:00:15",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
-        "name": "Especial",
-        "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
-      },
-      "artists": [
-        {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
-        }
-      ],
-      "duration_ms": 263653,
-      "name": "Homero",
-      "url": "https://open.spotify.com/track/3AjSUbPd7siXGOSlmXm9Nr"
-    },
-    {
-      "added_at": "2026-07-31 03:00:15",
-      "album": {
         "name": "Alta Suciedad",
         "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 264840,
       "name": "Cr\u00edmenes perfectos",
       "url": "https://open.spotify.com/track/6guoJhM9n5Fm7npXJ1rfsM"
+    },
+    {
+      "added_at": "2026-07-31 03:00:15",
+      "album": {
+        "name": "Especial",
+        "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
+      },
+      "artists": [
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        }
+      ],
+      "duration_ms": 263653,
+      "name": "Homero",
+      "url": "https://open.spotify.com/track/3AjSUbPd7siXGOSlmXm9Nr"
     },
     {
       "added_at": "2026-07-31 03:00:15",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
-        "name": "El Amor Despu\u00e9s del Amor",
-        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 281520,
-      "name": "A rodar mi vida",
-      "url": "https://open.spotify.com/track/24LCJ8C0D8kx6iplic9SDV"
-    },
-    {
-      "added_at": "2026-07-31 03:00:15",
-      "album": {
         "name": "Historias",
         "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 281920,
       "name": "Madrugada",
       "url": "https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9"
+    },
+    {
+      "added_at": "2026-07-31 03:00:15",
+      "album": {
+        "name": "El Amor Despu\u00e9s del Amor",
+        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 281520,
+      "name": "A rodar mi vida",
+      "url": "https://open.spotify.com/track/24LCJ8C0D8kx6iplic9SDV"
     },
     {
       "added_at": "2026-07-31 03:00:15",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
+        "name": "Los Dos",
+        "url": "https://open.spotify.com/album/0Ws2WWNt8G4V9O61K6eZSK"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 211440,
+      "name": "Los Dos",
+      "url": "https://open.spotify.com/track/39m0KJWhZUojRFi9k1m21E"
+    },
+    {
+      "added_at": "2026-07-31 03:00:15",
+      "album": {
         "name": "QUEMAR\u00c1S",
         "url": "https://open.spotify.com/album/2nLlI9VteZMztr78YS9DHo"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 263130,
       "name": "QUEMAR\u00c1S",
       "url": "https://open.spotify.com/track/43WrAH7AnSucEvN7HGW0BF"
-    },
-    {
-      "added_at": "2026-07-31 03:00:15",
-      "album": {
-        "name": "Los Dos",
-        "url": "https://open.spotify.com/album/0Ws2WWNt8G4V9O61K6eZSK"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 211440,
-      "name": "Los Dos",
-      "url": "https://open.spotify.com/track/39m0KJWhZUojRFi9k1m21E"
     },
     {
       "added_at": "2026-07-31 03:00:15",
@@ -1619,42 +1619,6 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
-        "name": "EL MENSAJERO",
-        "url": "https://open.spotify.com/album/4RUDd6gb0SbiptLzTBwuN8"
-      },
-      "artists": [
-        {
-          "name": "C\u00edgaro",
-          "url": "https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi"
-        },
-        {
-          "name": "Cocodrilo P&B",
-          "url": "https://open.spotify.com/artist/3PujdPptTBspp23sB8XwOo"
-        }
-      ],
-      "duration_ms": 148421,
-      "name": "EL MENSAJERO",
-      "url": "https://open.spotify.com/track/4xaA635jWzBlMROrqtaa1j"
-    },
-    {
-      "added_at": "2026-07-31 03:00:15",
-      "album": {
-        "name": "alguien que yo no es",
-        "url": "https://open.spotify.com/album/2mxwzclwG1xq9lh1dLjsFB"
-      },
-      "artists": [
-        {
-          "name": "lisandro skar",
-          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
-        }
-      ],
-      "duration_ms": 177361,
-      "name": "alguien que yo no es",
-      "url": "https://open.spotify.com/track/6bNKsd0yqRy9GNOBr8H3X5"
-    },
-    {
-      "added_at": "2026-07-31 03:00:15",
-      "album": {
         "name": "Prisionero",
         "url": "https://open.spotify.com/album/3NxfSFXY3AXan2AQ6e6PMq"
       },
@@ -1675,6 +1639,22 @@
     {
       "added_at": "2026-07-31 03:00:15",
       "album": {
+        "name": "alguien que yo no es",
+        "url": "https://open.spotify.com/album/2mxwzclwG1xq9lh1dLjsFB"
+      },
+      "artists": [
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        }
+      ],
+      "duration_ms": 177361,
+      "name": "alguien que yo no es",
+      "url": "https://open.spotify.com/track/6bNKsd0yqRy9GNOBr8H3X5"
+    },
+    {
+      "added_at": "2026-07-31 03:00:15",
+      "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/4NHFGtSS1VRupcE8Q9QyrW"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 250762,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/6xMEpjqkxXaxu8jC7HjdTe"
+    },
+    {
+      "added_at": "2026-07-31 03:00:15",
+      "album": {
+        "name": "EL MENSAJERO",
+        "url": "https://open.spotify.com/album/4RUDd6gb0SbiptLzTBwuN8"
+      },
+      "artists": [
+        {
+          "name": "C\u00edgaro",
+          "url": "https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi"
+        },
+        {
+          "name": "Cocodrilo P&B",
+          "url": "https://open.spotify.com/artist/3PujdPptTBspp23sB8XwOo"
+        }
+      ],
+      "duration_ms": 148421,
+      "name": "EL MENSAJERO",
+      "url": "https://open.spotify.com/track/4xaA635jWzBlMROrqtaa1j"
     }
   ],
   "unique_name": "Ruta 2",

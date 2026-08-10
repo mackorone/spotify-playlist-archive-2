@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Oskar Haag
 
-3,184 songs - 7 day 15 hr 31 min
+3,185 songs - 7 day 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1298,7 +1298,7 @@
 | [I Saw You I Saw Myself](https://open.spotify.com/track/5TPqWoL4YGuOGwTPYu0D0B) | [Kraków Loves Adana](https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN) | [I Saw You I Saw Myself](https://open.spotify.com/album/1oPEgMcNicmwc8lYcDd3y4) | 3:59 | 2024-09-12 | 2024-10-04 |
 | [I See A Darkness](https://open.spotify.com/track/5w8LG6HbJCtFz1YL5rYdlL) | [Alexis Taylor](https://open.spotify.com/artist/6zclVXoEfp3nFq4dOgqgOX), [Mike Simonetti](https://open.spotify.com/artist/39DBlSB32DrnRrqM6UUUsm) | [I See A Darkness / Perfect Kiss](https://open.spotify.com/album/5UQd0nOWCgO0trFdxqL4Cm) | 5:04 | 2026-06-11 | 2026-07-10 |
 | [I See A Darkness](https://open.spotify.com/track/6WXWmDC0ltuc1NPD3ZTx2B) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [I See A Darkness](https://open.spotify.com/album/1EtJZ2zWwSqYHRh3l1btZA) | 4:25 | 2025-10-23 | 2025-11-07 |
-| [I See Myself In You](https://open.spotify.com/track/7fFIi03q0VmDVirivowqVK) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [I See Myself In You](https://open.spotify.com/album/5KUwS3sFw9GNjF25MzaZrH) | 3:30 | 2026-07-09 |  |
+| [I See Myself In You](https://open.spotify.com/track/7fFIi03q0VmDVirivowqVK) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [I See Myself In You](https://open.spotify.com/album/5KUwS3sFw9GNjF25MzaZrH) | 3:30 | 2026-07-09 | 2026-08-10 |
 | [i see red](https://open.spotify.com/track/3Gg7L1NuNNhqltvDgd6VHI) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [i see red](https://open.spotify.com/album/231uuW018MqyHPEGHHjZ8C) | 2:56 | 2026-01-22 | 2026-01-30 |
 | [i still feel](https://open.spotify.com/track/72RYlFVBQvEHzvUuVUZQp0) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [i still feel](https://open.spotify.com/album/5Cnw6bG9KLKJUiCsQpSbgV) | 3:04 | 2026-06-04 | 2026-07-03 |
 | [I Wanna Be Comfortable](https://open.spotify.com/track/2m2hFaV4SwqCFIAjgYfEeZ) | [IS TROPICAL](https://open.spotify.com/artist/148ujrGRexnhpqhRiw0rDi) | [I Wanna Be Comfortable](https://open.spotify.com/album/6mtejuRqGP1GdYo27Onui4) | 3:36 | 2024-07-25 | 2024-08-16 |
@@ -2564,6 +2564,7 @@
 | [Stupid Stars](https://open.spotify.com/track/4wXtltpYBEtwbGz7065HGw) | [Hearts Hearts](https://open.spotify.com/artist/5kRhbeMGVzAciRwnQzyesH) | [Stupid Stars](https://open.spotify.com/album/7t43cWUhrxhjfskjEzKiP0) | 2:44 | 2025-07-31 | 2025-08-29 |
 | [substack girl](https://open.spotify.com/track/1KtQOlLH1dKEYVys18V3Fz) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [substack girl](https://open.spotify.com/album/21DkCT5JXgHgaVWPoaDGTl) | 2:40 | 2026-02-05 | 2026-02-27 |
 | [subtle silver silhouette](https://open.spotify.com/track/22gOcLACadfcX1BL4cCyFk) | [nothhingspecial](https://open.spotify.com/artist/1GDKz5zXC9NCTA2ViXPv02) | [subtle silver silhouette](https://open.spotify.com/album/3TyDFNQMsozOH5Ku53p6Fj) | 4:21 | 2026-06-18 | 2026-07-17 |
+| [Suburbs](https://open.spotify.com/track/6HNQqRM14nzTMDYmBqqOqF) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Suburbs](https://open.spotify.com/album/54Vq6zipxJGkXCS6Mlkdkw) | 2:33 | 2026-08-09 |  |
 | [Suburbs](https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Suburbs](https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9) | 3:04 | 2025-07-10 | 2025-08-09 |
 | [Such Great Heights \- From "Tell Me Lies \(Season 3\)"](https://open.spotify.com/track/2UJ5jlXlRkBx4dyVGIEGc0) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Such Great Heights \[From "Tell Me Lies \(Season 3\)"\]](https://open.spotify.com/album/3Qabstvdx4TfWujTzy5Gee) | 4:27 | 2026-02-19 | 2026-03-20 |
 | [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 | 2025-02-06 | 2025-02-28 |

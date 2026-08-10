@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ay Jalisco no te rajes! As\u00ed suena la Perla de Occidente.",
-  "num_followers": 131948,
+  "num_followers": 131943,
   "original_name": "Coraz\u00f3n Tapat\u00edo",
   "owner": {
     "name": "Spotify",
@@ -783,18 +783,22 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "Soy Tuyo",
-        "url": "https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80"
+        "name": "Radiolatina",
+        "url": "https://open.spotify.com/album/4kOoLLy7kKzoLnrO8Q8Vx1"
       },
       "artists": [
         {
-          "name": "Blnko",
-          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+          "name": "Sussie 4",
+          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
+        },
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
         }
       ],
-      "duration_ms": 159227,
-      "name": "Soy Tuyo",
-      "url": "https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3"
+      "duration_ms": 246906,
+      "name": "Mucho Coraz\u00f3n - Versi\u00f3n Radio",
+      "url": "https://open.spotify.com/track/51Xow1jLPXLvO6qIgagHIj"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -815,22 +819,18 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "Radiolatina",
-        "url": "https://open.spotify.com/album/4kOoLLy7kKzoLnrO8Q8Vx1"
+        "name": "Soy Tuyo",
+        "url": "https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80"
       },
       "artists": [
         {
-          "name": "Sussie 4",
-          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
-        },
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
         }
       ],
-      "duration_ms": 246906,
-      "name": "Mucho Coraz\u00f3n - Versi\u00f3n Radio",
-      "url": "https://open.spotify.com/track/51Xow1jLPXLvO6qIgagHIj"
+      "duration_ms": 159227,
+      "name": "Soy Tuyo",
+      "url": "https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
+        "name": "Red Album",
+        "url": "https://open.spotify.com/album/24erdgo3hVMpIOy6mQMGse"
+      },
+      "artists": [
+        {
+          "name": "Sussie 4",
+          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
+        }
+      ],
+      "duration_ms": 197226,
+      "name": "Can U Feel Me?",
+      "url": "https://open.spotify.com/track/3tArBIGOkkeJWRGCV6uaYk"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
         "name": "Explotar",
         "url": "https://open.spotify.com/album/5jLGn7aHYTJm18dyDbj3hL"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 225773,
       "name": "Todo Con Exceso",
       "url": "https://open.spotify.com/track/7GoWrG8SMUgNQOK5P7gyFX"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
-        "name": "Red Album",
-        "url": "https://open.spotify.com/album/24erdgo3hVMpIOy6mQMGse"
-      },
-      "artists": [
-        {
-          "name": "Sussie 4",
-          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
-        }
-      ],
-      "duration_ms": 197226,
-      "name": "Can U Feel Me?",
-      "url": "https://open.spotify.com/track/3tArBIGOkkeJWRGCV6uaYk"
     },
     {
       "added_at": "2026-06-08 22:39:48",

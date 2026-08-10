@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 118264,
+  "num_followers": 118272,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anUgAAAAAADWzZmq6RsJZJC29CLLsAKs",
+  "snapshot_id": "anZxgAAAAAAmFTKlgm20MUgwVuoiMoJD",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Tiempos De Aguas",
-        "url": "https://open.spotify.com/album/3qkTV5ACxd8GmvLnt1wxtS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 170004,
-      "name": "El Bolas",
-      "url": "https://open.spotify.com/track/5gP4fy4hP3TSyh6nuE25wB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Nueva Versi\u00f3n",
         "url": "https://open.spotify.com/album/3P1UMzb7EjxZsm3eTnYz6L"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 163034,
       "name": "Mi Nueva Versi\u00f3n",
       "url": "https://open.spotify.com/track/7iNDZjyrVBlCgdVF3PCpDf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Tiempos De Aguas",
+        "url": "https://open.spotify.com/album/3qkTV5ACxd8GmvLnt1wxtS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 170004,
+      "name": "El Bolas",
+      "url": "https://open.spotify.com/track/5gP4fy4hP3TSyh6nuE25wB"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 180047,
-      "name": "El Chapio",
-      "url": "https://open.spotify.com/track/6GQB3NPE3K8klw6ONwhXx8"
+      "duration_ms": 208890,
+      "name": "Los Mitotes",
+      "url": "https://open.spotify.com/track/5GgXwsZ0kXws86Ui3LL7vi"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 208890,
-      "name": "Los Mitotes",
-      "url": "https://open.spotify.com/track/5GgXwsZ0kXws86Ui3LL7vi"
+      "duration_ms": 180047,
+      "name": "El Chapio",
+      "url": "https://open.spotify.com/track/6GQB3NPE3K8klw6ONwhXx8"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "San Lucas",
+        "url": "https://open.spotify.com/album/5Yskk2DcFtwcUo0C1XHRcU"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/0tY1AQYjy5sucb4LoZjWtP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ya No Puedo Con Esto",
         "url": "https://open.spotify.com/album/0qkgWGO8CiNBF5R4TFoPVs"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 149952,
       "name": "Ya No Puedo Con Esto",
       "url": "https://open.spotify.com/track/5I7jr90pZABC2IOj7ElLQO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puras De Servando ZL (En Vivo)",
-        "url": "https://open.spotify.com/album/1ui4Jxl8OkWi7GaKnkyYGU"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "El Sultan",
-      "url": "https://open.spotify.com/track/4f1M1VZzl83tWeV6CyBGLj"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
       "duration_ms": 179171,
       "name": "Que las Cuartitos No Falten",
       "url": "https://open.spotify.com/track/6cOCAVRpC5ATUOStqdhhtP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puras De Servando ZL (En Vivo)",
+        "url": "https://open.spotify.com/album/1ui4Jxl8OkWi7GaKnkyYGU"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "El Sultan",
+      "url": "https://open.spotify.com/track/4f1M1VZzl83tWeV6CyBGLj"
     },
     {
       "added_at": null,
@@ -851,26 +867,6 @@
       "duration_ms": 169318,
       "name": "La Muchacha Del Salado",
       "url": "https://open.spotify.com/track/1Udcd4xgzWNli9mKrtZKbW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ra\u00edces de Acero",
-        "url": "https://open.spotify.com/album/0YjOVBSJx2XHYN9m7hdqlG"
-      },
-      "artists": [
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 160325,
-      "name": "Me Preparaste Para Todo",
-      "url": "https://open.spotify.com/track/0bRsRqYTxqOXPtlRVfwOX9"
     }
   ],
   "unique_name": "This Is Grupo Arriesgado",

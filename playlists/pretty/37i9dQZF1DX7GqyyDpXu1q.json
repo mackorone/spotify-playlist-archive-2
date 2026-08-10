@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: The Black Crowes",
-  "num_followers": 95516,
+  "num_followers": 95511,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -343,18 +343,18 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "three twenty four",
-        "url": "https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc"
+        "name": "Tabasco & Sweet Tea",
+        "url": "https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA"
       },
       "artists": [
         {
-          "name": "Ole 60",
-          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
+          "name": "The Cadillac Three",
+          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
         }
       ],
-      "duration_ms": 189048,
-      "name": "smoke & a light",
-      "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
+      "duration_ms": 280065,
+      "name": "Tabasco & Sweet Tea",
+      "url": "https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Tabasco & Sweet Tea",
-        "url": "https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA"
-      },
-      "artists": [
-        {
-          "name": "The Cadillac Three",
-          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
-        }
-      ],
-      "duration_ms": 280065,
-      "name": "Tabasco & Sweet Tea",
-      "url": "https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 303593,
       "name": "Broken Horses",
       "url": "https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "three twenty four",
+        "url": "https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc"
+      },
+      "artists": [
+        {
+          "name": "Ole 60",
+          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
+        }
+      ],
+      "duration_ms": 189048,
+      "name": "smoke & a light",
+      "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -959,30 +959,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Holy Ghost (feat. Jon Harvey [Monster Truck])",
-        "url": "https://open.spotify.com/album/03EAJNTCPNeCynFUhUrgye"
-      },
-      "artists": [
-        {
-          "name": "The Picturebooks",
-          "url": "https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo"
-        },
-        {
-          "name": "Jon Harvey",
-          "url": "https://open.spotify.com/artist/2zYl9bqiHYkqxIcrkJE4WN"
-        },
-        {
-          "name": "Monster Truck",
-          "url": "https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu"
-        }
-      ],
-      "duration_ms": 220480,
-      "name": "Holy Ghost (feat. Jon Harvey [Monster Truck])",
-      "url": "https://open.spotify.com/track/7CaZXMfKtmBwTXqz9fZQEC"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "In Your Hands (feat. Don Miggs and Zane Carney)",
         "url": "https://open.spotify.com/album/1EYgsan8PK3XiINKNSO4ht"
       },
@@ -1007,18 +983,26 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Break My Heart",
-        "url": "https://open.spotify.com/album/1wOvsBCKijqgU7cFkkDHOq"
+        "name": "Holy Ghost (feat. Jon Harvey [Monster Truck])",
+        "url": "https://open.spotify.com/album/03EAJNTCPNeCynFUhUrgye"
       },
       "artists": [
         {
-          "name": "Them Dirty Roses",
-          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
+          "name": "The Picturebooks",
+          "url": "https://open.spotify.com/artist/5L8u4AcYBOnxAtRrluOjKo"
+        },
+        {
+          "name": "Jon Harvey",
+          "url": "https://open.spotify.com/artist/2zYl9bqiHYkqxIcrkJE4WN"
+        },
+        {
+          "name": "Monster Truck",
+          "url": "https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu"
         }
       ],
-      "duration_ms": 254082,
-      "name": "Break My Heart",
-      "url": "https://open.spotify.com/track/3njCj24qFzep7tAhiJSYTZ"
+      "duration_ms": 220480,
+      "name": "Holy Ghost (feat. Jon Harvey [Monster Truck])",
+      "url": "https://open.spotify.com/track/7CaZXMfKtmBwTXqz9fZQEC"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -1039,6 +1023,22 @@
       "duration_ms": 214881,
       "name": "Interstate Cowboy",
       "url": "https://open.spotify.com/track/3c2RQ6N405f59qatt86lPS"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "Break My Heart",
+        "url": "https://open.spotify.com/album/1wOvsBCKijqgU7cFkkDHOq"
+      },
+      "artists": [
+        {
+          "name": "Them Dirty Roses",
+          "url": "https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6"
+        }
+      ],
+      "duration_ms": 254082,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/3njCj24qFzep7tAhiJSYTZ"
     },
     {
       "added_at": "2026-04-10 16:28:54",

@@ -4,7 +4,7 @@
 
 > The best in classic and contemporary Reggae\. Cover: Protoje
 
-497 songs - 1 day 7 hr 21 min
+498 songs - 1 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Chill Out](https://open.spotify.com/track/4bLXcbMmmM4aAuhALEfyD7) | [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Chill Out](https://open.spotify.com/album/4Lv1cH9BHvIpCzaP5LNusL) | 4:02 | 2021-10-18 |  |
 | [Cocody Rock](https://open.spotify.com/track/3LTJjpjOGt6lW8TaenjHlr) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Best Of](https://open.spotify.com/album/0kgrabkcDrHLFf2296GzIF) | 4:53 | 2022-06-20 | 2022-09-26 |
 | [Cocody Rock](https://open.spotify.com/track/2ocFan1CsWNJqdaIdv2Uux) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG), [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Cocodi Rock !!! \- Remastered Edition](https://open.spotify.com/album/19PEEkcZKlFpiDLi8KSnom) | 4:54 | 2022-10-13 | 2023-09-03 |
-| [Cocody Rock](https://open.spotify.com/track/7wimjp5W96jhlIMblyBJmq) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE), [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Cocodi Rock !!! \- Remastered Edition](https://open.spotify.com/album/1t7PXlZc0yy5fCNxoTkeLR) | 4:54 | 2021-10-18 |  |
+| [Cocody Rock](https://open.spotify.com/track/7wimjp5W96jhlIMblyBJmq) | [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE), [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Cocodi Rock !!! \- Remastered Edition](https://open.spotify.com/album/1t7PXlZc0yy5fCNxoTkeLR) | 4:54 | 2021-10-18 | 2026-08-10 |
 | [Cocody Rock \- 2010 Remastered Edition](https://open.spotify.com/track/1NbHlnoQbLMMy07BxJK5EP) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG), [The Wailers](https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE) | [Cocody Rock !!! \(2010 Remastered Edition\)](https://open.spotify.com/album/0XCUj5oCpYC2GZZGGh7iVg) | 4:54 | 2023-06-08 | 2024-04-19 |
 | [COCONUT WATA \(SIP\)](https://open.spotify.com/track/6ZNzOXz18cAPpWOehFINzo) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [COCONUT WATA \(SIP\)](https://open.spotify.com/album/3B8Uek8SQsTqZEdEjjWKWU) | 3:05 | 2023-06-08 | 2025-02-17 |
 | [Cold & Clear](https://open.spotify.com/track/40bhrR8iRfr1RfMUsHbGNH) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Cold & Clear](https://open.spotify.com/album/08ON867DuEeQi8HzI7mZID) | 3:16 | 2021-10-18 | 2022-07-29 |
@@ -109,6 +109,7 @@
 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 | 2021-10-18 | 2023-11-04 |
 | [Don't Give Up](https://open.spotify.com/track/4VC6Ihh1epJiQPiiMpJXDE) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/05JkJkbziKzfr0wOFA4iFJ) | 3:18 | 2023-06-08 | 2024-04-19 |
 | [Don't Show Off](https://open.spotify.com/track/6g1OFTxXHuWE1kJQ8qlXhH) | [Willi Williams](https://open.spotify.com/artist/2ZC3u6r4u6ELXjiAjI6qNe), [Roberto Sanchez](https://open.spotify.com/artist/0YZyBm5ikMVwt7ulExBTPk) | [Don't Show Off](https://open.spotify.com/album/7iQGwbsoke1zy9TXtXrWhm) | 4:00 | 2025-05-30 |  |
+| [Dreadlock Holiday](https://open.spotify.com/track/5AW06u82yN9agtQlINqny5) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [70's Pop](https://open.spotify.com/album/24VKBqI1pzR94n26Ugpk6V) | 4:27 | 2026-04-23 |  |
 | [Dreadlock Holiday](https://open.spotify.com/track/1LOZMYF5s8qhW7Rv4w2gun) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [Bloody Tourists](https://open.spotify.com/album/3MecVG0PeBObAhjwEAczFG) | 4:27 | 2022-06-20 | 2024-04-19 |
 | [Dream Land](https://open.spotify.com/track/1haHZa75ytryLGUOtHiGl5) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Blackheart Man](https://open.spotify.com/album/0Z3LzsnqFDWU10sTu31Cfm) | 2:45 | 2021-10-18 | 2022-07-29 |
 | [Dream Land](https://open.spotify.com/track/7vp89zcbYncoBCbX5HA3tZ) | [Bunny Wailer](https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC) | [Blackheart Man](https://open.spotify.com/album/45Ae5UMjDuXNXot7PvJCjr) | 2:46 | 2022-06-20 | 2024-04-19 |

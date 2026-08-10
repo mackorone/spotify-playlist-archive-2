@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from FLO, Ernie Zakri, Stray Kids, Red Velvet, 蔡恩雨 Priscilla Abby, Layla Sania, Vanessa Reynauld, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,142 likes - 88 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,136 likes - 88 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

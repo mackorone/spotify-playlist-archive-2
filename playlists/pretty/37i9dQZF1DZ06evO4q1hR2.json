@@ -1,12 +1,12 @@
 {
   "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
-  "num_followers": 81955,
+  "num_followers": 81970,
   "original_name": "This Is El Coyote Y Su Banda Tierra Santa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anUgAAAAAAAfoD1y+QOVvQXSlMIaYNBC",
+  "snapshot_id": "anZxgAAAAABizH/V8G9yf8aHYOJATcyg",
   "tracks": [
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Profundamente",
-        "url": "https://open.spotify.com/album/78HIF5oTYm7ouvaMvFyz7i"
+        "name": "Levanta Tu Vuelo",
+        "url": "https://open.spotify.com/album/3ZYwlE2KKfBSEdxCci9BfQ"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 227973,
-      "name": "No Puedo Olvidar Tu Voz",
-      "url": "https://open.spotify.com/track/0dcmh8adgSXu94G9N0Eunt"
+      "duration_ms": 165067,
+      "name": "No Le Digas a Nadie",
+      "url": "https://open.spotify.com/track/4QcsreWoGAxgvpnsFkpJvU"
     },
     {
       "added_at": null,
@@ -291,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Levanta Tu Vuelo",
-        "url": "https://open.spotify.com/album/3ZYwlE2KKfBSEdxCci9BfQ"
+        "name": "Profundamente",
+        "url": "https://open.spotify.com/album/78HIF5oTYm7ouvaMvFyz7i"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 165067,
-      "name": "No Le Digas a Nadie",
-      "url": "https://open.spotify.com/track/4QcsreWoGAxgvpnsFkpJvU"
+      "duration_ms": 227973,
+      "name": "No Puedo Olvidar Tu Voz",
+      "url": "https://open.spotify.com/track/0dcmh8adgSXu94G9N0Eunt"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Susanne Sundfør
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,476 likes - 330 songs - 18 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,475 likes - 330 songs - 18 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

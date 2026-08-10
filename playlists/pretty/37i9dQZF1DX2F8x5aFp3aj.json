@@ -1,6 +1,6 @@
 {
   "description": "Revive aquellos tiempos de new wave, post-punk y sentimientos decadentes. The Cure en portada.",
-  "num_followers": 270106,
+  "num_followers": 270192,
   "original_name": "Oscuros 80",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-09-25 15:15:36",
       "album": {
-        "name": "The Singles 86-98",
-        "url": "https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 225880,
-      "name": "Strangelove",
-      "url": "https://open.spotify.com/track/6ZCyDN2ArlWB4GKAj644Cd"
-    },
-    {
-      "added_at": "2025-09-25 15:15:36",
-      "album": {
         "name": "The Best Of Men At Work: Contraband",
         "url": "https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 220866,
       "name": "Down Under",
       "url": "https://open.spotify.com/track/46RVKt5Edm1zl0rXhPJZxz"
+    },
+    {
+      "added_at": "2025-09-25 15:15:36",
+      "album": {
+        "name": "The Singles 86-98",
+        "url": "https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 225880,
+      "name": "Strangelove",
+      "url": "https://open.spotify.com/track/6ZCyDN2ArlWB4GKAj644Cd"
     },
     {
       "added_at": "2025-09-25 15:15:36",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-09-25 15:15:36",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 256533,
-      "name": "Dancing Barefoot",
-      "url": "https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf"
-    },
-    {
-      "added_at": "2025-09-25 15:15:36",
-      "album": {
         "name": "Drums And Wires",
         "url": "https://open.spotify.com/album/4S6y2iTYbGONSlNJHYyrVl"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 253800,
       "name": "Making Plans For Nigel",
       "url": "https://open.spotify.com/track/1XT5kxg6Tk0ukCO2vBQN4v"
+    },
+    {
+      "added_at": "2025-09-25 15:15:36",
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 256533,
+      "name": "Dancing Barefoot",
+      "url": "https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf"
     },
     {
       "added_at": "2025-09-25 15:15:36",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-09-25 15:15:36",
       "album": {
-        "name": "All Four One (Remastered 1999)",
-        "url": "https://open.spotify.com/album/1HRjCO61kfHWX3Atps1lQz"
-      },
-      "artists": [
-        {
-          "name": "The Motels",
-          "url": "https://open.spotify.com/artist/6scOultrkXrQsClcbGKM7e"
-        }
-      ],
-      "duration_ms": 196200,
-      "name": "Only The Lonely - Remastered 1999",
-      "url": "https://open.spotify.com/track/1BZMMt9H0TheQGWQy44KmO"
-    },
-    {
-      "added_at": "2025-09-25 15:15:36",
-      "album": {
         "name": "Hyaena (Remastered And Expanded)",
         "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 228200,
       "name": "Dear Prudence",
       "url": "https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW"
+    },
+    {
+      "added_at": "2025-09-25 15:15:36",
+      "album": {
+        "name": "All Four One (Remastered 1999)",
+        "url": "https://open.spotify.com/album/1HRjCO61kfHWX3Atps1lQz"
+      },
+      "artists": [
+        {
+          "name": "The Motels",
+          "url": "https://open.spotify.com/artist/6scOultrkXrQsClcbGKM7e"
+        }
+      ],
+      "duration_ms": 196200,
+      "name": "Only The Lonely - Remastered 1999",
+      "url": "https://open.spotify.com/track/1BZMMt9H0TheQGWQy44KmO"
     },
     {
       "added_at": "2025-09-25 15:15:36",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-09-25 15:15:36",
       "album": {
-        "name": "London Town 1983-1993",
-        "url": "https://open.spotify.com/album/5K5vUTocXxi9OTkSDQEbx8"
-      },
-      "artists": [
-        {
-          "name": "The The",
-          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
-        }
-      ],
-      "duration_ms": 297066,
-      "name": "This Is the Day",
-      "url": "https://open.spotify.com/track/5O7RVmqK3AYoFfyeafxOqH"
-    },
-    {
-      "added_at": "2025-09-25 15:15:36",
-      "album": {
         "name": "Juju",
         "url": "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 185946,
       "name": "Arabian Knights",
       "url": "https://open.spotify.com/track/2o1Deu2r99ZkkQwQ27LnZd"
+    },
+    {
+      "added_at": "2025-09-25 15:15:36",
+      "album": {
+        "name": "London Town 1983-1993",
+        "url": "https://open.spotify.com/album/5K5vUTocXxi9OTkSDQEbx8"
+      },
+      "artists": [
+        {
+          "name": "The The",
+          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
+        }
+      ],
+      "duration_ms": 297066,
+      "name": "This Is the Day",
+      "url": "https://open.spotify.com/track/5O7RVmqK3AYoFfyeafxOqH"
     },
     {
       "added_at": "2025-09-25 15:15:36",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2025-09-25 15:15:36",
       "album": {
-        "name": "The B-52's",
-        "url": "https://open.spotify.com/album/3eXETk1esvZPRluDCWH3GN"
+        "name": "The Joshua Tree",
+        "url": "https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3"
       },
       "artists": [
         {
-          "name": "The B-52's",
-          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 277640,
-      "name": "Planet Claire",
-      "url": "https://open.spotify.com/track/5aC0QmgjYGG8QYgAg06nTk"
+      "duration_ms": 277480,
+      "name": "I Still Haven't Found What I'm Looking For - Remastered 2007",
+      "url": "https://open.spotify.com/track/72AO8u6lcjKp0CBeaPZT8I"
     },
     {
       "added_at": "2025-09-25 15:15:36",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2025-09-25 15:15:36",
       "album": {
-        "name": "The Joshua Tree",
-        "url": "https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3"
+        "name": "The B-52's",
+        "url": "https://open.spotify.com/album/3eXETk1esvZPRluDCWH3GN"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "The B-52's",
+          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
         }
       ],
-      "duration_ms": 277480,
-      "name": "I Still Haven't Found What I'm Looking For - Remastered 2007",
-      "url": "https://open.spotify.com/track/72AO8u6lcjKp0CBeaPZT8I"
+      "duration_ms": 277640,
+      "name": "Planet Claire",
+      "url": "https://open.spotify.com/track/5aC0QmgjYGG8QYgAg06nTk"
     },
     {
       "added_at": "2025-09-25 15:15:36",
@@ -1171,6 +1171,22 @@
       "duration_ms": 261687,
       "name": "Tears Run Rings",
       "url": "https://open.spotify.com/track/7jEQ43V8AA7UQ6NcG4x1ki"
+    },
+    {
+      "added_at": "2025-09-25 15:15:36",
+      "album": {
+        "name": "War (Remastered)",
+        "url": "https://open.spotify.com/album/6GaqU0TlYBKHUiSJ0AT9A2"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 335613,
+      "name": "New Year's Day - Remastered 2008",
+      "url": "https://open.spotify.com/track/4vvj5hekeftc4l64fLmOYJ"
     },
     {
       "added_at": "2025-09-25 15:15:36",
@@ -1211,22 +1227,6 @@
       "duration_ms": 255706,
       "name": "When Tomorrow Comes",
       "url": "https://open.spotify.com/track/6UmFGunWzNoe7gSS3JW90v"
-    },
-    {
-      "added_at": "2025-09-25 15:15:36",
-      "album": {
-        "name": "War (Remastered)",
-        "url": "https://open.spotify.com/album/6GaqU0TlYBKHUiSJ0AT9A2"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 335613,
-      "name": "New Year's Day - Remastered 2008",
-      "url": "https://open.spotify.com/track/4vvj5hekeftc4l64fLmOYJ"
     }
   ],
   "unique_name": "Oscuros 80",

@@ -1,12 +1,12 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 298536,
+  "num_followers": 298515,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE4WGzma/7o3fLJPukxA1fcskI10",
+  "snapshot_id": "AAAAALVVwpXSVGhHiHkZJ58YlHF14baI",
   "tracks": [
     {
       "added_at": "2026-07-31 11:51:02",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-07-31 11:51:02",
       "album": {
+        "name": "L'AMOUR C'EST COOL",
+        "url": "https://open.spotify.com/album/6XHfjkgn0gFB8LB16VFLyq"
+      },
+      "artists": [
+        {
+          "name": "Odetto",
+          "url": "https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF"
+        }
+      ],
+      "duration_ms": 174419,
+      "name": "L'AMOUR C'EST COOL",
+      "url": "https://open.spotify.com/track/5ahSaMam2jWCSr0AduW8Hd"
+    },
+    {
+      "added_at": "2026-07-31 11:51:02",
+      "album": {
         "name": "All The Feels",
         "url": "https://open.spotify.com/album/04Si32XoV0WYgBMlX6q8xH"
       },
@@ -903,18 +919,18 @@
     {
       "added_at": "2026-07-31 11:51:02",
       "album": {
-        "name": "L'AMOUR C'EST COOL",
-        "url": "https://open.spotify.com/album/6XHfjkgn0gFB8LB16VFLyq"
+        "name": "Give Me More",
+        "url": "https://open.spotify.com/album/42jsuMoNdmTPbr8msasO8e"
       },
       "artists": [
         {
-          "name": "Odetto",
-          "url": "https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF"
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
         }
       ],
-      "duration_ms": 174419,
-      "name": "L'AMOUR C'EST COOL",
-      "url": "https://open.spotify.com/track/5ahSaMam2jWCSr0AduW8Hd"
+      "duration_ms": 190745,
+      "name": "Give Me More",
+      "url": "https://open.spotify.com/track/5NDtRNvnSdbGGAWRqDGMSZ"
     },
     {
       "added_at": "2026-07-31 11:51:02",
@@ -931,22 +947,6 @@
       "duration_ms": 196360,
       "name": "Promises",
       "url": "https://open.spotify.com/track/3rMpx4dIw5OeouWZsc2Ql5"
-    },
-    {
-      "added_at": "2026-07-31 11:51:02",
-      "album": {
-        "name": "Give Me More",
-        "url": "https://open.spotify.com/album/42jsuMoNdmTPbr8msasO8e"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 190745,
-      "name": "Give Me More",
-      "url": "https://open.spotify.com/track/5NDtRNvnSdbGGAWRqDGMSZ"
     },
     {
       "added_at": "2026-07-31 11:51:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Bruce Liu
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,896 likes - 92 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,911 likes - 92 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

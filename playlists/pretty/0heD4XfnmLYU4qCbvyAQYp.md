@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,756 likes - 59 songs - 3 hr 44 min
+[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,754 likes - 61 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,5 +67,7 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 | 57 | [Eyes Closed](https://open.spotify.com/track/6X12EdM1tB2fPOjlwTIFul) | [Half Open Tales](https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO) | [Eyes Closed](https://open.spotify.com/album/0jsMmLjYnphdPmOBgiAuvV) | 3:17 |
 | 58 | [No Way Out](https://open.spotify.com/track/7bqpJArivuugIHtOWnPWPf) | [DH Litra](https://open.spotify.com/artist/3BPt1GOuVCLI4qdCAJvv47) | [No Way Out](https://open.spotify.com/album/7xObv5MyYgaSJirgoBPmDa) | 3:08 |
 | 59 | [Still Here](https://open.spotify.com/track/5bAdS7FIyNwWxitOWY6XTu) | [Long Before Sunday](https://open.spotify.com/artist/0KZx907RBfXzptJlIyFrGi) | [Still Here](https://open.spotify.com/album/0JBrgQlWV3rHV3zkWD9uga) | 4:24 |
+| 60 | [Guau Guau](https://open.spotify.com/track/6c63incVIBg4FCtvxFUqZX) | [Nico Tallac](https://open.spotify.com/artist/7afY95ejJDhYH50Ce2mgsT) | [En Fin](https://open.spotify.com/album/4nZsWk64LWVpk3Dui3czf8) | 4:32 |
+| 61 | [The Other Side](https://open.spotify.com/track/1zuRRBvbWoZxwMdbchaR30) | [Sammy Vulcano](https://open.spotify.com/artist/1L3MIDDjLX2WaGGEv1bWCW) | [The Other Side](https://open.spotify.com/album/3GUpTkiyxktNs6yGJnF2rV) | 2:48 |
 
-Snapshot ID: `AAAO6NlPkau/GMRjdUYLEKRYTFy1cA7N`
+Snapshot ID: `AAAO6lMBAOg4ii/tZGLQDPiwMj98YXSM`

@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zarape. The essential tracks, all in one playlist.",
-  "num_followers": 1743,
+  "num_followers": 1745,
   "original_name": "This Is Banda Zarape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anUgAAAAAAADYNvgsBK88bqcLcDW1YFj",
+  "snapshot_id": "anZxgAAAAABIWtwSauRhmGm1TSMoQcmE",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TODO MUNDO A BAILAR",
-        "url": "https://open.spotify.com/album/2ViInMyOmHTS2QPK83Vkwv"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "TODO MUNDO A BAILAR",
-      "url": "https://open.spotify.com/track/0KGOKIeuWlL3TCRRECdS21"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SE BAILA AS\u00cd",
         "url": "https://open.spotify.com/album/1p14Am9g2XTlsaAJzCUP5z"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 200513,
       "name": "SE BAILA AS\u00cd",
       "url": "https://open.spotify.com/track/4RXFQefdpwxYX26z95SjFm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TODO MUNDO A BAILAR",
+        "url": "https://open.spotify.com/album/2ViInMyOmHTS2QPK83Vkwv"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "TODO MUNDO A BAILAR",
+      "url": "https://open.spotify.com/track/0KGOKIeuWlL3TCRRECdS21"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piensa en Mi",
-        "url": "https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 200760,
-      "name": "Que Bonita Te Ves",
-      "url": "https://open.spotify.com/track/3uqtKci9LebHux8xSzzdtv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Popurr\u00ed",
         "url": "https://open.spotify.com/album/6oFY7iqrjHUg8lzyNYORyC"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 645067,
       "name": "Popurr\u00ed",
       "url": "https://open.spotify.com/track/64ffk6yPKFyOGOsKWHXuzy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piensa en Mi",
+        "url": "https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 200760,
+      "name": "Que Bonita Te Ves",
+      "url": "https://open.spotify.com/track/3uqtKci9LebHux8xSzzdtv"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piensa en Mi",
-        "url": "https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "La Crisis",
-      "url": "https://open.spotify.com/track/6AAknfeUdGdqOVUEXtjOP7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puras de Lazo y Reata",
         "url": "https://open.spotify.com/album/6U69aIpRrAyu0XiRX6eBr0"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 147400,
       "name": "Y Nos Dieron las Diez",
       "url": "https://open.spotify.com/track/2OvyHVRTNlzoWVXC8dvQWf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piensa en Mi",
+        "url": "https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "La Crisis",
+      "url": "https://open.spotify.com/track/6AAknfeUdGdqOVUEXtjOP7"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Pachanga",
-        "url": "https://open.spotify.com/album/3gGXqROt966AxFB6rZZFjr"
+        "name": "Piensa en Mi",
+        "url": "https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 160600,
-      "name": "Con Cachete, Pechito y Ombligo",
-      "url": "https://open.spotify.com/track/7oOUcy1kdApoVieDcOqWtS"
+      "duration_ms": 187266,
+      "name": "La Bomba Caliente",
+      "url": "https://open.spotify.com/track/0dycKlw9ncvadhn0RuEizp"
     }
   ],
   "unique_name": "This Is Banda Zarape",

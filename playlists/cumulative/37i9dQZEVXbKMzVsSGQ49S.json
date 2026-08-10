@@ -16455,6 +16455,24 @@
     },
     {
       "album": {
+        "name": "El milagro de tenerte",
+        "url": "https://open.spotify.com/album/2ewdYiYK08glYbH6ZWeVgb"
+      },
+      "artists": [
+        {
+          "name": "Bruno Danzza",
+          "url": "https://open.spotify.com/artist/4LHFxtLcyAryRJKJHKeFZy"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208608,
+      "name": "El milagro de tenerte",
+      "url": "https://open.spotify.com/track/4fyCY6UM8GlSVEntWO1KLD"
+    },
+    {
+      "album": {
         "name": "Upper Hutt",
         "url": "https://open.spotify.com/album/7H56yywRkyGFrMVy8cY6zs"
       },
@@ -24663,6 +24681,24 @@
     },
     {
       "album": {
+        "name": "Hava Nagila",
+        "url": "https://open.spotify.com/album/3P3JxJeonJCosD5E3ok4pj"
+      },
+      "artists": [
+        {
+          "name": "Sunrise Deep",
+          "url": "https://open.spotify.com/artist/4j4GOqWeg637YGWAczZCIy"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206360,
+      "name": "Hava Nagila",
+      "url": "https://open.spotify.com/track/0FRwqcOhrijgeT4yJHyoVC"
+    },
+    {
+      "album": {
         "name": "A Jolly Christmas From Frank Sinatra",
         "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
       },
@@ -26996,7 +27032,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 165975,
       "name": "Hugsa alltof miki\u00f0 um \u00feig",
       "url": "https://open.spotify.com/track/2P9Q4Cnqe2XGkW4P6k0USl"
@@ -35612,7 +35648,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -46902,7 +46938,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 339893,
       "name": "Rein Me In (with Olivia Dean)",
       "url": "https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV"
@@ -53360,7 +53396,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 240106,
       "name": "Stingum Af",
       "url": "https://open.spotify.com/track/0yltFzTFI64tr5aNVc2isX"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 『ILLIT LIVE 'PRESS START︎︎❤' in JAPAN』のメンバーボイス入りセットリスト
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,453 likes - 26 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,451 likes - 26 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

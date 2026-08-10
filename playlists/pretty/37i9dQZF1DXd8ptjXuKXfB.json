@@ -1,6 +1,6 @@
 {
   "description": "A legmen\u0151bb \u00e9s legtrendibb dalok egy helyen \ud83d\udd25\ud83d\udd25\ud83d\udd25",
-  "num_followers": 32792,
+  "num_followers": 32798,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -571,18 +571,30 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
-        "name": "De\u00e1k Ferenc",
-        "url": "https://open.spotify.com/album/0Iz9AykGeXueVYNburpmYz"
+        "name": "ALL NIGHT",
+        "url": "https://open.spotify.com/album/7f6h07e7uMJ86dRRi5L1FV"
       },
       "artists": [
         {
-          "name": "mollywood",
-          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
+          "name": "VALMAR",
+          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
+        },
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        },
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
         }
       ],
-      "duration_ms": 154176,
-      "name": "De\u00e1k Ferenc",
-      "url": "https://open.spotify.com/track/3g74RtlTrykdLNebTNmChG"
+      "duration_ms": 144666,
+      "name": "ALL NIGHT",
+      "url": "https://open.spotify.com/track/2dRgO9rNrv4RwS5XNlheoV"
     },
     {
       "added_at": "2026-07-20 14:25:42",
@@ -627,30 +639,18 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
-        "name": "ALL NIGHT",
-        "url": "https://open.spotify.com/album/7f6h07e7uMJ86dRRi5L1FV"
+        "name": "De\u00e1k Ferenc",
+        "url": "https://open.spotify.com/album/0Iz9AykGeXueVYNburpmYz"
       },
       "artists": [
         {
-          "name": "VALMAR",
-          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
-        },
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        },
-        {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        },
-        {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+          "name": "mollywood",
+          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
         }
       ],
-      "duration_ms": 144666,
-      "name": "ALL NIGHT",
-      "url": "https://open.spotify.com/track/2dRgO9rNrv4RwS5XNlheoV"
+      "duration_ms": 154176,
+      "name": "De\u00e1k Ferenc",
+      "url": "https://open.spotify.com/track/3g74RtlTrykdLNebTNmChG"
     },
     {
       "added_at": "2026-07-20 14:25:42",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
-        "name": "SZABADS\u00c1G, SZERELEM",
-        "url": "https://open.spotify.com/album/38npepjPH9n2tLg3pJrjhq"
-      },
-      "artists": [
-        {
-          "name": "Mehringer",
-          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
-        }
-      ],
-      "duration_ms": 171692,
-      "name": "BOSZORK\u00c1NY",
-      "url": "https://open.spotify.com/track/6QDyDA2a5ZhjTEZ61XQics"
-    },
-    {
-      "added_at": "2026-07-20 14:25:42",
-      "album": {
         "name": "SHOW ME WHAT YOU GOT",
         "url": "https://open.spotify.com/album/6ESO4ZbS6LSGHhByv5E0nC"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 262800,
       "name": "SHOW ME WHAT YOU GOT",
       "url": "https://open.spotify.com/track/3NfFj4Tcdp9LtI5tnKoJLR"
+    },
+    {
+      "added_at": "2026-07-20 14:25:42",
+      "album": {
+        "name": "SZABADS\u00c1G, SZERELEM",
+        "url": "https://open.spotify.com/album/38npepjPH9n2tLg3pJrjhq"
+      },
+      "artists": [
+        {
+          "name": "Mehringer",
+          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
+        }
+      ],
+      "duration_ms": 171692,
+      "name": "BOSZORK\u00c1NY",
+      "url": "https://open.spotify.com/track/6QDyDA2a5ZhjTEZ61XQics"
     },
     {
       "added_at": "2026-07-20 14:25:42",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
+        "name": "Talpra cig\u00e1nyok",
+        "url": "https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 146808,
+      "name": "Talpra cig\u00e1nyok",
+      "url": "https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES"
+    },
+    {
+      "added_at": "2026-07-20 14:25:42",
+      "album": {
         "name": "WAZZUP",
         "url": "https://open.spotify.com/album/2oEy6JwReTNCue0Nu45xhp"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 158750,
       "name": "WAZZUP",
       "url": "https://open.spotify.com/track/0FfhG9yxq8tYUJRnV6qo0c"
-    },
-    {
-      "added_at": "2026-07-20 14:25:42",
-      "album": {
-        "name": "Talpra cig\u00e1nyok",
-        "url": "https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 146808,
-      "name": "Talpra cig\u00e1nyok",
-      "url": "https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES"
     },
     {
       "added_at": "2026-07-20 14:25:42",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
-        "name": "INTERREGNUM",
-        "url": "https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD"
-      },
-      "artists": [
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        }
-      ],
-      "duration_ms": 188642,
-      "name": "PANASONIC",
-      "url": "https://open.spotify.com/track/7gdHcrgGNeQSXD3cwOvMRR"
-    },
-    {
-      "added_at": "2026-07-20 14:25:42",
-      "album": {
         "name": "Vinnipu",
         "url": "https://open.spotify.com/album/4vrF4zMQLZIiRXVbLZbS9J"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 108746,
       "name": "Vinnipu",
       "url": "https://open.spotify.com/track/3yLlQXH3AucZNk0SEB80Kc"
+    },
+    {
+      "added_at": "2026-07-20 14:25:42",
+      "album": {
+        "name": "INTERREGNUM",
+        "url": "https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        }
+      ],
+      "duration_ms": 188642,
+      "name": "PANASONIC",
+      "url": "https://open.spotify.com/track/7gdHcrgGNeQSXD3cwOvMRR"
     },
     {
       "added_at": "2026-07-20 14:25:42",
@@ -995,6 +995,22 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
+        "name": "Csurran, cseppen",
+        "url": "https://open.spotify.com/album/4qfxHp5vOfiCHKXwtEcwcM"
+      },
+      "artists": [
+        {
+          "name": "Majka",
+          "url": "https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Csurran, cseppen",
+      "url": "https://open.spotify.com/track/17WGfCmpgardtW5rRbaE7T"
+    },
+    {
+      "added_at": "2026-07-20 14:25:42",
+      "album": {
         "name": "DUMDUM",
         "url": "https://open.spotify.com/album/74DQzDPzD0euWtsnBClgYH"
       },
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
-        "name": "Csurran, cseppen",
-        "url": "https://open.spotify.com/album/4qfxHp5vOfiCHKXwtEcwcM"
-      },
-      "artists": [
-        {
-          "name": "Majka",
-          "url": "https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Csurran, cseppen",
-      "url": "https://open.spotify.com/track/17WGfCmpgardtW5rRbaE7T"
-    },
-    {
-      "added_at": "2026-07-20 14:25:42",
-      "album": {
         "name": "TOP TIER (SPACCONE)",
         "url": "https://open.spotify.com/album/4gU7TCAmI5c8zz2w34BAvx"
       },
@@ -1043,6 +1043,38 @@
       "duration_ms": 122500,
       "name": "TOP TIER - SPACCONE",
       "url": "https://open.spotify.com/track/4n9zK3ZjwyNfs0Bp1cUNiQ"
+    },
+    {
+      "added_at": "2026-07-20 14:25:42",
+      "album": {
+        "name": "KERTES H\u00c1Z",
+        "url": "https://open.spotify.com/album/1ny0U9RJ5otFtQwBpyxfDd"
+      },
+      "artists": [
+        {
+          "name": "LMEN PRALA",
+          "url": "https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj"
+        }
+      ],
+      "duration_ms": 139551,
+      "name": "KERTES H\u00c1Z",
+      "url": "https://open.spotify.com/track/1YEzjWjdDNHFeycih2VNGm"
+    },
+    {
+      "added_at": "2026-07-20 14:25:42",
+      "album": {
+        "name": "HATALMASABB, MINT GONDOLN\u00c1D",
+        "url": "https://open.spotify.com/album/4hV5BVV3paYc0R019cwl3O"
+      },
+      "artists": [
+        {
+          "name": "Mirror Glimpse",
+          "url": "https://open.spotify.com/artist/6ugNgaIlOKz7Sy8wlEQDif"
+        }
+      ],
+      "duration_ms": 137999,
+      "name": "DADDY",
+      "url": "https://open.spotify.com/track/4MQmgboYHKTI8Nfxd0nDjA"
     },
     {
       "added_at": "2026-07-20 14:25:42",
@@ -1067,58 +1099,6 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
-        "name": "HATALMASABB, MINT GONDOLN\u00c1D",
-        "url": "https://open.spotify.com/album/4hV5BVV3paYc0R019cwl3O"
-      },
-      "artists": [
-        {
-          "name": "Mirror Glimpse",
-          "url": "https://open.spotify.com/artist/6ugNgaIlOKz7Sy8wlEQDif"
-        }
-      ],
-      "duration_ms": 137999,
-      "name": "DADDY",
-      "url": "https://open.spotify.com/track/4MQmgboYHKTI8Nfxd0nDjA"
-    },
-    {
-      "added_at": "2026-07-20 14:25:42",
-      "album": {
-        "name": "KERTES H\u00c1Z",
-        "url": "https://open.spotify.com/album/1ny0U9RJ5otFtQwBpyxfDd"
-      },
-      "artists": [
-        {
-          "name": "LMEN PRALA",
-          "url": "https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj"
-        }
-      ],
-      "duration_ms": 139551,
-      "name": "KERTES H\u00c1Z",
-      "url": "https://open.spotify.com/track/1YEzjWjdDNHFeycih2VNGm"
-    },
-    {
-      "added_at": "2026-07-20 14:25:42",
-      "album": {
-        "name": "TITANIK",
-        "url": "https://open.spotify.com/album/6a6wXMsFMObqPzuVsA1FMP"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        },
-        {
-          "name": "GHO$TY",
-          "url": "https://open.spotify.com/artist/0Tx80XEW9rizsKS5GkVwrX"
-        }
-      ],
-      "duration_ms": 163880,
-      "name": "TITANIK",
-      "url": "https://open.spotify.com/track/6SxtaMa9JVSPdItvtyobqG"
-    },
-    {
-      "added_at": "2026-07-20 14:25:42",
-      "album": {
         "name": "BULLSHIT",
         "url": "https://open.spotify.com/album/5wI6CDu9oxHKQnSarrDiVW"
       },
@@ -1139,34 +1119,22 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
-        "name": "vrumm",
-        "url": "https://open.spotify.com/album/7aYUPYm38uDZblddLHiqyJ"
+        "name": "TITANIK",
+        "url": "https://open.spotify.com/album/6a6wXMsFMObqPzuVsA1FMP"
       },
       "artists": [
         {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        }
-      ],
-      "duration_ms": 146581,
-      "name": "vrumm",
-      "url": "https://open.spotify.com/track/1pZ0ZP9RfWvGbBy8oX3Hlw"
-    },
-    {
-      "added_at": "2026-07-20 14:25:42",
-      "album": {
-        "name": "Sephora",
-        "url": "https://open.spotify.com/album/57wKUH3yHkLcxx6F0yNQ0w"
-      },
-      "artists": [
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
         {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+          "name": "GHO$TY",
+          "url": "https://open.spotify.com/artist/0Tx80XEW9rizsKS5GkVwrX"
         }
       ],
-      "duration_ms": 271272,
-      "name": "Sephora",
-      "url": "https://open.spotify.com/track/0spi2UrCGiakkBcKhGUlHE"
+      "duration_ms": 163880,
+      "name": "TITANIK",
+      "url": "https://open.spotify.com/track/6SxtaMa9JVSPdItvtyobqG"
     },
     {
       "added_at": "2026-07-20 14:25:42",
@@ -1203,6 +1171,38 @@
       "duration_ms": 176463,
       "name": "Besz\u00edvom",
       "url": "https://open.spotify.com/track/76rWiHUfPWXAxgWVVP5lyi"
+    },
+    {
+      "added_at": "2026-07-20 14:25:42",
+      "album": {
+        "name": "Sephora",
+        "url": "https://open.spotify.com/album/57wKUH3yHkLcxx6F0yNQ0w"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "duration_ms": 271272,
+      "name": "Sephora",
+      "url": "https://open.spotify.com/track/0spi2UrCGiakkBcKhGUlHE"
+    },
+    {
+      "added_at": "2026-07-20 14:25:42",
+      "album": {
+        "name": "vrumm",
+        "url": "https://open.spotify.com/album/7aYUPYm38uDZblddLHiqyJ"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 146581,
+      "name": "vrumm",
+      "url": "https://open.spotify.com/track/1pZ0ZP9RfWvGbBy8oX3Hlw"
     },
     {
       "added_at": "2026-07-20 14:25:42",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/527WThPElJ2zVD0SXN2wst"
+      },
+      "artists": [
+        {
+          "name": "Sofi",
+          "url": "https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK"
+        }
+      ],
+      "duration_ms": 121512,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/5B8GKNiAHjmlxtizWo58E3"
+    },
+    {
+      "added_at": "2026-07-20 14:25:42",
+      "album": {
         "name": "Nesztek!",
         "url": "https://open.spotify.com/album/0m26JdOSr7CXT37JQp3wkF"
       },
@@ -1455,34 +1471,18 @@
     {
       "added_at": "2026-07-20 14:25:42",
       "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/527WThPElJ2zVD0SXN2wst"
+        "name": "Demo",
+        "url": "https://open.spotify.com/album/4eddCF6C4oHNORXbMSKHvZ"
       },
       "artists": [
         {
-          "name": "Sofi",
-          "url": "https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK"
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
         }
       ],
-      "duration_ms": 121512,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/5B8GKNiAHjmlxtizWo58E3"
-    },
-    {
-      "added_at": "2026-07-20 14:25:42",
-      "album": {
-        "name": "ICE SPICE",
-        "url": "https://open.spotify.com/album/36MUGLrW6MAdW31yiUqlEy"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 121121,
-      "name": "ICE SPICE",
-      "url": "https://open.spotify.com/track/1TWN7SgqSXiaHuH8LoIXZN"
+      "duration_ms": 171806,
+      "name": "Demo",
+      "url": "https://open.spotify.com/track/3huWs5M8a0MXTgc477aORn"
     }
   ],
   "unique_name": "Most Men\u0151",

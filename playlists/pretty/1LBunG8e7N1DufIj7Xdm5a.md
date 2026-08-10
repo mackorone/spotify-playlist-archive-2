@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,674 songs - 10 day 11 hr 7 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,677 songs - 10 day 11 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4682,5 +4682,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4672 | [Sorry zu mir selbst](https://open.spotify.com/track/5hmJ9cfDVEn04uaZW6Wfoa) | [Mike Van Hyke](https://open.spotify.com/artist/3CXNiAaXdpql8CtLamYaZ4) | [Sorry zu mir selbst](https://open.spotify.com/album/64ObcycF41NCzhx0CBK4mS) | 3:38 |
 | 4673 | [Mog](https://open.spotify.com/track/0frLl9oizwO8LnXL91jFhb) | [secretmxtp](https://open.spotify.com/artist/4PeOpSW35ZXDxZIE1Oz6O5) | [Mog](https://open.spotify.com/album/2bYC4pd6YXmre60uQl6yvG) | 2:48 |
 | 4674 | [Desaparecer](https://open.spotify.com/track/5k43PEh1iZOquA15KQ7prD) | [Rebelde](https://open.spotify.com/artist/1r1L0bboEJnbzjdPf8LI2j) | [Desaparecer](https://open.spotify.com/album/6B50SDdtSZBIq3yu0TUVZX) | 3:55 |
+| 4675 | [Believe in Me](https://open.spotify.com/track/2l5hnd81j2Yret3BMdlmef) | [Ash](https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff) | [Sincerely, Don](https://open.spotify.com/album/2n3zroFTMzQobzBqhWyuB6) | 2:30 |
+| 4676 | [Finding You](https://open.spotify.com/track/5uG4VoobJJyKA4pA4RSxQT) | [Casey Bloom](https://open.spotify.com/artist/3Yp2AG1A20FQbUtNqed1rq) | [Finding You](https://open.spotify.com/album/2TkUMuxxYLbfcZq49BMw1i) | 3:16 |
+| 4677 | [Four Truths and One Lie](https://open.spotify.com/track/1XemrHeWRlGv3pHOCJ2Srj) | [First Fifty Feet](https://open.spotify.com/artist/4AADJVMfOR93MzDAy5hQC8) | [Four Truths and One Lie](https://open.spotify.com/album/4JpkaVJCMeMqBQjOPmCVi4) | 3:32 |
 
-Snapshot ID: `AAAJlyJ/NBdaNNExCP2HEuq6yKSz3Ali`
+Snapshot ID: `AAAJmq3sTqRYrxpp9SMTXyd1IWyX2hF3`

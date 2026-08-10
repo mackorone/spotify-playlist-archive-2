@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Ozuna con Omar Courtz, KAROL G, Alejandro Sanz, De la Rose con Rels B, Love of Lesbian y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,785 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,776 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

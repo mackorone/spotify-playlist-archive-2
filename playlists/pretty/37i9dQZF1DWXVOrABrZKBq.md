@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Les nouveautés rap franco sans frontières\. Photo: Genezio
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,994 likes - 92 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,018 likes - 92 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2169,6 +2169,24 @@
     },
     {
       "album": {
+        "name": "vampire vibes",
+        "url": "https://open.spotify.com/album/0P49RnOoSjFc13EVEbUSBs"
+      },
+      "artists": [
+        {
+          "name": "Loren Gray",
+          "url": "https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160444,
+      "name": "Queen",
+      "url": "https://open.spotify.com/track/17ASWn0JiYvZDyN2UHXLeo"
+    },
+    {
+      "album": {
         "name": "Queen",
         "url": "https://open.spotify.com/album/5acYgqkqRhxgbeRzHqIIqv"
       },

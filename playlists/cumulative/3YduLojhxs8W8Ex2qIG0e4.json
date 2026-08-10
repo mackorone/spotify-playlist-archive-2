@@ -1151,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "The Wedding Song",
+        "url": "https://open.spotify.com/album/0ESFxXVcDAEyXilN7HrDhp"
+      },
+      "artists": [
+        {
+          "name": "QRU",
+          "url": "https://open.spotify.com/artist/1qc2ykp44EJxbFncDlTfQc"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418909,
+      "name": "The Wedding Song",
+      "url": "https://open.spotify.com/track/7ARKio9T4ivsBGfHTUusRP"
+    },
+    {
+      "album": {
         "name": "They Blame Immigrants, So You Won't Blame Billionaires",
         "url": "https://open.spotify.com/album/5uw7mDI972851YPAYxhlbF"
       },

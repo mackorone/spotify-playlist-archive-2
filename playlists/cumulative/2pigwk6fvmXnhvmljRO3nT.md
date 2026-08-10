@@ -4,7 +4,7 @@
 
 > 
 
-8,793 songs - 22 day 9 hr 0 min
+8,797 songs - 22 day 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2540,6 +2540,7 @@
 | [Gods Father](https://open.spotify.com/track/6eN9bwqvmItGjYNUqvOfqH) | [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [Gods Father](https://open.spotify.com/album/2pWiCJOBqxq4jtmuvdQG4J) | 2:18 | 2025-01-03 |  |
 | [Godspeed](https://open.spotify.com/track/34xTFwjPQ1dC6uJmleno7x) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 2:57 | 2025-01-03 |  |
 | [GODSTAINED](https://open.spotify.com/track/6phik4BkqTBtDodw8ZJJ5Q) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 3:25 | 2026-06-30 |  |
+| [Gohan Wa Okazu](https://open.spotify.com/track/1i8sVUbbbSaFqRDDb7GRSN) | [Ho \- Kago Tea Time](https://open.spotify.com/artist/1cXxia1Q2VDTjWe8X2Jydm) | [Ho\-Kago Tea Time II \(From "K\-On!!"\)](https://open.spotify.com/album/3SJPNJ3dMplHK8UeFy295k) | 3:11 | 2026-08-09 |  |
 | [Gohotekitobikatanosusume](https://open.spotify.com/track/0cLUVjdaZAdouPRhXMTC1h) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [INDIES COMPLETE](https://open.spotify.com/album/3SB17QmsAB1BquwIHOsaJA) | 4:00 | 2025-05-26 |  |
 | [Goin Dummi](https://open.spotify.com/track/6QFzUXTIZXOLesQcgmGOsR) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:41 | 2025-01-03 |  |
 | [Going Bad \(feat\. Drake\)](https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:00 | 2025-01-04 |  |
@@ -2719,6 +2720,7 @@
 | [Harold’s](https://open.spotify.com/track/7udJESHhtJ6k2TW9XfiwES) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Piñata](https://open.spotify.com/album/43uErencdmuTRFZPG3zXL1) | 2:49 | 2025-01-03 |  |
 | [Haru wo Tsugeru](https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Haru wo Tsugeru](https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ) | 3:16 | 2025-01-15 |  |
 | [Harunohi](https://open.spotify.com/track/54iU9jU2ASDVTTxNG5Bhp1) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Heard that there's good pasta](https://open.spotify.com/album/4r59WawogtpQYeO8tcBBcA) | 5:26 | 2024-12-05 |  |
+| [Harvey](https://open.spotify.com/track/1zFbBrZmJr1Z49HYe84dBg) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Invitation to Her's](https://open.spotify.com/album/3w5PWzbOdhuHd2oTynfBJw) | 3:31 | 2026-08-09 |  |
 | [Hasta Luego \- Bonus](https://open.spotify.com/track/2Zyk0on2N9vZyHueREwoJC) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [DiCaprio 2](https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY) | 3:41 | 2025-01-03 | 2026-06-03 |
 | [Hatchback](https://open.spotify.com/track/18lkWhwmY0fVVv40eCxohv) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [Benbow Crescent](https://open.spotify.com/album/3QXYqRVyBQfNK3MDn82hVF) | 2:29 | 2025-04-20 |  |
 | [Hate Bein' Sober](https://open.spotify.com/track/2oHM9KAdFdFvDCaE4V6RST) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Finally Rich](https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF) | 4:40 | 2024-12-14 |  |
@@ -5807,6 +5809,7 @@
 | [Show Me How](https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg) | 3:35 | 2025-01-04 |  |
 | [Show Me How](https://open.spotify.com/track/75IQVo8hqI1iwVZyvkN2VT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Show Me How](https://open.spotify.com/album/7mUYDBqNiddmKxuKrnBEKQ) | 3:35 | 2025-01-04 |  |
 | [Show Me How \(Album V\)](https://open.spotify.com/track/6A46jG17UumVQLqodsFxuV) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Oncle Jazz](https://open.spotify.com/album/4W4gNYa4tt3t8V6FmONWEK) | 3:35 | 2025-02-24 |  |
+| [Show Me How \- Garage Session](https://open.spotify.com/track/3WftyL45naEhUaYa9AMq4h) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Forever Live Sessions](https://open.spotify.com/album/1zAmMlu6tYriPRdobmejRa) | 3:50 | 2026-08-09 |  |
 | [Show Me the Way \(feat\. Kirk Franklin\)](https://open.spotify.com/track/7n92HF4Kw6Bs0Hmm3FM7xC) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Faith Of A Mustard Seed](https://open.spotify.com/album/0WUrlWBRvpGtiPfU7RK46R) | 1:43 | 2025-01-04 |  |
 | [Show of Hands](https://open.spotify.com/track/0cGn4vxyoBftN61XUv2aQk) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 3:33 | 2025-01-03 |  |
 | [Show Stop](https://open.spotify.com/track/4o7sl87Ock4SGA8b3gRR2l) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [New Beginnings](https://open.spotify.com/album/3wzeXReoE5Ul6ZMLvkAnHw) | 2:59 | 2025-01-15 |  |
@@ -8138,6 +8141,7 @@
 | [夢想曲](https://open.spotify.com/track/53rzyZdGk2eAR403QP8V6y) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [ペルソナ4 オリジナル・サウンドトラック](https://open.spotify.com/album/78LGjDUuu5dQZRfbrFQ2Ys) | 2:23 | 2025-04-20 | 2025-06-07 |
 | [夢想曲](https://open.spotify.com/track/6QDO7jGyT4cTviiQlfMCMQ) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [ペルソナ4 オリジナル・サウンドトラック](https://open.spotify.com/album/5Q3abTCaUaDZRDBM1BpVAr) | 2:23 | 2024-12-10 |  |
 | [夢灯籠](https://open.spotify.com/track/7swTJOnvm3zEg7QdmJs52T) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 2:11 | 2025-03-06 |  |
+| [夢疾風](https://open.spotify.com/track/3zeTpCit5Q5j6D6Ujx0bbT) | [ミスターシービー \(CV\. 天海由梨奈\)](https://open.spotify.com/artist/1FaFRBt4a0XMz0VB2wiYVr) | [『ウマ娘 プリティーダービー』WINNING LIVE 24](https://open.spotify.com/album/5Yz7vK4nu9lMIEm8VwPjrZ) | 5:00 | 2026-08-09 |  |
 | [大展鴻圖\(Blueprint Supreme\)](https://open.spotify.com/track/0hEWvzkgbI301JZj947gFz) | [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI), [AR刘夫阳](https://open.spotify.com/artist/0Ayv7StVio9fi017JAgu45) | [八方來財\(Stacks from All Sides\)](https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg) | 3:32 | 2025-09-10 |  |
 | [天ノ弱 \(feat\. 星乃一歌&天馬咲希&望月穂波&日野森志歩\)](https://open.spotify.com/track/4yYHiKjLwZBR3kr3bHUtVW) | [Leo/need](https://open.spotify.com/artist/7CXyP7IN0L3ySUeIQ6Ymu1) | [Leo/need SEKAI ALBUM vol.2\(Selected Edition\)](https://open.spotify.com/album/62rbnAyLsDsHoD7aPZfD8e) | 3:05 | 2025-12-07 |  |
 | [天体観測](https://open.spotify.com/track/3hRRYgBeunE3PTmnzATTS0) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [jupiter](https://open.spotify.com/album/0onaVQoaiffqxbds3QDR1m) | 4:23 | 2024-12-11 |  |

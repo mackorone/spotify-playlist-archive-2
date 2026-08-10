@@ -4187,6 +4187,24 @@
     },
     {
       "album": {
+        "name": "Hard Land",
+        "url": "https://open.spotify.com/album/3bfLBgtrzDaYpM4uLwfvbK"
+      },
+      "artists": [
+        {
+          "name": "Red Shahan",
+          "url": "https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227583,
+      "name": "Ghosts of the Panhandle Wind",
+      "url": "https://open.spotify.com/track/04iNvh91y5NoiaaHsfDNuX"
+    },
+    {
+      "album": {
         "name": "Girl from Oklahoma",
         "url": "https://open.spotify.com/album/3Oobv5KUzcKbzjrG0iSzV3"
       },
@@ -9366,7 +9384,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 217899,
       "name": "Running out of Time",
       "url": "https://open.spotify.com/track/66Xb15mkqTgCu06aGUmgOu"

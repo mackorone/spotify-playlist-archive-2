@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 16568,
+  "num_followers": 16569,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anUgAAAAAAC6SF5499R2ZBneDamIrsw1",
+  "snapshot_id": "anZxgAAAAACoGYX9wjlINxvBuXox8cXy",
   "tracks": [
     {
       "added_at": null,
@@ -195,22 +195,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "J Boog",
-        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
+        "name": "Backyard Boogie",
+        "url": "https://open.spotify.com/album/3asYxal37yC5t4M41SdCoZ"
       },
       "artists": [
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
         }
       ],
-      "duration_ms": 218146,
-      "name": "Every Little Thing (feat. Fiji)",
-      "url": "https://open.spotify.com/track/0ipn6Skphpuas3OXN8zpzk"
+      "duration_ms": 202479,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/3HSY4eryeaRI8LojkUKjqM"
     },
     {
       "added_at": null,
@@ -231,42 +227,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backyard Boogie",
-        "url": "https://open.spotify.com/album/3asYxal37yC5t4M41SdCoZ"
+        "name": "J Boog",
+        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
       },
       "artists": [
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 202479,
-      "name": "Mystery",
-      "url": "https://open.spotify.com/track/3HSY4eryeaRI8LojkUKjqM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beauty In The Silence",
-        "url": "https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8"
-      },
-      "artists": [
-        {
-          "name": "SOJA",
-          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
         },
         {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
         }
       ],
-      "duration_ms": 274810,
-      "name": "Press Rewind",
-      "url": "https://open.spotify.com/track/1Js26hznhkLlFeRoxCtyNq"
+      "duration_ms": 218146,
+      "name": "Every Little Thing (feat. Fiji)",
+      "url": "https://open.spotify.com/track/0ipn6Skphpuas3OXN8zpzk"
     },
     {
       "added_at": null,
@@ -291,6 +267,30 @@
       "duration_ms": 193400,
       "name": "No Other Love",
       "url": "https://open.spotify.com/track/2fb8kXjXaT2hkK86VrmThw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beauty In The Silence",
+        "url": "https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8"
+      },
+      "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "duration_ms": 274810,
+      "name": "Press Rewind",
+      "url": "https://open.spotify.com/track/1Js26hznhkLlFeRoxCtyNq"
     },
     {
       "added_at": null,
@@ -931,26 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Indigenous Life",
-        "url": "https://open.spotify.com/album/3UDKThTuWf6wbVCITpd8K2"
-      },
-      "artists": [
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 237307,
-      "name": "Indigenous Life",
-      "url": "https://open.spotify.com/track/5AVIMvDz4vEQGUG0PJZJpb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backyard Boogie",
         "url": "https://open.spotify.com/album/3asYxal37yC5t4M41SdCoZ"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 248000,
       "name": "She Give Me Lovin' (feat. Tarrus Riley)",
       "url": "https://open.spotify.com/track/2AJstU80Ozz83FIWBYlNSr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Indigenous Life",
+        "url": "https://open.spotify.com/album/3UDKThTuWf6wbVCITpd8K2"
+      },
+      "artists": [
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 237307,
+      "name": "Indigenous Life",
+      "url": "https://open.spotify.com/track/5AVIMvDz4vEQGUG0PJZJpb"
     },
     {
       "added_at": null,

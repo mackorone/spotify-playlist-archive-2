@@ -1,12 +1,12 @@
 {
   "description": "This is Nick Drake. The essential tracks, all in one playlist.",
-  "num_followers": 62172,
+  "num_followers": 62177,
   "original_name": "This Is Nick Drake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anUgAAAAAADLJxnWq1aESXy+UEvXTK1g",
+  "snapshot_id": "anZxgAAAAABGv7Pk/U0cfJlxp2nTnxNM",
   "tracks": [
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Endless Coloured Ways: The Songs of Nick Drake",
-        "url": "https://open.spotify.com/album/6RoEhsWUSLVTh9wILDBfGJ"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        },
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 126902,
-      "name": "Pink Moon",
-      "url": "https://open.spotify.com/track/0sKNoLJV5oM40O3RySRFVR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Made To Love Magic",
         "url": "https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR"
       },
@@ -411,6 +391,30 @@
       "duration_ms": 183493,
       "name": "Joey",
       "url": "https://open.spotify.com/track/5LpXrjVkXNFXIzoj5Mf5gw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Endless Coloured Ways: The Songs of Nick Drake",
+        "url": "https://open.spotify.com/album/6RoEhsWUSLVTh9wILDBfGJ"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        },
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        },
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 156689,
+      "name": "Road",
+      "url": "https://open.spotify.com/track/6LdShMhRMBP1deIQlHGH1U"
     },
     {
       "added_at": null,
@@ -447,30 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Endless Coloured Ways: The Songs of Nick Drake",
-        "url": "https://open.spotify.com/album/6RoEhsWUSLVTh9wILDBfGJ"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        },
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        },
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 156689,
-      "name": "Road",
-      "url": "https://open.spotify.com/track/6LdShMhRMBP1deIQlHGH1U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Made To Love Magic",
         "url": "https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 165986,
       "name": "Magic - Orchestrated Version 2",
       "url": "https://open.spotify.com/track/32Z3miiD5SZgaIkaGEWStf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Endless Coloured Ways: The Songs of Nick Drake",
+        "url": "https://open.spotify.com/album/6RoEhsWUSLVTh9wILDBfGJ"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 126902,
+      "name": "Pink Moon",
+      "url": "https://open.spotify.com/track/0sKNoLJV5oM40O3RySRFVR"
     },
     {
       "added_at": null,

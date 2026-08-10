@@ -1,12 +1,12 @@
 {
   "description": "This is Bonobo. The essential tracks, all in one playlist.",
-  "num_followers": 164040,
+  "num_followers": 164044,
   "original_name": "This Is Bonobo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anUgAAAAAAAtXhWGme8xiBaN54QDlLr2",
+  "snapshot_id": "anZxgAAAAABsg3OHXRCXXV82I4ql4Y+F",
   "tracks": [
     {
       "added_at": null,
@@ -171,18 +171,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Migration",
-        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
+        "name": "Days To Come",
+        "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
       },
       "artists": [
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Bajka",
+          "url": "https://open.spotify.com/artist/4V8wJAPq2ar1y1Zc8d9DhI"
         }
       ],
-      "duration_ms": 223720,
-      "name": "Second Sun",
-      "url": "https://open.spotify.com/track/16ikmfoT1249gG3pzPvnYt"
+      "duration_ms": 309546,
+      "name": "Nightlite",
+      "url": "https://open.spotify.com/track/1gI1nC5E3ObyMtejdc8crP"
     },
     {
       "added_at": null,
@@ -207,22 +211,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days To Come",
-        "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
       },
       "artists": [
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Bajka",
-          "url": "https://open.spotify.com/artist/4V8wJAPq2ar1y1Zc8d9DhI"
         }
       ],
-      "duration_ms": 309546,
-      "name": "Nightlite",
-      "url": "https://open.spotify.com/track/1gI1nC5E3ObyMtejdc8crP"
+      "duration_ms": 223720,
+      "name": "Second Sun",
+      "url": "https://open.spotify.com/track/16ikmfoT1249gG3pzPvnYt"
     },
     {
       "added_at": null,
@@ -247,8 +247,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Migration",
-        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/4ptDpUO3Uf910ekgmftYA8"
       },
       "artists": [
         {
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 237546,
-      "name": "Kerala",
-      "url": "https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR"
+      "duration_ms": 318600,
+      "name": "The Plug",
+      "url": "https://open.spotify.com/track/1tWhIl1HgzlS8hSzbi3PSD"
     },
     {
       "added_at": null,
@@ -279,8 +279,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Animal Magic",
-        "url": "https://open.spotify.com/album/4ptDpUO3Uf910ekgmftYA8"
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
       },
       "artists": [
         {
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 318600,
-      "name": "The Plug",
-      "url": "https://open.spotify.com/track/1tWhIl1HgzlS8hSzbi3PSD"
+      "duration_ms": 237546,
+      "name": "Kerala",
+      "url": "https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR"
     },
     {
       "added_at": null,
@@ -311,22 +311,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Migration",
-        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/4ptDpUO3Uf910ekgmftYA8"
       },
       "artists": [
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 274693,
-      "name": "Break Apart",
-      "url": "https://open.spotify.com/track/2pYvd6cHcAIMAM6xMD6nok"
+      "duration_ms": 279933,
+      "name": "Terrapin",
+      "url": "https://open.spotify.com/track/7hGI1fDfm41LPpg0mo2Vid"
     },
     {
       "added_at": null,
@@ -351,18 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Animal Magic",
-        "url": "https://open.spotify.com/album/4ptDpUO3Uf910ekgmftYA8"
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
       },
       "artists": [
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 279933,
-      "name": "Terrapin",
-      "url": "https://open.spotify.com/track/7hGI1fDfm41LPpg0mo2Vid"
+      "duration_ms": 274693,
+      "name": "Break Apart",
+      "url": "https://open.spotify.com/track/2pYvd6cHcAIMAM6xMD6nok"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 212356,
-      "name": "Antenna",
-      "url": "https://open.spotify.com/track/5YhKjllHOmPJMcTdctlOGe"
+      "duration_ms": 243780,
+      "name": "Ten Tigers",
+      "url": "https://open.spotify.com/track/5xz5dUtU2xooSP75BwRJ3H"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 243780,
-      "name": "Ten Tigers",
-      "url": "https://open.spotify.com/track/5xz5dUtU2xooSP75BwRJ3H"
+      "duration_ms": 212356,
+      "name": "Antenna",
+      "url": "https://open.spotify.com/track/5YhKjllHOmPJMcTdctlOGe"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Offs (Remixes & B Sides)",
-        "url": "https://open.spotify.com/album/7JcOUOS8qJGBhEIncdfGbk"
+        "name": "Expander",
+        "url": "https://open.spotify.com/album/4MaNMdGcSvFRxTp0JixzYJ"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 296040,
-      "name": "The Shark",
-      "url": "https://open.spotify.com/track/6HZMkHiqBQSL2NmkdGKpZR"
+      "duration_ms": 251428,
+      "name": "Expander",
+      "url": "https://open.spotify.com/track/046ebSoM0LeJEIlXTujdDB"
     },
     {
       "added_at": null,
@@ -855,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Expander",
-        "url": "https://open.spotify.com/album/4MaNMdGcSvFRxTp0JixzYJ"
+        "name": "One Offs (Remixes & B Sides)",
+        "url": "https://open.spotify.com/album/7JcOUOS8qJGBhEIncdfGbk"
       },
       "artists": [
         {
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 251428,
-      "name": "Expander",
-      "url": "https://open.spotify.com/track/046ebSoM0LeJEIlXTujdDB"
+      "duration_ms": 296040,
+      "name": "The Shark",
+      "url": "https://open.spotify.com/track/6HZMkHiqBQSL2NmkdGKpZR"
     },
     {
       "added_at": null,

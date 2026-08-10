@@ -1,6 +1,6 @@
 {
   "description": "you up?",
-  "num_followers": 2204417,
+  "num_followers": 2204673,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "Needed Me",
-      "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "Needed Me",
+      "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
     },
     {
       "added_at": "2025-08-17 04:15:13",
@@ -609,40 +609,20 @@
       "url": "https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2025-07-03 03:36:52",
       "album": {
-        "name": "reputation Stadium Tour Surprise Song Playlist",
-        "url": "https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8"
+        "name": "Mind Of Mine (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0"
       },
       "artists": [
         {
           "name": "ZAYN",
           "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 247160,
-      "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
-      "url": "https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 102813,
-      "name": "Girl With The Tattoo Enter.lewd",
-      "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
+      "duration_ms": 202749,
+      "name": "PILLOWTALK",
+      "url": "https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1"
     },
     {
       "added_at": "2025-07-03 03:36:52",
@@ -667,18 +647,34 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Euphoria (Original Score from the HBO Series)",
-        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
       },
       "artists": [
         {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
         }
       ],
-      "duration_ms": 91869,
-      "name": "Formula (From \"Euphoria: Season 1\" Soundtrack)",
-      "url": "https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s"
+      "duration_ms": 102813,
+      "name": "Girl With The Tattoo Enter.lewd",
+      "url": "https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Until I Found You",
+        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Until I Found You",
+      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -697,36 +693,40 @@
       "url": "https://open.spotify.com/track/4PhsKqMdgMEUSstTDAmMpg"
     },
     {
-      "added_at": "2025-07-03 03:36:52",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Mind Of Mine (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0"
+        "name": "reputation Stadium Tour Surprise Song Playlist",
+        "url": "https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8"
       },
       "artists": [
         {
           "name": "ZAYN",
           "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 202749,
-      "name": "PILLOWTALK",
-      "url": "https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1"
+      "duration_ms": 247160,
+      "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
+      "url": "https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y"
     },
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Until I Found You",
-        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
+        "name": "Euphoria (Original Score from the HBO Series)",
+        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
       },
       "artists": [
         {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 177720,
-      "name": "Until I Found You",
-      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
+      "duration_ms": 91869,
+      "name": "Formula (From \"Euphoria: Season 1\" Soundtrack)",
+      "url": "https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -845,6 +845,22 @@
       "url": "https://open.spotify.com/track/2usrT8QIbIk9y0NEtQwS4j"
     },
     {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "WASTELAND",
+        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 216062,
+      "name": "ALL MINE",
+      "url": "https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF"
+    },
+    {
       "added_at": "2026-05-01 04:01:09",
       "album": {
         "name": "Despu\u00e9s de ti",
@@ -863,22 +879,6 @@
       "duration_ms": 268996,
       "name": "Despu\u00e9s de ti",
       "url": "https://open.spotify.com/track/6PbhFQkpQjoojWo2b6Ghoi"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "WASTELAND",
-        "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 216062,
-      "name": "ALL MINE",
-      "url": "https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF"
     },
     {
       "added_at": "2025-08-01 04:00:22",
@@ -1425,22 +1425,6 @@
       "url": "https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR"
     },
     {
-      "added_at": "2026-04-24 04:00:54",
-      "album": {
-        "name": "freak for you",
-        "url": "https://open.spotify.com/album/1mGSwEqCQxsBS7HbRE3qZg"
-      },
-      "artists": [
-        {
-          "name": "Haiden Henderson",
-          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
-        }
-      ],
-      "duration_ms": 146731,
-      "name": "freak for you",
-      "url": "https://open.spotify.com/track/2TvnYVAd1HeCA2ZA56Ykbl"
-    },
-    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Dead Man Walking",
@@ -1455,6 +1439,22 @@
       "duration_ms": 247079,
       "name": "Dead Man Walking",
       "url": "https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk"
+    },
+    {
+      "added_at": "2026-04-24 04:00:54",
+      "album": {
+        "name": "freak for you",
+        "url": "https://open.spotify.com/album/1mGSwEqCQxsBS7HbRE3qZg"
+      },
+      "artists": [
+        {
+          "name": "Haiden Henderson",
+          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
+        }
+      ],
+      "duration_ms": 146731,
+      "name": "freak for you",
+      "url": "https://open.spotify.com/track/2TvnYVAd1HeCA2ZA56Ykbl"
     },
     {
       "added_at": "2025-09-05 04:00:04",
@@ -1537,22 +1537,6 @@
       "url": "https://open.spotify.com/track/5T0arBnfDpk9Svm1S6wiHG"
     },
     {
-      "added_at": "2026-06-12 04:45:47",
-      "album": {
-        "name": "ENAMORED",
-        "url": "https://open.spotify.com/album/262FBFFt5sPAzSc5kyXqqW"
-      },
-      "artists": [
-        {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
-        }
-      ],
-      "duration_ms": 168892,
-      "name": "ENAMORED",
-      "url": "https://open.spotify.com/track/750ZE23CXtS9bAGteC0b1b"
-    },
-    {
       "added_at": "2026-05-01 04:01:09",
       "album": {
         "name": "DIET",
@@ -1567,6 +1551,22 @@
       "duration_ms": 169685,
       "name": "DIET",
       "url": "https://open.spotify.com/track/23Wt9MTOGVyaQGbssSPM59"
+    },
+    {
+      "added_at": "2026-06-12 04:45:47",
+      "album": {
+        "name": "ENAMORED",
+        "url": "https://open.spotify.com/album/262FBFFt5sPAzSc5kyXqqW"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 168892,
+      "name": "ENAMORED",
+      "url": "https://open.spotify.com/track/750ZE23CXtS9bAGteC0b1b"
     },
     {
       "added_at": "2026-05-29 04:01:16",
@@ -1617,38 +1617,6 @@
       "url": "https://open.spotify.com/track/3wUEBuJ4MaBLyvWztEr3mj"
     },
     {
-      "added_at": "2026-02-20 05:35:55",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/2U8qmMJHqUBOLd6CWGEHpU"
-      },
-      "artists": [
-        {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
-        }
-      ],
-      "duration_ms": 167481,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/2e1XOTyNwFenng3U4hVWqi"
-    },
-    {
-      "added_at": "2026-05-25 21:42:21",
-      "album": {
-        "name": "Sex with my Ex",
-        "url": "https://open.spotify.com/album/7jP9XkCEvIOjPmCIgScNDA"
-      },
-      "artists": [
-        {
-          "name": "Henry Morris",
-          "url": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"
-        }
-      ],
-      "duration_ms": 179726,
-      "name": "Sex with my Ex",
-      "url": "https://open.spotify.com/track/36LKcafeByy2ybG5783w7e"
-    },
-    {
       "added_at": "2025-02-04 01:02:45",
       "album": {
         "name": "Dangerous Woman",
@@ -1669,6 +1637,22 @@
       "url": "https://open.spotify.com/track/1WMQTjW0oRA66XdtmVUKi8"
     },
     {
+      "added_at": "2026-02-20 05:35:55",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/2U8qmMJHqUBOLd6CWGEHpU"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 167481,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/2e1XOTyNwFenng3U4hVWqi"
+    },
+    {
       "added_at": "2026-03-20 04:00:31",
       "album": {
         "name": "more than just a little bit",
@@ -1683,6 +1667,22 @@
       "duration_ms": 160382,
       "name": "more than just a little bit",
       "url": "https://open.spotify.com/track/4lAH08gTc08QbUDFakKXTG"
+    },
+    {
+      "added_at": "2026-05-25 21:42:21",
+      "album": {
+        "name": "Sex with my Ex",
+        "url": "https://open.spotify.com/album/7jP9XkCEvIOjPmCIgScNDA"
+      },
+      "artists": [
+        {
+          "name": "Henry Morris",
+          "url": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"
+        }
+      ],
+      "duration_ms": 179726,
+      "name": "Sex with my Ex",
+      "url": "https://open.spotify.com/track/36LKcafeByy2ybG5783w7e"
     },
     {
       "added_at": "2026-05-01 04:01:09",

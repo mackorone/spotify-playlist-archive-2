@@ -286,7 +286,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 258000,
       "name": "Air / Water",
       "url": "https://open.spotify.com/track/0lYFtSLs42bCRf8tN7T7u8"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 704444,
       "name": "Big Talk",
       "url": "https://open.spotify.com/track/7xDE5QUC8CnVYLY6WMuSV7"
@@ -474,6 +474,24 @@
       "duration_ms": 172750,
       "name": "Fielder",
       "url": "https://open.spotify.com/track/6FD56LJ4nnfU1CAH4hVOzW"
+    },
+    {
+      "album": {
+        "name": "Perfect Conditions",
+        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276944,
+      "name": "Fire / Air",
+      "url": "https://open.spotify.com/track/3Dc4pQSPoxSFCorsvQMu4i"
     },
     {
       "album": {

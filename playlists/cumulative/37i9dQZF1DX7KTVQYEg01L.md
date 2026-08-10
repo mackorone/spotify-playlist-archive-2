@@ -4,7 +4,7 @@
 
 > celebre seu dia no maior astral!
 
-321 songs - 18 hr 31 min
+322 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Come Together \- Remastered 2009](https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 4:19 | 2022-03-24 | 2024-04-19 |
 | [Complicado](https://open.spotify.com/track/6toDZSoqG5QUitFsoxavRy) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Ouro](https://open.spotify.com/album/71HeCCNmwSJpAQy0eZYwV0) | 2:59 | 2022-02-04 | 2022-07-29 |
 | [Connection](https://open.spotify.com/track/3T4UodGkfZObJ43RtA5KFU) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Connection](https://open.spotify.com/album/6rVOUFV4qi8MgqF7na73rX) | 2:28 | 2022-03-24 | 2022-04-17 |
-| [Crazy](https://open.spotify.com/track/64fwanXDvwmsQrLsDSVHMv) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr) | [Crazy](https://open.spotify.com/album/6SysUU95ns1m8xfNrLCWDx) | 2:33 | 2022-03-24 |  |
+| [Crazy](https://open.spotify.com/track/64fwanXDvwmsQrLsDSVHMv) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr) | [Crazy](https://open.spotify.com/album/6SysUU95ns1m8xfNrLCWDx) | 2:33 | 2022-03-24 | 2026-08-10 |
 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/2zCs0vLKiRO0ctaAji81g5) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen Forever](https://open.spotify.com/album/3zSA87rmoHtugmRiuQnfoy) | 2:43 | 2022-03-24 | 2022-04-18 |
 | [Da Ya Think I'm Sexy](https://open.spotify.com/track/058VOmj2vkyItyKHFLc8vF) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Da Ya Think I'm Sexy?](https://open.spotify.com/album/5R9aNxFDDbjiLOi56sLpYa) | 3:40 | 2022-03-24 | 2022-04-21 |
 | [Dance Monkey](https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey \(Stripped Back\) / Dance Monkey](https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD) | 3:29 | 2022-03-24 |  |
@@ -313,6 +313,7 @@
 | [What Lovers Do \(feat\. SZA\)](https://open.spotify.com/track/4mxWSdf71VFO52qFeY0fZt) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [What Lovers Do \(feat\. SZA\)](https://open.spotify.com/album/6IlqqqEqp1Qfd6187z3YVG) | 3:19 | 2022-02-04 | 2022-07-13 |
 | [What You Know](https://open.spotify.com/track/1qfYG2JrchEyJiqKnkE7YQ) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/4V1rQRHuuOWs8fXRl16OMY) | 3:09 | 2022-03-24 | 2022-04-20 |
 | [What You Know](https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa) | 3:11 | 2024-01-12 | 2024-04-19 |
+| [When He’s Gone](https://open.spotify.com/track/60qQFY4rBtMtcqLgzpGTjz) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [When He’s Gone](https://open.spotify.com/album/7oX6hTwhWvNsD3xl4Kp5dA) | 3:06 | 2026-08-07 |  |
 | [Who Are You](https://open.spotify.com/track/3x2bXiU0o4WbsPkawXlfDA) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who Are You \(Remastered\)](https://open.spotify.com/album/6LRJF97hgXHj8uMLHyCDbh) | 6:18 | 2022-03-24 | 2022-04-19 |
 | [With Me](https://open.spotify.com/track/32aNZ7vc1FiFVr8GNXqHzu) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [With Me](https://open.spotify.com/album/4ZloS0O8fgRa5DIalfhv9D) | 3:17 | 2022-02-04 | 2022-07-29 |
 | [Wonderwall \- Remastered](https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 4:18 | 2022-03-24 |  |

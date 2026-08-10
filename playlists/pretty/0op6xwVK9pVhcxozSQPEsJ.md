@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0op6xwVK9pVhcxozSQPEsJ.md) - [plain]
 
 > Take some time out of your day to recharge your mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,181 likes - 93 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,180 likes - 93 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

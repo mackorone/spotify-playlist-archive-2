@@ -3997,6 +3997,24 @@
     },
     {
       "album": {
+        "name": "Nikaui (Nipaiamianan)",
+        "url": "https://open.spotify.com/album/5azARElDOCTUJOU0ghkAcR"
+      },
+      "artists": [
+        {
+          "name": "Yan Riverin",
+          "url": "https://open.spotify.com/artist/7b4rO8os5umSduj2lp07z6"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267840,
+      "name": "Nikaui (Nipaiamianan)",
+      "url": "https://open.spotify.com/track/7oWgPFNQoe7lqrmGSmgOTq"
+    },
+    {
+      "album": {
         "name": "Les tubes de No\u00ebl, vol.4",
         "url": "https://open.spotify.com/album/3ipxucNMIaascnIUkANLe8"
       },
@@ -6632,7 +6650,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 176333,
       "name": "Toi pour No\u00ebl",
       "url": "https://open.spotify.com/track/358of8Qu6dOkzJbyjcmOlp"

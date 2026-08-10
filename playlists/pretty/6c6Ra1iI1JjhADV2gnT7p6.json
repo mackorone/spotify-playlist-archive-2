@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60434,
+  "num_followers": 60436,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AABPQadrrnFjrj5Mi2tGEmfrQg2RFCqx",
+  "snapshot_id": "AABPQhwcyO0B10FbIM5QcRml0mUy13bV",
   "tracks": [
     {
       "added_at": "2026-08-08 01:10:11",
@@ -431,30 +431,6 @@
     {
       "added_at": "2026-08-08 01:10:11",
       "album": {
-        "name": "Lemon Peel",
-        "url": "https://open.spotify.com/album/6l0k08JbjTGYn4ELV757ro"
-      },
-      "artists": [
-        {
-          "name": "Megasound",
-          "url": "https://open.spotify.com/artist/5ReQfFpFV17lXutVutOvJr"
-        },
-        {
-          "name": "Bad Bad Hats",
-          "url": "https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6"
-        },
-        {
-          "name": "Party Nails",
-          "url": "https://open.spotify.com/artist/1PkfHC4LBy4o9UNU2k1yw4"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "Lemon Peel",
-      "url": "https://open.spotify.com/track/4EXvvkFm8HRoeGvgR0sobL"
-    },
-    {
-      "added_at": "2026-08-08 01:10:11",
-      "album": {
         "name": "LOVE DESTROY ME",
         "url": "https://open.spotify.com/album/6krJQin8fxDlBoV3GUNO0T"
       },
@@ -831,6 +807,30 @@
       "duration_ms": 160992,
       "name": "Ballerina Song",
       "url": "https://open.spotify.com/track/4BCfxtgGXiYbA1N5g3hTOk"
+    },
+    {
+      "added_at": "2026-08-08 01:10:11",
+      "album": {
+        "name": "Lemon Peel",
+        "url": "https://open.spotify.com/album/6l0k08JbjTGYn4ELV757ro"
+      },
+      "artists": [
+        {
+          "name": "Megasound",
+          "url": "https://open.spotify.com/artist/5ReQfFpFV17lXutVutOvJr"
+        },
+        {
+          "name": "Bad Bad Hats",
+          "url": "https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6"
+        },
+        {
+          "name": "Party Nails",
+          "url": "https://open.spotify.com/artist/1PkfHC4LBy4o9UNU2k1yw4"
+        }
+      ],
+      "duration_ms": 213920,
+      "name": "Lemon Peel",
+      "url": "https://open.spotify.com/track/4EXvvkFm8HRoeGvgR0sobL"
     },
     {
       "added_at": "2026-08-08 01:10:11",

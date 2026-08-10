@@ -4,7 +4,7 @@
 
 > drinks em casa, nada melhor
 
-267 songs - 16 hr 19 min
+268 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Hold On](https://open.spotify.com/track/0WbwSOALA9zsh7r18Jwbau) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Dance Without Me](https://open.spotify.com/album/0MAg2c8prkPMm0k9ZINhOK) | 3:24 | 2022-02-18 | 2022-07-27 |
 | [Hold On](https://open.spotify.com/track/4dPimg8olUWKxHZXPD3KOO) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 3:30 | 2022-03-25 | 2025-03-27 |
 | [Honor \(feat\. SAYGRACE & Lil Yachty\)](https://open.spotify.com/track/2LMCyYtrdA3qBX5GkKxDBf) | [DJ Cassidy](https://open.spotify.com/artist/1xLOb1CC0N70wA28T7Q5uE), [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Honor \(feat\. SAYGRACE & Lil Yachty\)](https://open.spotify.com/album/0cFsoYJsY0QkviunLAXhES) | 4:11 | 2022-03-25 | 2022-04-19 |
-| [Hope](https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 4:30 | 2022-02-18 |  |
+| [Hope](https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 4:30 | 2022-02-18 | 2026-08-10 |
 | [How Much You Want Her](https://open.spotify.com/track/2kGL9Psld2b7ui4H7IDtsa) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [How Much You Want Her](https://open.spotify.com/album/38RwrCtuv4QqOGfm2j5AuB) | 3:39 | 2022-03-25 | 2022-04-20 |
 | [How You Feel](https://open.spotify.com/track/4LvFKRCe3kUv4AURnZx8SI) | [Swsh](https://open.spotify.com/artist/4mNJoaGdBbtAwFTbMC4mdV) | [How You Feel](https://open.spotify.com/album/1GcOZc1EOrAZU8wqnYRub1) | 2:58 | 2022-03-25 | 2022-04-21 |
 | [Hunger](https://open.spotify.com/track/3Ly2KsOZ0OylQh3WmjZ8At) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/3kSUJ193A42dfs82PmOUP0) | 3:29 | 2022-03-25 | 2022-04-21 |
@@ -215,6 +215,7 @@
 | [Quem Não Quer Sou Eu](https://open.spotify.com/track/2pSOBtKOC9TnjSigCMK9kf) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Músicas Para Churrasco \(Vol\. I\)](https://open.spotify.com/album/4rp1jclowkzH4QyGMg6xTx) | 5:26 | 2022-02-18 | 2022-07-29 |
 | [Quem Não Quer Sou Eu](https://open.spotify.com/track/7JFGnfONNe5vepbGwZBkhL) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Musica para Churrasco, Vol\. 1](https://open.spotify.com/album/3LVFK1YwvyZMU1u20U2dMg) | 5:26 | 2022-09-21 | 2024-04-19 |
 | [Raise Up \- Single Version](https://open.spotify.com/track/1ylTiIxsIYDSwlsaOJ4H2b) | [Kindness](https://open.spotify.com/artist/6SYIsHAQ1sPokVxmzpaDBU) | [Raise Up](https://open.spotify.com/album/5NbdI37D5tn5swFBF4McGz) | 3:42 | 2022-02-18 | 2022-07-27 |
+| [Red Wine Holiday](https://open.spotify.com/track/7xRM7xmbUsTROH08OoxsEs) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Catch n' Release](https://open.spotify.com/album/7xyEdU4cfiwBoiNu6GvIEJ) | 2:47 | 2026-08-07 |  |
 | [Religiosa](https://open.spotify.com/track/2KfTQFFLpZhzlZATYS9job) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Religiosa](https://open.spotify.com/album/6d6tiuczqJEHoP5jL9Qn15) | 2:40 | 2022-03-04 | 2025-01-06 |
 | [Right Again](https://open.spotify.com/track/5E9SNvljPFmEYuOoSa6h3l) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Sixth Street EP](https://open.spotify.com/album/1OJCkNCcUCFlFs8ATbanwU) | 3:22 | 2022-03-25 | 2022-04-14 |
 | [Right Track \(feat\. Smino\)](https://open.spotify.com/track/439zbDDCpOPntEFlZFHKbY) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Right Track \(feat\. Smino\)](https://open.spotify.com/album/085JymZoUxeCSJlOYqLd5u) | 2:38 | 2022-03-25 | 2022-04-16 |

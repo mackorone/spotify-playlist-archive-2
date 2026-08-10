@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: THAMI, Luedji Luna",
-  "num_followers": 190557,
+  "num_followers": 190600,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2026-08-07 03:01:14",
       "album": {
+        "name": "P\u00farpura Session",
+        "url": "https://open.spotify.com/album/0z9Hd4clonKlcQY6fGcZUy"
+      },
+      "artists": [
+        {
+          "name": "BUDAH",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 200083,
+      "name": "Dona Do Mundo (P\u00farpura Session)",
+      "url": "https://open.spotify.com/track/3V18oJelSIuz0gjrFKO7tQ"
+    },
+    {
+      "added_at": "2026-08-07 03:01:14",
+      "album": {
         "name": "Papinho Ambicioso",
         "url": "https://open.spotify.com/album/7FKtYJ4HvxCmdldcd4sAx4"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 154285,
       "name": "Papinho Ambicioso",
       "url": "https://open.spotify.com/track/76aWWeoNNyDOEQr7mOzoqj"
-    },
-    {
-      "added_at": "2026-08-07 03:01:14",
-      "album": {
-        "name": "P\u00farpura Session",
-        "url": "https://open.spotify.com/album/0z9Hd4clonKlcQY6fGcZUy"
-      },
-      "artists": [
-        {
-          "name": "BUDAH",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 200083,
-      "name": "Dona Do Mundo (P\u00farpura Session)",
-      "url": "https://open.spotify.com/track/3V18oJelSIuz0gjrFKO7tQ"
     },
     {
       "added_at": "2026-08-07 03:01:14",
@@ -591,26 +591,26 @@
     {
       "added_at": "2026-08-07 03:01:14",
       "album": {
-        "name": "Diz Pra Mim",
-        "url": "https://open.spotify.com/album/6LOUnuAM49oKo5qe5Z3VIm"
+        "name": "Antes Que A Terra Acabe",
+        "url": "https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi"
       },
       "artists": [
         {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
         },
         {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
         },
         {
-          "name": "Jones",
-          "url": "https://open.spotify.com/artist/1VAABCsVnmvmVSHZaqweMG"
+          "name": "Duda Raupp",
+          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
         }
       ],
-      "duration_ms": 199736,
-      "name": "Diz Pra Mim",
-      "url": "https://open.spotify.com/track/3M9nYKyZYrU5XKOUattQWc"
+      "duration_ms": 240522,
+      "name": "Outono",
+      "url": "https://open.spotify.com/track/05oza8QKkRNfYg8177HKIF"
     },
     {
       "added_at": "2026-08-07 03:01:14",
@@ -635,26 +635,26 @@
     {
       "added_at": "2026-08-07 03:01:14",
       "album": {
-        "name": "Antes Que A Terra Acabe",
-        "url": "https://open.spotify.com/album/1vHp8OwaCaQMhn0fnnu1Hi"
+        "name": "Diz Pra Mim",
+        "url": "https://open.spotify.com/album/6LOUnuAM49oKo5qe5Z3VIm"
       },
       "artists": [
         {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
         },
         {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
         },
         {
-          "name": "Duda Raupp",
-          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
+          "name": "Jones",
+          "url": "https://open.spotify.com/artist/1VAABCsVnmvmVSHZaqweMG"
         }
       ],
-      "duration_ms": 240522,
-      "name": "Outono",
-      "url": "https://open.spotify.com/track/05oza8QKkRNfYg8177HKIF"
+      "duration_ms": 199736,
+      "name": "Diz Pra Mim",
+      "url": "https://open.spotify.com/track/3M9nYKyZYrU5XKOUattQWc"
     },
     {
       "added_at": "2026-08-07 03:01:14",
@@ -699,22 +699,18 @@
     {
       "added_at": "2026-08-07 03:01:14",
       "album": {
-        "name": "Busco Romance Love Show (Deluxe)",
-        "url": "https://open.spotify.com/album/2MuKbqIe2pEwetQGBMUgkT"
+        "name": "Ci\u00fame",
+        "url": "https://open.spotify.com/album/0UdZHKpcRvVPCUpjnp2OBy"
       },
       "artists": [
         {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
         }
       ],
-      "duration_ms": 159616,
-      "name": "NEON",
-      "url": "https://open.spotify.com/track/74kTrpeeUOLOclJfZLub4n"
+      "duration_ms": 200522,
+      "name": "Ci\u00fame",
+      "url": "https://open.spotify.com/track/4gPKpZT96CVvM4mBFfDCvD"
     },
     {
       "added_at": "2026-08-07 03:01:14",
@@ -743,18 +739,22 @@
     {
       "added_at": "2026-08-07 03:01:14",
       "album": {
-        "name": "Ci\u00fame",
-        "url": "https://open.spotify.com/album/0UdZHKpcRvVPCUpjnp2OBy"
+        "name": "Busco Romance Love Show (Deluxe)",
+        "url": "https://open.spotify.com/album/2MuKbqIe2pEwetQGBMUgkT"
       },
       "artists": [
         {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
         }
       ],
-      "duration_ms": 200522,
-      "name": "Ci\u00fame",
-      "url": "https://open.spotify.com/track/4gPKpZT96CVvM4mBFfDCvD"
+      "duration_ms": 159616,
+      "name": "NEON",
+      "url": "https://open.spotify.com/track/74kTrpeeUOLOclJfZLub4n"
     },
     {
       "added_at": "2026-08-07 03:01:14",
@@ -987,6 +987,26 @@
     {
       "added_at": "2026-08-07 03:01:14",
       "album": {
+        "name": "Desalinho",
+        "url": "https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 205357,
+      "name": "Desalinho",
+      "url": "https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9"
+    },
+    {
+      "added_at": "2026-08-07 03:01:14",
+      "album": {
         "name": "Novehoras",
         "url": "https://open.spotify.com/album/3YAOfa21Gfl5g2cdX4uogw"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 211003,
       "name": "Novehoras",
       "url": "https://open.spotify.com/track/5blBfJbeLYetNHCmYIEzMu"
-    },
-    {
-      "added_at": "2026-08-07 03:01:14",
-      "album": {
-        "name": "Desalinho",
-        "url": "https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 205357,
-      "name": "Desalinho",
-      "url": "https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9"
     },
     {
       "added_at": "2026-08-07 03:01:14",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2026-08-07 03:01:14",
       "album": {
+        "name": "Jeito Certo",
+        "url": "https://open.spotify.com/album/58Srk85ymbUhZU2ePm0Vcx"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        }
+      ],
+      "duration_ms": 190993,
+      "name": "Jeito Certo",
+      "url": "https://open.spotify.com/track/271UeLAttA5JHMV0uJoral"
+    },
+    {
+      "added_at": "2026-08-07 03:01:14",
+      "album": {
         "name": "Desse Meu Mel",
         "url": "https://open.spotify.com/album/6WGdyQqjEKGHrDk2R4qgBM"
       },
@@ -1111,26 +1131,6 @@
       "duration_ms": 282352,
       "name": "sexta de manh\u00e3",
       "url": "https://open.spotify.com/track/76SmNEtOglFZugGl8Ygq4l"
-    },
-    {
-      "added_at": "2026-08-07 03:01:14",
-      "album": {
-        "name": "Jeito Certo",
-        "url": "https://open.spotify.com/album/58Srk85ymbUhZU2ePm0Vcx"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        }
-      ],
-      "duration_ms": 190993,
-      "name": "Jeito Certo",
-      "url": "https://open.spotify.com/track/271UeLAttA5JHMV0uJoral"
     },
     {
       "added_at": "2026-08-07 03:01:14",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2026-08-07 03:01:14",
       "album": {
-        "name": "Carta",
-        "url": "https://open.spotify.com/album/6EPOLPNtoe9zpTaiBi3KST"
-      },
-      "artists": [
-        {
-          "name": "Victor Sabri",
-          "url": "https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        }
-      ],
-      "duration_ms": 144705,
-      "name": "Carta",
-      "url": "https://open.spotify.com/track/1E2UcbndCCNfpR0BRuiWMK"
-    },
-    {
-      "added_at": "2026-08-07 03:01:14",
-      "album": {
         "name": "Visto por \u00daltimo",
         "url": "https://open.spotify.com/album/47urvKrcNQF5Jt209J88hg"
       },
@@ -1255,6 +1235,26 @@
     {
       "added_at": "2026-08-07 03:01:14",
       "album": {
+        "name": "Carta",
+        "url": "https://open.spotify.com/album/6EPOLPNtoe9zpTaiBi3KST"
+      },
+      "artists": [
+        {
+          "name": "Victor Sabri",
+          "url": "https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "duration_ms": 144705,
+      "name": "Carta",
+      "url": "https://open.spotify.com/track/1E2UcbndCCNfpR0BRuiWMK"
+    },
+    {
+      "added_at": "2026-08-07 03:01:14",
+      "album": {
         "name": "TRATO",
         "url": "https://open.spotify.com/album/7mHxkuHr9ymMDapBPOHRJO"
       },
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-08-07 03:01:14",
       "album": {
-        "name": "pode me gravar :)",
-        "url": "https://open.spotify.com/album/1Gt4SPvGTKaBQytGHbeMFL"
-      },
-      "artists": [
-        {
-          "name": "Perigato",
-          "url": "https://open.spotify.com/artist/060ctBN8nvnE8ScCkeof8I"
-        }
-      ],
-      "duration_ms": 169384,
-      "name": "pode me gravar :)",
-      "url": "https://open.spotify.com/track/5sRVbix3SOMVmzg1UFFOdd"
-    },
-    {
-      "added_at": "2026-08-07 03:01:14",
-      "album": {
         "name": "Me Deixa Ser Pausa",
         "url": "https://open.spotify.com/album/1YGx8ztMd3xEWsGX2P6ln0"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 127389,
       "name": "Me Deixa Ser Pausa",
       "url": "https://open.spotify.com/track/3lHmzv6l0t3xHHl4LWvExn"
+    },
+    {
+      "added_at": "2026-08-07 03:01:14",
+      "album": {
+        "name": "pode me gravar :)",
+        "url": "https://open.spotify.com/album/1Gt4SPvGTKaBQytGHbeMFL"
+      },
+      "artists": [
+        {
+          "name": "Perigato",
+          "url": "https://open.spotify.com/artist/060ctBN8nvnE8ScCkeof8I"
+        }
+      ],
+      "duration_ms": 169384,
+      "name": "pode me gravar :)",
+      "url": "https://open.spotify.com/track/5sRVbix3SOMVmzg1UFFOdd"
     },
     {
       "added_at": "2026-08-07 03:01:14",

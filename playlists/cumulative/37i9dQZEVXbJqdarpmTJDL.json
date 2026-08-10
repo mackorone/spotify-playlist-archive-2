@@ -6674,7 +6674,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 166244,
       "name": "BABY",
       "url": "https://open.spotify.com/track/7Km7TIZ6qBca2XmJGrSlOA"
@@ -9334,7 +9334,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 109714,
       "name": "BOGOTA",
       "url": "https://open.spotify.com/track/0JIZISb337cbeMtRfiJAXs"
@@ -28246,7 +28246,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 181224,
       "name": "KAKOS GIA SENA",
       "url": "https://open.spotify.com/track/7kBrXPkGGmQMDmnz7Bi1Yh"
@@ -29938,7 +29938,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 145000,
       "name": "KIPSELI",
       "url": "https://open.spotify.com/track/1UTmz8GR18Bol9zWktQmXO"
@@ -36586,7 +36586,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 151578,
       "name": "MENTALITE",
       "url": "https://open.spotify.com/track/7Hu9gyVn9kQShhBMHvxLBm"
@@ -40312,7 +40312,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 178263,
       "name": "NEKROS",
       "url": "https://open.spotify.com/track/7dEBm9CIruPZIth9b1nx7M"
@@ -42024,7 +42024,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 157617,
       "name": "OI KAIROI ALLAZOUNE",
       "url": "https://open.spotify.com/track/16mFMQBhGTOhcvP8ObXWuX"
@@ -42724,7 +42724,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 131430,
       "name": "OPA",
       "url": "https://open.spotify.com/track/5eUtUkRWRP7cSa8fZoKKU8"
@@ -50314,7 +50314,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 171752,
       "name": "S3XT1N6",
       "url": "https://open.spotify.com/track/62QKdWFO62X15HnDlRcbNt"
@@ -54986,7 +54986,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 160373,
       "name": "Summertime Sadness",
       "url": "https://open.spotify.com/track/7uYg8TyEDnxh0LhLjhVt52"
@@ -57586,7 +57586,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 193191,
       "name": "TI EINAI AFTO?",
       "url": "https://open.spotify.com/track/04SJntzBNigy4CH2Bn4XI2"
@@ -61204,6 +61204,36 @@
       "duration_ms": 174857,
       "name": "Veres",
       "url": "https://open.spotify.com/track/05s7o2edFCH1IWwQdCPXnf"
+    },
+    {
+      "album": {
+        "name": "VERSACE",
+        "url": "https://open.spotify.com/album/1uP4wBPulejvSucBlYl8Sv"
+      },
+      "artists": [
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "HermesHermes",
+          "url": "https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY"
+        },
+        {
+          "name": "Echo",
+          "url": "https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "VERSACE",
+      "url": "https://open.spotify.com/track/77Ncp4dEk7bVbDTpTwfj6I"
     },
     {
       "album": {

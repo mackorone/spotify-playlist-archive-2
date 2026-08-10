@@ -1,6 +1,6 @@
 {
   "description": "Ci\u00e7a e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
-  "num_followers": 443345,
+  "num_followers": 443333,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,38 @@
     {
       "added_at": "2026-08-07 14:33:54",
       "album": {
+        "name": "ALFA",
+        "url": "https://open.spotify.com/album/57wEbqqEigzEjG2YV1t6z9"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 271822,
+      "name": "Campo de Golf",
+      "url": "https://open.spotify.com/track/4EWJ3ZEXRYsF0wBLmWlbgL"
+    },
+    {
+      "added_at": "2026-08-07 14:33:54",
+      "album": {
         "name": "SIX.",
         "url": "https://open.spotify.com/album/0ulBRtM6uEMBKFbq1NI9mr"
       },
@@ -615,38 +647,6 @@
     {
       "added_at": "2026-08-07 14:33:54",
       "album": {
-        "name": "ALFA",
-        "url": "https://open.spotify.com/album/57wEbqqEigzEjG2YV1t6z9"
-      },
-      "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 271822,
-      "name": "Campo de Golf",
-      "url": "https://open.spotify.com/track/4EWJ3ZEXRYsF0wBLmWlbgL"
-    },
-    {
-      "added_at": "2026-08-07 14:33:54",
-      "album": {
         "name": "Tudo Que Eu Sinto Faz Barulho",
         "url": "https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5"
       },
@@ -659,6 +659,22 @@
       "duration_ms": 205952,
       "name": "Doce, Dengosa, Polida",
       "url": "https://open.spotify.com/track/00pQrAbEfRDCFbkCe9NsGM"
+    },
+    {
+      "added_at": "2026-08-07 14:33:54",
+      "album": {
+        "name": "\u00c9 Demais",
+        "url": "https://open.spotify.com/album/3w0QlSP1zXOfnWItpSyTb6"
+      },
+      "artists": [
+        {
+          "name": "Renan Oliveira",
+          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
+        }
+      ],
+      "duration_ms": 197653,
+      "name": "\u00c9 Demais",
+      "url": "https://open.spotify.com/track/1KpEmpouOXgxavYYmYtXaZ"
     },
     {
       "added_at": "2026-08-07 14:33:54",
@@ -747,22 +763,6 @@
     {
       "added_at": "2026-08-07 14:33:54",
       "album": {
-        "name": "\u00c9 Demais",
-        "url": "https://open.spotify.com/album/3w0QlSP1zXOfnWItpSyTb6"
-      },
-      "artists": [
-        {
-          "name": "Renan Oliveira",
-          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
-        }
-      ],
-      "duration_ms": 197653,
-      "name": "\u00c9 Demais",
-      "url": "https://open.spotify.com/track/1KpEmpouOXgxavYYmYtXaZ"
-    },
-    {
-      "added_at": "2026-08-07 14:33:54",
-      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/0ZfN7vPj1ZyHEXHxLsvVu7"
       },
@@ -783,6 +783,22 @@
       "duration_ms": 233898,
       "name": "Gan\u00e2ncia",
       "url": "https://open.spotify.com/track/57CFxibO5v043gnNYgqbkD"
+    },
+    {
+      "added_at": "2026-08-07 14:33:54",
+      "album": {
+        "name": "Pagodom (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3ffLAkkIY5Vh9qsZniuf1y"
+      },
+      "artists": [
+        {
+          "name": "Samba De Dom",
+          "url": "https://open.spotify.com/artist/40wx3ETjJh4eeVACrDaJVm"
+        }
+      ],
+      "duration_ms": 257741,
+      "name": "Cabo de Guerra - Ao Vivo",
+      "url": "https://open.spotify.com/track/2XFdV3cyde4ontEM9VuBZr"
     },
     {
       "added_at": "2026-08-07 14:33:54",
@@ -811,22 +827,6 @@
       "duration_ms": 156374,
       "name": "Sob a luz do seu olhar",
       "url": "https://open.spotify.com/track/68SClB1WYtJnapn6I7Spmk"
-    },
-    {
-      "added_at": "2026-08-07 14:33:54",
-      "album": {
-        "name": "Pagodom (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3ffLAkkIY5Vh9qsZniuf1y"
-      },
-      "artists": [
-        {
-          "name": "Samba De Dom",
-          "url": "https://open.spotify.com/artist/40wx3ETjJh4eeVACrDaJVm"
-        }
-      ],
-      "duration_ms": 257741,
-      "name": "Cabo de Guerra - Ao Vivo",
-      "url": "https://open.spotify.com/track/2XFdV3cyde4ontEM9VuBZr"
     },
     {
       "added_at": "2026-08-07 14:33:54",
@@ -939,6 +939,26 @@
     {
       "added_at": "2026-08-07 14:33:54",
       "album": {
+        "name": "FREQU\u00caNCIA LUNAR",
+        "url": "https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR"
+      },
+      "artists": [
+        {
+          "name": "BUDAH",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 169137,
+      "name": "SALTO 15",
+      "url": "https://open.spotify.com/track/1CKmBQZ078Lup2kKAKVC14"
+    },
+    {
+      "added_at": "2026-08-07 14:33:54",
+      "album": {
         "name": "Quando Voc\u00ea Ligou",
         "url": "https://open.spotify.com/album/0QPNCXbWTQqLXSSOZqp2dh"
       },
@@ -967,26 +987,6 @@
     {
       "added_at": "2026-08-07 14:33:54",
       "album": {
-        "name": "FREQU\u00caNCIA LUNAR",
-        "url": "https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR"
-      },
-      "artists": [
-        {
-          "name": "BUDAH",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 169137,
-      "name": "SALTO 15",
-      "url": "https://open.spotify.com/track/1CKmBQZ078Lup2kKAKVC14"
-    },
-    {
-      "added_at": "2026-08-07 14:33:54",
-      "album": {
         "name": "SIX.",
         "url": "https://open.spotify.com/album/0ulBRtM6uEMBKFbq1NI9mr"
       },
@@ -1003,6 +1003,26 @@
       "duration_ms": 117954,
       "name": "No Meu Club",
       "url": "https://open.spotify.com/track/7K9SL09rkjRVbORQULf2Qq"
+    },
+    {
+      "added_at": "2026-08-07 14:33:54",
+      "album": {
+        "name": "R.U. (Raw & Unfiltered) Vol.1",
+        "url": "https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        }
+      ],
+      "duration_ms": 200314,
+      "name": "Private Chef (feat. MC Morena)",
+      "url": "https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt"
     },
     {
       "added_at": "2026-08-07 14:33:54",
@@ -1135,26 +1155,6 @@
       "duration_ms": 165525,
       "name": "NOITES TRAI\u00c7OEIRAS",
       "url": "https://open.spotify.com/track/5FuRslm40ttLrTJSP8EgUI"
-    },
-    {
-      "added_at": "2026-08-07 14:33:54",
-      "album": {
-        "name": "IRREFRE\u00c1VEL",
-        "url": "https://open.spotify.com/album/37GSicVBksghz8FmLvrUiQ"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 135600,
-      "name": "Mulher Adulta Faz Assim",
-      "url": "https://open.spotify.com/track/0LlMMbD5ma9XJMyJcUZnZo"
     }
   ],
   "unique_name": "AMPLIFIKA",

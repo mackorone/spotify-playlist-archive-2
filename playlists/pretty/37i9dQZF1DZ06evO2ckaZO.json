@@ -1,12 +1,12 @@
 {
   "description": "This is Ice Spice. The essential tracks, all in one playlist.",
-  "num_followers": 77272,
+  "num_followers": 77263,
   "original_name": "This Is Ice Spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anUgAAAAAAAGTJy/hY0QXceYWUabxDW5",
+  "snapshot_id": "anZxgAAAAACnMkZudWOXBweOk2c+xtxo",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Clarity",
-        "url": "https://open.spotify.com/album/5N6REUhO5E2MviBC6thktg"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 108169,
-      "name": "No Clarity",
-      "url": "https://open.spotify.com/track/0tnT8B415mZyOYETy2ulVv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Name of Love",
         "url": "https://open.spotify.com/album/0z9joggqG3K7ffVOvftTwI"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 106666,
       "name": "Name of Love",
       "url": "https://open.spotify.com/track/7xH1se2ywtEQM3g1XuKkIq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Clarity",
+        "url": "https://open.spotify.com/album/5N6REUhO5E2MviBC6thktg"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 108169,
+      "name": "No Clarity",
+      "url": "https://open.spotify.com/track/0tnT8B415mZyOYETy2ulVv"
     },
     {
       "added_at": null,

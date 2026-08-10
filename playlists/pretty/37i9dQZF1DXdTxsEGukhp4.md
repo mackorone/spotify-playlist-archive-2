@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: SUPER BEAVER
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,386 likes - 51 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,382 likes - 51 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 50 | [最初はキュン！](https://open.spotify.com/track/5WBFEpEo85flRybWZfqhHf) | [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln) | [IDOL1ST \(Special Edition\)](https://open.spotify.com/album/3CN0ZrWt88sbfjYsDYqJvq) | 2:57 |
 | 51 | [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/track/7L1gMHl2Hd65Yt4J8IhIk5) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/album/2RoCdV0YAeOcc96olS0Tyj) | 5:22 |
 
-Snapshot ID: `AAAAAEDcWj1AoZKqwHnkWPCEmhXhBmtr`
+Snapshot ID: `AAAAAGfYmbmKArvP2A6Vy+8PfwiWNvxO`

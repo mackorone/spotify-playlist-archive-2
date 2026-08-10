@@ -4,7 +4,7 @@
 
 > Sommerferien, Eis in der Hand und ganz viel Badespaß!
 
-498 songs - 23 hr 13 min
+499 songs - 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Die Herbstzeit ist da](https://open.spotify.com/track/2cjgPruvFDY3a29FgU8T4E) | [Stephen Janetzko](https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG) | [Herbst ist da \- Die 25 schönsten Herbstlieder](https://open.spotify.com/album/3dOuVkISzkQo4jy2qNsBbg) | 3:29 | 2023-08-31 | 2024-10-21 |
 | [Die Jahresuhr](https://open.spotify.com/track/5sS65MOpYlQuqq7HU8jQWZ) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Liederkalender / Die Jahresuhr](https://open.spotify.com/album/7lNjgPujRDW1nmd8bxevFW) | 3:52 | 2023-06-28 |  |
 | [Die Karawane zieht weiter](https://open.spotify.com/track/0l9edyzp7U2zFdvIHT0dEa) | [Karneval!](https://open.spotify.com/artist/4jPCWOIjl0rhs8XWhlq1pt) | [Karneval Megaparty 2011](https://open.spotify.com/album/0NMiaHTe8FYgxnge7H8F0n) | 3:17 | 2024-02-06 | 2026-02-19 |
+| [Die Kinder spielen verrückt](https://open.spotify.com/track/0u6j3BVUJgq3CAkW9ogah6) | [Donots](https://open.spotify.com/artist/2gRgzV2ooQwweEr4s7lwsg), [Deine Freunde](https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng) | [Die Kinder spielen verrückt](https://open.spotify.com/album/4CJ38wAW6yjaajNaG4cTWh) | 2:54 | 2026-08-06 |  |
 | [Die krassesten Schlitten](https://open.spotify.com/track/0hK6Ouhs3AKP1O7ma26ECE) | [Deine Freunde](https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng) | [Das Weihnachtsalbum](https://open.spotify.com/album/5Lvy6ZClAUg6UcDKkLaUU4) | 2:59 | 2023-11-14 | 2026-03-06 |
 | [Die Kürbisfamilie](https://open.spotify.com/track/4U1hPQsPnTePxMcgc0jSP4) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder für den Herbst](https://open.spotify.com/album/45vTBMcPkMDB0vJ06PRJxF) | 2:47 | 2025-09-22 | 2025-11-10 |
 | [Die Laterne hat heut ihren großen Tag](https://open.spotify.com/track/7BC42JI3FLtA8hhuTl7TyY) | [Jürgen Fastje](https://open.spotify.com/artist/1fBCzTI3C3lLiBqyJU81PB) | [Kinderlieder, Teil 3](https://open.spotify.com/album/7oxfGQyy1dp8LAieSPZRP6) | 3:33 | 2023-11-07 | 2025-11-15 |
@@ -109,7 +110,7 @@
 | [Die Nase läuft](https://open.spotify.com/track/1CbOIRwnpmH5nIoe8ihk0d) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 2:57 | 2024-09-27 | 2025-11-10 |
 | [Die Schlittenfahrt](https://open.spotify.com/track/0Gy5ko2FkfuTlLHfXD6IhS) | [Pettersson und Findus](https://open.spotify.com/artist/3YZqnPKdtP5qP4LSvrgx9i) | [Winterzauberlieder](https://open.spotify.com/album/5Xhwclz0kD81yrmXZxOpFw) | 3:29 | 2023-11-22 | 2026-03-06 |
 | [Die Weihnachtskinder](https://open.spotify.com/track/2CmW44XheHnAEKTXJDKzxj) | [Eule und Lerche](https://open.spotify.com/artist/4rnjX26GPtQ12aFGuXgaew) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 3:09 | 2023-11-14 | 2026-01-06 |
-| [Disco Kinder \(Minis Maxis\)](https://open.spotify.com/track/6eEyiLb4fZxdBZ6vWJMr5G) | [Isa Glücklich](https://open.spotify.com/artist/2qLRWpOpxPKpyVW3GdGVHh) | [Disco Kinder](https://open.spotify.com/album/3H4zFfJdiScYlYTARQBjPs) | 2:49 | 2025-08-05 |  |
+| [Disco Kinder \(Minis Maxis\)](https://open.spotify.com/track/6eEyiLb4fZxdBZ6vWJMr5G) | [Isa Glücklich](https://open.spotify.com/artist/2qLRWpOpxPKpyVW3GdGVHh) | [Disco Kinder](https://open.spotify.com/album/3H4zFfJdiScYlYTARQBjPs) | 2:49 | 2025-08-05 | 2026-08-10 |
 | [Drachenwind](https://open.spotify.com/track/67vOXepMNB0ZDQlnANzsr5) | [Berend Intelmann](https://open.spotify.com/artist/7bHnUZwNT0xHUAUpNUNJ1v), [Unter meinem Bett](https://open.spotify.com/artist/7y89sMv0ADqEMEOo2tOIM7) | [Unter meinem Bett 7](https://open.spotify.com/album/5Q8R9IdUfGHGD36XvqkMIy) | 3:40 | 2023-08-31 | 2026-03-17 |
 | [Dracula](https://open.spotify.com/track/6ec14meGCkblYk8evZc442) | [3Berlin](https://open.spotify.com/artist/7eUEQQxUaukrKyzVjeWk1V) | [Summ, Summ, Summ! \- Die beliebtesten Karnevalslieder \(Incl\. Karaoke\- Und Instrumentalversionen aller Titel\)](https://open.spotify.com/album/0BMYDXZnqOEiPS09WXPL7Q) | 2:19 | 2024-10-25 | 2025-10-23 |
 | [Dracula \- Remastered 2004](https://open.spotify.com/track/2qNDy6bmZyVnWJS8UeqbtA) | [Iris Gruttmann](https://open.spotify.com/artist/7ePL5iRMTwMrgA6DyFDA4l) | [Das große Felix Liederalbum 2](https://open.spotify.com/album/6UCseiCljsu6wn0tQuT5sq) | 4:49 | 2023-10-16 | 2025-11-04 |

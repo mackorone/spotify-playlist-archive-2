@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Bonobo",
-  "num_followers": 43761,
+  "num_followers": 43767,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -239,18 +239,18 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "Essex_Honey.mp3",
-        "url": "https://open.spotify.com/album/7Em98ENzbDnIoXXPaZ4mFY"
+        "name": "Me and You",
+        "url": "https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD"
       },
       "artists": [
         {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 289075,
-      "name": "Essex_Honey.mp3",
-      "url": "https://open.spotify.com/track/6PMSpoBxswOQOkgWXv0ih3"
+      "duration_ms": 229475,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -271,18 +271,18 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "Me and You",
-        "url": "https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD"
+        "name": "Essex_Honey.mp3",
+        "url": "https://open.spotify.com/album/7Em98ENzbDnIoXXPaZ4mFY"
       },
       "artists": [
         {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
         }
       ],
-      "duration_ms": 229475,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo"
+      "duration_ms": 289075,
+      "name": "Essex_Honey.mp3",
+      "url": "https://open.spotify.com/track/6PMSpoBxswOQOkgWXv0ih3"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -323,8 +323,8 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "L.U.C.K.Y",
-        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
+        "name": "\u00d6",
+        "url": "https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
         }
       ],
-      "duration_ms": 138706,
-      "name": "L.U.C.K.Y",
-      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
+      "duration_ms": 178280,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -419,8 +419,8 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "\u00d6",
-        "url": "https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO"
+        "name": "L.U.C.K.Y",
+        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
         }
       ],
-      "duration_ms": 178280,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox"
+      "duration_ms": 138706,
+      "name": "L.U.C.K.Y",
+      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -455,6 +455,26 @@
       "duration_ms": 212750,
       "name": "Mind Off",
       "url": "https://open.spotify.com/track/1NW7RoUrFx7H9H5k258BVM"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
+        "name": "Turn Up The Love",
+        "url": "https://open.spotify.com/album/2OkJyJE2eByZ7jg46Gqsy5"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        },
+        {
+          "name": "Crystal Fighters",
+          "url": "https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC"
+        }
+      ],
+      "duration_ms": 186728,
+      "name": "Turn Up The Love",
+      "url": "https://open.spotify.com/track/6mPVFIUE1SamSyfWGju8Y4"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -487,26 +507,6 @@
       "duration_ms": 271835,
       "name": "Lockup",
       "url": "https://open.spotify.com/track/0iONV7wVA3odk4r4MuQO7w"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
-        "name": "Turn Up The Love",
-        "url": "https://open.spotify.com/album/2OkJyJE2eByZ7jg46Gqsy5"
-      },
-      "artists": [
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        },
-        {
-          "name": "Crystal Fighters",
-          "url": "https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC"
-        }
-      ],
-      "duration_ms": 186728,
-      "name": "Turn Up The Love",
-      "url": "https://open.spotify.com/track/6mPVFIUE1SamSyfWGju8Y4"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "if you wanna party, come over to my house",
-        "url": "https://open.spotify.com/album/6idF8Ss7GdiB5L0jfMs4wT"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 171613,
-      "name": "if you wanna party, come over to my house",
-      "url": "https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
         "name": "Lemme Dance",
         "url": "https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 223660,
       "name": "Lemme Dance",
       "url": "https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
+        "name": "if you wanna party, come over to my house",
+        "url": "https://open.spotify.com/album/6idF8Ss7GdiB5L0jfMs4wT"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 171613,
+      "name": "if you wanna party, come over to my house",
+      "url": "https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "Dream",
-        "url": "https://open.spotify.com/album/5RRxkgSIBJ02AUEUf9pi9d"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 164885,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/1zQ3aaipEmoZ4tHtwIR28a"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
         "name": "Kairos",
         "url": "https://open.spotify.com/album/38nkBOhEeSbz0MBcgZKMaD"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 182105,
       "name": "Falling",
       "url": "https://open.spotify.com/track/2jj66DFOhFPJQMnLYpAAUl"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/5RRxkgSIBJ02AUEUf9pi9d"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 164885,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/1zQ3aaipEmoZ4tHtwIR28a"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "She Waits",
-        "url": "https://open.spotify.com/album/2OeZ42uzQXCop2v3xLTK0d"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 177840,
-      "name": "She Waits",
-      "url": "https://open.spotify.com/track/6UPql2upXpCahPme1FzOs6"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
         "name": "Bad Bara",
         "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 245571,
       "name": "Bad Bara",
       "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
+        "name": "She Waits",
+        "url": "https://open.spotify.com/album/2OeZ42uzQXCop2v3xLTK0d"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 177840,
+      "name": "She Waits",
+      "url": "https://open.spotify.com/track/6UPql2upXpCahPme1FzOs6"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -871,26 +871,6 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "That's All I Ask (HAAi Remix)",
-        "url": "https://open.spotify.com/album/1n539cmpnAuEu6v9WS0gxX"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
-        }
-      ],
-      "duration_ms": 257741,
-      "name": "That's All I Ask - HAAi Remix / Edit",
-      "url": "https://open.spotify.com/track/40qN3XgBBaq3AtD4a6ArJc"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
         "name": "Last October",
         "url": "https://open.spotify.com/album/6EqGtuFdenyq037JmYDZF4"
       },
@@ -903,6 +883,22 @@
       "duration_ms": 188452,
       "name": "Last October",
       "url": "https://open.spotify.com/track/2mQI9h4mI5MlHJGnF2WJSU"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
+        "name": "Bond Girl",
+        "url": "https://open.spotify.com/album/1gVfQOK0JCDALKvueOfMBn"
+      },
+      "artists": [
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        }
+      ],
+      "duration_ms": 151003,
+      "name": "Bond Girl",
+      "url": "https://open.spotify.com/track/0t4r8UtTpyhTHflgKoyRsZ"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -947,34 +943,22 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "Bond Girl",
-        "url": "https://open.spotify.com/album/1gVfQOK0JCDALKvueOfMBn"
+        "name": "That's All I Ask (HAAi Remix)",
+        "url": "https://open.spotify.com/album/1n539cmpnAuEu6v9WS0gxX"
       },
       "artists": [
         {
-          "name": "John Glacier",
-          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
-        }
-      ],
-      "duration_ms": 151003,
-      "name": "Bond Girl",
-      "url": "https://open.spotify.com/track/0t4r8UtTpyhTHflgKoyRsZ"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
-        "name": "Elm",
-        "url": "https://open.spotify.com/album/25t2b2lJcV28ZwmZo75ENB"
-      },
-      "artists": [
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        },
         {
-          "name": "Dusky",
-          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
         }
       ],
-      "duration_ms": 227358,
-      "name": "Elm",
-      "url": "https://open.spotify.com/track/0wgC8RFkVlCV082J6E2Lfe"
+      "duration_ms": 257741,
+      "name": "That's All I Ask - HAAi Remix / Edit",
+      "url": "https://open.spotify.com/track/40qN3XgBBaq3AtD4a6ArJc"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -1007,6 +991,22 @@
       "duration_ms": 169411,
       "name": "Play Me",
       "url": "https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
+        "name": "Elm",
+        "url": "https://open.spotify.com/album/25t2b2lJcV28ZwmZo75ENB"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "duration_ms": 227358,
+      "name": "Elm",
+      "url": "https://open.spotify.com/track/0wgC8RFkVlCV082J6E2Lfe"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "Anotherwave",
-        "url": "https://open.spotify.com/album/4RUBLJUANaWzNZSJV7Xmox"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        },
-        {
-          "name": "Sea Lemon",
-          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
-        }
-      ],
-      "duration_ms": 246180,
-      "name": "Anotherwave",
-      "url": "https://open.spotify.com/track/10WZEaaJ2MsKMgPJpxgaRO"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
         "name": "See It As A Sign",
         "url": "https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp"
       },
@@ -1091,18 +1071,22 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "Prophecy At 1420 MHz",
-        "url": "https://open.spotify.com/album/3sq57EactOjc9RJqk6Yl1y"
+        "name": "Anotherwave",
+        "url": "https://open.spotify.com/album/4RUBLJUANaWzNZSJV7Xmox"
       },
       "artists": [
         {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        },
+        {
+          "name": "Sea Lemon",
+          "url": "https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w"
         }
       ],
-      "duration_ms": 304499,
-      "name": "Prophecy At 1420 MHz",
-      "url": "https://open.spotify.com/track/4gYaI1S9Qug6B96E2HwxeN"
+      "duration_ms": 246180,
+      "name": "Anotherwave",
+      "url": "https://open.spotify.com/track/10WZEaaJ2MsKMgPJpxgaRO"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -1119,22 +1103,6 @@
       "duration_ms": 215375,
       "name": "Switch Up",
       "url": "https://open.spotify.com/track/1FHSvpvNWmJcpDcmsxrtbH"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
-        "name": "Kelsier",
-        "url": "https://open.spotify.com/album/083Q8p1eQrtQgmsVYyOD7E"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        }
-      ],
-      "duration_ms": 232131,
-      "name": "Kelsier",
-      "url": "https://open.spotify.com/track/5W8vqZAZF41QpYXckXlrlz"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -1159,6 +1127,38 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
+        "name": "Prophecy At 1420 MHz",
+        "url": "https://open.spotify.com/album/3sq57EactOjc9RJqk6Yl1y"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 304499,
+      "name": "Prophecy At 1420 MHz",
+      "url": "https://open.spotify.com/track/4gYaI1S9Qug6B96E2HwxeN"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
+        "name": "Kelsier",
+        "url": "https://open.spotify.com/album/083Q8p1eQrtQgmsVYyOD7E"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 232131,
+      "name": "Kelsier",
+      "url": "https://open.spotify.com/track/5W8vqZAZF41QpYXckXlrlz"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
         "name": "All Your Love",
         "url": "https://open.spotify.com/album/4E0C00NAz73LhNUxB9pquv"
       },
@@ -1171,22 +1171,6 @@
       "duration_ms": 151763,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/0EUvplf7cvLd1ZLumMmY3T"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
-        "name": "Curses Broken",
-        "url": "https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY"
-      },
-      "artists": [
-        {
-          "name": "Gerry Read",
-          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
-        }
-      ],
-      "duration_ms": 277838,
-      "name": "Better Let It Go",
-      "url": "https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -1215,6 +1199,22 @@
       "duration_ms": 198666,
       "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
       "url": "https://open.spotify.com/track/0iYNsh3PU3BaRLtijklDM1"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
+        "name": "Curses Broken",
+        "url": "https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY"
+      },
+      "artists": [
+        {
+          "name": "Gerry Read",
+          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
+        }
+      ],
+      "duration_ms": 277838,
+      "name": "Better Let It Go",
+      "url": "https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 266129,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
         "name": "Sort It Out",
         "url": "https://open.spotify.com/album/0frOHCo8ZfNdzs59oztxzK"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 271415,
       "name": "Sort It Out",
       "url": "https://open.spotify.com/track/7GPLRckCBUZSq0nPkw539N"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 266129,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"
     }
   ],
   "unique_name": "Indie Electronic ",

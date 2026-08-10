@@ -1,6 +1,6 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 104618,
+  "num_followers": 104631,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
+        "name": "Azimuth",
+        "url": "https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53"
+      },
+      "artists": [
+        {
+          "name": "Kenny Larkin",
+          "url": "https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV"
+        }
+      ],
+      "duration_ms": 341106,
+      "name": "Tedra",
+      "url": "https://open.spotify.com/track/6Au8dwqW17E3rykzOtXzqn"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
         "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
         "url": "https://open.spotify.com/album/2qL2XDMFnnmoUWrwUuIEHp"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 554692,
       "name": "Riod",
       "url": "https://open.spotify.com/track/6v4tA05iYtUZ7N7l2Nd6HD"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
-        "name": "Azimuth",
-        "url": "https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53"
-      },
-      "artists": [
-        {
-          "name": "Kenny Larkin",
-          "url": "https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV"
-        }
-      ],
-      "duration_ms": 383706,
-      "name": "Q",
-      "url": "https://open.spotify.com/track/5aCcZlUVkBrkQyMl2owvWb"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
+        "name": "Azimuth",
+        "url": "https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53"
+      },
+      "artists": [
+        {
+          "name": "Kenny Larkin",
+          "url": "https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV"
+        }
+      ],
+      "duration_ms": 383706,
+      "name": "Q",
+      "url": "https://open.spotify.com/track/5aCcZlUVkBrkQyMl2owvWb"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
         "name": "Psyche/BFC - DELUXE DIGITAL VERSION",
         "url": "https://open.spotify.com/album/505rV6smETxuNFTgRphph7"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 411999,
       "name": "Elements",
       "url": "https://open.spotify.com/track/4aZXoNpqXVZ8tAyoaLNrPh"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
-        "name": "Azimuth",
-        "url": "https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53"
-      },
-      "artists": [
-        {
-          "name": "Kenny Larkin",
-          "url": "https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV"
-        }
-      ],
-      "duration_ms": 341106,
-      "name": "Tedra",
-      "url": "https://open.spotify.com/track/6Au8dwqW17E3rykzOtXzqn"
     },
     {
       "added_at": "2025-08-29 04:00:36",

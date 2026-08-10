@@ -1,12 +1,12 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 76205,
+  "num_followers": 76223,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHXYaQ4KYQO2seepZydLdiwgw11W",
+  "snapshot_id": "AAAAACBQhWRK+0fkgfJsCug5TkPaEIj4",
   "tracks": [
     {
       "added_at": "2026-07-31 03:00:11",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-07-31 03:00:11",
       "album": {
+        "name": "El Sonido Real",
+        "url": "https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A"
+      },
+      "artists": [
+        {
+          "name": "El Natty Combo",
+          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
+        }
+      ],
+      "duration_ms": 385560,
+      "name": "Mi Sol",
+      "url": "https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK"
+    },
+    {
+      "added_at": "2026-07-31 03:00:11",
+      "album": {
         "name": "7 Vidas",
         "url": "https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 201347,
       "name": "7 Vidas",
       "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
-    },
-    {
-      "added_at": "2026-07-31 03:00:11",
-      "album": {
-        "name": "El Sonido Real",
-        "url": "https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A"
-      },
-      "artists": [
-        {
-          "name": "El Natty Combo",
-          "url": "https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9"
-        }
-      ],
-      "duration_ms": 385560,
-      "name": "Mi Sol",
-      "url": "https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK"
     },
     {
       "added_at": "2026-07-31 03:00:11",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-07-31 03:00:11",
       "album": {
-        "name": "Quiero ser feliz tambien",
-        "url": "https://open.spotify.com/album/1sVWfIvv4A8G81RIQZl6RG"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Quiero ser feliz tambien",
-      "url": "https://open.spotify.com/track/69JT3b2gIzPSf7POUiBpdI"
-    },
-    {
-      "added_at": "2026-07-31 03:00:11",
-      "album": {
         "name": "La Misi\u00f3n",
         "url": "https://open.spotify.com/album/4IJ91JMRzDdHxIkphWCFko"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 208212,
       "name": "Cinco",
       "url": "https://open.spotify.com/track/4D67AVNdClfZqEiwOsKtKP"
+    },
+    {
+      "added_at": "2026-07-31 03:00:11",
+      "album": {
+        "name": "Quiero ser feliz tambien",
+        "url": "https://open.spotify.com/album/1sVWfIvv4A8G81RIQZl6RG"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Quiero ser feliz tambien",
+      "url": "https://open.spotify.com/track/69JT3b2gIzPSf7POUiBpdI"
     },
     {
       "added_at": "2026-07-31 03:00:11",
@@ -667,8 +667,8 @@
     {
       "added_at": "2026-07-31 03:00:11",
       "album": {
-        "name": "La Tierra",
-        "url": "https://open.spotify.com/album/5ihT2IwvWcENJmWzlIqCFn"
+        "name": "Inmortal",
+        "url": "https://open.spotify.com/album/2rwM15WeZLvxQL5r974CSX"
       },
       "artists": [
         {
@@ -676,13 +676,13 @@
           "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
         },
         {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
         }
       ],
-      "duration_ms": 218305,
-      "name": "La Tierra",
-      "url": "https://open.spotify.com/track/45L2ABDWZCeKKKQz77pXuy"
+      "duration_ms": 231294,
+      "name": "Inmortal",
+      "url": "https://open.spotify.com/track/6WbGHInGORCidaQqH2wenx"
     },
     {
       "added_at": "2026-07-31 03:00:11",
@@ -987,6 +987,54 @@
     {
       "added_at": "2026-07-31 03:00:11",
       "album": {
+        "name": "Bahiano BH+",
+        "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "duration_ms": 260266,
+      "name": "No Mires Atras",
+      "url": "https://open.spotify.com/track/5p1tfHJsagO1inTgmiW7Sk"
+    },
+    {
+      "added_at": "2026-07-31 03:00:11",
+      "album": {
+        "name": "As\u00ed",
+        "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
+      },
+      "artists": [
+        {
+          "name": "Mensajeros Reggae",
+          "url": "https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Naufrago",
+      "url": "https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o"
+    },
+    {
+      "added_at": "2026-07-31 03:00:11",
+      "album": {
+        "name": "S\u00ed Ser\u00e1s",
+        "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "duration_ms": 198680,
+      "name": "Puede Parecer",
+      "url": "https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q"
+    },
+    {
+      "added_at": "2026-07-31 03:00:11",
+      "album": {
         "name": "Soul Reggae",
         "url": "https://open.spotify.com/album/0ilGytXUMqHh6DPYQSmFqk"
       },
@@ -1011,70 +1059,6 @@
       "duration_ms": 218000,
       "name": "Trenchtown rock",
       "url": "https://open.spotify.com/track/4XYPh5gOB5cj02SE0NEig8"
-    },
-    {
-      "added_at": "2026-07-31 03:00:11",
-      "album": {
-        "name": "Bahiano BH+",
-        "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 260266,
-      "name": "No Mires Atras",
-      "url": "https://open.spotify.com/track/5p1tfHJsagO1inTgmiW7Sk"
-    },
-    {
-      "added_at": "2026-07-31 03:00:11",
-      "album": {
-        "name": "S\u00ed Ser\u00e1s",
-        "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        }
-      ],
-      "duration_ms": 198680,
-      "name": "Puede Parecer",
-      "url": "https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q"
-    },
-    {
-      "added_at": "2026-07-31 03:00:11",
-      "album": {
-        "name": "As\u00ed",
-        "url": "https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte"
-      },
-      "artists": [
-        {
-          "name": "Mensajeros Reggae",
-          "url": "https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Naufrago",
-      "url": "https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o"
-    },
-    {
-      "added_at": "2026-07-31 03:00:11",
-      "album": {
-        "name": "Runfla Calavera",
-        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
-      },
-      "artists": [
-        {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "D\u00e9jalo Fluir",
-      "url": "https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA"
     },
     {
       "added_at": "2026-07-31 03:00:11",
@@ -1107,6 +1091,22 @@
       "duration_ms": 185666,
       "name": "El Pescador",
       "url": "https://open.spotify.com/track/5UU7hhIQFIZKjryRuUXmed"
+    },
+    {
+      "added_at": "2026-07-31 03:00:11",
+      "album": {
+        "name": "Runfla Calavera",
+        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
+      },
+      "artists": [
+        {
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "D\u00e9jalo Fluir",
+      "url": "https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA"
     },
     {
       "added_at": "2026-07-31 03:00:11",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2026-07-31 03:00:11",
       "album": {
-        "name": "As\u00ed Se Vive Feliz",
-        "url": "https://open.spotify.com/album/5fGENcbYnHf0qXhJTUvGOQ"
-      },
-      "artists": [
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        },
-        {
-          "name": "Unity Sound",
-          "url": "https://open.spotify.com/artist/5K354VQ6YnadcAq59TNgwH"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "As\u00ed Se Vive Feliz",
-      "url": "https://open.spotify.com/track/1KuBGjOWwsSvpUoIOpND2z"
-    },
-    {
-      "added_at": "2026-07-31 03:00:11",
-      "album": {
         "name": "Fiesta de Zombis",
         "url": "https://open.spotify.com/album/4KwoJGzMTFm6UqiODYriCp"
       },
@@ -1247,22 +1227,6 @@
       "duration_ms": 254328,
       "name": "Fiesta de zombis",
       "url": "https://open.spotify.com/track/3KUJQbTrxzTcDCOrZREJpc"
-    },
-    {
-      "added_at": "2026-07-31 03:00:11",
-      "album": {
-        "name": "Cover Me",
-        "url": "https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 250493,
-      "name": "Culpable O No",
-      "url": "https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq"
     },
     {
       "added_at": "2026-07-31 03:00:11",
@@ -1283,6 +1247,42 @@
       "duration_ms": 258349,
       "name": "Family",
       "url": "https://open.spotify.com/track/1oOXaVhLJnpNmdvB0JLSOl"
+    },
+    {
+      "added_at": "2026-07-31 03:00:11",
+      "album": {
+        "name": "Cover Me",
+        "url": "https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 250493,
+      "name": "Culpable O No",
+      "url": "https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq"
+    },
+    {
+      "added_at": "2026-07-31 03:00:11",
+      "album": {
+        "name": "As\u00ed Se Vive Feliz",
+        "url": "https://open.spotify.com/album/5fGENcbYnHf0qXhJTUvGOQ"
+      },
+      "artists": [
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        },
+        {
+          "name": "Unity Sound",
+          "url": "https://open.spotify.com/artist/5K354VQ6YnadcAq59TNgwH"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "As\u00ed Se Vive Feliz",
+      "url": "https://open.spotify.com/track/1KuBGjOWwsSvpUoIOpND2z"
     },
     {
       "added_at": "2026-07-31 03:00:11",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-07-31 03:00:11",
       "album": {
-        "name": "Cool and Calm",
-        "url": "https://open.spotify.com/album/1SrHyPTxUtvtrVd2vHJ24U"
-      },
-      "artists": [
-        {
-          "name": "Tiano Bless",
-          "url": "https://open.spotify.com/artist/35B3K7HUycrePapFhO8X5v"
-        }
-      ],
-      "duration_ms": 178085,
-      "name": "Cool and Calm",
-      "url": "https://open.spotify.com/track/4b99UsjZul6cpWAHRfAqnq"
-    },
-    {
-      "added_at": "2026-07-31 03:00:11",
-      "album": {
         "name": "Humo",
         "url": "https://open.spotify.com/album/7fnXhIC06cyvU9ZOP6BaBE"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 239280,
       "name": "Buena Suerte",
       "url": "https://open.spotify.com/track/4dr6LUn5QQyBAYuFzJSZfU"
+    },
+    {
+      "added_at": "2026-07-31 03:00:11",
+      "album": {
+        "name": "Cool and Calm",
+        "url": "https://open.spotify.com/album/1SrHyPTxUtvtrVd2vHJ24U"
+      },
+      "artists": [
+        {
+          "name": "Tiano Bless",
+          "url": "https://open.spotify.com/artist/35B3K7HUycrePapFhO8X5v"
+        }
+      ],
+      "duration_ms": 178085,
+      "name": "Cool and Calm",
+      "url": "https://open.spotify.com/track/4b99UsjZul6cpWAHRfAqnq"
     },
     {
       "added_at": "2026-07-31 03:00:11",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-07-31 03:00:11",
       "album": {
-        "name": "En Vivo Teatro Caupolic\u00e1n",
-        "url": "https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 251567,
-      "name": "Volver a Sentir - En Vivo en el Teatro Caupolic\u00e1n",
-      "url": "https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67"
-    },
-    {
-      "added_at": "2026-07-31 03:00:11",
-      "album": {
         "name": "Mentiras Lado B",
         "url": "https://open.spotify.com/album/5WLuDZiaytqLtMQwqQ09Rv"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 168937,
       "name": "Al Final",
       "url": "https://open.spotify.com/track/0pc8uz5erBUl2LEgBQuVg0"
+    },
+    {
+      "added_at": "2026-07-31 03:00:11",
+      "album": {
+        "name": "En Vivo Teatro Caupolic\u00e1n",
+        "url": "https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 251567,
+      "name": "Volver a Sentir - En Vivo en el Teatro Caupolic\u00e1n",
+      "url": "https://open.spotify.com/track/5fj6aJG4nlcFpOBLrotZ67"
     },
     {
       "added_at": "2026-07-31 03:00:11",

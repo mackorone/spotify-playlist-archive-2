@@ -1,6 +1,6 @@
 {
   "description": "Rock with a drop. Cover: Madeon \\m/",
-  "num_followers": 356649,
+  "num_followers": 356661,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1195,22 +1195,22 @@
     {
       "added_at": "2026-08-07 18:57:13",
       "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/4f9UGlRncIgchuFWcMhkef"
+        "name": "Crash & Burn",
+        "url": "https://open.spotify.com/album/76vLQIeMvpqzqDRwpvuUqO"
       },
       "artists": [
         {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
         },
         {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
         }
       ],
-      "duration_ms": 169243,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/0CjJJrpnQCpQMsT4nzezII"
+      "duration_ms": 246400,
+      "name": "Crash & Burn",
+      "url": "https://open.spotify.com/track/5UrZ1UfrJhyB7RMmWaRjXO"
     },
     {
       "added_at": "2026-08-07 18:57:13",
@@ -1235,22 +1235,22 @@
     {
       "added_at": "2026-08-07 18:57:13",
       "album": {
-        "name": "Crash & Burn",
-        "url": "https://open.spotify.com/album/76vLQIeMvpqzqDRwpvuUqO"
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/4f9UGlRncIgchuFWcMhkef"
       },
       "artists": [
         {
-          "name": "Northlane",
-          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
         },
         {
-          "name": "PhaseOne",
-          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
         }
       ],
-      "duration_ms": 246400,
-      "name": "Crash & Burn",
-      "url": "https://open.spotify.com/track/5UrZ1UfrJhyB7RMmWaRjXO"
+      "duration_ms": 169243,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/0CjJJrpnQCpQMsT4nzezII"
     },
     {
       "added_at": "2026-08-07 18:57:13",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-08-07 18:57:13",
       "album": {
+        "name": "FIGURE IT OUT",
+        "url": "https://open.spotify.com/album/4jCKsyJs8tskfcov8TnhPC"
+      },
+      "artists": [
+        {
+          "name": "ZEP",
+          "url": "https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "FIGURE IT OUT",
+      "url": "https://open.spotify.com/track/0ZNcMmQFfId5YbrwbGEcN1"
+    },
+    {
+      "added_at": "2026-08-07 18:57:13",
+      "album": {
         "name": "Napalm",
         "url": "https://open.spotify.com/album/2vwB6SbE20uH2iaDpFb4Rc"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 204214,
       "name": "Napalm",
       "url": "https://open.spotify.com/track/5aYrqHtWy7UJljAVq3LFwv"
-    },
-    {
-      "added_at": "2026-08-07 18:57:13",
-      "album": {
-        "name": "FIGURE IT OUT",
-        "url": "https://open.spotify.com/album/4jCKsyJs8tskfcov8TnhPC"
-      },
-      "artists": [
-        {
-          "name": "ZEP",
-          "url": "https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "FIGURE IT OUT",
-      "url": "https://open.spotify.com/track/0ZNcMmQFfId5YbrwbGEcN1"
     },
     {
       "added_at": "2026-08-07 18:57:13",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-08-07 18:57:13",
       "album": {
-        "name": "HEADLOCK",
-        "url": "https://open.spotify.com/album/2BbKEEnpv0xKn7tGkQYD5u"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "HEADLOCK",
-      "url": "https://open.spotify.com/track/6lnuGOIpbDljQaP9YxADOG"
-    },
-    {
-      "added_at": "2026-08-07 18:57:13",
-      "album": {
         "name": "Welcome To My Life",
         "url": "https://open.spotify.com/album/3Q3tSxN1bqomlhCz3CNPjT"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 144705,
       "name": "Welcome To My Life",
       "url": "https://open.spotify.com/track/5quWKpomMVx0NofTzESmmG"
+    },
+    {
+      "added_at": "2026-08-07 18:57:13",
+      "album": {
+        "name": "HEADLOCK",
+        "url": "https://open.spotify.com/album/2BbKEEnpv0xKn7tGkQYD5u"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "HEADLOCK",
+      "url": "https://open.spotify.com/track/6lnuGOIpbDljQaP9YxADOG"
     },
     {
       "added_at": "2026-08-07 18:57:13",
@@ -1815,6 +1815,26 @@
     {
       "added_at": "2026-08-07 18:57:13",
       "album": {
+        "name": "Sugar, We're Goin Down",
+        "url": "https://open.spotify.com/album/5TkZOiEJTzAmOOKLTG2nJG"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Social Repose",
+          "url": "https://open.spotify.com/artist/2KGgkFhzF8mQwDy321OHIy"
+        }
+      ],
+      "duration_ms": 209210,
+      "name": "Sugar, We're Goin Down",
+      "url": "https://open.spotify.com/track/1FC8XVf7JM1F6PFTbv26DR"
+    },
+    {
+      "added_at": "2026-08-07 18:57:13",
+      "album": {
         "name": "Core (That's Who We Are)",
         "url": "https://open.spotify.com/album/40TWBXnJQBE4vS8azbjeY5"
       },
@@ -1855,26 +1875,6 @@
       "duration_ms": 230400,
       "name": "You Can't Break Me (feat. Brandon Saller of Atreyu)",
       "url": "https://open.spotify.com/track/61lywMXKiITBED8Do8LQHQ"
-    },
-    {
-      "added_at": "2026-08-07 18:57:13",
-      "album": {
-        "name": "Sugar, We're Goin Down",
-        "url": "https://open.spotify.com/album/5TkZOiEJTzAmOOKLTG2nJG"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "Social Repose",
-          "url": "https://open.spotify.com/artist/2KGgkFhzF8mQwDy321OHIy"
-        }
-      ],
-      "duration_ms": 209210,
-      "name": "Sugar, We're Goin Down",
-      "url": "https://open.spotify.com/track/1FC8XVf7JM1F6PFTbv26DR"
     },
     {
       "added_at": "2026-08-07 18:57:13",
@@ -1931,6 +1931,30 @@
     {
       "added_at": "2026-08-07 18:57:13",
       "album": {
+        "name": "The Catastrophists EP",
+        "url": "https://open.spotify.com/album/6Kl5tzEtLjRKTPBtjw8NQr"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+        },
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 251707,
+      "name": "Lightning Over Mexico",
+      "url": "https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A"
+    },
+    {
+      "added_at": "2026-08-07 18:57:13",
+      "album": {
         "name": "AUTOPSY BUFFET",
         "url": "https://open.spotify.com/album/5fXmvaPbkQbfM1o8YxSC9P"
       },
@@ -1963,30 +1987,6 @@
       "duration_ms": 251034,
       "name": "The Beginning",
       "url": "https://open.spotify.com/track/1U35E62tdlFBq983eG1Doc"
-    },
-    {
-      "added_at": "2026-08-07 18:57:13",
-      "album": {
-        "name": "The Catastrophists EP",
-        "url": "https://open.spotify.com/album/6Kl5tzEtLjRKTPBtjw8NQr"
-      },
-      "artists": [
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        },
-        {
-          "name": "The Bloody Beetroots",
-          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
-        },
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 251707,
-      "name": "Lightning Over Mexico",
-      "url": "https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A"
     },
     {
       "added_at": "2026-08-07 18:57:13",
@@ -2287,6 +2287,22 @@
     {
       "added_at": "2026-08-07 18:57:13",
       "album": {
+        "name": "When You & Me Dance",
+        "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "When You & Me Dance",
+      "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
+    },
+    {
+      "added_at": "2026-08-07 18:57:13",
+      "album": {
         "name": "Liar (with OST)",
         "url": "https://open.spotify.com/album/1dVm3KtEc7sr2ymzpXBxDn"
       },
@@ -2307,18 +2323,22 @@
     {
       "added_at": "2026-08-07 18:57:13",
       "album": {
-        "name": "When You & Me Dance",
-        "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
+        "name": "RAVEN",
+        "url": "https://open.spotify.com/album/6tX2IEgpNeLwODIXR36mOS"
       },
       "artists": [
         {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+          "name": "Grey",
+          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
+        },
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
         }
       ],
-      "duration_ms": 221142,
-      "name": "When You & Me Dance",
-      "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
+      "duration_ms": 184000,
+      "name": "RAVEN",
+      "url": "https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt"
     },
     {
       "added_at": "2026-08-07 18:57:13",
@@ -2343,22 +2363,22 @@
     {
       "added_at": "2026-08-07 18:57:13",
       "album": {
-        "name": "RAVEN",
-        "url": "https://open.spotify.com/album/6tX2IEgpNeLwODIXR36mOS"
+        "name": "Bad Blood (Weird Genius Remix)",
+        "url": "https://open.spotify.com/album/2YsuUjmQ2ycwqIh6tWmsV4"
       },
       "artists": [
         {
-          "name": "Grey",
-          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
         },
         {
-          "name": "Virtual Riot",
-          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+          "name": "Weird Genius",
+          "url": "https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ"
         }
       ],
-      "duration_ms": 184000,
-      "name": "RAVEN",
-      "url": "https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt"
+      "duration_ms": 197334,
+      "name": "Bad Blood - Weird Genius Remix",
+      "url": "https://open.spotify.com/track/1ztPHFuEadFj9SdFPsD1HQ"
     },
     {
       "added_at": "2026-08-07 18:57:13",
@@ -2399,26 +2419,6 @@
     {
       "added_at": "2026-08-07 18:57:13",
       "album": {
-        "name": "Bad Blood (Weird Genius Remix)",
-        "url": "https://open.spotify.com/album/2YsuUjmQ2ycwqIh6tWmsV4"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        },
-        {
-          "name": "Weird Genius",
-          "url": "https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ"
-        }
-      ],
-      "duration_ms": 197334,
-      "name": "Bad Blood - Weird Genius Remix",
-      "url": "https://open.spotify.com/track/1ztPHFuEadFj9SdFPsD1HQ"
-    },
-    {
-      "added_at": "2026-08-07 18:57:13",
-      "album": {
         "name": "Run Rabbit",
         "url": "https://open.spotify.com/album/5FUeeX24CzLG40MorWm1zK"
       },
@@ -2451,22 +2451,6 @@
     {
       "added_at": "2026-08-07 18:57:13",
       "album": {
-        "name": "Get To U",
-        "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
-      },
-      "artists": [
-        {
-          "name": "Papa Khan",
-          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
-        }
-      ],
-      "duration_ms": 176008,
-      "name": "Get To U",
-      "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
-    },
-    {
-      "added_at": "2026-08-07 18:57:13",
-      "album": {
         "name": "come around",
         "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
       },
@@ -2479,6 +2463,22 @@
       "duration_ms": 219789,
       "name": "come around",
       "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
+    },
+    {
+      "added_at": "2026-08-07 18:57:13",
+      "album": {
+        "name": "Get To U",
+        "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
+      },
+      "artists": [
+        {
+          "name": "Papa Khan",
+          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
+        }
+      ],
+      "duration_ms": 176008,
+      "name": "Get To U",
+      "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
     },
     {
       "added_at": "2026-08-07 18:57:13",

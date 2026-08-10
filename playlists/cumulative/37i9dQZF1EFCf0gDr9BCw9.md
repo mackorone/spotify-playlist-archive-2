@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-260 songs - 19 hr 22 min
+261 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Multi\-Colored Blue](https://open.spotify.com/track/3TvP5l10j5Rq01glGi4lRp) | [Roberta Gambarini](https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS) | [Easy to Love](https://open.spotify.com/album/6xfAdEYFj8SY5is9L7gj2t) | 6:30 | 2022-09-08 | 2023-07-27 |
 | [My Little Brown Book](https://open.spotify.com/track/4rmCI9VWrwrJTJ8XQ80BMN) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 5:19 | 2022-09-08 |  |
 | [My Resistance Is Low \- Alternate Take](https://open.spotify.com/track/6QaYNOZJt61S5NpmXk5t4N) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [The Complete United Artist Sessions](https://open.spotify.com/album/1av3ItSe0NMhJiAmqqPpRm) | 2:17 | 2022-09-08 |  |
+| [Mysterious Chick](https://open.spotify.com/track/5dVnnFvhmMNqfi3HWFOPDU) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Concert In The Virgin Islands](https://open.spotify.com/album/4toQQBpDcDpwGG7XWuZhBZ) | 3:13 | 2026-08-09 |  |
 | [New Orleans](https://open.spotify.com/track/5gNa14HEpjVNc89ZaawXm0) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [The Dukes Of Dixieland](https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq) | [Louie and the Dukes of Dixieland](https://open.spotify.com/album/5OJrHl6YHBteVqUjdEQT2u) | 3:00 | 2025-09-10 |  |
 | [Newport Up](https://open.spotify.com/track/6nTU78IraUploReW0vasAl) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Berlin 1959](https://open.spotify.com/album/4YwwiXDPhpiDHD8HpI7dAS) | 4:38 | 2022-09-08 |  |
 | [Night Time](https://open.spotify.com/track/3MEjLuXVGxrFBLUUmq0lni) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Piano Reflections](https://open.spotify.com/album/4fRxNElUcNCq9rUADhX1rY) | 2:33 | 2022-09-08 |  |

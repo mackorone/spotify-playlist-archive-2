@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Todavía queda verano que celebrar y con el nuevo álbum de RØZ, mejor! Escucha lo más relevante de la semana aquí mero
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,218,425 likes - 82 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,218,402 likes - 82 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

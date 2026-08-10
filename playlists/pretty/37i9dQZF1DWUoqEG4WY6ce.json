@@ -1,12 +1,12 @@
 {
   "description": "Hop in.",
-  "num_followers": 1183409,
+  "num_followers": 1183448,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGCws3YnT5R7DevN8oPXHDJf28u3",
+  "snapshot_id": "AAAAAOI9kXE73k+5Ivf0Deh7Tdr7MU1r",
   "tracks": [
     {
       "added_at": "2026-07-31 22:54:22",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-07-31 22:54:22",
       "album": {
-        "name": "Fever To Tell (Deluxe Remastered)",
-        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 219986,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
-    },
-    {
-      "added_at": "2026-07-31 22:54:22",
-      "album": {
         "name": "White Blood Cells",
         "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 140178,
       "name": "We're Going to Be Friends",
       "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
+    },
+    {
+      "added_at": "2026-07-31 22:54:22",
+      "album": {
+        "name": "Fever To Tell (Deluxe Remastered)",
+        "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 219986,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
     },
     {
       "added_at": "2026-07-31 22:54:22",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-07-31 22:54:22",
       "album": {
-        "name": "Do You Really Love Her",
-        "url": "https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 228168,
-      "name": "Do You Really Love Her",
-      "url": "https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa"
-    },
-    {
-      "added_at": "2026-07-31 22:54:22",
-      "album": {
         "name": "A Black Mile To The Surface",
         "url": "https://open.spotify.com/album/4hruYceqit29o6m4arpAql"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 117173,
       "name": "The Sunshine",
       "url": "https://open.spotify.com/track/63k361zOGEhmvgzBdzzSGP"
+    },
+    {
+      "added_at": "2026-07-31 22:54:22",
+      "album": {
+        "name": "Do You Really Love Her",
+        "url": "https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 228168,
+      "name": "Do You Really Love Her",
+      "url": "https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa"
     },
     {
       "added_at": "2026-07-31 22:54:22",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-07-31 22:54:22",
       "album": {
+        "name": "Canopy & Shades Of Green",
+        "url": "https://open.spotify.com/album/06edgNjavwaBkVkBMEQkUR"
+      },
+      "artists": [
+        {
+          "name": "Winyah",
+          "url": "https://open.spotify.com/artist/4iyP4VOGOLzbt2Vxcyu6zG"
+        }
+      ],
+      "duration_ms": 176888,
+      "name": "Canopy",
+      "url": "https://open.spotify.com/track/5e9tqR7s11fwbPXJWyI4WC"
+    },
+    {
+      "added_at": "2026-07-31 22:54:22",
+      "album": {
         "name": "Eternally Even",
         "url": "https://open.spotify.com/album/2wYw4vZlu7XwvtdQPRmsmL"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 246500,
       "name": "Shame",
       "url": "https://open.spotify.com/track/1sv1SN854EsB5WcI27cQxe"
-    },
-    {
-      "added_at": "2026-07-31 22:54:22",
-      "album": {
-        "name": "Canopy & Shades Of Green",
-        "url": "https://open.spotify.com/album/06edgNjavwaBkVkBMEQkUR"
-      },
-      "artists": [
-        {
-          "name": "Winyah",
-          "url": "https://open.spotify.com/artist/4iyP4VOGOLzbt2Vxcyu6zG"
-        }
-      ],
-      "duration_ms": 176888,
-      "name": "Canopy",
-      "url": "https://open.spotify.com/track/5e9tqR7s11fwbPXJWyI4WC"
     },
     {
       "added_at": "2026-07-31 22:54:22",

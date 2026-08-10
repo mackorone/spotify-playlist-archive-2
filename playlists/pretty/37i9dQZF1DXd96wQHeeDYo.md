@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 
 > Tu táta tu tatá..\. el beat del funk de Brasil para el mundo\. Cover: Zé Pequeña & 143Leti
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,005 likes - 77 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,008 likes - 77 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

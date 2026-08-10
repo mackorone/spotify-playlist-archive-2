@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 172000,
       "name": "After You",
       "url": "https://open.spotify.com/track/4s5b6Z6k3joYpkM5EnFfCp"
@@ -2714,7 +2714,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 258296,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
@@ -7532,7 +7532,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 151000,
       "name": "FARMING",
       "url": "https://open.spotify.com/track/0fcVxJZyhe3VRK4Ng9Otku"
@@ -22422,10 +22422,28 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 185000,
       "name": "This & That",
       "url": "https://open.spotify.com/track/2KUgQWhPsYgB829i9n6IhP"
+    },
+    {
+      "album": {
+        "name": "THIS & THAT",
+        "url": "https://open.spotify.com/album/46TYlDjLrEsOLFgxfxNiUy"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "This & That",
+      "url": "https://open.spotify.com/track/7AN7dJCtHqbL7f76QGyraa"
     },
     {
       "album": {
@@ -34620,7 +34638,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 152184,
       "name": "\u041d\u0430\u0433\u0430\u0434\u0430\u0439",
       "url": "https://open.spotify.com/track/2k1bI9pRGnUQZWhr3NmJBx"
@@ -37008,6 +37026,24 @@
       "duration_ms": 128039,
       "name": "\u041f\u043b\u043e\u0445\u0430\u044f \u0421\u0443\u043a\u0430",
       "url": "https://open.spotify.com/track/7GQY5kKP1uZGWSvZ5tOxsN"
+    },
+    {
+      "album": {
+        "name": "\u041f\u043b\u044f\u0448\u043a\u0430 \u0424\u0440\u0430\u0433\u043e\u043b\u0456\u043d\u043e",
+        "url": "https://open.spotify.com/album/2M0R41FSPbZjzHwVkx5h2v"
+      },
+      "artists": [
+        {
+          "name": "Uran Yopa",
+          "url": "https://open.spotify.com/artist/0StTSVhmrbWzO36yr5tS8n"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212439,
+      "name": "\u041f\u043b\u044f\u0448\u043a\u0430 \u0424\u0440\u0430\u0433\u043e\u043b\u0456\u043d\u043e",
+      "url": "https://open.spotify.com/track/3xAWhyZOxK5l015xqa5ghi"
     },
     {
       "album": {
@@ -40213,6 +40249,28 @@
     },
     {
       "album": {
+        "name": "\u0422\u0410\u041c, \u0414\u0415 \u041c\u0423\u0417\u0418\u041a\u0410",
+        "url": "https://open.spotify.com/album/7tDhQqyohqixkrbMAnAD8Z"
+      },
+      "artists": [
+        {
+          "name": "VLADA K",
+          "url": "https://open.spotify.com/artist/7cXMWfc13FEkHKaO1gYaMR"
+        },
+        {
+          "name": "FI\u0407NKA",
+          "url": "https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166200,
+      "name": "\u0422\u0410\u041c, \u0414\u0415 \u041c\u0423\u0417\u0418\u041a\u0410",
+      "url": "https://open.spotify.com/track/3zSD6mihUvREDhFcwlyQ3W"
+    },
+    {
+      "album": {
         "name": "\u0423\u043b\u0438\u0446\u0430 \u211664",
         "url": "https://open.spotify.com/album/4NtNZDObaIhcBxYUQRY1cc"
       },
@@ -43194,7 +43252,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 185061,
       "name": "\u0428\u041e\u0412\u041a\u041e\u0412\u0418\u0426\u042f",
       "url": "https://open.spotify.com/track/2vsIoRPtatBX9GceGkPHkY"
@@ -44380,7 +44438,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-09",
+      "date_removed": null,
       "duration_ms": 188475,
       "name": "\u0406\u041a\u041e\u041d\u0410",
       "url": "https://open.spotify.com/track/69mUrTMQnNQlTcvFTTAwfA"

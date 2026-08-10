@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Murilo Huff, Matheus Fernandes
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,054,918 likes - 38 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,054,933 likes - 38 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

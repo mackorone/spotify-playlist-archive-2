@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Braxton Keith
 
-728 songs - 1 day 19 hr 18 min
+729 songs - 1 day 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Getter Back Song](https://open.spotify.com/track/6jMpqkLNcXlmECPqbKh6g6) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Getter Back Song](https://open.spotify.com/album/0wuyy8Le3WZagNuf0tSEaL) | 3:07 | 2025-06-18 | 2025-10-25 |
 | [Gettin' By](https://open.spotify.com/track/2cpwCl4uQlyub8HOqkh5sl) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Welcome To Countryland](https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX) | 3:06 | 2022-01-21 | 2023-09-02 |
 | [Gettin’ By](https://open.spotify.com/track/55QeY7A9H3ioVq1XcBIpBQ) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Gettin’ By](https://open.spotify.com/album/4Tsf7EtiMsYZyPwAoXK7co) | 3:59 | 2022-04-08 | 2022-07-09 |
+| [Ghosts of the Panhandle Wind](https://open.spotify.com/track/04iNvh91y5NoiaaHsfDNuX) | [Red Shahan](https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ) | [Hard Land](https://open.spotify.com/album/3bfLBgtrzDaYpM4uLwfvbK) | 3:47 | 2026-08-07 |  |
 | [Girl from Oklahoma](https://open.spotify.com/track/6mNWosdjTtMrzqhit3h5cz) | [Darrin Morris Band](https://open.spotify.com/artist/2qvUuw0HXxaz5yzKsRxlXf) | [Girl from Oklahoma](https://open.spotify.com/album/3Oobv5KUzcKbzjrG0iSzV3) | 3:13 | 2023-01-13 | 2023-07-29 |
 | [Girls Just Wanna Have Fun \- Duet](https://open.spotify.com/track/0Z7mIPT4ULM9SJkWX9dH0i) | [Bri Bagwell](https://open.spotify.com/artist/62D9vyyzOd1uIny0qRDLAo), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Girls Just Wanna Have Fun \(Duet\)](https://open.spotify.com/album/5M3japWPgpoSaISvKFOhXJ) | 3:14 | 2022-03-25 | 2022-07-29 |
 | [Girls Like Me](https://open.spotify.com/track/7sHT4a3rSs8IXdo7RZjzC6) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Girls Like Me](https://open.spotify.com/album/2LFWLNbRoaoOkvj98gudSv) | 2:51 | 2022-05-27 | 2023-04-15 |
@@ -509,7 +510,7 @@
 | [Rock and Roll Should Kill You](https://open.spotify.com/track/1jW9ZOTcNbDYQlrBCQtbIo) | [Dalton Domino](https://open.spotify.com/artist/2qsLBELO7Pw7Bpffvv9yDT) | [Rock and Roll Should Kill You](https://open.spotify.com/album/3KZ75aeOckZC6j3HS853Z4) | 4:07 | 2022-08-01 | 2022-08-12 |
 | [Rodeo Clown](https://open.spotify.com/track/1dXgI4cUtHd7Ks9BbJDpx7) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Rodeo Clown](https://open.spotify.com/album/5S2COInNsyf6m9rgHpI7HM) | 3:45 | 2024-11-08 | 2025-09-01 |
 | [Roger, Miller Lite and Me \- Live at Brooklyn Bowl, Nashville, 2021](https://open.spotify.com/track/5JqTcAUYNqTIlVWwMptv25) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Roger, Miller Lite and Me \(Live at Brooklyn Bowl, Nashville, 2021\)](https://open.spotify.com/album/1O83B5W5JotBgP91GYh4xK) | 2:51 | 2022-05-20 | 2022-07-26 |
-| [Running out of Time](https://open.spotify.com/track/66Xb15mkqTgCu06aGUmgOu) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib), [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX), [Randy Rogers](https://open.spotify.com/artist/2DwAtAKSDY87F2pu50Csrk), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Running out of Time](https://open.spotify.com/album/43tiHHwZStRZcQJmm6ohVf) | 3:37 | 2024-02-23 |  |
+| [Running out of Time](https://open.spotify.com/track/66Xb15mkqTgCu06aGUmgOu) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib), [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX), [Randy Rogers](https://open.spotify.com/artist/2DwAtAKSDY87F2pu50Csrk), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Running out of Time](https://open.spotify.com/album/43tiHHwZStRZcQJmm6ohVf) | 3:37 | 2024-02-23 | 2026-08-10 |
 | [Saddest Town in Texas](https://open.spotify.com/track/3WeWNp3vXMssbXzeGSczGz) | [Rusty Gear](https://open.spotify.com/artist/1e9q9D5SODSTajOBo1VQqh) | [Saddest Town in Texas](https://open.spotify.com/album/6YVJ3LQTCbhOrjc6xujrEC) | 3:32 | 2024-03-15 | 2024-05-15 |
 | [Same Place Twice](https://open.spotify.com/track/2dZzwDaLXppokzSL8TR3U3) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H), [Amanda Kate Ferris](https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49) | [Same Place Twice](https://open.spotify.com/album/64X0U4axUjoAuupKouCnAU) | 3:14 | 2023-10-06 | 2025-03-15 |
 | [Santa Fe](https://open.spotify.com/track/12AEBgTTELBhtAthd5dRqH) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Postcards From Texas](https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK) | 3:03 | 2024-09-13 |  |

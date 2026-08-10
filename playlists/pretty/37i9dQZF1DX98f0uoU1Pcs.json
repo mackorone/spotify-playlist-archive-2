@@ -1,6 +1,6 @@
 {
   "description": "a experimental mix of rock, punk, alt & indie. Cover: YHWH Nailgun",
-  "num_followers": 295373,
+  "num_followers": 295381,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Voyager",
-        "url": "https://open.spotify.com/album/0aP1rf4Xix1A4oG6q2SfWy"
-      },
-      "artists": [
-        {
-          "name": "PJ Harvey",
-          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
-        }
-      ],
-      "duration_ms": 247166,
-      "name": "Voyager",
-      "url": "https://open.spotify.com/track/4YZ7rGwFbbbOTJZECr4T8W"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "System",
         "url": "https://open.spotify.com/album/4aweXXTsOD2Jx6XMGfLfru"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 234880,
       "name": "System",
       "url": "https://open.spotify.com/track/3kPWyMLOMqigwl4p4aJZWa"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/0aP1rf4Xix1A4oG6q2SfWy"
+      },
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "duration_ms": 247166,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/4YZ7rGwFbbbOTJZECr4T8W"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Party Lines",
-        "url": "https://open.spotify.com/album/3QaE8o1uk2xnqm3iSSYtno"
-      },
-      "artists": [
-        {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
-        }
-      ],
-      "duration_ms": 179110,
-      "name": "Party Lines",
-      "url": "https://open.spotify.com/track/2JbBTCHydjRliSvqMrZkhp"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Holy, Holy",
         "url": "https://open.spotify.com/album/5vH37rLJhlrXMK9drGQD2V"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 363138,
       "name": "Holy, Holy",
       "url": "https://open.spotify.com/track/4Nk10X45JIH1xrIWOCbA3I"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Party Lines",
+        "url": "https://open.spotify.com/album/3QaE8o1uk2xnqm3iSSYtno"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "duration_ms": 179110,
+      "name": "Party Lines",
+      "url": "https://open.spotify.com/track/2JbBTCHydjRliSvqMrZkhp"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Death Destruction Mayhem",
-        "url": "https://open.spotify.com/album/4EBCk3E16sx5FCD1RILEn8"
-      },
-      "artists": [
-        {
-          "name": "Ceremony",
-          "url": "https://open.spotify.com/artist/5n3811iYeaFM01gSJMQuRH"
-        }
-      ],
-      "duration_ms": 178613,
-      "name": "Death Destruction Mayhem",
-      "url": "https://open.spotify.com/track/1ZIJcSHgdDi3YOnd8d8ii0"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Taxes",
         "url": "https://open.spotify.com/album/7uY2QygHF2ZNHbb0lxRadE"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Secret Love",
-        "url": "https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4"
+        "name": "Death Destruction Mayhem",
+        "url": "https://open.spotify.com/album/4EBCk3E16sx5FCD1RILEn8"
       },
       "artists": [
         {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+          "name": "Ceremony",
+          "url": "https://open.spotify.com/artist/5n3811iYeaFM01gSJMQuRH"
         }
       ],
-      "duration_ms": 363918,
-      "name": "Hit My Head All Day",
-      "url": "https://open.spotify.com/track/0quJpknjZo8gMmwzMhiHb3"
+      "duration_ms": 178613,
+      "name": "Death Destruction Mayhem",
+      "url": "https://open.spotify.com/track/1ZIJcSHgdDi3YOnd8d8ii0"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -647,6 +631,22 @@
       "duration_ms": 233197,
       "name": "Riding",
       "url": "https://open.spotify.com/track/2kfrzSpyxTuipgYPqtvwda"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Secret Love",
+        "url": "https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "duration_ms": 363918,
+      "name": "Hit My Head All Day",
+      "url": "https://open.spotify.com/track/0quJpknjZo8gMmwzMhiHb3"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "i wait, i sink",
-        "url": "https://open.spotify.com/album/7caD1nvFAGlDkltnoJHh1o"
-      },
-      "artists": [
-        {
-          "name": "The Healing Power of Horses",
-          "url": "https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J"
-        }
-      ],
-      "duration_ms": 166167,
-      "name": "i wait, i sink",
-      "url": "https://open.spotify.com/track/0mvaPr8EQmx46H6han0xwN"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "On the Intricate Inner Workings of the System",
         "url": "https://open.spotify.com/album/6HKuDmYKRsA43eYFgPYtGH"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 266986,
       "name": "We Don't Care About That",
       "url": "https://open.spotify.com/track/6TtqsRfr3UTY53Gj3CbMYL"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "i wait, i sink",
+        "url": "https://open.spotify.com/album/7caD1nvFAGlDkltnoJHh1o"
+      },
+      "artists": [
+        {
+          "name": "The Healing Power of Horses",
+          "url": "https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J"
+        }
+      ],
+      "duration_ms": 166167,
+      "name": "i wait, i sink",
+      "url": "https://open.spotify.com/track/0mvaPr8EQmx46H6han0xwN"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -827,34 +827,18 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Projector",
-        "url": "https://open.spotify.com/album/08bII3U0CLuAa1C7SRLpMA"
+        "name": "Accent",
+        "url": "https://open.spotify.com/album/6tiLEfNAiONMQHnjQLPXYT"
       },
       "artists": [
         {
-          "name": "Wine Lips",
-          "url": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM"
+          "name": "Sweeping Promises",
+          "url": "https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt"
         }
       ],
-      "duration_ms": 93323,
-      "name": "Projector",
-      "url": "https://open.spotify.com/track/4s5FQ8gbOiCnbALMHya3O0"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
-        "name": "EELS",
-        "url": "https://open.spotify.com/album/2gQOY7nW9BsZjdztVloaFT"
-      },
-      "artists": [
-        {
-          "name": "Being Dead",
-          "url": "https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8"
-        }
-      ],
-      "duration_ms": 213904,
-      "name": "Van Goes",
-      "url": "https://open.spotify.com/track/7ko2jLqvIxDaKWySopq4cP"
+      "duration_ms": 237059,
+      "name": "Accent",
+      "url": "https://open.spotify.com/track/65YABV9CvIoqKEUwZfUmMk"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -875,18 +859,34 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Accent",
-        "url": "https://open.spotify.com/album/6tiLEfNAiONMQHnjQLPXYT"
+        "name": "EELS",
+        "url": "https://open.spotify.com/album/2gQOY7nW9BsZjdztVloaFT"
       },
       "artists": [
         {
-          "name": "Sweeping Promises",
-          "url": "https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt"
+          "name": "Being Dead",
+          "url": "https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8"
         }
       ],
-      "duration_ms": 237059,
-      "name": "Accent",
-      "url": "https://open.spotify.com/track/65YABV9CvIoqKEUwZfUmMk"
+      "duration_ms": 213904,
+      "name": "Van Goes",
+      "url": "https://open.spotify.com/track/7ko2jLqvIxDaKWySopq4cP"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Projector",
+        "url": "https://open.spotify.com/album/08bII3U0CLuAa1C7SRLpMA"
+      },
+      "artists": [
+        {
+          "name": "Wine Lips",
+          "url": "https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM"
+        }
+      ],
+      "duration_ms": 93323,
+      "name": "Projector",
+      "url": "https://open.spotify.com/track/4s5FQ8gbOiCnbALMHya3O0"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -919,6 +919,22 @@
       "duration_ms": 214186,
       "name": "Lily Of The Valley",
       "url": "https://open.spotify.com/track/569PU1VDhtz4dngaUwvUaC"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Who's Gonna Love You Now?",
+        "url": "https://open.spotify.com/album/4BRjgaVv4DlEWOZrMHbMWW"
+      },
+      "artists": [
+        {
+          "name": "The Tubs",
+          "url": "https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9"
+        }
+      ],
+      "duration_ms": 175050,
+      "name": "Who's Gonna Love You Now?",
+      "url": "https://open.spotify.com/track/0XIgD3e9WPUaB05vAnVLGr"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -967,22 +983,6 @@
       "duration_ms": 183600,
       "name": "Girth",
       "url": "https://open.spotify.com/track/1puL7uMJb02F8Hq6a4qpcD"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
-        "name": "Who's Gonna Love You Now?",
-        "url": "https://open.spotify.com/album/4BRjgaVv4DlEWOZrMHbMWW"
-      },
-      "artists": [
-        {
-          "name": "The Tubs",
-          "url": "https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9"
-        }
-      ],
-      "duration_ms": 175050,
-      "name": "Who's Gonna Love You Now?",
-      "url": "https://open.spotify.com/track/0XIgD3e9WPUaB05vAnVLGr"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "POSTINDUSTRIAL HOMETOWN BLUES",
-        "url": "https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN"
-      },
-      "artists": [
-        {
-          "name": "BIG SPECIAL",
-          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
-        }
-      ],
-      "duration_ms": 177597,
-      "name": "BLACK COUNTRY GOTHIC",
-      "url": "https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Drag",
         "url": "https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 169693,
       "name": "Drag",
       "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "POSTINDUSTRIAL HOMETOWN BLUES",
+        "url": "https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN"
+      },
+      "artists": [
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        }
+      ],
+      "duration_ms": 177597,
+      "name": "BLACK COUNTRY GOTHIC",
+      "url": "https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Sharon Van Etten & The Attachment Theory",
-        "url": "https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 186792,
-      "name": "I Can\u2019t Imagine (Why You Feel This Way)",
-      "url": "https://open.spotify.com/track/7vReZ7BfPWdIvZjHlFdJw5"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "One More Trip Around The Sun",
         "url": "https://open.spotify.com/album/3YHaBBysxFf17TymibDhhh"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 272800,
       "name": "One More Trip Around The Sun",
       "url": "https://open.spotify.com/track/61VJXbD4Ea3KTumwwLgnTQ"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Sharon Van Etten & The Attachment Theory",
+        "url": "https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 186792,
+      "name": "I Can\u2019t Imagine (Why You Feel This Way)",
+      "url": "https://open.spotify.com/track/7vReZ7BfPWdIvZjHlFdJw5"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Good Enough",
-        "url": "https://open.spotify.com/album/1V3sZlCa2uP1npYlh83fLJ"
-      },
-      "artists": [
-        {
-          "name": "Ultra Lights",
-          "url": "https://open.spotify.com/artist/6T7xnpZAOPf4XwrYZclzTA"
-        }
-      ],
-      "duration_ms": 127173,
-      "name": "Good Enough",
-      "url": "https://open.spotify.com/track/1B1By24uRkI2EH3UNrcBK8"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Everything I Wanted",
-        "url": "https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2"
+        "name": "Good Enough",
+        "url": "https://open.spotify.com/album/1V3sZlCa2uP1npYlh83fLJ"
       },
       "artists": [
         {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+          "name": "Ultra Lights",
+          "url": "https://open.spotify.com/artist/6T7xnpZAOPf4XwrYZclzTA"
         }
       ],
-      "duration_ms": 258826,
-      "name": "Everything I Wanted",
-      "url": "https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc"
+      "duration_ms": 127173,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/1B1By24uRkI2EH3UNrcBK8"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1355,6 +1339,22 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
+        "name": "Everything I Wanted",
+        "url": "https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "duration_ms": 258826,
+      "name": "Everything I Wanted",
+      "url": "https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
         "name": "Out Of My Head",
         "url": "https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1"
       },
@@ -1367,22 +1367,6 @@
       "duration_ms": 190533,
       "name": "Out Of My Head",
       "url": "https://open.spotify.com/track/3GfF24z5aHM8idyueXywno"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
-        "name": "PLAY ME",
-        "url": "https://open.spotify.com/album/04tCM2W8CvOXQBy4bBHlXk"
-      },
-      "artists": [
-        {
-          "name": "Kim Gordon",
-          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
-        }
-      ],
-      "duration_ms": 146817,
-      "name": "POST EMPIRE",
-      "url": "https://open.spotify.com/track/505e1WJcfyORbth99IeXY8"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1403,22 +1387,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Slippers 08",
-        "url": "https://open.spotify.com/album/2rEIyTZL4buxgHzUEZnBjf"
-      },
-      "artists": [
-        {
-          "name": "Slippers",
-          "url": "https://open.spotify.com/artist/7t68xnqaf930ug2CgHp3BM"
-        }
-      ],
-      "duration_ms": 108169,
-      "name": "Castaways",
-      "url": "https://open.spotify.com/track/45ou0EX3LwwKL5XM8abpOX"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Shaking Hand",
         "url": "https://open.spotify.com/album/0e8Wa6LD98MLMUHmH8b7mq"
       },
@@ -1431,6 +1399,38 @@
       "duration_ms": 283160,
       "name": "In For a\u2026 Pound!",
       "url": "https://open.spotify.com/track/61eB7URzZDMWNywmlda4HX"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "PLAY ME",
+        "url": "https://open.spotify.com/album/04tCM2W8CvOXQBy4bBHlXk"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "duration_ms": 146817,
+      "name": "POST EMPIRE",
+      "url": "https://open.spotify.com/track/505e1WJcfyORbth99IeXY8"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Slippers 08",
+        "url": "https://open.spotify.com/album/2rEIyTZL4buxgHzUEZnBjf"
+      },
+      "artists": [
+        {
+          "name": "Slippers",
+          "url": "https://open.spotify.com/artist/7t68xnqaf930ug2CgHp3BM"
+        }
+      ],
+      "duration_ms": 108169,
+      "name": "Castaways",
+      "url": "https://open.spotify.com/track/45ou0EX3LwwKL5XM8abpOX"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
+        "name": "Trickle Down",
+        "url": "https://open.spotify.com/album/4bewK44e2zjdapyJ4KhITb"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 167419,
+      "name": "Trickle Down",
+      "url": "https://open.spotify.com/track/1EiUn7JKSP2D7tcrPLgEel"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
         "name": "Brown Paper Bag",
         "url": "https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 265000,
       "name": "Brown Paper Bag",
       "url": "https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
-        "name": "Mind's a Lie",
-        "url": "https://open.spotify.com/album/2j3RJGifmBs9gRfkMWbVmn"
-      },
-      "artists": [
-        {
-          "name": "High Vis",
-          "url": "https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw"
-        }
-      ],
-      "duration_ms": 286029,
-      "name": "Mind's a Lie",
-      "url": "https://open.spotify.com/track/1r3zKI4PDdsBpJEVGIUrGH"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Trickle Down",
-        "url": "https://open.spotify.com/album/4bewK44e2zjdapyJ4KhITb"
+        "name": "Mind's a Lie",
+        "url": "https://open.spotify.com/album/2j3RJGifmBs9gRfkMWbVmn"
       },
       "artists": [
         {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+          "name": "High Vis",
+          "url": "https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw"
         }
       ],
-      "duration_ms": 167419,
-      "name": "Trickle Down",
-      "url": "https://open.spotify.com/track/1EiUn7JKSP2D7tcrPLgEel"
+      "duration_ms": 286029,
+      "name": "Mind's a Lie",
+      "url": "https://open.spotify.com/track/1r3zKI4PDdsBpJEVGIUrGH"
     },
     {
       "added_at": "2026-07-17 17:28:38",

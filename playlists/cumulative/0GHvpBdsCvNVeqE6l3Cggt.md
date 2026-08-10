@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-141 songs - 8 hr 8 min
+142 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Blaa Blaa Blaa](https://open.spotify.com/track/7GzSgRpu452g0MHK4mezws) | [Tapany](https://open.spotify.com/artist/7MI44S2fRIrOiOovCyY3xS) | [Blaa Blaa Blaa](https://open.spotify.com/album/3fNTQi5eXA8vqk2loEg3Yq) | 2:24 | 2025-12-22 | 2026-01-29 |
 | [Blood Orange](https://open.spotify.com/track/37ezRYgGPhn8c04W6v6Oyv) | [Zoe Wynns](https://open.spotify.com/artist/7wQ8IMTKvyGSOqjrGnAnit) | [Blood Orange](https://open.spotify.com/album/71vwafT0yr1239fkxRhIy1) | 3:45 | 2025-11-04 | 2025-11-22 |
 | [Bored To Death \- Savoir Adore Remix](https://open.spotify.com/track/1dD0B0hUdVQQjvB9qwWrzt) | [Kids In America](https://open.spotify.com/artist/6ovlMe2HTmv1MmrZfsoBqY), [Savoir Adore](https://open.spotify.com/artist/2weMnYqCmtNUrSLAJq5dD8) | [Bored To Death \(Savoir Adore Remix\)](https://open.spotify.com/album/4LNObDJjQyj4Bgu53zCcoK) | 2:37 | 2026-05-02 | 2026-05-31 |
+| [Boys Wear Blue](https://open.spotify.com/track/6uLG0kC1IyMhhj2DPydi2d) | [Left Out](https://open.spotify.com/artist/0u5lJCQCtzpkMkfckgeTwr) | [Boys Wear Blue](https://open.spotify.com/album/41291ChmIYkSjvsfJH4oKY) | 4:23 | 2026-08-09 |  |
 | [Breakfast in Bathrobes](https://open.spotify.com/track/6gCRIrbRoj4jEqIDFP2IXe) | [Flying Earrings](https://open.spotify.com/artist/4rIm3b1CR7sR47AG5qzjcy) | [Dreams](https://open.spotify.com/album/7zJxan3akf2KbCg6snqX3L) | 6:13 | 2025-11-14 | 2025-12-03 |
 | [Broken Trust](https://open.spotify.com/track/2KhIeTdnN8IebU3nXdiXqK) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Broken Trust](https://open.spotify.com/album/33PUel7sBH1AQsxQmFciKH) | 2:52 | 2025-11-11 | 2026-01-29 |
 | [Cherry Lipgloss](https://open.spotify.com/track/2RFrSB9j4Bijrz4YWiZWM3) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [SHY2K](https://open.spotify.com/album/5idFFAYK8aZ15scmZFtk9n) | 2:03 | 2025-11-17 | 2025-12-07 |

@@ -1,12 +1,12 @@
 {
   "description": "This is My Chemical Romance. The essential tracks, all in one playlist.",
-  "num_followers": 642248,
+  "num_followers": 642313,
   "original_name": "This Is My Chemical Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anUgAAAAAACKB6Umgsw1pA4NaHbdICJS",
+  "snapshot_id": "anZxgAAAAACLvm4D+daQvaTIbjtXuvfe",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danger Days: The True Lives of the Fabulous Killjoys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2BwLNBvOz645zoeqSzSmZR"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 166514,
-      "name": "Zero Percent - 2026 Remaster",
-      "url": "https://open.spotify.com/track/2jUNCiNzwuX19VViTHHaZH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Black Parade: The B-Sides",
         "url": "https://open.spotify.com/album/3WEwomTOJHNRGZggBfCeGX"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 175946,
       "name": "Heaven Help Us",
       "url": "https://open.spotify.com/track/6rlnljojqC42vtUeixpFAg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Danger Days: The True Lives of the Fabulous Killjoys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2BwLNBvOz645zoeqSzSmZR"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 166514,
+      "name": "Zero Percent - 2026 Remaster",
+      "url": "https://open.spotify.com/track/2jUNCiNzwuX19VViTHHaZH"
     },
     {
       "added_at": null,

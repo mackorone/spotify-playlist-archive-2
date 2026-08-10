@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 285756,
+  "num_followers": 285789,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
+        "name": "Soak Up The Sun",
+        "url": "https://open.spotify.com/album/5oN1wKobG07fQ47P4DQm0p"
+      },
+      "artists": [
+        {
+          "name": "AJ Lee & Blue Summit",
+          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
+        }
+      ],
+      "duration_ms": 239744,
+      "name": "Soak Up The Sun",
+      "url": "https://open.spotify.com/track/7CfWAYl1LA7L8XqVRtvSPN"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
         "name": "Wake Me Up (The Bluegrass Rendition)",
         "url": "https://open.spotify.com/album/5nNr9tOefpudgC4QLcwh3g"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 263996,
       "name": "Wake Me Up - The Bluegrass Rendition",
       "url": "https://open.spotify.com/track/71W7aqLRQQmrqnGA7U5mzB"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
-        "name": "Soak Up The Sun",
-        "url": "https://open.spotify.com/album/5oN1wKobG07fQ47P4DQm0p"
-      },
-      "artists": [
-        {
-          "name": "AJ Lee & Blue Summit",
-          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
-        }
-      ],
-      "duration_ms": 239744,
-      "name": "Soak Up The Sun",
-      "url": "https://open.spotify.com/track/7CfWAYl1LA7L8XqVRtvSPN"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Red On Blonde",
-        "url": "https://open.spotify.com/album/1g1SmW9O61u6tKktYfYcrj"
-      },
-      "artists": [
-        {
-          "name": "Tim O'Brien",
-          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
-        }
-      ],
-      "duration_ms": 242760,
-      "name": "Senor (Tales Of Yankee Power)",
-      "url": "https://open.spotify.com/track/1ABTia5xv1oYxqL5EFbf43"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "Shaken By A Low Sound",
         "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 299213,
       "name": "Come On In My Kitchen",
       "url": "https://open.spotify.com/track/7wmX9k2kWK3PrfBbTgOzZV"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "Red On Blonde",
+        "url": "https://open.spotify.com/album/1g1SmW9O61u6tKktYfYcrj"
+      },
+      "artists": [
+        {
+          "name": "Tim O'Brien",
+          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
+        }
+      ],
+      "duration_ms": 242760,
+      "name": "Senor (Tales Of Yankee Power)",
+      "url": "https://open.spotify.com/track/1ABTia5xv1oYxqL5EFbf43"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
+        "name": "Five For Silver",
+        "url": "https://open.spotify.com/album/2o9tYQIhHHLq0YqsTQU4Qr"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 198913,
+      "name": "Luxury Liner",
+      "url": "https://open.spotify.com/track/2m8kGp1qrmUBqQCwMgylYw"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
         "name": "Old Cane Back Rocker",
         "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 315345,
       "name": "Southern Cross",
       "url": "https://open.spotify.com/track/0rWkEKB7L5oUroW0KFwOgX"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
-        "name": "Five For Silver",
-        "url": "https://open.spotify.com/album/2o9tYQIhHHLq0YqsTQU4Qr"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 198913,
-      "name": "Luxury Liner",
-      "url": "https://open.spotify.com/track/2m8kGp1qrmUBqQCwMgylYw"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Sun and Water (Here Comes the Sun/Waters of March)",
-        "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 214546,
-      "name": "Sun and Water (Here Comes the Sun/Waters of March)",
-      "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "Songs That Made Me Weird, Vol. 1",
         "url": "https://open.spotify.com/album/1hbIUAc9xpnt2hG3jHpco7"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 251621,
       "name": "No Rain",
       "url": "https://open.spotify.com/track/6XGIo0FBacQN0oEkO7JZ0v"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "Sun and Water (Here Comes the Sun/Waters of March)",
+        "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 214546,
+      "name": "Sun and Water (Here Comes the Sun/Waters of March)",
+      "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
+        "name": "Folsom Prison Blues",
+        "url": "https://open.spotify.com/album/0lRIWEVebJgKYWyQa2PNhW"
+      },
+      "artists": [
+        {
+          "name": "The String Revolution",
+          "url": "https://open.spotify.com/artist/3a92Lwi4cm5FadiUpIpizc"
+        },
+        {
+          "name": "Tommy Emmanuel",
+          "url": "https://open.spotify.com/artist/6HjfVflhYjbu6PSIsFOjwM"
+        }
+      ],
+      "duration_ms": 206886,
+      "name": "Folsom Prison Blues",
+      "url": "https://open.spotify.com/track/0BFN1J0LuXXVUExLKkuNvB"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
         "name": "Go Your Own Way",
         "url": "https://open.spotify.com/album/3USoKckUZmdxDJsOoUZipo"
       },
@@ -1143,22 +1163,22 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Folsom Prison Blues",
-        "url": "https://open.spotify.com/album/0lRIWEVebJgKYWyQa2PNhW"
+        "name": "Old Cane Back Rocker",
+        "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
       },
       "artists": [
         {
-          "name": "The String Revolution",
-          "url": "https://open.spotify.com/artist/3a92Lwi4cm5FadiUpIpizc"
+          "name": "Darrell Scott",
+          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
         },
         {
-          "name": "Tommy Emmanuel",
-          "url": "https://open.spotify.com/artist/6HjfVflhYjbu6PSIsFOjwM"
+          "name": "Darrell Scott String Band",
+          "url": "https://open.spotify.com/artist/34QTjkXRoFVafdZLCIlyQh"
         }
       ],
-      "duration_ms": 206886,
-      "name": "Folsom Prison Blues",
-      "url": "https://open.spotify.com/track/0BFN1J0LuXXVUExLKkuNvB"
+      "duration_ms": 267690,
+      "name": "It's a Great Day to Be Alive",
+      "url": "https://open.spotify.com/track/64lQoUgmhvS8KqstWlg4J9"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1211,26 +1231,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Old Cane Back Rocker",
-        "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
-      },
-      "artists": [
-        {
-          "name": "Darrell Scott",
-          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
-        },
-        {
-          "name": "Darrell Scott String Band",
-          "url": "https://open.spotify.com/artist/34QTjkXRoFVafdZLCIlyQh"
-        }
-      ],
-      "duration_ms": 267690,
-      "name": "It's a Great Day to Be Alive",
-      "url": "https://open.spotify.com/track/64lQoUgmhvS8KqstWlg4J9"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "Make Me Stay or Make Me Go",
         "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
       },
@@ -1243,22 +1243,6 @@
       "duration_ms": 191000,
       "name": "Make Me Stay or Make Me Go",
       "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
-        "name": "Closer You Get",
-        "url": "https://open.spotify.com/album/4VCWfZcd6Xu77je7Oll8hI"
-      },
-      "artists": [
-        {
-          "name": "Arkansauce",
-          "url": "https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl"
-        }
-      ],
-      "duration_ms": 345058,
-      "name": "Closer You Get",
-      "url": "https://open.spotify.com/track/5rPSwpzXNpevdBXtQ2OFzD"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1279,6 +1263,22 @@
       "duration_ms": 184773,
       "name": "You Can Close Your Eyes",
       "url": "https://open.spotify.com/track/1zqdtI0wJIjCXK2xWSPPFD"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "Closer You Get",
+        "url": "https://open.spotify.com/album/4VCWfZcd6Xu77je7Oll8hI"
+      },
+      "artists": [
+        {
+          "name": "Arkansauce",
+          "url": "https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl"
+        }
+      ],
+      "duration_ms": 345058,
+      "name": "Closer You Get",
+      "url": "https://open.spotify.com/track/5rPSwpzXNpevdBXtQ2OFzD"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
+        "name": "Graceland (Live Session)",
+        "url": "https://open.spotify.com/album/4LdhAmf3FFE23z5GfpyV7A"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Thornton",
+          "url": "https://open.spotify.com/artist/16Yf6ZfrDTWu4jt7GQrjdL"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Graceland (Live Session)",
+      "url": "https://open.spotify.com/track/2JHkGl5zdenvGo63yTDgH4"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
         "name": "In Tall Buildings",
         "url": "https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D"
       },
@@ -1451,18 +1467,18 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Graceland (Live Session)",
-        "url": "https://open.spotify.com/album/4LdhAmf3FFE23z5GfpyV7A"
+        "name": "Norwegian Wood (This Bird Has Flown)",
+        "url": "https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q"
       },
       "artists": [
         {
-          "name": "Ramsey Thornton",
-          "url": "https://open.spotify.com/artist/16Yf6ZfrDTWu4jt7GQrjdL"
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Graceland (Live Session)",
-      "url": "https://open.spotify.com/track/2JHkGl5zdenvGo63yTDgH4"
+      "duration_ms": 167827,
+      "name": "Norwegian Wood (This Bird Has Flown)",
+      "url": "https://open.spotify.com/track/2FFZNaGdYTRWlYftmpCexq"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1487,22 +1503,6 @@
       "duration_ms": 214453,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/1cjDZNaMWIv7Q1eRqF9Rca"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
-        "name": "Norwegian Wood (This Bird Has Flown)",
-        "url": "https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q"
-      },
-      "artists": [
-        {
-          "name": "Malingo",
-          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
-        }
-      ],
-      "duration_ms": 167827,
-      "name": "Norwegian Wood (This Bird Has Flown)",
-      "url": "https://open.spotify.com/track/2FFZNaGdYTRWlYftmpCexq"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1587,18 +1587,22 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Linger",
-        "url": "https://open.spotify.com/album/34HJ7PfTw1XuNCkWwUoJRP"
+        "name": "Simply Bluegrass (Live / Vol. 1)",
+        "url": "https://open.spotify.com/album/5jK9gV35FK2BL18iTGEn2B"
       },
       "artists": [
         {
-          "name": "Aine Burns",
-          "url": "https://open.spotify.com/artist/2YO7UDjRwu6oFYXDQxVfOz"
+          "name": "Country's Family Reunion",
+          "url": "https://open.spotify.com/artist/3w2g8LE0HrfXMMs3dgnfPt"
+        },
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
         }
       ],
-      "duration_ms": 268800,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/4L2VxFPupG0uZTFukuZBoY"
+      "duration_ms": 190955,
+      "name": "Drivin' Nails In My Coffin - Live",
+      "url": "https://open.spotify.com/track/17Q2QAFPkogLUFC6SMcdIA"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1639,22 +1643,18 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Simply Bluegrass (Live / Vol. 1)",
-        "url": "https://open.spotify.com/album/5jK9gV35FK2BL18iTGEn2B"
+        "name": "Linger",
+        "url": "https://open.spotify.com/album/34HJ7PfTw1XuNCkWwUoJRP"
       },
       "artists": [
         {
-          "name": "Country's Family Reunion",
-          "url": "https://open.spotify.com/artist/3w2g8LE0HrfXMMs3dgnfPt"
-        },
-        {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+          "name": "Aine Burns",
+          "url": "https://open.spotify.com/artist/2YO7UDjRwu6oFYXDQxVfOz"
         }
       ],
-      "duration_ms": 190955,
-      "name": "Drivin' Nails In My Coffin - Live",
-      "url": "https://open.spotify.com/track/17Q2QAFPkogLUFC6SMcdIA"
+      "duration_ms": 268800,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/4L2VxFPupG0uZTFukuZBoY"
     },
     {
       "added_at": "2026-07-23 21:17:27",

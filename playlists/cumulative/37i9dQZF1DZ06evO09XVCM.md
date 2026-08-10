@@ -4,7 +4,7 @@
 
 > This is Ziggy Marley\. The essential tracks, all in one playlist.
 
-87 songs - 5 hr 43 min
+88 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [High On Life](https://open.spotify.com/track/4goc7AKZBLAuvHU7kA9TnJ) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/22S3dCzawszcDDCoL3mx1K) | 3:05 | 2024-02-01 | 2025-02-21 |
 | [High Tide or Low Tide \(feat\. Ziggy Marley\)](https://open.spotify.com/track/56iGwUFIn9SuKZIYl8RiAO) | [Paula Fuga](https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Misery's End](https://open.spotify.com/album/4CBNoIvY1WJ0ywFkeJpQMW) | 4:59 | 2024-02-01 | 2024-07-21 |
 | [HOME](https://open.spotify.com/track/017oWEquFg2ieGFYobEsYt) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [HOME](https://open.spotify.com/album/1HhOkRa8wtIhu6mhteXewU) | 3:11 | 2024-04-27 | 2025-03-09 |
+| [I Get Up \(feat\. Cedella Marley\)](https://open.spotify.com/track/6SEimrKNMh0ep0of8X34St) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Cedella Marley](https://open.spotify.com/artist/6KL6RLoRlfIYXGx4UAYT6O) | [Fly Rasta](https://open.spotify.com/album/2OT4p3NBqb7zyvvQwA4EM8) | 3:38 | 2026-08-10 |  |
 | [I Love You Too \(feat\. Rita Marley; Cedella Marley\)](https://open.spotify.com/track/7hLLbfEkx1UeXkD91oII0I) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Rita Marley](https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3), [Cedella Marley](https://open.spotify.com/artist/6KL6RLoRlfIYXGx4UAYT6O) | [Family Time](https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3) | 3:33 | 2024-02-01 |  |
 | [Iron Lion Zion \(feat\. Ziggy Marley & ChocQuibTown\)](https://open.spotify.com/track/1sCfYZLKuW5OJ5AZQxIgj8) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Iron Lion Zion \(feat\. Ziggy Marley & ChocQuibTown\)](https://open.spotify.com/album/2uKjJJ1dRu5ovo9PajxnPf) | 4:30 | 2024-02-01 |  |
 | [Life Is A Honeymoon](https://open.spotify.com/track/67tasguLElvxPOZXkwcAIF) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dig Your Roots](https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC) | 3:04 | 2024-02-01 |  |
@@ -45,7 +46,7 @@
 | [Love Is My Religion](https://open.spotify.com/track/1HH9AYnSKZaPKgZUGuiDRf) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp) | 3:48 | 2024-02-01 |  |
 | [Love Is My Religion \(Live\)](https://open.spotify.com/track/1d1z4TzhHtzRIsCmoHDeCu) | [Playing For Change](https://open.spotify.com/artist/645m90txZTycwJGdZTWscc), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Playing for Change \(Live\)](https://open.spotify.com/album/1xvTR4a0kOkL0Z0pBGYXV5) | 4:10 | 2024-02-01 |  |
 | [Madanite](https://open.spotify.com/track/5FHoIbTVJnhagPgAZum1qi) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [dellali](https://open.spotify.com/album/1sUJo5AFoHomnM2ANQk28m) | 3:55 | 2024-02-01 |  |
-| [Make It Paradise](https://open.spotify.com/track/4K3O1bewDOnVxAJ5EaOrT5) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Brightside](https://open.spotify.com/album/0b57ZiCwZ1zNPiVxPD3nU6) | 3:33 | 2026-05-10 |  |
+| [Make It Paradise](https://open.spotify.com/track/4K3O1bewDOnVxAJ5EaOrT5) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Brightside](https://open.spotify.com/album/0b57ZiCwZ1zNPiVxPD3nU6) | 3:33 | 2026-05-10 | 2026-08-10 |
 | [Make Some Music](https://open.spotify.com/track/6hI7r4AXANVQU8cGe1HOnq) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2gT72CpRI4izR1IUohkU7w) | 4:14 | 2025-11-30 | 2025-12-16 |
 | [Many Mourn For Bob](https://open.spotify.com/track/0bYPMrLUMFwFRuzgTe6XOW) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Many Mourn For Bob](https://open.spotify.com/album/3tmtknz4dDX3MgfOAMYrf1) | 3:52 | 2026-03-07 | 2026-06-03 |
 | [Many Mourn For Bob \- Brightside \- New Vinyl Album out 4/18 on Record Store Day](https://open.spotify.com/track/5WwmgkK6N4NY5CSGKk93Po) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Many Mourn For Bob](https://open.spotify.com/album/0Dq4skfj3ndef7urknPx48) | 3:52 | 2026-02-07 | 2026-03-07 |

@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2026\. See you on the dancefloor.
 
-582 songs - 1 day 10 hr 19 min
+583 songs - 1 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Drifting](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Drifting](https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG) | 2:27 | 2023-06-30 | 2024-04-20 |
 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2022-08-26 | 2024-04-19 |
 | [Drugs From Amsterdam](https://open.spotify.com/track/1uXPu4aSDFPLzyNcH6ASD4) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/6ZnAre1P3Mz0LpiUeMQ1s8) | 3:55 | 2022-08-26 | 2022-09-30 |
-| [Drums Keep Calling](https://open.spotify.com/track/4242cbONa04ZeHNTWtzzND) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Flagrant Drvms](https://open.spotify.com/artist/55kBvzKEORCymfAWcBzGSb) | [Drums Keep Calling](https://open.spotify.com/album/1IWXvOPBMtk7fVzb9yNaP3) | 3:47 | 2026-04-30 |  |
+| [Drums Keep Calling](https://open.spotify.com/track/4242cbONa04ZeHNTWtzzND) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Flagrant Drvms](https://open.spotify.com/artist/55kBvzKEORCymfAWcBzGSb) | [Drums Keep Calling](https://open.spotify.com/album/1IWXvOPBMtk7fVzb9yNaP3) | 3:47 | 2026-04-30 | 2026-08-10 |
 | [DÓNDE ESTÁ](https://open.spotify.com/track/35syZ8HVLl1YBS0bY6nzaj) | [YOURS](https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7) | [DÓNDE ESTÁ](https://open.spotify.com/album/7u8SXWRQiR1aCmyjHCzwWJ) | 3:48 | 2023-06-13 | 2023-07-27 |
 | [Ease My Mind](https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Ease My Mind](https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h) | 3:11 | 2025-04-17 | 2026-05-01 |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2023-06-13 | 2024-04-20 |
@@ -557,6 +557,7 @@
 | [We Back](https://open.spotify.com/track/2iBhkMErE3uUN0h8PEZdB1) | [Charlie Boon](https://open.spotify.com/artist/6NGofnQORNQtnWXN3ef270), [Rileasa Slaves](https://open.spotify.com/artist/6hmC2zCfacf0G0u7jMkBlB) | [We Back](https://open.spotify.com/album/2oFRsgPtTNtWwN4DG0AC2n) | 2:41 | 2022-08-26 | 2023-04-05 |
 | [We Control](https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [We Control](https://open.spotify.com/album/5VgrFAxkLmF6xAfgY6ByeW) | 3:26 | 2022-08-26 | 2023-05-27 |
 | [We Groovin](https://open.spotify.com/track/1lzbOrmaBhueOQfwKCfi1J) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [We Groovin](https://open.spotify.com/album/6L9eNKfRONaBKym2BuXw64) | 3:01 | 2024-04-19 | 2025-04-02 |
+| [We Not Tired](https://open.spotify.com/track/76eRWUypaYjpJMhpHNtJJH) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [We Not Tired](https://open.spotify.com/album/3DsheIzz2QBqCBs1pftrvG) | 2:52 | 2026-08-06 |  |
 | [Weak](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h) | [Weak](https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn) | 3:22 | 2024-04-19 | 2026-04-11 |
 | [Welcome To The People](https://open.spotify.com/track/4O3APpGNhOldqDsPF8IaS5) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Welcome To The People](https://open.spotify.com/album/7HZzmPZE3gKxhzVaIJ11KF) | 2:40 | 2022-08-26 | 2024-04-20 |
 | [What I Got](https://open.spotify.com/track/2FjchEMlPm2nyaqn4X7zHt) | [Archie Hamilton](https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv) | [Coastal Transmissions EP](https://open.spotify.com/album/195tyH03HdgJnQNfrPtnzO) | 3:40 | 2026-07-02 |  |

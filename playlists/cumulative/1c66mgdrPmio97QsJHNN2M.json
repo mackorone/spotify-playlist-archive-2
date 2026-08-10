@@ -4533,6 +4533,24 @@
     },
     {
       "album": {
+        "name": "Something, bigger",
+        "url": "https://open.spotify.com/album/5f8r36603nHr4QhdzPfPC8"
+      },
+      "artists": [
+        {
+          "name": "Bloome",
+          "url": "https://open.spotify.com/artist/1MexyFD4plwIeJ6F7cb1Wl"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105103,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/1q6QguRRTdBU4LPaoOFz9E"
+    },
+    {
+      "album": {
         "name": "Birds of a Feather",
         "url": "https://open.spotify.com/album/2jrt27c4tvGmHf4N5nYykv"
       },
@@ -21585,6 +21603,24 @@
     },
     {
       "album": {
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/5dgWGaM6cO0ZpUiY2aSlis"
+      },
+      "artists": [
+        {
+          "name": "Snow64",
+          "url": "https://open.spotify.com/artist/3FdWAAR7crFASn2OhxrujQ"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181148,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/3UybJIMAhST8YL8RMzSVkb"
+    },
+    {
+      "album": {
         "name": "Mother Resides",
         "url": "https://open.spotify.com/album/3MFfahsn5gq7nrifvR0yRD"
       },
@@ -34851,6 +34887,24 @@
     },
     {
       "album": {
+        "name": "The Rainbow Moon",
+        "url": "https://open.spotify.com/album/0zmIxSRYfnPy3tSP0EMRUM"
+      },
+      "artists": [
+        {
+          "name": "Michael Paul",
+          "url": "https://open.spotify.com/artist/3EEUlpqSvIkd3fATYXbjKe"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222615,
+      "name": "Same Old Ways",
+      "url": "https://open.spotify.com/track/1vDfw765O8PyvfuLHmNkTh"
+    },
+    {
+      "album": {
         "name": "Same Trouble",
         "url": "https://open.spotify.com/album/6HYNBpyGGFgtlxKeiwmQqh"
       },
@@ -36719,6 +36773,24 @@
     },
     {
       "album": {
+        "name": "Eclectic Echos",
+        "url": "https://open.spotify.com/album/30MZ0o88OILt95WLonBO1f"
+      },
+      "artists": [
+        {
+          "name": "Mick Kornyik",
+          "url": "https://open.spotify.com/artist/0iyDJ7nq3ZAnGCNIRzkF9A"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "Skyline Funk",
+      "url": "https://open.spotify.com/track/4sQhlViUbxllAJ00sWrAh2"
+    },
+    {
+      "album": {
         "name": "AEON",
         "url": "https://open.spotify.com/album/4TIkr6AJmoIQruxui7DNYZ"
       },
@@ -38570,6 +38642,24 @@
       "duration_ms": 204962,
       "name": "Stuck in Amsterdamn - Remaster",
       "url": "https://open.spotify.com/track/032WydYzKxM1b70cgdefgh"
+    },
+    {
+      "album": {
+        "name": "The Rainbow Moon",
+        "url": "https://open.spotify.com/album/0zmIxSRYfnPy3tSP0EMRUM"
+      },
+      "artists": [
+        {
+          "name": "Michael Paul",
+          "url": "https://open.spotify.com/artist/3EEUlpqSvIkd3fATYXbjKe"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175299,
+      "name": "Stuck in The Programmed Death",
+      "url": "https://open.spotify.com/track/2G3O85k3Q8iHarWK7QHoyV"
     },
     {
       "album": {
@@ -42515,6 +42605,24 @@
     },
     {
       "album": {
+        "name": "To Little Jacky",
+        "url": "https://open.spotify.com/album/1nv8CKTxQFEL24tpMeaFzf"
+      },
+      "artists": [
+        {
+          "name": "Evan Park",
+          "url": "https://open.spotify.com/artist/0Uy6ep5p6hkzzPs1SuucDU"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77538,
+      "name": "To Little Jacky",
+      "url": "https://open.spotify.com/track/6hnKtERzyWzZxkZkkWk9Fv"
+    },
+    {
+      "album": {
         "name": "Together Forever",
         "url": "https://open.spotify.com/album/6rRWrGfD2j9MsJIIYwlRCR"
       },
@@ -44417,6 +44525,24 @@
     },
     {
       "album": {
+        "name": "wait for you",
+        "url": "https://open.spotify.com/album/4b8CAYGVEkPMNtwefmOv1B"
+      },
+      "artists": [
+        {
+          "name": "Michael Zeidel",
+          "url": "https://open.spotify.com/artist/5INKrNcQ9UTLuuXQypcCgr"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157336,
+      "name": "wait for you",
+      "url": "https://open.spotify.com/track/48sji6Ba40RhDoyCCa3sQh"
+    },
+    {
+      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/5abycP4Ic6xdXGmbRn56qt"
       },
@@ -44876,6 +45002,24 @@
       "duration_ms": 195789,
       "name": "We Are the People",
       "url": "https://open.spotify.com/track/0sxyx3jsL6lRaENpuK47v7"
+    },
+    {
+      "album": {
+        "name": "We Come Alive",
+        "url": "https://open.spotify.com/album/0AdwniZsyxJeEQ8mySq3ww"
+      },
+      "artists": [
+        {
+          "name": "Killian Omara",
+          "url": "https://open.spotify.com/artist/3AS9xpatJPke7cgit9LJC0"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172886,
+      "name": "We Come Alive",
+      "url": "https://open.spotify.com/track/5McpysRvZuq2TjK5qH31VU"
     },
     {
       "album": {

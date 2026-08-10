@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i  nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 11704,
+  "num_followers": 11703,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -523,26 +523,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "Kawior",
-        "url": "https://open.spotify.com/album/1GIZyPMXjFNJK7jkXfyVYo"
-      },
-      "artists": [
-        {
-          "name": "Avi",
-          "url": "https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl"
-        },
-        {
-          "name": "BL Beatz",
-          "url": "https://open.spotify.com/artist/2B3kmkvUmxESyeXpT2OMH6"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Kawior",
-      "url": "https://open.spotify.com/track/5U501QvKEdHNON4LGFAhvj"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "W co ja si\u0119 wjeba\u0142em - Nowe Rozdanie | S1",
         "url": "https://open.spotify.com/album/6PnfYYqAiGUgPr1JV8zPQ8"
       },
@@ -575,6 +555,26 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "Kawior",
+        "url": "https://open.spotify.com/album/1GIZyPMXjFNJK7jkXfyVYo"
+      },
+      "artists": [
+        {
+          "name": "Avi",
+          "url": "https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl"
+        },
+        {
+          "name": "BL Beatz",
+          "url": "https://open.spotify.com/artist/2B3kmkvUmxESyeXpT2OMH6"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Kawior",
+      "url": "https://open.spotify.com/track/5U501QvKEdHNON4LGFAhvj"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "R\u00f3\u017cowe Diamenty",
         "url": "https://open.spotify.com/album/5FRwgkqHl0NWdawXB8m6q4"
       },
@@ -591,34 +591,6 @@
       "duration_ms": 153402,
       "name": "R\u00f3\u017cowe Diamenty",
       "url": "https://open.spotify.com/track/3IXuxsI9ltJw3WpRzVtSPL"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "Tenten",
-        "url": "https://open.spotify.com/album/2df5WUWe3PcLUMA6MXRsYc"
-      },
-      "artists": [
-        {
-          "name": "Wenext",
-          "url": "https://open.spotify.com/artist/3GshitkWGkouULcfjdh9hw"
-        },
-        {
-          "name": "M\u0142ody West",
-          "url": "https://open.spotify.com/artist/1bOTP9P3CS97UwhBm2WekK"
-        },
-        {
-          "name": "wane",
-          "url": "https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh"
-        },
-        {
-          "name": "Okekel",
-          "url": "https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3"
-        }
-      ],
-      "duration_ms": 219566,
-      "name": "Tenten",
-      "url": "https://open.spotify.com/track/6EifQP3TYilOa16wDKFyqR"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -663,6 +635,34 @@
       "duration_ms": 177933,
       "name": "Quattro",
       "url": "https://open.spotify.com/track/0lMpZ1eELPt7WENvcei807"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "Tenten",
+        "url": "https://open.spotify.com/album/2df5WUWe3PcLUMA6MXRsYc"
+      },
+      "artists": [
+        {
+          "name": "Wenext",
+          "url": "https://open.spotify.com/artist/3GshitkWGkouULcfjdh9hw"
+        },
+        {
+          "name": "M\u0142ody West",
+          "url": "https://open.spotify.com/artist/1bOTP9P3CS97UwhBm2WekK"
+        },
+        {
+          "name": "wane",
+          "url": "https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh"
+        },
+        {
+          "name": "Okekel",
+          "url": "https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3"
+        }
+      ],
+      "duration_ms": 219566,
+      "name": "Tenten",
+      "url": "https://open.spotify.com/track/6EifQP3TYilOa16wDKFyqR"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1395,34 +1395,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "Czwarta Rano",
-        "url": "https://open.spotify.com/album/6U5SqvclMhXUaI0lWlJxgp"
-      },
-      "artists": [
-        {
-          "name": "Ma\u0142olat",
-          "url": "https://open.spotify.com/artist/4OKOsK6RUI0hFfxEXjt1kH"
-        },
-        {
-          "name": "Kukon",
-          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
-        },
-        {
-          "name": "NOSTALG1A",
-          "url": "https://open.spotify.com/artist/6MviuPgk8R2ZJBwY9yHxOS"
-        },
-        {
-          "name": "SHD\u00d8W",
-          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
-        }
-      ],
-      "duration_ms": 160851,
-      "name": "Czwarta Rano",
-      "url": "https://open.spotify.com/track/3GMbyrZOt6OsEq8id8jU4h"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "WDDC",
         "url": "https://open.spotify.com/album/1PNA8PRpyBJqyN5ERMTjOS"
       },
@@ -1447,6 +1419,34 @@
       "duration_ms": 209269,
       "name": "WDDC",
       "url": "https://open.spotify.com/track/3qPWus96wAMhMVoGsxnFVQ"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "Czwarta Rano",
+        "url": "https://open.spotify.com/album/6U5SqvclMhXUaI0lWlJxgp"
+      },
+      "artists": [
+        {
+          "name": "Ma\u0142olat",
+          "url": "https://open.spotify.com/artist/4OKOsK6RUI0hFfxEXjt1kH"
+        },
+        {
+          "name": "Kukon",
+          "url": "https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD"
+        },
+        {
+          "name": "NOSTALG1A",
+          "url": "https://open.spotify.com/artist/6MviuPgk8R2ZJBwY9yHxOS"
+        },
+        {
+          "name": "SHD\u00d8W",
+          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
+        }
+      ],
+      "duration_ms": 160851,
+      "name": "Czwarta Rano",
+      "url": "https://open.spotify.com/track/3GMbyrZOt6OsEq8id8jU4h"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1527,6 +1527,34 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "EMOCJONALNY DOWN",
+        "url": "https://open.spotify.com/album/3pF2EMGhCvQCeSIszjyVQ2"
+      },
+      "artists": [
+        {
+          "name": "\u0106PAJ STAJL",
+          "url": "https://open.spotify.com/artist/1mAoRpDy7J3s5jX96Bm5jF"
+        },
+        {
+          "name": "Cool P",
+          "url": "https://open.spotify.com/artist/5f0sTF0SaVN5hbNYAJFSPV"
+        },
+        {
+          "name": "M\u0142ody Zgred",
+          "url": "https://open.spotify.com/artist/5l02SZeV3MbdwqtHZMDFPn"
+        },
+        {
+          "name": "Adelbert",
+          "url": "https://open.spotify.com/artist/1NaOBTMB3Fd960F8cnhP1t"
+        }
+      ],
+      "duration_ms": 175832,
+      "name": "EMOCJONALNY DOWN",
+      "url": "https://open.spotify.com/track/0SfYXfnx1X8C1ollWSZrMR"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "Ostatni z gatunku/Les derniers de l'esp\u00e8ce",
         "url": "https://open.spotify.com/album/5DaGiXaRGbNQsVzoS4d9LC"
       },
@@ -1571,34 +1599,6 @@
       "duration_ms": 258008,
       "name": "Ostatni z gatunku/Les derniers de l'esp\u00e8ce",
       "url": "https://open.spotify.com/track/0yRmDXmXJmMgVkaZ9saa2z"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "EMOCJONALNY DOWN",
-        "url": "https://open.spotify.com/album/3pF2EMGhCvQCeSIszjyVQ2"
-      },
-      "artists": [
-        {
-          "name": "\u0106PAJ STAJL",
-          "url": "https://open.spotify.com/artist/1mAoRpDy7J3s5jX96Bm5jF"
-        },
-        {
-          "name": "Cool P",
-          "url": "https://open.spotify.com/artist/5f0sTF0SaVN5hbNYAJFSPV"
-        },
-        {
-          "name": "M\u0142ody Zgred",
-          "url": "https://open.spotify.com/artist/5l02SZeV3MbdwqtHZMDFPn"
-        },
-        {
-          "name": "Adelbert",
-          "url": "https://open.spotify.com/artist/1NaOBTMB3Fd960F8cnhP1t"
-        }
-      ],
-      "duration_ms": 175832,
-      "name": "EMOCJONALNY DOWN",
-      "url": "https://open.spotify.com/track/0SfYXfnx1X8C1ollWSZrMR"
     },
     {
       "added_at": "2026-04-09 22:12:46",

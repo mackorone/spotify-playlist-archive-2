@@ -1,6 +1,6 @@
 {
   "description": "Spain minus the S =",
-  "num_followers": 589629,
+  "num_followers": 589720,
   "original_name": "teen angst",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Sk8er Boi",
+      "url": "https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
         "name": "Everything Will Be Alright In The End",
         "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 193733,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Sk8er Boi",
-      "url": "https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "Sonic Excess In Its Purest Form",
-        "url": "https://open.spotify.com/album/4Davu5xpuijMwg3dohmKsZ"
+        "name": "The Madding Crowd",
+        "url": "https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD"
       },
       "artists": [
         {
-          "name": "Crowbar",
-          "url": "https://open.spotify.com/artist/3xtIpqzIOfQUxKce8BU4Ka"
+          "name": "Nine Days",
+          "url": "https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO"
         }
       ],
-      "duration_ms": 238266,
-      "name": "REPULSIVE IN ITS SPLENDID BEAUTY",
-      "url": "https://open.spotify.com/track/5VGAlq9o0u09jZavGLUfdo"
+      "duration_ms": 189333,
+      "name": "Absolutely (Story of a Girl) - Radio Mix",
+      "url": "https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -1043,18 +1043,34 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "The Madding Crowd",
-        "url": "https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD"
+        "name": "Bounce Energy Hear Me Out",
+        "url": "https://open.spotify.com/album/6KMS3Z8DZJI94pqwGTwCT6"
       },
       "artists": [
         {
-          "name": "Nine Days",
-          "url": "https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO"
+          "name": "Lady Radiator",
+          "url": "https://open.spotify.com/artist/5U2FH1VnxiZYbLcUVWGrov"
         }
       ],
-      "duration_ms": 189333,
-      "name": "Absolutely (Story of a Girl) - Radio Mix",
-      "url": "https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP"
+      "duration_ms": 314526,
+      "name": "Box Turtle, Magnificent Isn't She",
+      "url": "https://open.spotify.com/track/4Dev97TQztwKYRMfR7HZCM"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "Sonic Excess In Its Purest Form",
+        "url": "https://open.spotify.com/album/4Davu5xpuijMwg3dohmKsZ"
+      },
+      "artists": [
+        {
+          "name": "Crowbar",
+          "url": "https://open.spotify.com/artist/3xtIpqzIOfQUxKce8BU4Ka"
+        }
+      ],
+      "duration_ms": 238266,
+      "name": "REPULSIVE IN ITS SPLENDID BEAUTY",
+      "url": "https://open.spotify.com/track/5VGAlq9o0u09jZavGLUfdo"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -1071,22 +1087,6 @@
       "duration_ms": 235560,
       "name": "Until the Day I Die",
       "url": "https://open.spotify.com/track/0DKNNR9iDjwfCEpMiFXMJq"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
-        "name": "Bounce Energy Hear Me Out",
-        "url": "https://open.spotify.com/album/6KMS3Z8DZJI94pqwGTwCT6"
-      },
-      "artists": [
-        {
-          "name": "Lady Radiator",
-          "url": "https://open.spotify.com/artist/5U2FH1VnxiZYbLcUVWGrov"
-        }
-      ],
-      "duration_ms": 314526,
-      "name": "Box Turtle, Magnificent Isn't She",
-      "url": "https://open.spotify.com/track/4Dev97TQztwKYRMfR7HZCM"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "fleabag",
-        "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 176988,
-      "name": "fleabag",
-      "url": "https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "Beachboy",
         "url": "https://open.spotify.com/album/5HYTNHcx16osD8MCWucKxu"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 199341,
       "name": "Beachboy",
       "url": "https://open.spotify.com/track/70uQzsAyJ1vmloywhrO0ss"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "fleabag",
+        "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 176988,
+      "name": "fleabag",
+      "url": "https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "RED GUITAR",
-        "url": "https://open.spotify.com/album/0vgXkq8T199cZ1wN8ppb51"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 147691,
-      "name": "RED GUITAR",
-      "url": "https://open.spotify.com/track/6XxJPNJrLzr5ulspbPF9Rq"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "My Mother Wants Me Dead",
         "url": "https://open.spotify.com/album/0T6yUi3nWoE9c5krkoPYPK"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 105351,
       "name": "My Mother Wants Me Dead",
       "url": "https://open.spotify.com/track/3ADDLOa2NjjLFQ7g2FTiYx"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "RED GUITAR",
+        "url": "https://open.spotify.com/album/0vgXkq8T199cZ1wN8ppb51"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 147691,
+      "name": "RED GUITAR",
+      "url": "https://open.spotify.com/track/6XxJPNJrLzr5ulspbPF9Rq"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "Past // Present // Future",
-        "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
-      },
-      "artists": [
-        {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
-        }
-      ],
-      "duration_ms": 165317,
-      "name": "T.M.I",
-      "url": "https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "please put me in a medically induced coma",
         "url": "https://open.spotify.com/album/2pPYJUCaxJTApLpglmBpaL"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 186902,
       "name": "please put me in a medically induced coma",
       "url": "https://open.spotify.com/track/4MY8pe89WnW7xVOxUN4hmg"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "Past // Present // Future",
+        "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 165317,
+      "name": "T.M.I",
+      "url": "https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt"
     },
     {
       "added_at": "2026-04-07 21:11:18",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
-        "name": "Talon Of The Hawk",
-        "url": "https://open.spotify.com/album/2A40vT8FlwsMAkX7Tzfnr4"
-      },
-      "artists": [
-        {
-          "name": "The Front Bottoms",
-          "url": "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
-        }
-      ],
-      "duration_ms": 264676,
-      "name": "Twin Size Mattress",
-      "url": "https://open.spotify.com/track/0Kd1R41kTx9Uzk30yv5PP7"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
         "name": "SUCKERPUNCH",
         "url": "https://open.spotify.com/album/0EIqEFEc82T70pVTKh7w1k"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 210493,
       "name": "Docket (feat. Bully)",
       "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
+        "name": "Talon Of The Hawk",
+        "url": "https://open.spotify.com/album/2A40vT8FlwsMAkX7Tzfnr4"
+      },
+      "artists": [
+        {
+          "name": "The Front Bottoms",
+          "url": "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+        }
+      ],
+      "duration_ms": 264676,
+      "name": "Twin Size Mattress",
+      "url": "https://open.spotify.com/track/0Kd1R41kTx9Uzk30yv5PP7"
     },
     {
       "added_at": "2026-04-07 21:11:18",

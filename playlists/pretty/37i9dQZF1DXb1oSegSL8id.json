@@ -1,6 +1,6 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 863519,
+  "num_followers": 863544,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
@@ -247,18 +247,18 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Atitude 67 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5hxexa4StN8STmpxFQaG9n"
+        "name": "Tijol\u00e3o (ao Vivo)",
+        "url": "https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49"
       },
       "artists": [
         {
-          "name": "Atitude 67",
-          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 210386,
-      "name": "Cerveja De Garrafa (Fuma\u00e7a Que Eu Fa\u00e7o) - Ao Vivo Em S\u00e3o Paulo / 2017",
-      "url": "https://open.spotify.com/track/2PADJK4rhdklqFLQFa5oMX"
+      "duration_ms": 175219,
+      "name": "Tijol\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -283,18 +283,18 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Tijol\u00e3o (ao Vivo)",
-        "url": "https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49"
+        "name": "Atitude 67 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5hxexa4StN8STmpxFQaG9n"
       },
       "artists": [
         {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+          "name": "Atitude 67",
+          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
         }
       ],
-      "duration_ms": 175219,
-      "name": "Tijol\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7"
+      "duration_ms": 210386,
+      "name": "Cerveja De Garrafa (Fuma\u00e7a Que Eu Fa\u00e7o) - Ao Vivo Em S\u00e3o Paulo / 2017",
+      "url": "https://open.spotify.com/track/2PADJK4rhdklqFLQFa5oMX"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -463,30 +463,6 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Jogadora Cara (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2i7wWL4aSODH9weRYSiZE0"
-      },
-      "artists": [
-        {
-          "name": "Filtr Music Brasil",
-          "url": "https://open.spotify.com/artist/3HS6PhyJJP5YNb5OFw1E5Q"
-        },
-        {
-          "name": "Di Prop\u00f3sito",
-          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
-        },
-        {
-          "name": "Grupo Benzadeus",
-          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
-        }
-      ],
-      "duration_ms": 154997,
-      "name": "Jogadora Cara - Ao Vivo",
-      "url": "https://open.spotify.com/track/5OtI4bRbdel2durPpx8fu4"
-    },
-    {
-      "added_at": "2026-06-22 17:28:18",
-      "album": {
         "name": "Vento Forte",
         "url": "https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT"
       },
@@ -507,22 +483,6 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 192870,
-      "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
-    },
-    {
-      "added_at": "2026-06-22 17:28:18",
-      "album": {
         "name": "Contatinho (Ao Vivo)",
         "url": "https://open.spotify.com/album/4sH660Ggu0Xd9yShQntlmA"
       },
@@ -539,6 +499,46 @@
       "duration_ms": 173229,
       "name": "Contatinho - Ao Vivo",
       "url": "https://open.spotify.com/track/4RC2nzqaQygxoVQOVv3XlT"
+    },
+    {
+      "added_at": "2026-06-22 17:28:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 192870,
+      "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
+    },
+    {
+      "added_at": "2026-06-22 17:28:18",
+      "album": {
+        "name": "Jogadora Cara (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2i7wWL4aSODH9weRYSiZE0"
+      },
+      "artists": [
+        {
+          "name": "Filtr Music Brasil",
+          "url": "https://open.spotify.com/artist/3HS6PhyJJP5YNb5OFw1E5Q"
+        },
+        {
+          "name": "Di Prop\u00f3sito",
+          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
+        },
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        }
+      ],
+      "duration_ms": 154997,
+      "name": "Jogadora Cara - Ao Vivo",
+      "url": "https://open.spotify.com/track/5OtI4bRbdel2durPpx8fu4"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -639,26 +639,6 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Agora \u00e9 Tudo Meu",
-        "url": "https://open.spotify.com/album/1KqYanTdzHe7tWwHO4O23g"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
-        }
-      ],
-      "duration_ms": 171998,
-      "name": "Agora \u00e9 Tudo Meu",
-      "url": "https://open.spotify.com/track/5yH8pYxNckOU1cxfPsMIaz"
-    },
-    {
-      "added_at": "2026-06-22 17:28:18",
-      "album": {
         "name": "Dona Maria",
         "url": "https://open.spotify.com/album/1uqofIktCiIpJZBitA6aur"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 187998,
       "name": "Dona Maria",
       "url": "https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre"
+    },
+    {
+      "added_at": "2026-06-22 17:28:18",
+      "album": {
+        "name": "Agora \u00e9 Tudo Meu",
+        "url": "https://open.spotify.com/album/1KqYanTdzHe7tWwHO4O23g"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        }
+      ],
+      "duration_ms": 171998,
+      "name": "Agora \u00e9 Tudo Meu",
+      "url": "https://open.spotify.com/track/5yH8pYxNckOU1cxfPsMIaz"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -967,6 +967,22 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
+        "name": "10 Anos Na Praia (Ao Vivo / Vol. 1)",
+        "url": "https://open.spotify.com/album/6rtq152SsRhAcAvGmzoBWl"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 170197,
+      "name": "Litr\u00e3o - Ao Vivo Em Recife / 2020",
+      "url": "https://open.spotify.com/track/5W1kqz2l1lDX77DXBMeXZg"
+    },
+    {
+      "added_at": "2026-06-22 17:28:18",
+      "album": {
         "name": "Atrasadinha (Ao Vivo)",
         "url": "https://open.spotify.com/album/64LfkmEoS9FMwXuSUAWCR3"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 172766,
       "name": "Atrasadinha - Live",
       "url": "https://open.spotify.com/track/1aPl8QT8gtcPmOwpMH2Fyj"
-    },
-    {
-      "added_at": "2026-06-22 17:28:18",
-      "album": {
-        "name": "10 Anos Na Praia (Ao Vivo / Vol. 1)",
-        "url": "https://open.spotify.com/album/6rtq152SsRhAcAvGmzoBWl"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 170197,
-      "name": "Litr\u00e3o - Ao Vivo Em Recife / 2020",
-      "url": "https://open.spotify.com/track/5W1kqz2l1lDX77DXBMeXZg"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
+        "name": "O Baile do Nego V\u00e9io Ao Vivo Em Jurer\u00ea Internacional",
+        "url": "https://open.spotify.com/album/2k6l4PXSBKKxQJkGtYswBi"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Pires",
+          "url": "https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N"
+        }
+      ],
+      "duration_ms": 176123,
+      "name": "Domingo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5LBMUgKmkheyVJa1Zn6Qoz"
+    },
+    {
+      "added_at": "2026-06-22 17:28:18",
+      "album": {
         "name": "Clube Do Ara\u00fajo (Vol. 1)",
         "url": "https://open.spotify.com/album/3Ay6c9osMoPkiFElfmlldG"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 155504,
       "name": "Chave C\u00f3pia",
       "url": "https://open.spotify.com/track/2AjPFi6CcjGXlvt1rkrDRD"
-    },
-    {
-      "added_at": "2026-06-22 17:28:18",
-      "album": {
-        "name": "O Baile do Nego V\u00e9io Ao Vivo Em Jurer\u00ea Internacional",
-        "url": "https://open.spotify.com/album/2k6l4PXSBKKxQJkGtYswBi"
-      },
-      "artists": [
-        {
-          "name": "Alexandre Pires",
-          "url": "https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N"
-        }
-      ],
-      "duration_ms": 176123,
-      "name": "Domingo - Ao Vivo",
-      "url": "https://open.spotify.com/track/5LBMUgKmkheyVJa1Zn6Qoz"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Aonde Quer Chegar",
-        "url": "https://open.spotify.com/album/4OgqLEkwazzYv1snqUOQlo"
-      },
-      "artists": [
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 191641,
-      "name": "Aonde Quer Chegar",
-      "url": "https://open.spotify.com/track/6bcvIgM2W5kaMozN2L9e0k"
-    },
-    {
-      "added_at": "2026-06-22 17:28:18",
-      "album": {
         "name": "Open House (Ao Vivo)",
         "url": "https://open.spotify.com/album/69BEwRfwBeIpoene374tX2"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 177067,
       "name": "Sogra - Ao Vivo",
       "url": "https://open.spotify.com/track/4zsiMjB0794HztyqUkD3Zi"
+    },
+    {
+      "added_at": "2026-06-22 17:28:18",
+      "album": {
+        "name": "Aonde Quer Chegar",
+        "url": "https://open.spotify.com/album/4OgqLEkwazzYv1snqUOQlo"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 191641,
+      "name": "Aonde Quer Chegar",
+      "url": "https://open.spotify.com/track/6bcvIgM2W5kaMozN2L9e0k"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "TunTunTun (Spotify Singles)",
-        "url": "https://open.spotify.com/album/4fvmp2unR8rEX9rEAiQgCK"
-      },
-      "artists": [
-        {
-          "name": "Grupo Benzadeus",
-          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
-        }
-      ],
-      "duration_ms": 186501,
-      "name": "TunTunTun - Spotify Singles",
-      "url": "https://open.spotify.com/track/664sTugsU30HsYEwGfmv0C"
-    },
-    {
-      "added_at": "2026-06-22 17:28:18",
-      "album": {
         "name": "LUAN CITY (Ao Vivo)",
         "url": "https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 173560,
       "name": "SEU DOUTOR - Ao Vivo",
       "url": "https://open.spotify.com/track/0WnraiegaS9uZbBi3J0UUB"
+    },
+    {
+      "added_at": "2026-06-22 17:28:18",
+      "album": {
+        "name": "TunTunTun (Spotify Singles)",
+        "url": "https://open.spotify.com/album/4fvmp2unR8rEX9rEAiQgCK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        }
+      ],
+      "duration_ms": 186501,
+      "name": "TunTunTun - Spotify Singles",
+      "url": "https://open.spotify.com/track/664sTugsU30HsYEwGfmv0C"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Jogou Aonde",
-        "url": "https://open.spotify.com/album/4JjX15pDZAEnRDXmUNmBGo"
-      },
-      "artists": [
-        {
-          "name": "Gica",
-          "url": "https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV"
-        }
-      ],
-      "duration_ms": 158378,
-      "name": "Jogou Aonde",
-      "url": "https://open.spotify.com/track/363RXPKuqjkM3vAHDFUQCe"
-    },
-    {
-      "added_at": "2026-06-22 17:28:18",
-      "album": {
         "name": "Pisadinha (Ao Vivo)",
         "url": "https://open.spotify.com/album/2Ir3JLRBTe6UNagIu9CsYV"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 158661,
       "name": "Pisadinha - Ao Vivo",
       "url": "https://open.spotify.com/track/36P6ptTyxOggYgR2aoZiAl"
+    },
+    {
+      "added_at": "2026-06-22 17:28:18",
+      "album": {
+        "name": "Jogou Aonde",
+        "url": "https://open.spotify.com/album/4JjX15pDZAEnRDXmUNmBGo"
+      },
+      "artists": [
+        {
+          "name": "Gica",
+          "url": "https://open.spotify.com/artist/7IJg3wMcpenY5IFnflOcaV"
+        }
+      ],
+      "duration_ms": 158378,
+      "name": "Jogou Aonde",
+      "url": "https://open.spotify.com/track/363RXPKuqjkM3vAHDFUQCe"
     },
     {
       "added_at": "2026-06-22 17:28:18",

@@ -1,6 +1,6 @@
 {
   "description": "Os indicados na maior celebra\u00e7\u00e3o da m\u00fasica latina em 2025.",
-  "num_followers": 77299,
+  "num_followers": 77297,
   "original_name": "Os Indicados",
   "owner": {
     "name": "Spotify",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Ton Carfi 20 anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2vNkUge260SMhGlBBbQP4p"
-      },
-      "artists": [
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        }
-      ],
-      "duration_ms": 273300,
-      "name": "\u00daltimo da Fila - Ao Vivo",
-      "url": "https://open.spotify.com/track/2Swl61aivF1I4JhZogKwG0"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "Milton + esperanza",
         "url": "https://open.spotify.com/album/6lVRgFz4vQ3qoNT2nJfsar"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 276973,
       "name": "Um Vento Passou (para Paul Simon)",
       "url": "https://open.spotify.com/track/4KEvdc2UmMNMwTs4XlhmkG"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "Ton Carfi 20 anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2vNkUge260SMhGlBBbQP4p"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "duration_ms": 273300,
+      "name": "\u00daltimo da Fila - Ao Vivo",
+      "url": "https://open.spotify.com/track/2Swl61aivF1I4JhZogKwG0"
     },
     {
       "added_at": "2025-09-17 15:00:09",

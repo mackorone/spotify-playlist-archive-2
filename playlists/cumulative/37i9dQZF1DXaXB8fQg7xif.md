@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,382 songs - 3 day 1 hr 52 min
+1,383 songs - 3 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-04-14 |  |
 | [Back & Forth](https://open.spotify.com/track/6cyIScsFBUdHvl8YIElhiq) | [Harris & Hurr](https://open.spotify.com/artist/2aNn60ycgLbQIyhyxMQrNb) | [Back & Forth](https://open.spotify.com/album/35BLYOp3n2y4k3XAFCuPF9) | 2:36 | 2020-05-22\* | 2020-09-20 |
 | [Back Seat](https://open.spotify.com/track/4D9MSnyQxJOFfN6Wte0OyB) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Back Seat](https://open.spotify.com/album/31C5nbhSArKZCuJrzq655M) | 3:32 | 2021-12-17 | 2022-04-18 |
+| [Back To Funk](https://open.spotify.com/track/673evkde3J0TA7JxdCClDd) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C), [Danny P](https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd) | [Back To Funk](https://open.spotify.com/album/5pELdg3Dntw5icXk1N7QiN) | 3:39 | 2026-08-07 |  |
 | [Back To The Groove](https://open.spotify.com/track/4tMr7Bik0z8R6nAOz3FPQ1) | [Justin Jay](https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ), [coldsweat](https://open.spotify.com/artist/2bx8wO19oWkzkhO1hD8OTK), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH) | [Back To The Groove](https://open.spotify.com/album/21bvRyKAoj2ut7zwlY4vIx) | 4:29 | 2025-04-04 | 2026-06-19 |
 | [Back Tomorrow](https://open.spotify.com/track/4q2azQakSVVyqljRiCZtu3) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Back Tomorrow](https://open.spotify.com/album/1UOQt2dEoHhoJTinUxvFaI) | 1:58 | 2021-11-20 | 2022-11-13 |
 | [Bad](https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Bad](https://open.spotify.com/album/7HwVfo5rkhtch7svEwFj00) | 2:49 | 2020-07-03 | 2022-04-19 |
@@ -970,7 +971,7 @@
 | [Promises](https://open.spotify.com/track/4VWCn553TnAjZn7Vv57BWP) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Promises](https://open.spotify.com/album/2vNOniF3jdNkIfW4B3A1P7) | 3:21 | 2021-12-31 | 2022-07-29 |
 | [Promises](https://open.spotify.com/track/50YQaQXog18lS11wGCl77u) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Promises](https://open.spotify.com/album/2pNtsyHd2CL7XM6PtwoOyG) | 3:21 | 2021-10-18 | 2022-01-29 |
 | [Psycho Killer](https://open.spotify.com/track/6HhiSk9HZR0C3IktOI9mzy) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [TEN TONNE SKELETON](https://open.spotify.com/artist/1xTbla5aaPQxFEMr11yxTA) | [Psycho Killer](https://open.spotify.com/album/724uBeFYTVq2EwgSWqZ7qD) | 2:20 | 2020-12-27 | 2021-10-12 |
-| [Pull Up](https://open.spotify.com/track/3TCmo9oC5hlzCGzlTFZ0u5) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Pull Up](https://open.spotify.com/album/7JRs9V4KAZB1Va4PxYqBma) | 2:51 | 2025-12-26 |  |
+| [Pull Up](https://open.spotify.com/track/3TCmo9oC5hlzCGzlTFZ0u5) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Pull Up](https://open.spotify.com/album/7JRs9V4KAZB1Va4PxYqBma) | 2:51 | 2025-12-26 | 2026-08-10 |
 | [Pump It Up](https://open.spotify.com/track/0GiwV6v3AgJfdu59tj719Y) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/3D8C4a5lYbpEu5bPQmOpJj) | 2:30 | 2020-05-22\* | 2026-01-15 |
 | [Pump It Up](https://open.spotify.com/track/4tcPIwy0UvLYjhXLrMyx89) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Pump It Up](https://open.spotify.com/album/5Y7ArkpG6klUEQuhTvEEpM) | 2:30 | 2022-07-29 | 2024-04-06 |
 | [Pump the Brakes](https://open.spotify.com/track/1Gz2E1chOzRyhFXHJYWw8y) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Pump the Brakes](https://open.spotify.com/album/6LF0iT7seN01JDE1LjBJm5) | 3:40 | 2021-05-11 | 2022-04-20 |

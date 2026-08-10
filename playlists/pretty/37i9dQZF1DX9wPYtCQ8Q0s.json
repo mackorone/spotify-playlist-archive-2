@@ -1,6 +1,6 @@
 {
   "description": "A batida certa para o seu treino",
-  "num_followers": 310009,
+  "num_followers": 309969,
   "original_name": "Treino Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2026-08-07 14:26:24",
       "album": {
+        "name": "Boss Bitch",
+        "url": "https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 134239,
+      "name": "Boss Bitch",
+      "url": "https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k"
+    },
+    {
+      "added_at": "2026-08-07 14:26:24",
+      "album": {
         "name": "The Best In The World Pack",
         "url": "https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 205426,
       "name": "Money In The Grave (Drake ft. Rick Ross)",
       "url": "https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb"
-    },
-    {
-      "added_at": "2026-08-07 14:26:24",
-      "album": {
-        "name": "Boss Bitch",
-        "url": "https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 134239,
-      "name": "Boss Bitch",
-      "url": "https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k"
     },
     {
       "added_at": "2026-08-07 14:26:24",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-08-07 14:26:24",
       "album": {
+        "name": "Panda",
+        "url": "https://open.spotify.com/album/1k3BLTc4VZ7beRBXL1SPN6"
+      },
+      "artists": [
+        {
+          "name": "Desiigner",
+          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
+        }
+      ],
+      "duration_ms": 247866,
+      "name": "Panda",
+      "url": "https://open.spotify.com/track/275a9yzwGB6ncAW4SxY7q3"
+    },
+    {
+      "added_at": "2026-08-07 14:26:24",
+      "album": {
         "name": "Nobody (feat. Monaleo) [Remix]",
         "url": "https://open.spotify.com/album/6tT8zJ9w55GkEcy4eFbnA9"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 149963,
       "name": "Nobody (feat. Monaleo) - Remix",
       "url": "https://open.spotify.com/track/06D4xKbpIT0tXXE2JEysBp"
-    },
-    {
-      "added_at": "2026-08-07 14:26:24",
-      "album": {
-        "name": "Panda",
-        "url": "https://open.spotify.com/album/1k3BLTc4VZ7beRBXL1SPN6"
-      },
-      "artists": [
-        {
-          "name": "Desiigner",
-          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
-        }
-      ],
-      "duration_ms": 247866,
-      "name": "Panda",
-      "url": "https://open.spotify.com/track/275a9yzwGB6ncAW4SxY7q3"
     },
     {
       "added_at": "2026-08-07 14:26:24",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2026-08-07 14:26:24",
       "album": {
-        "name": "Real Hustla (ft. GloRilla)",
-        "url": "https://open.spotify.com/album/72RV7iDvkVQdqELmYtw5xF"
-      },
-      "artists": [
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 148108,
-      "name": "Real Hustla (ft. GloRilla)",
-      "url": "https://open.spotify.com/track/01lRLiKslwD7pzTa9PqvND"
-    },
-    {
-      "added_at": "2026-08-07 14:26:24",
-      "album": {
         "name": "Panini",
         "url": "https://open.spotify.com/album/71BrrQxz8mZAneNSDE9Lov"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 151040,
       "name": "Panini - DaBaby Remix",
       "url": "https://open.spotify.com/track/4SDgTLDYrJ2UrHbkRkg7MD"
+    },
+    {
+      "added_at": "2026-08-07 14:26:24",
+      "album": {
+        "name": "Real Hustla (ft. GloRilla)",
+        "url": "https://open.spotify.com/album/72RV7iDvkVQdqELmYtw5xF"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 148108,
+      "name": "Real Hustla (ft. GloRilla)",
+      "url": "https://open.spotify.com/track/01lRLiKslwD7pzTa9PqvND"
     },
     {
       "added_at": "2026-08-07 14:26:24",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-08-07 14:26:24",
       "album": {
-        "name": "Quaresma",
-        "url": "https://open.spotify.com/album/5BXNfTW8DFCsG2KQ8rlae9"
-      },
-      "artists": [
-        {
-          "name": "AJ Tracey",
-          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
-        }
-      ],
-      "duration_ms": 74500,
-      "name": "Quaresma",
-      "url": "https://open.spotify.com/track/0dS6mvqzBRZ4X4jlEqQNv9"
-    },
-    {
-      "added_at": "2026-08-07 14:26:24",
-      "album": {
         "name": "LIVE LIFE FAST",
         "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 204626,
       "name": "25 million",
       "url": "https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D"
+    },
+    {
+      "added_at": "2026-08-07 14:26:24",
+      "album": {
+        "name": "Quaresma",
+        "url": "https://open.spotify.com/album/5BXNfTW8DFCsG2KQ8rlae9"
+      },
+      "artists": [
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "duration_ms": 74500,
+      "name": "Quaresma",
+      "url": "https://open.spotify.com/track/0dS6mvqzBRZ4X4jlEqQNv9"
     },
     {
       "added_at": "2026-08-07 14:26:24",
@@ -1771,6 +1771,26 @@
     {
       "added_at": "2026-08-07 14:26:24",
       "album": {
+        "name": "Paperbag Boy",
+        "url": "https://open.spotify.com/album/7CqMuaqi2wrUNsful2OWHb"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 191059,
+      "name": "Paperbag Boy",
+      "url": "https://open.spotify.com/track/7mQcxAgdMV1Qt71tekR0DP"
+    },
+    {
+      "added_at": "2026-08-07 14:26:24",
+      "album": {
         "name": "Moana",
         "url": "https://open.spotify.com/album/62WikgopS3tO34QbVKtVP0"
       },
@@ -1811,26 +1831,6 @@
       "duration_ms": 137448,
       "name": "Light It Up (with Tyga & Chris Brown)",
       "url": "https://open.spotify.com/track/4Q8aDd3H6LF8t4eY7So9O8"
-    },
-    {
-      "added_at": "2026-08-07 14:26:24",
-      "album": {
-        "name": "Paperbag Boy",
-        "url": "https://open.spotify.com/album/7CqMuaqi2wrUNsful2OWHb"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 191059,
-      "name": "Paperbag Boy",
-      "url": "https://open.spotify.com/track/7mQcxAgdMV1Qt71tekR0DP"
     },
     {
       "added_at": "2026-08-07 14:26:24",
@@ -1943,6 +1943,30 @@
     {
       "added_at": "2026-08-07 14:26:24",
       "album": {
+        "name": "Bezerk",
+        "url": "https://open.spotify.com/album/6UgZHNJFfmKLSGLuW9T114"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "duration_ms": 151066,
+      "name": "Bezerk (feat. A$AP Ferg)",
+      "url": "https://open.spotify.com/track/2B9wgj9XzbJZLty03PRbVo"
+    },
+    {
+      "added_at": "2026-08-07 14:26:24",
+      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
       },
@@ -1971,26 +1995,26 @@
     {
       "added_at": "2026-08-07 14:26:24",
       "album": {
-        "name": "Bezerk",
-        "url": "https://open.spotify.com/album/6UgZHNJFfmKLSGLuW9T114"
+        "name": "Bonde da Rock",
+        "url": "https://open.spotify.com/album/4lyBsKWg4M8zHI0Ormmpo7"
       },
       "artists": [
         {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
         },
         {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
         },
         {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
         }
       ],
-      "duration_ms": 151066,
-      "name": "Bezerk (feat. A$AP Ferg)",
-      "url": "https://open.spotify.com/track/2B9wgj9XzbJZLty03PRbVo"
+      "duration_ms": 137237,
+      "name": "Bonde da Rock",
+      "url": "https://open.spotify.com/track/6sC0OMXUGXDtzcm0SkJYv5"
     },
     {
       "added_at": "2026-08-07 14:26:24",
@@ -2007,22 +2031,6 @@
       "duration_ms": 140855,
       "name": "Love And Choppa",
       "url": "https://open.spotify.com/track/26NEo4Ar57Ph1daWpZX4ke"
-    },
-    {
-      "added_at": "2026-08-07 14:26:24",
-      "album": {
-        "name": "babygirl",
-        "url": "https://open.spotify.com/album/31CPIp0vMvr5UNB0xvnMiL"
-      },
-      "artists": [
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        }
-      ],
-      "duration_ms": 147491,
-      "name": "babygirl",
-      "url": "https://open.spotify.com/track/5ouETFDqJv0SQMzwKlQLlP"
     }
   ],
   "unique_name": "Treino Hip-Hop",

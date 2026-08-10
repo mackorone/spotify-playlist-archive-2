@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\.  Photo: Hansom Ēli
 
-570 songs - 1 day 7 hr 53 min
+571 songs - 1 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [I took off my heels](https://open.spotify.com/track/0oeBdq0kLwNv8Vcfz3cHBi) | [Avery Jane](https://open.spotify.com/artist/4ShbxQ4vJNnnFdMl0EMHCg) | [I took off my heels](https://open.spotify.com/album/2sn5qLIgKhTSXrd3LxvmDc) | 3:46 | 2026-02-06 | 2026-04-11 |
 | [Idiot](https://open.spotify.com/track/6CnnCExCfjAZcjmVWSv8fL) | [Jimmy Hunt](https://open.spotify.com/artist/307URZG4lV6wvjKYmj86w2) | [Royaume](https://open.spotify.com/album/4aP35HIeabWoSciYT7UBDi) | 3:57 | 2024-06-28 | 2024-08-24 |
 | [If Time ’26](https://open.spotify.com/track/4akzkJlxy9FDpa5axng9CE) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh) | [If Time '26](https://open.spotify.com/album/0iCNkmgtnmryJH1R59l3U6) | 3:12 | 2026-08-07 |  |
+| [If You Love Her](https://open.spotify.com/track/5JOcmJuB2fbzyq3iVC500q) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Sad Songs for Grieving](https://open.spotify.com/album/4HxwCfvEAyY1twUkq9MjF8) | 3:37 | 2026-08-07 |  |
 | [Il faut que je migre](https://open.spotify.com/track/7eBfWRx7k41ufBTiokl96p) | [Irène](https://open.spotify.com/artist/5nK5s5oK58IWpRwWcoogYS) | [Il faut que je migre](https://open.spotify.com/album/4jRzUZY5FBu937fnIlv7em) | 3:00 | 2024-06-28 | 2024-08-17 |
 | [Il y a tant de moi en vous](https://open.spotify.com/track/49bqtZIf4uii8vOQQD4hsy) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8), [Patrick Krief](https://open.spotify.com/artist/3qLS4mXlfuL6vnKdDe2dK6) | [Scarabée](https://open.spotify.com/album/6y1UMNEMz5lFm0eZZ6v39f) | 3:37 | 2025-06-06 | 2025-10-18 |
 | [Imprudences](https://open.spotify.com/track/7y9gFcoaAmuO1hsFsakQKI) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [Imprudences](https://open.spotify.com/album/3PEbqGoks0gX4m9JuKLz0F) | 3:18 | 2025-04-25 | 2025-05-17 |
@@ -240,7 +241,7 @@
 | [L'amour est ma devise](https://open.spotify.com/track/2QOYRsXR5mHlkZOpqQeokD) | [Memony](https://open.spotify.com/artist/4fbbqtt94wbq0fJkc9LdZN), [Kingdom Street](https://open.spotify.com/artist/1lnUL64UOur97nIDHKEbNI) | [L'amour est ma devise](https://open.spotify.com/album/0iW1Nicw2U3pVRpDUWce5V) | 2:37 | 2025-09-26 | 2025-12-06 |
 | [L'amour est un jeu](https://open.spotify.com/track/6BRvdcso2N0DiV47ye9zxa) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [On s'enverra des fleurs](https://open.spotify.com/album/5C9adKmsorWrba3oDcgeGH) | 2:23 | 2025-10-03 | 2025-10-18 |
 | [L'autre hémisphère](https://open.spotify.com/track/7irvZlBqN7beslyn6EYJ3q) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [L'autre hémisphère](https://open.spotify.com/album/7FMTj5WXP0mLjPAiJIXluH) | 3:41 | 2024-08-09 | 2025-05-17 |
-| [L'avalanche](https://open.spotify.com/track/4epe5Hl4QCVyuPMMuV1qbi) | [Moses Belanger](https://open.spotify.com/artist/4LQlLBaLTEC9pzoded38hd) | [L'avalanche](https://open.spotify.com/album/1eQGR0F4cMZTIg5Xj6wjVO) | 3:24 | 2026-01-30 | 2026-08-08 |
+| [L'avalanche](https://open.spotify.com/track/4epe5Hl4QCVyuPMMuV1qbi) | [Moses Belanger](https://open.spotify.com/artist/4LQlLBaLTEC9pzoded38hd) | [L'avalanche](https://open.spotify.com/album/1eQGR0F4cMZTIg5Xj6wjVO) | 3:24 | 2026-01-30 |  |
 | [L'Eldorado](https://open.spotify.com/track/4JNSwi0Ianf7GehfFSQACX) | [Léyla Caminel](https://open.spotify.com/artist/13YIcrzTPUY7F5NtQ1ijFy) | [L'Eldorado](https://open.spotify.com/album/2szvSfOSMzU8Wc1NnB9usY) | 4:13 | 2026-02-27 | 2026-05-09 |
 | [L'embranchement](https://open.spotify.com/track/6YnVdI1YVBLsp2wBCrsTb3) | [Stéphane Archambault](https://open.spotify.com/artist/5mW94dZAqDWHpnj23vvXdF) | [Point](https://open.spotify.com/album/54amvrCm1neA2wWwLRX7Wo) | 3:52 | 2025-05-23 | 2025-11-15 |
 | [L'enfant](https://open.spotify.com/track/1IBiHeP00McsgUdaxV2zNa) | [Tomás Jensen](https://open.spotify.com/artist/6589fvi46EUYl0jInr8haq), [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [L'enfant](https://open.spotify.com/album/60PrtXtx5eA7QcW5IuQzAY) | 2:23 | 2026-06-19 |  |
@@ -446,7 +447,7 @@
 | [Rien ne m'étonne](https://open.spotify.com/track/1sdGOuBBQpl4JJ3OuWo3JM) | [Clodelle](https://open.spotify.com/artist/2Uzlt5clQAaXysQYGtrMGt) | [Rien ne m'étonne](https://open.spotify.com/album/1MDSUK1ZTD1OaYWLgWODtv) | 2:33 | 2024-07-19 | 2024-11-23 |
 | [Rinque de même que c'est](https://open.spotify.com/track/7tVYfVCnZCmA6fGRIYuvtU) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [Rinque de même que c'est](https://open.spotify.com/album/5tvfkwvUVNQCd5kNNZhunQ) | 3:33 | 2026-06-19 |  |
 | [Rivière](https://open.spotify.com/track/3eachAKI0MMi7r3Yy6dyb8) | [Laurence Castera](https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx) | [Rivière](https://open.spotify.com/album/3OVbzhaOuy15F3C0DWJtl8) | 3:17 | 2025-11-07 | 2026-01-15 |
-| [Roi de verre](https://open.spotify.com/track/14CyFLIXnaa5pmeTIjuTfy) | [Héron](https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F) | [Verger](https://open.spotify.com/album/7igLR1T9Wr56mbjWeF0zQe) | 3:33 | 2026-04-17 |  |
+| [Roi de verre](https://open.spotify.com/track/14CyFLIXnaa5pmeTIjuTfy) | [Héron](https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F) | [Verger](https://open.spotify.com/album/7igLR1T9Wr56mbjWeF0zQe) | 3:33 | 2026-04-17 | 2026-08-10 |
 | [Roses](https://open.spotify.com/track/1YDMR9mA86CqY7uBMsitXF) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Something More](https://open.spotify.com/album/09TCXjNpzMmadwJdLw0x3w) | 3:55 | 2026-05-15 |  |
 | [Rouler en août](https://open.spotify.com/track/7if4mulQZiyZ9ZK4grdW3j) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Rouler en août](https://open.spotify.com/album/2nERBo365hzapvIzvDi7dU) | 4:16 | 2025-05-16 | 2025-07-05 |
 | [Râ](https://open.spotify.com/track/7bY0a9gNYwEy895mpYPtMx) | [Pastel Barbo](https://open.spotify.com/artist/3abwdC0noTf5gkzwKdXVzM) | [Râ](https://open.spotify.com/album/3T1RDxhshQMgd50oJeLmoa) | 4:07 | 2026-05-29 | 2026-08-01 |
@@ -485,7 +486,7 @@
 | [Sphinx](https://open.spotify.com/track/6xXJVkQZ3Tui7zJhb0EynN) | [Grenades](https://open.spotify.com/artist/1FWk5W5yBNxvkeJ4bMIDso) | [SURPRISE](https://open.spotify.com/album/22LHMPnMALMF0eQRk2D6nh) | 2:52 | 2026-01-09 | 2026-03-21 |
 | [St\. Denis](https://open.spotify.com/track/6ISDvrYhDFXJfvG4uk4b1n) | [Ponteix](https://open.spotify.com/artist/1v0LRrF0AKvsTKrzNqVTEl), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [St\. Denis](https://open.spotify.com/album/4xUWVo4dSPdGxnH2pe1joh) | 3:56 | 2024-06-28 | 2025-01-25 |
 | [Still You Love Me](https://open.spotify.com/track/0matJgxZBlEDf4ACbMSBYx) | [2120](https://open.spotify.com/artist/0VsoloLwSIiLZ3AeoYjWSR) | [Still You Love Me](https://open.spotify.com/album/4S37RmMOM74DrU0PW0U0AG) | 3:18 | 2026-04-03 | 2026-04-18 |
-| [Superstar](https://open.spotify.com/track/2Ku0H3lqNDnm6G4kls95TD) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Superstar](https://open.spotify.com/album/3jGaPbBCDtJ7ebpf3dRvnu) | 5:37 | 2026-06-12 |  |
+| [Superstar](https://open.spotify.com/track/2Ku0H3lqNDnm6G4kls95TD) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Superstar](https://open.spotify.com/album/3jGaPbBCDtJ7ebpf3dRvnu) | 5:37 | 2026-06-12 | 2026-08-10 |
 | [Sur le cap](https://open.spotify.com/track/488gdN2KwunxpokKpXoPXn) | [Paruline](https://open.spotify.com/artist/18cNTulUASsX5cWN3vWzSO) | [À ceux qui veillent](https://open.spotify.com/album/53jP4RdQQQ0prisJ2NetX2) | 4:32 | 2025-10-17 | 2026-01-17 |
 | [Sur un malentendu](https://open.spotify.com/track/5PpylbXynoQyfKFapgYNEO) | [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn) | [Un meilleur lendemain](https://open.spotify.com/album/1kHPOUVWaVZVbGmvZH5hfu) | 3:47 | 2025-04-04 | 2025-11-29 |
 | [Sycomore](https://open.spotify.com/track/6fu86kCRpRGMPSgaDrWh8J) | [Héron](https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F) | [Bras solaires](https://open.spotify.com/album/1TXUlko1ECf7npkQfsgZCo) | 2:37 | 2025-11-14 | 2026-01-24 |

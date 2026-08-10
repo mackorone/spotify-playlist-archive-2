@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb featuring Miluhska",
-  "num_followers": 120424,
+  "num_followers": 120449,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -151,30 +151,22 @@
     {
       "added_at": "2026-08-07 04:01:15",
       "album": {
-        "name": "CORA\u00c7AO (20th Anniversary Mix)",
-        "url": "https://open.spotify.com/album/76jQdtc4MNArbcZxWgZU3p"
+        "name": "Sorry Papi",
+        "url": "https://open.spotify.com/album/5OQeebulBcr1SXvtPNkUtk"
       },
       "artists": [
         {
-          "name": "Jerry Ropero",
-          "url": "https://open.spotify.com/artist/73rKG9PlOR46yTmu2IqnSG"
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
         },
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Mijangos",
-          "url": "https://open.spotify.com/artist/55Y97uxwaGhvalkzZbxyzf"
-        },
-        {
-          "name": "Jes\u00fas Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 175714,
-      "name": "CORA\u00c7AO - 20th Anniversary Mix",
-      "url": "https://open.spotify.com/track/2KVAO2OAH6a9Tr2DqYL65g"
+      "duration_ms": 170671,
+      "name": "Sorry Papi",
+      "url": "https://open.spotify.com/track/6AM517ngyZ0EDgnkCHXLgk"
     },
     {
       "added_at": "2026-08-07 04:01:15",
@@ -455,22 +447,30 @@
     {
       "added_at": "2026-08-07 04:01:15",
       "album": {
-        "name": "Sorry Papi",
-        "url": "https://open.spotify.com/album/5OQeebulBcr1SXvtPNkUtk"
+        "name": "CORA\u00c7AO (20th Anniversary Mix)",
+        "url": "https://open.spotify.com/album/76jQdtc4MNArbcZxWgZU3p"
       },
       "artists": [
         {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+          "name": "Jerry Ropero",
+          "url": "https://open.spotify.com/artist/73rKG9PlOR46yTmu2IqnSG"
         },
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Mijangos",
+          "url": "https://open.spotify.com/artist/55Y97uxwaGhvalkzZbxyzf"
+        },
+        {
+          "name": "Jes\u00fas Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
         }
       ],
-      "duration_ms": 170671,
-      "name": "Sorry Papi",
-      "url": "https://open.spotify.com/track/6AM517ngyZ0EDgnkCHXLgk"
+      "duration_ms": 175714,
+      "name": "CORA\u00c7AO - 20th Anniversary Mix",
+      "url": "https://open.spotify.com/track/2KVAO2OAH6a9Tr2DqYL65g"
     },
     {
       "added_at": "2026-08-07 04:01:15",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-08-07 04:01:15",
       "album": {
-        "name": "Magalenha",
-        "url": "https://open.spotify.com/album/3KOSUwiUlteX08HipIYu5e"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        }
-      ],
-      "duration_ms": 174375,
-      "name": "Magalenha",
-      "url": "https://open.spotify.com/track/67UgMiTgtwjGFoiACzup1g"
-    },
-    {
-      "added_at": "2026-08-07 04:01:15",
-      "album": {
         "name": "Frikitona",
         "url": "https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 174404,
       "name": "Frikitona",
       "url": "https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn"
+    },
+    {
+      "added_at": "2026-08-07 04:01:15",
+      "album": {
+        "name": "Magalenha",
+        "url": "https://open.spotify.com/album/3KOSUwiUlteX08HipIYu5e"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 174375,
+      "name": "Magalenha",
+      "url": "https://open.spotify.com/track/67UgMiTgtwjGFoiACzup1g"
     },
     {
       "added_at": "2026-08-07 04:01:15",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-08-07 04:01:15",
       "album": {
-        "name": "La Samba",
-        "url": "https://open.spotify.com/album/78EiNoZY04IBAcmENGRyYq"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
-        }
-      ],
-      "duration_ms": 150476,
-      "name": "La Samba",
-      "url": "https://open.spotify.com/track/7pLBRrgdyTlDqDKUEq7HFr"
-    },
-    {
-      "added_at": "2026-08-07 04:01:15",
-      "album": {
         "name": "Spanish Chica",
         "url": "https://open.spotify.com/album/04LUS5N9H4DIxFty3pUnTN"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 244918,
       "name": "Te Doy La Libertad",
       "url": "https://open.spotify.com/track/5ODIUPpNdmVZRjTMHa0Vjp"
+    },
+    {
+      "added_at": "2026-08-07 04:01:15",
+      "album": {
+        "name": "La Samba",
+        "url": "https://open.spotify.com/album/78EiNoZY04IBAcmENGRyYq"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
+        }
+      ],
+      "duration_ms": 150476,
+      "name": "La Samba",
+      "url": "https://open.spotify.com/track/7pLBRrgdyTlDqDKUEq7HFr"
     },
     {
       "added_at": "2026-08-07 04:01:15",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-08-07 04:01:15",
       "album": {
-        "name": "Marrakesh",
-        "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
-      },
-      "artists": [
-        {
-          "name": "JOHN ELLE",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        }
-      ],
-      "duration_ms": 142258,
-      "name": "Marrakesh",
-      "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
-    },
-    {
-      "added_at": "2026-08-07 04:01:15",
-      "album": {
         "name": "Playa Y Arena",
         "url": "https://open.spotify.com/album/7a36GV9hrpji6sHCjTn4Ez"
       },
@@ -1647,6 +1631,22 @@
     {
       "added_at": "2026-08-07 04:01:15",
       "album": {
+        "name": "Marrakesh",
+        "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
+      },
+      "artists": [
+        {
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        }
+      ],
+      "duration_ms": 142258,
+      "name": "Marrakesh",
+      "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
+    },
+    {
+      "added_at": "2026-08-07 04:01:15",
+      "album": {
         "name": "Piquete Cabron",
         "url": "https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq"
       },
@@ -1687,6 +1687,50 @@
     {
       "added_at": "2026-08-07 04:01:15",
       "album": {
+        "name": "Morenita",
+        "url": "https://open.spotify.com/album/1tVe5NkJfNSwnEArPYH5Yr"
+      },
+      "artists": [
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        },
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Paradise Inc.",
+          "url": "https://open.spotify.com/artist/67vOeDGgGxBetc1ckJH6Ka"
+        }
+      ],
+      "duration_ms": 178816,
+      "name": "Morenita",
+      "url": "https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw"
+    },
+    {
+      "added_at": "2026-08-07 04:01:15",
+      "album": {
+        "name": "Lo Que Soy",
+        "url": "https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Kura",
+          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
+        }
+      ],
+      "duration_ms": 170953,
+      "name": "Lo Que Soy",
+      "url": "https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ"
+    },
+    {
+      "added_at": "2026-08-07 04:01:15",
+      "album": {
         "name": "Bandolera",
         "url": "https://open.spotify.com/album/5GwGA7XXx9mjUISFnkk7Bp"
       },
@@ -1723,50 +1767,6 @@
     {
       "added_at": "2026-08-07 04:01:15",
       "album": {
-        "name": "Lo Que Soy",
-        "url": "https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        },
-        {
-          "name": "Kura",
-          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
-        }
-      ],
-      "duration_ms": 170953,
-      "name": "Lo Que Soy",
-      "url": "https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ"
-    },
-    {
-      "added_at": "2026-08-07 04:01:15",
-      "album": {
-        "name": "Morenita",
-        "url": "https://open.spotify.com/album/1tVe5NkJfNSwnEArPYH5Yr"
-      },
-      "artists": [
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        },
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Paradise Inc.",
-          "url": "https://open.spotify.com/artist/67vOeDGgGxBetc1ckJH6Ka"
-        }
-      ],
-      "duration_ms": 178816,
-      "name": "Morenita",
-      "url": "https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw"
-    },
-    {
-      "added_at": "2026-08-07 04:01:15",
-      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/49WSoPCFjeCJPcLxkyYrrI"
       },
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2026-08-07 04:01:15",
       "album": {
-        "name": "Delante",
-        "url": "https://open.spotify.com/album/5vPtAiKazM8CA6NboCmaag"
-      },
-      "artists": [
-        {
-          "name": "Lodgerz",
-          "url": "https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE"
-        }
-      ],
-      "duration_ms": 145908,
-      "name": "Delante",
-      "url": "https://open.spotify.com/track/3m0cKFBobiuIuNDzOCQJSN"
-    },
-    {
-      "added_at": "2026-08-07 04:01:15",
-      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/5bAJzXqwhA4JdBjqAqg4nq"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 116361,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/75JsIen4AneIFiDf9hbepF"
+    },
+    {
+      "added_at": "2026-08-07 04:01:15",
+      "album": {
+        "name": "Delante",
+        "url": "https://open.spotify.com/album/5vPtAiKazM8CA6NboCmaag"
+      },
+      "artists": [
+        {
+          "name": "Lodgerz",
+          "url": "https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE"
+        }
+      ],
+      "duration_ms": 145908,
+      "name": "Delante",
+      "url": "https://open.spotify.com/track/3m0cKFBobiuIuNDzOCQJSN"
     },
     {
       "added_at": "2026-08-07 04:01:15",
@@ -1927,26 +1927,6 @@
     {
       "added_at": "2026-08-07 04:01:15",
       "album": {
-        "name": "Besito",
-        "url": "https://open.spotify.com/album/4Dw4ysGv4Rp3YuJeclkIRU"
-      },
-      "artists": [
-        {
-          "name": "Kill Them With Colour",
-          "url": "https://open.spotify.com/artist/51YdmMVkUtAJnXacxyBZdU"
-        },
-        {
-          "name": "Daniel Matheus",
-          "url": "https://open.spotify.com/artist/1ixkcp1yCF8kWwat8HGz4I"
-        }
-      ],
-      "duration_ms": 200975,
-      "name": "Besito",
-      "url": "https://open.spotify.com/track/6iatlE4HaOG382ZljmBNdb"
-    },
-    {
-      "added_at": "2026-08-07 04:01:15",
-      "album": {
         "name": "La Buena Vida (feat. Tayson Kryss)",
         "url": "https://open.spotify.com/album/2HIc2AaPKvkU6APeLBwN0T"
       },
@@ -1975,18 +1955,42 @@
     {
       "added_at": "2026-08-07 04:01:15",
       "album": {
-        "name": "Esta Vida",
-        "url": "https://open.spotify.com/album/2T1xKPKliesGyCfVAAmMwC"
+        "name": "Alma M\u00eda",
+        "url": "https://open.spotify.com/album/7uCOuBkTlIdkf8csRwJqat"
       },
       "artists": [
         {
-          "name": "Lucca Saettone",
-          "url": "https://open.spotify.com/artist/15o6RNNTFlXc1ALh7HzTTp"
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        },
+        {
+          "name": "Al\u00e9 Kum\u00e1",
+          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
+        },
+        {
+          "name": "MORENITA",
+          "url": "https://open.spotify.com/artist/4BRR1MOnfQFaBKEDhRkZ71"
         }
       ],
-      "duration_ms": 195333,
-      "name": "Esta Vida",
-      "url": "https://open.spotify.com/track/47gl1rsMBTt8dAtGX5tekW"
+      "duration_ms": 222627,
+      "name": "Alma M\u00eda",
+      "url": "https://open.spotify.com/track/0H4ccUlBFSvo4aTl2EE1OR"
+    },
+    {
+      "added_at": "2026-08-07 04:01:15",
+      "album": {
+        "name": "Road To Miami EP",
+        "url": "https://open.spotify.com/album/2r01SIHbvXUHQkKAAw4PWQ"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        }
+      ],
+      "duration_ms": 178604,
+      "name": "Poco Poco",
+      "url": "https://open.spotify.com/track/04N9V07H365hcJSytxYstU"
     }
   ],
   "unique_name": "Latin House",

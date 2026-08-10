@@ -1,6 +1,6 @@
 {
   "description": "\u00a1M\u00fasica que representa a Cuba! Cover: Dany Ome & Kevincito El 13",
-  "num_followers": 167250,
+  "num_followers": 167274,
   "original_name": "Hecho en Cuba",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,26 @@
     {
       "added_at": "2026-07-31 16:05:56",
       "album": {
+        "name": "Imaginaciones M\u00edas",
+        "url": "https://open.spotify.com/album/4pPtByLZrHAvku5YHRcNVI"
+      },
+      "artists": [
+        {
+          "name": "Bebeshito",
+          "url": "https://open.spotify.com/artist/5f609sV0zZb4kbsxm00cu7"
+        },
+        {
+          "name": "Dj Honda",
+          "url": "https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk"
+        }
+      ],
+      "duration_ms": 185716,
+      "name": "Imaginaciones M\u00edas - Prod. by Dj Honda",
+      "url": "https://open.spotify.com/track/4GEo3qxuBxp7nmEn9cbPcO"
+    },
+    {
+      "added_at": "2026-07-31 16:05:56",
+      "album": {
         "name": "EL PROBLEMA SOY YO",
         "url": "https://open.spotify.com/album/41QxG4croIE1tKMHx58bfW"
       },
@@ -295,26 +315,6 @@
       "duration_ms": 211490,
       "name": "EL PROBLEMA SOY YO",
       "url": "https://open.spotify.com/track/4sQTbV2DblGqo0vKuiaUZz"
-    },
-    {
-      "added_at": "2026-07-31 16:05:56",
-      "album": {
-        "name": "Imaginaciones M\u00edas",
-        "url": "https://open.spotify.com/album/4pPtByLZrHAvku5YHRcNVI"
-      },
-      "artists": [
-        {
-          "name": "Bebeshito",
-          "url": "https://open.spotify.com/artist/5f609sV0zZb4kbsxm00cu7"
-        },
-        {
-          "name": "Dj Honda",
-          "url": "https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk"
-        }
-      ],
-      "duration_ms": 185716,
-      "name": "Imaginaciones M\u00edas - Prod. by Dj Honda",
-      "url": "https://open.spotify.com/track/4GEo3qxuBxp7nmEn9cbPcO"
     },
     {
       "added_at": "2026-07-31 16:05:56",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-07-31 16:05:56",
       "album": {
-        "name": "Tiene De Mami De Papi",
-        "url": "https://open.spotify.com/album/3B2NnLawYCFqwunM315eMn"
-      },
-      "artists": [
-        {
-          "name": "Baby Maikol",
-          "url": "https://open.spotify.com/artist/5Gfu31ACxk44eRhZalyZ8U"
-        }
-      ],
-      "duration_ms": 171461,
-      "name": "Tiene De Mami De Papi",
-      "url": "https://open.spotify.com/track/7pATpkt5YKGakLPBPMOzbW"
-    },
-    {
-      "added_at": "2026-07-31 16:05:56",
-      "album": {
         "name": "Mi GANA2",
         "url": "https://open.spotify.com/album/77c5MxJaSR6v6sG0pG1FF3"
       },
@@ -411,6 +395,42 @@
       "duration_ms": 162782,
       "name": "Mi GANA2",
       "url": "https://open.spotify.com/track/06p0dR5xGENHul3ZdawDl6"
+    },
+    {
+      "added_at": "2026-07-31 16:05:56",
+      "album": {
+        "name": "Fantasia",
+        "url": "https://open.spotify.com/album/6GPX8ih1SqGIY87K4dcJ2Y"
+      },
+      "artists": [
+        {
+          "name": "Baby Maikol",
+          "url": "https://open.spotify.com/artist/5Gfu31ACxk44eRhZalyZ8U"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        },
+        {
+          "name": "Rey Tony",
+          "url": "https://open.spotify.com/artist/7o5F7ecSmTFTIt9lrDtB0l"
+        },
+        {
+          "name": "Helabusador",
+          "url": "https://open.spotify.com/artist/43FkTZ35A6B7miP8a5AlPX"
+        },
+        {
+          "name": "Dave Produce",
+          "url": "https://open.spotify.com/artist/1BPaZM1risWEecSBYzkgl9"
+        },
+        {
+          "name": "Michel Boutic",
+          "url": "https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9"
+        }
+      ],
+      "duration_ms": 218971,
+      "name": "Fantasia - Prod. by Dave Produce x Michel Boutic",
+      "url": "https://open.spotify.com/track/1fm0VuzsnXbS1ovFLYol67"
     },
     {
       "added_at": "2026-07-31 16:05:56",
@@ -487,42 +507,6 @@
     {
       "added_at": "2026-07-31 16:05:56",
       "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/6GPX8ih1SqGIY87K4dcJ2Y"
-      },
-      "artists": [
-        {
-          "name": "Baby Maikol",
-          "url": "https://open.spotify.com/artist/5Gfu31ACxk44eRhZalyZ8U"
-        },
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        },
-        {
-          "name": "Rey Tony",
-          "url": "https://open.spotify.com/artist/7o5F7ecSmTFTIt9lrDtB0l"
-        },
-        {
-          "name": "Helabusador",
-          "url": "https://open.spotify.com/artist/43FkTZ35A6B7miP8a5AlPX"
-        },
-        {
-          "name": "Dave Produce",
-          "url": "https://open.spotify.com/artist/1BPaZM1risWEecSBYzkgl9"
-        },
-        {
-          "name": "Michel Boutic",
-          "url": "https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9"
-        }
-      ],
-      "duration_ms": 218971,
-      "name": "Fantasia - Prod. by Dave Produce x Michel Boutic",
-      "url": "https://open.spotify.com/track/1fm0VuzsnXbS1ovFLYol67"
-    },
-    {
-      "added_at": "2026-07-31 16:05:56",
-      "album": {
         "name": "Te Echo de Menos",
         "url": "https://open.spotify.com/album/5ncfVlBpF1SnUr4dpC6p6G"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 161725,
       "name": "Te Echo de Menos",
       "url": "https://open.spotify.com/track/1aQCtqOkz7UQDvGignacjA"
+    },
+    {
+      "added_at": "2026-07-31 16:05:56",
+      "album": {
+        "name": "Tiene De Mami De Papi",
+        "url": "https://open.spotify.com/album/3B2NnLawYCFqwunM315eMn"
+      },
+      "artists": [
+        {
+          "name": "Baby Maikol",
+          "url": "https://open.spotify.com/artist/5Gfu31ACxk44eRhZalyZ8U"
+        }
+      ],
+      "duration_ms": 171461,
+      "name": "Tiene De Mami De Papi",
+      "url": "https://open.spotify.com/track/7pATpkt5YKGakLPBPMOzbW"
     },
     {
       "added_at": "2026-07-31 16:05:56",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-07-31 16:05:56",
       "album": {
+        "name": "Yo Dar\u00eda",
+        "url": "https://open.spotify.com/album/3OGhgkFFPgCgr9wRgn3AES"
+      },
+      "artists": [
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        }
+      ],
+      "duration_ms": 222239,
+      "name": "Yo Dar\u00eda",
+      "url": "https://open.spotify.com/track/5o9fGDN9WzY6cL3d4EwhiQ"
+    },
+    {
+      "added_at": "2026-07-31 16:05:56",
+      "album": {
         "name": "Papita Frita",
         "url": "https://open.spotify.com/album/5hWtMDpR5ID7uqtezFcVQo"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 167981,
       "name": "Papita Frita - Prod. by Ernesto Losa x Mauro El C\u00f3digo Secreto x Roberto Ferrante",
       "url": "https://open.spotify.com/track/4Q5haXnrTisp0rMaZYYaL4"
-    },
-    {
-      "added_at": "2026-07-31 16:05:56",
-      "album": {
-        "name": "Yo Dar\u00eda",
-        "url": "https://open.spotify.com/album/3OGhgkFFPgCgr9wRgn3AES"
-      },
-      "artists": [
-        {
-          "name": "Jacob Forever",
-          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
-        }
-      ],
-      "duration_ms": 222239,
-      "name": "Yo Dar\u00eda",
-      "url": "https://open.spotify.com/track/5o9fGDN9WzY6cL3d4EwhiQ"
     },
     {
       "added_at": "2026-07-31 16:05:56",
@@ -695,34 +695,6 @@
     {
       "added_at": "2026-07-31 16:05:56",
       "album": {
-        "name": "Hace tiempo que no s\u00e9 de t\u00ed",
-        "url": "https://open.spotify.com/album/3uoaYIfJlv7PkBayh9rkiF"
-      },
-      "artists": [
-        {
-          "name": "Ozunaje",
-          "url": "https://open.spotify.com/artist/6JIkIALBpxg5g5ia07E9bG"
-        },
-        {
-          "name": "El Dany MG",
-          "url": "https://open.spotify.com/artist/6JsrjJFX8CAAI8AjLprKXG"
-        },
-        {
-          "name": "Fernando Produce",
-          "url": "https://open.spotify.com/artist/3pO5f5tMMj8HHkimZXszMJ"
-        },
-        {
-          "name": "Cal Lybeat",
-          "url": "https://open.spotify.com/artist/56NCcu2ap5rWxQx4FUosWB"
-        }
-      ],
-      "duration_ms": 153200,
-      "name": "Hace tiempo que no s\u00e9 de t\u00ed",
-      "url": "https://open.spotify.com/track/2QaX4WMwJNIxwio16tuxxI"
-    },
-    {
-      "added_at": "2026-07-31 16:05:56",
-      "album": {
         "name": "Un Tiempo (Remix)",
         "url": "https://open.spotify.com/album/2FDk8opYaD456Vo5BVp6aG"
       },
@@ -763,6 +735,34 @@
       "duration_ms": 190909,
       "name": "Qui\u00e9reme",
       "url": "https://open.spotify.com/track/649tz8MtbCHSTEzNBw7c1Q"
+    },
+    {
+      "added_at": "2026-07-31 16:05:56",
+      "album": {
+        "name": "Hace tiempo que no s\u00e9 de t\u00ed",
+        "url": "https://open.spotify.com/album/3uoaYIfJlv7PkBayh9rkiF"
+      },
+      "artists": [
+        {
+          "name": "Ozunaje",
+          "url": "https://open.spotify.com/artist/6JIkIALBpxg5g5ia07E9bG"
+        },
+        {
+          "name": "El Dany MG",
+          "url": "https://open.spotify.com/artist/6JsrjJFX8CAAI8AjLprKXG"
+        },
+        {
+          "name": "Fernando Produce",
+          "url": "https://open.spotify.com/artist/3pO5f5tMMj8HHkimZXszMJ"
+        },
+        {
+          "name": "Cal Lybeat",
+          "url": "https://open.spotify.com/artist/56NCcu2ap5rWxQx4FUosWB"
+        }
+      ],
+      "duration_ms": 153200,
+      "name": "Hace tiempo que no s\u00e9 de t\u00ed",
+      "url": "https://open.spotify.com/track/2QaX4WMwJNIxwio16tuxxI"
     },
     {
       "added_at": "2026-07-31 16:05:56",
@@ -843,26 +843,6 @@
     {
       "added_at": "2026-07-31 16:05:56",
       "album": {
-        "name": "LA LA LA",
-        "url": "https://open.spotify.com/album/0Ebtd1t4tY0CdyMbM4STzP"
-      },
-      "artists": [
-        {
-          "name": "Anyelazo",
-          "url": "https://open.spotify.com/artist/5AcUj97EYhmrk469QRbBRy"
-        },
-        {
-          "name": "Gallery Music",
-          "url": "https://open.spotify.com/artist/1qzFvKHuaRKKDUPrHlSGgV"
-        }
-      ],
-      "duration_ms": 132927,
-      "name": "LA LA LA",
-      "url": "https://open.spotify.com/track/3yu9nhgkR87xcxoSbI2c3I"
-    },
-    {
-      "added_at": "2026-07-31 16:05:56",
-      "album": {
         "name": "Tamoarriba",
         "url": "https://open.spotify.com/album/5VBE3hC5gZeDzlsf1r3I9V"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 210228,
       "name": "Otro Trago",
       "url": "https://open.spotify.com/track/3LxJkenFqGh29Jvg1MIAAV"
+    },
+    {
+      "added_at": "2026-07-31 16:05:56",
+      "album": {
+        "name": "LA LA LA",
+        "url": "https://open.spotify.com/album/0Ebtd1t4tY0CdyMbM4STzP"
+      },
+      "artists": [
+        {
+          "name": "Anyelazo",
+          "url": "https://open.spotify.com/artist/5AcUj97EYhmrk469QRbBRy"
+        },
+        {
+          "name": "Gallery Music",
+          "url": "https://open.spotify.com/artist/1qzFvKHuaRKKDUPrHlSGgV"
+        }
+      ],
+      "duration_ms": 132927,
+      "name": "LA LA LA",
+      "url": "https://open.spotify.com/track/3yu9nhgkR87xcxoSbI2c3I"
     },
     {
       "added_at": "2026-07-31 16:05:56",
@@ -959,6 +959,30 @@
     {
       "added_at": "2026-07-31 16:05:56",
       "album": {
+        "name": "Yo lo s\u00e9",
+        "url": "https://open.spotify.com/album/14h07hUekVScQA99nBO1fI"
+      },
+      "artists": [
+        {
+          "name": "Nany La Kbra",
+          "url": "https://open.spotify.com/artist/2sERwzDyPHN7IP1XPlTchU"
+        },
+        {
+          "name": "Yomil",
+          "url": "https://open.spotify.com/artist/0U0oUxOfhtjkfoJ3ZNWEfU"
+        },
+        {
+          "name": "Ja Rulay",
+          "url": "https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "Yo lo s\u00e9",
+      "url": "https://open.spotify.com/track/0VtU5p1WIayEkl1VcMQV6R"
+    },
+    {
+      "added_at": "2026-07-31 16:05:56",
+      "album": {
         "name": "Las Prosti",
         "url": "https://open.spotify.com/album/1GEmOvo29J0EKZZ8hpQT0I"
       },
@@ -999,26 +1023,22 @@
     {
       "added_at": "2026-07-31 16:05:56",
       "album": {
-        "name": "Yo lo s\u00e9",
-        "url": "https://open.spotify.com/album/14h07hUekVScQA99nBO1fI"
+        "name": "A Veces",
+        "url": "https://open.spotify.com/album/4GKknALrtPPXtF31vd0uWT"
       },
       "artists": [
         {
-          "name": "Nany La Kbra",
-          "url": "https://open.spotify.com/artist/2sERwzDyPHN7IP1XPlTchU"
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
         },
         {
-          "name": "Yomil",
-          "url": "https://open.spotify.com/artist/0U0oUxOfhtjkfoJ3ZNWEfU"
-        },
-        {
-          "name": "Ja Rulay",
-          "url": "https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV"
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
         }
       ],
-      "duration_ms": 178823,
-      "name": "Yo lo s\u00e9",
-      "url": "https://open.spotify.com/track/0VtU5p1WIayEkl1VcMQV6R"
+      "duration_ms": 181521,
+      "name": "A Veces",
+      "url": "https://open.spotify.com/track/6cXQX7pRILTVVamY7CJIVi"
     },
     {
       "added_at": "2026-07-31 16:05:56",
@@ -1039,26 +1059,6 @@
       "duration_ms": 178055,
       "name": "Pobre Coraz\u00f3n - with Lenier",
       "url": "https://open.spotify.com/track/29orueqF7k02TWw9CVHQh1"
-    },
-    {
-      "added_at": "2026-07-31 16:05:56",
-      "album": {
-        "name": "A Veces",
-        "url": "https://open.spotify.com/album/4GKknALrtPPXtF31vd0uWT"
-      },
-      "artists": [
-        {
-          "name": "Jacob Forever",
-          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
-        },
-        {
-          "name": "Ernesto Losa",
-          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
-        }
-      ],
-      "duration_ms": 181521,
-      "name": "A Veces",
-      "url": "https://open.spotify.com/track/6cXQX7pRILTVVamY7CJIVi"
     },
     {
       "added_at": "2026-07-31 16:05:56",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2026-07-31 16:05:56",
       "album": {
+        "name": "El de Pi",
+        "url": "https://open.spotify.com/album/33DrhmxhAI9WShK28kXB9H"
+      },
+      "artists": [
+        {
+          "name": "El Chulo",
+          "url": "https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt"
+        }
+      ],
+      "duration_ms": 196472,
+      "name": "El de Pi",
+      "url": "https://open.spotify.com/track/4yAy8MUMIx030A5nS7XHDG"
+    },
+    {
+      "added_at": "2026-07-31 16:05:56",
+      "album": {
         "name": "#Round2",
         "url": "https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 219220,
       "name": "Te Amo (Versos Gastados) - Prod. by Cuban Deejay$",
       "url": "https://open.spotify.com/track/44IPKz8KN6H0wieHvTQH4w"
-    },
-    {
-      "added_at": "2026-07-31 16:05:56",
-      "album": {
-        "name": "El de Pi",
-        "url": "https://open.spotify.com/album/33DrhmxhAI9WShK28kXB9H"
-      },
-      "artists": [
-        {
-          "name": "El Chulo",
-          "url": "https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt"
-        }
-      ],
-      "duration_ms": 196472,
-      "name": "El de Pi",
-      "url": "https://open.spotify.com/track/4yAy8MUMIx030A5nS7XHDG"
     },
     {
       "added_at": "2026-07-31 16:05:56",

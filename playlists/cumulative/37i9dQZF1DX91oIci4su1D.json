@@ -6350,7 +6350,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 194427,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/6X6VfWNIwggxsqcDlHsC5M"
@@ -26570,6 +26570,32 @@
       "duration_ms": 226875,
       "name": "Under Pressure - Andrew Bayer & Farius Remix",
       "url": "https://open.spotify.com/track/1wvd1GoBl1od4YlZAMUMQR"
+    },
+    {
+      "album": {
+        "name": "Under The Sky (Broken Tides)",
+        "url": "https://open.spotify.com/album/1YqxarREgAOA2blJaaIWMN"
+      },
+      "artists": [
+        {
+          "name": "Gareth Emery",
+          "url": "https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi"
+        },
+        {
+          "name": "Annabel",
+          "url": "https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l"
+        },
+        {
+          "name": "dj try",
+          "url": "https://open.spotify.com/artist/7E5PgS3pelJYovRn4EQv3F"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Under The Sky (Broken Tides)",
+      "url": "https://open.spotify.com/track/6gj7oA7LjU9AGyoJ2rTLHg"
     },
     {
       "album": {

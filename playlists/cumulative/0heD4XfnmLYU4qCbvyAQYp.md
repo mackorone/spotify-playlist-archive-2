@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-150 songs - 9 hr 39 min
+152 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [From zombieland about love \(2025\)](https://open.spotify.com/track/0EolNu9GNftMungr2Fi9pI) | [Charlie Crash Msc](https://open.spotify.com/artist/0Gz327pnjWwQUuzWhr7wF9) | [From zombieland about love \(2025\)](https://open.spotify.com/album/170nJJruVYePhChH6mPLRk) | 5:04 | 2026-05-16 |  |
 | [Get Ready](https://open.spotify.com/track/1UFDljtWoiwASVfCxwkFAM) | [Tirada](https://open.spotify.com/artist/5nYNaWd0EzkjojIr0NAp2v) | [Get Ready](https://open.spotify.com/album/0BFJoPZ2FAtP1wk9NXsi2e) | 4:23 | 2025-11-25 | 2026-02-07 |
 | [Give Me Your Hand](https://open.spotify.com/track/56xJGUcYHNBynPr5ixT0B5) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Give Me Your Hand](https://open.spotify.com/album/0eFrdNcYm56jCHKWS5WLM6) | 4:36 | 2025-05-04 |  |
+| [Guau Guau](https://open.spotify.com/track/6c63incVIBg4FCtvxFUqZX) | [Nico Tallac](https://open.spotify.com/artist/7afY95ejJDhYH50Ce2mgsT) | [En Fin](https://open.spotify.com/album/4nZsWk64LWVpk3Dui3czf8) | 4:32 | 2026-08-09 |  |
 | [Hear My Voice](https://open.spotify.com/track/6dZG7xMcD16xe3hSZZIDb1) | [Aged Beyond Decay](https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb) | [Hear My Voice](https://open.spotify.com/album/05TOrRce9UGmuBLmSWHPpg) | 4:54 | 2025-09-10 | 2026-05-16 |
 | [Heartsick](https://open.spotify.com/track/76VK3MYmRGRvka2LYLVhHM) | [Deadarchives](https://open.spotify.com/artist/74kszt2wmigyELkurcdEdi) | [Heartsick](https://open.spotify.com/album/0aRmKh5U45fxdSzkRwrjYS) | 1:03 | 2025-11-06 | 2025-12-08 |
 | [Heartstrings](https://open.spotify.com/track/15NIVOgwedl7b7DzWIn5g3) | [Donna Martin Graduates](https://open.spotify.com/artist/647162B5EXRPXNNVffPt1C) | [Heartstrings](https://open.spotify.com/album/1XVPYwCJ7r80aGx9s6hr33) | 3:05 | 2025-12-17 | 2026-02-07 |
@@ -136,6 +137,7 @@
 | [Tesla](https://open.spotify.com/track/6iJSBzhwuo10snNpJPlT6o) | [Errant Shadow](https://open.spotify.com/artist/32yImafufTQRCNtMvD4YSN) | [Tesla](https://open.spotify.com/album/7fPZmtfCwbZfbMZNk5o4KG) | 4:44 | 2025-11-02 |  |
 | [The Big Machine](https://open.spotify.com/track/2qQeDr5qL9U0zSM7o754Df) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 3:38 | 2026-04-04 |  |
 | [The Cycle](https://open.spotify.com/track/1Mwm0XKriYrpPL6xhSH9U4) | [The American Hotel System](https://open.spotify.com/artist/6brMI3t9gWQkmJVGhxCQnJ) | [The Cycle](https://open.spotify.com/album/5fODtmdm4JsifXS8emavBw) | 4:35 | 2026-07-07 |  |
+| [The Other Side](https://open.spotify.com/track/1zuRRBvbWoZxwMdbchaR30) | [Sammy Vulcano](https://open.spotify.com/artist/1L3MIDDjLX2WaGGEv1bWCW) | [The Other Side](https://open.spotify.com/album/3GUpTkiyxktNs6yGJnF2rV) | 2:48 | 2026-08-09 |  |
 | [The Party Is Over](https://open.spotify.com/track/5O69OUizv8L6SElL2O7bjx) | [Atomium](https://open.spotify.com/artist/0KZxq71zg8JWEP22q0Qwff) | [The Party Is Over](https://open.spotify.com/album/4FKtBBuGUFTwsLAF4s219I) | 3:57 | 2026-05-14 |  |
 | [The Puppeteer](https://open.spotify.com/track/1EnSsLEzo4LuQRJ12kl9kn) | [Aged Beyond Decay](https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb) | [The Puppeteer](https://open.spotify.com/album/5TsaiTsFKvWIEWa2VTsABH) | 3:48 | 2026-02-06 | 2026-04-05 |
 | [The Rage I Felt](https://open.spotify.com/track/0OoZTTSWWtFsUuAsBB6QCz) | [Between Two Winters](https://open.spotify.com/artist/1QICrr5xzMMZtjPs9tr2gd) | [Lorenzo](https://open.spotify.com/album/54G9cItsqKUXnpSA8bIElt) | 4:25 | 2025-11-24 | 2026-02-07 |

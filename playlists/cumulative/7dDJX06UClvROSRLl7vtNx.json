@@ -943,6 +943,28 @@
     },
     {
       "album": {
+        "name": "All Shook Up",
+        "url": "https://open.spotify.com/album/4ObYG7PEF0x6eFonvZUGIN"
+      },
+      "artists": [
+        {
+          "name": "Edwardo Atlas",
+          "url": "https://open.spotify.com/artist/7fafcnfLroOhtWlp6Xh7j7"
+        },
+        {
+          "name": "Chill Gull",
+          "url": "https://open.spotify.com/artist/0oF2AmTrkEWD7JvK1CH1Lw"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140869,
+      "name": "All Shook Up",
+      "url": "https://open.spotify.com/track/27XqdBYOx9qEE411ECB2Oz"
+    },
+    {
+      "album": {
         "name": "All That I Want",
         "url": "https://open.spotify.com/album/4C4ydVT0ajhSBzRbIuB9n7"
       },
@@ -2446,7 +2468,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 164160,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/1HDwqBiDivfgjN2r7mzHDo"
@@ -3205,6 +3227,32 @@
     },
     {
       "album": {
+        "name": "Breezy",
+        "url": "https://open.spotify.com/album/296vYcdefX65EVxLmEZRK9"
+      },
+      "artists": [
+        {
+          "name": "Diviners",
+          "url": "https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA"
+        },
+        {
+          "name": "VLX",
+          "url": "https://open.spotify.com/artist/5oBC97ajnMULQn5N81Y0kA"
+        },
+        {
+          "name": "Luna Belle",
+          "url": "https://open.spotify.com/artist/0QQ4L7FpmQyev2ljEVbF0w"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Breezy",
+      "url": "https://open.spotify.com/track/0UHxCuJX87skxim5kCST4H"
+    },
+    {
+      "album": {
         "name": "Brighter Days",
         "url": "https://open.spotify.com/album/5tfPrrgYcZ1ua27OF1aQM4"
       },
@@ -3844,6 +3892,28 @@
       "duration_ms": 143000,
       "name": "Can You Be Mine",
       "url": "https://open.spotify.com/track/598HukjVxGDlHZnm8rBrv0"
+    },
+    {
+      "album": {
+        "name": "Can't Dream Without You",
+        "url": "https://open.spotify.com/album/0aMZqksTx2hRnZCVUEEiXE"
+      },
+      "artists": [
+        {
+          "name": "Fijy",
+          "url": "https://open.spotify.com/artist/5I3fAtc8jA5rWZdVoxeVfV"
+        },
+        {
+          "name": "WILS",
+          "url": "https://open.spotify.com/artist/2s7MSmBHBen5bxastq4E0O"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112504,
+      "name": "Can't Dream Without You",
+      "url": "https://open.spotify.com/track/37zPsrT0n4ncyEl7OyB0Tw"
     },
     {
       "album": {
@@ -6734,7 +6804,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 133142,
       "name": "down by the river",
       "url": "https://open.spotify.com/track/3Z4WBD0GDUyGSIEk4OtVni"
@@ -6756,7 +6826,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 151875,
       "name": "Down By The Sea",
       "url": "https://open.spotify.com/track/2dDgge1UdY2sM9YWNoe2wz"
@@ -10278,7 +10348,7 @@
       ],
       "date_added": "2026-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 131692,
       "name": "Gonna Need Your Love",
       "url": "https://open.spotify.com/track/1yX7Sua3eJb38oTCcaWVDF"
@@ -13602,7 +13672,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 171724,
       "name": "In A Minute",
       "url": "https://open.spotify.com/track/5XfaH8WtWxsFCaJLPjTSKC"
@@ -13814,7 +13884,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 137943,
       "name": "In The Headlights",
       "url": "https://open.spotify.com/track/1zZdAyMdzq1fOkfkwQwXfu"
@@ -23948,7 +24018,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 166956,
       "name": "Say Less",
       "url": "https://open.spotify.com/track/16SGOV8XZFzZI9BDz8JtFQ"
@@ -26712,7 +26782,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 129468,
       "name": "Sunlight Glow",
       "url": "https://open.spotify.com/track/2cgL942vMAhRTYdcBDP67s"
@@ -28785,6 +28855,28 @@
     },
     {
       "album": {
+        "name": "To The Moon & Back",
+        "url": "https://open.spotify.com/album/2WphnlIYnPQlv3PH9qMEcg"
+      },
+      "artists": [
+        {
+          "name": "Toby Rose",
+          "url": "https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ"
+        },
+        {
+          "name": "One Trick Pony",
+          "url": "https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208529,
+      "name": "To The Moon & Back",
+      "url": "https://open.spotify.com/track/6r8wTpoZ7cQ1ardXmtu80A"
+    },
+    {
+      "album": {
         "name": "To The Sun",
         "url": "https://open.spotify.com/album/4Egv7LczbVHbd9FPX08Oy5"
       },
@@ -30102,7 +30194,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 163472,
       "name": "Wasting Colors",
       "url": "https://open.spotify.com/track/7h45k1RvHYFzGBswoDky3c"

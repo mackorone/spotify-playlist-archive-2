@@ -1,6 +1,6 @@
 {
   "description": "Soul for the blues. Cover: Otis Redding.",
-  "num_followers": 368035,
+  "num_followers": 368188,
   "original_name": "Sad Soul",
   "owner": {
     "name": "Spotify",
@@ -357,22 +357,6 @@
       "url": "https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H"
     },
     {
-      "added_at": "2022-09-08 14:58:04",
-      "album": {
-        "name": "Bettye Swann",
-        "url": "https://open.spotify.com/album/1oHCwJLBDoKDOfdznsRjNs"
-      },
-      "artists": [
-        {
-          "name": "Bettye Swann",
-          "url": "https://open.spotify.com/artist/0g3EsNvUCwgpsdkAiIC50W"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Then You Can Tell Me Goodbye",
-      "url": "https://open.spotify.com/track/1bDjWyTOXs0sxQMC1mchSM"
-    },
-    {
       "added_at": "2021-11-11 14:02:18",
       "album": {
         "name": "Definitive Soul: Spinners",
@@ -387,6 +371,22 @@
       "duration_ms": 192760,
       "name": "It's A Shame - Remastered",
       "url": "https://open.spotify.com/track/5LuVBkfELaydohNZahwvNN"
+    },
+    {
+      "added_at": "2022-09-08 14:58:04",
+      "album": {
+        "name": "Bettye Swann",
+        "url": "https://open.spotify.com/album/1oHCwJLBDoKDOfdznsRjNs"
+      },
+      "artists": [
+        {
+          "name": "Bettye Swann",
+          "url": "https://open.spotify.com/artist/0g3EsNvUCwgpsdkAiIC50W"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Then You Can Tell Me Goodbye",
+      "url": "https://open.spotify.com/track/1bDjWyTOXs0sxQMC1mchSM"
     },
     {
       "added_at": "2022-09-08 14:58:04",

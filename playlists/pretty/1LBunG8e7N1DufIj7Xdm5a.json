@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJlyJ/NBdaNNExCP2HEuq6yKSz3Ali",
+  "snapshot_id": "AAAJmq3sTqRYrxpp9SMTXyd1IWyX2hF3",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -76275,6 +76275,54 @@
       "duration_ms": 235094,
       "name": "Desaparecer",
       "url": "https://open.spotify.com/track/5k43PEh1iZOquA15KQ7prD"
+    },
+    {
+      "added_at": "2026-08-09 13:49:16",
+      "album": {
+        "name": "Sincerely, Don",
+        "url": "https://open.spotify.com/album/2n3zroFTMzQobzBqhWyuB6"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff"
+        }
+      ],
+      "duration_ms": 150919,
+      "name": "Believe in Me",
+      "url": "https://open.spotify.com/track/2l5hnd81j2Yret3BMdlmef"
+    },
+    {
+      "added_at": "2026-08-09 13:54:29",
+      "album": {
+        "name": "Finding You",
+        "url": "https://open.spotify.com/album/2TkUMuxxYLbfcZq49BMw1i"
+      },
+      "artists": [
+        {
+          "name": "Casey Bloom",
+          "url": "https://open.spotify.com/artist/3Yp2AG1A20FQbUtNqed1rq"
+        }
+      ],
+      "duration_ms": 196356,
+      "name": "Finding You",
+      "url": "https://open.spotify.com/track/5uG4VoobJJyKA4pA4RSxQT"
+    },
+    {
+      "added_at": "2026-08-09 17:30:26",
+      "album": {
+        "name": "Four Truths and One Lie",
+        "url": "https://open.spotify.com/album/4JpkaVJCMeMqBQjOPmCVi4"
+      },
+      "artists": [
+        {
+          "name": "First Fifty Feet",
+          "url": "https://open.spotify.com/artist/4AADJVMfOR93MzDAy5hQC8"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Four Truths and One Lie",
+      "url": "https://open.spotify.com/track/1XemrHeWRlGv3pHOCJ2Srj"
     }
   ],
   "unique_name": "playlist spotify free",

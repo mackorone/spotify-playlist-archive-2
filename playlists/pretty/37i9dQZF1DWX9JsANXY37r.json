@@ -1,6 +1,6 @@
 {
   "description": "drinks em casa, nada melhor",
-  "num_followers": 123631,
+  "num_followers": 123634,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,26 @@
     {
       "added_at": "2026-08-07 14:35:08",
       "album": {
+        "name": "Late Night Feelings",
+        "url": "https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 251028,
+      "name": "Late Night Feelings (feat. Lykke Li)",
+      "url": "https://open.spotify.com/track/2jUO4Rbw8VizhpHS63jrq4"
+    },
+    {
+      "added_at": "2026-08-07 14:35:08",
+      "album": {
         "name": "U, Me & My Ego",
         "url": "https://open.spotify.com/album/57esSZdPuChqy2bso66lwX"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 189173,
       "name": "Feel Your Weight",
       "url": "https://open.spotify.com/track/6bRVkUr1fyZVX4XwQ4RpaR"
-    },
-    {
-      "added_at": "2026-08-07 14:35:08",
-      "album": {
-        "name": "Late Night Feelings",
-        "url": "https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA"
-      },
-      "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 251028,
-      "name": "Late Night Feelings (feat. Lykke Li)",
-      "url": "https://open.spotify.com/track/2jUO4Rbw8VizhpHS63jrq4"
     },
     {
       "added_at": "2026-08-07 14:35:08",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-08-07 14:35:08",
       "album": {
-        "name": "Sticky",
-        "url": "https://open.spotify.com/album/3bbWimQMs8QB4634y9BRDd"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 196754,
-      "name": "Sticky",
-      "url": "https://open.spotify.com/track/1rfGO3N4DPGodJLSSY9Re5"
-    },
-    {
-      "added_at": "2026-08-07 14:35:08",
-      "album": {
         "name": "Rose Rouge",
         "url": "https://open.spotify.com/album/22cvF1LVMD3IUQeKE42r1s"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 357960,
       "name": "Rose Rouge",
       "url": "https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh"
+    },
+    {
+      "added_at": "2026-08-07 14:35:08",
+      "album": {
+        "name": "Sticky",
+        "url": "https://open.spotify.com/album/3bbWimQMs8QB4634y9BRDd"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 196754,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/1rfGO3N4DPGodJLSSY9Re5"
     },
     {
       "added_at": "2026-08-07 14:35:08",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-08-07 14:35:08",
       "album": {
-        "name": "Chase Your Tail",
-        "url": "https://open.spotify.com/album/2VBxycc0YtWBprEsQxOmby"
-      },
-      "artists": [
-        {
-          "name": "BOY SODA",
-          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
-        }
-      ],
-      "duration_ms": 193915,
-      "name": "Chase Your Tail",
-      "url": "https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF"
-    },
-    {
-      "added_at": "2026-08-07 14:35:08",
-      "album": {
         "name": "Let It Die",
         "url": "https://open.spotify.com/album/0peHQm7gEXWqmeXms8tQmO"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 257920,
       "name": "Inside And Out",
       "url": "https://open.spotify.com/track/5YGJzSL1fYvjwsfy1f1iqJ"
+    },
+    {
+      "added_at": "2026-08-07 14:35:08",
+      "album": {
+        "name": "Chase Your Tail",
+        "url": "https://open.spotify.com/album/2VBxycc0YtWBprEsQxOmby"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        }
+      ],
+      "duration_ms": 193915,
+      "name": "Chase Your Tail",
+      "url": "https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF"
     },
     {
       "added_at": "2026-08-07 14:35:08",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2026-08-07 14:35:08",
       "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+        "name": "Catch n' Release",
+        "url": "https://open.spotify.com/album/7xyEdU4cfiwBoiNu6GvIEJ"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
         }
       ],
-      "duration_ms": 270066,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo"
+      "duration_ms": 167287,
+      "name": "Red Wine Holiday",
+      "url": "https://open.spotify.com/track/7xRM7xmbUsTROH08OoxsEs"
     }
   ],
   "unique_name": "Drinks no Sof\u00e1",

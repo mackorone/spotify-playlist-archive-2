@@ -1427,6 +1427,24 @@
     },
     {
       "album": {
+        "name": "Burnt out at Both Ends",
+        "url": "https://open.spotify.com/album/2k7oR7hevllfXb8mA2f6q7"
+      },
+      "artists": [
+        {
+          "name": "Brandon Bing",
+          "url": "https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208748,
+      "name": "Burnt out at Both Ends",
+      "url": "https://open.spotify.com/track/0gXhph7TmyXy5JZ7hx3dLn"
+    },
+    {
+      "album": {
         "name": "Echoes of the Abyss",
         "url": "https://open.spotify.com/album/0FINLOEwedIO7rTZbHQBMR"
       },
@@ -1850,6 +1868,24 @@
       "duration_ms": 213793,
       "name": "City Life",
       "url": "https://open.spotify.com/track/0Drc5FqVoJKozyyzzRsujs"
+    },
+    {
+      "album": {
+        "name": "Clovers",
+        "url": "https://open.spotify.com/album/7dMaggiYP5KWGTenje5J1y"
+      },
+      "artists": [
+        {
+          "name": "Oleander Grove",
+          "url": "https://open.spotify.com/artist/2FnmnwkVB8NPFnqrN22mUz"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Clovers",
+      "url": "https://open.spotify.com/track/5QDglHplmxM1m4mSPb668K"
     },
     {
       "album": {
@@ -4094,7 +4130,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 204545,
       "name": "Golden Tomorrow",
       "url": "https://open.spotify.com/track/4z0PFotNn3qfzy8UQjABQd"
@@ -4318,7 +4354,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 235923,
       "name": "Hag of the Mist",
       "url": "https://open.spotify.com/track/6jxNSVpJl3uNvJhLZngFrd"
@@ -6858,6 +6894,24 @@
       "duration_ms": 231040,
       "name": "Moonlight In Her Eyes",
       "url": "https://open.spotify.com/track/0WacSaEiYuiKtXbtJIHTQO"
+    },
+    {
+      "album": {
+        "name": "Haunted House",
+        "url": "https://open.spotify.com/album/49Ex5mcCiBIiyFNmREzgk2"
+      },
+      "artists": [
+        {
+          "name": "Brandon Bing",
+          "url": "https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190401,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/74aWSaf5Zp1HoOzbmkyBDy"
     },
     {
       "album": {
@@ -9884,7 +9938,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 223181,
       "name": "Sparks in this Town",
       "url": "https://open.spotify.com/track/3RqIdENWmSSxFVbkAYNFnZ"
@@ -9968,7 +10022,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 221917,
       "name": "Starstruck",
       "url": "https://open.spotify.com/track/4BYasiV8oVyX8DHPtV0CMi"

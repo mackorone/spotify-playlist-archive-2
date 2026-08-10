@@ -5251,6 +5251,28 @@
     },
     {
       "album": {
+        "name": "CULT CLASSIC VOL.2 (DELUXE)",
+        "url": "https://open.spotify.com/album/4ZFezsJ9oFXemsEFqGnb9X"
+      },
+      "artists": [
+        {
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
+        },
+        {
+          "name": "Eluzai",
+          "url": "https://open.spotify.com/artist/2N0c1H0QXGAfZQHASg7ir4"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102431,
+      "name": "FACE LIFT",
+      "url": "https://open.spotify.com/track/3t0xE9W17KCKX0R6Ha0gh5"
+    },
+    {
+      "album": {
         "name": "The Second City",
         "url": "https://open.spotify.com/album/5PQtB12QQQmkTOTxBcaVtR"
       },
@@ -7734,7 +7756,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 167646,
       "name": "HANDS ON",
       "url": "https://open.spotify.com/track/2qX0JaY02CFB1av2QAzCoC"
@@ -14739,6 +14761,36 @@
     },
     {
       "album": {
+        "name": "Rap Like A Girl",
+        "url": "https://open.spotify.com/album/1IKErIZIef73ccqKw2Qi2p"
+      },
+      "artists": [
+        {
+          "name": "LANELL GRANT",
+          "url": "https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ"
+        },
+        {
+          "name": "TuKool Tiff",
+          "url": "https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H"
+        },
+        {
+          "name": "Tylynn",
+          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
+        },
+        {
+          "name": "Porsha Love",
+          "url": "https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208144,
+      "name": "Rap Like A Girl",
+      "url": "https://open.spotify.com/track/2VYlRh24iPOF43M8iCq8of"
+    },
+    {
+      "album": {
         "name": "RAP SUPERSTAR",
         "url": "https://open.spotify.com/album/2BMupHnTTd7zINab0Dapra"
       },
@@ -14754,7 +14806,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 136082,
       "name": "RAP SUPERSTAR",
       "url": "https://open.spotify.com/track/1ide4NVTIqkpOfzLW3Yqjq"

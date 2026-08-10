@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-8,902 songs - 20 day 13 hr 28 min
+8,904 songs - 20 day 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4635,6 +4635,7 @@
 | [Love is a Dog from Hell .](https://open.spotify.com/track/6FTBFONYDv1QUOVVtbUB7b) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Love is a Dog from Hell .](https://open.spotify.com/album/3jl6pFX25FF50m9Ghe8NZP) | 2:24 | 2026-08-07 |  |
 | [Love Is A State](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Love Is A State](https://open.spotify.com/album/5Zg0eoLb7vBv7EgqfTzxRZ) | 3:52 | 2026-03-27 | 2026-04-04 |
 | [Love Is A Stillness](https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Is A Stillness](https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl) | 1:54 | 2025-02-14 | 2025-02-22 |
+| [Love Is All](https://open.spotify.com/track/4hKtVS4VUAkNCOUGfcgKK8) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub) | [Love Is All](https://open.spotify.com/album/4O8ia2VX6kUMs4NiGT3mqV) | 8:52 | 2026-08-09 |  |
 | [Love Is Cruel](https://open.spotify.com/track/0u7sy3s6Wu2VrYwqub4Rp2) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Love Is Cruel](https://open.spotify.com/album/2BYbTmMxBbBxP2d7uPTxIo) | 3:13 | 2025-06-19 | 2025-06-28 |
 | [Love Is Kind](https://open.spotify.com/track/2xntLwIz7kwJXqD2OgWfGT) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Love Is Kind](https://open.spotify.com/album/0wP1ridvw0gHq6gOkIrLBU) | 4:07 | 2026-05-08 | 2026-05-16 |
 | [Love Is Like \(feat\. Lil Wayne\)](https://open.spotify.com/track/46XtsFriNQjGM5enGQViSQ) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Love Is Like](https://open.spotify.com/album/0cMIntDigHjfYqnvgJjd3Q) | 2:54 | 2025-08-15 | 2025-08-23 |
@@ -4709,6 +4710,7 @@
 | [Lunytunes](https://open.spotify.com/track/1lmkmlTumrbOU8cayYaGBr) | [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [Lunytunes](https://open.spotify.com/album/2BFNt7qe37chxGZQcaLn7v) | 2:35 | 2025-06-27 | 2025-07-05 |
 | [LUNÁTICO](https://open.spotify.com/track/7sIUXzlbX5inNfvf6hhHn2) | [NAZZZ](https://open.spotify.com/artist/6wTmJT0q2BgbcGTYRxEI9j) | [HADA](https://open.spotify.com/album/71VQ1lGwlBIyaiR5JiKuUT) | 2:13 | 2026-01-30 | 2026-02-06 |
 | [LUVAGIRL](https://open.spotify.com/track/4gU4gAb6IMF6LrAfnQdIEG) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [LUVAGIRL](https://open.spotify.com/album/0N1QxOvJmW0yCfvQb3QaAU) | 2:40 | 2026-03-20 | 2026-03-28 |
+| [Luz](https://open.spotify.com/track/1MIp4VW2VxHtDEBbqejE9D) | [Maria Usbeck](https://open.spotify.com/artist/16pdeeyke2dzEJXSj0MPft) | [Luz](https://open.spotify.com/album/06F76pN7SoGLRQvdc1TbKw) | 5:10 | 2026-08-09 |  |
 | [LUZ VERDE](https://open.spotify.com/track/7Ji1sx470UGJRw7gx2kr95) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [LUZ VERDE](https://open.spotify.com/album/1tjHX8YzndYoSwLOxtU62f) | 2:50 | 2025-08-08 | 2025-08-16 |
 | [lvl 1 \- HOME ALONE](https://open.spotify.com/track/7mB570CbgjVlrTVvJtr6tn) | [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [lvl 1 \- HOME ALONE](https://open.spotify.com/album/5gsTwlcGGuSOTQxR6pCcVN) | 3:30 | 2025-02-06 | 2025-02-15 |
 | [lvl 6 \- VIDEO GAMES](https://open.spotify.com/track/4rUzVbdbpROiDvrn6EqMsH) | [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [lvl 6 \- VIDEO GAMES](https://open.spotify.com/album/4qqSFJ9ylEJoW2PB0vid5I) | 3:39 | 2025-03-14 | 2025-03-22 |

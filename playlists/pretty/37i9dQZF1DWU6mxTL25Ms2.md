@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6mxTL25Ms2.md) - [plain]
 
 > Enjoy music from "<br/>Umamusume: Pretty Derby! © Cygames, Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,001 likes - 75 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,022 likes - 75 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6mxTL25Ms2.md) - [plain]
 | 53 | [UNLIMITED IMPACT](https://open.spotify.com/track/4zKPFPZDB22i0mY2Em4zWg) | [アグネスデジタル \(CV\. 鈴木みのり\)](https://open.spotify.com/artist/0haizxwQkMKTa6sGIyh0kw), [シンコウウインディ \(CV\. 高田憂希\)](https://open.spotify.com/artist/37Kg4UHatwi9qjSsrP6xOq), [スマートファルコン \(CV\. 大和田仁美\)](https://open.spotify.com/artist/083XOxhruihHWXyNpxX9bV), [ハルウララ \(CV\. 首藤志奈\)](https://open.spotify.com/artist/29F8aWrJOyPOJkEAbnPC8g) | [『ウマ娘 プリティーダービー』WINNING LIVE 03](https://open.spotify.com/album/23Tcn3MGSavb63gSNsSIEO) | 4:45 |
 | 54 | [ロストシャイン](https://open.spotify.com/track/6CLBJQ2UcOg0GlR1Wi0ycJ) | [キタサンブラック \(CV\. 矢野妃菜喜\)](https://open.spotify.com/artist/7e2p9zUCmJM0LAbWMawUhS) | [ロストシャイン](https://open.spotify.com/album/4ESPE45QbsFjvYmTWGcUvY) | 4:18 |
 | 55 | [希望ディスカバリー \- 2021 Remastered Version](https://open.spotify.com/track/6iR4mySzdOwT2Ywos5WEyH) | [メジロライアン \(CV\. 土師亜文\)](https://open.spotify.com/artist/1OQUYszJKFHB1F9KzqWBBz) | [スマホゲーム『ウマ娘 プリティーダービー』STARTING GATE 09 \(2021 Remastered Version\)](https://open.spotify.com/album/5PSYY1VzgdPlCkrcIV4hdi) | 3:56 |
-| 56 | [L's Surprise!! \- 2021 Remastered Version](https://open.spotify.com/track/3ROVxXd6TKOoBcRF1gPWkm) | [エルコンドルパサー \(CV\. 高橋未奈美\)](https://open.spotify.com/artist/6DlsPAFxef01OfNNGozmrl) | [TVアニメ『ウマ娘 プリティーダービー』ANIMATION DERBY 07 \(2021 Remastered Version\)](https://open.spotify.com/album/4uYhCJhZB8wotoB0qJa0Im) | 4:10 |
-| 57 | [手綱と絆 \- 2021 Remastered Version](https://open.spotify.com/track/3ccWvbuxDmvuhU6dWrRLoJ) | [ビワハヤヒデ \(CV\. 近藤 唯\)](https://open.spotify.com/artist/5GEuPNsUURPOE08y11MZJk) | [TVアニメ『ウマ娘 プリティーダービー』ANIMATION DERBY 06 \(2021 Remastered Version\)](https://open.spotify.com/album/0Mn8yOnH6DnwaIcgvC3rYK) | 4:14 |
+| 56 | [手綱と絆 \- 2021 Remastered Version](https://open.spotify.com/track/3ccWvbuxDmvuhU6dWrRLoJ) | [ビワハヤヒデ \(CV\. 近藤 唯\)](https://open.spotify.com/artist/5GEuPNsUURPOE08y11MZJk) | [TVアニメ『ウマ娘 プリティーダービー』ANIMATION DERBY 06 \(2021 Remastered Version\)](https://open.spotify.com/album/0Mn8yOnH6DnwaIcgvC3rYK) | 4:14 |
+| 57 | [L's Surprise!! \- 2021 Remastered Version](https://open.spotify.com/track/3ROVxXd6TKOoBcRF1gPWkm) | [エルコンドルパサー \(CV\. 高橋未奈美\)](https://open.spotify.com/artist/6DlsPAFxef01OfNNGozmrl) | [TVアニメ『ウマ娘 プリティーダービー』ANIMATION DERBY 07 \(2021 Remastered Version\)](https://open.spotify.com/album/4uYhCJhZB8wotoB0qJa0Im) | 4:10 |
 | 58 | [WINNING MELODY \- 2021 Remastered Version](https://open.spotify.com/track/2qIamn3Cgk49M2337j32qQ) | [ウイニングチケット \(CV\. 渡部優衣\)](https://open.spotify.com/artist/1yKC4cmXl1vP0XRoPtOCCl) | [スマホゲーム『ウマ娘 プリティーダービー』STARTING GATE 11 \(2021 Remastered Version\)](https://open.spotify.com/album/2in868kwaG4qulhPOSGU8d) | 3:58 |
 | 59 | [ぼくらのブルーバードデイズ \- 2021 Remastered Version](https://open.spotify.com/track/2AWx1w1xPVtEYr2ZLeMRLU) | [ウオッカ \(CV\. 大橋彩香\)](https://open.spotify.com/artist/2QVtvjv7GbWbGBTzrW4270), [ダイワスカーレット \(CV\. 木村千咲\)](https://open.spotify.com/artist/0yaxRS7sYtdmwpNIyA1UuR), [ゴールドシップ \(CV\. 上田 瞳\)](https://open.spotify.com/artist/1tODxzD6whVt82RO4FgkFE) | [スマホゲーム『ウマ娘 プリティーダービー』STARTING GATE 03 \(2021 Remastered Version\)](https://open.spotify.com/album/561riKriuKHpKFMAdqChtL) | 4:26 |
 | 60 | [恋する世界 \- 2021 Remastered Version](https://open.spotify.com/track/1pu4KF64pmHOIW2GbaNS4O) | [ファインモーション \(CV\. 橋本ちなみ\)](https://open.spotify.com/artist/3IdkZCpsf4FpZoZm9IDlJw) | [スマホゲーム『ウマ娘 プリティーダービー』STARTING GATE 09 \(2021 Remastered Version\)](https://open.spotify.com/album/5PSYY1VzgdPlCkrcIV4hdi) | 4:23 |

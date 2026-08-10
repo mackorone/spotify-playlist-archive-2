@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 420933,
+  "num_followers": 421159,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "Greatest Hits &amp; Remixes",
-        "url": "https://open.spotify.com/album/5Hpk5wBQIX2ClSSv7yLAfo"
-      },
-      "artists": [
-        {
-          "name": "Koto",
-          "url": "https://open.spotify.com/artist/03Qx8J2OxTAGgZqZ4rnaB0"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "Visitors",
-      "url": "https://open.spotify.com/track/05ny0VoHFBDeqAxDRj77jn"
-    },
-    {
-      "added_at": "2026-07-30 22:02:37",
-      "album": {
         "name": "I Need You Tonite / Tonight",
         "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 390127,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO"
+    },
+    {
+      "added_at": "2026-07-30 22:02:37",
+      "album": {
+        "name": "Greatest Hits &amp; Remixes",
+        "url": "https://open.spotify.com/album/5Hpk5wBQIX2ClSSv7yLAfo"
+      },
+      "artists": [
+        {
+          "name": "Koto",
+          "url": "https://open.spotify.com/artist/03Qx8J2OxTAGgZqZ4rnaB0"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "Visitors",
+      "url": "https://open.spotify.com/track/05ny0VoHFBDeqAxDRj77jn"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -735,18 +735,18 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "ITVLO",
-        "url": "https://open.spotify.com/album/1sY6EDoFwyLD5rI0tG2QJR"
+        "name": "Viewpoint",
+        "url": "https://open.spotify.com/album/2hGI6J931bSqHmpirIY9Fb"
       },
       "artists": [
         {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+          "name": "Gazebo",
+          "url": "https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1"
         }
       ],
-      "duration_ms": 287267,
-      "name": "ITVLO",
-      "url": "https://open.spotify.com/track/5GmLeKLNFgOPCqyonBPYtr"
+      "duration_ms": 254973,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/7vOs0UNehTDMera8uv6fXh"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -771,34 +771,18 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "Viewpoint",
-        "url": "https://open.spotify.com/album/2hGI6J931bSqHmpirIY9Fb"
+        "name": "ITVLO",
+        "url": "https://open.spotify.com/album/1sY6EDoFwyLD5rI0tG2QJR"
       },
       "artists": [
         {
-          "name": "Gazebo",
-          "url": "https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1"
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
         }
       ],
-      "duration_ms": 254973,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/7vOs0UNehTDMera8uv6fXh"
-    },
-    {
-      "added_at": "2026-07-30 22:02:37",
-      "album": {
-        "name": "Greatest Hits & Remixes",
-        "url": "https://open.spotify.com/album/1XsOXWsClvtWMxOnQ5gJ22"
-      },
-      "artists": [
-        {
-          "name": "Ken Laszlo",
-          "url": "https://open.spotify.com/artist/00OX175uYCsHJPLZOjNJqe"
-        }
-      ],
-      "duration_ms": 206600,
-      "name": "Hey Hey Guy (7\" Vocal Version)",
-      "url": "https://open.spotify.com/track/3oLn7p6CF8JvUDPz59t2WF"
+      "duration_ms": 287267,
+      "name": "ITVLO",
+      "url": "https://open.spotify.com/track/5GmLeKLNFgOPCqyonBPYtr"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -819,6 +803,22 @@
       "duration_ms": 219140,
       "name": "Ma quale idea - Myd Remix (Radio Edit)",
       "url": "https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR"
+    },
+    {
+      "added_at": "2026-07-30 22:02:37",
+      "album": {
+        "name": "Greatest Hits & Remixes",
+        "url": "https://open.spotify.com/album/1XsOXWsClvtWMxOnQ5gJ22"
+      },
+      "artists": [
+        {
+          "name": "Ken Laszlo",
+          "url": "https://open.spotify.com/artist/00OX175uYCsHJPLZOjNJqe"
+        }
+      ],
+      "duration_ms": 206600,
+      "name": "Hey Hey Guy (7\" Vocal Version)",
+      "url": "https://open.spotify.com/track/3oLn7p6CF8JvUDPz59t2WF"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -995,18 +995,18 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "Discoteca Eterna",
-        "url": "https://open.spotify.com/album/4nLGuJtZE9Zh83UlYCOEkY"
+        "name": "Plastic Mode",
+        "url": "https://open.spotify.com/album/5ParFAecXuBEXXZOjtxOHx"
       },
       "artists": [
         {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+          "name": "Plastic Mode",
+          "url": "https://open.spotify.com/artist/22bwmgMrfLg3IMcPs7vNMa"
         }
       ],
-      "duration_ms": 205161,
-      "name": "Discoteca Eterna",
-      "url": "https://open.spotify.com/track/0gca1p9T3HZK2yVNnV4bmW"
+      "duration_ms": 235346,
+      "name": "Summer Time",
+      "url": "https://open.spotify.com/track/62WcZBFubVa0rPqHwvFZ6K"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -1027,34 +1027,34 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "Plastic Mode",
-        "url": "https://open.spotify.com/album/5ParFAecXuBEXXZOjtxOHx"
+        "name": "Discoteca Eterna",
+        "url": "https://open.spotify.com/album/4nLGuJtZE9Zh83UlYCOEkY"
       },
       "artists": [
         {
-          "name": "Plastic Mode",
-          "url": "https://open.spotify.com/artist/22bwmgMrfLg3IMcPs7vNMa"
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
         }
       ],
-      "duration_ms": 235346,
-      "name": "Summer Time",
-      "url": "https://open.spotify.com/track/62WcZBFubVa0rPqHwvFZ6K"
+      "duration_ms": 205161,
+      "name": "Discoteca Eterna",
+      "url": "https://open.spotify.com/track/0gca1p9T3HZK2yVNnV4bmW"
     },
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "Italiana Vol. 1",
-        "url": "https://open.spotify.com/album/3v0KSycOqTxmNwyMhhrNOD"
+        "name": "For You (LP)",
+        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
       },
       "artists": [
         {
-          "name": "Mina",
-          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
+          "name": "Ago",
+          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
         }
       ],
-      "duration_ms": 259773,
-      "name": "Morir\u00f2 Per Te - 2001 Remaster",
-      "url": "https://open.spotify.com/track/6Q2gYxDdz165RwZXHCcyIy"
+      "duration_ms": 353000,
+      "name": "For You - Original Album",
+      "url": "https://open.spotify.com/track/5if1vlzBKrpoE1hZ6bxw2C"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "For You (LP)",
-        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
+        "name": "Italiana Vol. 1",
+        "url": "https://open.spotify.com/album/3v0KSycOqTxmNwyMhhrNOD"
       },
       "artists": [
         {
-          "name": "Ago",
-          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy"
         }
       ],
-      "duration_ms": 353000,
-      "name": "For You - Original Album",
-      "url": "https://open.spotify.com/track/5if1vlzBKrpoE1hZ6bxw2C"
+      "duration_ms": 259773,
+      "name": "Morir\u00f2 Per Te - 2001 Remaster",
+      "url": "https://open.spotify.com/track/6Q2gYxDdz165RwZXHCcyIy"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -1171,26 +1171,18 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "Baciami",
-        "url": "https://open.spotify.com/album/1Yfw5ZfDELSGZHbTvjWofP"
+        "name": "The Sound of Tony Esposito",
+        "url": "https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC"
       },
       "artists": [
         {
-          "name": "Lorenzo_BITW",
-          "url": "https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV"
-        },
-        {
-          "name": "Produkkt",
-          "url": "https://open.spotify.com/artist/10AGP2d21KeHinRjJNaf4b"
-        },
-        {
-          "name": "Giorgi",
-          "url": "https://open.spotify.com/artist/2NPewIaZgMicN9HeOZjuoN"
+          "name": "Tony Esposito",
+          "url": "https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF"
         }
       ],
-      "duration_ms": 176063,
-      "name": "Baciami",
-      "url": "https://open.spotify.com/track/0trp5xcRDZwQiL7zatx8gs"
+      "duration_ms": 313133,
+      "name": "Kalimba de luna",
+      "url": "https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -1211,18 +1203,26 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "The Sound of Tony Esposito",
-        "url": "https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC"
+        "name": "Baciami",
+        "url": "https://open.spotify.com/album/1Yfw5ZfDELSGZHbTvjWofP"
       },
       "artists": [
         {
-          "name": "Tony Esposito",
-          "url": "https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF"
+          "name": "Lorenzo_BITW",
+          "url": "https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV"
+        },
+        {
+          "name": "Produkkt",
+          "url": "https://open.spotify.com/artist/10AGP2d21KeHinRjJNaf4b"
+        },
+        {
+          "name": "Giorgi",
+          "url": "https://open.spotify.com/artist/2NPewIaZgMicN9HeOZjuoN"
         }
       ],
-      "duration_ms": 313133,
-      "name": "Kalimba de luna",
-      "url": "https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc"
+      "duration_ms": 176063,
+      "name": "Baciami",
+      "url": "https://open.spotify.com/track/0trp5xcRDZwQiL7zatx8gs"
     },
     {
       "added_at": "2026-07-30 22:02:37",
@@ -1291,18 +1291,22 @@
     {
       "added_at": "2026-07-30 22:02:37",
       "album": {
-        "name": "Napoletana (Dance Rituals)",
-        "url": "https://open.spotify.com/album/00lUUPzAWmS99tE7tX5WQY"
+        "name": "Danza Organica (Musumeci Remix Hot Version)",
+        "url": "https://open.spotify.com/album/26dnFWPRl0VZbmXqELrEUE"
       },
       "artists": [
         {
-          "name": "Pellegrino",
-          "url": "https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow"
+          "name": "Sam Ruffillo",
+          "url": "https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy"
+        },
+        {
+          "name": "Musumeci",
+          "url": "https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf"
         }
       ],
-      "duration_ms": 224564,
-      "name": "Napoletana - Dance Rituals",
-      "url": "https://open.spotify.com/track/6bEQ6Sr51Ij3p3NwlV8UwC"
+      "duration_ms": 196957,
+      "name": "Danza Organica - Musumeci Remix Hot Version",
+      "url": "https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z"
     }
   ],
   "unique_name": "Italo Disco",

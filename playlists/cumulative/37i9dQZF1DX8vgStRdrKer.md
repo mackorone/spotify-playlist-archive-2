@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-845 songs - 3 day 1 hr 27 min
+846 songs - 3 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,13 +496,14 @@
 | [Miracle Walking \- Radio Edit](https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [Miracle Walking \(Radio Edit\)](https://open.spotify.com/album/0nLp271aFrYDf0EM9997ih) | 3:37 | 2026-03-13 | 2026-04-17 |
 | [Miyeruwe](https://open.spotify.com/track/49W1rWTLscuPm49Uztjha5) | [Bada Godwin](https://open.spotify.com/artist/3OpSfWD36e1vwrf16uou9F), [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Miyeruwe](https://open.spotify.com/album/5sz29dKcDx5uIBRGpMLwrn) | 5:25 | 2025-08-22 | 2025-11-04 |
 | [MOG](https://open.spotify.com/track/1Sdcat45qN20OLrKZR0FJM) | [Mic Dada](https://open.spotify.com/artist/2SWGKvYcm3wowvgdQTwQ4c) | [MOG](https://open.spotify.com/album/6lmXCMLzFR9xvTx2V9xdjL) | 3:46 | 2025-06-27 | 2025-07-16 |
-| [Moja](https://open.spotify.com/track/6q3P3cfcEJHqNiPk01xH31) | [Moses Luka](https://open.spotify.com/artist/2vGifkRUpxkURfLeKJoikp), [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Moja](https://open.spotify.com/album/4NlB5czbw0xdrWuuwS7IqC) | 3:20 | 2026-03-06 |  |
+| [Moja](https://open.spotify.com/track/6q3P3cfcEJHqNiPk01xH31) | [Moses Luka](https://open.spotify.com/artist/2vGifkRUpxkURfLeKJoikp), [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Moja](https://open.spotify.com/album/4NlB5czbw0xdrWuuwS7IqC) | 3:20 | 2026-03-06 | 2026-08-10 |
 | [Moment](https://open.spotify.com/track/4BZ7pMzJiBInFR5NPMbqGN) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Moment](https://open.spotify.com/album/22PQQnMMjotxsJ42Qgjrl8) | 3:14 | 2025-08-22 | 2025-10-03 |
 | [More](https://open.spotify.com/track/5q4Tz1jwVjpQLU3AJFZ0AR) | [Aghogho](https://open.spotify.com/artist/4yAFPEJ5k77Ev31V4e5POh) | [Than Before](https://open.spotify.com/album/2DSIpZI7oKkGCqRdweDE6V) | 5:20 | 2024-03-30 | 2024-04-26 |
 | [More Fire](https://open.spotify.com/track/0x4I55F4BJK2zS695SWtZn) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [Burn](https://open.spotify.com/album/5755DgGFCgS6f2Pzt89WbJ) | 5:51 | 2025-06-13 | 2025-10-16 |
 | [More of you God](https://open.spotify.com/track/770Z9OGv4gVgzDIbClpWYm) | [Dj Jazzy D The GrooveMaster](https://open.spotify.com/artist/6V1ha8RjdizvYR0QCPe6k5) | [More of you God](https://open.spotify.com/album/03wxN0lOmPyzlziiNhKSrg) | 4:40 | 2025-09-12 | 2025-10-03 |
 | [More Than Able](https://open.spotify.com/track/1PVYkMOIxOV4JCJhoUOBrg) | [Tosin Bee](https://open.spotify.com/artist/1fjiVka7H0Dydce3sPArtt) | [More Than Able](https://open.spotify.com/album/2eCu0jcbcaPB3no72aewOI) | 2:34 | 2025-10-10 | 2026-02-08 |
 | [More Than Enough](https://open.spotify.com/track/3jeP2N4ZncGyBWNsfWpXj3) | [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [More Than Enough](https://open.spotify.com/album/4ILIZGOexhKYEfdSaO5Q3z) | 5:00 | 2025-10-24 | 2025-12-10 |
+| [MORIRE GBA](https://open.spotify.com/track/1SXBvjlcG6KYD7rPaVWaHv) | [Fido Cleff](https://open.spotify.com/artist/0FOiZm6cMypJMnOEScNFZr), [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK) | [MORIRE GBA](https://open.spotify.com/album/2QGHB9mP6So7HRmrU2tpls) | 3:28 | 2026-07-17 |  |
 | [Most High](https://open.spotify.com/track/7m5VI4wtclDWfskjXou2Mh) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Most High](https://open.spotify.com/album/3fXrS9CHWxp2tsPCYNaqRn) | 6:15 | 2026-03-06 | 2026-05-05 |
 | [MOST HIGH](https://open.spotify.com/track/31naSIp2Ioi41c5gavyUkY) | [Solana](https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR), [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv) | [MOST HIGH](https://open.spotify.com/album/0NuHWN44BKVoljjBUY6VmF) | 3:20 | 2024-02-09 | 2025-05-30 |
 | [Mount Carmel II](https://open.spotify.com/track/0aIukRf2gSZqmuOIFeBarQ) | [Deborah Billyben](https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj) | [Mount Carmel II](https://open.spotify.com/album/2cxabjK2gr29O1RsRvuPu3) | 10:13 | 2025-10-10 | 2026-02-03 |

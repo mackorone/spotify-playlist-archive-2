@@ -1,6 +1,6 @@
 {
   "description": "The best Canadian songs of the month, handpicked by Spotify Canada editors. Cover: girlsweetvoiced",
-  "num_followers": 2285,
+  "num_followers": 2287,
   "original_name": "Editors' Picks: Best Canadian Songs of July",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "Feels Like Home",
-        "url": "https://open.spotify.com/album/374CWbM43yweqsdvTEn2oS"
-      },
-      "artists": [
-        {
-          "name": "Os\u00e9",
-          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
-        }
-      ],
-      "duration_ms": 187463,
-      "name": "cease & desist",
-      "url": "https://open.spotify.com/track/4Del9gOGUGuxbkVaHRkTjv"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
         "name": "Ya Hala",
         "url": "https://open.spotify.com/album/09cYavs2exGSaMjJGIcUyE"
       },
@@ -299,18 +283,18 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "KGB (Kill Get Back)",
-        "url": "https://open.spotify.com/album/0189OWiNDfbQ9gm1XBdpFo"
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/374CWbM43yweqsdvTEn2oS"
       },
       "artists": [
         {
-          "name": "KILLY",
-          "url": "https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD"
+          "name": "Os\u00e9",
+          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
         }
       ],
-      "duration_ms": 133546,
-      "name": "KGB (Kill Get Back)",
-      "url": "https://open.spotify.com/track/3GEjtr09NurAwoc2x0pSDh"
+      "duration_ms": 187463,
+      "name": "cease & desist",
+      "url": "https://open.spotify.com/track/4Del9gOGUGuxbkVaHRkTjv"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -327,6 +311,22 @@
       "duration_ms": 187427,
       "name": "Moment Of Silence",
       "url": "https://open.spotify.com/track/0pgaU2JcaLqmGqG0oIgEsc"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
+        "name": "KGB (Kill Get Back)",
+        "url": "https://open.spotify.com/album/0189OWiNDfbQ9gm1XBdpFo"
+      },
+      "artists": [
+        {
+          "name": "KILLY",
+          "url": "https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD"
+        }
+      ],
+      "duration_ms": 133546,
+      "name": "KGB (Kill Get Back)",
+      "url": "https://open.spotify.com/track/3GEjtr09NurAwoc2x0pSDh"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -451,6 +451,22 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
+        "name": "Sun Up / Hilly Fields",
+        "url": "https://open.spotify.com/album/7sXsYf2LZtjYhvv9oB0eHc"
+      },
+      "artists": [
+        {
+          "name": "Skiifall",
+          "url": "https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP"
+        }
+      ],
+      "duration_ms": 156631,
+      "name": "Sun Up",
+      "url": "https://open.spotify.com/track/3ZKhXv0aaljAtRiNSmeeQ1"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
         "name": "Bad Timing",
         "url": "https://open.spotify.com/album/4pNBMEmECbFNbcR1IduYxA"
       },
@@ -499,38 +515,6 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "Sun Up / Hilly Fields",
-        "url": "https://open.spotify.com/album/7sXsYf2LZtjYhvv9oB0eHc"
-      },
-      "artists": [
-        {
-          "name": "Skiifall",
-          "url": "https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP"
-        }
-      ],
-      "duration_ms": 156631,
-      "name": "Sun Up",
-      "url": "https://open.spotify.com/track/3ZKhXv0aaljAtRiNSmeeQ1"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
-        "name": "RaGDOLL",
-        "url": "https://open.spotify.com/album/5h2GFhREsGskMxCQg8DwCA"
-      },
-      "artists": [
-        {
-          "name": "LOONY",
-          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
-        }
-      ],
-      "duration_ms": 204313,
-      "name": "RaGDOLL",
-      "url": "https://open.spotify.com/track/1n43MqthDH1XCdTixJOCX3"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/1MuR1LelZ5AdjqexWmWKVa"
       },
@@ -547,18 +531,18 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "work",
-        "url": "https://open.spotify.com/album/0rYaE3uuSJC6lTRhTXfaCe"
+        "name": "RaGDOLL",
+        "url": "https://open.spotify.com/album/5h2GFhREsGskMxCQg8DwCA"
       },
       "artists": [
         {
-          "name": "SUUNCAAT",
-          "url": "https://open.spotify.com/artist/7inTslBMGHlzonejpRB3F7"
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
         }
       ],
-      "duration_ms": 265551,
-      "name": "work",
-      "url": "https://open.spotify.com/track/5t9uZJUSpZ4tKrAyFFqZ1Y"
+      "duration_ms": 204313,
+      "name": "RaGDOLL",
+      "url": "https://open.spotify.com/track/1n43MqthDH1XCdTixJOCX3"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -583,22 +567,6 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "Party Animal",
-        "url": "https://open.spotify.com/album/6i3GF9CpBa8eq5aQs55Xew"
-      },
-      "artists": [
-        {
-          "name": "Bolu Ajibade",
-          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Party Animal",
-      "url": "https://open.spotify.com/track/5eTwF5hRGuoWNhDgTZErwA"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
         "name": "Billo",
         "url": "https://open.spotify.com/album/3E93c87HK1qNpthSVaJ2UV"
       },
@@ -619,6 +587,22 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
+        "name": "work",
+        "url": "https://open.spotify.com/album/0rYaE3uuSJC6lTRhTXfaCe"
+      },
+      "artists": [
+        {
+          "name": "SUUNCAAT",
+          "url": "https://open.spotify.com/artist/7inTslBMGHlzonejpRB3F7"
+        }
+      ],
+      "duration_ms": 265551,
+      "name": "work",
+      "url": "https://open.spotify.com/track/5t9uZJUSpZ4tKrAyFFqZ1Y"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
         "name": "World Tour Freestyle",
         "url": "https://open.spotify.com/album/1T6zovINsDE46fupkeHo7a"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 131111,
       "name": "World Tour Freestyle",
       "url": "https://open.spotify.com/track/4GiJmFhOuGbfPl6gdKErwe"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
+        "name": "Party Animal",
+        "url": "https://open.spotify.com/album/6i3GF9CpBa8eq5aQs55Xew"
+      },
+      "artists": [
+        {
+          "name": "Bolu Ajibade",
+          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Party Animal",
+      "url": "https://open.spotify.com/track/5eTwF5hRGuoWNhDgTZErwA"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
+        "name": "Dogs.",
+        "url": "https://open.spotify.com/album/2zmf9IHEQxPtGj7cyZF9ye"
+      },
+      "artists": [
+        {
+          "name": "House Mouse",
+          "url": "https://open.spotify.com/artist/4ZK6TmUwHiUmytmxalwarx"
+        }
+      ],
+      "duration_ms": 163311,
+      "name": "Dogs.",
+      "url": "https://open.spotify.com/track/5vw1gkiEQF4avej3LNU8iY"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
         "name": "Ma Chance",
         "url": "https://open.spotify.com/album/4ePZcSaEdL9SZC6fqDVR5u"
       },
@@ -703,18 +719,18 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "Dogs.",
-        "url": "https://open.spotify.com/album/2zmf9IHEQxPtGj7cyZF9ye"
+        "name": "Don't Eat Don't Sleep",
+        "url": "https://open.spotify.com/album/4jmEE2QQTJJOPTFAZOs4kn"
       },
       "artists": [
         {
-          "name": "House Mouse",
-          "url": "https://open.spotify.com/artist/4ZK6TmUwHiUmytmxalwarx"
+          "name": "Gliiico",
+          "url": "https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK"
         }
       ],
-      "duration_ms": 163311,
-      "name": "Dogs.",
-      "url": "https://open.spotify.com/track/5vw1gkiEQF4avej3LNU8iY"
+      "duration_ms": 212000,
+      "name": "Don't Eat Don't Sleep",
+      "url": "https://open.spotify.com/track/3iCmsC8iMWP1y4dxZNEw1L"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -739,22 +755,6 @@
     {
       "added_at": "2026-07-31 15:05:53",
       "album": {
-        "name": "Don't Eat Don't Sleep",
-        "url": "https://open.spotify.com/album/4jmEE2QQTJJOPTFAZOs4kn"
-      },
-      "artists": [
-        {
-          "name": "Gliiico",
-          "url": "https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Don't Eat Don't Sleep",
-      "url": "https://open.spotify.com/track/3iCmsC8iMWP1y4dxZNEw1L"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
         "name": "Suddenly",
         "url": "https://open.spotify.com/album/6QVu2pywpuoATTXnuGqilj"
       },
@@ -767,6 +767,22 @@
       "duration_ms": 143226,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/23jMmesMkvNstAt0m5lR1W"
+    },
+    {
+      "added_at": "2026-07-31 15:05:53",
+      "album": {
+        "name": "Take Me Under",
+        "url": "https://open.spotify.com/album/1Ho7Ruke16uRkhixyX4SHQ"
+      },
+      "artists": [
+        {
+          "name": "RAJAN",
+          "url": "https://open.spotify.com/artist/1TwXokfbAj2rmDarneyVu3"
+        }
+      ],
+      "duration_ms": 159259,
+      "name": "Take Me Under",
+      "url": "https://open.spotify.com/track/0brTYG1hUEfpgqCcEhIr9B"
     },
     {
       "added_at": "2026-07-31 15:05:53",
@@ -791,22 +807,6 @@
       "duration_ms": 252975,
       "name": "Podjab",
       "url": "https://open.spotify.com/track/65lAYSuVNKppkeI0NEJLW3"
-    },
-    {
-      "added_at": "2026-07-31 15:05:53",
-      "album": {
-        "name": "Take Me Under",
-        "url": "https://open.spotify.com/album/1Ho7Ruke16uRkhixyX4SHQ"
-      },
-      "artists": [
-        {
-          "name": "RAJAN",
-          "url": "https://open.spotify.com/artist/1TwXokfbAj2rmDarneyVu3"
-        }
-      ],
-      "duration_ms": 159259,
-      "name": "Take Me Under",
-      "url": "https://open.spotify.com/track/0brTYG1hUEfpgqCcEhIr9B"
     },
     {
       "added_at": "2026-07-31 15:05:53",

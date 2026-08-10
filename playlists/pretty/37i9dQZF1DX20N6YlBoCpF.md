@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Annelie, Appel, Riaan Benadé, Ricus Nel,  Bok Van Blerk, Zaan Sonnekus en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,147 likes - 72 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,150 likes - 72 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

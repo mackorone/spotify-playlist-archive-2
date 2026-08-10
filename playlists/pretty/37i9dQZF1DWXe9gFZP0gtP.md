@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,946,590 likes - 205 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,947,044 likes - 205 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 204 | [Orange Dock](https://open.spotify.com/track/0xzolBg89qMVf0aKIUbU2p) | [Astral Lighthouse](https://open.spotify.com/artist/3jbqBkSBvcmQKkQxavE1Ym) | [Orange Dock](https://open.spotify.com/album/3YkhmSxLu4vd9KR5q1rT7M) | 2:31 |
 | 205 | [Northern Treasure](https://open.spotify.com/track/6hdCo4ZFJ6RC76pNttY4ah) | [Lush Lotus](https://open.spotify.com/artist/4Ho8lnnZWQ6ldapSazUAbq) | [Northern Treasure](https://open.spotify.com/album/49CVmkuUfg4ZGN88sYXxWB) | 2:49 |
 
-Snapshot ID: `AAAAAPxBDhQVusqwcFz4xy34gFcCZAdd`
+Snapshot ID: `AAAAAKSfe0Ek4YOVrg31KWHQ8chz9n18`

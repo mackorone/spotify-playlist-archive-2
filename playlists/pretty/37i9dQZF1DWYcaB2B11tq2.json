@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcela Gandara",
-  "num_followers": 518374,
+  "num_followers": 518460,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,22 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "Jes\u00fas Siempre Llega a Tiempo",
+        "url": "https://open.spotify.com/album/5hM2RpmACzxvfD26An3E40"
+      },
+      "artists": [
+        {
+          "name": "Samuel Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU"
+        }
+      ],
+      "duration_ms": 319650,
+      "name": "Levanto Mis Manos",
+      "url": "https://open.spotify.com/track/79y4fe9RE0KtxXGj4WmRT5"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "Vuelve a Casa",
         "url": "https://open.spotify.com/album/6GUNfGkyL4Xi4KiWNCYkNQ"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 343746,
       "name": "Ven, Te Necesito",
       "url": "https://open.spotify.com/track/45eHVUfCCQgcxSZ0EO1bZq"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Jes\u00fas Siempre Llega a Tiempo",
-        "url": "https://open.spotify.com/album/5hM2RpmACzxvfD26An3E40"
-      },
-      "artists": [
-        {
-          "name": "Samuel Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU"
-        }
-      ],
-      "duration_ms": 319650,
-      "name": "Levanto Mis Manos",
-      "url": "https://open.spotify.com/track/79y4fe9RE0KtxXGj4WmRT5"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Vuelve a So\u00f1ar - EP",
-        "url": "https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv"
-      },
-      "artists": [
-        {
-          "name": "Vito Vasquez",
-          "url": "https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5"
-        },
-        {
-          "name": "Zeri",
-          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
-        }
-      ],
-      "duration_ms": 222229,
-      "name": "Llegare (Remastered) [feat. Zeri]",
-      "url": "https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Da\u00f1ar el Jangueo",
         "url": "https://open.spotify.com/album/5Gzt5itwkQ3s2ZHICFzF0r"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 230476,
       "name": "Da\u00f1ar el Jangueo",
       "url": "https://open.spotify.com/track/2G57GCgrChXL9CQ0yUMX7f"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Vuelve a So\u00f1ar - EP",
+        "url": "https://open.spotify.com/album/7qtu9kgujZ7Ze82Cuj8zJv"
+      },
+      "artists": [
+        {
+          "name": "Vito Vasquez",
+          "url": "https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5"
+        },
+        {
+          "name": "Zeri",
+          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
+        }
+      ],
+      "duration_ms": 222229,
+      "name": "Llegare (Remastered) [feat. Zeri]",
+      "url": "https://open.spotify.com/track/2muF4IsAlsdubJ2vfIA6Aq"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Glorioso D\u00eda",
-        "url": "https://open.spotify.com/album/79lisODI2SlbY69xklS6kE"
-      },
-      "artists": [
-        {
-          "name": "Lucas Conslie",
-          "url": "https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1"
-        }
-      ],
-      "duration_ms": 430869,
-      "name": "Glorioso D\u00eda",
-      "url": "https://open.spotify.com/track/2brWbcadjJi6XagaBC04Pd"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Mas Profundo",
         "url": "https://open.spotify.com/album/1uLUQM3v3i9RXGoGSMn4Nu"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 359999,
       "name": "Mas Profundo",
       "url": "https://open.spotify.com/track/2nr1nbjXz7w883AtODI9vU"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Glorioso D\u00eda",
+        "url": "https://open.spotify.com/album/79lisODI2SlbY69xklS6kE"
+      },
+      "artists": [
+        {
+          "name": "Lucas Conslie",
+          "url": "https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1"
+        }
+      ],
+      "duration_ms": 430869,
+      "name": "Glorioso D\u00eda",
+      "url": "https://open.spotify.com/track/2brWbcadjJi6XagaBC04Pd"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1487,18 +1487,22 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Fiesta en el desierto (la la la)",
-        "url": "https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ"
+        "name": "La Sunamita",
+        "url": "https://open.spotify.com/album/1atwSXYD9Dpmf40HhCOC9N"
       },
       "artists": [
         {
           "name": "Montesanto",
           "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        },
+        {
+          "name": "Alex Marquez Oficial",
+          "url": "https://open.spotify.com/artist/0mWEEdgUmHziltREUUbcAt"
         }
       ],
-      "duration_ms": 338015,
-      "name": "Fiesta en el desierto (la la la)",
-      "url": "https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa"
+      "duration_ms": 773909,
+      "name": "La Sunamita",
+      "url": "https://open.spotify.com/track/5nmRDCoUya4XwQXCuQjzjm"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1535,110 +1539,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Si Tu Presencia Conmigo No Va",
-        "url": "https://open.spotify.com/album/46KmpiuPAvHcuXGQrmFPbq"
-      },
-      "artists": [
-        {
-          "name": "Oasis Ministry",
-          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
-        }
-      ],
-      "duration_ms": 288183,
-      "name": "Si Tu Presencia Conmigo No Va",
-      "url": "https://open.spotify.com/track/4GSSysU56FdBKhnv9HlTnT"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
-      },
-      "artists": [
-        {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
-        }
-      ],
-      "duration_ms": 423173,
-      "name": "Creo En Ti",
-      "url": "https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Cuan Gran Amor",
-        "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Rosario",
-          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
-        }
-      ],
-      "duration_ms": 248813,
-      "name": "Que Se Llene Tu Casa",
-      "url": "https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "ResplanDC",
-        "url": "https://open.spotify.com/album/5qP3FrkV5QQb5qwZiFBFQx"
-      },
-      "artists": [
-        {
-          "name": "Visi\u00f3n Juvenil",
-          "url": "https://open.spotify.com/artist/1GTB46jRUYDiEatOzZQt1r"
-        },
-        {
-          "name": "Marcela Gandara",
-          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
-        }
-      ],
-      "duration_ms": 408026,
-      "name": "Vine a Adorarte (feat. Marcela G\u00e2ndara)",
-      "url": "https://open.spotify.com/track/6MB7lTUlKuJi8WBSa5V7FR"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Voy A Profetizar",
-        "url": "https://open.spotify.com/album/05HyX6gH8hKJ4fAji7XftG"
-      },
-      "artists": [
-        {
-          "name": "Danny Berrios",
-          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
-        }
-      ],
-      "duration_ms": 284238,
-      "name": "El Rey Te Mand\u00f3 Llamar",
-      "url": "https://open.spotify.com/track/4yot6gJqaEvD5A8bLUjbn2"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Operaci\u00f3n Mundial",
-        "url": "https://open.spotify.com/album/13cS6xvlMND2HFSphWWINT"
-      },
-      "artists": [
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 270186,
-      "name": "El Nombre De Jes\u00fas (feat. Christine D'clario)",
-      "url": "https://open.spotify.com/track/1cMTzjQOTt3wVAbFgTGPYN"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Todos Mis Mejores Amigos",
         "url": "https://open.spotify.com/album/60RcEQQMc77fR4x2vxo8pR"
       },
@@ -1659,24 +1559,24 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Ganas de Vivir",
-        "url": "https://open.spotify.com/album/1LX6lEi66BNQEV4GgxcvXk"
+        "name": "Si Tu Presencia Conmigo No Va",
+        "url": "https://open.spotify.com/album/46KmpiuPAvHcuXGQrmFPbq"
       },
       "artists": [
         {
-          "name": "Kike Pav\u00f3n",
-          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+          "name": "Oasis Ministry",
+          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
         }
       ],
-      "duration_ms": 237146,
-      "name": "Ganas de Vivir",
-      "url": "https://open.spotify.com/track/6367glu3JEfj7oJ03oAe7L"
+      "duration_ms": 288183,
+      "name": "Si Tu Presencia Conmigo No Va",
+      "url": "https://open.spotify.com/track/4GSSysU56FdBKhnv9HlTnT"
     },
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Santo es el que Vive",
-        "url": "https://open.spotify.com/album/1nAqjj54iiVCesUX9jA47V"
+        "name": "Fiesta en el desierto (la la la)",
+        "url": "https://open.spotify.com/album/7y2mzXkMb03nyEjlUjIyXJ"
       },
       "artists": [
         {
@@ -1684,57 +1584,57 @@
           "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
         }
       ],
-      "duration_ms": 634551,
-      "name": "Santo es el que Vive",
-      "url": "https://open.spotify.com/track/2zEIWex7Tqy4zOgD68VAen"
+      "duration_ms": 338015,
+      "name": "Fiesta en el desierto (la la la)",
+      "url": "https://open.spotify.com/track/2yCTGbVoE1R62Q95o9PJPa"
     },
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Sin Ti",
-        "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
+        "name": "Cuan Gran Amor",
+        "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
       },
       "artists": [
         {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
         }
       ],
-      "duration_ms": 264800,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631"
+      "duration_ms": 248813,
+      "name": "Que Se Llene Tu Casa",
+      "url": "https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF"
     },
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Tienes que Creer",
-        "url": "https://open.spotify.com/album/6TZZT6jNGCn6DMKnGjFBwl"
+        "name": "Voy A Profetizar",
+        "url": "https://open.spotify.com/album/05HyX6gH8hKJ4fAji7XftG"
       },
       "artists": [
         {
-          "name": "M\u00f3nica Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/1faUEl7u4gmxUVIh3esaf4"
+          "name": "Danny Berrios",
+          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
         }
       ],
-      "duration_ms": 236600,
-      "name": "Me Basta",
-      "url": "https://open.spotify.com/track/0BRxio3HO3AQ7Pm3Zx8xUn"
+      "duration_ms": 284238,
+      "name": "El Rey Te Mand\u00f3 Llamar",
+      "url": "https://open.spotify.com/track/4yot6gJqaEvD5A8bLUjbn2"
     },
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Jes\u00fas en el Centro (En Vivo)",
-        "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
       },
       "artists": [
         {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
         }
       ],
-      "duration_ms": 402626,
-      "name": "Jesus En El Centro - Live",
-      "url": "https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3"
+      "duration_ms": 423173,
+      "name": "Creo En Ti",
+      "url": "https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1759,22 +1659,122 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "La Sunamita",
-        "url": "https://open.spotify.com/album/1atwSXYD9Dpmf40HhCOC9N"
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 264800,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "ResplanDC",
+        "url": "https://open.spotify.com/album/5qP3FrkV5QQb5qwZiFBFQx"
+      },
+      "artists": [
+        {
+          "name": "Visi\u00f3n Juvenil",
+          "url": "https://open.spotify.com/artist/1GTB46jRUYDiEatOzZQt1r"
+        },
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        }
+      ],
+      "duration_ms": 408026,
+      "name": "Vine a Adorarte (feat. Marcela G\u00e2ndara)",
+      "url": "https://open.spotify.com/track/6MB7lTUlKuJi8WBSa5V7FR"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Operaci\u00f3n Mundial",
+        "url": "https://open.spotify.com/album/13cS6xvlMND2HFSphWWINT"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 270186,
+      "name": "El Nombre De Jes\u00fas (feat. Christine D'clario)",
+      "url": "https://open.spotify.com/track/1cMTzjQOTt3wVAbFgTGPYN"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Ganas de Vivir",
+        "url": "https://open.spotify.com/album/1LX6lEi66BNQEV4GgxcvXk"
+      },
+      "artists": [
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        }
+      ],
+      "duration_ms": 237146,
+      "name": "Ganas de Vivir",
+      "url": "https://open.spotify.com/track/6367glu3JEfj7oJ03oAe7L"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Jes\u00fas en el Centro (En Vivo)",
+        "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "duration_ms": 402626,
+      "name": "Jesus En El Centro - Live",
+      "url": "https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Santo es el que Vive",
+        "url": "https://open.spotify.com/album/1nAqjj54iiVCesUX9jA47V"
       },
       "artists": [
         {
           "name": "Montesanto",
           "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        },
-        {
-          "name": "Alex Marquez Oficial",
-          "url": "https://open.spotify.com/artist/0mWEEdgUmHziltREUUbcAt"
         }
       ],
-      "duration_ms": 773909,
-      "name": "La Sunamita",
-      "url": "https://open.spotify.com/track/5nmRDCoUya4XwQXCuQjzjm"
+      "duration_ms": 634551,
+      "name": "Santo es el que Vive",
+      "url": "https://open.spotify.com/track/2zEIWex7Tqy4zOgD68VAen"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Tienes que Creer",
+        "url": "https://open.spotify.com/album/6TZZT6jNGCn6DMKnGjFBwl"
+      },
+      "artists": [
+        {
+          "name": "M\u00f3nica Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/1faUEl7u4gmxUVIh3esaf4"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Me Basta",
+      "url": "https://open.spotify.com/track/0BRxio3HO3AQ7Pm3Zx8xUn"
     },
     {
       "added_at": "2026-05-12 05:08:23",

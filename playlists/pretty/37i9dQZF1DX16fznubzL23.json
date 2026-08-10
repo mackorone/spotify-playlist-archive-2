@@ -1,6 +1,6 @@
 {
   "description": "e don cast",
-  "num_followers": 46552,
+  "num_followers": 46582,
   "original_name": "End in Tears ",
   "owner": {
     "name": "Spotify",
@@ -215,8 +215,8 @@
     {
       "added_at": "2026-08-07 00:01:30",
       "album": {
-        "name": "19 & Dangerous",
-        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
+        "name": "The Year I Turned 21",
+        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
       },
       "artists": [
         {
@@ -224,13 +224,13 @@
           "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         },
         {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 208500,
-      "name": "Beggie Beggie",
-      "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
+      "duration_ms": 163114,
+      "name": "Goodbye (Warm Up)(feat. Asake)",
+      "url": "https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB"
     },
     {
       "added_at": "2026-08-07 00:01:30",
@@ -303,8 +303,8 @@
     {
       "added_at": "2026-08-07 00:01:30",
       "album": {
-        "name": "The Year I Turned 21",
-        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
+        "name": "19 & Dangerous",
+        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
       "artists": [
         {
@@ -312,13 +312,13 @@
           "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         },
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 163114,
-      "name": "Goodbye (Warm Up)(feat. Asake)",
-      "url": "https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB"
+      "duration_ms": 208500,
+      "name": "Beggie Beggie",
+      "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
     },
     {
       "added_at": "2026-08-07 00:01:30",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-08-07 00:01:30",
       "album": {
-        "name": "BAD GIRL",
-        "url": "https://open.spotify.com/album/1R2WMCImWOIUOqh599TORo"
-      },
-      "artists": [
-        {
-          "name": "Mckay",
-          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
-        }
-      ],
-      "duration_ms": 166624,
-      "name": "BAD GIRL",
-      "url": "https://open.spotify.com/track/5zQZDxmfSGutv2RG1x57Xb"
-    },
-    {
-      "added_at": "2026-08-07 00:01:30",
-      "album": {
         "name": "Breaking The Yoke Of Love",
         "url": "https://open.spotify.com/album/2gFTRUI821BCGGx2VNy3w6"
       },
@@ -803,6 +787,22 @@
     {
       "added_at": "2026-08-07 00:01:30",
       "album": {
+        "name": "BITTERSWEET",
+        "url": "https://open.spotify.com/album/0qdBkeGB93wyaVMSkDNZqT"
+      },
+      "artists": [
+        {
+          "name": "Mckay",
+          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "HOPE YOU HAPPY",
+      "url": "https://open.spotify.com/track/1tNcAolwSKvTrTpRSpSJBs"
+    },
+    {
+      "added_at": "2026-08-07 00:01:30",
+      "album": {
         "name": "Bad To Me",
         "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
       },
@@ -835,18 +835,18 @@
     {
       "added_at": "2026-08-07 00:01:30",
       "album": {
-        "name": "BITTERSWEET",
-        "url": "https://open.spotify.com/album/0qdBkeGB93wyaVMSkDNZqT"
+        "name": "Must Have Been",
+        "url": "https://open.spotify.com/album/6R5XHfGugWX5i0X6BkD5vr"
       },
       "artists": [
         {
-          "name": "Mckay",
-          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
+          "name": "TAR1Q",
+          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
         }
       ],
-      "duration_ms": 166000,
-      "name": "HOPE YOU HAPPY",
-      "url": "https://open.spotify.com/track/1tNcAolwSKvTrTpRSpSJBs"
+      "duration_ms": 156320,
+      "name": "Must Have Been",
+      "url": "https://open.spotify.com/track/36FTrsF2c7s1Cwt46Wij7U"
     },
     {
       "added_at": "2026-08-07 00:01:30",
@@ -867,18 +867,18 @@
     {
       "added_at": "2026-08-07 00:01:30",
       "album": {
-        "name": "Must Have Been",
-        "url": "https://open.spotify.com/album/6R5XHfGugWX5i0X6BkD5vr"
+        "name": "BAD GIRL",
+        "url": "https://open.spotify.com/album/1R2WMCImWOIUOqh599TORo"
       },
       "artists": [
         {
-          "name": "TAR1Q",
-          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+          "name": "Mckay",
+          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
         }
       ],
-      "duration_ms": 156320,
-      "name": "Must Have Been",
-      "url": "https://open.spotify.com/track/36FTrsF2c7s1Cwt46Wij7U"
+      "duration_ms": 166624,
+      "name": "BAD GIRL",
+      "url": "https://open.spotify.com/track/5zQZDxmfSGutv2RG1x57Xb"
     },
     {
       "added_at": "2026-08-07 00:01:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Fana Hues
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118,787 likes - 275 songs - 14 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,118,756 likes - 275 songs - 14 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

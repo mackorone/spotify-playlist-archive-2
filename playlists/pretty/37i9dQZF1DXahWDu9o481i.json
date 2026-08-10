@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: MILLENNIUM PARADE",
-  "num_followers": 110487,
+  "num_followers": 110490,
   "original_name": "Editors' Picks: Best Songs of July",
   "owner": {
     "name": "Spotify",
@@ -163,26 +163,6 @@
     {
       "added_at": "2026-08-03 13:46:27",
       "album": {
-        "name": "Burn It Down (feat. Leon Bridges)",
-        "url": "https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 251032,
-      "name": "Burn it Down (feat. Leon Bridges)",
-      "url": "https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF"
-    },
-    {
-      "added_at": "2026-08-03 13:46:27",
-      "album": {
         "name": "WannaCry",
         "url": "https://open.spotify.com/album/7FLJw9LUKwmtGREi55tWfJ"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 219367,
       "name": "WannaCry",
       "url": "https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi"
+    },
+    {
+      "added_at": "2026-08-03 13:46:27",
+      "album": {
+        "name": "Burn It Down (feat. Leon Bridges)",
+        "url": "https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 251032,
+      "name": "Burn it Down (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF"
     },
     {
       "added_at": "2026-08-03 13:46:27",
@@ -255,6 +255,22 @@
       "duration_ms": 159493,
       "name": "Reach Out",
       "url": "https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa"
+    },
+    {
+      "added_at": "2026-08-03 13:46:27",
+      "album": {
+        "name": "Twiggy",
+        "url": "https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 209258,
+      "name": "Twiggy",
+      "url": "https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G"
     },
     {
       "added_at": "2026-08-03 13:46:27",
@@ -319,38 +335,6 @@
     {
       "added_at": "2026-08-03 13:46:27",
       "album": {
-        "name": "The Plot In You",
-        "url": "https://open.spotify.com/album/6PJzcqwj8n19g9cdDWRiTf"
-      },
-      "artists": [
-        {
-          "name": "The Plot In You",
-          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
-        }
-      ],
-      "duration_ms": 198595,
-      "name": "Carved",
-      "url": "https://open.spotify.com/track/6UwSqLdmUrD0DGp0D21Lpq"
-    },
-    {
-      "added_at": "2026-08-03 13:46:27",
-      "album": {
-        "name": "Twiggy",
-        "url": "https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 209258,
-      "name": "Twiggy",
-      "url": "https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G"
-    },
-    {
-      "added_at": "2026-08-03 13:46:27",
-      "album": {
         "name": "Celosa",
         "url": "https://open.spotify.com/album/5db1fh77jg5k3UO2JYdCUc"
       },
@@ -367,18 +351,38 @@
     {
       "added_at": "2026-08-03 13:46:27",
       "album": {
-        "name": "PALETA",
-        "url": "https://open.spotify.com/album/5XbgmPegvInyYKB2Ju76ID"
+        "name": "The Plot In You",
+        "url": "https://open.spotify.com/album/6PJzcqwj8n19g9cdDWRiTf"
       },
       "artists": [
         {
-          "name": "rommulas",
-          "url": "https://open.spotify.com/artist/4QsDoxai6urbmrML19OYa3"
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
         }
       ],
-      "duration_ms": 88421,
-      "name": "PALETA",
-      "url": "https://open.spotify.com/track/4C1wgr96INpecKLtaTirlw"
+      "duration_ms": 198595,
+      "name": "Carved",
+      "url": "https://open.spotify.com/track/6UwSqLdmUrD0DGp0D21Lpq"
+    },
+    {
+      "added_at": "2026-08-03 18:04:25",
+      "album": {
+        "name": "Overthink (feat. Elmiene)",
+        "url": "https://open.spotify.com/album/6eAsTdKN52xg1GVY7cS6zJ"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 207082,
+      "name": "Overthink (feat. Elmiene)",
+      "url": "https://open.spotify.com/track/1MOz16OdpnPYn9gneKxAio"
     },
     {
       "added_at": "2026-08-03 13:46:27",
@@ -403,6 +407,22 @@
     {
       "added_at": "2026-08-03 13:46:27",
       "album": {
+        "name": "PALETA",
+        "url": "https://open.spotify.com/album/5XbgmPegvInyYKB2Ju76ID"
+      },
+      "artists": [
+        {
+          "name": "rommulas",
+          "url": "https://open.spotify.com/artist/4QsDoxai6urbmrML19OYa3"
+        }
+      ],
+      "duration_ms": 88421,
+      "name": "PALETA",
+      "url": "https://open.spotify.com/track/4C1wgr96INpecKLtaTirlw"
+    },
+    {
+      "added_at": "2026-08-03 13:46:27",
+      "album": {
         "name": "A Stranger To You",
         "url": "https://open.spotify.com/album/6cIaFWlRULnxMrYsiRnBXv"
       },
@@ -423,22 +443,6 @@
     {
       "added_at": "2026-08-03 13:46:27",
       "album": {
-        "name": "I Feel Hope Coming",
-        "url": "https://open.spotify.com/album/1lnUiFfaZhH6YHZpeWzyBZ"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 311686,
-      "name": "I Feel Hope Coming",
-      "url": "https://open.spotify.com/track/6yFkQeeTv3DDhTQynN2WVV"
-    },
-    {
-      "added_at": "2026-08-03 13:46:27",
-      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/4Ot2EAeM6AWOYMrnba7amz"
       },
@@ -453,24 +457,20 @@
       "url": "https://open.spotify.com/track/6iXIvHGsLMJ89TuW1S9E3C"
     },
     {
-      "added_at": "2026-08-03 18:04:25",
+      "added_at": "2026-08-03 13:46:27",
       "album": {
-        "name": "Overthink (feat. Elmiene)",
-        "url": "https://open.spotify.com/album/6eAsTdKN52xg1GVY7cS6zJ"
+        "name": "I Feel Hope Coming",
+        "url": "https://open.spotify.com/album/1lnUiFfaZhH6YHZpeWzyBZ"
       },
       "artists": [
         {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 207082,
-      "name": "Overthink (feat. Elmiene)",
-      "url": "https://open.spotify.com/track/1MOz16OdpnPYn9gneKxAio"
+      "duration_ms": 311686,
+      "name": "I Feel Hope Coming",
+      "url": "https://open.spotify.com/track/6yFkQeeTv3DDhTQynN2WVV"
     },
     {
       "added_at": "2026-08-03 13:46:27",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-08-03 13:46:27",
       "album": {
-        "name": "BESITO",
-        "url": "https://open.spotify.com/album/43WGkYXN5ZQE3i8wvk7qqa"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 179720,
-      "name": "BESITO",
-      "url": "https://open.spotify.com/track/389oMzXEijK20cCw6pFfYl"
-    },
-    {
-      "added_at": "2026-08-03 13:46:27",
-      "album": {
         "name": "Lovesweet",
         "url": "https://open.spotify.com/album/6N28jc2uCBf2mswIramLRa"
       },
@@ -571,38 +555,34 @@
     {
       "added_at": "2026-08-03 13:46:27",
       "album": {
-        "name": "Moonlight / Clean Run",
-        "url": "https://open.spotify.com/album/7sT3iGUGe8PLZiYkp46TA1"
+        "name": "BESITO",
+        "url": "https://open.spotify.com/album/43WGkYXN5ZQE3i8wvk7qqa"
       },
       "artists": [
         {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
         }
       ],
-      "duration_ms": 200477,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/2fQpJcpE7EoVLVi7qoRcwQ"
+      "duration_ms": 179720,
+      "name": "BESITO",
+      "url": "https://open.spotify.com/track/389oMzXEijK20cCw6pFfYl"
     },
     {
       "added_at": "2026-08-03 13:46:27",
       "album": {
-        "name": "Get Me Down (feat. Jorja Smith)",
-        "url": "https://open.spotify.com/album/7jtKstOvFpbqMAZzV5hDjC"
+        "name": "PEYOTE",
+        "url": "https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl"
       },
       "artists": [
         {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
         }
       ],
-      "duration_ms": 194038,
-      "name": "Get Me Down (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/3b1YokXcQXYM5xH97Dp7UU"
+      "duration_ms": 187438,
+      "name": "The Art Of Letting Go",
+      "url": "https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F"
     },
     {
       "added_at": "2026-08-03 13:46:27",
@@ -627,22 +607,6 @@
     {
       "added_at": "2026-08-03 13:46:27",
       "album": {
-        "name": "PEYOTE",
-        "url": "https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 187438,
-      "name": "The Art Of Letting Go",
-      "url": "https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F"
-    },
-    {
-      "added_at": "2026-08-03 13:46:27",
-      "album": {
         "name": "Whisper To Me",
         "url": "https://open.spotify.com/album/45wZrMoCQ7BF8UhdedUwNv"
       },
@@ -659,6 +623,42 @@
       "duration_ms": 226896,
       "name": "Whisper To Me",
       "url": "https://open.spotify.com/track/4fJj5d2sms5UUsFyvrNjwr"
+    },
+    {
+      "added_at": "2026-08-03 13:46:27",
+      "album": {
+        "name": "Get Me Down (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/7jtKstOvFpbqMAZzV5hDjC"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 194038,
+      "name": "Get Me Down (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/3b1YokXcQXYM5xH97Dp7UU"
+    },
+    {
+      "added_at": "2026-08-03 13:46:27",
+      "album": {
+        "name": "Moonlight / Clean Run",
+        "url": "https://open.spotify.com/album/7sT3iGUGe8PLZiYkp46TA1"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "duration_ms": 200477,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2fQpJcpE7EoVLVi7qoRcwQ"
     },
     {
       "added_at": "2026-08-03 13:46:27",
@@ -759,6 +759,26 @@
       "duration_ms": 165652,
       "name": "what u want",
       "url": "https://open.spotify.com/track/68icwERFCZaV107eHjqt77"
+    },
+    {
+      "added_at": "2026-08-03 13:46:27",
+      "album": {
+        "name": "Bajo Cero",
+        "url": "https://open.spotify.com/album/2zGuFILxHQ0516trrslslS"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Bajo Cero",
+      "url": "https://open.spotify.com/track/4A0bSbxQF8IpjByg3Rpw9o"
     },
     {
       "added_at": "2026-08-03 13:46:27",
@@ -867,26 +887,6 @@
     {
       "added_at": "2026-08-03 13:46:27",
       "album": {
-        "name": "Bajo Cero",
-        "url": "https://open.spotify.com/album/2zGuFILxHQ0516trrslslS"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Bajo Cero",
-      "url": "https://open.spotify.com/track/4A0bSbxQF8IpjByg3Rpw9o"
-    },
-    {
-      "added_at": "2026-08-03 13:46:27",
-      "album": {
         "name": "Sweet n\u2019 Sour",
         "url": "https://open.spotify.com/album/06KkMtJIZ5bUGYjZjJmAOh"
       },
@@ -935,18 +935,18 @@
     {
       "added_at": "2026-08-03 13:46:27",
       "album": {
-        "name": "Something To Be Said",
-        "url": "https://open.spotify.com/album/6UAShNdh8fmXnX0pHUTD3o"
+        "name": "its not about me!",
+        "url": "https://open.spotify.com/album/3EcqQco9MASQejGgqBGGAu"
       },
       "artists": [
         {
-          "name": "Saint Clair",
-          "url": "https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw"
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
         }
       ],
-      "duration_ms": 213688,
-      "name": "Something To Be Said",
-      "url": "https://open.spotify.com/track/3mlG7ROtnYEYhUiHw9fIYG"
+      "duration_ms": 171392,
+      "name": "its not about me!",
+      "url": "https://open.spotify.com/track/02UI5paChJe2PHsi0nikly"
     },
     {
       "added_at": "2026-08-03 13:46:27",
@@ -967,18 +967,18 @@
     {
       "added_at": "2026-08-03 13:46:27",
       "album": {
-        "name": "Q: From Where Do Our Primal Instincts Originate? A: MTV!",
-        "url": "https://open.spotify.com/album/5TIQ4cukqmnsi2hzVhwlO0"
+        "name": "Something To Be Said",
+        "url": "https://open.spotify.com/album/6UAShNdh8fmXnX0pHUTD3o"
       },
       "artists": [
         {
-          "name": "Portraits Of Tracy",
-          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
+          "name": "Saint Clair",
+          "url": "https://open.spotify.com/artist/79T09chv3YznpSxUAaAiAw"
         }
       ],
-      "duration_ms": 234840,
-      "name": "Royal Courts (Great Misfortune)",
-      "url": "https://open.spotify.com/track/2dnaSoyIqAulyklbaj8d9d"
+      "duration_ms": 213688,
+      "name": "Something To Be Said",
+      "url": "https://open.spotify.com/track/3mlG7ROtnYEYhUiHw9fIYG"
     },
     {
       "added_at": "2026-08-03 13:46:27",
@@ -999,18 +999,18 @@
     {
       "added_at": "2026-08-03 13:46:27",
       "album": {
-        "name": "its not about me!",
-        "url": "https://open.spotify.com/album/3EcqQco9MASQejGgqBGGAu"
+        "name": "Q: From Where Do Our Primal Instincts Originate? A: MTV!",
+        "url": "https://open.spotify.com/album/5TIQ4cukqmnsi2hzVhwlO0"
       },
       "artists": [
         {
-          "name": "Jahson Paynter",
-          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+          "name": "Portraits Of Tracy",
+          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
         }
       ],
-      "duration_ms": 171392,
-      "name": "its not about me!",
-      "url": "https://open.spotify.com/track/02UI5paChJe2PHsi0nikly"
+      "duration_ms": 234840,
+      "name": "Royal Courts (Great Misfortune)",
+      "url": "https://open.spotify.com/track/2dnaSoyIqAulyklbaj8d9d"
     },
     {
       "added_at": "2026-08-03 13:46:27",
@@ -1027,22 +1027,6 @@
       "duration_ms": 149994,
       "name": "Darken The Doorway",
       "url": "https://open.spotify.com/track/55jJqk7yaFYSTRZRqhUaqC"
-    },
-    {
-      "added_at": "2026-08-03 13:46:27",
-      "album": {
-        "name": "POWER HOUSE",
-        "url": "https://open.spotify.com/album/5kUUGiBRGfcA8tN0b79Z7h"
-      },
-      "artists": [
-        {
-          "name": "Magi Merlin",
-          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
-        }
-      ],
-      "duration_ms": 192095,
-      "name": "WHIP",
-      "url": "https://open.spotify.com/track/5VSUBxfNbjniBXbK4vjg72"
     },
     {
       "added_at": "2026-08-03 13:46:27",
@@ -1079,6 +1063,22 @@
       "duration_ms": 112992,
       "name": "where 2\u4eba",
       "url": "https://open.spotify.com/track/6eRzqPeVhhHcg6VU4Kstxh"
+    },
+    {
+      "added_at": "2026-08-03 13:46:27",
+      "album": {
+        "name": "POWER HOUSE",
+        "url": "https://open.spotify.com/album/5kUUGiBRGfcA8tN0b79Z7h"
+      },
+      "artists": [
+        {
+          "name": "Magi Merlin",
+          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
+        }
+      ],
+      "duration_ms": 192095,
+      "name": "WHIP",
+      "url": "https://open.spotify.com/track/5VSUBxfNbjniBXbK4vjg72"
     },
     {
       "added_at": "2026-08-03 13:46:27",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-08-03 13:46:27",
       "album": {
+        "name": "SELLOUT",
+        "url": "https://open.spotify.com/album/6kkuP0lBBavB4KlRAMPVwG"
+      },
+      "artists": [
+        {
+          "name": "bodie",
+          "url": "https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC"
+        }
+      ],
+      "duration_ms": 155567,
+      "name": "SELLOUT",
+      "url": "https://open.spotify.com/track/5x8NAB7MbTaxHeuRAcpehp"
+    },
+    {
+      "added_at": "2026-08-03 13:46:27",
+      "album": {
         "name": "Vending Machine Charcuterie Board",
         "url": "https://open.spotify.com/album/6abYB7k5OwCGmsO9EBzAwa"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 421219,
       "name": "My Journey",
       "url": "https://open.spotify.com/track/34R3T6Euc1Lllf1IaHVQXF"
-    },
-    {
-      "added_at": "2026-08-03 13:46:27",
-      "album": {
-        "name": "SELLOUT",
-        "url": "https://open.spotify.com/album/6kkuP0lBBavB4KlRAMPVwG"
-      },
-      "artists": [
-        {
-          "name": "bodie",
-          "url": "https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC"
-        }
-      ],
-      "duration_ms": 155567,
-      "name": "SELLOUT",
-      "url": "https://open.spotify.com/track/5x8NAB7MbTaxHeuRAcpehp"
     },
     {
       "added_at": "2026-08-03 13:46:27",

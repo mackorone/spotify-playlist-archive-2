@@ -88971,6 +88971,24 @@
     },
     {
       "album": {
+        "name": "Love Is All",
+        "url": "https://open.spotify.com/album/4O8ia2VX6kUMs4NiGT3mqV"
+      },
+      "artists": [
+        {
+          "name": "Sondre Lerche",
+          "url": "https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 532189,
+      "name": "Love Is All",
+      "url": "https://open.spotify.com/track/4hKtVS4VUAkNCOUGfcgKK8"
+    },
+    {
+      "album": {
         "name": "Love Is Cruel",
         "url": "https://open.spotify.com/album/2BYbTmMxBbBxP2d7uPTxIo"
       },
@@ -90408,6 +90426,24 @@
       "duration_ms": 160574,
       "name": "LUVAGIRL",
       "url": "https://open.spotify.com/track/4gU4gAb6IMF6LrAfnQdIEG"
+    },
+    {
+      "album": {
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/06F76pN7SoGLRQvdc1TbKw"
+      },
+      "artists": [
+        {
+          "name": "Maria Usbeck",
+          "url": "https://open.spotify.com/artist/16pdeeyke2dzEJXSj0MPft"
+        }
+      ],
+      "date_added": "2026-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310467,
+      "name": "Luz",
+      "url": "https://open.spotify.com/track/1MIp4VW2VxHtDEBbqejE9D"
     },
     {
       "album": {

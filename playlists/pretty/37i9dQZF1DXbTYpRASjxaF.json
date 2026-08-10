@@ -1,6 +1,6 @@
 {
   "description": "copos pro alto, cada um com o seu. Foto: MC Vinny, MC Leozinho ZS, Ryu, the Runner, Bomfino\n",
-  "num_followers": 137179,
+  "num_followers": 137280,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,26 @@
     {
       "added_at": "2026-08-07 14:33:19",
       "album": {
+        "name": "R.U. (Raw & Unfiltered) Vol.1",
+        "url": "https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        }
+      ],
+      "duration_ms": 200314,
+      "name": "Private Chef (feat. MC Morena)",
+      "url": "https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt"
+    },
+    {
+      "added_at": "2026-08-07 14:33:19",
+      "album": {
         "name": "DOIS Quebrada Inteligente",
         "url": "https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY"
       },
@@ -435,26 +455,6 @@
     {
       "added_at": "2026-08-07 14:33:19",
       "album": {
-        "name": "IRREFRE\u00c1VEL",
-        "url": "https://open.spotify.com/album/37GSicVBksghz8FmLvrUiQ"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Brunoso",
-          "url": "https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz"
-        }
-      ],
-      "duration_ms": 131729,
-      "name": "Ainda Sento No Meu Ex",
-      "url": "https://open.spotify.com/track/3TKIKZ6ZNpQrOHmhi1U4P6"
-    },
-    {
-      "added_at": "2026-08-07 14:33:19",
-      "album": {
         "name": "SUA FAVORITA",
         "url": "https://open.spotify.com/album/1307xU8fubUQzLFHRnlJ3e"
       },
@@ -475,6 +475,26 @@
       "duration_ms": 153191,
       "name": "SUA FAVORITA",
       "url": "https://open.spotify.com/track/4M4gvIsQmAZTRyfrFwnkIA"
+    },
+    {
+      "added_at": "2026-08-07 14:33:19",
+      "album": {
+        "name": "IRREFRE\u00c1VEL",
+        "url": "https://open.spotify.com/album/37GSicVBksghz8FmLvrUiQ"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Brunoso",
+          "url": "https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz"
+        }
+      ],
+      "duration_ms": 131729,
+      "name": "Ainda Sento No Meu Ex",
+      "url": "https://open.spotify.com/track/3TKIKZ6ZNpQrOHmhi1U4P6"
     },
     {
       "added_at": "2026-08-07 14:33:19",
@@ -783,34 +803,6 @@
     {
       "added_at": "2026-08-07 14:33:19",
       "album": {
-        "name": "Giro de Gang",
-        "url": "https://open.spotify.com/album/0AuGPauITZ7Sj9VN6SsTqu"
-      },
-      "artists": [
-        {
-          "name": "Bomfino",
-          "url": "https://open.spotify.com/artist/4husm50pr6Alqw34LaHzGl"
-        },
-        {
-          "name": "MC RBL",
-          "url": "https://open.spotify.com/artist/0ZzPhUnRky9vfQp3nGXqy2"
-        },
-        {
-          "name": "MC Vinny",
-          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
-        },
-        {
-          "name": "DJ PADILHA",
-          "url": "https://open.spotify.com/artist/7Lg5dD0Tr4jjAe2EwrG3q9"
-        }
-      ],
-      "duration_ms": 164217,
-      "name": "Giro de Gang",
-      "url": "https://open.spotify.com/track/1fRDjy3Ovdv3prvNFMFJ1b"
-    },
-    {
-      "added_at": "2026-08-07 14:33:19",
-      "album": {
         "name": "Escolhas e Reflexos",
         "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
       },
@@ -843,6 +835,34 @@
       "duration_ms": 248997,
       "name": "Quarto 28",
       "url": "https://open.spotify.com/track/3YgqR2xkM3cfAfaBN9pMLv"
+    },
+    {
+      "added_at": "2026-08-07 14:33:19",
+      "album": {
+        "name": "Giro de Gang",
+        "url": "https://open.spotify.com/album/0AuGPauITZ7Sj9VN6SsTqu"
+      },
+      "artists": [
+        {
+          "name": "Bomfino",
+          "url": "https://open.spotify.com/artist/4husm50pr6Alqw34LaHzGl"
+        },
+        {
+          "name": "MC RBL",
+          "url": "https://open.spotify.com/artist/0ZzPhUnRky9vfQp3nGXqy2"
+        },
+        {
+          "name": "MC Vinny",
+          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
+        },
+        {
+          "name": "DJ PADILHA",
+          "url": "https://open.spotify.com/artist/7Lg5dD0Tr4jjAe2EwrG3q9"
+        }
+      ],
+      "duration_ms": 164217,
+      "name": "Giro de Gang",
+      "url": "https://open.spotify.com/track/1fRDjy3Ovdv3prvNFMFJ1b"
     },
     {
       "added_at": "2026-08-07 14:33:19",
@@ -1131,50 +1151,6 @@
     {
       "added_at": "2026-08-07 14:33:19",
       "album": {
-        "name": "BANDIDO COM BANDIDA",
-        "url": "https://open.spotify.com/album/0FwDR2gJSyI6ltEEzMPPFZ"
-      },
-      "artists": [
-        {
-          "name": "Dpaula",
-          "url": "https://open.spotify.com/artist/21OXt4bahP6ZP1LIRXmpVQ"
-        },
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "Ericoness",
-          "url": "https://open.spotify.com/artist/70G1vJjDzNyGZ6xmm1G584"
-        }
-      ],
-      "duration_ms": 171774,
-      "name": "BANDIDO COM BANDIDA",
-      "url": "https://open.spotify.com/track/6OhoPRkz6McaAkBb01N4GM"
-    },
-    {
-      "added_at": "2026-08-07 14:33:19",
-      "album": {
-        "name": "R.U. (Raw & Unfiltered) Vol.1",
-        "url": "https://open.spotify.com/album/4Q4eiFX8IaMYRoIsVCG9GE"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Mc Morena",
-          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
-        }
-      ],
-      "duration_ms": 200314,
-      "name": "Private Chef (feat. MC Morena)",
-      "url": "https://open.spotify.com/track/3HkVu8yOKHDLCHjGpuYJmt"
-    },
-    {
-      "added_at": "2026-08-07 14:33:19",
-      "album": {
         "name": "Rebola Na Vara",
         "url": "https://open.spotify.com/album/6YDmmUKfUc341SLnyQjy7g"
       },
@@ -1195,6 +1171,30 @@
       "duration_ms": 149684,
       "name": "Rebola Na Vara",
       "url": "https://open.spotify.com/track/1FU24ZYS74ElrWpoJq01kJ"
+    },
+    {
+      "added_at": "2026-08-07 14:33:19",
+      "album": {
+        "name": "BANDIDO COM BANDIDA",
+        "url": "https://open.spotify.com/album/0FwDR2gJSyI6ltEEzMPPFZ"
+      },
+      "artists": [
+        {
+          "name": "Dpaula",
+          "url": "https://open.spotify.com/artist/21OXt4bahP6ZP1LIRXmpVQ"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Ericoness",
+          "url": "https://open.spotify.com/artist/70G1vJjDzNyGZ6xmm1G584"
+        }
+      ],
+      "duration_ms": 171774,
+      "name": "BANDIDO COM BANDIDA",
+      "url": "https://open.spotify.com/track/6OhoPRkz6McaAkBb01N4GM"
     },
     {
       "added_at": "2026-08-07 14:33:19",
@@ -1227,30 +1227,6 @@
     {
       "added_at": "2026-08-07 14:33:19",
       "album": {
-        "name": "Atemporal",
-        "url": "https://open.spotify.com/album/4jVbhRMai46SmT4c9a33VD"
-      },
-      "artists": [
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "yollirum",
-          "url": "https://open.spotify.com/artist/0F2vZlpAdReNx0BnLQslPq"
-        },
-        {
-          "name": "Zairon",
-          "url": "https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B"
-        }
-      ],
-      "duration_ms": 133064,
-      "name": "Atemporal",
-      "url": "https://open.spotify.com/track/38AHdqDWceFNMeSuU0TxiE"
-    },
-    {
-      "added_at": "2026-08-07 14:33:19",
-      "album": {
         "name": "In\u00fatil",
         "url": "https://open.spotify.com/album/0wa8RlIicoS5JdpyA60GmG"
       },
@@ -1275,6 +1251,30 @@
       "duration_ms": 174867,
       "name": "In\u00fatil",
       "url": "https://open.spotify.com/track/3McdMPShOzbysLvMIreGaq"
+    },
+    {
+      "added_at": "2026-08-07 14:33:19",
+      "album": {
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/4jVbhRMai46SmT4c9a33VD"
+      },
+      "artists": [
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "yollirum",
+          "url": "https://open.spotify.com/artist/0F2vZlpAdReNx0BnLQslPq"
+        },
+        {
+          "name": "Zairon",
+          "url": "https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B"
+        }
+      ],
+      "duration_ms": 133064,
+      "name": "Atemporal",
+      "url": "https://open.spotify.com/track/38AHdqDWceFNMeSuU0TxiE"
     },
     {
       "added_at": "2026-08-07 14:33:19",

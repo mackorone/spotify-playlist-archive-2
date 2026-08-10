@@ -1,12 +1,12 @@
 {
   "description": "This is R\u00dcF\u00dcS DU SOL. The essential tracks, all in one playlist.",
-  "num_followers": 502265,
+  "num_followers": 502546,
   "original_name": "This Is R\u00dcF\u00dcS DU SOL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anUgAAAAAACTyCEY+npd/0eCT8mJw/O5",
+  "snapshot_id": "anZxgAAAAABsUWAvXwQNgiJ519sER6dX",
   "tracks": [
     {
       "added_at": null,
@@ -579,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surrender (Remixes)",
-        "url": "https://open.spotify.com/album/73TcBRSRsPLKmxnjnVsSV3"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        },
-        {
-          "name": "Colyn",
-          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
-        }
-      ],
-      "duration_ms": 462978,
-      "name": "Wildfire - Colyn Remix",
-      "url": "https://open.spotify.com/track/6l4DAumg138A324aTQfXUi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Miracle - R\u00dcF\u00dcS DU SOL Remix",
         "url": "https://open.spotify.com/album/0YrIrVXVrpZZM7cjxF8erW"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 503475,
       "name": "Miracle - R\u00dcF\u00dcS DU SOL Remix",
       "url": "https://open.spotify.com/track/2yTjbIZDwHO41HIwDNPB8K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surrender (Remixes)",
+        "url": "https://open.spotify.com/album/73TcBRSRsPLKmxnjnVsSV3"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        },
+        {
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+        }
+      ],
+      "duration_ms": 462978,
+      "name": "Wildfire - Colyn Remix",
+      "url": "https://open.spotify.com/track/6l4DAumg138A324aTQfXUi"
     },
     {
       "added_at": null,

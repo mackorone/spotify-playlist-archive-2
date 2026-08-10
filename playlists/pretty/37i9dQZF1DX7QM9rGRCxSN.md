@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Tristeza latina
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,167 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,169 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 44 | [No Vi Mas Allá](https://open.spotify.com/track/5GZwj712P5AjwwsBGNdoa4) | [no somos lo que fuimos](https://open.spotify.com/artist/0DGmPI6KNfMZHJFf6ePM8A) | [Para Bien / Para Mal, Vol\. 1](https://open.spotify.com/album/0ph7JhSEApz6gCwbeT0eXS) | 4:21 |
 | 45 | [Harakiri Shogun Pt.2](https://open.spotify.com/track/0Gv2BKKQDks4D0OWCptU53) | [Entrelobos](https://open.spotify.com/artist/48DFXshrt8ll6PfYaOcoCJ) | [Golden Boy](https://open.spotify.com/album/4eqQmv2QmIfFjqG7c3mAts) | 3:11 |
 | 46 | [Doctrina](https://open.spotify.com/track/4c28N3w0jxzuYoqk6faW8X) | [Las Armas](https://open.spotify.com/artist/2c8uad9zaUCSYzh2K2QPi7) | [De Lo Espiritual en la Música](https://open.spotify.com/album/4h8oNmAVeEnsXroRRc2ki1) | 2:24 |
-| 47 | [¿Dónde Estás?](https://open.spotify.com/track/0fPKu2W9GKva9hLkab5L5p) | [Local Champion](https://open.spotify.com/artist/1GSe3n9GErzHAaPcn7fXMT) | [Todo Lo Que Siempre Quise Decirte](https://open.spotify.com/album/4ShonKGDpddXlbuTpObnro) | 2:33 |
-| 48 | [Tornado de Acuña](https://open.spotify.com/track/7bITaqPtYc9kRKkK0Krziy) | [Mantarrayas](https://open.spotify.com/artist/3FigwqJilYViW7bgzLk8g1) | [Tornado de Acuña](https://open.spotify.com/album/39byPs7qMGRNyepDn9E1JK) | 2:42 |
+| 47 | [Tornado de Acuña](https://open.spotify.com/track/7bITaqPtYc9kRKkK0Krziy) | [Mantarrayas](https://open.spotify.com/artist/3FigwqJilYViW7bgzLk8g1) | [Tornado de Acuña](https://open.spotify.com/album/39byPs7qMGRNyepDn9E1JK) | 2:42 |
+| 48 | [¿Dónde Estás?](https://open.spotify.com/track/0fPKu2W9GKva9hLkab5L5p) | [Local Champion](https://open.spotify.com/artist/1GSe3n9GErzHAaPcn7fXMT) | [Todo Lo Que Siempre Quise Decirte](https://open.spotify.com/album/4ShonKGDpddXlbuTpObnro) | 2:33 |
 | 49 | [No nos van a callar](https://open.spotify.com/track/3Y56kpqQAS7BflTNUG6mLA) | [Veritas](https://open.spotify.com/artist/43Nm1V8WR2FRJXkKC7KEYP) | [Marinero](https://open.spotify.com/album/1drhNMm9fWNwt94H5o0c6n) | 5:23 |
-| 50 | [Kabuki](https://open.spotify.com/track/4Sf7foZWDZXcsiFCFKIsTC) | [Fiesta Bizarra](https://open.spotify.com/artist/4LJsadS7NTK4pjcXkNu5Zu) | [LaFlor Records Vol\. 1](https://open.spotify.com/album/6BV2gv6qZ37d4gD4eWRygX) | 1:05 |
+| 50 | [3k](https://open.spotify.com/track/1B9QARNqTkzIUosalq7d7g) | [Kumatora](https://open.spotify.com/artist/22c7RZg1HnmhTs96YEJLYs) | [lo único incómodo \(es\) que nos vamos a encontrar](https://open.spotify.com/album/5QKRBZ05aG8NOQIqsz0oPx) | 1:44 |
 
 Snapshot ID: `AAAAAM6qpZpKRjSj8+l6Oiv32QdR/JB4`

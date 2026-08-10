@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,607 songs - 10 day 7 hr 40 min
+4,610 songs - 10 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [Before You Go](https://open.spotify.com/track/6fJSmvkj8MpJVlITbmag8W) | [Ties to Fear](https://open.spotify.com/artist/5wy3EF3XnsNwyRj39dfphK) | [Before You Go](https://open.spotify.com/album/7iCiTTEQRa2EnJYAUpsmOg) | 2:43 | 2025-05-13 |  |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2023-01-19 |  |
 | [Bela Lugosi's Tanz](https://open.spotify.com/track/2YkB2VacjEnt5RfFomjznp) | [Bobby Joe Long's Friendship Party](https://open.spotify.com/artist/5IqtAyaxviHeO9LLZbNAWR) | [Aoh!](https://open.spotify.com/album/5r4U6kY82kKNslHkoTLpcT) | 4:02 | 2025-11-12 |  |
+| [Believe in Me](https://open.spotify.com/track/2l5hnd81j2Yret3BMdlmef) | [Ash](https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff) | [Sincerely, Don](https://open.spotify.com/album/2n3zroFTMzQobzBqhWyuB6) | 2:30 | 2026-08-09 |  |
 | [Believe me](https://open.spotify.com/track/5OTEbscf89tdmjZIsEnxmk) | [La Púa](https://open.spotify.com/artist/3xdGGLdM6K079LzmT4Z5sB) | [Believe me](https://open.spotify.com/album/32V4BnKEwnMr3QmIObawlA) | 2:47 | 2026-06-09 |  |
 | [Bellissima](https://open.spotify.com/track/39jxR2xnmcBbkdPX9oNzsI) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Bellissima](https://open.spotify.com/album/3I7EQQqrQ1kdZBoaNkCdY4) | 3:21 | 2023-01-07 |  |
 | [Bend & Break](https://open.spotify.com/track/3XLXSnc5yVOnqCFB1whDdt) | [Dane Tutty](https://open.spotify.com/artist/29eD0S3LlWtkYrkWE2tWfS), [Chris \#2](https://open.spotify.com/artist/6GVHPKoXvLCDdd2CaaO8Sv) | [Bend & Break](https://open.spotify.com/album/0Vp3pPavLGcjSynxkVqkWC) | 3:30 | 2025-11-04 |  |
@@ -1508,6 +1509,7 @@
 | [Find My Way Back](https://open.spotify.com/track/5lzuRihCWCttE068u0zmoM) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Indie Music Style](https://open.spotify.com/album/5d5v2cAyrOm0sSQd9O8gx6) | 2:42 | 2025-09-19 |  |
 | [Find Your Light](https://open.spotify.com/track/0KTNnhsruSgS4Gyj4sGdTi) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Soulful Music](https://open.spotify.com/album/74KvoKbHt97ryXl7sunKaH) | 2:52 | 2025-09-19 |  |
 | [Find Your Light \(another\)](https://open.spotify.com/track/7pX5Sva5ZwmwWJ9JlB5loW) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Soulful Music](https://open.spotify.com/album/74KvoKbHt97ryXl7sunKaH) | 2:41 | 2025-09-19 |  |
+| [Finding You](https://open.spotify.com/track/5uG4VoobJJyKA4pA4RSxQT) | [Casey Bloom](https://open.spotify.com/artist/3Yp2AG1A20FQbUtNqed1rq) | [Finding You](https://open.spotify.com/album/2TkUMuxxYLbfcZq49BMw1i) | 3:16 | 2026-08-09 |  |
 | [Fine China](https://open.spotify.com/track/4PyJPCfLShMwmLSV4hXgg2) | [Ry](https://open.spotify.com/artist/1HvN4yJu0pbXoRodlrzNKq) | [Fine China](https://open.spotify.com/album/7ph8FJBeme0yCkeyhSANAn) | 2:50 | 2025-08-31 |  |
 | [Fine Finkelstein](https://open.spotify.com/track/7LVYyElp73APGl7qzFarOH) | [Susan Salidor](https://open.spotify.com/artist/1yWG6rEJxrAMdIMhpo4L4C) | [Shiny New Shoes](https://open.spotify.com/album/6L9fw3jeaxuCVIFHpzhXJv) | 3:13 | 2026-01-07 |  |
 | [Finessed](https://open.spotify.com/track/5lj9BWDIr9Nu9WCKUIW5fx) | [yuke](https://open.spotify.com/artist/3gJ7vM5lzXzYuYpnPy9WAL) | [Cheetah World](https://open.spotify.com/album/7hWlhGepPvB5ushvzHrYKT) | 2:10 | 2025-07-28 |  |
@@ -1573,6 +1575,7 @@
 | [Forza picchia duro](https://open.spotify.com/track/6oiTmJ719ahAdfiOIAuWfA) | [Crossover](https://open.spotify.com/artist/4TzD8L3Twv5F5bcVqa4x2E) | [Forza picchia duro](https://open.spotify.com/album/3xk7Z7I7D2i9QkCGuIlm1D) | 4:09 | 2025-03-29 | 2026-08-06 |
 | [Fottuta estate](https://open.spotify.com/track/3UvEMJx2dw58694pbtI9fA) | [Federico Vassallo](https://open.spotify.com/artist/3cpHjskZu895ScK6vkkr5J) | [Fottuta estate](https://open.spotify.com/album/1SWBMlZu3zGjKbfwhO4kyA) | 3:28 | 2025-07-03 |  |
 | [four](https://open.spotify.com/track/73rMth2QZrsngyNdLFxAVJ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Relaxing songs](https://open.spotify.com/album/0vvgdvru0enjJknJVwKloZ) | 5:13 | 2025-08-20 |  |
+| [Four Truths and One Lie](https://open.spotify.com/track/1XemrHeWRlGv3pHOCJ2Srj) | [First Fifty Feet](https://open.spotify.com/artist/4AADJVMfOR93MzDAy5hQC8) | [Four Truths and One Lie](https://open.spotify.com/album/4JpkaVJCMeMqBQjOPmCVi4) | 3:32 | 2026-08-09 |  |
 | [fourteen](https://open.spotify.com/track/5JHVQXie9is8g4AiiCkjwI) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Relaxing songs](https://open.spotify.com/album/0vvgdvru0enjJknJVwKloZ) | 3:33 | 2025-08-20 |  |
 | [Fra](https://open.spotify.com/track/1PbjACsnYy58cp8z4jZtC0) | [Lozì](https://open.spotify.com/artist/0q3SPGeBvqr3ZXhficzgJu) | [Fra](https://open.spotify.com/album/7xO5fVKW1BHsbMoqQblFXu) | 3:43 | 2025-06-01 |  |
 | [Fra i Miei Frames](https://open.spotify.com/track/3vZ3iRrr3UpYBsyp9ZIepq) | [AnnoLuce](https://open.spotify.com/artist/0RAepJjLAqVtjFtufCgL3A) | [Fra i Miei Frames](https://open.spotify.com/album/7c6md6kE26cL6P43b1qUsa) | 2:47 | 2026-02-13 |  |

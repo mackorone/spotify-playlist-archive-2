@@ -1,12 +1,12 @@
 {
   "description": "This is Nightwish. The essential tracks, all in one playlist.",
-  "num_followers": 265938,
+  "num_followers": 265947,
   "original_name": "This Is Nightwish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anUgAAAAAAD03YRJ0BTWbwHlUAvbEhuF",
+  "snapshot_id": "anZxgAAAAABXbHr8/FQPLfCGbCYX2Qpr",
   "tracks": [
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HUMAN. :II: NATURE.",
-        "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
+        "name": "Yesterwynde",
+        "url": "https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 302179,
-      "name": "How's the Heart?",
-      "url": "https://open.spotify.com/track/6lkVbijlh932FSS2I0gDrR"
+      "duration_ms": 492107,
+      "name": "Perfume Of The Timeless",
+      "url": "https://open.spotify.com/track/4UNYF5dLLQ9acbNxenGTpc"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yesterwynde",
-        "url": "https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o"
+        "name": "HUMAN. :II: NATURE.",
+        "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 492107,
-      "name": "Perfume Of The Timeless",
-      "url": "https://open.spotify.com/track/4UNYF5dLLQ9acbNxenGTpc"
+      "duration_ms": 302179,
+      "name": "How's the Heart?",
+      "url": "https://open.spotify.com/track/6lkVbijlh932FSS2I0gDrR"
     },
     {
       "added_at": null,

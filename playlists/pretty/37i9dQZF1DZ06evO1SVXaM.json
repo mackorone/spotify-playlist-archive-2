@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Jackson. The essential tracks, all in one playlist.",
-  "num_followers": 3543515,
+  "num_followers": 3544563,
   "original_name": "This Is Michael Jackson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anUgAAAAAABtNHF2x3hR+/HAIpnPEasD",
+  "snapshot_id": "anZxgAAAAACPACqVz7d6SGEF9ufsFaME",
   "tracks": [
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLOOD ON THE DANCE FLOOR/ HIStory In The Mix",
-        "url": "https://open.spotify.com/album/0RNsFWWdiz1rrdLI1pwbvJ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 313066,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/7s51HyYKRGWqkH1UWnApHh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
         "url": "https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 344185,
       "name": "Stranger in Moscow",
       "url": "https://open.spotify.com/track/64KrFHj9p5AyCX2yZQr4YJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLOOD ON THE DANCE FLOOR/ HIStory In The Mix",
+        "url": "https://open.spotify.com/album/0RNsFWWdiz1rrdLI1pwbvJ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 313066,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/7s51HyYKRGWqkH1UWnApHh"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1803729,
+  "num_followers": 1803920,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Let the Music Play",
+        "url": "https://open.spotify.com/album/1HS8Jkoaa1BweXfJ2hwLcL"
+      },
+      "artists": [
+        {
+          "name": "Shannon",
+          "url": "https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB"
+        }
+      ],
+      "duration_ms": 213824,
+      "name": "Let the Music Play",
+      "url": "https://open.spotify.com/track/6b9hm8mvZ2KH7Fl7LLA5ct"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "One More Love",
         "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 191000,
       "name": "When Love Takes Over (feat. Kelly Rowland)",
       "url": "https://open.spotify.com/track/1hRFVIy9As8OVRk8B7CrD5"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Let the Music Play",
-        "url": "https://open.spotify.com/album/1HS8Jkoaa1BweXfJ2hwLcL"
-      },
-      "artists": [
-        {
-          "name": "Shannon",
-          "url": "https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB"
-        }
-      ],
-      "duration_ms": 213824,
-      "name": "Let the Music Play",
-      "url": "https://open.spotify.com/track/6b9hm8mvZ2KH7Fl7LLA5ct"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Don't Call Me Baby",
-        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
-      },
-      "artists": [
-        {
-          "name": "Madison Avenue",
-          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
-        }
-      ],
-      "duration_ms": 228140,
-      "name": "Don't Call Me Baby",
-      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Empty Streets (Remixes)",
         "url": "https://open.spotify.com/album/1qcfizKVZbdpi61ZSJglyu"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 501213,
       "name": "Empty Streets - Haji & Emanuel Remix",
       "url": "https://open.spotify.com/track/12lTG2CsivVTCJH21qgkVz"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Don't Call Me Baby",
+        "url": "https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7"
+      },
+      "artists": [
+        {
+          "name": "Madison Avenue",
+          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
+        }
+      ],
+      "duration_ms": 228140,
+      "name": "Don't Call Me Baby",
+      "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -747,26 +747,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Girlfriend (2008 Remix)",
-        "url": "https://open.spotify.com/album/78ehClbvFAiT3iJjJrNml9"
-      },
-      "artists": [
-        {
-          "name": "Robbie Rivera",
-          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
-        },
-        {
-          "name": "Keylime",
-          "url": "https://open.spotify.com/artist/0Id47LmcZuneJKiCqlsSJA"
-        }
-      ],
-      "duration_ms": 435986,
-      "name": "Girlfriend - 2008 Remix",
-      "url": "https://open.spotify.com/track/04hY9ZE6jatvZjsu1Q9nPc"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Somewhere (feat. Sarah Lynn)",
         "url": "https://open.spotify.com/album/4VaFDtAeI7PxJoyPreGWjH"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 235866,
       "name": "Somewhere (feat. Sarah Lynn) - Radio Edit",
       "url": "https://open.spotify.com/track/35cYPqBXqob7yitjk4Cx3M"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Girlfriend (2008 Remix)",
+        "url": "https://open.spotify.com/album/78ehClbvFAiT3iJjJrNml9"
+      },
+      "artists": [
+        {
+          "name": "Robbie Rivera",
+          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
+        },
+        {
+          "name": "Keylime",
+          "url": "https://open.spotify.com/artist/0Id47LmcZuneJKiCqlsSJA"
+        }
+      ],
+      "duration_ms": 435986,
+      "name": "Girlfriend - 2008 Remix",
+      "url": "https://open.spotify.com/track/04hY9ZE6jatvZjsu1Q9nPc"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/5EsmdhzhjPlDZDtEH2FFey"
+      },
+      "artists": [
+        {
+          "name": "Kim Leoni",
+          "url": "https://open.spotify.com/artist/5ngBlJ3qFfmBqLm7a9aK8b"
+        }
+      ],
+      "duration_ms": 169893,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/7jI6ZgxuIsMniEf31TaeD9"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Nervous Rewind 2008",
         "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 208360,
       "name": "I Can\u2019t Help Myself (feat. Sophia May) - Radio Edit",
       "url": "https://open.spotify.com/track/6I9eRIQ8ZCNM3VPAqYMgkx"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/5EsmdhzhjPlDZDtEH2FFey"
-      },
-      "artists": [
-        {
-          "name": "Kim Leoni",
-          "url": "https://open.spotify.com/artist/5ngBlJ3qFfmBqLm7a9aK8b"
-        }
-      ],
-      "duration_ms": 169893,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/7jI6ZgxuIsMniEf31TaeD9"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Cry for You",
-        "url": "https://open.spotify.com/album/3E6MKsq5x82lhg7RWXObJD"
-      },
-      "artists": [
-        {
-          "name": "September",
-          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Cry for You",
-      "url": "https://open.spotify.com/track/4s3CHmungRHAI5ho2edqXb"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 177026,
       "name": "Traffic - Radio Edit",
       "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Cry for You",
+        "url": "https://open.spotify.com/album/3E6MKsq5x82lhg7RWXObJD"
+      },
+      "artists": [
+        {
+          "name": "September",
+          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Cry for You",
+      "url": "https://open.spotify.com/track/4s3CHmungRHAI5ho2edqXb"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 443426,
+      "name": "Adagio For Strings",
+      "url": "https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Western Dream",
         "url": "https://open.spotify.com/album/4HLy8ci70oGBja4DAgaCzq"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 401360,
       "name": "World, Hold On",
       "url": "https://open.spotify.com/track/6yeO8fapOJGqL8Hr0Da2l3"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 443426,
-      "name": "Adagio For Strings",
-      "url": "https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Pop Life",
+        "url": "https://open.spotify.com/album/48hy8LYht8Gv9sOp1x7DyF"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 201413,
+      "name": "Love Is Gone - Fred Rister & Joachim Garraud Radio Edit Mix",
+      "url": "https://open.spotify.com/track/4V9HEnprK5MfCGL8bHHy7y"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "The Longest Road",
         "url": "https://open.spotify.com/album/3gAWkt3YKBDuaGWZdV46bt"
       },
@@ -1687,22 +1703,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Pop Life",
-        "url": "https://open.spotify.com/album/48hy8LYht8Gv9sOp1x7DyF"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 201413,
-      "name": "Love Is Gone - Fred Rister & Joachim Garraud Radio Edit Mix",
-      "url": "https://open.spotify.com/track/4V9HEnprK5MfCGL8bHHy7y"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Movements",
         "url": "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
       },
@@ -1715,6 +1715,22 @@
       "duration_ms": 326840,
       "name": "In White Rooms",
       "url": "https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "I Am The Club Rocker",
+        "url": "https://open.spotify.com/album/6aZyOf8v33rs3CJGTctkM6"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "duration_ms": 224533,
+      "name": "Sun Is Up - Play & Win Radio Edit",
+      "url": "https://open.spotify.com/track/6eU60ONpRUQPIOiWaxfWOF"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1735,22 +1751,6 @@
       "duration_ms": 489373,
       "name": "Love Comes Again",
       "url": "https://open.spotify.com/track/4D869p0uPTcU4e1ClLB8Kj"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "I Am The Club Rocker",
-        "url": "https://open.spotify.com/album/6aZyOf8v33rs3CJGTctkM6"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        }
-      ],
-      "duration_ms": 224533,
-      "name": "Sun Is Up - Play & Win Radio Edit",
-      "url": "https://open.spotify.com/track/6eU60ONpRUQPIOiWaxfWOF"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 453146,
-      "name": "Sweet Misery",
-      "url": "https://open.spotify.com/track/5O71Sv4uv46dV9stV8Cujv"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Put Your Hands Up For Detroit",
         "url": "https://open.spotify.com/album/0u8AX0mzDNIeS8y2Xfwye1"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 393333,
       "name": "Put Your Hands Up for Detroit - MC Mario Edit",
       "url": "https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 453146,
+      "name": "Sweet Misery",
+      "url": "https://open.spotify.com/track/5O71Sv4uv46dV9stV8Cujv"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1863,6 +1863,26 @@
       "duration_ms": 392668,
       "name": "Deep Inside",
       "url": "https://open.spotify.com/track/5VQgTkvBQYwdp70bwIdw0s"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "The Sound of Goodbye (Part 2)",
+        "url": "https://open.spotify.com/album/1zeeCufb1Zo17cWRXBSDmP"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Perpetuous Dreamer",
+          "url": "https://open.spotify.com/artist/1J4lVvwCqmAwOJ5kqKamBy"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "The Sound of Goodbye - Above & Beyond UK Edit",
+      "url": "https://open.spotify.com/track/3dXfF5w0an6cNZwVjLhHa0"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -2063,26 +2083,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "The Sound of Goodbye (Part 2)",
-        "url": "https://open.spotify.com/album/1zeeCufb1Zo17cWRXBSDmP"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Perpetuous Dreamer",
-          "url": "https://open.spotify.com/artist/1J4lVvwCqmAwOJ5kqKamBy"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "The Sound of Goodbye - Above & Beyond UK Edit",
-      "url": "https://open.spotify.com/track/3dXfF5w0an6cNZwVjLhHa0"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Release Me",
         "url": "https://open.spotify.com/album/3cFLgIF55Q6vG7eSInoH8b"
       },
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Heartbreak",
-        "url": "https://open.spotify.com/album/2Fn9AUKeLQFo1lLfpNe2m7"
-      },
-      "artists": [
-        {
-          "name": "M'Black",
-          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "Heartbreak - Radio Edit",
-      "url": "https://open.spotify.com/track/6fehhZGfpzXQLoRCUjE463"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Another Place",
         "url": "https://open.spotify.com/album/3mGGdn4qdx5tKnxKy55XBw"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 216573,
       "name": "Another Place - Radio Edit",
       "url": "https://open.spotify.com/track/1PJaIi4b7JV4QhBy6Obqoy"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Heartbreak",
+        "url": "https://open.spotify.com/album/2Fn9AUKeLQFo1lLfpNe2m7"
+      },
+      "artists": [
+        {
+          "name": "M'Black",
+          "url": "https://open.spotify.com/artist/7lP0OS529IoZa7snkuvt1E"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "Heartbreak - Radio Edit",
+      "url": "https://open.spotify.com/track/6fehhZGfpzXQLoRCUjE463"
     },
     {
       "added_at": "2024-07-12 15:40:20",

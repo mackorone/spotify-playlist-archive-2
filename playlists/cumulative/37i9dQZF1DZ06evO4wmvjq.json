@@ -1975,6 +1975,24 @@
     },
     {
       "album": {
+        "name": "TROPICAL ESCAPE riddim",
+        "url": "https://open.spotify.com/album/1AencwAAJl9a5xjIllNiZB"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174482,
+      "name": "GIMME LIKKLE ONE DROP",
+      "url": "https://open.spotify.com/track/3VUsvV12pqwrdqkpKooFS6"
+    },
+    {
+      "album": {
         "name": "Banana Humberto",
         "url": "https://open.spotify.com/album/4F8QZyltxqZJXe7UtvWGBY"
       },
@@ -3556,7 +3574,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 2388746,
       "name": "Poppy Nogood and the Phantom Band All Night Flight: SUNY Buffalo, New York, 22 March 1968",
       "url": "https://open.spotify.com/track/4dDdGh1VQTPYLm2bLl4M5m"

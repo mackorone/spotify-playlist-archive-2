@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:5f7VJjfbwm532GiveGC0ZK">Lil Baby</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,146,162 likes - 157 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,146,180 likes - 157 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

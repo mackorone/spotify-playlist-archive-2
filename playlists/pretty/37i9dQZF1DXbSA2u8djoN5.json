@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop & R'n'B. Cover: Cabron",
-  "num_followers": 23490,
+  "num_followers": 23494,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -775,18 +775,22 @@
     {
       "added_at": "2026-07-30 21:00:21",
       "album": {
-        "name": "MAROC",
-        "url": "https://open.spotify.com/album/2SWazH4hYRDoeNRYSkrCwe"
+        "name": "Ani \u0218i Ani La R\u00e2nd",
+        "url": "https://open.spotify.com/album/7lCD0Y24nvG623iKmVIPUV"
       },
       "artists": [
         {
-          "name": "Vali Miron",
-          "url": "https://open.spotify.com/artist/1ojOFDojdgukpkEF7L1opU"
+          "name": "Cabron",
+          "url": "https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF"
+        },
+        {
+          "name": "Ciresan",
+          "url": "https://open.spotify.com/artist/0Mj28B7EnKRpq7SzirqvNy"
         }
       ],
-      "duration_ms": 140625,
-      "name": "MAROC",
-      "url": "https://open.spotify.com/track/09ePeeqELKQhxRPED0Fakf"
+      "duration_ms": 200610,
+      "name": "Ani \u0218i Ani La R\u00e2nd",
+      "url": "https://open.spotify.com/track/1QFiWgUF28Gd05gshJgmae"
     },
     {
       "added_at": "2026-07-30 21:00:21",
@@ -807,22 +811,18 @@
     {
       "added_at": "2026-07-30 21:00:21",
       "album": {
-        "name": "Ani \u0218i Ani La R\u00e2nd",
-        "url": "https://open.spotify.com/album/7lCD0Y24nvG623iKmVIPUV"
+        "name": "MAROC",
+        "url": "https://open.spotify.com/album/2SWazH4hYRDoeNRYSkrCwe"
       },
       "artists": [
         {
-          "name": "Cabron",
-          "url": "https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF"
-        },
-        {
-          "name": "Ciresan",
-          "url": "https://open.spotify.com/artist/0Mj28B7EnKRpq7SzirqvNy"
+          "name": "Vali Miron",
+          "url": "https://open.spotify.com/artist/1ojOFDojdgukpkEF7L1opU"
         }
       ],
-      "duration_ms": 200610,
-      "name": "Ani \u0218i Ani La R\u00e2nd",
-      "url": "https://open.spotify.com/track/1QFiWgUF28Gd05gshJgmae"
+      "duration_ms": 140625,
+      "name": "MAROC",
+      "url": "https://open.spotify.com/track/09ePeeqELKQhxRPED0Fakf"
     },
     {
       "added_at": "2026-07-30 21:00:21",
@@ -903,26 +903,6 @@
     {
       "added_at": "2026-07-30 21:00:21",
       "album": {
-        "name": "Copiii Care Am Fost",
-        "url": "https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT"
-      },
-      "artists": [
-        {
-          "name": "Calinacho",
-          "url": "https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3"
-        },
-        {
-          "name": "Bastien",
-          "url": "https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Copiii Care Am Fost",
-      "url": "https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz"
-    },
-    {
-      "added_at": "2026-07-30 21:00:21",
-      "album": {
         "name": "Corina",
         "url": "https://open.spotify.com/album/5MX0exAUTVQQ7gbctilaUi"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 221250,
       "name": "Corina",
       "url": "https://open.spotify.com/track/2XQKtN6XwzVBYqJdtjn4zD"
+    },
+    {
+      "added_at": "2026-07-30 21:00:21",
+      "album": {
+        "name": "Copiii Care Am Fost",
+        "url": "https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT"
+      },
+      "artists": [
+        {
+          "name": "Calinacho",
+          "url": "https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3"
+        },
+        {
+          "name": "Bastien",
+          "url": "https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Copiii Care Am Fost",
+      "url": "https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz"
     },
     {
       "added_at": "2026-07-30 21:00:21",

@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Sierra Ferrell
 
-1,775 songs - 4 day 10 hr 51 min
+1,776 songs - 4 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -848,6 +848,7 @@
 | [lagunas](https://open.spotify.com/track/4lB3bD59ItctK9ii4Thy3y) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [lagunas](https://open.spotify.com/album/1pCNxr8UOeAaWuJ67ZFsfx) | 3:39 | 2023-12-22 | 2024-04-06 |
 | [Lake Effect](https://open.spotify.com/track/1V57OlQHsUEePM47rxYjxQ) | [Darryl Rahn](https://open.spotify.com/artist/2eogPRB3PTDU7KOd99s4UA) | [Lake Effect](https://open.spotify.com/album/5M2Qm6miL0fBOSlaYQE3y6) | 3:16 | 2026-02-20 | 2026-05-30 |
 | [Landmines](https://open.spotify.com/track/1CiX4g0K5Qk5EeVVxCA5IL) | [John Shambles](https://open.spotify.com/artist/06I4xBSxNsS6WHTINcKEwl) | [Landmines](https://open.spotify.com/album/7LBc1RMD3yp4H2CJPK4mOZ) | 3:31 | 2025-12-05 | 2026-04-25 |
+| [Lasagna](https://open.spotify.com/track/2DzOQpMF0FK94VYNMp5dLD) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Three Reds](https://open.spotify.com/album/1TORmjib416bF532Zsd0rL) | 3:32 | 2026-07-17 |  |
 | [last woman on earth](https://open.spotify.com/track/79UlPlMXGqCHfxDUJ4dPB2) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Cacophony](https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH) | 4:19 | 2024-08-30 | 2024-11-16 |
 | [Lately](https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 3:30 | 2023-07-07 | 2023-12-16 |
 | [Lay All Your Love On Me](https://open.spotify.com/track/3CcQQCFlLhmlTBkAcbaZga) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Lay All Your Love On Me](https://open.spotify.com/album/7o4JnK2qh0hioNCSBOXNA1) | 3:33 | 2025-09-19 | 2025-11-29 |

@@ -1,6 +1,6 @@
 {
   "description": "Sommerferien, Eis in der Hand und ganz viel Badespa\u00df!",
-  "num_followers": 61487,
+  "num_followers": 61497,
   "original_name": "Familienzeit: Sommer",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2026-08-06 22:01:06",
       "album": {
+        "name": "Das Album - Rock'n'Rarrr Music",
+        "url": "https://open.spotify.com/album/2eFaTolnyk33kTBPNnHHmu"
+      },
+      "artists": [
+        {
+          "name": "Heavysaurus",
+          "url": "https://open.spotify.com/artist/6uyCfgv8FWIc2mifriVXqw"
+        }
+      ],
+      "duration_ms": 252426,
+      "name": "Kaugummi ist mega!",
+      "url": "https://open.spotify.com/track/5vUEVVoVhN1sP60GBvlOEr"
+    },
+    {
+      "added_at": "2026-08-06 22:01:06",
+      "album": {
         "name": "Giraffenaffen 3",
         "url": "https://open.spotify.com/album/5VZGaclaVcOskXydrnfbRd"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 187560,
       "name": "Unter dem Meer",
       "url": "https://open.spotify.com/track/1TGdhVJgT8iWOPu9QjyXzF"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Das Album - Rock'n'Rarrr Music",
-        "url": "https://open.spotify.com/album/2eFaTolnyk33kTBPNnHHmu"
-      },
-      "artists": [
-        {
-          "name": "Heavysaurus",
-          "url": "https://open.spotify.com/artist/6uyCfgv8FWIc2mifriVXqw"
-        }
-      ],
-      "duration_ms": 252426,
-      "name": "Kaugummi ist mega!",
-      "url": "https://open.spotify.com/track/5vUEVVoVhN1sP60GBvlOEr"
     },
     {
       "added_at": "2026-08-06 22:01:06",
@@ -387,26 +387,18 @@
     {
       "added_at": "2026-08-06 22:01:06",
       "album": {
-        "name": "Die 30 besten Urlaubs- und Sommerlieder",
-        "url": "https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6"
+        "name": "Fr\u00fchjahrsputz auf dem singenden Bauernhof",
+        "url": "https://open.spotify.com/album/2AA9MIW7BgHuToNsFCrCmN"
       },
       "artists": [
         {
-          "name": "Simone Sommerland",
-          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
-        },
-        {
-          "name": "Karsten Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
-        },
-        {
-          "name": "Die Kita-Fr\u00f6sche",
-          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
+          "name": "Der singende Bauernhof",
+          "url": "https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo"
         }
       ],
-      "duration_ms": 186059,
-      "name": "Wenn der Sommer kommt",
-      "url": "https://open.spotify.com/track/5Nhu3X0j2OLbYHLWWKfVGA"
+      "duration_ms": 118532,
+      "name": "No Problama",
+      "url": "https://open.spotify.com/track/1baMW3mcV1KzQ89lZrNkaC"
     },
     {
       "added_at": "2026-08-06 22:01:06",
@@ -431,18 +423,26 @@
     {
       "added_at": "2026-08-06 22:01:06",
       "album": {
-        "name": "Fr\u00fchjahrsputz auf dem singenden Bauernhof",
-        "url": "https://open.spotify.com/album/2AA9MIW7BgHuToNsFCrCmN"
+        "name": "Die 30 besten Urlaubs- und Sommerlieder",
+        "url": "https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6"
       },
       "artists": [
         {
-          "name": "Der singende Bauernhof",
-          "url": "https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo"
+          "name": "Simone Sommerland",
+          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
+        },
+        {
+          "name": "Karsten Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
+        },
+        {
+          "name": "Die Kita-Fr\u00f6sche",
+          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
         }
       ],
-      "duration_ms": 118532,
-      "name": "No Problama",
-      "url": "https://open.spotify.com/track/1baMW3mcV1KzQ89lZrNkaC"
+      "duration_ms": 186059,
+      "name": "Wenn der Sommer kommt",
+      "url": "https://open.spotify.com/track/5Nhu3X0j2OLbYHLWWKfVGA"
     },
     {
       "added_at": "2026-08-06 22:01:06",
@@ -483,26 +483,26 @@
     {
       "added_at": "2026-08-06 22:01:06",
       "album": {
-        "name": "Die 30 besten Urlaubs- und Sommerlieder",
-        "url": "https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6"
+        "name": "Mango, Kiwi, Banana",
+        "url": "https://open.spotify.com/album/6avDE4P9mCFoERV1V4P8ee"
       },
       "artists": [
         {
-          "name": "Simone Sommerland",
-          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
+          "name": "Schnabi Schnabel",
+          "url": "https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8"
         },
         {
-          "name": "Karsten Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
+          "name": "Kinderlieder Gang",
+          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
         },
         {
-          "name": "Die Kita-Fr\u00f6sche",
-          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
+          "name": "Rubi",
+          "url": "https://open.spotify.com/artist/5XVoKjahTqSezqRa5ZNWbu"
         }
       ],
-      "duration_ms": 171350,
-      "name": "Der Gorilla mit der Sonnenbrille",
-      "url": "https://open.spotify.com/track/06YuiCN18BLvxwAmHx3KLK"
+      "duration_ms": 142105,
+      "name": "Mango, Kiwi, Banana",
+      "url": "https://open.spotify.com/track/7iO0PzhMSXYlqinwJpEBP6"
     },
     {
       "added_at": "2026-08-06 22:01:06",
@@ -527,26 +527,26 @@
     {
       "added_at": "2026-08-06 22:01:06",
       "album": {
-        "name": "Mango, Kiwi, Banana",
-        "url": "https://open.spotify.com/album/6avDE4P9mCFoERV1V4P8ee"
+        "name": "Die 30 besten Urlaubs- und Sommerlieder",
+        "url": "https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6"
       },
       "artists": [
         {
-          "name": "Schnabi Schnabel",
-          "url": "https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8"
+          "name": "Simone Sommerland",
+          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
         },
         {
-          "name": "Kinderlieder Gang",
-          "url": "https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E"
+          "name": "Karsten Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
         },
         {
-          "name": "Rubi",
-          "url": "https://open.spotify.com/artist/5XVoKjahTqSezqRa5ZNWbu"
+          "name": "Die Kita-Fr\u00f6sche",
+          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
         }
       ],
-      "duration_ms": 142105,
-      "name": "Mango, Kiwi, Banana",
-      "url": "https://open.spotify.com/track/7iO0PzhMSXYlqinwJpEBP6"
+      "duration_ms": 171350,
+      "name": "Der Gorilla mit der Sonnenbrille",
+      "url": "https://open.spotify.com/track/06YuiCN18BLvxwAmHx3KLK"
     },
     {
       "added_at": "2026-08-06 22:01:06",
@@ -583,30 +583,6 @@
       "duration_ms": 119215,
       "name": "Idas Sommerlied",
       "url": "https://open.spotify.com/track/5VA3fG24jDSYj8QB1eAUtX"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Die 30 besten Urlaubs- und Sommerlieder",
-        "url": "https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6"
-      },
-      "artists": [
-        {
-          "name": "Simone Sommerland",
-          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
-        },
-        {
-          "name": "Karsten Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
-        },
-        {
-          "name": "Die Kita-Fr\u00f6sche",
-          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
-        }
-      ],
-      "duration_ms": 114258,
-      "name": "Plitsch, plitsch, platsch",
-      "url": "https://open.spotify.com/track/5D0Dsd7CecM74CahtrIioW"
     },
     {
       "added_at": "2026-08-06 22:01:06",
@@ -651,40 +627,8 @@
     {
       "added_at": "2026-08-06 22:01:06",
       "album": {
-        "name": "Meine M\u00fctze und Ich",
-        "url": "https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5"
-      },
-      "artists": [
-        {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
-        }
-      ],
-      "duration_ms": 167090,
-      "name": "Baller mit meinem Rad",
-      "url": "https://open.spotify.com/track/4mqMxZjFLrTi7lwPdnYxHm"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Meine Lieblingskinderlieder",
-        "url": "https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb"
-      },
-      "artists": [
-        {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
-        }
-      ],
-      "duration_ms": 147374,
-      "name": "LiederTiger Lied",
-      "url": "https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
-        "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
+        "name": "Die 30 besten Urlaubs- und Sommerlieder",
+        "url": "https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6"
       },
       "artists": [
         {
@@ -700,9 +644,25 @@
           "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
         }
       ],
-      "duration_ms": 88540,
-      "name": "Kleine Meise",
-      "url": "https://open.spotify.com/track/4MShM7cBCCtVdphsrwkks5"
+      "duration_ms": 114258,
+      "name": "Plitsch, plitsch, platsch",
+      "url": "https://open.spotify.com/track/5D0Dsd7CecM74CahtrIioW"
+    },
+    {
+      "added_at": "2026-08-06 22:01:06",
+      "album": {
+        "name": "Meine M\u00fctze und Ich",
+        "url": "https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "duration_ms": 167090,
+      "name": "Baller mit meinem Rad",
+      "url": "https://open.spotify.com/track/4mqMxZjFLrTi7lwPdnYxHm"
     },
     {
       "added_at": "2026-08-06 22:01:06",
@@ -763,6 +723,46 @@
     {
       "added_at": "2026-08-06 22:01:06",
       "album": {
+        "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
+        "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
+      },
+      "artists": [
+        {
+          "name": "Simone Sommerland",
+          "url": "https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF"
+        },
+        {
+          "name": "Karsten Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma"
+        },
+        {
+          "name": "Die Kita-Fr\u00f6sche",
+          "url": "https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep"
+        }
+      ],
+      "duration_ms": 88540,
+      "name": "Kleine Meise",
+      "url": "https://open.spotify.com/track/4MShM7cBCCtVdphsrwkks5"
+    },
+    {
+      "added_at": "2026-08-06 22:01:06",
+      "album": {
+        "name": "Meine Lieblingskinderlieder",
+        "url": "https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "duration_ms": 147374,
+      "name": "LiederTiger Lied",
+      "url": "https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w"
+    },
+    {
+      "added_at": "2026-08-06 22:01:06",
+      "album": {
         "name": "Lern- und Spa\u00dflieder",
         "url": "https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL"
       },
@@ -775,6 +775,42 @@
       "duration_ms": 186000,
       "name": "Das Farbenlied",
       "url": "https://open.spotify.com/track/3nI8GaZzs3qI28j5tMGqst"
+    },
+    {
+      "added_at": "2026-08-06 22:01:06",
+      "album": {
+        "name": "Bei uns in der Kita - 22 Lieder im Fr\u00fchling + Sommer",
+        "url": "https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc"
+      },
+      "artists": [
+        {
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+        }
+      ],
+      "duration_ms": 108293,
+      "name": "Alle V\u00f6gel sind schon da",
+      "url": "https://open.spotify.com/track/3o1gtPqPPleF3uz4OEXI9a"
+    },
+    {
+      "added_at": "2026-08-06 22:01:06",
+      "album": {
+        "name": "Die Kinder spielen verr\u00fcckt",
+        "url": "https://open.spotify.com/album/4CJ38wAW6yjaajNaG4cTWh"
+      },
+      "artists": [
+        {
+          "name": "Donots",
+          "url": "https://open.spotify.com/artist/2gRgzV2ooQwweEr4s7lwsg"
+        },
+        {
+          "name": "Deine Freunde",
+          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
+        }
+      ],
+      "duration_ms": 174691,
+      "name": "Die Kinder spielen verr\u00fcckt",
+      "url": "https://open.spotify.com/track/0u6j3BVUJgq3CAkW9ogah6"
     },
     {
       "added_at": "2026-08-06 22:01:06",
@@ -799,22 +835,6 @@
       "duration_ms": 130180,
       "name": "Dickie, der dicke Delfin",
       "url": "https://open.spotify.com/track/1bnwtnDox65Be81ol7TX1x"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Bei uns in der Kita - 22 Lieder im Fr\u00fchling + Sommer",
-        "url": "https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc"
-      },
-      "artists": [
-        {
-          "name": "Rolf Zuckowski",
-          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
-        }
-      ],
-      "duration_ms": 108293,
-      "name": "Alle V\u00f6gel sind schon da",
-      "url": "https://open.spotify.com/track/3o1gtPqPPleF3uz4OEXI9a"
     },
     {
       "added_at": "2026-08-06 22:01:06",
@@ -883,22 +903,6 @@
     {
       "added_at": "2026-08-06 22:01:06",
       "album": {
-        "name": "ordentlich durcheinander",
-        "url": "https://open.spotify.com/album/5goLpuhOuPvi646aejZHJa"
-      },
-      "artists": [
-        {
-          "name": "Deine Freunde",
-          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Wir holen euch ab",
-      "url": "https://open.spotify.com/track/76mevuKh4WonFC305wU9BD"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
         "name": "Sommerkinder",
         "url": "https://open.spotify.com/album/6yWDhurBL3quArg4JJ7WgH"
       },
@@ -915,6 +919,22 @@
     {
       "added_at": "2026-08-06 22:01:06",
       "album": {
+        "name": "ordentlich durcheinander",
+        "url": "https://open.spotify.com/album/5goLpuhOuPvi646aejZHJa"
+      },
+      "artists": [
+        {
+          "name": "Deine Freunde",
+          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Wir holen euch ab",
+      "url": "https://open.spotify.com/track/76mevuKh4WonFC305wU9BD"
+    },
+    {
+      "added_at": "2026-08-06 22:01:06",
+      "album": {
         "name": "Das Sommertier",
         "url": "https://open.spotify.com/album/6UrVYi2MFIOvkwH2pcshrz"
       },
@@ -927,22 +947,6 @@
       "duration_ms": 147571,
       "name": "Das Sommertier",
       "url": "https://open.spotify.com/track/7zqWKN7UOLNHVBP7a22gm9"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "HIGHFIVE!",
-        "url": "https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S"
-      },
-      "artists": [
-        {
-          "name": "KID CLIO",
-          "url": "https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku"
-        }
-      ],
-      "duration_ms": 116826,
-      "name": "Das Lied Vom Sommer",
-      "url": "https://open.spotify.com/track/0BOKpBh5fifQRTzXkIkzaE"
     },
     {
       "added_at": "2026-08-06 22:01:06",
@@ -967,6 +971,22 @@
     {
       "added_at": "2026-08-06 22:01:06",
       "album": {
+        "name": "HIGHFIVE!",
+        "url": "https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S"
+      },
+      "artists": [
+        {
+          "name": "KID CLIO",
+          "url": "https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku"
+        }
+      ],
+      "duration_ms": 116826,
+      "name": "Das Lied Vom Sommer",
+      "url": "https://open.spotify.com/track/0BOKpBh5fifQRTzXkIkzaE"
+    },
+    {
+      "added_at": "2026-08-06 22:01:06",
+      "album": {
         "name": "Giraffenaffen",
         "url": "https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD"
       },
@@ -983,22 +1003,6 @@
       "duration_ms": 215400,
       "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
       "url": "https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO"
-    },
-    {
-      "added_at": "2026-08-06 22:01:06",
-      "album": {
-        "name": "Disco Kinder",
-        "url": "https://open.spotify.com/album/3H4zFfJdiScYlYTARQBjPs"
-      },
-      "artists": [
-        {
-          "name": "Isa Gl\u00fccklich",
-          "url": "https://open.spotify.com/artist/2qLRWpOpxPKpyVW3GdGVHh"
-        }
-      ],
-      "duration_ms": 169773,
-      "name": "Disco Kinder (Minis Maxis)",
-      "url": "https://open.spotify.com/track/6eEyiLb4fZxdBZ6vWJMr5G"
     }
   ],
   "unique_name": "Familienzeit: Sommer",

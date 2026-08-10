@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 43764,
+  "num_followers": 43804,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
@@ -275,42 +275,6 @@
     {
       "added_at": "2026-08-07 09:22:30",
       "album": {
-        "name": "Pinjar",
-        "url": "https://open.spotify.com/album/4WJdoCtxUH7nAaudUbOOPa"
-      },
-      "artists": [
-        {
-          "name": "Wadali Brothers",
-          "url": "https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX"
-        },
-        {
-          "name": "Preeti Uttam",
-          "url": "https://open.spotify.com/artist/4soRtfeAZ1TBKGZjtufJMU"
-        }
-      ],
-      "duration_ms": 543346,
-      "name": "Waris Shah Nu",
-      "url": "https://open.spotify.com/track/4tfk5JMKtuPZ9omn8SxxsG"
-    },
-    {
-      "added_at": "2026-08-07 09:22:30",
-      "album": {
-        "name": "Kali Jotta (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5PX3Pa8S9mb76rDis21Ljc"
-      },
-      "artists": [
-        {
-          "name": "Satinder Sartaaj",
-          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
-        }
-      ],
-      "duration_ms": 404170,
-      "name": "Rutba",
-      "url": "https://open.spotify.com/track/1VtoihGms5WJk85W2OLqeP"
-    },
-    {
-      "added_at": "2026-08-07 09:22:30",
-      "album": {
         "name": "Mahiya Tere Vekan Nu",
         "url": "https://open.spotify.com/album/26IzYb8ASprzkkQBl9kurh"
       },
@@ -331,6 +295,42 @@
       "duration_ms": 221379,
       "name": "Mahiya Tere Vekan Nu",
       "url": "https://open.spotify.com/track/2DQvBdqEgSFtcGDviaKnGb"
+    },
+    {
+      "added_at": "2026-08-07 09:22:30",
+      "album": {
+        "name": "Kali Jotta (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5PX3Pa8S9mb76rDis21Ljc"
+      },
+      "artists": [
+        {
+          "name": "Satinder Sartaaj",
+          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+        }
+      ],
+      "duration_ms": 404170,
+      "name": "Rutba",
+      "url": "https://open.spotify.com/track/1VtoihGms5WJk85W2OLqeP"
+    },
+    {
+      "added_at": "2026-08-07 09:22:30",
+      "album": {
+        "name": "Pinjar",
+        "url": "https://open.spotify.com/album/4WJdoCtxUH7nAaudUbOOPa"
+      },
+      "artists": [
+        {
+          "name": "Wadali Brothers",
+          "url": "https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX"
+        },
+        {
+          "name": "Preeti Uttam",
+          "url": "https://open.spotify.com/artist/4soRtfeAZ1TBKGZjtufJMU"
+        }
+      ],
+      "duration_ms": 543346,
+      "name": "Waris Shah Nu",
+      "url": "https://open.spotify.com/track/4tfk5JMKtuPZ9omn8SxxsG"
     },
     {
       "added_at": "2026-08-07 09:22:30",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-08-07 09:22:30",
       "album": {
+        "name": "Tu Mane Ya Na Mane",
+        "url": "https://open.spotify.com/album/2wobOFgWpnQqSP3HUMfjhI"
+      },
+      "artists": [
+        {
+          "name": "Wadali Brothers",
+          "url": "https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX"
+        }
+      ],
+      "duration_ms": 868387,
+      "name": "Tu Mane Ya Na Mane - Edit Version",
+      "url": "https://open.spotify.com/track/1RjvAAfONgaKgseqqRXZ3B"
+    },
+    {
+      "added_at": "2026-08-07 09:22:30",
+      "album": {
         "name": "Qubool Hai",
         "url": "https://open.spotify.com/album/0YqdLvNV20CLUKQAZPfnf6"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 409137,
       "name": "Qubool Hai",
       "url": "https://open.spotify.com/track/3L0pDSx6tBEuBs6f2gk7tQ"
-    },
-    {
-      "added_at": "2026-08-07 09:22:30",
-      "album": {
-        "name": "Tu Mane Ya Na Mane",
-        "url": "https://open.spotify.com/album/2wobOFgWpnQqSP3HUMfjhI"
-      },
-      "artists": [
-        {
-          "name": "Wadali Brothers",
-          "url": "https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX"
-        }
-      ],
-      "duration_ms": 868387,
-      "name": "Tu Mane Ya Na Mane - Edit Version",
-      "url": "https://open.spotify.com/track/1RjvAAfONgaKgseqqRXZ3B"
     },
     {
       "added_at": "2026-08-07 09:22:30",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-08-07 09:22:30",
       "album": {
-        "name": "Allah Mola",
-        "url": "https://open.spotify.com/album/6d2xxrqFIldOccXZCxHLQj"
-      },
-      "artists": [
-        {
-          "name": "Sultana",
-          "url": "https://open.spotify.com/artist/5Y1AqsKrn4ZFw118BUwEfE"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Allah Mola",
-      "url": "https://open.spotify.com/track/1XYsXVcd5to0wAuIdrzGY4"
-    },
-    {
-      "added_at": "2026-08-07 09:22:30",
-      "album": {
         "name": "Bemisaal Jagjit Singh",
         "url": "https://open.spotify.com/album/2YkxjiHsBzCPoRgFwsdXCs"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 320306,
       "name": "Bawa",
       "url": "https://open.spotify.com/track/4NrOwtaDJniWjjlmifEyX1"
+    },
+    {
+      "added_at": "2026-08-07 09:22:30",
+      "album": {
+        "name": "Allah Mola",
+        "url": "https://open.spotify.com/album/6d2xxrqFIldOccXZCxHLQj"
+      },
+      "artists": [
+        {
+          "name": "Sultana",
+          "url": "https://open.spotify.com/artist/5Y1AqsKrn4ZFw118BUwEfE"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Allah Mola",
+      "url": "https://open.spotify.com/track/1XYsXVcd5to0wAuIdrzGY4"
     },
     {
       "added_at": "2026-08-07 09:22:30",
@@ -711,26 +711,6 @@
       "duration_ms": 249545,
       "name": "DUMA DUM MAST QALANDER - Rebooted & Revved Up",
       "url": "https://open.spotify.com/track/6uVX6rVtBCNk648wmMtWOU"
-    },
-    {
-      "added_at": "2026-08-07 09:22:30",
-      "album": {
-        "name": "Dil Mera Dol Da",
-        "url": "https://open.spotify.com/album/0St1cPJ8E8BOr4ZR48KxAr"
-      },
-      "artists": [
-        {
-          "name": "Ghulam Ali",
-          "url": "https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM"
-        },
-        {
-          "name": "Tarranum Naaz",
-          "url": "https://open.spotify.com/artist/3i77C8F5q6oEiuRB80xgye"
-        }
-      ],
-      "duration_ms": 548127,
-      "name": "Ruh Le Gaya Dil da Jani",
-      "url": "https://open.spotify.com/track/1NwvqenZqqhO2ibwEUTAbB"
     },
     {
       "added_at": "2026-08-07 09:22:30",
@@ -759,22 +739,22 @@
     {
       "added_at": "2026-08-07 09:22:30",
       "album": {
-        "name": "Ek Anokhi Dulhan Saavi",
-        "url": "https://open.spotify.com/album/3iEX72gAetxli7H5h9ZHa4"
+        "name": "Dil Mera Dol Da",
+        "url": "https://open.spotify.com/album/0St1cPJ8E8BOr4ZR48KxAr"
       },
       "artists": [
         {
-          "name": "Harpreet",
-          "url": "https://open.spotify.com/artist/53qrm6TRrT0N0UqnnUlSGb"
+          "name": "Ghulam Ali",
+          "url": "https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM"
         },
         {
-          "name": "Baba Bulleh Shah",
-          "url": "https://open.spotify.com/artist/2MgGHPYmzWK4JhwnYoGLHt"
+          "name": "Tarranum Naaz",
+          "url": "https://open.spotify.com/artist/3i77C8F5q6oEiuRB80xgye"
         }
       ],
-      "duration_ms": 306000,
-      "name": "Jaan Na Jaan - Male Version",
-      "url": "https://open.spotify.com/track/5a5klMTzdiPYO2uJjBvIdx"
+      "duration_ms": 548127,
+      "name": "Ruh Le Gaya Dil da Jani",
+      "url": "https://open.spotify.com/track/1NwvqenZqqhO2ibwEUTAbB"
     },
     {
       "added_at": "2026-08-07 09:22:30",
@@ -791,6 +771,26 @@
       "duration_ms": 431189,
       "name": "Giya Piplan da Dhal",
       "url": "https://open.spotify.com/track/3zTutpd4Y5GjSEr5veg0rp"
+    },
+    {
+      "added_at": "2026-08-07 09:22:30",
+      "album": {
+        "name": "Ek Anokhi Dulhan Saavi",
+        "url": "https://open.spotify.com/album/3iEX72gAetxli7H5h9ZHa4"
+      },
+      "artists": [
+        {
+          "name": "Harpreet",
+          "url": "https://open.spotify.com/artist/53qrm6TRrT0N0UqnnUlSGb"
+        },
+        {
+          "name": "Baba Bulleh Shah",
+          "url": "https://open.spotify.com/artist/2MgGHPYmzWK4JhwnYoGLHt"
+        }
+      ],
+      "duration_ms": 306000,
+      "name": "Jaan Na Jaan - Male Version",
+      "url": "https://open.spotify.com/track/5a5klMTzdiPYO2uJjBvIdx"
     },
     {
       "added_at": "2026-08-07 09:22:30",

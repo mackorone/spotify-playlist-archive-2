@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 356389,
+  "num_followers": 356585,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -347,86 +347,6 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
-        "name": "Non Fiction: I. Sonore - Animato - Meno Mosso",
-        "url": "https://open.spotify.com/album/5HsPb0egy4fqvEbYnXroK5"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        },
-        {
-          "name": "Manchester Collective",
-          "url": "https://open.spotify.com/artist/3lKEPxsPZ93hB82heiqzvQ"
-        },
-        {
-          "name": "Jack Wyllie",
-          "url": "https://open.spotify.com/artist/0e97XEaqVcQRfIeTLBPDkl"
-        },
-        {
-          "name": "Valentina Magaletti",
-          "url": "https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz"
-        },
-        {
-          "name": "Hugh Tieppo-Brunt",
-          "url": "https://open.spotify.com/artist/1uf6c7JgZGqTZgFBtnH8gK"
-        }
-      ],
-      "duration_ms": 207939,
-      "name": "Non Fiction: I.I Sonore",
-      "url": "https://open.spotify.com/track/41RzvZDvWPSyOWJxKyaw7B"
-    },
-    {
-      "added_at": "2026-06-12 14:06:48",
-      "album": {
-        "name": "Air",
-        "url": "https://open.spotify.com/album/2VY88ocDU7BdpXI3sK0Mn6"
-      },
-      "artists": [
-        {
-          "name": "Jessie Marcella",
-          "url": "https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb"
-        }
-      ],
-      "duration_ms": 419076,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/3gGIaiIRbkGntFSK5FjcL9"
-    },
-    {
-      "added_at": "2026-06-12 14:06:48",
-      "album": {
-        "name": "Sapphire Hour",
-        "url": "https://open.spotify.com/album/28OO1f0EZJLcBwDpUAu6oU"
-      },
-      "artists": [
-        {
-          "name": "City of Dawn",
-          "url": "https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2"
-        }
-      ],
-      "duration_ms": 331441,
-      "name": "Sapphire Hour",
-      "url": "https://open.spotify.com/track/5STv1mLmLNjXdzFIuNGd0L"
-    },
-    {
-      "added_at": "2026-06-12 14:06:48",
-      "album": {
-        "name": "Mat\u00e8l (original motion picture soundtrack)",
-        "url": "https://open.spotify.com/album/6Uu2aSnnskKHLs0mriQfcT"
-      },
-      "artists": [
-        {
-          "name": "Ginevra Nervi",
-          "url": "https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj"
-        }
-      ],
-      "duration_ms": 204043,
-      "name": "Mat\u00e8l",
-      "url": "https://open.spotify.com/track/6d81er1G1FqItrbdX2Ta5E"
-    },
-    {
-      "added_at": "2026-06-12 14:06:48",
-      "album": {
         "name": "Sleep Circle (Faded)",
         "url": "https://open.spotify.com/album/1yjWF5EuGlmJN8PD3jkalo"
       },
@@ -463,6 +383,86 @@
       "duration_ms": 335539,
       "name": "Path 3 / Whose Name Is Written On Water - Pt. 1 / Faded",
       "url": "https://open.spotify.com/track/1HxJyQzfqJCjshpokKVKEa"
+    },
+    {
+      "added_at": "2026-06-12 14:06:48",
+      "album": {
+        "name": "Air",
+        "url": "https://open.spotify.com/album/2VY88ocDU7BdpXI3sK0Mn6"
+      },
+      "artists": [
+        {
+          "name": "Jessie Marcella",
+          "url": "https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb"
+        }
+      ],
+      "duration_ms": 419076,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/3gGIaiIRbkGntFSK5FjcL9"
+    },
+    {
+      "added_at": "2026-06-12 14:06:48",
+      "album": {
+        "name": "Sapphire Hour",
+        "url": "https://open.spotify.com/album/28OO1f0EZJLcBwDpUAu6oU"
+      },
+      "artists": [
+        {
+          "name": "City of Dawn",
+          "url": "https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2"
+        }
+      ],
+      "duration_ms": 331441,
+      "name": "Sapphire Hour",
+      "url": "https://open.spotify.com/track/5STv1mLmLNjXdzFIuNGd0L"
+    },
+    {
+      "added_at": "2026-06-12 14:06:48",
+      "album": {
+        "name": "Non Fiction: I. Sonore - Animato - Meno Mosso",
+        "url": "https://open.spotify.com/album/5HsPb0egy4fqvEbYnXroK5"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        },
+        {
+          "name": "Manchester Collective",
+          "url": "https://open.spotify.com/artist/3lKEPxsPZ93hB82heiqzvQ"
+        },
+        {
+          "name": "Jack Wyllie",
+          "url": "https://open.spotify.com/artist/0e97XEaqVcQRfIeTLBPDkl"
+        },
+        {
+          "name": "Valentina Magaletti",
+          "url": "https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz"
+        },
+        {
+          "name": "Hugh Tieppo-Brunt",
+          "url": "https://open.spotify.com/artist/1uf6c7JgZGqTZgFBtnH8gK"
+        }
+      ],
+      "duration_ms": 207939,
+      "name": "Non Fiction: I.I Sonore",
+      "url": "https://open.spotify.com/track/41RzvZDvWPSyOWJxKyaw7B"
+    },
+    {
+      "added_at": "2026-06-12 14:06:48",
+      "album": {
+        "name": "Mat\u00e8l (original motion picture soundtrack)",
+        "url": "https://open.spotify.com/album/6Uu2aSnnskKHLs0mriQfcT"
+      },
+      "artists": [
+        {
+          "name": "Ginevra Nervi",
+          "url": "https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj"
+        }
+      ],
+      "duration_ms": 204043,
+      "name": "Mat\u00e8l",
+      "url": "https://open.spotify.com/track/6d81er1G1FqItrbdX2Ta5E"
     },
     {
       "added_at": "2026-06-12 14:06:48",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
+        "name": "Polar",
+        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 272501,
+      "name": "The Monolith",
+      "url": "https://open.spotify.com/track/0pdEIKmIkM4hZYUbjDSnMQ"
+    },
+    {
+      "added_at": "2026-06-12 14:06:48",
+      "album": {
         "name": "skies",
         "url": "https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 129998,
       "name": "skies",
       "url": "https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI"
-    },
-    {
-      "added_at": "2026-06-12 14:06:48",
-      "album": {
-        "name": "Polar",
-        "url": "https://open.spotify.com/album/7whIybEX8ypYwba3UGePr9"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 272501,
-      "name": "The Monolith",
-      "url": "https://open.spotify.com/track/0pdEIKmIkM4hZYUbjDSnMQ"
     },
     {
       "added_at": "2026-06-12 14:06:48",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
-        "name": "The Beautiful World",
-        "url": "https://open.spotify.com/album/2mYF47xMK4YdDipgj88DSD"
-      },
-      "artists": [
-        {
-          "name": "David Allred",
-          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
-        }
-      ],
-      "duration_ms": 178858,
-      "name": "Stray",
-      "url": "https://open.spotify.com/track/2qJ1lpSOeAsbHr5WP86KtF"
-    },
-    {
-      "added_at": "2026-06-12 14:06:48",
-      "album": {
         "name": "where is life?",
         "url": "https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 127384,
       "name": "where is life?",
       "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"
+    },
+    {
+      "added_at": "2026-06-12 14:06:48",
+      "album": {
+        "name": "The Beautiful World",
+        "url": "https://open.spotify.com/album/2mYF47xMK4YdDipgj88DSD"
+      },
+      "artists": [
+        {
+          "name": "David Allred",
+          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
+        }
+      ],
+      "duration_ms": 178858,
+      "name": "Stray",
+      "url": "https://open.spotify.com/track/2qJ1lpSOeAsbHr5WP86KtF"
     },
     {
       "added_at": "2026-06-12 14:06:48",
@@ -1103,30 +1103,22 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
-        "name": "Lonesome Sound",
-        "url": "https://open.spotify.com/album/5frWXfCvYwKWOU3yjs6CGb"
+        "name": "Canneto",
+        "url": "https://open.spotify.com/album/5yPvFSDxdzszBMr3lF3t5N"
       },
       "artists": [
         {
-          "name": "Almost An Island",
-          "url": "https://open.spotify.com/artist/0eqkViQMmHYvTpSesY7DjH"
+          "name": "Tomat",
+          "url": "https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa"
         },
         {
-          "name": "marine eyes",
-          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
-        },
-        {
-          "name": "Kenneth James Gibson",
-          "url": "https://open.spotify.com/artist/02YQpuCkgfk5jhZJSqjQdG"
-        },
-        {
-          "name": "James Bernard",
-          "url": "https://open.spotify.com/artist/6d20guq0wJ6Z4sQGucU85q"
+          "name": "G.U.P. Alcaro",
+          "url": "https://open.spotify.com/artist/698WCVYYS0hvtwy40a91LJ"
         }
       ],
-      "duration_ms": 301863,
-      "name": "Lonesome Sound",
-      "url": "https://open.spotify.com/track/0W3XARJKAvikHEiOSgHl0z"
+      "duration_ms": 114500,
+      "name": "Canneto",
+      "url": "https://open.spotify.com/track/6hx5tz1VTta0cnTLcvCSaI"
     },
     {
       "added_at": "2026-06-12 14:06:48",
@@ -1163,22 +1155,30 @@
     {
       "added_at": "2026-06-12 14:06:48",
       "album": {
-        "name": "Canneto",
-        "url": "https://open.spotify.com/album/5yPvFSDxdzszBMr3lF3t5N"
+        "name": "Lonesome Sound",
+        "url": "https://open.spotify.com/album/5frWXfCvYwKWOU3yjs6CGb"
       },
       "artists": [
         {
-          "name": "Tomat",
-          "url": "https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa"
+          "name": "Almost An Island",
+          "url": "https://open.spotify.com/artist/0eqkViQMmHYvTpSesY7DjH"
         },
         {
-          "name": "G.U.P. Alcaro",
-          "url": "https://open.spotify.com/artist/698WCVYYS0hvtwy40a91LJ"
+          "name": "marine eyes",
+          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
+        },
+        {
+          "name": "Kenneth James Gibson",
+          "url": "https://open.spotify.com/artist/02YQpuCkgfk5jhZJSqjQdG"
+        },
+        {
+          "name": "James Bernard",
+          "url": "https://open.spotify.com/artist/6d20guq0wJ6Z4sQGucU85q"
         }
       ],
-      "duration_ms": 114500,
-      "name": "Canneto",
-      "url": "https://open.spotify.com/track/6hx5tz1VTta0cnTLcvCSaI"
+      "duration_ms": 301863,
+      "name": "Lonesome Sound",
+      "url": "https://open.spotify.com/track/0W3XARJKAvikHEiOSgHl0z"
     },
     {
       "added_at": "2026-06-12 14:06:48",
@@ -1195,42 +1195,6 @@
       "duration_ms": 70306,
       "name": "Safn",
       "url": "https://open.spotify.com/track/2MHKYLzZDWpj2jZDIPVWor"
-    },
-    {
-      "added_at": "2026-06-12 14:06:48",
-      "album": {
-        "name": "Calm Current",
-        "url": "https://open.spotify.com/album/3E2EJAj5HQGlk1CebBOyFR"
-      },
-      "artists": [
-        {
-          "name": "Watasino",
-          "url": "https://open.spotify.com/artist/4gblEuW5hn0GK6ZkrcquRw"
-        },
-        {
-          "name": "Lonely Girl",
-          "url": "https://open.spotify.com/artist/0oNkYl0JGIr9hFJHQlakdw"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Calm Current",
-      "url": "https://open.spotify.com/track/6TndWcfnrvsSoBHKLrDxFE"
-    },
-    {
-      "added_at": "2026-06-12 14:06:48",
-      "album": {
-        "name": "I Keep My Diamond Necklace in a Pond of Sparkling Water",
-        "url": "https://open.spotify.com/album/0uiBZUXcFQpqBVKUKnS8LJ"
-      },
-      "artists": [
-        {
-          "name": "Gryphon Rue",
-          "url": "https://open.spotify.com/artist/6jyMM1uTcdiCwsLfWAWlHP"
-        }
-      ],
-      "duration_ms": 276866,
-      "name": "Squatter's Quarters",
-      "url": "https://open.spotify.com/track/6NzaYbR6ayFuvEfTedn3ZF"
     },
     {
       "added_at": "2026-06-12 14:06:48",
@@ -1255,6 +1219,42 @@
       "duration_ms": 261849,
       "name": "Even The Horizon Knows Its Bounds VIII",
       "url": "https://open.spotify.com/track/36UNARIup8YwWvqua2DG9T"
+    },
+    {
+      "added_at": "2026-06-12 14:06:48",
+      "album": {
+        "name": "I Keep My Diamond Necklace in a Pond of Sparkling Water",
+        "url": "https://open.spotify.com/album/0uiBZUXcFQpqBVKUKnS8LJ"
+      },
+      "artists": [
+        {
+          "name": "Gryphon Rue",
+          "url": "https://open.spotify.com/artist/6jyMM1uTcdiCwsLfWAWlHP"
+        }
+      ],
+      "duration_ms": 276866,
+      "name": "Squatter's Quarters",
+      "url": "https://open.spotify.com/track/6NzaYbR6ayFuvEfTedn3ZF"
+    },
+    {
+      "added_at": "2026-06-12 14:06:48",
+      "album": {
+        "name": "Calm Current",
+        "url": "https://open.spotify.com/album/3E2EJAj5HQGlk1CebBOyFR"
+      },
+      "artists": [
+        {
+          "name": "Watasino",
+          "url": "https://open.spotify.com/artist/4gblEuW5hn0GK6ZkrcquRw"
+        },
+        {
+          "name": "Lonely Girl",
+          "url": "https://open.spotify.com/artist/0oNkYl0JGIr9hFJHQlakdw"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Calm Current",
+      "url": "https://open.spotify.com/track/6TndWcfnrvsSoBHKLrDxFE"
     },
     {
       "added_at": "2026-06-12 14:06:48",

@@ -1,12 +1,12 @@
 {
   "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 31419,
+  "num_followers": 31418,
   "original_name": "This Is Howlin' Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anUgAAAAAABXNnZ3wu7bkPVuUPJdgSSw",
+  "snapshot_id": "anZxgAAAAAAOCADkuzJCmBI4TNkwgha8",
   "tracks": [
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Change My Way",
-        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
+        "name": "The Memphis Sessions",
+        "url": "https://open.spotify.com/album/4SseCrDhnIn2ZbMhPV1A1n"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 134600,
-      "name": "I've Been Abused - Single Version",
-      "url": "https://open.spotify.com/track/2QJA0Gsodidit6P7OnDl16"
+      "duration_ms": 178000,
+      "name": "California Blues",
+      "url": "https://open.spotify.com/track/71o5zMXNmF539Ff2anKj8m"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Memphis Sessions",
-        "url": "https://open.spotify.com/album/4SseCrDhnIn2ZbMhPV1A1n"
+        "name": "Change My Way",
+        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 178000,
-      "name": "California Blues",
-      "url": "https://open.spotify.com/track/71o5zMXNmF539Ff2anKj8m"
+      "duration_ms": 134600,
+      "name": "I've Been Abused - Single Version",
+      "url": "https://open.spotify.com/track/2QJA0Gsodidit6P7OnDl16"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ain't Gonna Be Your Dog: Chess Collectibles Vol. 2",
+        "url": "https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 154440,
+      "name": "Midnight Blues - Alternate Take To \"Moaning For My Baby\"",
+      "url": "https://open.spotify.com/track/790M4TsGpZraL5sHqgSISD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "His Best, Vol.2",
         "url": "https://open.spotify.com/album/5rL0QUmh9iE6LbR1GEBvvb"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 174666,
       "name": "New Crawlin' King Snake - Single Version",
       "url": "https://open.spotify.com/track/3rTrYU2iwNv3pnd7u4kfTX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smokestack Lightning /The Complete Chess Masters 1951-1960",
-        "url": "https://open.spotify.com/album/0Oc3QMGeNj9JC7f0rBaP8Q"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Howlin' Wolf Boogie",
-      "url": "https://open.spotify.com/track/4N23sdWGe9hKdcxRto6bQx"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't Gonna Be Your Dog: Chess Collectibles Vol. 2",
-        "url": "https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61"
+        "name": "Smokestack Lightning /The Complete Chess Masters 1951-1960",
+        "url": "https://open.spotify.com/album/0Oc3QMGeNj9JC7f0rBaP8Q"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 154440,
-      "name": "Midnight Blues - Alternate Take To \"Moaning For My Baby\"",
-      "url": "https://open.spotify.com/track/790M4TsGpZraL5sHqgSISD"
+      "duration_ms": 157000,
+      "name": "Howlin' Wolf Boogie",
+      "url": "https://open.spotify.com/track/4N23sdWGe9hKdcxRto6bQx"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live in Europe 1964 (2025 Remaster)",
-        "url": "https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05"
+        "name": "Howlin' Wolf Greatest Songs",
+        "url": "https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 334640,
-      "name": "I Didn't Mean to Hurt Your Feelings - Live in Europe 1964 - 2025 Remaster",
-      "url": "https://open.spotify.com/track/5KJJ9nLPdplYLv7QQuXDe4"
+      "duration_ms": 191194,
+      "name": "Color And Kind",
+      "url": "https://open.spotify.com/track/0nHrMtXwO96IB1Bpasggv0"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Howlin' Wolf Greatest Songs",
-        "url": "https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7"
+        "name": "Live in Europe 1964 (2025 Remaster)",
+        "url": "https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 191194,
-      "name": "Color And Kind",
-      "url": "https://open.spotify.com/track/0nHrMtXwO96IB1Bpasggv0"
+      "duration_ms": 334640,
+      "name": "I Didn't Mean to Hurt Your Feelings - Live in Europe 1964 - 2025 Remaster",
+      "url": "https://open.spotify.com/track/5KJJ9nLPdplYLv7QQuXDe4"
     },
     {
       "added_at": null,
@@ -843,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live in Europe 1964 (2025 Remaster)",
-        "url": "https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05"
+        "name": "Message To The Young",
+        "url": "https://open.spotify.com/album/0GZWroLahIzKwjCDqxwdoJ"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 249440,
-      "name": "All My Life - Live in Europe 1964 - 2025 Remaster",
-      "url": "https://open.spotify.com/track/1Cir0qnb0sdjzTtzisaGa3"
+      "duration_ms": 161760,
+      "name": "I Smell A Rat",
+      "url": "https://open.spotify.com/track/0DLtoMUpVzLRfGsxVX4Vfh"
     },
     {
       "added_at": null,
@@ -879,8 +879,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Message To The Young",
-        "url": "https://open.spotify.com/album/0GZWroLahIzKwjCDqxwdoJ"
+        "name": "Live in Europe 1964 (2025 Remaster)",
+        "url": "https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05"
       },
       "artists": [
         {
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 161760,
-      "name": "I Smell A Rat",
-      "url": "https://open.spotify.com/track/0DLtoMUpVzLRfGsxVX4Vfh"
+      "duration_ms": 249440,
+      "name": "All My Life - Live in Europe 1964 - 2025 Remaster",
+      "url": "https://open.spotify.com/track/1Cir0qnb0sdjzTtzisaGa3"
     },
     {
       "added_at": null,
@@ -911,22 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live in Europe 1964 (2025 Remaster)",
-        "url": "https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 302266,
-      "name": "Dust My Broom - Live in Europe 1964 - 2025 Remaster",
-      "url": "https://open.spotify.com/track/4a0NdfY3aWOlZCB3nWz0vS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Howlin' Wolf Greatest Songs",
         "url": "https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 175663,
       "name": "Wolf Is At Your Door",
       "url": "https://open.spotify.com/track/2UiNUUvCdmSJvy8ghyUehS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live in Europe 1964 (2025 Remaster)",
+        "url": "https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 302266,
+      "name": "Dust My Broom - Live in Europe 1964 - 2025 Remaster",
+      "url": "https://open.spotify.com/track/4a0NdfY3aWOlZCB3nWz0vS"
     }
   ],
   "unique_name": "This Is Howlin' Wolf",

@@ -1,12 +1,12 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 188001,
+  "num_followers": 187997,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHGLo4Ug5ZRtFqK0Pq5WwBdyKvqD",
+  "snapshot_id": "AAAAAACmV4rp+OY57zkdYsdLfWkNZ/O1",
   "tracks": [
     {
       "added_at": "2026-07-31 09:01:32",
@@ -115,26 +115,6 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
-        "name": "is it cool? (feat. SZA)",
-        "url": "https://open.spotify.com/album/5ZKl6FzFtBJc3edhG04gxW"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 174230,
-      "name": "is it cool? (feat. SZA)",
-      "url": "https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ"
-    },
-    {
-      "added_at": "2026-07-31 09:01:32",
-      "album": {
         "name": "Random Access Memories",
         "url": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
       },
@@ -155,18 +135,22 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
-        "name": "The English Riviera",
-        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
+        "name": "is it cool? (feat. SZA)",
+        "url": "https://open.spotify.com/album/5ZKl6FzFtBJc3edhG04gxW"
       },
       "artists": [
         {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 277653,
-      "name": "The Look",
-      "url": "https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa"
+      "duration_ms": 174230,
+      "name": "is it cool? (feat. SZA)",
+      "url": "https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ"
     },
     {
       "added_at": "2026-07-31 09:01:32",
@@ -187,6 +171,22 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
+        "name": "The English Riviera",
+        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "The Look",
+      "url": "https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa"
+    },
+    {
+      "added_at": "2026-07-31 09:01:32",
+      "album": {
         "name": "Potential",
         "url": "https://open.spotify.com/album/0qqZfp0bh8BpzRZ5jwBLY5"
       },
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 283360,
-      "name": "The Passenger",
-      "url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd"
-    },
-    {
-      "added_at": "2026-07-31 09:01:32",
-      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 345186,
       "name": "Veridis Quo",
       "url": "https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds"
+    },
+    {
+      "added_at": "2026-07-31 09:01:32",
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 283360,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd"
     },
     {
       "added_at": "2026-07-31 09:01:32",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
-        "name": "hickey",
-        "url": "https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "who\u2019s your boyfriend",
-      "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"
-    },
-    {
-      "added_at": "2026-07-31 09:01:32",
-      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 232666,
       "name": "Something About Us",
       "url": "https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91"
+    },
+    {
+      "added_at": "2026-07-31 09:01:32",
+      "album": {
+        "name": "hickey",
+        "url": "https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "who\u2019s your boyfriend",
+      "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"
     },
     {
       "added_at": "2026-07-31 09:01:32",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
+        "name": "One song away from crying",
+        "url": "https://open.spotify.com/album/5xQgMsnL5a1SmABhKGhtN3"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 219609,
+      "name": "One song away from crying",
+      "url": "https://open.spotify.com/track/7EzqmGOTlrzy1NxZRjeuVV"
+    },
+    {
+      "added_at": "2026-07-31 09:01:32",
+      "album": {
         "name": "Old Lovers (feat. The Lumineers)",
         "url": "https://open.spotify.com/album/2ZXrSjTOvBGvcW0m61XKHR"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 213188,
       "name": "Old Lovers (feat. The Lumineers)",
       "url": "https://open.spotify.com/track/2jkKCfee2ib4zQO73tdrzG"
-    },
-    {
-      "added_at": "2026-07-31 09:01:32",
-      "album": {
-        "name": "One song away from crying",
-        "url": "https://open.spotify.com/album/5xQgMsnL5a1SmABhKGhtN3"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 219609,
-      "name": "One song away from crying",
-      "url": "https://open.spotify.com/track/7EzqmGOTlrzy1NxZRjeuVV"
     },
     {
       "added_at": "2026-07-31 09:01:32",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
-        "name": "Cold Fact",
-        "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
-      },
-      "artists": [
-        {
-          "name": "Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
-        }
-      ],
-      "duration_ms": 154240,
-      "name": "I Wonder",
-      "url": "https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC"
-    },
-    {
-      "added_at": "2026-07-31 09:01:32",
-      "album": {
         "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
         "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 221790,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66"
+    },
+    {
+      "added_at": "2026-07-31 09:01:32",
+      "album": {
+        "name": "Cold Fact",
+        "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "duration_ms": 154240,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC"
     },
     {
       "added_at": "2026-07-31 09:01:32",
@@ -679,6 +679,26 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
+        "name": "It Didn't Matter",
+        "url": "https://open.spotify.com/album/3nHipi4hMVyH4Z3VUB6bW5"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        },
+        {
+          "name": "Mareux",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "It Didn't Matter",
+      "url": "https://open.spotify.com/track/10kxTiNUTo4nlEbH1EzoX1"
+    },
+    {
+      "added_at": "2026-07-31 09:01:32",
+      "album": {
         "name": "Isteri",
         "url": "https://open.spotify.com/album/5J3L8ukBVqikwoSN9Mv5sk"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 229760,
       "name": "The Banjo Song",
       "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
-    },
-    {
-      "added_at": "2026-07-31 09:01:32",
-      "album": {
-        "name": "It Didn't Matter",
-        "url": "https://open.spotify.com/album/3nHipi4hMVyH4Z3VUB6bW5"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        },
-        {
-          "name": "Mareux",
-          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "It Didn't Matter",
-      "url": "https://open.spotify.com/track/10kxTiNUTo4nlEbH1EzoX1"
     },
     {
       "added_at": "2026-07-31 09:01:32",
@@ -863,6 +863,26 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
+        "name": "When the Magic Comes",
+        "url": "https://open.spotify.com/album/5ZvR5EsbkiEzjbZTAyxGRp"
+      },
+      "artists": [
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        }
+      ],
+      "duration_ms": 210168,
+      "name": "When the Magic Comes",
+      "url": "https://open.spotify.com/track/35pjjQ26PZhiDcuheub7rX"
+    },
+    {
+      "added_at": "2026-07-31 09:01:32",
+      "album": {
         "name": "La Llorona",
         "url": "https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 261493,
       "name": "Vacances",
       "url": "https://open.spotify.com/track/3ovG6F7Gtf45pniZiMb97a"
-    },
-    {
-      "added_at": "2026-07-31 09:01:32",
-      "album": {
-        "name": "When the Magic Comes",
-        "url": "https://open.spotify.com/album/5ZvR5EsbkiEzjbZTAyxGRp"
-      },
-      "artists": [
-        {
-          "name": "Kraak & Smaak",
-          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
-        },
-        {
-          "name": "Paco Versailles",
-          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
-        }
-      ],
-      "duration_ms": 210168,
-      "name": "When the Magic Comes",
-      "url": "https://open.spotify.com/track/35pjjQ26PZhiDcuheub7rX"
     },
     {
       "added_at": "2026-07-31 09:01:32",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/0fCTZZuaPxbAb1GArjeGR7"
+      },
+      "artists": [
+        {
+          "name": "Claudia Isaki",
+          "url": "https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP"
+        }
+      ],
+      "duration_ms": 226534,
+      "name": "Origami",
+      "url": "https://open.spotify.com/track/2kbAnjDgC3pmHvhPMnPSsj"
+    },
+    {
+      "added_at": "2026-07-31 09:01:32",
+      "album": {
         "name": "On Reste L\u00e0",
         "url": "https://open.spotify.com/album/2CpWLA3tGSmMzVRRYqhf7L"
       },
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
-        "name": "Origami",
-        "url": "https://open.spotify.com/album/0fCTZZuaPxbAb1GArjeGR7"
-      },
-      "artists": [
-        {
-          "name": "Claudia Isaki",
-          "url": "https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP"
-        }
-      ],
-      "duration_ms": 226534,
-      "name": "Origami",
-      "url": "https://open.spotify.com/track/2kbAnjDgC3pmHvhPMnPSsj"
-    },
-    {
-      "added_at": "2026-07-31 09:01:32",
-      "album": {
         "name": "END OF THE SKY",
         "url": "https://open.spotify.com/album/6cyLb8x3s5tF76GY0uzF45"
       },
@@ -1267,22 +1267,6 @@
       "duration_ms": 159807,
       "name": "END OF THE SKY",
       "url": "https://open.spotify.com/track/2laWkyz40Hn8PCodiCTo4Z"
-    },
-    {
-      "added_at": "2026-07-31 09:01:32",
-      "album": {
-        "name": "Respire",
-        "url": "https://open.spotify.com/album/0L3ckhg2u5HcQrFWHkzB9P"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e8le & Robin",
-          "url": "https://open.spotify.com/artist/1C04qPsvqhYBJhpWGCIFo8"
-        }
-      ],
-      "duration_ms": 176305,
-      "name": "Respire",
-      "url": "https://open.spotify.com/track/0w88LNHLNimUZEEdH2Aizq"
     },
     {
       "added_at": "2026-07-31 09:01:32",
@@ -1303,22 +1287,6 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
-        "name": "Fool of Myself",
-        "url": "https://open.spotify.com/album/5o55Yaxu8QiZwfCiGkSRrZ"
-      },
-      "artists": [
-        {
-          "name": "BLOW",
-          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "Fool of Myself",
-      "url": "https://open.spotify.com/track/5HlcHBTefv14obQKWMIxgC"
-    },
-    {
-      "added_at": "2026-07-31 09:01:32",
-      "album": {
         "name": "Flamingo Serenades / Flamingo Favorites",
         "url": "https://open.spotify.com/album/2blBb1v0ylNOrzStHBhK48"
       },
@@ -1331,6 +1299,38 @@
       "duration_ms": 198971,
       "name": "I Only Have Eyes for You",
       "url": "https://open.spotify.com/track/2oSMcZnGARuxk10qd6AXrT"
+    },
+    {
+      "added_at": "2026-07-31 09:01:32",
+      "album": {
+        "name": "Respire",
+        "url": "https://open.spotify.com/album/0L3ckhg2u5HcQrFWHkzB9P"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e8le & Robin",
+          "url": "https://open.spotify.com/artist/1C04qPsvqhYBJhpWGCIFo8"
+        }
+      ],
+      "duration_ms": 176305,
+      "name": "Respire",
+      "url": "https://open.spotify.com/track/0w88LNHLNimUZEEdH2Aizq"
+    },
+    {
+      "added_at": "2026-07-31 09:01:32",
+      "album": {
+        "name": "Fool of Myself",
+        "url": "https://open.spotify.com/album/5o55Yaxu8QiZwfCiGkSRrZ"
+      },
+      "artists": [
+        {
+          "name": "BLOW",
+          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "Fool of Myself",
+      "url": "https://open.spotify.com/track/5HlcHBTefv14obQKWMIxgC"
     },
     {
       "added_at": "2026-07-31 09:01:32",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/2CsUNscxXXxaA4uQPR1pJt"
-      },
-      "artists": [
-        {
-          "name": "BLOW",
-          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
-        }
-      ],
-      "duration_ms": 198640,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/6q62w26Uyzanb0iBu4yZK4"
-    },
-    {
-      "added_at": "2026-07-31 09:01:32",
-      "album": {
         "name": "All Back To: Jungle",
         "url": "https://open.spotify.com/album/5x8fi3qqHSWacxluhUNqW1"
       },
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
-        "name": "Give Me Your Love Back",
-        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/2CsUNscxXXxaA4uQPR1pJt"
       },
       "artists": [
         {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+          "name": "BLOW",
+          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
         }
       ],
-      "duration_ms": 176097,
-      "name": "Give Me Your Love Back",
-      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
+      "duration_ms": 198640,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/6q62w26Uyzanb0iBu4yZK4"
     },
     {
       "added_at": "2026-07-31 09:01:32",
@@ -1443,6 +1427,22 @@
       "duration_ms": 140248,
       "name": "Fou de toi",
       "url": "https://open.spotify.com/track/7mhYCEcW500M6qGhPRMk4R"
+    },
+    {
+      "added_at": "2026-07-31 09:01:32",
+      "album": {
+        "name": "Give Me Your Love Back",
+        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 176097,
+      "name": "Give Me Your Love Back",
+      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
     },
     {
       "added_at": "2026-07-31 09:01:32",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-07-31 09:01:32",
       "album": {
-        "name": "les choses de la vie",
-        "url": "https://open.spotify.com/album/0Bsp98Xgpu4s6Q975tqJ2i"
-      },
-      "artists": [
-        {
-          "name": "DO not DO",
-          "url": "https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi"
-        }
-      ],
-      "duration_ms": 193186,
-      "name": "la vie est belle",
-      "url": "https://open.spotify.com/track/5dfVikb5FBd3IOxabTwfX9"
-    },
-    {
-      "added_at": "2026-07-31 09:01:32",
-      "album": {
         "name": "Rapids of Love",
         "url": "https://open.spotify.com/album/0fZHbSZLXoslXNX1xuaC8D"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 165554,
       "name": "Rapids of Love",
       "url": "https://open.spotify.com/track/5FGGgeSA7S5acKX1Z5nQPp"
+    },
+    {
+      "added_at": "2026-07-31 09:01:32",
+      "album": {
+        "name": "les choses de la vie",
+        "url": "https://open.spotify.com/album/0Bsp98Xgpu4s6Q975tqJ2i"
+      },
+      "artists": [
+        {
+          "name": "DO not DO",
+          "url": "https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi"
+        }
+      ],
+      "duration_ms": 193186,
+      "name": "la vie est belle",
+      "url": "https://open.spotify.com/track/5dfVikb5FBd3IOxabTwfX9"
     },
     {
       "added_at": "2026-07-31 09:01:32",

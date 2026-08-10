@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 00's. Cover: Guus Meeuwis",
-  "num_followers": 52065,
+  "num_followers": 52071,
   "original_name": "00's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAC5kZyM4SMncpWOy9MROSlbHmTM9",
   "tracks": [
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
-        "name": "Strijdlustig",
-        "url": "https://open.spotify.com/album/1lWOET4J2gCO8jItVDAJfX"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "Bloed, Zweet En Tranen",
-      "url": "https://open.spotify.com/track/5ZLkc5RY1NM4FtGWEd6HOE"
-    },
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
@@ -43,18 +27,18 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Boven",
-        "url": "https://open.spotify.com/album/198mMFxiYJihAoJzn7cRO6"
+        "name": "Strijdlustig",
+        "url": "https://open.spotify.com/album/1lWOET4J2gCO8jItVDAJfX"
       },
       "artists": [
         {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 253893,
-      "name": "Harder Dan Ik Hebben Kan",
-      "url": "https://open.spotify.com/track/1buASziRLNHXcTVYFWZ8EK"
+      "duration_ms": 241626,
+      "name": "Bloed, Zweet En Tranen",
+      "url": "https://open.spotify.com/track/5ZLkc5RY1NM4FtGWEd6HOE"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -75,6 +59,22 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
+        "name": "Boven",
+        "url": "https://open.spotify.com/album/198mMFxiYJihAoJzn7cRO6"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 253893,
+      "name": "Harder Dan Ik Hebben Kan",
+      "url": "https://open.spotify.com/track/1buASziRLNHXcTVYFWZ8EK"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
         "name": "Guus Meeuwis",
         "url": "https://open.spotify.com/album/5Nkqfgaq1tqBzLGhSf0zaC"
       },
@@ -87,22 +87,6 @@
       "duration_ms": 210173,
       "name": "Brabant",
       "url": "https://open.spotify.com/track/0GiWi4EkPduFWHQyhiKpRB"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
-        "name": "Gewoon Andre",
-        "url": "https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 229973,
-      "name": "Zij Gelooft In Mij",
-      "url": "https://open.spotify.com/track/4GrQPpjaZmBf67b9Uh83T8"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -123,18 +107,18 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Watermakers",
-        "url": "https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW"
+        "name": "Gewoon Andre",
+        "url": "https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe"
       },
       "artists": [
         {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 274866,
-      "name": "Dansen Aan Zee",
-      "url": "https://open.spotify.com/track/6hC1xBNYMVK4acdnEXaZVD"
+      "duration_ms": 229973,
+      "name": "Zij Gelooft In Mij",
+      "url": "https://open.spotify.com/track/4GrQPpjaZmBf67b9Uh83T8"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -155,6 +139,22 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
+        "name": "Watermakers",
+        "url": "https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 274866,
+      "name": "Dansen Aan Zee",
+      "url": "https://open.spotify.com/track/6hC1xBNYMVK4acdnEXaZVD"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
         "name": "Stilte In De Storm",
         "url": "https://open.spotify.com/album/17jwtlwO5J9ALE9FaJwKfF"
       },
@@ -167,22 +167,6 @@
       "duration_ms": 234586,
       "name": "Als Je Lacht",
       "url": "https://open.spotify.com/track/0jIcyUmf5aANj4ZAaHTizi"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
-        "name": "Onderweg",
-        "url": "https://open.spotify.com/album/6aNqB0DO4ni5VNDEjDwH8g"
-      },
-      "artists": [
-        {
-          "name": "Marco Borsato",
-          "url": "https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "Zij",
-      "url": "https://open.spotify.com/track/54iCdVRWMgmy22pJj0FwHN"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -211,18 +195,18 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Dicht bij jou",
-        "url": "https://open.spotify.com/album/4yy5Ku8m6RLG7T2oReQWIe"
+        "name": "Onderweg",
+        "url": "https://open.spotify.com/album/6aNqB0DO4ni5VNDEjDwH8g"
       },
       "artists": [
         {
-          "name": "Frans Bauer",
-          "url": "https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW"
+          "name": "Marco Borsato",
+          "url": "https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD"
         }
       ],
-      "duration_ms": 198813,
-      "name": "Heb Je Even Voor Mij",
-      "url": "https://open.spotify.com/track/7B78M515588woNjQFBdGcJ"
+      "duration_ms": 245200,
+      "name": "Zij",
+      "url": "https://open.spotify.com/track/54iCdVRWMgmy22pJj0FwHN"
     },
     {
       "added_at": "2022-12-22 07:38:40",
@@ -243,6 +227,22 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
+        "name": "Dicht bij jou",
+        "url": "https://open.spotify.com/album/4yy5Ku8m6RLG7T2oReQWIe"
+      },
+      "artists": [
+        {
+          "name": "Frans Bauer",
+          "url": "https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW"
+        }
+      ],
+      "duration_ms": 198813,
+      "name": "Heb Je Even Voor Mij",
+      "url": "https://open.spotify.com/track/7B78M515588woNjQFBdGcJ"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
         "name": "JanSmit.com",
         "url": "https://open.spotify.com/album/71v1iplssftNV8DOYZwJuw"
       },
@@ -255,6 +255,22 @@
       "duration_ms": 188413,
       "name": "Laura",
       "url": "https://open.spotify.com/track/4wdXbGw7kzzIVx77dVToGq"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
+        "name": "Onvoorspelbaar",
+        "url": "https://open.spotify.com/album/222CHh4D7v0n6vgyYOz67w"
+      },
+      "artists": [
+        {
+          "name": "De Kast",
+          "url": "https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "Hart Van Mijn Gevoel",
+      "url": "https://open.spotify.com/track/75og56sR5lahWgyRyhag5w"
     },
     {
       "added_at": "2023-04-12 19:49:41",
@@ -275,22 +291,6 @@
       "duration_ms": 246000,
       "name": "Voorbij",
       "url": "https://open.spotify.com/track/5dOov14V6FD3sEjDZMiRS6"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
-        "name": "Onvoorspelbaar",
-        "url": "https://open.spotify.com/album/222CHh4D7v0n6vgyYOz67w"
-      },
-      "artists": [
-        {
-          "name": "De Kast",
-          "url": "https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "Hart Van Mijn Gevoel",
-      "url": "https://open.spotify.com/track/75og56sR5lahWgyRyhag5w"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -343,22 +343,6 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Luid En Duidelijk",
-        "url": "https://open.spotify.com/album/2CkRlPC91z87ZCXrQS83P1"
-      },
-      "artists": [
-        {
-          "name": "Marco Borsato",
-          "url": "https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD"
-        }
-      ],
-      "duration_ms": 274933,
-      "name": "Binnen",
-      "url": "https://open.spotify.com/track/6BXM76LZQ1KJ3j7ONB2jBY"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
         "name": "Tijdmachine",
         "url": "https://open.spotify.com/album/2Jaf7GiTd149xp5NiYRh0c"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 209120,
       "name": "Tijdmachine - Edit",
       "url": "https://open.spotify.com/track/5HKJl9V8QDMflGBH0jFS85"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
+        "name": "Luid En Duidelijk",
+        "url": "https://open.spotify.com/album/2CkRlPC91z87ZCXrQS83P1"
+      },
+      "artists": [
+        {
+          "name": "Marco Borsato",
+          "url": "https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD"
+        }
+      ],
+      "duration_ms": 274933,
+      "name": "Binnen",
+      "url": "https://open.spotify.com/track/6BXM76LZQ1KJ3j7ONB2jBY"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -427,6 +427,22 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
+        "name": "Uit de schaduw",
+        "url": "https://open.spotify.com/album/7cmD7hkRNir64DrmIte6aC"
+      },
+      "artists": [
+        {
+          "name": "IOS",
+          "url": "https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv"
+        }
+      ],
+      "duration_ms": 229866,
+      "name": "Uit de Schaduw",
+      "url": "https://open.spotify.com/track/5pKnOLs18biSw3IBZ2XcKi"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
         "name": "Onderweg",
         "url": "https://open.spotify.com/album/6aNqB0DO4ni5VNDEjDwH8g"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 268466,
       "name": "Lopen Op Het Water",
       "url": "https://open.spotify.com/track/3w0op8UIfndZVmTiQzo4z1"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
-        "name": "Uit de schaduw",
-        "url": "https://open.spotify.com/album/7cmD7hkRNir64DrmIte6aC"
-      },
-      "artists": [
-        {
-          "name": "IOS",
-          "url": "https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv"
-        }
-      ],
-      "duration_ms": 229866,
-      "name": "Uit de Schaduw",
-      "url": "https://open.spotify.com/track/5pKnOLs18biSw3IBZ2XcKi"
     },
     {
       "added_at": "2020-02-10 14:27:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > Aug 4th \(Tue\) @Rolling Hall,  Seoul
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,891 likes - 17 songs - 56 min 9 sec
+[Spotify](https://open.spotify.com/user/spotify) - 40,900 likes - 17 songs - 56 min 9 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

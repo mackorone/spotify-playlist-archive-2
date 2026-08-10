@@ -4,7 +4,7 @@
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-138 songs - 8 hr 59 min
+139 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [E Be Like Say](https://open.spotify.com/track/0ZYKnsD8GoiU5tHki9T7Fn) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:46 | 2021-12-28 |  |
 | [Enter the Place](https://open.spotify.com/track/6LqsK7gCnFNaLS5UcZCWMF) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Sound Sultan](https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg) | [UNSTOPPABLE](https://open.spotify.com/album/40XgoMi52ckhRR5iBoYO07) | 4:21 | 2021-12-28 | 2023-02-07 |
 | [Enter the Place \(feat\. Sound Sultan\)](https://open.spotify.com/track/7LQqNZ9DA4TxqXqg2vlGXr) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Sound Sultan](https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg) | [UNSTOPPABLE](https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu) | 4:21 | 2024-03-29 |  |
+| [Feeling You](https://open.spotify.com/track/1l8UZotTBOynkYGEPW0WEa) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [UNSTOPPABLE](https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu) | 4:22 | 2026-08-10 |  |
 | [Feeling You](https://open.spotify.com/track/58m7KaE0iO9T8z2rChajKC) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [UNSTOPPABLE](https://open.spotify.com/album/40XgoMi52ckhRR5iBoYO07) | 4:22 | 2022-01-12 | 2022-12-18 |
 | [Fly](https://open.spotify.com/track/4uxy0hjyGZNvNa10a6Hqts) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [UNSTOPPABLE](https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu) | 4:10 | 2025-08-14 | 2025-08-23 |
 | [Fly](https://open.spotify.com/track/6IBO1NCDDbL9SzQ9A1vFVQ) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [UNSTOPPABLE](https://open.spotify.com/album/40XgoMi52ckhRR5iBoYO07) | 4:10 | 2022-06-09 | 2022-06-12 |

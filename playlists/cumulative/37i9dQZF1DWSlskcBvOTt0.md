@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,171 songs - 3 day 23 hr 1 min
+1,172 songs - 3 day 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -615,7 +615,7 @@
 | [Made For Me \- HoneyLuv AfroLuv Remix](https://open.spotify.com/track/5yY3eGexmfm4rxuWXEibn6) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Made For Me \(HoneyLuv AfroLuv Remix\)](https://open.spotify.com/album/3bZFsyIthTUca3rBsVgHcy) | 3:48 | 2024-10-04 | 2025-01-11 |
 | [Madison](https://open.spotify.com/track/7I3lNfFc4kqfTFqugMkoH2) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Madison](https://open.spotify.com/album/0RdOwSB4S1a8aobCCcM1CD) | 3:36 | 2024-04-12 | 2024-06-01 |
 | [Madre Tierra](https://open.spotify.com/track/7fTCXJjxY8Yds4QyFpJQOa) | [Vite](https://open.spotify.com/artist/6xDzE299teWXHoW3ZuCIHX), [Hole Box](https://open.spotify.com/artist/7FPuNa70lwxm2NqDqkzTs3) | [Marea](https://open.spotify.com/album/6PD6FEDiZVVMOUhFnNw3kZ) | 6:30 | 2021-05-07 | 2022-07-16 |
-| [Mafwe \(with Kwando's Mafwe\)](https://open.spotify.com/track/2GpcdHzc7FZC5wtA7BWe4C) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [ROADS Vol.3](https://open.spotify.com/album/7u5S5R3qPNwdjJpWNCuUkF) | 2:43 | 2025-12-12 |  |
+| [Mafwe \(with Kwando's Mafwe\)](https://open.spotify.com/track/2GpcdHzc7FZC5wtA7BWe4C) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [ROADS Vol.3](https://open.spotify.com/album/7u5S5R3qPNwdjJpWNCuUkF) | 2:43 | 2025-12-12 | 2026-08-10 |
 | [Magia](https://open.spotify.com/track/2ZlpJCddUzr7873198nvXE) | [Chiari](https://open.spotify.com/artist/4JFbDtRJCJ4jQh25Jg54VX) | [Hoom Side of the Moon, Vol\. 01](https://open.spotify.com/album/7AZe7O2pUIGisJVcuARftO) | 7:02 | 2021-05-07 | 2022-07-20 |
 | [Magic](https://open.spotify.com/track/3q8D7O6GOuiNMBX8SJSt8K) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Astrø](https://open.spotify.com/artist/31anju77mwSChYTKZYLxbZ), [Afnan Prince](https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Finding Home](https://open.spotify.com/album/3CRJaVRt0ni52xagPsekyk) | 5:00 | 2025-09-05 | 2026-07-11 |
 | [Magic Circus](https://open.spotify.com/track/2kRuYyYqUMl9TSNuiKGuq7) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S) | [Magic Circus](https://open.spotify.com/album/6gaJv57EuO0tFPoVXPG0W4) | 3:49 | 2024-05-17 | 2025-01-14 |
@@ -949,6 +949,7 @@
 | [Somebody \- Edit](https://open.spotify.com/track/6cdZ4dvrNBK7ZjN896yVw3) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA), [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Somebody](https://open.spotify.com/album/6A6oGWjdOX6v40tZU9pW44) | 3:43 | 2022-05-24 | 2023-11-05 |
 | [Sonder](https://open.spotify.com/track/2YxnaInOpa7nQ7zoJjyTYB) | [Beije](https://open.spotify.com/artist/3S1XM8o51QkQUJzaV7Ngds) | [Sonder](https://open.spotify.com/album/55821Gkol2dnYOQIxtQpve) | 8:00 | 2021-04-21 | 2022-07-29 |
 | [soso \- JOSEPH Remix](https://open.spotify.com/track/7aqQC9GAOSSODVk0oKJjLZ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [JOSEPH \(CH\)](https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0) | [soso \(JOSEPH Remix\)](https://open.spotify.com/album/2fVjZ6CbrGaZVMYXXjDjqc) | 4:51 | 2024-09-20 | 2025-08-30 |
+| [Soul Gazing](https://open.spotify.com/track/1H6SuDLJE2AsamirMImv8X) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX) | [Soul Gazing](https://open.spotify.com/album/0G2b6bwS24q5Bb9j4G69Ru) | 3:45 | 2026-08-07 |  |
 | [SOUL TO KEEP](https://open.spotify.com/track/0CawnvXqgIy6BzbmGULcvE) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [SOUL TO KEEP](https://open.spotify.com/album/0d0e8xAGFEtYp7ZndffJJC) | 7:00 | 2023-02-10 | 2023-04-10 |
 | [Sound Of The Sunrise](https://open.spotify.com/track/6m5LSzsU466ynNvEkxoctM) | [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7), [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [Sound Of The Sunrise](https://open.spotify.com/album/2edg227641w0qF8GX65k0R) | 3:13 | 2025-11-14 |  |
 | [Spirale](https://open.spotify.com/track/1NTl2IqpGs7iwKo2fl4boF) | [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ) | [Spirale](https://open.spotify.com/album/2NcaYhLVadAjKpD2DKlYHb) | 6:48 | 2021-04-21 | 2022-07-21 |

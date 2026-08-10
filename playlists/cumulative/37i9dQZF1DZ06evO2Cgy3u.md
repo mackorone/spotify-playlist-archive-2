@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [57 Ways to End It All](https://open.spotify.com/track/4BbaVYdC0oR3z0erCzaK1u) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 5:31 | 2026-04-27 |  |
+| [57 Ways to End It All](https://open.spotify.com/track/4BbaVYdC0oR3z0erCzaK1u) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 5:31 | 2026-04-27 | 2026-08-10 |
 | [Adventures Close to Home](https://open.spotify.com/track/1KAbkJk4wblIcS4zTNJox0) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Raincoats](https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ) | 1:53 | 2026-03-07 |  |
 | [And Then It's OK](https://open.spotify.com/track/35aBZUn6gHTfa2NFaYf2Nd) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Odyshape](https://open.spotify.com/album/1inTVdcCSIjJS9blv9zogk) | 3:10 | 2026-03-08 |  |
 | [Animal Rhapsody](https://open.spotify.com/track/4PuQC1KUxsIGf6bTnM0Td1) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Moving](https://open.spotify.com/album/1ZD5kza99C1CtH5neRwnmS) | 4:29 | 2026-05-13 | 2026-06-23 |
@@ -44,7 +44,7 @@
 | [Red Shoes](https://open.spotify.com/track/7MWjeaUr1dnt89gM4evvhZ) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Odyshape](https://open.spotify.com/album/1inTVdcCSIjJS9blv9zogk) | 2:55 | 2026-03-09 | 2026-07-25 |
 | [Running Away](https://open.spotify.com/track/5HNwgMrDzIxKepdVz34TwY) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Moving](https://open.spotify.com/album/1ZD5kza99C1CtH5neRwnmS) | 2:49 | 2026-03-07 |  |
 | [Shouting Out Loud](https://open.spotify.com/track/1eVXXExM6RDIC4PjLEBpa8) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Odyshape](https://open.spotify.com/album/1inTVdcCSIjJS9blv9zogk) | 4:59 | 2026-03-07 |  |
-| [So Damn Early](https://open.spotify.com/track/5NFH77uZfbIZ5BZGGJ208b) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 4:12 | 2026-04-29 | 2026-08-09 |
+| [So Damn Early](https://open.spotify.com/track/5NFH77uZfbIZ5BZGGJ208b) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 4:12 | 2026-04-29 |  |
 | [The Body](https://open.spotify.com/track/5tJWjOgcvLFxTDGsOBQNEY) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Kitchen Tapes](https://open.spotify.com/album/7lrhm4dev25tzUcfoCFm7w) | 3:31 | 2026-03-07 |  |
 | [The Void](https://open.spotify.com/track/007mKIn7XPKaX4XtBDSOSP) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Raincoats](https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ) | 3:51 | 2026-03-07 | 2026-05-08 |
 | [Truth is Hard](https://open.spotify.com/track/7zJHS8S6m7TPR6BJnnwGr6) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 2:57 | 2026-03-07 | 2026-06-16 |

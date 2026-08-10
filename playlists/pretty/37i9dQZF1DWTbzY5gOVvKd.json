@@ -1,6 +1,6 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1298147,
+  "num_followers": 1298161,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
+        "name": "The Best Of... The Great American Songbook",
+        "url": "https://open.spotify.com/album/6gx2SDPETBkF770SMNIVvg"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Long Ago And Far Away",
+      "url": "https://open.spotify.com/track/7fZvYBCwGukF0TBlCtLuXk"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
         "name": "An Evening with/ Andy James & John Patitucci",
         "url": "https://open.spotify.com/album/3wmErkWqIMYJiQhplNUPhl"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 263282,
       "name": "Autumn In New York (feat. Chris Potter, Bill Cunliffe & Vinnie Colaiuta)",
       "url": "https://open.spotify.com/track/6DwflQH9R5Y4hpJrGPeNsC"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
-        "name": "The Best Of... The Great American Songbook",
-        "url": "https://open.spotify.com/album/6gx2SDPETBkF770SMNIVvg"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Long Ago And Far Away",
-      "url": "https://open.spotify.com/track/7fZvYBCwGukF0TBlCtLuXk"
     },
     {
       "added_at": "2026-07-03 08:18:20",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-07-03 08:18:20",
       "album": {
+        "name": "Stella Cole (Extended Version)",
+        "url": "https://open.spotify.com/album/2OvksIH5wPjzbQ8yDygT8w"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "I Could Have Danced All Night",
+      "url": "https://open.spotify.com/track/0V3lvoVH87NmnV0uG39dru"
+    },
+    {
+      "added_at": "2026-07-03 08:18:20",
+      "album": {
         "name": "The Richard Rodgers Songbook",
         "url": "https://open.spotify.com/album/2nsWi2RA4XDmgOuuMKW87h"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 207409,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/5qwcaOKZbXMze0ChEL4MsX"
-    },
-    {
-      "added_at": "2026-07-03 08:18:20",
-      "album": {
-        "name": "Stella Cole (Extended Version)",
-        "url": "https://open.spotify.com/album/2OvksIH5wPjzbQ8yDygT8w"
-      },
-      "artists": [
-        {
-          "name": "Stella Cole",
-          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "I Could Have Danced All Night",
-      "url": "https://open.spotify.com/track/0V3lvoVH87NmnV0uG39dru"
     },
     {
       "added_at": "2026-07-03 08:18:20",

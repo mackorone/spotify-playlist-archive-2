@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: Carly Rae Jepsen
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,029,141 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,029,063 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 41 | [Guqa \(My Prayer\)](https://open.spotify.com/track/2i640R1xpVapryc9QKdVeo) | [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86), [TBO](https://open.spotify.com/artist/64xQmd6s2PbIZkjqOXx0hp) | [Izinja Zam: Vol\. I](https://open.spotify.com/album/0HQLuYklJlPPnAH4Fk3IsH) | 7:05 |
 | 42 | [GIẢ VỜ](https://open.spotify.com/track/4DM8buF9J04zNPtYVMUt74) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [GIẢ VỜ](https://open.spotify.com/album/3jqXa5a8QG4DnNPcY9JZTu) | 4:13 |
 | 43 | [Returning Home](https://open.spotify.com/track/2J1RmBn30CRojpdfLpxnkF) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Returning Home](https://open.spotify.com/album/2M1pgphGdOG3Mu39g5nxZI) | 3:34 |
-| 44 | [Superman](https://open.spotify.com/track/3seFRBH0poqCNPUA00XYaX) | [Federica Abbate](https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B) | [Superman](https://open.spotify.com/album/4mrKLwrqsKD8vskUhIT3wm) | 3:12 |
-| 45 | [Ceai langa tine](https://open.spotify.com/track/4SWkUkMoq4sScbU9AOSFIT) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [Ceai langa tine](https://open.spotify.com/album/3mXZJCP3IYgC22xLx1OC0D) | 2:29 |
+| 44 | [Ceai langa tine](https://open.spotify.com/track/4SWkUkMoq4sScbU9AOSFIT) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [Ceai langa tine](https://open.spotify.com/album/3mXZJCP3IYgC22xLx1OC0D) | 2:29 |
+| 45 | [Superman](https://open.spotify.com/track/3seFRBH0poqCNPUA00XYaX) | [Federica Abbate](https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B) | [Superman](https://open.spotify.com/album/4mrKLwrqsKD8vskUhIT3wm) | 3:12 |
 | 46 | [Naksir](https://open.spotify.com/track/6Zk1AtD1vTsjP9Z1XOEAVE) | [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Sehidup Semusik](https://open.spotify.com/album/7Du5gdzqBFuZxKQEQ7XDXT) | 4:40 |
 | 47 | [Diamonds in the Sky](https://open.spotify.com/track/6B0ddCksLT3kXUtgZnExBC) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Diamonds in the Sky](https://open.spotify.com/album/6SC1rulRuCQizgLJVS2zHN) | 3:05 |
 | 48 | [5AM](https://open.spotify.com/track/59oSJUWLxsD6gQRup9aGCY) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [5AM](https://open.spotify.com/album/1H4LHLHLLckvd7VAgInxwP) | 3:24 |

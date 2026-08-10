@@ -1,12 +1,12 @@
 {
   "description": "This is Am\u00e9n. The essential tracks, all in one playlist.",
-  "num_followers": 7245,
+  "num_followers": 7243,
   "original_name": "This Is Am\u00e9n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anUgAAAAAAAAKjle3OTxQe7PtTO1ixDg",
+  "snapshot_id": "anZxgAAAAAASS3I4o2pfuJI3NNWD61sg",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
+        "name": "Infectado",
+        "url": "https://open.spotify.com/album/5dXikqKuG5OMktmbjAUINT"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 233693,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/29FAw4iBbQtN5T7hU3Jpd8"
+      "duration_ms": 198146,
+      "name": "Infectado",
+      "url": "https://open.spotify.com/track/1ivC5BSk72cpuJuGohFMSZ"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infectado",
-        "url": "https://open.spotify.com/album/5dXikqKuG5OMktmbjAUINT"
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 198146,
-      "name": "Infectado",
-      "url": "https://open.spotify.com/track/1ivC5BSk72cpuJuGohFMSZ"
+      "duration_ms": 233693,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/29FAw4iBbQtN5T7hU3Jpd8"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Una Canci\u00f3n por Dios",
-      "url": "https://open.spotify.com/track/12XwPoe7AqbSJEeJCLNkTW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tiempos de Resurrecci\u00f3n",
         "url": "https://open.spotify.com/album/30y9YTNOcSKGK3ii0qJxIG"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 195000,
       "name": "Simplemente",
       "url": "https://open.spotify.com/track/18DkHYBzABD5gyPGzkEnzt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Una Canci\u00f3n por Dios",
+      "url": "https://open.spotify.com/track/12XwPoe7AqbSJEeJCLNkTW"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pagando el precio",
-        "url": "https://open.spotify.com/album/68DUrpCWFKIsRjynDOQdXg"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 215076,
-      "name": "Pagando el precio",
-      "url": "https://open.spotify.com/track/6STWRUlgr4kxD4N2WLgipr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tiempos de Resurrecci\u00f3n",
         "url": "https://open.spotify.com/album/30y9YTNOcSKGK3ii0qJxIG"
       },
@@ -459,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infectado",
-        "url": "https://open.spotify.com/album/5dXikqKuG5OMktmbjAUINT"
+        "name": "Pagando el precio",
+        "url": "https://open.spotify.com/album/68DUrpCWFKIsRjynDOQdXg"
       },
       "artists": [
         {
@@ -468,9 +452,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Ahora Volar\u00e9",
-      "url": "https://open.spotify.com/track/2yEj8rm82avpn6ylQeYP1V"
+      "duration_ms": 215076,
+      "name": "Pagando el precio",
+      "url": "https://open.spotify.com/track/6STWRUlgr4kxD4N2WLgipr"
     },
     {
       "added_at": null,
@@ -491,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "2020",
-        "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
+        "name": "Infectado",
+        "url": "https://open.spotify.com/album/5dXikqKuG5OMktmbjAUINT"
       },
       "artists": [
         {
@@ -500,9 +484,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 248784,
-      "name": "Los Finos",
-      "url": "https://open.spotify.com/track/6M82EyIRzpnVNAnDO0v2ML"
+      "duration_ms": 179000,
+      "name": "Ahora Volar\u00e9",
+      "url": "https://open.spotify.com/track/2yEj8rm82avpn6ylQeYP1V"
     },
     {
       "added_at": null,
@@ -519,6 +503,22 @@
       "duration_ms": 130500,
       "name": "El Tunel del Amor",
       "url": "https://open.spotify.com/track/3nv5hPCPj12B2bwYRbHf4F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2020",
+        "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 248784,
+      "name": "Los Finos",
+      "url": "https://open.spotify.com/track/6M82EyIRzpnVNAnDO0v2ML"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre Cuatro Paredes",
-        "url": "https://open.spotify.com/album/5fRssy6drHYnM3JNiqM5nx"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 266020,
-      "name": "Entre Cuatro Paredes",
-      "url": "https://open.spotify.com/track/4U5Up5wS4scgfj0bhMOl2Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tiempos de Resurrecci\u00f3n",
         "url": "https://open.spotify.com/album/30y9YTNOcSKGK3ii0qJxIG"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 136081,
       "name": "No S\u00e9 por Qu\u00e9",
       "url": "https://open.spotify.com/track/0YvFPgjHcLj3s6vfxzti2l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre Cuatro Paredes",
+        "url": "https://open.spotify.com/album/5fRssy6drHYnM3JNiqM5nx"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 266020,
+      "name": "Entre Cuatro Paredes",
+      "url": "https://open.spotify.com/track/4U5Up5wS4scgfj0bhMOl2Z"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 250920,
-      "name": "Dilo por M\u00ed",
-      "url": "https://open.spotify.com/track/2PCgkMqH1xERaQW3PstfF7"
+      "duration_ms": 261213,
+      "name": "Salva Mi Mente",
+      "url": "https://open.spotify.com/track/7aLwfy4cq9U5b4GRThUacZ"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 261213,
-      "name": "Salva Mi Mente",
-      "url": "https://open.spotify.com/track/7aLwfy4cq9U5b4GRThUacZ"
+      "duration_ms": 250920,
+      "name": "Dilo por M\u00ed",
+      "url": "https://open.spotify.com/track/2PCgkMqH1xERaQW3PstfF7"
     },
     {
       "added_at": null,

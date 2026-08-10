@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 427204,
+  "num_followers": 427202,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-07-24 15:37:17",
       "album": {
-        "name": "Berrinche",
-        "url": "https://open.spotify.com/album/2eiABxwsZYiIxQyugXKZsb"
-      },
-      "artists": [
-        {
-          "name": "Alan Sutton y las criaturitas de la ansiedad",
-          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Suerte y Hasta Pronto",
-      "url": "https://open.spotify.com/track/4XPpPrjOBGOyifH8D4IOrU"
-    },
-    {
-      "added_at": "2026-07-24 15:37:17",
-      "album": {
         "name": "Derrumbe",
         "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 131999,
       "name": "Derrumbe",
       "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
+    },
+    {
+      "added_at": "2026-07-24 15:37:17",
+      "album": {
+        "name": "Berrinche",
+        "url": "https://open.spotify.com/album/2eiABxwsZYiIxQyugXKZsb"
+      },
+      "artists": [
+        {
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Suerte y Hasta Pronto",
+      "url": "https://open.spotify.com/track/4XPpPrjOBGOyifH8D4IOrU"
     },
     {
       "added_at": "2026-07-24 15:37:17",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2026-07-24 15:37:17",
       "album": {
-        "name": "Vos",
-        "url": "https://open.spotify.com/album/0H5BnWQZyob5gORyrods7t"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        },
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        }
-      ],
-      "duration_ms": 198157,
-      "name": "Vos",
-      "url": "https://open.spotify.com/track/2d7QcFbqo7AfLLnHRmbqrn"
-    },
-    {
-      "added_at": "2026-07-24 15:37:17",
-      "album": {
         "name": "El Verdadero",
         "url": "https://open.spotify.com/album/2FH18Hc5xC6LhgLA5ylBHt"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 163682,
       "name": "Antiguo y moderno",
       "url": "https://open.spotify.com/track/61yrUJAIQBb6xAL1PAn3uf"
+    },
+    {
+      "added_at": "2026-07-24 15:37:17",
+      "album": {
+        "name": "Vos",
+        "url": "https://open.spotify.com/album/0H5BnWQZyob5gORyrods7t"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        },
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "duration_ms": 198157,
+      "name": "Vos",
+      "url": "https://open.spotify.com/track/2d7QcFbqo7AfLLnHRmbqrn"
     },
     {
       "added_at": "2026-07-24 15:37:17",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-07-24 15:37:17",
       "album": {
-        "name": "Tripolar",
-        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 156738,
-      "name": "Nena, dime algo.",
-      "url": "https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA"
-    },
-    {
-      "added_at": "2026-07-24 15:37:17",
-      "album": {
         "name": "Artificio",
         "url": "https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 200573,
       "name": "Tan temperamental",
       "url": "https://open.spotify.com/track/2LmQL1ptqEkIQSHy0O8zvu"
+    },
+    {
+      "added_at": "2026-07-24 15:37:17",
+      "album": {
+        "name": "Tripolar",
+        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 156738,
+      "name": "Nena, dime algo.",
+      "url": "https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA"
     },
     {
       "added_at": "2026-07-24 15:37:17",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-07-24 15:37:17",
       "album": {
-        "name": "Decir que s\u00ed",
-        "url": "https://open.spotify.com/album/52PFaNWnDjXTCuDyMdIFT0"
-      },
-      "artists": [
-        {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
-        }
-      ],
-      "duration_ms": 138065,
-      "name": "Dije que s\u00ed",
-      "url": "https://open.spotify.com/track/78rLvvoIpOAcdVPmQJNTnt"
-    },
-    {
-      "added_at": "2026-07-24 15:37:17",
-      "album": {
         "name": "me hace bien amar(te)",
         "url": "https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 223142,
       "name": "me hace bien amar(te)",
       "url": "https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB"
+    },
+    {
+      "added_at": "2026-07-24 15:37:17",
+      "album": {
+        "name": "Decir que s\u00ed",
+        "url": "https://open.spotify.com/album/52PFaNWnDjXTCuDyMdIFT0"
+      },
+      "artists": [
+        {
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+        }
+      ],
+      "duration_ms": 138065,
+      "name": "Dije que s\u00ed",
+      "url": "https://open.spotify.com/track/78rLvvoIpOAcdVPmQJNTnt"
     },
     {
       "added_at": "2026-07-24 15:37:17",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-07-24 15:37:17",
       "album": {
-        "name": "ANASTASIA",
-        "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 182764,
-      "name": "D\u00cdA DEL AMOR",
-      "url": "https://open.spotify.com/track/7B4fViGgWYNzc27j9fyTdU"
-    },
-    {
-      "added_at": "2026-07-24 15:37:17",
-      "album": {
         "name": "El Amor en Mi Vida",
         "url": "https://open.spotify.com/album/0it2idFNTKDK9DzyxL6vy1"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 222406,
       "name": "El Amor en Mi Vida",
       "url": "https://open.spotify.com/track/2uBYq9tm9G5UapyQmbeU6K"
+    },
+    {
+      "added_at": "2026-07-24 15:37:17",
+      "album": {
+        "name": "ANASTASIA",
+        "url": "https://open.spotify.com/album/3wbzzUJD8dnfUODIpoCoHO"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 182764,
+      "name": "D\u00cdA DEL AMOR",
+      "url": "https://open.spotify.com/track/7B4fViGgWYNzc27j9fyTdU"
     },
     {
       "added_at": "2026-07-24 15:37:17",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-07-24 15:37:17",
       "album": {
-        "name": "BIG BANG",
-        "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 183131,
-      "name": "BIG BANG",
-      "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
-    },
-    {
-      "added_at": "2026-07-24 15:37:17",
-      "album": {
         "name": "El Mundo Siempre Estuvo Dividido en Dos",
         "url": "https://open.spotify.com/album/4DwDKGqyR2hp8roLeNrhYh"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 125156,
       "name": "El Mundo Siempre Estuvo Dividido en Dos",
       "url": "https://open.spotify.com/track/2mdZOkJvBqGaPmuqLLMp88"
+    },
+    {
+      "added_at": "2026-07-24 15:37:17",
+      "album": {
+        "name": "BIG BANG",
+        "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 183131,
+      "name": "BIG BANG",
+      "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
     }
   ],
   "unique_name": "T\u00e9 Para Tres",

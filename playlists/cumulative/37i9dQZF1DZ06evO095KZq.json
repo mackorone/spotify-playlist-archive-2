@@ -238,7 +238,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 157306,
       "name": "Chalito - En Vivo",
       "url": "https://open.spotify.com/track/5fzKzpAcYCgBX7w5ZnWqrb"
@@ -1382,6 +1382,28 @@
       "duration_ms": 173874,
       "name": "La Loter\u00eda",
       "url": "https://open.spotify.com/track/7E4nVNpcqxMzfJv5qqgaAk"
+    },
+    {
+      "album": {
+        "name": "La Mera Verdura",
+        "url": "https://open.spotify.com/album/76XJZfWXmSTja9OkkEhvJ3"
+      },
+      "artists": [
+        {
+          "name": "Superiores de Nuevo Leon",
+          "url": "https://open.spotify.com/artist/2SET3aaOFm3cLiDGw3xyPv"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140713,
+      "name": "La Mera Verdura",
+      "url": "https://open.spotify.com/track/4tu4meJwua2TMNYU0gh3oV"
     },
     {
       "album": {

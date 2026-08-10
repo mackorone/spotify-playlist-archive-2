@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: さらさ
 
-3,851 songs - 10 day 5 hr 7 min
+3,852 songs - 10 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -687,6 +687,7 @@
 | [Gitai](https://open.spotify.com/track/10UqUYADXNPn7ycjvH2R6A) | [お風呂でピーナッツ](https://open.spotify.com/artist/6k0zURWsJhaiI1PWVt8CV4) | [Gitai](https://open.spotify.com/album/0COJzOjpXjcBhQPZFgiRUx) | 3:02 | 2024-02-06 | 2024-02-14 |
 | [Give in](https://open.spotify.com/track/7qmM6bOZe3f3QzRvc5p0pT) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Give in](https://open.spotify.com/album/3LZqLkC948fJlfUv3eiK8H) | 4:06 | 2025-10-14 | 2025-10-22 |
 | [Glitch\*](https://open.spotify.com/track/5kM7xgKZ76UgdjRTBdiy8w) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Glitch\*](https://open.spotify.com/album/1JVUgnXpPfiBffquWH53k7) | 2:43 | 2026-03-31 | 2026-07-28 |
+| [Glitter Glide \- From "Stitch and Angel's Pop Star Party"/Japanese Version](https://open.spotify.com/track/35dupqlMFz5LtrkPfjXq5r) | [Soala](https://open.spotify.com/artist/5MBWJMHvKch5TJxUPNOVer) | [Glitter Glide \(From "Stitch and Angel's Pop Star Party"/Japanese Version\)](https://open.spotify.com/album/50upgjiv1doJrSi4U5da3Y) | 2:22 | 2026-08-04 |  |
 | [Go back](https://open.spotify.com/track/1ftGsEABSxkmsOZdASmGfU) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Go back / friends](https://open.spotify.com/album/5XjQlyBNjNJnnpqG62tgeb) | 3:52 | 2023-02-21 | 2023-02-23 |
 | [Go back](https://open.spotify.com/track/59rg9AKIjMeYBwCR5gKIYi) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Go back / friends](https://open.spotify.com/album/5HTy5a54bVrCSWYYrgIoZF) | 3:52 | 2023-02-21 | 2023-03-29 |
 | [Go Round feat.Daoko](https://open.spotify.com/track/7BSLbYEo3dZAFSRzpJqT3X) | [KizunaAI](https://open.spotify.com/artist/0PBygVazIp5XN6sBMSa14Y), [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC) | [Homecoming](https://open.spotify.com/album/1DifKQp5ypPbb6xxpWsG1R) | 3:07 | 2025-09-16 | 2025-09-24 |
@@ -1993,7 +1994,7 @@
 | [Travelers](https://open.spotify.com/track/174Nite6TiCK2GgiGlCXz9) | [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [Travelers](https://open.spotify.com/album/4skbYCCX3tI970lb4nbsVc) | 5:22 | 2023-03-23 | 2023-03-29 |
 | [TREE CLIMBERS \-2025 ver.\-](https://open.spotify.com/track/6jLPPPgSxbhmIkq7Z8lzrs) | [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [20years](https://open.spotify.com/album/1A8nnoDDITBLSVAoVYNCxi) | 3:15 | 2025-04-15 | 2025-04-23 |
 | [Trip](https://open.spotify.com/track/3z3FInUn8TSfGKjPxOZ0VY) | [パジャマで海なんかいかない](https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac) | [Trip](https://open.spotify.com/album/5AAb2Ggk8How7c0Ye83dGp) | 4:35 | 2022-06-07 | 2022-06-15 |
-| [Tropical Paradise \(3am girls\) feat.f5ve, 詩羽](https://open.spotify.com/track/07XtYE9j1lA8KwOnb1OeWy) | [BACARDI RECORDS](https://open.spotify.com/artist/50HufyqvWA4Bj4GuWf0ztA), [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy), [詩羽](https://open.spotify.com/artist/3vWbD5gIzJgQXrDr79HaQp) | [Tropical Paradise \(3am girls\) feat.f5ve, 詩羽](https://open.spotify.com/album/51rrGc0RLI8rD8ctSTAoRc) | 2:20 | 2026-06-16 |  |
+| [Tropical Paradise \(3am girls\) feat.f5ve, 詩羽](https://open.spotify.com/track/07XtYE9j1lA8KwOnb1OeWy) | [BACARDI RECORDS](https://open.spotify.com/artist/50HufyqvWA4Bj4GuWf0ztA), [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy), [詩羽](https://open.spotify.com/artist/3vWbD5gIzJgQXrDr79HaQp) | [Tropical Paradise \(3am girls\) feat.f5ve, 詩羽](https://open.spotify.com/album/51rrGc0RLI8rD8ctSTAoRc) | 2:20 | 2026-06-16 | 2026-08-10 |
 | [TRUE ROMANCE](https://open.spotify.com/track/2Z5YReCk1v75kXOOJnz6Dw) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [TRUE ROMANCE](https://open.spotify.com/album/28fndfGuME4dOzZ4UH4zOB) | 3:26 | 2022-11-15 | 2023-01-04 |
 | [true to true](https://open.spotify.com/track/1mbk4FTeAZ5OfEM2ISWf3n) | [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [true to true](https://open.spotify.com/album/2pQASrevvjkllTgYeAVSG2) | 3:02 | 2022-06-14 | 2022-07-07 |
 | [TRUMAN](https://open.spotify.com/track/22ddh4soKM3Soz0SMHzlAP) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [WHOOPEE](https://open.spotify.com/album/1tINlOaFYbmxyk5PhNEUJK) | 3:36 | 2023-01-17 | 2023-08-27 |

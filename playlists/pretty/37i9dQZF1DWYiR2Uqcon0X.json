@@ -1,6 +1,6 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 733860,
+  "num_followers": 733836,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-07-24 04:02:24",
       "album": {
+        "name": "Blood Brothers",
+        "url": "https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Foucault",
+          "url": "https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK"
+        }
+      ],
+      "duration_ms": 140493,
+      "name": "Pretty Hands",
+      "url": "https://open.spotify.com/track/0daO3mhf7lmqH1vNsGEFCJ"
+    },
+    {
+      "added_at": "2026-07-24 04:02:24",
+      "album": {
         "name": "Because Of Yours",
         "url": "https://open.spotify.com/album/1brc4oeT2JHZmmVXXTrrrS"
       },
@@ -903,22 +919,6 @@
     {
       "added_at": "2026-07-24 04:02:24",
       "album": {
-        "name": "Blood Brothers",
-        "url": "https://open.spotify.com/album/4DsOKCHNJ2RHA24Dlz68uN"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey Foucault",
-          "url": "https://open.spotify.com/artist/7i36YYqKiSqVihxTcvLSBK"
-        }
-      ],
-      "duration_ms": 140493,
-      "name": "Pretty Hands",
-      "url": "https://open.spotify.com/track/0daO3mhf7lmqH1vNsGEFCJ"
-    },
-    {
-      "added_at": "2026-07-24 04:02:24",
-      "album": {
         "name": "The Heartbroken Record",
         "url": "https://open.spotify.com/album/5JGn3VCsHcB2xaqY5bdclK"
       },
@@ -931,38 +931,6 @@
       "duration_ms": 172206,
       "name": "Settling Things",
       "url": "https://open.spotify.com/track/0XDGhfW6CS8syWE7gh9ei4"
-    },
-    {
-      "added_at": "2026-07-24 04:02:24",
-      "album": {
-        "name": "KING",
-        "url": "https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj"
-      },
-      "artists": [
-        {
-          "name": "Tucker Beathard",
-          "url": "https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk"
-        }
-      ],
-      "duration_ms": 205840,
-      "name": "20/10 TN",
-      "url": "https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV"
-    },
-    {
-      "added_at": "2026-07-24 04:02:24",
-      "album": {
-        "name": "Home To Me",
-        "url": "https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
-        }
-      ],
-      "duration_ms": 186316,
-      "name": "Home To Me",
-      "url": "https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL"
     },
     {
       "added_at": "2026-07-24 04:02:24",
@@ -999,6 +967,38 @@
     {
       "added_at": "2026-07-24 04:02:24",
       "album": {
+        "name": "Home To Me",
+        "url": "https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+        }
+      ],
+      "duration_ms": 186316,
+      "name": "Home To Me",
+      "url": "https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL"
+    },
+    {
+      "added_at": "2026-07-24 04:02:24",
+      "album": {
+        "name": "KING",
+        "url": "https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj"
+      },
+      "artists": [
+        {
+          "name": "Tucker Beathard",
+          "url": "https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk"
+        }
+      ],
+      "duration_ms": 205840,
+      "name": "20/10 TN",
+      "url": "https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV"
+    },
+    {
+      "added_at": "2026-07-24 04:02:24",
+      "album": {
         "name": "Cowgirl",
         "url": "https://open.spotify.com/album/7nv5BlYzkMnp9VEo8OX0Dg"
       },
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-07-24 04:02:24",
       "album": {
+        "name": "Carolina In My Mind",
+        "url": "https://open.spotify.com/album/096rv9JgHgwoc4VTICs8Np"
+      },
+      "artists": [
+        {
+          "name": "Raleigh Keegan",
+          "url": "https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV"
+        }
+      ],
+      "duration_ms": 233684,
+      "name": "Carolina In My Mind",
+      "url": "https://open.spotify.com/track/4DG1AciZ86C7zaee6VkLih"
+    },
+    {
+      "added_at": "2026-07-24 04:02:24",
+      "album": {
         "name": "Nothing New",
         "url": "https://open.spotify.com/album/3M7n1eOFNiyAkn8rbBayee"
       },
@@ -1047,18 +1063,18 @@
     {
       "added_at": "2026-07-24 04:02:24",
       "album": {
-        "name": "Carolina In My Mind",
-        "url": "https://open.spotify.com/album/096rv9JgHgwoc4VTICs8Np"
+        "name": "Back to You",
+        "url": "https://open.spotify.com/album/6oKON9XPW9sB4CBnrQL3rs"
       },
       "artists": [
         {
-          "name": "Raleigh Keegan",
-          "url": "https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV"
+          "name": "Jedd Hughes",
+          "url": "https://open.spotify.com/artist/6aZmqT6ycUdRsm7fF7ndwH"
         }
       ],
-      "duration_ms": 233684,
-      "name": "Carolina In My Mind",
-      "url": "https://open.spotify.com/track/4DG1AciZ86C7zaee6VkLih"
+      "duration_ms": 224626,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/5tXygo2KgUWVhpvYW7r0I5"
     },
     {
       "added_at": "2026-07-24 04:02:24",
@@ -1095,18 +1111,18 @@
     {
       "added_at": "2026-07-24 04:02:24",
       "album": {
-        "name": "Back to You",
-        "url": "https://open.spotify.com/album/6oKON9XPW9sB4CBnrQL3rs"
+        "name": "Better Than That",
+        "url": "https://open.spotify.com/album/2KsHuCJUVL0VtCqSLKxhRi"
       },
       "artists": [
         {
-          "name": "Jedd Hughes",
-          "url": "https://open.spotify.com/artist/6aZmqT6ycUdRsm7fF7ndwH"
+          "name": "Ian McConnell",
+          "url": "https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1"
         }
       ],
-      "duration_ms": 224626,
-      "name": "Back to You",
-      "url": "https://open.spotify.com/track/5tXygo2KgUWVhpvYW7r0I5"
+      "duration_ms": 193242,
+      "name": "Better Than That",
+      "url": "https://open.spotify.com/track/3doRPkGBQUl1ukOGagcFVs"
     },
     {
       "added_at": "2026-07-24 04:02:24",
@@ -1123,22 +1139,6 @@
       "duration_ms": 188541,
       "name": "Time Is Cold (Coffee House Version)",
       "url": "https://open.spotify.com/track/0BYkrYRN04xUnZG53OHfGS"
-    },
-    {
-      "added_at": "2026-07-24 04:02:24",
-      "album": {
-        "name": "Better Than That",
-        "url": "https://open.spotify.com/album/2KsHuCJUVL0VtCqSLKxhRi"
-      },
-      "artists": [
-        {
-          "name": "Ian McConnell",
-          "url": "https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1"
-        }
-      ],
-      "duration_ms": 193242,
-      "name": "Better Than That",
-      "url": "https://open.spotify.com/track/3doRPkGBQUl1ukOGagcFVs"
     },
     {
       "added_at": "2026-07-24 04:02:24",

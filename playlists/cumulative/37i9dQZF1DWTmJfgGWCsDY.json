@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "Alisema Ananipenda",
+        "url": "https://open.spotify.com/album/6ZOhQ5ArzHgpHAmWNnp3NQ"
+      },
+      "artists": [
+        {
+          "name": "Msomali",
+          "url": "https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc"
+        },
+        {
+          "name": "Jb Mabaga",
+          "url": "https://open.spotify.com/artist/0krCWwIqylCQnAqHJ2MhAj"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185286,
+      "name": "Alisema Ananipenda",
+      "url": "https://open.spotify.com/track/3ojYtb6d8mksXZizPp7koX"
+    },
+    {
+      "album": {
         "name": "Amechukua Nani",
         "url": "https://open.spotify.com/album/7bDMjf2l5DJBGNxxfzlRB4"
       },
@@ -2828,7 +2850,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 186193,
       "name": "Shobo",
       "url": "https://open.spotify.com/track/2JjBpdexI7ov1iDdfZPISk"

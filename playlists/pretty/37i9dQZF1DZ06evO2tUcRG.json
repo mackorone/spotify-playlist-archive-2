@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 269183,
+  "num_followers": 269181,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "anUgAAAAAADc0ZldOcFjD1NptgiActj9",
+  "snapshot_id": "anZxgAAAAADddvnNJYzfsYUL+N1LChOv",
   "tracks": [
     {
       "added_at": null,
@@ -455,22 +455,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
+        "name": "Palavras",
+        "url": "https://open.spotify.com/album/6ItUOVRPgGEJYGNinSw625"
       },
       "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        },
         {
           "name": "Gabriela Rocha",
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 374986,
-      "name": "Nada Al\u00e9m de Ti - Ao Vivo",
-      "url": "https://open.spotify.com/track/5EDXCypGSkaJLRGNvhsL4h"
+      "duration_ms": 317043,
+      "name": "Palavras",
+      "url": "https://open.spotify.com/track/690ypxquSmzDvvVB9eqhPc"
     },
     {
       "added_at": null,
@@ -507,18 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palavras",
-        "url": "https://open.spotify.com/album/6ItUOVRPgGEJYGNinSw625"
+        "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
       },
       "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        },
         {
           "name": "Gabriela Rocha",
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 317043,
-      "name": "Palavras",
-      "url": "https://open.spotify.com/track/690ypxquSmzDvvVB9eqhPc"
+      "duration_ms": 374986,
+      "name": "Nada Al\u00e9m de Ti - Ao Vivo",
+      "url": "https://open.spotify.com/track/5EDXCypGSkaJLRGNvhsL4h"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vou Seguir",
+        "url": "https://open.spotify.com/album/7MKPG8Puatu6YPUCYwUKBy"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 288022,
+      "name": "Vou Seguir",
+      "url": "https://open.spotify.com/track/7HQ4iOLhrrTAna6RuciH5E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pra Onde Iremos?",
         "url": "https://open.spotify.com/album/1ifW4VsChr6AgOvpmd8ZFo"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 403538,
       "name": "\u00c9s o Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vou Seguir",
-        "url": "https://open.spotify.com/album/7MKPG8Puatu6YPUCYwUKBy"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 288022,
-      "name": "Vou Seguir",
-      "url": "https://open.spotify.com/track/7HQ4iOLhrrTAna6RuciH5E"
     },
     {
       "added_at": null,

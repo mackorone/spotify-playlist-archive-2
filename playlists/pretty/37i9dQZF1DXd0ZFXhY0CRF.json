@@ -1,6 +1,6 @@
 {
   "description": "The women whose music and influence rock our world. Cover: Violet Grohl",
-  "num_followers": 807690,
+  "num_followers": 807903,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 207652,
-      "name": "This Is Why",
-      "url": "https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "Beauty And The Beat",
         "url": "https://open.spotify.com/album/1L4HE00En7eNK74voVZums"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 167960,
       "name": "Our Lips Are Sealed - Single Version",
       "url": "https://open.spotify.com/track/1GVnAD8Iz45rux6EC657Yv"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 207652,
+      "name": "This Is Why",
+      "url": "https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 274706,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "To Bring You My Love",
         "url": "https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 201372,
       "name": "Mirtazapine",
       "url": "https://open.spotify.com/track/2FFXU4b8sIsiLiTo6EWO19"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 274706,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "For I Am Death",
-        "url": "https://open.spotify.com/album/7LnfxsUCMGkJfwQm969CKM"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 219395,
-      "name": "For I Am Death",
-      "url": "https://open.spotify.com/track/3K85nEutdOPbJuAJgoe2O4"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "Cartoon Darkness",
         "url": "https://open.spotify.com/album/6yubtXRtg07Pd4REHb6lc7"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 204773,
       "name": "U Should Not Be Doing That",
       "url": "https://open.spotify.com/track/6zfVBdPDopmP36NeHd4O2m"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "For I Am Death",
+        "url": "https://open.spotify.com/album/7LnfxsUCMGkJfwQm969CKM"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 219395,
+      "name": "For I Am Death",
+      "url": "https://open.spotify.com/track/3K85nEutdOPbJuAJgoe2O4"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "No Obligation",
-        "url": "https://open.spotify.com/album/0hHBHXLrTlYfLXrp8yb6N6"
-      },
-      "artists": [
-        {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
-        }
-      ],
-      "duration_ms": 201187,
-      "name": "All In My Head",
-      "url": "https://open.spotify.com/track/7uHpXA3rYfs1EqFHogCwDj"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "Dig Me Out (Remastered)",
         "url": "https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 160919,
       "name": "Dig Me Out",
       "url": "https://open.spotify.com/track/1YdCuoPvDDVyHa3YomPb1B"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "No Obligation",
+        "url": "https://open.spotify.com/album/0hHBHXLrTlYfLXrp8yb6N6"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 201187,
+      "name": "All In My Head",
+      "url": "https://open.spotify.com/track/7uHpXA3rYfs1EqFHogCwDj"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "Wireless",
-        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 281380,
-      "name": "Wireless",
-      "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
         "name": "Victim Of Luck",
         "url": "https://open.spotify.com/album/4RcM2L1fg6E8uL3t1H355B"
       },
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
-        "name": "My Apologies To The Chef",
-        "url": "https://open.spotify.com/album/2VKfhxfIcAcYObO8qJEXA0"
+        "name": "Wireless",
+        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
       },
       "artists": [
         {
-          "name": "Winona Fighter",
-          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 174778,
-      "name": "You Look Like A Drunk Phoebe Bridgers",
-      "url": "https://open.spotify.com/track/49z8uMXflgtt6eQ3x7NRTN"
+      "duration_ms": 281380,
+      "name": "Wireless",
+      "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -1355,6 +1339,22 @@
       "duration_ms": 181453,
       "name": "Modern Girl",
       "url": "https://open.spotify.com/track/2GOQVqZ3uVp7LKVAY1T0mk"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
+        "name": "My Apologies To The Chef",
+        "url": "https://open.spotify.com/album/2VKfhxfIcAcYObO8qJEXA0"
+      },
+      "artists": [
+        {
+          "name": "Winona Fighter",
+          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+        }
+      ],
+      "duration_ms": 174778,
+      "name": "You Look Like A Drunk Phoebe Bridgers",
+      "url": "https://open.spotify.com/track/49z8uMXflgtt6eQ3x7NRTN"
     },
     {
       "added_at": "2026-05-01 18:02:47",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-05-01 18:02:47",
       "album": {
+        "name": "Exile In Guyville (2018 Remaster)",
+        "url": "https://open.spotify.com/album/7sCpW2cLGcRk1zf9zi0Yqd"
+      },
+      "artists": [
+        {
+          "name": "Liz Phair",
+          "url": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+        }
+      ],
+      "duration_ms": 196213,
+      "name": "Never Said - 2018 Remaster",
+      "url": "https://open.spotify.com/track/1iOJzlWm2p8NOFYVHGGgq1"
+    },
+    {
+      "added_at": "2026-05-01 18:02:47",
+      "album": {
         "name": "Tiny Screens",
         "url": "https://open.spotify.com/album/1ZeGBiEqsfeO25dU7kid1p"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 227354,
       "name": "One Million",
       "url": "https://open.spotify.com/track/5IIt7FDYJOn3sMDOmTcVuN"
-    },
-    {
-      "added_at": "2026-05-01 18:02:47",
-      "album": {
-        "name": "Exile In Guyville (2018 Remaster)",
-        "url": "https://open.spotify.com/album/7sCpW2cLGcRk1zf9zi0Yqd"
-      },
-      "artists": [
-        {
-          "name": "Liz Phair",
-          "url": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
-        }
-      ],
-      "duration_ms": 196213,
-      "name": "Never Said - 2018 Remaster",
-      "url": "https://open.spotify.com/track/1iOJzlWm2p8NOFYVHGGgq1"
     },
     {
       "added_at": "2026-05-01 18:02:47",

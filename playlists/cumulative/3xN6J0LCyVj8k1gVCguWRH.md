@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,399 songs - 14 day 22 hr 9 min
+6,400 songs - 14 day 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4393,6 +4393,7 @@
 | [Pull Me Under](https://open.spotify.com/track/0zn3fYJWDNQSeczvT8YdIp) | [Burko](https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ) | [Pull Me Under](https://open.spotify.com/album/1GCQ1N8wLN4zgo8sntuBFR) | 5:59 | 2020-05-22 | 2020-06-01 |
 | [Pull Up](https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Pull Up](https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq) | 2:51 | 2022-07-26 | 2024-04-30 |
 | [Pullin Me Back](https://open.spotify.com/track/7BhKKNDJJwHVdUnoCILbhY) | [Adrian Acapella](https://open.spotify.com/artist/0JvHmHWQAEG07RMH3Va3Td), [Yung Abundance](https://open.spotify.com/artist/2pgBRPga2Y72RSjwDTBVF0) | [Introducing Smooth Turn up Music](https://open.spotify.com/album/5dR0rmrKdaPnPJr3DFsWpz) | 2:41 | 2025-03-05 | 2025-03-17 |
+| [Pulling Me Away](https://open.spotify.com/track/2I37HVgY8h6Myf6NRTR18J) | [Gracie Ella](https://open.spotify.com/artist/3HjHBNeLc1IOdv8BMgFrXj) | [Pulling Me Away](https://open.spotify.com/album/3eqGgwgfAtV7HXuS0EqaCI) | 2:38 | 2026-08-09 |  |
 | [PUNCH DRUNK](https://open.spotify.com/track/4qvwKZZDO2FKjxvY0ggokJ) | [Phantom Sugar](https://open.spotify.com/artist/4r75bJsAkat7raE5mplgKR) | [HABITUAL](https://open.spotify.com/album/3QHvckwzHrVGYDSBIiA4Ea) | 2:01 | 2024-11-14 | 2024-11-27 |
 | [Punching Up](https://open.spotify.com/track/23oR5nVQjEagflYzT6hU8p) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2), [Daron.](https://open.spotify.com/artist/1VjgVjThC1RxttpTp9kT0i) | [Punching Up](https://open.spotify.com/album/1d0ulSk9lz7EHeMzbjoiaS) | 2:30 | 2024-08-30 | 2024-09-12 |
 | [Punk Ass](https://open.spotify.com/track/6kV3ziIHE6gIg4tbgoZIEF) | [Joey Aronskind](https://open.spotify.com/artist/2gdTcpZhwzAtoAJYNDysAk) | [Berlin I](https://open.spotify.com/album/6U6fIsCGL3tSnceBghGmhM) | 2:31 | 2024-06-29 | 2024-07-11 |

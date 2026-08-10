@@ -909,6 +909,28 @@
     },
     {
       "album": {
+        "name": "TSIDKENU (Live)",
+        "url": "https://open.spotify.com/album/3Cga2bS84fMZpXNtqAYQCk"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Favour Ojo",
+          "url": "https://open.spotify.com/artist/3cQ7XTvsGfuO0PrtpplBPJ"
+        }
+      ],
+      "date_added": "2026-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 714893,
+      "name": "TSIDKENU - Live",
+      "url": "https://open.spotify.com/track/2PH30h7yJ55mP3SjbKTJhs"
+    },
+    {
+      "album": {
         "name": "Urhobo/Isoko Worship Medley",
         "url": "https://open.spotify.com/album/2zt8IYtst7tlmKowEtf9uY"
       },

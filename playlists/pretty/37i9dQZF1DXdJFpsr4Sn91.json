@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 59791,
+  "num_followers": 59781,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Pelkk\u00e4 kirosana",
-        "url": "https://open.spotify.com/album/69BJtiqmsfk2WkiuImEEYY"
-      },
-      "artists": [
-        {
-          "name": "helmi marleena",
-          "url": "https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK"
-        }
-      ],
-      "duration_ms": 192949,
-      "name": "Pelkk\u00e4 kirosana",
-      "url": "https://open.spotify.com/track/2LnXnh1HRlznaDtf5LrFOa"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "Kuka nauraa nyt",
         "url": "https://open.spotify.com/album/0sUq8q0GStH00NE6nDCVWX"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 175609,
       "name": "Kuka nauraa nyt",
       "url": "https://open.spotify.com/track/7GHKkXzjDJmjFB67KjhtHZ"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Pelkk\u00e4 kirosana",
+        "url": "https://open.spotify.com/album/69BJtiqmsfk2WkiuImEEYY"
+      },
+      "artists": [
+        {
+          "name": "helmi marleena",
+          "url": "https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK"
+        }
+      ],
+      "duration_ms": 192949,
+      "name": "Pelkk\u00e4 kirosana",
+      "url": "https://open.spotify.com/track/2LnXnh1HRlznaDtf5LrFOa"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -679,26 +679,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Hei Supermario (feat. Samuell)",
-        "url": "https://open.spotify.com/album/3fyr79gc97RFsMlZnefk6Z"
-      },
-      "artists": [
-        {
-          "name": "DOG HUSTLERS",
-          "url": "https://open.spotify.com/artist/3BH7RY390iBJjKx696bIpb"
-        },
-        {
-          "name": "Samuell",
-          "url": "https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV"
-        }
-      ],
-      "duration_ms": 114206,
-      "name": "Hei Supermario (feat. Samuell)",
-      "url": "https://open.spotify.com/track/3QWM72gaz0yoRobb9A014a"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "El\u00e4k\u00f6\u00f6n el\u00e4m\u00e4",
         "url": "https://open.spotify.com/album/6e01m6cB2ym4pYjW6eRx89"
       },
@@ -715,6 +695,22 @@
       "duration_ms": 199469,
       "name": "El\u00e4k\u00f6\u00f6n el\u00e4m\u00e4",
       "url": "https://open.spotify.com/track/5UmUoihlRQHchy2bt59YsL"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Ter\u00e4lehti",
+        "url": "https://open.spotify.com/album/27dC1j8a4OPjwgD71idjJr"
+      },
+      "artists": [
+        {
+          "name": "Juuna Chill",
+          "url": "https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78"
+        }
+      ],
+      "duration_ms": 148374,
+      "name": "Ter\u00e4lehti",
+      "url": "https://open.spotify.com/track/7qOfaHhszShFogrKzTcudQ"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -739,18 +735,22 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Ter\u00e4lehti",
-        "url": "https://open.spotify.com/album/27dC1j8a4OPjwgD71idjJr"
+        "name": "Hei Supermario (feat. Samuell)",
+        "url": "https://open.spotify.com/album/3fyr79gc97RFsMlZnefk6Z"
       },
       "artists": [
         {
-          "name": "Juuna Chill",
-          "url": "https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78"
+          "name": "DOG HUSTLERS",
+          "url": "https://open.spotify.com/artist/3BH7RY390iBJjKx696bIpb"
+        },
+        {
+          "name": "Samuell",
+          "url": "https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV"
         }
       ],
-      "duration_ms": 148374,
-      "name": "Ter\u00e4lehti",
-      "url": "https://open.spotify.com/track/7qOfaHhszShFogrKzTcudQ"
+      "duration_ms": 114206,
+      "name": "Hei Supermario (feat. Samuell)",
+      "url": "https://open.spotify.com/track/3QWM72gaz0yoRobb9A014a"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Jengi tekee sen virheen",
-        "url": "https://open.spotify.com/album/5dDfkrgcQ6nkqDiOhVCH96"
-      },
-      "artists": [
-        {
-          "name": "Pilven Piirt\u00e4j\u00e4t",
-          "url": "https://open.spotify.com/artist/2TXeAvWZHD0hW66yk5SZ2t"
-        }
-      ],
-      "duration_ms": 180880,
-      "name": "Jengi tekee sen virheen",
-      "url": "https://open.spotify.com/track/7792JXlYkHSXvk8bPUFUOa"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "en tunne",
         "url": "https://open.spotify.com/album/6cDfwvDCGoGFCPRb5A4FHb"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 181607,
       "name": "en tunne",
       "url": "https://open.spotify.com/track/6d3Wi6MvD5bxaPJajXBiZt"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Jengi tekee sen virheen",
+        "url": "https://open.spotify.com/album/5dDfkrgcQ6nkqDiOhVCH96"
+      },
+      "artists": [
+        {
+          "name": "Pilven Piirt\u00e4j\u00e4t",
+          "url": "https://open.spotify.com/artist/2TXeAvWZHD0hW66yk5SZ2t"
+        }
+      ],
+      "duration_ms": 180880,
+      "name": "Jengi tekee sen virheen",
+      "url": "https://open.spotify.com/track/7792JXlYkHSXvk8bPUFUOa"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -903,26 +903,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Rockstar (feat. Janna)",
-        "url": "https://open.spotify.com/album/4RvjDCkML2vMayyXsofQKZ"
-      },
-      "artists": [
-        {
-          "name": "Aste",
-          "url": "https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL"
-        },
-        {
-          "name": "JANNA",
-          "url": "https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3"
-        }
-      ],
-      "duration_ms": 174900,
-      "name": "Rockstar (feat. Janna)",
-      "url": "https://open.spotify.com/track/5KWylYB9XbM8X0oQY2zvqR"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "Takas sun luo",
         "url": "https://open.spotify.com/album/4c2OE3BKnHjXIbLv5Ovf7E"
       },
@@ -955,6 +935,26 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
+        "name": "Rockstar (feat. Janna)",
+        "url": "https://open.spotify.com/album/4RvjDCkML2vMayyXsofQKZ"
+      },
+      "artists": [
+        {
+          "name": "Aste",
+          "url": "https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL"
+        },
+        {
+          "name": "JANNA",
+          "url": "https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3"
+        }
+      ],
+      "duration_ms": 174900,
+      "name": "Rockstar (feat. Janna)",
+      "url": "https://open.spotify.com/track/5KWylYB9XbM8X0oQY2zvqR"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
         "name": "Prima bailarina",
         "url": "https://open.spotify.com/album/40TSNJJdAQ5n5m7MvEiedF"
       },
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Running Through My Head",
-        "url": "https://open.spotify.com/album/1Tap373TJJ0bN1YzMohbXj"
-      },
-      "artists": [
-        {
-          "name": "Robin Packalen",
-          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
-        }
-      ],
-      "duration_ms": 159969,
-      "name": "Running Through My Head",
-      "url": "https://open.spotify.com/track/1o88DMOCUYqQC2AQM824gV"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "Ennen sua",
         "url": "https://open.spotify.com/album/5pBEiUE07GNnHV5dl4mHdz"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 168693,
       "name": "Ennen sua",
       "url": "https://open.spotify.com/track/0xb7htv9v9ylxcYI1fOLDR"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Running Through My Head",
+        "url": "https://open.spotify.com/album/1Tap373TJJ0bN1YzMohbXj"
+      },
+      "artists": [
+        {
+          "name": "Robin Packalen",
+          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
+        }
+      ],
+      "duration_ms": 159969,
+      "name": "Running Through My Head",
+      "url": "https://open.spotify.com/track/1o88DMOCUYqQC2AQM824gV"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Santana",
-        "url": "https://open.spotify.com/album/1fBQfan1acewdtJ0lt0DnT"
-      },
-      "artists": [
-        {
-          "name": "Jenni & Juho",
-          "url": "https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp"
-        }
-      ],
-      "duration_ms": 172186,
-      "name": "Santana",
-      "url": "https://open.spotify.com/track/598SWcATgKhBcyhtMJBNgR"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "Ymp\u00e4ri maailmaa",
         "url": "https://open.spotify.com/album/3PPoGONHbrijon7eHSJkFR"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 158000,
       "name": "Ymp\u00e4ri maailmaa",
       "url": "https://open.spotify.com/track/78k4zRWQ3gfREahzHXZCor"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Santana",
+        "url": "https://open.spotify.com/album/1fBQfan1acewdtJ0lt0DnT"
+      },
+      "artists": [
+        {
+          "name": "Jenni & Juho",
+          "url": "https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp"
+        }
+      ],
+      "duration_ms": 172186,
+      "name": "Santana",
+      "url": "https://open.spotify.com/track/598SWcATgKhBcyhtMJBNgR"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Pallo jalast",
-        "url": "https://open.spotify.com/album/3faUCwH6s8olakIMxp7ps8"
-      },
-      "artists": [
-        {
-          "name": "Ramses II",
-          "url": "https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC"
-        }
-      ],
-      "duration_ms": 138773,
-      "name": "Pallo jalast",
-      "url": "https://open.spotify.com/track/4f6PlhctwuxoKdbkw0dJ3d"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "V\u00e4rit",
         "url": "https://open.spotify.com/album/2lihJzuMtlNJASqgaIKFRA"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 169846,
       "name": "V\u00e4rit",
       "url": "https://open.spotify.com/track/0wvcMn4YYcmdAzvcvJkRZQ"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Pallo jalast",
+        "url": "https://open.spotify.com/album/3faUCwH6s8olakIMxp7ps8"
+      },
+      "artists": [
+        {
+          "name": "Ramses II",
+          "url": "https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC"
+        }
+      ],
+      "duration_ms": 138773,
+      "name": "Pallo jalast",
+      "url": "https://open.spotify.com/track/4f6PlhctwuxoKdbkw0dJ3d"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Rakastan teit\u00e4 kaikkia",
-        "url": "https://open.spotify.com/album/07zrgkpshBt5YmV10Hwl9o"
-      },
-      "artists": [
-        {
-          "name": "Olavi Uusivirta",
-          "url": "https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV"
-        }
-      ],
-      "duration_ms": 242640,
-      "name": "Rakastan teit\u00e4 kaikkia",
-      "url": "https://open.spotify.com/track/6HVdu7bH9m4IYcxnEY8Htk"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "Kuka Vaan",
         "url": "https://open.spotify.com/album/0nm1pGaRjoY0P8nAogDGXr"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 142285,
       "name": "Kuka Vaan",
       "url": "https://open.spotify.com/track/6mdRQoDI0ojsAIsJcpAQlV"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Rakastan teit\u00e4 kaikkia",
+        "url": "https://open.spotify.com/album/07zrgkpshBt5YmV10Hwl9o"
+      },
+      "artists": [
+        {
+          "name": "Olavi Uusivirta",
+          "url": "https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV"
+        }
+      ],
+      "duration_ms": 242640,
+      "name": "Rakastan teit\u00e4 kaikkia",
+      "url": "https://open.spotify.com/track/6HVdu7bH9m4IYcxnEY8Htk"
     },
     {
       "added_at": "2026-06-25 21:00:31",

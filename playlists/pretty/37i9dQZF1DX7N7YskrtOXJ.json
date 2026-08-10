@@ -1,6 +1,6 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 127333,
+  "num_followers": 127353,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
+        "name": "Amor Entre S\u00e1banas",
+        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
+      },
+      "artists": [
+        {
+          "name": "La Noche",
+          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
+        }
+      ],
+      "duration_ms": 219358,
+      "name": "L\u00e1stima",
+      "url": "https://open.spotify.com/track/2ndgJ8HW0gqQnJwKUCJdm6"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
         "name": "Una Cerveza",
         "url": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 202706,
       "name": "Gotitas",
       "url": "https://open.spotify.com/track/2hVciOpMaH3ZkXHUjn4mS6"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
-        "name": "Amor Entre S\u00e1banas",
-        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
-      },
-      "artists": [
-        {
-          "name": "La Noche",
-          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
-        }
-      ],
-      "duration_ms": 219358,
-      "name": "L\u00e1stima",
-      "url": "https://open.spotify.com/track/2ndgJ8HW0gqQnJwKUCJdm6"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -815,6 +815,22 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
+        "name": "En Tu Cuarto",
+        "url": "https://open.spotify.com/album/1gxuJDFiKPibw5TAZ9NXqJ"
+      },
+      "artists": [
+        {
+          "name": "La Noche",
+          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
+        }
+      ],
+      "duration_ms": 220266,
+      "name": "Quiero Ser Libre",
+      "url": "https://open.spotify.com/track/5IYYyNV4ly1IFNBFLQO6ge"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
         "name": "Si Te Vas (Vivo)",
         "url": "https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM"
       },
@@ -851,22 +867,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "En Tu Cuarto",
-        "url": "https://open.spotify.com/album/1gxuJDFiKPibw5TAZ9NXqJ"
-      },
-      "artists": [
-        {
-          "name": "La Noche",
-          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
-        }
-      ],
-      "duration_ms": 220266,
-      "name": "Quiero Ser Libre",
-      "url": "https://open.spotify.com/track/5IYYyNV4ly1IFNBFLQO6ge"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "No Me Digas Adios",
         "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
       },
@@ -895,6 +895,22 @@
       "duration_ms": 224560,
       "name": "Chiquilla Bonita",
       "url": "https://open.spotify.com/track/2vQVZ8NkPTkKnRNa69107H"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Amor Entre S\u00e1banas",
+        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
+      },
+      "artists": [
+        {
+          "name": "La Noche",
+          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
+        }
+      ],
+      "duration_ms": 201827,
+      "name": "Amor Sobre 4 Ruedas",
+      "url": "https://open.spotify.com/track/2ITePMEKaSYFFoD9Lc3z4f"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -931,22 +947,6 @@
       "duration_ms": 209005,
       "name": "Boquita De Caramelo",
       "url": "https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
-        "name": "Amor Entre S\u00e1banas",
-        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
-      },
-      "artists": [
-        {
-          "name": "La Noche",
-          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
-        }
-      ],
-      "duration_ms": 201827,
-      "name": "Amor Sobre 4 Ruedas",
-      "url": "https://open.spotify.com/track/2ITePMEKaSYFFoD9Lc3z4f"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "\u00bfC\u00f3mo Te Explico?",
-        "url": "https://open.spotify.com/album/7xYBX4ndfTPCfLzpuIwJoK"
-      },
-      "artists": [
-        {
-          "name": "Baketha",
-          "url": "https://open.spotify.com/artist/5EnlVsNjGwBWWexlQoO1sX"
-        },
-        {
-          "name": "Pushi",
-          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
-        }
-      ],
-      "duration_ms": 189231,
-      "name": "\u00bfC\u00f3mo Te Explico?",
-      "url": "https://open.spotify.com/track/3SKg1RSmLkyV81MU7DFIcY"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Rompi",
         "url": "https://open.spotify.com/album/3rogzlBO7odVe65Vr8fv78"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 193608,
       "name": "Rompi",
       "url": "https://open.spotify.com/track/7mukVrTuo5b3SOBWaA8F5P"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "\u00bfC\u00f3mo Te Explico?",
+        "url": "https://open.spotify.com/album/7xYBX4ndfTPCfLzpuIwJoK"
+      },
+      "artists": [
+        {
+          "name": "Baketha",
+          "url": "https://open.spotify.com/artist/5EnlVsNjGwBWWexlQoO1sX"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        }
+      ],
+      "duration_ms": 189231,
+      "name": "\u00bfC\u00f3mo Te Explico?",
+      "url": "https://open.spotify.com/track/3SKg1RSmLkyV81MU7DFIcY"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/3Sgf6BKnsUYi1NhceV8Xgf"
+      },
+      "artists": [
+        {
+          "name": "Grupo Hechizo Chile",
+          "url": "https://open.spotify.com/artist/0vPUBMfIYujmPFD1OwdfTM"
+        }
+      ],
+      "duration_ms": 192496,
+      "name": "Romance Ilegal",
+      "url": "https://open.spotify.com/track/1hIO3CXZoRqO2457LOCAJt"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
         "name": "Onda Nueva",
         "url": "https://open.spotify.com/album/55KEMrdQ5yKqanjD9OyX3T"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 251146,
       "name": "La Cumbia De Los Trapos",
       "url": "https://open.spotify.com/track/3hFYJSfGQgEOXfMAHL30Tl"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/3Sgf6BKnsUYi1NhceV8Xgf"
-      },
-      "artists": [
-        {
-          "name": "Grupo Hechizo Chile",
-          "url": "https://open.spotify.com/artist/0vPUBMfIYujmPFD1OwdfTM"
-        }
-      ],
-      "duration_ms": 192496,
-      "name": "Romance Ilegal",
-      "url": "https://open.spotify.com/track/1hIO3CXZoRqO2457LOCAJt"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
+        "name": "Plato \u00danico Bailable",
+        "url": "https://open.spotify.com/album/14cao29REfwt7L3liH4hQh"
+      },
+      "artists": [
+        {
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
+        }
+      ],
+      "duration_ms": 188053,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
         "name": "Qui\u00e9reme",
         "url": "https://open.spotify.com/album/4M0d3bxdMp3u48eEpbxPoU"
       },
@@ -1667,18 +1683,18 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Plato \u00danico Bailable",
-        "url": "https://open.spotify.com/album/14cao29REfwt7L3liH4hQh"
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/3Sgf6BKnsUYi1NhceV8Xgf"
       },
       "artists": [
         {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
+          "name": "Grupo Hechizo Chile",
+          "url": "https://open.spotify.com/artist/0vPUBMfIYujmPFD1OwdfTM"
         }
       ],
-      "duration_ms": 188053,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f"
+      "duration_ms": 210285,
+      "name": "No Te Dejes",
+      "url": "https://open.spotify.com/track/1wxtqsneeTjeuUa86ZE6zX"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1699,22 +1715,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Alg\u00fan D\u00eda Volver\u00e1s",
-        "url": "https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i"
-      },
-      "artists": [
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        }
-      ],
-      "duration_ms": 253822,
-      "name": "Alg\u00fan D\u00eda Volver\u00e1s",
-      "url": "https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Como la Flor",
         "url": "https://open.spotify.com/album/0sFQOhf7QVnWlQzkOnyTyp"
       },
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Onda Tropical",
-        "url": "https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu"
+        "name": "Alg\u00fan D\u00eda Volver\u00e1s",
+        "url": "https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i"
       },
       "artists": [
         {
-          "name": "Amerika'n Sound",
-          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
         }
       ],
-      "duration_ms": 255160,
-      "name": "Acercate MI Amor",
-      "url": "https://open.spotify.com/track/0drMB4P0bjoRrSQTKKlpkx"
+      "duration_ms": 253822,
+      "name": "Alg\u00fan D\u00eda Volver\u00e1s",
+      "url": "https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC"
     }
   ],
   "unique_name": "Cumbias para carretear",

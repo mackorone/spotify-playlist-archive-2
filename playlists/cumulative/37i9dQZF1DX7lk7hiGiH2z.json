@@ -1853,6 +1853,28 @@
     },
     {
       "album": {
+        "name": "Die Kinder spielen verr\u00fcckt",
+        "url": "https://open.spotify.com/album/4CJ38wAW6yjaajNaG4cTWh"
+      },
+      "artists": [
+        {
+          "name": "Donots",
+          "url": "https://open.spotify.com/artist/2gRgzV2ooQwweEr4s7lwsg"
+        },
+        {
+          "name": "Deine Freunde",
+          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
+        }
+      ],
+      "date_added": "2026-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174691,
+      "name": "Die Kinder spielen verr\u00fcckt",
+      "url": "https://open.spotify.com/track/0u6j3BVUJgq3CAkW9ogah6"
+    },
+    {
+      "album": {
         "name": "Das Weihnachtsalbum",
         "url": "https://open.spotify.com/album/5Lvy6ZClAUg6UcDKkLaUU4"
       },
@@ -2026,7 +2048,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-10",
       "duration_ms": 169773,
       "name": "Disco Kinder (Minis Maxis)",
       "url": "https://open.spotify.com/track/6eEyiLb4fZxdBZ6vWJMr5G"
